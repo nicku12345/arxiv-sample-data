@@ -1,0 +1,1 @@
+The soft tori constitute a continuous deformation, in a very precise sense, from the commutative C*-algebra C(T^2) to the highly non-commutative C*-algebra C*(F_2). Since both of these C*-algebras are known to have a separating family of finite dimensional representations, it is natural to ask whether that is also the case for the soft tori. We show that this is in fact the case.

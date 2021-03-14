@@ -1,0 +1,1 @@
+Let \Gamma denote a Q-polynomial distance-regular graph with diameter at least three and standard module V. We introduce two direct sum decompositions of V. We call these the displacement decomposition for \Gamma and the split decomposition for \Gamma. We describe how these decompositions are related.

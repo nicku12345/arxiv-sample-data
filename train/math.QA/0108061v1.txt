@@ -1,0 +1,1 @@
+In this article, we address one of the questions raised by Marc Rieffel in his collection of questions on deformation quantization. The question is whether the K-groups remain the same under flabby strict deformation quantizations. By "deforming" the question slightly, we produce a negative answer to the question.

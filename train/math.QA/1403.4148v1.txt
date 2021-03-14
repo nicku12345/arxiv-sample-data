@@ -1,0 +1,1 @@
+A Hopf algebra object in Loday and Pirashvili's category of linear maps entails an ordinary Hopf algebra and a Yetter-Drinfel'd module. We equip the latter with a structure of a braided Leibniz algebra. This provides a unified framework for examples of racks in the category of coalgebras discussed recently by Carter, Crans, Elhamdadi and Saito.

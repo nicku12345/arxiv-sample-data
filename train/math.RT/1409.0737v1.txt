@@ -1,0 +1,1 @@
+We decompose the twisted Foulkes characters \phi^{(2^n)}_\nu, or equivalently the plethysm s_\nu \circ s_{(2)}, in the cases where \nu has either two rows or two columns, or is a hook partition.

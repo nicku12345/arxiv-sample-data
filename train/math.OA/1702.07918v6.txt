@@ -1,0 +1,1 @@
+The concept of quantization consists in replacing commutative quantities by noncommutative ones. In mathematical language an algebra of continuous functions on a locally compact topological space is replaced with a noncommutative C^*-algebra. Some classical topological notions have noncommutative generalizations. This article is concerned with a generalization of coverings.

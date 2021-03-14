@@ -1,0 +1,1 @@
+Let (R,\mathfrak{m},K) be an F-finite Noetherian local ring which has a canonical ideal I \subsetneq R. We prove that if R is S_2 and H^{d-1}_{\mathfrak{m}}(R/I) is a simple R\{F\}-module, then R is a strongly F-regular ring. In particular, under these assumptions, R is a Cohen-Macaulay normal domain.

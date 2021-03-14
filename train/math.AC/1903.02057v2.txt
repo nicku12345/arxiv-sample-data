@@ -1,0 +1,1 @@
+In this paper, we study good semigroups of \mathbb{N}^n, a class of semigroups that contains the value semigroups of algebroid curves with n branches. We give the definition of embedding dimension of a good semigroup showing that, in the case of good semigroups of \mathbb{N}^2, some of its properties agree with the analogue concepts defined for numerical semigroups.

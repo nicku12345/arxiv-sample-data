@@ -1,0 +1,1 @@
+Fix an infinite field k of characteristic p, and let \g be the Kac-Moody algebra \mathfrak{sl}_{\infty} if p=0 and \hat{\mathfrak{sl}}_p otherwise. Let \PP denote the category of strict polynomial functors defined over k. We describe a \g-action on \PP (in the sense of Chuang and Rouquier) categorifying the Fock space representation of \g.

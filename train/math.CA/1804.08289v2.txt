@@ -1,0 +1,1 @@
+We find a counterexample to a conjecture of Ga{\l}\k{e}ski by constructing for some positive integers m<n a mapping f\in C^1(\mathbb{R}^n,\mathbb{R}^n) satisfying \mathrm{rank}\, Df\leq m that, even locally, cannot be uniformly approximated by C^2 mappings f_\varepsilon satisfying the same rank constraint \mathrm{rank}\, Df_\varepsilon\leq m.

@@ -1,0 +1,1 @@
+We classify the pivotal structures of the Drinfeld center \mathcal{Z}(\mathcal{C}) of a finite tensor category \mathcal{C}. As a consequence, every pivotal structure of \mathcal{Z}(\mathcal{C}) can be obtained from a pair (\beta, j) consisting of an invertible object \beta of \mathcal{C} and an isomorphism j: \beta \otimes (-) \otimes \beta^* \to (-)^{**} of monoidal functors.

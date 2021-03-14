@@ -1,0 +1,1 @@
+We prove that, for any type III_1 free product factor, its continuous core is full if and only if its \tau-invariant is the usual topology on the real line. This trivially implies, as a particular case, the same result for free Araki--Woods factors. Moreover, our method shows the same result for full (generalized) Bernoulli crossed product factors of type III_1.

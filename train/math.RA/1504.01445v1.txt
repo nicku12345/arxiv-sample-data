@@ -1,0 +1,1 @@
+For a metric space (A,d), and a set \Sigma of equations, some quantities are introduced that measure the size of discontinuities that must occur in operations satisfying \Sigma (identically) on A. We are able to evaluate these quantities in a few easy cases.}

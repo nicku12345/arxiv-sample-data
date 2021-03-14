@@ -1,0 +1,1 @@
+In this note we show that a connected, closed and locally convex subset (with an extra assumption on the diameter with respect to the induced length metric if \kappa>0) of a CAT(\kappa) space is convex.

@@ -1,0 +1,1 @@
+In this paper we consider a Robin-type Laplace operator on bounded domains. We study the dependence of its lowest eigenvalue on the boundary conditions and its asymptotic behavior in shrinking and expanding domains. For convex domains we establish two-sided estimates on the lowest eigenvalues in terms of the inradius and of the boundary conditions.

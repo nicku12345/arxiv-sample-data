@@ -1,0 +1,1 @@
+We introduce the notion of a nest-representable tolerance and show that some results from our former paper "From congruence identities to tolerance identities" [CT] can be extended to this more general setting.

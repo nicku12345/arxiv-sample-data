@@ -1,0 +1,1 @@
+This paper proves lower bounds on the volume of a hyperbolic 3-orbifold whose singular locus is a link. We identify the unique smallest volume orbifold whose singular locus is a knot or link in the 3-sphere, or more generally in a Z_6 homology sphere. We also prove more general lower bounds under mild homological hypotheses.

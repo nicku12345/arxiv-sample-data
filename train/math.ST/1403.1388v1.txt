@@ -1,0 +1,1 @@
+We define a new basis of cubic splines such that the coordinates of a natural cubic spline are sparse. We use it to analyse and to extend the classical Schoenberg and Reinsch result and to estimate a noisy cubic spline. We also discuss the choice of the smoothing parameter. All our results are illustrated graphically.

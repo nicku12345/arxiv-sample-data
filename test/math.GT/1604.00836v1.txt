@@ -1,0 +1,1 @@
+We prove two results on the classification of trivial Legendrian embeddings g: G \rightarrow (S^3,\xi_{std}) of planar graphs. First, the oriented Legendrian ribbon R_g and rotation invariant \text{rot}_g are a complete set of invariants. Second, if G is 3-connected or contains K_4 as a minor, then the unique trivial embedding of G is Legendrian simple.

@@ -1,0 +1,1 @@
+In this paper, we introduced the concept of a p-ideal for a given ring. We provide necessary and sufficient condition for \dfrac{R[x]}{(f(x))} to be a p-ring, where R is a finite p-ring. It is also shown that the amalgamation of rings, A\bowtie^fJ is a p-ring if and only if so is A and J is a p-ideal. Finally, we establish the transfer of this notion to trivial ring extensions.

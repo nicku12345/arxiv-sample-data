@@ -1,0 +1,1 @@
+We study twisted conjugacy classes of a family of groups which are called Houghton's groups \mathcal{H}_n (n \in\mathbb{N}), the group of translations of n rays of discrete points at infinity. We prove that the Houghton's groups \mathcal{H}_n have the R_{\infty} property for all n\in \mathbb{N}.

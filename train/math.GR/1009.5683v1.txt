@@ -1,0 +1,1 @@
+We develop some new topological tools to study maximal subgroups of free idempotent generated semigroups. As an application, we show that the rank 1 component of the free idempotent generated semigroup of the biordered set of a full matrix monoid of n x n matrices, n>2 over a division ring Q has maximal subgroup isomorphic to the multiplicative subgroup of Q.

@@ -1,0 +1,1 @@
+In this short article we introduce so-called anisotropic (weight) Grand Lebesgue Spaces (more exactly, Grand Lebesgue-Riesz Spaces), which are generalization of the classical Lebesgue-Riesz Spaces and ordinary Grand Lebesgue Spaces, and investigate the boundedness of weight Riesz potential and weight Fourier transforms in this spaces.

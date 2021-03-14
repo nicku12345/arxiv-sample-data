@@ -1,0 +1,1 @@
+We show that if R is a compact domain in the complex plane with two or more holes and an anticonformal involution onto itself (or equivalently a hyperelliptic Schottky double), then there is an operator T which has R as a spectral set, but does not dilate to a normal operator with spectrum on the boundary of R.

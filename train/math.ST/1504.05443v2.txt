@@ -1,0 +1,1 @@
+This article provides some characterizations of extended COM-Poisson distribution: conditional distribution given the sum, functional operator characterization (Stein identity). We also give some conditions such that the extended COM-Poisson distribution is infinitely divisible, hence some subclass of extended COM-Poisson distributions are discrete compound Poisson distribution.

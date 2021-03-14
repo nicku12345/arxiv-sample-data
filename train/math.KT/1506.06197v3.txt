@@ -1,0 +1,1 @@
+This paper contains a construction of generators and partial relations for K_1 of a simplicial Waldhausen category where cofiber sequences split up to weak equivalence. The main application of these generators and relations is to produce generators for K_1 of a (simplicial) assembler.

@@ -1,0 +1,1 @@
+We prove that, for every integer n \ge 2, a finite or infinite countable group G can be embedded into a 2-generated group H in such a way that the solvability of quadratic equations of length at most n is preserved, i.e., every quadratic equation over G of length at most n has a solution in G if and only if this equation, considered as an equation over H, has a solution in H.

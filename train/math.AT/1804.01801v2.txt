@@ -1,0 +1,1 @@
+We prove that the tangent bundle of a generic space of planar n-gons with specified side lengths, identified under isometry, plus a trivial line bundle is isomorphic to (n-2) times a canonical line bundle. We then discuss consequences for orientability, cobordism class, immersions, and parallelizability.

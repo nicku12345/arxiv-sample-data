@@ -1,0 +1,1 @@
+We consider optimal control problems of systems governed by stationary, incompressible generalized Navier-Stokes equations with shear dependent viscosity in a two-dimensional or three-dimensional domain. We study a general class of viscosity functions including shear-thinning and shear-thickening behavior. We prove an existence result for such class of optimal control problems.

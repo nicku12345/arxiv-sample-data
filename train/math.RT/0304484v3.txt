@@ -1,0 +1,1 @@
+For a root system of type B we study an algebra similar to a graded Hecke algebra, isomorphic to a subalgebra of the rational Cherednik algebra. We introduce principal series modules over it and prove an irreducibility criterion for these modules. We deduce similar results for an algebra associated to a root system of type D.

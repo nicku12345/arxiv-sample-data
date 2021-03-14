@@ -1,0 +1,1 @@
+In this article, the exponentiated discrete Lindley distribution is presented and studied. Some important distributional properties are discussed. Using the maximum likelihood method, estimation of the model parameters is investigated. Furthermore, simulation study is performed to observe the performance of the estimates. Finally, the model with two real data sets is examined.

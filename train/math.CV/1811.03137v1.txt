@@ -1,0 +1,1 @@
+We construct a natural sequence of middle Hankel operators on the Fock space, i.e. operators which are intermediate between the small and big Hankel operators. These operators are connected with the minimal L^2-norm solution operator to \bar\partial^N as well as to the polyanalytic Fock spaces.

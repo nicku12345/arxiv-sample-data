@@ -1,0 +1,1 @@
+In this paper we give the height measure of p-adic balls. In other words, given any x\in Q_p, we give the chance that a random rational number r satisfies |r-x|_p <= \epsilon

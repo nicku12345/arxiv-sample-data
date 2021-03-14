@@ -1,0 +1,1 @@
+It is considered Fourier transform of convex analytic hypersufaces on R^{4} . We prove that the Fourier restriction operator associated to convex analytic hypersufaces is \textit{(L_{p}, L_{2})} bounded whenever 1\le p\le \frac{2h+2}{h+2}. The result is sharp.

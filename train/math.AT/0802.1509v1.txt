@@ -1,0 +1,1 @@
+The global structure of the unbounded derived category of a truncated polynomial ring on countably many generators is investigated, via its Bousfield lattice. The Bousfield lattice is shown to have cardinality larger than that of the real numbers, and objects with large tensor-nilpotence height are constructed.

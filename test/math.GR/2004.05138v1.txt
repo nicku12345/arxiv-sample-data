@@ -1,0 +1,1 @@
+Let G be a torsion-free abelian group of finite rank. The orbits of the action of Aut(G) on the set of maximal independent subsets of G determine the indecomposable decompositions of G. G contains a direct sum of pure strongly indecomposable groups as a subgroup of finite index.

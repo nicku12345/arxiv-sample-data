@@ -1,0 +1,1 @@
+Let X be a complex manifold and f\colon X\to \C^p a holomorphic mapping defining a complete intersection. We prove that the iterated Mellin transform of the residue integral associated to f has an analytic continuation to a neighborhood of the origin in \C^p.

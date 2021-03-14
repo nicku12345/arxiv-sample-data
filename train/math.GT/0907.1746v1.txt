@@ -1,0 +1,1 @@
+A cylindrical stretch line is a stretch line, in the sense of Thurston, whose horocyclic lamination is a weighted multicurve. In this paper, we show that two correctly parameterized cylindrical lines are parallel if and only if these lines converge towards the same point in Thurston's boundary of Teichm\"uller space.

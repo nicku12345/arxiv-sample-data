@@ -1,0 +1,1 @@
+The inductive blockwise Alperin weight condition is a system of conditions whose verification for all non-abelian finite simple groups would imply the blockwise Alperin weight conjecture. We establish this condition for the groups G_2(q), q \geq 5, and ^3D_4(q) for all primes dividing their order.

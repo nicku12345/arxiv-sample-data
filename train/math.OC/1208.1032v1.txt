@@ -1,0 +1,1 @@
+In this paper we establish hierarchic control for the linear heat equation in \re^N with potentials. Our strategy is inspired by the techniques developed by J.I. D\'iaz and J.-L. Lions \cite{DL}; however many new difficulties arise due to lack of compactness of Sobolev embeddings. We manage these adversities by employing similarity variables and weighted Sobolev spaces.

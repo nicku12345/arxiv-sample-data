@@ -1,0 +1,1 @@
+We give a concrete relation between Katz's middle convolution and Yokoyama's extension and show the equivalence of both algorithms using these operations for the reduction of Fuchsian systems.

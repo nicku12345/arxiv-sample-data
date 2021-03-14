@@ -1,0 +1,1 @@
+We show that the Feigenbaum-Cvitanovic equation can be interpreted as a linearizing equation, and the domain of analyticity of the Feigenbaum fixed point of renormalization as a basin of attraction. There is a natural decomposition of this basin which enables to recover a result of local connectivity by Jiang and Hu for the Feigenbaum Julia set.

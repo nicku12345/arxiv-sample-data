@@ -1,0 +1,1 @@
+Assuming an inaccessible cardinal kappa, there is a generic extension in which MA + 2^{aleph_0} = kappa holds and the reals have a Delta^2_1 well-ordering.

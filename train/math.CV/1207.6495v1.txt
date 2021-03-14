@@ -1,0 +1,1 @@
+For functions f(z)=z^p+a_{n+1}z^{p+1}+... defined on the open unit disk, the condition \Re (f'(z)/z^{p-1})>0 is sufficient for close-to-convexity of f. By making use of this result, several sufficient conditions for close-to-convexity are investigated and relevant connections with previously known results are indicated.

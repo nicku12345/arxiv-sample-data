@@ -1,0 +1,1 @@
+We analyze the Hermite polynomials H_{n}(x) and their zeros asymptotically, as n\to\infty. We obtain asymptotic approximations from the differential-difference equation which they satisfy, using the ray method. We give numerical examples showing the accuracy of our formulas.

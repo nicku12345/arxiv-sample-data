@@ -1,0 +1,1 @@
+In this paper, real matrix representations of split quaternions are examined in terms of the casual character of quaternion. Then, we give De-Moivre' s formula for real matrices of timelike and spacelike split quaternions, separately. Finally, we state the Euler theorem for real matrices of pure split quaternions.

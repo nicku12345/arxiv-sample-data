@@ -1,0 +1,1 @@
+Using Bar-Natan's Khovanov homology we define a homology theory for coloured, oriented, framed links. We then compute this explicitly.

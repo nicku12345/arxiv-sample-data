@@ -1,0 +1,1 @@
+We present a method to obtain symmetries for second-order systems of ordinary difference equations and how to use them to reduce the order. We also introduce a technique of finding conservation laws for such systems.

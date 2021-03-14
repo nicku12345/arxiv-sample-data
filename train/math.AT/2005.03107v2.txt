@@ -1,0 +1,1 @@
+For an odd prime p, we study the image of the Thom map from Brown-Peterson cohomology of BPU_n to the ordinary cohomology in dimensions 0\leq i\leq 2p+2, where BPU_n is the classifying space of the projective unitary group PU_n. Also we show that a family of well understood p-torsion cohomology classes y_{p,k}\in H^{2p^{k+1}+2}(BPU_n;Z_{(p)}) are in the image of the Thom map.

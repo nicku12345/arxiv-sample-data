@@ -1,0 +1,1 @@
+In this paper, we prove the existence of C^{1,1}-solution to the Dirichlet problem for degenerate elliptic k-Hessian equations S_{k}[u]=f under a condition which is weaker than the condition f^{1/k}\in C^{1,1}(\bar\Omega).

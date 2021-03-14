@@ -1,0 +1,1 @@
+We present an algorithm which determines the fundamental group of a spatial section using topspin networks. Tracking the topology of the spatial section is a unique feature of this approach, which is not possible in standard Loop Quantum Gravity. This leads to an example of spatial topology change in a smooth 4-manifold represented by a topspin foam.

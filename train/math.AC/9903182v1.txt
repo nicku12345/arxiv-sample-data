@@ -1,0 +1,1 @@
+Let F be an infinite field. We prove that the right zero divisors of a three-dimensional associative F-algebra A must form the union of at most finitely many linear subspaces of A. The proof is elementary and written with students as the intended audience.

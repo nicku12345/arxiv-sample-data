@@ -1,0 +1,1 @@
+In this article, we show that the Fredholm Lagrangian Grassmannian is homotopy equivalent with the space of compact perturbations of a fixed lagrangian. As a corollary, we obtain that the Maslov index with respect to a lagrangian is a isomorphism between the fundamental group of the Fredholm Lagrangian Grassmannian and the integers.

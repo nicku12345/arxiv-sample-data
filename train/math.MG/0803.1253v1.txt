@@ -1,0 +1,1 @@
+Assume that M is a closed hyperbolic 3-manifold fibering over the circle with fiber a closed orientable surface of genus g. We show that if M has large diameter and its injectivity radius is bounded below, then the rank of the fundamental group of M is 2g+1.

@@ -1,0 +1,1 @@
+We give an upper bound for the number of ``overlattices'' in the automorphism group of a tree, containing a fixed lattice with index n. For an example of a lattice in the automorphism group of a 2p-regular tree whose quotient is a loop, we obtain a lower bound of the asymptotic behavior as well.

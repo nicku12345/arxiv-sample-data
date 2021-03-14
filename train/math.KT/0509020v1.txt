@@ -1,0 +1,1 @@
+We provide an algorithmic method for constructing projective resolutions of modules over quotients of path algebras. This algorithm is modified to construct minimal projective resolutions of linear modules over Koszul algebras.

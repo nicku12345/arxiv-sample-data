@@ -1,0 +1,1 @@
+We prove a central limit theorem for an additive functional of the d-dimensional fractional Brownian motion with Hurst index H\in(\frac{1}{1+d},\frac{1}{d}), using the method of moments, extending the result by Papanicolaou, Stroock and Varadhan in the case of the standard Brownian motion.

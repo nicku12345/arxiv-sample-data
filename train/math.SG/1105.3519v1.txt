@@ -1,0 +1,1 @@
+We introduce a surgery operation on symplectic manifolds called coisotropic Luttinger surgery, which generalizes Luttinger surgery on Lagrangian tori in symplectic 4-manifolds. We use it to produce infinitely many distinct symplectic non-Kahler 6-manifolds X with c_1(X)=0 which are not of the form M\times F for M a symplectic 4-manifold and F a closed surface.

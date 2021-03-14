@@ -1,0 +1,1 @@
+In this paper we investigate the power instability properties and give necessary and sufficient conditions for the concepts of uniform power instability, power instability and strong power instability for linear discrete-time system x_{n+1} = A(n)x_{n} in Banach spaces.

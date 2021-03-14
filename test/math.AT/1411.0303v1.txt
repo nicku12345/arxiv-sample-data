@@ -1,0 +1,1 @@
+We prove that the homotopy theory of cofibration categories is equivalent to the homotopy theory of cocomplete quasicategories. This is achieved by presenting both homotopy theories as fibration categories and constructing an explicit equivalence between them.

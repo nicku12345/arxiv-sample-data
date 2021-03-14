@@ -1,0 +1,1 @@
+In this paper we extend a result of Hirata-Kohno, Laishram, Shorey and Tijdeman on the Diophantine equation n(n+d)...(n+(k-1)d)=by^2, where n,d,k\geq 2 and y are positive integers such that \gcd(n,d)=1.

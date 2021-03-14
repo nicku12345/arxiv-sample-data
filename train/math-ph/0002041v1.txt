@@ -1,0 +1,1 @@
+Fock space representations of the Lie superalgebra sl(n+1|m) and of its quantum analogue U_q[sl(n+1|m)] are written down. The results are based on a description of these superalgebras via creation and annihilation operators. The properties of the underlying statistics are shortly discussed.

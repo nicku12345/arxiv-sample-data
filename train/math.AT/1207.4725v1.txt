@@ -1,0 +1,1 @@
+We prove that a space whose topological complexity equals 1 is homotopy equivalent to some odd-dimensional sphere. We prove a similar result, although not in complete generality, for spaces X whose higher topological complexity TC_n(X) is as low as possible, namely n-1.

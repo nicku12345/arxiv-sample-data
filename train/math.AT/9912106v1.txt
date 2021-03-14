@@ -1,0 +1,1 @@
+Let X be a finite, n-dimensional, r-connected CW complex. We prove the following theorem:   If p \geq n/r is an odd prime, then the loop space homology Bockstein spectral sequence modulo p is a spectral sequence of universal enveloping algebras over differential graded Lie algebras.

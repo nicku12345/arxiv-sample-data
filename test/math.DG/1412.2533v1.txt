@@ -1,0 +1,1 @@
+We define covariant Lie derivatives acting on vector-valued forms on Lie algebroids and study their properties. This allows us to obtain a concise formula for the Fr\"olicher-Nijenhuis bracket on Lie algebroids.

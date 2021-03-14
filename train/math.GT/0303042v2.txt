@@ -1,0 +1,1 @@
+A left orderable completely metrizable topological group is exhibited containing Artin's braid group on infinitely many strands. The group is the mapping class group (rel boundary) of the closed unit disk with a sequence of interior punctures converging to the boundary. This resolves an issue suggested by work of Dehornoy.

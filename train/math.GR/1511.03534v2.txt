@@ -1,0 +1,1 @@
+We enumerate central and medial quasigroups of order less than 128 up to isomorphism, with the exception of those quasigroups that are isotopic to C_4\times C_2^4, C_2^6, C_3^4 or C_5^3. We give an explicit formula for the number of quasigroups that are affine over a finite cyclic group.

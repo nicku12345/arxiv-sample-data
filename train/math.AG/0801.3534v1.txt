@@ -1,0 +1,1 @@
+We classify all smooth projective horospherical varieties with Picard number 1. We prove that the automorphism group of any such variety X acts with at most two orbits and that this group still acts with only two orbits on X blown up at the closed orbit. We characterize all smooth projective two-orbits varieties with Picard number 1 that satisfy this latter property.

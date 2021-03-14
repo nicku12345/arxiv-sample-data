@@ -1,0 +1,1 @@
+Generators of multiparameter deformations U_{q;s_1,s_2,...,s_{n-1}}(gl_n) of the universal enveloping algebra U(gl_n) are realized bilinearly by means of appropriately generalized form of anyonic oscillators (AOs). This modification takes into account the parameters s_1,...,s_{n-1} and yields usual AOs when all the s_i are set equal to unity.

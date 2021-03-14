@@ -1,0 +1,1 @@
+Let A,B be complex n,n complex matrices such that AB-BA and A commute. We show that, if n=2 then A,B are simultaneously triangularizable and if n>=3 then there exists such a couple A,B such that the pair (A,B) has not property L of Motzkin-Taussky and such that B and C are not simultaneously triangularizable.

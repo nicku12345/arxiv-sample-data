@@ -1,0 +1,1 @@
+A generalization of a result of Wermer concerning the existence of polynomial hulls without analytic discs is presented. As a consequence it is shown that there exists a Cantor set X in {\mathbb C}^3 whose polynomial hull is strictly larger than X but contains no analytic discs.

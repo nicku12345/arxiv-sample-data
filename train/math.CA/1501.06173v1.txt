@@ -1,0 +1,1 @@
+The purpose of this note is to provide an alternative proof of two transformation formulas contiguous to that of Kummer's second transformation for the confluent hypergeometric function {}_1F_1 using a differential equation approach.

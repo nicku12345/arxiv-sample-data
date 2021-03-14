@@ -1,0 +1,1 @@
+Consider a time series with missing observations but a known final point. Using control theory ideas we estimate/predict these missing observations. We obtain recurrence equations which minimize sum of squares of a control sequence. An advantage of this method is in easily computable formulae and flexibility of its application to different structures of missing data.

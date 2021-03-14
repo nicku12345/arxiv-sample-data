@@ -1,0 +1,1 @@
+In this paper, we give a proof of the Hyers-Ulam stability of the Jensen functional equation f(xy)+f(x\sigma(y))=2f(x),\phantom{+} x,y\in{G}, where G is an amenable semigroup and \sigma is an involution of G.

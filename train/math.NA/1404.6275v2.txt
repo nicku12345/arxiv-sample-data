@@ -1,0 +1,1 @@
+Using the notion of multivariate lower set interpolation, we construct nodal basis functions for the serendipity family of finite elements, of any order and any dimension. For the purpose of computation, we also show how to express these functions as linear combinations of tensor-product polynomials.

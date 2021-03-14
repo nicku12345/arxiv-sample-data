@@ -1,0 +1,1 @@
+We study preconditioners for a model problem describing the coupling of two elliptic subproblems posed over domains with different topological dimension by a parameter dependent constraint. A pair of parameter robust and efficient preconditioners is proposed and analyzed. Robustness and efficiency of the preconditioners is demonstrated by numerical experiments.

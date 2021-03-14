@@ -1,0 +1,1 @@
+Quadratic Jordan algebras are defined by identities that have to hold strictly, i.e that continue to hold in every scalar extension. In this paper we show that strictness is not required for quadratic Jordan division algebras.

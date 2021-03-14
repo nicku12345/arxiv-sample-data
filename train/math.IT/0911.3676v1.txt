@@ -1,0 +1,1 @@
+Recent coding strategies for deterministic and noisy relay networks are related to the pipelining of block Markov encoding. For deterministic networks, it is shown that pipelined encoding improves encoding delay, as opposed to end-to-end delay. For noisy networks, it is observed that decode-and-forward exhibits good rate scaling when the signal-to-noise ratio (SNR) increases.

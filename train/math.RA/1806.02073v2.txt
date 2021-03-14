@@ -1,0 +1,1 @@
+Let X be a nonempty set and let i,j \in \{1,2,3,4\}. We say that a binary operation F:X^2\to X is (i,j)-selective if  F(F(x_1,x_2),F(x_3,x_4))~=~F(x_i,x_j),  for all x_1,x_2,x_3,x_4\in X. In this paper we provide characterizations of the class of (i,j)-selective operations. We also investigate some subclasses by adding algebraic properties such as associativity or bisymmetry.

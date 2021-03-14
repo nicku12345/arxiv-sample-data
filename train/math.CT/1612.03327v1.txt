@@ -1,0 +1,1 @@
+In this note we prove Yosida duality --- that is: the category of compact Hausdorff spaces with continuous maps is dually equivalent to the category of uniformly complete Archimedean Riesz spaces with distinguished units and unit-preserving Riesz homomorphisms between them.

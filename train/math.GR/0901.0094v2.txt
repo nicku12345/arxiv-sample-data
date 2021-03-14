@@ -1,0 +1,1 @@
+Shephard groups are common extensions of Artin and Coxeter groups. They appear, for example, in algebraic study of manifolds. An infinite family of Shephard groups which are not Artin or Coxeter groups is considered. Using techniques form small cancellation theory we show that the groups in this family are bi-automatic.

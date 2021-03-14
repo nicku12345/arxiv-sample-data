@@ -1,0 +1,1 @@
+In this brief note, we investigate graded functions of linear stacks in derived geometry. In particular, we show that under mild assumptions, we can recover a quasi-coherent sheaf on a derived stack from the data of the \mathbb{G}_m-graded linear stack associated to it. Then we generalize this result in null caracteristic by describing graded functions on linear stacks.

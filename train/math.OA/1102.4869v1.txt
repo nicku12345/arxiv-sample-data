@@ -1,0 +1,1 @@
+We determine the injective envelope and local multiplier algebra of a continuous trace C*-algebra that arises from a continuous Hilbert bundle over an arbitrary locally compact Hausdorff space. In addition, we show that the second-order local multiplier algebra of any such algebra is injective.

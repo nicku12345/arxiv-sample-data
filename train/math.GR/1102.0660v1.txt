@@ -1,0 +1,1 @@
+In this paper we show that if n\geq 5 and G is any of the groups SU_n(q) with n\neq 6, Sp_{2n}(q) with q odd, \Omega_{2n+1}(q), \Omega_{2n}^{\pm}(q), then G and the simple group \barG=G/Z(G) are not 2-coverable. Moreover the only 2-covering of Sp_{2n}(q), with q even, has components  O^-_{2n}(q) and O^{+}_{2n}(q) .

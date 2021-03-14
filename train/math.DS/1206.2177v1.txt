@@ -1,0 +1,1 @@
+The Iterated Function System(IFS) used in the construction of Coalescence Hidden-variable Fractal Interpolation Function depends on the interpolation data. In this note, the effect of insertion of data on the related IFS and the Coalescence Hidden-variable Fractal Interpolation Function is studied.

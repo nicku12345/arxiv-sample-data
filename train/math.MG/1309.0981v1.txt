@@ -1,0 +1,1 @@
+We show how to extend a metric defined on the vertex set of a simplicial complex to the whole simplicial complex, thus correcting a mistake in Mineyev's construction of a flow space.

@@ -1,0 +1,1 @@
+It is proved that, on any Abelian group of infinite cardinality {\bf m}, there exist precisely 2^{2^{\bf m}} nonequivalent bounded Hausdorff group topologies. Under the continuum hypothesis, the number of nonequivalent compact and locally compact Hausdorff group topologies on the group (\Z_p)^{\N} is determined.

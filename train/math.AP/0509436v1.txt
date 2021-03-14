@@ -1,0 +1,1 @@
+It is shown that a function u satisfying, |\Delta u+\partial_tu|\le M(|u|+|\nabla u|), |u(x,t)|\le Me^{M|x|^2} in \R^n\times [0,T] and |u(x,0)|\le C_ke^{-k|x|^2} in \R^n and for all k\ge 1, must vanish identically in \R^n\times [0,T].

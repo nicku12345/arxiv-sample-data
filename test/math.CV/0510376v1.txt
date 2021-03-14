@@ -1,0 +1,1 @@
+In this article, we prove that there does not exist a family of entire curves in the universal family of hypersurfaces of degree d\geq 2n in the complex projective space {\mathbb P}^n. This can be seen as a weak version of the Kobayashi conjecture asserting that a general projective hypersurface of high degree is hyperbolic in the sense of Kobayashi.

@@ -1,0 +1,1 @@
+Let P be the set of all primes and P_2=P\cup{p_1p_2: p_1,p_2\in P}. We prove that the sumset 2^P+P_2={2^p+q: p\in P, q\in P_2} has a positive lower density.

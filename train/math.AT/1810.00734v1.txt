@@ -1,0 +1,1 @@
+Let C be a symmetric monoidal quasicategory, and R an E_n-algebra of C equipped with an action of an n-fold loop space G. We prove that the derived quotient of R with respect to this action is a comodule over R\otimes \Sigma^\infty_+BG, which has the diagonal coalgebra structure. Moreover, this quotient is a "torsor" for R\otimes \Sigma^\infty_+BG in a way that we make precise.

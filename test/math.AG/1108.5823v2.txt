@@ -1,0 +1,1 @@
+For a plane curve, a point in the projective plane is said to be Galois when the point projection induces a Galois extension of function fields. We give a new characterization of a Fermat curve whose degree minus one is a power of p in characteristic p>2, which is sometimes called Hermitian, by the number of Galois points lying on the curve.

@@ -1,0 +1,1 @@
+Let S be a finite alphabet. An injective word over S is a word over S such that each letter in S appears at most once in the word. We study Boolean cell complexes of injective words over S and their commutation classes. This generalizes work by Farmer and by Bj\"orner and Wachs on the complex of all injective words.

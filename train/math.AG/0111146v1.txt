@@ -1,0 +1,1 @@
+Let X be a K3 surface. We show that the Chow group CH_0(X) of 0-cycles contains a "fundamental class" c_X of degree 1 with remarkable properties: any product of divisors is proportional to this class, and so is the second Chern class c_2(X). This preprint supersedes the preprint math.AG/0109063 by the first author, where the latter property was conjectured.

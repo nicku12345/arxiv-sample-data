@@ -1,0 +1,1 @@
+We prove a universal characterization of Hopf algebras among cocommutative bialgebras over a field: a cocommutative bialgebra is a Hopf algebra precisely when every split extension over it admits a join decomposition. We also explain why this result cannot be extended to a non-cocommutative setting.

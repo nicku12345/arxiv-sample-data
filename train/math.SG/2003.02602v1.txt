@@ -1,0 +1,1 @@
+Let M be a manifold with an exact symplectic form \omega. Then there is a nowhere vanishing primitive \beta for \omega, i.e. \omega=\mathrm{d}\beta.

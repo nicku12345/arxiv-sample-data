@@ -1,0 +1,1 @@
+In this paper, we show that for all triangles in the plane, the equilateral triangle maximizes the ratio of the first two Dirichlet-Laplacian eigenvalues. This is an extension of work by Siudeja, who proved the inequality in the case of acute triangles. The proof utilizes inequalities due to Siudeja and Freitas, together with improved variational bounds.

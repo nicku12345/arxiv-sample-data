@@ -1,0 +1,1 @@
+Let \pi be a set of primes. We say that a finite group G is a \mathcal{D}_\pi-group if the maximal \pi-subgroups of G are conjugate. In this paper, we give an affirmative answer to Problem 17.44(b) from "Kourovka notebook", namely we prove that in a \mathcal{D}_\pi-group an overgroup of a \pi-Hall subgroup is always a \mathcal{D}_\pi-group.

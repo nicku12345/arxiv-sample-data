@@ -1,0 +1,1 @@
+The bivariate series \theta (q,x):=\sum_{j=0}^{\infty}q^{j(j+1)/2}x^j defines a {\em partial theta function}. For fixed q, \theta (q,.) is an entire function. We show that for |q|\leq 0.108 the function \theta (q,.) has no multiple zeros.

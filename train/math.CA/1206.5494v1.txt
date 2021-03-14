@@ -1,0 +1,1 @@
+For a,b>0 with a\not=b, let T(a,b) denote the second Seiffert mean defined by T(a,b)=((a-b)/(2arctan((a-b)/(a+b)))) and A_{r}(a,b) denote the r-order power mean. We present the sharp bounds for the second Seiffert mean in terms of power means: A_{p_1}(a,b)<T(a,b)\leqA_{p_2}(a,b), where p_1= log_{{\pi}/2}2 and p_2=5/3 can not be improved.

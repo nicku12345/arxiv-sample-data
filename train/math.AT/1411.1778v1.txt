@@ -1,0 +1,1 @@
+We calculate the higher topological complexity TC_s for the complements of reflection arrangements, in other words for the pure Artin type groups of all finite complex reflection groups. In order to do that we introduce a simple combinatorial criterion of arrangements sufficed for the cohomological low bound for TC_s to coincide with the dimensional upper bound.

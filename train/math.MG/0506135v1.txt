@@ -1,0 +1,1 @@
+The group of direct isometries of the real n-dimensional hyperbolic space is G=SOo(n,1). This isometric action admits many differentiable compactifications into an action on the closed ball. We prove that all such compactifications are topologically conjugate but not necessarily differentiably conjugate. We give the classifications of real analytic and smooth compactifications.

@@ -1,0 +1,1 @@
+We review recent results on dimension-robust higher order convergence rates of Quasi-Monte Carlo Petrov-Galerkin approximations for response functionals of infinite-dimensional, parametric operator equations which arise in computational uncertainty quantification.

@@ -1,0 +1,1 @@
+A near-group category is an additively semisimple category with a product such that all but one of the simple objects is invertible. We classify braided structures on near-group categories, and give explicit numerical formulas for their associativity and commutativity morphisms.

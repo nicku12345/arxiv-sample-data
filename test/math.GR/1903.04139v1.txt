@@ -1,0 +1,1 @@
+Let G be a finite p-group and let Aut_l(G) be the group of absolute central automorphisms of G. We give necessary and sufficient conditions on G such that Aut_l(G) = Inn(G).

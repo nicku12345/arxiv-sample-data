@@ -1,0 +1,1 @@
+Let \alpha\in(0,2) and X_t be a symmetric \alpha-stable process. We define the scattering length \Gamma(v) of the positive potential v and prove several of its basic properties. We use the scattering length to findestimates for the first eigenvalue of the Schr\"odinger operator of the ``Neumann'' fractional Laplacian in a cube with potential v.

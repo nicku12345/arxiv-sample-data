@@ -1,0 +1,1 @@
+We establish Carleman inequalities for the weighted laplacian associated to an expanding gradient Ricci soliton. As a consequence, a unique continuation at infinity is proved for asymptotically Ricci flat Ricci expanders. The obstruction at infinity is a symmetric 2-tensor defined on the link of the corresponding asymptotic cone.

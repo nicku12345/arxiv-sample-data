@@ -1,0 +1,1 @@
+We prove that the Jacobian of a general curve C of genus g=2a+1, with g>4, can be realized as a Prym-Tyurin variety for the Brill-Noether curve W^1_{a+2}(C). As a consequence of this result we are able to compute the class of the sum of the secant divisors for the curve C, embedded with a complete linear series g^{a-1}_{3a-2}

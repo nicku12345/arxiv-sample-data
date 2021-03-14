@@ -1,0 +1,1 @@
+When R is a commutative ring with identity, and if k is a natural number with kR = R, then C. Weibel proved that SK_1(R[X]) has no k-torsion. We reprove his result for any associative ring R with identity in which kR = R.

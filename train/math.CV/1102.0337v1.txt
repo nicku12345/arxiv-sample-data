@@ -1,0 +1,1 @@
+We consider the multi-point Schwarz-Pick lemma and its associate functions due to Beardon-Minda and Baribeau-Rivard-Wegert. Basic properties of the associate functions are summarized. Then we observe that special cases of the multi-point Schwarz-Pick lemma give Schur's continued fraction algorithm and several inequalities for bounded analytic functions on the unit disk.

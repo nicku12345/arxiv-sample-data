@@ -1,0 +1,1 @@
+We construct jacobians of plane quartics without complex multiplication, using Del Pezzo surfaces of degree 2.

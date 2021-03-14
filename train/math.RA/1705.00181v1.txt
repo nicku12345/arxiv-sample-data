@@ -1,0 +1,1 @@
+Let A be a commutative arithmetical ring. The ring A has Krull dimension if and only if every factor ring of A is finite-dimensional and does not have idempotent proper essential ideals. The study is supported by Russian Science Foundation (project no. 16-11-10013).

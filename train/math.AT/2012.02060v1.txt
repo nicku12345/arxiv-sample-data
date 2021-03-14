@@ -1,0 +1,1 @@
+We define a cup product on the cochain complex of a multisimplicial set, that is compatible with the classical cup product on the cochain complex of the diagonal simplicial set via the Eilenberg-Zilber map. This helps to speed up cochain level computations for multisimplicial complexes.

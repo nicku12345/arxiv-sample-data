@@ -1,0 +1,1 @@
+We prove a Tverberg-type theorem using the probabilistic method. Given \varepsilon >0, we find the smallest number of partitions of a set X in R^d into r parts needed in order to induce at least one Tverberg partition on every subset of X with at least \varepsilon |X| elements. This generalizes known results about Tverberg's theorem with tolerance.

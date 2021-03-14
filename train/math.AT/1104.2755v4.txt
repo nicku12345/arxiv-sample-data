@@ -1,0 +1,1 @@
+We show how locally smooth actions of compact Lie groups on a manifold X can be used to obtain new upper bounds for the topological complexity \TC(X), in the sense of Farber. We also obtain new bounds for the topological complexity of finitely generated torsion-free nilpotent groups.

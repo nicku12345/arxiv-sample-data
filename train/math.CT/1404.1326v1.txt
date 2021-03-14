@@ -1,0 +1,1 @@
+We identify Morita cohomology, which is a categorification of the cohmology of a topological space X, with the category of homotopy locally constant sheaves of perfect complexes on X.

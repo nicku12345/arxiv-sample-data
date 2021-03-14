@@ -1,0 +1,1 @@
+We introduce two coloured operads in sets -- the lattice path operad and a cyclic extension of it -- closely related to iterated loop spaces and to universal operations on cochains. As main application we present a formal construction of an E_2-action (resp. framed E_2-action) on the Hochschild cochain complex of an associative (resp. symmetric Frobenius) algebra.

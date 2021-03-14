@@ -1,0 +1,1 @@
+Lecture notes of an algebraic geometry graduate course. The topics covered are as follows. Cohomology: ext sheaves and groups, cohomology with support, local cohomology, local duality. Duality: relative duality, Cohen-Macaulay schemes. Morphisms of schemes: flatness and base change and related topics. Hilbert and Quotient schemes.

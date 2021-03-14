@@ -1,0 +1,1 @@
+Let I be a homogeneous ideal in a polynomial ring S. In this paper, we extend the study of the asymptotic behavior of the minimum distance function \delta_I of I and give bounds for its stabilization point, r_I, when I is an F-pure or a square-free monomial ideal. These bounds are related with the dimension and the Castelnuovo--Mumford regularity of I.

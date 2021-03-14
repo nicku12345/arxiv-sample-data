@@ -1,0 +1,1 @@
+We describe the centroid of some Leavitt path algebras. More precisely, we show that for Leavitt path algebras over a field K that are simple its centroid is isomorphic to K, and for prime Leavitt path algebras its centroid is isomorphic to K except if the graph is a row-finite comet, in which case the centroid is isomorphic to K[x,x^{-1}].

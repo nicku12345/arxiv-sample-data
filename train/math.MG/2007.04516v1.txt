@@ -1,0 +1,1 @@
+In this work we prove that if there exists a smooth convex body M in the Euclidean space \mathbb{R}^n, n\geq 3, contained in the interior of the unit ball \mathbb{S}^{n-1} of \mathbb{R}^n, and point p\in \mathbb{R}^n such that, for each point of \mathbb{S}^{n-1}, M looks centrally symmetric and p appears as the centre, then M is an sphere.

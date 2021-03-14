@@ -1,0 +1,1 @@
+In this paper we will examine the derivative of intersection local time of Brownian motion and symmetric stable processes in R^2. These processes do not exist when defined in the canonical way. The purpose of this paper is to exhibit the correct rate for renormaliztion of these processes.

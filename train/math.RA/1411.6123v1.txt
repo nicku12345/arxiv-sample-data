@@ -1,0 +1,1 @@
+Let \mathcal{R} be a commutative ring with identity, I(X,\mathcal{R}) be the incidence algebra of a locally finite pre-ordered set X. In this note, we characterise the derivations of I(X,\mathcal{R}) and prove that every Jordan derivation of I(X,\mathcal{R}) is a derivation provided that \mathcal{R} is 2-torsion free.

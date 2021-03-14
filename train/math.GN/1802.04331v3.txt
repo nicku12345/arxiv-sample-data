@@ -1,0 +1,1 @@
+The aim of this paper is to show how the homotopy type of compact metric spaces can be reconstructed by the inverse limit of an inverse sequence of finite approximations of the corresponding space. This recovering allows us to define inverse persistence as a new kind of persistence process.

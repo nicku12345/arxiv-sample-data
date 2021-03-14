@@ -1,0 +1,1 @@
+It has been conjectured that the geometric invariant of knots in 3-space called the width is nearly additive. That is, letting w(K) in N denote the width of a knot K in S^3, the conjecture is that w(K # K') = w(K) + w(K') - 2. We give an example of a knot K_1 so that for K_2 any 2-bridge knot, it appears that w(K_1 # K_2) = w(K_1), contradicting the conjecture.

@@ -1,0 +1,1 @@
+This paper states a law of large numbers for a random walk in a random iid environment on {\mathbb Z}^d, where the environment follows some Dirichlet distribution. Moreover, we give explicit bounds for the asymptotic velocity of the process and also an asymptotic expansion of this velocity at low disorder.

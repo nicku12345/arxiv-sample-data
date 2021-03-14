@@ -1,0 +1,1 @@
+We prove that, for a smooth two-body potentials, the quantum mean-field approximation to the nonlinear Schroedinger equation of the Hartree type is stable at the classical limit h \to 0, yielding the classical Vlasov equation.

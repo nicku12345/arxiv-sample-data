@@ -1,0 +1,1 @@
+We discuss Base Change functoriality for mod p eigenforms for GL(2) over number fields. We carry out systematic computer experiments and collect data supporting its existence in cases of field extensions K/F where F is imaginary quadratic and K is CM quartic.

@@ -1,0 +1,1 @@
+In this paper we study the superalgebra A_n, introduced by the authors in previous work on categorification of Verma modules for quantum \mathfrak{sl}_2. The superalgebra A_n is akin to the nilHecke algebra, and shares similar properties. In particular, we prove a uniqueness result about 2-Verma modules on \Bbbk-linear 2-categories.

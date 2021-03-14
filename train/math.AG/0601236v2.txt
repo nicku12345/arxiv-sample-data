@@ -1,0 +1,1 @@
+We introduce a notion of tangential Alexander polynomials for plane curves and study the relation with \theta^Alexander polynomial. As an application, we use these polynomials to study a non-reduced degeneration C_t \to D_0+jL. We show that there exists a certain surjectivity of the fundamental groups and divisibility among their Alexander polynomials.

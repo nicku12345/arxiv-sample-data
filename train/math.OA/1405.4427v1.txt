@@ -1,0 +1,1 @@
+For a von Neumann algebra \cal M with a faithful normal tracial state \tau and a positive ergodic homomorphism \alpha:\mathcal L^1(\mathcal M,\tau)\to \mathcal L^1(\mathcal M,\tau) such that \alpha does not increase the norm in \mathcal M and \tau \circ \alpha=\tau, we establish a non-commutative counterpart of the classical Wiener-Wintner Theorem.

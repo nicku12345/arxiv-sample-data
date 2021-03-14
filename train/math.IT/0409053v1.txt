@@ -1,0 +1,1 @@
+We discuss why MMSE estimation arises in lattice-based schemes for approaching the capacity of linear Gaussian channels, and comment on its properties.

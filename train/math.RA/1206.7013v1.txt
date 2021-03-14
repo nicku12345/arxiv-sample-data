@@ -1,0 +1,1 @@
+We show that the canonical involution on a nonabelian poly-orderable group G extends to the Hughes-free division ring of fractions D of the group algebra k[G] of G over a field k and that, with respect to this involution, D contains a pair of symmetric elements freely generating a free group subalgebra of D over k.

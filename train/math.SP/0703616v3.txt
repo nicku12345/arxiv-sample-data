@@ -1,0 +1,1 @@
+We study the Laplace operator with Dirichlet or Neumann boundary condition on polygons in the Euclidean plane. We prove that almost every simply connected polygon with at least four vertices has simple spectrum. We also address the more general case of geodesic polygons in a constant curvature space form.

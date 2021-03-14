@@ -1,0 +1,1 @@
+We prove the following result: For a generic value of the parameter, the Temperley-Lieb category has no non-zero, proper tensor ideal. When the parameter d is equal to 2\cos(\pi/n) for some n \ge 3, then the Temperley-Lieb category has exactly one non-zero, proper ideal, namely the ideal of negligible morphisms.

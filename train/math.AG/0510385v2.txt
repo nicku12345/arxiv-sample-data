@@ -1,0 +1,1 @@
+We prove Rapoport's dimension conjecture for affine Deligne-Lusztig varieties for GL_h and superbasic b. From this case the general dimension formula for affine Deligne-Lusztig varieties for special maximal compact subgroups of split groups follows, as was shown in a recent paper by Goertz, Haines, Kottwitz, and Reuman.

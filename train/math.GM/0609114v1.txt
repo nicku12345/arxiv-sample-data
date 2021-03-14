@@ -1,0 +1,1 @@
+We investigate lattices that can be represented as sublattices of the lattice of all convex subsets of a linearly ordered set (X, \leq) and as lattices of convex subsets of (X, \leq). A representation theory for general lattices is presented and also some applications in general topology are given.

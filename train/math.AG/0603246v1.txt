@@ -1,0 +1,1 @@
+We show that instanton bundles of rank r\le 2n-1, defined as the cohomology of certain linear monads, on an n-dimensional projective variety with cyclic Picard group are semistable in the sense of Mumford-Takemoto. Furthermore, we show that rank r\le n linear bundles with nonzero first Chern class over such varieties are stable. We also show that these bounds are sharp.

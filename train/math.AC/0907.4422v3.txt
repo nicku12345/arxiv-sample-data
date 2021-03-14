@@ -1,0 +1,1 @@
+Answering a question of J.~Kovacic, we show that, for any Keigher ring, its differential spectrum coincides with the differential spectrum of the ring of global sections of the structure sheaf. In particular, we obtain the answer for Ritt algebras, that is, differential rings containing the rational numbers.

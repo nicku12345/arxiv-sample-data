@@ -1,0 +1,1 @@
+We classify the compact quantum groups A_u(Q) (resp. B_u(Q)) up to isomorphism when Q>0 (resp. when Q \bar{Q} \in {\mathbb R} I_n). We show that the general A_u(Q)'s and B_u(Q)'s for arbitrary Q have explicit decompositions into free products of these special A_u(Q)'s and B_u(Q)'s.

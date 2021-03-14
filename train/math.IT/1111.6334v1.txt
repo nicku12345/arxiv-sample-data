@@ -1,0 +1,1 @@
+We consider the root lattice A_n and derive explicit formulae for the moments of its Voronoi cell. We then show that these formulae enable accurate prediction of the error probability of lattice codes constructed from A_n.

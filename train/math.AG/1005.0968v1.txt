@@ -1,0 +1,1 @@
+We prove the excision theorem for the K-theory of perfect complexes on Deligne-Mumford stacks. This is then used to study the Nisnevich site of such stacks. We prove the Nisnevich descent for the K-theory of perfect complexes. We also draw some other consequences.

@@ -1,0 +1,1 @@
+Let G be a finite solvable group, let p be a prime such that p \geq 5 and O_p(G)=1, and we denote |G|_p=p^n, then G contains a block of defect less than or equal to \lfloor \frac {3n} 5 \rfloor. Let G be a finite solvable group and let p^a be the largest power of p dividing \chi(1) for an irreducible character \chi of G, we show that |G:\bF(G)|_p \leq p^{3a} for p \geq 5.

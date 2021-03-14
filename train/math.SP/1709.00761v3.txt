@@ -1,0 +1,1 @@
+Let \Gamma be a geometrically finite Fuchsian group and suppose that \chi\colon\Gamma\to\mathrm{GL}(V) is a finite-dimensional representation with non-expanding cusp monodromy. We show that the parabolic Eisenstein series for \Gamma with twist \chi converges on some half-plane. Further, we develop Fourier-type expansions for these Eisenstein series.

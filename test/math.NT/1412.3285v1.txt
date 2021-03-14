@@ -1,0 +1,1 @@
+In the present paper we construct normal numbers in base q by concatenating q-ary expansions of pseudo polynomials evaluated at the primes. This extends a recent result by Tichy and the author.

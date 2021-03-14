@@ -1,0 +1,1 @@
+Let \mathrm{Hilb}^gS be the Hilbert scheme of g points on a K3 surface S. Suppose that \mathrm{Pic}S\cong\Z C where C is a smooth curve with C^2=2(g-1)n^2. We prove that \mathrm{Hilb}^gS is a Lagrangian fibration.

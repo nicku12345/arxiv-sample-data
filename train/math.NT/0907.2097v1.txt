@@ -1,0 +1,1 @@
+A classical theorem of Siegel asserts that the set of S-integral points of an algebraic curve C over a number field is finite unless C has genus 0 and at most two points at infinity. In this paper we give necessary and sufficient conditions for C to have infinitely many S-integral points.

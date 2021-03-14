@@ -1,0 +1,1 @@
+We use pro cdh-descent of K-theory to study the relationship between the zero cycles on a singular variety X and those on its desingularisation X'. We prove many cases of a conjecture of S. Bloch and V. Srinivas, and relate the Chow groups of X to the Kerz--Saito Chow group with modulus of X' relative to its exceptional fibre.

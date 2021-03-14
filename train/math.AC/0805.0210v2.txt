@@ -1,0 +1,1 @@
+The Nakayama conjecture is one of the most important conjectures in ring theory. The Auslander-Reiten conjecture is closely related to it. The purpose of this note is to show that if the Auslander-Reiten conjecture holds in codimension one for a commutative Gorenstein ring R, then it holds for R.

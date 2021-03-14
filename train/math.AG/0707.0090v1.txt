@@ -1,0 +1,1 @@
+We calculate the local Fourier transforms for formal connections. In particular, we verify an analogous conjecture suggested in Laumon's paper: "Transformation de Fourier, constantes d'equations fonctionnelles et conjecture de Weil, 2.6.3".

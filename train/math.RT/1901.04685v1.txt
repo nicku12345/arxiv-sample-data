@@ -1,0 +1,1 @@
+In this article, we study short exact sequences of finitary 2-representations of a weakly fiat 2-category. We provide a correspondence between such short exact sequences with fixed middle term and coidempotent subcoalgebras of a coalgebra 1-morphism defining this middle term. We additionally relate these to recollements of the underlying abelian 2-representations.

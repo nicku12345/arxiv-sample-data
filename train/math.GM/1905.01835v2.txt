@@ -1,0 +1,1 @@
+In this paper, some important properties of the windowed offset linear canonical transform (WOLCT) such as shift, modulation and orthogonality relation are introduced. Based on these properties we derive the convolution and correlation theorems for the WOLCT.

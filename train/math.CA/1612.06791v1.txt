@@ -1,0 +1,1 @@
+We discuss completeness, minimality, and basisness, in L^2[0, \pi] and L^p[0, \pi], p \neq 2, of dilated systems u_n(x) = S(nx), n \in \mathbb{N}, where S is a trigonometric polynomial   S(x) = \sum_{k = 0}^m a_k \sin(kx), \quad a_0 a_m \neq 0.   We will present some results and mention a few unsolved questions.

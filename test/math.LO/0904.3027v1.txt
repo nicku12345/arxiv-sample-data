@@ -1,0 +1,1 @@
+We modify the Frecon-Jaligot construction of Carter subgroups to show that a degenerate type group has a Carter subgroup invariant under the Sylow 2-subgroup of a group of automorphisms; thus reducing the need to know that Carter subgroups are conjugate in degenerate type groups.

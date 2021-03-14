@@ -1,0 +1,1 @@
+Let M be a once-punctured torus bundle over S^1 with monodromy h.   We show that, under certain hypotheses on h, "most" Dehn-fillings of M (in some cases all but finitely many) are virtually   \mathbb{Z}-representable. We apply our results to show that surgeries on the figure-eight knot with even numerator are virtually \mathbb{Z}-representable.

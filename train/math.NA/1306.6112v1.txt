@@ -1,0 +1,1 @@
+We present a finite element method for Stokes equations using the Crouzeix-Raviart element for the velocity and the continuous linear element for the pressure. We show that the inf-sup condition is satisfied for this pair. Two numerical experiments are presented to support the theoretical results.

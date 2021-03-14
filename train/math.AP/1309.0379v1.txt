@@ -1,0 +1,1 @@
+We study existence and stability of travelling waves for nonlinear convection diffusion equations in the 1-D Euclidean space. The diffusion coefficient depends on the gradient in analogy with the p-Laplacian and may be degenerate. Unconditional stability is established with respect to initial data perturbations in the Lebesgue space of integrable functions.

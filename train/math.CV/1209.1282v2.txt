@@ -1,0 +1,1 @@
+We prove that the openness of the set of maps, between a Stein manifold and an Oka manifold, transverse to a stratification of a complex analytic subvariety in the target implies that the stratification is Whitney a-regular. Our result can be seen as a complex version of Trotman's theorem.

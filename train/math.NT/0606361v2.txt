@@ -1,0 +1,1 @@
+A new short clear proof of the asymptotics for the number c_n of real roots of the Bernoulli polynomials B_n(x), as well as for the maximal root y_n: y_n=\frac{n}{2\pi e}+\frac{\ln(n)}{4\pi e}+O(1)\quad\text{and}\quad c_n=\frac{2n}{\pi e}+\frac{\ln(n)}{\pi e}+O(1).

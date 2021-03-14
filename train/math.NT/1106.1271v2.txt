@@ -1,0 +1,1 @@
+Let n be an even positive integer with at most three distinct prime factors and let \ze_n be a primitive n-th root of unity. In this study, we made an attempt to find the lowest-degree 0,1-polynomial f(x) \in \Q[x] having at least three terms such that f(\ze_n) is a minimal vanishing sum of the n-th roots of unity.

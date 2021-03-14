@@ -1,0 +1,1 @@
+A rope is a non-singular embedding of a closed interval into R^3, which sends the ends of the interval to some fixed points A and B such that |AB|=1. A rope is short if its length is less than 3. The main result of the paper is that the fundamental group of the space of short ropes is naturally isomorphic to the group completion of the semigroup of knots.

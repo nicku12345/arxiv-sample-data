@@ -1,0 +1,1 @@
+Let A be an association scheme on q\geq 3 vertices. We show that the Bose-Mesner algebra of the generalized Hamming scheme H(n,A), for n\geq 2, is not the Nomura algebra of a type II matrix. This result gives examples of formally self-dual Bose-Mesner algebras that are not the Nomura algebras of type II matrices.

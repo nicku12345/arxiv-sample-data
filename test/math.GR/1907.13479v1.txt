@@ -1,0 +1,1 @@
+We refer to the set of the orders of elements of a finite group as its spectrum and say that groups are isospectral if their spectra coincide. We prove that with the only specific exception the solvable radical of a nonsolvable finite group isospectral to a finite simple group is nilpotent.

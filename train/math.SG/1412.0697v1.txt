@@ -1,0 +1,1 @@
+We show that under some topological assumptions, an exact Lagrangian cobordism (W; L_{0}, L_{1}) of dimension dim(W) >5 is a Lagrangian pseudo-isotopy. This result is a weaker form of a conjecture proposed by Biran and Cornea, which states that any exact Lagrangian cobordism is Hamiltonian isotopic to a Lagrangian suspension.

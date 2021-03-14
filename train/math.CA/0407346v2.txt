@@ -1,0 +1,1 @@
+We extend Wolff's "local smoothing" inequality to a wider class of not necessarily conical hypersurfaces of codimension 1. This class includes surfaces with nonvanishing curvature, as well as certain surfaces with more than one flat direction. An immediate consequence is the L^p boundedness of the corresponding Fourier multiplier operators.

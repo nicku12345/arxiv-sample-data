@@ -1,0 +1,1 @@
+In this paper, a generalized version of Morton's formula is proved. Using this formula, one can write down the colored Jones polynomials of cabling of an knot in terms of the colored Jones polynomials of the original knot.

@@ -1,0 +1,1 @@
+We will show that tight frames satisfying the restricted isometry property give rise to nearly tight fusion frames which are nearly orthogonal and hence are nearly equi-isoclinic. We will also show how to replace parts of the RIP frame with orthonormal sets while maintaining the RIP property.

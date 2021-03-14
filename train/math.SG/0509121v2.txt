@@ -1,0 +1,1 @@
+Following the approach of Gromov and Witten, we define invariants under deformation of stongly semipositive real symplectic six-manifolds. These invariants provide lower bounds in real enumerative geometry, namely for the number of real rational J-holomorphic curves which realize a given homology class and pass through a given real configuration of points.

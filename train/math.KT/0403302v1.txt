@@ -1,0 +1,1 @@
+In this article we study extensions of Z_2-graded L_infinity algebras on a vector space of two even and one odd dimension.   In particular, we determine all extensions of a super Lie algebra as an L_infinity algebra. Our convention on the parities is the opposite of the usual one, because we define our structures on the symmetric coalgebra of the parity reversion of a space.

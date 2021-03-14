@@ -1,0 +1,1 @@
+Let \mathfrak{g} be an affine Lie algebra with index set I = \{0, 1, 2, \cdots , n\}. It is conjectured that for each Dynkin node k \in I \setminus \{0\} the affine Lie algebra \mathfrak{g} has a positive geometric crystal. In this paper we construct a positive geometric crystal for the affine Lie algebra D_6^{(1)} corresponding to the Dynkin spin node k= 6.

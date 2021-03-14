@@ -1,0 +1,1 @@
+We describe a Quillen equivalence between quasi-categories and relative categories which is surprisingly similar to Thomason's Quillen equivalences between simplicial sets and categories.

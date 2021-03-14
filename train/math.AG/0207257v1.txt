@@ -1,0 +1,1 @@
+This is a continuation of "Rational curves on hypersurfaces of low degree", math.AG/0203088. We prove that if d^2+d+1 < n and d > 2, then for a general hypersurface X_d in P^n of degree d, for each degree e the space of rational curves of degree e on X is itself a rationally connected variety.

@@ -1,0 +1,1 @@
+Let f,g:M \rightarrow N be two maps between simply-connected smooth manifolds M and N, such that M is compact and N is of finite \mathbb{R}-type. The goal of this paper is to use integration of certain differential forms to obtain a complete invariant of the real homotopy classes of the maps f and g.

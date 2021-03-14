@@ -1,0 +1,1 @@
+The Lie algbera of a compact semisimple Lie group G is determined by the degrees of the irreducible representations of G. However, two different groups can have the same representation degrees.

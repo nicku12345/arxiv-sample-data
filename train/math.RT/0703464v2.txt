@@ -1,0 +1,1 @@
+Given a compact p-adic Lie group we show that its distribution algebra is Frechet-Stein with Auslander regular Banach algebras. As an application, we show that nonzero coadmissible modules coming from smooth or, more general, U(g)-finite representations have maximal codimension.

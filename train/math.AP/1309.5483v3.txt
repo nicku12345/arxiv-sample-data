@@ -1,0 +1,1 @@
+Let u be the equilibrium potential of a compact set K. An electrostatic skeleton of K is a positive measure whose closed support has connected complement and no interior, and whose potential is equal to u near infinity. We prove the existence of an electrostatic skeleton for any simplex.

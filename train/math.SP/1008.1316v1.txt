@@ -1,0 +1,1 @@
+Among all triangles of given diameter, the equilateral triangle is shown to minimize the sum of the first n eigenvalues of the Dirichlet Laplacian, for each n \geq 1. In addition, the first, second and third eigenvalues are each proved to be minimal for the equilateral triangle. The disk is conjectured to be the minimizer among general domains.

@@ -1,0 +1,1 @@
+We propose a functional version of the Hodrick-Prescott filter for functional data which take values in an infinite dimensional separable Hilbert space. We further characterize the associated optimal smoothing parameter when the associated linear operator is compact and the underlying distribution of the data is Gaussian.

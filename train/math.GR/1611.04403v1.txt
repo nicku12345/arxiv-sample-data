@@ -1,0 +1,1 @@
+We prove that an isomorphism between saturated fusion systems over the same finite p-group is detected on the elementary abelian subgroups of the hyperfocal subgroup if p is odd, and on the abelian subgroups of the hyperfocal subgroup of exponent at most 4 if p = 2. For odd p, this has implications for mod p group cohomology.

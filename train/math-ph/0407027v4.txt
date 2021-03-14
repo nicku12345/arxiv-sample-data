@@ -1,0 +1,1 @@
+We consider a one-dimensional Radon transform on the group SO(3) which is motivated by texture goniometry. In particular we will derive several inversion formulae and compare them with the inversion of the one-dimensional spherical Radon transform on the three dimensional unit sphere for even functions.

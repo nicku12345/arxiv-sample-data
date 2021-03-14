@@ -1,0 +1,1 @@
+We look at methods to select triples (M,\omega,J) consisting of a symplectic manifold (M,\omega) endowed with a compatible positive almost complex structure J, in terms of the Nijenhuis tensor N^J associated to J. We study in particular the image distribution \Image N^J.

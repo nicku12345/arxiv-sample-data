@@ -1,0 +1,1 @@
+We introduce and examine order convergence and the interval topology on partially ordered sets in general. Problem 76 of Birkhoff's "Lattice Theory" asks whether for complete Boolean algebras the order topology and the interval topology coincide. We answer this question in the negative.

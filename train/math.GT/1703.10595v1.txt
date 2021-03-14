@@ -1,0 +1,1 @@
+We give a proof that there exists a universal constant K such that the disc graph associated to a surface S forming a boundary component of a compact, orientable 3-manifold M is K-quasiconvex in the curve graph of S. Our proof does not require the use of train tracks.

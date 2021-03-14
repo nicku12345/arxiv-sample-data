@@ -1,0 +1,1 @@
+In this review paper we present a stable Lagrangian numerical method for computing plane curves evolution driven by the fourth order geometric equation. The numerical scheme and computational examples are presented.

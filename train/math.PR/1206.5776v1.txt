@@ -1,0 +1,1 @@
+For any continuous probability measure \mu on {\mathbb R} we construct an IFS with probabilities having \mu as its unique measure-attractor.

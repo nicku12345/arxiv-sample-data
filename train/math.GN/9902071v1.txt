@@ -1,0 +1,1 @@
+A space X is called an alpha-Toronto space if X is scattered of Cantor-Bendixson rank alpha and is homeomorphic to each of its subspaces of same rank. We answer a question of Steprans by constructing a countable alpha-Toronto space for each alpha<=omega. We also construct consistent examples of countable alpha-Toronto spaces for each alpha<omega_1.

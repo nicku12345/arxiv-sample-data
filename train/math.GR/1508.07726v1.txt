@@ -1,0 +1,1 @@
+Systems of equations and their solution sets are studied in polyadic groups. We prove that a polyadic group (G, f)=\mathrm{der}_{\theta, b}(G, \cdot) is equational noetherian, if and only if the ordinary group (G, \cdot) is equational noetherian. The structure of coordinate polyadic group of algebraic sets in equational noetherian polyadic groups are also determined.

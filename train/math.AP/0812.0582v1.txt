@@ -1,0 +1,1 @@
+We present a study of the Adomian's Decomposition Method (ADM) applied to the Hamilton-Jacobi equations ut + H (ux) = 0. We recall the well known characteristics methods in the case of this type of equations to justify the existence or not of solutions. This yields that the ADM gives efficient solutions in time only in ]0; T *[, where T * is the critical time of our equation.

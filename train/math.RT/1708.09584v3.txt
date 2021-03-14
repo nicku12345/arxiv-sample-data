@@ -1,0 +1,1 @@
+In this paper we prove a quantum generalization of Regev's theorems in (Israel. J. Math. 195 (2013), 31--35) by applying the Schur-Weyl duality between the quantum superalgebra and Iwahori-Hecke algebra. We also present an alternative proof of the quantized generalizations using the skew character theory of Iwahori-Hecke algebras.

@@ -1,0 +1,1 @@
+The main aim of this paper is to present a direct proof of Di Nola's representation Theorem for MV-algebras and to extend his results to the restriction of the standard MV-algebra on rational numbers. The results are based on a direct proof of the theorem which says that any finite partial subalgebra of a linearly ordered MV-algebra can be embedded into \mathbb Q\cap [0,1].

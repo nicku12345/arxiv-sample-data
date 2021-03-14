@@ -1,0 +1,1 @@
+We construct an adaptive wavelet estimator that attains minimax near-optimal rates in a wide range of Besov balls. The convergence rates are affected only by the weakest dependence amongst the channels, and take into account both noise sources.

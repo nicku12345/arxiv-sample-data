@@ -1,0 +1,1 @@
+The basic representation of \A is studied. The weight vectors are represented in terms of Schur functions. A suitable base of any weight space is given. Littlewood-Richardson rule appears in the linear relations among weight vectors.

@@ -1,0 +1,1 @@
+We consider a linear elastic plate with stress-free boundary conditions in the limit of vanishing Poisson coefficient. We prove that under a local change of Young's modulus infinitely many eigenvalues arise in the essential spectrum which accumulate at a positive threshold. We give estimates on the accumulation rate and on the asymptotical behaviour of the eigenvalues.

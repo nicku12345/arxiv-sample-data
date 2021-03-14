@@ -1,0 +1,1 @@
+We show that there are no non-trivial linear dependencies among p-norms of vectors in finite dimensions that hold for all p. The proof is by complex analytic continuation.

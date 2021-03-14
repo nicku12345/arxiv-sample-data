@@ -1,0 +1,1 @@
+We determine the sharpest constant C_{p,q,r} such that for all complex matrices X and Y, and for Schatten p-, q- and r-norms the inequality  \|XY-YX\|_p\leq C_{p,q,r}\|X\|_q\|Y\|_r  is valid. The main theoretical tool in our investigations is complex interpolation theory.

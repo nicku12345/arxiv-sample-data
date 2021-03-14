@@ -1,0 +1,1 @@
+We prove the following theorem: Let X be a Stein manifold of dimension at least 2 and Y a closed complete pluripolar subset of X. Given a point p in the complement of Y there is a proper holomorphic map f from the unit disc to X such that f(0)=p and the image of f avoids Y.

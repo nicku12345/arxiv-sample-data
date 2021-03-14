@@ -1,0 +1,1 @@
+Motivated by the study of certain non linear free-boundary value problems for hyperbolic systems of partial differential equations arising in Magneto-Hydrodynamics, in this paper we show that an a priori estimate of the solution to certain boundary value problems, in the conormal Sobolev space H1_tan, can be transformed into an L2 a priori estimate of the same problem.

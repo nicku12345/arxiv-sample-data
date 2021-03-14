@@ -1,0 +1,1 @@
+A map between manifolds which matches up families of complete vector fields is a fiber bundle mapping on each orbit of those vector fields.

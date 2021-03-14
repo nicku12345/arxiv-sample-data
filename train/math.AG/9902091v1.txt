@@ -1,0 +1,1 @@
+We compute the convolution product on the equivariant K-groups of the cyclic quiver variety. We get a q-analogue of double-loop algebras, closely related to the toroidal quantum groups previously studied by the authors. We also give a geometric interpretation of the cyclic quiver variety in terms of equivariant torsion-free sheaves on the projective plane.

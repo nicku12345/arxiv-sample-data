@@ -1,0 +1,1 @@
+We use the Dold-Whitney theorem classifying SO(3)-bundles over a 4-complex to give a mod 4 obstruction to a 2-component link of trivial linking number being slice. It turns out that this coincides with the reduction of the Sato-Levine invariant.

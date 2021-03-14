@@ -1,0 +1,1 @@
+Kreisel has observed that the termination proof for Hilbert's epsilon-substitution method bears a resemblance to the priority arguments used in recursion theory. We make this precise by proving the termination using a framework for priority arguments due to Lerman and Lempp.

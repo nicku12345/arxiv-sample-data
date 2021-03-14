@@ -1,0 +1,1 @@
+In this paper we compute the sum of the k-th powers over any finite commutative unital rings, thus generalizing known results for finite fields, the rings of integers modulo n or the ring of Gaussian integers modulo n. As an application we focus on quotient rings of the form \mathbb{Z}/n\mathbb{Z}[x]/(f(x)) for any polynomial f\in\mathbb{Z}[x]

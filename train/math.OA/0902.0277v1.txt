@@ -1,0 +1,1 @@
+A complete contraction on a C*-algebra A, which preserves all closed two sided ideals J, can be approximated pointwise by elementary complete contractions if and only if the induced map on the tensor product of B with A/J is contractive for every C*-algebra B, ideal J in A and C*-tensor norm on the tensor product. A lifting obstruction for such an approximation is also obtained.

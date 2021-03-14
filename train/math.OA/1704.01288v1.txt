@@ -1,0 +1,1 @@
+We construct a class of positive linear maps on matrix algebras. We find conditions when these maps are atomic, decomposable and completely positive. We obtain a large class of atomic positive linear maps. As applications in quantum information theory, we discuss the structural physical approximation and optimality of entanglement witness associated with these maps.

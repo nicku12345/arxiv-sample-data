@@ -1,0 +1,1 @@
+Let p\not =\ell be primes. We study the etale cohomology H^{*}_{et}(BGL_n(\bF_{p^s});\bZ/{\ell}) over the algebraically closed field \bar \bF_p by using the stratification methods from Molina-Vistoli. To compute this cohomology, we use the Delinge-Lusztig variety.

@@ -1,0 +1,1 @@
+We compute the BNS-invariant for the pure symmetric automorphism groups of right-angled Artin groups. We use this calculation to show that the pure symmetric automorphism group of a right-angled Artin group is itself not a right-angled Artin group provided that its defining graph contains a separating intersection of links.

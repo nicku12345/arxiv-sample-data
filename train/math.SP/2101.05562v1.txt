@@ -1,0 +1,1 @@
+We study the trace class perturbations of the half-line, discrete Laplacian and obtain a new bound for the perturbation determinant of the corresponding non-self-adjoint Jacobi operator. Based on this bound, we obtain the Lieb--Thirring inequalities for such operators. The spectral enclosure for the discrete spectrum and embedded eigenvalues are also discussed.

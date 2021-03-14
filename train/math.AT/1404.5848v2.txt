@@ -1,0 +1,1 @@
+We construct a free \mathbb{Z}_2-manifold X_n for a positive integer n such that w_1(X_n)^n \neq 0, but there is no \mathbb{Z}_2-equivariant map from S^2 to X_n.

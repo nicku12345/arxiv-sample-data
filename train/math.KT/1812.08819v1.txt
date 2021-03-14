@@ -1,0 +1,1 @@
+In this paper we introduced the concept of a ring of stable range 2 which has square stable range 1. We proved that a Hermitian ring R which has (right) square stable range 1 is an elementary divisor ring if and only if R is a duo ring of neat range 1. And we proved that a commutative Hermitian ring R is a Toeplitz ring if and only if R is a ring of (right) square range 1.

@@ -1,0 +1,1 @@
+Among other things, it is shown that there exist Banach spaces Z and W such that Z^{**} and W have bases, and for every p\in[1,2) there is an operator T:W\to Z that is not p-nuclear but T^{**} is p-nuclear.

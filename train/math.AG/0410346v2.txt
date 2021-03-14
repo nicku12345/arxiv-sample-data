@@ -1,0 +1,1 @@
+This paper shows that for K a local field, k a subfield of K and X a variety over k, X is complete if and only if for every finite field extension K' of K, X(K') is compact in its strong topology.

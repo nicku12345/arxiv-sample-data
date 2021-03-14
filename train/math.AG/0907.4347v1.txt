@@ -1,0 +1,1 @@
+This paper presents two kinds of division polynomials for twisted Edwards curves. Their chief property is that they characterise the n-torsion points of a given twisted Edwards curve. We also present results concerning the coefficients of these polynomials, which may aid computation.

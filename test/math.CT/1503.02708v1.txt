@@ -1,0 +1,1 @@
+Given a subfactor planar algebra P and a Hilbert P-module of lowest weight 0 we build a bimodule over the symmetric enveloping inclusion associated to P. As an application we prove diagrammatically that the Temperley-Lieb-Jones standard invariants have the Haagerup property. This provides a new proof of a result due to Popa and Vaes.

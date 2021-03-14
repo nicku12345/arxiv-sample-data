@@ -1,0 +1,1 @@
+We prove that Baum-Bott residues vary continuously under smooth deformations of holomorphic foliations. This provides an effective way to compute residues.

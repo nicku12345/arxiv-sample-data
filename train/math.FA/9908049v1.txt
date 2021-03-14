@@ -1,0 +1,1 @@
+Let F(X) denote the norm closure of the space of all finite rank operators on a Banach space X. We show that there are Banach spaces X for which the product map a\otimes b\to ab does not define a surjective map from the projective tensor product F(X) \hat\otimes F(X) onto F(X).

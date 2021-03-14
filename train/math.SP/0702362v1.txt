@@ -1,0 +1,1 @@
+We prove global smoothing and Strichartz estimates for the Schroedinger, wave, Klein-Gordon equations and for the massless and massive Dirac systems, perturbed with singular electromagnetic potentials. We impose a smallness condition on the magnetic part, while the electric part can be large. The decay and regularity assumptions on the coefficients are close to critical.

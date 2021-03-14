@@ -1,0 +1,1 @@
+We give a method for the computation of integral points on a hyperelliptic curve of odd degree over the rationals whose genus equals the Mordell-Weil rank of its Jacobian. Our approach consists of a combination of the p-adic approximation techniques introduced in previous work with the Mordell-Weil sieve

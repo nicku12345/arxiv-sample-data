@@ -1,0 +1,1 @@
+Similarly to the classic notion in E^d, a subset of a positive diameter below \frac{\pi}{2} of a hemisphere of the sphere S^d is called complete, provided adding any extra point increases its diameter. Complete sets are convex bodies on S^d. Our main theorem says that on S^d complete bodies of diameter \delta coincide with bodies of constant width \delta.

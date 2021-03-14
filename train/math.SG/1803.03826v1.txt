@@ -1,0 +1,1 @@
+In this article we give a uniform proof why the shift map on Floer homology trajectory spaces is scale smooth. This proof works for various Floer homologies, periodic, Lagrangian, Hyperk\"ahler, elliptic or parabolic, and uses Hilbert space valued Sobolev theory.

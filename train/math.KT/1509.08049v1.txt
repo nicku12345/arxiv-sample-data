@@ -1,0 +1,1 @@
+Given an associative unital algebra A over a perfect field k of odd positive characteristic, we construct a non-commutative generalization of the Cartier isomorphism for A. The role of differential forms is played by Hochschild homology classes, and de Rham diferential is replaced with the Connes-Tsygan differential.

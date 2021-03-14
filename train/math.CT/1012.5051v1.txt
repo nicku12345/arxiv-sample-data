@@ -1,0 +1,1 @@
+Under the assumption that the continuum c is a regular cardinal, we prove the existence and uniqueness of a Boolean algebra B of size c defined by sharing the main structural properties that P(N)/fin has under CH and in the aleph2-Cohen model. We prove a similar result in the category of Banach spaces.

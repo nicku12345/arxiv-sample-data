@@ -1,0 +1,1 @@
+We study a many-server queuing system with general service time distribution and state dependent service rates. The dynamics of the system are modeled using measure valued processes which keep track of the residual service times. Under suitable conditions, we prove the existence of a unique fluid limit.

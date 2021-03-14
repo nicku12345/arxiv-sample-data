@@ -1,0 +1,1 @@
+Let H be a Hilbert space and let F be the family of all countable subsets of an orthonormal basis of H. We show that if F is infinite then F is equipollent with every linear basis of the vector space H. In doing so we also present a short proof of the Erd\"os-Kaplansky theorem more natural and much easier than the one by Bourbaki.

@@ -1,0 +1,1 @@
+We prove that the partition function p(n) is log-concave for all n>25. We then extend the results to resolve two related conjectures by Chen. The proofs are based on Lehmer's estimates on the remainders of the Hardy--Ramanujan and the Rademacher series for p(n).

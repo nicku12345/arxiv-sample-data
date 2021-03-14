@@ -1,0 +1,1 @@
+In this paper, we establish the lower semicontinuity of the solution mapping and of the approximate solution mapping for parametric fixed point problems under some suitable conditions. As applications, the lower semicontinuity result applies to the parametric vector quasi-equilibrium problem, and allows to prove the existence of solutions for generalized Stackelberg games.

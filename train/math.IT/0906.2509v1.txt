@@ -1,0 +1,1 @@
+For each odd prime power q, let 4 \leq n\leq q^{2}+1. Hermitian self-orthogonal [n,2,n-1] codes over GF(q^{2}) with dual distance three are constructed by using finite field theory. Hence, [[n,n-4,3]]_{q} quantum MDS codes for 4 \leq n\leq q^{2}+1 are obtained.

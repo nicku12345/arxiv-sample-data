@@ -1,0 +1,1 @@
+For a finite free EI category, we construct an explicit module over its category algebra. If in addition the category is projective over the ground field, the constructed module is Gorenstein-projective and is a maximal Cohen-Macaulay approximation of the trivial module. We give conditions on when the trivial module is Gorenstein-projective.

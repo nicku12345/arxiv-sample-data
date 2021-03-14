@@ -1,0 +1,1 @@
+For any von Neumann algebra \mathcal M, the noncommutative Mazur map M_{p,q} from L_p(\mathcal M) to L_q(\mathcal M) with 1\leq p,q<\infty is defined by f\mapsto f|f|^{\frac {p-q}q}. In analogy with the commutative case, we gather estimates showing that M_{p,q} is \min\{\frac pq,1\}-H\"older on balls.

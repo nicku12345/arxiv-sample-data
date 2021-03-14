@@ -1,0 +1,1 @@
+We use the Fock space representation of the quantum affine algebra of type A^{(2)}_{2n} to obtain a description of the global crystal basis of its basic level 1 module. We formulate a conjecture relating this basis to decomposition matrices of spin symmetric groups in characteristic 2n+1.

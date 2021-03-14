@@ -1,0 +1,1 @@
+An explicitly solvable quasi 1D model of oil displacement is studied. The problem of recovering of the reservoir geometry is solved by means of a fixed point algorithm. The stability of solution is studied in various functional classes.

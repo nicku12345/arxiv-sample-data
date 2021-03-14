@@ -1,0 +1,1 @@
+We analyze entropy solutions for a class of Levy mixed hyperbolicparabolic equations containing a non-local (or fractional) diffusion operator originating from a pure jump Levy process. For these solutions we establish uniqueness (L1 contraction property) and continuous dependence results.

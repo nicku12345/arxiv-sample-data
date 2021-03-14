@@ -1,0 +1,1 @@
+In this article, we try to give a rather complete picture of the behavior of the free energy for a model of directed polymer in a random environment, in which the polymer is a simple symmetric random walk on the lattice \Z^d, and the environment is a collection \{W(t,x);t\ge 0, x\in \Z^d\} of i.i.d. Brownian motions.

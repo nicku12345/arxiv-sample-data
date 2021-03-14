@@ -1,0 +1,1 @@
+Let s in S_n be a product of disjoint cycles of the same length, C the conjugacy class of s and rho an irreducible representation of the isotropy group of s. We prove that either the Nichols algebra B(C, rho) is infinite-dimensional, or the braiding of the Yetter-Drinfeld module is negative.

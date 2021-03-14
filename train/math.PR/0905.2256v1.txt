@@ -1,0 +1,1 @@
+If C_1 is the convex hull of the curve of the standard Brownian motion in the complex plane watched from 0 to 1, we consider the convex hulls of C_1 and several rotations of it and we compute the mean of the length of their perimeter by elementary calculations.

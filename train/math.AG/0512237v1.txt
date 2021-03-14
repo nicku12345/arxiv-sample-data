@@ -1,0 +1,1 @@
+We consider zeta functions with values in the Grothendieck ring of Chow motives. Investigating the lambda-structure of this ring, we deduce a functional equation for the zeta function of abelian varieties. Furthermore, we show that the property of having a rational zeta function satisfying a functional equation is preserved under products.

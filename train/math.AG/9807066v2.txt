@@ -1,0 +1,1 @@
+We address the problem of determining the degree a plane curve must have in order to pass with multiplicity m through r points in general position. A conjecture of Nagata states that one must have d > m \sqrt{r}. We prove the inequalities d \geq m(r-1)\prod_{i=2}^{r-1}(1-i/(i^2+r-1)) and d > m (\sqrt{r-1} - \pi/8).

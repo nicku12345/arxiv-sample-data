@@ -1,0 +1,1 @@
+We compute low-degree cohomology of current Lie algebras extended over the 3-dimensional simple algebra, compute deformations of related semisimple Lie algebras, and apply these results to classification of simple Lie algebras of absolute toral rank 2 and having a Cartan subalgebra of toral rank one. Everything is in characteristic 2.

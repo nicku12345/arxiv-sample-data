@@ -1,0 +1,1 @@
+We study the deformation theory of quotients of polynomial rings by quadratic monomial ideals. More precisely we compute the first cotangent cohomology module of such rings. We also give a criterion for vanishing of second cotangent cohomology module.

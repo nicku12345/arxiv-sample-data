@@ -1,0 +1,1 @@
+Using a recent result of Bogdanov and Guterman on the linear preservers of pairs of simultaneously diagonalizable matrices, we determine all the automorphisms of the vector space M_n(R) which stabilize the set of diagonalizable matrices. To do so, we investigate the structure of linear subspaces of diagonalizable matrices of M_n(R) with maximal dimension.

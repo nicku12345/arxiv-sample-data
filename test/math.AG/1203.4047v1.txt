@@ -1,0 +1,1 @@
+Let q be a power of a prime integer p, and let X be a Hermitian variety of degree q+1 in the n-dimensional projective space. We count the number of rational normal curves that are tangent to X at distinct q+1 points with intersection multiplicity n. This generalizes a result of B. Segre on the permutable pairs of a Hermitian curve and a smooth conic.

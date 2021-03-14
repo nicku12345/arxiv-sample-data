@@ -1,0 +1,1 @@
+Using aritmethic conditions on affine semigroups we prove that for a simplicial toric variety of codimension 2 the property of being a set-theoretic complete intersection on binomials in characteristic p holds either for all primes p, or for no prime p, or for exactly one prime p.

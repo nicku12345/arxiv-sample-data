@@ -1,0 +1,1 @@
+It was recently proved by Bayart et al. that the complex polynomial Bohnenblust--Hille inequality is subexponential. We show that, for real scalars, this does no longer hold. Moreover, we show that, if D_{\mathbb{R},m} stands for the real Bohnenblust--Hille constant for m-homogeneous polynomials, then \displaystyle\lim\sup_{m}D_{\mathbb{R},m}^{1/m}=2.

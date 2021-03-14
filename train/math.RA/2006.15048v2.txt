@@ -1,0 +1,1 @@
+We provide a novel recursive method, which does not require any assumption, to compute the entries of the kth power of a semicirculant matrix. As an application, a method for computing the entries of the kth power of r-circulant matrices is also presented.

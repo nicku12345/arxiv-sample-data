@@ -1,0 +1,1 @@
+We consider C^*-actions on Fukaya categories of exact symplectic manifolds. Such actions can be constructed by dimensional induction, going from the fibre of a Lefschetz fibration to its total space. We explore applications to the topology of Lagrangian submanifolds, with an emphasis on ease of computation.

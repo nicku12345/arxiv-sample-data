@@ -1,0 +1,1 @@
+We present an integral representation of Kekul\'{e} numbers for P_{2} (n) benzenoids. Related integrals of the form \int_{-\pi}^{\pi} \frac{\cos(nx)}{\sin^{2}x +k} dx are evaluated. Conjectures relating double integrals of the form \int_{0}^{m} \int_{-\pi}^{\pi} \frac{\cos (2nx)}{k+\sin^{2}x} dx dk  to Smarandache sequences are presented.

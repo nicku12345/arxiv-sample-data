@@ -1,0 +1,1 @@
+This is an exposition of our work on the canonical models of representations of Hardy algebras associated with W^*-correspondences. It generalizes the model theory of Sz.-Nagy and Foias and the work of Popescu on models of row contractions. We also emphasize the concept of duality for W^*-correspondences and its relation to Morita equivalence of correspondenses.

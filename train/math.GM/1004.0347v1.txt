@@ -1,0 +1,1 @@
+In this paper we prove that if P_1, P_2 are isogonal points in the triangle ABC, and if A_1B_1C_1 and A_2B_2C_2 are their corresponding pedal triangles such that the triangles ABC and A_1B_1C_1 are homological (the lines AA_1, BB_1, CC_1 are concurrent), then the triangles ABC and A_2B_2C_2 are also homological.

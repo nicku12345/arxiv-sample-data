@@ -1,0 +1,1 @@
+We present a method to determine Frobenius elements in arbitrary Galois extensions of global fields, which may be seen as a generalisation of Euler's criterion. It is a part of the general question how to compare splitting fields and identify conjugacy classes in Galois groups, that we will discuss as well.

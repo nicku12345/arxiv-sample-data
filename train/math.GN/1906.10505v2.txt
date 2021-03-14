@@ -1,0 +1,1 @@
+We study some variations of the product topology on families of clopen subsets of 2^{\mathbb{N}}\times\mathbb{N} in order to construct countable nodec regular spaces (i.e. in which every nowhere dense set is closed) with analytic topology which in addition are not selectively separable and do not satisfy the combinatorial principle q^+.

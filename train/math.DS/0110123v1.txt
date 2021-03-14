@@ -1,0 +1,1 @@
+Let M be an n-dimensional manifold supporting a quasi Anosov diffeomorphism. If n=3 then either M={\mathbb T}^3, in which case the diffeomorphisms is Anosov, or else its fundamental group contains a copy of {\mathbb Z} ^6. If n=4 then \Pi_1(M) contains a copy of {\mathbb Z} ^4, provided that the diffeomorphism is not Anosov.

@@ -1,0 +1,1 @@
+The paper deals with equations driven by a non-local integrodifferential operator \mathcal L_K with homogeneous Dirichlet boundary conditions. These equations have a variational structure and we find a solution for them using the Saddle Point Theorem.

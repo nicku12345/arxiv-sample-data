@@ -1,0 +1,1 @@
+Let A and B be subsets of Z/pZ such that |A+B| < |A|+|B|+2. We prove that, if |A|>3, |B|>4, |A+B|<p-4 and p > 52, then A and B are included in arithmetic progressions with the same difference and of size |A|+2 and |B|+2 respectively. This extends the well-known theorem of Vosper and a recent result of Rodseth and one of the present authors.

@@ -1,0 +1,1 @@
+Frieze patterns are defined by objects of a category of Dyck paths, to do that, it is introduced the notion of diamond of Dynkin type An. Such diamonds constitute a tool to build integral frieze patterns.

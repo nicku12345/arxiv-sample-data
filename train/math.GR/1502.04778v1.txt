@@ -1,0 +1,1 @@
+This note deals with the computation of the factorization number F_2(G) of a finite group G. By using the M\"{o}bius inversion formula, explicit expressions of F_2(G) are obtained for two classes of finite abelian groups, improving the results of {\it Factorization numbers of some finite groups}, Glasgow Math. J. (2012).

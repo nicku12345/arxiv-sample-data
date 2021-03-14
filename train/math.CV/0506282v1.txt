@@ -1,0 +1,1 @@
+Let C be real-analytic simple closed curve in the complex plane which is symmetric with respect to the real axis. Let r>0 be such that C+ir misses C-ir. We prove that if a continuous function f extends holomorphically from C+it for each t in [-r,r] then f is holomorphic.

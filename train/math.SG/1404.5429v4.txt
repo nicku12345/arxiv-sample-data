@@ -1,0 +1,1 @@
+We enumerate, via floor diagrams, complex and real curves in the projective plane blown up in n points on a conic. As an application, we deduce Gromov-Witten and Welschinger invariants of Del Pezzo surfaces. These results are mainly obtained using Li's degeneration formula and its real counterpart.

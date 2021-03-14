@@ -1,0 +1,1 @@
+A bounded domain in several complex variables with connected Lipschitz boundary is pseudoconvex if and only if the bottom of the (essential) spectrum of the Kohn Laplacian is positive on all (0, q)-forms with square-integrable coefficients.

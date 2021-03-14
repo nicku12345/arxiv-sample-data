@@ -1,0 +1,1 @@
+Using classical transformations on the symmetric group and two transformations constructed in Fix-Mahonian Calculus I, we show that several multivariable statistics are equidistributed either with the triplet (fix,des,maj), or the pair (fix,maj), where "fix," "des" and "maj" denote the number of fixed points, the number of descents and the major index, respectively.

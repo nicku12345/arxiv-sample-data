@@ -1,0 +1,1 @@
+If X is a non-empty subset of a finite group G, we denote by o(x) the order of x in G. Then we put The number o(X) is called the average order of X. Zapirain in 2011 , posed the following question: Let G be a finite (p-) group and N a normal (abelian) subgroup of G. Is it true that o(G) ? Here, we will improve his question and confirm it.

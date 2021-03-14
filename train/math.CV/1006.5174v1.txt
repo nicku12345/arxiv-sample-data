@@ -1,0 +1,1 @@
+We prove that planar homeomorphisms can be approximated by diffeomorphisms in the Sobolev space W^{1,2} and in the Royden algebra. As an application, we show that every discrete and open planar mapping with a holomorphic Hopf differential is harmonic.

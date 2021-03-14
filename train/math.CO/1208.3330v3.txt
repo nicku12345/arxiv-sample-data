@@ -1,0 +1,1 @@
+We prove an upper bound on sums of squares of minors of {+1, -1} matrices. The bound is sharp for Hadamard matrices, a result due to de Launey and Levin (2009), but our proof is simpler. We give several corollaries relevant to minors of Hadamard matrices, and generalise a result of Turan on determinants of random {+1,-1} matrices.

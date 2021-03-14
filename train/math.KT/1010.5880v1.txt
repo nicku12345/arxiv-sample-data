@@ -1,0 +1,1 @@
+Let k be a field of characteristic \ne 2 and let Q_{n,m}(x_1, ...,x_n,y_1, ...,y_m)=x_1^2+ ... +x_n^2-(y_1^2+ ... +y_m^2) be a quadratic form over k. Let R(Q_{n,m})=R_{n,m}=k[x_1, ...,x_n,y_1, ...,y_m]/(Q_{n,m}-1). In this note we will calculate \wt K_0(R_{n,m}) for every n,m \geq 0.

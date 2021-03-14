@@ -1,0 +1,1 @@
+If a knot K has Seifert matrix V_K and has a prime power cyclic branched cover that is not a homology sphere, then there is an infinite family of non-concordant knots having Seifert matrix V_K.

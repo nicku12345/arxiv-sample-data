@@ -1,0 +1,1 @@
+We show that given a one parameter family F_b of strongly dissipative infinitely renormalisable H\'enon-like maps, parametrised by a quantity called the `average Jacobian' b, the set of all parameters b such that F_b has a Cantor set with unbounded geometry has full Lebesgue measure.

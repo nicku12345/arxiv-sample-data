@@ -1,0 +1,1 @@
+In this article, we present a simple criterion for checking whether a one-parameter matrix group of dilations admits a continuous wavelet. This criterion involves only checking that the eigenvalues of the symmetric part of the matrix have the same sign. In R^2 this criterion gives a complete characterization of such matrix groups.

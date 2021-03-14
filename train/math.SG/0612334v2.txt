@@ -1,0 +1,1 @@
+Let M be a compact orientable Seifered fibered 3-manifold without a boundary, and \alpha an S^1-invariant contact form on M. In a suitable adapted Riemannian metric to \alpha, we provide a bound for the volume \text{Vol}(M) and the curvature, which implies the universal tightness of the contact structure \xi=\ker\alpha.

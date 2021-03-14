@@ -1,0 +1,1 @@
+In this paper, we generalize Serre's splitting theorem for cohomological invariants of the symmetric group to finite Coxeter groups, provided that the ground field has characteristic zero. We then use this principle to determine all the cohomological invariants of Weyl groups of classical type with coefficients modulo 2.

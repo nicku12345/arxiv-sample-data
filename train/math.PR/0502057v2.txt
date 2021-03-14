@@ -1,0 +1,1 @@
+Let U be a domain, convex in x and symmetric about the y-axis, which is contained in a centered and oriented rectangle R. \linebreak If \tau_A is the first exit time of Brownian motion from A and A^+=A\cap \{(x,y):x>0\}, it is proved that P^z(\tau_{U^+}>s\mid \tau_{R^+}>t)\leq P^z(\tau_{U}>s\mid \tau_{R}>t) for every s,t>0 and every z\in U^+.

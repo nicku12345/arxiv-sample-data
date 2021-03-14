@@ -1,0 +1,1 @@
+We study lower bounds for the self-intersection of the canonical divisor of "canonical varieties" (i.e. varieties whose canonical linear system gives a birational map). We give some improvements for the known results in the case of surfaces and new bounds for the case of canonical threefolds.

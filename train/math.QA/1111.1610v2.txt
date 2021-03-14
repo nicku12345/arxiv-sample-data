@@ -1,0 +1,1 @@
+Let H be a finite-dimensional Hopf algebra. We give a description of the tensor product of bimodule categories over Rep(H). When the bimodule categories are invertible this description can be given explicitly. We present some consequences of this description in the case H is a pointed Hopf algebra.

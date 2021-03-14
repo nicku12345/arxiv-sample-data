@@ -1,0 +1,1 @@
+We prove a compactness result for bounded sequences (u_j)_j of functions with bounded variation in metric spaces (X,d_j) where the space X is fixed but the metric may vary with j. We also provide an application to Carnot-Carath\'eodory spaces.

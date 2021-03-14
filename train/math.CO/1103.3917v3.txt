@@ -1,0 +1,1 @@
+Let Q(n,c) denote the minimum clique size an n-vertex graph can have if its chromatic number is c. Using Ramsey graphs we give an exact, albeit implicit, formula for the case c is at least (n+3)/2.

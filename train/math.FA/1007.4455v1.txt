@@ -1,0 +1,1 @@
+Let 1< \alpha <2 and A be the generator of an \alpha-times resolvent family \{S_\alpha(t)\}_{t \ge 0} on a Banach space X. It is shown that the fractional Cauchy problem {\bf D}_t^\alpha u(t) = Au(t)+f(t), t \in [0,r]; u(0), u'(0) \in D(A) has maximal regularity on C([0,r];X) if and only if S_\alpha(\cdot) is of bounded semivariation on [0,r].

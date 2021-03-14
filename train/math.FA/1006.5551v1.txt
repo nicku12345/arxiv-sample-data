@@ -1,0 +1,1 @@
+In dimension one we give a maximal function characterisation of the Hardy space H^1(g) for the Gauss measure g, introduced by G. Mauceri and S. Meda. In arbitrary dimension, we give a description of the nonnegative functions in H^1(g) and use it to prove that L^p(g) is a contained in H^1(g) for 1<p\le\infty.

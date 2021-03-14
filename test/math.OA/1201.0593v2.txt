@@ -1,0 +1,1 @@
+We introduce a preorder relation in the collection of all operator valued completely positive maps on a full Hilbert C*-module and characterize this relation in terms of the Stinespring construction associated to each completely positive map.

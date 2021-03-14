@@ -1,0 +1,1 @@
+We prove that for a coarse space X the ideal S(X) of small subsets of X coincides with the ideal D_<(X) of subsets A\subset X of asymptotic dimension asdim(A)<asdim(X) provided that X is coarsely equivalent to an Euclidean space R^n. Also we prove that for a locally compact Abelian group X, the equality S(X)=D_<(X) holds if and only if the group X is compactly generated.

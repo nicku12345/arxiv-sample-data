@@ -1,0 +1,1 @@
+We present a new proof of the Burkholder-Davis-Gundy inequalities for 1\leq p<\infty. The novelty of our method is that these martingale inequalities are obtained as consequences of elementary deterministic counterparts. The latter have a natural interpretation in terms of robust hedging.

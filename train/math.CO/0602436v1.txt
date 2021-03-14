@@ -1,0 +1,1 @@
+In this paper we obtain several tight bounds on different types of alliance numbers of a graph: (global) defensive alliance number, global offensive alliance number and global dual alliance number. In particular, we investigate the relationship between the alliance numbers of a graph and its algebraic connectivity, its spectral radius, and its Laplacian spectral radius.

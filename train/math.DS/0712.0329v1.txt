@@ -1,0 +1,1 @@
+Given a diffeomorphism of the plane, which has a periodic orbit, we show how Nielsen fixed point theory can be used to establish the existence of a fixed point which is linked with this periodic orbit.

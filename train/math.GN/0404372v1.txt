@@ -1,0 +1,1 @@
+Suppose that a topological space X is the union of an increasing sequence of open subsets each of which is homeomorphic to the Euclidean space R^n. Then X itself is homeomorphic to R^n. This is an old theorem of Morton Brown. We observe that this theorem is an immediate consequence of other two theorems of Morton Brown concerning near homeomorphisms and cellular sets.

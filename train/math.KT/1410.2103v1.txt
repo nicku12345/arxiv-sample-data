@@ -1,0 +1,1 @@
+In this paper, we prove the K-theoretical and L-theoretical Farrell-Jones Conjecture with coefficients in an additive category for nearly crystallographic groups of the form \mathbb{Q}^n \rtimes \mathbb{Z}, where \mathbb{Z} acts on \mathbb{Q}^n as an irreducible integer matrix with determinant d, |d |>1.

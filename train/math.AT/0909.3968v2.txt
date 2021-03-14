@@ -1,0 +1,1 @@
+The f-invariant is a higher version of the e-invariant that takes values in the divided congruences between modular forms; in the situation of a cartesian product of two framed manifolds, the f-invariant can actually be computed from the e-invariants of the factors. The purpose of this note is to determine the f-invariant of all such products.

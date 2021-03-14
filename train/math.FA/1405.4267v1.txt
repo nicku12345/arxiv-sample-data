@@ -1,0 +1,1 @@
+Let X be a pointed compact metric space. Assuming that \mathrm{lip}_0(X) has the uniform separation property, we prove that every weakly compact composition operator on spaces of Lipschitz functions \mathrm{Lip}_0(X) and \mathrm{lip}_0(X) is compact.

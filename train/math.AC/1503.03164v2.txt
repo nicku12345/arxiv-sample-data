@@ -1,0 +1,1 @@
+We compute the Frobenius complexity for the determinantal ring of prime characteristic p obtained by modding out the 2 \times 2 minors of an m \times n matrix of indeterminates, where m > n \ge 2. We also show that, as p \to \infty, the Frobenius complexity approaches m-1.

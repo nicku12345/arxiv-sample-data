@@ -1,0 +1,1 @@
+Let \Omega\subset \mathbb{C} be a bounded domain with \mathcal{C}^{1,\omega}-smooth boundary, where \omega is a Dini-smooth modulus of continuity. We prove that the restricted Beurling transform is bounded on the Campanato space \mathrm{BMO}_\omega(\Omega).

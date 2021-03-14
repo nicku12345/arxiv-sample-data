@@ -1,0 +1,1 @@
+Let M be a closed, connected, orientable 3-manifold. The purpose of this paper is to study the Seiberg-Witten Floer homology of M given that S^1 X M admits a symplectic form. In particular, we prove that M fibers over the circle if M has first Betti number 1 and S^1 X M admits a symplectic form with non-torsion canonical class.

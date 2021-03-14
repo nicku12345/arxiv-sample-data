@@ -1,0 +1,1 @@
+In this paper we established a class of optimal fourth-order methods which is obtained by existing third-order method for solving nonlinear equations for simple roots by using weight functions. Some physical examples are given to illustrate the efficiency and performance of our method.

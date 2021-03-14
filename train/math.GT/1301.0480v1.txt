@@ -1,0 +1,1 @@
+We provide an intergral lift of the combinatorial definition of Heegaard Floer homology for nice diagrams, and show that the proof of independence using convenient diagrams adapts to this setting.

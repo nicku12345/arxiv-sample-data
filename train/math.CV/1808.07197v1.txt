@@ -1,0 +1,1 @@
+We prove that if the modulus of continuity of a plurisubharmonic subsolution satisfies a Dini type condition then the Dirichlet problem for the complex Monge-Amp\`ere equation has the continuous solution. The modulus of continuity of the solution is also given if the right hand side is locally dominated by capacity.

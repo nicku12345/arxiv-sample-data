@@ -1,0 +1,1 @@
+This is a survey article describing the proof that the crossed product C^* (Z, M, h) of a compact smooth manifold M by a minimal diffeomorphism h of M is isomorphic to a direct limit of recursive subhomogeneous C*-algebras.

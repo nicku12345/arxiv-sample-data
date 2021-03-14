@@ -1,0 +1,1 @@
+The purpose of this note is to give a description of the stable homotopy group of some 2-stage Postnikov systems for a range of dimensions. The considered 2-stage Postnikov systems has the (weak) homotopy type of a generalized Eilenberg-Mac lane space, then their stable homotopy groups can be calculated by the stable homotopy groups of generalized Eilenberg-Mac lane spaces.

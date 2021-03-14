@@ -1,0 +1,1 @@
+Given an aleph_1-free abelian group G we characterize the class C_G of all torsion abelian groups T satisfying Ext(G,T)=0 assuming the continuum hypothesis CH. Moreover, in Godel's constructable universe we prove that this characterizes C_G for arbitrary torsion-free abelian G. It follows that there exist some ugly aleph_1-free abelian groups.

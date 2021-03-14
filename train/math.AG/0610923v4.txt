@@ -1,0 +1,1 @@
+We construct a \bar Q_l-linear Tannakian category attached to a smooth projective curve C equivalent to the category of finite dimensional \bar Q_l-representations Rep(G), where G is Sp(2g-2,\bar Q_l) or Sl(2g-2,\bar Q_l) depending on whether C is hyperelliptic or not.

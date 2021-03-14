@@ -1,0 +1,1 @@
+Let k\subseteq K be a finite Galois extension of fields with Galois group G. Let \mathscr{G} be the automorphism k-group scheme of K. We construct a canonical k-subgroup scheme \underline{G}\subset\mathscr{G} with the property that Spec_k(K) is a k-torsor for \underline{G}. \underline{G} is a constant k-group if and only if G is abelian, in which case G=\underline{G}.

@@ -1,0 +1,1 @@
+A method for encoding and decoding spectrum shaped binary run-length constrained sequences is described. The binary sequences with predefined range of exponential sums are introduced. On the base of Cover's enumerative scheme, recurrence relations for calculating the number of these sequences are derived. Implementation of encoding and decoding procedures is also shown.

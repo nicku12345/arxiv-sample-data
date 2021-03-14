@@ -1,0 +1,1 @@
+It is shown that a random (0,1) matrix whose rows are independent random vectors of exactly n/2 zero components is non-singular with probability 1-O(n^{-C}) for any C>0. The proof uses a non-standard inverse-type Littlewood-Offord result.

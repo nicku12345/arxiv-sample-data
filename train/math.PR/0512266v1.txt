@@ -1,0 +1,1 @@
+A stochastic version of the porous medium equation with coloured noise is studied. The corresponding Kolmogorov equation is solved in the space L^2(H,\nu) where \nu is an infinitesimally excessive measure. Then a weak solution is constructed.

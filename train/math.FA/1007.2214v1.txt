@@ -1,0 +1,1 @@
+We will show that a theorem of Rudin \cite{wr1}, \cite{wr}, permits us to determine minimal projections not only with respect to the operator norm but with respect to quasi-norms in operators ideals and numerical radius in many concrete cases.

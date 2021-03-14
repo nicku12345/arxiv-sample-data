@@ -1,0 +1,1 @@
+Tropical curves in \mathbb{R}^2 correspond to metric planar graphs but not all planar graphs arise in this way. We describe several new classes of graphs which cannot occur. For instance, this yields a full combinatorial characterization of the tropically planar graphs of genus at most five.

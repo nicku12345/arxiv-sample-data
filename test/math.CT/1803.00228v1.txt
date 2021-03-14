@@ -1,0 +1,1 @@
+We describe a structure of PRO on hypermatrices. This structure allows us to define multilinear representations of PROs and in particular of free Pros. As an example of applications, we investigate the relations of the representations of Pros with the theory of automata.

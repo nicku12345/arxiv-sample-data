@@ -1,0 +1,1 @@
+We establish some basic theorems in dimension theory and absolute extensor theory in the coarse category of metric spaces. Some of the statements in this category can be translated in general topology language by applying the Higson corona functor. The relation of problems and results of this `Asymptotic Topology' to Novikov and similar conjectures is discussed.

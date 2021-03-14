@@ -1,0 +1,1 @@
+In this paper we introduce the Cheeger-Simons cohomology of a global quotient orbifold. We prove that the Cheeger-Simons cohomology of the orbifold is isomorphic to its Beilinson-Deligne cohomology. Furthermore we construct a string connection (\`{a} la Segal) from a global gerbe with connection over the loop orbifold, refining the corresponding differential character.

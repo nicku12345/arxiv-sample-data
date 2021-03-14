@@ -1,0 +1,1 @@
+We show that a linear decomposition attack based on the decomposition method introduced by the first author in monography "Algebraic cryptography" and in a series of papers works by finding the exchanging key in the Abdrecut's protocol.

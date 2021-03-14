@@ -1,0 +1,1 @@
+Fifth-order 1D nonlinear dispersion equations are shown to admit blow-up formation of shock waves as well as rarefaction waves. The concepts of smooth deformations are applied to distinguish "entropy" shocks from smooth rarefaction waves. Single point gradient catastrophe is shown to lead to nonuniqueness after blow-up.

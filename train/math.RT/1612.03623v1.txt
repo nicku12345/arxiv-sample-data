@@ -1,0 +1,1 @@
+Let V be a finite dimensional vector space over a local field F. Let \chi: F^\times \rightarrow \mathbb C^\times be an arbitrary character of F^\times. We determine the structure of the natural representation of \mathrm{GL}(V) on the space \mathcal{S}^*(V)^\chi of \chi-invariant distributions on V.

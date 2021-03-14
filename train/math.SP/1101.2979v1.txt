@@ -1,0 +1,1 @@
+We discuss Laplacians on graphs in a framework of regular Dirichlet forms. We focus on phenomena related to unboundedness of the Laplacians. This includes (failure of) essential selfadjointness, absence of essential spectrum and stochastic incompleteness.

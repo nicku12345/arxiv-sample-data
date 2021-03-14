@@ -1,0 +1,1 @@
+We examine the existence of universal elements in classes of infinite abelian groups. The main method is using group invariants which are defined relative to club guessing sequences. We prove, for example:   Theorem: For n\ge 2, there is a purely universal separable p-group in \aleph_n if, and only if, \cont\le \aleph_n.

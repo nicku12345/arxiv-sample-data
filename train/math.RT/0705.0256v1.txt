@@ -1,0 +1,1 @@
+The Fourier coefficients of a smooth K-invariant function on a compact symmetric space M=U/K are given by integration of the function against the spherical functions. For functions with support in a neighborhood of the origin, we describe the size of the support by means of the exponential type of a holomorphic extension of the Fourier coefficients

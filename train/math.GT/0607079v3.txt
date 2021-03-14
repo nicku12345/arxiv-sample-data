@@ -1,0 +1,1 @@
+We define the basket number, the flat plumbing number and the flat plumbing basket number of a link. Then we provide some upperbounds for these plumbing numbers by using Seifert's algorithm. We study the relation between these plumbing numbers and the genera of links.

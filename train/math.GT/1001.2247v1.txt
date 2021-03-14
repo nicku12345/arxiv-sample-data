@@ -1,0 +1,1 @@
+In this paper, it is shown that there are no nonconstant Goussarov-Polyak-Viro finite-type invariants that are invariant under the virtualization move. As an immediate corollary, we obtain the theorem which states none of the Birman coefficients of the Jones-Kauffman polynomial are of GPV finite type.

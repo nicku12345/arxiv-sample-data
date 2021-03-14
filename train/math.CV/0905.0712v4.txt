@@ -1,0 +1,1 @@
+We will prove that a function u(x,y) defined on a domain of RpxRq that is subharmonic in one variable and harmonic in the other is (jointly) subharmonic. This solves a long-standing open problem.

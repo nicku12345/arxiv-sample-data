@@ -1,0 +1,1 @@
+Dirac delta function (delta-distribution) approach can be used as efficient method to derive identities for number series and their reciprocals. Applying this method, a simple proof for identity relating prime counting function (pi-function) and logarithmic integral (Li-function) can be obtained.

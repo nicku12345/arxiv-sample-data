@@ -1,0 +1,1 @@
+By Gromov's mapping theorem for bounded cohomology, the projection of a group to the quotient by an amenable normal subgroup is isometric on group homology with respect to the \ell^1-semi-norm. Gromov's description of the diffusion of cycles also implicitly produces efficient cycles in this situation. We present an elementary version of this explicit construction.

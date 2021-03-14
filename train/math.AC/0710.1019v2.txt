@@ -1,0 +1,1 @@
+Let D be a Noetherian domain containing a field, d a nonzero nonunit of D and z an indeterminate over D. We prove that the generic fiber of D[1/d][[z]] over D[[z]] has dimension greater than the dimension of D/dD.

@@ -1,0 +1,1 @@
+We prove an a-priori bound for the Lipschitz constant of a smooth one-phase free boundary graph F(u) in two dimensions. The function u satisfies a fully nonlinear elliptic equation in its positive side, and the gradient of u is equal to 1 on F(u).

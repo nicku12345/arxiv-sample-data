@@ -1,0 +1,1 @@
+Given a minimal set of generators \bold{x} of an ideal I of height d in a regular local ring (R, m, k) we prove several cases for which the map K_d(\bold{x}; R) \otimes k \to \Tor_d^R (R/I, k) is the 0-map. As a consequence of the order ideal conjecture we derive several cases for which K_{d+i}(\bold{x}; R) \otimes k \to \Tor_{d+i}^R (R/I, k) are 0-maps for i \ge 0.

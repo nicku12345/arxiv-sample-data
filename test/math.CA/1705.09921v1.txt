@@ -1,0 +1,1 @@
+We give an estimate for sums appearing in the Nyman-Beurling criterion for the Riemann Hypothesis containing the M\"obius function. The estimate is remarkably sharp in comparison to estimates of other sums containing the M\"obius function. The methods intensively use tools from the theory of continued fractions and from the theory of Fourier series.

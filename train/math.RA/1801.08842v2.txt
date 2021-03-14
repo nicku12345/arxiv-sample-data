@@ -1,0 +1,1 @@
+The class of self-conjugate-reciprocal irreducible monic (SCRIM) polynomials over finite fields are studied. Necessary and sufficient conditions for monic irreducible polynomials to be SCRIM are given. The number of SCRIM polynomials of a given degree are also determined.

@@ -1,0 +1,1 @@
+Let A be an abelian variety over a number field K. If P and Q are K-rational points of A such that the order of the reduction of Q divides that of P for all but finitely many primes of the ring of integers of K, then there exists a K-endomorphism \phi of A and a positive integer k such that kQ = \phi(P).

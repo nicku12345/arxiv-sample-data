@@ -1,0 +1,1 @@
+We study a version of the functional Hodrick-Prescott filter where the associated operator is not necessarily compact, but merely closed and densely defined with closed range. We show that the associated optimal smoothing operator preserves the structure obtained in the compact case, when the underlying distribution of the data is Gaussian.

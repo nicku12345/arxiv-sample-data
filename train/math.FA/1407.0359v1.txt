@@ -1,0 +1,1 @@
+It is shown that if S is a commuting family of weak^{\ast } continuous nonexpansive mappings acting on a weak^{\ast } compact convex subset C of the dual Banach space E, then the set of common fixed points of S is a nonempty nonexpansive retract of C. This partially solves a long-standing open problem in metric fixed point theory in the case of commutative semigroups.

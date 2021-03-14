@@ -1,0 +1,1 @@
+The game theoretical approach problem is considered. If goal set is controllability set of auxiliary control system then the original problem can be transformed into the problem of approach "at the moment".

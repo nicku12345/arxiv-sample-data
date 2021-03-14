@@ -1,0 +1,1 @@
+Given two Banach function spaces we study the pointwise product space E.F, especially for the case that the pointwise product of their unit balls is again convex. We then give conditions on when the pointwise product E . M(E, F)=F, where M(E,F) denotes the space of multiplication operators from E into F.

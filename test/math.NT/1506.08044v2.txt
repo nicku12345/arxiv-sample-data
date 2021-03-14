@@ -1,0 +1,1 @@
+Consider the polynomial f(x,y)=xy^k+C for k\geq 2 and any nonzero integer constant C. We derive an asymptotic formula for the k-free values of f(x,y) when x, y\leq H. We also prove a similar result for the k-free values of f(p,q) when p,q\leq H are primes. The strongest tool we use is a recent generalization of the determinant method due to Reuss.

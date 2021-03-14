@@ -1,0 +1,1 @@
+Let A be a C^*-algebra, and let X be a Banach A-bimodule. B. E. Johnson showed that local derivations from A into X are derivations. We extend this concept of locality to the higher cohomology of a C^*-algebra %for n-cocycles from A^{(n)} into X and show that, for every n\in \N, bounded local n-cocycles from A^{(n)} into X are n-cocycles.

@@ -1,0 +1,1 @@
+We generalize Richardson's model by starting with two sites of different colors and giving each new site the color of the site that spawned it. We show that co-existence is possible.

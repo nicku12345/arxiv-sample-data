@@ -1,0 +1,1 @@
+We consider quite general h-pseudodifferential operators on R^n with small random perturbations and show that in the limit of small h the eigenvalues are distributed according to a Weyl law with a probabality that tends to 1. The first author has previously obtained a similar result in dimension 1. Our class of perturbations is different.

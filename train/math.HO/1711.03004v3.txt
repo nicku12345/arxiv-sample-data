@@ -1,0 +1,1 @@
+In this survey essay, I explore the application of the discharging method in graph theory, including the selection of charging rules and discharging rules, and the general characteristics of the discharging method. As examples, I will prove some lemmas using the discharging method and provide a high-level description of the proof of the four color theorem.

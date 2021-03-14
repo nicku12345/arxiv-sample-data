@@ -1,0 +1,1 @@
+In this article, let \Sigma\subset\R^{2n} be a compact convex hypersurface which is symmetric with respect to the origin. We prove that if \Sg carries finitely many geometrically distinct closed characteristics, then at least n-1 of them must be non-hyperbolic; if \Sg carries exactly n geometrically distinct closed characteristics, then at least two of them must be elliptic.

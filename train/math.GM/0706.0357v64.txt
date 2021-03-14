@@ -1,0 +1,1 @@
+The purpose of this article is to present some result concerning the poles of the series \sum_{n \geq 1} \Lambda(n) e^{- \pi i q n } n^{-s}, where q is rational and \Lambda is the arithmetical Mangoldt \Lambda-function. A certain continuity property of the residues of the poles of M(s, q) with respect to q \in \mathbb{Q} \cap (0, 2) is discussed.

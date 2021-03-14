@@ -1,0 +1,1 @@
+In this paper, we will obtain the strong type and weak type estimates for vector-valued analogues of intrinsic square functions in the weighted Morrey spaces L^{p,\kappa}(w) when 1\leq p<\infty, 0<\kappa<1, and in the generalized Morrey spaces L^{p,\Phi} for 1\le p<\infty, where \Phi is a growth function on (0,\infty) satisfying the doubling condition.

@@ -1,0 +1,1 @@
+A key feature of a general nonlinear partially hyperbolic dynamical system is the absence of differentiability of its invariant splitting. In this paper, we show that often partial derivatives of the splitting exist and the splitting depends smoothly on the dynamical system itself.

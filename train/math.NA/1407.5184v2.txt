@@ -1,0 +1,1 @@
+We introduce a new formulation for the finite element immersed boundary method which makes use of a distributed Lagrange multiplier. We prove that a full discretization of our model, based on a semi-implicit time advancing scheme, is unconditionally stable with respect to the time step size.

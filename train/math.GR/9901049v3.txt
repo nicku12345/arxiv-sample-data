@@ -1,0 +1,1 @@
+If S and S' are two finite sets of Coxeter generators for a right-angled Coxeter group W, then the Coxeter systems (W,S) and (W,S') are equivalent.

@@ -1,0 +1,1 @@
+In this paper we give for any integer l > 2 a numerical criterion ensuring the existence of a chain of length l of lines through two general points of an irreducible variety X in P^N, involving the degrees and the number of homogeneous polynomials defining X. We show that our criterion is sharp.

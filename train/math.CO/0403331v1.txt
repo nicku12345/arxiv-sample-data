@@ -1,0 +1,1 @@
+The sequence of period 6 starting with 1, 1, 0, -1, -1, 0 appears in many different disguises in mathematics. Various q-versions of this sequence are found, and their relations with Euler's pentagonal numbers theorem and Chebyshev polynomials are discussed.

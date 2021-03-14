@@ -1,0 +1,1 @@
+A description of the essential spectrum is given for a general class of linear advective PDE with pseudodifferential bounded perturbation. We prove that every point in the Sacker-Sell spectrum of the corresponding bicharacteristic-amplitude system exponentiates into the spectrum of PDE. Exact spectral pictures are found in various cases. Applications to instability are presented.

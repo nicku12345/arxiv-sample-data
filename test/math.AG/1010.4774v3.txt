@@ -1,0 +1,1 @@
+We consider \mathbb{P}(1,1,1,2) bundles over \mathbb{P}^1 and construct hypersurfaces of these bundles which form a degree 2 del Pezzo fibration over \mathbb{P}^1 as a Mori fibre space. We classify all such hypersurfaces whose type \III or \IV Sarkisov links pass to a different Mori fibre space. A similar result for cubic surface fibrations over \mathbb{P}^2 is also presented.

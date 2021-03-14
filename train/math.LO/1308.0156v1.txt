@@ -1,0 +1,1 @@
+We prove that it is relatively consistent with ZF + CH that there exist two models of cardinality \aleph_2 such that the second player has a winning strategy in the Ehrenfeucht-Fra\"iss\'e-game of length \omega_1 but there is no \sigma-closed back-and-forth set for the two models. If CH fails, no such pairs of models exist.

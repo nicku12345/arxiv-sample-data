@@ -1,0 +1,1 @@
+We give a new short proof of Skowronski and Weyman's theorem about the structure of the algebras of semi-invariants of Euclidean quivers, in the case of quivers without oriented cycles. Our proof is based essentially on Derksen and Weyman's result about the generators of these algebras and properties of Schofield semi-invariants.

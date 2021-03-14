@@ -1,0 +1,1 @@
+We build on the work by Davies, extending the Helffer-Sj\"ostrand Functional Calculus domain for semi-bounded operators on Banach spaces given a priori controlled growth of the resolvents. We employ Seeley's Extension Theorem to extend smooth functions on the half line to the whole line and thus indirectly define functions of these operators.

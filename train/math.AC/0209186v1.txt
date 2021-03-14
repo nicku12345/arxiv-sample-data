@@ -1,0 +1,1 @@
+Using symmetric algebras we simplify (and slightly strengthen) the Bruns-Eisenbud-Evans "generalized principal ideal theorem" on the height of order ideals of non-minimal generators in a module. We also obtain a simple proof and an extension of a result by Kwieci\'nski, which estimates the height of certain Fitting ideals of modules having an equidimensional symmetric algebra.

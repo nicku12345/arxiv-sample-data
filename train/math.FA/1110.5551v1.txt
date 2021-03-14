@@ -1,0 +1,1 @@
+We give a functional version of the affine isoperimetric inequality for log-concave functions which may be interpreted as an inverse form of a logarithmic Sobolev inequality inequality for entropy. A linearization of this inequality gives an inverse inequality to the Poincar'e inequality for the Gaussian measure.

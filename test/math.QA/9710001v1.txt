@@ -1,0 +1,1 @@
+We construct an irreducible representation of the canonical commutation relations by operators on a certain Banach space over a local field of characteristic p. The Carlitz polynomials forming the basis of the space are shown to be the counterparts of the Hermite functions for this situation. The analogues of coherent states are related to the Carlitz exponential.

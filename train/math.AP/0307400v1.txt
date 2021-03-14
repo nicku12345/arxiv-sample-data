@@ -1,0 +1,1 @@
+We prove that, the initial value problem associated to u_{t} + i\alphau_{xx} + \beta u_{xxx} + i\gamma |u|^{2}u = 0, x,t \in R, is locally well-posed in Sobolev spaces H^{s} for s>-1/4.

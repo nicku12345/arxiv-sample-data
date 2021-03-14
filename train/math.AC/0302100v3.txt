@@ -1,0 +1,1 @@
+An equivariant version of the twisted inverse pseudofunctor is defined, and equivariant versions of some important properties, including the Grothendieck duality of proper morphisms and flat base change are proved. As an application, a generalized version of Watanabe's theorem on the Gorenstein property of the ring of invariants is proved.

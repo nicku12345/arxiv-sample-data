@@ -1,0 +1,1 @@
+Let A be a finite rank torsion--free abelian group. Then there exist direct decompositions A=B\oplus C where B is completely decomposable and C has no rank 1 direct summand. In such a decomposition B is unique up to isomorphism and C unique up to near-isomorphism.

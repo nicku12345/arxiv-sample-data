@@ -1,0 +1,1 @@
+Let G be a finite subgroup in SU(2), and Q the corresponding affine Dynkin diagram. In this paper, we review the relation between the categories of G-equivariant sheaves on P^1 and Rep Q_h, where h is an orientation of Q, constructing an explicit equivalence of corresponding derived categories.

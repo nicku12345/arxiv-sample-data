@@ -1,0 +1,1 @@
+Recently, Kitaev and Remmel posed a conjecture concerning the generating function for the number of unlabeled (2+2)-free posets with respect to number of elements and number of minimal elements. In this paper, we present a combinatorial proof of this conjecture.

@@ -1,0 +1,1 @@
+We construct a special plurisubharmonic defining function for a smoothly bounded strictly pseudoconvex domain so that the determinant of the complex Hessian vanishes to high order on the boundary. This construction, coupled with regularity of solutions of complex Monge-Ampere equation and the reflection principle, enables us to give a new proof of the Fefferman mapping theorem.

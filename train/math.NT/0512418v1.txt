@@ -1,0 +1,1 @@
+In this paper we suggest an implementation of Runge's method for solving Diophantine equations satisfying Runge's condition. In this implementation we avoid the use of Puiseux series and algebraic coefficients.

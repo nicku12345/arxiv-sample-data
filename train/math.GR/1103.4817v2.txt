@@ -1,0 +1,1 @@
+Let F be a free non-abelian group. We show that for any group word w the set w[F] of all values of w in F is rational in F if and only if w[F] = 1 or w[F] = F. We generalize this to a wide class of free products of groups.

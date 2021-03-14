@@ -1,0 +1,1 @@
+This note gives generators and relations for the strict monoidal category of probabilistic maps on finite cardinals (i.e., stochastic matrices).

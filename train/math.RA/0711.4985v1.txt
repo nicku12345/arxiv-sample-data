@@ -1,0 +1,1 @@
+Let \mf{g} be any finite-dimensional Lie algebra with Killling form B. Let \mf{h} be a subalgebra of \mf{g} on which the Killing form is non degenerate. Then \mf{h} is reductive.

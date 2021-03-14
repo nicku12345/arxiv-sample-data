@@ -1,0 +1,1 @@
+It is shown that the Laurent series of a holomorphic function smooth up to the boundary on a Reinhardt domain in \mathbb{C}^n converges unconditionally to the function in the Fr\'{e}chet topology of the space of functions smooth up to the boundary.

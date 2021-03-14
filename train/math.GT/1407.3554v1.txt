@@ -1,0 +1,1 @@
+We prove a theorem which bounds Heegaard genus from below under special kinds of toroidal amalgamations of 3-manifolds. As a consequence, we conclude t(K_1\# K_2)\geq \max\{t(K_1),t(K_2)\} for any pair of knots K_1,K_2\subset S^3, where t(K) denotes the tunnel number of K.

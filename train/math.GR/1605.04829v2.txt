@@ -1,0 +1,1 @@
+The degree of commutativity of a group G measures the probability of choosing two elements in G which commute. There are many results studying this for finite groups. In [AMV17], this was generalised to infinite groups. In this note, we compute the degree of commutativity for wreath products of the form \mathbb{Z}\wr \mathbb{Z} and F\wr \mathbb{Z} where F is any finite group.

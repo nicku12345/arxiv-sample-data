@@ -1,0 +1,1 @@
+We show that a weakly integral braided fusion category C such that every simple object of C has Frobenius-Perron dimension at most 2 is solvable. In addition, we prove that such a fusion category is group-theoretical in the extreme case where the universal grading group of C is trivial.

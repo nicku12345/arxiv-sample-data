@@ -1,0 +1,1 @@
+We derive a bound on the L^{\infty}-norm of the covariant derivative of Laplace eigensections on general Riemannian vector bundles depending on the diameter, the dimension, the Ricci curvature of the underlying manifold, and the curvature of the Riemannian vector bundle. Our result implies that eigensections with small eigenvalues are almost parallel.

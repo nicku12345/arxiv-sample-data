@@ -1,0 +1,1 @@
+We prove the basic trigonometric Korovkin approximation theorem for fuzzy valued funcions of two variables and verify the approximation via the fuzzy modulus of continuity. Some applications concerning Fourier series of fuzzy valued functions are also given.

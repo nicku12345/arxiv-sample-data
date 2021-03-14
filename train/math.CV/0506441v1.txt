@@ -1,0 +1,1 @@
+Let f be a function transcendental and meromorphic in the plane, and define g(z) by g(z) = f(z+1) - f(z). A number of results are proved concerning the existence of zeros of g(z) or g(z)/f(z), in terms of the growth and the poles of f.

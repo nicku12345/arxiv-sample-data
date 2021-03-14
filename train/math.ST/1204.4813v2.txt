@@ -1,0 +1,1 @@
+It has been shown in literature that the Lasso estimator, or l1-penalized least squares estimator, enjoys good oracle properties. This paper examines which special properties of the l1-penalty allow for sharp oracle results, and then extends the situation to general norm-based penalties that satisfy a weak decomposability condition.

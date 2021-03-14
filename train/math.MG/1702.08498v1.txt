@@ -1,0 +1,1 @@
+In this note we point out that the limit shape of the Jarnk polygonal curve [1] is the circle, not a curve consisting of arcs of parabolas as it has been stated in the main result of [2] (Section 2). The correct result has been established and proven in [4].

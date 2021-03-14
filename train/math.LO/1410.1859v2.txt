@@ -1,0 +1,1 @@
+We study the statistical properties of random numbers under the Martin-L\"of definition of randomness, proving that random numbers obey analogues of Strong Law of Large Numbers, the Law of the Iterated Logarithm, and that they are normal. We also show that weakly (1-)random numbers do not share these properties.

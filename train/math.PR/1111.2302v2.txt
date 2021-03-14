@@ -1,0 +1,1 @@
+On the supercritical percolation cluster with parameter p, the distances between two distant points of the axis are asymptotically increased by a factor 1+(1-p)/2+o(1-p) with respect to the usual distance. The proof is based on an apparently new connection with the TASEP (totally asymmetric simple exclusion process).

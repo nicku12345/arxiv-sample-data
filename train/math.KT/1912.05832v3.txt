@@ -1,0 +1,1 @@
+We construct a Fredholm module on self-similar sets such as the Cantor dust, the Sierpinski carpet and the Menger sponge. Our construction is a higher dimensional analogue of Connes' combinatorial construction of the Fredholm module on the Cantor set. We also calculate the Dixmier trace of two operators induced by the Fredholm module.

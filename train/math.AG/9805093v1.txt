@@ -1,0 +1,1 @@
+It has been proved several times in the literature that a polynomial map from C^2 to C with irreducible rational fibers cannot be a component of a counterexample to the Jacobian Conjecture. This note points out that this result is empty: it is implicit in 1980 work of Miyanish and Sugie that such a polynomial is equivalent to f(x,y)=x by a polynomial automorphism of C^2.

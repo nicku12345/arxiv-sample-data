@@ -1,0 +1,1 @@
+Translated from the Latin original, "Observationes generales circa series, quarum termini secundum sinus vel cosinus angulorum multiplorum progrediuntur" (1777). E655 in the Enestrom index. Euler looks at the binomial expansion (1+x)^n for x=\cos \phi+i\sin\phi. He does n= positive and negative integers, and n={1/2}, -{1/2}, and particular values of \phi.

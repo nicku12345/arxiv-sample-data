@@ -1,0 +1,1 @@
+We consider one-dimensional stochastic differential equations with a boundary condition, driven by a Poisson process. We study existence and uniqueness of solutions and the absolute continuity of the law of the solution. In the case when the coefficients are linear, we give an explicit form of the solution and study the reciprocal process property.

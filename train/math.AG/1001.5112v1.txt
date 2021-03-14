@@ -1,0 +1,1 @@
+For a perfect field k, we construct a triangulated category of mixed motives over k[t]/{(t^{m+1})}. The ext groups in this category are given by higher Chow groups, and additive higher Chow groups.

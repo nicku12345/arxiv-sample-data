@@ -1,0 +1,1 @@
+We use stratified Morse theory for a manifold with corners to give a new bound for the sum of the Betti numbers of a hypersurface in R^n_> defined by a polynomial with n+l+1 terms.

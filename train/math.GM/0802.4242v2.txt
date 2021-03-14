@@ -1,0 +1,1 @@
+This note continues the theoretical development of deterministic integer factorization algorithms based on systems of polynomials equations. The main result establishes a new deterministic time complexity bench mark in integer factorization.

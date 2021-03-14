@@ -1,0 +1,1 @@
+Let A[X]_U be a fraction ring of the polynomial ring A[X] in the variable X over a commutative ring A. We show that the Hilbert functor {Hilb}^n_{A[X]_U} is represented by an affine scheme \text{Symm}^n_A(A[X]_U) give as the ring of symmetric tensors of \otimes_A^nA[X]_U. The universal family is given as \text{Symm}^{n-1}_A(A[X]_U)\times_A \text{Spec}(A[X]_U).

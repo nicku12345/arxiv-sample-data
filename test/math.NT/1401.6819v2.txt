@@ -1,0 +1,1 @@
+In this paper, we mainly give a general explicit form of Cassels' p-adic embedding theorem for number fields. We also give its refined form in the case of cyclotomic fields. As a byproduct, given an irreducible polynomial f over Z, we give a general unconditional upper bound for the smallest prime number p such that f has a simple root modulo p.

@@ -1,0 +1,1 @@
+If a line cuts randomly two sides of a triangle, the length of the segment determined by the points of intersection is also random. The object of this study, applied to a particular case, is to calculate the probability that the length of such segment is greater than a certain value.

@@ -1,0 +1,1 @@
+This paper is complete proof of one method for obtaining the generalized Ito-Wentzell formula, its basic idea was announced earlier in a pre-print (arXiv:1309.3038v1). This proof sets the approach which uses the Ito formula and the stochastic approximation theory.

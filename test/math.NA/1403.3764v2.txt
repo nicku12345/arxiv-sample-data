@@ -1,0 +1,1 @@
+The numerical method for solution of the weakly regular scalar Volterra integral equation of the 1st kind is proposed. The kernels of such equations have jump discontinuities on the continuous curves which starts at the origin. The mid-rectangular quadrature rule is employed. The accuracy of proposed numerical method is \mathcal{O}(1/N).

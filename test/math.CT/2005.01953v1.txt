@@ -1,0 +1,1 @@
+We introduce new techniques for working with presentations for a large class of (strict) tensor categories. We then apply the general theory to obtain presentations for partition, Brauer and Temperley-Lieb categories, as well as several categories of (partial) braids, vines and mappings.

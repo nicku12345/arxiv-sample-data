@@ -1,0 +1,1 @@
+Let A_n be the alternating group on n letters. For n>5, we describe the elements alpha, beta in A_n when alpha^{A_n} beta^{A_n} is the union of at most four distinct conjugacy classes.

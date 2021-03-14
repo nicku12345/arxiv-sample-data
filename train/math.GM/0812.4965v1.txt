@@ -1,0 +1,1 @@
+This note discusses the existence of prime numbers in short intervals. An unconditional elementary argument seems to prove the existence of primes in the short intervals [x, x + y], where y >= x^(1/2)(log x)^e, e > 0, and a sufficiently large number x > 0. Further, an extension of Bertrand's postulate to arithmetic progressions will be considered

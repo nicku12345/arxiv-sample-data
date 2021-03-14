@@ -1,0 +1,1 @@
+In this paper we give an algorithm for the computation of all the Arf numerical semigroups with a given genus. Moreover, we generalize the concept of genus of a numerical semigroup to good semigroups of \mathbb{N}^r and we give a procedure to calculate all the Arf semigroups of \mathbb{N}^r with a given genus.

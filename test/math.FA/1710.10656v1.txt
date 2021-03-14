@@ -1,0 +1,1 @@
+Let X be a normed linear space. We examine if every open, convex and unbounded subset of X is equal to the union of a family of open straight half lines. The answer is affirmative if and only if X is finite dimensional.

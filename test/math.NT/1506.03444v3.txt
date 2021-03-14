@@ -1,0 +1,1 @@
+Polynomial time primality tests for specific classes of numbers of the form k\cdot 2^m \pm 1 are introduced.

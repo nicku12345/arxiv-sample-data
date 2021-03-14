@@ -1,0 +1,1 @@
+If a positive definite Hermitian lattice represents all positive integers, we call it universal. Several mathematicians, including the author, found 25 universal binary Hermitian lattices. But their ad hoc proofs are complicated. We give simple and unified proofs.

@@ -1,0 +1,1 @@
+Given a locally finite simple graph so that its degree is not bounded, every self-adjoint realization of the adjacency matrix is unbounded from above. In this note we give an optimal condition to ensure it is also unbounded from below. We also consider the case of weighted graphs. We discuss the question of self-adjoint extensions and prove an optimal criterium.

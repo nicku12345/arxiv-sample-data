@@ -1,0 +1,1 @@
+We show that nuclear C*-algebras have a refined version of the completely positive approximation property, in which the maps that approximately factorize through finite dimensional algebras are convex combinations of order zero maps. We use this to show that a separable nuclear C*-algebra A which is closely contained in a C*-algebra B embeds into B.

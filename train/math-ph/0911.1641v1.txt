@@ -1,0 +1,1 @@
+In this paper we derive some a priori estimates for a class of linear coagulation equations with particle fluxes towards large size particles. The derived estimates allow us to prove local well posedness for the considered equations. Some regularizing effects exhibited by the equations in the particle distributions for large particle sizes are discussed in detail.

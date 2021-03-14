@@ -1,0 +1,1 @@
+It is known that for convex sets, the KKM condition is equivalent to the finite intersection property. We use this equivalence to obtain a characterisation of monotone operators in terms of convex KKM maps and in terms of the existence of solutions to Minty variational inequalities. The latter result provides a converse to the seminal theorem of Minty.

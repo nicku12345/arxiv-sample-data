@@ -1,0 +1,1 @@
+Let p be a prime. We show that if a pro-p group with at most 2 defining relations has quadratic \mathbb{F}_p-cohomology, then such algebra is universally Koszul. This proves the "Universal Koszulity Conjecture" formulated by J. Min\'a\v{c} et al. in the case of maximal pro-p Galois groups of fields with at most 2 defining relations.

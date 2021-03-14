@@ -1,0 +1,1 @@
+The Virasoro operations in Witten's theory of two-dimensional topological gravity have a homotopy-theoretic interpretation as endomorphisms of an ordinary cohomology theory with coefficients in a localization of I. Schur's ring \Delta of Q-functions. The resulting theory has many of the features of a vertex operator algebra.

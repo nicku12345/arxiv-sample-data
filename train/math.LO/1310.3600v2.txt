@@ -1,0 +1,1 @@
+Extending a result of K. Milliken \cite{Mi2}, in this paper we prove a Ramsey classification result for equivalence relations defined on uniform families of finite strong subtrees of a finite sequence (U_i)_{i\in d} of fixed trees U_i, i\in d, that have a finite uniform branching but are of infinite length.

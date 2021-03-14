@@ -1,0 +1,1 @@
+We establish exact sequences in KK-theory for graded relative Cuntz-Pimsner algebras associated to nondegenerate C^*-correspondences. We use this to calculate the graded K-theory and K-homology of relative Cuntz-Krieger algebras of directed graphs for gradings induced by \{0,1\}-valued labellings of their edge sets.

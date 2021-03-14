@@ -1,0 +1,1 @@
+As the case of free \Bbbk-algebras and PBW algebras, given a bijective skew PBW extension A, we will show that it is possible transfer Gr\"obner bases between A and its associated graded ring.

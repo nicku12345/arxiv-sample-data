@@ -1,0 +1,1 @@
+In a commutative ring R with unity, given an ideal I of R, Anderson and Badawi in 2011 introduced the invariant \omega(I), which is the minimal integer n for which I is an n-absorbing ideal of R. In the specific case that R = k[x_{1}, \ldots, x_{n}] is a polynomial ring over a field k in n variables x_{1},\ldots, x_{n}, we calculate \omega(I) for certain monomial ideals I of R.

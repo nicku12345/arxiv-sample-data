@@ -1,0 +1,1 @@
+A normalized univalent function is uniformly convex if it maps every circular arc contained in the open unit disk with center in it into a convex curve. This article surveys recent results on the class of uniformly convex functions and on an analogous class of uniformly starlike functions.

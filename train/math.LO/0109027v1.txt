@@ -1,0 +1,1 @@
+Whenever x is a tame cardinal invariant and ZFC+large cardinals proves that x=aleph one implies WCG then ZFC+large cardinals proves that x=aleph one implies b=aleph one, and b=aleph one implies WCG. Here WCG is a certain prediction principle on omega one. This theorem is one of the many possible interpolation theorems of this kind.

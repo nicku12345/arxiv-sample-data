@@ -1,0 +1,1 @@
+We give a combinatorial algorithm for computing Zelevinsky's involution of the set of isomorphism classes of irreducible representations of the affine Hecke algebra \H_m(t) when t is a primitive nth root of 1. We show that the same map can also be interpreted in terms of aperiodic nilpotent orbits of \Zb/n\Zb-graded vector spaces.

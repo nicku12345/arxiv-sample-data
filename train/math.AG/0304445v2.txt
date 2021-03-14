@@ -1,0 +1,1 @@
+After works by Katz, Monsky, and Adolphson-Sperber, a comparison theorem between relative de Rham cohomology and Dwork cohomology is established in a paper by Dimca-Maaref-Sabbah-Saito in the framework of algebraic D-modules. We propose here an alternative proof of this result. The use of Fourier transform techniques makes our approach more functorial.

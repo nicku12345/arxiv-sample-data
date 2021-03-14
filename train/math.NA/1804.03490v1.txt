@@ -1,0 +1,1 @@
+An integral inequality due to Ball involves the L_{q} norm of the \sinc_p function; the dependence of this norm on q as q\rightarrow\infty is now understood. By use of recent inequalities involving p-trigonometric functions (1<p<\infty ) we obtain asymptotic information about the analogue of Ball's integral when \sin is replaced by \sin_{p}.

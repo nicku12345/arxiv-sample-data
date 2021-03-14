@@ -1,0 +1,1 @@
+The relation between random normal matrices and conformal mappings discovered by Wiegmann and Zabrodin is made rigorous by restricting normal matrices to have spectrum in a bounded set. It is shown that for a suitable class of potentials the asymptotic density of eigenvalues is uniform with support in the interior domain of a simple smooth curve.

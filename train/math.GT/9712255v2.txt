@@ -1,0 +1,1 @@
+In his 1974 thesis, Martin Scharlemann constructed a fake homotopy equivalence from a closed smooth manifold f:Q -> S^3 x S^1 # S^2 x S^2 and asked whether the manifold Q itself is diffeomorphic to S^3 x S^1 # S^2 x S^2. Here we answer this question affirmatively.

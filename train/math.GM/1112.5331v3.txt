@@ -1,0 +1,1 @@
+We show that a polynomial equation of degree less than 5 and with real parameters can be solved by regarding the variable in which the polynomial depends as a complex variable. For do it so, we only have to separate the real and imaginary parts of the resultant polynomial and solve them separately.

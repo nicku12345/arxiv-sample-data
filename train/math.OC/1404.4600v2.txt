@@ -1,0 +1,1 @@
+We study the optimal stopping problem for a monotonous dynamic risk measure induced by a BSDE with jumps in the Markovian case. We show that the value function is a viscosity solution of an obstacle problem for a partial integro-differential variational inequality, and we provide an uniqueness result for this obstacle problem.

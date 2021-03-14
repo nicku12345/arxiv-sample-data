@@ -1,0 +1,1 @@
+We investigate the probability distribution of Conley-Zehnder indices associated with Brownian random paths on Sp(2n, R) that start at the identity. In the case of n = 1, we prove that the distribution has the same moment asymptotics as the standard random walk on the real line. We also present numerical evidence suggesting that the same asymptotics should hold for general n.

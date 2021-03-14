@@ -1,0 +1,1 @@
+For a prime number p greater than 6000, the Olson's constant for the group Z_p+Z_p is given by Ol(Z_p+Z_p)=p-1+Ol(Z_p).

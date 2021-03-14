@@ -1,0 +1,1 @@
+We prove that a suitably adjusted version of Peter Jones' formula for interpolation by bounded holomorphic functions gives a sharp upper bound for what is known as the constant of interpolation. We show how this leads to precise and computable numerical bounds for this constant.

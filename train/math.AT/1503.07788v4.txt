@@ -1,0 +1,1 @@
+We give p-local homotopy decompositions of the suspensions of real toric spaces for odd primes p. Our decomposition is compatible with the one given by Bahri, Bendersky, Cohen, and Gitler for the suspension of the corresponding real moment-angle complex, or more generally, the polyhedral product. As an application, we obtain a stable rigidity property for real toric spaces.

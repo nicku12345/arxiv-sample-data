@@ -1,0 +1,1 @@
+In this paper, we define homeology group, reduced homeology group, cohomeology group and reduced cohomeology group on finite simpicial complexes and prove that these groups are homeomorphism invariants of polyhedra. We also define homeotopy type of polyhedra which is finer than homotopy type but coarser than homeomorphism class.

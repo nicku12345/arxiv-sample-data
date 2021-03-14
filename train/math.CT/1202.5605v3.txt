@@ -1,0 +1,1 @@
+We classify certain resolving subcategories of finitely generated modules over a commutative noetherian ring R by using integer-valued functions on Spec R. As an application we give a complete classification of resolving subcategories when R is a locally hypersurface ring. Our results also recover a "missing theorem" by Auslander.

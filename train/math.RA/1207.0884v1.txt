@@ -1,0 +1,1 @@
+In this article we prove finite generation of the cohomology of quotients of a PBW algebra A by relating it to the cohomology of quotients of a quantum symmetric algebra S which is isomorphic to the associated graded algebra of A. The proof uses a spectral sequence argument and a finite generation lemma adapted from Friedlander and Suslin.

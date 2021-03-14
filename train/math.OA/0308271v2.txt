@@ -1,0 +1,1 @@
+If X, Y, and Z are finite sets of selfadjoint elements in a tracial von Neumann algebra and X generates a hyperfinite von Neumann algebra, then \delta_0(X \cup Y \cup Z) \leq \delta_0(X \cup Y) + \delta_0(X \cup Z) - \delta_0(X). We draw several corollaries from this inequality.

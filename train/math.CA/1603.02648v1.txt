@@ -1,0 +1,1 @@
+Assuming a symmetric potential and separated self-adjoint boundary conditions, we relate the Maslov and Morse indices for Schr\"odinger operators on [0, 1]. We find that the Morse index can be computed in terms of the Maslov index and two associated matrix eigenvalue problems. This provides an efficient way to compute the Morse index for such operators.

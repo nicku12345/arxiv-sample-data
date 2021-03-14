@@ -1,0 +1,1 @@
+We prove that in a regular category all reflexive and transitive relations are symmetric if and only if every internal category is an internal groupoid. In particular, these conditions hold when the category is n-permutable for some n.

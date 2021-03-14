@@ -1,0 +1,1 @@
+We describe proofs of the standard generating formulas for unsigned and signed Stirling numbers of the first kind that follow from a natural combinatorial interpretation based on cycle-colored permutations.

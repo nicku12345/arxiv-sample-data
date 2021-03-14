@@ -1,0 +1,1 @@
+We constuct the theory of diagonalizability for matrices over Bezout rings of stable range 1 with the Kazimirsky condition. It is shown that a ring of stable range 1 with the right (left) Kazimirsky condition is an elementary divisor ring if and only if it is a duo ring.

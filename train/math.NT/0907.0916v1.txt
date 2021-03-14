@@ -1,0 +1,1 @@
+We compute the "moments" and its continuous anaougue of the random variable \N^r \ni (k_1, k_2, ..., k_r) \mapsto \gcd(n,k_1k_2... k_r) \in \N by a purely elementary method. This generalizes a result of Kurokawa-Ochiai, which computed its "average" using some analysis involving L-function.

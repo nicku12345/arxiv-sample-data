@@ -1,0 +1,1 @@
+Let k be a perfect field of characteristic p > 2. In this note, we show that the local moduli space of a non-supersingular K3 surface over k with trivial deformation of the associated enlarged formal Brauer group admits a natural p-divisible formal group structure.

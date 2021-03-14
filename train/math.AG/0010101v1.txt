@@ -1,0 +1,1 @@
+Let X be a smooth n-dimensional projective variety over an algebraically closed field k such that K_X is not nef. We give a characterization of non nef extremal rays of X of maximal length (i.e of length n-1); in the case of \ch(k) = 0 we also characterize non nef rays of length n-2.

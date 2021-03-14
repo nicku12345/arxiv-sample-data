@@ -1,0 +1,1 @@
+When S is a closed, orientable surface with genus g(S) \geq 2, we show that the automorphism group of the compression body graph \mathcal{CB}(S) is the mapping class group. Here, vertices are compression bodies with exterior boundary S, and edges connect pairs of compression bodies where one contains the other.

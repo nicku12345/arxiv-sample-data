@@ -1,0 +1,1 @@
+This article considers the error term of the primes counting function. It applies some recent results on the densities of prime numbers in short intervals to derive an improvement of the error term from subexponential size to fractional exponential size. The corresponding equivalent results for the zeros of the zeta function and Mertens conjecture are also discussed.

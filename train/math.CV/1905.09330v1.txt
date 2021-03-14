@@ -1,0 +1,1 @@
+Let \Omega \subset \mbr^2 be an internal chord-arc domain and \varphi : \mbs^1 \rightarrow \partial \Omega be a homeomorphism. Then there is a diffeomorphic extension h : \mbd \rightarrow \Omega of \varphi . We study the relationship between weighted integrability of the derivatives of h and double integrals of \varphi and of \varphi^{-1} .

@@ -1,0 +1,1 @@
+In [3], the authors proved that uniqueness holds among solutions whose exponentials are L^p with p bigger than a constant \gamma (p\textgreater{}\gamma). In this paper, we consider the critical case: p=\gamma. We prove that the uniqueness holds among solutions whose exponentials are L^\gamma under the additional assumption that the generator is strongly convex.

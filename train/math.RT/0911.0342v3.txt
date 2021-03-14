@@ -1,0 +1,1 @@
+Let p be a prime and \mathbb{F} a field of characteristic p, and let \mathcal{H}_n denote the Iwahori--Hecke algebra of the symmetric group \mathfrak{S}_n over \mathbb{F} at q=-1. We prove that there are only finitely many partitions \lambda such that both \lambda and \lambda' are 2-singular and the Specht module S^\lambda for \mathcal{H}_{|\la|} is irreducible.

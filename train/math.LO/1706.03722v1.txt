@@ -1,0 +1,1 @@
+We show that in any nontrivial Hahn field with truncation as a primitive operation we can interpret the monadic second-order logic of the additive monoid of natural numbers and are thus undecidable. We also specify a definable binary relation on such a structure that has \SOP and \TP.

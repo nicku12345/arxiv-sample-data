@@ -1,0 +1,1 @@
+We calculate the motivic stable homotopy groups of the two-complete sphere spectrum after inverting multiplication by the Hopf map eta over fields of cohomological dimension at most 2 with characteristic different from 2 (this includes the p-adic fields and the finite fields of odd characteristic) and the field of rational numbers; the ring structure is also determined.

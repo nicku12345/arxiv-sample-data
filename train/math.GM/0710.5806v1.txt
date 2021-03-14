@@ -1,0 +1,1 @@
+In this note we derive the Q-difference Bernoulli-Taylor formula with the rest term of the Cauchy form by the Viskov's method. This is an extension of technique by the use of Q-extented Kwasniewski's *-product . The main theorems of Q-umbral calculus were given by G. Markowsky in 1968 and extented by A.K.Kwasniewski.

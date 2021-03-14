@@ -1,0 +1,1 @@
+Almost isomorphism is an equivalence relation on countable state Markov shifts which provides a strong version of Borel conjugacy; still, for mixing SPR shifts, entropy is a complete invariant of almost isomorphism. In this paper, we establish a class of potentials on countable state Markov shifts whose thermodynamic formalism is respected by almost isomorphism.

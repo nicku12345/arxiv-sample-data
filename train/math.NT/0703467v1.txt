@@ -1,0 +1,1 @@
+We use topological ideas to show that, assuming the conjecture of Erd\"(o)s on subsets of positive integers having no p terms in arithmetic progression (A. P.), there must exist a subset M_p of positive integers with no p terms in A. P. with the property that among all such subsets, M_p maximizes the sum of the reciprocals of its elements.

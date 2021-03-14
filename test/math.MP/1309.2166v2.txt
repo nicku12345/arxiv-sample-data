@@ -1,0 +1,1 @@
+The geometric framework for the Hamilton-Jacobi theory is used to study this theory in the ambient of higher-order mechanical systems, both in the Lagrangian and Hamiltonian formalisms. Thus, we state the corresponding Hamilton-Jacobi equations in these formalisms and apply our results to analyze some particular physical examples.

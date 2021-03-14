@@ -1,0 +1,1 @@
+We show that it is consistent that for some uncountable cardinal k, all compactifications of the countable discrete space with remainders homeomorphic to D^k are homeomorphic to each other. On the other hand, there are 2^c pairwise non-homeomorphic compactifications of the countable discrete space with remainders homeomorphic to D^c (where c is the cardinality of the continuum).

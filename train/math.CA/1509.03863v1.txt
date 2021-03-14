@@ -1,0 +1,1 @@
+We give some conditions under which (uniform) convergence of a family of Dirichlet series to another Dirichlet series implies the convergence of their individual coefficients and/or exponents. We give some applications to some spectral zeta functions that arise in Riemannian geometry and physics.

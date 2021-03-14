@@ -1,0 +1,1 @@
+A group G is said to be cut if, for every g \in G, each generator of < \! g \! > is conjugated to either g or g^{-1}. It is conjectured that a Sylow 3-subgroup P of a cut group G is cut. We prove that this is true if |G| is odd.

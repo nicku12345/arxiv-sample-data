@@ -1,0 +1,1 @@
+We show that for any probability measure \mu there exists an equivalent norm on the space L^1(\mu) whose restriction to each reflexive subspace is uniformly smooth and uniformly convex, with modulus of convexity of power type 2. This renorming provides also an estimate for the corresponding modulus of smoothness of such subspaces.

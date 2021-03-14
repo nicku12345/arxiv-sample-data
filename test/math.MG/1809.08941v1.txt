@@ -1,0 +1,1 @@
+In the following paper, we prove a dimension bound on the singular set of a Radon measure assuming its doubling ratio converges uniformly on compact sets. More precisely, we prove that if a Radon measure is n-Uniformly Asymptotically Doubling, then \dim(\mathcal{S}_{\mu}) \leq n-3, where \mathcal{S}_{\mu} is the singular set of the measure.

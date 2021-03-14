@@ -1,0 +1,1 @@
+In this work, by using techniques and results of differential geometry, we propose a new numerical method on complete Riemannian manifolds to find zeros of vector fields. Our algorithm generalizes the classical secant method

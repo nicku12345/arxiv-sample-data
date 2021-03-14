@@ -1,0 +1,1 @@
+The vacuum-adapted formulation of quantum stochastic calculus is employed to perturb expectation semigroups via a Feynman-Kac formula. This gives an alternative perspective on the perturbation theory for quantum stochastic flows that has recently been developed by the authors.

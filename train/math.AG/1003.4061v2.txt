@@ -1,0 +1,1 @@
+Let X and X' be compact Riemann surfaces of genus at least 3, and let G and G' be nonabelian reductive complex groups. If one component M_G^d(X) of the moduli space for semistable principal G-bundles over X is isomorphic to another component M_{G'}^{d'}(X'), then X is isomorphic to X'.

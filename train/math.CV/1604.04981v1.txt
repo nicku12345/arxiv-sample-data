@@ -1,0 +1,1 @@
+In this note, we investigate the supremum and the infimum of the functional |a_{n+1}|-|a_{n}| for functions, convex and analytic on the unit disk, of the form f(z)=z+a_2z^2+a_3z^3+\dots. We also consider the related problem to maximize the functional |a_{n+1}-a_{n}| for convex functions f with f"(0)=p for a prescribed p\in[0,2].

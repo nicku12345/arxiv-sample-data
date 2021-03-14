@@ -1,0 +1,1 @@
+In this note the following version of Phillips' lemma is proved. The L-projection of an L-embedded space - that is of a Banach space which is complemented in its bidual such that the norm between the two complementary subspaces is additive - is weak-weakly sequentially continuous.

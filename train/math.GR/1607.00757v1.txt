@@ -1,0 +1,1 @@
+Let (W,S) be a Coxeter system and let s \in S. We call s a right-angled generator of (W,S) if st = ts or st has infinite order for each t \in S. We call s an intrinsic reflection of W if s \in R^W for all Coxeter generating sets R of W. We give necessary and sufficient conditions for a right-angled generator s \in S of (W,S) to be an intrinsic reflection of W.

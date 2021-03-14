@@ -1,0 +1,1 @@
+We prove asymptotic equidistribution results for pieces of large closed horospheres in cofinite hyperbolic manifolds of arbitrary dimension. This extends earlier results by Hejhal and Str\"ombergsson in dimension 2. Our proofs use spectral methods, and lead to precise estimates on the rate of convergence to equidistribution.

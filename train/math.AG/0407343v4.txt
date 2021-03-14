@@ -1,0 +1,1 @@
+Let X be a general divisor in |3M+nL| on the rational scroll \mathrm{Proj}(\oplus_{i=1}^{4}\mathcal{O}_{\mathbb{P}^{1}}(d_{i})), where d_{i} and n are integers, M is the tautological line bundle, L is a fibre of the natural projection to \mathbb{P}^{1}, and d_{1}\geqslant...\geqslant d_{4}=0. We prove that X is rational \iff d_{1}=0 and n=1.

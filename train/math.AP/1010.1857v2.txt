@@ -1,0 +1,1 @@
+We consider mass-conserving self-similar solutions of Smoluchowski's coagulation equation with multiplicative kernel of homogeneity 2l\lambda \in (0,1). We establish rigorously that such solutions exhibit a singular behavior of the form x^{-(1+2\lambda)} as x \to 0. This property had been conjectured, but only weaker results had been available up to now.

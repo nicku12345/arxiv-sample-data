@@ -1,0 +1,1 @@
+In this note we consider the motion of a solid body in a two dimensional incompressible perfect fluid. We prove the global existence of solutions in the case where the initial vorticity belongs to L^p with p>1 and is compactly supported. We do not assume that the energy is finite.

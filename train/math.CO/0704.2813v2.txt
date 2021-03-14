@@ -1,0 +1,1 @@
+The generating function and an explicit expression is derived for the (colored) Motzkin numbers of higher rank introduced recently. Considering the special case of rank one yields the corresponding results for the conventional colored Motzkin numbers for which in addition a recursion relation is given.

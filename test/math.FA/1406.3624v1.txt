@@ -1,0 +1,1 @@
+Using the fixed point theorem we establish the Hyers-Ulam-Rassias stability of the generalized Pexider functional equation \frac{1}{\mid K\mid}\sum_{k\in K}f(x+k\cdot y)=g(x)+h(y),\;\;x,y\in E from a normed space E into a complete \beta-normed space F, where K is a finite abelian subgroup of the automorphism group of the group (E,+).

@@ -1,0 +1,1 @@
+We study the bounded derived category \D^b(\Rmod) of a left Noetherian ring R. We give a version of the Generalized Auslander-Reiten Conjecture for \D^b(\Rmod) that is equivalent to the classical statement for the module category and is preserved under derived equivalence.

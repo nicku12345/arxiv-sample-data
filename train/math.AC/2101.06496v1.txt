@@ -1,0 +1,1 @@
+In this paper we show that determinantal ideals of generic matrices are Knutson ideals. This fact leads to a useful result about Gr\"obner bases of certain sums of determinantal ideals. More specifically, given I=I_1+\ldots+I_k a sum of ideals of minors on adjacent columns or rows, we prove that the union of the Gr\"obner bases of the I_j's is a Gr\"obner basis of I.

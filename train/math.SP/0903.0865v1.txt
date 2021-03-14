@@ -1,0 +1,1 @@
+Let \Omega be an open set in \R^d (d > 1) and h(\Omega) the Fr\'echet space of harmonic functions on \Omega. Given a bounded linear operator   L :h(\Omega)\to h(\Omega), we show that its eigenvalues \lambda_n, arranged in decreasing order and counting multiplicities, satisfy   |\lambda_n|\leq K\exp(-cn^{1/(d-1)}), where K and c are two explicitly computable positive constants.

@@ -1,0 +1,1 @@
+We define a bicomplex whose Euler characteristic is the idempotented version of the ribbon element of quantum sl(2). We show that properties of this bicomplex descend to the centrality, invertibility and symmetries of the ribbon element after decategorification.

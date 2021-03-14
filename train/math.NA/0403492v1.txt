@@ -1,0 +1,1 @@
+Starting with univariate polynomial interpolation we arrive to a natural generalization of fundamental theorem of algebra for certain systems of multivariate algebraic equations.

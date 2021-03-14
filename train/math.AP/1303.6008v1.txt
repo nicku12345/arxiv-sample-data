@@ -1,0 +1,1 @@
+The work is devoted to the relaxation limit in larger Besov spaces for compressible Euler equations, which contains previous results in Sobolev spaces and Besov spaces with critical regularity. Such an extension depends on a revision of commutator estimates and an elementary fact which indicates the connection between homogeneous and inhomogeneous Chemin-Lerner spaces.

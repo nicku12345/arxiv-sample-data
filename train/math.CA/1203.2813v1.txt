@@ -1,0 +1,1 @@
+We compute, for a compact set K\subset\mathbb R^d, the value of the upper and of the lower L^q-dimension of a typical probability measure with support contained in K, for any q\in\mathbb R. Different definitions of the "dimension" of K are involved to compute these values, following q\in\mathbb R.

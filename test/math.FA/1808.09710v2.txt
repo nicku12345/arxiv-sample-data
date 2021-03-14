@@ -1,0 +1,1 @@
+A classical result of N. Levinson characterizes the existence of a nonzero integrable function vanishing on a nonempty open subset of the real line in terms of the pointwise decay of its Fourier transform. We prove an analogue of this result for Riemannian symmetric spaces of noncompact type.

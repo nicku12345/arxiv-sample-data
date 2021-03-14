@@ -1,0 +1,1 @@
+This article is about erroneous attempts to weaken the standard definition of unbounded Kasparov module (or spectral triple). We present counterexamples to claims in the literature that Fredholm modules can be obtained from these weaker variations of spectral triple. Our counterexamples are constructed using self-adjoint extensions of symmetric operators.

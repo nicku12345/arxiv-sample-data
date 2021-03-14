@@ -1,0 +1,1 @@
+In this note we prove a lower bound for the rank of 2-dimensional generic rigidity matroid for regular graphs of degree four and five. Also, we give examples to show the order of the bound we give is sharp.

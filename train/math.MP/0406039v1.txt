@@ -1,0 +1,1 @@
+In many relevant cases -- e.g., in hamiltonian dynamics -- a given vector field can be characterized by means of a variational principle based on a one-form. We discuss how a vector field on a manifold can also be characterized in a similar way by means of an higher order variational principle, and how this extends to involutive systems of vector fields.

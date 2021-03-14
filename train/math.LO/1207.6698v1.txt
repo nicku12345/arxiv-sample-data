@@ -1,0 +1,1 @@
+This article presents an elementary proof of Zorn's Lemma under the Axiom of Choice, simplifying and supplying necessary details in the original proof by Paul R. Halmos in his book, Naive Set Theory. Also provided, is a preamble to Zorn's Lemma, introducing the reader to a brief history of this important maximal principle.

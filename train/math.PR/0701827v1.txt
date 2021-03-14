@@ -1,0 +1,1 @@
+We study the cutoff phenomenon for generalized riffle shuffles where, at each step, the deck of cards is cut into a random number of packs of multinomial sizes which are then riffled together.

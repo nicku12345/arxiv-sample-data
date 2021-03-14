@@ -1,0 +1,1 @@
+We consider what some authors call 'parabolic M\"obius subgroups' of matrices over Z, Q, and R and focus on the membership problem in these subgroups and complexity of relevant algorithms.

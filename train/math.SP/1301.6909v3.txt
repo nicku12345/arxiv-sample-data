@@ -1,0 +1,1 @@
+In this article we consider a closed Riemannian manifold (M,g) and A a subset of M. The purpose of this article is the comparison between the eigenvalues of a Schrodinger operator on the manifold (M,g) and the eigenvalues on the manifold (M-A,g) with Dirichlet boundary conditions.

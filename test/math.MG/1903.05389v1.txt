@@ -1,0 +1,1 @@
+A 1-Lipschitz map f from a convex compact set to itself has fixed points. This consequence of Brouwer's or Schauder's fixed point theorem has more elementary proofs by approximating f by \lambda-contractions, f_\lambda. We study the convergence of the fixed points of those contractions as they converge to f.

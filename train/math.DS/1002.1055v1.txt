@@ -1,0 +1,1 @@
+In this paper, we give a positive answer to the open question: Can there exist 4 limit cycles in quadratic near-integrable polynomial systems? It is shown that when a quadratic integrable system has two centers and is perturbed by quadratic polynomials, it can generate at least 4 limit cycles with (3,1) distribution. The method of Melnikov function is used.

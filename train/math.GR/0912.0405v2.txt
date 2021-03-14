@@ -1,0 +1,1 @@
+There are natural actions of the braid groups on the products of the braid groups, called the Hurwitz action. We first study the roots of centralizers in the braid groups. By using the structure of the roots, we provide a criterion for the Hurwitz orbit become finite and give an upper bound of the size of a finite orbit in length 2 or degree 3 case.

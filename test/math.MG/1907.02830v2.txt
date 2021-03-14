@@ -1,0 +1,1 @@
+In this paper we study a classical Maxwell question on the existence of self-stresses for frameworks, which are called tensegrities. We give a complete answer on geometric conditions of at most (d+1)-valent tensegrities in \mathbb{R}^d both in terms of discrete multiplicative 1-forms and in terms of "meet" and "join" operations in the Grassmann-Cayley algebra.

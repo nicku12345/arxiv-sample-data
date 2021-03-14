@@ -1,0 +1,1 @@
+Fundamental representations of real simple Poisson Lie groups are Poisson actions with a suitable choice of the Poisson structure on the underlying (real) vector space. We study these (mostly quadratic) Poisson structures and corresponding phase spaces (symplectic groupoids).

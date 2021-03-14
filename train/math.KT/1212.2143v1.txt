@@ -1,0 +1,1 @@
+We give a streamlined proof of a theorem of Foxby and Halvorsen. The theorem states that certain relative K-groups made from chain complexes with bounded (but arbitrarily long) length coincide with similar K-groups in which one sets an absolute bound on the length of the complexes.

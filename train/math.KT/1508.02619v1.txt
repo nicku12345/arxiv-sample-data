@@ -1,0 +1,1 @@
+We establish a mod 2 index theorem for real vector bundles over 8k+2 dimensional compact pin^- manifolds. The analytic index is the reduced \eta invariant of (twisted) Dirac operators and the topological index is defined through KO-theory. Our main result extends the mod 2 index theorem of Atiyan and Singer to non-orientable manifolds.

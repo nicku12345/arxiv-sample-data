@@ -1,0 +1,1 @@
+Estimates for Z_2(s) = \int_1^|infty |\zeta(1/2+ix)|^4x^{-s}dx (\Re s > 1) are discussed, both pointwise and in mean square. It is shown how these estimates can be used to bound E_2(T), the error term in the asymptotic formula for \int_0^T |\zeta(1/2+it)|^4dt.

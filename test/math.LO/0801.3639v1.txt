@@ -1,0 +1,1 @@
+Two theorems of elmentary arithmetic, one stating that the sum of the reciprocals of any number of consecutive positive integers is never an integer, and a generalization thereof by Trygve Nagell, are shown to be provable inside a very weak arithmetic, Richard Kaye's PA^-, in which there is no induction axiom whatsoever.

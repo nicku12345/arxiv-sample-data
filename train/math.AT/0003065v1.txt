@@ -1,0 +1,1 @@
+We show that any closed model category of simplicial algebras over an algebraic theory is Quillen equivalent to a proper closed model category. By ``simplicial algebra'' we mean any category of algebras over a simplicial algebraic theory, which is allowed to be multi-sorted. The results have applications to the construction of localization model category structures.

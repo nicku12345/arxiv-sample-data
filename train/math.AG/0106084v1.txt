@@ -1,0 +1,1 @@
+We revisit Akbulut and King's first example of a compact semialgebraic set which satisfies Sullivan's local Euler characteristic condition, but which is not homeomorphic to an algebraic set. A nontrivial obstruction is computed using the link operator on the ring of constructible functions.

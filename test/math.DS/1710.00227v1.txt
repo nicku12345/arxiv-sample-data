@@ -1,0 +1,1 @@
+We show the non-integrability of the three-parameter Armburster-Guckenheimer-Kim quartic Hamiltonian using Morales-Ramis theory, with the exception of the three already known integrable cases. We use Poincar\'e sections to illustrate the breakdown of regular motion for some parameter values.

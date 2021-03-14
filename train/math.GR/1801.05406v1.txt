@@ -1,0 +1,1 @@
+Every commutator preserving bijection of the unipotent radical Up(2n, R) of the Borel subgroup of the classical symplectic group of rank at least 4 over a field F such that 6F=F is shown to be the composition of a standard automorphism of Up(2n,R) and a central map. The latter is a bijection which acts as the right multiplication by a matrix from the center of Up(2n,F).

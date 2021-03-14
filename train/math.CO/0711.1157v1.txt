@@ -1,0 +1,1 @@
+The unit distance embeddability of a graph, like planarity, involves a mix of constraints that are combinatorial and geometric. We construct a unit distance embedding for H-e in the hope that it will lead to an embedding for H. We then investigate analytical methods for a general decision procedure for testing unit distance embeddability.

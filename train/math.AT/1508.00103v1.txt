@@ -1,0 +1,1 @@
+In this paper Aut(\Sigma X\vee \Sigma Y)^\# the order of the group of self-homotopy equivalence of wedge spaces is studied. Under the condition of reducibility, we decompose  Aut(\bigvee\limits_{t=1}^{k}X_{t}) to the product of subgroups which generalizes the known results for k=2. Then we also give the formula for  Aut(\bigvee\limits_{t=1}^{k}\Sigma X_{t})^{\#}.

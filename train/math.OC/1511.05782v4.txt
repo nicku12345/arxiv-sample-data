@@ -1,0 +1,1 @@
+Based on Pontryagin Maximum Principle (PMP), this paper establishes a generalized PMP aiming at control system with with extra input/output terms. The paper details the adaptive target and gives a proof of the generalized theorem. Transformation and application of this specific method is showed and thereafter an example explained its feasibility.

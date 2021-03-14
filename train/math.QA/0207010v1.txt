@@ -1,0 +1,1 @@
+The set of cochain multioperations defining Steenrod \smile_i-products in the bar construction is constructed in terms of surjection operad. This structure extends a Homotopy G-algebra structure which defines just the \cup  on the bar construction.

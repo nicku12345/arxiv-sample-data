@@ -1,0 +1,1 @@
+A limit group is the limit of a sequence of conjugates of the diagonal Cartan subgroup, C, of SL(3,R). We show C has 5 possible limit groups, up to conjugacy. Each limit group is determined by an equivalence class of nonstandard triangle, and we give a criterion for a sequence of conjugates of C to converge to each of the 5 limit groups.

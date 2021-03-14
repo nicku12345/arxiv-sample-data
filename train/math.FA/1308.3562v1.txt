@@ -1,0 +1,1 @@
+Let X be a complex Banach space with \dim X\geq3 and B(X) the algebra of all bounded linear operators on X. Suppose \phi:B(X)\longrightarrow B(X) is a surjective map satisfying the following property: Fix(AB)=Fix(\phi(A)\phi(B)), (A, B\in B(X)). Then the form of \phi is characterized, where Fix(T) is the set of all fixed points of an operator T.

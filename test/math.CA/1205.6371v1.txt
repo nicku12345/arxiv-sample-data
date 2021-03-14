@@ -1,0 +1,1 @@
+We give an essentially self-contained proof of Guth's recent endpoint multilinear Kakeya theorem which avoids the use of somewhat sophisticated algebraic topology, and which instead appeals to the Borsuk-Ulam theorem.

@@ -1,0 +1,1 @@
+We construct Boolean Algebras answering questions of Monk on cardinal invariants. The results are proved in ZFC (rather than giving consistency results). We deal with the existence of superatomic Boolean Algebras with ``few automorphisms'', with entangled sequences of linear orders, and with semi-ZFC examples of the non-attainment of the spread (and hL, hd).

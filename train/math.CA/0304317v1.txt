@@ -1,0 +1,1 @@
+Example 7, after Entry 43, in Chapter XII of the first Notebook of Srinivasa Ramanujan is proved and, more generally, a summation theorem for _3F_2(a,a,x;1+a,1+a+N;1), where N is a non-negative integer, is derived.

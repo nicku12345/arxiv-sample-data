@@ -1,0 +1,1 @@
+We give a classification of the lattices of rank r=4, r=8 and r=12 over \Q(\sqrt{-3}), which are even and unimodular \Z-lattices. Using this classification we construct the associated theta series, which are Hermitian modular forms, and compute the filtration of cusp forms.

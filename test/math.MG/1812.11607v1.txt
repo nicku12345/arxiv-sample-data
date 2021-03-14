@@ -1,0 +1,1 @@
+Using previous results about shadow systems and Steiner symmetrization, we prove that the local maximizers of the volume product of convex bodies are actually the global maximizers, that is: ellipsoids.

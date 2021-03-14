@@ -1,0 +1,1 @@
+We show that club isomorphism of Kurepa trees have consequences about large cardinals. More precisely, assume that every two Kurepa trees are club isomorphic. Then \omega_2 is inaccessible in the constructible universe \textbf{L}.

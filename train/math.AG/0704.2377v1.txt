@@ -1,0 +1,1 @@
+We prove a lower bound on the Seshadri constant \epsilon (L) on a K3 surface S with \Pic S \simeq \ZZ[L]. In particular, we obtain that \epsilon (L)=\alpha if L^2=\alpha^2 for an integer \alpha.

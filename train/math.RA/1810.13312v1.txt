@@ -1,0 +1,1 @@
+In this paper we consider the probability that two elements of a finite ring have product zero. We find bounds of this probability of a finite commutative ring with identity 1. The explicit computations for the ring \mathbf{Z}_n, the ring of integers modulo n, have been obtained.

@@ -1,0 +1,1 @@
+We prove an analogue of the Morel-Voevodsky localization theorem over spectral algebraic spaces. As a corollary we deduce a "derived nilpotent invariance" result which, informally speaking, says that A^1-homotopy invariance kills all higher homotopy groups of a connective commutative ring spectrum.

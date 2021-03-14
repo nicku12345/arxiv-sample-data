@@ -1,0 +1,1 @@
+We define an analogue of signed Eulerian numbers f_{n,k} for involutions of the symmetric group and derive some combinatorial properties of this sequence. In particular, we exhibit both an explicit formula and a recurrence for f_{n,k} arising from the properties of its generating function.

@@ -1,0 +1,1 @@
+Following Almgren's construction of the "center manifold" in his Big regularity paper, we show the C^{3,\alpha} regularity of area-minimizing currents in the neighborhood of points of density one without using the nonparametric theory. This study is intended as a first step towards the understanding of Almgren's construction in its full generality.

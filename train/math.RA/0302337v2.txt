@@ -1,0 +1,1 @@
+In this note we develop a coalgebraic approach to the study of solutions of linear difference equations over modules and rings. Some known results about linearly recursive sequences over base fields are generalized to linearly (bi)recursive (bi)sequences of modules over arbitrary commutative ground rings.

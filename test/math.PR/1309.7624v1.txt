@@ -1,0 +1,1 @@
+In this paper we investigate the boundary non-crossing probabilities of a fractional Brownian motion considering some general deterministic trend function. We derive bounds for non-crossing probabilities and discuss the case of a large trend function. As a by-product we solve a minimization problem related to the norm of the trend function.

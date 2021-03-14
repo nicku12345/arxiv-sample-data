@@ -1,0 +1,1 @@
+We show that the Eulerian-Catalan numbers enumerate Dyck permutations. We provide two proofs for this fact, the first using the geometry of alcoved polytopes and the second a direct combinatorial proof via an Eulerian-Catalan analogue of the Chung-Feller theorem.

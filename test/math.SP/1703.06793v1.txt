@@ -1,0 +1,1 @@
+We use Littlewood-Paley-Stein type g-functions (also called generalized square functions) associated to symmetric diffusion semigroups to obtain a characterization of inhomogeneous abstract Besov spaces on the abstract Hilbert spaces. Then we apply our results for the abstract Besov spaces defined through the Poisson and Gauss-Weierstrass semigroups.

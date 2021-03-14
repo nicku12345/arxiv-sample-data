@@ -1,0 +1,1 @@
+Let F be an arbitrary field. The Golod-Shafarevich example of a finitely generated nil F-algebra which is infinite dimensional -- is revisited. Here we offer a rather elementary treatment of that example, in which induction replaces Hilbert series techniques. This note also contains a detailed exposition of the construction of that example.

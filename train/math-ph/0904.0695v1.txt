@@ -1,0 +1,1 @@
+The dynamical behavior of a star network of spins, wherein each of N decoupled spins interact with a central spin through non uniform Heisenberg XX interaction is exactly studied. The time-dependent Schrodinger equation of the spin system model is solved starting from an arbitrary initial state. The resulting solution is analyzed and briefly discussed.

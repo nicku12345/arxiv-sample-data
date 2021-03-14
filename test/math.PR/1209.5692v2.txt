@@ -1,0 +1,1 @@
+Using complex analysis techniques we obtain precise asymptotic approximations for the kernels corresponding to the symmetric \alpha-stable processes and their fractional derivatives. We apply our method to general L\'evy processes whose characteristic functions are radial and satisfy some regularity and size conditions.

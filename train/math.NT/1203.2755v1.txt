@@ -1,0 +1,1 @@
+Let \vartheta := \frac{-1+\sqrt{5}}{2} be the golden ratio. A golden lattice is an even unimodular \Z[\vartheta ]-lattice of which the Hilbert theta series is an extremal Hilbert modular form. We construct golden lattices from extremal even unimodular lattices and obtain families of dense modular lattices.

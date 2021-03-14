@@ -1,0 +1,1 @@
+Let Y = Hom(Z^n, SU(2)) denote the space of commuting n-tuples in SU(2). We determine the homotopy type of the suspension of Y and compute the integral cohomology groups of Y for all positive integers n.

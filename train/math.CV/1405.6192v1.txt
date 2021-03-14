@@ -1,0 +1,1 @@
+As outlined below, this paper is devoted to a Carleson-type-measure-based study of the holomorphic Campanato 2-space on the open unit ball \mathbb B_n of \mathbb C^n, comprising all Hardy 2-functions whose oscillations in non-isotropic metric balls on the compact unit sphere \mathbb S_n are proportional to some power of the radius other than the dimension n\ge 1.

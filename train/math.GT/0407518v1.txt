@@ -1,0 +1,1 @@
+Generalized Donaldson invariants of 4-manifolds are defined, using moduli spaces of anti-self-dual connections with structure group SU(N) or PSU(N). Some values of the invariants are calculated for the case that the 4-manifold arises by the knot-complement construction of Fintushel and Stern. The results are consistent with predictions of Marino and Moore.

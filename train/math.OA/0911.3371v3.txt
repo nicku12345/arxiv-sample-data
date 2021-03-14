@@ -1,0 +1,1 @@
+Let A be a locally compact abelian group, and H a locally compact group acting on A. Let G=HA be the semidirect product. We prove that the pair (G,A) has Kazhdan's Property T if and only if the only countably approximable H-invariant mean on the Borel subsets of the Pontryagin dual of A, supported at the neighbourhood of the trivial character, is the Dirac measure.

@@ -1,0 +1,1 @@
+We consider scalar quantum fields with exponential interaction on Euclidean hyperbolic space \mathbb{H}^2 in two dimensions. Using decoupling inequalities for Neumann boundary conditions on a tessellation of \mathbb{H}^2, we are able to show that the infra-red limit for the generating functional of the conformal boundary field becomes trivial.

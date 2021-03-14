@@ -1,0 +1,1 @@
+We use the spectrum tmf to obtain new nonimmersion results for many real projective spaces RP^n for n as small as 113. The only new ingredient is some new calculations of tmf-cohomology groups. We present an expanded table of nonimmersion results. Our new theorem is new for 17% of the values of n between 2^i and 2^i + 2^14 for i > 14.

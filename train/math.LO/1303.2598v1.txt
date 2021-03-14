@@ -1,0 +1,1 @@
+We show that the separative quotient of the poset (P(L),\subset) of isomorphic suborders of a countable scattered linear order L is \sigma-closed and atomless. So, under the CH, all these posets are forcing-equivalent (to P(\omega)/Fin).

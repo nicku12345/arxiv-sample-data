@@ -1,0 +1,1 @@
+Let X be a polyhedral complex with finitely many isometry classes of links. We establish a restriction on the covolumes of uniform lattices acting on X. When X is two-dimensional and has all links isometric to either a complete bipartite graph or the building for a Chevalley group of rank 2 over a field of prime order, we obtain further restrictions on covolumes.

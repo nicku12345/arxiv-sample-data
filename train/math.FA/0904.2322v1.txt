@@ -1,0 +1,1 @@
+Let A and B be unital semi-simple commutative Banach algebras. In this paper we study two-variable polynomials p which satisfy the following property: a map T from A onto B such that the equality \[ \sigma (p(Tf,Tg))=\sigma (p(f,g)), \quad f,g \in A \] holds is an algebra isomorphism.

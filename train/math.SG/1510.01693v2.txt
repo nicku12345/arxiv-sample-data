@@ -1,0 +1,1 @@
+We lift a Hamiltonian loop on a symplectic manifold to a Hamiltonian loop on the symplectic one-point blow up of a symplectic manifold. Then we use Weinstein's morphism to show that the lifted Hamiltonian loop has infinite order on the fundamental group of the group of Hamiltonian diffeomorphisms of the blown up manifold.

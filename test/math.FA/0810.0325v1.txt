@@ -1,0 +1,1 @@
+We use the Gowers block Ramsey theorem to characterize Banach spaces containing isomorphs of \ell_p (for some 1 \leq p < \infty) or c_0.

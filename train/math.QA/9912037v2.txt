@@ -1,0 +1,1 @@
+We introduce a functional realization of the Hamiltonian structure on the moduli space of P-bundles on the elliptic curve E. Here P is parabolic subgroup in SL_n. We also introduce a construction of the corresponding quantum algebras.

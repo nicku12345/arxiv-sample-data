@@ -1,0 +1,1 @@
+We consider a system of N bosons interacting through a two-body potential with, possibly, Coulomb-type singularities. We show that the difference between the many-body Schr\"odinger evolution in the mean-field regime and the effective nonlinear Hartree dynamics is at most of the order 1/N, for any fixed time. The N-dependence of the bound is optimal.

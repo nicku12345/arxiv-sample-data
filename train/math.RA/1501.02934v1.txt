@@ -1,0 +1,1 @@
+We find new sufficient conditions for the commutator map of a real semisimple Lie algebra to be surjective. As an application we prove the surjectivity of the commutator map for all simple algebras except \mathfrak su_{p,q} (p or q >1), \mathfrak so_{p,p+2} (p odd or p=2), \mathfrak u^*_{2m+1}(\mathbb H) (m\ge 1) and EIII.

@@ -1,0 +1,1 @@
+A short proof is given of the fact that various classes of algebras including the free associative algebra are Hopfian, i.e., every epimorphism is an automorphism. This further simplifies the Dicks-Lewin solution of the Jacobian conjecture for the free associative algebra.

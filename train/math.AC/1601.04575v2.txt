@@ -1,0 +1,1 @@
+We show that the universal Gr\"obner basis and the Graver basis of a binomial edge ideal coincide. We provide a description for this basis set in terms of certain paths in the underlying graph. We conjecture a similar result for a parity binomial edge ideal and prove this conjecture for the case when the underlying graph is the complete graph.

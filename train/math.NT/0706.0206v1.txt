@@ -1,0 +1,1 @@
+For an even Dirichlet character psi, we obtain a formula for L(1,psi) in terms of a sum of Dirichlet L-series evaluated at s=2 and s=3 and a rapidly convergent numerical series involving the central binomial coefficients. We then derive a class number formula for real quadratic number fields by taking L(s,psi) to be the quadratic L-series associated with these fields.

@@ -1,0 +1,1 @@
+Given a smooth projective curve X, we give effective very ampleness bounds for generalized theta divisors on the moduli spaces SU_X(r,d) and U_X(r,d) of semistable vector bundles of rank r and degree d on X with fixed, respectively arbitrary, determinant.

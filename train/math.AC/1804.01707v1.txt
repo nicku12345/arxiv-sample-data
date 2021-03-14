@@ -1,0 +1,1 @@
+In this article, we compute the Buchsbaum-Rim function of two variables associated to a direct sum of cyclic modules and give a formula for the last positive associated Buchsbaum-Rim multiplicity in terms of the ordinary Hilbert-Samuel multiplicity of an ideal. This is a generalization of a formula for the last positive Buchsbaum-Rim multiplicity given by Kirby and Rees.

@@ -1,0 +1,1 @@
+A Banach space E is said to have Property (w) if every (bounded linear) operator from E into E' is weakly compact. We give some interesting examples of James type Banach spaces with Property (w). We also consider the passing of Property (w) from E to C(K,E).

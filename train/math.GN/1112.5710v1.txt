@@ -1,0 +1,1 @@
+We provide a ZFC example of a compact space K such that C(K)* is w*-separable but its closed unit ball is not w*-separable. All previous examples of such kind had been constructed under CH. We also discuss the measurability of the supremum norm on that C(K) equipped with its weak Baire sigma-algebra.

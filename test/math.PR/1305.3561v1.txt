@@ -1,0 +1,1 @@
+This paper proves a matrix model for the Wishart Ensemble with general covariance and general dimension parameter beta. In so doing, we introduce a new and elegant definition of Jack polynomials.

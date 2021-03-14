@@ -1,0 +1,1 @@
+In this paper, we discuss characterizations of common fixed points of commutative semigroups of nonexpansive mappings. We next prove convergence theorems to a common fixed point. We finally discuss nonexpansive retractions onto the set of common fixed points. In our discussion, we may not assume the strict convexity of the Banach space.

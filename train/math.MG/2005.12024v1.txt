@@ -1,0 +1,1 @@
+Koskela and Zhou have proven that, on the harmonic Sierpinski gasket with Kusuoka's measure, the "natural" Dirichlet form coincides with Cheeger's energy. We give a different proof of this result, which uses the properties of the Lyapounov exponent of the gasket.

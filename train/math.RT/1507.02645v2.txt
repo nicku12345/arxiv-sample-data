@@ -1,0 +1,1 @@
+We study the crystal base \mathsf{B}(\infty) associated with the negative part of the quantum group for finite simple Lie algebras of types E_6 and E_7. We present an explicit description of \mathsf{B}(\infty) as the image of a Kashiwara embedding that is in natural correspondence with the tableau description of \mathsf{B}(\infty).

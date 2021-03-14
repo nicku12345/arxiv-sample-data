@@ -1,0 +1,1 @@
+Let X be a scheme that does not satisfy the valuative criterion of separatedness. We show that the Hilbert functor parametrizing closed families of X that are flat, finite and of rank one is not represented by a scheme or an algebraic space.

@@ -1,0 +1,1 @@
+We give formulae for a module presentation of the module of identities among relations for a presentation of a group, in terms of information on 0- and 1-combings of the Cayley graph. This is seen as a special case of extending a partial free crossed resolution of a group given a partial contracting homotopy of its universal cover.

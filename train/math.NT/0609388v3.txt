@@ -1,0 +1,1 @@
+In this paper, we classify the perfect lattices in dimension 8. There are 10916 of them. Our classification heavily relies on exploiting symmetry in polyhedral computations. Here we describe algorithms making the classification possible.

@@ -1,0 +1,1 @@
+In this paper we consider two difference schemes for numerical solving of a one--dimensional singularly perturbed boundary value problem. We proved an \varepsilon--uniform convergence for both difference schemes on a Shiskin mesh. Finally, we present four numerical experiments to confirm the theoretical results.

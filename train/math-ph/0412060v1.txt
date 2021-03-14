@@ -1,0 +1,1 @@
+We discuss and compare two alternative perturbation approaches for the calculation of the period of nonlinear systems based on the Lindstedt--Poincar\'{e} technique. As illustrative examples we choose one--dimensional anharmonic oscillators and the Van der Pol equation. Our results show that each approach is better for just one type of model considered here.

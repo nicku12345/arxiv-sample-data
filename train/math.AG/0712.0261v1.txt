@@ -1,0 +1,1 @@
+We characterise those objects in the derived category of a scheme which are a sheaf supported on a closed subscheme in terms of Koszul complexes. This is applied to generalize to arbitrary schemes the fully faithfullness criteria of an integral functor.

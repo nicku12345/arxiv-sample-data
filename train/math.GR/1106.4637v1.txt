@@ -1,0 +1,1 @@
+Let \pi:\aut(F_n)\rightarrow \aut(\Z^n) be the epimorphism induced by the isomorphism \Z^n \cong F_n/F_n' and define \mathcal{T}_n:=\ker\pi. We prove that the subset of \mathcal{T}_n consists of all non-iwip and all non-hyperbolic elements is exponentially small.

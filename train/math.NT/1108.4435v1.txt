@@ -1,0 +1,1 @@
+We show that there exist real numbers \alpha_1,\alpha_2 linearly independent over \mathbb{Z} together with 1 such that for every non-zero integer vector (m_1,m_2) with m_1\ge 0 and m_2\ge 0 one has ||m_1\alpha_1+m_2\alpha_2|| \ge 2^{-300} (\max(m_1, m_2))^{-\sigma} with \sigma = 1.94696^+.

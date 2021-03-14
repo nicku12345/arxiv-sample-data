@@ -1,0 +1,1 @@
+We consider the existence and pathwise uniqueness of the stochastic heat equation with a multiplicative colored noise term on IR^d for d greater or equal to 1. We focus on the case of non-Lipschitz noise coefficients and singular spatial noise correlations. In the course of the proof a new result on Hoelder continuity of the solutions near zero is established.

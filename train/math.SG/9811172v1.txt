@@ -1,0 +1,1 @@
+By using twist construction, we obtain a quantum groupoid \cald\ot_{q}\uqg for any simple Lie algebra \frakg. The underlying Hopf algebroid structure encodes all the information of the corresponding elliptic quantum group-the quasi-Hopf algebras as obtained by Fronsdal, Arnaudon et. al. and Jimbo et. al..

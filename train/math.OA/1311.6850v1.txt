@@ -1,0 +1,1 @@
+We define several new types of quantum chromatic numbers of a graph and characterise them in terms of operator system tensor products. We establish inequalities between these chromatic numbers and other parameters of graphs studied in the literature and exhibit a link between them and non-signalling correlation boxes.

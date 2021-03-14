@@ -1,0 +1,1 @@
+In this paper are given some estimates of precision of the Huygens approximation x \approx \frac{2}{3} \sin x + \frac{1}{3} \tan x, for right neighbourhood of zero, by determining some boundaries for the Huygens function f(x) = \frac{2}{3} \sin x + \frac{1}{3} \tan x, for x \in \left(0, \frac{\pi}{2} \right), in forms of some polynomial and some rational functions.

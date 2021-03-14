@@ -1,0 +1,1 @@
+We construct an initial data for the two-dimensional Euler equation in a bounded smooth symmetric domain such that the gradient of vorticity in L^{\infty} grows as a double exponential in time for all time. Our construction is based on the recent result by Kiselev and \v{S}ver\'{a}k.

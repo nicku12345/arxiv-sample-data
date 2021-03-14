@@ -1,0 +1,1 @@
+A notion of strongly Baire space is introduced. Its definition is a transfinite development of some equivalent reformulation of the Baire space definition. It is shown that every strongly Baire space is a Namioka space and every \beta-\sigma-unfavorable space is a strongly Baire space.

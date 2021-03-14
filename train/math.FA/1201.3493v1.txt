@@ -1,0 +1,1 @@
+Given a nondegenerate harmonic structure, we prove a Poincar\'e-type inequality for functions in the domain of the Dirichlet form on nested fractals. We then study the Hajlasz-Sobolev spaces on nested fractals. In particular, we describe how the "weak"-type gradient on nested fractals relates to the upper gradient defined in the context of general metric spaces.

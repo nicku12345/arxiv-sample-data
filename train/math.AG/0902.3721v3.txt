@@ -1,0 +1,1 @@
+Let S be a complex Enriques surface; it is the quotient of a K3 surface X by a fixed-point-free involution. The Brauer group Br(S) has a unique nonzero element. We describe its pull-back in Br(X), and show that the surfaces S for which it is trivial form a countable union of hypersurfaces in the moduli space of Enriques surfaces.

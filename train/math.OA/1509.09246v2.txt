@@ -1,0 +1,1 @@
+We generalize the Akemann-Ostrand theorem for {\rm PSL}_2(\mathbb Z), to the case of the partial transformations action of {\rm PGL}_2(\mathbb Z[\frac{1}{p}]) \times {\rm PGL}_2(\mathbb Z[\frac{1}{p}])^{\rm op}, by left and and right multiplication on PSL_2(\mathbb Z).

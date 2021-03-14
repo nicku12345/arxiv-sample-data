@@ -1,0 +1,1 @@
+There is a constant c contained in the famous radial basis function shifted surface spline. It's called shape parameter. RBF people only know that this constant is very influential, while its optimal choice is unknown. This paper presents criteria of its optimal choice.

@@ -1,0 +1,1 @@
+We prove that each real semisimple Lie algebra G has a Q-form, such that every real representation of G can be realized over the rational numbers Q. This was previously proved by M.S.Raghunathan (and rediscovered by P.Eberlein) in the special case where G is compact.

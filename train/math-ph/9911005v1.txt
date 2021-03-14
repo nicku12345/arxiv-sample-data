@@ -1,0 +1,1 @@
+We give the inflation rules for the decorated Mosseri-Sadoc tiles in the projection class of tilings {\cal T}^{(MS)}. Dehn invariants related to the stone inflation of the Mosseri-Sadoc tiles provide eigenvectors of the inflation matrix with eigenvalues equal to \tau = \frac{1+\sqrt{5}}{2} and -\tau^{-1}.

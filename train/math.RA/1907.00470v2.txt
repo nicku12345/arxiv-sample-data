@@ -1,0 +1,1 @@
+We provide a Maltsev characterization of congruence distributive varieties by showing that a variety \mathcal {V} is congruence distributive if and only if the congruence identity \alpha \cap (\beta \circ \gamma \circ \beta ) \subseteq \alpha \beta \circ \gamma \circ \alpha \beta \circ \gamma \dots  (k factors) holds in \mathcal {V}, for some natural number k.

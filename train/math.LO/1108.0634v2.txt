@@ -1,0 +1,1 @@
+The Kuroda negative translation translates classical logic only into intuitionistic logic, not into minimal logic. We present eight variants of the Kuroda negative translation that translate classical logic even into minimal logic. The proofs of their soundness theorems are interesting because they illustrate four different methods of proof.

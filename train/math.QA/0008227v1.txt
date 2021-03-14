@@ -1,0 +1,1 @@
+The factorization of the universal R-matrix corresponding to so called Drinfeld Hopf structure is described on the example of quantum affine algebra U_q(\hat{sl}_2). As a result of factorization procedure we deduce certain differential equations on the factors of the universal {\cal R}-matrix, which allow to construct uniquely these factors in the integral form.

@@ -1,0 +1,1 @@
+We reduce some key calculations of compositions of morphisms between Soergel bimodules ("Soergel calculus") to calculations in the nil Hecke ring ("Schubert calculus"). This formula has several applications in modular representation theory.

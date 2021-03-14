@@ -1,0 +1,1 @@
+The self intersection of an immersion i : S^2 \to R^3 dissects S^2 into pieces which are planar surfaces (unless i is an embedding). In this work we determine what collections of planar surfaces may be obtained in this way. In particular, for every n we construct an immersion i : S^2 \to R^3 with 2n triple points, for which all pieces are discs.

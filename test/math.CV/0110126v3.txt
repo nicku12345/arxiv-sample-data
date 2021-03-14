@@ -1,0 +1,1 @@
+We give a simple proof of an isomorphism between the two \mathbb{C}[t]-modules: the module of relative cohomologies \Lambda^2/dH\land \Lambda^1 and the module of Abelian integrals corresponding to a regular at infinity polynomial H in two variables. Using this isomorphism, we prove existence and deduce some properties of the corresponding Picard-Fuchs system.

@@ -1,0 +1,1 @@
+We use sheaves and algebraic L-theory to construct the rational Pontryagin classes of fiber bundles with fiber R^n. This amounts to an alternative proof of Novikov's theorem on the topological invariance of the rational Pontryagin classes of vector bundles. Transversality arguments and torus tricks are avoided.

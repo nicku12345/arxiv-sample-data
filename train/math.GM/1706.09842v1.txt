@@ -1,0 +1,1 @@
+We look at the elliptic curve E(q), where q is a fixed rational number. A point (p,r) on E(q) is called a rational point if both p and r are rational numbers. We introduce the concept of conjugate points and show that not both can be rational points.

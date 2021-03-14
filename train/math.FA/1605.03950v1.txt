@@ -1,0 +1,1 @@
+There are several extensions of the classical Banach Fixed Point Theorem in technical literature. A branch of generalizations replaces usual contractivity by weaker but still effective assumptions. Our note follows this stream, presenting an elementary proof for a known fixed point result. Some applications are also considered.

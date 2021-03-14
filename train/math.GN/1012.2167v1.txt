@@ -1,0 +1,1 @@
+In this paper we study the asymptotic behavior of Weil-Petersson volumes of moduli spaces of hyperbolic surfaces of genus g as g \rightarrow \infty. We apply these asymptotic estimates to study the geometric properties of random hyperbolic surfaces, such as the Cheeger constant and the length of the shortest simple closed geodesic of a given combinatorial type.

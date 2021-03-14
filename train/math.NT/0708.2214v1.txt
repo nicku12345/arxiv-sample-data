@@ -1,0 +1,1 @@
+We give a sufficient and necessary condition for a p-adic integer to have p-th root in the ring of p-adic integers. The same condition holds clearly for residues modulo p^k. We give a proof that Fermat's last theorem is false for p-adic integers and for residues mod p^k.

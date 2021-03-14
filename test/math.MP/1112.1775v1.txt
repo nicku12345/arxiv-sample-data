@@ -1,0 +1,1 @@
+We present the exact solution of the Klein-Gordon with Hylleraas Potential using the Nikiforov-Uvarov method. We obtain explicitly the bound state energy eigenvalues and the corresponding eigen function are also obtained and expressed in terms of Jacobi Polynomials

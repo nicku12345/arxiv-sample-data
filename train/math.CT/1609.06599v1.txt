@@ -1,0 +1,1 @@
+It is well known that the opposite F^{op} of the category F of finitely generated free groups is a Lawvere theory for groups, and also that F is a free symmetric monoidal category on a commutative Hopf monoid, or, in other words, a PROP for commutative Hopf algebras. In this paper, we give a direct, combinatorial proof of the latter fact, without using Lawvere theories.

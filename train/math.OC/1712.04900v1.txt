@@ -1,0 +1,1 @@
+The \mathrm{3D} Navier--Stokes system, under Lions boundary conditions, is proven to be approximately controllable provided a suitable saturating set does exist. An explicit saturating set for \mathrm{3D} rectangles is given.

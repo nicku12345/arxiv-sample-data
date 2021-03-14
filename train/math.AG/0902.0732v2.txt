@@ -1,0 +1,1 @@
+We give a completely algebraic proof of the Bogomolov-Tian-Todorov theorem. More precisely, we shall prove that if X is a smooth projective variety with trivial canonical bundle defined over an algebraically closed field of characteristic 0, then the L-infinity algebra governing infinitesimal deformations of X is quasi-isomorphic to an abelian differential graded Lie algebra.

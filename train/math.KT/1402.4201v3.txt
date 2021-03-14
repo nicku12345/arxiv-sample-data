@@ -1,0 +1,1 @@
+We start developing a notion of reciprocity sheaves, generalizing Voevodsky's homotopy invariant presheaves with transfers which were used in the construction of his triangulated categories of motives. We hope reciprocity sheaves will eventually lead to the definition of a larger triangulated category of motivic nature, encompassing non homotopy invariant phenomena.

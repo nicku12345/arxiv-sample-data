@@ -1,0 +1,1 @@
+Let E be a directed graph, K any field, and let L_K(E) denote the Leavitt path algebra of E with coefficients in K. We show that L_K(E) is a B\'{e}zout ring, i.e., that every finitely generated one-sided ideal of L_K(E) is principal.

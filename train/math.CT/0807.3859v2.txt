@@ -1,0 +1,1 @@
+For an arbitrary localic etale groupoid G we provide simple descriptions, in terms of modules over the quantale O(G) of the groupoid, of the continuous actions of G, including actions on open maps and sheaves. The category of G-actions is isomorphic to a corresponding category of O(G)-modules, and as a corollary we obtain a new quantale based representation of etendues.

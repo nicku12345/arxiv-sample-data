@@ -1,0 +1,1 @@
+In this paper an integral transform between spaces of nonstandard test functions on the affine space of dimension n is constructed. The integral transform satisfies a summation formula of Poisson type, which is derived from an analogue of the Arthur-Selberg trace formula for the Lie algebra of n by n matrices.

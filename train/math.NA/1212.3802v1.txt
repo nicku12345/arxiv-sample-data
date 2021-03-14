@@ -1,0 +1,1 @@
+In this paper, we study direct and indirect Galerkin method for solving linear Integral-Algebraic Equations of index 1. Convergence of indirect method is also analyzed.

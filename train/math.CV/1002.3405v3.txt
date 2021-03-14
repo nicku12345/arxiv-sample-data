@@ -1,0 +1,1 @@
+The aim of this article is to give a generalization of the Cauchy-Pompeiu integral formula for functions valued in parameter-depending elliptic algebras with structure polynomial X^2 + \beta X + \alpha where \alpha and \beta are real numbers. As a consequence, a Cauchy integral representation formula is obtained for a generalized class of holomorphic functions.

@@ -1,0 +1,1 @@
+We establish the L^2 theory for the Cauchy-Riemann equations on product domains provided that the Cauchy-Riemann operator has closed range on each factor. We deduce regularity of the canonical solution on (p,1)-forms in special Sobolev spaces represented as tensor products of Sobolev spaces on the factors of the product. This leads to regularity results for smooth data.

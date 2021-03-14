@@ -1,0 +1,1 @@
+In this paper we will give necessary and sufficient conditions for the operator T_\nu^s to be in the symmetrically normed ideal \mathcal{C}_\Phi for an arbitrary symmetric norming function \Phi where T_\nu is the Toeplitz operator on the generalized Fock Space (also known as the generalized Bargmann-Fock space) with a positive measure symbol \nu and 0<s\leq 1.

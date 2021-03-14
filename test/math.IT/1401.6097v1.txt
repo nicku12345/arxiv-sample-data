@@ -1,0 +1,1 @@
+We show that the mismatched capacity of binary discrete memoryless channels can be improved by channel combining and splitting via Ar{\i}kan's polar transformations. We also show that the improvement is possible even if the transformed channels are decoded with a mismatched polar decoder.

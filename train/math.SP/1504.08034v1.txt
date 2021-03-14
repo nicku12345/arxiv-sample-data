@@ -1,0 +1,1 @@
+This note deals with a simultaneous approximation of several matrices by a finite family of diagonalizable matrices satisfying an additional condition for the spectrum of a matrix product. That is the simplicity of all eigenvalues.

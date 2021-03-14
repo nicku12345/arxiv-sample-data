@@ -1,0 +1,1 @@
+We classify all non-simple connected quandles of size pq and 4p where p,q are primes, as a special family of locally strictly simple quandles (i.e. quandles for which all proper subquandles are strictly simple). In particular we classify all latin quandles of size pq and 4p and we show that latin quandles of size 8p are affine.

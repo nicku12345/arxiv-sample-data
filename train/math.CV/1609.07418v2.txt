@@ -1,0 +1,1 @@
+We give estimates of the L^p norm of the Bergman projection on a strongly pseudoconvex domain in \mathbb{C}^n. We show that this norm is comparable to \frac{p^2}{p - 1} for 1 <p< \infty.

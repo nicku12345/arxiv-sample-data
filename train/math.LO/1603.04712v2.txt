@@ -1,0 +1,1 @@
+We generalise the exponential Ax-Schanuel theorem to arbitrary linear differential equations with constant coefficients. Using the analysis of the exponential differential equation by J. Kirby and C. Crampin we give a complete axiomatisation of the first order theories of linear differential equations and show that the generalised Ax-Schanuel inequalities are adequate for them.

@@ -1,0 +1,1 @@
+Starting from a Hopf algebra endowed with an action of a group G by Hopf automorphisms, we construct (by a twisted double method) a quasitriangular Hopf G-coalgebra. This method allows us to obtain non-trivial examples of quasitriangular Hopf G-coalgebras for any finite group G and for infinite groups G such as GL(n,K). In particular, we define the graded quantum groups.

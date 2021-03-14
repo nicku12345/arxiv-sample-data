@@ -1,0 +1,1 @@
+The main aim of this paper is to classify the distinct multiplicative Lie algebra structures (up to isomorphism) on a given group. We also see that for a given group G, every homomorphism from the non-abelian exterior square G \wedge G to G gives a multiplicative Lie algebra structure on G under certain conditions.

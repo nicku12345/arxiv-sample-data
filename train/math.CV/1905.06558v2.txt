@@ -1,0 +1,1 @@
+In this paper we study holomorphic approximation using boundary value problems for \bar\partial on an annulus in the Hilbert space setting. The associated boundary conditions for \bar\partial are the mixed boundary problems on an annulus. We characterize pseudoconvexity and Runge type property of the domain by the vanishing of related L^2 cohomology groups.

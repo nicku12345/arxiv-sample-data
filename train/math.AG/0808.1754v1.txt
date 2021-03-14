@@ -1,0 +1,1 @@
+Simplicial toric stack bundles are smooth Deligne-Mumford stacks over smooth varieties with fibre a toric Deligne-Mumford stack. We compute the Grothendieck K-theory of simplicial toric stack bundles and study the Chern character homomorphism.

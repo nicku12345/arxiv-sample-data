@@ -1,0 +1,1 @@
+We prove strong-type A_p-A_\infty estimate for square functions, improving on the  A_p bound due to Lerner. Entropy bounds, in the recent innovation of Treil-Volberg, are then proved. The techniques of proof include parallel stopping cubes, pigeon-hole arguments, and the approach to entropy bounds of Lacey--Spencer.

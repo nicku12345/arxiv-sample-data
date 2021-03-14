@@ -1,0 +1,1 @@
+We prove that for all non-abelian finite simple groups S, there exists a fake mth Galois action on IBr(X) with respect to X \lhd X \rtimes  Aut(X), where X is the universal covering group of S and m is any non-negative integer coprime to the order of X. This is one of the two inductive conditions needed to prove an \ell-modular analogue of the Glauberman-Isaacs correspondence.

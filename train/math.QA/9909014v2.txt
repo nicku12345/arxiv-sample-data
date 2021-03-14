@@ -1,0 +1,1 @@
+The expression of the quantum Ruijsenaars-Schneider Hamiltonian is obtained in the framework of the dynamical R-matrix formalism. This generalizes to the case of U_q(sl_n) the result obtained by O. Babelon, D. Bernard and E. Billey for U_q(sl_2) which is the higher difference Lame operator. The general method involved is the universal R-matrix construction.

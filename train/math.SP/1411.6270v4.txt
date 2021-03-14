@@ -1,0 +1,1 @@
+We describe a general approach for computing generators for elimination ideals associated with matrix and hypermatrix spectral decomposition constraints. We derive from these generators iterative procedures for approximating the spectral decomposition of matrices and hypermatrices.

@@ -1,0 +1,1 @@
+We study operator log-convex functions on (0,\infty), and prove that a continuous nonnegative function on (0,\infty) is operator log-convex if and only if it is operator monotone decreasing. Several equivalent conditions related to operator means are given for such functions. Operator log-concave functions are also discussed.

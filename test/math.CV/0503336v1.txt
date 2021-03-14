@@ -1,0 +1,1 @@
+We consider a holomorphic 1-form \omega with an isolated zero on an isolated complete intersection singularity (V,0). We construct quadratic forms on an algebra of functions and on a module of differential forms associated to the pair (V,\omega). They generalize the Eisenbud-Levine-Khimshiashvili quadratic form defined for a smooth V.

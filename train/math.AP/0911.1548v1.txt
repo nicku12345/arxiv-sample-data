@@ -1,0 +1,1 @@
+We consider a class of nonautonomous elliptic operators {\mathscr A} with unbounded coefficients defined in [0,T]\times\R^N and we prove optimal Schauder estimates for the solution to the parabolic Cauchy problem D_tu={\mathscr A}u+f, u(0,\cdot)=g.

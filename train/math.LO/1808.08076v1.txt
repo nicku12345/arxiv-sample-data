@@ -1,0 +1,1 @@
+The strong continuity principle reads "every pointwise continuous function from a complete separable metric space to a metric space is uniformly continuous near each compact image." We show that this principle is equivalent to the fan theorem for monotone \Pi^{0}_{1} bars. We work in the context of constructive reverse mathematics.

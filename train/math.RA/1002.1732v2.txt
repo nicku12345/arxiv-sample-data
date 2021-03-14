@@ -1,0 +1,1 @@
+Given an arbitrary field K, we reduce the determination of the singular endomorphisms f of M_n(K) that stabilize GL_n(K) to the classification of n-dimensional division algebras over K. Our method, which is based upon Dieudonn\'e's theorem on singular subspaces of M_n(K), also yields a proof for the classical non-singular case.

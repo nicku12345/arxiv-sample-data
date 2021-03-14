@@ -1,0 +1,1 @@
+Given a convex disk K and a positive integer k, let \vartheta_T^k(K) and \vartheta_L^k(K) denote the k-fold translative covering density and the k-fold lattice covering density of K, respectively. Let T be a triangle. In a very recent paper, K. Sriamorn proved that \vartheta_L^k(T)=\frac{2k+1}{2}. In this paper, we will show that \vartheta_T^k(T)=\vartheta_L^k(T).

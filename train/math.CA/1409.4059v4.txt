@@ -1,0 +1,1 @@
+With the help of Van der Corput lemmas, decay estimates are proven for Fourier transforms of mixed homogeneous hypersurface measures with densities that can be quite irregular. The primary results are local in nature, but can be extended to global theorems in an appropriate sense. The estimates are sharp for a certain range of indices in the theorems.

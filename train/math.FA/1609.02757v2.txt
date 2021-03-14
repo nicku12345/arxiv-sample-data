@@ -1,0 +1,1 @@
+Here we introduce a generalization of the exponential sampling series of optical physics and establish pointwise and uniform convergence theorem, also in a quantitative form. Moreover we compare the error of approximation for Mellin band-limited functions using both classical and generalized exponential sampling series.

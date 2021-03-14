@@ -1,0 +1,1 @@
+This paper presents the integral(or differential) form of G-BSDEs, gives some kind of apriori estimates of their solutions, and under a very strong condition, proves the G-martingale representation theorem, and the existence and uniqueness theorem of G-BSDEs.

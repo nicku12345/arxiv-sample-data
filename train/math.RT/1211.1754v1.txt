@@ -1,0 +1,1 @@
+This paper proves a periodic property of Jucys-Murphy elements of the degenerate and non-degenerate cy- clotomic Hecke algebras of type A. We do this by first giving a new closed formula for the KLR idempotents e(i) which, it tuns out, is very efficient computationally.

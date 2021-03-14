@@ -1,0 +1,1 @@
+We extend the setup in our previous paper to deal with the case in which more than one steady state may exist in feedback configurations. This provides a foundation for the analysis of multi-stability and hysteresis behaviour in high dimensional feedback systems.

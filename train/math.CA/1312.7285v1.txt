@@ -1,0 +1,1 @@
+We define and study Sobolev spaces associated with Jacobi expansions. We prove that these Sobolev spaces are isomorphic to Jacobi potential spaces. As a technical tool, we also show some approximation properties of Poisson-Jacobi integrals.

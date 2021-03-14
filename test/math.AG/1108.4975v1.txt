@@ -1,0 +1,1 @@
+For a nondegenerate irreducible curve C of degree d in {\Bbb P}^r over {\Bbb F}_q with r \geq 3, we prove that the number N_q(C) of {\Bbb F}_q-points of C satisfies the inequality N_q(C) \leq (d-1)q +1, which is known as Sziklai's bound if r=2.

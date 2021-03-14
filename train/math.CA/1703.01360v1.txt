@@ -1,0 +1,1 @@
+We consider Carleson's problem regarding pointwise convergence for the Schr\"odinger equation. Bourgain recently proved that there is initial data, in H^s(\mathbb{R}^n) with s<\frac{n}{2(n+1)}, for which the solution diverges on a set of nonzero Lebesgue measure. We provide a different example enabling the generalisation to fractional Hausdorff measure.

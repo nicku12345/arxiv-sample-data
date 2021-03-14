@@ -1,0 +1,1 @@
+We identify the category of real mixed Hodge structures with the category of vector bundles with connections (not necessarily flat) on C, equivariant with respect to C^*. Here C is the complex plane considered as a 2-dimensional real manifold, and C^* is the multiplicative group of complex numbers considered as a real group.

@@ -1,0 +1,1 @@
+We prove that if p is an odd prime, G is a solvable group, and the average value of the irreducible characters of G whose degrees are not divisible by p is strictly less than 2(p+1)/(p+3), then G is p-nilpotent. We show that there are examples that are not p-nilpotent where this bound is met for every prime p. We then prove a number of variations of this result.

@@ -1,0 +1,1 @@
+There are 9 kinds of crystallographic groups \Pi of Sol. For any automorphism \varphi on \Pi, we study the Reidemeister number R(\varphi). Using the averaging formula for the Reidemeister numbers, we prove that most of the crystallographic groups of Sol have the R_\infty property.

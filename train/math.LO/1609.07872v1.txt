@@ -1,0 +1,1 @@
+In 1958, Sierpinski asked whether there exists a linear order X that is isomorphic to its lexicographically ordered cube but is not isomorphic to its square. The main result of this paper is that the answer is negative. More generally, if X is isomorphic to any one of its finite powers X^n, n>1, it is isomorphic to all of them.

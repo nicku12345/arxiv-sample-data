@@ -1,0 +1,1 @@
+We study the Central Limit Theorem (CLT) in the so-called hybrid Lebesgue-continuous spaces and tail behavior of normed sums of centered random independent variables (vectors) with values in these spaces.

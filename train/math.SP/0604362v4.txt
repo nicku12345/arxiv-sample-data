@@ -1,0 +1,1 @@
+This paper originally showed a lower bound on mixing time for a non-reversible Markov chain in terms of its largest non-trivial eigenvalue, and used this to re-derive some generalizations of results of Fan Chung. However, the paper has been withdrawn because I have been made aware that the lower bound was previously known.

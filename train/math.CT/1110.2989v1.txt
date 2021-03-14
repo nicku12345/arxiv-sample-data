@@ -1,0 +1,1 @@
+The join operad arises from the combinatorial study of the iterated join of simplices. We study a suitable simplicial version of this operad which includes the symmetries given by permutations of the factors of the join. From this combinatorics we construct an E-infinity operad which coacts naturally on the chains of a simplicial set.

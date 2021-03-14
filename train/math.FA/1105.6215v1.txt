@@ -1,0 +1,1 @@
+We prove the following correction theorem: every function f on the circumference \mathbb{T} that is bounded by the \alpha_1-weight w (this means that Mw^2 \leq C w^2) can be modified on a set e with \int\limits_{e} w \leq \eps so that its quadratic function built up from arbitary sequence of nonintersecting intervals in \mathbb{Z} will not exceed C \log \frac{1}{\eps} w.

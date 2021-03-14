@@ -1,0 +1,1 @@
+For the one-dimensional Schr\"odinger equation, some real intervals with no eigenvalues (the spectral gaps) may be obtained rather systematically with a method proposed by H. Giacomini and A. Mouchet in 2007. The present article provides some alternative formulation of this method, suggests some possible generalizations and extensively discusses the higher-dimensional case.

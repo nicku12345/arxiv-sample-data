@@ -1,0 +1,1 @@
+We construct Stickelberger elements for Hilbert modular cusp forms of parallel weight 2 and use recent results of Dasgupta and Spiess to bound their order of vanishing from below. As a special case the vanishing part of Mazur and Tate's refined "Birch and Swinnerton-Dyer type"-conjecture for elliptic curves of rank 0 follows.

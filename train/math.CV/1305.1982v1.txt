@@ -1,0 +1,1 @@
+We study the maximal ideal space of H^\infty(B), where B is the unit ball of \CC^n. Following the lead of Gleason and Schark, we analyze Gleason parts, fibers, the S\u{\i}lov boundary, and other aspects of this Banach algebra. Our work here makes good use of the inner functions construction of Aleksandrov and Hakim/L{\o} w/Sibony, particularly as formulated by Rudin.

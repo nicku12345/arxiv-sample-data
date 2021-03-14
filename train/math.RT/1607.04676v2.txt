@@ -1,0 +1,1 @@
+In this paper we define a regularized version of the analytic torsion for arithmetic quotients of the symmetric space SL(n,R)/\SO(n). The definition is based on the study of the renormalized trace of the corresponding heat operators, which is defined as the geometric side of the Arthur trace formula applied to the heat operator

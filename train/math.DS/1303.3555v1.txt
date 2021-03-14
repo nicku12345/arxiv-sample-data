@@ -1,0 +1,1 @@
+In this paper, we give a new proof of the classical KAM theorem which avoids small divisors and relies on two basic principles of Diophantine approximation: Dirichlet's box and Khintchine transference principles.

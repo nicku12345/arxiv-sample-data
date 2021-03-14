@@ -1,0 +1,1 @@
+The Jordan normal form for a matrix over an arbitrary field and the canonical form for a pair of matrices under contragredient equivalence are derived using Ptak's duality method.

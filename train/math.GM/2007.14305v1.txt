@@ -1,0 +1,1 @@
+This paper attempts to prove the Sylvester's conjecture using Egyptian Fractions with two key ingredients. First, creating a set of operators that completely generates all possible Egyptian fraction of 1. And second, to detect patterns in every operator that surely will generate a new number which are relatively prime to all that came before.

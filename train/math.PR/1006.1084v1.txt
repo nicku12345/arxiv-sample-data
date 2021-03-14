@@ -1,0 +1,1 @@
+We introduce and study a new interacting particles model with a wall and two kinds of interactions - blocking and pushing - which maintain particles in a certain order. We show that it involves a random matrix model.

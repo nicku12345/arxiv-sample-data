@@ -1,0 +1,1 @@
+Rakhmanov's theorem for orthogonal polynomials on the unit circle gives a sufficient condition on the orthogonality measure for orthogonal polynomials on the unit circle, in order that the reflection coefficients (the recurrence coefficients in the Szego recurrence relation) converge to zero. In this paper we give the analog for orthogonal matrix polynomials on the unit circle.

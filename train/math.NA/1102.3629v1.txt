@@ -1,0 +1,1 @@
+We show that the Lebesgue constant of the real projection of Leja sequences for the unit disk grows like a polynomial. The main application is the first construction of explicit multivariate interpolation points in [-1,1]^N whose Lebesgue constant also grows like a polynomial.

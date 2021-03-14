@@ -1,0 +1,1 @@
+Both Fibonacci and Lucas numbers can be described combinatorially in terms of 0-1 strings without consecutive ones. In the present article we explore the occupation numbers as well as the correlations between various positions in the corresponding configurations.

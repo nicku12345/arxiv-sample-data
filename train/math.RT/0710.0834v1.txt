@@ -1,0 +1,1 @@
+It is known that if A and B are two n-by-n complex matrices and (A,A^T) is simultaneously equivalent to (B,B^T), then A is congruent to B. We extend this statement to multilinear forms.

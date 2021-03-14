@@ -1,0 +1,1 @@
+Let (G,Z(G)) be a Camina pair. We prove that G must be a p-group for some prime p. We also prove that |Z(G)| < |G:Z(G)|^{3/4}. Also, we discuss how one might build examples with |Z(G)| > |G:Z(G)|^{1/2}, although we are not able to prove the existence of such examples.

@@ -1,0 +1,1 @@
+Let K be a convex pentagon in the plane and let K_1 be the pentagon bounded by the diagonals of K. It has been conjectured that the maximum of the ratio between the areas of K_1 and K is reached when K is an affine regular pentagon. In this paper we prove this conjecture. We also show that for polygons with at least six vertices the trivial answers are the best possible.

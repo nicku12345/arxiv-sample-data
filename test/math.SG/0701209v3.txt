@@ -1,0 +1,1 @@
+We derive a formula for the the modular class of a Lie algebroid with a regular twisted Poisson structure in terms of a canonical Lie algebroid representation of the image of the Poisson map. We use this formula to compute the modular classes of Lie algebras with a twisted triangular r-matrix. The special case of r-matrices associated to Frobenius Lie algebras is also studied.

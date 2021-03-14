@@ -1,0 +1,1 @@
+In the scalar case, the spectral factorization mapping f\to f^+ puts a nonnegative integrable function f having an integrable logarithm in correspondence with an outer analytic function f^+ such that f = |f^+|^2 almost everywhere. The main question addressed here is to what extent \|f^+ - g^+\|_{H_2} is controlled by \|f-g\|_{L_1} and \|\log f - \log g\|_{L_1}.

@@ -1,0 +1,1 @@
+The authors discuss information-based complexity theory, which is a model of finite-precision computations with real numbers, and its applications to numerical analysis.

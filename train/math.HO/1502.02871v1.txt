@@ -1,0 +1,1 @@
+This manuscript presents a linear algebra-based technique that only requires two unique photographs from a digital camera to mathematically construct a 3D surface representation which can then be 3D printed. Basic computer vision theory and manufacturing principles are also briefly discussed.

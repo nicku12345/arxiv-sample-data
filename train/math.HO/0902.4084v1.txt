@@ -1,0 +1,1 @@
+In this paper we present a way to count the number of trains that we can construct with a given set of domino pieces. As an application we obtain a new method to compute the total number of eulerian paths in an undirected graph as well as their starting and ending vertices.

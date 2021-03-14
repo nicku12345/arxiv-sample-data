@@ -1,0 +1,1 @@
+We estimate the observable diameter of the l_p-product space X^n of an mm-space X by using the limit formula in our previous paper. The idea of our proof is based on Gromov's book. As a corollary we obtain the phase transition property of \{X^n\}_{n=1}^\infty under a discreteness condition.

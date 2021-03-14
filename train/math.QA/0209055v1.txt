@@ -1,0 +1,1 @@
+We study Lusztig's theory of cells for quantum affine \mathfrak{sl}_n. Using the geometric construction of the quantum group due to Lusztig and Ginzburg--Vasserot, we describe explicitly the two-sided cells, the number of left cells in a two--sided cell, and the asymptotic algebra, verifying conjectures of Lusztig.

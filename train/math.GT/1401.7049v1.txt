@@ -1,0 +1,1 @@
+For any closed oriented hyperbolic 3-manifold M, and any closed oriented 3-manifold N, we will show that M admits a finite cover M', such that there exists a degree-2 map f:M'\rightarrow N, i.e. M virtually 2-dominates N.

@@ -1,0 +1,1 @@
+In this paper we have derived explicitly computable bounds on the error in energy norms for the fully nonlinear Poisson-Boltzmann equation. Together with the computable bounds, we have also obtained efficient error indicators which can serve as a basis for a reliable adaptive finite element algorithm.

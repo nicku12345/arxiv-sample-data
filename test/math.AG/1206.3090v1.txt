@@ -1,0 +1,1 @@
+Building upon works of Hironaka, Bierstone-Milman, Villamayor and Wlodarczyk, we give an a priori estimate for the complexity of the simplified Hironaka algorithm. As a consequence of this result, we show that there exists canonical Hironaka embedded desingularization and principalization over fields of large characteristic (relative to the degrees of generating polynomials).

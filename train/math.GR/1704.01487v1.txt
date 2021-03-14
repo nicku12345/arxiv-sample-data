@@ -1,0 +1,1 @@
+The following theorem is proved: Let G be a finite group and \pi_e(G) be the set of element orders in G. If \pi_e(G) \cap \{2\}=\emptyset; or \pi_e(G) \cap \{3, 4\}=\emptyset; or \pi_e(G) \cap \{3,5\}=\emptyset, then G is solvable. Moreover, using the intersection with \pi_e(G) being empty set to judge G is solvable or not, only the above three cases.

@@ -1,0 +1,1 @@
+For the family of polynomials in one variable P:=x^n+a_1x^{n-1}+\cdots +a_n we ask the questions at which points its discriminant set can be considered as the graph of a function of all coefficients a_j but one and how its subset of points, where the discriminant set is not smooth, projects on the different coordinate hyperplanes in the space of the coefficients~a.

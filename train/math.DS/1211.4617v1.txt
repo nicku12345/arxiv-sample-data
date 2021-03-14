@@ -1,0 +1,1 @@
+We consider open systems generated from one-dimensional maps that admit a finite Markov partition and use the recently developed theory of isospectral graph transformations to estimate a system's survival probabilities. We show that these estimates are better than those obtained through a more direct approach.

@@ -1,0 +1,1 @@
+Weighted power variations of fractional Brownian motion B are used to compute the exact rate of convergence of some approximating schemes associated to one-dimensional stochastic differential equations (SDEs) driven by B. The limit of the error between the exact solution and the considered scheme is computed explicitly.

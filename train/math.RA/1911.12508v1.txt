@@ -1,0 +1,1 @@
+By using the methods of Cauchy-Binet type formula and adjugate matrix respectively, a wonderful equality relating to the elements of eigenvectors, the eigenvalues and the submatrix eigenvalues is proved in arXiv:1908.03795. In the note, we use matrix block to provide a new and shorter proof for the equality.

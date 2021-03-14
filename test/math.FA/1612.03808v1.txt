@@ -1,0 +1,1 @@
+We characterise the octahedrality of Lipschitz-free space norm in terms of a new geometric property of the underlying metric space. We study the metric spaces with and without this property. Quite surprisingly, metric spaces without this property cannot embed isometrically into \ell_1 and similar Banach spaces.

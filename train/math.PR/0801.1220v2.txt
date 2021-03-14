@@ -1,0 +1,1 @@
+Let X and Y be two simple symmetric continuous-time random walks on the vertices of the n-dimensional hypercube. We consider the class of co-adapted couplings of these processes, and describe an intuitive coupling which is shown to be the fastest in this class.

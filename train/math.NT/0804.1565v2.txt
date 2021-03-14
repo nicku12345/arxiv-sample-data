@@ -1,0 +1,1 @@
+Modular polynomials are an important tool in many algorithms involving elliptic curves. In this article we investigate their generalization to the genus 2 case following pioneering work by Gaudry and Dupont. We prove various properties of these genus 2 modular polynomials and give an improved way to explicitly compute them.

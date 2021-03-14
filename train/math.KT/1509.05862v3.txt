@@ -1,0 +1,1 @@
+We consider singular foliations whose holonomy groupoid may be nicely decomposed using Lie groupoids (of unequal dimension). We show that the Baum-Connes conjecture can be formulated in this setting. This conjecture is shown to hold under assumptions of amenability. We examine several examples that can be described in this way and make explicit computations of their K-theory.

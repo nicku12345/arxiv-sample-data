@@ -1,0 +1,1 @@
+Some recent results on graph eigenvalues are improved. In particular, among all graphs of given order with no cliques of order (r+1) the r-partite Turan graph has maximal spectral radius.

@@ -1,0 +1,1 @@
+The paper concerns the infinite dimensional Hamilton-Jacobi-Bellman equation related to optimal control problem regulated by a transport equation with boundary control. A suitable viscosity solution approach is needed in view of the presence of the unbounded control-related term in the Hilbertian state equation. An existence-and-uniqueness result is obtained.

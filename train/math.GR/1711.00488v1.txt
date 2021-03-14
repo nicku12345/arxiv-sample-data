@@ -1,0 +1,1 @@
+In this paper, we determine the set of all distinct eigenvalues of the line graph which is induced by the first and second layers of the hypercube  Q_n , n>3. We show that this graph has precisely five distinct eigenvalues and all of its eigenvalues are integers

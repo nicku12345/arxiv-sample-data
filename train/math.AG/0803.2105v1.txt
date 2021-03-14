@@ -1,0 +1,1 @@
+We prove the overholonomicity of overconvergent F-isocrystals over smooth varieties.   This implies that the notions of overholonomicity and devissability in overconvergent F-isocrystals are equivalent. Then the overholonomicity is stable under tensor products. So, the overholonomicity gives a p-adic cohomology stable under Grothendieck's cohomological operations.

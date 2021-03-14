@@ -1,0 +1,1 @@
+We study some kind of rigidity property for dicritical foliation in the complex plane. In fact, we prove that for a generic dicritical foliation, there exists deformations of the resolution space which cannot carry any deformation of the foliation with constant holonomy pseudo-group. This situation never occurs in the non-dicritical case.

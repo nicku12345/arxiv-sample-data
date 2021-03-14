@@ -1,0 +1,1 @@
+We show that each positive map from B(K) to B(H) with K and H finite dimensional Hilbert spaces is a scalar multiple of a map of the form Tr - \psi with \psi completely positive. This is used to give necessary and sufficient conditions for maps to be C-positive for a large class of mapping cones; in particular we apply the results to k-positive maps.

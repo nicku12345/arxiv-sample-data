@@ -1,0 +1,1 @@
+We make a few remarks concerning pointwise extensions in a bicategory which include the case of bicategories of enriched categories. We show that extensions, pointwise or not, can be replaced by extensions along very special fully faithful maps. This leads us to suggest a concept of limit sketch internal to the bicategory.

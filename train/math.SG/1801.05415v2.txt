@@ -1,0 +1,1 @@
+We resolve parts (A) and (B) of Problem 1.100 from Kirby's list by showing that many nontrivial links arise as cross-sections of unknotted holomorphic disks in the four-ball. The techniques can be used to produce unknotted ribbon surfaces with prescribed cross-sections, including unknotted Lagrangian disks with nontrivial cross-sections.

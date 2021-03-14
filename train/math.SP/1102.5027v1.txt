@@ -1,0 +1,1 @@
+In this note the following is shown. Consider the quadratic form on (complex) matrices Q(A):=tr(A^2). Let A be such a matrix. Then an ellipse can be found, with the vector from center to focus determined by the value of Q at the traceless part of A, which must be contained in the convex hull of the spectrum of A.

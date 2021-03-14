@@ -1,0 +1,1 @@
+We prove that the lattice Eq(X) of all equivalence relations on an infinite set X contains, as a 0,1-sublattice, the 0-coproduct of two copies of itself, thus answering a question by G.M. Bergman. Hence, by using methods initiated by de Bruijn and further developed by Bergman, we obtain that Eq(X) also contains, as a sublattice, the coproduct of 2^{card(X)} copies of itself.

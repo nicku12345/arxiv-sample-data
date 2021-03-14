@@ -1,0 +1,1 @@
+Given a finitely presented group G, Hopf's formula expresses the second integral homology of G in terms of generators and relators. We give an algorithm that exploits Hopf's formula to estimate H_2(G;k), with coefficients in a finite field k, and give examples using G=SL_2 over specific rings of integers. These examples are related to a conjecture of Quillen.

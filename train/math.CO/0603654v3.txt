@@ -1,0 +1,1 @@
+We describe a relationship between Robinson-Schensted algorithms defined for standard domino tableaux of unequal rank. The principal idea is the moving-through operation defined on standard domino tableaux by D. Garfinkle. When restricted to involutions, this answers a question posed by M.A.A. van Leeuwen.

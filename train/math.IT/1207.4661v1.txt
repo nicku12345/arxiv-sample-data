@@ -1,0 +1,1 @@
+A new family of codes based on polar codes, soft concatenation and list+CRC decoding is proposed. Numerical experiments show the performance competitive with industry standards and Tal, Vardy approach.

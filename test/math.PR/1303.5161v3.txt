@@ -1,0 +1,1 @@
+In this article, we show a result of approximation in law to subfractional Brownian motion, with H>\frac{1}{2}, in the Skorohod topology. The construction of these approximations is based on a sequence of I.I.D random variables

@@ -1,0 +1,1 @@
+This paper is devoted to establish an invariance principle where the limit process is a multifractional Gaussian process with a multifractional function which takes its values in (1/2,1). Some properties, such as regularity and local self-similarity of this process are studied. Moreover the limit process is compared to the multifractional Brownian motion.

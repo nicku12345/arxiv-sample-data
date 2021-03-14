@@ -1,0 +1,1 @@
+We extend monotone quasiconformal mappings from dimension n to n+1 while preserving both monotonicity and quasiconformality. The extension is given explicitly by an integral operator. In the case n=1 it yields a refinement of the Beurling-Ahlfors extension.

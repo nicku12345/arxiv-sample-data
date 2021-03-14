@@ -1,0 +1,1 @@
+In this paper, we propose a new hybridized discontinuous Galerkin method for the Poisson equation with homogeneous Dirichlet boundary condition. Our method has the advantage that the stability is better than the previous hybridized method. We derive L^2 and H^1 error estimates of optimal order. Some numerical results are presented to verify our analysis.

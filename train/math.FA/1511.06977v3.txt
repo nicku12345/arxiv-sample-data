@@ -1,0 +1,1 @@
+Several matrix/operator inequalies are given. Most of them are unexpected extensions of the Araki Log-majorization theorem, obtained thanks to a new log-majorization for positive linear maps and normal operators (Theorem 2.9). The main idea and technical tool is a two variables log-convex norm functional (Theorem 1.2).

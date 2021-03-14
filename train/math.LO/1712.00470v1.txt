@@ -1,0 +1,1 @@
+We prove that the theory of the extensional compositional truth predicate for the language of arithmetic with \Delta_0-induction scheme for the truth predicate and the full arithmetical induction scheme is not conservative over Peano Arithmetic. In addition, we show that a slightly modified theory of truth actually proves the global reflection principle over the base theory.

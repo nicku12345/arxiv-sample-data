@@ -1,0 +1,1 @@
+We develop new invariants similar to the Bieri-Strebel-Neumann-Renz invariants but in the category of Bredon modules (with respect to the class of the finite subgroups of G). We prove that for virtually soluble groups of type FP_{\infty} and finite extension of the Thompson group F the new invariants coincide with the classical ones.

@@ -1,0 +1,1 @@
+Let R be a Dedekind domain with global quotient field K. The purpose of this note is to provide a characterization of when a strongly graded R-order with semiprime 1-component is hereditary. This generalizes earlier work by the first author and G. Janusz (Trans. Amer. Math. Soc. 352 (2000), 3381-3410).

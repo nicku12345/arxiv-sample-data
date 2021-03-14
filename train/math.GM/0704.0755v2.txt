@@ -1,0 +1,1 @@
+We give a new procedure in Maple for finding the k-th power of a martix. The algorithm is based on the article [1].

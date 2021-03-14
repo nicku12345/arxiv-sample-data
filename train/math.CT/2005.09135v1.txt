@@ -1,0 +1,1 @@
+Locality is a property of logics, based on Hanf's and Gaifman's theorems, and that was shown to be very useful in the context of finite model theory. In this paper I present a homotopic variation for locality, namely a Quillen model category-based framework for locality under k-logical equivalence, for every primitive-positive sentence of quantifier-rank k.

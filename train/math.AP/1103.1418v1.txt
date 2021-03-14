@@ -1,0 +1,1 @@
+In this paper, using Euler's function, we give a formula of all integral solutions to linear indeterminate equation with s-variables a_1x_1+a_2x_2+...+a_sx_s=n. It is a explicit formula of the coefficients a_1, a_2,..., a_s and the free term n.

@@ -1,0 +1,1 @@
+A generalization of Grothendieck's non-vanishing theorem is proved for a module which is finite over a local homomorphism. It is also proved that the Gorenstein injective dimension of such a module, if finite, is bounded below by its Krull dimension and is equal to the supremum of the depths of the localizations of the ring over primes in the support of the module.

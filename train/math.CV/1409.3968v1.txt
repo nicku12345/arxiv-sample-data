@@ -1,0 +1,1 @@
+We prove that any incomplete system of complex exponentials \{e^{i\lambda_n t}\} in L^2(-\pi,\pi) is a subset of some complete and minimal system of exponentials. In addition, we prove analogous statement for systems of reproducing kernels in de Branges spaces.

@@ -1,0 +1,1 @@
+This article presents a 3-local characterisation of the sporadic simple group McL and its automorphism group. The theorem is underpinned by a further identification theorem the proof of which is character theoretic. The main theorem is applied in our investigation of groups with a large 3-subgroup.   An additional file containing Magma code has been attached to this submission.

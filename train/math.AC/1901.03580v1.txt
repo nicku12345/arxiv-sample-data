@@ -1,0 +1,1 @@
+Let k be a commutative ring of characteristic p > 0. We prove that leaps of chain formed by modules of integrable derivations in the sense of Hasse-Schmidt of a k-algebra only occur at powers of p.

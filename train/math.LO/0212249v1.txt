@@ -1,0 +1,1 @@
+Under some cardinal arithmetic assumptions, we prove that many stationary subsets of lambda of a right cofinality has the ``middle diamond''. In particular, for many regular kappa for every large enough regular lambda we have the middle diamond on {delta<lambda: cf(delta)= kappa}. This is a strong negation of uniformization.

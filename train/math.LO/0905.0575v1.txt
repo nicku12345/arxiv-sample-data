@@ -1,0 +1,1 @@
+J.-L. Krivine introduced the AF2 type system in order to obtain programs (\lambda-terms) which calculate functions, by writing demonstrations of their totalities. We present in this paper two results of completness for some types of AF2 and for many notions of reductions. These results generalize a theorem of R. Labib-Sami established in the system F of J.-Y. Girard.

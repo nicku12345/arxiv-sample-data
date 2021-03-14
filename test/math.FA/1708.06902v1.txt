@@ -1,0 +1,1 @@
+In this paper we shall consider the connections between Lyapunov integral operators and   Gibbs measures for four competing interactions of models with uncountable (i.e. [0,1]) set of spin values on a Cayley tree. And we shall prove the existence of fixed points of Lyapunov integral operators and give a condition of uniqueness of fixed points.

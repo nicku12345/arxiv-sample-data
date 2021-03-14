@@ -1,0 +1,1 @@
+A class \mathcal F of objects of an abelian category \mathcal A is said to define a \emph{homological dimension} if for any object in \mathcal A the length of any \mathcal F-resolution is uniquely determined. In the present paper we investigate classes satisfying this property.

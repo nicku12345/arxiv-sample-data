@@ -1,0 +1,1 @@
+Let \rho(G) denote the number of convex cycles of a simple graph G of order n, size m, and girth 3 <= g <=n. It is proved that \rho(G) \leq \frac{n}{g}(m-n+1) and that equality holds if and only if G is an even cycle or a Moore graph. The equality also holds for a possible Moore graph of diameter 2 and degree 57 thus giving a new characterization of Moore graphs.

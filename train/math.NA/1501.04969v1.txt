@@ -1,0 +1,1 @@
+In this article the error estimation of the moving least squares approximation is provided for functions in fractional order Sobolev spaces. The analysis presented in this paper extends the previous estimations and explains some unnoticed mathematical details. An application to Galerkin method for partial differential equations is also supplied.

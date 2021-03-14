@@ -1,0 +1,1 @@
+In this article we compute a minimal Groebner basis for the symmetric algebra for certain affine Monomial Curves, as an R-module.   Keywords: Monomial Curves, Groebner Basis, Symmetric Algebra. Mathematics Subject Classification 2000: 13P10, 13A30 .

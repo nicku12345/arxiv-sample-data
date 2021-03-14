@@ -1,0 +1,1 @@
+In this note we give a particularly short and simple proof of the following theorem of Karrass and Solitar. Let H be a finitely generated subgroup of a free group F with infinite index [F:H]. Then there is a nontrivial normal subgroup N of F such that N\cap H = \{1\}.

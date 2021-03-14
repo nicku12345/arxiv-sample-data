@@ -1,0 +1,1 @@
+We introduce system S^2_0E, a bounded arithmetic corresponding to Buss's S^2_0 with the predicate E which signifies the existence of the value. Then, we show that we can \Sigma^b_2-define truthness of S^2_0 E and therefore we can prove consistency of S^2_0 E in S^2_2. Finally, we conjecture that S^2_0 E + \Sigma^b_1-PIND interprets S^2_1.

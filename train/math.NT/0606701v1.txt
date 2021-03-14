@@ -1,0 +1,1 @@
+The aim of this paper is to show how differential characters of Abelian varieties can be used to construct differential modular forms of weight 0 and order 2 which are eigenvectors of Hecke operators. These differential modular forms have "essentially the same" eigenvalues as certain classical complex eigenforms of weight 2.

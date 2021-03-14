@@ -1,0 +1,1 @@
+It is proved that if a Banach space Y is a quotient of a Banach space having a shrinking unconditional basis, then every normalized weakly null sequence in Y has an unconditional subsequence. The proof yields the corollary that every quotient of Schreier's space is c_o-saturated.

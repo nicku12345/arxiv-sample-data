@@ -1,0 +1,1 @@
+Let  p_{i, n}, i=1,..., N(n)=2^{n-1}  be the lengths of intervals between the neighboring fractions of Brocot sequence  F_n . We obtain an asymptotic formula for \sigma_{\beta}(F_n)=\sum_{i=1}^{N(n)} p_{i, n}^{\beta} ,which improves known estimates.

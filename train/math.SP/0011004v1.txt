@@ -1,0 +1,1 @@
+The fixed energy scattering matrix is defined on a perturbed stratified medium, and for a class of perturbations, its main part is shown to be a Fourier integral operator on the sphere at infinity. This is facilitated by developing a refined limiting absorption principle. The symbol of the scattering matrix is shown to determine the asymptotics of a large class of perturbations.

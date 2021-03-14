@@ -1,0 +1,1 @@
+For a given poset, we consider its representations by systems of subspaces of a unitary space ordered by inclusion. We classify such systems for all posets for which an explicit classification is possible.

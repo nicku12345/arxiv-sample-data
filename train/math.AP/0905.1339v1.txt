@@ -1,0 +1,1 @@
+We prove an interior regularity result for solutions of a purely integro-differential Bellman equation. This regularity is enough for the solutions to be understood in the classical sense. If we let the order of the equation approach two, we recover the theorem of Evans and Krylov about the regularity of solutions to concave uniformly elliptic partial differential equations.

@@ -1,0 +1,1 @@
+In this paper, using the degeneration formula we obtain a blowup formulae of local Gromov-Witten invariants of Fano surfaces. This formula makes it possible to compute the local Gromov-Witten invariants of non-toric Fano surfaces form toric Fano surface, such as del Pezzo surfaces. This formula also verifed an expectation of Chiang-Klemm-Yau-Zaslow.

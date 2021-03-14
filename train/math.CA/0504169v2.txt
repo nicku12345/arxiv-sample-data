@@ -1,0 +1,1 @@
+Acerbi, Buttazzo and Percivale gave a variational definition of the nonlinear string energy under the constraint "det\nabla u>0" (see [1]). In the same spirit, we obtain the nonlinear membrane energy under the simpler constraint "det\nabla u\not=0".

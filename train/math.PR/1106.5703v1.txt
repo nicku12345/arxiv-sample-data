@@ -1,0 +1,1 @@
+This work presents an approach to express the second moment of the completion time with a preempt-repeat model job processed on a machine subject to stochastic breakdowns by some distribution characters of the uptime, downtime and processing time.

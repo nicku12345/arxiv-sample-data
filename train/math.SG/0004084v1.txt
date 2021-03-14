@@ -1,0 +1,1 @@
+We show that a Lie algebroid on a stratified manifold is integrable if, and only if, its restriction to each strata is integrable. These results allow us to construct a large class of algebras of pseudodifferential operators.

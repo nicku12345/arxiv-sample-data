@@ -1,0 +1,1 @@
+Let G be an adjoint algebraic group of type B, C, or D over an algebraically closed field of characteristic 2. We construct a Springer correspondence for the Lie algebra of G. In particular, for orthogonal Lie algebras in characteristic 2, the structure of component groups of nilpotent centralizers is determined and the number of nilpotent orbits over finite fields is obtained.

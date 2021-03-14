@@ -1,0 +1,1 @@
+We introduce the notion of a duality pair and demonstrate how the left half of such a pair is often covering and preenveloping. As an application, we generalize a result by Enochs et al. on Auslander and Bass classes, and we prove that the class of Gorenstein injective modules introduced by Enochs and Jenda is covering when the ground ring has a dualizing complex.

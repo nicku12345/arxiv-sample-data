@@ -1,0 +1,1 @@
+We introduce an extra filtration of \CFK(Y,K) and use it in order to obtain formulas for Floer homology of (Y,K), which is obtained from (Y_i,K_i), i=1,2 by gluing the knot complements on the framed torus boundaries.

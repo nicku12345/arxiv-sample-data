@@ -1,0 +1,1 @@
+Let \Omega\Subset\mathbb{C}^{n} be a domain with smooth boundary, k\in\mathbb{N}. It is shown that the integral of a holomorphic function in L^1(\Omega) may be represented as the integral of this function against a smooth function vanishing to order k-1 on b\Omega. An application for a smoothing property of the Bergman projection for conjugate holomorphic functions is given.

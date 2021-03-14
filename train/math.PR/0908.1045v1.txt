@@ -1,0 +1,1 @@
+We establish the asymptotic normality of the G-measure of the symmetric difference between the level set and a plug-in-type estimator of it formed by replacing the density in the definition of the level set by a kernel density estimator. Our proof will highlight the efficacy of Poissonization methods in the treatment of large sample theory problems of this kind.

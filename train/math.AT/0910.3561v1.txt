@@ -1,0 +1,1 @@
+We study the space of link maps, which are smooth maps from the disjoint union of manifolds P and Q to a manifold N such that the images of P and Q are disjoint. We give a range of dimensions, interpreted as the connectivity of a certain map, in which the cobordism class of the "linking manifold" is enough to distinguish the homotopy class of one link map from another.

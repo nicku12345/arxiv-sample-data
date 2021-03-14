@@ -1,0 +1,1 @@
+We describe the two sets of meromorphic univalent functions in the class \Sigma, for which the sequence of Faber polynomials \{F_j\}_{j=1}^\infty  have the roots with following properties respectively: \sum_{j=1}^{n}|F_j(z_0)|=0<|F_{n+1}(z_0)|,  n\in\mathbb N,  and |F_1(z_0)|> 0=\sum_{j=2}^{\infty}|F_j(z_0)|. We found an explicit form of Faber polynomials for such functions.

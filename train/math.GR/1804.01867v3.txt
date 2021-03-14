@@ -1,0 +1,1 @@
+Generalising results of Razborov and Safin, and answering a question of Button, we prove that for every hyperbolic group there exists a constant \alpha >0 such that for every finite subset U that is not contained in a virtually cyclic subgroup |U^n|\geqslant (\alpha |U|)^{[(n+1)/2]}. Similar estimates are established for groups acting acylindrically on trees or hyperbolic spaces.

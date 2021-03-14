@@ -1,0 +1,1 @@
+In this paper, we consider the second-order equations of Duffing type. Bounds for the derivative of the restoring force are given that ensure the existence and uniqueness of a periodic solution. Furthermore, the stability of the unique periodic solution is analyzed; the sharp rate of exponential decay is determined for a solution that is near to the unique periodic solution.

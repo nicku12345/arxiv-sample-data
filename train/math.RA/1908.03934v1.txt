@@ -1,0 +1,1 @@
+Let b be a symmetric bilinear form on a finite-dimensional vector space over a field with characteristic 2. Here, we determine the greatest possible dimension of a linear subspace of nilpotent b-symmetric or b-alternating endomorphisms of V, expressing it as a function of the dimension, the rank, the Witt index of b, and an additional invariant in a very special case.

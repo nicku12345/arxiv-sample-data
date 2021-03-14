@@ -1,0 +1,1 @@
+A Lie algebra L is said to be of breadth k if the maximal dimension of the images of left multiplication by elements of the algebra is k. In this paper we give characterization of finite dimensional nilpotent Lie algebras of breadth less than or equal to two. Furthermore, using these characterizations we determined the isomorphism classes of these algebras.

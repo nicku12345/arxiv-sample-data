@@ -1,0 +1,1 @@
+A recent heuristic argument based on basic concepts in spectral analysis showed that the twin prime conjecture and a few other related primes counting problems are valid. A rigorous version of the spectral method, and a proof for the existence of infinitely many quadratic twin primes n^{2}+1 and n^{2}+3, n \geq 1, are proposed in this note.

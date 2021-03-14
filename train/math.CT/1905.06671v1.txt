@@ -1,0 +1,1 @@
+We define a category parameterizing Calabi-Yau algebra objects in an infinity category of spans. Using this category, we prove that there are equivalences of infinity categories relating, firstly: 2-Segal simplicial objects in C to algebra objects in Span(C); and secondly: 2-Segal cyclic objects in C to Calabi-Yau algebra objects in Span(C).

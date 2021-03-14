@@ -1,0 +1,1 @@
+In the present paper we prove the following conjecture in Kingman, J.F.C., Random walks with spherical symmetry, Acta Math.,109, (1963), 11-53. concerning a famous Raikov's theorem of decomposition of Poisson random variables:   "If a radial sum of two independent random variables X and Y is radial Poisson, then each of them must be radial Poisson."

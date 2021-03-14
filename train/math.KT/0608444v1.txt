@@ -1,0 +1,1 @@
+In this article we prove derived invariance of Hochschild-Mitchell homology and cohomology and we extend to k-linear categories a result by Barot and Lenzing concerning derived equivalences and one-point extensions.   We also prove the existence of a Happel long exact sequence and we give a generalization of this result which provides an alternative approach.

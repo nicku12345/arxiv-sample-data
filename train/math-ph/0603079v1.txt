@@ -1,0 +1,1 @@
+It is shown that the ground state energy of heavy atoms is, to leading order, given by the non-relativistic Thomas-Fermi energy. The proof is based on the relativistic Hamiltonian of Brown and Ravenhall which is derived from quantum electrodynamics yielding energy levels correctly up to order \alpha^2Ry.

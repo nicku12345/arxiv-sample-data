@@ -1,0 +1,1 @@
+We derive exact calculus rules for the directed subdifferential defined for the class of directed subdifferentiable functions. We also state optimality conditions, a chain rule and a mean-value theorem. Thus we extend the theory of the directed subdifferential from quasidifferentiable to directed subdifferentiable functions.

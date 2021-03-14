@@ -1,0 +1,1 @@
+We prove that an IRS of a group with a geometrically dense action on a CAT(0) space also acts geometrically densely; assuming the space is either of finite telescopic dimension or locally compact with finite dimensional Tits boundary. This can be thought of as a Borel density theorem for IRSs.

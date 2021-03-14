@@ -1,0 +1,1 @@
+In this note, we demonstrate a method to invert some Hankel matrices explicitly by using the kernel polynomials for the related classical orthogonal polynomials.

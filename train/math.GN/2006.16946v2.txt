@@ -1,0 +1,1 @@
+Let f be a transcendental entire function. The escaping set I(f) consists of those points that tend to infinity under iteration of f. We show that I(f) is not \sigma-compact, resolving a question of Rippon from 2009.

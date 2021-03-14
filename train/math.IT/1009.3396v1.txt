@@ -1,0 +1,1 @@
+We propose an alternative method for collaborative decoding of interleaved Reed-Solomon codes. Simulation results for a concatenated coding scheme using polar codes as inner codes are included.

@@ -1,0 +1,1 @@
+We give Harnack inequalities for the hitting distributions of a large family of symmetric random walks on \Z^2, and their projections onto the lattice torus \Z^2_K. This extends a framework for the simple random walk in Dembo, et al. (2006), and generalizes the results in Bass, Rosen (2007) to the toral projection.

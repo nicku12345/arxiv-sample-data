@@ -1,0 +1,1 @@
+We show that expander graphs must have Gromov-hyperbolicity at least proportional to their diameter, with a constant of proportionality depending only on the expansion constant and maximal degree. In other words, expanders contain geodesic triangles which are \Omega(\mathop{\rm diam} \Gamma)-thick.

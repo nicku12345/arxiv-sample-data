@@ -1,0 +1,1 @@
+In this article, we use Harrison cohomology to provide a framework for commutative deformations. In particular, Kontsevich's result that formality of (the Hochschild complex of) an associative algebra implies its deformability is adapted for commutative algebras, with the Harrison complex.

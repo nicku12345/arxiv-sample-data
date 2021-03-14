@@ -1,0 +1,1 @@
+If S is a smooth compact surface in \mathbb{R}^3 with strictly positive second fundamental form, and E_S is the corresponding extension operator, then we prove that for all p > 3.25, \| E_S f\|_{L^p(\mathbb{R}^3)} \le C(p,S) \| f \|_{L^\infty(S)}. The proof uses polynomial partitioning arguments from incidence geometry.

@@ -1,0 +1,1 @@
+We construct a non-decreasing pure jump Markov process, whose jump measure heavily depends on the values taken by the process. We determine the singularity spectrum of this process, which turns out to be random and to depend locally on the values taken by the process. The result relies on fine properties of the distribution of Poisson point processes and on ubiquity theorems.

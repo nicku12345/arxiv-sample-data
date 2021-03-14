@@ -1,0 +1,1 @@
+We give several remarks on Strichartz estimates for homogeneous wave equation with special attention to the cases of L^\infty_x estimates, radial solutions and initial data from the inhomogeneous Sobolev spaces. In particular, we give the failure of the endpoint estimate L^4_t L^\infty_x for n=2.

@@ -1,0 +1,1 @@
+We prove that there is a small but fixed positive integer e such that for every prime larger than a fixed integer, every subset S of the integers modulo p which satisfies |2S|<(2+e)|S| and 2(|2S|)-2|S|+2 < p is contained in an arithmetic progression of length |2S|-|S|+1. This is the first result of this nature which places no unnecessary restrictions on the size of S.

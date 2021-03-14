@@ -1,0 +1,1 @@
+The note concerns the \bar\partial problem on product domains in \mathbb C^2. We show that there exists a bounded solution operator from C^{k, \alpha} into itself, k\in \mathbb Z^+\cup \{0\}, 0<\alpha< 1. The regularity result is optimal in view of an example of Stein-Kerzman.

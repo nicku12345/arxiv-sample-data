@@ -1,0 +1,1 @@
+We consider the classification, up to unitary equivalence, of commuting n-tuples of isometries. We pay special attention to the case when the product of the isometries is a shift of finite multiplicity, and we provide a complete classification when this multiplicity equals n. When n=2, we identify a pivotal operator which captures many of the properties of a bi-isometry.

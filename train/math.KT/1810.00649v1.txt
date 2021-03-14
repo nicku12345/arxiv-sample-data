@@ -1,0 +1,1 @@
+We prove versions of the Suslin and Gabber rigidity theorems in the setting of equivariant pseudo pretheories of smooth schemes over a field with an action of a finite group. Examples include equivariant algebraic K-theory, presheaves with equivariant transfers, equivariant Suslin homology, and Bredon motivic cohomology.

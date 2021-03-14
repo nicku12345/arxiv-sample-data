@@ -1,0 +1,1 @@
+This paper is the second in a series of three papers concerning the surface T times T, where T is a complex torus. We compute the fundamental group of the branch curve of the surface in C^2, using the van Kampen Theorem and the braid monodromy factorization of the curve.

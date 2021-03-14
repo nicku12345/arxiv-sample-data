@@ -1,0 +1,1 @@
+We justify the Hamilton least action principle for the Maxwell-Lorentz equations with Abraham's rotating extended electron. The main novelty in the proof is application of the variational Poincare equations on the Lie group SO(3). The variational equations allow to derive the corresponding conservation laws from general Noether theory of invariants.

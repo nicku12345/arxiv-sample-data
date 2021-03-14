@@ -1,0 +1,1 @@
+We give a result of stability in law of the local time of the fractional Brownian motion with respect to small perturbations of the Hurst parameter. Concretely, we prove that the law (in the space of continuous functions) of the local time of the fractional Brownian motion with Hurst parameter H converges weakly to that of the local time of B^{H_0}, when H tends to H_0.

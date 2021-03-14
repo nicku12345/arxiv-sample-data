@@ -1,0 +1,1 @@
+We classify all finite groups G such that the product of any two non-inverse conjugacy classes of G is always a conjugacy class of G. We also classify all finite groups G for which the product of any two G-conjugacy classes which are not inverse modulo the center of G is again a conjugacy class of G.

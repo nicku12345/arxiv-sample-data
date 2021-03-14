@@ -1,0 +1,1 @@
+If X is a spectrally positive stable process of index \alpha\in(1,2) whose L\'{e}vy measure has density cx^{-\alpha-1} on (0,\infty), and S_1=\sup_{0<t\leq1}X_t, it is known that P(S_1>x)\backsim c\alpha^{-1}x^{-\alpha} as x\to\infty. It is also known that S_1has a continuous density, s say. The point of this note is to show that s(x)\backsim cx^{-(\alpha+1)} as x\to\infty.

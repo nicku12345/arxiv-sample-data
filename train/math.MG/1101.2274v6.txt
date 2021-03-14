@@ -1,0 +1,1 @@
+Here it is shown how to combine two generically globally rigid bar frameworks in d-space to get another generically globally rigid framework. The construction is to identify d+1 vertices from each of the frameworks and erase one of the edges that they have in common.

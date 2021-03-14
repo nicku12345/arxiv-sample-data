@@ -1,0 +1,1 @@
+In this note we show that an integral domain D of finite w-dimension is a quasi-Pr\"{u}fer domain if and only if each overring of D is a w-Jaffard domain. Similar characterizations of quasi-Pr\"{u}fer domains are given by replacing w-Jaffard domain by w-stably strong S-domain, and w-strong S-domain. We also give new characterizations of UMt domains.

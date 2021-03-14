@@ -1,0 +1,1 @@
+We use mathematical induction to prove that the horizontal composition in the class of coherently diagonal complexes is indeed a binary operation. That is to say, the embedding of two coherently diagonal complexes in an alternating planar diagram produces a coherently diagonal complex.

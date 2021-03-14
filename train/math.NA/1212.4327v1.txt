@@ -1,0 +1,1 @@
+This report presents explicit analytical expressions for the primal, primal shadows, dual and dual shadows functions for the Laplace equation in the vicinity of a circular singular edge with Neumann boundary conditions on the faces that intersect at the singular edge. Two configurations are investigated: a penny-shaped crack and a 90^o V-notch.

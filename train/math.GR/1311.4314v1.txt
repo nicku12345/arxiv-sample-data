@@ -1,0 +1,1 @@
+In this paper we are concerned with finite soluble groups G admitting a factorisation G=AB, with A and B proper subgroups having coprime order. We are interested in bounding the Fitting height of G in terms of some group-invariants of A and B: including the Fitting heights and the derived lengths.

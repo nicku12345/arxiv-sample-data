@@ -1,0 +1,1 @@
+We show the homotopy spheres \Sigma_{n} = -W\smile_{f^{n}}W, formed by doubling the infinite order loose-cork (W,f) by iterates of the cork diffeomorphism f: \partial W \to \partial W is S^4. To do this we first show that \Sigma_{n}  are obtained by Gluck twistings of S^4; then from this we show how to cancel 3-handles of \Sigma_{n} and identify it by S^{4}.

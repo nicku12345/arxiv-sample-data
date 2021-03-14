@@ -1,0 +1,1 @@
+Let (R,m,k) be an excellent local ring of positive prime characteristic. We show that if Tor_1^R(R^+,k) = 0 then R is regular. This improves a result of Schoutens, in which the additional hypothesis that R was an isolated singularity was required for the proof.

@@ -1,0 +1,1 @@
+This file provide the detailed steps for obtaining the bounds on R_1, R_2 via the obtained results on (R_{1c},R_{1p},R_{2c},R_{2p}). It is subplementary material for the paper titled "On the Capacity Region of Two-User Linear Deterministic Interference Channel and Its Application to Multi-Session Network Coding"

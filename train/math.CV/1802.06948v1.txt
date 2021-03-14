@@ -1,0 +1,1 @@
+Let K be a quasidisk on the complex plane. We construct a sequence of monic polynomials p_n=p_n(\cdot,K) with zeros on K such that ||p_n||_K \le O(1) \mathrm{cap}(K)^n as n\to\infty.

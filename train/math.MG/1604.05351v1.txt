@@ -1,0 +1,1 @@
+Let K be a convex body in \mathbb R^n. We prove that in small codimensions, the sections of a convex body through the centroid are quite symmetric with respect to volume. As a consequence of our estimates we give a positive answer to a problem posed by M. Meyer and S. Reisner regarding convex intersection bodies.

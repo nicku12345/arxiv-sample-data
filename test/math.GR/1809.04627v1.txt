@@ -1,0 +1,1 @@
+A protorus is a compact connected abelian group. We use a result on finite rank torsion-free abelian groups and Pontryagin Duality to considerably generalize a well-known factorization of a finite-dimensional protorus into a product of a torus and a torus-free complementary factor. We also classify by types the solenoids of Hewitt and Ross.

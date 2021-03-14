@@ -1,0 +1,1 @@
+For the Bergman projection operator P we prove that  \|P\|_{{L^1(B,d\lambda)\rightarrow B_1}}= \frac {(2n+1)!}{n!}. Here \lambda stands for the invariant metric in the unit ball B of \mathbf{C}^n, and B_1 denotes the Besov space with an adequate semi--norm. We also consider a generalization of this result. This generalizes some recent results due to Per\"{a}l\"{a}.

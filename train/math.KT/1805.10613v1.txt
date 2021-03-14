@@ -1,0 +1,1 @@
+In this paper, we study the graded ring gr(X) defined by the K-theory of twisted flag variety X. In particular, Kunneth map from gr(R')(\otimes)gr(R') to gr(R) is studed explicitly for an original Rost motive R' and a generalized Rost motive R. Using this, we give an example that T(X)^2 is nonzero for the torsion ideal T(X) in the Chow ring CH(X).

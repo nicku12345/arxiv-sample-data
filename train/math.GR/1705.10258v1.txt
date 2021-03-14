@@ -1,0 +1,1 @@
+We show that Gromov's monster groups arising from i.i.d. labelings of expander graphs do not admit non-elementary actions on geodesic hyperbolic spaces. The proof relies on comparing properties of random walks on randomly labeled graphs and on groups acting non-elementarily on hyperbolic spaces.

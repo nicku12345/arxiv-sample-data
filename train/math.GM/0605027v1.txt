@@ -1,0 +1,1 @@
+As a consequence of the Integral Test we find a triple inequality which bounds up and down both a series with respect to its corresponding improper integral, and reciprocally an improper integral with respect to its corresponding series.

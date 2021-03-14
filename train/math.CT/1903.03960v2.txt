@@ -1,0 +1,1 @@
+We prove two representability theorems, up to homotopy, for presheaves taking values in a closed symmetric combinatorial model category \cat V. The first theorem resembles the Freyd representability theorem, the second theorem is closer to the Brown representability theorem. As an application we discuss a recognition principle for mapping spaces.

@@ -1,0 +1,1 @@
+We investigate connections between radial Fourier multipliers on R^d and certain conical Fourier multipliers on R^{d+1}. As an application we obtain a new weak type endpoint bound for the Bochner-Riesz multipliers associated to the light cone in R^{d+1}, where d\ge 4, and results on characterizations of L^p\to L^{p,\nu} inequalities for convolutions with radial kernels.

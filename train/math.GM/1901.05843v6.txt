@@ -1,0 +1,1 @@
+We provide a simple proof for the extended Bertrand-De Morgan test that was earlier studied in [F. \v{D}uri\v{s}, Infinite Series: Convergence tests. Bachelor thesis, 2009] and [A.A. Tabatabai Adnani, A. Reza and M. Morovati, J. Lin. Topol. Algebra, 2 (3), pp. 141--147 (2013)] and demonstrate an application of that test in the theory of birth-and-death processes and random walks.

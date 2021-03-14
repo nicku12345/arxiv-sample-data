@@ -1,0 +1,1 @@
+Using a mathematical model for self-foldability of rigid origami, we determine which monohedral quadrilateral tilings of the plane are uniquely self-foldable. In particular, the Miura-ori and Chicken Wire patterns are not self-foldable under our definition, but such tilings that are rotationally-symmetric about the midpoints of the tile are uniquely self-foldable.

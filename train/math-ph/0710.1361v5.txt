@@ -1,0 +1,1 @@
+In this paper we consider the semi-linear wave equation: u_{tt}-\Delta u=u_t|u_t|^{p-1} in \mathbb{R}^N. We provide an associated energy. With this energy we give the blow-up rate for blowing up solutions in the case of bounded below energy.

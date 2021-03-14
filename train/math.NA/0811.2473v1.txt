@@ -1,0 +1,1 @@
+In the present paper we introduce a new methodology for the construction of numerical methods for the approximate solution of the one-dimensional Schr\"odinger equation. The new methodology is based on the requirement of vanishing the phase-lag and its derivatives. The efficiency of the new methodology is proved via error analysis and numerical applications.

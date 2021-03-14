@@ -1,0 +1,1 @@
+Bifurcations of dynamical systems, described by a second order differential equations and by an impact condition are studied. It is shown that the variation of parameters when the number of impacts of a periodic solution increases, leads to the occurrence of a hyperbolic chaotic invariant set.

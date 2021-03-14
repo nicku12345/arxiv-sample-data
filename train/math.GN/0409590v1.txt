@@ -1,0 +1,1 @@
+For the functors acting in the category of compact Hausdorff spaces, we introduce the so-called open multi-commutativity property, which generalizes both bicommutativity and openness, and prove that this property is satisfied by the functor of probability measures.

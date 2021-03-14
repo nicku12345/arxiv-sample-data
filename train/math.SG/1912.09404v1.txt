@@ -1,0 +1,1 @@
+In this article, we study polygonal symplectic billiards. We provide new results, some of which are inspired by numerical investigations. In particular, we present several polygons for which all orbits are periodic. We demonstrate their properties and derive various conjectures using two numerical implementations.

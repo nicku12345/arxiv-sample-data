@@ -1,0 +1,1 @@
+Let w=(w_1, w_2) be a pair of positive real numbers with w_1+w_2=1 and w_1\ge w_2. We show that the set of w-weighted singular vectors in \mathbb R^2 has Hausdorff dimension 2- \frac{1}{1+w_1}. This extends the previous work of Yitwah Cheung on the Hausdorff dimension of the usual (unweighted) singular vectors in \mathbb R^2.

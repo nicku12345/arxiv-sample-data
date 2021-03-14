@@ -1,0 +1,1 @@
+We study how the Hausdorff measure is distributed in nonsymmetric narrow cones in \mathbb{R}^n. As an application, we find an upper bound close to n-k for the Hausdorff dimension of sets with large k-porosity. With k-porous sets we mean sets which have holes in k different directions on every small scale.

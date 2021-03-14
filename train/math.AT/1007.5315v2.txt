@@ -1,0 +1,1 @@
+We describe an iterable construction of THH for an E_n ring spectrum. The reduced version is an iterable bar construction and its n-th iterate gives a model for the shifted cotangent complex at the augmentation, representing reduced topological Quillen homology of an augmented E_n algebra.

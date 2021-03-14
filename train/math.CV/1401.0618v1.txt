@@ -1,0 +1,1 @@
+Let i\colon X \to Y be pure-dimensional reduced subvariety of a smooth manifold Y. We prove that the direct image of pseudomeromorphic currents on X are pseudomeromorphic on Y. We also prove a partial converse: if i_*\tau is pseudomeromorphic and has the standard extension property, then \tau is pseudomermorphic on X.

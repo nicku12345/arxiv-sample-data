@@ -1,0 +1,1 @@
+We describe the integral cohomology rings of the flag manifolds of types B_n, D_n, G_2 and F_4 in terms of their Schubert classes. The main tool is the divided difference operators of Bernstein-Gelfand-Gelfand and Demazure. As an application, we compute the Chow rings of the corresponding complex algebraic groups, recovering thereby the results of R. Marlin.

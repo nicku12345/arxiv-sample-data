@@ -1,0 +1,1 @@
+We consider a random walk in a fixed Z environment composed of two point types: (q,1-q) and (p,1-p) for 1/2<q<p. We study the expected hitting time at N for a given number k of p-drifts in the interval [1,N-1], and find that this time is minimized asymptotically by equally spaced p-drifts.

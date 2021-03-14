@@ -1,0 +1,1 @@
+This paper describes how to use subgroups to parameterize unipotent classes in the classical algebraic group in characteristic 2. These results can be viewed as an extension of the Bala-Carter Theorem, and give a convenient way to compare unipotent classes in a group G with unipotent classes of a subgroup X where G is exceptional and X is a Levi subgroup of classical type.

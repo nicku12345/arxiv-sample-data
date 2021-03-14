@@ -1,0 +1,1 @@
+In this note we extend the Gauss-Lucas theorem on the zeros of the derivative of a univariate polynomial to the case of sequences of univariate polynomials whose almost all zeros lie in a given convex bounded domain in C.

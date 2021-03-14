@@ -1,0 +1,1 @@
+Let f: X \to Z be a surjective morphism of smooth complex projective varieties with connected fibers. Suppose that L is a pseudo-effective divisor on X that is f-numerically trivial. We show that there is a divisor D on Z such that L is numerically equivalent to f^*D.

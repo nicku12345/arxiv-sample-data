@@ -1,0 +1,1 @@
+It is shown that the category of presheaves of simplicial groupoids and the category of presheaves of 2-groupoids have Quillen closed model structures. Furthermore, their homotopy categories are equivalent to the homotopy categories of simplicial presheaves and homotopy 2-types, respectively.

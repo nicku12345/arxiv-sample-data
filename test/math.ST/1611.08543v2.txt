@@ -1,0 +1,1 @@
+Properties of mixed fractional Brownian motion has been discussed by Cheridito (2001) and Zili (2006). We have proposed an estimator of volatility parameter for a model driven by MFBM. In our article we have shown that the estimator has some desirable asymptotic properties.

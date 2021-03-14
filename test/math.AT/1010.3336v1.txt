@@ -1,0 +1,1 @@
+We show that the category of numerically generated pointed spaces is complete, cocomplete, and monoidally closed with respect to the smash product, and then utilize these features to establish a simple but flexible method for constructing generalized homology and cohomology theories by using the notion of enriched bifunctors.

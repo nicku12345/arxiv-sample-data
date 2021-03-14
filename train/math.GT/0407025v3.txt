@@ -1,0 +1,1 @@
+Let r_m and r_M be the least and greatest finite boundary slopes of a hyperbolic knot K in S^3. We show that any cyclic surgery slopes of K must lie in the interval (r_m - 1/2, r_M + 1/2).

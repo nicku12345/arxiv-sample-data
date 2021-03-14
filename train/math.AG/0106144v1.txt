@@ -1,0 +1,1 @@
+For a surjective and proper map f: X -> Y there is a spectral sequence, called descent spectral sequence, abutting to the cohomology of Y with coefficients in a sheaf F. We prove that if the fibers of the map f satisfy some connectivity condition then the spectral sequence has a vanishing line.

@@ -1,0 +1,1 @@
+It is shown that every concretizable category can be fully embedded into the category of accessible set functors and natural transformations.

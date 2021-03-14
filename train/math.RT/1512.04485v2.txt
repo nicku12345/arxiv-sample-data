@@ -1,0 +1,1 @@
+We generalize the definition of Yang-Baxter basis of type A Hecke algebra introduced by A.Lascoux, B.Leclerc and J.Y.Thibon (Letters in Math. Phys., 40 (1997), 75--90) to all the Lie types and prove their duality. As an application we give a solution to Casselman's problem on Iwahori fixed vectors of principal series representation of p-adic groups.

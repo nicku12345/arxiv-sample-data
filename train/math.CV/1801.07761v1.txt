@@ -1,0 +1,1 @@
+This paper extends the known characterization of interpolation and sampling sequences for Bergman spaces to the mixed-norm spaces. The Bergman spaces have conformal invariance properties not shared by the mixed-norm spaces. As a result, different techniques of proof were required.

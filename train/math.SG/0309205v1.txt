@@ -1,0 +1,1 @@
+We define an invariant l(M,W,\omega) for Lagrangian submanifold and prove that if the Lagrangian submanifold is embedded in the ball of radius r_0, then l(M,W,\Omega) must be smaller than 4\pi t_0^2. This improves Gromov's Lagrangian embedding theorem.

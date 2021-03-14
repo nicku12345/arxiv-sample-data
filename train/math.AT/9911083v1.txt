@@ -1,0 +1,1 @@
+Let P be an extraspecial p-group which is neither dihedral of order 8, nor of odd order p^3 and exponent p. Let G be a finite group having P as a Sylow p-subgroup. Then the mod-p cohomology ring of G coincides with that of the normalizer N_G(P).

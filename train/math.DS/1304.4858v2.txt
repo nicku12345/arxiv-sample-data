@@ -1,0 +1,1 @@
+For a codimension 1 holomorphic foliation \mathcal F on \mathbb P_{\mathbb C}^{n} satisfying reasonable assumptions, there are estimations of the degree of invariant hypersurfaces H in terms of the degree of \mathcal F (Carnicer, Cerveau-Lins Neto). In this paper we study the extremal case deg H=deg\mathcal F+2 in the spirit of Brunella's results.

@@ -1,0 +1,1 @@
+It is proved that association schemes with bipartite basis graphs are exactly 2-schemes. This result follows from a characterization of p-schemes for an arbitrary prime p in terms of basis digraphs.

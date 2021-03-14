@@ -1,0 +1,1 @@
+It is shown that for given positive integers g and b, there is a number C(g,b), such that any orientable compact irreducible 3-manifold of Heegaard genus g has at most C(g,b) disjoint, nonparallel incompressible surfaces with first Betti number b_1 < b.

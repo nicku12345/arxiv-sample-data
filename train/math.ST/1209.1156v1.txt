@@ -1,0 +1,1 @@
+Quantile regression predicts the \tau-quantile of the conditional distribution of a response variable given the explanatory variable for \tau\in(0,1). The aim of this paper is to establish the asymptotic distribution of the quantile estimator obtained by penalized spline method. A simulation and an exploration of real data are performed to validate our results.

@@ -1,0 +1,1 @@
+We construct an example of a hyperbolic group with a hyperbolic subgroup for which the Cannon-Thurston map does not exist. That is, inclusion does not induce a map of the boundaries.

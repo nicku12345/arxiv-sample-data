@@ -1,0 +1,1 @@
+The notion of "toric face rings" generalizes both Stanley-Reisner rings and affine semigroup rings, and has been studied by Bruns, Romer, et.al. Here, we will show that, for a toric face ring R, the "graded" Matlis dual of a Cech complex gives a dualizing complex. In the most general setting, R is not a graded ring in the usual sense. Hence technical argument is required.

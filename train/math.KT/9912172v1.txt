@@ -1,0 +1,1 @@
+Based on the methods used by the author to prove the Riemann-Roch formula for algebraic stacks, this paper contains a description of the rationnal G-theory of Deligne-Mumford stacks over general bases. We will use these results to study equivariant K-theory, and also to define new filtrations on K-theory of algebraic stacks.

@@ -1,0 +1,1 @@
+We give a general method of deriving statistical limit theorems, such as the central limit theorem and its functional version, in the setting of ergodic measure preserving transformations. This method is applicable in situations where the iterates of discrete time maps display a polynomial decay of correlations.

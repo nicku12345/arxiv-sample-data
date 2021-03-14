@@ -1,0 +1,1 @@
+The Dynkin isomorphism associates a Gaussian field to a Markov chain. These Gaussian fields can be used as priors for prediction and time series analysis. Dynkin's construction gives Gaussian fields with all non-negative covariances. We extend Dynkin's construction (by introducing a sign structure on the Markov chain) to allow general covariance sign patterns.

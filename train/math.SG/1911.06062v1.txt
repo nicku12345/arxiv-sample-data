@@ -1,0 +1,1 @@
+In this paper we study symplectic embedding questions for the \ell_p-sum of two discs in {\mathbb R}^4, when 1 \leq p \leq \infty. In particular, we compute the symplectic inner and outer radii in these cases, and show how different kinds of embedding rigidity and flexibility phenomena appear as a function of the parameter p.

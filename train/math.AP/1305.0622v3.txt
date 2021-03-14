@@ -1,0 +1,1 @@
+We prove the global existence of weak solution for two dimensional Ericksen-Leslie system with the Leslie stress and general Ericksen stress under the physical constrains on the Leslie coefficients. We also prove the local well-posedness of the Ericksen-Leslie system in two and three spatial dimensions.

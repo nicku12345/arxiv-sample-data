@@ -1,0 +1,1 @@
+A classical theorem due to G.D. Birkhoff states that there exists an entire function whose translates approximate any given entire function, as accurately as desired, over any ball of the complex plane. We show this result may be generalized to the space of entire functions of compact bounded type defined on a Banach space with separable dual.

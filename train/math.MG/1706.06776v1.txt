@@ -1,0 +1,1 @@
+Busemann's intersection inequality asserts that the only maximizers of the integral \int_{S^{n-1}} |K\cap\xi^\perp|^n d\xi among all convex bodies of a fixed volume in \mathbb R^n are centered ellipsoids. We study this question in the hyperbolic and spherical spaces, as well as general measure spaces.

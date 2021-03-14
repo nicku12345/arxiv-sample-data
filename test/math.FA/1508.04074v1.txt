@@ -1,0 +1,1 @@
+We study the stability of disjointness preservers on Banach lattices. In many cases, we prove that an "almost disjointness preserving" operator is well approximable by a disjointess preserving one. However, this approximation is not always possible, as our examples show.

@@ -1,0 +1,1 @@
+We study the descent distribution over the set of centrosymmetric permutations that avoid the pattern of length 3. Our main tool in the most puzzling case, namely, \tau=123 and n even, is a bijection that associates a Dyck prefix of length 2n to every centrosymmetric permutation in S_{2n} that avoids 123.

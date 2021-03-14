@@ -1,0 +1,1 @@
+It is well-known that special 2-groups can be described in terms of quadratic maps over fields of characteristic 2. In this article we develop methods to compute conjugacy classes, complex representations and characters of a real special 2-group using quadratic maps alone.

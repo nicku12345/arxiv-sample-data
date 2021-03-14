@@ -1,0 +1,1 @@
+The main goal of this work is to answer a question of P. D`ebes and D. Haran by relaxing the condition for Hilbertianity. Namely we prove that for a field K to be Hilbertian it suffices that K has the irreducible specialization property merely for absolutely irreducible polynomials.

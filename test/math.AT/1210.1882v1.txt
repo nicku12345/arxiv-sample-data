@@ -1,0 +1,1 @@
+Lipshitz and Sarkar recently introduced a space-level refinement of Khovanov homology. This refinement induces a Steenrod square operation \Sq^2 on Khovanov homology which they describe explicitly. This paper presents some computations of \Sq^2. In particular, we give examples of links with identical integral Khovanov homology but with distinct Khovanov homotopy types.

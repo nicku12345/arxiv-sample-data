@@ -1,0 +1,1 @@
+We prove that for any two centrally-symmetric convex shapes K,L \subset \mathbb{R}^2, the function t \mapsto |e^t K \cap L| is log-concave. This extends a result of Cordero-Erausquin, Fradelizi and Maurey in the two dimensional case. Possible relaxations of the condition of symmetry are discussed.

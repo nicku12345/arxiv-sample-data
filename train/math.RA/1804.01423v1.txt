@@ -1,0 +1,1 @@
+We study finite group actions on Leibniz algebras, define equivariant cohomology groups associated to such actions. We show that there exists a cup-product operation on this graded cohomology groups which makes it a graded zinbiel algebra.

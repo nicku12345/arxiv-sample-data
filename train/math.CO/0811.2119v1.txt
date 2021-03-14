@@ -1,0 +1,1 @@
+We review the recent progress in the investigation of powerfree words, with particular emphasis on binary cubefree and ternary squarefree words. Besides various bounds on the entropy, we provide bounds on letter frequencies and consider their empirical distribution obtained by an enumeration of binary cubefree words up to length 80.

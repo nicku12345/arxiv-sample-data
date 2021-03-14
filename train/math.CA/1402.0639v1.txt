@@ -1,0 +1,1 @@
+In this note our aim is to deduce some new monotonicity properties for a special combination of Bessel functions of the first kind by using a recently developed Mittag-Leffler expansion for the derivative of a normalized Bessel function of the first kind. These monotonicity properties are used to obtain some new inequalities for Bessel functions of the first kind.

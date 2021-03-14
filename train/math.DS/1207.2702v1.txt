@@ -1,0 +1,1 @@
+We consider skew-products of quadratic maps over certain Misiurewicz-Thurston maps and study their statistical properties. We prove that, when the coupling function is a polynomial of odd degree, such a system admits two positive Lyapunov exponents almost everywhere and a unique absolutely continuous invariant probability measure.

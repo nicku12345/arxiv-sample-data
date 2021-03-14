@@ -1,0 +1,1 @@
+We construct an indecomposable continuum with exactly one strong non-cut point. The method is an adaptation of Bellamy [1]. We start with an \omega_1-chain of indecomposable metric continua and retractions. The inverse limit is an indecomposable continuum with exactly two composants. Our example is formed by identifying a point in each composant.

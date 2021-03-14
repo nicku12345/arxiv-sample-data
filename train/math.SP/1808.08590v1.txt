@@ -1,0 +1,1 @@
+The spectral radius of a uniform hypergraph G is the the maximum modulus of the eigenvalues of the adjacency tensor of G. For k\ge 2, among connected k-uniform hypergraphs with m\ge 1 edges, we show that the k-uniform loose path with m edges is the unique one with minimum spectral radius, and we also determine the unique ones with second minimum spectral radius when m\ge 2.

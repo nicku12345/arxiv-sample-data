@@ -1,0 +1,1 @@
+We prove that any Galois extension of commutative rings with normal basis and abelian Galois group of odd order has a self dual normal basis. Also we show that if S/R is an unramified extension of number rings with Galois group of odd order and R is totally real then the normal basis does not exist for S/R.

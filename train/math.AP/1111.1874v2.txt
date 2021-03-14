@@ -1,0 +1,1 @@
+In this paper we prove the existence of smooth solutions to fully nonlinear and nonlocal parabolic equations with critical index. The proof relies on the apriori H\"older estimate for advection fractional-diffusion equation established by Silvestre \cite{Si2}.

@@ -1,0 +1,1 @@
+For any positive integer n, a new family of periodic functions in power series form and of period n is used to solve in closed form a class of polynomial equation of order n. The n roots are the values of the appropriate function from that family taken at 0,1,...,n-1.

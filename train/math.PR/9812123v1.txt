@@ -1,0 +1,1 @@
+Let f(j,k,n) denote the expected number of j-faces of a random k-section of the n-cube. A formula for f(0,k,n) is presented, and for j\geq 1, a lower bound for f(j,k,n) is derived, which implies a precise asymptotic formula for f(n-m,n-l,n) when 1\leq l<m are fixed integers and n\to\8.

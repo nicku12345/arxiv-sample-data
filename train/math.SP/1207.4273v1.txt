@@ -1,0 +1,1 @@
+Let -Delta+V be the Schrodinger operator acting on L^2(R^d,C) with d>2 odd. Here V is a bounded real or complex function vanishing outside the closed ball of center 0 and of radius a. We show for generic potentials V that the number of resonances of -Delta+V with modulus less than r is approximatively equal to a constant times a^dr^d.

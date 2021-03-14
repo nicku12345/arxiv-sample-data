@@ -1,0 +1,1 @@
+In this paper, we first construct k-dimensional compact complex manifolds from automorphisms of \mathbb{C}^k which admit a fixed attracting point at infinity. Then, we charactize the fundamental group as well as the universal covering of the attracting basin of this fixed point thanks to a generalization of the method described by T. Bousch in his thesis.

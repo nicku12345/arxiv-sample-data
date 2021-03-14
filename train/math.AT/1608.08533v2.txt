@@ -1,0 +1,1 @@
+We give a combinatorial construction of an ordered semiring A, and show that it can be identified with a certain subquotient of the semiring of p-local Bousfield classes, containing almost all of the classes that have previously been named and studied. This is a convenient way to encapsulate most of the known results about Bousfield classes.

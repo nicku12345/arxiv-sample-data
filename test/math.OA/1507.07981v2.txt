@@ -1,0 +1,1 @@
+Rigid actions have zero Rokhlin entropy and nonpositive sofic entropy. Because rigidity is a stable orbit-equivalence invariant, this provides the first example of an essentially free, ergodic, probability-measure-preserving action of the free group that has nonpositive sofic entropy and any essentially free action stably-orbit-equivalent to it also has nonpositive sofic entropy.

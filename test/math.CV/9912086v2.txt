@@ -1,0 +1,1 @@
+Let f:C -> A be an entire holomorphic curve into a semi-Abelian variety A. Then the Zariski closure of f(C) is a translate of a semi-Abelian subvariety of A (logarithmic Bloch-Ochiai's theorem). The purpose of the present paper is to establish a quantitative version of the above result for such f i.e., the second main theorem and the defect relation.

@@ -1,0 +1,1 @@
+In this paper we investigate the spectral norm for circulant matrices, whose entries are modified Fibonacci numbers and Lucas numbers. We obtain the identity estimations for the spectral norms. Some numerical test results are listed to verify the results using those approaches.

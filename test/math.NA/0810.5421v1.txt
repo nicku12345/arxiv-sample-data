@@ -1,0 +1,1 @@
+In this paper problem of construction of optimal quadrature formulas in W_2^{(m,m-1)}(0,1) space is considered. Here by using Sobolev's algorithm when m=1,2 we find the optimal coefficients of the quadrature formulas of the form  \int\limits_0^1\phi(x)dx\cong \sum\limits_{\beta=0}^NC_{\beta}\phi(x_{\beta}). 

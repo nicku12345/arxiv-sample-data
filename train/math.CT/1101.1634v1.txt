@@ -1,0 +1,1 @@
+We endow categories of non-symmetric operads with natural model structures. We work with no restriction on our operads and only assume the usual hypotheses for model categories with a symmetric monoidal structure. We also study categories of algebras over these operads in enriched non-symmetric monoidal model categories.

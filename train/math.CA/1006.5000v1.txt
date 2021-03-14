@@ -1,0 +1,1 @@
+We study harmonic functions which admit a certain majorant in the unit ball in \R^m . We prove that when the majorant fulfills a doubling condition, the extremal growth or decay may occur only along small sets of radii, and we give precise estimates of these exceptional sets.

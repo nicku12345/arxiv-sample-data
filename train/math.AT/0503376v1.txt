@@ -1,0 +1,1 @@
+We show that for n>=3 the symplectic group Sp(n) is as a 2-compact group determined up to isomorphism by the isomorphism type of its maximal torus normalizer. This allows us to determine the integral homotopy type of Sp(n) among connected finite loop spaces with maximal torus.

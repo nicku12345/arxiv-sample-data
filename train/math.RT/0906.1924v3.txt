@@ -1,0 +1,1 @@
+We explicitly calculate a projective bimodule resolution for a special biserial algebra giving rise to the Hecke algebra H_q(S_4) when q=-1. We then determine the dimensions of the Hochschild cohomology groups.

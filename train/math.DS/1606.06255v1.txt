@@ -1,0 +1,1 @@
+In this paper we give a direct proof that for a restricted affine control system on a connected manilfold M, the associated reachable sets up to time t varies continuously with the Haudorff metric.

@@ -1,0 +1,1 @@
+We show that if (\Omega,\mu) is an infinite measure space, the pointwise Dunford-Shwartz ergodic theorem holds for f \in \mathcal L^1(\Omega)+\mathcal L^\infty(\Omega) if and only if \mu\{f>\lambda\}<\infty for all \lambda > 0.

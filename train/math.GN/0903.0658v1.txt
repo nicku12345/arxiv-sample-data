@@ -1,0 +1,1 @@
+We show that there are no automorphic Banach spaces of the form C(K) with K continuous image of Valdivia compact except the spaces c0(I). Nevertheless, when K is an Eberlein compact of finite height such that C(K) is not isomorphic to c0(I), all isomorphism between subspaces of C(K) of size less than aleph_omega extend to automorphisms of C(K).

@@ -1,0 +1,1 @@
+We show that Lusztig's a-function of a Coxeter group is bounded if the Coxeter group has a complete graph (i.e. any two vertices are joined) and the cardinalities of finite parabolic subgroups of the Coxeter group have a common upper bound.

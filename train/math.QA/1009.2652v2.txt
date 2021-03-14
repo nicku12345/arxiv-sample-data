@@ -1,0 +1,1 @@
+We introduce the notions of a half-balanced braided monoidal category and of its contraction. These notions give rise to an explicit description of the action of the Galois group of QQ on Teichmueller groupoids in genus 0, equivalent to that of L. Schneps. We also show that a prounipotent version of this action is equivalent to a graded action.

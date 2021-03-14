@@ -1,0 +1,1 @@
+Our aim is to present several properties of a Landweber operator and of a Landweber-type operator. These operators are widely used in methods for solving the split feasibility problem and the split common fixed point problem. The presented properties can be used in proofs of convergence of related algorithms.

@@ -1,0 +1,1 @@
+The functional calculus for normal elements in C^*-algebras is an important tool of analysis. We consider polynomials p(a,a^*) for elements a with small self-commutator norm \|[a,a^*]\| \le \delta and show that many properties of the functional calculus are retained modulo an error of order \delta.

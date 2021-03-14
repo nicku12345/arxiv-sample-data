@@ -1,0 +1,1 @@
+We show that every unitary representation of a solvable discrete virtually nilpotent group G is quasidiagonal. Roughly speaking, this says that every unitary representation of G approximately decomposes as a direct sum of finite dimensional approximate representations. In operator algebraic terms we show that C*(G) is strongly quasidiagonal.

@@ -1,0 +1,1 @@
+With a complete Heyting algebra L as the truth value table, we prove that the collections of open filters of stratified L-valued topological spaces form a monad. By means of L-Scott topology and the specialization L-order, we get that the algebras of open filter monad are precisely L-continuous lattices.

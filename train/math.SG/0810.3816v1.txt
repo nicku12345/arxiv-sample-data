@@ -1,0 +1,1 @@
+We prove that any coadjoint orbit with real eigenvalues of a complex semisimple Lie group, equipped with the real part of the canonical holomorphic symplectic form, is symplectomorphic to the cotangent bundle of a (partial) flag manifold. Moreover, we generalize this result to hyperbolic orbits in a real semisimple Lie algebra.

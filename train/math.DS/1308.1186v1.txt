@@ -1,0 +1,1 @@
+Generalized non-autonomous linear celullar automata are systems of linear difference equations with many variables that can be seen as convolution equations in a discrete group. We study those systems from the stand point of the Galois theory of difference equations and discrete Fourier transform.

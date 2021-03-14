@@ -1,0 +1,1 @@
+By using a new bilinear estimate, a pointwise estimate of the generalized Oseen kernel and an idea of fractional bootstrap, we show in this note that solutions to the Navier-Stokes equations with fractional dissipation are analytic in space variables.

@@ -1,0 +1,1 @@
+Several inequalities for eigenvalues involving convex combinations and compressions are given. These inequalities are matrix version of the basic convexity inequality f((a+b)/2) < (f(a)+f(b))/2.

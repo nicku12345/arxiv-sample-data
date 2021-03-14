@@ -1,0 +1,1 @@
+We obtain minimal dimension matrix representations for each of the Lie algebras of dimension five, six, seven, and eight obtained by Turkowski that have a non-trivial Levi decomposition. The Key technique involves using subspace associated to a particular representation of semi-simple Lie algebra to help in the construction of the radical in the putative Levi decomposition.

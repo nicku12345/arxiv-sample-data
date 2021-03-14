@@ -1,0 +1,1 @@
+Normal ideals on regular uncountable cardinals are familiar objects. We investigate ideals that are pleasant--while a normal ideal is closed under arbitrary diagonal unions, a pleasant ideal is closed only under diagonal unions indexed by sets that are elements of the ideal. We show any selective ideal extending the nonstationary ideal must be normal.

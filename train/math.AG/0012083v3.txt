@@ -1,0 +1,1 @@
+We construct an equivalence between the derived category of sheaves on an elliptic threefold without a section and a derived category of twisted sheaves (modules over an Azumaya algebra) on any small resolution of its relative Jacobian.

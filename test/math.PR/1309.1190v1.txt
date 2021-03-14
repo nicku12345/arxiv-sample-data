@@ -1,0 +1,1 @@
+In this note, we prove the large deviation principle for the 2D-fractional stochastic Navier-Stokes equation on the torus under the dissipation order  \alpha \in [\frac43, 2].

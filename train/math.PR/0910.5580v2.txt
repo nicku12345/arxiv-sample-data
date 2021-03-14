@@ -1,0 +1,1 @@
+Backward stochastic Volterra integral equations (BSVIEs in short) are studied. We introduce the notion of adapted symmetrical solutions (S-solutions in short), which are different from the M-solutions introduced by Yong [17]. We also give some new results for them. At last a class of dynamic coherent risk measures were derived via certain BSVIEs.

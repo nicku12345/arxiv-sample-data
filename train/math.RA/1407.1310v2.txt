@@ -1,0 +1,1 @@
+Let K be an infinite field of characteristic \neq 2. In this article we study the *-space C(R,*) of central polynomials with involution of the K-algebra R= M_{1,1}(E), with an involution (*) obtanied from a superinvolution on M_{1,1}(F) (i.e. M_2(F) with its canonical \mathbb{Z}_2-grading).

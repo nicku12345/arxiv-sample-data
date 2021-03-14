@@ -1,0 +1,1 @@
+The Jeffrey-Kirwan residue is a powerful tool for computation of intersection numbers or volume of symplectic quotients. In this article, we give an algorithm to compute it using Gr\"obner bases. Our result is parallel to that of Cattani-Dickenstein for Grothendieck residues.

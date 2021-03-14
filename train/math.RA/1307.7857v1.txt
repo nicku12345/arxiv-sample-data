@@ -1,0 +1,1 @@
+The aim of this work is to offer a family of invariants that allows us to classify finite potent endomorphisms on arbitrary vector spaces, generalizing the classification of endomorphisms on finite-dimensional vector spaces. As a particular case we classify nilpotent endomorphisms on infinite-dimensional vector spaces.

@@ -1,0 +1,1 @@
+We obtain order estimates in the spaces L_p of the best n-term trigonometric orthogonal approximations of the classes {\cal F}_{q}^{\psi} of periodic functions, whose Fourier coefficients decrease faster then any power function. We also obtain order estimates of the quantities of approximations by n-term Greedy approximants of such classes in the spaces L_p.

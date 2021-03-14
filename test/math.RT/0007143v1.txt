@@ -1,0 +1,1 @@
+Let H be a closed, noncompact subgroup of a simple Lie group G, such that G/H admits an invariant Lorentz metric. We show that if G = SO(2,n), with n > 2, then the identity component of H is conjugate to the identity component of SO(1,n). Also, if G = SO(1,n), with n > 2, then the identity component of H is conjugate to the identity component of SO(1,n-1).

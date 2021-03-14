@@ -1,0 +1,1 @@
+Let A be a Noetherian ring and B be a finitely generated A-algebra. Denote by A' the integral closure of A in B. We give necessary and sufficient conditions for prime ideals to be in Ass_{A}(B/A') and Ass_{A'}(B/A') generalizing and strengthening classical results for rings of special type.

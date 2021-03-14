@@ -1,0 +1,1 @@
+We show that, on a complete and possibly non-compact Riemannian manifold of dimension at least 2 without close conjugate points at infinity, the existence of a closed geodesic with local homology in maximal degree and maximal index growth under iteration forces the existence of infinitely many closed geodesics. For closed manifolds, this was a theorem due to Hingston.

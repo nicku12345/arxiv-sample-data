@@ -1,0 +1,1 @@
+An "automatic continuity" question has naturally occurred since Roger Howe established the local theta correspondence over \mathbb R: does the algebraic version of local theta correspondence over \mathbb R agrees with the smooth version? We show that the answer is yes, at least when the concerning dual pair has no quaternionic type I irreducible factor.

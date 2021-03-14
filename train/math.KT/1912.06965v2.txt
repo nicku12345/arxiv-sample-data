@@ -1,0 +1,1 @@
+We give a detailed and unified survey of equivariant KK-theory over locally compact, second countable, locally Hausdorff groupoids. We indicate precisely how the "classical" proofs relating to the Kasparov product can be used almost word-for-word in this setting, and give proofs for several results which do not currently appear in the literature.

@@ -1,0 +1,1 @@
+We correct some oversights in the paper "A spectral sequence for stratified spaces and configuration spaces of points" by the second named author. In particular we explain that an additional hypothesis should be added to Theorem 4.15 in said paper.

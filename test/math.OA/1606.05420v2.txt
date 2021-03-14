@@ -1,0 +1,1 @@
+Given -1 < q < 1 and a separable real Hilbert space with dimension no less than 2, we prove that the generator subalgebra in the q-Gaussian algebra is singular.

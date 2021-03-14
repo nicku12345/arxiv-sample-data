@@ -1,0 +1,1 @@
+We calculate heat invariants of arbitrary Riemannian manifolds without boundary. Every heat invariant is expressed in terms of powers of the Laplacian and the distance function. Our approach is based on a multi-dimensional generalization of the Agmon-Kannai method. An application to computation of the Korteweg-de Vries hierarchy is also presented.

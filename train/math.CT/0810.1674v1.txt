@@ -1,0 +1,1 @@
+Using Beilinson's theory of f-categories, we prove that the triangulated category of Tate motives over a field k is equivalent to the bounded derived category of its heart, provided that k is algebraic over the rationals. This answers a question asked by Levine.

@@ -1,0 +1,1 @@
+A foliation of a manifold M is called R-covered if its lift to the universal cover of M has space of leaves R. We show that there are many graph manifolds which admit taut foliations, but which do not admit any R-covered foliations. On the other hand, we show that these manifolds all have finite covers admitting R-covered foliations.

@@ -1,0 +1,1 @@
+A positive integer n is called practical if all integers between 1 and n can be written as a sum of distinct divisors of n. We give an asymptotic estimate for the number of integers \le x which have a practical divisor \ge y.

@@ -1,0 +1,1 @@
+We describe a variant construction of the unstable Adams spectral the sequence for a space Y, associated to any free simplicial resolution of H^*(Y;R) for R=\mathbb{F}_p or \mathbb{Q}. We use this construction to describe the differentials and filtration in the spectral sequence in terms of appropriate systems of higher cohomology operations.

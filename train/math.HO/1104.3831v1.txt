@@ -1,0 +1,1 @@
+Let n be a positive integer. Then cyclic group Z_n of order n is the only group of order n iff g.c.d. (n,\phi(n))=1, where \phi denotes the Euler-phi function. In this article we have given another proof of this result using the knowledge of semi direct product and induction.

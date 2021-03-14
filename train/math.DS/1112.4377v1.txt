@@ -1,0 +1,1 @@
+Let S_1 and S_2 be ergodic extensions of finite measure preserving transformations T_1 and T_2, where the extensions are by rotations of a compact group G. Then there is an N-valued function k, measurable with respect to the factor T_1, so that S_1^{k} is isomorphic to S_2 by an isomorphism that respects the action of G on fibers.

@@ -1,0 +1,1 @@
+Given a finite group G, we denote by \Delta(G) the graph whose vertices are the proper subgroups of G and in which two vertices H and K are joined by an edge if and only if G=\langle H,K\rangle. We prove that if there exists a finite nilpotent group X with \Delta(G)\cong \Delta(X), then G is supersoluble.

@@ -1,0 +1,1 @@
+We introduce the notion of the partial group algebra with projections and relations and show that this C*-algebra is a partial crossed product. Examples of partial group algebras with projections and relations are the Cuntz-Krieger algebras and the unitization of C*-algebras of directed graphs.

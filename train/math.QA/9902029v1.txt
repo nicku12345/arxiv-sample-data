@@ -1,0 +1,1 @@
+We determine the quantum automorphism groups of finite graphs. These are quantum subgroups of the quantum permutation groups defined by Wang. The quantum automorphism group is a stronger invariant for finite graphs than the usual one. We get a quantum dihedral group D4.

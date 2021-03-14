@@ -1,0 +1,1 @@
+In this paper we show, using Deligne-Lusztig theory and Kawanaka's theory of generalised Gelfand-Graev representations, that the decomposition matrix of the special linear and unitary group in non defining characteristic can be made unitriangular with respect to a basic set that is stable under the action of automorphisms.

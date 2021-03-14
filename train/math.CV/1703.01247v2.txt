@@ -1,0 +1,1 @@
+Let X be a (reduced) pure-dimensional analytic space. We prove that direct images of principal value and residue currents on X are smooth outside sets that are small in a certain sense. We also prove that the sheaf of such currents, provided that X is smooth, is a stalkwise injective \Ok_X-module.

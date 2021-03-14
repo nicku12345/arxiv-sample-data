@@ -1,0 +1,1 @@
+We show that the Diophantine problem(decidability of equations) is undecidable in free associative algebras over any field and in the group algebras over any field of a wide variety of torsion free groups, including toral relatively hyperbolic groups, right angled Artin groups, commutative transitive groups, the fundamental groups of various graph groups, etc.

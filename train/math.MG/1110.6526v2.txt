@@ -1,0 +1,1 @@
+We prove, for any n, that there is a closed connected orientable surface S so that the hyperbolic space H^n almost-isometrically embeds into the Teichm\"uller space of S, with quasi-convex image lying in the thick part. As a consequence, H^n quasi-isometrically embeds in the curve complex of S.

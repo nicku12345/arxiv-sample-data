@@ -1,0 +1,1 @@
+Elementary proofs are given for sums of Schur functions over partitions into at most n parts each less than or equal to m for which i) all parts are even, ii) all parts of the conjugate partition are even. Also, an elementary proof of a recent result of Ishikawa and Wakayama is given.

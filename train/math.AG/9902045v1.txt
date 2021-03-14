@@ -1,0 +1,1 @@
+In this paper we study the map associating to a linear differential operator with rational coefficients its monodromy data. The operator has one regular and one irregular singularity of Poincare' rank 1. We compute the Poisson structure of the corresponding Monodromy Preserving Deformation Equations on the space of the monodromy data.

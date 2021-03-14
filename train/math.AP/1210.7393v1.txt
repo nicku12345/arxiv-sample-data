@@ -1,0 +1,1 @@
+The backward uniqueness of the Kolmogorov operator L=\sum_{i,k=1}^n\partial_{x_i}(a_{i,k}(x,t)\partial_{x_k})+\sum_{l=1}^m x_l\partial_{y_l}-\partial_t, was proved in this paper. We obtained a weak Carleman inequality via Littlewood-Paley decomposition for the global backward uniqueness.

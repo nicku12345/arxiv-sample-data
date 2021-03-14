@@ -1,0 +1,1 @@
+We classify all finite p-groups G for which |Aut_{c}(G)| attains its maximum value, where Aut_{c}(G) denotes the group of all class preserving automorphisms of G .

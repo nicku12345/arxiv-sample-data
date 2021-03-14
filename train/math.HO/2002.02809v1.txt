@@ -1,0 +1,1 @@
+We review fundamentals underlying binary search trees and digital search trees, with (atypical) emphasis on recursive formulas for associated probability generating functions. Other topics include higher moments of BST search costs and combinatorics for a certain finite-key analog of DSTs.

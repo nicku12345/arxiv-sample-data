@@ -1,0 +1,1 @@
+We attach buildings to modular lattices and use them to develop a metric approach to Harder-Narasimhan filtrations. Switching back to a categorical framework, we establish an abstract numerical criterion for the compatibility of these filtrations with tensor products. We finally verify our criterion in three cases, one of which is new.

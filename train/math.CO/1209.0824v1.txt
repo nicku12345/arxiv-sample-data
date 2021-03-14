@@ -1,0 +1,1 @@
+We give a proof of a conjecture of A. Lacasse in his doctoral thesis which has applications in machine learning algorithms. The proof relies on some interesting binomial sums identities introduced by Abel (1839), and on their generalization to the multinomial case by Hurwitz (1902).

@@ -1,0 +1,1 @@
+The obstructions for an arbitrary fusion algebra to be a fusion algebra of some semisimple monoidal category are constructed. Those obstructions lie in groups which are closely related to the Hochschild cohomology of fusion algebras with coefficients in the K-theory of the ground (algebraically closed) field.

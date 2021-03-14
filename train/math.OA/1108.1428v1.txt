@@ -1,0 +1,1 @@
+We construct analogs of the embedding of orthogonal and symplectic groups into unitary groups in the context of fusion categories. At least some of the resulting module categories also appear in boundary conformal field theory. We determine when these categories are unitarizable, and explicitly calculate the index and principal graph of the resulting subfactors.

@@ -1,0 +1,1 @@
+We adapt the algorithm of Kolesnikov and Pozhidaev, which converts a polynomial identity for algebras into the corresponding identities for dialgebras, to the Cayley-Dickson doubling process. We obtain a generalization of this process to the setting of dialgebras, establish some of its basic properties, and construct dialgebra analogues of the quaternions and octonions.

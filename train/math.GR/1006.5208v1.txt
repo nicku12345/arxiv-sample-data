@@ -1,0 +1,1 @@
+For a set \Gamma, a function \lambda:\Gamma\to \Gamma and a non-trivial abelian group K, the generalized shift \sigma_\lambda:K^\Gamma\to K^\Gamma is defined by (x_i)_{i\in \Gamma}\mapsto (x_{\lambda(i)})_{i\in\Gamma}. In this paper we compute the algebraic entropy of \sigma_\lambda; it is either zero or infinite, depending exclusively on the properties of \lambda.

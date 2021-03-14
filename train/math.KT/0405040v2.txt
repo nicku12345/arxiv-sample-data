@@ -1,0 +1,1 @@
+We construct families of hyperelliptic curves over Q of arbitrary genus g with (at least) g integral elements in K_2. We also verify the Beilinson conjectures about K_2 numerically for several curves with g=2, 3, 4 and 5.   The paper is essentially self-contained and may serve as an elementary introduction to Beilinson's conjectures for K_2 of curves.

@@ -1,0 +1,1 @@
+We obtain sufficient conditions for arrays of points, \mathcal{Z}=\{\mathcal{Z}(L) \}_{L\ge 1}, on the unit sphere \mathcal{Z}(L)\subset \mathbb{S}^d, to be Marcinkiewicz-Zygmund and interpolating arrays for spaces of spherical harmonics. The conditions are in terms of the mesh norm and the separation radius of \mathcal{Z}(L).

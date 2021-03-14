@@ -1,0 +1,1 @@
+We view the neat reduct operator as a functor that lessens dimensions from CA_{\alpha+\omega} to CA_{\alpha} for infinite ordinals \alpha. We show that this functor has no right adjoint. Conversely for polyadic algebras, and several reducts thereof, like Sain's algebras, we show that the analagous functor is an equivalence.

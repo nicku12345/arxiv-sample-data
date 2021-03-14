@@ -1,0 +1,1 @@
+We show that the q-Digamma function psi_q for 0<q<1 appears in an iteration studied by Berg and Dur\'an. In addition we determine the probability measure \nu_q with moments 1/\sum_{k=1}^{n+1} (1-q)/(1-q^k), which are q-analogues of the reciprocals of the harmonic numbers.

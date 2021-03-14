@@ -1,0 +1,1 @@
+We describe the Fukaya-Seidel category of a Landau-Ginzburg model LG(2) for the semisimple adjoint orbit of sl(2,C). We prove that this category is equivalent to a full triangulated subcategory of the category of coherent sheaves on the second Hirzebruch surface. We show that no projective variety can be mirror to LG(2), and that this remains so after compactification.

@@ -1,0 +1,1 @@
+We investigate which aspects of recent developments on Galois corings and comodules admit a formulation in terms of comonads. This approach hopefully will permit of focusing in what is specific in each particular future situation, having some relevant general results for granted. The general theory is applied to the study of comodules over corings over firm rings.

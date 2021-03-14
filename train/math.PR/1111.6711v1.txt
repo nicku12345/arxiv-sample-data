@@ -1,0 +1,1 @@
+We consider stochastic differential equation involving pathwise integral with respect to fractional Brownian motion. The estimates for the Hurst parameter are constructed according to first- and second-order quadratic variations of observed values of the solution. The rate of convergence of these estimates to the true value of a parameter is established.

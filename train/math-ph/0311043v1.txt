@@ -1,0 +1,1 @@
+We consider a system of N weakly interacting fermions with a real analytic pair interaction. We prove that for a general class of initial data there exists a fixed time T such that the difference between the one particle density matrix of this system and the solution of the non-linear Hartree equation is of order 1/N for any time t less or equal T.

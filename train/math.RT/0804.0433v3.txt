@@ -1,0 +1,1 @@
+We study the representation theory of graded Hecke algebras, starting from scratch and focusing on representations that are obtained with induction from a discrete series representation of a parabolic subalgebra. We determine all intertwining operators between such parabolically induced representations, and use them to parametrize the irreducible representations.

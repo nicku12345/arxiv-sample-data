@@ -1,0 +1,1 @@
+For an orbifold, there is a notion of an orbifold embedding, which is more general than the one of sub-orbifolds. We develop several properties of orbifold embeddings. In the case of translation groupoids, we show that such a notion is equivalent to a strong equivariant immersion.

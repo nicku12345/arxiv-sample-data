@@ -1,0 +1,1 @@
+We prove local and global existence from large, rough initial data for a wave map between 1+1 dimensional Minkowski space and an analytic manifold. Included here is global existence for large data in the scale-invariant norm \dot L^{1,1}, and in the Sobolev spaces H^s for s > 3/4. This builds on previous work in 1+1 dimensions of Pohlmeyer, Gu, Ginibre-Velo and Shatah.

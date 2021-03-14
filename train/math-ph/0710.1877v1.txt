@@ -1,0 +1,1 @@
+We give a CLR type bound on the number of bound states of Schroedinger operators with matrix-valued potentials using the functional integral method of Lieb. This significantly improves the constant in this inequality obtained earlier by Hundertmark.

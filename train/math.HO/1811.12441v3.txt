@@ -1,0 +1,1 @@
+In this short paper we present an elementary proof of the infinitude of primes. Our proof is similar in spirit to Euler's proof that the reciprocals of primes diverges and only uses tools from elementary number theory and calculus. In addition, our proof highlights an interesting use of generating functions.

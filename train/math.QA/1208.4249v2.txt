@@ -1,0 +1,1 @@
+In deformation quantization one can associate five characteristic functions to (stable) formality morphisms on cochains and chains and to "two-brane" formality morphisms. We show that these characteristic functions agree.

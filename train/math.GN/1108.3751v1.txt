@@ -1,0 +1,1 @@
+In this paper, we provide a partial answer to a problem posed by A. V.Arhangel'skii; we show that if X is a compactum cleavable over a separable linearly ordered topological space (LOTS) Y such that for some continuous function f from X to Y, the set of points on which f is not injective is scattered, then X is a LOTS.

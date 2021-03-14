@@ -1,0 +1,1 @@
+Stein unbiased risk estimation is generalized twice, from the Gaussian shift model to nonparametric families of smooth densities, and from the quadratic risk to more general divergence type distances. The development relies on a connection with local proper scoring rules.

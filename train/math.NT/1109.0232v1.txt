@@ -1,0 +1,1 @@
+The Hasse principle and weak approximation is established for equations of the shape P(t)=N(x_1,x_2,x_3,x_4), where P is an irreducible quadratic polynomial in one variable and N is a norm form associated to a quartic extension of the rationals containing the roots of P. The proof uses analytic methods.

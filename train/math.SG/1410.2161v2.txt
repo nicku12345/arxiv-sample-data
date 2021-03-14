@@ -1,0 +1,1 @@
+In this paper we extend the idea of bordered Floer homology to knots and links in S^3: Using a specific Heegaard diagram, we construct gluable combinatorial invariants of tangles in S^3, D^3 and I\times S^2. The special case of S^3 gives back a stabilized version of knot Floer homology.

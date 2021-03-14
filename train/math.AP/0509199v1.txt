@@ -1,0 +1,1 @@
+We study uniqueness properties of solutions of Schr\"odinger equations. The aim is to obtain sufficient conditions on the decay behavior of the difference of two solution u_1-u_2 of the equation at two different times   t_0=0 and t_1=1 which guarantee the uniqueness of the solution, i.e. that u_1\equiv u_2.

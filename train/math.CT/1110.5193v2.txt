@@ -1,0 +1,1 @@
+By using the Dold-Kan correspondence we construct a Quillen adjunction between the model categories of non-cocommutative coassociative simplicial and differential graded coalgebras over a field. We restrict to categories of connected coalgebras and prove a Quillen equivalence between them.

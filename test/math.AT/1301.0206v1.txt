@@ -1,0 +1,1 @@
+We study the topology of moduli spaces of closed linkages in \R^d depending on a length vector \ell\in \R^n. In particular, we use equivariant Morse theory to obtain information on the homology groups of these spaces, which works best for odd d. In the case d=5 we calculate the Poincare polynomial in terms of combinatorial information encoded in the length vector.

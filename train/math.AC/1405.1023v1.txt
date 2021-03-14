@@ -1,0 +1,1 @@
+In this article, we establish a relation between the values of a frieze of type D-tile and some values of an SL2-tiling t associated with a particular quiver of type A-tilde . This relation allows us to compute, independently of each other, all the cluster variables in the cluster algebra associated with a quiver Q of type D-tilde.

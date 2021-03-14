@@ -1,0 +1,1 @@
+We consider the marginal models of Liang and Zeger [Biometrika 73 (1986) 13-22] for the analysis of longitudinal data and we develop a theory of statistical inference for such models. We prove the existence, weak consistency and asymptotic normality of a sequence of estimators defined as roots of pseudo-likelihood equations.

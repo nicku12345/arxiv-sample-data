@@ -1,0 +1,1 @@
+In this paper, a random primality proving algorithm is proposed, which generates prime certificate of length O(log n). The certificate can be verified in deterministic time O(log^4 n). The algorithm runs in heuristical time tilde{O}(log^4 n), some supporting evidences are provided.

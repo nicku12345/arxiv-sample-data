@@ -1,0 +1,1 @@
+The notion of prop models the operations with multiple inputs and multiple outpus, acting on some algebraic structures like the bialgebras or the Lie bialgebras. In this paper, we generalize the Koszul duality theory of associative algebras and operads to props.

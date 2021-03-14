@@ -1,0 +1,1 @@
+An ultrametric defined on a subset S of a metric space X can be extended to X while roughly preserving distances between pairs in S x X.

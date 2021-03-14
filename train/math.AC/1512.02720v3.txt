@@ -1,0 +1,1 @@
+Let Q be a regular local ring of dimension 3. We show how to trim a Gorenstein ideal in Q to obtain an ideal that defines a quotient ring that is close to Gorenstein in the sense that its Koszul homology algebra is a Poincare duality algebra P padded with a non-zero graded vector space on which P_{\ge 1} acts trivially. We explicitly construct an infinite family of such rings.

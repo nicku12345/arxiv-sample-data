@@ -1,0 +1,1 @@
+It is proved that for k\geq 4, if the points of k-dimensional Euclidean space are coloured in red and blue, then there are either two red points distance one apart or k+3 blue collinear points with distance one between any two consecutive points. This result is new for 4\leq k\leq 10.

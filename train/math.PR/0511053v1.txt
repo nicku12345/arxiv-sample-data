@@ -1,0 +1,1 @@
+We study a one-dimensional diffusion process in a drifted Brownian potential. We characterize the upper functions of its hitting times in the sense of Paul L\'evy, and determine the lower limits in terms of an iterated logarithm law.

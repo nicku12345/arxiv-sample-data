@@ -1,0 +1,1 @@
+For formal multivariate power series \varphi(x) an inversion formula of the form  \varphi^{-1}(x)=x +\sum_{m=1}^{\infty}\sum_{k=0}^m (-1)^k(m k)\varphi^{\circ k}(x) is offered.

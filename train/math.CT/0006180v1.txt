@@ -1,0 +1,1 @@
+In the context of synthetic differential geometry, we study the Laplace operator an a Riemannian manifold. The main new aspect is a neighbourhood of the diagonal, smaller than the second neighbourhood usually required as support for second order differential operators. The new neighbourhood has the property that a function is affine on it if and only if it is harmonic.

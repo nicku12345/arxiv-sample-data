@@ -1,0 +1,1 @@
+We define a natural conformally invariant measure on unrooted Brownian loops in the plane and study some of its properties. We relate this measure to a measure on loops rooted at a boundary point of a domain and show how this relation gives a way to ``chronologically add Brownian loops'' to simple curves in the plane.

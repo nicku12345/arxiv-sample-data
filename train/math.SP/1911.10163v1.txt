@@ -1,0 +1,1 @@
+Inverse spectral problems are studied for first-order integro-differential operators on a finite interval. These problems consist in recovering some components of the kernel from one or multiple spectra. Uniqueness theorems are proved for this class of inverse problems.

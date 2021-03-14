@@ -1,0 +1,1 @@
+In this article we give application of closure operators in category of modules. Our main result shows that every subcategory A of injective modules of R-mod (under a mild condition) induces a torsion theory of R-mod.

@@ -1,0 +1,1 @@
+We discuss gluing of objects and gluing of morphisms in tensor triangulated categories. We illustrate the results by producing, among other things, a Mayer-Vietoris exact sequence involving Picard groups.

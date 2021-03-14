@@ -1,0 +1,1 @@
+In this article we present a new recurrence formula for a finite sum involving the Fibonacci sequence. Furthermore, we state an algorithm to compute the sum of a power series related to Fibonacci series, without the use of term-by-term differentiation theorem

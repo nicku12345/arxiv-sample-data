@@ -1,0 +1,1 @@
+Our main result describes the relation between the syzygies involving the first order partial derivatives f_0,...,f_n of a homogeneous polynomial f\in \C[x_0,...x_n] and the defect of the linear systems vanishing on the singular locus subscheme \Sigma_f=V(f_0,...,f_n) of the hypersurface D:f=0 in the complex projective space \PP^n, when D has only isolated singularities.

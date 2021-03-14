@@ -1,0 +1,1 @@
+We present and apply a method for disproving the existence of polyhedral immersions in \mathbb{R}^3 of certain triangulations on non-orientable surfaces. In particular, it is proved that neither of the two vertex-minimal, neighborly 9-vertex triangulations of the non-orientable surface of genus 5 are realizable as immersed polyhedral surfaces in \mathbb{R}^3.

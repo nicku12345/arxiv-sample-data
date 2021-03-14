@@ -1,0 +1,1 @@
+Let V_0 be a real-valued function on [0,\infty) and V\in L^1([0,R]) for all R>0 so that H(V_0)= -\f{d^2}{dx^2}+V_0 in L^2([0,\infty)) with u(0)=0 boundary conditions has discrete spectrum bounded from below. Let \calM (V_0) be the set of V so that H(V) and H(V_0) have the same spectrum. We prove that \calM(V_0) is connected.

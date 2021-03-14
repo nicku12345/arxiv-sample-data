@@ -1,0 +1,1 @@
+We show that the cluster complex of an arbitrary hereditary artin algebra has the structure of an abstract simplicial polytope. In particular, the cluster-tilting objects form one equivalence class under mutation.

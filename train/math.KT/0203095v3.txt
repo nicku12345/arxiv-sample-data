@@ -1,0 +1,1 @@
+In each dimension n>2 there are many projective simplicial toric varieties whose Grothendieck groups of vector bundles are at least as big as the ground field. In particular, the conjecture that the Grothendieck groups of locally trivial sheaves and coherent sheaves on such varieties are rationally isomorphic fails badly.

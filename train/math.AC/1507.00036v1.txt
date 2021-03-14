@@ -1,0 +1,1 @@
+Let R be a semiperfect commutative Noetherian ring and C a semidualizing R-module. We study the theory of linkage for modules of finite G_C-dimension. For a horizontally linked R-module M of finite G_C-dimension, the connection of the Serre condition (S_n) with the vanishing of certain relative cohomology modules of its linked module is discussed.

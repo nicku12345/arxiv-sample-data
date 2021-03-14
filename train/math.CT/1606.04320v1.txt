@@ -1,0 +1,1 @@
+In the first part of this series of papers we constructed dg analogues of the Zuckerman functors over commutative rings and the dual Zuckerman functors over the field of complex numbers. In this paper we construct their derived functors in view of the theory of model categories.

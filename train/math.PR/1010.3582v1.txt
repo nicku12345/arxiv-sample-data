@@ -1,0 +1,1 @@
+We prove the central limit theorem for the volume and the f-vector of the Poisson random polytope \Pi_{\eta} in a fixed convex polytope P\subset\mathbb{R}^d. Here, \Pi_{\eta} is the convex hull of the intersection of a Poisson process X of intensity \eta with P.

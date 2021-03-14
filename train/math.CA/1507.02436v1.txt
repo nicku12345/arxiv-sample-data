@@ -1,0 +1,1 @@
+We show that the truncated simplex Hilbert transform enjoys some cancellation in the sense that its norm grows sublinearly in the number of scales retained in the truncation. This extends the recent result by Tao on cancellation for the multilinear Hilbert transform. Our main tool is the Hilbert space regularity lemma due to Gowers, which enables a very short proof.

@@ -1,0 +1,1 @@
+If X is an abelian variety over a field and L is an invertible sheaf, we know that the degree of the 0-cycle L^g is divisible by g!. As a 0-cycle, it is not, even over a field of cohomological dimension 1. But we show that over a finite field there is perhaps some hope.

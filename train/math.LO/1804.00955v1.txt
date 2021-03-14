@@ -1,0 +1,1 @@
+We present a sequent calculus for the Grzegorczyk modal logic Grz allowing cyclic and other non-well-founded proofs and obtain the cut-elimination theorem for it by constructing a continuous cut-elimination mapping acting on these proofs. As an application, we establish the Lyndon interpolation property for the logic Grz proof-theoretically.

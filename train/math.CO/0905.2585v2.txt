@@ -1,0 +1,1 @@
+Characteristic points have been a primary tool in the study of a generating function defined by a single recursive equation. We investigate the proper way to adapt this tool when working with multi-equation recursive systems.

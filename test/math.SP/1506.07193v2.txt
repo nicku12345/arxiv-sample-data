@@ -1,0 +1,1 @@
+We prove Lieb-Thirring-type bounds for fractional Schr\"odinger operators and Dirac operators with complex-valued potentials. The main new ingredient is a resolvent bound in Schatten spaces for the unperturbed operator, in the spirit of Frank and Sabin.

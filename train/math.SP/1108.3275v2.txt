@@ -1,0 +1,1 @@
+In this short note, we determine the spectrum of the Heisenberg oscillator which is the operator defined as L + |z|^2 on the 3-dimensional Heisenberg group H_1=\mathbb C \times \mathbb R where L stands for the positive sublaplacian and z for the complex variable of a point of the group.

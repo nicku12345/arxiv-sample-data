@@ -1,0 +1,1 @@
+We prove that the multidimensional dimensional initial value problem for the Navier-Stokes equations is globally well-posed in the so-called Moment and Grand Lebesgue Spaces (GLS), and give some a priory estimations for solution in this spaces.

@@ -1,0 +1,1 @@
+A subgroup H of a finite group G is said to be SS-permutable in G if H has a supplement K in G such that H permutes with every Sylow subgroup of K. A finite group G is called an SST-group if SS-permutability is a transitive relation on the set of all subgroups of G. The structure of SST-groups is investigated in this paper.

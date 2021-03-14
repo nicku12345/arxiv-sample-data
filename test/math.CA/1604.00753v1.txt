@@ -1,0 +1,1 @@
+In this paper we determine the Fourier series expansion of the log-Barnes function. This is the analogue of the classical result of Kummer and Malmsten.   Applying this expansion we get some integrals similar to the Espinosa-Moll log-Gamma integrals with respect to \log G. During the course of the paper some interesting log-Gamma integrals and a log-harmonic sum are evaluated.

@@ -1,0 +1,1 @@
+We characterise all Jordan triple product homomorphisms, that is, mappings \Phi satisfying  \Phi(ABA) = \Phi(A)\Phi(B)\Phi(A)  on the set of all Hermitian 2 \times 2 complex matrices.

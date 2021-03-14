@@ -1,0 +1,1 @@
+For geometrically finite hyperbolic manifolds \Gamma\backslash H^{n+1}, we prove the meromorphic extension of the resolvent of Laplacian, Poincar\'e series, Einsenstein series and scattering operator to the whole complex plane. We also deduce the asymptotics of lattice points of \Gamma in large balls of H^{n+1} in terms of the Hausdorff dimension of the limit set of \Gamma.

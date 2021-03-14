@@ -1,0 +1,1 @@
+The Buchsbaum-Eisenbud-Horrocks Conjecture predicts that if M is a non-zero module of finite length and finite projective dimension over a local ring R of dimension d, then the i-th Betti number of M is at least d choose i. This conjecture implies that the sum of all the Betti numbers of such a module must be at least 2^d. We prove the latter holds in a large number of cases.

@@ -1,0 +1,1 @@
+Combinatorial characterisations of minimal rigidity are obtained for symmetric 2-dimensional bar-joint frameworks with either \ell^1 or \ell^\infty distance constraints. The characterisations are expressed in terms of symmetric tree packings and the number of edges fixed by the symmetry operations. The proof uses new Henneberg-type inductive construction schemes.

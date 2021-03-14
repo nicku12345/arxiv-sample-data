@@ -1,0 +1,1 @@
+The linear programming method is applied to the space \U_n(\C) of unitary matrices in order to obtain bounds for codes relative to the diversity sum and the diversity product. Theoretical and numerical results improving previously known bounds are derived.

@@ -1,0 +1,1 @@
+It is well-known that an antichain in the poset [0,1]^n must have measure zero. Engel, Mitsis, Pelekis and Reiher showed that in fact it must have (n-1)-dimensional Hausdorff measure at most n, and they conjectured that this bound can be attained. In this note we show that, for every n, such an antichain does indeed exist.

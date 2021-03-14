@@ -1,0 +1,1 @@
+We give a new proof of a recent characterization by Diaz and Mayoral of compactness in the Lebesgue-Bochner spaces L_X^p, where X is a Banach space and 1\le p<\infty, and extend the result to vector-valued Banach function spaces E_X, where E is a Banach function space with order continuous norm.

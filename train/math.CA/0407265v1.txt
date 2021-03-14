@@ -1,0 +1,1 @@
+This is a study of terminating and ill-defined Gauss hypergeometric functions. Corresponding hypergeometric equations have a degenerate set of of 24 Kummer's solutions. We describe those solutions and relations between them.

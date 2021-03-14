@@ -1,0 +1,1 @@
+Gerko proves that if an artinian local ring (R,\mathfrak{m}_R) possesses a sequence of strongly Tor-independent modules of length n, then \mathfrak{m}_R^n\neq 0. This generalizes readily to Cohen-Macaulay rings. We present a version of this result for non-Cohen-Macaulay rings.

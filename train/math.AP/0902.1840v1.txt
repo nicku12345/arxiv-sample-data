@@ -1,0 +1,1 @@
+A second-order PDE is derived from Euler's equaitons under certain assumptions. It is shown that this PDE admits shock and rarefaction waves, and that a single point gradient blow-up admits a unique similarity extension after blow-up that settles uniqueness/entropy issues for such equations.

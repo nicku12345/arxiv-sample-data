@@ -1,0 +1,1 @@
+We show that substantially more than a quarter of the odd integers of the form pq up to x, with p,q both prime, satisfy p\equiv q\equiv 3 \pmod 4.

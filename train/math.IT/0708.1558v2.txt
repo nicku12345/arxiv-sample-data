@@ -1,0 +1,1 @@
+In this paper, we describe a procedure for constructing q--ary [N,3,N-2]--MDS codes, of length N\leq q+1 (for q odd) or N\leq q+2 (for q even), using a set of non--degenerate Hermitian forms in PG(2,q^2).

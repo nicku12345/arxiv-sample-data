@@ -1,0 +1,1 @@
+We conjecture that the sum of the square roots of the Laplacian eigenvalues of a graph does not exceed the sum of the square roots of its signless Laplacian eigenvalues.

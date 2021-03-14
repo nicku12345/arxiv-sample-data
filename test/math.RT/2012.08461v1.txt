@@ -1,0 +1,1 @@
+We show that all finite dimensional, tame hereditary k-algebras are of amenable representation type (in the sense of G. Elek) for all fields k. The proof is adapted from our previous result for tame path algebras. Further, it is proven that this results extends to some tilted algebras, in particular tame concealed algebras are amenable.

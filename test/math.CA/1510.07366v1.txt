@@ -1,0 +1,1 @@
+The aim of this paper is to introduce a generalization of the (p,q)-Bleimann-Butzer-Hahn operators based on (p,q)-integers and obtain Korovkin's type statistical approximation theorem for these operators. Also, we establish the rate of convergence of these operators using the modulus of continuity. Furthermore, we introduce (p,q)-Bleimann-Butzer-Hahn bivariate operators.

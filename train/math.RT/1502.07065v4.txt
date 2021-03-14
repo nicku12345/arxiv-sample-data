@@ -1,0 +1,1 @@
+We define alternating cyclotomic Hecke algebras in higher levels as subalgebras of cyclotomic Hecke algebras under an analogue of Goldman's hash involution. We compute the rank of these algebras and construct a full set of irreducible representations in the semisimple case, generalising Mitsuhashi's results.

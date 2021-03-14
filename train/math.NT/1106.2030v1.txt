@@ -1,0 +1,1 @@
+We study the geometry of billiard orbits on rectangular billiards. A truncated billiard orbit induces a partition of the rectangle into polygons. We prove that thirteen is a sharp upper bound for the number of different areas of these polygons.

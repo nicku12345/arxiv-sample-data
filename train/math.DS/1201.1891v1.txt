@@ -1,0 +1,1 @@
+We provide an algorithm for computing the Euler characteristic of the curves S_p in the space of cubic polynomials, consisting of all polynomials with a periodic critical point of period p. The curves were introduced in [Milnor, Bonifant-Kiwi-Milnor], and the algorithm applies the main results of [DeMarco-Pilgrim]. The output is shown for periods p \leq 26.

@@ -1,0 +1,1 @@
+We show that the commensurator of any quasiconvex abelian subgroup in a biautomatic group is small, in the sense that it has finite image in the abstract commensurator of the subgroup. Using this criterion we exhibit groups that are CAT(0) but not biautomatic. These groups also resolve a number of other questions concerning CAT(0) groups.

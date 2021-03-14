@@ -1,0 +1,1 @@
+We provide a list of conjectured surface-area-minimizing n-hedral tiles of space for n from 4 to 14, previously known only for n equal to 5 or 6. We find the optimal "orientation-preserving" tetrahedral tile (n=4), and we give a nice proof for the optimal 5-hedron (a triangular prism).

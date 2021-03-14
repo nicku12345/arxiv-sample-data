@@ -1,0 +1,1 @@
+In this paper, we develop numerical algorithms that use small requirements of storage and operations for the computation of hyperbolic cocycles over a rotation. We present fast algorithms for the iteration of the quasi-periodic cocycles and the computation of the invariant bundles, which is a preliminary step for the computation of invariant whiskered tori.

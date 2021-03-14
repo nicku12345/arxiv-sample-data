@@ -1,0 +1,1 @@
+We prove that the logarithm of a group-like element in a free algebra coincides with its image by a certain linear map. We use this result and the formula of Le and Murakami for the Knizhnik-Zamolodchikov (KZ) associator \Phi to derive a formula for \log(\Phi) in terms of MZV's (multiple zeta values).

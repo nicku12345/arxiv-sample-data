@@ -1,0 +1,1 @@
+We give a proof of the well-known fact that the category of nearness spaces is bireflective in the category of merotopic spaces which uses Zorn's Lemma instead of the usual construction by transfinite induction.

@@ -1,0 +1,1 @@
+We consider the functions that bound the dimensions of finite-dimensional associative or Lie algebras in terms of the dimensions of their commutative subalgebras. It is proved that these functions have quadratic growth. As a result, we also get similar estimates for the dimension of a Lie group with bounded dimensions of its abelian Lie subgroups.

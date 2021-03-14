@@ -1,0 +1,1 @@
+It was conjectured in [KLS14] that for arithmetic groups, Invariable Generation is equivalent to the Congruence Subgroup Property. In view of the famous Serre conjecture this would imply that higher rank arithmetic groups are invariably generated. In this paper we prove that some higher rank arithmetic groups are not invariably generated.

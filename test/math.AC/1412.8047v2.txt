@@ -1,0 +1,1 @@
+This paper studies characterizing local rings in terms of homological dimensions. The key tool is the notion of a prethick subcategory which we introduce in this paper. Our methods recover the theorems of Salarian, Sather-Wagstaff and Yassemi.

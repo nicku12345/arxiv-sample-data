@@ -1,0 +1,1 @@
+The Jacobian ideal of a hyperplane arrangement is an ideal in the polynomial ring whose generators are the partial derivatives of the arrangements defining polynomial. In this article, we prove that an arrangement can be reconstructed from its Jacobian ideal.

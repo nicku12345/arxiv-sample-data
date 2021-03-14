@@ -1,0 +1,1 @@
+We present a short proof that every maximal family of weakly separated subsets of [n] of cardinality between [a,b] have the same size. Our proof is direct and only uses elementary combinatorics of lattice paths.

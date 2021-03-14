@@ -1,0 +1,1 @@
+If the n-dimensional unit sphere is covered by finitely many spherically convex bodies, then the sum of the inradii of these bodies is at least {\pi}. This bound is sharp, and the equality case is characterized.

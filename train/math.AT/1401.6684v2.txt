@@ -1,0 +1,1 @@
+This note investigate some finiteness properties of the category U of unstable modules. One shows finiteness properties for the injective resolution of finitely generated unstable modules. One also shows a stabilization result under Frobenius twist for Ext-groups.

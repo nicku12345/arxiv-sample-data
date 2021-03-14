@@ -1,0 +1,1 @@
+John C.Baez reinterpreted 2-dimensional and 3-dimensional topological quantum field theories (abbreviated as 2-TQFT and 3-TQFT) in "A prehistory of n-categorical physics"[JC11]. Inspired by his idea, this paper utilizes cochains to prove some properties of 2-TQFT and 3-TQFT. We also prove that cochains form an A_{\infty} algebra under certain conditions.

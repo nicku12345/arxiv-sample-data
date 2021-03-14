@@ -1,0 +1,1 @@
+A finitely generated module over the ring L=Z[t, t^{-1}] of integer Laurent polynomials that has no Z-torsion is determined by a pair of sub-lattices of L^d. Their indices are the absolute values of the leading and trailing coefficients of the order of the module. This description has applications in knot theory.

@@ -1,0 +1,1 @@
+Farber introduced a notion of topological complexity \TC(X) that is related to robotics. Here we introduce a series of numerical invariants \TC_n(X), n=1,2, ... such that \TC_2(X)=\TC(X) and \TC_n(X)\le \TC_{n+1}(X). For these higher complexities, we define their symmetric versions that can also be regarded as higher analogs of the symmetric topological complexity.

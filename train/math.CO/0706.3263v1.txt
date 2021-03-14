@@ -1,0 +1,1 @@
+Following the treatment of Blass and Sagan, we present an algorithmic bijection between the Eulerian equivalence classes of totally cyclic orientations and the spanning trees without internal activity edges for a given graph.

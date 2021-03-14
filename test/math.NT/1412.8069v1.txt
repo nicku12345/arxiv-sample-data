@@ -1,0 +1,1 @@
+In this paper, we study the average size of the product of a number and its multiplicative inverse modulo a prime p. This turns out to be related to moments of L-functions and leads to a curious asymptotic formula for a certain triple exponential sum.

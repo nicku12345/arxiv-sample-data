@@ -1,0 +1,1 @@
+In this note we prove that a homeomorphism is countably-expansive if and only if it is measure-expansive. This result is applied for showing that the C^1-interior of the sets of expansive, measure-expansive and continuum-wise expansive C^1-diffeomorphisms coincide.

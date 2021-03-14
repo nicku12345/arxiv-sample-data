@@ -1,0 +1,1 @@
+We establish, utilizing the Hardy-Littlewood Circle Method, an asymptotic formula for the number of pairs of primes whose differences lie in the image of a fixed polynomial. We also include a generalization of this result where differences are replaced with any integer linear combination of two primes.

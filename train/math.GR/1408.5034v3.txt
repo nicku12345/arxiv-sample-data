@@ -1,0 +1,1 @@
+Let G be a profinite group. We prove that the commutator subgroup G' is finite-by-procyclic if and only if the set of all commutators of G is contained in a union of countably many procyclic subgroups.

@@ -1,0 +1,1 @@
+In this paper we compute the rank and exhibit a presentation for the monoids of all P-stable and P-order preserving partial permutations on a finite set \Omega, with P an ordered uniform partition of \Omega. These (inverse) semigroups constitute a natural class of generators of the pseudovariety of inverse semigroups {\sf NO} of all normally ordered (finite) inverse semigroups.

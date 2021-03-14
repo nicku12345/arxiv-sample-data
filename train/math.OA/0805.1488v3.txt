@@ -1,0 +1,1 @@
+We define and study square-integrable coactions of locally compact quantum groups on Hilbert modules, generalising previous work for group actions. As special cases, we consider square-integrable Hilbert space corepresentations and integrable coactions on C*-algebras. Our main result is an equivariant generalisation of Kasparov's Stabilisation Theorem.

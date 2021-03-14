@@ -1,0 +1,1 @@
+We prove that if a closed oriented 4-manifold X fibers over a 2- or 3-dimensional manifold, in most cases all of its virtual Betti numbers are infinite. In turn, we show that a closed oriented 4-manifold X which is not a tower of torus bundles and fibering over a 2- or 3-dimensional manifold does not admit a torsion symplectic canonical class, nor is of Kodaira dimension zero.

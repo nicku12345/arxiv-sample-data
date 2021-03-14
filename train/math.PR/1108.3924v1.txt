@@ -1,0 +1,1 @@
+Some asymptotic notions for random variables are discussed. In particular, different versions of O and o for sequences of random variables are studied. The results are elementary and more or less well-known, but collected here for future use and easy reference.

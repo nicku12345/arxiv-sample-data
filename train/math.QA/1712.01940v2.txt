@@ -1,0 +1,1 @@
+For a family of height one orders (X,\le) and each non-degenerate solution r_0\colon X\times X\longrightarrow X\times X of the set-theoretic braid equation on X satisfying suitable conditions, we obtain all the non-degenerate solutions of the braid equation on the incidence coalgebra of (X,\le) that extend r_0.

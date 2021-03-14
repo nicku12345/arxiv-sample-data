@@ -1,0 +1,1 @@
+Dehn surgery on a knot determines a dual knot in the surgered manifold, the core of the filling torus. We consider duals of knots in S^3 that have a lens space surgery. Each dual supports a contact structure. We show that if a universally tight contact structure is supported, then the dual is in the same homology class as the dual of a torus knot.

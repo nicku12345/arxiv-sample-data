@@ -1,0 +1,1 @@
+It is shown that a Banach space with locally uniformly convex dual admits an equivalent norm which is itself locally uniformly convex. It follows that on any such space all continuous real-valued functions may be uniformly approximated by C^1 functions.

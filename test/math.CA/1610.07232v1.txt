@@ -1,0 +1,1 @@
+In this work we give an efficient method involving symbolic manipulation, Picard iteration, and auxiliary variables for approximating solutions of two-point boundary value problems.

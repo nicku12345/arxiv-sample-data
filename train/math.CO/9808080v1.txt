@@ -1,0 +1,1 @@
+We initiate a general approach for the fast enumeration of permutations with a prescribed number of occurrences of `forbidden' patterns, that seems to indicate that the enumerating sequence is always P-recursive. We illustrate the method completely in terms of the patterns `abc',`cab' and `abcd'.

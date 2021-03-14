@@ -1,0 +1,1 @@
+Theoretical background and an implementation of the (p)-group generation algorithm by Newman and O'Brien are used to provide computational evidence of a new type of periodically repeating patterns in pruned descendant trees of finite (p)-groups.

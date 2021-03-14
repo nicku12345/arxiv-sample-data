@@ -1,0 +1,1 @@
+We give asymptotic bounds for the optimal Lipschitz constants for the systole map from the Teichmuller space to the curve complex. We give similar results to those known for closed surfaces in the cases when the genus is fixed or the ratio of genus and punctures is a rational number.

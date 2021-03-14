@@ -1,0 +1,1 @@
+The knot concordance invariant Upsilon, recently defined by Ozsvath, Stipsicz, and Szabo, takes values in the group of piecewise linear functions on the closed interval [0,2]. This paper presents a description of one approach to defining Upsilon and of proving its basic properties related to the knot 3-genus, 4-genus, and concordance genus.

@@ -1,0 +1,1 @@
+We contribute to the classification of toroidal circle planes and flat Minkowski planes possessing three-dimensional connected groups of automorphisms. When such a group is an almost simple Lie group, we show that it is isomorphic to \text{PSL}(2,\mathbb{R}). Using this result, we describe a framework for the full classification based on the action of the group on the point set.

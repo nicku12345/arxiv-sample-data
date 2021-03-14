@@ -1,0 +1,1 @@
+We introduce a large scale analogue of the classical fixed-point property for continuous maps, which shall apply to coarse maps. We also develop a coarse version of degree for coarse maps on Euclidean spaces. Then, applying a coarse degree-theoretic argument, we prove that every coarse map from a Euclidean half-space to itself has the coarse fixed-point property.

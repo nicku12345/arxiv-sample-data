@@ -1,0 +1,1 @@
+There has been considerable recent literature connecting Poncelet's theorem to ellipses, Blaschke products and numerical ranges, summarized, for example, in the recent book [11]. We show how those results can be understood using ideas from the theory of orthogonal polynomials on the unit circle (OPUC) and, in turn, can provide new insights to the theory of OPUC.

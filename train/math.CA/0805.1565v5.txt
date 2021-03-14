@@ -1,0 +1,1 @@
+Let M_d be the centered Hardy-Littlewood maximal function associated to cubes in \mathbb{R}^d with Lebesgue measure, and let c_d denote the lowest constant appearing in the weak type (1,1) inequality satisfied by M_d.   We show that c_d \to \infty as d\to \infty, thus answering, for the case of cubes, a long standing open question of E. M. Stein and J. O. Str\"{o}mberg.

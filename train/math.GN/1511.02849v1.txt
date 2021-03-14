@@ -1,0 +1,1 @@
+We identify a class of subspaces of ordered spaces \mathcal L for which the following statement holds: If f:X\to L\in \mathcal L is a continuous bijections of a zero-dimensional space X, then f can be re-routed via a zero-dimensional subspace of an ordered space that has weight not exceeding that of L.

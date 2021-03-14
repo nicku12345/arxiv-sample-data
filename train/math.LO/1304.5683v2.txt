@@ -1,0 +1,1 @@
+We show the consistency of "there is a nice sigma --ideal I on the reals with add(I)= omega_1 which cannot be represented as the union of a strictly increasing sequence of length omega_1 of sigma-subideals". This answers a question by Borodulin-Nadzieja and Glab.

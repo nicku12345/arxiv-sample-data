@@ -1,0 +1,1 @@
+We are going to study some conditions on which the Radon transform and its dual are invertible. Two function spaces are introduced that the Radon transform on which is bijective linear operator. In this regards, a reconstruction formula is constructed. Finally the results are supported by an example.

@@ -1,0 +1,1 @@
+Recall that Szpilrajn (1930) ([4], [5]) states that on a given set, any partial order can be extended to a total order on the same set. In this work we give, in the context of the IST theory ([2],[3],[6]), a more constructive proof for this theorem. In addition, we benefit of the tools used to give some other results.

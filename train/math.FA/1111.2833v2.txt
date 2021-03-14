@@ -1,0 +1,1 @@
+Let A be a Lebesgue measure space. We interpret measures on A\times A\times R_+ as 'maps' from A to A, which spread A along itself; their Radon-Nikodym derivatives also are spread. We discuss basic properties of the semigroup of such maps and the action of this semigroup in the spaces L^p(A).

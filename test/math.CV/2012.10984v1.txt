@@ -1,0 +1,1 @@
+We show that any function f:\mathbb{H}^n\to\mathbb{H} with f(z+c)=f(z)+c, z\in\mathbb{H}^n, for some c>0 has a property that any limit function of a family \{\frac{f(tz)}{t}\}_{t>0} when t\to\infty is linear.

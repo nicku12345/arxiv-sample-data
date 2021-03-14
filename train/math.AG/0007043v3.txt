@@ -1,0 +1,1 @@
+We determine the class of the Hilbert scheme of points on a surface in the Grothendieck group of varieties. As a corollary we obtain its class in the Grothendieck group of motives. We give some applications to moduli spaces of sheaves on surfaces. The paper is related to math/0005249 of de Cataldo and Migliorini.

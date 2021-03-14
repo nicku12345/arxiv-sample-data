@@ -1,0 +1,1 @@
+We study the time decay of magnetic Stark resonant states. As our main result we prove that for sufficiently large time these states decay exponentially with the rate given by the imaginary parts of eigenvalues of certain non-selfadjoint operator. The proof is based on the method of complex translations.

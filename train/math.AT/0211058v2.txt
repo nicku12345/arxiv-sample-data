@@ -1,0 +1,1 @@
+Let A be a finite abelian group. We set up an algebraic framework for studying A-equivariant complex-orientable cohomology theories in terms of a suitable kind of equivariant formal groups. We compute the equivariant cohomology of many spaces in these terms, including projective bundles (and associated Gysin maps), Thom spaces, and infinite Grassmannians.

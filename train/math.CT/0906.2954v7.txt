@@ -1,0 +1,1 @@
+A new, self-contained, proof of a coherence result for categories equipped with two symmetric monoidal structures bridged by a natural transformation is given. It is shown that this coherence result is sufficient for \omega\times\omega-indexed family of iterated reduced bar constructions based on such a category.

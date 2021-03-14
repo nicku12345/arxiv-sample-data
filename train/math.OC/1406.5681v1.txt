@@ -1,0 +1,1 @@
+This work is devoted to prove the pointwise controllability of the Bernoulli-Euler beam equation. It is obtained as a limit of internal controllability of the same type of equation.

@@ -1,0 +1,1 @@
+In this article, we introduce a class of closed almost K\"{a}hler manifold X^{2n} which called the special symplectic hyperbolic manifold. Those manifolds include K\"{a}hler hyperbolic manifolds. We show that the Euler number of a special symplectic manifold satisfies the inequality (-1)^{n}\chi(X)>0.

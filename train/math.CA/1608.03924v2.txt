@@ -1,0 +1,1 @@
+We completely describe all finite difference operators of the form  \Delta_{M_1, M_2, h}(f)(z)=M_1(z) f(z+h) + M_2(z) f(z-h)  preserving the Laguerre-P\'olya class of entire functions. Here M_1 and M_2 are some complex functions and h is a nonzero complex number.

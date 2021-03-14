@@ -1,0 +1,1 @@
+We show that the family {\cal F}_k of all meromorphic functions f in a domain D satisfying \frac{|f^{(k)}|}{1+|f|}(z)\ge C \qquad \mbox{ for all } z\in D (where k is a natural number and C>0) is quasi-normal. The proof relies mainly on the Zalcman-Pang rescaling method.

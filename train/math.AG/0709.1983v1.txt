@@ -1,0 +1,1 @@
+Motivated by Xing's method [7], we show that there exist [n,k,d] linear Hermitian codes over F_{q^2} with k+d>=n-3 for all sufficiently large q. This improves the asymptotic bound of Algebraic-Geometry codes from Hermitian curves given in [9,10].

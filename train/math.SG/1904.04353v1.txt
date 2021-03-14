@@ -1,0 +1,1 @@
+We show how to compute the Lagrangian Floer homology in the one-point blow up of the proper transform of Lagrangians submanifolds, solely in terms of information of the base manifold. As an example we present an alternative computation of the Lagrangian quantum homology in the one-point blow up of (CP^2,\omega) of the proper transform of the Clifford torus.

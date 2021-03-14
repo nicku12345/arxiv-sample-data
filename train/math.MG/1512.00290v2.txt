@@ -1,0 +1,1 @@
+It was proved in 2007 by C.Bandt and H.Rao that if a system S = \{S_1 , ..., S_m \} of contraction similarities in R^2 with a connected attractor K has the finite intersection property, then it satisfies OSC. We construct a self-simiilar Jordan arc in R^3, defined by a system S , which does not satisfy OSC and at the same time has one-point intersection property.

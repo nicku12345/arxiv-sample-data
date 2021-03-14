@@ -1,0 +1,1 @@
+Let G be a compact Lie group. (Compact) topological G-manifolds have the G-homotopy type of (finite-dimensional) countable G-CW complexes (2.5). This partly generalizes Elfving's theorem for locally linear G-manifolds [Elf96], wherein the Lie group G is linear (such as compact).

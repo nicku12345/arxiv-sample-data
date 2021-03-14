@@ -1,0 +1,1 @@
+It is known that Lagrangian torus fibers of the moment map of a toric Fano manifold X, equipped with flat U(1)-connections, are mirror to matrix factorizations of the mirror superpotential W:\check{X}\rightarrow\bC. Via SYZ mirror transformations, we describe how this correspondence, when X is \bP^1 or \bP^2, can be explained in a geometric way.

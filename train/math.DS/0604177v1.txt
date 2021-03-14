@@ -1,0 +1,1 @@
+In this paper we study the Lyapunov stability and Hopf bifurcation in a system coupling a Watt-centrifugal-governor with a steam-engine. Sufficient conditions for the stability of the equilibrium state in terms of the physical parameters and of the bifurcating periodic orbit at most critical parameters on the bifurcation surface are given.

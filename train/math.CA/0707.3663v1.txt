@@ -1,0 +1,1 @@
+We provide an analytic expression for the Laplace transform of the digamma fuction. This complements work of L. Glasser, D. Manna and O. Oloa on this question. The Laplace transform is continuous in the Laplace-variable a. The derivative admits a jump at a= ln 2.

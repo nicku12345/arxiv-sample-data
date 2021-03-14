@@ -1,0 +1,1 @@
+We consider models for genus one curves of degree 5, which arise in explicit 5-descent on elliptic curves. We prove a theorem on the existence of minimal models with the same invariants as the minimal model of the Jacobian elliptic curve and give an algorithm for computing such models. Finally we describe how to reduce genus one models of degree 5 defined over Q.

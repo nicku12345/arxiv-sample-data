@@ -1,0 +1,1 @@
+We undertake the study of bivariate Horn systems for generic parameters. We prove that these hypergeometric systems are holonomic, and we provide an explicit formula for their holonomic rank as well as bases of their spaces of complex holomorphic solutions.   We also obtain analogous results for the generalized hypergeometric systems arising from lattices of any rank.

@@ -1,0 +1,1 @@
+We calculate accurate eigenvalues of a bounded oscillator by means of the Riccati--Pad\'e method that is based on a rational approximation to a regularized logarithmic derivative of the wavefunction. Sequences of roots of Hankel determinants approach the model eigenvalues from below with remarkable convergence rate.

@@ -1,0 +1,1 @@
+In this paper we prove a priori estimates for Donaldson's equation \omega\wedge(\chi+\sqrt{-1}\partial\bar{\partial}\varphi)^{n-1}=e^{F}(\chi+\sqrt{-1}\partial\bar{\partial}\varphi)^{n} over a compact Hermitian manifold X of complex dimension n, where \omega and \chi are arbitrary Hermitian metrics. Our estimates answer a question of Tosatti-Weinkove.

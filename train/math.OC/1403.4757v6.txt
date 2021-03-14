@@ -1,0 +1,1 @@
+I development a Conjugate Gradient Method for solving a partial differential system with multiply controls. Some numerical results are depicted. Also, I present an explication of why the control over a partial differential equations system is necessary.

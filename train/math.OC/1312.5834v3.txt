@@ -1,0 +1,1 @@
+The "value" of infinite horizon risk-sensitive control is the principal eigenvalue of a certain positive operator. This facilitates the use of Chang's extension of the Collatz-Wielandt formula to derive a variational characterization thereof. For the uncontrolled case, this reduces to the Donsker-Varadhan functional.

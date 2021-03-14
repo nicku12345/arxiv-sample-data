@@ -1,0 +1,1 @@
+We prove some consistency results about b(lambda) and d(lambda), which are natural generalisations of the cardinal invariants of the continuum b and d. We also define invariants b_cl(lambda) and d_cl(lambda), and prove that almost always b(lambda) = b_cl(lambda) and d(lambda)=d_cl(lambda)

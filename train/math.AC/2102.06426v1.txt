@@ -1,0 +1,1 @@
+Let K be a field and S = K[x_1,\dots,x_n] be a polynomial ring over K. We discuss the behaviour of the extremal Betti numbers of the class of squarefree strongly stable ideals. More precisely, we give a numerical characterization of the possible extremal Betti numbers (values as well as positions) of such a class of squarefree monomial ideals.

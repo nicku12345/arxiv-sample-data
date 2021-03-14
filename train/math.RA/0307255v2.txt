@@ -1,0 +1,1 @@
+Let H be a finite Hopf algebra with C_{H,H} = C_{H,H}^{-1}. The duality theorem is shown for H, i.e.,  (R # H)# H^{\hat *} \cong R \otimes (H \bar \otimes H^{\hat *}) \hbox {as algebras in} {\cal C}. Also, it is proved that the Drinfeld double (D(H),[b]) is a quasi-triangular Hopf algebra in {\cal C}.

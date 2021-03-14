@@ -1,0 +1,1 @@
+We characterize Cohen-Macaulay and Gorenstein rings obtained from certain types of convex body semigroups. Algorithmic methods to check if a polygonal or circle semigroup is Cohen-Macaulay/Gorenstein are given. We also provide some families of Cohen-Macaulay and Gorenstein rings.

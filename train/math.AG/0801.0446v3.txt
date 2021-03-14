@@ -1,0 +1,1 @@
+We propose a proof for conjectures of Langlands, Shelstad and Waldspurger known as the fundamental lemma for Lie algebras and the non-standard fundamental lemma. The proof is based on a study of the decomposition of the l-adic cohomology of the Hitchin fibration into direct sum of simple perverse sheaves.

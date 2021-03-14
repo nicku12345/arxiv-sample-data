@@ -1,0 +1,1 @@
+It is shown that the "intelligent" controllers which are associated to the recently introduced model-free control synthesis may be easily implemented on cheap and small programmable devices. Several successful numerical experiments are presented with a special emphasis on fault tolerant control.

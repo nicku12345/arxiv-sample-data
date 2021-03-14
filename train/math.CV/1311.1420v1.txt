@@ -1,0 +1,1 @@
+We extend our definition (in a recent paper \cite{KB}) of the coefficient determinants of analytic mappings of the unit disk to include many Fekete-Szeg\ddot{o}-type parameters, and compute the best possible bounds on certain specific determinants for the choice class of starlike functions.

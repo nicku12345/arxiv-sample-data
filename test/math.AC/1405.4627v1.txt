@@ -1,0 +1,1 @@
+We characterize flat extensions of commutative rings satisfying the Weierstrass preparation theorem. Using this characterization we prove a variant of the Weierstrass preparation theorem for rings of functions on a normal curve over a complete local domain of dimension one. This generalizes recent works of Harbater, Hartmann and Krashen with a different method of proof.

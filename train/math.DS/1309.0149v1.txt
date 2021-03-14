@@ -1,0 +1,1 @@
+In this expository article we study the question of the existence of periodic orbits of prescribed energy for classical Hamiltonian systems on compact configuration spaces. We use a variational approach, by studying how the behavior of the free period Lagrangian action functional changes when the energy crosses certain values, known as the Ma\~n\'e critical values.

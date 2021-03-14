@@ -1,0 +1,1 @@
+We give an algorithmic proof of Pick's theorem which calculates the area of a lattice-polygon in terms of the lattice-points.

@@ -1,0 +1,1 @@
+We survey results concerning automatic structures for semigroup constructions, providing references and describing the corresponding automatic structures. The constructions we consider are: free products, direct products, Rees matrix semigroups, Bruck-Reilly extensions and wreath products.

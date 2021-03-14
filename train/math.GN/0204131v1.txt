@@ -1,0 +1,1 @@
+We prove that if T: X \to X is a selfmap of a set X such that \bigcap \{T^{n}X: n\in N}\} is a one-point set, then the set X can be endowed with a compact Hausdorff topology so that T is continuous.

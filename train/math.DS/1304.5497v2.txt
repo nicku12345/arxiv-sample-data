@@ -1,0 +1,1 @@
+We use a weak Gibbs property and a weak form of specification to derive level-2 large deviations principles for symbolic systems equipped with a large class of reference measures. This has applications to a broad class of symbolic systems, including \beta-shifts, S-gap shifts, and their factors. A crucial step in our approach is to prove a `horseshoe theorem' for these systems.

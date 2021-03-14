@@ -1,0 +1,1 @@
+Given a commutative Noetherian local ring, we provide a criterion under which a totally acyclic minimal complex of free modules has symmetric growth.

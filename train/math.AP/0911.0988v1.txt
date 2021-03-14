@@ -1,0 +1,1 @@
+Let m be an integer larger or equal to 3. We prove that Schroedinger systems on B^m with L^{m/2}-antisymmetric potential \Omega of the form  -\Delta v=\Omega v  can be written in divergence form and we deduce that solutions v in L^{m/(m-2)} are in fact W^{2,q}_{loc} for any q<m/2.

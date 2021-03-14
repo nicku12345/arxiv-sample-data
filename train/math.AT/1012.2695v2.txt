@@ -1,0 +1,1 @@
+We prove a Lefschetz duality result for intersection homology. Usually, this result applies to pseudomanifolds with boundary which are assumed to have a "collared neighborhood of their boundary". Our duality does not need this assumption and is a generalization of the classical one.

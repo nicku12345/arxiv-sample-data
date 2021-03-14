@@ -1,0 +1,1 @@
+Let G be a finite abelian group. We will consider a skew product extension of a product of two Cantor minimal Z-systems associated with a G-valued cocycle. When G is non-cyclic and the cocycle is non-degenerate, it will be shown that the skew product system has torsion in its coinvariants.

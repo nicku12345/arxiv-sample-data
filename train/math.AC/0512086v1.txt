@@ -1,0 +1,1 @@
+The main result is a proof that the g-vector of a simplicial complex with a convex ear decomposition is an M-vector. This is a generalization of similar results for matroid complexes. We also show that a finite building has a convex ear decomposition. This leads to connections between higher Cohen-Macaulay connectivity and increasing h-vectors.

@@ -1,0 +1,1 @@
+A set of r non-Hermitian oscillator Hamiltonians in r dimensions is shown to be simultaneously diagonalizable. Their spectra is real and the common eigenstates are expressed in terms of multiple Charlier polynomials. An algebraic interpretation of these polynomials is thus achieved and the model is used to derive some of their properties.

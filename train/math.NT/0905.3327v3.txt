@@ -1,0 +1,1 @@
+We show that for any prime prime p\not=2 \sum_{k=1}^{p-1} {(-1)^k\over k}{-{1\over 2} \choose k} \equiv -\sum_{k=1}^{(p-1)/2}{1\over k} \pmod{p^3} by expressing the l.h.s. as a combination of alternating multiple harmonic sums.

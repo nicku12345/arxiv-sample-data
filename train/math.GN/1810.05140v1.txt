@@ -1,0 +1,1 @@
+Under \mathfrak{p} = \mathfrak{c}, we answer Question 24 of \cite{dikranjan&shakhmatov3} for cardinality {\mathfrak c} , by showing that if a non-torsion Abelian group of size continuum admits a countably compact Hausdorff group topology, then it admits a countably compact Hausdorff group topology with non-trivial convergent sequences.

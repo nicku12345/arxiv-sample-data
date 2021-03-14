@@ -1,0 +1,1 @@
+We prove that any reduced amalgamated free product C*-algebra is KK-equivalent to the corresponding full amalgamated free product C*-algebra. The main ingredient of its proof is Julg--Valette's geometric construction of Fredholm modules with Connes's view for representation theory of operator algebras.

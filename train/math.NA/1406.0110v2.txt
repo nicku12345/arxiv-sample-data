@@ -1,0 +1,1 @@
+In this paper, we are interested in the numerical analysis of blow up for the Chipot-Weissler equation with Dirichlet boundary conditions in bounded domain. To approximate the blow up solution, we construct a finite difference scheme and we prove that the numerical solution satisfies the same properties of the exact one and blows up in finite time.

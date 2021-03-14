@@ -1,0 +1,1 @@
+We consider the higher-order Markov Chain, and characterize the second order Markov chains admitting every probability distribution vector as a stationary vector. The result is used to construct Markov chains of higher-order with the same property. We also study conditions under which the set of stationary vectors of the Markov chain has a certain affine dimension.

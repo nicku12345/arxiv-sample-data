@@ -1,0 +1,1 @@
+We numerically validate the Virtual Element Method of order k for general second order elliptic problems with variable coefficients in three dimensions. Moreover, we investigate numerically also the Serendipity version of the VEM (in three dimensions) and the associated computational gain in terms of degrees of freedom.

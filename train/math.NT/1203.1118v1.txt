@@ -1,0 +1,1 @@
+We define polynomials of one variable t whose values at t=0 and 1 are the multiple zeta values and the multiple zeta-star values, respectively. We give an application to the two-one conjecture of Ohno-Zudilin, and also prove the cyclic sum formula for these polynomials.

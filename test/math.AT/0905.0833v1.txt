@@ -1,0 +1,1 @@
+We describe a cocompact model for the classifying space for proper actions of the mapping class group of a surface with punctures and boundary components. Our construction relies on a known model for the case of a closed surface and uses an induction on the number of punctures and boundary components.

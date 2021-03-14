@@ -1,0 +1,1 @@
+The elastica is a curve in \R^3 that is stationary under variations of the integral of the square of the curvature. Elastica is viewed as a dynamical system that arises from the second order calculus of variations, and its quantization is discussed.

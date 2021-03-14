@@ -1,0 +1,1 @@
+We prove on the sphere \mathbb{S}^2 the Lieb--Thirring inequalities for orthonormal families of scalar and vector functions both on the whole sphere and on proper domains on \mathbb{S}^2. By way of applications we obtain an explicit estimate for the dimension of the attractor of the Navier--Stokes system on a domain on the sphere with Dirichlet non-slip boundary conditions.

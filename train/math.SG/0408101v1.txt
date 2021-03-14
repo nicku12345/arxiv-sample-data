@@ -1,0 +1,1 @@
+The complexity of an action of a reductive algebraic group G on an algebraic variety X is the codimension of a generic B-orbit in X, where B is a Borel subgroup of G. We classify affine homogeneous spaces G/H of complexity one. These results are the natural continuation of the classification of spherical affine homogeneous spaces, i.e., spaces of complexity zero.

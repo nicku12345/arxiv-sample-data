@@ -1,0 +1,1 @@
+We prove that there exists a universal constant c such that any finite primitive permutation group of degree n with a non-trivial point stabilizer is a product of no more than c\log n point stabilizers.

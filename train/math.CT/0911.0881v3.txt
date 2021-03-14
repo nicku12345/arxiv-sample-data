@@ -1,0 +1,1 @@
+A graded tensor category over a group G will be called a crossed product tensor category if every homogeneous component has at least one multiplicatively invertible object. Our main result is a description of the crossed product tensor categories, graded monoidal functors, monoidal natural transformations, and braiding in terms of coherent outer G-actions over tensor categories.

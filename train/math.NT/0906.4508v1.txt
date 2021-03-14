@@ -1,0 +1,1 @@
+We express the real period of a family of elliptic curves in terms of classical hypergeometric series. This expression is analogous to a result of Ono which relates the trace of Frobenius of the same family of elliptic curves to a Gaussian hypergeometric series. This analogy provides further evidence of the interplay between classical and Gaussian hypergeometric series.

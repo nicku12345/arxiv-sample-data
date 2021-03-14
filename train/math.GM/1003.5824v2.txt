@@ -1,0 +1,1 @@
+We recall the definition of an r-maximal set in a metric space as a maximal subset of diameter r. In the special case when the metric space is Euclidean such a set is exactly a solid of constant diameter r. In the process of reviewing the theory of these objects we provide a simple construction which generates a large class of such solids.

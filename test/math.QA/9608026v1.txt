@@ -1,0 +1,1 @@
+We recall the definition of q-differential algebras and discuss some representative examples. In particular we construct the q-analog of the Hochschild coboundary. We then construct the universal q-differential envelope of a unital associative algebra and study its properties. The paper also contains general results on d^N=0.

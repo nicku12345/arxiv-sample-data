@@ -1,0 +1,1 @@
+We show that if G is a gap-free and diamond-free graph, then I(G)^s has a linear minimal free resolution for every s\geq 2.

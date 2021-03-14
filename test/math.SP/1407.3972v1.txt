@@ -1,0 +1,1 @@
+In this paper, we establish some lower bounds for the sums of eigenvalues of the polyharmonic operator and higher order Stokes operator, which are sharper than the recent results in \cite{CSWZ13, I13}. At the same time, we obtain some certain bounds for the sums of positive and negative powers of eigenvalues of the polyharmonic operator.

@@ -1,0 +1,1 @@
+For each positive integer Q there exists a path connected metric compactum X such that the Qth-homotopy group of X is compactly generated but not a topological group (with the quotient topology).

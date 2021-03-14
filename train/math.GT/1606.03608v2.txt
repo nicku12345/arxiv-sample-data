@@ -1,0 +1,1 @@
+We relate certain abelian invariants of a knot, namely the Alexander polynomial, the Blanchfield form, and the Arf invariant, to intersection data of a Whitney tower in the 4-ball bounded by the knot. We also give a new 3-dimensional algorithm for computing these invariants.

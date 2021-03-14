@@ -1,0 +1,1 @@
+In 1995 Villarreal gave a combinatorial description of the equations of Rees algebras of quadratic squarefree monomial ideals. His description was based on the concept of closed even walks in a graph. In this paper we will generalize his results for all squarefree monomial ideals by using a definition of even walks in a simplicial complex.

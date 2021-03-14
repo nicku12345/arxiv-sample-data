@@ -1,0 +1,1 @@
+Let M be a finite von Neumann algebra. In the first part, we give asymptotic results about M-stable sequences of weak*-continuous mappings which are related with operators belonging to M. In the second part, we extend, by a shorter way, similarity results given in [CaFa2] to unbounded semigroups of operators contained in a finite von Neumann algebra.

@@ -1,0 +1,1 @@
+We study the Matsumoto-Yor property in free probability. We prove that the limiting empirical eigenvalue distribution of the GIG matrices and the Marchenko-Pastur distribution have the free Matsumoto-Yor property. Finally we characterize these distributions by a regression properties in free probability.

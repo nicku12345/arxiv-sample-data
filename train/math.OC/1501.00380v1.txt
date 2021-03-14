@@ -1,0 +1,1 @@
+We prove solvability theorems for relaxed one-sided Lipschitz multivalued mappings in Hilbert spaces and for composed mappings in the Gelfand triple setting. From these theorems, we deduce properties of the inverses of such mappings and convergence properties of a numerical scheme for the solution of algebraic inclusions.

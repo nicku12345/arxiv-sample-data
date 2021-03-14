@@ -1,0 +1,1 @@
+We study the asymptotic behavior, as time t goes to infinity, of nonautonomous dynamical systems involving multiscale features. These systems model the emergence of various collective behaviors in game theory, as well as the asymptotic control of coupled sytems.

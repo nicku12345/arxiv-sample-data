@@ -1,0 +1,1 @@
+In this paper we give an additive representation of the factorial, which can be proven by a simple quick analytical argument. We also present some generalizations, which are linked, on the one hand to an arithmetical theorem proven by Euler (decomposition of primes as the sum of two squares), and, on the other hand, to modern combinatorics (Stirling numbers).

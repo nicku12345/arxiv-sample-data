@@ -1,0 +1,1 @@
+We describe an approximate rational arithmetic with round-off errors (both absolute and relative) controlled by the user. The rounding procedure is based on the continued fraction expansion of real numbers. Results of computer experiments are given in order to compare efficiency and accuracy of different types of approximate arithmetics and rounding procedures.

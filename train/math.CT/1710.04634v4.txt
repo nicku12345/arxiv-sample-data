@@ -1,0 +1,1 @@
+Monoids and groupoids are examples of poloids. On the one hand, poloids can be regarded as one-sorted categories; on the other hand, poloids can be represented by partial magmas of partial transformations. In this article, poloids are considered from these two points of view.

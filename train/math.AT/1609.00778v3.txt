@@ -1,0 +1,1 @@
+We make calculations in graph homology which further understanding of the topology of spaces of string links, in particular calculating the Euler characteristics of finite-dimensional summands in their homology and homotopy. In doing so, we also determine the supercharacter of the symmetric group action on the positive arity components of the modular envelope of L_\infty.

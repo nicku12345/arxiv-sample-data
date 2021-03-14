@@ -1,0 +1,1 @@
+Let  H_0=-\dd+V_0  be a multidimensional Schr\"odinger ope\-rator with a real-valued potential and infinite band spectrum, and H=H_0+V be its non-selfadjoint perturbation defined with the help of Kato approach. We prove Lieb--Thirring type inequalities for the discrete spectrum of H in the case when V_0\in L^\infty(\br^d) and V\in L^p(\br^d), p>\max(d/2, 1).

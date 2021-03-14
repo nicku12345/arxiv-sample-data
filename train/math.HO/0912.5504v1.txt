@@ -1,0 +1,1 @@
+A positive integer n is said to be perfect if sigma(n)=2n, where sigma denotes the sum of the divisors of n. In this article, we show that if n is an even perfect number, then any integer m<=n is expressed as a sum of some of divisors of n.

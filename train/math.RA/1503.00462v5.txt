@@ -1,0 +1,1 @@
+We define when a noetherian ring R is called a right ( or a left) weakly krull symmetric ring . We then prove that if R is a right ( or a left ) krull homogenous ring then R is a right ( or a left ) weakly krull symmetric ring . This result modifies the main result of [2] . The key terms introduced in this paper are of independent interest .

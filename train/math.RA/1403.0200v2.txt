@@ -1,0 +1,1 @@
+We show that there exists a constant K such that for any PI- algebra W and any nondegenerate G-grading on W where G is any group (possibly infinite), there exists an abelian subgroup U of G with [G : U] \leq exp(W)^K. A G-grading W = \bigoplus_{g \in G}W_g is said to be nondegenerate if W_{g_1}W_{g_2}... W_{g_r} \neq 0 for any r \geq 1 and any r tuple (g_1, g_2,..., g_r) in G^r.

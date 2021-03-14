@@ -1,0 +1,1 @@
+It is well-known that the Jacobson radical of a unital ring is its largest superfluous right ideal. It is recorded here that the result carries over to non-unital rings provided the notion of "superfluous" is taken relative to all regular ideals.

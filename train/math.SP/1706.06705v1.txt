@@ -1,0 +1,1 @@
+An n x n permutative matrix is a matrix in which every row is a permutation of the first row. In this paper the result given by Paparella in [Electron. J. Linear Algebra 31 (2016) 306-312] is extended to a more general lists of real and complex numbers, and a negative answer to a question posed by him is given.

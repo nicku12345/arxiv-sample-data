@@ -1,0 +1,1 @@
+The main steps of the proof of the existence result for the quasi-static evolution of cracks in brittle materials, obtained in [7] in the vector case and for a general quasiconvex elastic energy, are presented here under the simplifying assumption that the minimizing sequences involved in the problem are uniformly bounded in L^\infty.

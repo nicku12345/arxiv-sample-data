@@ -1,0 +1,1 @@
+Sz\H ucs proved in 2000 that the r-tuple-point manifold of a generic immersion is cobordant to the \Sigma^{1_{r-1}}-point manifold of its generic projection. Here we slightly extend this by showing that the natural mappings of these manifolds are bordant to each other. The main novelty of our approach is that we construct the bordism explicitly.

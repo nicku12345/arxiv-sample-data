@@ -1,0 +1,1 @@
+We give a comprehensive description of the functions and variables defined in the authors' GAP code file OrbOrd.txt, which serve mainly to compute (bounds on) the number of \operatorname{Aut}(S)-orbits on S, or the set or number of element orders in S for nonabelian finite simple groups of Lie type S.

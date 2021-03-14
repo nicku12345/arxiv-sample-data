@@ -1,0 +1,1 @@
+The main purpose of this paper is to estimate the regression function by using a recursive nonparametric kernel approach. We derive the asymptotic normality for a general class of recursive kernel estimate of the regression function, under strong mixing conditions. Our purpose is to extend the work of Roussas and Tran [17] concerning the Devroye-Wagner estimate.

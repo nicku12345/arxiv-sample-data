@@ -1,0 +1,1 @@
+Algebraic K-theory is a homology theory that behaves very well on sufficiently nice objects such as stable C^*-algebras or smooth algebraic varieties, and very badly in singular situations. This survey explains how to exploit this to detect singularity phenomena using K-theory and cyclic homology.

@@ -1,0 +1,1 @@
+We associate to a pair (X,D), consisting of a smooth scheme with a divisor D\in \text{Div}(X)\otimes \mathbb{Q} whose support is a divisor with normal crossings, a canonical Deligne--Mumford stack over X on which D becomes integral. We then reinterpret the Kawamata--Viehweg vanishing theorem as Kodaira vanishing for stacks.

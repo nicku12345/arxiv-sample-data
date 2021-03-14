@@ -1,0 +1,1 @@
+Given a link diagram L we construct spectra X^j(L) so that the Khovanov homology Kh^{i,j}(L) is isomorphic to the (reduced) singular cohomology H^i(X^j(L)). The construction of X^j(L) is combinatorial and explicit. We prove that the homotopy type of X^j(L) depends only on the isotopy class of the corresponding link.

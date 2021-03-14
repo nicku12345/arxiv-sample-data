@@ -1,0 +1,1 @@
+These notes explain how to construct small functorial chain complexes which calculate the derived functors of destabilization (respectively iterated loop functors) in the theory of modules over the mod 2 Steenrod algebra; this shows how to unify results of Singer and of Lannes and Zarati.

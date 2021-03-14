@@ -1,0 +1,1 @@
+In this note, we define the notion of a cactus set, and show that its geometric realization is naturally an algebra over Voronov's cactus operad, which is equivalent to the framed 2-dimensional little disks operad \mathcal{D}_2. Using this, we show that the Hochschild cohomology of a Poincar\'e algebra A is an algebra over (the chain complexes of) \mathcal{D}_2.

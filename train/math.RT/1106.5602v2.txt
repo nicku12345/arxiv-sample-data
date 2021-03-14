@@ -1,0 +1,1 @@
+The reducible Specht modules for the Hecke algebra \mathcal{H}_{\mathbb{F},q}(\mathfrak{S}_n) have been classified except when q=-1. We prove one half of a conjecture which we believe classifies the reducible Specht modules when q=-1 and \mathbb{F} has characteristic 0.

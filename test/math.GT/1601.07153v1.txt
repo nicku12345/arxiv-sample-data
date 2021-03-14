@@ -1,0 +1,1 @@
+We give a new interpretation of the Alexander polynomial \Delta_0 for virtual knots due to Sawollek and Silver and Williams, and use it to show that, for any virtual knot, \Delta_0 determines the writhe polynomial of Cheng and Gao (equivalently, Kauffman's affine index polynomial). We also use it to define a second-order writhe polynomial, and give some applications.

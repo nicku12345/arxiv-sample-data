@@ -1,0 +1,1 @@
+Let G be a discrete group, let p \ge 1, and let L^p(G) denote the Banach space \{\sum_{g\in G} a_g g \mid \sum_{g\in G} |a_g|^p < \infty\}. The following problem will be studied: given 0 \ne \alpha \in CG and 0 \ne \beta \in L^p(G), is \alpha * \beta \ne 0? We will concentrate on the case G is a free abelian or free group.

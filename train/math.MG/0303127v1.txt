@@ -1,0 +1,1 @@
+Let G be a graph which satisfies c^{-1} a^r \le |B(v,r)| \le c a^r, for some constants c,a>1, every vertex v and every radius r. We prove that this implies the isoperimetric inequality |\partial A| \ge C |A| / \log(2+ |A|) for some constant C=C(a,c) and every finite set of vertices A.

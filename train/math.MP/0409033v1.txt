@@ -1,0 +1,1 @@
+We construct an explicit form of the addition law for hyperelliptic Abelian vector functions \wp and \wp'. The functions \wp and \wp' form a basis in the field of hyperelliptic Abelian functions, i.e., any function from the field can be expressed as a rational function of \wp and \wp'.

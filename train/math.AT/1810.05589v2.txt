@@ -1,0 +1,1 @@
+We construct a tower of fibrations approximating the derived mapping space between two simplicially enriched operads subject to mild conditions. The n-th stage of the tower is obtained by neglecting operations with more than n inputs. The main theorem describes the layers of this tower.

@@ -1,0 +1,1 @@
+We describe polynomials of the best uniform approximation to sgn(x) on the union of two intervals in terms of special conformal mappings. This permits us to find the exact asymptotic behavior of the error of this approximation.

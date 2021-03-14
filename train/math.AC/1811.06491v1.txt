@@ -1,0 +1,1 @@
+The Newton-Girard Formula allows one to write any elementary symmetric polynomial as a sum of products of power sum symmetric polynomials and elementary symmetric polynomials of lesser degree. It has numerous applications. We have generalized this identity by replacing the elementary symmetric polynomials with monomial symmetric polynomials.

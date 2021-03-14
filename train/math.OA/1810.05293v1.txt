@@ -1,0 +1,1 @@
+We give two characterizations of tracially nuclear C*-algebras. The first is that the finite summand of the second dual is hyperfinite. The second is in terms of a variant of the weak* uniqueness property. The necessary condition holds for all tracially nuclear C*-algebras. When the algebra is separable, we prove the sufficiency.

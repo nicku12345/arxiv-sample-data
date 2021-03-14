@@ -1,0 +1,1 @@
+We give the first example of a non-linear residually finite 1-related group: < a, t | a^{t^2}=a^2>.

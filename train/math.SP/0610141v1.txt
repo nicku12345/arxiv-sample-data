@@ -1,0 +1,1 @@
+In this paper we introduce the functional centrality as a generalization of the subgraph centrality. We propose a general method for characterizing nodes in the graph according to the number of closed walks starting and ending at the node. Closed walks are appropriately weighted according to the topological features that we need to measure.

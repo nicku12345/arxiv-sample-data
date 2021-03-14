@@ -1,0 +1,1 @@
+This paper deals with the notion of grade of ideals with respect to torsion theories defined via some homological tools such as Ext-modules, Koszul cohomology modules, \v{C}ech and local cohomology modules over commutative rings which are not necessarily Noetherian. We also compare these approaches of grade.

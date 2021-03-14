@@ -1,0 +1,1 @@
+The reduction number r(A) of a standard graded algebra A is the least integer k such that there exists a minimal reduction J of the homogeneous maximal ideal m of A such that Jm^k=m^{k+1}. Vasconcelos conjectured that the reduction number of A=R/I can only increase by passing to the initial ideal, i.e r(R/I)\leq r(R/in(I)). The goal of this note is to prove the conjecture.

@@ -1,0 +1,1 @@
+We prove that for any \alpha\in[0,\omega_1) there exists a strongly separately continuous function f:\ell_\infty\to [0,1] such that f belongs to the (\alpha+1)'th /(\alpha+2)'th/ Baire class and does not belong to the \alpha'th Baire class if \alpha is finite /infinite/.

@@ -1,0 +1,1 @@
+Indecomposable continua with one composant are \textit{large} in the sense of being non-metrisable. We adapt the method of Smith [18] to construct an example which is \textit{small} in the sense of being separable.

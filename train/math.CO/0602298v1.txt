@@ -1,0 +1,1 @@
+Riordan paths are Motzkin paths without horizontal steps on the x-axis. We establish a correspondence between Riordan paths and (321,3\bar{1}42)-avoiding derangements. We also present a combinatorial proof of a recurrence relation for the Riordan numbers in the spirit of the Foata-Zeilberger proof of a recurrence relation on the Schr\"oder numbers.

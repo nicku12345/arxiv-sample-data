@@ -1,0 +1,1 @@
+Let R be a finite ring and let \Cent(R) denote the set of all distinct centralizers of R. R is called an n-centralizer ring if |Cent(R)| = n. In this paper, we characterize n-centralizer finite rings for n \leq 7.

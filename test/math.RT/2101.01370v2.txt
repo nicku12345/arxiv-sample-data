@@ -1,0 +1,1 @@
+An explicit formula for the canonical bilinear form on the Grothendieck ring of the Lie supergroup GL(n,m) is given. As an application we get an algorithm for the decomposition Euler supercharacters in terms of supercharacters of irreducible modules in the category of partially polynomial modules.

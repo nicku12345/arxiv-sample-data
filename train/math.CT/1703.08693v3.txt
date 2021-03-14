@@ -1,0 +1,1 @@
+In this paper we strengthen the relationship between Yoneda structures and KZ doctrines by showing that for any locally fully faithful KZ doctrine, with the notion of admissibility as defined by Bunge and Funk, all of the Yoneda structure axioms apart from the right ideal property are automatic.

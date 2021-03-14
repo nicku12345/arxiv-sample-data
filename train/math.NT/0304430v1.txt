@@ -1,0 +1,1 @@
+We give a method to solve generalized Fermat equations of type x^4 + y^4 = q z^p, for some prime values of q and every prime p bigger than 13. We illustrate the method by proving that there are no solutions for q= 73, 89 and 113.

@@ -1,0 +1,1 @@
+We consider the long time behavior of the trajectories of the discontinuous analog of the standard Chirikov map. We prove that for some values of parameters all the trajectories remains bounded for all time. For other set of parameters we provide an estimate for the escape rate for the trajectories and present a numerically supported conjecture for the actual escape rate.

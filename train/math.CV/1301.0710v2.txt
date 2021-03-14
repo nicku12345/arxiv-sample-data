@@ -1,0 +1,1 @@
+We prove the H\"older continuity of the solution to complex Hessian equation with the right hand side in L^p, p>\frac{n}{m}, 1< m< n, in a m-strongly pseudoconvex domain in \mathbb{C}^n under some additional conditions on the density near the boundary and on the boundary data.

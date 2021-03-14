@@ -1,0 +1,1 @@
+We define a twisted version of Manolescu and Woodward's Symplectic Instanton homology, prove that this invariant fits into the framework of Wehrheim and Woodward's Floer Field theory, and describe its behaviour for connected sum and Dehn surgery.

@@ -1,0 +1,1 @@
+We give a new proof of Hilbert's Syzygy Theorem for monomial ideals. In addition, we prove the following. If S=k[x_1,...,x_n] is a polynomial ring over a field, M is a squarefree monomial ideal in S, and each minimal generator of M has degree larger than i, then the projective dimension of S/M is at most n-i.

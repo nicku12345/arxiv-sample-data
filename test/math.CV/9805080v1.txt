@@ -1,0 +1,1 @@
+We study the dynamics of polynomial mappings f:C^k to C^k of degree at least 2 that extend continuously to projective space P^k. Our approach is to study the dynamics near the hyperplane at infinity and then making a descent to K --- the set of points with bounded orbits --- via external rays.

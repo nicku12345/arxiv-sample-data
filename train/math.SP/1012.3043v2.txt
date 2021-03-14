@@ -1,0 +1,1 @@
+We introduce and study a new concept called doubly-weighted pseudo-almost periodicity, which generalizes the notion of weighted pseudo-almost periodicity due to Diagana. Properties of such a new concept such as the stability of the convolution, translation-invariance, existence of a doubly-weighted mean for almost periodic functions, and a composition result will be studied.

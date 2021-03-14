@@ -1,0 +1,1 @@
+In this paper we study the asymptotic distribution of the cuspidal spectrum of arithmetic quotients of the symmetric space S=SL(n,R)/SO(n). In particular, we obtain Weyl's law with an estimation on the remainder term. This extends results of Duistermaat-Kolk-Varadarajan on spectral asymptotics for compact locally symmetric spaces to this non-compact setting.

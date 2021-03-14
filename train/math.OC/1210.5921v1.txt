@@ -1,0 +1,1 @@
+GAP functions are useful for solving optimization problems, but the literature contains a variety of different concepts of GAP functions. It is interesting to point out that these concepts have many similarities. Here we introduce G-coupling functions, thus presenting a way to take advantage of these common properties.

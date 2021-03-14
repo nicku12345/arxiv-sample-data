@@ -1,0 +1,1 @@
+We provide an analytical closed-form solution of the exponential equation a^x+a^{-x}=x for a specific value a, discuss the number of roots in general case, and provide bounds on the roots.

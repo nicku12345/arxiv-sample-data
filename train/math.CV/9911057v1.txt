@@ -1,0 +1,1 @@
+We define a new local invariant (called degeneracy) associated to a triple (M,M',H), where M and M' are real submanifolds of C^N and C^N', respectively, and H: M->M' is either a holomorphic map, a formal holomorphic map, or a smooth CR-map. We use this invariant to find sufficient conditions under which finite jet dependence, convergence and algebraicity results hold.

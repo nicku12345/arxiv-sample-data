@@ -1,0 +1,1 @@
+Generalizing the case of an infinite discrete metric space of finite diameter, we say that a discrete metric space (X,d) is a Kuiper space, if the group of invertible elements of its uniform Roe algebra is norm-contractible. Various sufficient conditions on (X,d) to be or not to be a Kuiper space are obtained.

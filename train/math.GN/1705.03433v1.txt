@@ -1,0 +1,1 @@
+The space of linearly recursive sequences of complex numbers admits two distinguished topologies. Namely, the adic topology induced by the ideal of those sequences whose first term is 0 and the topology induced from the Krull topology on the space of complex power series via a suitable embedding. We show that these topologies are not equivalent.

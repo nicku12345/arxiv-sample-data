@@ -1,0 +1,1 @@
+The quantum scattering by smooth bodies is considered for small and large values of kd, with k the wavenumber and d the scale of the body. In both regimes, we prove that the forward scattering exceeds the backscattering. For high k, we need to assume that the body is strictly convex.

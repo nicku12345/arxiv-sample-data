@@ -1,0 +1,1 @@
+In this note we further develop the idea of using a ``black box'' point of view (see our previous work) to study eigenfunctions for billiards which have rectangular components: they include the Bunimovich billiard, the Sinai billiard, and the recently popular pseudointegrable billiards

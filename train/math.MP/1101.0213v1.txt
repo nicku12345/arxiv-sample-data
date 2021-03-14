@@ -1,0 +1,1 @@
+In this paper, we proved the generalized Hyers-Ulam stability of homomorphisms in C^*- ternary algebras and of derivations on C^*-ternary algebras for the following Cauchy- Jensen functional equation 3f\bigg(\frac{x+y+z}{3}\bigg)=2f\bigg(\frac{x+y}{2}\bigg)+f(z). These were applied to investigate isomorphisms between C^*-ternary algebras.

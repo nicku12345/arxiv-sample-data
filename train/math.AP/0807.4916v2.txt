@@ -1,0 +1,1 @@
+We investigate the cubic defocusing fourth order Schr\"odinger equation iu_t + \Delta^2u + |u|^2u=0 in arbitrary space dimension \mathbb{R}^n for arbitrary H^2 initial data. We prove that the equation is globally well-posed when n \le 8 and ill-posed when n \ge 9, with the additional important information that scattering holds true when 5 \le n \le 8.

@@ -1,0 +1,1 @@
+Multiplier bimonoids (or bialgebras) in arbitrary braided monoidal categories are defined. They are shown to possess monoidal categories of comodules and modules. These facts are explained by the structures carried by their induced functors.

@@ -1,0 +1,1 @@
+We show that the compressed word problem in a finitely-generated fully residually free group (F -group) is decidable in polynomial time, and use the result to show that the word problem in the automorphism group of such a group is decidable in polynomial time.

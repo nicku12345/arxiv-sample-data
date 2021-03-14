@@ -1,0 +1,1 @@
+A wheel is a graph formed by a chordless cycle and a vertex that has at least three neighbors in the cycle. We prove that every 3-connected graph that does not contain a wheel as a subgraph is in fact minimally 3-connected. We give a new proof of a theorem of Thomassen and Toft: every graph that does not contain a wheel as a subgraph is 3-colorable.

@@ -1,0 +1,1 @@
+In this work, we present a method to explore the landscape of a smooth potential in the search of global minimizers,combining a double-descent technique and a basin-escaping technique based on intermittent colored diffusion. Numerical results illustrate the performance of the method.

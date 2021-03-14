@@ -1,0 +1,1 @@
+Consider l lines in P^2 such that no three lines meet in a point. Let X(l) denote all points of intersections of these l lines. We describe all pairs (d,l) such that generic degree d curve in P^2 contains a X(l).

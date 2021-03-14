@@ -1,0 +1,1 @@
+We develop techniques for computing the AK invariant of a domain with arbitrary characteristic. We use these techniques to describe for any field K the automorphism group of K[X,Y,Z]/(X^n Y - Z^2 - h(X)Z), where h(0) \ne 0 and n \geq 2, as well as the isomorphism classes of these algebras.

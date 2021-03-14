@@ -1,0 +1,1 @@
+In this article we classify the Coxeter systems for which the Brink-Howlett automaton is minimal. We show that this automaton is minimal if and only if each elementary root is supported on a standard spherical subsystem, thereby resolving a conjecture of Hohlweg, Nadeau and Williams.

@@ -1,0 +1,1 @@
+A theorem of Sierpi\'nski says that every infinite set Q of reals contains an infinite number of disjoint subsets whose outer Lebesgue measure is the same as that of Q. He also has a similar theorem involving the Baire property. We give a general theorem of this type and its corollaries, strengthening classical results.

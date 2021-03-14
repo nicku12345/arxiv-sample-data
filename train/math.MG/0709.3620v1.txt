@@ -1,0 +1,1 @@
+In order to generalize the results of Mazur-Ulam and Vogt, we shall prove that any map T which preserves equality of distance with T(0)=0 between two F-spaces without surjective condition is linear. Then, as a special case linear isometries are characterized through a simple property of their range.

@@ -1,0 +1,1 @@
+We give a construction that provides infinitely many 2-connected, cubic, bipartite, and planar graphs G with 3k vertices and such that the number of disjoint copies of a 3-vertex path in G is less than k.

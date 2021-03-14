@@ -1,0 +1,1 @@
+This paper summarizes important results useful for controller design of multi-input multi-output systems. The main goal is to characterize the stabilizing controllers that provide a desired response.

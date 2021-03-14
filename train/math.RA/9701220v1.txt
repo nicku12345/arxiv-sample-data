@@ -1,0 +1,1 @@
+Alternating bilinear maps with few relations allow to define a combinatorial closure similarly as in [2]. For the \aleph_0-categorical case we show that this closure is part of the algebraic closure.

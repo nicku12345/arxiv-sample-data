@@ -1,0 +1,1 @@
+Given an absolutely irreducible ternary form F, the purpose of this paper is to produce better upper bounds for the number of integer solutions to the equation F=0, that are restricted to lie in very lopsided boxes. As an application of the main result, a new paucity estimate is obtained for equal sums of two like powers.

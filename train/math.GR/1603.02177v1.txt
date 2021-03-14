@@ -1,0 +1,1 @@
+Let G be a finite group with the property that if a,b are commutators of coprime orders, then |ab|=|a||b|. We show that G' is nilpotent.

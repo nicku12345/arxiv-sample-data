@@ -1,0 +1,1 @@
+Motivated by a question of Krzysztof Oleszkiewicz we study a notion of weak tail domination of random vectors. We show that if the dominating random variable is sufficiently regular weak tail domination implies strong tail domination. In particular positive answer to Oleszkiewicz question would follow from the so-called Bernoulli conjecture.

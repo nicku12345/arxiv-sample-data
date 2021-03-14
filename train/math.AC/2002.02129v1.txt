@@ -1,0 +1,1 @@
+In this article we extend a cancellation theorem of D. Wright to the case of affine normal domains. We shall show that if A is an algebra over a Noetherian normal domain R containing a field k and if A[T ] = R^{[3]}, then A = R^{[2]} if and only if A[T] has a variable of the form bT^n - a for some a, b \in A with n \ge 2 and ch(k) \nmid n.

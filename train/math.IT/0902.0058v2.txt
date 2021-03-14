@@ -1,0 +1,1 @@
+The second weight of the Generalized Reed-Muller code of order d over the finite field with q elements is now known for d <q and d>(n-1)(q-1). In this paper, we determine the second weight for the other values of d which are not multiple of q-1 plus 1. For the special case d=a(q-1)+1 we give an estimate.

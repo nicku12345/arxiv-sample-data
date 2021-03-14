@@ -1,0 +1,1 @@
+A hypergeometric identity equating a triple sum to a single sum, originally found by Gelfand, Graev and Retakh [Russian Math. Surveys 47 (1992), 1-88] by using systems of differential equations, is given hypergeometric proofs. As a bonus, several q-analogues can be derived.

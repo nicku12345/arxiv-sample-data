@@ -1,0 +1,1 @@
+In this paper, we prove that time-like constant slope surfaces can be reparametrized by using rotation matrices corresponding to unit time-like split quaternions and homothetic motions. Afterwards we give some examples to illustrate our main results by using Mathematica.

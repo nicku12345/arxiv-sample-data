@@ -1,0 +1,1 @@
+In this paper, we give a simple criterion for a locally distributive semilattice to have CAT(0) orthoscheme complex. Namely, the orthoscheme complex of a locally distributive semilattice S is CAT(0) if and only if S is a flag semilattice, that is, any pairwise bounded triple of S is bounded.

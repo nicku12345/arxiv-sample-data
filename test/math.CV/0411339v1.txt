@@ -1,0 +1,1 @@
+Let F be an automorphism of C^k which has a fixed point. It is well known that the basin of attraction is biholomorphically equivalent to C^k. We will show that the basin of attraction of a sequence of automorphisms is also biholomorphic to C^k if all the automorphisms are small perturbations of the original map F.

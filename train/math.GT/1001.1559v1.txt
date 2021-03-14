@@ -1,0 +1,1 @@
+A crossing in a knot is nugatory if changing the crossing does not change the knot type. Using an invariant of certain types of closed 3-braid diagrams, we show that if a closed 3-braid contains a nugatory crossing then its braid index is one or two. This proves a special case of a conjecture on nugatory crossings due to Xiao-Song Lin.

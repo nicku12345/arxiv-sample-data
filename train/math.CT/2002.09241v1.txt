@@ -1,0 +1,1 @@
+We show that for a given exact category, there exists a bijection between semibricks (pairwise Hom-orthogonal set of bricks) and length wide subcategories (exact extension-closed length abelian subcategories). In particular, we show that a length exact category is abelian if and only if simple objects form a semibrick, that is, the Schur's lemma holds.

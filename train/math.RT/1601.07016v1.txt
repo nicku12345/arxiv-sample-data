@@ -1,0 +1,1 @@
+A family of bi-differential operators from C^\infty\big(\Mat(m,\mathbb R)\times\Mat(m,\mathbb R)\big) into C^\infty\big(\Mat(m,\mathbb R)\big) which are covariant for the projective action of the group SL(2m,\mathbb R) on \Mat(m,\mathbb R) is constructed, generalizing both the \emph{transvectants} and the \emph{Rankin-Cohen brackets} (case m=1).

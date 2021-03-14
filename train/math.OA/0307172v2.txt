@@ -1,0 +1,1 @@
+We study the Kac cohomology for matched pairs of locally compact groups. This cohomology theory arises from the extension theory of locally compact quantum groups. We prove a topological version of the Kac exact sequence and provide methods to compute the cohomology. We give explicit calculations in several examples using results of Moore and Wigner.

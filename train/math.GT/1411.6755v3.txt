@@ -1,0 +1,1 @@
+Let \Sigma_g be a compact, connected, orientable surface of genus g \geq 2. We ask for a parametrization of the discrete, faithful, totally loxodromic representations in the deformation space {\rm Hom}(\pi_1(\Sigma_g), {\rm SU}(3,1))/{\rm SU}(3,1). We show that such a representation, under some hypothesis, can be determined by 30g-30 real parameters.

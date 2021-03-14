@@ -1,0 +1,1 @@
+Idempotent integration is an analogue of Lebesgue integration where \sigma-maxitive measures replace \sigma-additive measures. In addition to reviewing and unifying several Radon--Nikodym like theorems proven in the literature for the idempotent integral, we also prove new results of the same kind.

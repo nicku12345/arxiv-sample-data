@@ -1,0 +1,1 @@
+Answering a question of Junker and Ziegler, we construct a countable first order structure which is not omega-categorical, but does not have any proper non-trivial reducts, in either of two senses (model-theoretic, and group-theoretic). We also construct a strongly minimal set which is not omega-categorical but has no proper non-trivial reducts in the model-theoretic sense.

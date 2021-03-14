@@ -1,0 +1,1 @@
+We show that the Dolbeault--Dirac operator on the quantum Lagrangian Grassmannian of rank two, an example of a quantum irreducible flag manifold, satisfies an appropriate version of the Parthasarathy formula. We use this result to complete the proof that the candidate spectral triple for this space, as defined by Kr\"ahmer, is a spectral triple.

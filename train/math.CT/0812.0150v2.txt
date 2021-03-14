@@ -1,0 +1,1 @@
+Categorical rings were introduced by Jibladze and Pirashvili in their paper "Third Mac Lane cohomology via categorical rings", Journal of Homotopy and related structures, 2, 2007, 187-216. We call those "2-rings". In these notes we present basic definitions and results regarding 2-modules. This is work in progress.

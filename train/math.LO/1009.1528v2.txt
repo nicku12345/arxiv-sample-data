@@ -1,0 +1,1 @@
+We show that the maximal linear extension theorem for well partial orders is equivalent over RCA_0 to ATR_0. Analogously, the maximal chain theorem for well partial orders is equivalent to ATR_0 over RCA_0.

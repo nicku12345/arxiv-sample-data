@@ -1,0 +1,1 @@
+We analyze geometrically non-linear isotropic elastic shells and prove the existence of minimizers. In general, the model takes into account the effect of drilling rotations in shells. For the special case of shells without drilling rotations we present a representation theorem for the strain energy function.

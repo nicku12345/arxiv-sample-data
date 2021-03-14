@@ -1,0 +1,1 @@
+We generalize the result about the congruence subgroup property for GGS-groups to the family of multi-GGS-groups; that is, all multi-GGS-groups except the one defined by the constant vector have the congruence subgroup property. Even if the result remains, new ideas are needed in order to generalize the proof.

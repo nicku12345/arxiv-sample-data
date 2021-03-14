@@ -1,0 +1,1 @@
+The paper contains two results on the equivalence classes of block Jacobi matrices: first, that the Jacobi matrix of type 2 in the Nevai class has A_n coefficients converging to 1, and second, that under an L1-type condition on the Jacobi coefficients, equivalent Jacobi matrices of type 1, 2 and 3 are pairwise asymptotic.

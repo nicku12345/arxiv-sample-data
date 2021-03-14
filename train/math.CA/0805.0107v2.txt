@@ -1,0 +1,1 @@
+We establish an L^2 \times L^2 to L^1 estimate for the bilinear Hilbert transform along a curve defined by a monomial. Our proof is closely related to multi-linear oscillatory integrals.

@@ -1,0 +1,1 @@
+We consider the Vlasov-Fokker-Planck operator with a strong external magnetic field. We show a maximal type estimate on this operator using a nilpotent approach on vector field polynomial operators and including the notion of representation on a Lie algebra. This estimate makes it possible to give a better characterization of the domain of the closure of the considered operator.

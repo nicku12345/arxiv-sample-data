@@ -1,0 +1,1 @@
+This is a short review article on invariants of spatial graphs, written for "A Concise Encyclopedia of Knot Theory" (ed. Adams et. al.). The emphasis is on combinatorial and polynomial invariants of spatial graphs, including the Alexander polynomial, the fundamental quandle of a graph, and the Yamada polynomial.

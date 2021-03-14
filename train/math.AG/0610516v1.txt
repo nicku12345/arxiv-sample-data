@@ -1,0 +1,1 @@
+Let C be a general curve. Mukai asked whether for every stable rank 2 vector bundle E on C with det(E) = K, the multiplication map   Sym^2 H^0(C,E) --> H^0(C, Sym^2 E) is injective. We observe that this holds when h^0(E) < 7 .

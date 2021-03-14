@@ -1,0 +1,1 @@
+A complete local ring of embedding codepth 3 has a minimal free resolution of length 3 over a regular local ring. Such resolutions carry a differential graded algebra structure, based on which one can classify local rings of embedding codepth 3. We give examples of algebra structures that have been conjectured not to occur.

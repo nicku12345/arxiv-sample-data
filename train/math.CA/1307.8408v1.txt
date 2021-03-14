@@ -1,0 +1,1 @@
+We obtain an exact formula for the Fourier transform of multiradial functions, i.e., functions of the form \Phi(x)=\phi(|x_1|, \dots, |x_m|), x_i\in \mathbf R^{n_i}, in terms of the Fourier transform of the function \phi on \mathbf R^{r_1}\times \cdots \times \mathbf R^{r_m}, where r_i is either 1 or 2.

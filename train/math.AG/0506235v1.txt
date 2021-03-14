@@ -1,0 +1,1 @@
+Let X be an affine surface admitting a unique affine ruling and a \mathbb C^*-action. Assume that the ruling has a unique degenerate fibre and that this fibre is irreducible. In this paper we give a short proof of the following result of Miyanishi and Masuda: the universal covering of X is a hypersurface in the affine 3-space given by the equation x^my=z^d-1, where m>1.

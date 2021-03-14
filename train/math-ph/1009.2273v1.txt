@@ -1,0 +1,1 @@
+Starting with a previously constructed family of coherent states, we introduce the Berezin quantization for a particle in a variable magnetic field and we show that it constitutes a strict quantization of a natural Poisson algebra. The phase-space reinterpretation involves a magnetic version of the Bargmann space and leads naturally to Berezin-Toeplitz operators.

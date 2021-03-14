@@ -1,0 +1,1 @@
+We study a new notion of reduction between structures called enumerable functors related to the recently investigated notion of computable functors. Our main result shows that enumerable functors and effective interpretability with the equivalence relation computable are equivalent. We also obtain results on the relation between enumerable and computable functors.

@@ -1,0 +1,1 @@
+What are the asymptotic moments of coefficients obtained when expanding prod_{m=1}^infty (1-q^m)^k in series? A few examples are given, as well as a new multiplicative representation for coefficients when k=10 and k=14.

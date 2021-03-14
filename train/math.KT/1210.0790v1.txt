@@ -1,0 +1,1 @@
+This is a companion to a recent investigation of K-theoretical invariants for symmetric spaces. We introduce a new class of cycles in K-groups, which are connected to elements of an underlying root lattice. This will be needed for a K-theoretical classification of inductive limits.

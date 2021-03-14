@@ -1,0 +1,1 @@
+Let \mathcal I_k be the class of convex k-intersection bodies in \mathbb{R}^n (in the sense of Koldobsky) and \mathcal I_k^m be the class of convex origin-symmetric bodies all of whose m-dimensional central sections are k-intersection bodies. We show that 1) \mathcal I_k^m\not\subset \mathcal I_k^{m+1}, k+3\le m<n, and 2) \mathcal I_l \not\subset \mathcal I_k, 1\le k<l < n-3.

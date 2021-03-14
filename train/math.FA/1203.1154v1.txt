@@ -1,0 +1,1 @@
+This is a continuation of our previous paper. We consider a certain order-like relation for positive operators on a Hilbert space. This relation is defined by using the Jensen inequality with respect to the square-root function. We show that this relation is antisymmetric if the operators are invertible.

@@ -1,0 +1,1 @@
+This paper establishes a necessary and sufficient condition for the asymptotic normality of the nonparametric estimator of sample coverage proposed by Good [Biometrica 40 (1953) 237--264]. This new necessary and sufficient condition extends the validity of the asymptotic normality beyond the previously proven cases.

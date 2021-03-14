@@ -1,0 +1,1 @@
+We consider a nondegenerate holomorphic map f: V \mapsto X where (X, \omega) is a compact hermitian manifold of dimension higher or equal to k and V is an open connected complex manifold of dimension k. In this article we give criteria which permit to construct Ahlfors' currents in X.

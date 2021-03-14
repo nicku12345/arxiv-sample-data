@@ -1,0 +1,1 @@
+We present a theory of reduction of binary quadratic forms with coefficients in Z[lambda], where lambda is the minimal translation in a Hecke group. We generalize from the modular group Gamma(1) = SL(2,Z) to the Hecke groups and make extensive use of modified negative continued fractions.

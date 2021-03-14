@@ -1,0 +1,1 @@
+We give a 1-sided randomised algorithm to detect when a permutation group of degree n, given by generators, contains the alternating group of degree n. This improves on standard methods, and on an algorithm of P. Cameron and J. Cannon.

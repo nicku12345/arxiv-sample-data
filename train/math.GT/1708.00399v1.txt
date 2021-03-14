@@ -1,0 +1,1 @@
+We introduce two operations named biflip and puzzle-move on simple polytopes producing polytopes with diffeomorphic moment-angle manifolds.

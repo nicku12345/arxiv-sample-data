@@ -1,0 +1,1 @@
+The paper gives a complete description of local automorphism groups for Levi degenerate hypersurfaces of finite type in \mathbb{C}^2. We also prove that, with the exception of hypersurfaces of the form v = |z|^k, local automorphisms are always determined by 1-jets. This proves a conjecture of D. Zaitsev in the finite type case.

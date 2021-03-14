@@ -1,0 +1,1 @@
+In this paper, we prove a process-level, also known as level-3 large deviation principle for a very general class of simple point processes, i.e. nonlinear Hawkes process, with a rate function given by the process-level entropy, which has an explicit formula.

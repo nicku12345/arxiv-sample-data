@@ -1,0 +1,1 @@
+We introduce a harmonic analysis for a class of affine iteration models in \br^d. Using Hilbert-space geometry, we develop a new duality notion for affine and contractive iterated function systems (IFSs) and we construct some identities for the Fourier transform of the measure corresponding to infinite Bernoulli convolutions.

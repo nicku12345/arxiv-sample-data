@@ -1,0 +1,1 @@
+We study the so-called closed and splitting subsemimodules and submodules of a given semimodule or module, respectively. We describe lattices of subsemimodules and of closed subsemimodules and posets of splitting subsemimodules and submodules. In the case of modules a natural bijective correspondence between these posets and posets of projections is established.

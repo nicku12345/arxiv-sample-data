@@ -1,0 +1,1 @@
+Let H be a finite-dimensional quasi-Hopf algebra. We show for each quotient quasibialgebra Q of H that Q is a quasi-Hopf algebra whose dimension divides the dimension of H.

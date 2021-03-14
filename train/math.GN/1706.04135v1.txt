@@ -1,0 +1,1 @@
+The homogeneity degree of a topological space X is the number of orbits of the action of the homeomorphism group of X on X. We initiate a study of dendroids of small homogeneity degree, beginning with fans. We classify all smooth fans of homogeneity degree 3, and discuss non-smooth fans and prove some results on degree 4.

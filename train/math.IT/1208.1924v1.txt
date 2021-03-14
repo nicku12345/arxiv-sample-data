@@ -1,0 +1,1 @@
+We consider block codes whose rate converges to the channel capacity with increasing block length at a certain speed and examine the best possible decay of the probability of error. We prove that a moderate deviation principle holds for all convergence rates between the large deviation and the central limit theorem regimes.

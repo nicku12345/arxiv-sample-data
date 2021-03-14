@@ -1,0 +1,1 @@
+The classification of simple biset functors is known, but the evaluation of a simple biset functor at a finite group G may be zero. We investigate various situations where this happens, as well as cases where this does not occur. We also prove a closed formula for such an evaluation under some restrictive conditions on G.

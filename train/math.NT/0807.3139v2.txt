@@ -1,0 +1,1 @@
+Let K be an imaginary quadratic field with class number one and ring of integers O. We prove that mod l, a system of Hecke eigenvalues occurring in the first cohomology group of some congruence subgroup Gamma of SL(2,O) can be realized in the first cohomology with trivial coefficients after increasing the level of Gamma by l.

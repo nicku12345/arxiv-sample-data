@@ -1,0 +1,1 @@
+We consider finitely generated group endowed with a word metric. The group acts on itself by isometries, which induces an action on its horofunction boundary. The conjecture is that nilpotent groups act trivially on their reduced boundary. We will show this for the Heisenberg group. The main tool will be a discrete version of the isoperimetric inequality.

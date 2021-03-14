@@ -1,0 +1,1 @@
+It is consistent that for every function f:R x R-> R there is an uncountable set A subseteq R and two continuous functions f_0,f_1:D(A)-> R such that f(alpha, beta) in {f_0(alpha, beta),f_1(alpha, beta)} for every (alpha, beta) in A^2, alpha not = beta .

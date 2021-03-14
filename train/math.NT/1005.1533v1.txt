@@ -1,0 +1,1 @@
+In this paper, we find all integers x such that x^{2}-1 has only prime factors smaller than 100. This gives some interesting numerical corollaries. For example, for any positive integer n we can find the largest positive integer x such that all prime factors of each of x, x+1,..., x+n are less than 100.

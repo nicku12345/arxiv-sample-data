@@ -1,0 +1,1 @@
+We develop a dimer model for the Alexander polynomial of a knot. This recovers Kauffman's state sum model for the Alexander polynomial using the language of dimers. By providing some additional structure we are able to extend this model to give a state sum formula for the twisted Alexander polynomial of a knot depending on a representation of the knot group.

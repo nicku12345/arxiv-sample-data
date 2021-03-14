@@ -1,0 +1,1 @@
+The moduli spaces of hyperbolic surfaces of genus g with n geodesic boundary components are naturally symplectic manifolds. Mirzakhani proved that their volumes are polynomials in the lengths of the boundaries by computing the volumes recursively. In this paper we give new recursion relations between the volume polynomials.

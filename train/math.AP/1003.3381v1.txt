@@ -1,0 +1,1 @@
+In this paper, we investigate the decay property of scattering solutions to the initial value problem for the free Schr\"{o}dinger equation in \mathbb{R}. It becomes clear that the rate of time decay is essentially determined by the behavior of the Fourier transform of initial data near the origin. The proof is described by basic calculus.

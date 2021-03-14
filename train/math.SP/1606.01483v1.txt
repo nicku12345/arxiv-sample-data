@@ -1,0 +1,1 @@
+We show that the eigenvalues of the Neumann-Poincar\'e operator on analytic boundaries of simply connected bounded planar domains tend to zero exponentially fast, and the exponential convergence rate is determined by the maximal Grauert radius of the boundary. We present a few examples of boundaries to show that the estimate is optimal.

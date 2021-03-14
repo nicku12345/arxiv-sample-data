@@ -1,0 +1,1 @@
+In this paper we study the tail behaviour of Mexican needlets, a class of spherical wavelets introduced by Geller and Mayeli (2009). More specifically, we provide an explicit upper bound depending on the resolution level j and a parameter s governing the shape of the Mexican needlets

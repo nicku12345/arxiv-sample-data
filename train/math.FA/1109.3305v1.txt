@@ -1,0 +1,1 @@
+We deal with a real valued integral operator L of Laplace transformation type acting between Lebesgue spaces on the semi-axis. Sufficient conditions for belonging L to Schatten type classes are obtained. Some upper asymptotic estimates for the approximation numbers of L are also given.

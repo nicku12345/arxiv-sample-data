@@ -1,0 +1,1 @@
+For a star product with separation of variables * on a pseudo-Kaehler manifold we give a simple closed formula of the total symbol of the left star multiplication operator L_f by a given function f. The formula for the star product f * g can be immediately recovered from the total symbol of L_f.

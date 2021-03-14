@@ -1,0 +1,1 @@
+This paper gives a new elementary proof of the theorem that all vector bundles on \mathbb P^1 split into the direct sum of line bundles. The proof is based on the study of divisors associated to germs of sections at the generic point.

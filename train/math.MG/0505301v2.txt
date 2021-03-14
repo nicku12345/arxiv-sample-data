@@ -1,0 +1,1 @@
+Let m>1 be an integer, B_m the set of all unit vectors of \Bbb R^m pointing in the direction of a nonzero integer vector of the cube [-1, 1]^m. Denote by s_m the radius of the largest ball contained in the convex hull of B_m. We determine the exact value of s_m and obtain the asymptotic equality s_m\sim\frac{2}{\sqrt{\log m}}.

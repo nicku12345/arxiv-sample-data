@@ -1,0 +1,1 @@
+A new geometric proof of the spectral theorem for unbounded self-adjoint operators A in a Hilbert space H is given based on a splitting of A in positive and negative parts A+ and A-. For both operators A+ and A- the spectral family can be defined immediately and then put together to become the spectral family of A.

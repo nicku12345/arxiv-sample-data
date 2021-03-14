@@ -1,0 +1,1 @@
+Let (R,\mathfrak{m}) be a Cohen-Macaulay local ring, I an \mathfrak{m}-primary ideal of R and J its minimal reduction. We study the depths of F(I) under certain depth assumptions on G(I) and length condition on quotients of powers of I and J, namely \sum_{n\geq0}\lambda(\mathfrak{m}I^{n+1}/\mathfrak{m}JI^n) and \sum_{n\geq0}\lambda(\mathfrak{m}I^{n+1} \cap J/\mathfrak{m}JI^n).

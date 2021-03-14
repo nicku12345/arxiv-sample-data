@@ -1,0 +1,1 @@
+In this paper, we study the near-boundary behavior of functions u\in\mathcal{F}(\Omega) in the case where \Omega is strictly pseudoconvex. We also introduce a sufficient condition for belonging to \mathcal{F} in the case where \Omega is the unit ball.

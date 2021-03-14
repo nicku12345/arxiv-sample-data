@@ -1,0 +1,1 @@
+The Boolean function implicit in the famous Dayenu song, sung at the Passover meal, is expressed in full conjunctive normal form, and it is proved that if there are n miracles the number of truth-vectors satisfying it is 2^n -(n+1).

@@ -1,0 +1,1 @@
+For every finite unital inverse semigroup S and S-C^*-algebra A we establish an isomorphism between KK^S(\mathbb{C},A) and K(A \rtimes S). This extends the classical Green--Julg isomorphism from finite groups to finite inverse semigroups.

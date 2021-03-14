@@ -1,0 +1,1 @@
+In cryptography, encryption is the process of obscuring information to make it unreadable without special knowledge. This is usually done for secrecy, and typically for confidential communications. Encryption can also be used for authentication, digital signatures, digital cash e.t.c. In this paper we are going to examine and analyse all these topics in detail.

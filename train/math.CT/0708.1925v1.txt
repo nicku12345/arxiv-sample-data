@@ -1,0 +1,1 @@
+Maps (left adjoint arrows) between Frobenius objects in a cartesian bicategory B are precisely comonoid homomorphisms and, for A Frobenius and any T in B, map(B)(T,A) is a groupoid.

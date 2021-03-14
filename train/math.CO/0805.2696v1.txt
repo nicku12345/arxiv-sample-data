@@ -1,0 +1,1 @@
+In a recent paper \cite{Gl} A. Glibichuk proved that if A,B are subsets of an arbitrary finite filed \F_q, such that |A||B|>q, then 16AB = \F_q. We improve this to 10AB = \F_q.

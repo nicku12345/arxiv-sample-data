@@ -1,0 +1,1 @@
+We draw elliptic regularity results for 4-manifolds with an elliptic system, without Sobolev constant control. Direct use of analysis is circumvented; the results come mainly through geometric and topological arguments. In contrast to our previous paper, which worked predominantly on the scale of the curvature radius, the results here provide curvature controls on a fixed scale.

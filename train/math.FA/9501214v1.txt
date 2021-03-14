@@ -1,0 +1,1 @@
+Let A be the disk algebra, \Omega be a compact Hausdorff space and \mu be a finite Borel measure in \Omega. It is shown that the dual of C(\Omega,A) has the Dunford-Pettis Property. This proved in particular that the spaces C(\Omega,A) and L^1(\mu,A*) have the Dunford-Pettis property.

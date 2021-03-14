@@ -1,0 +1,1 @@
+In this paper, we investigate the one-variable equation, sinx+cosx+tanx+cotx+secx+cscx=n, where n is an integer. We prove that if n lies between(inclusively) -1 and 6; then the above equation has no real number solutions. While if n is greater than or equal to 7; or less than or equal to -2, then the said equation has a nonempty solution set which we describe.

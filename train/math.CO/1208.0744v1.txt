@@ -1,0 +1,1 @@
+It is shown that for any outerplanar graph G there is a one to one mapping of the vertices of G to the plane, so that the number of distinct distances between pairs of connected vertices is at most three. This settles a problem of Carmi, Dujmovic, Morin and Wood. The proof combines (elementary) geometric, combinatorial, algebraic and probabilistic arguments.

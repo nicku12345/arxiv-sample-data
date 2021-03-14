@@ -1,0 +1,1 @@
+We establish the existence of a uniformly bounded  C^\infty  solution of the Navier-Stokes equations on \mathbb{R}^3 x\ [0, \infty)  without external forces or boundaries for a divergence free initial condition  u_o \in \cap_m H^m  when the viscosity  \nu  is  > 0 .

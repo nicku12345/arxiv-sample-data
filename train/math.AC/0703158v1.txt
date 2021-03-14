@@ -1,0 +1,1 @@
+For a commutative noetherian ring A, we compare the support of a complex of A-modules with the support of its cohomology. This leads to a classification of all full subcategories of A-modules which are thick (that is, closed under taking kernels, cokernels, and extensions) and closed under taking direct sums.

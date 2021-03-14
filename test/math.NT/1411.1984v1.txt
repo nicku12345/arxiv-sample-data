@@ -1,0 +1,1 @@
+We prove that the Diophantine equation (a^2 c x^k - 1)(b^2 c y^k - 1) = (abc z^k - 1)^2 has no solutions in positive integers with x, y, z > 1, k \geq 7 and a^2x^k \neq b^2y^k.

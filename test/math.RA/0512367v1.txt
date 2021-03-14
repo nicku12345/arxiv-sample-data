@@ -1,0 +1,1 @@
+We determine the atoms of the interval of the clone lattice consisting of those clones which contain all permutations, on an infinite base set. This is equivalent to the description of the atoms of the lattice of transformation monoids above the permutations.

@@ -1,0 +1,1 @@
+We derive two general bounds for the depths of powers of squarefree monomial ideals corresponding to hyperforests. These bounds generalize known bounds for the depths of squarefree monomial ideals, which were given in terms of the edgewise domination number of the corresponding hypergraphs and the lengths of initially regular sequences with respect to the ideals.

@@ -1,0 +1,1 @@
+We show that a differential version of the classical Chebyshev-Markov-Stieltjes inequalities holds for a broad family of weight functions. Such a differential version appears to be new. Our results apply to weight functions which are bounded away from zero and piecewise absolutely continuous and yield effective estimates when the weight satisfies additional regularity conditions.

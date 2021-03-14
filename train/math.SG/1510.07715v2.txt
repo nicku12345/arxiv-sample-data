@@ -1,0 +1,1 @@
+Suppose that X is a torus bundle over a closed surface with homologically essential fibers. Let X_K be the manifold obtained by Fintushel--Stern knot surgery on a fiber using a knot K\subset S^3. We prove that X_K has a symplectic structure if and only if K is a fibered knot. The proof uses Seiberg--Witten theory and a result of Friedl--Vidussi on twisted Alexander polynomials.

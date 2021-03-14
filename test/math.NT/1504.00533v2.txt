@@ -1,0 +1,1 @@
+We show that there are infinitely many primes p such that not only does p + 2 have at most two prime factors, but p + 6 also has a bounded number of prime divisors. This refines the well known result of Chen.

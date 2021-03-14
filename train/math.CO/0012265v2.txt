@@ -1,0 +1,1 @@
+Tilings of a quadriculated annulus A are counted according to volume (in the formal variable q) and flux (in p). We consider algebraic properties of the resulting generating function Phi_A(p,q). For q = -1, the non-zero roots in p must be roots of unity and for q > 0, real negative.

@@ -1,0 +1,1 @@
+The commuting graph of a finite soluble group with trivial centre is investigated. It is shown that the diameter of such a graph is at most 8 or the graph is disconnected. Examples of soluble groups with trivial centre and commuting graph of diameter 8 are provided.

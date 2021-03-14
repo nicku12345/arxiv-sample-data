@@ -1,0 +1,1 @@
+We present an algorithm for an efficient calculation of the fusion rules of twisted representations of untwisted affine Lie algebras. These fusion rules appear in WZW orbifold theories and as annulus coefficients in boundary WZW theories; they provide NIM-reps of the WZW fusion rules.

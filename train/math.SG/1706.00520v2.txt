@@ -1,0 +1,1 @@
+The convexity and Morse-theoretic properties of moment maps in symplectic geometry typically fail for presymplectic manifolds. We find a condition on presymplectic moment maps that prevents these failures. Our result applies for instance to Prato's quasifolds and to Hamiltonian actions on contact manifolds and cosymplectic manifolds.

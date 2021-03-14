@@ -1,0 +1,1 @@
+L. Diening \cite{D1} obtained the following dual property of the maximal operator M on variable Lebesque spaces L^{p(\cdot)}: if M is bounded on L^{p(\cdot)}, then M is bounded on L^{p'(\cdot)}. We extend this result to weighted variable Lebesque spaces.

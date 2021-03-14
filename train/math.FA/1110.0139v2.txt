@@ -1,0 +1,1 @@
+We introduce an index of convergence for double sequences of real numbers. This index is used to describe the behaviour of some bivariate interpolation sequences at points of discontinuity of the first kind. We consider in particular the case of bivariate Lagrange and Shepard operators.

@@ -1,0 +1,1 @@
+We define a new bandwidth-dependent kernel density estimator that improves existing convergence rates for the bias, and preserves that of the variation, when the error is measured in L_1. No additional assumptions are imposed to the extant literature.

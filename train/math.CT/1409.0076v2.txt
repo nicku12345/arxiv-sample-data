@@ -1,0 +1,1 @@
+We establish, by elementary means, the existence of a cofibrantly generated monoidal model structure on the category of operads. By slicing over a suitable operad the classical Rezk model structure on the category of small categories is recovered.

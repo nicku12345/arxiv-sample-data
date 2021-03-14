@@ -1,0 +1,1 @@
+Combining Kasparov's theorem of Voiculesu and Cuntz's description of KK-theory in terms of quasihomomorphisms, we give a simple construction of the Kasparov product. This will be used in a more general context of locally convex algebras in order to treat products of certain universal cycles.

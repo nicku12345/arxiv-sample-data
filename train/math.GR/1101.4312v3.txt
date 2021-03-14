@@ -1,0 +1,1 @@
+The exterior degree of a pair of finite groups (G,N), which is a generalization of the exterior degree of finite groups, is the probability for two elements (g,n) in (G,N) such that g\wedge n=1. In the present paper, we state some relations between this concept and the relative commutatively degree, capability and the Schur multiplier of a pair of groups.

@@ -1,0 +1,1 @@
+We show H\"older continuity for the integrated density of states of a quasi-periodic Jacobi operator with analytic coefficients, in the regime of positive Lyapunov exponent and with a strong Diophantine condition on the frequency. In particular, when the coefficients are trigonometric polynomials we express the H\"older exponent in terms of the degrees of the coefficients.

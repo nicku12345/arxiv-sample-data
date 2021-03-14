@@ -1,0 +1,1 @@
+Let D_n(1,x) be the nth reversed Dickson polynomial. The power sums \sum_{a\in\Bbb F_q}D_n(1,a)^i, i=1,2, have been determined recently. In this paper we give an evaluation of the sum \sum_{a\in\Bbb F_q}D_n(1,a)^3. This result implies new necessary conditions for D_n(1,x) to be a permutation polynomial over \Bbb F_q.

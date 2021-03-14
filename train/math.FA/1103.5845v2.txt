@@ -1,0 +1,1 @@
+We introduce the notion of generalized function taking values in a smooth manifold into the setting of full Colombeau algebras. After deriving a number of characterization results we also introduce a corresponding concept of generalized vector bundle homomorphisms and, based on this, provide a definition of tangent map for such generalized functions.

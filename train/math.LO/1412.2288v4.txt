@@ -1,0 +1,1 @@
+Suppose p is a computable real so that p \geq 1. We show that in both the real and complex case l^p is computably categorical if and only if p \neq 2.

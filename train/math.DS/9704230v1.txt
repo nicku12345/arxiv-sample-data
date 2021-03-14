@@ -1,0 +1,1 @@
+By considering the way an n-tuple of points in the 2-disk are linked together under iteration of an orientation preserving diffeomorphism, we construct a dynamical cocycle with values in the Artin braid group. We study the asymptotic properties of this cocycle and derive a series of topological invariants for the diffeomorphism which enjoy rich properties.

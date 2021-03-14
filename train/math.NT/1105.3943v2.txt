@@ -1,0 +1,1 @@
+We give an example of a formula involving the sinc function that holds for every N = 0, 1, 2, ..., up to about 10^102832732165, then fails for all larger N. We give another example that begins to fail after about N ~ exp(exp(exp(exp(exp(exp(e)))))). This number is larger than the Skewes numbers.

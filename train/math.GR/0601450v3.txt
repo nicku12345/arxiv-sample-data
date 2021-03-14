@@ -1,0 +1,1 @@
+We study two transitivity properties for group actions on buildings, called Weyl transitivity and strong transitivity. Following hints by Tits, we give examples involving anisotropic algebraic groups to show that strong transitivity is strictly stronger than Weyl transitivity. A surprising feature of the examples is that strong transitivity holds more often than expected.

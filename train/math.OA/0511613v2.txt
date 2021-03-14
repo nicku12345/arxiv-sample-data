@@ -1,0 +1,1 @@
+The purpose of this paper is extend the notion of morphism of groupoids introduced by Zakrzewski to locally compact \sigma-compact groupoids endowed with Haar systems and to use the extension to construct a covariant functor from this category to a category of C^{\ast}-algebras in the sense of Woronowicz.

@@ -1,0 +1,1 @@
+We consider the motion of a particle in a random isotropic force field. Assuming that the force field arises from a Poisson field in \mathbb{R}^d, d \geq 4, and the initial velocity of the particle is sufficiently large, we describe the asymptotic behavior of the particle.

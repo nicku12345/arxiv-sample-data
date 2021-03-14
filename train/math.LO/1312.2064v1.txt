@@ -1,0 +1,1 @@
+We prove that in some cases definable chains of Borel partial orderings are necessarily countably cofinal. This includes the following cases: analytic chains, ROD chains in the Solovay model, and \Sigma^1_2 chains in the assumption that \omega_1^{L[x]}<\omega_1 for all reals x.

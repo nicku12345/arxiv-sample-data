@@ -1,0 +1,1 @@
+In this paper we propose a new approach to obtain mixing least square regression estimate by means of stochastic online mirror descent in non-euclidian set-up.

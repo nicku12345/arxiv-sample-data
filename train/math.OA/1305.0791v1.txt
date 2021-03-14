@@ -1,0 +1,1 @@
+For C^*-algebras A and B, we study the bi-continuity of the canonical embedding of A^{**}\ot_{\gamma} B^{**} (A^{**}\hat{\ot} B^{**}) into (A \ot_{\gamma} B)^{**} (resp. (A \hat{\ot} B)^{**}), and its isomorphism. Ideal structure of A\hat{\ot} B has been obtained in case A or B has only finitely many closed ideals.

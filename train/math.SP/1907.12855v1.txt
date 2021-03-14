@@ -1,0 +1,1 @@
+We prove that no eigenvalue of the clamped disk can have multiplicity greater than six. Our method of proof is based on a new recursion formula, linear algebra arguments and a transcendency theorem due to Siegel and Shidlovskii.

@@ -1,0 +1,1 @@
+This short and fairly informal note is an attempt to explain how methods of homological algebra may be brought to bear on problems in symplectic geometry. We do this by looking at a familiar sample question, which is that of the topology of Lagrangian submanifolds in the cotangent bundle of the sphere.

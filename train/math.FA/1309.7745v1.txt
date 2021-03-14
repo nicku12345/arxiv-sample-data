@@ -1,0 +1,1 @@
+Let \{c_n\}_{n=1}^\infty be a sequence of complex numbers. In this paper we answer when the range of \sum_{n=1}^\infty\pm c_n is dense or equal to the complex plane. Some examples are given to explain our results. As its application, we calculate the Hausdorff dimension of the level sets of a Rademacher series with complex coefficients.

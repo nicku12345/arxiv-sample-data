@@ -1,0 +1,1 @@
+We prove that the Zarisky closure of the monodromy group of the polynomial  x^2 y^2(1-x-y)  is the symplectic group Sp(4,\mathbb C). This shows that some previous results about this monodromy representation are wrong.

@@ -1,0 +1,1 @@
+We compute the (rational) Betti number of real toric varieties associated to Weyl chambers of type B. Furthermore, we show that their integral cohomology is p-torsion free for all odd primes p.

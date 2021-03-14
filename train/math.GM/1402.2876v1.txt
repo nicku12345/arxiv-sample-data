@@ -1,0 +1,1 @@
+This article handles in a short manner a few Laplace transform pairs and some extensions to the basic equations are developed. They can be applied to a wide variety of functions in order to find the Laplace transform or its inverse when there is a specific type of an implicit function involved.

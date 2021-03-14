@@ -1,0 +1,1 @@
+In this article, we will define two canonical cohomology theories for Hopf C^*-algebras and for Hopf von Neumann algebras (with coefficients in their bicomodules). We will then study the situations when these cohomologies vanish. The cases of locally compact groups and compact quantum groups will be considered in more details.

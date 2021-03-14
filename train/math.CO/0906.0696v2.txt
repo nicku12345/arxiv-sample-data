@@ -1,0 +1,1 @@
+Let B_n denote the nth Bell number. We use well-known recursive expressions for B_n to give a generalizing recursion that can be used to prove Touchard's congruence.

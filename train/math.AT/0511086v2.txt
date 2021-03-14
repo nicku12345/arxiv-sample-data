@@ -1,0 +1,1 @@
+Let M be one of the projective spaces CP^n, HP^n for n>1 or the Cayley projective plane OP^2, and let LM denote the free loop space on M. Using Morse theory methods, we prove that the suspension spectrum of (LM)_+ is homotopy equivalent to the suspension spectrum of M_+ wedge a family of Thom spaces of explicit vector bundles over the tangent sphere bundle of M.

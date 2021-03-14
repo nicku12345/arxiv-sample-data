@@ -1,0 +1,1 @@
+We introduce {\em admissible collections} for a finite group G and use them to prove that most of the finite classical groups in non-defining characteristic satisfy the {\em Quillen dimension at p property}, a strong version of Quillen's conjecture, at a given odd prime divisor p of |G|. Compared to the methods in \cite{AS1993}, our techniques are simpler.

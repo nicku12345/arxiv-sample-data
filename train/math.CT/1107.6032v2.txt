@@ -1,0 +1,1 @@
+The purpose of this expository note is to describe duality and trace in a symmetric monoidal category, along with important properties (including naturality and functoriality), and to give as many examples as possible. Among other things, this note is intended as background for the generalizations to the context of bicategories and indexed monoidal categories.

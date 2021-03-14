@@ -1,0 +1,1 @@
+We present a forcing for blowing up 2^lambda and making ``many positive polarized partition relations'' (in a sense made precise in (c) of our main theorem) hold in the interval [lambda, 2^lambda]. This generalizes results of [276], Section 1, and the forcing is a ``many cardinals'' version of the forcing there.

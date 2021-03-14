@@ -1,0 +1,1 @@
+We study a generalization of the Bakry-\'Emery pointwise gradient estimate for the heat semigroup and its equivalence with some entropic inequalities along the heat flow and Wasserstein geodesics for metric-measure spaces with a suitable group structure. Our main result applies to Carnot groups of any step and to the \mathbb{SU}(2) group.

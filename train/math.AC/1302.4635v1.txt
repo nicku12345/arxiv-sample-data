@@ -1,0 +1,1 @@
+We provide a simple method to compute the Betti numbers if the Stanley-Reisner ideal of a simplicial tree and its Alexander dual.

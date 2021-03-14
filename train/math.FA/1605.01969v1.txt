@@ -1,0 +1,1 @@
+Given any compact, Hausdorff space K and 1<p<\infty, we compute the Szlenk and w^*-dentability indices of the spaces C(K) and L_p(C(K)). We show that if K is compact, Hausdorff, scattered, CB(K) is the Cantor-Bendixson index of K, and \xi is the minimum ordinal such that CB(K)\leqslant \omega^\xi, then Sz(C(K))=\omega^\xi and Dz(C(K))=Sz(L_p(C(K)))= \omega^{1+\xi}.

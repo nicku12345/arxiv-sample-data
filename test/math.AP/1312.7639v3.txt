@@ -1,0 +1,1 @@
+A Carleman estimate and the unique continuation of solutions for an anomalous diffusion equation with fractional time derivative of order 0<\alpha<1 are given. The estimate is derived via some subelliptic estimate for an operator associated to the anomalous diffusion equation using calculus of pseudo-differential operators.

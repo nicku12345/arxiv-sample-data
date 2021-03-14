@@ -1,0 +1,1 @@
+The distance of a binary operation from being associative can be "measured" by its associative spectrum, an appropriate sequence of positive integers. Particular instances and general properties of associative spectra are studied.

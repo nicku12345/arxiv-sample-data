@@ -1,0 +1,1 @@
+Let D be an irreducible plane curve. In this article, we first introduce a notion of a quadratic residue curve mod D, and study quadratic residue concis C mod an irreducible quartic curve Q. As an application, we study a dihedral cover of P^2 with branch locus C+Q and give two examples of Zariski pairs as by-products.

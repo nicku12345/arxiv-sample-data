@@ -1,0 +1,1 @@
+Let A be a m\times m complex matrix with zero trace and let \e>0. Then there are m\times m matrices B and C such that A=[B,C] and \|B\|\|C\|\le K_\e m^\e\|A\| where K_\e depends only on \e. Moreover, the matrix B can be taken to be normal.

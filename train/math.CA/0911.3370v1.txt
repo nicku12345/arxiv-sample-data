@@ -1,0 +1,1 @@
+Here we define a Caputo like discrete fractional difference and we compare it to the earlier defined Riemann-Liouville fractional discrete analog. Then we produce discrete fractional Taylor formulae for the first time, and we estimate their remainders. Finally, we derive related discrete fractional Ostrowski, Poincare and Sobolev type inequalities.

@@ -1,0 +1,1 @@
+A finite group G is said to be a POS-group if the number of elements of every order occurring in G divides |G|. We answer two questions by Finch and Jones by providing an infinite family of nonabelian POS-groups with orders not divisible by 3.

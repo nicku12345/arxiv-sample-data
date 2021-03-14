@@ -1,0 +1,1 @@
+Given a finite nonabelian semisimple group G, we describe those groups that have the same holomorph as G, that is, those regular subgroups N\simeq G of S(G), the group of permutations on the set G, such that N_{S(G)}(N)=N_{S(G)}(\rho(G)), where \rho is the right regular representation of G.

@@ -1,0 +1,1 @@
+These notes are from the Database of Automorphic L-functions at http://www.math.rutgers.edu/~sdmiller/l-functions . They were written up by Stephen Miller, and are based on discussions with Freydoon Shahidi, Purdue University. They are meant to serve as an introduction to the Langlands-Shahidi method of studying L-functions through the Fourier coefficients of Eisenstein series.

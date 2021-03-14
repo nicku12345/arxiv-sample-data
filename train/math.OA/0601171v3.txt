@@ -1,0 +1,1 @@
+We prove an inequality between the free entropy and the mutual free Fisher information for two projections, regarded as a free analog of the logarithmic Sobolev inequality. The proof is based on the random matrix approximation procedure via the Grassmannian random matrix model of two projections.

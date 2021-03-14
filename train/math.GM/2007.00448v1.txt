@@ -1,0 +1,1 @@
+In any triangle, the perpendicular side bisectors meet the corresponding internal angle bisectors on the circumcircle. If we take those three points as the vertices of a new triangle and repeat the operation indefinitly, we end up in the limit with a par of equilateral triangles whose sides are parallel to the sides of the Morley triangle of the initial triangle.

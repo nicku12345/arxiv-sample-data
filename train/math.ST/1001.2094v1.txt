@@ -1,0 +1,1 @@
+Under mild assumptions on the kernel, we obtain the best known error rates in a regularized learning scenario taking place in the corresponding reproducing kernel Hilbert space (RKHS). The main novelty in the analysis is a proof that one can use a regularization term that grows significantly slower than the standard quadratic growth in the RKHS norm.

@@ -1,0 +1,1 @@
+Diffusion processes associated with semi-Dirichlet forms are studied in the paper. The main results are Fukushima's decomposition for the diffusions and a transformation formula for the corresponding martingale part of the decomposition. The results are applied to some concrete examples.

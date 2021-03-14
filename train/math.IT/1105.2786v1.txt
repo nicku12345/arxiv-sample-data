@@ -1,0 +1,1 @@
+Let d=\frac{(3^{2k}+1)^{2}}{20}, where k is an odd integer. We show that the magnitude of the cross-correlation values of a ternary m-sequence \{s_{t}\} of period 3^{4k}-1 and its decimated sequence \{s_{dt}\} is upper bounded by 5\sqrt{3^{n}}+1, where n=4k.

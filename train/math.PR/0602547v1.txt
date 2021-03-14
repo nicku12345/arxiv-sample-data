@@ -1,0 +1,1 @@
+We study the two-dimensional fractional Brownian motion with Hurst parameter H>{1/2}. In particular, we show, using stochastic calculus, that this process admits a skew-product decomposition and deduce from this representation some asymptotic properties of the motion.

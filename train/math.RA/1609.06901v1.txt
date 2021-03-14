@@ -1,0 +1,1 @@
+For any integer d\geq 1 we construct examples of finitely presented algebras with intermediate growth of type [e^{n^{d/(d+1)}}]. We produce these examples by computing the growth types of some finitely presented metabelian Lie algebras.

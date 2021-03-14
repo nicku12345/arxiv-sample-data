@@ -1,0 +1,1 @@
+We prove inverse-type estimates for the four classical boundary integral operators associated with the Laplace operator. These estimates are used to show convergence of an h-adaptive algorithm for the coupling of a finite element method with a boundary element method which is driven by a weighted residual error estimator.

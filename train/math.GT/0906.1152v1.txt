@@ -1,0 +1,1 @@
+In this short note we apply methods introduced by B. Hanke and T. Shick to prove the vanishing of (low dimensional) higher A-genera for spin manifolds admitting a positive scalar curvature metric. Our aim is to provide a short and unified proof for this beautiful result without using the strong Novikov conjecture.

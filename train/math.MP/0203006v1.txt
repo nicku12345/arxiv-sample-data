@@ -1,0 +1,1 @@
+Mathematical diffraction theory is concerned with the analysis of the diffraction measure of a translation bounded complex measure \omega. It emerges as the Fourier transform of the autocorrelation measure of \omega. The mathematically rigorous approach has produced a number of interesting results in the context of perfect and random systems, some of which are summarized here.

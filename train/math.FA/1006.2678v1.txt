@@ -1,0 +1,1 @@
+Bodmann, Casazza and Kutyniok introduced a quantitative notion of redundancy for finite frames - which they called {\em upper and lower redundancies} - that match better with an intuitive understanding of redundancy for finite frames in a Hilbert space. The objective of this paper is to see how much of this theory generalizes to infinite frames.

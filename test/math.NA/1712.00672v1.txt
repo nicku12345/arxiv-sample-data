@@ -1,0 +1,1 @@
+We prove that an analog of the Scott-Vogelius finite elements are inf-sup stable on certain nondegenerate meshes for piecewise cubic velocity fields. We also characterize the divergence of the velocity space on such meshes. In addition, we show how such a characterization relates to the dimension of C^1 piecewise quartics on the same mesh.

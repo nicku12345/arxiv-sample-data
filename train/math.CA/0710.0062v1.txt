@@ -1,0 +1,1 @@
+In this paper we propose an approach to evaluate the domain of attraction of asymptotically stable periodic solutions obtained via averaging principle (second Bogolubov's theorem or Mel'nikov's method). We discuss also how this result is extended in the case when the right hand part is nonsmooth.

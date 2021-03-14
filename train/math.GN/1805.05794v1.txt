@@ -1,0 +1,1 @@
+For a Tychonoff space X, we denote by C_k(X) the space of all real-valued continuous functions on X with the compact-open topology. In this paper, we have gave characterization for C_k(X) to satisfy S_{fin}(S, S).

@@ -1,0 +1,1 @@
+We consider an oriented surface S and a cellular complex X of curves on S, defined by Hatcher and Thurston in 1980. We prove by elementary means, without Cerf theory, that the complex X is connected and simply connected. From this we derive an explicit simple presentation of the mapping class group of S, following the ideas of Hatcher-Thurston and Harer.

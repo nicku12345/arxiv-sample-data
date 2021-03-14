@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of characteristic p>2. We determine the Hochschild cohomology of U(\mathfrak{sl}_2(k)) and the invariants of \mathfrak{sl}_2(k) and \mathsf{SL}_2(k) in the adjoint action on the divided power algebra D(\mathfrak{sl}_2(k)).

@@ -1,0 +1,1 @@
+In this paper, we establish the Bahadur--Kiefer representation for sample quantiles for a class of weakly dependent linear processes. The rate of approximation is the same as for i.i.d. sequences and is thus optimal.

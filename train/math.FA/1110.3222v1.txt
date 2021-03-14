@@ -1,0 +1,1 @@
+The aim of this paper is to show that any continuous *-homomorphism of L1(Cn)(with twisted convolution as multipli- cation) into B(L2(Rn)) is essentially a Weyl transform. From this we deduce a similar characterisation for the group Fourier transform on the Heisenberg group, in terms of convolution.

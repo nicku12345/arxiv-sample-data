@@ -1,0 +1,1 @@
+We investigate certain matrices composed of mixed, second-order moments of unitaries. The unitaries are taken from C*-algebras with moments taken with respect to traces, or, alternatively, from matrix algebras with the usual trace. These sets are of interest in light of a theorem of E. Kirchberg about Connes' embedding problem.

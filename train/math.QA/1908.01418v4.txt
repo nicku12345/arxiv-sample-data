@@ -1,0 +1,1 @@
+Given a star product with separation of variables \star on a pseudo-K\"ahler manifold M and a point x_0 \in M, we construct an associative algebra of formal distributions supported at x_0. We use this algebra to express the formal oscillatory exponents of a family of formal oscillatory integrals related to the star product \star.

@@ -1,0 +1,1 @@
+We deal with decay and boundedness properties of radial functions belonging to Besov and Lizorkin-Triebel spaces. In detail we investigate the surprising interplay of regularity and decay. Our tools are atomic decompositions in combination with trace theorems.

@@ -1,0 +1,1 @@
+We deal with an hypergroupoid endowed with a relation denoted by "\le", we call it \le--hypergroupoid. We prove that a nonempty subset A of a \le--hypergroupoid H is a prime (resp. semiprime) ideal of H if and only if its characteristic function f_A is a fuzzy prime (resp. fuzzy semiprime) ideal of H.

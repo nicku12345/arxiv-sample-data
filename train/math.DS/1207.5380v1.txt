@@ -1,0 +1,1 @@
+This paper aims at completing and clarifying a delicate step in the proof of Theorem 5.3 of our paper \cite{ST}, where it was used the differentiability of a function F, which a priori can appear not necessarily differentiable.

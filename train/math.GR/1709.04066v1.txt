@@ -1,0 +1,1 @@
+We show that for each positive integer k there exist right-angled Artin groups containing free-by-cyclic subgroups whose monodromy automorphisms grow as n^k. As a consequence we produce examples of right-angled Artin groups containing finitely presented subgroups whose Dehn functions grow as n^{k+2}.

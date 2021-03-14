@@ -1,0 +1,1 @@
+Let (M,d) be a bounded countable metric space and c>0 a constant, such that d(x,y)+d(y,z)-d(x,z) \ge c, for any pairwise distinct points x,y,z of M. For such metric spaces we prove that they can be isometrically embedded into any Banach space containing an isomorphic copy of \ell_\infty.

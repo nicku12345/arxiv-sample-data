@@ -1,0 +1,1 @@
+Coloured PROPs are a generalisation of coloured operads. In this article, we prove the existence of a Dwyer-Kan model structure on the category of small coloured PROPs enriched in a (sufficiently nice) monoidal model category V. This model structure extends the known Dwyer-Kan model structures on the categories of (small) V-enriched categories and V-enriched coloured operads.

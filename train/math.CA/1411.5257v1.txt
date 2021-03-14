@@ -1,0 +1,1 @@
+Expressions for the summation of the series involving the Laguerre polynomials \[S_m(\pm\nu, \pm p)\equiv e^{-x}\sum_{n=0}^\infty \frac{x^n\,L_n^{(\nu)}(x)}{(1\pm \nu\pm p)_n}\frac{(f+m)_n}{(f)_n}\] for any non-negative integers m and p are obtained in terms of generalized hypergeometric functions. These results extend previous work in the literature.

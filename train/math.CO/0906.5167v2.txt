@@ -1,0 +1,1 @@
+Let S(d,N) denote the number of permutations in the symmetric group on [N] which have no decreasing subsequence of length d+1. We prove that S(d,dn) is asymptotically equal to the number of standard Young tableaux of rectangular shape R(d,2n) in the limit n \to \infty, with d fixed.

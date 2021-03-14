@@ -1,0 +1,1 @@
+In this paper we study the null controllability of some non diagonalizable degenerate parabolic systems of PDEs, we assume that the diffusion, coupling and controls matrices are constant and we characterize the null controllability by an algebraic condition so called \textit{Kalman's rank} condition.

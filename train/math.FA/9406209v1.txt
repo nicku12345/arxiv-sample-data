@@ -1,0 +1,1 @@
+We prove that a Banach lattice X which does not contain the l^n_{\infty}-uniformly has an equivalent norm which is uniformly Kadec-Klee for a natural topology \tau on X. In case the Banach lattice is purely atomic, the topology \tau is the coordinatewise convergence topology.

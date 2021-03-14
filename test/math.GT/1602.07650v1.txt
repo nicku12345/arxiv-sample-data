@@ -1,0 +1,1 @@
+For suitable finite groups G, we construct contractible 4-manifolds C with an effective G-action on \partial C whose associated pairs (C,g) for all g \in G are distinct smoothings of the pair (C,\partial C). Indeed C embeds in a 4-manifold so that cutting out C and regluing using distinct elements of G yield distinct smooth 4-manifolds.

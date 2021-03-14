@@ -1,0 +1,1 @@
+Let \pi be an automorphism of the Turing degrees induces by a homeomorphism \varphi of the Cantor space 2^\omega such that \varphi preserves all Bernoulli measures. It is proved that \pi must be trivial. In particular, a permutation of \omega can only induce the trivial automorphism of the Turing degrees.

@@ -1,0 +1,1 @@
+This paper has two main purposes. Firstly we generalise Ram's explicit construction of calibrated representations of the affine Hecke algebra to the multi-parameter case (including the non-reduced BC_n case). We then derive the Plancherel formulae for all rank~1 and rank~2 affine Hecke algebras including a construction of all representations involved (following work of Opdam).

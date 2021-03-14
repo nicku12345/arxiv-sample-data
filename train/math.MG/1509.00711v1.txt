@@ -1,0 +1,1 @@
+A simple graph is 3-rigid if its generic bar-joint frameworks in R^3 are infinitesimally rigid. Necessary and sufficient conditions are obtained for the minimal 3-rigidity of a simple graph which is obtained from the 1-skeleton of a triangulated torus by the deletion of edges interior to a triangulated disc.

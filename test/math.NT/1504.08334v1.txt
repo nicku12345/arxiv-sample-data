@@ -1,0 +1,1 @@
+Given a polynomial \phi over a global function field K and a wandering base point b\in K, we give a geometric condition on \phi ensuring the existence of primitive prime divisors for almost all points in the orbit \mathcal{O}_\phi(b):=\{\phi^n(b)\}_{n\geq0}

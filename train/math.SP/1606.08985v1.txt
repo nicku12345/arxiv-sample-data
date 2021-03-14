@@ -1,0 +1,1 @@
+The inverse nodal problem for Dirac differential operator perturbated by a Volterra integral operator is studied. We prove that dense subset of the nodal points determines the coefficients of differential and integral part of the operator. We also provide a uniqueness theorem and an algorithm to reconstruct the coefficients of the problem by using the nodal points.

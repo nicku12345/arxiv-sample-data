@@ -1,0 +1,1 @@
+We show that in a locally finite topos, every object has an essential extension that is injective, and that this extension is unique up to isomorphism.   The construction was motivated by work on Bewl, a software project for doing topos-theoretic calculations.

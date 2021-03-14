@@ -1,0 +1,1 @@
+We study of the directional distribution function of nodal lines for eigenfunctions of the Laplacian on a planar domain. This quantity counts the number of points where the normal to the nodal line points in a given direction. We give upper bounds for the flat torus, and compute the expected number for arithmetic random waves.

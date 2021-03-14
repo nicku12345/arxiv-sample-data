@@ -1,0 +1,1 @@
+In a Brown category of cofibrant objects, there is a model for the mapping spaces of the hammock localization in terms of zig-zags of length 2. In this paper we show how to assemble these spaces into a Segal category that models the infinity-categorical localization of the Brown category.

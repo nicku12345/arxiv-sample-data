@@ -1,0 +1,1 @@
+In this paper, we give a new proof on a Theorem of Tutte which says that the determinants of the adjacency matrices of two hypomorphic graphs are the same. We also study the lowest eigenvectors.

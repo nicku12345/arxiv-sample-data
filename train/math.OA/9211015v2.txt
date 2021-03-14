@@ -1,0 +1,1 @@
+We discuss how the canonical commutation relations must be modified in order to make appropriate numerical models of quantum systems. The C*-algebras associated with the discretized CCRs are the non-commutative spheres of Bratteli, Elliott, Evans and Kishimoto.

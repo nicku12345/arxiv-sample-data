@@ -1,0 +1,1 @@
+We show that a differential module is Gorenstein projective if and only if its underlying module is Gorenstein projective. Dually, a differential module is Gorenstein injective if and only if its underlying module is Gorenstein injective.

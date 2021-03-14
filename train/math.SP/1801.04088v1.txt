@@ -1,0 +1,1 @@
+We consider a non self-adjoint Laplacian on a directed graph with non symmetric edge weights. We analyse spectral properties of this Laplacian under a Kirchhoff assumption. Moreover we establish isoperimet-ric inequalities in terms of the numerical range to show the absence of the essential spectrum of the Laplacian on heavy end directed graphs.

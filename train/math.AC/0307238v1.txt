@@ -1,0 +1,1 @@
+Let v be a rank m discrete valuation of k[[X1,...,Xn]] with dimension n-m. We prove that there exists an inmediate extension L of K where the valuation is monomial. Therefore we compute explicitly the residue field of the valuation.

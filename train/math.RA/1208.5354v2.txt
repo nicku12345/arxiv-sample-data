@@ -1,0 +1,1 @@
+A rotational lattice is a structure (L;\vee,\wedge, g) where L=(L;\vee,\wedge) is a lattice and g is a lattice automorphism of finite order. We describe the subdirectly irreducible distributive rotational lattices. Using J\'onsson's lemma, this leads to a description of all varieties of distributive rotational lattices.

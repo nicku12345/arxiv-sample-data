@@ -1,0 +1,1 @@
+We present here an elementary example, for every fixed positive integer k, of a strictly stationary nongaussian stochastic process in discrete time, all of whose k-marginals are gaussian.

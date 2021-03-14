@@ -1,0 +1,1 @@
+In this paper we first prove that a simple root of a polynomial satisfies the Sendov's conjecture. As the multiple roots trivially satisfy the Sendov's conjecture we conclude that the Sendov's conjecture holds true.

@@ -1,0 +1,1 @@
+We modify the transchromatic character maps to land in a faithfully flat extension of Morava E-theory. Our construction makes use of the interaction between topological and algebraic localization and completion. As an application we prove that centralizers of tuples of commuting prime-power order elements in good groups are good and we compute a new example.

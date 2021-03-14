@@ -1,0 +1,1 @@
+Given an integer m>1 we consider Zm-equivariant and orientation preserving homeomorphisms in the plane with an asymptotically stable fixed point at the origin. We present examples without periodic points and having some complicated dynamical features. The key is a preliminary construction of Zm-equivariant Denjoy maps of the circle.

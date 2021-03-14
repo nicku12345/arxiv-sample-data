@@ -1,0 +1,1 @@
+For a simple graded algebra A=M_n(E) over a graded division algebra E, a short exact sequence relating the reduced Whitehead group of the homogeneous part of A to that of E is established. In particular it is shown that the homogeneous SK1 is not in general Morita invariant.

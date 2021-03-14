@@ -1,0 +1,1 @@
+We compute the structure relations in special A_\infty-bialgebras whose operations are limited to those defining the underlying A_\infty-(co)algebra substructure. Such bialgebras appear as the homology of certain loop spaces. Whereas structure relations in general A_\infty-bialgebras depend upon the combinatorics of permutahedra, only Stasheff's associahedra are required here.

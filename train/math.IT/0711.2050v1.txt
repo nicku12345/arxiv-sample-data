@@ -1,0 +1,1 @@
+We characterize the affine-invariant maximal extended cyclic codes. Then by the CSS construction, we derive from these codes a family of pure quantum codes. Also for ordnq even, a new family of degenerate quantum stabilizer codes is derived from the classical duadic codes. This answer an open problem asked by Aly et al.

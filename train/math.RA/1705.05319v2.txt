@@ -1,0 +1,1 @@
+In the second edition of the congruence lattice book, Problem 22.1 asks for a characterization of subsets Q of a finite distributive lattice D such that there is a finite lattice L whose congruence lattice is isomorphic to D and under this isomorphism Q corresponds the the principal congruences of L. In this note, we prove some preliminary results.

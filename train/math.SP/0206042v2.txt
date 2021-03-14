@@ -1,0 +1,1 @@
+The pseudo-perturbation shifted-l expansion technique PSLET is shown applicable in the non-Hermitian PT-symmetric context. The construction of bound states for several PT-symmetric potentials is presented, with special attention paid to V(r) = ir^3-alpha sqrt(ir) oscillators.

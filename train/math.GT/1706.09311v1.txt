@@ -1,0 +1,1 @@
+In classical knot theory, Markov's theorem gives a way of describing all braids with isotopic closures as links in \mathbb{R}^3. We present a version of Markov's theorem for extended loop braids with closure in B^3 \times S^1, as a first step towards a Markov's theorem for extended loop braids and ribbon torus-links in \mathbb{R}^4.

@@ -1,0 +1,1 @@
+Inspired by the analogous result in the algebraic setting (Theorem 1) we show (Theorem 2) that the product M \times \mathbb{R}P^n of a closed and orientable topological manifold M with the n-dimensional real projective space cannot be topologically locally flat embedded into \mathbb{R}P^{m + n + 1} for all even n > m.

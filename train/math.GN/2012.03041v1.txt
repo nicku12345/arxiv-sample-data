@@ -1,0 +1,1 @@
+The symmetric inverse semigroup I(X) on a set X is the collection of all partial bijections between subsets of X with composition as the algebraic operation. We study a minimal Hausdorff inverse semigroup topologies on I(X). When X is countable, we show some Polish semigroup topologies on I(X).

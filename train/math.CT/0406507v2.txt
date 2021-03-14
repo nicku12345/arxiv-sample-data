@@ -1,0 +1,1 @@
+In this paper we put a cofibrantly generated model category structure on the category of small simplicial categories. The weak equivalences are a simplicial analogue of the notion of equivalence of categories.

@@ -1,0 +1,1 @@
+We give a simple proof of the cobordism invariance of the index of an elliptic operator. The proof is based on a study of a Witten-type deformation of an extension of the operator to a complete Riemannian manifold. One of the advantages of our approach is that it allows to treat directly general elliptic operator which are not of Dirac type.

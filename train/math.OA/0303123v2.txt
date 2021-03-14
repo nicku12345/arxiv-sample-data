@@ -1,0 +1,1 @@
+We show that matrices in the same orbit of the SO(n, n|Z) action on the space of n\times n skew-symmetric matrices give strong Morita equivalent noncommutative tori, both at the C*-algebra level and at the smooth algebra level. This proves a conjecture of Rieffel and Schwarz.

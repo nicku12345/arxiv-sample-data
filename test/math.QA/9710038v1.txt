@@ -1,0 +1,1 @@
+We define an automorphism of VOA of order 3 by using a sub VOA isomorphic to a direct sum of 3-state Potts models L(\ff,0) and an its module L(\ff,3). This automorphism is a 3A element of the monster simple group if V is the moonshine VOA V^{\natural}.

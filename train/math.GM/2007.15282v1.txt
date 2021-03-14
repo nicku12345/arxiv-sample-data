@@ -1,0 +1,1 @@
+We showed that the prime gap for a prime number p is less than or equal to the prime count of the prime number.

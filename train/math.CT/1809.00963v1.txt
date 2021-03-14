@@ -1,0 +1,1 @@
+A model structure on the category of (small) bigroupoids and pseudofunctors is constructed. In this model structure, every object is cofibrant. In order to keep certain calculations of manageable size, a coherence theorem for bigroupoids and a coherence theorem for pseudofunctors are proven, which may be of independent interest as well.

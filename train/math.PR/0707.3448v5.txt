@@ -1,0 +1,1 @@
+In this paper, we prove a central limit theorem for a sequence of iterated Shorohod integrals using the techniques of Malliavin calculus. The convergence is stable, and the limit is a conditionally Gaussian random variable. Some applications to sequences of multiple stochastic integrals, and renormalized weighted Hermite variations of the fractional Brownian motion are discussed.

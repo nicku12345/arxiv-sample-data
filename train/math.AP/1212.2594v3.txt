@@ -1,0 +1,1 @@
+We derive, via simultaneous homogenization and dimension reduction, the \Gamma-limit for thin elastic plates of thickness h whose energy density oscillates on a scale \eh such that  \eh^2 \ll h\ll \eh. We consider the energy scaling that corresponds to Kirchhoff's nonlinear bending theory of plates.

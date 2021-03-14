@@ -1,0 +1,1 @@
+Motivated by population studies of Diffusion Tensor Imaging, the paper investigates the use of mean-based and dispersion-based permutation tests to define and compute the significance of a statistical test for data taking values on nonlinear manifolds. The paper proposes statistical tests that are computationally tractable and geometrically sound for Diffusion Tensor Imaging.

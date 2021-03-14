@@ -1,0 +1,1 @@
+In this paper we characterize the monoid congruences of commutative semigroups by the help of the notion of the separator of subsets of semigroups. We show that every monoid congruence of a commutative semigroup S can be constructed by the help of subsets A of S whose separator is not empty.

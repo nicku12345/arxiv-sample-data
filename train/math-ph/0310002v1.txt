@@ -1,0 +1,1 @@
+We look at sections of a function bundle over the space of linear differential operators. We find that one can construct an isomorphism between a certain quotient bundle and the fourier counterpart of the original bundle defined by formal integration by parts. We also show that differential renormalization is an example of this technique.

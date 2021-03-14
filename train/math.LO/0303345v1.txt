@@ -1,0 +1,1 @@
+A class K of structures is controlled if for all cardinals lambda, the relation of L_{infty,lambda}-equivalence partitions K into a set of equivalence classes (as opposed to a proper class). We prove that no pseudo-elementary class with the independence property is controlled. By contrast, there is a pseudo-elementary class with the strict order property that is controlled.

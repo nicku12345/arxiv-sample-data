@@ -1,0 +1,1 @@
+We describe the computation of the mod-2 cohomology rings of all 2328 groups of order 128. One consequence is that all groups of order less than 256 satisfy the strong form of Benson's Regularity Conjecture.

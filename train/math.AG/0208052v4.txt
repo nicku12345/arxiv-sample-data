@@ -1,0 +1,1 @@
+In this article, we determine the explicit toric variety structure of \hl^{A_1(n)}(\CZ^n) for n=4,5, where A_1(n) is the special diagonal group of all order 2 elements. Through the toric data of \hl^{A_1(n)}(\CZ^n), we obtain certain toric crepant resolutions of \CZ^n/A_1(n), and the different crepant resolutions are connected by flops of n-folds for n=4,5.

@@ -1,0 +1,1 @@
+We define a notion of strong shift equivalence for C^*-correspondences and show that strong shift equivalent C^*-correspondences have strongly Morita equivalent Cuntz-Pimsner algebras. Our analysis extends the fact that strong shift equivalent square matrices with non-negative integer entries give stably isomorphic Cuntz-Krieger algebras.

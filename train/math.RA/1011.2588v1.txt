@@ -1,0 +1,1 @@
+In this paper we show that a certain algebra being a comodule algebra over the Taft Hopf algebra of dimension n^2 is equivalent to a set of identities related to the q-binomial coefficient, when q is a primitive n^{th} root of 1. We then give a direct combinatorial proof of these identities.

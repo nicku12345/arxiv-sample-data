@@ -1,0 +1,1 @@
+We use Khovanov-Rozansky gl(N) link homology to define invariants of oriented smooth 4-manifolds, as skein modules constructed from certain 4-categories with well-behaved duals. The technical heart of this construction is a proof of the sweep-around property, which makes these link homologies well defined in the 3-sphere.

@@ -1,0 +1,1 @@
+The Noether number of a representation is the largest degree of an element in a minimal homogeneous generating set for the corresponding ring of invariants. We compute the Noether number for an arbitrary representation of a cyclic group of prime order, and as a consequence prove the "2p-3 conjecture".

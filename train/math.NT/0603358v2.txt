@@ -1,0 +1,1 @@
+Let Q be a non-singular quadratic form with integer coefficients. When Q is indefinite we provide new upper bounds for the least non-trivial integral solution to the equation Q=0. When Q is positive definite we provide improved upper bounds for the least positive integer k such that the equation Q=k is insoluble in integers, despite being soluble modulo every prime power.

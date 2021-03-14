@@ -1,0 +1,1 @@
+The main result of the paper is the following theorem. Let q be a prime and A an elementary abelian group of order q^3. Suppose that A acts coprimely on a profinite group G and assume that C_G(a) is locally nilpotent for each a\in A^{\#}. Then the group G is locally nilpotent.

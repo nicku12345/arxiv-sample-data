@@ -1,0 +1,1 @@
+Given an abelian category, we characterize the long exact sequences of length six which can be obtained from the snake lemma. Equivalently, these are the long exact sequences which arise as the homology of a triangle in the corresponding derived bounded category.

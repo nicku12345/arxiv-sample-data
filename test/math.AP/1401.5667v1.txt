@@ -1,0 +1,1 @@
+For a wave equation with pure delay, we study an inhomogeneous initial-boundary value problem in a bounded 1D domain. Under smoothness assumptions, we prove unique existence of classical solutions for any given finite time horizon and give their explicit representation. Continuous dependence on the data in a weak extrapolated norm is also shown.

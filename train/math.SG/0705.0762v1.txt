@@ -1,0 +1,1 @@
+The purpose of this note is to study the bounded isometry conjecture proposed by Lalonde and Polterovich. In particular, we show that the conjecture holds for the Kodaira-Thurston manifold with the standard symplectic form and for the 4-torus with all linear symplectic forms.

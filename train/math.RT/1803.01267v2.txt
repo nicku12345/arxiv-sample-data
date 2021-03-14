@@ -1,0 +1,1 @@
+Spheres can be written as homogeneous spaces G/H for compact Lie groups in a small number of ways. In each case, the decomposition of L^2(G/H) into irreducible representations of G contains interesting information. We recall these decompositions, and see what they can reveal about the analogous problem for noncompact real forms of G and H.

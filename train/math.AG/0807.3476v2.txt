@@ -1,0 +1,1 @@
+We compute the symplectic reductions for the action of Sp_2n on several copies of C^2n and for all coregular representations of Sl_2. If it exists we give at least one symplectic resolution for each example. In the case Sl_2 acting on sl_2+C^2 we obtain an explicit description of Fu's and Namikawa's example of two non-equivalent symplectic resolutions connected by a Mukai flop.

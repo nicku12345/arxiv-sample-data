@@ -1,0 +1,1 @@
+We define the Simons-Sullivan differential analytic index by translating the Freed-Lott differential analytic index via explicit ring isomorphisms between Freed-Lott differential K-theory and Simons-Sullivan differential K-theory. We prove the differential Grothendieck-Riemann-Roch theorem in Simons-Sullivan differential K-theory using a theorem of Bismut.

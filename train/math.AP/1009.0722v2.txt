@@ -1,0 +1,1 @@
+In this short note, we prove a refinement of bilinear local smoothing estimate to Airy solutions, when the frequency support of two wave are separated. As an application we prove a smoothing property of a bilinear form.

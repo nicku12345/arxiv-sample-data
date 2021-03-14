@@ -1,0 +1,1 @@
+We extend the notion of free p-central groups for odd primes p to the case p=2 by introducing a variant of the lower p-central series. This enables us to calculate Schur multipliers of free p-central groups. We also prove that for any p-central group the exponent of its Schur multiplier divides the exponent of the group, and determine its exponential rank.

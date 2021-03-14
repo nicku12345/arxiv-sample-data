@@ -1,0 +1,1 @@
+We introduce a notion of quasi-weak equivalences associated with weak-equivalences in an exact category. It gives us a delooping for (idempotent complete) exact categories and a condition that the negative K-group of an exact category becomes trivial.

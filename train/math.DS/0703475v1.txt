@@ -1,0 +1,1 @@
+This paper deepens the connections between critically finite rational maps and finite subdivision rules. The main theorem is that if f is a critically finite rational map with no periodic critical points, then for any sufficiently large integer n the iterate f^n is the subdivision map of a finite subdivision rule.

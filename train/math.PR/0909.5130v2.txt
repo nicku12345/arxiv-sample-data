@@ -1,0 +1,1 @@
+Wiener integral for the coordinate process is defined under the  \sigma -finite measure unifying Brownian penalisations, which has been introduced by Najnudel, Roynette and Yor. Its decomposition before and after last exit time from 0 is studied. This study prepares for the author's recent study of Cameron--Martin formula for the  \sigma -finite measure.

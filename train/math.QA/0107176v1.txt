@@ -1,0 +1,1 @@
+A construction of the quantum affine algebra U_q(g) is given in two steps. We explain how to obtain the algebra from its positive Borel subalgebra U_q(b^+), using a construction similar to Drinfeld's quantum double. Then we show how the positive Borel subalgebra can be constructed with quantum shuffles.

@@ -1,0 +1,1 @@
+Let G be a finite group and \pi be a set of primes. We show that if the number of conjugacy classes of \pi-elements in G is larger than 5/8 times the \pi-part of |G| then G possesses an abelian Hall \pi-subgroup which meets every conjugacy class of \pi-elements in G. This extends and generalizes a result of W. H. Gustafson.

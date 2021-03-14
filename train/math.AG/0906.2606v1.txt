@@ -1,0 +1,1 @@
+In this note, we show that the cohomology groups of (virtually) nilpotent K\"ahler groups are naturally endowed with a mixed Hodge structure. These structures make the Hopf morphisms into mixed Hodge structures morphisms. We illustrate this fact with the study of known examples of non-abelian nilpotent K\"ahler groups.

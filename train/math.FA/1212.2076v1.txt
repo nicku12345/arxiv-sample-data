@@ -1,0 +1,1 @@
+We derive a number of equivalent criterions for the variable exponent Hardy type inequality |\frac{1}{x}\int_{0}^{x}f(t)dt|_{L^{p(.)}(0,1)}\leq C|f|_{L^{p(.)}(0,1)}; f\geq 0. to hold, whenever the exponent p:(0,1)\to (1,\infty) is increasing or decreasing near small neighborhood of the origin.

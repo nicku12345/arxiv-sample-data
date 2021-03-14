@@ -1,0 +1,1 @@
+We provide a systematic study of sesquilinear hermitian forms and a new proof of the calculus of some exponential sums defined with quadratic hermitian forms. The computation of the number of solutions of equations such as Tr(f(x)+v.x)=0 or Tr(f(x))=a allows us to construct codes and to obtain their parameters.

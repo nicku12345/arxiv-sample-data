@@ -1,0 +1,1 @@
+We classify the gauge-invariant ideals in the C*-algebras of infinite directed graphs, and describe the quotients as graph algebras. We then use these results to identify the gauge-invariant primitive ideals in terms of the structural properties of the graph, and describe the K-theory of the C*-algebras of arbitrary infinite graphs.

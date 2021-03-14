@@ -1,0 +1,1 @@
+We show that with any finite partially ordered set one can associate a matrix whose determinant factors nicely. As corollaries, we obtain a number of results in the literature about GCD matrices and their relatives. Our main theorem is proved combinatorially using nonintersecting paths in a directed graph.

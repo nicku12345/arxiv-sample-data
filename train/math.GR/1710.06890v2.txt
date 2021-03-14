@@ -1,0 +1,1 @@
+For G an algebraic group of type A_l over an algebraically closed field of characteristic p, we determine all irreducible rational representations of G in defining characteristic with dimensions \le (l+1)^s for s = 3, 4, provided that l > 18, l > 35 respectively. We also give explicit descriptions of the corresponding modules for s = 3.

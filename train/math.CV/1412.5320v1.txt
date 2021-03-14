@@ -1,0 +1,1 @@
+In the paper [1] considered a new class of quaternionic mappings, so-called G-monogenic mappings. In this paper we prove analogues of classical integral theorems of the holomorphic function theory: the Cauchy integral theorems for surface and curvilinear integrals, and the Cauchy integral formula for G-monogenic mappings.

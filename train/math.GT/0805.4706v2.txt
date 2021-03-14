@@ -1,0 +1,1 @@
+It is a very old conjecture that the crossing number of knots is additive under connected sum. In other words, if K#K' is the connected sum of knots K and K', then does the equality c(K#K') = c(K) + c(K') hold? We prove that c(K#K') is at most c(K) + c(K') and at least (c(K) + c(K'))/152.

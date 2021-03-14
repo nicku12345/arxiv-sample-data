@@ -1,0 +1,1 @@
+Let \mathbb{M}:=(M(X),p) be a direct summand of the motive associated with a geometrically split, geometrically variety over a field F satisfying the nilpotence principle. We show that under some conditions on an extension E/F, if \mathbb{M} is a direct summand of another motive M over an extension E, then \mathbb{M} is a direct summand of M over F.

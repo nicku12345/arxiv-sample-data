@@ -1,0 +1,1 @@
+An explicit expression of the k-th derivative of the Bessel function J_\nu(z), with respect to its order \nu, is given. Particularizations for the cases of positive or negative \nu are considered.

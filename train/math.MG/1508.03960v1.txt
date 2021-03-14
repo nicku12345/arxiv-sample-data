@@ -1,0 +1,1 @@
+We construct some example of a closed nondegenerate nonflexible polyhedron P in Euclidean 3-space that is the limit of a sequence of nondegenerate flexible polyhedra each of which is combinatorially equivalent to P. This implies that the set of flexible nondegenerate polyhedra combinatorially equivalent to P is not algebraic.

@@ -1,0 +1,1 @@
+Unary coding has found applications in data compression, neural network training, and in explaining the production mechanism of birdsong. Unary coding is redundant; therefore it should have inherent error correction capacity. An expression for the error correction capability of unary coding for the correction of single errors has been derived in this paper.

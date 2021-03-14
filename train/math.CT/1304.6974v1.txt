@@ -1,0 +1,1 @@
+Good colimits introduced by J. Lurie generalize transfinite composites and provide an important tool for understanding cofibrant generation in locally presentable categories. We will explore the relation of good colimits to transfinite composites further and show, in particular, how they eliminate the use of large objects in the usual small object argument.

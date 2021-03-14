@@ -1,0 +1,1 @@
+We show that for a commuting n-tuple of hermitian operators, with perfect spectrum, the essential centre of the algebra of operators commuting with the n-tuple mod a diagonalization ideal arises from the C*-algebra of the n-tuple. This answers a question for normal operators and the Hilbert-Schmidt class connected to K-theory for almost normal operators.

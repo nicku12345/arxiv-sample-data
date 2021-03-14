@@ -1,0 +1,1 @@
+In this paper, we introduce the notion of free-free-Boolean independence relation for triples of algebras. We define free-free-Boolean cumulants ans show that the vanishing of mixed cumulants is equivalent to free-free-Boolean independence. A free-free -Boolean central limit law is studied.

@@ -1,0 +1,1 @@
+In this article we charaterize the primes Fibonacci numbers of the form x^2 +ry^2, where r = 1, r is a prime positive integer number or r is a power of a prime positive integer, using techniques of combinatorics and numbers theory. We also evaluate some distances related to the Fibonacci numbers and function.

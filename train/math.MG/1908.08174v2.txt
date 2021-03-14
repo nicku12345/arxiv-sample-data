@@ -1,0 +1,1 @@
+Meyerson's Theorem says that all but at most 2 points of any Jordan loop are vertices of inscribed equilateral triangles. We show that for any Jordan loop there are uncountable many other triangle shapes for which this same result is true. Our result comes from taking the limit of a structural result about spaces of triangles inscribed in polygons.

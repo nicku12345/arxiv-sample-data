@@ -1,0 +1,1 @@
+We show that the solutions to the non-stationary Navier-Stokes equations in R^d, d=2,3 which are left invariant under the action of discrete subgroups of the orthogonal group O(d) decay much faster as |x|\to\infty or  t \to\infty than in the generic case and we compute, for each subgroup, the precise decay rates in space-time of the velocity field.

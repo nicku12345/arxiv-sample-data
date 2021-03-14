@@ -1,0 +1,1 @@
+In this paper we study the theory of cleft extensions for a weak bialgebra H. Among other results, we determine when two unitary crossed products of an algebra A by H are equivalent and we prove that if H is a weak Hopf algebra, then the categories of H-cleft extensions of an algebra A, and of unitary crossed products of A by H, are equivalent.

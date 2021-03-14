@@ -1,0 +1,1 @@
+Let S be a standard graded Artinian algebra over a field k. We identify constraints on the Hilbert function of S which are imposed by the hypothesis that S contains an exact pair of homogeneous zero divisors. As a consequence, we prove that if S is a compressed level algebra, then S does not contain any homogeneous zero divisors.

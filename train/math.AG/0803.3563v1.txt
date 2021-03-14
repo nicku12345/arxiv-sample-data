@@ -1,0 +1,1 @@
+Given an algebraic stack with quasiaffine diagonal, we show that each G_m-gerbe comes from a central separable algebra. In other words, Taylor's bigger Brauer group equals the etale cohomology in degree two with coefficients in G_m. This gives new results also for schemes. We use the method of twisted sheaves explored by de Jong and Lieblich.

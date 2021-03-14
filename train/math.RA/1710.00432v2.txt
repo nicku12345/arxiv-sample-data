@@ -1,0 +1,1 @@
+Kanel-Belov and Kontsevich's conjecture in \cite[Conjecture 1]{BeKo} is proved: The automorphism group of the n-th Weyl algebra is isomorphic to the Poisson automorphism group of the n-th Poisson Weyl algebra.

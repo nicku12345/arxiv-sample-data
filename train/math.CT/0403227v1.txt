@@ -1,0 +1,1 @@
+We prove that every finitary polynomial endofunctor of a category C has a final coalgebra if C is locally Cartesian closed, has finite disjoint coproducts and a natural number object. More generally, we prove that the category of coalgebras for such an endofunctor has all finite limits.

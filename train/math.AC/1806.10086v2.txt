@@ -1,0 +1,1 @@
+We prove several characterizations of Gorenstein rings in terms of vanishings of derived functors of certain modules or complexes whose scalars are restricted via contracting endomorphisms. These results can be viewed as analogues of results of Kunz (in the case of the Frobenius) and Avramov-Hochster-Iyengar-Yao (in the case of general contracting endomorphisms).

@@ -1,0 +1,1 @@
+We use Getzler's Gauss-Manin connection to prove the invariance of periodic cyclic cohomology for the smooth deformation of noncommutative tori. We explicitly calculate the parallel translation maps and use them to describe the behavior of the Chern-Connes pairing under this deformation.

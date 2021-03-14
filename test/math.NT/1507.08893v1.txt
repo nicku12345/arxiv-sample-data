@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the sum \sum_{n \leq N} d(n^2 - 1), where d(n) denotes the number of divisors of n. During the course of our proof, we also furnish an asymptotic formula for the sum \sum_{d \leq N} g(d), where g(d) denotes the number of solutions x in \mathbb{Z}_d to the equation x^2 \equiv 1 \mod d.

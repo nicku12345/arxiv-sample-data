@@ -1,0 +1,1 @@
+Recent progress in multilinear harmonic analysis naturally raises questions about the local behaviour of the best constant (or bound) in the general Brascamp--Lieb inequality as a function of the underlying linear transformations. In this paper we prove that this constant is continuous, but is not in general differentiable.

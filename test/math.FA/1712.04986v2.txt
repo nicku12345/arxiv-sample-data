@@ -1,0 +1,1 @@
+We define a general notion of "summability" of a set I\subseteq\mathbb{C^{N}} and show that some trivial condition necessary for a set to be summable, is also sufficient. We deduce some intresting corollaries.

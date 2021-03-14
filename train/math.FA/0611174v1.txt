@@ -1,0 +1,1 @@
+We discuss the most common types of weight functions in harmonic analysis and how they occur in \tfa . As a general rule, submultiplicative weights characterize algebra properties, moderate weights characterize module properties, Gelfand-Raikov-Shilov weights determine spectral invariance, and Beurling-Domar weights guarantee the existence of compactly supported test functions.

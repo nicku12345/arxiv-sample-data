@@ -1,0 +1,1 @@
+We consider the following question: Is Gorenstein homology a X-pure homology, in the sense defined by Warfield, for a class X of modules? Let GP denote the class of Gorenstein projective modules. We prove that over a commutative Noetherian ring R of finite Krull dimension, Gorenstein homology is a GP-pure homology if and only if R is virtually Gorenstein.

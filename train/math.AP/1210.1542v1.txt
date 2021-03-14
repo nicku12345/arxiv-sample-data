@@ -1,0 +1,1 @@
+In this paper we consider the periodic Benjemin-Ono equation. We will establish the invariance of the Gibbs measure associated to this equation, thus answering a question raised in Tzvetkov [20]. As an intermediate step, we also obtain a local well-posedness result in Besov-type spaces rougher than L^2, extending the L^2 well-posedness result of Molinet [14].

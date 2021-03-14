@@ -1,0 +1,1 @@
+A virtual string is a scheme of self-intersections of a closed curve on a surface. We study algebraic invariants of strings as well as two equivalence relations on the set of strings: homotopy and cobordism. We show that the homotopy invariants of strings form an infinite dimensional Lie group.   We also discuss connections between virtual strings and virtual knots.

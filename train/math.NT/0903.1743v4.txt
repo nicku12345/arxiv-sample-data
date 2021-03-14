@@ -1,0 +1,1 @@
+For a finite sequence of positive integers A=\{a_j\}_{j=1}^{k}, we prove a recursion for divisor function \sigma_{x}^{(A)}(n)=\sum_{d|n,\enskip d\in A}d^x. As a corollary, we give an affirmative solution of the problem posed in 1969 by D. B. Lahiri [3]: to find an identity for divisor function \sigma_x(n) similar to the classic pentagonal recursion in case of x=1.

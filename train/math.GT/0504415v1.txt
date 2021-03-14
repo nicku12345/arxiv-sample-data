@@ -1,0 +1,1 @@
+Let G be a graph in a 3-manifold M. We compress the pair (M,G) along admissible 2-spheres as long as possible. What we get is a root of (M,G). Our main result is that for any pair (M,G) the root exists and is unique. As a corollary we get an easy proof of Petronio's theorem on prime decompositions of 3-orbifolds.

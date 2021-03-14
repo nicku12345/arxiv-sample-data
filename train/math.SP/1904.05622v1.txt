@@ -1,0 +1,1 @@
+In this work, we find the asymptotic formulas for the sum of the negative eigenvalues smaller than -\varepsilon (\varepsilon >0) of a self-adjoint operator L which is defined by the following differential expression \ell(y)=-(p(x)y'(x))'-Q(x)y(x) with the boundary condition y(0) = 0 in the space in the space L_{2}(0,\infty ;H).

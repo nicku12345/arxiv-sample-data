@@ -1,0 +1,1 @@
+A proof more elementary than the original one is given for Moretti's theorem that the usual polar decomposition of real matrices when applied to an orthochronous proper Lorentz matrix yields just its standard rotation-boost decomposition. (The complex SL(2,C) analog is well-known.)

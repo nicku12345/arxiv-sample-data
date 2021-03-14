@@ -1,0 +1,1 @@
+The Dinitz conjecture states that, for each n and for every collection of n-element sets S_{ij}, an n\times n partial latin square can be found with the (i,j)\<th entry taken from S_{ij}. The analogous statement for (n-1)\times n rectangles is proven here. The proof uses a recent result by Alon and Tarsi and is given in terms of even and odd orientations of graphs.

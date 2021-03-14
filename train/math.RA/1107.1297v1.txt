@@ -1,0 +1,1 @@
+A twist property is developed which imparts certain properties on the twisted group algebra. These include an involution * satisfying (xy)*=y*x* and an inner product satisfying <xy,z> = <x,zy*> and <xy,z>=<y,x*z>. Examples of twisted group algebras having this property are the Cayley-Dickson algebras and Clifford algebras.

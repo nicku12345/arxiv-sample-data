@@ -1,0 +1,1 @@
+We show that the resulting manifold by r-surgery on the hyperbolic twist knot K_m, \, m \ge 2, has left-orderable fundamental group if the slope r satisfies the condition r \in (-4,2m) if m is even, and r \in [0,4] \cup (\frac{4m}{\omega}+4, 2m+4) if m is odd, where \omega>1 is the unique real solution of the equation x e^{x}=4m.

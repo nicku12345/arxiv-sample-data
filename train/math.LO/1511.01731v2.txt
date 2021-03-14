@@ -1,0 +1,1 @@
+We consider five divisibility orders on the Stone-\v{C}ech compactification \beta N. We find antichains of incompatible elements, and characterize maximal and minimal elements. The main result shows that two of these relations, \mid_L and \mid_{LN}, are strictly stronger than the Rudin-Keisler order.

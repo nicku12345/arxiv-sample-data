@@ -1,0 +1,1 @@
+We prove that for any regular kappa and mu > kappa below the first fix point (lambda = aleph_lambda) above kappa, there is a graph with chromatic number > kappa, and mu^kappa nodes but every subgraph of cardinality < mu has chromatic number less than or equal to kappa.

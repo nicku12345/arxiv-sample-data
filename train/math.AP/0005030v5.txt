@@ -1,0 +1,1 @@
+The Cauchy problem for the 1-dimensional Zakharov system is shown to be globally well-posed for large data which not necessarily have finite energy. The proof combines the local well-posedness result of Ginibre, Tsutsumi, Velo and a general method introduced by Bourgain to prove a similar result for nonlinear Schr\"odinger equations.

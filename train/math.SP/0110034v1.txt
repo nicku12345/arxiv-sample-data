@@ -1,0 +1,1 @@
+The flux-across-surfaces conjecture represents a corner stone in quantum scattering theory because it is the key-assumption needed to prove the usual relation between differential cross section and scattering amplitude. We improve a recent result [TDMB] by proving the conjecture also in presence of zero-energy resonances or eigenvalues, both in point and potential scattering.

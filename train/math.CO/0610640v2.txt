@@ -1,0 +1,1 @@
+We give a compact expression for the number of factorizations of any permutation into a minimal number of transpositions of the form (1 i). Our result generalizes earlier work of Pak in which substantial restrictions were placed on the permutation being factored.

@@ -1,0 +1,1 @@
+Motivated by finance and technical applications, the objective of this paper is to consider adaptive estimation of regression and density distribution based on Fourier-Legendre expansion, and construction of confidence intervals - also adaptive. The estimators are asymptotically optimal and adaptive in the sense that they can adapt to unknown smoothness.

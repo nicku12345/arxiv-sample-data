@@ -1,0 +1,1 @@
+We study the connections between subsurface projections in curve and arc complexes in fibered 3-manifolds and Agol's veering triangulation. The main theme is that large-distance subsurfaces in fibers are associated to large simplicial regions in the veering triangulation, and this correspondence holds uniformly for all fibers in a given fibered face of the Thurston norm.

@@ -1,0 +1,1 @@
+This paper describes a method for computing all F-pure ideals for a given Cartier map of a polynomial ring over a finite field.

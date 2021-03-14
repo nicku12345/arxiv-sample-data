@@ -1,0 +1,1 @@
+This very speculative sketch suggests that a theory of fundamental groupoids for tensor triangulated categories could be used to describe the ring of integers as the singular fiber in a family of ring-spectra parametrized by a structure space for the stable homotopy category, and that Bousfield localization might be part of a theory of `nearby' cycles for stacks or orbifolds.

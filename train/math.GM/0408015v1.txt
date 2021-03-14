@@ -1,0 +1,1 @@
+We provide a representation of the (signed) BMV-measure by stochastic means and prove positivity of the respective measures in dimension d=3 in several non-trivial cases by combinatorial methods.

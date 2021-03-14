@@ -1,0 +1,1 @@
+In topology there is a theorem of Atiyah, concerning K-theory of classifying space of connected compact Lie group. We consider an algebraic analogue of this theorem. We prove that for a split reductive algebraic group G over a field there is an isomorphism between K-theory of etale classifying space of group G and a completion of the G-equivariant K-theory of the base field.

@@ -1,0 +1,1 @@
+If X is a closed subspace of a Banach space L which embeds into a Banach lattice not containing \ell_\infty^n's uniformly and L/X contains \ell_\infty^n's uniformly, then X cannot have local unconditional structure in the sense of Gordon-Lewis (GL-{\sl l.u.st.}).

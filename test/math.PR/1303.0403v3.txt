@@ -1,0 +1,1 @@
+It is well known that an N-parameter d-dimensional Brownian sheet has no k-multiple points when (k-1)d>2kN, and does have such points when (k-1)d<2kN. We complete the study of the existence of k-multiple points by showing that in the critical cases where (k-1)d=2kN, there are a.s. no k-multiple points.

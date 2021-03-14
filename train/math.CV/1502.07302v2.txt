@@ -1,0 +1,1 @@
+A class of pseudoconvex domains in \mathbb{C}^{n} generalizing the Hartogs triangle is considered. The L^p boundedness of the Bergman projection associated to these domains is established, for a restricted range of p depending on the "fatness" of domains. This range of p is shown to be sharp.

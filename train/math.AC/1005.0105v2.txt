@@ -1,0 +1,1 @@
+This gives an alternate proof of the Theorem by the authors that shows the first Hilbert coefficient of parameter ideals in an unmixed Noetherian local ring is always negative unless the ring is Cohen--Macaulay.

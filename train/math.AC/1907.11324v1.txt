@@ -1,0 +1,1 @@
+In this paper we introduce the relative generalized minimum distance function (RGMDF for short) and it allows us to give an algebraic approach to the relative generalized Hamming weights of the projective Reed--Muller--type codes. Also we introduce the relative generalized footprint function and it gives a tight lower bound for the RGMDF which is much easier to compute.

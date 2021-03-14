@@ -1,0 +1,1 @@
+For a Noetherian local domain A, there exists an upper bound N_\tau(A) on the minimal number of generators of any height two ideal I for which A/I is Cohen-Macaulay of type \tau. More precisely, we may take N_\tau(A):=(\tau+1)e_{\text{h}}(A), where e_{\text{h}}(A) is the homological multiplicity of A.

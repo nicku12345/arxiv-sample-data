@@ -1,0 +1,1 @@
+We show how the integral formula of Poisson for holomorphic functions on the right half plane can be used to quickly evaluate certain integrals from the Table of Gradshteyn and Ryzhik. In addition, we prove a version of this formula for principal value integrals and use it in several interesting cases.

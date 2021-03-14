@@ -1,0 +1,1 @@
+We study methods for solving stochastic control problems of systems of forward-backward mean-field equations with delay, in finite or infinite horizon. Necessary and sufficient maximum principles under partial information are given. The results are applied to solve a recursive utility optimal problem

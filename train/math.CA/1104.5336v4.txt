@@ -1,0 +1,1 @@
+Given X,Y two Q-vector spaces, and f:X -> Y, we study under which conditions on the sets B_k\subseteq X, k=1,...,s, if \Delta_{h_1h_2... h_s}f(x)=0 for all x in X and h_k in B_k, k=1,2,...,s, then \Delta_{h_1h_2... h_s}f(x)=0 for all (x,h_1,...,h_s) in X^{s+1}.

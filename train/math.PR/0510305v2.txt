@@ -1,0 +1,1 @@
+A class of random discrete distributions P is introduced by means of a recursive splitting of unity. Assuming supercritical branching, we show that for partitions induced by sampling from such P a power growth of the number of blocks is typical. Some known and some new partition structures appear when P is induced by a Dirichlet splitting.

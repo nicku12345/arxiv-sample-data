@@ -1,0 +1,1 @@
+We propose and analyze a variation of the Euler scheme for state constrained ordinary differential inclusions under weak assumptions on the right-hand side and the state constraints. Convergence results are given for the space-continuous and the space-discrete versions of this scheme, and a numerical example illustrates in which sense these limits have to be interpreted.

@@ -1,0 +1,1 @@
+In this paper, we prove that the orbit space B and the Euler class of an action of the circle S^1 on X determine both the equivariant intersection cohomology of the pseudomanifold X and its localization. We also construct a spectral sequence converging to the equivariant intersection cohomology of X whose third term is described in terms of the intersection cohomology of B.

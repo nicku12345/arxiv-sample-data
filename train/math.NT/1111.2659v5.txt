@@ -1,0 +1,1 @@
+Let f be a completely multiplicative function that assumes values inside the unit disc. We show that if \sum_{n<x} f(n) \ll x/(\log x)^A, x>2, for some A>2, then either f(p) is small on average or f pretends to be \mu(n)n^{it} for some t.

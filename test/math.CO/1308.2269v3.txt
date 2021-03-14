@@ -1,0 +1,1 @@
+It was conjectured by Mkrtchyan, Petrosyan, and Vardanyan that every graph G with \Delta(G)-\delta(G) \le 1 has a maximum matching M such that any two M-unsaturated vertices do not share a neighbor. In this note, we confirm the conjecture for all k-regular simple graphs and also k-regular multigraphs with k\le 4.

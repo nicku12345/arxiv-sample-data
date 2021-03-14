@@ -1,0 +1,1 @@
+A Lie algebra over a field of characteristic 0 splits over its soluble radical and all complements are conjugate. I show that the splitting theorem extends to Leibniz algebras but that the conjugacy theorem does not.

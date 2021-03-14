@@ -1,0 +1,1 @@
+We develop a homotopy theory of L_\infty algebras based on the Lawrence-Sullivan construction, a complete differential graded Lie algebra which, as we show, satisfies the necessary properties to become the right cylinder in this category. As a result, we obtain a general procedure to algebraically model the rational homotopy type of non-connected spaces.

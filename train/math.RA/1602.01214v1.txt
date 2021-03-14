@@ -1,0 +1,1 @@
+Let E be the infinite dimensional Grassmann algebra over a finite field F of characteristic not 2. In this paper we deal with the homogeneous Z_2-gradings of E. In particular, we compute an exact value for the Z_2-graded homogeneous codimensions of E, and a lower and an upper bound for the Z_2-graded (non-homogeneous) codimensions of E for each of its Z_2-homogeneous grading.

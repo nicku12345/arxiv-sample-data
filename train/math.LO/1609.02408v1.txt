@@ -1,0 +1,1 @@
+In this paper, we formalize Sprague-Grundy theory for combinatorial games in bounded arithmetic. We show that in the presence of Sprague-Grundy numbers, a fairly weak axioms capture PSPACE.

@@ -1,0 +1,1 @@
+We use Mellin transforms to compute a full asymptotic expansion for the tail of the Laplace transform of the squared L^2-norm of any multiply-integrated Brownian sheet. Through reversion we obtain corresponding strong small-deviation estimates.

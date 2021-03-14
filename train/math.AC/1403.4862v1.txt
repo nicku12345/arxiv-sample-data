@@ -1,0 +1,1 @@
+In this paper, we prove a generalization of Green's Hyperplane Restriction Theorem to the case of modules over the polynomial ring, providing in particular an upper bound for the Hilbert function of the general linear restriction of a module M in a degree d by the corresponding Hilbert function of a lexicographic module.

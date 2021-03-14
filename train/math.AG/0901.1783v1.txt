@@ -1,0 +1,1 @@
+Let G be the fundamental group of the complement of the torus knot of type (m,n). This has a presentation G=<x,y|x^m=y^n>. We find the geometric description of the character variety X(G) of characters of representations of G into SL(2,C).

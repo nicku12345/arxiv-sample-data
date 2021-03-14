@@ -1,0 +1,1 @@
+We consider the generalized Hurwitz equation a_1x_1^2+ \cdots +a_nx_n^2 = dx_1 \cdots x_n-k and the Baragar-Umeda equation ax^2+by^2+cz^2=dxyz+e for solvability in integers.

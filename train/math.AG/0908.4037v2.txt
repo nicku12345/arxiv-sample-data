@@ -1,0 +1,1 @@
+There is a well known bijective correspondence between isomorphism classes of polystable vector bundles E with c_i(E)=0 for i\geq 1 on a smooth complex projective variety and equivalence classes of unitary representations of the fundamental group of the variety. We show that this bijective correspondence extends to smooth orbifolds.

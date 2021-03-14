@@ -1,0 +1,1 @@
+We investigate the relationships between the parabolic Harnack inequality, heat kernel estimates, some geometric conditions, and some analytic conditions for random walks with long range jumps. Unlike the case of diffusion processes, the parabolic Harnack inequality does not, in general, imply the corresponding heat kernel estimates.

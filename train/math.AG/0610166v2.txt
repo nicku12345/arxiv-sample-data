@@ -1,0 +1,1 @@
+We establish a, and conjecture further, relationship between the existence of subvarieties representing minimal cohomology classes on principally polarized abelian varieties, and the generic vanishing of certain sheaf cohomology. The main ingredient is the Generic Vanishing criterion of math.AG/0608127, based on the Fourier-Mukai transform.

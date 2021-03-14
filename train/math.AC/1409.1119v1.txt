@@ -1,0 +1,1 @@
+We investigate symmetry in the vanishing of Ext for finitely generated modules over local Gorenstein rings. In particular, we define a class of local Gorenstein rings, which we call AB rings, and show that for finitely generated modules M and N over an AB ring R, Ext^i_R(M,N)=0 for all i >> 0 if and only if Ext^i_R(N,M)=0 for all i >> 0.

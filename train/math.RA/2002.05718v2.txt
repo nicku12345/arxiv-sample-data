@@ -1,0 +1,1 @@
+We organize colored aromatic trees into a pre-Lie-Rinehart algebra (i.e. a flat torsion-free Lie-Rinehart algebra) endowed with a natural trace map, and show the freeness of this object among pre-Lie-Rinehart algebras with trace. This yields the algebraic foundations of aromatic B-series.

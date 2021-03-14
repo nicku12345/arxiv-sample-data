@@ -1,0 +1,1 @@
+A 2-uniform tolerance on a lattice is a compatible tolerance relation such that all of its blocks are 2-element. We characterize permuting pairs of 2-uniform tolerances on lattices of finite length. In particular, any two 2-uniform congruences on such a lattice permute.

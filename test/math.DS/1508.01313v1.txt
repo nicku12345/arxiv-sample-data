@@ -1,0 +1,1 @@
+We introduce a class of C^{1+\alpha} isolated nonuniformly hyperbolic sets \Lambda for which \sup_{\mu \in {\mathcal M}_f}\{h(\mu) - \chi^+(\mu)\} equals the rate of escape from \Lambda, where \chi^+(\mu) is the average of the sum of positive Lyapunov exponents counted with their multiplicity.

@@ -1,0 +1,1 @@
+We prove that H^2(SL_3(\mathbb{Z}[t]); \mathbb{Q}) is infinite dimensional. The proof follows an outline similar to recent results by Cobb, Kelly, and Wortman, using the Euclidean building for SL_3(\mathbb{Q}((t^{-1}))) and a Morse function from Bux-K\"ohl-Witzel.

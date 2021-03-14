@@ -1,0 +1,1 @@
+We use L^2 estimates for the \bar\partial equation to find geometric conditions on discrete interpolating varieties for weighted spaces A_p(\C) of entire functions such that | f(z)|\le Ae^{Bp(z)} for some A,B>0. In particular, we give a characterization when p(z)=e^{| z|} and more generally when \ln p(e^r) is convex and \ln p(r) is concave.

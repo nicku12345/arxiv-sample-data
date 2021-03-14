@@ -1,0 +1,1 @@
+The Navier--Stokes equation in the bidimensional torus is considered, with initial velocity and forcing term in suitable Besov spaces. Results of local existence and uniqueness are proven; under further restriction on the indexes defining the Besov speces involved, we prove global existence.

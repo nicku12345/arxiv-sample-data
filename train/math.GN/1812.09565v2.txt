@@ -1,0 +1,1 @@
+We show that every homeomorphism between closed measure zero subsets extends to a measure preserving auto-homeomorphism, whenever the Cantor set is endowed with a suitable probability measure. This is valid both for the standard product measure, as well as for the universal homogeneous rational measure.

@@ -1,0 +1,1 @@
+We show that every logmodular subalgebra of M_n(\mathbb{C}) is unitary equivalent to an algebra of block upper triangular matrices, which was conjectured in \cite{VM}. In particular, this shows that every unital contractive representation of a logmodular subalgebra of M_n(\mathbb{C}) is automatically completely contractive.

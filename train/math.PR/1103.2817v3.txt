@@ -1,0 +1,1 @@
+By constructing successful couplings for degenerate diffusion processes, explicit derivative formula and Harnack type inequalities are presented for solutions to a class of degenerate Fokker-Planck equations on \R^m\times\R^{d}. The main results are also applied to the study of gradient estimate, entropy/transportation-cost inequality and heat kernel inequalities.

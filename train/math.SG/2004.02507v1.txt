@@ -1,0 +1,1 @@
+Let G be an n-dimensional semisimple compact and connected Lie group acting on both the Lie algebra g of G and its dual g*. We show that a nondegenerate Killing form of G induces an Ad*-equivariant isomorphism of g onto g* which, in turn, induces by passage to quotients a symplectomorphism between adjoint and coadjoint orbit spaces of G.

@@ -1,0 +1,1 @@
+We derive a closed-form (infinite series) representation for the distribution of the ruin time for the Sparre Andersen model with exponentially distributed claims. This extends a recent result of Dickson et al. (2005) for such processes with Erlang inter-claim times. We illustrate our result in the cases of gamma and mixed exponential inter-claim time distributions.

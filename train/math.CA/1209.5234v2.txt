@@ -1,0 +1,1 @@
+In this paper we prove that the maximal L^p-regularity property on the interval (0,T), T>0, for Cauchy problems associated with the square root of Hermite, Bessel or Laguerre type operators on L^2(\Omega, d\mu; X), characterizes the UMD property for the Banach space X.

@@ -1,0 +1,1 @@
+Let p be a prime number. We compute the Yoneda extension algebra of GL_2 over an algebraically closed field of characteristic p by developing a theory of Koszul duality for a certain class of 2-functors, one of which controls the category of rational representations of GL_2 over such a field.

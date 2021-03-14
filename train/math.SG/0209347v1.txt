@@ -1,0 +1,1 @@
+We describe a relationship of the classical dynamical Yang-Baxter equation with the following elementary problem for Clifford algebras: Given a vector space V with quadratic form Q_V, how is the exponential of an element in \wedge^2(V) under exterior algebra multiplication related to its exponential under Clifford multiplication?

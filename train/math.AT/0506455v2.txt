@@ -1,0 +1,1 @@
+The aim of this paper is to gain explicit information about the multiplicative structure of l_*l, where l is the connective Adams summand. Our approach differs from Kane's or Lellmann's because our main technical tool is the MU-based Kuenneth spectral sequence. We prove that the algebra structure on l_*l is inherited from the multiplication on a Koszul resolution of l_*BP.

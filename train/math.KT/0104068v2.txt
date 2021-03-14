@@ -1,0 +1,1 @@
+We prove the existence of two long exact sequences relating the Hochschild cohomology of a triangular matrix algebra with the Hochschild homology of its component subalgebras. We also study the structure of the maps of the first sequence.

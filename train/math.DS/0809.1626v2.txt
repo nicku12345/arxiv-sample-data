@@ -1,0 +1,1 @@
+We study the directional entropy of rank one Z^d actions. We show that if the sequence of towers generating the action are rectangular in shape, then there is always a direction along which the directional entropy is zero. If the rectangles satisfy a "sub-exponential growth" condition, then we show that the directional entropy is zero in every direction.

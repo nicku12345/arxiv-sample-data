@@ -1,0 +1,1 @@
+The core of a projective dimension one module is computed explicitly in terms of Fitting ideals. In particular, our formula recovers previous work by R. Mohan on integrally closed torsionfree modules over a two-dimensional regular local ring.

@@ -1,0 +1,1 @@
+We give an elementary proof of a monotone selection principle which allows to pass from increasing nets to increasing sequences in the Hermitian part of a \sigma-finite von Neumann algebra. This is to be seen as a ``monotone version'' of first countability.

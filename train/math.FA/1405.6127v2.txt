@@ -1,0 +1,1 @@
+In this paper we present a new characterization of the Sobolev space W^{1,p}, 1<p<\infty which is a higher dimensional version of a result of Waterman. We also provide a new and simplified proof of a recent result of Alabern, Mateu and Verdera. Finally, we generalize the results to the case of weighted Sobolev spaces with respect to a Muckenhoupt weight.

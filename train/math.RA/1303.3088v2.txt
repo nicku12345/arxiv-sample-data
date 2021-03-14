@@ -1,0 +1,1 @@
+The matrix equation XA + AX^T = 0 was recently introduced by De Ter\'an and Dopico to study the dimension of congruence orbits. They reduced the study of this equation to a number of special cases, several of which have not been explicitly solved. In this note we obtain an explicit, closed-form solution in the difficult Type 0-I interaction case.

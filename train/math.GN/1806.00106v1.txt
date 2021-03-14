@@ -1,0 +1,1 @@
+We show that for any cardinal \omega<\kappa \leq \mathfrak{c} with cf(\kappa) > \omega, there are \mathfrak{c} many AD families whose \Psi-spaces are pairwise non-homeomorphic and they can be Luzin families or branch families of 2^\omega.

@@ -1,0 +1,1 @@
+It is shown that the Laplace transform of an Lp (1<p<=2) function defined on the positive semiaxis satisfies the Hausdorff-Young type inequality with a positive weight in the right complex half-plane if and only if the weight is a Carleson measure.

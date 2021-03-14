@@ -1,0 +1,1 @@
+We present an efficient algorithm for calculating the number of components of an integral lamination on an n-punctured disk, given its Dynnikov coordinates. The algorithm requires O(n^2M) arithmetic operations, where M is the sum of the absolute values of the Dynnikov coordinates.

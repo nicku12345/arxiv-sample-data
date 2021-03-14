@@ -1,0 +1,1 @@
+Let f(x,y)=0 be an equation of plane analytic curve defined in the neighborhood of the origin and let \pi:M\to(\Cn^2,0) be a local toric modification. We give a formula which connects a number of double points \delta_0(f) with a sum \sum_p \delta_p(\tilde f) which runs over all intersection points of the proper preimage of f=0 with the exceptional divisor.

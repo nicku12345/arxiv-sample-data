@@ -1,0 +1,1 @@
+The additive structure of the RO(C_{pq})-graded Bredon cohomology S^0 with coefficients in the constant Mackey functor was computed in \cite{BG19}. Using that computation, the ring structure in the positive degrees has been computed here. Further, we calculate the slices of the spectrum S^V \wedge H\uZ for any representation V.

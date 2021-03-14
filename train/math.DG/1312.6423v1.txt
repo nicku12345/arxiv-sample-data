@@ -1,0 +1,1 @@
+If f is a conformal mapping defined on a connected open subset of a Carnot group G, then either f is the composition of a translation, a dilation and an isometry, or G is the nilpotent Iwasawa component of a real rank 1 simple Lie group S, and f arises from the action of S on G, viewed as an open subset of S/P, where P is a parabolic subgroup of G and NP is open and dense in S.

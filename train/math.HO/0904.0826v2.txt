@@ -1,0 +1,1 @@
+It is well known that sin(a\pi/b), cos(a\pi/b), etc., are only rational numbers for a few select integers a and b. We show that this is equivalent to the fact that only for d = 1,2,3,4, and 6 is the primitive dth root of unity of degree 2 over Q.

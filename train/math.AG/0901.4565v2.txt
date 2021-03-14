@@ -1,0 +1,1 @@
+We prove that the sweeping components of the space of smooth rational curves in a smooth hypersurface of degree d in P^n are not uniruled if (n+1)/2 \leq d \leq n-3. We also show that for any positive integer e, the space of smooth rational curves of degree e in a general hypersurface of degree d in P^n is not uniruled when d \geq e \sqrt{n}.

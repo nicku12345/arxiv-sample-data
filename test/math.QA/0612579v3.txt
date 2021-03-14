@@ -1,0 +1,1 @@
+We define the notion of characteristic classes for supermanifolds endowed with a homological vector field Q. These take values in the cohomology of the Lie derivative operator L_Q acting on arbitrary tensor fields. We formulate a classification theorem for intrinsic characteristic classes and give their explicit description.

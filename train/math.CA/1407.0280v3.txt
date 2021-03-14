@@ -1,0 +1,1 @@
+Let \mathcal X be an RD-space, which means that \mathcal X is a space of homogeneous type in the sense of Coifman-Weiss with the additional property that a reverse doubling property holds in \mathcal X. The aim of the present paper is to study the product of functions in BMO and H^1 in this setting. Our results generalize some recent results in \cite{Feu} and \cite{LP}.

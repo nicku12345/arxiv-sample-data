@@ -1,0 +1,1 @@
+I give a rigorous construction of a 2-dimensional quantum field theory of maps from an elliptic curve to a compact complex manifold X, and I show that the partition function of this theory is the Witten genus of X. The results proved here were announced (in a slightly different form) in arXiv:1006.5422.

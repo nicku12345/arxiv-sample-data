@@ -1,0 +1,1 @@
+We study two actions of a stochastic flow \varphi_t on the space of 0-currents T of a differentiable manifold M. In particular, we give conditions on a current T to be invariant under these actions. Also, we apply our results to the case of 0-currents that come from harmonic measures associated to certain type of foliations on homogeneous spaces.

@@ -1,0 +1,1 @@
+We will define new constructions similar to the graph systems of correspondences described by Deaconu et al. We will use these to prove a version of Ionescu's theorem for higher rank graphs. Afterwards we will examine the properties of these constructions further and make contact with Yeend's topological k-graphs and the tensor groupoid valued product systems of Fowler and Sims.

@@ -1,0 +1,1 @@
+We study the time evolution of the Weyl symbol of a solution of the time dependent Hartree Fock equation, assuming that for t=0, it has a Weyl symbol which is integrable in the phase space, such as all its derivatives. We prove that the solution has the same property for all t, and we give an asymptotic expansion, in L1 sense, of this Weyl symbol.

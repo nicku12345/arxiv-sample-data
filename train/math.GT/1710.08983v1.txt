@@ -1,0 +1,1 @@
+Let N be a prime 3-manifold that is not a closed graph manifold. Building on a result of Hongbin Sun and using a result of Asaf Hadari we show that for every k\in\Bbb{N} there exists a finite cover \tilde{N} of N such that |\operatorname{Tor} H_1(\tilde{N};\Bbb{Z})|>k.

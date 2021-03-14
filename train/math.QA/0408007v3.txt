@@ -1,0 +1,1 @@
+We give a self-contained algebraic description of a formal symplectic groupoid over a Poisson manifold M. To each natural star product on M we then associate a canonical formal symplectic groupoid over M. Finally, we construct a unique formal symplectic groupoid `with separation of variables' over an arbitrary Kaehler-Poisson manifold.

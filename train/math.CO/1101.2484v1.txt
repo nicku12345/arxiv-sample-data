@@ -1,0 +1,1 @@
+We prove the existence of recurrent initial configurations for the rotor walk on many graphs, including Z^d, and planar graphs with locally finite embeddings. We also prove that recurrence and transience of rotor walks are invariant under changes in the starting vertex and finite changes in the initial configuration.

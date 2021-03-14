@@ -1,0 +1,1 @@
+We generalise theorems of Cochran-Lickorish and Owens-Strle to the case of links with more than one component. This enables the use of linking forms on double branched covers, Heegaard Floer correction terms, and Donaldson's diagonalisation theorem to complete the table of unlinking numbers for nonsplit prime links with crossing number nine or less.

@@ -1,0 +1,1 @@
+We give an informal exposition of pushforwards and orientations in generalized cohomology theories in the language of spectra. The whole note can be seen as an attempt at convincing the reader that Todd classes in Grothendieck-Hirzebruch-Riemann-Roch type formulas are not Devil's appearances but rather that things just go in the most natural possible way.

@@ -1,0 +1,1 @@
+We introduce a new -as far as we know- problem, according to which we are asked to match sequences of two digits in matrices having entries among those two digits (but others too) and prove that this problem is NP-complete

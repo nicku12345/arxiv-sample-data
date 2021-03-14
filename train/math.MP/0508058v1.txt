@@ -1,0 +1,1 @@
+Momentum map is a reduction procedure that reduces the dimension of a Hamiltonian system to the lower ones. It is shown that behavior of the action-angle variables under the momentum map generates the new action-angle variables for the reduced system considered as a Nambu structure. The symmetrical top is given as an illustration.

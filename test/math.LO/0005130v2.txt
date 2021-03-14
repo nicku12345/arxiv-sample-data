@@ -1,0 +1,1 @@
+We give an overview of the F-product construction and the corresponding nonstandard constructions for strongly continuous one-parameter semigroups of linear operators, and show that (in the case of bounded ultrapowers) both constructs are isomorphic. From this we also deduce a "classical" corollary about the nonexistace of certain semigroups.

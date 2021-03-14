@@ -1,0 +1,1 @@
+In this note we give a simple proof of the fact that local rings of dimension one have the strong uniform Artin-Rees property. Moreover, we give two examples of rings of dimension two where the property fails.

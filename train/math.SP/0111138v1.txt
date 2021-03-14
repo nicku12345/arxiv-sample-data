@@ -1,0 +1,1 @@
+We study the asymptotic of the spectrum of the \spin Dirac operator on high tensor powers of a line bundle. As application, we get a simple proof of the main result of Guillemin-Uribe, which was originally proved by using the analysis of Toeplitz operators of Boutet de Monvel and Guillemin.

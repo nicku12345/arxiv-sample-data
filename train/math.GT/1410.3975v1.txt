@@ -1,0 +1,1 @@
+A knot in the 3-sphere is called an L--space knot if it admits a nontrivial Dehn surgery yielding an L--space. Like torus knots and Berge knots, many L--space knots admit also a Seifert fibered surgery. We give a concrete example of a hyperbolic, L-space knot which has no exceptional surgeries, in particular, no Seifert fibered surgeries.

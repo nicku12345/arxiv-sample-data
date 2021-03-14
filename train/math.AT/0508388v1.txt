@@ -1,0 +1,1 @@
+A linear system of real quadratic forms defines a real projective variety. The real non-singular locus of this variety (more precisely of the underlying scheme) has a highly connected double cover as long as each non-zero form in the system has sufficiently high Witt index.

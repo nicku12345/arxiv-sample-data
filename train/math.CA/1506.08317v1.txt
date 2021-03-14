@@ -1,0 +1,1 @@
+We show that the Hilbert transform does not map L^1(M_{\Phi}w) to L^{1,\infty}(w) for every Young function \Phi growing more slowly than t\log\log ({\rm e}^{\rm e}+t). Our proof is based on a construction of M.C. Reguera and C. Thiele.

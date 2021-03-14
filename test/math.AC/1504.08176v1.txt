@@ -1,0 +1,1 @@
+This paper studies the structure of special preenvelopes and envelopes with respect to maximal Cohen-Macaulay modules. We investigate the structure of them in terms of their kernels and cokernels. Moreover, using this result, we also study the structure of special proper coresolutions with respect to maximal Cohen-Macaulay modules over a Henselian Cohen-Macaulay local ring.

@@ -1,0 +1,1 @@
+Let A be a finite dimensional associative algebra over a perfect field and let R be the radical of A. We show that for every one-sided ideal I of A there exists a semisimple subalgebra S of A such that I=I_{S}\oplus I_{R} where I_{S}=I\cap S. and I_{R}=I\cap R.

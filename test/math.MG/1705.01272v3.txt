@@ -1,0 +1,1 @@
+Two hexagons in the space are said to intersect heavily if their intersection consists of at least one common vertex as well as an interior point. We show that the number of hexagons on n points in 3-space without heavy intersections is o(n^2), under the assumption that the hexagons are "fat".

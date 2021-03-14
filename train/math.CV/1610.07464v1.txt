@@ -1,0 +1,1 @@
+We make use of the Bergman kernel function to study quadrature domains for square-integrable holomorphic functions of several variables. Emphasis is given to generalizing biholomorphic mapping properties of planar quadrature domains to the several-dimensional setting.

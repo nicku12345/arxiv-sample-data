@@ -1,0 +1,1 @@
+For each n let Y^n_t be a continuous time symmetric Markov chain with state space n^{-1} \Z^d. A condition in terms of the conductances is given for the convergence of the Y^n_t to a symmetric Markov process Y_t on \R^d. We have weak convergence of \{Y^n_t: t\leq t_0\} for every t_0 and every starting point. The limit process Y has a continuous part and may also have jumps.

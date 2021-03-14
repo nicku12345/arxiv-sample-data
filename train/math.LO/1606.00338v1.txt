@@ -1,0 +1,1 @@
+In various places in the literature it is stated that every separable linear order embeds into the real line. This is, however, not the case, at least not with respect to the usual definition of separability. We correct this misconception.

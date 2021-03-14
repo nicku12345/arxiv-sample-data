@@ -1,0 +1,1 @@
+In this paper, we show that any topological knot or link in S^1 \times S^2 sits on a planar page of an open book decomposition whose monodromy is a product of positive Dehn twists. As a consequence, any knot or link type in S^1 \times S^2 has a Legendrian representative having support genus zero. We also show this holds for some knots and links in the lens spaces L(p,1).

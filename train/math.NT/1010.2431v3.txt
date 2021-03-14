@@ -1,0 +1,1 @@
+We describe an algorithm to prove the Birch and Swinnerton-Dyer conjectural formula for any given elliptic curve defined over the rational numbers of analytic rank zero or one. With computer assistance we have proved the formula for 16714 of the 16725 such curves of conductor less than 5000.

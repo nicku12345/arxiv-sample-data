@@ -1,0 +1,1 @@
+Let A be an abelian variety defined over a number field k. Let P be a point in A(k) and let X be a subgroup of A(k). Gajda in 2002 asked whether it is true that the point P belongs to X if and only if the point (P mod p) belongs to (X mod p) for all but finitely many primes p of k. We answer negatively to Gajda's question.

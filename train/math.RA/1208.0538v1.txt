@@ -1,0 +1,1 @@
+In the paper, we establish Gr\"obner-Shirshov bases for semirings and commutative semirings. As applications, we obtain Gr\"obner-Shirshov bases and A. Blass's (1995) and M. Fiore -T. Leinster's (2004) normal forms of the semirings \mathbb{N}[x]/(x=1+x+x^2) and \mathbb{N}[x]/(x=1+x^2) with one generator x and one defining relation, correspondingly.

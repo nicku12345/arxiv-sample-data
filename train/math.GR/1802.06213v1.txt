@@ -1,0 +1,1 @@
+We answer a question raised by Lanier about the possibility of generating A_n and S_n with two elements of order k, where n \geqslant k \geqslant 3. We show that this can always be done apart from some clear exceptions.

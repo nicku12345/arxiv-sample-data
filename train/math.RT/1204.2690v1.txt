@@ -1,0 +1,1 @@
+We study multiplicities of unipotent characters in tensor products of unipotent characters of GL(n,q). We prove that these multiplicities are polynomials in q with non-negative integer coefficients. We study the degree of these polynomials and give a necessary and sufficient condition in terms of the representation theory of symmetric groups for these polynomials to be non-zero.

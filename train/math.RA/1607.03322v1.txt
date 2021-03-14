@@ -1,0 +1,1 @@
+Let \widehat{\Gamma} be the natural map given in \cite[\S1]{Oh12}. Here, we construct a deformation B_q of a Poisson algebra B_1 and a prime ideal P of B_q such that \widehat{\Gamma}(P) is not a Poisson prime ideal of B_1.

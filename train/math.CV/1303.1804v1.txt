@@ -1,0 +1,1 @@
+In this short note we show that \mathbb C^n\setminus\bar{\mathbb B^n} is not subelliptic for n \geq 3. This is done by proving a Hartogs type extension theorem for holomorphic vector bundles bundles.

@@ -1,0 +1,1 @@
+We prove that every embedding of K_{2n+1,2n+1} into \R^3 contains a non-split link of n-components. Further, given an embedding of K_{2n+1,2n+1} in \R^3, every edge of K_{2n+1,2n+1} is contained in a non-split n-component link in K_{2n+1,2n+1}.

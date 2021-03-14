@@ -1,0 +1,1 @@
+In this note we prove a version of the classical Schwarz lemma for the first eigenvalues of the Laplacian with Dirichlet boundary data. A key ingredient in our proof is an isoperimetric inequality for the first eigenfunction, due to Payne and Rayner, which we reinterpret as an isoperimetric inequality for a (singular) conformal metric on a bounded domain in the plane.

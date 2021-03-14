@@ -1,0 +1,1 @@
+In this paper we study the deductive properties of a family of 3-valued paraconsistent logics. We define a notion of standard sequent calculus and prove that there is no sound and complete standard sequent calculus for these logics. Moreover, we provide non-standard sound, complete and cut free sequent calculus for Paraconsistent Weak Kleene Logic using three-sided sequents.

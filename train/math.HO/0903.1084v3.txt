@@ -1,0 +1,1 @@
+These notes present an approach to obtaining monoid operations which are compatible with a given family of mappings in the sense that the mappings become left translations in the monoid. This can be applied to various situations such as the addition on the natural numbers and the integers as well as the concatenation of lists.

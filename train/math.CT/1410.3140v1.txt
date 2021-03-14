@@ -1,0 +1,1 @@
+We generalize the notion of stable equivalence of Morita type and define what is called "singular equivalence of Morita type with level". Such an equivalence of induces an equivalence between singular categories. We will also prove that a derived equivalence of standard type induces a singular equivalence of Morita type with level.

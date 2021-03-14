@@ -1,0 +1,1 @@
+I calculate characters of certain representations of loop groups based on non simply connected Lie groups. This gives a generalization of the Kac-Weyl character formula.

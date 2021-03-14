@@ -1,0 +1,1 @@
+We show that the maximal number of singular moves required to pass between any two regularly homotopic planar or spherical curves with at most n crossings, grows quadratically with respect to n. Furthermore, this can be done with all curves along the way having at most n+2 crossings.

@@ -1,0 +1,1 @@
+We present a few factorizations of polynomials over finite fields. These factorizations are related to traces, compositions of polynomials and binomial coefficients. As a corollary we obtain a description of all irreducible polynomials Q\in {\mathbb F}\_2[x] such that Q(1+x+x^2) (or Q(x+x^2)) remain irreducible.

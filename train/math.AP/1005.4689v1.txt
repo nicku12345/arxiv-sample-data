@@ -1,0 +1,1 @@
+Let f :\R\to\R be a continuous function. We prove that under some additional assumptions on f and A:\R\to\R_{+}, weak \Cuno solutions of the differential inequality -\diver(A(\abs{\nabla u})\nabla u)\ge f(u) on \RN are nonnegative. Some extensions of the result in the framework of subelliptic operators on Carnot Groups are considered.

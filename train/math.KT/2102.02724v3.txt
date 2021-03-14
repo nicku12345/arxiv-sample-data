@@ -1,0 +1,1 @@
+For each member \mathcal{A} of a family of linear cycle sets whose underlying abelian group is cyclic of order a power of a prime number, we compute all the central extensions of \mathcal{A} by an arbitrary abelian group.

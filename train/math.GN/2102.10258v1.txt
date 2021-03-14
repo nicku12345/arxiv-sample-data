@@ -1,0 +1,1 @@
+We define property A for fuzzy metric spaces in the sense of George and Veeramani, show that it is an invariant in the coarse category of fuzzy metric spaces, and provide characterizations of it for uniformly locally finite fuzzy metric spaces. We also show that uniformly locally finite fuzzy metric spaces with property A are coarsely embeddable into Hilbert space.

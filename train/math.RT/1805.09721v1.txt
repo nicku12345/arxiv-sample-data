@@ -1,0 +1,1 @@
+A formula for the partial trace of a full symmetrizer is obtained. The formula is used to provide an inductive proof of the well-known formula for the dimension of a full symmetry class of tensors.

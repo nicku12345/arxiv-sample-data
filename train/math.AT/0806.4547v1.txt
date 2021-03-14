@@ -1,0 +1,1 @@
+We examine the proof of a classical localization theorem of Bousfield and Friedlander and we remove the assumption that the underlying model category be right proper. The key to the argument is a lemma about factoring in morphisms in the arrow category of a model category.

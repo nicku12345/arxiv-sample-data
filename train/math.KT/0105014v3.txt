@@ -1,0 +1,1 @@
+This work is devoted to the study of the foundations of quantum K-theory, a K-theoretic version of quantum cohomology theory. In particular, it gives a deformation of the ordinary K-ring K(X) of a smooth projective variety X, analogous to the relation between quantum cohomology and ordinary cohomology. This new quantum product also gives a new class of Frobenius manifolds.

@@ -1,0 +1,1 @@
+We partly generalize the estimate for the rank of intersection of subgroups in free products of groups, proved earlier by S.V.Ivanov and W.Dicks, to the case of free amalgamated products of groups with normal finite amalgamated subgroup. We also prove that the obtained estimate is sharp and cannot be further improved when the amalgamated product contains an involution.

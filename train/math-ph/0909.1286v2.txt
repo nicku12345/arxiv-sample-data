@@ -1,0 +1,1 @@
+We introduce new hypergeometric series expansions of the solutions to the general Heun equation. The form of the Gauss hypergeometric functions used as expansion function differs from that used before. We derive three such expansions and further generate, by termination of the series, closed-form solutions for several sets of involved parameters.

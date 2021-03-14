@@ -1,0 +1,1 @@
+The three dot system is an action by homeomorphisms of \mathbb Z^2 on a compact space, which invariant measures are supposed to satisfy rigidity properties analoguous to the ones of invariant measures of angle doubling and tripling on the circle. For such measures, we establish a dichotomy which is related to percolation properties.

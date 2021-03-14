@@ -1,0 +1,1 @@
+Let M be a compact subset of a superreflexive Banach space. We prove that the Lipschitz-free space \mathcal{F}(M), the predual of the Banach space of Lipschitz functions on M, has the Pe{\l}czy\'nski's property (V^\ast). As a consequence, the Lipschitz-free space \mathcal{F}(M) is weakly sequentially complete.

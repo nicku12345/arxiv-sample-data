@@ -1,0 +1,1 @@
+We provide conditions for a category with a fiber functor to be equivalent to the category of representations of a linear differential algebraic group. This generalizes the notion of a neutral Tannakian category used to characterize the category of representations of a linear algebraic group.

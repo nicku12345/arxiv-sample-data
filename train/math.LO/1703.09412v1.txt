@@ -1,0 +1,1 @@
+It is known that semigroups are Ramsey algebras. This paper is an attempt to understand the role associativity plays in a binary system being a Ramsey algebra. Specifically, we show that the nonassociative Moufang loop of octonions is not a Ramsey algebra.

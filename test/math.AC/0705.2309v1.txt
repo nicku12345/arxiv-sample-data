@@ -1,0 +1,1 @@
+Let I be a monomial ideal of a polynomial ring R. In this paper we determine a number B such that \Ass (I^n/I^{n+1}) = \Ass (I^{B}/I^{B+1}) for all n\geq B.

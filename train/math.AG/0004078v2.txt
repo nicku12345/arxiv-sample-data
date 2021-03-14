@@ -1,0 +1,1 @@
+We prove a few uniform versions of the Mordell-Lang Conjecture and of the Shafarevich Conjecture for curves over function fields and their rational points. The main focus is on function fields having high transcendence degree over the complex numbers.

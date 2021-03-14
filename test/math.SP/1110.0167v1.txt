@@ -1,0 +1,1 @@
+We obtain estimate of the exponential decay rate of semigroup associated with second order linear differential equation u"+Du'+Au=0 in Hilbert space. We assume that A is a selfadjoint positive definite operator, D is an accretive sectorial operator and \Ree D\geq\delta A, \delta>0. We obtain a location of the spectrum of a pencil associated with linear differential equation.

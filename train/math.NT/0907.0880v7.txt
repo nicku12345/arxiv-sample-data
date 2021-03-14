@@ -1,0 +1,1 @@
+For every a\geq1 we give a recursion algorithm of building of set of solutions of equations of the form t(x+a)=t(x) and t(x+a)=1-t(x), where \{t(n)\} is Thue-Morse sequence. We pose an open problem and two conjectures.

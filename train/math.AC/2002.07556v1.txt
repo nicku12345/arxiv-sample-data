@@ -1,0 +1,1 @@
+For a Dedekind domain D, let \mathcal{P}(D) be the set of ideals of D that are radical of a principal ideal. We show that, if D,D' are Dedekind domains and there is an order isomorphism between \mathcal{P}(D) and \mathcal{P}(D'), then the rank of the class groups of D and D' is the same.

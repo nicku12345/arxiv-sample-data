@@ -1,0 +1,1 @@
+Let G be the group scheme SL_2 defined over a noetherian ring k. If G acts on a finitely generated commutative k-algebra A, then H^*(G,A) is a finitely generated k-algebra.

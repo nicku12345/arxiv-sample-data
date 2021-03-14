@@ -1,0 +1,1 @@
+In analogy with a recursive formula for the HOMFLY-PT polynomial of links given by Jaeger, we give a recursive formula for the graph polynomial introduced by Kauffman and Vogel. We show how this formula extends to the Khovanov-Rozansky graph homology.

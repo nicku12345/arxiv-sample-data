@@ -1,0 +1,1 @@
+We prove the Galois correspondence between the subgroups of a finite automorphism group G of a simple vertex operator algebra V and the vertex operator subalgebras of V containing the set V^G of G-invariants.

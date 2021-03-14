@@ -1,0 +1,1 @@
+We study the blow-up criterion of smooth solutions to the 3D MHD equations. By means of the Littlewood-Paley decomposition, we prove a Beale-Kato-Majda type blow-up criterion of smooth solutions via the vorticity of velocity only, i. e. \sup_{j\in\Z}\int_0^T\|\Delta_j(\na\times u)\|_\infty dt, where \Delta_j is a frequency localization on |\xi|\approx 2^j.

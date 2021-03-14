@@ -1,0 +1,1 @@
+It has been shown that the n-dimensional unit hypercube contains an n-dimensional regular simplex of edge length c\sqrt n for arbitrary c<1/2 if n is sufficiently large (Maehara, Ruzsa and Tokushige, 2009). We prove the same statement holds for some c>1/2 even in the special case where a regular simplex has the same barycenter as that of the unit hypercube.

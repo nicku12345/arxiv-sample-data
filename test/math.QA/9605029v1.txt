@@ -1,0 +1,1 @@
+We construct a representation of U_q(\widehat{sl}_2) at level -1/2 by using the bosonic Fock spaces. The irreducible modules are obtained as the kernel of a certain operator, in contrast to the construction by Feingold and Frenkel for q=1 where such a procedure is not necessary. We also bosonize the q-vertex operators associated with the vector representation.

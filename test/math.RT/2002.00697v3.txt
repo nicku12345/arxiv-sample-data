@@ -1,0 +1,1 @@
+We find and discuss an unexpected (to us) order n cyclic group of automorphisms of the Lie algebra I\mathfrak{u}_n := \mathfrak{u}_n\ltimes\mathfrak{u}_n^\ast, where \mathfrak{u}_n is the Lie algebra of upper triangular n\times n matrices. Our results also extend to gl_{n+}^\epsilon, a ``solvable approximation'' of gl_n, as defined within.

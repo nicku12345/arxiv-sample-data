@@ -1,0 +1,1 @@
+In this note we present a recipe which transforms any pull-push along a span of categories into a push-pull along a cospan and vice versa, based on a theorem from Guitart.

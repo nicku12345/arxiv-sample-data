@@ -1,0 +1,1 @@
+We obtain stability estimates (with explicit constants) for the near field from the far field of a radiating solution of the Helmholtz equation. These estimates are based on new bounds for Hankel functions and quantify increasing stability when the wave number grows.

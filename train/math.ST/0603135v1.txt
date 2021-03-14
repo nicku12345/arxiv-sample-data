@@ -1,0 +1,1 @@
+Classes of coordinate-invariant omnibus goodness-of-fit tests on compact Riemannian manifolds are proposed. The tests are based on Gin\'{e}'s Sobolev tests of uniformity. A condition for consistency is given. The tests are illustrated by an example on the rotation group \mathit{SO}(3).

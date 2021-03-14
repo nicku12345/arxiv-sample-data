@@ -1,0 +1,1 @@
+For any commutative ring A we introduce a generalization of S--artinian rings using a hereditary torsion theory \sigma instead of a multiplicative closed subset S\subseteq{A}. It is proved that if A is a totally \sigma--artinian ring, then \sigma must be of finite type, and A is totally \sigma--noetherian.

@@ -1,0 +1,1 @@
+In this paper we introduce a combinatorial formula for the Ekeland-Hofer-Zehnder capacity of a convex polytope in \mathbb{R}^{2n}. One application of this formula is a certain subadditivity property of this capacity.

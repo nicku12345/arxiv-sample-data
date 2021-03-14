@@ -1,0 +1,1 @@
+A line bundle with a base-point-free multiple is called semiample. I give a cohomological characterization of semiample line bundles. The result is a common generalization of the Fujita-Zariski criterion for semiampleness and the Grothendieck-Serre characterization of ampleness. Applying the Fujita-Zariski Theorem, I characterize contractible curves in 1-dimensional families.

@@ -1,0 +1,1 @@
+In this note we discuss symplectic lifts of actions for a complete Lagrangian fibration. Firstly, we describe the symplectic cotangent lifts of a G-action on a manifold Q in terms of 1-cocycles in the cohomology of G induced by the action with values in the space of closed 1-forms on Q. After this, we consider the general case of complete Lagrangian fibrations.

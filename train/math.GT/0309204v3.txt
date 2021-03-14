@@ -1,0 +1,1 @@
+Let N and P be smooth manifolds of dimensions n and p (n>=p>=2). Let Omega^{I}(N,P) denote an open subspace of J(N,P) which consists of all Boardman submanifolds Sigma^{J}(N,P) with J=< I in the lexicographic order. We will prove the homotopy principle in the existence level for Omega^{I}(N,P).

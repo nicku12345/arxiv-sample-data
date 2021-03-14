@@ -1,0 +1,1 @@
+We prove the convergence of (solid) ellipsoids to a Gaussian space in Gromov's concentration/weak topology as the dimension diverges to infinity. This gives the first discovered example of an irreducible nontrivial convergent sequence in the concentration topology, where 'irreducible nontrivial' roughly means to be not constructed from Levy families nor box convergent sequences.

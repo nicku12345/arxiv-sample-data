@@ -1,0 +1,1 @@
+A general method for establishing results over a commutative complete intersection local ring by passing to differential graded modules over a graded exterior algebra is described. It is used to deduce, in a uniform way, results on the growth of resolutions of complexes over such local rings.

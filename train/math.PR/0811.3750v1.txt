@@ -1,0 +1,1 @@
+A method of random integral representation, that is, a method of representing a given probability measure as the probability distribution of some random integral, was quite successful in the past few decades. In this note we show that a composition of two random integral mappings \J^\be is again a random integral mapping. We illustrate our results on some examples.

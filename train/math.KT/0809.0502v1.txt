@@ -1,0 +1,1 @@
+We compute the 5-local cohomology of a 5-local analogue of the Weierstrass Hopf algebroid used to compute tmf homology. We compute the Adams-Novikov differentials in the cohomology, giving the homotopy, V(0)-homology, and V(1)-homology of the putative spectrum eo_4. We also link this computation to the homotopy of the higher real K-theory spectrum EO_4.

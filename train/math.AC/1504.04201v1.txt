@@ -1,0 +1,1 @@
+We study the symbolic powers of the Stanley-Reisner ideal I_{B_n} of a bipyramid B_n over a n-gon Q_n. Using a combinatorial approach, based on analysis of subtrees in Q_n we compute the Waldschmidt constant of I_{B_n}.

@@ -1,0 +1,1 @@
+Let G be a group and Out_c(G) be the group of its class-preserving outer automorphisms. We compute |Out_c(G)| for all the group G of order p^6, where p is an odd prime. As an application, we observe that if G is a \CYRSH-rigid group of order p^6, then it's Bogomolov multiplier B_0(G) is zero.

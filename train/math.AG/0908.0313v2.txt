@@ -1,0 +1,1 @@
+Let G be Sl_n, Sp(2n) or SO(2n). We consider the moduli space M of semistable principal G-bundles over a curve X. Our main result is that if U is a Zariski open subset of M then there is no universal bundle on U\times X.

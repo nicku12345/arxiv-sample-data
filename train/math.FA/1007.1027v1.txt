@@ -1,0 +1,1 @@
+We define lacunary Fourier series on a compact connected semisimple Lie group G. If f \in L^1(G) has lacunary Fourier series, and vanishes on a non empty open set, then we prove that f vanishes identically. This may be viewed as a qualitative uncertainty principle.

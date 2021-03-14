@@ -1,0 +1,1 @@
+We prove that every unital stably finite simple amenable C^*-algebra A with finite nuclear dimension and with UCT such that every trace is quasi-diagonal has the property that A\otimes Q has generalized tracial rank at most one, where Q is the universal UHF-algebra. Consequently, A is classifiable in the sense of Elliott.

@@ -1,0 +1,1 @@
+In the paper, it is proved that any C^{1}-function on GL(n) which is locally P-invariant (here P is the affine (sub)group of GL(n)) is locally G-invairant. There is also a statement for distributions (a very weak form of Baruch's results).

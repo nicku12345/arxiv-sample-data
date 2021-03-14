@@ -1,0 +1,1 @@
+By using lower bound conditions of the L\'evy measure, derivative formulae and Harnack inequalities are derived for linear stochastic differential equations driven by L\'evy processes. As applications, explicit gradient estimates and heat kernel inequalities are presented. As byproduct, a new Girsanov theorem for L\'evy processes is derived.

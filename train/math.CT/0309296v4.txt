@@ -1,0 +1,1 @@
+We give examples of pairs (G1,G2) where G1 is a Grothendieck category and G2 a full Grothendieck subcategory of G1, the inclusion G2 --> G1 being denoted i, for which R^+i : D^+G2 --> D^+G1 (or even Ri : DG2 --> DG1) is a full embedding. This yields generalizations of some results of Bernstein and Lunts, and of Cline, Parshall and Scott.

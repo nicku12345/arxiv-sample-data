@@ -1,0 +1,1 @@
+Let G be an abelian p-group sum of finite homocyclic groups Gi. Here, we determine in which cases the automorphism group of G splits over ker(h), where h: Aut(G)-->Xi Aut(Gi/pGi) is the natural epimorphism.

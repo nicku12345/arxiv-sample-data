@@ -1,0 +1,1 @@
+Let M be a surface and R an involution in M whose set of fixed points is a submanifold with dimension 1 and such that R is an isometry. We will show that there is a residual subset of C1 area-preserving R-reversible diffeomorphisms which are either Anosov or have zero Lyapunov exponents at almost every point.

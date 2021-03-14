@@ -1,0 +1,1 @@
+This is a detailed and self-contained introduction to the real number system from a categorical perspective. We begin with the categorical definition of the natural numbers, review the Eudoxus theory of ratios as presented in Book V of Euclid, and then use these classical results to define the positive real numbers categorically.

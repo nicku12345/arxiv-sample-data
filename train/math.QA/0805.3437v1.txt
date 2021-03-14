@@ -1,0 +1,1 @@
+Let H be a Hopf algebra with bijective antipode, let \alpha, \beta be two Hopf algebra automorphisms of H and M a finite dimensional (\alpha, \beta )-Yetter-Drinfeld module. We prove that End(M) endowed with certain structures becomes an H-Azumaya algebra, and the set of H-Azumaya algebras of this type is a subgroup of BQ(k, H), the Brauer group of H.

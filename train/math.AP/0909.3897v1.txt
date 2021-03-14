@@ -1,0 +1,1 @@
+In the present note, we address the question about behavior of L_3-norm of the velocity field as time t approaches blow-up time T. It is known that the upper limit of the above norm must be equal to infinity. We show that, for blow-ups of type I, the lower limit of L_3-norm equals to infinity as well.

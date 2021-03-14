@@ -1,0 +1,1 @@
+We investigate how one can detect the dualizing property for a chain complex over a commutative local noetherian ring R. Our focus is on homological properties of contracting endomorphisms of R, e.g., the Frobenius endomorphism when R contains a field of positive characteristic.

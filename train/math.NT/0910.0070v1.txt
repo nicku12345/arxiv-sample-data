@@ -1,0 +1,1 @@
+A recent article of Berndt and Yee found congruences modulo 3^k for certain ratios of Eisenstein series. For all but one of these, we show there are no simple congruences a(pn+c) = 0 modulo p when p>= 13 is prime. This follows from a more general theorem on the non-existence of congruences in (E_2^r)(E_4^s)(E_6^t) where r is non-negative and r,s,t are integers.

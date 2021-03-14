@@ -1,0 +1,1 @@
+In this paper, first some results of [5] are extended for subadditive separating maps between C(X;E) and C(Y;E), such that E is a unital Banach algebra. Then we give some conditions under which a strongly subadditive map has a unique fixed point. Finally as an application the existence and uniqueness of solution for a nonlinear integral equation is discussed.

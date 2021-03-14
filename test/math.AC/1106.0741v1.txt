@@ -1,0 +1,1 @@
+Given two determinantal rings over a field k. We consider the Rees algebra of the diagonal ideal, the kernel of the multiplication map. The special fiber ring of the diagonal ideal is the homogeneous coordinate ring of the join variety. When the Rees algebra and the Symmetric algebra coincide, we show that the Rees algebra is Cohen-Macaulay.

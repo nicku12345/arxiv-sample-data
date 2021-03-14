@@ -1,0 +1,1 @@
+The aim of this paper is the computing one of topological indices of One-pentagonal carbon Nanocone. One-pentagonal carbon nanocone consists of one pentagone as its core surrounded by layers of hexagons .if there are n layers,then the graph of this molecules is denoted by G_n .In This paper our aim is to calculate the hyper-Wiener index of G_n explicitly .

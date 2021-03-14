@@ -1,0 +1,1 @@
+We prove that the elements A_\leq defined by Lusztig in a completion of the periodic module actually live in the periodic module, in the type A case. In order to prove this, we compare, using Schur duality, these elements with the Kashiwara canonical basis of an integrable module.

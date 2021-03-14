@@ -1,0 +1,1 @@
+We consider the function f(g) that assigns to an orientable surface M of genus g the maximal number of free commuting independent involutions on M. We show that the surface of minimal genus g with f(g)=n is a real moment-angle complex R_K, where K is the boundary of an (n+2)-gon. The genus is given by the formula g = 1 + 2^{n-1}(n-2).

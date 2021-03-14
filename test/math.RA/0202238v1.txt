@@ -1,0 +1,1 @@
+This paper gives a necessary and sufficient condition for robust D-stability of Polytopic Polynomial Matrices. Edge theorem is extended to multi-input-multi-output case.

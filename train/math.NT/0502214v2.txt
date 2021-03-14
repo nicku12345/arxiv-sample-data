@@ -1,0 +1,1 @@
+This note provides new methods for constructing quadratic nonresidues in finite fields of characteristic p. It will be shown that there is an effective deterministic polynomial time algorithm for constructing quadratic nonresidues in finite fields.

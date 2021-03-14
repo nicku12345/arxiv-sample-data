@@ -1,0 +1,1 @@
+We define torsion pairs for quasi-abelian categories and give several characterisations. We show that many of the torsion theoretic concepts translate from abelian categories to quasi-abelian categories. As an application, we generalise the recently defined algebraic Harder-Narasimhan filtrations to quasi-abelian categories.

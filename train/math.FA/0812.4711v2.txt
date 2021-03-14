@@ -1,0 +1,1 @@
+We prove quasiminimality of the regular mixed Tsirelson spaces T[(S_n,\theta_n)_n] with the sequence (\frac{\theta_n}{\theta^n})_n decreasing, where \theta=\lim_n \theta_n^{1/n}, and quasiminimality of all mixed Tsirelson spaces T[(A_n,\theta_n)_n]. We prove that under certain assumptions on the sequence (\theta_n)_n the dual spaces are quasiminimal.

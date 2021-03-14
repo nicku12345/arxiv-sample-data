@@ -1,0 +1,1 @@
+In this paper we study a linear model of spatially inhomogeneous Boltzmann equation without angular cutoff. Using the multiplier method introduced by F. H\'{e}rau and K. Pravda-Starov (2011), we establish the optimal global hypoelliptic estimate with weights for the linear model operator

@@ -1,0 +1,1 @@
+It is well known that for standard Brownian motion  \{B(t), \;t \geq 0\} with values in \mathbb{R}^d its convex hull  V(t)=\conv \{\{\,B(s),\;s \leq t \} with probability 1 contains 0 as an interior point for each t > 0 (see \cite{E}). The aim of this note is to state the analoguos property for d-dimensional fractional Brownian motion.

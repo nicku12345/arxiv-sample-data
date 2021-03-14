@@ -1,0 +1,1 @@
+We prove an effective version of a celebrated result of Eskin and Masur: for any affine invariant manifold of translation surfaces, almost every translation surface has quadratic growth for the saddle connection holonomy vectors, with an effective bound of the error. We also provide effective versions of counting in sectors and in ellipses.

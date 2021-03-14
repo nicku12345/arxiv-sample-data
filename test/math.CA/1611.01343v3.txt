@@ -1,0 +1,1 @@
+In this paper, we will give a C^{1,\beta}-regularity result on the boundary for two dimensional sliding almost minimal sets in \mathbb{R}^3. This effect may lead to the existence of a solution to the Plateau problem with sliding boundary conditions proposed by Guy David in \cite{David:2014p} in the case that the boundary is a 2-dimensional smooth manifold.

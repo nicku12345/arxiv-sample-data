@@ -1,0 +1,1 @@
+We prove that if f:I\subset \Bbb R\to \Bbb R is of bounded variation, then the noncentered maximal function Mf is absolutely continuous, and its derivative satisfies the sharp inequality \|DMf\|_1\le |Df|(I). This allows us obtain, under less regularity, versions of classical inequalities involving derivatives.

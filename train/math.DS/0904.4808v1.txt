@@ -1,0 +1,1 @@
+It is shown that each subset of positive integers that contains 2 is realizable as the set of essential values of the multiplicity function for the Koopman operator of some weakly mixing transformation.

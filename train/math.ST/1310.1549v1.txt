@@ -1,0 +1,1 @@
+We provide an elementary proof of the lower bound for the variance of continuous unimodal distributions and obtain analogous bounds for the higher order central moments. A lower bound for the rth central moment of discrete distribution is given and compared favorably with a related bound for discrete unimodal distribution in literature.

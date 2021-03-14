@@ -1,0 +1,1 @@
+We revisit and improve Alex Heller's results on the stabilization of derivators in Stable Homotopy Theories and Stabilization (J Pure Appl Algebra, 115(2):113-130, 1997), recovering his results entirely. Along the way we give some details of the localization theory of derivators and prove some new results in that vein.

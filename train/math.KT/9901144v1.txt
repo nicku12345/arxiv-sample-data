@@ -1,0 +1,1 @@
+Studies the cohomology of p-central, powerful, p-groups with a certain extension property. These groups are naturally associated to Lie algebras. The paper develops a machinery that calculates the first few terms of the Bockstein spectral sequence in terms of the associated Lie algebras. This is then used to obtain results on the integral cohomology of these groups.

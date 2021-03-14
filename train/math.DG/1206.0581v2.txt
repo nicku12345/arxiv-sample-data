@@ -1,0 +1,1 @@
+In the present paper we establish the necessary and sufficient conditions for two ordinary differential equations of the form y"{}^2+A(x,y,y') y"+B(x,y,y')=0 to be equivalent under the action of the pseudogroup of contact transformations. These conditions are formulated in terms of integrals of some one-dimensional distributions.

@@ -1,0 +1,1 @@
+We prove that for any regulated function f:\left[a,b\right]\rightarrow\mathbb{R} and c\geq 0 the infimum of the total variations of functions approximating f with accuracy c/2 is equal \int_{\mathbb{R}} n_{c}^{y} \mathrm{d} y, where n_{c}^{y} is the number of times that f crosses the interval [y,y+c].

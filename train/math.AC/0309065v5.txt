@@ -1,0 +1,1 @@
+An integer partition \lambda of n corresponds, via its Ferrers diagram, to an artinian monomial ideal I of colength n in the polynomial ring on two variables. If the partition \lambda corresponds to an integrally closed ideal we call \lambda concave. We study generating functions for the number of concave partitions, unrestricted or with at most r parts.

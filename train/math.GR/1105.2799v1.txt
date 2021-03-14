@@ -1,0 +1,1 @@
+If G is a solvable group, we take \Delta (G) to be the character degree graph for G with primes as vertices. We prove that if \Delta (G) is a square, then G must be a direct product.

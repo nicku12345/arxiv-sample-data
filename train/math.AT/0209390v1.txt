@@ -1,0 +1,1 @@
+We calculate the integral cohomology ring structure for various members of the Bianchi group family. The main tools we use are the Bockstein spectral sequence and a long exact sequence derived from Bass-Serre theory.

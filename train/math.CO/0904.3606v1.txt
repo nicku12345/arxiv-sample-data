@@ -1,0 +1,1 @@
+We classify all the possible delta-vectors of d-dimensional integral convex polytopes whose volumes are less than or equal to 3/(d!).

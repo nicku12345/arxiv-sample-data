@@ -1,0 +1,1 @@
+We prove that the homogeneous hierarchical Anderson model exhibits a Lifshits tail at the upper edge of its spectrum. The Lifshits exponent is given in terms of the spectral dimension of the homogeneous hierarchical structure. Our approach is based on Dirichlet-Neumann bracketing for the hierarchical Laplacian and a large-deviation argument.

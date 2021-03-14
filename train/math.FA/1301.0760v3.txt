@@ -1,0 +1,1 @@
+We show analogues of the classical Krein-Milman theorem for several ordered algebraic structures, especially in a semilattice (non-linear) framework. In that case, subsemilattices are seen as convex subsets, and for our proofs we use arguments from continuous lattice theory and abstract convexity theory.

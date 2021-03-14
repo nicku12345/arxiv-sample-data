@@ -1,0 +1,1 @@
+In this paper we prove that in the class of metric measure spaces with Alexandrov curvature bounded from below the Riemannian curvature-dimension condition RCD(K,N) with K\in \mathbb{R} and N\in [1,\infty) is preserved under doubling and gluing constructions.

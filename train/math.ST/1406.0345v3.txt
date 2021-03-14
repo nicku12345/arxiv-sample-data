@@ -1,0 +1,1 @@
+We introduce a class of logarithmic Lambert W random variables for a specific family of distributions. In particular, we characterize the log-Lambert W random variables for chi-squared distributions which naturally appear in the likelihood based inference of normal random variables.

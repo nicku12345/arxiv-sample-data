@@ -1,0 +1,1 @@
+We clarify and generalize the ant on a rubber rope paradox, which is a mathematical puzzle with a solution that appears counterintuitive. In this paper, we show that the ant can still reach the end of the rope even if we consider the step length of the ant and stretching length of the rubber rope as random variables.

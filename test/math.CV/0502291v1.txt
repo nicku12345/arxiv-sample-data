@@ -1,0 +1,1 @@
+A generalization to the almost complex setting of a well-known result by S. Webster is given. Namely, we prove that if \Gamma is a strongly pseudoconvex hypersurface in an almost complex manifold (M, J), then the conormal bundle of \Gamma is a totally real submanifold of (T^*M, \J), where \J is the lifted almost complex structure on T^*M defined by Ishihara and Yano.

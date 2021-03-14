@@ -1,0 +1,1 @@
+Normaliz is a program for solving linear systems of inequalities. In this paper we present the algorithms implemented in the program, starting with version 2.0.

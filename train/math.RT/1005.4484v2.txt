@@ -1,0 +1,1 @@
+The purpose of this note is to verify that the archimedean multiplicity one theorems shown for orthogonal groups (as well as general linear and unitary groups) in a previous paper of the authors remain valid for special orthogonal groups. The necessary ingredients to establish this variant are due to Waldspurger.

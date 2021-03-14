@@ -1,0 +1,1 @@
+This paper discusses a general Aitken delta-squared generalized Jungck-modified iterative scheme. The study applies generalized versions of Aitken delta squared procedure and Venter theorem to discuss positivity and global stability of the generalized Jungck iterative scheme which is of interest in numerical methods and its acceleration of convergence.

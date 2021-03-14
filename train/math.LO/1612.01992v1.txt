@@ -1,0 +1,1 @@
+We expand FLew with a unary connective whose algebraic counterpart is the operation that gives the greatest complemented element below a given argument. We prove that the expanded logic is conservative and has the Finite Model Property. We also prove that the corresponding expansion of the class of residuated lattices is an equational class.

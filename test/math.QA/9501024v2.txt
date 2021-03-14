@@ -1,0 +1,1 @@
+A new notion of an optimum first order calculi was introduced in [Borowiec, Kharchenko and Oziewicz, 1993]. A module of vector fields for a coordinate differential is defined. Some examples of optimal algebras for homogeneous bimodule commutations are presented. Classification theorem for homogeneous calculi with commutative optimal algebras in two variables is proved.

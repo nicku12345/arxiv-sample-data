@@ -1,0 +1,1 @@
+We show that the category of Poisson manifolds and Poisson maps, the category of symplectic microgroupoids and lagrangian submicrogroupoids (as morphisms), and the category of monoids and monoid morphisms in the microsymplectic category are equivalent symmetric monoidal categories.

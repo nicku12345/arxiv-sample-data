@@ -1,0 +1,1 @@
+We establish a series of criteria on the existence of regular solutions for the Dirichlet problem to general degenerate Beltrami equations {\bar{\partial}}f = \mu {\partial f}+\nu {\bar{\partial f}} in arbitrary Jordan domains in \C.

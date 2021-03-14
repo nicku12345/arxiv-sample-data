@@ -1,0 +1,1 @@
+We present a proof of the formula, due to Mellit and Brunault, which evaluates an integral of the regulator of two modular units to the value of the L-series of a modular form of weight 2 at s=2. Applications of the formula to computing Mahler measures are discussed.

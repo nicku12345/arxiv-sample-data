@@ -1,0 +1,1 @@
+Using methods developed by Robinson, we find a complete theory suitable for a first order description of infintesimal neighborhoods. We use this to construct a specialisation having universal properties and to find a recursively enumerable model in which the algebraic version of Bezout's theorem is provable by non-standard methods.

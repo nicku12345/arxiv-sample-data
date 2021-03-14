@@ -1,0 +1,1 @@
+We show that that the jackknife variance estimator v_{jack} and the the infinitesimal jackknife variance estimator are asymptotically equivalent if the functional of interest is a smooth function of the mean or a smooth trimmed L-statistic. We calculate the asymptotic variance of v_{jack} for these functionals.

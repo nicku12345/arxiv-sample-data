@@ -1,0 +1,1 @@
+We classify all non-affine Hopf algebras H over an algebraically closed field k of characteristic zero that are integral domains of Gelfand-Kirillov dimension two and satisfy the condition \text{Ext}^1_H(k, k) \neq 0. The affine ones were classified by the authors in 2010.

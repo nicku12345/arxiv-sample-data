@@ -1,0 +1,1 @@
+This paper presents a backfitting-type method for estimating and forecasting a periodically correlated partially linear model with exogeneous variables and heteroskedastic input noise. A rate of convergence of the estimator is given. The results are valid even if the period is unknown.

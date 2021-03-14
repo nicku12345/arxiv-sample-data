@@ -1,0 +1,1 @@
+A formula for the Arf invariant of a link is given in terms of the singularities of an immersed surface bounded by the link. This is applied to study the computational complexity of quantum invariants of 3--manifolds.

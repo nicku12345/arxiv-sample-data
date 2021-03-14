@@ -1,0 +1,1 @@
+We define a signed count of real rational pseudo-holomorphic curves appearing in a one-parameter family of real Spin symplectic K3 surfaces. We show that this count is an invariant of the deformation class of the family. In the case of a real projective K3 surface, this invariant specializes to count real rational curves appearing in a linear system on the surface.

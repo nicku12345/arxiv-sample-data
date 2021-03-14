@@ -1,0 +1,1 @@
+An algorithm to compute a good basis of the Brieskorn lattice of a cohomologically tame polynomial is described. This algorithm is based on the results of C. Sabbah and generalizes the algorithm by A. Douai for convenient Newton non-degenerate polynomials.

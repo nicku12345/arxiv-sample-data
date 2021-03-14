@@ -1,0 +1,1 @@
+We state and prove a classical version of the Laplace expansion theorem where all submatrices in the expansion are restricted to contain a specified common submatrix (CSM). The result states that (accounting for signs) this restricted expansion equals the determinant of the original matrix times the determinant of the CSM.

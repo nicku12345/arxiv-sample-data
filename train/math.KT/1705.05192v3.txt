@@ -1,0 +1,1 @@
+Utilizing simplicial Waldhausen theory, we prove that the geometric realization of the topologized category of bounded chain complexes over complex numbers (resp. real numbers) is an infinite loop space that represents connective complex (resp. real) topological K-theory. The key ingredient in our proof is a generalized Waldhausen comparison theorem.

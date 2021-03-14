@@ -1,0 +1,1 @@
+It is known that the Cauchy's argument principle, applied to an holomorphic function f, requires that f has no zeros on the curve of integration. In this short note, we give a generalization of such a principle which covers the case when f has zeros on the curve, as well as an application.

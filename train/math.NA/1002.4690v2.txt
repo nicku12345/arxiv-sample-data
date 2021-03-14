@@ -1,0 +1,1 @@
+We perform a smoothed analysis of the condition number of rectangular matrices. We prove that, asymptotically, the expected value of this condition number depends only of the elongation of the matrix, and not on the center and variance of the underlying probability distribution.

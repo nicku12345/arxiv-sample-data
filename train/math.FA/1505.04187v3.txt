@@ -1,0 +1,1 @@
+We analyze the notion of reproducing pair of weakly measurable functions, which generalizes that of continuous frame. We show, in particular, that each reproducing pair generates two Hilbert spaces, conjugate dual to each other. Several examples, both discrete and continuous, are presented.

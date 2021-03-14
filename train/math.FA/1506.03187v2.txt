@@ -1,0 +1,1 @@
+Let T_m be the m-th Calder\'on-Zygmund type singular integral. In the paper, we consider the boundedness of T_m on the generalized product local Morrey spaces LM_{p_1,\varphi_1}^{\{x_0\}}\times LM_{p_2,\varphi_2}^{\{x_0\}}\times\dots\times LM_{p_m,\varphi_m}^{\{x_0\}}. And, the boundedness of the commutators of T_m with local Campanato functions is obtained, also.

@@ -1,0 +1,1 @@
+We verify that a certain functor D\colon\text{Sp}^\Sigma(\text{Ch}^+)\to\text{Ch} is symmetric monoidal. This functor is used elsewhere in developing the model category theory of symmetric spectra and of chain complexes graded over \mathbb{N} or \mathbb{Z}.

@@ -1,0 +1,1 @@
+The Gaussian Lipschitz space was defined by Gatto and Urbina, by means of the Ornstein-Uhlenbeck Poisson kernel. We give a characterization of this space in terms of a combination of ordinary Lipschitz continuity conditions. The main tools used in the proof are sharp estimates of the Ornstein-Uhlenbeck Poisson kernel and some of its derivatives.

@@ -1,0 +1,1 @@
+We show that when a co-involutive Hopf C*-algebra S coacts via \delta on a C*-algebra A, there exists a full crossed product A\times_\delta S, with universal properties analogous to those of full crossed products by locally compact groups. The dual Hopf C*-algebra is then defined by \hat S:={\Bbb C}\times_{\id} S.

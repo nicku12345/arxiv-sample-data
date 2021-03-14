@@ -1,0 +1,1 @@
+By Delzant's theorem, closed symplectic toric manifolds are classified by the images of moment maps. In the case of a generalized Bott manifold, this image is a polytope P combinatorially equivalent to the product of simplices. We compute the Gromov width of generalized Bott manifolds in terms of the defining inequalities of P.

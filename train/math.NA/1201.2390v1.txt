@@ -1,0 +1,1 @@
+The article deals with the generalized Newton--Kantorovich method for solving operator equations with nondifferentiable operators in Banach spaces. The convergence theorem is proved by means of majorant scalar equations.

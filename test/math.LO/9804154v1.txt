@@ -1,0 +1,1 @@
+We give a framework for dealing with 0-1 laws (for first order logic) such that expanding by further random structure tend to give us another case of the framework. From another perspective we deal with 0-1 laws when the number of solutions of first order formulas with parameters behave dichotomically.

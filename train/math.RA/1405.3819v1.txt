@@ -1,0 +1,1 @@
+A module M is called principally Goldie*-lifting if for every proper cyclic submodule X of M, there is a direct summand D of M such that X\beta^*D. In this paper, we focus on principally Goldie*-lifting modules as generalizations of lifting modules. Various properties of these modules are given.

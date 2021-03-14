@@ -1,0 +1,1 @@
+We give an example of a dense, simple, unital Banach subalgebra A of the irrational rotation C*-algebra B, such that A is not a spectral subalgebra of B. This answers a question posed in T.W. Palmer's paper [1].

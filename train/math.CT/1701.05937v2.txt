@@ -1,0 +1,1 @@
+Given a tensor-triangulated category T, we prove that every flat tensor-idempotent in the module category over T^c (the compacts) comes from a unique smashing ideal in T. We deduce that the lattice of smashing ideals forms a frame.

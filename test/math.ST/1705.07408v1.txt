@@ -1,0 +1,1 @@
+For the problem of nonparametric detection of signal in Gaussian white noise we point out strong asymptotically minimax tests. The sets of alternatives are a ball in Besov space B^r_{2\infty} with "small" balls in L_2 removed.

@@ -1,0 +1,1 @@
+The proof of the Tits alternative for Out(F_n) is completed. The main tool is a Kolchin type theorem, proved in this paper. It states that a finitely generated subgroup of Out(F_n) consisting of unipotent automorphisms can be conjugated into an upper-triangular subgroup (this is interpreted via train-tracks).

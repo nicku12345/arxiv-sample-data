@@ -1,0 +1,1 @@
+Let C be an irreducible smooth projective curve, of genus at least two, defined over an algebraically closed field of characteristic zero. For a fixed line bundle L on C, let M_C(r,L) be the coarse moduli space of semistable vector bundles E over C of rank r and determinant L. We show that the Brauer group of any desingularization of M_C(r, L) is trivial.

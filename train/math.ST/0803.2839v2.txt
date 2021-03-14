@@ -1,0 +1,1 @@
+We study the problem of aggregation under the squared loss in the model of regression with deterministic design. We obtain sharp PAC-Bayesian risk bounds for aggregates defined via exponential weights, under general assumptions on the distribution of errors and on the functions to aggregate. We then apply these results to derive sparsity oracle inequalities.

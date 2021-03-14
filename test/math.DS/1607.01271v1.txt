@@ -1,0 +1,1 @@
+Let f be an entire function and denote by f^\# be the spherical derivative of f and by f^n the n-th iterate of f. For an open set U intersecting the Julia set J(f), we consider how fast \sup_{z\in U} (f^n)^\#(z) and \int_U (f^n)^\#(z)^2 dx\:dy tend to \infty. We also study the growth rate of the sequence (f^n)^\#(z) for z\in J(f).

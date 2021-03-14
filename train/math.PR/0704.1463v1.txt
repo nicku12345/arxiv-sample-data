@@ -1,0 +1,1 @@
+In this paper we prove scalar and sample path large deviation principles for a large class of Poisson cluster processes. As a consequence, we provide a large deviation principle for ergodic Hawkes point processes.

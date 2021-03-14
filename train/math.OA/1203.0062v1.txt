@@ -1,0 +1,1 @@
+We define four 3x3 commuting contractions which do not dilate to commuting isometries. However they do satisfy the scalar von Neumann inequality. These matrices are all nilpotent of order 2. We also show that any three 3\times3 commuting contractions which are scalar plus nilpotent of order 2 do dilate to commuting isometries.

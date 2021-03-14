@@ -1,0 +1,1 @@
+In this paper we study the behaviour in time of the trace (the partition function) of the heat semigroup associated with symmetric stable processes in domains of \Rd. In particular, we show that for domains with the so called {\it{R-smoothness}} property the second terms in the asymptotic as t\to 0 involves the surface area of the domain, just as in the case of Brownian motion.

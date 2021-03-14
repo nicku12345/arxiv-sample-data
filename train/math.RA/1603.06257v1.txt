@@ -1,0 +1,1 @@
+We investigate Frobenius algebras and symmetric algebras in the monoidal category of right comodules over a Hopf algebra H; for the symmetric property H is assumed to be cosovereign. If H is finite dimensional and A is an H-comodule algebra, we uncover the connection between A and the smash product A\# H^* with respect to the Frobenius and symmetric properties.

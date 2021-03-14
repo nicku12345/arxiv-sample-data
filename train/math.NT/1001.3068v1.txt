@@ -1,0 +1,1 @@
+We determine the p-exponent in many of the coefficients in the power series (log(1+x)/x)^t, where t is any integer. In our proof, we introduce a variant of multinomial coefficients. We also characterize the power series x/log(1+x) by certain zero coefficients in its powers.

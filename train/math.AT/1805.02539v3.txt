@@ -1,0 +1,1 @@
+In this paper, we give lower bounds for the homology of the fibers of a map to a manifold. Using new sheaf theoretic methods, we show that these lower bounds persist over whole open sets of the manifold, and that they are stable under perturbations of the map. This generalizes certain ideas of persistent homology to higher dimensions.

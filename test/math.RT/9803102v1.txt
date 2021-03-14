@@ -1,0 +1,1 @@
+The spaces of invariants of tensor powers of the defining representation of Sp(2n) are provided with the bases parametrized by symplectic wave graphs introduced here especially for this purpose. The proof utilizes a game similar to Tetris, named here S-tris. This work continues my previous work on the tensor invariants of SL(n), wave graphs and L-tris.

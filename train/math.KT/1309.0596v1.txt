@@ -1,0 +1,1 @@
+We give a new way to produce examples of Lagrangians in shifted symplectic derived stacks, based on multiple intersections. Specifically, we show that an m-fold fiber product of Lagrangians in a shifted symplectic derived stack its itself Lagrangian in a certain cyclic product of pairwise homotopy fiber products of the Lagrangians.

@@ -1,0 +1,1 @@
+It is known that the maximal homological degree of the Khovanov homology of a knot gives a lower bound of the minimal positive crossing number of the knot. In this paper, we show that the maximal homological degree of the Khovanov homology of a cabling of a knot gives a lower bound of the minimal positive crossing number of the knot.

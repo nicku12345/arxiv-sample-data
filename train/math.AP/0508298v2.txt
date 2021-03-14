@@ -1,0 +1,1 @@
+We obtain global well-posedness, scattering, and global L^{\frac{2(n+2)}{n-2}}_{t,x} spacetime bounds for energy-space solutions to the energy-critical nonlinear Schr\"odinger equation in \R_t\times \R^n_x, n\geq 5.

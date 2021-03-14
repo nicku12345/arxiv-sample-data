@@ -1,0 +1,1 @@
+We introduce the notion of left (and right) quasi-Loday algebroids and a "universal space" for them, called a left (right) omni-Loday algebroid, in such a way that Lie algebroids, omni-Lie algebras and omni-Loday algebroids are particular substructures.

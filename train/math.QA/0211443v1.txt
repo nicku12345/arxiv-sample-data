@@ -1,0 +1,1 @@
+We use Kang-Misra's combinatorial description of the crystal graphs for U_{q}(G_{2}) to introduce the plactic monoid for type G_{2}. Then we describe the corresponding insertion algorithm which yields a Schensted type correspondence. Next we give a simple algorithm for computing the canonical basis of any finite dimensional U_{q}(G_{2})-module.

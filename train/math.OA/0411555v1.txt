@@ -1,0 +1,1 @@
+A Banach space X is said to have the alternative Daugavet property if for every (bounded and linear) rank-one operator T:X\longrightarrow X there exists a modulus one scalar \omega such that \|Id + \omega T\|= 1 + \|T\|. We give geometric characterizations of this property in the setting of C^*-algebras, JB^*-triples and their isometric preduals.

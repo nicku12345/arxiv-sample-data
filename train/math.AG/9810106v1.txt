@@ -1,0 +1,1 @@
+Let M(j) denote the moduli space of bundles on the blown-up plane which restrict to the exceptional divisor as O(j)+O(-j). We show that there is a topological embedding of M(j) into M(j+1).

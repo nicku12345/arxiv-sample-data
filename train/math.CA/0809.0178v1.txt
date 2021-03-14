@@ -1,0 +1,1 @@
+This paper is devoted to the equivalence of two type direct theorems in Approximation Theory: a) for smooth functions (Favard's estimates). b) for arbitrary continuous function (Jackson--Stechkin estimates). Specifically, we will show that Jackson--Stechkin inequality with optimal respect to the order of smoothness constants follows from Favard's inequality.

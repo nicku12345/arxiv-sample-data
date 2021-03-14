@@ -1,0 +1,1 @@
+We consider descent data in cosimplicial crossed groupoids. This is a combinatorial abstraction of the descent data for gerbes in algebraic geometry. The main result is this: a weak equivalence between cosimplicial crossed groupoids induces a bijection on gauge equivalence classes of descent data.

@@ -1,0 +1,1 @@
+This paper explores a natural action of the group \mathrm{PGL}_2(\mathbb F_q) on the set of monic irreducible polynomials of degree at least two over a finite field \mathbb F_q. Our main results deal with the existence and number of fixed points and, in particular, we provide some improvements of previous works.

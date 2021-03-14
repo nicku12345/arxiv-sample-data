@@ -1,0 +1,1 @@
+In this article we determine the class of triangles A_iB_iC_i which are orthohomological with a given triangle ABC and inscribed in the triangle ABC (with A_i \in BC, B_i \in CA and C_i \in AB).

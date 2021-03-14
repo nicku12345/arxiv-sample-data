@@ -1,0 +1,1 @@
+This paper provides rate-efficient estimators of the volatility parameter in the presence of L\'{e}vy jumps

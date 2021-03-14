@@ -1,0 +1,1 @@
+We consider a cardinal invariant closely related to Hindman's theorem. We prove that this cardinal invariant is small in the iterated Sacks perfect set forcing model, and that its corresponding parametrized diamond principle implies the existence of union ultrafilters. As a corollary, this establishes the existence of union ultrafilters in the iterated Sacks model of Set Theory.

@@ -1,0 +1,1 @@
+Let D be a domain, n, k be positive integers and n >= K+3. Let F be a family of functions meromorphic in D. If each f in F satisfies (f^n)^(k) not equal to 1 for z in D, then F is normal family. This result was proved by Schwick. In this paper we extend this result.

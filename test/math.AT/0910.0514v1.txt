@@ -1,0 +1,1 @@
+We define a transfer map in the setting of bounded cohomology with certain metric G-module coefficients. As an application, we extend a theorem of Chatterji, Mislin, Pittet and Saloff-Coste on the comparison map from Borel-bounded to Borel cohomology, to cover the case of Lie groups with finitely many connected components.

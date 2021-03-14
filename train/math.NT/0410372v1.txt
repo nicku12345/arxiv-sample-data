@@ -1,0 +1,1 @@
+Let K = Q(t1,..,tk) and a,b,c in K. We give a simple algorithm to find, if it exists, X,Y,Z in K, not all zero, for which aX^2 + bY^2 + cZ^2 = 0.

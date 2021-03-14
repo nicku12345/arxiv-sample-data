@@ -1,0 +1,1 @@
+We use Reznick's Theorem for positive homogeneous polynomials to prove an elliptic regularity result for representations of enveloping algebras of Lie algebras. This allows us to relax a technical condition for a sum of squares decomposition for representations of these algebras.

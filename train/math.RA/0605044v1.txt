@@ -1,0 +1,1 @@
+We study automorphisms of the free associative algebra K<x,y,z> over a field K which fix the variable z. We describe the structure of the group of z-tame automorphisms and derive algorithms which recognize z-tame automorphisms and z-tame coordinates.

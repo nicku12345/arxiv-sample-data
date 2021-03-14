@@ -1,0 +1,1 @@
+We study the eigenvalue statistics for the hieracharchial Anderson model of Molchanov. We prove Poisson fluctuations at arbitrary disorder, when the the model has spectral dimension d<1. The proof is based on Minami's technique and we give an elementary exposition of the probabilistic arguments.

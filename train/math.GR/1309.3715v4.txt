@@ -1,0 +1,1 @@
+A deterministic polynomial-time algorithm constructs an isomorphism between {\rm PGL}(2,2^e) and a black box group to which it is isomorphic.

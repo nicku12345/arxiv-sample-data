@@ -1,0 +1,1 @@
+An existence and uniqueness theorem for a class of stochastic delay differential equations is presented, and the convergence of Euler approximations for these equations is proved under general conditions. Moreover, the rate of almost sure convergence is obtained under local Lipschitz and also under monotonicity conditions.

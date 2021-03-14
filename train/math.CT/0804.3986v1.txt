@@ -1,0 +1,1 @@
+In this note, I define a notion of a compactly supported object in a triangulated category. I prove a number of propositions relating this to traditional notions of support and give an application to the theory of derived Morita equivalence. I also discuss a connection to supersymmetric gauge theories arising from D-branes at a singularity.

@@ -1,0 +1,1 @@
+This note shows a property of degree-parity preservation for K-types under Howe's theta correspondence. As its application, we deduce the preservation of parity of all K-types occurring in an arbitrary irreducible (\mathfrak{g},K)-module of any Lie group in reductive dual pairs.

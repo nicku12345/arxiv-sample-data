@@ -1,0 +1,1 @@
+We show how to obtain all nonassociative Moufang loops of order less than 64 and 4262 nonassociative Moufang loops of order 64 in a unified way. We conjecture that there are no other nonassociative Moufang loops of order 64. The main idea of the computer search is to modify precisely one quarter of the multiplication table in a certain way, previously applied to small 2-groups.

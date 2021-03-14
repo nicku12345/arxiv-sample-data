@@ -1,0 +1,1 @@
+We introduce the notion of a "graded topological space": a topological space endowed with a sheaf of abelian groups which we think of as a sheaf of gradings. Any object living on a graded topological space will be graded by this sheaf of abelian groups. We work out the fundamentals of sheaf theory and Poincar\'e-Verdier duality for such spaces.

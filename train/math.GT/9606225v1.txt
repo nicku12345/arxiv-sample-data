@@ -1,0 +1,1 @@
+Suppose M is a closed, connected, orientable, \irr\ \3m\ such that G=\pi_1(M) is infinite. One consequence of Thurston's geometrization conjecture is that the universal covering space \widetilde{M} of M must be \homeo\ to \RRR. This has been verified directly under several different additional assumptions on G. (See, for example, \cite{2}, \cite{3}, \cite{6}, \cite{19}.)

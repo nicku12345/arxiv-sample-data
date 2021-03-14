@@ -1,0 +1,1 @@
+2-stratifolds are a generalization of 2-manifolds in that there are disjoint simple closed curves where several sheets meet. They arise in the study of categorical invariants of 3-manifolds and may have applications to topological data analysis. We define 2-stratifolds and study properties of their associated labeled graphs that determine which ones are simply connected.

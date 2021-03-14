@@ -1,0 +1,1 @@
+We prove existence of finite Helly numbers for crystals and for cut-and-project sets with convex windows; also we prove exact bound of k+6 for the Helly number of a crystal consisting of k copies of a single lattice. We show that there are sets of finite local complexity that do not have finite Helly numbers.

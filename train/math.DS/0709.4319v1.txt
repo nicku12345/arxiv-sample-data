@@ -1,0 +1,1 @@
+Given any compact manifold M, we construct a non-empty open subset O of the space of C^1-diffeomorphisms of M and a dense subset D of O such that the centralizer of every diffeomorphism in D is uncountable, hence non-trivial.

@@ -1,0 +1,1 @@
+We extend the classical Kato's inequality in order to allow functions u \in L^1_\mathrm{loc} such that \Delta u is a Radon measure. This inequality has been applied by Brezis, Marcus, and Ponce to study the existence of solutions of the nonlinear equation - \Delta u + g(u) = \mu, where \mu is a measure and g : \mathbb{R} \to \mathbb{R} is an increasing continuous function.

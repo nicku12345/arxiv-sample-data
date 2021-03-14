@@ -1,0 +1,1 @@
+The problem of diagonalizing hermitian matrices of continuous fiunctions was studied by Grove and Pederson in 1984. While diagonalization is not possible in general, in the presence of differentiability conditions we are able to obtain positive results in the case of 2\times 2 matrices. It remains open whether our results can be extended to n\times n matrices.

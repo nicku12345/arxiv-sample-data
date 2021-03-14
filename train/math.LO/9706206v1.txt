@@ -1,0 +1,1 @@
+For any first order theory T we construct a Boolean valued model M, in which precisely the T--provable formulas hold, and in which every (Boolean valued) subset which is invariant under all automorphisms of M is definable by a first order formula. Our presentation is entirely selfcontained, and only requires familiarity with the most elementary properties of model theory.

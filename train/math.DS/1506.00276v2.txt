@@ -1,0 +1,1 @@
+We consider piecewise C^2 non-flat maps of the interval and show that, for Lebesgue almost every point, its omega-limit set is either a periodic orbit, a cycle of intervals or the closure of the orbits of a subset of the critical points. In particular, every piecewise C^2 non-flat map of the interval displays only a finite number of non-periodic attractors.

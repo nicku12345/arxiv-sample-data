@@ -1,0 +1,1 @@
+For any real sequence {c(n)} tending to infinity as n tends to infinity, this constructs a function f which is continuous and integrable, and such that for every nonzero x, limsup c(n) f(n x) is infinite.

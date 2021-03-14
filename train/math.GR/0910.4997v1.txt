@@ -1,0 +1,1 @@
+We show that the standard generating set of a Coxeter group is of minimal cardinality provided that the non-diagonal entries of the Coxeter matrix are sufficiently large.

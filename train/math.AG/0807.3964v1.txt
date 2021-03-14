@@ -1,0 +1,1 @@
+We calculate the hyperelliptic Hodge integral lambda_g lambda_{g-1} / (1 - psi) for use in arXiv:math/0702219. The proof uses the WDVV equations for the genus zero Gromov--Witten invariants of P(1,1,2).

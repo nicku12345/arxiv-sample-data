@@ -1,0 +1,1 @@
+It is well known that a plane graph is Eulerian if and only if its geometric dual is bipartite. We extend this result to partial duals of plane graphs. We then characterize all bipartite partial duals of a plane graph in terms of oriented circuits in its medial graph.

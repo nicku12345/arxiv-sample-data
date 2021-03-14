@@ -1,0 +1,1 @@
+In this paper we show that if an entire function f(z_1,z_2) of two (or more) complex variables verifies \norm{f(z_1,z_2)}\leq K(\norm{P(z_1,z_2)}), where P(z_1,z_2) is a polynomial that is not a power in \CC[[z_1,z_2]], and K is any positive-valued real function, then f(z_1,z_2) can be written as a holomorphic function of P.

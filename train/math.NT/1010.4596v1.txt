@@ -1,0 +1,1 @@
+This paper contains a small improvement to the explicit bounds on the growth of the function S(T). It is shown how more substantial improvements are possible if one has better explicit bounds on the growth of |\zeta(\frac{1}{2}+it)|.

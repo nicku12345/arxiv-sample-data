@@ -1,0 +1,1 @@
+The center bundle of a conservative partially hyperbolic diffeomorphism f is called robustly non-hyperbolic if any conservative diffeomorphism which is C^1-close to f has non-hyperbolic center bundle. In this paper, we prove that stable ergodicity is C^1-dense among conservative partially hyperbolic systems with robust non-hyperbolic center.

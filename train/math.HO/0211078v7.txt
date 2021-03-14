@@ -1,0 +1,1 @@
+In this paper we briefly review and analyze three published proofs of Chaitin's theorem, the celebrated information-theoretic version of G\"odel's incompleteness theorem. Then, we discuss our main perplexity concerning a key step common to all these demonstrations.

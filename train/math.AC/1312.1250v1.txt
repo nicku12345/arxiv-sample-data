@@ -1,0 +1,1 @@
+We characterize some types of FIP and FCP ring extensions R \subset S, where S is not an integral domain and R may not be an integral domain. In this paper S is mostly a product of rings related to R and also the idealization of an R-module.

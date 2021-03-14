@@ -1,0 +1,1 @@
+We present two explicit combinatorial constructions of finitely summable reduced "Gamma"-elements \gamma_r\,\in\,KK(C^*_r(\Gamma),{\mathbb C}) for any word-hyperbolic group (\Gamma,S) and obtain summability bounds for them in terms of the cardinality of the generating set S\subset\Gamma and the hyperbolicity constant of the associated Cayley graph.

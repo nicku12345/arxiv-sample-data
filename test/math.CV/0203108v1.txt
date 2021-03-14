@@ -1,0 +1,1 @@
+A Liouville function is a complex analytic function H with a Taylor series \sum_{n=1}^{\infty} x^n/a_n such the a_n's form a ``very fast growing'' sequence of integers. In this paper we exhibit the complete first-order theory of the complex field expanded with H.

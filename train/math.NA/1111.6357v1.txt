@@ -1,0 +1,1 @@
+We consider a nonlocal linear elastic wave model. We approximate the model using a spectral Galerkin method in space and analyze error in such an approximation. We perform some numerical experiments to demonstrate the scheme.

@@ -1,0 +1,1 @@
+Let \Omega be a matrix with entries a_{i,j}=\omega^{ij}, 1\leq i,j \leq n, where \omega=e^{2\pi \sqrt{-1}/n}, n\in \mathbb N. The Chebotarev theorem states that if n is a prime then any minor of \Omega is non-zero. In this note we provide an analogue of this statement for composite n.

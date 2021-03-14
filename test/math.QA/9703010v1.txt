@@ -1,0 +1,1 @@
+We use the Kazhdan-Lusztig tensoring to define affine translation functors, describe annihilating ideals of highest weight modules over an affine Lie algebra in terms of the corresponding VOA, and to sketch a functorial approach to ``affine Harish-Chandra bimodules''.

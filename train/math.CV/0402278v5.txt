@@ -1,0 +1,1 @@
+We prove that the classical Oka property of a complex manifold Y, concerning the existence and homotopy classification of holomorphic mappings from Stein manifolds to Y, is equivalent to a Runge approximation property for holomorphic maps from compact convex sets in Euclidean spaces to Y.

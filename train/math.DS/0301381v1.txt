@@ -1,0 +1,1 @@
+Let F be a nonlinear Frechet differentiable map in a real Hilbert space. Condition sufficient for existence of a solution to the equation F(u)=0 is given, and a method (dynamical systems method, DSM) to calculate the solution as the limit of the solution to a Cauchy problem is justified under suitable assumptions.

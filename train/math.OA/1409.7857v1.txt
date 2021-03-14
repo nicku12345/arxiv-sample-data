@@ -1,0 +1,1 @@
+The notion of commutativity of two normal states on a von Neumann algebra was defined some time ago by means of the Pedersen-Takesaki theorem. In this note we aim at generalizing this notion to an arbitrary number of states, and obtaining some results on so defined joint commutativity. Also relations between commutativity and broadcastability of states are investigated.

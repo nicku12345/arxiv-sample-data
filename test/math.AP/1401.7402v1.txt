@@ -1,0 +1,1 @@
+We extend the classical Liouville Theorem from Laplacian to the fractional Laplacian, that is, we prove   Every \alpha-harmonic function bounded either above or below in all of R^n must be constant.

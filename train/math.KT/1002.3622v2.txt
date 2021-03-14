@@ -1,0 +1,1 @@
+Thomason showed that the K-theory of symmetric monoidal categories models all connective spectra. This paper describes a new construction of a permutative category from a Gamma-space, which is then used to re-prove Thomason's theorem and a non-completed variant.

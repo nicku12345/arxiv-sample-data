@@ -1,0 +1,1 @@
+Nakajima introduced a resolution of singularities of the Donaldson-Uhlenbeck completion of the moduli space of based instantons over S^4. For k\leq 4, we extend this result to \mathbb P^2 and compute, in the rank-stable limit, the homotopy type of these spaces by showing that, in this limit, these constructions yield universal bundles.

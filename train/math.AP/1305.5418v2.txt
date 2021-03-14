@@ -1,0 +1,1 @@
+We survey recent regularity results for parabolic equations involving nonlocal operators like the fractional Laplacian. We extend the results of Felsinger-Kassmann (2013) and obtain regularity estimates for nonlocal operators with kernels not being absolutely continuous with respect to the Lebesgue measure.

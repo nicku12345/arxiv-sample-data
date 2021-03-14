@@ -1,0 +1,1 @@
+Blurring of a photographic image by a wrong focus can be modeled by convolution. Is inversion a possible answer? This paper adds complements to a foregoing paper discussing convolution-inversion of some measures.

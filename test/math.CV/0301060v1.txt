@@ -1,0 +1,1 @@
+Suppose that Fourier transform of a function f is zero on the interval [-a,a]. We prove that the lower density of sign changes of f is at least a/pi, provided that f is a locally integrable temperate distribution in the sense of Beurling, with non-quasianalytic weight. We construct an example showing that the last condition cannot be omitted.

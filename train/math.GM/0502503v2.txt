@@ -1,0 +1,1 @@
+Classical theory proves that every primitive recursive function is strongly representable in PA; that formal Peano Arithmetic, PA, and formal primitive recursive arithmetic, PRA, can both be interpreted in Zermelo-Fraenkel Set Theory, ZF; and that if ZF is consistent, then PA+PRA is consistent. We show that PA+PRA is inconsistent; it follows that ZF, too, is inconsistent.

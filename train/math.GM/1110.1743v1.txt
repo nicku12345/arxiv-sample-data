@@ -1,0 +1,1 @@
+In a previous paper, a point of order 8 on an elliptic curve was calculated. Exploiting the well-known correspondence of the points on an elliptic curve with the points of a respective period parallelogram, we proceed to calculating all values at the eighth lattice points of an essential elliptic function which we introduce.

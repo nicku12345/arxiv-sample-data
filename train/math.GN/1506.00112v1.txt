@@ -1,0 +1,1 @@
+Given a semigroup S, we introduce relative (with respect to a filter \tau on S) versions of large, thick and prethick subsets of S, give the ultrafilter characterizations of these subsets and explain how large could be some cell in a finite partition of a subset A\in\tau.

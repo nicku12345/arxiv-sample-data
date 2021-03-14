@@ -1,0 +1,1 @@
+Lattice polytope representation of natural numbers is introduced based on the fundamental theorem of arithmetic. The combinatorial and geometric properties of the polytopes are studied using Polymake and Qhull software. The volume of the polytope representing a natural number and the sum of the volumes of polytopes representing a subset of natural numbers are further examined.

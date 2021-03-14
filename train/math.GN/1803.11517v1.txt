@@ -1,0 +1,1 @@
+Startpoints (resp. endpoints) can be defined as "oriented fixed points". They arise naturally in the study of fixed for multi-valued maps defined on quasi-metric spaces. In this article, we give a new result in the startpoint theory for quasi-pseudometric spaces. The result we present is obtained via a generalized weakly contractive set-valued map.

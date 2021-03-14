@@ -1,0 +1,1 @@
+Any maximal monotone operator can be characterized by a convex function. The family of such convex functions is invariant under a transformation connected with the Fenchel-Legendre conjugation. We prove that there exist a convex representation of the operator which is a fixed point of this conjugation.

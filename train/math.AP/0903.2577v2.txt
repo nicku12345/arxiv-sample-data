@@ -1,0 +1,1 @@
+This work establishes two regularity criteria for the 3D incompressible MHD equations. The first one is in terms of the derivative of the velocity field in one-direction while the second one requires suitable boundedness of the derivative of the pressure in one-direction.

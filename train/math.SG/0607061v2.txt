@@ -1,0 +1,1 @@
+The moduli space of G-bundles on an elliptic curve with additional flag structure admits a Poisson structure. The bivector can be defined using double loop group, loop group and sheaf cohomology constructions. We investigate the links between these methods and for the case \SL_2 perform explicit computations, describing the bracket and its leaves in detail.

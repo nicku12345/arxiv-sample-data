@@ -1,0 +1,1 @@
+In this paper we presented a new driving variable approach in minimum angle rule which is simple and comparatively fast for providing a dual feasible basis. We also present experimental results that compare the speed of the minimum angle rule to the classical methods. The experimental results showed that this algorithm outperforms all the previous pivot rules.

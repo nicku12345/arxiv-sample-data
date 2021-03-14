@@ -1,0 +1,1 @@
+Karp conjectured that all nontrivial monotone graph properties are evasive. This was proved for n a prime power, and n=6, where n is the number of graph vertices, by Kahn, Saks, and Sturtevant. We give a complete description of which transitive graphs are contained in a possible counterexample when n=10.

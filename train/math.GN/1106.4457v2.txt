@@ -1,0 +1,1 @@
+In applications it is useful to know whether a topological preordered space is normally preordered. It is proved that every k_\omega-space equipped with a closed preorder is a normally preordered space. Furthermore, it is proved that second countable regularly preordered spaces are perfectly normally preordered and admit a countable utility representation.

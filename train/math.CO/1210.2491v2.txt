@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the number of Eulerian circuits for graphs with strong mixing properties and with vertices having even degrees. The exact value is determined up to the multiplicative error O(n^{-1/2+\varepsilon}), where n is the number of vertices

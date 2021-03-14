@@ -1,0 +1,1 @@
+Let G be a finite solvable group and \chi\in \Irr(G) be a faithful character. We show that the derived length of G is bounded by a linear function of the number of distinct irreducible constituents of \chi\bar{\chi}. We also discuss other properties of the decomposition of \chi\bar{\chi} into its irreducible constituents.

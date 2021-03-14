@@ -1,0 +1,1 @@
+We consider the spectral stability of certain traveling wave solutions of the Boussinesq `abc' system. More precisely, we consider the explicit sech^2(x) like solutions of the form (\vp(x-w t), \psi(x- w t)=(\vp, const. \vp), exhibited by M. Chen (1998) and we provide a complete rigorous characterization of the spectral stability in all cases for which a=c<0, b>0.

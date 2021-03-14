@@ -1,0 +1,1 @@
+Let  n, q  be positive integers. We show that if  G  is a finitely generated residually finite group satisfying the identity  [x,_ny^q]\equiv 1,  then there exists a function  f(n)  such that  G  has a nilpotent subgroup of finite index of class at most  f(n) . We also extend this result to locally graded groups.

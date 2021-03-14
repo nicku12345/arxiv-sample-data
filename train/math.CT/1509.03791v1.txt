@@ -1,0 +1,1 @@
+The Riemann-Hilbert correspondence embeds the triangulated category of (not necessarily regular) holonomic D-modules into that of \mathbb R-constructible enhanced ind-sheaves. The source category has a standard t-structure. Here, we provide the target category with a middle perversity t-structure, and prove that the embedding is exact.

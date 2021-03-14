@@ -1,0 +1,1 @@
+We address the following question, raised by T. Fukui. Is the corank an invariant of the blow-analytic equivalence between real analytic function germs? We give a partial positive answer in the particular case of the blow-Nash equivalence. The proof is based on the computation of some virtual Poincare polynomials and zeta functions associated to a Nash function germ.

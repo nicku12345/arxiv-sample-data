@@ -1,0 +1,1 @@
+In this paper, we give some determinantal and permanental representations of Generalized Lucas Polynomials by using various Hessenberg matrices, which are general form of determinantal and permanental representations of ordinary Lucas and Perrin sequences. Then we show, under what conditions that the determinants of the Hessenberg matrix becomes its permanents.

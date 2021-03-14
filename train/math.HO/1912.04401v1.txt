@@ -1,0 +1,1 @@
+This article is an introduction to Mordell-Weil theorem. In this article, I introduced some basic properties about ellptic curves and proved the theorem in two different ways.

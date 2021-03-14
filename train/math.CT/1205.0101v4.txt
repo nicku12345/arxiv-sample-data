@@ -1,0 +1,1 @@
+We exhibit sufficient conditions for a monoidal monad T on a monoidal category C to induce a monoidal structure on the Eilenberg--Moore category C^T that represents bimorphisms. The category of actions in C^T is then shown to be monadic over the base category C.

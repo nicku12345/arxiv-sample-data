@@ -1,0 +1,1 @@
+We compute the associated prime ideals of the normalization modulo the ring, and establish connections between different types of generalizations (resp. specializations) of the normalization. This has some applications.

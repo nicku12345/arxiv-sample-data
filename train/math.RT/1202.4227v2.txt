@@ -1,0 +1,1 @@
+For a complex simple Lie algebra of type A, given a family of elements f_\lambda\in \mathbb Z[\Lambda],\lambda\in \Lambda^+, we show that f_\lambda is just the formal character of the Weyl module V(\lambda)  if f_\lambda satisfy two natural conditions.

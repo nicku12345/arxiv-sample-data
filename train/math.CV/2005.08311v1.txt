@@ -1,0 +1,1 @@
+Although the Bergman projection operator \mathbf{B}_{\Omega} is defined on L^2(\Omega), its behavior on other L^p(\Omega) spaces for p\not =2 is an active research area. We survey some of the recent results on L^p estimates on the Bergman projection.

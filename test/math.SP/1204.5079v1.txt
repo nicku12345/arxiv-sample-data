@@ -1,0 +1,1 @@
+We derive sharp estimates on modulus of continuity for solutions of the heat equation on a compact Riemannian manifold with a Ricci curvature bound, in terms of initial oscillation and elapsed time. As an application, we give an easy proof of the optimal lower bound on the first eigenvalue of the Laplacian on such a manifold as a function of diameter.

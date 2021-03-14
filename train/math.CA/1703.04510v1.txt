@@ -1,0 +1,1 @@
+We introduce a new fixed point theorem of Krasnoselskii type for discontinuous operators. As an application we use it to study the existence of positive solutions of a second-order differential problem with separated boundary conditions and discontinuous nonlinearities.

@@ -1,0 +1,1 @@
+We prove for any mu = mu^{< mu}< theta < lambda, lambda large enough (just strongly inaccessible Mahlo) the consistency of 2^mu = lambda-> [theta]^2_3 and even 2^mu = lambda-> [theta]^2_{sigma,2} for sigma < mu . The new point is that possibly theta > mu^+ .

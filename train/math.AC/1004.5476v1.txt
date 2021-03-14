@@ -1,0 +1,1 @@
+Let R=\Bbbk[x_1,\..., x_n] and M=R^s/I a multigraded squarefree module. We discuss the construction of cochain complexes associated to M and we show how to interpret homological invariants of M in terms of topological computations. This is a generalization of the well studied case of squarefree monomial ideals.

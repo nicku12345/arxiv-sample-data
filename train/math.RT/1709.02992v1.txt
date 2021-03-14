@@ -1,0 +1,1 @@
+Let G be a complex affine algebraic group, and let \sigma_1 and \sigma_2 be commuting anti-holomorphic involutions of G. We construct an algebraic family of algebraic groups over the complex projective line and a real structure on the family that interpolates between the real forms G^{\sigma_1} and G^{\sigma_2}.

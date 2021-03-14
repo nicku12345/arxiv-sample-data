@@ -1,0 +1,1 @@
+The calibration method is used to identify some minimizers of the Mumford-Shah functional. The method is then extended to more general free discontinuity problems.

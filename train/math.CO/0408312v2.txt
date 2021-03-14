@@ -1,0 +1,1 @@
+The Neggers-Stanley conjecture (also known as the Poset conjecture) asserts that the polynomial counting the linear extensions of a partially ordered set on \{1,2,...,p\} by their number of descents has real zeros only. We provide counterexamples to this conjecture.

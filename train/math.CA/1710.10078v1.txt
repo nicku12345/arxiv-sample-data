@@ -1,0 +1,1 @@
+Let X be a separable Banach function space on the unit circle \mathbb{T} and H[X] be the abstract Hardy space built upon X. We show that the set of analytic polynomials is dense in H[X] if the Hardy-Littlewood maximal operator is bounded on the associate space X'. This result is specified to the case of variable Lebesgue spaces.

@@ -1,0 +1,1 @@
+Focus in this paper is on the Hankel determinant, H_3(1), for the well-known classes of bounded-turning, starlike and convex functions in the open unit disk E=\{z\in \mathbb{C}\colon|z|<1\}. The results obtained complete the series of research works in the search for sharp upper bounds on H_3(1) for each of these classes.

@@ -1,0 +1,1 @@
+We consider evolution in the unit disk in which the sample paths are represented by the trajectories of points evolving randomly under the generalized Loewner equation. The driving mechanism differs from the SLE evolution, but nevertheless solutions possess similar invariance properties.

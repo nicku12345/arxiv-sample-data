@@ -1,0 +1,1 @@
+A linear algebraic group G defined over a field k is said to be excellent if for every field extension L of k the anisotropic kernel of the group (G \otimes_k L) is defined over k. We prove that groups of type G_2 and F_4 are excellent over any field k of characteristic other than 2 and 3.

@@ -1,0 +1,1 @@
+We investigate isoperimetric constants of infinite tessellating metric graphs. We introduce a curvature-like quantity, which plays the role of a metric graph analogue of discrete curvature notions for combinatorial tessellating graphs. We then prove a lower estimate and a criterium for positivity of the isoperimetric constant.

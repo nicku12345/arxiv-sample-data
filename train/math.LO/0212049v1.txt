@@ -1,0 +1,1 @@
+Infinite time Turing machines extend the classical Turing machine concept to transfinite ordinal time, thereby providing a natural model of infinitary computability that sheds light on the power and limitations of supertask algorithms.

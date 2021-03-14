@@ -1,0 +1,1 @@
+We prove that the representation dimension of a selfinjective algebra of wild tilted type is equal to three, and give an explicit construction of an Auslander generator of its module category. We also show that if a connected selfinjective algebra admits an acyclic generalised standard Auslander-Reiten component then its representation dimension is equal to three.

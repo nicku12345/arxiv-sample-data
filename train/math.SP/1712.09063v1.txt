@@ -1,0 +1,1 @@
+We consider inverse dynamic and spectral problems for the one dimensional Dirac system on a finite tree. Our aim will be to recover the topology of a tree (lengths and connectivity of edges) as well as matrix potentials on each edge. As inverse data we use the Weyl-Titchmarsh matrix function or the dynamic response operator.

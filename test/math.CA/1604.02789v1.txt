@@ -1,0 +1,1 @@
+We give an alternative proof of a sharp generalization of an integral inequality for the dyadic maximal operator due to which the evaluation of the Bellman function of this operator with respect to two variables, is possible. This last mentioned inequality, which was first noticed in [3],also generalizes in a certain direction the results of [7].

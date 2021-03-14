@@ -1,0 +1,1 @@
+We consider a L\' evy process in \R^d  (d\geq 3) with the characteristic exponent \[ \Phi(\xi)=\frac{|\xi|^2}{\ln(1+|\xi|^2)}-1. \] The scale invariant Harnack inequality and apriori estimates of harmonic functions in H\" older spaces are proved.

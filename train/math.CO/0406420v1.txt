@@ -1,0 +1,1 @@
+We prove that the mixed discriminant of doubly stochastic n-tuples of semidefinite hermitian n \times n matrices is bounded below by \frac{n!}{n^{n}} and that this bound is uniquely attained at the n-tuple (\frac{1}{n} I,...,\frac{1}{n} I). This result settles a conjecture posed by R. Bapat in 1989. We consider various generalizations and applications of this result.

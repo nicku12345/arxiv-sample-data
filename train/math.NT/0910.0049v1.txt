@@ -1,0 +1,1 @@
+We show that, for all odd natural numbers N, the N-torsion points on an elliptic curve may be placed in an N \times N grid such that the sum of each column and each row is the point at infinity.

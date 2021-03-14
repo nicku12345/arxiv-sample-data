@@ -1,0 +1,1 @@
+We prove new L_p affine isoperimetric inequalities for all  p \in [-\infty,1). We establish, for all p\neq -n, a duality formula which shows that L_p affine surface area of a convex body K equals L_\frac{n^2}{p} affine surface area of the polar body K^\circ.

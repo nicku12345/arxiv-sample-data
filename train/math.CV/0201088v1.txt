@@ -1,0 +1,1 @@
+The boundary behavior of the Bergman metric near a convex boundary point z_0 of a pseudoconvex domain D\subset\CC^n is studied; it turns out that the Bergman metric at points z\in D in direction of a fixed vector X_0\in\CC^n tends to infinite, when z is approaching z_0, if and only if the boundary of D does not contain any analytic disc through z_0 in direction of X_0.

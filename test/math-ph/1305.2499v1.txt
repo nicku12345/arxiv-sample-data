@@ -1,0 +1,1 @@
+We provide an algorithm of computing Clebsch-Gordan coefficients for irreducible representations, with integer weights, of the rotation group SO(3) and demonstrate the convenience of this algorithm for constructing new (to our knowledge) models in anisotropic elasticity theory.

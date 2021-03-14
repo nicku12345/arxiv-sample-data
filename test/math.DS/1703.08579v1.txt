@@ -1,0 +1,1 @@
+In this paper we present a new class of dynamical system without equilibria which possesses a multi scroll attractor. It is a piecewise-linear (PWL) system which is simple, stable, displays chaotic behavior and serves as a model for analogous non-linear systems. We test for chaos using the 0-1 Test for Chaos of Ref.12.

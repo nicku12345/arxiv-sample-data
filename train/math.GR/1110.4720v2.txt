@@ -1,0 +1,1 @@
+A subgroup H of a group G is called \mathbb P-subnormal in G whenever either H=G or there is a chain of subgroups H=H_0\subset H_1\subset ... \subset H_n=G such that |H_i:H_{i-1}| is a prime for all i. In this paper, we study the groups in which all primary cyclic subgroups are \mathbb P-subnormal.

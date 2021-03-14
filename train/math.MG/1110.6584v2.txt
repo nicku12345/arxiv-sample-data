@@ -1,0 +1,1 @@
+We prove stability estimates for the Brunn-Minkowski inequality for convex sets. Unlike existing stability results, our estimates improve as the dimension grows. Our results are equivalent to a thin shell bound, which is one of the central ingredients in the proof of the central limit theorem for convex sets.

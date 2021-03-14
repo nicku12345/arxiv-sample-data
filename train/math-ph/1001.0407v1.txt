@@ -1,0 +1,1 @@
+We construct a kinetic equation simulating the behavior of degenerate quantum Bose gases with the collision rate proportional to the molecule velocity. We obtain an analytic solution of the half--space boundary--value Smoluchowski problem of the temperature jump at the interface between the degenerate Bose gas and the condensed phase.

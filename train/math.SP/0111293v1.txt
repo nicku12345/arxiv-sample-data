@@ -1,0 +1,1 @@
+For a class of non-selfadjoint h-pseudodifferential operators in dimension 2, we determine all eigenvalues in an h-independent domain in the complex plane and show that they are given by a Bohr-Sommerfeld quantization condition. No complete integrability is assumed, and as a geometrical step in our proof, we get a KAM-type theorem (without small divisors) in the complex domain.

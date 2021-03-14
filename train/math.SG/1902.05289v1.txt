@@ -1,0 +1,1 @@
+We prove that for any compact orientable connected 3-manifold with torus boundary, a concatenation of it and the direct product of the circle and the Klein bottle with an open 2-disk removed admits a Lagrangian embedding into the standard symplectic 6-space. Moreover, minimal Maslov number of the Lagrangian embedding is equal to 1.

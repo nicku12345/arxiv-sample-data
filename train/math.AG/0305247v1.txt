@@ -1,0 +1,1 @@
+We give a Hodge-theoretic interpretation of the multiplier ideal of an effective divisor on a smooth complex variety. More precisely, we show that the associated graded coherent sheaf with respect to the jumping-number filtration can be recovered from the smallest piece of M. Saito's Hodge filtration of the D-module of vanishing cycles.

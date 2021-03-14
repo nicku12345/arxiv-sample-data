@@ -1,0 +1,1 @@
+We study the linear polarization constants of finite dimensional Banach spaces. We obtain the correct asymptotic behaviour of these constants for the spaces \ell_p^d: they behave as \sqrt[p]{d} if 1\le p\le 2 and as \sqrt{d} if 2\le p<\infty. For p=\infty we get the asymptotic behavior up to a logarithmic factor

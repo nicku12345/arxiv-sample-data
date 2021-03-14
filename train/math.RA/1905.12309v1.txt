@@ -1,0 +1,1 @@
+We show that a necessary and sufficient condition for a cyclic code C over Z4 of odd length to be an LCD code is that C=(f(x)) where f is a self-reciprocal polynomial in Z4[X].

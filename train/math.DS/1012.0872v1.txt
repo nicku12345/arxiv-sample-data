@@ -1,0 +1,1 @@
+The Lyapunov exponents of locally constant GL(2;C)-cocycles over Bernoulli shifts depend continuously on the cocycle and on the invariant probability. The Oseledets decomposition also depends continuously on the cocycle, in measure.

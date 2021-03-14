@@ -1,0 +1,1 @@
+We describe a new approach towards the systematic construction of finite groups up to isomorphism. This approach yields a practical algorithm for the construction of finite solvable groups up to isomorphism. We report on a GAP implementation of this method for finite solvable groups and exhibit some sample applications.

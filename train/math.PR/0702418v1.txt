@@ -1,0 +1,1 @@
+We establish the existence of an optimal control for a general class of singular control problems with state constraints. The proof uses weak convergence arguments and a time rescaling technique. The existence of optimal controls for Brownian control problems \citehar, associated with a broad family of stochastic networks, follows as a consequence.

@@ -1,0 +1,1 @@
+A generalized inversion of block T+H matrix is obtained for the first time. In a particular case when T+H matrix is invertible, the method allows to obtain its inverse matrix without an additional condition of invertibility of the corresponding T-H matrix.

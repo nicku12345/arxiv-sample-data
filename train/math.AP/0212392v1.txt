@@ -1,0 +1,1 @@
+Aim of this paper is to review some basic ideas and recent developments in the theory of strictly hyperbolic systems of conservation laws in one space dimension. The main focus will be on the uniqueness and stability of entropy weak solutions and on the convergence of vanishing viscosity approximations.

@@ -1,0 +1,1 @@
+Fix a partition \mu=(\mu_1,\dotsc,\mu_m) of an integer k and positive integer d. For each n>k, let \chi^\lambda_\mu denote the value of the irreducible character of S_n at a permutation with cycle type (\mu_1,\dotsc,\mu_m,1^{n-k}). We show that the proportion of partitions \lambda of n such that \chi^\lambda_\mu is divisible by d approaches 1 as n approaches infinity.

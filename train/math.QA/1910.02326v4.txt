@@ -1,0 +1,1 @@
+We consider the BGG category \mathcal{O} of a quantized universal enveloping algebra U_q(\mathfrak{g}). We call a module M\in \mathcal{O} tensor-closed if M\otimes N\in\mathcal{O} for any N\in \mathcal{O}. In this paper we prove that M\in \mathcal{O} is tensor-closed if and only if M is finite dimensional. The method used in this paper applies to the unquantized case as well.

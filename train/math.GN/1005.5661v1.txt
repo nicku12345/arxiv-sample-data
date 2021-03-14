@@ -1,0 +1,1 @@
+In this paper we further investigate the geometry of monads of order-preserving functionals and of positively homogeneous functionals. We prove that for any compactum X with w(X) = \tau the map \mu_F X, where F\in\{O,OH\}, is homeomorphic to trivial I^\tau-fibration if and only if X is openly generated \chi-homogeneous compactum.

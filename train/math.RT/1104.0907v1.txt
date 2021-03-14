@@ -1,0 +1,1 @@
+Let U be the enveloping algebra of a symmetric Kac-Moody algebra. The Weyl group acts on U, up to a sign. In addition, the positive subalgebra U^+ contains a so-called semicanonical basis, with remarkable properties. The aim of this paper is to show that these two structures are as compatible as possible.

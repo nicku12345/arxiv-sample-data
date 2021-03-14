@@ -1,0 +1,1 @@
+We present an L^2-extension theorem with an estimate depending on the weight functions for domains in \mathbb{C}. When the Hartogs domain defined by the weight function is strictly pseudoconvex, this estimate is strictly sharper than known optimal estimates. When the weight function is radial, we prove that our estimate provides the L^2-minimum extension.

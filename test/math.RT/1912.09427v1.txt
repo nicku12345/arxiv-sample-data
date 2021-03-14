@@ -1,0 +1,1 @@
+Given an odd prime p, we identify composition factors of the reduction modulo p of spin irreducible representations of the covering groups of symmetric groups indexed by partitions with 2 parts and find some decomposition numbers.

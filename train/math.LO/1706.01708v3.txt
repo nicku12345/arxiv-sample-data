@@ -1,0 +1,1 @@
+Typically, set theorists reason about forcing constructions in the context of ZFC. We show that without AC, several simple properties of forcing posets fail to hold, one of which answers Miller's question from arXiv:0704.3998.

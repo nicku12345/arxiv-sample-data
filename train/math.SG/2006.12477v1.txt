@@ -1,0 +1,1 @@
+In this article we generalize a theorem by Palais on the rigidity of compact group actions to cotangent lifts. We use this result to prove rigidity for integrable systems on symplectic manifolds including sytems with degenerate singularities which are invariant under a torus action.

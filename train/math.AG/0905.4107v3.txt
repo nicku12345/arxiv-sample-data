@@ -1,0 +1,1 @@
+We study isogeny relations between K3 surfaces and Kummer surfaces. Specifically, we prove a Torelli-type theorem for the existence of rational maps from K3 surfaces to Kummer surfaces, and a Kummer sandwich theorem for K3 surfaces with Shioda-Inose structure.

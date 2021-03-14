@@ -1,0 +1,1 @@
+A perfect PAC field containing an algebraically closed field is known to be C_1, i.e., every degeneration of a Fano complete intersection has a point. We prove that also every degeneration of a separably rationally connected variety has a point.

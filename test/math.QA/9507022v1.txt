@@ -1,0 +1,1 @@
+It is shown that every quantum principal bundle with a compact structure group is a Hopf-Galois extension. This property naturally extends to the level of general differential structures, so that every differential calculus over a quantum principal bundle with a compact structure group is a graded-differential variant of the Hopf-Galois extension.

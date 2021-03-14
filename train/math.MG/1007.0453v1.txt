@@ -1,0 +1,1 @@
+We calculate the Jacobian matrix of the dihedral angles of a generalized hyperbolic tetrahedron as functions of edge lengths and find the complete set of symmetries of this matrix.

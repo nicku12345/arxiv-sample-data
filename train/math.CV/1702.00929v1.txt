@@ -1,0 +1,1 @@
+In this paper we determine the L^1\to L^1 and L^{\infty}\to L^\infty norms of an integral operator \mathcal{N} related to the gradient of the solution of Poisson equation in the unit ball with vanishing boundary data in sense of distributions.

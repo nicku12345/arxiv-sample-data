@@ -1,0 +1,1 @@
+We give an alternative proof of a result by N. Gantert, Y. Hu and Z. Shi on the asymptotic behavior of the survival probability of the branching random walk killed below a linear boundary, in the special case of deterministic binary branching and bounded random walk steps. Connections with the Brunet-Derrida theory of stochastic fronts are discussed.

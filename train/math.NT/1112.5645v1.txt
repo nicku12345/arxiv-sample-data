@@ -1,0 +1,1 @@
+We introduce the concept of quadratic modular symbol and study how these symbols are related to quadratic p-adic L-functions. These objects were introduced in [3] in the case of modular curves. In this paper, we discuss a method to attach quadratic modular symbols and quadratic p-adic L-functions to more general Shimura curves.

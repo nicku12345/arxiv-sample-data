@@ -1,0 +1,1 @@
+Extending G\"odel's \emph{Dialectica} interpretation, we provide a functional interpretation of classical theories of positive arithmetic inductive definitions, reducing them to theories of finite-type functionals defined using transfinite recursion on well-founded trees.

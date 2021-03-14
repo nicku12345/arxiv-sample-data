@@ -1,0 +1,1 @@
+We consider second-order partial differential operators H in divergence form on \Ri^d with a positive-semidefinite, symmetric, matrix C of real L_\infty-coefficients and establish that H is strongly elliptic if and only if the associated semigroup kernel satisfies local lower bounds, or, if and only if the kernel satisfies Gaussian upper and lower bounds.

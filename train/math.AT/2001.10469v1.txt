@@ -1,0 +1,1 @@
+This document aims to give a self-contained account of the parts of abelian group theory that are most relevant for algebraic topology. It is almost purely expository, although there are some slightly unusual features in the treatment of tensor products, torsion products and \text{Ext} groups.

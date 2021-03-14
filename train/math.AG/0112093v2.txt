@@ -1,0 +1,1 @@
+We prove that the Leray spectral sequence in rational cohomology for the quotient map U_{n,d} \to U_{n,d}/G where U_{n,d} is the affine variety of equations for smooth hypersurfaces of degree d in \PP^n(\C) and G is the general linear group, degenerates at E_2.

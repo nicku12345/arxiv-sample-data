@@ -1,0 +1,1 @@
+It is shown that subclasses of separable binary Goppa codes, \Gamma(L,G) - codes, with L=\{\alpha \in GF(2^{2l}):G(\alpha)\neq 0 \} and special Goppa polynomials G(x) can be presented as a chain of embedded codes. The true minimal distance has been obtained for all codes of the chain.

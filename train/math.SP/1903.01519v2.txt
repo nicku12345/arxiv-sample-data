@@ -1,0 +1,1 @@
+We prove new spectral enclosures for the non-real spectrum of a class of 2\times2 block operator matrices with self-adjoint operators A and D on the diagonal and operators B and -B^* as off-diagonal entries. One of our main results resembles Gershgorin's circle theorem. The enclosures are applied to J-frame operators.

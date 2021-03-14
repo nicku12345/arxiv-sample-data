@@ -1,0 +1,1 @@
+We study the divisorial Zariski decomposition on varieties whose first Chern class is zero. We first prove that any exceptional divisor is contractible (up to a birational map that is an isomorphism in codimension one). We then characterize prime exceptional divisors on holomorphic symplectic manifolds.

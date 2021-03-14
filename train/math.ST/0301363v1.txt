@@ -1,0 +1,1 @@
+The jackknife variance estimator and the the infinitesimal jackknife variance estimator are shown to be asymptotically equivalent if the functional of interest is a smooth function of the mean or a trimmed L-statistic with Hoelder continuous weight function.

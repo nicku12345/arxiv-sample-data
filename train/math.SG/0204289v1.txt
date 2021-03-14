@@ -1,0 +1,1 @@
+Convergence of stochastic processes with jumps to diffusion processes is investigated in the case when the limit process has discontinuous coefficients.   An example is given in which the diffusion approximation of a queueing model yields a diffusion process with discontinuous diffusion and drift coefficients.

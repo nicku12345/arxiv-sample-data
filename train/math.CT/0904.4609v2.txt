@@ -1,0 +1,1 @@
+Let k be an algebraically closed field and A a finite dimensional associative k-algebra. We prove that there is no gap in the lengths of indecomposable A-modules of finite length. The analogous result holds for an abelian k-linear category C if the endomorphism algebras of the simples are k.

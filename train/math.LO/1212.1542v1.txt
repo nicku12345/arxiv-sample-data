@@ -1,0 +1,1 @@
+We define separating properties for normal ultrafilters. We prove that compactness and supercompactness are separable, yet compactness and measurability are not. We describe how to use separating properties in order to elicit distinct normal ultrafilters which do not contain the measurables.

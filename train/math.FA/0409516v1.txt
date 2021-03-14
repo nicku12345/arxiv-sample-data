@@ -1,0 +1,1 @@
+We derive asymptotic information on the iterates of a Volterra convolution operator acting on L^p(0,1), subject to a mild smoothness condition on the kernel. In particular, an asymptotically equal sequence of rank 1 operators is obtained, leading to a simple asymptotic formula for the operator norms of the iterates.

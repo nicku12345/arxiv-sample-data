@@ -1,0 +1,1 @@
+Given a hyperplane arrangement A in a real vector space, we introduce a real algebraic prevariety Z(A), and exhibit the complement of the complexification of A as the total space of an affine bundle with fibers modeled on the dual of the ambient vector space.

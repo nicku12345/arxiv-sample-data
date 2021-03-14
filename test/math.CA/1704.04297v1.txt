@@ -1,0 +1,1 @@
+We use a variant of the technique in [Lac17a] to give sparse L^p(log(L))^4 bounds for a class of model singular and maximal Radon transforms

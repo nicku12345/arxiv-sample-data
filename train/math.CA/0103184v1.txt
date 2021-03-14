@@ -1,0 +1,1 @@
+Computer algebra algorithms are developed for evaluating the coefficients in Airy-type asymptotic expansions that are obtained from integrals with a large parameter. The coefficients are defined from recursive schemes obtained from integration by parts. An application is given for the Weber parabolic cylinder function.

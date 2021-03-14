@@ -1,0 +1,1 @@
+We construct, in ZFC, a sequence of Boolean algebras for which the product of Lengths is strictly smaller than the Depth of the product algebra. This gives a positive answer to Problem 30 from Monk's book "Cardinal invariants on Boolean algebras".

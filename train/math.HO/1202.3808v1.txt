@@ -1,0 +1,1 @@
+Euler proves that the sum of two 4th powers can't be a 4th power and that the difference of two distinct non-zero 4th powers can't be a 4th power and Fermat's theorem that the equation x(x+1)/2=y^4 can only be solved in integers if x=1 and the final theorem y^3+1=x^2 can only be solves for x=3 and y=2 in integers. The paper is translated from Euler's Latin original into German.

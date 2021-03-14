@@ -1,0 +1,1 @@
+We survey various approaches to axiomatic stable homotopy theory, with examples including derived categories, categories of (possibly equivariant or localized) spectra, and stable categories of modular representations of finite groups. We focus mainly on representability theorems, localisation, Bousfield classes, and nilpotence.

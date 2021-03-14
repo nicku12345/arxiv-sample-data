@@ -1,0 +1,1 @@
+For a field F of characteristic not 2 and a directed row-finite graph \Gamma let L(\Gamma) be the Leavitt path algebra with the standard involution *. We study the Lie algebra K=K(L(\Gamma),*) of *-skew-symmetric elements and find necessary and sufficient conditions for the Lie algebra [K,K] to be simple.

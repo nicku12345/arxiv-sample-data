@@ -1,0 +1,1 @@
+This paper proves the sandwich classification conjecture for subgroups of an even dimensional hyperbolic unitary group U_{2n}(R,\Lambda) which are normalized by the elementary subgroup EU_{2n}(R,\Lambda), under the condition that R is a quasi-finite ring with involution, i.e a direct limit of module finite rings with involution, and n\geq 3.

@@ -1,0 +1,1 @@
+We show that every abelian Polish group is the topological factor-group of a closed subgroup of the full unitary group of a separable Hilbert space with the strong operator topology. It follows that all orbit equivalence relations induced by abelian Polish group actions are Borel reducible to some orbit equivalence relations induced by actions of the unitary group.

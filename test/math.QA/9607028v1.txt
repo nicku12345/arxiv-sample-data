@@ -1,0 +1,1 @@
+We construct tensor and bitensor categories with given Grothedieck rig (fusion algebra) in simple cases. The results provide examples on which to test the conjectural construction of 4-D TQFT's proposed by Crane and Frenkel and shed light on several other constructions of TQFT's.

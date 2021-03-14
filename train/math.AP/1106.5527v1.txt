@@ -1,0 +1,1 @@
+We study a positively charged Vlasov-Poisson plasma in which N negative point charges are immersed. The attractiveness of the system forces us to consider a possibly unbounded plasma density near the charges. We prove the existence of a global in time solution, assuming a suitable initial distribution of the velocities of the plasma particles. Uniqueness remains unsolved.

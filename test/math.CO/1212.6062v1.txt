@@ -1,0 +1,1 @@
+We provide the first example of a sign pattern S for which there exist orthogonal matrices Q_1 and Q_2 with sign pattern S such that \det Q_1=1 and \det Q_2=-1. The existence of such matrices is raised by C. Waters in {"Sign Pattern Matrices That Allow Orthogonality"}, Linear Algebra and Its Applications, 235:1-13 (1996).

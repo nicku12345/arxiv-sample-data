@@ -1,0 +1,1 @@
+A zone of width \omega on the unit sphere is the set of points within spherical distance \omega/2 of a given great circle. We show that the total width of any collection of zones covering the unit sphere is at least \pi, answering a question of Fejes T\'oth from 1973.

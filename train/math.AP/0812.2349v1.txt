@@ -1,0 +1,1 @@
+We investigate the equations of anisotropic axisymmetric incompressible viscous fluids in the exterior of a cylinder of \R^3, rotating around an inhomogeneous vector   B(t, r). We prove uniform local existence with respect to the Rossby number in suitable anisotropic Sobolev spaces. We also obtain the propagation of the isotropic Sobolev regularity.

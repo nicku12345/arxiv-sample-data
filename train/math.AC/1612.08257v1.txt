@@ -1,0 +1,1 @@
+We investigate the almost Cohen-Macaulay property and the Serre-type condition (C_n),\ n\in\mathbb{N}, for noetherian algebras and modules. More precisely, we find permanence properties of these conditions with respect to tensor products and direct limits.

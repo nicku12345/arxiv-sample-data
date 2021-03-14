@@ -1,0 +1,1 @@
+In this work we provide a definition of a coloured operad as a monoid in some monoidal category, and develop the machinery of Gr\"obner bases for coloured operads.   Among the examples for which we show the existance of a quadratic Gr\"obner basis we consider the seminal Lie-Rinehart operad whose algebras include pairs (functions, vector fields).

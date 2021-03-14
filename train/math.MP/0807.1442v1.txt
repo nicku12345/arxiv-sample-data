@@ -1,0 +1,1 @@
+We show that the connected-moments polynomial approach proposed recently is equivalent to the well known Rayleigh-Ritz variation method in the Krylov space. We compare the latter with one of the original connected-moments methods by means of a numerical test on an anharmonic oscillator

@@ -1,0 +1,1 @@
+Code loops are Moufang loops constructed from doubly even binary codes. Then, given a code loop L, we ask which doubly even binary code V produces L. In this sense, V is called a representation of L. In this article we define and determine all minimal and reduced representations of nonassociative code loops of rank 3 and 4.

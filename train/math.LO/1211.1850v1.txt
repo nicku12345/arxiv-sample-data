@@ -1,0 +1,1 @@
+Classical logic (the logic of non-constructive mathematics) is stronger than intuitionistic logic (the logic of constructive mathematics). Despite this, there are copies of classical logic in intuitionistic logic. All copies usually found in the literature are the same. This raises the question: is the copy unique? We answer negatively by presenting three different copies.

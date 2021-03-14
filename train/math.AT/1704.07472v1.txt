@@ -1,0 +1,1 @@
+This brief note elaborates on a result by Gepner and Henriques. They have shown that a Dwyer-Kan equivalence between two small, topological categories gives rise to a Quillen equivalence of the associated categories of topologically enriched presheaves. We present a more detailed account of their proof.

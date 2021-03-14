@@ -1,0 +1,1 @@
+Unlike the previous papers of the author, which are in an evenly spaced data setting, we present an approach which predicts the optimal value of the shape parameter contained in the muiltiquadrics and inverse multiquadrics in a purely scattered data setting. For the purpose of practical application, this approach is expected to be more useful.

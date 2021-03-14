@@ -1,0 +1,1 @@
+We give an example of an essential, hyperconnected, local geometric morphism that is not locally connected, arising from our work-in-progress on geometric morphisms \mathbf{PSh}(M) \to \mathbf{PSh}(N), where M and N are monoids.

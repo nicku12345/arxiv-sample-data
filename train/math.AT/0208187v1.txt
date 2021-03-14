@@ -1,0 +1,1 @@
+We study fibred spaces with fibres in a structure category \V and we show that cellular approximation, Blakers--Massey theorem, Whitehead theorems, obstruction theory, Hurewicz homomorphism, Wall finiteness obstruction, and Whitehead torsion theorem hold for fibred spaces. For this we introduce the cohomology of fibred spaces.

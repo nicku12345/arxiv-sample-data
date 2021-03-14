@@ -1,0 +1,1 @@
+A few families of counterexamples are provided to "A proof that the discrete singular convolution (DSC)/Lagrange-distributed approximation function (LDAF) method is inferior to high order finite differences", Journal of Computational Physics, 214, 538-549 (2006).

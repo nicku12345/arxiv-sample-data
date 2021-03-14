@@ -1,0 +1,1 @@
+This note gives a higher-dimensional generalization of the classical formula cap(K) = exp(-V(E)) expressing the logarithmic capacity in terms of the residue at infinity of its Green's function. The proof uses arithmetic intersection theory.

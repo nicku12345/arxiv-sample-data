@@ -1,0 +1,1 @@
+We obtain some structural properties of a factorised group G = AB, given that the conjugacy class sizes of certain elements in A\cup B are not divisible by p^2, for some prime p. The case when G = AB is a mutually permutable product is especially considered.

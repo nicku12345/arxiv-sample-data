@@ -1,0 +1,1 @@
+In this paper we present a numerical solution of a family of generalized fifth-order Korteweg-de Vries equations using a meshless method of lines. This method uses radial basis functions for spatial derivatives and Runge-Kutta method as a time integrator. This method exhibits high accuracy as seen from the comparison with the exact solutions.

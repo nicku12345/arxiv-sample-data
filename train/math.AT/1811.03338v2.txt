@@ -1,0 +1,1 @@
+A non-connected neither of finite type Hopf algebra \mathcal{F}_{0} is defined over \mathbb{Z}/ 2\mathbb{Z} and its hom dual turns out to be a tensor product of polynomial algebras. Certain quotient Hopf algebras include the Steenrod and Dyer-Lashof algebras. This setting provides a map between the Steenrod coalgebra and a direct limit of Dyer-Lashof coalgebras.

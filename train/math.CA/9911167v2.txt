@@ -1,0 +1,1 @@
+We prove that no smooth symmetric convex body \Omega with at least one point of non-vanishing Gaussian curvature can admit an orthogonal basis of exponentials. (The non-symmetric case was proven by Kolountzakis). This is further evidence of Fuglede's conjecture, which states that such a basis is possible if and only if \Omega can tile R^d by translations.

@@ -1,0 +1,1 @@
+Let Q be a connected directed quiver with n vertices. We show that Q is representation-infinite if and only if there do exist n isomorphism classes of exceptional modules of some fixed length at least 2.

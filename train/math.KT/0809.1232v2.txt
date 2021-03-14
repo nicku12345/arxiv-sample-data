@@ -1,0 +1,1 @@
+In this note we present some algebraic examples of multicomplexes whose differentials differ from those in the spectral sequences associated to the multicomplexes. The motivation for constructing examples showing the algebraic distinction between a multicomplex and its associated spectral sequence comes from the author's work on Morse-Bott homology with A. Banyaga.

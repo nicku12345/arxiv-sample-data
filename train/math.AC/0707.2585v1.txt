@@ -1,0 +1,1 @@
+We construct a notion of derived completion which applies to homomorphisms of commutative S-algebras. We study the relationship of the construction with other constructions of completions, and prove various invariance properties. The construction is expected to have applications within algebraic K-theory.

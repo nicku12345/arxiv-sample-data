@@ -1,0 +1,1 @@
+We prove pointwise bounds for L^2 eigenfunctions of the Laplace-Beltrami operator on locally symmetric spaces with \mathbb{Q}-rank one if the corresponding eigenvalues lie below the continuous part of the L^2 spectrum. Furthermore, we use these bounds in order to obtain some results concerning the L^p spectrum.

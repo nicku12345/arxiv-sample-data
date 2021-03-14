@@ -1,0 +1,1 @@
+We give an algebraic proof for the result of Eilenberg and Mac Lane that the second cohomology group of a simplicial group G can be computed as a quotient of a fibre product involving the first two homotopy groups and the first Postnikov invariant of G. Our main tool is the theory of crossed module extensions of groups.

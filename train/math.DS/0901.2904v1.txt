@@ -1,0 +1,1 @@
+Using Caputo fractional derivative of order \alpha, \alpha\in (0,1), we consider some chaotic systems of fractional differential equation. We will prove that they can be synchronized and anti-synchronized using suitable nonlinear control function. The synchronized or anti-synchronized error system of fractional differential equations is used in secure communication.

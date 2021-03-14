@@ -1,0 +1,1 @@
+For Gaussian hypergeometric functions F(x)= F(a,b;c;x), a,b,c>0, we consider the quotient  Q_F(x,y)= (F(x)+F(y))/F(z) and the difference  D_F(x,y)= F(x)+F(y)-F(z) for 0<x,y<1 with z=x+y-xy \,. We give best possible bounds for both expressions under various hypotheses about the parameter triple (a,b;c)\,.

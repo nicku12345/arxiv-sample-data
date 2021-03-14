@@ -1,0 +1,1 @@
+Let \mathcal{A} be a factor von Neumann algebra and \phi be the \ast-Jordan derivation on A, that is, for every A,B \in \mathcal{A},   \phi(A\diamond_{1} B) = \phi(A)\diamond_{1} B + A\diamond_{1}\phi( B) where A\diamond_{1} B = AB + BA^{\ast}, then \phi is additive \ast-derivation.

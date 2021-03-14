@@ -1,0 +1,1 @@
+We carefully define and study C*-algebras over topological spaces, possibly non-Hausdorff, and review some relevant results from point-set topology along the way. We explain the triangulated category structure on the bivariant Kasparov theory over a topological space. We introduce and describe an analogue of the bootstrap class for C*-algebras over a finite topological space.

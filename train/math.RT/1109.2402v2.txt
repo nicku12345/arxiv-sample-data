@@ -1,0 +1,1 @@
+We prove that the monoid of generic extensions of finite dimensional nilpotent k[T]-modules is isomorphic to the monoid of partitions (with addition of partitions). Moreover we give a combinatorial algorithm that calculates constant terms of classical Hall polynomials.

@@ -1,0 +1,1 @@
+In this work we present a class of functions, motivated by gap functions, which we call G-coupling functions. We will show that these functions can generate a duality scheme for minimization problems by means of the general conjugation theory. Thanks to this scheme, a Lagrange-type function is introduced as well.

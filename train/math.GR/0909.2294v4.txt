@@ -1,0 +1,1 @@
+It is shown that there exist finitely generated infinite simple groups of infinite commutator width and infinite square width on which there exists no stably unbounded conjugation-invariant norm, and in particular stable commutator length vanishes. Moreover, a recursive presentation of such a group with decidable word and conjugacy problems is constructed.

@@ -1,0 +1,1 @@
+We prove an explicit formula for the invariant \mu(\Lg) for finite-dimensional semisimple, and reductive Lie algebras \Lg over \C. Here \mu(\Lg) is the minimal dimension of a faithful linear representation of \Lg. The result can be used to study Dynkin's classification of maximal reductive subalgebras of semisimple Lie algebras.

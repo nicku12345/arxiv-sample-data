@@ -1,0 +1,1 @@
+We introduce invariants of spatial graphs related to the Wu invariant and the Simon invariant, and apply them to prove that certain graphs are intrinsically chiral, and to obtain lower bounds for the minimal crossing number of embedded graphs.

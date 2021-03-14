@@ -1,0 +1,1 @@
+Let G be a finite group with derived subgroup of rank r. We prove that \gzz\leq |G'|^{2r}. Motivated by the results of I. M. Isaacs in \cite{isa} we show that if G is capable then \gz\leq |G'|^{4r}. This answers a question of L. Pyber. We prove that if G is a capable p-group then the rank of G/\mathbf{Z}(G) is bounded above in terms of the rank of G'.

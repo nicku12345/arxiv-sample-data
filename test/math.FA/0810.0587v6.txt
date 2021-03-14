@@ -1,0 +1,1 @@
+In this paper, we study a part of approximation theory that presents the conditions under which a \Ceby\sev set in a Banach space is convex. To do so, we use Gateaux differentiability of the distance function.

@@ -1,0 +1,1 @@
+Let {\cal D} denote the class of bounded real analytic plane domains with the symmetry of an ellipse. We prove that if \Omega_1, \Omega_2 \in {\cal D} and if the Dirichlet spectra coincide, Spec(\Omega_1) = Spec(\Omega_2), then \Omega_1 = \Omega_2 up to rigid motion.

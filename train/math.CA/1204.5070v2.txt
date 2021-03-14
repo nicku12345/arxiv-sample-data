@@ -1,0 +1,1 @@
+We study the recurrence coefficients of the orthogonal polynomials with respect to a semi-classical extension of the Krawtchouk weight. We derive a coupled discrete system for these coefficients and show that they satisfy the fifth Painlev\'e equation when viewed as functions of one of the parameters in the weight.

@@ -1,0 +1,1 @@
+In this paper we consider the growth rates of 3-dimensional hyperbolic Coxeter polyhedra some of its dihedral angles are \frac{\pi}{m} for m\geq{7}. By combining with the classical result by Parry \cite{Pa} and the main result of \cite{Y}, we prove that the growth rates of 3-dimensional hyperbolic Coxeter groups are Perron numbers.

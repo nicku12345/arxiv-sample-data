@@ -1,0 +1,1 @@
+Using the construction of a Lyapunov function, it is shown that the Douglas-Rachford iteration with respect to a sphere and a line in \mathbb R^d is robustly \mathcal{KL}-stable. This implies a convergence which is stronger than uniform convergence on compact sets.

@@ -1,0 +1,1 @@
+Let n\ge 2 be an integer. Let R_n denote the n\times n tridiagonal matrix with -1's on the sub-diagonal, 1's on the super-diagonal, -1 in the (1,1) entry, 1 in the (n,n) entry and zeros elsewhere. We find the eigen-pairs of the matrices R_n.

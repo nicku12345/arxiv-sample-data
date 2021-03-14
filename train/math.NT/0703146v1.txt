@@ -1,0 +1,1 @@
+Let \Theta be a point in {\bf R}^n. We split the classical Khintchine's Transference Principle into n-1 intermediate estimates which connect exponents \omega_d(\Theta) measuring the sharpness of the approximation to \Theta by linear rational varieties of dimension d, for 0\le d \le n-1. We also review old and recent results related to these n exponents.

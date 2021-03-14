@@ -1,0 +1,1 @@
+Let M be a closed smooth manifold and let f:M\to M be a diffeomorphism. C^1-generically, a continuum-wise expansive satisfies Axiom A without cycles. Moreover, there is a partially hyperbolic diffeomorphism f such that it is not continuum-wise expansive.

@@ -1,0 +1,1 @@
+We give a proof of the Jardine-Tillmann generalized group completion theorem. It is much in the spirit of the original homology fibration approach by McDuff and Segal, but follows a modern treatment of homotopy colimits, using as little simplicial technology as possible. We compare simplicial and topological definitions of homology fibrations.

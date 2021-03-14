@@ -1,0 +1,1 @@
+A reflexive Banach space X with a basis (e_i) is constructed having the property that every monotone basis is block finitely representable in each block basis of X.

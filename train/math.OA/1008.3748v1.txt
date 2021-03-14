@@ -1,0 +1,1 @@
+Let A be a C^*-algebra. It is shown that the following conditions are equinvalent:   (1) A is scattered,   (2) every C^*-subalgebra of A is AF,   (3) every C^*-subalgebra of A has real rank zero.

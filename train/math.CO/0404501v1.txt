@@ -1,0 +1,1 @@
+We find the Ramsey number of a cycle vs. a complete graph when the order of the cycle is at least 4 times as large as the order of the complete graph. This partially confirms a conjecture of Erd\H{o}s, Faudree, Rousseau, and Schelp made in 1978.

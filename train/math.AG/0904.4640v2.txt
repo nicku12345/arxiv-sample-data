@@ -1,0 +1,1 @@
+We compute the Brauer group of the moduli stack of stable PGL(r)-bundles on a curve X over an algebraically closed field of characteristic zero. We also show that the Brauer group of such a moduli stack coincides with the Brauer group of the smooth locus of the corresponding coarse moduli space of stable PGL(r)-bundles on X.

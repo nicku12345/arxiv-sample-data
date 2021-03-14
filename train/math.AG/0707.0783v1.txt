@@ -1,0 +1,1 @@
+It is shown that the log-canonical threshold of a curve with an isolated singularity is computed by the term ideal of the curve in a suitable system of local parameters at the singularity. The proof uses the Enriques diagram of the singularity and shows that the log-canonical threshold depends only on a non-degenerate path of that diagram.

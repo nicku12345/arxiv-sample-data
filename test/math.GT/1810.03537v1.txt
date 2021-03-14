@@ -1,0 +1,1 @@
+We show that the asymptotic dimension of a hyperbolic relatively hyperbolic graph is finite provided that this holds true uniformly for the peripheral subgraphs and for the electrifiation. We use this to show that the asymptotic dimension of the disk graph of a handlebody of genus at least two is at most quadratic in the genus.

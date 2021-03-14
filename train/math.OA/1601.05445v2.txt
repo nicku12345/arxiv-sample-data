@@ -1,0 +1,1 @@
+We prove some stability results for certain classes of C*-algebras. We prove that whenever A is a finite-dimensional C*-algebra, B is a C*-algebra and \phi\colon A\to B is approximately a ^*-homomorphism then there is an actual ^*-homomorphism close to \phi by a factor depending only on how far is \phi from being a ^*-homomorphism and not on A or B.

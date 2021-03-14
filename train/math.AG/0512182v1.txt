@@ -1,0 +1,1 @@
+We calculate the Brauer group of a certain Calabi-Yau threefold discovered by Mark Gross and Sorin Popescu, which is a small resolution of a complete intersection of type (2,2,2,2) with 64 ordinary double points. We find the Brauer group is (Z/8Z)^2, which is the largest known example of a Brauer group of a Calabi-Yau threefold.

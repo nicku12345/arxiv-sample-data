@@ -1,0 +1,1 @@
+For a mixed characteristic complete discrete valuation field K which contains a p^n-th root of unity, we determine the graded quotients of the filtration on the Milnor K-groups K_q^M(K) modulo p^n in terms of differential forms of the residue field of K.

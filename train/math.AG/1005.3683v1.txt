@@ -1,0 +1,1 @@
+Let A be a principally polarized abelian threefold over a perfect field k, not isomorphic to a product over the algebraic closure of k. There exists a canonical extension k' of k, of degree 1 or 2, such that A becomes isomorphic to a Jacobian over k'. The aim of this note is to give a geometric construction of this extension.

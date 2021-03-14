@@ -1,0 +1,1 @@
+We find all 2-Bridge links up to 11 crossings and locate them in Thistlethwaite's link table. The splitting numbers of some links are calculated as a consequence of this identification.

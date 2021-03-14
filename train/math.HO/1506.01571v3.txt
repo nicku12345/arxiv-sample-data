@@ -1,0 +1,1 @@
+Any rational number can be factored into a product of several rationals whose sum vanishes. This simple but nontrivial fact was suggested as a problem on a maths olympiad for high-school students. We completely solve similar questions in all finite fields and in some other rings, e.g., in the complex and real matrix algebras. Also, we state several open questions.

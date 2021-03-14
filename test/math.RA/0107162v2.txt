@@ -1,0 +1,1 @@
+Let \Delta be a bicolored quadriculated disk with black-to-white matrix B_\Delta. We show how to factor B_\Delta = L\tilde DU, where L and U are lower and upper triangular matrices, \tilde D is obtained from a larger identity matrix by removing rows and columns and all entries of L, \tilde D and U are equal to 0, 1 or -1.

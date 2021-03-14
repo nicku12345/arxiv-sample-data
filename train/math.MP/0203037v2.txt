@@ -1,0 +1,1 @@
+We explicitly construct the algebraic model of affine Jacobian of a generic algebraic curve of high genus and use it to compute the Euler characteristic of the Jacobian and investigate its structure.

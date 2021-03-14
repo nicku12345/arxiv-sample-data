@@ -1,0 +1,1 @@
+Denote the alternating and symmetric groups of degree n by A_n and S_n respectively. Consider a permutation \sigma\in S_n all of whose nontrivial cycles are of the same length. We find the minimal polynomials of \sigma in the ordinary irreducible representations of A_n and S_n.

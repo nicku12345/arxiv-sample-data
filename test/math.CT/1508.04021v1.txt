@@ -1,0 +1,1 @@
+We review the concept of a univalent fibration and show by elementary means that every Kan fibration in simplicial sets can be embedded in a univalent Kan fibration.

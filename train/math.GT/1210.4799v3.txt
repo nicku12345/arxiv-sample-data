@@ -1,0 +1,1 @@
+In 2007 Agol showed that if N is an aspherical compact 3-manifold with empty or toroidal boundary such that its fundamental group is virtually RFRS, then N is virtually fibered. We give a largely self-contained proof of Agol's theorem using complexities of sutured manifolds.

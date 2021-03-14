@@ -1,0 +1,1 @@
+A result by Liskevich and Perelmuter from 1995 yields the optimal angle of analyticity for symmetric submarkovian semigroups on L_p, 1<p<\infty. C.~Kriegler showed in 2011 that the result remains true without the assumption of positivity of the semigroup. Here we give an elementary proof of Kriegler's result.

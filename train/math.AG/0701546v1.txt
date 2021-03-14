@@ -1,0 +1,1 @@
+We give a short and "classical" proof of Borcherds' theorem that the moduli space of Enriques surfaces is quasi-affine. The use of the Borcherds' product is replaced in our proof by an application of the Grothendieck-Riemann-Roch theorem.

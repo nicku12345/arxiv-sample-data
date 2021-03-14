@@ -1,0 +1,1 @@
+We compute the character table of \text{GL}_n(\mathbb{F}_q)\rtimes\!<\!\sigma\!>\!, \sigma being an order 2 exterior automorphism.

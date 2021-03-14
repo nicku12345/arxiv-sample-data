@@ -1,0 +1,1 @@
+Using the sieve, we show that there are infinitely many Carmichael numbers whose prime factors all have the form p = 1 + a^2 + b^2 with a,b \in{\mathbb Z}.

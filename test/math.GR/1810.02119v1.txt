@@ -1,0 +1,1 @@
+We prove that Morse subsets of CAT(0) spaces are strongly contracting. This generalizes and simplifies a result of Sultan, who proved it for Morse quasi-geodesics. Our proof goes through the recurrence characterization of Morse subsets.

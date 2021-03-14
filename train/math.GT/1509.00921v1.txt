@@ -1,0 +1,1 @@
+An important "stability" theorem in shape theory, due to D.A. Edwards and R. Geoghegan, characterizes those compacta having the same shape as a finite CW complex. In this note we present straightforward and self-contained proof of that theorem.

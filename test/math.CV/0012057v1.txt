@@ -1,0 +1,1 @@
+Let \mu be the equilibrium measure of an endomorphism of {\sf P}^k({\bf C}). We show that it is its unique measure of maximal entropy. We build \mu directly as the distribution of any point outside an algebraic exceptional set.

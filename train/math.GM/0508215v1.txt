@@ -1,0 +1,1 @@
+A certain analysis of all possible associative binary operations on N is presented. This is equivalent with an analysis of all possible monoid structures on N. Several results and a conjecture in this regard are given.

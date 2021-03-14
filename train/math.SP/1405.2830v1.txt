@@ -1,0 +1,1 @@
+We study the L^p-spectrum of the Dirac operator on complete manifolds. One of the main questions in this context is whether this spectrum depends on p. As a first example where p-independence fails we compute explicitly the L^p-spectrum for the hyperbolic space and its product with compact spaces.

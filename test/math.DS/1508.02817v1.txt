@@ -1,0 +1,1 @@
+We show that a doubly minimal system X has the property that for every minimal system Y the orbit closure of any pair (y,x) \in Y \times X is either Y \times X or it has the form \Gamma_\pi = \{(\pi(x),x) : x \in X\} for some factor map \pi: X \to Y. As a corollary we resolve a problem of Haddad and Ott from 2008 regarding product recurrence.

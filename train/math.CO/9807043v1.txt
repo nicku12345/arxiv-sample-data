@@ -1,0 +1,1 @@
+In a directed graph, the imbalance of a vertex is its outdegree minus its indegree. We characterize the sequences that are realizable as the sequence of imbalances of a simple directed graph. Moreover, a realization of a realizable sequence can be produced by a greedy algorithm.

@@ -1,0 +1,1 @@
+In this paper the incomplete gamma function \gamma(\alpha,x) and its derivative is considered for negative values of \alpha  and the incomplete gamma type function \gamma_*(\alpha,x_-) is introduced. Further the polygamma functions \psi^{(n)}(x) are defined for negative integers via the neutrix setting.

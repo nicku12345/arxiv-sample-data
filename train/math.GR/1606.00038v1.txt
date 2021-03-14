@@ -1,0 +1,1 @@
+In this paper, we show that projective special linear groups S:=L_3(q) with q less than 100 are uniquely determined by their orders and degree patterns of their prime graphs. Indeed, we prove that if G is a finite group whose order and degree pattern of its prime graph is the same as the order and the degree pattern of S, then G is isomorphic to S.

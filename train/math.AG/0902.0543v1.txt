@@ -1,0 +1,1 @@
+This is just a short proof of Kruskal's theorem regarding uniqueness of expressions for tensors, phrased in geometric language.

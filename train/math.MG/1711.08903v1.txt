@@ -1,0 +1,1 @@
+We show that every tiling of a convex set in the Euclidean plane \mathbb{R}^2 by equilateral triangles of mutually different sizes contains arbitrarily small tiles. The proof is purely elementary up to the discussion of one family of tilings of the full plane \mathbb{R}^2, which is based on a surprising connection to a random walk on a directed graph.

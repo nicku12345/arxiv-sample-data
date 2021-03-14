@@ -1,0 +1,1 @@
+In this paper, we introduce almost \cal D-split sequences and establish an elementary but somewhat surprising connection between derived equivalences and Auslander-Reiten sequences via BB-tilting modules. In particular, we obtain derived equivalences from Auslander-Reiten sequences (or n-almost split sequences), and Auslander-Reiten triangles.

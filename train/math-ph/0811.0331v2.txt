@@ -1,0 +1,1 @@
+In contrast with QFT, classical field theory can be formulated in strict mathematical terms of fibre bundles, graded manifolds and jet manifolds. Second Noether theorems provide BRST extension of this classical field theory by means of ghosts and antifields for the purpose of its quantization.

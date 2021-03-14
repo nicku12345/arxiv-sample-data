@@ -1,0 +1,1 @@
+We generalize the linear algebra setting of Tate's central extension to arbitrary dimension. In general, one obtains a Lie (n+1)-cocycle. We compute it explicitly. The construction is based on a Lie algebra variant of Beilinson's adelic multidimensional residue symbol, generalizing Tate's approach to the local residue symbol for 1-forms on curves.

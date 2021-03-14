@@ -1,0 +1,1 @@
+We give a new, simpler proof of the main approximation theorem for area minimizing current contained in Almgren's Big regularity paper. Our proof relies on a new estimate concerning the higher integrability of the quantity called here the excess density, which in turn we link to an analogous property of harmonic multiple valued functions.

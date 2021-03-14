@@ -1,0 +1,1 @@
+We isolate a large class of self-adjoint operators H whose essential spectrum is determined by their behavior at large x and we give a canonical representation of their essential spectrum in terms of spectra of limits at infinity of translations of H. The configuration space is an arbitrary abelian locally compact not compact group.

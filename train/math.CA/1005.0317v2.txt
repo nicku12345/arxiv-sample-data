@@ -1,0 +1,1 @@
+We extend Schwarz' list of irreducible algebraic Gauss functions to the four classes of Appell-Lauricella functions in several variables and the 14 complete Horn functions in two variables. This gives an example of a family of functions such that for any number of variables there are infinitely many algebraic functions, namely the Lauricella F_C functions.

@@ -1,0 +1,1 @@
+Consider a Hamiltonian action of a compact connected Lie group on a conformal symplectic manifold. We prove a convexity theorem for the moment map under the assumption that the action is of Lee type, which establishes an analog of Kirwan's convexity theorem in conformal symplectic geometry.

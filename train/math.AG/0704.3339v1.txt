@@ -1,0 +1,1 @@
+This paper provides a probabilistic algorithm to determine generators of the m-torsion subgroup of the Jacobian of a hyperelliptic curve of genus two.

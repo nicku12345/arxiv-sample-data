@@ -1,0 +1,1 @@
+In this paper we define Gabriel monads as the idempotent monads associated to exact reflective localizations in Abelian categories and characterize them by a simple set of properties. The coimage of a Gabriel monad is a Serre quotient category. The Gabriel monad induces an equivalence between its coimage and its image, the localizing subcategory of local objects.

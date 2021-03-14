@@ -1,0 +1,1 @@
+Boolos's proof of incompleteness is extended straightforwardly to yield simple ``diagonalization-free'' proofs of some classical limitative theorems of logic.

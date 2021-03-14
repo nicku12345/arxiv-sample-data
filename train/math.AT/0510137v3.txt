@@ -1,0 +1,1 @@
+Koll\'ar's conjecture states that a complex projective surface S with quotient singularities and with H^2(S,\bbQ)\cong \bbQ should be rational if its smooth part S^0 is simply connected.   We confirm the conjecture under the additional condition that the exceptional divisor in a minimal resolution of S has at most 3 components over each singular point of S.

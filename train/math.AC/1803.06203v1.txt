@@ -1,0 +1,1 @@
+This paper gives a numerically stable method to compute H-basis which is based on the computing a minimal basis for the module of syzygies using singular value decomposition. We illustrate the performance of this method by means of various examples.

@@ -1,0 +1,1 @@
+In this brief note, we give two explicit formulas for the Bernoulli Numbers in terms of the Stirling numbers of the second kind, and the Eulerian Numbers. To the best of our knowledge, these formulas are new. We also derive two more probably known formulas.

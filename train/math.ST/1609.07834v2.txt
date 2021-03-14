@@ -1,0 +1,1 @@
+We show that if the exposure and the outcome affect the selection indicator in the same direction and have non-positive interaction on the risk difference, risk ratio or odds ratio scale, the exposure-outcome odds ratio in the selected population is a lower bound for true odds ratio.

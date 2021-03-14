@@ -1,0 +1,1 @@
+Pruitt's estimates on the expectation and the distribution of the time taken by a random walk to exit a ball of radius r are extended to the infinite dimensional setting. It is shown that they separate into two pairs of estimates depending on whether the space is type 2 or cotype 2. It is further shown that these estimates characterize type 2 and cotype 2 spaces.

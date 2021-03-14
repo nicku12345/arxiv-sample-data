@@ -1,0 +1,1 @@
+We prove that if K and L are compact spaces and C(K) and C(L) are isomorphic as Banach spaces then K has a \pi-base consisting of open sets U such that \bar{U} is a continuous image of some compact subspace of L. This gives some information on isomorphic classes of the spaces of the form C([0,1]^\kappa) and C(K) where K is Corson compact.

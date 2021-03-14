@@ -1,0 +1,1 @@
+We study generalized Robin boundary conditions, Robin-to-Dirichlet maps, and Krein-type resolvent formulas for Schr\"odinger operators on bounded Lipschitz domains in \bbR^n, n\ge 2. We also discuss the case of bounded C^{1,r}-domains, (1/2)<r<1.

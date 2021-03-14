@@ -1,0 +1,1 @@
+Work of Kazhdan-Lusztig and Bezrukavnikov suggests the importance of points in affine Springer fibers for which the associated conjugacy class in the finite dimensional Lie algebra is regular. Such points are characterized in a different way in this paper, using the same kind of information as goes into the weight factors used to form weighted orbital integrals.

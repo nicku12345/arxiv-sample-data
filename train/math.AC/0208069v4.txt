@@ -1,0 +1,1 @@
+We present an algorithm for computing instanton numbers of curve singularities. A comparison is made between these and some other invariants of curve singularities. The algorithm has been implemented in the symbolic computer algebra program Macaulay2, and can be downloaded from http://www.math.nmsu.edu/\~{}iswanson/instanton.m2.}

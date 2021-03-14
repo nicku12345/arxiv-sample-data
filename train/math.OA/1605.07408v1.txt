@@ -1,0 +1,1 @@
+We construct a Fredhom module representing the Kasparov gamma element in G-equivariant KK-theory for G a semisimple Lie group of real rank one. This is the main step of our proof of the Baum-Connes conjecture for such groups.

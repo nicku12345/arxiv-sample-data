@@ -1,0 +1,1 @@
+The unitary group \mathrm U(\mathcal H) on an infinite dimensional complex Hilbert space \mathcal H in its strong topology is a topological group and has some further nice properties, e.g. it is metrizable and contractible if \mathcal H is separable. As an application Hilbert bundles are classified by homotopy.

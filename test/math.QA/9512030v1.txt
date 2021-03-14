@@ -1,0 +1,1 @@
+The definitions and some properties (e.g. the Wigner-Eckart theorem, the fusion procedure) of covariant and contravariant q-tensor operators for quasitriangular quantum Lie algebras are formulated in the R-matrix language. The case of U_q(sl(n)) (in particular, for n=2) is discussed in more detail.

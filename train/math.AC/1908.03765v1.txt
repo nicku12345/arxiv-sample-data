@@ -1,0 +1,1 @@
+The reduction number of monomial ideals in the polynomial K[x,y] is studied. We focus on ideals I for which J=(x^a,y^b) is a reduction ideal. The computation of the reduction number amounts to solve linear inequalities. In some special cases the reduction number can be explicitly computed.

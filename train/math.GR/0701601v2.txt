@@ -1,0 +1,1 @@
+Let F be the Thompson's group. We study the structure of F-limit groups. Consider a sequence of groups marked by three elements, each isomorphic to F. Assume that the this sequence is convergent in the space of marked groups. We prove that no HNN-extension of F over a cyclic subgroup occurs as an F-limit group of such a sequence.

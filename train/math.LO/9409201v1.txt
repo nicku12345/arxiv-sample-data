@@ -1,0 +1,1 @@
+This paper describes some experiments involving the automated theorem-proving program OTTER in the system TRC of illative combinatory logic. We show how OTTER can be steered to find a contradiction in an inconsistent variant of TRC, and present some experimentally discovered identities in TRC.

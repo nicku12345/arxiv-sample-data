@@ -1,0 +1,1 @@
+We prove exponential decay of correlations for a class of C^{1+\alpha} uniformly hyperbolic skew product flows, subject to a uniform nonintegrability condition. In particular, this establishes exponential decay of correlations for an open set of geometric Lorenz attractors. As a special case, we show that the classical Lorenz attractor is robustly exponentially mixing.

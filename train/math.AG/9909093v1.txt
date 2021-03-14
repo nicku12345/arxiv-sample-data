@@ -1,0 +1,1 @@
+Modifying an approach of J. Roe, this paper gives an improved lower bound on the degrees d such that for general points p1,...,pn in P2 and m > 0 there is a plane curve of degree d vanishing at each point pi with multiplicity at least m. In certain cases, for m not too large compared with n, the new bound implies a bound conjectured by Nagata.

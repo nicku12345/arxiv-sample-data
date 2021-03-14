@@ -1,0 +1,1 @@
+The descent algebra of the symmetric group, over a field of non-zero characteristic p, is studied. A homomorphism into the algebra of generalised p-modular characters of the symmetric group is defined. This is then used to determine the radical, and its nilpotency index. It also allows the irreducible representations of the descent algebra to be described.

@@ -1,0 +1,1 @@
+These notes give a proof of the representability of homotopy invariant K-theory in the stable homotopy category of schemes (which was announced by Voevodsky). One deduces from the proper base change theorem in stable homotopy theory of schemes a descent by blow-ups theorem for homotopy invariant K-theory.

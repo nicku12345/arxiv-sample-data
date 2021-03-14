@@ -1,0 +1,1 @@
+We show that for any point p in a closed Riemannian manifold M, there exists at least one point q\in M such that p is critical for the distance function from q. We also show that such a point q cannot always be reached with geodesic loops based at q with midpoint p.

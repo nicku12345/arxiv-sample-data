@@ -1,0 +1,1 @@
+We continue the study of \mathcal{OL}_\infty structure of nuclear C^*-algebras initiated by Junge, Ozawa and Ruan. In particular, we prove if \mathcal{OL}_\infty(A)<1.005, then A has a separating family of irreducible, stably finite representations. As an application we give examples of nuclear, quasidiagonal C^*-algebras A with \mathcal{OL}_\infty(A)>1.

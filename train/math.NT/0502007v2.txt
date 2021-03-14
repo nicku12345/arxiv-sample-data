@@ -1,0 +1,1 @@
+Let r_3(n) be the number of representations of a positive integer n as a sum of three squares of integers. We give two distinct proofs of a conjecture of Wagon concerning the asymptotic value of the mean square of r_3(n).

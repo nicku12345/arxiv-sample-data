@@ -1,0 +1,1 @@
+Let G be a connected reductive algebraic group over an algebraic closed field. We define a (surjective) map from the set of conjugacy classes in the Weyl group to the set of unipotent classes of G.

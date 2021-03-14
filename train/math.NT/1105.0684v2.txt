@@ -1,0 +1,1 @@
+We study a canonical basis for spaces of weakly holomorphic modular forms of weights 12, 16, 18, 20, 22, and 26 on the full modular group. We prove a relation between the Fourier coefficients of modular forms in this canonical basis and a generalized Ramanujan tau-function, and use this to prove that these Fourier coefficients are often highly divisible by 2.

@@ -1,0 +1,1 @@
+We prove small energy scattering for the 3D Klein-Gordon-Zakharov system with radial symmetry. The idea of proof is the same as the Zakharov system studied in \cite{GN}, namely to combine the normal form reduction and the radial-improved Strichartz estimates

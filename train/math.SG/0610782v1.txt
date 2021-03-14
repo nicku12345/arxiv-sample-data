@@ -1,0 +1,1 @@
+On a compact K\"{a}hler manifold X with a holomorphic 2-form \a, there is an almost complex structure associated with \a. We show how this implies vanishing theorems for the Gromov-Witten invariants of X. This extends the approach, used in \cite{lp} for K\"{a}hler surfaces, to higher dimensions.

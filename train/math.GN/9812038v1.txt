@@ -1,0 +1,1 @@
+A topological space (X,\tau) is called a locally LC-space if every point of X has a neighborhood U such that every Lindel\"{o}f subset of (U,\tau|U) is a closed subset of (U,\tau|U). The aim of this paper is to continue the study of locally LC-spaces.

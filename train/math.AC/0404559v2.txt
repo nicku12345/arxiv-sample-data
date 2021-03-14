@@ -1,0 +1,1 @@
+We introduce a measure of discrepancy of Hermitian matrices and establish an inequality between the second singular value of a Hermitian matrix and its discrepancy. These results are applied to answer two questions of Fan Chung about graph eigenvalues.

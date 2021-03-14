@@ -1,0 +1,1 @@
+We look at periodic Jacobi matrices on trees. We provide upper and lower bounds on the gap of such operators analogous to the well known gap in the spectrum of the Laplacian on the upper half-plane with hyperbolic metric. We make some conjectures about antibound states and make an interesting observation for what [3] calls the rg-model.

@@ -1,0 +1,1 @@
+The main purpose of this paper is to provide a description of the fundamental group of a symplectic manifold in terms of Floer theoretic objects. As an application, we show that when counted with a suitable notion of multiplicity, non degenerate Hamiltonian diffeomorphisms have enough fixed points to generate the fundamental group.

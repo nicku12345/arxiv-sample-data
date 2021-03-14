@@ -1,0 +1,1 @@
+We determine when there is a unique conditional expectation from a semifinite von Neumann algebra onto a singly-generated maximal abelian *-subalgebra. Our work extends the results of Kadison and Singer via new methods, notably the observation that a unique conditional expectation onto a singly-generated maximal abelian *-subalgebra must be normal.

@@ -1,0 +1,1 @@
+Let M be a Galois cover of a nilpotent coadjoint orbit of a complex semisimple Lie group. We define the notion of a PERFECT Dixmier algebra for M and show how this produces a graded (non-local) equivariant star product on M with several very nice properties. This is part of a larger program we have been developing for working out the orbit method for nilpotent orbits.

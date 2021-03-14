@@ -1,0 +1,1 @@
+This paper shows that, in the critical strip, the Riemann zeta function \zeta(s) have the same set of zeros as F(s):=\int_0^\infty t^{s-1}(e^t+1)^{-1}dt, and then discusses the behavior of F(s).

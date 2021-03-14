@@ -1,0 +1,1 @@
+Some Gauss-type quadrature rules over [0, 1], which involve values and/or the derivative of the integrand at 0 and/or 1, are investigated

@@ -1,0 +1,1 @@
+We prove that, for any graph G, its graph energy is at least twice the Randic index. We show that equality holds if and only if G is the union of complete bipartite graphs.

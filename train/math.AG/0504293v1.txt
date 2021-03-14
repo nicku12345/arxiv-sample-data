@@ -1,0 +1,1 @@
+A natural Hasse-Schmidt derivation on the exterior algebra of a free module realizes the (small quantum) cohomology ring of the grassmannian G_k(\CC^n) as a ring of operators on the exterior algebra of a free module of rank n. Classical Pieri's formula can be interpreted as Leibniz's rule enjoyed by special Schubert cycles with respect to the wedge product.

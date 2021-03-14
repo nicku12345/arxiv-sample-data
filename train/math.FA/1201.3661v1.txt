@@ -1,0 +1,1 @@
+In this note we answer some questions inspired by the introduction, by Alain Connes, of the notion of measurable operators using Dixmier traces. These questions concern the relationship of measurability to the asymptotics of \zeta-functions and heat kernels. The answers have remained elusive for some 15 years.

@@ -1,0 +1,1 @@
+Let Omega(n) be the volume of the unit ball in R^n. We formulate as an infinite product the gamma function ratio gamma(x+1/2)/gamma(x),x>0, which allows us to reproduce and /or produce a variety of formulas and inequalities, some of them seemingly new, concerning Omega(n-1)/Omega(n),and (Omega(n))^2/Omega(n-1)Omega(n+1)

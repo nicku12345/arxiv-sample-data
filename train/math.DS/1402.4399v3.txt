@@ -1,0 +1,1 @@
+We give an example of a sequential dynamical system consisting of intermittent-type maps which exhibits loss of memory with a polynomial rate of decay. A uniform bound holds for the upper rate of memory loss. The maps may be chosen in any sequence, and the bound holds for all compositions.

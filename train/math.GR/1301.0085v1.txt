@@ -1,0 +1,1 @@
+A conjecture of Berkovich asserts that every non-simple finite p-group has a non-inner automorphism of order p. This conjecture is far from being proved despite the great effort devoted to it. In this paper we prove it for p-groups of coclass 2, provided that p is odd. Some related results are also proved, and may be considered as interesting independently.

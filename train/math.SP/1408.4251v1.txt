@@ -1,0 +1,1 @@
+In this work we consider the Anderson model on the d-dimensional lattice with the single site potential having singular distribution, mainly \alpha-H\"older continuous ones and show that the eigenvalue statistics is Poisson in the region of exponential localization.

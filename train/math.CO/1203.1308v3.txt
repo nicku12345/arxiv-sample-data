@@ -1,0 +1,1 @@
+Heckman and Thomas conjectured that the fractional chromatic number of any triangle-free subcubic graph is at most 14/5. Improving on estimates of Hatami and Zhu and of Lu and Peng, we prove that the fractional chromatic number of any triangle-free subcubic graph is at most 32/11 (which is roughly 2.909).

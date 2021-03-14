@@ -1,0 +1,1 @@
+We show how to extrapolate an analytic function (or a smooth signal) by multiplying and dividing its values on geometric sequences that collapse to a point.

@@ -1,0 +1,1 @@
+We completely compute the slice spectral sequence of the C_4-spectrum BP^{((C_4))}\langle 2 \rangle. After periodization and K(4)-localization, this spectrum is equivalent to a height-4 Lubin-Tate theory E_4 with C_4-action induced from the Goerss-Hopkins-Miller theorem. In particular, our computation shows that E_4^{hC_{12}} is 384-periodic.

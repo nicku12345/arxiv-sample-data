@@ -1,0 +1,1 @@
+Given a triangle, what is the equation of the line which bisects its area and has a given slope? The set of all lines bisecting the area of a triangle has been elegantly determined as a certain 'deltoid' envelope and this gives an indirect method of solution. We find that vector algebra allows the equation to be written down rather directly and neatly.

@@ -1,0 +1,1 @@
+We build a semi-classical quantization procedure for finite volume man- ifolds with hyperbolic cusps, adapted to a geometrical class of symbols. We prove an Egorov Lemma until Ehrenfest times on such manifolds. Then we give a version of Quantum Unique Ergodicity for the Eisenstein series for values of s converging slowly to the unitary axis.

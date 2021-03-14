@@ -1,0 +1,1 @@
+The sequence of \alpha-trimmings of empirical probabilities is shown to converge, in the Painlev\'{e}--Kuratowski sense, on the class of probability measures endowed with the weak topology, to the \alpha-trimming of the population probability. Such a result is applied to the study of the asymptotic behaviour of central regions based on the trimming of a probability.

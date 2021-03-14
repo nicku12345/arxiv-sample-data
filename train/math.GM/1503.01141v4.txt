@@ -1,0 +1,1 @@
+Using numerical methods we construct evaluation formulas for the Jacobi \theta_4 functions. Our results are conjectures, but are verified numerically.

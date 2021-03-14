@@ -1,0 +1,1 @@
+The algorithm devised by Feige and Schechtman for partitioning higher dimensional spheres into regions of equal measure and small diameter is combined with David and Christ's construction of dyadic cubes to yield a partition algorithm suitable to any connected Ahlfors regular metric measure space of finite measure.

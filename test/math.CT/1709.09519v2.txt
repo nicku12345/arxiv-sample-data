@@ -1,0 +1,1 @@
+We prove that the homotopy theory of Joyal's tribes is equivalent to that of fibration categories. As a consequence, we deduce a variant of the conjecture asserting that Martin-L\"of Type Theory with dependent sums and intensional identity types is the internal language of (\infty, 1)-categories with finite limits.

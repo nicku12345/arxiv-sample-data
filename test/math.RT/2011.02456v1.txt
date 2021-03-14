@@ -1,0 +1,1 @@
+Let G be a p-adic classical group. The representations in a given Bernstein component can be viewed as modules for the corresponding Hecke algebra---the endomorphism algebra of a pro-generator of the given component. Using Heiermann's construction of these algebras, we describe the Bernstein components of the Gelfand--Graev representation for G=SO(2n+1).

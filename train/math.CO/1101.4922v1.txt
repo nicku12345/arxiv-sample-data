@@ -1,0 +1,1 @@
+Given n buttons and n bulbs so that the ith button toggles the ith bulb and at most two other bulbs, we compute the sharp lower bound on the number of bulbs that can be lit regardless of the action of the buttons.

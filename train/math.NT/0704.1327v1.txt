@@ -1,0 +1,1 @@
+Let P(k) be the largest prime factor of the positive integer k. In this paper, we prove that the series \sum_{n\ge 1}\frac{(\log n)^a}{P(2^n-1)} is convergent for each constant a<1/2, which gives a more precise form of a result of C. L. Stewart from 1977.

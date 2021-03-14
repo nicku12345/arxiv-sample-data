@@ -1,0 +1,1 @@
+We show that any 3-dimensional homotopy lens space M^3 that is simple-homotopy equivalent to a lens space L(p,q) is topologically s-cobordant to the lens space. It follows that M has the same multi-signature as L(p,q) and the action of \pi_1(M) on the universal cover of M embeds in an orthogonal action on S^7.

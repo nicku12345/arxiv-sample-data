@@ -1,0 +1,1 @@
+We extend previous results on noncommutative recurrence in unital *-algebras over the integers, to the case where one works over locally compact Hausdorff groups. We derive a generalization of Khintchine's recurrence theorem, as well as a form of multiple recurrence. This is done using the mean ergodic theorem in Hilbert space, via the GNS construction.

@@ -1,0 +1,1 @@
+We give a locally minimal, but not globally minimal bridge position of a knot, that is, an unstabilized, nonminimal bridge position of a knot. It implies that a bridge position cannot always be simplified so that the bridge number monotonically decreases to the minimal.

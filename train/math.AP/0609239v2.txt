@@ -1,0 +1,1 @@
+We prove the existence and the uniqueness of strong solutions for the viscous Hamilton-Jacobi Equation with Neumann boundary condition and initial data a continious function. Then, we study the large time behavior of the solutions.

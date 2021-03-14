@@ -1,0 +1,1 @@
+Let Omega be a domain in C^2. We prove the following theorem. If the envelope of holomorphy of Omega is schlicht over Omega, then the envelope is in fact schlicht. We provide examples showing that the theorem is not true in C^n, n>2. Additionally, we show that the theorem cannot be generalized to provide information about domains in C^2 whose envelopes are multiply sheeted.

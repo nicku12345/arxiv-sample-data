@@ -1,0 +1,1 @@
+Using well-known results from statistical physics, concerning the almost-sure behavior of the free energy of directed polymers in a random medium, we prove that random tree codes achieve the distortion-rate function almost surely under a certain symmetry condition.

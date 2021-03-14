@@ -1,0 +1,1 @@
+Atiyah proved that the moment map image of the closure of an orbit of a complex torus action is convex. Brion generalized this result to actions of a complex reductive group. We extend their results to actions of a maximal solvable subgroup.

@@ -1,0 +1,1 @@
+Let U(r) be the moduli space of rank r vector bundles with trivial determinant on a smooth curve of genus 2. The map theta_r: U(r) -> |r Theta|, which associates to a general bundle its theta divisor, is generically finite. In this paper we give a geometric interpretation of the generic fibre of theta_r.

@@ -1,0 +1,1 @@
+The aim of the present work is to study the Riesz decomposition relative to a C*-algebra homomorphism T : A --> B. We prove that under some conditions on T, T-Riesz elements can be decomposed into the sum of almost T-null element and quasi-nilpotent element. Also the so-called polyno- mial T-Riesz and generalized T-Riesz decompositions will be discussed.

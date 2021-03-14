@@ -1,0 +1,1 @@
+We generalize the Five Color Theorem by showing that it extends to graphs with two crossings. Furthermore, we show that if a graph has three crossings, but does not contain K_6 as a subgraph, then it is also 5-colorable. We also consider the question of whether the result can be extended to graphs with more crossings.

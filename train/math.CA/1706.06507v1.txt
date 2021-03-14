@@ -1,0 +1,1 @@
+We provide an improvement of the H\"ormander multiplier theorem in which the Sobolev space L^r_s(\mathbb R^n) with integrability index r and smoothness index s>n/r is replaced by the Sobolev space with smoothness s built upon the Lorentz space L^{n/s,1}(\mathbb R^n).

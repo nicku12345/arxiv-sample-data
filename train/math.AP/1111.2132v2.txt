@@ -1,0 +1,1 @@
+In this paper, we use some Fourier analysis techniques to find an exact solution to the Cauchy problem for the n-dimensional biwave equation in the upper half-space \mathbb{R}^n\times [0,+\infty).

@@ -1,0 +1,1 @@
+Lyubeznik introduced the concept of size of a monomial ideal and showed that the size of a monomial ideal increased by 1 is a lower bound for its depth. We show that the size is also a lower bound for its Stanley depth. Applying Alexander duality we obtain upper bounds for the regularity and Stanley regularity of squarefree monomial ideals.

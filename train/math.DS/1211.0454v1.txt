@@ -1,0 +1,1 @@
+The random beta-transformation K is isomorphic to a full shift. This relation gives an invariant measure for K that yields the Bernoulli convolution by projection. We study the local dimension of the invariant measure for K for special values of beta and use the projection to obtain results on the local dimension of the Bernoulli convolution.

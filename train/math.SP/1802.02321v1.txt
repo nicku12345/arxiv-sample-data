@@ -1,0 +1,1 @@
+We consider second-order functional differential operators with a constant delay. Properties of their spectral characteristics are obtained and a nonlinear inverse problem is studied, which consists in recovering the operators from their spectra. We establish the uniqueness and develop a constructive algorithm for solution of the inverse problem.

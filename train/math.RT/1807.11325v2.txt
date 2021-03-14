@@ -1,0 +1,1 @@
+We show the existence of a unitriangular basic set for unipotent blocks simple reductive groups of classical type in bad characteristic with some exceptions. Then,we introduce an algorithm to count irreducible unipotent Brauer characters and we verify that this algorithm is effective for exceptional adjoint groups.

@@ -1,0 +1,1 @@
+We consider random hermitian matrices in which distant above-diagonal entries are independent but nearby entries may be correlated. We find the limit of the empirical distribution of eigenvalues by combinatorial methods. We also prove that the limit has algebraic Stieltjes transform by an argument based on dimension theory of noetherian local rings.

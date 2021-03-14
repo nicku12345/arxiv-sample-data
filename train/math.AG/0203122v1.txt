@@ -1,0 +1,1 @@
+We propose a variation of the notion of Segre class, by forcing a naive `inclusion-exclusion' principle to hold. The resulting class is computationally tractable, and is closely related to Chern-Schwartz-MacPherson classes. We deduce several general properties of the new class from this relation, and obtain an expression for the Milnor class of a scheme in terms of this class.

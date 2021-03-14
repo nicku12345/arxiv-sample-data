@@ -1,0 +1,1 @@
+This paper provides the second term in the small time asymptotic expansion of the spectral heat content of a rotationally invariant \alpha--stable process, 0<\alpha \leq 2, for the interval (a,b). The small time behavior of the spectral heat content turns out to be linked to the distribution of the supremum and infimum processes.

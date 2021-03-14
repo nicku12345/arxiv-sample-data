@@ -1,0 +1,1 @@
+We prove a pointwise estimate for positive dyadic shifts of complexity m which is linear in the complexity. This can be used to give a pointwise estimate for Calder\'on-Zygmund operators and to answer a question posed by A. Lerner. Several applications to weighted estimates for both multilinear Calder\'on-Zygmund operators and square functions are discussed.

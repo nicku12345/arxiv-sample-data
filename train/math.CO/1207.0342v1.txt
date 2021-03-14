@@ -1,0 +1,1 @@
+Let G be a graph of radius r and diameter d with d\leq 2r-2. We show that G contains a cycle of length at least 4r-2d, i.e. for its circumference it holds c(G)\geq 4r-2d. Moreover, for all positive integers r and d with r\leq d\leq 2r-2 there exists a graph of radius r and diameter d with circumference 4r-2d.

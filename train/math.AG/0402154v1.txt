@@ -1,0 +1,1 @@
+For a smooth Del Pezzo surface the direct sum of global sections of all isomorphism classes of invertible sheaves on it can be almost canonically endowed with a ring structure, called the Cox ring. We show that in characteristic 0 this ring is Gorenstein and its spectrum has rational singularities. Also a gap in math.AG/0309111 is pointed out.

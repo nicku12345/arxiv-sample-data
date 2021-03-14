@@ -1,0 +1,1 @@
+\begin{abstract} For the Hardy space H^p(\mathbb{R}^{d}),  0<p\leq 1, we shall improve a Hardy's type inequality associated with Dunkl transform respect to the measures d\mu_{k} homogeneous of degree \gamma , on the strip (2\gamma+d)(2-p)\leq\sigma<2\gamma+d+p(N+1), where N =[(2\gamma+d)(1/p-1)] is the greatest integer not exceeding (2\gamma+d)(1/ p -1). \end{abstract}

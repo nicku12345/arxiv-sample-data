@@ -1,0 +1,1 @@
+We introduce the notion of a logical model category which is a Quillen model category satisfying some additional conditions. Those conditions provide enough expressive power that one can soundly interpret dependent products and sums in it. On the other hand, those conditions are easy to check and provide a wide class of models some of which are listed in the paper.

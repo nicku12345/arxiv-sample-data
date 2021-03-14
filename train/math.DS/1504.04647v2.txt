@@ -1,0 +1,1 @@
+We show that a k-linear pointwise ergodic theorem on an ergodic measure-preserving system implies a uniform k-linear nilsequence Wiener-Wintner theorem on that system. The assumption is known to hold for arbitrary systems and k=2 (due to Bourgain) and for distal systems and arbitrary k (due to Huang, Shao, and Ye).

@@ -1,0 +1,1 @@
+Let C_*(K) denote the cellular chains on the Stasheff associahedra. We construct an explicit combinatorial diagonal \Delta : C_*(K) --> C_*(K) \otimes C_*(K); consequently, we obtain an explicit diagonal on the A_\infty-operad. We apply the diagonal \Delta to define the tensor product of A_\infty-(co)algebras in maximal generality.

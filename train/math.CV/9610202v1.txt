@@ -1,0 +1,1 @@
+We prove that the integral operators R_r and H_r constructed in \cite{P} and such that f = \bar\partial_{\bold M} R_r(f) + R_{r+1}(\bar\partial_{\bold M} f) + H_r(f), for a differential form f \in C_{(0,r)}^{\infty}({\bold M}) on a regular q-concave CR manifold {\bold M} admit sharp estimates in the Lipschitz scale.

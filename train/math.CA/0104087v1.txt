@@ -1,0 +1,1 @@
+Let \Omega be a compact convex domain in the plane. We prove that L^2(\Omega) has an orthogonal basis of exponentials if and only if \Omega tiles the plane by translation.

@@ -1,0 +1,1 @@
+In this paper, we study VC-density over indiscernible sequences (denoted VC_ind-density). We answer an open question in [1], showing that VC_ind-density is always integer valued. We also show that VC_ind-density and dp-rank coincide in the natural way.

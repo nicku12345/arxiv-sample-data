@@ -1,0 +1,1 @@
+We calculate the outerplanar crossing numbers of complete multipartite graphs which have n partite sets with m vertices and one partite set with p vertices, where either p|mn or mn|p.

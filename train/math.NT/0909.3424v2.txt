@@ -1,0 +1,1 @@
+We investigate \mathbb{Q}-ranks of the elliptic curve E_t: y^2+txy=x^3+tx^2-x+1 where t is a rational parameter. We prove that for infinitely many values of t the rank of E_t(\mathbb{Q}) is at least 4.

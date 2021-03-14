@@ -1,0 +1,1 @@
+The goal of this paper is to prove an equivalence between the (\infty,2)-category of cartesian factorization systems of \infty-categories and that of pointed cartesian fibrations of \infty-categories. This generalizes a similar result known for ordinary categories and sheds some light on the interplay between these two seemingly distant concepts.

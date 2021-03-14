@@ -1,0 +1,1 @@
+We present a new proof of a Sundaresan's result which shows that the space of orthogonally additive polynomials \mathcal{P}_o(^k\ell_p) is isometrically isomorphic to \ell_{p/p-k} if k<p<\infty and to \ell_\infty if 1\leq p\leq k.

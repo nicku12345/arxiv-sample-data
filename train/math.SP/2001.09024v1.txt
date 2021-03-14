@@ -1,0 +1,1 @@
+We prove a quantitative deterministic equivalence theorem for the logarithmic potentials of deterministic complex N\times N matrices subject to small random perturbations. We show that with probability close to 1 this log-potential is, up to a small error, determined by the singular values of the unperturbed matrix which are larger than some small N-dependent cut-off parameter.

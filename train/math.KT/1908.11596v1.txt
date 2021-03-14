@@ -1,0 +1,1 @@
+Our (weak) conjecture claims that a finite dimensional Lie algebra {\bf g} over the field of complex numbers is semi-simple iff the Leibniz homology vanishes in positive dimensions HL_i({\bf g})=0, i>0. We will indicate a mistake in the recent proof of this conjecture due to Burde and Wagemann.

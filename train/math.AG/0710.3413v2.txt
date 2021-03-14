@@ -1,0 +1,1 @@
+In this work, we compute the effective cone of the space of n pointed genus 0 rational curves, \bar{M}_{0,n} for odd n. We will, in fact, use the equivalence of \bar{M}_{0,n} and the space of (semi) stable configurations of n weighted points on \mathbb{CP}^{1} with special weight (1,..., 1) up to symmetric group action.

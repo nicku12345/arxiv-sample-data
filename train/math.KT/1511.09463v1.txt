@@ -1,0 +1,1 @@
+We show that a C*-algebra "looking like" a Cuntz-Krieger algebra is a Cuntz-Krieger algebra. This implies that, in an appropriate sense, the class of Cuntz-Krieger algebras is closed under extensions of real rank zero.

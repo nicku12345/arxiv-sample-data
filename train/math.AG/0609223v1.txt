@@ -1,0 +1,1 @@
+We introduce a notion of Jacobi-Bernoulli cohomology associated to a semi-simplicial Lie algebra (SELA). For an algebraic scheme X over \C, we construct a tangent SELA \t_X and show that the Jacobi-Bernoulli cohomology of \t_X is related to infinitesimal deformations of X.

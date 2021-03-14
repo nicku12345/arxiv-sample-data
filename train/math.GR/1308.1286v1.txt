@@ -1,0 +1,1 @@
+For any positive integers m and n, the word map (x,y) -> x^m y^n is almost measure preserving on large finite simple groups G.

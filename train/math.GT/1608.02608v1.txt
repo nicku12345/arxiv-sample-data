@@ -1,0 +1,1 @@
+A quadrisecant line is one which intersects a curve in at least four points, while an essential secant captures something about the knottedness of a knot. This survey article gives a brief history of these ideas, and shows how they may be applied to questions about the geometry of a knot via the total curvature, ropelength and distortion of a knot.

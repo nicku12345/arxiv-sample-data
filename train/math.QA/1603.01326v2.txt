@@ -1,0 +1,1 @@
+We generalize the notion of an intertwining operator to N-graded weak modules over a vertex operator algebra and study their properties. We show a formula for the dimensions of these intertwining operators in terms of modules over the Zhu algebras under some conditions on N-graded weak modules.

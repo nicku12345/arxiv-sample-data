@@ -1,0 +1,1 @@
+We study the discrete-time, real valued bounded process \{X_n, n\in {\mathbb N} \} defined by a second order recurrence relation X_{n+2} = \varphi(X_n,X_{n+1}). We obtain the decay of correlations under analytical hypotheses on \varphi  (regularity, bounds on derivatives ...)

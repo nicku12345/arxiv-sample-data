@@ -1,0 +1,1 @@
+P. Van Dooren (1979) constructed an algorithm for computing all singular summands of Kronecker's canonical form of a matrix pencil. His algorithm uses only unitary transformations, which improves its numerical stability. We extend Van Dooren's algorithm to square complex matrices with respect to consimilarity transformations and to pairs of m-by-n complex matrices.

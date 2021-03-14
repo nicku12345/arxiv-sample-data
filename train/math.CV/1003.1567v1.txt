@@ -1,0 +1,1 @@
+We study the maximal number 0\le h\le+\infty for a given plane domain \Omega such that f\in H^p whenever p<h and f is analytic in the unit disk with values in \Omega. One of our main contributions is an estimate of h for unbounded K-quasidisks.

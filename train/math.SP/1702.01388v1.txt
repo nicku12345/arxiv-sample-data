@@ -1,0 +1,1 @@
+We consider Schr\"odinger operators with complex decaying potentials (in general, not from trace class) on the lattice. We determine trace formulae and estimate of eigenvalues and singular measure in terms of potentials. The proof is based on estimates of free resolvent and analysis of functions from Hardy space.

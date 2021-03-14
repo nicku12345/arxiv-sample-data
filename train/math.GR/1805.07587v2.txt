@@ -1,0 +1,1 @@
+We survey recent progress in computing with finitely generated linear groups over infinite fields, describing the mathematical background of a methodology applied to design practical algorithms for these groups. Implementations of the algorithms have been used to perform extensive computer experiments.

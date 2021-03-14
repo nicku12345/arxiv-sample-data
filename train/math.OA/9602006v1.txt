@@ -1,0 +1,1 @@
+The recently developed theory of partial actions of discrete groups on C^*-algebras is extended. A related concept of actions of inverse semigroups on C^*-algebras is defined, including covariant representations and crossed products. The main result is that every partial crossed product is a crossed product by a semigroup action.

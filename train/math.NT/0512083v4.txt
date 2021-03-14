@@ -1,0 +1,1 @@
+Given N positive integers a_1, ..., a_N with \gcd(a_1, ..., a_N)=1, let f_N denote the largest natural number which is not a positive integer combination of a_1, ..., a_N. This paper gives an optimal lower bound for f_N in terms of the absolute inhomogeneous minimum of the standard (N-1)-simplex.

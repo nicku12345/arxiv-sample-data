@@ -1,0 +1,1 @@
+In this paper, we introduce the so-called multiscale limit for spectral curves, associated with real finite-gap Sine-Gordon solutions. This technique allows to solve the old problem of calculating the density of topological charge for real finite-gap Sine-Gordon solutions directly from the \theta-functional formulas.

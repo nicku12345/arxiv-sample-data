@@ -1,0 +1,1 @@
+We remove the Hausdorff condition from Levin's theorem on the representation of preorders by families of continuous utilities. We compare some alternative topological assumptions in a Levin's type theorem, and show that they are equivalent to a Polish space assumption.

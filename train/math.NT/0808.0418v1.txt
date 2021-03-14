@@ -1,0 +1,1 @@
+For an odd positive integer n\ge 5, assuming the truth of the abc conjecture, we show that for a positive proportion of pairs (a,b) of integers the trinomials of the form t^n+at+b (a,b\in \mathbb Z) are irreducible and their discriminants are squarefree.

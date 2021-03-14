@@ -1,0 +1,1 @@
+Let f(z)=z^5+az^3+bz^2+cz+d \in \Z[z] and let us consider a del Pezzo surface of degree one given by the equation \cal{E}_{f}: x^2-y^3-f(z)=0. In this note we prove that if the set of rational points on the curve E_{a, b}:Y^2=X^3+135(2a-15)X-1350(5a+2b-26) is infinite, then the set of rational points on the surface \cal{E}_{f} is dense in the Zariski topology.

@@ -1,0 +1,1 @@
+In 1980 J. Powell proposed that five specific elements sufficed to generate the Goeritz group of any Heegaard splitting of S^3, extending work of Goeritz on genus 2 splittings. Here we prove that Powell's conjecture was correct for splittings of genus 3 as well, and discuss a framework for deciding the truth of the conjecture for higher genus splittings.

@@ -1,0 +1,1 @@
+This paper introduces an extension of Heron's formula to approximate area of cyclic n-gons where the error never exceeds \frac{\pi}{e}-1

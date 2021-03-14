@@ -1,0 +1,1 @@
+A first encounter with A(\lambda) := \int_0^{+\infty}\{\lambda t\}\{t\}t^{-2}dt. This text contains the detailed calculations leading to the results of our paper "Etude de l'autocorrelation multiplicative de la fonction "partie fractionnaire"", to appear in the Ramanujan Journal.

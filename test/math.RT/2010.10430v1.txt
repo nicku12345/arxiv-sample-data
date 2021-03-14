@@ -1,0 +1,1 @@
+We survey some methods developed in a series of papers, for classifying localising subcategories of tensor triangulated categories. We illustrate these methods by proving a new theorem, providing such a classification in the case of the stable module category of a unipotent finite supergroup scheme.

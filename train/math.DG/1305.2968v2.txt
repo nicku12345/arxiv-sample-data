@@ -1,0 +1,1 @@
+We present the area and coarea formulas for Lipschitz maps, valid for general volume densities. As applications, we give a short, "euclidean" proof of the anisotropic Sobolev inequality and describe an anisotropic tube formula for hypersurfaces in mathbb{R}^n. A discussion about the first variation of the anisotropic area is also included.

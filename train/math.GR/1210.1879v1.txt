@@ -1,0 +1,1 @@
+A conjecture due to Zassenhaus asserts that if \ G is a finite group then any torsion unit in \mathbb{Z}G is conjugate in \mathbb{Q}G to an element of \ G. We present a weaker form of this conjecture for some infinite groups.

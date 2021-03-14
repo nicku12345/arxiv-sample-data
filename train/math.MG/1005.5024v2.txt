@@ -1,0 +1,1 @@
+It is known that for a convex body K in R^d of volume one, the expected volume of random simplices in K is minimised if K is an ellipsoid, and for d = 2, maximised if K is a triangle. Here we provide corresponding stability estimates.

@@ -1,0 +1,1 @@
+This paper shows that a construction, which was introduced by Piotr Minc in connection with a problem that came from Helly type theorems and that allows to replace three PL-arcs with a "sheltered middle path", can in the case of general (non-PL) paths result in the topologist's sine curve.

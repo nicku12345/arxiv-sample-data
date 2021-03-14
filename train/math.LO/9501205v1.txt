@@ -1,0 +1,1 @@
+Shelah's own proof to his recent polarized partition theorem involving a singular strong limit that violates the GCH is presented. The proof is slightly re-arranges so that no use of the ideal I[\lambda] is made. The proof should be readabel to any student with knowledge of set theory.

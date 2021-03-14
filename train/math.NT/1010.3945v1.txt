@@ -1,0 +1,1 @@
+We derive heuristically the approximate formula for the difference \sqrt{p_{n+1}} - \sqrt{p_n}, where p_n is the n-th prime. We find perfect agreement between this formula and the available data from the list of maximal gaps between consecutive primes.

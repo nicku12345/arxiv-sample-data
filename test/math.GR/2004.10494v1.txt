@@ -1,0 +1,1 @@
+In this paper, we focus on a question of M. Newman on isomorphic subgroups of solvable groups. We get a reduction theorem of this question: for each prime q, assume that this question holds for every characteristic q-groups, then this question holds for every finite solvable groups. Using this reduction theorem, we get some partial answers about this question.

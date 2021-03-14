@@ -1,0 +1,1 @@
+In this paper, we establish two mean value theorems for the number of solutions of the Diophantine equation \frac{a}{n}=\frac{1}{x}+\frac{1}{y}, in the case when a is fixed and n varies and in the case when both a and n vary.

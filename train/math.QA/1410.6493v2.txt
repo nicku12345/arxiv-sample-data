@@ -1,0 +1,1 @@
+Let \g be a complex orthogonal or symplectic Lie algebra and   \g'\subset \g the Lie subalgebra of rank \rk \g'=\rk \g-1 of the same type. We give an explicit construction of generators of the Mickelsson algebra Z_q(\g,\g') in terms of Chevalley generators via the R-matrix of U_q(\g).

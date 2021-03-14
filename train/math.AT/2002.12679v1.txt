@@ -1,0 +1,1 @@
+In this paper we prove the homotopy lifting property for symmetric products SP_{m}(X) and F_{m}(X), with X a Hausdorff topological space. Furthermore, we introduce a new tool, the theory of topological puzzles, to get a useful decomposition of X^{m}.

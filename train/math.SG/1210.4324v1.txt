@@ -1,0 +1,1 @@
+We prove two theorems on the removal of singularities on the boundary of a pseudo-holomorphic curve. In one theorem, we need no apriori assumption on the area of the curve. The proof uses a doubling argument with the goal of converting curves with boundary to curves without boundary. Our method is new and geometric and it does not need Sobolev spaces and PDEs.

@@ -1,0 +1,1 @@
+It is proved that for any domain in \mathbb C^n the Caratheodory--Eisenman volume is comparable with the volume of the indicatrix of the Caratheodory metric up to small/large constants depending only on n. Then the "multidimensional Suita conjecture" theorem of Blocki and Zwonek implies a comparable relationship between these volumes and the Bergman kernel.

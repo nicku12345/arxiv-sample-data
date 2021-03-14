@@ -1,0 +1,1 @@
+Let \mathcal{B}(n,q) be the class of block graphs on n vertices having all their blocks of the same size. We prove that if G\in \mathcal{B}(n,q) has at most three pairwise adjacent cut vertices then the minimum spectral radius \rho(G) is attained at a unique graph. In addition, we present a lower bound for \rho(G) when G\in \mathcal{B}(n,q).

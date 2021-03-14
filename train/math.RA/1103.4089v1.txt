@@ -1,0 +1,1 @@
+Let E be any directed graph, and K any field. We classify those graphs E for which the Leavitt path algebra L_K(E) is primitive. As a consequence, we obtain classes of examples of von Neumann regular prime rings which are not primitive.

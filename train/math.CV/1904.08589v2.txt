@@ -1,0 +1,1 @@
+We prove a Chebyshev transform formula for a notion of (weighted) transfinite diameter that is defined using a generalized notion of polynomial degree. We also generalize Leja points to this setting. As an application of our main formula, we prove that in the unweighted case, these generalized Leja points recover the transfinite diameter.

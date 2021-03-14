@@ -1,0 +1,1 @@
+Using the notion of complete compactness introduced by H. Saar, we define completely almost periodic functionals on completely contractive Banach algebras. We show that, if (M,\Gamma) is a Hopf--von Neumann algebra with M injective, then the space of completely almost periodic functionals on M_\ast is a C^\ast-subalgebra of M.

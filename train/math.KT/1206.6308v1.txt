@@ -1,0 +1,1 @@
+In this article, we define two equivalent new model structures on \mathbf{sCat} the category of simplicial objects in \mathbf{Cat}. Then we construct the corresponding stable model category of spectra Sp(\mathbf{sCat}) and make some links with the algebraic K-theory via the mapping space.

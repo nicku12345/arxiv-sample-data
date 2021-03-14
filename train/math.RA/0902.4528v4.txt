@@ -1,0 +1,1 @@
+We give a new and elementary proof that simultaneous similarity and simultaneous equivalence of families of matrices are invariant under extension of the ground field, a result which is non-trivial for finite fields and first appeared in a paper of Klinger and Levy.

@@ -1,0 +1,1 @@
+We use cycle complexes with coefficients in an Azumaya algebra, as developed by Kahn and Levine, to compare the G-theory of an Azumaya algebra to the G-theory of the base scheme. We obtain a sharper version of a theorem of Hazrat and Hoobler in certain cases.

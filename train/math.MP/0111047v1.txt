@@ -1,0 +1,1 @@
+By applying the supersymmetric approach we rigorously prove smoothness of the averaged density of states for a three dimensional random band matrix ensemble, in the limit of infinite volume and fixed band width. We also prove that the resulting expression for the density of states coincides with the Wigner semicircle with a precision 1/W^2, for W large but finite.

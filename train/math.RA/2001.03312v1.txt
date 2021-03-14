@@ -1,0 +1,1 @@
+Let A be a ring and \varphi its automorphism. It is proved that skew Laurent series ring A((x,\varphi )) is a right serial ring if and only if A is a right serial right Artinian ring.

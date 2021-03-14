@@ -1,0 +1,1 @@
+We compute the homology of the spaces in the Omega spectrum for BoP. There is no torsion in H_*(\underline{BoP}_{\; i}) for i \ge 2, and things are only slightly more complicated for i < 2. We find the complete homotopy type of \underline{BoP}_{\; i} for i \le 6 and conjecture the homotopy type for i > 6. This completes the computation of all H_*(\underline{MSU}_{\;*}).

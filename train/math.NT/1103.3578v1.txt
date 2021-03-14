@@ -1,0 +1,1 @@
+Here, we show that there is no positive integer n such that the nth Cullen number C_n=n2^n+1 has the property that it is composite but \phi(C_n)\mid C_n-1.

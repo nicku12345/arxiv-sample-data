@@ -1,0 +1,1 @@
+We present an algorithm to construct a basis of k-th extension group of a D-module M in ring of the formal power series Ext_D^k(M,O).

@@ -1,0 +1,1 @@
+We construct a nonexpansive linear operator on the Gurarii space that "captures" all nonexpansive linear operators between separable Banach spaces. Some additional properties involving its restrictions to finite-dimensional subspaces describe this operator uniquely up to an isometry.

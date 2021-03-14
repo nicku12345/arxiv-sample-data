@@ -1,0 +1,1 @@
+We prove the determinant connectivity matrix formula. Mathematically, the proof introduces novel techniques based on an algebraic approach and connectivity properties. Although this is the second part of a previous paper and has its original motivation there, the paper is self contained and the result is interesting in itself.

@@ -1,0 +1,1 @@
+Consider a fiber bundle in which the total space, the base space and the fiber are all symplectic manifolds. We study the relations between the quantization of these spaces. In particular, we discuss the geometric quantization of a vector bundle, as oppose to a line bundle, over the base space that recovers the standard geometric quantization of the total space.

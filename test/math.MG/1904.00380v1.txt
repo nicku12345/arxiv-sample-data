@@ -1,0 +1,1 @@
+To a metric space X we associate a compact topological space \nu' X called the corona of X. Then a coarse map f:X\to Y between metric spaces is mapped to a continuous map \nu' f:\nu' X\to \nu' Y between coronas. Sheaf cohomology on coarse spaces has been introduced in arXiv:1710.06725. We show the functor \nu' preserves and reflects sheaf cohomology.

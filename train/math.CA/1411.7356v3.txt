@@ -1,0 +1,1 @@
+We characterise the big pieces of Lipschitz graphs property in terms of projections. Roughly speaking, we prove that if a large subset of an n-Ahlfors-David regular set E \subset \mathbb{R}^d has plenty of projections in L^{2}, then a large part of E is contained in a single Lipschitz graph. This is closely related to a question of G. David and S. Semmes.

@@ -1,0 +1,1 @@
+A binomial coefficient identity due to Zhi-Wei Sun is the subject of half a dozen recent papers that prove it by various analytic techniques and establish a generalization. Here we give a simple proof that uses weight-reversing involutions on suitable configurations involving dominos and colorings. With somewhat more work, the method extends to the generalization also.

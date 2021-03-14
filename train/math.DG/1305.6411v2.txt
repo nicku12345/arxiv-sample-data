@@ -1,0 +1,1 @@
+For test configurations, the Donaldson-Futaki invariant F_1 is well-known. In this note, its refinement will be discussed. Then we see that Li-Xu's pathology doesn't occur, since their example of a non-normal test configuration, with trivial normalization, actually has non-vanishing F_1 in this refined sense.

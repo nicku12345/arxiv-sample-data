@@ -1,0 +1,1 @@
+We give a proof that the geometric K-homology theory for finite CW-complexes defined by Baum and Douglas is isomorphic to Kasparov's K-homology. The proof is a simplification of more elaborate arguments which deal with the geometric formulation of equivariant K-homology theory.

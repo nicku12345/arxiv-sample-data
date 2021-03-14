@@ -1,0 +1,1 @@
+In this paper, we introduce a new parameter, the affine twist parameter for the affine deformation of a sphere with holes. We show that the affine deformation space can be parametrized by Margulis invariants and affine twist parameters. The affine twist parameter is canonically regarded as a correspondence to the Fenchel-Nielsen twist parameter in Teichmuller theory.

@@ -1,0 +1,1 @@
+In this article we show that the Czech mathematician Vaclav Simerka discovered the factorization of (10^17-1)/9 using a method based on the class group of binary quadratic forms more than 120 years before Shanks and Schnorr developed similar algorithms. Simerka also gave the first examples of what later became known as Carmichael numbers.

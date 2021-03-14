@@ -1,0 +1,1 @@
+We prove the second Voronoi conjecture on parallelohedra for zonotope. We show that for a given face-to-face tiling of d-dimensional Euclidean space into parallel copies of zonotope Z there are d vectors, connecting centers of zonotopes with common facet, that are basis of the correspondent lattice of the tiling.

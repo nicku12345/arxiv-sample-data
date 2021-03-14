@@ -1,0 +1,1 @@
+We prove a theorem concerning the approximation of multivariate functions by deep ReLU networks. We present new error estimates for which the curse of the dimensionality is lessened by establishing a connection with sparse grids.

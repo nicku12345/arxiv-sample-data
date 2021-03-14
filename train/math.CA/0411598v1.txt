@@ -1,0 +1,1 @@
+In this paper two theorems which describe dissipative boundary conditions for ordinary differential operators on a closed interval are proved. We also show that all these boundary conditions are Birkhoff regular in even case. In odd case this is not true and we bring an example which demonstrates it.

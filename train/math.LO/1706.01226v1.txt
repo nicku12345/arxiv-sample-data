@@ -1,0 +1,1 @@
+Let \alpha\in(0,1)_\mathbb{R} be irrational and G_n = G_{{n, 1/n}^\alpha} be the random graph with edge probability 1/n^\alpha; we know that it satisfies the 0-1 law for first order logic. We deal with the failure of the 0-1 law for stronger logics: \mathbb{L}_{ \infty, k}, k large enough and the LFP, least fix point logic.

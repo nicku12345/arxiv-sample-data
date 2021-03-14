@@ -1,0 +1,1 @@
+We define for an associative algebra an A_{\infty} category whose objects are automorphisms of this algebra. This construction has some resemblance with Fukaya'a categories related to Floer cohomology.

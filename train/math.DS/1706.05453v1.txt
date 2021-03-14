@@ -1,0 +1,1 @@
+In this paper, two types of Lyapunov exponents: random Lyapunov exponents and directional Lyapunov exponents, and the corresponding entropies: random entropy and directional entropy, are considered for smooth \mathbb{Z}^k-actions. The close relation among these quantities are investigated and the formulas of them are given via the Lyapunov exponents of the generators.

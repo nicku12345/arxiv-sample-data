@@ -1,0 +1,1 @@
+Let TA denote the space underlying the tensor algebra of a vector space A. In this short note, we show that if A is a differential graded algebra, then TA is a differential Batalin-Vilkovisky algebra. Moreover, if A is an A-infinity algebra, then TA is a commutative BV-infinity algebra.

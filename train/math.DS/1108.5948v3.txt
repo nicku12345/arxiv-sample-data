@@ -1,0 +1,1 @@
+We consider a class of piecewise smooth one-dimensional maps with critical points and singularities (possibly with infinite derivative). Under mild summability conditions on the growth of the derivative on critical orbits, we prove the central limit theorem and a vector-valued almost sure invariance principle. We also obtain results on decay of correlations.

@@ -1,0 +1,1 @@
+This article deals with detection of nonconstant long memory parameter in time series. The null hypothesis presumes stationary or nonstationary time series with constant long memory parameter, typically an I(d) series with d>-.5. The alternative corresponds to an increase in persistence and includes in particular an abrupt or gradual change from I(d_1) to I(d_2).

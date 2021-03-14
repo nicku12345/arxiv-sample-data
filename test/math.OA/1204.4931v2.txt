@@ -1,0 +1,1 @@
+We introduce the notion of a (noncommutative) C*-Segal algebra as a Banach algebra which is a dense ideal in a C*-algebra. Several basic properties are investigated and, with the aid of the theory of multiplier modules, the structure of C*-Segal algebras with order unit is determined.

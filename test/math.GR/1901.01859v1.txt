@@ -1,0 +1,1 @@
+Let m,n be positive integers and w a multilinear commutator word. Assume that G is a finite group having subgroups G_1,\ldots,G_m whose union contains all w-values in G. Assume further that all elements of the subgroups G_1,\ldots,G_m are n-Engel in G. It is shown that the verbal subgroup w(G) is s-Engel for some \{m,n,w\}-bounded number s.

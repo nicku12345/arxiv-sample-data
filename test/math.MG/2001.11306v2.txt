@@ -1,0 +1,1 @@
+Hare, Mendivil, and Zuberman have recently shown that if X is a compact subset of the reals and of non-zero Assouad dimension \dim_A X, then for all s>\dim_A X, X supports measures with Assouad dimension s. We generalise this result to arbitrary complete metric spaces.

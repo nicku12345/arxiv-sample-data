@@ -1,0 +1,1 @@
+Every action on a Poisson manifold by Poisson diffeomorphisms lifts to a Hamiltonian action on its symplectic groupoid which has a canonically defined momentum map. We study various properties of this momentum map as well as its use in reduction.

@@ -1,0 +1,1 @@
+A family of minimal cubature rules is established on an unbounded domain, which is the first such family known on unbounded domains. The nodes of such cubature rules are common zeros of certain orthogonal polynomials on the unbounded domain, which are also constructed.

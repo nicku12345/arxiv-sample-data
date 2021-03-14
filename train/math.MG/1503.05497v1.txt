@@ -1,0 +1,1 @@
+A smooth five-dimensional s-cobordism becomes a smooth product if stabilized by a finite number n of S^2xS^2x[0,1]'s. We show that for amenable fundamental groups, the minimal n is subextensive in covers, i.e., n(cover)/index(cover) has limit 0. We focus on the notion of sweepout width, which is a bridge between 4-dimensional topology and coarse geometry.

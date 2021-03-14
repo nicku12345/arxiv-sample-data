@@ -1,0 +1,1 @@
+If N = {q^k}{n^2} is an odd perfect number, where q is the Euler prime, then we show that n < q is sufficient for Sorli's conjecture that k = \nu_{q}(N) = 1 to hold. We also prove that q^k < 2/3{n^2}, and that I(q^k) < I(n), where I(x) is the abundancy index of x.

@@ -1,0 +1,1 @@
+A theory of Clebsch-Gordan coefficients for SL(2, C) is given using only rational numbers. Features include orthogonality relations, recurrence relations, and Regge's symmetry group. Results follow from elementary representation theory and properties of binomial coefficients. A computational algorithm is given based on Pascal's recurrence.

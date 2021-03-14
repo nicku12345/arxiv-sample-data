@@ -1,0 +1,1 @@
+In a generalization of the classical Hilbert inequality by Hardy, Littlewood and P\'{o}lya, the best constant for an inequality is determined provided that the generating function for the corresponding matrix satisfies certain monotonicity condition. In this paper, we determine the best constant for a class of inequalities when the monotonicity condition is no longer satisfied.

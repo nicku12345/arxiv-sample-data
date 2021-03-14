@@ -1,0 +1,1 @@
+We prove that any \mathcal C^{1,1} solution to complex Monge-Amp\`ere equation   det(u_{i\bar{j}})=f with   0<f\in\mathcal C^{\alpha} is in \mathcal C^{2,\alpha} for \alpha\in (0,1).

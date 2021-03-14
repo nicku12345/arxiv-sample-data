@@ -1,0 +1,1 @@
+We prove a Chekanov-type theorem for the spherization of the cotangent bundle ST^*B of a closed manifold B. It claims that for Legendrian submanifolds in ST^*B the property "to be given by a generating family quadratic at infinity" persists under Legendrian isotopies.

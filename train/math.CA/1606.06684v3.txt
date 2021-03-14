@@ -1,0 +1,1 @@
+By considering a Moran-type construction of fractals on [0,1], we show that for any 0\le s\le 1, there exists some Moran fractal set, which is perfect, with Hausdorff dimension s whose Fourier dimension is zero and it contains arbitrarily long arithmetic progressions.

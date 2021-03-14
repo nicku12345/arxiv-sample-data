@@ -1,0 +1,1 @@
+We describe a universal factorization for a functor with values in finite-dimensional measured algebras. More precisely we contruct the quantum automorphism group of this functor. This general recontruction result allows us to recapture a finite-dimensional Hopf algebra from the category of finite-dimensional measured comodule algebras.

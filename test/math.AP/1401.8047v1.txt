@@ -1,0 +1,1 @@
+We prove that every weak solution to a certain class of infinitely degenerate quasilinear equations is continuous. An essential feature of the operators we consider is that their Fefferman-Phong associated metric may be non doubling with respect to Lebesgue measure.

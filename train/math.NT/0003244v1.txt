@@ -1,0 +1,1 @@
+We classify all complex quadratic number fields with 2-class group of type (2,2^m) whose Hilbert 2-class fields have class groups of 2-rank equal to 2. These fields all have 2-class field tower of length 2. We still don't know examples of fields with 2-class field tower of length 3, but the smallest candidate is the field with discriminant -1015.

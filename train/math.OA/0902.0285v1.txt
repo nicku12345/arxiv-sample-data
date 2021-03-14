@@ -1,0 +1,1 @@
+On a separable C*-algebra A every (completely) bounded map, which preserves closed two sided ideals, can be approximated uniformly by elementary operators if and only if A is a finite direct sum of C*-algebras of continuous sections vanishing at infinity of locally trivial C*-bundles of finite type.

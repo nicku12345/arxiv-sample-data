@@ -1,0 +1,1 @@
+We prove the convergence of the normalized Fubini-Study measures and the logarithms of the Bergman kernels of various Bergman spaces of holomorphic and weakly holomorphic sections associated to a singular Hermitian holomorphic line bundle on an algebraic curve. Using this, we study the asymptotic distribution of the zeros of random sequences of sections in these spaces.

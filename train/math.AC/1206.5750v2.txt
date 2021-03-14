@@ -1,0 +1,1 @@
+We compute the reverse lexicographic generic initial ideals of the powers of a 2-complete intersection ideal I. In particular, we give six algorithms to compute these generic initial ideals, the choice of which depends on the power and on the relative degrees of the minimal generators of I.

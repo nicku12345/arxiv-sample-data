@@ -1,0 +1,1 @@
+In this paper we show a Kunneth formula for Bredon cohomology for actions of a pullback of groups. We show how this formula can be used to compute orbifold twisted K-theory for some discrete twistings. Using that result we compute orbifold K-theory for some 6-dimensional orbifolds introduced by Vafa and Witten. These examples also show the limitations of the method.

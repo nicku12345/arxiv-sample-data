@@ -1,0 +1,1 @@
+Let (R,\mathfrak m) be a Noetherian local ring, I an ideal of R and M a weakly finite or a coatomic R-module of dimension n. In this article, we resolve the Artinianness and non-Artinianness of top local cohomology modules, H^{cd(I,M)}_I(M), in all cases except in the case cd(I,M)=n-1 and dim(R/{I+Ann(M)})>1 for which we have some sorter results under certain conditions.

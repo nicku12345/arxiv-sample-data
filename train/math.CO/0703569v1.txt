@@ -1,0 +1,1 @@
+Yudin's lower bound for the spherical designs is generalized to the cubature formulas on the projective spaces over a field K, where K can be R, C, or H (the field of quaternions), and thus to isometric embeddings of l_2 into l_p with p an even integer. For large p and in some other situations this is essentially better than those known before.

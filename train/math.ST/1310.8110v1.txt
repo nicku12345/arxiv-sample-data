@@ -1,0 +1,1 @@
+A new acceptance-rejection method is proposed and investigated for the Bingham distribution on the sphere using the angular central Gaussian distribution as an envelope. It is shown to have high efficiency and to be straightfoward to use. The method can also be extended to Fisher and Fisher-Bingham distributions on spheres and related manifolds.

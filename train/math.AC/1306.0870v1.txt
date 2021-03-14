@@ -1,0 +1,1 @@
+We show how subintegral extensions of certain local Noetherian domains S can be constructed with specified invariants including reduction number, Hilbert function, multiplicity and local cohomology. The construction behaves analytically like Nagata idealization but rather than a ring extension of S, it produces a subring R of S such that R \subseteq S is subintegral.

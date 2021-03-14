@@ -1,0 +1,1 @@
+Neighborly cubical polytopes are known as the cubical analogues of the cyclic polytopes. Using the short cubical h-vectors of cubical polytopes (introduced by Adin), we derive an explicit formula for the face numbers of the neighborly cubical polytopes. These face numbers form a unimodal sequence.

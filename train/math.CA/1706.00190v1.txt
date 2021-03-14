@@ -1,0 +1,1 @@
+We represent a general bilinear Calder\'on-Zygmund operator as a sum of simple dyadic operators. The appearing dyadic operators also admit a simple proof of a sparse bound. In particular, the representation implies a so called sparse T1 theorem for bilinear singular integrals.

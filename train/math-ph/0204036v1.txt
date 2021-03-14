@@ -1,0 +1,1 @@
+The differential constraints are applied to obtain explicit solutions of nonlinear diffusion equations. Certain linear determining equations with parameters are used to find such differential constraints. They generalize the determining equations used in the search for classical Lie symmetries.

@@ -1,0 +1,1 @@
+The aim of this work is to describe the equivalence relations in \Q/\Z that arise as the rational lamination of polynomials with all cycles repelling. We also describe where in parameter space one can find a polynomial with all cycles repelling and a given rational lamination. At the same time we derive some consequences that this study has regarding the topology of Julia sets.

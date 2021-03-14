@@ -1,0 +1,1 @@
+We show that any orientation preserving Hodge isometry between the Hodge structures of two K3 surfaces X and X' twisted by Brauer classes \alpha resp. \alpha' can be lifted to a Fourier-Mukai equivalence between the derived categories of \alpha resp. \alpha'-twisted sheaves.

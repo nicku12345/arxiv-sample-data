@@ -1,0 +1,1 @@
+We extend a result of Napp Avelli, van der Put, and Rocha with a system-theoretic interpretation to the noncommutative case: Let P be a f.g. projective module over a two-sided Noetherian domain. If P admits a subdirect product structure of the form P = M x_T L over a factor module T of grade at least 2 then the torsion-free factor of M (resp. L) is projective.

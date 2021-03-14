@@ -1,0 +1,1 @@
+We define an infinite chain of subcategories of the partition category by introducing the left-height (l) of a partition. For the Brauer case, the chain starts with the Temperley-Lieb (l=-1) and ends with the Brauer (l=\infty) category. The End sets are algebras, i.e., an infinite tower thereof for each l, whose representation theory is studied in the paper.

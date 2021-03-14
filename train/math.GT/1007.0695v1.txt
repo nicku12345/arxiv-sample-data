@@ -1,0 +1,1 @@
+We establish an upper bound \omega(p/q) on the complexity of manifolds obtained by p/q-surgeries on the figure eight knot. It turns out that if \omega(p/q)\leqslant 12, the bound is sharp.

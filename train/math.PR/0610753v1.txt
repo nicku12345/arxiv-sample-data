@@ -1,0 +1,1 @@
+In this paper we introduce a stochastic integral with respect to the solution X of the fractional heat equation on [0,1], interpreted as a divergence operator. This allows to use the techniques of the Malliavin calculus in order to establish an It\^{o}-type formula for the process X.

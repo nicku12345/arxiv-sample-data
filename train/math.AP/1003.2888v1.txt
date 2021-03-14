@@ -1,0 +1,1 @@
+In this paper we focus on the initial value problem for a hyperbolic-elliptic coupled system of a radiating gas in multi-dimensional space. By using a time-weighted energy method, we obtain the global existence and optimal decay estimates of solutions. Moreover, we show that the solution is asymptotic to the linear diffusion wave which is given in terms of the heat kernel.

@@ -1,0 +1,1 @@
+Let X be a three dimensional real Banach space. Ben\'itez and Otero \cite {BeO} showed that if the unit ball of X is is an intersection of two ellipsoids, then every 2-polynomial defined in a linear subspace of X can be extended to X preserving the norm. In this article, we extend this result to any finite dimensional Banach space.

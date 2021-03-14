@@ -1,0 +1,1 @@
+A braid-like isotopy for links in 3-space is an isotopy which uses only those Reidemeister moves which occur in isotopies of braids. We define a refined Jones polynomial and its corresponding Khovanov homology which are, in general, only invariant under braid-like isotopies.

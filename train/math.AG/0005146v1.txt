@@ -1,0 +1,1 @@
+Segre proved that a smooth cubic surface over Q is unirational iff it has a rational point. We prove that the result also holds for cubic hypersurfaces over any field, including finite fields.

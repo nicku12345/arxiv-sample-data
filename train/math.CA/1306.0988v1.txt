@@ -1,0 +1,1 @@
+We define a more general type of integral on time scales. The new diamond integral is a refined version of the diamond-alpha integral introduced in 2006 by Sheng et al. A mean value theorem for the diamond integral is proved, as well as versions of Holder's, Cauchy-Schwarz's and Minkowski's inequalities.

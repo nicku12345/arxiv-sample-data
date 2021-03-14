@@ -1,0 +1,1 @@
+Let P be a Camina p-group that acts on a group Q in such a way that C_P (x) \subseteq P' for all nonidentity elements x \in Q. We show that P must be isomorphic to the quaternion group Q_8. If P has class 2, this is a known result, and this paper corrects a previously published erroneous proof of the general case.

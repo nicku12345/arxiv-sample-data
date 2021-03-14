@@ -1,0 +1,1 @@
+We present a mixed method for the linearized elasticity equations with independent approximation of the curl of the displacements. The curl can be seen as a drilling degree of freedom allowing for coupling with rotating objects and the direct application of moments of force.

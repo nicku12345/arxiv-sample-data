@@ -1,0 +1,1 @@
+We utilize a theorem of B. Feigin and S. Loktev to give explicit bases for the global Weyl modules for the map algebras of the form \mathfrak{sl}_n\otimes A of highest weight m\omega_1. These bases are given in terms of specific elements of the universal enveloping algebra, \mathbf{U}(\mathfrak{sl}_n\otimes A), acting on the highest weight vector.

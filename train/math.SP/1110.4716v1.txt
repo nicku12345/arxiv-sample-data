@@ -1,0 +1,1 @@
+We consider the Schr\"odinger operator with a periodic potential p on the real line. We assume that p belongs to the Sobolev space \mH_m on the circle for some m\ge -1, and we determine the asymptotics of the quasimomentum and the Titchmarsh-Weyl functions, the Bloch functions at high energy.

@@ -1,0 +1,1 @@
+We give a method for constructing a regularizing decomposition of a matrix pencil, which is formulated in terms of the linear mappings. We prove that two pencils are topologically equivalent if and only if their regularizing decompositions coincide up to permutation of summands and their regular parts coincide up to homeomorphisms of their spaces.

@@ -1,0 +1,1 @@
+We discuss automating the calculation of weak shape derivatives in the Unified Form Language (Aln{\ae}s et al., ACM Trans. Math. Softw., 2014) by introducing an appropriate additional step in the pullback from physical to reference space that computes G\^ateaux derivatives with respect to the coordinate field. We illustrate the ease of use with several examples.

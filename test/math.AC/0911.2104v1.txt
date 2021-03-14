@@ -1,0 +1,1 @@
+We define nice partitions of the multicomplex associated to a Stanley ideal. As the main result we show that if the monomial ideal I is a CM Stanley ideal, then I^p is a Stanley ideal as well, where I^p is the polarization of I.

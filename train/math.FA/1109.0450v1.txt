@@ -1,0 +1,1 @@
+In \cite{Positive semidefinite solutions}, T. Furuta discusses the existence of positive semidefinite solutions of the operator equation \sum_{j=1}^{n}A^{n-j}XA^{j-1}=B. In this paper, we shall apply Grand Furuta inequality to study the operator equation. A generalized special type of B is obtained due to \cite{Positive semidefinite solutions}.

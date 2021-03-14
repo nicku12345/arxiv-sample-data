@@ -1,0 +1,1 @@
+An earlier article with Francis Bonahon introduced new invariants for pseudo-Anosov diffeomorphisms of surface, based on the representation theory of the quantum Teichmuller space. We explicity compute these quantum hyperbolic invariants in the case of the 1-puncture torus and the 4-puncture sphere.

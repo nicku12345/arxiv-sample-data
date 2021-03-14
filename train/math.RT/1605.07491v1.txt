@@ -1,0 +1,1 @@
+We construct an action of the Hecke monoid on the category of rational modules for the quantum negative Borel subgroup of the quantum general linear group. We also show that this action restricts to the category of polynomial modules for this quantum subgroup and induces an action on the category of modules for quantised Borel-Schur algebras.

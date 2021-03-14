@@ -1,0 +1,1 @@
+We determine the maximal hyperbolic reflection groups associated to the quadratic forms -3x_0^2 + x_1^2 + ... + x_n^2, n \ge 2, and present the Coxeter schemes of their fundamental polyhedra. These groups exist in dimensions up to 13, and a proof is given that in higher dimensions these quadratic forms are not reflective.

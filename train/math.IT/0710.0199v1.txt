@@ -1,0 +1,1 @@
+If N=2^k > 8 then there exist exactly [(k-1)/2] pairwise nonequivalent Z_4-linear Hadamard (N,2N,N/2)-codes and [(k+1)/2] pairwise nonequivalent Z_4-linear extended perfect (N,2^N/2N,4)-codes. A recurrent construction of Z_4-linear Hadamard codes is given.

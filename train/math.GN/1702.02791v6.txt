@@ -1,0 +1,1 @@
+We find (completeness type) conditions on topological semilattices X,Y guaranteeing that each continuous homomorphism h:X\to Y has closed image h(X) in Y.

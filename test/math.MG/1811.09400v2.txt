@@ -1,0 +1,1 @@
+Consider a d-dimensional simplex whose vertices are random points chosen independently according to the standard Gaussian distribution on \mathbb R^d. We prove that the expected angle sum of this random simplex equals the angle sum of the regular simplex of the same dimension d.

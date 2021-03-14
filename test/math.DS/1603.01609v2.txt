@@ -1,0 +1,1 @@
+We prove that any C^{1+BV} degree d \geq 2 circle covering h having all periodic orbits weakly expanding, is conjugate in the same smoothness class to a metrically expanding map. We use this to connect the space of parabolic external maps (coming from the theory of parabolic-like maps) to metrically expanding circle coverings.

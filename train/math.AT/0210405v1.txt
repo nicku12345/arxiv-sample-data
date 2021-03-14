@@ -1,0 +1,1 @@
+Often a localization functor (in the category of groups) sends a finite simple group to another finite simple group. We study when such a localization also induces a localization between the automorphism groups and between the universal central extensions. As a consequence we exhibit many examples of localizations of finite simple groups which are not simple.

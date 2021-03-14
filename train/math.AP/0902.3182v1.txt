@@ -1,0 +1,1 @@
+We obtain solvability conditions for some elliptic equations involving non Fredholm operators with the methods of spectral theory and scattering theory for Schrodinger type operators. Though the Fredholm property is not satisfied, the solvability conditions are formulated in terms of orthogonality of the right-hand side to solutions of the homogeneous adjoint equation.

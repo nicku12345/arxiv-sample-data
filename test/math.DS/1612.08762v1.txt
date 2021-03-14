@@ -1,0 +1,1 @@
+This note revisits the problem of finding necessary and sufficient conditions for a subshift to have a continuous g-function. Results obtained by Krieger (IMS Lecture Notes-Monograph Series, 48, 306--316, 2006) on finite alphabet subshifts are generalized to countable state subshifts.

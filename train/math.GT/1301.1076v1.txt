@@ -1,0 +1,1 @@
+We compute the rings H^*(N;\mathbb{F}_2) for N a closed \mathbb{S}ol^3-manifold and then determine the Borsuk-Ulam indices BU(N,\phi) with \phi\not=0 in H^1(N;\mathbb{F}_2).

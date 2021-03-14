@@ -1,0 +1,1 @@
+In this article we prove that equation \phi(x)=n, for a fixed n, admits a finite number of solutions, we find the general form of these solutions, and we show that: if x_0 is a unique solution of this equation then x_0 is a product of a very large number of primes (we conjecture that the number of such primes is infinite).

@@ -1,0 +1,1 @@
+In [K--S 1] it was shown that    \underset {\pi} \to {\text{Ave}} (\sum_{i=1}^{n}|x_i a_{\pi(i)}|^2)^{\frac {1}{2}}    is equivalent to an Orlicz norm whose Orlicz function is 2-concave. Here we give a formula for the sequence a_1, a_2,....,a_n so that the above expression is equivalent to a given Orlicz norm.

@@ -1,0 +1,1 @@
+Euler wants to find rational numbers (integers) x and y such that x+y is a square and x^2+y^2 is a fourth power. He parametrizes these with two other variables that satisfy certain equations.

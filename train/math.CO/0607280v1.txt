@@ -1,0 +1,1 @@
+We prove that the codes issued from the elimination of any subalphabet in a trace monoid are finite state recognizable. This implies in particular that the transitive factorizations of the trace monoids are recognizable by (boolean) finite-state automata.

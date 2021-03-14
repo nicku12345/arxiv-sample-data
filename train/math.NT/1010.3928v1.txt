@@ -1,0 +1,1 @@
+The objective of this paper is the study of functions which only act on the digits of an expansion. In particular, we are interested in the asymptotic distribution of the values of these functions. The presented result is an extension and generalization of a result of Bassily and K\'atai to number systems defined in a quotient ring of the ring of polynomials over the integers.

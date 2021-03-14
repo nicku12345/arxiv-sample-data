@@ -1,0 +1,1 @@
+The dihedral homology functor HD:A_\infty^{{\rm inv}}(K)\to GrM(K) from the category A_\infty^{{\rm inv}}(K) of involutive A_\infty-algebras over any commutative unital ring K to the category GrM(K) of graded K-modules is constructed. Further, it is showed that this functor sends homotopy equivalences of involutive A_\infty-algebras into isomorphisms of graded modules.

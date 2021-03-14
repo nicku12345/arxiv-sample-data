@@ -1,0 +1,1 @@
+We use methods of combinatorics of polytopes together with geometrical and computational ones to obtain the complete list of compact hyperbolic Coxeter n-polytopes with n+3 facets, 3<n<8. Combined with results of Esselmann (1994), Andreev (1970) and Poincare (1882) this gives the classification of all compact hyperbolic Coxeter n-polytopes with n+3 facets.

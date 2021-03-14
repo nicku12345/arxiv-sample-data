@@ -1,0 +1,1 @@
+In this paper, we show that all totally nonnegative GCD matrices are always divisors of the corresponding LCM matrices in the ring \mathbb{M}_{n}(\mathbb{Z}). We also introduce \lq\lq column monotone matrices" used to construct all totally nonegative GCD matrices.

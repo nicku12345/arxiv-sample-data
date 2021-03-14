@@ -1,0 +1,1 @@
+We provide a class of commutative Noetherian domains R of dimension d such that every finitely generated projective R-module P of rank d splits off a free summand of rank one. On this class, we also show that P is cancellative. At the end we give some applications to the number of generators of a module over the Rees algebras.

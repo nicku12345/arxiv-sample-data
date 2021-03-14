@@ -1,0 +1,1 @@
+The so-called determinant method was developed by Bombieri and Pila in 1989 for counting integral points of bounded height on affine plane curves. In this paper we give a generalization of that method to varieties of higher dimension, yielding a proof of Heath-Brown's 'Theorem 14' by real-analytic considerations alone.

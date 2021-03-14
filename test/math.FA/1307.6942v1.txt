@@ -1,0 +1,1 @@
+Given a Banach Algebra A and a\in A, several relations among the Drazin spectrum of a and the Drazin spectra of the multiplication operators L_a and R_a will be stated. The Banach space operator case will be also examined. Furthermore, a characterization of the Drazin spectrum will be considered.

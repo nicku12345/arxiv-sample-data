@@ -1,0 +1,1 @@
+We show that any second eigenfunction of the Laplacian with standard vertex conditions on a metric tree graph attains its extremal values only at degree one vertices, and give an example where these vertices do not realise the diameter of the graph.

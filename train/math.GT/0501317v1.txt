@@ -1,0 +1,1 @@
+In the present paper, we construct the Khovanov homology theory for virtual links. Besides the direct approach with Z_{2} coefficients we also describe the Khovanov homology for framed links and the Khovanov homology using ``double cover''. The latter two approaches are based on the notion of ``atom''.

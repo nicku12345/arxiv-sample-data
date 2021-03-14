@@ -1,0 +1,1 @@
+For a prime r, we obtain lower bounds on the proportion of r-regular elements in classical groups and show that these lower bounds are the best possible lower bounds that do not depend on the order of the defining field. Along the way, we also provide new upper bounds and answer some open questions of the first author, P\'{a}lfy and Saxl.

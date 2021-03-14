@@ -1,0 +1,1 @@
+We discuss a cohomological construction of representations of a reductive group over the ring of power series over a finite field modulo the r-th power of the maximal ideal. The case r=1 goes back to Deligne and the author. The case where r is greater than 1 was given without proof in the author's work in 1977. Here we supply the proofs and give some further results.

@@ -1,0 +1,1 @@
+We show that every thin position for a connected sum of small knots is obtained in an obvious way: place each summand in thin position so that no two summands intersect the same level surface, then connect the lowest minimum of each summand to the highest maximum of the adjacent summand below.

@@ -1,0 +1,1 @@
+We construct model category structures on various types of (marked) *-categories. These structures are used to present the infinity categories of (marked) *-categories obtained by inverting (marked) unitary equivalences. We use this presentation to explicitly calculate the \infty-categorical G-fixed points and G-orbits for G-equivariant (marked) *-categories.

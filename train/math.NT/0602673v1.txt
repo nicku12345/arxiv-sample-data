@@ -1,0 +1,1 @@
+If f is a polynomial with integer coefficients and q is an integer, we may regard f as a map from Z/qZ to Z/qZ. We show that the distribution of the (normalized) spacings between consecutive elements in the image of these maps becomes Poissonian as q tends to infinity along any sequence of square free integers such that the mean spacing modulo q tends to infinity.

@@ -1,0 +1,1 @@
+A factorization of the inverse of a Hermetian positive definite matrix based on a diagonal by diagonal recurrence formulae permits the inversion of Block Toeplitz matrices, using only matrix-vector products, and with a complexity of O((n1)^3(n2)^2), where n1 is the block size, and n2 is the block matrix block-size.

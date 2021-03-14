@@ -1,0 +1,1 @@
+We introduce a new notion of computable function on \R^N and prove some basic properties. We give two applications, first a short proof of Yoshinaga's theorem that periods are \el (they are actually low). We also show that the low complex numbers form a algebraically closed field closed under exponentiation and some other special functions.

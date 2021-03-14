@@ -1,0 +1,1 @@
+Let G be a polycyclic, metabelian or soluble of type (FP)_{\infty} group such that the class Rat(G) of all rational subsets of G is a boolean algebra. Then G is virtually abelian. Every soluble biautomatic group is virtually abelian.

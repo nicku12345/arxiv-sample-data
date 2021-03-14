@@ -1,0 +1,1 @@
+New upper bounds on the sum capacity of the two-user Gaussian interference channel are derived. Using these bounds, it is shown that treating interference as noise achieves the sum capacity if the interference levels are below certain thresholds.

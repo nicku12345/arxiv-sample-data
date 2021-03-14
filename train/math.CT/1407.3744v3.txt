@@ -1,0 +1,1 @@
+A categorical formalism for directed graphs is introduced, featuring natural notions of morphisms and subgraphs, and leading to two elementary descriptions of the free-properad monad, first in terms of presheaves on elementary graphs, second in terms of groupoid-enriched hypergraphs.

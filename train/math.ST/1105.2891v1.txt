@@ -1,0 +1,1 @@
+This report introduces a parsimonious structure for mixture of autoregressive models, where the weighting coefficients are determined through latent random variables as functions of all past observations. These variables follow a hidden Markov model. We modify EM and Baum-Welch algorithms to estimate the parameters of the model.

@@ -1,0 +1,1 @@
+We discuss existence of explicit search bounds for zeros of polynomials with coefficients in a number field. Our main result is a theorem about the existence of polynomial zeros of small height over the field of algebraic numbers outside of unions of subspaces. All bounds on the height are explicit.

@@ -1,0 +1,1 @@
+We prove that any contravariant functor from the homotopy category of finite directed graphs to abelian groups satisfying the additivity axiom and the Mayer-Vietoris axiom is representable.

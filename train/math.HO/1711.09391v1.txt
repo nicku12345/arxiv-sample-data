@@ -1,0 +1,1 @@
+We give an affine proof of Feuerbach's theorem, by constructing an explicit affine map which takes the nine-point circle of any given Euclidean triangle to the incircle and fixes the Feuerbach point. The proof is shown to be valid in any Hilbert plane which satisfies the parallel postulate.

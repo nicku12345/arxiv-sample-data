@@ -1,0 +1,1 @@
+In the article we present necessary and sufficient conditions for a function involving the logarithm of the gamma function to be completely monotonic and apply these results to bound the gamma function \Gamma(x), the n-th harmonic number \sum_{k=1}^n\frac1k, and the factorial n!.

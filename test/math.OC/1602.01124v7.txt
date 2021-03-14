@@ -1,0 +1,1 @@
+We investigate primal gradient method with l1-norm and conditional gradient method (both methods are non accelerated). We show that these methods can outperform well known accelerated approaches for some classes of sparse quadratic problems. Moreover we discuss some generalizations.

@@ -1,0 +1,1 @@
+We present a formal system, E, which provides a faithful model of the proofs in Euclid's Elements, including the use of diagrammatic reasoning.

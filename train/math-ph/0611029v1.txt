@@ -1,0 +1,1 @@
+We present examples of equivariant noncommutative Lorentzian spectral geometries. The equivariance with respect to a compact isometry group (or quantum group) allows to construct the algebraic data of a version of spectral triple geometry adapted to the situation of an indefinite metric. The spectrum of the equivariant Dirac operator is calculated.

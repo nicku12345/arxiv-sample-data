@@ -1,0 +1,1 @@
+Using the Calderbank-Shor-Steane (CSS) construction, pure q-ary asymmetric quantum error-correcting codes attaining the quantum Singleton bound are constructed. Such codes are called pure CSS asymmetric quantum maximum distance separable (AQMDS) codes. Assuming the validity of the classical MDS Conjecture, pure CSS AQMDS codes of all possible parameters are accounted for.

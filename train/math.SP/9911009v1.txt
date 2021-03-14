@@ -1,0 +1,1 @@
+In this paper we consider some Anderson type models, with decaying randomness and the free parts having long range tails. The randomness may decay at different rates in different directions, though in majority of directions we require some sort of short range decay. We show that there is pure a.c. spectrum and some pure point spectrum in such models.

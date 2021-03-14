@@ -1,0 +1,1 @@
+We consider a family \pi^i_j\colon B_i\rightarrow B_{ij}=B_{ji}, i,j\in \{1,2,3\}, i\neq j, of C^*-epimorphisms assuming that it satisfies the cocycle condition. Then we show how to compute the K-groups of the multi-pullback C^*-algebra of such a family, and examplify it in the case of the triple-Toeplitz deformation of \mathbb{C}P^2.

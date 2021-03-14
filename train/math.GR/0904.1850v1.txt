@@ -1,0 +1,1 @@
+In this article we give a concept of ground subgroup for finite and countable groups. By our definition such a subgroup of a group depends on a given subset of the group and on a given partition of the subset. For finite and free groups we describe some sets of ground subgroups. We apply the ground subgroups to describe ground states of a model of statistical mechanics.

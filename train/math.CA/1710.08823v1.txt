@@ -1,0 +1,1 @@
+We study Fourier-Bessel series on a q-linear grid, defined as expansions in complete q-orthogonal systems constructed with the third Jackson q-Bessel function, and obtain sufficient conditions for uniform convergence. The convergence results are illustrated with specific examples of expansions in q-Fourier-Bessel series.

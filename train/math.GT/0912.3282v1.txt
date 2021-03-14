@@ -1,0 +1,1 @@
+For a knot or link K, let L(K) be the ropelength of K and Cr(K) be the crossing number of K. In this paper, we show that there exists a constant a>0 such that L(K) is bounded above by a Cr(K) ln^5 (Cr(K)) for any knot K. This result shows that the upper bound of the ropelength of any knot is almost linear in terms of its minimum crossing number.

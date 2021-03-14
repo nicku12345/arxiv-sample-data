@@ -1,0 +1,1 @@
+We describe the technique how to use the symbol in order to calculate the generator and the characteristics of an It\^o process. As an example we analyze the COGARCH process which is used to model financial data.

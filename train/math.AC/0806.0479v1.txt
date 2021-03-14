@@ -1,0 +1,1 @@
+We develop the theory of Gr\"obner bases for ideals in a polynomial ring with countably infinite variables over a field. As an application we reconstruct some of the one-one correspondences among various sets of partitions by using division algorithm.

@@ -1,0 +1,1 @@
+A variety of algebras is called limit if it is non-finitely based but all its proper subvarieties are finitely based. A monoid is aperiodic if all its subgroups are trivial. We classify all limit varieties of aperiodic monoids with commuting idempotents.

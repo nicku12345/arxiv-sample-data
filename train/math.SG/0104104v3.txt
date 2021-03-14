@@ -1,0 +1,1 @@
+The purpose of this paper is to describe certain natural 4-vector fields on quaternionic flag manifolds, which geometrically determine the Bruhat cell decomposition. This structure naturally descends from the symplectic group, where it is related to the dressing action given by the Iwasawa decomposition of the general linear group over the quaternions.

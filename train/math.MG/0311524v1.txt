@@ -1,0 +1,1 @@
+We show that for each n\ge 2 there is a quasi-isometric embedding of the hyperbolic space H^n in the product T^n=Tx...xT of n copies of a (simplicial) metric tree T. On the other hand, we prove that there is no quasi-isometric embedding H^2 --> TxR^m for any metric tree T and any m\ge 0.

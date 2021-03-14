@@ -1,0 +1,1 @@
+This paper provides a technique for evaluating some nonlinear Gaussian sums in closed forms. The evaluation is obtained from the known values of simpler exponential sums.

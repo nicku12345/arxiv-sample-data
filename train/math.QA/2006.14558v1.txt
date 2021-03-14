@@ -1,0 +1,1 @@
+In this paper we introduce a new quantum algebra which specializes to the 2-toroidal Lie algebra of type A_1.   We prove that this quantum toroidal algebra has a natural triangular decomposition, a (topological) Hopf algebra structure and a vertex operator realization.

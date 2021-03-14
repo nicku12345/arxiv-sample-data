@@ -1,0 +1,1 @@
+Assuming the Bloch-Kato Conjecture, we determine precise conditions under which Hilbert 90 is valid for Milnor k-theory and Galois cohomology. In particular, Hilbert 90 holds for degree n when the cohomological dimension of the Galois group of the maximal p-extension of F is at most n.

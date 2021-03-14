@@ -1,0 +1,1 @@
+We prove a simple formula for the main value of r-even functions and give applications of it. Considering the generalized Ramanujan sums c_A(n,r) involving regular systems A of divisors we show that it is not possible to develop a Fourier theory with respect to c_A(n,r), like in the the usual case of classical Ramanujan sums c(n,r).

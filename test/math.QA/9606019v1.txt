@@ -1,0 +1,1 @@
+We introduce a representation theory of q-Lie algebras defined earlier in \cite{DG1}, \cite{DG2}, formulated in terms of braided modules. We also discuss other ways to define Lie algebra-like objects related to quantum groups, in particular, those based on the so-called reflection equations. We also investigate the truncated tensor product of braided modules.

@@ -1,0 +1,1 @@
+In this paper, it shows that for each fuzzy set u on \mathbb{R}^m, the set D(u) is at most countable. Based on this, it modifies the proof of assertion (I) in step 2 of the sufficiency part of Theorem 4.1 in paper: Characterizations of compact sets in fuzzy sets spaces with L_p metric, http://arxiv.org/abs/1509.00447.

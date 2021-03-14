@@ -1,0 +1,1 @@
+We prove a generalization of the Hochster-Roberts-Boutot-Kawamata Theorem conjectured by Aschenbrenner and the author: let R\to S be a pure homomorphism of equicharacteristic zero Noetherian local rings. If S is regular, then R is pseudo-rational, and if R is moreover \mathbb Q-Gorenstein, then it pseudo-log-terminal.

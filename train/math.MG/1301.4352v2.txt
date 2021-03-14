@@ -1,0 +1,1 @@
+We prove tight upper bounds for the number of vertices of a simple polygon that is the union or the intersection of two simple polygons with given numbers of convex and concave vertices. The similar question on graphs of the lower (or upper) envelope of two continuous piecewise linear functions is considered.

@@ -1,0 +1,1 @@
+We prove non-trivial lower bounds for sums of type \sum_{p\sim P}g(\gamma\Log p), where g is a non-negative 2\pi-periodical function and \gamma is a given parameter. As an application we prove that \zeta(1+it)^{\pm1}\ll\Log\Log (9+|t|) and extend the zero-free region of the Riemann zeta-function.

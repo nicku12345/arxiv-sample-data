@@ -1,0 +1,1 @@
+We call a Markov partition of a two dimensional hyperbolic toral automorphism a Berg partition if it contains just two rectangles. We describe all Berg partitions for a given hyperbolic toral automorphism. In particular there are exactly (k + n + l + m)/2 nonequivalent Berg partitions with the same connectivity matrix (k, l, m, n).

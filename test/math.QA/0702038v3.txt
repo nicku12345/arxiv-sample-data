@@ -1,0 +1,1 @@
+We define a two-variable polynomial invariant of finite quandles. In many cases this invariant completely determines the algebraic structure of the quandle up to isomorphism. We use this polynomial to define a family of link invariants which generalize the quandle counting invariant.

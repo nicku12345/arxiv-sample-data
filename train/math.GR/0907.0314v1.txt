@@ -1,0 +1,1 @@
+We study the algebraic structure of the semigroup of all 2 \times 2 tropical matrices under multiplication. Using ideas from tropical geometry, we give a complete description of Green's relations and the idempotents and maximal subgroups of this semigroup.

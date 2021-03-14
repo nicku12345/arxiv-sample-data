@@ -1,0 +1,1 @@
+In the first section we study a functor of Bezrukavnikov, Finkelberg and Ostrik defined on character sheaves; we compute it in a Grothendieck group taking weights into account. In the second section we enlarge the class of character sheaves to a larger class of simple perverse sheaves which behaves well under tensor product (unlike the character sheaves themselves).

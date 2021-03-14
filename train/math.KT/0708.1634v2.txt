@@ -1,0 +1,1 @@
+This paper is based on the author's paper "Koszul duality in deformation quantization, I", with some improvements. In particular, an Introduction is added, and the convergence of the spectral sequence in Lemma 2.1 is rigorously proven. Some informal discussion in Section 1.5 is added.

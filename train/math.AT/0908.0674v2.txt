@@ -1,0 +1,1 @@
+An A-infinity bialgebra of type (m,n) is a Hopf algebra H equipped with a "compatible" operation \omega : H^{\otimes m} \to H^{\otimes n} of positive degree. We determine the structure relations for A-infinity bialgebras of type (m,n) and construct a purely algebraic example for each m \geq 2 and m+n \geq 4.

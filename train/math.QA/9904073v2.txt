@@ -1,0 +1,1 @@
+For each finite semisimple tensor category, we associate a quantum group (face algebra) whose comodule category is equivalent to the original one, in a simple natural manner. To do this, we also give a generalization of the Tannaka-Krein duality, which assigns a face algebra for each tensor category equipped with an embedding into a certain kind of bimodule category.

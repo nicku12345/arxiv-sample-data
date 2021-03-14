@@ -1,0 +1,1 @@
+A comparison principle for stochastic integro-differential equations driven by Levy processes is proved. This result is obtained via an extension of an Ito formula from [11] for the square of the norm of the positive part of L_2-valued, continuous semimartingales, to the case of discontinuous semimartingales.

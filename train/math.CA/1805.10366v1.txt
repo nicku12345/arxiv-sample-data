@@ -1,0 +1,1 @@
+Let (x_n) be a positive real sequence decreasing to 0 such that the series \sum_n x_n is divergent and \liminf_{n} x_{n+1}/x_n>1/2. We show that there exists a constant \theta \in (0,1) such that, for each \ell>0, there is a subsequence (x_{n_k}) for which \sum_k x_{n_k}=\ell and x_{n_k}=O(\theta^k).

@@ -1,0 +1,1 @@
+We study right quasi-representable differential graded bimodules as quasi-functors between dg-categories. We prove that a quasi-functor has a left adjoint if and only if it is left quasi-representable.

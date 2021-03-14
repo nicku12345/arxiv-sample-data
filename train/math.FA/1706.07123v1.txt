@@ -1,0 +1,1 @@
+We discuss extensions of an inner product from a vector space to its full antidual. None of these extensions is weakly continuous, but partial extensions recapture some familiar structure including the Hilbert space completion and the antiduality pairing.

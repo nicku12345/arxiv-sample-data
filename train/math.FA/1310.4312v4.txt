@@ -1,0 +1,1 @@
+We constructively determine the Pietsch measure of the 2-summing multiplication operator   \[\mathcal{M}_u:\ell^{\infty} \rightarrow H^p, \quad (\varphi_I) \mapsto \sum \varphi_Ix_Ih_I. \] Our construction of the Pietsch measure for the multiplication operator \mathcal{M}_u involves the Haar coefficients of u and its atomic decomposition.

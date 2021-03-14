@@ -1,0 +1,1 @@
+This paper considers a two-person zero-sum continuous-time Markov pure jump game in Borel state and action spaces over a fixed finite horizon. The main assumption on the model is the existence of a drift function, which bounds the reward rate. Under some regularity conditions, we show that the game has a value, and both of the players have their optimal policies.

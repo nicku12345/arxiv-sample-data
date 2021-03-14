@@ -1,0 +1,1 @@
+We prove the existence and uniqueness of a strong solution for an SDE on a semi-axis with singularities at the point 0. The result obtained yields, for example, the strong uniqueness of non-negative solutions to SDEs governing Bessel processes.

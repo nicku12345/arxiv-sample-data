@@ -1,0 +1,1 @@
+We use the structure of the homotopy groups of the connective spectrum tmf of topological modular forms and the elliptic and Adams-Novikov spectral sequences to compute the homotopy groups of the non-connective version, Tmf, of that spectrum. This is done separately for the localizations at 2, 3 and higher primes.

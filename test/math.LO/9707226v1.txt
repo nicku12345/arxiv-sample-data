@@ -1,0 +1,1 @@
+Affirming a conjecture of Erd\H{o}s and Renyi we prove that for any (real number) c_1>0 for some c_2>0, if a graph G has no c_1(log n) nodes on which the graph is complete or edgeless (i.e. G exemplifies |G| not-> (c_1 log n)^2_2) then G has at least 2^{c_2n} non-isomorphic (induced) subgraphs.

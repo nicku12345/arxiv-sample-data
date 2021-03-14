@@ -1,0 +1,1 @@
+This article concerns the MP inverse of the differences and the products of projections in a ring R with involution. Some equivalent conditions are obtained. As applications, the MP invertibility of the commutator pq-qp and the anti-commutator pq+qp are characterized, where p and q are projections in R. Some related known results in C^*-algebra are generalized.

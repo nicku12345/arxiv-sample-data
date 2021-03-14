@@ -1,0 +1,1 @@
+We introduce local Moufang sets as a generalization of Moufang sets. We present a method to construct local Moufang sets from only one root group and one permutation. We use this to describe \mathsf{PSL}_2 over a local ring as a local Moufang set, and give necessary and sufficient conditions for a local Moufang set to be of this form.

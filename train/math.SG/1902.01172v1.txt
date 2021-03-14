@@ -1,0 +1,1 @@
+We show that there are Reeb flows on the standard, tight three-sphere that do not admit global surfaces of section with one boundary component. In particular, the Reeb flows that we construct do not admit disk-like global surfaces of section. These Reeb flows are constructed using integrable systems, and a connected sum construction that extends the integrable system.

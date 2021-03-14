@@ -1,0 +1,1 @@
+We give a short new proof of the Arendt-Chernoff-Kato theorem, which characterizes generators of positive C0 semigroups in order unit spaces. The proof avoids half-norms and subdifferentials, and is based on a sufficient condition for an operator to have positive inverse, which is new even for matrices.

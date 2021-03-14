@@ -1,0 +1,1 @@
+Regularity of the transform of Laplace in the opened area of 0 is proved with help of some methods of the transform of Fourier. The class of the transform of Laplace from the transform of Fourier is considered from some functions without a regularity in null.   The functions are regular in the opened area of 0.

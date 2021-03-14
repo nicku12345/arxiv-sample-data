@@ -1,0 +1,1 @@
+A classical observation of Riesz says that truncations of a general \sum_{n=0}^\infty a_n z^n in the Hardy space H^1 do not converge in H^1. A substitute positive result is proved: these partial sums always converge in the Bergman norm A^1. The result is extended to complete Reinhardt domains in \C^n. A new proof of the failure of H^1 convergence is also given.

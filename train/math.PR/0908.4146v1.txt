@@ -1,0 +1,1 @@
+We study the threshold \theta contact process on \mathbb{Z}^d with infection parameter \lambda. We show that the critical point \lambda_{\mathrm{c}}, defined as the threshold for survival starting from every site occupied, vanishes as d\to\infty. This implies that the threshold \theta voter model on \mathbb{Z}^d has a nondegenerate extremal invariant measure, when d is large.

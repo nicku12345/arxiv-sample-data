@@ -1,0 +1,1 @@
+Over a global field any finite number of central simple algebras of exponent dividing m is split by a common cyclic field extension of degree m. We show that the same property holds for function fields of two-dimensional excellent schemes over a henselian local domain of dimension one or two with algebraically closed residue field.

@@ -1,0 +1,1 @@
+The representation dimension of a finite group G is the smallest positive integer m for which there exists an embedding of G in GL_m(C). In this paper we find the largest value of representation dimensions, as Granges over all groups of order p^n, for a fixed prime p and a fixed exponent n greater than zero.

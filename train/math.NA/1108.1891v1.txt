@@ -1,0 +1,1 @@
+In this paper, we study finite dimensional approximations of Kohn-Sham models, which are widely used in electronic structure calculations. We prove the convergence of the finite dimensional approximations and derive the a priori error estimates for ground state energies and solutions. We also provide numerical simulations for several molecular systems that support our theory.

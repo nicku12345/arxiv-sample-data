@@ -1,0 +1,1 @@
+We construct a sequence of balanced finite presentations of the trivial group with two generators and two relators with the following property: The minimal number of relations required to demonstrate that a generator represents the trivial element grows faster than the tower of exponentials of any fixed height of the length of the finite presentation.

@@ -1,0 +1,1 @@
+Using a metaprogramming technique and semialgebraic computations, we provide computer-based proofs for old and new cutting-plane theorems in Gomory--Johnson's model of cut generating functions.

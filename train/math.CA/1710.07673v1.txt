@@ -1,0 +1,1 @@
+We characterize (up to endpoints) the k-tuples (p_1,\ldots,p_k) for which certain k-linear generalized Radon transforms map L^{p_1} \times \cdots \times L^{p_k} boundedly into \mathbb R. This generalizes a result of Tao and Wright.

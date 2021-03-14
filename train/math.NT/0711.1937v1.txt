@@ -1,0 +1,1 @@
+We obtain, using exponential quadratic sums, explicit expressions for the number of double persymmetric matrices with entries in F_2 of given rank. (A matix [a(i,j)) is persymmetric if a(i,j) = a(r,s) for i+j = r+s)

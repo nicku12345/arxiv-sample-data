@@ -1,0 +1,1 @@
+Continuous groups of the form: G+a_0G are defined, where G denotes a Lie group and a_0 denotes an antilinear operation which fullfils the condition a^2_0=\pm 1. The matrix algebras connected with the groups G+a_0G are defined. The structural constants of these algebras fulfill the conditions following from the Jacobi identities.

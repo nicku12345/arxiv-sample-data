@@ -1,0 +1,1 @@
+We give a generalization of Thurston's Bounded Image Theorem for skinning maps, which applies to pared 3-manifolds with incompressible boundary that are not necessarily acylindrical. Along the way we study properties of divergent sequences in the deformation space of such a manifold, establishing the existence of compact cores satisfying a certain notion of uniform geometry.

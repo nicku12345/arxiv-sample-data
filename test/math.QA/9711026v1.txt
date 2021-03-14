@@ -1,0 +1,1 @@
+We construct the vector space dual to the space of right-invariant differential forms construct from a first order differential calculus on inhomogeneous quantum group. We show that this vector space is equipped with a structure of a Hopf algebra which closes on a noncommutative Lie algebra satisfying a Jacobi identity.

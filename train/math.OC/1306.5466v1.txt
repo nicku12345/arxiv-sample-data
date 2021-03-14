@@ -1,0 +1,1 @@
+We provide a new proof that the subdifferential of a proper lower semicontinuous convex function on a Banach space is maximal monotone by adapting the pattern commonly used in the Hilbert setting. We then extend the arguments to show more precisely that subdifferentials of proper lower semicontinuous prox-bounded functions possess the Br{\o}ndsted-Rockafellar property.

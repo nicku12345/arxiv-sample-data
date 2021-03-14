@@ -1,0 +1,1 @@
+We define a heteropolymer in a medium with random droplets. We prove that for this model we have two regimes: a delocalized one and a localized one. In the localized regime we prove tightness to the droplets, whereas in the delocalized regime we prove diffusive path behavior.

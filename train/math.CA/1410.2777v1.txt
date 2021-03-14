@@ -1,0 +1,1 @@
+The aim of this paper is to consider certain conditions on the coefficient A of the differential equation f"+Af=0 in the unit disc, which place all normal solutions f to the union of Hardy spaces or result in the zero-sequence of each non-trivial solution to be uniformly separated. The conditions on the coefficient are given in terms of Carleson measures.

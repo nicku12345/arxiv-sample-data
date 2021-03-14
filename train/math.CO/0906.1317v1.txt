@@ -1,0 +1,1 @@
+We survey combinatorial interpretations of some dozen identities for the double factorial such as, for instance, (2n-2)!! + Sum_{k=2}^{n} (2n-1)!!(2k-4)!!/(2k-1)!! = (2n-1)!!. Our methods are mostly bijective.

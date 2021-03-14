@@ -1,0 +1,1 @@
+The combinatorial description via ribbon graphs of the moduli space of Riemann surfaces makes it possible to define combinatorial cycles in a natural way. Witten and Kontsevich first conjectured that these classes are polynomials in the tautological classes. We answer affirmatively to this conjecture and find recursively all the polynomials.

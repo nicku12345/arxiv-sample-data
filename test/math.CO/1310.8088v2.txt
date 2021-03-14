@@ -1,0 +1,1 @@
+We determine the optimal bound for the maximum number of moves required to reach a periodic configuration of open mancala (also called open owari), inspired by a popular African game. A mancala move can be interpreted as a map from the set of compositions of a given integer in itself, thus relating our result to the study of the corresponding finite dynamical system.

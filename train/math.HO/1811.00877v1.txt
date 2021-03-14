@@ -1,0 +1,1 @@
+We give a one-sentence proof that a continuous real-valued function f on a closed, bounded interval attains a maximum value, by the following device. We define x in [a, b] to be a lookout point if f(t) does not exceed f(x) whenever t lies in [a, x). Letting c be the maximum of the set of lookout points, we prove that f(c) is the maximum value of f.

@@ -1,0 +1,1 @@
+D. J. Benson conjectures that the Castelnuovo-Mumford regularity of a group cohomology ring is always zero. More generally he conjectures that the cohomology ring always has a system of parameters satisfying a property he calls very strong quasi-regular. Using computer calculations we find that the more general conjecture holds for all groups of order less than 256.

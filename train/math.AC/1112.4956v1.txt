@@ -1,0 +1,1 @@
+Let I be a monomial almost complete intersection ideal of a polynomial algebra S over a field. Then Stanley's Conjecture holds for S/I and I.

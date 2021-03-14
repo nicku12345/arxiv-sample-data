@@ -1,0 +1,1 @@
+Given a finitely presented Graded Commutative Differential Algebra (GCDA), we present a method to compute its minimal model, together with a map that is a quasi-isomorphism up to a given degree. The method works by adding generators one by one. We also provide a specific implementation of the method. We also provide two criteria for i-formality, one necessary and one sufficient.

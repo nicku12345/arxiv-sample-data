@@ -1,0 +1,1 @@
+In this note we prove some structural properties of all the A1-homotopy invariants of corner skew Laurent polynomial algebras. As an application, we compute de mod-l algebraic K-theory of Leavitt path algebras using solely the kernel/cokernel of the incidence matrix. This leads naturally to some vanishing and divisibility properties of the algebraic K-theory of these algebras.

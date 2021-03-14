@@ -1,0 +1,1 @@
+We give a simple proof of Chebotarev's theorem: Let p be a prime and \omega  a primitive pth root of unity. Then all minors of the matrix (\omega^{ij})_{i,j=0}^{p-1} are non-zero.

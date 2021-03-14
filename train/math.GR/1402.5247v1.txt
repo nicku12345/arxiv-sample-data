@@ -1,0 +1,1 @@
+Let m,n be positive integers, v a multilinear commutator word and w=v^m. We prove that if G is an orderable group in which all w-values are n-Engel, then the verbal subgroup v(G) is locally nilpotent. We also show that in the particular case where v=x the group G is nilpotent (rather than merely locally nilpotent).

@@ -1,0 +1,1 @@
+We present a reconstruction algorithm for recovering both "magnetic-hard" and "magnetic-soft" obstacles in a background domain with known isotropic medium from the boundary impedance map. We use in our algorithm complex geometric optics solutions constructed for Maxwell's equation.

@@ -1,0 +1,1 @@
+It has been shown that for every prime number p, the pseudovariety \mathsf{G}_p of all finite p-groups is tame with respect to an implicit signature containing the canonical implicit signature. In this paper, we generalize this result and we show that the pseudovariety of all finite nilpotent groups is tame but it is not completely tame.

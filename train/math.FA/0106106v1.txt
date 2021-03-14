@@ -1,0 +1,1 @@
+We prove that a biseparating map between spaces of vector-valued continuous functions is usually automatically continuous. However, we also discuss special cases when it is not true.

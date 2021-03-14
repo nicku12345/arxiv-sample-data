@@ -1,0 +1,1 @@
+We prove a uniqueness result for BV solutions of scalar conservation laws with discontinuous flux in several space dimensions. The proof is based on the notion of kinetic solution and on a careful analysis of the entropy dissipation along the discontinuities of the flux.

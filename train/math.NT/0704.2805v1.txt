@@ -1,0 +1,1 @@
+We consider the question of approximating any real number \alpha by sums of n rational numbers \frac{a_1}{q_1} + \frac{a_2}{q_2} + ... + \frac{a_n}{q_n} with denominators 1 \leq q_1, q_2, ..., q_n \leq N. This leads to an inquiry on approximating a real number by rational numbers with a prescribed number of prime factors in the denominator.

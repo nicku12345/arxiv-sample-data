@@ -1,0 +1,1 @@
+Let E be a countable directed graph. We show that C^*(E) is AF-embeddable if and only if no loop in E has an entrance. The proof is constructive and is in the same spirit as the Drinen-Tomforde desingularization.

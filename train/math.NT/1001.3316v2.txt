@@ -1,0 +1,1 @@
+We extend the known tables of pseudosquares and pseudocubes, discuss the implications of these new data on the conjectured distribution of pseudosquares and pseudocubes, and present the details of the algorithm used to do this work. Our algorithm is based on the space-saving wheel data structure combined with doubly-focused enumeration, run in parallel on a cluster supercomputer.

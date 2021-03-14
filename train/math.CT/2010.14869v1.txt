@@ -1,0 +1,1 @@
+Let \mathcal A be a Hom-finite abelian category with enough projectives. In this note, we show that any covariantly finite \tau-rigid subcategory is contained in a support \tau-tilting subcategory. We also show that support \tau-tilting subcategories are in bijection with certain finitely generated torsion classes. Some applications of our main results are also given.

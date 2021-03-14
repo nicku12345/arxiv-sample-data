@@ -1,0 +1,1 @@
+Pride groups, or ``groups given by presentations in which each defining relator involves at most two types of generators'', include Coxeter groups, Artin groups, triangles of groups, and Vinberg's groups defined by periodic paired relations. We show that every non-spherical Pride group that is not a triangle of groups satisfies the Tits alternative.

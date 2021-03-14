@@ -1,0 +1,1 @@
+Here we derive a nonsmooth maximum principle for optimal control problems with both state and mixed constraints. Crucial to our development is a convexity assumption on the "velocity set". The approach consists of applying known penalization techniques for state constraints together with recent results for mixed constrained problems.

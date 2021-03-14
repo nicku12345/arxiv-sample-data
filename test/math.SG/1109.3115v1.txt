@@ -1,0 +1,1 @@
+Let (M,\omega) be a closed 2n-dimensional symplectic manifold equipped with a Hamiltonian T^{n-1}-action. Then Atiyah-Guillemin-Sternberg convexity theorem implies that the image of the moment map is an (n-1)-dimensional convex polytope. In this paper, we show that the density function of the Duistermaat-Heckman measure is log-concave on the image of the moment map.

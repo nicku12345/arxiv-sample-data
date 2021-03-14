@@ -1,0 +1,1 @@
+For each positive number \alpha we study the analog \nu_alpha in free probability of the classical Gamma distribution with parameter \alpha. We prove that \nu_\alpha is absolutely continuous and establish the main properties of the density, including analyticity and unimodality. We study further the asymptotic behavior of \nu_\alpha as \alpha\downarrow0.

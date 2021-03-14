@@ -1,0 +1,1 @@
+In this paper we give sufficient conditions for a compactum in \mathbb R^n to have Carath\'{e}odory number less than n+1, generalizing an old result of Fenchel. Then we prove the corresponding versions of the colorful Carath\'{e}odory theorem and give a Tverberg type theorem for families of convex compacta.

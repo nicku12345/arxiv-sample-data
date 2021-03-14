@@ -1,0 +1,1 @@
+We describe an ansatz for symmetry reduction of the Lane-Emden equation for an arbitrary polytropic index n, admitting only one symmetry generator. For the reduced first order differential equation it is found that standard reduction procedure do not admit any non-trivial Lie point symmetry. However some special solutions for the differential equation are obtained.

@@ -1,0 +1,1 @@
+We give a new proof of the recent K\"unneth theorem for periodic topological cyclic homology (TP) of smooth and proper dg categories over perfect fields of characteristic p>0 due to Blumberg and Mandell. Our result is slightly stronger and implies a finiteness theorem for topological cyclic homology (TC) of such categories.

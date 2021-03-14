@@ -1,0 +1,1 @@
+We exhibit an alternative method for solving inhomogeneous second--order linear ordinary dynamic equations on time scales, based on reduction of order rather than variation of parameters. Our form extends recent (and long-standing) analysis on \R to a new form for difference equations, quantum equations, and arbitrary dynamic equations on time scales.

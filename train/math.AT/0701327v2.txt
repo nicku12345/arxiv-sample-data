@@ -1,0 +1,1 @@
+We prove that RP^{2^e-1} can be immersed in R^{2^{e+1}-e-7} provided e>6. If e>13, this is 1 better than previously known immersions. Our method is primarily an induction on geometric dimension, with compatibility of liftings being a central issue.

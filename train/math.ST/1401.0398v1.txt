@@ -1,0 +1,1 @@
+We give an overview of some uses of proper scoring rules in statistical inference, including frequentist estimation theory and Bayesian model selection with improper priors.

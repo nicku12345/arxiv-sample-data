@@ -1,0 +1,1 @@
+For an operator monotone function f(t) on the positive real line, we show the operator monotonicity of the type of the functions (t-a)(t-b)/(f(t)-f(a))(f^\sharp(t)-f^\sharp(b)).

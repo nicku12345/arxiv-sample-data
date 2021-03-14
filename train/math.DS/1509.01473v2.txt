@@ -1,0 +1,1 @@
+We give estimates for the convolution product of an arbitrary number of endlessly continuable functions. This allows us to deal with nonlinear operations for the corresponding resurgent series, e.g. substitution into a convergent power series.

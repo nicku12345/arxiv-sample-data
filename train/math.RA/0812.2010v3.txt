@@ -1,0 +1,1 @@
+Let A be a semprime, right noetherian ring equipped with an automorphism alpha, and let B := A[[y; alpha]] denote the corresponding skew power series ring (which is also semiprime and right noetherian). We prove that the Goldie ranks of A and B are equal. We also record applications to induced ideals.

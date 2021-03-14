@@ -1,0 +1,1 @@
+For some infinite-dimensional groups G and suitable subgroups K there exists a monoid structure on the set K\backslash G/K of double cosets of G with respect to K. In this paper we show that the group B_\infty, of the braids with finitely many crossings on infinitely many strands, admits such a structure.

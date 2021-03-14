@@ -1,0 +1,1 @@
+We address the question of the bi-Lipschitz local triviality of a complex polynomial function over a complex value.   Our main result state that a non constant complex polynomial admits a locally bi-Lipschitz trivial value if and only if it is a polynomial in a single complex variable.

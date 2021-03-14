@@ -1,0 +1,1 @@
+We consider vanishing of Ext and Tor, especially over Artinian rings. In particular, we prove the Auslander-Reiten conjecture for all commutative local rings in which the cube of the maximal ideal is zero.

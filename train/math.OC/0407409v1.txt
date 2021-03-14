@@ -1,0 +1,1 @@
+We obtain a generalization of Noether's invariance principle for optimal control problems with equality and inequality state-input constraints. The result relates the invariance properties of the problems with the existence of conserved quantities along the constrained Pontryagin extremals. A result of this kind was posed as an open question by Vladimir Tikhomirov, in 1986.

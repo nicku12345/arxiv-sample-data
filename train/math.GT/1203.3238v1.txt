@@ -1,0 +1,1 @@
+We define a notion of concordance based on Euler characteristic, and show that it gives rise to a concordance group of links in the three-sphere, which has the concordance group of knots as a direct summand with infinitely generated complement. We consider variants of this using oriented and nonoriented surfaces as well as smooth and locally flat embeddings.

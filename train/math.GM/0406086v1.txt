@@ -1,0 +1,1 @@
+In most text books on number theory Wilson Theorem is proved by applying Lagrange theorem concerning polynomial congruences.Hardy and Wright also give a proof using cuadratic residues. In this article Wilson theorem is derived as a corollary to an algebraic identity.

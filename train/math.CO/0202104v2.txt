@@ -1,0 +1,1 @@
+The class of simplicial complexes representing triangulations and subdivisions of Lawrence polytopes is closed under Alexander duality.   This gives a new geometric model for oriented matroid duality.

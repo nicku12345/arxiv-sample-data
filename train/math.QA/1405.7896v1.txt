@@ -1,0 +1,1 @@
+For a finite tensor category \mathcal C and a Hopf monad T:\mathcal C\to \mathcal C satisfying certain conditions we describe exact indecomposable left \mathcal C^T-module categories in terms of left \mathcal C-module categories and some extra data. We also give a 2-categorical interpretation of the process of equivariantization of module categories.

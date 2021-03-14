@@ -1,0 +1,1 @@
+In this paper, a Chaudouard type trace formula is established for the Lie algebra \mathfrak{gl}(n), by integrating the Lie algebra analogue of the Selberg kernel function against a mirabolic Eisenstein series on \mathrm{GL}(n). The result is a combination of zeta functions \zeta_E(s) of extensions over the base field F of degree [E:F]\leq n.

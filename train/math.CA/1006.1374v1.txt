@@ -1,0 +1,1 @@
+Based on a sequence of numerical computations, a conjecture is presented regarding the class of functions H(x;a)=\exp(a)-(1+a/x)^x, and the open problem of determining the values of a for which the functions are completely monotonic with respect to x. The critical value of a is determined here to sufficient accuracy to show that it is not a simple symbolic quantity.

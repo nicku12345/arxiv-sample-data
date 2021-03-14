@@ -1,0 +1,1 @@
+The bondage number b(G) of a graph G is the smallest number of edges whose removal from G results in a graph with larger domination number. In this paper we present new upper bounds for b(G) in terms of girth, order and Euler characteristic.

@@ -1,0 +1,1 @@
+Let u be a subharmonic function in D={|z|<1}. There exist an absolute constant C and an analytic function f in D such that \int_D |u(z)-log|f(z)|| dm(z)<C where m denotes the plane Lebesgue measure. We also consider uniform approximation.

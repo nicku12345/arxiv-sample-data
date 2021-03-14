@@ -1,0 +1,1 @@
+This paper is about a shape optimization problem related to the Dirichlet Laplacian eingevalues in the Euclidean plane. More precisely we study the shape of the minimizer in the class of open sets of constant width. We prove that the disk is not a local minimizer except for a limited number of eigenvalues.

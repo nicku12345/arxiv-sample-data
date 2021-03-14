@@ -1,0 +1,1 @@
+It is shown that if T is a connected nontrivial graph and X is an arbitrary finite simplicial complex, then there is a graph G such that the complex Hom(T,G) is homotopy equivalent to X. The proof is constructive, and uses a nerve lemma. Along the way several results regarding Hom complexes, exponentials, and subdivision are established that may be of independent interest.

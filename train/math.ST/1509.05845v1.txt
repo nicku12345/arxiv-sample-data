@@ -1,0 +1,1 @@
+We discuss the possibilities and limitations of estimating the mean of a real-valued random variable from independent and identically distributed observations from a non-asymptotic point of view. In particular, we define estimators with a sub-Gaussian behavior even for certain heavy-tailed distributions. We also prove various impossibility results for mean estimators.

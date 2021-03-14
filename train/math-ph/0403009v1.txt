@@ -1,0 +1,1 @@
+Classes of coherent states are presented by replacing the labeling parameter z of Klauder-Perelomov type coherent states by confluent hypergeometric functions with specific parameters. Temporally stable coherent states for the isotonic oscillator Hamiltonian are presented and these states are identified as a particular case of the so-called Mittag-Leffler coherent states.

@@ -1,0 +1,1 @@
+We show that the maximum number of pairwise intersecting positive homothets of a d-dimensional centrally symmetric convex body, none of which contains the center of another in its interior, is at most 3^{d+1}. Also, we improve upper bounds for cardinalities of k-distance sets in Minkowski spaces.

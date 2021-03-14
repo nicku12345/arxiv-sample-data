@@ -1,0 +1,1 @@
+This paper concerns the Henon family of diffeomorphisms of the plane for which the absolute value of the jacobian parameter is bounded by .08. We describe the parameter locus for which the mapping is a horseshoe.

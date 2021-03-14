@@ -1,0 +1,1 @@
+We prove that every reflexive abelian group G such that its dual group G^\wedge has the qc-Glicksberg property is a Mackey group. We show that a reflexive abelian group of finite exponent is a Mackey group. We prove that, for a realcompact space X, the space C_k(X) is barrelled if and only if it is a Mackey group.

@@ -1,0 +1,1 @@
+We give a derivation of the dispersion law \epsilon(p)=\hbar^2p^2/2m +\widetilde V(p)-\widetilde V(0), where \widetilde V(p) is the Fourier transform of the pair interaction potential V(r). (The interaction between particles x_i and x_j is V(|x_i-x_j|).)

@@ -1,0 +1,1 @@
+The purpose of this note is to present an alternative proof of a result by H. Smith and C. Sogge showing that in odd dimension of space, local (in time) Strichartz estimates and exponential decay of the local energy for solutions to wave equations imply global Strichartz estimates. Our proof allows to extend the result to the case of even dimensions of space

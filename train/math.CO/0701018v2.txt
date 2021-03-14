@@ -1,0 +1,1 @@
+We study the structure of a minimum dominating set of C_{2n+1}^n, the Cartesian product of n copies of the cycle of size 2n+1, where 2n+1 is a prime.

@@ -1,0 +1,1 @@
+Let K be a field, D a finite distributive lattice and P the set of all join-irreducible elements of D. We show that if \{y\in P\mid y\geq x\} is pure for any x\in P, then the Hibi ring \RRRRR_K(D) is level. Using this result and the argument of sagbi basis theory, we show that the homogeneous coordinate rings of Schubert subvarieties of Grassmannians are level.

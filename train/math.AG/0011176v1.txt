@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of characteristic zero, F be an algebraically closed extension of k of transcendence degree one, and G be the group of automorphisms over k of the field F. The purpose of this note is to calculate the group of continuous automorphisms of G.

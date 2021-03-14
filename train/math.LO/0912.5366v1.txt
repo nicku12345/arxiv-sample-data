@@ -1,0 +1,1 @@
+We establish a coloring theorem for successors of a singular cardinals, and use it prove that for any such cardinal \mu, we have \mu^+\nrightarrow[\mu^+]^2_{\mu^+} if and only if \mu^+\nrightarrow[\mu^+]^2_{\theta} for arbitrarily large \theta<\mu.

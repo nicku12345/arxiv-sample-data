@@ -1,0 +1,1 @@
+It is shown that the moduli space of the noncommutative tori A admits a natural desingularization by the group Ext (A, A). Namely, we prove that the moduli space of pairs (A, Ext (A,A)) is homeomorphic to a punctured two-dimensional sphere. The proof is based on a correspondence (a covariant functor) between the complex and noncommutative tori.

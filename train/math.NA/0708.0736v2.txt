@@ -1,0 +1,1 @@
+This document is a brief overview of two documents which continue to develop the weight function theory of basis function smoothers and interpolants. One document considers the zero order theory and one considers the positive order theory.

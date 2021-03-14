@@ -1,0 +1,1 @@
+Different constructions for Hilbert state space for constrained systems are investigated. Properties of Gaussian states analogous to quantum mechanical Gaussian wave functions are studied. Their evolution for quadratic Hamiltonian case are discussed. A notion of Maslov complex germ is introduced for systems with linear constraints.

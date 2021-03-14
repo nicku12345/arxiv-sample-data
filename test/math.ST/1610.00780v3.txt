@@ -1,0 +1,1 @@
+A dependence measure for arbitrary type pairs of random variables is proposed and analyzed, which in the particular case where both random variables are continuous turns out to be a concordance measure. Also, a sample version of the proposed dependence measure based on the empirical subcopula is provided, along with an R package to perform the corresponding calculations.

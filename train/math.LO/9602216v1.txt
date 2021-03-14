@@ -1,0 +1,1 @@
+We assume a theory T in the logic L_{kappa omega} is categorical in a cardinal lambda >= kappa, and kappa is a measurable cardinal. Here we prove that the class of model of T of cardinality < lambda (but >= |T|+ kappa) has the amalgamation property; this is a step toward understanding the character of such classes of models.

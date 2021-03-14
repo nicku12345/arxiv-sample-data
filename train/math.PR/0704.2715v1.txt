@@ -1,0 +1,1 @@
+In this paper, the strong solutions  (X, L) of multidimensional stochastic differential equations with reflecting boundary and possible anticipating initial random variables is established. The key is to obtain some substitution formula for Stratonovich integrals via a uniform convergence of the corresponding Riemann sums and to prove continuity of functionals of  (X, L).

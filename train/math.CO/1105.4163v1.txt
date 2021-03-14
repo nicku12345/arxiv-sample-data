@@ -1,0 +1,1 @@
+For any positive integer l we prove that if M is a simple matroid with no (l+2)-point line as a minor and with sufficiently large rank, then |E(M)|\le \frac{q^{r(M)}-1}{q-1}, where q is the largest prime power less than or equal to l. Equality is attained by projective geometries over GF(q).

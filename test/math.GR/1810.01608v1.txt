@@ -1,0 +1,1 @@
+We give a Super-Rigidity theorem a la Margulis which applies for a wider class of groups. In particular it applies to subgroups which are not assumed to be lattices in the ambient group. Our proof is based on the notion of Algebraic Representation of Ergodic Actions.

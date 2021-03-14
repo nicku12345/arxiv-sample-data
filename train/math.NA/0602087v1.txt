@@ -1,0 +1,1 @@
+In this paper we point out that the commonly used error bound in the theory of radial basis functions contains an important error. It doesn't apply for derivatives. Thus one should be very careful when dealing with differential equations.

@@ -1,0 +1,1 @@
+We give a new proof of the sharp form of Young's inequality for convolutions, first proved by Beckner [Be] and Brascamp-Lieb [BL]. The latter also proved a sharp reverse inequality in the case of exponents less than 1. Our proof is simpler and gives Young's inequality and its converse altogether.

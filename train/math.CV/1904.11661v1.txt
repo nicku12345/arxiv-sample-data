@@ -1,0 +1,1 @@
+We show the D'Angelo conjecture holds in the third gap interval. More precisely, we prove that the degree of any rational proper holomorphic map from \mathbb{B}^n to \mathbb{B}^{4n-6} with n\geq 7 is not more than 3.

@@ -1,0 +1,1 @@
+We show that for an n-component, n-bridge link and a positive integer m, the following is true: If the longitudes of L lie in the (m+2)-th term of the lower central series of the link group then all the finite type invariants of orders \leq m for L are the same as these of the n-component unlink.

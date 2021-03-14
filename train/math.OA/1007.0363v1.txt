@@ -1,0 +1,1 @@
+We propose a notion of isometric coaction of a compact quantum group on a compact quantum metric space in the framework of Rieffel where the metric structure is given by a Lipnorm. We prove the existence of a quantum isometry group for finite metric quantum spaces, preserving a given state.

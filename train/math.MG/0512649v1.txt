@@ -1,0 +1,1 @@
+These lecture notes treat the solution of the kissing number problem in four dimesions which is based on an extension of the Delsarte method for spherical codes.

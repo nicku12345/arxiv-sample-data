@@ -1,0 +1,1 @@
+We consider the question how well a floating body can be approximated by the polar of the illumination body of the polar. We establish precise convergence results in the case of centrally symmetric polytopes. This leads to a new affine invariant which is related to the cone measure of the polytope.

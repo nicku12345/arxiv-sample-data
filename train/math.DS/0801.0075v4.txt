@@ -1,0 +1,1 @@
+We show that for entire maps of the form z \mapsto \lambda \exp(z) such that the orbit of zero is bounded and such that Lebesgue almost every point is transitive, no absolutely continuous invariant probability measure can exist. This answers a long-standing open problem.

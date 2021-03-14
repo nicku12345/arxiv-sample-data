@@ -1,0 +1,1 @@
+We partially answer two questions of Goodaire by showing that in a finite, strongly right alternative ring, the set of units (if the ring is with unity) is a Bol loop under ring multiplication, and the set of quasiregular elements is a Bol loop under "circle" multiplication.

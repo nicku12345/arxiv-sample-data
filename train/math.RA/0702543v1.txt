@@ -1,0 +1,1 @@
+In this note we introduce the concept of group convolutional code. We make a complete classification of the minimal S_3-convolutional codes over the field of five elements by means of Jategaonkar's theorems.

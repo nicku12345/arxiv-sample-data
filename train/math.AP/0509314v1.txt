@@ -1,0 +1,1 @@
+We prove global, scale invariant Strichartz estimates for the linear magnetic Schr\"odinger equation with small time dependent magnetic field. This is done by constructing an appropriate parametrix. As an application, we show a global regularity type result for Schr\"odinger maps in dimensions n\geq 6.

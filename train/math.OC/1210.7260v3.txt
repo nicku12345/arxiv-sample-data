@@ -1,0 +1,1 @@
+This paper presents a heuristic algorithm to solve Minimum Convex-Cost Network Flow Problems (MC-CNFP). This solution algorithm is constructed on the concepts of Network Simplex Method (NSM) for minimum cost network flow problem, Convex Simplex Method (CSM) of Zangwill, the decomposition of the convex simplex method and non-linear transformation problem.

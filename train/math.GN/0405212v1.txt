@@ -1,0 +1,1 @@
+Let L be a countable and locally finite CW complex. Suppose that the class of all metrizable compacta of extension dimension not greater than L contains a universal element which is an absolute extensor in dimension L. Our main result shows that L is quasi-finite.

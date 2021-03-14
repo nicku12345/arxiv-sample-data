@@ -1,0 +1,1 @@
+We prove that if a simplicial complex is shellable, then the intersection lattice for the corresponding diagonal arrangement is homotopy equivalent to a wedge of spheres. Furthermore, we describe precisely the spheres in the wedge, based on the data of shelling. Also, we give some examples of diagonal arrangements where the complement is K(\pi,1), coming from rank 3 matroids.

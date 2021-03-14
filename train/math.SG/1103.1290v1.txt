@@ -1,0 +1,1 @@
+We sketch the proof of the equivalence between the hat versions of Heegaard Floer homology and embedded contact homology. The key point is to express these two Floer homology theories in terms of an open book decomposition of the ambient manifold.

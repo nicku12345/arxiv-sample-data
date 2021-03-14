@@ -1,0 +1,1 @@
+We extend the definition of the colored Jones polynomials to framed links and trivalent graphs in S^3 # k S^2 X S^1 using a state-sum formulation based on Turaev's shadows. Then, we prove that the natural extension of the Volume Conjecture is true for an infinite family of hyperbolic links.

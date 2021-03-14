@@ -1,0 +1,1 @@
+This note provides certain computations with transfer associated with projective bundles of Spin vector bundles. One aspect is to revise the proof of the main result of \cite{B} which says that all fourfold products of the Ray classes are zero in symplectic cobordism.

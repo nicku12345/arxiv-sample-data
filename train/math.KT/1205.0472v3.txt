@@ -1,0 +1,1 @@
+For a system of non-homogeneous polynomials it was constructed explicit complex morphism of a dual complex to the Koszul complex into the Koszul complex. If the ideal of these polynomials is 0-dimensional, then this mapping is a homotopic equivalence, thus in this case it was obtained explicit duality of the Koszul complex.

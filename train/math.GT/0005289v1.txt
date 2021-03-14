@@ -1,0 +1,1 @@
+I calculate optimistically asymptotic behaviors of the WRT SU(2) invariants for the three-manifolds obtained from the figure-eight knot by p-surgeries with p=0,1,2,...,10, from which one can extract volumes and the Chern-Simons invariants of these closed manifolds. I conjecture that this also holds for general closed three-manifolds.

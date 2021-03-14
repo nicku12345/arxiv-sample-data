@@ -1,0 +1,1 @@
+A four-term recurrence relation for squared spherical Bessel functions is shown to yield closed-form expressions for several types of finite weighted sums of these functions. The resulting sum rules, which may contain an arbitrarily large number of terms, are found to constitute three independent hierarchies. Their use leads to an efficient numerical evaluation of these sums.

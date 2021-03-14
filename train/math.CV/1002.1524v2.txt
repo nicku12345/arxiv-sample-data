@@ -1,0 +1,1 @@
+Recall the Fatou theorem for the unit disc in \CC. Consider a domain in \CC^2 of finite type. In this paper we will show that the approach regions studied by Nagel, Stein, Wainger and Neff are the best possible ones for the boundary behavior of bounded analytic functions, and there is no Fatou theorem for complex tangentially broader approach regions.

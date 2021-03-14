@@ -1,0 +1,1 @@
+We discuss existence and stability of Riesz bases of exponential type of L^2(T) for special domains T called trapezoids.   We construct exponential bases on L^2(T) when T is a finite union of rectangles with the same height. We also generalize our main theorems in dimension d\ge 3.

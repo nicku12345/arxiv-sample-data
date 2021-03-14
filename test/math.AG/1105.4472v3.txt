@@ -1,0 +1,1 @@
+We show that the second fundamental form of the Prym map lifts the second gaussian map of the Prym-canonical bundle. We prove, by degeneration to binary curves, that this gaussian map is surjective for the general point [C,A] of R_g for g > 19.

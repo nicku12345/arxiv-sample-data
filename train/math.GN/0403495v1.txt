@@ -1,0 +1,1 @@
+Let R be Alexandroff's long ray. We prove that the homotopy classes of continuous maps R^n \to R are in bijection with the antichains of P({1,...,n}). The proof uses partition properties of continuous maps R^n \to R. We also provide a description of [X,R] for some other non-metrizable manifolds X.

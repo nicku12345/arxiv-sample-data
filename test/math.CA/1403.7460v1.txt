@@ -1,0 +1,1 @@
+We give a recursive formula for an expansion of a solution of a general non-autonomous polynomial differential equation. The formula is given on the algebraic level with a use of shuffle product. This approach minimizes the number of integrations on each order of expansion. Using combinatorics of trees we estimate the radius of convergence of the expansion.

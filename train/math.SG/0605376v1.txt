@@ -1,0 +1,1 @@
+This paper introduces the notion of twisted toric manifolds which is a generalization of one of symplectic toric manifolds, and proves the weak Delzant type classification theorem for them. The computation methods for their fundamental groups, cohomology groups in general cases, and signatures in four-dimensional cases are also given.

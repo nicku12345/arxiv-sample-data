@@ -1,0 +1,1 @@
+The purpose of this paper is to improve the known estimates for Mockenhaupt's square function in \mathbb R^3 and for Sogge's local smoothing in \mathbb R^{2+1} spacetime. For this we use the trilinear approach of S. Lee and A. Vargas for the cone multiplier with some trilinear estimates obtained from the \ell^2 decoupling theorem and multilinear restriction theorem.

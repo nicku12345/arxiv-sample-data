@@ -1,0 +1,1 @@
+We show \ell^p\big(\mathbb Z^d\big) boundedness, for p\in(1, \infty), of discrete singular integrals of Radon type with the aid of appropriate square function estimates, which can be thought as a discrete counterpart of the Littlewood--Paley theory. It is a very powerful approach which allows us to proceed as in the continuous case.

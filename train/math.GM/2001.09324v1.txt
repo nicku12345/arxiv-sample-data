@@ -1,0 +1,1 @@
+Using nonstandard analysis (NSA), the proof of the Laplace's formula is given. The usage of NSA reduces the intricacy of taking limit, and the crude line of the proof would be clearly seen, compared to the done with the rigorous classical calculus. We use very elementary tools of NSA.

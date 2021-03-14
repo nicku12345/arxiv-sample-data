@@ -1,0 +1,1 @@
+Which slopes can or cannot appear as Seifert fibered slopes for hyperbolic knots in the 3-sphere S^3? It is conjectured that if r-surgery on a hyperbolic knot in S^3 yields a Seifert fiber space, then r is an integer. We show that for each integer n, there exists a tunnel number one, hyperbolic knot K_n in S^3 such that n-surgery on K_n produces a small Seifert fiber space.

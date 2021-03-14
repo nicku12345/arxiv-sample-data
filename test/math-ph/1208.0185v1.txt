@@ -1,0 +1,1 @@
+We report on recent results concerning the derivation of effective evolution equations starting from many body quantum dynamics. In particular, we obtain rigorous derivations of nonlinear Hartree equations in the bosonic mean field limit, with precise bounds on the rate of convergence. Moreover, we present a central limit theorem for the fluctuations around the Hartree dynamics.

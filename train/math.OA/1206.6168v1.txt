@@ -1,0 +1,1 @@
+Let A be a unital separable simple C*-algebra such that either (1) A has real rank zero, strict comparison and cancellation or (2) A is TAI. We study the kernel of the de la Harpe--Skandalis determinant on GL^0(A), proving that the determinant vanishes exactly on elements which are products of 8 multiplicative commutators. We also have results for the unitary case.

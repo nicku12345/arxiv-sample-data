@@ -1,0 +1,1 @@
+We provide a formula for the Dubrovnik polynomial of a rational knot in terms of the entries of the tuple associated with a braid-form diagram of the knot. Our calculations can be easily carried out using a computer algebra system.

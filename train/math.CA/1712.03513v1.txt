@@ -1,0 +1,1 @@
+We prove two results concerning an Ulam-type stability problem for homomorphisms between lattices. One of them involves estimates by quite general error functions; the other deals with approximate (join) homomorphisms in terms of certain systems of lattice neighborhoods. As a corollary, we obtain a stability result for approximately monotone functions.

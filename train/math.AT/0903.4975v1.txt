@@ -1,0 +1,1 @@
+The action of Sq on the cohomology of the Steenrod algebra is induced by an endomorphism Theta of the Lambda algebra. This paper studies the behavior of Theta in order to understand the action of Sq; the main result is that Sq is injective in filtrations less than 4, and its kernel on the 4-line is computed.

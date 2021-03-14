@@ -1,0 +1,1 @@
+Let K,\,H be Hilbert spaces and let L(K,H) denote the set of all bounded linear operators from K to H. Let A \in L(H)\triangleq L(H,H) with R(A) closed and X,Y \in L(K,H) with R(X)\subseteq R(A),R(Y)\subseteq R(A^*). In this short note, we give some new expressions of the Moore--Penrose inverse (A-XY^*)^+ of A-XY^* under certain suitable conditions.

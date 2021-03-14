@@ -1,0 +1,1 @@
+We show how the matrix algebra notions of determinant, spectrum, and Hermitian conjugation transfer to the Clifford algebra and to differential forms on parallelisable manifolds.

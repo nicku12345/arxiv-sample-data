@@ -1,0 +1,1 @@
+We present one of the approaches to find the best approximation of the given function by trigonometric polynomials in L^1 metric and applied it to find the optimal constants in the Nikolsky's type inequality, concerning approximation of Lipschitz functions by algebraic polynomials.

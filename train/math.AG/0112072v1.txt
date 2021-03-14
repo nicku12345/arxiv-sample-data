@@ -1,0 +1,1 @@
+We constructed a projective moduli space of semistable torsion free sheaves with `fixed determinant' on a reducible curve. When a family of smooth curves degenerates to the reducible curve, our moduli space is a degeneration of the moduli spaces of semistable vector bundles with a fixed determinant on the smooth curves. Moreover, the moduli space is reduced and seminormal.

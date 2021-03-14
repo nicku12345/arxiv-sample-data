@@ -1,0 +1,1 @@
+We classify smooth complex projective varieties X \subset \proj^N of dimension 2s+1 containing a linear subspace \Lambda of dimension s whose normal bundle N_{\Lambda/X} is numerically effective.

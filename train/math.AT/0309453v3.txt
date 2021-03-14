@@ -1,0 +1,1 @@
+Theorem 6.1.1 of [H.A.H.A.] on the existence of a model structure on the category of operads is not valid in the generality claimed. We present here a counter-example (due to B. Fresse) and a corrected version of the theorem.

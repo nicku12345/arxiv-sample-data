@@ -1,0 +1,1 @@
+In this paper, we prove that unital homomorphisms from continuous functions on a compact metric space to matrices over a C*-algebra with tracial rank at most one are approximately diagonalizable. We also consider some generalizations of this result.

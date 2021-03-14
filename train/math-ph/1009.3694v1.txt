@@ -1,0 +1,1 @@
+We consider averages \kappa of spectral measures of rank one perturbations with respect to a \sigma-finite measure \nu. It is examined how various degrees of continuity of \nu with respect to \alpha-dimensional Hausdorff measures (0 \leq \alpha \leq 1) are inherited by \kappa. This extends Kotani's trick where \nu is simply the Lebesgue measure.

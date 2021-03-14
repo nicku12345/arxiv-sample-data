@@ -1,0 +1,1 @@
+If R is a commutative ring, we prove that every finitely generated module has a pure-composition series with indecomposable factors and any two such series are isomorphic if and only if R is a Bezout ring and a CF-ring.

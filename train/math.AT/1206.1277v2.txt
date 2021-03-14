@@ -1,0 +1,1 @@
+Given a homotopy equivalence f between two topological spaces we assemble well known pieces and unfold them into an explicit formula for a strong deformation retraction of the mapping cylinder of f onto its top.

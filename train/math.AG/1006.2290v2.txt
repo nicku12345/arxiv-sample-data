@@ -1,0 +1,1 @@
+Robin Hartshorne and Alexander Hirschowitz proved that a generic collection of lines on \mathbb P^n, n \geq 3, has bipolynomial Hilbert Function. We extended this result to a specialization of the collection of generic lines, by considering a union of lines and 3-dimensional sundials (i.e., a union of schemes obtained by degenerating pairs of skew lines).

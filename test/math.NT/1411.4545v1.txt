@@ -1,0 +1,1 @@
+We prove that given a Hecke-Maass form f for \text{SL}(2, \mathbb{Z}) and a sufficiently large prime q, there exists a primitive Dirichlet character \chi of conductor q such that the L-values L(\tfrac{1}{2}, f \otimes \chi) and L(\tfrac{1}{2}, \chi) do not vanish. We expect the same method to work for any large integer q.

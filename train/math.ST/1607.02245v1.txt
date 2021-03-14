@@ -1,0 +1,1 @@
+In this paper, convergence for moments of powered normal extremes is considered under an optimal choice of normalizing constants. It is shown that the rates of convergence for normalized powered normal extremes depend on the power index. However, the dependence disappears for higher-order expansions of moments.

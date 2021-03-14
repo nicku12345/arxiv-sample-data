@@ -1,0 +1,1 @@
+We define the i-restriction and i-induction functors on the category O of the cyclotomic rational double affine Hecke algebras. This yields a crystal on the set of isomorphism classes of simple modules, which is isomorphic to the crystal of a Fock space.

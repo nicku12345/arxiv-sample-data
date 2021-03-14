@@ -1,0 +1,1 @@
+This is an extension of quantum spinor construction of U_q(\hat {\frak gl}(n)). We define quantum affine Clifford algebras based on the tensor category and the solutions of q-KZ equations, and construct quantum spinor representations of U_q(\hat{\frak o}(N)).

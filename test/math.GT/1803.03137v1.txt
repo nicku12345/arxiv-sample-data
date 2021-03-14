@@ -1,0 +1,1 @@
+In this paper, we discuss the (co)homology theory of biquandles, derived biquandle cocycle invariants for oriented surface-links using broken surface diagrams and how to compute the biquandle cocycle invariants from marked graph diagrams. We also develop the shadow (co)homology theory of biquandles and construct the shadow biquandle cocycle invariants for oriented surface-links.

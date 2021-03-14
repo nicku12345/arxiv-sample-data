@@ -1,0 +1,1 @@
+We characterize those classes \mathcal{C} of separable Banach spaces for which there exists a separable Banach space Y not containing \ell_1 and such that every space in the class \mathcal{C} is a quotient of Y.

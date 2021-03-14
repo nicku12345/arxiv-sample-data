@@ -1,0 +1,1 @@
+In this paper, we prove the dg affinity of formal deformation algebroid stacks over complex smooth algebraic varieties. For that purpose, we introduce the triangulated category of formal deformation modules which are cohomologically complete and whose associated graded module is quasi-coherent.

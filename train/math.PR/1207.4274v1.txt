@@ -1,0 +1,1 @@
+This article studies the dynamics of a finite chain with infinite components. The equation which permits us to find the probability distribution of the chain length is constructed and analysed. This research is a continuation of paper \cite{1}.

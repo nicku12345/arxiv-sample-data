@@ -1,0 +1,1 @@
+We calculate the singular homology and \v{C}ech cohomology groups of the Harmonic archipelago. As a corollary, we prove that this space is not homotopy equivalent to the Griffiths space. This is interesting in view of Eda's proof that the first singular homology groups of these spaces are isomorphic.

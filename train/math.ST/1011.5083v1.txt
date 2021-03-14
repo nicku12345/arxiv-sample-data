@@ -1,0 +1,1 @@
+This paper proposes a unified approach to enable the study of diverse distributions in the real, complex, quaternion and octonion cases, simultaneously. In particular, the central, nonsingular matricvariate and matrix multivariate Pearson type II distribution, beta type I distributions and the joint density of the singular values are obtained for real normed division algebras.

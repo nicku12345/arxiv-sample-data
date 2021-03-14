@@ -1,0 +1,1 @@
+We revisit a theorem of Grosshans and show that it holds over arbitrary commutative base ring k. One considers a split reductive group scheme G acting on a k-algebra A and leaving invariant a subalgebra R. If R^U=A^U then the conclusion is that A is integral over R.

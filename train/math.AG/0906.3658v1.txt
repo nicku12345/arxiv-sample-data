@@ -1,0 +1,1 @@
+The complement of a hyperplane arrangement in the complex projective space is known to be formal. We prove the global Milnor fiber associated to the homogeneous polynomial defining the arrangement may not even be 1-formal, by giving an example in dimension 2.

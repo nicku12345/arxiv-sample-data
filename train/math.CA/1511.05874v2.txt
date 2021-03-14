@@ -1,0 +1,1 @@
+We show that subsets of \mathbb{R}^n of large enough Hausdorff and Fourier dimension contain polynomial patterns of the form \begin{align*}   ( x ,\, x + A_1 y ,\, \dots,\, x + A_{k-1} y ,\, x + A_k y + Q(y) e_n ),   \quad x \in \mathbb{R}^n,\ y \in \mathbb{R}^m, \end{align*} where A_i are real n \times m matrices, Q is a real polynomial in m variables and e_n = (0,\dots,0,1).

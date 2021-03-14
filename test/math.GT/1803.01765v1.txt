@@ -1,0 +1,1 @@
+We construct infinitely many smooth 4-manifolds which are homotopy equivalent to S^2 but do not admit a spine, i.e., a piecewise-linear embedding of S^2 which realizes the homotopy equivalence. This is the remaining case in the existence problem for codimension-2 spines in simply-connected manifolds. The obstruction comes from the Heegaard Floer d invariants.

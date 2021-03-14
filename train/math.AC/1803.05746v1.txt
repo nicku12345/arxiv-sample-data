@@ -1,0 +1,1 @@
+Let R be a Cohen-Macaulay local ring. It is shown that under some mild conditions, the Cohen-Macaulayness property is preserved under linkage. We also study the connection of (S_n) locus of a horizontally linked module and the attached primes of certain local cohomology modules of its linked module.

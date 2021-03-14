@@ -1,0 +1,1 @@
+For arbitrary positive integers q_1 \ge q_2 \ge q_3 \ge \cdots we construct a family of monomial ideals such that for each positive integer e and for each ideal I in the family, the number of associated primes of I^e is the q_e. We present the associated primes explicitly.

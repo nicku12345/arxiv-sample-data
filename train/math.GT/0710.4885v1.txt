@@ -1,0 +1,1 @@
+We derive a formula for the weight system of the multivariable Alexander polynomial using determinants, show that it obeys known relations, and satisfies some of the same relations as the single variable polynomial.

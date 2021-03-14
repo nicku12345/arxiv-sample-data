@@ -1,0 +1,1 @@
+Let R_n be the radius of the largest disk covered after n steps of a simple random walk. We prove that almost surely limsup_{n \to \infty}(log R_n)^2/(log n log_3 n) = 1/4, where log_3 denotes 3 iterations of the log function. This is motivated by a question of Erd\H{o}s and Taylor. We also obtain the analogous result for the Wiener sausage, refining a result of Meyre and Werner.

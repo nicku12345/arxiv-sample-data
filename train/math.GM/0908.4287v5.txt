@@ -1,0 +1,1 @@
+This short note contributes a new zero-free region of the zeta function. This zero-free region has the form {s : Re(s) > a}, where a = 21/40.

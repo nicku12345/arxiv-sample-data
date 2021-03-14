@@ -1,0 +1,1 @@
+Asymptotic normality of intermediate order statistics taken from univariate iid random variables is well-known. We generalize this result to random vectors in arbitrary dimension, where the order statistics are taken componentwise.

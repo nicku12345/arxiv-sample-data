@@ -1,0 +1,1 @@
+Generalizing a result of Masuti and the second author, we describe inverse limits of Macaulay's inverse systems for Cohen-Macaulay factor algebras of formal power series or polynomial rings over an infinite field. On the way we find a strictness result for filtrations defined by regular sequences. It generalizes both a lemma of Uli Walther and the Rees isomorphism.

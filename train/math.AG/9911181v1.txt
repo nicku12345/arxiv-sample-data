@@ -1,0 +1,1 @@
+Let X be a quasiprojective smooth surface defined over an algebraically closed field of positive characteristic. We show that if X is Frobenius split then so is the Hilbert scheme Hilb^n(X) of n points in X. In particular, we get the higher cohomology vanishing for ample line bundles on Hilb^n(X) when X is projective and Frobenius split.

@@ -1,0 +1,1 @@
+We characterize the possible reductions of j-invariants of elliptic curves which admit complex multiplication by an order \mathcal{O} where the curve itself is defined over \mathbb{Z}_p. In particular, we show that the distribution of these j-invariants depends on which primes divide the discriminant and conductor of the order.

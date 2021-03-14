@@ -1,0 +1,1 @@
+We show that the Waldhausen trace map \mathrm{Tr}_X \colon A(X) \to QX_+, which defines a natural splitting map from the algebraic K-theory of spaces to stable homotopy, is natural up to \emph{weak} homotopy with respect to transfer maps in algebraic K-theory and Becker-Gottlieb transfer maps respectively.

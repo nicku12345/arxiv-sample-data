@@ -1,0 +1,1 @@
+The moduli space of regular stable maps with values in a complex manifold admits naturally the structure of a complex orbifold. Our proof uses the methods of differential geometry rather than algebraic geometry. It is based on Hardy decompositions and Fredholm intersection theory in the loop space of the target manifold.

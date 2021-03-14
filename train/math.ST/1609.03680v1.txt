@@ -1,0 +1,1 @@
+In this paper, we study a functional SAR model in which explanatory variables are sampling points of a continuous-time process. We propose a procedure for the maximum likelihood estimation for the spatial parameter dependence and the parameter function. Both convergence in probability and almost sure convergence of this estimator are stated.

@@ -1,0 +1,1 @@
+In this work, we give a new method to compute the Hilbert basis of the semigroup of certain positive divisors supported on the exceptional divisor of a normal surface singularity. Our approach is purely combinatorial which permits to avoid the long calculation of the invariants of the ring as it is presented in the work of Altinok and Tosun.

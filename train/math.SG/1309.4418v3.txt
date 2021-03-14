@@ -1,0 +1,1 @@
+We prove that adjoint orbits of semisimple Lie algebras have the structure of symplectic Lefschetz fibrations. We then describe the topology of the regular and singular fibres, in particular calculating their middle Betti numbers. For the example of sl(2,C) we compute the Fukaya--Seidel category of Lagrangian vanishing cycles.

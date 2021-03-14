@@ -1,0 +1,1 @@
+We introduce \bar G-fusions of local pointed groups on a block extension A=b\mathcal{O}G, where H is a normal subgroup of the finite group G, \bar G=G/H, and b is a G-invariant block of \mathcal{O}H. We show that certain Clifford extensions associated to these pointed groups are invariant under group graded basic Morita equivalences.

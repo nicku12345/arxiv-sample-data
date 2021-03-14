@@ -1,0 +1,1 @@
+We give a proof of openness of versality using coherent functors. As an application, we streamline Artin's criterion for algebraicity of a stack. We also introduce multi-step obstruction theories, employing them to produce obstruction theories for the stack of coherent sheaves, the Quot functor, and spaces of maps in the presence of non-flatness.

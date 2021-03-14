@@ -1,0 +1,1 @@
+We prove that the appropriately normalized maximum of the Gaussian 1/f^{\alpha}-noise with \alpha<1 converges in distribution to the Gumbel double-exponential law.

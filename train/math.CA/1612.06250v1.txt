@@ -1,0 +1,1 @@
+A trigonometric series strongly bounded at two points and with coefficients forming a log-quasidecreasing sequence is necessarily the Fourier series of a function belonging to all L^{p} spaces, 1\leq p < \infty. We obtain new results on strong convergence of Fourier series for functions of generalized bounded variation.

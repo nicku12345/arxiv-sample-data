@@ -1,0 +1,1 @@
+We prove that the L^2([0,1]^d) \times SO(d)) norm of periodizations of a function from L^1(R^d) is equivalent to the L^2(R^d) norm of the function itself in higher dimensions.

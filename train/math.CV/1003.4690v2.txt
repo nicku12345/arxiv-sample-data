@@ -1,0 +1,1 @@
+We study the so--called ring (p,Q)--mappings which are the natural generalization of quasiregular and quasi isometric mappings. It is proved that open discrete ring (p,Q)--mappings are differentiable a.e. and belong to the class ACL in {\Bbb R}^n, n\ge 2, furthermore, f\in W_{loc}^{1,1} provided that Q\in L^{1}_{loc} and p>n-1

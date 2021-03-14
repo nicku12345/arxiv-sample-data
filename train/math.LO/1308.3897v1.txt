@@ -1,0 +1,1 @@
+The Ax-Kochen Theorem is a purely algebraic statement about the zeros of homogeneous polynomials over the p-adic numbers, but it was originally proved using techniques from mathematical logic. This document, the author's undergraduate honors thesis, provides an exposition of the theorem and its proof via model theory, assuming no previous experience with logic.

@@ -1,0 +1,1 @@
+We use an upper bound on Jacobsthal's function to complete a proof of a known density result. Apart from the bound on Jacobsthal's function used here, the proof we are completing uses only elementary methods and Dirichlet's theorem on the infinitude of primes in arithmetic progressions.

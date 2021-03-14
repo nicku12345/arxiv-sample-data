@@ -1,0 +1,1 @@
+In this paper we show that the set of closure relations on a finite poset P forms a supersolvable lattice, as suggested by Rota. Furthermore this lattice is dually isomorphic to the lattice of closed sets in a convex geometry (in the sense of Edelman and Jamison). We also characterize the modular elements of this lattice and compute its characteristic polynomial.

@@ -1,0 +1,1 @@
+Let P and Q be polynomials in one variable over an algebraically closed field k of characteristic zero. Let f and g be elements of a function field \K over k such that P(f)=Q(g). We give conditions on P and Q such that the height of f and g can be effectively bounded, and moreover, we give sufficient conditions on P and Q under which f and g must be constant.

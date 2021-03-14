@@ -1,0 +1,1 @@
+In this paper, we develop a lower bound for the double slice genus of a knot using Casson-Gordon invariants. As an application, we show that the double slice genus can be arbitrarily larger than twice the slice genus. As an analogue to the double slice genus, we also define the superslice genus of a knot, and give both an upper bound and a lower bound in the topological category.

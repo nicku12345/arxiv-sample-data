@@ -1,0 +1,1 @@
+In this paper, we prove the unique continuation property for the weak solution of the plate equation with non-smooth coefficients. Then, we apply this result to study the global attractor for the semilinear plate equation with a localized damping.

@@ -1,0 +1,1 @@
+K is an algebraically closed field with characteristic 0 and f is a polynomial or a holomorphic function. We study all solutions of the equation XA-AX=f(X), in the unknown X\in M_n(K), when A\in M_n(K) is diagonalizable.

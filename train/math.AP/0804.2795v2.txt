@@ -1,0 +1,1 @@
+We proved the existence and uniqueness of a traveling wave solution to the thin film equation with a Navier slip condition at the liquid-solid interface. We obtain explicit lower and upper bounds for the solution and an absolute error estimate of approximation of a solution to the thin films equation by the traveling-wave solution.

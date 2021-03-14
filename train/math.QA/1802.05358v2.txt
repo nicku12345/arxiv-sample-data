@@ -1,0 +1,1 @@
+We construct a 2-representation categorifying the symmetric Howe representation of \mathfrak{gl}_m using a deformation of an algebra introduced by Webster. As a consequence, we obtain a categorical braid group action taking values in a homotopy category.

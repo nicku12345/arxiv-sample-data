@@ -1,0 +1,1 @@
+We show that if a discrete random measure on the unit ball of a separable Hilbert space satisfies the Ghirlanda-Guerra identities then by randomly deleting half of the points and renormalizing the weights of the remaining points we obtain the same random measure in distribution up to rotations.

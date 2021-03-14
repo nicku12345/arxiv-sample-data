@@ -1,0 +1,1 @@
+For n >2, we shall show that the group Aut(NS(M)) of simplicial automorphisms of the complex NS(M) of non-separating embedded spheres in the manifold M,connected sum of n copies of S^2 X S^1, isomorphic to the group Out(F_n) of outer automorphisms of the free group F_n, where F_n is identified with the fundamental group of M up to conjugacy of the base point in M.

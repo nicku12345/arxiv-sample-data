@@ -1,0 +1,1 @@
+Motivated by a question of W. Kuperberg, we study the 18-dimensional manifold of configurations of 6 non-intersecting infinite cylinders of radius r, all touching the unit ball in \mathbb{R}^{3}. We find a configuration with \[ r=\frac{1}{8}\left( 3+\sqrt{33}\right) \approx1.093070331\ .\] We believe that this value is the maximal possible.

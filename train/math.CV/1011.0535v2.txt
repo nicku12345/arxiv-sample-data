@@ -1,0 +1,1 @@
+We define the notion of log-Riemann surfaces and Caratheodory convergence of log-Riemann surfaces. We prove a convergence theorem for uniformizations of simply connected log-Riemann surfaces converging in the Caratheodory topology. We obtain as a corollary a purely geometric proof of Euler's formula (1 + z/n)^n -> e^z .

@@ -1,0 +1,1 @@
+We describe \{2,3\}-groups in which the order of a product of any two elements of orders at most 4 does not exceed 9 and the centralizer of every involution is a locally cyclic 2-subgroup. In particular, we will prove that these groups are locally finite.

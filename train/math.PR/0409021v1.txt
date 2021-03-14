@@ -1,0 +1,1 @@
+We consider long-range percolation in dimension d\geq 1, where distinct sites x and y are connected with probability p_{x,y}\in[0,1]. Assuming that p_{x,y} is translation invariant and that p_{x,y}=\|x-y\|^{-s+o(1)} with s>2d, we show that the graph distance is at least linear with the Euclidean distance.

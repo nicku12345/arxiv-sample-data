@@ -1,0 +1,1 @@
+The Sperner and Tucker lemmas are combinatorial analogous of the Brouwer and Borsuk - Ulam theorems with many useful applications. These classic lemmas are concerning labellings of triangulated discs and spheres. In this paper we show that discs and spheres can be substituted by large classes of manifolds with or without boundary.

@@ -1,0 +1,1 @@
+Vector products can be defined on spaces of dimensions 0, 1, 3 and 7 only, and their isomorphism types are determined entirely by their adherent symmetric bilinear forms. We present a short and elementary proof for this classical result.

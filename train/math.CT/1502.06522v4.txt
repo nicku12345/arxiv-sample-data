@@ -1,0 +1,1 @@
+We show how the model structure on the category of simplicially-enriched (colored) props induces a model structure on the category of simplicially-enriched (colored) properads. A similar result holds for dioperads.

@@ -1,0 +1,1 @@
+It is well known that to each infinite class of classical groups over a commutative ring R, we can associate an infinite loop space by Quillen's plus construction. In this paper we generalize this fact to the case of affine Kac-Moody groups.

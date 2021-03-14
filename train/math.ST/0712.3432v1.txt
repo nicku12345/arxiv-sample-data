@@ -1,0 +1,1 @@
+Mathematical formulation of fluent switching from "warm" to "hot" conditions of standby units is given using the well known Sedyakin's and accelerated failure time (AFT) models. Non-parametric estimators of cumulative distribution function and mean failure time of a redundant system with several stand-by units are proposed. Goodness-of-fit tests for two given models are given.

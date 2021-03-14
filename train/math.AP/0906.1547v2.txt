@@ -1,0 +1,1 @@
+We prove global wellposedness and scattering for the Mass-critical homogeneous fourth-order Schrodinger equation in high dimensions n>4, for general L^2 initial data in the defocusing case, and for general initial data with Mass less than certain fraction of the Mass of the Ground State in the focusing case.

@@ -1,0 +1,1 @@
+We prove the existence of a (random) Lipschitz function F : \Z^{d-1}\to\Z^+ such that, for every x \in \Z^{d-1}, the site (x,F(x)) is open in a site percolation process on \Z^{d}. The Lipschitz constant may be taken to be 1 when the parameter p of the percolation model is sufficiently close to 1.

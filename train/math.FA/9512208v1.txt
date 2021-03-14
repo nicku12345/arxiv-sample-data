@@ -1,0 +1,1 @@
+This is an exposition of the known techniques for constructing \Cal L_p-spaces for p\in (1,\infty)\setminus \{2\}, including some unpublished work of Alspach. Isomorphic and complemented embedding relations between these spaces are also explored.

@@ -1,0 +1,1 @@
+We describe the necessary and sufficient conditions for two sequences {\mu_n}^\infty_n=0 and {a_n}^\infty_n=0 to be correspondingly the set of eigenvalues and the set of norming constants of a Sturm-Liouville problem with real summable potential q and in advance fixed separated boundary conditions.

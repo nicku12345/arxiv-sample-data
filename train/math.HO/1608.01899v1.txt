@@ -1,0 +1,1 @@
+We discuss variations of the zero-sum game where Bob selects two distinct numbers, and Alice learns one of them to make a guess which of the numbers is the larger.

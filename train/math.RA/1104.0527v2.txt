@@ -1,0 +1,1 @@
+For an endomorphism f\inEnd{M) of a left R-module M we investigate the structure and the polynomial identities of the zero-level centralizer Cen_0(f) and the factor Cen(f)/Cen_0(f). A double zero-centralizer theorem for Cen_0(Cen_0(f)) is also formulated.

@@ -1,0 +1,1 @@
+In this paper, we study local graded Weyl modules and Demazure modules for twisted hypercurrent algebras. We prove that local graded Weyl modules for a twisted hypercurrent algebra are isomorphic to the corresponding level 1 Demazure modules, and moreover, that they are restrictions of corresponding local graded Weyl modules for the untwisted hypercurrent algebra.

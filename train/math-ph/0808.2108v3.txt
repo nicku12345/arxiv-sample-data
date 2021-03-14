@@ -1,0 +1,1 @@
+We derive a non-linear integral equation for the Bethe-ansatz solvable open XXZ spin chain of arbitrary length describing the lowest lying state with zero magnetization. For this case we show how to combine the integral representation with the known determinant formula of norms and scalar products.

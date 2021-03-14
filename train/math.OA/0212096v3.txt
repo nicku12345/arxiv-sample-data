@@ -1,0 +1,1 @@
+We construct representations of a q-oscillator algebra by operators on Fock space on positive matrices. They emerge from a multiresolution scaling construction used in wavelet analysis. The representations of the Cuntz Algebra arising from this multiresolution analysis are contained as a special case in the Fock Space construction.

@@ -1,0 +1,1 @@
+In this article, we will show that the automorphism group of any hypergraph is essentially equal to the determinant of some matrix over a ring generated from the set of ground points. With this, we are also able to determine whether two graphs are isomorphic.

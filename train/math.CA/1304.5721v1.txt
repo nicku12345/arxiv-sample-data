@@ -1,0 +1,1 @@
+We define the associated geometric series for a large class of positive linear operators and study the convergence of the series in the case of sequences of admissible operators. We obtain an inverse Voronovskaya theorem and we apply our results to the Bernstein operators, the Bernstein-Durrmeyer-type operators, and the symmetrical version of Meyer-K\"onig and Zeller operators.

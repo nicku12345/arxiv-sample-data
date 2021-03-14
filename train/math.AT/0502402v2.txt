@@ -1,0 +1,1 @@
+We exhibit a map f between aspherical spaces X and Y such that f induces an isomorphism on homotopy groups but, with natural topologies, X and Y fail to have homeomorphic fundamental groups. Thus the topological fundamental group has the capacity to distinguish homotopy type when the Whitehead theorem fails.

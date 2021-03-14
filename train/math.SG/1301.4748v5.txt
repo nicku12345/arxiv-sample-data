@@ -1,0 +1,1 @@
+This paper constructs a Kuranishi structure for the moduli stack of holomorphic curves in exploded manifolds. To avoid some technicalities of abstract Kuranishi structures, we embed our Kuranishi structure inside a moduli stack of curves. The construction also works for the moduli stack of holomorphic curves in any compact symplectic manifold.

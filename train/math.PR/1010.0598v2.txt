@@ -1,0 +1,1 @@
+We derive a satisfying rate of convergence of the Marcus-Lushnikov process toward the solution to Smoluchowski's coagulation equation. Our result applies to a class of homogeneous-like coagulation kernels with homogeneity degree ranging in (-\infty,1]. It relies on the use of a Wasserstein-type distance, which has shown to be particularly well-adapted to coalescence phenomena.

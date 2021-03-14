@@ -1,0 +1,1 @@
+In this paper, we present Sch\"utzenberger's factorization in different combinatorial contexts and show that its validity is not restricted to these cases but can be extended to every Lie algebra endowed with an ordered basis. We also expose some elements of the relations between the Poincar\'e-Birkhoff-Witt bases of the enveloping algebra and their dual families.

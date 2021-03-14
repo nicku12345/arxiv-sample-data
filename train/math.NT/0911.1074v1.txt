@@ -1,0 +1,1 @@
+We will prove several congruences modulo a power of a prime such as  \sum_{0<k_1<...<k_{n}<p}\leg{p-k_{n}}{3} {(-1)^{k_{n}}\over k_1... k_{n}}\equiv   {lll} -{2^{n+1}+2\over 6^{n+1}} p B_{p-n-1}({1\over 3}) &\pmod{p^2} &{if n is odd} -{2^{n+1}+4\over n6^n} B_{p-n}({1\over 3}) &\pmod{p} &{if n is even}.  where n is a positive integer and p is prime such that p>\max(n+1,3).

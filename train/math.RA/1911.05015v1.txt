@@ -1,0 +1,1 @@
+In this paper, we prove that every local derivation on Witt algebras W_n, W_n^+ or W_n^{++}  is a derivation for any n\in\mathbb{N}. As a consequence, we obtain that every local derivation on a centerless generalized Virasoro algebra of higher rank is a derivation.

@@ -1,0 +1,1 @@
+We prove that the triangle order \leq_{\bigtriangleup} in the singular category D_{sg}(A) defines a partial order on the set of isomorphism classes of objects in D_{sg}(A) for a finite-dimensional k-algebra A.

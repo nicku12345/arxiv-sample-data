@@ -1,0 +1,1 @@
+We show that the \mathcal{P}-canonical form of (A^{k})_{k} (or simply of the matrix A) can be written as a sum of two parts, the geometric and the non-geometric parts of A. We also show that if we plug -k for k in the geometric part of A, we get the \mathcal{P}-canonical form of the Drazin inverse A_{D} of A.

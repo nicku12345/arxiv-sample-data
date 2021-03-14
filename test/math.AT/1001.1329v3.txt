@@ -1,0 +1,1 @@
+We find a formula for the L2 signature of a (p,q) torus knot, which is the integral of the omega-signatures over the unit circle. We then apply this to a theorem of Cochran-Orr-Teichner to prove that the n-twisted doubles of the unknot, for n not 0 or 2, are not slice. This is a new proof of the result first proved by Casson and Gordon.

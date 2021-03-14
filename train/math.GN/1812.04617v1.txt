@@ -1,0 +1,1 @@
+We continue the work of [5] and [3], in which are considered papers in the literature that discuss fixed point assertions in digital topology. We discuss published assertions that are incorrect or incorrectly proven; that are severely limited or reduce to triviality under "usual" conditions; or that we improve upon.

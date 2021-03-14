@@ -1,0 +1,1 @@
+We construct a Borel graph G such that ZF+DC+"There are no maximal independent sets in G" is equiconsistent with ZFC+"There exists an inaccessible cardinal".

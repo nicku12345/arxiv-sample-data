@@ -1,0 +1,1 @@
+Let X be a connected normal Stein space of pure dimension d>=2 with isolated singularities only. By solving a weighted d-bar-equation with compact support on a desingularization of X, we derive Hartogs' Extension Theorem on X by the d-bar-idea due to Ehrenpreis.

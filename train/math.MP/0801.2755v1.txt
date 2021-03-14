@@ -1,0 +1,1 @@
+The main purpose of this paper is to show that the generalized Schr\"odinger operator {\cal A}^Vf={1/2}\Delta f+b\nabla f-Vf, f\in C_0^\infty(\R^d), is a pre-generator for which we can prove its L^\infty(\R^d,dx)-uniqueness. Moreover, we prove the L^1(\R^d,dx)-uniqueness of weak solutions for the Fokker-Planck equation associated with this pre-generator.

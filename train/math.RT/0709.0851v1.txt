@@ -1,0 +1,1 @@
+We determine the blocks of the walled Brauer algebra in characteristic zero. These can be described in terms of orbits of the action of a Weyl group of type A on a certain set of weights. In positive characteristic we give a linkage principle in terms of orbits of the corresponding affine Weyl group. We also classify the semisimple walled Brauer algebras in all characteristics.

@@ -1,0 +1,1 @@
+Applying Johann Cigler's Hankel determinant formula in terms of the binomial coefficient determinants, which is simplified from Christian Krattenthale's, we get an explicit formula of Hankel determinants for general. As far as I know, those are new results.

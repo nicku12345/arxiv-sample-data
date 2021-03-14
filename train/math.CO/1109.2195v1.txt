@@ -1,0 +1,1 @@
+In this paper we will look at the relationship between the intersection number c2 and its diameter for a distance-regular graph. And also, we give some tools to show that a distance-regular graph with large c2 is bipartite, and a tool to show that if kD is too small then the distance-regular graph has to be antipodal.

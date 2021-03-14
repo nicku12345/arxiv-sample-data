@@ -1,0 +1,1 @@
+As a complement to some recent work by Pal and Protter, "Strict local martingales, bubbles, and no early exercise", we show that the call option prices associated with the Bessel strict local martingales are integrable over time, and we discuss the probability densities obtained thus.

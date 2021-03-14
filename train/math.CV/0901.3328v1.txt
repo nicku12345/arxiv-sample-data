@@ -1,0 +1,1 @@
+A class of complex Fourier Transforms of exponential functions which have all their zeros on the real line is explored from a geometric perspective. These transforms belong to the Laguerre - Polya class, and it is proved that all the zeros are simple.

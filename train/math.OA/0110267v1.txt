@@ -1,0 +1,1 @@
+In this paper, we extend the Banach-Stone theorem to the non commutative case, i.e, we give a partial answere to the question 2.1 of [13], and we prove that the structure of the postliminal C*-algebras A determines the topology of its primitive ideals space.

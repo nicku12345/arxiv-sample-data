@@ -1,0 +1,1 @@
+Let k\subset S^3 be a nontrivial knot. The Cabling Conjecture of Francisco Gonz\'alez-Acu\~na and Hamish Short posits that \pi-Dehn surgery on k produces a reducible manifold if and only if k is a (p,q)-cable knot and the surgery slope \pi equals pq. We extend the work of James Allen Hoffman to prove the Cabling Conjecture for knots with bridge number up to 5.

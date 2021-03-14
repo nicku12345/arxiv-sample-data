@@ -1,0 +1,1 @@
+Based on a PML for the advective wave equation, we propose two PML models for the linearized Euler equations. The derivation of the first model can be applied to other physical models. The second model was implemented. Numerical results are shown.

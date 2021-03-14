@@ -1,0 +1,1 @@
+It is conjectured that every fullerene graph is hamiltonian. Jendrol' and Owens proved [J. Math. Chem. 18 (1995), pp. 83--90] that every fullerene graph on n vertices has a cycle of length at least 4n/5. In this paper, we improve this bound to 5n/6-2/3.

@@ -1,0 +1,1 @@
+We generalize the notion of m-isometric operator tuples on Hilbert spaces in a natural way to normed spaces. This is done by defining a tuple analogue of (m,p)-isometric operators, so-called (m,p)-isometric operator tuples. We then extend this definition further by introducing (m,\infty)-isometric operator tuples and study properties of and relations between these objects.

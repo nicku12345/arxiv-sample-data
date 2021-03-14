@@ -1,0 +1,1 @@
+Given an open real interval \Delta\ and two selfadjoint operators A_1, A_2 in a \Pi_\kappa-space with n-dimensional resolvent difference we show that the difference of the total multiplicities of the eigenvalues of A_1 and A_2 in \Delta\ is at most n+2\kappa.

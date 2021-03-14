@@ -1,0 +1,1 @@
+In this note we study the systoles of convex hypersurfaces in \mathbb{R}^{2n} invariant under an anti-symplectic involution. We investigate a uniform upper bound of the ratio between the systole and the symmetric systole of the hypersurfaces using symplectic capacities from Floer theory. We discuss various concrete examples in which the ratio can be understood explicitly.

@@ -1,0 +1,1 @@
+It is known that one can associate a Kontsevich-type formality morphism to every Drinfeld associator. We show that this morphism may be extended to a Kontsevich-Shoikhet formality morphism of cochains and chains, by describing the action of the Grothendieck-Teichm\"uller group on such objects (up to homotopy).

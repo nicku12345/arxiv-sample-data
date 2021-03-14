@@ -1,0 +1,1 @@
+For nonautonomous linear differential equations with nonuniform hyperbolicity, we introduce a definition for nonuniform dichotomy spectrum, which can be seen as a generalization of Sacker-Sell spectrum. We prove a spectral theorem and use the spectral theorem to prove a reducibility result.

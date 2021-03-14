@@ -1,0 +1,1 @@
+Let \alpha be a Schur root; let h=hcf_v(\alpha(v)) and let p = 1 - < \alpha/h,\alpha/h >. Then a moduli space of representations of dimension vector \alpha is birational to p h by h matrices up to simultaneous conjugacy. Therefore, if h=1,2,3 or 4, then such a moduli space is a rational variety and if h divides 420 it is a stably rational variety.

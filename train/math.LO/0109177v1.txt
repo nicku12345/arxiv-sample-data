@@ -1,0 +1,1 @@
+We call a subset S of a topological vector space V linearly Borel, if for every finite number n, the set of all linear combinations of S of length n is a Borel subset of V. It will be shown that a Hamel base of an infinite dimensional Banach space can never be linearly Borel. This answers a question of Anatolij Plichko.

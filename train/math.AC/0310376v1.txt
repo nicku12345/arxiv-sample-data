@@ -1,0 +1,1 @@
+We define the monomial invariants of a projective variety Z; they are invariants coming from the generic initial ideal of Z. Using this notion, we generalize a result of Cook: If Z is an integral variety of codimension two, satisfying the additional hypothesis s_Z=s_\Gamma, then its monomial invariants are connected.

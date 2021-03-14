@@ -1,0 +1,1 @@
+We use an extension to the infinite dimension of the rank theorem of the differential calculus to establish a Karush-Huhn-Tucker theorem for optimization problems in Banach spaces. We provide an application to variational problems on bounded processus under equality constraints.

@@ -1,0 +1,1 @@
+In this paper, by using Gr\"obner-Shirshov bases for Rota-Baxter algebras, we prove that every dendriform dialgebra over a field of characteristic 0 can be embedded into its universal enveloping Rota-Baxter algebra of weight 0.

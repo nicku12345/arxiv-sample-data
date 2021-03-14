@@ -1,0 +1,1 @@
+In this paper, we show that if a closed, connected, oriented 3-manifold M = M1#M2 admits a perfect discrete Morse function, then one can decompose this function as perfect discrete Morse functions on M_1 and M_2. We also give an explicit construction of a separating sphere on M corresponding to such a decomposition.

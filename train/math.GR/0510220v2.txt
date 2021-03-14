@@ -1,0 +1,1 @@
+Let G be a finite p-group, and let \der Gd denote the d-th term of the derived series of G. We show, for p\geq 5, that \der Gd\neq 1 implies \log_p\ord G\geq 2^d+3d-6, and hence we improve a recent result by Mann.

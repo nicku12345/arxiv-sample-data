@@ -1,0 +1,1 @@
+In this paper we call a real-valued function N_{\theta}-ward continuous if it preserves N_{\theta}-quasi-Cauchy sequences where a sequence \boldsymbol{\alpha}=(\alpha_{k}) is defined to be N_{\theta}-quasi-Cauchy when the sequence \Delta \boldsymbol{\alpha} is in N^{0}_{\theta}. We prove not only inclusion and compactness type theorems, but also continuity type theorems.

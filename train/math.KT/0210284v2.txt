@@ -1,0 +1,1 @@
+Given a finite--dimensional monomial algebra A we consider the trivial extension TA and provide formulae, depending on the characteristic of the field, for the dimensions of the summands HH_1(A) and \Alt(DA) of the first Hochschild cohomology group HH^1(TA). From these a formula for the dimension of HH^1(TA) can be derived.

@@ -1,0 +1,1 @@
+In 2009 Kokotov, Korotkin and Zograf gave a formula for the class of the Hodge bundle on the Hurwitz space of admissible covers of genus g and degree d of the projective line. They gave an analytic proof of it. In this note we give an algebraic proof and an extension of the result.

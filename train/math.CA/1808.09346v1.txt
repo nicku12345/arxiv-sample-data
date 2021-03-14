@@ -1,0 +1,1 @@
+If E \subset \mathbb{R}^2 is a compact set of Hausdorff dimension greater than 5/4, we prove that there is a point x \in E so that the set of distances \{ |x-y| \}_{y \in E} has positive Lebesgue measure.

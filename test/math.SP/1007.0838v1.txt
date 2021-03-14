@@ -1,0 +1,1 @@
+We study operators of Kramers-Fokker-Planck type in the semiclassical limit, assuming that the exponent of the associated Maxwellian is a Morse function with a finite number n_0 of local minima. Under suitable additional assumptions, we show that the first n_0 eigenvalues are real and exponentially small, and establish the complete semiclassical asymptotics for these eigenvalues.

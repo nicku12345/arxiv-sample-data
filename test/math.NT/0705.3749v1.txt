@@ -1,0 +1,1 @@
+We show that if A is a subset of {1, ..., n} such that it has no pairs of elements whose difference is equal to p-1 with p a prime number, then the size of A is O(n(loglog n)^(-clogloglogloglog n)) for some positive constant c.

@@ -1,0 +1,1 @@
+It is demonstrated how chains of twists for classical Lie algebras induce the new twist deformations (the deformed Yangians) that quantize the generalized rational solutions of the classical Yang-Baxter equation. For the case of Y(g) with g=so(2N+1) the explicit expression for the corresponding R-matrix is given in the defining representation.

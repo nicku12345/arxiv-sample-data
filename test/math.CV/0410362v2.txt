@@ -1,0 +1,1 @@
+The Teichmuller space Teich(S) of a surface S in genus g>1 is a real submanifold of the quasifuchsian space QF(S). We show that the determinant of the Laplacian det'(Delta) on Teich(S) has a unique holomorphic extension to QF(S).

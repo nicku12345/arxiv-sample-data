@@ -1,0 +1,1 @@
+We submit a new way to detect pairs of non-cobordant surface-links. We find a new example of a pair of non-cobordant surface-links with the following properties: Orr invariant, Cochran sequence, Sato-Levine invariant, the alinking number and one of Stallings's theorems cannot distinguish them. However our new way can distinguish them.

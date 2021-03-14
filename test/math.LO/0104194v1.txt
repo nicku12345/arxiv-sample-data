@@ -1,0 +1,1 @@
+An abelian group is said to be aleph_1-free if all its countable subgroups are free. Our main result is:   If R is a ring with R^+ free and |R|<lambda <= 2^{aleph_0}, then there exists an aleph_1-free abelian group G of cardinality lambda with End(G)=R .   A corollary to this theorem is: Indecomposable aleph_1-free abelian groups of cardinality aleph_1 do exist.

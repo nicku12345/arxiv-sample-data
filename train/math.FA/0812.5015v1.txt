@@ -1,0 +1,1 @@
+We prove generalized Hyres-Ulam-Rassias stability of the cubic functional equation f(kx+y)+f(kx-y)=k[f(x+y)+f(x-y)]+2(k^3-k)f(x) for all k\in \Bbb N and the quartic functional equation f(kx+y)+f(kx-y)=k^2[f(x+y)+f(x-y)]+2k^2(k^2-1)f(x)-2(k^2-1)f(y) for all k\in \Bbb N in non-Archimedean normed spaces.

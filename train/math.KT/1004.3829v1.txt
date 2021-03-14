@@ -1,0 +1,1 @@
+In this companion paper to arXiv:0802.1928 we provide an example of an isolated surface singularity R over a number field such that K_0(R) = K_0(R[t]) but K_0(R) \neq K_0(R[t_1,t_2]). This answers, negatively, a question of Bass.

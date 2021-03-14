@@ -1,0 +1,1 @@
+We give a sharp upper bound on the vanishing order of solutions to Schrodinger equation with C^1 electric and magnetic potentials on a compact smooth manifold. Our method is based on quantitative Carleman type inequalities developed by Donnelly and Fefferman. It also extends the first author's previous work to the magnetic potential case.

@@ -1,0 +1,1 @@
+The zero-divisor graph \Gamma(R) of an associative ring R is the graph whose vertices are all nonzero zero-divisors (one-sided and two-sided) of R, and two distinct vertices x and y are joined by an edge iff either xy=0 or yx=0.   In the present paper, we study some properties of ring varieties where every finite ring is uniquely determined by its zero-divisor graph.

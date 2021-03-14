@@ -1,0 +1,1 @@
+We show that the bicategory of (representable) orbifolds and good maps is equivalent to the bicategory of orbifold translation groupoids and generalized equivariant maps. We use this result to define an orbifold version of Bredon cohomology.

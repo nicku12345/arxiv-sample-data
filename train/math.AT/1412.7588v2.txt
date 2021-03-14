@@ -1,0 +1,1 @@
+We use modular invariant theory to establish a complete set of relations of the mod p homology of \{QS^k\}_{k\geq0}, for p odd, as a ring object in the category of coalgebras (also known as a coalgebraic ring or a Hopf ring). We also describe the action of the mod p Dyer-Lashof algebra as well as the mod p Steenrod algebra on the coalgebraic ring.

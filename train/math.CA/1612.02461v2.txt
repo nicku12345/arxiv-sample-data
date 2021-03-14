@@ -1,0 +1,1 @@
+The paper proves that a bound on the averaged Jones' square function of a measure implies an upper bound on the measure. Various types of assumptions on the measure are considered. The theorem is a generalization of a result due to A. Naber and D. Valtorta in connection with measure bounds on the singular set of harmonic maps.

@@ -1,0 +1,1 @@
+We prove that the `connective constant' for ternary square-free words is at least 2^{1/17} = 1.0416 ... , improving on Brinkhuis and Brandenburg's lower bounds of 2^{1/24}=1.0293 ... and 2^{1/22}=1.032 ... respectively. This is the first improvement since 1983.

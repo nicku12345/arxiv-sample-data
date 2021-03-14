@@ -1,0 +1,1 @@
+This note deals with the question: what remains of the Burkholder-Davis-Gundy inequalities when stopping times T are replaced by arbitrary random times \rho ? We prove that these inequalities still hold when T is a pseudo-stopping time and never holds for ends of predictable sets.

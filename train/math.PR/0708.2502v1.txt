@@ -1,0 +1,1 @@
+This note makes the obvious observation that Hoeffding's original proof of his inequality remains valid in the game-theoretic framework. All details are spelled out for the convenience of future reference.

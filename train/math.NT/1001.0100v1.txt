@@ -1,0 +1,1 @@
+When p is congruent to 1 mod 8, we have a criterion of the quadratic character of 1+\sqrt{2}, which is related to the class number of \Q(\sqrt{-p}). In this paper, we obtain a similar criterion using an elliptic curve, which contrasts to the proof using algebraic number theory for the old one.

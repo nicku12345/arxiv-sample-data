@@ -1,0 +1,1 @@
+We investigate convergence properties of generalized Walsh series associated with signals f\in L^1[0,1]. We also show how the dependence of the generalized Walsh bases on N\times N unitary matrices allows for applications in signal encoding and encryption, provided the signals are piece-wise constant on N-adic subintervals of [0,1].

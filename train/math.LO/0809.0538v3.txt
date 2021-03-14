@@ -1,0 +1,1 @@
+In this article we investigate the notion and basic properties of Boolean algebras and prove the Stone's representation theorem. The relations of Boolean algebras to logic and to set theory will be studied and, in particular, a neat proof of completeness theorem in propositional logic will be given using Stone's theorem from Boolean algebra.

@@ -1,0 +1,1 @@
+In this note we show that in any dimension d, the strong disorder property implies the strong localization property. This is established for a continuous time model of directed polymers in a random environment : the parabolic Anderson Model.

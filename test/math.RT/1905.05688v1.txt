@@ -1,0 +1,1 @@
+In this paper we generalize Kaplansky's combinatorial characterization of the isomorphism types of embeddings of a cyclic subgroup in a finite abelian group given in his 1951 book ``Infinite Abelian Groups''. For this we introduce partial maps on Littlewood-Richardson tableaux and show that they characterize the isomorphism types of finite direct sums of such cyclic embeddings.

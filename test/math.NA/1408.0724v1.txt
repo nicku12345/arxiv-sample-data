@@ -1,0 +1,1 @@
+We study solution techniques for elliptic equations in divergence form, where the coefficients are only of bounded mean oscillation (BMO). For |p-2|<\varepsilon and a right hand side in W^{-1}_p we show convergence of a finite element scheme, where \varepsilon depends on the oscillation of the coefficients.

@@ -1,0 +1,1 @@
+It is well known that the Taylor series expansion of (1+ z)^{A} does not converge for |z|>1 where A is a real number which is not equal to zero or a positive integer. A limited series expansion of this expression is obtained in this paper for |z|>1 as a product of convergent series.

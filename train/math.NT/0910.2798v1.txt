@@ -1,0 +1,1 @@
+We say that d is an exponential unitary divisor of n=p_1^{a_1}... p_r^{a_r}>1 if d=p_1^{b_1}... p_r^{b_r}, where b_i is a unitary divisor of a_i, i.e., b_i\mid a_i and (b_i,a_i/b_i)=1 for every i\in \{1,2,...,r\}. We survey properties of related arithmetical functions and introduce the notion of exponential unitary perfect numbers.

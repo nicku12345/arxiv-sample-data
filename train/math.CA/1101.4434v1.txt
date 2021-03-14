@@ -1,0 +1,1 @@
+Review of implicit methods of integrating system of stiff ordinary differential equations is presented. Defines and graphically presents absolute stability region for Gears methods (backward differentiation formula) used to solve system of stiff ordinary differential equations. Recommendations for selecting the order of Gears method are given.

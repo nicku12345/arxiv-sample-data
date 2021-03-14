@@ -1,0 +1,1 @@
+We describe a 2-dimensional analogue of track categories, called two-track categories, and show that it can be used to model categories enriched in 2-type mapping spaces. We also define a Baues-Wirsching type cohomology theory for track categories, and explain how it can be used to classify two-track extensions of a track category D by a module over D.

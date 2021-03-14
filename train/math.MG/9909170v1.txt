@@ -1,0 +1,1 @@
+A well-known theorem of Blind and Mani says that every simple polytope is uniquely determined by its graph. Kalai gave a very short and elegant proof of this result using the concept of acyclic orientations. As it turns out, Kalai's proof can be suitably generalized without much effort. We apply our results to a special class of cubical polytopes.

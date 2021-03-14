@@ -1,0 +1,1 @@
+Greenberg proved that every countable group A is isomorphic to the automorphism group of a Riemann surface, which can be taken to be compact if A is finite. We give a short and explicit algebraic proof of this for finitely generated groups A.

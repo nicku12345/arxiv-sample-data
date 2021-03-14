@@ -1,0 +1,1 @@
+We prove that if an ergodic action of a countable group on a probability space admits a generating partition having finite Shannon entropy then it admits a finite generating partition.

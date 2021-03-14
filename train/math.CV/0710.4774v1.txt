@@ -1,0 +1,1 @@
+We determine topological and algebraic conditions for a germ of holomorphic foliation \mathcal F(X) induced by a generic vector field X on (\mathbb{C}^{3},0) to have a holomorphic first integral, i.e., a germ of holomorphic map F \colon(\mathbb{C}^{3},0)\longrightarrow(\mathbb{C}^{2},0) such that the leaves of \mathcal F(X) are contained in the level curves of F.

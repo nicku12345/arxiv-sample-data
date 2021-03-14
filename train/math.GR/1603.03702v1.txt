@@ -1,0 +1,1 @@
+For a group G, a weak Cayley isomorphism is a bijection f:G \to G such that f(g_1g_2) is conjugate to  f(g_1)f(g_2) for all g_1,g_2 \in G. They form a group \mathcal W(G) that is the group of symmetries of the weak Cayley table of G. We determine \mathcal W(G) for each of the seventeen wallpaper groups G, and for some other crystallographic groups.

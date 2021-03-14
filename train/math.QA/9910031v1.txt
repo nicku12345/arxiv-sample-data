@@ -1,0 +1,1 @@
+Extending work of Budzynski and Kondracki, we investigate coverings and gluings of algebras and differential algebras. We describe in detail the gluing of two quantum discs along their classical subspace, giving a C*-algebra isomorphic to a certain Podles sphere, as well as the gluing of U_{\sqrt{q}}(sl_2)-covariant differential calculi on the discs.

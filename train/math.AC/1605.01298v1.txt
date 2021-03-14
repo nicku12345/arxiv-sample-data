@@ -1,0 +1,1 @@
+We recast Euclid's proof of the infinitude of prime numbers as a Euclidean Criterion for a domain to have infinitely many atoms. We make connections with Furstenberg's "topological" proof of the infinitude of prime numbers and show that our criterion applies even in certain domains in which not all nonzero nonunits factor into products of irreducibles.

@@ -1,0 +1,1 @@
+We prove that the chain operad of small squares is formal. This fact clarifies situation with the proof of M. Kontsevich formality theorem in the paper of the author math.QA/9803025, revised Sept 24. The formality of the operad follows quite easily from the existence of an associator.

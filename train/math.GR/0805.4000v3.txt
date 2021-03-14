@@ -1,0 +1,1 @@
+We show that if G is any p-group of class at most two and exponent p, then there exist groups G_1 and G_2 of class two and exponent p that contain G, neither of which can be expressed as a central product, and with G_1 capable and G_2 not capable. We provide upper bounds for {\rm rank}(G_i^{\rm ab}) in terms of {\rm rank}(G^{\rm ab}) in each case.

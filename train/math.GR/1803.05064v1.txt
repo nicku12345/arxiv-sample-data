@@ -1,0 +1,1 @@
+We offer in this note a self-contained proof of the fact that a finitely generated group is not virtually nilpotent if and only if it has a quotient with the infinite conjugacy class (ICC) propoerty. This proof is a modern presentation of the original proof, by McLain (1956) and Duguid and McLain (1956).

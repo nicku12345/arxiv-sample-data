@@ -1,0 +1,1 @@
+Let A be a sheaf of Azumaya algebras over a Noetherian base S. In this paper we describe using generalized Severi-Brauer varieties, a quasi-projective moduli space parametrizing sheaves of \`etale subalgebras of A.   In the case that S is the spectrum of a field, we study the geometry of this moduli space, and show that in certain cases it is a rational variety.

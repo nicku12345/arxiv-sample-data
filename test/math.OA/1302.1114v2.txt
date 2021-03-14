@@ -1,0 +1,1 @@
+Building on results of Haagerup and Schultz, we decompose an arbitrary operator in a diffuse, finite von Neumann algebra into the sum of a normal operator and an s.o.t.-quasinilpotent operator. We also prove an analogue of Weyl's inequality relating eigenvalues and singular values for operators in a diffuse, finite von Neumann algebra.

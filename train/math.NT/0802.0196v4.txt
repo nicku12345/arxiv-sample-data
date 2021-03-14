@@ -1,0 +1,1 @@
+We exhibit an algorithm to compute a Dirichlet domain for a cofinite Fuchsian group Gamma. As a consequence, we compute the invariants of Gamma, including an explicit finite presentation for Gamma.

@@ -1,0 +1,1 @@
+We generalize the Khovanov-Rozansky cohomology for n=2 by means of a homogeneous potential that depends on two parameters, to obtain the universal Khovanov-Rozansky sl(2) link cohomology. This theory is equivalent to the universal foam sl(2) link cohomology, after tensoring both theories with appropriate rings.

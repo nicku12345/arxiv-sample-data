@@ -1,0 +1,1 @@
+We prove rigorously that the one-particle density matrix of three dimensional interacting Bose systems with a short-scale repulsive pair interaction converges to the solution of the cubic non-linear Schr\"odinger equation in a suitable scaling limit. The result is extended to k-particle density matrices for all positive integer k.

@@ -1,0 +1,1 @@
+We prove Soergel's conjecture on the characters of indecomposable Soergel bimodules. We deduce that Kazhdan-Lusztig polynomials have positive coefficients for arbitrary Coxeter systems. Using results of Soergel one may deduce an algebraic proof of the Kazhdan-Lusztig conjecture.

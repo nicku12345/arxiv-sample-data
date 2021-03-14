@@ -1,0 +1,1 @@
+We prove -\Delta +V has purely discrete spectrum if V\geq 0 and, for all M, |\{x\mid V(x)<M\}|<\infty and various extensions.

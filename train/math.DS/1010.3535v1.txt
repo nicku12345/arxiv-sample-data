@@ -1,0 +1,1 @@
+We prove that every self-homeomorphism h : K_s \to K_s on the inverse limit space K_s of tent map T_s with slope s \in (\sqrt 2, 2] is isotopic to a power of the shift-homeomorphism \sigma^R : K_s \to K_s.

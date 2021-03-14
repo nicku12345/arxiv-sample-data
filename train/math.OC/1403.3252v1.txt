@@ -1,0 +1,1 @@
+We prove a necessary condition for a dynamic integro-differential equation to be an Euler-Lagrange equation. New and interesting results for the discrete and quantum calculus are obtained as particular cases. An example of a second order dynamic equation, which is not an Euler-Lagrange equation on an arbitrary time scale, is given.

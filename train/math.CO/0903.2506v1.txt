@@ -1,0 +1,1 @@
+We show that if the cardinality of a subset of the (2k-1)-dimensional vector space over a finite field with q elements is \gg q^{2k-1-\frac{1}{2k}}, then it contains a positive proportional of all k-simplexes up to congruence.

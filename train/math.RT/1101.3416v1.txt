@@ -1,0 +1,1 @@
+For each natural number n greater than 1, we define an algebra satisfying many properties that one might expect to hold for a Brauer algebra of type Cn. The monomials of this algebra correspond to scalar multiples of symmetric Brauer diagrams on 2n strands. The algebra is shown to be free of rank the number of such diagrams and cellular, in the sense of Graham and Lehrer.

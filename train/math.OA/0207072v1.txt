@@ -1,0 +1,1 @@
+We examine the structure of central twisted transformation group \cs-algebras C_{0}(X)\rtimes_{\id,u}G, and apply our results to the group \cs-algebras of central group extensions. Our methods require that we study Moore's cohomology group H^{2}\bigl(G,C(X,\T)\bigr), and, in particular, we prove an inflation result for pointwise trivial cocyles which may be of use elsewhere.

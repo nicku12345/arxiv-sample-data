@@ -1,0 +1,1 @@
+Let G be an algebraic group corresponding to a compact Lie group. We study the restiction map from the Chow ring CH(BG) to the Wely group invariants CH(BT)^W. For example, we note that if G is simply connect and H(G) has torsion, then the restriction map is always not surjective.

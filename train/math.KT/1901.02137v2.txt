@@ -1,0 +1,1 @@
+Let R be a left-Gorenstein ring. We show that there is a Quillen equivalence between singular contraderived model category and singular coderived model category. Consequently, an equivalence between the homotopy category of exact complexes of projective modules and the homotopy category of exact complexes of injective modules is given.

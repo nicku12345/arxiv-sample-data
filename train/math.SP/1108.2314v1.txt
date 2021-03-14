@@ -1,0 +1,1 @@
+We show that the KdV flow evolves any real singular initial profile q of the form q=r'+r^2, where r\inL_{loc}^2, r|_{R_+}=0 into a meromorphic function with no real poles.

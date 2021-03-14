@@ -1,0 +1,1 @@
+Let \phi be an isometric automorphism of the non-commutative disc algebra \fA_n for n \geq 2. We show that every contractive covariant representation of (\fA_n, \phi) dilates to a unitary covariant representation of (\O_n, \phi). Hence the C*-envelope of the semicrossed product \fA_n \times_{\phi} \bZ^+ is \O_n \times_{\phi} \bZ.

@@ -1,0 +1,1 @@
+We establish the asymptotic regularity and the \Delta-convergence of the sequence constructed by the alternating projections to closed convex sets in a CAT(\kappa) space with \kappa > 0. Furthermore, the strong convergence of the alternating von Neumann sequence is presented under certain regularity or compactness.

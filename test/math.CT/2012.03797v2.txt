@@ -1,0 +1,1 @@
+We introduce a string diagram calculus for strict 4-categories and use it to prove that given a cofinite inclusion of 4-categorical presentations, the induced restriction functor on mapping spaces to a fixed target strict 4-category is a fibration of strict 4-groupoids.

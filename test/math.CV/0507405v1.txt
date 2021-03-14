@@ -1,0 +1,1 @@
+A polynomial map F=(P,Q)\in \Z [x,y]^2 with Jacobian JF:=P_xQ_y-P_yQ_x\equiv 1 has a polynomial inverse of integer coefficients if the complex plane curve P=0 has infinitely many integer points.

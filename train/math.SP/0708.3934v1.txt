@@ -1,0 +1,1 @@
+I derive sharp semiclassical asymptotics of \int |e_h(x,y,0)|^2\omega(x,y) dx dy where e_h(x,y,\tau) is the Schwartz kernel of the spectral projector and \omega(x,y) is singular as x=y. I also consider asymptotics of more general expressions.

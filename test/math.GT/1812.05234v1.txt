@@ -1,0 +1,1 @@
+A weak chord index Ind' is constructed for self crossing points of virtual links. Then a new writhe polynomial W of virtual links is defined by using Ind'. W is a generalization of writhe polynomial defined in [6]. Based on W, three invariants of virtual links are constructed. These invariants can be used to detect the non-trivialities of Kishino knot and flat Kishino knot.

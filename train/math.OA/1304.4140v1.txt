@@ -1,0 +1,1 @@
+We show that a regular locally compact quantum group \mathbb{G} is discrete if and only if L^\infty(\mathbb{G}) contains non-zero compact operators on L^2(\mathbb{G}). As a corollary we classify all discrete quantum groups among regular locally compact quantum groups \mathbb{G} where L^1(\mathbb{G}) has the Radon--Nikodym property.

@@ -1,0 +1,1 @@
+We use the theory of twisted resolutions and twisted complexes to give a proof of Kontsevich's claim that Yoneda product corresponds to cup product in a canonical isomorphism from the Ext groups of the product space with coefficients in the diagonal sheaf to the cohomology with coefficients in exterior powers of the tangent sheaf.

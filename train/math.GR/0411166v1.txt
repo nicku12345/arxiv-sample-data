@@ -1,0 +1,1 @@
+We give a language of unique geodesic normal forms for the Baumslag-Solitar group BS(1,2) that is context-free and 1-counter. We discuss the classes of context-free, 1-counter and counter languages, and explain how they are inter-related.

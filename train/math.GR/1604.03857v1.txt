@@ -1,0 +1,1 @@
+We show that for every finitely presented pro-p nilpotent-by-abelian-by-finite group G there is an upper bound on \dim_{\mathbb{Q}_p} (H_1(M, \mathbb{Z}_p) \otimes_{\mathbb{Z}_p} \mathbb{Q}_p ), as M runs through all pro-p subgroups of finite index in G.

@@ -1,0 +1,1 @@
+This paper proves that there exists a bijection f from a finite group G of order n onto a cyclic group of order n such that for each element x\in G the order of x divides the order of f(x).

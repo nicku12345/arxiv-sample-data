@@ -1,0 +1,1 @@
+This paper studies the Hilbert scheme of a curve on a complete-intersection K-trivial threefold, in the case in which the curve is unobstructed in the ambient variety in which the threefold lives. The basic result is that the obstruction theory of the curve is completely determined by the scheme-theoretic Abel-Jacobi mapping. Several applications of this fact are given.

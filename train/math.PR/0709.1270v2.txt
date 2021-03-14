@@ -1,0 +1,1 @@
+The divergence of a stationary random vector field at a given point is usually a centered (that is, zero mean) random variable. Strangely enough, it can be equal to 1 almost surely. This fact is another form of a phenomenon disclosed by B. Weiss in 1997.

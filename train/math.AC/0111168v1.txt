@@ -1,0 +1,1 @@
+We exhibit an example of a line bundle M on a smooth complex projective variety Y s.t. M satisfy Property N_p for some p, the p-module of a minimal resolution of the ideal of the embedding of Y by M is nonzero and M^2 does not satisfy Property N_p.

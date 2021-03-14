@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian local ring with residue class field k. In this paper, we mainly investigate direct summands of the syzygy modules of k. We prove that R is regular if and only if some syzygy module of k has a semidualizing summand. After that, we consider whether R is Gorenstein if and only if some syzygy module of k has a G-projective summand.

@@ -1,0 +1,1 @@
+A new basis for the polynomial ring of infinitely many variables is constructed which consists of products of Schur functions and Q-functions. The transition matrix from the natural Schur function basis is investigated.

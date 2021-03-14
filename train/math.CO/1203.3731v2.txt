@@ -1,0 +1,1 @@
+For any integer r \geq 1, the sequence of numbers \{{c^{(r)}_{k}}\}_{k \geq 0}  is defined implicitly by [\sum_k\binom{n}{k}^r\binom{n+k}{k}^r = \sum_k\binom{n}{k}\binom{n+k}{k}c^{(r)}_k,\quad n=0,1,2,...] Asmus Schmidt conjectured that all c^{(r)}_k are integers. We give a new proof of this fact.

@@ -1,0 +1,1 @@
+We reduce the Abundance Conjecture in dimension 4 to the following numerical statement: if the canonical divisor K is nef and has maximal nef dimension, then K is big. From this point of view, we ``classify'' in dimension 2 nef divisors which have maximal nef dimension, but which are not big.

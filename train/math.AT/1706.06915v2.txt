@@ -1,0 +1,1 @@
+Using the category of finite sets and injections, we construct a new model for the multilinearization of multifunctors between spaces that appears in the derivatives of Goodwillie calculus. We show that this model yields a lax monoidal functor from the category of symmetric functor sequences to the category of symmetric sequences of spaces after evaluating at the unit.

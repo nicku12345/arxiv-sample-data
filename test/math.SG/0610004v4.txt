@@ -1,0 +1,1 @@
+Given a smooth projective toric variety X, we construct an A-infinity category of Lagrangians with boundary on a level set of the Landau-Ginzburg mirror of X. We prove that this category is quasi-equivalent to the DG category of line bundles on X. This establishes part of the Homological Mirror Conjecture for toric varieties.

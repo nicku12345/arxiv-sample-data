@@ -1,0 +1,1 @@
+Static Klein-Gordon-Maxwell-Proca systems are massive versions of the electrostatic Klein-Gordon-Maxwell Systems. The vector field in these systems inherits a mass and is governed by the Proca action which generalizes that of Maxwell. Following previous work by Druet & al. we prove existence and uniform bounds for such systems in the double critical case of dimension 4.

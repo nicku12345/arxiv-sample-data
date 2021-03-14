@@ -1,0 +1,1 @@
+A well-known theorem of Kaplansky states that any projective module is a direct sum of countably generated modules. In this paper, we prove the w-version of this theorem, where w is a hereditary torsion theory for modules over a commutative ring.

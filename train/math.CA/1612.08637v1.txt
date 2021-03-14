@@ -1,0 +1,1 @@
+We study upper and lower estimates as well as the asymptotic behavior of the sharp constant C=C_n(U,V) in the doubling-type condition at the origin \[ \frac{1}{|V|}\int_{V}f(x)\,dx\le C\,\frac{1}{|U|}\int_{U}f(x)\,dx, \] where U,V\subset \mathbb{R}^{n} are 0-symmetric convex bodies and f is a non-negative positive definite function.

@@ -1,0 +1,1 @@
+In this paper, we first give the analytical solution of the general lag-lead compensator design problem. Then, we show why a series of more than 5 phase-lead/phase-lag compensator cannot be solved analytically using the Galois Theory.

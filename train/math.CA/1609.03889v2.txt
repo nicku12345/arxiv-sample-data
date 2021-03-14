@@ -1,0 +1,1 @@
+We provide an example of a pair of weights (u,v) for which the Hardy-Littlewood maximal function is bounded from L^p(v) to L^p(u) and from L^{p'}(u^{1-p'}) to L^{p'}(v^{1-p'}) while a dyadic sparse operator is not bounded on the same domain and range. Our construction also provides an example of a single weight for which the weak-type endpoint does not hold for sparse operators.

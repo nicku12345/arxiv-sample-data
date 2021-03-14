@@ -1,0 +1,1 @@
+We prove a Feynman-Kac formula for Schrodinger operators with potentials V(x) that obey (for all \epsilon > 0): V(x) \geq - \epsilon |x|^2 - C_\epsilon. Even though e^{-tH} is an unbounded operator, any \phi, \psi \in L^2 with compact support lie in D(e^{-tH}) and <\phi, e^{-tH}\psi> is given by a Feynman-Kac formula.

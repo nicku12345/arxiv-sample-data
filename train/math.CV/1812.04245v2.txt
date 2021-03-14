@@ -1,0 +1,1 @@
+In this work we describe a construction that leads to an explicit solution of the problem of differentiation of hyperelliptic functions. A classical genus g=1 example of such a solution is a result of F.G.Frobenius and L.Stickelberger.   Our method follows the works that led to constructions of explicit solutions of the problem for genus g=2 and g=3.

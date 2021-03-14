@@ -1,0 +1,1 @@
+In this paper we show that via the configuration space integral construction a non-trivalent graph cocycle can also yield a non-zero cohomology class of the space of higher (and even) codimensional long knots. This simultaneously proves that the Browder operation induced by the operad action defined by R. Budney is not trivial.

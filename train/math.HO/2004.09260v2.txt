@@ -1,0 +1,1 @@
+Balancing square and rectangular tables by rotation has been a interesting way to illustrate the intermediate value theorem. The aim of this note is to show that the balancing act but with non-rectangular tables can be a nice application of the ergodic theorem (or more generally, invariant measures).

@@ -1,0 +1,1 @@
+Fractional control systems with the Caputo derivative are considered. The modified controllability Gramian and the minimum energy optimal control problem are investigated. Construction of minimizing steering controls for the modified energy functional are proposed.

@@ -1,0 +1,1 @@
+We show that if E is a p-local Landweber exact homology theory of height n and p > n^2+n+1, then there exists an equivalence h \mathcal{S}p_{E} \simeq h\mathcal{D}(E_{*}E) between homotopy categories of E-local spectra and differential E_{*}E-comodules, generalizing Bousfield's and Franke's results to heights n > 1.

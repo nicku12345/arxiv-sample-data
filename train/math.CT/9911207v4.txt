@@ -1,0 +1,1 @@
+Under some assumptions we prove that the Deligne tensor product of categories of constructible perverse sheaves on pseudomanifolds X and Y is the category of constructible perverse sheaves on X\times Y. The Deligne external tensor product functor is identified with the geometrical external tensor product.

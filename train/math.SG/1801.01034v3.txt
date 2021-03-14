@@ -1,0 +1,1 @@
+We give explicit formulas and algorithms for the computation of the rotation number of a nullhomologous Legendrian knot on a page of a contact open book. On the way, we derive new formulas for the computation of the Thurston-Bennequin invariant of such knots and the Euler class and the d3-invariant of the underlying contact structure.

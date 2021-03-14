@@ -1,0 +1,1 @@
+We prove that Ringel duality in the category of strict polynomial functors can be interpreted as derived functors of non-additive functors (in the sense of Dold and Puppe). We give applications of this fact for both theories.

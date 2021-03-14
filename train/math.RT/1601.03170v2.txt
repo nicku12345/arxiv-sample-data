@@ -1,0 +1,1 @@
+For any given finite abelian group, we give factorizations of the group determinant in the group algebra of any subgroup. The factorizations are an extension of Dedekind's theorem. The extension leads to a generalization of Dedekind's theorem and a simple expression for inverse elements in the group algebra.

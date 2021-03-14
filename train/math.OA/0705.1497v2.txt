@@ -1,0 +1,1 @@
+Suppose A is a separable unital C(X)-algebra each fibre of which is isomorphic to the same strongly self-absorbing and K_{1}-injective C^{*}-algebra D. We show that A and C(X) \otimes D are isomorphic as C(X)-algebras provided the compact Hausdorff space X is finite-dimensional. This statement is known not to extend to the infinite-dimensional case.

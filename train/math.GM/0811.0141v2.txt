@@ -1,0 +1,1 @@
+This paper deals with reduction of non-homogeneous linear systems of first order operator equations with constant coefficients. An equivalent reduced system, consisting of higher order linear operator equations having only one variable and first order linear operator equations in two variables, is obtained by using the rational canonical form.

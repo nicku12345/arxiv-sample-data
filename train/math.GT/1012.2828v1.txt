@@ -1,0 +1,1 @@
+Let M be a closed hyperbolic 3-manifold. We show that the number of genus g surface subgroups of the fundamental group of M grows like g^{2g}.

@@ -1,0 +1,1 @@
+Motivated by a problem in approximation theory, we find a necessary and sufficient condition for a model (backward shift invariant) subspace K_\varTheta = H^2\ominus \varTheta H^2 of the Hardy space H^2 to contain a bounded univalent function.

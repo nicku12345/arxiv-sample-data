@@ -1,0 +1,1 @@
+We construct an infinite-dimensional symplectic 2-groupoid as the integration of an exact Courant algebroid. We show that every integrable Dirac structure integrates to a "Lagrangian" sub-2-groupoid of this symplectic 2-groupoid. As a corollary, we recover a result of Bursztyn-Crainic-Weinstein-Zhu that every integrable Dirac structure integrates to a presymplectic groupoid.

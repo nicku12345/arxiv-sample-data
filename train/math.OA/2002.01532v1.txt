@@ -1,0 +1,1 @@
+We show that if C_u^*(X) is a uniform Roe algebra associated to a bounded geometry metric space X, then all bounded derivations on C^*_u(X) are inner.

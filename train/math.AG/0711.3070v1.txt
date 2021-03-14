@@ -1,0 +1,1 @@
+We calculate the fundamental groups \pi=\pi_1(P^2\setminus B) for all irreducible plane sextics B\subset\P^2 with simple singularities for which \pi is known to admit a dihedral quotient D_{10}. All groups found are shown to be finite, two of them being of large order: 960 and 21600.

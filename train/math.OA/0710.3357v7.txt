@@ -1,0 +1,1 @@
+For a generic set in the Teichmueller space, we construct a covariant functor with the range in a category of the AF-algebras; the functor maps isomorphic Riemann surfaces to the stably isomorphic AF-algebras. As a special case, one gets a categorical correspondence between complex tori and the so-called Effros-Shen algebras.

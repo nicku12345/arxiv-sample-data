@@ -1,0 +1,1 @@
+The goal of the work is to take on and study one of the fundamental tasks studying Bidiophantine polygons (let us call a polygon Diophantine, if the distance between each two vertex of those is expressed by a natural number and we say that a Diophantine polygon is Bidiophantine if the coordinates of its each vertex are integer numbers).

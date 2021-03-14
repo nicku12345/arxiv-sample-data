@@ -1,0 +1,1 @@
+Let q be a prime power and N_n count degree-n monic irreducible polynomials in F_q[x]. We show that prod_{n=1}^{\infty} (1 -z^n)^N_n = 1 - qz for small |z|.

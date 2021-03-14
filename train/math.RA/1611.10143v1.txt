@@ -1,0 +1,1 @@
+In this paper, first we define Horadam octonions by Horadam sequence which is a generalization of second order recurrence relations. Also, we give some fundamental properties involving the elements of that sequence. Then, we obtain their Binet-like formula, ordinary generating function and Cassini identity.

@@ -1,0 +1,1 @@
+For the relativistic Boltzmann equation in \R^3_x, this work proves the global existence, uniqueness, positivity, and optimal time convergence rates to the relativistic Maxwellian for solutions which start out sufficiently close under the general physical soft potential assumption proposed in 1988 by Dudy{\'n}ski and Ekiel-Je{\.z}ewska.

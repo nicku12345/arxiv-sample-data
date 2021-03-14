@@ -1,0 +1,1 @@
+Quantum analogues of the homogeneous spaces \GL(n)/\SO(n) and \GL(2n)/\Sp(2n) are introduced. The zonal spherical functions on these quantum homogeneous spaces are represented by Macdonald's symmetric polynomials P_{\ld}=P_{\ld}(x_1,\cdots,x_n;q,t) with t=q^{1 \over 2} or t=q^2.

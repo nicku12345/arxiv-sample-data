@@ -1,0 +1,1 @@
+In this work, approximations for real two variables function f which has continuous partial (n-1)-derivatives (n \ge 1) and has the n--th partial derivative of bounded bivariation or absolutely continuous are established. Explicit bounds for this representation are given. An approximation of a function f by its mid-point formula with its error is established.

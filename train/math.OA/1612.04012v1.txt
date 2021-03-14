@@ -1,0 +1,1 @@
+We discuss the Fubini formula in Alain Connes' noncommutative geometry. We present a sufficient condition on spectral triples for which a Fubini formula holds true. The condition is natural and related to heat semigroup asymptotics. We provide examples of spectral triples for which the Fubini formula fails.

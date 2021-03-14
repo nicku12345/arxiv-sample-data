@@ -1,0 +1,1 @@
+We compute the generic initial ideal of a complete intersection of embedding dimension three with strong Lefschetz property and we show that it is an almost reverse lexicographic ideal. This enable us to give a proof for Moreno's conjecture in the case n=3.

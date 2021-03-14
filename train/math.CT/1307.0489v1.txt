@@ -1,0 +1,1 @@
+This note is about using computational effects for scalability. With this method, the specification gets more and more complex while its semantics gets more and more correct. We show, from two fundamental examples, that it is possible to design a deduction system for a specification involving an effect without expliciting this effect.

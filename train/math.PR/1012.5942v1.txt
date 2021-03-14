@@ -1,0 +1,1 @@
+Various characterizations for fractional Levy process to be of finite variation are obtained, one of which is in terms of the characteristic triplet of the driving Levy process, while others are in terms of differentiability properties of the sample paths. A zero-one law and a formula for the expected total variation is also given.

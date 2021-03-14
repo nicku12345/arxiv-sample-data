@@ -1,0 +1,1 @@
+We provide a maximum entropy derivation of a new family of BFGS-like methods. Similar results are then derived for block BFGS methods. This also yields an independent proof of a result of Fletcher 1991 and its generalisation to the block case.

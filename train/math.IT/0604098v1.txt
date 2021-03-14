@@ -1,0 +1,1 @@
+In this paper, we investigate achievable rates on the multiple access channel with feedback and correlated sources (MACFCS). The motivation for studying the MACFCS stems from the fact that in a sensor network, sensors collect and transmit correlated data to a common sink. We derive two achievable rate regions for the three-node MACFCS.

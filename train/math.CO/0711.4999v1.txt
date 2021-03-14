@@ -1,0 +1,1 @@
+We show that, for n large, there must exist at least \[\frac{n^t}{C^{(1+o(1))t^2}}\] monochromatic K_ts in any two-colouring of the edges of K_n, where C \approx 2.18 is an explicitly defined constant. The old lower bound, due to Erd\H{o}s \cite{E62}, and based upon the standard bounds for Ramsey's theorem, is \[\frac{n^t}{4^{(1+o(1))t^2}}.\]

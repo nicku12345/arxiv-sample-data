@@ -1,0 +1,1 @@
+We prove the regularity of weak 1/2-harmonic maps from the real line into a sphere. The key point in our result is first a formulation of the 1/2-harmonic map equation in the form of a non-local linear Schr\"odinger type equation with a 3-terms commutators in the right-hand-side . We then establish a sharp estimate for these 3-commutators.

@@ -1,0 +1,1 @@
+For a finite field k and a triple of integers g \ge r \ge s \ge 0, we count the number of semilinear endomorphisms of a g-dimensional k-vector space which have rank r and stable rank s. Such endomorphisms show up naturally in the classification of finite flat group schemes of p-power order over k which are killed by p and have p-rank s, via Dieudonne theory.

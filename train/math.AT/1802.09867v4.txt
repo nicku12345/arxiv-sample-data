@@ -1,0 +1,1 @@
+This paper defines an invariant associated to Whitehead's certain exact sequence of a simply connected CW-complex which is much more elementary - and less powerful - than the boundary invariant of Baues. Nevertheless, in good cases, it classifies the homotopy types of CW-complexes.

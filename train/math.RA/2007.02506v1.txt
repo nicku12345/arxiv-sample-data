@@ -1,0 +1,1 @@
+In this article, we study Dorroh extensions of algebras and Dorroh extensions of coalgebras. Their structures are described. Some properties of these extensions are presented. We also introduce the finite duals of algebras and modules which are not necessarily unital. Using these finite duals, we determine the dual relations between the two kinds of extensions.

@@ -1,0 +1,1 @@
+We generalize Berger and Moerdijk's results on axiomatic homotopy theory for operads to the setting of enriched symmetric monoidal model categories, and show how this theory applies to orthogonal spectra. In particular, we provide a symmetric fibrant replacement functor for the positive stable model structure.

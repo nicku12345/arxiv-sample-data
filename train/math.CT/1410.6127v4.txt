@@ -1,0 +1,1 @@
+Let \mathcal{C} be a finitely bicomplete category and \mathcal{W} a subcategory. We prove that the existence of a model structure on \mathcal{C} with \mathcal{W} as subcategory of weak equivalence is not first order expressible. Along the way we characterize all model structures where \mathcal{C} is a partial order and show that these are determined by the homotopy categories.

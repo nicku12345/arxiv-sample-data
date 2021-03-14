@@ -1,0 +1,1 @@
+Suppose that \Phi:X\to Y is a morphism from a 3 fold to a surface (over an algebraically closed field of characteristic zero). We prove that there exist sequences of blowups of nonsingular subvarieties X_1\to X and Y_1\to Y such that the morphism \Phi_1:X_1\to Y_1 is a ``Monomial Morphism''. As a corollary, we show that we can make \Phi_1 a toroidal morphism.

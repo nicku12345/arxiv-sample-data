@@ -1,0 +1,1 @@
+We present an algorithm for computing the 2-group of the positive divisor classes of a number field F in case F has exceptional dyadic places. As an application, we compute the 2-rank of the wild kernel WK2(F) in K2(F) for such number fields.

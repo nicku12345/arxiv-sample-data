@@ -1,0 +1,1 @@
+We investigate the bounded cohomology of Lefschetz fibrations. If a Lefschetz fibration has regular fiber of genus at least 2 and it has at least two distinct vanishing cycles, we show that its Euler class is not bounded. As a consequence, we exclude the existence of negatively curved metrics on Lefschetz fibrations with more than one singular fiber.

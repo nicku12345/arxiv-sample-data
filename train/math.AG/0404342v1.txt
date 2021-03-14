@@ -1,0 +1,1 @@
+We provide some statistics about an irreducibility/reducibility test for multivariate polynomials over finite fields based on counting points. The test works best for polynomials in a large number of variables and can also be applied to black box polynomials.

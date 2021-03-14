@@ -1,0 +1,1 @@
+In this work we investigate the spectral statistics of random Schr\"{o}dinger operators H^\omega=-\Delta+\sum_{n\in\mathbb{Z}^d}(1+|n|^\alpha)q_n(\omega)|\delta_n\rangle\langle\delta_n|, \alpha>0 acting on \ell^2(\mathbb{Z}^d) where \{q_n\}_{n\in\mathbb{Z}^d} are i.i.d random variables distributed uniformly on [0,1].

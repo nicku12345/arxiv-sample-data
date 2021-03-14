@@ -1,0 +1,1 @@
+Let X be a smooth complex projective curve with a non trivial group of automorphisms G. Let J denote the Jacobian variety of X. Given h\in G, our goal is to compute the trace of h on H^0(J,O(n\Theta)) in order to decompose this space into a sum of the irreducible representations of G.

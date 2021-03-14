@@ -1,0 +1,1 @@
+According to [3], a real surgery of a real del Pezzo surface X_\mathbb{R} along a real sphere S is a modification of the real structure on X_\mathbb{R} in a neighborhood of S. In this paper, we study the behavior of higher genus Welschinger invariants under real surgeries, and obtain a genus decreasing formula of Welschinger invariants.

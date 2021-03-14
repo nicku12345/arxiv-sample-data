@@ -1,0 +1,1 @@
+The Loomis-Whitney inequality states that the volume of a convex body is bounded by the product of volumes of its projections onto orthogonal hyperplanes. We provide an extension of both this fact and a generalization of this fact due to Ball to the context of q-concave, \frac{1}{q}-homogeneous measures.

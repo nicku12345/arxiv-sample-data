@@ -1,0 +1,1 @@
+This paper proposes a new class of multi-dimensional nonsystematic Reed-Solomon codes that are constructed based on the multi-dimensional Fourier transform over a finite field. The proposed codes are the extension of the nonsystematic Reed-Solomon codes to multi-dimension. This paper also discusses the performance of the multi-dimensional nonsystematic Reed-Solomon codes.

@@ -1,0 +1,1 @@
+We construct a metrizable Lawson semitopological semilattice X whose partial order \le_X=\{(x,y)\in X\times X:xy=x\} is not closed in X\times X. This resolves a problem posed earlier by the authors.

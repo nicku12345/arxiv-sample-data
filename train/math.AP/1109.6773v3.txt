@@ -1,0 +1,1 @@
+We study positive bound states for the equation - \epsilon^2 \Delta u + Vu = u^p, \qquad \text{in \mathbf{R}^N},  where \epsilon > 0 is a real parameter, \frac{N}{N-2} < p < \frac{N+2}{N-2} and V is a nonnegative potential. Using purely variational techniques, we find solutions which concentrate at local maxima of the potential V without any restriction on the potential.

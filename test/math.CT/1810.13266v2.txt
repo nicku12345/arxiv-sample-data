@@ -1,0 +1,1 @@
+Following Nori's original idea we here provide certain motivic categories with a canonical tensor structure. These motivic categories are associated to a cohomological functor on a suitable base category and the tensor structure is induced by the cartesian tensor structure on the base category via a cohomological K\"unneth formula.

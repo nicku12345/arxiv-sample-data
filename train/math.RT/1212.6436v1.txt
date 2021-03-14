@@ -1,0 +1,1 @@
+Let V be a GL_n(\mathbb{R})-distinguished, irreducible, admissible representation of GL_n(\mathbb{C}). We prove that any continuous linear functional on V, which is invariant under the action of the real mirabolic subgroup, is automatically GL_n(\mathbb{R})-invariant.

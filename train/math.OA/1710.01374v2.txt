@@ -1,0 +1,1 @@
+We construct pairs of algebras with mixed independence relations by using truncations of reduced free products of algebras. For example, we construct free-Boolean pairs of algebras and free-monotone pairs of algebras. We also introduce free-Boolean cumulants and show that free-Boolean independence is equivalent to the vanishing of mixed cumulants.

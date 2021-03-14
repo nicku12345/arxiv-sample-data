@@ -1,0 +1,1 @@
+We analyze random walk in the upper half of a three dimensional lattice which goes down whenever it encounters a new vertex, a.k.a. excited random walk. We show that it is recurrent with an expected number of returns of square-root log n.

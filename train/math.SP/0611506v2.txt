@@ -1,0 +1,1 @@
+If u\mapsto A(u) is a C^{0,\alpha}-mapping, for 0< \alpha \le 1, having as values unbounded self-adjoint operators with compact resolvents and common domain of definition, parametrized by u in an (even infinite dimensional) space, then any continuous (in u) arrangement of the eigenvalues of A(u) is indeed C^{0,\alpha} in u.

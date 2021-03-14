@@ -1,0 +1,1 @@
+In this article we study complex properties of minimal Lagrangian submanifolds in Kaehler ambient spaces, and how they depend on the ambient curvature. In particular, we prove that, in the negative curvature case, minimal Lagrangians do not admit fillings by holomorphic discs. The proof relies on a mix of holomorphic curve techniques and on certain convexity results.

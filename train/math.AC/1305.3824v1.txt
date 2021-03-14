@@ -1,0 +1,1 @@
+We investigate the transfer of w-stability and Clifford w-regularity from a domain D to the polynomial ring D[X]. We show that these two properties pass from D to D[X] when D is either integrally closed or it is Mori and w-divisorial.

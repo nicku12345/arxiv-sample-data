@@ -1,0 +1,1 @@
+A graph G on omega_1 is called <omega-smooth if for each uncountable subset W of omega_1, G is isomorphic to G[W-W'] for some finite W'. We show that in various models of ZFC if a graph G is <omega-smooth then G is necessarily trivial, i.e, either complete or empty. On the other hand, we prove that the existence of a non-trivial, <omega-smooth graph is also consistent with ZFC.

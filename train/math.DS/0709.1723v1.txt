@@ -1,0 +1,1 @@
+We prove that a class of one-dimensional maps with an arbitrary number of non-degenerate critical and singular points admits an induced Markov tower with exponential return time asymptotics. In particular the map has an absolutely continuous invariant probability measure with exponential decay of correlations for H\"{o}lder observations.

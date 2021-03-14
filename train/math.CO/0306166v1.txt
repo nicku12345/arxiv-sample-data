@@ -1,0 +1,1 @@
+We show that additive induced-hereditary properties of coloured hypergraphs can be uniquely factorised into irreducible factors. Our constructions and proofs are so general that they can be used for arbitrary concrete categories of combinatorial objects; we provide some examples of such combinatorial objects.

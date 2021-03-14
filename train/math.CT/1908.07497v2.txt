@@ -1,0 +1,1 @@
+While not obvious from its initial motivation in linear algebra, there are many context where iterated traces can be defined. In this paper we prove a very general theorem about iterated 2-categorical traces. We show that many Lefschetz-type theorems in the literature are consequences of this result and the new perspective we provide allows for immediate spectral generalizations.

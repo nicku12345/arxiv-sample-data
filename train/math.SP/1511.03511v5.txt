@@ -1,0 +1,1 @@
+We consider signed graphs, i.e, graphs with positive or negative signs on their edges. We construct some families of bipartite signed graphs with only two distinct eigenvalues. This leads to constructing infinite families of regular bipartite Ramanujan graphs.

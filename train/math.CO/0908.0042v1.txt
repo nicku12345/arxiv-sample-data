@@ -1,0 +1,1 @@
+Given a matrix with partitions of its rows and columns and entries from a field, we give the necessary and sufficient conditions that it has a non--singular submatrix with certain number of rows from each row partition and certain number of columns from each column partition.

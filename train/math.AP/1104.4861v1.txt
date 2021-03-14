@@ -1,0 +1,1 @@
+A class of finite difference schemes for solving a fractional anti-diffusive equation, recently proposed by Andrew C. Fowler to describe the dynamics of dunes, is considered. Their linear stability is analyzed using the standard Von Neumann analysis: stability criteria are found and checked numerically. Moreover, we investigate the consistency and convergence of these schemes.

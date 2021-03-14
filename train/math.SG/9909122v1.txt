@@ -1,0 +1,1 @@
+We outline the construction of invariants of Hamiltonian group actions on symplectic manifolds. These invariants can be viewed as an equivariant version of Gromov-Witten invariants. They are derived from solutions of a PDE involving the Cauchy-Riemann operator, the curvature of a connection, and the moment map.

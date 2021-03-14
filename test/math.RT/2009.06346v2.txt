@@ -1,0 +1,1 @@
+We introduce stability categories for diagram algebras---analogues to Randal-Williams and Wahl's homogeneous categories. We use these to study representation stability properties of the Temperley--Lieb algebras, the Brauer algebras, and the partition algebras.

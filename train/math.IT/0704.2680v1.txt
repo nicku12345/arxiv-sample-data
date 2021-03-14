@@ -1,0 +1,1 @@
+Motivated by on-chip communication, a channel model is proposed where the variance of the additive noise depends on the weighted sum of the past channel input powers. For this channel, an expression for the capacity per unit cost is derived, and it is shown that the expression holds also in the presence of feedback.

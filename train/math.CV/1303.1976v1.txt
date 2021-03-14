@@ -1,0 +1,1 @@
+We show that for any bounded domain \Omega\subset\Cp ^n of 1-type 2k  which is locally convexifiable at p\in b\Omega, having a Stein neighborhood basis, there is a biholomorphic map f:\bar{\Omega}\rightarrow \Cp ^n  such that f(p) is a global extreme point of type 2k for f{(\bar\Omega)}.

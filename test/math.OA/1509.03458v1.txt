@@ -1,0 +1,1 @@
+In this paper will be considered standard forms of generalized inverses for matrices in the shape of block representations {1, 2, 3, 4, 5, 5^k}-inverse. Especially will be considered Moore-Penrose inverse and the group inverse. Results from Rhode's technique are used and methods for calculating some inverse are shown on examples.

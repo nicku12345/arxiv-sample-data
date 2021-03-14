@@ -1,0 +1,1 @@
+Let K be a finite field. We know that a half of elements of K* is a square. So it is natural to ask how many of them appear as x-coordinate of points on an elliptic curve over K. We consider a specific class of elliptic curves over finite fields and show that a half of x-coordinate on an elliptic curve is a square. This result generalizes my old paper posted 30 Dec 2009.

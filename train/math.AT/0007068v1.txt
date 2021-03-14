@@ -1,0 +1,1 @@
+We show that every combinatorial model category can be obtained, up to Quillen equivalence, by localizing a model category of diagrams of simplicial sets. This says that any combinatorial model category can be built up from a category of `generators' and a set of `relations'---that is, any combinatorial model category has a presentation.

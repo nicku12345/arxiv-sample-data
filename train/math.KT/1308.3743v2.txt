@@ -1,0 +1,1 @@
+We show how one can twist the definition of Hochschild homology of an algebra or a DG algebra by inserting a possibly non-additive trace functor. We then prove that many of the usual properties of Hochschild homology survive such a generalization. In some cases this even includes Keller's Localization Theorem.

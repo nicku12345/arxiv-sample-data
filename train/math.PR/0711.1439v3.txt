@@ -1,0 +1,1 @@
+We consider weak convergence of the rescaled error processes arising from Riemann discretizations of certain stochastic integrals and relate the L_p-integrability of the weak limit to the fractional smoothness in the Malliavin sense of the stochastic integral.

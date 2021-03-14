@@ -1,0 +1,1 @@
+We establish integral tests and laws of the iterated logarithm for the lower envelope of positive self-similar Markov processes at 0 and +\infty. Our proofs are based on the Lamperti representation and time reversal arguments. These results extend laws of the iterated logarithm for Bessel processes due to Dvoretsky and Erd\"{o}s, Motoo and Rivero.

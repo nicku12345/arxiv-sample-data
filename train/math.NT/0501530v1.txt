@@ -1,0 +1,1 @@
+This paper introduces a general technique for estimating the absolute value of pure Gaussian sums of order k over a prime p for a class of composite order k. The new estimate improves the classical estimate by a factor of about 2 or better (depending on k) for all sufficiently large primes p.

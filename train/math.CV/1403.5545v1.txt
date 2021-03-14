@@ -1,0 +1,1 @@
+It is known that if the proximate order \rho(r) such that \lim \rho(r) = \rho > 0 (r \to \infty), then there exists an entire function f(z) of proximate order \rho(r). In the case where \rho = 0 the question about the existence of such entire function remained open until now. This question is investigated in the paper.

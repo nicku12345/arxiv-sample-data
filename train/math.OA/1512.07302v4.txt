@@ -1,0 +1,1 @@
+We generalize a recent construction of Exel and Pardo, from discrete groups acting on finite directed graphs to locally compact groups acting on topological graphs. To each cocycle for such an action, we construct a C^*-correspondence whose associated Cuntz-Pimsner algebra is the analog of the Exel-Pardo C^*-algebra.

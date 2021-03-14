@@ -1,0 +1,1 @@
+Postnikov gave a combinatorial description of the cells in a totally-nonnegative Grassmannian. These cells correspond to a special class of matroids called positroid. We prove his conjecture that a positroid is exactly an intersection of permuted Schubert matroids. This leads to a nice combinatorial description of positroids that is easily computable.

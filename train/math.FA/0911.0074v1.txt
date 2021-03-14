@@ -1,0 +1,1 @@
+We prove that for any operator T on  \ell^\infty(H^1 (\bT)), the identity factores through T or \Id - T.   We re-prove analogous results of H.M. Wark for the spaces \ell^infty(H^p(\bT)), 1<p <\infty. In the present paper direct combinatorics of colored dyadic intervals replaces the dependence on Szemeredi's theorem in the work of H. M. Wark.

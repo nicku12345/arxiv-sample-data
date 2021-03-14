@@ -1,0 +1,1 @@
+Let M be a closed, symplectic connected Riemannian manifold, f a symplectomorphism on M. We prove that if f is C1-stably weakly shadowing on M, then the whole manifold M admits a partially hyperbolic splitting.

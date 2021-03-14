@@ -1,0 +1,1 @@
+We derive a nonlinear integral equation to calculate Root's solution of the Skorokhod embedding problem for atom-free target measures. We then use this to efficiently generate bounded time-space increments of Brownian motion and give a parabolic version of Muller's classic "Random walk over spheres" algorithm.

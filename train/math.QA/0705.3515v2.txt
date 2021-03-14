@@ -1,0 +1,1 @@
+If H is a finite dimensional quasi-Hopf algebra and A is a left H-module algebra, we prove that there is a Morita context connecting the smash product A#H and the subalgebra of invariants A^{H}. We define also Galois extensions and prove the connection with this Morita context, as in the Hopf case.

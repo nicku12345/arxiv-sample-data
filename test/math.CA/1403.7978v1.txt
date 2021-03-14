@@ -1,0 +1,1 @@
+We obtain the asymptotic expansion of the Voigt functions K(x,y) and L(x,y) for large (real) values of the variables x and y, paying particular attention to the exponentially small contributions. A Stokes phenomenon is encountered as y\rightarrow+\infty with x>0 fixed. Numerical examples are presented to demonstrate the accuracy of these new expansions.

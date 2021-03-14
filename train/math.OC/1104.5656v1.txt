@@ -1,0 +1,1 @@
+We study the loss in objective value when an inaccurate objective is optimized instead of the true one, and show that "on average" this loss is very small, for an arbitrary compact feasible region.

@@ -1,0 +1,1 @@
+We study asymptotics of generalized eigenvectors associated with Jacobi matrices. Under weak conditions on the coefficients we identify when the matrices are self-adjoint and show that they satisfy strong non-subordinacy condition.

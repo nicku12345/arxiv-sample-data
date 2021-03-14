@@ -1,0 +1,1 @@
+In this note, we define a recollement of additive categories, and prove that such a recollement can induce a recollement of their quotient categories. As an application, we get a recollement of quotient triangulated categories induced by mutation pairs.

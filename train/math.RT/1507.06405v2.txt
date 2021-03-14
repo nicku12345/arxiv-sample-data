@@ -1,0 +1,1 @@
+We study the category of dg Harish-Chandra modules (over an arbitrary commutative ring) and construct dg analogues of the induction functor, the production functor, the Zuckerman functor and the dual Zuckerman functor.

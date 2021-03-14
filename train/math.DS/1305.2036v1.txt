@@ -1,0 +1,1 @@
+In this paper we investigate four concepts of exponential stability for difference equations in Banach spaces. Characterizations of these concepts are given. They can be considered as variants for the discrete-time case of the classical results due to E.A. Barbashin [2] and R. Datko [5]. An illustrative example clarifies the relations between these concepts.

@@ -1,0 +1,1 @@
+We study finite foldable cubical complexes of nonpositive curvature (in the sense of A.D. Alexandrov). We show that such a complex X admits a graph of spaces decomposition. It is also shown that when dim X=3, X contains a closed rank one geodesic in the 1-skeleton unless the universal cover of X is isometric to the product of two CAT(0) cubical complexes.

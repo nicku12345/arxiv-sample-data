@@ -1,0 +1,1 @@
+The paper exhibits several standing modes of a 5:3 elliptic drum computed using Mathieu functions. To match the boundary conditions, I used Newton's method on the appropriate modified Mathieu equation using the Squire-Trapp formula for computing derivatives. I tabulate the requisite values of the parameter q for these low-frequency modes.

@@ -1,0 +1,1 @@
+Consider a topologically exact C^3 interval map without non-flat critical points. Following the works we did in \cite{LiRiv12two}, we give two equivalent characterizations of hyperbolic H\"{o}lder continuous potential in terms of the Lyapunov exponents and the measure-theoretic entropies of equilibrium states for those potentials.

@@ -1,0 +1,1 @@
+Let u=\int_{-\infty}^{+\infty}\lambda dE_{\lambda} be a self-adjoint operator in a Hilbert space H. Our purpose is to provide a non-standard description of the spectral family (E_{\lambda}) and the generalized Gelfand eigenvectors.

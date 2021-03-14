@@ -1,0 +1,1 @@
+In this paper we show that the irreducible representations of a finite inverse semigroup S over an algebraically closed field F are in bijection with the conjugacy classes of S if the characteristic of F is zero or a prime number that does not divide the order of any maximal subgroup of S.

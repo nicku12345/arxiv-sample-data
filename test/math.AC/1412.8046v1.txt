@@ -1,0 +1,1 @@
+This paper studies the relationship between Serre's condition (\R_n) and Auslander--Buchweitz's maximal Cohen--Macaulay approximations. It is proved that a Gorenstein local ring satisfies (\R_n) if and only if every maximal Cohen--Macaulay module is a direct summand of a maximal Cohen--Macaulay approximation of a (Cohen--Macaulay) module of codimension n+1.

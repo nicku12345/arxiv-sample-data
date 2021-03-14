@@ -1,0 +1,1 @@
+We use Reidemeister torsion to study a twisted Alexander polynomial, as defined by Turaev, for links in the projective space. Using sign-refined torsion we derive a skein relation for a normalized form of this polynomial.

@@ -1,0 +1,1 @@
+In this paper we generalize a theorem due to Lyle, extending its application to the setting of the Ariki-Koike algebra, and in doing so establish an analogue of the kernel intersection theorem. This in turn provides us with a means towards constructing homomorphisms between Specht modules for the Ariki-Koike algebra.

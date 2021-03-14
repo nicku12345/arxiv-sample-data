@@ -1,0 +1,1 @@
+We present numerical results concerning the solution of the time-harmonic Maxwell's equations discretized by discontinuous Galerkin methods. In particular, a numerical study of the convergence, which compares different strategies proposed in the literature for the elliptic Maxwell equations, is performed in the two-dimensional case.

@@ -1,0 +1,1 @@
+We study the spectrum of large a bi-diagonal Toeplitz matrix subject to a Gaussian random perturbation with a small coupling constant. We obtain a precise asymptotic description of the average density of eigenvalues in the interior of the convex hull of the range symbol.

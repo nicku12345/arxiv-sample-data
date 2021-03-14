@@ -1,0 +1,1 @@
+In this note we determine all numbers q\in \mathbf R such that |u|^q is a subharmonic function, provided that u is a K-quasiregular harmonic mappings in an open subset \Omega of the Euclidean space \mathbf R^n.

@@ -1,0 +1,1 @@
+Our goal is to determine when the trivial extensions of commutative rings by modules are Cohen-Macaulay in the sense of Hamilton and Marley. For this purpose, we provide a generalization of the concept of Cohen-Macaulayness of rings to modules.

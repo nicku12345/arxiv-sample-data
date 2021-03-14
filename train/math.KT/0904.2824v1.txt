@@ -1,0 +1,1 @@
+In this note, we prove that the Grothendieck group of a smooth complete toric Deligne-Mumford stack is torsion free. This statement holds when the generic point is stacky. We also construct an example of open toric stack with torsion in K-theory. This is a part of the author's Ph.D thesis.

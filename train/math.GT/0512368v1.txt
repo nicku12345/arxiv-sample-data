@@ -1,0 +1,1 @@
+Let N be a connected nonorientable surface of genus g with n punctures. Suppose that g is odd and g+n \geqslant 6. We prove that the automorphism group of the complex of curves of N is isomorphic to the mapping class group \mathcal M_{N} of N.

@@ -1,0 +1,1 @@
+In this article, we follow closely the approach in Hernandez and Weiss's seminal text in describing the construction of an orthonormal wavelet from a multi-resolution analysis. We assume the reader has a modest background in analysis and measure theory.

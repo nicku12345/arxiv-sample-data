@@ -1,0 +1,1 @@
+We study the homomorphism induced on cohomology by the maximal equicontinuous factor map of a tiling space. We will see that this map is injective in degree one and has torsion free cokernel. We show by example, however, that the cohomology of the maximal equicontinuous factor may not be a direct summand of the tiling cohomology.

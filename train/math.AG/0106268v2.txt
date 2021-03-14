@@ -1,0 +1,1 @@
+We give elementary proofs of the main theorems about (small) quantum cohomology of Grassmannians, including the quantum Giambelli and quantum Pieri formulas, the rim-hook algorithm, Siebert and Tian's presentation, and a recent theorem of Fulton and Woodward about the minimal q-power which appears in a product of two Schubert classes.

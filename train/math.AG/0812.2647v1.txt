@@ -1,0 +1,1 @@
+We give the lower bound on Seshadri constants for the case of very ample line bundles on threefolds. We consider the situation when the Seshadri constant is strictly less than 2 and give a version of Bauer's theorem \cite[Theorem 2.1]{B1} for singular surfaces so we can prove the same result for smooth threefolds.

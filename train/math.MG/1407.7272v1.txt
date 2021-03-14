@@ -1,0 +1,1 @@
+We show that the cone-volume measure of a convex body with centroid at the origin satisfies the subspace concentration condition. This implies, among others, a conjectured best possible inequality for the \mathrm{U}-functional of a convex body. For both results we provide stronger versions in the sense of stability inequalities.

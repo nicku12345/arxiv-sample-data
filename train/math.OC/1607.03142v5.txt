@@ -1,0 +1,1 @@
+In this Doctoral Dissertation we propose new variational principles for traffic assignment problems. So to find equillibrium we have to solve large-scale convex optimization problem of special (multilevel) type. We propose different numerical approaches for this problem.

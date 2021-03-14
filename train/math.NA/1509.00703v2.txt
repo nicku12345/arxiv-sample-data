@@ -1,0 +1,1 @@
+We give an algorithm for approximating a given plane curve segment by a planar elastic curve. The method depends on an analytic representation of the space of elastic curve segments, together with a geometric method for obtaining a good initial guess for the approximating curve. A gradient-driven optimization is then used to find the approximating elastic curve.

@@ -1,0 +1,1 @@
+In this paper we explore some characteristics of the quasi-Fredholm resolvent set \rho_{qf}(T) of an operator T defined on an infinite dimensional Banach space X. Moreover, in the case of Hilbert space H, we study the stability of the SVEP and describe the operators for which the SVEP is preserved under compact perturbations using quasi-Fredholm spectrum and \rho_{qf}(T).

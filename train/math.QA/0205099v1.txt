@@ -1,0 +1,1 @@
+Given an automorphism of a smooth complex algebraic curve, there is an induced action on the moduli space of semi-stable rank 2 holomorphic bundles with fixed determinant. We give a complete description of the fixed variety in terms of moduli spaces of parabolic bundles on the quotient curve.

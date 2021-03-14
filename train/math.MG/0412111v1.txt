@@ -1,0 +1,1 @@
+We prove that any maximal globally hyperbolic spacetime locally modelled on the anti-de Sitter space of dimension 3, and admitting a closed Cauchy surface, admits a time function \tau, such that every fiber \tau^{-1}(t) is a spacelike surface with constant mean curvature t.

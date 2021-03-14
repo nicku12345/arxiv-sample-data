@@ -1,0 +1,1 @@
+We show that for a wide class of functions F that:  {\lim_{\epsilon \downarrow 0} {\frac{1}{\epsilon}} \int_0^t \Big\{F(s, X_s) - F(s, X_s - \epsilon)\Big\} d\big<X,X\big>_s} = - \int_0^t\int_{\R} F(s, x) d L_s^x  where X_t is a continuous semi-martingale, (L_t^x, x \in \R, t \geq 0) its local time process and (\big<X,X\big>_t, t \geq 0) its quadratic variation process.

@@ -1,0 +1,1 @@
+In this paper we investigate a Gaussian average property of Banach spaces. This property is weaker than the Gordon Lewis property but closely related to this and other unconditional structures. It is also shown that this property implies that certain Hilbert space valued operators defined on subspaces of the given space can be extended.

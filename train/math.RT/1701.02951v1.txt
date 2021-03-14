@@ -1,0 +1,1 @@
+We investigate the saturation rank of a finite group scheme, defined over an algebraically closed field \Bk of positive characteristic p. We begin by exploring the saturation rank for finite groups and infinitesimal group schemes. Special attention is given to reductive Lie algebras and the second Frobenius kernel of the algebraic group \SL_{n}.

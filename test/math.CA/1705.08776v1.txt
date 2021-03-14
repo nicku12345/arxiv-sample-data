@@ -1,0 +1,1 @@
+In this paper, we consider sublinear second order differential equations with impulsive effects. Basing on the Poincar\'{e}-Bohl fixed point theorem, we first will prove the existence of harmonic solutions. The existence of subharmonic solutions is also obtained by a new twist fixed point theorem recently established by Qian etc in 2015 (\cite{Qian15}).

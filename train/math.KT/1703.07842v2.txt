@@ -1,0 +1,1 @@
+We define a functorial "Artin map" attached to any small \bf{Z}-linear stable \infty-category, which in the case of perfect complexes over a global field recovers the usual Artin map from the idele class group to the abelianized absolute Galois group. In particular, this gives a new proof of the Artin reciprocity law.

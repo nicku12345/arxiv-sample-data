@@ -1,0 +1,1 @@
+The celebrated theorem of Feuerbach states that the nine-point circle of a nonequilateral triangle is tangent to both its incircle and its three excircles. In this note, we give a simple proof of Feuerbach's Theorem using straightforward vector computations. All required preliminaries are proven here for the sake of completeness.

@@ -1,0 +1,1 @@
+The purpose of this paper is to study finite-dimensional Lie algebras over a field k of characteristic zero which admit a commutative polarization (CP). Among the many results and examples, it is shown that, if k is algebraically closed, the nilradical N of a parabolic subalgebra in A_n and C_n has such a CP. Using this fact a simple closed formula is derived for the index of N.

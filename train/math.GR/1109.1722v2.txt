@@ -1,0 +1,1 @@
+We give a description of Duchamp and Krob's extension of Magnus' approach to the lower central series of the free group to right-angled Artin groups. We also describe how Lalonde's extension of Lyndon words to the partially-commutative settings gives a simple algorithm to find a basis for consecutive quotients of the lower central series of a RAAG.

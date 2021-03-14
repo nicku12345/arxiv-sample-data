@@ -1,0 +1,1 @@
+We prove the following results: (1) There is a one-relator inverse monoid \mathrm{Inv}\langle A\:|\:w=1 \rangle with undecidable word problem; and (2) There are one-relator groups with undecidable submonoid membership problem. The first of these results answers a problem originally posed by Margolis, Meakin and Stephen in 1987.

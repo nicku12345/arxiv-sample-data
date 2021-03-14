@@ -1,0 +1,1 @@
+Given a coarse space (X, \mathcal{E}), we consider linear orders on X compatible with the coarse structure \mathcal E and explore interplays between these orders and macro-uniform selectors of (X, \mathcal{E}).

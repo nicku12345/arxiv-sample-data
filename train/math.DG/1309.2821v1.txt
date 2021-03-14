@@ -1,0 +1,1 @@
+We study the J-flow from the point of view of an algebro-geometric stability condition. In terms of this we give a lower bound for the natural associated energy functional, and we show that the blowup behavior found by Fang-Lai is reflected by the optimal destabilizer. Finally we prove a general existence result on complex tori.

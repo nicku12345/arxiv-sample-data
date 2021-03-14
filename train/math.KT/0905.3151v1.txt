@@ -1,0 +1,1 @@
+In this note we show that there are no higher twistings for the Borel cohomology theory associated to G-equivariant K-theory over a point and for a compact Lie group G. Therefore, twistings over a point for this theory are classified by the group H^{1}(BG,Z/2)\x H^{3}(BG,Z)

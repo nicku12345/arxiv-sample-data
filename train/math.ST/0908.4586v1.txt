@@ -1,0 +1,1 @@
+This is a technical appendix to "Adaptive estimation of stationary Gaussian fields". We present several proofs that have been skipped in the main paper.

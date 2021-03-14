@@ -1,0 +1,1 @@
+We consider the concepts of colored terms and multi-hypersubstitutions. Studying the multi-hypersubstitutions we find out necessary and sufficient conditions a variety to be pre-complete. Finally we give an automata realization of multi-hypersubstitutions and colored terms.

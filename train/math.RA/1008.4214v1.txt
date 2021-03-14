@@ -1,0 +1,1 @@
+Lie bialgebras were introduced by Drinfeld in studying the solutions to the classical Yang-Baxter equation. The definition of a bialgebra in the sense of Drinfeld (D-bialgebra), related with any variety of algebras, was given by Zhelyabin. In this work, we consider Malcev bialgebras. We describe all structures of a Malcev bialgebra on a simple non-Lie Malcev algebra.

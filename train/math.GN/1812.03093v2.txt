@@ -1,0 +1,1 @@
+We provide several characterizations of the Lebesgue property for fuzzy metric spaces. It is known that a fuzzy metric space is Lebesgue if and only if every real-valued continuous function is uniformly continuous. Here we show that it suffices to examine uniform continuity of bounded real-valued continuous functions for characterizing Lebesgue property in fuzzy setting.

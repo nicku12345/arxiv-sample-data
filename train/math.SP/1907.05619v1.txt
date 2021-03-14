@@ -1,0 +1,1 @@
+Our goal in this paper is to find an estimate for the spectral gap of the Laplacian on a 2-simplicial complex consisting on a triangulation of a complete graph. An upper estimate is given by generalizing the Cheeger constant. The lower estimate is obtained from the first non-zero eigenvalue of the discrete Laplacian acting on the functions of certain sub-graphs.

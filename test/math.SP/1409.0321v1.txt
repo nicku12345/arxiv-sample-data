@@ -1,0 +1,1 @@
+We generalize several inequalities involving powers of the numerical radius for product of two operators acting on a Hilbert space. For any A, B, X\in \mathbb{B}(\mathscr{H}) such that A,B are positive, we establish some numerical radius inequalities for A^\alpha XB^\alpha and A^\alpha X B^{1-\alpha}\,\,(0 \leq \alpha \leq 1) and Heinz means under mild conditions.

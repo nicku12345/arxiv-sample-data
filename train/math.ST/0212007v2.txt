@@ -1,0 +1,1 @@
+We derive asymptotic normality of kernel type deconvolution density estimators. In particular we consider deconvolution problems where the known component of the convolution has a symmetric lambda-stable distribution, 0<lambda<= 2. It turns out that the limit behavior changes if the exponent parameter lambda passes the value one, the case of Cauchy deconvolution.

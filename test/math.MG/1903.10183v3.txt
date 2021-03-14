@@ -1,0 +1,1 @@
+Let M be a closed, oriented, and connected Riemannian n-manifold, for n\ge 2, which is not a rational homology sphere. We show that, for a non-constant and non-injective uniformly quasiregular self-map f\colon M\to M, the topological entropy h(f) is \log \mathrm{deg}( f ). This proves Shub's entropy conjecture in this case.

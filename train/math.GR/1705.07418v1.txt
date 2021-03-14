@@ -1,0 +1,1 @@
+In this note I give a formula for calculating the number of orbits of irreducible binary forms of degree n over GF(p) under the action of GL(2,p). This formula has applications to the classification of class two groups of exponent p with derived groups of order p^2.

@@ -1,0 +1,1 @@
+Using a simple recurrence relation we give a new method to compute Jones polynomials of closed braids: we find a general expansion formula and a rational generating function for Jones polynomials. The method is used to estimate degree of Jones polynomials for some families of braids and to obtain general qualitative results.

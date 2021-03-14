@@ -1,0 +1,1 @@
+Using the Huynh and Le quantum determinant description of the colored Jones polynomial, we construct a new combinatorial description of the colored Jones polynomial in terms of walks along a braid. We then use this description to show that for a knot which is the closure of a positive braid, the first N coefficients of the N-th colored Jones polynomial are trivial.

@@ -1,0 +1,1 @@
+We compute the completion of the special linear group over the coordinate ring of a curve over a number field k relative to its representation in \slnk, and relate this to the study of K_2 of the curve.

@@ -1,0 +1,1 @@
+In this paper, we study Toeplitz operators on the weighted harmonic Bergman spaces with nonnegative symbols, the weights we choose here are Muckenhoupt A_2 weights. Results obtained include characterizations of bounded Toeplitz operators, compact Toeplitz operators, invertible Toeplitz operators and Toeplitz operators in the Schatten classes.

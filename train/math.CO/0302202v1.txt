@@ -1,0 +1,1 @@
+We study the distribution of the number of permutations with a given periodic up-down sequence w.r.t. the last entry, find exponential generating functions and prove asymptotic formulas for this distribution.

@@ -1,0 +1,1 @@
+In this paper, we provide a few properties of the weighted Moore--Penrose inverse for an arbitrary order tensor via the Einstein product. We again obtain some new sufficient conditions for the reverse-order law of the weighted Moore--Penrose inverse for even-order square tensors. We then present several characterizations of the reverse-order law for tensors of arbitrary order.

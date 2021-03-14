@@ -1,0 +1,1 @@
+Picard's iteration has been used to prove the existence and uniqueness of the solution for stochastic integral equations, here we use Schauder's fixed point theorem to give a new existence theorem about the solution of a stochastic integral equation, our theorem can weak some conditions gotten by applying Banach's fixed point theorem.

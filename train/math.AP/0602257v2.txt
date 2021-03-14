@@ -1,0 +1,1 @@
+In each dimension n >= 2, we construct a class of nonnegative potentials that are homogeneous of order -sigma, chosen from the range 0 < sigma < 2, and for which the perturbed Schrodinger equation does not satisfy global in time Strichartz estimates.

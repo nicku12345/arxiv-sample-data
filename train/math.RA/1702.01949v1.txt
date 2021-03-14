@@ -1,0 +1,1 @@
+An operad is naturally endowed with a pre-Lie structure. We prove that as a pre-Lie algebra an operad is not free. The proof holds on defining a non-vanishing linear operation in the pre-Lie algebra which is zero in any operad.

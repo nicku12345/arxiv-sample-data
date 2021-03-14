@@ -1,0 +1,1 @@
+We present a systematic approach to thermodynamical identities and illustrate the power of these methods by displaying Mathematica notebooks to deal with a large variety of such identities. In concrete examples these can involve rather tedious, not to way impossible, computations when done by hand.

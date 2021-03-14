@@ -1,0 +1,1 @@
+We introduce a connectivity function for infinite matroids with properties similar to the connectivity function of a finite matroid, such as submodularity and invariance under duality. As an application we use it to extend Tutte's linking theorem to finitary and to co-finitary matroids.

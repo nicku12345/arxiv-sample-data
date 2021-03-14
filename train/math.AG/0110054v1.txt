@@ -1,0 +1,1 @@
+We describe properties of the K\"ahler cone of general Calabi-Yau-threefolds with Picard number \rho(X)=2 and prove the rationality of the K\"ahler cone, if X is a Calabi-Yau-hypersurface in a {\mathbb P}^2-bundle over {\mathbb P}^2 and c_3(X)\le -54. Without the latter assumption we prove the positivity of c_2(X).

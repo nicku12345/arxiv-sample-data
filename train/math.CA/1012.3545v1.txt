@@ -1,0 +1,1 @@
+We prove that the Hausdorff dimension of the set of points where a function in the Zygmund class in the euclidean space has bounded divided differences, is bigger or equal to 1. A similar result for functions in the Small Zygmund class is also proved and an example is constructed to show that these results are sharp.

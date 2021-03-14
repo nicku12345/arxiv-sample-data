@@ -1,0 +1,1 @@
+We give closed combinatorial product formulas for Kazhdan-Lusztig poynomials and their parabolic analogue of type q in the case of boolean elements, introduced in [M. Marietti, Boolean elements in Kazhdan-Lusztig theory, J. Algebra 295 (2006)], in Coxeter groups whose Coxeter graph is a tree.

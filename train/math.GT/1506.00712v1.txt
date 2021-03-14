@@ -1,0 +1,1 @@
+Let M be a closed 3-manifold obtained by Dehn surgery along the figure-eight knot. We give a formula of the Reisdemeisiter torsion of M for any irreducible SL(2;C)-representation. It is described as a rational expression of the trace of the image of the meridian.

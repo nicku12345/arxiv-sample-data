@@ -1,0 +1,1 @@
+The lower and upper bounds are found for the leading term of summatory totient function \sum_{k\leq N}k^u\phi^v(k) in various ranges of u\in{\mathbb R} and v\in{\mathbb Z}.

@@ -1,0 +1,1 @@
+We explain an algorithm for finding a boundary link Seifert matrix for a given Alexander polynomial. The algorithm depends on several choices and therefore makes it possible to find non-equivalent Seifert matrices for a given Alexander polynomial.

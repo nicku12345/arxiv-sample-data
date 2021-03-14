@@ -1,0 +1,1 @@
+An elementary proof of the attainability of random coding exponent with linear codes for additive channels is presented. The result and proof are from Hamada (Proc. ITW, Chendu, China, 2006), and the present material explains the proof in detail for those unfamiliar with elementary calculations on probabilities related to linear codes.

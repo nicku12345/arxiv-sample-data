@@ -1,0 +1,1 @@
+Channel coding over arbitrarily-permuted parallel channels was first studied by Willems et al. (2008). This paper introduces capacity-achieving polar coding schemes for arbitrarily-permuted parallel channels where the component channels are memoryless, binary-input and output-symmetric.

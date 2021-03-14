@@ -1,0 +1,1 @@
+In this note, we are interested in the *-version of various special functions. Noting that many special functions are defined by integrals involving the exponential functions, we define *-special functions by similar integral formula replacing exponential functions by *-exponential functions.

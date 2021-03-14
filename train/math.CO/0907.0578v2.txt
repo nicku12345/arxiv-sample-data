@@ -1,0 +1,1 @@
+We will see that every finite projective plane of order k > 1 gives rise to a complete set of (k-1) MPLS (= mutually projective latin squares) of order k and by reversing the process we can construct a finite projective plane of order k when a complete set of (k-1) MPLS of order k is given.

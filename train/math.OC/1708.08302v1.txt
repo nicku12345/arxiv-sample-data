@@ -1,0 +1,1 @@
+Based on a characterization of the optimality of a feasible solution of a convex entropy minimization problem, one shows that the feasible solutions obtained using formally the Lagrange multipliers method are optimal.

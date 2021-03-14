@@ -1,0 +1,1 @@
+We show if A is a finite CW-complex such that algebraic theories detect mapping spaces out of A, then A has the homology type of a wedge of spheres of the same dimension. Furthermore, if A is simply connected then A has the homotopy type of a wedge of spheres.

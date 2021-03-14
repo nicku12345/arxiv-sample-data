@@ -1,0 +1,1 @@
+Let G be an inner form of a general linear group over a non-archimedean local field. We prove that the local Langlands correspondence for G preserves depths. We also show that the local Langlands correspondence for inner forms of special linear groups preserves the depths of essentially tame Langlands parameters.

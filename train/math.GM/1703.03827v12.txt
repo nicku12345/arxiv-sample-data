@@ -1,0 +1,1 @@
+We prove Riemann hypothesis, Generalized Riemann hypothesis, and Ramanujan \tau-Dirichlet series hypothesis. Method is to show the convexity of function which has zeros critical strip the same as zeta function.

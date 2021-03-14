@@ -1,0 +1,1 @@
+An elementary application of Fatou's lemma gives a strengthened version of the monotone convergence theorem. We call this the convergence from below theorem. We make the case that this result should be better known, and deserves a place in any introductory course on measure and integration.

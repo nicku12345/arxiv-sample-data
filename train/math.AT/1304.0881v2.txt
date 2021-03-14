@@ -1,0 +1,1 @@
+The structure of the BP<n>-cohomology of elementary abelian p-groups is studied, obtaining a presentation expressed in terms of BP-cohomology and mod-p singular cohomology, using the Milnor derivations.   The arguments are based on a result on multi-Koszul complexes which is related to Margolis's criterion for freeness of a graded module over an exterior algebra.

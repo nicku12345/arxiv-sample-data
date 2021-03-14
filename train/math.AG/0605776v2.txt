@@ -1,0 +1,1 @@
+We generalize the First Reconstruction Theorem of Kontsevich and Manin in two respects. First, we allow the target space to be a Deligne-Mumford stack. Second, under some convergence assumptions, we show it suffices to check the hypothesis of H^2-generation not on the cohomology ring, but on an any quantum ring in the family given by small quantum cohomology.

@@ -1,0 +1,1 @@
+We provide bijective proofs of two classic identities that are very simple to prove using generating functions, but surprisingly difficult to prove combinatorially. The problem of finding a bijective proof for the first identity was first raised in the 1930s. The second, more involved identity takes the first one a step further.

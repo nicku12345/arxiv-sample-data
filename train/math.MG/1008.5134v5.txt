@@ -1,0 +1,1 @@
+Let \Delta be a spherical building each of whose irreducible components is infinite, has rank at least 2 and satisfies the Moufang condition. We show that \Delta can be given the structure of a topological building that is compact and totally disconnected precisely when \Delta is the building at infinity of a locally finite affine building.

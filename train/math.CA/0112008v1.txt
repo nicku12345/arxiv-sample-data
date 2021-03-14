@@ -1,0 +1,1 @@
+We extend Federer's coarea formula to mappings f belonging to the Sobolev class W^{1,p}(R^n;R^m), 1 \le m < n, p>m, and more generally, to mappings with gradient in the Lorentz space L^{m,1}(R^n). This is accomplished by showing that the graph of f in R^{n+m} is a Hausdorff n-rectifiable set.

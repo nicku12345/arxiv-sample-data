@@ -1,0 +1,1 @@
+We prove simultaneous Universal Approximation of a certain type of Pade Approximants and of Taylor series with the same indexes. This is a generic phenomenon in the space of holomorphic functions in any simply connected domain, as well as in several other spaces. Our results are valid for one center of expansion and for several centers, as well.

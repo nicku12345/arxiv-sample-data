@@ -1,0 +1,1 @@
+In the paper the authors alternatively prove that the function x^\alpha\big[\ln\frac{px}{x+p+1}-\psi_p(x)\big] is completely monotonic on (0,\infty) if and only if \alpha \le 1, where p\in\mathbb{N} and \psi_p(x) is the p-analogue of the classical psi function \psi(x). This generalizes a known result.

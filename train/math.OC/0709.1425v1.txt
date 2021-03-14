@@ -1,0 +1,1 @@
+The one-dimensional version of the higher order total variation-based model for image restoration proposed by Chan, Marquina, and Mulet in [4] is analyzed. A suitable functional framework in which the minimization problem is well posed is being proposed and it is proved analytically that the higher order regularizing term prevents the occurrence of the staircase effect.

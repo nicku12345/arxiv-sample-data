@@ -1,0 +1,1 @@
+Let F be a non-Archimedean local field and let \mathcal{O}_{F} be its ring of integers. We give a description of orbits of cuspidal types on \mathrm{GL}_{p}( \mathcal{O}_{F}), with p prime. We determine which of them are regular representations and we provide an example which shows that an orbit of a representation does not always determine whether it is a cuspidal type or not.

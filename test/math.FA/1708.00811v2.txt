@@ -1,0 +1,1 @@
+Let ({\mathcal M},\rho) be a metric space and let Y be a Banach space. Given a positive integer m, let F be a set-valued mapping from {\mathcal M} into the family of all compact convex subsets of Y of dimension at most m. In this paper we prove a finiteness principle for the existence of a Lipschitz selection of F with the sharp value of the finiteness number.

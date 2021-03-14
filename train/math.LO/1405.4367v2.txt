@@ -1,0 +1,1 @@
+We prove a classical theorem due to Legendre, about the existence of non trivial solutions of quadratic diophantine equations of the form ax^2+by^2+cz^2=0, in the weak fragment of Peano Arithmetic I\Delta_0+\Omega_1.

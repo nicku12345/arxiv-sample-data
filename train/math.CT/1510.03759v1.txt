@@ -1,0 +1,1 @@
+We address the uniqueness problem of dg-lifts of exact functors between triangulated categories, and its relationship with the uniqueness problem of Fourier-Mukai kernels. We prove a positive result under a vanishing hypothesis on the functors, employing A_infty-categorical techniques.

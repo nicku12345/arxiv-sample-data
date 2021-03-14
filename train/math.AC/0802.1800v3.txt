@@ -1,0 +1,1 @@
+This paper is an outcome of the author's master thesis written under the supervision of Aldo Conca. We prove some results relating connectedness properties with (local) cohomological dimension. As an interesting corollary we have that every initial complex of a Cohen-Macaulay ideal is strongly connected.

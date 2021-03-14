@@ -1,0 +1,1 @@
+We introduce an equivariant algebraic kk-theory for G-algebras and G-graded algebras. We study some adjointness theorems related with crossed product, trivial action, induction and restriction. In particular we obtain an algebraic version of the Green-Julg Theorem which gives us a computational tool.

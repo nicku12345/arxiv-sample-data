@@ -1,0 +1,1 @@
+We show that every smooth toric variety (and many other algebraic spaces as well) can be realized as a moduli space for smooth, projective, polarized varieties. Some of these are not quasi--projective. This contradicts a recent paper (Quasi--projectivity of moduli spaces of polarized varieties, Ann. of Math. 159 (2004) 597--639.).

@@ -1,0 +1,1 @@
+We use an interesting result of probabilistic flavor concerning the product of two permutations consisting of one cycle each to find an explicit formula for the average number of block interchanges needed to sort a permutation of length n.

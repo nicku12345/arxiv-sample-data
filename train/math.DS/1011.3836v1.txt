@@ -1,0 +1,1 @@
+We prove that any diffeomorphism of a compact manifold can be approximated in topology C1 by another diffeomorphism exhibiting a homoclinic bifurcation (a homoclinic tangency or a heterodimensional cycle) or by one which is essentially hyperbolic (it has a finite number of transitive hyperbolic attractors with open and dense basin of attraction).

@@ -1,0 +1,1 @@
+We extend R. Fernandes' construction of secondary characteristic classes of a Lie algebroid to the case of a base-preserving morphism between two Lie algebroids. Like in the case of a Lie algebroid, the simplest characteristic class of our construction coincides with the modular class of the morphism.

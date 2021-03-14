@@ -1,0 +1,1 @@
+In this paper we present a generalization of the classical Hermite polynomials to the framework of Clifford-Dunkl operators. Several basic properties, such as orthogonality relations, recurrence formulae and associated differential equations, are established. Finally, an orthonormal basis for the Hilbert modules arising from the corresponding weight measures is studied.

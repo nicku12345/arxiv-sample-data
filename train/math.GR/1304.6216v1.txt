@@ -1,0 +1,1 @@
+It is well known that all torsors under an affine algebraic group over an algebraically closed field are trivial. We note that under suitable conditions this also holds if the the group is not necessarily of finite type. This has an application to isomorphisms of fibre functors on neutral Tannakian categories.

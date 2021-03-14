@@ -1,0 +1,1 @@
+We say that the the germ of a singular holomorphic foliation on (\mathbb{C}^2,0) is algebraizable whenever it is holomorphically conjugate to the singularity of a foliation defined globally on a projective algebraic surface. The object of this work is to construct a concrete example of a non--algebraizable singularity. Previously only existential results were known.

@@ -1,0 +1,1 @@
+We prove that an open set D in \C^n is pseudoconvex if and only if for any z\in D the largest balanced domain centered at z and contained in D is pseudoconvex, and consider analogues of that characterization in the linearly convex case.

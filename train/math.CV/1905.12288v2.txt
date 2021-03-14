@@ -1,0 +1,1 @@
+It is shown that if f or 1/f is a real entire function of infinite order of growth, with only real zeros, then f''+\omega f has infinitely many non-real zeros for any \omega > 0.

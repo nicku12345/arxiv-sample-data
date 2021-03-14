@@ -1,0 +1,1 @@
+In this article, we study topological properties of Voisin's punctual Hilbert schemes of an almost-complex fourfold X. In this setting, we compute their Betti numbers and construct Nakajima operators. We also define tautological bundles associated with any complex bundle on X, which are shown to be canonical in K-theory.

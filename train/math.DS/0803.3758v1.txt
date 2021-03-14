@@ -1,0 +1,1 @@
+The paper discusses linear fractional representations of parameter-dependent nonlinear systems with dynamics defined by real rational nonlinearities and a finite set of point delays. The global asymptotic stability is investigated via linear matrix inequalities.

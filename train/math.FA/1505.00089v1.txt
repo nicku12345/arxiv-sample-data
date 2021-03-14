@@ -1,0 +1,1 @@
+Translation-invariant valuations on the space L^\infty(\mathbb{R}^n) are examined. We prove that such functionals vanish on functions with compact support. Moreover a rich family of non-trivial translation-invariant valuations on L^\infty(\mathbb{R}^n) is constructed through the use of ultrafilters on \mathbb{R}.

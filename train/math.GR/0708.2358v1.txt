@@ -1,0 +1,1 @@
+Buchsteiner loops are those which satisfy the identity x\backslash (xy \cdot z) = (y \cdot zx)/ x. We show that a Buchsteiner loop modulo its nucleus is an abelian group of exponent four, and construct an example where the factor achieves this exponent.

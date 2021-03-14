@@ -1,0 +1,1 @@
+We prove regularity estimates for functions which are harmonic with respect to certain jump processes. The aim of this article is to extend the method of Bass-Levin[BL02] and Bogdan-Sztonyk[BS05] to more general processes. Furthermore, we establish a new version of the Harnack inequality that implies regularity estimates for corresponding harmonic functions.

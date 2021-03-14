@@ -1,0 +1,1 @@
+We prove a fractional version of the Hardy--Sobolev--Maz'ya inequality for arbitrary domains and L^p norms with p\geq 2. This inequality combines the fractional Sobolev and the fractional Hardy inequality into a single inequality, while keeping the sharp constant in the Hardy inequality.

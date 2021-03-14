@@ -1,0 +1,1 @@
+Let k be a positive real number, and let M_k(q) be the sum of |L(\tfrac12,\chi)|^{2k} over all non-principal characters to a given modulus q. We prove that M_k(q)\ll_k \phi(q)(\log q)^{k^2} whenever k is the reciprocal n^{-1} of a positive integer n. If one assumes the Generalized Riemann Hypothesis then the estimate holds for all positive real k<2.

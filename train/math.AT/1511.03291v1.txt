@@ -1,0 +1,1 @@
+We prove that the category of rational SO(2)-equivariant spectra has a simple algebraic model. Furthermore, all of our model categories and Quillen equivalences are monoidal, so we can use this classification to understand ring spectra and module spectra via the algebraic model.

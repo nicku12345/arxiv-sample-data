@@ -1,0 +1,1 @@
+In this paper we prove that the weighted linear combination of products of the k-subsets of an n-set of positive real numbers with weight being the harmonic mean of their reciprocal sets is less than or equal to uniformly weighted sum of products of the k-subsets with weight being the harmonic mean of the whole reciprocal set.

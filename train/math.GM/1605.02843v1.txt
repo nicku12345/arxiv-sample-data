@@ -1,0 +1,1 @@
+We present an identity for the derivatives of the arctangent function as an alternative to the Adegoke - Layeni - Lampret formula. We show that algorithmic implementation of the proposed identity can significantly accelerate the computation since this approach requires no symbolic programming in determination of the derivatives for the arctangent function.

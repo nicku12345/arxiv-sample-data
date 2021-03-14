@@ -1,0 +1,1 @@
+Every K-trivial set is computable from an incomplete Martin-L\"of random set, i.e., a Martin-L\"of random set that does not compute 0'.

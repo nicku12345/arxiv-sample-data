@@ -1,0 +1,1 @@
+We construct a family of exact functors from the BGG category of representations of the Lie algebra sl to the category of finite-dimensional representations of the degenerate (or graded) affine Hecke algebra H of GL. These functors transform Verma modules to standard modules or zero, and simple modules to simple modules or zero. Any simple H-module can be thus obtained.

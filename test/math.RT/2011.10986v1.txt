@@ -1,0 +1,1 @@
+Given a complex simple Lie algebra \mathfrak{g} and a positive integer \ell, under the assumption \lambda\gg\mu, we show that irreducible representations of \mathfrak{g} of the form V(\lambda +w\mu), w\in W, with level at most \ell appear in the fusion product of V(\lambda) and V(\mu). This verifies the existence of PRV components for the fusion product in this special case.

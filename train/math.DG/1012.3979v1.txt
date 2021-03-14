@@ -1,0 +1,1 @@
+We show that every smooth manifold admits a smooth triangulation transverse to a given smooth map. This removes the properness assumption on the smooth map used in an essential way in Scharlemann's construction [5].

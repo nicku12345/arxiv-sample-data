@@ -1,0 +1,1 @@
+This is an exposition of the first two sections of Chapter VI of Shelah's book Proper and Improper Forcing. It covers various preservation theorems for CS iteration of proper forcing (omega-omega bounding, Sacks property, P-point property, etc.)

@@ -1,0 +1,1 @@
+We propose to differentiate a general curvature functional with two different approaches. In the first one we compute the derivative with the tools of shape optimization and in the second one we compute the derivative of a volumic approximation of the functional with respect to a level set function. We show that the two previous approaches give the same result.

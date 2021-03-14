@@ -1,0 +1,1 @@
+We calculate the Hochschild and cyclic cohomology of the \mathbb Z_2 toroidal orbifold \mathcal A_\theta^{alg} \rtimes \mathbb Z_2. We also calculate the Chern-Connes pairing of the even cyclic cohomology group with the known elements of K_0(\mathcal A_\theta^{alg} \rtimes \mathbb Z_2).

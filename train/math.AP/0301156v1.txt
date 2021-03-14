@@ -1,0 +1,1 @@
+De Giorgi conjectured in 1979 that if a sequence of parabolic functionals Gamma converges to a limiting functional, then the corresponding gradient flows will converge as well after changing timescale appropriately. This paper studies the Gamma convergence for a kind of parabolic functionals, and it supports the De Giorgi's conjecture.

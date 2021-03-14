@@ -1,0 +1,1 @@
+Let H be a positive semidefinite matrix partitioned into Hermitian blocks. Then, up to a direct sum operation, H is the average of matrices isometrically congruent to its partial trace. A few corollaries are given, related to important inequalities in quantum information theory such as the Nielsen-Kempe separability criterion.

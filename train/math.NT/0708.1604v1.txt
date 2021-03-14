@@ -1,0 +1,1 @@
+For a given sequence of positive integers we make an explicit construction of a reduced hyperbolic operator in SL(2,z) with the sequence as a period of a geometric continued fraction in the sense of Klein. Further we experimentally study an algorithm to construct a period for an arbitrary operator of SL(2,z) (the Gauss Reduction Theory).

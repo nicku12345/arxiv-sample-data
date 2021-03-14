@@ -1,0 +1,1 @@
+A univalent meromorphic function defined on \Delta:= \{z \in \mathbb{C}: 1<|z|<\infty \} with univalent inverse defined on \Delta is bi-univalent meromorphic in \Delta. For certain subclasses of meromorphic bi-univalent functions, estimates on the initial coefficients are obtained.

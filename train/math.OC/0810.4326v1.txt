@@ -1,0 +1,1 @@
+In this paper, we investigate two topics related to mitigating the effect of radar bias in ballistic missile tracking applications. We determine the absolute bias between two radars in polar coordinates when their relative bias is given in rectangular coordinates. Using this result, we then obtain the optimized steady-state filter to handle the random bias.

@@ -1,0 +1,1 @@
+In [Sh893], Shelah proves that (on a stationary set of cardinals) an AEC has not too many models or every model has extensions of arbitrary cardinality. We show that, if we assume limited amalgamation, then the second condition holds for a larger class of cardinals.

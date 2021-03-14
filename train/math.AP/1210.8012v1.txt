@@ -1,0 +1,1 @@
+The aim of this note is to study the dynamo properties of the magnetohydrodynamics system at vanishing Rm. Improving the analysis of a former study, we shall establish a generic Lyapunov instability result.

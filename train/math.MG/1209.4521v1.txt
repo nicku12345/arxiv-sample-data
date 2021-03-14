@@ -1,0 +1,1 @@
+Steiner symmetrization along n linearly independent directions transforms every compact subset of R^n into a set of finite perimeter.

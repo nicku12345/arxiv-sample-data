@@ -1,0 +1,1 @@
+It has been shown by V. Colin that every tight contact 3-manifold can be written as a connected sum of prime manifolds. Here we prove that the summands in this decomposition are unique up to order and contactomorphism.

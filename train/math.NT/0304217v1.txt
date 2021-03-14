@@ -1,0 +1,1 @@
+Let q be a prime, A be a subset of a finite field F=\Bbb Z/q\Bbb Z, |A|<\sqrt{|F|}. We prove the estimate \max(|A+A|,|A\cdot A|)\ge c|A|^{1+\epsilon} for some \epsilon>0 and c>0. This extends the result of J. Bourgain, N. Katz, and T. Tao.

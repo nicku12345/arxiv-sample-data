@@ -1,0 +1,1 @@
+A direct proof of the Riesz representation theorem is provided. This theorem characterizes the linear functionals acting on the vector space C(K) of continuous functions defined on a compact subset K of the real numbers \mathbb{R}. This proof avoids complicated arguments commonly used in generalizations of Riesz original theorem.

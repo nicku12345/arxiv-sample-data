@@ -1,0 +1,1 @@
+The set of all subspaces of a given dimension in a finite classical polar space has a structure of a symmetric association scheme. If the dimension is zero, this is the scheme of the collinearity graph of the space; If the dimension is maximum, it is the dual polar scheme. In this note, we determine the full automorphism group of this scheme.

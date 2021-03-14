@@ -1,0 +1,1 @@
+In this paper we study the local law for eigenvalues of large random regular bipartite graphs with degree growing arbitrarily fast. We prove that the empirical spectral distribution of the adjacency matrix converges to a scaled down copy of the Marchenko - Pastur distribution on intervals of short length.

@@ -1,0 +1,1 @@
+Motivated, roughly, by comparing the mean and median of an IID sum of bounded lattice random variables, we develop explicit and effective bounds on the errors involved in the one-term Edgeworth expansion for such sums.

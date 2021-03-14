@@ -1,0 +1,1 @@
+A divide-and-conquer algorithm for computing the Betti numbers of finite T_0-spaces is presented. It extensively uses the Mayer-Vietoris sequence for open coverings. In the end, the computational costs for a parallelisation of this method are given.

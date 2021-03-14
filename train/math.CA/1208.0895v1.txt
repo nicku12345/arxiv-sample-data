@@ -1,0 +1,1 @@
+For a,b>0 with a\not=b, let N(a,b) denote the Neuman-S\'andor mean defined by   N(a,b)=((a-b)/(2arcsinh((a-b)/(a+b)))) and A_{r}(a,b) denote the r-order power mean. We present the sharp power means bounds for the Neuman-S\'andor mean:   A_{p_1}(a,b)<N(a,b)\leqA_{p_2}(a,b), where p_1= ((ln2)/(lnln(3+2\surd2))) and p_2=4/3 are the best constants.

@@ -1,0 +1,1 @@
+Let P,Q be elements of the Weyl algebra W. We prove that if [Q,P]=1, then the centralizer of P is the polynomial algebra k[P].

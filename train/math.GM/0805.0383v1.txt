@@ -1,0 +1,1 @@
+This article presents several alternatives to Pearson's correlation coefficient and many examples. In the samples where the rank in a discrete variable counts more than the variable values, the mixtures that we propose of Pearson's and Spearman's correlation coefficients give better results.

@@ -1,0 +1,1 @@
+We consider the notion of bounded m-ary patch-width and its very close relative m-constructible. We show that the notions of m-constructibility all coincide for m>2, while 1-constructibility is a weaker notion. The same holds for bounded patch-width. The cace m=2 is left open.

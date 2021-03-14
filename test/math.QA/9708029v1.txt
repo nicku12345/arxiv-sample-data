@@ -1,0 +1,1 @@
+We give a direct computational proof that the degree 1 part of the Le-Murakami-Ohtsuki invariant of a closed oriented 3-manifold M is determined by the Casson-Walker-Lescop invariant. Moreover, if the first Betti number of M is equal to 2, the Le-Murakami-Ohtsuki invariant is determined by the Lescop generalization of the Casson-Walker invariant.

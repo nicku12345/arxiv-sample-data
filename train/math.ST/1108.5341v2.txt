@@ -1,0 +1,1 @@
+We present a minimax optimal solution to the problem of estimating a compact, convex set from finitely many noisy measurements of its support function. The solution is based on appropriate regularizations of the least squares estimator. Both fixed and random designs are considered.

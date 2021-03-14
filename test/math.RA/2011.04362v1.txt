@@ -1,0 +1,1 @@
+Tensor polynomial identities generalize the concept of polynomial identities on d \times d matrices to identities on tensor product spaces. Here we completely characterize a certain class of tensor polynomial identities in terms of their associated Young tableaux. Furthermore, we provide a method to evaluate arbitrary alternating tensor polynomials in d^2 variables.

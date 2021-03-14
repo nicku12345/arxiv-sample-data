@@ -1,0 +1,1 @@
+A classical theorem of Alon and Milman states that any d dimensional centrally symmetric convex body has a projection of dimension m\geq e^{c\sqrt{\ln{d}}} which is either close to the m-dimensional Euclidean ball or to the m-dimensional cross-polytope. We extended this result to non-symmetric convex bodies.

@@ -1,0 +1,1 @@
+We define abelian extensions of algebras in congruence-modular varieties. The theory is sufficiently general that it includes, in a natural way, extensions of R-modules for a ring R. We also define a cohomology theory, which we call clone cohomology, such that the cohomology group in dimension one is the group of equivalence classes of extensions.

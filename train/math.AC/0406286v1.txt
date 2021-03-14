@@ -1,0 +1,1 @@
+We prove the following. Let R be a Noetherian ring, B a finitely generated R-algebra, and A a pure R-subalgebra of B. Then A is finitely generated over R.

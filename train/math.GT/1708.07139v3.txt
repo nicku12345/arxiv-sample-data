@@ -1,0 +1,1 @@
+We apply the Rasmussen spectral sequence to prove that the \mathbb{Z}^3-graded vector space structure of the HOMFLYPT homology over \mathbb{Z}_2 detects unlinks. Our proof relies on a theorem of Batson and Seed stating that the \mathbb{Z}^2-graded vector space structure of the Khovanov homology over \mathbb{Z}_2 detects unlinks.

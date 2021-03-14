@@ -1,0 +1,1 @@
+Let G be a finite group with the property that if a,b are powers of \delta_1^*-commutators such that (|a|,|b|)=1, then |ab|=|a||b|. We show that \gamma_{\infty}(G) is nilpotent.

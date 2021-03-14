@@ -1,0 +1,1 @@
+We use Fourier methods to prove that if n > 1 translates of sublattices of Z^d tile Z^d, and all the sublattices are Cartesian products of arithmetic progressions, then two of the tiles must be translates of each other. This is a multi-dimensional generalization of the Mirsky-Newman Theorem.

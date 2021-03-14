@@ -1,0 +1,1 @@
+We prove that the multi--time Hamilton--Jacobi equation in general cannot be solved in the viscosity sense, in the non-convex setting, even when the Hamiltonians are in involution.

@@ -1,0 +1,1 @@
+We prove a quantitative uncertainty principle at low energies for the Laplacian on fairly general weighted graphs with a uniform explicit control of the constants in terms of geometric quantities. A major step consists in establishing lower bounds for Dirichlet eigenvalues in terms of the geometry.

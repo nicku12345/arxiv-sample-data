@@ -1,0 +1,1 @@
+We show that the viscous Camassa-Holm equation subject to an external force, and where the viscosity term is given by second order differential operator in divergence form has a global attractors in the energy space H^1. Moreover, we establish an asymptotic smoothing effect.

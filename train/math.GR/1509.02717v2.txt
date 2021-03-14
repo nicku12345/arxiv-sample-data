@@ -1,0 +1,1 @@
+In this paper we study a group G which is the quotient of a free product of three non-trivial groups by the normal closure of a single element. In particular we show that if the relator has length at most eight, then G is non-trivial. In the case where the factors are cyclic, we prove the stronger result that at least one of the factors embeds in G.

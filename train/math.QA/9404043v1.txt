@@ -1,0 +1,1 @@
+Tetramodule is a vector space supplied with the bimodule and bicomodule structures over a Hopf algebra. The exact definition is given. Some properties and applications to quantum groups are discussed.

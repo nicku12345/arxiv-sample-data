@@ -1,0 +1,1 @@
+Let W be a complex reflection group. We prove that there is the maximal finite dimensional quotient of the Hecke algebra H_q(W) of W and that the dimension of this quotient coincides with |W|. This is a weak version of a Brou\'e-Malle-Rouquier conjecture from 1998. The proof is based on categories O for Rational Cherednik algebras.

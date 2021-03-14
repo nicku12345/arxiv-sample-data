@@ -1,0 +1,1 @@
+We show that for any isotropic log-concave probability measure \mu on \mathbb R^n, for every \varepsilon > 0, every 1 \leq k \leq \sqrt{n} and any E \in G_{n,k} there exists F \in G_{n,k} with d(E,F) < \varepsilon and L_{\pi_F\mu} < C/\varepsilon.

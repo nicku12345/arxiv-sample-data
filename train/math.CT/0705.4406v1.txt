@@ -1,0 +1,1 @@
+In the context of Synthetic Differential Geometry, we describe a notion of higher connection with values in a cubical groupoid. We do this by exploiting a certain structure of cubical complex derived from the first neighbourhood of the diagonal of a manifold. This cubical complex consists of infinitesimal parallelelpipeda.

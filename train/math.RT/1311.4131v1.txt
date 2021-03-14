@@ -1,0 +1,1 @@
+Dynkin's classification of maximal subalgebras of simple finite dimensional complex Lie algebras is generalized to linear Lie superalgebras. Namely, the maximal non-simple irreducible subalgebras of \mathfrak{gl}(p|q), \mathfrak{q}(n), \mathfrak{sl}(p|q), \mathfrak{osp}(m|2n), \mathfrak{pe}(n), and \mathfrak{spe}(n) are classified.

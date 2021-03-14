@@ -1,0 +1,1 @@
+This note provide bijective proofs of two combinatorial identities involving generalized Catalan number C_{m,5}(n)={m\over 5n+m}{5n+m\choose n} recently proposed by Sun.

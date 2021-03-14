@@ -1,0 +1,1 @@
+In this paper we study some asymptotic properties of the kernel conditional quantile estimator with randomly left-truncated data which exhibit some kind of dependence. We extend the result obtained by Lemdani, Ould-Sa\"id and Poulin [16] in the iid case. The uniform strong convergence rate of the estimator under strong mixing hypothesis is obtained.

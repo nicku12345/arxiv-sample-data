@@ -1,0 +1,1 @@
+We will prove the presence of chaotic motion in the Lorenz five-component atmospheric system model using the Melnikov function method developed by Holmes and Marsden for Hamiltonian systems on Lie Groups.

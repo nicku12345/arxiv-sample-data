@@ -1,0 +1,1 @@
+We classify the subsets of a group by their sizes, formalize the basic methods of partitions and apply them to partition a group to subsets of prescribed sizes.

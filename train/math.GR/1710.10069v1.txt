@@ -1,0 +1,1 @@
+We consider the qth root number function for the symmetric group. Our aim is to develop an asymptotic formula for the multiplicities of the qth root number function as q tends to \infty. We use character theory, number theory and combinatorics.

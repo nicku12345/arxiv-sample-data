@@ -1,0 +1,1 @@
+We define a new equivalence between algebras for n-globular operads which is suggested in [Cottrell 2015], and show that it is a generalization of ordinary equivalence between categories.

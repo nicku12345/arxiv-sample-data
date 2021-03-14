@@ -1,0 +1,1 @@
+In 1998 Manickam and Singhi conjectured that for every positive integer d and every n \ge 4d, every set of n real numbers whose sum is nonnegative contains at least \binom {n-1}{d-1} subsets of size d whose sums are nonnegative. In this paper we establish new results related to this conjecture. We also prove that the conjecture of Manickam and Singhi does not hold for n=2d+2.

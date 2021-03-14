@@ -1,0 +1,1 @@
+In this paper we establish asymptotic (biasymptotic) equivalence between spaces of solutions of a given linear homogeneous system and a perturbed system. The perturbations are of either linear or weakly linear characters. Existence of a homeomorphism between subspaces of almost periodic and asymptotically (biasymptotically) almost periodic solutions is also obtained.

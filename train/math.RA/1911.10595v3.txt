@@ -1,0 +1,1 @@
+We prove a Nullstellensatz for the ring of polynomial functions in n non-commuting variables over Hamilton's ring of real quaternions. We also characterize the generalized polynomial identities in n variables which hold over the quaternions, and more generally, over any division algebra.

@@ -1,0 +1,1 @@
+Kumjian and Pask introduced an aperiodicity condition for higher rank graphs. We present a detailed analysis of when this occurs in certain rank 2 graphs. When the algebra is aperiodic, we give another proof of the simplicity of \ca(\Fth). The periodic C*-algebras are characterized, and it is shown that \ca(\Fth) \simeq \rC(\bT) \otimes \fA where \fA is a simple C*-algebra.

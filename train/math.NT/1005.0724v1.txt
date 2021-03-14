@@ -1,0 +1,1 @@
+Given three irreducible, admissible, infinite dimensional complex representations of GL2(F), with F a local field, the space of trilinear functionals invariant by the group has dimension at most one. When it is one we provide an explicit vector on which the functional does not vanish assuming that not all three representations are supercuspidal.

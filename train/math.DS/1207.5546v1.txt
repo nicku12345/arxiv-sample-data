@@ -1,0 +1,1 @@
+We prove that any C1-stably weakly shadowable volume-preserving diffeomorphism defined on a compact manifold displays a dominated splitting E + F. Moreover, both E and F are volume-hyperbolic. Finally, we prove the version of this result for divergence-free vector fields. As a consequence, in low dimensions, we obtain global hyperbolicity.

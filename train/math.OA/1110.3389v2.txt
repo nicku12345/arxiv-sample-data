@@ -1,0 +1,1 @@
+We use malleable deformations combined with spectral gap rigidity theory, in the framework of Popa's deformation/rigidity theory to prove unique tensor product decomposition results for II_1 factors arising as tensor product of wreath product factors. We also obtain a similar result regarding measure equivalence decomposition of direct products of such groups.

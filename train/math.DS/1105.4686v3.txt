@@ -1,0 +1,1 @@
+In this paper, we give a characterization of the action of any abelian subgroup G of GL(n, C) on C^n. We prove that any orbit of G is regular with order m<=2n. Moreover, we give a method to determine this order. In the other hand, we specify the region of all orbits which are isomorphic. If G is finitely generated, this characterization is explicit.

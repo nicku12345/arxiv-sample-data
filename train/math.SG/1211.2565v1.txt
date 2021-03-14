@@ -1,0 +1,1 @@
+Given a closed symplectic manifold, we study when the Lefschetz decomposition induced by the \mathfrak{sl}(2;\mathbb{R})-representation yields a decomposition of the de Rham cohomology. In particular, this holds always true for the second de Rham cohomology group, or if the symplectic manifold satisfies the Hard Lefschetz Condition.

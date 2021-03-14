@@ -1,0 +1,1 @@
+We analyze a family of singular Schr\"odinger operators describing a Neumann waveguide with a periodic array of singular traps of a \delta' type. We show that in the limit when perpendicular size of the guide tends to zero and the \delta' interactions are appropriately scaled, the first spectral gap is determined exclusively by geometric properties of the traps.

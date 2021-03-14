@@ -1,0 +1,1 @@
+We consider categories C_n, which are very close to the iterated version of Ind Pro limits introduced by A.Bejlinson in his article "How to glue perverse sheaves". We prove that the adelic space on n-dimensional noetherian scheme is an object of C_n.

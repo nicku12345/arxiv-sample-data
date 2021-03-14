@@ -1,0 +1,1 @@
+An \mathfrak{M}_C group is a group in which all chains of centralizers have finite length. In this article, we show that every nilpotent subgroup of an \mathfrak{M}_C group is contained in a definable subgroup which is nilpotent of the same nilpotence class. Definitions are uniform when the lengths of chains are bounded.

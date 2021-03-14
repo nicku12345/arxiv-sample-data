@@ -1,0 +1,1 @@
+The purpose of this short note is to illustrate the utility of (semi-) dendroidal objects in describing certain 'up-to-homotopy' operads. Specifically, we exhibit a semi-dendroidal space satisfying the Segal condition, whose evaluation at a k-corolla is the space of ordered configurations of k points in the n-dimensional unit ball.

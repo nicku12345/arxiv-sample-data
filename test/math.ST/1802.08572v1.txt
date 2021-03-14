@@ -1,0 +1,1 @@
+Using posterior distribution of Bayesian LASSO we construct a semi-norm on the parameter space. We show that the partition function depends on the ratio of the l 1 and l 2 norms and present three regimes. We derive the con- centration of Bayesian LASSO, and present MCMC convergence diagnosis.   Keywords: LASSO, Bayes, MCMC, log-concave, geometry, incomplete Gamma function

@@ -1,0 +1,1 @@
+An elementary proof is given for a theorem showing that certain birth-death chains show martingale-like behavior at large stopping times. This is a generalization of and new proof for a theorem from a earlier paper by the author.

@@ -1,0 +1,1 @@
+We define a class of "algebraic" random matrix channels for which one can generically compute the limiting Shannon transform using numerical techniques and often enumerate the low SNR series expansion coefficients in closed form. We describe this class, the coefficient enumeration techniques and compare theory with simulations.

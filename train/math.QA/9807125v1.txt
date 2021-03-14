@@ -1,0 +1,1 @@
+Using new q-functions recently introduced by Hatayama et al. and by (two of) the authors, we obtain an A_2 version of the classical Bailey lemma. We apply our result, which is distinct from the A_2 Bailey lemma of Milne and Lilly, to derive Rogers-Ramanujan-type identities for characters of the W_3 algebra.

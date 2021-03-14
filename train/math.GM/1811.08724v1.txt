@@ -1,0 +1,1 @@
+This paper clarifies the main research methods and ideas of the thesis [1,2,4]. The special calculation process is also realized by corresponding computer algorithm. Finally, we introduce zero rows sum case and give the corresponding algorithm, which greatly simplifies the relevant calculation of paper [1,4].

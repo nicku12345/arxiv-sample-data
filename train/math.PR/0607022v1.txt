@@ -1,0 +1,1 @@
+We estimate a median of f(X_t) where f is a Lipschitz function, X is a L\'evy process and t an arbitrary time. This leads to concentration inequalities for f(X_t). In turn, corresponding fluctuation estimates are obtained under assumptions typically satisfied if the process has a regular behavior in small time and a, possibly different, regular behavior in large time.

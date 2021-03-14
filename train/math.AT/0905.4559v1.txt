@@ -1,0 +1,1 @@
+We compute (algebraically) the Euler characteristic of a complex of sheaves with constructible cohomology. A stratified Poincar\'e-Hopf formula is then a consequence of the smooth Poincar\'e-Hopf theorem and of additivity of the Euler-Poincar\'e characteristic with compact supports, once we have a suitable definition of index.

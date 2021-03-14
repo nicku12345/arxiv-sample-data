@@ -1,0 +1,1 @@
+Let phi(n) be Euler's totient function and let sigma(n) be the sum of the positive divisors of n. We show that most phi-values (integers in the range of phi) are not sigma-values and vice versa.

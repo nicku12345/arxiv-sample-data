@@ -1,0 +1,1 @@
+We prove rapid decay (even exponential decay under some stronger assumptions) of the eigenfunctions associated to discrete eigenvalues, for a class of self-adjoint operators in L^2(\mathbb{R}^d) defined by ``magnetic'' pseudodifferential operators (studied in \cite{IMP1}). This class contains the relativistic Schr\"{o}dinger operator with magnetic field.

@@ -1,0 +1,1 @@
+The Illumination Problem may be phrased as the problem of covering a convex body in Euclidean n-space by a minimum number of translates of its interior. By a probabilistic argument, we show that, arbitrarily close to the Euclidean ball, there is a centrally symmetric convex body of illumination number exponentially large in the dimension.

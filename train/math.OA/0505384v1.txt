@@ -1,0 +1,1 @@
+We consider a class of quantum dissipative systems governed by a one parameter completely positive maps on a von-Neumann algebra. We introduce a notion of recurrent and metastable projections for the dynamics and prove that the unit operator can be decomposed into orthogonal projections where each projections are recurrent or metastable for the dynamics.

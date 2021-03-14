@@ -1,0 +1,1 @@
+Partial ordinary Bell polynomials are used to formulate and prove a version of the Fa\`{a} di Bruno's formula which is convenient for handling nonlinear terms in the differential transformation. Applicability of the result is shown in two examples of solving the initial value problem for differential equations which are nonlinear with respect to the dependent variable.

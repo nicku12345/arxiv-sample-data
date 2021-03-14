@@ -1,0 +1,1 @@
+The n-th order covariant derivative on a smooth manifold with an affine connection is a differential operator which turns a function into a tensor field of type (0,n). In this paper the properties of this operatior related to the permutation of indices are investigated by means of non-associative algebra. The general formula for commutation relations of this kind is obtained.

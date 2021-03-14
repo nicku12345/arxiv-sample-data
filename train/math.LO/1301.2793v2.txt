@@ -1,0 +1,1 @@
+A concept of abstract inductive definition on a complete lattice is formulated and studied. As an application, a constructive and predicative version of Tarski's fixed point theorem is obtained.

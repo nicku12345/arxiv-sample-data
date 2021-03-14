@@ -1,0 +1,1 @@
+We give a block decomposition of the dg category of character sheaves on a simple and simply-connected complex reductive group G, similar to the one in generalized Springer correspondence. As a corollary, we identify the category of character sheaves on G as the category of quasi-coherent sheaves on an explicitly defined derived stack \widehat{G}.

@@ -1,0 +1,1 @@
+We study the spectrum of the Finsler--Laplace operator for regular Hilbert geometries, defined by convex sets with C^2 boundaries. We show that for an n-dimensional geometry, the spectral gap is bounded above by (n-1)^2/4, which we prove to be the infimum of the essential spectrum. We also construct examples of convex sets with arbitrarily small eigenvalues.

@@ -1,0 +1,1 @@
+We calculate the second order derivatives of the Ronkin function in the case of an affine linear polynomial in three variables and give an expression of them in terms of complete elliptic integrals and hypergeometric functions. This gives a semi-explicit expression of the associated Monge-Amp\`ere measure, the Ronkin measure.

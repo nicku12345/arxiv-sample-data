@@ -1,0 +1,1 @@
+We introduce the notion of twisted jet on a Deligne-Mumford stack. and study the motivic measure on the space of the twisted \infty-jets on a smooth Deligne-Mumford stack.   As an application, we prove that two birational minimal models with Gorenstein quotient singularities have the same orbifold cohomology with Hodge structure.

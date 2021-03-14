@@ -1,0 +1,1 @@
+It is shown that the face ring of a pure simplicial complex modulo m generic linear forms is a ring with finite local cohomology if and only if the link of every face of dimension m or more is nonsingular.

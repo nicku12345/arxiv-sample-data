@@ -1,0 +1,1 @@
+For finitary regular monads T on locally finitely presentable categories we characterize the finitely presentable objects in the category of T-algebras in the style known from general algebra: they are precisely the algebras presentable by finitely many generators and finitely many relations.

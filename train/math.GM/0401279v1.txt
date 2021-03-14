@@ -1,0 +1,1 @@
+A recursive approach for shrinking coefficients of an atomic decomposition is proposed. The corresponding algorithm evolves so as to provide at each iteration a) the orthogonal projection of a signal onto a reduced subspace and b) the index of the coefficient to be disregarded in order to construct a coarser approximation minimizing the norm of the residual error.

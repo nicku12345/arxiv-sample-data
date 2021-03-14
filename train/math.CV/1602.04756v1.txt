@@ -1,0 +1,1 @@
+In this paper we prove some analogue of Wiman's type inequality for random analytic functions in the polydisc \mathbb{D}^p=\{z\in\mathbb{C}^p\colon |z_j|<1, j\in\{1,\ldots,p\}\},\ p\in\mathbb{Z}_+. The obtained inequality is sharp.

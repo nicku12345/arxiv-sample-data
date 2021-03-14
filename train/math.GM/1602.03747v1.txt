@@ -1,0 +1,1 @@
+In this paper, We have introduced a new class of sequences of fuzzy numbers defined by using modulus function and generalized weighted mean over the class defined in \cite{OS}. We have proved that this class form a quasilinear complete metric space under a suitable metric. Various inclusion relations and some properties such as solidness, symmetry are investigated.

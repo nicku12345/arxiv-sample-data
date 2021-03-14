@@ -1,0 +1,1 @@
+In this paper we describe a procedure to simplify any given triangulation of the 3-sphere using Pachner moves. We obtain an explicit exponential-type bound on the number of Pachner moves needed for this process. This leads to a new recognition algorithm for the 3-sphere.

@@ -1,0 +1,1 @@
+Lehner's 1949 results on the j-invariant showed high divisibility of the function's coefficients by the primes p\in\{2,3,5,7\}. Expanding his results, we examine a canonical basis for the space of level p modular functions holomorphic at the cusp 0. We show that the Fourier coefficients of these functions are often highly divisible by these same primes.

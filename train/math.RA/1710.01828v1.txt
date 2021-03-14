@@ -1,0 +1,1 @@
+We compute the graded automorphisms of the upper triangular matrices, viewed as associative, Lie and Jordan algebras. We compute also the so called self-equivalences and Weyl and diagonal groups for every grading.

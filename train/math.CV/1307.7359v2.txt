@@ -1,0 +1,1 @@
+We study the space of bandlimited Lipschitz functions in one variable. In particular we provide a geometrical description of the natural interpolating and sampling sequences for this space. We also find a description of the trace of such functions to sequences of critical density in terms of a cancellation condition.

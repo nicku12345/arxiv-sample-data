@@ -1,0 +1,1 @@
+We derive the polynomial representations for minimal relations of generating set of numerical semigroups R_n^k=<(n-1)^k,n^k,(n+1)^k>, k=2,3,4, n>2. We find also the polynomial representations for degrees of syzygies in the Hilbert series H(z,R_n^k) of these semigroups, their Frobenius numbers F(R_n^k) and genera G(R_n^k).

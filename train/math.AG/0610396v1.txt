@@ -1,0 +1,1 @@
+In his previous paper, the author has defined a higher version of the Nash blowup and considered it a possible candidate for the one-step resolution. In this paper, we will introduce another higher version of the Nash blowup and prove that it is compatible with products and smooth morphisms. We will also prove that the product of curves can be desingularized via both versions.

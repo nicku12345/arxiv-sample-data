@@ -1,0 +1,1 @@
+In this note we work on the construction of positive preserving numerical schemes for systems of stochastic differential equations. We use the semi discrete idea that we have proposed before proposing now a numerical scheme that preserves positivity on multidimensional stochastic differential equations converging strongly in the mean square sense to the true solution.

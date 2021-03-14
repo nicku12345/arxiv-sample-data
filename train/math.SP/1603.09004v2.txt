@@ -1,0 +1,1 @@
+Orthogonal decomposition of tensors is a generalization of the singular value decomposition of matrices. In this paper, we study the spectral theory of orthogonally decomposable tensors. For such a tensor, we give a description of its singular vector tuples as a variety in a product of projective spaces.

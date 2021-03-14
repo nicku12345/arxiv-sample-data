@@ -1,0 +1,1 @@
+We formulate (and prove under a certain assumption) a conjecture relating the order of Somekawa's Milnor K-group attached to a torus T and the value of the Artin L-function attached to the cocharacter group of T (regarded as an Artin representation) at s=-1. The case T=\G_m reduces to the classical Birch-Tate conjecture.

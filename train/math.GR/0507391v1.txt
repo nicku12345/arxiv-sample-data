@@ -1,0 +1,1 @@
+Let G be a finite group. We let \f{m}(G) and \sig(G) denote the number of maximal subgroups of G and the least positive integer n such that G is written as the union of n proper subgroups, respectively. In this paper we determine the structure of G/\Phi(G) when G is a finite soluble group with \f{m}(G)\leq 2\sig(G).

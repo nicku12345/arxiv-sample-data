@@ -1,0 +1,1 @@
+In this note we show that every Kirchberg algebra in the UCT class is the C^{\ast}-algebra of a Hausdorff, ample, amenable and locally contracting groupoid. The non-unital case follows from Spielberg's graph-based models for Kirchberg algebras. Our contribution is the unital case and our proof builds on Spielberg's construction.

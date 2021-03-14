@@ -1,0 +1,1 @@
+We formulate and prove a combinatorial criterion to decide if an A-hypergeometric system of differential equations has a full set of algebraic solutions or not. This criterion generalises the so-called interlacing criterion in the case of hypergeometric functions of one variable.

@@ -1,0 +1,1 @@
+We produce a complete descrption of the lattice of gauge-invariant ideals in C^*(\Lambda) for a finitely aligned k-graph \Lambda. We provide a condition on \Lambda under which every ideal is gauge-invariant. We give conditions on \Lambda under which C^*(\Lambda) satisfies the hypotheses of the Kirchberg-Phillips classification theorem.

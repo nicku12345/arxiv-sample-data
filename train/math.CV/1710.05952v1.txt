@@ -1,0 +1,1 @@
+It is well-known that two locally univalent analytic functions \varphi and \psi have equal Schwarzian derivative if and only if there exists a non-constant M\"obius transformation T such that \varphi=T\circ \psi. In this paper, we identify completely the relationship between two locally univalent harmonic mappings with equal (harmonic) Schwarzian derivative.

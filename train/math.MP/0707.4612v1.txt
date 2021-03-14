@@ -1,0 +1,1 @@
+We study the Hartree-Fock model for pseudorelativistic atoms, that is, atoms where the kinetic energy of the electrons is given by the pseudorelativistic operator \sqrt{(pc)^2+(mc^2)^2}-mc^2. We prove the existence of a Hartree-Fock minimizer, and prove regularity away from the nucleus and pointwise exponential decay of the corresponding orbitals.

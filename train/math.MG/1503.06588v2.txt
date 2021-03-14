@@ -1,0 +1,1 @@
+We show that, for all \alpha\geq 0, the generalized Grushin plane \mathbb{G}_{\alpha} is bi-Lipschitz homeomorphic to a 2-dimensional quasiplane in the Euclidean space \mathbb{R}^{[\alpha ]+2}, where [\alpha] is the integer part of \alpha. The target dimension is sharp. This generalizes a recent result of Wu.

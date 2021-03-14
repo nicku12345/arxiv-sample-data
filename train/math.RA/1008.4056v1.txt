@@ -1,0 +1,1 @@
+This note presents some results on projective modules and the Grothendieck groups K_0 and G_0 for Frobenius algebras and for certain Hopf Galois extensions. Our principal technical tools are the Higman trace for Frobenius algebras and a product formula for Hattori-Stallings ranks of projectives over Hopf Galois extensions.

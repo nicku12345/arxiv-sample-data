@@ -1,0 +1,1 @@
+In this paper, we sharpen and simplify our earlier results based on Thue's Fundamentaltheorem and use it to obtain effective irrationality measures for certain roots of polynomials of the form (x-\sqrt{t})^{n}+(x+\sqrt{t})^{n}, where n \geq 4 is a positive integer and t is a negative integer. For n=4 and n=5, we find infinitely many such algebraic numbers.

@@ -1,0 +1,1 @@
+We compare the flat geometry associated to a quadratic differential with the hyperbolic geometry associated to the underlying Riemann surface. We show that if a curve is contained in a thick subsurface, then its hyperbolic length is comparable to its flat length times the flat size of the subsurface.

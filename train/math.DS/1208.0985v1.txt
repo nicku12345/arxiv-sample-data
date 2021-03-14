@@ -1,0 +1,1 @@
+Homotopy Brouwer theory is a tool to study the dynamics of surface homeomorphisms. We introduce and illustrate the main objects of homotopy Brouwer theory, and provide a proof of Handel's fixed point theorem. These are the notes of a mini-course held during the workshop "Superficies en Montevideo" in March 2012.

@@ -1,0 +1,1 @@
+We prove that on separated algebraic surfaces every coherent sheaf is a quotient of a locally free sheaf. This class contains many schemes that are neither normal, reduced, quasiprojective or embeddable into toric varieties. Our methods extend to arbitrary 2-dimensional schemes that are proper over a noetherian ring.

@@ -1,0 +1,1 @@
+We calculate Connes' invariant \chi(M) for certain II_1 factors M that can be obtained as inductive limits of subfactors with spectral gap, then use this to answer a question he posed in 1975, on the structure of McDuff factors M with \chi(M)=1.

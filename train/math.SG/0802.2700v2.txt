@@ -1,0 +1,1 @@
+For any vector r=(r_1,..., r_n), let M_r denote the moduli space (under rigid motions) of polygons in \mathbb{R}^3 with n-sides whose lengths are r_1,...,r_n. We give an explicit characterization of the oriented S^1-cobordism class of M_r which depends uniquely on the length vector r.

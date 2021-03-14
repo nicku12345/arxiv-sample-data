@@ -1,0 +1,1 @@
+We study linear operators T on Banach spaces for which there exists a C_0-semigroup (T(t))_{t\geq 0} such that T=T(1). We present a necessary condition in terms of the spectral value 0 and give classes of examples where this can or cannot be achieved.

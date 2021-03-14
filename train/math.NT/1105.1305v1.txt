@@ -1,0 +1,1 @@
+We describe the structure of a set of integers A of positive density \delta, such that A+A contains no squarefree integer. It turns out that the behaviour changes abruptly at the values \delta_0=1/4-\frac{2}{\pi^2}=0.0473... and \delta_1=1/18.

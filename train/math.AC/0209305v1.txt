@@ -1,0 +1,1 @@
+We define a closure operation for ideals in a commutative ring which has all the good properties of solid closure (at least in the case of equal characteristic) but such that also every ideal in a regular ring is closed. This gives in particular a kind of tight closure theory in characteristic zero without referring to positive characteristic.

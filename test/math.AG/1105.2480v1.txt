@@ -1,0 +1,1 @@
+Let f be a germ of complex analytic function at ({\mathbf{C}}^{d+1}, 0) such that its zero level defines an irreducible germ of quasi-ordinary hypersurface (S,0). We describe the motivic Igusa zeta function, the motivic Milnor fibre and the Hodge-Steenbrink spectrum of f at 0 in terms of topological invariants of the quasi-ordinary hypersurface (S,0).

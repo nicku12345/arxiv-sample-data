@@ -1,0 +1,1 @@
+We determine the least-area unit-volume tetrahedral tile of Euclidean space, without the constraint of Gallagher et al. that the tiling uses only orientation-preserving images of the tile. The winner remains Sommerville's type 4v.

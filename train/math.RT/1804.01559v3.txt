@@ -1,0 +1,1 @@
+We study special idempotents (as described by Bushnell and Kutzko) and split idempotents in the context of module and derived categories for idempotented algebras. We then characterize these concepts for path algebras of quivers.

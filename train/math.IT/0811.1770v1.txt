@@ -1,0 +1,1 @@
+A generalization of Ar\i kan's polar code construction using transformations of the form G^{\otimes n} where G is an \ell \times \ell matrix is considered. Necessary and sufficient conditions are given for these transformations to ensure channel polarization. It is shown that a large class of such transformations polarize symmetric binary-input memoryless channels.

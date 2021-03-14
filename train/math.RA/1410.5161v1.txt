@@ -1,0 +1,1 @@
+The aim of this paper is to define and study Drinfeld twists for monoidal Hom-bialgebras. We show that a new Hom-bialgebra could be constructed by changing the coproduct of a monoidal Hom-bialgebra via a Drinfeld twist, and this construction preserves R-matrixes if there exist one. Moreover, their representation categories are monoidal isomorphic.

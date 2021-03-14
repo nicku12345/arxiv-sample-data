@@ -1,0 +1,1 @@
+We generalize the van Kampen theorem for unions of non-connected spaces, due to R. Brown and A. R. Salleh, to the context where families of subspaces of a space B are replaced by a locally sectionable map to B.

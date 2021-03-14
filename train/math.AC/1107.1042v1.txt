@@ -1,0 +1,1 @@
+If A is a smooth algebra of dimension d (greater or equal to 2) over a perfect field k of characteristic different from 2, then we show that the universal Mennicke symbol of length d+1 is isomorphic to some K-cohomology group. When k is algebraically closed and S is a smooth surface, we further prove an analogue of the classical Bass-Kubota theorem for curves.

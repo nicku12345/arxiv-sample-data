@@ -1,0 +1,1 @@
+We prove that if p is a selective ultrafilter then {\mathbb Q}^{(\kappa)} has a p-compact group topology without non-trivial convergent sequences, for each infinite cardinal \kappa =\kappa^\omega. In particular, this gives the first arbitrarily large examples of countably compact groups without non-trivial convergent sequences that are torsion-free.

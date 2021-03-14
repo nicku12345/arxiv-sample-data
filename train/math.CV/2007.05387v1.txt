@@ -1,0 +1,1 @@
+We construct an entire function f with only three singular values whose order of growth can change under a quasiconformal equivalence. This is a counterexample to the Order Conjecture in the Speiser class {\mathcal S} of entire functions.

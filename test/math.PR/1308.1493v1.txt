@@ -1,0 +1,1 @@
+New results on uniform convergence in probability for expansions of Gaussian random processes using compactly supported wavelets are given. The main result is valid for general classes of nonstationary processes. An application of the obtained results to stationary processes is also presented. It is shown that the convergence rate of the expansions is exponential.

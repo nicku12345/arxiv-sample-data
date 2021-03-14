@@ -1,0 +1,1 @@
+In this paper, we compare several functors which take simplicial categories or model categories to complete Segal spaces, which are particularly nice simplicial spaces which, like simplicial categories, can be considered to be models for homotopy theories. We then give a characterization, up to weak equivalence, of complete Segal spaces arising from these functors.

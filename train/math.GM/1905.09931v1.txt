@@ -1,0 +1,1 @@
+Dual numbers and their higher order version are important tools for numerical computations, and in particular for finite difference calculus. Based upon the relevant algebraic rules and matrix realizations of dual numbers, we will present a novel point of view, embedding dual numbers within a formalism reminiscent of operational umbral calculus.

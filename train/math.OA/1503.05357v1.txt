@@ -1,0 +1,1 @@
+We prove that, given any smooth action of a compact quantum group (in the sense of \cite{rigidity}) on a compact smooth manifold satisfying some more natural conditions, one can get a Riemannian structure on the manifold for which the corresponding C^\infty(M)-valued inner product on the space of one-forms is preserved by the action.

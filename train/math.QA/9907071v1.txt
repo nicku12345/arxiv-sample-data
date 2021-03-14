@@ -1,0 +1,1 @@
+Delta finite-type invariants are defined analogously to finite-type invariants, using delta moves instead of crossing changes. We show that they are closely related to the lower central series of the commutator subgroup of the pure braid group.

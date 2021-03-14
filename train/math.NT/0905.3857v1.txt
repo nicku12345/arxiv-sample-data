@@ -1,0 +1,1 @@
+In this paper, we prove that a binary definite quadratic form over F_q[t], where q is odd, is completely determined up to equivalence by the polynomials it represents up to degree 3m-2, where m is the degree of its discriminant. We also characterize, when q>13, all the definite binary forms over F_q[t] that have class number one.

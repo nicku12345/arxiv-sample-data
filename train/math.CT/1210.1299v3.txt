@@ -1,0 +1,1 @@
+This work connects the idea of a "blow-up" of a quiver with that of injectivity, showing that for a class of monic maps \Phi, a quiver is \Phi-injective if and only if all blow-ups of it are as well. This relationship is then used to characterize all quivers that are injective with respect to the natural embedding of P_{n} into C_{n}.

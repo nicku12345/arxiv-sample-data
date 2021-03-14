@@ -1,0 +1,1 @@
+We study ordinary differential equations of the type u^{(n)}(t)=f(u(t)) with initial conditions u(0) = u'(0) =... = u^{(m-1)}(0) = 0  and u^{(m)}(0) \neq 0 where m \geq n, no additional assumption is made on f. We establish some uniqueness results and show that f is always H\"older continuous.

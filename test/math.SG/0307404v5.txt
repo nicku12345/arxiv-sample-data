@@ -1,0 +1,1 @@
+We compute the Riemannian volume on the moduli space of flat connections on a nonorientable 2-manifold, for a natural class of metrics. We also show that Witten's volume formula for these moduli spaces may be derived using Haar measure, and we give a new proof of Witten's volume formula for the moduli space of flat connections on an orientable surface using Haar measure.

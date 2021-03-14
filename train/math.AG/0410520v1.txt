@@ -1,0 +1,1 @@
+We describe the space of projective planes of complex skew-symmetric matrices of order six and constant rank four. We prove that it has four connected components, all of dimension 26 and homogeneous under the action of PGL_6.

@@ -1,0 +1,1 @@
+We characterize pairs (Q,d) consisting of a quiver Q and a dimension vector d, such that over a given algebraically closed field k there are infinitely many representations of Q of dimension vector d. We also present an application of this result to the study of algebras with finitely many orbits with respect to the action of (the double product) of the group of units.

@@ -1,0 +1,1 @@
+The notion of a pseudoknot is defined as an equivalence class of knot diagrams that may be missing some crossing information. We provide here a topological invariant schema for pseudoknots and their relatives, 4-valent rigid vertex spatial graphs and singular knots, that is obtained by replacing unknown crossings or vertices by rational tangles.

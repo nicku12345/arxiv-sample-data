@@ -1,0 +1,1 @@
+The Schur algebra is the algebra of operators which are bounded on l^1 and on l^{\infty}. Q. Sun conjectured that the Schur algebra is inverse-closed. In this note, we disprove this conjecture. Precisely, we exhibit an operator in the Schur algebra, invertible in l^2, whose inverse is not bounded on l^1 nor on l^{\infty}.

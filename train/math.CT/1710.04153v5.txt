@@ -1,0 +1,1 @@
+Let R be an associative ring with unit. This paper deals with various aspects of the category of functors of \mathcal R-modules; that is, the category of additive and covariant functors from the category of R-modules to the category of abelian groups. We give several characterizations of left-exact Mittag-Leffler functors of \mathcal R-modules.

@@ -1,0 +1,1 @@
+We prove that Bethe vectors generically form a base in a tensor product of irreducible heighest weight gl_2-modules or U_q(gl_2)-modules. We apply this result to difference equations with regular singular points. We show that if such an equation has local solutionss at each of its singular point, then generically it has a polynomial solution.

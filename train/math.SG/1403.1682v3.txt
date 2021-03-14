@@ -1,0 +1,1 @@
+We prove a Fr\"olicher-type inequality for a compact generalized complex manifold M, and show that the equality holds if and only if M satisfies the generalized \partial\bar{\partial}-Lemma. In particular, this gives a unified proof of analogous results in the complex and symplectic cases.

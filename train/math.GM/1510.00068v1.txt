@@ -1,0 +1,1 @@
+In this article we give solution of the general quintic equation by means of the Rogers-Ramanujan continued fraction. More precisely we express a root of the quintic as a known algebraic function of the Rogers-Ramanujan continued fraction.

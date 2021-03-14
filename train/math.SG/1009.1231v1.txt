@@ -1,0 +1,1 @@
+We previously extended the Marsden-Ratiu reduction theorem in Poisson geometry by means of graded geometry (see Part I of Arxiv:1009.0948) . In this note we provide the background material about graded geometry necessary for the proof. Further, we provide an alternative algebraic proof.

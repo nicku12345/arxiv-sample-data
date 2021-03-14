@@ -1,0 +1,1 @@
+We show, at the prime 2, that the Picard group of invertible modules over E_n^{hC_2} is cyclic. Here, E_n is the height n Lubin--Tate spectrum and its C_2-action is induced from the formal inverse of its associated formal group law. We further show that E_n^{hC_2} is Gross--Hopkins self-dual and determine the exact shift. Our results generalize the well-known results when n = 1.

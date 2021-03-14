@@ -1,0 +1,1 @@
+We adapt Quillen's calculation of graded K-groups of   Z-graded rings with support in N to graded   K-theory, allowing gradings in a product Z \times G with G an arbitrary group. This in turn allows us to use inductions and calculate graded K-theory of Z^m-graded rings. Here Z is the ring of integers and N positive natural numbers.

@@ -1,0 +1,1 @@
+We formulate and prove the existence and uniqueness of the generalized Fourier transform associated with the absolutely continuous part of an arbitrary selfadjoint operator on a separable Hilbert space. To this end we develop a novel method to decompose an absolutely continuous operator into a variable fiber direct integral of selfadjoint operators.

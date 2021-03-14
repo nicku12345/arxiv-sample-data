@@ -1,0 +1,1 @@
+One proves that the stochastic porous media equation in 3-D has a unique nonnegative solution for nonnegative initial data in H^{-1}(\mathcal O) if the nonlinearity is monotone and has polynomial growth.

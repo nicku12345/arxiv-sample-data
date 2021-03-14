@@ -1,0 +1,1 @@
+Inspired by Sun's breakthrough in establishing the nonvanishing hypothesis for Rankin-Selberg convolutions for the groups \mathrm{GL}_n (\mathbb R)\times \mathrm{GL}_{n-1} (\mathbb R) and \mathrm{GL}_n (\mathbb C)\times \mathrm{GL}_{n-1} (\mathbb C), we confirm it for \mathrm{GL}_{n} (\mathbb C)\times \mathrm{GL}_n (\mathbb C) at the central critical point.

@@ -1,0 +1,1 @@
+Given a null-cobordant oriented framed link L in a closed oriented 3--manifold M, we determine those links in M \setminus L which can be realized as the singular point set of a generic map M \to \mathbb{R}^2 that has L as an oriented framed regular fiber. Then, we study the linking behavior between the singular point set and regular fibers for generic maps of M into \mathbb{R}^2.

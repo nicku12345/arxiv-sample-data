@@ -1,0 +1,1 @@
+For a stratified group G, we construct a class of polarised Lie groups, which we call modifications of G, that are locally contactomorphic to it. Vice versa, we show that if a polarised group is locally contactomorphic to a stratified group G, whose Lie algebra has finite Tanaka prolongation, then it must be a modification of G.

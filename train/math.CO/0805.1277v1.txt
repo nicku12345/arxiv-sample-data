@@ -1,0 +1,1 @@
+In this note, a new concept called {\em SDR-matrix} is proposed, which is an infinite lower triangular matrix obeying the generalized rule of David star. Some basic properties of SDR-matrices are discussed and two conjectures on SDR-matrices are presented, one of which states that if a matrix is a SDR-matrix, then so is its matrix inverse (if exists).

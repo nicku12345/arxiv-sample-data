@@ -1,0 +1,1 @@
+A convex polygon Q is circumscribed about a convex polygon P if every vertex of P lies on at least one side of Q. We present an algorithm for finding a maximum area convex polygon circumscribed about any given convex n-gon in O(n^3) time. As an application, we disprove a conjecture of Farris. Moreover, for the special case of regular n-gons we find an explicit solution.

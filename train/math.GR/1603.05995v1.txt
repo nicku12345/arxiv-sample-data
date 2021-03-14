@@ -1,0 +1,1 @@
+For a compact convex subset K with non-empty interior in a finite-dimensional vector space, let G be the group of all smooth diffeomorphisms of K which fix the boundary of K pointwise. We show that G is a C^0-regular infinite-dimensional Lie group. As a byproduct, we obtain results concerning solutions to ordinary differential equations on compact convex sets.

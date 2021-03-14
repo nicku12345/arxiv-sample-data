@@ -1,0 +1,1 @@
+We calculate the intersection ring of three-dimensional graph manifolds with rational coefficients and give an algebraic characterization of these rings when the manifold's underlying graph is a tree. We are able to use this characterization to show that the intersection ring obstructs arbitrary three-manifolds from being homology cobordant to certain graph manifolds.

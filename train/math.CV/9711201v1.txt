@@ -1,0 +1,1 @@
+The d-bar-Neumann operator on (0,q)-forms (1\le q \le n) on a bounded convex domain Omega in C^n is compact if and only if the boundary of Omega contains no complex analytic (equivalently: affine) variety of dimension greater than or equal to q.

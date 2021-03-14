@@ -1,0 +1,1 @@
+This paper introduces a notion of 2-orthogonality for a sequence of polynomials to give extended versions of the Meixner and Feinsilver characterization results based on orthogonal polynomials. These new versions subsume the Letac-Mora characterization of the real natural exponential families having cubic variance function.

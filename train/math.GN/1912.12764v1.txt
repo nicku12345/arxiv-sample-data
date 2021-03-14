@@ -1,0 +1,1 @@
+In this note we show that if G is a countably infinite abelian group such that nG=0 for some integer n, then the only locally minimal group topology on G is the discrete one.

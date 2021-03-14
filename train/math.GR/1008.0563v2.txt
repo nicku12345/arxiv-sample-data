@@ -1,0 +1,1 @@
+An action of a group on a set is called k-transitive if it is transitive on ordered k-tuples and highly transitive if it is k-transitive for every k. We show that for n>3 the group Out(Fn) = Aut(Fn)/Inn(Fn) admits a faithful highly transitive action on a countable set.

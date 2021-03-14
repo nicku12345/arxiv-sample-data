@@ -1,0 +1,1 @@
+A Jacobi matrix with a_n\to 1, b_n\to 0 and spectral measure \nu'(x)dx + d\nu_{sing}(x) satisfies the Szeg\H o condition if \int_{0}^\pi \ln \bigl[ \nu'(2\cos\theta) \bigr] d\theta is finite. We prove that if a_n = 1 + \frac {\alpha}{n} + O(n^{-1-\eps}) and b_n = \frac {\beta}{n} + O(n^{-1-\eps}) with 2\alpha \ge |\beta| and \eps>0, then the corresponding matrix is Szeg\H o.

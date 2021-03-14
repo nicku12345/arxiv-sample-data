@@ -1,0 +1,1 @@
+We prove in particular that the Lipschitz-free space over a finitely-dimensional normed space is complemented in its bidual. For Euclidean spaces the norm of the respective projection is 1. As a tool to obtain the main result we establish several facts on the structure of finitely additive measures on finitely-dimensional spaces.

@@ -1,0 +1,1 @@
+Let k be the function field of a complex curve or the field C((t)). We show that for a smooth complete intersection X of r hypersurfaces in P^n_k of respective degrees d_1,...,d_r with \sum d_i^2\leq n+1 the R-equivalence on rational points of X is trivial and the Chow group of zero-cycles of degree zero A_0(X) is zero.

@@ -1,0 +1,1 @@
+We introduce a \sigma-ideal on \omega_1 \times \omega_1 and a filter on the collection of graphs of strictly decreasing partial functions on \omega_1 taking values in \omega_1. We use them to prove that a certain space is a non-bisequential Eberlein compactum.

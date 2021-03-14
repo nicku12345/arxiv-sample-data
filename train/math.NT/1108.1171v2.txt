@@ -1,0 +1,1 @@
+For a positive integer n let H_n=\sum_{k=1}^{n}1/k be the nth harmonic number. In this note we prove that for any prime p\ge 7,    \sum_{k=1}^{p-1}\frac{H_k^2}{k^2} \equiv4/5pB_{p-5}\pmod{p^2},    which confirms the conjecture recently proposed by Z. W. Sun. Furthermore, we also prove two similar congruences modulo p^2.

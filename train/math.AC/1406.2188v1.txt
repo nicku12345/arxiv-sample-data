@@ -1,0 +1,1 @@
+Generalizing techniques that prove that Veronese subrings are Koszul, we show that Rees and multi-Rees algebras of certain types of principal strongly stable ideals are Koszul. We provide explicit Gr\"obner basis for the defining ideals of these multi-Rees algebras with squarefree initial monomials, to show that they are also normal Cohen-Macaulay domains.

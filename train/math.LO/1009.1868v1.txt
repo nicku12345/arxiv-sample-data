@@ -1,0 +1,1 @@
+We adapt Streicher and Kohlenbach's proof of the factorization S = KD of the Shoenfield translation S in terms of Krivine's negative translation K and the G\"odel functional interpretation D, obtaining a proof of the factorization U = KB of Ferreira's Shoenfield-like bounded functional interpretation U in terms of K and Ferreira and Oliva's bounded functional interpretation B.

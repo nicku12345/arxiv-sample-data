@@ -1,0 +1,1 @@
+It is known that, for C an abelian category and I small, the functor category C^I is again abelian; thus we can do homology in such categories, and examine how it relates to homology in C itself. However, there does not seem to be any good reference collecting these ideas together. This article seeks to fill the gap by showing that homology in C^I behaves as one would expect.

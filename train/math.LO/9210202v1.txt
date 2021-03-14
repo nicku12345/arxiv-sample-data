@@ -1,0 +1,1 @@
+We use the Sigma^1_3 absoluteness theorem to show that the complexity of the statement "(omega,E) is isomorphic to an initial segment of the core model" is Pi^1_4, and that the complexity of the statement "(omega,E) is isomorphic to a member of the core model" is Delta^1_5.

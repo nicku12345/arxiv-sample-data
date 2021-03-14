@@ -1,0 +1,1 @@
+In the paper we consider T_{1},..., T_{d} absolute contractions of von Neumann algebra \M with normal, semi-finite, faithful trace, and prove that for every bounded Besicovitch weight \{a(\kb)\}_{\kb\in\bn^d} and every x\in L_{p}(\M), (p>1) the averages   A_{\Nb}(x)=\frac{1}{|\Nb|}\sum\limits_{\kb=1}^{\Nb}a(\kb)\Tb^{\kb}(x). converge bilaterally almost uniformly in L_{p}(\M).

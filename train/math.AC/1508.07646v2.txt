@@ -1,0 +1,1 @@
+We study the lattice of divisor-closed submonoids of finitely generated cancellative commutative monoids. In case the monoid is an affine semigroup, we give a geometrical characterization of such submonoids in terms of its cone. Finally, we use our results to give an algorithm for computing \Delta^*(H) the set of minimal distance of H.

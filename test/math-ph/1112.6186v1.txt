@@ -1,0 +1,1 @@
+We study the Wick symbol of a solution of the time dependent Hartree Fock equation, under weaker hypotheses than those needed for the Weyl symbol in the first paper with thesame title. With similar, we prove some kind of Ehrenfest theorem for observables that are not pseudo-differential operators.

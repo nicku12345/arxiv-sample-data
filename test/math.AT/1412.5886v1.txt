@@ -1,0 +1,1 @@
+In this note, we explain how the f-invariant of a circle transfer can be computed on the framed manifold itself in terms of the spectral asymmetry of twisted Dirac operators on the base. Some explicit examples and a treatment of the quaternionic case are provided as well.

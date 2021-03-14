@@ -1,0 +1,1 @@
+We prove the following: (a) Let X be a smooth, codimension two subvariety of P6. If X lies on a hyperquintic or if deg(X)<74, then X is a complete intersection. (b) Let X be a smooth, subcanonical threefold in P5. If X lies on a hyperquartic, then X is a complete intersection.

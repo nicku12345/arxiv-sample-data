@@ -1,0 +1,1 @@
+We derive a central limit theorem for sums of a function of independent sums of independent and identically distributed random variables. In particular we show that previously known result from Rempa\la and Weso\lowski (Statist. Probab. Lett. 74 (2005) 129--138), which can be obtained by applying the logarithm as the function, holds true under weaker assumptions.

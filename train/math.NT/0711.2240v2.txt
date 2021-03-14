@@ -1,0 +1,1 @@
+Let q be a large prime number, a be any integer, \epsilon be a fixed small positive quantity. Friedlander and Shparlinksi \cite{FSh} have shown that there exists a positive integer n\ll q^{5/2+\epsilon} such that \phi(n) falls into the residue class a \pmod q. Here, \phi(n) denotes Euler's function. In the present paper we improve this bound to n\ll q^{2+\epsilon}.

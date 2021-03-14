@@ -1,0 +1,1 @@
+It is proven that every flat connection or covariant derivative \nabla on a left A-module M (with respect to the universal differential calculus) induces a right A-module structure on M so that \nabla is a bimodule connection on M or M is a flat differentiable bimodule. Similarly a flat hom-connection on a right A-module M induces a compatible left A-action.

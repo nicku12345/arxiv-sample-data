@@ -1,0 +1,1 @@
+We show that a Kirchberg algebra is semiprojective if and only if it is KK-semiprojective. In particular, this shows that a Kirchberg algebra in the UCT-class is semiprojective if and only if its K-theory is finitely generated, thereby giving a positive solution to a longstanding conjecture by Blackadar.

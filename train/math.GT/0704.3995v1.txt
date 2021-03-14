@@ -1,0 +1,1 @@
+Cocycles are constructed by polynomial expressions for Alexander quandles. As applications, non-triviality of some quandle homology groups are proved, and quandle cocycle invariants of knots are studied. In particular, for an infinite family of quandles, the non-triviality of quandle homology groups is proved for all odd dimensions.

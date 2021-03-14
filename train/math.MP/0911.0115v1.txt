@@ -1,0 +1,1 @@
+Discrete time dynamics on the SU(1,1) group is studied. It is shown that a map acting in the dual space is the stroboscopic map for a SU(1,1) Bloch equation. Exact solution of the map is used to elucidate the corresponding dynamics. It is shown that dynamics of the SU(1,1) Bloch equation in the elliptic case bears close analogy to the SU(2) Bloch dynamics.

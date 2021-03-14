@@ -1,0 +1,1 @@
+Let R=k[x_1,..., x_n] be a polynomial ring over a field k of characteristic p>0, and let I=(f_1,...,f_s) be an ideal of R. We prove that every associated prime P of H^i_I(R) satisfies \text{dim}R/P\geqslant n-\sum\text{deg}f_i. In characteristic 0 the question is open.

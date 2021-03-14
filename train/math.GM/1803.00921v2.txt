@@ -1,0 +1,1 @@
+We derive a formula for the evaluation of weighted generalized Fibonacci sums of the type S_k^n (w,r) = \sum_{j = 0}^k {w^j j^r G_j{}^n }. Several explicit evaluations are presented as examples.

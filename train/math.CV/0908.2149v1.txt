@@ -1,0 +1,1 @@
+We prove that CR lines in an exponentially degenerate boundary are propagators of holomorphic extension. This explains, in the context of the CR geometry, why in this situation the induced Kohn-Laplacian \Box_b is not hypoelliptic according to recent work by Christ.

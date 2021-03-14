@@ -1,0 +1,1 @@
+We continue our investigation on pcf with weak form of choice. Characteristically we assume DC + P(Y) when looking and prod_{s in Y} delta_s. We get more parallel of theorems on pcf.

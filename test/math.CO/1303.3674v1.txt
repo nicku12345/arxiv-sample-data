@@ -1,0 +1,1 @@
+In this paper we prove that a finite triangulation of a connected closed surface is completely determined by its intersection matrix. The \emph{intersection matrix} of a finite triangulation, K, is defined as M_{K}=(dim(s_{i}\cap s_{j}))_{0\leq i,0\leq j}^{n-1}, where K_{2}=\{s_{0}, \ldots s_{n-1}\} is a labelling of the triangles of K.

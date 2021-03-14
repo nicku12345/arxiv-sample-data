@@ -1,0 +1,1 @@
+We study the p-adic deformation properties of algebraic cycle classes modulo rational equivalence. We show that the crystalline Chern character of a vector bundle lies in a certain part of the Hodge filtration if and only if, rationally, the class of the vector bundle lifts to a formal pro-class in K-theory on the p-adic scheme.

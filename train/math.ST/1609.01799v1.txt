@@ -1,0 +1,1 @@
+A holonomic system for the probability density function of the largest eigenvalue of a non-central complex Wishart distribution with identity covariance matrix is derived. Furthermore a new determinantal formula for the probability density function is derived (for m=2,3) or conjectured.

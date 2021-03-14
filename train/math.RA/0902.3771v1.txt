@@ -1,0 +1,1 @@
+An algebra with identities a\circ(b\circ c-c\circ b)=(a\circ b)\circ c-(a\circ c)\circ b and a\circ(b\circ c)=b\circ(a\circ c) is called Novikov. We show that Novikov operad is not Koszul.

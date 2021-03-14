@@ -1,0 +1,1 @@
+We will prove a reverse Rogers-Shephard inequality for log-concave functions. In some particular cases, the method used for general log-concave functions can be slightly improved, allowing us to prove volume estimates for polars of \ell_p-diferences of convex bodies whose polar bodies under some condition on the barycenter of their polar bodies.

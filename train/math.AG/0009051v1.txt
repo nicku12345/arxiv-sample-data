@@ -1,0 +1,1 @@
+A group action on a smooth variety provides it with the natural stratification by irreducible components of the fixed point sets of arbitrary subgroups. We show that the corresponding maximal wonderful blowup in the sense of MacPherson-Procesi has only abelian stabilizers. The result is inspired by the abelianization algorithm of Batyrev.

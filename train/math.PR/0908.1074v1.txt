@@ -1,0 +1,1 @@
+In this paper we prove a criterion of convergence in distribution in Skorokhod space. We apply this criterion to some special Levy processes and obtain almost-sure versions of limit theorems for these processes.

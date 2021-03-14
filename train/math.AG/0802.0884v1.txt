@@ -1,0 +1,1 @@
+Let X be a complex nonsingular projective 3-fold of general type. We show that there are positive constants c, c' and m_1 such that \chi (\omega _X)\geq -c\Vol (X) and P_m(X)\geq c'm^3\Vol (X) for all m\geq m_1.

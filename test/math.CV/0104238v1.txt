@@ -1,0 +1,1 @@
+We show that on the curves y=e^{t(x)} where t(x) is a fixed polynomial, there holds a tangential Markov inequality of exponent four. Specifically, for the real interval [a,b] there is a constant C such that max_{x\in [a,b]}|\frac{d}{dx}P(x,e^{t(x)})|\leq C(deg(P))^{4} max_{x\in [a,b]}|P(x,e^{t(x)})| for all bivariate polynomials P(x,y).

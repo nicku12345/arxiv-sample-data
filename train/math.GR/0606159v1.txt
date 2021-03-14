@@ -1,0 +1,1 @@
+Let G=\ast_{i=1}^{n}G_{i} and let \phi be a symmetric endomorphism of G. If \phi is a monomorphism or if G is a finitely generated residually finite group, then the fixed subgroup Fix(\phi)=\{g\in G:\phi(g)=g\} of \phi has Kurosh rank at most n.

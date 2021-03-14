@@ -1,0 +1,1 @@
+We construct a wavelet and a generalised Fourier basis with respect to some fractal measures given by one-dimensional iterated function systems. In this paper we will not assume that these systems are given by linear contractions generalising in this way some previous work of Jorgensen and Dutkay to the non-linear setting.

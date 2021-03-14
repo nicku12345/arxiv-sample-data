@@ -1,0 +1,1 @@
+This paper is a gentle introduction to the theory of quasi-log varieties by Ambro. We explain the fundamental theorems for the log minimal model program for log canonical pairs. More precisely, we give a proof of the base point free theorem for log canonical pairs in the framework of the theory of quasi-log varieties.

@@ -1,0 +1,1 @@
+We show that the algorithm for computing an element of the Clarke generalized Jacobian of a max-type function proposed by Zheng-da Huang and Guo-chun Ma can be extended to a much wider class of functions representable as a difference of max-type functions.

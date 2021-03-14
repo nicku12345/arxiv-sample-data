@@ -1,0 +1,1 @@
+We prove that the crossed product AxG of a unital finitely generated MF algebra A by a discrete finitely generated amenable residually finite group G is an MF algebra, provided that the action is almost periodic. This generalizes a result of Hadwin and Shen. We also construct two examples of crossed product C*-algebras whose BDF Ext semigroups are not groups.

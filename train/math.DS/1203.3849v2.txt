@@ -1,0 +1,1 @@
+In this paper we contribute to the generic theory of Hamiltonians by proving that there is a C2-residual R in the set of C2 Hamiltonians on a closed symplectic manifold M, such that, for any H in R, there is a full measure subset of energies e in H(M) such that the Hamiltonian level (H,e) is topologically mixing; moreover these level sets are homoclinic classes.

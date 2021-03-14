@@ -1,0 +1,1 @@
+We study the dependence of the zeros of eigenfunctions of Sturm-Liouville problem on the parameters that define the boundary conditions. As a corollary, we obtain Sturm oscillation theorem, which states that the n-th eigenfunction has n zeros.

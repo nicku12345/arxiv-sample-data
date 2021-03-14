@@ -1,0 +1,1 @@
+We introduce and study a new model for functional data. The ARHD is an autoregressive model in which the first order derivative of the random curves appears explicitely. Convergent estimates are obtained through a double penalization method. A simluation and a real case study follow as well as comparisons with other recent techniques.

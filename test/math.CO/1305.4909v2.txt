@@ -1,0 +1,1 @@
+In Part I of this series we described three algorithms that construct canonical tree-decompositions of graphs which distinguish all their k-blocks and tangles of order k. We now establish bounds on the number of parts in these decompositions that contain no such block or tangle, and determine conditions under which such parts contain nothing but a k-block.

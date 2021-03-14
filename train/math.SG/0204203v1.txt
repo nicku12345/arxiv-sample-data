@@ -1,0 +1,1 @@
+We extend the theorems concerning the equivariant symplectic reduction of the cotangent bundle to contact geometry. The role of the cotangent bundle is taken by the cosphere bundle. We use Albert's method for reduction at zero and Willett's method for non-zero reduction. We provide examples for both cases.

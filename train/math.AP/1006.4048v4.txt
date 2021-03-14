@@ -1,0 +1,1 @@
+We are interested in the hydrodynamic limit of the Boltzmann equation for a gas of fermions in the incompressible Euler regime. We use the relative entropy method as improved by Saint-Raymond. Our result is analogous to what is obtained in the classical case, but the treatment is slightly complicated by the cubic nonlinearity of the collision operator.

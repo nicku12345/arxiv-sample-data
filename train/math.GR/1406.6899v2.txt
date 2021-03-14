@@ -1,0 +1,1 @@
+We introduce and study the concept of cyclicity degree of a finite group G. This quantity measures the probability of a random subgroup of G to be cyclic. Explicit formulas are obtained for some particular classes of finite groups. An asymptotic formula and several minimality/maximality results on cyclicity degrees are also inferred.

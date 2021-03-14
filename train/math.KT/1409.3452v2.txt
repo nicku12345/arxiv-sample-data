@@ -1,0 +1,1 @@
+We prove that for every finitely generated subgroup of a virtually connected Lie group which admits a finite dimensional model for the classifying space for proper actions the assembly map in algebraic K-theory is split injective. We also prove a similar statement for algebraic L-theory, which in particular implies the integral Novikov conjecture for such groups.

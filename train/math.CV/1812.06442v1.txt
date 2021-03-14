@@ -1,0 +1,1 @@
+In this article, we explain the link between Pohlen's extended Hadamard product and the holomorphic cohomological convolution on \mathbb{C}^*. For this purpose, we introduce a generalized Hadamard product, which is defined even if the holomorphic functions do not vanish at infinity, as well as a notion of strongly convolvable sets.

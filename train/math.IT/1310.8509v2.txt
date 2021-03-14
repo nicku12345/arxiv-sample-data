@@ -1,0 +1,1 @@
+In this paper we construct a new optimal code with parameters [120, 60, 20] of type II with an automorphism of order 29. Furthermore we classify all extremal codes with length 60 of type I with an automorphism of this order.

@@ -1,0 +1,1 @@
+The concept of Gorenstein dimension, defined by Auslander and Bridger for finitely generated modules over a Noetherian ring, is studied in the context of finitely presented modules over a coherent ring. A generalization of the Auslander-Bridger formula is established and is used as a cornerstone in the development of a theory of coherent Gorenstein rings.

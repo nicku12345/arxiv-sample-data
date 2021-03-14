@@ -1,0 +1,1 @@
+A rectilinear drawing of a graph G is optimal if it has the smallest number of crossings among all rectilinear drawings of G. In this paper it is shown that for n\geq 8, the second convex hull of every optimal rectilinear drawing of the complete graph K_n is a triangle.

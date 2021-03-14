@@ -1,0 +1,1 @@
+We give an example of a local normal domain R such that the map of Grothendieck groups \G(R) \to \G(\hat R) is not injective. We also raise some questions about the kernel of that map.

@@ -1,0 +1,1 @@
+We prove that the top mixed characteristic Lyubeznik number of a ring S that is a quotient of a complete unramified regular local ring of mixed characteristc with algebraically closed residue field is 1 provided that depth S \geq 2 and dim S \geq 3 using a second vanishing theorem in mixed characteristic proved in arXiv:1609.05846

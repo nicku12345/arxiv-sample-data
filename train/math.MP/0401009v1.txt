@@ -1,0 +1,1 @@
+We develop general expressions for the raising and lowering operators that belong to the orthogonal polynomials of hypergeometric type with discrete and continuous variable. We construct the creation and annihilation operators that correspond to the normalized polynomials and study their algebraic properties in the case of the Kravchuk/Hermite Meixner/Laguerre polynomials.

@@ -1,0 +1,1 @@
+A quantitative version of Minkowski sum, extending the definition of \theta-convolution of convex bodies, is studied to obtain extensions of the Brunn-Minkowski and Zhang inequalities, as well as, other interesting properties on Convex Geometry involving convolution bodies or polar projection bodies. The extension of this new version to more than two sets is also given.

@@ -1,0 +1,1 @@
+An asymptotic formula which holds almost everywhere is obtained for the number of solutions to the Diophantine inequalities |qA-p|<\psi(|q|), where A is an n by m matrix (m>1) over the field of formal Laurent series with coefficients from a finite field, and p and q are vectors of polynomials over the same finite field.

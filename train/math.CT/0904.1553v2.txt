@@ -1,0 +1,1 @@
+In this paper we go into the study of 2-limits and 2-colimits in the 2-category CAT the category of small categories. More precisely we show the commutation of filtered 2-colimits and finite 2-limits. It is a generalization of a classical result in category theory.

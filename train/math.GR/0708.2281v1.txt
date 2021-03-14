@@ -1,0 +1,1 @@
+In 2000, L. H\'{e}thelyi and B. K\"{u}lshammer proved that if p is a prime number dividing the order of a finite solvable group G, then G has at least 2\sqrt{p-1} conjugacy classes. In this paper we show that if p is large, the result remains true for arbitrary finite groups.

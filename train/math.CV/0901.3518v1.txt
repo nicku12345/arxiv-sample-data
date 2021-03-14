@@ -1,0 +1,1 @@
+A class theorem is presented and proved: the complex Fourier transforms of a certain class of exponential functions have all their zeros on the real line. A class of basis functions is first considered, and the class is then extended via the method of convolutions.

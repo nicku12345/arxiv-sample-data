@@ -1,0 +1,1 @@
+Recently, right-angled Artin groups have attracted much attention in geometric group theory. They have a rich structure of subgroups and nice algorithmic properties, and they give rise to cubical complexes with a variety of applications. This survey article is meant to introduce readers to these groups and to give an overview of the relevant literature.

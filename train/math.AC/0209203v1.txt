@@ -1,0 +1,1 @@
+We give an exposition of the theory of adjoints and conductors for curves on nonsingular surfaces, emphasizing the case of plane curves, for which the presentation is particularly elementary. This is closely related to Max Noether's ``AF+BG'' theorem, which is proved for curves with arbitrary multiple components.

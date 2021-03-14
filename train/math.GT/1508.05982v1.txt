@@ -1,0 +1,1 @@
+We show that over the binary field \mathbb F_2, the Bar-Natan perturbation of Khovanov homology splits as the direct sum of its two reduced theories, which we also prove are isomorphic. This extends Shumakovitch's analogous result for ordinary Khovanov homology, without the perturbation.

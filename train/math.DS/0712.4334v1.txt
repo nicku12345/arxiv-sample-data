@@ -1,0 +1,1 @@
+In this paper we prove that if two self-similar tiling systems, with respective stretching factors \lambda_1 and \lambda_2, have a common factor which is a non periodic tiling system, then \lambda_1 and \lambda_2 are multiplicatively dependent.

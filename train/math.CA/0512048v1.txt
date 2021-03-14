@@ -1,0 +1,1 @@
+We consider uniform approximations by trigonometric polynomials. The aim of the paper is to obtain good estimates of the Jackson--Stechkin constants J_m. We prove that  J_m \le C 2^{-m+5/2\log_2m}. Our proof is based on the difference analogue of the Bohr--Favard inequality.

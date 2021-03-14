@@ -1,0 +1,1 @@
+It is shown that the continuous q-Hermite polynomials for q a root of unity have simple transformation properties with respect to the classical Fourier transform. This result is then used to construct q-extended eigenvectors of the finite Fourier transform in terms of these polynomials.

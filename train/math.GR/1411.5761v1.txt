@@ -1,0 +1,1 @@
+In this article, we first show that in case n is even which Coxeter element in \mathfrak{S}_{n} affords the longest by taking its power to n/2. We also show that in case n is odd which Coxeter element affords the longest in \mathfrak{S}_{n}.

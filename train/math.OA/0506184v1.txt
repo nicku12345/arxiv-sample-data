@@ -1,0 +1,1 @@
+In this note, we will discuss what kind of operators between C*-algebras preserves Jordan triple products   {a,b,c}= (ab*c + cb*a)/2.   These include especially isometries and disjointness preserving operators.

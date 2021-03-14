@@ -1,0 +1,1 @@
+In this paper we use a homological approach to obtain upper bounds for a few homological invariants of FI_G-modules V. These upper bounds are expressed in terms of the generating degree and torsion degree, which measure the top and socle of V under actions of non-invertible morphisms in the category respectively.

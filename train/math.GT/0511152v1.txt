@@ -1,0 +1,1 @@
+We introduce a new standard form of a Seifert surface F. In that standard form, F is obtained by successively plumbing flat annuli to a disk D, where the gluing regions are all in D. We show that any link has a Seifert surface in the standard form, and thereby present a new way of coding a link. We present an algorithm to read the code directly from a braid presentation.

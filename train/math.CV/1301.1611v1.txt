@@ -1,0 +1,1 @@
+In this paper we propose a systematic study of the Cauchy-Riemann operator in the L^p-setting in complex manifolds. We first consider L^p_{loc}-theory and then we develop an L^p Andreotti-Grauert theory. Finally we consider Serre duality and its applications to the solvability of the Cauchy-Riemann equation with exact support in L^p-spaces.

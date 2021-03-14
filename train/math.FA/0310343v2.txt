@@ -1,0 +1,1 @@
+In this note we give a simple proof that every subspace of L_p, 2<p<infinity, with an unconditional basis has an equivalent norm determined by partitions and weights. Consequently L_p has a norm determined by partitions and weights.

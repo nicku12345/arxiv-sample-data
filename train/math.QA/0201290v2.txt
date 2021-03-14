@@ -1,0 +1,1 @@
+We prove that the lower bounds for Betti numbers of the rack, quandle and degeneracy cohomology given by Carter, Jelsovsky, Kamada, and Saito, are in fact equalities. We compute as well the Betti numbers of the twisted cohomology introduced by Carter, Elhamdadi, and Saito. We also give a group-theoretical interpretation of the second cohomology group for racks.

@@ -1,0 +1,1 @@
+We develop a topological model of site-specific recombination that applies to substrates which are the connected sum of two torus links of the form T(2,n)\#T(2,m). Then we use our model to prove that all knots and links that can be produced by site-specific recombination on such substrates are contained in one of two families, which we illustrate.

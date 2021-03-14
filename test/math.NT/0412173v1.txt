@@ -1,0 +1,1 @@
+The Mahler measures of some n-variable polynomial families are given in terms of special values of the Riemann zeta function and a Dirichlet L-series, generalizing the results of \cite{L}. The technique introduced in this work also motivates certain identities among Bernoulli numbers and symmetric functions.

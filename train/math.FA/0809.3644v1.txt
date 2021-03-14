@@ -1,0 +1,1 @@
+We construct an example of a real Banach space whose group of surjective isometries has no uniformly continuous one-parameter semigroups, but the group of surjective isometries of its dual contains infinitely many of them. Other examples concerning numerical index, hermitian operators and dissipative operators are also shown.

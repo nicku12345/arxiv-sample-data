@@ -1,0 +1,1 @@
+Let p be a prime ideal in a commutative noetherian ring R. It is proved that if an R-module M satisfies Tor^R_n(k(p),M) = 0 for some n \geq dim R_p, where k(p) is the residue field at p, then Tor^R_i(k(p),M) = 0 holds for all i \geq n. Similar rigidity results concerning Ext_R^*(k(p),M) are proved, and applications to the theory of homological dimensions are explored.

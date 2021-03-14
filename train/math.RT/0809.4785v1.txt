@@ -1,0 +1,1 @@
+We show that the Borel-equivariant derived category of sheaves on the flag variety of a complex reductive group is equivalent to the perfect derived category of dg modules over the extension algebra of the direct sum of the simple equivariant perverse sheaves. This proves a conjecture of Soergel and Lunts in the case of flag varieties.

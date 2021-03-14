@@ -1,0 +1,1 @@
+Let SYT_{n} be the set of all standard Young tableaux with n cells and \leq_{weak} be Melnikov's the weak order on SYT_n. The aim of this paper is to introduce a conjecture, called the {\it property of inner tableau translation} and discuss its significance in the studies of the weak order. We will prove the conjecture for some specific cases

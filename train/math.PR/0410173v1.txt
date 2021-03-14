@@ -1,0 +1,1 @@
+We prove that every two-player nonzero-sum stopping game in discrete time admits an \epsilon-equilibrium in randomized strategies for every \epsilon >0. We use a stochastic variation of Ramsey's theorem, which enables us to reduce the problem to that of studying properties of \epsilon-equilibria in a simple class of stochastic games with finite state space.

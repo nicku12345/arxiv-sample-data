@@ -1,0 +1,1 @@
+In this paper, we show that reflecting Brownian motion in any bounded domain D can be approximated, as k\to\infty, by simple random walks on "maximal connected" subsets of (2^{-k}\mathbb{Z}^d)\cap D whose filled-in interiors are inside of D.

@@ -1,0 +1,1 @@
+We prove that every {\rm(}not necessarily linear nor continuous{\rm)} 2-local triple derivation on a von Neumann algebra M is a triple derivation, equivalently, the set Der_{t} (M), of all triple derivations on M, is algebraically 2-reflexive in the set \mathcal{M}(M)= M^M of all mappings from M into M.

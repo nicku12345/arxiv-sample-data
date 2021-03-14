@@ -1,0 +1,1 @@
+The usual way of defining weak equivalences for simplicial presheaves is to require an isomorphism on all sheaves of homotopy groups. We unravel some of the machinery here, and give a more concrete description in terms of local homotopy lifting properties. This characterization is used to prove some basic facts about the local homotopy theory of simplicial presheaves.

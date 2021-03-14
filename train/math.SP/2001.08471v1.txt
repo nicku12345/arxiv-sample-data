@@ -1,0 +1,1 @@
+We provide explicit formulae for the first eigenvalue of the Laplace-Beltrami operator on a compact rank one symmetric space (CROSS) endowed with any homogeneous metric. As consequences, we prove that homogeneous metrics on CROSSes are isospectral if and only if they are isometric, and also discuss their stability (or lack thereof) as solutions to the Yamabe problem.

@@ -1,0 +1,1 @@
+Generalizing results by Valette, Zamfirescu and Laczkovich, we will prove that a convex body K is a polytope if there are sufficiently many tilings which contain a tile similar to K. Furthermore, we give an example that this can not be improved.

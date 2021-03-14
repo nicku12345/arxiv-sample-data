@@ -1,0 +1,1 @@
+We improve the exponent for the discrete Fourier restriction to the n dimensional sphere, from p=\frac{2(n+1)}{n-3} to p=\frac{2n}{n-3}, when n\ge 4.

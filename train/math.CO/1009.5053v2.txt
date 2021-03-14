@@ -1,0 +1,1 @@
+In this report, we consider Adelman's algorithm for generating shortest permutation strings. We introduce a new representation approach which reveals some properties of Adelman's algorithm.

@@ -1,0 +1,1 @@
+In this paper we provide an elementary and easy proof that a proper subalgebra of the matrix algebra  \mathbb{K}^{n,n }, with n \geq3 and \mathbb{K} an arbitrary field, has dimension strictly less than n^2-1.

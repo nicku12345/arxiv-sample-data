@@ -1,0 +1,1 @@
+A complete flag manifold is the quotient of a Lie group by its maximal torus. The rank of a flag manifold is the dimension of the maximal torus of the Lie group. The rank 2 complete flag manifolds are SU(3)/T^2, Sp(2)/T^2, Spin(4)/T^2, Spin(5)/T^2 and G_2/T^2. In this paper we calculate the cohomology of the free loop space of rank 2 complete flag manifolds.

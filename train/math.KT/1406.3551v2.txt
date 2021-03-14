@@ -1,0 +1,1 @@
+In his "Algebraic K-theory of topological spaces II" Waldhausen proved that his functor A(X) splits: There is a canonical map from the stable homotopy of X which has a retraction up to weak equivalence. We adapt Waldhausen's proof to obtain a calculation of the Differential (in the sense of Goodwillie's "Calculus I") of A(X) at any path-connected base space.

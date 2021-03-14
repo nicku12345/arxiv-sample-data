@@ -1,0 +1,1 @@
+In this note, we give an alternate proof of the multinomial theorem using a probabilistic approach. Although the multinomial theorem is basically a combinatorial result, our proof may be simpler for a student familiar with only basic probability concepts.

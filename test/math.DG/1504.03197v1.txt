@@ -1,0 +1,1 @@
+In this paper, we apply the method developed in [Ti97] and [TZ00] to proving the properness of log F-functional on any conic K\"ahler-Einstein manifolds. As an application, we give an alternative proof for the openness of the continuity method through conic K\"ahler-Einstein metrics.

@@ -1,0 +1,1 @@
+We show that every L-BLD-mapping in a domain of \mathbb{R}^n is a local homeomorphism if L < \sqrt{2} or K_I(f) < 2. These bounds are sharp as shown by a winding map.

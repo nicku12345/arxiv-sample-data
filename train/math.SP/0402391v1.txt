@@ -1,0 +1,1 @@
+We explicitely compute the absolutely continuous spectrum of the Laplace-Beltrami operator for p-forms for the class of warped product metrics d\sigma^2= y^{2a}dy^2 + y^{2b}d\theta_{\Sphere^{N-1}}^2, where y is a boundary defining function on the unit ball B(0,1) in \Real^N.

@@ -1,0 +1,1 @@
+In the first part, we prove that the number of (1,\beta)-BM relations is 3 \cdot 5 \cdot \ldots \cdot (2\beta + 1), which was conjectured by Kimberley. In the second part, we construct two isomorphisms between certain (2,2)-BM groups. This completes the classification of (2,2)-BM groups initiated by Kimberley and Robertson.

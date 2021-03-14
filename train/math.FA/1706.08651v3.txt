@@ -1,0 +1,1 @@
+We show that several convolution operators on the space of entire functions, such as the MacLane operator, support a dense hypercyclic algebra that is not finitely generated. Birkhoff's operator also has this property on the space of complex-valued smooth functions on the real line.

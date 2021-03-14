@@ -1,0 +1,1 @@
+We give a bound for the virtually cyclic dimension of groups with a normal subgroup of finite index which satisfies that every infinite virtually-cyclic subgroup is contained in a unique maximal such subgroup. As an application we provide a bound for the virtually-cyclic dimension for the braid group of a closed surface with genus greater than 2 and for right-angled Artin groups.

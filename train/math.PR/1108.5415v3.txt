@@ -1,0 +1,1 @@
+We use a non-Markovian coupling and small modifications of techniques from the theory of finite Markov chains to analyze some Markov chains on continuous state spaces. The first is a Gibbs sampler on narrow contingency tables, the second a gen- eralization of a sampler introduced by Randall and Winkler.

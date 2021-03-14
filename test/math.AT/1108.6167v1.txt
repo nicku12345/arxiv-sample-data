@@ -1,0 +1,1 @@
+For every finite abelian group A and n\geq 3, we construct a finitely presented group defined by explicit generators and relations, such that its center is \pi_n(\Sigma K(A,1)).

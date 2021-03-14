@@ -1,0 +1,1 @@
+We define a canonical quadratic pair on the Clifford algebra of an algebra with quadratic pair over a field. This allows us to extend to the characteristic 2 case the notion of trialitarian triples, from which we derive a characterization of totally decomposable quadratic pairs in degree 8. We also describe trialitarian triples involving algebras of small Schur index.

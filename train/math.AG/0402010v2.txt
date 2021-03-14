@@ -1,0 +1,1 @@
+For an \ell-adic sheaf on a variety of arbitrary dimension over a perfect field, we define the Swan class measuring the wild ramification as a 0-cycle class supported on the ramification locus. We prove a Lefschetz trace formula for open varieties and a generalization of the Grothendieck-Ogg-Shararevich formula using the Swan class.

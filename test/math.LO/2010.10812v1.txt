@@ -1,0 +1,1 @@
+Answering a question of Harrington, we show that there exists a proper forcing notion, which adds a minimal real \eta \in \prod_{i<\omega} n^*_i, which is eventually different from any old real in \prod_{i<\omega} n^*_i, where the sequence \langle n^*_i \mid i<\omega \rangle grows slowly.

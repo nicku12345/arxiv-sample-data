@@ -1,0 +1,1 @@
+We consider weighted graphs, we equip them with a metric structure given by a weighted distance, and we discuss essential self-adjointness for weighted graph Laplacians and Schr\"odinger operators in the metrically non complete case.

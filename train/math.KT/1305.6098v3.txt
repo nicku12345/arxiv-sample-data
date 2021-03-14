@@ -1,0 +1,1 @@
+This document is supplementary material for the author's paper \emph{The cup product on hochschild cohomology for localizations of filtered koszul algebras}, arXiv:1304.0527. We give a detailed computation of the Hochschild cohomology algebra for the Down-Up algebra with parameters (0,1,0).

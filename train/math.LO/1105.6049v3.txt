@@ -1,0 +1,1 @@
+This article continues Ros{\l}anowski and Shelah math.LO/9906024, math.LO/0508272, math.LO/0210205, math.LO/0611131 and math.LO/0605067. We introduce here a new property of <lambda-strategically complete forcing notions which implies that their lambda-support iterations do not collapse lambda^+ (for a strongly inaccessible cardinal lambda).

@@ -1,0 +1,1 @@
+We construct a map between Bloch's higher Chow groups and Deligne homology for smooth, complex quasiprojective varieties on the level of complexes. For complex projective varieties this results in a formula which generalizes at the same time the classical Griffiths Abel-Jacobi map and the Borel/Beilinson/Goncharov regulator type maps.

@@ -1,0 +1,1 @@
+The author's method (math-ph/9804010) that uses the Laplace transform to find exact values for a large class of convergent series is extended to trigonometric series.

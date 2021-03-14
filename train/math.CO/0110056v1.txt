@@ -1,0 +1,1 @@
+We find generating functions for the number of words avoiding certain patterns or sets of patterns on at most 2 distinct letters and determine which of them are equally avoided. We also find the exact number of words avoiding certain patterns and provide bijective proofs for the resulting formulas.

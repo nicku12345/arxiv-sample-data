@@ -1,0 +1,1 @@
+We investigate the behavior of a complete flat metric on a surface near a puncture. We call a puncture on a flat surface regular if it has a neighborhood which is isometric to that of a point at infinity of a cone. We prove that there are punctures which are not regular if and only if the curvature at the puncture is 4\pi.

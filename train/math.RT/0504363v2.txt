@@ -1,0 +1,1 @@
+We introduce a new notion of rank for unitary representations of semisimple groups over a local field of characteristic zero. The theory is based on Kirillov's method of orbits for nilpotent groups over local fields. When the semisimple group is classical, we prove that the new theory is essentially equivalent to Howe's theory of N-rank.

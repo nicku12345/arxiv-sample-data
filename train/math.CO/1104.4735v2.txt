@@ -1,0 +1,1 @@
+In this short expository article, we describe a mathematical tool called the probabilistic method, and illustrate its elegance and beauty through proving a few well-known results. Particularly, we give an unconventional probabilistic proof of a classical theorem concerning the Tur\'{a}n number T(n,k,l). Surprisingly, this proof cannot be found in existing literature.

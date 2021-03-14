@@ -1,0 +1,1 @@
+We introduce the notion of a ``non-commutative crepant'' resolution of a singularity and show that it exists in certain cases. We also give some evidence for an extension of a conjecture by Bondal and Orlov, stating that different crepant resolutions of a Gorenstein singularity have the same derived category.

@@ -1,0 +1,1 @@
+This paper confirms a conjecture of Amdeberhan and Moll that the power of 2 dividing the number of plane partitions in an n-cube is greater than the power of 2 dividing the number of totally symmetric plane partitions in the same cube when n is even, and less when n is odd.

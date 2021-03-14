@@ -1,0 +1,1 @@
+For stratified Mukai flops of type A_{n,k}, D_{2k+1} and E_{6,I}, it is shown the fiber product induces isomorphisms on Chow motives. In contrast to (standard) Mukai flops, the cup product is generally not preserved. For A_{n, 2}, D_5 and E_{6, I} flops, quantum corrections are found through degeneration/deformation to ordinary flops.

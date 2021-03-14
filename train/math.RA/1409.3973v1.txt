@@ -1,0 +1,1 @@
+An ideal I of a ring R is square stable if aR+bR=R with a\in I and b\in R implies that a^2+by is invertible in I for some y\in I. We prove that an exchange ideal I of a ring R is square stable if and only if for any a\in I, a^2\ in J(R) implies that a\in J(R), if and only if every regular element in I is strongly regular.

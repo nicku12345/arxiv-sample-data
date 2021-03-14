@@ -1,0 +1,1 @@
+We study the median in the Gamma distribution as a function of the parameter. Using methods from complex analysis we show that the derivative of the median is less than 1 and we thereby solve a conjecture of Chen and Rubin from 1986. We also study the asymptotic behaviour of the median at infinity and at zero.

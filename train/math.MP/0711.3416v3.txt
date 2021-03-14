@@ -1,0 +1,1 @@
+The purpose of the present manuscript is to collect known results and present some new ones relating to nodal domains on graphs, with special emphasize on nodal counts. Several methods for counting nodal domains will be presented, and their relevance as a tool in spectral analysis will be discussed.

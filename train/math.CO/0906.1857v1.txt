@@ -1,0 +1,1 @@
+Every 4-connected graph with minimum degree \delta and connectivity \kappa either has a cycle of length at least 4\delta-2\kappa or has a dominating cycle.

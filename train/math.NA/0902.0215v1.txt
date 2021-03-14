@@ -1,0 +1,1 @@
+Using the concept of Geometric Weakly Admissible Meshes together with an algorithm based on the classical QR factorization of matrices, we compute efficient points for discrete multivariate least squares approximation and Lagrange interpolation.

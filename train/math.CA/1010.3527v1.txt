@@ -1,0 +1,1 @@
+It is shown that quasi all continuous functions on the unit circle have the property that, for many small subsets E of the circle, the partial sums of their Fourier series considered as functions restricted to E exhibit certain universality properties.

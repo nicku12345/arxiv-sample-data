@@ -1,0 +1,1 @@
+We construct a two-sided discontinuous piecewise linear minimal valid function for the 1-row Gomory--Johnson model which is not extreme, but which is not a convex combination of other piecewise linear minimal valid functions. The new function only admits piecewise microperiodic perturbations. We present an algorithm for computations with a restricted class of such perturbations.

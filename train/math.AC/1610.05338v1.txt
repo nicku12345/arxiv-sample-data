@@ -1,0 +1,1 @@
+We describe the computer algebra software package SpectralSequences for the computer algebra system Macaulay2. This package implements many data types, objects and algorithms which pertain to, among other things, filtered complexes, spectral sequence pages and maps therein. We illustrate some of the syntax and capabilities of SpectralSequences by way of several examples.

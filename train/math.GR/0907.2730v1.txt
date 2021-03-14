@@ -1,0 +1,1 @@
+Let G be a graph. The (unlabeled) configuration space of n points on G is the space of all n-element subsets of G. The fundamental group of such a configuration space is called a graph braid group. We use a version of discrete Morse theory to compute presentations of all graph braid groups, for all finite connected graphs G and all natural numbers n.

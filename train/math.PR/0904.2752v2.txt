@@ -1,0 +1,1 @@
+We prove the It\^o-Wentzell formula for processes with values in the space of generalized functions by using the stochastic Fubini theorem and the It\^o-Wentzell formula for real-valued processes, appropriate versions of which are also proved.

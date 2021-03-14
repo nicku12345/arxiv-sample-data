@@ -1,0 +1,1 @@
+We propose and discuss how basic notions (quadratic modules, positive elements, semialgebraic sets, Archimedean orderings) and results (Positivstellensaetze) from real algebraic geometry can be generalized to noncommutative *-algebras. A version of Stengle's Positivstellensatz for n \times n matrices of real polynomials is proved.

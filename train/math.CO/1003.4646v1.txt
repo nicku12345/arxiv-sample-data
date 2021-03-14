@@ -1,0 +1,1 @@
+In this paper we consider the following problem: Over the class of all simple connected graphs of order n with k pendant vertices (n,k being fixed), which graph maximizes (respectively, minimizes) the algebraic connectivity? We also discuss the algebraic connectivity of unicyclic graphs.

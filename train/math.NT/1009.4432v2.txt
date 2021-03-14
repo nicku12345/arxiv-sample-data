@@ -1,0 +1,1 @@
+Let c_q(n) denote the Ramanujan sum modulo q, and let x and y be large reals, with x = o(y). We obtain asymptotic formulas for the sums \sum_{n \le y}(\sum_{q \le x} c_q(n))^k \qquad (k = 1, 2).

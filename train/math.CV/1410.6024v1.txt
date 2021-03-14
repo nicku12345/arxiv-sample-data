@@ -1,0 +1,1 @@
+We prove that the derivative \theta' of an inner function \theta is outer if and only if \theta is a M\"obius transformation. An alternative characterization involving a reverse Schwarz--Pick type estimate is also given.

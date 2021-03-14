@@ -1,0 +1,1 @@
+The aim of this paper is to construct and examine three candidates for local-to-global spectral sequences for the cohomology of diagrams of algebras with directed indexing. In each case, the E^2 -terms can be viewed as a type of local cohomology relative to a map or an object in the diagram.

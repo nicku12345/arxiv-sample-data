@@ -1,0 +1,1 @@
+Working in subsystems of second order arithmetic, we formulate several representations for hypergraphs. We then prove the equivalence of various vertex coloring theorems to {\sf WKL}_0, {\sf ACA}_0 and \Pi ^1_ 1-{\sf CA}_0.

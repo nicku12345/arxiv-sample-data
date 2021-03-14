@@ -1,0 +1,1 @@
+Let D be a smooth divisor on a non singular surface S. We compute Betti numbers of the relative Hilbert scheme of points of S relative to D. In the case of \PP^2 and a line in it, we give an explicit set of generators and relations for the cohomology groups of this space.

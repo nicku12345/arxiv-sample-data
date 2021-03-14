@@ -1,0 +1,1 @@
+Generic linkage is used to compute a prime ideal such that the radical of the initial ideal of the prime ideal is equal to the radical of a given codimension two monomial ideal that has a Cohen-Macaulay quotient ring.

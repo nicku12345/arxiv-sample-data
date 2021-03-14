@@ -1,0 +1,1 @@
+We prove that every rigid C*-bicategory with finite-dimensional centers (finitely decomposable horizontal units) can be realized as Connes' bimodules over finite direct sums of II_1 factors. In particular, we realize every multitensor C*-category as bimodules over a finite direct sum of II_1 factors.

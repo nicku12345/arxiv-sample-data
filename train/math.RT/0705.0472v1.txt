@@ -1,0 +1,1 @@
+Let A be a basic connected finite dimensional algebra over an algebraically closed field. Assuming that A is quasitilted, we prove that A is simply connected if and only if its first Hochschild cohomology group HH^1(A) vanishes. This generalises a result of I. Assem, F.U. Coelho and S. Trepode and which proves the same equivalence for tame quasitilted algebras.

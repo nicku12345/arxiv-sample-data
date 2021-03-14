@@ -1,0 +1,1 @@
+Suppose that f: Y\to X is a proper, dominant, tamely ramified morphism of algebraic surfaces, over a perfect field. We show that it is possible to perform sequences of monoidal transforms Y'\to Y and X'\to X to obtain an induced morphism Y'\to Y which is a monomial morphism.

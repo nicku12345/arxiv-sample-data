@@ -1,0 +1,1 @@
+A semigroup S is called an equational domain if any finite union of algebraic sets over S is algebraic. For a finite simple semigroup we find necessary and sufficient conditions to be an equational domain. Moreover, we study semigroups with nontrivial center and prove that any such semigroup is not an equational domain.

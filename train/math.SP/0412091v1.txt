@@ -1,0 +1,1 @@
+Consider the Schr\"odinger operators H_{\pm}=-d^2/dx^2\pm V(x). We present a method for estimating the potential in terms of the negative eigenvalues of these operators. Among the applications are inverse Lieb-Thirring inequalities and several sharp results concerning the spectral properties of H_{\pm}.

@@ -1,0 +1,1 @@
+We study some subgroups of the group of unitriangular automorphisms U_n of a free associative algebra over a field of characteristic zero. We find the center of U_n and describe the hypercenters of U_2 and U_3. In particular, we prove that the upper central series for U_2 has infinite length. As consequence, we prove that the groups U_n are non-linear for all n \geq 2.

@@ -1,0 +1,1 @@
+We establish a necessary and sufficient condition on a continuous function on [-1,1] under which the family of functions on the unit sphere \mathbb{S}^{d-1} constructed in the described manner is fundamental in C(\mathbb{S}^{d-1}). In our construction of functions and proof of the result, we essentially use Dunkl harmonic analysis.

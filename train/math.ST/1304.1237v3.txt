@@ -1,0 +1,1 @@
+We prove the conjecture by Diaconis and Eriksson (2006) that the Markov degree of the Birkhoff model is three. In fact, we prove the conjecture in a generalization of the Birkhoff model, where each voter is asked to rank a fixed number, say r, of candidates among all candidates. We also give an exhaustive characterization of Markov bases for small r.

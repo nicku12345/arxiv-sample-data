@@ -1,0 +1,1 @@
+Knots in Euclidean space which may be parameterized by a single cosine function in each coordinate are called Lissajous knots. We show that twist knots are Lissajous knots if and only if their Arf invariants are zero. We further prove that all 2-bridge knots and all (3,q)-torus knots have Lissajous projections.

@@ -1,0 +1,1 @@
+We establish the Hasse principle (local-global principle) in the context of the Baum-Connes conjecture with coefficients. We illustrate this principle with the discrete group GL(2,F) where F is any global field.

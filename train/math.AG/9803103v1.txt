@@ -1,0 +1,1 @@
+Given a generic field extension F/k of degree n>3 (i.e. the Galois group of the normal closure of F is isomorphic to the symmetric group S_n), we prove that the norm torus, defined as the kernel of the norm map N:R_{F/k}(G_m)\to\G_m, is not rational over k.

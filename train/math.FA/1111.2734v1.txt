@@ -1,0 +1,1 @@
+We prove an infinite-dimensional generalization of Zenger's lemma that was used in the proof of the fact that the convex hull of the point spectrum of a linear operator is contained in its numerical range. Two relevant examples are given, and possible application in the Arrow-Debreu model is also discussed.

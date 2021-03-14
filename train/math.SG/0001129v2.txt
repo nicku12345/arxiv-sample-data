@@ -1,0 +1,1 @@
+We discuss contravariant connections on Poisson manifolds. For vector bundles, the corresponding operational notion of a contravariant derivative had been introduced by Izu Vaisman. We show that these connections play an important role in the study of global properties of Poisson manifolds and we use them to define Poisson holonomy and new invariants of Poisson manifolds.

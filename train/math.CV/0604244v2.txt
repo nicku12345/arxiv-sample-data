@@ -1,0 +1,1 @@
+It is proved that for any positive number \lambda, 1<\lambda<2; there exists a meromorphic function f with logarithmic order \lambda= \displaystyle\limsup_{r\to+\infty}\frac{\log T(r,f)}{\log\log r} such that f has no Julia directions, where T(r,f) is the Nevanlinna characteristic function of f. (Note that A. Ostrowski has proved a {\it similar} result for \lambda=2 in 1926.)

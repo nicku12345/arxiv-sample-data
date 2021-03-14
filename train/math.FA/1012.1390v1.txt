@@ -1,0 +1,1 @@
+In this paper we prove that if (A,\pi) is an amenable Banach algebra and if \rho is another Banach algebra multiplication on A such that the difference between \rho and and \pi is less than 1/11, then (A, \rho) is also amenable.

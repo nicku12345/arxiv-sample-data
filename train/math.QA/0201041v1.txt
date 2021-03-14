@@ -1,0 +1,1 @@
+We use Kashiwara's theory of crystal bases to study the plactic monoid for type C. Then we describe the correponding sliding and bumping algorithms.

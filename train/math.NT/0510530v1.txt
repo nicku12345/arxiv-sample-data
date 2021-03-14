@@ -1,0 +1,1 @@
+We show that the generalized Riemann hypothesis implies that there are infinitely many consecutive zeros of the Riemann zeta function whose spacing is 2.9125 times larger than the average spacing. This is deduced from the calculation of the second moment of the Riemann zeta function multiplied by a Dirichlet polynomial averaged over the zeros of the zeta function.

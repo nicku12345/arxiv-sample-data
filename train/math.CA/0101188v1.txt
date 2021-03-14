@@ -1,0 +1,1 @@
+We consider multiple orthogonal polynomials corresponding to two Macdonald functions (modified Bessel functions of the second kind), with emphasis on the polynomials on the diagonal of the Hermite-Pad\'e table. We give some properties of these polynomials: differential properties, a Rodrigues type formula and explicit formulas for the third order linear recurrence relation.

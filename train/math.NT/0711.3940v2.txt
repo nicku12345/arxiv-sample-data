@@ -1,0 +1,1 @@
+It is shown that the first n prime numbers p_1,...,p_n determine the next one by the recursion equation  p_{n+1} =\lim\limits_{s\to +\infty} [\prod\limits^n_{k=1} (1-\frac{1}{p^s_k}) \sum\limits^\infty_{j=1} \frac{1}{j^s} -1]^{-1/s}.  The upper limit on the sum can be replaced by 2p_n -1, and the result still holds.

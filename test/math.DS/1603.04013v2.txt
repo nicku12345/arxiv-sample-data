@@ -1,0 +1,1 @@
+A homeomorphism of the 2-torus with Lefschetz number different from zero has a fixed point. We give a version of this result for nilpotent groups of diffeomorphisms. We prove that a nilpotent group of 2-torus diffeomorphims has finite orbits when the group has some element with Lefschetz number different from zero.

@@ -1,0 +1,1 @@
+For a given inverse semigroup S , we introduce the notion of algebraic crossed product by using a given partial action of S, and we will prove that under some condition it is associative. Also we will introduce the concept of partial semigroup algebra K_{Par}(S) , and we show that the suitable quotient of K_{Par}(S) is a sort of crossed product.

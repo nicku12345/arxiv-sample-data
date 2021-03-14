@@ -1,0 +1,1 @@
+Let D=\{\rho < 0\} be a smooth relatively compact domain in an almost complex manifold (M,J), where \rho is a smooth defining function of D, strictly J-plurisubharmonic in a neighborhood of the closure \overline{D} of D. We prove that D has a connected boundary and is Gromov hyperbolic.

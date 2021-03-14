@@ -1,0 +1,1 @@
+Define QC(n) to be the number of quasiplatonic topological actions of the cyclic group C_n on surfaces of genus at least two. We use formulas of Benim and Wootton to give an explicit formula for QC(n). In addition, we relate the number of quasiplatonic topological actions of C_n to the number of regular dessins d'enfants having C_n as a group of automorphisms.

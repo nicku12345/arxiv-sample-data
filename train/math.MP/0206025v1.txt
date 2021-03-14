@@ -1,0 +1,1 @@
+We present an approach to quantum dynamical lower bounds for discrete one-dimensional Schr\"odinger operators which is based on power-law bounds on transfer matrices. It suffices to have such bounds for a nonempty set of energies. We apply this result to various models, including the Fibonacci Hamiltonian.

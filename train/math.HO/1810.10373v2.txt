@@ -1,0 +1,1 @@
+Surreal numbers are created recursively, with the "birthday" being the depth of the recursion. Birthday arithmetic describes how birthdays of surreal numbers are transformed by standard arithemetic operations. This paper shows that birthday arithmetic follows simple rules.

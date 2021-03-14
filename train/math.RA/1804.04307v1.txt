@@ -1,0 +1,1 @@
+The construction of bases for quotients is an important problem. In this paper, applying the method of rewriting systems, we give a unified approach to construct sections---an alternative name for bases in semigroup theory---for quotients of free operated monoids. As applications, we capture sections of free \ast-monoids and free groups, respectively.

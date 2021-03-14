@@ -1,0 +1,1 @@
+We conduct extensive numerical experiments aimed at finding the admissible range of the ratios of the first three eigenvalues of a planar Dirichlet Laplacian. The results improve the previously known theoretical estimates of M Ashbaugh and R Benguria. We also prove some properties of a maximizer of the ratio \lambda_3/\lambda_1.

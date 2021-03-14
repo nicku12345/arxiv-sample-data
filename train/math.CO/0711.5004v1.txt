@@ -1,0 +1,1 @@
+We improve upon the lower bound for 3-colour hypergraph Ramsey numbers, showing, in the 3-uniform case, that \[r_3 (l,l,l) \geq 2^{l^{c \log \log l}}.\] The old bound, due to Erd\H{o}s and Hajnal, was \[r_3 (l,l,l) \geq 2^{c l^2 \log^2 l}.\]

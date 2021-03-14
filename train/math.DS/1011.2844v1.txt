@@ -1,0 +1,1 @@
+Let M be a closed manifold and f be a diffeomorphism on M. We show that if f has a nontrivial dominated splitting TM=E\oplus F, then f can not be minimal. The proof mainly use Mane's argument and Liao's selecting lemma.

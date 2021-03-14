@@ -1,0 +1,1 @@
+The multiplicative group of a global field acts on its adele ring by multiplication. We consider the crossed product algebra of the resulting action on the space of Schwartz functions on the adele ring and compute its Hochschild, cyclic and periodic cyclic homology. We also compute the topological K-theory of the C*-algebra crossed product.

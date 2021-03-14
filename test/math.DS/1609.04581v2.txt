@@ -1,0 +1,1 @@
+The main result of this paper is an analogue for a continuous family of tori of Kronecker-Weyl's unique ergodicity of irrational rotations. We show that the notion corresponding in this setup to irrationality, namely asynchronicity, is satisfied in some homogeneous dynamical systems. This is used to prove the ergodicity of naturals lifts of invariant measures.

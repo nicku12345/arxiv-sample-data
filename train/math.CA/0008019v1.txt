@@ -1,0 +1,1 @@
+The bilinear maximal operator defined below maps L^p\times L^q into L^r provided 1<p,q<\zI, 1/p+1/q=1/r and 2/3<r\le1.  Mfg(x)=\sup_{t>0}\frac1{2t}\int_{-t}^t\abs{f(x+y)g(x-y)} dy. In particular Mfg is integrable\thinspace if f and g are square integrable, answering a conjecture posed by Alberto Calder\'on.

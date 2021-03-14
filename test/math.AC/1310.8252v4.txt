@@ -1,0 +1,1 @@
+In this article we give two independent proofs of the positive characteristic analog of the log terminal inversion of adjunction. We show that for a pair (X, S+B) in characteristic p>0, if (S^n, B_{S^n}) is strongly F-regular, then S is normal and (X, S+B) is purely F-regular near S. We also answer affirmatively an open question about the equality of F-Different and Different.

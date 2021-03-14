@@ -1,0 +1,1 @@
+We use countable metric spaces to code Polish metric spaces and evaluate the complexity of some statements about these codes and of some relations that can be determined by the codes. Also, we propose a coding for continuous functions between Polish metric spaces.

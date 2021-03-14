@@ -1,0 +1,1 @@
+We derive an It\^o's-type formula for the one dimensional stochastic heat equation driven by a space-time white noise. The proof is based on elementary properties of the \mathcal{S}-transform and on the explicit representation of the solution process. We also discuss the relationship with other versions of this It\^o's-type formula existing in literature.

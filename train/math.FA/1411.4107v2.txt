@@ -1,0 +1,1 @@
+We study a specific "anti-triangular" Cesar\'o matrix corresponding to a Markov chain. We derive closed forms for all the eigenvalues and eigenvectors of this matrix.

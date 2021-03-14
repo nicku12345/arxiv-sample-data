@@ -1,0 +1,1 @@
+A simple nonlinear integral equation for Ito's map is obtained. Although, it does not include stochastic integrals, it does give causal construction of diffusion processes which can be easily implemented by iteration systems. Applications in financial modelling and extension to fBm are discussed.

@@ -1,0 +1,1 @@
+In a recent study of Engel Lie rings, Serena Cicalo` and Willem de Graaf have given a practical set of conditions for an additively finitely generated Lie ring L to satisfy an Engel condition. We present a simpler and more direct proof of this fact. Then we generalize it to a result in the language of tensor algebra, which can be applied to other contexts.

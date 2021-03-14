@@ -1,0 +1,1 @@
+In 1959, Klee proved that a convex body K is a polyhedron if and only if all of its projections are polygons. In this paper, a new proof of this theorem is given for convex bodies in \mathbb{R}^3.

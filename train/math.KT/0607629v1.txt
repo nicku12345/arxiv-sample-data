@@ -1,0 +1,1 @@
+It is observed that Kaygun's Hopf-Hochschild cochain complex for a module-algebra is a brace algebra with multiplication. As a result, (i) an analogue of Deligne's Conjecture holds for module-algebras, and (ii) the Hopf-Hochschild cohomology of a module-algebra has a Gerstenhaber algebra structure.

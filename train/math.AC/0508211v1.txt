@@ -1,0 +1,1 @@
+We establish bounds for the coefficient \bar{e}_1(I) of the Hilbert function of the integral closure filtration of equimultiple ideals. These values are shown to help control all algorithmic processes of normalization that make use of extensions satisfying the condition S_2 of Serre.

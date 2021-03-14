@@ -1,0 +1,1 @@
+Given a 3-manifold M with no spherical boundary components, and a primitive class \phi in H^1(M;Z), we show that the following are equivalent: (1) \phi is a fibered class, (2) the rank gradient of (M,\phi) is zero, (3) the Heegaard gradient of (M,\phi) is zero.

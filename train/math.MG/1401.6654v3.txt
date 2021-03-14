@@ -1,0 +1,1 @@
+In this short note we show that Helly's Intersection Theorem holds for convex sets in uniquely geodesic spaces (in particular in CAT(0) spaces) without the assumption that the convex sets are open or closed.

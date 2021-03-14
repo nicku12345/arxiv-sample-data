@@ -1,0 +1,1 @@
+Within the class of finite dimensional mesh algebras, also called m-fold mesh algebras, we identify those which are symmetric and those whose stable module category is weakly Calabi-Yau. We also give, in combinatorial terms, explicit formulas for the period of any such algebra, and for the Calabi-Yau Frobenius and stable Calabi-Yau dimensions, when they are defined.

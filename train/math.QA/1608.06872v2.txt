@@ -1,0 +1,1 @@
+In this paper we compute explicitly, following Witten's prescription, the quantum representation of the mapping class group in genus one for complex quantum Chern-Simons theory associated to any simple and simply connected complex gauge group G_{\mathbb C}. We use a generalization of the Weil-Gel'fand-Zak transform to exhibit an explicit expression for the representation.

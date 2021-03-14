@@ -1,0 +1,1 @@
+We provide an elementary proof of the equivalence of various notions of uniform hyperbolicity for a class of \mathrm{GL}(2,\mathbb{C}) cocycles and establish a Johnson-type theorem for extended CMV matrices, relating the spectrum to the points on the unit circle for which the associated Szeg\H{o} cocycle is not uniformly hyperbolic.

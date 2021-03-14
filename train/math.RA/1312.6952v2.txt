@@ -1,0 +1,1 @@
+Let \A be a unital complex (Banach) algebra and \M be a unital (Banach) \A-bimodule. The main results describe (continuous) derivations or Jordan derivations D:\A\rightarrow \M through the action on zero products, under certain conditions on \A and \M. The proof is based on the consideration of a (continuous) bilinear map satisfying a related condition.

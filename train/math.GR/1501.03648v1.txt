@@ -1,0 +1,1 @@
+Let \Gamma be a crystallographic group of dimension n, i.e. a discrete, cocompact subgroup of \operatorname{Isom}(\mathbb{R}^n) = O(n)\ltimes\mathbb{R}^n. For any n\geq 2, we construct a crystallographic group with a trivial center and a trivial outer automorphism group.

@@ -1,0 +1,1 @@
+We present the evaluation of a family of exponential-logarithmic integrals. These have integrands of the form P(exp(x),ln(x)) where P is a polynomial. The examples presented here appear in sections 4.33, 4.34 and 4.35 in the classical table of integrals by I. Gradshteyn and I. Ryzhik.

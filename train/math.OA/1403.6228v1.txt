@@ -1,0 +1,1 @@
+We use the remarkable distance estimate of Ilya Kachkovskiy and Yuri Safarov, to show that if H is a nonseparable Hilbert space and K is any closed ideal in B(H) that is not the ideal of compact operators, then any normal element of B(H)/K can be lifted to a normal element of B(H).

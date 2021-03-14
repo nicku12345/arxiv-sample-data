@@ -1,0 +1,1 @@
+The heat kernel in the setting of classical Fourier-Bessel expansions is defined by an oscillatory series which cannot be computed explicitly. We prove qualitatively sharp estimates of this kernel. Our method relies on establishing a connection with a situation of expansions based on Jacobi polynomials and then transferring known sharp bounds for the related Jacobi heat kernel.

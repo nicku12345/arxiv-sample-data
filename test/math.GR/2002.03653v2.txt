@@ -1,0 +1,1 @@
+We construct families of finitely presented groups exhibiting new divergence behavior; we obtain divergence functions of the form r^\alpha for a dense set of exponents \alpha \in [2,\infty) and r^n\log(r) for integers n \geq 2. The same construction also yields examples of finitely presented groups which contain Morse elements that are not contracting.

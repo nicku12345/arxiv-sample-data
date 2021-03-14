@@ -1,0 +1,1 @@
+In this paper we study the homogenization of unsteady Stokes type equations in the periodic setting. The usual Laplace operator involved in the classical Stokes equations is here replaced by a linear elliptic differential operator of divergence form with periodically oscillating coefficients. Our mean tool is the well known two-scale convergence method.

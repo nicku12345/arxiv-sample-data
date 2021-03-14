@@ -1,0 +1,1 @@
+The Caldero-Chapoton formula relates for hereditary algebras of Dynkin type the cluster characters of the end terms of an Auslander-Reiten sequence with the cluster character of the middle term. We extend this result to generalized cluster categories with cluster tilting object by considering Auslander-Reiten triangles.

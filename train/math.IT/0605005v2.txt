@@ -1,0 +1,1 @@
+A multiple-access channel is considered in which messages from one encoder are confidential. Confidential messages are to be transmitted with perfect secrecy, as measured by equivocation at the other encoder. The upper bounds and the achievable rates for this communication situation are determined.

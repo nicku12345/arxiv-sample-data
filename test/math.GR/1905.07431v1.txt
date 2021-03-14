@@ -1,0 +1,1 @@
+We prove that a finite group is rational if and only if it has a set of permutation characters which separate conjugacy classes. It follows from this that a finite group is rational if and only if it has a representation as a permutation group in which any two elements fixing the same number of letters are conjugate.

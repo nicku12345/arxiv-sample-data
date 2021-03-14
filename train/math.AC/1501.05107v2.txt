@@ -1,0 +1,1 @@
+In this paper we show that polyomino ideal of a simple polyomino coincides with the toric ideal of a weakly chordal bipartite graph and hence it has a quadratic Gr\"obner basis with respect to a suitable monomial order.

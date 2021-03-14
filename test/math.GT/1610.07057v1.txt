@@ -1,0 +1,1 @@
+Given a 3-manifold that can be written as the double of a compression body, we compute the Chern-Simons critical values for arbitrary compact connected structure groups. We also show that the moduli space of flat connections is connected when there are no reducibles.

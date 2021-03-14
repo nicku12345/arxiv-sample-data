@@ -1,0 +1,1 @@
+We prove that the group of contact diffeomorphisms is closed in the group of all diffeomorphisms in the C^0-topology. By Gromov's alternative, it suffices to exhibit a diffeomorphism that can not be approximated uniformly by contact diffeomorphisms. Our construction uses Eliashberg's contact shape.

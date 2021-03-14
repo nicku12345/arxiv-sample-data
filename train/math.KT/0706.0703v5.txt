@@ -1,0 +1,1 @@
+Let p be an odd prime. When n>2, we show that each tensor factor of form E \otimes \Gamma in H(Z,n;Z_p) is an A-infinity bialgebra with non-trivial structure. We give explicit formulas for the structure maps and the quadratic relations among them. Thus E \otimes \Gamma is a naturally occurring example of an A-infinity bialgebra whose internal structure is well-understood.

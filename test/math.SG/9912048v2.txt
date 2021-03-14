@@ -1,0 +1,1 @@
+The recently proposed projection quantization, which is a method to quantize particular subspaces of systems with known quantum theory, is shown to yield a genuine quantization in several cases. This may be inferred from exact results established within symplectic cutting.

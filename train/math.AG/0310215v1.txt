@@ -1,0 +1,1 @@
+The Poincare series of an irreducible plane curve singularity equals the zeta function of its monodromy, by a result of Campillo, Delgado and Gusein-Zade. We derive this fact from a formula of Ebeling and Gusein-Zade relating the Poincare series of a quasi-homogeneous complete intersection singularity to the Saito dual of a product of zeta functions.

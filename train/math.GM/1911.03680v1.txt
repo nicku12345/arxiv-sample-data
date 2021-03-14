@@ -1,0 +1,1 @@
+In this paper we propose a new concept of differentiability for interval-valued functions. This concept is based on the properties of the Hausdorff-Pompeiu metric and avoids using the generalized Hukuhara difference.

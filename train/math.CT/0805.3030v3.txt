@@ -1,0 +1,1 @@
+Given an operad A of topological spaces, we consider A-monads in a topological category C . When A is an A-infinity-operad, any A-monad K : C -> C can be thought of as a monad up to coherent homotopies. We define the completion functor with respect to an A-infinity-monad and prove that it is an A-infinity-monad itself.

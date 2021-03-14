@@ -1,0 +1,1 @@
+We show that for any bounded function f:[a,b]\rightarrow{\mathbb R} and \epsilon>0 there is a partition P of [a,b] with respect to which the Riemann sum of f using right endpoints is within \epsilon of the upper Darboux sum of f. This leads to an elementary proof of the theorem of Gillespie \cite{G} showing that Cauchy's and Riemann's definitions of integrability coincide.

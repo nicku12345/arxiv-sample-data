@@ -1,0 +1,1 @@
+Sets in R^n in which every pair of elements x, y can be connected by a path in the set of length bounded by a constant multiple of the distance between x and y are considered.

@@ -1,0 +1,1 @@
+We define a proof system for exceptions which is close to the syntax for exceptions, in the sense that the exceptions do not appear explicitly in the type of any expression. This proof system is sound with respect to the intended denotational semantics of exceptions. With this inference system we prove several properties of exceptions.

@@ -1,0 +1,1 @@
+We construct time dependent random fields on the sphere through coordinates change and subordination and we study the associated angular power spectrum. Some of this random fields arise naturally as solutions of partial differential equations with random initial condition represented by a Gaussian random field.

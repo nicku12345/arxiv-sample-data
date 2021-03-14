@@ -1,0 +1,1 @@
+We classify affine operators on a unitary or Euclidean space U up to topological conjugacy. An affine operator is a map f: U-->U of the form f(x)=Ax+b, in which A: U-->U is a linear operator and b in U. Two affine operators f and g are said to be topologically conjugate if hg=fh for some homeomorphism h: U-->U.

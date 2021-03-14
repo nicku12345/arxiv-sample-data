@@ -1,0 +1,1 @@
+The Vogan Conjectures (sometimes called Kazhdan-Lusztig Conjectures) say that a certain algorithm works both on the category of BGG modules and on the category of Harish-Chandra modules. The Alexandru Conjecture tries to uncover the general property common to these two categories which makes Vogan's algorithm work.

@@ -1,0 +1,1 @@
+We give a new definition of the knot invariant associated to the Lie algebra su_{N+1}. The knot or link must be presented as the plat closure of a braid. The invariant is then a homological intersection pairing between two submanifolds of a configuration space of points in a disk. This generalizes previous work on the Jones polynomial, which is the case N=1.

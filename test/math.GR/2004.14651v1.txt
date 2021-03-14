@@ -1,0 +1,1 @@
+Given a finite group G, we denote by \Delta(G) the graph whose vertices are the elements G and where two vertices x and y are adjacent if there exists a minimal generating set of G containing x and y. We prove that \Delta(G) is connected and classify the groups G for which \Delta(G) is a planar graph.

@@ -1,0 +1,1 @@
+We study the convergence of a Finite Volume scheme for the linear advection equation with a Lipschitz divergence-free speed in \R^d. We prove a h^{1/2}-error estimate in the L^\infty(0,t;L^1)-norm for BV data. This result was expected from numerical experiments and is optimal.

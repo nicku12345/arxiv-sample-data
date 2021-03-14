@@ -1,0 +1,1 @@
+In a scale of Fock spaces \mathcal F_\varphi with radial weights \varphi we study the existence of Riesz bases of (normalized) reproducing kernels. We prove that these spaces possess such bases if and only if \varphi(x) grows at most like (\log x)^2.

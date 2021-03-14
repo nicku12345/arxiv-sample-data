@@ -1,0 +1,1 @@
+We show that a non-trivial fiber product S\times_k T of commutative noetherian local rings S,T with a common residue field k is Gorenstein if and only if it is a hypersurface of dimension 1. In this case, both S and T are regular rings of dimension 1. We also give some applications of this result.

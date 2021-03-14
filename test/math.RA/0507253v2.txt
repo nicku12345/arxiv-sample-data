@@ -1,0 +1,1 @@
+S. Montgomery and S. Witherspoon proved that upper and lower semisolvable, semisimple, finite dimensional Hopf algebras are of Froebenius type when their dimensions are not divisible by the characteristic of the base field. In this note we show that a finite dimensional, semisimple, lower solvable Hopf algebra is always of Froebenius type, in arbitrary characteristic.

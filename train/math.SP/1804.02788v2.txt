@@ -1,0 +1,1 @@
+We develop a set of L^{p} estimates for functions u that are a joint quasimode (approximate eigenfunction) of r pseudodifferential operators p_{1}(x,hD),\dots,p_{r}(x,hD). This work extends Sarnak and Marshall's work on symmetric space to cover a more general class of manifolds/operators.

@@ -1,0 +1,1 @@
+Let R be a ring and G a group. An R-module A is said to be minimax if A includes an noetherian submodule B such that A=B is artinian. The authors study a ZG-module A such that A/C_A(H) is minimax (as a Z-module) for every proper not finitely generated subgroup H.

@@ -1,0 +1,1 @@
+Let \mathcal{G} be the class of all finite groups and consider the function \psi'':\mathcal{G}\longrightarrow(0,1], given by \psi''(G)=\frac{\psi(G)}{|G|^2}, where \psi(G) is the sum of element orders of a finite group G. In this paper, we show that the image of \psi'' is a dense set in [0, 1]. Also, we study the injectivity and the surjectivity of \psi''.

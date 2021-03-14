@@ -1,0 +1,1 @@
+The relations between the radical of crossed product R #_\sigma H and algebra R are obtained. Using this theory, the author shows that if H is a finite-dimensional semisimple, cosemisimle, and either commutative or cocommutative Hopf algebra, then R is H-semiprime iff R is semiprime iff R#_{\sigma}H is semiprime.

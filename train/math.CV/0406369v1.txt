@@ -1,0 +1,1 @@
+We study properties of the weighted Bergman hernel on the unit disk. As we restrict to the subspace of all functions that vanish at a given point, we obtain the reproducing kernel for the subspace from the above weighted Bergman kernel via a simple formula. Division properties of this new kernel are studied.

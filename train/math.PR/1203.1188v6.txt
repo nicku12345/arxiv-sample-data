@@ -1,0 +1,1 @@
+A characterization of the support in H\"{o}lder norm of the law of the solution to a stochastic wave equation with three-dimensional space variable is proved. The result is a consequence of an approximation theorem, in the convergence of probability, for a sequence of evolution equations driven by a family of regularizations of the driving noise.

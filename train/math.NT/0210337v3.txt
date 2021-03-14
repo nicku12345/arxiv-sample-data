@@ -1,0 +1,1 @@
+Asymptotic formulas for \sum_{\kappa_j\le K}\alpha_j H_j^k(1/2) are proved when k = 3,4, where H_j(s) is the Hecke series.

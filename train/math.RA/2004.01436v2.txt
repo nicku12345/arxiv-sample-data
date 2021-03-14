@@ -1,0 +1,1 @@
+The augmentation powers in an integral group ring \mathbb ZG induce a natural filtration of the unit group of \mathbb ZG analogous to the filtration of the group G given by its dimension series \{D_n(G)\}_{n\ge 1}. The purpose of the present article is to investigate this filtration, in particular, the triviality of its intersection.

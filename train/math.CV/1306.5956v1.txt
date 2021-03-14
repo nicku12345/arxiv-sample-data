@@ -1,0 +1,1 @@
+We prove a global uniform Artin-Rees lemma type theorem for sections of ample line bundles over smooth projective varieties. This result is used to prove an Artin-Rees lemma for the polynomial ring with uniform degree bounds. The proof is based on multidimensional residue calculus.

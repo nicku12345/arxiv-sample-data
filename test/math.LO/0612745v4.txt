@@ -1,0 +1,1 @@
+We construct a model complete and o-minimal expansion of the field of real numbers such that, for any planar analytic vector field X and any isolated, non-resonant hyperbolic singularity p of X, a transition map for X at p is definable in this structure. This structure also defines all convergent generalized power series with natural support and is polynomially bounded.

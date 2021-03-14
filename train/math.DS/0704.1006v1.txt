@@ -1,0 +1,1 @@
+We prove that if d is an integer number bigger than 1 and f_1,...,f_d are commuting circle diffeomorphisms respectively of class C^(1+\tau_k), where \tau_1 + ... + \tau_k > 1, then these maps are simultaneously conjugate to rotations provided that their rotation numbers are independent over the rationals.

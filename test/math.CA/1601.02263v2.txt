@@ -1,0 +1,1 @@
+It is shown that a known asymptotic expansion of the Kummer function U(a,b,z) as a tends to infinity is valid for z on the full Riemann surface of the logarithm. A corresponding result is also proved in a more general setting considered by Olver (1956).

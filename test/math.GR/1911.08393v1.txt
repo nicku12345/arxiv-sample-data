@@ -1,0 +1,1 @@
+This paper examines two related topics: the linearization of the reversible automata of Gvaramiya and Plotkin, and the problem of finding a faithful representation of the words in a central quasigroup that respects the triality symmetry of the language of quasigroups.

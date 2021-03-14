@@ -1,0 +1,1 @@
+We construct vector bundles R^r_\mu on a smooth projective curve X having the property that for all sheaves E of slope \mu and rank r on X we have an equivalence: E is a semistable vector bundle \iff Hom(R^r_\mu,E)=0.   As a byproduct of our construction we obtain effective bounds on r such that the linear system |R \cdot \Theta| has base points on the moduli space U_X(r,r(g-1)).

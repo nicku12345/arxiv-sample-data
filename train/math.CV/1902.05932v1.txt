@@ -1,0 +1,1 @@
+We give a simple proof of the fact that a finite measure \mu on the unit disk is a Carleson measure for the Dirichlet space if it satisfies the Carleson one-box condition \mu(S(I))=O(\phi(|I|)), where \phi:(0,2\pi]\to(0,\infty) is an increasing function such that \int_0^{2\pi}(\phi(x)/x)\,dx<\infty. We further show that the integral condition on \phi is sharp.

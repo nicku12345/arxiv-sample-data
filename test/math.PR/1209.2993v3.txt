@@ -1,0 +1,1 @@
+We prove that the almost sure Lyapunov exponent \lambda(\kappa) of the continuous space Parabolic Anderson Model is bounded above by c_u \kappa^{1/3} as \kappa\downarrow0 under mild regularity conditions. This bound of the same order of the previously proven lower bound, \lambda(\kappa) \ge c_l \kappa^{1/3}.

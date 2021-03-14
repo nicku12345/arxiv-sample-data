@@ -1,0 +1,1 @@
+We discuss a number of general constructions concerning additive  C^* -categories, focussing in particular on establishing the existence of bicolimits. As an illustration of our results we show that balanced tensor products of module categories over  C^* -tensor categories exist without any finiteness assumptions.

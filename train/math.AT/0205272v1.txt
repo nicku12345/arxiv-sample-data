@@ -1,0 +1,1 @@
+Let T be the complex projective torus, and X the surface CP^1 X T. Let X_Gal be its Galois cover with respect to a generic projection to CP^2. In this paper we compute the fundamental group of X_Gal, using the degeneration and regeneration techniques, the Moishezon-Teicher braid monodromy algorithm and group calculations. We show that pi_1(X_Gal) = Z^10.

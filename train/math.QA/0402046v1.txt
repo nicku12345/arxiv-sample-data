@@ -1,0 +1,1 @@
+A model of 3-dimensional topological quantum field theory is rigorously constructed. The results are applied to an explicit formula for deformation quantization of any finite-dimensional Lie bialgebra over the field of complex numbers. This gives an explicit construction of "quantum groups" from any Lie bialgebra, which was proven without explicit formulas in [EK].

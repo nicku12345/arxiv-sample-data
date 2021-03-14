@@ -1,0 +1,1 @@
+It is shown that for any family of probability measures in Ornstein type constructions the corresponding transformation has almost surely a singular spectrum. This is a new generalization of Bourgain's theorem, the same result is proved for Rudolph's construction.

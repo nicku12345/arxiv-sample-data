@@ -1,0 +1,1 @@
+We establish the Composition-Diamond lemma for non-associative algebras over a free commutative algebra. As an application, we prove that every countably generated non-associative algebra over an arbitrary commutative algebra K can be embedded into a two-generated non-associative algebra over K.

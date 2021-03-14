@@ -1,0 +1,1 @@
+Formal definitions of quantities, quantity spaces, dimensions and dimension groups are introduced. Based on these concepts, a theoretical framework and a practical algorithm for dimensional analysis are developed, and examples of dimensional analysis are given.

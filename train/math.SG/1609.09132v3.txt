@@ -1,0 +1,1 @@
+For G a Lie group acting on a symplectic manifold (M,\omega) preserving a pair of Lagrangians L_0, L_1, under certain hypotheses not including equivariant transversality we construct a G-equivariant Floer cohomology of L_0 and L_1.

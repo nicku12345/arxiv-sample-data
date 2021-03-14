@@ -1,0 +1,1 @@
+We prove that if M, N are finite modules over a Gorenstein local ring R of codimension at most 4, then the vanishing of Ext^n_R(M,N) for n\gg 0 is equivalent to the vanishing of Ext^n_R(N,M) for n\gg 0. Furthermore, if the completion of R has no embedded deformation, then such vanishing occurs if and only if M or N has finite projective dimension.

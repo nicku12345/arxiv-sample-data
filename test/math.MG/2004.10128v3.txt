@@ -1,0 +1,1 @@
+In this paper we prove that any odd multigrid with non-zero rational offsets is regular, which means that its dual is a rhombic tiling. To prove this result we use a result on trigonometric diophantine equations.

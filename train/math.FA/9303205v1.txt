@@ -1,0 +1,1 @@
+The condition onto pair (F,G) of function Banach spaces under which there exists a integral operator T:F\to G with analytic kernel such that the inverse mapping T^{-1}:imT\to F does not belong to arbitrary a priori given Borel (or Baire) class is found.

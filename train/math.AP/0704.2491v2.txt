@@ -1,0 +1,1 @@
+This note is devoted to the explicit construction of a functional defined on all pairs of \L1 functions with small total variation, which is equivalent to the \L1 distance and non increasing along the trajectories of a given system of conservation laws. Two different constructions are provided, yielding an extension of the original stability functional by Bressan, Liu and Yang.

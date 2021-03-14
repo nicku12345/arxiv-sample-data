@@ -1,0 +1,1 @@
+Using Cayley graphs and Clifford algebras, we are able to give, for every finitely generated groups, a uniform construction of spectral triples with a generically non-trivial phase for the Dirac operator. Unfortunatly D_{+} is index 0, but we are naturally led to an interesting classification of finitely generated groups into three types.

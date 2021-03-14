@@ -1,0 +1,1 @@
+In this paper we show that the Frobenius test exponent for parameter ideals of a local ring of prime characteristic is always bigger than or equal to its Hartshorne-Speiser-Lyubeznik number. Our argument is based on an isomorphism of Nagel and Schenzel on local cohomology that we will provide an elementary proof.

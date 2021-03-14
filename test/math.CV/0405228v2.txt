@@ -1,0 +1,1 @@
+In this paper, we study the asymptotic geometry of Teichmuller space of Riemann surfaces and give bounds on the Weil-Petersson sectional curvature of Teichmuller space, in terms of the length of the shortest geodesic on the surface. This will also imply that the sectional curvature is not pinched from above or below by any negative constant.

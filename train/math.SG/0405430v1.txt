@@ -1,0 +1,1 @@
+We prove a Poincare lemma for a set of r smooth functions on a 2n-dimensional smooth manifold satisfying a commutation relation determined by r singular vector fields associated to a Cartan subalgebra of \frak{sp}(2r,\mathbb R). This result has a natural interpretation in terms of the cohomology associated to the infinitesimal deformation of a completely integrable system.

@@ -1,0 +1,1 @@
+In this note, we investigate the p-adic behavior of Weil numbers in the cyclotomic \mathbb Z\_p-extension of \mathbb Q(\zeta\_p). We determlne the characteristic ideal of the quotient of semi-local units by Weil numbers in terms of the characteristic ideals of some classical modules that appear in Iwasawa Theory.

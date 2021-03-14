@@ -1,0 +1,1 @@
+Suppose that a locally finite group G has a 2-element g with Chernikov centralizer. It is proved that if the involution in \langle g\rangle has nilpotent centralizer, then G has a soluble subgroup of finite index.

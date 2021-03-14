@@ -1,0 +1,1 @@
+For a holomorphic function on a complex manifold, we show that the vanishing cohomology of lower degree at a point is determined by that for the points near it, using the perversity of the vanishing cycle complex. We calculate it explicitly in the case the hypersurface has simple normal crossings outside the point. We also give some applications to the monodromy.

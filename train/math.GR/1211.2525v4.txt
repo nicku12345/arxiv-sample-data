@@ -1,0 +1,1 @@
+In 1967 L. Auslander conjectured that every crystallographic subgroup of an affine group is virtually solvable, i.e. contains a solvable subgroup of finite index. D. Fried and W. Goldman proved Auslander's conjecture for affine space of dimension 3 using cohomological arguments. Using dynamical arguments we prove the Auslander conjecture for dimension less than 7.

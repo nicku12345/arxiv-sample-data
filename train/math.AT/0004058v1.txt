@@ -1,0 +1,1 @@
+The vanishing of Van Kampen's obstruction is known to be necessary and sufficient for embeddability of a simplicial n-complex into R^{2n} for n\neq 2, and it was recently shown to be incomplete for n=2. We use algebraic-topological invariants of four-manifolds with boundary to introduce a sequence of higher embedding obstructions for a class of 2-complexes in R^4.

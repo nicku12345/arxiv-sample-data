@@ -1,0 +1,1 @@
+This note is devoted to proving the following result: given a compact metrizable group G, there is a compact metric space K such that G is isomorphic (as a topological group) to the isometry group of K.

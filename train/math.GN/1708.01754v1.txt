@@ -1,0 +1,1 @@
+We prove that if X is a paracompact connected space and Z=\prod_{s\in S}Z_s is a product of a family of equiconnected metrizable spaces endowed with the box topology, then for every Baire-one map g:X\to Z there exists a separately continuous map f:X^2\to Z such that f(x,x)=g(x) for all x\in X.

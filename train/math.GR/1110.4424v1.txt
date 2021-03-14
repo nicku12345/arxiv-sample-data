@@ -1,0 +1,1 @@
+A structure of a complete lattice (in the sense of a poset) is defined on the underlying set of the orhtogonal group of a real Euclidean space, by a construction analogous to that of the weak order of a Coxeter system in terms of its root system. This gives rise to a complte rootoid in the sense of Dyer, with the orthogonal group as underlying group.

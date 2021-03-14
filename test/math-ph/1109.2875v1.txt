@@ -1,0 +1,1 @@
+We formulate the Bogoliubov variational principle in a mathematical framework similar to the generalized Hartree-Fock theory. Then we analyze the Bogoliubov theory for bosonic atoms in details. We discuss heuristically why the Bogoliubov energy should give the first correction to the leading energy of large bosonic atoms.

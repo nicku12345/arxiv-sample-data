@@ -1,0 +1,1 @@
+We consider the binomial distribution with parameters n and x, and show that the sum of the squared probabilities is a log-convex function of x. This completes the proof of a conjecture formulated in 2014. Applications to R\'{e}nyi and Tsallis entropies are given.

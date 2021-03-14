@@ -1,0 +1,1 @@
+A method for computing the mixed moments of (not necessarily commutative) random vectors from the first order moments, the q-commutators between the annihilation and creation operators, and the q-commutators between the annihilation and preservation operators, is presented. The method is illustrated by a relevant characterization of q-Gaussian vectors.

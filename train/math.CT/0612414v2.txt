@@ -1,0 +1,1 @@
+A tensor model structure is constructed on the category of chain complexes of presheaves of R-modules for a sheaf of rings R in a Grothendieck topos. If the topos has enough points, then the homotopy category is equivalent to the derived category. Some t-structures, generalizing the perverse t-structures, are constructed on the derived category.

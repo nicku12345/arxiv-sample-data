@@ -1,0 +1,1 @@
+In the paper, the representation rings (or the Green rings) for a family of Hopf algebras of tame type, the 2-rank Taft algebra (at q=-1) and its two relatives twisted by 2-cocycles are explicitly described via a representation theoretic analysis. It turns out that the Green rings can serve to detect effectively the twist-equivalent Hopf algebras here.

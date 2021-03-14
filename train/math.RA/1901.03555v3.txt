@@ -1,0 +1,1 @@
+We show that a von Neumann regular ring with involution is directly finite provided that it admits a representation as a ring of endomorphisms (the involution given by taking adjoints) of a vector space endowed with a non-degenerate orthosymmetric sesquilinear form.

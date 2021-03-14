@@ -1,0 +1,1 @@
+We show that the Eisenbud-Goto conjecture holds for (homogeneous) seminormal simplicial affine semigroup rings. Moreover, we prove an upper bound for the Castelnuovo-Mumford regularity in terms of the dimension, which is similar as in the normal case. Finally, we compute explicitly the regularity of full Veronese rings.

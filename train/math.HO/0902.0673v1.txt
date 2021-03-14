@@ -1,0 +1,1 @@
+Where a 2D problem of optimal profile in variable speed flow is resolved in a class of convex Bezier curves, using symbolic and numerical computations.

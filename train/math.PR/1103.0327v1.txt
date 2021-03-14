@@ -1,0 +1,1 @@
+In this note we consider the Glauber dynamics for the mean-field Ising model, when all couplings are equal and the external field is uniform. It is proved that the relaxation time of the dynamics is monotonically decreasing in temperature.

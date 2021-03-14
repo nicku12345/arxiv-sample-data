@@ -1,0 +1,1 @@
+We present Buchberger Theory and Algorithm of Gr\"obner bases for multivariate Ore extensions of rings presented as modules over a principal ideal domain. The algorithms are based on M\"oller Lifting Theorem.

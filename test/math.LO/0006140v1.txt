@@ -1,0 +1,1 @@
+We show that Mazur's conjecture on the real topology of rational points on varieties implies that there is no diophantine model of the rational integers in the rational numbers. We also prove that there is a diophantine model of the polynomial ring over a finite field in the ring of rational functions over that finite field. Both proofs depend upon Matijasevich's theorem.

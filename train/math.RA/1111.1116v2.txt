@@ -1,0 +1,1 @@
+In this paper we use a generalized vector product to construct an exterior form \wedge :(\mathbb{R}^{n}) ^{k}\to \mathbb{R}^{\binom{n}{k}}, where \binom{n}{k}=\frac{n!}{(n-k)!k!}, k\leq n. Finally, for n=k-1 we introduce the reversing operation to study this generalized vector product over palindromic and antipalindromic vectors.

@@ -1,0 +1,1 @@
+The purpose of this article is to provide a new characterization of Cohen-Macaulay local rings. As a consequence we deduce that a local (Noetherian) ring R is Gorenstein if and only if every parameter ideal of R is irreducible.

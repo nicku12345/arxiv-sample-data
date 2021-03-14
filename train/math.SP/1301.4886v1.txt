@@ -1,0 +1,1 @@
+We find spectrum and eigenfunctions of the operator (Vf)(x) = \int_0^{x^\alpha} f(t) dt in L_2[0,1]

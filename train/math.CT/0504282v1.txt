@@ -1,0 +1,1 @@
+We consider cohomology of small categories with coefficients in a natural system in the sense of Baues and Wirsching. For any funtor L: K -> CAT, we construct a spectral sequence abutting to the cohomology of the Grothendieck construction of L in terms of the cohomology of K and of L(k), for k an object in K.

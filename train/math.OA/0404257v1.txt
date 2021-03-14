@@ -1,0 +1,1 @@
+We show that Haefliger's cohomology for etale groupoids, Moore's cohomology for locally compact groups and the Brauer group of a locally compact groupoid are all particular cases of sheaf (or Cech) cohomology for topological simplicial spaces.

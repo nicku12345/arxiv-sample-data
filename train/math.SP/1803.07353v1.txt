@@ -1,0 +1,1 @@
+For a Riemannian covering \pi\colon M_1\to M_0, the bottoms of the spectra of M_0 and M_1 coincide if the covering is amenable. The converse implication does not always hold. Assuming completeness and a lower bound on the Ricci curvature, we obtain a converse under a natural condition on the spectrum of M_0.

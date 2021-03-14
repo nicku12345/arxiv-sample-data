@@ -1,0 +1,1 @@
+Let X be a closed, simply-connected, smooth, spin 4-manifold whose intersection form is isomorphic to n(-E_8)\bigoplus mH, where H is the hyperbolic form.   In this paper, we prove that for n such that n\equiv 2 ~{\rm mod} ~4, there exists a locally linear pseudofree \mathbb{Z}_2-action on X which is nonsmoothable with respect to any possible smooth structure on X.

@@ -1,0 +1,1 @@
+In this paper, we establish the Pexiderized stability of coboundaries and cocycles and use them to investigate the Hyers--Ulam stability of some functional equations. We prove that for each Banach algebra A, Banach A-bimodule X and positive integer n, H^n(A,X)=0 if and only if the n-th cohomology group approximately vanishes.

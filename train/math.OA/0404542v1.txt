@@ -1,0 +1,1 @@
+In this paper we describe an operation on directed graphs which produces a graph with fewer vertices, such that the C*-algebra of the new graph is Morita equivalent to that of the original graph. We unify and generalize several related constructions, notably delays and desingularizations of directed graphs.

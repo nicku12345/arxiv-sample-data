@@ -1,0 +1,1 @@
+We prove in this note a stabilized version of a conjecture on \A^1-connectedness. For the stabilized version of this conjecture, we introduce the notion of stable \A^1-connectedness, which is can be seen as the stabilization of \A^1-connectedness. The notion of stable \A^1-connectedness is in connection to the existence of zero cycles of degree one rather than rational points.

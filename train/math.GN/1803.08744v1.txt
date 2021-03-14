@@ -1,0 +1,1 @@
+We show that any continuous open surjection from a complete metric space to another metric space can be restricted to a surjection for which the domain has the same density character as the target. This improves a recent result of Aron, Jaramillo and Le Donne.

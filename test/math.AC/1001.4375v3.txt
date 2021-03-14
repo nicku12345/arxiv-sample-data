@@ -1,0 +1,1 @@
+We investigate the analogy between squarefree Cohen-Macaulay modules supported on a graph and line bundles on a curve. We prove a Riemann-Roch theorem, we study the Jacobian and gonality of a graph, and we prove Clifford's theorem.

@@ -1,0 +1,1 @@
+Let X=G/K be a Riemannian symmetric space of the noncompact type. We give a short exposition of the representation theory related to X, and discuss its holomorphic extension to the complex crown, a G-invariant subdomain in the complexified symmetric space X_\C=G_\C/K_\C. Applications to the heat transform and the Radon transform for X are given.

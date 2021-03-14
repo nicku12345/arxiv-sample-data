@@ -1,0 +1,1 @@
+The history, definition and principal properties of automatic groups and their generalisations to subgroups and cosets are reviewed briefly, mainly from a computational perspective. A result about the asynchronous automaticity of an HNN extension is then proved and applied to an example that was proposed by Mark Sapir.

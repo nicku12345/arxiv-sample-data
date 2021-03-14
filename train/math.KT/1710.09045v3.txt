@@ -1,0 +1,1 @@
+We give a short proof of Kaledin's theorem on the degeneration of the noncommutative Hodge-to-de Rham spectral sequence. Our approach is based on topological Hochschild homology and the theory of cyclotomic spectra. As a consequence, we also obtain relative versions of the degeneration theorem, both in characteristic zero and for regular bases in characteristic p.

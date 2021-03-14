@@ -1,0 +1,1 @@
+We study C^*-algebras arising from C^*-correspondences, which was introduced by the author. We prove the gauge-invariant uniqueness theorem, and obtain conditions for our C^*-algebras to be nuclear, exact, or satisfy the Universal Coefficient Theorem. We also obtain a 6-term exact sequence of K-groups involving the K-groups of our C^*-algebras.

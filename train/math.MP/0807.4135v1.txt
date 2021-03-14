@@ -1,0 +1,1 @@
+The asymptotic iteration method (AIM) is used to obtain both special exact solutions and general approximate solutions for a Hydrogen-like atom confined in a spherical box of arbitrary radius R. Critical box radii, at which states are no longer bound, are also calculated. The results are compared with those in the literature.

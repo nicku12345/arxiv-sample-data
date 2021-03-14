@@ -1,0 +1,1 @@
+We compute equivariant Euler characteristics of locally free sheaves on curves, thereby generalizing several results of Kani and Nakajima. For instance, we extend Kani's computation of the Galois module structure of the space of global meromorphic differentials which are logarithmic along the ramification locus from the tamely ramified to the weakly ramified case.

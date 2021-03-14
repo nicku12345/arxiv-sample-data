@@ -1,0 +1,1 @@
+The class of cographs is known to have unbounded linear clique-width. We prove that a hereditary class of cographs has bounded linear clique-width if and only if it does not contain all quasi-threshold graphs or their complements. The proof borrows ideas from the enumeration of permutation classes.

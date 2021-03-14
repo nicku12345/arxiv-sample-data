@@ -1,0 +1,1 @@
+We prove a quantitative structure theorem for metrics on \mathbf{R}^n that are conformal to the flat metric, have almost constant positive scalar curvature, and cannot concentrate more than one bubble. As an application of our result, we show a quantitative rate of convergence in relative entropy for a fast diffusion equation in \mathbf{R}^n related to the Yamabe flow.

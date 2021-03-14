@@ -1,0 +1,1 @@
+We show that there exist infinitely many particular choices of parameters for which the three-term recurrence relations governing the expansions of the solutions of the general Heun equation in terms of the Gauss hypergeometric functions become two-term. In these cases the coefficients are explicitly written in terms of the gamma functions.

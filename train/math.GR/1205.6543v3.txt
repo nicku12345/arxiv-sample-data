@@ -1,0 +1,1 @@
+We prove that the image of the Full braid group B_{n+1} on n+1 strands under the Burau representation, evaluated at a primitive d-th root of unity is arithmetic provided n\geq d.

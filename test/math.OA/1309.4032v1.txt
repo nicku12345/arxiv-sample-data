@@ -1,0 +1,1 @@
+Let H be a complex Hilbert space, B(H) and S(H) be the spaces of all bounded operators and all self-adjoint operators on H, respectively. We give the concrete forms of the maps on B(H) and also S(H) which preserve the spectrum of certain products of operators.

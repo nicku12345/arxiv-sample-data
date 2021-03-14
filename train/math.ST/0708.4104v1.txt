@@ -1,0 +1,1 @@
+We consider the regression model with (known) random design. We investigate the minimax performances of an adaptive wavelet block thresholding estimator under the \mathbb{L}^p risk with p\ge 2 over Besov balls. We prove that it is near optimal and that it achieves better rates of convergence than the conventional term-by-term estimators (hard, soft,...).

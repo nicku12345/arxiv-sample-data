@@ -1,0 +1,1 @@
+We show there exists a closed graph manifold N and infinitely many non-separable, horizontal surfaces \{S_{n} \to N\}_{n \in \mathbb{N}} such that there does not exist a quasi-isometry \pi_1(N) \to \pi_1(N) taking \pi_1(S_{n}) to \pi_1(S_{m}) within a finite Hausdorff distance when n \neq m.

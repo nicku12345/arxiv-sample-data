@@ -1,0 +1,1 @@
+Cubic forms in three variables are parametrised by points of \P^9. We study the subvarieties in this space defined by decomposable forms. Specifically, we calculate the equivariant minimal resolutions of these varieties and describe their ideals invariant-theoretically.

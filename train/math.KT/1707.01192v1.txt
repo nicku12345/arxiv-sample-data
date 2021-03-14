@@ -1,0 +1,1 @@
+We give a K-theoretic criterion for a quasi-projective variety to be smooth. If \mathbb{L} is a line bundle corresponding to an ample invertible sheaf on X, it suffices that K_q(X) = K_q(\mathbb{L}) for all q\le\dim(X)+1.

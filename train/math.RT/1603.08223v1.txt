@@ -1,0 +1,1 @@
+We discuss the notion of linearization through examples, which include the Price map, PageRank, representation theory, the Euler characteristic and quantum invariants. We also review categorification, which adds an additional layer of structure, in the context of the last two examples.

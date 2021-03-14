@@ -1,0 +1,1 @@
+Let K be a convex body in \mathbb{R}^n with Santal\'o point at 0\. We show that if K has a point on the boundary with positive generalized Gau{\ss} curvature, then the volume product |K| |K^\circ| is not minimal. This means that a body with minimal volume product has Gau{\ss} curvature equal to 0 almost everywhere and thus suggests strongly that a minimal body is a polytope.

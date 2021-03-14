@@ -1,0 +1,1 @@
+The inequality |X| \leq 2^{\chi(X)} has been proved to be true for Lindel\"of spaces (Arhangel'ski\u\i, 1969), H-closed spaces (Dow-Porter, 1982) and ccc spaces (Hajnal-Ju\'asz 1967), by quite different arguments. We present a common extension of all these properties which allows us to give a unified proof of these three theorems.

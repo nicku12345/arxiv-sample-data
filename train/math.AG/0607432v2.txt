@@ -1,0 +1,1 @@
+We find a set of generators and relations for the system of extended tautological rings associated to the moduli spaces of stable maps in genus zero, admitting a simple geometrical interpretation. In particular, when the target is \PP^n, these give a complete presentation for the cohomology and Chow rings in the cases with/without marked points.

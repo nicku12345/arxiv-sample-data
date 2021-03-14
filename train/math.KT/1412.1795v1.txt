@@ -1,0 +1,1 @@
+In this short note we establish some properties of all those motivic measures which can be exponentiated. As a first application, we show that the rationality of Kapranov's zeta function is stable under products. As a second application, we give an elementary proof of a result of Totaro.

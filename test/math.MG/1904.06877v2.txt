@@ -1,0 +1,1 @@
+Let X be a non-collapsing Ricci limit space and let x\in X. We show that for any \epsilon>0, there is r>0 such that every loop in B_t(x) is contractible in B_{(1+\epsilon)t}(x), where t\in(0,r]. In particular, X is semi-locally simply connected.

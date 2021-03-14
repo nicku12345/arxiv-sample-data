@@ -1,0 +1,1 @@
+For smooth projective 3-folds of general type, we prove that the relative canonical stability \mu_s(3)\leq 8. This is induced from our improved result of Koll\'ar: the m-canonical map of a smooth projective 3-fold of general type is birational whenever m\geq 5k+6, provided P_k(X)\geq 2. The Q-divisor method is intensively developed to prove our results.

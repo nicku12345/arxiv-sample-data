@@ -1,0 +1,1 @@
+We prove the existence of minimal symplectomorphisms and strictly ergodic contactomorphisms on manifolds which admit a locally free \mathbb{S}^1--action by symplectomorphisms and contactomorphisms, respectively. The proof adapts the conjugation method, introduced by Anosov and Katok, to the contact and symplectic setting.

@@ -1,0 +1,1 @@
+We derive the first six coefficients of the heat kernel expansion for the electromagnetic field in a cavity by relating it to the expansion for the Laplace operator acting on forms. As an application we verify that the electromagnetic Casimir energy is finite.

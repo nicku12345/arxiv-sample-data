@@ -1,0 +1,1 @@
+In this paper, we collect basic properties of the Albanese dimension and explain how to generalize the main theorem of [F2](math.AG/0204262). This paper is a supplement and a generalization of [F2]. We also prove an inequality of irregularities for algebraic fiber spaces in the appendix, which is an exposition of Fujita-Kawamata's semi-positivity theorem.

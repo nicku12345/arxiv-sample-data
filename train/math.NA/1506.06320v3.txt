@@ -1,0 +1,1 @@
+We obtain several Cauchy-like and Pellet-like results for the zeros of a general complex polynomial by considering similarity transformations of the squared companion matrix and the reformulation of the zeros of a scalar polynomial as the eigenvalues of a polynomial eigenvalue problem.

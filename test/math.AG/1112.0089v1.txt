@@ -1,0 +1,1 @@
+We introduce the notion of an asymptotic algebra of chiral differential operators. We then construct, via a chiral Hamiltonian reduction, one such algebra over a resolution of the intersection of the Slodowy slice with the nilpotent cone. We compute the space of global sections of this algebra thereby proving a localization theorem for affine W-algebras at the critical level.

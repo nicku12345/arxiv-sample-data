@@ -1,0 +1,1 @@
+As recently pointed out by Li and Xu, the definition of K-stability, and the author's proof of K-stability for cscK manifolds without holomorphic vector fields, need to be altered slightly: the Donaldson-Futaki invariant is positive for all test configurations which are not trivial in codimension 2.

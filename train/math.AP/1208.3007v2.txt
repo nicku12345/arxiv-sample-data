@@ -1,0 +1,1 @@
+In this paper we study the large time behavior of regular solutions to a nematic liquid crystal system in Sobolev spaces H^m(\R^3) for m\geq 0.We obtain optimal decay rates in H^m(R^3) spaces, in the sense that the rates coincide with the rates of the underlying linear counterpart. The fluid under consideration has constant density and small initial data.

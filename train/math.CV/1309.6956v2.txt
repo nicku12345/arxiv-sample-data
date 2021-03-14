@@ -1,0 +1,1 @@
+We prove that a Stein manifold of dimension d admits a proper holomorphic embedding into any Stein manifold of dimension at least 2d+1 satisfying the holomorphic density property. This generalizes classical theorems of Remmert, Bishop and Narasimhan pertaining to embeddings into complex Euclidean spaces, as well as several other recent results.

@@ -1,0 +1,1 @@
+We offer a new Monte-Carlo method for solving of linear integral equation which gives the unbiased estimation for solution of Volterra's and Fredholm's type, and consider the problem of confidence region building.   We study especially the case of the so-called equations with weak singularity in the kernel of Abelian type.

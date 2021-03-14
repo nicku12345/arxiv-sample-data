@@ -1,0 +1,1 @@
+Motivated by the need for efficient isomorphism tests for finite groups, we present a polynomial-time method for deciding isomorphism within a class of groups that is well-suited to studying local properties of general finite groups. We also report on the performance of an implementation of the algorithm in the computer algebra system {\sc magma}.

@@ -1,0 +1,1 @@
+Let T_\Omega be the singular integral operator with variable kernel \Omega(x,z). In this paper, by using the atomic decomposition theory of weighted weak Hardy spaces, we will obtain the boundedness properties of T_\Omega on these spaces, under some Dini type conditions imposed on the variable kernel \Omega(x,z).

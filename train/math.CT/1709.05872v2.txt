@@ -1,0 +1,1 @@
+We study the transfer of (dual) relative Rickart properties via functors between abelian categories, and we deduce the transfer of (dual) relative Baer property. We also give applications to Grothendieck categories, comodule categories and (graded) module categories, with emphasis on endomorphism rings.

@@ -1,0 +1,1 @@
+We reexamine the Riemann Rearrangement Theorem for different types of convergence. We consider series convergence with respect to a filter. We describe the Sum Range (SR) of a series along the 2n-filter and for statistically convergent series.

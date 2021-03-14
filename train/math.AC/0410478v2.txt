@@ -1,0 +1,1 @@
+We present a matrix-based algorithm for deciding if the parametrization of a curve or a surface is invertible or not, and for computing the inverse of the parametrization if it exists.

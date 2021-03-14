@@ -1,0 +1,1 @@
+We generalize the notion of a modified trace (or m-trace) to the setting of non-unimodular categories. M-traces are known to play an important role in low-dimensional topology and representation theory, as well as in studying the category itself. Under mild conditions we give existence and uniqueness results for m-traces in pivotal categories.

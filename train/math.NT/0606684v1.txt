@@ -1,0 +1,1 @@
+In the paper Factorisation of division polynomials (H. Verdure, Proc. japan Academy, Ser A. 80 n. 5), Verdure gives the factorisation patterns of division polynomials of elliptic curves defined over a finite field. However, the result given there contains a mistake. In this paper, we correct it.

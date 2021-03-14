@@ -1,0 +1,1 @@
+Using Effros-Handelman-Shen theorem and Elliott's classification theorem of AF algebras, we show that there exists a unital simple AF algebra A with unique trace such that A\otimes \mathbb{K} admits no trace scaling action of the fundamental group of A.

@@ -1,0 +1,1 @@
+We prove a noncompact version of Haagerup and R{\o}rdam's result about continuous paths of the rotation C^*-algebras. It gives a continuous Moyal deformation of Euclidean plane. Moveover, the construction is generalized to noncommutative Euclidean spaces of dimension d\ge 2. As a corollary, we obtain Lip^{\frac12} continuous maps for the generators of noncommutative d-tori.

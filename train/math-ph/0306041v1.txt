@@ -1,0 +1,1 @@
+The formula for the Hirzebruch \chi_y-genus of complex manifolds is a consequence of the Hirzebruch-Riemann-Roch formula. The classical index formulae for Todd genus, Euler number, and Signature correspond to the case when the complex variable y= 0, -1, and 1 respectively. Here we give a {\it direct} derivation of this nice formula based on supersymmetric quantum mechanics.

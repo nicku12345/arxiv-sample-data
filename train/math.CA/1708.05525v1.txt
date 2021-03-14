@@ -1,0 +1,1 @@
+The main purpose of this paper is to study multi-parameter singular integral operators which commute with Zygmund dilations. We introduce a class of singular integral operators associated with Zygmund dilations and show the boundedness for these operators on L^p, 1<p<\infty, which covers those studied by Ricci--Stein \cite{RS} and Nagel--Wainger \cite{NW}

@@ -1,0 +1,1 @@
+We provide an upper bound on the number of ordered Reidemeister moves required to pass between two diagrams of the same link. This bound is in terms of the number of unordered Reidemeister moves required.

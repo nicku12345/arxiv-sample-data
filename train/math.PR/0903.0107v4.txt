@@ -1,0 +1,1 @@
+Project a collection of points on the high-dimensional sphere onto a random direction. If most of the points are sufficiently far from one another in an appropriate sense, the projection is locally close in distribution to the Poisson point process.

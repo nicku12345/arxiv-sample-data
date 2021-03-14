@@ -1,0 +1,1 @@
+Consider a complex symplectic manifold X and the algebroid W_X of quantization-deformation. For two regular holonomic modules L_i (i=0,1) supported by smooth Lagrangian manifolds, we prove that the complex Rhom_{W_X}(L_1,L_0) is constructible and perverse and dual to the complex Rhom_{W_X}(L_0,L_1).

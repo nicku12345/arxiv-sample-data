@@ -1,0 +1,1 @@
+Inverse limits, unlike direct limits, can in general be void, [1]. The existence of fixed points for arbitrary mappings T : X \longrightarrow X is conjectured to be equivalent with the fact that related direct limits of all finite partitions of X are not void.

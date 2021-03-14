@@ -1,0 +1,1 @@
+It shown that any coideal subalgebra of a finite dimensional Hopf algebra is a cyclic module over the dual Hopf algebra. Using this we describe all coideal subalgebras of a cocentral abelian extension of Hopf algebras extending some results from [4].

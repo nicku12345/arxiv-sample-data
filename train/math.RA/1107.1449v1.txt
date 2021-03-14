@@ -1,0 +1,1 @@
+In the note some construction of Lie algebras is introduced. It is proved that the construction has the same property as a well known wreath product of groups [1]: Any extension of groups can be embedded into their wreath product [2].

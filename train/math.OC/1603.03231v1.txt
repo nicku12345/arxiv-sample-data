@@ -1,0 +1,1 @@
+In this paper we study the controllability of a coupled Keller-Segel-Navier-Stokes system. We show the local exact controllability of the system around some particular trajectories. The proof relies on new Carleman inequalities for the chemotaxis part and some improved Carleman inequalities for the Stokes system.

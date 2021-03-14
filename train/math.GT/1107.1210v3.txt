@@ -1,0 +1,1 @@
+We construct a state model for the two-variable Kauffman polynomial using planar trivalent graphs. We also use this model to obtain a polynomial invariant for a certain type of trivalent graphs embedded in three-dimensional space.

@@ -1,0 +1,1 @@
+Let p(z)=zf'(z)/f(z) for a function f(z) analytic on the unit disk |z|<1 in the complex plane and normalized by f(0)=0, f'(0)=1. We will provide lower and upper bounds for the best constants \delta_0 and \delta_1 such that the conditions e^{-\delta_0/2}<|p(z)|<e^{\delta_0/2} and |p(w)/p(z)|<e^{\delta_1} for |z|,|w|<1 respectively imply univalence of f on the unit disk.

@@ -1,0 +1,1 @@
+We introduce a notion of valued module which is suitable to study valued fields of positive characteristic. Then we built-up a robust theory of henselianity in the language of valued modules and prove Ax-Kochen Ershov type results.

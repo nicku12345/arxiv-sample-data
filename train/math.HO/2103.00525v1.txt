@@ -1,0 +1,1 @@
+We give a brief historical overview of the development of the Computer Algebra System SINGULAR: why it came about and how the development was related to the attempt to refute Zariski's multiplicity conjecture.

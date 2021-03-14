@@ -1,0 +1,1 @@
+We prove that if a completely non-unitary contraction T in L(H) has a non-trivial algebraic element h, then T has a non-trivial invariant subspace.

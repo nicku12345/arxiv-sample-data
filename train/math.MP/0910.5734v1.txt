@@ -1,0 +1,1 @@
+The many-body wave scattering problem is studied in the case where the bodies are small, ka \ll 1, where a is the characteristic size of a body. The limiting case when a \to 0 and the total number of the small bodies is M = O (a^{2-\kappa}) is studied, \kappa\in (0,1) is a parameter, the distance d between neighboring bodies is d=O(a^{(2-\kappa)/3}.

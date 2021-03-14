@@ -1,0 +1,1 @@
+We give an example of a non-trivial asymptotic representation of the reduced C*-algebra of a free group. This example allows to evaluate the asymptotic tensor C*-norm of some elements in tensor product C*-algebras and to show semi-invertibility of the non-invertible extension of C^*_r(\mathbb F_2) considered by Haagerup and Thorbjornsen.

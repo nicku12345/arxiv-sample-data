@@ -1,0 +1,1 @@
+We show that for given four points in the Riemann sphere and a given isotopy class of two disjoint arcs connecting these points in two pairs, there exists a unique configuration with the property that each arc is a hyperbolic geodesic segment in the complement of the other arc.

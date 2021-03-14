@@ -1,0 +1,1 @@
+In this addendum to our article "Superconnections and Parallel Transport" we give an alternate construction to the parallel transport of a superconnection contained in Corollary 4.4 of \cite{D1}, which has the advantage that is independent on the various ways a superconnection splits as a connection plus a bundle endomorphism valued form.

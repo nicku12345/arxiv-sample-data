@@ -1,0 +1,1 @@
+We give tight bounds for the Stanley depth of the quotient ring of the path ideal of a cycle graph. In particular, we prove that it satisfies the Stanley inequality.

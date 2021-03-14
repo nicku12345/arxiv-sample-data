@@ -1,0 +1,1 @@
+We apply the full centre construction, defined in arXiv:0908.1250, to algebras in and module categories over categories of representations of Hopf algebras. We obtain a compact formula for the full centre of a module algebra over a Hopf algebra.

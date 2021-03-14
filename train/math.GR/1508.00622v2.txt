@@ -1,0 +1,1 @@
+We introduce a homology theory for subspace arrangements, and use it to extract a new system of numerical invariants from the Bieri-Neumann-Strebel invariant of a group. We use these to characterize when the set of basis conjugating outer automorphisms (a.k.a. the pure symmetric outer automorphism group) of a right-angled Artin group is itself a right-angled Artin group.

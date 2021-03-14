@@ -1,0 +1,1 @@
+The notion of stochastic shadowing property is introduced. Relations to stochastic stability and standard shadowing are studied. Using tent map as an example it is proved that, in contrast to what happens for standard shadowing, there are significantly non-uniformly hyperbolic systems that satisfy stochastic shadowing property.

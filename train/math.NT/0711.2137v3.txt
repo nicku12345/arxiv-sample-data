@@ -1,0 +1,1 @@
+Let K be any finite extension of Q_{p}, L any finite Galois extension of K and E any finite large enough coefficient field containing L. We classify two-dimensional, F-semistable E-representations of G_{K}, by listing the isomorphism classes of rank two weakly admissible filtered (\phi,N,L/K,E)-modules.

@@ -1,0 +1,1 @@
+Studying the mirror symmetry of a Calabi-Yau threefold X of the Reye congruence in \mP^4, we conjecture that X has a non-trivial Fourier-Mukai partner Y. We construct Y as the double cover of a determinantal quintic in \mP^4 branched over a curve. We also calculate BPS numbers of both X and Y (and also a related Calabi-Yau complete intersection \tilde X_0) using mirror symmetry.

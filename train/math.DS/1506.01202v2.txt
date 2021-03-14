@@ -1,0 +1,1 @@
+We introduce and prove some basic results about a combinatorial model which produces embedded polygons in the plane. The model is closely related to outer billiards on kites, and also is related to corner percolation, to Hooper's Truchet tile system, to self-similar tilings, and to polyhedron exchange transformations.

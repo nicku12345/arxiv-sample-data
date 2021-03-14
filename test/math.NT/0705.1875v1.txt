@@ -1,0 +1,1 @@
+We study the possible structure of the groups of rational points on elliptic curves of the form y^2=(ax+1)(bx+1)(cx+1), where a,b,c are non-zero rationals such that the product of any two of them is one less than a square.

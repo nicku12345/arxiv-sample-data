@@ -1,0 +1,1 @@
+We prove that strongly F-regular and F-pure singularities satisfy Bertini-type theorems (including in the context of pairs) by building upon a framework of Cumino, Greco and Manaresi (compare with the work of Jouanolou and Spreafico). We also prove that F-injective singularities fail to satisfy even the most basic Bertini-type results.

@@ -1,0 +1,1 @@
+The effect of linear lumping, linear transformation to reduce the number of state variables on controllability and observability of linear differential equations has been studied. Controllability of the original system implies the controllability of the lumped system. Examples taken from reaction kinetics illustrate our results.

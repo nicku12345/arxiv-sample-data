@@ -1,0 +1,1 @@
+We assign, to a Langrangian submanifold L, a new homology which manages the bubbling of disks by means of auxiliary Morse data. This invariant of the Hamiltonian isotopy class of L has many applications and naturally leads to a universal Floer theory for Lagrangian intersections.

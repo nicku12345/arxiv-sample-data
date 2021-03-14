@@ -1,0 +1,1 @@
+We consider natural cardinal invariants hm_n and prove several duality theorems, saying roughly: if I is a suitably definable ideal and provably cov(I)>=hm_n, then non(I) is provably small. The proofs integrate the determinacy theory, forcing and pcf theory.

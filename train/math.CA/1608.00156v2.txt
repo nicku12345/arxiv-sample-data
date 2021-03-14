@@ -1,0 +1,1 @@
+We prove \mathrm{L}^p bounds for the truncated simplex Hilbert transform which grow with a power less than one of the truncation range in the logarithmic scale.

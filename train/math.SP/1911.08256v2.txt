@@ -1,0 +1,1 @@
+We provide a sharp double-sided estimate for Poincar\'e-Sobolev constants on a convex set, in terms of its inradius and N-dimensional measure. Our results extend and unify previous works by Hersch and Protter (for the first eigenvalue) and of Makai, P\'olya and Szeg\H{o} (for the torsional rigidity), by means of a single proof.

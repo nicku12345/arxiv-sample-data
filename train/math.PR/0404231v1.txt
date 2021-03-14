@@ -1,0 +1,1 @@
+In 1956, Dobrushin proved a definitive central limit theorem for non-homogeneous Markov chains. In this note, a shorter and different proof elucidating more the assumptions is given through martingale approximation.

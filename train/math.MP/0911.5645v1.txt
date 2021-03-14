@@ -1,0 +1,1 @@
+This is a concise review of the complex, real and quaternion real Ginibre random matrix ensembles and their elliptic deformations. Eigenvalue correlations are exactly reduced to two-point kernels and discussed in the strongly and weakly non-Hermitian limits of large matrix size.

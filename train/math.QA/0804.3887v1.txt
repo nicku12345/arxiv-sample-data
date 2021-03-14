@@ -1,0 +1,1 @@
+We prove a conjecture raised by Tsygan, namely the existence of an L-infinity-quasiisomorphism of L-infinity-modules between the cyclic chain complex of smooth functions on a manifold and the differential forms on that manifold. Concretely, we prove that the obvious u-linear extension of Shoikhet's morphism of Hochschild chains solves Tsygan's conjecture.

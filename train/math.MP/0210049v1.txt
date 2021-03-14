@@ -1,0 +1,1 @@
+We propose a new definition of geodesic completeness, based on analytical continuation in the complex domain: we apply this idea to Clifton-Pohl torus, relating, for each geodesic, completeness to the value of a function of initial conditions, called 'impulse'.

@@ -1,0 +1,1 @@
+Let B be a thick spherical building equipped with its natural CAT(1) metric and let M be a proper, convex subset of B. If M is open or if M is a closed ball of radius pi/2, then the maximal subcomplex supported by the complement of M is spherical and non contractible.

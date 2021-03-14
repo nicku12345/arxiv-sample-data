@@ -1,0 +1,1 @@
+In this paper we consider the Diophantine equation x^2+q^{2m}=2y^p where m,p,q,x,y are integer unknowns with m>0, p and q are odd primes and \gcd(x,y)=1. We prove that there are only finitely many solutions (m,p,q,x,y) for which y is not a sum of two consecutive squares. We also study the above equation with fixed y and with fixed q.

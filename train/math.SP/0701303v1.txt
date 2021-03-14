@@ -1,0 +1,1 @@
+For first order systems, we obtain an efficient bound on the exponential decay of an eigenfunction in terms of the distance between the corresponding eigenvalue and the essential spectrum. As an example, the Dirac operator is considered.

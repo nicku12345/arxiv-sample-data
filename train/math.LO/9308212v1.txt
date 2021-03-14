@@ -1,0 +1,1 @@
+We prove the consistency of ``CH + 2^{aleph_1} is arbitrarily large + 2^{aleph_1} not-> (omega_1 x omega)^2_2''. If fact, we can get 2^{aleph_1} not-> [omega_1 x omega]^2_{aleph_0}. In addition to this theorem, we give generalizations to other cardinals.

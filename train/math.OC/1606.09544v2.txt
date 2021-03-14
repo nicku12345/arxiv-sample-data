@@ -1,0 +1,1 @@
+We present a subdivision method to solve systems of congruence equations. This method is inspired in a subdivision method, based on Bernstein forms, to solve systems of polynomial inequalities in several variables and arbitrary degrees. The proposed method is exponential in the number of variables.

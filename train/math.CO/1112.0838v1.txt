@@ -1,0 +1,1 @@
+Let G = (V;E) be a simple graph. We consider domination polynomial, matching polynomial and edge cover polynomial of G. Graphs which their polynomials have few roots can give sometimes a very surprising information about the structure of the graph. In this paper we study graphs which their domination polynomial, independence polynomial and edge cover polynomial have few roots.

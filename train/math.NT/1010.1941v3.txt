@@ -1,0 +1,1 @@
+Infinite series are evaluated through the manipulation of a series for \cos(2t \sin^{-1}x) resulting from Clausen's Product. Hypergeometric series equal to an expression involving \frac{1} {\pi} are determined. Techniques to evaluate generalized hypergeometric series are discussed through perspectives of experimental mathematics.

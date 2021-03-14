@@ -1,0 +1,1 @@
+We establish sufficient assumptions on sequences of Fucik eigenvalues of the one-dimensional Laplacian which guarantee that the corresponding Fucik eigenfunctions form a Riesz basis in L^2(0,\pi).

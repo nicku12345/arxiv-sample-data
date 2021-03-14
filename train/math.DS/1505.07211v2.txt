@@ -1,0 +1,1 @@
+We study parametrised families of piecewise expanding interval mappings T_a \colon [0,1] \to [0,1] with absolutely continuous invariant measures \mu_a and give sufficient conditions for a point X(a) to be typical with respect to (T_a, \mu_a) for almost all parameters a. This is similar to a result by D. Schnellmann, but with different assumptions.

@@ -1,0 +1,1 @@
+It is shown that every operator on (C[0,1]) which preserves a copy of an asymptotic (\ell_1) space, also preserves a copy of (C[0,1]).

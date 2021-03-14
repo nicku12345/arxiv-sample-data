@@ -1,0 +1,1 @@
+At http://wiki.openmath.org, the OpenMath 2 and 3 Content Dictionaries are accessible via a semantic wiki interface, powered by the SWiM system. We shortly introduce the inner workings of the system, then describe how to use it, and conclude with first experiences gained from OpenMath society members working with the system and an outlook to further development plans.

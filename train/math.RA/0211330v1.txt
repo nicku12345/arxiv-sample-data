@@ -1,0 +1,1 @@
+In this note, we give a new proof of the fact that an affine semiprime algebra R of Gelfand-Kirillov dimension 1 satisfies a polynomial identity. Our proof uses only the growth properties of the algebra and yields an explicit upper bound for the pi degree of R.

@@ -1,0 +1,1 @@
+In this work we consider the numerical resolution of the bilateral obstacle optimal control problem given in Bergounioux et al. Where the main feature of this problem is that the control and the obstacle are the same.

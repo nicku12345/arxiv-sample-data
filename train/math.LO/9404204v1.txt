@@ -1,0 +1,1 @@
+Suppose that kappa is a singular cardinal of cofinality omega and GCH holds. Assume that for every n<omega the set of alphas with o(alpha)>= alpha^{+n} is unbounded in kappa.Then there is a cardinal preserving extension satisfying 2^kappa=kappa^++ and GCH below kappa.   By a result of W. Mitchell and the author the assumptions are optimal.

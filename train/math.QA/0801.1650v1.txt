@@ -1,0 +1,1 @@
+Let W be a Coxeter group of type \widetilde{A}_{n-1}. We show that the leading coefficient, \mu(x, w), of the Kazhdan--Lusztig polynomial P_{x, w} is always equal to 0 or 1 if x is fully commutative (and w is arbitrary).

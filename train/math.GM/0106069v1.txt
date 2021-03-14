@@ -1,0 +1,1 @@
+In the context of earlier work, we investigate the emergence of a "distance" in the physical world. For this we consider a Cantor ternary like process, but much more general: properties like perfectness and disconnectedness are not invoked, but instead we deal with Borel sets. An interesting case from a physical point of view is considered: when the process is truncated.

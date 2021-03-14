@@ -1,0 +1,1 @@
+We verify that for a finite simplicial complex X and for piecewise linear loops on X, the "thin" loop space is a topological group of the same homotopy type as the space of continuous loops. This turns out not to be the case for the higher loops.

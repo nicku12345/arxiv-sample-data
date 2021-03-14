@@ -1,0 +1,1 @@
+We extend the results of Bey, Hen, and Wills (http://arxiv.org/abs/math/0606089). In this paper, we show that, up to equivalence under unimodular transformations, there is exactly one class of d-simplices having k \ge 1 interior lattice points and minimal volume \frac{1}{d!}(dk+1).

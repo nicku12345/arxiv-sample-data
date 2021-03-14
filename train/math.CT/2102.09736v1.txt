@@ -1,0 +1,1 @@
+The orientals are the free strict \omega-categories on the simplices introduced by Street. The aim of this paper is to show that they are also the free weak \omega-categories on the same generating data. More precisely, we exhibit the Street nerves of the orientals as fibrant replacements of the simplices in Verity's model structure for complicial sets.

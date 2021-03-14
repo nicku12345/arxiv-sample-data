@@ -1,0 +1,1 @@
+The prime-counting function \pi(x) which computes the number of primes smaller or equal to a given real number has a long-standing interest in number theory. The present manuscript proposes a method to compute \pi(x) with time complexity \mathcal{O}(x^{1/2}) without the need to introduce the non-trivial zeros of the Riemann zeta function.

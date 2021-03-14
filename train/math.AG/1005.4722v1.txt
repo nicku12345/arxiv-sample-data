@@ -1,0 +1,1 @@
+Let (X,L) be a polarized manifold of dimension n. In this paper, by using the ith sectional geometric genus and the ith \Delta-genus, we will give a numerical characterization of (X,L) with K_{X}=-(n-i)L for the following cases (i) i=2, (ii) i=3 and n \geq 5, (iii) max{2, dim Bs|L|+2} \leq i \leq n-1.

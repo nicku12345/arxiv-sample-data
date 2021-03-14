@@ -1,0 +1,1 @@
+For each value of k, two complex vector fields satisfying the bracket condition are exhibited the sum of whose squares is hypoelliptic but not subelliptic - in fact the operator loses k-1 derivatives in Sobolev norms. In the Appendix it is proven that this operator is analytic hypoelliptic.

@@ -1,0 +1,1 @@
+Let E be an elliptic curve of rank \text{rk}(E) \geq 1, and let P \in E(\mathbb{Q}) be a point of infinite order. The number of elliptic primes p \leq x for which \langle P\rangle=E(\mathbb{F}_p) is expected to be \pi(x,E,P)=\delta(E,P)x/\log x+o(x/\log x), where \delta(E,P)\geq 0 is a constant. This note proves the lower bound \pi(x,E,P) \gg x/\log x.

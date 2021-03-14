@@ -1,0 +1,1 @@
+The normal connected sum construction of Gompf and the rational blowing-down technique of Fintushel - Stern are important tools in constructing symplectic 4-manifolds. In some cases, the 4-manifolds created this way are of Kahler type. In this article we investigate the occurrence of this phenomenon and give relevant examples.

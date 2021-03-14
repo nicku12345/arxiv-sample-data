@@ -1,0 +1,1 @@
+For a reduced pure dimensional complex space X, we show that if Barlet's recently introduced sheaf \alpha_X^1 of holomorphic 1-forms or the sheaf of germs of weakly holomorphic 1-forms is locally free, then X is smooth. Moreover, we discuss the connection to Barlet's well-known sheaf \omega_X^1.

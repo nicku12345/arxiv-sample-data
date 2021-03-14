@@ -1,0 +1,1 @@
+In this paper we study various properties of finite stochastic systems or hidden Markov chains as they are alternatively called. We discuss their construction following different approaches and we also derive recursive filtering formulas for the different systems that we consider. The key tool is a simple lemma on conditional expectations.

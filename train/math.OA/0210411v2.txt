@@ -1,0 +1,1 @@
+Gromov constructed uncountably many pairwise non-isomorphic discrete groups with Kazhdan's property (T). We will show that no separable II_1-factor can contain all these groups in its unitary group. In particular, no separable II_1-factor can contain all separable II_1-factors in it. We also show that the full group C*-algebras of some of these groups fail the lifting property.

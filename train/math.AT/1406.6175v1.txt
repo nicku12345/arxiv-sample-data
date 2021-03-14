@@ -1,0 +1,1 @@
+The canonical map from the Kan subdivision of a product of finite simplicial sets to the product of the Kan subdivisions is a simple map, in the sense that its geometric realization has contractible point inverses.

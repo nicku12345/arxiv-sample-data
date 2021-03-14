@@ -1,0 +1,1 @@
+We prove that with high probability, d+1 random Bernoulli polynomials in d variables of degree n (n goes to infinity) do not possess a common root.

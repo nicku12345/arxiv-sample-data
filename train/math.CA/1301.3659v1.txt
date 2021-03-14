@@ -1,0 +1,1 @@
+In this paper it is shown that Riemann's zeta function \zeta(s) admits two limit representations when \Re{(s)}>1. Each of these limit representations is deduced by using simple arguments based upon the classical Tannery's (limiting) theorem for series.

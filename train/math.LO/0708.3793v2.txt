@@ -1,0 +1,1 @@
+We show that there is a low T-upper bound for the class of K-trivial sets, namely those which are weak from the point of view of algorithmic randomness. This result is a special case of a more general characterization of ideals in the T-degrees below 0' for which there is a low T-upper bound.

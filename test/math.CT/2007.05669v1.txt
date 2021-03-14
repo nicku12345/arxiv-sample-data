@@ -1,0 +1,1 @@
+We consider Hilbert series associated to modules over various categories of trees. Using the technology of Sam and Snowden, we show that these Hilbert series must be algebraic. We then apply these technical theorems to prove facts about certain natural generating functions associated to trees.

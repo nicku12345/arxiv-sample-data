@@ -1,0 +1,1 @@
+Given a trigonometric polynomial f:[0,1]\to[0,1] of degree m, one can define a corresponding stationary process {X_i}_{i\in Z} via determinants of the Toeplitz matrix for f. We show that for m=1 this process, which is trivially one-dependent, is a two-block-factor.

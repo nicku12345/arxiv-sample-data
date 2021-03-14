@@ -1,0 +1,1 @@
+This paper studies syzygies of curves that have been embedded in projective space by line bundles of large degree. The proofs take advantage of the relationship between syzygies and spaces of section of vector bundles associated to the given line bundles.

@@ -1,0 +1,1 @@
+We decompose the level-1 irreducible highest weight modules of the quantum affine algebra U_q(\hat{sl}_n) with respect to the level-0 U'_q (\hat{sl}_n)--action defined in q-alg/9702024. The decomposition is parameterized by the skew Young diagrams of the border strip type.

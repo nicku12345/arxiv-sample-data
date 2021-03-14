@@ -1,0 +1,1 @@
+Let V and W be matrices of size  n \times pk and q m \times n , respectively. A necessary and sufficient condition is given for the existence of a triple (A,B,C) such that V a k-step reachability matrix of (A,B) and W an m-step observability matrix of (A,C).

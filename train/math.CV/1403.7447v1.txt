@@ -1,0 +1,1 @@
+The author proves that the generalized Suita conjecture holds for any complex torus, which means that  \alpha\pi K \geq c^2(\alpha\in\mathbb R), c being the modified logarithmic capacity and K being the Bergman kernel on the diagonal. The open problems for general compact Riemann surfaces with genus \geq2 is also elaborated. The proof relies in part on elliptic function theories.

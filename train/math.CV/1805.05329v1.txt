@@ -1,0 +1,1 @@
+We exhibit a smoothly bounded domain \Omega with the property that for suitable K\subset\partial \Omega and z\in \Omega the "Sadullaev boundary relative extremal functions" satisfy the inequality \omega_1(z,K,\Omega)<\omega_2(z,K,\Omega)\le \omega(z,K,\Omega).

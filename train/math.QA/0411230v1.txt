@@ -1,0 +1,1 @@
+Weak coalgebra-Galois extensions are studied. A notion of an invertible weak entwining structure is introduced. It is proven that, within an invertible weak entwining structure, the surjectivity of the canonical map implies bijectivity provided the structure coalgebra C is either coseparable or projective as a C-comodule.

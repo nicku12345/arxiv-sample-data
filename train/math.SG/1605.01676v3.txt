@@ -1,0 +1,1 @@
+We construct a Gelfand-Zeitlin system on a one-parameter family of G_2 coadjoint orbits that are multiplicity-free Hamiltonian SU(3)-spaces. Using this system we prove a lower bound for the Gromov width of these orbits. This lower bound agrees with the known upper bound.

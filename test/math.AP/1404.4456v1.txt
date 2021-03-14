@@ -1,0 +1,1 @@
+We study the asymptotic behaviour of the wave equation with viscoelastic damping in presence of a time-delayed damping. We prove exponential stability if the amplitude of the time delay term is small enough.

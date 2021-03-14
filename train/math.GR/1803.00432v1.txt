@@ -1,0 +1,1 @@
+An element g of a finite group G is said to be vanishing in G if there exists an irreducible character \chi of G such that \chi(g)=0; in this case, g is also called a zero of G. The aim of this paper is to obtain structural properties of a factorised group G=AB when we impose some conditions on prime power order elements g\in A\cup B which are (non-)vanishing in G.

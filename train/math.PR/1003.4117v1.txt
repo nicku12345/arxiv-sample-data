@@ -1,0 +1,1 @@
+We develop a general technique to prove uniqueness of solutions for Fokker--Planck equations on infinite dimensional spaces. We illustrate this method by implementing it for Fokker--Planck equations in Hilbert spaces with Kolmogorov operators with irregular coefficients and both non-degenerate or degenerate second order part.

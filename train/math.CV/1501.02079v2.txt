@@ -1,0 +1,1 @@
+In this paper we study Hankel operators in the quaternionic setting. In particular we prove that they can be exploited to measure the L^{\infty} distance of a slice L^{\infty} function from the space of bounded slice regular functions.

@@ -1,0 +1,1 @@
+An Artinian ideal I of k[x,y] has many Hilbert-Burch matrices. We show that there is a canonical choice. As an application, we determine the dimension of certain affine Gr\"obner cells and their Betti strata recovering results of Ellingsrud and Str{\o}mme, G\"ottsche and Iarrobino.

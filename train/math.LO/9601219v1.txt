@@ -1,0 +1,1 @@
+Suppose that lambda is the successor of a singular cardinal mu whose cofinality is an uncountable cardinal kappa. We give a sufficient condition that the club filter of lambda concentrating on the points of cofinality kappa is not lambda^+-saturated. The condition is phrased in terms of a notion that we call weak reflection. We discuss various properties of weak reflection

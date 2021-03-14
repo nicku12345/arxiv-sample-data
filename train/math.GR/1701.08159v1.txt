@@ -1,0 +1,1 @@
+The goal of the paper "A new graph over semi-direct products of groups" is to define a graph \Gamma(G) on a group G when G splits over a normal subgroup. We demonstrate herein that the graph is ill-defined. We also attempt to ascertain causes for the discrepancies.

@@ -1,0 +1,1 @@
+We show that the Stanley's conjecture holds for any multigraded S-module M with \sdepth(M)=0, where S=K[x_1,...,x_n]. Also, we give some bounds for the Stanley depth of the powers of the maximal irrelevant ideal in S.

@@ -1,0 +1,1 @@
+We prove a convergence result for a mixed finite element method for the Monge-Ampere equation to its weak solution in the sense of Aleksandrov. The unknowns in the formulation are the scalar variable and the Hessian matrix.

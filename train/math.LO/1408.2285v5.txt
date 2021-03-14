@@ -1,0 +1,1 @@
+In this paper we create pseudo associativity (\rho-assoc) and pseudo distributivity (\rho-dist) properties for not fundamental operators NFO \downarrow, \uparrow, using two semantic rules, also we build proofs for this result in Hilbert-Ackermann (\mathscr{HA}) axiomatic system, all in the 0-order logic (0-OL) context.

@@ -1,0 +1,1 @@
+Let R be a Gorenstein local domain of dimension one. We show that a nonfree maximal Cohen--Macaulay R-module M possessing more than one nonfree indecomposable summand in the middle term of the almost split sequence ending in M has a nonvanishing self extension. In other words, we show that the Huneke--Wiegand conjecture is affirmative for such R-modules M.

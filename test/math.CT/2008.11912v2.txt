@@ -1,0 +1,1 @@
+I introduce a class of diagrams in a Grothendieck site called "atlases" which can be used to study hyperdescent, and show that hypersheaves take atlases to limits using an indexed `nerve' construction that produces hypercovers from atlases. Atlases have the flexibility to be at the same time more explicit and more universal than hypercovers.

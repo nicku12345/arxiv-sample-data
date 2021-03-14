@@ -1,0 +1,1 @@
+If G is a finite subgroup of the automorphism group of a projective curve X and D is a divisor on X stabilized by G, then under the assumption that D is nonspecial, we compute a simplified formula for the trace of the natural representation of G on Riemann-Roch space L(D).

@@ -1,0 +1,1 @@
+In this paper we show that the classical results on the existence and uniqueness of moment maps in symplectic geometry generalize directly to weak homotopy moment maps in multisym- plectic geometry. In particular, we show that their existence and uniqueness is governed by a Lie algebra cohomology complex which reduces to the Chevalley-Eilenberg complex in the symplectic setup

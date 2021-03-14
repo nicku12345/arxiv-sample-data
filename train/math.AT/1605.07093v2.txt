@@ -1,0 +1,1 @@
+Given a map f: M \to N of degree 1 of closed manifolds. Is it true that the Lusternik--Schnirelmann category of the range of the map is not more that the category of the domain? We discuss this and some related questions.

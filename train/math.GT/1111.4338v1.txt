@@ -1,0 +1,1 @@
+Given a finite volume hyperbolic 3-manifold, we compose a lift of the holonomy in SL(2,C) with the n-dimensional irreducible representation of SL(2,C) in SL(n,C). In this paper we give local coordinates of the SL(n,C)-character variety around this representation. As a corollary, this representation is isolated among all representations that are unipotent at the cusps.

@@ -1,0 +1,1 @@
+We prove that the Waldhausen nilpotent class group of an injective index 2 amalgamated free product is isomorphic to the Farrell-Bass nilpotent class group of a twisted polynomial extension. As an application, we show that the Farrell-Jones Conjecture in algebraic K-theory can be sharpened from the family of virtually cyclic subgroups to the family of finite-by-cyclic subgroups.

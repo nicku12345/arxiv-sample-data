@@ -1,0 +1,1 @@
+A new algebraic Cayley graph is constructed using finite fields. Its connectedness and diameter bound are studied via Weil's estimate for character sums. These graphs provide a new source of expander graphs, extending classical results of Chung.

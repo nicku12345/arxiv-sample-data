@@ -1,0 +1,1 @@
+Normally we judge Topological shapes analytically but they hide significant amount of data in them about coordinate planes and ordered & unordered paris. In this article we will build our intuition and find those datas.

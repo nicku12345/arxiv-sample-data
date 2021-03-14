@@ -1,0 +1,1 @@
+Let R = K[x_1; : : : ; x_n] be a polynomial ring over a field K, and I := I_C_n be an edge ideal of n-cycle graph C_n. In the present paper, we compute the last column of the Lyubeznik table of R/I.

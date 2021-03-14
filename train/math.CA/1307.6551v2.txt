@@ -1,0 +1,1 @@
+The k-plane transform is a bounded operator from \lp to L^q of the Grassmann manifold of all affine k-planes in \R^n for certain exponents depending on k and n. In the endpoint case q=n+1, we identify all extremizers of the associated inequality for the general k-plane transform.

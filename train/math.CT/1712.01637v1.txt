@@ -1,0 +1,1 @@
+The well-known snake lemma is proved entirely within category theory, without the help of "points with value in..." \`a la Grothendieck, nor pseudo-elements as in Guglielmetti & Zaganidis. Instead, we define and use consistently semi-cartesian squares, which were promoted by C. Chevalley.

@@ -1,0 +1,1 @@
+The resonant band is a useful notion for the computation of the nontrivial monodromy eigenspaces of the Milnor fiber of a real line arrangement. In this article, we develop the resonant band description for the cohomology of the Aomoto complex. As an application, we prove that real 4-nets do not exist.

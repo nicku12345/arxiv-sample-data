@@ -1,0 +1,1 @@
+In this paper, we prove the q-log-convexity of Domb's polynomials, which was conjectured by Sun in the study of Ramanujan-Sato type series for powers of \pi. As a result, we obtain the log-convexity of Domb's numbers. Our proof is based on the q-log-convexity of Narayana polynomials of type B and a criterion for determining q-log-convexity of self-reciprocal polynomials.

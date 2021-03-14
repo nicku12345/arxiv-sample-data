@@ -1,0 +1,1 @@
+I verify the existence of right Bousfield localizations of right semimodel categories, and I apply this to construct a model of the homotopy limit of a left Quillen presheaf as a right semimodel category.

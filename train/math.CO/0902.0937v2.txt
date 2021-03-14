@@ -1,0 +1,1 @@
+In \mathcal L, the semilattice of faces of an n-cube, we count the number of automorphisms of \mathcal L that fix a given subalgebra -- either pointwise or as a subalgebra. By using M\"obius inversion we get a formula for the number of derangements on the n-cube in terms of the M\"obius function on the lattice of MR-subalgebras. We compute this M\"obius function.

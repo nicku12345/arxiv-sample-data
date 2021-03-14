@@ -1,0 +1,1 @@
+The capacity regions of multiple-input multiple-output Gaussian Z-interference channels are established for the very strong interference and aligned strong interference cases. The sum-rate capacity of such channels is established under noisy interference. These results generalize known results for scalar Gaussian Z-interference channels.

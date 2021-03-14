@@ -1,0 +1,1 @@
+Let f\colon \mathbb{T}\to \mathbb{R} be of class C^{1+\delta} for some \delta>0 and let c\in\mathbb{Z}. We show that for a generic \alpha\in\mathbb{R}, the extension T_{c,f}\colon \mathbb{T}^2\to\mathbb{T}^2 of the irrational rotation Tx=x+\alpha, given by T_{c,f}(x,u)=(x+\alpha, u+cx+f(x)) (\bmod\ 1) satisfies Sarnak's conjecture.

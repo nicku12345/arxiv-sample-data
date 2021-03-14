@@ -1,0 +1,1 @@
+We think about what the subscheme of the formal scheme is. Differently form the ordinary scheme, the formal scheme has different notions of ``subscheme''. We lay a foundation for these notions and compare them. We also relate them to singularities of foliations.

@@ -1,0 +1,1 @@
+Let R be a 2-torsion free semiprime ring and U a nonzero square closed Lie ideal of R. In this paper it is shown that if f is either an endomorphism or an antihomomorphism of R such that f(U)=U, then f is strong commutativity preserving on U if and only if f is centralizing on U.

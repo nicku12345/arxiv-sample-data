@@ -1,0 +1,1 @@
+We show that it is possible to deduce the Calogero-Moser partition of the irreducible representations of the complex reflection groups G(m,d,n) from the corresponding partition for G(m,1,n). This confirms, in the case W = G(m,d,n), a conjecture of Gordon and Martino relating the Calogero-Moser partition to Rouquier families for the corresponding cyclotomic Hecke algebra.

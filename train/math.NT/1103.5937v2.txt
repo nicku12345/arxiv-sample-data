@@ -1,0 +1,1 @@
+Fix g a Hecke-Maass form for SL_3(\mathbb{Z}). Let q be any large prime number. In the family of holomorphic newforms f of level q and fixed weight, we find the average value of the product L(\half,g\times f)L(\half,f). From this we derive a result on the simultaneous non-vanishing of these L-functions at the central point.

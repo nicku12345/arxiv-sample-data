@@ -1,0 +1,1 @@
+A family of proper smooth curves of genus \geq 2, parametrised by an open dense subset U of a normal variety S, extends to S if the natural map \pi_1(U) \to \pi_1(S) on fundamental groups is an isomorphism. The criterion of this note is actually more precise.

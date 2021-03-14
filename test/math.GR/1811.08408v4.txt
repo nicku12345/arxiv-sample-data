@@ -1,0 +1,1 @@
+A semigroup S is right noetherian if every right congruence on S is finitely generated. In this paper we present some fundamental properties of right noetherian semigroups, discuss how semigroups relate to their substructures with regard to the property of being right noetherian, and investigate whether this property is preserved under various semigroup constructions.

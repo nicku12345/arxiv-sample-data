@@ -1,0 +1,1 @@
+We consider the space of elliptic hypergeometric functions of the sl_2 type associated with elliptic curves with one marked point. This space represents conformal blocks in the sl_2 WZW model of CFT. The modular group acts on this space. We give formulas for the matrices of the action in terms of values at roots of unity of Macdonald polynomials of the sl_2 type.

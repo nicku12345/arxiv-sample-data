@@ -1,0 +1,1 @@
+We notice that the class of nontrivial groups without proper subgroups of finite index is not elementary, because some groups in this class, such as \mathbb Q*\mathbb Q, have ultrapowers that map homomorphically onto \mathbb Z/p\mathbb Z for every prime p. Also, some ultrapowers of certain simple groups map homomorphically onto \mathbb Z/2\mathbb Z.

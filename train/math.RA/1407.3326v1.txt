@@ -1,0 +1,1 @@
+Let V be a real inner product space and C[V] its {\rm C}^* Clifford algebra. We prove that if Z is a subspace of V then C[Z^{\perp}] coincides with the supercommutant of C[Z] in C[V].

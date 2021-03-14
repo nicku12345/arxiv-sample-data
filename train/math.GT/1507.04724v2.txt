@@ -1,0 +1,1 @@
+This paper uses work of Haettel to classify all subgroups of PGL(4,R) isomorphic to (R^3 , +), up to conjugacy. We use this to show there are 4 families of generalized cusps up to projective equivalence in dimension 3.

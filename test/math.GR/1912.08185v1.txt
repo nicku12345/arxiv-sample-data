@@ -1,0 +1,1 @@
+A group is called a CA-group if the centralizer of every non-central element is abelian. Furthermore, a group is called a minimal non-CA-group if it is not a CA-group itself, but all of its proper subgroups are. In this paper, we give a classification of the finite non-solvable minimal non-CA-groups.

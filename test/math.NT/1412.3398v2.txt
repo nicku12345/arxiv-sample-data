@@ -1,0 +1,1 @@
+We count various classes of algebraic integers of fixed degree by their largest absolute value. The classes of integers considered include all algebraic integers, Perron numbers, totally real integers, and totally complex integers. We give qualitative and quantitative results concerning the distribution of Perron numbers, answering in part a question of W. Thurston.

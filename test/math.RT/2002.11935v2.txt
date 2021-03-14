@@ -1,0 +1,1 @@
+The Burger-Sarnak method shows that the restriction of an automorphic representation of a reductive group to a reductive subgroup has automorphic support. Clozel has conjectured a qualitative refinement of this result, which were first verified and quantified in the GL_n case by Venkatesh. We give a proof of this conjecture in the classical group cases.

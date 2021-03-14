@@ -1,0 +1,1 @@
+We prove a Fubini rule for \infty-co/ends of \infty-functors F : \mathcal C^\text{op}\times\mathcal C\to \mathcal D. This allows to lay down "integration rules", similar to those in classical co/end calculus, also in the setting of \infty-categories.

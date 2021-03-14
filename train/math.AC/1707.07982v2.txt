@@ -1,0 +1,1 @@
+Let k be any field. Let R=k[[X_1,\ldots,X_d]] and \frak p a 1-dimensional prime ideal. In this note we present d-1 elements such as f_1,\ldots,f_{d-1} in \frak p such that \mathfrak{p}=\text{rad}(f_1,\ldots,f_{d-1}).

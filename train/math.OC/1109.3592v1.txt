@@ -1,0 +1,1 @@
+Geometric duality theory for multiple objective linear programming problems turned out to be very useful for the development of efficient algorithms to generate or approximate the whole set of nondominated points in the outcome space. This article extends the geometric duality theory to convex vector optimization problems.

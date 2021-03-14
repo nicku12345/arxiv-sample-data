@@ -1,0 +1,1 @@
+The Euler characteristic of a finite category is defined and shown to be compatible with Euler characteristics of other types of object, including orbifolds. A formula for the cardinality of the colimit of a diagram of sets is proved, generalizing the classical inclusion-exclusion formula. Both rest on a generalization of Mobius-Rota inversion from posets to categories.

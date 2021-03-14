@@ -1,0 +1,1 @@
+We give some new results on sparse signal recovery in the presence of noise, for weighted spaces. Traditionally, were used dictionaries that have the norm equal to 1, but, for random dictionaries this condition is rarely satisfied. Moreover, we give better estimations then the ones given recently by Cai, Wang and Xu.

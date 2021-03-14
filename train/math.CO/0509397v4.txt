@@ -1,0 +1,1 @@
+We prove that Menger's theorem is valid for infinite graphs, in the following strong form: let A and B be two sets of vertices in a possibly infinite digraph. Then there exist a set \cp of disjoint A-B paths, and a set S of vertices separating A from B, such that S consists of a choice of precisely one vertex from each path in \cp. This settles an old conjecture of Erd\H{o}s.

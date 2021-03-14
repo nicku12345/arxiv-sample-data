@@ -1,0 +1,1 @@
+Topological periodic cyclic homology (i.e., \mathbb{T}-Tate of THH) has the structure of a strong symmetric monoidal functor of smooth and proper dg categories over a perfect field of finite characteristic.

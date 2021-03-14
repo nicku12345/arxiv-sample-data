@@ -1,0 +1,1 @@
+We extend the cobordism based categorification of the virtual Jones polynomial to virtual tangles. This extension is combinatorial and has semi-local properties. We use the semi-local property to prove an applications, i.e. we give a discussion of Lee's degeneration of virtual homology.

@@ -1,0 +1,1 @@
+In the present study, a numerical method, perturbation-iteration algorithm (shortly PIA), have been employed to give approximate solutions of nonlinear fractional-integro differential equations (FIDEs). Comparing with the exact solution, the PIA produces reliable and accurate results for FIDEs.

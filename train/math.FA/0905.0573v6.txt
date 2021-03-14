@@ -1,0 +1,1 @@
+Given a finite set \sigma of the unit disc \mathbb{D}={z\in\mathbb{C}:, |z|<1} and a holomorphic function f in \mathbb{D} which belongs to a class X, we are looking for a function g in another class Y (smaller than X) which minimizes the norm |g|_{Y} among all functions g such that g_{|\sigma}=f_{|\sigma}.

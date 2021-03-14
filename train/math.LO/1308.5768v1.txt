@@ -1,0 +1,1 @@
+We study non-orthogonality of symmetric, regular types and show that it preserves generic stability and is an equivalence relation on the set of all generically stable, regular types. We will also prove that some of the nice properties from the stable context hold in general. In the case of strongly regular types we will relate non-orthogonality to the global Rudin-Keisler order.

@@ -1,0 +1,1 @@
+Given two polynomials f(x) and g(x), we extend the formula expressing the remainder in terms of the roots of these two polynomials to the case where f(x) is a Laurent polynomial. This allows us to give new expressions of a Schur function, which generalize the Giambelli identity.

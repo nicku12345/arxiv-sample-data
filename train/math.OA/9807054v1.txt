@@ -1,0 +1,1 @@
+Given two C*-algebras A and B, abstract A-B bimodules that can be isometrically represented as operator bimodules are characterised in terms of their norm. Various properties of such bimodules are given. Their theory is very similar to those of classical normed spaces.

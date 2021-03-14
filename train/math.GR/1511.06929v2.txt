@@ -1,0 +1,1 @@
+In this paper we study distortion of various well-known embeddings of finitely generated torsion-free nilpotent groups G into unitriangular groups UT_n(\mathbb{Z}). We also provide a polynomial time algorithm for finding distortion of a given subgroup of G

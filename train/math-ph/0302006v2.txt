@@ -1,0 +1,1 @@
+In this letter, we consider a Schrodinger equation for a well potential with varying width. We solve one dimensional time-dependent Schrodinger equation subject to time-dependent boundary conditions for a spinless particle inside infinite potential well, both wall of which move opposite direction with different velocities v1 and v2, respectively.

@@ -1,0 +1,1 @@
+Let n be a positive integer and let f_1, \ldots, f_r be polynomials in n^2 indeterminates over an algebraically closed field K. We describe an algorithm to decide if the invertible matrices contained in the variety of f_1, \ldots, f_r form a subgroup of GL(n,K); that is, we show how to decide if the polynomials f_1, \ldots, f_r define a linear algebraic group.

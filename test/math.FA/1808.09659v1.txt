@@ -1,0 +1,1 @@
+In this article we prove the restriction theorem for Helgason-Fourier transform on homogeneous tree. Our proof is based on the duality argument and the norm estimates of Poisson transform. We also characterize all eigenfunctions of the laplacian on homogeneous tree which are Poisson transform of L^p functions defined on the boundary.

@@ -1,0 +1,1 @@
+We show that free objects on sets do not exist in the category bal of bounded archimedean \ell-algebras. On the other hand, we introduce the category of weighted sets and prove that free objects on weighted sets do exist in bal. We conclude by discussing several consequences of this result.

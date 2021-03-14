@@ -1,0 +1,1 @@
+Let Z be a complex space and let S be a compact set in C^n x Z which is fibered over R^n (the real subspace of C^n). We give a necessary and sufficient condition for S to be a Stein compactum.

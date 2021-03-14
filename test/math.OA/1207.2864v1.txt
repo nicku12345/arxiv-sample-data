@@ -1,0 +1,1 @@
+We extend the celebrated L\"owner--Heinz inequality by showing that if A, B are Hilbert space operators such that A > B \geq 0, then A^r - B^r \geq ||A||^r-(||A||- \frac{1}{||(A-B)^{-1}||})^r > 0 for each 0 < r \leq 1. As an application we prove that \log A - \log B \geq \log||A||- \log(||A||-\frac{1}{||(A-B)^{-1}||})>0.

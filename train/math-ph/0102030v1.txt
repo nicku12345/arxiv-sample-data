@@ -1,0 +1,1 @@
+Let lu = -u^{\prime \prime} + q(x)u, where q(x) is a real-valued L^2_{loc}(0, \infty) function. H. Weyl has proved in 1910 that for any z, Imz \neq 0, the equation (l - z)w=0, x>0, has a solution w \in L^2(0, \infty).   We prove this classical result using a new argument.

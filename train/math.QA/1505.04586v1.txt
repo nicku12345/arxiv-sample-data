@@ -1,0 +1,1 @@
+In this paper we introduce the category of strong Hopf modules for a weak Hopf quasigroup H in a braided monoidal category. We also prove that this category is equivalent to the category of right modules over the image of the target morphism of H.

@@ -1,0 +1,1 @@
+We define and study Noetherian topologies for spaces of infinite sets, and infinite words. In each case, we also obtain S-representations, namely, computable presentations of the sobrifications of those spaces.

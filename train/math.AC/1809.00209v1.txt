@@ -1,0 +1,1 @@
+We study Hilbert-Kunz multiplicity of the powers of an ideal and establish existence of the second coefficient at the full level of generality, thus extending a recent result of Trivedi. We describe the second coefficient as the limit of the Hilbert coefficients of Frobenius powers and show that it is additive in short exact sequences and satisfies a Northcott-type inequality.

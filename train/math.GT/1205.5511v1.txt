@@ -1,0 +1,1 @@
+Suppose that the 3-manifold M is given by integral surgery along a link L in S^3. In the following we construct a stable map from M to the plane, whose singular set is canonically oriented. We obtain upper bounds for the minimal numbers of crossings and non-simple singularities and of connected components of fibers of stable maps from M to the plane in terms of properties of L.

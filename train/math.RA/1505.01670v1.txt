@@ -1,0 +1,1 @@
+In the first two sections of this paper we provide a brief account of the Cayley-Dickson algebras and prove that the radius on these algebras is given by the Euclidean norm. With this observation we resort to three related topics: a variant of the Gelfand formula, stability of subnorms, and the functional power equation.

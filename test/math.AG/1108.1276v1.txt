@@ -1,0 +1,1 @@
+We show how to recover the underlying topological space of a quasi-compact quasi-separated scheme from the tensor triangulated structure on its category of perfect complexes.

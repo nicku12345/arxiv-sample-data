@@ -1,0 +1,1 @@
+We further investigate the class of models of a strongly dependent (first order complete) theory T, continuing math.LO/0406440. If |A|+|T|<= mu, I subseteq C, |I| >=beth_{|T|^+}(mu) then some J subseteq I of cardinality mu^+ is an indiscernible sequence over A .

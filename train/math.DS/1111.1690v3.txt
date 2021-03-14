@@ -1,0 +1,1 @@
+We study separated nets that correspond to substitution tilings of the Euclidean space. We give a simple condition, in terms of the eigenvalues and eigenspaces of the substitution matrix, to know whether the separated net is a bounded displacement of the integer lattice or not.

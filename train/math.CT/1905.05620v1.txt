@@ -1,0 +1,1 @@
+We define a faithful linear monoidal functor from the partition category, and hence from Deligne's category \mathrm{Rep}(S_t), to the Heisenberg category. We show that the induced map on Grothendieck rings is injective and corresponds to the Kronecker coproduct on symmetric functions.

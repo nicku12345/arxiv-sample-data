@@ -1,0 +1,1 @@
+We prove that for every pair of positive integers a, b there exists a number c_0 such that for every c>=c_0 one can find a tame polynomial automorphism of C^3 with multidegree equal to (a,b,c).

@@ -1,0 +1,1 @@
+We obtain a computable structure of Scott rank omega_1^{CK} (call this ock), and give a general coding procedure that transforms any hyperarithmetical structure A into a computable structure A' such that the rank of A is ock, ock+1, or < ock iff the same is true of A'.

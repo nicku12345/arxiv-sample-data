@@ -1,0 +1,1 @@
+We construct nonlinear oblique projections along subalgebras of nilpotent Lie algebras in terms of the Baker-Campbell-Hausdorff multiplication. We prove that these nonlinear projections are real analytic on every Schubert cell of the Grassmann manifold whose points are the subalgebras of the nilpotent Lie algebra under consideration.

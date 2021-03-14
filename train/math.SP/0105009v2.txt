@@ -1,0 +1,1 @@
+The heat trace asymptotics are discussed for operators of Laplace type with Dirichlet, Robin, spectral, D/N, and transmittal boundary conditions. The heat content asymptotics are discussed for operators with time dependent coefficients and Dirichlet or Robin boundary conditions.

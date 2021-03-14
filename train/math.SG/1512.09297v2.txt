@@ -1,0 +1,1 @@
+Complexity one spaces are an important class of examples in symplectic geometry. Karshon and Tolman classify them in terms of combinatorial and topological data. In this paper, we compute the equivariant cohomology for any complexity one space T^{n-1} acting on M^{2n}. The key step is to compute the equivariant cohomology for any Hamiltonian S^1 action on M^4.

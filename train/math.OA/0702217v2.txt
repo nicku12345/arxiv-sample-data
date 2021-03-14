@@ -1,0 +1,1 @@
+It is shown that the polynomial \lambda(t) = {\rm Tr}[(A + tB)^p] has nonnegative coefficients when p \leq 7 and A and B are any two complex positive semidefinite n \times n matrices with arbitrary n. This proofs a general nontrivial case of the Lieb-Seiringer formulation of the Bessis-Moussa-Villani conjecture which is a long standing problem in theoretical physics.

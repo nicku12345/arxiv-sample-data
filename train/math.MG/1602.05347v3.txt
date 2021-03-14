@@ -1,0 +1,1 @@
+In this paper, we will study the (linear) geometric analysis on metric measure spaces. We will establish a local Li-Yau's estimate for weak solutions of the heat equation and prove a sharp Yau's gradient gradient for harmonic functions on metric measure spaces, under the Riemannian curvature-dimension condition RCD^*(K,N).

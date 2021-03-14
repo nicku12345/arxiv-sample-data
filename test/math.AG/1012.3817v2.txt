@@ -1,0 +1,1 @@
+In this paper we will prove a uniformity result for the Iitaka fibration f:X \rightarrow Y, provided that the generic fiber has a good minimal model and the variation of f is zero or that \kappa(X)=\rm{dim}(X)-1.

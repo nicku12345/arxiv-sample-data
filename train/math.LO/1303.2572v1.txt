@@ -1,0 +1,1 @@
+We investigate the partial orderings of the form (P(X),\subset), where X is a relational structure and P(X) the set of the domains of its isomorphic substructures. A rough classification of countable binary structures corresponding to the forcing-related properties of the posets of their copies is obtained.

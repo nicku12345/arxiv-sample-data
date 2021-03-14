@@ -1,0 +1,1 @@
+This note aims to clarify the interrelations of certain inequivalently defined Banach spaces denoted by C^i(\bar\Omega) for a natural number i and a bounded open set \Omega. We give some sufficient conditions for the equality of these spaces, and present examples to show that the spaces indeed can be unequal for \Omega having irregular boundary.

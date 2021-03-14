@@ -1,0 +1,1 @@
+A famous result of Bennequin states that for any braid representative of the unknot the Bennequin number is negative. We will extend this result to all n-trivial closed n-braids. This is a class of infinitely many knots closed under taking mirror images. Our proof relies on a non-standard parametrization of the Homfly polynomial.

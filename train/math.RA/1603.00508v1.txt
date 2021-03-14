@@ -1,0 +1,1 @@
+Let \Lambda be a row-finite higher-rank graph with no sources. We identify a maximal commutative subalgebra \mathcal{M} inside the Kumjian-Pask algebra {\rm KP}_R(\Lambda). We also prove a generalized Cuntz-Krieger uniqueness theorem for Kumjian-Pask algebras which says that a representation of {\rm KP}_R(\Lambda) is injective if and only if it is injective on \mathcal{M}.

@@ -1,0 +1,1 @@
+We study the variety of n by n matrices with commutator of rank at most one. We describe its irreducible components; two of them correspond to the pairs of commuting matrices, and n-2 components of smaller dimension corresponding to the pairs of rank one commutator. In our proof we define a map to the zero fiber of the Hilbert scheme of points and study the image and the fibers.

@@ -1,0 +1,1 @@
+Let \gamma_n=[x_1,\dots,x_n] be the nth lower central word. Denote by X_n the set of \gamma_n-values in a group G and suppose that there is a number m such that |g^{X_n}|\leq m for each g\in G. We prove that \gamma_{n+1}(G) has finite (m,n)-bounded order. This generalizes the much celebrated theorem of B. H. Neumann that says that the commutator subgroup of a BFC-group is finite.

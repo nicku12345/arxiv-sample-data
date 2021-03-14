@@ -1,0 +1,1 @@
+We show how one may establish proof-theoretic results for constructive Zermelo-Fraenkel set theory, such as the compactness rule for Cantor space and the Bar Induction rule for Baire space, by constructing sheaf models and using their preservation properties.

@@ -1,0 +1,1 @@
+We prove that in a simple matroid, the maximal number of joints that can be formed by L lines is o(L^2) and Omega(L^{2 - epsilon}) for any epsilon > 0.

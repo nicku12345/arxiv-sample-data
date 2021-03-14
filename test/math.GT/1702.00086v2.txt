@@ -1,0 +1,1 @@
+Let K, K' be ribbon knottings of n-spheres with 1-handles in S^{n+2}, n\geq 2. We show that if the knot quandles of these knots are isomorphic, then the ribbon knottings are stably equivalent, in the sense of Nakanishi and Nakagawa, after taking a finite number of connected sums with trivially embedded copies of S^{n-1}\times S^{1}.

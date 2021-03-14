@@ -1,0 +1,1 @@
+Let C be a generic non-singular curve of genus g defined over a field of characteristic different from 2. We show that for every line bundle on C of degree at most g+1, the natural product map S^2(H^0(L))\to H^0(C,L^2) is injective. We also show that the bound on the degree of L is sharp.

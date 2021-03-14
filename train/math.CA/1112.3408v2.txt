@@ -1,0 +1,1 @@
+The existence of hyperbolic orbits is proved for a class of singular Hamiltonian systems \ddot{u}(t)+\nabla V(u(t))=0 by taking limit for a sequence of periodic solutions which are the variational minimizers of Lagrangian actions.

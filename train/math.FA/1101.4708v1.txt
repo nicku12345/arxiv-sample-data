@@ -1,0 +1,1 @@
+The Egoroff theorem for measurable \bold X-valued functions and operator-valued measures \bold m: \Sigma \to L(\bold X, \bold Y), where \Sigma is a \sigma-algebra of subsets of T \neq \emptyset and \bold X, \bold Y are both locally convex spaces, is proved. The measure is supposed to be atomic and the convergence of functions is net.

@@ -1,0 +1,1 @@
+Let (M,J,w) be a manifold with an almost complex structure J tamed by a symplectic form w. We suppose that M has complex dimension two, is Levi convex and has bounded geometry. We prove that a real two-sphere with two elliptic points, embedded into the boundary of M may be foliated by the boundaries of pseudoholomorphic discs.

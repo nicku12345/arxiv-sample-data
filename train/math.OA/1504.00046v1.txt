@@ -1,0 +1,1 @@
+In a pure C*-algebra (i.e., one having suitable regularity properties in its Cuntz semigroup), any element on which all bounded traces vanish is a sum of 7 commutators.

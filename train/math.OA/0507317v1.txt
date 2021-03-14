@@ -1,0 +1,1 @@
+For a smooth manifold with boundary we construct a semigroupoid and a continuous field of C*-algebras which extend Connes' construction of the tangent groupoid.   We show the asymptotic multiplicativity of \hbar-scaled truncated pseudodifferential operators with smoothing symbols and compute the K-theory of the associated symbol algebra.

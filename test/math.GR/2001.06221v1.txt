@@ -1,0 +1,1 @@
+Let G be a group and let x\in G be a left 3-Engel element of order dividing 60. Suppose furthermore that \langle x\rangle^{G} has no elements of order 8, 9 and 25. We show that x is then contained in the locally nilpotent radical of G. In particular all the left 3-Engel elements of a group of exponent 60 are contained in the locally nilpotent radical.

@@ -1,0 +1,1 @@
+In this note, we prove that D_8\times C_2^{n-3} is the non-elementary abelian 2-group of order 2^n, n\geq 3, whose number of subgroups of possible orders is maximal. This solves a conjecture by Haipeng Qu [7]. A formula for counting the subgroups of an (almost) extraspecial 2-group is also presented.

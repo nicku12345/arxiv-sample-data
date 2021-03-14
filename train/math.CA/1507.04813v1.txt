@@ -1,0 +1,1 @@
+Our main result shows that if a lower-semicontinuous kernel K satisfies some mild additional hypotheses, then asympotitically polarization optimal configurations are precisely those that are asymptotically distributed according to the equilibrium measure for the corresponding minimum energy problem.

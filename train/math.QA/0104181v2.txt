@@ -1,0 +1,1 @@
+We construct universal Drinfel'd twists defining deformations of Hopf algebra structures based upon simple Lie algebras and contragredient simple Lie superalgebras. In particular, we obtain deformed and dynamical double Yangians. Some explicit realisations as evaluation representations are given for sl(N), sl(1|2) and osp(1|2).

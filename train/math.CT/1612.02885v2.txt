@@ -1,0 +1,1 @@
+This article is an introduction to the basic generalized category theory used in recent work on an extension of the theory of categories and categorical logic, including parts of topos theory. We discuss functors, equivalences, natural transformations, adjoints, and limits in a generalized setting, giving a concise outline of these frequently arising constructions.

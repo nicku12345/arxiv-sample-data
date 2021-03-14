@@ -1,0 +1,1 @@
+We identify the K-theoretic fiber of a localization of ring spectra in terms of the K-theory of the endomorphism algebra spectrum of a Koszul-type complex. Using this identification, we provide a negative answer to a question of Rognes for n>1 by comparing the traces of the fiber of the map K(BP(n))\rightarrow K(E(n)) and of K(BP(n-1)) in rational topological Hochschild homology.

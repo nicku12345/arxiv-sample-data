@@ -1,0 +1,1 @@
+For a compact simply connected simple Lie group G with an involution \alpha, we compute the G\rtimes \Z/2-equivariant K-theory of G where G acts by conjugation and \Z/2 acts either by \alpha or by g\mapsto \alpha(g)^{-1}. We also give a representation-theoretic interpretation of those groups, as well as of K_G(G).

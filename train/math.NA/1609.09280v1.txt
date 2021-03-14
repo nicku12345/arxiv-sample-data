@@ -1,0 +1,1 @@
+We derive equations for evaluating differential operators in transparent boundary conditions (TBCs) for a certain class of hyperbolic systems of second-order equations. This local part of TBCs can be used as approximate nonreflecting boundary conditions. We give examples of obtaining such truncated TBCs for 3D elasticity and Biot poroelasticity

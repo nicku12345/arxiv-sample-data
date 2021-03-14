@@ -1,0 +1,1 @@
+I discuss the work of many authors on various matrices used to study signed graphs, concentrating on adjacency and incidence matrices and the closely related topics of Kirchhoff (`Laplacian') matrices, line graphs, and very strong regularity.

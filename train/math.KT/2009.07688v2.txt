@@ -1,0 +1,1 @@
+We use coarse index methods to prove that the Landau Hamiltonian on the hyperbolic half-plane, and even on much more general imperfect half-spaces, has no spectral gaps. Thus the edge states of hyperbolic quantum Hall Hamiltonians completely fill up the gaps between Landau levels, just like those of the Euclidean counterpart.

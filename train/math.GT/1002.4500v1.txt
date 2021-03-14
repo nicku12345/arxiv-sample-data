@@ -1,0 +1,1 @@
+We study properties of the signature function of the torus knot T_{p,q}. First we provide a very elementary proof of the formula for the integral of the signatures over the circle. We obtain also a closed formula for the Tristram--Levine signature of a torus knot in terms of Dedekind sums.

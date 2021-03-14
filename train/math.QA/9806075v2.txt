@@ -1,0 +1,1 @@
+We use the properties of the Melvin-Morton expansion of the colored Jones polynomial in order to prove that the trivial connection contribution converges p-adicly to the SO(3) Witten-Reshetikhin-Turaev invariant of rational homology spheres, as it was conjectured by R. Lawrence.

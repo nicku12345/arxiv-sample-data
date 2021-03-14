@@ -1,0 +1,1 @@
+Each restriction semigroup is proved to be embeddable in a factorisable restriction monoid, or, equivalently, in an almost factorisable restriction semigroup. It is also established that each restriction semigroup has a proper cover which is embeddable in a semidirect product of a semilattice by a group.

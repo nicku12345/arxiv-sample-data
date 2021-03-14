@@ -1,0 +1,1 @@
+In this article, we exploit the theory of graded module category with semi-infinite character developed by Soergel in \cite{Soe} to study representations of the infinite dimensional Lie algebras of vector fields W(n), S(n) and H(n) (n\geq 2), and obtain the description of indecomposable tilting modules. The character formulas for those tilting modules are determined.

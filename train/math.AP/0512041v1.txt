@@ -1,0 +1,1 @@
+In this paper we consider the local well-posedness theory for the quadratic nonlinear Schr\"odinger equation with low regularity initial data in the case when the nonlinearity contains derivatives. We work in 2+1 dimensions and prove a local well-posedness result up to the scaling for small initial data with some spherical symmetry structure.

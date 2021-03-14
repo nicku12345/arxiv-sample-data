@@ -1,0 +1,1 @@
+For families of knots and links given in Conway notation we compute lower maximal and upper minimal bound of hyperbolic volume by using source links and augmented links.

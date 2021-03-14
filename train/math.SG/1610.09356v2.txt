@@ -1,0 +1,1 @@
+We show --- with the means of a real-analytic example in \mathbb{C}^3 --- that Gromov's theorem on the presence of attached holomorphic discs for compact Lagrangian manifolds is not true in the isotropic (subcritical) case, even in the absence of an obvious obstruction, i.e, polynomial convexity.

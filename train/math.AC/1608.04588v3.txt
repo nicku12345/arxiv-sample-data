@@ -1,0 +1,1 @@
+We investigate symmetry in the vanishing of Tate cohomology for finitely generated modules over local Gorenstein rings. For finitely generated R-modules M and N over Gorenstein local ring R, it is shown that \widehat{Ext}^i_R(M,N)=0 for all i\in\mathbb{Z} if and only if \widehat{Ext}^i_R(N,M)=0 for all i\in\mathbb{Z}.

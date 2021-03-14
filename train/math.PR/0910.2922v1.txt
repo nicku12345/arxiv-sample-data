@@ -1,0 +1,1 @@
+We give a stochastic calculus proof of the Central Limit Theorem \[ {\int (L^{x+h}_{t}- L^{x}_{t})^{2} dx- 4ht\over h^{3/2}} \stackrel{\mathcal{L}}{\Longrightarrow}c(\int (L^{x}_{t})^{2} dx)^{1/2} \eta\] as h\to 0 for Brownian local time L^{x}_{t}. Here \eta is an independent normal random variable with mean zero and variance one.

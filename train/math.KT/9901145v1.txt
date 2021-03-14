@@ -1,0 +1,1 @@
+Studies among other things, the question of whether a Lie algebra over Z/(p^k)Z lifts to one over Z/(p^(k+1))Z. An obstruction theory is developed and examples of Fp-Lie algebras which don't lift to Lie algebras over Z/p^2Z are discussed. An example of an application of the result: A Fp-Lie algebra L with H^3(L, ad)=0 will lift to a p-adic Lie algebra.

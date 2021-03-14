@@ -1,0 +1,1 @@
+We obtain expected number of arrivals, probability of arrival, absorption probabilities and expected time before absorption for a discrete random walk on the integers with an infinite set of equidistant multiple function barriers

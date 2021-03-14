@@ -1,0 +1,1 @@
+We construct, assuming Jensen's principle diamond, a one-dimensional locally connected hereditarily separable continuum without convergent sequences. The construction is an inverse limit in omega_1 steps, and is patterned after the original Fedorchuk construction of a compact S-space. To make it one-dimensional, each space in the inverse limit is a copy of the Menger sponge.

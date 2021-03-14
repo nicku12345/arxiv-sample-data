@@ -1,0 +1,1 @@
+For a knot K and its knot Floer complex CFK^-(K), we introduce an algorithm to compute the bordered Floer bimodule of the complement of the knot and its meridian. The grading of the module computes spin^c-summands of a meridional knot in the large Dehn surgery manifold, which can be also extended to arbitrary framing n.

@@ -1,0 +1,1 @@
+We obtain an upper bound of the number of collisions of any billiard trajectory in a polyhedral angle in terms of the minimal eigenvalue of a positive definite matrix which characterizes the angle. Elements of the matrix are scalar products between the unit normal vectors of faces of the angle.

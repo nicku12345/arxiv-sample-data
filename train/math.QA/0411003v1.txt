@@ -1,0 +1,1 @@
+We construct cup products of two different kinds for Hopf-cyclic cohomology. When the Hopf algebra reduces to the ground field our first cup product reduces to Connes' cup product in ordinary cyclic cohomology. The second cup product generalizes Connes-Moscovici's characteristic map for actions of Hopf algebras on algebras.

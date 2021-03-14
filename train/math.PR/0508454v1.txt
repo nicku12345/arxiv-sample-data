@@ -1,0 +1,1 @@
+We establish convergence to the Kingman coalescent for a class of age-structured population models with time-constant population size. Time is discrete with unit called a year. Offspring numbers in a year may depend on mother's age.

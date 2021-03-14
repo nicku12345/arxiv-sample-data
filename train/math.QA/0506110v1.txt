@@ -1,0 +1,1 @@
+For each quantum superalgebra U_q[osp(m|n)] with m>2, an infinite family of Casimir invariants is constructed. This is achieved by using an explicit form for the Lax operator. The eigenvalue of each Casimir invariant on an arbitrary irreducible highest weight module is also calculated.

@@ -1,0 +1,1 @@
+We prove sharp endpoint results for the Fourier restriction operator associated to nondegenerate curves in \Bbb R^d, d\ge 3, and related estimates for oscillatory integral operators. Moreover, for some larger classes of curves in \Bbb R^d we obtain sharp uniform L^p\to L^q bounds with respect to affine arclength measure, thereby resolving a problem of Drury and Marshall.

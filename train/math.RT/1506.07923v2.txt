@@ -1,0 +1,1 @@
+Given an arbitrary algebra A we may associate to it a special endomorphism algebra, R_A, introduced by Auslander. Dlab and Ringel constructed a heredity chain for R_A, proving that every algebra A has an associated highest weight theory. In this paper we investigate the quasihereditary structure of R_A using an axiomatic approach.

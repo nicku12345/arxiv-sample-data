@@ -1,0 +1,1 @@
+A Smale space is a chaotic dynamical system with canonical coordinates of contracting and expanding directions. The basic sets for Smale's Axiom A systems are a key class of examples. We consider the special case of irreducible Smale spaces with zero dimensional contracting directions, and characterize these as stationary inverse limits satisfying certain conditions.

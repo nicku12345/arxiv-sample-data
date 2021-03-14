@@ -1,0 +1,1 @@
+We construct a tree T of maximal degree 3 with infinitely many leaves such that whenever finitely many of them are removed, the remaining tree is isomorphic to T. In this sense T resembles an infinite star.

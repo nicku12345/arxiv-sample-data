@@ -1,0 +1,1 @@
+In this paper, we show that when two systems of differential equations admitting a symmetry group are related by a point transformation it is always possible to generate invariant schemes, one for each system, that are also related by the same transformation. This result is used to easily obtain new invariant schemes of some differential equations.

@@ -1,0 +1,1 @@
+A fractional Adomian decomposition method for fractional nonlinear differential equations is proposed. The iteration procedure is based on Jumarie's fractional derivative. An example is given to elucidate the solution procedure, and the results are compared with the exact solution, revealing high accuracy and efficiency.

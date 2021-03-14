@@ -1,0 +1,1 @@
+It has been long congectured that the crossing number of C_m\times C_n is (m-2)n for 2<m<=n. In this paper we proved that conjecture is true for all but finitely many n for each m. More specifically we proved conjecture for n>=(m/2)((m+3)^2/2+1).The proof is largely based on the theory of arrangements introduced by Adamsson and further developed by Adamsson and Richter.

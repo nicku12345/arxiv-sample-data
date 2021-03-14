@@ -1,0 +1,1 @@
+We consider the formal prolate spheroid differential operator on a finite symmetric interval and describe all its self-adjoint boundary conditions. Only one of these boundary conditions corresponds to a self-operator differential operator which commutes with the Fourier operator truncated on the considered finite symmetric interval.

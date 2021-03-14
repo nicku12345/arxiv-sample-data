@@ -1,0 +1,1 @@
+New partial results are obtained related to the following old problem of Erd\"os: for any infinite set X of real numbers to show that there is always a measurable (or, equivalently, closed) subset of reals of positive Lebesgue measure which contains no subset geometrically similar to X.

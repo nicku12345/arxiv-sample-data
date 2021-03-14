@@ -1,0 +1,1 @@
+In \cite{Chaber}, Chaber has proved that countably compact spaces with a quasi G_{\delta }-diagonal are compact. We prove that initially \kappa % -compact spaces with a quasi G_{\kappa }-diagonal are compact, for any infinite cardinal \kappa .

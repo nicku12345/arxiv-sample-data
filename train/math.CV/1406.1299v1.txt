@@ -1,0 +1,1 @@
+In this paper, we establish an analytic version of critical spaces Q_{\alpha}^{\beta}(\mathbb{R}^{n}) on unit disc \mathbb{D}, denoted by Q^{\beta}_{p}(\mathbb{D}). Further we prove a relation between Q^{\beta}_{p}(\mathbb{D}) and Morrey spaces. By the boundedness of two integral operators, we give the multiplier spaces of Q^{\beta}_{p}(\mathbb{D}).

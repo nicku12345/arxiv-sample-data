@@ -1,0 +1,1 @@
+We consider a simple modification of the Chow group CH^2(Spec(k),3) using only linear subvarieties in affine spaces and show that it maps surjectively to the Bloch group B(k) for any infinite field k. We also describe the kernel of this map.

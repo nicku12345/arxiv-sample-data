@@ -1,0 +1,1 @@
+Let \cal C be a (d+2)-angulated category. In this note, we show that if \cal C is a locally finite, then \cal C has Auslander-Reiten (d+2)-angles. This extends a result of Xiao-Zhu for triangulated categories.

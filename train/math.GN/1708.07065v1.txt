@@ -1,0 +1,1 @@
+We give an alternative proof of that a critical knot of a Morse-Bott function f: S^3 \rightarrow \mathbb{R} is a graph knot where the critical set of f is a link in S^3. Our proof inducts on the number of index-1 critical knots of f.

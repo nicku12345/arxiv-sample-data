@@ -1,0 +1,1 @@
+Given a classical r-matrix on a Poisson algebra, we show how to construct a natural family of compatible Poisson structures for the Hamiltonian formulation of Lax equations. Examples for which our formalism applies include the Benny hierachy, the dispersionless Toda lattice hierachy, the dispersionless KP and modified KP hierachies, the dispersionless Dym hierachy etc.

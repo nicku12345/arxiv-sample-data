@@ -1,0 +1,1 @@
+We prove a Verdier Hypercovering Theorem for cohomology theories arising from motivic spectra. This allows us to construct for smooth quasi-projective complex varieties a natural morphism from etale algebraic to Hodge filtered complex cobordism, which extends the map from etale motivic to Deligne-Beilinson cohomology.

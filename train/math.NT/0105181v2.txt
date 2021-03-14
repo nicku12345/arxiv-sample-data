@@ -1,0 +1,1 @@
+This paper answers a question of Gross and others, by exhibiting specific examples of Hecke algebras where mod 2 multiplicity one fails for some modular forms, and the associated Hecke algebras are not Gorenstein.   It shows that the methods of Wiles, Gross, Edixhoven, Buzzard, Mazur and others have an upper bound to their applicability.

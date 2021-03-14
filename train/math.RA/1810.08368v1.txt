@@ -1,0 +1,1 @@
+We give a constructive elementary proof for the fact that any K-automorphism of the full nxn matrix algebra over a field K is conjugation by some invertible nxn matrix A over K.

@@ -1,0 +1,1 @@
+In this paper we introduce a new technique to study associated graded modules.   Let (A,\m) be a   Noetherian local ring with \depth A \geq 2. Our techniques gives a necessary and sufficient condition for \depth G_{\m^n}(A) \geq 2 for all n \gg 0.   Other applications are also included; most notable is an upper bound regarding the Ratliff-Rush filtration.

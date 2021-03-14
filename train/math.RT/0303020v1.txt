@@ -1,0 +1,1 @@
+A class of representations of a Lie superalgebra (over a commutative superring) in its symmetric algebra is studied. As an application we get a direct and natural proof of a strong form of the Poincare'-Birkhoff-Witt theorem, extending this theorem to a class of nilpotent Lie superalgebras. Other applications are presented. Our results are new already for Lie algebras.

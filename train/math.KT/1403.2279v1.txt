@@ -1,0 +1,1 @@
+Finitely dominated chain complexes over a Laurent polynomial ring in one indeterminate are characterised by vanishing of their Novikov homology. We present an algebro-geometric approach to this result, based on extension of chain complexes to sheaves on the projective line. We also discuss the K-theoretical obstruction to extension.

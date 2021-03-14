@@ -1,0 +1,1 @@
+We present an example of a homotopical localization functor which is not a localization with respect to any set of maps. Our example arises from equivariant homotopy theory. The technique of equivariant cellularization is developed and applied to the proof of the main result.

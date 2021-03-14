@@ -1,0 +1,1 @@
+Let R be a standard graded algebra over a field k and I be a homogeneous ideal of R. We study the question whether there is a constant c such that \Soc(H^{j}_{\fm}(R/I^t))_{<-ct}=0 for all t\geq 1 and a variation of this question. We also draw a connection between this question and the notion of gauge-boundedness in prime characteristic.

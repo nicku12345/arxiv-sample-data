@@ -1,0 +1,1 @@
+In this note the notions of trace compatible operators and infinitesimal spectral flow are introduced. We define the spectral shift function as the integral of infinitesimal spectral flow. It is proved that the spectral shift function thus defined is absolutely continuous and Krein's formula is established. Some examples of trace compatible affine spaces of operators are given.

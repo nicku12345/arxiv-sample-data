@@ -1,0 +1,1 @@
+Let \alpha_X^{\underline d} be the Abel map of multidegree \underline d of a singular curve X of genus g. We describe the closure of {\rm Im}\alpha_X^{\underline d} inside Caporaso's compactified Jacobian \bar{P_X^d} for irreducible curves, curves of compact type and binary curves.

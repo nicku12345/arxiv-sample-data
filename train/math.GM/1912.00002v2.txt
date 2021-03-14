@@ -1,0 +1,1 @@
+The main aim of this note, which can be viewed as a certain addendum to the paper \cite{2020}, is to propose several new inequalities for the function y=t\ln t. We consider the local behaviour of this function near the point t=1, as well as the global behaviour of this function on the intervals [1,\infty) and (0,1].

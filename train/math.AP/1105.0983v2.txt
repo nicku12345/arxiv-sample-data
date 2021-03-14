@@ -1,0 +1,1 @@
+We prove the Bochner-Weitzenboeck formula for the (nonlinear) Laplacian on general Finsler manifolds and derive Li-Yau type gradient estimates as well as parabolic Harnack inequalities. Moreover, we deduce Bakry-Emery gradient estimates. All these estimates depend on lower bounds for the weighted flag Ricci tensor.

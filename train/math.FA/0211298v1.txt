@@ -1,0 +1,1 @@
+Classes of Banach spaces that are finitely, strongly finitely or elementary equivalent are introduced. On sets of these classes topologies are defined in such a way that sets of defined classes become compact totally disconnected topological spaces. Results are used in the problem of synthesis of Banach spaces, and to describe omittable spaces that are defined below.

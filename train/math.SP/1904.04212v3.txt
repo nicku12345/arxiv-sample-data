@@ -1,0 +1,1 @@
+In this note, we study existence of the outgoing/incoming resolvents of repulsive Schr\"odinger operators which may not be essentially self-adjoint on the Schwartz space. Moreover, we recover the classical result: The repulsive Schro\"odinger operators with large repulsive constant is not essentially self-adjoint on the Schwartz space.

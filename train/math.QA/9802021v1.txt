@@ -1,0 +1,1 @@
+The nth relative Kauffman bracket skein modules are defined and two theorems are given relating them to the Kauffman bracket skein module of a 3-manifold. The first theorem covers the case when the 3-manifold is split along a separating closed orientable surface and the second theorem addresses the case when the surface is nonseparating.

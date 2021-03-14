@@ -1,0 +1,1 @@
+Let F_p be the field of a prime order p. Then for any positive integer n>1, for any \epsilon>0, and for any subset A of F_p, every element of F_p can be represented as a sum of N elements, each of them is a product of n elements from A, where N depends on n and \espilon.

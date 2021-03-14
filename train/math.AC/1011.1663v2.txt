@@ -1,0 +1,1 @@
+The Melkersson subcategory is a special Serre subcategory. It was proved that a Serre subcategory which is closed under injective hulls is a Melkersson subcategory. However, it has been an open question whether the contrary implication holds. In this paper, we shall show that this question has a negative answer in general.

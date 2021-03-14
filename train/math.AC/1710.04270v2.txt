@@ -1,0 +1,1 @@
+In this paper, a computationally simple and explicit method of constructing recursive sequence of primitive polynomials of degree n2^k (k = 1, 2, 3,\ldots) over \mathbb{F}_{q} is given.

@@ -1,0 +1,1 @@
+We study the structure and compute the stable rank of C^*-algebras of finite higher-rank graphs. We obtain a complete characterisation when the k-graph C^*-algebra is stably finite, and also when the k-graph is cofinal. In the process, we determine exactly which finite k-graphs yield unital stably finite C^*-algebras and we give several examples to illustrate our results.

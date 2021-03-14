@@ -1,0 +1,1 @@
+Given a set C of binary n-tuples and c in C, how many bits of c suffice to distinguish it from the other elements in C? We shed new light on this old combinatorial problem and improve on previously known bounds.

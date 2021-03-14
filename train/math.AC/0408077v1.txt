@@ -1,0 +1,1 @@
+The Automorphism Theorem, discovered first by Jung in 1942, asserts that if k is a field, then every polynomial automorphism of k^2 is a finite product of linear automorphisms and automorphisms of the form (x,y)\mapsto(x+p(y), y)  for p\in k[y]. We present here a simple proof for the case k=\C by using Newton-Puiseux expansions.

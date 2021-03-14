@@ -1,0 +1,1 @@
+In this note we characterize the distinguished boundary of the symmetrized polydisc and thereby develop a model theory for \Gamma_n-isometries along the lines of \cite{AY}. We further prove that for invariant subspaces of \Gamma_n-isometries, similar to the case n=2 \cite{S}, Beurling-Lax-Halmos type representation holds.

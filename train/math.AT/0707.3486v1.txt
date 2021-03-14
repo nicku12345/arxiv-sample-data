@@ -1,0 +1,1 @@
+We show the Chas-Sullivan product (on the homology of the free loop space of a Riemannian manifold) is related to the Morse index of its closed geodesics. We construct related products in the cohomology of the free loop space and of the based loop space, and show they are nontrivial.

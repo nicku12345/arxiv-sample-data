@@ -1,0 +1,1 @@
+In this note we introduce the concept of the trade space of a latin square. Computations using Sage and the GAP package Simplicial Homology are presented.

@@ -1,0 +1,1 @@
+We prove that a two-variable p-adic l_q-function has the series p-adic expansion which interpolates a linear combinations of terms of the generalized q-Euler polynomials at non positive integers. The proof of this original construction is due to Kubota and Leopoldt in 1964, although the method given this note is due to Washington

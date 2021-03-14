@@ -1,0 +1,1 @@
+In this paper we extend the constructions of Boava and Exel to present the C*-algebra associated with an injective endomorphism of a group with finite cokernel as a partial group algebra and consequently as a partial crossed product. With this representation we present another way to study such C*-algebras, only using tools from partial crossed products.

@@ -1,0 +1,1 @@
+We explicitly construct generators of the rational homotopy groups of the space of stable h-cobordisms of the classifying space of a cyclic group of order n by generalizing a construction of Hatcher. This result will be used in a separate paper by the third author to classify axiomatic higher twisted torsion invariants.

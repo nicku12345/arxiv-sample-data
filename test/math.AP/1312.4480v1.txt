@@ -1,0 +1,1 @@
+We consider the evolution operator exp(-it(-Delta+V)) associated with a Schr\"odinger operator on a Riemannian manifold (M,g). We are interested in the dependence of this operator on V running in L^p(M). Under a geometrical hypothetis, we show the unstability for p

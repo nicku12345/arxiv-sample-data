@@ -1,0 +1,1 @@
+We revisit the notion of flatness for semimodules over semirings. In particular, we introduce and study a new notion of uniformly flat semimodules based on the exactness of the tensor functor. We also investigate the relations between this notion and other notions of flatness for semimodules in the literature.

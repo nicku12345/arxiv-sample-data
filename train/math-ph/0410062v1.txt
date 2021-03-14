@@ -1,0 +1,1 @@
+We prove quantum dynamical lower bounds for one-dimensional continuum Schr\"odinger operators that possess critical energies for which there is slow growth of transfer matrix norms and a large class of compactly supported initial states. This general result is applied to a number of models, including the Bernoulli-Anderson model with a constant single-site potential.

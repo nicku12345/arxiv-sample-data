@@ -1,0 +1,1 @@
+This paper is an elementary introduction to the theory of moduli spaces of curves and maps. As an application to enumerative geometry, we show how to count the number of bitangent lines to a projective plane curve of degree d by doing intersection theory on moduli spaces.

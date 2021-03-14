@@ -1,0 +1,1 @@
+We provide a detailed analysis of atomic *-representations of rank 2 graphs on a single vertex. They are completely classified up to unitary equivalence, and decomposed into a direct sum or direct integral of irreducible atomic representations. The building blocks are described as the minimal *-dilations of defect free representations modelled on finite groups of rank 2.

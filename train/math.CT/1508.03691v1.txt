@@ -1,0 +1,1 @@
+This paper provides the theory of integration with respect to Euler characteristics of finite categories. As an application, we use sensors to enumerate the targets lying on a poset. This is a discrete analogue to Baryshnikov and Ghrist's work on integral theory using topological Euler characteristics.

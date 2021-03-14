@@ -1,0 +1,1 @@
+We construct some braided quantum groups over the circle group. These are analogous to the free orthogonal quantum groups and generalise the braided quantum SU(2) groups for complex deformation parameter. We describe their irreducible representations and fusion rules and study when they are monoidally equivalent.

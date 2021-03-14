@@ -1,0 +1,1 @@
+We show that the convex hull of the path of Brownian motion in n-dimensions, up to time 1, is a smooth set. As a consequence, we conclude that a Brownian motion in any dimension almost surely has no cone points for any cone whose dual cone is nontrivial.

@@ -1,0 +1,1 @@
+We study simplices with equiareal faces in the Euclidean 3-space by means of elementary geometry. We present an unexpectedly simple proof of the fact that, if such a simplex is non-degenerate, than every two of its faces are congruent. We show also that this statement is wrong for degenerate simplices and find all degenerate simplices with equiareal faces.

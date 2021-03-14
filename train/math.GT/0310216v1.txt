@@ -1,0 +1,1 @@
+The 2-loop polynomial is a polynomial presenting the 2-loop part of the Kontsevich invariant of knots. We show a cabling formula for the 2-loop polynomial of knots. In particular, we calculate the 2-loop polynomial for torus knots.

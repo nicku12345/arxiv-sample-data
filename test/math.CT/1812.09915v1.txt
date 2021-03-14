@@ -1,0 +1,1 @@
+We present some tools for providing situations where the generalised Rota formula of arXiv:1801.07504 applies. As an example of this, we compute the M\"obius function of the incidence algebra of any directed restriction species, free operad, or more generally free monad on a finitary polynomial monad.

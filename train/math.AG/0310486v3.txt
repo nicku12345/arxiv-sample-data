@@ -1,0 +1,1 @@
+We consider smooth surfaces S \subset \Pq containing a plane curve P and prove some general result concerning the linear system |H-P|. We then look at regular surfaces lying on hypersurfaces of degree s having a plane of multiplicity (s-2). This implies that S contains a plane curve. We prove that the degree of such surfaces is bounded and for s=4 we compute an actual bound.

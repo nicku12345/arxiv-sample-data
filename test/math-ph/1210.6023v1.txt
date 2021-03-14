@@ -1,0 +1,1 @@
+For any skew-Hermitian integrable irreducible infinite dimensional representation \eta of iso(3), we find a sequence of (finite dimensional) irreducible representations \rho_n of so(4) which contract to \eta.

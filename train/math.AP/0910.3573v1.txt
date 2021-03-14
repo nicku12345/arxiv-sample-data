@@ -1,0 +1,1 @@
+The aim of this note is to present some new results concerning "almost everywhere" well-posedness and stability of continuity equations with measure initial data. The proofs of all such results can be found in \cite{amfifrgi}, together with some application to the semiclassical limit of the Schr\"odinger equation.

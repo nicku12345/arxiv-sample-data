@@ -1,0 +1,1 @@
+We compute the Hochschild Cohomology of a finite-dimensional preprojective algebra of generalized Dynkin type Ln over a field of characteristic different from 2 . In particular, we describe the ring structure of the Hochschild Cohomology ring under the Yoneda product by giving an explicit presentation by generators and relations.

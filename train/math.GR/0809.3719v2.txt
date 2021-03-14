@@ -1,0 +1,1 @@
+The aim of this note is to give an easy example of a finitely presented group that cannot act without a fix point on a CAT(0) space of finite dimension. Such an example has been recently constructed by Arjantseva et al., using other techniques

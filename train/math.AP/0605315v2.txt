@@ -1,0 +1,1 @@
+We study the global well-posedness theory for the Schr\"odinger Maps equation. We work in n+1 dimensions, for n \geq 3, and prove a local well-posedness for small initial data in \dot{B}^{\frac{n}{2}}_{2,1}.

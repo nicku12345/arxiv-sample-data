@@ -1,0 +1,1 @@
+An infinite linearly ordered set (S,<=) is called doubly homogeneous if its automorphism group A(S) acts 2-transitively on it. We show that any group G arises as outer automorphism group G cong Out(A(S)) of the automorphism group A(S), for some doubly homogeneous chain (S,<=).

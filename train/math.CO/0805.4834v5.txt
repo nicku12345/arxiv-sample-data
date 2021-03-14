@@ -1,0 +1,1 @@
+We prove a version of the Loebl-Komlos-Sos Conjecture for dense graphs. For each q>0 there exists a number n_0\in \mathbb{N} such that for any n>n_0 and k>qn the following holds: if G be a graph of order n with at least n/2 vertices of degree at least k, then any tree of order k+1 is a subgraph of G.

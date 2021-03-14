@@ -1,0 +1,1 @@
+We show that the density of Z=\mathop {\operatorname {argmax}}\{W(t)-t^2\}, sometimes known as Chernoff's density, is log-concave. We conjecture that Chernoff's density is strongly log-concave or "super-Gaussian", and provide evidence in support of the conjecture.

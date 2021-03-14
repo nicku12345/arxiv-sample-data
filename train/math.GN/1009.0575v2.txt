@@ -1,0 +1,1 @@
+We determine which connected surfaces can be partitioned into topological circles. There are exactly seven such surfaces up to homeomorphism: those of finite type, of Euler characteristic zero, and with compact boundary components. As a byproduct, we get that any circle decomposition of a surface is upper semicontinuous.

@@ -1,0 +1,1 @@
+We show that the Schr\"{o}dinger equation in phase space proposed by Torres-Vega and Frederick is canonical in the sense that it is a natural consequence of the extended Weyl calculus obtained by letting the Heisenberg group act on functions (or half-densities) defined on phase space. This allows us, in passing, to solve rigorously the TF equation for all quadratic Hamiltonians.

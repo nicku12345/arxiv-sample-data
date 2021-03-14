@@ -1,0 +1,1 @@
+We give a simple proof of Bourgain's disc algebra version of Grothendieck's theorem, i.e. that every operator on the disc algebra with values in L_1 or L_2 is 2-absolutely summing and hence extends to an operator defined on the whole of C. This implies Bourgain's result that L_1/H^1 is of cotype 2. We also prove more generally that L_r/H^r is of cotype 2 for 0<r< 1.

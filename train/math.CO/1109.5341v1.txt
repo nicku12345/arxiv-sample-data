@@ -1,0 +1,1 @@
+We prove that there exists a positive constant \epsilon such that if \log n / n \le p \le n^{-1+\epsilon}, then asymptotically almost surely the random graph G ~ G(n,p) contains a collection of \lfloor \delta(G)/2 \rfloor edge-disjoint Hamilton cycles.

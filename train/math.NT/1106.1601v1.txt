@@ -1,0 +1,1 @@
+We prove, in particular, that if a subset A of {1, 2,..., N} has no nontrivial solution to the equation x_1+x_2+x_3+x_4+x_5=5y then the cardinality of A is at most N e^{-c(log N)^{1/7-eps}}, where eps>0 is an arbitrary number, and c>0 is an absolute constant. In view of the well-known Behrend construction this estimate is close to best possible.

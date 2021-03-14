@@ -1,0 +1,1 @@
+We study the Schur elements associated to the simple modules of the Ariki-Koike algebra. We first give a cancellation-free formula for them so that their factors can be easily read and programmed. We then study direct applications of this result. We also complete the determination of the canonical basic sets for cyclotomic Hecke algebras of type G(l,p,n) in characteristic 0.

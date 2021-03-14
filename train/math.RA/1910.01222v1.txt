@@ -1,0 +1,1 @@
+We study Abelian groups A with centrally essential endomorphism ring \text{End}\,A. If A is a such group which is either a torsion group or a non-reduced group, then the ring \text{End}\,A is commutative. We give examples of Abelian torsion-free groups of finite rank with non-commutative centrally essential endomorphism rings. The paper will appear in Communications in Algebra.

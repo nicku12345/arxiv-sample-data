@@ -1,0 +1,1 @@
+We construct a new family of simple \mathfrak{gl}_{2n}-modules which depends on n^2 generic parameters. Each such module is isomorphic to the regular U(\mathfrak{gl}_{n})-module when restricted the \mathfrak{gl}_{n}-subalgebra naturally embedded into the top-left corner.

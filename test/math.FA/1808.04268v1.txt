@@ -1,0 +1,1 @@
+Let A(t) be a continuous path of Fredhom operators, we first prove that the spectral flow sf(A(t)) is cogredient invariant. Based on this property, we give a decomposition formula of spectral flow if the path is invariant under a matrix-like cogredient. As applications, we give the generalized Bott-type iteration formula for linear Hamiltonian systems.

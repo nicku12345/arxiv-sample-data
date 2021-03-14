@@ -1,0 +1,1 @@
+We consider solutions to the linear wave equation on non-compact Riemannian manifolds without boundary when the geodesic flow admits a filamentary hyperbolic trapped set. We obtain a polynomial rate of local energy decay with exponent depending only on the dimension.

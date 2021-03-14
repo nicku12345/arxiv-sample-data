@@ -1,0 +1,1 @@
+The theory of multi-norms was developed by H.\ G.\ Dales and M.\ E.\ Polyakov in a memoir that was published in \emph{Dissertationes Mathematicae}. In that memoir, the notion of `equivalence' of multi-norms was defined. In the present memoir, we make a systematic study of when various pairs of multi-norms are mutually equivalent.

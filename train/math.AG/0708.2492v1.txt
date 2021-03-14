@@ -1,0 +1,1 @@
+We prove the rationality of a \k-form X of the product S of projective spaces provided the existence of a \k-point on X. The method of the proof is to find a Galois-invariant birational projection of S to the projective space. This method also allows to prove the quasitriviality of the forms of the hyperplane sections of some Segre varieties.

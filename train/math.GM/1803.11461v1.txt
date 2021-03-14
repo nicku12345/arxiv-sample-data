@@ -1,0 +1,1 @@
+The purpose of this note is to report on the discovery of the primes of the form p=1+n!\sum n, for some natural numbers n>0. The number of digits in the prime p are approximately equal to \lfloor log_{10}(1+n!\sum n)\rceil+1.

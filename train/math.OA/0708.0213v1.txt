@@ -1,0 +1,1 @@
+Let G be a finite group acting on {1,...,n}. For any C*-algebra A, this defines an action of \alpha of G on A^{\otimes n}. We show that if A tensorially absorbs a UHF algebra of infinite type, the Jiang-Su algebra, or is approximately divisible, then A \times_{\alpha} G has the corresponding property as well.

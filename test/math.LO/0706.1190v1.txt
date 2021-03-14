@@ -1,0 +1,1 @@
+Let kappa be an uncountable regular cardinal. Assuming 2^kappa=kappa^+, we show that the clone lattice on a set of size kappa is not dually atomic.

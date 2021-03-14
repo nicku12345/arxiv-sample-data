@@ -1,0 +1,1 @@
+A construction related to the Boardman-Vogt tensor product of operads allows us to describe the configuration category of a product manifold M\times N in terms of the configuration categories of the factors M and N.

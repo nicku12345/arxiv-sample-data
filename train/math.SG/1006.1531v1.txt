@@ -1,0 +1,1 @@
+We prove that a K-contact Lie group of dimension five or greater is the central extension of a symplectic Lie group by complexifying the Lie algebra and applying a result from complex contact geometry, namely, that, if the adjoint action of the complex Reeb vector field on a complex contact Lie algebra is diagonalizable, then it is trivial.

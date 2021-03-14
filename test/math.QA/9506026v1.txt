@@ -1,0 +1,1 @@
+The goal of the present paper is to prove with simple algebraic methods a Schur duality between Cherednik's double affine Hecke algebra of type GL(l) and the toroidal quantum group of type SL(n+1) introduced by V. Ginzburg, M. Kapranov and E. Vasserot in their "Langlands duality on algebraic surfaces".

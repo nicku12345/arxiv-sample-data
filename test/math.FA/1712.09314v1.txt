@@ -1,0 +1,1 @@
+Let \varPhi:{\mathbb R}^n \to [1, \infty) be a semi-continuous from below function such that \lim \limits_{x \to \infty} \displaystyle \frac {\ln \varPhi(x)} {\Vert x \Vert} = +\infty. It is shown that polynomials are dense in C_{\varPhi}({\mathbb R}^n).

@@ -1,0 +1,1 @@
+Let L be a strongly Z-graded ring, and let C be a bounded chain complex of finitely generated L-modules. We give a homological characterisation of when C is homotopy equivalent, over L_0, to a bounded complex of finitely generated projective L_0-modules, generalising known results for twisted Laurent polynomial rings.

@@ -1,0 +1,1 @@
+We give an algebro-geometric derivation of the known intersection theory on the moduli space of stable rank 2 bundles of odd degree over a smooth curve of genus g. We lift the computation from the moduli space to a Quot scheme, where we obtain the intersections by equivariant localization with respect to a natural torus action.

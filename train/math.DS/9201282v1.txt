@@ -1,0 +1,1 @@
+It is shown that the boundary of the Mandelbrot set M has Hausdorff dimension two and that for a generic c \in \bM, the Julia set of z \mapsto z^2+c also has Hausdorff dimension two. The proof is based on the study of the bifurcation of parabolic periodic points.

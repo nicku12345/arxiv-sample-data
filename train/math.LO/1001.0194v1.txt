@@ -1,0 +1,1 @@
+We formulate and prove (in {\sf ZFC}) a strong coloring theorem which holds at successors of singular cardinals, and use it to answer several questions concerning Shelah's principle Pr_1(\mu^+,\mu^+,\mu^+,\cf(\mu)) for singular \mu.

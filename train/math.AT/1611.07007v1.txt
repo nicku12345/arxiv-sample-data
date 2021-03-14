@@ -1,0 +1,1 @@
+In this paper, we define the pullback crossed modules in the category of racks which mainly based on a pullback diagram of rack morphisms with extra crossed module data on some of its arrows. Furthermore we prove that the conjugation functor, which is defined between the category of crossed modules of groups and of racks, preserves the pullback crossed modules.

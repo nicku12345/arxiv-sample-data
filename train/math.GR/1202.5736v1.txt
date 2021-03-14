@@ -1,0 +1,1 @@
+Let K be a subgroup of a finite group G, and suppose that G=KN_G(P) for every Sylow subgroup P of K. Then the subgroup K is normal in G.

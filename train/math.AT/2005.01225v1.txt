@@ -1,0 +1,1 @@
+We completely calculate the RO(G)-graded coefficients of ordinary equivariant cohomology where G is the dihedral group of order 2p for a prime p>2 both with constant and Burnside ring coefficients. The authors first proved it for p=3 and then the second author generalized it to arbitrary p. These are the first such calculations for a non-abelian group.

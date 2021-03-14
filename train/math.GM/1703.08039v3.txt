@@ -1,0 +1,1 @@
+We define a G-class: A set of numbers for which the even Goldbach conjecture is true. The elements of a G-class are G numbers. Main result: We prove that every G number can be expressed as a sum of two primes and there are infinitely many G numbers.

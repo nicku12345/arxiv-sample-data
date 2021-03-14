@@ -1,0 +1,1 @@
+Let h be a rationally even cohomology theory and h^ the natural differential refinement, as defined by Hopkins and Singer. We consider the possible definitions of the relative differential cohomology groups, generalizing the analogous picture for the Deligne cohomology, and we show the corresponding long exact sequence in each case.

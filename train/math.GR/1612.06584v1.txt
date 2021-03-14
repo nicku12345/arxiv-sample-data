@@ -1,0 +1,1 @@
+Let p be a prime number, let d be an integer and let G be a d-generated finite p-group of nilpotency class smaller than p. Then the number of possible isomorphism types for the mod p cohomology algebra H^*(G;{\mathbb F}_p) is bounded in terms of p and d.

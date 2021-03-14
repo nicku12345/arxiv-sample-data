@@ -1,0 +1,1 @@
+We construct measure which determines an ordinary mean in a very natural way. Using that measure we can extend the mean to infinite sets as well. E.g. we can calculate the geometric mean of any set with positive Lebesgue measure. We also study the properties and behavior of such generalized means that are obtained by a measure.

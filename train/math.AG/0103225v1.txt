@@ -1,0 +1,1 @@
+We give a proof of Iitaka's Conjecture C_{2,1} using only elementary methods from algebraic geometry. The main point is that, given a non-isotrivial and relatively minimal family f : X \to B, where X is a surface and B is a curve, both smooth and projective, we show that the direct image of the relatively canonical sheaf has strictly positive degree.

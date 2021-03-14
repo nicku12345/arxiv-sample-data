@@ -1,0 +1,1 @@
+The mapping class group of a Heegaard splitting is the group of automorphisms of the ambient 3-manifold that take the surface onto itself, modulo isotopies that keep the surface on itself. We characterize the mapping classes that restrict to periodic and reducible automorphisms of the surface.

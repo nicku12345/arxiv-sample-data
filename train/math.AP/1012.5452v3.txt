@@ -1,0 +1,1 @@
+This paper is concerned with global existence of weak solution for a periodic two-component \mu-Hunter-Saxton system. We first derive global existence for strong solutions to the system with smooth approximate initial data. Then, we show that the limit of approximate solutions is a global weak solution of the two-component \mu-Hunter-Saxton system.

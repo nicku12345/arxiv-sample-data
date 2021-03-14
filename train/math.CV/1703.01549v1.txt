@@ -1,0 +1,1 @@
+We give a necessary and sufficient condition for positive Borel measures such that the Dirichlet problem, with zero boundary data, for the complex Monge-Amp\`ere equation admits H\"older continuous plurisubharmonic solutions. In particular, when the subsolution has finite Monge-Amp\`ere total mass, we obtain an affirmative answer to a question of Zeriahi.

@@ -1,0 +1,1 @@
+The Cuntz algebra O_n is presented as a partial crossed product in which an amenable group partially acts on an abelian C*-algebra. The partial action is related to the Cuntz groupoid for O_n and connections are made with non-self-adjoint subalgebras of O_n, particularly the Volterra nest subalgebra. These ideas are also extended to the M_k(O_n) context.

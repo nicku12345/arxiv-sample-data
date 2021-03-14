@@ -1,0 +1,1 @@
+We show that (S^2\times S^2, \omega_0 \oplus \lambda\omega_0), with \lambda > 1, is an example of symplectic manifold (X, \omega) such that the \pi_1 Ham(X \times X, \omega\oplus -\omega) contains extra elements than those from \pi_1 Ham(X, \omega) \times \pi_1 Ham(X, -\omega).

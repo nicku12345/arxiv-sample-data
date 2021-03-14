@@ -1,0 +1,1 @@
+It is shown that a local ring R of bounded module type is an almost maximal valuation ring if there exists a non-maximal prime ideal J such that R/J is a maximal valuation domain.

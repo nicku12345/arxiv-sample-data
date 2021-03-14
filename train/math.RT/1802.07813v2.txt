@@ -1,0 +1,1 @@
+Linckelmann showed in 2011 that a group algebra is separably equivalent to the group algebra of its Sylow p-subgroups. In this article we use this relationship, together with Mackey decomposition, to demonstrate that a group algebra of a group with an elementary abelian Sylow p-subgroup P, has representation dimension at most |P|.

@@ -1,0 +1,1 @@
+We show that the number of integer solutions for a pair of bilinear equations in at least 2*6 variables has (up to logarithms) the expected upper bound unless there is a structural reason why it is not the case.

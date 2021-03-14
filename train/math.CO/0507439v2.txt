@@ -1,0 +1,1 @@
+We give a closed formula for the derivative of arbitrary order of the function \ds g(x)=\exp(f(x)).

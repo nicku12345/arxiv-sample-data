@@ -1,0 +1,1 @@
+We prove that Jacobi, CMV, and Schr\"odinger operators, which are reflectionless on a homogeneous set E (in the sense of Carleson), under the assumption of a Blaschke-type condition on their discrete spectra accumulating at E, have purely absolutely continuous spectrum on E.

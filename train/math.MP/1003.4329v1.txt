@@ -1,0 +1,1 @@
+In this paper, we obtain an explicit expression for the resultant of n quadratic algebraic equations dS/dx_1 = 0,..., dS/dx_n = 0, where S is a cubic polynomial in n variables, symmetric under permutations of its arguments. Application of this result to the study of Finslerian spaces is discussed.

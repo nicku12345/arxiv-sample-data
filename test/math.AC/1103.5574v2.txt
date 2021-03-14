@@ -1,0 +1,1 @@
+A topological interpretation of Hochster's Theta pairing of two modules on a hypersurface ring is given in terms of linking numbers. This generalizes results of M. Hochster and proves a conjecture of J. Steenbrink. As a corollary we get that the Theta pairing vanishes for isolated hypersurface singularities in an odd number of variables, as was conjectured by H. Dao.

@@ -1,0 +1,1 @@
+Let G be a finite p-group of order p^n. It is known that |\mathcal{M}(G)|=p^{\f{1}{2}n(n-1)-t(G)} and t(G)\geq 0. The structure of G characterized when t(G)\leq 4 in \cite{be,el,ni,sa,zh}. The structure description of G is determined in this paper for t(G)=5.

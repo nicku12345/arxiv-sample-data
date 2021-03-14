@@ -1,0 +1,1 @@
+Let G be a reflection group acting on a vector space V and let \gamma be an automorphism of V normalising G. We study how \gamma acts on invariants and covariants (for various representations) of G, and properties of its eigenspaces.

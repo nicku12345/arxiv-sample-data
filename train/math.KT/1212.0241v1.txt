@@ -1,0 +1,1 @@
+We develop a Mayer-Vietoris sequence for the analytic structure group explored by Higson and Roe. Using explicit formulas for Mayer-Vietoris boundary maps, we give a new proof and generalizations of Roe's partitioned manifold index theorem.

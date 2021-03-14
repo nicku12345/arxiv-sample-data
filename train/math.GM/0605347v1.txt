@@ -1,0 +1,1 @@
+In this note we consider fractions of the form 1/m and their floating-point representation in various arithmetic bases. For instance, what is 1/7 in base 2005? And, what about 1/4? We give a simple algorithm to answer these questions. In addition, we discuss an extension of Midy's theorem whose proof relies on elementary modular arithmetic.

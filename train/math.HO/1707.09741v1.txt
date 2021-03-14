@@ -1,0 +1,1 @@
+This article is dedicated to domino tilings of square grids. In each of these grids domino tilings are represented using linear-recurrent sequences. For different grids are determined new dependencies.

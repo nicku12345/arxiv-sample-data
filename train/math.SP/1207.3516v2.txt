@@ -1,0 +1,1 @@
+In this paper, under some integrability condition, we prove that an electrical perturbation of the discrete Dirac operator has purely absolutely continuous spectrum for the one dimensional case. We reduce the problem to a non-self-adjoint Laplacian-like operator by using a spin up/down decomposition and rely on a transfermatrices technique.

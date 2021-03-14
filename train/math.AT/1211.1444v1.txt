@@ -1,0 +1,1 @@
+Let X be the base locus of a linear system W of k quadrics. Let also S be the intersection of W with the discriminant hypersurface in the space of all homogeneous polynomials of degree two. We prove a formula relating the topology of X with the one of S and its (iterated) singular points. As a corollary we prove the sharp bound b(X)\leq O(n)^{k-1}.

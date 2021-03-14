@@ -1,0 +1,1 @@
+In previous papers (arxiv:math/0612370 and arxiv:0909.1342) we defined the C*-algebra and the longitudinal pseudodifferential calculus of any singular foliation (M,F). Here we construct the analytic index of an elliptic operator as a KK-theory element, and prove that the same element can be obtained from an "adiabatic foliation" TF on M \times \R, which we introduce here.

@@ -1,0 +1,1 @@
+In this paper, we study the problem of limit cycle bifurcation in two piecewise polynomial systems of Li\'enard type with multiple parameters. Based on the developed Melnikov function theory, we obtain the maximum number of limit cycles of these two systems.

@@ -1,0 +1,1 @@
+In this paper, an integer programming approach is introduced to construct Unequal Error Protection (UEP) codes for multiuser broadcast channels. We show that the optimal codes can be constructed that satisfy the integer programming bound. Based on the bound, we compute asymptotic code rate and perform throughput analysis for the degraded broadcast channel.

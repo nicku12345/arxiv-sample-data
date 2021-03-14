@@ -1,0 +1,1 @@
+There is a lot of redundancy in the usual definition of adjoint functors. We define and prove the core of what is required. First we do this in the hom-enriched context. Then we do it in the cocompletion of a bicategory with respect to Kleisli objects, which we then apply to internal categories. Finally, we describe a doctrinal setting.

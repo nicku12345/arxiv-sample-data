@@ -1,0 +1,1 @@
+We study Lagrangian cobordism groups of oriented surfaces of genus greater than two. We compute the immersed oriented Lagrangian cobordism group of these surfaces. We show that a variant of this group, with relations given by unobstructed immersed Lagrangian cobordisms computes the Grothendieck group of the derived Fukaya category. The proof relies on an argument of Abouzaid.

@@ -1,0 +1,1 @@
+By using two known transformation formulas for basic hypergeometric series, we establish a direct extension of Bailey's _6\psi_6-series identity. Subsequently, it and Milne's identity are employed to drive multi-variable generalizations of Ramanujan's reciprocity formula. Then we utilize also Milne's identity to deduce a multi-variable generalization of the Askey-Wilson integral.

@@ -1,0 +1,1 @@
+We prove that the logarithmic Sobolev constant for the inhomogeneous symmetric nearest neighbour zero range process on a cube of size N^d grows as N^2. We apply this result to the inhomogeneous process which arises in the study of the homogeneous version of the zero range interacting particle system with colours.

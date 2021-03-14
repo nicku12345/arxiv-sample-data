@@ -1,0 +1,1 @@
+In this article, we shall explore the constructions of Bernstein sets, and prove that every Bernstein set is nonmeasurable and doesn't have the property of Baire. We shall also prove that Bernstein sets don't have the perfect set property.

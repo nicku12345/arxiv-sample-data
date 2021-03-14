@@ -1,0 +1,1 @@
+Let (X,\mu) be a strictly-positive Borel measure space. We show that the modes of convergence in a reproducing kernel Hilbert (RKHS) space, pointwise, weak and strong are all equivalents. From this we describe some important consequences such as an association with positive operators and positive definite kernels and a compact embedding condition for a RKHS in L^{2}(X,\mu).

@@ -1,0 +1,1 @@
+The likelihood function for a competing-risks model with one fatal and one non-fatal event is proposed. A bivariate Weibull using the likelihood function is applied to the Stanford Heart Transplant Data.

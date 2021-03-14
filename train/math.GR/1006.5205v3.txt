@@ -1,0 +1,1 @@
+Recently the strings and the string number of self-maps were used in the computation of the algebraic entropy of special group endomorphisms. We introduce two special kinds of strings, and their relative string numbers. We show that a dichotomy holds for all these three string numbers; in fact, they admit only zero and infinity as values on group endomorphisms.

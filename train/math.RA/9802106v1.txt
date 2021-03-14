@@ -1,0 +1,1 @@
+An upper bound on operator norms of compound matrices is presented, and special cases that involve the \ell_1, \ell_2 and \ell_\infty norms are investigated. The results are then used to obtain bounds on products of the largest or smallest eigenvalues of a matrix.

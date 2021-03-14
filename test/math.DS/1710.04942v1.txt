@@ -1,0 +1,1 @@
+Let G = SU(n,1), n >1 be the orientation-preserving isometry group of the complex hyperbolic space with an Iwasawa decomposition G = KAN. We prove local rigidity of a family of certain actions of a subgroup of AN on the imaginary boundary of the complex hyperbolic space.

@@ -1,0 +1,1 @@
+Let {\mathcal W}_n be the Lie algebra of polynomial vector fields. We classify simple weight {\mathcal W}_n-modules M with finite weight multiplicities. We prove that every such nontrivial module M is either a tensor module or the unique simple submodule in a tensor module associated with the de Rham complex on \mathbb C^n.

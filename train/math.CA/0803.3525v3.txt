@@ -1,0 +1,1 @@
+Let \mathbb{F}_q denote a finite field of q elements. Define a set B\subset\mathbb{F}_q^n to be Nikodym if for each x\in B^{c}, there exists a line L such that L\cap B^c=\{x\}. The main purpose of this note is to show that the size of every Nikodym set is at least C_n\cdot q^n, where C_n depends only on n.

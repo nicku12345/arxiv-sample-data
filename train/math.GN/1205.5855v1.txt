@@ -1,0 +1,1 @@
+In this paper we establish that if a Tychonoff space X is \v{C}ech-complete then the space O_\tau(X) of all \tau-smooth order-preserving, weakly additive and normed functionals is also \v{C}ech-complete

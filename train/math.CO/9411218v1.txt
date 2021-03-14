@@ -1,0 +1,1 @@
+In this paper we give graphs with the largest known order for a given degree \Delta and diameter D. The graphs are constructed from Moore bipartite graphs by replacement of some vertices by adequate structures. The paper also contains the latest version of the (\Delta, D) table for graphs.

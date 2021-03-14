@@ -1,0 +1,1 @@
+We introduce a general class of (quasi-)interpolants of functions defined on a Bravais lattice, and establish several technical results for these interpolants that are crucial ingredients in the analysis of atomistic models and atomistic/continuum multi-scale methods.

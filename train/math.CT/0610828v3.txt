@@ -1,0 +1,1 @@
+Given a functor T:C \to D carrying a class of morphisms S\subset C into a class S'\subset D, we give sufficient conditions in order that T induces an equivalence on the localised categories. These conditions are in the spirit of Quillen's theorem A. We give some applications in algebaic and birational geometry.

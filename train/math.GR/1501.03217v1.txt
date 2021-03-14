@@ -1,0 +1,1 @@
+We describe how the SgpDec computer algebra package can be used for composing and decomposing permutation groups and transformation semigroups hierarchically by directly constructing substructures of wreath products, the so called cascade products.

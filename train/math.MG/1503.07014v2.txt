@@ -1,0 +1,1 @@
+Let M be a complete Riemannian manifold possessing a strictly convex Lipschitz continuous exhaustion function. We show that the isoperimetric profile of M is a continuous and non-decreasing function. Particular cases are Hadamard manifolds and complete non-compact manifolds with strictly positive sectional curvatures.

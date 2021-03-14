@@ -1,0 +1,1 @@
+We show that for every m in N, there exists an n in N such that every embedding of the complete graph K_n in R^3 contains a link of two components whose linking number is at least m. Furthermore, there exists an r in N such that every embedding of K_r in R^3 contains a knot Q with |a_2(Q)| > m-1, where a_2(Q) denotes the second coefficient of the Conway polynomial of Q.

@@ -1,0 +1,1 @@
+In this expository note, we present a simple proof of the Fredholm Alternative for compact operators that are norm limits of finite rank operators. We also prove a Fredholm Alternative for pseudodifferential operators of order < 0.

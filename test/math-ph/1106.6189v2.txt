@@ -1,0 +1,1 @@
+The absolute value of matrices is used in order to give inequalities for the trace of products. An application gives a very short proof of the tracial matrix Hoelder inequality

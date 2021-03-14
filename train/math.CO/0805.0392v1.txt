@@ -1,0 +1,1 @@
+In this paper, we study the linear structure of sets A \subset \mathbb{F}_2^n with doubling constant \sigma(A)<2, where \sigma(A):=\frac{|A+A|}{|A|}. In particular, we show that A is contained in a small affine subspace. We also show that A can be covered by at most four shifts of some subspace V with |V|\leq |A|. Finally, we classify all binary sets with small doubling constant.

@@ -1,0 +1,1 @@
+For a right invariant distance on a permutation space S_n we give a sufficient condition for the cardinality of a ball of radius R to grow polynomially in n for fixed R. For the distance \ell_1 we show that for an integer k the cardinality of a sphere of radius 2k in S_n (for n \geqslant k) is a polynomial of degree k in n and determine the high degree terms of this polynomial.

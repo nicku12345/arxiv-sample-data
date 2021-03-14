@@ -1,0 +1,1 @@
+We prove that a Lie conformal algebra L with bounded locality function is embeddable into an associative conformal algebra A with the same bound on the locality function. If L is nilpotent, then so is A, and the nilpotency index remains the same. We also give a list of open questions concerning the embedding of Lie conformal algebras into associative conformal.

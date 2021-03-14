@@ -1,0 +1,1 @@
+Uniform measures are the functionals on the space of bounded uniformly continuous functions that are continuous on every bounded uniformly equicontinuous set. This paper describes the role of uniform measures in the study of convolution on an arbitrary topological group.

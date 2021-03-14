@@ -1,0 +1,1 @@
+We prove that the Duflo-Serganova functor DS_x attached to an odd nilpotent element x of \mathfrak{osp}(m|2n) is semisimple, i.e. sends a semisimple representation M of \mathfrak{osp}(m|2n) to a semisimple representation of \mathfrak{osp}(m-2k|2n-2k) where k is the rank of x. We prove a closed formula for DS_x(L(\lambda)) in terms of the arc diagram attached to \lambda.

@@ -1,0 +1,1 @@
+Let \Phi(x,y) be a bivariate polynomial with complex coefficients. The zeroes of \Phi(x,y) are given a combinatorial structure by considering them as arcs of a directed graph G(\Phi). This paper studies some relationship between the polynomial \Phi(x,y) and the structure of G(\Phi).

@@ -1,0 +1,1 @@
+In this paper we prove that the Navier-Stokes initial value problem (1) has a unique smooth local strong solution and if the following condition are satisfied (1) and is H\"older continuous about on, (2) The initial value

@@ -1,0 +1,1 @@
+Midzuno sampling enables to estimate ratios unbiasedly. We prove the asymptotic normality for estimators of totals and ratios under Midzuno sampling. We also propose consistent variance estimators.

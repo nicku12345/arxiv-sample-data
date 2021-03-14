@@ -1,0 +1,1 @@
+Consider steady-state weak solutions to the incompressible Navier-Stokes equations in six spatial dimensions. We prove that the 2D Hausdorff measure of the set of singular points is equal to zero. This problem was mentioned in 1988 by Struwe [24], during his study of the five dimensional case.

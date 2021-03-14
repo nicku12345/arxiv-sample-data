@@ -1,0 +1,1 @@
+We construct an increasing \omega-sequence (a_n) of Turing degrees which forms an initial segment of the Turing degrees, and such that each~a_{n+1} is diagonally noncomputable relative to a_n. It follows that the~\mathsf{DNR} principle of reverse mathematics does not imply the existence of Turing incomparable degrees.

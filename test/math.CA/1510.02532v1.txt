@@ -1,0 +1,1 @@
+In this paper we shall be concerned with H_\alpha summability, for 0 < \alpha \leq 2 of the Fourier series of arbitrary L^1([-\pi,\pi])  functions. The methods to be employed here are a refinement of the real variable methods introduced by Marcinkiewicz in \cite{Marcin1}. In addition, we introduce maximal theorems with respect to the Lebesgue measure and A_1 weights.

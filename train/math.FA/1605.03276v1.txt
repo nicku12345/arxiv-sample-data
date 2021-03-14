@@ -1,0 +1,1 @@
+We study Jacobi matrices on trees with one end at inifinity. We show that the defect indices cannot be greater than 1 and give criteria for essential selfadjointness. We construct certain polynomials associated with matrices, which mimic orthogonal polynomials in the classical case. Nonnegativity of Jacobi matrices is studied as well.

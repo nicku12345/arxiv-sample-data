@@ -1,0 +1,1 @@
+Let f be analutic in the unit disk \mathbb D and normalized so that f(z)=z+a_2z^2+a_3z^3+\cdots. In this paper we give sharp bound of Hankel determinant of the second order for the class of analytic unctions satisfying \[ \left|\arg \left[\left(\frac{z}{f(z)}\right)^{1+\alpha}f'(z) \right] \right|<\gamma\frac{\pi}{2} \quad\quad (z\in\mathbb D),\] for 0<\alpha<1 and 0<\gamma\leq1.

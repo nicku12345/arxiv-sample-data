@@ -1,0 +1,1 @@
+Let k be a field of characteristic 0 and \mathcal{A} a curved k-algebra. We obtain a Chern-Weil-type formula for the Chern character of a perfect \mathcal{A}-module taking values in HN_0^{II}(\mathcal{A}), the negative cyclic homology of the second kind associated to \mathcal{A}, when \mathcal{A} satisfies a certain smoothness condition.

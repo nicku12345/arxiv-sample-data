@@ -1,0 +1,1 @@
+In this paper, we study the symplectic cohomologies and symplectic harmonic forms which introduced by Tseng and Yau. Based on this, we get if (M^{2n},\omega) is a compact symplectic parabolic manifold which satisfies the hard Lefschetz property, then its Euler number satisfies the inequality (-1)^n\chi(M)\geq 0.

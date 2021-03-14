@@ -1,0 +1,1 @@
+We give a heat kernel proof of the algebraic index theorem for deformation quantization with separation of variables on a pseudo-Kahler manifold. We use normalizations of the canonical trace density of a star product and of the characteristic classes involved in the index formula for which this formula contains no extra constant factors.

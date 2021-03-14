@@ -1,0 +1,1 @@
+We call a right-continuous increasing process K_x a partial right inverse (PRI) of a given L\'{e}vy process X if X_{K_x}=x for at least all x in some random interval [0,\zeta) of positive length. In this paper, we give a necessary and sufficient condition for the existence of a PRI in terms of the L\'{e}vy triplet.

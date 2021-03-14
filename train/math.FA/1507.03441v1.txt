@@ -1,0 +1,1 @@
+Maps between spaces of measures on measurable spaces (X,\Sigma_X) and (Y, \Sigma_Y) are treated as generalized functions between X and Y.

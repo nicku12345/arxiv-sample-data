@@ -1,0 +1,1 @@
+Let X be a linear space over a field \mathbb{K} and (X, \rho, *) a fuzzy seminorm space where (\rho, *) a fuzzy seminorm with * a continuous t-norm. We give a fixed point theorem for Fuzzy Locally Convex Space.

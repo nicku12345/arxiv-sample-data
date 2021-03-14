@@ -1,0 +1,1 @@
+Characterizations of skeletally Dugundji spaces and Dugundji spaces are given in terms of club collections, consisting of countable families of co-zero sets. For example, a Tychonoff space X is skeletally Dugundji if and only if there exists an additive c-club on X. Dugundji spaces are characterized by the existence of additive d-clubs.

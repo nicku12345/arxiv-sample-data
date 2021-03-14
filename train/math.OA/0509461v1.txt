@@ -1,0 +1,1 @@
+For any finite dimensional C^*-algebra A with a trace vector \vec s whose entries are rational numbers, we give an endomorphism \Phi of the hyperfinite II_1 factor R such that: for all k \in \mathbb {N}, \Phi^k (R)' \cap R= \otimes^k A. The canonical trace \tau on R extends the trace vector \vec s on A. Therefore the minimal projection is not necessarily equivalent to each other.

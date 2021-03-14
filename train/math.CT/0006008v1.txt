@@ -1,0 +1,1 @@
+In the context of Synthetic Differential Geometry, we describe the square volume of a ``second-infinitesimal simplex'', in terms of square-distance between its vertices. The square-volume function thus described is symmetric in the vertices. The square-volume gives rise to a characterization of the volume form in the top dimension.

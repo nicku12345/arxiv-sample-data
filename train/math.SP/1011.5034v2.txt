@@ -1,0 +1,1 @@
+We use Krein formula and the S-matrix formalism to give formulas for the zeta-regularized determinant of non-Friedrichs extensions of the Laplacian on Euclidean surfaces with Conical Singularities. This formula involves S(0) and we show that the latter can be expressed using the Bergman projective connection on the underlying Riemann surface.

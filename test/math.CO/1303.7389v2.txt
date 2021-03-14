@@ -1,0 +1,1 @@
+We prove that the well-known condition of being a balanced labeling can be characterized in terms of the sliding algorithm on tower diagrams. The characterization involves a generalization of authors' Rothification algorithm. Using the characterization, we obtain descriptions of Schubert polynomials and Stanley symmetric functions.

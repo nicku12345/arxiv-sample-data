@@ -1,0 +1,1 @@
+Let X be a terminal weak \bQ-Fano threefold. We prove that P_{-6}(X)>0 and P_{-8}(X)>1. We also prove that the anti-canonical volume has a universal lower bound -K_X^3 \geq 1/330. This lower bound is optimal.

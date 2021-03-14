@@ -1,0 +1,1 @@
+Orthogonal polynomials for the multinomial distribution m(x, p) of N balls dropped into d boxes (box i has probability p(i)) are called multivariate Krawtchouk polynomials. This paper gives an introduction to their properties, collections of natural Markov chains which they explicitly diagonalize and associated bivariate multinomial distributions.

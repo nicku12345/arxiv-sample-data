@@ -1,0 +1,1 @@
+In this paper, we have proposed a new Ratio Type Estimator using auxiliary information on two auxiliary variables based on Simple random sampling without replacement (SRSWOR). The proposed estimator is found to be more efficient than the estimators constructed by Olkin (1958), Singh (1965), Lu (2010) and Singh and Kumar (2012) in terms of second order mean square error.

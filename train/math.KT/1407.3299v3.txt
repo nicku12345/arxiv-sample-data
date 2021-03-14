@@ -1,0 +1,1 @@
+We prove that the degree r(2p-3) cohomology of any finite group of Lie type over \mathbb{F}_{p^r}, with coefficients in characteristic p, is nonzero as long as its Coxeter number is at most p. We do this by providing a simple explicit construction of a nonzero element.

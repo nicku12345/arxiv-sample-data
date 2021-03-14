@@ -1,0 +1,1 @@
+This note is an addendum to our earlier work \cite{humi}. In \cite{humi}, we studied a Hamiltonian action for a generalized Calabi-Yau manifold and showed that the Duistermaat-Heckman theorem holds. The purpose of this note is to show that the density function of the Duistermaa-Heckman measure is a piecewise polynomial. We also prove that the localization formula holds.

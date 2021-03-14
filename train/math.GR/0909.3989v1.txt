@@ -1,0 +1,1 @@
+This paper classifies the maximal finite subgroups of Sp(2n,Q) for 1 <= n <= 11 up to conjugacy in GL(2n,Q).

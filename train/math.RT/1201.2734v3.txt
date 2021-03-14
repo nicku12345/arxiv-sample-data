@@ -1,0 +1,1 @@
+Let G be a simple classical algebraic group over an algebraically closed field of positive characteristic. We describe the support variety of a simple G-module over the r-th Frobenius kernel of G, in terms of its calculation over the first Frobenius kernel. We then use this result to compute the block varieties of the Frobenius kernels of G.

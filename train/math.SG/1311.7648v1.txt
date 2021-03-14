@@ -1,0 +1,1 @@
+We provide an upper bound for the Gromov width of compact homogeneous Hodge manifolds (M, \omega) with b_2(M)=1. As an application we obtain an upper bound on the Seshadri constant \epsilon (L) where L is the ample line bundle on M such that c_1(L)=[\frac{\omega}{\pi}].

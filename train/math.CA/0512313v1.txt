@@ -1,0 +1,1 @@
+The aim of this paper is to study the algebra AC_{p} of absolutely continuous functions f on [0,1] satisfying f(0) = 0, f'\in L^{p} [0, 1] and the multipliers of AC_{p}.

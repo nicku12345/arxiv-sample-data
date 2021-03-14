@@ -1,0 +1,1 @@
+A subgroup H of a group G is called {\it pronormal}, if for every g\in G subgroups H and H^g are conjugate in \langle H, H^g\rangle. It is proven that if a finite group G possesses a \pi-Hall subgroup for a set of primes \pi, the every its normal subgroup (in particular, G itself) possesses a \pi-Hall subgroup that is pronormal in~G.

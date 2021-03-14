@@ -1,0 +1,1 @@
+The paper is to prove the Gaussian correlation conjecture stating that, under the standard Gaussian measure, the measure of the intersection of any two symmetric convex sets is greater than or equal to the product of their measures. Characterization of the equality and some applications are given.

@@ -1,0 +1,1 @@
+In this paper we construct Cech cohomology groups that form a Gysin-type long exact sequence for principal torus bundles. This sequence is modeled on a de Rham cohomology sequence published in earlier work by Bouwknegt, Hannabuss and Mathai, which was developed to compute the global properties of T-duality in the presence of NS H-Flux.

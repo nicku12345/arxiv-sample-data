@@ -1,0 +1,1 @@
+This paper studies the small time behavior of the heat content of rotationally invariant \alpha--stable processes, 0<\alpha \leq 2, in domains in \R^d. Unlike the asymptotics for the heat trace, the behavior of the heat content differs depending on the ranges 0<\alpha<1, \alpha=1 and 1<\alpha\leq 2.

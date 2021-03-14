@@ -1,0 +1,1 @@
+We show that for any given closed orientable 3-manifold M with a Heegaard surface of genus g, any positive integers b and n, there exists a knot K in M which admits a (g,b)-bridge splitting of distance greater than n with respect to the Heegaard surface except for (g,b) = (0,1), (0,2).

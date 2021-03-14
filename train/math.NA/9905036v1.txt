@@ -1,0 +1,1 @@
+We give an algorithm for efficient step size control in numerical integration of non-stiff initial value problems, based on a formula tailormade to methods where the numerical solution is compared with a solution of lower order.

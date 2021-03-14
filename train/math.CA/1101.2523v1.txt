@@ -1,0 +1,1 @@
+Complete monotonicity, Laguerre and Tur\'an type inequalities are established for the so-called Kr\"atzel function Z_{\rho}^{\nu}, defined by Z_{\rho}^{\nu}(u)=\int_0^{\infty}t^{\nu-1}e^{-t^{\rho}-\frac{u}{t}}\dt, where u>0 and \rho,\nu\in\mathbb{R}. Moreover, we prove the complete monotonicity of a determinant function of which entries involve the Kr\"atzel function.

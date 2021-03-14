@@ -1,0 +1,1 @@
+We show that for certain configurations of two chemostats fed in parallel, the presence of two different species in each tank can improve the yield of the whole process, compared to the same configuration having the same species in each volume. This leads to a (so-called) "transgressive over-yielding" due to spatialization.

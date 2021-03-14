@@ -1,0 +1,1 @@
+We construct new examples of CAT(0) groups containing non finitely presented subgroups that are of type FP_2, these CAT(0) groups do not contain copies of \mathbb{Z}^3. We also give a construction of groups which are of type F_n but not F_{n+1} with no free abelian subgroups of rank greater than \lceil\frac{n}{3}\rceil.

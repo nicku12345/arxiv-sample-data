@@ -1,0 +1,1 @@
+We generalize Gel'fond's criterion of algebraic independence to the context of a sequence of polynomials whose first derivatives take small values on large subsets of a fixed subgroup of the additive group of complex numbers, instead of just one point. We also provide one extension dealing with a subgroup of the multiplicative group of non-zero complex numbers.

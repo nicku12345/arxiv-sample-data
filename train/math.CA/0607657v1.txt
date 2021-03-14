@@ -1,0 +1,1 @@
+Given a Calder\'{o}n--Zygmund (C--Z for short) operator T, which satisfies H\"ormander condition, we prove that: if T maps all the characteristic atoms to WL^{1}, then T is continuous from L^{p} to L^{p}(1<p<\infty). So the study of strong continuity on arbitrary function in L^{p} has been changed into the study of weak continuity on characteristic functions.

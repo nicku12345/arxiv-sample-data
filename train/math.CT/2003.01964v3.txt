@@ -1,0 +1,1 @@
+This paper reformulates a classical result in probability theory from the 1930s in modern categorical terms: de Finetti's representation theorem is redescribed as limit statement for a chain of finite spaces in the Kleisli category of the Giry monad. This new limit is used to identify among exchangeable coalgebras the final one.

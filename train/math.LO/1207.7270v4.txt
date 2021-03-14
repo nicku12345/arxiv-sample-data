@@ -1,0 +1,1 @@
+The TTE computability notion in effective metric spaces is usually defined by using Cauchy representations. Under some weak assumptions, we characterize this notion in a way which avoids using the representations.

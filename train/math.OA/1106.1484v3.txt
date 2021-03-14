@@ -1,0 +1,1 @@
+We introduce the notion of the action of a group on a labeled graph and the quotient object, also a labeled graph. We define a skew product labeled graph and use it to prove a version of the Gross-Tucker theorem for labeled graphs. We then apply these results to the C^*-algebra associated to a labeled graph and provide some applications in nonabelian duality.

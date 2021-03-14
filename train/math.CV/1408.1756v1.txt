@@ -1,0 +1,1 @@
+We study the smoothness of the Siciak-Zaharjuta extremal function associated to a convex body in \mathbb{R}^2. We also prove a formula relating the complex equilibrium measure of a convex body in \mathbb{R}^n to that of its Robin indicatrix. The main tool we use are extremal ellipses.

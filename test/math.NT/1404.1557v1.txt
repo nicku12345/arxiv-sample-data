@@ -1,0 +1,1 @@
+I show that a trivial modification of a standard proof of the Roth's Theorem on triples in arithmetic progression would lead to the following Theorem: If A is a "large set" that is its elements are monotone increasing integers and the sum of reciprocals of its elements diverges then the sequence contains an arithmetic progression of length three.

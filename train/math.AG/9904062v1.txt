@@ -1,0 +1,1 @@
+In part I of this paper we constructed certain fibered Calabi-Yaus by a quotient construction in the context of weighted hypersurfaces. In this paper look at the case of K3 fibrations more closely and study the singular fibers which occur. This differs from previous work since the fibrations we discuss have constant modulus, and the singular fibers have torsion monodromy.

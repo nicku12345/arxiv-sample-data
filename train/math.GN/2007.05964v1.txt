@@ -1,0 +1,1 @@
+A space X is called CCS-normal space if there exist a normal space Y and a bijection f: X\mapsto Y such that f\lvert_C:C\mapsto f(C) is homeomorphism for any cellular-compact subset C of X. We discuss about the relations between C-normal, CC-normal, Ps-normal spaces with CCS-normal.

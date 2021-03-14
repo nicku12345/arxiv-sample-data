@@ -1,0 +1,1 @@
+We give a new expression for the number of factorizations of a full cycle into an ordered product of permutations of specified cycle types. This is done through purely algebraic means, extending work of Biane. We deduce from our result a formula of Poulalhon and Schaeffer that was previously derived through an intricate combinatorial argument.

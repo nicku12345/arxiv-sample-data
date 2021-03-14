@@ -1,0 +1,1 @@
+This note introduces a new class of integer factoring algorithms. Two versions of this method will be described, deterministic and probabilistic. These algorithms are practical, and can factor large classes of balanced integers N = pq, p < q < 2p in superpolynomial time. Further, an extension of the Fermat factoring method is proposed.

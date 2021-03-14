@@ -1,0 +1,1 @@
+Using free fields, we construct a bosonic realization of toroidal Lie algebras of type A_{2n-1}, A_{2n}, D_{n+1}, D_4 which are twisted by a Dynkin diagram automorphism. This realization is based upon the recently found Moody-Rao-Yokonuma-like presentation. In particular, our construction contains the first bosonic realization of the twisted affine algebra D_4^{(3)}.

@@ -1,0 +1,1 @@
+We prove that for every compactum X and every integer n \geq 2 there are a compactum Z of \dim \leq n+1 and a surjective UV^{n-1}-map r: Z \lo X such that for every abelian group G and every integer k \geq 2 such that \dim_G X \leq k \leq n we have \dim_G Z \leq k and r is G-acyclic.

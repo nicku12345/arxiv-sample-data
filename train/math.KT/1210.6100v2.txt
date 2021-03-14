@@ -1,0 +1,1 @@
+Let M be a complete Riemannian manifold, D a Dirac-type operator on M whose Weitzenbock curvature is uniformly positive on the complement of a subset Z of M. We show that the coarse index of D is localized to the K-theory of the coarse C*-algebra of Z. Applications are discussed, including a coarse form of the relative index theorem.

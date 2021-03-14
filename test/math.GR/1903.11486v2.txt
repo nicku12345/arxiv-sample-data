@@ -1,0 +1,1 @@
+We introduce polynomially weighted \ell^p-norms on the bar complex of a finitely generated group. We prove that, for groups of polynomial or exponential growth, the homology of the completed complex does not depend on the value of p in the range (1,\infty).

@@ -1,0 +1,1 @@
+Let n be a positive integer. We consider the Sylvester Resultant of f and g, where f is a generic polynomial of degree 2 or 3 and g is a generic polynomial of degree n. If f is a quadratic polynomial, we find the resultant's height. If f is a cubic polynomial, we find tight asymptotics for the resultant's height.

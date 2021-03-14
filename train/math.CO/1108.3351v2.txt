@@ -1,0 +1,1 @@
+One must add arrows which are forced by transitivity to form the transitive closure of a directed graph. We introduce a construction of a transitive directed graph which is formed by adding vertices instead of arrows and which preserves the transitive relationships formed by distinct vertices in the original directed graph. Our construction does not apply to all directed graphs.

@@ -1,0 +1,1 @@
+We consider the \top-Stein equation X = AX^\top B + C, where the operator (\cdot)^\top denotes the transpose (\top) of a matrix. In the first part of this paper, we analyze necessary and sufficient conditions for the existence and uniqueness of the solution X. In the second part, a numerical algorithm for solving \top-Stein equation is given under the solvability conditions.

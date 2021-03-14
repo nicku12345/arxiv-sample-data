@@ -1,0 +1,1 @@
+We use a double degeneration technique to calculate the dimension of the secant variety of any Segre-Veronese embedding of (P^1)^r

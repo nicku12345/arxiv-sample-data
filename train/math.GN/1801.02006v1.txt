@@ -1,0 +1,1 @@
+A theorem by Norman L. Noble from 1970 asserts that every product of completely regular, locally pseudo-compact k_R-spaces is a k_R-space. As a consequence, all direct products of locally compact Hausdorff spaces are k_R-spaces. We provide a streamlined proof for this fact.

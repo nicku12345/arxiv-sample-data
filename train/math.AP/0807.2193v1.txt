@@ -1,0 +1,1 @@
+We prove that the generalized Benjamin-Ono equations \partial_tu+\mathcal{H}\partial_x^2u\pm u^k\partial_xu=0, k\geq 4 are locally well-posed in the scaling invariant spaces \dot{H}^{s_k}(\R) where s_k=1/2-1/k. Our results also hold in the non-homogeneous spaces H^{s_k}(\R). In the case k=3, local well-posedness is obtained in H^{s}(\R), s>1/3.

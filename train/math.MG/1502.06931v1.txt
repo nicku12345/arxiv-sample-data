@@ -1,0 +1,1 @@
+Let p(w) denote the probability that four random circular caps of angular radius 70deg<w<90deg cover the unit sphere S^2. An exact expression for p(w) is unknown. We give nontrivial lower bounds for p(w) when w>84deg; no improvement on the inequality p(w)>=0 for w<84deg is yet feasible. A dual problem involving randomly inscribed well-centered tetrahedra is also examined.

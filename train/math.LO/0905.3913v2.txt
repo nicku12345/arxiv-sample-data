@@ -1,0 +1,1 @@
+We investigate the pressing down game and its relation to the Banach Mazur game. In particular we show: Consistently, there is a nowhere precipitous normal ideal I on \aleph_2 such that player nonempty wins the pressing down game of length \aleph_1 on I even if player empty starts.

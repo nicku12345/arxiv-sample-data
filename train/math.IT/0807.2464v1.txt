@@ -1,0 +1,1 @@
+The interleaver design criteria described in [1] should take into account all error patterns of interest.

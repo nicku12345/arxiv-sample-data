@@ -1,0 +1,1 @@
+Let X be a real Banach space. We prove that the existence of an injective, positive, symmetric and not strictly singular operator from X into its dual implies that either X admits an equivalent Hilbertian norm or it contains a nontrivially complemented subspace which is isomorphic to a Hilbert space. We also treat the non-symmetric case.

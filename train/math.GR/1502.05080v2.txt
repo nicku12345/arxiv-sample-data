@@ -1,0 +1,1 @@
+Given a finite group G, let P_G(s) be the probability that s randomly chosen elements generate G, and let H be a finite group with P_G(s)=P_H(s). We show that if the nonabelian composition factors of G and H are \mathrm{PSL}(2,p) for some non-Mersense prime p\geq 5, then G and H have the same non-Frattini chief factors.

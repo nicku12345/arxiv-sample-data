@@ -1,0 +1,1 @@
+We give a combinatorial rule for calculating the coefficients in the expansion of a product of two factorial Schur functions. It is a special case of a more general rule which also gives the coefficients in the expansion of a skew factorial Schur function. Multiplication rules for the Capelli operators and quantum immanants are also given.

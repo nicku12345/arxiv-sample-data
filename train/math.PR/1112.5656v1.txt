@@ -1,0 +1,1 @@
+We pursue the study of a random coloring first passage percolation model introduced by Fontes and Newman. We prove that the asymptotic shape of this first passage percolation model continuously depends on the law of the coloring. The proof uses several couplings, particularly with greedy lattice animals.

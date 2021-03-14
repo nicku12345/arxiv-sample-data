@@ -1,0 +1,1 @@
+We develop techniques to deal with monotonicity of sequences z_{n+1}/z_n and \sqrt[n]{z_n}. A series of conjectures of Zhi-Wei Sun and of Amdeberhan et al. are verified in certain unified approaches.

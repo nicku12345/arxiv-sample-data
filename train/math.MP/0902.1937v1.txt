@@ -1,0 +1,1 @@
+A Jacobi matrix with matrix entries is a self-adjoint block tridiagonal matrix with invertible blocks on the off-diagonals. Averaging over boundary conditions leads to explicit formulas for the averaged spectral measure which can potentially be useful for spectral analysis. Furthermore another variant of spectral averaging over coupling constants for these operators is presented.

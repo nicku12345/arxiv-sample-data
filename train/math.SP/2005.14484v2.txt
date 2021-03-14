@@ -1,0 +1,1 @@
+The spectral theory of the normalized Laplacian for chemical hypergraphs is further investigated. The signless normalized Laplacian is introduced and it is shown that its spectrum for classical hypergraphs coincides with the spectrum of the normalized Laplacian for bipartite chemical hypergraphs. Furthermore, the spectra of special families of hypergraphs are established.

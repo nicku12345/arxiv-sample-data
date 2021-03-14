@@ -1,0 +1,1 @@
+We compute all irregular primes less than 163,577,356. For all of these primes we verify that the Kummer-Vandiver conjecture holds and that the lambda-invariant is equal to the index of irregularity.

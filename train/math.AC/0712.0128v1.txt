@@ -1,0 +1,1 @@
+In this paper, we consider five possible extensions of the Pr\"ufer domain notion to the case of commutative rings with zero divisors. We investigate the transfer of these Pr\"ufer-like properties between a commutative ring and its subring retract. Our results generate new families of examples of rings subject to a given Pr\"ufer-like conditions.

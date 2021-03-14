@@ -1,0 +1,1 @@
+Let \text{Ham(M)} be the group of Hamiltonian symplectomorphisms of a quantizable, compact, symplectic manifold (M,\omega). We prove the existence of an action integral around loops in \text{Ham(M)}, and determine the value of this action integral on particular loops when the manifold is a coadjoint orbit.

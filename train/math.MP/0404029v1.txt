@@ -1,0 +1,1 @@
+We extend the concept of implementability of semigroups of evolution operators associated with dynamical systems to quantum case. We show that such an extension can be properly formulated in terms of Jordan morphisms and isometries on non-commutative L^p spaces. We focus our attention on a non-commutative analog of the Banach-Lamperti theorem.

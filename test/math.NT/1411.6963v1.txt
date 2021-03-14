@@ -1,0 +1,1 @@
+In this paper, we determine all the positive integers a, b and c such that every nonnegative integer can be represented as  f^{a,b}_c(x,y,z,w)=ax^2+by^2+c(z^2+zw+w^2) \,\, \textrm{with} \,\,x,y,z,w\in\mathbb{Z}.  Furthermore, we prove that f^{a,b}_c can represent all the nonnegative integers if it represents n=1,2,3,5,6,10.

@@ -1,0 +1,1 @@
+We prove a four dimensional version of the Bernstein Theorem, with complex polynomials being replaced by quaternionic polynomials. We deduce from the theorem a quaternionic Bernstein's inequality and give a formulation of this last result in terms of four-dimensional zonal harmonics and Gegenbauer polynomials.

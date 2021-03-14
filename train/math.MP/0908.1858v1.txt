@@ -1,0 +1,1 @@
+Within the framework of nonrelativistic QED, we prove that, for small values of the coupling constant, the energy function, E_|P|, of a dressed electron is twice differentiable in the momentum P in a neighborhood of P = 0. Furthermore, (E_|P|)" is bounded from below by a constant larger than zero. Our results are proven with the help of iterative analytic perturbation theory.

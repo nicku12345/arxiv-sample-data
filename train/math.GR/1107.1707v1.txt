@@ -1,0 +1,1 @@
+We provide polynomial upper bounds on the size of a shortest solution for quadratic equations in a free group. A similar bound is given for parametric solutions in the description of solutions sets of quadratic equations in a free group.

@@ -1,0 +1,1 @@
+For a smooth projective variety P, we construct a Cartier divisor supported on the incidence locus in \mathscr{C}_a (P) \times \mathscr{C}_{\dim(P)-a-1}(P). There is a natural definition of the corresponding line bundle on a product of Hilbert schemes, and we show this bundle descends to the Chow varieties. This answers a question posed by Mazur.

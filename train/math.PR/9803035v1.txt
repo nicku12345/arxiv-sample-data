@@ -1,0 +1,1 @@
+We study the fluctuations, in the large deviations regime, of the longest increasing subsequence of a random i.i.d. sample on the unit square. In particular, our results yield the precise upper and lower exponential tails for the length of the longest increasing subsequence of a random permutation.

@@ -1,0 +1,1 @@
+This note shows how iteration of the standard process of adjoining identities and zeros to semigroups gives rise naturally to the lexicographical ordering on the additive semigroup of n-tuples of nonnegative integers and n-tuples of integers.

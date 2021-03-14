@@ -1,0 +1,1 @@
+In this paper we prove that the energy - critical nonlinear Schr{\"o}dinger equation in the domain exterior to a convex obstacle is globally well - posed and scattering for initial data having finite energy. To prove this we utilize frequency localized Morawetz estimates adapted to an exterior domain.

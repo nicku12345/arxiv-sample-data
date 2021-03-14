@@ -1,0 +1,1 @@
+This paper is concerned with the global regularity of the 2D (two-dimensional) generalized magnetohydrodynamic equations with only magnetic diffusion \Lambda^{2\beta} b. It is proved that when \beta>1  there exists a unique global regular solution for this equations. The obtained result improves the previous known one which requires that \beta>\frac32.

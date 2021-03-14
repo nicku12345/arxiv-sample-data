@@ -1,0 +1,1 @@
+We prove some properties of positive polynomial mappings between Riesz spaces, using finite difference calculus. We establish the polynomial analogue of the classical result that positive, additive mappings are linear. And we prove a polynomial version of the Kantorovich extension theorem.

@@ -1,0 +1,1 @@
+The possible values of the nth Fourier coefficients a(n) of some cusp forms f(z) of weight k => 12 are studied in this article. In particular, the values of the tau function are investigated in some details, and proved that tau(p) =! 0 for all primes p => p_0.

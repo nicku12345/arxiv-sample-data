@@ -1,0 +1,1 @@
+It was shown by Usher that any fiber sum of Lefschetz fibrations over S^2 is minimal, which was conjectured by Stipsicz. We prove that the converse does not hold by showing that there exists an indecomposable minimal genus-2 Lefschetz fibration.

@@ -1,0 +1,1 @@
+The traditional theory of Laplace transformation in its currently prevalent form is unsatisfactory. Its deficiencies can be traced back to a mismatch of the definition intervals of the original function and of the inverse L-transform. A new approach is outlined by which Laplace transformation becomes liberated from its inconsistencies.

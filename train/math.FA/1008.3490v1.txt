@@ -1,0 +1,1 @@
+A unitary operator V and a rank 2 operator R acting on a Hilbert space \H are constructed such that V+R is hypercyclic. This answers affirmatively a question of Salas whether a finite rank perturbation of a hyponormal operator can be supercyclic.

@@ -1,0 +1,1 @@
+We extend to bimodules Schelter's localization of a ring with respect to Gabriel filters of left and right ideals. Our two-sided localization of bimodules provides an endofunctor on a convenient bicategory of rings with filters of ideals. This is used to study the Picard group of a ring relative to a filter of ideals.

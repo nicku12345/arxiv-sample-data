@@ -1,0 +1,1 @@
+We study, using an optimal control point of view, higher-order variational problems of Herglotz type with time delay. Main results are higher-order Euler-Lagrange and DuBois-Reymond necessary optimality conditions as well as a higher-order Noether type theorem for delayed variational problems of Herglotz type.

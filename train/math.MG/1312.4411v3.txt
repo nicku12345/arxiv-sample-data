@@ -1,0 +1,1 @@
+Using equivariant topology, we prove that it is always possible to find n points in the d-dimensional faces of a nd-dimensional convex polytope P so that their center of mass is a target point in P. Equivalently, the n-fold Minkowski sum of a nd-polytope's d-skeleton is that polytope scaled by n. This verifies a conjecture by Takeshi Tokuyama.

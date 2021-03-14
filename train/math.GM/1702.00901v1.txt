@@ -1,0 +1,1 @@
+Using a simple Vi\`ete-like formula for \pi based on the nested radicals a_k = \sqrt{2 + a_{k-1}} and a_1 = \sqrt{2}, we derive a set of the recurrence relations for the constant 1. Computational test shows that application of this set of the Vi\`ete-like recurrence relations results in a rapid convergence to unity.

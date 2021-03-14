@@ -1,0 +1,1 @@
+In this paper, we describe finite, additively commutative, congruence simple semirings. The main result is that the only such semirings are those of order 2, zero-multiplication rings of prime order, matrix rings over finite fields, those that are additively idempotent, and those with trivial addition.

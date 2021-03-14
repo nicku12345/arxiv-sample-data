@@ -1,0 +1,1 @@
+We characterise quasidiagonality of the C^*-algebra of a cofinal k-graph in terms of an algebraic condition involving the coordinate matrices of the graph. This result covers all simple k-graph C^*-algebras. In the special case of cofinal 2-graphs we further prove that AF-embeddability, quasidiagonality and stable finiteness of the 2-graph algebra are all equivalent.

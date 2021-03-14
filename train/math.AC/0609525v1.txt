@@ -1,0 +1,1 @@
+We prove that the integral closures of the powers of a squarefree monomial ideal I equal the symbolic powers if and only if I is the edge ideal of a Fulkersonian hypergraph.

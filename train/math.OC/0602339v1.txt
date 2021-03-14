@@ -1,0 +1,1 @@
+It is well known that every Chebyshev linear approximation problem can be reduced to a linear program. In this paper we show that conversely every linear program can be reduced to a Chebyshev linear approximation problem.

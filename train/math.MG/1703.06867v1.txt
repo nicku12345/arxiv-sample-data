@@ -1,0 +1,1 @@
+We study real-valued, continuous and translation invariant valuations defined on the space of quasi-concave functions of N variables. In particular, we prove a homogeneous decomposition theorem of McMullen type, and we find a representation formula for those valuations which are N-homogeneous. Moreover, we introduce the notion of Klain's functions for these type of valuations.

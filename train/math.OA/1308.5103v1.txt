@@ -1,0 +1,1 @@
+We define Ozawa's notion of bi-exactness to discrete quantum groups, and then prove some structural properties of associated von Neumann algebras. In particular, we prove that any non amenable subfactor of free quantum group von Neumann algebras, which is an image of a faithful normal conditional expectation, has no Cartan subalgebras.

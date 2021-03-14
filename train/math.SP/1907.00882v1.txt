@@ -1,0 +1,1 @@
+We consider a natural generalization of the eigenvalue problem for the Laplacian with homogeneous Dirichlet boundary conditions. This corresponds to look for the critical values of the Dirichlet integral, constrained to the unit L^q sphere. We collect some results, present some counter-examples and compile a list of open problems.

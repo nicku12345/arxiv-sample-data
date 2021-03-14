@@ -1,0 +1,1 @@
+We show that a discrete sequence \Lambda of the unit disk is the union of n interpolating sequences for the Nevanlinna class N if and only if the trace of N on \Lambda coincides with the space of functions on \Lambda for which the divided differences of order n - 1 are uniformly controlled by a positive harmonic function.

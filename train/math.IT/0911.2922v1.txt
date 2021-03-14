@@ -1,0 +1,1 @@
+We construct a basis of sparse eigenvectors for the N-dimensional discrete Fourier transform. The sparsity differs from the optimal by at most a factor of four. When N is a perfect square, the basis is orthogonal.

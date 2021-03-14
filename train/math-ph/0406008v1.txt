@@ -1,0 +1,1 @@
+Employing a suitable nonlinear Lagrange functional, we derive generalized Hamilton-Jacobi equations for dynamical systems subject to linear velocity constraints. As long as a solution of the generalized Hamilton-Jacobi equation exists, the action is actually minimized (not just extremized).

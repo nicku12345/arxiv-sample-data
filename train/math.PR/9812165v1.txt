@@ -1,0 +1,1 @@
+For one-dimensional simple random walk in a general i.i.d. scenery and its limiting process we construct a coupling with explicit rate of approximation extending a recent result for Gaussian sceneries due to Khoshnevisan and Lewis. Furthermore we explicity identify the constant in the law of iterated logarithm.

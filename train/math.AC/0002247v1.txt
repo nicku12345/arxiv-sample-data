@@ -1,0 +1,1 @@
+In this survey I should like to introduce some concepts of algebraic geometry and try to demonstrate the fruitful interaction between algebraic geometry and computer algebra and, more generally, between mathematics and computer science. One of the aims of this article is to show, by means of examples, the usefulness of computer algebra to mathematical research.

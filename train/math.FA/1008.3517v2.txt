@@ -1,0 +1,1 @@
+We report on initial findings on Gabor systems with multivariate Gaussian window. Unlike the existing characterisation for dimension one in terms of lattice density, our results indicate that the behavior of Gaussians in higher-dimensional Gabor systems is intricate and further exploration is a valuable and challenging task.

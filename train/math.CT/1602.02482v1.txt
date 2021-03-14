@@ -1,0 +1,1 @@
+In this work, we explore the close relationship between an ideal map structure S --> End(R) on a homomorphism of commutative k-algebras R --> S and an ideal simplicial algebra structure on the associated bar construction Bar(S, R).

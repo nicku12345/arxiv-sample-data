@@ -1,0 +1,1 @@
+A group G is non-topologizable if the only Hausdorff group topology that G admits is the discrete one. Is there an infinite group G such that H/N is non-topologizable for every subgroup H <= G and every normal subgroup N <| H? We show that a solution of this essentially group theoretic question provides a solution to the problem of c-compactness.

@@ -1,0 +1,1 @@
+In 1992, Kalai and Kleitman proved that the diameter of a d-dimensional polyhedron with n facets is at most n^{2+\log_2 d}. In 2014, Todd improved the Kalai-Kleitman bound to (n-d)^{\log_2 d}. We improve the Todd bound to (n-d)^{-1+\log_2 d} for n \ge d \ge 7, (n-d)^{-2+\log_2 d} for n \ge d \ge 37, and (n-d)^{-3+\log_2 d+O\left(1/d\right)} for n \ge d \ge 1.

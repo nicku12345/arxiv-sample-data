@@ -1,0 +1,1 @@
+The anti-Ramsey number AR(n,G), for a graph G and an integer n\geq|V(G)|, is defined to be the minimal integer r such that in any edge-colouring of K_n by at least r colours there is a multicoloured copy of G, namely, a copy of G whose edges have distinct colours. In this paper we determine the anti-Ramsey numbers of all graphs having at most four edges.

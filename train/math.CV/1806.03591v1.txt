@@ -1,0 +1,1 @@
+We construct a holomorphic embedding \phi:\mathbb B^3\rightarrow\mathbb C^3 such that \phi(\mathbb B^3) is not Runge in any strictly larger domain. As a consequence, \mathcal S\neq\mathcal S^1 for n=3.

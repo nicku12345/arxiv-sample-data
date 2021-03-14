@@ -1,0 +1,1 @@
+Algorithms for numerical computation of symmetric elliptic integrals of all three kinds are improved in several ways and extended to complex values of the variables (with some restrictions in the case of the integral of the third kind). Numerical check values, consistency checks, and relations to Legendre's integrals and Bulirsch's integrals are included.

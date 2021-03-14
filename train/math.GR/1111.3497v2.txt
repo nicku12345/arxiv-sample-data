@@ -1,0 +1,1 @@
+We prove that if G is a finite simple group of Lie type and S a subset of G of size at least two then G is a product of at most c\log|G|/\log|S| conjugates of S, where c depends only on the Lie rank of G. This confirms a conjecture of Liebeck, Nikolov and Shalev in the case of families of simple groups of Lie type of bounded rank.

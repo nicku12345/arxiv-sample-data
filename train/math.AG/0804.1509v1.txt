@@ -1,0 +1,1 @@
+This article is a survey of P. Katsylo's proof that the moduli space of smooth projective complex curves of genus 3 is rational. We hope to make the argument more comprehensible and transparent by emphasizing the underlying geometry in the proof and its key structural features.

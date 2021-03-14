@@ -1,0 +1,1 @@
+In this paper we present the Sweedler cohomology for a cocommutative weak Hopf algebra H. We show that the second cohomology group classifies completely the weak crossed products, having a common preunit, of H with a commutative left H-module algebra A.

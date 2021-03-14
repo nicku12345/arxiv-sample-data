@@ -1,0 +1,1 @@
+We show that the automorphism groups of countably categorical linear orders are extremely amenable. Using methods of Kechris, Pestov, and Todorcevic, we use this fact to derive a structural Ramsey theorem for certain families of finite ordered structures with finitely many partial equivalence relations with convex classes.

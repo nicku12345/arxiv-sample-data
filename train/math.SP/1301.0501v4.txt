@@ -1,0 +1,1 @@
+We prove results about the H\"older continuity of the spectral measures of the extended CMV matrix, given power law bounds of the solution of the eigenvalue equation. We thus arrive at a unitary analogue of the results of Damanik, Killip and Lenz about the spectral measure of the discrete Schr\"odinger operator.

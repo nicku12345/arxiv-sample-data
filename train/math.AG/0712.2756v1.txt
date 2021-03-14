@@ -1,0 +1,1 @@
+We prove that if m \ge n-3 then every S_m-invariant F-nef divisor on the moduli space of stable n-pointed curves of genus zero is linearly equivalent to an effective combination of boundary divisors. As an application, we determine the Mori cone of the moduli spaces of stable curves of small genus with few marked points.

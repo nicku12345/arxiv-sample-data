@@ -1,0 +1,1 @@
+For a finite and positive measure space (\Omega,\Sigma,\mu) and any weakly compact convex subset of L\sp\infty(\Omega,\Sigma,mu), a fixed point theorem for a class of nonexpansive self-mappings is proved. An analogous result is obtained for the space C(\Omega). An illustrative example is given.

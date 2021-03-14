@@ -1,0 +1,1 @@
+We consider the evolution of a tight binding wave packet propagating in a time dependent potential. If the potential evolves according to a stationary Markov process, we show that the square amplitude of the wave packet converges, after diffusive rescaling, to a solution of a heat equation.

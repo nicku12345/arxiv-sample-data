@@ -1,0 +1,1 @@
+We describe a sufficient condition for the process of left Kan extension to be a conservative functor. This is useful in the study of graphic Fourier transforms and quantum categories and groupoids.

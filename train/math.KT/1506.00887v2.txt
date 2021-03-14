@@ -1,0 +1,1 @@
+We prove a stronger version of the octahedral axiom in a pre-triangulated category. The proof uses a new lemma about exact sequences in pointed additive categories which is based on a weak converse of the snake lemma.

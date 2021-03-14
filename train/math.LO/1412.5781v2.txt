@@ -1,0 +1,1 @@
+Let U be a monster model and let D be a subset of U. Let (U,D) denote theexpansion of U with a new predicate for D. Write e(D) for the collection of all subsets C of U such that (U,C) is elementary equivalent to (U,D). We prove that if e(D) has finite VC-dimension then D is externally definable (i.e. it is the trace on U of a set definable in an elementary superstructure of U).

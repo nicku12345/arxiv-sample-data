@@ -1,0 +1,1 @@
+In this note, we show that if N is an odd perfect number and q^{\alpha} is some prime power exactly dividing it, then \sigma(N/q^{\alpha})/q^{\alpha}>5. In general, we also show that if \sigma(N/q^{\alpha})/q^{\alpha}<K, where K is any constant, then N is bounded by some function depending on K.

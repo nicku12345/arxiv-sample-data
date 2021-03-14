@@ -1,0 +1,1 @@
+{\bf Abstract.} Let D be a convex body of diameter \delta, where 0 < \delta < \frac{\pi}{2}, on the d-dimensional sphere. We prove that D is of constant diameter \delta if and only if it is of constant width \delta in the following two cases. The first case is when D is smooth. The second case is when d=2.

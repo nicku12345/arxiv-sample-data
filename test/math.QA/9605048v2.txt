@@ -1,0 +1,1 @@
+We discuss how properties of Hecke symmetry (i.e., Hecke type R-matrix) influence the algebraic structure of the corresponding Reflection Equation (RE) algebra. Analogues of the Newton relations and Cayley-Hamilton theorem for the matrix of generators of the RE algebra related to a finite rank even Hecke symmetry are derived.

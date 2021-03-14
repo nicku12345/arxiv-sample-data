@@ -1,0 +1,1 @@
+The classical Koksma Hlawka inequality does not apply to functions with simple discontinuities. Here we state a Koksma Hlawka type inequality which applies to piecewise smooth functions f\chi_{\Omega}, with f smooth and \Omega  a Borel subset of [0,1]^{d}.

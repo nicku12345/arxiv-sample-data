@@ -1,0 +1,1 @@
+We prove that finite groups have the same complex character tables iff the group algebras are twisted forms of each other as Drinfel'd quasi-bialgebras or iff there is non-associative bi-Galois algebra over these groups. The interpretations of class-preserving automorphisms and permutation representations with the same character in terms of Drinfel'd algebras are also given.

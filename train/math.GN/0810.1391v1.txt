@@ -1,0 +1,1 @@
+The dichotomy discovered by Solecki in \cite{Sol} states that any Baire class 1 function is either \sigma-continuous or "includes" the Pawlikowski function P. The aim of this paper is to give an argument which is simpler than the original proof of Solecki and gives a stronger statement: a dichotomy for all Borel functions.

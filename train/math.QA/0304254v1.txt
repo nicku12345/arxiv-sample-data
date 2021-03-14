@@ -1,0 +1,1 @@
+The Yangian of the Lie algebra sl_n is known to have different presentations, in particular the RTT realisation and the Drinfel'd realisation. Using the isomorphism between them, the explicit expressions of the comultiplication, the antipode and the counit in the Drinfel'd realisation of the Yangian Y(sl_n) are given. As examples, the cases of Y(sl_2) and Y(sl_3) are worked out.

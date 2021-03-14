@@ -1,0 +1,1 @@
+We study a class of Markov processes with finite state space and continuous time that have product form stationary distributions. We obtain a number of examples that can generate conjectures for diffusions with inert drift.

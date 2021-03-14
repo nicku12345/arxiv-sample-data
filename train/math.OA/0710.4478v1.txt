@@ -1,0 +1,1 @@
+Given a von Neumann algebra M with a faithful normal semi-finite trace \tau, let L(M, \tau) be the algebra of all \tau-measurable operators affiliated with M. We prove that if A is a locally convex reflexive complete metrizable solid \ast-subalgebra in L(M, \tau), which can be embedded into a locally bounded weak Fr\'{e}chet M-bimodule, then any derivation on A is inner.

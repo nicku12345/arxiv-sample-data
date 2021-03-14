@@ -1,0 +1,1 @@
+Let \pi:E\to M be a vector bundle over a simply connected manifold and \nabla a linear connection in \pi. Let \sigma: U \rightarrow E be a \nabla-parallel section of \pi defined on a connected open subset U of M. We give sufficient conditions on U in order to extend \sigma to the whole M. We mainly concentrate to the case when M is a 2-dimensional simply connected manifold.

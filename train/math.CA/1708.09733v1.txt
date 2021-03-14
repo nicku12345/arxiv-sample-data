@@ -1,0 +1,1 @@
+We study weighted (L^p, L^q)-boundedness properties of Riesz potentials and fractional maximal functions for the Dunkl transform. In particular, we obtain the weighted Hardy-Littlewood-Sobolev type inequality and weighted week (L^1, L^q) estimate. We find a sharp constant in the weighted L^p-inequality, generalizing the results of W. Beckner and S. Samko.

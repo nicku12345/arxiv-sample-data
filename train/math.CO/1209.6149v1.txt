@@ -1,0 +1,1 @@
+If G is a more than one tough graph on n vertices with \delta\ge \frac{n}{2}-a for a given a>0 and n is large enough then G is hamiltonian.

@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring. It is shown that R is Artinian if and only if every R-module is good, if and only if every R-module is representable. As a result, it follows that every nonzero submodule of any representable R-module is representable if and only if R is Artinian. This provides an answer to a question which is investigated in [{\bf 1}].

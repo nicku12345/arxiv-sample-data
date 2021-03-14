@@ -1,0 +1,1 @@
+We describe isomorphism patterns in the p-primary part of the Farrell cohomology ring {\hat{H}}^*(Sp(p-1,Z[1/n]),Z) for any odd prime p and suitable integers 0\neq n\in Z, where Sp(p-1,Z[1/n]) denotes the group of symplectic (p-1)\times (p-1)--matrices. Moreover, we determine the precise p-period of this ring.

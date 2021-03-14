@@ -1,0 +1,1 @@
+The Loewner equation encrypts a growing simple curve in the plane into a real-valued driving function. We show that if the driving function \lambda is in C^{\beta} with \beta>2 (or real analytic) then the Loewner curve is in C^{\beta + \frac{1}{2}} (respectively analytic). This is a converse to a result by Earle and Epstein and extends a result of Wong.

@@ -1,0 +1,1 @@
+We investigate properties of the spherically averaged atomic one-electron density rho~(r). For a rho~ which stems from a physical ground state we prove that rho~ > 0. We also give exponentially decreasing lower bounds to rho~ in the case when the eigenvalue is below the corresponding essential spectrum.

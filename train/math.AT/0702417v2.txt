@@ -1,0 +1,1 @@
+The virtual cohomology of an orbifold is a ring structure on the cohomology of the inertia orbifold whose product is defined via the pull-push formalism and the Euler class of the excess intersection bundle. In this paper we calculate the virtual cohomology of a large family of orbifolds, including the symmetric product.

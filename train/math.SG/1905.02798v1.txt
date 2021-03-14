@@ -1,0 +1,1 @@
+In a previous article, we introduced a reduction procedure for locally conformally symplectic manifolds at any regular value of the momentum mapping. We use this construction to prove an analogue of a well-known theorem in the symplectic setting about the reduction of cotangent bundles.

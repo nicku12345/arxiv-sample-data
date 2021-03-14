@@ -1,0 +1,1 @@
+In the present paper, we introduce a multi-type calculus for the logic of measurable Kleene algebras, for which we prove soundness, completeness, conservativity, cut elimination and subformula property. Our proposal imports ideas and techniques developed in formal linguistics around the notion of structural control.

@@ -1,0 +1,1 @@
+The Poincar\'e polynomial of the complement of an arrangements in a non compact group is a specialization of the G-Tutte polynomial associated with the arrangement. In this article we show two unimodular elliptic arrangements (built up from two graphs) with the same Tutte polynomial, having different Betti numbers.

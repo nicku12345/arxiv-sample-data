@@ -1,0 +1,1 @@
+Sampling theory concerns the problem of reconstruction of functions from the knowledge of their values at some discrete set of points. In this paper we derive an orthogonal sampling theory and associated Lagrange interpolation formulae from a family of bounded rank-one perturbations of a self-adjoint operator that has only discrete spectrum of multiplicity one.

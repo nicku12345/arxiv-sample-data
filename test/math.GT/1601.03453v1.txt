@@ -1,0 +1,1 @@
+A knot K in the 3-sphere is superslice if there is a slice disk D in the 4-ball such that the double of D along K is the unknotted 2-sphere S in S^4. Answering a question of Livingston-Meier, we find smoothly slice (in fact doubly slice) knots in the 3-sphere with Alexander polynomial equal to 1 that are not smoothly superslice.

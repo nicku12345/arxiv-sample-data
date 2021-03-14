@@ -1,0 +1,1 @@
+We extend Pisier's abstract version of Grothendieck's theorem to general non-locally convex quasi-Banach spaces. We also prove a related result on factoring operators through a Banach space and apply our results to the study of vector-valued inequalities for Sidon sets. We also develop the local theory of (non-locally convex) spaces with duals of weak cotype 2.

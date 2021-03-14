@@ -1,0 +1,1 @@
+We prove that if G is an abelian group of odd order then there is an isomorphism from the second quandle homology of the Takasaki quandle of G to the exterior square of G. In particular, for G=Z_k^n, k odd, we obtain Z_k^{n(n-1)/2}. Nontrivial second homology allows us to use 2-cocycles to construct new quandles from T(G), and to construct link invariants.

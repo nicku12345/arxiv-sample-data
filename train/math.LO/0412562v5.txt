@@ -1,0 +1,1 @@
+Mixed logic-systems contain both standard and nonstandard coordinate values. In this paper, it is shown that each of the specifically defined mixed logic-systems generates an internal nonstandard consequence operator.

@@ -1,0 +1,1 @@
+We obtain the estimate of the Lebesgue measure of the spectrum for the direct integral of matrix-valued functions. These estimates are applicable for a wide class of discrete periodic operators. For example: these results give new and sharp spectral bounds for 1D periodic Jacobi matrices and 2D discrete periodic Schrodinger operators.

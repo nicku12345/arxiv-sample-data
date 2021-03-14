@@ -1,0 +1,1 @@
+In the note, two alternative proofs are provided for a monotonicity result that the function \psi(x)+\ln\bigl(e^{1/x}-1\bigr) is strictly increasing on (0,\infty), where \psi(x) is the psi function.

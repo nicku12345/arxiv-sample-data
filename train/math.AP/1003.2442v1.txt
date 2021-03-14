@@ -1,0 +1,1 @@
+We consider a model for haptotaxis with bistable growth and study its singular limit. This yiels an interface motion where the normal velocity of the interface depends on the mean curvature and on some nonlocal haptotaxis term. We prove the result for general initial data after establishing a result about generation of interface in a small time.

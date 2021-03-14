@@ -1,0 +1,1 @@
+The primary goal of this paper is to investigate the structure of irreducible monomorphisms to and irreducible epimorphisms from finitely generated free modules over a noetherian local ring. Then we show that over such a ring, self-vanishing of Ext and Tor for a finitely generated module admitting such an irreducible homomorphism forces the ring to be regular.

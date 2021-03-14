@@ -1,0 +1,1 @@
+It is known that every countable semigroup admits a weight w for which the semigroup algebra l_1(S,w) is Arens regular and no uncountable group admits such a weight; see [4]. In this paper, among other things, we show that for a large class of semigroups, the Arens regularity of the weighted semigroup algebra l_1(S,w) implies the countability of S.

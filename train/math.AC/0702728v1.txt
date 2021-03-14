@@ -1,0 +1,1 @@
+We show that Stanley's conjecture holds for a polynomial ring over a field in four variables. In the case of polynomial ring in five variables, we prove that the monomial ideals with all associated primes of height two, are Stanley ideals.

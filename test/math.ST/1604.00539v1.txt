@@ -1,0 +1,1 @@
+We get the computable error bounds for generalized Cornish-Fisher expansions for quantiles of statistics provided that the computable error bounds for Edgeworth-Chebyshev type expansions for distributions of these statistics are known. The results are illustrated by examples.

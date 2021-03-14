@@ -1,0 +1,1 @@
+We establish some geometrical properties of the space of idempotent probability measures. In particular, for a compact X it is established that if the space I_{3}(X)\backslash X is hereditary normally, then X is metrizable; some subsets allocate of the space of idempotent probability measures which are, respectively, Z-sets, \max-\mbox{plus}-convex subsets, G_\delta-sets.

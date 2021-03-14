@@ -1,0 +1,1 @@
+If for a vector space V of dimension g over a characteristic zero field we denote by \wedge^iV its alternating powers, and by V^\vee its linear dual, then there are natural Poincar\'e isomorphisms: \wedge^i V^\vee \cong \wedge^{g-i} V. We describe an analogous result for objects in rigid pseudo-abelian \mathbb{Q}-linear ACU tensor categories.

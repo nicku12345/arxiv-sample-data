@@ -1,0 +1,1 @@
+We obtain a finite-sum representation for the general solution of the Jacobi second-order difference equation   D(p(n-1)Du(n-1))+q(n)u(n)=l r(n)u(n) in terms of a nonvanishing solution corresponding to some fixed value of the spectral parameter l=l_0. Applications of this representation to some results on the boundedness of solutions are given as well as illustrating examples.

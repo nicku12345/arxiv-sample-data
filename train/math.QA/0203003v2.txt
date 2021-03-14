@@ -1,0 +1,1 @@
+We study a quantum version of the Kazhdan-Lusztig functor. Namely, we prove that there exists a fully faithfull exact tensor functor from the category of finite dimensional representations of the quantum affine algebra Uq(sl(n)) (with extended scalars) to the category of finite dimensional representations of Felder's elliptic quantum group E_{\tau,\gamma2}(gl(n)).

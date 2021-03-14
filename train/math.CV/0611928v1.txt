@@ -1,0 +1,1 @@
+In this paper we study the consequences of overinterpolation, i.e., the situation when a function can be interpolated by polynomial, or rational, or algebraic functions in more points that normally expected. We show that in many cases such a function has specific forms.

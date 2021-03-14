@@ -1,0 +1,1 @@
+It is proved that tight closure commutes with localization in any domain which has a module finite extension in which tight closure is known to commute with localization. It follows that tight closure commutes with localization in binomial rings, in particular in semigroup or toric rings.

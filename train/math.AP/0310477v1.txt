@@ -1,0 +1,1 @@
+In this paper, we deal with a class of semilinear elliptic equation in a bounded domain \Omega\subset\mathbb{R}^N, N\geq 3, with C\sp{1,1} boundary. Using a new fixed point result of the Krasnoselskii's type for the sum of two operators, an existence principle of strong solutions is proved. We give two examples where the nonlinearity can be critical.

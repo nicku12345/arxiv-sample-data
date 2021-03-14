@@ -1,0 +1,1 @@
+In this paper we study the finite element approximation of systems of p(\cdot)-Stokes type, where p(\cdot) is a (non constant) given function of the space variables. We derive --in some cases optimal-- error estimates for finite element approximation of the velocity and of the pressure, in a suitable functional setting.

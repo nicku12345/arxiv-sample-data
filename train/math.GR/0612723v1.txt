@@ -1,0 +1,1 @@
+Let G be a supersolvable group and A be a conjugacy class of G. Observe that for some integer \eta(AA^{-1})>0, AA^{-1}=\{a b^{-1}\mid a,b\in A\} is the union of \eta(AA^{-1}) distinct conjugacy classes of G. Set {\bf C}_G(A)=\{g\in G\mid a^g=a\text{for all} a\in A\}. Then the derived length of G/{\bf C}_G(A) is less or equal than 2\eta(A A^{-1})-1.

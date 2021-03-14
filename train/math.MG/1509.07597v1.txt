@@ -1,0 +1,1 @@
+We present a change of basis that may allow more efficient calculation of the volumes of Birkhoff polytopes using a slicing method. We construct the basis from a special set of square matrices. We explain how to construct this basis easily for any Birkhoff polytope, and give examples of its use. We also discuss possible directions for future work.

@@ -1,0 +1,1 @@
+Let E be a level 1, vector valued Eisenstein series of half-integral weight, normalized so that the coefficients are all in \mathbb{Z}. We show that there is a level one vector valued cusp form f with the same weight as E and with coefficients in \mathbb{Z}, which is congruent to E modulo the constant term of E.

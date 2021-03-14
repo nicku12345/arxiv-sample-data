@@ -1,0 +1,1 @@
+Let C(F) be a matrix Cayley-Dickson algebra over field F. By M_0(F) we denote the loop containing of all elements of algebra C(F) with norm 1. It is shown in this paper that with precision till isomorphism the loops M_0(F)/<-1> they and only they are simple non-associative Moufang loops, where F are subfields of algebraic closed field

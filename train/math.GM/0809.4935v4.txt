@@ -1,0 +1,1 @@
+This paper proves that there does not exist a polynomial-time algorithm to the the subset sum problem. As this problem is in NP, the result implies that the class P of problems admitting polynomial-time algorithms does not equal the class NP of problems admitting nondeterministic polynomial-time algorithms.

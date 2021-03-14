@@ -1,0 +1,1 @@
+In this paper, we show that high-dimensional sparse wavelet signals of finite levels can be constructed from their partial Fourier measurements on a deterministic sampling set with cardinality about a multiple of signal sparsity.

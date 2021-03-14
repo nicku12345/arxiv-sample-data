@@ -1,0 +1,1 @@
+A statistical inference for random coefficient first-order autoregressive model [RCAR(1)] was investigated by P.M. ROBINSON (1978) in which the coefficients varying over individuals. In this paper we attempt to generalize this result to random coefficient autoregressive model of order p [RCAR(p)]. The stationarity condition will derived for this model.

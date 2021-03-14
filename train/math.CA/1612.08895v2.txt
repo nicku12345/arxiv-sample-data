@@ -1,0 +1,1 @@
+We compute the exact Hausdorff and Packing measures of linear Cantor sets which might not be self similar or homogeneous . The calculation is based on the local behavior of the natural probability measure supported on the sets.

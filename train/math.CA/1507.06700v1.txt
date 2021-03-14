@@ -1,0 +1,1 @@
+In this paper we will give a simple stopping time proof in the \mathbb{R}^d setting of the matrix weighted Triebel-Lizorkin bounds proved by F. Nazarov/S. Treil and A. Volberg, respectively. Furthermore, we provide explicit matrix A{}_p characteristic dependence and also discuss some interesting open questions.

@@ -1,0 +1,1 @@
+Following M.Abate and A.Saracco's work on strongly pseudoconvex domains in \mathbb{C}^n, we characterize Carleson measures of A^2(D) in bounded convex domains with smooth boundary of finite type. We also give examples of Carleson measures with uniformly discrete (with respect to the Kobayashi distance) sequences.

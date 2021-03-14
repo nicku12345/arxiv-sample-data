@@ -1,0 +1,1 @@
+We prove the existence of solutions to Monge transport problem between two compactly supported Borel probability measures in the Heisenberg group equipped with its Carnot-Caratheodory distance assuming that the initial measure is absolutely continuous with respect to the Haar measure of the group.

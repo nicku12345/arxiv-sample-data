@@ -1,0 +1,1 @@
+We prove new l'Hopital rules for monotonicity valid on an arbitrary time scale. Both delta and nabla monotonic l'Hopital rules are obtained. As an example of application, we give some new upper and lower bounds for the exponential function of quantum calculus restricted to the q-scale.

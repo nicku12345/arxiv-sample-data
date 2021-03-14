@@ -1,0 +1,1 @@
+We give a correct proof that for all connected spaces X, the functor X |-> A(\Sigma(X)) splits up to homotopy as a product of its Goodwillie derivatives.

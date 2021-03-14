@@ -1,0 +1,1 @@
+In this note, we describe an interpretation of the (continuous) Fourier transform from the perspective of the Chinese Remainder Theorem. Some related issues are discussed.

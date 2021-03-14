@@ -1,0 +1,1 @@
+For a nilpotent Lie algebra L of dimension n and dim(L^2)=m, we find the upper bound dim(M(L))\leq {1/2}(n+m-2)(n-m-1)+1, where M(L) denotes the Schur multiplier of L. In case m=1 the equality holds if and only if L\cong H(1)\oplus A, where A is an abelian Lie algebra of dimension n-3 and H(1) is the Heisenberg algebra of dimension 3.

@@ -1,0 +1,1 @@
+We construct a large class of pathological n-dimensional topological spheres in {\mathbb R}^{n+1} by showing that for any Cantor set C\subset {\mathbb R}^{n+1} there is a topological embedding f:{\mathbb S}^n\to{\mathbb R}^{n+1} of the Sobolev class W^{1,n} whose image contains the Cantor set C.

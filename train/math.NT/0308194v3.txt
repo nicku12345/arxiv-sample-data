@@ -1,0 +1,1 @@
+We give bounds on the number of solutions to the Diophantine equation (X+1/x)(Y+1/y) = n as n tends to infinity. These bounds are related to the number of solutions to congruences of the form ax+by = 1 modulo xy.

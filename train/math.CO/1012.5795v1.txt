@@ -1,0 +1,1 @@
+We prove that every 6-connected graph of girth \geq 6 has a K_6-minor and thus settle the Jorgensen conjecture for graphs of girth  \geq 6. Relaxing the assumption on the girth, we prove that every 6-connected n-vertex graph of size \geq 3 1/5 n-8 and of girth \geq 5 contains a K_6-minor.

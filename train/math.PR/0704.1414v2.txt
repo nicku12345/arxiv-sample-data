@@ -1,0 +1,1 @@
+We prove the existence and uniqueness of the solution of a semilinear PDE's and also PDE's with obstacle under monotonicity condition. Moreover we give the probabilistic interpretation of the Sobolev's solutions in term of Backward SDE and reflected Backward SDE respectively.

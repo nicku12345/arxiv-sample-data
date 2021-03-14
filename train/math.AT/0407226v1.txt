@@ -1,0 +1,1 @@
+We prove a result about the non-existence of certain sums-of-squares formulas over a field. This generalizes an old theorem which used topological K-theory to obtain obstruction conditions when the field is the real numbers. Our result applies to arbitrary fields not of characteristic 2, making use of algebraic K-theory in place of topological K-theory.

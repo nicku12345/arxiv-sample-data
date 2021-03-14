@@ -1,0 +1,1 @@
+We study the quintic Non Linear Schr\"odinger equation on a two dimensional torus and exhibit orbits whose Sobolev norms grow with time. The main point is to reduce to a sufficiently simple toy model, similar in many ways to the one used in the case of the cubic NLS. This requires an accurate combinatorial analysis.

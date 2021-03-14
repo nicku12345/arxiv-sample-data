@@ -1,0 +1,1 @@
+We generalise a result of Hedenmalm to show that if a function f on \mathbb{R} is such that \int_{\mathbb{R}^2} \bigl|f(x) \, \hat f(y)\bigr| \,e^{\lambda \left|xy\right|} \,dx\,dy = O( (1-\lambda)^{-N} ) as \lambda \to 1-, then f is the product of a polynomial and a gaussian.

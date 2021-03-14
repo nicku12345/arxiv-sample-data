@@ -1,0 +1,1 @@
+We prove that every local derivation on a finite-dimensional semisimple Lie algebra over an algebraically closed field of characteristic zero is a derivation. We also give examples of finite-dimensional nilpotent Lie algebras \mathcal{L} with \dim\mathcal{L}\geq 3 which admit local derivations which are not derivations.

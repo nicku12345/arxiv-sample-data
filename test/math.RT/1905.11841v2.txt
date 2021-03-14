@@ -1,0 +1,1 @@
+In his paper \cite{MR1}, Markus Reineke proposed a conjecture that there exists a stable weight system \Theta for every indecomposable representation of Dynkin type quiver. In this paper, we showed this conjecture is true for quivers of A_n-type by combinatorial construction of a special weight system. We also reinterpret this weight system in terms of semi-invariant theory.

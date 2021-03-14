@@ -1,0 +1,1 @@
+Iosevich and Senger (2008) showed that if a subset of the d-dimensional vector space over a finite field is large enough, then it contains many k-tuples of mutually orthogonal vectors. In this note, we provide a graph theoretic proof of this result.

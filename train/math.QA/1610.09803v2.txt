@@ -1,0 +1,1 @@
+We define a quantum analogue of a class of generalized cluster algebras which can be viewed as a generalization of quantum cluster algebras defined in \cite{berzel}. In the case of rank two, we extend some structural results from the classical theory of generalized cluster algebras obtained in \cite{CS}\cite{rupel} to the quantum case.

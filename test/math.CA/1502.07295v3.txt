@@ -1,0 +1,1 @@
+We provide an asymptotic expansion for \sum_{k=1}^n \left\{\sqrt{k}\right\}. In the same spirit, we discuss the case of n-th root and it relation to special values of Riemman's zeta function.

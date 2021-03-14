@@ -1,0 +1,1 @@
+A strongly regular graph is called trivial if it or its complement is a union of disjoint cliques. We prove that every infinite family of nontrivial strongly regular graphs is quasi-random in the sense of Chung, Graham and Wilson.

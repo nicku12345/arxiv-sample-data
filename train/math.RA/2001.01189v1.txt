@@ -1,0 +1,1 @@
+For a Lie algebra \mathfrak g related to a quantum torus, we compute its automorphisms, derivations and universal central extension. This Lie algebra \mathfrak g is isomorphic to a subalgebra of the Lie algebra of derivations over the quantum torus, and moreover contains a subalgebra isomorphic to the centerless higher rank Virasoro algebra.

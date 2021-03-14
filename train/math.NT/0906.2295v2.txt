@@ -1,0 +1,1 @@
+In this paper, we prove the identity \lcm\{\binom{k}{0}, \binom{k}{1}, >..., \binom{k}{k}\} = \frac{\lcm(1, 2, ..., k, k + 1)}{k + 1} (\forall k \in \mathbb{N}) .   As an application, we give an easily proof of the well-known nontrivial lower bound \lcm(1, 2, ..., k) \geq 2^{k - 1} (\forall k \geq 1).

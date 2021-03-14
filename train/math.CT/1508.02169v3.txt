@@ -1,0 +1,1 @@
+For a set-endofunctor F, a graph is triple (V,E,g) with a structure map g:E\rightarrow F V. This model is a generalized coalgebra over the category of sets. In this note, we model graphs as coalgebras over Set\times Set and use the theory of coalgebras over arbitrary categories to conclude properties of the category of graphs.

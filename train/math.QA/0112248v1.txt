@@ -1,0 +1,1 @@
+We briefly report on our result that, if there exists a realization of a Hopf algebra H in a H-module algebra A, then their cross-product is equal to the product of A itself with a subalgebra isomorphic to H and commuting with A. We illustrate its application to the Euclidean quantum groups in N\ge 3 dimensions.

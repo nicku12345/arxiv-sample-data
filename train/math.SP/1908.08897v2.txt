@@ -1,0 +1,1 @@
+We classify all sets of the form \bigcup_{t\in\mathbb{R}}\mathrm{spec}(A+tB) where A and B are self-adjoint operators and B is bounded, non-negative, and non-zero. We show that these sets are exactly the complements of discrete subsets of \mathbb{R}, that is, of at most countable subsets of \mathbb{R} that contain none of their accumulation points.

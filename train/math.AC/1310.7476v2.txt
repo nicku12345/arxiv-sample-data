@@ -1,0 +1,1 @@
+We classify the finite connected simple graphs whose edge rings are strongly Koszul. From the classification, it follows that if the edge ring is strongly Koszul, then its toric ideal possesses a quadratic Gr\"obner basis.

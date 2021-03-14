@@ -1,0 +1,1 @@
+We introduce a definition of pressure for almost-additive sequences of continuous functions defined over (non-compact) countable Markov shifts. The variational principle is proved. Under certain assumptions we prove the existence of Gibbs and equilibrium measures. Applications are given to the study of maximal Lypaunov exponents of product of matrices.

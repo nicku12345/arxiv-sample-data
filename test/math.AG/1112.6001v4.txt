@@ -1,0 +1,1 @@
+We realise Buchweitz and Flenner's semiregularity map (and hence a fortiori Bloch's semiregularity map) as the tangent of a morphism of derived moduli functors. An immediate consequence is that it annihilates all obstructions (not just curvilinear ones) globally. This proves Bloch's semiregularity conjecture and establishes a global reduced obstruction theory.

@@ -1,0 +1,1 @@
+Let \Omega be an internal chord-arc Jordan domain and \varphi:\mathbb S\rightarrow\partial\Omega be a homeomorphism. We show that \varphi has finite dyadic energy if and only if \varphi has a diffeomorphic extension h: \mathbb D\rightarrow \Omega which has finite energy.

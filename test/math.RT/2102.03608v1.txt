@@ -1,0 +1,1 @@
+Let G be a semisimple simply connected complex algebraic group. Let U be the unipotent radical of a Borel subgroup in G. We describe the coordinate rings of U (resp., G/U, G) in terms of two (resp., four, eight) birational charts introduced in [L94, L19] in connection with the study of total positivity.

@@ -1,0 +1,1 @@
+Let G be a finite abelian group, and let S be a sequence over G. Let   f(S) denote the number of elements in G which can be expressed as the sum over a nonempty subsequence of S. In this paper, we determine all the sequences S that contains no zero-sum subsequences and f(S)\leq 2|S|-1.

@@ -1,0 +1,1 @@
+In this paper we study linear and non-linear Fourier-Pad\'e approximation for Angelesco systems of functions. This construction is similar to that of Hermite-Pad\'e approximation. Instead of considering power series expansions of the functions in the system, we take their expansion in a series of orthogonal polynomials.

@@ -1,0 +1,1 @@
+We present a practical implementation of an energy-based atomistic-to-continuum (a/c) coupling scheme without ghost forces, and numerical tests evaluating its accuracy relative to other types of a/c coupling schemes.

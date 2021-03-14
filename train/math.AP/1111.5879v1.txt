@@ -1,0 +1,1 @@
+It is shown that the data to solution map for the hyperelastic rod equation is H\"older continuous from bounded sets of Sobolev spaces with exponent s > 3/2 measured in a weaker Sobolev norm with index r < s in both the periodic and non-periodic cases. The proof is based on energy estimates coupled with a delicate commutator estimate and multiplier estimate.

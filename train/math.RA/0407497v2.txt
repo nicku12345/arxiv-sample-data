@@ -1,0 +1,1 @@
+If R is a triangular 2x2 matrix ring, the columns, P and Q, are projective left R-modules. We describe the universal localization of R which makes invertible an R-module morphism P --> Q, generalizing a theorem of A.Schofield. We also describe the universal localization of R-modules.

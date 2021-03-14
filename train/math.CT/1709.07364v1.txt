@@ -1,0 +1,1 @@
+In this article, the theory of sheaves is studied from a categorical point of view. This perspective vastly generalizes the usual theory of sheaves of sets to a more abstract setting which allows us to investigate the theory of sheaves with values in an arbitrary category.

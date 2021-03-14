@@ -1,0 +1,1 @@
+Let H be a connected reductive group over an algebraically closed field of characteristic zero, and let G be an abstract group. In this note we show that every homomorphism from the Grothendieck semiring of H to that of G which maps irreducible representations to irreducibles, comes from a group homomorphism from G to H. We also connect this result with the Langlands conjectures.

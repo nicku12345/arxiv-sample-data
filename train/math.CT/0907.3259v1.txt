@@ -1,0 +1,1 @@
+We recall the Tannaka construction for certain types of split monoidal functor into Vect_{k}, and remove the compactness restriction on the domain.

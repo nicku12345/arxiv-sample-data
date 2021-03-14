@@ -1,0 +1,1 @@
+A group completion functor Q is constructed in the category of algebras in simplicial sets over a cofibrant E_n-operad M. It is shown that Q defines a Bousfield-Friedander simplicial model category on M-algebras.

@@ -1,0 +1,1 @@
+In this note, we shall prove a formula for the Fourier transform of spherical Bessel functions over complex numbers, viewed as the complex analogue of the classical formulae of Hardy and Weber. The formula has strong representation theoretic motivations in the Waldspurger correspondence over the complex field.

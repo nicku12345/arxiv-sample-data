@@ -1,0 +1,1 @@
+We present a proof of the existence of a periodic orbit for the Newtonian six-body problem with equal masses. This orbit has three double collisions each period and no multiple collisions. Our proof is based on the minimization of the Lagrangian action functional on a well chosen class of symmetric loops.

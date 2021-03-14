@@ -1,0 +1,1 @@
+We study the representation spaces R(K;\bf{i}) as appearing in Kronheimer and Mrowka's framed instanton knot Floer homology, for a class of pretzel knots. In particular, for pretzel knots P(p,q,r) with p, q, r pairwise coprime, these appear to be non-degenerate and comprise representations in SU(2) that are not binary dihedral.

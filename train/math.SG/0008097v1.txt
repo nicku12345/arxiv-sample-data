@@ -1,0 +1,1 @@
+We discuss symplectic manifolds where, locally, the structure is that encountered in Lagrangian dynamics. Exemples and characteristic properties are given. Then, we refer to the computation of the Maslov classes of a Lagrangian submanifold. Finally, we indicate the generalization of this type of structures to Poisson manifolds.

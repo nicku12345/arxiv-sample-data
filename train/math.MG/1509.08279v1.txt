@@ -1,0 +1,1 @@
+In 1929 B.~N.~Delaunay proved that there are exactly 5 types of coincidence of parallelohedra at faces of codimension 3. We give a combinatorial proof of this theorem and prove several additional statements on three-codimensional faces of parallelohedral tiling.   --   The original paper appeared in 2013 in MAIS (see the bibref) and was in Russian. This is the English version.

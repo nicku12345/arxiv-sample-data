@@ -1,0 +1,1 @@
+We consider basic algebraic constructions associated with an abstract pre-operad, such as a \smile-algebra, total composition \bul, pre-coboundary operator \de, tribraces \{\cdot,\cdot,\cdot\} and tetrabraces \{\cdot,\cdot,\cdot,\cdot\}. A derivation deviation of the pre-coboundary operator over the tetrabraces is calculated in terms of the \smile-multiplication and tribraces.

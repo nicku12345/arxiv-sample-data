@@ -1,0 +1,1 @@
+In this paper we prove the global well-posedness for the three-dimensional Euler-Boussinesq system with axisymmetric initial data without swirl. This system couples the Euler equation with a transport-diffusion equation governing the temperature.

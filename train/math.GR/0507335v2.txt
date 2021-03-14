@@ -1,0 +1,1 @@
+Let G be a finite p-group, where p is an odd prime number,   H be a subgroup of G and \theta\in \Irr(H) be an irreducible character of H. Assume also that |G:H|=p^2. Then the character \theta^G of  G induced by \theta is either a multiple of an irreducible character of G, or has at least \frac{p+1}{2} distinct irreducible constituents.

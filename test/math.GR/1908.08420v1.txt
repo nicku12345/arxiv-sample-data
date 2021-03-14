@@ -1,0 +1,1 @@
+Locally compact abelian groups are classified in which the sum of any two closed subgroups is itself closed. This amounts to reproving and extending results by Yu.~N.~Mukhin from 1970. Namely we contribute a complete classification of all totally disconnected \lca\ groups with X+Y closed for any closed subgroups X and Y.

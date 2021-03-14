@@ -1,0 +1,1 @@
+A note that points out the possibility to have p<1 in Sobolev type of inequalities by a use of the momomial structure of polynomials or power series. The proof is simple: Triangle angle inequality p*>1, monomial estimate from p* to exponent p<1, then the inverse triangle inequality.

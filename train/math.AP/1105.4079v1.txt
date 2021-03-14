@@ -1,0 +1,1 @@
+The sharp trace inequality of Jose Escobar is extended to traces for the fractional Laplacian on R^n and a complete characterization of cases of equality is discussed. The proof proceeds via Fourier transform and uses Lieb's sharp form of the Hardy-Littlewood-Sobolev inequality.

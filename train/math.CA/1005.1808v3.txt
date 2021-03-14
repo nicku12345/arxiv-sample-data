@@ -1,0 +1,1 @@
+We consider metrics on Euclidean domains \Omega\subset\R^n that are induced by continuous densities \rho\colon\Omega\rightarrow(0,\infty) and study the Hausdorff and packing dimensions of the boundary of \Omega with respect to these metrics.

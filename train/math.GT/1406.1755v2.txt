@@ -1,0 +1,1 @@
+Let K' be a knot that admits no cosmetic crossing changes and let C be a non-trivial, prime, non-cable knot. Then any knot that is a satellite of C with winding number zero and pattern K' admits no cosmetic crossing changes. As a consequence we prove the nugatory crossing conjecture for Whitehead doubles of prime, non-cable knots.

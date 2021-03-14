@@ -1,0 +1,1 @@
+We find conditions for two piecewise C^{2+\nu} homeomorphisms f and g of the circle to be C^1 conjugate. Besides the restrictions on the combinatorics of the maps (we assume that the maps have bounded combinatorics), and necessary conditions on the one-side derivatives of points where f and g are not differentiable, we also assume zero mean nonlinearity for f and g.

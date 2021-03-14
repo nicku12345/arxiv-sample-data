@@ -1,0 +1,1 @@
+We consider an ultraproduct that is designed to omit a fixed set of unary types \Gamma, called the \Gamma-ultraproduct. The \Gamma-ultraproduct is not always well-behaved, but we discuss several general conditions under which it is and several examples.

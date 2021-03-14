@@ -1,0 +1,1 @@
+In 1994 J. Lewis obtained a purely harmonic proof of the classical Little Picard Theorem by showing that if the joint value distribution of two entire harmonic functions satisfies certain restrictions then they are necessarily constant. We generalize Lewis'theorem and the harmonic Liouville theorem in terms of the range of a harmonic map in the plane.

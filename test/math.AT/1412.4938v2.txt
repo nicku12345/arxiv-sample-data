@@ -1,0 +1,1 @@
+We compute the homotopy type of the space of proper d-dimensional submanifolds of {\mathbb R}^n with a smooth version of the Fell topology. Our methods allow us to compute the homotopy type of the space of submanifolds with summable labels too, and to give a new proof of the Galatius--Randal-Williams theorem on the homotopy type of their space of submanifolds

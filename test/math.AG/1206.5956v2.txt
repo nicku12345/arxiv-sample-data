@@ -1,0 +1,1 @@
+We describe explicitly the cohomology of the total complex of certain diagrams of invertible sheaves on normal toric varieties. These diagrams, called wheels, arise in the study of toric singularities associated to dimer models. Our main tool describes the generators in a family of syzygy modules associated to the wheel in terms of walks in a family of graphs.

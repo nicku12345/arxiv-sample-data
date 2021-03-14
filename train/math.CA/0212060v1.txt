@@ -1,0 +1,1 @@
+We prove that if a function f \in L^p({\Bbb {R}} ^d) has vanishing periodizations then \|f\|_{p'} \lesssim \|f\|_{p}, provided 1 \le p < \frac {2d}{d + 2} and dimension d \ge 3.

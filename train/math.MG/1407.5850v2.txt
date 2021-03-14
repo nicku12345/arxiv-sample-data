@@ -1,0 +1,1 @@
+We prove inequalities relating the absolute value of the determinant of n+1 linearly independent unit vectors in an n+1 dimensional complex vector space and the projective distances from the vertices to the hyperplanes containing the opposite faces of the simplices in complex projective n-space whose vertices or faces are determined by the given vectors.

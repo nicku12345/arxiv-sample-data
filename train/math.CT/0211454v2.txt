@@ -1,0 +1,1 @@
+A rig is a riNg without Negatives. We analyse the free rig on a generator x subject to the equivalence x = 1 + x + x^2, showing that in it the non-constant polynomials form a ring. This ring can be identified with the Gaussian integers, which thus acquire objective meaning.

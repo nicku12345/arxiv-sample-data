@@ -1,0 +1,1 @@
+Examples are given of profinite groups that are not strongly complete, and have other `bad' properties, yet have only finitely many open subgroups of each finite index. It is shown that a profinite group with the latter property must be finite if it has finite exponent. The problem of characterizing strongly complete groups in terms of their power subgroups is discussed.

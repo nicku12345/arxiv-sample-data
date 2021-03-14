@@ -1,0 +1,1 @@
+It is well known that Dold and Milnor manifolds give generators for the unoriented bordism algebra {\frak{N}}_* over {\Bbb{Z}}_2. The purpose of this paper is to determine those Milnor manifolds which represent the same bordism classes in {\frak{N}}_* as their Dold counterparts.

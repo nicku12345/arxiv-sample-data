@@ -1,0 +1,1 @@
+Let \Gamma be a finite simplicial graph such that the flag complex on \Gamma is a 2-dimensional triangulated disk. We show that with some assumptions, the Dehn function of the associated Bestvina--Brady group is either quadratic, cubic, or quartic. Furthermore, we can identify the Dehn function from the defining graph \Gamma.

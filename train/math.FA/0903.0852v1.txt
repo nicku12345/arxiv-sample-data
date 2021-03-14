@@ -1,0 +1,1 @@
+We prove that there exist weakly countably determined spaces of complexity higher than coanalytic. On the other hand, we also show that coanalytic sets can be characterized by the existence of a cofinal adequate family of closed sets. Therefore the Banach spaces constructed by means of these families have at most coanalytic complexity.

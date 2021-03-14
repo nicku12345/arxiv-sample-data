@@ -1,0 +1,1 @@
+We give a light-hearted look at the topic in the title. Most solutions are in semi-boring parametric families, but some are sporadic and come from Thue equations. One amusing example is m = 2, x = (4/5)^128, y = (4/5)^125.

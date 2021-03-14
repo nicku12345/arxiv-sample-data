@@ -1,0 +1,1 @@
+Taking up a suggestion of David Gale from 1956, we generate sets of combinatorially isomorphic polytopes by choosing their Gale diagrams at random. We find that in high dimensions, and under suitable assumptions on the growth of the involved parameters, the obtained polytopes have strong neighborliness properties, with high probability.

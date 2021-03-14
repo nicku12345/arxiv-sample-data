@@ -1,0 +1,1 @@
+We prove a sufficient stochastic maximum principle for the optimal control of a regime-switching diffusion model. We show the connection to dynamic programming and we apply the result to a quadratic loss minimization problem, which can be used to solve a mean-variance portfolio selection problem.

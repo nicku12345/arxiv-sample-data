@@ -1,0 +1,1 @@
+We present an intrinsically defined algebra of operators containing the right and left invariant Calder\'on-Zygmund operators on a stratified group. The operators in our algebra are pseudolocal and bounded on L^p (1<p<\infty). This algebra provides an example of an algebra of singular integrals that falls outside of the classical Calder\'on-Zygmund theory.

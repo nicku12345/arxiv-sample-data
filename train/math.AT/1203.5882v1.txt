@@ -1,0 +1,1 @@
+We prove that if a finite group G has a representation with fixity f, then it acts freely and homologically trivially on a finite CW-complex homotopy equivalent to a product of f+1 spheres. This shows, in particular, that every finite group acts freely and homologically trivially on some finite CW-complex homotopy equivalent to a product of spheres.

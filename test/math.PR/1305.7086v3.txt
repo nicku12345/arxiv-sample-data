@@ -1,0 +1,1 @@
+We prove weak existence of Euler equation (or Navier-Stokes equation) perturbed by a multiplicative noise on bounded domains of \mathbb R^2 with Dirichlet boundary conditions and with periodic boundary conditions. Solutions are H^1 regular. The equations are of transport type.

@@ -1,0 +1,1 @@
+We introduce and study deformations of finite-dimensional modules over rational Cherednik algebras. Our main tool is a generalization of usual harmonic polynomials for Coxeter groups -- the so-called quasiharmonic polynomials. A surprising application of this approach is the construction of canonical elementary symmetric polynomials and their deformations for all Coxeter groups.

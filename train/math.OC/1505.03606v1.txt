@@ -1,0 +1,1 @@
+We suggest a new greedy strategy for convex optimization in Banach spaces and prove its convergent rates under a suitable behavior of the modulus of uniform smoothness of the objective function.

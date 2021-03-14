@@ -1,0 +1,1 @@
+Computing embedded contact homology (ECH) and related invariants of certain toric 3-manifolds (in the sense of Lerman) has led to interesting new results in the study of symplectic embeddings. Here, we give a combinatorial formulation of ECH chain complexes for general toric contact 3-manifolds. As a corollary, we prove Conjecture A.3 from [Hutchings14].

@@ -1,0 +1,1 @@
+For bounded linear operators A,B on a Hilbert space \mathcal{H} we show the validity of the estimate  \sum_{\lambda \in \sigma_d (B)} \dist(\lambda, \overline{\num}(A))^p \leq \| B-A \|_{\mathcal{S}_p}^p and apply it to recover and improve some Lieb-Thirring type inequalities for non-selfadjoint Jacobi and Schr\"odinger operators.

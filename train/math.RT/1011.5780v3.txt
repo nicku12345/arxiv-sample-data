@@ -1,0 +1,1 @@
+We introduce a class of Radon transforms for reductive symmetric spaces, including the horospherical transforms, and study some of their properties. In particular we obtain a support theorem that generalizes Helgason's support theorem for the horospherical transform on a Riemannian symmetric space.

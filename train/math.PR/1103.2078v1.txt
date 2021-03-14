@@ -1,0 +1,1 @@
+By using the Skorohod equation we derive an iteration procedure which allows us to solve a class of reflected backward stochastic differential equations with non-linear resistance induced by the reflected local time. In particular, we present a new method to study the reflected BSDE proposed first by El Karoui et al. \cite{MR1434123}.

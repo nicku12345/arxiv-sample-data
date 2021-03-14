@@ -1,0 +1,1 @@
+We give a general inequality for Bergman kernels of Bergman spaces defined by convex weights in \C^n. We also discuss how this can be used in Nazarov's proof of the Bourgain-Milman theorem, as a substitute for H\"ormander's estimates for the \dbar-equation.

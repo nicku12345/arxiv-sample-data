@@ -1,0 +1,1 @@
+We present a method to prove nonlinear instability of solitary waves in dispersive models. Two examples are analyzed: we prove the nonlinear long time instability of the KdV solitary wave (with respect to periodic transverse perturbations) under a KP-I flow and the transverse nonlinear instability of solitary waves for the cubic nonlinear Schr\"odinger equation.

@@ -1,0 +1,1 @@
+We consider classical Tsirelson-type norms of T[A_r,\theta] and their modified versions on \ell_p spaces. We show that for any 1<p<\infty there is a constant \lambda_p such that considered Tsirelson-type norms do not \lambda_p-distort any of subspaces of \ell_p.

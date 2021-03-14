@@ -1,0 +1,1 @@
+In this paper we show a decomposition of the bifractional Brownian motion with parameters H,K into the sum of a fractional Brownian motion with Hurst parameter HK plus a stochastic process with absolutely continuous trajectories. Some applications of this decomposition are discussed.

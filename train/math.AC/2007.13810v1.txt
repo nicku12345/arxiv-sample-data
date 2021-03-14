@@ -1,0 +1,1 @@
+Suppose R is a \mathbb{Q}-Gorenstein F-finite and F-pure ring of prime characteristic p>0. We show that if I\subseteq R is a compatible ideal (with all p^{-e}-linear maps) then there exists a module finite extension R\to S such that the ideal I is the sum of images of all R-linear maps S\to R.

@@ -1,0 +1,1 @@
+We give a hierarchy of k-point bounds extending the Delsarte-Goethals-Seidel linear programming 2-point bound and the Bachoc-Vallentin semidefinite programming 3-point bound for spherical codes. An optimized implementation of this hierarchy allows us to compute~4, 5, and 6-point bounds for the maximum number of equiangular lines in Euclidean space with a fixed common angle.

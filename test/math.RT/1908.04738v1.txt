@@ -1,0 +1,1 @@
+We prove that algebras are left weakly Gorenstein in case the subcategory ^{\perp}A \cap \Omega^n(A) is representation-finite. This applies in particular to all monomial algebras and endomorphism algebras of modules over representation-finite algebras. We also give a proof of the Auslander-Reiten conjecture for such algebras.

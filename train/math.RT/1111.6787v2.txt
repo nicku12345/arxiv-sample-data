@@ -1,0 +1,1 @@
+Splint of root system for simple Lie algebra appears naturally in studies of (regular) embeddings of reductive subalgebras. Splint can be used to construct branching rules. We demonstrate that splint properties implementation drastically simplify calculations of branching coefficients.

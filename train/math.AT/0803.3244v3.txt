@@ -1,0 +1,1 @@
+In this paper we define complex equivariant K-theory for actions of Lie groupoids using finite-dimensional vector bundles. For a Bredon-compatible Lie groupoid, this defines a periodic cohomology theory on the category of finite equivariant CW-complexes. We also establish an analogue of the completion theorem of Atiyah and Segal. Some examples are discussed.

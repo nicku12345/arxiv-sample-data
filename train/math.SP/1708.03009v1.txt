@@ -1,0 +1,1 @@
+In this paper we prove that the ball is a maximizer of the Schatten p-norm of some convolution type integral operators with non-increasing kernels among all domains of a given measure in \mathbb R^{d}. We also show that the equilateral triangle has the largest Schatten p-norm among all triangles of a given area. Some physical motivations for our results are also presented.

@@ -1,0 +1,1 @@
+We study algebraic fiber spaces f:X \longrightarrow Y where Y is of maximal Albanese dimension. In particular we give an effective version a theorem of Kawamata: If P_m(X)=1 for some m \ge 2, then the Albanese map of X is surjective. Combining this with \cite{CH} it follows that X is birational to an abelian variety if and only if P_2(X)=1 and q(X)= \text{\rm dim} (X).

@@ -1,0 +1,1 @@
+Let F be an algebraically closed field of characteristic p. We fashion an infinite dimensional basic algebra \underleftarrow{\mathcal{C}}_p(F), with a transparent combinatorial structure, which we expect to control the rational representation theory of GL_2(F).

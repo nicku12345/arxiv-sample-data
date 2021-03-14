@@ -1,0 +1,1 @@
+A discussion involving the evaluation of the sum \sum_{0<\gamma\le T} |\zeta(1/2+i\gamma)|^2 is presented, where \gamma denotes imaginary parts of complex zeros of the Riemann zeta-function \zeta(s). Three theorems involving certain integrals related to this sum are proved, and the sum is unconditionally shown to be \ll T\log^2T\log\log T.

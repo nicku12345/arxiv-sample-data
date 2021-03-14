@@ -1,0 +1,1 @@
+Let (C(t))\in\mathbb{R}} be a cosine function in a unital Banach algebra. We give a simple proof of the fact that if lim sup\_{t\to 0}\vert C(t)-1\_A\vert\textless{}2, then lim sup\_{t\to 0}\Vert C(t)-1\_A\Vert=0.

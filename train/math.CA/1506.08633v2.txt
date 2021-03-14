@@ -1,0 +1,1 @@
+Bourgain proved that the maximal operator associated to an analytic vector field is bounded on L^2. In the present paper, we give a geometric proof of Bourgain's result by using the tools developed by Lacey and Li.

@@ -1,0 +1,1 @@
+A concept of "guessability" is defined for sets of sequences of naturals. Eventually, these sets are thoroughly characterized. To do this, a nonstandard logic is developed, a logic containing symbols for the ellipsis as well as for functions without fixed arity. New proofs are given for some seemingly-unrelated known results.

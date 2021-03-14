@@ -1,0 +1,1 @@
+Let R be a commutative ring with1 and R[X] be the polynomial ring over R. We determine the underlying ring R over which the polynomial ring R[X] has the property that all its prime ideals are set theoretic complete intersections.

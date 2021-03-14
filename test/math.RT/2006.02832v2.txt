@@ -1,0 +1,1 @@
+For a finitely generated group G, we construct a representation group of G explicitly. Along the way, we describe the structure of the 2-cocycles of G. We also prove a characterization of monomial projective representations of finitely generated nilpotent groups and a characterization of polycyclic groups whose projective representations are finite dimensional.

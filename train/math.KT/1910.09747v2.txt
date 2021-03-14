@@ -1,0 +1,1 @@
+For every n\geq 1, we calculate the Hochschild homology of the quantum monoids M_q(n), and the quantum groups GL_q(n) and SL_q(n) with coefficients in a 1-dimensional module coming from a modular pair in involution.

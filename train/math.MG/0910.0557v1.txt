@@ -1,0 +1,1 @@
+The concept of separation by hyperplanes is fundamental for convex geometry and its tropical (max-plus) analogue. However, analogous separation results in max-min convex geometry are based on semispaces. This paper answers the question which semispaces are hyperplanes and when it is possible to classically separate by hyperplanes in max-min convex geometry.

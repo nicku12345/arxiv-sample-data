@@ -1,0 +1,1 @@
+We introduce triples of associative algebras as a tool for building solutions to the Yang-Baxter equation. It turns out that the class of R-matrices thus obtained is related to a Hecke-like condition, which is formulated for associative algebras with symmetric cyclic inner product. R-matrices for a subclass of the A_n-type Belavin-Drinfel'd triples are derived in this way.

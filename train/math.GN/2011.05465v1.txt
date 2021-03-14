@@ -1,0 +1,1 @@
+Recently, David S. Lipham has shown that if X is an Erd\H{o}s space factor then the Vietoris hyperspace \mathcal{F}(X) of finite subsets of X is an Erd\H{o}s space factor. In this short note we prove that if \mathfrak{E} denotes Erd\H{o}s space then \mathcal{F}(\mathfrak{E}) is in fact homeomorphic to \mathfrak{E}.

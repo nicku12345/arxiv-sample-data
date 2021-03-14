@@ -1,0 +1,1 @@
+This paper produces a recursive formula of the Betti numbers of certain Stanley-Reisner ideals (graph ideals associated to forests). This gives a purely combinatorial definition of the projective dimension of these ideals, which turns out to be a new numerical invariant of forests. Finally, we propose a possible extension of this invariant to general graphs.

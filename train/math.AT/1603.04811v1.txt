@@ -1,0 +1,1 @@
+We prove that the pth Hecke operator on the Morava E-cohomology of a space is congruent to the Frobenius mod p. This is a generalization of the fact that the pth Adams operation on the complex K-theory of a space is congruent to the Frobenius mod p. The proof implies that the pth Hecke operator may be used to test Rezk's congruence criterion.

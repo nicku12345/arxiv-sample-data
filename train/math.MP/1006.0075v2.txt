@@ -1,0 +1,1 @@
+An explicit realization of the W(2,2) Lie algebra is presented using the famous bosonic and fermionic oscillators in physics, which is then used to construct the q-deformation of this Lie algebra. Furthermore, the quantum group structures on the q-deformation of this Lie algebra are completely determined.

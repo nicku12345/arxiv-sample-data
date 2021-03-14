@@ -1,0 +1,1 @@
+We compute the convex hull in \mathbb{C}^2 of an arbitrary finite subgroup of {\mathbb{C}^*}^2. The combinatorics are dictated by continued fractions in a natural way. This reproves a theorem of Smilansky, with a slightly stronger intermediary step.

@@ -1,0 +1,1 @@
+The Tarski number of a non-amenable group G is the minimal number of pieces in a paradoxical decomposition of G. Until now the only numbers which were known to be Tarski numbers of some groups were 4 and 6. We construct a group with Tarski number 5 and mention a related result for Tarski numbers of group actions.

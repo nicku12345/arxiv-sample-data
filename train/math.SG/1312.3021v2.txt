@@ -1,0 +1,1 @@
+We show that the space of classical Coxeter's frieze patterns can be viewed as a discrete version of a coadjoint orbit of the Virasoro algebra. The canonical (cluster) (pre)symplectic form on the space of frieze patterns is a discretization of the Kirillov symplectic form. We relate a continuous version of frieze patterns to conformal metrics of constant curvature in dimension 2.

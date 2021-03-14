@@ -1,0 +1,1 @@
+We derive a class of ergodic transformations of self-similar Gaussian processes that are Volterra, i.e. of type X_t = int^t_0 z_X(t,s)dW_s, t>0, where z_X is a deterministic kernel and W is a standard Brownian motion.

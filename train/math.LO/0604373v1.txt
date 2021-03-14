@@ -1,0 +1,1 @@
+This addendum to math.LO/0412144 shows that the set of tautological quantum logical propositional formulas for a finite dimensional vector space C^n is different for every n, affirmatively answering a question posed therein.

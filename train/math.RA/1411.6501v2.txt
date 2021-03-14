@@ -1,0 +1,1 @@
+WWe describe the Koszul dual of the operad Quad of quadri-algebras, show the koszularity of Quad and give the formal series of Quad and its dual, which proves a conjecture due to Aguiar and Loday. A notion of quadri-bialgebra is also introduced, with applications to the Hopf algebras FQSym and WQSym.

@@ -1,0 +1,1 @@
+The group of affine transformations with rational coefficients acts naturally on the real line, but also on the p-adic fields. The aim of this note is to show that, for random walks whose laws have a finite first moment, all these actions are necessary and sufficient to describe the Poisson boundary, which is in fact the product of all the fields that contract in mean.

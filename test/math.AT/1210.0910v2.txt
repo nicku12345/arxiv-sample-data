@@ -1,0 +1,1 @@
+We determine the cd-index of the induced subdivision arising from a manifold arrangement. This generalizes earlier results in several directions: (i) One can work with manifolds other than the n-sphere and n-torus, (ii) the induced subdivision is a Whitney stratification, and (iii) the submanifolds in the arrangement are no longer required to be codimension one.

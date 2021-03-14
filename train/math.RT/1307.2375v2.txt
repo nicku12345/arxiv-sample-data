@@ -1,0 +1,1 @@
+Let G be a connected real semi-simple Lie group and H a closed connected subgroup. Let P be a minimal parabolic subgroup of G. It is shown that H has an open orbit on the flag manifold G/P if and only if it has finitely many orbits on G/P. This confirms a conjecture by T. Matsuki.

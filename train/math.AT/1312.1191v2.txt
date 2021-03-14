@@ -1,0 +1,1 @@
+It is shown that a surjective monotone map X\to Y between finite T_0-spaces induces a surjective map on homology. As such a map turns out to be a sequence of edge contractions in the Hasse diagram of X, followed by a homeomorphism, this leads to an explicit relation between the Betti numbers of X to those of Y and the cokernels of the edge contraction maps on the order complexes.

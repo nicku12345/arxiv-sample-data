@@ -1,0 +1,1 @@
+We show that the twisted K-theory of the classifying space of a p-local finite group is isomorphic to the completion of the Grothendieck group of twisted representations of the fusion system with respect to the augmentation ideal of the representation ring of the fusion system. We use this result to compute the K-theory of the Ruiz-Viruel exotic 7-local finite groups.

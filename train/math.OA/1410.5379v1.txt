@@ -1,0 +1,1 @@
+In this paper, we will follow Kirchberg's categorical perspective to establish new notions of WEP and QWEP relative to a C^*-algebra, and develop similar properties as in the classical WEP and QWEP. Also we will show some examples of relative WEP and QWEP to illustrate the relations with the classical cases. Finally we will apply our notions to recent results on C^*-norms.

@@ -1,0 +1,1 @@
+We compute the Euler-Poincar\'e characteristic of quotients of the Bruhat-Tits building of PGL(n) under the action of arithmetic groups arising from central division algebras over rational function fields of positive characteristic. We use this result to determine the structure of the quotient simplicial complex in certain cases.

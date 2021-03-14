@@ -1,0 +1,1 @@
+We introduce the notion of reflections for selfinjective algebras from the point of view of torsion theories induced by two-term tilting complexes. As an application, we determine the transformations of Brauer trees associated with reflections. In particular, we provide a way to transform every Brauer tree into a Brauer line.

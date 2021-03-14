@@ -1,0 +1,1 @@
+We develop a simple theory of Andr\'e-Quillen cohomology for commutative differential graded algebras over a field of characteristic zero. We then relate it to the homotopy groups of function spaces and spaces of homotopy self-equivalences of rational nilpotent CW-complexes. This puts certain results of Sullivan in a more conceptual framework.

@@ -1,0 +1,1 @@
+We construct nontrivial examples of weak-C_p (1\leq p \leq \infty) operator spaces with the local operator space structure very close to C_p = [R, C]_{\frac{1}{p}}. These examples are non-homogeneous Hilbertian operator spaces, and their constructions are similar to that of 2-convexified Tsirelson's space by W. B. Johnson.

@@ -1,0 +1,1 @@
+We give an alternative computation of the twisted second moment of critival values of class group L-functions attached to an imaginary quadratic field. The method avoids long calculations and yields the expected polynomial growth in the s-parameter for the remaining term.

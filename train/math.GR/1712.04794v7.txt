@@ -1,0 +1,1 @@
+We show that in the category of groups, every singly-generated class which is closed under isomorphisms, direct limits and extensions is also singly-generated under isomorphisms and direct limits, and in particular is co-reflective. We also establish several new relations between singly-generated closed classes.

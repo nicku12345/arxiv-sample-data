@@ -1,0 +1,1 @@
+For cohomology theories closely related to Morava E-theory, we provide an algebro-geometric interpretation of the cohomology of groups that arise as centralizers of tuples of commuting elements inside of symmetric groups. The interpretation is given in terms of the connected components of the scheme that classifies subgroup schemes of a particular p-divisible group.

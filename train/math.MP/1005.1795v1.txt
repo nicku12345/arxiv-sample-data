@@ -1,0 +1,1 @@
+The aim of these notes is to show how the magnetic calculus developed in \cite{MP, IMP1, IMP2, MPR, LMR} permits to give a new information on the nature of the coefficients of the expansion of the trace of a function of the magnetic Schr\"odinger operator whose existence was established in \cite{HR2}.

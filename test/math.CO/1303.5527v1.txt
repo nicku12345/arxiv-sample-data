@@ -1,0 +1,1 @@
+Let G be a simple r-regular graph with n vertices and m vertices. We give the signless Laplacian characteristic polynomials of xyz-transformations G^{xyz} of G in terms of n, m, r and the signless Laplacian spectrum of G.

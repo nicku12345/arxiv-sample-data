@@ -1,0 +1,1 @@
+We suggest a simple definition for categorification of modules over rings and illustrate it by categorifying integral Specht modules over the symmetric group and its Hecke algebra via the action of translation functors on some subcategories of category \mathcal{O} for the Lie algebra \mathfrak{sl}_n(\mathbb{C}).

@@ -1,0 +1,1 @@
+The quantum disc is used to define a noncommutative analogue of a dense coordinate chart and of left-invariant vector fields on quantum SU(2). This yields two twisted Dirac operators for different twists that are related by a gauge transformation and have bounded twisted commutators with a suitable algebra of differentiable functions on quantum SU(2).

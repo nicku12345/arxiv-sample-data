@@ -1,0 +1,1 @@
+We compute the completion of the Verlinde algebra of a simply connected simple compact Lie group G at the augmentation ideal of the representation ring. By results of Freed, Hopkins, Teleman and C.Dwyer and Lahtinen, this gives a computation of (non-equivariant) twisted K-theory of the free loop space of BG.

@@ -1,0 +1,1 @@
+The method of parameter variation for linear differential equations is extended to classes of second order nonlinear differential equations. This allows to reduce the latter to first order differential equations. Known classical equations such as the Bernoulli, Riccati and Abel equations are recovered in illustrated relevant examples.

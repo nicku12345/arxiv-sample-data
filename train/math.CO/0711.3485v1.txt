@@ -1,0 +1,1 @@
+We extend the classical stability theorem of Erdos and Simonovits in two directions: first, we allow the order of the forbidden graph to grow as log of order of the host graph, and second, our extremal condition is on the spectral radius of the host graph.

@@ -1,0 +1,1 @@
+We prove the generic injectivity of the Prym map, sending a double covering of an elliptic curve ramified at r>4 points to its polarized Prym variety. For r=6 the map is birational.

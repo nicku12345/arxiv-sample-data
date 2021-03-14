@@ -1,0 +1,1 @@
+We prove that the functor \Hat{P} of Radon probability measures transforms any open map between completely metrizable spaces into a soft map. This result is applied to establish some properties of Milyutin maps between completely metrizable spaces.

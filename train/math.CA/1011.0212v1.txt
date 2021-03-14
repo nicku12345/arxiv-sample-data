@@ -1,0 +1,1 @@
+For a Radon measure \mu on \bbR, we show that L^{\infty}(\mu) is invariant under the group of translation operators T_t(f)(x) = {f(x-t)}\ (t \in \bbR) if and only if \mu is equivalent to Lebesgue measure m. We also give necessary and sufficient conditions for L^p(\mu),\1 \leq p < \infty, to be invariant under the group \{T_t\} in terms of the Radon-Nikodym derivative w.r.t. m.

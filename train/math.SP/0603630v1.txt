@@ -1,0 +1,1 @@
+We prove that the first eigenvalue of the Dirichlet Laplacian for a triangle in the plane is bounded above by \pi^2 L^2\over 9A^2, where L is the perimeter and A is the area of this triangle. We show that the \mbox{constant 9} is optimal and that the optimal constant for the lower bound of the same form is 16. This gives a positive answer to a conjecture made by P. Freitas.

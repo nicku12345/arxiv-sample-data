@@ -1,0 +1,1 @@
+Given a CR manifold D, we shall show that existence of a CR local frame of a certain CR bundle over D is equivalent to the local imbeddability of D. This will imply that there exists a CR vector bundle which doesn't have CR local frames. Using this bundle, we shall construct CR line bundles over 3-dimensional non-imbeddable CR manifolds which don't have CR local frames.

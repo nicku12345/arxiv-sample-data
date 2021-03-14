@@ -1,0 +1,1 @@
+We give a construction to obtain canonically an ``isotropic average'' of given C^1-close isotropic submanifolds of a symplectic manifold. To do so we use an improvement of Weinstein's submanifold averaging theorem (obtained in collaboration with H. Karcher) and apply ``Moser's trick''. We also present an application to Hamiltonian group actions.

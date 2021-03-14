@@ -1,0 +1,1 @@
+We define the notion of sheaf in the context of doctrines. We prove the associate sheaf functor theorem. We show that grothendieck toposes and toposes obtained by the tripos to topos construction are instances of categories of sheaves for a suitable doctrine.

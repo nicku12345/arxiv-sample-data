@@ -1,0 +1,1 @@
+S.G.Krein's conjecture concerning Birkhoff-regularity of dissipative differential operators has been proved in the even order case. As a byproduct an existence of the limit of characteristic matrix as in the lower half-plane has been established. Up to multiplication by a nonvanishing matrix this limit coincides with the ratio of the matrices of regularity determinants.

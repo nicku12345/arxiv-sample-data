@@ -1,0 +1,1 @@
+We construct an independent increments Gaussian process associated to a class of multicolor urn models. The construction uses random variables from the urn model which are different from the random variables for which central limit theorems are available in the two color case.

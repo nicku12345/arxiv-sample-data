@@ -1,0 +1,1 @@
+In this paper we present a new algorithm to calculate the set of Arf numerical semigroups with given conductor. Moreover, we extend the previous problem to the class of good semigroups, presenting procedures to compute the set of the Arf good semigroups of \mathbb{N}^r with a fixed conductor \textbf{c} \in \mathbb{N}^r, for all r \in \mathbb{N}.

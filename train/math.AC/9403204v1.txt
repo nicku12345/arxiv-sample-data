@@ -1,0 +1,1 @@
+Let \u_{1\times n}, \X_{n\times n}, and \v_{n\times 1} be matrices of indeterminates, \Adj \X be the classical adjoint of \X, and H(n) be the ideal I_1(\u\X)+I_1(\X\v)+I_1(\v\u-\Adj \X). Vasconcelos has conjectured that H(n) is a perfect Gorenstein ideal of grade 2n. In this paper, we obtain the minimal free resolution of H(n); and thereby establish Vasconcelos' conjecture.

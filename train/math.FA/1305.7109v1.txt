@@ -1,0 +1,1 @@
+In this paper we consider a complete connected noncompact Riemannian manifold M with bounded geometry and spectral gap. We prove that the imaginary powers of the Laplacian and the Riesz transform are bounded from the Hardy space X^1(M), introduced in previous work of the authors, to L^1(M).

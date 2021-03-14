@@ -1,0 +1,1 @@
+In [Decompositions and statistics for \beta(1,0)-trees and nonseparable permutations, Advances Appl. Math. 42 (2009) 313--328] we introduced an involution, h, on \beta(1,0)-trees. We neglected, however, to prove that h indeed is an involution. In this note we provide the missing proof. We also refine an equidistribution result given in the same paper.

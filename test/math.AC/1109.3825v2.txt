@@ -1,0 +1,1 @@
+We give an analogue in positive characteristic of the description of the non-nef locus from \cite{ELMNP}. In this case, the role of the asymptotic multiplier ideals is played by the asymptotic test ideals. The key ingredient is provided by a uniform global generation statement involving twists by such ideals.

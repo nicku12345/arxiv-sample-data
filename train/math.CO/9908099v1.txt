@@ -1,0 +1,1 @@
+An introduction is given to the Littlewood-Richardson rule, and various combinatorial constructions related to it. We present a proof based on tableau switching, dual equivalence, and coplactic operations. We conclude with a section relating these fairly modern techniques to earlier work on the Littlewood-Richardson rule.

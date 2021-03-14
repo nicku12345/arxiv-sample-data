@@ -1,0 +1,1 @@
+We introduce the modular class of a Poisson map. We look at several examples and we use the modular classes of Poisson maps to study the behavior of the modular class of a Poisson manifold under different kinds of reduction. We also discuss their symplectic groupoid version, which lives in groupoid cohomology.

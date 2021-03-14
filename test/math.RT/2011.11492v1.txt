@@ -1,0 +1,1 @@
+We prove uniqueness of the essential order for stratified algebras having simple preserving duality, generalizing a recent result of Coulembier for quasi-hereditary algebras. We apply this to classify, up to equivalence, regular integral blocks of \mathcal{S}-subcategories in the BGG category \mathcal{O}. We also describe various homological invariants of these blocks.

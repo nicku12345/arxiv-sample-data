@@ -1,0 +1,1 @@
+To any directed graph we associate an algebra with edges of the graph as generators and with relations defined by all pairs of directed paths with the same origin and terminus. Such algebras are related to factorizations of polynomials over noncommutative algebras. We also construct a basis for our algebras associated to layered graphs.

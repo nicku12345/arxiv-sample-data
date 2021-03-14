@@ -1,0 +1,1 @@
+Let U(g) denote the universal enveloping algebra of a Lie algebra g. We show the existence of a ribbon algebra in a particular deformation of U(g) which leads to a symmetric pre-monoidal category of U(g)-modules.

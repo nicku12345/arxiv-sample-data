@@ -1,0 +1,1 @@
+Given a sequence of automorphisms of the polydisk, we show that the associated composition semigroup homomorphisms on the ball of bounded holomorphic functions on the polydisk admit a universal inner function if a certain condition on the automorphisms are satisfied.

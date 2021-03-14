@@ -1,0 +1,1 @@
+Let X be a complex projective bundle. We prove that X admits an endomorphism of degree >1 and commuting with the projection to the base, if and only if X trivializes after a finite covering. When X is the projectivization of a vector bundle E of rank 2, we prove that it has an endomorphism of degree >1 on a general fiber only if E splits after a finite base change.

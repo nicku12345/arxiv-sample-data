@@ -1,0 +1,1 @@
+In this paper we refine a version of bivariant K-theory developed by Cuntz to define symmetric spectra representing the KK-theory of C^\ast-categories and discrete groupoid C^\ast-algebras. In both cases, the Kasparov product can be expressed as a smash product of spectra.

@@ -1,0 +1,1 @@
+A class of singular 3D-velocity vector fields is constructed which satisfy the incompressible 3D-Euler equation. It is shown that such a solution scheme does not exist in dimension 2. The solutions constructed are bounded and smooth up to finite time where they become singular. Although the solution is smooth and bounded there seems to be no bound in L2 of the velocity field.

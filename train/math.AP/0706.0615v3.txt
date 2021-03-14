@@ -1,0 +1,1 @@
+We consider asymptotic behavior of the following fourth order equation \[ \Delta^2 u= \rho \frac{e^{u}}{\int_\Om e^{u} dx} {in} \Om, u= \partial_\nu u=0 {on} \partial \Omega \] where \Om is a smooth oriented bounded domain in \R^4. Assuming that 0<\rho \leq C, we completely characterize the asymptotic behavior of the unbounded solutions.

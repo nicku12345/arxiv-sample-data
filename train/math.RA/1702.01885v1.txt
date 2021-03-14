@@ -1,0 +1,1 @@
+Let R be a finite ring. The commuting probability of R is the probability that any two randomly chosen elements of R commute. In this paper, we obtain some bounds for commuting probability of R.

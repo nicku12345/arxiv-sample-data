@@ -1,0 +1,1 @@
+We propose a method for determining which integers can be written as a sum of two integral squares for quadratic fields \Q(\sqrt{\pm p}), where p is a prime.

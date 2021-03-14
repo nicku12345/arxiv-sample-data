@@ -1,0 +1,1 @@
+We investigate the behavior of finitely generated projective modules over a down-up algebra. Specifically, we show that every noetherian down-up algebra A(\alpha,\beta,\gamma) has a non-free, stably free right ideal. Further, we compute the stable rank of these algebras using Stafford's Stable Range Theorem and Kmax dimension.

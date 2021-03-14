@@ -1,0 +1,1 @@
+This paper presents a conforming finite element semi-discretization of the streamfunction form of the one-layer unsteady quasi-geostrophic equations, which are a commonly used model for large-scale wind-driven ocean circulation. We derive optimal error estimates and present numerical results.

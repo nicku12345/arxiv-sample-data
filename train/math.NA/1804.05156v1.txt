@@ -1,0 +1,1 @@
+We discuss how to implement the linear finite element method for solving the Poisson equation. We begin with the data structure to represent the triangulation and boundary conditions, introduce the sparse matrix, and then discuss the assembling process. We pay special attention to an efficient programming style using sparse matrices in MATLAB.

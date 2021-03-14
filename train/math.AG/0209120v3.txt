@@ -1,0 +1,1 @@
+We generalise a method of Xiao Gang to construct 'prototypes' of fibred surfaces with maximal irregularity without being a product. This enables us, in the case of fibre genus g=3 to describe the possible singular fibres and to calculate the invariants of these surfaces. We also prove structure theorems on the moduli space for fibred surfaces with fibre genus g=2 and g=3.

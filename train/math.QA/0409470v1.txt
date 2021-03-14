@@ -1,0 +1,1 @@
+We propose a stochastic extension of deformation quantization on a Hilbert space. The Moyal product is defined in this context on the space of functionals belonging to all of the Sobolev spaces of the Malliavin calculus.

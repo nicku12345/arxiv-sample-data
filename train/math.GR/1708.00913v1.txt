@@ -1,0 +1,1 @@
+Oshima's Lemma describes the orbits of parabolic subgroups of irreducible finite Weyl groups on crystallographic root systems. This note generalises that result to all root systems of finite Coxeter groups, and provides a self contained proof, independent of the representation theory of semisimple complex Lie algebras.

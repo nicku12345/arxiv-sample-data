@@ -1,0 +1,1 @@
+Recent work on generic free resolutions of length 3 attaches to every resolution a graph and suggests that resolutions whose associated graph is a Dynkin diagram are distinguished. We conjecture that in a regular local ring, every grade 3 perfect ideal whose minimal free resolution is distinguished in this way is in the linkage class of a complete intersection.

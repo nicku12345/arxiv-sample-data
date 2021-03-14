@@ -1,0 +1,1 @@
+In this paper, we study the kth upper bases of primitive non-powerful signed digraphs. A bound on the kth upper bases of all primitive non-powerful signed digraphs is obtained, and the equality case of the bound is characterized. We also show that there exists "gap" in the kth upper base set of primitive non-powerful signed digraphs.

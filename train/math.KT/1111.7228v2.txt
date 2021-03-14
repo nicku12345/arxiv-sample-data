@@ -1,0 +1,1 @@
+In this mostly expository note, we revisit the K\"unneth theorem in K-theory of nonnuclear C*-algebras. We show that, using examples considered by Skandalis, there are algebras satisfying the K\"unneth theorem for the minimal tensor product but not for the maximal tensor product and vice versa.

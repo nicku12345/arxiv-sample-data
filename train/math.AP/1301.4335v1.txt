@@ -1,0 +1,1 @@
+In this paper, we consider an optimal bilinear control problem for the nonlinear Schr\"{o}dinger equations with singular potentials. We show well-posedness of the problem and existence of an optimal control. In addition, the first order optimality system is rigorously derived. Our results generalize the ones in \cite{Sp} in several aspects.

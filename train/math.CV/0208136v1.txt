@@ -1,0 +1,1 @@
+We prove the following result. Let f be a continuous function in the closed infinite strip in complex plane. Suppose the restriction of f to every circle inscribed in the strip extends holomorphically inside the circle. Then f is holomorphic in the open strip.

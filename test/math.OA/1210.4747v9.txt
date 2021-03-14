@@ -1,0 +1,1 @@
+It is proved that for all but a finite set of the square-free integers d the value of transcendental function \exp~(2\pi i ~x+\log\log y) is an algebraic number for the algebraic arguments x and y lying in a real quadratic field of discriminant d. Such a value generates the Hilbert class field of the imaginary quadratic field of discriminant -d.

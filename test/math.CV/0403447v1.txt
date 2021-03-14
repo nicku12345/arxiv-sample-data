@@ -1,0 +1,1 @@
+We consider the inverse problem of the recovery of the gauge field in R^2 modulo gauge transformations from the non-abelian Radon transform.A global uniqueness theorem is proven for the case when the gauge field has a compact support.

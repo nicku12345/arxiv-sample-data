@@ -1,0 +1,1 @@
+We prove that weak solutions of a slightly supercritical quasi-geostrophic equation become smooth for large time. We prove it using a De Giorgi type argument using ideas from a recent paper by Caffarelli and Vasseur.

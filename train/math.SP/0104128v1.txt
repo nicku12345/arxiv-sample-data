@@ -1,0 +1,1 @@
+We formulate and prove an analog of the Hopf Index Theorem for Riemannian foliations. We compute the basic Euler characteristic of a closed Riemannian manifold as a sum of indices of a non-degenerate basic vector field at critical leaf closures. The primary tool used to establish this result is an adaptation to foliations of the Witten deformation method.

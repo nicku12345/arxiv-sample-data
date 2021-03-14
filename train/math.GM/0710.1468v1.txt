@@ -1,0 +1,1 @@
+We state a general formula for the number of binomial coefficients n choose k that are divided by a fixed power of a prime p, i.e., the number of binomial coefficients divided by p^j and not divided by p^{j+1}.

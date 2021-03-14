@@ -1,0 +1,1 @@
+The main result this paper states that if F: T \times I \to T is a homotopy on torus then the one-parameter Lefschetz class L(F) of F is given by L(F) = \pm N(F)\alpha, where N(F) is the one-parameter Nielsen number of F and \alpha is one of the two generators in H_{1}(\pi_{1}(T),\mathbb{Z}).

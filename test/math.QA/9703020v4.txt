@@ -1,0 +1,1 @@
+By generalizing the Reshetikhin and Semenov-Tian-Shansky construction to supersymmetric cases, we obtain Drinfeld current realization for quantum affine superalgebra U_q[gl(m|n)^{(1)}]. We find a simple coproduct for the quantum current generators and establish the Hopf algebra structure of this super current algebra.

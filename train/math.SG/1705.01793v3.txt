@@ -1,0 +1,1 @@
+Given a compact oriented surface, we classify log Poisson bi-vectors whose degeneracy loci are locally modeled by a finite set of lines in the plane intersecting at a point. Further, we compute the Poisson cohomology of such structures and discuss the relationship between our classification and the second Poisson cohomology.

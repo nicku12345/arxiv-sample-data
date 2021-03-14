@@ -1,0 +1,1 @@
+We prove that every functor defined on dg categories, which is derived Morita invariant, localizing, and A^1-homotopy invariant, satisfies the fundamental theorem. As an application, we recover in a unified and conceptual way, Weibel and Kassel's fundamental theorems in homotopy algebraic K-theory, and periodic cyclic homology, respectively.

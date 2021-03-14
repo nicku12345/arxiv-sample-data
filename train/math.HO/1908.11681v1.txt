@@ -1,0 +1,1 @@
+We introduce a concept called refinement and develop two different ways of refining metrics. By applying these methods we produce several refinements of the shortest-path distance on the collaboration graph and hence a couple new versions of the Erd\H{o}s number.

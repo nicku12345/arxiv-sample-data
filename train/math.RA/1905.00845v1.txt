@@ -1,0 +1,1 @@
+This article deals with a Leibniz superalgebras L=L_0\oplus L_1, whose even part is a simple Lie algebra \mathfrak{sl}_2. We describe all such Leibniz superalgebras when odd part is an irreducible Leibniz bi-module on \mathfrak{sl}_2 . We show that there exist such Leibniz superalgebras with nontrivial odd part only in case of dim L_1=2.

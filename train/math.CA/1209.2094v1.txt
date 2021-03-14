@@ -1,0 +1,1 @@
+We define a symmetric derivative on an arbitrary nonempty closed subset of the real numbers and derive some of its properties. It is shown that real-valued functions defined on time scales that are neither delta nor nabla differentiable can be symmetric differentiable.

@@ -1,0 +1,1 @@
+In the present paper we consider the fluctuations of the free energy in the random energy model (REM) on a moderate deviation scale. We find that for high temperatures the normal approximation holds only in a narrow range of scalings away from the CLT. For scalings of higher order, probabilities of moderate deviations decay faster than exponentially.

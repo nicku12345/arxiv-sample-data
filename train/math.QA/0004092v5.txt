@@ -1,0 +1,1 @@
+It is shown that when q is a primitive root of unity of order not equal to 2 mod 4, A(SL_q(2)) is a free module of finite rank over the coordinate ring of the classical group SL(2). An explicit set of generators is provided.

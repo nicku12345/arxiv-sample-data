@@ -1,0 +1,1 @@
+We introduce an equivalence relation on the space W^{1,1}(\Omega;{\mathbb S}^1) which classifies maps according to their "topological singularities". We establish sharp bounds for the distances (in the usual sense and in the Hausdorff sense) between the equivalence classes. Similar questions are examined for the space W^{1,p}(\Omega;{\mathbb S}^1) when p>1.

@@ -1,0 +1,1 @@
+Let (X,d,\mu) be a space of homogeneous type and E a UMD Banach space. Under the assumption mu({x})=0 for all x in X, we prove a representation theorem for singular integral operators on (X,d,mu) as a series of simple shifts and rearrangements plus two paraproducts. This gives a T(1) Theorem in this setting.

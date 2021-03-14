@@ -1,0 +1,1 @@
+Within the framework of the theory of the column and row determinants, we obtain explicit representation formulas (analogs of Cramer's rule) for the minimum norm least squares solutions of quaternion matrix equations {\bf A} {\bf X} = {\bf B},  {\bf X} {\bf A} = {\bf B} and {\bf A} {\bf X} {\bf B} = {\bf D} .

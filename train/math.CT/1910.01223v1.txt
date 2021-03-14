@@ -1,0 +1,1 @@
+We prove a bicategorical analogue of Quillen's Theorem A. As an application, we deduce the well-known result that a pseudofunctor is a biequivalence if and only if it is essentially surjective on objects, essentially full on 1-cells, and fully faithful on 2-cells.

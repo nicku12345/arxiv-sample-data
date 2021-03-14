@@ -1,0 +1,1 @@
+These notes provide an introduction to the theory of localization for triangulated categories. Localization is a machinery to formally invert morphisms in a category. We explain this formalism in some detail and we show how it is applied to triangulated categories.

@@ -1,0 +1,1 @@
+Let M be a connected real-analytic hypersurface in \C^N and \S the unit real sphere in \C^{N'}, N'> N\geq 2. Assume that M does not contain any complex-analytic hypersurface of \C^N and that there exists at least one strongly pseudoconvex point on M. We show that any CR map f\colon M\to \S of class C^{N'-N+1} extends holomorphically to a neighborhood of M in \C^N.

@@ -1,0 +1,1 @@
+Time scales are a model of time, where the continuous and the discrete time cases are considered and merged into the same framework. In this paper some basic definitions of the time scale calculus are presented. Simultaneously, a package in Mathematica is introduced.

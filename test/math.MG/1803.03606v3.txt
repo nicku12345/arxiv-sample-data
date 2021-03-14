@@ -1,0 +1,1 @@
+Johnson and Lindenstrauss proved that any Lipschitz mapping from an n-point subset of a metric space into Hilbert space can be extended to the whole space, while increasing the Lipschitz constant by a factor of O(\sqrt{\log n}). We present a simplification of their argument that avoids dimension reduction and the Kirszbraun theorem.

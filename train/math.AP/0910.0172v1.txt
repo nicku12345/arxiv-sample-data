@@ -1,0 +1,1 @@
+We prove that the weakly damped nonlinear Schr\"odinger flow in L^2(\mathbb{R}) provides a dynamical system which possesses a global attractor. The proof relies on the continuity of the Schr\"odinger flow for the weak topology in L^2(\R).

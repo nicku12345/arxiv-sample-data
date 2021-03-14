@@ -1,0 +1,1 @@
+In a recent paper I defined a new basis for the Grothendieck group of unipotent representations of an almost simple Chevalley group over a finite field. The definition for classical types was different from that for exceptional types. In this paper we reconcile the two definitions.

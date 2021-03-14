@@ -1,0 +1,1 @@
+We study the domination of the lattice Hardy--Littlewood maximal operator by sparse operators in the setting of general Banach lattices. We prove that the admissible exponents of the dominating sparse operator are determined by the q-convexity of the Banach lattice.

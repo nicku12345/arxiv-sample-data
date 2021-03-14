@@ -1,0 +1,1 @@
+We give upper and lower bounds for the number of solutions of the equation p(z)\log|z|+q(z)=0 with polynomials p and q.

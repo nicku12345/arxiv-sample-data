@@ -1,0 +1,1 @@
+In this paper we generalize Wiener's characterization of continuous measures to compact homogenous manifolds. In particular, we give necessary and sufficient conditions on probability measures on compact semisimple Lie groups and nilmanifolds to be continuous. The methods use only simple properties of heat kernels.

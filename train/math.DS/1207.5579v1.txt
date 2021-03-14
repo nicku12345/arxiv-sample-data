@@ -1,0 +1,1 @@
+We derive a series summation formula for the average logarithm norm of the action of a matrix on the projective space. This formula is shown to be useful to evaluate some Lyapunov exponents of random \SL-matrix cocycles, which include a special class for which H. Furstenberg had provided an explicit integral formula.

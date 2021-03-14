@@ -1,0 +1,1 @@
+Local cohomology modules, even over a Noetherian ring R, are typically unwieldly. As such, it is of interest whether or not they have finitely many associated primes. We prove the affirmative in the case where R is a Stanley-Reisner ring over a field, whose associated simplicial complex is a T-space.

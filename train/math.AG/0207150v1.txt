@@ -1,0 +1,1 @@
+We prove that every projective variety of dimension n over a field of positive characteristic admits a morphism to projective n-space, etale away from the hyperplane H at infinity, which maps a chosen divisor into H and a chosen smooth point not on the divisor to some point not in H.

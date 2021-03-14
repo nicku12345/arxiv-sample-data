@@ -1,0 +1,1 @@
+In this paper we prove Lehmer's conjecture on Ramanujan's tau function, namely tau(n) not equal to zero for n >= 1 by investigating the additive group structure attached to tau(n) with the aid of the pigeonhole principle and unique factorization theorem.

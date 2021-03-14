@@ -1,0 +1,1 @@
+Let G be a finite group and let S be a G-set. The Burnside ring of G has a natural structure of a lambda-ring. However, a priori the images of S under the lambda-operations can only be computed implicitly. In this paper we establish an explicit formula, expressing these images as linear combinations of classes of G-sets.

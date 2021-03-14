@@ -1,0 +1,1 @@
+Every semidirect product of groups K\rtimes H has size \left | K \right | \cdot \left | H\right |, yet the size of such a group's automorphism group varies with the chosen action of H on K. This paper will explore groups of the form \text{Aut}(K\rtimes H), considering especially the case where H and K are cyclic. Only finite groups will be considered.

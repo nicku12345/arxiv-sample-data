@@ -1,0 +1,1 @@
+In this paper we continue to study Belavin-Drinfeld cohomology introduced in arXiv:1303.4046 [math.QA] and related to the classification of quantum groups whose quasi-classical limit is a given simple complex Lie algebra. Here we compute Belavin-Drinfeld cohomology for all non-skewsymmetric r-matrices from the Belavin-Drinfeld list for simple Lie algebras of type B, C, and D.

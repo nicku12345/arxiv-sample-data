@@ -1,0 +1,1 @@
+In a semiprime ring, von Neumann regular elements are determined by their inner inverses. In particular, for elements a,b of a von Neumann regular ring R, a=b if and only if I(a)=I(b), where I(x) denotes the set of inner inverses of x\in R. We also prove that, in a semiprime ring, the same is true for reflexive inverses.

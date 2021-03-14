@@ -1,0 +1,1 @@
+The pencil of conics featuring three degenerate conics each of which is a line-pair is briefly inspected in a Galois field of characteristic two. It is shown that if two degenerates are conjugate imaginary line pairs, the third must be a real line pair; this contradicts Campbell's claim (Campbell 1927) that all the three singular conics are conjugate imaginary line pairs.

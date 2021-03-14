@@ -1,0 +1,1 @@
+We use Cayley-Dickson algebras to produce Hopf elements eta, nu and sigma in the motivic stable homotopy groups of spheres, and we prove via geometric arguments that the the products eta*nu and nu*sigma both vanish. Along the way we develop several basic facts about the motivic stable homotopy ring.

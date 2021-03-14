@@ -1,0 +1,1 @@
+The speed v(\beta) of a \beta-biased random walk on a Galton-Watson tree without leaves is increasing for \beta \geq 717.

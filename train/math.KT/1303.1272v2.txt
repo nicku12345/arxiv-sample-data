@@ -1,0 +1,1 @@
+We present an elementary construction of the non-connective algebraic K-theory spectrum associated to an additive category following the contracted functor approach due to Bass. It comes with a universal property that easily allows us to identify it with other constructions, for instance with the one of Pedersen-Weibel in terms of Z^i-graded objects and bounded homomorphisms.

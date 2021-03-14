@@ -1,0 +1,1 @@
+We define a notion of a weak canonical base for a partial type. This notion is weaker than the usual canonical base for an amalgamation base. We prove that certain family of partial types have a weak canonical base. This family clearly contains the class of amalgamation bases.

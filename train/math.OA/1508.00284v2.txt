@@ -1,0 +1,1 @@
+We prove that if E and F are large ideals of B(G) for which the associated coaction functors are exact, then the same is true for the intersection of E and F. We also give an example of a coaction functor whose restriction to the maximal coactions does not come from any large ideal.

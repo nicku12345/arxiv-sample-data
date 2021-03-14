@@ -1,0 +1,1 @@
+We prove that, for every compact Kaehler manifold, the period map of its Kuranishi family is induced by a natural L-infinity morphism. This implies, by standard facts about L-infinity algebras, that the period map is a "morphism of deformation theories" and then commutes with all deformation theoretic constructions (e.g. obstructions).

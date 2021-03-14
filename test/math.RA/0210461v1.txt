@@ -1,0 +1,1 @@
+Let k be a field, and H a Hopf algebra with bijective antipode. If H is commutative, noetherian, semisimple and cosemisimple, then the category {}_{H}{\mathcal {YD}}^H of Yetter-Drinfeld modules is semisimple. We also prove a similar statement for the category of Long dimodules, without the assumption that H is commutative.

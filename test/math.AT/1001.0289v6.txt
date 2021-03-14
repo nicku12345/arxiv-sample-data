@@ -1,0 +1,1 @@
+We introduce an elementary way of constructing principal (Z_2)^m-bundles over compact smooth manifolds. In addition, we will define a general notion of locally standard (Z_2)^m-actions on closed manifolds for all m>0, and then give a general way to construct all such (Z_2)^m-actions from the orbit space. Some related topology problems are also studied.

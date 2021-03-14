@@ -1,0 +1,1 @@
+We characterise functions for the dual spaces of entire functions f such that fe^{-\phi}\in L^p(\C^n,\rho^{-2}dA), 0<p\leq 1, where \phi is a subharmonic weight and \rho^{-2} is a positive function called under certain conditions regularised version of Laplacian \Delta\phi, as described in \cite{C}.

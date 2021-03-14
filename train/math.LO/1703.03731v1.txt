@@ -1,0 +1,1 @@
+This note contains additions to the paper 'Clustered cell decomposition in P-minimal structures' (arXiv:1612.02683). We discuss a question which was raised in that paper, on the order of clustered cells. We also consider a notion of cells of minimal order, which is a slight optimalisation of the theorem from the original paper.

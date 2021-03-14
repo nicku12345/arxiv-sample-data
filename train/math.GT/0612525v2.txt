@@ -1,0 +1,1 @@
+We determine the non-null homologous knots in lens spaces whose exteriors contain properly embedded once-punctured tori. All such knots arise as surgeries on the Whitehead link and are grid number 1 in their lens spaces. As a corollary, we classify once-punctured torus bundles that admit a lens space filling.

@@ -1,0 +1,1 @@
+A semigroup variety V is said to be locally K-finite, where K stands for any of Green's relations H, R, L, D, or J, if every finitely generated semigroup from V has only finitely many K-classes. We characterize locally K-finite varieties of finite axiomatic rank in the language of "forbidden objects".

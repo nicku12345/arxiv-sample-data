@@ -1,0 +1,1 @@
+We construct a simple closed-form representation of degree-ordered system of bivariate Chebyshev-I orthogonal polynomials \mathscr{T}_{n,r}(u,v,w) on simplicial domains. We show that these polynomials \mathscr{T}_{n,r}(u,v,w), r=0,1,\dots,n; n\geq 0 form an orthogonal system with respect to the Chebyshev-I weight function.

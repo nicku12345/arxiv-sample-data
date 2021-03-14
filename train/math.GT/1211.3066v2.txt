@@ -1,0 +1,1 @@
+We show that for any nontrivial knot in S^3, there is an open interval containing zero such that a Dehn surgery on any slope in this interval yields a 3-manifold with taut foliations. This generalizes a theorem of Gabai on zero frame surgery.

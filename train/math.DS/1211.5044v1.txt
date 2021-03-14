@@ -1,0 +1,1 @@
+We prove that if an area-preserving homeomorphism of the torus in the homotopy class of the identity has a rotation set which is a nondegenerate vertical segment containing the origin, then there exists an essential invariant annulus. In particular, some lift to the universal covering has uniformly bounded displacement in the horizontal direction.

@@ -1,0 +1,1 @@
+We show here a "weak" H\"older-regularity up to the boundary of the solution to the Dirichlet problem for the complex Monge-Amp\`{e}re equation with data in the L^p space and the boundary of the domain satisfying an f-property. The f-property is a potential-theoretical condition which holds for all pseudoconvex domains of finite type and many examples of infinite type.

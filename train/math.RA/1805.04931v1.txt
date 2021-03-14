@@ -1,0 +1,1 @@
+We consider the category of comodules over a smash coproduct coalgebra C\smashco H. We show that there is a Grothendieck spectral sequence connecting the derived functors of the Hom functors coming from C\smashco H-colinear, H-colinear and rational C-colinear morphisms. We give several applications and connect our results to existing spectral sequences in the literature.

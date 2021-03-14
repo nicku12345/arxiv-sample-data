@@ -1,0 +1,1 @@
+The inequality of Vapnik and Chervonenkis controls the expectation of the function by its sample average uniformly over a VC-major class of functions taking into account the size of the expectation. Using Talagrand's kernel method we prove a similar result for the classes of functions for which Dudley's uniform entropy integral or bracketing entropy integral is finite.

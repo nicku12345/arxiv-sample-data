@@ -1,0 +1,1 @@
+These lectures centered around the Kempf-Ness theorem, which describes the equivalence between notions of quotient in symplectic and algebraic geometry. The text also describes connections to invariant theory, such existence of invariants in tensor products of simple GL(r)-modules, and Teleman's improved version of quantization commutes with reduction.

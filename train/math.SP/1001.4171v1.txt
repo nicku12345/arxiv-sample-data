@@ -1,0 +1,1 @@
+The purpose of this note is to revisit the proof of the Gearhardt-Pr\"uss-Hwang-Greiner theorem for a semigroup S(t), following the general idea of the proofs that we have seen in the literature and to get an explicit estimate on the norm of S(t) in terms of bounds on the resolvent of the generator.

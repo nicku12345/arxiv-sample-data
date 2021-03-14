@@ -1,0 +1,1 @@
+We present a bijection between 321- and 132-avoiding permutations that preserves the number of fixed points and the number of excedances. This gives a simple combinatorial proof of recent results of Robertson, Saracino and Zeilberger, and the first author. We also show that our bijection preserves additional statistics, which extends the previous results.

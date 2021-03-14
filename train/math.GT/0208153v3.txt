@@ -1,0 +1,1 @@
+We prove that any arc-presentation of the unknot admits a monotonic simplification by elementary moves; this yields a simple algorithm for recognizing the unknot. We obtain similar results for split links and composite links.

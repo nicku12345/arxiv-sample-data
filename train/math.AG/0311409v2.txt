@@ -1,0 +1,1 @@
+This is a write-up of my talk at the Conference on algebraic structures in Montreal, July 2003. I try to give a brief informal introduction to the proof of Y. Ruan's conjecture on orbifold cohomology multiplication for symplectic quotient singularities given in V. Ginzburg and D. Kaledin, math.AG/0212279. Version 2: minor changes, added some references.

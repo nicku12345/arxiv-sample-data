@@ -1,0 +1,1 @@
+We relate the category of sheaves on alcoves that was constructed in "Sheaves on the alcoves and modular representations I" to the representation theory of reductive algebraic groups. In particular, we show that its indecomposable projective objects encode the simple rational characters of a reductive algebraic group in all characteristics above the Coxeter number.

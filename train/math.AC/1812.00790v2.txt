@@ -1,0 +1,1 @@
+We describe a Macaulay2 package for computing Schur complexes. This package expands on the ChainComplexOperations package by David Eisenbud.

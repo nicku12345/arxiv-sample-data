@@ -1,0 +1,1 @@
+We show that given a poset P and and a subposet Q, the integer points obtained by restricting linear extensions of P to Q can be explained via integer lattice points of a generalized permutohedron.

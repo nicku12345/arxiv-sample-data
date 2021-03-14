@@ -1,0 +1,1 @@
+Given a right triangle and two inscribed squares, we show that the reciprocals of the hypotenuse and the sides of the squares satisfy an interesting Pythagorean equality. This gives new ways to obtain rational(integer)right triangles from a given one.

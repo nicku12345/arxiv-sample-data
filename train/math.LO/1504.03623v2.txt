@@ -1,0 +1,1 @@
+We exhibit a family of computably enumerable sets which can be learned within polynomial resource bounds given access only to a teacher, but which requires exponential resources to be learned given access only to a membership oracle. In general, we compare the families that can be learned with and without teachers and oracles for four measures of efficient learning.

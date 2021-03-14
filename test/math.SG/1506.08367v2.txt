@@ -1,0 +1,1 @@
+In this article we apply the technique of Luttinger surgery to study the complexity of the fundamental group of symplectic 4-manifolds with holomorphic Euler number \chi_h=1. We discuss the topology of symplectic 4-manifolds with b^+=1 and provide various constructions of symplectic 4-manifolds with b^+=1 and prescribed c_1^2.

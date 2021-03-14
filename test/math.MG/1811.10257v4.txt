@@ -1,0 +1,1 @@
+The classic Voronoi cells can be generalized to a higher-order version by considering the cells of points for which a given k-element subset of the set of sites consists of the k closest sites. We study the structure of the k-order Voronoi cells and illustrate our theoretical findings with a case study of two-dimensional higher-order Voronoi cells for four points.

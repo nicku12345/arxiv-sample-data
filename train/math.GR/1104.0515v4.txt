@@ -1,0 +1,1 @@
+Coset diagrams have been used to study quotients, orbits, subgroups and structure of the finitely generated groups. In this paper we use coset diagrams and modular arithmetic to determine the G-orbits of \QQ^*(\sqrt{p^k}), \QQ^*(\sqrt{2p^k}), \QQ^*(\sqrt{2^2p^k}), and in general \QQ^*(\sqrt{2^lp^k}), for each l\geq3 and k=2h+1\geq3, for each odd prime p.

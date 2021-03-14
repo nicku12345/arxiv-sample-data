@@ -1,0 +1,1 @@
+We show that the unit ball of a full Hilbert C^*-module is sequentially compact in a certain weak topology if and only if the underlying C^*-algebra is finite dimensional. This provides an answer to the question posed in J. Chmieli\'nski et al [Perturbation of the Wigner equation in inner product C^*-modules, J. Math. Phys. 49 (2008), no. 3, 033519; arXiv:0801.2726].

@@ -1,0 +1,1 @@
+Several recent papers investigated unbounded versions of order and norm convergences in Banach lattices. In this paper, we study the unbounded variant of weak convergence and its relationship with other convergences. In particular, we characterize order continuous Banach lattices and reflexive Banach lattices in terms of this convergence.

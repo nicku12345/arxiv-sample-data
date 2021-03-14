@@ -1,0 +1,1 @@
+We solve the difference equation with linear coefficients by the Momentenansatz to obtain explicit formulas for orthogonal polynomials.

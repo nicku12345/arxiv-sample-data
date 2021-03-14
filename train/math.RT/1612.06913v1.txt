@@ -1,0 +1,1 @@
+The set of supercharacter theories of a fixed group G forms a natural lattice. An open question in the study of supercharacter theories is to classify this lattice, and to date, this has only been done for the cyclic groups \mathbb{Z}_n. In this paper, we classify the supercharacter theory lattice of the dihedral groups D_{2n} in terms of their cyclic subgroups of rotations.

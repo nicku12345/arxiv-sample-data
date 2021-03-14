@@ -1,0 +1,1 @@
+In this paper we prove that the fifth order equation arising from the KdV hierarchy  \partial_tu + \partial_x^5u + c_1\partial_x u\partial_x^2u + c_2u\partial_x^3u = 0  is locally well-posed in  H^s(\mathbb{R})  for  s> 5/2. Also, we prove the solution map of the equation is not uniformly continuous for s>0.

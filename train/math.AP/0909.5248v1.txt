@@ -1,0 +1,1 @@
+We consider second-order divergence form uniformly parabolic and elliptic PDEs with bounded and VMO_{x} leading coefficients and possibly linearly growing lower-order coefficients. We look for solutions which are summable to the pth power with respect to the usual Lebesgue measure along with their first derivatives with respect to the spatial variables.

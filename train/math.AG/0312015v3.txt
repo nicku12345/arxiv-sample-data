@@ -1,0 +1,1 @@
+Let X be a smooth projective variety. We study a relationship between the derived category of X and that of a canonical divisor. As an application, we will study Fourier-Mukai transforms when \kappa (X)=dim X-1.

@@ -1,0 +1,1 @@
+For each clone C on a set A there is an associated equivalence relation analogous to Green's R-relation, which relates two operations on A iff each one is a substitution instance of the other using operations from C. We study the clones for which there are only finitely many relative R-classes.

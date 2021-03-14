@@ -1,0 +1,1 @@
+Let T be the attractor of injective contractions f_1,...,f_m on R^2 that satisfy the Open Set Condition. If T is connected, \partial T is arcwise connected. In particular, the boundary of the Levy dragon is arcwise connected.

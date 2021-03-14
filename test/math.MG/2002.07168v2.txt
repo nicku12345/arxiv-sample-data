@@ -1,0 +1,1 @@
+A disc packing in the plane is compact if its contact graph is a triangulation. There are 9 values of r such that a compact packing by discs of radii 1 and r exists. We prove, for each of these 9 values, that the maximal density over all the packings by discs of radii 1 and r is reached for a compact packing (we give it as well as its density).

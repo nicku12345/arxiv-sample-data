@@ -1,0 +1,1 @@
+We compute the reduced Gr\"{o}bner basis of the toric ideal with respect to a suitable monomial order and we study the Hilbert series of the vertex cover algebra A(G), where G is an unmixed bipartite graph without isolated vertices.

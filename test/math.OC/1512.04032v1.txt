@@ -1,0 +1,1 @@
+A new version of Farkas lemma of alternative linear systems is proposed. One and the same matrix A and vector b have always been used in alternative linear systems. The paper shows a different way of alternative systems involving application of different matrices with various dimensions, which can be advantageous from computational point of view.

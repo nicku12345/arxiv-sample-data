@@ -1,0 +1,1 @@
+Let (V,W;F) be a weakly reducible, unstabilized, genus three Heegaard splitting in an orientable, irreducible 3-manifold M. In this article, we prove that either the disk complex D(F) is contractible or F is critical. Hence, the topological index of F is two if F is topologically minimal.

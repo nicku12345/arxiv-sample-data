@@ -1,0 +1,1 @@
+Given a closed contact 3-manifold with a compatible Riemannian metric, we show that if the sectional curvature is 1/4-pinched, then the contact structure is universally tight. This result improves the Contact Sphere Theorem in [EKM12], where a 4/9-pinching constant was imposed. Some tightness results on positively curved contact open 3-manifold are also discussed.

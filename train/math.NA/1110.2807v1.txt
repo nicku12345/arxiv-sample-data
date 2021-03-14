@@ -1,0 +1,1 @@
+We describe a new method to map the requested error tolerance on an H-matrix approximation to the block error tolerances. Numerical experiments show that the method produces more efficient approximations than the standard method for kernels having singularity order greater than one, often by factors of 1.5 to 5 and at a lower computational cost.

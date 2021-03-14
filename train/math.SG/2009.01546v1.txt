@@ -1,0 +1,1 @@
+Suppose you have a nonorientable Lagrangian surface L in a symplectic 4-manifold. How far can you deform the symplectic form before the smooth isotopy class of L contains no Lagrangians? I solve this question for a particular Lagrangian Klein bottle. I also discuss some related conjectures.

@@ -1,0 +1,1 @@
+A simple proof is given for the convexity of log det (I+K X^{-1}) in the positive definite matrix variable X with a given positive semidefinite K.

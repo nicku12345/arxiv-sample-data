@@ -1,0 +1,1 @@
+We study some measures which are related to the notion of the \e-complexity. We prove that measure of \e-complexity defined on the base of the notion of \e-separability is equivalent to the dual measure that is defined through \e-nets.   Keywords: Complexity, Separability, Bernoulli measure

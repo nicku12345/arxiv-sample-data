@@ -1,0 +1,1 @@
+We provide elementary proofs of the Nielsen-Schreier Theorem and the Kurosh Subgroup Theorem via wreath products. Our proofs are diagrammatic in nature and work simultaneously in the abstract and profinite categories. A new proof that open subgroups of quasifree profinite groups are quasifree is also given.

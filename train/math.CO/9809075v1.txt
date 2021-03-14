@@ -1,0 +1,1 @@
+Given k\ge 3 heaps of tokens. The moves of the 2-player game introduced here are to either take a positive number of tokens from at most k-1 heaps, or to remove the {\sl same} positive number of tokens from all the k heaps. We analyse this extension of Wythoff's game and provide a polynomial-time strategy for it.

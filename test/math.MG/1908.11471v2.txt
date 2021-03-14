@@ -1,0 +1,1 @@
+We further develop the relationship between \beta-numbers and discrete curvatures to provide a new proof that under weak density assumptions, finiteness of the pointwise discrete curvature \operatorname{curv}^{\alpha}_{\mu;2}(x,r) at \mu- a.e. x \in \mathbb{R}^{m} implies that \mu is C^{1,\alpha} n-rectifiable.

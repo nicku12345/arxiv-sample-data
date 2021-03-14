@@ -1,0 +1,1 @@
+We study geometric properties of Krylov projection methods for large and sparse linear Hamiltonian systems. We consider in particular energy preservation. We discuss the connection to structure preserving model reduction. We illustrate the performance of the methods by applying them to Hamiltonian PDEs.

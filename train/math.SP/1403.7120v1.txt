@@ -1,0 +1,1 @@
+A new technique for approximating eigenvalues and eigenvectors of a self-adjoint operator is presented. The method does not incur spectral pollution, uses trial spaces from the form domain, has a self-adjoint algorithm, and exhibits superconvergence.

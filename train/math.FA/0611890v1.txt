@@ -1,0 +1,1 @@
+We construct a uniformly bounded orthonormal almost greedy basis for L_p([0,1]), 1<p<\infty. The example shows that it is not possible to extend Orlicz's theorem, stating that there are no uniformly bounded orthonormal unconditional bases for L_p([0,1]), p\not=2, to the class of almost greedy bases.

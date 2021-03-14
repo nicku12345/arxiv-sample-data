@@ -1,0 +1,1 @@
+For any free partially commutative monoid M(E,I), we compute the global dimension of the category of M(E,I)-objects in an Abelian category with exact coproducts. As a corollary, we generalize Hilbert's Syzygy Theorem to polynomial rings in partially commuting variables.

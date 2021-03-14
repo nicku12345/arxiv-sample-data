@@ -1,0 +1,1 @@
+The goal of the paper is to apply the general operator theoretic construction known as the Schur complement for computation of the spectrum of certain infinite graphs which can be viewed as finite graphs with the ray attached to them. The examples of a multiple star and a flower with infinite rays are considered.

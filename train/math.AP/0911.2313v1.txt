@@ -1,0 +1,1 @@
+We show that the L^p boundedness, p>2, of the Riesz transform on a complete non-compact Riemannian manifold with upper and lower Gaussian heat kernel estimates is equivalent to a certain form of Sobolev inequality. We also characterize in such terms the heat kernel gradient upper estimate on manifolds with polynomial growth.

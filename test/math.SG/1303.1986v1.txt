@@ -1,0 +1,1 @@
+In 2001, Khovanov and Seidel constructed a faithful action of the (m+1)-strand braid group on the derived category of left modules over a quiver algebra, A_m. We interpret the Hochschild homology of the Khovanov-Seidel braid invariant as a direct summand of the sutured Khovanov homology of the annular braid closure.

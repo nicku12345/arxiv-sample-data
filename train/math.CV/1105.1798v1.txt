@@ -1,0 +1,1 @@
+We show that weighted Bergman projections, corresponding to weights of the form M(z)(1-|z|^2)^{\alpha} where \alpha>-1 and M(z) is a radially symmetric, strictly positive and at least C^2 function on the unit disc, are L^p regular.

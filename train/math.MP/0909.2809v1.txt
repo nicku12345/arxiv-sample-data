@@ -1,0 +1,1 @@
+We review a recent result on Rieffel's deformation quantization by actions of R^d: it is shown that for every state omega_0 of the undeformed C*-algebra A_0 there is a continuous section of states omega(hbar) through omega_0. We outline the physical interpretation in terms of quantization.

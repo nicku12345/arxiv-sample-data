@@ -1,0 +1,1 @@
+We explain the concept of p-values presupposing only rudimentary probability theory. We also use the occasion to introduce the notion of p-function, so that p-values are values of a p-function. The explanation is restricted to the discrete case with no outcomes of zero probability. We are going to address the general case elsewhere.

@@ -1,0 +1,1 @@
+We prove in a uniform way that all ultradifferentiable function classes of Roumieu- and of Beurling-type defined in terms of a weight matrix admit a convenient setting if the matrix satisfies some mild regularity conditions. We prove that these categories are cartesian closed and as special cases one obtains the classes defined by a weight sequence and by a weight function.

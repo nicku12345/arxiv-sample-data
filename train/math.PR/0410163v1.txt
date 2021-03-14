@@ -1,0 +1,1 @@
+We study the homogenization property of systems of quasi-linear PDEs of parabolic type with periodic coefficients, highly oscillating drift and highly oscillating nonlinear term. To this end, we propose a probabilistic approach based on the theory of forward-backward stochastic differential equations and introduce the new concept of ``auxiliary SDEs.''

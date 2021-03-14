@@ -1,0 +1,1 @@
+In this paper we completely characterize all possible pairs of Jordan canonical forms for mutually annihilating nilpotent pairs, i.e. pairs (A,B) of nilpotent matrices such that AB=BA=0.

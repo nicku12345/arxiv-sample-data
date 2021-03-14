@@ -1,0 +1,1 @@
+We compute the arithmetic ranks of the defining ideals of homogeneous coordinate rings of certain Segre products arising from elliptic curves. The cohomological dimension of these ideals varies with the characteristic of the field, though the arithmetic rank does not. We also study the related set-theoretic Cohen-Macaulay property for these ideals.

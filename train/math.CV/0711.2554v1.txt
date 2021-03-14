@@ -1,0 +1,1 @@
+In the present paper, we estimate the convergence rate in the Janashia-Lagvilava spectral factorization algorithm (see Studia Mathematica, 137, 1999, 93-100) under the restriction on a spectral density matrix that its inverse is integrable.

@@ -1,0 +1,1 @@
+For a p-group of order p^n, it is known that the order of 2-nilpotent multiplier is equal to |\mathcal{M}^{(2)}(G)|=p^{\f12n(n-1)(n-2)+3-s_2(G)} for an integer s_2(G). In this article, we characterize all of non abelian p-groups satisfying in s_2(G)\in\{1,2,3\}.

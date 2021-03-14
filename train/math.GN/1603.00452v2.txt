@@ -1,0 +1,1 @@
+We introduce the notion of spaces with weak relative cohomology and show the acyclicity of the complement Q\setminus X in the Hilbert cube Q of a compactum X with weak relative cohomology. As a corollary we obtain the acyclicity of the complement results when   (a) X is weakly infinite dimensional;   (b) X has finite cohomological dimension.

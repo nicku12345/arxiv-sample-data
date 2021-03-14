@@ -1,0 +1,1 @@
+We consider Sinai's random walk in random environment. We prove that the logarithm of the local time is a good estimator of the random potential associated to the random environment. We give a constructive method allowing us to built the random environment from a single trajectory of the random walk.

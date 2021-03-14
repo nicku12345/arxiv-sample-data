@@ -1,0 +1,1 @@
+Let H(X) be the generalized Heisenberg group induced by a normed space X. We prove that X is a relatively minimal subgroup of H(X). We show that the group G:=H(L_4[0,1]) is reflexively representable but weakly continuous unitary representations of G in Hilbert spaces do not separate points of G. This answers a question of A. Shtern.

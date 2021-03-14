@@ -1,0 +1,1 @@
+Let X be a locally finite preordered set, \mathcal R a commutative ring with identity and I(X,\mathcal R) the incidence algebra of X over \mathcal R. In this note we prove that each Lie derivation of I(X,\mathcal R) is proper, provided that \mathcal R is 2-torsion free.

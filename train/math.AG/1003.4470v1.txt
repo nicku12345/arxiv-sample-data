@@ -1,0 +1,1 @@
+We use the language of multiplier ideals in order to relate the syzygies of an abelian variety in a suitable embedding with the local positivity of the line bundle inducing that embedding. This extends to higher syzygies a result of Hwang and To on projective normality.

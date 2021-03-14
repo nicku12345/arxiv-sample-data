@@ -1,0 +1,1 @@
+We consider intrinsic square functions defined using (log-)Dini continuous test functions on spaces of homogeneous type. We prove weighted estimates with optimal (at least in the Euclidean case) dependence on the aperture of the cone used to define the square function and linear dependence on the (log-)Dini modulus of continuity.

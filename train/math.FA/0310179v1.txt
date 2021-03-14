@@ -1,0 +1,1 @@
+We give a counterexample to a conjecture of S.E. Morris by showing that there is a compact plane set X such that R(X) has no non-zero, bounded point derivations but such that R(X) is not weakly amenable. We also give an example of a separable uniform algebra A such that every maximal ideal of A has a bounded approximate identity but such that A is not weakly amenable.

@@ -1,0 +1,1 @@
+Finding a computationally efficient algorithm for the inverse continuous wavelet transform is a fundamental topic in applications. In this paper, we show the convergence of the inverse wavelet transform.

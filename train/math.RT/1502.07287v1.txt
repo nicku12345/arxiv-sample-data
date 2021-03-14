@@ -1,0 +1,1 @@
+In this paper we prove that every irreducible representation of a Leibniz algebra can be obtained from irreducible representations of the semisimple Lie algebra from the Levi decomposition. We also prove that - in general - for (semi)simple Leibniz algebras it is not true that a representation can be decomposed to a direct sum of irreducible components.

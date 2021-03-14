@@ -1,0 +1,1 @@
+Weiyi Zhang noticed recently a gap in the proof of the main theorem of the authors article "Tamed to compatible: Symplectic forms via moduli space integration" [T] for the case when the symplectic 4-manifold in question has first Betti number 2 (and necessarily self-dual second Betti number 1). This note explains how to fill this gap.

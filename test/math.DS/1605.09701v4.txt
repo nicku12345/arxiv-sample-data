@@ -1,0 +1,1 @@
+In this paper, we have considered a uniform probability distribution supported by a stretched Sierpi\'nski triangle. For this probability measure, the optimal sets of n-means and the nth quantization errors are determined for all n\geq 2. In addition, it is shown that the quantization coefficient for such a measure does not exist though the quantization dimension exists.

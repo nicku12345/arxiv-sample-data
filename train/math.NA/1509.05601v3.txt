@@ -1,0 +1,1 @@
+In this short article, some properties of matrices of moving least-squares approximation have been proven.The used technique is based on singular-value decomposition and inequalities for singular-values. Some inequalities for the norm of coefficients-vector of the linear approximation have been proven.

@@ -1,0 +1,1 @@
+We prove a generalization of Gromov's symplectic non-squeezing theorem for the case of Hilbert spaces. Our approach is based on filling almost complex Hilbert spaces by complex discs partially extending Gromov's results on existence of J-complex curves. We apply our result to the flow of the discrete nonlinear Schr\"odinger equation.

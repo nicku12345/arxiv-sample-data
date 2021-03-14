@@ -1,0 +1,1 @@
+Assume that a linear space of real polynomials in d variables is given which is translation and dilation invariant. We show that if a sequence in this space converges pointwise to a polynomial, then the limit polynomial belongs to the space, too.

@@ -1,0 +1,1 @@
+Let X denote a compact set which is laminated by Riemann surfaces. We assume that X carries a positive CR line bundle  L\rightarrow X. The main result of the paper is that there exists a positive integer s so that if v is any continuous (0,1) form with coefficients in L^{\otimes s} there exists a continuous section u of L^{\otimes s} solving the equation \bar\partial_b u=v.

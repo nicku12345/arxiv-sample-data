@@ -1,0 +1,1 @@
+It was proved by Almgren that among boundaries whose mean curvature is bounded from above, perimeter is uniquely minimized by balls. We obtain sharp stability estimates for Almgren's isoperimetric principle and, as an application, we deduce a sharp description of boundaries with almost constant mean curvature under a total perimeter bound which prevents bubbling.

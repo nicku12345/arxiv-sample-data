@@ -1,0 +1,1 @@
+In this note we give a derivation of the asymptotic main term for the q-Gamma function as q approaching 1. This formula is valid on all the complex plan except at the poles of the Euler Gamma function.

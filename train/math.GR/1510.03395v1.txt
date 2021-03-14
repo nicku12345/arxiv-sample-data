@@ -1,0 +1,1 @@
+We discuss a concept of loopoid as a non-associative generalization of (Brandt) groupoid. We introduce and study also an interesting class of more general objects which we call semiloopoids. A differential version of loopoids is intended as a framework for Lagrangian discrete mechanics.

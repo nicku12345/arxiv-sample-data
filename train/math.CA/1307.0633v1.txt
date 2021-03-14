@@ -1,0 +1,1 @@
+Although the characterization of ring derivations has an extensive literature, up to now, all of the characterizations have had the following form: additivity and another property imply that the function in question is a derivation. The aim of this note is to point out that derivations can be described via a single equation.

@@ -1,0 +1,1 @@
+Using the correction terms in Heegaard Floer homology, we prove that if a knot in S^3 admits a positive integral \mathbf{T}-, \mathbf{O}- or \mathbf{I}-type surgery, it must have the same knot Floer homology as one of the knots given in our complete list, and the resulting manifold is orientation-preservingly homeomorphic to the p-surgery on the corresponding knot.

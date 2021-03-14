@@ -1,0 +1,1 @@
+We show that for many families of OPUC, one has ||\varphi'_n||_2/n -> 1, a condition we call normal behavior. We prove that this implies |\alpha_n| -> 0 and that it holds if the sequence \alpha_n is in \ell^1. We also prove it is true for many sparse sequences. On the other hand, it is often destroyed by the insertion of a mass point.

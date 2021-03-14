@@ -1,0 +1,1 @@
+Let X be a Fano variety of dimension n, pseudoindex i_X and Picard number \rho_X. A generalization of a conjecture of Mukai says that \rho_X(i_X-1)\le n. We prove that the conjecture holds if: a) X has pseudoindex i_X \ge \frac{n+3}{3} and either has a fiber type extremal contraction or does not have small extremal contractions b) X has dimension five.

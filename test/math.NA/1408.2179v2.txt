@@ -1,0 +1,1 @@
+We present the error analysis of Lagrange interpolation on triangles. A new \textit{a priori} error estimate is derived in which the bound is expressed in terms of the diameter and circumradius of a triangle. No geometric conditions on triangles are imposed in order to get this type of error estimates.

@@ -1,0 +1,1 @@
+In this note we prove a more general (and topological) version of Gr\"unbaum's conjecture about affine invariant points. As an application of our result we show that, if we consider the action of the group of similarities, Gr\"unbaum's conjecture remains valid in other families of convex sets (not necessarily convex bodies).

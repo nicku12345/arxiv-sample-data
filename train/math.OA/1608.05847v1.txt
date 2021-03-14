@@ -1,0 +1,1 @@
+Let A be a simple infinite dimensional stably finite unital C*-algebra, and let B be a centrally large subalgebra of A. We prove that if A is tracially {\mathcal{Z}}-absorbing if and only if B is tracially {\mathcal{Z}}-absorbing. If A and B are also separable and nuclear, we prove that A is {\mathcal{Z}}-absorbing if and only if B is {\mathcal{Z}}-absorbing.

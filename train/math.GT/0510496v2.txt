@@ -1,0 +1,1 @@
+We prove that for 2-bridge knots, the diameter, D, of the set of boundary slopes is twice the crossing number, c. This constitutes partial verification of a conjecture that, for all knots in S^3, D is at most 2c.

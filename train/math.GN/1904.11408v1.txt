@@ -1,0 +1,1 @@
+We construct an example of a coarse proximity space that is not induced by any coarse structure. We then show how to "stitch" two coarse proximity spaces with homeomorphic boundaries into one coarse proximity space. Finally, we construct a coarse proximity space that is not induced by any asymptotic resemblance structure.

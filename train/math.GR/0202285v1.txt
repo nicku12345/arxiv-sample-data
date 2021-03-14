@@ -1,0 +1,1 @@
+We re-cast in a more combinatorial and computational form the foldings approach of John Stallings and pursue a detailed study of the subgroup structure of free groups. In particular, we introduce the notions of an "algebraic" and a "free" extension for subgroups of free groups and apply these notions to obtain a number of algebraic and algorithmic results.

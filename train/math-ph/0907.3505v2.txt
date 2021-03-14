@@ -1,0 +1,1 @@
+We obtain the radius of convergence of the small--amplitude approximation to the period of the nonlinear oscillator \ddot{x}+(1+\dot{x}^{2})x=0 with the initial conditions x(0)=A and \dot{x}(0)=0 and show that the inverted perturbation series appears to converge smoothly from below.

@@ -1,0 +1,1 @@
+We consider a set of one-dimensional transformations of Gaussian random functions. Under natural assumptions we obtain a connection between L_2-small ball asymptotics of the transformed function and of the original one. Also the explicit Karhunen -- Lo\'eve expansion is obtained for a proper class of Gaussian processes.

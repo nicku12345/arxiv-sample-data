@@ -1,0 +1,1 @@
+In this paper, we achieve the general solution and the generalized Hyers-Ulam-Rassias stability for the quadratic type functional equation &f(x+y+2cz)+f(x+y-2cz)+c^2f(2x)+c^2f(2y) &=2[f(x+y)+c^2f(x+z)+c^2f(x-z)+c^2f(y+z)+c^2f(y-z)] {2.6 cm} for fixed integers c with c\neq0,\pm1, by using the fixed point alternative.

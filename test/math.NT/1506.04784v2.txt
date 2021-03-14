@@ -1,0 +1,1 @@
+We compute the density of the set of ordinary primes of an abelian surface over a number field in terms of the l-adic monodromy group. Using the classification of l-adic monodromy groups of abelian surfaces by Fite, Kedlaya, Rotger, and Sutherland, we show the density is 1, 1/2, or 1/4.

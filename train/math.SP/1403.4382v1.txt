@@ -1,0 +1,1 @@
+In this paper, we study asymptotic behavior of the spectrum of the abstract Gurtin-Pipkin integro-differential equation with the kernel, depending on the parameter. The coefficients of this equation are unbounded and the main part is an abstract hyperbolic equation perturbed by terms that include Volterra integral operators.

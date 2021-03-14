@@ -1,0 +1,1 @@
+Let H_0 and H be self-adjoint operators in a Hilbert space. In the scattering theory framework, we describe the essential spectrum of the difference \varphi(H)-\varphi(H_0) for piecewise continuous functions \varphi. This description involves the scattering matrix for the pair H, H_0.

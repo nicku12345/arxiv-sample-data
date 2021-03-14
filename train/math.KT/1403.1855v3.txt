@@ -1,0 +1,1 @@
+Let G be a group and k a field of characteristic zero. We prove that if the Farrell-Jones conjecture for the K-theory of R[G] is satisfied for every smooth k-algebra R, then it is also satisfied for every commutative k-algebra R.

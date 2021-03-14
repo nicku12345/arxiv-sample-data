@@ -1,0 +1,1 @@
+We give a constructive proof that the Regge symmetry is a scissors congruence in hyperbolic space. The main tool is Leibon's construction for computing the volume of a general hyperbolic tetrahedron. The proof consists of identifying the key elements in Leibon's construction and permuting them.

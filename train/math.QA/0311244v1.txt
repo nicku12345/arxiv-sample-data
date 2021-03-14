@@ -1,0 +1,1 @@
+The internal bialgebroid -- in a symmetric monoidal category with coequalizers -- is defined. The axioms are formulated in terms of internal entwining structures and alternatively, in terms of internal corings. The Galois property of the coring in question is related to the \times_R-Hopf algebra property. The language of entwining structures is used to discuss duality.

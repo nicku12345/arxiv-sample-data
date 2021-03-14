@@ -1,0 +1,1 @@
+Motivated by the problem of finding resistances among vertices in a hypercube, we derive exact expressions, generating functions, and asymptotic expansions for these resistances, then study the combinatorial interpretations of the coefficients arising in these asymptotic expansions.

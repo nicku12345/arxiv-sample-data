@@ -1,0 +1,1 @@
+Motivated by the theory of quasi-determinants, we study non-commutative algebras of quasi-Pl\"ucker coordinates. We prove that these algebras provide new examples of non-homogeneous quadratic Koszul algebras by showing that their quadratic duals have quadratic Gr\"obner bases.

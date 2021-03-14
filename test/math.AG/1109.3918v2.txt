@@ -1,0 +1,1 @@
+We study the Simpson moduli space of semi-stable sheaves on the complex projective plane that have dimension 1, multiplicity 6 and Euler characteristic 2. We describe concretely these sheaves as cokernels of morphisms of locally free sheaves and we stratify the moduli space according to the types of sheaves that occur.

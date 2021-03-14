@@ -1,0 +1,1 @@
+Let G be an adjoint quasi-simple group defined and split over a non-archimedean local field K. We prove that the dual of the Steinberg representation of G is isomorphic to a certain space of harmonic cochains on the Bruhat-Tits building of G. The Steinberg representation is considered with coefficients in any commutative ring.

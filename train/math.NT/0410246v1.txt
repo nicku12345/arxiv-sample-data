@@ -1,0 +1,1 @@
+Murty proved that for all sufficiently large X there exist at least {c(\ell,\eps) X^{1/{4\ell}-\eps}} real quadratic fields with class number divisible by \ell and discriminant not exceeding X in absolute value. We extend this this to number fields of arbitrary degree.

@@ -1,0 +1,1 @@
+The weights in MDS codes of length n and dimension k over the finite field GF(q) are studied. Up to some explicit exceptional cases, the MDS codes with parameters given by the MDS conjecture are shown to contain all k weights in the range n-k+1 to n. The proof uses the covering radius of the dual code

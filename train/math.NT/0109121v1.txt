@@ -1,0 +1,1 @@
+It is shown that Mellin transforms of p-adic Whittaker functions exist for generic characters. For good choices of vectors they are rational functions. For class one vectors they can be calculated explicitly. It turns out that they are automorphic L-factors times normalization factors.

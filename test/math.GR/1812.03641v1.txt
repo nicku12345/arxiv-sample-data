@@ -1,0 +1,1 @@
+The greatest power of a prime p dividing the natural number n will be denoted by n_p. Let Ind_G(g)=|G:C_G(g)|. Suppose that G is a finite group and p is a prime. We prove that if there exists an integer \alpha>0 such that Ind_G(a)_p\in \{1,p^{\alpha}\} for every a of G and a p-element x\in G such that Ind_G(x)_p>1, then G includes a normal p-complement.

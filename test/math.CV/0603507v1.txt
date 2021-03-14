@@ -1,0 +1,1 @@
+We show that there is a spectral gap for the transfer operator associated to a rational map f on the Riemann sphere. Using this and the method of pertubed operators we establish the (Local) Central Limit Theorem for the measure of maximal entropy of f, with an estimate on the speed of convergence.

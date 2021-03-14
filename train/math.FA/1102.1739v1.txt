@@ -1,0 +1,1 @@
+A densely-defined symmetric linear map from/to a real Hilbert space extends to a self-adjoint map. Extension is expressed via Riesz representation. For a case including Friedrichs extension of a strongly monotone map, self-adjoint extension is unique, and equals closure of the given map.

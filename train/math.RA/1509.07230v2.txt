@@ -1,0 +1,1 @@
+We prove that the ideal membership problem and the subalgebra membership problem are algorithmically undecidable for differential polynomial algebras with at least two basic derivation operators.

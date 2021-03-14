@@ -1,0 +1,1 @@
+We investigate the second-order correlation function of the characteristic polynomial of a sample covariance matrix. Starting from an explicit formula for the generating function, we re-obtain several well-known kernels from random matrix theory.

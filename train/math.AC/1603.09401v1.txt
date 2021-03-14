@@ -1,0 +1,1 @@
+At the 2015 Workshop on Lefschetz Properties of Artinian Algebras, Junzo Watanabe conjectured that every graded Artinian complete intersection algebra with the standard grading can be embedded into another such algebra cut out by quadratic generators. We verify this conjecture in the case where the defining polynomials split into linear factors.

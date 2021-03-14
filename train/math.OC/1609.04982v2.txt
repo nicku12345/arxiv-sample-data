@@ -1,0 +1,1 @@
+We present software for investigations with cut-generating functions in the Gomory--Johnson model and extensions, implemented in the computer algebra system SageMath.

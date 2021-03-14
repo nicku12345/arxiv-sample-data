@@ -1,0 +1,1 @@
+Sheaves of noncommutative groups are an essential tool especially in the context of vector bundles. As known there is no real cohomology theory with values in such sheaves. This work deals with the question of under what circumstances the cohomology set H1 will be trivial. Corresponding theorems are formulated and proved.

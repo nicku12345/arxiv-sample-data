@@ -1,0 +1,1 @@
+We provide a characterisation of all graphs whose parity binomial edge ideals have pure resolutions. In particular, we show that the minimal free resolution of a parity binomial edge ideal is pure if and only if the corresponding graph is a complete bipartite graph, or a disjoint union of paths and odd cycles.

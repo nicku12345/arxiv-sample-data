@@ -1,0 +1,1 @@
+In this paper, we establish, as a generalization of a result on the classical homological dimensions of commutative rings, an upper bound on the Gorenstein global dimension of commutative rings using the global cotorsion dimension of rings. We use this result to compute the Gorenstein global dimension of some particular cases of trivial extensions of rings and of group rings.

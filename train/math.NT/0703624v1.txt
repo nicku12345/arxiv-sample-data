@@ -1,0 +1,1 @@
+We look for elliptic curves featuring rational points whose coordinates form two arithmetic progressions, one for each coordinate. A constructive method for creating such curves is shown, for lengths up to 5.

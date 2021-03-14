@@ -1,0 +1,1 @@
+The Vlasov-Nordstrom system is a relativistic model for the description of a self-gravitating collisionless gas. In this paper we show, using a bootstrap argument, that classical small solutions of the Vlasov-Nordstrom system exist globally in time.

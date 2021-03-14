@@ -1,0 +1,1 @@
+An ultrafilter U is Hausdorff if for any two functions f,g mapping N to N, f(U)=g(U) iff f(n)=g(n) for n in some X in U. We will show that it is consistent that there are no Hausdorff ultrafilters.

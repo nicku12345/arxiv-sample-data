@@ -1,0 +1,1 @@
+It is known that the solvability of a Sylvester equation over max-plus algebra can be determined in polynomial time by verifying its principal solution. A succinct representation of the principal solution is presented, with a more accurate computational complexity, for a Sylvester equation over max-plus algebra.

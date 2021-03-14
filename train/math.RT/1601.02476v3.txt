@@ -1,0 +1,1 @@
+Let G be the complex exceptional Lie group of type G_2. Among the five nilpotent orbits in its Lie algebra \mathfrak{g}, only the 8-dimensional orbit \mathcal{O}_8 has non-normal orbit closure \bar{\mathcal{O}_8}. In this short note, we will give a quantization model of \bar{\mathcal{O}_8}, verifying a conjecture of Vogan in 1984.

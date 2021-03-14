@@ -1,0 +1,1 @@
+We construct model category structures for monoids and modules in symmetric monoidal model categories which satisfy an extra axiom, the monoidal axiom, with applications to symmetric spectra and \Gamma-spaces.

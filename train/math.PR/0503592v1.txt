@@ -1,0 +1,1 @@
+If \beta_t is renormalized self-intersection local time for planar Brownian motion, we characterize when Ee^{\gamma\beta_1} is finite or infinite in terms of the best constant of a Gagliardo-Nirenberg inequality. We prove large deviation estimates for \beta_1 and -\beta_1. We establish lim sup and lim inf laws of the iterated logarithm for \beta_t as t\to\infty.

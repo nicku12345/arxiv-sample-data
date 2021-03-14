@@ -1,0 +1,1 @@
+We study the genus expansion of Barannikov-Kontsevich solutions of the WDVV equation. In terms of the related graph calculus we give a definition of descendants at one point and prove that this definition satisfies the topological recursion relations in genera 0, 1, and 2, string and dilaton equations, and the pull-back formula.

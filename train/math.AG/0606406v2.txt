@@ -1,0 +1,1 @@
+We prove a version of Fujita's Conjecture in arbitrary characteristic, generalizing results of K.E. Smith. Our methods use the Frobenius morphism, but avoid tight closure theory. We also obtain versions of Fujita's Conjecture for coherent sheaves with certain ampleness properties.

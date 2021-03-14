@@ -1,0 +1,1 @@
+It is classical that given any Seifert structure on N, Reidemeister-Schreier's algorithm produces a presentation of all index 2 subgroups of the fundamental group of N, described as the fundamental group of some Seifert manifolds. The new result of this article is concise formulas that gather all possible cases.

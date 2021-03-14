@@ -1,0 +1,1 @@
+We introduce the concept of a Girard couple, which consists of two (not necessarily unital) quantales linked by a strong form of duality. The two basic examples of Girard couples arise in the study of endomorphism quantales and of the spectra of operator algebras. We construct, for an arbitrary sup-lattice S, a Girard quantale whose right-sided part is isomorphic to S.

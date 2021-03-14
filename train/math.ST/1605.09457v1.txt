@@ -1,0 +1,1 @@
+In this note, we propose a new approach for the proof of the consistency and normality of the maximum likelihood estimator for nonlinear AR processes with markov-switching under the assumptions of uniform exponential forgetting of the prediction filter and \alpha-mixing property. We show that in the linear and Gaussian case our assumptions are fully satisfied.

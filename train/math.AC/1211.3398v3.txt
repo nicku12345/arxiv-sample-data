@@ -1,0 +1,1 @@
+We consider ideals in the ring \mathbb{Z}_2[x_1,\ldots, x_n] that contain the polynomials x_i^2 - x_i for i = 1, \ldots, n and give various results related to the one-to-one correspondence between these ideals and the subsets of \mathbb{Z}_2^n. We also study the standard monomials with respect to the lexicographical ordering for these ideals and derive a distribution result.

@@ -1,0 +1,1 @@
+We define varieties of algebras for an arbitrary endofunctor on a cocomplete category using pairs of natural transformations. This approach is proved to be equivalent to the one of equational classes defined by equation arrows. Free algebras in the varieties are investigated and their existence is proved under the assumptions of accessibility.

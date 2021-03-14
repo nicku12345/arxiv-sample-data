@@ -1,0 +1,1 @@
+Let L be a finite n-element lattice. We prove that if L has at least 83\cdot 2^{n-8} sublattices, then L is planar. For n>8, this result is sharp since there is a non-planar lattice with exactly 83\cdot 2^{n-8}-1 sublattices.

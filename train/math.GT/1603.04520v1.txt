@@ -1,0 +1,1 @@
+A smooth map between smooth manifolds is called a special generic map if it has only definite fold points as its singularities. In this paper, we give conditions for a special generic map into the 3-dimensional Euclidean space to be factored as the composition of an embedding and a projection for certain dimensions.

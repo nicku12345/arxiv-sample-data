@@ -1,0 +1,1 @@
+We consider an exponentially fitted discontinuous Galerkin method and propose a robust block solver for the resulting linear systems.

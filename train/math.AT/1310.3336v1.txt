@@ -1,0 +1,1 @@
+Let R be an E_2 ring spectrum with zero odd dimensional homotopy groups. Every map of ring spectra MU to R is represented by a map of E_2 ring spectra. If 2 is invertible in pi_0(R), then every map of ring spectra MSO to R is represented by a map of E_2 ring spectra.

@@ -1,0 +1,1 @@
+A. S. Lipson constructed two state models yielding the same classical link invariant obtained from the Kauffman polynomial F(a,z). In this paper, we apply Lipson's state models to marked graph diagrams of surface-links, and observe when they induce surface-link invariants.

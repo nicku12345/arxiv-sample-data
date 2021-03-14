@@ -1,0 +1,1 @@
+We construct long sequences of localization functors L_a in the category of abelian groups such that L_a > L_b for infinite cardinals a < b less than some k. For sufficiently large free abelian groups F and a < b we have proper inclusions of L_aF into L_bF.

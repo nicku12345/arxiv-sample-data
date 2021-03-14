@@ -1,0 +1,1 @@
+For an odd prime p the cohomology ring of an elementary abelian p-group is polynomial tensor exterior. We show that the ideal of essential classes is the Steenrod closure of the class generating the top exterior power. As a module over the polynomial algebra, the essential ideal is free on the set of Mui invariants.

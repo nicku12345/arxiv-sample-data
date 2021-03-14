@@ -1,0 +1,1 @@
+We classify Dehn surgeries on (p,q,r) pretzel knots resulting in a manifold M(s) having cyclic fundamental group and analyze those leading to a finite fundamental group. The proof uses the theory of cyclic and finite surgeries developed by Culler, Shalen, Boyer, and Zhang. In particular, Culler-Shalen seminorms play a central role.

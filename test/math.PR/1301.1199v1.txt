@@ -1,0 +1,1 @@
+We prove that, on the classical Wiener space, the random variable \sup_{0\le t \le T} W_t admits a measure as second Malliavin derivative, whose total variation measure is finite and singular w.r.t.\ the Wiener measure.

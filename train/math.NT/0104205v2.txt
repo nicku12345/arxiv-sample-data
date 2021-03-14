@@ -1,0 +1,1 @@
+We bring to bear an empirical model of the distribution of twin primes and produce two distinct results. The first is that we can make a quantitative probabilistic prediction of the occurrence of gaps in the sequence of twins within the primes. The second is that the ``high jumper'' i.e., the separation with greatest likelihood (in terms of primes) is always expected to be zero.

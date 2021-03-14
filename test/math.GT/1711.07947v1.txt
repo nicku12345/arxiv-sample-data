@@ -1,0 +1,1 @@
+In this article, we give a numerical algorithm to compute braid groups of curves, hyperplane arrangements, and parameterized system of polynomial equations. Our main result is an algorithm that determines the cross-locus and the generators of the braid group.

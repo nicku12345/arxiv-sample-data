@@ -1,0 +1,1 @@
+We propose to define the notion of abstract local cohomology functors. The derived functors of the ordinary local cohomology functor with support in the closed subset defined by an ideal and the generalized local cohomology functor associated with a given pair of ideals are characterized as elements of the set of all the abstract local cohomology functors.

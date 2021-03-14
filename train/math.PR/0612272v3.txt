@@ -1,0 +1,1 @@
+The aim of this note is to describe the Poisson boundary of the group of invertible triangular matrices with coefficients in a number field. It generalizes to any dimension and to any number field a result of Brofferio concerning the Poisson boundary of random rational affinities.

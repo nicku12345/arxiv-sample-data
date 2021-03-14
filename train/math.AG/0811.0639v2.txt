@@ -1,0 +1,1 @@
+Let M be a compact, holomorphic symplectic Kaehler manifold, and L a non-trivial line bundle admitting a metric of semi-positive curvature. We show that some power of L is effective. This result is related to the hyperkaehler SYZ conjecture, which states that such a manifold admits a holomorphic Lagrangian fibration, if L is not big.

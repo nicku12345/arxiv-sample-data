@@ -1,0 +1,1 @@
+We compute the Hilbert coefficients of a graded module with pure resolution and discuss lower and upper bounds for these coefficients for arbitrary graded modules.

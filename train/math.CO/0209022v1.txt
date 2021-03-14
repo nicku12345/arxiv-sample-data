@@ -1,0 +1,1 @@
+Machines whose main purpose is to permute and sort data are studied. The sets of permutations that can arise are analysed by means of finite automata and avoided pattern techniques. Conditions are given for these sets being enumerated by rational generating functions.

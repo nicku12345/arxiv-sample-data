@@ -1,0 +1,1 @@
+We consider a periodic pseudodifferential operator H=(-\Delta)^l+A (l>0) in \R^d which satisfies the following conditions: (i) the symbol of H is smooth in x, and (ii) the perturbation A has order smaller than 2l-1. Under these assumptions, we prove that the spectrum of H contains a half-line.

@@ -1,0 +1,1 @@
+We give a combinatorial description of general homotopy groups of k-dimensional spheres with k\geq3 as well as those of Moore spaces.   For n>k\geq 3, we construct a finitely generated group defined by explicit generators and relations, whose center is exactly \pi_n(S^k).

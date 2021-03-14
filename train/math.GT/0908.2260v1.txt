@@ -1,0 +1,1 @@
+We generalize a theorem of Burde and de Rham characterizing the zeros of the Alexander polynomial. Given a representation of a knot group \pi, we define an extension of \pi, the Crowell group. For any GL(n,C) representation of \pi, the zeros of the associated twisted Alexander polynomial correspond to representations of the Crowell group into the group of dilations of C^n.

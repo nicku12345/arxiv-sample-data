@@ -1,0 +1,1 @@
+We show that a (semi-normalized) basis in a Banach space is quasi-greedy with quasi-greedy constant equal to 1 if and only if it is unconditional with suppression-unconditional constant equal to 1.

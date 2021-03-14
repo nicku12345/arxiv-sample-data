@@ -1,0 +1,1 @@
+We prove that for all fixed p > 2, the translative packing density of unit \ell_p-balls in \mathbb{R}^n is at most 2^{(\gamma_p + o(1))n} with \gamma_p < - 1/p. This is the first exponential improvement in high dimensions since van der Corput and Schaake (1936).

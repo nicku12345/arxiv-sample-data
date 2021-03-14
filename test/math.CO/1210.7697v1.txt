@@ -1,0 +1,1 @@
+The paper presents some results for reducing the computation of the M\"obius functon of a M\"obius category that arises from a combinatorial inverse semigroup to that of locally finite partially ordered sets. We illustrate the computation of the M\"obius function with an example.

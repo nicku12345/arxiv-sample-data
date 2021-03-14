@@ -1,0 +1,1 @@
+Vassiliev's spectral sequence for long knots is discussed. Briefly speaking we study what happens if the strata of non-immersions are ignored. Various algebraic structures on the spectral sequence are introduced. General theorems about these structures imply, for example, that the bialgebra of chord diagrams is polynomial for any field of coefficients.

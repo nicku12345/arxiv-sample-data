@@ -1,0 +1,1 @@
+We show that for a Jacobi operator with coefficients whose (j+1)'th moments are summable the j'th derivative of the scattering matrix is in the Wiener algebra of functions with summable Fourier coefficients. We use this result to improve the known dispersive estimates with integrable time decay for the time dependent Jacobi equation in the resonant case.

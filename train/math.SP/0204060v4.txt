@@ -1,0 +1,1 @@
+If A(t) is a C^{1,\al}-curve of unbounded self-adjoint operators with compact resolvents and common domain of definition, then the eigenvalues can be parameterized C^1 in t. If A is C^\infty then the eigenvalues can be parameterized twice differentiable.

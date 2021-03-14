@@ -1,0 +1,1 @@
+We define a pair of symplectic Dirac operators (D^+,D^-) in an algebraic setting motivated by the analogy with the algebraic orthogonal Dirac operators in representation theory. We work in the settings of \mathbb Z/2-graded quadratic Lie algebras \mathfrak g=\mathfrak k+\mathfrak p and of graded affine Hecke algebras \mathbb H.

@@ -1,0 +1,1 @@
+Determinantal representation of the Moore-Penrose inverse over the quaternion skew field is obtained within the framework of a theory of the column and row determinants. Using the obtained analogs of the adjoint matrix, we get the Cramer rules for the least squares solution of left and right systems of quaternionic linear equations.

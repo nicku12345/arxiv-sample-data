@@ -1,0 +1,1 @@
+It has been proved by Lalley and Sellke [13] that every particle born in a branching Brownian motion has a descendant reaching the rightmost position at some future time. The main goal of the present paper is to estimate asymptotically as s goes to infinity, the first time that every particle alive at the time s has a descendant reaching the rightmost position.

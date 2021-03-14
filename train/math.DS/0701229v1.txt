@@ -1,0 +1,1 @@
+We consider stationary ergodic processes indexed by \mathbb Z or \mathbb Z^n whose finite dimensional marginals have laws which are absolutely continuous with respect to Lebesgue measure. We define an entropy theory for these continuous processes, prove an analog of the Shannon Breiman Mac Millan theorem and study more precisely the particular example of Gaussian processes.

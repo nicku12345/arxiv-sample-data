@@ -1,0 +1,1 @@
+We extend the Yamada-Watanabe condition for pathwise uniqueness to stochastic differential equations with jumps, in the special case where small jumps are summable.

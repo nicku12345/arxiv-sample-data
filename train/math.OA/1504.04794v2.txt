@@ -1,0 +1,1 @@
+From a suitable groupoid G, we show how to construct an amenable principal groupoid whose C*-algebra is a Kirchberg algebra which is KK-equivalent to C*(G). Using this construction, we show by example that many UCT Kirchberg algebras can be realised as the C*-algebras of amenable principal groupoids.

@@ -1,0 +1,1 @@
+In this paper, we give a new, short, simple and geometric proof of the optimal er-godization time for linear flows on tori. This result was first obtained by Bourgain, Golse and Wennberg in [BGW98] using Fourier analysis. Our proof uses geometry of numbers: it follows trivially from a Diophantine duality that was established by the author and Fischler in [BF13].

@@ -1,0 +1,1 @@
+We define Ehrenfeucht-Fra\"{\i}ss\'{e} games and an infinitary version of Heinrich and Henson's positive bounded logic with approximate semantics, and show that, using this logic and these games, one can characterise separable Banach spaces up to linear isomorphism.

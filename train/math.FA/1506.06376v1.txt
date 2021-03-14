@@ -1,0 +1,1 @@
+In this paper, we obtain the general solution and investigate the generalized Hyers-Ulam-Rassias stability for the new mixed type additive and cubic functional equation 3f(x+3y) - f(3x + y)=12[f(x+y)+f(x-y)]-16[f(x)+f(y)] + 12f(2y) - 4f(2x). As some corollaries, we show that the stability of this equation can be controlled by the sum and product of powers of norms.

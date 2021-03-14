@@ -1,0 +1,1 @@
+This paper provides an E-theoretic proof of an exact form, due to E. Troitsky, of the Mischenko-Fomenko Index Theorem for elliptic pseudodifferential operators over a unital C*-algebra. The main ingredients in the proof are the use of asymptotic morphisms of Connes and Higson, vector bundle modification, a Baum-Douglas-type group, and a KK-argument of Kasparov.

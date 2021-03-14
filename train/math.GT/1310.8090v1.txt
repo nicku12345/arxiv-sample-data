@@ -1,0 +1,1 @@
+Combining Kulpa's proof of the cubical Sperner lemma and a dimension theoretic idea of van Mill we give a very short proof of the invariance of dimension, i.e. the statement that cubes [0,1]^n, [0,1]^m are homeomorphic if and only if n=m. This note is adapted from lecture notes for a course on general topology.

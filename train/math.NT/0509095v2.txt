@@ -1,0 +1,1 @@
+We note that the inequalities 0.92 \frac{x}{\log(x)} <\pi(x)< 1.11 \frac{x}{\log(x)} do not hold for all x\ge 30, contrary to some references. These estimates on \pi(x) came up recently in papers on algebraic number theory.

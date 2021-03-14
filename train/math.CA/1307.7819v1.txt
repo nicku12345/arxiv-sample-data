@@ -1,0 +1,1 @@
+Orthogonal polynomials of two real variables can often be represented in complex variables. We explore the connection between the two types of representations and study the structural relations of complex orthogonal polynomials. The complex Hermite orthogonal polynomials and the disk polynomials are used as illustrating examples.

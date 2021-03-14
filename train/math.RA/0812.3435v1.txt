@@ -1,0 +1,1 @@
+The question of existence of a maximal subgroup in the multiplicative group D* of a division algebra D finite dimensional over its center F is investigated. We prove that if D* has no maximal subgroup, then deg(D) is not a power of 2, F^{*2} is divisible, and for each odd prime p dividing deg(D), there exist noncyclic division algebras of degree p over F.

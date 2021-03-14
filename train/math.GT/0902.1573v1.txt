@@ -1,0 +1,1 @@
+We prove that if an alternating 3-braid knot has unknotting number one, then there must exist an unknotting crossing in any alternating diagram of it, and we enumerate such knots. The argument combines the obstruction to unknotting number one developed by Ozsv\'ath and Szab\'o using Heegaard Floer homology, together with one coming from Donaldson's Theorem A.

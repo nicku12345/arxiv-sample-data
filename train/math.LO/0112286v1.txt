@@ -1,0 +1,1 @@
+David Aspero asks on the possibility of having Forcing axiom FA_{aleph_2}(K), where K is the class of forcing notions preserving stationarity of subsets of aleph_1 and of aleph_2. We answer negatively, in fact we show the negative result for any regular lambda>aleph_1 even demanding adding no new sequence of ordinals of length<lambda.

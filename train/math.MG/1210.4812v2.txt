@@ -1,0 +1,1 @@
+It is shown that certain natural maps between the ideal, Gromov, and end boundaries of a complete CAT(0) space can fail to be either injective or surjective. Additionally the natural map from the Gromov boundary to the end boundary of a complete CAT(-1) space can fail to be either injective or surjective.

@@ -1,0 +1,1 @@
+On every compact and orientable three-manifold, we construct total foliations (three codimension 1 foliations that are transverse at every point). This construction can be performed on any homotopy class of plane fields with vanishing Euler class.   As a corollary we obtain similar results on bi-contact structures.

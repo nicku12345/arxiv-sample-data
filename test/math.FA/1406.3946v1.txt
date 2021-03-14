@@ -1,0 +1,1 @@
+In this paper we study the robustness of strong stability of a discrete semigroup on a Hilbert space under bounded finite rank perturbations. As the main result we characterize classes of perturbations preserving the strong stability of the semigroup.

@@ -1,0 +1,1 @@
+The central extension of the Thompson group T that arises in the quantized Teichm\"uller theory is 12 times the Euler class. This extension is obtained by taking a (partial) abelianization of the so-called braided Ptolemy-Thompson group introduced and studied in \cite{FK2}. We describe then the cyclic central extensions of T by means of explicit presentations.

@@ -1,0 +1,1 @@
+We prove (essentially) sharp L^2 estimates for a restricted maximal operator associated to a planar vector field that depends only on the horizontal variable. The proof combines an understanding of such vector fields from earlier work of the author with a result of Nets Katz on directional maximal operators.

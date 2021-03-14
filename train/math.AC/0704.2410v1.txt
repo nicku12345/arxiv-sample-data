@@ -1,0 +1,1 @@
+Let R_{n,d} be the ring of invariants of d-tuples of n x n matrices under the simultaneous conjugation action of the general linear group. A minimal generating system and a homogeneous system of parameters for R_{3,3} are determined. Homogeneous systems of parameters for R_{3,2}, R_{4,2} are also pointed out.

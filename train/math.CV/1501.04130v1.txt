@@ -1,0 +1,1 @@
+We explicitly compute the Dolbeault cohomologies of certain domains in complex space generalizing the classical Hartogs figure. The cohomology groups are non-Hausdorff topological vector spaces, and it is possible to identify the reduced (Hausdorff) and the indiscrete part of the cohomology.

@@ -1,0 +1,1 @@
+The classification of finite simple strongly real groups is complete. It is easy to see that strong reality for every nonabelian finite simple group is equivalent to the fact that each element can be written as a product of two involutions. We thus obtain a solution to Problem 14.82 from the Kourovka notebook from the classification of finite simple strongly real groups.

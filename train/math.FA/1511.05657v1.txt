@@ -1,0 +1,1 @@
+A result of H. Steinhaus states that any positive Lebesgue measurable set has a property that its difference set contains an open interval around the origin. Y. V. Mospan proved that this result is the characterization of absolutely continuous measure. In this note we give a short proof of it.

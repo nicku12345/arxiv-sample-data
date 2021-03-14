@@ -1,0 +1,1 @@
+Let \Gamma be an \widetilde A_n subgroup of PGL_{n+1}(K), with n\ge 2, where K is a local field with residue field of order q and let \bb P^n_{K} be projective n-space over K. The module of coinvariants H_0(\Gamma; C(P^n_{K},Z)) is shown to be finite. Consequently there is no nonzero \Gamma-invariant Z-valued distribution on P^n_{K}.

@@ -1,0 +1,1 @@
+Let K be a field of characteristic 0 and L be a G-graded Lie PI-algebra, where G is a finite group. We define the graded Gelfand-Kirillov dimension of L. Then we measure the growth of the Z_n-graded polynomial identities of the Lie algebra of n x n traceless matrices sl_n(K) giving an exact value of its Z_n-graded Gelfand-Kirillov dimension.

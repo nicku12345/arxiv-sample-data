@@ -1,0 +1,1 @@
+We prove that \sum_{k=0}^{q-1}\binom{2k}{k}\equiv q^2\pmod{3q^2} if q>1 is a power of 3, as recently conjectured by Z.W. Sun and R. Tauraso. Our more precise result actually implies that the value of (1/q^2)\sum_{k=0}^{q-1}\binom{2k}{k} modulo a fixed arbitrary power of 3 is independent of q, for q a power of 3 large enough, and shows how such value can be efficiently computed.

@@ -1,0 +1,1 @@
+In this paper a new smooth backfitting estimate is proposed for additive regression models. The estimate has the simple structure of Nadaraya--Watson smooth backfitting but at the same time achieves the oracle property of local linear smooth backfitting. Each component is estimated with the same asymptotic accuracy as if the other components were known.

@@ -1,0 +1,1 @@
+For families of magnetic self-adjoint operators on {\mathbb Z}^d whose symbols and magnetic fields depend continuously on a parameter \epsilon, it is shown that the main spectral properties of these operators also vary continuously with respect to \epsilon. The proof is based on an algebraic setting involving twisted crossed product C*-algebras.

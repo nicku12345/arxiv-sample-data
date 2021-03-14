@@ -1,0 +1,1 @@
+Let Z be an Ahlfors Q-regular compact metric measure space, where Q>0. For p>1 we introduce a new (fractional) Sobolev space A^p(Z) consisting of functions whose extensions to the hyperbolic filling of Z satisfies a weak-type gradient condition. If Z supports a Q-Poincar\'e inequality with Q>1, then A^{Q}(Z) coincides with the familiar (homogeneous) Haj\l asz-Sobolev space.

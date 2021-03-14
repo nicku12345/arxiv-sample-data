@@ -1,0 +1,1 @@
+Let p and q be multiplicatively independent integers. We show that the complex group ring of \mathbb{Z}[\frac{1}{pq}]\rtimes\mathbb{Z}^2 admits a unique \mathrm{C}^*-norm. The proof uses a characterization, due to Furstenberg, of closed \times p- and \times q-invariant subsets of \mathbb{T}.

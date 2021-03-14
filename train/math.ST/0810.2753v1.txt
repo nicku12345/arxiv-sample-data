@@ -1,0 +1,1 @@
+We derive concentration inequalities for the spectral measure of large random matrices, allowing for certain forms of dependence. Our main focus is on empirical covariance (Wishart) matrices, but general symmetric random matrices are also considered.

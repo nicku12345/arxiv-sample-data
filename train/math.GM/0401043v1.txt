@@ -1,0 +1,1 @@
+We present a simple, closed formula which gives all the primes in order. It is a simple product of integer floor and ceiling functions.

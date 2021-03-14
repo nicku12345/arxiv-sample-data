@@ -1,0 +1,1 @@
+We introduce a new homology theory of quandles, called simplicial quandle homology, which is quite different from quandle homology developed by Carter et al. We construct a homomorphism from a quandle homology group to a simplicial quandle homology group. As an application, we obtain a method for computing the complex volume of a hyperbolic link only from its diagram.

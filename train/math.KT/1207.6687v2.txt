@@ -1,0 +1,1 @@
+We consider the 2-cocycle deformation of algebras graded by discrete groups. The action of the Maurer-Cartan form on cyclic cohomology is shown to be cohomologous to the cup product action of the group cocycle. This allows us to compute the monodromy of the Gauss-Manin connection in the strict deformation setting.

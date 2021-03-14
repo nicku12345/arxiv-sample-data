@@ -1,0 +1,1 @@
+In this short note, we collect some facts on the weighted Gau{\ss}--Radau quadrature. In particular, we focus on the location of the Gau\ss--Radau points being a continuous function of the L^1-weighting function.

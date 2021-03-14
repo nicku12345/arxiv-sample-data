@@ -1,0 +1,1 @@
+We prove a disc formula for the weighted Siciak-Zahariuta extremal function V_{X,q} for an upper semicontinuous function q on an open connected subset X in \C^n. This function is also known as the weighted Green function with logaritmic pole at infinity and weighted global extremal function.

@@ -1,0 +1,1 @@
+Let A be a graded algebra. It is shown that the derived category of dg modules over A (viewed as a dg algebra with trivial differential) is a triangulated hull of a certain orbit category of the derived category of graded A-modules. This is applied to study derived categories of graded gentle one-cycle algebras.

@@ -1,0 +1,1 @@
+The cohomology of a tiling or a point pattern has originally been defined via the construction of the hull or the groupoid associated with the tiling or the pattern. Here we present a construction which is more direct and therefore easier accessible. It is based on generalizing the notion of equivariance from lattices to point patterns of finite local complexity.

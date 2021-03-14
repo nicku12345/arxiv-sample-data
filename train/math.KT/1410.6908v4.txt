@@ -1,0 +1,1 @@
+We show under suitable finiteness conditions that a functor between abelian categories induces a (not necessarily additive) map between their Grothendieck groups. This is related to the derived functors of Dold and Puppe, and generalizes a theorem of Dold.

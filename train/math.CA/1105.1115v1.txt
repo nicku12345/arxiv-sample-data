@@ -1,0 +1,1 @@
+We prove that the maximal operator obtained by taking averages at scale 1 along N arbitrary directions on the sphere, is bounded in L^2(\R^3) by N^{1/4}{\log N}. When the directions are N^{-1/2} separated, we improve the bound to N^{1/4}\sqrt{\log N}. Apart from the logarithmic terms these bounds are optimal.

@@ -1,0 +1,1 @@
+Given a fixed number field K, we give non-trivial lower bounds for the distance between the conjugates of any number a from K in terms of the Mahler measure M(a) of a. In the case that K is a cubic field, our bound is best possible in terms of M(a). Our proof is based on Roth's theorem.

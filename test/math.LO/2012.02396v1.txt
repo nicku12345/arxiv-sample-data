@@ -1,0 +1,1 @@
+We prove that it is relatively consistent with \mathrm{ZFC} that every strong measure zero subset of the real line is meager-additive, yet Borel's conjecture fails. This answers a long-standing question due to Bartoszy\'nski and Judah.

@@ -1,0 +1,1 @@
+We introduce and analyze a Nitsche-based domain decomposition method for the solution of hypersingular integral equations. This method allows for discretizations with non-matching grids without the necessity of a Lagrangian multiplier, as opposed to the traditional mortar method. We prove its almost quasi-optimal convergence and underline the theory by a numerical experiment.

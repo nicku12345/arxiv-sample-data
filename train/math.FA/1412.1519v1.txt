@@ -1,0 +1,1 @@
+In a 2013 paper, the author showed that the convolution of a compactly supported measure on the real line with a Gaussian measure satisfies a logarithmic Sobolev inequality (LSI). In a 2014 paper, the author gave bounds for the optimal constants in these LSIs. In this paper, we give a simpler, elementary proof of this result.

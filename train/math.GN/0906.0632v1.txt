@@ -1,0 +1,1 @@
+What is the distance between 11 (a prime number) and 12 (a highly composite number)? If your answer is 1, then ask yourself "is this reasonable?" In this work, we will introduce a distance between natural numbers based on their arithmetic properties, instead of their position on the real line.

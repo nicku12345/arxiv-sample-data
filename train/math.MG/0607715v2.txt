@@ -1,0 +1,1 @@
+Using combinatorial methods, we derive several formulas for the volume of convex bodies obtained by intersecting a unit hypercube with a halfspace, or with a hyperplane of codimension 1, or with a flat defined by two parallel hyperplanes. We also describe some of the history of these problems, dating to Polya's Ph.D. thesis, and we discuss several applications of these formulas.

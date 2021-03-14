@@ -1,0 +1,1 @@
+We define generalizations of the Albanese variety for a projective variety X. The generalized Albanese morphisms X --> Alb_r(X) contract those curves C in X for which the induced morphism Hom(\pi_1(X),U(r)) --> Hom(\pi_1(C),U(r)) has a finite image. Thus, they may be interpreted as a U(r)-version of the Shafarevich morphism.

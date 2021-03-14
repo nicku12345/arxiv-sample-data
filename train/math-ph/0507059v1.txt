@@ -1,0 +1,1 @@
+In this note, we introduce a suitable generalization of the momentum map for nonholonomic field theories and prove a covariant form of the nonholonomic momentum equation. We show that these covariant objects coincide with their counterparts in mechanics by making the transition to the Cauchy formalism.

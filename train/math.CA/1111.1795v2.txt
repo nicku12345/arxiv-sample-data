@@ -1,0 +1,1 @@
+We establish near-optimal mixed-norm estimates for the X-ray transform restricted to polynomial curves with a weight that is a power of the affine arclength. The bounds that we establish depend only on the spatial dimension and the degree of the polynomial. Some of our results are new even in the well-curved case.

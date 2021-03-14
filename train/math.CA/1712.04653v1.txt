@@ -1,0 +1,1 @@
+We construct an iterated function system consisting of strictly increasing contractions f,g\colon [0,1]\to [0,1] with f([0,1])\cap g([0,1])=\emptyset and such that its attractor has positive Lebesgue measure.

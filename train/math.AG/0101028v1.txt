@@ -1,0 +1,1 @@
+In this paper we shall prove that the singular locus of a symplectic singularity has no codimension 3 irreducible components. As a corollary, a symplectic singularity is terminal if and only if its singular locus has codimension \geq 4.   It is hoped that a symplectic singularity has much stronger properties.

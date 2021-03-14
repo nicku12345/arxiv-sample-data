@@ -1,0 +1,1 @@
+We compute the Gorenstein weak dimension of a coherent power series rings over a commutative rings and we show that, in general, \gwd(R) \leq 1 does not imply that R is an arithmetical ring.

@@ -1,0 +1,1 @@
+Using the Gille-Merkurjev norm principle we compute in a uniform way the image of the degree map for quadrics (Springer's theorem), for twisted forms of maximal orthogonal Grassmannians (theorem of Bayer-Fluckiger and Lenstra), for E6- (Rost's theorem), and E7-varieties.

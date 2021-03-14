@@ -1,0 +1,1 @@
+We consider families of cyclic covers of the projective line, where we fix the covering group and the local monodromies and we vary the branch points. We prove that there are precisely twenty such families that give rise to a special subvariety in the moduli space of abelian varieties. Our proof uses techniques in mixed characteristics due to Dwork and Ogus.

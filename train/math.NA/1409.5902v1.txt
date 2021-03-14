@@ -1,0 +1,1 @@
+In this paper some algorithms will be presented which can be used for the calculation of zeros of polynomials and eigenvalues of polynomial matrices with a multiplicity larger than one. The numerical values calculated with MATLAB are used as starting values. The reliability of the algorithms is demonstrated by means of 8 examples.

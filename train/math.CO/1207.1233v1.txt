@@ -1,0 +1,1 @@
+We prove an inequality for functions on the discrete cube extending the edge-isoperimetric inequality for sets. This inequality turns out to be equivalent to the following claim about random walks on the cube: Subcubes maximize 'mean first exit time' among all subsets of the cube of the same cardinality.

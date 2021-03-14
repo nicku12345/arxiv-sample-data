@@ -1,0 +1,1 @@
+The index of a seaweed Lie algebra can be computed from its associated meander graph. We examine this graph in several ways with a goal of determining families of Frobenius (index zero) seaweed algebras. Our analysis gives two new families of Frobenius seaweed algebras as well as elementary proofs of known families of such Lie algebras.

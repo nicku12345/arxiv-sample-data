@@ -1,0 +1,1 @@
+We give a proof of the parabolic/singular Koszul duality for the category O of affine Kac-Moody algebras. The main new tool is a relation between moment graphs and finite codimensional affine Schubert varieties. We apply this duality to q-Schur algebras and to cyclotomic rational double affine Hecke algebras.

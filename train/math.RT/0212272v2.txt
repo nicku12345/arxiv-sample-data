@@ -1,0 +1,1 @@
+We study Harish-Chandra representations of Yangian for gl(2). We prove an analogue of Kostant theorem showing that resterited Yangians for gl(2) are free modules over certain maximal commutative subalgebras. We also study the categories of generic Harish-Chandra modules, describe their simple modules and indecomposable modules in tame blocks.

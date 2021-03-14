@@ -1,0 +1,1 @@
+A cardinal lambda is called omega-inaccessible if for all mu < lambda we have mu^omega<lambda. We show that for every omega-inaccessible cardinal lambda there is a CCC (hence cardinality and cofinality preserving) forcing that adds a hereditarily Lindelof regular space of density lambda. This extends an analogous earlier result of ours that only worked for regular lambda.

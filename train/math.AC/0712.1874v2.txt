@@ -1,0 +1,1 @@
+Let A be a commutative noetherian ring. In this paper, we interpret localizing subcategories of the derived category of A by using subsets of Spec A and subcategories of the category of A-modules. We unify theorems of Gabriel, Neeman and Krause.

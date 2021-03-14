@@ -1,0 +1,1 @@
+This paper extends linear-complexity concatenated coding schemes to fountain communication over the discrete-time memoryless channel. Achievable fountain error exponents for one-level and multi-level concatenated fountain codes are derived. It is also shown that concatenated coding schemes possess interesting properties in several multi-user fountain communication scenarios.

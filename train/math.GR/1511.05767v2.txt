@@ -1,0 +1,1 @@
+We establish the existence of maximal subgroups of various diferent natures in SL(n,Z). In particular, we prove that there are continuously many maximal subgroups, we provide a maximal subgroup whose action on the projective space has no dense orbits, and we produce a faithful primitive permutation representation of PSL(n,Z) which is not 2-transitive.

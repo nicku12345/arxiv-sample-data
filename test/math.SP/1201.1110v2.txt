@@ -1,0 +1,1 @@
+In this note, we present a natural proof of a recent and surprising result of Gregory Berkolaiko (arXiv 1110.5373) interpreting the "Courant nodal defect" of a Schr\"odinger operator on a finite graph as a Morse index associated to the deformations of the operator by switching on a magnetic field. This proof is inspired by a nice paper of Miroslav Fiedler published in 1975.

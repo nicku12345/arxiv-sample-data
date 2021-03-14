@@ -1,0 +1,1 @@
+Katzarkov has proposed a generalization of Kontsevich's mirror symmetry conjecture, covering some varieties of general type. We prove a version of this conjecture in the simplest example, relating the Fukaya category of a genus two curve to the category of Landau-Ginzburg branes on a certain singular rational surface.

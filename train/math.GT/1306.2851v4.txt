@@ -1,0 +1,1 @@
+We study several properties of \ZZ_2^n-equivariant triangulations of \RR P^n. We show that a \ZZ_2^n-equivariant triangulation of \RR P^n induces a triangulated subdivision of the orbit space \bigtriangleup^n. We show that any vertex minimum \ZZ_2^3-equivariant triangulation of \RR P^3 contains 11 vertices.

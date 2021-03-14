@@ -1,0 +1,1 @@
+We define and study two classes of uncountable \subseteq^*-chains: Hausdorff towers and Suslin towers. We discuss their existence in various models of set theory. Then, some of the results and methods are used to provide examples of indestructible gaps not equivalent to a Hausdorff gap. Also, we indicate possible ways of developing a structure theory for towers.

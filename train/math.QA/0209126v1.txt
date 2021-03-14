@@ -1,0 +1,1 @@
+For a pair of positive integers (k,r) with r>1 such that k+1 and r-1 are relatively prime, we describe the space of symmetric polynomials in variables x_1,...,x_n which vanish at all diagonals of codimension k of the form x_i=tq^{s_i}x_{i-1}, i=2,...,k+1, where t and q are primitive roots of unity of orders k+1 and r-1.

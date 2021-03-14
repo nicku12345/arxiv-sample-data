@@ -1,0 +1,1 @@
+We present a novel notion of stable objects in a triangulated category. This Postnikov-stability is preserved by equivalences. We show that for the derived category of a projective variety this notion includes the case of semistable sheaves. As one application we compactify a moduli space of stable bundles using genuine complexes via Fourier-Mukai transforms.

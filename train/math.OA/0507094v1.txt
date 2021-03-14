@@ -1,0 +1,1 @@
+In this paper, we will use the graph W*-probability technique to re-compute the moments and cumulants of the operator which is the N-free sum of semicircular elements. This computation is well-known, but I used the graph probability technique to resolve them. By considering this idea, we will consider the embedding of the free group factor L(F_N) into a graph W*-algebra.

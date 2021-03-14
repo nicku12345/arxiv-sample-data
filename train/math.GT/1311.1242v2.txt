@@ -1,0 +1,1 @@
+We provide linear lower bounds for the signature of positive braids in terms of the three genus of their braid closure. This yields linear bounds for the topological slice genus of knots that arise as closures of positive braids.

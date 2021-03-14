@@ -1,0 +1,1 @@
+We show that the free group of rank 2 is a limit of 2-markings of Thompson's group F in the space of all 2-marked groups. More specifically, we find a sequence of generating pairs for F so that as one goes out the sequence, the length of the shortest relation satisfied by the generating pair goes to infinity.

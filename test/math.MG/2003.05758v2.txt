@@ -1,0 +1,1 @@
+This position paper looks into the formation of language and shows ties between structural properties of the words in the English language and their polysemy. Using Ollivier-Ricci curvature over a large graph of synonyms to estimate polysemy it shows empirically that the words that arguably are easier to pronounce also tend to have multiple meanings.

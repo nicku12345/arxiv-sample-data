@@ -1,0 +1,1 @@
+To analyze the limiting spectral distribution of some random block-matrices, Girko [Girko, 2000] uses a system of canonical equations from [Girko, 98]. In this paper, we use the method of moments to give an integral form for the almost sure limiting spectral distribution of such matrices.

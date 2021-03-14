@@ -1,0 +1,1 @@
+A good contact toric manifold M is determined by its moment cone C. We compute the equivariant cohomology ring with \Z coefficient of M in terms of the combinatorial data of C. Then under a smoothness criterion on the cone C, we compute the singular cohomology ring with \Z coefficient of M in terms of the combinatorial data of C.

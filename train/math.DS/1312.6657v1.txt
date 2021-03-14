@@ -1,0 +1,1 @@
+We develop safe protocols for thermostatically controlled loads (TCLs) to provide power pulses to the grid without a subsequent oscillatory response. Such pulses can alleviate power fluctuations by intermittent resources and maintain balance between generation and demand. Building on prior work, we introduce timers to endpoint TCL control enabling better shaping of power pulses.

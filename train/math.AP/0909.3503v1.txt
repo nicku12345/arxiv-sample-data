@@ -1,0 +1,1 @@
+In this note, we consider a nonlinear diffusion equation with a bistable reaction term arising in population dynamics. Given a rather general initial data, we investigate its behavior for small times as the reaction coefficient tends to infinity: we prove a generation of interface property.

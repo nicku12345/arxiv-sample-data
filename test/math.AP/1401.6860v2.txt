@@ -1,0 +1,1 @@
+We investigate a version of the Phragm\'en-Lindel\"of theorem for solutions of the equation \Delta_\infty u=0 in unbounded convex domains. The method of proof is to consider this infinity harmonic equation as the limit of the p-harmonic equation when p tends to \infty.

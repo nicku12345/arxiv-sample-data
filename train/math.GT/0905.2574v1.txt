@@ -1,0 +1,1 @@
+Given a knot and an SL(n,C) representation of its group that is conjugate to its dual, the representation that replaces each matrix with its inverse-transpose, the associated twisted Reidemeister torsion is reciprocal. An example is given of a knot group and SL(3,Z) representation that is not conjugate to its dual for which the twisted Reidemeister torsion is not reciprocal.

@@ -1,0 +1,1 @@
+In this article, we derive a Stratonovich and Skorohod type change of variables formula for a multidimensional Gaussian process with low H\"older regularity (typically lower than 1/4). To this aim, we combine tools from rough paths theory and stochastic analysis.

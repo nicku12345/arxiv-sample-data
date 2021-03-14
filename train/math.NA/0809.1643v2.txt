@@ -1,0 +1,1 @@
+Through introducing a new iterative formula for divided differnce using Neville's and Aitken's algorithms,we study new iterative methods for interpolation,numerical differentiation and numerical integration formulas with arbitrary order of accuracy for evanly or unevanly spaced data. Basic computer algorithms for new methods are given

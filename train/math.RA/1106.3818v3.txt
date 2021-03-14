@@ -1,0 +1,1 @@
+In this paper we analyzed solutions of some complex matrix equations related to pseudoinverses using the concept of reproductivity. Especially for matrix equation AXB=C it is shown that Penrose's general solution is actually the case of the reproductive solution.

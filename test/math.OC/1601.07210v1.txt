@@ -1,0 +1,1 @@
+We show that the Euclidean distance degree of a real orthogonally invariant matrix variety equals the Euclidean distance degree of its restriction to diagonal matrices. We illustrate how this result can greatly simplify calculations in concrete circumstances.

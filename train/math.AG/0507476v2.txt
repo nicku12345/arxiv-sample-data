@@ -1,0 +1,1 @@
+Given a scheme in characteristic p together with a lifting modulo p^2, we construct a functor from a category of suitably nilpotent modules with connection to the category of Higgs modules. We use this functor to generalize the decomposition theorem of Deligne-Illusie to the case of de Rham cohomology with coefficients.

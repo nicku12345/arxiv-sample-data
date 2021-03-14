@@ -1,0 +1,1 @@
+We study rates of convergence in central limit theorems for partial sum of functionals of general stationary and non-stationary Gaussian sequences, using optimal tools from analysis on Wiener space. We apply our result to study drift parameter estimation problems for some stochastic differential equations driven by fractional Brownian motion with fixed-time-step observations.

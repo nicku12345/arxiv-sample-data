@@ -1,0 +1,1 @@
+The local trace function introduced in \cite{Dut} is used to derive equations that relate multiwavelets and multiscaling functions in the context of a generalized multiresolution analysis, without appealing to filters. A construction of normalized tight frame wavelets is given. Particular instances of the construction include normalized tight frame and orthonormal wavelet sets.

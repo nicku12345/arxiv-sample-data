@@ -1,0 +1,1 @@
+The function  \tan(\pi x / 2) / (\pi x / 2)  is expanded into a Laurent series of  1 - x^2 , where the coefficients are given explicitly as combinations of zeta function of even integers. This is used to achieve a sequence of upper and lower bounds which are very precise even at the poles  x = 1, -1 .   Similar results are obtained for other trigonometric functions with poles.

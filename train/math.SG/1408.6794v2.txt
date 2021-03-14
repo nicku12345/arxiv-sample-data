@@ -1,0 +1,1 @@
+Family Floer theory yields a functor from the Fukaya category of a symplectic manifold admitting a Lagrangian torus fibration to a (twisted) category of perfect complexes on the mirror rigid analytic space. This functor is shown to be faithful by a degeneration argument involving moduli spaces of annuli.

@@ -1,0 +1,1 @@
+We show that the \mathbb{Q}/\mathbb{Z}-valued linking forms on rational homology spheres are (anti-) symmetric and we compute the linking form of a 3-dimensional rational homology sphere in terms of a Heegaard splitting. Both results have been known to a larger or lesser degree, but it is difficult to find rigorous down-to-earth proofs in the literature.

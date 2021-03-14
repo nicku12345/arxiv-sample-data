@@ -1,0 +1,1 @@
+In this paper, we define NC complex spaces as complex spaces together with a structure sheaf of associative algebras in such a way that the abelization of the structure sheaf is the sheaf of holomorphic functions.

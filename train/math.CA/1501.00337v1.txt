@@ -1,0 +1,1 @@
+We apply the uniform asymptotics method proposed by Bassom, Clarkson, Law and McLeod to a special Painlev\'{e} V equation, and we provide a simpler and more rigorous proof of the connection formulas for a special solution of the equation, which have been established earlier by McCoy and Tang via the isomonodromy and WKB methods.

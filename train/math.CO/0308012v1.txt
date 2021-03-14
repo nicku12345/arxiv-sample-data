@@ -1,0 +1,1 @@
+We present a new partition identity and give a combinatorial proof of our result. This generalizes a result of Andrew's in which he considers the generation function for partitions with respect to size, number of odd parts, and number of odd parts of the conjugate.

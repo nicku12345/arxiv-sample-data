@@ -1,0 +1,1 @@
+We introduced a family of infinite graphs directly associated with a class of von Neumann automaton model A_{G}. These are finite state models used in symbolic dynamics: stimuli models and in control theory. In the context of groupoid von Neumann algebras, and an associated fractal group, we prove a classification theorem for representations of automata.

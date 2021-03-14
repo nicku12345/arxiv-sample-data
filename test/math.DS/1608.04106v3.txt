@@ -1,0 +1,1 @@
+Let \alpha be an irrational number of sufficiently high type and suppose that the quadratic polynomial P_\alpha(z)=e^{2\pi i\alpha}z+z^2 has a Siegel disk \Delta_\alpha centered at the origin. We prove that the boundary of \Delta_\alpha is a Jordan curve, and that it contains the critical point -e^{2\pi i\alpha}/2 if and only if \alpha satisfies Herman's condition.

@@ -1,0 +1,1 @@
+This note answers the following question: Is it consistent that for an arbitrary tall summable ideal I_g there exists an I_g-ultrafilter which is not rapid? We show that assuming Martin's Axiom for \sigma-centered posets such ultrafilters exist for each tall summable ideal I_g.

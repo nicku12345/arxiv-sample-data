@@ -1,0 +1,1 @@
+In this paper we determine the asymptotics of the determinants of truncated Wiener-Hopf plus Hankel operators \det(W_R(a)\pm H_R(a)) as R tends to infinity for symbols a(x)=(x^2/(1+x^2))^\beta with the parameter \beta being of small size.

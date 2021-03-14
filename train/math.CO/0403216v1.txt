@@ -1,0 +1,1 @@
+A Rayleigh matroid is one which satisfies a set of inequalities analogous to the Rayleigh monotonicity property of linear resistive electrical networks. We show that every matroid of rank three satisfies these inequalities.

@@ -1,0 +1,1 @@
+We prove a constant rank theorem for the second fundamental form of the spatial convex level surfaces of solutions to equations u_t=F(\n^2u, \n u, u, t) under a structural condition, and give a geometric lower bound of the principal curvature of the spatial level surfaces.

@@ -1,0 +1,1 @@
+This paper contains an expository account of persistent homology and its usefulness for topological data analysis. An alternative foundation for level-set persistence is presented using sheaves and cosheaves.

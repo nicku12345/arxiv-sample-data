@@ -1,0 +1,1 @@
+We introduce the notion of the "covering type" of a space, which is more subtle that the notion of Lusternik Schnirelman category. It measures the complexity of a space which arises from coverings by contractible subspaces whose non-empty intersections are also contractible.

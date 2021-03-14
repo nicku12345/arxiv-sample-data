@@ -1,0 +1,1 @@
+Here we give a combinatorial interpretation of Solomon's rule for multiplication in the descent algebra of Weyl groups of type D, \Sigma D_n.   From here we show that \Sigma D_n is a homomorphic image of the descent algebra of the hyperoctahedral group, \Sigma B_{n-2}.

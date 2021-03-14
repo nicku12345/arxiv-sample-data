@@ -1,0 +1,1 @@
+In the paper, by directly verifying an inequality which gives a lower bound for the first order modified Bessel function of the first kind, the authors supply a new proof for the complete monotonicity of a difference between the exponential function e^{1/t} and the trigamma function \psi'(t) on (0,\infty).

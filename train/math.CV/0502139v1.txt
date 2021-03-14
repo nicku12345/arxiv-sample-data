@@ -1,0 +1,1 @@
+Consider a continuous one parameter family of circles in complex plane that contains two circles lying in the exterior of one another. Under mild assumptions on the family, we prove that if a continuous function on the union of the above circles extends holomorphically into each circle, then the function is holomorphic in the interior of the union of the circles.

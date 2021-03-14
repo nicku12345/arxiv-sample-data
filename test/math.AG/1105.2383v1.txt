@@ -1,0 +1,1 @@
+By associating to a curve C of genus g=2k and a pencil of degree d=k+1 the so-called trace curve (resp. the reduced trace curve) we define a rational map from the Hurwitz space of admissible covers of genus g=2k and degree d=k+1 to a moduli space of stable curves. We study the induced map between the divisor class groups of these moduli spaces of curves.

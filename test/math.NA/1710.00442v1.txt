@@ -1,0 +1,1 @@
+We consider a model Poisson problem in \R^d (d=2,3) and establish error estimates for virtual element methods on polygonal or polyhedral meshes that can contain small edges (d=2) or small faces (d=3).

@@ -1,0 +1,1 @@
+``Pseudo-cohomology'', as a refinement of Lie group cohomology, is soundly studied aiming at classifying of the symplectic manifolds associated with Lie groups. In this study, the framework of symplectic cohomology provides fundamental new insight, which enriches the analysis previously developed in the setting of Cartan-Eilenberg H^2(G,U(1)) cohomology.

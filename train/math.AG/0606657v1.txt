@@ -1,0 +1,1 @@
+We show that the vector bundle associated to a smooth projective connected finite covering of a simple complex abelian variety is ample (under a simple necessary condition). This result is obtained by showing that this bundle is M-regular in the sense of Pareschi-Popa, and that any M-regular sheaf is ample.

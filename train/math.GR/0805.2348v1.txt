@@ -1,0 +1,1 @@
+We show that for a fixed free group F and an arbitrary finitely generated subgroup H (as given above) we can perform the Stalling's folding process in time O(N log^*(N)), where N is the sum of the word lengths of the given generators of H.

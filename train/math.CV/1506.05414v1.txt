@@ -1,0 +1,1 @@
+We consider Volterra-type integration operators T_g between Bergman spaces induced by weights \omega satisfying a doubling property. We derive estimates for the operator norms, essential and weak essential norms of T_g: A_\omega^p \to A_\omega^q, 0<p\leq q<\infty. In particular, the operator T_g: A_\omega^1\to A_\omega^1 is weakly compact if and only if it is compact.

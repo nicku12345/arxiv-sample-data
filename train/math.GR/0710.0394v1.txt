@@ -1,0 +1,1 @@
+We prove that the number of groups of order p^n whose Frattini subgroup is central is for fixed n a PORC (`polynomial on residue classes') function of p. This extends a result of G. Higman.

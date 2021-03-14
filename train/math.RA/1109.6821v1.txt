@@ -1,0 +1,1 @@
+I propose a proof of the existence of the existence of eigenvectors and eigenvalues in the spirit of Argand's proof of the fundamental theorem of algebra. The proof only relies on Weierstrass's theorem, the definition of the inverse of a linear operator and algebraic identities.

@@ -1,0 +1,1 @@
+We generalize an example, due to Sylvester, and prove that any monomial of degree d in \mathbb R[x_0, x_1], which is not a power of a variable, cannot be written as a linear combination of fewer than d powers of linear forms.

@@ -1,0 +1,1 @@
+This paper presents an innovative set of tools developed to support a methodology to find the left eigenvalues of m order quaternion square matrix. It is solving four real polynomial equations of order not greater than 4m-3 in four variables. Some important properties of these eigenvalues are also investigated.

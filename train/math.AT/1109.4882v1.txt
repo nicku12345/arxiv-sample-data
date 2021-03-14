@@ -1,0 +1,1 @@
+We determine precisely the largest v1-periodic homotopy groups of SU(2^e) and SU(2^e + 1). This gives new results about the largest actual homotopy groups of these spaces. Our proof relies on results about 2-divisibility of restricted sums of binomial coefficients times powers proved by the author in a companion paper.

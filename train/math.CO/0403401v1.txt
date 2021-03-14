@@ -1,0 +1,1 @@
+We consider the matrix {\frak Z}_P=Z_P+Z_P^t, where the entries of Z_P are the values of the zeta function of the finite poset P. We give a combinatorial interpretation of the determinant of {\frak Z}_P and establish a recursive formula for this determinant in the case in which P is a boolean algebra.

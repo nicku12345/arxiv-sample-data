@@ -1,0 +1,1 @@
+The bootstrap category in E-theory for C*-algebras over a finite space X is embedded into the homotopy category of certain diagrams of K-module spectra. Therefore it has infinite n-order for every n. The same holds for the bootstrap category in G-equivariant E-theory for a compact group G and for the Spanier--Whitehead category in connective E-theory.

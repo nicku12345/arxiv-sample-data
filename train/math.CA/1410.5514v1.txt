@@ -1,0 +1,1 @@
+The main aim of this paper is to further develop the multiple-correction method that formulated in our previous works~\cite{CXY, Cao}. As its applications, we establish a kind of hybrid-type finite continued fraction approximations related to BBP-type series of the constant \pi and other classical constants, such as Catalan constant, \pi^2, etc.

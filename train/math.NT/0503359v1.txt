@@ -1,0 +1,1 @@
+The modular degree m_E of an elliptic curve E/Q is the minimal degree of any surjective morphism X_0(N) -> E, where N is the conductor of E. We give a necessarily set of criteria for m_E to be odd. Specializing to N prime our results imply a conjecture of Mark Watkins. As a technical tool we also prove a certain multiplicity one result for p=2 that may be of independent interest.

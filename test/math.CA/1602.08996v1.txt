@@ -1,0 +1,1 @@
+In this paper, we study the generalized Clifford-Fourier transform introduced in [6] using the Laplace transform technique. We give explicit expressions in the even dimensional case, we obtain polynomial bounds for the kernel functions and establish a generating function.

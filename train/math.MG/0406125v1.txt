@@ -1,0 +1,1 @@
+We show that there exist 0/1 polytopes in R^n with as many as (cn / (log n)^2)^(n/2) facets (or more), where c>0 is an absolute constant.

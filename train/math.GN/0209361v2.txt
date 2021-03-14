@@ -1,0 +1,1 @@
+We prove that for every n>2, the Banach-Mazur compactum Q(n) is the compactification of a Hilbert cube manifold by the Euclidean point. For n=2 this result was proved earlier.

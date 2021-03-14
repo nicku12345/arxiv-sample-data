@@ -1,0 +1,1 @@
+A superprocess with coalescing spatial motion is constructed in terms of one-dimensional excursions. Based on this construction, it is proved that the superprocess is purely atomic and arises as scaling limit of a special form of the superprocess with dependent spatial motion studied in Dawson {\it et al.} (2001) and Wang (1997, 1998).

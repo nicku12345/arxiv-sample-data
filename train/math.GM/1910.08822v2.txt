@@ -1,0 +1,1 @@
+The nabla fractional sum and difference operators possess nonlocal structure which largely affects and complicates the analysis of these operators. In this article, we discuss the effect of this memory property on solutions of nabla fractional difference equations associated with initial and boundary value problems.

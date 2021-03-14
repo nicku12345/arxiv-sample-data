@@ -1,0 +1,1 @@
+We consider a class of Hilbert-Schmidt integral operators with an isotropic, stationary kernel acting on square integrable functions defined on flat tori. For any fixed kernel which is positive and decreasing, we show that among all unit-volume flat tori, the equilateral torus maximizes the operator norm and the Hilbert-Schmidt norm.

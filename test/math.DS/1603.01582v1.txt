@@ -1,0 +1,1 @@
+In this paper, we study the existence of SRB measures for infinite dimensional dynamical systems in a Banach space. We show that if the system has a partially hyperbolic attractor with nontrivial finite dimensional unstable directions, then it has an SRB measure.

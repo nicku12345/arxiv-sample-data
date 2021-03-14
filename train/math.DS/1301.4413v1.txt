@@ -1,0 +1,1 @@
+In this paper we give an example of a random perturbation of the Cat Map that produces a "global statistical attractor" in the form of a line segment. The transition probabilities for this random perturbation are smooth in some but not all directions. All initial distributions on \mathbb{T}^2 are attracted to distributions supported on this line segment.

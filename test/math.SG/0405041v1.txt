@@ -1,0 +1,1 @@
+We compute the genus one family Gromov-Witten invariants of K3 surfaces for non-primitive classes. These calculations verify Gottsche-Yau-Zaslow formula for non-primitive classes with index two. Our approach is to use the genus two topological recursion formula and the symplectic sum formula to establish relationships among various generating functions.

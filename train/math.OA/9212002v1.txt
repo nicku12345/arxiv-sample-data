@@ -1,0 +1,1 @@
+If there exists a completely bounded projection of B(H) onto a von Neumann algebra M on H, then M is injective. If there exists a bounded projection and M is properly infinite, the same conclusion holds.

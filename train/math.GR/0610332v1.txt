@@ -1,0 +1,1 @@
+If F is a finitely generated free group and \phi is an automorphism of F then the mapping torus of \phi admits a quadratic isoperimetric inequality.   This is the third and final paper in a series proving this theorem. The first two were math.GR/0211459 and math.GR/0507589.

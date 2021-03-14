@@ -1,0 +1,1 @@
+These notes describe Leinartas's algorithm for multivariate partial fraction decompositions and employ an implementation thereof in Sage.

@@ -1,0 +1,1 @@
+We extend the Bass-Quillen Fundamental Theorem of Algebraic K-theory to the Waldhausen K-theory of connective {\bf S}-algebras. The same technique used in this extension also yields two localization theorems for the relative K-theory of a 1-connected morphism of connective {\bf S}-algebras.

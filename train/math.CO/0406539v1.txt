@@ -1,0 +1,1 @@
+We prove Stanley's plethysm conjecture for the 2 \times n case, which composed with the work of Black and List provides another proof of Foulkes conjecture for the 2 \times n case. We also show that the way Stanley formulated his conjecture, it is false in general, and suggest an alternative formulation.

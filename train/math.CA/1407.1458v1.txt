@@ -1,0 +1,1 @@
+We modify the standard proof of Paley's theorem about lacunary coefficients of functions in H^1 to work without analytic factorization. This leads to the first direct proof of the extension of Paley's theorem that we applied to the former Littlewood conjecture about L^1 norms of exponential sums.

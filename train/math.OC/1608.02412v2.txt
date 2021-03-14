@@ -1,0 +1,1 @@
+The feedback exponential stabilization to trajectories for semilinear parabolic equations in a given bounded domain is addressed. The controls take values in a finite-dimensional space and are supported in a small region. Both internal and boundary controls are considered.

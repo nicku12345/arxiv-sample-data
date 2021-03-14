@@ -1,0 +1,1 @@
+In \R^m\times\R^{n-m}, endowed with coordinates X=(x,y), we consider the PDE  -{\rm div} \big(\alpha(\x) |\nabla u(\X)|^{p(x)-2}\nabla u(\X)\big)=f(x,u(\X)). We prove a geometric inequality and a symmetry result.

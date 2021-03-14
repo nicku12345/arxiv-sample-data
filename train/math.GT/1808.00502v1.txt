@@ -1,0 +1,1 @@
+In this brief note, we give an explicit sequence of Heegaard moves interpolating between local versions of the Kauffman-states Heegaard diagram and the planar Heegaard diagram used in knot Floer homology, and show how these local moves can be used to go between the global versions of the Heegaard diagrams.

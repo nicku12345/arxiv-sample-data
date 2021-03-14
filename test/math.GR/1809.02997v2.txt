@@ -1,0 +1,1 @@
+We show that there is a positive constant \delta < 1 such that the probability of satisfying either the 2-Engel identity [X_1, X_2, X_2] = 1 or the metabelian identity [[X_1, X_2], [X_3, X_4]] = 1 in a finite group is either 1 or at most \delta.

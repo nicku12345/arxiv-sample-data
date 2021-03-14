@@ -1,0 +1,1 @@
+In this work the Erdos-Mordell's inequality is examined for the case of a triangle ABC in the taxicab plane geometry. It is shown that the Erdos-Mordell's inequality R_A + R_B + R_C \, \geq \, w \, (r_a + r_b + r_c) holds for triangles with appropriate positions for its points A, B and C, if w = 3/2.

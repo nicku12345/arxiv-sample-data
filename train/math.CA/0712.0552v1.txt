@@ -1,0 +1,1 @@
+We present a simplified integral of functions of several variables. Although less general than the Riemann integral, most functions of practical interest are still integrable. On the other hand, the basic integral theorems can be obtained more quickly. We also give a characterization of the integrable functions and their primitives.

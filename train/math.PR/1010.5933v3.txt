@@ -1,0 +1,1 @@
+We establish the existence of weak martingale solutions to a class of second order parabolic stochastic partial differential equations. The equations are driven by multiplicative jump type noise, with a non-Lipschitz multiplicative functional. The drift in the equations contains a dissipative nonlinearity of polynomial growth.

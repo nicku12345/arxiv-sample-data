@@ -1,0 +1,1 @@
+We present an algebraic framework for the computation of low-degree cohomology of a class of bigraded complexes which arise in Poisson geometry around (pre)symplectic leaves. We also show that this framework can be applied to the more general context of Lie algebroids. Finally, we apply our results to compute the low-degree cohomology in some particular cases.

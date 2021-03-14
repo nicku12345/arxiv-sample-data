@@ -1,0 +1,1 @@
+We develop some general ideas to study connected quandles of prime power size and we classify non-affine connected quandles of size p^3 for p>3, using a combination of group theoretical and universal algebraic tools. As a byproduct we obtain a classification of Bruck loops of the same size and that they are in one-to-one correspondence with commutative automorphic loops.

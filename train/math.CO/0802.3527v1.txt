@@ -1,0 +1,1 @@
+Let \tilde{K}_{3,n}, n\geq 3, be the simple graph obtained from K_{3,n} by adding three edges to a vertex part of size three. We prove that if H is a hyperplane of a 3-connected matroid M and M \not\cong M^*(\tilde{K}_{3,n}), then there is an element x in H such that the simple matroid associated with M/x is 3-connected.

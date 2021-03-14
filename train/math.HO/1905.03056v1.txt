@@ -1,0 +1,1 @@
+Let p and q be distinct primes such that q+1 | p-1. In this paper we find all integer solutions a, b to the equation 1/a + 1/b = (q+1)/pq using only elementary methods.

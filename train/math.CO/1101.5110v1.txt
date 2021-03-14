@@ -1,0 +1,1 @@
+Let P_{n,m} denote the graph taken uniformly at random from the set of all planar graphs on {1,2,..., n} with exactly m(n) edges. We use counting arguments to investigate the probability that P_{n,m} will contain given components and subgraphs, finding that there is different asymptotic behaviour depending on the ratio m/n.

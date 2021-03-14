@@ -1,0 +1,1 @@
+A precise tie between a univariate spline's knots and its zeros abundance and dissemination is formulated. As an application, a conjecture formulated by De Concini and Procesi is shown to be true in the special univariate, unimodular case. As a supplement, the same conjecture is shown, through computing a counterexample, to be false when unimodularity hypothesis is dropped.

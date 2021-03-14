@@ -1,0 +1,1 @@
+We give a short proof, using profinite techniques, that idempotent pointlikes, stable pairs and triples are decidable for the pseudovariety of aperiodic monoids. Stable pairs are also described for the pseudovariety of all finite monoids.

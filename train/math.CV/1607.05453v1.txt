@@ -1,0 +1,1 @@
+We consider the partial theta function \theta (q,z):=\sum _{j=0}^{\infty}q^{j(j+1)/2}z^j, where (q,z)\in \mathbb{C}^2, |q|<1. We show that for any 0<\delta _0<\delta <1, there exists n_0\in \mathbb{N} such that for any q with \delta _0\leq |q|\leq \delta and for any n\geq n_0 the function \theta has exactly n zeros with modulus <|q|^{-n-1/2} counted with multiplicity.

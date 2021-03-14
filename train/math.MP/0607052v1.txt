@@ -1,0 +1,1 @@
+The Aharonov-Anandan phase is introduced from a physical point of view. Without reference to any dynamical equation, this phase is formulated by defining an appropriate connection on a specific fibre bundle. The holonomy element gives the phase. By introducing another connection, the Pancharatnam phase formula is derived following a different procedure.

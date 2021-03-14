@@ -1,0 +1,1 @@
+We study the combinatorial properties of a tropical hyperplane arrangement. We define tropical oriented matroids, and prove that they share many of the properties of ordinary oriented matroids. We show that a tropical oriented matroid determines a subdivision of a product of two simplices, and conjecture that this correspondence is a bijection.

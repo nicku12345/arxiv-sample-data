@@ -1,0 +1,1 @@
+We introduce the concept of local dyadic stationarity, to account for non-stationary time series, within the framework of Walsh-Fourier analysis. We define and study the time varying dyadic ARMA models (tvDARMA). It is proven that the general tvDARMA process can be approximated locally by either a tvDMA and a tvDAR process.

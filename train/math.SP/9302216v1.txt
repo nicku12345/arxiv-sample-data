@@ -1,0 +1,1 @@
+We present a spectral mapping theorem for semigroups on any Banach space E. From this, we obtain a characterization of exponential dichotomy for nonautonomous differential equations for E-valued functions. This characterization is given in terms of the spectrum of the generator of the semigroup of evolutionary operators.

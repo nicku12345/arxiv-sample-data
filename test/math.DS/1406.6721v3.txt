@@ -1,0 +1,1 @@
+We discuss the method of folding for discrete planar systems and use it to establish the existence or non-existence of cycles or chaos in planar systems of rational difference equations with variable coefficients. These include some systems that converge to autonomous systems and some that do not; e.g., systems with periodic coefficients.

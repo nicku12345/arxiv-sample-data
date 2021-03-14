@@ -1,0 +1,1 @@
+We describe a relation between two invariants that measure the complexity of a hypersurface singularity. One is the Hodge spectrum which is related to the monodromy and the Hodge filtration on the cohomology of the Milnor fiber. The other is the multiplier ideal, having to do with log resolutions.

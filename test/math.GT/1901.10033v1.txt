@@ -1,0 +1,1 @@
+In 2018, M. Chu and S. Tillmann gave a lower bound for the trisection genus of a closed 4-manifold in terms of the Euler characteristic of M and the rank of its fundamental group. We show that given a group G, there exist a 4-manifold M with fundamental group G with trisection genus achieving Chu-Tillmann's lower bound.

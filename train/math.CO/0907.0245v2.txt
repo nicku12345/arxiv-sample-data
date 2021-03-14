@@ -1,0 +1,1 @@
+We prove an extension of the Regularity Lemma with vertex and edge weights which can be applied for a large class of graphs. The applications involve random graphs and a weighted version of the Erd\H{o}s-Stone theorem. We also provide means to handle the otherwise uncontrolled exceptional set.

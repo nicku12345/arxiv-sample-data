@@ -1,0 +1,1 @@
+We prove that if a smooth projective algebraic variety of dimension less or equal to three has a unit type integral K-motive, then its integral Chow motive is of Lefschetz type. As a consequence, the integral Chow motive is of Lefschetz type for a smooth projective variety of dimension less or equal to three that admits a full exceptional collection.

@@ -1,0 +1,1 @@
+In this paper, we consider a finite, torsion-free module E over a Gorenstein local ring. We provide sufficient conditions for E to be of linear type and for the Rees algebra \mathcal{R}(E) of E to be Cohen-Macaulay. Our results are obtained by constructing a generic Bourbaki I ideal of E and exploiting properties of the residual intersections of I.

@@ -1,0 +1,1 @@
+We construct generating pairs of simple Lie algebras in characteristic zero. We apply this construction to exhibit infinite series of 2-generator Zariski dense subgroups that are free of rank 2 of the simple algebraic groups SL(n, C), Sp(n, C), G_2(C).

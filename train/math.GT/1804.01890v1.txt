@@ -1,0 +1,1 @@
+We show that if a fibered knot K is expressed as a band--connected sum of K_1, \ldots, K_n, then each K_i is fibered, and the genus of K is greater than or equal to that of the connected sum of K_1,\ldots,K_n.

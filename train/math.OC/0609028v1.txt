@@ -1,0 +1,1 @@
+A new MATLAB package called HIFOO was recently proposed for H-infinity fixed-order controller design. This document illustrates how some standard controller design examples can be solved with this software.

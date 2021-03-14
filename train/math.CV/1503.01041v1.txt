@@ -1,0 +1,1 @@
+We study conformal mappings from the unit disk (or a rectangle) to one-tooth gear-shaped planar domains from the point of view of the Schwarzian derivative, with emphasis on numerical considerations. Applications are given to evaluation of a singular integral, mapping to the complement of an annular rectangle, and symmetric multitooth domains.

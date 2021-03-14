@@ -1,0 +1,1 @@
+Scharlemann and Thompson define a numerical complexity for a 3-manifold using handle decompositions of the manifold. We show that for compact hyperbolic 3-manifolds this is linearly related to a definition of metric complexity in terms of the areas of level sets of Morse functions.

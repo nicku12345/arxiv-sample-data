@@ -1,0 +1,1 @@
+We consider nearest-neighbor random walks on free products of finitely many copies of the integers with amalgamation over nontrivial subgroups. When all the subgroups have index two, we find the Green function of the random walks in terms of complete elliptic integrals. Our technique is to apply Voiculescu's operator--valued R--transform.

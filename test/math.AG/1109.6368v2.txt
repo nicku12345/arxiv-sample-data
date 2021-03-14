@@ -1,0 +1,1 @@
+Let X be a smooth complete Fano variety over \mathbb{C}. We show that the Cox ring \bigoplus_{L\in\text{Pic}(X)}H^0(X,\mathcal{O}_X(L)) is Gorenstein with canonical singularities.

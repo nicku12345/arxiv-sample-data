@@ -1,0 +1,1 @@
+Considering the equation a^x+b^y = c^z, Le gives an upper bound on the number of solutions (x,y,z), and a bound on z. Here we give slight improvements to these results, also removing the restriction that a, b, c be squarefree.

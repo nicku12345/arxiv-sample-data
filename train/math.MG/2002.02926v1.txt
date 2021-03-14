@@ -1,0 +1,1 @@
+A square tiling of the unit square is said to have the minimal tile property if the smallest tile can tile all the other tiles. We show that in such a tiling, the smallest tile cannot be too small.

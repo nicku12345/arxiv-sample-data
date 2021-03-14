@@ -1,0 +1,1 @@
+We obtain resonances for short exponential sums involving Fourier coefficients of Maass forms for \mathrm{SL}(n,\mathbb Z). This involves deriving asymptotics for the integrals appearing in the \mathrm{GL}(n) Voronoi summation formula. As an application, we also prove an \Omega-result for short sums of Fourier coefficients.

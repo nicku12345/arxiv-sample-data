@@ -1,0 +1,1 @@
+It is shown that if X is an Inoue surface of type S_M then the irreducible components of the Douady space of X^n are compact, for all n>0. This gives an example of an essentially saturated compact complex manifold (in the sense of model theory) that is not of Kaehler-type. Among the known compact complex surfaces without curves, it is shown that these are the only examples.

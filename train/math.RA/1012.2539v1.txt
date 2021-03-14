@@ -1,0 +1,1 @@
+A proof of the Jordan canonical form, suitable for a first course in linear algebra, is given. The proof includes the uniqueness of the number and sizes of the Jordan blocks.

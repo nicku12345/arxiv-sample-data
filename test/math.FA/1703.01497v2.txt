@@ -1,0 +1,1 @@
+This paper is about the moment problem on a finite-dimensional vector space of continuous functions. We investigate the structure of the convex cone of moment functionals (supporting hyperplanes, exposed faces, inner points) and treat various important special topics on moment functionals (determinacy, set of atoms of representing measures, core variety).

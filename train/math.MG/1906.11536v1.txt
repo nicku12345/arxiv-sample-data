@@ -1,0 +1,1 @@
+Given a probability measure P on an Alexandrov space S with curvature bounded below, we prove that the support of the pushforward of P on the tangent cone at its (exponential) barycenter is a subset of a Hilbert space, without separability of the tangent cone.

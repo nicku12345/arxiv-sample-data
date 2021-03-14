@@ -1,0 +1,1 @@
+We define generalized Atiyah-Patodi-Singer boundary conditions of product type for Dirac operators associated to C*-vector bundles on the product of a compact manifold with boundary and a closed manifold. We prove a product formula for the K-theoretic index classes, which we use to generalize the product formula for the topological signature to higher signatures.

@@ -1,0 +1,1 @@
+We provide a mathematical theory and methodology for synthesising equational logics from algebraic metatheories. We illustrate our methodology by means of two applications: a rational reconstruction of Birkhoff's Equational Logic and a new equational logic for reasoning about algebraic structure with name-binding operators.

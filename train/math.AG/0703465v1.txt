@@ -1,0 +1,1 @@
+We show the stability of certain syzygies of line bundles on curves, which we call transforms, and are kernels of the evaluation map on subspaces of the space of global sections. For the transforms constructed, we prove the existence of reducible theta divisors, in the cases where the slope is integer.

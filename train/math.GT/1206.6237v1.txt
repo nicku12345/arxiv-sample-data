@@ -1,0 +1,1 @@
+Given a genus-g Heegaard splitting of a 3-manifold, the Goeritz group is defined to be the group of isotopy classes of orientation-preserving homeomorphisms of the manifold that preserve the splitting. In this work, we show that the Goeritz groups of genus-2 Heegaard splittings for lens spaces L(p, 1) are finitely presented, and give explicit presentations of them.

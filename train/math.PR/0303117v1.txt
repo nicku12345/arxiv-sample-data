@@ -1,0 +1,1 @@
+By adapting the renormalization techniques of Pisztora, we establish surface order large deviations estimates for FK-percolation on \Z^2 with parameter q\geq 1 and for the corresponding Potts models. Our results are valid up to the exponential decay threshold of dual connectivities which is widely believed to agree with the critical point.

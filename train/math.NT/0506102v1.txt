@@ -1,0 +1,1 @@
+We present examples of Maass forms on Hecke congruence groups, giving low eigenvalues on \Gamma_0(p) for small prime p, and the first 1000 eigenvalues for \Gamma_0(11). We also present calculations of the L-functions associated to the Maass forms and make comparisons to the predictions from random matrix theory.

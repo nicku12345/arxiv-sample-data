@@ -1,0 +1,1 @@
+We present the main concepts and results for Graph Directed Markov Systems that have a finitely irreducible incidence matrix. We then see how these results change when the incidence matrix is not assumed to be finitely irreducible.

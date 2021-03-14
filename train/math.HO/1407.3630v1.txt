@@ -1,0 +1,1 @@
+In this paper we give a short biography of Harald Niederreiter and we spotlight some cornerstones from his wide-ranging work. We focus on his results on uniform distribution, algebraic curves, polynomials and quasi-Monte Carlo methods. In the flavor of Harald's work we also mention some applications including numerical integration, coding theory and cryptography.

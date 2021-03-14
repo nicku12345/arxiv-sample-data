@@ -1,0 +1,1 @@
+We classify the monomial Kummer subspaces of division cyclic algebras of prime degree p, showing that every such space is standard, and in particular the dimension is no greater than p+1. It follows that in a generic cyclic algebra, the dimension of any Kummer subspace is at most p+1.

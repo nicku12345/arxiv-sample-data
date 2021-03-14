@@ -1,0 +1,1 @@
+The Laplace transform of |\zeta(1/2+it)| is investigated, for which a precise expression is obtained, valid in a certain region in the complex plane. The method of proof is based on complex integration and spectral theory of the non-Euclidean Laplacian.

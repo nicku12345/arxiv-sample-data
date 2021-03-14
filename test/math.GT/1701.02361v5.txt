@@ -1,0 +1,1 @@
+Let K be a knot in S^3, and M and M' be distinct Dehn surgeries along K. We investigate when M covers M'. When K is a torus knot, we provide a complete classification of such covers. When K is a hyperbolic knot, we provide partial results in the direction of the conjecture that M never covers M'.

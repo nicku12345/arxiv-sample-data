@@ -1,0 +1,1 @@
+We show that for the homotopy category K(Ab) of complexes of abelian groups, both Brown representability and Brown representability for the dual fail. We also provide an example of a localizing subcategory of K(Ab) for which the inclusion into K(Ab) does not have a right adjoint.

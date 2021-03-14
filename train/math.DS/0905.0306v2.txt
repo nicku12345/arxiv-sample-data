@@ -1,0 +1,1 @@
+We prove that if a homeomorphism of a closed orientable surface S has no wandering points and leaves invariant a compact, connected set K which contains no periodic points, then either K=S and S is a torus, or K is the intersection of a decreasing sequence of annuli. A version for non-orientable surfaces is given.

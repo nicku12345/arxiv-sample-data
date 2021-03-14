@@ -1,0 +1,1 @@
+We compute the group homology, the algebraic K- and L-groups, and the topological K-groups of right-angled Artin groups, right-angled Coxeter groups, and more generally, graph products.

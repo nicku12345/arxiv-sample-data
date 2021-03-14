@@ -1,0 +1,1 @@
+We study Seshadri constants of the canonical bundle on minimal surfaces of general type. First, we prove that if the Seshadri constant \eps(K_X,x) is between 0 and 1, then it is of the form (m-1)/m for some integer m\ge 2. Secondly, we study values of \eps(K_X,x) for a very general point x and show that small values of the Seshadri constant are accounted for by the geometry of X.

@@ -1,0 +1,1 @@
+We introduce the notion of H-standard cohomology for Courant-Dorfman algebras and Leibniz algebras, by generalizing Roytenberg's construction. Then we generalize a theorem of Ginot-Grutzmann on transitive Courant algebroids, which was conjectured by Stienon-Xu. The relation between H-standard complexes of a Leibniz algebra and the associated crossed product is also discussed.

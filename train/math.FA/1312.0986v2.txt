@@ -1,0 +1,1 @@
+We study the short-time Fourier transform on the space \mathcal{K}_{1}'(\mathbb{R}^n) of distributions of exponential type. We give characterizations of \mathcal{K}_{1}'(\mathbb{R}^n) and some of its subspaces in terms of modulation spaces. We also obtain various Tauberian theorems for the short-time Fourier transform.

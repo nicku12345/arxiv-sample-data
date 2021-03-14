@@ -1,0 +1,1 @@
+We investigate the intersections of the curve \mathbb{R}\ni t\mapsto \zeta({1\over 2}+it) with the real axis. We show that if the Riemann hypothesis is true, the mean-value of those real values exists and is equal to 1. Moreover, we show unconditionally that the zeta-function takes arbitrarily large real values on the critical line.

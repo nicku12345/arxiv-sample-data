@@ -1,0 +1,1 @@
+We give an example of a hypersurface in \C^2 through 0 whose stability group at 0 is determined by 3-jets, but not by jets of any lesser order. We also examine some of the properties which the stability group of this infinite type hypersurface shares with the 3-sphere in \C^2.

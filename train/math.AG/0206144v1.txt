@@ -1,0 +1,1 @@
+In this note we consider a quotient \pi: X-> X/G, with G a finite group and X a smooth projective scheme such that X/G is smooth. We compare the equivariant derived category D^G(X) and the derived category of the quotient D(X/G) by giving the image of the functor \pi^*: D(X/G)-> D^G(X).

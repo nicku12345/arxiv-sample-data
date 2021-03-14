@@ -1,0 +1,1 @@
+For s\textgreater{}0, let H\_0=(-\Delta)^s be the fractional Laplacian. In this paper, we obtainLieb-Thirring type inequalities for the fractional Schr\"odinger operator defined as H=H\_0+V,where V \in L^p(\mathbb{R}^d), p\ge 1, d\ge 1, is a complex-valued potential.Our methods are based on results of articles by Borichev-Golinskii-Kupin \cite{BoGoKu} and Hansmann \cite{Ha1}.

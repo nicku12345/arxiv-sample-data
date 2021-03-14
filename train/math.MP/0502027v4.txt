@@ -1,0 +1,1 @@
+We prove a D=1 analytic versal deformation theorem for WKB expansions. We define the spectrum of an operator in local analytic terms. We use the Morse lemma to show that the perturbation series arising in a perturbed harmonic oscillator become analytic after a formal Borel transform.

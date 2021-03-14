@@ -1,0 +1,1 @@
+Let X be an F-finite smooth scheme of essentially finite type over a perfect field. This article proves the existence of b-functions for locally finitely generated unit F-modules when equipped with their induced \mathbb{D}_X-module structure. It is shown that the b-function has rational roots and is determined locally in the \'etale topology.

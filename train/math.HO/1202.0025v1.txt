@@ -1,0 +1,1 @@
+Euler gives an asymptotic approximation for the function f(x) and recognizes that he is trying to interpolate the factorial function introduced in E19 "De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt". The paper is translated from Euler's Latin original into German.

@@ -1,0 +1,1 @@
+Motivated by Clay and Watson's question on left-orderability of the fundamental group of the resultant space of an r'-surgery on the (p, q)-cable knots for r' \in (pq-p-q,pq), this paper proves by elementary means that for specific pairs of (p,q)-cable knots of torus knots, r' \in [pq-1,pq] gives a surgery yielding non-left orderable fundamental groups.

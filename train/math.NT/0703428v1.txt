@@ -1,0 +1,1 @@
+We define the category Rec(\mathbb K) of recurrence matrices over a field \mathbb K and use it to calculate determinants of Hankel matrices related to the Thue-Morse sequence.

@@ -1,0 +1,1 @@
+The aim of this paper is to characterize those linear maps from a von Neumann factor \A into itself which preserve the extreme points of the unit ball of \A. For example, we show that if \A is infinite, then every such linear preserver can be written as a fixed unitary operator times either a unital *-homomorphism or a unital *-antihomomorphism.

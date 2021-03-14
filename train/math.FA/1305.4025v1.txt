@@ -1,0 +1,1 @@
+We give the first lower bound on the \scr C(K)-distortion of the class of separable Banach spaces, for K a countable compact in the family \{ [0,\omega],[0,\omega\cdot2],\cdots, [0,\omega^2], \cdots, [0,\omega^k\cdot n],\cdots,[0,\omega^\omega]\}.

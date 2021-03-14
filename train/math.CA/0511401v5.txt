@@ -1,0 +1,1 @@
+We prove a uniqueness result for Nevanlinna functions. and this result is then used to give an elementary proof of the uniqueness in the inverse scattering problem for the equation  u" + \frac{k^2}{c^2}u=0  on \mathbb R. Here c is a real positive measurable function that is bounded from below by a positive constant, and is close to 1 at \pm \infty.

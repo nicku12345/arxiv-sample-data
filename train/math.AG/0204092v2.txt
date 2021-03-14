@@ -1,0 +1,1 @@
+We use A_{infinity}-formalism to study variation of cohomology spaces under formal deformations of coherent sheaves on projective varieties. As an application we describe formal neighborhoods of twisted Brill-Noether loci at some points. Another application is a computation of the Fourier-Mukai transform of some natural line bundles on symmetric powers of a curve.

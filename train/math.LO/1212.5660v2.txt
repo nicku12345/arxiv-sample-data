@@ -1,0 +1,1 @@
+For an arbitrary BL-algebra L, we construct an associated lattice Abelian group that coincides with Chang's group when the BL-algebra is an MV-algebra. We prove that the Chang's group of the MV-center of any BL- algebra L is a direct summand in the above group. We also compute examples of this group.

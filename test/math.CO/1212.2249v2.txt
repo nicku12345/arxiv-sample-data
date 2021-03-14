@@ -1,0 +1,1 @@
+We provide formulas and algorithms for computing the excess numbers of certain ideals. The solution for monomial ideals is given by the mixed volumes of certain polytopes. These results enable us to design specific homotopies for numerical algebraic geometry.

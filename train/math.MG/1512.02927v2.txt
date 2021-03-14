@@ -1,0 +1,1 @@
+Let {\cal K}^n be the set of all convex bodies in \mathbb R^n endowed with the Hausdorff distance. We prove that if K\in {\cal K}^n has positive generalized Gauss curvature at some point of its boundary, then K is not a local maximizer for the isotropy constant L_K.

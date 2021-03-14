@@ -1,0 +1,1 @@
+Standard interpretations of Goedel's "undecidable" proposition, [(Ax)R(x)], argue that, although [~(Ax)R(x)] is PA-provable if [(Ax)R(x)] is PA-provable, we may not conclude from this that [~(Ax)R(x)] is PA-provable. We show that such interpretations are inconsistent with a standard Deduction Theorem of first order theories.

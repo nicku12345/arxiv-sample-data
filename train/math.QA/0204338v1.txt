@@ -1,0 +1,1 @@
+Let L be a quantum semigroupoid, more precisely a \times_R-bialgebra in the sense of Takeuchi. We describe a procedure replacing the algebra R by any Morita equivalent, or in fact more generally any \sqrt{\text{Morita}} equivalent (in the sense of Takeuchi) algebra S to obtain a \times_S-bialgebra \widetilde H with the same monoidal representation category.

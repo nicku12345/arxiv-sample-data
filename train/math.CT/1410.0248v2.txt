@@ -1,0 +1,1 @@
+This paper studies the Euler characteristic of a bicategory based on the concept of magnitudes introduced by Leinster. We focus on its invariance with respect to biequivalence and on the product formula for Buckley's fibered bicategories.

@@ -1,0 +1,1 @@
+We introduce a new non-degeneracy condition at infinity for a real or a mixed polynomial mapping F which allows us to approximate its bifurcation locus in terms of certain Newton polyhedra. We derive a sufficiency result for the Jacobian problem in the setting of mixed mappings.

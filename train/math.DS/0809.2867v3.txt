@@ -1,0 +1,1 @@
+An accurate method to compute enclosures of Abelian integrals is developed. This allows for an accurate description of the phase portraits of planar polynomial systems that are perturbations of Hamiltonian systems. As an example, it is applied to the study of bifurcations of limit cycles arising from a cubic perturbation of an elliptic Hamiltonian of degree four.

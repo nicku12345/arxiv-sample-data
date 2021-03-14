@@ -1,0 +1,1 @@
+In this paper, we give some categorical description of the general spectrum functor, defining it as an adjoint of a global section functor. The general spectrum functor includes that of F_1 and of semirings.

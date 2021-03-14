@@ -1,0 +1,1 @@
+We prove that every circled domain in the Riemann sphere admits a proper holomorphic embedding to C^2. Our methods also apply to circled domains with punctures, provided that all but finitely many of the punctures belong to the closure of the set of complementary discs.

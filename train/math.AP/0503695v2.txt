@@ -1,0 +1,1 @@
+Previous results on Hessian measures by Trudinger and Wang are extended to the subelliptic case. Specifically we prove the weak continuity of the 2-Hessian operator, with respect to local L1 convergence, for a system of m vector fields of step 2 and derive gradient estimates for the corresponding k-convex functions, k=1,2....m, for arbitrary step.

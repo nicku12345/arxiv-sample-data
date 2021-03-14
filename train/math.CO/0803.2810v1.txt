@@ -1,0 +1,1 @@
+We give an elementary algebraic proof of Paradan's wall crossing formulae for partition functions. We also express such jumps in volume and partition functions by one dimensional residue formulae. Subsequently we reprove the relation between them as given by the application of a generalized Khovanskii-Pukhlikov differential operator.

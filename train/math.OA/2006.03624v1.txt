@@ -1,0 +1,1 @@
+We compute the generator rank of a subhomgeneous C*-algebra in terms of the covering dimension of the pieces of its primitive ideal space corresponding to irreducible representations of a fixed dimension. We deduce that every \mathcal{Z}-stable ASH-algebras has generator rank one, which means that a generic element in such an algebra is a generator.

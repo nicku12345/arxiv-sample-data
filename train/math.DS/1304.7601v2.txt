@@ -1,0 +1,1 @@
+Let M be a compact real analytic manifold of finite dimension. There is a function a: (0,+\infty)\to [0,+\infty) with \lim_{t\to0}a(t)=0 such that, the tail entropy h^{*}(f,\varepsilon) of any real analytic map f on M is uniformly bounded above by the scale a(\varepsilon).

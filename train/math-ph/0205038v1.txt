@@ -1,0 +1,1 @@
+We examine the stability of ringlike configurations of N charges on a plane interacting through the potential V(z_1,...,z_N)=\sum_i |z_i|^2-\sum_{i<j} ln|z_i-z_j|^2. We interpret the equilibrium distributions in terms of a shell model and compare predictions of the model with the results of numerical simulations for systems with up to 100 particles.

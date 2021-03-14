@@ -1,0 +1,1 @@
+We prove the existence of equiangular tight frames having n=2d-1 elements drawn from either C^d or C^(d-1) whenever n is either 2^k-1 for k in N, or a power of a prime such that n=3 mod 4. We also find a simple explicit expression for the prime power case by establishing a connection to a 2d-element equiangular tight frame based on quadratic residues.

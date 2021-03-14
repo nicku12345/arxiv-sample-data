@@ -1,0 +1,1 @@
+An E_1 (or A-infinity) ring spectrum R has a derived category of modules D_R. An E_2 structure on R endows D_R with a monoidal product. An E_3 structure on R endows the monoidal product with a braiding. If the E_3 structure extends to an E_4 structure then the braided monoidal product is symmetric monoidal.

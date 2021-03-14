@@ -1,0 +1,1 @@
+We give a detailed description of the local commutant approach to wavelet theory using operator algebraic methods. We include a new result on interpolation pairs of wavelet sets: Every pair in the generalized Journe family of wavelet sets is an interpolation pair. In the last section, we give a discussion of several open problems on wavelets and frame-wavelets.

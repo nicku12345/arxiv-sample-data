@@ -1,0 +1,1 @@
+We show that a (not necessarily Hausdorff) etale, second countable groupoid G with totally disconnected unit space may be reconstructed solely from the algebraic structure of its ample semigroup S. We also show that C*(G) possesses a universal property related to tight representations of S.

@@ -1,0 +1,1 @@
+We explain how to find a rational point on a rational elliptic curve of rank 1 using Heegner points. We give some examples, and list new algorithms that are due to Cremona and Delaunay. These are notes from a short course given at the Institut Henri Poincare in December 2004.

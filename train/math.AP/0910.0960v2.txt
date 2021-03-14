@@ -1,0 +1,1 @@
+We study diffusion processes corresponding to infinite dimensional semilinear stochastic differential equations with local Lipschitz drift term and an arbitrary Lipschitz diffusion coefficient. We prove tightness and the Feller property of the solution to show existence of an invariant measure. As an application we discuss stochastic reaction diffusion equations.

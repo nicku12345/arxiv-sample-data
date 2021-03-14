@@ -1,0 +1,1 @@
+It is known that toric ring of a simple polyomino is ring homomorphic to a edge ring of a weakly chordal bipartite graph. In this paper we identify the toric ring of nonsimple polyominoes which are of the form "rectangle minus rectangle".

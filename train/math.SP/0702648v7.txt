@@ -1,0 +1,1 @@
+We prove a representation of the partial autocorrelation function (PACF), or the Verblunsky coefficients, of a stationary process in terms of the AR and MA coefficients. We apply it to show the asymptotic behaviour of the PACF. We also propose a new definition of short and long memory in terms of the PACF.

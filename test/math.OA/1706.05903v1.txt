@@ -1,0 +1,1 @@
+In this short note we prove that the reduced group C*-algebra of a locally compact group admits a non-zero trace if and only if the amenable radical of the group is open. This completely answers a question raised by Forrest, Spronk and Wiersma.

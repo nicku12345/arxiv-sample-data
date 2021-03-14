@@ -1,0 +1,1 @@
+We extend the results of Denisov-Rakhmanov, Szego-Shohat-Nevai, and Killip-Simon from asymptotically constant orthogonal polynomials on the real line (OPRL) and unit circle (OPUC) to asymptotically periodic OPRL and OPUC. The key tool is a characterization of the isospectral torus that is well adapted to the study of perturbations.

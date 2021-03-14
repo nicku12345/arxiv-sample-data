@@ -1,0 +1,1 @@
+We show that the canonical map from the associative operad to the unital associative operad is a homotopy epimorphism for a wide class of symmetric monoidal model categories. As a consequence, the space of unital associative algebra structures on a given object is up to homotopy a subset of connected components of the space of non-unital associative algebra structures.

@@ -1,0 +1,1 @@
+The authors found geodesics, shortest arcs, cut loci, and conjugate sets for left-invariant sub-Riemannian matric on the Lie group SL(2), which is right-invariant relative to the Lie subgroup SO(2)\subset SL(2) (in other words, for invariant sub-Riemannian metric on weakly symmetric space (SL(2)\times SO(2))/SO(2)).

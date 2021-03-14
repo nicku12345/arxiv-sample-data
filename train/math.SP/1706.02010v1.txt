@@ -1,0 +1,1 @@
+By excluding some regions, in which each eigenvalue of a matrix is not contained, from the \alpha\beta-type eigenvalue inclusion region provided by Huang et al.(Electronic Journal of Linear Algebra, 15 (2006) 215-224), a new eigenvalue inclusion region is given. And it is proved that the new region is contained in the \alpha\beta-type eigenvalue inclusion region.

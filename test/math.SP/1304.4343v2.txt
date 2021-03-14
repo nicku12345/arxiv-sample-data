@@ -1,0 +1,1 @@
+We propose a version of the Quantum Ergodicity theorem on large regular graphs of fixed valency. This is a property of delocalization of "most" eigenfunctions. We consider expander graphs with few short cycles (for instance random large regular graphs). Our method mimics the proof of Quantum Ergodicity on manifolds: it uses microlocal analysis on regular trees.

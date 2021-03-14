@@ -1,0 +1,1 @@
+We introduce the notion of \delta-viscosity solutions for fully nonlinear uniformly parabolic PDE on bounded domains. We prove that \delta-viscosity solutions are uniformly close to the actual viscosity solution. As a consequence we obtain an error estimate for implicit monotone finite difference approximations of uniformly parabolic PDE.

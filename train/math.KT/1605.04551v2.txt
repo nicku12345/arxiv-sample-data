@@ -1,0 +1,1 @@
+We compute the cyclic and Hochschild cohomology groups for the algebras \mathcal A_\theta^{alg} \rtimes \mathbb Z_3, \mathcal A_\theta^{alg} \rtimes \mathbb Z_4 and \mathcal A_\theta^{alg} \rtimes \mathbb Z_6. We also compute the partial Chern-Connes index table for each of these algebras.

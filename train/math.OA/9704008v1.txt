@@ -1,0 +1,1 @@
+In this paper, we build a solid framework for KMS-weights on C*-algebras. We use another definition than the one introduced by Combes, but prove that they are equivalent.

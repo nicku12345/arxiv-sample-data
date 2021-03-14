@@ -1,0 +1,1 @@
+We define a closure operation for rings of mixed characteristic and verify that the closure is a ring. We then show that this closure produces a ring with good properties with respect to its Fontaine ring and give an example to show that rings that are not closed in this sense do not satisfy these properties.

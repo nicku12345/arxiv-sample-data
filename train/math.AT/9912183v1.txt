@@ -1,0 +1,1 @@
+We describe algebraic obstruction theories for realizing an abstract coalgebra K_* over the mod p Steenrod algebra as the homology of a topological space, and for distinguishing between the p-homotopy types of different realizations. The theories are expressed in terms of the Quillen cohomology of K_*.

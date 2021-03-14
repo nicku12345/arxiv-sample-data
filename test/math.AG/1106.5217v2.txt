@@ -1,0 +1,1 @@
+Bridgeland stability condition is preserved under the Fourier-Mukai transform by its definition. We explain the relation with Gieseker stability. By studying the wall-crossing behavior, we reprove that the moduli spaces of stable sheaves on abelian surfaces are birationally equivalent, if the associated Mukai vectors are related by isometries of the Mukai lattice.

@@ -1,0 +1,1 @@
+Hindman's Theorem is a prototypical example of a combinatorial theorem with a proof that uses the topology of the ultrafilters. We show how the methods of this proof, including topological arguments about ultrafilters, can be translated into second order arithmetic.

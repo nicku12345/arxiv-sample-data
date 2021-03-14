@@ -1,0 +1,1 @@
+We prove that for any zero \beta'+i\gamma' of \zeta'(s) there exists a zero \beta+i\gamma of \zeta(s) such that |\gamma-\gamma'|\ll \sqrt{|\beta'-\tfrac{1}{2}|}, and we provide some other related results.

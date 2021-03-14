@@ -1,0 +1,1 @@
+Let F be a local field of positive characteristic, and let G be either a Heisenberg group over F, or a certain (nonabelian) two-dimensional unipotent group over F. If H is an arithmetic subgroup of G, we provide an explicit description of every automorphism of H. From this description, it follows that every automorphism of H virtually extends to a virtual automorphism of G.

@@ -1,0 +1,1 @@
+We show that the additive higher Chow groups of regular schemes over a field induce a Zariski sheaf of pro-differential graded algebras, whose Milnor range is isomorphic to the Zariski sheaf of big de Rham-Witt complexes. This provides an explicit cycle-theoretic description of the big de Rham-Witt sheaves. Several applications are derived.

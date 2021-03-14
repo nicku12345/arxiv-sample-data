@@ -1,0 +1,1 @@
+In this note we prove that the parametric fundamental equation of information is stable in the sense of Hyers and Ulam provided that the parameter is nonpositive. We also prove, as a corollary, that the system of equations that defines the recursive and semi-symmetric information measures depending on a nonpositive parameter is stable in a certain sense.

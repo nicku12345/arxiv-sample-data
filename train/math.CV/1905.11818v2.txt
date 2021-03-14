@@ -1,0 +1,1 @@
+In this paper, we study the Cauchy-Dirichlet problem for Parabolic complex Monge-Amp\`ere equations on a strongly pseudoconvex domain by the viscosity method. We extend the results in [EGZ15b] on the existence of solution and the convergence at infinity. We also establish the H\"older regularity of the solutions when the Cauchy-Dirichlet data are H\"older continuous.

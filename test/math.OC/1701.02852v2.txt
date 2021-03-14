@@ -1,0 +1,1 @@
+We generalise the outer subdifferential constructon suggested by C\'anovas, Henrion, L\'opez and Parra for max type functions to pointwise minima of regular Lipschitz functions. We also answer an open question about the relation between the outer subdifferential of the support of a regular function and the end set of its subdifferential posed by Li, Meng and Yang.

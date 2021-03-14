@@ -1,0 +1,1 @@
+In this paper we revisit Talagrand's proof of concentration inequality for empirical processes. We give a different shorter proof of the main technical lemma that garantees the existence of a certain kernel. Our proof provides the almost optimal value of the constant involved in the statement of this lemma.

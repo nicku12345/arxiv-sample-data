@@ -1,0 +1,1 @@
+In this short note, we extend the linear convergence result of the Cauchy algorithm, derived recently by E. Klerk, F. Glineur, and A. Taylor, from the case of smooth strongly convex functions to the case of restricted strongly convex functions with certain form.

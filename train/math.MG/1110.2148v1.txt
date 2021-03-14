@@ -1,0 +1,1 @@
+Complementing a recent observation of Newman and Rabinovich for p=1 we observe here that for all 0<p<2 any k points in L_p embeds with distortion (1+\e) into \ell_p^n where n is linear in k (and polynomial in \e^{-1}).

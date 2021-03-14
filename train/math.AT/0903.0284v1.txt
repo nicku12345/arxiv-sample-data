@@ -1,0 +1,1 @@
+We present a simplification of Neumann's formula for the universal Cheeger-Chern-Simons class of the second Chern polynomial. Our approach is completely algebraic, and the final formula can be applied directly on a homology class in the bar complex.

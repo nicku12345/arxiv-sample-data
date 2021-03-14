@@ -1,0 +1,1 @@
+We study the distribution of zeros of holomorphic modular forms. Assuming the Generalized Riemann Hypothesis we show that the zeros of Hecke eigenforms for the modular group become equidistributed with respect to the hyperbolic measure on the modular domain as the weight grows.

@@ -1,0 +1,1 @@
+An inverse spectral problem for the Sturm-Liouville operator with a singular potential from the class W_2^{-1} is solved by the method of spectral mappings. We prove the uniqueness theorem, develop a constructive algorithm for solution, and obtain necessary and sufficient conditions of solvability for the inverse problem in the self-adjoint and the non-self-adjoint cases

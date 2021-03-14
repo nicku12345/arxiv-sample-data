@@ -1,0 +1,1 @@
+We give the construction of a class of multiple locally complete intersection structures on a smooth algebraic variety as support. This class contains the structures defined locally by equations of the form x^n=0, y^2=0, z=0, >..., u=0.

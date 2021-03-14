@@ -1,0 +1,1 @@
+In this note, we compute the image of the \alpha-family in the homotopy of the K(2)-local sphere at the prime p=2 by locating its image in the algebraic duality spectral sequence. This is a stepping stone for the computation of the homotopy groups of the K(2)-local sphere at the prime 2 using the duality spectral sequences.

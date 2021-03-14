@@ -1,0 +1,1 @@
+Natural numbers from 0 to 11111 are written in terms of 1 to 9 in two different ways. The first one in increasing order of 1 to 9, and the second one in decreasing order. This is done by using the operations of addition, multiplication, subtraction, potentiation, and division. In both the situations there are no missing numbers, except one, i.e., 10958 in the increasing case.

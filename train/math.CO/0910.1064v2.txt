@@ -1,0 +1,1 @@
+For a fixed bipartite graph H and given number c, 0<c<1, we determine the threshold T_H(c) which guarantees that any n-vertex graph with at edge density at least T_H(c) contains (1-o(1))c/v(H) n vertex-disjoint copies of H. In the proof we use a variant of a technique developed by Komlos~\bcolor{[Combinatorica 20 (2000), 203-218}]

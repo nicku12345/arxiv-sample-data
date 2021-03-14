@@ -1,0 +1,1 @@
+We define in the setting of homotopy type theory an H-space structure on \mathbb S^3. Hence we obtain a description of the quaternionic Hopf fibration \mathbb S^3\hookrightarrow\mathbb S^7\twoheadrightarrow\mathbb S^4, using only homotopy invariant tools.

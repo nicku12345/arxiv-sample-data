@@ -1,0 +1,1 @@
+Consider the two-parameter family of real analytic maps F_{a,b}:x \mapsto x+ a+{b\over 2\pi} \sin(2\pi x) which are lifts of degree one endomorphisms of the circle. The purpose of this paper is to provide a proof that for any closed interval I, the set of maps F_{a,b} whose rotation interval is I, form a contractible set.

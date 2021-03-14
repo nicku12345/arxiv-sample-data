@@ -1,0 +1,1 @@
+We characterize the SDP designs that give rise to four-weight spin models with two values. We prove that the only such designs are the symplectic SDP designs. The proof involves analysis of cardinalities of intersections of four blocks.

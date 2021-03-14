@@ -1,0 +1,1 @@
+We construct the Poisson boundary for a random walk supported by the general linear group on the rational numbers as the product of flag manifolds over the p-adic fields. To this purpose, we prove a law of large numbers using the Oseledets' multiplicative ergodic theorem.

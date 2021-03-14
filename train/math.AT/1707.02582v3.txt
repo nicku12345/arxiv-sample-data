@@ -1,0 +1,1 @@
+We prove that the C_2-equivariant Eilenberg-MacLane spectrum associated to the constant Mackey functor \underline{\mathbb{F}}_2 is equivalent to a Thom spectrum over {\Omega^\rho S^{\rho + 1}}.

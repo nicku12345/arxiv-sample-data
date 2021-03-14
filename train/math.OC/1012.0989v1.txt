@@ -1,0 +1,1 @@
+An optimal control problem governed by semilinear elliptic partial differential equations is considered. The equation is in divergence form with the leading term containing controls. By studying the G-closure of the leading term, an existence result is established under a Cesari-type condition.

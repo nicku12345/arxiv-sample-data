@@ -1,0 +1,1 @@
+Inverse graph semigroups were defined by Ash and Hall in 1975. They found necessary and sufficient conditions for the semigroups to be congruence free. In this paper we give a description of congruences on a graph inverse semigroup in terms of the underlying graph. As a consequence, we show that the inverse graph semigroup of a finite graph is congruence Noetherian.

@@ -1,0 +1,1 @@
+In this paper, we show that VC-minimal ordered fields are real closed. We introduce a notion, strictly between convexly orderable and dp-minimal, that we call dp-small, and show that this is enough to characterize many algebraic theories. For example, dp-small ordered groups are abelian divisible and dp-small ordered fields are real closed.

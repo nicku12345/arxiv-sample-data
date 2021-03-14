@@ -1,0 +1,1 @@
+An integer-valued fixed point index for compositions of acyclic multivalued maps is constructed. This integer-valued fixed point index has the properties: additivity, homotoy invariance, normalization, commutativity, multiplicativity. The acyclicity is with respect to the Cech cohomology with integer coefficients. The technique of chain approximation is used.

@@ -1,0 +1,1 @@
+Brown (1980, 1981) proved that the renewal function is concave if the inter-renewal distribution is DFR (decreasing failure rate), and conjectured the converse. This note settles Brown's conjecture with a class of counter-examples. We also give a short proof of Shanthikumar's (1988) result that the DFR property is closed under geometric compounding.

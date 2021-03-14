@@ -1,0 +1,1 @@
+We consider the piecewise linear approximation of saddle functions of the form f(x,y)=ax^2-by^2 under the L-infinity error norm. We show that interpolating approximations are not optimal. One can get slightly smaller errors by allowing the vertices of the approximation to move away from the graph of the function.

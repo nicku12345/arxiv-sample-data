@@ -1,0 +1,1 @@
+We give a unified description of morphisms and comorphisms of Lie pseudoalgebras, showing that the both types of morphisms can be regarded as subalgebras of a Lie pseudoalgebra, called the \psi-sum. We also provide similar descriptions for morphisms and comorphisms of Lie algebroids and groupoids.

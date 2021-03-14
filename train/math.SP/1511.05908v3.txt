@@ -1,0 +1,1 @@
+We consider a family of Dirac operators with potentials varying with respect to a parameter h. The set of potentials has different power-like decay independent of h. The proofs of existence and completeness of the wave operators are similar to that given in \cite{GAT}. We are mainly interested in the asymptotic behavior of the wave operators as h\to\infty.

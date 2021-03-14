@@ -1,0 +1,1 @@
+We discuss some results concerning the multiplication of non-commutative random variables that are c-free with respect to a pair ( \Phi, \varphi) , where  \Phi  is a linear map with values in some Banach or C^\ast-algebra and  \varphi  is scalar-valued. In particular, we construct a suitable analogue of the Voiculescu's  S -transform for this framework.

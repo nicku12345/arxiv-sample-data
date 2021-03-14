@@ -1,0 +1,1 @@
+We prove that the Lipschitz free space over a certain type of discrete metric space has the Radon-Nikod\'ym property. We also show that the Lipschitz free space over a complete, locally compact metric space has the Schur or approximation property whenever the Lipschitz free space over each compact subset also has this property.

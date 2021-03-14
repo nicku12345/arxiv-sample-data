@@ -1,0 +1,1 @@
+A groupoid satisfying the left invertive law: ab\cdot c=cb\cdot a is called an AG-groupoid and is a generalization of commutative semigroups. We consider the concept of bi-commutativity in AG-groupoids and thus introduce left commutative AG-groupoids, right commutative AG-groupoids and bi-commutative AG-groupoids.

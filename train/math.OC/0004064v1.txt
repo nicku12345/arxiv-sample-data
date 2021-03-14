@@ -1,0 +1,1 @@
+This paper deals with fractional-order controllers. We outline mathematical description of fractional controllers and methods of their synthesis and application. Synthesis method is a modified root locus method for fractional-order systems and fractional-order controllers. In the next section we describe how to apply the fractional controller on control systems.

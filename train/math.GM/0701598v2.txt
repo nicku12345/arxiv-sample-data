@@ -1,0 +1,1 @@
+In the Byzantine Empire of 11-15 CE chess was played on the circular board. Two versions were known - REGULAR and SYMMETRIC. The difference between them is easy: the white queen is placed either on light (regular) or on dark square (symmetric). However, the computer analysis reveals the results of this 'small perturbation'.

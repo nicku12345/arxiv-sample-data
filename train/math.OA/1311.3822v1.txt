@@ -1,0 +1,1 @@
+In this thesis we explore the the possibility of characterising C* algebras by their (non-isometric) Banach algebra structure alone.   We introduce a property of Banach algebras, the Total Reduction Property, and conjecture that a Banach algebra has this property if and only if it is isomorphic to a C* algebra. We establish some partial results in support of this conjecture.

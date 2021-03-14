@@ -1,0 +1,1 @@
+It is proved that for any prime integer p and each field F of characteristic p, there exists a centrally essential F-algebra which is not a PI-ring and is not algebraic over its center. Victor Markov is supported by the Russian Foundation for Basic Research, project 17-01-00895-A. Askar Tuganbaev is supported by Russian Scientific Foundation, project 16-11-10013.

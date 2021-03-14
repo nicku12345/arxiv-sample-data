@@ -1,0 +1,1 @@
+We prove the equivalence of two conditions on the primitive elements in an SL(2,\mathbb C) representation of the free group F_2 on two generators, which may hold even when the image of F_2 is not discrete. One is Minsky's condition of primitive stability and the other is the BQ-condition introduced by Bowditch and generalised by Tan, Wong and Zhang.

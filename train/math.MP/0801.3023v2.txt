@@ -1,0 +1,1 @@
+We construct a Leibniz bracket on the space \Omega^\bullet (J^k (\pi)) of all differential forms over the finite-dimensional jet bundle J^k (\pi). As an example, we write Maxwell equations with sources in the covariant finite-dimensional hamiltonian form.

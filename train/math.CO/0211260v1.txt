@@ -1,0 +1,1 @@
+We consider sigma-words, which are words used by Evdokimov in the construction of the sigma-sequence. We then find the number of occurrences of certain patterns and subwords in these words.

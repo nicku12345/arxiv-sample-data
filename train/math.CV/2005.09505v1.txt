@@ -1,0 +1,1 @@
+We extend the notion of quasibounded harmonic functions to the plurisubharmonic setting. As an application, using the theory of Jensen measures, we show that certain generalized Dirichlet problems with unbounded boundary data admit unique solutions, and that these solutions are continuous outside a pluripolar set.

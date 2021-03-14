@@ -1,0 +1,1 @@
+In this paper we consider a gauge action on sigma model solitons over noncommutative tori as source spaces, with a target space made of two points introduced in \cite{DKL:Sigma}. Using new classes of solitons from Gabor frames, we quantify the condition about how to gauge a Gaussian to a prescribed Gabor frame.

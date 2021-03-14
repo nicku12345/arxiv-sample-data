@@ -1,0 +1,1 @@
+We prove existence of a measurable Riemannian structure on higher-dimensional harmonic Sierpinski gasket fractals and deduce Gaussian heat kernel bounds in the geodesic metric. Our proof differs from that given by Kigami for the usual Sierpinski gasket in that we show the geodesics are de Rham curves, for which there is an extensive regularity theory.

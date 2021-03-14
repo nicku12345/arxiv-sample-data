@@ -1,0 +1,1 @@
+Several recent papers in digital topology have sought to obtain fixed point results by mimicking the use of tools from classical topology, such as complete metric spaces. We show that in many cases, researchers using these tools have derived conclusions that are incorrect, trivial, or limited.

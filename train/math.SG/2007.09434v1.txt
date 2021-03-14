@@ -1,0 +1,1 @@
+This paper establishes two basic properties of the symplectic induction construction of Kazhdan, Kostant, Sternberg, and Weinstein: Induction in Stages and Frobenius Reciprocity. It then argues that a *prequantum* version of the construction, of which we prove the same two properties, is in fact the appropriate framework to geometrically model representation-theoretic phenomena.

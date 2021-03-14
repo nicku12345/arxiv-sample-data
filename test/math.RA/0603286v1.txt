@@ -1,0 +1,1 @@
+This paper gives a new approximation theory for finitely generated modules over commutative Noetherian rings, which unifies two famous approximation theorems; one is due to Auslander and Bridger and the other is due to Auslander and Buchweitz. Modules admitting such approximations shall be studied.

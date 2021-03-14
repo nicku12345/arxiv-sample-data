@@ -1,0 +1,1 @@
+Suppose that \Sigma is a hyperbolic surface and f:\mathbb R_+\to\mathbb R_+ a monotonic function. We study the closure in the projective tangent bundle PT\Sigma of the set of all geodesics \gamma satisfying I(\gamma,\gamma)\leq f(\ell_\Sigma(\gamma)). For instance we prove that if f is unbounded and sublinear then this set has Hausdorff dimension strictly bounded between 1 and 3.

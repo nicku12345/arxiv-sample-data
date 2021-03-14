@@ -1,0 +1,1 @@
+We show that all of the Sch\"{u}tzenberger complexes of an Adian inverse semigroup are finite if the Sch\"{u}tzenberger complex of every positive word is finite. This enables us to solve the word problem for certain classes of Adian inverse semigroups (and hence for the corresponding Adian semigroups and Adian groups).

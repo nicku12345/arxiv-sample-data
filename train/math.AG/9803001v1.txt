@@ -1,0 +1,1 @@
+We compute the first, second, third, and fifth rational cohomology groups of the moduli space of stable n-pointed genus g curves, for all g and n, using (mostly) algebro-geometric techniques.

@@ -1,0 +1,1 @@
+There is a natural isomorphism from image to complement of nullspace, for a bounded linear map from a real Banach space onto a closed subspace of a real Hilbert space. This generalizes Riesz representation (self-duality of Hilbert space). The isomorphism helps solve the pressure equation of fluid dynamics.

@@ -1,0 +1,1 @@
+We prove upper bounds on the face numbers of simplicial complexes in terms on their girths, in analogy with the Moore bound from graph theory. Our definition of girth generalizes the usual definition for graphs.

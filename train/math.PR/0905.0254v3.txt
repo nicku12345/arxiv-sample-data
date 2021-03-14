@@ -1,0 +1,1 @@
+We prove a game-theoretic version of Levy's zero-one law, and deduce several corollaries from it, including non-stochastic versions of Kolmogorov's zero-one law, the ergodicity of Bernoulli shifts, and a zero-one law for dependent trials. Our secondary goal is to explore the basic definitions of game-theoretic probability theory, with Levy's zero-one law serving a useful role.

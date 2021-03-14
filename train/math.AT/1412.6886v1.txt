@@ -1,0 +1,1 @@
+We show a homotopy decomposition of p-localized suspension \Sigma M_{(p)} of a quasitoric manifold M by constructing power maps. As an application we investigate the p-localized suspension of the projection \pi from the moment-angle complex onto M, from which we deduce its triviality for p>\dim M/2. We also discuss non-triviality of \pi_{(p)} and \Sigma^\infty\pi.

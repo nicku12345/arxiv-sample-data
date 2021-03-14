@@ -1,0 +1,1 @@
+A lower estimate of the orbital free entropy \chi_\mathrm{orb} under unitary conjugation is proved, and it together with Voiculescu's observation shows that the conjectural exact formula relating \chi_\mathrm{orb} to the free entropy \chi breaks in general in contrast to the case when given random multi-variables are all hyperfinite.

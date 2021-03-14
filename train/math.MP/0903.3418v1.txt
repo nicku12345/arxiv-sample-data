@@ -1,0 +1,1 @@
+We use a discrete multiscale analysis to study the asymptotic integrability of differential-difference equations. In particular, we show that multiscale perturbation techniques provide an analytic tool to derive necessary integrability conditions for two well-known discretizations of the nonlinear Schroedinger equation.

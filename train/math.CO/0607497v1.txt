@@ -1,0 +1,1 @@
+The well-known Steinberg's conjecture asserts that any planar graph without 4- and 5-cycles is 3 colorable. In this note we have given a short algorithmic proof of this conjecture based on the spiral chains of planar graphs proposed in the proof of the four color theorem by the author in 2004.

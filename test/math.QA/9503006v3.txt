@@ -1,0 +1,1 @@
+This paper contains the proof of Macdonald's duality and evaluation conjectures, the definition of the difference Fourier transform, the recurrence theorem generalizing Pieri rules, and the action of GL(2,Z) on the Macdonald polynomials at roots of unity.

@@ -1,0 +1,1 @@
+It is proven that, for any affine supermanifold M equipped with a constant odd symplectic structure, there is a universal action (up to homotopy) of the Grothendieck-Teichm\"uller Lie algebra \mathfrak{grt}_1 on the set of quantum BV structures (i. e.\ solutions of the quantum master equation) on M.

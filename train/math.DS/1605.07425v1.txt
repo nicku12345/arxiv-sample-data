@@ -1,0 +1,1 @@
+-This work addresses output feedback stabilization via event triggered output feedback. In the first part of the paper, linear systems are considered, whereas the second part shows that a dynamic event triggered output feedback control law can achieve feedback stabilization of the origin for a class of nonlinear systems by employing dynamic high-gain techniques.

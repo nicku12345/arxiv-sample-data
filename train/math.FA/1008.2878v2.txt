@@ -1,0 +1,1 @@
+Given a countable dense subset D of an infinite-dimensional separable Hilbert space H the set of operators for which every vector in D except zero is hypercyclic (weakly supercyclic) is residual for the strong (resp. weak) operator topology in the unit ball of L(H) multiplied by R>1 (resp. R>0)

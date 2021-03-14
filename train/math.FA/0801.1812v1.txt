@@ -1,0 +1,1 @@
+Given a continuous n-homogeneous polynomial P\colon E\longrightarrow F between Banach spaces and 1\leq q\leq p<\infty, in this paper we investigate some properties concerning lineability and spaceability of the (p;q)-summing set of P, defined by S_{p;q}(P)=\{a\in E:P\mathrm{is}% (p;q)\mathrm{summing at}a\}.

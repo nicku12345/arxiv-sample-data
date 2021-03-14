@@ -1,0 +1,1 @@
+This paper studies the homotopy type of the moduli space of compact n-manifold thickenings of a finite complex. The main result computes the homotopy fibers of the stabilization map from n-thickenings to (n+1)-thickenings in a wide range. In particular, we obtain an EHP-type sequence for thickenings extending work of C.T.C. Wall.

@@ -1,0 +1,1 @@
+In this work we give a method for computing sections of homogeneous vector bundles on any rational homogeneous variety G/P of type ADE. Our main tool is the equivalence of categories between homogeneous vector bundles on G/P and finite dimensional representations of a given quiver with relations. Our result generalizes the work of Ottaviani and Rubei [OR06].

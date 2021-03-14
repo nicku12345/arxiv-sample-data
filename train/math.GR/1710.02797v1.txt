@@ -1,0 +1,1 @@
+In this article, we prove that embeddings of right-angled Artin group A_1 on the complement of a linear forest into another right-angled Artin group A_2 can be reduced to full embeddings of the defining graph of A_1 into the extension graph of the defining graph of A_2.

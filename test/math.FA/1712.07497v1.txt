@@ -1,0 +1,1 @@
+In this paper we review our previous isoperimetric results for the logarithmic potential and Newton potential operators. The main reason why the results are useful, beyond the intrinsic interest of geometric extremum problems, is that they produce a priori bounds for spectral invariants of operators on arbitrary domains. We demonstrate these in explicit examples.

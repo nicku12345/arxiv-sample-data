@@ -1,0 +1,1 @@
+Let p be a large prime, and let k\ll \log p. A new proof of the existence of any pattern of k consecutive quadratic residues and quadratic nonresidues is introduced in this note. Further, an application to the least quadratic nonresidues n_p modulo p shows that n_p\ll (\log p)(\log \log p).

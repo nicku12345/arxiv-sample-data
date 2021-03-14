@@ -1,0 +1,1 @@
+In this paper, we establish transcendental entire function A(z) and polynomial B(z) such that the differential equation f''+A(z)f'+B(z)f=0, has all non-trivial solution of infinite order. We use the notion of \emph{critical rays} of the function e^{P(z)}, where A(z)=d(z)e^{P(z)} with some restrictions.

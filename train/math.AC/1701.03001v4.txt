@@ -1,0 +1,1 @@
+We recover some data of a module M from the Ext-family \{\Ext^i_R(M,R)\}. In this regard, we investigate homological subsets of \Spec(R), defined by the help of Ext-family. We extend Grothendieck's calculation of \dim(\Ext^g_R(M,R)). Also, we compute support and the set of all associated prime ideals of the Ext-family in a serial of nontrivial cases.

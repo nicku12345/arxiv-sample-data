@@ -1,0 +1,1 @@
+We determine, up to isomorphism, the indecomposable maximal Cohen-Macaulay modules over certain complete one-dimensional local rings of finite Cohen-Macaulay type. We then investigate the direct sum relations of maximal Cohen-Macaulay modules over non-complete rings of finite Cohen-Macaulay type and give a Krull-Schmidt theorem for such rings.

@@ -1,0 +1,1 @@
+Let H be a Hopf algebra, and A,B be H-Galois extensions. We investigate the category {}_A\mathcal{M}_B^H of relative Hopf bimodules, and the Morita equivalences between A and B induced by them.

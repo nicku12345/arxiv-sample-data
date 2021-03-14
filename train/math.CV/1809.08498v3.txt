@@ -1,0 +1,1 @@
+In \mathbb{C}^2 with the standard symplectic structure we consider the bidisc D^2\times D^2 constructed as the product of two open real discs of radius 1. We compute explicit values for the first, second and third Ekeland-Hofer symplectic capacity of D^2\times D^2. We discuss some applications to questions of symplectic rigidity.

@@ -1,0 +1,1 @@
+Let p be a real number greater than one and let \Gamma be a connected graph of bounded degree. We show that the p-Royden boundary of \Gamma with the p-harmonic boundary removed is a F_{\sigma}-set. We also characterize the p-harmonic boundary of \Gamma in terms of the intersection of the extreme points of a certain subset of one-sided infinite paths in \Gamma.

@@ -1,0 +1,1 @@
+For the class of polynomial skew products of C^2, we describe a rigorous computer algorithm which, for a given map F, will (1) build a model of the dynamics of F on its chain recurrent set, and (2) attempt to determine whether F is Axiom A. Further, we discuss how we used our implementation of this algorithm to establish Axiom A for several explicit cases.

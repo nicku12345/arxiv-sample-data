@@ -1,0 +1,1 @@
+Nonreflexive Banach spaces that are complemented in their bidual by an L-projection - like preduals of von Neumann algebras or the Hardy space H^1 - contain, roughly speaking, many copies of l^1 which are very close to isometric copies. Such l^1-copies are known to fail the fixed point property. Similar dual results hold for c_0.

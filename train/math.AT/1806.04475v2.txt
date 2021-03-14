@@ -1,0 +1,1 @@
+We prove that  \cat X\le \frac{\cd(\pi_1(X))+\dim X}{2} for every CW complex X where \cd(\pi_1(X)) denotes the cohomological dimension of the fundamental group of X. We obtain this as a corollary of the inequality  \cat X\le\frac{\cat (u_X)+\dim X}{2}  where u_X:X\to B\pi_1(X) is a classifying map for the universal covering of X.

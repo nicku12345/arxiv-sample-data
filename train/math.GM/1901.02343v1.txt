@@ -1,0 +1,1 @@
+We derive a general recurrence relation for squares of Fibonacci-like numbers. Various properties are developed, including double binomial summation identites.

@@ -1,0 +1,1 @@
+We investigate the coefficients of the highest and lowest terms (also called the head and the tail) of the colored Jones polynomial and show that they stabilize for alternating links and for adequate links. To do this we apply techniques from skein theory.

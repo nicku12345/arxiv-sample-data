@@ -1,0 +1,1 @@
+Let K be a field and \Gamma a finite quiver without oriented cycles. Let \Lambda be the path algebra K(\Gamma, \rho) and let \mathscr{D}(\Lambda) be the dual extension of \Lambda. In this paper, we prove that each Lie derivation of \mathscr{D}(\Lambda) is of the standard form.

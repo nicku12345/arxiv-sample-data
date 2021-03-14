@@ -1,0 +1,1 @@
+If T_t=\rme^{Zt} is a positive one-parameter contraction semigroup acting on l^p(X) where X is a countable set and 1\leq p <\infty, then the peripheral point spectrum P of Z cannot contain any non-zero elements. The same holds for Feller semigroups acting on L^p(X) if X is locally compact.

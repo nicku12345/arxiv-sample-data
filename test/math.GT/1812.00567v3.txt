@@ -1,0 +1,1 @@
+Let \bar\gamma be a link in a Seifert fibered space M over a hyperbolic 2-orbifolds \mathcal O that projects injectively to a filling multicurve of closed geodesics \gamma in \mathcal O. We prove that the complement M_{\bar\gamma} of \bar\gamma in M admits a hyperbolic structure of finite volume and give combinatorial bounds of its volume.

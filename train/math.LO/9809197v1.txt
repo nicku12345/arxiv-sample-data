@@ -1,0 +1,1 @@
+Let K be an abstract elementary class with amalgamation, and Lowenheim Skolem number LS(K). We prove that for a suitable Hanf number chi_0 if chi_0 < lambda_0 <= lambda_1, and K is categorical in lambda^+_1 then it is categorical in lambda_0 .

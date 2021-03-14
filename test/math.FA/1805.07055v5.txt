@@ -1,0 +1,1 @@
+We prove surjectivity result in Fr\'echet spaces of Nash-Moser type. That is, with uniform estimates over all semimorms.   Our method works for functions which are only continuous and G\^ateaux differentiable like in the recent result of Ekeland.   We present the results in multi-valued setting exploring the relevant notions of map regularity.

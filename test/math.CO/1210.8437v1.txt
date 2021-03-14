@@ -1,0 +1,1 @@
+Let S(n) be the integer sequence which is the coefficient of x^{n(n+1)/4} in the expansion of (1+x)(1+x^2), ..., (1+x^n) for positive integers n congruent to 0 or 3 mod 4. We prove a conjecture of Andrica and Tomescu that S(n) is asymptotic to \sqrt{6/\pi} 2^n n^{-3/2} as n approaches infinity.

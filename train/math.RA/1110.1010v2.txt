@@ -1,0 +1,1 @@
+In this paper we present the algorithm of finding the solutions of the equation x^3+ax=b in \mathbb{Z}^*_3 with coefficients from \mathbb{Q}_3.

@@ -1,0 +1,1 @@
+The objective of this paper is to study the Gibbs sampling for computing the mean of observable in very high dimension - a powerful Markov chain Monte Carlo method. Under the Dobrushin's uniqueness condition, we establish some explicit and sharp estimate of the exponential convergence rate and prove some Gaussian concentration inequalities for the empirical mean.

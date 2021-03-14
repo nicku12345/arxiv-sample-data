@@ -1,0 +1,1 @@
+We prove a modularity lifting theorem for minimally ramified deformations of two-dimensional odd Galois representations, over an arbitrary number field. The main ingredient is a generalization of the Taylor-Wiles method in which we patch complexes rather than modules.

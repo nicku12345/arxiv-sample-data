@@ -1,0 +1,1 @@
+For m\in \IN, m\geq 1, we determine the irreducible components of the m-th jet scheme of a toric surface S. For m big enough, we connect the number of a class of these irreducible components to the number of exceptional divisors on the minimal resolution of S.

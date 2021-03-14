@@ -1,0 +1,1 @@
+Given a generalized e-block B of a symmetric group and an e-regular conjugacy class C, we study the number of irreducible characters in B which do not vanish on C and find lower bounds for it.

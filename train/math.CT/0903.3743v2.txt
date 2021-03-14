@@ -1,0 +1,1 @@
+In this note we provide a characterization, in terms of additional algebraic structure, of those intervals (certain cocategory objects) in a symmetric monoidal closed category E that are representable in the sense of inducing on E the structure of a finitely bicomplete 2-category. Several examples and connections with the homotopy theory of 2-categories are also discussed.

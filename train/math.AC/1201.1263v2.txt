@@ -1,0 +1,1 @@
+We investigate commutative Noetherian rings of prime characteristic such that the Frobenius functor applied to any injective module is again injective. We characterize the class of one-dimensional local rings with this property and show that it includes all one-dimensional F-pure rings.

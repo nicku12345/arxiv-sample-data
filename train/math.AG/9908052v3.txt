@@ -1,0 +1,1 @@
+We prove a closed formula for integrals of the cotangent line classes against the top Chern class of the Hodge bundle on the moduli space of stable pointed curves. These integrals are computed via relations obtained from virtual localization in Gromov-Witten theory. An analysis of several natural matrices indexed by partitions is required.

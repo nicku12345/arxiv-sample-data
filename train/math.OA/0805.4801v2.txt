@@ -1,0 +1,1 @@
+We find the fusion rules for the quantum analogues of the complex reflection groups H_n^s=\mathbb Z_s\wr S_n. The irreducible representations can be indexed by the elements of the free monoid \mathbb N^{*s}, and their tensor products are given by formulae which remind the Clebsch-Gordan rules (which appear at s=1).

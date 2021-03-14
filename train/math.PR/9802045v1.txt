@@ -1,0 +1,1 @@
+We study an ordinary differential equation controlled by a stochastic process. We present results on existence and uniqueness of solutions, on associated local times (Trotter and Ray-Knight theorems), and on time and direction of bifurcation. A relationship with Lipschitz approximations to Brownian paths is also discussed.

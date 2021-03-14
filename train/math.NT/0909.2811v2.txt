@@ -1,0 +1,1 @@
+We find an asymptotic formula for the number of pairs of positive integers x_1, x_2 \le H such that the product x_1 x_2 is a k-th power.

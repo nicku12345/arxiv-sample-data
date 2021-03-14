@@ -1,0 +1,1 @@
+For any abelian Polish sigma-compact group H there exist a sigma-ideal Z over N and a Borel Z-approximate homomorphism f : H --> H^N which is not Z-approximable by a continuous true homomorphism g : H --> H^N.

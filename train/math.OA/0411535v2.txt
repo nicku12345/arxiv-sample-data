@@ -1,0 +1,1 @@
+We show that for any prime p and for any II_1 factor N there exist two mathbb{Z}_{p^2}-- actions on the free product factor *_{1} ^{p}N that have the same outer invariant but are not outer conjugate. Therefore, in the case of free product factors, the outer invariant is not a complete invariant for outer conjugacy.

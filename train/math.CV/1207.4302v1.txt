@@ -1,0 +1,1 @@
+The nth partial sum of an analytic function f(z)=z+\sum_{k=2}^\infty a_k z^k is the polynomial f_n(z):=z+\sum_{k=2}^n a_k z^k. A survey of the univalence and other geometric properties of the nth partial sum of univalent functions as well as other related functions including those of starlike, convex and close-to-convex functions are presented.

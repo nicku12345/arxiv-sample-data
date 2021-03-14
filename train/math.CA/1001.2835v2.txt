@@ -1,0 +1,1 @@
+In a rather straightforward manner, we develop the well-known formula for the Stirling numbers of the first kind in terms of the (exponential) complete Bell polynomials where the arguments include the generalised harmonic numbers.   We also show how the (exponential) complete Bell polynomials feature in a number of other areas of mathematical interest.

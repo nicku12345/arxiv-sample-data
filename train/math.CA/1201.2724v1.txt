@@ -1,0 +1,1 @@
+We provide a general scheme for proving L^p estimates for certain bilinear Fourier restrictions outside the locally L^2 setting. As an application, we show how such estimates follow for the lacunary polygon. In contrast with prior approaches, our argument avoids any use of the Rubio de Francia Littlewood--Paley inequality.

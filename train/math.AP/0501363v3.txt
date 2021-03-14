@@ -1,0 +1,1 @@
+We consider the linear Fokker-Planck equation in a confining potential in space dimension d \geq 3. Using spectral methods, we prove bounds on the derivatives of the solution for short and long time, and give some applications.

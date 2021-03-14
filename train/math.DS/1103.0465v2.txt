@@ -1,0 +1,1 @@
+We extend the notion of variational integrator for classical Euler-Lagrange equations to the fractional ones. As in the classical case, we prove that the variational integrator allows to preserve Noether-type results at the discrete level.

@@ -1,0 +1,1 @@
+Let G be a finite group and let k \geq 2. We prove that the coprime subgroup \gamma_k^*(G) is nilpotent if and only if |xy|=|x||y| for any \gamma_k^*-commutators x,y \in G of coprime orders (Theorem A). Moreover, we show that the coprime subgroup \delta_k^*(G) is nilpotent if and only if |ab|=|a||b| for any powers of \delta_k^*-commutators a,b\in G of coprime orders (Theorem B).

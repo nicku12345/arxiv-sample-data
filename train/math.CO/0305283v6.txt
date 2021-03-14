@@ -1,0 +1,1 @@
+It is shown that n points and e lines in the complex Euclidean plane {\mathbb C}^2 determine O(n^{2/3}e^{2/3}+n+e) point-line incidences. This bound is the best possible, and it generalizes the celebrated theorem by Szemer\'edi and Trotter about point-line incidences in the real Euclidean plane {\mathbb R}^2.

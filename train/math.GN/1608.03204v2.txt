@@ -1,0 +1,1 @@
+We study properties of Cartesian products of digital images for which adjacencies based on the normal product adjacency are used. We show that the use of such adjacencies lets us obtain many "product properties" for which the analogous statement is either unknown or invalid if, instead, we were to use c_u-adjacencies.

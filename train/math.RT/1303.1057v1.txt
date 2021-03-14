@@ -1,0 +1,1 @@
+Let G=GL(n,F) where F is a local field of arbitrary characteristic, and let \pi_1,\pi_2 be representations induced from characters of two maximal parabolic subgroups P_1,P_2. We explicitly determine the space Hom_G(\pi_1,\pi_2) of intertwining operators and prove that it has dimension at most 1 in all cases.

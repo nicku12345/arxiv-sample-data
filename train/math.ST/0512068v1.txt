@@ -1,0 +1,1 @@
+The slope of the best fit line from minimizing the sum of both the squared vertical errors and the squared horizontal errors is shown to be the root of a fourth degree polynomial.

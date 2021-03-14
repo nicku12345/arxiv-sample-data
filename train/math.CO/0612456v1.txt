@@ -1,0 +1,1 @@
+There are several combinatorial objects that are known to be in bijection to the spanning trees of a graph G. These objects include G-parking functions, critical configurations of G, and descending traversals of G. In this paper, we extend the bijections to generalizations of all three objects.

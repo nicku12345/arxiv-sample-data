@@ -1,0 +1,1 @@
+This paper studies properties of entropy functions that are induced by groups and subgroups. We showed that many information theoretic properties of those group induced entropy functions also have corresponding group theoretic interpretations. Then we propose an extension method to find outer bound for these group induced entropy functions.

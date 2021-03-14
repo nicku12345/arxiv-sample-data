@@ -1,0 +1,1 @@
+A Jordan loop is a commutative loop satisfying the Jordan identity (x^2 y) x = x^2 (y x). We establish several identities involving powers in Jordan loops and show that there is no nonassociative Jordan loop of order 9.

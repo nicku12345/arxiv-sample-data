@@ -1,0 +1,1 @@
+We study the evolution of a quantum particle interacting with a random potential in the low density limit (Boltzmann-Grad). The phase space density of the quantum evolution defined through the Husimi function converges weakly to a linear Boltzmann equation with collision kernel given by the full quantum scattering cross section.

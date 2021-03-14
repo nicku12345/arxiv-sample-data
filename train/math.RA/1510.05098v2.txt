@@ -1,0 +1,1 @@
+We study the class of modules, called cosilting modules, which are defined as the categorical duals of silting module. Several characterizations of these modules and connections with silting modules are presented. We prove that Bazzoni theorem about the pure-injectivity of cotilting modules is also valid for cosilting modules.

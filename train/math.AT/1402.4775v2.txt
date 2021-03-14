@@ -1,0 +1,1 @@
+Working in the context of symmetric spectra, we prove higher homotopy excision and higher Blakers-Massey theorems, and their duals, for algebras and left modules over operads in the category of modules over a commutative ring spectrum (e.g., structured ring spectra).

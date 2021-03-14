@@ -1,0 +1,1 @@
+This paper concerns a formula which relates the Lefschetz number L(f) for a map f:M --> M' to the fixed point index I(f) summed with the fixed point index of a derived map on part of the boundary of M. Here M is a compact manifold and M' is M with a collar attached.

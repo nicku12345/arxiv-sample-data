@@ -1,0 +1,1 @@
+We study the surface plasmon modes of an arbitrarily shaped nanoparticle in the electrostatic limit. We first deduce an eigenvalue equation for these modes, expressed in terms of the Dirichlet-Neumann operators. We then use the properties of these pseudo-differential operators for deriving the limit of the high-order modes.

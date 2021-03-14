@@ -1,0 +1,1 @@
+Pulling back the weight system associated with the exceptional Lie algebra G_2 by a modification of the universal Vassiliev-Kontsevich invariant yields a link invariant; extending it to 3-nets, we derive a recursive algorithm for its evaluation.

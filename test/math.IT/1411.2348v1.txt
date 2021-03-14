@@ -1,0 +1,1 @@
+We introduce the new concept of joint nonlinear complexity for multisequences over finite fields and we analyze the joint nonlinear complexity of two families of explicit inversive multisequences. We also establish a probabilistic result on the behavior of the joint nonlinear complexity of random multisequences over a fixed finite field.

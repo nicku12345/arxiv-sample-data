@@ -1,0 +1,1 @@
+Let R be a smooth affine domain of dimension d\geq 2 over an infinite perfect field k. We establish a morphism from the Euler class group E^d(R) to Um_{d+1}(R)/E_{d+1}(R), the group of elementary orbits of unimodular rows.

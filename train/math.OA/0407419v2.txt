@@ -1,0 +1,1 @@
+Sufficient conditions for existence of a faithful representation of a *-algebra in terms of its G\"obner basis is presented. Proposed construction of faithful representation is applicable to concrete examples: *-doubles, monomial *-algebras, extension of a *-algebras allowing Wick ordering and others. Several examples and counterexamples are presented.

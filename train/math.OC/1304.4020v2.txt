@@ -1,0 +1,1 @@
+This supplement illustrates application of adaptive observer design from (Tyukin et al, 2013) for systems which are not uniquely identifiable. It also provides an example of adaptive observer design for a magnetic bearings benchmark system (Lin, Knospe, 2000).

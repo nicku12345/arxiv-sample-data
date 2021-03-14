@@ -1,0 +1,1 @@
+Given a CW-complex A we define an `A-shaped' homology theory which behaves nicely towards A-homotopy groups allowing the generalization of many classical results. We also develop a relative version of the Federer spectral sequence for computing A-homotopy groups. As an application we derive a generalization of the Hopf-Whitney theorem.

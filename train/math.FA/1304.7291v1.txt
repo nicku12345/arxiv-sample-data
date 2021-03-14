@@ -1,0 +1,1 @@
+We prove existence of extremal functions for some Rellich-Sobolev type inequalities involving the L^{2} norm of the Laplacian as a leading term and the L^{2} norm of the gradient, weighted with a Hardy potential. Moreover we exhibit a breaking symmetry phenomenon when the nonlinearity has a growth close to the critical one and the singular potential increases in strength.

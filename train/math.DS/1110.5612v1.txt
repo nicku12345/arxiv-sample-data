@@ -1,0 +1,1 @@
+We obtain properties of the pairwise sensitive homeomorphisms defined in \cite{cj}. For instance, we prove that their sets of points with converging semi-orbits have measure zero, that such homeomorphisms do not exist in a compact interval and, in the circle, they are the Denjoy ones. Applications including alternative proofs of well-known facts in expansive systems are given.

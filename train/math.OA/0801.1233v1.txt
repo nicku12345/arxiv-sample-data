@@ -1,0 +1,1 @@
+We establish a Galois correspondence for a minimal action of a compact quantum group {\mathbb G} on a von Neumann factor M. This extends the result of Izumi, Longo and Popa who treated the case of a Kac algebra. Namely, there exists a one-to-one correspondence between the lattice of left coideals of {\mathbb G} and that of intermediate subfactors of M^{\mathbb G}\subset M.

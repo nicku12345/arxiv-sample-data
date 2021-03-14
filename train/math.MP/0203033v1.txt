@@ -1,0 +1,1 @@
+The goal of this paper is to give acomplete description of the Lagrange functions L satisfying \cal E (L)=0. In other words we shall study the kernel of the linear mapping \cal L (J^1) \ni L \to \cal E (L) \in \Omega^1(J^2), which will be referred to as the Euler mapping.

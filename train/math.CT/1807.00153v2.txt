@@ -1,0 +1,1 @@
+The goal of this article is to emphasize the role of cubical sets in enriched categories theory and infinity-categories theory. We show in particular that categories enriched in cubical sets provide a convenient way to describe many infinity-categories appearing in the context of homological algebra.

@@ -1,0 +1,1 @@
+For a particular class of Galois structures, we prove that the normal extensions are precisely those extensions that are "locally" split epic and trivial, and we use this to prove a "Galois theorem" for normal extensions. Furthermore, we interpret the normalisation functor as a Kan extension of the trivialisation functor.

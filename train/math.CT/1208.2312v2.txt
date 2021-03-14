@@ -1,0 +1,1 @@
+We introduce the notion of the Drinfeld dual of an algebra and show that Hall algebras defined by Kontsevich-Soibelman in \cite{KS} are the Drinfeld duals of derived Hall algebras defined in \cite{Toen2005} and \cite{XX2006}. Moreover, we construct the motivic analogue of a derived Hall algebra and prove that it is isomorphic to the motivic Hall algebra constructed in \cite{KS}.

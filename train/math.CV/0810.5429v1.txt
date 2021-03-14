@@ -1,0 +1,1 @@
+We consider a compact complex manifold M, and introduce the notion of two holomorphic Banach bundles E,F over M being compact perturbations of one another. Given two such bundles we show that if the cohomology groups H^q(M,E) are finite dimensional then so are the cohomology groups H^q(M,F); as well as a more precise result in the same spirit.

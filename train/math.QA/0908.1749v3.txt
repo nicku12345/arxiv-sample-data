@@ -1,0 +1,1 @@
+We give a fast algorithm for computing the canonical basis of an irreducible highest-weight module for U_q(\hat{\mathfrak{sl}}_e), generalising the LLT algorithm.

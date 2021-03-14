@@ -1,0 +1,1 @@
+An inaccessible cardinal \kappa is supercompact when (\kappa, \lambda)-ITP holds for all \lambda\geq \kappa. We prove that if there is a model of \ZFC with two supercompact cardinals, then there is a model of \ZFC where simultaneously (\aleph_2, \mu)-ITP and (\aleph_3, \mu')-ITP hold, for all \mu\geq \aleph_2 and \mu'\geq \aleph_3.

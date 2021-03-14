@@ -1,0 +1,1 @@
+A common fixed point property for semigroups is applied to show that the group algebra L^1(G) of a locally compact group G is 2m-weakly amenable for each integer m\geq 1.

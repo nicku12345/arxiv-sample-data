@@ -1,0 +1,1 @@
+Let A be an abelian variety over C such that the semisimple part of the Hodge group of A is a product of copies of SU(p,1) for some p>1. We show that any effective Tate twist of a Hodge structure occurring in the cohomology of A is isomorphic to a Hodge structure in the cohomology of some abelian variety.

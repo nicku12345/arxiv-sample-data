@@ -1,0 +1,1 @@
+We find all subsets of \mathbb{N} which occur as the set of possible cardinalities of preimages of a continuous function. We also study and answer this question for various subclasses of continuous functions.

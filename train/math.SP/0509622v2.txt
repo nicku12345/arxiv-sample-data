@@ -1,0 +1,1 @@
+We prove high energy estimates for the boundary values of the weighted resolvent of the Laplacian on an asymptotically hyperbolic manifold. Our point is to use weights that fit the pseudo-differential calculus associated with the asymptotically hyperbolic geometry. Our proof is a combination of a trick using Mourre theory and of results by Froese-Hislop and Cardoso-Vodev.

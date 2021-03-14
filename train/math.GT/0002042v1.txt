@@ -1,0 +1,1 @@
+We prove that Stein surfaces with boundary coincide up to orientation preserving diffeomorphisms with simple branched coverings of \B^4 whose branch set is a positive braided surface. As a consequence, we have that a smooth oriented 3-manifold is Stein fillable iff it has a positive open-book decomposition.

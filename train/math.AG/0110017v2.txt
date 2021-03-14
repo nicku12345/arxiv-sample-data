@@ -1,0 +1,1 @@
+We prove that a fibration X \to \Bbb P_1, the general fiber of which is a smooth Fano threefold, is rationally connected. The proof is based on a generalization of Tsen's classical theorem: a fibration X/C over a curve the general fiber of which is a Fano complete intersection in a product of weighted projective spaces has a section.

@@ -1,0 +1,1 @@
+In this paper, we study some of the basic properties of persistent homotopy. We show that persistent fundamental group benefits from the Van Kampen theorem and the interleaving distance between total spaces is the maximum of the interleaving distances between subspaces. Moreover, we prove excision and Hurewicz theorems for persistent homotopy groups.

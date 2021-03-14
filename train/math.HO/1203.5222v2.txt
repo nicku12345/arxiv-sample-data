@@ -1,0 +1,1 @@
+We shed new light on Heisenberg's uncertainty principle in the sense of Beurling, by offering an essentially different proof which permits us to weaken the assumptions substantially, and examples show that the result is sharp. The proof involves Fourier and Mellin transforms. We alo extend to a setting of two functions. A higher-dimensional analogue is considered as well.

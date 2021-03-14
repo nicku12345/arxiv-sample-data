@@ -1,0 +1,1 @@
+We study homological properties of test modules that are, in principle, modules that detect finite homological dimensions. The main outcome of our results is a generalization of a classical theorem of Auslander and Bridger: we prove that, if a commutative Noetherian complete local ring R admits a test module of finite Gorenstein dimension, then R is Gorenstein.

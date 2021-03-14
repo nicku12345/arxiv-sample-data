@@ -1,0 +1,1 @@
+Alexander polynomials of sextics with only simple singularities or sextics of torus type with arbitrary singularities are computed. We show that for ieeducible sextics,there are four possibilities: (t^2-t+1)^j, j=0,1,2,3.

@@ -1,0 +1,1 @@
+We prove a technical lemma, the C^{1+\alpha }-Denjoy-Koebe distortion lemma, estimating the distortion of a long composition of a C^{1+\alpha } one-dimensional mapping f:M\mapsto M with finitely many, non-recurrent, power law critical points. The proof of this lemma combines the ideas of the distortion lemmas of Denjoy and Koebe.

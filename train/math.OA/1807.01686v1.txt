@@ -1,0 +1,1 @@
+In this note we extend the construction of a C^*-algebra associated to a self-similar graph to the case of arbitrary countable graphs. We reduce the problem to the row-finite case with no sources, by using a desingularization process. Finally, we characterize simplicity in this case.

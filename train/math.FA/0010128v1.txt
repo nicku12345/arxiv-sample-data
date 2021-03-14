@@ -1,0 +1,1 @@
+We show that for a sequence in a Banach space, the property of being stable under large perturbations characterizes the property of being equivalent to the unit vector basis of l_1. We show that a normalized unconditional basic sequence in l_1 that is semi-normalized in l_\infty is equivalent to the standard unit vector basis of~l_1.

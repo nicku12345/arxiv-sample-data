@@ -1,0 +1,1 @@
+We present in the context of Gorenstein homological algebra the notion of a "G-Gorenstein complex" as the counterpart of the classical notion of a Gorenstein complex. In particular, we investigate equivalences between the category of G-Gorenstein complexes of fixed dimension and the G-class of modules.

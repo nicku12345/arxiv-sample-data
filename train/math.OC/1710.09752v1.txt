@@ -1,0 +1,1 @@
+In this paper, a new approach based on convex analysis is introduced to solve the H_\infty problem for discrete-time nonlinear stochastic systems. A stochastic version of bounded real lemma is proved and the state feedback H_\infty control is studied. Two examples are presented to show the effectiveness of our developed theory.

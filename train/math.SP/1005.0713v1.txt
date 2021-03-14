@@ -1,0 +1,1 @@
+We consider pointwise semiclassical spectral asymptotics i.e. asymptotics of e(x,x,0) as h\to +0 where e(x,y,\tau) is the Schwartz kernel of the spectral projector and consider two cases when schort loops give contribution above O(h^{1-d}): (i) Schroedinger operator in dimensions 1,2 as potential V=0\implies \nabla V\ne 0; (ii) Operators near boundaries.

@@ -1,0 +1,1 @@
+The representation category \mathcal{A} = Rep(G,\epsilon) of a supergroup scheme G has a largest proper tensor ideal, the ideal \mathcal{N} of negligible morphisms. If we divide \mathcal{A} by \mathcal{N} we get the semisimple representation category of a pro-reductive supergroup scheme G^{red}. We list some of its properties and determine G^{red} in the case GL(m|1).

@@ -1,0 +1,1 @@
+The aim of this paper is to study linear preservers of the trace of Kronecker sums and their connection with preservers of determinants of Kronecker products. The partial trace and partial determinant play a fundamental role in characterizing the preservers of the trace of Kronecker sums and preservers of the determinant of Kronecker products respectively.

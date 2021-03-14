@@ -1,0 +1,1 @@
+The feasibility conditions obtained in a previous report are refined, and used to determine several infinite families of feasible parameters for strongly regular graphs with no triangles. The methods are also used to improve the lower bound for the number of vertices, and to derive yet another interpretation of the Krein bound.

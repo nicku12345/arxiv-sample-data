@@ -1,0 +1,1 @@
+We introduce an exact functor defined on multigraded modules which we call the expansion functor and study its homological properties. The expansion functor applied to a monomial ideal amounts to substitute the variables by monomial prime ideals and to apply this substitution to the generators of the ideal. This operation naturally occurs in various combinatorial contexts.

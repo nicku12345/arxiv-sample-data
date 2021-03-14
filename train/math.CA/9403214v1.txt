@@ -1,0 +1,1 @@
+Generalized Jacobi polynomials are orthogonal polynomials related to a weight function which is smooth and positive on the whole interval of orthogonality up to a finite number of points, where algebraic singularities occur. The influence of these singular points on the asymptotic behaviour of the recurrence coefficients is investigated.

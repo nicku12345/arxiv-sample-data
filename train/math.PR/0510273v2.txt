@@ -1,0 +1,1 @@
+Suppose F is a distribution on the half-line [0,\infty). We study the limits of the ratios of tails \bar{F*F}(x)/\bar{F}(x) as x\to\infty. We also discuss the classes of distributions {\mathcal{S}}, {\mathcal{S}}(\gamma) and {\mathcal{S}}^*.

@@ -1,0 +1,1 @@
+We survey work on the topology of the space AH(M) of all (marked) hyperbolic 3-manifolds homotopy equivalent to a fixed compact 3-manifold M with boundary. The interior of AH(M) is quite well-understood, but the topology of the entire space can be quite complicated. However, the topology is well-behaved at many points in the boundary of AH(M).

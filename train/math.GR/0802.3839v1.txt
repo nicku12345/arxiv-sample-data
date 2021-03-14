@@ -1,0 +1,1 @@
+We prove that the problems of deciding whether a quadratic equation over a free group has a solution is NP-complete.

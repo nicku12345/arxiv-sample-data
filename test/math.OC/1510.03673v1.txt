@@ -1,0 +1,1 @@
+In this paper, we derive a bang-bang property of a kind of time optimal control problem for some semilinear heat equation on bounded C^2 domains (of the Euclidean space), with homogeneous Dirichlet boundary condition and controls distributed on an open and non-empty subset of the domain where the equation evolves.

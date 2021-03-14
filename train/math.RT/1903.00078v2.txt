@@ -1,0 +1,1 @@
+We prove Lusztig's conjectures P1-P15 for Coxeter groups with complete graph, using deceasing induction on  \mathbf{a} -values and a kind of decomposition formula of Kazhdan-Lusztig basis elements. As a byproduct, we give a description of the left, right, and two-sided cells. In the appendix, we prove P1-P15 for right-angled Coxeter groups by the same methods.

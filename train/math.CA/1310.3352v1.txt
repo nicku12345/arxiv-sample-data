@@ -1,0 +1,1 @@
+We obtain L^p(w) bounds for the Carleson operator {\mathcal C} in terms of the A_q constants [w]_{A_q} for 1\le q\le p. In particular, we show that, exactly as for the Hilbert transform, \|{\mathcal C}\|_{L^p(w)} is bounded linearly by [w]_{A_q} for 1\le q<p. Our approach works in the general context of maximally modulated Calder\'on-Zygmung operators.

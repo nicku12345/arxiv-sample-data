@@ -1,0 +1,1 @@
+We consider manifolds M^{2n} which admit smooth maps into a connected sum of S^1\times S^n with only finitely many critical points, for n\in\{2,4,8\}, and compute the minimal number of critical points.

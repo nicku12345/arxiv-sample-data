@@ -1,0 +1,1 @@
+For a finite free and projective EI category, we prove that Gorenstein-projective modules over its category algebra are closed under the tensor product if and only if each morphism in the given category is a monomorphism.

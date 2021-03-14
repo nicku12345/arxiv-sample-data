@@ -1,0 +1,1 @@
+The purpose of this contribution is to give a very brief introduction to Quantum Mechanics for an audience of mathematicians. I will follow Segal's approach to Quantum Mechanics paying special attention to algebraic issues. The usual representation of Quantum Mechanics on Hilbert spaces is also discussed.

@@ -1,0 +1,1 @@
+We investigate the mathematics behind 1500 year old root extraction methods presented by Aryabhata in his famous mathematical treatise "Aryabhatiya". Also, we look at their computational complexity.

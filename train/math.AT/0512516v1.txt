@@ -1,0 +1,1 @@
+In this paper we study the algebra monomorphisms from A_m =R^(2^m) into A_n=R^(2^n) for 0<m<n where the A_k 's are the Cayley- Dickson algebras over the real numbers. We show that for m>2 there are many different types of monomorphisms and we describe them in terms of the zero divisors in A_n.

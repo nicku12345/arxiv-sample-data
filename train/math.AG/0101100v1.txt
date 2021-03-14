@@ -1,0 +1,1 @@
+Given a smooth and projective curve C and a smooth and projective toric variety X, we first describe a compactification of the space of morphisms from C to X representing a fixed homology class, and after we study the intersection theory on this variety.

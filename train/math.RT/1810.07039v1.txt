@@ -1,0 +1,1 @@
+Li-Nadler proposed a conjecture about traces of Hecke categories, which implies the semistable part of the Betti Geometric Langlands Conjecture of Ben-Zvi-Nadler in genus 1. We prove a Weyl group analogue of this conjecture. Our theorem holds in the natural generality of reflection groups in Euclidean or hyperbolic space.

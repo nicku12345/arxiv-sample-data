@@ -1,0 +1,1 @@
+We show that an adaptation of Landrock's Lemma for symmetric algebras also holds for cellular algebras and BGG algebras. This is a result relating the radical layers of any two projective modules. The reason it holds in our setting is that there is a duality between injective hulls and projective covers. As a corollary we deduce that BGG reciprocity respects Loewy structure.

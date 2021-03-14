@@ -1,0 +1,1 @@
+We investigate a method for producing concrete convex-transitive Banach spaces. The gist of the method is in getting rid of dissymmetries of a given space by taking a carefully chosen quotient. The spaces of interest here are typically Banach algebras and their ideals. We also investigate the convex-transitivity of ultraproducts and tensor products of Banach spaces.

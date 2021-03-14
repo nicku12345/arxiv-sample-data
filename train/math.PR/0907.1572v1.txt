@@ -1,0 +1,1 @@
+Let  \{W(t), t\ge 0\} be a standard Brownian motion. If I is a bounded interval on which W  has no zero, an almost sure lower bound to \inf\{|W(t)|, t\in I\} can be provided, when I is taken from a given countable family of intervals covering the positive half-line.

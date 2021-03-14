@@ -1,0 +1,1 @@
+This paper initiates the study of 2-local derivations on Lie algebras over fields of prime characteristic. Let \mathfrak{g} be a simple Jacobson-Witt algebra W_n over a field of prime characteristic p with cardinality no less than p^n. In this paper, we study properties of 2-local derivations on \mathfrak{g}, and show that every 2-local derivation on \mathfrak{g} is a derivation.

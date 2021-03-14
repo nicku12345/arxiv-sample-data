@@ -1,0 +1,1 @@
+We combine the Riemann-Hilbert approach with the techniques of Banach algebras to obtain an extension of Baxter's Theorem for polynomials orthogonal on the unit circle. This is accomplished by using the link between the negative Fourier coefficients of the scattering function and the coefficients in the recurrence formula satisfied by these polynomials.

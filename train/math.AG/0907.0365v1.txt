@@ -1,0 +1,1 @@
+Let C be a generic curve, E a generic vector bundle on C.   Then, for every line bundle on C the twisted Petri map   P:H^0(C,L\otimes E)\otimes H^0(C, K\otimes L^*\otimes E^{*})--> H^0(C, K) is injective.

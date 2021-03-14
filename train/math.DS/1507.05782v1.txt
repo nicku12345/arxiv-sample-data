@@ -1,0 +1,1 @@
+We introduce a random dynamical system related to continued fraction expansions. It uses random combination of the Gauss map and the R\'enyi (or backwards) continued fraction map. We explore the continued fraction expansions that this system produces as well as the dynamical properties of the system.

@@ -1,0 +1,1 @@
+We prove that there exists a k_0>0 such that every sufficiently large odd integer n with 3\mid n can be represented as p_1+p_2+p_3, where p_1,p_2 are Chen's primes and p_3 is a prime with p_3+2 has at most k_0 prime factors.

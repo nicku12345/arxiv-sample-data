@@ -1,0 +1,1 @@
+We construct a Grothendieck-Witt space for any stable infinity category with duality. If we apply our construction to perfect complexes over a commutative ring in which 2 is invertible we recover the classical Grothendieck-Witt space. Our Grothendieck-Witt space is a grouplike E-infinity space which is part of a genuine C_2-spectrum, the connective real K-theory spectrum.

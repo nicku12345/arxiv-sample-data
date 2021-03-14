@@ -1,0 +1,1 @@
+The concept of big homotopy theory was introduced by J. Cannon and G. Conner using big intervals of arbitrarily large cardinality to detect big loops. We find, for each space, a canonical cardinal that is sufficient to detect all big loops and all big homotopies in the space.

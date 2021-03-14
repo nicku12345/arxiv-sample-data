@@ -1,0 +1,1 @@
+The area of a convex projective surface of genus g\ge 2 is at least (g-1)\pi^2/2+\|\tau\|^2/8 where \tau=(\log t_i) is the vector of triangle invariants of Bonahon-Dreyer and t_i are the Fock-Goncharov triangle coordinates.

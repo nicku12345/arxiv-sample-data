@@ -1,0 +1,1 @@
+In this paper, we consider the robust adaptive non parametric estimation problem for the drift coefficient in diffusion processes. An adaptive model selection procedure, based on the improved weighted least square estimates, is proposed. Sharp oracle inequalities for the robust risk have been obtained.

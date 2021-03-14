@@ -1,0 +1,1 @@
+Let d_3 >= p_2 > p_1 >= 3 be integers such that p_1,p_2 are prime numbers. In this paper we show that the sequence (p_1,p_2,d_3) is the multidegree of some tame automorphisms of C^3 if and only if d_3 is in p_1*N+p_2*N, i.e. if and only if d_3 is a linear combination of p_1 and p_2 with coefficients in N.

@@ -1,0 +1,1 @@
+In the infinite-horizon and discrete-time framework we establish maximum principles of Pontryagin under assumptions which weaker than these ones of existing results. We avoid several assumptions of continuity and of Fr{\'e}chet-differentiability and of linear independence. MSC 2010: 49J21, 65K05, 39A99.

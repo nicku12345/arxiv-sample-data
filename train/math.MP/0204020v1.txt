@@ -1,0 +1,1 @@
+The methods of statistical dynamics are applied to a fluid with 5 conserved fields (the mass, the energy, and the three components of momentum) moving in a given external potential. When the potential is zero, we recover a previously derived system of parabolic differential equations, called "corrections to fluid dynamics".

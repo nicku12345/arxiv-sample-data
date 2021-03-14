@@ -1,0 +1,1 @@
+In this note we settle some technical questions concerning finite rank quasi-free Hilbert modules and develop some useful machinery. In particular, we provide a method for determining when two such modules are unitarily equivalent. Along the way we obtain representations for module maps and study how to determine the underlying holomorphic structure on such modules.

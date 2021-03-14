@@ -1,0 +1,1 @@
+We define, in a purely algebraic way, 1-motives Alb^{+}(X), Alb^{-}(X), Pic^{+}(X) and Pic^{-}(X) associated with any algebraic scheme X over an algebraically closed field of characteristic zero. For X over \C of dimension n the Hodge realizations are, respectively, H^{2n-1}(X)(n), H_{1}(X), H^{1}(X)(1) and H_{2n-1}(X)(1-n).

@@ -1,0 +1,1 @@
+We extend the square of white noise algebra over the step functions on R to the test function space of bounded square-integrable functions on R^d, and we show that in the Fock representation the exponential vectors exist for all test functions bounded by 1/2.

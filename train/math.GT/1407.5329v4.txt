@@ -1,0 +1,1 @@
+Nous donnons une m\'ethode naturelle, que nous appelons {\it "la m\'ethode des fa\c{c}ons"} pour stratifier la vari\'et\'e asymptotique associ\'ee \`a une application polynomiale dominante F: \mathbb{C}^n \to \mathbb{C}^n. La stratification obtenue est diff\'erentiable et satisfait la propri\'et\'e de fronti\`ere.

@@ -1,0 +1,1 @@
+Our object of study is non smooth vector fields on \R^2. We apply the techniques of geometric singular perturbations in non smooth vector fields after regularization and a blow-up. In this way we are able to bring out some results that bridge the space between non-smooth dynamical systems presenting typical singularities and singularly perturbed smooth systems.

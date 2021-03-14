@@ -1,0 +1,1 @@
+A constructive proof is given to the fact that any ergodic Markov chain can be realized as a random walk subject to a synchronizing road coloring. Redundancy (ratio of extra entropy) in such a realization is also studied.

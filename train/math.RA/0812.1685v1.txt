@@ -1,0 +1,1 @@
+We introduce strong group coalgebras, as a generalization of strongly graded coalgebras. We give several characterizations, and study two special types of strong group coalgebras, namely cleft group algebras (or crossed coproduct group coalgebras) and smash coproduct group coalgebras.

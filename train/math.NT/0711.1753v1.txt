@@ -1,0 +1,1 @@
+We prove that for any real polynomial f(x) \in\mathbb{R} [x] the set  \{\alpha \in \mathbb{R}: \liminf_{n\to \infty} n\log n ||\alpha f(n)|| >0\}  has positive Hausdorff dimension. Here ||\xi || means the distance from \xi  to the nearest integer. Our result is based on an original method due to Y. Peres and W. Schlag.

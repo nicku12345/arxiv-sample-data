@@ -1,0 +1,1 @@
+Any function F : {0,...,N-1} -> {-1,1} such that F(x) can be computed from the binary digits of x using a bounded depth circuit is orthogonal to the Mobius function mu in the sense that E_{0 <= x <= N-1} mu(x)F(x) = o(1). The proof combines a result of Linial, Mansour and Nisan with techniques of Katai and Harman-Katai, used in their work on finding primes with specified digits.

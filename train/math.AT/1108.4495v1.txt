@@ -1,0 +1,1 @@
+We define a chain map of the form \E(k)\otimes BA^{\otimes k}\longrightarrow BA, where \E is a combinatorial E_\infty-operad called the sequence operad, and BA is the bar complex of an \E-algebra A. We see that Steenrod-type operations derived from the chain map are equal to the corresponding operations on the cohomology of the based loop space under an isomorphism.

@@ -1,0 +1,1 @@
+We define covariantly a deformation of a given algebra, then we will see how it can be related to a deformation quantization of a class of observables in Quantum Field Theory. Then we will investigate the operator order related to this deformation quantization.

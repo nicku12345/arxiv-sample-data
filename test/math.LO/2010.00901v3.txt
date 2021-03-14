@@ -1,0 +1,1 @@
+We prove that the two-variable fragment of first-order logic has the weak Beth definability property. This makes the two-variable fragment a natural logic separating the weak and the strong Beth properties since it does not have the strong Beth definability property.

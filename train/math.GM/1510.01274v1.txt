@@ -1,0 +1,1 @@
+In this article, we reduce the unsolved problem of convergence of Collatz sequences to convergence of Collatz sequences of odd numbers that are divisible by 3. We give an elementary proof of the fact that a Collatz sequence does not increase monotonically. We define a unique reverse Collatz sequence and conjecture that this sequence always converges to a multiple of 3.

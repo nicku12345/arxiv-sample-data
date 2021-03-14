@@ -1,0 +1,1 @@
+We introduce a new class of C^*-algebras, which is a generalization of both graph algebras and homeomorphism C^*-algebras. This class is very large and also very tractable. We prove the so-called gauge-invariant uniqueness theorem and the Cuntz-Krieger uniqueness theorem, and compute the K-groups of our algebras.

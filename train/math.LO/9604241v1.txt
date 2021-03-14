@@ -1,0 +1,1 @@
+We continue the work of [KlSh:362] and prove that for lambda successor, a lambda-categorical theory T in L_{kappa^*, omega} is mu-categorical for every mu, mu <= lambda which is above the (2^{LS(T)})^+-beth cardinal.

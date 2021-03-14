@@ -1,0 +1,1 @@
+We prove that for any non-degenerate continuum K \subseteq \mathbb{R}^d there exists a rectifiable curve such that its intersection with K has Hausdorff dimension 1. This answers a question of B. Kirchheim.

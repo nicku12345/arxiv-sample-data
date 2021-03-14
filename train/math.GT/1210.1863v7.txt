@@ -1,0 +1,1 @@
+When approximating a space curve, it is natural to consider whether the knot type of the original curve is preserved in the approximant. This preservation is of strong contemporary interest in computer graphics and visualization. We establish a criterion to preserve knot type under approximation that relies upon pointwise convergence and convergence in total curvature.

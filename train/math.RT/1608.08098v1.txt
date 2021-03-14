@@ -1,0 +1,1 @@
+Inspired by the work [IMOg2], in this note, we prove that the pairwise orthogonal primitive idempotents of generic cyclotomic Birman-Murakami-Wenzl algebras can be constructed by consecutive evaluations of a certain rational function. In the appendix, we prove a similar result for generic cyclotomic Nazarov-Wenzl algebras.

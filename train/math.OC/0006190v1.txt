@@ -1,0 +1,1 @@
+This paper deals with fractional-order controlled systems and fractional-order controllers in the discrete domain. The mathematical description by the fractional difference equations and properties of these systems are presented. A practical example for modelling the fractional-order control loop is shown and obtained results are discussed in conclusion.

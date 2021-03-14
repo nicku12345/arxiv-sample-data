@@ -1,0 +1,1 @@
+We show that maximal operators formed by dilations of Mikhlin-H"ormander multipliers are typically not bounded on L^p(R^d). We also give rather weak conditions in terms of the decay of such multipliers under which L^p boundedness of the maximal operators holds.

@@ -1,0 +1,1 @@
+We introduce a new intrinsic metric in subdomains of a metric space and give upper and lower bounds for it in terms of well-known metrics. We also prove distortion results for this metric under quasiregular maps.

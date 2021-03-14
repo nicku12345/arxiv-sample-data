@@ -1,0 +1,1 @@
+We consider the Grope filtration of the classical knot concordance group that was introduced in a paper of Cochran, Orr and Teichner. Our main result is that successive quotients at each stage in this filtration have infinite rank. We also establish the analogous result for the Grope filtration of the concordance group of string links consisting of more than one component.

@@ -1,0 +1,1 @@
+We obtain an essentially optimal estimate for the moment of order 32/3 of the exponential sum having argument \alpha x^3+\beta x^2. Subject to modest local solubility hypotheses, we thereby establish that pairs of diagonal Diophantine equations, one cubic and one quadratic, possess non-trivial integral solutions whenever the number of variables exceeds 10.

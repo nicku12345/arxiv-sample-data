@@ -1,0 +1,1 @@
+We study monotonicity and 1-dimensional symmetry for positive solutions with algebraic growth of the following elliptic system: \[ \begin{cases} -\Delta u = -u v^2 & \text{in \R^N}\\ -\Delta v= -u^2 v & \text{in \R^N}, \end{cases} \] for every dimension N \ge 2. In particular, we prove a Gibbons-type conjecture proposed by H. Berestycki, T. C. Lin, J. Wei and C. Zhao.

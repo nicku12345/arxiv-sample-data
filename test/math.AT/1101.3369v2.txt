@@ -1,0 +1,1 @@
+We define a relative version of tiling cohomology for the purpose of comparing the topology of tiling spaces when one is a factor of the other. We illustrate this with examples, and outline a method for computing the cohomology of tiling spaces of finite type.

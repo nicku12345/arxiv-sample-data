@@ -1,0 +1,1 @@
+For any noncompact semisimple real Lie group G, we construct a group of affine transformations of its Lie algebra \mathfrak{g} whose linear part is Zariski-dense in \operatorname{Ad} G and which is free, nonabelian and acts properly discontinuously on \mathfrak{g}.

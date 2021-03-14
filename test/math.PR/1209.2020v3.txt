@@ -1,0 +1,1 @@
+We show that the asymptotic entropy of a random walk on a nonelementary hyperbolic group, with symmetric and bounded increments, is differentiable and we identify its derivative as a correlation. We also prove similar results for the rate of escape.

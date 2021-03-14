@@ -1,0 +1,1 @@
+We introduce a binary matroid M(IAS(G)) associated with a looped simple graph G. M(IAS(G)) classifies G up to local equivalence, and determines the delta-matroid and isotropic system associated with G. Moreover, a parametrized form of its Tutte polynomial yields the interlace polynomials of G.

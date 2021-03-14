@@ -1,0 +1,1 @@
+In this paper a class of new quantum groups is presented: deformed Yangians. They arise from rational solutions of the classical Yang-Baxter equation of the form c_2 /u + const . The universal quantum R-matrix for a deformed Yangian is described. Its image in finite-dimensional representaions of the Yangian gives new matrix rational solutions of the Yang-Baxter equation (YBE).

@@ -1,0 +1,1 @@
+Let \cal A be a Banach algebra. Then \cal A^{**} the second dual of \cal A is a Banach algebra with first (second) Arens product. We study the Arens products of \cal A^{4}(=({\cal A^{**}})^{**}). We found some conditions on \cal A^{**} to be a left ideal in \cal A^{4}. We found the biggest two sided ideal I of {\cal A}, in which I is a left (right) ideal of {\cal A}^{**}.

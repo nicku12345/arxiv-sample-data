@@ -1,0 +1,1 @@
+We establish new estimates for the constant J_a(k,\alpha) in the Brudnyi-Jackson inequality for approximation of f \in C[-1,1] by algebraic polynomials:    E_{n}^a (f) \le J_a(k, \alpha) \ \omega_k (f, \alpha \pi /n ), \quad \alpha >0    The main result of the paper implies the following inequalities    1/2< J_a (2k, \alpha) < 10, \quad n \ge 2k(2k-1), \quad   \alpha \ge 2 

@@ -1,0 +1,1 @@
+Given Poincare spaces M and X, we study the possibility of compressing embeddings of M x I in X x I down to embeddings of M in X. This results in a new approach to embedding in the metastable range both in the smooth and Poincare duality categories.

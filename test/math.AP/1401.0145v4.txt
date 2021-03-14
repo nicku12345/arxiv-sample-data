@@ -1,0 +1,1 @@
+The Cauchy problem for the Chern-Simons-Higgs system in the (2+1)-dimensional Minkowski space in temporal gauge is locally well-posed for low regularity initial data improving a result of Huh. The proof uses the bilinear space-time estimates in wave-Sobolev spaces by d'Ancona, Foschi and Selberg and takes advantage of a null condition.

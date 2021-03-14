@@ -1,0 +1,1 @@
+For a non-cyclic finite group X let \sigma(X) be the least number of proper subgroups of X whose union is X. Precise formulas or estimates are given for \sigma(S \wr C_{m}) for certain nonabelian finite simple groups S where C_m is a cyclic group of order m.

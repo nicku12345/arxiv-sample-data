@@ -1,0 +1,1 @@
+Let \mathcal E_n be the variety of all epigroups of index \le n. We prove that, for an arbitrary natural number n, the interval [\mathcal E_n, \mathcal E_{n+1}] of the lattice of epigroup varieties contains a chain isomorphic to the chain of real numbers with the usual order and an anti-chain of the cardinality continuum.

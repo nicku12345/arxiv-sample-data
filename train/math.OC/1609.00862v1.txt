@@ -1,0 +1,1 @@
+This paper presents new variants of the averaged alternating modified reflections (AAMR) method for the best approximation problem. Under a mild constraint qualification, we first show its weak convergence and then establish a convergence rate. Furthermore, under a standard interior-point-like condition, we show that the method has a finite termination property.

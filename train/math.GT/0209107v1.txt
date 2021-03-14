@@ -1,0 +1,1 @@
+We give an algorithm to find vertical essential tori in small Seifert fiber spaces with infinite fundamental groups. This implies that there are algorithms to decide whether a 3-manifold is a Seifert fiber space.

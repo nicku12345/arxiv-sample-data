@@ -1,0 +1,1 @@
+A fullerene graph is a cubic bridgeless planar graph with twelve 5-faces such that all other faces are 6-faces. We show that any fullerene graph on n vertices can be bipartized by removing O(sqrt{n}) edges. This bound is asymptotically optimal.

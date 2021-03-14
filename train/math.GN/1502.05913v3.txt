@@ -1,0 +1,1 @@
+This article introduces strongly near proximity, which represents a new kind of proximity called \emph{almost proximity}. A main result in this paper is the introduction of a hit-and-miss topology on {CL}(X), the hyperspace of nonempty closed subsets of X, based on the strongly near proximity.

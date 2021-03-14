@@ -1,0 +1,1 @@
+We apply the local structure theorem and the polar decomposition to a real spherical space Z=G/H and control the volume growth on Z. We define the Harish-Chandra Schwartz space on Z. We give a geometric criterion to ensure L^p-integrability of matrix coefficients on Z.

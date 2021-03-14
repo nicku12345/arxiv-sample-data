@@ -1,0 +1,1 @@
+In this paper, we construct a combinatorial algebra of partial isomorphisms that gives rise to a "projective limit" of the centers of the group algebras C[GL(n,Fq)]. It allows us to prove a GL(n,Fq)-analogue of an old theorem of Farahat and Higman regarding products of conjugacy classes of permutations.

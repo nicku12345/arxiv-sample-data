@@ -1,0 +1,1 @@
+Let \F be a field with a non-trivial involution c: \alpha \to \alpha^c. An element g \in {\rm GL}_n(\F) is called c-real if it is conjugate to (g^c)^{-1}. We prove that for n \geq 2, g \in {\rm GL}_n(\F) is c-real if and only if it has a representation in some unitary group of degree n over \F.

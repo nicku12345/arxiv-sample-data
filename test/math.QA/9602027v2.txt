@@ -1,0 +1,1 @@
+We prove Capelli type identities which involve the whole universal enveloping algebra U(gl(n)) and matrix elements of irreducible representations of the symmetric group. These identities generalize higher Capelli identities for the center of U(gl(n)) introduced in the author's paper \cite{Ok}. The main role in the proof play the Jucis-Murphy elements.

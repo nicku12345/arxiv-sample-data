@@ -1,0 +1,1 @@
+We establish sharp (H^1, L^{1,q}) and local (L \log^r L, L^{1,q}) mapping properties for rough one-dimensional multipliers. In particular, we show that the multipliers in the Marcinkiewicz multiplier theorem map H^1 to L^{1,\infty} and L \log^{1/2} L to L^{1,\infty}, and that these estimates are sharp.

@@ -1,0 +1,1 @@
+We introduce a new approach to constructing derived deformation groupoids, by considering them as parameter spaces for strong homotopy bialgebras. This allows them to be constructed for all classical deformation problems, such as deformations of an arbitrary scheme, in any characteristic.

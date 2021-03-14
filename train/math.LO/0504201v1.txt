@@ -1,0 +1,1 @@
+In this note we answer the following question of Grinblat:   Is it consistent that for some set X, cov(NULL restriction X)=lambda is a weakly inaccessible cardinal (so X not null of course) while cov(meagre) is small, say it is aleph_1.

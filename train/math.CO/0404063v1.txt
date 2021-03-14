@@ -1,0 +1,1 @@
+We give a Newton type rational interpolation formula (Theorem \ref{theo}).   It contains as a special case the original Newton interpolation, as well as the recent interpolation formula of Zhi-Guo Liu, which allows to recover many important classical q-series identities.   We show in particular that some bibasic identities are a consequence of our formula.

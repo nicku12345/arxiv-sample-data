@@ -1,0 +1,1 @@
+For each Painlev\'e system P_J except the first one, we have a B\"acklund transformation group which is a lift of an affine Weyl group. In this paper, we show that the B\"acklund transformation groups for J=V,IV,III,II are successively obtained from that for J=VI by the well known degeneration or confluence processes.

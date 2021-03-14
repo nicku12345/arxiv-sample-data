@@ -1,0 +1,1 @@
+We establish the integrability of the last open case in the Kozlov-Treshchev classification of Birkhoff integrable Hamiltonian systems. The technique used is a modification of the so called quadratic Lax pair for D_n Toda lattice combined with a method used by M. Ranada in proving the integrability of the Sklyanin case.

@@ -1,0 +1,1 @@
+Let G be a finite p-solvable group and P a Sylow p-subgroup of G. Suppose that \gamma_{l(p-1)}(P)\subseteq \gamma_r(P)^{p^s} for l(p-1)<r+s(p-1), then the p-length is bounded by a function depending on l.

@@ -1,0 +1,1 @@
+A stochastic heat equation on an unbounded nested fractal driven by a general stochastic measure is investigated. Existence, uniqueness and continuity of the mild solution are proved provided that the spectral dimension of the fractal is less than 4/3.

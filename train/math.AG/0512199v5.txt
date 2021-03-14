@@ -1,0 +1,1 @@
+Hypertoric varieties are determined by hyperplane arrangements. In this paper, we use stacky hyperplane arrangements to define the notion of hypertoric Deligne-Mumford stacks. Their orbifold Chow rings are computed. As an application, some examples related to crepant resolutions are discussed.

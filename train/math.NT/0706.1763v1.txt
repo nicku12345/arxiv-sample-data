@@ -1,0 +1,1 @@
+In this article we compute a discrete mean value of the derivative of the Riemann zeta function. This mean value will be important for several applications concerning the size of \zeta'(\rho) where \zeta(s) is the Riemann zeta function and \rho is a non-trivial zero of the Riemann zeta function.

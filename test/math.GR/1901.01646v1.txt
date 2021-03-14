@@ -1,0 +1,1 @@
+In this paper, string C-groups of all ranks 3 \leq r \leq \frac{n}{2} are provided for each alternating group A_n, n \geq 12. As the string C-group representations of A_n have also been classified for n \leq 11, and it is known that larger ranks are impossible, this paper provides the exact values of n for which A_n can be represented as a string C-group of a fixed rank.

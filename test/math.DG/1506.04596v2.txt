@@ -1,0 +1,1 @@
+We factorize harmonic maps with values in a semisimple Lie groups in a product of harmonic maps with values in the components of the Iwasawa decomposition. In particular, we use this factorization to study the harmonic maps from \mathbb{R}^n into SL(2,\mathbb{R}).

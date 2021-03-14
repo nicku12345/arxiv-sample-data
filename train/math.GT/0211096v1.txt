@@ -1,0 +1,1 @@
+The homology and cohomology of quandles and racks are used in knot theory: given a finite quandle and a cocycle, we can construct a knot invariant. This is a quick introductory survey to the invariants of knots derived from quandles and racks.

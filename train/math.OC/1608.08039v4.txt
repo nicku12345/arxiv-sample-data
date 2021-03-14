@@ -1,0 +1,1 @@
+In this note we construct minimax observers for linear stationary DAEs with bounded uncertain inputs, given noisy measurements. We prove a new duality principle and show that a finite (infinite) horizon minimax observer exists if and only if the DAE is \ell-impulse observable (\ell-detectable) . Remarkably, the regularity of the DAE is not required.

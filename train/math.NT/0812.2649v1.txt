@@ -1,0 +1,1 @@
+For an abelian extension of number fields we show that the Stark conjecture for all Artin L-functions with zero of order r is equivalent to existence of a special element in the rational span of the r-th exterior power of the Galois module of units of the bigger field.

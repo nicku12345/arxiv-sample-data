@@ -1,0 +1,1 @@
+If A is a compact operator in a Banach space and some power A^q is nuclear we give a criterion of \mathbb{Z}_{d} -- symmetry of its spectrum \sigma{A} in terms of vanishing of the traces \mathop{\mathit{Trace}} A^n for all n, n \geq 0, n \neq 0 \mod d, sufficiently large.

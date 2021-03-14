@@ -1,0 +1,1 @@
+We verify Dade's invariant conjecture for the simple Ree groups 2F4(2^{2n+1}) for all n > 0 in the defining characteristic, i.e., in characteristic 2. This completes the proof of Dade's conjecture for the simple Ree groups 2F4(2^{2n+1}).

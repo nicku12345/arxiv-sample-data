@@ -1,0 +1,1 @@
+We prove a novel type of inversion formula for elliptic hypergeometric integrals associated to a pair of root systems. Using the (A,C) inversion formula to invert one of the known C-type elliptic beta integrals, we obtain a new elliptic beta integral for the root system of type A. Validity of this integral is established by a different method as well.

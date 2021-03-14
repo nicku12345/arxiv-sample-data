@@ -1,0 +1,1 @@
+Let K be a subgroup of the inhomogeneous Hecke group G_5 of finite index. Suppose that the geometric level of K is r. Then K is congruence if and only if K contains the principal congruence subgroup of level 2r.

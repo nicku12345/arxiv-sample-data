@@ -1,0 +1,1 @@
+We provide an introduction of some basic facts of uniformly almost periodic functions, such as Fourier series representations. A result is then proved about Fourier coefficients which is a generalization of the purely periodic case. We then provide an application of our estimate to the Riemann-Zeta Function.

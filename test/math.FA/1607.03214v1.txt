@@ -1,0 +1,1 @@
+In this paper we discuss the structure of Orlicz spaces and weak Orlicz spaces on \mathbb{R}^n. We obtain some necessary and sufficient conditions for the inclusion property of these spaces. One of the keys is to compute the norm of the characteristic functions of the balls in \mathbb{R}^n.

@@ -1,0 +1,1 @@
+We describe the representations of (2,n)-semigroups, i.e. groupoids with n binary associative operations, by partial n-place functions and prove that any such representation is a union of some family of representations induced by Schein's determining pairs.

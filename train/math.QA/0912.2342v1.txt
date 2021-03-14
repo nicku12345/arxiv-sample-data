@@ -1,0 +1,1 @@
+We compute the number of points over finite fields of some algebraic varieties related to cluster algebras of finite type. More precisely, these varieties are the fibers of the projection map from the cluster variety to the affine space of coefficients.

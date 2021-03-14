@@ -1,0 +1,1 @@
+To verify the universal validity of the "two-sided" monotonicity condition introduced in [8], we will apply it to include more classical examples. The present paper selects the L^{p} convergence case for this purpose. Furthermore, Theorem 3 shows that our improvements are not trivial.

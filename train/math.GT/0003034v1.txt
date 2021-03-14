@@ -1,0 +1,1 @@
+Kirby and Lickorish showed that every knot in the 3-sphere is concordant to a prime knot, equivalently, every concordance class contains a prime knot. We prove here that their result can be strengthened: Every knot in the 3-sphere is invertibly concordant to a prime knot. A consequence is that every double concordance class contains a prime knot.

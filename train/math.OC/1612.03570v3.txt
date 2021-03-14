@@ -1,0 +1,1 @@
+In this paper, we provide a detailed analysis of the global convergence properties of an extensively studied and extremely effective fixed-point algorithm for the Kullback-Leibler approximation of spectral densities, proposed by Pavon and Ferrante in [Pavon and Ferrante, 2006]. Our main result states that the algorithm globally converges to one of its fixed points.

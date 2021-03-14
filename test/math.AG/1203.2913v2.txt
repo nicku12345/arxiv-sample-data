@@ -1,0 +1,1 @@
+A Fano surface of a smooth cubic threefold X in P^4 parametrizes the lines on X. In this note, we prove that a Fano surface satisfies the Tate conjecture over a field of finite type over the prime field and characteristic not 2.

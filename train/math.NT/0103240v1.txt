@@ -1,0 +1,1 @@
+Continuing on from recent results of Brumer-Kramer and of Schoof, we show that there exist non-zero semistable Abelian varieties over Z[1/N], with N squarefree, if and only if N is not in the set {1,2,3,5,6,7,10,13}. Our results are contingent on the GRH discriminant bounds of Odlyzko.

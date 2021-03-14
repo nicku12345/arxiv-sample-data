@@ -1,0 +1,1 @@
+Since their introduction in 1994, the Seiberg-Witten invariants have become one of the main tools used in 4-manifold theory. In this thesis, we will use these invariants to identify sufficient conditions for a 3-manifold to fibre over a circle. Additionally, we will construct several examples of genus 1 and 2 surface bundles and prove their total spaces are spin 4-manifolds.

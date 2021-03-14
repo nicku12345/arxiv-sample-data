@@ -1,0 +1,1 @@
+In this paper we study unique continuation theorems for magnetic Schr\"odinger equation via Carleman estimates. We use integration by parts techniques in order to show these estimates. We consider electric and magnetic potentials with strong singularities at the origin and some decay at infinity.

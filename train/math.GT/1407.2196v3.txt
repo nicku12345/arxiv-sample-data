@@ -1,0 +1,1 @@
+This paper will be an exposition of the Kauffman bracket polynomial model of the Jones polynomial, tangle methods for computing the Jones polynomial, and the use of these methods to produce non-trivial links that cannot be detected by the Jones polynomial.

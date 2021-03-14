@@ -1,0 +1,1 @@
+A discrepancy principle for solving nonlinear equations with monotone operators given noisy data is formulated. The existence and uniqueness of the corresponding regularization parameter a(\delta) is proved. Convergence of the solution obtained by the discrepancy principle is justified. The results are obtained under natural assumptions on the nonlinear operator.

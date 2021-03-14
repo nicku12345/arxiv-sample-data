@@ -1,0 +1,1 @@
+We prove that the simplicial complex whose simplices are the nonempty partial bases of \mathbb{F}_n is homotopy equivalent to a wedge of (n-1)-spheres. Moreover, we show that it is Cohen-Macaulay.

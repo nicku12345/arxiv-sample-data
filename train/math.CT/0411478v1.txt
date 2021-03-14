@@ -1,0 +1,1 @@
+In this paper we show that the Baues-Wirsching complex used to define cohomology of categories is a 2-functor from a certain 2-category of natural systems of abelian groups to the 2-category of chain complexes, chain homomorphism and relative homotopy classes of chain homotopies. As a consequence we derive (co)localization theorems for this cohomology.

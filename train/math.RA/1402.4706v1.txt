@@ -1,0 +1,1 @@
+We show that a ring R has stable range one if and only if every left unit lifts modulo every left principal ideal. We also show that a left quasi-morphic ring has stable range one if and only if it is left uniquely generated. Thus we answer in the affirmative the two questions raised recently by W. K. Nicholson.

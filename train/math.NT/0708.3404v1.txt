@@ -1,0 +1,1 @@
+We analyse and drastically improve the running time of the algorithm of Mazur, Stein and Tate for computing the canonical cyclotomic p-adic height of a point on an elliptic curve E/Q, where E has good ordinary reduction at p >= 5.

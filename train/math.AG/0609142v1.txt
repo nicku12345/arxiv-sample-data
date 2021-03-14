@@ -1,0 +1,1 @@
+We prove new instances of Simpson's rigidity conjecture which states that quasi-unipotent rigid local systems should be motivic. We construct new relative motives over the fourfold punctured Riemann sphere which give rise to G_2-rigid local systems which are not rigid in the group \GL_7.

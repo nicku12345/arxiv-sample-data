@@ -1,0 +1,1 @@
+Let R be a commutative noetherian ring. We consider the question of when n-syzygy modules over R are n-torsionfree in the sense of Auslander and Bridger. Our tools include Serre's condition and certain conditions on the local Gorenstein property of R. Our main result implies the converse of a celebrated theorem of Evans and Griffith.

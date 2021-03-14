@@ -1,0 +1,1 @@
+A subgroup \Delta\leq \Gamma is commensurated if |\Delta:\Delta\cap \gamma\Delta\gamma^{-1}|<\infty for all \gamma\in \Gamma. We show a finitely generated branch group is just infinite if and only if every commensurated subgroup is either finite or of finite index. As a consequence, every commensurated subgroup of the Grigorchuk group is either finite or finite index.

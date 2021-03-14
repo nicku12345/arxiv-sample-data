@@ -1,0 +1,1 @@
+This paper studies a multiclass queueing system with an associated risk- sensitive cost observed in heavy traffic at the moderate deviation scale, accounting for convex queue length penalties. The main result is the asymptotic optimality of a dynamic index policy known from the diffusion scale heavy traffic literature as the generalized c\mu- rule.

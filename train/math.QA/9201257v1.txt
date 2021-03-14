@@ -1,0 +1,1 @@
+We define two (n+1) graded Lie brackets on spaces of multilinear mappings. The first one is able to recognize n-graded associative algebras and their modules and gives immediately the correct differential for Hochschild cohomology. The second one recognizes n-graded Lie algebra structures and their modules and gives rise to the notion of Chevalley cohomology.

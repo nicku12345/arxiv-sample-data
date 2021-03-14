@@ -1,0 +1,1 @@
+We prove in a large number of cases, that a Zariski dense discrete subgroup of a simple real algebraic group G which contains a higher rank lattice is a lattice in the group G. For example, we show that a Zariski dense subgroup of SL_n({\mathbb R}) which contains SL_3({\mathbb Z}) in the top left hand corner, is conjugate to SL_n({\mathbb Z}) .

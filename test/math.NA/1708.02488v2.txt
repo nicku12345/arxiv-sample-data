@@ -1,0 +1,1 @@
+We obtain estimates of the multiplicative constants appearing in local convergence results of the Riemannian Gauss-Newton method for least squares problems on manifolds and relate them to the geometric condition number of [P. B\"urgisser and F. Cucker, Condition: The Geometry of Numerical Algorithms, 2013].

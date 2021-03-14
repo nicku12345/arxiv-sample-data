@@ -1,0 +1,1 @@
+The game of the Towers of Hanoi is generalized to binary trees. First, a straightforward solution of the game is discussed. Second, a shorter solution is presented, which is then shown to be optimal.

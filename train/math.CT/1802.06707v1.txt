@@ -1,0 +1,1 @@
+We develop the notion of deformation of a morphism in a left-proper model category. As an application we provide a geometric/homotopic description of deformations of commutative (non-positively) graded differential algebras over a local DG-Artin ring.

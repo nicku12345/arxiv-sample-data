@@ -1,0 +1,1 @@
+The goal of the present paper is to introduce a smaller, but equivalent version of the Deligne-Hinich-Getzler \infty-groupoid associated to a homotopy Lie algebra. In the case of differential graded Lie algebras, we represent it by a universal cosimplicial object.

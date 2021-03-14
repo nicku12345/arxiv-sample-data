@@ -1,0 +1,1 @@
+Inner functions are an important and popular object of study in the field of complex function theory. We look at meromorphic inner functions with a given spectrum and provide sufficient conditions for them to have uniformly bounded derivatives on the real line. This question was first studied by Louis de Brange in 1968 and was later revived by Anton Baranov in 2011.

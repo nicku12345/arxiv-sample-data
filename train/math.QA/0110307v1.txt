@@ -1,0 +1,1 @@
+Transformation formulas for four-parameter refinements of the q-trinomial coefficients are proven. The iterative nature of these transformations allows for the easy derivation of several infinite series of q-trinomial identities, and can be applied to prove many instances of Bressoud's generalized Borwein conjecture.

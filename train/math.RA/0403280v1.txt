@@ -1,0 +1,1 @@
+In this paper, we introduce a new concept of generalized matrix rings and build up the general theory of radicals for g.m.rings. Meantime, we obtain \bar{r}_b(A)=g.m.r_b(A)=\sum\{r_b(A_{ij})\mid i, j\in I\}=r_b(A)

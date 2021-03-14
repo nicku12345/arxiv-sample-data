@@ -1,0 +1,1 @@
+To study embeddings of tangles in knots, we use quandle cocycle invariants. Computations are carried out for the tables of knots and tangles, to investigate which tangles may or may not embed in knots in the tables.

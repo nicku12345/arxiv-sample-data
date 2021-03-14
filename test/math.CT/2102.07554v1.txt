@@ -1,0 +1,1 @@
+We prove a categorification of the stable elements formula of Cartan and Eilenberg. Our formula expresses the derived category and the stable module category of a group as a bilimit of the corresponding categories for the p-subgroups.

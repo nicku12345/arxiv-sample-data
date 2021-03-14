@@ -1,0 +1,1 @@
+We show that the problem of tiling the Euclidean plane with a finite set of polygons (up to translation) boils down to prove the existence of zeros of a non-negative convex function defined on a finite-dimensional simplex. This function is a generalisation, in the framework of branched surfaces, of the Thurston semi-norm originally defined for compact 3-manifolds.

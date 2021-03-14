@@ -1,0 +1,1 @@
+Here we characterize the linear operators that preserve rank of matrices over additively idempotent and multiplicatively cancellative semirings. The main results in this article generalize the corresponding results on the two element Boolean algebra and on the max algebra; and holds on max-plus algebra and some other tropical semirings.

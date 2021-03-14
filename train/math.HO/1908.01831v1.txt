@@ -1,0 +1,1 @@
+In this note, we offer a palatable introduction to the field of arithmetic dynamics. That is, we study the patterns that arise when iterating a polynomial map. This note is accessible to those who have taken an introductory proof based course and some linear algebra; the appendix utilizes abstract algebra.

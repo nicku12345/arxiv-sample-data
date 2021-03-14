@@ -1,0 +1,1 @@
+Seymour's Second Neighborhood Conjecture asserts that every digraph (without digons) has a vertex whose first out-neighborhood is at most as large as its second out-neighborhood. We prove its weighted version for tournaments missing a generalized star. As a consequence the weighted version holds for tournaments missing a sun, star, or a complete graph.

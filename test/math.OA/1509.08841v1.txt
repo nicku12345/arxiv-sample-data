@@ -1,0 +1,1 @@
+We show that finite rank perturbations of certain random matrices fit in the framework of infinitesimal (type B) asymptotic freeness. This can be used to explain the appearance of free harmonic analysis (such as subordination functions appearing in additive free convolution) in computations of outlier eigenvalues in spectra of such matrices.

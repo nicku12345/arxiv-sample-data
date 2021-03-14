@@ -1,0 +1,1 @@
+In discrete time, \ell-blocks of red lights are separated by \ell-blocks of green lights. Cars arrive at random. The maximum line length of idle cars is fully understood for \ell = 1, but only partially for 2 \leq \ell \leq 3.

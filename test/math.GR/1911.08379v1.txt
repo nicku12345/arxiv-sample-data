@@ -1,0 +1,1 @@
+We show that a finite group G admitting an automorphism \alpha such that the function G\rightarrow G, g\mapsto g\alpha(g), is bijective is necessarily solvable.

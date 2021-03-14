@@ -1,0 +1,1 @@
+The evaluation of iterated primitives of powers of logarithms is expressed in closed form. The expressions contain polynomials with coefficients given in terms of the harmonic numbers and their generalizations. The logconcavity of these polynomials is established.

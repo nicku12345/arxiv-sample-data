@@ -1,0 +1,1 @@
+For a classical group G over a field F together with a finite-order automorphism \theta that acts compatibly on F, we describe the fixed point subgroup of \theta on G and the eigenspaces of \theta on the Lie algebra \mathfrak{g} in terms of cyclic quivers with involution. More precise classification is given when \mathfrak{g} is a loop Lie algebra, i.e., when F=\mathbb{C}((t)).

@@ -1,0 +1,1 @@
+We show how multifractal properties of a measure supported by a fractal F contained in [0,1] may be expressed in terms of complementary intervals of F and thus in terms of spectral triples and the Dixmier trace of certain operators. For self-similar measures this leads to a noncommutative integral over F equivalent to integration with respect to an auxilary multifractal measure.

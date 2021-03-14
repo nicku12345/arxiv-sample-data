@@ -1,0 +1,1 @@
+We give a distance estimate for the metric on the disk complex and show that it is Gromov hyperbolic. As another application of our techniques, we find an algorithm which computes the Hempel distance of a Heegaard splitting, up to an error depending only on the genus.

@@ -1,0 +1,1 @@
+We prove that exterior powers of (skew-)symmetric bundles induce a \lambda-ring structure on the ring GW^0(X) \oplus GW^2(X), when X is a scheme where 2 is invertible. Using this structure, we define stable Adams operations on Hermitian K-theory. As a byproduct of our methods, we also compute the ternary laws associated to Hermitian K-theory.

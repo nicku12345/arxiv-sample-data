@@ -1,0 +1,1 @@
+Measurable sets are defined as those locally approximable, in a certain sense, by sets in the given algebra (or ring). A corresponding measure extension theorem is proved. It is also shown that a set is locally approximable in the mentioned sense if and only if it is Carath\'eodory-measurable.

@@ -1,0 +1,1 @@
+An algorithm is described giving effective determination of the second differential in the Adams spectral sequence. The algorithm is based on the notion of secondary derived functor, and on the explicit algebraic model of the groupoid enriched category of stable maps and stable tracks between Eilenberg-Mac Lane spaces.

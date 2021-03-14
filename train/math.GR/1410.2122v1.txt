@@ -1,0 +1,1 @@
+We implement GAP functions about groups with action on itself and investigate some basic properties of small groups with action on itself of order <32.

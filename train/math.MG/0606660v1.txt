@@ -1,0 +1,1 @@
+We prove that if G is a string C-group of rank 4 and G is isomorphic to L_2(q) with q a prime power, then q must be 11 or 19. The polytopes arising are Grunbaum's 11-cell of type {3,5,3} for L_2(11) and Coxeter's 57-cell of type {5,3,5} for L_2(19), each a locally projective regular 4-polytope.

@@ -1,0 +1,1 @@
+In this paper, we study a competitive model involving two species. When the competition is strong enough, the two species are separated by a free boundary. If the initial data has a positive bound at infinity. We prove that the solution will converge, as t\rightarrow \infty, to the traveling wave solution and the free boundary will move to infinity with a constant speed.

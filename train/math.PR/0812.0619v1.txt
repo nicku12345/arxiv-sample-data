@@ -1,0 +1,1 @@
+We consider the discrete "fast" penalization scheme for SDE's driven by general semimartingale on orthant \mathbb{R}_{+}^{d} with oblique reflection.

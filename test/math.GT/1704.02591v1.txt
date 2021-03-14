@@ -1,0 +1,1 @@
+An infinitary version of braid groups has been considered as a direct limit of n-braid groups. However, we can imagine more complicated braids with infinitely many strings. We invetisgate basic properties especially when the number of strings is countable.

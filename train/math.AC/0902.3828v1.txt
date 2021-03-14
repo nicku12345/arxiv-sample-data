@@ -1,0 +1,1 @@
+We study complexes of finite complete intersection dimension in the derived category of a local ring. Given such a complex, we prove that the thick subcategory it generates contains complexes of all possible complexities. In particular, we show that such a complex is virtually small, answering a question raised by Dwyer, Greenlees and Iyengar.

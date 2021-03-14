@@ -1,0 +1,1 @@
+Let G be a compact connected Lie group and H, the centralizer of a one-parameter subgroup in G. Combining the ideas of Bott-Samelson resulotions of Schubert varieties and the enumerative formula on a twisted products of 2-spheres obatained in {Du2], we obtain a closed formula for multiplying Schubert classes in the flag manifold G/H.

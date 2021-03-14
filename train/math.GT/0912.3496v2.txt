@@ -1,0 +1,1 @@
+For each g \ge 2, we prove existence of a computable constant \epsilon(g) > 0 such that if S is a strongly irreducible Heegaard surface of genus g in a complete hyperbolic 3-manifold M and \gamma is a simple geodesic of length less than \epsilon(g) in M, then \gamma is isotopic into S.

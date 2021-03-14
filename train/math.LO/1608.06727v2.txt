@@ -1,0 +1,1 @@
+Starting from a supercompact cardinal and a measurable above it, we construct a model of ZFC in which definable tree property holds at all uncountable regular cardinals. This answers a question from [1].

@@ -1,0 +1,1 @@
+We study the symbolic and regular powers of ideals I for a family of special configurations of lines in P^3. For this family, we show that I^(m) = I^m for all integers m if and only if I^(3) = I^3. We use these configurations to answer a question of Huneke that asks whether I^(m) = I^m for all m if equality holds when m equals the big height of the ideal I.

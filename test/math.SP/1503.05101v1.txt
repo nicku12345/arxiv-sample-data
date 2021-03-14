@@ -1,0 +1,1 @@
+We prove that, given any finite link L in R^3, there is a high energy complex-valued eigenfunction of the harmonic oscillator such that its nodal set contains a union of connected components diffeomorphic to L. This solves a problem of Berry on the existence of knotted zeros in bound states of a quantum system.

@@ -1,0 +1,1 @@
+We present a unifying framework for understanding several different versions of the Hopf fibration, and use this framework to reconcile two methods of representing rotations of 3-space by unitary matrices--the mathematician's convention based on quaternion algebra, and the physicist's convention based on the Bloch sphere.

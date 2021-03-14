@@ -1,0 +1,1 @@
+In the paper we present a functional-discrete method for solving the Goursat problem for nonlinear Klein-Gordon equation. The sufficient conditions providing that the proposed method converges superexponentially are obtained. The results of numerical example presented in the paper are in good agreement with the theoretical conclusions.

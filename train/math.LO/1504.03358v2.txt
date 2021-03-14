@@ -1,0 +1,1 @@
+In this paper, we construct an undecidable 3-variable superintuitionistic propositional calculus, i.e., a finitely axiomatizable extension of the intuitionistic propositional calculus with axioms containing only 3 variables. Since there are no 2-variable superintuitionistic propositional calculi, this is the minimal possible number of variables.

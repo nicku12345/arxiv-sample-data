@@ -1,0 +1,1 @@
+For the affine Hecke algebra of type A at roots of unity, we make explicit the correspondence between geometrically constructed simple modules and combinatorially constructed simple modules and prove the modular branching rule. The latter generalizes work by Vazirani.

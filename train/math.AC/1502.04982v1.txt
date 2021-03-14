@@ -1,0 +1,1 @@
+Let I and J be two ideals of a commutative Noetherian ring R and M be an R-module of dimension d. If R is a complete local ring and M is finite, then attached prime ideals of H^{d-1}_{I,J}(M) are computed by means of the concept of co-localization. Also, we illustrate the attached prime ideals of H^{t}_{I,J}(M) on a non-local ring R, for t= \dim M and t= cd(I,J,M).

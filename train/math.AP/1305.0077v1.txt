@@ -1,0 +1,1 @@
+We give a new proof of a classical uniqueness theorem of Alexandrov using the weak uniqueness continuation theorem of Bers-Nirenberg. We prove a version of this theorem with the minimal regularity assumption: the spherical hessians of the corresponding convex bodies as Radon measures are nonsingular.

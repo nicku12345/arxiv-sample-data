@@ -1,0 +1,1 @@
+We introduce completely bounded kernels taking values in L(A,B) where A and B are C*-algebras. We show that if B is injective such kernels have a Kolmogorov decomposition precisely when they can be scaled to be completely contractive, and that this is automatic when the index set is countable.

@@ -1,0 +1,1 @@
+In this paper, we introduced the concept of crossed module for Hom-Lie antialgebras. It is proved that the category of crossed modules for Hom-Lie antialgebras and the category of Cat^1-Hom-Lie antialgebras are equivalent to each other. The relationship between the crossed module extension of Hom-Lie antialgebras and the third cohomology group are investigated.

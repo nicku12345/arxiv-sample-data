@@ -1,0 +1,1 @@
+Building upon the author's previous work on primitivity testing of finite nilpotent linear groups over fields of characteristic zero, we describe precisely those finite nilpotent groups which arise as primitive linear groups over a given number field. Our description is based on arithmetic conditions involving invariants of the field.

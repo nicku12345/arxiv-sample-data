@@ -1,0 +1,1 @@
+In this note we prove a generalization of the Frobenius-Schur theorem for finite groups for the case of semisimple Hopf algebra over an algebraically closed field of characteristic 0. A similar result holds in characteristic p > 2 if the Hopf algebra is also cosemisimple. In fact we show a more general version for any finite-dimensional semisimple algebra with an involution.

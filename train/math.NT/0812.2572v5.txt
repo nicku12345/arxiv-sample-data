@@ -1,0 +1,1 @@
+We use the Graph Minor Theorem to characterize infinite sequences of finite subsets of factorial and commutative semigroups (here semigroups have a unity element), e.g. the multiplicative semigroup of a unique factorization domain.

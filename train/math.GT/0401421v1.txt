@@ -1,0 +1,1 @@
+Let K be a knot that has an unknotting tunnel tau. We prove that K admits a strong involution that fixes tau pointwise if and only if K is a two-bridge knot and tau its upper or lower tunnel.

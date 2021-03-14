@@ -1,0 +1,1 @@
+The Gaussian isokinetic and isoenergetic thermostats of Hoover and Evans are formally equivalent as remarked by Gallavotti, Rondoni and Cohen. But outside of equilibrium the fluctuations are uncontrolled and might break the equivalence. We show that equivalence is ensured if we consider an infinite system assumed to be ergodic under space translations.

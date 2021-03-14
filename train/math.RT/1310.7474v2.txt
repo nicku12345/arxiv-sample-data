@@ -1,0 +1,1 @@
+We construct a new family of homomorphisms between (graded) Specht modules of the quiver Hecke algebras of type A. These maps have many similarities with the homomorphisms constructed by Carter and Payne in the special case of the symmetric groups, although the maps that we obtain are both more and less general than these.

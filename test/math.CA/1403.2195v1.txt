@@ -1,0 +1,1 @@
+In the present paper authors introduce the L_n-integral transform and the inverse integral transform for n = 2^k, k=0,1,2,..., as a generalization of the classical Laplace transform and the inverse Laplace transform, respectively. Applicability of this transforms in solving linear ordinary differential equations is analyzed. Some illustrative examples are also given.

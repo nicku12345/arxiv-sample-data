@@ -1,0 +1,1 @@
+For m \in \mathbb{N}, we determine the irreducible components of the m-th Jet Scheme of a complex branch C and give formulas for their number N(m) and for their codimensions, in terms of m and the generators of the semigroup of C. This structure of the Jet Schemes determines and is determined by the topological type of C.

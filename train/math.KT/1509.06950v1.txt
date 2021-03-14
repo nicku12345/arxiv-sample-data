@@ -1,0 +1,1 @@
+In this paper consisting of two parts, we study the integral of a logarithmic differential form on a compact semi-algebraic set in R^n or C^n. In Part I, we prove the convergence of the integral when the semi-algebraic set satisfies allowability (or admissibility), a condition on the dimension of the intersection of the set and the pole divisor of the differential form.

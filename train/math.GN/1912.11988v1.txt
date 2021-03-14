@@ -1,0 +1,1 @@
+In [A. Day, Filter monads, continuous lattices and closure systems, Can. J. Math. 27 (1975) 50--59], Day showed that continuous lattices are precisely the algebras of the open filter monad over the category of T_0 spaces. The aim of this paper is to give a clean and clear version of the whole process of Day's approach.

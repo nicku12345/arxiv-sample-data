@@ -1,0 +1,1 @@
+In this note we formulate and give a self-contained proof of the Yoneda lemma for infinity categories in the language of complete Segal spaces.

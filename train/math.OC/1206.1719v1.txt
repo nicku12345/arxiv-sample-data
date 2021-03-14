@@ -1,0 +1,1 @@
+We prove maximum principles for the problem of optimal control for a jump diffusion with infinite horizon and partial information. The results are applied to partial information optimal consumption and portfolio problems in infinite horizon.

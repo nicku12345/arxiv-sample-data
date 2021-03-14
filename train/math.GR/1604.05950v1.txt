@@ -1,0 +1,1 @@
+The aim of this article is to discuss and clarify the notion of fractality for subgroups of the group of automorphisms of a regular rooted tree. For this purpose we define three types of fractality. We show that they are not equivalent, by giving explicit examples. Furthermore we present some tools that are helpful in order to determine the fractality of a given group.

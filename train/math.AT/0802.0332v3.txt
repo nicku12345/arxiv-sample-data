@@ -1,0 +1,1 @@
+We compute the oriented cobordism group of fold maps of 4-manifolds into the space with all the possible restrictions (and also with no restriction) to the singular fibers. We also give geometric invariants which describe completely the cobordism group of fold maps.

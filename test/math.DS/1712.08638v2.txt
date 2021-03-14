@@ -1,0 +1,1 @@
+We show that the Julia set of the Feigenbaum polynomial has Hausdorff dimension less than~2 (and consequently it has zero Lebesgue measure). This solves a long-standing open question.

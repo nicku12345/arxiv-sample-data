@@ -1,0 +1,1 @@
+Following conservative solutions of the two-component Camassa-Holm system u_t-u_{txx}+3uu_x-2u_xu_{xx}-uu_{xxx}+\rho\rho_x=0, \rho_t+(u\rho)_x=0 along characteristics, we determine if wave breaking occurs in the nearby future or not, for initial data u_0\in H^1(\mathbb R) and \rho_0\in L^2(\mathbb R).

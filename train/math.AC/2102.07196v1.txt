@@ -1,0 +1,1 @@
+We prove that if I is a monomial ideal with linear quotients in a ring of polynomials S in n indeterminates and depth(S/I)=n-2, then sdepth(S/I)=n-2. Also, we prove that sdepth(S/I)\geq {\rm depth}(S/I) for a monomial ideal I with linear quotients which satisfies certain technical conditions.

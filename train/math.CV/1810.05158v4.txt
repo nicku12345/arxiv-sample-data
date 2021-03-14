@@ -1,0 +1,1 @@
+We address the question "when the local image of a map is well defined" and answer it in case of holomorphic map germs with target (\bC^{2}, 0). We prove a criterion for holomorphic map germs (X, x)\to (Y, y) to be locally open, solving a conjecture by Huckleberry in all dimensions.

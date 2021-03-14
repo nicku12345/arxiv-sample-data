@@ -1,0 +1,1 @@
+In this paper we study a fractional diffusion Boussinesq model which couples a Navier-Stokes type equation with fractional diffusion for the velocity and a transport equation for the temperature. We establish global well-posedness results with rough initial data.

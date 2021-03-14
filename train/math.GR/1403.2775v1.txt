@@ -1,0 +1,1 @@
+We establish that any even permutation from A_n moving at least [3n/4] + o(n) points is the commutator of a generating pair of A_n and a generating pair of S_n. From this we deduce an exponential lower bound on the number of systems of transitivity in alternating and symmetric groups.

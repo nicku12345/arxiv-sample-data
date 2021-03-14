@@ -1,0 +1,1 @@
+It is shown how to define difference equations on particular lattices \{x_n\}, n\in\mathbb{Z}, made of values of an elliptic function at a sequence of arguments in arithmetic progression (elliptic lattice). Solutions to special difference equations have remarkable simple interpolatory expansions. Only linear difference equations of first order are considered here.

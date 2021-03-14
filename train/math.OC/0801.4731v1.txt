@@ -1,0 +1,1 @@
+The paper addresses the stabilization of nonlinear systems with semi-quadratic cost: quadratic with respect to controls and nonlinear for state variables. Paper presents the effective new feedback synthesis procedure. The novel feedback design procedure is based on the ideas borrowed from nonlinear optics and the theory of semi-classical asymptotics.

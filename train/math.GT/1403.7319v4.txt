@@ -1,0 +1,1 @@
+We provide upper bounds on the size of the homology of a closed aspherical Riemannian manifold that only depend on the systole and the volume of balls. Further, we show that linear growth of mod p Betti numbers or exponential growth of torsion homology imply that a closed aspherical manifold is "large".

@@ -1,0 +1,1 @@
+For a large class of nonuniformly expanding maps of \Bbb R^m, with indifferent fixed points and unbounded distorsion and non necessarily Markovian, we construct an absolutely continuous invariant measure. We extend to our case techniques previously used for expanding maps on quasi-H\"{o}lder spaces. We give general conditions and provide examples to which apply our result.

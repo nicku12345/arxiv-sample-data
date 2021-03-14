@@ -1,0 +1,1 @@
+We characterize the L^1(E;\mu_\infty)-spectrum of the Ornstein-Uhlenbeck operator, where \mu_\infty is the invariant measure for the Ornstein-Uhlenbeck semigroup. The main result covers the general case of an infinite-dimensional Banach space E under the assumption that the point spectrum of drift operator A^* is nonempty. This extends several recent related results.

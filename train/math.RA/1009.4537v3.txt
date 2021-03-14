@@ -1,0 +1,1 @@
+In this paper, using the general Mal'cev-Neumann construction of Laurent series rings, we construct a Laurent series ring with a base ring which is an extension of the field \mathbb{Q} of rational numbers. Further, we establish some useful properties of such a ring.

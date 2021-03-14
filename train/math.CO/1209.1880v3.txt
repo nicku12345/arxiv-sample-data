@@ -1,0 +1,1 @@
+Let S be a numerical semigroup and let \left(\mathbb{Z},\leqslant\_S\right) be the (locally finite) poset induced by S on the set of integers \mathbb{Z} defined by x \leqslant\_S y if and only if y-x\in S for all integers x and y. In this paper, we investigate the M{\"o}bius function associated to \left(\mathbb{Z},\leqslant\_S\right) when S is an arithmetic semigroup.

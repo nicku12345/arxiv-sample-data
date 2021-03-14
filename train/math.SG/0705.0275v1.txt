@@ -1,0 +1,1 @@
+We prove an analytic KAM-Theorem, which is used in [1], where the differential part of KAM-theory is discussed. Related theorems on analytic KAM-theory exist in the literature (e. g., among many others, [7], [8], [13]). The aim of the theorem presented here is to provide exactly the estimates needed in [1].

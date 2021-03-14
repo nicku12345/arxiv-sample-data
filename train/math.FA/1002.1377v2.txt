@@ -1,0 +1,1 @@
+We provide upper bounds for entropy numbers for two types of operators: summation operators on binary trees and integral operators of Volterra type. Our efforts are concentrated on the critical cases where none of known methods works. Therefore, we develop a method which seems to be completely new and probably merits further applications.

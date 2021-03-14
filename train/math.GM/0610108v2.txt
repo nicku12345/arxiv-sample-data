@@ -1,0 +1,1 @@
+We show how the Binomial Theorem can be used to continue the Riemann Zeta Function to the left hand half-plane. This method yields the explicit values of the function at non-positive integers in terms of the Bernoulli numbers.

@@ -1,0 +1,1 @@
+In this paper, we show how any Pad\'e approximant [p/q]_f of a formal power series f can be written under two different barycentric rational forms. These form depend on p+q+1 parameters which can be almost arbitrarily chosen.

@@ -1,0 +1,1 @@
+We give asymptotically sharp upper bounds for the Khovanov width and the dealternation number of positive braid links, in terms of their crossing number. The same braid-theoretic technique, combined with Ozsv\'ath, Stipsicz, and Szab\'o's Upsilon invariant, allows us to determine the exact cobordism distance between torus knots with braid index two and six.

@@ -1,0 +1,1 @@
+We solve the inverse differential Galois problem over the fraction field of k[[t,x]] and use this to solve split differential embedding problems over k((t))(x) that are induced from k(x). The proofs use patching as well as prior results on inverse problems and embedding problems.

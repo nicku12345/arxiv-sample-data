@@ -1,0 +1,1 @@
+We define the notion of a negatively curved tangent bundle of a metric measured space. We prove that, when a group G acts on a metric measured space X with a negatively curved tangent bundle, then G acts on some L^p space, and that this action is proper under suitable assumptions. We then check that this result applies to the case when X is a hyperbolic space.

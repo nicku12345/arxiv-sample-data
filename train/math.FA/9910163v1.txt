@@ -1,0 +1,1 @@
+We answer a question of Peller by showing that for any c>1 there exists a power-bounded operator T on a Hilbert space with the property that any operator S similar to T satisfies \sup_n\|S^n\|>c.

@@ -1,0 +1,1 @@
+In this paper we obtain L^1-weighted norms of classical orthogonal polynomials (Hermite, Laguerre and Jacobi polynomials) in terms of the zeros of these orthogonal polynomials; these expressions are usually known as quadrature rules. In particular these new formulae are useful to calculate directly some positive defined integrals as several examples show.

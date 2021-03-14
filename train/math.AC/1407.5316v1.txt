@@ -1,0 +1,1 @@
+The Eisenbud-Mazur conjecture states that given an equicharacteristic zero, regular local ring (R,\mathfrak{m}) and a prime ideal P\subset R, we have that P^{(2)}\subseteq mP. In this paper, we computationally prove that the conjecture holds in the special case of certain prime ideals in formal power series rings.

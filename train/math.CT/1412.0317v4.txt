@@ -1,0 +1,1 @@
+We provide a more economical refined version of Evrard's categorical cocylinder factorization of a functor [Ev1,2]. We show that any functor between small categories can be factored into a homotopy equivalence followed by a (co)fibred functor which satisfies the (dual) assumption of Quillen's Theorem B.

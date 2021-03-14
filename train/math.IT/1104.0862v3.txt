@@ -1,0 +1,1 @@
+A causal rate distortion function is defined, its solution is described, and its relation to filtering theory is discussed. The relation to filtering is obtained via a causal constraint imposed on the reconstruction kernel to be realizable.

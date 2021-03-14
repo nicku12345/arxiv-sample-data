@@ -1,0 +1,1 @@
+We consider a large class of harmonic systems, each defined as a quasi-free dynamics on the Weyl algebra over \ell^2(\mathbb{Z}^d). In contrast to recently obtained, short-time locality estimates, known as Lieb-Robinson bounds, we prove a number of long-time dispersive estimates for these models.

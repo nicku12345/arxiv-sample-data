@@ -1,0 +1,1 @@
+We prove the following: Let A be a C^{\ast}-algebra. Then for a, b \in A^+ \setminus\{ 0 \}, we have a b = 0 if and only is \Vert \Vert c \Vert^{-1} c + \Vert d \Vert^{-1} d \Vert = 1 whenever 0 < c \le a and 0 < d \le b in A^+.

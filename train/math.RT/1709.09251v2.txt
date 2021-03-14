@@ -1,0 +1,1 @@
+We continue the study of Specht modules labelled by hook bipartitions for the Iwahori--Hecke algebra of type B with e\in\{3,4,\dots\} via the cyclotomic Khovanov--Lauda--Rouquier algebra \mathscr{H}_n^{\Lambda}. Over an arbitrary field, we explicitly determine the graded decomposition submatrices for \mathscr{H}_n^{\Lambda} comprising rows corresponding to hook bipartitions.

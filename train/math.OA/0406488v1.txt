@@ -1,0 +1,1 @@
+We show that the monotonic independence introduced by Muraki can also be used to define a multiplicative convolution. We also find a method for the calculation of this convolution based on an appropriate form of the Cauchy transform. We discuss infinite divisibility in the multiplicative monotonic context as well.

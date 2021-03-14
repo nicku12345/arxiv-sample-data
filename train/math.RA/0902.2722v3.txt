@@ -1,0 +1,1 @@
+We show that any 3-component octonionic vector which is purely imaginary, but not quaternionic, is an eigenvector of a 6-parameter family of Hermitian octonionic matrices, with imaginary eigenvalue equal to the associator of its elements.

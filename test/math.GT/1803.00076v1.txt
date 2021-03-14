@@ -1,0 +1,1 @@
+In this paper, we prove that the fundamental group of the manifold obtained by Dehn surgery along a (-2,3,2s+1)-pretzel knot (s\ge 3) with slope \frac{p}{q} is not left orderable if \frac{p}{q}\ge 2s+3, and that it is left orderable if \frac{p}{q} is in a neighborhood of zero depending on s.

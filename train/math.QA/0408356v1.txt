@@ -1,0 +1,1 @@
+We construct certain tensor categories that are dominated by finitely many simple objects. Objects in these categories are modules over rings of algebra integers. We show how to obtain TQFTs defined over algebra integers from these categories.

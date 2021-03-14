@@ -1,0 +1,1 @@
+We prove that most permutations of degree n have some power which is a cycle of prime length approximately \log n. Explicitly, we show that for n sufficiently large, the proportion of such elements is at least 1-5/\log\log n with the prime between \log n and (\log n)^{\log\log n}. The proportion of even permutations with this property is at least 1-7/\log\log n.

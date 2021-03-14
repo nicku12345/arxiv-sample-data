@@ -1,0 +1,1 @@
+A fractal function is a function whose graph is the attractor of an iterated function system. This paper generalizes analytic continuation of an analytic function to continuation of a fractal function.

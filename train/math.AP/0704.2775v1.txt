@@ -1,0 +1,1 @@
+We consider a circulation system arising in turbulence modelling in fluid dynamics with unbounded eddy viscosities. Various notions of weak solutions are considered and compared. We establish existence and regularity results. In particular we study the boundedness of weak solutions. We also establish an existence result for a classical solution

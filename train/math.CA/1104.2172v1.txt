@@ -1,0 +1,1 @@
+Given a set S of small measure, we discuss existence of sampling sequences for the Paley-Wiener space PW_S, which have both densities and sampling bounds close to the optimal ones.

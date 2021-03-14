@@ -1,0 +1,1 @@
+Real analytic functions on the boundary of the sphere which have separate holomorphic extension along the complex lines through a boundary point have holomorphic extension to the ball. This was proved in a previous preprint by an argument of CR geometry. We give here an elementary proof based on the expansion in holomorphic and antiholomorphic powers.

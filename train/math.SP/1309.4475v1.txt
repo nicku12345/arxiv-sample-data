@@ -1,0 +1,1 @@
+We describe essential (in particular Fredholm and semi-Fredholm) spectra of operators on Banach lattices of the form T=wU, where w is a central operator and U is a disjointness preserving operator such that its spectrum \sigma(U) is a subset of the unit circle.

@@ -1,0 +1,1 @@
+We study the decay of \mu(B(x,r)\cap C)/\mu(B(x,r)) as r\downarrow 0 for different kinds of measures \mu on \R^n and various cones C around x. As an application, we provide sufficient conditions implying that the local dimensions can be calculated via cones almost everywhere.

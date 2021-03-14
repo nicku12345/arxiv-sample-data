@@ -1,0 +1,1 @@
+Given a closed exact Lagrangian in the cotangent bundle of a closed smooth manifold, we prove that the projection to the base is a simple homotopy equivalence.

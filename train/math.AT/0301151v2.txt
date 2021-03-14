@@ -1,0 +1,1 @@
+In the present paper we consider a special class of locally trivial bundles with fiber a matrix algebra. On the set of such bundles over a finite CW-complex we define a relevant equivalence relation. The obtained stable theory gives us a geometric description of the H-space structure \BSU_\otimes on \BSU related to the tensor product of virtual \SU-bundles of virtual dimension 1.

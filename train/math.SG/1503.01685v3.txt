@@ -1,0 +1,1 @@
+We outline Hutchings's prescription that produces an ECH analog of Latschev and Wendl's algebraic k-torsion in the context of ech, a variant of ECH used in a proof of the isomorphism between Heegaard Floer and Seiberg-Witten Floer homologies; and we explain how it translates into Heegaard Floer homology.

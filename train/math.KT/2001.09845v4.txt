@@ -1,0 +1,1 @@
+In this paper, we give an approach to the zeta values of a (proper regular) arithmetic scheme X at the integers r>=d:=dim(X), using \'etale cohomology of X with Q_p(r) and Z_p(r)-coefficients.

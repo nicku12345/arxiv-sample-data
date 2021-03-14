@@ -1,0 +1,1 @@
+It is shown that geodesics in the space of K\"ahler potentials can be uniformly approximated by geodesics in the spaces of Bergman metrics. Two important tools in the proof are the Tian-Yau-Zelditch approximation theorem for K\"ahler potentials and the pluripotential theory of Bedford-Taylor, suitably adapted to K\"ahler manifolds.

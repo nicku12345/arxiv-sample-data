@@ -1,0 +1,1 @@
+We present a probabilistic model of illuminating a convex body by independently distributed light sources. In addition to recovering C.A. Rogers' upper bounds for the illumination number, we improve previous estimates of J. Januszewski and M. Nasz\'odi for a generalized version of the illumination parameter.

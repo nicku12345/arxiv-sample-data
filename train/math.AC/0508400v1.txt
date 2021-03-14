@@ -1,0 +1,1 @@
+We present examples which show that in dimension higher than one or codimension higher than two, there exist toric ideals I_A such that no binomial ideal contained in I_A and of the same dimension is a complete intersection. This result has important implications in sparse elimination theory and in the study of the Horn system of partial differential equations.

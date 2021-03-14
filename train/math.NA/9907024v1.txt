@@ -1,0 +1,1 @@
+`Dual composition', a new method of constructing energy-preserving discretizations of conservative PDEs, is introduced. It extends the summation-by-parts approach to arbitrary differential operators and conserved quantities. Links to pseudospectral, Galerkin, antialiasing, and Hamiltonian methods are discussed.

@@ -1,0 +1,1 @@
+The quantum group SL_q(2,R) at roots of unity is introduced by means of duality pairings with the quantum algebra U_q(sl(2,R)). Its irreducible representations are constructed through the universal T-matrix. An invariant integral on this quantum group is given. Endowed with that some properties like unitarity and orthogonality of the irreducible representations are discussed.

@@ -1,0 +1,1 @@
+Let X be a smooth algebraic curve of genus g>=2. A stable vector bundle over X of degree d, rank n with at least k sections is called a Brill-Noether bundle of type (n,d,k). By tensoring coherent systems, we prove that most of the known Brill-Noether bundles define coherent systems of type (n,d,k) that are alpha-stables for all allowable alpha .

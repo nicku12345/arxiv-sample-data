@@ -1,0 +1,1 @@
+It is shown that nested polar codes achieve the Shannon rate-distortion function for arbitrary (binary or non-binary) discrete memoryless sources and the Shannon capacity of arbitrary discrete memoryless channels.

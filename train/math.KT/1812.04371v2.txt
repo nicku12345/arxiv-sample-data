@@ -1,0 +1,1 @@
+This is the second part of our series about the Higson-Roe sequence for \'etale groupoids. We devote this part to the proof of the universal K-theory surgery exact sequence which extends the seminal results of N. Higson and J. Roe to the case of transformation groupoids. In the process, we prove the expected functoriality properties as well as the Paschke-Higson duality theorem.

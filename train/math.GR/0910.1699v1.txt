@@ -1,0 +1,1 @@
+Experiment shows that the reverse length-lexicographical word ordering consistently yields far smaller Gr\"obner bases for modular p-group algebras than the length-lexicographical ordering. For the so-called Jennings word ordering, based on a special power-conjugate group presentation, the associated monomial algebra is a group invariant.

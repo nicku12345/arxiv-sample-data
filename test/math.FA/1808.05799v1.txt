@@ -1,0 +1,1 @@
+Let G be a locally compact group, and let \Phi be a Young function. In this paper, we give sufficient and necessary conditions for weighted translation operators on the Orlicz space L^\Phi(G) to be chaotic and topologically multiply recurrent. In particular, chaos implies multiple recurrence in our case.

@@ -1,0 +1,1 @@
+Two divisors in \P^n are said to be Cremona equivalent if there is a Cremona modification sending one to the other. We produce infinitely many non equivalent divisorial embeddings of any variety of dimension at most 14. Then we study the special case of plane curves and rational hypersurfaces. For the latter we characterise surfaces Cremona equivalent to a plane.

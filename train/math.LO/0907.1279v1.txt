@@ -1,0 +1,1 @@
+In this note we give an axiomatization of Boolean algebras based on weakly dicomplemented lattices: an algebra (L,\wedge,\vee,\tu) of type (2,2,1) is a Boolean algebra iff (L,\wedge,\vee) is a non empty lattice and (x\wedge y)\vee(x\wedge y\tu)=(x\vee y)\wedge(x\vee y\tu) for all x,y\in L. This provides a unique equation to encode distributivity and complementation on lattices.

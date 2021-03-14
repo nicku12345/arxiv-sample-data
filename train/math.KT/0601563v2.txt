@@ -1,0 +1,1 @@
+We study the equivariant K-group of the affine flag manifold with respect to the Borel group action. We prove that the structure sheaf of the (infinite-dimensional) Schubert variety in the K-group is represented by a unique polynomial, which we call the affine Grothendieck polynomial.

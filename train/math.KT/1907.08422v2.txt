@@ -1,0 +1,1 @@
+We prove the existence of minimal models a la Sullivan for operads with nontrivial arity zero. So up-to-homotopy algebras with strict units are just operad algebras over these minimal models. As an application, we give another proof of the formality of the unitary n-little disks operad over the rationals.

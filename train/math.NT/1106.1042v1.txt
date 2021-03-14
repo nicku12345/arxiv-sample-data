@@ -1,0 +1,1 @@
+We generalize the Raabe-formula to the q-loggamma function. As a consequence, we get that the integral of the logarithm of the fourth Jacobi theta function between its least imaginary zeros is connected to the partition function and the Riemann zeta function.

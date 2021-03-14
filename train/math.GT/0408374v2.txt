@@ -1,0 +1,1 @@
+We construct examples of knots that have isomorphic nth-order Alexander modules, but non-isomorphic nth-order linking forms, showing that the linking forms provide more information than the modules alone. This generalizes work of Trotter, who found examples of knots that have isomorphic classical Alexander modules, but non-isomorphic classical Blanchfield linking forms.

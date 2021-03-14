@@ -1,0 +1,1 @@
+Given a set of prime numbers S, we localise equivariant bivariant Kasparov theory at S and compare this localisation with Kasparov theory by an exact sequence. More precisely, we define the localisation at S to be KK^G(A,B) tensored with the ring of S-integers Z[S^-1]. We study the properties of the resulting variants of Kasparov theory.

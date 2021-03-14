@@ -1,0 +1,1 @@
+Hall-Littlewood functions indexed by rectangular partitions, specialized at primitive roots of unity, can be expressed as plethysms. We propose a combinatorial proof of this formula using A. Schilling's bijection between ribbon tableaux and ribbon rigged configurations.

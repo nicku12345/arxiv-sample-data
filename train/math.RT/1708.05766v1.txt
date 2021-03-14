@@ -1,0 +1,1 @@
+The ADR algebra R_A of a finite-dimensional algebra A is a quasihereditary algebra. In this paper we study the Ringel dual \mathcal{R}(R_A) of R_A. We prove that \mathcal{R}(R_A) can be identified with (R_{A^{op}})^{op}, under certain 'minimal' regularity conditions for A. We also give necessary and sufficient conditions for the ADR algebra to be Ringel selfdual.

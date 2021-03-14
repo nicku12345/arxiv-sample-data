@@ -1,0 +1,1 @@
+In this paper we consider the problem of structural stability of strong local optimisers for the minimum time problem in the case when the nominal problem has a bang-bang strongly local optimal control which exhibits a double switch.

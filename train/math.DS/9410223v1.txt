@@ -1,0 +1,1 @@
+We prove that for continuous maps on the interval, the existence of an n-cycle, implies the existence of n-1 points which interwind the original ones and are permuted by the map. We then use this combinatorial result to show that piecewise affine maps (with no zero slope) cannot be infinitely renormalizable.

@@ -1,0 +1,1 @@
+We give a general approach to infinite dimensional non-Gaussian analysis which generalizes the work \cite{KSWY95}. For given measure we construct a family of biorthogonal systems. We study their properties and their Gel'fand triples that they generate. As an example we consider the measures of Poisson type.

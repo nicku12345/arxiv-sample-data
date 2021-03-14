@@ -1,0 +1,1 @@
+We use the methods of empirical mathematics to show that iterative logarithmic operations will result in an attractor point on the complex plane. Moreover, we demonstrate that different bases converge onto different attractors. Finally, we elicit the geometric structure of these attractors.

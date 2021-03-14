@@ -1,0 +1,1 @@
+Let G be a complex, connected, reductive algebraic group with Weyl group W and Steinberg variety Z. We show that the graded Borel-Moore homology of Z is isomorphic to the smash product of the coinvariant algebra of W and the group algebra of W.

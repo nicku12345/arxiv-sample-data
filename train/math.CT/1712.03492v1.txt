@@ -1,0 +1,1 @@
+In this paper we give an algorithmic description of Freyd categories that subsumes and enhances the usual approach to finitely presented modules in computer algebra. The upshot is a constructive approach to finitely presented functors that only relies on a few basic algorithms.

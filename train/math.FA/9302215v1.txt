@@ -1,0 +1,1 @@
+This paper is mainly devoted to the following question:\ Let M,N be von~Neumann algebras with M\subset N, if there is a completely bounded projection P\colon \ N\to M, is there automatically a contractive projection \widetilde P\colon \ N\to M?   We give an affirmative answer with the only restriction that M is assumed semi-finite.

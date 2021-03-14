@@ -1,0 +1,1 @@
+We construct explicitly the Khovanov homology theory for virtual links with arbitrary coefficients by using the twisted coefficients method. This method also works for constructing Khovanov homology for ``non-oriented virtual knots'' in the sense of Viro, in particular, for knots in {\bf R}P^{3}.

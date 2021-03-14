@@ -1,0 +1,1 @@
+We give a complete calculation of the infinity flavor of Heegaard Floer homology with mod 2 coefficients for all three-manifolds and torsion Spin^c structures. The computation agrees with the conjectured calculation of Ozsvath and Szabo. This therefore establishes an isomorphism with Mark's cup homology mod 2.

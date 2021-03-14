@@ -1,0 +1,1 @@
+Given an integral indefinite binary Hermitian form f over an imaginary quadratic number field, we give a precise asymptotic equivalent to the number of nonequivalent representations, satisfying some congruence properties, of the rational integers with absolute value at most s by f, as s tends to infinity.

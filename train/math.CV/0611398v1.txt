@@ -1,0 +1,1 @@
+In this paper, we consider the Cauchy-Riemann equation \bar\partial u= f in a new class of convex domains in \C^n. We prove that under L^p data, we can choose a solution in the Lipschitz space \Lambda_{\alpha}, where \alpha is an optimal positive number given explicitly in terms of p.

@@ -1,0 +1,1 @@
+We show that the Bousfield-Kan spectral sequence which computes the rational homotopy groups of the space of long knots in {\mathbb R}^d, where d\ge 4, collapses at the E^2 page. The main ingredients in the proof are Sinha's cosimplicial model for the space of long knots and a coformality result for the little balls operad.

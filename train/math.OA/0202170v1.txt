@@ -1,0 +1,1 @@
+Generalizing a result of Arveson on finite width CSL algebras, we prove that finite width masa-bimodules satisfy spectral synthesis. Introducing a new class of masa-bimodules, we show that there exists a non-synthetic masa-bimodule, such that the maximal algebras over which it is a bimodule, are synthetic.

@@ -1,0 +1,1 @@
+We define the zeta function of a finite category. And we propose a conjecture which states the relationship between the Euler characteristic of finite categories and the zeta function of finite categories. This conjecture is verified when categories are finite groupoids, finite acyclic categories, categories with 2-objects and finite categories satisfying certain condition.

@@ -1,0 +1,1 @@
+We define the derivative of an integer to be the map sending every prime to 1 and satisfying the Leibniz rule. The aim of this article is to calculate the Dirichlet product of this map with a function arithmetic multiplicative.

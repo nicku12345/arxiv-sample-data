@@ -1,0 +1,1 @@
+It gives a class of p-Borel principal ideals of a polynomial algebra over a field K for which the graded Betti numbers do not depend on the characteristic of K and the Koszul homology modules have monomial cyclic basis. Also it shows that all principal p-Borel ideals have binomial cycle basis on Koszul homology modules.

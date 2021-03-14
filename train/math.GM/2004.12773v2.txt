@@ -1,0 +1,1 @@
+Let B_{n} denote the Bernoulli numbers, and S(n,k) denote the Stirling numbers of the second kind. We prove the following identity  B_{m+n}=\sum_{\substack{0\leq k \leq n \\ 0\leq l \leq m}}\frac{(-1)^{k+l}\,k!\, l!\, S(n,k)\,S(m,l)}{(k+l+1)\,\binom{k+l}{l}}.  To the best of our knowledge, the identity is new.

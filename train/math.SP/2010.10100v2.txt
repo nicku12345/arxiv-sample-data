@@ -1,0 +1,1 @@
+Chemical hypergraphs and their associated normalized Laplace operators are generalized and studied in the case where each vertex--hyperedge incidence has a real coefficient. We systematically study the effect of symmetries of a hypergraph on the spectrum of the Laplacian.

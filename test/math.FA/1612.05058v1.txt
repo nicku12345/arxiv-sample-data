@@ -1,0 +1,1 @@
+In this article, we are going to search for n\times n matrices A and B such that their generalized numerical range W_A(B)=\{tr(AU^*BU) \ :\ U^*U=UU^*=I\} is convex. More specifically, we consider A=\hat{A}\oplus I_k and B=\hat{B}\oplus I_k where \hat{A} and \hat{B} are 2\times 2. If W_A(B)=W_{\hat{A}}(\hat{B}) then it is a convex set.

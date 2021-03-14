@@ -1,0 +1,1 @@
+A rigid set in a curve complex of a surface is a subcomplex such that every locally injective simplicial map from the set into the curve complex is induced by a homeomorphism of the surface. In this paper, we find finite rigid sets in the curve complexes of connected non-orientable surfaces of genus g with n holes for g+n \neq 4.

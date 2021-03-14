@@ -1,0 +1,1 @@
+In this paper we obtain the closed forms of some hypergeometric functions. As an application, we obtain the explicit forms of the Bergman kernel functions for intersection of two complex ellipsoids \{z \in \mathbb{C}^3 \colon |z_1|^p + |z_2|^q < 1, \quad |z_1|^p + |z_3|^r < 1\}. We consider cases p=6, q= r= 2 and p=q=r=2. We also investigate the Lu Qi-Keng problem for p=q=r=2.

@@ -1,0 +1,1 @@
+The method of Lagrange multipliers relates the critical points of a given function f to the critical points of an auxiliary function F. We establish a cohomological relationship between f and F and use it, in conjunction with the Eagon-Northcott complex, to compute the sum of the Milnor numbers of the critical points in certain situations.

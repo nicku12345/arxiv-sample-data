@@ -1,0 +1,1 @@
+We consider certain Littlewood-Paley operators and prove characterization of some function spaces in terms of those operators. When treating weighted Lebesgue spaces, a generalization to weighted spaces will be made for H\"ormander's theorem on the invertibility of homogeneous Fourier multipliers. Also, applications to the theory of Sobolev spaces will be given.

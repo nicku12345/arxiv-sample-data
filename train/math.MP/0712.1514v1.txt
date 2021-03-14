@@ -1,0 +1,1 @@
+We consider a magnetic laplacian P(A) on the Poincar\'e half-plane, when the magnetic field dA is infinite at infinity such that P(A) has pure discret spectrum. We give the asymptotic behavior of the counting function of the eigenvalues.

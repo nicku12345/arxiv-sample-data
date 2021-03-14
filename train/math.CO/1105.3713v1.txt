@@ -1,0 +1,1 @@
+We suggest three applications for the inverses: For the inverse Motzkin matrix we look at Hankel determinants, and counting the paths inside a horizontal band, and for the inverse Schr\"oder matrix we look at the paths inside the same band, but ending on the top side of the band.

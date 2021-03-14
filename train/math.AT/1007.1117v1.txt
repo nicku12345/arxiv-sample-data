@@ -1,0 +1,1 @@
+Two constructions of a Lie model of the interval were performed by R. Lawrence and D. Sullivan. The first model uses an inductive process and the second one comes directly from solving a differential equation. They conjectured that these two models are the same. We prove this conjecture here.

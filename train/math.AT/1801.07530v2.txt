@@ -1,0 +1,1 @@
+This paper contains an overview of background from stable homotopy theory used by Freed--Hopkins in their work on invertible extended topological field theories. We provide a working guide to the stable homotopy category, to the Steenrod algebra and to computations using the Adams spectral sequence. Many examples are worked out in detail to illustrate the techniques.

@@ -1,0 +1,1 @@
+We investigate the error term of the asymptotic formula for the number of squarefree integers up to some bound, and lying in some arithmetic progression a (mod q). In particular, we prove an upper bound for its variance as a varies over (\mathbb{Z}/q\mathbb{Z})^{\times} which considerably improves upon earlier work of Blomer.

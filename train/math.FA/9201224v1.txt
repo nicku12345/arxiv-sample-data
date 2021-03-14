@@ -1,0 +1,1 @@
+Let (x_n) be a normalized weakly null sequence in a Banach space and let \varep>0. We show that there exists a subsequence (y_n) with the following property: \hbox{ if }\ (a_i)\subseteq \IR\ \hbox{ and }\ F\subseteq \nat satisfies \min F\le |F| then \big\|\sum_{i\in F} a_i y_i\big\| \le (2+\varep) \big\| \sum a_iy_i\big\|\ . 

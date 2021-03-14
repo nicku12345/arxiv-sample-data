@@ -1,0 +1,1 @@
+We prove that the image of the mapping class group by the representations arising in the SU(2)-TQFT is infinite, provided that the genus is bigger than 2 and the level r of the theory is different from 2,3,4,6. In particular the quotient of the mapping class group by the normaizer of the r-th power of a Dehn twist is infinite if the genus is at least 3 and r is bigger than 12.

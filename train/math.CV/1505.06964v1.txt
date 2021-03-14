@@ -1,0 +1,1 @@
+In this paper the conformal Dirac operator on the sphere is defined to be operating on the space of square-integrable Clifford algebra-valued functions. The spinorial Laplacian of order d>0 is defined and used to establish Sobolev embedding theorems.

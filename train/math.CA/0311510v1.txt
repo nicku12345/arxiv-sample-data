@@ -1,0 +1,1 @@
+We obtain an explicit formula for the number of Lam\'e equations (modulo scalar equivalence) with index n and projective monodromy group of order 2N, for given n \in \Z and N \in \N. This is done by performing the combinatorics of the `dessins d'enfants' associated to the Belyi covers which transform hypergeometric equations into Lam\'e equations by pull-back.

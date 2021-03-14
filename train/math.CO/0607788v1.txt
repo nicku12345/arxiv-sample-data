@@ -1,0 +1,1 @@
+We prove a new upper bound for diagonal two-colour Ramsey numbers, showing that there exists a constant C such that \[r(k+1, k+1) \leq k^{- C \frac{\log k}{\log \log k}} \binom{2k}{k}.\]

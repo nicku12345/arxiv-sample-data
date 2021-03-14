@@ -1,0 +1,1 @@
+We discuss functoriality properties of the Ozsvath-Szabo contact invariant, and expose a number of results which seemed destined for folklore. We clarify the (in)dependence of the invariant on the basepoint, prove that it is functorial with respect to contactomorphisms, and show that it is strongly functorial under Stein cobordisms.

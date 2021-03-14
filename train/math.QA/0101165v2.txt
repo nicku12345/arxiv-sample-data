@@ -1,0 +1,1 @@
+The \mathbb{Z}/2\mathbb{Z}--graded intertwining operators are introduced. We study these operators in the case of ``degenerate'' N=1 minimal models, with the central charge c=3/2. The corresponding fusion ring is isomorphic to the Grothendieck ring for the Lie superalgebra {\mathfrak osp}(1|2). We also discus multiplicity--2 fusion rules and logarithmic intertwiners.

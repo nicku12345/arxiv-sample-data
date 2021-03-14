@@ -1,0 +1,1 @@
+We consider the class PW(\mathbb R^n) of functions in L^2(\mathbb R^n), whose Fourier transform has bounded support. We obtain a description of continuous maps \varphi : \mathbb R^m\rightarrow\mathbb R^n such that f\circ\varphi\in PW(\mathbb R^m) for every function f\in PW(\mathbb R^n). Only injective affine maps \varphi have this property.

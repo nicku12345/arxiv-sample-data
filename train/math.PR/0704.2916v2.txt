@@ -1,0 +1,1 @@
+Counter to the general notion that the regular tree is the worst case for decay of correlation between sets and nodes, we produce an example of a multi-spin interacting system which has uniqueness on the d-regular tree but does not have uniqueness on some infinite d-regular graphs.

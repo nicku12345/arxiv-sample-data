@@ -1,0 +1,1 @@
+We determine the boundary representations and the C*-envelope of operator systems of the form span{I,T,T*}, where T is a Jordan operator.

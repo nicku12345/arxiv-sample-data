@@ -1,0 +1,1 @@
+Let (X,\mathcal{B},\mu, T) be a measure preserving system. We prove the pointwise convergence of the averages \frac{1}{N^2}\sum_{n,m= 0}^{N-1} f_1(T^nx)f_2(T^mx)f_3(T^{n+m}x) and of similar averages with seven bounded functions.

@@ -1,0 +1,1 @@
+We propose a canonical form of the experimental optimization problem and review the state-of-the-art methods to solve it. As guarantees of global convergence to an optimal point via only feasible iterates are absent in these methods, we present a set of sufficient conditions to enforce this behavior.

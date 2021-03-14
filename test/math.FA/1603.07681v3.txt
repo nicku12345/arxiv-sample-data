@@ -1,0 +1,1 @@
+For a general measure space (\Omega,\mu), it is shown that for every band M in L_p(\mu) there exists a decomposition \mu=\mu'+\mu^{\prime\prime} such that M=L_p(\mu')=\{f\in L_p(\mu);f=0\ \mu^{\prime\prime}\text{-a.e.}\}. The theory is illustrated by an example, with an application to absorption semigroups.

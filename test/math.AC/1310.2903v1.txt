@@ -1,0 +1,1 @@
+Let G be a cycle or a complete bipartite graph. We show that the binomial edge ideal J_{G} and its initial ideal with respect to the lexicographic order have the same extremal Betti number.

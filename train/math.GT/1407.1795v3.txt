@@ -1,0 +1,1 @@
+We modify the construction of knot Floer homology to produce a one-parameter family of homologies for knots in the three-sphere. These invariants can be used to give homomorphisms from the smooth concordance group to the integers, giving bounds on the four-ball genus and the concordance genus of knots. We give some applications of these homomorphisms.

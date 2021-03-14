@@ -1,0 +1,1 @@
+We introduce the notion of a dioperad to describe certain operations with multiple inputs and multiple outputs. The framework of Koszul duality for operads is generalized to dioperads. We show that the Lie bialgebra dioperad is Koszul.

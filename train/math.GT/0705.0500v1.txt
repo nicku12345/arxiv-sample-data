@@ -1,0 +1,1 @@
+We present a formula for the full Cheeger-Chern-Simons class of the tautological flat complex vector bundle of rank two over BSL(2,\C^\delta). Our formula improves the formula by Dupont and Zickert, where the class is only computed modulo 2-torsion.

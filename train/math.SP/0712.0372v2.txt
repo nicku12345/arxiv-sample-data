@@ -1,0 +1,1 @@
+We prove in the vector-valued spaces L^2(\mathbb{R}_+, X) (where X is a finite dimensional Hilbert space) the cyclicity for the semi-group of left translations of some particular functions with support included in a lacunary system of intervals.

@@ -1,0 +1,1 @@
+An algebra is called skew-symmetric if its multiplication operation is a skew-symmetric bilinear application. We determine all these algebras in dimension 3 over a field of characteristic different from 2. As an application, we determine the subvariety of 3-dimensional Hom-Lie algebras. For this type of algebras, we study also the dimension 4.

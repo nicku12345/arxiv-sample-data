@@ -1,0 +1,1 @@
+Let L:=-\Delta+V be a nonnegative Schr\"odinger operator on L^2({\bf R}^N), where N\ge 2 and V is a radially symmetric inverse square potential. In this paper we assume either L is subcritical or null-critical and we establish a method for obtaining the precise description of the large time behavior of e^{-tL}\varphi, where \varphi\in L^2({\bf R}^N,e^{|x|^2/4}\,dx).

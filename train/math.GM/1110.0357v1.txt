@@ -1,0 +1,1 @@
+A formula expressing a point of order 8 on an elliptic curve, in terms of the roots of the associated cubic polynomial, is given. Doubling such a point yields a point of order 4 distinct from the well-known points of order 4 given in standard references such as "A course of Modern Analysis" by Whittaker and Watson.

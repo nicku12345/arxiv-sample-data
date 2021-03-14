@@ -1,0 +1,1 @@
+By using some techniques of the divided difference operators, we establish an 4n-point interpolation formula. Certain polynomials, such as Jackson's _8\phi_7 terminating summation formula, are special cases of this formula. Based on Krattenthaler's identity, we also give Jackson's formula a determinantal interpretation.

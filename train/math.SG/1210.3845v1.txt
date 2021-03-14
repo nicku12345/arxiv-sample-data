@@ -1,0 +1,1 @@
+We review the use of grid diagrams in the development of Heegaard Floer theory. We describe the construction of the combinatorial link Floer complex, and the resulting algorithm for unknot detection. We also explain how grid diagrams can be used to show that the Heegaard Floer invariants of 3-manifolds and 4-manifolds are algorithmically computable (mod 2).

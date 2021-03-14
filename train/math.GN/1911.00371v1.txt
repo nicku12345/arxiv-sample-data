@@ -1,0 +1,1 @@
+We prove that CH implies the existence of a Cohen-indestructible mad family such that the Mathias forcing associated to its filter adds dominating reals, while \mathfrak b=\mathfrak c is consistent with the negation of this statement as witnessed by the Laver model for the consistency of Borel's conjecture.

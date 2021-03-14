@@ -1,0 +1,1 @@
+In this paper, we consider a new iteration process which is faster than all of Picard, Mann, Ishikawa and Agarwal et al. processes. We also prove some strong and weak convergence theorems for the class of nonexpansive mappings in Banach spaces.

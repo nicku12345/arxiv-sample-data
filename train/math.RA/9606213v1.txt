@@ -1,0 +1,1 @@
+Let A be an n \times M matrix whose rows are orthonormal. Let A_I be a submatrix of A whose column indexes belong to the set I. Given \epsilon >0 we estimate the smallest cardinality of the set I, such that the operator A_I is an \epsilon-isometry.

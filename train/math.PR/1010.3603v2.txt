@@ -1,0 +1,1 @@
+We study the density of the supremum of a strictly stable L\'evy process. We prove that for almost all values of the index \alpha -- except for a dense set of Lebesgue measure zero -- the asymptotic series which were obtained in A. Kuznetsov (2010) "On extrema of stable processes" are in fact absolutely convergent series representations for the density of the supremum.

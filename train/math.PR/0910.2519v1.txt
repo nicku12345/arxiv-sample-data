@@ -1,0 +1,1 @@
+We prove that a g-expectation is a Choquet expectation if and only if g is independent of y and is linear in z, i.e., classical linear expectation, without the assumptions that the deterministic generator g is continuous in t and the dimension of the Brownian motion is one.

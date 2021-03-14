@@ -1,0 +1,1 @@
+Given a compact Hermitian complex space with isolated singular points, we construct a Dolbeault-type Hilbert complex whose cohomology is isomorphic to the cohomology of the structure sheaf. We show that the corresponding K-homology class coincides with the one constructed by Baum-Fulton-MacPherson.

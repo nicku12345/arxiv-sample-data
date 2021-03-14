@@ -1,0 +1,1 @@
+We show that for a smooth, projective variety X defined over a number field K, cyclic homology with coefficients in the ring of infinite adeles of K, provides the right theory to obtain, using the lambda-operations, Serre's archimedean local factors of the complex L-function of X as regularized determinants.

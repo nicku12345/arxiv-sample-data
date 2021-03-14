@@ -1,0 +1,1 @@
+We study the primitive divisors of the terms of (\Delta_n)_{n \geq 1}, where \Delta_n=N_{K/ \mathbb{Q}}(u^n-1) for K a real quadratic field, and u>1 a unit element of its ring of integers. The methods used allow us to find the terms of the sequence that do not have a primitive prime divisor.

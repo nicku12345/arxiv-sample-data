@@ -1,0 +1,1 @@
+In this article, we study short intervals that contain another type of "almost square", an integer n which can be factored in two different ways n = a_1 b_1 = a_2 b_2 with a_1, a_2, b_1, b_2 close to \sqrt{n}.

@@ -1,0 +1,1 @@
+A classification exists for Lie algebras whose nilradical is the triangular Lie algebra T(n). We extend this result to a classification of all solvable Leibniz algebras with nilradical T(n). As an example we show the complete classification of all Leibniz algebras whose nilradical is T(4).

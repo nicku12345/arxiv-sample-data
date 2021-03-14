@@ -1,0 +1,1 @@
+We prove that there exists a generic polynomial for the group Sl2(3); it is the group with smallest order for which it was not known if a such polynom can exist.   Nous prouvons ici l'existence d'un polynome generique pour le groupe SL2(F3). Il s'agit du groupe de plus petit ordre pour lequel on ignorait s'il existait ou non un tel polynome.

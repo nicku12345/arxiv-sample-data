@@ -1,0 +1,1 @@
+In this paper, we propose several statistics for testing uniformity under progressive Type-I interval censoring. We obtain the critical points of these statistics and study the power of the proposed tests against a representative set of alternatives via simulation. Finally, we generalize our methods for continuous and completely specified distributions.

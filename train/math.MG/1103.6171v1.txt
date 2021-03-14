@@ -1,0 +1,1 @@
+The object under study is a particular closed curve on the square lattice \Z^2 related with the Fibonacci sequence F_n. It belongs to a class of curves whose length is 4F_{3n+1}, and whose interiors by translation tile the plane. The limit object, when conveniently normalized, is a fractal line for which we compute first the fractal dimension, and then give a complexity measure.

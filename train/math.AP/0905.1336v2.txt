@@ -1,0 +1,1 @@
+In this note, motivated by our work on integral fully nonlinear equations, we provide a variation of the proof of Evans-Krylov theorem about the interior C^{2,\alpha} a priori estimate for concave fully nonlinear elliptic equations. The proof we present is shorter compared to the original proofs, although the key tools used in the argument are the same.

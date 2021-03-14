@@ -1,0 +1,1 @@
+We discuss whether finiteness properties of a profinite group G can be deduced from the probabilistic zeta function P_G(s). In particular we prove that if P_G(s) is rational and all but finitely many nonabelian composition factors of G are groups of Lie type in a fixed characteristic, then G contains only finitely many maximal subgroups.

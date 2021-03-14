@@ -1,0 +1,1 @@
+We show that for each Banach ideal of homogeneous polynomials, there exists a (necessarily unique) Banach operator ideal compatible with it. Analogously, we prove that any ideal of n-homogeneous polynomials belongs to a coherent sequence of ideals of k-homogeneous polynomials.

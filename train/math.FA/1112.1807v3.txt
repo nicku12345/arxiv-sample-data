@@ -1,0 +1,1 @@
+We analyze the concepts of analytically weak solutions of stochastic differential equations (SDEs) in Hilbert spaces with time-dependent unbounded operators and give conditions for existence and uniqueness of such solutions. Our studies are motivated by a stochastic partial differential equation (SPDE) arising in industrial mathematics.

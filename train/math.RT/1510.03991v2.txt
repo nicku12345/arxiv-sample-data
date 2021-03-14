@@ -1,0 +1,1 @@
+We show that there is a model structure in the sense of Quillen on an arbitrary Frobenius category \F such that the homotopy category of this model structure is equivalent to the stable category \underline{\F} as triangulated categories.

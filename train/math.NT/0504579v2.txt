@@ -1,0 +1,1 @@
+In relation to Hall's conjecture, a new algorithm is presented to search for small k = |x^3 -y^2| values. Thirteen new values of k < x^(1/2) are reported.

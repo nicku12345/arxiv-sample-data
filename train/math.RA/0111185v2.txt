@@ -1,0 +1,1 @@
+We prove that if \frak{g}^{\prime} is a contraction of a Lie algebra \frak{g} then the number of functionally independent invariants of \frak{g}^{\prime} is at least that of \frak{g}. This allows to determine explicitly the number of invariants of Lie algebras carrying a supplementary structure, such as linear contact or linear forms whose differential is symplectic.

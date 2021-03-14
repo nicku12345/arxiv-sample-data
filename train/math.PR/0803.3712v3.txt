@@ -1,0 +1,1 @@
+In this paper we study different algorithms for reflected backward stochastic differential equations (BSDE in short) with two continuous barriers basing on random work framework. We introduce different numerical algorithms by penalization method and reflected method. At last simulation results are also presented.

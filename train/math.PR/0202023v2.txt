@@ -1,0 +1,1 @@
+We prove a uniform Poincare' inequality for non-interacting unbounded spin systems with a conservation law, when the single-site potential is a bounded perturbation of a convex function. The result is then applied to Ginzburg-Landau processes to show diffusive scaling of the associated spectral gap.

@@ -1,0 +1,1 @@
+The paper uses the technique of finite-dimensional approximation to show that a constant scalr curvature Kahler metric (on a polarised algebraic variety without holomorphic vector fields) minimises the Mabuchi functional.

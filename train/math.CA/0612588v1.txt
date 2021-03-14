@@ -1,0 +1,1 @@
+In this article we obtain L^2 bounds for strongly singular integrals along curves in \R^d; our results both generalise and extend to higher dimensions those obtained by Chandarana in the plane. Moreover, we show that the operators in question are bounded from L\log L to weak L^1 at the critical exponent \alpha=0.

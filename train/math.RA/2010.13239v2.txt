@@ -1,0 +1,1 @@
+A Galois correspondence theorem is proved for the case of inverse semigroups acting on commutative rings as a consequence of the Galois correspondence theorem for groupoid actions. To this end, we use a classic result of inverse semigroup theory that establishes a one-to-one correspondence between inverse semigroups and inductive groupoids.

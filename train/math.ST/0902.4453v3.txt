@@ -1,0 +1,1 @@
+We establish limit theory for the Grenander estimator of a monotone density near zero. In particular we consider the situation when the true density f_0 is unbounded at zero, with different rates of growth to infinity. In the course of our study we develop new switching relations by use of tools from convex analysis. The theory is applied to a problem involving mixtures.

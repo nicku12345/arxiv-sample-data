@@ -1,0 +1,1 @@
+We construct a 2-category version of tom Dieck's equivariant fundamental groupoid for representable orbifolds and show that the discrete fundamental groupoid is Morita invariant; hence an orbifold invariant for representable orbifolds.

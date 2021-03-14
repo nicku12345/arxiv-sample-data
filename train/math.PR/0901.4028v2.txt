@@ -1,0 +1,1 @@
+Using the explicit representations of the Brownian motions on the hyperbolic spaces, we show that their almost sure convergence and the central limit theorems for the radial components as time tends to infinity are easily obtained. We also give a straightforward strategy to obtain the explicit expressions for the limit distributions or the Poisson kernels.

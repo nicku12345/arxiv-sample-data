@@ -1,0 +1,1 @@
+This article introduces the notion of a loose family of Engel structures and shows that two such families are Engel homotopic if and only if they are formally homotopic. This implies a complete h-principle when some auxiliary data is fixed. As a corollary, we show that Lorentz and orientable Cartan prolongations are classified up to homotopy by their formal data.

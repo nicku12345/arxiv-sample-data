@@ -1,0 +1,1 @@
+In this paper, we prove that the semigroups of invertible matrices with nonnegative elements over linearly oredered associative rings are elementarily equivalent if and only if the matrices have the same dimension and the rings are elementarily equivalent as ordered rings.

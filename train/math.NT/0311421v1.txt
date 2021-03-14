@@ -1,0 +1,1 @@
+We prove an old conjecture of Erd{\H o}s and Graham on sums of unit fractions: There exists a constant b>0 such that if we r-color the integers in 2,b^r], then there exists a monochromatic set S such that \sum_{n \in S} 1/n=1.

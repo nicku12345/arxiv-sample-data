@@ -1,0 +1,1 @@
+Let D be a smoothly bounded domain in a complex vector space of dimension n. Suppose that D has a smooth defining function, such that the sum of any q eigenvalues of its complex Hessian are non-negative on the closure of D. We show that this implies global regularity of the Bergman projection on (0,j)-forms for j larger or equal to q-1.

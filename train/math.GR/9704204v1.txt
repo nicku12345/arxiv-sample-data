@@ -1,0 +1,1 @@
+We define a class of groups based on parallel computations by pushdown automata. This class generalizes automatic groups. It includes the fundamental groups of all 3-manifolds which obey Thurston' s geometrization conjecture. It also includes nilpotent groups of arbitrary class and polynomial degree isoperimetric inequality. It is closed under wreath product.

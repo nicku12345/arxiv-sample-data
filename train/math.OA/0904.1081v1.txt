@@ -1,0 +1,1 @@
+We introduce the fundamental group {\mathcal F}(A) of a unital simple C^*-algebra A with a unique normalized trace. We compute fundamental groups {\mathcal F}(A) of several nuclear or non-nuclear C^*-algebras A. K-theoretical obstruction enables us to compute the fundamental group easily. Our study is essentially based on the computation of Picard groups by Kodaka.

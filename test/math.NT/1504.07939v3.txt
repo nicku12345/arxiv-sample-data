@@ -1,0 +1,1 @@
+In the article we establish the Hardy-Littlewood inequality  \pi (x + y) \leq \pi (x) + \pi (y) . We also prove that the naturally ordered primes p_1=2,p_2=3,p_3=5,p_4=7,\dots satisfy the inequality  p_ {a + b}> p_a + p_b  for all a, \ b \geq 2.

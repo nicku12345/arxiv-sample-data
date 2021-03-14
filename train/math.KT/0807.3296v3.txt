@@ -1,0 +1,1 @@
+We compute the total Witt groups of (split) Grassmann varieties, over any regular base X. The answer is a free module over the total Witt ring of X. We provide an explicit basis for this free module, which is indexed by a special class of Young diagrams, that we call even Young diagrams.

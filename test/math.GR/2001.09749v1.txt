@@ -1,0 +1,1 @@
+Simple algebraic groups of type F_4 defined over a field k are the full automorphism groups of Albert algebras over k. Let A be an Albert algebra over a field k of arbitrary characteristic. We prove that there is an isotope A^{(v)} of A such that the group \text{\bf Aut}(A^{(v)}) is R-trivial, in the sense of Manin.

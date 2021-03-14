@@ -1,0 +1,1 @@
+Let A be an associative commutative algebra with 1 over a field of zero characteristic, \{,\} : A \times A \to A is a Poisson bracket, Z = \{ a \in A \mid \{a, A\} = (0) \}. We prove that if A is simple as a Poisson algebra then the Lie algebra \frac{\{A,A\}}{\{A,A\}\cap Z} is simple.

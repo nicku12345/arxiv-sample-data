@@ -1,0 +1,1 @@
+Assuming the Riemann Hypothesis we obtain an upper bound for the moments of the Riemann zeta-function on the critical line. Our bound is nearly as sharp as the conjectured asymptotic formulae for these moments. The method extends to moments in families of L-functions.

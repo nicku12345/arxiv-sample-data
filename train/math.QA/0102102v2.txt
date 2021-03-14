@@ -1,0 +1,1 @@
+We show that surgery on a connected clover (or clasper) with at least one loop preserves the concordance class of a knot. Surgery on a slightly more special class of clovers preserves invertible concordance. We also show that the converse is false. Similar results hold for clovers with at least two loops vs. S-equivalence.

@@ -1,0 +1,1 @@
+An algorithm is described to compute the canonical basis of an irreducible module over a quantized enveloping algebra of a finite-dimensional semisimple Lie algebra. The algorithm works for modules that are constructed as a submodule of a tensor product of modules with known canonical bases.

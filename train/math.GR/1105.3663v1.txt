@@ -1,0 +1,1 @@
+A subgroup H of a group G is called \Bbb P-{\sl subnormal} in G if either H=G or there is a chain of subgroups H=H_0\subset H_1\subset...\subset H_n=G such that |H_i:H_{i-1}| is prime for 1\le i\le n. In this paper we study the groups all of whose 2-maximal subgroups are \Bbb P-subnormal.

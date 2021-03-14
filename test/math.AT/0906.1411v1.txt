@@ -1,0 +1,1 @@
+We give an explicit algorithm to compute a projective resolution of a module over the noncommutative ring based on the noncommutative Groebner bases theory.

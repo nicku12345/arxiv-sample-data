@@ -1,0 +1,1 @@
+Let E be a countable directed graph that is amplified in the sense that whenever there is an edge from v to w, there are infinitely many edges from v to w. We show that E can be recovered from C^*(E) together with its canonical gauge-action, and also from L_K(E) together with its canonical grading.

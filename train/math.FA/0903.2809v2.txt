@@ -1,0 +1,1 @@
+To each function f of bounded quadratic variation (f\in V_2) we associate a Hausdorff measure \mu_f. We show that the map f\to\mu_f is locally Lipschitz and onto the positive cone of \mathcal{M}[0,1]. We use the measures \{\mu_f:f\in V_2\} to determine the structure of the subspaces of V_2^0 which either contain c_0 or the square stopping time space S^2.

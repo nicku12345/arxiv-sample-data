@@ -1,0 +1,1 @@
+We give an explicit relation between the slope of the trajectory of a semigroup of holomorphic functions and the harmonic measure of the associated planar domain {\varOmega}. We use this to construct a semigroup whose slope is an arbitrary interval in  [{\pi}/2,-{\pi}/2] . The same method is used for the slope of a backward trajectory approaching a super-repulsive fixed point.

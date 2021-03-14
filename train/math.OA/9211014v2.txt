@@ -1,0 +1,1 @@
+We discuss some basic issues that arise when one attempts to model quantum mechanical systems on a computer, and we describe the mathematical structure of the resulting discretized cannonical commutation relations.

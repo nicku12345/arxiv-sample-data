@@ -1,0 +1,1 @@
+We consider the two dimensional parabolic-elliptic Patlak-Keller-Segel model of chemotactic aggregation for radially symmetric initial data. We show the existence of a stable mechanism of singularity formation and obtain a complete description of the associated aggregation process.

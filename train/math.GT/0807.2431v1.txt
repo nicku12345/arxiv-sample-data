@@ -1,0 +1,1 @@
+We describe the natural gluing map on sutured Floer homology which is induced by the inclusion of one sutured manifold (M',\Gamma') into a larger sutured manifold (M,\Gamma), together with a contact structure on M-M'. As an application of this gluing map, we produce a (1+1)-dimensional TQFT by dimensional reduction and study its properties.

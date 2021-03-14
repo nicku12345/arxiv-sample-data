@@ -1,0 +1,1 @@
+Let T be a general sampling statistic that can be written as a linear statistic plus an error term. Uniform and non-uniform Berry--Esseen type bounds for T are obtained. The bounds are the best possible for many known statistics. Applications to U-statistics, multisample U-statistics, L-statistics, random sums and functions of nonlinear statistics are discussed.

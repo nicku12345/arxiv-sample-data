@@ -1,0 +1,1 @@
+We consider the Fourier restriction operators associated to certain degenerate curves in R^d for which the highest torsion vanishes. We prove estimates with respect to affine arclength and with respect to the Euclidean arclength measure on the curve. The estimates have certain uniform features, and the affine arclength results cover families of flat curves.

@@ -1,0 +1,1 @@
+We describe a general method for expanding a truncated G-iterative Hasse-Schmidt derivation, where G is an algebraic group. We give examples of algebraic groups for which our method works.

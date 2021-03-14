@@ -1,0 +1,1 @@
+Scale spaces were defined by H.Hofer, K.Wysocki, and E.Zehnder. In this note we introduce a subclass of scale spaces and explain why we believe that this subclass is the right class for a general setup of Floer theory.

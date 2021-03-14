@@ -1,0 +1,1 @@
+Let K be a number field with algebraic closure K-bar, let S be a finite set of places of K containing the archimedean places, and let f be a Chebyshev polynomial. We prove that if a in K-bar is not preperiodic, then there are only finitely many preperiodic points b in K-bar which are S-integral with respect to a.

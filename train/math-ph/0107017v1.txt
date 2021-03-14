@@ -1,0 +1,1 @@
+For a large class of systems of o.d.e.'s which have first integrals, the method of arrays yields the following results:   i) The first integrals I can be found by solving systems of linear equations.   ii) How the first integral I responds to changes in the system S.   iii) An easy way for finding the first integral for a special class of first integrals if they exist.

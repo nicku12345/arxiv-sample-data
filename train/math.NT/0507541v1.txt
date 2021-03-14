@@ -1,0 +1,1 @@
+Let f be a polynomial of degree d>6, with integer coefficients. Then the paucity of non-trivial positive integer solutions to the equation f(a)+f(b)=f(c)+f(d) is established. The corresponding situation for equal sums of three like polynomials is also investigated.

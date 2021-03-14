@@ -1,0 +1,1 @@
+We introduce a concept of a quantum wide sense stationary process taking values in a C*-algebra and expected in a sub-algebra. The power spectrum of such a process is defined, in analogy to classical theory, as a positive measure on frequency space taking values in the expected algebra. The notion of linear quantum filters is introduced as some simple examples mentioned.

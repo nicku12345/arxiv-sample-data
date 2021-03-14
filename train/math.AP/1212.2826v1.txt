@@ -1,0 +1,1 @@
+We show that reaction-diffusion equations with almost-monotonic nonlinear terms are well-posed in L^q(\Omega) for each 1\leq q < \infty and the solutions are globally defined.

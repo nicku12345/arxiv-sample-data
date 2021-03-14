@@ -1,0 +1,1 @@
+We construct an efficient estimator for the error distribution function of the nonparametric regression model Y = r(Z) + e. Our estimator is a kernel smoothed empirical distribution function based on residuals from an under-smoothed local quadratic smoother for the regression function.

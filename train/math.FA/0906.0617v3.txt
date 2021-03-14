@@ -1,0 +1,1 @@
+Using fixed point methods, we prove the generalized Hyers--Ulam--Rassias stability of ternary homomorphisms, and ternary multipliers in ternary Banach algebras for the Jensen--type functional equation f(\frac{x+y+z}{3})+f(\frac{x-2y+z}{3})+f(\frac{x+y-2z}{3})= f(x).

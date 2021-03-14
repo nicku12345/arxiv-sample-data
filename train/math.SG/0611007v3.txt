@@ -1,0 +1,1 @@
+Let M denote a compact, oriented 3-manifold and let a denote a contact 1-form on M. This article proves that the vector field that generates the kernel of the 2-form da has at least one closed, integral curve.

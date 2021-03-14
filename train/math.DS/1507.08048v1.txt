@@ -1,0 +1,1 @@
+We show that a coded system is mixing if and only if it is totally transitive and if in addition it has a relatively prime generator, then it has strong property P. We continue by showing that a mixing half-synchronized system has such a generator. Moreover, we give an example of a mixing coded system which does not have any relatively prime generator.

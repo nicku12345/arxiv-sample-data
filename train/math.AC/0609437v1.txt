@@ -1,0 +1,1 @@
+Some results on the Cohen-Macaulayness of the canonical module. We study the S_2-fication of rings which are quotients by lattices ideals. Given a simplicial lattice ideal of codimension two I, its Macaulayfication is given explicitly from a system of generators of I.

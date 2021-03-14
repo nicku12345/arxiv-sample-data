@@ -1,0 +1,1 @@
+Let X be a manifold with boundary, endowed with a metric with conic singularities at the boundary components of X. Let u be a solution to the wave equation on \mathbb{R} \times X. When a singularity of u strikes a cone point of X, it undergoes a mixture of diffractive spreading and geometric propagation.

@@ -1,0 +1,1 @@
+We show that the meromorphic modular forms recently considered by Bringmann and Kane can be obtained as images of regularized theta lifts of Poincar\'{e} series under weight raising operators. We use this fact in order to simplify the evaluation of the regularized pairing, also defined by Bringmann and Kane, of these functions with other meromorphic modular forms.

@@ -1,0 +1,1 @@
+Let I\supsetneq J be two square free monomial ideals of a polynomial algebra over a field generated in degree \geq 1, resp. \geq 2 . Almost always when I contains precisely one variable, the other generators having degrees \geq 2, if the Stanley depth of I/J is \leq 2 then the usual depth of I/J is \leq 2 too, that is the Stanley Conjecture holds in these cases.

@@ -1,0 +1,1 @@
+Let X be a surface with quotient singularities which admits a smoothing to the plane. We prove that X is a deformation of a weighted projective plane P(a^2,b^2,c^2), where a,b,c is a solution of the Markov equation a^2+b^2+c^2=3abc. We also prove a generalisation for del Pezzo surfaces of degree K^2 at least 5.

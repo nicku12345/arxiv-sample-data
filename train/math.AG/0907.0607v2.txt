@@ -1,0 +1,1 @@
+We study the singularities of the irreducible components of the Springer fiber over a nilpotent element N with N^2=0 in a Lie algebra of type A or D (the so-called two columns case). We use Frobenius splitting techniques to prove that these irreducible components are normal, Cohen-Macaulay, and have rational singularities.

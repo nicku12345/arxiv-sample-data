@@ -1,0 +1,1 @@
+In this paper we give a geometric construction of the quantum group Ut(G) using Nakajima categories, which were developed in [29]. Our methods allow us to establish a direct connection between the algebraic realization of the quantum group as Hall algebra by Bridgeland [1] and its geometric counterpart by Qin [24].

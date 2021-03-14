@@ -1,0 +1,1 @@
+Given a projective variety X over an algebraically closed field of characteristic zero, we show that finite parabolic bundles along a fixed simple normal crossings divisor D are in one to one correspondence with representations of the \'etale fundamental group of X-D.

@@ -1,0 +1,1 @@
+Let {X_n, n \ge 1} be a sequence of stationary associated random variables. For such a sequence, we discuss the limiting behavior of U-statistics based on kernels which are of bounded Hardy-Krause variation.

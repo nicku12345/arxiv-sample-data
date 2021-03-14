@@ -1,0 +1,1 @@
+Let M be a connected compact contact toric manifold. We first list those manifolds which are not of Reeb type and compute their fundamental groups; we see that, their fundamental groups are infinite abelian. If M is of Reeb type, we show that \pi_1(M) is finite cyclic, and we describe how to obtain the cyclic order of \pi_1(M) from the moment map image.

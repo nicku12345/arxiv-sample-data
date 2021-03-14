@@ -1,0 +1,1 @@
+Given a subfactor planar algebra P, Guionnet, Jones and Shlyakhtenko give a diagrammatic construction of a II_{1} subfactor whose planar algebra is P. They showed if P is finite-depth, then the factors are interpolated free group factors, and they identified the parameters. We prove if P is infinite-depth, then the factors are isomorphic to L(F\infty}.

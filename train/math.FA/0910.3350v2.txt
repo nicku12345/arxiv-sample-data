@@ -1,0 +1,1 @@
+We prove that the quadratic second quantization of an operator p on L^2(\mathbb{R}^d)\cap L^\infty (\mathbb{R}^d) is an orthogonal projection on the quadratic Fock space if and only if p =MI, where MI is a multiplication operator by a characteristic function I.

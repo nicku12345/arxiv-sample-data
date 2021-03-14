@@ -1,0 +1,1 @@
+A system consisting of a chaotic (billiard-like) oscillator coupled to a linear wave equation in the three-dimensional space is considered. It is shown that the chaotic behaviour of the oscillator can cause the transfer of energy from a monochromatic wave to the oscillator, whose energy can grow without bound.

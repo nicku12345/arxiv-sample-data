@@ -1,0 +1,1 @@
+We estimate the number of possible types degree patterns of k-lacunary polynomials of degree t < p which split completely modulo p. The result is based on a combination of a bound on the number of zeros of lacunary polynomials with some graph theory arguments.

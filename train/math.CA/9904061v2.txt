@@ -1,0 +1,1 @@
+Following suggestions of T. H. Koornwinder, we give a new proof of Kummer's theorem involving Zeilberger's algorithm, the WZ method and asymptotic estimates. In the first section, we recall a classical proof given by L. J. Slater. The second section discusses the new proof, in the third section sketches of similar proofs for Bailey's and Dixon's theorems are given.

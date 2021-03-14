@@ -1,0 +1,1 @@
+We show that Belavin's solutions of the quantum Yang--Baxter equation can be obtained by restricting an infinite R-matrix to suitable finite dimensional subspaces. This infinite R-matrix is a modified version of the Shibukawa--Ueno R-matrix acting on functions of two variables.

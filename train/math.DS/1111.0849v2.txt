@@ -1,0 +1,1 @@
+For dynamical systems modeled by a Young tower with exponential tails, we prove an exponential concentration inequality for all separately Lipschitz observables of n variables. When tails are polynomial, we prove polynomial concentration inequalities. Those inequalities are optimal. We give some applications of such inequalities to specific systems and specific observables.

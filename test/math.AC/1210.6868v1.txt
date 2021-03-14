@@ -1,0 +1,1 @@
+A polynomial p\in\mathbb{R}[x] is a divisor of some polynomial 0\neq f\in\mathbb{R}[x] with non-negative coefficients if and only if p does not have a positive real root. The lowest possible degree of such f for a given p is known for quadratic polynomials. We provide it for cubic polynomials and improve known bounds of this value for a general polynomial.

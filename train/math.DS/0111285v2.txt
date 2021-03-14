@@ -1,0 +1,1 @@
+We prove that the well-known 3/2 stability condition established for the Wright equation (WE) still holds if the nonlinearity p(\exp(-x)-1) in WE is replaced by a decreasing or unimodal smooth function f with f'(0)<0 satisfying the standard negative feedback and below boundedness conditions and having everywhere negative Schwarz derivative.

@@ -1,0 +1,1 @@
+We prove the following version of Wlodarczyk's Embedding Theorem: Every normal complex algebraic {\bf C}^*-variety admits an equivariant closed embedding into a toric prevariety X on which {\bf C}^* acts as a one-parameter-subgroup of the big torus of X.

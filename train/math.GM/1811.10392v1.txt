@@ -1,0 +1,1 @@
+In this study, the existence and uniqueness of the unpredictable solution for a non-homogeneous linear system of ordinary differential equations is considered. The hyperbolic case is under discussion. New properties of unpredictable functions are discovered. The presence of the solutions confirms the existence of Poincar\'e chaos. Simulations illustrating the chaos are provided.

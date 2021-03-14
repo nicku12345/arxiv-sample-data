@@ -1,0 +1,1 @@
+We use Lyapunov type functions to find conditions of finite shadowing in a neighborhood of a nonhyperbolic fixed point of a one-dimensional or two-dimensional homeomorphism or diffeomorphism. A new concept of shadowing in which we control the size of one-step errors is introduced in the case of a nonisolated fixed point.

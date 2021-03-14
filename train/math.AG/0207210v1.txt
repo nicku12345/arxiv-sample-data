@@ -1,0 +1,1 @@
+We prove the equivalence of two fundamental properties of algebraic stacks: being a quotient stack in a strong sense, and the resolution property, which says that every coherent sheaf is a quotient of some vector bundle. Moreover, we prove these properties in the important special case of orbifolds whose associated algebraic space is a scheme.

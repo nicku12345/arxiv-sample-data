@@ -1,0 +1,1 @@
+J.-C. Yoccoz proposed a natural extension of Selberg's Eigenvalue Conjecture to moduli spaces of abelian differentials. We prove an approximation to this conjecture. This gives a qualitative generalization of Selberg's \frac{3}{16} Theorem to moduli spaces of abelian differentials on surfaces of genus \geq 2.

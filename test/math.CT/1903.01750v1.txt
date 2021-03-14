@@ -1,0 +1,1 @@
+As part of the study of correspondence functors, the present paper investigates their tensor product and proves some of its main properties. In particular, the correspondence functor associated to a finite lattice has the structure of a commutative algebra in the tensor category of all correspondence functors.

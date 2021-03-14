@@ -1,0 +1,1 @@
+We establish a combinatorial connection between the sequence (i_{n,k}) counting the involutions on n letters with k descents and the sequence (a_{n,k}) enumerating the semistandard Young tableaux on n cells with k symbols. This allows us to show that the sequences (i_{n,k}) are not log-concave for some values of n, hence answering a conjecture due to F. Brenti.

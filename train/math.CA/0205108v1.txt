@@ -1,0 +1,1 @@
+We prove a reduction formula for Karlsson-Minton type hypergeometric series on the root system C_n and derive some consequences of this identity. In particular, when combined with a similar reduction formula for A_n, it implies a C_n Watson transformation due to Milne and Lilly.

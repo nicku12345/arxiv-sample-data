@@ -1,0 +1,1 @@
+We prove homological stability for standard unitary groups over R, C and H and for general linear groups over skew-fields with infinite centre. We focus on the similarities and differences of these proofs. Both proofs are due to Chih-Han Sah (Homology of classical Lie groups made discrete I: Stability theorems and Schur multipliers. Comment. Math. Helv. 61(2), 1986).

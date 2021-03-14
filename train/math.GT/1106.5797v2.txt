@@ -1,0 +1,1 @@
+We determine for which n, the complete bipartite graph K_{n,n} has an embedding in S^3 whose topological symmetry group is isomorphic to one of the polyhedral groups: A_4, A_5, or S_4.

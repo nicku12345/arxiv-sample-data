@@ -1,0 +1,1 @@
+In this paper we consider models for short-term, mean-term and long-term morphodynamics of dunes and megariples. We give an existence and uniqueness result for long term dynamics of dunes. This result is based on a time-space periodic solution existence result for degenerated parabolic equation that we set out. Finally the mean-term and long-term models are homogenized.

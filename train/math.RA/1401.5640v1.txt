@@ -1,0 +1,1 @@
+Every finitely presented MV-algebra A has a unique idempotent valuation E assigning value 1 to every basic element of A. For each element a of A, E(a) turns out to coincide with the Euler characteristic of the open set of maximal ideals m of A such that a/m is nonzero.

@@ -1,0 +1,1 @@
+In this paper, we prove the redundancies of multiset topologies. It is shown that there is a complement preserving isomorphism between (P^\star(U),\sqsubseteq) and (\mathcal{P}(X\times\mathbb{N}),\subseteq). It therefore follows that multiset topologies are superfluous and unnecessary in the theoretical view point.

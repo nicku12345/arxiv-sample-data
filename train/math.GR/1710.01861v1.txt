@@ -1,0 +1,1 @@
+Let p be a prime and let P be a Sylow p-subgroup of a finite nonabelian group G. Let bcl(G) be the size of the largest conjugacy class of the group G. We show that |P/O_p(G)| < bcl(G) if G is not abelian.

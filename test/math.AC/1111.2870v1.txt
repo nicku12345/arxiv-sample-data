@@ -1,0 +1,1 @@
+We study the number of 0,1-words where the fraction of 0 is "almost" fixed for any initial subword. It turns out that this study use and reveal the structure of the Galois group (the monodromy group) of the polynomials (x+1)^n-\lambda x^p. (p is not necessary a prime here.)

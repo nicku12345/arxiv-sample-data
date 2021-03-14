@@ -1,0 +1,1 @@
+In ths paper we study the VOA V_{\mathcal{J},r} constructed by Ashihara and Miyamoto, We construct simple quotients of V_{\mathcal{J},r},r\in\mathbb{Z}_{\neq 0} explicitly using dual-pair type constructions. We also compute the character formula of the simple quotients when r=-2n,n\geq 1.

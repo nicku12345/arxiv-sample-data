@@ -1,0 +1,1 @@
+We show that the Fourier transform on the Jacobian of a curve interchanges "\delta functions" at the curve and the theta divisor. The Torelli theorem is an immediate consequence.

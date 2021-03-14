@@ -1,0 +1,1 @@
+We determine how large r-partite graphs can be found in r-uniform graphs with n vertices and Cn^r edges, where C is a slowly decreasing function of n. This refines results of Erdos from 1964.

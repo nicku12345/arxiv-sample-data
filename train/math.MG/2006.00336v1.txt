@@ -1,0 +1,1 @@
+The complex conjecture of Stefan Banach states that if V is a Banach space over the complex numbers where for some n, 1<n<dim(V), all of its n-dimensional subspaces are isometric, then V is a Hilbert space. Mikhail Gromov proved it for n even in 1967. Here, we prove it for n congruent to 1 mod 4.

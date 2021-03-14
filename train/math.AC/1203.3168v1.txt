@@ -1,0 +1,1 @@
+In this note, we calculate the Koszul homology of the codimension 3 Gorenstein ideals. We find filtrations for the Koszul homology in terms of modules with pure free resolutions and completely describe these resolutions. We also consider the Huneke-Ulrich deviation 2 ideals.

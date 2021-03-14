@@ -1,0 +1,1 @@
+Let C be a semidualizing complex over a noetherian local ring A. If there exists a local homomorphism with source A satisfying some homological properties, then C is dualizing.

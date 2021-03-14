@@ -1,0 +1,1 @@
+Kiyota, Murai and Wada conjectured in 2002 that the largest eigenvalue of the Cartan matrix C of a block of a finite group is rational if and only if all eigenvalues of C are rational. We provide a counterexample to this conjecture and discuss related questions.

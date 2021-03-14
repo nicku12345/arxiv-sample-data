@@ -1,0 +1,1 @@
+In this paper we replay the definitions, constructions and results from [SIAM J. Sci. Comp., 37(3)(2015), A1248-A1269] by completing and developing some of them to inconsistent least squares problems.

@@ -1,0 +1,1 @@
+We address the generalized variational problem of Herglotz from an optimal control point of view. Using the theory of optimal control, we derive a generalized Euler-Lagrange equation, a transversality condition, a DuBois-Reymond necessary optimality condition and Noether's theorem for Herglotz's fundamental problem, valid for piecewise smooth functions.

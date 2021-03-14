@@ -1,0 +1,1 @@
+Let xi be a non-null countable ordinal. We study the Borel subsets of the plane that can be made \bormxi by refining the Polish topology on the real line. These sets are called potentially \bormxi. We give a Hurewicz-like test to recognize potentially \bormxi sets.

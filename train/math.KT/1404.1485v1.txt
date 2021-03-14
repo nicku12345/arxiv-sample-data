@@ -1,0 +1,1 @@
+We construct the categories of standard vector bundles over schemes and define direct sum and tensor product. These categories are equivalent to the usual categories of vector bundles with additional properties. The tensor product is strictly associative, strictly commutative with line bundles, and strictly functorial on base change.

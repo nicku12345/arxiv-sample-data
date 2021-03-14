@@ -1,0 +1,1 @@
+This article summarizes joint work with A. Alekseev (Geneva) on the Duflo isomorphism for quadratic Lie algebras. We describe a certain quantization map for Weil algebras, generalizing both the Duflo map and the quantization map for Clifford algebras. In this context, Duflo's theorem generalizes to a statement in equivariant cohomology.

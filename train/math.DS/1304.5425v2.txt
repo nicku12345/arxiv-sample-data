@@ -1,0 +1,1 @@
+We show that there is a residual subset \mathcal{R} of Diff^1(M) such that for any f\in\mathcal{R} and any partially hyperbolic homoclinic class H(p,f) with one dimensional center direction, the set of central Lyapunov exponents associated with the ergodic with either full support or positive entropy is an interval.

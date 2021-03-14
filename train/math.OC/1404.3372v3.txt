@@ -1,0 +1,1 @@
+We employ the viscosity solution technique to analyze optimal stopping problems with regime switching. Specifically, we obtain the viscosity property of value functions, the uniqueness of viscosity solutions, the regularity of value functions and the form of optimal stopping intervals. Finally, we provide an application of the results.

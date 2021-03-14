@@ -1,0 +1,1 @@
+We use the notion of Milnor fibres of the germ of a meromorphic function and the method of partial resolutions for a study of topology of a polynomial map at infinity (mainly for calculation of the zeta-function of a monodromy). It gives effective methods of computation of the zeta-function for a number of cases and a criterium for a value to be atypical at infinity.

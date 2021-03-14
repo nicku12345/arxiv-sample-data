@@ -1,0 +1,1 @@
+The range of a trigonometric polynomial with complex coefficients can be interpreted as the image of the unit circle under a Laurent polynomial. We show that this range is contained in a real algebraic subset of the complex plane. Although the containment may be proper, the difference between the two sets is finite, except for polynomials with certain symmetry.

@@ -1,0 +1,1 @@
+We define the Radon transform functor for sheaves and prove that it is an equivalence after suitable microlocal localizations. As a result, the sheaf category associated to a Legendrian is invariant under the Radon transform. We also manage to place the Radon transform and other transforms in microlocal sheaf theory altogether in a diagram.

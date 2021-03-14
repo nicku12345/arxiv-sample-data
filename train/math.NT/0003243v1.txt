@@ -1,0 +1,1 @@
+In this paper we compare several properties and constructions of the Carlitz polynomials and digit derivatives for continuous functions on \F_q[[T]]. In particular, we show a close relation between them as orthonormal bases. Moreover, parallel to Carlitz's coefficient formula, we give the closed formula for the expansion coefficients in terms of the digit derivatives.

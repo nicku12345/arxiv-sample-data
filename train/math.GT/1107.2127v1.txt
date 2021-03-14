@@ -1,0 +1,1 @@
+We show that for any two Heegaard splittings of genus p and q for the same closed 3-manifold, there is a common stabilization of genus at most 3/2 p + 2q - 1. One may compare this to recent examples of Heegaard splittings whose smallest common stabilizations have genus at least p+q or p + 1/2 q depending on the notion of equivalence.

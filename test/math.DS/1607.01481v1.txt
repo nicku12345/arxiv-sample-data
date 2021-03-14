@@ -1,0 +1,1 @@
+We prove an escape rate result for special semi-flows over non-invertible subshifts of finite type. Our proofs are based on a discretisation of the flow and an application of an escape rate result for conformal repellers.

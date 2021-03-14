@@ -1,0 +1,1 @@
+A uniform key renewal theorem is deduced from the uniform Blackwell's renewal theorem. A uniform LDP (large deviations principle) for renewal-reward processes is obtained, and MDP (moderate deviations principle) is deduced under conditions much weaker than existence of exponential moments.

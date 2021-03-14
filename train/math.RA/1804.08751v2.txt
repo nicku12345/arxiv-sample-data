@@ -1,0 +1,1 @@
+Let P be a partially ordered set, R a commutative unital ring and FI(P,R) the finitary incidence algebra of P over R. We prove that each R-linear higher derivation of FI(P,R) decomposes into the product of an inner higher derivation of FI(P,R) and the higher derivation of FI(P,R) induced by a higher transitive map on the set of segments of P.

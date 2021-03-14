@@ -1,0 +1,1 @@
+Let X be a Fano manifold of dimension n and index n-3. Kawamata proved the non vanishing of the global sections of the fundamental divisor in the case n=4. Moreover he proved that if Y is a general element of the fundamental system then Y has at most canonical singularities. We prove a generalization of this result in arbitrary dimension.

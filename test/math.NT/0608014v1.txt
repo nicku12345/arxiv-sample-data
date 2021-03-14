@@ -1,0 +1,1 @@
+We prove that for any given s > 0 the geometric mean of the radicals of the phi(n) integers less than n and relatively prime to n, is greater than K(s)R(n) ^(-s)n, where K(s) an absolute constant depending only on s.

@@ -1,0 +1,1 @@
+In 1991, Negami found an upper bound on the stick number s(K) of a nontrivial knot K in terms of the minimal crossing number c(K) of the knot which is s(K) \leq 2 c(K). In this paper we improve this upper bound to s(K) \leq \frac{3}{2} (c(K)+1). Moreover if K is a non-alternating prime knot, then s(K) \leq \frac{3}{2} c(K).

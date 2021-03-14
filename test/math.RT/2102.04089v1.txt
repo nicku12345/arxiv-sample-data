@@ -1,0 +1,1 @@
+In this article, we generalize Duflo's conjecture to understand the branching laws of non-discrete series. We give a unified description on the geometric side about the restriction of an irreducible unitary representation \pi of \mathrm{GL}_n(k), k=\mathbb{R} or \mathbb{C}, to the mirabolic subgroup, where \pi is attached to a certain kind of coadjoint orbit.

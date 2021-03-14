@@ -1,0 +1,1 @@
+We use the comultiplication to prove that Hall polynomials exist for all finite and affine quivers. In the finite and cyclic cases, this approach provides a new and simple proof of the existence of Hall polynomials. In general, these polynomials are defined with respect to the decomposition classes of Bongartz and Dudek, a generalisation of the Segre classes for square matrices.

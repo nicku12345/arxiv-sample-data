@@ -1,0 +1,1 @@
+We consider the problem of determining the symmetric tensor rank for symmetric tensors with an algebraic geometry approach. We give algorithms for computing the symmetric rank for 2\times ... \times 2 tensors and for tensors of small border rank. From a geometric point of view, we describe the symmetric rank strata for some secant varieties of Veronese varieties.

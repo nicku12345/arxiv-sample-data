@@ -1,0 +1,1 @@
+The notion of a Dirac submanifold of a Poisson manifold was studied by Xu (arXiv:math.SG/0110326). We give an interpretation of Xu's definition in terms of a general notion of tensor fields soldered to a normalized submanifold. Then, this interpretation is used to define Dirac submanifolds of a Jacobi manifold. Several properties and examples are discussed.

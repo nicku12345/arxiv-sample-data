@@ -1,0 +1,1 @@
+Suppose F is a field with a nontrivial valuation v and valuation ring O_{v}, E is a finite field extension and w is a quasi-valuation on E extending v. We study the topology induced by w. We prove that the quasi-valuation ring determines the topology, independent of the choice of its quasi-valuation. Moreover, we prove the weak approximation theorem for quasi-valuations.

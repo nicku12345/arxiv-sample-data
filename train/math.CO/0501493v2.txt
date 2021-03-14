@@ -1,0 +1,1 @@
+We present an extension of the Delsarte linear programming method. For several dimensions it yields improved upper bounds for kissing numbers and for spherical codes. Musin's recent work on kissing numbers in dimensions three and four can be viewed in our framework.

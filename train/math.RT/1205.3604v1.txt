@@ -1,0 +1,1 @@
+In this paper we construct a large class of modules for toroidal Lie superalgebras. Toroidal Lie superalgebras are universal central extension of G tensor A where G is a basic classical Lie superalgebra and A is a Laurent polynomial ring in sevaral variables. The case where G is simple finite dimensional Lie algebra is included.

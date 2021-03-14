@@ -1,0 +1,1 @@
+We study the subgroup of k-automorphisms of k[x,y] which commute with a simple derivation D of k[x,y]. We prove, for example, that this subgroup is trivial when D is a Shamsuddin simple derivation. In the general case of simple derivations, we obtain properties for the elements of this subgroup.

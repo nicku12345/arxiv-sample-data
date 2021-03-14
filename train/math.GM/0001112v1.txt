@@ -1,0 +1,1 @@
+To every integer monic polynomial of degree m can be associated m integer sequences having interesting properties to the roots of the polynomial. These sequences can be used to find the real roots of any integer monic polynomial by using recursion relation involving integers only. This method is faster than the conventional methods using floating point arithmetic.

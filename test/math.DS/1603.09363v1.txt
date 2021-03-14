@@ -1,0 +1,1 @@
+In the present work the model of PLL with impulse signals and active PI filter in the signal's phase space is described. For the considered PLL the lock-in range is computed analytically and obtained result are compared with numerical simulations.

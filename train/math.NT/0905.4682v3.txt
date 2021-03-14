@@ -1,0 +1,1 @@
+For a newform for Gamma_0(N) of even weight k, we prove that its attached p-adic L-function is not identically zero on the group Z_p of the p-adic units. If p >3, we prove that the order of vanishing at any p-adic integer is finite.

@@ -1,0 +1,1 @@
+Given A\in\Omega_n, the n^2-dimensional spectral unit ball, we show that B is a "generalized" tangent vector at A to an entire curve in \Omega_n if and only if B is in the tangent cone C_A to the isospectral variety at A. In the case of \Omega_3, the zero set of this metric is completely described.

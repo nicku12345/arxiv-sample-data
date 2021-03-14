@@ -1,0 +1,1 @@
+We prove a Littlewood-Richardson type formula for (s_{\lambda/\mu},s_{\nu/\kappa})_{t^k,t}, the pairing of two skew Schur functions in the MacDonald inner product at q = t^k for positive integers k. This pairing counts graded decomposition numbers in the representation theory of wreath products of the algebra C[x]/x^k and symmetric groups.

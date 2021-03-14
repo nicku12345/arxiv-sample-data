@@ -1,0 +1,1 @@
+In his paper of 2000, Kenneth B. Stolarsky made various observations and conjectures about discriminants and generating functions of certain types of Chebyshev-like polynomials. We prove several of these conjectures. One of our proofs involves Wilf-Zeilberger pairs and a contiguous relation for hypergeometric series.

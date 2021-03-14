@@ -1,0 +1,1 @@
+We introduce a wider class of bounded Hartogs domains, which contains some generalizations of the classical Hartogs triangle. A sharp criteria for the L^p-L^q boundedness of the Toeplitz operator with symbol K^{-t} is obtained on these domains, where K is the Bergman kernel on diagonal and t\geq 0. It generalizes the results by Chen and Beberok in the case 1<p<\infty.

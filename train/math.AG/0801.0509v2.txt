@@ -1,0 +1,1 @@
+We study the quotient of a completion of a symmetric variety G/H under the action of H. We prove that this is isomorphic to the closure of the image of an isotropic torus under the action of the restricted Weyl group. In the case the completion is smooth and toroidal we describe the set of semistable points.

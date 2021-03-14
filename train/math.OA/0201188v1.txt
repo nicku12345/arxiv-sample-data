@@ -1,0 +1,1 @@
+Given a JBW*-triple Z and a normal contractive projection P on Z, we show that the (Murray-von Neumann) type of each summand of P(Z) is dominated by the type of Z.

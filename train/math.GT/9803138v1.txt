@@ -1,0 +1,1 @@
+A simple multivariable version of the reduced Burau matrix is constructed for any braid. It is shown how the multivariable Alexander polynomial for the closure of the braid can be found directly from this matrix.

@@ -1,0 +1,1 @@
+We show that the Castelnuovo--Mumford regularity of the canonical or a deficiency module of the quotient of a polynomial ring by a monomial ideal is bounded by its dimension.

@@ -1,0 +1,1 @@
+In this short note we present a new general definition of local fractional derivative, that depends on an unknown kernel. For some appropriate choices of the kernel we obtain some known cases. We establish a relation between this new concept and ordinary differentiation. Using such formula, most of the fundamental properties of the fractional derivative can be derived directly.

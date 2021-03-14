@@ -1,0 +1,1 @@
+In this note we define and study a Hilbert space-valued stochastic integral of operator-valued functions with respect to Hilbert space-valued measures. We show that this integral generalizes the classical Ito stochastic integral of adapted processes with respect to normal martingales and the Ito integral in a Fock space

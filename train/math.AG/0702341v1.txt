@@ -1,0 +1,1 @@
+Given a smooth projective variety V of dimension n, one may say that V has motivic dimension less than d+1 if the cohomology of V comes from varieties of dimensions less than d+1 in some geometric way. In this paper, we show that a smooth complete interesection of k quadrics has a motivic dimension less than k.

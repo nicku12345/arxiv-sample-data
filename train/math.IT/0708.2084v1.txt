@@ -1,0 +1,1 @@
+We trace the history of empirical entropy, touching briefly on its relation to Markov processes, normal numbers, Shannon entropy, the Chomsky hierarchy, Kolmogorov complexity, Ziv-Lempel compression, de Bruijn sequences and stochastic complexity.

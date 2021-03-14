@@ -1,0 +1,1 @@
+We study the geometry of the Thurston metric on Teichmuller space by examining its geodesics and comparing them to Teichmuller geodesics. We show that, similar to a Teichmuller geodesic, the shadow of a Thurston geodesic to the curve graph is a reparametrized quasi-geodesic. However, we show that the set of short curves along the two geodesics are not identical.

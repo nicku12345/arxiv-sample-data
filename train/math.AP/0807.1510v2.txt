@@ -1,0 +1,1 @@
+This paper is concerned with the existence and the regularity of global solutions to the linear wave equation associated with two-point type boundary conditions. We also investigate the decay properties of the global solutions to this problem by the construction of a suitable Lyapunov functional.

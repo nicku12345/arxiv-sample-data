@@ -1,0 +1,1 @@
+The Courant bracket defined originally on the sections of the vector bundle TM \oplus T^*M \to M is extended to the direct sum of the 1-jet vector bundle and its dual. The extended bracket allows to interpret many structures encountered in differential geometry in terms of Dirac structures. We give here a new approach to conformal Jacobi structures.

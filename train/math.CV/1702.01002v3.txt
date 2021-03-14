@@ -1,0 +1,1 @@
+We embed compact C^\infty manifolds into \mathbb C^n as totally real manifolds with prescribed polynomial hulls. As a consequence we show that any compact C^\infty manifold of dimension d admits a totally real embedding into \mathbb C^{\lfloor \frac{3d}{2}\rfloor} with non-trivial polynomial hull without complex structure.

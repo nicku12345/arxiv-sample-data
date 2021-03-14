@@ -1,0 +1,1 @@
+We introduce an operation that measures the self intersections of paths on a surface. As applications, we give a criterion of the realizability of a generalized Dehn twist, and derive a geometric constraint on the image of the Johnson homomorphism.

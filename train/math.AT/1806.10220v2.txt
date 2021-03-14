@@ -1,0 +1,1 @@
+In this paper we demonstrate a calculation to find the genus of the hypercube graph Q_n using real moment-angle complex \mathcal{Z}_\mathcal{K}(D^1,S^0) where \mathcal{K} is the boundary of an n-gon. We also calculate an upper bound for the genus of the quotient graph Q_n/C_n, where C_n represents the cyclic group with n elements.

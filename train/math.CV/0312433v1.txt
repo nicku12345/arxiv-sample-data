@@ -1,0 +1,1 @@
+Gelfond and Khovanskii found a formula for the sum of the values of a Laurent polynomial over the zeros of a system of n Laurent polynomials in the algebraic n-torus. We expect that a similar formula holds in the case of exponential sums with real frequencies. Here we prove such a formula in dimension 1.

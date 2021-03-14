@@ -1,0 +1,1 @@
+We give a short proof that, for nice X, the based fundamental groupoid of X with topology induced by the compact open topology on the space of paths, is indeed the universal covering space of X.

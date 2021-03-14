@@ -1,0 +1,1 @@
+Given a finite index subgroup of SL_2(\mathbb Z) with modular curve defined over \mathbb Q, under the assumption that the space of weight k ( \ge 2) cusp forms is 1-dimensional, we show that a form in this space with Fourier coefficients in \mathbb Q has bounded denominators if and only if it is a congruence modular form.

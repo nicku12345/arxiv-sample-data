@@ -1,0 +1,1 @@
+Filip showed that there are constants C>0 and \delta>0 such that the number of special Lagrangian fibrations of volume \leq V in a generic twistor family of K3 surfaces is C\cdot V^{20}+O(V^{20-\delta}).   In this note, we show that \delta can be taken to be any number 0<\delta<\frac{4}{697633}.

@@ -1,0 +1,1 @@
+Pugh and Shub have conjectured that essential accessibility implies ergodicity, for a C^2, partially hyperbolic, volume-preserving diffeomorphism. We prove this conjecture under a mild center bunching assumption, which is satsified by all partially hyperbolic systems with 1-dimensional center bundle. We also obtain ergodicity results for C^{1+\gamma} partially hyperbolic systems.

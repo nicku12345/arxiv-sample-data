@@ -1,0 +1,1 @@
+The Gieseker-Petri locus GP_g is defined as the locus inside M_g consisting of curves which violate the Gieseker-Petri Theorem. It is known that GP_g has always some divisorial components and it has been conjectured that it is of pure codimension 1 inside M_g. We prove that this holds true for genus up to 13.

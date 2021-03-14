@@ -1,0 +1,1 @@
+If T= \big[ T_1 ... T_n\big] is a row contraction with commuting entries, and the Arveson dilation is \tilde T= \big[ \tilde T_1 ... \tilde T_n\big], then any operator X commuting with each T_i dilates to an operator Z of the same norm which commutes with each \tilde T_i.

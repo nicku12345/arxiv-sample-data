@@ -1,0 +1,1 @@
+We present an alternative equivalent description of Dupont's simplicial contraction: it is an explicit example of a simplicial contraction between the simplicial differential graded algebra of polynomial differential forms on standard simplices and the space of Whitney elementary forms.

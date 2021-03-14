@@ -1,0 +1,1 @@
+We develop cohomological and homological theories for a profinite group G with coefficients in the Pontryagin dual categories of pro-discrete and ind-profinite G-modules, respectively. The standard results of group (co)homology hold for this theory: we prove versions of the Universal Coefficient Theorem, the Lyndon-Hochschild-Serre spectral sequence and Shapiro's Lemma.

@@ -1,0 +1,1 @@
+We exhibit an explicit formula for the spectral density of a (large) random matrix which is a diagonal matrix whose spectral density converges, perturbated by the addition of a symmetric matrix with Gaussian entries and a given (small) limiting variance profile.

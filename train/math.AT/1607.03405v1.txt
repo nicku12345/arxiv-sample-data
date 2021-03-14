@@ -1,0 +1,1 @@
+The functor that takes a manifold to its configuration category exhibits a type of full faithfulness in some cases.

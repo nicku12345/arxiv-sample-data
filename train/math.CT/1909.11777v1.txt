@@ -1,0 +1,1 @@
+In analogy with the classical theory of topological groups, for finitely complete categories enriched with Grothendieck topologies, we provide the concepts of localized G-topological space, initial Grothendieck topologies and continuous morphisms, in order to obtain the concepts of G-topological monoid and G-topological group objects.

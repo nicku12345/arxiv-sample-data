@@ -1,0 +1,1 @@
+In this paper, we consider a simple test case of multiparameter product systems that arise out of random measures. We associate a product system to a stationary Poisson process and a stationary compound Poisson process. We show that the resulting E_0-semigroups are CCR flows.

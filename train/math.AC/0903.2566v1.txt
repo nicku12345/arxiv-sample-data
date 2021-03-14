@@ -1,0 +1,1 @@
+We consider the class of all commutative reduced rings for which there exists a finite subset T of A such that all projections on quotients by prime ideals of A are surjective when restricted to T. A complete structure theorem is given for this class of rings, and it is studied its relation with other finiteness conditions on the quotients of a ring over its prime ideals.

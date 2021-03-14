@@ -1,0 +1,1 @@
+We consider logarithmic vector fields parametrized by finite collections of weighted hyperplanes. For a finite collection of weighted hyperplanes in a two-dimensional vector space, it is known that the set of such vector fields is a free module of rank two whose basis elements are homogeneous. We give an algorithm to construct a homogeneous basis for the module.

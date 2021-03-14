@@ -1,0 +1,1 @@
+The category of dendroidal sets is an extension of that of simplicial sets, suitable for defining nerves of operads rather than just of categories. In this paper, we prove some basic properties of inner Kan complexes in the category of dendroidal sets. In particular, we extend fundamental results of Boardman and Vogt, of Cordier and Porter, and of Joyal to dendroidal sets.

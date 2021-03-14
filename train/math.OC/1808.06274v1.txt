@@ -1,0 +1,1 @@
+The subgradient method for convex optimization problems on complete Riemannian manifolds with lower bounded sectional curvature is analyzed in this paper. Iteration-complexity bounds of the subgradient method with exogenous step-size and Polyak's step-size are stablished, completing and improving recent results on the subject.

@@ -1,0 +1,1 @@
+We show how Pick interpolation and interpolation on peak interpolation sets can be combined in an abstract uniform algebra setting. In particular as a special case, the Rudin-Carleson theorem can be combined with the classical Pick interpolation theorem on the disc.

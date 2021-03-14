@@ -1,0 +1,1 @@
+We study the formal geometric quantization of b^m-symplectic manifolds equipped with Hamiltonian actions of a torus T with nonzero leading modular weight. The resulting virtual T-modules are finite dimensional when m is odd, as in [GMW2]; when m is even, these virtual modules are not finite dimensional, and we compute the asymptotics of the representations for large weight.

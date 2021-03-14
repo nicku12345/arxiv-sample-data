@@ -1,0 +1,1 @@
+The paper extends the classical result on the convergence of the Krawtchouk polynomials to the Hermite polynomials. We provide the uniform asymptotic expansion in terms of the Hermite polynomials. We explicitly obtain expressions for a few initial terms of this expansion. The research is motivated by the study of ergodic sums of the Pascal adic transformation.

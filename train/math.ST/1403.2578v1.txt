@@ -1,0 +1,1 @@
+In Jin et al. (2014), the limiting spectral distribution (LSD) of a symmetrized auto-cross covariance matrix is derived using matrix manipulation, with finite (2+\delta)-th moment assumption. Here we give an alternative method using a result in Bai and Silverstein (2010), in which a weaker condition of finite 2nd moment is assumed.

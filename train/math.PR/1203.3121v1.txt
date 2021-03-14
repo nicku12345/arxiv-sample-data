@@ -1,0 +1,1 @@
+We construct a two-dimensional counterexample of a random walk in random environment (RWRE). The environment is stationary, mixing and perturbative, and the corresponding RWRE has non-trivial probability to wander off to the upper right. This is in contrast to the 0-1-law that holds for i.i.d.\ environments.

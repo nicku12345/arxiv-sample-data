@@ -1,0 +1,1 @@
+We adapt Thistlethwaite's alternating tangle decomposition of a knot diagram to identify the potential extreme terms in its bracket polynomial, and give a simple combinatorial calculation for their coefficients, based on the intersection graph of certain chord diagrams.

@@ -1,0 +1,1 @@
+An iterative scheme for solving ill-posed nonlinear equations with locally \sigma-inverse monotone operators is studied in this paper. A stopping rule of discrepancy type is proposed. The existence of u_{n_\delta} satisfying the proposed stopping rule is proved. The convergence of this element to the minimal-norm solution is justified mathematically.

@@ -1,0 +1,1 @@
+Let PL+(S1) be the group of order preserving piecewise linear homeomorphisms of the circle. An element in PL+(S1) is called reversible in PL+(S1) if it is conjugate to its inverse in PL+(S1). We characterize the reversible elements in PL+(S1). We also perform a sim- ilar characterisation in the full group PL(S1) of piecewise linear home- omorphisms of the circle.

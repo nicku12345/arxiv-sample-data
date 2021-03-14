@@ -1,0 +1,1 @@
+This paper introduces Edelsbrunner-Harer nerve in collections of Voronoi regions (called nucleus clusters) endowed with one or more proximity relations. The main results in this paper are that a maximal nucleus cluster (MNC) in a Voronoi Tessellation is a strongly proximal Edelsbrunner-Harer nerve, each MNC nerve and the union of the sets in the MNC have the same homotopy type.

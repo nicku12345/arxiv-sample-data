@@ -1,0 +1,1 @@
+In this paper, we consider a discontinuous Dirac operator with eigenparameter dependent both boundary and two transmission conditions. We introduce a suitable Hilbert space formulation and get some properties of eigenvalues and eigenfunctions. Then, we investigate Green's function, resolvent operator and some uniqueness theorems by using Weyl function and some spectral data.

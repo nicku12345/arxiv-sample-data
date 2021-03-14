@@ -1,0 +1,1 @@
+We consider the trajectories of points on \mathbb{S}^{d - 1} under sequences of certain folding maps associated with reflections. The main result characterizes collections of folding maps that produce dense trajectories. The minimal number of maps in such a collection is d+1.

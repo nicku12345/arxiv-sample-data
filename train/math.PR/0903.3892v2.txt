@@ -1,0 +1,1 @@
+Let (X_n)_{n\geq 0} be a reversible random walk on a graph G satisfying an anchored isoperimetric inequality. We give upper bounds for exit time (and occupation time in transient case) by X of any set which contains the root. As an application, we consider random environments of \Z^d.

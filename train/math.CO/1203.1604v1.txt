@@ -1,0 +1,1 @@
+The vehicle routing and scheduling problem has been studied with much interest within the last four decades. In this paper, some of the existing literature dealing with routing and scheduling problems with environmental issues is reviewed, and a description is provided of the problems that have been investigated and how they are treated using combinatorial optimization tools.

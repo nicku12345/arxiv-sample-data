@@ -1,0 +1,1 @@
+The aim of this paper is to obtain a classification of scrolls of genus 0 and 1, which are defined by a one-dimensional family of lines meeting a certain set of linear spaces in {\bf P}^n. These ruled surfaces will be called incidence scrolls and such a set will be the base of the incidence scroll. Unless otherwise stated, we assume that the base spaces are in general position.

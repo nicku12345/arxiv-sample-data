@@ -1,0 +1,1 @@
+In this article, we study the Gorenstein property of abelian quotient categories induced by fully rigid subcategories on an exact category B. We also study when d-cluster tilting subcategories become fully rigid. We show that the quotient abelian category induced by such d-cluster tilting subcategories are hereditary.

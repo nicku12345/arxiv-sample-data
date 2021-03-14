@@ -1,0 +1,1 @@
+It is shown that with appropriate boundary conditions, a real function satisfying the differential equation f'(x) = f(x+a) has all known properties of the sine function. A number of elementary derivations are presented including proofs for periodicity and trigonometric identities.

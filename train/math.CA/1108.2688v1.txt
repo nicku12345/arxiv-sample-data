@@ -1,0 +1,1 @@
+We prove an L^2 \times L^2 \rightarrow L_t^qL_x^p  bilinear Fourier extension estimate for the cone when p,q are on the critical line 1/q=(\frac{n+1}{2})(1-1/p). This extends previous results by Wolff, Tao and Lee-Vargas.

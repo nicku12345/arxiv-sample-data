@@ -1,0 +1,1 @@
+We consider \Gamma=(X,E) a dual polar graph and we give a tight frame on each eigenspace of the Laplacian operator associated to \Gamma. We compute the constants associated to each tight frame and as an application we give a formula for the product in the Norton algebra attached to the eigenspace corresponding to the second largest eigenvalue of the Laplacian.

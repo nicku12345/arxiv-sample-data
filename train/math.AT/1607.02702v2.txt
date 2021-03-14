@@ -1,0 +1,1 @@
+The Moore spectrum \mathrm{M}_p(i) is the cofiber of the p^{i} map on the sphere spectrum. For a fixed p and n, we find a lower bound on i for which \mathrm{M}_p(i) is guaranteed to be n-fold associative. This bound depends on the stable homotopy groups of spheres.

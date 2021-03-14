@@ -1,0 +1,1 @@
+We show the sum of the first k Lyapunov exponents of linear cocycles is an upper semicontinuous function in the L^p topologies, for any 1 \le p \le \infty and k. This fact, together with a result from Arnold and Cong, implies that the Lyapunov exponents of the L^p-generic cocycle, p<\infty, are all equal.

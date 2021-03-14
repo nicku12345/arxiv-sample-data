@@ -1,0 +1,1 @@
+Hochster and Huneke proved in \cite{HH5} fine behaviors of symbolic powers of ideals in regular rings, using the theory of tight closure. In this paper, we use generalized test ideals, which are a characteristic p analogue of multiplier ideals, to give a slight generalization of Hochster-Huneke's results.

@@ -1,0 +1,1 @@
+Given a suitable functor T:C -> D between model categories, we define a long exact sequence relating the homotopy groups of any X in C with those of TX, and use this to describe an obstruction theory for lifting an object G in D to C. Examples include finding spaces with given homology or homotopy groups.

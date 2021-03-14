@@ -1,0 +1,1 @@
+We study feebly compact shift-continous topologies on the semilattice \left(\exp_n\lambda,\cap\right). It is proved that such T_1-topology is sequentially pracompact if and only if it is \mathfrak{D}(\omega)-compact.

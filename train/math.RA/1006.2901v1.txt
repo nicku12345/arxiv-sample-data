@@ -1,0 +1,1 @@
+We prove that, if A is a strongly simply connected algebra of polynomial growth, then A is torsionless-finite. In particular, its representation dimension is at most three.

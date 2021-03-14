@@ -1,0 +1,1 @@
+Recently, a new weighted generalization of the branching rule for the hook lengths, equivalent to the hook formula, was proved. In this paper, we generalize the complementary branching rule, which can be used to prove Burnside's formula. We present three different proofs: bijective, via weighted hook walks, and via the ordinary weighted branching rule.

@@ -1,0 +1,1 @@
+We study the stability of travelling wall profiles for a one dimensional model of ferromagnetic nanowire submitted to an exterior magnetic field. We prove that these profiles are asymptotically stable modulo a translation-rotation for small applied magnetic fields.

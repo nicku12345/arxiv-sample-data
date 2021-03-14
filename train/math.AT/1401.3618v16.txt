@@ -1,0 +1,1 @@
+This paper shows that a functorial version of the "higher diagonal" of a space used to compute Steenrod squares actually contains far more topological information --- including (in some cases) the space's integral homotopy type.

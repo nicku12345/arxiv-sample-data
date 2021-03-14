@@ -1,0 +1,1 @@
+We give sufficient conditions for a linear differential equation to have a given semisimple group as its Galois group. For any linear algebraic group G given as a semidirect product of a finite subgroup and a normal subgroup that is a product of groups of type An, Cn, Dn, E6, or E7, we construct a differential equation over C(x) having Galois group G.

@@ -1,0 +1,1 @@
+Let q be a prime and A an elementary abelian group of order at least q^3 acting by automorphisms on a finite q'-group G. It is proved that if |\gamma_{\infty}(C_{G}(a))|\leq m for any a\in A^{\#}, then the order of \gamma_{\infty}(G) is m-bounded. If F(C_{G}(a)) has index at most m in C_G(a) for any a \in A^{\#}, then the index of F_2(G) is m-bounded.

@@ -1,0 +1,1 @@
+We study quiver Grassmannians associated with indecomposable representations of the Kronecker quiver. We find a cellular decomposition of them and we compute their Betti numbers. As an application, we give a geometric realization of the "canonical basis" of cluster algebras of Kronecker type (found by Sherman and Zelevinsky) and of type A_2^{(1)}.

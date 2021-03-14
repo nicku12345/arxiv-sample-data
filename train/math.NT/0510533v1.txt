@@ -1,0 +1,1 @@
+For an elliptic curve E over a number field K, we prove that the algebraic rank of E goes up in infinitely many extensions of K obtained by adjoining a cube root of an element of K. As an example, we briefly discuss E=X_1(11) over Q, and how the result relates to Iwasawa theory.

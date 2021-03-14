@@ -1,0 +1,1 @@
+In the current paper we study extremal semilattices with respect to their equational properties. In the class \mathbf{S}_n of all semilattices of order n we find semilattices which have maximal (minimal) number of consistent equations. Moreover, we find a semilattice in \mathbf{S}_n with maximal sum of numbers of solutions of equations.

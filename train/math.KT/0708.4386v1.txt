@@ -1,0 +1,1 @@
+Suppose given a commutative quadrangle in a Verdier triangulated category such that there exists an induced isomorphism on the horizontally taken cones. Suppose that the endomorphism ring of the initial or the terminal corner object of this quadrangle satisfies a finiteness condition. Then this quadrangle is homotopy cartesian.

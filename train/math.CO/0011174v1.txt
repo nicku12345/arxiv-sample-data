@@ -1,0 +1,1 @@
+Instead of dealing with cumbersome binomial identities, we prove Callan's result using generating functions.

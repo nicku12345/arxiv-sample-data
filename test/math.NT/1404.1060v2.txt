@@ -1,0 +1,1 @@
+Let n be a positive integer. We discuss pairs of distinct odd primes p and q not dividing n for which the Diophantine equations pq=x^2+ny^2 have integer solutions in x and y. As its examples we classify all such pairs of p and q when n=5 and 14.

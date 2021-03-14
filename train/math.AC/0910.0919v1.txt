@@ -1,0 +1,1 @@
+It is shown that the diameter \diam (H^1_\mfr(R/I)) of the first local cohomology module of a tetrahedral curve C= C(a_1,...,a_6) can be explicitly expressed in terms of the a_i and is the smallest non-negative integer k such that \mfr^k H^1_\mfr(R/I)=0. From that one can describe all arithmetically Cohen-Macaulay or Buchsbaum tetrahedral curves.

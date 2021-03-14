@@ -1,0 +1,1 @@
+The aim of this work is to show that the Contou-Carr\`{e}re symbol satisfies the property of Steinberg symbols: <f,1-f>_{A((t))^\times} = 1 for all elements f,1-f \in A((t))^\times. Moreover, we offer a cohomological characterization of the Contou-Carr\`{e}re symbol from the commutator of a central extension of groups.

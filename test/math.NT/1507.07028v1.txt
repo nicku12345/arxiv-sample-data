@@ -1,0 +1,1 @@
+Using evaluations of the difference between consecutive primes we develop another way of estimating of the number of primes in the interval (n, 2n). We also discuss the ultra Cramer conjecture, p_{n+1} - p_n = O(log^{1+\epsilon}p_n) where \epsilon > 0, in the context of the results we have obtained in our paper.

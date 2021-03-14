@@ -1,0 +1,1 @@
+For a large class of nonlinear Schr\"odinger equations with nonzero conditions at infinity and for any speed c less than the sound velocity, we prove the existence of nontrivial finite energy traveling waves moving with speed c in any space dimension N\geq 3. Our results are valid as well for the Gross-Pitaevskii equation and for NLS with cubic-quintic nonlinearity.

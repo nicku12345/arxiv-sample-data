@@ -1,0 +1,1 @@
+In this paper we characterize generalized quasi-arithmetic means, that is means of the form M(x_1,...,x_n):=(f_1+...+f_n)^{-1}(f_1(x_1)+...+f_n(x_n)), where f_1,...,f_n:I\to\mathbb{R} are strictly increasing and continuous functions. Our characterization involves the Gauss composition of the cyclic mean-type mapping induced by M and a generalized bisymmetry equation.

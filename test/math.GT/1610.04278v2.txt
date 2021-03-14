@@ -1,0 +1,1 @@
+We prove a new lower bound for the dilatation of an arbitrary pseudo-Anosov map on a surface of genus g with n punctures. Our bound improves the former super-exponential dependence on the genus by a polynomial dependence.

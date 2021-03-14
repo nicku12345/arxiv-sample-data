@@ -1,0 +1,1 @@
+We show how to control the bias of a sieve type profile estimator under natural conditions on the Hessian of the expected contrast functional.

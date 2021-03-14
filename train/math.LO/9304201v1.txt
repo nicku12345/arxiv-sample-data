@@ -1,0 +1,1 @@
+We prove that for a stable theory T, if M is a saturated model of T of cardinality \lambda where \lambda > \big|T\big|, then Aut(M) has a dense free subgroup on 2^{\lambda} generators. This affirms a conjecture of Hodges.

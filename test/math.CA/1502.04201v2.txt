@@ -1,0 +1,1 @@
+Given positive numbers a and b, the function \sqrt{at^2+b} is exponentially convex function of t on the whole real axis. Three proofs of this result are presented.

@@ -1,0 +1,1 @@
+Let b be an odd integer such that b=+/-1 (mod 8) and let q be a prime with primitive root 2 such that q does not divide b. We show that if (p(k)) is a sequence of odd primes, with 0<=k<=q-2 such that p(k)=2p(k-1)+b for all 1<=k<=q-2, then either (a) q divides p(0)+b, (b) p_0=q or (c) p_1=q.

@@ -1,0 +1,1 @@
+We define the notion of an enriched Reedy category, and show that if A is a C-Reedy category for some symmetric monoidal model category C and M is a C-model category, the category of C-functors and C-natural transformations from A to M is again a model category.

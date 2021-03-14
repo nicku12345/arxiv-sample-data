@@ -1,0 +1,1 @@
+We prove that the representations numbers of a ternary definite integral quadratic form defined over F_q[t], where F_q is a finite field of odd characteristic, determine its integral equivalence class when q is large enough with respect to its successive minima. Equivalently, such a quadratic form is determined up to integral isometry by its theta series.

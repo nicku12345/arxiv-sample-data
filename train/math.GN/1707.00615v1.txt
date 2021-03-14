@@ -1,0 +1,1 @@
+We introduced the concept of a metric value set (MVS) in an earlier paper \cite{GM} and developed the idea further in \cite{AS}. In this paper we study locally M-metrizable spaces and the products of M-metrizable spaces. Finally we prove a characterization of commutatively metrizable topological spaces by means of the bases of a quasiuniformity.

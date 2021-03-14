@@ -1,0 +1,1 @@
+We consider a Schr\"odinger operator on the half-line with a Dirichlet boundary condition at the origin and show that moments of its negative eigenvalues can be estimated by the part of the potential that is larger than the critical Hardy weight. The estimate is valid for the critical value of the moment parameter.

@@ -1,0 +1,1 @@
+In this paper, we consider the shift-inverse method with Richardson iteration step for the eigenvalue problems. It will be shown that the convergence speed depends heavily on the eigenvalue gap between the desired eigenvalue and undesired ones.

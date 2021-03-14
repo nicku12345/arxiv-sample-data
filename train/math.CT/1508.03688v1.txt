@@ -1,0 +1,1 @@
+We present a combinatorial analogue of the nerve theorem for covers of small categories, using the Grothendieck construction. We apply our result to prove the inclusion-exclusion principle for the Euler characteristic of a finite category.

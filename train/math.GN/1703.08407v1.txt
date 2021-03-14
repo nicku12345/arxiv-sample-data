@@ -1,0 +1,1 @@
+In this article, we use \lambda-sequences to derive common fixed points for a family of self-mappings defined on a complete G-metric space. We imitate some existing techniques in our proofs and show that the tools emlyed can be used at a larger scale. These results generalise well known results in the literature.

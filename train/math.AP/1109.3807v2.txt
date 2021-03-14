@@ -1,0 +1,1 @@
+In this paper, we consider the regularity theory for fully nonlinear parabolic integro-differential equations with symmetric kernels. We are able to find parabolic versions of Alexandrov-Backelman-Pucci estimate with 0<\sigma<2. And we show a Harnack inequality, H\"older regularity, and C^{1,\alpha}-regularity of the solutions by obtaining decay estimates of their level sets.

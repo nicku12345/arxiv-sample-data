@@ -1,0 +1,1 @@
+In the paper autonilpotent groups were characterized as groups G such that \mathrm{Aut}G stabilizes some chain of subgroups of G. It was shown that a p-group is autonilpotent if and only if its group of automorphisms is also a p-group. Analogues of Baer's theorem about the hypercenter and Frobenius p-nilpotency criterion were obtained for autonilpotent groups.

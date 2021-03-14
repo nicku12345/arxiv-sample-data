@@ -1,0 +1,1 @@
+If M is a compact smooth manifold and X is a compact metric space, the Sobolev space W^{1,p}(M,X) is defined through an isometric embedding of X into a Banach space. We prove that the answer to the question whether Lipschitz mappings {\rm Lip}\,(M,X) are dense in W^{1,p}(M,X) may depend on the isometric embedding of the target.

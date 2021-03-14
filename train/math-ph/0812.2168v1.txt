@@ -1,0 +1,1 @@
+These notes are dedicated to whom may be interested in algorithms, Markov chain, coupling, and graph theory etc. I present some preliminaries on coupling and explanations of the important formulas or phrases, which may be helpful for us to understand D. Weitz's paper "Combinatorial Criteria for Uniqueness of Gibbs Measures" with ease.

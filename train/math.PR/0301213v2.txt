@@ -1,0 +1,1 @@
+We prove that the heat kernel on the infinite Bernoulli percolation cluster in Z^d almost surely decays faster than t^{-d/2}. We also derive estimates on the mixing time for the random walk confined to a finite box. Our approach is based on local isoperimetric inequalities.

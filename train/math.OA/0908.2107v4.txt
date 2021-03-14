@@ -1,0 +1,1 @@
+Motivated by a problem of Halmos, we obtain a canonical decomposition for complex matrices which are unitarily equivalent to their transpose (UET). Surprisingly, the naive assertion that a matrix is UET if and only if it is unitarily equivalent to a complex symmetric matrix (i.e., T = T^t) holds for matrices 7x7 and smaller, but fails for matrices 8x8 and larger.

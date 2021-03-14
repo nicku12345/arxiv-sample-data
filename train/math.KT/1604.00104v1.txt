@@ -1,0 +1,1 @@
+We consider pairs of a set-valued column-strict tableau and a reverse plane partition of the same shape. We introduce algortithms for them, which implies a bijective proof for the finite sum Cauchy identity for Grothendieck polynomials and dual Grothendieck polynomials.

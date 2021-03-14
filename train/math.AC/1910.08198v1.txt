@@ -1,0 +1,1 @@
+We study the multiplicative lattices L which satisfy the condition a = (a : (a : b))(a : b) for all a,b in L.

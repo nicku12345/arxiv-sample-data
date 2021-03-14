@@ -1,0 +1,1 @@
+Let M_{7,n} be the (coarse) moduli space of smooth curves of genus 7 with n marked points defined over the complex field. We denote by M^1_{7,n;4} the locus of points inside M_{7,n} representing curves carrying a g^1_4. It is classically known that M^1_{7,n;4} is irreducible of dimension 17+n. We prove in this paper that M^1_{7,n;4} is rational for 0<= n <= 11.

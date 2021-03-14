@@ -1,0 +1,1 @@
+Let K be F_q((T)), or more generally any field of characteristic p equipped with a valuation having a finite residue field of q elements. Then a polynomial f(x) in K[x] having k+1 nonzero coefficients has at most q^k distinct zeros in K. We also obtain the best possible bound for the number of zeros of degree at most d over K.

@@ -1,0 +1,1 @@
+We show that 2D periodic operators with local and perpendicular defects form an algebra. We provide an algorithm of finding spectrum for such operators. While the continuous spectral components can be computed by simple algebraic operations on some matrix-valued functions and few number of integrations, the discrete part is much more complicated.

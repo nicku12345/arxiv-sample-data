@@ -1,0 +1,1 @@
+We prove Boyd's "unexpected coincidence" of the Mahler measures for two families of two-variate polynomials defining curves of genus 2. We further equate the same measures to the Mahler measures of polynomials y^3-y+x^3-x+kxy whose zero loci define elliptic curves for k\ne0,\pm3.

@@ -1,0 +1,1 @@
+We propose a better method to determine the stability region of an L-stable implicit-explicit Runge-Kutta scheme. This method always provides the correct result, while other methods sometimes give wrong result. It is useful in the analysis for implicit-explicit Runge-Kutta schemes.   Keywords: Stability region, Implicit-explicit (IMEX) scheme

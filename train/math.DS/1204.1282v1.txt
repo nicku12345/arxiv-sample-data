@@ -1,0 +1,1 @@
+In this paper, we give a formula of the Hausdorff dimension of the boundary of the immediate basin of infinity of McMullen maps f_p(z)=z^Q+p/z^Q, where Q\geq 3 and p is small. This gives a lower bound of the Hausdorff dimension of the Julia sets of McMullen maps in the special cases.

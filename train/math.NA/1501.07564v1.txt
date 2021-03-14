@@ -1,0 +1,1 @@
+Decay properties of the solution X to the Lyapunov matrix equation AX + X A^T = D are investigated. Their exploitation in the understanding of equation matrix properties, and in the development of new numerical solution strategies when D is not low rank but possibly sparse is also briefly discussed.

@@ -1,0 +1,1 @@
+In this paper we describe the automorphism groups of the endomorphism semigroups of free Burnside groups B(m,n) for odd exponents n\ge1003. We prove, that the groups Aut(End(B(m,n))) and Aut(B(m,n)) are isomorphic. In particular, if the groups Aut(End(B(m,n))) and Aut(End(B(k,n))) are isomorphic, then m=k.

@@ -1,0 +1,1 @@
+Recently, Ringel introduced the resolution quiver for a connected Nakayama algebra. It is known that each connected component of the resolution quiver has a unique cycle. We prove that all cycles in the resolution quiver are of the same size. We introduce the notion of weight for a cycle in the resolution quiver. It turns out that all cycles have the same weight.

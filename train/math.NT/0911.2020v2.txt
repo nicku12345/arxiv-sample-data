@@ -1,0 +1,1 @@
+We present a new proof of the "arithmetic" large sieve inequality, starting from the corresponding "harmonic" inequality, which is based on an amplification idea. We show that this also adapts to give some new sieve inequality for modular forms, where Hecke eigenvalues are thought as the analogues of the reductions of integers modulo primes.

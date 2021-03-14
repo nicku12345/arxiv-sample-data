@@ -1,0 +1,1 @@
+We prove the existence of at least two geometrically different periodic solution with winding number N for the forced relativistic pendulum. The instability of a solution is also proved. The proof is topological and based on the version of the Poincar\'e-Birkhoff theorem by Franks. Moreover, with some restriction on the parameters, we prove the existence of twist dynamics.

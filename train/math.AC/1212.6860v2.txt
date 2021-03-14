@@ -1,0 +1,1 @@
+Let R be a ring of dimension d and A be one of R[Y] or R[Y,Y^{-1}]. If P is a projective A-module of rank \geq d+1 satisfying some condition, then we show that E(A\oplus P) acts transitively on Um(A\oplus P). When P is free, this result is due to Yengui (when A=R[Y]) and Abedelfatah (when A=R[Y,Y^{-1}]).

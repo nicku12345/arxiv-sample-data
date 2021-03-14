@@ -1,0 +1,1 @@
+A linearization procedure is proposed for Ermakov systems with frequency depending on dynamic variables. The procedure applies to a wide class of generalized Ermakov systems which are linearizable in a manner similar to that applicable to usual Ermakov systems. The Kepler--Ermakov systems belong into this category but others, more generic, systems are also included.

@@ -1,0 +1,1 @@
+In Duke Math. J. 69, No.2, 335-347 (1993) the author translates a conjecture of Le Dung Trang on the non-existence of injective analytic maps f:(C^n,0)->(C^{n+1},0) with df(0)=0 into the non-existence of a hypersurface germ in (C^{n+1},0) with rather unexpected properties. However, the proof given there contains an apparently fatal error, as we demonstrate with an example.

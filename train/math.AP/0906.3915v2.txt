@@ -1,0 +1,1 @@
+We study the well-posedness of the initial-value problem for the periodic nonlinear "good" Boussinesq equation. We prove that this equation is local well-posed for initial data in Sobolev spaces \textit{H^s(\T)} for s>-1/4, the same range of the real case obtained in Farah \cite{LG4}.

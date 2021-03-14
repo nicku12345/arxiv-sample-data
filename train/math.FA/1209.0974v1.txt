@@ -1,0 +1,1 @@
+We describe a class of topological vector spaces admitting a mixing uniformly continuous operator group {T_t}_{t\in\C^n} with holomorphic dependence on the parameter t. This result covers those existing in the literature. We also describe a class of topological vector spaces admitting no supercyclic strongly continuous operator semigroups {T_t}_{t\geq 0}.

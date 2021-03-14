@@ -1,0 +1,1 @@
+Given a group action on a finite-dimensional CAT(0) cube complex, we give a simple criterion phrased purely in terms of cube stabilisers that ensures that the group satisfies the strong Tits alternative, provided that each vertex stabiliser satisfies the strong Tits alternative. We use it to prove that all Artin groups of type FC satisfy the strong Tits alternative.

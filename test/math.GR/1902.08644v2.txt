@@ -1,0 +1,1 @@
+We will give a definition of quadratic forms on bimodules and prove the sandwich classification theorem for subgroups of the general linear group \mathrm{GL}(P) normalized by the elementary unitary group \mathrm{EU}(P) if P is a nondegenerate bimodule with large enough hyperbolic part.

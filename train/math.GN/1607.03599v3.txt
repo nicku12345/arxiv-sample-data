@@ -1,0 +1,1 @@
+Modifying the known definition of a Pytkeev network, we introduce a notion of Pytkeev^* network and prove that a topological space has a countable Pytkeev network if and only if X is countably tight and has a countable Pykeev^* network. In the paper we establish some stability properties of the class of topological spaces with the strong Pytkeev^*-property.

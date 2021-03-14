@@ -1,0 +1,1 @@
+We present a bijection between non-crossing partitions of the set [2n+1] into n+1 blocks such that no block contains two consecutive integers, and the set of sequences \{s_{i}\}_{1}^{n} such that 1 \leq s_{i} \leq i, and if s_{i}=j, then s_{i-r} \leq j-r for 1 \leq r \leq j-1.

@@ -1,0 +1,1 @@
+We compute periodic, analytic and local cyclic cohomology for convolution algebras of compact Lie groups in order to exhibit differences between these theories. A surprising result is that the periodic and analytic cyclic cohomology of the smooth convolution algebras differ, although these algebras have finite homological dimension.

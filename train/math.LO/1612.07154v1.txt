@@ -1,0 +1,1 @@
+We prove that there are single Henkin quantifiers such that first order logic augmented by one of these quantifiers is undecidable in the empty vocabulary. Examples of such quantifiers are given.

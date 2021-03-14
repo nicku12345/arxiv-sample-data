@@ -1,0 +1,1 @@
+We quantize the bending deformations of n-gon linkages by linearizing the bending fields at a degenerate n-gon to get a representation of the Malcev Lie algebra of the pure braid group. This linearization yields a flat connection on the space of n distinct points on the complex line. We show that the monodromy is (essentially) the Gassner representation.

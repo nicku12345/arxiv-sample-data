@@ -1,0 +1,1 @@
+The goal is to review the notion of a complete Segal space and how certain categorical notions behave in this context. In particular, we study functoriality in complete Segal spaces via fibrations. Then we use it to define limits and adjunctions in a complete Segal space. This is mostly expository and the focus is on examples and intuition.

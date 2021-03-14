@@ -1,0 +1,1 @@
+We prove that the relative commutant of a diffuse von Neumann subalgebra in a hyperbolic group von Neumann algebra is always injective. It follows that any non-injective subfactor in a hyperbolic group von Neumann algebra is non-Gamma and prime. The proof is based on C*-algebra theory.

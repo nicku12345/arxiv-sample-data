@@ -1,0 +1,1 @@
+By using the Fourier transforms of the general hydrogenic bound state wave functions (as ultraspherical polynomials) one may find expectation values of arbitrary functions of momentum p. In this manner the effect of a reciprocity perturbation 1/p can be evaluated for all hydrogenic states.

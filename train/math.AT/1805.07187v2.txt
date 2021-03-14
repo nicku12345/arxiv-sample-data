@@ -1,0 +1,1 @@
+We prove a new kind of stabilisation result, "secondary homological stability", for the homology of mapping class groups of orientable surfaces with one boundary component. These results are obtained by constructing CW approximations to the classifying spaces of these groups, in the category of E_2-algebras, which have no E_2-cells below a certain vanishing line.

@@ -1,0 +1,1 @@
+A theorem by Hall asserts that the multiplication in torsion free nilpotent groups of finite Hirsch length can be facilitated by polynomials. In this note we exhibit explicit Hall polynomials for the torsion free nilpotent groups of Hirsch length at most 5.

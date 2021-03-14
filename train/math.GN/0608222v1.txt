@@ -1,0 +1,1 @@
+For the action of an algebraic cellular automaton on a Markov subgroup, we show that the Ces\`{a}ro mean of the iterates of a Markov measure converges to the Haar measure. This is proven by using the combinatorics of the binomial coefficients on the regenerative construction of the Markov measure.

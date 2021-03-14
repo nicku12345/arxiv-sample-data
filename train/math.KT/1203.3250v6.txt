@@ -1,0 +1,1 @@
+In this paper we give a simplified proof of the flat Grothendieck-Riemann-Roch theorem. The proof makes use of the local family index theorem and basic computations of the Chern-Simons form. In particular, it does not involve any adiabatic limit computation of the reduced eta-invariant.

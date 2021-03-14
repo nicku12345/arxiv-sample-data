@@ -1,0 +1,1 @@
+We introduce the notion of mild supersolution for an obstacle problem in an infinite dimensional Hilbert space. The minimal supersolution of this problem is given in terms of a reflected BSDEs in an infinite dimensional Markovian framework. The results are applied to an optimal control and stopping problem.

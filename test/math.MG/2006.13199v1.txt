@@ -1,0 +1,1 @@
+We consider self-affine arcs in \mathbb R^2 and prove that violation of "inner" weak separation property for such arcs implies that the arc is a parabolic segment. Therefore, if a self-affine Jordan arc is not a parabolic segment, then it is the attractor of some multizipper.

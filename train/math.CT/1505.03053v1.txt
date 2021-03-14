@@ -1,0 +1,1 @@
+A classification is provided of functors, in particular polynomial ones, from a category with a zero object in which every object is a finite sum of copies of a generating object, into an abelian category. This classification is extended to include functors from a category with sums and a zero object, carrying a small, regular projective generator.

@@ -1,0 +1,1 @@
+Let \Z/pZ be the finite field of prime order p and A be a subsequence of \Z/pZ. We prove several classification results about the following questions: (1) When can one represent zero as a sum of some elements of A ? (2) When can one represent every element of \Z/pZ as a sum of some elements of A ? (3) When can one represent every element of \Z/pZ as a sum of l elements of A ?

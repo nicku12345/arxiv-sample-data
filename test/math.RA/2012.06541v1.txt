@@ -1,0 +1,1 @@
+We explore the structure of \text{Fil}, the category of filters and germs of admissible partial functions. In particular, we show that \text{Fil} is a nonsymmetric closed category, as defined elsewhere by this and other authors.

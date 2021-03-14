@@ -1,0 +1,1 @@
+Using a relation between domination number and incidence chromatic number, we obtain necessary and sufficient conditions for r-regular graphs to be (r+1)-incidence colorable. Also, we determine the optimal Nordhaus-Gaddum inequality for the incidence chromatic number.

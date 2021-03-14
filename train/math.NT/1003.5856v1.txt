@@ -1,0 +1,1 @@
+We generalize Carlitz' result on the number of self reciprocal monic irreducible polynomials over finite fields by showing that similar explicit formula hold for the number of irreducible polynomials obtained by a fixed quadratic transformation. Our main tools are a combinatorial argument and Hurwitz genus formula.

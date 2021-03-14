@@ -1,0 +1,1 @@
+We show that all coalgebras over the sphere spectrum are cocommutative in the category of symmetric spectra, orthogonal spectra, \Gamma-spaces, \mathcal{W}-spaces and EKMM \mathbb{S}-modules. Our result only applies to these strict monoidal categories of spectra and does not apply to the \infty-category setting.

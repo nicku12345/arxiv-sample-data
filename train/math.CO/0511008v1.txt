@@ -1,0 +1,1 @@
+We discuss the problem of counting {\em incidence matrices}, i.e. zero-one matrices with no zero rows or columns. Using different approaches we give three different proofs for the leading asymptotics for the number of matrices with n ones as n\to\infty. We also give refined results for the asymptotic number of i\times j incidence matrices with n ones.

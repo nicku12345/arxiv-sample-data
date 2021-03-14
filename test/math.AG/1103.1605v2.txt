@@ -1,0 +1,1 @@
+We use reduction maps to study the minimal model program. Our main result is that the existence of a good minimal model for a klt pair (X,\Delta) can be detected on the base of the (K_{X}+\Delta)-trivial reduction map. Thus we show that the main conjectures of the minimal model program can be interpreted as a natural statement on the existence of curves on X.

@@ -1,0 +1,1 @@
+We introduce the concept of basis for a lattice. This basis plays a vital role to determine the completeness and consistency of the lattice. Weighted lattices are introduced and its complexity is formulated. Some axiomatic systems, considered as lattices, are also studied.

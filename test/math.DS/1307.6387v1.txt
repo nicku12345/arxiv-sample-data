@@ -1,0 +1,1 @@
+We consider a class of nonlinear Klein-Gordon equation u_{tt}=u_{xx}-u+f(u) and show that generically there exist small breathers with exponentially small tails.

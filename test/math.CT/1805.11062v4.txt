@@ -1,0 +1,1 @@
+We discuss the concept of Galois structure and Galois epimorphism in a general setting. Namely, a Galois structure for an epimorphism \pi\colon M\to B in some category {\mathcal C} is the action of a group object that gives to M the structure of principal homogeneous space in the relative category {\mathcal C}_B.

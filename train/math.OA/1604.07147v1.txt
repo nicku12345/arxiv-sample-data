@@ -1,0 +1,1 @@
+We prove that a von Neumann algebra M is abelian if and only if the square of every derivation on the algebra S(M) of measurable operators, affiliated with M, is a local derivation. We also show that for general associative unital algebras this is not true.

@@ -1,0 +1,1 @@
+Hasse constants and their basic properties are introduced to facilitate the connection between the lattice of subalgebras of an algebra C and the natural action of the automorphism group Aut(C) on C. These constants are then used to describe the lattice of subloops of the smallest nonassociative simple Moufang loop.

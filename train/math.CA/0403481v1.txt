@@ -1,0 +1,1 @@
+We deduce several curious q-series expansions by applying inverse relations to certain identities for basic hypergeometric series. After rewriting some of these expansions in terms of q-integrals, we obtain, in the limit q -> 1, some curious beta-type integral evaluations which appear to be new.

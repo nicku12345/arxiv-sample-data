@@ -1,0 +1,1 @@
+A problem posed in a remark by Pauli is discussed: is it possible to recover the state vector of a quantum system from the distribution functions of the physical observables of this system ?

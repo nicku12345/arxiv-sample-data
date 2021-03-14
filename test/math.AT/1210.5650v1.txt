@@ -1,0 +1,1 @@
+A semisimplicial set has face maps but not degeneracies. A basic fact, due to Rourke and Sanderson, is that a semisimplicial set satisfying the Kan condition can be given a simplicial structure. The present paper gives a combinatorial proof of this fact and a generalization to multisemisimplicial sets.

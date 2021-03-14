@@ -1,0 +1,1 @@
+Let \{P_1, P_2, P_3, P_4\} be a quadruplet of points in S^3 . We define a ``dual'' quadruplet of it in a conformal geometric way. We show that the dual of a dual quadruplet coincides with the original one. We also show that the cross ratio of the dual quadruplet is equal to the complex conjugate of that of the original one.

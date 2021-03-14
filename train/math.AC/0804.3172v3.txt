@@ -1,0 +1,1 @@
+A non-zero constant Jacobian polynomial maps F=(P,Q) of \mathbb{C}^2 is invertible if P and Q are rational polynomials.

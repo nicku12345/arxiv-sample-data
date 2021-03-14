@@ -1,0 +1,1 @@
+We derive asymptotics for the probability of the origin to be an extremal point of a random walk in R^n. We show that in order for the probability to be roughly 1/2, the number of steps of the random walk should be between e^{c n / log n} and e^{C n log n}. As a result, we attain a bound for the ?pi/2-covering time of a spherical brownian motion.

@@ -1,0 +1,1 @@
+The triangulations of a regular convex polygon are enumerated according to the number of diagonals parallel to a fixed edge. The enumeration uses the Shapiro convolution identity, as well as an interpretation of this identity in terms of triangulations.

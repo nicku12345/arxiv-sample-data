@@ -1,0 +1,1 @@
+We prove that the crossed product Banach algebra \ell^1(A,G,\alpha) that is associated with a \mathrm{C}^\ast-dynamical system (A,G,\alpha) is amenable if G is a discrete amenable group and A is a commutative or finite dimensional \mathrm{C}^\ast-algebra. Perspectives for further developments are indicated.

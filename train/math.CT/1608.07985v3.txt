@@ -1,0 +1,1 @@
+Building on work of Jasso, we prove that any projectively generated d-abelian category is equivalent to a d-cluster tilting subcategory of an abelian category with enough projectives. This supports the claim that d-abelian categories are good axiomatizations of d-cluster tilting subcategories.

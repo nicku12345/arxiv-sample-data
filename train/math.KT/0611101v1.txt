@@ -1,0 +1,1 @@
+Given a cohomological functor from a triangulated category to an abelian category, we construct under appropriate assumptions for any localization functor of the abelian category a lift to a localization functor of the triangulated category. This discussion of Bousfield localization is combined with a basic introduction to the concept of localization for arbitrary categories.

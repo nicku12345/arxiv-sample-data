@@ -1,0 +1,1 @@
+In this note, a general formula is proved. It expresses the integral on the line of the product of a function f and a periodic function g in terms of the Fourier transform of f and the Fourier coefficients of g. This allows the evaluation of some oscillatory integrals.

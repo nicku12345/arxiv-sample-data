@@ -1,0 +1,1 @@
+Third-order nonlinear dispersion equations (NDEs) are shown to admit both shock and rarefaction waves (as weak solutions), which are distinguished by a smooth deformation approach. Compacton-type travelling wave solutions are proved to be both delta-entropy and G-admissible (in the sense of I.M. Gel'fand, 1963). Extensions to some higher-order NDEs are performed.

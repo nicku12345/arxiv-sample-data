@@ -1,0 +1,1 @@
+We determine the mod 2 cohomology over the Steenrod algebra of the classifying space of a free loop group LG for G=Spin(7), Spin(8), Spin(9), F_4, and DI(4). Then we show that it is isomorphic as algebras over the Steenrod algebra to the mod 2 cohomology of the classifying space of a certain 2-local finite group of type G.

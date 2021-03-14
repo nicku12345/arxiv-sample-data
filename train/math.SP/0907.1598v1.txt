@@ -1,0 +1,1 @@
+It is shown that many of the classical generalized isoperimetric inequalities for the Laplacian when viewed in terms of Brownian motion extend to a wide class of Levy processes. The results are derived from the multiple integral inequalities of Brascamp, Lieb and Luttinger but the probabilistic structure of the processes plays a crucial role in the proofs.

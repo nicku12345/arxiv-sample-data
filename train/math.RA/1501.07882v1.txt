@@ -1,0 +1,1 @@
+For sigma-PWB extensions, we extend to modules the theory of Gr\"obner bases of left ideals presented in [5]. As an application, if A is a bijective quasi-commutative sigma-PWB extension, we compute the module of syzygies of a submodule of the free module A^m.

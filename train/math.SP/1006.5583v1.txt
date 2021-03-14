@@ -1,0 +1,1 @@
+We consider Robin Laplace operators on a class of two-dimensional domains with cusps. Our main results include the formula for the asymptotic distribution of the eigenvalues of such operators. In particular, we show how the eigenvalue asymptotic depends on the geometry of the cusp and on the boundary conditions.

@@ -1,0 +1,1 @@
+We present a criterion for 2-final (2,1)-functors, analoguous to the classical one for final 1-functor: a (2,1)-functor F \colon A \to B is 2-final if and only if, for any object b of B, the slice (2,1)-category b / F is nonempty, connected and simply connected. We also give a combinatorial presentation of paths and homotopies of paths in a (2,1)-category.

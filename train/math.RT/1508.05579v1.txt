@@ -1,0 +1,1 @@
+We introduce the notion of (co-)filtered sheaves on quotients of moment graphs by a group action. We then introduce a (co-)filtered version of the canonical sheaves of Braden and MacPherson and show that their global sections are the indecomposable projective objects in a suitably defined exact category.

@@ -1,0 +1,1 @@
+Given a closed Riemannian manifold, we show how to close an orbit of the geodesic flow by a small perturbation of the metric in the C^1 topology.

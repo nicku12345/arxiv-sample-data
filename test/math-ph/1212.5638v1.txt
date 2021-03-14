@@ -1,0 +1,1 @@
+We extend the bootstrap multi-scale analysis developed by Germinet and Klein to the multi-particle Anderson model, obtaining Anderson localization, dynamical localization, and decay of eigenfunction correlations.

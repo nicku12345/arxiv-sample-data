@@ -1,0 +1,1 @@
+We define Tate-Betti and Tate-Bass invariants for modules over a commutative noetherian local ring R. Then we show the periodicity of these invariants provided that R is a hypersurface. In case R is also Gorenstein, we show that a finitely generated R-module M and its Matlis dual have the same Tate-Betti and Tate-Bass numbers.

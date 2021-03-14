@@ -1,0 +1,1 @@
+we will provide a rigorous computation for the harmonic oscillator Feynman path integral. The computation will be done without having prior knowledge of the classical path. We will see that properties of classical physics falls out naturally from a purely quantum mechanical point of view. We will assume that the reader is familiar with Nonstandard Analysis.

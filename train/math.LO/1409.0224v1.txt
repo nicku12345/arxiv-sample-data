@@ -1,0 +1,1 @@
+We construct a De Morgan algebra-valued logic with quantifiers, where the truth values are in a finite De Morgan algebra, We show that there is a representation theorem of the cylindric algebra of this logic from which a completeness theorem for De Morgan algebra-valued logic follows. This is a generalization of the results in [2].

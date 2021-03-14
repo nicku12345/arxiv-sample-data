@@ -1,0 +1,1 @@
+We discuss a class of quantum vertex algebras where not only the commutativity of the vertex algebra is broken by a braiding map S^{(\tau)}, but also the translation covariance is broken by a translation map S^{(\gamma)}. The new class of quantum vertex operators satisfy a Braided Jacobi Identity containing both the braiding and the translation maps.

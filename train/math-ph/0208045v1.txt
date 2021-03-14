@@ -1,0 +1,1 @@
+We consider the linear stability of the spherically-symmetric stationary solutions of the Schrodinger-Newton equations. We find that the ground state is linearly stable, with only imaginary eigenvalues, while the n-th excited state has n quadruples of complex eigenvalues as well as purely imaginary ones and so is linearly unstable.

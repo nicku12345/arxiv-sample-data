@@ -1,0 +1,1 @@
+We prove that for every convex body K with the center of mass at the origin and every \varepsilon\in \left(0,\frac{1}{2}\right), there exists a convex polytope P with at most e^{O(d)}\varepsilon^{-\frac{d-1}{2}} vertices such that (1-\varepsilon)K\subset P\subset K.

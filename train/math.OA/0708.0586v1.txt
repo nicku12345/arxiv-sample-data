@@ -1,0 +1,1 @@
+We derive a formula which expresses a second order cumulant whose entries are products as a sum of cumulants where the entries are single factors. This extends to the second order case the formula of Krawczyk and Speicher. We apply our result to the problem of calculating the second order cumulants of a semi-circular and Haar unitary operator.

@@ -1,0 +1,1 @@
+We introduce the notion of tiling spaces for metric space. The class of tiling spaces includes the Euclidean spaces, the middle-third Cantor spaces, and various self-similar spaces appeared in fractal geometry. On a tiling space, we characterize a metric subspace whose Assouad dimension coincides with that of the whole space.

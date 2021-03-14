@@ -1,0 +1,1 @@
+We show that induction and restriction functors for inclusions of nilCoxeter algebras provide a categorical realization of the algebra of polynomial differential operators in one variable.

@@ -1,0 +1,1 @@
+In this note we study the moduli space of rank two semistable sheaves on a smooth cubic hypersurface X\subset\mathbb{P}^{4} with c_{1}=0, c_{2}=2 and c_{3}=0. We show that it is isomorphic to the blow-up of the intermediate jacobian J(X) of X along the Fano surface of X. We complete previous results of Iliev-Markushevich AG/9910058 and Markushevich-Tikhomirov AG/9910063.

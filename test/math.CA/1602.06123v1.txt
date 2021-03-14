@@ -1,0 +1,1 @@
+In this paper, we shall prove the L^{p} endpoint decay estimates of oscillatory integral operators with homogeneous polynomial phases S in \mathbb{R} \times \mathbb{R}. As a consequence, sharp L^{p} decay estimates are also obtained when polynomial phases have the form S(x^{m_{1}},y^{m_{2}}) with m_1 and m_2 being positive integers.

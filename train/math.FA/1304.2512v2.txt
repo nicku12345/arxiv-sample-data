@@ -1,0 +1,1 @@
+This paper is concerned with the algebraic dual D*(\Omega) of the space of test functions D(\Omega). The emphasis is on failures and successes of D*(\Omega) as compared to the continuous dual D'(\Omega), the space of distributions. Topological properties, operations with elements of D*(\Omega) and applications to linear partial differential equations are discussed.

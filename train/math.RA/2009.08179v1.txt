@@ -1,0 +1,1 @@
+The authors [3] proved that the endomorphism semiring of a nontrivial semilattice is always subdirectly irreducible and described its monolith. Here we prove that the endomorphism semiring of a commutative inverse semigroup with at least two idempotents is always subdirectly irreducible and describe its monolith.

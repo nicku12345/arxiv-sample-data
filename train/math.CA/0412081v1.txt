@@ -1,0 +1,1 @@
+We show that there is a measure \mu, defined on the hyperbolic plane and with polynomial growth, such that the centered maximal operator associated to \mu does not satisfy weak type (1,1) bounds.

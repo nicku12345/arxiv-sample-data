@@ -1,0 +1,1 @@
+Let f_1, ..., f_n be homogeneous polynomials generating a generic ideal I in the ring of polynomials in n variables over an infinite field. Moreno-Soc\'ias conjectured that for the graded reverse lexicographic term ordering, the initial ideal {\rm in}(I) is a weakly reverse lexicographic ideal. This paper contains a new proof of Moreno-Soc{\'\i}as' conjecture for the case n=2.

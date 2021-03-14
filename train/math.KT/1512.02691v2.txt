@@ -1,0 +1,1 @@
+In his thesis B. Keller solved the universal problem of the extension of an exact category to its (bounded) derived category by introducing the notions of tower of exact and triangulated categories and proving the universal property in this setting. In this note we show that his result extends to the corresponding universal problem for Grothendieck's derivators.

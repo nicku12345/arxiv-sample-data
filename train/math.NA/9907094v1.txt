@@ -1,0 +1,1 @@
+The quasi-Newton equation is the very basis of a variety of the quasi-Newton methods. By using a relationship formula between nonlinear polynomial equations and the corresponding Jacobian matrix. presented recently by the present author, we established an exact alternative of the approximate quasi-Newton equation and consequently derived an modified BFGS updating formulas.

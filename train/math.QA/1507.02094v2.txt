@@ -1,0 +1,1 @@
+By applying the idea of viewing the octonions as an associative algebra in certain tensor categories, or more precisely as a twisted group algebra by a 2-cochain, we show that the octonions form an Azumaya algebra in some suitable braided linear Gr-categories.

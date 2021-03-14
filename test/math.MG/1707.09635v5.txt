@@ -1,0 +1,1 @@
+A surface which does not admit a length nonincreasing deformation is called metric minimizing. We show that metric minimizing surfaces in CAT(0) spaces are locally CAT(0) with respect to their intrinsic metric.

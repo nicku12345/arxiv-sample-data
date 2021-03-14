@@ -1,0 +1,1 @@
+The purpose of this work is to introduce the reader to the Woods Hole trace formula and to show how several well-known index theorems for foliations, vector fields and endomorphisms can be rephrased as particular cases of such formula. The main objective in doing this is to use the Woods Hole formula in the future to produce new index theorems.

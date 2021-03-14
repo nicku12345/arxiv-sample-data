@@ -1,0 +1,1 @@
+Let us denote by \tau(n) and \si(n) the number and the sum of the divisors of n and by \vfi Euler's function. We give effective upper bounds for \frac{n}{\vfi(n)} in terms of \vfi(n), and for \frac{\si(n)}{n} in terms of \tau(n).

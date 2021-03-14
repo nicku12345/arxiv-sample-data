@@ -1,0 +1,1 @@
+We consider Sinai's random walk in random environment. We prove that for an interval of time [1,n] Sinai's walk sojourns in a small neighborhood of the point of localization for the quasi totality of this amount of time. Moreover the local time at the point of localization normalized by n converges in probability to a well defined random variable of the environment.

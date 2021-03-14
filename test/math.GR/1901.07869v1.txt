@@ -1,0 +1,1 @@
+Let G be a group. Two elements x and y in G are said to be in the same z-class if their centralizers in G are conjugate within G. In this paper, we prove that the number of z-classes in the group of upper triangular matrices is infinite provided that the field is infinite and size of the matrices is at least 6, and finite otherwise.

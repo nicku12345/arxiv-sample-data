@@ -1,0 +1,1 @@
+We propose an implicit iterative algorithm for an exact penalty method arising from inequality constrained optimization problems. A rapidly convergent fixed point method is developed for a regularized penalty functional. The applicability and feasibility of the proposed method is demonstrated using large scale inequality constrained problems.

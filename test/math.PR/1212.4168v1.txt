@@ -1,0 +1,1 @@
+We consider N nearest neighbor random walks on the positive integers with a drift towards the origin. When one walk reaches the origin, it jumps to the position of one of the other N-1 walks, chosen uniformly at random. We show that this particle system is ergodic, and establish some exponential moments of the rightmost position, under the stationary measure.

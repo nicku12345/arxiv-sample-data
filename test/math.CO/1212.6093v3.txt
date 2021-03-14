@@ -1,0 +1,1 @@
+We prove that the strong chromatic index for each k-degenerate graph with maximum degree \Delta is at most (4k-2)\Delta-k(2k-1)+1.

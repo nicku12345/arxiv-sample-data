@@ -1,0 +1,1 @@
+We provide an estimate for the essential norm of a weighted composition operator W_{\psi,\varphi}\colon f\mapsto \psi(f\circ\varphi) acting on the space BMOA in terms of the weight function \psi and the n-th power \varphi^n of the analytic self-map \varphi of the open unit disc \mathbb{D}. We also provide a new estimate for the norm of the weighted composition operator on BMOA.

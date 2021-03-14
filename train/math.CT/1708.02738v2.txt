@@ -1,0 +1,1 @@
+The two model-theoretic concepts of weak saturation and weak amalgamation property are studied in the context of accessible categories. We relate these two concepts providing sufficient conditions for existence and uniqueness of weakly saturated objects of an accessible category K. We discuss the implications of this fact in classical model theory.

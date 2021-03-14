@@ -1,0 +1,1 @@
+This paper presents a MATLAB toolbox for computing the conformal mapping from a given polygonal multiply connected domain onto a circular multiply connected domain and its inverse. The toolbox can be used for multiply connected domains with high connectivity and complex geometry. It can be employed also for simply connected domains.

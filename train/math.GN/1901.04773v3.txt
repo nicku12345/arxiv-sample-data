@@ -1,0 +1,1 @@
+We comment on a recent paper that connects certain forms of machine learning to Set Theory.   We point out that part of the set-theoretic machinery is related to a result of Kuratowski about decompositions of finite powers of sets and we show that there is no Borel measurable monotone compression function on the unit interval.

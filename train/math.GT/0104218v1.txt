@@ -1,0 +1,1 @@
+We show that if a split link is obtained from a split link L in S^3 by 1/n-Dehn surgery along a trivial knot C, then the link L\cup C is splittable. That is to say, it is impossible to obtain a split link from a split link via a non-trivial twisting. As its corollary, we completely determine when a trivial link is obtained from a trivial link via a twisting.

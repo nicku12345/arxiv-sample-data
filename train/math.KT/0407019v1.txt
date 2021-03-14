@@ -1,0 +1,1 @@
+In this paper we develop the obstruction theory for lifting complexes, up to quasi-isomorphism, to derived categories of flat nilpotent deformations of abelian categories. As a particular case we also obtain the corresponding obstruction theory for lifting of objects in terms of Yoneda Ext-groups. In appendix we prove the existence of miniversal derived deformations of complexes.

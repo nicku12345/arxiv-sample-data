@@ -1,0 +1,1 @@
+This paper is concerned with a central limit theorem for quadratic variation when observations come as exit times from a regular grid. We discuss the special case of a semimartingale with deterministic characteristics and finite activity jumps in detail and illustrate technical issues in more general situations.

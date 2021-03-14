@@ -1,0 +1,1 @@
+In this paper we first prove the so-called large twist theorem, then using it to prove the boundedness of all solutions and the existence of quasi-periodic solutions for Duffing's equation  \ddot{x}+x^{2n+1}+\dsum_{i=0}^{2n}p_i(t)x^i=0,  where p_i(t)\in C^1(\mathbb{S}) (n+1\leq i\leq 2n) and p_i(t)\in C^0(\mathbb{S}) (0\leq i\leq n) with \mathbb{S}=\mathbb{R}/\mathbb{Z}.

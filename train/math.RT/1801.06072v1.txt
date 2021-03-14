@@ -1,0 +1,1 @@
+We give an example of a Morita algebra A with a tilting module T such that the algebra End_A(T) has dominant dimension at least two but is not a Morita algebra. This provides a counterexample to a conjecture by Chen and Xi from \cite{CX}.

@@ -1,0 +1,1 @@
+This paper proves Koszul duality for coloured operads and uses it to introduce strongly homotopy operads as a suitable homotopy invariant version of operads. It shows that rational chains on configuration spaces of points in the plane form a strongly homotopy operad quasi isomorphic to the chains on the little disks operad.

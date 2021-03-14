@@ -1,0 +1,1 @@
+In this paper we generalize and improve a method for calculating the period of a classical oscillator and other integrals of physical interest, which was recently developed by some of the authors. We derive analytical expressions that prove to be more accurate than those commonly found in the literature, and test the convergence of the series produced by the approach.

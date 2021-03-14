@@ -1,0 +1,1 @@
+We prove a Burgess-like subconvex bound for twisted L-functions of a fixed irreducible cuspidal automorphic representation of GL(2) over a totally real number field. The proof is based on a spectral decomposition of shifted convolution sums and a generalized Kuznetsov formula.

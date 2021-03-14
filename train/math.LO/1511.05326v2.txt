@@ -1,0 +1,1 @@
+We introduce the notion of \mathcal{C}-system of filters, generalizing the standard definitions of both extenders and towers of normal ideals. This provides a framework to develop the theory of extenders and towers in a more general and concise way. In this framework we investigate the topic of definability of generic large cardinals properties.

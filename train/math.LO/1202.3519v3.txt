@@ -1,0 +1,1 @@
+This paper shows that the interpolation theorem fails in the intuitionistic logic of constant domains. This result refutes two previously published claims that the interpolation property holds.

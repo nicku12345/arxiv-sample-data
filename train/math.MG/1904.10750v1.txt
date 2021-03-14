@@ -1,0 +1,1 @@
+In some applications, like some areas in stochastic geometry, a convenient change of variables involves spheres. In this review we summarize formulas of Blaschke-Petkantschin type, that help to pass from integration over k-tuples of points in space to the integration by some sphere passing through those points.

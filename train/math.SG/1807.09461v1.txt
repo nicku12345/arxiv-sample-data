@@ -1,0 +1,1 @@
+The aim of this paper is to use the methods and results of symplectic homogenization (see [V4]) to prove existence of periodic orbits and invariant measures with rotation number depending on the differential of the Homogenized Hamiltonian.

@@ -1,0 +1,1 @@
+Let l be an odd prime and K/k a Galois extension of totally real number fields with Galois group G such that K/k_\infty and k/Q are finite. We reduce the conjectured triviality of the reduced Whitehead group SK_1(QG) of the algebra QG=Quot(\Lambda G) with the Iwasawa algebra \Lambda G = Z_l[[G]] to the case of pro-l Galois groups G and finite unramified coefficient extensions.

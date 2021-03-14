@@ -1,0 +1,1 @@
+We prove that if L_0 and L_1 are exact branes intersecting in precisely one point, then there exists a fiber sequence in the infinity-category of Lagrangian cobordisms consisting of L_0, L_1, and a surgery of L_0 with L_1. By combining this with the exact functor from [Tan], we find analogues of results of Biran and Cornea in the wrapped and exact setting.

@@ -1,0 +1,1 @@
+Given a right factor and a left factor of a Linear Partial Differential Operator (LPDO), under which conditions we can refine these two-factor factorizations into one three-factor factorization? This problem is solved for LPDOs of arbitrary order and number of variables. A more general result for the incomplete factorizations of LPDOs is proved as well.

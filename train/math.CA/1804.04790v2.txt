@@ -1,0 +1,1 @@
+We prove Menshov type "correction" theorems for sequences of compact operators, recovering several results of Fourier series in trigonometric and Walsh systems. The paper clarifies the main ingredient, which is important in the study of such "correction" theorems. That is the weak-L^1 estimate for the maximal Fourier sums of indicator functions of some specific sets.

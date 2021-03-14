@@ -1,0 +1,1 @@
+In dimension n=3, we prove that the singular set of any stationary solution to the Liouville equation -\Delta u=e^u, which belongs to W^{1,2}, has Hausdorff dimension at most 1.

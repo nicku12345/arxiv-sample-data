@@ -1,0 +1,1 @@
+A noncommutative *-algebra that generalizes the canonical commutation relations and that is covariant under the quantum groups SOq(3) or SOq(1,3) is introduced. The generating elements of this algebra are hermitean and can be identified with coordinates, momenta and angular momenta. In addition a unitary scaling operator is part of the algebra.

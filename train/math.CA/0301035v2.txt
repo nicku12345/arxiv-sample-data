@@ -1,0 +1,1 @@
+In this short survey we look at a few basic features of p-adic numbers, somewhat with the point of view of a classical analyst. In particular, with p-adic numbers one has arithmetic operations and a norm, just as for real or complex numbers.

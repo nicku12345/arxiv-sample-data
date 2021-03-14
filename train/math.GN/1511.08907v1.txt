@@ -1,0 +1,1 @@
+The Cremona group is topologically simple when endowed with the Zariski or Euclidean topology, in any dimension \ge 2 and over any infinite field. Two elements are moreover always connected by an affine line, so the group is path-connected.

@@ -1,0 +1,1 @@
+In this paper, we use the Carath\'eodory Convergence Theory to prove a landing theorem of rays in hyperbolic components with rational arguments. Although the proof is done in the setting of a family of entire transcendental maps with two singular values, the method can be generalized to many other one parameter families, with some modifications.

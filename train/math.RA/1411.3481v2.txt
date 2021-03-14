@@ -1,0 +1,1 @@
+Let f be a self-map of the set A. We give a necessary and sufficient condition for the existence of a lattice structure on A such that f becomes a lattice anti-endomorphism with respect to this structure.

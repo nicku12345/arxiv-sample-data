@@ -1,0 +1,1 @@
+In this article we first establish a complete characterization of Hardy's inequalities in \mathbb{R}^n involving distances to different codimension subspaces. In particular the corresponding potentials have strong interior singularities. We then provide necessary and sufficient conditions for the validity of Hardy-Sobolev-Maz'ya inequalities with optimal Sobolev terms.

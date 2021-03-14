@@ -1,0 +1,1 @@
+We introduce a notion of nodal domains for positivity preserving forms. This notion generalizes the classical ones for Laplacians on domains and on graphs. We prove the Courant nodal domain theorem in this generalized setting using purely analytical methods.

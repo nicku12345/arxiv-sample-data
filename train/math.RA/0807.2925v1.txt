@@ -1,0 +1,1 @@
+Let H be a finite dimensional semisimple Hopf algebra over an algebraically closed field of characteristic zero. In this note we give a short proof of the fact that a Hopf subalgebra of H is a depth two subalgebra if and only if it is normal Hopf subalgebra.

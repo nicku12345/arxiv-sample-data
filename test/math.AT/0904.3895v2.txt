@@ -1,0 +1,1 @@
+We describe Artin's braid group on a (fixed) finite number of strings as a crossed module over itself. In particular, we interpret the braid relations as crossed module structure relations.

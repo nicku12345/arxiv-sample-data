@@ -1,0 +1,1 @@
+In this note, we study the viability of a bounded open domain in \mathbb{R}% ^{n} for a process driven by a path-dependent stochastic differential equation with Lipschitz data. We extend an invariant result of Cannarsa, Da. Prato and Frankowska [\textit{Indiana Univ. Math. J.} \textbf{59} (2010) 53-78] to a non-Markovian setting.

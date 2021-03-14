@@ -1,0 +1,1 @@
+This report assumes the basics of inverse semigroup theory as described in the first primer but goes on to show how they may be analysed using ideas from category theory.

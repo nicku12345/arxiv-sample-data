@@ -1,0 +1,1 @@
+Let \mathbb F be an algebraically closed field, G be an abelian group, and let A and B be arbitrary finite-dimensional G-graded simple algebras over \mathbb F. We prove that A and B are isomorphic if, and only if, they satisfy the same graded polynomial identities.

@@ -1,0 +1,1 @@
+It is proved that if S\subset \mathbb P^N is a smooth projective surface and f:S\to \mathbb P^2 is a generic linear projection branched over a cuspidal curve B\subset \mathbb P^2, then the surface S is determined uniquely up to an isomorphism of S by the curve B.

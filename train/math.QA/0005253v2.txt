@@ -1,0 +1,1 @@
+We define an equivalence of categories, quite similar to the classical Cartier-Milnor-Moore-Quillen theorem, between the category of connected dendriform bialgebras and the category of brace algebras. This equivalence is given by the functors "subspace of primitive elements" and "universal enveloping dendriform algebra".

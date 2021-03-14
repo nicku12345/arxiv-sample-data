@@ -1,0 +1,1 @@
+In this note we describe solutions of the equation: F(A(z))=G(B(z)), where A,B are polynomials and F,G are continuous functions on the Riemann sphere.

@@ -1,0 +1,1 @@
+We shall investigate index 1 covers of 2-dimensional log terminal singularities. The main result is that the index 1 cover is canonical if the characteristic of the base field is different from 2 or 3. We also give some counterexamples in the case of characteristic 2 or 3. By using this result, we correct an error in a previous paper.

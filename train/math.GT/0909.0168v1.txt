@@ -1,0 +1,1 @@
+We prove that a closed 4-manifold has shadow-complexity zero if and only if it is a kind of 4-dimensional graph manifold, which decomposes into some particular blocks along embedded copies of S^2 x S^1, plus some complex projective spaces. We deduce a classification of all 4-manifolds with finite fundamental group and shadow-complexity zero.

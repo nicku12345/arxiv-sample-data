@@ -1,0 +1,1 @@
+Let d > 1 and 0 < k < d. The k-plane transform satisies some Lp to Lq dilation-invariant inequality. In this case the best constant and the extremizers are explicitly known. We give a quantitative form of the inequality with respect to these extremizers, that works for k = d - 1 and for k < d-1 while restricted to radial functions.

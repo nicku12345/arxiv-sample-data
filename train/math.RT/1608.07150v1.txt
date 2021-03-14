@@ -1,0 +1,1 @@
+Let G be a reductive group defined over a number field. Denote Z(\hat G) the center of the dual group. Langlands has defined some homomorphism from some cohomology group of Z(\hat G) into the group of automorphic characters of G. We prove that it is bijective.

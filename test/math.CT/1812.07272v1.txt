@@ -1,0 +1,1 @@
+Prompted by an example related to the tensor algebra, we introduce and investigate a stronger version of the notion of separable functor that we call heavily separable. We test this notion on several functors traditionally connected to the study of separability.

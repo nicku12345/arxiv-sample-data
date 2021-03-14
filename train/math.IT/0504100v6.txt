@@ -1,0 +1,1 @@
+This article introduces a new DNA sequence compression algorithm which is based on LUT and LZ77 algorithm. Combined a LUT-based pre-coding routine and LZ77 compression routine,this algorithm can approach a compression ratio of 1.9bits \slash base and even lower.The biggest advantage of this algorithm is fast execution, small memory occupation and easy implementation.

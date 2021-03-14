@@ -1,0 +1,1 @@
+Let \al be an irrational and \varphi: \N \rightarrow \R^+ be a function decreasing to zero. For any \al with a given Diophantine type, we show some sharp estimations for the Hausdorff dimension of the set [E_{\varphi}(\al):={y\in \R: |n\al -y| < \varphi(n) \text{for infinitely many} n},] where |\cdot| denotes the distance to the nearest integer.

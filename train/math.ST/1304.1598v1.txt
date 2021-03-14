@@ -1,0 +1,1 @@
+This paper introduces a new distribution to improve tail risk modeling. Based on the classical normal distribution, we define a new distribution by a series of heat equations. Then, we use market data to verify our model.

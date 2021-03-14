@@ -1,0 +1,1 @@
+Given two cyclotomic polynomials \Phi_n(x) and \Phi_m(x), n\not= m, we determine the minimal natural number k such that we can write k=a(x)\Phi_n (x)+b(x)\Phi_m(x), with a(x) and b(x) integer polynomials.

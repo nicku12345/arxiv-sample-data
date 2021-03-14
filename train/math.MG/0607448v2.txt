@@ -1,0 +1,1 @@
+We use techniques of Bannai and Sloane to give a new proof that there is a unique (22,891,1/4) spherical code; this result is implicit in a recent paper by Cuypers. We also correct a minor error in the uniqueness proof given by Bannai and Sloane for the (23,4600,1/3) spherical code.

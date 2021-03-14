@@ -1,0 +1,1 @@
+Let G be a simple connected graph of order n with degree sequence d_1, d_2, ..., d_n in non-increasing order. The spectral radius rho(G) of G is the largest eigenvalue of its adjacency matrix. For each positive integer L at most n, we give a sharp upper bound for rho(G) by a function of d_1, d_2, ..., d_L, which generalizes a series of previous results.

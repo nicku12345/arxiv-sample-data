@@ -1,0 +1,1 @@
+It is conjectured that every integer N>454 is the sum of seven nonnegative cubes. We prove the conjecture when N is a multiple of 4.

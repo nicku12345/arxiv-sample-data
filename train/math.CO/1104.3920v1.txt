@@ -1,0 +1,1 @@
+An even hole is an induced chordless cycle of even length at least four. A diamond is an induced subgraph isomorphic to K_4-e. We show that graphs without even holes and without diamonds can be decomposed via clique-separators into graphs that have uniformly bounded cliquewidth.

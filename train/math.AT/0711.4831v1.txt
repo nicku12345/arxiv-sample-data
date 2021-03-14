@@ -1,0 +1,1 @@
+We determine the mod-p cohomology rings of an infinite family of p-groups, for odd primes p, with cyclic derived subgroups. Our method involves embedding the groups in a compact Lie group of dimension one, and was suggested by P. H. Kropholler and J. Huebschmann.

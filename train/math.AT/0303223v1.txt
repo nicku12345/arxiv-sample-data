@@ -1,0 +1,1 @@
+Let V(1) be the Smith-Toda complex at the prime 3. We prove that there exists a map v_2^9: \Sigma^{144}V(1) \to V(1) that is a K(2) equivalence. This map is used to construct various v_2-periodic infinite families in the 3-primary stable homotopy groups of spheres.

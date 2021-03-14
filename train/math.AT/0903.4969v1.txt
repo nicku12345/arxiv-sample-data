@@ -1,0 +1,1 @@
+We determine the Stiefel-Whitney classes of the second exterior representation and the spin representation of Spin(15), which are useful to calculate the mod 2 cohomology of the classifying space of the exceptional Lie group E_8.

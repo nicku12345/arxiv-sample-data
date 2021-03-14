@@ -1,0 +1,1 @@
+We study the optimal power flow problem with switching (or, equivalently, the line expansion problem) under demand uncertainty. Specifically, we consider the line-use variables at the first stage and the current- or power-flow at the second stage of two affinely adjustably robust formulations.

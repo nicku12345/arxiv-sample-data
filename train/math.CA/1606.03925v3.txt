@@ -1,0 +1,1 @@
+In this note, we show that if T is a multilinear singular integral operator associated with a kernel satisfies the so-called multilinear L^{r}-H\"ormander condition, then T can be dominated by multilinear sparse operators.

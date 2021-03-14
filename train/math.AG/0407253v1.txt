@@ -1,0 +1,1 @@
+We describe an algorithm for computing certain characteristic numbers of surface scrolls using degenerations. As a corollary we obtain a method for computing the corresponding Gromov-Witten invariants of Grassmannians.

@@ -1,0 +1,1 @@
+We present a proof of Jensen's Coding Theorem (assumong -0#) which quotes the covering lemma, but otherwise makes no appeal to fine structure theory. The key idea is to use a modified definition of the coding at limit cardinals, using "coding delays".

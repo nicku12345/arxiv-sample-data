@@ -1,0 +1,1 @@
+Building on the work of Martin Stolz, we develop the basics of equivariant stable homotopy theory starting from the simple idea that a G- spectrum should just be a spectrum with an action of G on it, in contrast to the usual approach in which the definition of a G-spectrum depends on a choice of universe.

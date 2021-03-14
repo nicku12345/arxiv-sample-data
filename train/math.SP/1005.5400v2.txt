@@ -1,0 +1,1 @@
+Suppose that (X, g) is a conformally compact (n+1)-dimensional manifold that is hyperbolic at infinity in the sense that outside of a compact set K \subset X the sectional curvatures of g are identically equal to minus one. We prove that the counting function for the resolvent resonances has maximal order of growth (n+1) generically for such manifolds.

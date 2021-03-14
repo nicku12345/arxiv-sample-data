@@ -1,0 +1,1 @@
+In the present paper, we introduce a new class of sequences called NBVS to generalize GBVS, essentially extending monotonicity from "one sided" to "two sided", while some important classical results keep true.

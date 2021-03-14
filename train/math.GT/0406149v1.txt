@@ -1,0 +1,1 @@
+Walter Neumann showed that the topology of a ``regular'' algebraic curve V in C^2 is determined up to proper isotopy by some link in S^3 called the link at infinity of V. In this note, we compute the Alexander module over C[t^{\pm 1}] of any such link at infinity.

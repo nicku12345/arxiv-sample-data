@@ -1,0 +1,1 @@
+A certain real number, depending on two neighbouring sides of a quadrilateral and the diagonal meeting these two sides at their common point, is shown to be invariant under affinity. As an application we demonstrate a nice formula for the area of a finite sector at centre of a planar quadric with point symmetry.

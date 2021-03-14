@@ -1,0 +1,1 @@
+Let us draw a graph R on {0,1,...,n-1} by having an edge {i,j} with probability p_(|i-j|), where sum_i p_i is finite and let M_n=(n,<,R). For a first order sentence psi let a^n_psi be the probability of ``M_n satisfies psi''. We prove that the limit of a^n_psi-a^{n+1}_psi is 0, as n goes to infinity.

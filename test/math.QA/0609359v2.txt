@@ -1,0 +1,1 @@
+I give a short proof of the following algebraic statement: if a vertex algebra is simple, then its underlying Lie conformal algebra is either abelian, or it is an irreducible central extension of a simple Lie conformal algebra.

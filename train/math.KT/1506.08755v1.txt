@@ -1,0 +1,1 @@
+Let n be a product of two distinct prime numbers. We construct a triangulated monoidal category having a Grothendieck ring isomorphic to the ring of n:th cyclotomic integers.

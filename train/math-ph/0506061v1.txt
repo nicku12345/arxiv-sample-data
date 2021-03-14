@@ -1,0 +1,1 @@
+The Stieltjes constants are the expansion coefficients in the Laurent series for the Hurwitz zeta function about s=1. We present new asymptotic, summatory, and other exact expressions for these and related constants.

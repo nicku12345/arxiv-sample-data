@@ -1,0 +1,1 @@
+Kesten showed the exponential decay of percolation probability in the subcritical phase for the two-dimensional percolation model. This result implies his celebrated computation that p_c=0.5 for bond percolation in the square lattice, and site percolation in the triangular lattice, respectively. In this paper, we present a simpler proof for Kesten's theorem.

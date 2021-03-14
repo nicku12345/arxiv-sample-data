@@ -1,0 +1,1 @@
+The article considers the problem of existence and uniqueness of centrally symmetrical convex body for which the projection curvature radius function coincides with a given flag function. A necessary and sufficient condition is found that ensures a positive answer. An algorithm for construction the body in question is proposed

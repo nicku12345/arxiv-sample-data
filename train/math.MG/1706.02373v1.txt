@@ -1,0 +1,1 @@
+Let f be an integrable log-concave function on {\mathbb R^n} with the center of mass at the origin. We show that \int\limits_0^{\infty}f(s\theta)ds\ge e^{-n}\int\limits_{-\infty}^{\infty}f(s\theta)ds for every  \theta\in S^{n-1}, and the constant e^{-n} is the best possible.

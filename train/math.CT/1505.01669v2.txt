@@ -1,0 +1,1 @@
+Among right-closed monoidal categories with finite coproducts, we characterise those with finite biproducts as being precisely those in which the initial object and the coproduct of the unit with itself admit right duals. This generalises Houston's result that any compact closed category with finite coproducts admits biproducts.

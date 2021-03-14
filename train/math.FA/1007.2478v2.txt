@@ -1,0 +1,1 @@
+The matrix convexity and the matrix monotony of a real C^1 function f on (0,\infty) are characterized in terms of the conditional negative or positive definiteness of the Loewner matrices associated with f, tf(t), and t^2f(t). Similar characterizations are also obtained for matrix monotone functions on a finite interval (a,b).

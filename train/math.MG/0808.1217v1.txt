@@ -1,0 +1,1 @@
+We present a short elementary proof of the following Twelve Points Theorem:   Let M be a convex polygon with vertices at the lattice points, containing a single lattice point in its interior. Denote by m (resp. m*) the number of lattice points in the boundary of M (resp. in the boundary of the dual polygon). Then m+m*=12.

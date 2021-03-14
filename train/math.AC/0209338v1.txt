@@ -1,0 +1,1 @@
+We provide bounds on the Castelnuovo-Mumford regularity in terms of ``defining equations'' by using elements that annihilates some cohomology modules, inspired by works of Miyazaki, Nagel, Schenzel and Vogel. The elements in these annihilators are provided either by liaison or by tight closure theories. Our results hold in any characteristic.

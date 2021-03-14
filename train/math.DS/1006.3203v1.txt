@@ -1,0 +1,1 @@
+Given an ergodic measure with positive entropy and only positive Lyapunov exponents, its dynamical quantifiers can be approximated by means of quantifiers of some family of uniformly expanding repellers. Here non-uniformly expanding maps are studied that are C^{1+\beta} smooth outside a set of possibly critical or singular points.

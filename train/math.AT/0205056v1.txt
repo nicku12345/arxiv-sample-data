@@ -1,0 +1,1 @@
+We prove the irreducibility of the space parametrizing branched covers of a fixed Riemann surface B of degree d, with at least 2d branch points, and with monodromy group equal to S_d. The result is classical for g(B)=0. The result is well-known for g(B) > 0, but we could find no reference.

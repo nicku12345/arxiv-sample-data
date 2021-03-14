@@ -1,0 +1,1 @@
+We consider the Dirichlet Laplacian in infinite two-dimensional strips defined as uniform tubular neighbourhoods of curves on ruled surfaces. We show that the negative Gauss curvature of the ambient surface gives rise to a Hardy inequality and use this to prove certain stability of spectrum in the case of asymptotically straight strips about mildly perturbed geodesics.

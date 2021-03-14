@@ -1,0 +1,1 @@
+We construct a recursive formula for a complete system of primitive orthogonal idempotents for any R-trivial monoid. This uses the newly proved equivalence between the notions of R-trivial monoid and weakly ordered monoid.

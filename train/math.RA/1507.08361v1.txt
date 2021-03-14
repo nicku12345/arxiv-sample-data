@@ -1,0 +1,1 @@
+In this short note, we give a new sufficient condition for a linear map from a product of copies of a field to endomorphisms of a finite dimensional vector space over the same field to be an algebra homomorphism. We expect that this result can be applied to study representations of higher-degree Clifford algebras and finite extensions of commutative rings.

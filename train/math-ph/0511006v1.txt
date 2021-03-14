@@ -1,0 +1,1 @@
+We expand a discrete--time lattice sine--Gordon equation on multiple lattices and obtain the partial difference equation which governs its far field behaviour.   Such reduction allow us to obtain a new completely discrete nonlinear Schr\"oedinger (NLS) type equation.

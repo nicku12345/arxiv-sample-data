@@ -1,0 +1,1 @@
+Let A and B be unital Banach algebras with A a subalgebra of B. Denote the algebra of all n\times n matrices with entries from A by M_{n}(A). In this paper we prove some results concerning the open question: If A is inverse closed in B, then is M_{n}(A) inverse closed in M_{n}(B)? We also study related questions in the setting where A is a symmetric Banach *-algebra.

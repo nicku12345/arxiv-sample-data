@@ -1,0 +1,1 @@
+We establish an interesting connection between Morin singularities and stable homotopy groups of spheres. We apply this connection to computations of cobordism groups of certain singular maps. The differentials of the spectral sequence computing these cobordism groups are given by the composition multiplication in the stable homotopy groups of spheres.

@@ -1,0 +1,1 @@
+We prove two conjectures of C. Gordon. We show that the maximal number of exceptional Dehn surgeries on a 1-cusped hyperbolic 3-manifold is 10, and that the maximal intersection number between exceptional slopes is 8. The proof uses a combination of new geometric techniques and a rigorous computer-assisted calculation.

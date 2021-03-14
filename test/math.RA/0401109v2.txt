@@ -1,0 +1,1 @@
+A behavior is a closed shift invariant subspace of the space of sequences with entries in a field k. We work out an explicit duality for k-modules. This duality is then used to derive properties of behaviors, and their high dimensional and noncommutative generalizations.

@@ -1,0 +1,1 @@
+In this note we prove the well-posedness for stochastic 2D Navier-Stokes equation driven by general L\'evy processes (in particular, \alpha-stable processes), and obtain the existence of invariant measures.

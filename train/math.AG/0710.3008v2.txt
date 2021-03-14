@@ -1,0 +1,1 @@
+We study algebraic (Artin) stacks over \bar{\mathcal M}_g giving a functorial way of compactifying the relative degree d Picard variety for families of stable curves. We also describe for every d the locus of genus g stable curves over which we get Deligne-Mumford stacks strongly representable over \bar{\mathcal M}_g.

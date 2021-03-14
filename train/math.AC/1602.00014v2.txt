@@ -1,0 +1,1 @@
+In this note, we characterize the Hilbert regularity of the Stanley-Reisner ring K[\bigtriangleup] in terms of the f-vector and the h-vector of a simplicial complex \bigtriangleup. We also compute the Hilbert regularity of a Gorenstein algebra.

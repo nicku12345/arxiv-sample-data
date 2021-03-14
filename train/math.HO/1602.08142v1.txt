@@ -1,0 +1,1 @@
+Placing regular 4n-sided polygons correctly, equations between sine and sums of sines show up -- exactly these equations are used in B\"urgi's method to approximate sines.

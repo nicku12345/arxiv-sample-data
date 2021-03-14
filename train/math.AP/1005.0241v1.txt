@@ -1,0 +1,1 @@
+Thanks to the test function of Bian-Guan[2], we successfully obtain a constant rank theorem for partial convex solutions of a class partial differential equations. This is the microscopic version of the macroscopic partial convexity principle in [1], and also is a generalization of the result in [2].

@@ -1,0 +1,1 @@
+We consider the space U(\mathbb T) of all continuous functions on the circle \mathbb T with uniformly convergent Fourier series. We show that if \varphi: \mathbb T\rightarrow\mathbb T is a continuous piecewise linear but not linear map, then \|e^{in\varphi}\|_{U(\mathbb T)}\simeq\log n.

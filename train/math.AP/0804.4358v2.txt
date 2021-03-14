@@ -1,0 +1,1 @@
+We obtained the C^{\a} continuity for weak solutions of a class of ultraparabolic equations with measurable coefficients of the form {\ptl_t u}= \sum_{i,j=1}^{m_0}X_i(a_{ij}(x,t)X_j u)+X_0 u. The result is proved by simplifying and generalizing our earlier arguments for the C^{\a} regularity of homogeneous ultraparabolic equations.

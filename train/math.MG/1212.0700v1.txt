@@ -1,0 +1,1 @@
+We show that for any metric space X the condition \[ \int_X\int_X\int_X c(z_1,z_2,z_3)^2\, d\Hm z_1\, d\Hm z_2\, d\Hm z_3 < \infty, \] where c(z_1,z_2,z_3) is the Menger curvature of the triple (z_1,z_2,z_3), guarantees that X is rectifiable.

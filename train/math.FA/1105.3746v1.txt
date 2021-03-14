@@ -1,0 +1,1 @@
+We give the symmetric version of five lemmas which are essential for the theory of tensor products (and norms). These are: the approximation, extension, embedding, density and local technique lemmas. Some application of these tools to the metric theory of symmetric tensor products and to the theory of polynomials ideals are given.

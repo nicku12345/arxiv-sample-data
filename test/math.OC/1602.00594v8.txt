@@ -1,0 +1,1 @@
+We investigate different randomizations for mirror descent method. We try to propose such a randomization that allows us to use sparsity of the problem as much as it possible. In the paper one can also find a generalization of randomizaed mirror descent for the convex optimization problems with functional restrictions.

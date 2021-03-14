@@ -1,0 +1,1 @@
+Let X be a connected normal complex space of dimension n>=2 which is (n-1)-complete, and let p: M -> X be a resolution of singularities. By use of Takegoshi's generalization of the Grauert-Riemenschneider vanishing theorem, we deduce H^1_{cpt}(M,O)=0, which in turn implies Hartogs' extension theorem on X by the d-bar-technique of Ehrenpreis.

@@ -1,0 +1,1 @@
+We study line patterns in a free group by considering the topology of the decomposition space, a quotient of the boundary at infinity of the free group related to the line pattern. We show that the group of quasi-isometries preserving a line pattern in a free group acts by isometries on a related space if and only if there are no cut pairs in the decomposition space.

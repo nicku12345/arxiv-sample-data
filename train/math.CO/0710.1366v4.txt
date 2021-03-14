@@ -1,0 +1,1 @@
+It is known that for a totally positive (TP) matrix, the eigenvalues are positive and distinct and the eigenvector associated with the smallest eigenvalue is totally nonzero and has an alternating sign pattern. Here, a certain weakening of the TP hypothesis is shown to yield a similar conclusion.

@@ -1,0 +1,1 @@
+In this work we realize Leavitt path algebras as partial skew groupoid rings. This yields a free path groupoid grading on Leavitt path algebras. Using this grading we characterize free path groupoid graded isomorphisms of Leavitt path algebras that preserves generators.

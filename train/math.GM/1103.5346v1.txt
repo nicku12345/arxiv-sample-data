@@ -1,0 +1,1 @@
+We give the complete evaluation of the first derivative of the Ramanujans cubic continued fraction using Elliptic functions. The Elliptic functions are easy to handle and give the results in terms of Gamma functions and radicals from tables.

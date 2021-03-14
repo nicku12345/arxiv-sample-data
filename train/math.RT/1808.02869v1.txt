@@ -1,0 +1,1 @@
+In this paper, we prove that, given any integers d, e, r and r', and a prime p not dividing de, any two blocks of the complex reflection groups G(de,e,r) and G(de,e,r') with the same p-weight are perfectly isometric.

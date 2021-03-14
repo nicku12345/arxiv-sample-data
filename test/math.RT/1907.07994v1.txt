@@ -1,0 +1,1 @@
+We give a complete description of the discrete spectra in the branching law \Pi|_{G'} with respect to the pair (G,G')=(O(p,q), O(p',q') \times O(p'',q'')) for irreducible unitary representations \Pi of G that are "geometric quantization" of minimal elliptic coadjoint orbits. We also construct explicitly all holographic operators and prove a closed Parseval-type formula.

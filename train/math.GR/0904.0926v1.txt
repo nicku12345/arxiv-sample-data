@@ -1,0 +1,1 @@
+We provide every Renner monoids with a monoid presentation, and we introduce a length function which extends the Coxeter length function.

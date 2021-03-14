@@ -1,0 +1,1 @@
+In this paper we give a terminating cut-elimination procedure for a logic calculus SBL. SBL corresponds to the second order arithmetic Pi^{1}_{2}-Separation and Bar Induction.

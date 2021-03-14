@@ -1,0 +1,1 @@
+We present new lower bounds on the complexity of Dehn surgery manifolds of knots, using our recent result on the Cheeger-Gromov rho invariants and triangulations. As an application, we give explicit examples of closed hyperbolic 3-manifolds with fixed first homology for which the gap between the Gromov norm and the complexity is arbitrarily large.

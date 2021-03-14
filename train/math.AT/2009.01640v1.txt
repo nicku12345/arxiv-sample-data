@@ -1,0 +1,1 @@
+In this paper we will introduce and give topological properties of a new concept named simplicial distance which is the simplicial analog of the homotopic distance (in the sense of Marcias-Virgos and Mosquera-Lois in their paper [6]). According to our definition of simplicial distance, simplicial complexity is a particular case of this new concept.

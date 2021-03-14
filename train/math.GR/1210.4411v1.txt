@@ -1,0 +1,1 @@
+We define a local analogue to Gromov's loop division property which is use to give a sufficient condition for an asymptotic cone of a complete geodesic metric space to have uncountable fundamental group. As well, this property is used to understand the local topological structure of asymptotic cones of many groups currently in the literature.

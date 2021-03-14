@@ -1,0 +1,1 @@
+We study the pluripolar hull of the graph of a holomorphic function f, defined on a domain D in the complex plane outside a polar set A of D. This leads to a theorem that describes under what conditions f is nowhere extendable over A, while the graph of f over D \ A is NOT complete pluripolar.

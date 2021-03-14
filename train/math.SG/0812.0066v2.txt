@@ -1,0 +1,1 @@
+This is a short companion paper to arXiv:0810.3470. We construct an integrable system on an open subset of a Fano manifold equipped with a toric degeneration, and compute the potential function for its Lagrangian torus fibers if the central fiber is a toric Fano variety admitting a small resolution.

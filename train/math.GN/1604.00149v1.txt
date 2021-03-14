@@ -1,0 +1,1 @@
+Answering a question posed by S.Maillot in MathOverFlow, for every n\in\mathbb N we construct a locally connected subgroup G\subset\mathbb R^{n+1} of dimension dim(G)=n, which is not locally compact.

@@ -1,0 +1,1 @@
+We propose a sufficient condition of the convergence of a Dulac series formally satisfying an algebraic ordinary differential equation (ODE). Such formal solutions of algebraic ODEs appear rather often, in particular, the third, fifth, and sixth Painlev\'e equations possess formal Dulac series solutions, whose convergence follows from the proposed sufficient condition.

@@ -1,0 +1,1 @@
+For the d-dimensional model of a subcritical bond percolation (p<p_c) and a point \vec{a} in Z^d, we prove that a cluster conditioned on connecting points (0,...,0) and n\vec{a} if scaled by 1/(n|vec{a}|) along \vec{a} and by 1/sqrt{n} in the orthogonal direction converges asymptotically to Time x (d-1)-dimensional Brownian Bridge.

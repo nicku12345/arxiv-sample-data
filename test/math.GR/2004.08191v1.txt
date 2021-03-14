@@ -1,0 +1,1 @@
+We show that any adjoint absolutely simple linear algebraic group over a field of characteristic zero is the automorphism group of some projector on a central simple algebra. Projective homogeneous varieties can be described in these terms; in particular, we reproduce quadratic equations by Lichtenstein defining them.

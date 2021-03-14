@@ -1,0 +1,1 @@
+We give a characterisation of those local not necessary commutative rings, for which the category of projective modules admits a triangulation with the identity as translation functor. By "admits a triangulation" we mean that the category can be given the structure of a triangulated category that satisfies the standard set of axioms including the octahedral axiom.

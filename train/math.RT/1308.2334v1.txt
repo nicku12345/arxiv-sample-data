@@ -1,0 +1,1 @@
+We study the homotopy category  K(\Inj A) of all injective modules over a finite dimensional algebra A with discrete derived category. We give a classification of the indecomposable objects of  K(\Inj A) for any radical square zero self-injective algebra A. In particular, every indecomposable object is endofinite.

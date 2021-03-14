@@ -1,0 +1,1 @@
+We study one-dimensional Schroedinger operators S with real-valued distributional potentials q in W^{-1}_{2,loc}(R) and prove an extension of the Povzner-Wienholtz theorem on self-adjointness of bounded below S thus providing additional information on its domain. The results are further specified for q in W^{-1}_{2,unif}(R).

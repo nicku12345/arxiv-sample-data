@@ -1,0 +1,1 @@
+The expected number of Yang-Baxter moves appearing in a reduced decomposition of the longest element of the Coxeter group of type B_n is computed to be 2-4/n. For the same element, the expected number of 0101 or 1010 factors appearing in a reduced decomposition is 2/(n^2-2).

@@ -1,0 +1,1 @@
+Let {\cal Z}_1(s) = \int_1^\infty |\zeta({1\over2}+ix)|^2x^{-s}{\rm d}x (\sigma = \Re s > 1). A result concerning analytic continuation of {\cal Z}_1(s) to \bf C is proved, and also a result relating the order of {\cal Z}_1(\sigma + it) (1/2 \le \sigma \le 1, t\ge t_0) to the order of {\cal Z}_1({1\over2}+it).

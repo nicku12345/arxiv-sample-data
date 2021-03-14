@@ -1,0 +1,1 @@
+We prove that every finite connected simplicial complex has the homology of the classifying space for some \mathrm{CAT}(0) cubical duality group. More specifically, for any finite simplicial complex X, we construct a locally \mathrm{CAT}(0) cubical complex T_{X} and an acyclic map t_{X} : T_{X} \to X such that \pi_1(T_X) is a duality group.

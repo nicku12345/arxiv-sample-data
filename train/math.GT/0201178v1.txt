@@ -1,0 +1,1 @@
+Everyone knows that the Euler characteristic of a combinatorial manifold is given by the alternating sum of its numbers of simplices. It is shown that there are other linear combinations of the numbers of simplices which are combinatorial invariants, but that all such invariants are multiples of the Euler characteristic.

@@ -1,0 +1,1 @@
+This article introduces descriptive cellular homology on cell complexes, which is an extension of J.H.C. Whitehead's CW topology. A main result is that a descriptive cellular complex is a topology on fibres in a fibre bundle. An application of two forms of cellular homology is given in terms of the persistence of shapes in CW spaces.

@@ -1,0 +1,1 @@
+This note introduces the construction of relational symplectic groupoids as a way to integrate every Poisson manifold. Examples are provided and the equivalence, in the integrable case, with the usual notion of symplectic groupoid is discussed.

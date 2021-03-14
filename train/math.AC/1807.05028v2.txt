@@ -1,0 +1,1 @@
+We characterize the monomial ideals I\subset K[x_1,\ldots,x_n] with the property that the polarization I^p and I^{\sigma^n}:= the ideal obtained from I by the n-th iterated squarefree operator \sigma are isomorphic via a permutation of variables. We give several methods to construct such ideals. We also compare the depth and sdepth of I and I^{\sigma^n}.

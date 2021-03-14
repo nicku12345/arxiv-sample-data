@@ -1,0 +1,1 @@
+We show how to use formal desingularizations (defined earlier by the first author) in order to compute the global sections (also called adjoints) of twisted pluricanonical sheaves. These sections define maps that play an important role in the birational classification of schemes.

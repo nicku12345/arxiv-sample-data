@@ -1,0 +1,1 @@
+Any non-degenerate quadratic form over a Hilbertian field (e.g., a number field) is isomorphic to a scaled trace form. In this work we extend this result to more general fields. In particular, prosolvable and prime-to-p extensions of a Hilbertian field. The proofs are based on the theory of PAC extensions.

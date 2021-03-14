@@ -1,0 +1,1 @@
+We establish the existence of renormalized solutions of the Vlasov-Maxwell-Boltzmann system with a defect measure in the presence of long-range interactions. We also present a control of the defect measure by the entropy dissipation only, which turns out to be crucial in the study of hydrodynamic limits.

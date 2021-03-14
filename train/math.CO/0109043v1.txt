@@ -1,0 +1,1 @@
+We count tilings of a rectangle of integer sides m-1 and n-1 by a special set of tiles. The result is obtained fron the study of the kernel of the adjacency matrix of an n x n rectangular graph of Z x Z.

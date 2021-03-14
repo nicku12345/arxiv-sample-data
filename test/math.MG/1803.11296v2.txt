@@ -1,0 +1,1 @@
+We show that the circle packing embedding in \mathbb{R}^2 of a one-ended, planar triangulation with polynomial growth is quasisymmetric if and only if the simple random walk on the graph satisfies sub-Gaussian heat kernel estimate with spectral dimension two. Our main results provide a new family of graphs and fractals that satisfy sub-Gaussian estimates and Harnack inequalities.

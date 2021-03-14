@@ -1,0 +1,1 @@
+We prove that if a set is `large' in the sense of Erd\H{o}s, then it approximates arbitrarily long arithmetic progressions in a strong quantitative sense. More specifically, expressing the error in the approximation in terms of the gap length \Delta of the progression, we improve a previous result of o(\Delta) to O(\Delta^\alpha) for any \alpha \in (0,1).

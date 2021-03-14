@@ -1,0 +1,1 @@
+We prove that the residual girth of any finitely generated linear group is at most exponential. This means that the smallest finite quotient in which the n-ball injects has at most exponential size. If the group is also not virtually nilpotent, it follows that the residual girth is precisely exponential.

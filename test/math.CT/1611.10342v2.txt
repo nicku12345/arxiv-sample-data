@@ -1,0 +1,1 @@
+It is shown how the graph category of Borisov and Manin can be constructed from (a variant of) the graph category of Joyal and Kock, essentially by reversing the generic morphisms. More precisely, the morphisms in the Borisov-Manin category are exhibited as cospans of reduced covers and refinement morphisms.

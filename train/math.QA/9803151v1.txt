@@ -1,0 +1,1 @@
+Raising operators of row type are constructed by means of an interpolation method. These are a dual version of the raising operators of column type by A.N.Kirillov and M.Noumi. An extension of the q-binomial coefficients is introduced in relation to the raising operators.

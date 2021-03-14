@@ -1,0 +1,1 @@
+We present a procedure to approximate a plane contour by piecewise polynomial functions, depending on various parameters, such as degree, number of local patches, selection of knots. This procedure aims to be adopted to study how information about shape is represented.

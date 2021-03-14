@@ -1,0 +1,1 @@
+It is proved that there exist graphs of bounded degree with arbitrarily large queue-number. In particular, for all \Delta\geq3 and for all sufficiently large n, there is a simple \Delta-regular n-vertex graph with queue-number at least c\sqrt{\Delta}n^{1/2-1/\Delta} for some absolute constant c.

@@ -1,0 +1,1 @@
+We study Lispchitz solutions of partial differential relations \nabla u\in K, where u is a vector-valued function in an open subset of R^n. In some cases the set of solutions turns out to be surprisingly large. The general theory is then used to construct counter-examples to regularity of solutions of Euler-Lagrange systems satisfying classical ellipticity conditions.

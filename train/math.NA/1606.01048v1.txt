@@ -1,0 +1,1 @@
+We extend the basic idea of Serendipity Virtual Elements from the previous case (by the same authors) of nodal (H^1-conforming) elements, to a more general framework. Then we apply the general strategy to the case of H(div) and H(curl) conforming Virtual Element Methods, in two and three dimensions.

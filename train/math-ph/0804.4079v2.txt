@@ -1,0 +1,1 @@
+In the present note, we determine the ground state energy and study the existence of Lifshitz tails near this energy for some non monotonous alloy type models. Here, non monotonous means that the single site potential coming into the alloy random potential changes sign. In particular, the random operator is not a monotonous function of the random variables.

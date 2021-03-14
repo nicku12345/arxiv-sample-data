@@ -1,0 +1,1 @@
+In the paper we consider images of finite simple projective special linear and unitary groups under power words. In particular, we show that if G\simeq \PSL_n^\varepsilon (q), then for every power words of type x^M there exist constant c and N such that \vert \omega(G)\vert >c\frac{\vert G\vert }{n} whenether \vert G\vert >N.

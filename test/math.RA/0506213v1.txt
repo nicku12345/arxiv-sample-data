@@ -1,0 +1,1 @@
+It is shown that the values of Sylvester type determinants for various orthogonal polynomials considered by Askey in [R.Askey, Evaluation of some determinants, Proceedings of the 4th ISAAC Congress, 200x, xxx-xxx] can be ascertained inductively using simple block-triangularization schemes.

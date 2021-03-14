@@ -1,0 +1,1 @@
+An r-book of size q is a union of q (r+1)-cliques sharing a common r-clique. We find exactly the Ramsey number of a p-clique versus r-books of sufficiently large size. Furthermore, we find asymptotically the Ramsey number of any fixed p-chromatic graph versus r-books of sufficiently large size. The key element in our proofs is Szemeredi's Regularity Lemma.

@@ -1,0 +1,1 @@
+In this note, we give a criteria whether given two Eisenstein polynomials over a padic field define the same extension (Proposition 1.6). In particular, we completely identify Eisenstein polynomials of degree p (Theorem 1.16). This note is an English translation of a part of the original paper [12].

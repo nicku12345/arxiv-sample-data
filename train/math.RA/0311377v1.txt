@@ -1,0 +1,1 @@
+We introduce Galois corings, and give a survey of properties that have been obtained so far. The Definition is motivated using descent theory, and we show that classical Galois theory, Hopf-Galois theory and coalgebra Galois theory can be obtained as a special case.

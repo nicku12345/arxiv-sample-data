@@ -1,0 +1,1 @@
+Properties and examples of the dual transformation between two planes, which is such that the coordinates of a point in the original plane give the coefficients of a line in the dual plane and the coefficients of a line in the original plane give the coordinates of a point in the dual plane, are examined.

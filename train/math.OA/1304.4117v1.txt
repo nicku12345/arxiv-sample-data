@@ -1,0 +1,1 @@
+We consider the {\it concentration functions problem} for discrete quantum groups; we prove that if \mathbb{G} is a discrete quantum group, and \mu is an irreducible state in l^1(\mathbb{G}), then the convolution powers \mu^n, considered as completely positive maps on c_0(\mathbb{G}), converge to zero in strong operator topology.

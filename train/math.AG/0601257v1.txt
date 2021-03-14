@@ -1,0 +1,1 @@
+We study the Gromov-Witten and Donaldson-Thomas correspondence conjectured in [MNOP1, MNOP2], for trivial elliptic fibrations. In particular, we verify the Gromov-Witten and Donaldson-Thomas correspondence for primary fields when the threefold is E \times S where E is a smooth elliptic curve and S is a smooth surface with numerically trivial canonical class.

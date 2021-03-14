@@ -1,0 +1,1 @@
+In this paper, the principal tool to describe transversal polymatroids with Gorenstein base ring is polyhedral geometry, especially the Danilov-Stanley theorem for the characterization of canonical module. Also, we compute the a-invariant and the Hilbert series of base ring associated to this class of transversal polymatroids.

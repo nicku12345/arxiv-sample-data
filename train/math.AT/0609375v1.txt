@@ -1,0 +1,1 @@
+We compute the fundamental group of the spaces of ordered commuting n-tuples of elements in the Lie groups SU(2), U(2) and SO(3). For SO(3) the computation of the mod-2 cohomology of the components of these spaces is also obtained.

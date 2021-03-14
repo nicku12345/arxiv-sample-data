@@ -1,0 +1,1 @@
+We fix an orientation issue which appears in our previous paper about the isomorphism between Floer homology of cotangent bundles and loop space homology. When the second Stiefel-Whitney class of the underlying manifold does not vanish on 2-tori, this isomorphism requires the use of a twisted version of the Floer complex.

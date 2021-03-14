@@ -1,0 +1,1 @@
+The article has been withdrawn by the author. Wolfgang Lueck and Peter Linnell pointed out that the proof of Lemma 3.8 does not apply to the unrestricted case of wreath product. It is not clear at this stage how to complete the proof of Theorem 3.1 using the present version of Lemma 3.8. The valid results originating from this article will be added in a later paper.

@@ -1,0 +1,1 @@
+In this note we give new proofs of rectifiability of RCD(K,N) spaces as metric measure spaces and lower semicontinuity of the essential dimension, via \delta-splitting maps. The arguments are inspired by the Cheeger-Colding theory for Ricci limits and rely on the second order differential calculus developed by Gigli and on the convergence and stability results by Ambrosio-Honda.

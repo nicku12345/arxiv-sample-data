@@ -1,0 +1,1 @@
+Let E be an ample vector bundle of rank r on a projective variety X with only log-terminal singularities. We consider the nefness of adjoint divisors K_X+(t-r)det(E) when t>=dim(X) and t>r. As a corollary, we classify pairs (X,E) with c_r-sectional genus zero.

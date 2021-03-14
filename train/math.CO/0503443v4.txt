@@ -1,0 +1,1 @@
+A homogeneous set of n points in the d-dimensional Euclidean space determines at least \Omega(n^{2d/(d^2+1)} / \log^{c(d)} n) distinct distances for a constant c(d)>0. In three-space, we slightly improve our general bound and show that a homogeneous set of n points determines at least \Omega(n^{.6091}) distinct distances.

@@ -1,0 +1,1 @@
+We use elementary triangular matrices to obtain some factorization, multiplication, and inversion properties of triangular matrices. We also obtain explicit expressions for the inverses of strict k-Hessenberg matrices and banded matrices. Our results can be extended to the cases of block triangular and block Hessenberg matrices.

@@ -1,0 +1,1 @@
+A finite group G is said to satisfy C_\pi for a set of primes \pi, if G possesses exactly one class of conjugate \pi-Hall subgroups. In the paper we obtain a criterion for a finite group G to satisfy C_\pi in terms of a normal series of the group.

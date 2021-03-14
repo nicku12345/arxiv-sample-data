@@ -1,0 +1,1 @@
+In this paper, we introduce a new concept of {\it strongly keen} for Heegaard splittings, and show that, for any integers n\geq 2 and g\geq 3, there exists a strongly keen Heegaard splitting of genus g whose Hempel distance is n.

@@ -1,0 +1,1 @@
+We show that a 2-subset-regular self-complementary 3-uniform hypergraph with n vertices exists if and only if n\ge 6 and n is congruent to 2 modulo 4.

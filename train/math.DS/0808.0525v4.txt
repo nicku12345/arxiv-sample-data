@@ -1,0 +1,1 @@
+This is an earlier, but more general, version of "An L^1 Ergodic Theorem for Sparse Random Subsequences". We prove an L^1 ergodic theorem for averages defined by independent random selector variables, in a setting of general measure-preserving group actions. A far more readable version of this paper is in the works.

@@ -1,0 +1,1 @@
+Let M be a CR submanifold of maximal CR dimension of a complex space form M. The shape operator A of the distinguished vector field {\xi} is recurrent if there exists a 1-form v such that \nabla A = A \otimes v. We show that M is an Euclidean space under the condition that A is recurrent.

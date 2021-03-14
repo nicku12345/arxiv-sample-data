@@ -1,0 +1,1 @@
+We provide a new analytical approach to operator splitting for equations of the type u_t=Au+B(u) where A is a linear operator and B is quadratic. A particular example is the Korteweg-de Vries (KdV) equation u_t-u u_x+u_{xxx}=0. We show that the Godunov and Strang splitting methods converge with the expected rates if the initial data are sufficiently regular.

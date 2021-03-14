@@ -1,0 +1,1 @@
+We calculate the least upper bounds for approximations in the metric of the space L_2 by linear methods of summation of Fourier series on classes of periodic functions L^\psi_{\bar\beta,1} defined by sequences of multipliers \psi=\psi(k) and shifts of argument \bar\beta=\beta_k.

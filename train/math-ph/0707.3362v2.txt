@@ -1,0 +1,1 @@
+We investigate Gibbs measures relative to Brownian motion in the case when the interaction energy is given by a double stochastic integral. In the case when the double stochastic integral is originating from the Pauli-Fierz model in nonrelativistic quantum electrodynamics, we prove the existence of its infinite volume limit.

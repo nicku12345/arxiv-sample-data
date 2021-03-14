@@ -1,0 +1,1 @@
+The Euclidean division of two formal series in one variable produces a sequence of series that we obtain explicitly, remarking that the case where one of the two initial series is 1 is sufficiently generic. As an application, we define a Wronskian of symmetric functions.

@@ -1,0 +1,1 @@
+We extend the concept of the law of a finite graph to graphings, which are, in general, infinite graphs whose vertices are equipped with the structure of a probability space. By doing this, we obtain a vast array of new unimodular measures. Furthermore, we work out in full detail a proof of a known result, which states that weak limits preserve unimodularity.

@@ -1,0 +1,1 @@
+We discuss a clean level lowering theorem modulo prime powers for weight 2 cusp forms. Furthermore, we illustrate how this can be used to completely solve certain twisted Fermat equations ax^n+by^n+cz^n=0.

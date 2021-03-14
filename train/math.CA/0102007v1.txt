@@ -1,0 +1,1 @@
+It is shown that a smooth n dimensional manifold with a boundary in R^n admits a Boolean representation in terms of closed half spaces defined by the tangent hyperplanes at the points on its boundary. A similar result is established for smooth functions on closed convex domains in R^n. The latter result is considered as a form of the Legendre transformation.

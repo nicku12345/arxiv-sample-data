@@ -1,0 +1,1 @@
+We discuss and illustrate the behaviour of the continued fraction expansion of a formal power series under specialisation of parameters or their reduction modulo p and sketch some applications of the reduction theorem here proved.

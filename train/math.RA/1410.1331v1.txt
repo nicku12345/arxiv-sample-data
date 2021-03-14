@@ -1,0 +1,1 @@
+We introduce the notion of J-Armendariz rings, which are a generalization of weak Armendariz rings and investigate their properties. We show that any local ring is J-Armendariz, and then fined a local ring that is not weak Armendariz.

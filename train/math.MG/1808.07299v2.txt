@@ -1,0 +1,1 @@
+For n \geq 2 we construct a measurable subset of the unit ball in \mathbb{R}^n that does not contain pairs of points at distance 1 and whose volume is greater than (1/2)^n times the volume of the ball. This disproves a conjecture of Larman and Rogers from 1972.

@@ -1,0 +1,1 @@
+We calculate the local Riemann-Roch numbers of the zero sections of T^*S^n and T^*\R P^n, where the local Riemann-Roch numbers are defined by using the S^1-bundle structure on their complements associated to the geodesic flows.

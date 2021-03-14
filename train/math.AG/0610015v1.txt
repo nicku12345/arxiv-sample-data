@@ -1,0 +1,1 @@
+We provide an elementary proof of the Hartshorne-Serre correspondence for constructing vector bundles from local complete intersection subschemes of codimension two. This will be done, as in the correspondence of hypersurfaces and line bundles, by patching together local determinantal equations in order to produce sections of a vector bundle.

@@ -1,0 +1,1 @@
+This article explains basic constructions and results on group algebras and their cohomology, starting from the point of view of commutative algebra. It provides the background necessary for a novice in this subject to begin reading Dave Benson's article in the same MSRI volume that this article is slated to appear in.

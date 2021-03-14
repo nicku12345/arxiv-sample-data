@@ -1,0 +1,1 @@
+In this note we study the local projective model structure on presheaves of complexes on a site, i.e. we describe its classes of cofibrations, fibrations and weak equivalences. In particular, we prove that the fibrant objects are those satisfying descent with respect to all hypercovers. We also describe cofibrant and fibrant replacement functors with pleasant properties.

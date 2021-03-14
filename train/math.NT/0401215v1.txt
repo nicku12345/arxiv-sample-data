@@ -1,0 +1,1 @@
+If a sequence (a_n) of non-negative real numbers has ``best possible'' distribution in arithmetic progressions, Bombieri showed that one can deduce an asymptotic formula for the sum \sum_{n\le x} a_n \Lambda_k(n) for k\ge 2. By constructing appropriate sequences, we show that any weakening of the well-distribution property is not sufficient to deduce the same conclusion.

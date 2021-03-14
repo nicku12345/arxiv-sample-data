@@ -1,0 +1,1 @@
+In this paper we introduce the notion of weak non-asssociative Doi-Hopf module and give the Fundamental Theorem of Hopf modules in this setting. Also we prove that there exists a categorical equivalence that admits as particular instances the ones constructed in the literature for Hopf algebras, weak Hopf algebras, Hopf quasigroups, and weak Hopf quasigroups.

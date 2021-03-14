@@ -1,0 +1,1 @@
+In this brief note we prove that linear B-spline copulas is not a new family of copulas since they are equivalent to checkerboard copulas, and discuss in particular how they are used to extend empirical subcopulas to copulas.

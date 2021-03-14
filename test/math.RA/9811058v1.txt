@@ -1,0 +1,1 @@
+For a prime p and natural number n with p greater than or equal to n, we establish the existence of a non-functorial one-to-one correspondence between isomorphism classes of groups of order p^n whose derived subgroup has exponent dividing p, and isomorphism classes of nilpotent p^n-element Lie algebras L over the truncated polynomial ring F_p[T]/(T^n) in which T[L,L]=0.

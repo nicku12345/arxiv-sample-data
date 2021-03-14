@@ -1,0 +1,1 @@
+If the system S of contracting similitudes on  R^2 satisfies open convex set condition, then the set F of extreme points of the convex hull \tilde{K} of it's invariant self-similar set K has Hausdorff dimension 0 .   If, additionally, all the rotation angles of the similitudes are commensurable with \pi, then the set F is finite and the convex hull \tilde{K} is a convex polygon.

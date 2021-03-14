@@ -1,0 +1,1 @@
+Let \mathcal{M} be a small n-abelian category. We show that the category of finitely presented functors mod-\mathcal{M} modulo the subcategory of effaceable functors mod_0-\mathcal{M} has an n-cluster tilting subcategory which is equivalent to \mathcal{M}. This gives a higher-dimensional version of Auslander's formula.

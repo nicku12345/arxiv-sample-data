@@ -1,0 +1,1 @@
+We give a closed formula for Lovasz theta number of the powers of cycle graphs and of their complements, the circular complete graphs. As a consequence, we establish that the circular chromatic number of a circular perfect graph is computable in polynomial time. We also derive an asymptotic estimate for this theta number.

@@ -1,0 +1,1 @@
+We consider minimal non-negative Jacobi operator with p\times p-matrix entries. Using the technique of boundary triplets and the corresponding Weyl functions, we describe the Friedrichs and Krein extensions of the minimal Jacobi operator. Moreover, we parameterize the set of all non-negative self-adjoint extensions in terms of boundary conditions.

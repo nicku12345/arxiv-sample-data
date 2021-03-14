@@ -1,0 +1,1 @@
+We describe a general method for the construction of a confidence region for the two parameters of the Negative Binomial Distribution. This is achieved by expanding the sampling distribution of Method-of-Moments estimators, using the Central Limit Theorem.

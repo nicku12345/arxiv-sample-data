@@ -1,0 +1,1 @@
+Given multigraded free resolutions of two monomial ideals we construct a multigraded free resolution of the sum of the two ideals.

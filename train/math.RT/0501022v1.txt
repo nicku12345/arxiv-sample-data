@@ -1,0 +1,1 @@
+Harmonic analysis on noncompact Riemannian symmetric spaces is in a sense equivalent to the theory of the horospherical transform. There are no horospheres on compact symmetric spaces, but we define a complex version of horospherical transform which plays a similar role for the harmonic analysis on them.

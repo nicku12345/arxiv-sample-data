@@ -1,0 +1,1 @@
+We study a one-parameter family of quadratic maps, which serves as a template for interior point methods. It is known that such methods can exhibit chaotic behavior, but this has been verified only for particular linear optimization problems. Our results indicate that this chaotic behavior is generic.

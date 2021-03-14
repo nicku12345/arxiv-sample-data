@@ -1,0 +1,1 @@
+This manuscript proposes a mathematical model for the game named Breakout. Its systematic study reveals unexpected complexity. After a survey of general properties of the model, we study in details a special case and exhibit combinatorial difficulties arising in another case.

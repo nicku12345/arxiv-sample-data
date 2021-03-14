@@ -1,0 +1,1 @@
+We introduce a domination polynomial of a graph G. The domination polynomial of a graph G of order n is the polynomial D(G, x) =\sum_{i=1}^n d(G, i)x^i, where d(G, i) is the number of dominating sets of G of size i. We obtain some properties of D(G, x) and its coefficients. Also we compute this polynomial for some specific graphs.

@@ -1,0 +1,1 @@
+We use the properties of the refined Bloch group of a field to prove that H_3 of SL_2 of a global field is never finitely generated, and to calculate - up to some 2-torsion - H_3 of SL_2 of local fields with finite residue field of odd characteristic. We also give lower bounds for the 3-torsion in the H_3 of SL_2 of rings of S-integers.

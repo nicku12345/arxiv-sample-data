@@ -1,0 +1,1 @@
+In this paper we prove global well-posedness in H^1 for the energy-critical defocusing initial-value problem \begin{equation*} (i\partial_t+\Delta_x)u=u|u|^2,\qquad u(0)=\phi, \end{equation*} in the semiperiodic setting x\in\R\times\T^3.

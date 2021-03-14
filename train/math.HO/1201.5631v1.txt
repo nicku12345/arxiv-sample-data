@@ -1,0 +1,1 @@
+Euler defines a function f(x) somehow as an infinite product and a generalization of [x], where [x] ist, what we now call following Legendre the Gamma-Funktion. He gets some recursive relationships for f(x), by applying some very nice tricks and using the asymptotics of the infinite products. The paper is translated from Latin into German.

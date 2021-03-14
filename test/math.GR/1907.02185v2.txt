@@ -1,0 +1,1 @@
+Let G be a finite group and \sigma_1(G)=\frac{1}{|G|}\sum_{H\leq G}\,|H|. In this note, we prove that if \sigma_1(G)<\frac{117}{20}, then G is solvable. Moreover, we have \sigma_1(G)=\frac{117}{20} if and only if G\cong A_5. This solves an open problem posed in \cite{8}.

@@ -1,0 +1,1 @@
+We present a new family of sine polynomials that are nonnegative for all x in [0,\pi].   We also characterize all nonnegative sine polynomials of degree 3 and all nonnegative cosine polynomials of degree 2.   In the latest version, typos in (1.4) and (1.6) are corrected (with >= replaced by <=).

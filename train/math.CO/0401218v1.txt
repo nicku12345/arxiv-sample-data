@@ -1,0 +1,1 @@
+We study the generating function for the number of involutions on n letters containing exactly r\gs0 occurrences of 3412. It is shown that finding this function for a given r amounts to a routine check of all involutions on 2r+1 letters.

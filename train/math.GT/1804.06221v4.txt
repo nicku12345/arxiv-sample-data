@@ -1,0 +1,1 @@
+We compute the effect of concordance surgery, a generalization of knot surgery defined using a self-concordance of a knot, on the Ozsv\'ath-Szab\'o 4-manifold invariant. The formula involves the graded Lefschetz number of the concordance map on knot Floer homology. The proof uses the sutured Floer TQFT, and a version of sutured Floer homology perturbed by a 2-form.

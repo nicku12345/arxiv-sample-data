@@ -1,0 +1,1 @@
+We study the algebraic structure of the Poisson algebra P(O) of polynomials on a coadjoint orbit O of a semisimple Lie algebra. We prove that P(O) splits into a direct sum of its center and its derived ideal. We also show that P(O) is simple as a Poisson algebra iff O is semisimple.

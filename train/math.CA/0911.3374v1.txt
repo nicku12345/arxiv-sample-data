@@ -1,0 +1,1 @@
+Here we define a Caputo like discrete nabla fractional difference and we produce discrete nabla fractional Taylor formulae for the first time. We estimate their remaiders. Then we derive related discrete nabla fractional Opial, Ostrowski, Poincare and Sobolev type inequalities.

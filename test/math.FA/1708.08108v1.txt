@@ -1,0 +1,1 @@
+It is well-known that the m-th order cardinal B-spline wavelet, \psi_{m}, decays exponentially. Our aim in this paper is to determine the exact rate of this decay and thereby to describe the asymptotic behaviour of \psi_{m}.

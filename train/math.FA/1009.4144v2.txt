@@ -1,0 +1,1 @@
+This article treats Nevanlinna-Pick interpolation in the setting of a special class of algebraic curves called distinguished varieties. An interpolation theorem, along with additional operator theoretic results, is given using a family of reproducing kernels naturally associated to the variety. The examples of the Neil parabola and doubly connected domains are discussed.

@@ -1,0 +1,1 @@
+In this note we discuss three notions of dimension for triangulated categories: Rouquier dimension, diagonal dimension and Serre dimension. We prove some basic properties of these dimensions, compare them and discuss open problems.

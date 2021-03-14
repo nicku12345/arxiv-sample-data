@@ -1,0 +1,1 @@
+We give a contractive Schur multiplier characterization of locally compact groups coarsely embeddable into Hilbert spaces. Consequently, all locally compact groups whose weak Haagerup constant is 1 embed coarsely into Hilbert spaces, and hence the Baum-Connes assembly map with coefficients is split-injective for such groups.

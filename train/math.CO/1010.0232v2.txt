@@ -1,0 +1,1 @@
+We find explicit eigenvectors for the transition matrix of a random walk due to Bidegare, Hanlon and Rockmore. This is accomplished by using Brown and Diaconis' analysis of its stationary distribution, together with some combinatorics of functions on the face lattice of a hyperplane arrangement, due to Gelfand and Varchenko.

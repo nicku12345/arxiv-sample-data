@@ -1,0 +1,1 @@
+We prove that for a normal projective variety X in characteristic 0, and a base-point free ample line bundle L on it, the restriction map of divisor class groups \Cl(X)\to \Cl(Y) is an isomorphism for a general member Y\in |L| provided that \dim{X}\geq 4. This is a generalization of the Grothendieck-Lefschetz Theorem, for divisor class groups of singular varieties.

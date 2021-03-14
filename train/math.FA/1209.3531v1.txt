@@ -1,0 +1,1 @@
+In this paper we seek to determine the Jacobson radical of certain algebras based on semigroups, and in particular on the semigroups (\beta S, \Box), where S is a cancellative, countable, abelian semigroup and \beta S is its Stone--\v{C}ech semigroup compactification. In particular, we wish to determine the radical of \ell^{ 1}(\beta \N).

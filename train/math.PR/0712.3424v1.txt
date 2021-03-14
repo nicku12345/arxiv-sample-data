@@ -1,0 +1,1 @@
+Two modifications of the Petersburg game are considered: 1. Truncation, so that the player has a finite capital at his disposal. 2. A cost of borrowing capital, so that the player has to pay interest on the capital needed. In both cases limit theorems for the total net gain are derived, so that it is easy to judge if the game is favourable or not.

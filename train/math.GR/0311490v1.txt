@@ -1,0 +1,1 @@
+We construct an example of an IA-automorphism of the free metabelian group of rank n\geq 3 without nontrivial fixed points. That gives a negative answer to the question raised by Shpilrain. By a result of Bachmuth \cite{Ba1}, such an automorphism does not exist if the rank is equal to 2.

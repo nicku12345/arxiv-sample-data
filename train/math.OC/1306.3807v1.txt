@@ -1,0 +1,1 @@
+In this paper we study time semi-discrete approximations of a class of polynomially stable infinite dimensional systems modeling the damped vibrations. We prove that adding a suitable numerical viscosity term in the numerical scheme, one obtains approximations that are uniformly polynomially stable with respect to the discretization parameter.

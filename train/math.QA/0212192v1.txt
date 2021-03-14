@@ -1,0 +1,1 @@
+We provide an analog of the Drinfeld quantum double construction in the context of crossed Hopf group coalgebras introduced by Turaev. We prove that, provided the base group is finite, the double of a semisimple crossed Hopf group coalgebra is both modular and unimodular.

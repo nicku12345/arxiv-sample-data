@@ -1,0 +1,1 @@
+A singularly perturbed problem involving two singular perturbation parameters is discretized using the classical upwinded finite difference scheme on an appropriate piecewise-uniform Shishkin mesh. Scaled discrete derivatives (with scaling only used within the layers) are shown to be parameter uniformly convergent to the scaled first derivatives of the continuous solution.

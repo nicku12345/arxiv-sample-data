@@ -1,0 +1,1 @@
+Generalizing Milnor's result that an FTC (finite total curvature) knot has an isotopic inscribed polygon, we show that any two nearby knotted FTC graphs are isotopic by a small isotopy. We also show how to obtain sharper constants when the starting curve is smooth. We apply our main theorem to prove a limiting result for essential subarcs of a knot.

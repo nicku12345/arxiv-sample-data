@@ -1,0 +1,1 @@
+In this article, we discuss the rationality of the Betti Series of the universal module of nth order derivations of R_{m} where m is a maximal ideal of R. We proved that if R is a coordinate ring of an affine irreducible curve and if it has at most one singularity point, then the Betti series is rational.

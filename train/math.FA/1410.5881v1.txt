@@ -1,0 +1,1 @@
+We show that the Fremlin tensor product C(X)\bar{\otimes}C(Y) is not square mean complete when X and Y are uncountable metrizable compact spaces. This motivates the definition of complexification of Archimedean vector lattices, the Fremlin tensor product of Archimedean complex vector lattices, and a theory of powers of Archimedean complex vector lattices.

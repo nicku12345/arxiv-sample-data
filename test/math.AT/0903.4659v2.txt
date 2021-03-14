@@ -1,0 +1,1 @@
+The primary object of this paper is to prove the conjecture of the authors from a previous paper, explaining how to recover the weak dimension of a ring from its derived category. In the process, we develop a theory of weak dimension, which we call ghost dimension, for the generalized rings, known as ring spectra, that arise in algebraic topology.

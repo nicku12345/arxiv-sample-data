@@ -1,0 +1,1 @@
+We define an imbedding of the Hecke algebra module carried by the involutions in a Weyl group W (defined by the author and Vogan) into a completion of the Hecke algebra. An analogous result is proved for any Coxeter group. A variant of the construction gives an imbedding of the biregular representation of a Hecke algebra of W in a completion of the Hecke algebra of W^2.

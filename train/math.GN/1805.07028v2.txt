@@ -1,0 +1,1 @@
+Let L(X) be the free locally convex space over a Tychonoff space X. If X is Dieudonn\'{e} complete (for example, metrizable), then L(X) is a reflexive group if and only if X is discrete. Answering a question posed in [9] we prove also that L(X) is an Ascoli space if and only if X is a countable discrete space.

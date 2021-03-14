@@ -1,0 +1,1 @@
+We present sharp inequalities relating the number of vertices, edges, and triangles of a graph to the smallest eigenvalue of its adjacency matrix and the largest eigenvalue of its Laplacian.

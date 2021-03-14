@@ -1,0 +1,1 @@
+In this paper we show how to realize all knot (and link) types as C^{2} smooth curves of constant curvature. Our proof is constructive: we build the knots with copies of a fixed finite number of "building blocks" that are particular segments of helices and circles. We use these building blocks to construct all closed braids.

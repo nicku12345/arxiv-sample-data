@@ -1,0 +1,1 @@
+We show that if (M,E,E') satisfies the first order Zermelo-Fraenkel axioms of set theory when the membership relation is E and also when the membership relation is E', and in both cases the formulas are allowed to contain both E and E', then (M,E) and (M,E') are isomorphic, and the isomorphism is definable in (M,E,E'). This extends Zermelo's 1930 theorem about second order ZFC.

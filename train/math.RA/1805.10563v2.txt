@@ -1,0 +1,1 @@
+Let A be an Auslander algebra of global dimension equal to 2. We provide a necessary and sufficient condition for A to be a tilted algebra. In particular, A is tilted if and only if pd(\tau_{A}\Omega_{A}DA)\leq1.

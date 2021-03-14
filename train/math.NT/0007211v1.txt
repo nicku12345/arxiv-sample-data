@@ -1,0 +1,1 @@
+By two well-known results, one of Ax, one of Lubotzky and van den Dries, a profinite group is projective iff it is isomorphic to the absolute Galois group of a pseudo-algebraically closed field. This paper gives an analogous characterization of relatively projective profinite groups as absolute Galois groups of regularly closed fields.

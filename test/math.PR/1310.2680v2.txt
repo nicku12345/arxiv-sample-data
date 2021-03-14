@@ -1,0 +1,1 @@
+Let X be a continuous time random walk on a weighted graph. Given the on-diagonal upper bounds of transition probabilities at two vertices x_1 and x_2, we use an adapted metric initiated by Davies, and obtain Gaussian upper estimates for the off-diagonal transition probability P_{x_1}(X_t=x_2).

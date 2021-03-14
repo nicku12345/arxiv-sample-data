@@ -1,0 +1,1 @@
+The main result of the paper is the following: Every z-linear maps is a functional p-convex. We will prove this statement using lemma developed by Kalton and Peck [6] and theorem developed by Aoki and Rolewicz.Based on the definition of functional and using the tool of the triangle inequality prove the following theorem.

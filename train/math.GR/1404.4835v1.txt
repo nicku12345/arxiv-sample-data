@@ -1,0 +1,1 @@
+Let G be a finite group. Let k(G) denote the number of conjugacy classes of G and let m(G) denote the least positive integer n such that the union of any n distinct non-trivial conjugacy classes of G together with the identity of G is a subgroup of G. We prove that m(G)=k(G)-1 for all m(G)\ge 2.

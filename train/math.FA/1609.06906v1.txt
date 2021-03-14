@@ -1,0 +1,1 @@
+We give a positive answer to the question of K. Bouras [`Almost Dunford-Pettis sets in Banach lattices', \textit{Rend. Circ. Mat. Palermo (2)} \textbf{ 62} (2013), 227--236] concerning weak compactness of almost Dunford-Pettis sets in Banach lattices. That is, every almost Dunford-Pettis set in a Banach lattice E is relatively weakly compact if, and only if, E is a KB-space.

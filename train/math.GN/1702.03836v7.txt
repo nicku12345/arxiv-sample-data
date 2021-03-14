@@ -1,0 +1,1 @@
+We study several properties of the completed group ring \widehat{\mathbb{Z}}[[t^{\widehat{\mathbb{Z}}}]] and the completed Alexander modules of knots. Then we prove that if the profinite completions of the groups of two knots J and K are isomorphic, then their Alexander polynomials \Delta_J(t) and \Delta_K(t) coincide.

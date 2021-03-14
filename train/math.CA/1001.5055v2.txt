@@ -1,0 +1,1 @@
+We complement a recent result of S. Furuichi, by showing that the differences \sum_{i=1}^n \alpha_i x_i - \prod_{i=1}^n x_i^{\alpha_i} associated to distinct sequences of weights are comparable, with constants that depend on the smallest and largest quotients of the weights.

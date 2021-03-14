@@ -1,0 +1,1 @@
+All principal orbits of the standard Hamiltonian T^n-action on the complex projective space {\mathbb C}P^n are Lagrangian tori.In this article, we prove that most of them are not volume minimizing under Hamiltonian isotopies of {\mathbb C}P^n if the complex dimension n is greater than two, although they are Hamiltonian minimal and Hamiltonian stable.

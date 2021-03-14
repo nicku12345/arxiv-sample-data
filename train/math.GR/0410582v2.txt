@@ -1,0 +1,1 @@
+Let G be a group of odd order and \chi be a complex irreducible character. Then there exists a unique character \chi^{(2)}\in\Irr(G) such that [\chi^2,\chi^{(2)}] is odd. Also, there exists a unique character \psi\in \Irr(G) such that [\psi^2, \chi] is odd.

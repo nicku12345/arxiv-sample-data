@@ -1,0 +1,1 @@
+Denote by Q(k) a \sigma-discrete metric weight-homogeneous space of weight k. We give an internal description of the space Q(k)^\omega. We prove that the Baire space B(k) is densely homogeneous with respect to Q(k)^\omega if k > \omega. Properties of some non-separable h-homogeneous absolute F_{\sigma \delta}-sets and G_{\delta \sigma}-sets are investigated.

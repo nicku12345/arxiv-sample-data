@@ -1,0 +1,1 @@
+When a map is classically uniquely ergodic, it is expected that its quantization will posses quantum unique ergodicity. In this paper we give examples of Quantum Unique Ergodicity for the perturbed Kronecker map, and an upper bound for the rate of convergence.

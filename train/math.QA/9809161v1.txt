@@ -1,0 +1,1 @@
+The purpose of this note is to define and construct highest weight modules for Felder's elliptic quantum groups. This is done by using exchange matrices for intertwining operators between (not necessarily finite-dimensional) modules over quantum affine algebras.

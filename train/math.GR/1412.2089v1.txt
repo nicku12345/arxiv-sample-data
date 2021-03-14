@@ -1,0 +1,1 @@
+Symmetric cohomology of groups, defined by M. Staic in [2], is similar to the way one defines the cyclic cohomology for algebras. We show that there is a well-defined restriction, conjugation and transfer map in symmetric cohomology, which form a Mackey functor under a restriction. Some new properties for the symmetric cohomology group using normalized cochains are also given.

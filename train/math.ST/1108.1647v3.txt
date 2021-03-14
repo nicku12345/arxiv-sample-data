@@ -1,0 +1,1 @@
+Given any finite set F of (n - 1)-dimensional subspaces of R^n we give examples of nongaussian probability measures in R^n whose marginal distribution in each subspace from F is gaussian. However, if F is an infinite family of such (n - 1)-dimensional subspaces then such a nongaussian probability measure in R^n does not exist.

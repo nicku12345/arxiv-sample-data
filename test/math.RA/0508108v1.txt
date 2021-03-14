@@ -1,0 +1,1 @@
+We determine the groups which can appear as the normalizer of a maximal torus in a connected 2-compact group. The technique depends on using ideas of Tits to give a novel description of the normalizer of the torus in a connected compact Lie group, and then showing that this description can be extended to the 2-compact case.

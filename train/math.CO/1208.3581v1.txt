@@ -1,0 +1,1 @@
+The n-th Fiedler value of a class of graphs \mathcal C is the maximum second eigenvalue \lambda_2(G) of a graph G\in\mathcal C with n vertices. In this note we relate this value to shallow minors and, as a corollary, we determine the right order of the n-th Fiedler value for some minor closed classes of graphs, including the class of planar graphs.

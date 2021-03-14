@@ -1,0 +1,1 @@
+We prove that if a non-selfadjoint dual operator algebra admitting a normal virtual diagonal and an injective von Neumann algebra are close enough for the Kadison-Kastler's metric, then they are similar. The bound explicitly depends on the norm of the normal virtual diagonal. This is inspired from E. Christensen's work on perturbation of operator algebras.

@@ -1,0 +1,1 @@
+In order to have a better description of homogenization for parabolic partial differential equations with periodic coefficients, we define the notion of parametric two-scale convergence. A compactness theorem is proved to justify this notion.

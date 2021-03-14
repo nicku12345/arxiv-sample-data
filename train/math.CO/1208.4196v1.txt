@@ -1,0 +1,1 @@
+We give a combinatorial interpretation using lattice paths for the super Catalan number S(m, m+s) for s \leq 3 and a separate interpretation for s = 4.

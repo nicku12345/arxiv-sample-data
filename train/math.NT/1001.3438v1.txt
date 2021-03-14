@@ -1,0 +1,1 @@
+For any irreducible quadratic polynomial f(x) in Z[x] we obtain the estimate log l.c.m.(f(1),...,f(n))= n log n + Bn + o(n) where B is a constant depending on f.

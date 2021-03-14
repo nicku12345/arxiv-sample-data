@@ -1,0 +1,1 @@
+A quantitative form of the Nullity Theorem is presented, which establishes a linear relation between the singular values of the two submatrices involved in the theorem up to the first order. The theorem is then extended to function spaces and a corresponding form in infinite dimension is discussed.

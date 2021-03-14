@@ -1,0 +1,1 @@
+The zeta-function of a complex variety is a power series whose nth coefficient is the nth symmetric power of the variety, viewed as an element in the Grothendieck ring of complex varieties. We prove that the zeta-function of a surface is rational if and only if its Kodaira dimension is negative.

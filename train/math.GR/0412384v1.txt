@@ -1,0 +1,1 @@
+Let G be a finite group of odd order, \F a finite field of odd characteristic p and \B a finite--dimensional symplectic \F G-module. We show that \B is \F G-hyperbolic, i.e., it contains a self--perpendicular \F G-submodule, iff it is \F N-hyperbolic for every cyclic subgroup N of G.

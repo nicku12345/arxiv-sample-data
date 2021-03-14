@@ -1,0 +1,1 @@
+We find the nonabelian finite simple groups with order prime divisors not exceeding 1000. More generally, we determine the sets of nonabelian finite simple groups whose maximal order prime divisor is a fixed prime less than 1000. Our results are based on calculations in the computer algebra system GAP.

@@ -1,0 +1,1 @@
+A contact singularity is a normal singularity (V,0) together with a holomorphic contact form \eta on V\backslash Sing V in a neighbourhood of 0, i.e. \eta\wedge (d\eta)^r has no zero, where dim V=2r+1. The main result of this paper is that there are no isolated contact singularities.

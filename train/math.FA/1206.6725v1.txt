@@ -1,0 +1,1 @@
+We present two ways to compute the norm of a Foguel operator. One of these is algebraic and the other makes use of the Schur complement. This gives a two simpler proof of a result of Garcia. We also provide an extension of these results.

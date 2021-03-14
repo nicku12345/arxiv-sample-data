@@ -1,0 +1,1 @@
+We study several integrals that contain the infinite product {\displaystyle\prod_{n=0}^\infty}\left[1+\left(\frac{x}{b+n}\right)^3\right] in the denominator of their integrand. These considerations lead to closed form evaluation \displaystyle\int_{-\infty}^\infty\frac{dx}{\left(e^x+e^{-x}+e^{ix\sqrt{3}}\right)^2}=\frac{1}{3} and to some other formulas.

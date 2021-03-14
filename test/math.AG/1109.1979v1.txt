@@ -1,0 +1,1 @@
+We study Fano manifolds X admitting an unsplit dominating family of rational curves and we prove that the Generalized Mukai Conjecture holds if X has pseudoindex i_X = (\dim X)/3 or dimension \dim X=6. We also show that this conjecture is true for all Fano manifolds with i_X > (\dim X)/3.

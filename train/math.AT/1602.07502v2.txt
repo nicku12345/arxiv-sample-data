@@ -1,0 +1,1 @@
+We propose a \lambda-calculus-style formal language, called the \mu-syntax, as a lightweight representation of the structure of cyclic operads. We illustrate the rewriting methods behind the formalism by giving a complete step-by-step proof of the equivalence between the unbiased and biased definitions of cyclic operads.

@@ -1,0 +1,1 @@
+We consider an optimal transportation problem with more than two marginals. We use a family of semi-Riemannian metrics derived from the mixed, second order partial derivatives of the cost function to provide upper bounds for the dimension of the support of the solution.

@@ -1,0 +1,1 @@
+We obtain a lower bound for the period of periodic solutions of semilinear evolution equations for the full range of nonlinear terms for which standard local existence theory applies. This lower bound depends on the Lipschitz constant of the nonlinear term as an operator acting on the domain of a fractional power of the linear operator into the base space.

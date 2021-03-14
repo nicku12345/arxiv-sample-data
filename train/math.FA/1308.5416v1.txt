@@ -1,0 +1,1 @@
+For each ordinal \alpha< \omega_1, we prove the existence of a separable, reflexive Banach space with a basis and Szlenk index \omega^{\alpha+1} which is universal for the class of separable, reflexive Banach spaces X such that the Szlenk indices Sz(X), Sz(X^*) do not exceed \omega^\alpha.

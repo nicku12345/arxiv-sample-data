@@ -1,0 +1,1 @@
+A note on the property of weak contraction, which implies that all bounded solutions of a nonlinear system converge to a (possibly non-unique) equilibrium. We provide some simple results about interconnections of such systems, and a brief discussion.

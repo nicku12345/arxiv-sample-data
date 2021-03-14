@@ -1,0 +1,1 @@
+In this paper, we construct a homomorphism from the affine super Yangian Y_{\ve_1,\ve_2}(\widehat{\mathfrak{sl}}(m|n)) to the universal enveloping algebra of the rectangular W-superalgebra W^{k}(\mathfrak{gl}(ml|nl),(l^{(m|n)})). We also show that the image of this homomorphism is dense provided that k+(m-n)(l-1)\neq0.

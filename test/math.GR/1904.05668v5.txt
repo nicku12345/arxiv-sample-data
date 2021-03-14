@@ -1,0 +1,1 @@
+The aim of the article is to provide a characterization of the Haagerup property for locally compact, second countable groups in terms of actions on \sigma-finite measure spaces. It is inspired by the very first definition of amenability, namely the existence of an invariant mean on the algebra of essentially bounded, measurable functions on the group.

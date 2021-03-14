@@ -1,0 +1,1 @@
+Let M be a manifold carrying the action of a Lie group G, and A a Lie algebroid on M equipped with a compatible infinitesimal G-action. Out of these data we construct an equivariant Lie algebroid cohomology and prove for compact G a related localization formula. As an application we prove a Bott-type formula.

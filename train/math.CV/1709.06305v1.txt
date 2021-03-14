@@ -1,0 +1,1 @@
+We establish that every K-quasiconformal mapping w of the unit ball \IB onto a C^2-Jordan domain \Omega is H\"older continuous with constant \alpha= 2-\frac{n}{p}, provided that its weak Laplacean \Delta w is in  L^p(\IB) for some n/2<p<n. In particular it is H\"older continuous for every 0<\alpha<1 provided that \Delta w\in L^n(\IB).

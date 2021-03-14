@@ -1,0 +1,1 @@
+We present a formula for the trace of any symmetric power of a n\times n matrix (with coefficients in a field) in terms of the ordinary powers of the matrix, an arbitrarily chosen linear function which vanishes on the identity matrix, and n-2 polynomial functions defined recursively.

@@ -1,0 +1,1 @@
+We prove that for any automorphism \alpha of a free group F of finite rank, one can efficiently compute a basis of the fixed point subgroup Fix(\alpha).

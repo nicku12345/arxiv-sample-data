@@ -1,0 +1,1 @@
+We prove a structure theorem for the differential operator in the 0-term of the {\cal V}-filtration with respect to a free divisor. Using this theorem, we give a formula for the logarithmic de Rham complex in terms of {\cal V}_0-modules. We also give a sufficient condition for perversity of the logarithmic de Rham complex.

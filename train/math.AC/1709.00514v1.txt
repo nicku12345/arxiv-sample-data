@@ -1,0 +1,1 @@
+This introduces Rees algebras and some of their uses with illustrations via version 2.0 of the Macaulay2 package ReesAlgebra.m2.

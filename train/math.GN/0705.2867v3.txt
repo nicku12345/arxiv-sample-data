@@ -1,0 +1,1 @@
+Assume that X is a metrizable separable space, and each clopen-valued lower semicontinuous multivalued map Phi from X to Q has a continuous selection. Our main result is that in this case, X is a sigma-space. We also derive a partial converse implication, and present a reformulation of the Scheepers Conjecture in the language of continuous selections.

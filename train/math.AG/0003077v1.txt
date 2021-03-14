@@ -1,0 +1,1 @@
+Hyperquot schemes are generalizations of Grothendieck's Quot scheme to partial flags. Using a Bialynicki-Birula decomposition, we obtain combinatorial data for the Betti numbers, and collect this information into the form of rational generating functions for the Poincare polynomials.

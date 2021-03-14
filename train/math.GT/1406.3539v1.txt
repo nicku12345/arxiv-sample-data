@@ -1,0 +1,1 @@
+For each diagram D of a 2-knot, we provide a way to construct a new diagram D' of the same knot such that any sequence of Roseman moves between D and D' necessarily involves branch points. The proof is done by developing the observation that no sphere eversion can be lifted to an isotopy in 4-space.

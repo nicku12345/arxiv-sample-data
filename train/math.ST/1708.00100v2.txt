@@ -1,0 +1,1 @@
+In this article, we construct a two-block Gibbs sampler using Polson et al. (2013) data augmentation technique with Polya-Gamma latent variables for Bayesian logistic linear mixed models under proper priors. Furthermore, we prove the uniform ergodicity of this Gibbs sampler, which guarantees the existence of the central limit theorems for MCMC based estimators.

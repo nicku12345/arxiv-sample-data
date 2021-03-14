@@ -1,0 +1,1 @@
+Extensions to higher-dimensions are given for a convolution estimate used by Klainerman and Machedon in their study of uniqueness of solutions for the Gross-Pitaevskii hierarchy. Such estimates determine more general forms of Stein-Weiss integrals involving restriction to smooth submanifolds.

@@ -1,0 +1,1 @@
+In this paper, we derive an asymptotic approximation to the eigenvalues of the linear differential equation  -y"(x)+q(x)y(x)=\lambda y(x), x\in (a,b)  with boundary conditions of general form, when q is a measurable function which has a singularity in (a,b) and which is integrable on subsets of (a,b) which exclude the singularity.

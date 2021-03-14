@@ -1,0 +1,1 @@
+We obtain operator concavity (convexity) of some functions of two or three variables by using perspectives of regular operator mappings of one or several variables. As an application, we obtain, for  0<p < 1, concavity, respectively convexity, of the Frech\'{e}t differential mapping associated with the functions t \to t^{1+p}  and t \to t^{1-p}.

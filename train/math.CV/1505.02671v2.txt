@@ -1,0 +1,1 @@
+In this paper we present a geometric proof of the following fact. Let D be a Jordan domain in \mathbb{C}, and let f be analytic on cl(D). Then there is an injective analytic map \phi:D\to\mathbb{C}, and a polynomial p, such that f\equiv p\circ\phi on D (that is, f has a polynomial conformal model p).

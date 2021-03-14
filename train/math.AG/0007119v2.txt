@@ -1,0 +1,1 @@
+Given a family of complex affine planes, we show that it is trivial over a Zariski open subset of the base. The proof relies upon a relative version of the contraction theorem.

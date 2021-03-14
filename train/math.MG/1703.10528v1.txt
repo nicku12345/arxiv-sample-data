@@ -1,0 +1,1 @@
+We prove tight subspace concentration inequalities for the dual curvature measures \widetilde{\mathrm{C}}_q(K,\cdot) of an n-dimensional origin-symmetric convex body for q\geq n+1. This supplements former results obtained in the range q\leq n.

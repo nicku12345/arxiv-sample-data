@@ -1,0 +1,1 @@
+In a 1985 paper, Berthold J. Maier gave necessary and sufficient conditions for the weak embeddability of amalgams of two nilpotent groups of class two over a common subgroup. Then he derived simpler conditions for some special cases. One of his subsequent results is incorrect, and we provide a counterexample. Finally, we provide a fix for the result.

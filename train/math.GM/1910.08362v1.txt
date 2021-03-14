@@ -1,0 +1,1 @@
+With the formula of Gandhi you can determine the on p_n immedately subsequent prime p_{n+1} from the knowledge of the primes p_1, p_2, ... , p_n. An elementary proof of its trueness will be detailed shown in this paper. Finally the question for the order of the primes on the number line will be discussed.

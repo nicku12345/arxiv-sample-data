@@ -1,0 +1,1 @@
+We demonstrate a passage from the "quasi-Plucker coordinates" of Gelfand and Retakh, to the quantum Plucker coordinates built from q-generic matrices. In the process, we rediscover the defining relations of the quantum Grassmannian of Taft and Towber and provide that algebra with more concrete geometric origins.

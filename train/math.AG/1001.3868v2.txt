@@ -1,0 +1,1 @@
+Let C be an integral projective curve with planar singularities. Consider its Jacobian J and the compactified Jacobian J'. We construct a flat family P of Cohen-Macaulay sheaves on J' parametrized by J'; over J, the family P is the Poincare line bundle. We prove that the Fourier-Mukai transform given by P is an auto-equivalence of the derived category of J'.

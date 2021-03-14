@@ -1,0 +1,1 @@
+It is proved that a commutative ring is clean if and only if it is Gelfand with a totally disconnected maximal spectrum. Commutative rings for which each indecomposable module has a local endomorphism ring are studied. These rings are clean and elementary divisor rings.

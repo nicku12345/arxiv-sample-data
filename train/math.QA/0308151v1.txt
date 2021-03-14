@@ -1,0 +1,1 @@
+We disprove the conjecture of M. Khovanov (math.QA/9908171) on the functoriality of his link homology with polynomial coefficients. This is in contrast to the case of integer coefficients, where functoriality was proved in math.GT/0206303 .

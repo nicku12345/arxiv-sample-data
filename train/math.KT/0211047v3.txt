@@ -1,0 +1,1 @@
+We prove in this paper a noncommutative version of Leray Spectral Sequence Theorem and then Leray-Serre Spectral Theorem for noncommutative Serre fibrations: for NC Serre fibration there are converging spectral sequences with \E^2 terms as \E^2_{p,q} = \HP_p(A; \HP_q(B,A)) \Longrightarrow \HP_{p+q}(B) and \E^2_{p,q} = \HP_p(A;\K_q(B,A)) \Longrightarrow \K_{p+q}(B).

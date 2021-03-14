@@ -1,0 +1,1 @@
+Bosonic formulas for generating series of partitions with certain restrictions are obtained by solving a set of linear matrix q-difference equations. Some particular cases are related to combinatorial problems arising from solvable lattice models, representation theory and conformal field theory.

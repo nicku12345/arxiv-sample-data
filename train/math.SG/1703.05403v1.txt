@@ -1,0 +1,1 @@
+We construct a symplectic structure on a disc that admits a compactly supported symplectomorphism which is not smoothly isotopic to the identity. The symplectic structure has an overtwisted concave end; the construction of the symplectomorphism is based on a unitary version of the Milnor-Munkres pairing. En route, we introduce a symplectic analogue of the Gromoll filtration.

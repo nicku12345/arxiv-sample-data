@@ -1,0 +1,1 @@
+Given an inner function B we classify the invariant subspaces of the algebra H^\infty_B:=\mathbb{C}+BH^\infty. We derive a formula in terms of these invariant subspaces for the distance of an element in L^\infty to a certain weak*-closed ideal in H^\infty_B and use this to prove an analogue of the Nevanlinna-Pick interpolation theorem.

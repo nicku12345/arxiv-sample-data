@@ -1,0 +1,1 @@
+For nonlinear affine in the control systems, a Lie algebraic sufficient condition for sampled-data feedback semi-global stabilization is established. We use this result, in order to derive sufficient conditions for sampled-data feedback stabilization for a couple of three-dimensional systems.

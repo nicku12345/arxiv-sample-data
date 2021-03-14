@@ -1,0 +1,1 @@
+In this note, we investigate how different fundamental groups of presentations of a fixed algebra A can be. For finitely many finitely presented groups G_i, we construct an algebra A such that all G_i appear as fundamental groups of presentations of A.

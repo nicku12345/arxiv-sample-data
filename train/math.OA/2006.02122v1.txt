@@ -1,0 +1,1 @@
+We introduce the Property of Rapid Decay for discrete quantum groups by equivalent characterizations that generalize the classical ones. We then investigate examples, proving in particular the Property of Rapid Decay for unimodular free quantum groups. We finally check that the applications to the K-theory of the reduced group C*-algebras carry over to the quantum case.

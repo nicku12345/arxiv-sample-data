@@ -1,0 +1,1 @@
+In this work, it is introduced a new function based on the non-trivial zeros of the Riemann-zeta function. Such function shows an interesting behavior: when the argument of the function grows, it changes from a pseudo-random behavior to a harmonic behavior with decreasing frequency.

@@ -1,0 +1,1 @@
+The Vlasov-Maxwell-Boltzmann system is a fundamental model to describe the dynamics of dilute charged particles, where particles interact via collisions and through their self-consistent electromagnetic field. We prove the existence of global in time classical solutions to the Cauchy problem near Maxwellians.

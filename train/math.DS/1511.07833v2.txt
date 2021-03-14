@@ -1,0 +1,1 @@
+We study the existence of almost periodic solutions for semi-linear abstract parabolic evolution equations with impulse action at state-dependent moments. In particular, we present conditions excluding the beating phenomenon in these systems. The main result is illustrated with an example of impulsive diffusive logistic equation.

@@ -1,0 +1,1 @@
+We express the classical p-adic integers \hat{\mathbb{Z}_p}, as a metric space, as a final colagebra to a certain endofunctor. We realize the addition and the multiplication on \hat{\mathbb{Z}_p} as the coalgebra maps from \hat{\mathbb{Z}_p} \times \hat{\mathbb{Z}_p}.

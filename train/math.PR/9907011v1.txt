@@ -1,0 +1,1 @@
+A relation between sigma-additivity and linearizability, conjectured by Jacob Feldman in 1971 for continuous products of probability spaces, is established by relating both notions to a recent idea of noise stability/sensitivity.

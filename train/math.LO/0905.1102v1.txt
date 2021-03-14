@@ -1,0 +1,1 @@
+In this paper, we introduce the \lambda\mu^{\wedge \vee}- call-by-value calculus and we give a proof of the Church-Rosser property of this system. This proof is an adaptation of that of Andou which uses an extended parallel reduction method and complete development.

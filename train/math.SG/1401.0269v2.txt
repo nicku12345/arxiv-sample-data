@@ -1,0 +1,1 @@
+A symplectic manifold gives rise to a triangulated A-infinity category, the derived Fukaya category, which encodes information on Lagrangian submanifolds and dynamics as probed by Floer cohomology. This survey aims to give some insight into what the Fukaya category is, where it comes from and what symplectic topologists want to do with it.

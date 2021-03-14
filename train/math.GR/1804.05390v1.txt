@@ -1,0 +1,1 @@
+Let \lambda(G) be the maximum number of subgroups in an irredundant covering of the finite group G. We prove that if G is a group with \lambda(G) \leqslant 6, then G is supersolvable. We also describe the structure of the groups G with \lambda(G)=6. Moreover, we show that if G is a group with \lambda(G) \leqslant 30, then G is solvable.

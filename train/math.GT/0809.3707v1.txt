@@ -1,0 +1,1 @@
+It is well-known that any pair of closed orientable 3-manifolds are related by a finite sequence of Dehn surgeries on knots. Furthermore Kawauchi showed that such knots can be taken to be hyperbolic. In this article, we consider the minimal length of such sequences connecting a pair of 3-manifolds, in particular, a pair of lens spaces.

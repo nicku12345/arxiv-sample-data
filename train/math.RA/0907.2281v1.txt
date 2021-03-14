@@ -1,0 +1,1 @@
+Many authors have investigated the behavior of strong cleanness under certain ring extensions. In this note, we prove that if R is a ring which is complete with respect to an ideal I and if x is an element of R whose image in R/I is strongly \pi-regular, then x is strongly clean in R.

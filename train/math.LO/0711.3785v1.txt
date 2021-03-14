@@ -1,0 +1,1 @@
+We construct long sequences of braids that are descending with respect to the standard order of braids (``Dehornoy order''), and we deduce that, contrary to all usual algebraic properties of braids, certain simple combinatorial statements involving the braid order are true, but not provable in the subsystems ISigma1 or ISigma2 of the standard Peano system.

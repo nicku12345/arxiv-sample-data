@@ -1,0 +1,1 @@
+We show that there are at most O_{n,\epsilon}(H^{n-2+\sqrt{2}+\epsilon}) monic integer polynomials of degree n having height at most H and Galois group different from the full symmetric group S_n, improving on the previous 1973 world record O_{n}(H^{n-1/2}\log H).

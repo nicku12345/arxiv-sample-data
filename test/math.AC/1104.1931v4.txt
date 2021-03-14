@@ -1,0 +1,1 @@
+Hall's binomial rings, rings with binomial coefficients, are given an axiomatisation and proved identical to the numerical rings studied by Ekedahl. The Binomial Transfer Principle is established, enabling combinatorial proofs of algebraical identities. The finitely generated binomial rings are completely classified. An application to modules over binomial rings is given.

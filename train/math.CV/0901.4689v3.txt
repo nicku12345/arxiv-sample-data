@@ -1,0 +1,1 @@
+We extend Painlev\'e's determinateness theorem to the case of first order ordinary differential equations in the complex domain with known terms allowed be multivalued in the dependent variable as well; multivaluedness is supposed to be resolved by proper coverings.

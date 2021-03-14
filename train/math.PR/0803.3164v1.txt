@@ -1,0 +1,1 @@
+We consider symmetric processes of pure jump type. We prove local estimates on the probability of exiting balls, the H\"older continuity of harmonic functions and of heat kernels, and convergence of a sequence of such processes.

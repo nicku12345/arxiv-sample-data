@@ -1,0 +1,1 @@
+We show that a if a Riemannian manifold admits a universal cover with bounded geometry and if 0 does not belong to the spectrum or is an isolated point in the spectrum of the Laplacian on \ell-forms, then there exists 1<p<2 such that for all p<r<p^{\prime} the Hodge - de Rham decomposition for L^{r}-forms holds (p^{\prime} denotes the conjugate of p).

@@ -1,0 +1,1 @@
+J. E. Fornaess has posed the question whether the boundary point of smoothly bounded pseudoconvex domain is strictly pseudoconvex, if the asymptotic limit of the squeezing function is 1. The purpose of this paper is to give an affirmative answer when the domain is in C^2 with smooth boundary of finite type in the sense of D'Angelo.

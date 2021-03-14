@@ -1,0 +1,1 @@
+In \cite{colin}, Y. Colin de Verdi\`ere proved that the remainder term in the two-term Weyl formula for the eigenvalue counting function for the Dirichlet Laplacian associated with the planar disk is of order O(\lambda^{2/3}). In this paper, by combining with the method of exponential sum estimation, we will give a sharper remainder term estimate O(\lambda^{2/3-1/495}).

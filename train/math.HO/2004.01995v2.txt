@@ -1,0 +1,1 @@
+We present a short proof of Cantor's Theorem (circa 1870s): if a_n \cos nx + b_n \sin nx \to 0 for each x in some (nonempty) open interval, where a_n, b_n are sequences of complex numbers, then a_n and b_n converge to 0.

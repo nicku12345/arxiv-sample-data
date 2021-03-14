@@ -1,0 +1,1 @@
+Consider two paths \phi,\psi:[0;1]\to [0;1]^2 in the unit square such that \phi(0)=(0,0), \phi(1)=(1,1), \psi(0)=(0,1) and \psi(1)=(1,0). By continuity of \phi and \psi there is a point of intersection. We prove that from \phi and \psi we can compute closed intervals S_\phi,S_\psi \subseteq [0;1] such that \phi(S_\phi)=\psi(S_\psi).

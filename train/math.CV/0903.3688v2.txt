@@ -1,0 +1,1 @@
+Define a subset of the complex plane to be a Rolle's domain if it contains (at least) one critical point of every complex polynomial P such that P(-1)=P(1). Define a Rolle's domain to be minimal if no proper subset is a Rolle's domain. In this paper, we investigate minimal Rolle's domains.

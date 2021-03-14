@@ -1,0 +1,1 @@
+We use order zero maps to express the Jiang-Su algebra Z as a universal C*-algebra on countably many generators and relations, and we show that a natural deformation of these relations yields the stably projectionless algebra W studied by Kishimoto, Kumjian and others. Our presentation is entirely explicit and involves only *-polynomial and order relations.

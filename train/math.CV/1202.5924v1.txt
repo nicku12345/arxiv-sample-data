@@ -1,0 +1,1 @@
+Given a convergent sequence of nodes we present a one-dimensional-holomorphic-function version of the Newton interpolation method of polynomials. It also generalises the Taylor and the Laurent formula. In other words, we present an effective identity theorem for complex domains.

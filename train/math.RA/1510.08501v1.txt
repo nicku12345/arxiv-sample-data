@@ -1,0 +1,1 @@
+This paper generalizes the Drinfel'd twist to the multiplier Hopf algebra case. For a multiplier Hopf algebra A with a twist J, we construct a new multiplier Hopf algebra A^{J}. Furthermore, if A is quasitriangular, then A^{J} is also. Finally, for a counimodular algebraic quantum group A, A^{J} is an algebraic quantum group.

@@ -1,0 +1,1 @@
+We derive the Wick theorem for the q-Exponential distribution. We use the theorem to derive an algorithm for finding parameters of the correlation matrix of q-Exponentialy distributed random variables given empirical spectral moments of the time series.

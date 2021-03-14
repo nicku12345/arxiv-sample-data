@@ -1,0 +1,1 @@
+An explicit formula is derived for the Fourier transform of a Gaussian measure on the Heisenberg group at the Schrodinger representation. Using this explicit formula, necessary and sufficient conditions are given for the convolution of two Gaussian measures to be a Gaussian measure.

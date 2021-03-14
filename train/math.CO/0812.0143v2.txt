@@ -1,0 +1,1 @@
+We characterise and enumerate permutations that are sortable by n-4 passes through a stack. We conjecture the number of permutations sortable by n-5 passes, and also the form of a formula for the general case n-k, which involves a polynomial expression.

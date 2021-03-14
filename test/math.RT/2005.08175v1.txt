@@ -1,0 +1,1 @@
+In this paper we classify the irreducible integrable modules for the loop affine-Virasoro algebra (( \overset{\circ}{\mathfrak{g}} \otimes \mathbb{C}[t, t^{-1}] \oplus \mathbb{C} K) \rtimes \text{Vir}) \otimes A, where A is a finitely generated commutative associative algebra with unity.

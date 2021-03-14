@@ -1,0 +1,1 @@
+Cyclic codes have attracted a lot of research interest for decades as they have efficient encoding and decoding algorithms.   In this paper, for an odd prime p, the weight distributions of two classes of p-ary cyclic codes are completely determined. We show that both codes have at most five nonzero weights.

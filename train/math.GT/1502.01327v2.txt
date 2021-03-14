@@ -1,0 +1,1 @@
+The unknotting number of a positive braid with n strands and k intersections is known to be equal to (k-n+1)/2. We consider Lorenz knots (which are positive braids) and, using a different method, find their unknotting numbers in terms of their positions on the Lorenz attractor.

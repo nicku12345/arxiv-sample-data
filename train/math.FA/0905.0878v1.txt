@@ -1,0 +1,1 @@
+Spectral representations of the dilation and translation operators on L^2({\mathbb R}) are built through appropriate bases. Orthonormal wavelets and multiresolution analysis are then described in terms of rigid operator-valued functions defined on the functional spectral spaces. The approach is useful for computational purposes.

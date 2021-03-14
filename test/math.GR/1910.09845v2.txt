@@ -1,0 +1,1 @@
+Using the computer algebra program GAP, we show that all crystallographic groups in dimensions at most 4 are distinguished from each other by their sets of finite quotients.

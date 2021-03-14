@@ -1,0 +1,1 @@
+We present theoretical results and experiments with parallel algorithms for computing an adaptive, online control with the objective of attenuating a power grid cascading failure.

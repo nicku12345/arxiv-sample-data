@@ -1,0 +1,1 @@
+Let \phi be a conformal map of the unit disk onto a domain D, and suppose \phi has a boundary extension. We show that arbitrarily good approximations of the boundary extension of \phi can be computed from sufficiently good approximations of \phi and sufficient local connectivity information for the boundary of D.

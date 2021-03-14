@@ -1,0 +1,1 @@
+Let R be a commutative ring with identity and let I be an ideal of R. Let R\Join I be the subring of R\times R consisting of the elements (r,r+i) for r\in R and i\in I. We study the diameter and girth of the zero-divisor graph of the ring R\Join I.

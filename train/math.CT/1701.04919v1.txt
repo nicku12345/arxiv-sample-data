@@ -1,0 +1,1 @@
+The notion of linear exponential comonads on symmetric monoidal categories has been used for modelling the exponential modality of linear logic. In this paper we introduce linear exponential comonads on general (possibly non-symmetric) monoidal categories, and show some basic results on them.

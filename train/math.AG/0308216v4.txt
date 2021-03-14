@@ -1,0 +1,1 @@
+We show that certain categories of perverse sheaves on a pair of affine toric varieties defined by dual cones are Koszul dual in the sense of Beilinson, Ginzburg and Soergel. The functor expressing this duality is constructed explicitly using a combinatorial model for mixed sheaves on toric varieties.

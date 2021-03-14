@@ -1,0 +1,1 @@
+We give a classification theorem for unital separable simple nuclear C^*-algebras with tracial topological rank zero which satisfy the Universal Coefficient Theorem. We prove that if A and B are two such C^*-algebras and  (K_0(A), K_0(A)_+, [1_A], K_1(A))   \cong (K_0(B), K_0(B)_+, [1_B], K_1(B)),  then A\cong B.

@@ -1,0 +1,1 @@
+We will prove that if \phi belongs to the class A_1(\R) with constant c\ge1 then the decreasing rearrangement of \phi, belongs to the same class with constant not more than c. We also find for such \phi the exact best possible range of those p>1 for which \phi\in L^p. In this way we provide alternative proofs of the results that appear in \cite{1}.

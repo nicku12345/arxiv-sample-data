@@ -1,0 +1,1 @@
+We define martingales on manifolds with time-dependent connection, extending in this way the theory of stochastic processes on manifolds with time-changing geometry initiated by Arnaudon, Coulibaly and Thalmaier (2008). We show that some, but not all properties of martingales on manifolds with a fixed connection extend to this more general setting.

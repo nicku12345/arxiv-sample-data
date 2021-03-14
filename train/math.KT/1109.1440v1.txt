@@ -1,0 +1,1 @@
+We compute the topological K-theory of the group C*-algebra C*_r(G) for a group extension Z^n->G->Z/m provided that the conjugation action of Z/m on Z^n is free outside the origin.

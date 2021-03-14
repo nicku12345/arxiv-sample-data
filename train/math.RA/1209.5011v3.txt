@@ -1,0 +1,1 @@
+This paper is a survey on universal algorithms for solving the matrix Bellman equations over semirings and especially tropical and idempotent semirings. However, original algorithms are also presented. Some applications and software implementations are discussed.

@@ -1,0 +1,1 @@
+A two-dimensional Besicovitch set over a finite field is a subset of the finite plane containing a line in each direction. In this paper, we conjecture a sharp lower bound for the size of such a subset and prove some results toward this conjecture.

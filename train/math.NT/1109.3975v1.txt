@@ -1,0 +1,1 @@
+We give a new bound for the large sieve inequality with power moduli q^k that is uniform in k. The proof uses a new theorem due to T. Wooley from his work on efficient congruencing.

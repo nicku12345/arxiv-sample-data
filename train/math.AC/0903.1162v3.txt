@@ -1,0 +1,1 @@
+Let k\in\mathbb{N}. Let f(x)\in \Bbb{Z}[x] be any polynomial such that f(x) and f(x+1)f(x+2)... f(x+k) are coprime in \mathbb{Q}[x]. We call g_{k,f}(n):=\frac{|f(n)f(n+1)... f(n+k)|}{\text{lcm}(f(n),f(n+1),...,f(n+k))} a Farhi arithmetic function. In this paper, we prove that g_{k,f} is periodic. This generalizes the previous results of Farhi and Kane, and Hong and Yang.

@@ -1,0 +1,1 @@
+The classical theorem of Milnor on pullback rings states that the category of projective modules over a pullback ring is equivalent to a certain category of gluing triples consisting of projective modules. We prove an analogous result on the level of derived categories, where the equivalence has to be replaced by an epivalence.

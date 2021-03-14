@@ -1,0 +1,1 @@
+Given a class of finite models we would like to expand each model (allowing new elements but the old universe is a separate sort), making the expressive power of LFP (least fix point logic) and PFP (inductive logic) similar while not changing the expressive power of FO (first order logic). This continues in math.LO/9411235.

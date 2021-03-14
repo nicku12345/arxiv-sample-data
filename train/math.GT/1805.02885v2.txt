@@ -1,0 +1,1 @@
+Let p and q be distinct integers greater than one. We show that the 2-component pretzel link P(p,q,-p,-q) is not slice, even though it has a ribbon mutant, by using 3-fold branched covers and an obstruction based on Donaldson's diagonalization theorem. As a consequence, we prove the slice-ribbon conjecture for 4-stranded 2-component pretzel links.

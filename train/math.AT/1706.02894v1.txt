@@ -1,0 +1,1 @@
+We introduce a notion of discrete topological complexity in the setting of simplicial complexes, using only the combinatorial structure of the complex by means of the concept of contiguous simplicial maps. We study the links of this new invariant with those of simplicial and topological LS-category.

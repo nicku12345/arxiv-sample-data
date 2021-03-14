@@ -1,0 +1,1 @@
+We provide an algorithm for decomposing a finite-dimensional Lie algebra over a field of characteristic 0 permitting to generalize the derivation tower theorem for Lie algebras, is proved by E. Schenkman \cite{Sc}.

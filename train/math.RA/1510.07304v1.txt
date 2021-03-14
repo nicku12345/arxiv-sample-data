@@ -1,0 +1,1 @@
+For a division ring D, finite dimensional over its center F, we give a condiction for the connectedness of the commuting graph of a matrix ring over D. Furthermore, we prove that if the commuting graph is connected, then its diameter is between four and six.

@@ -1,0 +1,1 @@
+Let G/K be an irreducible Riemannian symmetric space of the non-compact type and denote by \Xi the associated crown domain. We show that for any proper action of a cyclic group \Gamma the quotient \Xi/\Gamma is Stein. An analogous statement holds true for discrete nilpotent subgroups of a maximal split-solvable subgroup of G. We also show that \Xi is taut.

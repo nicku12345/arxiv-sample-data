@@ -1,0 +1,1 @@
+Let (Xt, t >= 0) be a diffusion process with jumps, sum of a Brownian motion with drift and a compound Poisson process. We consider T_x the first hitting time of a fixed level x > 0 by (Xt, t >= 0). We prove that the law of T_x has a density (defective when E(X1) < 0) with respect to the Lebesgue measure.

@@ -1,0 +1,1 @@
+We prove that for every p\ge 1 there exists a bounded function in the analytic Besov space B^p whose derivative is "badly integrable", along every radius. We apply this result to study multipliers and weighted superposition operators acting on the spaces B^p.

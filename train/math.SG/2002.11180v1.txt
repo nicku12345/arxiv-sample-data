@@ -1,0 +1,1 @@
+We construct a Kodaira-Spencer map from the big quantum cohomology of a sphere with three orbifold points to the Jacobian ring of the mirror Landau-Ginzburg potential function. This is constructed via the Lagrangian Floer theory of the Seidel Lagrangian and we show that Kodaira-Spencer map is a ring isomorphism.

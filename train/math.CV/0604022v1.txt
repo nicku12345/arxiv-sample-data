@@ -1,0 +1,1 @@
+Let \mu^z be the measure obtained by sweeping out the Monge-Amp\`ere measure of the pluricomplex Green function with pole at z.  We prove that \mu^z vanish on Levi flat parts of the boundary for 1) every relatively compact analytic polyhedron in complex space, 2) product domains of hyperconvex sets in Stein manifolds.

@@ -1,0 +1,1 @@
+The group SL(n,Z) admits a smooth faithful action on the (n-1)-sphere S^(n-1), induced from its linear action on euclidean space R^n. We show that, if m < n-1 and n > 2, any smooth action of SL(n,Z) on a mod 2 homology m-sphere, and in particular on the m-sphere S^m, is trivial.

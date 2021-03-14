@@ -1,0 +1,1 @@
+We show that if a first-order structure \mathcal{M}, with universe \mathbb{Z}, is an expansion of (\mathbb{Z},+,0) and a reduct of (\mathbb{Z},+,<,0), then \mathcal{M} must be interdefinable with (\mathbb{Z},+,0) or (\mathbb{Z},+,<,0).

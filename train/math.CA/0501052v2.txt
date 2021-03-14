@@ -1,0 +1,1 @@
+We give an algorithm to compute the series expansion for the inverse of a given function. The algorithm is extremely easy to implement and gives the first N terms of the series. We show several examples of its application in calculating the inverses of some special functions.

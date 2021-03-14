@@ -1,0 +1,1 @@
+Quantum ergodicity theorem states that for quantum systems with ergodic classical flows, eigenstates are, in average, uniformly distributed on energy surfaces. We show that if N is a hypersurface in the position space satisfying a simple dynamical condition, the restrictions of eigenstates to N are also quantum ergodic.

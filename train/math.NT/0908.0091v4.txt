@@ -1,0 +1,1 @@
+Given an elliptic curve with supersingular reduction at an odd prime p, Iovita and Pollack have generalised results of Kobayashi to define even and odd Coleman maps at p over Lubin-Tate extensions given by a formal group of height 1. We generalise this construction to modular forms of higher weights.

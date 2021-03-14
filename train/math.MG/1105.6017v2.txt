@@ -1,0 +1,1 @@
+We show that there exists a universal constant C>0 such that the convex hull of any N points in the hyperbolic space H^n is of volume smaller than C N, and that for any dimension n there exists a constant C_n > 0 such that for any subset A of H^n,   Vol(Conv(A_1)) < C_n Vol(A_1) where A_1 is the set of points of hyperbolic distance to A smaller than 1.

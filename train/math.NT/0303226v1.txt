@@ -1,0 +1,1 @@
+We define "splitting functions of level l" for any integer l>0. These functions generalize Dwork's splitting functions : they allow us to represent additive characters of order p^l. Then we use these functions to obtain a Stickleberger theorem on the p-adic valuation of new Gauss sums.

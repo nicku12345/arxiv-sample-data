@@ -1,0 +1,1 @@
+Bazzoni and Glaz conjecture that the weak global dimension of a Gaussian ring is 0,1 or \infty. In this paper, we prove their conjecture in all cases except when R is a non-reduced local Gaussian ring with nilradical \mathcal{N} satisfying \mathcal{N}^2=0.

@@ -1,0 +1,1 @@
+We show that every filter \mathcal{F} on \omega, viewed as a subspace of 2^\omega, is homeomorphic to \mathcal{F}^2. This generalizes a theorem of van Engelen, who proved that this holds for Borel filters.

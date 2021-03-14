@@ -1,0 +1,1 @@
+We establish a course-of-values induction principle for K-finite sets in intuitionistic type theory. Using this principle, we prove a pigeonhole principle conjectured by Benabou and Loiseau. We also comment on some variants of this pigeonhole principle.

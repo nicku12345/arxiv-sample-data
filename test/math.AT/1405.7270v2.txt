@@ -1,0 +1,1 @@
+We develop further the theory of operads and analytic functors. In particular, we introduce a bicategory that has operads as 0-cells, operad bimodules as 1-cells and operad bimodule maps as 2-cells, and prove that this bicategory is cartesian closed. In order to obtain this result, we extend the theory of distributors and the formal theory of monads.

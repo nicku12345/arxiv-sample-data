@@ -1,0 +1,1 @@
+We use the famous knot-theoretic consequence of Freedman's disc theorem---knots with trivial Alexander polynomial bound a locally-flat disc in the 4-ball---to prove the following generalization. The degree of the Alexander polynomial of a knot is an upper bound for twice its topological slice genus. We provide examples of knots where this determines the topological slice genus.

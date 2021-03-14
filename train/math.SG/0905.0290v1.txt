@@ -1,0 +1,1 @@
+Developing the ideas of Bressler and Soibelman and of Karabegov, we introduce a notion of an oscillatory module on a symplectic manifold which is a sheaf of modules over the sheaf of deformation quantization algebras with an additional structure. We compare the category of oscillatory modules on a torus to the Fukaya category as computed by Polishchuk and Zaslow.

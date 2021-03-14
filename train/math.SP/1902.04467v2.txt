@@ -1,0 +1,1 @@
+We study perturbations of the discrete Laplacian associated to discrete analogs of cusps and funnels. We perturb the metric and the potential in a long-range way. We establish a propagation estimate and a Limiting Absorption Principle away from the possible embedded eigenvalues. The approach is based on a positive commutator technique.

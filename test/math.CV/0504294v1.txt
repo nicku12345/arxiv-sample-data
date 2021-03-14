@@ -1,0 +1,1 @@
+We prove a conjecture of Wojtaszczyk that for 1\leq p<\infty, p\neq 2, H_p(\mathbbT) does not admit any norm one projections with dimension of the range finite and bigger than 1. This implies in particular that for 1\leq p<\infty, p\ne 2, H_p does not admit a Schauder basis with constant one.

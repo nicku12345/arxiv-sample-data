@@ -1,0 +1,1 @@
+We study a 1D transport equation with nonlocal velocity and show the formation of singularities in finite time for a generic family of initial data. By adding a diffusion term the finite time singularity is prevented and the solutions exist globally in time.

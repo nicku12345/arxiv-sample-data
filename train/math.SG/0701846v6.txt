@@ -1,0 +1,1 @@
+We introduce a general procedure called `reverse engineering' that can be used to construct infinite families of smooth 4-manifolds in a given homeomorphism type. As one of the applications of this technique, we produce an infinite family of pairwise nondiffeomorphic 4-manifolds homeomorphic to CP^2#3(-CP^2).

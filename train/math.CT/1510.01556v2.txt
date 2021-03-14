@@ -1,0 +1,1 @@
+We describe a positive characteristic analogue of the Kazhdan-Lusztig basis of the Hecke algebra of a crystallographic Coxeter system and investigate some of its properties. Using Soergel calculus we describe an algorithm to calculate this basis. We outline some known or expected applications in modular representation theory. We conclude by giving several examples.

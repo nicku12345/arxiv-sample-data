@@ -1,0 +1,1 @@
+The manifold M being compact and connected, we prove that every submanifold of its cotangent bundle that is Hamiltonianly isotopic to the zero-section and that is invariant by a Tonelli flow is a graph.

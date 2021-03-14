@@ -1,0 +1,1 @@
+We examine the use of classes to formulate several categorical notions. This leads to two proposals: an explicit structure for working with subobjects, and a hierarchy of k-classes. We apply the latter to both ordinary and higher categories.

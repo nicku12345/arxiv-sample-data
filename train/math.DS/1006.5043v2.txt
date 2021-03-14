@@ -1,0 +1,1 @@
+For a rational map f and a H\"older continuous potential \phi satisfying  \sup\phi< P(f,\phi) the uniqueness and stochastic properties of the corresponding equilibrium states have been extensively studied. For a given rational map f, in this paper we characterize those H\"older continuous potentials \phi for which this property is satisfied for some iterate of f.

@@ -1,0 +1,1 @@
+For an abelian variety A over a number field k we discuss the maximal divisibile subgroup of H^1(k,A) and its intersection with the subgroup Sha(A/k). The results are most complete for elliptic curves over Q.

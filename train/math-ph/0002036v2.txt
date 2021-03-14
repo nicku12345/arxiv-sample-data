@@ -1,0 +1,1 @@
+PT symmetric complex potential V(r) = - r^4 + i a r^3 + b r^2 + i c r + i d/r + e/r^2 is studied. Arbitrarily large multiplets of its closed bound-state solutions with real energies are shown obtainable quasi-exactly (i.e., with a certain relationship between their charges and energies) from a single underlying finite-dimensional secular equation.

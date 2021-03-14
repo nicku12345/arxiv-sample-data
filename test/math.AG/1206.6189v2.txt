@@ -1,0 +1,1 @@
+Let K be an algebraically closed field of characteristic zero. Given a polynomial f(x,y) in K[x,y] with one place at infinity, we prove that either f is equivalent to a coordinate, or the family (f+c) has at most two rational elements. When (f+c) has two rational elements, we give a description of the singularities of these elements.

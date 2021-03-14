@@ -1,0 +1,1 @@
+Foxby defined the (Krull) dimension of a complex of modules over a commutative Noetherian ring in terms of the dimension of its homology modules. In this note it is proved that the dimension of a bounded complex of free modules of finite rank can be computed directly from the matrices representing the differentials of the complex.

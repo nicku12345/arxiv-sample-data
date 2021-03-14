@@ -1,0 +1,1 @@
+The paper presents results on piecewise polynomial approximations of tensor product type in Sobolev-Slobodecki spaces by various interpolation and projection techniques, on error estimates for quadrature rules and projection operators based on hierarchical bases, and on inverse inequalities. The main focus is directed to applications to discrete conservation laws.

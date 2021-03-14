@@ -1,0 +1,1 @@
+We present pointwise gradient bounds for solutions to p-Laplacean type non-homogeneous equations employing non-linear Wolff type potentials, and then prove similar bounds, via suitable caloric potentials, for solutions to parabolic equations.

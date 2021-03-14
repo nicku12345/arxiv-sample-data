@@ -1,0 +1,1 @@
+We discuss the well known ``Fredholm index=spectral flow'' theorem and show that it can be interpreted as a limit case of an identity involving two spectral shift functions.

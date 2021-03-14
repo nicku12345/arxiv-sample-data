@@ -1,0 +1,1 @@
+Some identities are presented that generalize the formula x^3 = 3x floor(x floor(x)) - 3 floor(x) floor(x floor(x)) + floor(x)^3 + 3 frac(x) frac(x floor(x)) + frac(x)^3 to a representation of the product x_0x_1 ... x_{n-1}.

@@ -1,0 +1,1 @@
+Every countable topological group G has a closed discrete subset A such that G=AA^{-1}.

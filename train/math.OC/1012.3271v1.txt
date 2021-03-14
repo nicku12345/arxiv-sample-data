@@ -1,0 +1,1 @@
+Given a nonnegative polynomial f, we provide an explicit expression for its best \ell_1-norm approximation by a sum of squares of given degree.

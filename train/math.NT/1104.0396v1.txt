@@ -1,0 +1,1 @@
+We prove, by the WZ-method, some hypergeometric identities which relate ten extended Ramanujan type series to simpler hypergeometric series. The identities we are going to prove are valid for all the values of a parameter a when they are convergent. Sometimes, even if they do not converge, they are valid if we consider these identities as limits.

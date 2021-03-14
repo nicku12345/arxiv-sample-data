@@ -1,0 +1,1 @@
+A new method of connecting two wavelet sets with a continuous path of wavelet sets is given. The method is based on a pure set theoretic fact known as the Schroder-Cantor-Bernstein theorem and on a characterization of wavelet sets in terms of one-to-one measurable bijections of [0,1) satisfying some extra conditions.

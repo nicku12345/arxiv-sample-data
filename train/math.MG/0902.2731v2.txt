@@ -1,0 +1,1 @@
+We try to create a wise definition of 'angle spaces'. Based on an idea of Ivan Singer, we introduce a new concept of an angle in real Banach spaces, which generalizes the euclidean angle in Hilbert spaces. With this angle it is shown that in every two-dimensional subspace of a real Banach space we can describe elements uniquely by polar coordinates.

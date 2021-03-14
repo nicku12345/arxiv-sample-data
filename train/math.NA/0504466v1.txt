@@ -1,0 +1,1 @@
+The result after N steps of an implicit Runge-Kutta time discretization of an inhomogeneous linear parabolic differential equation is computed, up to accuracy \epsilon, by solving only O\Big(\log N \log \frac1\epsilon \Big)  linear systems of equations. We derive, analyse, and numerically illustrate this fast algorithm.

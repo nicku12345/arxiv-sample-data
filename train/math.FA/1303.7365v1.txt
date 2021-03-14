@@ -1,0 +1,1 @@
+We study upper bounds on the Schur multiplier norm of Loewner matrices for concave and convex functions. These bounds then immediately lead to upper bounds on the ratio of Schatten q-norms of commutators ||\;[A,f(B)]\;||_q/||\;[A,B]\;||_q. We also consider operator monotone functions, for which sharper bounds are obtained.

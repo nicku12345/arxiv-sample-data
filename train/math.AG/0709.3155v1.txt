@@ -1,0 +1,1 @@
+The aim of this note is to describe the restriction map from the moduli space of stable rank 2 bundle with small c_2 on a jacobian X of dimension 2, to the moduli space of stable rank 2 bundles on the corresponding genus 2 curve C embedded in X.

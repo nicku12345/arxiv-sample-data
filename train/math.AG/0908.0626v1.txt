@@ -1,0 +1,1 @@
+It is shown that to every Q-linear cycle \bar\alpha modulo numerical equivalence on an abelian variety A there is canonically associated a Q-linear cycle \alpha modulo rational equivalence on A lying above \bar\alpha. The assignment \bar\alpha -> \alpha respects the algebraic operations and pullback and push forward along homomorphisms of abelian varieties.

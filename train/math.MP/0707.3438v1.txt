@@ -1,0 +1,1 @@
+We give an elementary proof of the analytic KAM theorem by reducing it to a Picard iteration of a PDE with quadratic nonlinearity, the so called Polchinski renormalization group equation studied in quantum field theory.

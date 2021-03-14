@@ -1,0 +1,1 @@
+Inspired by the work [PA1], in this note, we prove that a complete set of pairwise orthogonal primitive idempotents of Yokonuma-Hecke algebras can be obtained by consecutive evaluations of a certain rational function.

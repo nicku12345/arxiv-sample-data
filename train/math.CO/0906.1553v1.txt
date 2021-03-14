@@ -1,0 +1,1 @@
+Charlier configurations provide a combinatorial model for Charlier polynomials. We use this model to give a combinatorial proof of a multilinear generating function for Charlier polynomials. As special cases of the multilinear generating function, we obtain the bilinear generating function for Charlier polynomials and formulas for derangements.

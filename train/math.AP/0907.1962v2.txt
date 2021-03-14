@@ -1,0 +1,1 @@
+We consider the stationary Ginzburg-Landau equations in \R^d, d=2,3. We exhibit a class of applied magnetic fields (including constant fields) such that the Ginzburg-Landau equations do not admit finite energy solutions.

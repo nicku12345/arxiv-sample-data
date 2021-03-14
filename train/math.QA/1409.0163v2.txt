@@ -1,0 +1,1 @@
+It is shown that the operad maps E_n\to E_{n+k} are formal over the reals for k\geq 2 and non-formal for k=1. Furthermore we compute the cohomology of the deformation complex of the operad maps E_{n}\to E_{n+1}, proving an algebraic version of the Cerf Lemma.

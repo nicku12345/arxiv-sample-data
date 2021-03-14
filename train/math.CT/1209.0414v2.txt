@@ -1,0 +1,1 @@
+We prove by counterexample that the category of 3-computads is not cartesian closed, a result originally proved by Makkai and Zawadowski. We give a 3-computad B and show that the functor _ x B does not have a right adjoint, by giving a coequaliser that is not preserved by it.

@@ -1,0 +1,1 @@
+We determine the Hochschild cohomology algebras of the square-free monomial complete intersections. In particular, we provide a formula for the cup product which gives the cohomology module an algebra structure and then we describe this structure in terms of generators and relations. In addition, we compute the Hilbert series of the Hochschild cohomology of these algebras.

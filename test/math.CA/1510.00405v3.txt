@@ -1,0 +1,1 @@
+In the present paper, we introduce the Chlodowsky variant of (p,q) Kantorovich-Stancu-Schurer operators on the unbounded domain which is a generalization of (p,q) Bernstein-Stancu-Kantorovich operators. We have also derived its Korovkin type approximation properties and its rate of convergence.

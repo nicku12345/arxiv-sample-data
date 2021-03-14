@@ -1,0 +1,1 @@
+We generalize the notion of trace identity to J-trace. Our main result is that all J-traces of M_{n,n} are consequence of those of degree \frac12n(n + 3). This also gives an indirect description of the queer trace identities of M_n(E).

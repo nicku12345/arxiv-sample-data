@@ -1,0 +1,1 @@
+To any complex Hadamard matrix we associate a quantum permutation group. The correspondence is not one-to-one, but the quantum group encapsulates a number of subtle properties of the matrix. We investigate various aspects of the construction: compatibility to product operations, characterization of matrices which give usual groups, explicit computations for small matrices.

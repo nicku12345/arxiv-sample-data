@@ -1,0 +1,1 @@
+The aim of this paper is twofold: First we give an explicit construction of the infinitesimal deformations of the category Coh(X) of coherent sheaves on a smooth projective variety X. Secondly we show that any Fourier-Mukai transform /Phi/colon D^b(X)/to D^b(Y) extends to an equivalence between the derived categories of the deformed Abelian categories.

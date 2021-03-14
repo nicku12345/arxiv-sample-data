@@ -1,0 +1,1 @@
+In this paper we consider the sequence whose n^{th} term is the number of h-vectors of length n. We show that the n^{th} term of this sequence is bounded above by the n^{th} Fibonacci number and bounded below by the number if integer partitions of n into distinct parts. Further we show embedded sequences that directly relate to integer partitions.

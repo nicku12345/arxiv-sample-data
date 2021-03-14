@@ -1,0 +1,1 @@
+We provide a non-commutative version of the F5 algorithm, namely for right-modules over path algebra quotients. It terminates, if the path algebra quotient is a basic algebra. In addition, we use the F5 algorithm in negative degree monomial orderings to compute Loewy layers.

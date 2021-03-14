@@ -1,0 +1,1 @@
+We run Mori's program for the moduli space of pointed stable rational curves with divisor K +\sum a_{i}\psi_{i}. We prove that, without assuming the F-conjecture, the birational model for the pair is the Hassett's moduli space of weighted pointed stable rational curves, without any modification of weight coefficients.

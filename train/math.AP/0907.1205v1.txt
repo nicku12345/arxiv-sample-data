@@ -1,0 +1,1 @@
+We present a rigorous derivation of classical molecular dynamics (MD) from quantum molecular dynamics (QMD) that applies to the standard Hamiltonians of molecular physics with Coulomb interactions. The derivation is valid away from possible electronic eigenvalue crossings.

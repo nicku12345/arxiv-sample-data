@@ -1,0 +1,1 @@
+We prove that a germ of a holomorphic map f between C^n and C^{n'} sending one real-algebraic submanifold M\subset C^n into another M'\subset C^{n'} is algebraic provided M' contains no complex-analytic discs and M is generic and minimal. We also propose an algorithm for finding complex-analytic discs in a real submanifold.

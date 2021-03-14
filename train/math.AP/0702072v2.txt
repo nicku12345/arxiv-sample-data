@@ -1,0 +1,1 @@
+We study one-dimensional linear hyperbolic systems with L^{\infty}-coefficients subjected to periodic conditions in time and reflection boundary conditions in space. We derive a priori estimates and give an operator representation of solutions in the whole scale of Sobolev-type spaces of periodic functions. These spaces give an optimal regularity trade-off for our problem.

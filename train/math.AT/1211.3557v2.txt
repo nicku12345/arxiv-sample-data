@@ -1,0 +1,1 @@
+We develop the fundamentals of Mackey functors in the setup of fusion systems including an acyclicity condition as well as a parametrization and an explicit description of simple Mackey functors. Using this machinery we extend Dwyer's sharpness results to exotic fusion systems \mathcal{F} on a finite p-group S with an abelian subgroup of index p.

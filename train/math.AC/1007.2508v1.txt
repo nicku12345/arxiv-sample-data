@@ -1,0 +1,1 @@
+The Cohen-Macaulay locus of any finite module over a noetherian local ring A is studied and it is shown that it is a Zariski-open subset of \Spec A in certain cases. In this connection, the rings whose formal fibres over certain prime ideals are Cohen-Macaulay are studied.

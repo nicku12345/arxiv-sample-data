@@ -1,0 +1,1 @@
+The purpose of this note is to show that the regular locus of a complex variety is locally parabolic at the singular set. This yields that the regular locus of a compact complex variety, e.g., of a projective variety, is parabolic. We give also an application to the L^2-theory for the \overline{\partial}-operator on singular spaces.

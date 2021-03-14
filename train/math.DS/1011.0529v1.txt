@@ -1,0 +1,1 @@
+Let T be an exterior modular correspondence on an irreducible locally symmetric space X. In this note, we show that the isolated fixed points of the power T^n are equidistributed with respect to the invariant measure on X as n tends to infinity. A similar statement is given for general sequences of modular correspondences.

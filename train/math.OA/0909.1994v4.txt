@@ -1,0 +1,1 @@
+We compute the number of points of projective variety V over a finite field in terms of invariants of the so-called Serre C*-algebra of V.

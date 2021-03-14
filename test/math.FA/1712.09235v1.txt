@@ -1,0 +1,1 @@
+In this article, we investigate the boundedness of the bilinear Bochner-Riesz means S^{\alpha } in the non-Banach triangle case. We improve the corresponding results in [Bern] in two aspects: Our partition of the non-Banach triangle is simpler and we obtain lower smoothness indices \alpha (p_{1},p_{2}) for various cases apart from 1 \leq p_1=p_2 <2.

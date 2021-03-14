@@ -1,0 +1,1 @@
+The Mellin transform and several Dirichlet series related with the Riemann zeta function are used to deduce some identities similar to the classical M\"untz formula [4]. These formulas are derived in the critical strip and in the half-plane Re(s)<0. As particular cases, integral representations for products of the gamma and zeta functions are exhibited.

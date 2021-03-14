@@ -1,0 +1,1 @@
+We try to explain the differences between the concepts of stratifiable space and \varkappa-metrizable space. In particular, we give a characterization of \varkappa-metrizable spaces which is modelled on Chigogidze's characterization. Moreover, we present a \varkappa-metric for the Niemytzki plane, using the properties of the Euclidean metric.

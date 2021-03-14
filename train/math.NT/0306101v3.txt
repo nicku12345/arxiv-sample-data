@@ -1,0 +1,1 @@
+An algorithm is given to efficiently compute L-functions with large conductor in a restricted range of the critical strip. Examples are included for about 21000 dihedral Galois representations with conductor near 10^7. The data shows good agreement with a symplectic random matrix model. Also included are an elliptic curve L-function and one for a quadratic Dirichlet character.

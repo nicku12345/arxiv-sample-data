@@ -1,0 +1,1 @@
+Gencev has recently reported a closed form summation for an infinite series involving the harmonic numbers and the central binomial numbers. This note indicates a possible approach to the proof involving the dilogarithm function.

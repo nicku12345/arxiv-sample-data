@@ -1,0 +1,1 @@
+We define generalized bivariate polynomials, from which upon specification of initial conditions the bivariate Fibonacci and Lucas polynomials are obtained. Using essentially a matrix approach we derive identities and inequalities that in most cases generalize known results.

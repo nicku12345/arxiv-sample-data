@@ -1,0 +1,1 @@
+We show that the category of presheaves of simplicial groupoids on a site \mathcal{C} is a right proper simplicial model category. We define G-torsor of presheaf of 2-groupoids G, presheaf of simplicial groups G and presheaf of simplicial groupoids G on a site \mathcal{C} and classify G-torsors by the homotopy classes [\ast, \bar{W}G].

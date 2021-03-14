@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring and A an Artinian R-module. We prove that if A has finite Gorenstein injective dimension, then A possesses a Gorenstein injective envelope which is special and Artinian. This, in particular, yields that over a Gorenstein ring any Artinian module possesses a Gorenstein injective envelope which is special and Artinian.

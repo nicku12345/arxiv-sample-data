@@ -1,0 +1,1 @@
+We show that the Giry monad is not strong with respect to the canonical symmetric monoidal closed structure on the category Meas of all measurable spaces and measurable functions.

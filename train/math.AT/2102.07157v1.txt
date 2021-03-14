@@ -1,0 +1,1 @@
+For any natural k \leq n, the rational cohomology ring of the space of continuous maps S^{2k-1} \to S^{2n-1} (respectively, S^{4k-1} \to S^{4n-1}) equivariant under the Hopf action of the circle (respectively, of the group S^3 of unit quaternions) is naturally isomorphic to that of the Stiefel manifold V_k({\mathbb C}^n) (respectively, V_k({\mathbb H}^n)).

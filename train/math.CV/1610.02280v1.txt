@@ -1,0 +1,1 @@
+We give examples of regular boundary data for the Dirichlet problem for the Complex Homogeneous Monge-Amp\`ere Equation over the unit disc, whose solution is completely degenerate on a non-empty open set and thus fails to have maximal rank.

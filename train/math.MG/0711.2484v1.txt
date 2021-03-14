@@ -1,0 +1,1 @@
+Let (e_i) be a fundamental system of a Banach space.   We consider the problem of approximating linear combinations of elements of this system by linear combinations using quantized coefficients. We will concentrate on systems which are possibly redundant. Our model for this situation will be frames in Banach spaces.

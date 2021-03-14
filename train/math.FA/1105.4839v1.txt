@@ -1,0 +1,1 @@
+In general, it is well known the behaviors of the symmetric tri-band matrices on the Hilbert spaces. But the symmetric tri-band matrices have different the behavior on the Banach spaces. The main purpose of this work is to determine the fine spectra of the operator U(s, r, s) defined by symmetric tri-band matrix over the sequence spaces {\ell}_p and bvp.

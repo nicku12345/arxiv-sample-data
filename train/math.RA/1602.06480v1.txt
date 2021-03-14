@@ -1,0 +1,1 @@
+Let F be an algebraically closed field. We show that if a quantum formal deformation A of a commutative domain A_0 over F is a PI algebra, then A is commutative if {\rm char}(F)=0, and has PI degree a power of p if {\rm char}(F)=p>0. This implies the same result for filtered deformations (i.e., filtered algebras A such that {\rm gr}(A)=A_0).

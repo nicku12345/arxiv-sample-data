@@ -1,0 +1,1 @@
+We introduce a multi-type display calculus for Propositional Dynamic Logic (PDL). This calculus is complete w.r.t. PDL, and enjoys Belnap-style cut-elimination and subformula property.

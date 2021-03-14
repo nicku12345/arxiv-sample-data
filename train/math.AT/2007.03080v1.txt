@@ -1,0 +1,1 @@
+We show the homological Serre spectral sequence with coefficients in a field is a spectral sequence of coalgebras. We also identify the comultiplication on the E^2 page of the spectral sequence as being induced by the usual comultiplication in homology. At the end, we provide some example computations highlighting the use the co-Leibniz rule.

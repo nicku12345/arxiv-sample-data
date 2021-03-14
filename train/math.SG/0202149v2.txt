@@ -1,0 +1,1 @@
+Let M be a compact oriented simply-connected manifold of dimension at least 8. Assume M is equipped with a torsion-free semi-free circle action with isolated fixed points. We prove M has a perfect invariant Morse-Smale function. The major ingredient in the proof is a new cancellation theorem for the invariant Morse theory.

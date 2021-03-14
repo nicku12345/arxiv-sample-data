@@ -1,0 +1,1 @@
+A Gauss equation is proved for subspaces of Alexandrov spaces of curvature bounded above by K. That is, a subspace of extrinsic curvature less than or equal to A, defined by a cubic inequality on the difference of arc and chord, has intrinsic curvature less than or equal to K+A^2. Sharp bounds on injectivity radii of subspaces, new even in the Riemannian case, are derived.

@@ -1,0 +1,1 @@
+We use the coupling technique to prove that there exists a loop-erasure of a plane Brownian motion stopped on exiting a simply connected domain, and the loop-erased curve is the reversal of a radial SLE_2 curve.

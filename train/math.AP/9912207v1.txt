@@ -1,0 +1,1 @@
+The authors show that bilinear estimates for null forms hold for Dirichlet-wave equations outside of convex obstacle. This generalizes results for the Euclidean case of Klainerman and Machedon, and of Sogge for the variable coefficient boundaryless case. The estimates are used to prove a local existence theorem for semilinear wave equations satisfying the null condition.

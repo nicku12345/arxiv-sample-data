@@ -1,0 +1,1 @@
+We investigate the equivariant and Hopf-cyclic cohomology of module algebras over Hopf algebroids and derive their Morita invariance. For this, we use the tools developed by McCarthy for k-linear categories and subsequently by Kaygun and Khalkhali for a certain class of categories, called as H-categories, for a Hopf algebra H.

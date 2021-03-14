@@ -1,0 +1,1 @@
+We study the effect of Alvis-Curtis duality on the unipotent representations of \mathrm{GL}_n(q) in non-defining characteristic \ell. We show that the permutation induced on the simple modules can be expressed in terms of a generalization of the Mullineux involution on the set of all partitions, which involves both \ell and the order of q modulo \ell.

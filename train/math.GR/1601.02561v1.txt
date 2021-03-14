@@ -1,0 +1,1 @@
+We prove that if G is a transitive permutation group, then d(G)\log{|G|}/n^{2} tends to 0 as n tends to \infty.

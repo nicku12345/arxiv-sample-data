@@ -1,0 +1,1 @@
+We show that a machine, which knows basic logic and arithmetic and basic axioms of knowledge, and which is factive (knows nothing false), can either know that it is factive, or know its own Goedel number, but not both.

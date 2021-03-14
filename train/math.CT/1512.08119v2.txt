@@ -1,0 +1,1 @@
+We prove general results about completeness of cotorsion theories and existence of covers and envelopes in locally presentable abelian categories, extending the well-established theory for module categories and Grothendieck categories. These results are then applied to the categories of contramodules over topological rings, which provide examples and counterexamples.

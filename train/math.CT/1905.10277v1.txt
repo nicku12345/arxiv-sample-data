@@ -1,0 +1,1 @@
+Properties of toposes of right M-sets are studied, and these toposes are characterised up to equivalence by their canonical points. The solution to the corresponding Morita equivalence problem is presented in the form of an equivalence between a 2-category of monoids and the corresponding 2-category of toposes.

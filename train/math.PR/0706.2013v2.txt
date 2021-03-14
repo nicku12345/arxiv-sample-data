@@ -1,0 +1,1 @@
+We give an example of a transient reversible Markov chain that almost surely has only a finite number of cutpoints. We explain how this is relevant to a conjecture of Diaconis and Freedman and a question of Kaimanovich. We also answer Kaimanovich's question when the Markov chain is a nearest-neighbor random walk on a tree.

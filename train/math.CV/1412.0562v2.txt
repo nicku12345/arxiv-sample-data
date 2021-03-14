@@ -1,0 +1,1 @@
+We prove in an elementary way that for a Lipschitz domain D\subset \cn, all plurisubharmonic functions on D can be regularized near any boundary point.

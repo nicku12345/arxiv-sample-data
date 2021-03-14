@@ -1,0 +1,1 @@
+We provide a more informal explanation of two results in our manuscript "Tilings of quadriculated annuli". Tilings of a quadriculated annulus A are counted according to volume (in the formal variable q) and flux (in p). The generating function Phi_A(p,q) is such that, for q = -1, the non-zero roots in p are roots of unity and for q > 0, real negative.

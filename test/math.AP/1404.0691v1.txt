@@ -1,0 +1,1 @@
+We study the propagation of regularity of solutions to a three dimensional system of linear parabolic PDE known as the kinematic dynamo equations. The divergence free drift velocity is assumed to be at the critical regularity level with respect to the natural scaling of the equations.

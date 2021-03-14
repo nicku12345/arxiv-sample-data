@@ -1,0 +1,1 @@
+We give a simple explicit description of the norm in the complex interpolation space (C_p[L_p(M)], R_p[L_p(M)])_\theta for any von Neumann algebra M and any 1\le p\le\infty.

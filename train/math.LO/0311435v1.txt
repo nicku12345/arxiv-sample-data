@@ -1,0 +1,1 @@
+We prove the triviality of the Grothendieck ring of a integer-valued field K under slight conditions on the logical language and on K. We construct a definable bijection from the plane K^2 to itself minus a point. When we specialize to local fields with finite residue field, we construct a definable bijection from the valuation ring to itself minus a point.

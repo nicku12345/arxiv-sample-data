@@ -1,0 +1,1 @@
+Assume that f:(\mathbb{C}^n,0) \to (\mathbb{C},0) is an analytic function germ at the origin with only isolated singularity. Let \mu and \tau be the corresponding Milnor and Tjurina numbers. We show that \dfrac{\mu}{\tau} \leq n. As an application, we give a lower bound for the Tjurina number in terms of n and the multiplicity of f at the origin.

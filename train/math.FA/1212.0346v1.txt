@@ -1,0 +1,1 @@
+We give a short proof of the recent results that, for every 1\leq p< \infty, the Ces{\`a}ro function space Ces_p(I) is not a dual space, has the weak Banach-Saks property and does not have the Radon-Nikodym property.

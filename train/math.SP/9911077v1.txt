@@ -1,0 +1,1 @@
+We prove that the answer to the "zero-in-the-spectrum" conjecture, in its form, suggested by J. Lott, is negative. Namely, we show that for any n > 5 there exists a closed n-dimensional manifold M, so that zero does not belong to the spectrum of the Laplace-Beltrami operator acting on the L^2 forms of all degrees on the universal covering of M.

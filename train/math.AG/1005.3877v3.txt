@@ -1,0 +1,1 @@
+In this article, we show that some semi-rigid \mu-stable sheaves on a projective K3 surface X with Picard number 1 are stable in the sense of Bridgeland's stability condition. As a consequence of our work, we show that the special set U(X) \subset \Stab (X) reconstructs X itself. This gives a sharp contrast to the case of an abelian surface.

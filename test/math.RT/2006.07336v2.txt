@@ -1,0 +1,1 @@
+Let D be a connected component of a possibly disconnected reductive group G over an algebraic closed field. We define a partition of D into finitely many Strata each of which is a union of G^0-conjugacy classes of fixed dimension. In the case where D=G^0 this recovers a known partition.

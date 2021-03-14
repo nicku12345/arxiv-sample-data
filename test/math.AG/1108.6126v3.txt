@@ -1,0 +1,1 @@
+Tropicalizations form a bridge between algebraic and convex geometry. We generalize basic results from tropical geometry which are well-known for special ground fields to arbitrary non-archimedean valued fields. To achieve this, we develop a theory of toric schemes over valuation rings of rank 1. As a basic tool, we use techniques from non-archimedean analysis.

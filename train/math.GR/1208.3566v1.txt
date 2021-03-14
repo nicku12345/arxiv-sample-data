@@ -1,0 +1,1 @@
+A finite p-group is said to be of Gorenstein-Kulkarni type if the set of all elements of non-maximal order is a maximal subgroup. 2-groups of Gorenstein-Kulkarni type arise naturally in the study of group actions on compact Riemann surfaces. In this paper, we proceed towards a classification of p-groups of Gorenstein-Kulkarni type.

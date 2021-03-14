@@ -1,0 +1,1 @@
+We prove that any minimal valid function for the k-dimensional infinite group relaxation that is piecewise linear with at most k+1 slopes and does not factor through a linear map with non-trivial kernel is extreme. This generalizes a theorem of Gomory and Johnson for k=1, and Cornuejols and Molinaro for k=2.

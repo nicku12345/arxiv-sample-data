@@ -1,0 +1,1 @@
+Let p be a rational prime and K/Q_p be an extension of complete discrete valuation fields. Let G be a truncated Barsotti-Tate group of level n, height h and dimension d over O_K with 0<d<h. In this paper, we prove the existence of higher canonical subgroups with expected properties for G if the Hodge height of G is less than 1/(p^{n-2}(p+1)), including the case of p=2.

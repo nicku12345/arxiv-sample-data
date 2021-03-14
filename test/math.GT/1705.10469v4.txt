@@ -1,0 +1,1 @@
+Let {\bf H}_{\mathbb C}^n be the n-dimensional complex hyperbolic space and {\rm SU}(n,1) be the (holomorphic) isometry group. An element g in {\rm SU}(n,1) is called loxodromic or hyperbolic if it has exactly two fixed points on the boundary \partial {\bf H}_{\mathbb C}^n. We classify {\rm SU}(n,1) conjugation orbits of pairs of loxodromic elements in {\rm SU}(n,1).

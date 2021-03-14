@@ -1,0 +1,1 @@
+W.Ebeling and S.M.Gusein-Zade have started to look at multi-index Newton filtrations for hypersurface singularities. In this paper we pass to complete intersections. One motivation is the possibility to compare with the "classical" Newton filtration introduced by A.G.Kushnirenko in connection with the Milnor number.

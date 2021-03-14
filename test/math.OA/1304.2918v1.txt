@@ -1,0 +1,1 @@
+We extend Wolff's theorem concerning ideals on H-infinity(D) to the matrix case, giving conditions under which an H-infinity solution G to the equation FG = H exists for all z in D, where F is an m-by-infinity matrix of functions in H-infinity (D), and H is an m-by-1 vector of such functions. We then examine several useful results.

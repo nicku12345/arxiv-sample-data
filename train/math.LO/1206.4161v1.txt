@@ -1,0 +1,1 @@
+In a recent preprint, Garti and Shelah state that the techniques of a paper of Dzamonja and Shelah can be used to force u_kappa to be kappa^+ for supercompact kappa with 2^kappa arbitrarily large. In this expository article we spell out the details of how this can be done.

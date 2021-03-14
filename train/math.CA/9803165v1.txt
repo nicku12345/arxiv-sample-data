@@ -1,0 +1,1 @@
+In this article three expansion formulas for a generalized hypergeometric function _4F_3 are derived, when its upper parameters differ by integers. Though the results are special cases of a general continuation formula for _pF_q, they are sufficiently general and unify a number of known results.

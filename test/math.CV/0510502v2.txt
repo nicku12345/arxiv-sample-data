@@ -1,0 +1,1 @@
+We prove Polya's conjecture of 1943: For a real entire function of order greater than 2, with finitely many non-real zeros, the number of non-real zeros of the n-th derivative tends to infinity with n. We use the saddle point method and potential theory, combined with the theory of analytic functions with positive imaginary part in the upper half-plane.

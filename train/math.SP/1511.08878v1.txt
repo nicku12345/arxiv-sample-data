@@ -1,0 +1,1 @@
+We prove the Weyl-von Neumann-Berg theorem for quaternionic right linear operators (not necessarily bounded) in a quaternionic Hilbert space: Let N be a right linear normal (need not be bounded) operator in a quaternionic separable Hilbert space H. Then for a given \epsilon>0 there exists a compact operator K with \|K\|<\epsilon and a diagonal operator D on H such that N=D+K.

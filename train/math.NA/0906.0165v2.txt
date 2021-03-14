@@ -1,0 +1,1 @@
+In this paper, we prove that if the matrix of the linear system is symetric, the Cholesky decomposition can be obtained from the Gauss elimination method without pivoting, without proving that the matrix of the system is positive definite.

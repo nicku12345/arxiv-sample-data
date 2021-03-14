@@ -1,0 +1,1 @@
+We give an algorithm for computing the contact homology of some Brieskorn manifolds. As an application, we construct infinitely many contact structures on the class of simply connected contact manifolds that admit nice contact forms (i.e. no Reeb orbits of degree -1,0 or 1) and have index positivity with trivial first Chern class.

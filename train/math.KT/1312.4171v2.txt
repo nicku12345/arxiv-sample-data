@@ -1,0 +1,1 @@
+We prove a canonical Kunneth decomposition for the motive of a commutative group scheme over a field. Moreover, we show that this decomposition behaves under the group law just as in cohomology. We also deduce applications of the decomposition to the existence of a weight filtration, computation of any Weil cohomology theory and study of 1-motives.

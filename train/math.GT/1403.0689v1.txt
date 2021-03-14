@@ -1,0 +1,1 @@
+A symmetric quandle is a quandle with a good involution. For a knot in \R^3\, a knotted surface in \R^4\ or an \n\-manifold knot in \R^{n+2}\, the knot symmetric quandle is defined. We introduce the notion of a symmetric quandle presentation, and show how to get a presentation of a knot symmetric quandle from a diagram.

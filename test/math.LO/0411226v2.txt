@@ -1,0 +1,1 @@
+This paper deals with formulas of set theory which force the infinity. For such formulas, we provide a technique to infer satisfiability from a finite assignment.

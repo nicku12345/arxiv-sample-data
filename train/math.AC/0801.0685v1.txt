@@ -1,0 +1,1 @@
+Let Q be a parameter ideal of a Noetherian local ring (R,m). The Goto number g(Q) of Q is the largest integer g such that Q:m^g is integral over Q. We examine the values of g(Q) as Q varies over the parameter ideals of R. We concentrate mainly on the case where dim R = 1, and many of our results concern parameter ideals of a numerical semigroup ring.

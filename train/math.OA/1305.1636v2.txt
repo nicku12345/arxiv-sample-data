@@ -1,0 +1,1 @@
+We define a free holomorphic function to be a function that is locally a bounded nc-function. We prove that free holomorphic functions are the functions that are locally uniformly approximable by free polynomials. We prove a realization formula and an Oka-Weil theorem for free analytic functions.

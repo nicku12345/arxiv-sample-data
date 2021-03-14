@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions for a polynomial of the form x^r*(1+x^v+x^(2v)+...+x^(kv))^t to permute the elements of the finite field GF(q). Our results yield especially simple criteria in case (q-1)/gcd(q-1,v) is a small prime.

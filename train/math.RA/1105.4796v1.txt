@@ -1,0 +1,1 @@
+In this paper, by using Composition-Diamond lemma for Lie algebras, we give a Gr\"obner-Shirshov basis for free partially commutative Lie algebra over a commutative ring with unit. As an application, we obtain a normal form for such a Lie algebra.

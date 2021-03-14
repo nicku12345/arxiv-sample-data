@@ -1,0 +1,1 @@
+We construct characteristic classes of smooth (Hamiltonian) fibrations as as fiber integrals of products of Pontriagin (or Chern) classes of vertical vector bundles over the total space of the universal fibration. We give explicit formulae of these fiber integrals for toric manifolds and get estimates of the dimension of the cohomology groups of classifying spaces.

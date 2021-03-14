@@ -1,0 +1,1 @@
+In this paper, we streamline the technique of groupoids coarse decomposition for purpose of K-theory computations of groupoids crossed products. This technique was first introduced by Guoliang Yu in his proof of Novikov conjecture for groups with finite asymptotic dimension. The main tool we use for these computations is controlled operator K-theory.

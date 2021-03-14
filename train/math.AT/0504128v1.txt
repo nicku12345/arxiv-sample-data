@@ -1,0 +1,1 @@
+We generalize and complete some of Maxim's recent results on Alexander invariants of a polynomial transversal to the hyperplane at infinity. Roughly speaking, and surprisingly, such a polynomial behaves both topologically and algebraically (e.g. in terms of the variation of MHS on the cohomology of its smooth fibers), like a homogeneous polynomial.

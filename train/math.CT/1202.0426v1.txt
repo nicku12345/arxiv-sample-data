@@ -1,0 +1,1 @@
+We consider three (2-)categories and their (anti-)equivalence. They are the category of small abelian categories and exact functors, the category of definable additive categories and interpretation functors, the category of locally coherent abelian categories and coherent morphisms. These categories link algebra, model theory and "geometry".

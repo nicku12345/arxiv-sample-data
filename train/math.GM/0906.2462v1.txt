@@ -1,0 +1,1 @@
+This paper considers the problem of estimating the population mean using information on auxiliary variable in presence of non response. Exponential ratio and exponential product type estimators have been suggested and their properties are studied. An empirical study is carried out to support the theoretical results.

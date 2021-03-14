@@ -1,0 +1,1 @@
+The definition of Choi matrices for linear maps on the n x n matrices is extended to factors, and the basic theorems for Choi matrices are proved in this general context.

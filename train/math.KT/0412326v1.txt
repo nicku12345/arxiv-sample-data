@@ -1,0 +1,1 @@
+An effective method to compute a presentation of Tor_k (M,N) for modules on a not necessarily commutative algebra is proposed, more precisely when R is a PBW algebra, M is a centralizing R-bimodule and N is a finitely generated left R-module.

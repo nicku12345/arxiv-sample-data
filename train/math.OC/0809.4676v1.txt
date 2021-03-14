@@ -1,0 +1,1 @@
+This paper describes a method to filter oscillatory transients from measurements of a time series which were at least an order of magnitude larger than the signal to be measured. Based on a Kalman filter, it has an optimality property and a natural scaling parameter that allows to tune it to high resolution or low noise.

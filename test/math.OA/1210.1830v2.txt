@@ -1,0 +1,1 @@
+As in the classical case of L\'evy processes on a group, L\'evy processes on a Voiculescu dual group are constructed from conditionally positive functionals. It is essential for this construction that Schoenberg correspondence holds for dual groups: The exponential of a conditionally positive functional is a convolution semigroup of states.

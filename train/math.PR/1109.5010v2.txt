@@ -1,0 +1,1 @@
+We consider a generalization of the Ewens measure for the symmetric group, calculating moments of the characteristic polynomial and similar multiplicative statistics. In addition, we study the asymptotic behavior of linear statistics (such as the trace of a permutation matrix or of a wreath product) under this new measure.

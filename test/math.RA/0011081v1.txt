@@ -1,0 +1,1 @@
+We find the eigenvalues and eigenvectors of the n by n matrix with (i,j) entry \binom(i-1,n-j), establishing a conjecture of Peele and Stanica. Curiously, the eigenvectors can be chosen to form a matrix which is its own inverse.

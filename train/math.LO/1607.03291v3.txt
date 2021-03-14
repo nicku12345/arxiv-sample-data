@@ -1,0 +1,1 @@
+Given a family \mathcal{F} of subsets of \{1,\ldots,m\}, we try to compute the least natural number n such that for every function S:[\aleph_n]^{<\omega}\longrightarrow [\aleph_n]^{<\omega} there exists a bijection u:\{1,\ldots,m\}\longrightarrow Y\subset \aleph_n such that Su(A)\cap Y \subset u(A) for all A\in\mathcal{F}.

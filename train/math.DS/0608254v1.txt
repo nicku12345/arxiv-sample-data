@@ -1,0 +1,1 @@
+We consider a simple transformation (coding) of an iid source called a bit-shift channel. This simple transformation occurs naturally in magnetic or optical data storage. The resulting process is not Markov of any order. We discuss methods of computing the entropy of the transformed process, and study some of its properties.

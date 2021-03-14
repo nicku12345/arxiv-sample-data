@@ -1,0 +1,1 @@
+This note gives an explicit formula for the elements of the E(8) root system. The formula is triacontagonally symmetric in that one may clearly see an action by the cyclic group with 30 elements. The existence of such a formula is due to the fact that the Coxeter number of E(8) is 30.

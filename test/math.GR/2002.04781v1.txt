@@ -1,0 +1,1 @@
+In this article, we show that a group G is the union of two proper subsemigroups if and only if G has a nontrivial left-orderable quotient. Furthermore, if G is the union of two proper semigroups, then there exists a minimum normal subgroup N\unlhd G for which G/N is left-orderable and nontrivial.

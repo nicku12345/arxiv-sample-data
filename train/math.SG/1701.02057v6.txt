@@ -1,0 +1,1 @@
+We show that the cardinality of the transverse intersection of two compact exact Lagrangian submanifolds in a cotangent bundle is bounded from below by the dimension of the Hom space of sheaf quantizations of the Lagrangians in Tamarkin's category. Our sheaf-theoretic method can also deal with clean and degenerate Lagrangian intersections.

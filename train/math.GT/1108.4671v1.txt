@@ -1,0 +1,1 @@
+A specific set of 4g+1 elements is shown to generate the Goeritz group of the genus g+1 Heegaard splitting of a genus g handlebody. These generators are consistent with Powell's proposed generating set for the Goeritz group of the genus g+1 splitting of S^3. There are two proofs: one using purely classical techniques and one using thin position.

@@ -1,0 +1,1 @@
+We show that perturbing the definition of sl(n) Khovanov-Rozansky link homology gives a lower bound on the slice genus of a knot. As a corollary this yields another proof of Milnor's conjecture on the slice genus of torus knots.

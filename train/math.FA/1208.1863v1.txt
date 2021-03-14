@@ -1,0 +1,1 @@
+Let {A} be a system of operators. With any element x we associate the set of elements {Ax}. We study conditions under which there exists an element x such that the sum of p-th powers of norms of the elements {Ax} is equal to infinity.

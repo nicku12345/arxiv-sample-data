@@ -1,0 +1,1 @@
+We approach manifold topology by examining configurations of finite subsets of manifolds within the homotopy-theoretic context of \infty-categories by way of stratified spaces. Through these higher categorical means, we identify the homotopy types of such configuration spaces in the case of Euclidean space in terms of the category \mathbf{\Theta}_n.

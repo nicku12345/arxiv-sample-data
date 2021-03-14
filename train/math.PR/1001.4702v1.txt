@@ -1,0 +1,1 @@
+We study a continuous time random walk X in an environment of i.i.d. random conductances \mu_e\in[1,\infty). We obtain heat kernel bounds and prove a quenched invariance principle for X. This holds even when {\mathbb{E}}\mu_e=\infty.

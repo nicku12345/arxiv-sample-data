@@ -1,0 +1,1 @@
+The representation theory of the quantum group su_q(2) is used to introduce q-analogues of the Wigner rotation matrices, spherical functions, and Legendre polynomials. The method amounts to an extension of variable separation from Laplace equations to certain differential-dilation equations.

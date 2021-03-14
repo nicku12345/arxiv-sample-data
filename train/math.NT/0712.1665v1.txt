@@ -1,0 +1,1 @@
+We give explicit numerical values with 100 decimal digits for the constant in the Mertens product over primes in the arithmetic progressions a \bmod q, for q \in \{3, ..., 100\} and (a, q) = 1.

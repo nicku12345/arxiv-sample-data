@@ -1,0 +1,1 @@
+Let A be a coherent algebra and B be a finite-dimensional Gorenstein algebra over a field k. We describe finitely presented Gorenstein projective A\otimes_k B-modules in terms of their underlying onesided modules. Moreover, if the global dimension of B is finite, we give a more precise description of finitely presented Gorenstein projective A\otimes_k B-modules.

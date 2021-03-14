@@ -1,0 +1,1 @@
+The geometric Langlands correspondence for function fields over finite fields has been proved by Frenkel, Gaitsgory, Vilonen. The aim of this article is to write translation for curves over the complex field and prove the correspondence in some special cases and some new cases, outside the frame of the usual geometric Langlands correspondence.

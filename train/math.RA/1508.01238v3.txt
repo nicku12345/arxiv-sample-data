@@ -1,0 +1,1 @@
+Given a positive integer d, the Kaplansky-Lvov conjecture states that the set of values of a multilinear noncommutative polynomial f on the matrix algebra M_d(C) is a vector subspace. In this article the technique of using one-wiggle families of Sylvester's clock-and-shift matrices is championed to establish the conjecture for polynomials f of degree three when d is even or d<17.

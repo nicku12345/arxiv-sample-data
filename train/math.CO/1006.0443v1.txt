@@ -1,0 +1,1 @@
+The main purpose of this paper is to show the nonexistence of tight Euclidean 9-designs on 2 concentric spheres in \mathbb R^n if n\geq 3. This in turn implies the nonexistence of minimum cubature formulas of degree 9 (in the sense of Cools and Schmid) for any spherically symmetric integrals in \mathbb R^n if n\geq 3.

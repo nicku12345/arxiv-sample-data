@@ -1,0 +1,1 @@
+We present the formalization of Dirichlet's theorem on the infinitude of primes in arithmetic progressions, and Selberg's elementary proof of the prime number theorem, which asserts that the number \pi(x) of primes less than x is asymptotic to x/\log x, within the proof system Metamath.

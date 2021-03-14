@@ -1,0 +1,1 @@
+In this note, we prove the existence of a set of n-fold Pfister forms of cardinality 2^n over \mathbb{C}(x_1,\dots,x_n) which do not share a common (n-1)-fold factor. This gives a negative answer to a question raised by Becher. The main tools are the existence of the dyadic valuation on the complex numbers and recent results on symmetric bilinear over fields of characteristic 2.

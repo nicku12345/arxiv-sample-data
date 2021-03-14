@@ -1,0 +1,1 @@
+A metric space has the universal Lipschitz extension property if for each subspace S embedded quasi-isometrically into an arbitrary metric space M there exists a continuous linear extension of Banach-valued Lipschitz functions on S to those on all of M. We show that the finite direct sum of Gromov hyperbolic spaces of bounded geometry is universal in the sense of this definition.

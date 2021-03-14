@@ -1,0 +1,1 @@
+We generalize the constructions and results of Chapter 10 in Baldwin's "Categoricity" to coherent accessible categories with concrete directed colimits and concrete monomorphisms. In particular, we prove that if any category of this form is categorical in a successor, directed colimits of saturated objects are themselves saturated.

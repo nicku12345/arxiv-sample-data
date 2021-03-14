@@ -1,0 +1,1 @@
+We extend the range of linear systems of plane curves for which it is known that the dimension is equal to the expected dimension. We use a degeneration technique due to C. Ciliberto and R. Miranda. From our result we deduce, as a Corollary, a theorem due to Evain on homogeneous systems of curves through a number of base points given by a power of 4.

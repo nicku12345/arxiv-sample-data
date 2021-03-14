@@ -1,0 +1,1 @@
+This paper introduces a new approach to the study of rates of convergence for posterior distributions. It is a natural extension of a recent approach to the study of Bayesian consistency. In particular, we improve on current rates of convergence for models including the mixture of Dirichlet process model and the random Bernstein polynomial model.

@@ -1,0 +1,1 @@
+Let \ncal_{\phi_{\lambda}} be the nodal hypersurface of a \Delta-eigenfunction \phi_{\lambda} of eigenvalue \lambda^2 on a smooth Riemannian manifold. We prove the following lower bound for its surface measure: \hcal^{n-1}(\ncal_{\phi_{\lambda}}) \geq C \lambda^{\frac74-\frac{3n}4} . The best prior lower bound appears to be e^{- C \lambda}.

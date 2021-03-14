@@ -1,0 +1,1 @@
+The Hilali Conjecture predicts that for a simply-connected elliptic space, the total dimension of the rational homotopy does not exceed that of the rational homology. Here we give a proof of this conjecture for a class of elliptic spaces known as hyperelliptic.

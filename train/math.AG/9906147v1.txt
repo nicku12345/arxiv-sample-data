@@ -1,0 +1,1 @@
+Let k(d) be the maximal possible integer k such that there exists a plane curve of degree d with an A_k--singularity. We construct a plane curve of degree 28s+9 (s\in\Z_{\ge 0}) which has an A_k--singularity with k=420s^2+269s+42. Therefore one has \underline{\lim}_{d\to\infty}k(d)/d^2\ge 15/28 (pay attention that 15/28>1/2).

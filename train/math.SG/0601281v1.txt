@@ -1,0 +1,1 @@
+In this note we observe that Arnold conjecture for the Hamiltonian maps still holds on weighted projective spaces \CP^n({\bf q}), and that Arnold conjecture for the Lagrange intersections for (\CP^n({\bf q}), \RP^n({\bf q})) is also true if each weight q_i\in {\bf q}=\{q_1,..., q_{n+1}\} is odd.

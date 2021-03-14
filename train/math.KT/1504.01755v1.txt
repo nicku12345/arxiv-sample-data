@@ -1,0 +1,1 @@
+We present a framework for constructing examples of smooth projective curves over number fields with explicitly given elements in their second K-group using elementary algebraic geometry. This leads to new examples for hyperelliptic curves and smooth plane quartics. Moreover, we show that most previously known constructions can be reinterpreted using our framework.

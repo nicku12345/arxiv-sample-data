@@ -1,0 +1,1 @@
+In this article, we derive the weak limiting distribution of the least squares estimator (LSE) of a convex probability mass function (pmf) with a finite support. We show that it can be defined via a certain convex projection of a Gaussian vector. Furthermore, samples of any given size from this limit distribution can be generated using an efficient Dykstra-like algorithm.

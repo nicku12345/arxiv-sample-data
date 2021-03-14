@@ -1,0 +1,1 @@
+Let f: A\rightarrow B be a ring homomorphism and let J be an ideal of B. The purpose of this article is to examine the transfer of the properties of n-coherence and strong n-coherence from a ring A to his amalgamated algebra A\bowtie^{f} J. Also, we investigate the (n,d)-property of the amalgamated algebra A \bowtie^{f}J, to resolve Costa's first conjecture.

@@ -1,0 +1,1 @@
+We investigate the function d_A(n), which gives the size of a least size generating set for A^n.

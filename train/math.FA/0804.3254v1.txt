@@ -1,0 +1,1 @@
+We prove that the unique Gabor atom with analytical model space is the Gaussian function. We give an analogous result for the wavelet transform. For the general case we give a new approach to study the irregular Gabor and wavelet frames. We improve some results for Gabor atoms in the Feichtinger algebra, and for a special class of wavelets.

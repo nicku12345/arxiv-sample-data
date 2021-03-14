@@ -1,0 +1,1 @@
+Let N be a closed irreducible 3-manifold and assume N is not a graph manifold. We improve for all but finitely many S^1-bundles M over N the adjunction inequality for the minimal complexity of embedded surfaces. This allows us to completely determine the minimal complexity of embedded surfaces in all but finitely many S^1-bundles over a large class of 3-manifolds.

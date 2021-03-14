@@ -1,0 +1,1 @@
+Improving on a theorem of Heath-Brown, we show that if X is sufficiently large then a positive proportion of the values \{n^3+2:n\in (X,2X]\} have a prime factor larger than X^{1+10^{-52}}.

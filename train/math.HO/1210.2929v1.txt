@@ -1,0 +1,1 @@
+We study the eleven points in the plane of a given triangle, whose pedal triangles are similar to the given one. We prove that the six points whose pedal triangles are positively oriented, lie on a single circle, while the five points, whose pedal triangles are negatively oriented, lie on a common straight line.

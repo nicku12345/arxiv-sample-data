@@ -1,0 +1,1 @@
+We study the theta map which assigns to a real quadratic form its theta series. We introduce two invariants reflecting whether the differential of the theta map vanishes or is degenerate. We provide examples of lattices where this differential is zero. These invariants turn out to be modular forms for integral lattices. We illustrate this in the rank two case.

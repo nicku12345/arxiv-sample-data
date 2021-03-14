@@ -1,0 +1,1 @@
+For C^{*}-algebras A and B, the operator space projective tensor product A\hat{\otimes}B and the Banach space projective tensor product A\otimes_{\gamma}B are shown to be symmetric. We also show that A\hat{\otimes}B is weakly Wiener algebra. Finally, quasi-centrality, and the unitary group of A\hat{\otimes}B are discussed.

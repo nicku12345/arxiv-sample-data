@@ -1,0 +1,1 @@
+In this note, we give a new proof of subcritical Trudinger-Moser inequality on \mathbb{R}^n. All the existing proofs on this inequality are based on the rearrangement argument with respect to functions in the Sobolev space W^{1,n}(\mathbb{R}^n). Our method avoids this technique and thus can be used in the Riemannian manifold case and in the entire Heisenberg group.

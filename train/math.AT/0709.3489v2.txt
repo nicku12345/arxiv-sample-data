@@ -1,0 +1,1 @@
+We determine the v1-periodic homotopy groups of all irreducible p-compact groups (BX,X). In the most difficult, modular, cases, we follow a direct path from their associated invariant polynomials to these homotopy groups. We show that, if p is odd, every irreducible p-compact group has X of the homotopy type of a product of explicit spaces related to p-completed Lie groups.

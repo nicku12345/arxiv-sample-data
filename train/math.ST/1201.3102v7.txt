@@ -1,0 +1,1 @@
+Bounds on Bayesian posterior convergence rates, assuming the prior satisfies both local and global support conditions, are now readily available. In this paper we explore, in the context of density estimation, Bayesian convergence rates assuming only local prior support conditions. Our results give optimal rates under minimal conditions using very simple arguments.

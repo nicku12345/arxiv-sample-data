@@ -1,0 +1,1 @@
+Let U_q(\g) be a quantum generalized Kac-Moody algebra and let V(\Lambda) be the integrable highest weight U_q(\g)-module with highest weight \Lambda. We prove that the cyclotomic Khovanov-Lauda-Rouquier algebra R^\Lambda provides a categorification of V(\Lambda).

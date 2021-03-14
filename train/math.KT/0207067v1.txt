@@ -1,0 +1,1 @@
+For N=5 and N=6, we compute the Voronoi cell complex attached to real N-dimensional quadratic forms, and we obtain the homology of GL_N(Z) with trivial coefficients, up to small primes.   We also prove that K_5(Z) = Z and K_6(Z) has only 3-torsion.

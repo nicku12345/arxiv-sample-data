@@ -1,0 +1,1 @@
+These notes provide an informal introduction to a type of Mackey functor that arises naturally in algebraic topology in connection with Morava K-theory of classifying spaces of finite groups. The main aim is to identify key algebraic aspects of the Green functor structure obtained by applying a Morava K-theory to such classifying spaces.

@@ -1,0 +1,1 @@
+We consider cohomology of diagrams of algebras by Beck's approach, using comonads. We then apply this theory to computing the cohomology of \Psi-rings. Our main result is that there is a spectral sequence connecting the cohomology of the diagram of an algebra to the cohomology of the underlying algebra.

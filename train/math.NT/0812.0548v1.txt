@@ -1,0 +1,1 @@
+A continued fractions based verification of the Hurwitz values for the Hecke triangle groups is given, completing a program of Lehner's. Ergodic theory shows that Diophantine approximation by mediant convergents of the Rosen continued fractions is sufficient to determine the values that Haas and Series found by hyperbolic geometry.

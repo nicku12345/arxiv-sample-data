@@ -1,0 +1,1 @@
+For non-relativistic Schroedinger equations the lowering of their degree by substitution Psi(r) \to F(r) =Psi'(r) /Psi(r) is known to facilitate our understanding and use of their (incomplete, so called quasi-exact) solvability. We show that and how the radial Dirac relativistic equation may quasi-exactly be solved in similar spirit.

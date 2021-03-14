@@ -1,0 +1,1 @@
+Given bounded domains \Omega_1 and \Omega_2 in \mathds{R}^N and an isometry T from W^{1,p}(\Omega_1) to W^{1,p}(\Omega_2), we give sufficient conditions ensuring that T corresponds to a rigid motion of the space, i.e., Tu = \pm (u \circ \xi) for an isometry \xi, and that the domains are congruent. More general versions of the involved results are obtained along the way.

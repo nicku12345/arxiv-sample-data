@@ -1,0 +1,1 @@
+Let I be an intersection of three monomial prime ideals of a polynomial algebra S over a field. We give a special Stanley decomposition of I which provides a lower bound of the Stanley depth of I, greater than or equal to \depth\ (I), that is, Stanley's Conjecture holds for I.

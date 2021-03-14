@@ -1,0 +1,1 @@
+In the present paper, we first prove the logarithmic convexity of the elementary function \frac{b^x-a^x}x, where x\ne0 and b>a>0. Basing on this, we then provide a simple proof for Schur-convex properties of the extended mean values, and, finally, discover some convexity related to the extended mean values.

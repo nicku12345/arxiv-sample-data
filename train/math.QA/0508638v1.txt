@@ -1,0 +1,1 @@
+We prove that a certain bialgebroid introduced recently by Kadison is isomorphic to a bialgebroid introduced earlier by Connes and Moscovici. At the level of total algebras, the isomorphism is a consequence of the general fact that an L-R-smash product over a Hopf algebra is isomorphic to a diagonal crossed product.

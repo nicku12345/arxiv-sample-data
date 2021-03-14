@@ -1,0 +1,1 @@
+Leclerc recently studied certain Frobenius categories in connection with cluster algebra structures on coordinate rings of intersections of opposite Schubert cells. We show that these categories admit a description as Gorenstein projective modules over an Iwanaga-Gorenstein ring of virtual dimension at most two. This is based on a Morita type result for Frobenius categories.

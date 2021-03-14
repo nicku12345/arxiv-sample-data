@@ -1,0 +1,1 @@
+We consider in this paper the problem of computing the entropy of a braid. We recall its definition and construct, for each braid, a sequence of real numbers, whose limit is its entropy. We state one conjecture about the convergence speed, and two about the braids that have high entropy, but are written with few letters.

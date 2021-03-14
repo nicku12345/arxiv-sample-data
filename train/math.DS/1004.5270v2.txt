@@ -1,0 +1,1 @@
+In this paper it is proved that there is no minimal action (i.e. every orbit is dense) of Z^2 on the plane. The proof uses the non-existence of minimal homeomorphisms on the infinite annulus (Le Calvez-Yoccoz's theorem), and the theory of Brouwer homeomorphisms.

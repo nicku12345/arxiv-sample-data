@@ -1,0 +1,1 @@
+We prove that there exists M>0 such that for any closed rectifiable curve \Gamma in Hilbert space, almost every point in \Gamma is contained in a countable union of M chord-arc curves whose total length is no more than M times the length of \Gamma.

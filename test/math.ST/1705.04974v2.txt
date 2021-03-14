@@ -1,0 +1,1 @@
+We compute the maximal halfspace depth for a class of permutation-invariant distributions on the probability simplex. The derivations are based on stochastic ordering results that so far were only showed to be relevant for the Behrens-Fisher problem.

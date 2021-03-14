@@ -1,0 +1,1 @@
+A groupoid that satisfying the left invertive law is called an AG-groupoid.this concept is extended to introduce a Stein AG-groupoid. We provethe existence by providing some non-associative examples. We also explore some basic and general properties of these AG-groupoids and find their relations with other subclasses of AG-groupoids.

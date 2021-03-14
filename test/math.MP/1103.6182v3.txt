@@ -1,0 +1,1 @@
+In an N-body quantum system with a constant electric field, by inverse scattering, we uniquely reconstruct pair potentials, belonging to the optimal class of short-range potentials and long-range potentials, from the high-velocity limit of the Dollard scattering operator. We give a reconstruction formula with an error term.

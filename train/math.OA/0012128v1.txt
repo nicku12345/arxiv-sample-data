@@ -1,0 +1,1 @@
+We extend in this paper the characterisation of a separable nuclear \cst-algebra given by Kirchberg proving that given a unital separable continuous field of nuclear C*-algebras A over a compact metrizable space X, the C(X)-algebra A is isomorphic to a unital C(X)-subalgebra of the trivial continuous field C(X;O_2), image of C(X;O_2) by a norm one projection.

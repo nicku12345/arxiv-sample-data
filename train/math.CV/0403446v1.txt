@@ -1,0 +1,1 @@
+The paper gives the following characterization of the disc algebra in terms of the argument principle: A continuous function f on the unit circle T extends holomorphically through the unit disc if and only if for each polynomial P such that f+P has no zero on T the change of argument of f+P around T is nonnegative.

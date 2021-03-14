@@ -1,0 +1,1 @@
+We prove a Hardy-Sobolev-Maz'ya inequality for arbitrary domains \Omega\subset\R^N with a constant depending only on the dimension N\geq 3. In particular, for convex domains this settles a conjecture by Filippas, Maz'ya and Tertikas. As an application we derive Hardy-Lieb-Thirring inequalities for eigenvalues of Schr\"odinger operators on domains.

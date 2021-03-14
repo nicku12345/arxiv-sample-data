@@ -1,0 +1,1 @@
+The efficiency of distribution-free {\it integrated} goodness-of-fit tests was studied by Henze and Nikitin (2000, 2002) under location alternatives. We calculate local Bahadur efficiencies of these tests under more realistic generalized skew alternatives. They turn out to be unexpectedly high.

@@ -1,0 +1,1 @@
+We prove that an iterated function system of similarities on \mathbb{R} that satisfies the weak separation condition and has an interval as its self-similar set satisfies the stronger generalized finite type condition. It is unknown if the assumption that the self-similar set is an interval is necessary.

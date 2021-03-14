@@ -1,0 +1,1 @@
+We prove that the forgetful functor from groupoids to pregroupoids has a left adjoint, with the front adjunction injective. Thus we get an enveloping groupoid for any pregroupoid. We prove that the category of torsors is equivalent to that of pregroupoids. Hence we also get enveloping groupoids for torsors, and for principal fibre bundles.

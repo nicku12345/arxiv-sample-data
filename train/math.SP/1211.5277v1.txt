@@ -1,0 +1,1 @@
+In this paper we perform an explicit diagonalization of Hankel integral operators  K^{(0)}, K^{(1)}, K^{(2)}, ...  It turns out that each of these operators has a simple purely absolutely continuous spectrum filling in the interval  [-1,1] . This generalizes a result of Kostrykin and Makarov (2008).

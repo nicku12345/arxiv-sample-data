@@ -1,0 +1,1 @@
+We prove that, for a suitable iteration along a template, we can compute any name for a real from a Borel function coded in the ground model evaluated at only countably many of the generic reals.

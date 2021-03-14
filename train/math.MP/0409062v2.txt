@@ -1,0 +1,1 @@
+We consider the rational potentials of the one-dimensional mechanical systems, which have a family of periodic solutions with the same period (isochronous potentials). We prove that up to a shift and adding a constant all such potentials have the form U(x) = 1/2 \omega^2 x^2 or U(x) = 1/8 \omega^2 x ^2 + c^2 x^{-2}.

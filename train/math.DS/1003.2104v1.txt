@@ -1,0 +1,1 @@
+We prove that for any C^1-stably weakly shadowing transitive set \Lambda, either \Lambda is a sink or a source, or \Lambda admits a dominated splitting.

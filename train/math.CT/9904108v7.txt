@@ -1,0 +1,1 @@
+We discuss an example of a triangulated Hopf category related to SL(2). It is an equivariant derived category equipped with multiplication and comultiplication functors and structure isomorphisms. We prove some coherence equations for structure isomorphisms. In particular, the Hopf category is monoidal.

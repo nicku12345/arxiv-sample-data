@@ -1,0 +1,1 @@
+We introduce canonical antisymmetric quasiconformal maps, which minimize the quasiconformality constant among maps sending the unit circle to a given quasicircle. As an application we prove Astala's conjecture that the Hausdorff dimension of a k-quasicircle is at most 1+k^2.

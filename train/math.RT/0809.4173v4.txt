@@ -1,0 +1,1 @@
+For any n>3, we give a family of finite dimensional irreducible representations of the braid group B_n. Moreover, we give a subfamily parametrized by 0<m<n of dimension the combinatoric number (n,m). The representation obtained in the case m=1 is equivalent to the Standard representation.

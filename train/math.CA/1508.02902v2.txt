@@ -1,0 +1,1 @@
+Given two metric measure spaces X and Y. Let f:X\to Y be a measurable mapping and A\subset X. The Banach indicatrix (multiplicity function) is defined as N(y,f,A) = \#\{x\in A \mid f(x) = y\}. We prove measurability of this multiplicity function. The question was also discussed on http://mathoverflow.net/q/206780/15946.

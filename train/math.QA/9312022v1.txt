@@ -1,0 +1,1 @@
+The (co)homology theory of n-ary (co)compositions is a functor associating to n-ary (co)composition a complex. We present unified approach to the cohomology theory of coassociative and Lie coalgebras and for 2n-ary cocompositions. This approach points to a possible generalization.

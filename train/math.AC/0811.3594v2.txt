@@ -1,0 +1,1 @@
+The multigraded Hilbert scheme parametrizes all homogeneous ideals in a polynomial ring graded by an abelian group with a fixed Hilbert function. We prove that any multigraded Hilbert scheme is smooth and irreducible when the polynomial ring is ZZ[x,y], which establishes a conjecture of Haiman and Sturmfels.

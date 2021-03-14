@@ -1,0 +1,1 @@
+We explicitely compute the essential spectrum of the Laplace-Beltrami operator for p-forms for the class of warped product metrics d\sigma^2= y^{2a}dy^2 + y^{2b}d\theta_{\partial M}^2, where y is a boundary defining function on a compact manifold with boundary M.

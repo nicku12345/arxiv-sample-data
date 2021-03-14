@@ -1,0 +1,1 @@
+It is shown that Navier Stokes equation models with time dependent external forces in L2 can have singular solutions.

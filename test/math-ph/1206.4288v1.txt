@@ -1,0 +1,1 @@
+A discrete eigenvalue E_n of a Schroedinger operator H = -\Delta + vf(r) is given, as a function F_n(v) of the coupling parameter v\ge v_c. It is shown how the potential shape f(x) can be reconstructed from F_n(v). A constructive inversion algorithm and a functional inversion sequence are both discussed.

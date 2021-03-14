@@ -1,0 +1,1 @@
+We prove that two unital dual operator algebras A, B are stably isomorphic if and only if they are Delta-equivalent, if and only if they have completely isometric normal representations a, b on Hilbert spaces H, K respectively and there exists a ternary ring of operators M \subset B(H,K) such that a(A)=[M* b(B) M]^{-w^*} and b(B)=[M a(A) M*]^{-w^*}.

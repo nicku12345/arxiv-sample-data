@@ -1,0 +1,1 @@
+Let H a hyperelliptic curve and let f: C --> H be a cyclic etale covering of degree n, associated to a line bundle in Pic^0 (H) of order n . We prove that the Prym variety P=Prym(C / H) is isomorphic, as abelian varieties, to a product of jacobians when n is not divisible by 4.

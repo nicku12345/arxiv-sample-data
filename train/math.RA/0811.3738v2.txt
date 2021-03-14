@@ -1,0 +1,1 @@
+A criterion for subcoalgebras to be invariant under the adjoint action is given generalizing Masuoka's criterion for normal Hopf subalgebras. At the level of characters, the image of the induction functor from a normal Hopf subalgebra is isomorphic to the image of the restriction functor.

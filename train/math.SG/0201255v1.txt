@@ -1,0 +1,1 @@
+We give detailed descriptions of gluing pseudoholomorphic maps in symplectic geometry, especially in the presence of an obstruction bundle. The main motivation is to try to compare the symplectic and enumerative invariants of algebraic manifolds. These descriptions can also be used to enumerate rational curves with high-order degeneracies of local nature in projective spaces.

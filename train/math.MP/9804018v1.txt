@@ -1,0 +1,1 @@
+In this paper we give a method to obtain Darboux transformations (DTs) of integrable equations. As an example we give a DT of the dispersive water wave equation. Using the Miura map, we also obtain the DT of the Jaulent-Miodek equation. \end{abstract}

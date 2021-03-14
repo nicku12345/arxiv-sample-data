@@ -1,0 +1,1 @@
+We show that a reflective/coreflective pair of full subcategories satisfies a "maximal-normal"-type equivalence if and only if it is an associated pair in the sense of Kelly and Lawvere.

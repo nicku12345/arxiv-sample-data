@@ -1,0 +1,1 @@
+Let E be a modular elliptic curve defined over a rational function field k of odd characteristic. We construct a sequence of Heegner points on E, defined over a Z_p^{\infty}-tower of finite extensions of k, and show that these Heegner points generate a group of infinite rank. This is a function field analogue of a result of C.Cornut and V.Vatsal

@@ -1,0 +1,1 @@
+Let k be at most 0, and let X be a locally-finite CAT(k) polyhedral 2-complex X, each face with constant curvature k. Let E be a closed, rectifiably-connected subset of X with trivial first singular homology. We show that E, under the induced path metric, is a complete CAT(k) space.

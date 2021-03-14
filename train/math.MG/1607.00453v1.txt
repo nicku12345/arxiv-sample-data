@@ -1,0 +1,1 @@
+We present constructions inspired by the Ma-Schlenker example of~\cite{Ma:2012hl} that show the non-rigidity of spherical inversive distance circle packings. In contrast to the use in~\cite{Ma:2012hl} of an infinitesimally flexible Euclidean polyhedron, embeddings in de Sitter space, and Pogorelov maps, our elementary constructions use only the inversive geometry of the 2-sphere.

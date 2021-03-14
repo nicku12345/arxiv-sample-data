@@ -1,0 +1,1 @@
+With G_k(n) the number of functions of n boolean variables definable by k-SAT formulae, we prove that G_3(n) is asymptotic to 2^{n+\binom{n}{3}}. This is a strong form of the case k=3 of a conjecture of Bollob\'as, Brightwell and Leader stating that for fixed k, \log_2 G_k(n)\sim \binom{n}{k}.

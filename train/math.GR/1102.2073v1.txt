@@ -1,0 +1,1 @@
+If G is a group with a presentation of the form < x,y|x^3=y^5=W(x,y)^2=1 >, then either G is virtually soluble or G contains a free subgroup of rank 2. This provides additional evidence in favour of a conjecture of Rosenberger.

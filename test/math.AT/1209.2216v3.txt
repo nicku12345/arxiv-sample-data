@@ -1,0 +1,1 @@
+We show that, in general, over a regular integral noetherian affine scheme X of dimension at least 6, there exist Brauer classes on X for which the associated division algebras over the generic point have no Azumaya maximal orders over X. Despite the algebraic nature of the result, our proof relies on the topology of classifying spaces of algebraic groups.

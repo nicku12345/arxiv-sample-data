@@ -1,0 +1,1 @@
+We propose an empirical estimator of the preferential attachment function f in the setting of general preferential attachment trees. Using a supercritical continuous-time branching process framework, we prove the almost sure consistency of the proposed estimator. We perform simulations to study the empirical properties of our estimators.

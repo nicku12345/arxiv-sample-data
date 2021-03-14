@@ -1,0 +1,1 @@
+A \Sigma-construction of Solovay is partially extended to the case of intermediate sets which are not necessarily subsets of the ground model. As an application, we prove that, for a given name t, the set of all sets t[G], G being generic over the ground model, is Borel. This result was first established by Zapletal by a totally different descriptive set theoretic argument.

@@ -1,0 +1,1 @@
+We give a classification theorem for unital separable nuclear simple \CA s with tracial rank no more than one. Let A and B be two unital separable simple nuclear \CA s with TR(A), TR(B)\le 1 which satisfy the universal coefficient theorem. We show that A\cong B if and only if  (K_0(A), K_0(A)_+, [1_A], K_1(A), T(A)) \cong (K_0(B), K_0(B)_+, [1_B], K_1(B), T(B)). 

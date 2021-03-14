@@ -1,0 +1,1 @@
+We prove that for any bounded functions f_1, f_2 on a measure-preserving dynamical system (X,T) and any distinct integers a_1, a_2, for almost every x the sequence  f_1(T^{a_1 n}x) f_2(T^{a_2 n}x)  is a good weight for the pointwise ergodic theorem.

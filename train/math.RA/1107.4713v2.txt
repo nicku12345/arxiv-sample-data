@@ -1,0 +1,1 @@
+Let G be any group and F an algebraically closed field of characteristic zero. We show that any G-graded finite dimensional associative G-simple algebra over F is determined up to a G-graded isomorphism by its G-graded polynomial identities. This result was proved by Koshlukov and Zaicev in case G is abelian.

@@ -1,0 +1,1 @@
+The quaternion equation X^n=A is solved for any integer number n > 1. A is a given quaternion with komplex numbers as its elements. We use the isomorphism between quaternions and (4,4)-matrices to solve this equation.

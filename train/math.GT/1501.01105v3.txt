@@ -1,0 +1,1 @@
+The slope conjecture proposed by Garoufalidis asserts that the Jones slopes given by the sequence of degrees of the colored Jones polynomials are boundary slopes. We verify the slope conjecture for graph knots, i.e. knots whose Gromov volume vanish.

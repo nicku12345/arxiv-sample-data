@@ -1,0 +1,1 @@
+In this paper, we discuss scalar Lagrangian multipliers and vector Lagrangian multipliers for constrained set-valued optimization problems. We obtain some necessary conditions, sufficient conditions, as well as necessary and sufficient conditions for the existence of weakly efficient solutions.

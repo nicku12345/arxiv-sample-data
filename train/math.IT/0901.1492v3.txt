@@ -1,0 +1,1 @@
+We establish an information theoretic inequality concerning the binary skew-symmetric broadcast channel that was conjectured by one of the authors. This inequality helps to quantify the gap between the sum rate obtained by the inner bound and outer bound for the binary skew-symmetric broadcast channel.

@@ -1,0 +1,1 @@
+In this paper properties of the quantum supermatrices in the quantum supergroup GL_{p,q}(1|1) are discussed. It is shown that any element of GL_{p,q}(1|1) can be expressed as the exponential of a matrix of non-commuting elements, like the group GL_q(1|1). An explicit construction of this exponential representation is presented.

@@ -1,0 +1,1 @@
+We prove upper bounds for sub-Laplacian eigenvalues independent of a pseudo-Hermitian structure on a CR manifold. These bounds are compatible with the Menikoff-Sjoestrand asymptotic law, and can be viewed as a CR version of Korevaar's bounds for Laplace eigenvalues of conformal metrics.

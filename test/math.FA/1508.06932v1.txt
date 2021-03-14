@@ -1,0 +1,1 @@
+Let K be a spherically complete field with a non-Archimedean valuation. We define a new version of K-amenability for discrete groups and show that the Banach K-algebra l^1(G) is amenable iff G is K-amenable in our sense.

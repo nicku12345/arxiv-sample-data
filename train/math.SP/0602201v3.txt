@@ -1,0 +1,1 @@
+Let G be a stratified Lie group and L be the sub-Laplacian on G. Let 0 \neq f\in S(R^+).   We show that Lf(L)\delta, the distribution kernel of the operator Lf(L), is an admissible function on G. We also show that, if \xi f(\xi) satisfies Daubechies' criterion, then L f(L)\delta generates a frame for any sufficiently fine lattice subgroup of G.

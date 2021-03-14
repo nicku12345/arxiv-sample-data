@@ -1,0 +1,1 @@
+We prove some smoothing effects for the 3-D Navier-Stokes equations for initial data belonging to the critical Sobolev space H^{1/2}(\R^3). Asymptotic behavior of the global solution when the time goes to infinity is studied. We also obtain a new energy estimate. Other results in this direction and with different methods can be found in \cite{C4}.

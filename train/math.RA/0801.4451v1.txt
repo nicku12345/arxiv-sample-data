@@ -1,0 +1,1 @@
+Let R be a commutative ring, G a group and RG its group ring. Let \vp : RG\to RG denote the R-linear extension of an involution \vp defined on G. An element x in RG is said to be \vp-antisymmetric if \vp (x) = -x. A characterization is given of when the \vp-antisymmetric elements of RG commute. This is a completion of earlier work.

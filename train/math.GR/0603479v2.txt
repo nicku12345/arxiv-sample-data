@@ -1,0 +1,1 @@
+We prove that the properties of acting metrically properly on some space with walls or some CAT(0) cube complex are closed by taking the wreath product with \Z. We also give a lower bound for the (equivariant) Hilbert space compression of H\wr\Z in terms of the (equivariant) Hilbert space compression of H.

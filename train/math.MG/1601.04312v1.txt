@@ -1,0 +1,1 @@
+Let K be a convex body. It is known that, in general, if K is a k-fold translative tile (for some positive integer k), then K may not be a (onefold) translative tile. However, in this paper I will show that for every convex body K, K is a twofold translative tile if and only if K is a translative tile.

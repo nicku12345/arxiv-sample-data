@@ -1,0 +1,1 @@
+We consider a time-homogeneous Markov chain X_n, n\ge0, valued in {\bf R}. Suppose that this chain is transient, that is, X_n generates a \sigma-finite renewal measure. We prove the key renewal theorem under condition that this chain has asymptotically homogeneous at infinity jumps and asymptotically positive drift.

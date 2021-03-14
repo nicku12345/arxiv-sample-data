@@ -1,0 +1,1 @@
+We say that a topological n-manifold N is a cubical n-manifold if it is contained in the n-skeleton of the canonical cubulation \mathcal{C} of {\mathbb{R}}^{n+k} (k\geq1). In this paper, we prove that any closed, oriented cubical 2-manifold has a transverse field of 2-planes in the sense of Whitehead and therefore it is smoothable by a small ambient isotopy.

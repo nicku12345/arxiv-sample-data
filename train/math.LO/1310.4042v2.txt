@@ -1,0 +1,1 @@
+We note that some form of the condition "p_1, p_2 have a \leq_{\mathbb{Q}}-lub in \mathbb{Q}" is necessary in some forcing axiom for \lambda-complete \mu^+-c.c. forcing notions. We also show some versions are really stronger than others.

@@ -1,0 +1,1 @@
+We consider the action of p-toral subgroups of U(n) on the unitary partition complex \mathcal L_n. We show that if H\subseteq U(n) is p-toral and has noncontractible fixed points on \mathcal L_n, then the image of H in the projective unitary group U(n)/S^{1} is an elementary abelian p-group.

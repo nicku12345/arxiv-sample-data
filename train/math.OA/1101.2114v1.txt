@@ -1,0 +1,1 @@
+We give conditions for when the tensor product of two positive maps between matrix algebras is a positive map. This happens when one map belongs to a symmetric mapping cone and the other to the dual cone. Necessary and sufficient conditions are given.

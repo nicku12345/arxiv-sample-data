@@ -1,0 +1,1 @@
+We describe the possible Mordell-Weil groups for degree 1 elliptic threefold with rational base and constant j-invariant. Moreover, we classify all such elliptic threefolds if the j-invariant is nonzero. We can use this classification to describe a class of singular hypersurfaces in \Ps(2,3,1,1,1) that admit no variation of Hodge structure.

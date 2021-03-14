@@ -1,0 +1,1 @@
+Suppose that a finitely generated group G is hyperbolic relative to a collection of subgroups \{H_1, ..., H_m\} . We prove that if each of the subgroups H_1, ..., H_m has finite asymptotic dimension, then asymptotic dimension of G is also finite.

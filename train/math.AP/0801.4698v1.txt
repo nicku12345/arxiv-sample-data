@@ -1,0 +1,1 @@
+We study the large time behavior of solutions to the dissipative Korteweg-de Vrie equations u_t+u_{xxx}+|D|^{\alpha}u+uu_x=0 with 0<\alpha<2. We find v such that u-v decays like t^{-r(\alpha)} as t\to\infty in various Sobolev norm.

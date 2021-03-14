@@ -1,0 +1,1 @@
+We show that the homotopy colimit construction for diagrams of categories with an operad action, recently introduced by Fiedorowicz, Stelzer and Vogt, has the desired homotopy type for diagrams of weak braided monoidal categories. This provides a more flexible way to realize E-2 spaces categorically.

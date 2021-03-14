@@ -1,0 +1,1 @@
+We consider the Dickman function \Psi (x,y) in the limit when \ln x/\ln y\to \infty  and \ln \ln x \ln y\to 0. The asymptotic value is expressed in terms of the ratio of iterated loragithm of x and ln y.

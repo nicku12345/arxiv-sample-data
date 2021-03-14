@@ -1,0 +1,1 @@
+It is shown that if A is an analytic class of separable Banach spaces with separable dual, then the set A^*=\{Y:\exists X\in A \text{with} Y\cong X^*\} is analytic. The corresponding result for pre-duals is false.

@@ -1,0 +1,1 @@
+We prove that the circle S_1 does not have a 2-mean, i.e., S_1 times S_1 cannot have a retraction r onto its diagonal with r(x,y) = r(y,x), whenever x,y in S_1. Our proof is combinatorial and topological rather than analytical.

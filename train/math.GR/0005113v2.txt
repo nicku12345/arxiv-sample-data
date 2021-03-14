@@ -1,0 +1,1 @@
+We generalize a class of groups defined by Rostislav Grigorchuk to a much larger class of groups, and provide upper and lower bounds for their word growth (they are all of intermediate growth) and period growth (under a small additional condition, they are periodic).

@@ -1,0 +1,1 @@
+We present a deterministic and explicit algorithm to compute the endomorphism rings of supersingular elliptic curves. As an example we compute the endomorphism rings of all supersingular elliptic curves defined over characteristic p=29,...,97.

@@ -1,0 +1,1 @@
+We obtain a characterisation of the Fourier transform on the space of Schwartz class functions on \mathbb{R}^n. The result states that any appropriately additive bijection of the Schwartz space onto itself, which interchanges convolution and pointwise products is essentially the Fourier transform.

@@ -1,0 +1,1 @@
+We prove that if two path algebras with homogeneous relations are isomorphic as algebras, then they are isomorphic as graded path algebras. This extends a result by Bell and Zhang in the connected case.

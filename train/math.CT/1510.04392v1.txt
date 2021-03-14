@@ -1,0 +1,1 @@
+We prove that various structures on model \infty-categories descend to corresponding structures on their localizations: (i) Quillen adjunctions; (ii) two-variable Quillen adjunctions; (iii) monoidal and symmetric monoidal model structures; and (iv) enriched model structures.

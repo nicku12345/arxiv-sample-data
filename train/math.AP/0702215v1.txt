@@ -1,0 +1,1 @@
+We prove the global well-posedness of the critical dissipative quasi-geostrophic equation for large initial data belonging to the critical Besov space \dot B^0_{\infty,1}(\RR^2).

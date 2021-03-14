@@ -1,0 +1,1 @@
+We define scoring metrics on separable metric spaces and show that they are always no coarser than the metrics from which they spring.

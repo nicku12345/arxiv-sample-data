@@ -1,0 +1,1 @@
+In this note we show that all reductive groups are clean in odd characteristic. In characteristic 2 there are two cuspidal local systems (one for F_4 and one for E_8) which can not be handled by our method.

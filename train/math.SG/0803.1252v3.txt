@@ -1,0 +1,1 @@
+We study naturality properties of the transverse invariant in knot Floer homology under contact (+1)-surgery. This can be used as a calculational tool for the transverse invariant. As a consequence, we show that the Eliashberg-Chekanov twist knots E_n are not transversely simple for n odd and n>3.

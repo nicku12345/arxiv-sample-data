@@ -1,0 +1,1 @@
+Let n>1 and G be the group SU(n) or Sp(n). This paper constructs compact symplectic manifolds whose symplectic quotient under a Hamiltonian G-action does not inherit the strong Lefschetz property.

@@ -1,0 +1,1 @@
+We show that \sqrt{k}\cdot r^{k/2} is a threshold interval length where, under mild conditions, almost every r-coloring of an interval of longer length contains a monochromatic k-term arithmetic progression, while almost no r-coloring of an interval of shorter length contains a monochromatic k-term arithmetic progression.

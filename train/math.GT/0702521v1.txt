@@ -1,0 +1,1 @@
+We give a few simple methods to geometically describe some polygon and chain-spaces in R^d. They are strong enough to give tables of m-gons and m-chains when m <= 6.

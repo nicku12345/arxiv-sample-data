@@ -1,0 +1,1 @@
+In this paper we show that any ergodic measure preserving transformation of a standard probability space which is AT(n) for some positive integer n has zero entropy. We show that for every positive integer n any Bernoulli shift is not AT(n). We also give an example of a transformation which has zero entropy but does not have property AT(n), for any integer n\geq 1.

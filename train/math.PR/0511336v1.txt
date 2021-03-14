@@ -1,0 +1,1 @@
+In this note, with the help of the boundary classification of diffusions, we derive a criterion of the convergence of perpetual integral functionals of transient real-valued diffusions. In the particular case of transient Bessel processes, we note that this criterion agrees with the one obtained via Jeulin's convergence lemma.

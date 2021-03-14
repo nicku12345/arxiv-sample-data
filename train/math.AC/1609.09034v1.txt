@@ -1,0 +1,1 @@
+Let R be a commutative ring with identity. We investigate some ring-theoretic properties of weakly Laskerian R-modules. Our results indicate that weakly Laskerian rings behave as Noetherian ones in many respects. However, we provide some examples to illustrate the strange behavior of these rings in some other respects.

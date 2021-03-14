@@ -1,0 +1,1 @@
+The proof of Theorem 11 of the paper M. Scheepers, Remarks on countable tightness, Topology and its Applications 161 (2014), 407 - 432 relies on Lemma 10 of that paper. The offered proof of Lemma 10 had shortcomings, and I was recently asked for details. This note gives an alternative, complete proof of Lemma 10.

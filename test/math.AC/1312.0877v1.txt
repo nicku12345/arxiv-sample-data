@@ -1,0 +1,1 @@
+The paper proves that all power series over a maximal ordered Cauchy complete non-Archimedean field satisfy the intermediate value theorem on every closed interval. Hensel's Lemma for restricted power series is the main tool of the proof.

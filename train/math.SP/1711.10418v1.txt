@@ -1,0 +1,1 @@
+We study magnetic Schr\"odinger operators on graphs. We extend the notion of sparseness of graphs by including a magnetic quantity called the frustration index. This notion of magnetic sparse turn out to be equivalent to the fact that the form domain is an \ell^{2} space. As a consequence, we get criteria of discreteness for the spectrum and eigenvalue asymptotics.

@@ -1,0 +1,1 @@
+In this paper it is shown that it is possible to associate several polynomial ideals to a directed graph D in order to find properties of it. In fact by using algebraic tools it is possible to give appropriate procedures for automatic reasoning on cycles and directed cycles of graphs.

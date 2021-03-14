@@ -1,0 +1,1 @@
+Let f: [0,1]\times [0,1] \setminus {1/2} \to [0,1]\times [0,1] be the C^\infty endomorphism given by f(x,y)=(2x- [2x], y+ c/|x-1/2|- [y+ c/|x-1/2|]), where c is a positive real number. We prove that f is topologically mixing and if c>1/4 then f is mixing with respect to Lebesgue measure. Furthermore we prove that the speed of mixing is exponential.

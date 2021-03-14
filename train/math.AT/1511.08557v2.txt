@@ -1,0 +1,1 @@
+We prove that the pseudoisotopy stable range for manifolds of dimension 2n can be no better than (2n-2). In order to do so, we define new characteristic classes for block bundles, extending our earlier work with Ebert, and prove their non-triviality. We also explain how similar methods show that Top(2n)/O(2n) is rationally (4n-5)-connected.

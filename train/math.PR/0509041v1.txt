@@ -1,0 +1,1 @@
+In a previous paper, we have shown that the gamma subordinators may be represented as inverse local times of certain diffusions. In the present paper, we give such representations for other subordinators whose L\'evy densities are of the form  \frac{\mathcal{C}}{(\sinh(y))^\gamma}, 0 < \gamma < 2, and the more general family obtained from those by exponential tilting.

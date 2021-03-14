@@ -1,0 +1,1 @@
+There exist uniquely ergodic affine interval exchange transformations of [0,1] with flips having wandering intervals and such that the support of the invariant measure is a Cantor set.

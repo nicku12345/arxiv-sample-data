@@ -1,0 +1,1 @@
+Let S be a polynomial ring in n variables, over an arbitrary field. We give the total, graded, and multigraded Betti numbers of S/M, for every monomial ideal M in S. We also give an explicit characterization of all monomial ideals M in S for which the quotient S/M has projective dimension n.

@@ -1,0 +1,1 @@
+In this paper, we investigate additive properties of generalized Drazin inverse for linear operators in Banach spaces. Under new polynomial conditions on generalized Drazin invertible operators a and b, we prove their sum has generalized Drazin inverse and give explicit representations of the generalized inverse (a+b)^d.

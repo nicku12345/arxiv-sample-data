@@ -1,0 +1,1 @@
+An elementary, at the undergraduate level derivation is given of precise upper bounds of the number of various RNA secondary structures. The method works when the generating function has multiple singularities at the circle of convergence, nor does the method require the Taylor coefficients to be positive. Examples from the current research literature are considered.

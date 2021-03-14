@@ -1,0 +1,1 @@
+We provide a strengthened version of the famous Jakobson's theorem. Consider an interval map f satisfying a summability condition. For a generic one-parameter family f_t of maps with f_0=f, we prove that t=0 is a Lebesgue density point of the set of parameters for which f_t satisfies both the Collect-Eckmann condition and a strong polynomial recurrence condition.

@@ -1,0 +1,1 @@
+A space X is said to be hereditarily indecomposable if no two (infinite dimensional) subspaces of X are in a direct sum. In this paper, we show that if X is a complex hereditarily indecomposable Banach space, then every operator from a subspace Y of X to X is of the form \lambda I + S, where I is the inclusion map and S is strictly singular.

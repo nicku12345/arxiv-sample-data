@@ -1,0 +1,1 @@
+A theorem of J. Kruskal from 1977, motivated by a latent-class statistical model, established that under certain explicit conditions the expression of a 3-dimensional tensor as the sum of rank-1 tensors is essentially unique. We give a new proof of this fundamental result, which is substantially shorter than both the original one and recent versions along the original lines.

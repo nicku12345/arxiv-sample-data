@@ -1,0 +1,1 @@
+Starting from the observation of an R^n-Gaussian vector of mean f and covariance matrix \sigma^2 I_n (I_n is the identity matrix), we propose a method for building a Euclidean confidence ball around f, with prescribed probability of coverage. For each n, we describe its nonasymptotic property and show its optimality with respect to some criteria.

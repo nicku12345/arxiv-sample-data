@@ -1,0 +1,1 @@
+Considering a simple symmetric random walk in dimension d\geq 3, we study the almost sure joint asymptotic behavior of two objects: first the local times of a pair of neighboring points, then the local time of a point and the occupation time of the surface of the unit ball around it.

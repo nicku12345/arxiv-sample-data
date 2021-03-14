@@ -1,0 +1,1 @@
+We present a version of enriched Yoneda lemma for conventional (not infinity-) categories. We require the base monoidal category to have colimits, but do not require it to be closed or symmetric monoidal.

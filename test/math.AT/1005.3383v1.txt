@@ -1,0 +1,1 @@
+In this paper we study the Linial-Meshulam model of random two-dimensional complexes. We prove that a random 2-complex is homotopically one dimensional, with probability tending to one as n tends to infitnity, assuming that the probability parameter p satisfies pn --> 0.

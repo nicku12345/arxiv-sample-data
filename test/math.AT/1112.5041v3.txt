@@ -1,0 +1,1 @@
+We prove that the complement of a toric arrangement has the homotopy type of a minimal CW complex. As a corollary we obtain that the integer cohomology of these spaces is torsion free. We use Discrete Morse Theory, providing a sequence of cellular collapses that leads to a minimal complex.

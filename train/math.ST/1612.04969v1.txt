@@ -1,0 +1,1 @@
+This note shows that adding monotonicity or convexity constraints on the regression function does not restore well-posedness in nonparametric instrumental variable regression. The minimum distance problem without regularisation is still locally ill-posed.

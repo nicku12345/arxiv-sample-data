@@ -1,0 +1,1 @@
+We use higher parallel transport -- more precisely, the integration A_{infty}-functor constructed by Block-Smith and Arias Abad-Schaetz -- to define Reidemeister torsion for flat superconnections. We hope that the combinatorial Reidemeister torsion coincides with the analytic torsion defined by Mathai and Wu, thus permitting for a generalization of the Cheeger-Mueller Theorem.

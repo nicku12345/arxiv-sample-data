@@ -1,0 +1,1 @@
+We consider a semi-algebraic function defined on a closed semi-algebraic set X. We give formulas relating the topology of X to the indices of the critical points of the function and to the topological behavior of the function at infinity. We give applications when X is R^n and when the function is linear.

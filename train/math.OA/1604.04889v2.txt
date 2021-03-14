@@ -1,0 +1,1 @@
+Green's theorem gives a Morita equivalence C_0(G/H,A)\rtimes G\sim A\rtimes H for a closed subgroup H of a locally compact group G acting on a C^*-algebra A. We prove an analogue of Green's theorem in the case G=\mathbb{Z}, where the automorphism generating the action is replaced by a Hilbert C^*-bimodule.

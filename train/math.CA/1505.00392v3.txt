@@ -1,0 +1,1 @@
+In this paper, we introduce a generalization of the Bleimann-Butzer-Hahn operators based on (p,q)-integers and obtain Korovkin's type approximation theorem for these operators. Furthermore, we compute convergence of these operators by using the modulus of continuity.

@@ -1,0 +1,1 @@
+A partially ordered set P is representable if there is a bounded distributive lattice such that its ordered set of prime ideals is order-isomorphic to P. We show that if the order components of a poset P are representable, then so is P. Moreover, we provide an example disproving the converse.

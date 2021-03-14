@@ -1,0 +1,1 @@
+Analytic evaluation of Gordon's integral \operatorname {J}_c^{j(\pm p)}(b,b';\lambda,w,z)=\int_0^\infty x^{c+j-1}e^{-\lambda x}{}_1F_1(b;c;wx){}_1F_1(b';c\pm p;zx)dx, are given along with convergence conditions. It shows enormous number of definite integrals, frequently appear in theoretical and mathematical physics applications, easily deduced from this generalized integral.

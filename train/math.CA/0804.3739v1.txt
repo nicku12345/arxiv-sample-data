@@ -1,0 +1,1 @@
+A hierarchy of matrix-valued polynomials which generalize the Jacobi polynomials is found. Defined by a Rodrigues formula, they are also products of a sequence of differential operators. Each class of polynomials is complete, satisfies a two-step recurrence relation, integral inter-relations, and quasi-orthogonality relations.

@@ -1,0 +1,1 @@
+We investigate the soliton dynamics for a class of nonlinear Schr\"odinger equations with a non-local nonlinear term. In particular, we consider what we call {\em generalized Choquard equation} where the nonlinear term is (|x|^{\theta-N} * |u|^p)|u|^{p-2}u. This problem is particularly interesting because the ground state solutions are not known to be unique or non-degenerate.

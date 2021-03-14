@@ -1,0 +1,1 @@
+Let Homeo(\Omega) be the group of all homeomorphisms of a Cantor set \Omega. We study topological properties of Homeo(\Omega) and its subsets with respect to the uniform (\tau) and weak (\tau_w) topologies. The classes of odometers and periodic, aperiodic, minimal, rank 1 homeomorphisms are considered and the closures of those classes in \tau and \tau_w are found.

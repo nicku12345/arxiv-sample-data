@@ -1,0 +1,1 @@
+We prove that multimodal maps with an absolutely continuous invariant measure have exponential return time statistics around a.e. point. We also show a `polynomial Gibbs property' for these systems, and that the convergence to the entropy in the Ornstein-Weiss formula has normal fluctuations. These results are also proved for equilibrium states of some Hoelder potentials.

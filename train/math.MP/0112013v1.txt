@@ -1,0 +1,1 @@
+We prove quantum dynamical upper bounds for operators from the Fibonacci hull. These bounds hold for sufficiently large coupling and they are uniform in the phase. This extends recent work by Killip, Kiselev and Last who obtained these bounds for one particular phase. The main ingredient in our proof is a detailed combinatorial analysis of the sequences in the Fibonacci hull.

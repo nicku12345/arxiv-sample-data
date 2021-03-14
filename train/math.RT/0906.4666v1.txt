@@ -1,0 +1,1 @@
+We prove that the set of closed orbits in a real reductive representation contains a subset which is open with respect to the real Zariski topology if it has non-empty interior. In particular the set of closed orbits is dense.

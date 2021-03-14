@@ -1,0 +1,1 @@
+This paper deals with the estimation of hidden periodicities in a non-linear regression model with stationary noise displaying cyclical dependence. Consistency and asymptotic normality are established for the least-squares estimates.

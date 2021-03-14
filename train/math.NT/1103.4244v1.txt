@@ -1,0 +1,1 @@
+Let \Gamma = Z A +Z^n be a dense subgroup with rank n+1 in R^n and let \omega(A) denote the exponent of uniform simultaneous rational approximation to the point A. We show that for any real number v\ge \omega(A), the Hausdorff dimension of the set B_v of points in R^n which are v-approximable with respect to \Gamma, is equal to 1/v.

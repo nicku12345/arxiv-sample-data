@@ -1,0 +1,1 @@
+For a compact, connected metric graphs with a boundary that consists of k vertices, we prove that an arbitrary symmetric k\times k matrix with real entries can be realized as the Dirichlet-to-Neumann operator for the Laplacian plus a constant.

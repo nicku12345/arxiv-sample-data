@@ -1,0 +1,1 @@
+This paper is devoted to understand groups definable in Presburger arithmetic. We prove the following theorems: Theorem 1. Every group definable in a model of Presburger Arithmetic is abelian-by-finite. Theorem 2. Every bounded group definable in a model (Z,+,<) of Presburger Arithmetic is definably isomorphic to (Z, +)^{n} mod out by a lattice.

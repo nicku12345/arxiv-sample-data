@@ -1,0 +1,1 @@
+We give a characterisation of the extriangulated categories which admit the structure of a triangulated category. We show that these are the extriangulated categories where for every object X in the extriangulated category, the morphism 0 \rightarrow X is a deflation and the morphism X \rightarrow 0 is an inflation.

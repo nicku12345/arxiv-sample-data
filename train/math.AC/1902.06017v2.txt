@@ -1,0 +1,1 @@
+Let R \to S be a local ring homomorphism and N a finitely generated S-module. We prove that if the Gorenstein injective dimension of N over R is finite, then it equals the depth of R.

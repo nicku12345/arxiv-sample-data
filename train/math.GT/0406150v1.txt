@@ -1,0 +1,1 @@
+We show how Seifert surfaces, so useful for the understanding of the Alexander polynomial \Delta_L(t), can be generalized in order to study the multivariable Alexander polynomial \Delta_L(t_1,...,t_\mu). In particular, we give an elementary and geometric proof of the Torres formula.

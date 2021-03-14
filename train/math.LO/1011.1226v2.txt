@@ -1,0 +1,1 @@
+We define the notion of subspace of an arithmetic universe by using its internal dependent type theory.

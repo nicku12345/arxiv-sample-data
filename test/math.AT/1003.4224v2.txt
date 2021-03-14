@@ -1,0 +1,1 @@
+We give a generalized version of the Freyd conjecture and a way to think about a possible proof. The essential point is to describe an elementary formal reduction of the question that holds in any triangulated category. There are no new results, but at least one known example drops out quite trivially.

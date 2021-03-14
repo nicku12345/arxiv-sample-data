@@ -1,0 +1,1 @@
+We give results characterising ternary Kloosterman sums modulo 9 and 27. This leads to a complete characterisation of values that ternary Kloosterman sums assume modulo 18 and 54. The proofs uses Stickelberger's theorem, the Gross-Koblitz formula and Fourier analysis.

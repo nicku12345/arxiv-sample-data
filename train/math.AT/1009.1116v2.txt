@@ -1,0 +1,1 @@
+On the tensor product of two homotopy Gerstenhaber algebras we construct a Hirsch algebra structure which extends the canonical dg algebra structure. Our result applies more generally to tensor products of "level 3 Hirsch algebras" and also to the Mayer-Vietoris double complex.

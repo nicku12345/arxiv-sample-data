@@ -1,0 +1,1 @@
+We study a skew product with a curve of neutral points. We show that there exists a unique absolutely continuous invariant probability measure, and that the Birkhoff averages of a sufficiently smooth observable converge to a normal law or a stable law, depending on the average of the observable along the neutral curve.

@@ -1,0 +1,1 @@
+We consider many-body problems in classical mechanics where a wide range of time scales limits what can be computed. We apply the method of optimal prediction to obtain equations which are easier to solve numerically. We demonstrate by examples that optimal prediction can reduce the amount of computation needed to obtain a solution by several orders of magnitude.

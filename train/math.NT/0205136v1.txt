@@ -1,0 +1,1 @@
+We prove that for integers a>b>c>0, the greatest prime factor of (ab+1)(ac+1) tends to infinity with a.

@@ -1,0 +1,1 @@
+The morphism axiom for n-angulated categories states that a morphism between the bases of two n-angles can be extended to a morphism of n-angles. We show that this axiom is redundant. For triangulated categories, this was proved by J.P. May.

@@ -1,0 +1,1 @@
+We show that any two homomorphisms of the alternating group A_5 into E_8 (over the complex numbers) whose images has finite centralizers are conjugate under E_8. This, in conjunction with earlier work of Frey, completes the classification up to G-conjugacy of homomorphisms of A_5 into a simple adjoint algebraic group over the complex numbers.

@@ -1,0 +1,1 @@
+We prove that if f is a holomorphic function on the open unit disc in C whose cluster set C(f) has finite linear measure and is such that the complement of C(f) has finitely many components, then the derivative of f belongs to the Hardy space H^1.

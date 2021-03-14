@@ -1,0 +1,1 @@
+We use a version of localization in equivariant cohomology for the norm-square of the moment map, described by Paradan, to give several weighted decompositions for simple polytopes. As an application, we study Euler-Maclaurin formulas.

@@ -1,0 +1,1 @@
+These informal notes, not intended for publication, provide an approach to the Borsuk--Ulam theorem via Stokes' theorem, in a similar spirit to Lima's proof of the Brouwer fixed point theorem. They are intended to be accessible to anyone with a knowledge of basic point-set topology and several variable calculus. Some of the argument relies upon previous ideas of Shchepin.

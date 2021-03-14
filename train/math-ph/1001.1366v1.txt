@@ -1,0 +1,1 @@
+We present explicit expressions for multi-fold logarithmic integrals that are equivalent to sums over polygamma functions at integer argument. Such relations find application in perturbative quantum field theory, quantum chemistry, analytic number theory, and elsewhere. The analysis includes the use of properties of a variety of special functions.

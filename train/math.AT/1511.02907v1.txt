@@ -1,0 +1,1 @@
+We define the projective stable category of a coherent scheme. It is the homotopy category of an abelian model structure on the category of unbounded chain complexes of quasi-coherent sheaves. We study the cofibrant objects of this model structure, which are certain complexes of flat quasi-coherent sheaves satisfying a special acyclicity condition.

@@ -1,0 +1,1 @@
+We study Bayes procedures for the problem of nonparametric drift estimation for one-dimensional, ergodic diffusion models from discrete-time, low-frequency data. We give conditions for posterior consistency and verify these conditions for concrete priors, including priors based on wavelet expansions.

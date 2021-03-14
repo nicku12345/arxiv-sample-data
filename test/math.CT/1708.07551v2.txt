@@ -1,0 +1,1 @@
+Good atlases are defined for effective orbifolds, and a spark complex is constructed on each good atlas. It is proved that this process is 2-functorial with compatible systems playing as morphisms between good atlases, and that the spark character 2-functor factors through this 2-functor.

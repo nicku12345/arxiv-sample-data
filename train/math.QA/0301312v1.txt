@@ -1,0 +1,1 @@
+We present an easy example of mutant links with different Khovanov homology. The existence of such an example is important because it shows that Khovanov homology cannot be defined with a skein rule similar to the skein relation for the Jones polynomial.

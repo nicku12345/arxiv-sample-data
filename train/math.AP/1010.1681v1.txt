@@ -1,0 +1,1 @@
+A formula to construct classic exact solutions to Tricomi partial differential equation. The steps to obtain this formula require only elementary resolution of a simple system of first order PDEs.

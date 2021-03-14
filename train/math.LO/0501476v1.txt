@@ -1,0 +1,1 @@
+This paper presents two different ways of extracting the computational content of formal proofs in arithmetic. The first one corresponds to Kreisel's No-counterexample Interpretation. based on Ackermann consistency proof. We show the link with recent work by Krivine on classical realizability. Finally, we discuss the various degrees of modularity of both approaches.

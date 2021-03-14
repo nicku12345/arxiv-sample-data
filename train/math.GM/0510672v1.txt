@@ -1,0 +1,1 @@
+We compute fundamental solutions of homogeneous elliptic differential operators, with constant coefficients, on \mathbb{R}^n by mean of analytic continuation of distributions. The result obtained is valid in any dimension, for any degree and can be extended to pseudodifferential operators of the same type.

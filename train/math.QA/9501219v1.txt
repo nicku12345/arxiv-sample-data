@@ -1,0 +1,1 @@
+These are the notes from a series of lectures the author gave at Harvard University in the Fall of 1994. The goal of these lectures is to give a self-contained exposition of recent result of Cherednik (\cite{C6}), who proved Macdonald's inner product conjectures (see \cite{M2}) for arbitrary root systems, using the algebraic structure he called ``double affine Hecke algebra''.

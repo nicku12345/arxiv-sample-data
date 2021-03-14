@@ -1,0 +1,1 @@
+We give an overview of the parts of arXiv:2004.04279 that deal with 2-categories, up to and including adjunction, and explain how the Segal-type approach to 2-categories adopted there is related to the more standard approaches. As an application, we construct the derived Morita and the Fourier-Mukai 2-categories over a Noetherian ring, and show how to embed one into the other.

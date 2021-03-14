@@ -1,0 +1,1 @@
+Let p \geq 2 be a large prime, and let k \ll \log p  be a small integer. This note proves the existence of various configurations of (k+1)-tuples of consecutive and quasi consecutive primitive roots n+a_0, n+a_1, n+a_2, \ldots, n+a_k in the finite field \mathbb{F}_p, where a_0,a_1, \ldots, a_k is a fixed (k+1)-tuples of distinct integers.

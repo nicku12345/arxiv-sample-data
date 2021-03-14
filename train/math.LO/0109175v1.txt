@@ -1,0 +1,1 @@
+We define the dualizations of objects and concepts which are essential for investigating the Ramsey property in the first levels of the projective hierarchy, prove a forcing equivalence theorem for dual Mathias forcing and dual Laver forcing, and show that the Harrington-Kechris techniques for proving the Ramsey property from determinacy work in the dualized case as well.

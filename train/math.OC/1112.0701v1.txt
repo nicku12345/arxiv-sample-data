@@ -1,0 +1,1 @@
+In this paper, we investigate the existence and uniqueness of solutions for a class of evolutionary integral equations perturbed by a noise arising in the theory of heat conduction. As a motivation of our results, we study an optimal control problem when the control enters the system together with the noise.

@@ -1,0 +1,1 @@
+We show that the graded group associated to the dimension filtration on a loop acquires the structure of a Sabinin algebra after being tensored with a field of characteristic zero. The key to the proof is the interpretation of the primitive operations of Umirbaev and Shestakov in terms of the operations on a loop that measure the failure of the associator to be a homomorphism.

@@ -1,0 +1,1 @@
+We prove that every claw-free graph G that doesn't contain a clique on \Delta(G) \geq 9 vertices can be \Delta(G) - 1 colored.

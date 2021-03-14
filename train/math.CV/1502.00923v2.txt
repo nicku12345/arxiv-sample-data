@@ -1,0 +1,1 @@
+It is shown that for f analytic and convex in z\in D=\{z:|z|<1\} and given by f(z)=z+\sum_{n=2}^{\infty}a_{n}z^{n}, the difference of coefficients ||a_{3}|-|a_{2}||\le 25/48 and ||a_{4}|-|a_{3}||\le 25/48 . Both inequalities are sharp.

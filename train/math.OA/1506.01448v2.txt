@@ -1,0 +1,1 @@
+We study Z-actions on unital simple separable stably finite C*-algebras of finite nuclear dimension. Assuming that the extreme boundary of the trace space is compact and finite dimensional, and that the induced action on the trace space is trivial, we show that strongly outer Z-actions have finite Rokhlin dimension in the sense of Hirshberg, Winter and Zacharias.

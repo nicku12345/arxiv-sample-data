@@ -1,0 +1,1 @@
+An algebra has the Howson property if the intersection of any two finitely generated subalgebras is finitely generated. A simple necessary and sufficient condition is given for the Howson property to hold on an inverse semigroup with finitely many idempotents. In addition, it is shown that any monogenic inverse semigroup has the Howson property.

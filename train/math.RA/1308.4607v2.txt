@@ -1,0 +1,1 @@
+The classical Technical Lemma for congruences is not difficult to prove but it is very efficient in its applications. We present here a Technical Lemma for congruences on \emph{finite lattices}. This is not difficult to prove either but it has already has proved its usefulness in some applications.

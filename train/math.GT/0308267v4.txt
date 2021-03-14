@@ -1,0 +1,1 @@
+We consider the space of geodesic laminations on a surface, endowed with the Hausdorff metric d_H and with a variation of this metric called the d_log metric. We compute and/or estimate the Hausdorff dimensions of these two metrics. We also relate these two metrics to another metric which is combinatorially defined in terms of train tracks.

@@ -1,0 +1,1 @@
+By computing certain cohomology of Vect(M) of smooth vector fields we prove that on 1-dimensional manifolds M there is no quantization map intertwining the action of non-projective embeddings of the Lie algebra sl(2) into the Lie algebra Vect(M). Contrariwise, for projective embeddings sl(2)-equivariant quantization exists.

@@ -1,0 +1,1 @@
+We investigate the regularity of bounded weak solutions of scalar conservation laws with uniformly convex flux in space dimension one, satisfying an entropy condition with entropy production term that is a signed Radon measure. The proof is based on the kinetic formulation of scalar conservation laws and on an interaction estimate in physical space.

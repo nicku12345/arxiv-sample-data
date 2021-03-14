@@ -1,0 +1,1 @@
+We seek conditions under which colorings of various vector spaces are guaranteed to have a copy of a unit equilateral triangle, having each vertex in a different color class. In particular, we explore the analogous question in the setting of vector spaces finite fields, with an appropriate notion of distance.

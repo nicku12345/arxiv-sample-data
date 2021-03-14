@@ -1,0 +1,1 @@
+We study induced representations of Hilbert modules over locally C*-algebras and their non-degeneracy. We show that if V and W are Morita equivalent Hilbert modules over locally C*-algebras A and B, respectively, then there exists a bijective correspondence between equivalence classes of non-degenerate representations of V and W.

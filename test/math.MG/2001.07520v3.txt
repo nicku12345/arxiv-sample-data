@@ -1,0 +1,1 @@
+Let O be a closed n-dimensional arithmetic (real or complex) hyperbolic orbifold. We show that the diameter of O is bounded above by \frac{c_1\log vol(O) + c_2}{h(O)}, where h(O) is the Cheeger constant of O, vol(O) is its volume, and constants c_1, c_2 depend only on n.

@@ -1,0 +1,1 @@
+We give a new proof of the result that if f and g are transcendental entire functions, then the composite function f(g) has infinitely many fixed points. The method yields a number of generalization of this result. In particular, it extends to quasiregular maps in space.

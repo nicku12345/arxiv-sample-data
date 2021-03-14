@@ -1,0 +1,1 @@
+We define bi-monotone independence, prove a bi-monotone central limit theorem and use it to study the distribution of bi-monotone Brownian motion, which is defined as the two-dimensional operator process with monotone and antimonotone Brownian motion as components.

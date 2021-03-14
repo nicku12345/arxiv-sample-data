@@ -1,0 +1,1 @@
+We consider Bayesian hierarchical models for survival analysis, where the survival times are modeled through an underlying diffusion process which determines the hazard rate. We show how these models can be efficiently treated by means of Markov chain Monte Carlo techniques.

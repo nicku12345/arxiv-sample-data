@@ -1,0 +1,1 @@
+We investigate some conditions under which the Lebesgue constants or Lebesgue functions are bounded for the classical Lagrange polynomial interpolation on a compact subset of \mathbb R. In particular, relationships of such boundedness with uniform and pointwise convergence of Lagrange polynomials and with the existence of interpolating Faber bases are discussed.

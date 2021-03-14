@@ -1,0 +1,1 @@
+If a bounded domain can be covered by the polydisk through a rational proper holomorphic map, then the Bergman projection is L^p-bounded for p in a certain range depending on the ramified rational covering. This result can be applied to the symmetrized polydisk and to the Hartogs triangle with exponent \gamma.

@@ -1,0 +1,1 @@
+We introduce the notions of kernel map and kernel set of a bounded linear operator on a Hilbert space relative to a subspace lattice. The characterization of the kernel maps and kernel sets of finite rank operators leads to showing that every norm closed Lie module of a continuous nest algebra is decomposable. The continuity of the nest cannot be lifted, in general.

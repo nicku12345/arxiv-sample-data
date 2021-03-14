@@ -1,0 +1,1 @@
+We give a constructive proof for the existence of a unique rational motion of minimal degree in the dual quaternion model of Euclidean displacements with a given rational parametric curve as trajectory. The minimal motion degree equals the trajectory's degree minus its circularity. Hence, it is lower than the degree of a trivial curvilinear translation for circular curves.

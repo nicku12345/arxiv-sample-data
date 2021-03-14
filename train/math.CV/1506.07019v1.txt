@@ -1,0 +1,1 @@
+The article introduces Ahlfors' generalization of the Schwarz lemma. With this powerful geometric tool of complex functions in one variable, we are able to prove some theorems concerning the size of images under holomorphic mappings, including the celebrated Picard's theorems. The article concludes with a brief insight into the theory of Kobayashi hyperbolic complex manifolds.

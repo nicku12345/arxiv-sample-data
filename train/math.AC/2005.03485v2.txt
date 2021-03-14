@@ -1,0 +1,1 @@
+In this article, we prove that if R is a finitely generated ring over \mathbb{Z} of dimension d, d\geq2, \frac{1}{d!}\in R, then any unimodular row over R[X] of length d+1 can be mapped to a factorial row by elementary transformations.

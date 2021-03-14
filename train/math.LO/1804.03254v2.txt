@@ -1,0 +1,1 @@
+We construct a countable simple theory which, in Keisler's order, is strictly above the random graph (but "barely so") and also in some sense orthogonal to the building blocks of the recently discovered infinite descending chain. As a result we prove in ZFC that there are incomparable classes in Keisler's order.

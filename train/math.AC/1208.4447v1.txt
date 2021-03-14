@@ -1,0 +1,1 @@
+Let \fa be an ideal of a local ring (R,\fm) and X a d-dimensional homologically bounded complex of R-modules whose all homology modules are finitely generated. We show that H^d_{\fa}(X)=0 if and only if \dim \hat{R}/\fa \hat{R}+\fp>0 for all prime ideals \fp of \hat{R} such that \dim \hat{R}/\fp-\inf (X\otimes_R\hat{R})_{\fp}=d.

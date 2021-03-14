@@ -1,0 +1,1 @@
+We give another proof of the recent result of Ringel, which asserts equality between the finitistic dimension and delooping level of Nakayama algebras. The main tool is syzygy filtration method introduced in \cite{sen2019}. In particular, we give characterization of the finitistic dimension one Nakayama algebras.

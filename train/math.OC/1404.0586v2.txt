@@ -1,0 +1,1 @@
+In this work we provide a first order sensitivity analysis of some parameterized stochastic optimal control problems. The parameters can be given by random processes. The main tool is the one-to-one correspondence between the adjoint states appearing in a weak form of the stochastic Pontryagin principle and the Lagrange multipliers associated to the state equation.

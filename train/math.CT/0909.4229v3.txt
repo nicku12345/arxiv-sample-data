@@ -1,0 +1,1 @@
+This paper contains some contributions to the study of the relationship between 2-categories and the homotopy types of their classifying spaces. Mainly, generalizations are given of both Quillen's Theorem B and Thomason's Homotopy Colimit Theorem to 2-functors.

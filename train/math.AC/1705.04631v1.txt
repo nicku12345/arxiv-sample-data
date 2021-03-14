@@ -1,0 +1,1 @@
+By virtue of Balmer's celebrated theorem, the classification of thick tensor ideals of a tensor triangulated category \T is equivalent to the topological structure of its Balmer spectrum \spc \T. Motivated by this theorem, we discuss connectedness and noetherianity of the Balmer spectrum of a right bounded derived category of finitely generated modules over a commutative ring.

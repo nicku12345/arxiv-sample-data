@@ -1,0 +1,1 @@
+For non convex Hamiltonians, the viscosity solution and the more geometric minimax solution of the Hamilton-Jacobi equation do not coincide in general. They are nevertheless related: we show that iterating the minimax procedure during shorter and shorter time intervals one recovers the viscosity solution.

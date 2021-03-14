@@ -1,0 +1,1 @@
+In this paper it is shown that in case of trace class perturbations the singular part of Pushnitski \mu-invariant does not depend on the angle variable. This gives an alternative proof of integer-valuedness of the singular part of the spectral shift function. As a consequence, the Birman-Krein formula for trace class perturbations follows.

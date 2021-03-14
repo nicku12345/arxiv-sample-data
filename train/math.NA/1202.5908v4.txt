@@ -1,0 +1,1 @@
+We propose some useful estimates for the pointwise error estimates of the streamline diffusion finite element method (SDFEM) on Shishkin meshes, when SDFEM is applied for problems of characteristic layers.

@@ -1,0 +1,1 @@
+Our main result states that every fixed-point free continuous self-map of {\mathbb R}^{n} is colorable. This result can be re-formulated as follows: A continuous map f: {\mathbb R}^{n}\to {\mathbb R}^{n} is fixed-point free iff \widetilde f: \beta {\mathbb R}^{n}\to \beta {\mathbb R}^{n} is fixed-point free. We also obtain a generalization of this fact and present some examples.

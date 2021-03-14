@@ -1,0 +1,1 @@
+Given a knot K in the three-sphere, we address the question: which Dehn surgeries on K bound negative-definite four-manifolds? We show that the answer depends on a number m(K), which is a smooth concordance invariant. We study the properties of this invariant, and compute it for torus knots.

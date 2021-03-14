@@ -1,0 +1,1 @@
+We define a doubly stochastic operator on a finite dimensional simplex and study the limit behavior of the trajectories under doubly stochastic operators. We prove that except for certain points, the trajectory of a point, under the doubly stochastic operator, tends to the center of the simplex.

@@ -1,0 +1,1 @@
+A CP-semigroup is aligned if its set of trivially maximal subordinates is totally ordered by subordination. We prove that aligned spatial E_0-semigroups are prime: they have no non-trivial tensor product decompositions up to cocycle conjugacy. As a consequence, we establish the existence of uncountably many non-cocycle conjugate E_0-semigroups of type II_0 which are prime.

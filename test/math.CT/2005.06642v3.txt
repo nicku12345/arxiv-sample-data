@@ -1,0 +1,1 @@
+Let {\rm Rep}\,{\cal O}_n denote the category of all nondegenerate ^* representations of the Cuntz algebra {\cal O}_n. For any 2\leq n,m<\infty, we construct an isomorphism functor F_{n,m} from {\rm Rep}\,{\cal O}_m to {\rm Rep}\,{\cal O}_n.

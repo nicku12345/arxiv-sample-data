@@ -1,0 +1,1 @@
+In this note, we consider a SK (Sherrington--Kirkpatrick)-type model on Z^d for d greater or equal to 1, weighted by a function allowing to any single spin to interact with a small proportion of the other ones. In the thermodynamical limit, we investigate the equivalence of this model with the usual SK spin system, through the study of the fluctuations of the free energy.

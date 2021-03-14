@@ -1,0 +1,1 @@
+We consider Bernoulli percolation on a locally finite quasi-transitive unimodular graph and prove that two infinite clusters cannot have infinitely many pairs of vertices at distance 1 from one another or, in other words, that such graphs exhibit ``cluster repulsion.'' This partially answers a question of H\"{a}ggstr\"{o}m, Peres and Schonmann.

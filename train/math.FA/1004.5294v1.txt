@@ -1,0 +1,1 @@
+In this paper, we study weighted local Hardy spaces h^p_\wz(\rz) associated with local weights which include the classical Muckenhoupt weights. This setting includes the classical local Hardy space theory of Goldberg \cite{g}, and the weighted Hardy spaces of Bui \cite{bu}.

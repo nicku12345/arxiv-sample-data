@@ -1,0 +1,1 @@
+In this paper, we study the notion of Johnson pseudo-contractibility for certain Banach algebras. For a bicyclic semigroup S, we show that \ell^{1}(S) is not Johnson pseudo-contractible. Also for a Johnson pseudo-contractible Banach algebra A, we show that A has no non-zero complemented closed nilpotent ideal.

@@ -1,0 +1,1 @@
+The q analog of Modified Bessel functions and Bessel-Macdonald functions, were defined in our previous work (q-alg/950913) as general solutions of a second order difference equations. Here we present a collection of their representations by the Jackson q-integral.

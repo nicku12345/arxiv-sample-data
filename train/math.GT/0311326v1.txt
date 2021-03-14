@@ -1,0 +1,1 @@
+We show that every trivial 3-strand braid diagram contains a disk, defined as a ribbon ending in opposed crossings. Under a convenient algebraic form, the result extends to every Artin--Tits group of dihedral type, but it fails to extend to braids with 4 strands and more. The proof uses a partition of the Cayley graph and a continuity argument.

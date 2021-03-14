@@ -1,0 +1,1 @@
+We show that the rate of convergence of solutions of finite-difference approximations for uniformly elliptic Bellman's equations is of order at least h^{2/3}, where h is the mesh size. The equations are considered in smooth bounded domains.

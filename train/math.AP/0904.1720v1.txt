@@ -1,0 +1,1 @@
+In this paper we prove some Harnack inequality for fully non linear degenerate elliptic equations, in the two dimensional case, extending the results of Davila Felmer and Quaas in the singular case but in all dimensions. We then apply this result for the existence of an eigenfunction in smooth bounded domain.

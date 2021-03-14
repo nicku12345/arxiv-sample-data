@@ -1,0 +1,1 @@
+In this article, we introduce the concepts of higher {g_n, h_n}-derivation and Jordan higher {g_n, h_n}-derivation, and then we give a characterization of higher {g_n, h_n}-derivations in terms of {g, h}-derivations. Using this result, we prove that every Jordan higher {g_n, h_n}-derivation on a semiprime algebra is a higher {g_n, h_n}-derivation.

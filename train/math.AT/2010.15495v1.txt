@@ -1,0 +1,1 @@
+For maps from S^3 and \RP^3 into S^2 and \RP^2, we study the problem of minimizing the root set by deforming the maps through homotopies. After presenting the classification of the homotopy classes of such maps, we prove that the minimal root set for a non null-homotopic map is either a circle or the disjoint union of two circle, according its range is S^2 or \RP^2, respectively.

@@ -1,0 +1,1 @@
+After small forcing, almost every strongness embedding is the lift of a strongness embedding in the ground model. Consequently, small forcing creates neither strong nor Woodin cardinals.

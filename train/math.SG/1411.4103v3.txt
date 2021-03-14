@@ -1,0 +1,1 @@
+In this paper, we calculate the dimension of the J-anti-invariant cohomology subgroup H_J^- on \mathbb{T}^4. Inspired by the concrete example, \mathbb{T}^4, we get that:   On a closed symplectic 4-dimensional manifold (M, \omega), h^-_J=0 for generic \omega-compatible almost complex structures.

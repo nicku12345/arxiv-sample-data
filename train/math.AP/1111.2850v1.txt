@@ -1,0 +1,1 @@
+We prove the local well-posedness of the three-dimensional Zakharov-Kuznetsov equation \partial_tu+\Delta\partial_xu+ u\partial_xu=0 in the Sobolev spaces H^s(\R^3), s>1, as well as in the Besov space B^{1,1}_2(\R^3). The proof is based on a sharp maximal function estimate in time-weighted spaces.

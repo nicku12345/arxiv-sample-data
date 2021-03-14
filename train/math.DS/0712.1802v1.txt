@@ -1,0 +1,1 @@
+Let f be an orientation-preserving homeomorphism of the plane such that f-Id is contracting. Under these hypotheses, we establish the existence, for every periodic orbit, of a fixed point which has nonzero linking number with this periodic orbit.

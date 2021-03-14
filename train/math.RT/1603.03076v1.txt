@@ -1,0 +1,1 @@
+For each integer t>0 and each complex simple Lie algebra \mathfrak{g}, we determine the least dimension of an irreducible highest weight representation of \mathfrak{g} whose highest weight has height t. As a corollary, we classify all irreducible modules whose dimension equals a product of two primes.

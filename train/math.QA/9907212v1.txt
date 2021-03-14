@@ -1,0 +1,1 @@
+If a classical r-matrix r is skewsymmetric, its quantization R can lose the skewsymmetry property. Even when R is skewsymmetric, it may not be unique.

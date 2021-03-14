@@ -1,0 +1,1 @@
+Abstract In this paper, we study affine bodies of revolution. This will allow us to prove that a convex body all whose orthogonal n-projections are affinely equivalent is an ellipsoid, provided n\equiv 0,1, 2 mod 4, n>1 with the possible exemption of n=133. Our proof uses convex geometry and topology of compact Lie groups.   AMS classification subject: 22E10, 52A05

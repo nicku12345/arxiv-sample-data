@@ -1,0 +1,1 @@
+We prove that every (not necessarily linear nor continuous) 2-local triple homomorphism from a JBW^*-triple into a JB^*-triple is linear and a triple homomorphism. Consequently, every 2-local triple homomorphism from a von Neumann algebra (respectively, from a JBW^*-algebra) into a C^*-algebra (respectively, into a JB^*-algebra) is linear and a triple homomorphism.

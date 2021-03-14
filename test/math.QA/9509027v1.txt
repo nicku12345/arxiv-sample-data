@@ -1,0 +1,1 @@
+The aim of this note is to derive some invariants at infinity for open 3-manifolds in the framework of Topological Quantum Field Theories. These invariants may be used to test if an open manifold is simply connected at infinity as we done for Whitehead's manifold in case of the sl_{2}({\bf C})-TQFT in level 4.

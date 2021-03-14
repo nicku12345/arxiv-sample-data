@@ -1,0 +1,1 @@
+We show that the Okounkov body of a big divisor with finitely generated section ring is a rational simplex, for an appropriate choice of flag; furthermore, when the ambient variety is a surface, the same holds for every big divisor. Under somewhat more restrictive hypotheses, we also show that the corresponding semigroup is finitely generated.

@@ -1,0 +1,1 @@
+We prove that the spectrum of certain non-self-adjoint Schrodinger operators is unstable in the semi-classical limit. Similar results hold for a fixed operator in the high energy limit. The method involves the construction of approximate semi-classical modes of the operator by the JWKB method for energies far from the spectrum.

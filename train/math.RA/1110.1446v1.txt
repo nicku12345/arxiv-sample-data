@@ -1,0 +1,1 @@
+Let a monoid S act on a ring R by injective endomorphisms and A=A(R,S) denote the S-Cohn-Jordan extension of R. Some results relating finiteness conditions of R and that of A are presented. In particular necessary and sufficient conditions for A to be left noetherian, to be left B\'ezout and to be left principal ideal ring are presented.

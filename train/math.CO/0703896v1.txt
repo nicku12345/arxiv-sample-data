@@ -1,0 +1,1 @@
+We show how to generate an expression for the number of k-line Latin rectangles for any k. The computational complexity of the resulting expression, as measured by the number of additions and multiplications required to evaluate it, is on the order of n^(2^(k-1)). These expressions generalize Ryser's formula for derangements.

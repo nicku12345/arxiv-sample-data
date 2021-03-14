@@ -1,0 +1,1 @@
+In the paper an answer to a problem "When different orders of R(X) (where R is a real closed field) lead to the same real place ?" is given. We use this result to show that the space of \mathbb R-places of the field \textbf{R}(Y) (where \textbf{R} is any real closure of \mathbb R(X)) is not metrizable space. Thus the space M(\mathbb R(X,Y)) is not metrizable, too.

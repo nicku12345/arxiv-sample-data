@@ -1,0 +1,1 @@
+We present a proof of the existence of real eigenvalues of real symmetric matrices which does not rely on any limit or compactness arguments, but only uses the notions of "sup", "inf".

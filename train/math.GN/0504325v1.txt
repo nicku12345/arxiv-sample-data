@@ -1,0 +1,1 @@
+If B is a compact space and B\{pt} is Lindelof then B^k\{pt} is star-Linedlof for every cardinality k. If B\{pt} is compact then B^k\{pt} is discretely star-Lindelof. In particular, this gives new examples of Tychonoff discretely star-Lindelof spaces with unlimited extent.

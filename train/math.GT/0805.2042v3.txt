@@ -1,0 +1,1 @@
+The genus of knots is a one of the fundamental invariant and can be seen as a complexity of knots. In this paper, we give a lower bound of genus using Dehornoy floor, which is a measure of complexity of braids in terms of braid ordering.

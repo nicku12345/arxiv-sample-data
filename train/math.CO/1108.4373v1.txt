@@ -1,0 +1,1 @@
+We prove that the largest Q_2-free family of subsets of [n] which contains sets of at most three different sizes has at most (3 + 2\sqrt {3})N/3 + o(N) \approx 2.1547N + o(N) members, where N = {n \choose {\lfloor n/2 \rfloor}}. This improves an earlier bound of 2.207N + o(N) by Axenovich, Manske, and Martin.

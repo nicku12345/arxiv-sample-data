@@ -1,0 +1,1 @@
+In this paper we study the C*-algebras associated to continuous fields over locally compact metrisable zero dimensional spaces whose fibers are Kirchberg C*-algebras satisfying the UCT. We show that these algebras are inductive limits of finite direct sums of Kirchberg algebras and they are classified up to isomorphism by topological invariants.

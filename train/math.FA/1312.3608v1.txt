@@ -1,0 +1,1 @@
+We obtain a new upper estimate on the Euclidean diameter of the intersection of the kernel of a random matrix with iid rows with a given convex body. The proof is based on a small-ball argument rather than on concentration and thus the estimate holds for relatively general matrix ensembles.

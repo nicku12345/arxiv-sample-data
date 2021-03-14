@@ -1,0 +1,1 @@
+Using the methods developed in [LQW], math.AG/0009132, we obtain a second set of generators for the cohomology ring of the Hilbert scheme of points on an arbitrary smooth projective surface over the field of complex numbers. These generators have clear and simple geometric as well as algebraic descriptions.

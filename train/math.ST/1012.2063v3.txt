@@ -1,0 +1,1 @@
+We review various inequalities for Mills' ratio (1 - \Phi)/\phi, where \phi and \Phi denote the standard Gaussian density and distribution function, respectively. Elementary considerations involving finite continued fractions lead to a general approximation scheme which implies and refines several known bounds.

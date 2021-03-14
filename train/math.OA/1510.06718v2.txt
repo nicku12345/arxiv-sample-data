@@ -1,0 +1,1 @@
+The goal of these notes is to present the C*-algebra C^*(B,L,\theta) of a Boolean dynamical system (B,L,\theta), that generalizes the C^*-algebra associated to Labelled graphs introduced by Bates and Pask, and to determine its simplicity, its gauge invariant ideals, as well as compute its K-Theory

@@ -1,0 +1,1 @@
+Let G be a reductive algebraic group over an algebraically closed field and let V be a quasi-projective G-variety. We prove that the set of points v\in V such that {\rm dim}(G_v) is minimal and G_v is reductive is open. We also prove some results on the existence of principal stabilisers in an appropriate sense.

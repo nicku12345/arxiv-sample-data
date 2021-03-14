@@ -1,0 +1,1 @@
+Let A be an abelian topological G-module. We give an interpretion for the second cohomology, H^{2}(G,A), of G with coefficients in A. As a result we show that if P is a projective topological group, then H^{2}(P,A)=0 for every abelian topological P-module A.

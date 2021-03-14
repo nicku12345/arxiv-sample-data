@@ -1,0 +1,1 @@
+We study domain representations induced by dyadic subbases and show that a proper dyadic subbase S of a second-countable regular space X induces an embedding of X in the set of minimal limit elements of a subdomain D of \{0,1,\perp\}\omega. In particular, if X is compact, then X is a retract of the set of limit elements of D.

@@ -1,0 +1,1 @@
+We prove that every commutative differential graded algebra whose cohomology is a simply-connected Poincare duality algebra is quasi-isomorphic to one whose underlying algebra is simply-connected and satisfies Poincare duality in the same dimension. This has application in particular to the study of CDGA models of configuration spaces on a closed manifold.

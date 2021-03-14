@@ -1,0 +1,1 @@
+We study ergodic random Schr"odinger operators on a covering manifold, where the randomness enters both via the potential and the metric. We prove measurability of the random operators, almost sure constancy of their spectral properties, the existence of a selfaveraging integrated density of states and a \v{S}ubin type trace formula.

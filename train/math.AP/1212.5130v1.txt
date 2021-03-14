@@ -1,0 +1,1 @@
+We show that in every dimension N\geq3 there are many bounded domains \Omega\subset\mathbb{R}^{N}, having only finite symmetries, in which the Bahri-Coron problem \[-\Delta u=|u| ^{4/(N-2)}u\text{\in}\Omega,\text{\ \}u=0\text{\ on}\partial\Omega, \] has a prescribed number of solutions, one of them being positive and the rest sign changing.

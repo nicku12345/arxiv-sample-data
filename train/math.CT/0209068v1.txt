@@ -1,0 +1,1 @@
+We explain how the computation of induced crossed modules allows the computation of certain homotopy 2-types and, in particular, second homotopy groups. We discuss various issues involved in computing induced crossed modules and give some examples and applications.

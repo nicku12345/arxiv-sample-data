@@ -1,0 +1,1 @@
+This paper studies direct limits of full upper triangular matrix algebras with embeddings which are not *-extendible. A representation of the limit algebra is found so that the generated C*-algebra is the C*-envelope. Some examples are described.

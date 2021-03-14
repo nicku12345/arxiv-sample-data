@@ -1,0 +1,1 @@
+We build confidence balls for the common density s of a real valued sample X_1,...,X_n. We use resampling methods to estimate the projection of s onto finite dimensional linear spaces and a model selection procedure to choose an optimal approximation space. The covering property is ensured for all n\geq2 and the balls are adaptive over a collection of linear spaces.

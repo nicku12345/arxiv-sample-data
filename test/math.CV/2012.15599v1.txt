@@ -1,0 +1,1 @@
+We construct examples of plurisubharmonic functions with isolated singularities at 0\in \mathbb{C}^n, whose residual Monge-Amp\`{e}re masses at the origin can not be approximated by masses of analytic approximations obtained via multiplier ideals. This answers negatively a conjecture of Demailly.

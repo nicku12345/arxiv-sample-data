@@ -1,0 +1,1 @@
+Stanley has conjectured that the h-vector of a matroid complex is a pure O-sequence. We will prove this for cotransversal matroids by using generalized permutohedra. We construct a bijection between lattice points inside a r-dimensional convex polytope and bases of a rank r transversal matroid.

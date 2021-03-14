@@ -1,0 +1,1 @@
+This paper has been withdrawn by the author due a crucial sign error in Theorem B. We present a geometric proof of Thom conjecture, which uses Khovanov homology. Our approach doesn't use any analytic methods and is quite different from proof given by Kronheimer and Mrowka in 1994.

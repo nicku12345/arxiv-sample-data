@@ -1,0 +1,1 @@
+We study Fourier frames of exponentials on fractal measures associated with a class of affine iterated function systems. We prove that, under a mild technical condition, the Beurling dimension of a Fourier frame coincides with the Hausdorff dimension of the fractal.

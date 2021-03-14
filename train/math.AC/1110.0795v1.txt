@@ -1,0 +1,1 @@
+Let (R,\mathfrak{M}) be a two-dimensional regular local ring with algebraically closed residue field. Let I be a simple complete \mathfrak{M}-primary ideal of R and let w denote its unique Rees valuation. Then the degree function coefficient d(I,w)=1.   In this note a short proof of this result is given.

@@ -1,0 +1,1 @@
+A cluster expansion is proposed, that applies to both continuous and discrete systems. The assumption for its convergence involves an extension of the neat Kotecky-Preiss criterion. Expressions and estimates for correlation functions are also presented. The results are applied to systems of interacting classical and quantum particles, and to a lattice polymer model.

@@ -1,0 +1,1 @@
+We consider the problem of bounding the dimension of the linear system of curves in {\bf P}^2 of degree d with prescribed multiplicities m_1,...,m_n at n general points (\cite{Hir1},\cite{Hir2}). We propose a new method, based on the work of Ciliberto and Miranda (\cite {CM1}, \cite {CM2}), by specializing the general points to an elliptic curve in {\bf P}^2.

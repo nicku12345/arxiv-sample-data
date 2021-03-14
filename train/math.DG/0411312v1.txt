@@ -1,0 +1,1 @@
+For a given boundary set consisting of arcs and vertices, with two or more arcs meeting at each vertex, we treat the problem of estimating the area density of a soap film-like surface spanning the boundary.

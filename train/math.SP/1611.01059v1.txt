@@ -1,0 +1,1 @@
+We consider graphs associated to Delone sets in Euclidean space. Such graphs arise in various ways from tilings. Here, we provide a unified framework. In this context, we study the associated Laplace operators and show Gaussian heat kernel bounds for their semigroups. These results apply to both metric and discrete graphs.

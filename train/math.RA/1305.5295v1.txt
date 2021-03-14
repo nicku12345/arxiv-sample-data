@@ -1,0 +1,1 @@
+We give explicit linear bounds on the p-cohomological dimension of a field in terms of its Diophantine dimension. In particular, we show that for a field of Diophantine dimension at most 4, the 3-cohomological dimension is less than or equal to the Diophantine dimension.

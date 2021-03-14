@@ -1,0 +1,1 @@
+Let V be a complex vector space. We propose a compactification PM(V) of the projective linear group PGL(V), which can act on the projective space P(V). After proving some properties of PM(V), we consider its relation to Neretin's compactification Hinge*(V).

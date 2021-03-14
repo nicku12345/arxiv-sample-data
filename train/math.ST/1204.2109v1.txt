@@ -1,0 +1,1 @@
+We give sufficient conditions for the asymptotic normality of linear combinations of order statistics (L-statistics) in the case of simple random samples without replacement. In the first case, restrictions are imposed on the weights of L-statistics. The second case is on trimmed means, where we introduce a new finite population smoothness condition.

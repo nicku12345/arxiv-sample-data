@@ -1,0 +1,1 @@
+Consider the poset of partitions of {1,...(n-1)k+1} with block sizes congruent to 1 modulo k. We prove that its order complex is a subdivision of the complex of k-trees, thereby answering a question posed by Feichtner. The result is obtained by an ad-hoc generalization of concepts from the theory of nested set complexes to non-lattices.

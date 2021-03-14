@@ -1,0 +1,1 @@
+In this paper, we study the existence of solution to BSDE with quadratic growth and unbounded terminal value. We apply a localization procedure together with a priori bounds. As a byproduct, we apply the same method to extend a result on BSDEs with integrable terminal condition.

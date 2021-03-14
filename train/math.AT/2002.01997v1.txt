@@ -1,0 +1,1 @@
+We use a "twisted group algebra" method to constructively adjoin formal radicals \sqrt[n]{\alpha}, for \alpha a unit in a commutative ring spectrum or an invertible object in a symmetric monoidal \infty-category. We show that this construction is classified by maps from Eilenberg-Mac Lane objects to the unit spectrum, the Picard spectrum, and the Brauer spectrum.

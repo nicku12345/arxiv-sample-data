@@ -1,0 +1,1 @@
+We conjecture that a 2-connected graph G of order n, in which d(x)+d(y)\geq n-k for every pair of non-adjacent vertices x and y, contains a cycle of length n-k (k<n/2), unless G is bipartite and n-k is odd. This generalizes to long cycles a well-known degree sum condition for hamiltonicity of Ore. The conjecture is shown to hold for k=1.

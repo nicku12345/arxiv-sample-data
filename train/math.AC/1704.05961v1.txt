@@ -1,0 +1,1 @@
+Let (R, \mathfrak{m})  be a Gorenstein local ring of dimension d > 0 and let I be an ideal of R such that (0) \ne I \subsetneq R and R/I is a Cohen-Macaulay ring of dimension d. There is given a complete answer to the question of when the idealization A = R \ltimes I of I over R is an almost Gorenstein local ring.

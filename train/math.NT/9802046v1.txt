@@ -1,0 +1,1 @@
+A number n is said to be economical if the prime power factorisation of n can be written with no more digits than n itself. We show that under a plausible hypothesis, related to the twin prime conjecture, there are arbitrarily long sequences of consecutive economial numbers, and exhibit such a sequence of length 9.

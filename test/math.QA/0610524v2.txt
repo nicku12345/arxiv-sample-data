@@ -1,0 +1,1 @@
+We introduce partial (co)actions of a Hopf algebra H on an algebra. To this end, we introduce first the notion of lax coring, generalizing Wisbauer's notion of weak coring. We also have the dual notion of lax ring. Several duality results are given, and we develop Galois theory for partial H-comodule algebras.

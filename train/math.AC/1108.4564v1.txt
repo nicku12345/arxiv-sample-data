@@ -1,0 +1,1 @@
+It is proved that, over a Noetherian ring R, the class of weakly Laskerian and FSF modules are the same classes. By using this characterization we proved that the property of being weakly Laskerian descends by finite integral extensions of local ring homomorphisms and ascends by tensoring under the completion.

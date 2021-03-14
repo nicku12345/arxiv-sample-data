@@ -1,0 +1,1 @@
+We show that the Lusternik-Schnirelmann category of a simple, simply connected, compact Lie group G is bounded above by the sum of the relative categories of certain distinguished conjugacy classes in G corresponding to the vertices of the fundamental alcove for the action of the affine Weyl group on the Lie algebra of a maximal torus of G.

@@ -1,0 +1,1 @@
+For p=2 and tame level N=1 we prove that the map from the (Coleman-Mazur) Eigencurve to weight space satisfies the valuative criterion of properness. More informally, we show that the Eigencurve has no "holes"; given a punctured disc of finite slope overconvergent eigenforms over weight space, the center can be "filled in" with a finite slope overconvergent eigenform.

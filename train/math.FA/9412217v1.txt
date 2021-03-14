@@ -1,0 +1,1 @@
+It is proved that every operator from a weak^*-closed subspace of \ell_1 into a space C(K) of continuous functions on a compact Hausdorff space K can be extended to an operator from \ell_1 to C(K).

@@ -1,0 +1,1 @@
+In this paper, we continue in solving reflected generalized backward stochastic differential equations (RGBSDE for short) and fixed terminal time with use some new technical aspects of the stochastic calculus related to the reflected generalized BSDE. Here, existence and uniqueness of solution is proved under a non-Lipschitz condition on the coefficients.

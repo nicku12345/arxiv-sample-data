@@ -1,0 +1,1 @@
+We show that the category of comodules over a coassociative coalgebra in a complete, cocomplete and well-powered category has limits and colimits under additional assumptions.

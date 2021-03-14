@@ -1,0 +1,1 @@
+Let P be a partially ordered set, R a commutative ring with identity and FI(P,R) the finitary incidence algebra of P over R. In this note we prove that each R-linear local derivation of FI(P,R) is a derivation, which partially generalizes a result by Nowicki and Nowosad.

@@ -1,0 +1,1 @@
+We describe all triangles that shares the same circumcircle and Euler circle. Although this two circles do not form a poristic pair of circles, we find a poristic circle "in-between" that enable to solve this problem using Poncelet porism.

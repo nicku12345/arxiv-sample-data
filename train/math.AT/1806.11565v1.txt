@@ -1,0 +1,1 @@
+In this note we give an algorithm to determine the rational homotopy type of the free and pointed mapping spaces  map(F(\mathbb R^m,k), S^n) and  map^*(F(\mathbb R^m,k), S^n). An explicit description of these spaces is given for k=3. The general case for n odd is also presented as an immediate consequence of the rational version of a classical result of Thom.

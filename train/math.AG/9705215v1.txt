@@ -1,0 +1,1 @@
+We study the rigidity questions and the Albanese Variety for Complex Parallelizable Manifolds. Both are related to the study of the cohomology group H^1(X,\mathcal O). In particular we show that a compact complex parallelizable manifold is rigid iff b_1(X)=0 iff Alb(X)=\{e\} iff H^1(X,\mathcal O)=0.

@@ -1,0 +1,1 @@
+The paper deals with generalized positive linear operators based on P\'olya-Eggenberger distribution(PED) as well as inverse P\'olya-Eggenberger distribution(IPED). Initially, we give the moments by using Stirling numbers of second kind and then establish direct results, convergence with the help of local and weighted approximation of proposed operators.

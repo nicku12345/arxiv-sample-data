@@ -1,0 +1,1 @@
+We prove an analogue of Pleijel's nodal domain theorem for piecewise analytic planar domains with Neumann boundary conditions. This confirms a conjecture made by Pleijel in 1956. The proof is a combination of Pleijel's original approach and an estimate due to Toth and Zelditch for the number of boundary zeros of Neumann eigenfunctions.

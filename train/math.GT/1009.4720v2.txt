@@ -1,0 +1,1 @@
+Two Dehn surgeries on a knot are called {\it purely cosmetic}, if they yield manifolds that are homeomorphic as oriented manifolds. Suppose there exist purely cosmetic surgeries on a knot in S^3, we show that the two surgery slopes must be the opposite of each other. One ingredient of our proof is a Dehn surgery formula for correction terms in Heegaard Floer homology.

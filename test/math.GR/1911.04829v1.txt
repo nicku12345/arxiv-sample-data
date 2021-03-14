@@ -1,0 +1,1 @@
+A finite group is said to be a Leinster group if the sum of the orders of its normal subgroups equals twice the order of the group itself. Let p<q<r<s be primes. We prove that if G is a Leinster group of order p^2qr, then G \cong Q_{20}\times C_{19} or Q_{28} \times C_{13}. We also prove that no group of order pqrs is Leinster.

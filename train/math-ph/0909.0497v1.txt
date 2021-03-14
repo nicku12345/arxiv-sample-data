@@ -1,0 +1,1 @@
+A 3D singular integral equation is derived for electromagnetic wave scattering by bodies of arbitrary shape. Its numerical solution by a projection method is outlined.

@@ -1,0 +1,1 @@
+To each symmetric graded Frobenius superalgebra we associate a W-algebra. We then define a linear isomorphism between the trace of the Frobenius Heisenberg category and a central reduction of this W-algebra. We conjecture that this is an isomorphism of graded superalgebras.

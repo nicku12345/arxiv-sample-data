@@ -1,0 +1,1 @@
+The function h^0 for a number field is analogous to the dimension of the Riemann-Roch spaces at divisors on an algebraic curve. We provide a method to compute this function for number fields with unit group of rank at most 2, even with large discriminant. This method is based on using LLL-reduced bases, the "jump algorithm" and Poisson summation formula.

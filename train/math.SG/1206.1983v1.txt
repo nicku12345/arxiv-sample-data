@@ -1,0 +1,1 @@
+In these notes we give a shortened and more direct proof of Goto's generalized Kaehler stability theorem stating that if (J_1,J_2) is a generalized kaehler structure for which J_2 is determined by a nowhere vanishing closed form, then small deformations of J_1 can be coupled with small deformations of J_2 so that the pair remains a generalized Kaehler structure.

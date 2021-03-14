@@ -1,0 +1,1 @@
+Let F be a holomorphic foliation of P^2 by Riemann surfaces. Assume all the singular points of F are hyperbolic. If F has no algebraic leaf, then there is a unique positive harmonic (1,1) current T of mass one, directed by F. This implies strong ergodic properties for the foliation. We also study the harmonic flow associated to the current T.

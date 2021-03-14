@@ -1,0 +1,1 @@
+An element w in the free group on r letters defines a map f from G^r to G for each group G. In this note, we show that whenever w is non-trivial and G is a semisimple algebraic group, f is dominant. When G is a finite simple group, the ratio \log |f(G^r)| over \log |G| tends to 1 as the order of G tends to infinity.

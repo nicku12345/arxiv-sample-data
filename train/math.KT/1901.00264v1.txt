@@ -1,0 +1,1 @@
+We calculate the algebraic K-theory of the coordinate ring of a planar cuspidal curve over a regular \mathbb{F}_p-algebra, thereby verifying a conjecture due to Hesselholt. In the course of the proof we compute the Picard group of the homotopy category of p-complete genuine C_{p^n}-spectra.

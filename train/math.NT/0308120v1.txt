@@ -1,0 +1,1 @@
+We prove that the modular symbols appropriately normalized and ordered have a Gaussian distribution for all cofinite subgroups of SL_2(R). We use spectral deformations to study the poles and the residues of Eisenstein series twisted by power of modular symbols.

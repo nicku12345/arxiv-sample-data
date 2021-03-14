@@ -1,0 +1,1 @@
+Let S be a polynomial algebra over a field. We study classes of monomial ideals (as for example lexsegment ideals) of S having minimal depth. In particular, Stanley's conjecture holds for these ideals. Also we show that if Stanley's conjecture holds for a square free monomial ideal then it holds for all its trivial modifications.

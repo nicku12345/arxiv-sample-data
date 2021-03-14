@@ -1,0 +1,1 @@
+In this paper, we give the general solution of the functional equation \big\{\|f(x)+f(y)\|,\|f(x)-f(y)\|\big\}=\big\{\|x+y\|,\|x-y\|\big\}\qquad(x,y\in X) where f:X\to Y and X,Y are inner product spaces. Related equations are also considered. Our main tool is a real version of Wigner's unitary--antiunitary theorem.

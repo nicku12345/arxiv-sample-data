@@ -1,0 +1,1 @@
+This paper is a brief introduction to idempotent and tropical mathematics. Tropical mathematics can be treated as a result of the so-called Maslov dequantization of the traditional mathematics over numerical fields as the Planck constant \hbar tends to zero taking imaginary values.

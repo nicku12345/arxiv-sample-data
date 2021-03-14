@@ -1,0 +1,1 @@
+It is well known that every bounded below and non increasing sequence in the real line converges. We give a version of this result valid in Banach spaces with the Radon-Nikodym property, thus extending a former result of A. Proch\'azka.

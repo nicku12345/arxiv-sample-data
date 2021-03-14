@@ -1,0 +1,1 @@
+We propose a new analytical method to solve for the nonexactly solvable Schrodinger equation. Successfully, it is applied to a class of spiked harmonic oscillators and truncated Coulomb potentials. The utility of this method could be extended to study other systems of atomic, molecular and nuclear physics interest.

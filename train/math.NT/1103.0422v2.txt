@@ -1,0 +1,1 @@
+It is shown that there is a constant A and a density one subset S of the positive integers, such that for all q in S there is some 1<=p<q, (p, q)=1, so that p/q has all its partial quotients bounded by A.

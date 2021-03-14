@@ -1,0 +1,1 @@
+We derive conditions for L_2 differentiability of generalized linear models with error distributions not necessarily belonging to exponential families, covering both cases of stochastic and deterministic regressors. These conditions induce smoothness and integrability conditions for corresponding GLM-based time series models.

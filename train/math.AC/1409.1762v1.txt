@@ -1,0 +1,1 @@
+Let A = K[[X_1,\cdots,X_n]] and let \mathfrak{m} = (X_1,\cdots,X_n). Let M be a Cohen-Macaulay A-module of codimension p. In this paper we give a necessary and sufficient condition for the associated graded module G_{\mathfrak{m}}(M) to have a pure resolution over the polynomial ring G_{\mathfrak{m}}(A) \cong K[X_1,\cdots,X_n].

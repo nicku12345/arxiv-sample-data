@@ -1,0 +1,1 @@
+Let B be a regular local ring and G\subset\Aut(B) a finite group of local automorphisms. Assume that G is cyclic of prime order p, where p is equal to the residue characteristic of B. We give conditions under which the ring of invariants A=B^G is again regular.

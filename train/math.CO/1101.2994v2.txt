@@ -1,0 +1,1 @@
+We revisit the old idea of constructing difference sets from cyclotomic classes. Two constructions of skew Hadamard difference sets are given in the additive groups of finite fields using unions of cyclotomic classes of order N=2p_1^m, where p_1 is a prime and m a positive integer. Our main tools are index 2 Gauss sums, instead of cyclotomic numbers.

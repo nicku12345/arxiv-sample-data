@@ -1,0 +1,1 @@
+We generalize Bertram's work on rank two vector bundles to an irreducible projective nodal curve C. We use extensions of a line bundle L by O_C and the associated `forgetful' map to study a compactification of the moduli space of semi-stable vector bundles of rank 2 and determinant L on C.

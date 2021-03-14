@@ -1,0 +1,1 @@
+In this paper we present the exact value for the norm of directional derivatives, of all orders, for symmetric tensor powers of operators on finite dimensional vector spaces. Using this result we obtain an upper bound for the norm of all directional derivatives of immanants.   This work is inspired in results by R. Bhatia, J. Dias da Silva, P. Grover and T. Jain.

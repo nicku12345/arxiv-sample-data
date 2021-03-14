@@ -1,0 +1,1 @@
+We present a short proof of the Fabry quotient theorem, which states that for a complex power series with unit radius of convergence, if the quotient of its consecutive coefficients tends to  s , then the point  z=s  is a singular point of the series. This proof only uses material from undergraduate university studies.

@@ -1,0 +1,1 @@
+We prove that the jacobian Newton diagram of the holomorphic mapping (f,g):(C^2,0)\to(C^2,0) depends only on the equisingularity class of the pair of curves f=0 and g=0.

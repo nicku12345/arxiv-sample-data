@@ -1,0 +1,1 @@
+It is shown that there exist Banach spaces X,Y, a 1-net \mathscr{N} of X and a Lipschitz function f:\mathscr{N}\to Y such that every F:X\to Y that extends f is not uniformly continuous.

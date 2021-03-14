@@ -1,0 +1,1 @@
+Spectral triples are defined for C*-algebras associated with hyperbolic dynamical systems known as Smale spaces. The spectral dimension of one of these spectral triples is shown to recover the topological entropy of the Smale space.

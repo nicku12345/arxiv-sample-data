@@ -1,0 +1,1 @@
+We consider a quasi-convex planar domain \Omega with a rectifiable boundary containing an exponential cusp and show that there is no homeomorphism f: \bR^2\to\bR^2 of finite distortion with \exp(\lambda K)\in L_{loc}^{1}(\bR^2) for some \lambda>0 such that f(B)=\Omega. On the other hand, if we only require that K_f(x)\in L_{loc}^{p}(\bR^2), then such an f exists.

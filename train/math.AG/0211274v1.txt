@@ -1,0 +1,1 @@
+In this paper we show that the relative canonical sheaf of a relatively minimal fibration of curves over a curve is semi-ample ; in fact, its m-tensored product is base point free for any m > 1. We use Koszul cohomology with it to prove that the relative canonical ring of the fibration is generated in degree up to five.

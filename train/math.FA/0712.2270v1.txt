@@ -1,0 +1,1 @@
+Starting with a sigma finite measure on an algebra, we define a pseudometric and show how measurable sets from the Caratheodory Extension Theorem can be thought of as limit points of Cauchy sequences in the algebra.

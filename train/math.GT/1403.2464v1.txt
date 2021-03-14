@@ -1,0 +1,1 @@
+We make use of the action of H_1(Y) in Heegaard Floer homology to generalize the Ozsv\'ath-Szab\'o correction terms for 3-manifolds with standard \operatorname{HF}^\infty. We establish the basic properties of these invariants: conjugation invariance, behavior under orientation reversal, additivity, and spin^c rational homology cobordism invariance.

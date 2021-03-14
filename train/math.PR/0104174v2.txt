@@ -1,0 +1,1 @@
+An explicit coupling construction of random-cluster measures is presented. As one of the applications of the construction, the Potts model on amenable Cayley graphs is shown to exhibit at every temperature the mixing property known as Bernoullicity.

@@ -1,0 +1,1 @@
+In this paper we are interested in the application of ergodic theory in integral functionals defined in generalizes Sobolev-Orlicz spaces. We provide examples of inhomogeneous, random media based on continuum percolation models that have been introduced in a previous paper. Finally we apply the limit theorem to the homogenization method introduced by E. Khruslov.

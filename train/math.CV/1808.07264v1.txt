@@ -1,0 +1,1 @@
+We study the complex Monge-Amp\`ere equation (dd^c u)^n=\mu in a strictly pseudoconvex domain \Omega with the boundary condition u=\varphi, where \varphi\in C(\partial\Omega). We provide a non-trivial sufficient condition for continuity of the solution u outside "small sets".

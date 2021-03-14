@@ -1,0 +1,1 @@
+We use bordered Floer homology to give a formula for the knot Floer homology of any (p, pn+1)-cable of a thin knot K in terms of Delta_K(t), tau(K), p, and n. We also give a formula for the Ozsvath-Szabo concordance invariant tau(K_{p, pn+1}) in terms of tau(K), p, and n, and a formula for tau(K_{p,q}) for almost all relatively prime p and q.

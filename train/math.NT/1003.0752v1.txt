@@ -1,0 +1,1 @@
+Assuming the Riemann Hypothesis, we show that infinitely often consecutive non-trivial zeros of the Riemann zeta-function differ by at least 2.7327 times the average spacing and infinitely often they differ by at most 0.5154 times the average spacing.

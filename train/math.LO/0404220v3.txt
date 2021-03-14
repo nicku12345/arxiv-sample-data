@@ -1,0 +1,1 @@
+Dealing with the cardinal invariants p and t of the continuum we prove that m=p=aleph_2 -> t = aleph_1. In other words if MA_{aleph_1} (or a weak version of this) then (of course aleph_2 <= p <= t and) p = aleph_2 -> p = t . This is based on giving a consequence of p<t.

@@ -1,0 +1,1 @@
+Let B1 denote the set {0,1} with the usual operations except that 1+1=1, in other words, the smallest characteristic 1 semifield . We compare two possible analogues of the notion of prime ideal for B1--algebras. We then consider the relations between these notions and Deitmar's theory of F1--schemes.

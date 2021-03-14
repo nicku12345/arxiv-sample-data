@@ -1,0 +1,1 @@
+We introduce the homotopy surface category of a space which generalizes the 1+1-dimensional cobordism category of circles and surfaces to the situation where one introduces a background space. We explain how for a simply connected background space, monoidal functors from this category to vector spaces can be interpreted in terms of Frobenius algebras with additional structure.

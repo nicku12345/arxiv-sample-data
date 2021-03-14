@@ -1,0 +1,1 @@
+As a general rule, it is considered that the global gauge invariance of an action integral does not cause the occurrence of gauge field. However, in this paper we demonstrate that when the so-called localized assumption is excluded, the gauge field will be induced by the global gauge invariance of the action integral. An example is given to support this conclusion.

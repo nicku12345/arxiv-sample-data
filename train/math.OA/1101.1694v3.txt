@@ -1,0 +1,1 @@
+Weaver has recently defined the notion of a quantum relation on a von Neumann algebra. We demonstrate that the corresponding notion of a quantum function between two von Neumann algebras coincides with that of a normal unital *-homomorphism in the opposite direction. This is essentially a reformulation of a previously known result from the theory of Hilbert von Neumann modules.

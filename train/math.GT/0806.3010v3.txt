@@ -1,0 +1,1 @@
+We discuss corks, and introduce new objects which we call plugs. Though plugs are fundamentally different objects, they also detect exotic smooth structures in 4-manifolds like corks. We discuss relation between corks, plugs and rational blow-downs. We show how to detect corks and plugs inside of some exotic manifolds. Furthermore, we construct knotted corks and plugs.

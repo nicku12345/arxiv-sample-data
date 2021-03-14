@@ -1,0 +1,1 @@
+We discuss finding large integer solutions of d=2x^3+y^3+z^3 by using Elsenhans and Jahnel's adaptation of Elkies' LLL-reduction method. We find 28 first solutions for |d|<10000.

@@ -1,0 +1,1 @@
+We define a new symmetry for morphisms of vector bundles, called triality symmetry, and compute Chern class formulas for the degeneracy loci of such morphisms. In an appendix, we show how to canonically associate an octonion algebra bundle to any rank 2 vector bundle.

@@ -1,0 +1,1 @@
+In this paper we derive necessary and sufficient conditions for the nonnegativity of Moore-Penrose inverses of unbounded Gram operators between real Hilbert spaces. These conditions include statements on acuteness of certain closed convex cones. The main result generalizes the existing result for bounded operators [11, Theorem 3.6].

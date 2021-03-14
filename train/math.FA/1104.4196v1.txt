@@ -1,0 +1,1 @@
+For a monic polynomial p(z) with coefficients in a unital complex Banach algebra, we prove that there exist a complex number z such that p(z)is not invertible

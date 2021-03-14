@@ -1,0 +1,1 @@
+Let f be a nonincreasing function defined on [0,1]. Under standard regularity conditions, we derive the asymptotic distribution of the supremum norm of the difference between f and its Grenander-type estimator on sub-intervals of [0,1]. The rate of convergence is found to be of order (n/\log n)^{-1/3} and the limiting distribution to be Gumbel.

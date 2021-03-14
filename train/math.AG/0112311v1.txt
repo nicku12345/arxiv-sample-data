@@ -1,0 +1,1 @@
+We describe in the space of binary forms of degree d the strata of forms having constant rank. We also give a simple algorithm to determine the rank of a given form.

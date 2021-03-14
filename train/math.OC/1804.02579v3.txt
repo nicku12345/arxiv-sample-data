@@ -1,0 +1,1 @@
+A new adaptive approach is proposed for variational inequalities with a Lipschitz-continuous field. Estimates of the necessary number of iterations are obtained to achieve a given quality of the variational inequality solution. A generalization of the method under consideration to the case of a Holder-continuous field is considered.

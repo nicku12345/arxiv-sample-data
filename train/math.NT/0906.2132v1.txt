@@ -1,0 +1,1 @@
+We give explicit numerical values with 100 decimal digits for the Mertens constant involved in the asymptotic formula for \sum\limits_{\substack{p\leq x p\equiv a \bmod{q}}}1/p and, as a by-product, for the Meissel-Mertens constant defined as \sum_{p\equiv a \bmod{q}} (\log(1-1/p)+1/p), for q \in \{3, ..., 100\} and (q, a) = 1.

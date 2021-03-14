@@ -1,0 +1,1 @@
+Many interesting spectra can be constructed as Thom spectra of easily constructed bundles. Mahowald showed that \mathit{bu} and \mathit{bo} cannot be realized as E_1 Thom spectra. We use related techniques to show that \mathit{tmf}_{(2)} also cannot be realized as an E_1 Thom spectrum.

@@ -1,0 +1,1 @@
+In this paper, we introduce the zero divisor graph of a multiplicative lattice. We provide a counter example to Beck's conjecture for multiplicative lattices. Further, we prove that Beck's conjecture is true for reduced multiplicative lattice which extends the result of Behboodi and Rakeei[7], and Aalipour et. al.[1].

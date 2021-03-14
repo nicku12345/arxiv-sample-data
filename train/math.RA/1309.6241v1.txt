@@ -1,0 +1,1 @@
+Any associative bilinear multiplication on the set of n-by-n matrices over some field of characteristic not two, that makes the same vectors orthogonal and has the same trace as ordinary matrix multiplication, must be ordinary matrix multiplication or its opposite.

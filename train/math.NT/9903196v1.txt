@@ -1,0 +1,1 @@
+Assuming the Generalized Riemann Hypothesis, the authors study when a character sum over all n <= x is o(x); they show that this holds if log x / log log q -> infinity and q -> infinity (q is the size of the finite field).

@@ -1,0 +1,1 @@
+The predicate complementary to the well-known Godel's provability predicate is defined. From its recursiveness new consequences concerning the incompleteness argumentation are drawn and extended to new results of consistency, completeness and decidability with regard to Peano Arithmetic and the first order predicate calculus.

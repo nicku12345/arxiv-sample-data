@@ -1,0 +1,1 @@
+We prove that if a system has superpolynomial (faster than any power law) decay of correlations then the time \tau_{r}(x,x_{0}) needed for a typical point x to enter for the first time a ball B(x_{0},r) centered in x_{0}, with small radius r scales as the local dimension at x_{0}, i.e. \underset{r\to 0}{\lim}\frac{\log \tau_{r}(x,x_{0})}{-\log r}=d_{\mu }(x_{0}).

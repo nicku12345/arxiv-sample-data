@@ -1,0 +1,1 @@
+In this paper, we study spectral problems for the Sturm-Liouville operator with arbitrary complexvalued potential q(x) and two-point boundary conditions. All types of mentioned boundary conditions are considered. We ivestigate in detail the completeness property and the basis property of the root function system.

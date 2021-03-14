@@ -1,0 +1,1 @@
+Hopf representation is a module and comodule with a consistency condition that is more general than the consistency condition of Hopf modules. For a Hopf algebra H, we construct an induced Hopf representation from a representation of a bialgebra B using a bialgebra epimorphism \pi: H\rightarrow B. Application on the quantum group E_{q}(2) is given.

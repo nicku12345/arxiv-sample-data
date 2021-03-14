@@ -1,0 +1,1 @@
+We compute the cotorsion product of the mod 2 cohomology of spinor group spin(n), which is the E_2-term of the Rothenberg-Steenrod spectral sequence for the mod 2 cohomology of the classifying space of the spinor group spin(n). As a consequence of this computation, we show the non-collapsing of the Rothenberg-Steenrod spectral sequence for n > 16.

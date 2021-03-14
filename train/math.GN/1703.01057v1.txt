@@ -1,0 +1,1 @@
+We investigate the classical Alexandroff-Borsuk problem in the category of non-triangulable manifolds: Given an n-dimensional compact non-triangulable manifold M^n and \varepsilon > 0, does there exist an \varepsilon-map of M^n onto an n-dimensional finite polyhedron which induces a homotopy equivalence?

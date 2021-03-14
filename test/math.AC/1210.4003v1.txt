@@ -1,0 +1,1 @@
+Using the connections among almost complete intersection schemes, arithmetically Gorenstein schemes and schemes that are union of complete intersections we give a structure theorem for arithmetically Cohen-Macaulay union of two complete intersections of codimension 2. We apply the results for computing Hilbert functions and graded Betti numbers for such schemes.

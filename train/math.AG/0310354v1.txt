@@ -1,0 +1,1 @@
+We construct a compactification M_d of the moduli space of plane curves of degree d. We regard a plane curve C as a surface-divisor pair (P^2,C) and define M_d as a moduli space of pairs (X,D) where X is a degeneration of the plane. We show that, if d is not divisible by 3, the stack M_d is smooth and the degenerate surfaces X can be described explicitly.

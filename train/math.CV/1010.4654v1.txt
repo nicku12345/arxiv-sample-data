@@ -1,0 +1,1 @@
+We show that a family of meromorphic functions in the unit disk \dk whose spherical derivatives are uniformly bounded away from zero is normal. Furthermore, we show that for each f meromorphic in \dk we have \inf_{z\in\dk} f^#(z)\le \frac{1}{2} where f^# denotes the spherical derivative of f.

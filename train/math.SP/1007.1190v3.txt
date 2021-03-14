@@ -1,0 +1,1 @@
+We give a short proof of the Morse index theorem for geodesics in semi-Riemannian manifolds by using K-theory. This makes the Morse index theorem reminiscent of the Atiyah-Singer index theorem for families of selfadjoint elliptic operators.

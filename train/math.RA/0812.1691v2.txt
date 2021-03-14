@@ -1,0 +1,1 @@
+Let H be a Hopf algebra, and A an H-Galois extension. We investigate H-Morita autoequivalences of A, introduce the concept of H-Picard group, and we establish an exact sequence linking the H-Picard group of A and the Picard group of A^{{\rm co}H}.

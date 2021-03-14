@@ -1,0 +1,1 @@
+Jaeger [Geom. Dedicata 44 (1992), 23-52] discovered a remarkable checkerboard state model based on the Higman-Sims graph that yields a value of the Kauffman polynomial, which is a quantum invariant of links. We present a simple argument that the state model has the desired properties using the combinatorial B_2 spider [Comm. Math. Phys. 180 (1996), 109-151].

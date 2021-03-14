@@ -1,0 +1,1 @@
+This paper is the supplement to the section 2 of the paper "Floating bundles and their applications" (math.AT/0102054). Below we construct the denumerable set of extensions of the formal group of geometric cobordisms F(x\otimes 1,1\otimes x) by the Hopf algebra H=\Omega_U^*(Gr).

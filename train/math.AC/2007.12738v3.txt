@@ -1,0 +1,1 @@
+Among reduced Noetherian prime characteristic commutative rings, we prove that a regular ring is precisely one where finite intersection of ideals commutes with taking bracket powers. However, reducedness is essential for this equivalence. Connections are made with Ohm-Rush content theory, intersection-flatness of the Frobenius map, and various flatness criteria.

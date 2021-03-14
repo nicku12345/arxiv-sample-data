@@ -1,0 +1,1 @@
+The aim of this article is to show that the arithmetic of Pell conics admits a description which is completely analogous to that of elliptic curves: there is a theory of 2-descent with associated Selmer and Tate-Shafarevich groups, and there should be an analog of the conjecture of Birch and Swinnerton-Dyer.

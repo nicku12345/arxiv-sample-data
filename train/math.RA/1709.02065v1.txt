@@ -1,0 +1,1 @@
+Motivated by the concept of clean ideals, we introduce the notion of nil clean ideals of a ring. We define an ideal I of a ring R to be nil clean ideal if every element of I can be written as a sum of an idempotent and a nilpotent element of R. In this article we discuss various properties of nil clean ideals.

@@ -1,0 +1,1 @@
+We show that if a group G acts by isometries on a metric space M which has asymptotic property C, such that the quasi-stabilizers of a point x \in M have asymptotic dimension less than or equal to n, then G itself has asymptotic property C.

@@ -1,0 +1,1 @@
+In this note we obtain defining equations of modular curves X_0(2^{2n}). The key ingredient is a recursive formula for certain generators of the function fields on X_0(2^{2n}).

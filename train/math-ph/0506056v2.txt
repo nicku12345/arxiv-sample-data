@@ -1,0 +1,1 @@
+This contribution summarizes our work with M.Zworski on open quantum open chaoticmaps (math-ph/0505034). For a simple chaotic scattering system (the open quantum baker's map), we compute the "long-living resonances" in the semiclassical r\'{e}gime, and show that they satisfy a fractal Weyl law. We can prove this fractal law in the case of a modified model.

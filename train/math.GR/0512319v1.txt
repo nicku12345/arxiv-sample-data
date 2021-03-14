@@ -1,0 +1,1 @@
+Let M(S) be the Banach algebra of all bounded regular Borel measures on a locally compact Hausdorff semitopological semigroup S with variation norm and convolution as multiplication. We obtain necessary and sufficient conditions for M(S)^{*} to have a topologically left invariant mean.

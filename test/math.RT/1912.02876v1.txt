@@ -1,0 +1,1 @@
+We generalize the results in [2] giving a reduction algorithm allowing to compute the index of seaweed subalgebras of classical simple Lie algebras. We thus are able to obtain the index of some interesting families of seaweed subalgebras and to give new examples of large classes of Frobenius Lie algebras among them.

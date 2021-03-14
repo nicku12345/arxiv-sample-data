@@ -1,0 +1,1 @@
+Let I be a two-dimensional squarefree monomial ideal of a polynomial ring S. We evaluate the geometric regularity, a_i-invariants for i\geq 1 of the power I^n. It turns out they are all linear functions in n from n=2. Moreover, it is proved \mbox{g-reg}(S/I^n)=\reg(S/I^{(n)}) for all n\geq 1.

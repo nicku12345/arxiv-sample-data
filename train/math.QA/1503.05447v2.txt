@@ -1,0 +1,1 @@
+We introduce Hopf categories enriched over braided monoidal categories. The notion is linked to several recently developed notions in Hopf algebra theory, such as Hopf group (co)algebras, weak Hopf algebras and duoidal categories. We generalize the fundamental theorem for Hopf modules and some of its applications to Hopf categories.

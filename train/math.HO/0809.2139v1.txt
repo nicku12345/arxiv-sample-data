@@ -1,0 +1,1 @@
+We use only addition and multiplication to construct the primitive roots of p^{k+1} from the primitive roots of p^{k}, where p is an odd prime and k is at least 2.

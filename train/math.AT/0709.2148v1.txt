@@ -1,0 +1,1 @@
+We use techniques of Freedman and Teichner to prove that, under certain circumstances, the multi-infection of a slice link is again slice (not necessarily smoothly slice). We provide a general context for proving links are slice that includes many of the previously known results.

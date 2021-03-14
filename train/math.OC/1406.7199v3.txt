@@ -1,0 +1,1 @@
+We provide further evidence to favor the fact that rank-one convexity does not imply quasiconvexity for two-component maps in dimension two. We provide an explicit family of maps parametrized by \tau, and argue that, for small \tau, they cannot be achievable by lamination. In this way, Morrey's conjecture might turn out to be correct in all cases.

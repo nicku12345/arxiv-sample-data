@@ -1,0 +1,1 @@
+We show that rectangular Kronecker coefficients stabilize when the lengths of the sides of the rectangle grow, and we give an explicit formula for the limit values in terms of invariants of \fsl_n.

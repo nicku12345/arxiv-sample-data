@@ -1,0 +1,1 @@
+For the two Cartan type S subalgebras of the Witt algebra \W_n, called Lie algebras of divergence-zero vector fields, we determine all module structures on the universal enveloping algebra of their Cartan subalgebra \h_n. We also give all submodules of these modules.

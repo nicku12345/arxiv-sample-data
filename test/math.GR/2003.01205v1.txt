@@ -1,0 +1,1 @@
+Let G be a finite group. The solubility graph associated with the finite group G, denoted by \Gamma_{\cal S}(G), is a simple graph whose vertices are the non-trivial elements of G, and there is an edge between two distinct elements x and y if and only if \langle x, y\rangle is a soluble subgroup of G. In this paper, we examine some properties of solubility graphs.

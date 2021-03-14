@@ -1,0 +1,1 @@
+In this paper we prove that the typical Lipschitz function has no directional derivative at any point of a Borel set E if and only if E is contained in a countable union of closed purely unrectifiable sets.

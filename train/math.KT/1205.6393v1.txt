@@ -1,0 +1,1 @@
+Given a completely rational conformal net A on the circle, its fusion ring acts faithfully on the K_0-group of a certain universal C*-algebra associated to A, as shown in a previous paper. We prove here that this action can actually be identified with a Kasparov product, thus paving the way for a fruitful interplay between conformal field theory and KK-theory.

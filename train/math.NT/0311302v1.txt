@@ -1,0 +1,1 @@
+Some results and conjectures on Z_2(s) = \int_1^\infty |\zeta(1/2+ix)|^4x^{-s}dx (\Re s > 1) are presented. Consequences of these conjectures regarding the eighth moment of |\zeta(1/2+it) and the error term in the fourth moment of |\zeta(1/2+it) are discussed.

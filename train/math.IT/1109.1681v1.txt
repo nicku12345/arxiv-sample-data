@@ -1,0 +1,1 @@
+All extremal ternary codes of length 48 that have some automorphism of prime order p\geq 5 are equivalent to one of the two known codes, the Pless code or the extended quadratic residue code.

@@ -1,0 +1,1 @@
+We show that if a 1-ended group G acts geometrically on a CAT(0) space X and \bd X is separated by m points then either G is virtually a surface group or G splits over a 2-ended group. In the course of the proof we study nesting actions on \R -trees and we show that nesting actions with non overlapping translation intervals give rise to isometric actions.

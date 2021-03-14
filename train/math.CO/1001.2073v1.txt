@@ -1,0 +1,1 @@
+We show that if G is a graph of sufficiently large order n containing as many r-cliques as the r-partite Turan graph of order n; then for some C>0 G has more than Cn^(r-1) (r+1)-cliques sharing a common edge unless G is isomorphic to the the r-partite Turan graph of order n. This structural result generalizes a previous result that has been useful in extremal graph theory.

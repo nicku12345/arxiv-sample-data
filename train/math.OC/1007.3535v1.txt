@@ -1,0 +1,1 @@
+We propose an algorithm for computing the proximity operator of a sum of composite convex functions in Hilbert spaces and investigate its asymptotic behavior. Applications to best approximation and image recovery are described.

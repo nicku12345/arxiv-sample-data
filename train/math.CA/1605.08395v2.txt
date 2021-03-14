@@ -1,0 +1,1 @@
+We construct explicit (i.e., non-random) examples of Salem sets in \mathbb{R}^2 of dimension s for every 0 \leq s \leq 2. In particular, we give the first explicit examples of Salem sets in \mathbb{R}^2 of dimension 0 < s < 1. This extends a theorem of Kaufman.

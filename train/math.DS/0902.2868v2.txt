@@ -1,0 +1,1 @@
+An algebraizable singularity is a germ of a singular holomorphic foliation which can be defined in some appropriate local chart by a differential equation with algebraic coefficients. We show that there exists at least countably many saddle-node singularities of the complex plane that are not algebraizable.

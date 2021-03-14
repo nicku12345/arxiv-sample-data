@@ -1,0 +1,1 @@
+We relate the Sierpinski triangle and the game of Nim. We begin by defining both a new high-dimensional analog of the Sierpinski triangle and a natural geometric interpretation of the losing positions in Nim, and then, in a new result, show that these are equivalent in each finite dimension.

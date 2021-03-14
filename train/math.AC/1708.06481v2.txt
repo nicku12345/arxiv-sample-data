@@ -1,0 +1,1 @@
+Let M be either an F-finite F-module over a noetherian regular ring of characteristic p > 0 or a holonomic D-module over a formal power series ring over a field of characteristic zero. We prove that \injdim_R M enjoys a dichotomy property: it has only two possible values, \dim \Supp_R M - 1 or \dim \Supp_R M.

@@ -1,0 +1,1 @@
+We prove an etale local-global principle for the telescope conjecture and use it to show that the telescope conjecture holds for derived categories of Azumaya algebras on noetherian schemes as well as for many classifying stacks and gerbes. This specializes to give another proof of the fact that the telescope conjecture holds for noetherian schemes.

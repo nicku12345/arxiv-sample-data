@@ -1,0 +1,1 @@
+The aim of this note is to point out some inaccuracies in our paper \cite{HD} and to fix them. Some new notions are introduced and properties of them are investigated.

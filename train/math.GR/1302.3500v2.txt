@@ -1,0 +1,1 @@
+In this paper we study ends of finitely generated semigroups. The ends we are working with are the ends of the undirected graphs of Cayley graphs of finitely generated semigroups. We prove that the number of ends is preserved for subsemigroups of finite Rees index, and prove the same result for finite Green index subsemigroups of cancellative semigroups.

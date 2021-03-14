@@ -1,0 +1,1 @@
+Topological indices are real numbers invariant under graph isomorphisms. Chromatic analogue of topological indices has been introduced recently in literature in 2017. Mainly, chromatic versions of Zagreb indices are studied lately. This paper discusses the notion of chromatic topological and irregularity indices of certain cycle related graphs.

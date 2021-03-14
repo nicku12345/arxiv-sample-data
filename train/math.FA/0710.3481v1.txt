@@ -1,0 +1,1 @@
+The images of Hermite and Laguerre Sobolev spaces under the Hermite and special Hermite semigroups (respectively) are characterised. These are used to characterise the Schwartz class of rapidly decreasing functions. The image of the space of all tempered distributions is also considered and a Paley-Wiener theorem for the windowed Fourier transform is proved.

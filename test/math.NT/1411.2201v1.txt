@@ -1,0 +1,1 @@
+For every positive integer k such that k>1, there are an infinity of odd integers h with \omega(h) =k distinct prime divisors such that there do not exist a Circulant Hadamard matrix H of order n=4h^2. Moreover, our main result implies that for all of the odd numbers h, with 1< h < 10^{13} there is no Circulant Hadamard matrix of order n=4h^2.

@@ -1,0 +1,1 @@
+An algebraic \Gamma-action is an action of a countable group \Gamma on a compact abelian group X by continuous automorphisms of X. We prove that any expansive algebraic action of a finitely generated nilpotent group \Gamma on a connected group X is ergodic. We also show that this result does not hold for actions of polycyclic groups.

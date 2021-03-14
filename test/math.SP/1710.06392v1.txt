@@ -1,0 +1,1 @@
+In this note we consider a heat trace expansion on a manifold with wedge-like singularity. We show that there are two terms in the expansion that contain information about the presence of the singularity, namely the logarithmic term ct^{-1/2}\log t and the half power term bt^{-1/2}. We also give a geometric expression for c.

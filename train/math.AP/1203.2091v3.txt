@@ -1,0 +1,1 @@
+In this paper we study the rate of convergence of the eigenvalues of 1-dimensional rapidly oscillating p-laplacian type problems and find explicit order of convergence both in k and in \ve. Moreover, explicit bounds on the constant entering in the estimate are also obtained.

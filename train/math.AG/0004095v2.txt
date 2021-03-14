@@ -1,0 +1,1 @@
+We show birationality of the morphism associated to line bundles L of type (1,...,1,2,...,2,4,...,4) on a generic g-dimensional abelian variety into its complete linear system such that h^0(L)=2^g. When g=3, we describe the image of the abelian threefold and from the geometry of the moduli space SU_C(2) in the linear system |2\theta_C|, we obtain analogous results in \p H^0(L).

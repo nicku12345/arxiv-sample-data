@@ -1,0 +1,1 @@
+We construct a class of Gorenstein local rings R which admit minimal complete R-free resolutions \bd C such that the sequence \{\rank_R C_i\} is constant for i< 0, and grows exponentially for all i>0. Over these rings we show that there exist finitely generated R-modules M and N such that \Ext^i_R(M,N)=0 for all i> 0, but \Ext^i_R(N,M)\ne 0 for all i>0.

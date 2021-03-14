@@ -1,0 +1,1 @@
+We consider Albeverio- Rabanovich linear representation \pi of the braid group B_3. After specializing the indeterminates used in defining the representation to non-zero complex numbers, we prove that the restriction of \pi to the pure braid group P_3 of dimension three is irreducible.

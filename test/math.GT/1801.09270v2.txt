@@ -1,0 +1,1 @@
+We show that the graph TQFT for Heegaard Floer homology satisfies a strong version of Atiyah's duality axiom for a TQFT. As an application, we compute some Heegaard Floer mixed invariants of 4-dimensional mapping tori in terms of Lefschetz numbers on HF^+.

@@ -1,0 +1,1 @@
+We introduce the notion of discrete cusp for a weighted graph. In this context, we provethat the form-domain of the magnetic Laplacian and that of thenon-magnetic Laplacian can be different. We establish the emptiness of the essential spectrum and compute theasymptotic of eigenvalues for the magnetic Laplacian.

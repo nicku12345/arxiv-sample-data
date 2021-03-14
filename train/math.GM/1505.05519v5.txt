@@ -1,0 +1,1 @@
+This note generalizes the Fibonacci primitive roots to the set of integers. An asymptotic formula for counting the number of integers with such primitive root is introduced here.

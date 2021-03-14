@@ -1,0 +1,1 @@
+It is shown that for every \alpha, where \alpha\in [0, 1/2], there exists an \alpha-rigid transformation whose spectrum has Lebesgue component. This answers the question posed by Klemes and Reinhold in [7]. We apply a certain correspondence between weak limits of powers of a transformation and its skew products.

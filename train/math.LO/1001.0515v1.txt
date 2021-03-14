@@ -1,0 +1,1 @@
+We give sufficient conditions for a predicate P in a complete theory T to be stably embedded: P with its induced 0-definable structure has "finite rank", P has NIP in T and P is 1-stably embedded. This generalizes recent work by Hasson and Onshuus in the case where P is o-minimal in T.

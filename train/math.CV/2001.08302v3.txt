@@ -1,0 +1,1 @@
+We prove the weighted L^p regularity of the ordinary Bergman projection on certain pseudoconvex domains where the weight belongs to an appropriate generalization of the B\'{e}koll\`{e}-Bonami class. The main tools used are estimates on the Bergman kernel obtained by McNeal and B\'{e}koll\`{e}'s original approach of proving a good-lambda inequality.

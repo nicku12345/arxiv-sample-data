@@ -1,0 +1,1 @@
+In this paper, we study a matrix equation X^n = aI. We factorize X^n - aI based upon the factorization of x^n - a and then give a necessary and sufficient condition for one of the factors to be the zero matrix.

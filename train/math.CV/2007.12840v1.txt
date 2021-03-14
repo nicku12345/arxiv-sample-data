@@ -1,0 +1,1 @@
+Suppose w is a sense-preserving harmonic mapping of the unit disk \mathbb{D} such that w(\mathbb{D})\subseteq\mathbb{D} and w has a zero of order p\geq1 at z=0. In this paper, we first improve the Schwarz lemma for w, and then, we establish its boundary Schwarz lemma. Moreover, by using the automorphism of \mathbb{D}, we further generalize this result.

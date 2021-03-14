@@ -1,0 +1,1 @@
+Telescoping sums very naturally lead to probability distributions on {\mathbb Z}^+. But are these distributions typically cosmetic and devoid of motivation? In this paper we give three examples of "first occurrence" distributions, each defined by telescoping sums, and that each arise from concrete questions about the structure of permutations.

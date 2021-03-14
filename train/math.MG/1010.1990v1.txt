@@ -1,0 +1,1 @@
+In 1933, Borsuk conjectured that any bounded d-dimensional set of nonzero diameter can be broken into d + 1 parts of smaller diameter. This conjecture was disproved for large enough d, though it is true for low dimensional cases. The paper provides an alternative proof for d = 2 case.

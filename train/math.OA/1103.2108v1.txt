@@ -1,0 +1,1 @@
+A linear map u\colon \ E\to F between operator spaces is called completely co-bounded if it is completely bounded as a map from E to the opposite of F. We give several simple results about completely co-bounded Schur multipliers on B(\ell_2) and the Schatten class S_p. We also consider Herz-Schur multipliers on groups.

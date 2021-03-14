@@ -1,0 +1,1 @@
+We generalize Watson's  q -analogue of Ramanujan's Entry 40 continued fraction by deriving solutions to a  {}_{10} \phi_9  series contiguous relation and applying Pincherle's theorem. Watson's result is recovered as a special terminating case, while a limit case yields a new continued fraction associated with an  \ephis  series contiguous relation.

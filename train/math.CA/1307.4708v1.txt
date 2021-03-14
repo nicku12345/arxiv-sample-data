@@ -1,0 +1,1 @@
+We give a dimension-free Euler estimation of solution of rough differential equations in term of the driving rough path. In the meanwhile, we prove that, the solution of rough differential equation is close to the exponential of a Lie series, with a concrete error bound.

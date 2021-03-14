@@ -1,0 +1,1 @@
+This note consists of two parts. Part I is an exposition of (a part of) the V.Drinfeld's letter, [D].   The sheaf of algebras of polyvector fields on a Calabi-Yau manifold, equipped with the Schouten bracket, admits a structure of a Batalin-Vilkovisky algebra. This fact was probably first noticed by Z.Ran, [R]. Part II is devoted to some generalizations of this remark.

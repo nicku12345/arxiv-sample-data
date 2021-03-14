@@ -1,0 +1,1 @@
+We show that the spectrum of Kontsevich's algebra of formal periods is a torsor under the motivic Galois group for mixed motives over the rational numbers. This assertion is stated without proof by Kontsevich and originally due to Nori. In a series of appendices, we also provide the necessary details on Nori's category of motives.

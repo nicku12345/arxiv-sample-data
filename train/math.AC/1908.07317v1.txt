@@ -1,0 +1,1 @@
+Let \mathfrak{q} be an ideal of a Noetherian local ring (A,\mathfrak{m}) and M a non-zero finitely generated A-module. We present a criterion of Cohen-Macaulayness of the form module G_M(\mathfrak{q}) in terms of (non-)vanishing of a variation of local cohomology introduced in \cite{KSch}.

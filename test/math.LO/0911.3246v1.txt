@@ -1,0 +1,1 @@
+We prove that every two-player non-zero-sum Borel game with lower-semi-continuous payoffs admits a subgame-perfect \ep-equilibrium. This result complements Example 3 in Solan and Vieille (2003), which shows that a subgame-perfect \ep-equilibrium need not exists when the payoffs are not lower-semi-continuous.

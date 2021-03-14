@@ -1,0 +1,1 @@
+We show that the order of torsion homology classes in Bar-Natan deformation of Khovanov homology is a lower bound for the unknotting number. We give examples of knots that this is a better lower bound than |s(K)/2|, where s(K) is the Rasmussen s invariant defined by the Bar-Natan spectral sequence.

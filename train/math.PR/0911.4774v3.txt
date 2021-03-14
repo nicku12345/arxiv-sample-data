@@ -1,0 +1,1 @@
+We prove that a planar random walk with bounded increments and mean zero which is conditioned to stay in a cone converges weakly to the corresponding Brownian meander if and only if the tail distribution of the exit time from the cone is regularly varying. This condition is satisfied in many natural examples.

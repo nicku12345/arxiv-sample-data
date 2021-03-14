@@ -1,0 +1,1 @@
+We study the linearized maximal operator associated with dilates of the hyperbolic cross multiplier in dimension two. Assuming a Lipschitz condition and a lower bound on the linearizing function, we obtain L^{p}(\mathbb{R}^{2}) \to L^{p}(\mathbb{R}^{2}) bounds for all 1<p <\infty. We discuss various related results.

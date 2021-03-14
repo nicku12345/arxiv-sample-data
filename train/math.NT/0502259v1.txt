@@ -1,0 +1,1 @@
+Let n be an odd number and F an imaginary quadratic field with odd discriminant. We show that there exists infinitely many cubic fields K such that the class number of K is divisible by n and the Galois closure of K contains F.

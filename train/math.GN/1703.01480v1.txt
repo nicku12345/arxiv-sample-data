@@ -1,0 +1,1 @@
+A lion and a man move continuously in a space X. The aim of the lion is to capture his prey while the man wants to escape forever. Which of them has a strategy? This question has been studied for different metric domains. In this article we consider the case of general topological spaces.

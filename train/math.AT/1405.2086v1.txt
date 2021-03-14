@@ -1,0 +1,1 @@
+We develop a cofibrantly generated model category structure in the category of topological spaces in which weak equivalences are A-weak equivalences and such that the generalized CW(A)-complexes are cofibrant objects. With this structure the exponential law turns out to be a Quillen adjunction.

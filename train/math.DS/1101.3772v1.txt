@@ -1,0 +1,1 @@
+We construct generalized polygons (`parking garages') in which the billiard flow satisfies the Veech dichotomy, although the associated translation surface obtained from the Zemlyakov-Katok unfolding is not a lattice surface. We also explain the difficulties in constructing a genuine polygon with these properties.

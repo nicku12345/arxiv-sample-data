@@ -1,0 +1,1 @@
+The following short note provides an alternative proof of a result of Coornaert: namely, that given a non-elementary word-hyperbolic group G with a finite generating set X, there exist constants \lambda,D > 1 such that \[ D^{-1}\lambda^n \leq |B_{G,X}(n)| \leq D \lambda^n \] for all n \geq 0, where B_{G,X}(n) is the ball of radius n in the Cayley graph \Gamma(G,X).

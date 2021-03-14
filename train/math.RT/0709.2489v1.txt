@@ -1,0 +1,1 @@
+It is known that any square matrix over any field F is congruent to its transpose. We show that they are also *congruent with respect to any nonidentity involution on F.

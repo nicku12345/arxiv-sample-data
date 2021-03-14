@@ -1,0 +1,1 @@
+A polytope is called a Coxeter polytope if its dihedral angles are integer parts of \pi. In this paper we prove that if a non-compact Coxeter polytope of finite volume in H^n has exactly n+3 facets then n\le 16. We also find an example in H^{16} and show that it is unique.

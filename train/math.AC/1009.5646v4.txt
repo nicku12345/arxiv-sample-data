@@ -1,0 +1,1 @@
+We show that the Stanley's Conjecture holds for an intersection of four monomial prime ideals of a polynomial algebra S over a field and for an arbitrary intersection of monomial prime ideals (P_i)_{i\in [s]} of S such that P_i\not\subset \Sigma_{1=j\not =i}^s P_j for all i\in [s].

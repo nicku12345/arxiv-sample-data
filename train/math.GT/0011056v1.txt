@@ -1,0 +1,1 @@
+Let M be a simple 3-manifold with a toral boundary component. It is known that if two Dehn fillings on M along the boundary produce a reducible manifold and a toroidal manifold, then the distance between the filling slopes is at most three. This paper gives a remarkably short proof of this result.

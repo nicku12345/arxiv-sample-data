@@ -1,0 +1,1 @@
+Let X be a smooth projective n-fold such that q(X)=0 and L a globally generated, big line bundle on X such that h^0(K_X+(n-2)L) >0. We give necessary and sufficient conditions for the adjoint systems |K_X+kL| to be birational for k \geq n-1. In particular, for Calabi-Yau n-folds we generalize and prove parts of a conjecture of Gallego and Purnaprajna.

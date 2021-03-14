@@ -1,0 +1,1 @@
+First we recall the notion of conxity and log-convexity for real-valued. Then we generalize the trick used by Artin in his famous paper on the Gamma function to find log-convex solutions to the functional equations f(x+1)=g(x)f(x). This gives rise to understand a function by its representer.

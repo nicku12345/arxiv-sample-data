@@ -1,0 +1,1 @@
+This paper introduces a new approach to finding knots and links with hidden symmetries using "hidden extensions", a class of hidden symmetries defined here. We exhibit a family of tangle complements in the ball whose boundaries have symmetries with hidden extensions, then we further extend these to hidden symmetries of some hyperbolic link complements.

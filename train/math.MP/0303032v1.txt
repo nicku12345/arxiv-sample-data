@@ -1,0 +1,1 @@
+New examples of the Yang-Baxter maps (or set-theoretical solutions to the quantum Yang-Baxter equation) on the Grassmannians arising from the theory of the matrix KdV equation are discussed. The Lax pairs for these maps are produced using the relations with the inverse scattering problem for the matrix Schr\"odinger operator.

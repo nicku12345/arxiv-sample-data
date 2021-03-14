@@ -1,0 +1,1 @@
+We obtain an asymptotic formula for the smoothly weighted first moment of primitive quadratic Dirichlet L-functions at the central point, with an error term that is "square-root" of the main term. Our approach uses a recursive technique that feeds the result back into itself, successively improving the error term.

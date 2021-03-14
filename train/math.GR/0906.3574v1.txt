@@ -1,0 +1,1 @@
+The minimal faithful permutation degree of a finite group G, denote by \mu(G) is the least non-negative integer n such that G embeds inside the symmetric group \Sym(n). In this paper, we outline a Magma proof that 10 is the smallest degree for which there are groups G and H such that \mu(G \times H) < \mu(G)+ \mu(H).

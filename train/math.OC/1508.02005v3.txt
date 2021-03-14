@@ -1,0 +1,1 @@
+We define two new constants associated with real eigenvalues of a P-tensor. With the help of these two constants, in the case of P-tensors, we establish upper bounds of two important quantities, whose positivity is a necessary and sufficient condition for a general tensor to be a P-tensor.

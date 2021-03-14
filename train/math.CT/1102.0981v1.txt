@@ -1,0 +1,1 @@
+We prove a coherence theorem for braided monoidal bicategories and relate it to the coherence theorem for monoidal bicategories. We show how coherence for these structures can be interpretted topologically using up-to-homotopy operad actions and the algebraic classification of surface braids.

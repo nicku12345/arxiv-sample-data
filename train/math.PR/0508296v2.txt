@@ -1,0 +1,1 @@
+Mixed distributions are considered as a results of application of a linear operator, which maps mixing measures to mixed measures. The main result is a proof of continuity of this mixing operator. Corollaries for parametric families of distributions (usually considered in literature) are also discussed.

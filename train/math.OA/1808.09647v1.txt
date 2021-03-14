@@ -1,0 +1,1 @@
+We prove the title by constructing 2-colourable completely positive approximations for the Toeplitz algebra. Besides results about nuclear dimension and completely positive contractive order zero maps, our argument involves projectivity of the cone over a finite dimensional C*-algebra and Lin's theorem on almost normal matrices.

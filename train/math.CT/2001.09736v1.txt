@@ -1,0 +1,1 @@
+A coherence result for symmetric monoidal closed categories with biproducts is shown in this paper. It is explained how to prove, by using the same technique, coherence for compact closed categories with biproducts and for dagger compact closed categories with dagger biproducts.

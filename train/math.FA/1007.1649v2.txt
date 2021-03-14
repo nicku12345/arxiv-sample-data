@@ -1,0 +1,1 @@
+We show that for n\geq 2 the n-weak amenability of the second dual \A^{**} of a Banach algebra \A implies that of \A. We also provide a positive answer for the case n=1, which sharpens some older results. Our method of proof also provides a unified approach to give short proofs for some known results in the case where n=1.

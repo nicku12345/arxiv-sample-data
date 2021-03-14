@@ -1,0 +1,1 @@
+We study the mod p motivic cohomology of homogeneous varieties such as GL_{n}/GL_{r} or Sp_{2n}/Sp_{2n-2} along with the action of the Steenrod operations, without restrictions on the characteristic of the base field. In particular, we prove that certain quotient maps do not admit sections.

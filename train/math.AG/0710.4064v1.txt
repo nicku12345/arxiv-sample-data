@@ -1,0 +1,1 @@
+We generalise the variant of the Babylonian tower theorem for vector bundles on projective spaces proved by I. Coanda and G. Trautmann (2006) to the case of principal G-bundles over projective spaces, where G is a linear algebraic group defined over an algebraically closed field. In course of the proofs some new insight into the structure of such principal G-bundles is obtained.

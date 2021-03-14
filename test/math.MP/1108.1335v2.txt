@@ -1,0 +1,1 @@
+This is an expository account of Balaban's approach to the renormalization group. The method is illustrated with a treatment of the the ultraviolet problem for the scalar phi^4 model on a toroidal lattice in dimension d=3. This yields another proof of the stability bound. In this first paper we analyze the small field contribution to the partition function.

@@ -1,0 +1,1 @@
+We consider families of E_0-semigroups continuously parametrized by a compact Hausdorff space, which are cocycle-equivalent to a given E_0-semigroup \beta. When the gauge group of \beta is a Lie group, we establish a correspondence between such families and principal bundles whose structure group is the gauge group of \beta.

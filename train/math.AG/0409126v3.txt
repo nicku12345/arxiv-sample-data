@@ -1,0 +1,1 @@
+In this paper, we state the validity of Cramer's rule in a tropical context and its correspondence with classical Cramer's rule. This correspondence will allow us to prove a constructive version of Pappus' theorem conjectured in the paper First Steps in Tropical Geometry, math.AG/0306366

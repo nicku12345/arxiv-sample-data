@@ -1,0 +1,1 @@
+A model category is called combinatorial if it is cofibrantly generated and its underlying category is locally presentable. As shown in recent years, homotopy categories of combinatorial model categories share useful properties, such as being well generated and satisfying a very general form of Ohkawa's theorem.

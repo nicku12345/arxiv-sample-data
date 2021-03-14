@@ -1,0 +1,1 @@
+We give a purely combinatorial algorithm for the computation of the decomposition matrices for Ariki-Koike algebras when the parameters are powers of the same root of unity. It generalizes the LLT algorithm.

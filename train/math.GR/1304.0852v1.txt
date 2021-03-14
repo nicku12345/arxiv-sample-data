@@ -1,0 +1,1 @@
+We show that the permutation module over \mathbb{C} afforded by the action of Sp_{2m}(2^f) on its natural module is isomorphic to the permutation module over \mathbb{C} afforded by the action of Sp_{2m}(2^f) on the union of the right cosets of O_{2m}^+(2^f) and O_{2m}^-(2^f).

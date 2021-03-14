@@ -1,0 +1,1 @@
+We will show that separable unital AF-algebras whose Bratteli diagrams do not allow converging two nodes into one node, can be classified up to the tensor product with the universal UHF-algebra \Q only by their trace spaces. That is, if \A and \B are such AF-algebras, then T(A)=T(B) if and only if \A\otimes \Q \cong \B\otimes \Q.

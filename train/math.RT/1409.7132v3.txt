@@ -1,0 +1,1 @@
+In this note, we consider perverse sheaves on the nilpotent cone. We prove orthogonality relations for the equivariant category of sheaves on the nilpotent cone in a method similar to Lusztig's for character sheaves. We also consider cleanness for cuspidal perverse sheaves and the generalized Lusztig--Shoji algorithm.

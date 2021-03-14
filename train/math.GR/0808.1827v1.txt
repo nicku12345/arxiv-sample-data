@@ -1,0 +1,1 @@
+We use topological methods to study the maximal subgroups of the free idempotent generated semigroup on a biordered set. We use these to give an example of a free idempotent generated semigroup with maximal subgroup isomorphic to the free abelian group of rank 2. This is the first example of a non-free subgroup of a free idempotent generated semigroup.

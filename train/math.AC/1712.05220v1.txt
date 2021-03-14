@@ -1,0 +1,1 @@
+Fixed two positive integers m and e, some algorithms for computing the minimal Frobenius number and minimal genus of the set of numerical semigroups with multiplicity m and embedding dimension e are provided. Besides, the semigroups where these minimal values are achieved are computed too.

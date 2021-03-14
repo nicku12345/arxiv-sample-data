@@ -1,0 +1,1 @@
+We prove that if S is a set of functions from a set A to itself, S is closed under composition, and S contains all transpositions of A, then the action of S on Acan be recovered from the semigroup consisting of S together with its compositionoperation. We also prove the analogous statement for clones.

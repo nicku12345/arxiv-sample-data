@@ -1,0 +1,1 @@
+We are interested in L^p-theory for the tangential Cauchy-Riemann operator in locally embeddable, s-concave, generic CR manifolds. We study the Dolbeault isomorphism and develop the Andreotti-Grauert theory in that setting. Using Serre duality, we solve the tangential Cauchy-Riemann equation with exact support and L^p-estimates.

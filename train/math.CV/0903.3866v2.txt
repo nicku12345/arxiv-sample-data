@@ -1,0 +1,1 @@
+We examine the asymptotic behaviour of the zeros of sections of the binomial expansion. That is, we consider the distribution of zeros of \displaystyle B_{r,n}(z) = \sum_{k=0}^r {n \choose k} z^k, where 1 \le r < n.

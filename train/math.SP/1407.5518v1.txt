@@ -1,0 +1,1 @@
+In this paper we study the best constant in a Hardy inequality for the p-Laplace operator on convex domains with Robin boundary conditions. We show, in particular, that the best constant equals ((p-1)/p)^p whenever Dirichlet boundary conditions are imposed on a subset of the boundary of non-zero measure. We also discuss some generalizations to non-convex domains.

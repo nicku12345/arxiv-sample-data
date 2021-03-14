@@ -1,0 +1,1 @@
+Let N(n, t) be the minimal number of points in a spherical t-design on the unit sphere S^n in R^{n+1}. For each n >= 3, we prove a new asymptotic upper bound N(n, t) <= C(n)t^{a_n}, where C(n) is a constant depending only on n, a_3 <= 4, a_4 <= 7, a_5 <= 9, a_6 <= 11, a_7 <= 12, a_8 <= 16, a_9 <= 19, a_10 <= 22, and a_n < n/2*log_2(2n), n > 10.

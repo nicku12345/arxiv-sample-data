@@ -1,0 +1,1 @@
+An inaccessible cardinal kappa is supercompact when (kappa, lambda)-ITP holds for all lambda greater than or equal to kappa. We prove that if there is a model of ZFC with infinitely many supercompact cardinals, then there is a model of ZFC where for every natural number n greater than 1 and for every ordinal mu greater than or equal to aleph_n, we have (aleph_n, mu)-ITP.

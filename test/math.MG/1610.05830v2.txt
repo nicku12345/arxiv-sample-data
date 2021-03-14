@@ -1,0 +1,1 @@
+We have discovered a "little" gap in our proof of the sharp conjecture that in \mathbb{R}^n with volume and perimeter densities r^m and r^k, balls about the origin are uniquely isoperimetric if 0 < m \leq k - k/(n+k-1), that is, if they are stable (and m > 0). The implicit unjustified assumption is that the generating curve is convex.

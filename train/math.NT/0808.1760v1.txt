@@ -1,0 +1,1 @@
+Let E/F be a cyclic Galois extension of degree p^l with Galois group G. It is shown that the Galois module structure of both sides of the Kummer pairing (for Kummer extensions of E) are the same. In other words, we show that the Kummer duality holds in the level of finitely generated G-modules.

@@ -1,0 +1,1 @@
+The use of Cauchy's method to prove Euler's well-known formula is an object of many controversies. The purpose of this paper is to prove that Cauchy's method applies for convex polyhedra and not only for them, but also for surfaces such as the torus, the projective plane, the Klein bottle and the pinched torus.

@@ -1,0 +1,1 @@
+Let K be the quotient field of a complete local domain of dimension 2 with a separably closed residue field. Let G be a finite group of order not divisible by char(K). Then G is admissible over K if and only if its Sylow subgroups are abelian of rank at most 2.

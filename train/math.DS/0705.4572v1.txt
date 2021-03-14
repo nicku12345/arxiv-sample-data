@@ -1,0 +1,1 @@
+For a class of one-dimensional holomorphic maps f of the Riemann sphere we prove that for a wide class of potentials h the topological pressure is entirely determined by the values of h on the repelling periodic points of f. This is a version of a classical result of Bowen for hyperbolic diffeomorphisms in the holomorphic non-uniformly hyperbolic setting.

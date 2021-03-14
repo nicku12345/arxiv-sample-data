@@ -1,0 +1,1 @@
+We present some simple relations between the absolute minimizers of the functional ||Du+Xu||, where X is a vector field on R^n, and ground state solutions to the (non-relativistic) Schroedinger equation. This article is a byproduct of the study of the more general functional ||ADu+F'(u)X||.

@@ -1,0 +1,1 @@
+This note corrects an error in the char(K)=2 case of the author's computation of the bordism groups of K-Witt spaces for the field K.

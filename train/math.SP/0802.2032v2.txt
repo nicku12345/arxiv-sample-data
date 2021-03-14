@@ -1,0 +1,1 @@
+We prove conditions on potentials which imply that the sum of the negative eigenvalues of the Schroeodinger operator is finite. We use a method for bounding eigenvalues based on estimates of the Hilbert-Schmidt norm of semigroup differences and on complex analysis

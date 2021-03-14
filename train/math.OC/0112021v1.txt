@@ -1,0 +1,1 @@
+A notion of "asymptotic Cauchy gain" for input/output systems, and an associated small-gain principle, are introduced.   A Lyapunov-like characterization allows the computation of these gains for state-space systems, and the formulation of sufficient conditions insuring the lack of oscillations and chaotic behaviors in a wide variety of cascades and feedback loops.

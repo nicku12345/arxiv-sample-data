@@ -1,0 +1,1 @@
+We present two new proofs of Simon Henry's result that the category of simplicial sets admits a constructive counterpart of the classical Kan-Quillen model structure. Our proofs are entirely self-contained and avoid complex combinatorial arguments on anodyne extensions. We also give new constructive proofs of the left and right properness of the model structure.

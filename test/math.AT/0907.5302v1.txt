@@ -1,0 +1,1 @@
+We prove that the Betti numbers of simplicial complexes of bounded vertex degrees are testable in constant time.

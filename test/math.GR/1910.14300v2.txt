@@ -1,0 +1,1 @@
+If a finite quasisimple group G with simple quotient S is embedded into a suitable classical group X through the smallest degree of a projective representation of S, then the normalizer of G in X is a maximal subgroup of X, up to two series of exceptions where S is a Ree group, and four exceptions where S is sporadic.

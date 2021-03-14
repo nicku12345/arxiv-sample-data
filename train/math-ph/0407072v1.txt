@@ -1,0 +1,1 @@
+In this paper we give an asymptotic expansion including error terms for the number of cycles in homology classes for connected graphs. Mainly, we obtain formulae about the coefficients of error terms which depend on the homology classes and give two examples of how to calculate the coefficient of first error term.

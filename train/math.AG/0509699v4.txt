@@ -1,0 +1,1 @@
+We prove some results on formality for families of DG algebras; in particular, we prove that formality is stable under specialization. The results are more-or-less known, but it seems that there are no published proofs.

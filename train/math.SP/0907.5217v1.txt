@@ -1,0 +1,1 @@
+We give a complete description of the set of spectral data (eigenvalues and specially introduced norming constants) for Sturm--Liouville operators on the interval [0,1] with matrix-valued potentials in the Sobolev space W_2^{-1} and suggest an algorithm reconstructing the potential from the spectral data that is based on Krein's accelerant method.

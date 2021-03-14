@@ -1,0 +1,1 @@
+The existence of parabolic orbits is obtained for a class of singular Hamiltonian systems \ddot{u}(t)+\nabla V(u(t))=0 by taking limit for a sequence of non-collision periodic solutions which are obtained by Mountain Pass Lemma.

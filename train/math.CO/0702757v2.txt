@@ -1,0 +1,1 @@
+This paper is devoted to one theory of hypergraph connectivity and presents the proof of the polynomial algorithm for finding an optimal spanning hyperforest(hypertree) for any given weighed q-uniform hypergraph.

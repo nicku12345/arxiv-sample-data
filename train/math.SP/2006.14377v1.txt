@@ -1,0 +1,1 @@
+We consider the spectral structure of the Neumann--Poincar\'e operators defined on the boundaries of thin domains of rectangle shape in two dimensions. We prove that as the aspect ratio of the domains tends to \infty, or equivalently, as the domains get thinner, the spectra of the Neumann--Poincar\'e operators are densely distributed in the interval [-1/2,1/2].

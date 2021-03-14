@@ -1,0 +1,1 @@
+We prove the following uniqueness result for the buckling plate. Assume there exists a smooth domain which minimizes the first buckling eigenvalue for a plate among all smooth domains of given volume. Then the domain must be a ball. The proof uses the second variation for the buckling eigenvalue and an inequality by L. E. Payne to establish this result.

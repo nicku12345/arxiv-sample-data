@@ -1,0 +1,1 @@
+We prove optimal sparsity oracle inequalities for the estimation of covariance matrix under the Frobenius norm. In particular we explore various sparsity structures on the underlying matrix.

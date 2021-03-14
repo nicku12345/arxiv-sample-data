@@ -1,0 +1,1 @@
+We investigate extensions of S. Solecki's theorem on closing off finite partial isometries of metric spaces \cite{solecki1} and obtain the following exact equivalence: any action of a discrete group \Gamma by isometries of a metric space is finitely approximable if and only if any product of finitely generated subgroups of \Gamma is closed in the profinite topology on \Gamma.

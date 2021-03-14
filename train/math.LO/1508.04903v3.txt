@@ -1,0 +1,1 @@
+We define Magidor cardinals as J\'onsson cardinals upon replacing colorings of finite subsets by colorings of \aleph_0-bounded subsets. Unlike J\'onsson cardinals which appear at some low level of large cardinals, we prove the consistency of having quite large cardinals along with the fact that no Magidor cardinal exists.

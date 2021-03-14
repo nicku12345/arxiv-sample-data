@@ -1,0 +1,1 @@
+This paper deals with codimension one (may be singular) foliations on compact K\"alher manifolds whose conormal bundle is assumed to be pseudo-effective. Using currents with minimal singularities, we show that one can endow the space of leaves with a metric of constant non positive curvature wich may degenerate on a rigidly embedded invariant hypersurface.

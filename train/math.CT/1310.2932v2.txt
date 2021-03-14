@@ -1,0 +1,1 @@
+We show that a category \mathscr{M} equipped with a model structure defined by a proper, locally small class of orbits \mathscr{O} is Quillen equivalent to the category of small relative presheaves \mathcal{P}(\mathscr{M},\mathscr{O}).

@@ -1,0 +1,1 @@
+Consider a random walk among random conductances on \mathbb{Z}^d with d\geq 2. We study the quenched limit law under the usual diffusive scaling of the random walk conditioned to have its first coordinate positive. We show that the conditional limit law is the product of a Brownian meander and a (d-1)-dimensional Brownian motion.

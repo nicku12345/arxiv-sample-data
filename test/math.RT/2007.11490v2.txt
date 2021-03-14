@@ -1,0 +1,1 @@
+Our first aim is to provide an analog of the Gabriel-Quillen embedding theorem for n-exact categories. Also we give an example of an n-exact category that is not an n-cluster tilting subcategory, and we suggest two possible ways for realizing n-exact categories as n-cluster tilting subcategory.

@@ -1,0 +1,1 @@
+We prove that every infinite-dimensional (locally convex) linear topological space that can be expressed as a direct limit of finite-dimensional metrizable compacta is (linearly) homeomorphic to the space R^\infty=\dlim R^n.

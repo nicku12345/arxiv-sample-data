@@ -1,0 +1,1 @@
+We categorify the extended affine Hecke algebra and the affine quantum Schur algebra S(n,r) for 2 < r < n, using Elias-Khovanov and Khovanov-Lauda type diagrams. We also define the affine analogue of the Elias-Khovanov and the Khovanov-Lauda 2-representations of these categorifications into an extension of the 2-category of affine (singular) Soergel bimodules.

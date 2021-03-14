@@ -1,0 +1,1 @@
+We obtain two classifications of weighted projective spaces; up to homeomorphism and up to homotopy equivalence. We show that the former coincides with Al Amrani's classification up to isomorphism of algebraic varieties, and deduce the latter by proving that the Mislin genus of any weighted projective space is rigid.

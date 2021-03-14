@@ -1,0 +1,1 @@
+New modifications of the methods for simultaneous extraction of all roots of polynomials over an arbitrary Chebyshev system are elaborated. A cubic convergence of iterations is proved. The method presented is a generalisation of the classical methods of Obreshkoff and Ehrlich for simultaneous seeking of all roots of algebraic equations. Numerical examples are provided.

@@ -1,0 +1,1 @@
+Let K be a field, and A=K[a_1,\ldots ,a_n] a solvable polynomial algebra in the sense of [K-RW, {\it J. Symbolic Comput.}, 9(1990), 1--26]. Based on the Gr\"obner basis theory for A and for free modules over A, an elimination theory for left ideals of A and an elimination theory for submodules of free A-modules are established.

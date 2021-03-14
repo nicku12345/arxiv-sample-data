@@ -1,0 +1,1 @@
+In this paper we prove the following rigidity theorem: a generic analytic polyhedron with non-compact automorphism group is biholomorphic to the product of a complex manifold with compact automorphism group and a polydisk. Moreover, this complex manifold and the dimension of this polydisk can be explicitly described in terms of the limit set of the automorphism group.

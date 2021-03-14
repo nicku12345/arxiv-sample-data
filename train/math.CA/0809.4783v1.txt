@@ -1,0 +1,1 @@
+Most notably we prove that for d=1,2 the classical Strichartz norm \|e^{i s\Delta}f\|_{L^{2+4/d}_{s,x}(\mathbb{R}\times\mathbb{R}^d)} associated to the free Schr\"{o}dinger equation is nondecreasing as the initial datum f evolves under a certain quadratic heat-flow.

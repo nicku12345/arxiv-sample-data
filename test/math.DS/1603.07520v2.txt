@@ -1,0 +1,1 @@
+We consider arbitrary one-parameter cubic deformations of the Duffing oscillator x"=x-x^3. In the case when the first Melnikov function M_1 vanishes, but M_2\neq 0 we compute the general form of M_2 and study its zeros in a suitable complex domain.

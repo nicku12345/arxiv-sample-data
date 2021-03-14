@@ -1,0 +1,1 @@
+We study tail probabilities via some Gaussian approximations. Our results make refinements to large deviation theory. The proof builds on classical results by Bahadur and Rao. Binomial distributions and their tail probabilities are discussed in more detail.

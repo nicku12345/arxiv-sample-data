@@ -1,0 +1,1 @@
+We give an algorithm that uses only unitary transformations and for each square complex matrix constructs a *congruent matrix that is a direct sum of a nonsingular matrix and singular Jordan blocks.

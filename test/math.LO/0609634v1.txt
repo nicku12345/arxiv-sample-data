@@ -1,0 +1,1 @@
+For any natural n, we construct an aleph_n-free abelian groups which have few homomorphisms to Z . For this we use ``aleph_n-free (n+1)-dimensional black boxes''. The method is relevant to e.g. construction of aleph_n-free abelian groups with a prescribed endomorphism ring.

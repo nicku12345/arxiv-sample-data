@@ -1,0 +1,1 @@
+The orders of magnitudes of the summatory Liouville function L(x), and the summatory Mobius function M(x), are unconditionally proven to be of the forms L(x) = O(x^.5)), and M(x) = O(x^.5) respectively. Furthermore, applications of these estimates to zeta functions and L-functions are also considered.

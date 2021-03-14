@@ -1,0 +1,1 @@
+We consider bond percolation on the {\bf Z}^d lattice. Let M_n be the number of open clusters in B(n)=[-n, n]^d. It is well known that E_pM_n / (2n+1)^d converges to the free energy function \kappa(p) at the zero field. In this paper, we show that \sigma^2_p(M_n)/(2n+1)^d converges to -(p^2(1-p)+p(1-p)^2)\kappa'(p).

@@ -1,0 +1,1 @@
+Let M be a complex projective manifold with the property that for any compact Riemann surface C and holomorphic map f: C -> M the pullback of the tangent bundle of M is semistable. We prove that in this case M is a curve or a finite etale quotient of an abelian variety answering a conjecture of I. Biswas.

@@ -1,0 +1,1 @@
+In this paper we provide a lower bound for the long time on-diagonal heat kernel of minimal submanifolds in a Cartan-hadamard ambient manifold assuming that the submanifold is of polynomial volume growth. In particular cases, that lower bound is related with the number of ends of the submanifold.

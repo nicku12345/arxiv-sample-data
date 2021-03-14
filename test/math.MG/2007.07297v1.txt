@@ -1,0 +1,1 @@
+Let K\subset\mathbb S^{d-1} be a convex spherical body. Denote by \Delta(K) the distance between two random points in K and denote by \sigma(K) the length of a random chord of K. We explicitly express the distribution of \Delta(K) via the distribution of \sigma(K). From this we find the density of distribution of \Delta(K) when K is a spherical cap.

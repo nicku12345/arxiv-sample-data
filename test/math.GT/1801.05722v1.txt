@@ -1,0 +1,1 @@
+Let K denote a knot inside the homology sphere Y and K' denote a knot inside a homology sphere L-space. Let X=Y(K,K') denote the 3-manifold obtained by splicing the complements of K and K'. We show that \text{rank}(\widehat{HF}(X)) \ge \text{rank}(\widehat{HF}(Y)).

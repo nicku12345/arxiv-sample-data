@@ -1,0 +1,1 @@
+We prove that for every k and every \varepsilon>0, there exists g such that every graph with tree-width at most k and odd-girth at least g has circular chromatic number at most 2+\varepsilon.

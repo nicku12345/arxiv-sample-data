@@ -1,0 +1,1 @@
+We determine the limiting distribution of the largest eigenvalue of products from the \beta-Laguerre ensemble. This limiting distribution is given by a Tracy-Widom law with parameter \beta_0>0 depending on the ratio of the parameters of the two matrices involved.

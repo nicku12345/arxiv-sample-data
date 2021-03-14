@@ -1,0 +1,1 @@
+All rational semisimple braided tensor categories are representation categories of weak quasi Hopf algebras. To proof this result we construct for any given category of this kind a weak quasi tensor functor to the category of finite dimensional vector spaces. This allows to reconstruct a weak quasi Hopf algebra with the given category as its representation category.

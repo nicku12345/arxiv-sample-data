@@ -1,0 +1,1 @@
+Denton, Parke, Tao and Zhang gave a new method which determines eigenvectors from eigenvalues for Hermitian matrices with distinct eigenvalues. In this short note, we extend the above result to general Hermitian matrices.

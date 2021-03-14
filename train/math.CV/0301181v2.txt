@@ -1,0 +1,1 @@
+We prove that the graph of a continuous function f, defined on a domain of {\mathbb C}^n, is pluripolar if and only if f is holomorphic.

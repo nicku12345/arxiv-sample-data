@@ -1,0 +1,1 @@
+We improve Algorithm 5.1 of [Math. Comp. {\bf 86} (2017), 2519-2534] for computing all non-isomorphic skew left braces, and enumerate left braces and skew left braces of orders up to 868 with some exceptions. Using the enumerated data, we state some conjectures for further research.

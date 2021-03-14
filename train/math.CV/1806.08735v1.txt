@@ -1,0 +1,1 @@
+We discuss a new approach to realization of the well-known Weierstrass's programme on efficient continuation of an analytic element corresponding to a~multivalued analytic function with finite number of branch points. Our approach is based on the use of Hermite--Pad\'e polynomials.

@@ -1,0 +1,1 @@
+We prove that the genuine C_{2^n}-spectrum N_{C_{2}}^{C_{2^n}}MU_{\mathbb{R}} is cofree, for all n. Our proof is a formal argument using chromatic hypercubes and the Slice Theorem of Hill, Hopkins, and Ravenel. We show that this gives a new proof of the Segal conjecture for C_2, independent of Lin's theorem.

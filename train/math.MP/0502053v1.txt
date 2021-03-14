@@ -1,0 +1,1 @@
+The goal of this note is to give the explicit solution of Euler-Frahm equations for the Manakov four-dimensional case by elementary means. For this, we use some results from the original papers by Schottky [Sch 1891], Koetter [Koe 1892], Weber [We 1878], and Caspary [Ca 1893]. We hope that such approach will be useful for the solution of the problem of n-dimensional top.

@@ -1,0 +1,1 @@
+We present several congruences modulo a power of prime p concerning sums of the following type \sum_{k=1}^{p-1}{m^k\over k^r}{2k\choose k}^{-1} which reveal some interesting connections with the analogous infinite series.

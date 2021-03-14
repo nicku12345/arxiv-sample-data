@@ -1,0 +1,1 @@
+A three-parametrical family of ODEs on a torus arises from a model of Josephson effect in a resistive case when a Josephson junction is biased by a sinusoidal microwave current. We study asymptotics of Arnold tongues of this family on the parametric plane (the third parameter is fixed) and prove that the boundaries of the tongues are asymptotically close to Bessel functions.

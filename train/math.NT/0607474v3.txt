@@ -1,0 +1,1 @@
+We show that finite fields over which there is a curve of a given genus g with its Jacobian having a small exponent, are very rare. This extends a recent result of W. Duke in the case g=1. We also show when g=1 or g=2 that our bounds are best possible.

@@ -1,0 +1,1 @@
+We study positive supersolutions to an elliptic equation (*): -\Delta u=c|x|^{-s}u^p, p,s\in\bf R in cone-like domains in \bf R^N (N\ge 2). We prove that in the sublinear case p<1 there exists a critical exponent p_*<1 such that equation (*) has a positive supersolution if and only if -\infty<p<p_*. The value of p_* is determined explicitly by s and the geometry of the cone.

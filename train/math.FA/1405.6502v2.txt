@@ -1,0 +1,1 @@
+We study Henstock-type integrals for functions defined in a compact metric space T endowed with a regular \sigma-additive measure \mu, and taking values in a Banach lattice X. In particular, the space [0,1] with the usual Lebesgue measure is considered.

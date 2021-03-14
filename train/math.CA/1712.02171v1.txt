@@ -1,0 +1,1 @@
+The purpose of this paper is to show that functions that derivate the two-variable product function and one of the exponential, trigonometric or hyperbolic functions are also standard derivations. The more general problem considered is to describe finite sets of differentiable functions such that derivations with respect to this set are automatically standard derivations.

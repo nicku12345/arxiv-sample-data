@@ -1,0 +1,1 @@
+We give a closed form for the correlation functions of ensembles of asymmetric real matrices in terms of the Pfaffian of an antisymmetric matrix formed from a 2 \times 2 matrix kernel associated to the ensemble. We also derive closed forms for the matrix kernel and correlation functions for Ginibre's real ensemble.

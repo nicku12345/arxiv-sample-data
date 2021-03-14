@@ -1,0 +1,1 @@
+Let X be a hypersurface in \mathbb{P}^{4} of degree d that has at most isolated ordinary double points. We prove that X is factorial in the case when X has at most (d-1)^{2}-1 singular points.

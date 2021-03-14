@@ -1,0 +1,1 @@
+We translate the concept of succession rule and the ECO method into matrix notation, introducing the concept of a production matrix. This allows us to combine our method with other enumeration techniques using matrices, such as the method of Riordan matrices. Finally we treat the case of rational production matrices, i.e. those leading to rational generating functions.

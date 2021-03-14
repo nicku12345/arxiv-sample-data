@@ -1,0 +1,1 @@
+For D an infinite set, k>1 and W the set of k-sets from D, there is a natural closed permutation group G_k which is a non-split extension of \mathbb{Z}_2^W by \Sym(D). We classify the closed subgroups of G_k which project onto \Sym(D). The question arises in model theory as a problem about finite covers, but here we formulate and solve it in algebraic terms.

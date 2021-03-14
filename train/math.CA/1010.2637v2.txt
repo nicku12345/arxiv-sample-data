@@ -1,0 +1,1 @@
+Let T be a Calder\'on-Zygmund singular integral operator. In this paper, we will show some weighted boundedness properties of commutator [b,T] on the weighted Morrey spaces L^{p,\kappa}(w) under appropriate conditions on the weight w, where the symbol b belongs to weighted BMO or Lipschitz space or weighted Lipschitz space.

@@ -1,0 +1,1 @@
+In the present paper we construct the discrete analogue D_m(h\beta) of the differential operator \frac{d^{2m}}{d x^{2m}} + 2\omega^2\frac{d^{2m-2}}{d x^{2m-2}} + \omega^4\frac{d^{2m-4}}{d x^{2m-4}}. The discrete analogue D_m(h\beta) plays the main role in construction of optimal quadrature formulas and interpolation splines minimizing the semi-norm in the K_2(P_m) Hilbert space.

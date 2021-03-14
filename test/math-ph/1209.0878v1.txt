@@ -1,0 +1,1 @@
+The Mahler measure for the n-variable polynomial k+\sum(x_j+1/x_j) is reduced to a single integral of the n-th power of the modified Bessel function I_0. Several special cases are examined in detail

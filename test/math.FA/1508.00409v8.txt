@@ -1,0 +1,1 @@
+We demonstrate that shearlet systems yield superior N-term approximation rates compared with wavelet systems of functions whose first or higher order derivatives are smooth away from smooth discontinuity curves. We will also provide an improved estimate for the decay of shearlet coefficients that intersect a discontinuity curve non-tangentially.

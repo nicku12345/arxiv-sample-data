@@ -1,0 +1,1 @@
+We show that the natural algebraic structure of the singular chains on a path connected topological space determines the fundamental group functorially. Moreover, we describe a notion of weak equivalence for the relevant algebraic structure under which the data of the fundamental group is preserved.

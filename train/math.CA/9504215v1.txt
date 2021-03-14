@@ -1,0 +1,1 @@
+A Lemma of Riemann--Lebesgue type for Fourier--Jacobi coefficients is derived. Via integral representations of Dirichlet--Mehler type for Jacobi polynomials its proof directly reduces to the classical Riemann--Lebesgue Lemma for Fourier coefficients. Other proofs are sketched. Analogous results are also derived for Laguerre expansions and for Jacobi transforms.

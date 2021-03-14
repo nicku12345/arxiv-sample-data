@@ -1,0 +1,1 @@
+If F is a surface with boundary, then a finitely generated subgroup without peripheral elements of G = {\pi}_1(F) can be separated from finitely many other elements of G by a finite index subgroup of G corresponding to a finite cover F' with the same number of boundary components as F .

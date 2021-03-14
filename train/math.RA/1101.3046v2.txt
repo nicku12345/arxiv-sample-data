@@ -1,0 +1,1 @@
+I set out the theory of Schunck classes and projectors for soluble Leibniz algebras, parallel to that for Lie algebras. Primitive Leibniz algebras come in pairs, one (Lie) symmetric, the other antisymmetric. A Schunck formation containing one member of a pair also contains the other. Projectors for a Schunck formation are intravariant.

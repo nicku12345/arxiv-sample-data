@@ -1,0 +1,1 @@
+We show that a twist of a three-dimensional tube of uniform cross-section yields an improved decay rate for the heat semigroup associated with the Dirichlet Laplacian in the tube. The proof employs Hardy inequalities for the Dirichlet Laplacian in twisted tubes and the method of self-similar variables and weighted Sobolev spaces for the heat equation.

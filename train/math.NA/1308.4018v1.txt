@@ -1,0 +1,1 @@
+The solution of Hermitian positive definite random Toeplitz systems Ax=b by the preconditioned conjugate gradient method for the Strang circulant preconditioner is studied. We established the foundation for this method by extending the work of Brown-Halmos on Toeplitz operators and Grenander-Szeg\"o on Teoplitz form to random Teoplitz operators.

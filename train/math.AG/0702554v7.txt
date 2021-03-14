@@ -1,0 +1,1 @@
+We give counterexamples to the Kawamata-Viehweg vanishing theorem on ruled surfaces in positive characteristic, and prove that if there is a counterexample to the Kawamata-Viehweg vanishing theorem on a geometrically ruled surface f:X-->C, then either C is a Tango curve or all of sections of f are ample.

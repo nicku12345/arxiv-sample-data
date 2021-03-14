@@ -1,0 +1,1 @@
+Using techniques from the analysis of PDEs to study the boundary behaviour of functions on domains with low boundary regularity, we extend results by Forna\ae{}ss-Wiegerinck (1989) on plurisubharmonic approximation and by Demailly (1987) on the existence on bounded plurisubharmonic exhaustion functions to domains beyond Lipschitz boundary regularity.

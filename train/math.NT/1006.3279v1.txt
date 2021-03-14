@@ -1,0 +1,1 @@
+Let F=\mathbb{F}_q(T) be the field of rational functions with \mathbb{F}_q-coefficients, and A=\mathbb{F}_q[T] be the subring of polynomials. Let D be a division quaternion algebra over F which is split at 1/T. Given an A-order \Lambda in D, we find an explicit finite set generating \Lambda^\times.

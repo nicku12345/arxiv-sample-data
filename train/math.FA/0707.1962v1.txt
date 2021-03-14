@@ -1,0 +1,1 @@
+We show that in n-fold cartesian product, n >= 4, a related component need not be a full component. We also prove that when n >= 4, uniform boundedness of lengths of geodesics is not a necessary condition for boundedness of solutions of (1) for bounded function f.

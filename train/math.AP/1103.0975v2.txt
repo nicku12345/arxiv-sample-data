@@ -1,0 +1,1 @@
+If \Omega is a bounded domain in \mathbb R^N, we study conditions on a Radon measure \mu on \partial\Omega for solving the equation -\Delta u+e^{u}-1=0 in \Omega with u=\mu on \partial\Omega. The conditions are expressed in terms of nonlinear capacities.

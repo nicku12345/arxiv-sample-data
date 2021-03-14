@@ -1,0 +1,1 @@
+New invariants of links are constructed using the skein invariant polynomial of colored links defined by the author in [1]. These invariants are stronger than the homflypt polynomial.

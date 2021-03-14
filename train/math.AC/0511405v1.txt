@@ -1,0 +1,1 @@
+A concrete description of all graded maximal Cohen-Macaulay modules of rank one and two over the affine cone of the simple node (a non-isolated singularity) is given. For this purpose we construct an alghoritm that provides extensions of MCM modules over an arbitrary hypersurface.

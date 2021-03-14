@@ -1,0 +1,1 @@
+We deal with the finite-dimensional mesh algebras given by stable translation quivers. These algebras are self-injective, and thus the stable categories have a structure of triangulated categories. Our main result determines the Grothendieck groups of these stable categories. As an application, we give an complete classification of the mesh algebras up to stable equivalences.

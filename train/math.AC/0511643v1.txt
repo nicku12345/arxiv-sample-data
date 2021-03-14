@@ -1,0 +1,1 @@
+We introduce the notion of a graded integral element, prove the counterpart of the lying-over theorem on commutative algebra in the context of left commutative rngs, and use the Hu-Liu product to select a class of noncommutative rings.

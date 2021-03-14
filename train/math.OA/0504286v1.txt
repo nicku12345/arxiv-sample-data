@@ -1,0 +1,1 @@
+We give a construction of Kirchberg algebras from graphs. By using product graphs in the construction we are able to provide models for general (UCT) Kirchberg algebras while maintaining the explicit generators and relations of the underlying graphs.

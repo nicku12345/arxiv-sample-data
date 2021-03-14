@@ -1,0 +1,1 @@
+We prove a Decomposition Theorem for the direct image of an irreducible local system on a smooth complex projective variety under a morphism with values in another smooth complex projective variety. For this purpose, we construct a category of polarized twistor D-modules and show a Decomposition Theorem in this category.

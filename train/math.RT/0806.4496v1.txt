@@ -1,0 +1,1 @@
+This paper is a continuation of earlier work on generators of simple Lie algebras in arbitrary characteristic (see arXiv:0708.1711). We show that, in contrast to classical Lie algebras, simple graded Lie algebras of Cartan type S,H or K never enjoy the 'one-and-a-half generation' property. The methods rely on a study of centralisers in Cartan type Lie algebras.

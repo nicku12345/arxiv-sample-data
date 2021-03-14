@@ -1,0 +1,1 @@
+We prove that relative functors out of a cofibration category are essentially the same as relative functors which are only defined on the subcategory of cofibrations. As an application we give a new construction of the functor that assigns to a groupoid its groupoid C^*-algebra and thereby its topological K-theory spectrum.

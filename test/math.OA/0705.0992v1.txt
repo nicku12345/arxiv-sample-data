@@ -1,0 +1,1 @@
+A pure state f of a von Neumann algebra M is called classically normal if f is normal on any von Neumann subalgebra of M on which f is multiplicative. Assuming the continuum hypothesis, a separably represented von Neumann algebra M has classically normal, singular pure states iff there is a central projection p in M such that Mp is a factor of type I_\infty, II, or III.

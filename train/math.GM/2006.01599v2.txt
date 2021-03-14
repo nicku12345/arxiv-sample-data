@@ -1,0 +1,1 @@
+We present an elementary proof of Fermat's Last Theorem. No ancillary results are used, not even the most basic ones. The proof directly leads to a contradiction of the Fermat equation in the set of integers.

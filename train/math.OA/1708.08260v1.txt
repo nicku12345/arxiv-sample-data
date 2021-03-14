@@ -1,0 +1,1 @@
+For any reduced free product \mathrm{C}^*-algebra (A, \varphi) =(A_1, \varphi_1) \star (A_2, \varphi_2), we prove a boundary rigidity result for the embedding of A into its associated \mathrm{C}^*-algebra \Delta \mathbf{T}(A, \varphi). This provides new examples of rigid embeddings of exact \mathrm{C}^*-algebras into purely infinite simple nuclear \mathrm{C}^*-algebras.

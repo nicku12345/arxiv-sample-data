@@ -1,0 +1,1 @@
+Let \Omega denote an algebra of sets and \mu a \sigma-finite measure. We then prove that the completion of \Omega under the pseudometric d(A,B) = \mu^{\ast}(A \triangle B) is \sigma-algebra isomorphic and isometric to the Caratheodory Extension of \Omega under the equivalence relation \sim.

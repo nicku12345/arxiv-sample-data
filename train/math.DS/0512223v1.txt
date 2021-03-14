@@ -1,0 +1,1 @@
+Let p be a saddle fixed point for an orientation-preserving surface diffeomorphism f admitting a homoclinic point q. Let V be an open 2-cell bounded by a simple loop formed by two arcs joining p to q lying respectively in the stable and unstable curves at p. It is shown that f|V has fixed point index 1 or 2 depending only on the geometry of V near p.

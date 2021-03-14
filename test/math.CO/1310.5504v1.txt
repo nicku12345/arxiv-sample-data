@@ -1,0 +1,1 @@
+This report provides an overview of theorems and statements related to a conjecture stated by D.W. Barnette in 1969 (which is an open problem in graph theory): Every cubic, bipartite, polyhedral graph contains a Hamilton cycle.

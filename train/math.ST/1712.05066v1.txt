@@ -1,0 +1,1 @@
+In this article, we study the problem of parameter estimation for a discrete Ornstein - Uhlenbeck model driven by Poisson fractional noise. Based on random walk approximation for the noise, we study least squares and maximum likelihood estimators. Thus, asymptotic behaviours of the estimator is carried out, and a simulation study is shown to illustrate our results.

@@ -1,0 +1,1 @@
+We study polygonal billiards with reflection laws contracting the reflected angle towards the normal. It is shown that if a polygon does not have parallel sides facing each other, then the corresponding billiard map has finitely many ergodic SRB measures whose basins cover a set of full Lebesgue measure.

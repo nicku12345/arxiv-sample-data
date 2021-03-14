@@ -1,0 +1,1 @@
+In this paper, we give a formula for the Maslov index of a gradient holomorphic disc, which is a relative version of the Chern number formula of a gradient holomorphic sphere for a Hamiltonian S^1-action. Using the formula, we classify all monotone Lagrangian non-toric fibers of Gelfand-Cetlin systems on partial flag manifolds.

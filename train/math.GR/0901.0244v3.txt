@@ -1,0 +1,1 @@
+We investigate whether a finitely generated profinite group G could have a finitely generated infinite image. A result of Dan Segal shows that this is impossible if G is prosoluble. We prove that such an image does not exist if G is semisimple or nonuniversal. We also investigate the existense of dense normal subgroups in G.

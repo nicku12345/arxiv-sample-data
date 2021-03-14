@@ -1,0 +1,1 @@
+Let \mathcal{E} be an ample vector bundle of rank r\geq 2 on a smooth complex projective variety X of dimension n. The aim of this paper is to describe the structure of pairs (X,\mathcal{E}) as above whose adjoint bundles K_X+\det\mathcal{E} are not nef for r=n-3. Furthermore, we give some immediate consequences of this result in adjunction theory.

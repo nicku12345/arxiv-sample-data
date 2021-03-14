@@ -1,0 +1,1 @@
+A procedure that generates parallelograms from any quadrilateral is presented. If the original quadrilateral is itself a parallelogram, then the procedure gives squares. Hence, when applied two times, this procedure generates squares from any quadrilateral. The proof needs only undergraduate level.

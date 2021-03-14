@@ -1,0 +1,1 @@
+Let F,G be bicomonads on a monoidal category \mathcal{C}. The aim of this paper is to discuss the smash coproducts of F and G. As an application, the smash coproduct of Hom-bialgebras is discussed. Further, the Hom-entwining structure and Hom-entwined modules are investigated.

@@ -1,0 +1,1 @@
+Let M be a smooth 4-manifold which admits a genus g Lefschetz fibration over D^2 or S^2. We develop a technique to compute the signature of M using the global monodromy of this fibration.

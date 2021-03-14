@@ -1,0 +1,1 @@
+Let F_{q} be any finite field of characteristic p>0 having q = p^{n} elements. In this paper, we have obtained the complete structure of unit groups of group algebras F_{q}[QD_{2^k}], for k = 4 and 5, for any prime p>0, where QD_{2^k} is quasidihedral group of order 2^k

@@ -1,0 +1,1 @@
+The aim of this note is to introduce fastest new general methods for the construction of double and single even order magic squares. As in [5], the method for double even order magic squares is fairly straight-forward but some adjustments are necessary for the single even order magic squares.

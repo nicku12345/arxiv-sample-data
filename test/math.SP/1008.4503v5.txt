@@ -1,0 +1,1 @@
+We prove spectral and dynamical localization for Anderson models on locally finite graphs using the fractional moment method. Our theorems extend earlier results on localization for the Anderson model on \ZZ^d. We establish geometric assumptions for the underlying graph such that localization can be proven in the case of sufficiently large disorder.

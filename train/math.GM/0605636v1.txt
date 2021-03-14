@@ -1,0 +1,1 @@
+In this paper we define new numbers called the Neo-Ramsay numbers. We show that these numbers are in fact equal to the Ramsay numbers. Neo-Ramsey numbers are easy to compute and for finding them it is not necessary to check all possible graphs but enough to check only special kind of graphs having a well-defined adjacency pattern.

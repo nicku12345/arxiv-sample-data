@@ -1,0 +1,1 @@
+A set of data supposed to give possible axioms for spacetimes. It is hoped that such a proposal can serve to become a testing ground on the way to a general formulation. At the moment, the axioms are known to be sufficient for cases with a sufficient number of symmetries, in particular for 1+1 de Sitter spacetime.

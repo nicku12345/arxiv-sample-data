@@ -1,0 +1,1 @@
+These lecture notes concern the algebraic geometry of the character variety of a finitely generated group in SL(2,C) from the point of view of skein modules. We focus on the case of surface and 3-manifolds groups and construct the Reidemeister torsion as a rational volume form on the character variety.

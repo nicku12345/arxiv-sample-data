@@ -1,0 +1,1 @@
+We show that on the unit ball of a certain separable Banach space there is a smooth delbar-closed (0,1)-form which is not locally delbar-exact.   Further, the Dolbeault isomorphism theorem does not generalize to arbitrary Banach spaces.   Lastly, the Newlander-Nirenberg theorem does not generalize to arbitrary smooth integrable almost complex Banach manifolds.

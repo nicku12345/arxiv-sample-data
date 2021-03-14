@@ -1,0 +1,1 @@
+We study smooth actions of SAut(Fn), the unique subgroup of index two in the automorphism group of a free group of rank n, as a part of the generalized 'Zimmer program'. In particular, we show that every action of SAut(Fn) on a low dimensional torus is trivial.

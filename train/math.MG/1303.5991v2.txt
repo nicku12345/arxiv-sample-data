@@ -1,0 +1,1 @@
+For each N\ge C_dt^d we prove the existence of a well separated spherical t-design in the sphere S^d consisting of N points, where C_d is a constant depending only on d.

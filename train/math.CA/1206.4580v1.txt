@@ -1,0 +1,1 @@
+In this note we prove that if a sublinear operator T satisfies a certain weighted estimate in the L^{p}(w) space for all w\in A_{p}, 1<p<+\infty, then the operator norm of T on L^{p}(w) is a continuous function of the weight w, with respect to a certain metric d_{*} on A_{p}. This, generalizes a previous result on the same subject for linear operators.

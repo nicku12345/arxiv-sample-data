@@ -1,0 +1,1 @@
+A well known theorem of Mestre and Schoof implies that the order of an elliptic curve E over a prime field F_q can be uniquely determined by computing the orders of a few points on E and its quadratic twist, provided that q > 229. We extend this result to all finite fields with q > 49, and all prime fields with q > 29.

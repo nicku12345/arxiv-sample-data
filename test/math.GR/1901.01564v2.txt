@@ -1,0 +1,1 @@
+We give a transparent combinatorial characterization of the identities satisfied by the Kauffman monoid \mathcal{K}_3. Our characterization leads to a polynomial time algorithm to check whether a given identity holds in \mathcal{K}_3.

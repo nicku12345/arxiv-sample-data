@@ -1,0 +1,1 @@
+It is shown that a locally compact groupoid with open range map does not always admit a Haar system. It then is shown how to construct a Haar system if the stability groupoid and the quotient by the stability groupoid both admit one.

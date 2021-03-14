@@ -1,0 +1,1 @@
+Recently P. Deligne introduced the tensor category Rep(S_t) (for t not necessarily an integer) which in a certain precise sense interpolates the categories Rep(S_d) of representations of the symmetric groups S_d. In this paper we describe the blocks of Deligne's category Rep(S_t).

@@ -1,0 +1,1 @@
+We propose a new hypermatrix singular value decomposition based upon the spectral decomposition of the symmetric products of transposes.

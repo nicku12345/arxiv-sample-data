@@ -1,0 +1,1 @@
+We consider some natural sets of real numbers arising in ergodic theory and show that they are, respectively, complete in the classes \mathcal D_2 (\mathbf\Pi^0_3) and \mathcal D_\omega (\mathbf \Pi^0_3), that is, the class of sets which are 2-differences (respectively, \omega-differences) of \mathbf \Pi^0_3 sets.

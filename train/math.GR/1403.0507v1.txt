@@ -1,0 +1,1 @@
+We investigate the multiplication group of a special class of quasigroup called AG-group. We prove some interesting results such as: the multiplication group of an AG-group of order n is non-abelian group of order 2n and its left section is an abelian group of order n. The inner mapping group of an AG-group of any order is a cyclic group of order 2.

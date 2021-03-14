@@ -1,0 +1,1 @@
+We explain, following Gromov, how to produce uniform isometric actions of groups starting from isometric actions without fixed point, using common ultralimits techniques. This gives in particular a simple proof of a result by Shalom: Kazhdan's property (T) defines an open subset in the space of marked finitely generated groups.

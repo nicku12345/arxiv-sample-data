@@ -1,0 +1,1 @@
+We prove that if E is an exterior algebra over a field, h is a quadratic form, then E/(h) is Koszul if and only if h is a product of two linear forms.

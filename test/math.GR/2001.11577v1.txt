@@ -1,0 +1,1 @@
+The theory of Engel groups plays an important role in group theory since these groups are closely related to the Burnside problems. In this survey we consider several classical and novel algorithmic problems for Engel groups and propose several open problems. We study these problems with a view towards applications to cryptography.

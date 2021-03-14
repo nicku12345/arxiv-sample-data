@@ -1,0 +1,1 @@
+The arithmetic geometric mean algorithm for calculation of elliptic integrals of the first type was introduced by Gauss. The analog algorithm for Abelian integrals of genus 2 was introduced by Richelot (1837) and Humbert (1901). We present the analogous algorithm for Abelian integrals of genus 3.

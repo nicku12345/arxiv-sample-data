@@ -1,0 +1,1 @@
+We revisit Hardy's inequality in the scope of regular Dirichlet forms following an analytical method. We shall give an alternative necessary and sufficient condition for the occurrence of Hardy's inequality. A special emphasis will be given for the case where the Dirichlet form under consideration is strongly local, extending therefore some known results in the Euclidean case.

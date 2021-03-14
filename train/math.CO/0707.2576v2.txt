@@ -1,0 +1,1 @@
+A proof that every outerplanar graph is \Delta+2 colorable. This is slightly stronger then an unpublished result of Wang Shudong, Ma Fangfang, Xu Jin, and Yan Lijun proving the same for 2-connected outerplanar graphs.

@@ -1,0 +1,1 @@
+We prove a theorem on self-improving regularity for derivatives of solutions of the inequality F(v'(x))\le KG(v'(x)) constructed by means of a quasiconvex function F and a null Lagrangian G. We apply this theorem to improve the stability and H\"older regularity results of \cite{Egor2008} and to establish a theorem on removability of singularities for solutions of this inequality.

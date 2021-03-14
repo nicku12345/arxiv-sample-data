@@ -1,0 +1,1 @@
+We provide a new geometric proof of Reimann's theorem characterizing quasiconformal mappings as the ones preserving functions of bounded mean oscillation. While our proof is new already in the Euclidean spaces, it is applicable in Heisenberg groups as well as in more general stratified nilpotent Carnot groups.

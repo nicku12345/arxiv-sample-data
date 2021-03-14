@@ -1,0 +1,1 @@
+In this note we generalize the trace inequality derived by [1] to the case where the number of terms of the sum (denoted by K) is arbitrary.

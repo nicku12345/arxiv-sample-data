@@ -1,0 +1,1 @@
+It is described how the coefficients of Daubechies wavelet matrices can be approximated by rational numbers in such a way that the perfect reconstruction property of the filter bank be preserved exactly

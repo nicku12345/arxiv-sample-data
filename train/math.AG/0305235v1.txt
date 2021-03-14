@@ -1,0 +1,1 @@
+We study the local topological zeta function associated to a complex function that is holomorphic at the origin of C^2 (respectively C^3). We determine all possible poles less than -1/2 (respectively -1). On C^2 our result is a generalization of the fact that the log canonical threshold is never in ]5/6,1[. Similar statements are true for the motivic zeta function.

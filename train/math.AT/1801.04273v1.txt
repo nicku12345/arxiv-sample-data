@@ -1,0 +1,1 @@
+We compute the cohomology of the unordered configuration spaces of the sphere S^2 with integral and with \mathbb{Z}/p \mathbb{Z}-coefficients using a cell complex by Fuks, Vainshtein and Napolitano.

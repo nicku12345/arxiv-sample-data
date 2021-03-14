@@ -1,0 +1,1 @@
+Let K be an algebraically closed field of characteristic 0 and let M_n(K), n \ge 3, be the matrix ring over K. We will show that the image of any multilinear polynomial in four variables evaluated on M_n(K) contains all matrices of trace 0.

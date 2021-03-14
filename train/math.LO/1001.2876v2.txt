@@ -1,0 +1,1 @@
+We presents an independence relation on sets, one can define dimension by it, assuming that we have an abstract elementary class with a forking notion that satisfies the axioms of a good frame minus stability.

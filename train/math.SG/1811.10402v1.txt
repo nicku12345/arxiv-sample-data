@@ -1,0 +1,1 @@
+We show that one can achieve transversality for lifts of holomorphic disks to a projectivized vector bundle by locally enlarging the structure group and considering the action of gauge transformations on the almost complex structure, which eases computation considerably. As an application we prove a special case of the Arnold-Givental conjecture.

@@ -1,0 +1,1 @@
+In this paper we construct two groupoids from morphisms of groupoids, with one from a categorical viewpoint and the other from a geometric viewpoint. We show that for each pair of groupoids, the two kinds of groupoids of morphisms are equivalent. Then we study the automorphism groupoid of a groupoid.

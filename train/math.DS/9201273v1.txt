@@ -1,0 +1,1 @@
+This note will discuss the dynamics of iterated cubic maps from the real or complex line to itself, and will describe the geography of the parameter space for such maps. It is a rough survey with few precise statements or proofs, and depends strongly on work by Douady, Hubbard, Branner and Rees.

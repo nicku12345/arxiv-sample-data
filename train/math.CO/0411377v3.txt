@@ -1,0 +1,1 @@
+We study the asymptotic behaviour of the trace (the sum of the diagonal parts) of a plane partition of the positive integer n, assuming that this parfition is chosen uniformly at random from the set of all such partitions.

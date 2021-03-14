@@ -1,0 +1,1 @@
+We discuss Donsker's delta function within the framework of White Noise Analysis, in particular its extension to complex arguments. With a view towards applications to quantum physics we also study sums and products of Donsker's delta functions.

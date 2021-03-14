@@ -1,0 +1,1 @@
+It is proven that each commutative arithmetical ring R has a finitistic weak dimension \leq 2. More precisely, this dimension is 0 if R is locally IF, 1 if R is locally semicoherent and not IF, and 2 in the other cases.

@@ -1,0 +1,1 @@
+Given a smooth toric variety X and an ample line bundle O(1), we construct a sequence of Lagrangian submanifolds of (C^*)^n with boundary on a level set of the Landau-Ginzburg mirror of X. The corresponding Floer homology groups form a graded algebra under the cup product which is canonically isomorphic to the homogeneous coordinate ring of X.

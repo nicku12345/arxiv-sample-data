@@ -1,0 +1,1 @@
+In this work we provide a novel approach for computing the coefficients of the characteristic polynomial of a square matrix. We demonstrate that each coefficient can be efficiently represented by a set of circle graphs. Thus, one can employ a diagrammatic approach to determine the coefficients of the characteristic polynomial.

@@ -1,0 +1,1 @@
+We prove that the action of the automorphism group of a building on its boundary is topologically amenable. The notion of boundary we use was defined in a previous paper \cite{CL}. It follows from this result that such groups have property (A), and thus satisfy the Novikov conjecture. It may also lead to applications in rigidity theory.

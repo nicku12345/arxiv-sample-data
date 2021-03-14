@@ -1,0 +1,1 @@
+In a celebrated paper, Burkholder, Gundy, and Silverstein used Brownian motion to derive a maximal function characterization of H^p spaces for 0 < p < infinity. In this paper, we show that their method extends to higher dimensions and yields a dimension-free weak type (1,1) estimate for a conjugate function on the N-dimensional torus.

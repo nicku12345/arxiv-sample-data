@@ -1,0 +1,1 @@
+In this paper, we prove that the L^p essential spectra of the Laplacian on functions are [0,+\infty) on a non-compact complete Riemannian manifold with non-negative Ricci curvature at infinity. The similar method applies to gradient shrinking Ricci soliton, which is similar to non-compact manifold with non-negative Ricci curvature in many ways.

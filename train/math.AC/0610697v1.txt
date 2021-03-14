@@ -1,0 +1,1 @@
+The *-spread of an ideal is defined as the minimal number of generators of an ideal which is minimal with respect to having the same tight closure as the original ideal. We prove an asymptotic length formula for the *-spread.

@@ -1,0 +1,1 @@
+This paper studies the question of when the Rees algebras associated to arbitrary filtration of ideals are sequentially Cohen-Macaulay. Although this problem has been already investigated by N. T. Cuong, S. Goto and H. L. Truong, their situation is quite a bit of restricted, so we are eager to try the generalization of their results.

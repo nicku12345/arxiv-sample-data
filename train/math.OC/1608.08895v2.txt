@@ -1,0 +1,1 @@
+The congruence orbit of a matrix has a natural connection with the linear complementarity problem on simplicial cones formulated for the matrix. In terms of the two approaches -- the congruence orbit and the family of all simplicial cones -- we give equivalent classification of matrices from the point of view of the complementarity theory.

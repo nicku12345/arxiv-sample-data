@@ -1,0 +1,1 @@
+We establish the local well-posedness for a new nonlinearly dispersive wave equation and we show that the equation has solutions that exist for indefinite times as well as solutions which blowup in finite times. Furthermore, we derive an explosion criterion for the equation and we give a sharp estimate from below for the existence time of solutions with smooth initial data.

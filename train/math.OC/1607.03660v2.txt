@@ -1,0 +1,1 @@
+In this note, we provide convergence results for the proximal point algorithm and a splitting variant thereof in the setting of CAT(\kappa) spaces with \kappa > 0 using a recent definition for the resolvent of a convex, lower semi-continuous function due to Kimura and Kohsaka (J. Fixed Point Theory Appl. 18 (2016), 93-115).

@@ -1,0 +1,1 @@
+In his 1879 paper on the Begriffsschrift, Gottlob Frege introduced a notation to formalize mathematical arguments. In this note we explain Frege's notation by using the nowadays common notions from elementary propositional logic. We compare Frege's notation with the modern one and discuss some of the methods he used in his paper.

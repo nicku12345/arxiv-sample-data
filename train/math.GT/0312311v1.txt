@@ -1,0 +1,1 @@
+We give an elementary proof of the fact that any orientable 3-manifold admits a framing (i.e. is parallelizable) and any non-orientable 3-manifold admits a projective framing. The proof uses only basic facts about immersions of surfaces in 3-space.

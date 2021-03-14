@@ -1,0 +1,1 @@
+It is shown that the thin geometric realization of a simplicial Hausdorff space is Hausdorff. This proves a famous claim by Graeme Segal that the thin geometric realisation of a simplicial k-space is a k-space.

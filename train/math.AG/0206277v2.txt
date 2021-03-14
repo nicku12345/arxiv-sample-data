@@ -1,0 +1,1 @@
+Let G be a connected reductive group. The late Ramanathan gave a notion of (semi)stable principal G-bundle on a complex projective curve and constructed a projective moduli space of such objects. We generalize Ramanathan's notion and construction to the case of higher dimension, allowing also objects which we call semistable principal G-sheaves.

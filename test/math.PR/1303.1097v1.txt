@@ -1,0 +1,1 @@
+In this paper we prove that under certain assumptions the transient random walk in random environment with bounded jumps (in \mathbb{Z}) grows much slower than the speed n. Precisely, there is 0<s<1, such that although X_n\rto we have   \frac{X_n}{n^{s'}}\rightarrow 0 for 0<s<s' almost surely.

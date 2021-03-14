@@ -1,0 +1,1 @@
+We construct A-infinity functors between Fukaya categories associated to monotone Lagrangian correspondences between compact symplectic manifolds. We then show that the composition of A-infinity functors for correspondences is homotopic to the functor for the composition, in the case that the composition is smooth and embedded.

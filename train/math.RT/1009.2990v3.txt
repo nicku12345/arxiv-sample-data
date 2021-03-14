@@ -1,0 +1,1 @@
+We determine the covariance of the weight distribution in level 1 Demazure modules of sl2hat. This allows us to prove a weak law of large numbers for these weight distributions, and leads to a conjecture about the asymptotic concentration of weights for arbitrary Demazure modules.

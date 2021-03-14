@@ -1,0 +1,1 @@
+This is a note of talks I gave at the number theory seminar at Tsinghua University in Fall 2011.   We will introduce the local and global Euler characteristic formulas given by John Tate(1962) for Galois cohomology. We will give a detailed proof based on the idea in Hida's book[1,ch4.4.5] and Milne's book[2,ch1.5].

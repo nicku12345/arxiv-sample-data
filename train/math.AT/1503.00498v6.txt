@@ -1,0 +1,1 @@
+Let K be a subset of a smooth manifold M. In some cases functor calculus methods lead to a homotopical formula for M minus K in terms of the subspaces M minus S, where S runs through the finite subsets of K.

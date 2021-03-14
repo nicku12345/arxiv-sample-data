@@ -1,0 +1,1 @@
+We establish necessary and sufficient conditions for a quadratic polynomial to be irreducible in the ring Z[[x]] of formal power series with integer coefficients. For n,m\ge 1 and p prime, we show that p^n+p^m\beta x+\alpha x^2 is reducible in Z[[x]] if and only if it is reducible in Z_p[x], the ring of polynomials over the p-adic integers.

@@ -1,0 +1,1 @@
+Answering a question of Uspenskij, we prove that if X is a closed manifold of dimension 2 or higher or the Hilbert cube, then the universal minimal flow of \mathrm{Homeo}(X) is not metrizable. In dimension 3 or higher, we also show that the minimal \mathrm{Homeo}(X)-flow consisting of all maximal, connected chains in X has meager orbits.

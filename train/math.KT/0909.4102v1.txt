@@ -1,0 +1,1 @@
+We prove that the depth formula holds for \Tor-independent modules in certain cases over a Cohen-Macaulay local ring, provided one of the modules has reducible complexity.

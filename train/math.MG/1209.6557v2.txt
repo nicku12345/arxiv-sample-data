@@ -1,0 +1,1 @@
+We develop the boundary theory of rough CAT(0) spaces, a class of spaces that contains both Gromov hyperbolic and CAT(0) spaces. The resulting theory generalizes the common features of the Gromov boundary of a Gromov hyperbolic space and the ideal boundary of a complete CAT(0) space. It is not assumed that the spaces are geodesic or proper.

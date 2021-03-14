@@ -1,0 +1,1 @@
+We prove that the number of quartic S_4--extensions of the rationals of given discriminant d is O_\eps(d^{1/2+\eps}) for all \eps>0. For a prime number p we derive that the dimension of the space of octahedral modular forms of weight 1 and conductor p or p^2 is bounded above by O(p^{1/2}\log(p)^2).

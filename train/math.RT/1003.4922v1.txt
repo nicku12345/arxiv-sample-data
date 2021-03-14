@@ -1,0 +1,1 @@
+Let G be a connected reductive group defined over a finite field with q elements. We prove that the Mackey formula for the Lusztig induction and restriction holds in G whenever q>2 or G does not have a component of type E.

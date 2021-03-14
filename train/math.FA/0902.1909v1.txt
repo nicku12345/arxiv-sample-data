@@ -1,0 +1,1 @@
+Let H be a regular element of an irreducible Lie Algebra g, and let mu be the orbital measure supported on the Adjoint orbit of H. We show that the k-th power of the Fourier transform of mu is in L^2(g) if and only if k > dim g/(dim g-rank g).

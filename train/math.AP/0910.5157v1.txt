@@ -1,0 +1,1 @@
+Having the ill-posedness in the range s<-3/4 of the Cauchy problem for the Benjamin equation with an initial H^{s}({\mathbb R}) data, we prove that the already-established local well-posedness in the range s>-3/4 of this initial value problem is extendable to s=-3/4 but also that such a well-posed property is globally valid for s\in [-3/4,\infty).

@@ -1,0 +1,1 @@
+In this paper, we construct Chern class maps and cycle class maps with values in p-adic \'etale Tate twists [S2]. We also relate the p-adic \'etale Tate twists with the finite part of Bloch-Kato. As an application, we prove that the integral part of p-adic regulator maps has values in the finite part of Galois cohomology under certain assumptions.

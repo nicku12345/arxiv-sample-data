@@ -1,0 +1,1 @@
+A sharp quantitative version of the L_p-mixed volume inequality is established. This is achieved by exploiting an improved Jensen inequality. This inequality is a generalization of Pinsker-Csisz\'ar-Kullback inequality for the Tsallis entropy. Finally, a sharp quantitative version of the L_p-Brunn-Minkowski inequality is also proved as a corollary.

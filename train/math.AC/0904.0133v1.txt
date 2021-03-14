@@ -1,0 +1,1 @@
+A polynomial whose coeffcients are equal to its roots is called a Ulam polynomial. In this paper we show that for a given degree n there exists a finite number of Ulam polynomials of degree n.

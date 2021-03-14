@@ -1,0 +1,1 @@
+Let (M,\omega) be a closed 2n-dimensional semifree Hamiltonian S^1-manifold with only isolated fixed points. We prove that a density function of the Duistermaat-Heckman measure is log-concave. Moreover, we prove that (M,\omega) and any reduced symplectic form satisfy the Hard Lefschetz property.

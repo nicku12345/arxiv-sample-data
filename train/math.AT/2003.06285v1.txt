@@ -1,0 +1,1 @@
+The hierarchy poset and branch point poset for a data set both admit a calculus of least upper bounds. A method involving upper bounds is used to show that the map of branch points associated to the inclusion of data sets is a controlled homotopy equivalence, where the control is expressed by an upper bound relation that is constrained by Hausdorff distance.

@@ -1,0 +1,1 @@
+We show that coorbit spaces can be characterized in terms of arbitrary phase-space covers, which are families of phase-space multipliers associated with partitions of unity. This generalizes previously known results for time-frequency analysis to include time-scale decompositions. As a by-product, we extend the existing results for time-frequency analysis to an irregular setting.

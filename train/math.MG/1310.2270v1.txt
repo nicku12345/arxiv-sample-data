@@ -1,0 +1,1 @@
+We conjecture that for every dimension n not equal 3 there exists a noncompact hyperbolic n-manifold whose volume is smaller than the volume of any compact hyperbolic n-manifold. For dimensions n at most 4 and n=6 this conjecture follows from the known results. In this paper we show that the conjecture is true for arithmetic hyperbolic n-manifolds of dimension n at least 30.

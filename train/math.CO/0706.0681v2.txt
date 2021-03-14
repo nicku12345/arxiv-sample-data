@@ -1,0 +1,1 @@
+We enumerate rooted triangulations of a sphere with multiple holes by the total number of edges and the length of each boundary component. The proof relies on a combinatorial identity due to W.T. Tutte.

@@ -1,0 +1,1 @@
+We produce algorithms to detect whether a complex affine variety computed and presented numerically by the machinery of numerical algebraic geometry corresponds to an associated component of a polynomial ideal.

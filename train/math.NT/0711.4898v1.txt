@@ -1,0 +1,1 @@
+Let a(n,k) be the kth coefficient of the nth cyclotomic polynomial. The first two authors showed in part I that if m is a prime power and n and k range over the non-negative integers, then a(mn,k) assumes every integer value. Here this result is extended to the case where m is arbitrary.   The proof use some properties of reciprocal cyclotomic polynomials (see arXiv:0709.1570).

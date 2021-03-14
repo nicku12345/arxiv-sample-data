@@ -1,0 +1,1 @@
+We complete the classical Schoenberg representation theorem for radial positive definite functions. We apply this result to study spectral properties of self-adjoint realizations of two- and three-dimensional Schr\"odinger operators with point interactions on a finite set. In particular, we prove that any realization has purely absolutely continuous non-negative spectrum.

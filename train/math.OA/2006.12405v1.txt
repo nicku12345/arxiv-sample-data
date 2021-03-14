@@ -1,0 +1,1 @@
+This article contains a characterization of operator systems \cS with the property that every positive map \phi:\cS \rightarrow M_n is decomposable, as well as an alternate and a more direct proof of a characterization of decomposable maps due to E. St\o rmer.

@@ -1,0 +1,1 @@
+We introduce bounds on the finite-time performance of Markov chain Monte Carlo algorithms in approaching the global solution of stochastic optimization problems over continuous domains. A comparison with other state-of-the-art methods having finite-time guarantees for solving stochastic programming problems is included.

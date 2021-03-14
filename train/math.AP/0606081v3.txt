@@ -1,0 +1,1 @@
+In this paper, we prove the existence and uniqueness of the solutions for the 2D viscous shallow water equations with low regularity assumptions on the initial data as well as the initial height bounded away from zero.

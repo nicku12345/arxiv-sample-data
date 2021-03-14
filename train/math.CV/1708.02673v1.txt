@@ -1,0 +1,1 @@
+The singular and regular type of a point on a real hypersurface \mathcal H in \mathbb C^n are shown to agree when the regular type is strictly less than 4. If \mathcal H is pseudoconvex, we show they agree when the regular type is 4. A non-pseudoconvex example is given where the regular type is 4 and the singular type is infinite.

@@ -1,0 +1,1 @@
+This paper discusses the evolution of probability distributions for certain time-dependent dynamical systems. Exponential loss of memory is proved for expanding maps and for one-dimensional piecewise expanding maps with slowly varying parameters.

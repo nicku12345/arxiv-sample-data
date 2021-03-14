@@ -1,0 +1,1 @@
+The notion of Hausdorff number of a topological space is first introduced in \cite{bonan}, with the main objective of using this notion to obtain generalizations of some known bounds for cardinality of topological spaces. Here we consider this notion from a topological point of view and examine interrelations of the Hausdorff number with compactness.

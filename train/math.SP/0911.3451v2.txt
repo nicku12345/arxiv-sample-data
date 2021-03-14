@@ -1,0 +1,1 @@
+We show that the spectrum of the complex Laplacian on a product of hermitian manifolds is the Minkowski sum of the spectra of the complex Laplacians on the factors. We use this fact to show that the range of the d-bar operator on a product manifold is closed, provided it is closed in each factor.

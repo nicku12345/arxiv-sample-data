@@ -1,0 +1,1 @@
+It is shown that if a C*-algebra has nuclear dimension n then its Cuntz semigroup has the property of n-comparison. It then follows from results by Ortega, Perera, and Rordam that \sigma-unital C*-algebras of finite nuclear dimension (and even of nuclear dimension at most \omega) are stable if and only if they have no non-zero unital quotients and no non-zero bounded traces.

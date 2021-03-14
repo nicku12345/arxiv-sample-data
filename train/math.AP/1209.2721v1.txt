@@ -1,0 +1,1 @@
+We prove optimal pointwise bounds on quasimodes of semiclassical Schrodinger operators with arbitrary smooth real potentials in dimension two. This end-point estimate was left open in the general study of semiclassical Lp bounds conducted by Koch-Tataru-Zworski. However, we show that their results imply the two dimensional end-point estimate by scaling and localization.

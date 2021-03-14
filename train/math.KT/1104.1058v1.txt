@@ -1,0 +1,1 @@
+We study the K-theory of ring C*-algebras associated to rings of integers in global function fields with only one single infinite place. First, we compute the torsion-free part of the K-groups of these ring C*-algebras. Secondly, we show that, under a certain primeness condition, the torsion part of K-theory determines the inertia degrees at infinity of our function fields.

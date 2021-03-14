@@ -1,0 +1,1 @@
+We answer a recent question of Pyrih by proving that a topological space (X,\tau) is open-normal if and only if it is extremally disconnected.

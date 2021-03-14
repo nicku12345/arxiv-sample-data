@@ -1,0 +1,1 @@
+The paper shows that for any G_\delta set F of Lebesgue measure zero on the unit circle T there exists a function f \in H^{\infty} such that the radial limits of f exist at each point of T and vanish precisely on F. This solves a problem proposed by Lee Rubel in 1973.

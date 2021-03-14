@@ -1,0 +1,1 @@
+An implementation of BFACF-style algorithms on knotted polygons in the simple cubic, face centered cubic and body centered cubic lattice is used to estimate the statistics and writhe of minimal length knotted polygons in each of the lattices. Data are collected and analysed on minimal length knotted polygons, their entropy, and their lattice curvature and writhe.

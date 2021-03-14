@@ -1,0 +1,1 @@
+Two numbers m and n are considered amicable if the sum of their proper divisors, s(n) and s(m), satisfy s(n) = m and s(m) = n. In 1981, Pomerance showed that the sum of the reciprocals of all such numbers, P, is a constant. We obtain both a lower and an upper bound on the value of P.

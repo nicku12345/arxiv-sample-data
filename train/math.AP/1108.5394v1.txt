@@ -1,0 +1,1 @@
+In this paper, the local well-posedness of periodic fifth order dispersive equation with nonlinear term P_1(u)\p_xu + P_2(u)\p_x u\p_xu . Here P_1(u) and P_2(u) are polynomials of u. We also get some new Strichartz estimates.

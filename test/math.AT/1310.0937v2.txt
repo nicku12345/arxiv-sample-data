@@ -1,0 +1,1 @@
+Arone and Turchin defined graph-complexes computing the rational homotopy of the spaces of long embeddings. The graph-complexes split into a direct sum by the number of loops in graphs. In this paper we compute the homology of its two-loop part.

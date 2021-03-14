@@ -1,0 +1,1 @@
+Let p be a polynomial in one variable. It is shown that the universal C*-algebra of the relation p(x)=0, \|x\| \le C is semiprojective, residually finite-dimensional and has trivial extension group.

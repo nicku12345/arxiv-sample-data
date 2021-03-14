@@ -1,0 +1,1 @@
+Using Guth's polynomial partitioning method, we obtain L^p estimates for the maximal function associated to the solution of Schr\"odinger equation in \mathbb R^2. The L^p estimates can be used to recover the previous best known result that \lim_{t \to 0} e^{it\Delta}f(x)=f(x) almost everywhere for all f \in H^s (\mathbb{R}^2) provided that s>3/8.

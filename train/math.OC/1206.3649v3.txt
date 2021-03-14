@@ -1,0 +1,1 @@
+A general maximum principle is proved for optimal controls of abstract semilinear stochastic evolution equations. The control variable, as well as linear unbounded operators, acts in both drift and diffusion terms, and the control set need not be convex.

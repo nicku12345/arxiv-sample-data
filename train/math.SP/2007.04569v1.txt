@@ -1,0 +1,1 @@
+In this note, we make an observation that Laplacian eigenfunctions fail equidistribution around their nodal points at the Planck scale. Furthermore, equidistribution at the same scale also fails around the points where the eigenfunctions have large values.

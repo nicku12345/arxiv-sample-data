@@ -1,0 +1,1 @@
+We study sigma-ideals and regularity properties related to the "filter-Laver" and "dual-filter-Laver" forcing partial orders. An important innovation which enables this study is a dichotomy theorem proved recently by Miller [1].   [1] Arnold Miller, "Hechler and Laver Trees", Preprint 2012 (arXiv:1204.5198 [math.LO]).

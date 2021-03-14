@@ -1,0 +1,1 @@
+In this paper we compute upper bounds for the number of ordinary triple points on a hypersurface in P^3 and give a complete classification for degree six (degree four or less is trivial, and five is elementary). But the real purpose is to point out the intricate geometry of examples with many triple points, and how it fits with the general classification of surfaces.

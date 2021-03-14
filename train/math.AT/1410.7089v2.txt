@@ -1,0 +1,1 @@
+We study the moduli space of A-infinity structures on a topological space as well as the moduli space of A-infinity-ring structures on a fixed module spectrum. In each case we show that the moduli space sits in a homotopy fiber sequence in which the other terms are representing spaces for Hochschild cohomology.

@@ -1,0 +1,1 @@
+We show that the Fourier-Laplace transform of an irreducible regular differential system on the Riemann sphere underlies, when one only considers the part at finite distance, a polarizable regular twistor \mathcal{D}-module. The associated holomorphic bundle out of the origin is therefore equipped with a natural harmonic metric with a tame behaviour near the origin.

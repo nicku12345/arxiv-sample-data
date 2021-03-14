@@ -1,0 +1,1 @@
+Let A be a Buchsbaum local ring with the maximal ideal m and let e(A) denote the multiplicity of A. Let Q be a parameter ideal in A and put I=Q:m. Then the equality I^2=QI holds true, if e(A)=2 and depthA>0. The assertion is no longer true, unless e(A)=2. Counterexamples are given.

@@ -1,0 +1,1 @@
+We prove that the essential spectrum of the operator obtained by linearization about a steady state of the Euler equations governing the motion of inviscid ideal fluid in dimension two is a vertical strip whose width is determined by the maximal Lyapunov exponent of the flow induced by the steady state.

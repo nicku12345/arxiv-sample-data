@@ -1,0 +1,1 @@
+In this article, we apply some ideas developped by M. Cha{\l}upnik to the framework of strict polynomial bifunctors. This allows us to get a new proof of the existence of the `universal classes' originally constructed by the author.

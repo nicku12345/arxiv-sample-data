@@ -1,0 +1,1 @@
+Descents in permutations or words are defined from the relative position of two consecutive letters. We investigate a statistic involving patterns of k consecutive letters, and show that it leads to Hopf algebras generalizing noncommutative symmetric functions and quasi-symmetric functions.

@@ -1,0 +1,1 @@
+The category of crossed complexes gives an algebraic model of the category of CW-complexes and cellular maps. We explain basic results on crossed complexes which allow the computation of free crossed resolutions of graph products of groups, given free crossed resolutions of the individual groups.

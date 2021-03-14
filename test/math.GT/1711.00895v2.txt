@@ -1,0 +1,1 @@
+We present an algorithm for calculating the geometric intersection number of two multicurves on the n-punctured disk, taking as input their Dynnikov coordinates. The algorithm has complexity O(m^2n^4), where m is the sum of the absolute values of the Dynnikov coordinates of the two multicurves. The main ingredient is an algorithm due to Cumplido for relaxing a multicurve.

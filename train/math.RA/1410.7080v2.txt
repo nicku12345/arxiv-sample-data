@@ -1,0 +1,1 @@
+Guided by the research line introduced by Martindale III in [1] on the study of the additivity of maps, this article aims establish condi- tions on triangular matrix rings in order that an map ' satisfying '(ab + ba) = '(a)b + a'(b) + '(b)a + b'(a) for all a; b in a triangular matrix ring becomes additive.

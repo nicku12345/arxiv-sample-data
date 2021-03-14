@@ -1,0 +1,1 @@
+We show that for every finite symetric set S of integer vectors, every real trigonometric polynomial on the d dimensional torus with spectrum in S has a zero in every closed ball of diameter D, where D is the sum over S of 1 over 4 times the L2 norm of the vector. We investigate tightness in some special cases.

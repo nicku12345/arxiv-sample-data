@@ -1,0 +1,1 @@
+We introduce a new perturbation for the operator curl related to connections with nonabelian gauge groups. We also prove that the perturbed operator is unitary equivalent to the operator curl if the corresponding connection is close enough to the trivial one with respect to a certain topology on the space of connections.

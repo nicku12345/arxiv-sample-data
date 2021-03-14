@@ -1,0 +1,1 @@
+A set of points in \mathbb{R}^d is acute, if any three points from this set form an acute triangle. In this note we construct an acute set in \mathbb{R}^d of size at least 1.618^d. Also, we present a simple example of an acute set of size at least 2^{\frac{d}{2}}.

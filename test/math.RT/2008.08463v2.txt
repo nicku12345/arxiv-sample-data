@@ -1,0 +1,1 @@
+Let F be a local field of character zero. Let E be a quadratic field extension of F. We show that any P-invariant linear functional on a GL(n,E)-distinguished irreducible smooth admissible representation of GL(2n,F) is also GL(n,E)-invariant where P is a mirabolic subgroup of GL(n,E).

@@ -1,0 +1,1 @@
+The aim of this paper is to provide a unifying categorical framework for the many examples of para-(co)cyclic modules arising from Hopf cyclic theory. Functoriality of the coefficients is immediate in this approach. A functor corresponding to Connes's cyclic duality is constructed. Our methods allow, in particular, to extend Hopf cyclic theory to (Hopf) bialgebroids.

@@ -1,0 +1,1 @@
+We present a new, more elementary proof of the Freedman-Teichner result that the geometric classification techniques (surgery, s-cobordism, and pseudoisotopy) hold for topological 4-manifolds with groups of subexponential growth. In an appendix Freedman and Teichner give a correction to their original proof, and reformulate the growth estimates in terms of coarse geometry.

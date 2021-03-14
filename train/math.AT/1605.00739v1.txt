@@ -1,0 +1,1 @@
+In this paper we redefine an increasing filtration on the the Hopf algebra S(n,k), From which we get a spectral sequence called May spectral sequence. As an application we computed H^{*,*}S(n,n) at prime 2, H^{*,*}S(3,2) at prime 3 and H^{*,*}S(4,2) at prime p\geqslant 5

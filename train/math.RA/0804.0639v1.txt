@@ -1,0 +1,1 @@
+An algebra \cal{R} is called an extension of the algebra M by B if M^2=0, M is an ideal of \cal{R} and \cal{R}/M\cong B as algebras. In this paper, by using the Gr\"{o}bner-Shirshov bases, we characterize completely the extensions of M by B. An algorithm to find the conditions of an algebra A to be an extension of M by B is obtained.

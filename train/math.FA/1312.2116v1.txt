@@ -1,0 +1,1 @@
+It is known that any separable Banach space with BAP is a complemented subspace of a Banach space with a basis. We show that every operator with bounded approximation property, acting from a separable Banach space, can be factored through a Banach space with a basis.

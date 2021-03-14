@@ -1,0 +1,1 @@
+We consider the family of Rankin-Selberg convolution L-functions of a fixed SL(3, Z) Maass form with the family of Hecke-Maass cusp forms on SL(2, Z). We estimate the second moment of this family of L-functions with a "long" integration in t-aspect. These L-functions are distinguished by their high degree (12) and large conductors (of size T^{12}).

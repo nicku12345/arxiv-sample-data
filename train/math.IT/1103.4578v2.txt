@@ -1,0 +1,1 @@
+A common signal is defined for any two signals which have non-zero correlation. A mathematical method is provided to extract the best obtainable common signal between the two signals. This analysis is extended to extracting common signal among three signals.

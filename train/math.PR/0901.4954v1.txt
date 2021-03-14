@@ -1,0 +1,1 @@
+We derive an adiabatic theorem for Markov chains using well known facts about mixing and relaxation times. We discuss the results in the context of the recent developments in adiabatic quantum computation.

@@ -1,0 +1,1 @@
+For a field k we compute the K-theory of the exact category of k[t_1,\dots,t_n]-modules that are finite-dimensional over k, generalising the work of Kelley and Spanier.

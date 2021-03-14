@@ -1,0 +1,1 @@
+It is shown, subject to the abc-conjecture, that   \[\sum_{n\le N}\exp(2\pi i\alpha n^3)\ll_{\epsilon,\alpha}N^{5/7+\epsilon}\] for any \epsilon>0 and any quadratic irrational \alpha.

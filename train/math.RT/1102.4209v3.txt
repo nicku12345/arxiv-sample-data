@@ -1,0 +1,1 @@
+We quantize parabolic flag manifolds and describe categories of equivariant quantum \D-modules on them at a singular central character. We compute global sections at any q \in \C^* and we also prove a singular version of Beilinson-Bernstein localization for a quantized enveloping algebra \Uq(\g), when q is generic.

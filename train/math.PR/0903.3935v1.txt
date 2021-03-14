@@ -1,0 +1,1 @@
+Let W_n, n\in\mn_{0} be an intrinsic martingale with almost sure limit W in a supercritical branching random walk. We provide criteria for the L_p-convergence of the series \sum_{n\ge 0} e^{an}(W-W_n) for p>1 and a>0. The result may be viewed as a statement about the exponential rate of convergence of \me |W-W_n|^p to zero.

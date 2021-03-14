@@ -1,0 +1,1 @@
+We prove that for all but a certain number of abelian groups of order n its Davenport constant is atmost n/k+k-1 for k=1,2,..,7. For groups of order three we improve on the existing bound involving the Alon-Dubiner constant.

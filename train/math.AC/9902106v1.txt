@@ -1,0 +1,1 @@
+The purpose of this paper is to prove the following theorem of uniform Artin-Rees properties: Let A be an excellent (in fact J-2) ring and let N\subset M be two finitely generated A-modules such that {\rm dim}(M/N)\leq 1. Then there exists an integer s\geq 1 such that, for all integers n\geq s and for all ideals I of A, I^{n}M\cap N=I^{n-s}(I^{s}M\cap N).

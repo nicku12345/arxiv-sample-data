@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions on an Ore extension A[x;\sigma,\delta], where A is a finite dimensional algebra over a field \mathbb{F}, for being a Frobenius extension over the ring of commutative polynomials \mathbb{F}[x]. As a consequence, as the title of this paper highlights, we provide a negative answer to a problem stated by Caenepeel and Kadison.

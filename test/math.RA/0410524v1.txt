@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of characteristic 0. We prove that any division algebra over k(x,y) whose ramification locus lies on a quartic curve is cyclic.

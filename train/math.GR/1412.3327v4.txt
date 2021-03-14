@@ -1,0 +1,1 @@
+We introduce the notion of a building lattice generalizing tree lattices. We give a Lefschetz formula and apply it to geometric zeta functions. We further generalize Bass's approach to Ihara zeta functions to the higher dimensional case of a building.

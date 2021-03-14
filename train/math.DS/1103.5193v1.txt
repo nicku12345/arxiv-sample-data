@@ -1,0 +1,1 @@
+This paper gives the definition of the Conley index for a piecewise continuous map, which is only well defined on compatible isolating neighborhoods with Wazewski property slightly weaker than continuous situation.

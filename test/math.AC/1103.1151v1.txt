@@ -1,0 +1,1 @@
+In this paper we compute the dimension of all the higher secant varieties to the Segre-Veronese embedding of \mathbb{P}^n\times \mathbb{P}^1 via the section of the sheaf \mathcal{O}(a,b) for any n,a,b\in \mathbb{Z}^+. We relate this result to the Grassmann Defectivity of Veronese varieties and we classify all the Grassmann (1,s-1)-defective Veronese varieties.

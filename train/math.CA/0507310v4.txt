@@ -1,0 +1,1 @@
+In [4] we gave a variational definition of the nonlinear membrane energy under the constraint "det\nabla u\not=0". In this paper we obtain the nonlinear membrane energy under the more realistic constraint "det\nabla u>0".

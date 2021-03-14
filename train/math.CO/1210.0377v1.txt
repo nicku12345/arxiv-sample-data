@@ -1,0 +1,1 @@
+We show that sequences of skew Schur polynomials obtained from stretched semi-standard Young tableaux satisfy a linear recurrence, which we give explicitly. Using this, we apply this to finding certain asymptotic behavior of these Schur polynomials and present conjectures on minimal recurrences for stretched Schur polynomials.

@@ -1,0 +1,1 @@
+The coefficients of twisted Alexander polynomials of a knot induce regular functions of the SL_2(\mathbb{C})-character variety. We prove that the function of the highest degree has a finite value at an ideal point which gives a minimal genus Seifert surface by Culler-Shalen theory. It implies a partial affirmative answer to a conjecture by Dunfield, Friedl and Jackson.

@@ -1,0 +1,1 @@
+In this study, we try to semi-real quaternionic curves in the semi-Euclidean space E_2^4. Firstly, we introduce algebraic properties of semi-real quaternions. And then, we give some characterizations of semi-real quaternionic involute-evolute curves in the semi-Euclidean space E_2^4. Lastly, we illustrate some examples and draw their figures with Mathematica Programme.

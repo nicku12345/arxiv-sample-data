@@ -1,0 +1,1 @@
+We classify an action of the n-strand braid group on the free group of rank n which is similar to the Artin representation in the sense that the i-th generator \sigma_{i} of B_{n} acts so that it fixes all free generators x_{j} except j = i,i+1. We determine all such representations and discuss knot invariants coming from such representations.

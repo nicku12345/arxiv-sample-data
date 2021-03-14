@@ -1,0 +1,1 @@
+Let G be a finite 2-group and K be a field satisfying that (i) \fn{char}K\ne 2, and (ii) \sqrt{a}\in K for any a\in K. If G acts on the rational function field K(x,y,z) by monomial K-automorphisms, then the fixed field K(x,y,z)^G is rational (= purely transcendental) over K. Applications of this theorem will be given.

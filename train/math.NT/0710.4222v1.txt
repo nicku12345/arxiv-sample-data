@@ -1,0 +1,1 @@
+Given a Siegel theta series and a prime p not dividing the level of the theta series, we apply to the theta series the n+1 Hecke operators that generate the local Hecke algebra at p. We show that the average theta series is an eigenform and we compute the eigenvalues.

@@ -1,0 +1,1 @@
+Quantum Lorentz groups H admitting quantum Minkowski space V are selected. Natural structure of a quantum space G = V x H is introduced, defining a quantum group structure on G only for triangular H (q=1). We show that it defines a braided quantum group structure on G for |q|=1.

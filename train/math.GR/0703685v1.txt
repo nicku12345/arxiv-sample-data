@@ -1,0 +1,1 @@
+We determine all maximal subgroups of the almost simple groups with socle T=\PSL(2,q), that is, of all groups G such that \PSL(2,q)\leqslant G\leqslant\PGammaL(2,q), with q\geq 4.

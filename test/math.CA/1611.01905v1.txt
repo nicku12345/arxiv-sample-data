@@ -1,0 +1,1 @@
+We presented here a refinement of Hermite-Hadamard inequality as a linear combination of its end-points. The problem of best possible constants is closely connected with well known Simpson's rule in numerical integration. It is solved here for a wide class of convex functions, but not in general. Some supplementary results are also given.

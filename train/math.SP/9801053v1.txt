@@ -1,0 +1,1 @@
+This paper reports on recent work to compute the asymptotic solution of a n-th order ordinary differential equation. Symbolic methods are used to compute the asymptotics over a large region. Application is made to the computation of the Titchmarsh-Weyl M-matrix for the fourth order operator.

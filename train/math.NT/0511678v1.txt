@@ -1,0 +1,1 @@
+For any given real number \alpha with bounded partial quotients, we construct explicitly continuum many real numbers \beta with bounded partial quotients for which the pair (\alpha, \beta) satisfies a strong form of the Littlewood conjecture. Our proof is elementary and rests on the basic theory of continued fractions.

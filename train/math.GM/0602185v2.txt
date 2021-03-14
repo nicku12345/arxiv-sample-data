@@ -1,0 +1,1 @@
+A mathematical interpretation of the usual definition of entropy (for a discrete probability distribution or a trace 1 positive operator) is given. This formulation makes some properties of entropy immediate.

@@ -1,0 +1,1 @@
+In this paper we show an explicit polynomial in Q[x] that has Galois group SL2(F16), filling in a gap in the tables of Juergen Klueners and Gunther Malle. The computation of this polynomial uses modular forms and their Galois representations.

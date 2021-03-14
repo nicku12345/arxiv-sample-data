@@ -1,0 +1,1 @@
+To a homotopy algebra one may associate its deformation complex, which is naturally a differential graded Lie algebra. We show that infinity quasi-isomorphic homotopy algebras have L-infinity quasi-isomorphic deformation complexes by an explicit construction.

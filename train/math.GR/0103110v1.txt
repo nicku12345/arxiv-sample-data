@@ -1,0 +1,1 @@
+An endomorphism of a free group is called primitivity preserving if it takes every primitive element to another primitive. In this paper we prove that every primitivity preserving endomorphism of a free group of a finite rank n > 2 is an automorphism.

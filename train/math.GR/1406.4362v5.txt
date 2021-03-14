@@ -1,0 +1,1 @@
+Let G be a simply connected absolutely simple algebraic group defined over the field of real numbers R. Let H be a simply connected semisimple R-subgroup of G. We consider the homogeneous space X=G/H. We ask: How many connected components has X(R)?   We give a method of answering this question. Our method is based on our solutions of generalized Reeder puzzles.

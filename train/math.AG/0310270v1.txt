@@ -1,0 +1,1 @@
+We prove that a general Fano fibration \pi\colon V\to {\mathbb P}^1, the fiber of which is a double Fano hypersurface of index 1, is birationally superrigid provided it is sufficiently twisted over the base. In particular, on V there are no other structures of a rationally connected fibration. The proof is based on the method of maximal singularities.

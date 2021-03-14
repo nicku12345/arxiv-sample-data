@@ -1,0 +1,1 @@
+I determine the twisted K-theory of all compact simply connected simple Lie groups. The computation reduces via the Freed-Hopkins-Teleman theorem to the CFT prescription, and thus explains why it gives the correct result. Finally I analyze the exceptions noted by Bouwknegt et al.

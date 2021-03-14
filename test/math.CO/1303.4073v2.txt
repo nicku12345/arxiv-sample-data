@@ -1,0 +1,1 @@
+Orthogonal spreads in orthogonal spaces of type V^+(2n+2,2) produce large numbers of rank n dual hyperovals in orthogonal spaces of type V^+(2n,2). The construction resembles the method for obtaining symplectic spreads in V(2n,q) from orthogonal spreads in V^+(2n+2,q) when q is even.

@@ -1,0 +1,1 @@
+In the previous paper math-ph/0507015 we have studied the characters and Clebsch-Gordan series for the exceptional Lie algebra E7 by relating them to the quantum trigonometric Calogero-Sutherland Hamiltonian with coupling constant K=1. Now we extend that approach to the case of general K.

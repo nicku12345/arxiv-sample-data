@@ -1,0 +1,1 @@
+For any complex \alpha with non-zero imaginary part we show that Bernstein-Walsh type inequality holds on the piece of the curve \{(e^z,e^{\alpha z}) : z \in \mathbb C\}. Our result extends a theorem of Coman-Poletsky \cite{CP10} where they considered real-valued \alpha.

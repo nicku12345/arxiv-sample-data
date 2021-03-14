@@ -1,0 +1,1 @@
+Let (R,m,k) be an excellent, local, normal ring of characteristic p with a perfect residue field and dim R=d. Let M be a finitely generated R-module. We show that there exists a real number beta(M) such that lambda(M/I^[q]M) = e_{HK}(M) q^d + beta(M) q^{d-1} + O(q^{d-2}).

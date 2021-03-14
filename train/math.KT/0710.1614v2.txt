@@ -1,0 +1,1 @@
+We study the slice filtration for the K-theory of a sheaf of Azumaya algebras A, and for the motive of a Severi-Brauer variety, the latter in the case of a central simple algebra of prime degree over a field. Using the Beilinson-Lichtenbaum conjecture, we apply our results to show the vanishing of SK_2(A) for a central simple algebra A of square-free index.

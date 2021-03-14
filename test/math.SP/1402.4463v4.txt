@@ -1,0 +1,1 @@
+We study interacting Bose gases and prove lower bounds for the kinetic plus interaction energy of a many-body wave function in terms of its particle density. These general estimates are then applied to various types of interactions, including hard sphere (in 3D) and hard disk (in 2D) as well as a general class of homogeneous potentials.

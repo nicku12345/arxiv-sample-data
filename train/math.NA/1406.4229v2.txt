@@ -1,0 +1,1 @@
+The note shows how G^k (geometrically continuous surface) constructions yield C^k iso-geometric elements also at irregular quad mesh points where three or more than four elements come together.

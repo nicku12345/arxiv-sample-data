@@ -1,0 +1,1 @@
+This study presents a systematic approach to specifying data objects with the help of initial algebras. The primary aim is to describe the set-up to be found in modern functional programming languages such as Haskell and ML, although it can also be applied to more general situations.

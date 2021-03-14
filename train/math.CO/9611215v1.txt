@@ -1,0 +1,1 @@
+We show that the class of trapezoid orders in which no trapezoid strictly contains any other trapezoid strictly contains the class of trapezoid orders in which every trapezoid can be drawn with unit area. This is different from the case of interval orders, where the class of proper interval orders is exactly the same as the class of unit interval orders.

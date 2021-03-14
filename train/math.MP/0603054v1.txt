@@ -1,0 +1,1 @@
+Skew-symmetric sum of N! compositions of N vector fields in all possible order is called N-commutator. We construct 10-commutator and 13-commutator on a space of vector fields Vect(3) and 10-commutator on a space of divergenceless vector fields Vect_0(3).

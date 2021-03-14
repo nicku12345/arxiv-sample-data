@@ -1,0 +1,1 @@
+We prove the following theorem for a finitely generated field K: Let M be a Galois extension of K which is not separably closed. Then M is not PAC over K.

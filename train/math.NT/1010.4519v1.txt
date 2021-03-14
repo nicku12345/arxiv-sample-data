@@ -1,0 +1,1 @@
+Let K be a field of positive characteristic. When V is a linear variety in K^n and G is a finitely generated subgroup of K^*, we show how to compute the intersection of V and G^n effectively using heights. We calculate all the estimates explicitly. A special case provides the effective solution of the S-unit equation in n variables.

@@ -1,0 +1,1 @@
+This paper investigates interval estimation for a measurand that is known to be positive. Both the Neyman and Bayesian procedures are considered and the difference between the two, not always perceived, is discussed in detail. A solution is proposed to a paradox originated by the frequentist assessment of the long-run success rate of Bayesian intervals.

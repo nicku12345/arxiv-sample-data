@@ -1,0 +1,1 @@
+We prove all the maximizers of the sharp Hardy-Littlewood-Sobolev inequality are smooth. More generally, we show all the nonnegative critical functions are smooth, radial with respect to some points and strictly decreasing in the radial direction. In particular, this resolves all the cases left open by previous works of Chen, Li and Ou on the corresponding integral systems.

@@ -1,0 +1,1 @@
+We prove that any linear operator with kernel in a Pilipovi\'c or Gelfand-Shilov space can be factorized by two operators in the same class. We also give links on numerical approximations for such compositions. We apply these composition rules to deduce estimates of singular values and establish Schatten-von Neumann properties for such operators.

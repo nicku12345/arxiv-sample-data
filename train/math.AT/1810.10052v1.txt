@@ -1,0 +1,1 @@
+We give describe several models for (\infty,n)-categories, with an emphasis on models given by diagrams of sets and simplicial sets. We look most closely at the cases when n \leq 2, then summarize methods of generalizing for all n.

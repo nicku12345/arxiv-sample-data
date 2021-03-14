@@ -1,0 +1,1 @@
+We study the combinatorics of fully commutative elements in Coxeter groups of type H_n for any n > 2. Using the results, we construct certain canonical bases (i.e., IC bases) for non-simply-laced generalized Temperley--Lieb algebras and show how to relate them to morphisms in the category of decorated tangles.

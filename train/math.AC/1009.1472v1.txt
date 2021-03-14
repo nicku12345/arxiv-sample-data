@@ -1,0 +1,1 @@
+Let G be a finite graph and K[G] the edge ring of G. Based on the technique of Gr\"obner bases and initial ideals, it will be proved that, given integers f and d with 7 \leq f \leq d, there exists a finite graph G on [d]={1,...,d} with \depth K[G] = f and with \Krull-dim K[G] = d.

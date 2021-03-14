@@ -1,0 +1,1 @@
+Yasutaka Nakanishi asked in 1981 whether a 3-move is an unknotting operation. In Kirby's problem list, this question is called `The Montesinos-Nakanishi 3-move conjecture'. We define the n-th Burnside group of a link and use the 3rd Burnside group to answer Nakanishi's question; ie, we show that some links cannot be reduced to trivial links by 3-moves.

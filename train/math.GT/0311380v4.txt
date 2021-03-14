@@ -1,0 +1,1 @@
+We complete the project begun by Callahan, Dean and Weeks to identify all knots whose complements are in the SnapPea census of hyperbolic manifolds with seven or fewer tetrahedra. Many of these ``simple'' hyperbolic knots have high crossing number. We also compute their Jones polynomials.

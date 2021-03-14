@@ -1,0 +1,1 @@
+We give an example of a domain in dimension N \geq 3, homeomorphic to a ball and with analytic boundary, for which the second eigenvalue of the Dirichlet Laplacian has an eigenfunction with a closed nodal surface. The domain is constructed via a sequence of perturbations of the domain of S. Fournais [J. Differential Equations \textbf{173} (2001), 145-159].

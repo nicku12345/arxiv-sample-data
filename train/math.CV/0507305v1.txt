@@ -1,0 +1,1 @@
+Let X be a Riemann domain over \mathbb C^k\times\mathbb C^\ell. If X is domain of holomorphy with respect to a family \mathcal F\subset\mathcal O(X), then there exists a pluripolar set P\subset\mathcal C^k such that every slice X_a of X with a\notin P is a domain of holomorphy with respect to the family \{f|_{X_a}: f\in\mathcal F\}.

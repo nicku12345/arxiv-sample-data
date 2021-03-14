@@ -1,0 +1,1 @@
+We prove lower bounds for the Dirichlet Laplacian on possibly unbounded domains in terms of natural geometric conditions. This is used to derive uncertainty principles for low energy functions of general elliptic second order divergence form operators with not necessarily continuous main part.

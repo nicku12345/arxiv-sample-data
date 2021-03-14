@@ -1,0 +1,1 @@
+D. Marshall and S. Rohde have recently shown that there exists C_0 >0 so that the Loewner equation generates slits whenever the driving term is H\"older continuous with exponent 1/2 and norm less than C_0. In this paper, we show that the maximal value for C_0 is 4.

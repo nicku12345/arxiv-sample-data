@@ -1,0 +1,1 @@
+We give an explicit nonrecursive complete matching for the Hasse diagram of the strong Bruhat order of any interval in any Coxeter group. This yields a new derivation of the Mobius function, recovering a classical result due to Verma.

@@ -1,0 +1,1 @@
+We compute the resultants for quadratic binomial complete intersections. As an application we show that any quadratic binomial complete intersection can have the set of square-free monomials as a vector space basis if the generators are put in a normal form.

@@ -1,0 +1,1 @@
+In this paper we derive formulas for the Monge-Amp\`ere measures of functions of the form \log|\Phi|_c, where \Phi is a holomorphic map on a complex manifold X of dimension n with values in \mathbb{C}^{n+1}\setminus\{0\} and |\cdot|_c is the Lie norm on \mathbb{C}^{n+1}.

@@ -1,0 +1,1 @@
+This paper shows that there exists a contraction whose Zadeh's extension is not a contraction under the Skorokhod metric, answering negatively Problems 5.8 and 5.12 posted in [Jard\'{o}n, S\'{a}nchez, and Sanchis, Some questions about Zadeh's extension on metric spaces, Fuzzy Sets and Systems, 2018].

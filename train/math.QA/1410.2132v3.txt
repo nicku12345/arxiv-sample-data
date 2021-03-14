@@ -1,0 +1,1 @@
+In this paper we prove formality of the exterior algebra on V+V* endowed with the big bracket considered as a graded Poisson algebra. We also discuss connection of this result to bialgebra deformations of the symmetric algebra of V considered as bialgebra.

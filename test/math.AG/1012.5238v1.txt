@@ -1,0 +1,1 @@
+In this paper we prove that if the r-th tensor power of the tangent bundle of a smooth projective variety X contains the determinant of an ample vector bundle of rank at least r, then X is isomorphic either to a projective space or to a smooth quadric hypersurface.

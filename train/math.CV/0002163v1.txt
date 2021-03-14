@@ -1,0 +1,1 @@
+We show that biholomorphic automorphisms of a real analytic CR manifold can be considered as (pointwise) Lie symmetries of a holomorphic second order PDE system defining its Segre family. This allows to use general methods of the geometric PDE theory in order to study the CR geometry of real analytic manifolds.

@@ -1,0 +1,1 @@
+We describe a homotopy-theoretic approach to the moduli of \Pi-algebras of Blanc-Dwyer-Goerss using the \infty-category P_{\Sigma}(Sph) of product-preserving presheaves on finite-wedges of positive-dimensional spheres, reproving all of their results in this new setting.

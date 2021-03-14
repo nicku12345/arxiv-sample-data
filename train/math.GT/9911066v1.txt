@@ -1,0 +1,1 @@
+Let F be a closed orientable surface. We give an explicit formula for the number mod 2 of quadruple points occurring in any generic regular homotopy between any two regularly homotopic embeddings e,e':F -> R^3. The formula is in terms of homological data extracted from the two embeddings.

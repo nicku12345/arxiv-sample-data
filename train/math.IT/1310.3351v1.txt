@@ -1,0 +1,1 @@
+We will construct an MDS(= the most distance separable) code C which admits a decomposition such that every factor is still MDS. An effective way of decoding will be also discussed.

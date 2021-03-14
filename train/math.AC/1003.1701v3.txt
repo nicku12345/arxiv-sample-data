@@ -1,0 +1,1 @@
+In this paper, we prove that every binomial ideal in a polynomial ring over an algebraically closed field of characteristic zero admits a canonical primary decomposition into binomial ideals. Moreover, we prove that this special decomposition is obtained from a cellular decomposition which is also defined in a canonical way and does not depend on the field.

@@ -1,0 +1,1 @@
+We characterize in terms of inequalities the possible generalized singular numbers of a product AB of operators A and B having given generalized singular numbers, in an arbitrary finite von Neumann algebra. We also solve the analogous problem in matrix algebras M_n(C), which seems to be new insofar as we do not require A and B to be invertible.

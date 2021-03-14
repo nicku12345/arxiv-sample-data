@@ -1,0 +1,1 @@
+We give a "second generation" exposition of the slope filtration theorem for modules with Frobenius action over the Robba ring, providing a number of simplifications in the arguments. Some of these are inspired by parallel work of Hartl and Pink, which points out some analogies with the formalism of stable vector bundles.

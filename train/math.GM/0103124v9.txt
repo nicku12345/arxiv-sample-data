@@ -1,0 +1,1 @@
+It is shown that any denumerable list L to which Cantor's diagonal method was applied is incomplete. However, this doesn't allow us to affirm that the cardinality of the real numbers of the interval [0, 1] is greater than the cardinality of the finite natural numbers. Paper withdrawn (its essential part is included in the version 3 of math.GM/0108119).

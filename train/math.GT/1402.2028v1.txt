@@ -1,0 +1,1 @@
+We show that a non-trivial, non-central normal subgroup of the braid groups contains a braid whose closure is a hyperbolic knot with arbitrary large genus. This shows that non-faithfulness of a quantum representation implies that the corresponding quantum invariant fails to detect the unknot. The proof utilizes the Dehornoy ordering of the braid groups.

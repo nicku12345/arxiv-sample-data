@@ -1,0 +1,1 @@
+We construct spectral sequences in the framework of Baues-Wirsching cohomology and homology for functors between small categories and analyze particular cases including Grothendieck fibrations. We also give applications to more classical cohomology and homology theories including Hochschild-Mitchell cohomology and those studied before by Watts, Roos, Quillen and others.

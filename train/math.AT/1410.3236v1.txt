@@ -1,0 +1,1 @@
+We prove that if a pair of semi-cosimplicial spaces (X,Y) arise from a coloured operad then the semi-totalization sTot(Y) has the homotopy type of a relative double loop space and the pair (sTot(X),sTot(Y)) is weakly equivalent to an explicit algebra over the two dimensional Swiss-cheese operad.

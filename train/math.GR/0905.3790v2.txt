@@ -1,0 +1,1 @@
+We examine p-groups with the property that every non-normal subgroup has a normalizer which is a maximal subgroup. In particular we show that for such a p-group G, when p=2, the center of G has index at most 16 and when p is odd the center of G has index at most p^3.

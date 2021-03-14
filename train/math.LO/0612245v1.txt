@@ -1,0 +1,1 @@
+We prove the existence of pairs of models of the same cardinality lambda which are very equivalent according to EF games, but not isomorphic. We continue the paper math.LO/0404222, but we don't rely on it.

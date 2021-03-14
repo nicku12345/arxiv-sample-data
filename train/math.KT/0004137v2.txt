@@ -1,0 +1,1 @@
+We prove an explicit combinatorial formula for the structure constants of the Grothendieck ring of a Grassmann variety with respect to its basis of Schubert structure sheaves. We furthermore relate K-theory of Grassmannians to a bialgebra of stable Grothendieck polynomials, which is a K-theory parallel of the ring of symmetric functions.

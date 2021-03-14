@@ -1,0 +1,1 @@
+For N=5, 6 and 7, using the classification of perfect quadratic forms, we compute the homology of the Voronoi cell complexes attached to the modular groups SL_N(\Z) and GL_N(\Z). From this we deduce the rational cohomology of those groups.

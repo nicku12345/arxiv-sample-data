@@ -1,0 +1,1 @@
+We give a short proof of the following known congruence: for every odd prime p \sum_{k=0}^{p-1}{2k\choose k}^2 16^{-k}\equiv (-1)^{{p-1\over 2}}\pmod{p^2}. Moreover, we provide some new results connected with the above congruence.

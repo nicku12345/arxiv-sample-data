@@ -1,0 +1,1 @@
+A p-periodic 3-manifold is a 3-manifold that admits a Z_{p}-action whose fixed point set is a circle. We give a congruence relates the quantum invariant of a p-periodic 3-manifold associated to any modular category over an integrally closed ground ring and the corresponding quantum invariant of its orbit space.

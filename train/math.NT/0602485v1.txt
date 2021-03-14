@@ -1,0 +1,1 @@
+An odd perfect number, N, is shown to have at least nine distinct prime factors. If 3 does not divide N, then N must have at least twelve distinct prime divisors. The proof ultimately avoids previous computational results for odd perfect numbers.

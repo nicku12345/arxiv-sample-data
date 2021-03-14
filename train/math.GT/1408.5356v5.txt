@@ -1,0 +1,1 @@
+For a knot K with \Delta_K(t)\doteq t^2-3t+1 in a homology 3-sphere, let M be the result of 2/q-surgery on K. We show that appropriate assumptions on the Reidemeister torsion and the Casson-Walker-Lescop invariant of the universal abelian covering of M imply q=\pm 1, if M is a Seifert fibered space.

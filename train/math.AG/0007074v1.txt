@@ -1,0 +1,1 @@
+The Castelnuovo-Mumford regularity of varieties of degree r and dimension n in the r-dimensional projective space that have an extremal secant line, is at least d-r+n+1. We classify these varieties and show that their regularity is exactly d-r+n+1, as predicted by the regularity conjecture.

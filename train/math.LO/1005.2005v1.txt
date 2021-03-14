@@ -1,0 +1,1 @@
+In this note we will introduce a class of search problems, called nested Polynomial Local Search (nPLS) problems, and show that definable NP search problems, i.e., \Sigma^b_1-definable functions in T^2_2 are characterized in terms of the nested PLS.

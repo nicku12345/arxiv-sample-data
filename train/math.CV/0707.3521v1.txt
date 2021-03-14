@@ -1,0 +1,1 @@
+For any closed analytic set X in C^2 there exists a proper holomorphic embedding of the unit disk into C^2 such that the image avoids X.

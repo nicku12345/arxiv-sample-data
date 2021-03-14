@@ -1,0 +1,1 @@
+Let U be a bounded, regular, strictly convex domain of R^2 and consider the wave equation on U with Dirichlet boundary condition. We prove that in such a domain the Strichartz estimates for the wave equation suffer losses when compared to the case U=R^2, at least for a subset of the usual range of indices.

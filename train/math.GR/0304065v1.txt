@@ -1,0 +1,1 @@
+Recall that a locally compact group G is called unimodular if the left Haar measure on G is equal to the right one. It is proved in this paper that G is unimodular iff it is approximable by finite quasigroups (Latin squares).

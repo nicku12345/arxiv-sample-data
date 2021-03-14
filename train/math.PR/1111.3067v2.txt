@@ -1,0 +1,1 @@
+We give an example of an \mathsf{FIID} vertex-labeling of \mathbb{T}_3 whose marginals are uniform on [0,1], and if we delete the edges between those vertices whose labels are different, then some of the remaining clusters are infinite.

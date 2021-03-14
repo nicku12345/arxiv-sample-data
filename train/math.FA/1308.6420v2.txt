@@ -1,0 +1,1 @@
+We give a constructive proof that any \sigma-porous subset of a Hilbert space has Lebesgue measure zero on typical C^{1} curves. Further, we discover that this result does not extend to all forms of porosity; we find that even power-p porous sets may meet many C^{1} curves in positive measure.

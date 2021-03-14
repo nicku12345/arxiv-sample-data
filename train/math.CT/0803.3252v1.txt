@@ -1,0 +1,1 @@
+We describe a general setting for the definition of semi-infinite cohomology of finite dimensional algebras, and provide its categorical interpretation. We apply this interpretation to compute semi-infinite cohomology of some modules over the small group at a root of unity, generalizing an earlier result of S. Arkhipov (conjectured by B. Feigin).

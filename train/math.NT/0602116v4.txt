@@ -1,0 +1,1 @@
+In this paper, we establish theorems of Bombieri-Vinogradov type and Barban-Davenport-Halberstam type for sparse sets of moduli. As an application, we prove that there exist infinitely many primes of the form p=am^2+1 such that a\leq p^{5/9+\epsilon}.

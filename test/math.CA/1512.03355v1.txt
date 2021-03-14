@@ -1,0 +1,1 @@
+A set subset of Euclidean space whose indicator function has maximal Gowers norm, among all sets of equal measure, is an ellipsoid up to Lebesgue null sets. If the indicator function has nearly maximal Gowers norm then the set nearly coincides with an ellipsoid.

@@ -1,0 +1,1 @@
+We study initial algebras of determinantal rings, defined by minors of generic matrices, with respect to their classical generic point. This approach leads to very short proofs for the structural properties of determinantal rings. Moreover, it allows us to classify their Cohen-Macaulay and Ulrich ideals.

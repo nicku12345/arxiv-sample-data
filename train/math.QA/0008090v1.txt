@@ -1,0 +1,1 @@
+This is a first of our papers devoted to "noncommutative topology and graph theory". Its origin is the paper math.QA/0002238 by I. Gelfand, V. Retakh, and R.L. Wilson where a new class of noncommutative algebras Q_n was introduced. The algebra Q_n is closely related to factorizations of a generic polynomial of degree n over a division algebra into linear factors.

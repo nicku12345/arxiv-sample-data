@@ -1,0 +1,1 @@
+We develop the inverse scattering transform for the KdV equation with real singular initial data q(x) of the form q(x) = r'(x) + r(x)^2, where r\in L^2_{\textrm{loc}} and r=0 on \mathbb R_+. As a consequence we show that the solution q(x,t) is a meromorphic function with no real poles for any t>0.

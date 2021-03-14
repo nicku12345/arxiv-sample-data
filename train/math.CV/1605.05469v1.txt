@@ -1,0 +1,1 @@
+The {\em spectrum} of the partial theta function \theta :=\sum _{j=0}^{\infty}q^{j(j+1)/2}x^j is the set of values of q\in \mathbb{C}, 0<|q|<1, for which \theta (q,.) has a multiple zero. We show that the only element of the spectrum belonging to the disk \mathbb{D}_{0.31} is 0.3092493386\ldots.

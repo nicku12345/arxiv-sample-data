@@ -1,0 +1,1 @@
+Suppose that f: \bR^n\to\bR^n is a mapping of K-bounded p-mean distortion for some p>n-1. We prove the equivalence of the following properties of f: doubling condition for J(x,f) over big balls centered at origin, boundedness of multiplicity function N(f,\bR^n), polynomial type of f and polynomial growth condition for f.

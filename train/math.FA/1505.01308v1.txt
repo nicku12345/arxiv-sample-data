@@ -1,0 +1,1 @@
+In this work, given a unital Banach algebra \A and a\in \A such that a has a Moore-Penrose inverse a^\dagger, it will be characterized when aa^\dagger-a^\dagger a is invertible. A particular subset of this class of objects will also be studied. In addition, perturbations of this class of elements will be studied. Finally, the Banach space operator case will be also considered.

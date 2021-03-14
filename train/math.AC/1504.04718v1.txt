@@ -1,0 +1,1 @@
+It is proved that if I and J are weakly stable ideals in a polynomial ring R=k[x_1,\ldots,x_n], with k a field, then the regularity of \text{Tor}^R_i(R/I,R/J) has the expected upper bound. We also give a bound for the regularity of \text{Ext}_R^i(R/I,R) for I a weakly stable ideal.

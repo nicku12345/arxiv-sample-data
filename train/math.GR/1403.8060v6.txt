@@ -1,0 +1,1 @@
+We present a proof of the following claim. Suppose that n is an integer such that n>1 and that k is any field. Suppose that g is an element of \mathrm{SL}(n,k) of infinite order. Then the set \{h\in\mathrm{SL}(n,k)\mid <g,h> is a free group of rank two\} is a Zariski dense subset of \mathrm{SL}(n,\bar{k}) where \bar{k} is an algebraic closure of k.

@@ -1,0 +1,1 @@
+An optimization of caching strategies is proposed as a formal approach allowing us a more efficient use of two-level computer memory. This approach is based on a set of mathematical models and a set of theorems, permitting analytical determination of optimal caching strategy operating characteristics, thus minimising time loss caused by optimal strategy search.

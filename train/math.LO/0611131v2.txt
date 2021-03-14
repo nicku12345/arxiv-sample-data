@@ -1,0 +1,1 @@
+We introduce several properties of forcing notions which imply that their lambda-support iterations are lambda-proper. Our methods and techniques refine those studied in math.LO/9906024, math.LO/0210205, math.LO/0508272 and math.LO/0605067, covering some new forcing notions (though the exact relation of the new properties to the old ones remains undecided).

@@ -1,0 +1,1 @@
+We study the following question, asked to us By Pandharipande and Starr: Let X be a rationally connected 3-fold, and Y be a compact Kaehler 3-fold symplectically equivalent to it. Is Y rationally connected? We show that the answer is positive if X is Fano or b_2(X)\leq2.

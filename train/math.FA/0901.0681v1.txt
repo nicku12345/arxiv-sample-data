@@ -1,0 +1,1 @@
+We compute the weak^*-dentability index of the spaces C(K) where K is a countable compact space. Namely {Dz}(C([0,\omega^{\omega^\alpha}])) = \omega^{1+\alpha+1}, whenever 0\le\alpha<\omega_1. More generally, {Dz}(C(K))=\omega^{1+\alpha+1} if K is a scattered compact whose height \eta(K) satisfies \omega^\alpha<\eta(K)\leq \omega^{\alpha+1} with an \alpha countable.

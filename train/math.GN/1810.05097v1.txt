@@ -1,0 +1,1 @@
+We estimate size of recurrence of an action of a nilpotent group by homeomorphisms of a compact space for polynomial mappings into a nilpotent group form the partial semigroup (\mathcal{P}_{f}(\mathbb{N}),\uplus). To do this we have used algebraic structure of the Stone-\v{C}ech copactification partial semigroup and that of the given nilpotent group.

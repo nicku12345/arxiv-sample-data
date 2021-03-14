@@ -1,0 +1,1 @@
+We use combinatorial and generating function techniques to enumerate various sets of involutions which avoid 231 or contain 231 exactly once. Interestingly, many of these enumerations can be given in terms of k-generalized Fibonacci numbers.

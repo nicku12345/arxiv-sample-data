@@ -1,0 +1,1 @@
+In a previous paper, the author and David Swinarski constructed the moduli spaces of stable maps, \bar M_g,n(P^r,d), via geometric invariant theory (GIT). That paper required the base field to be the complex numbers, a restriction which this paper removes: here the coarse moduli spaces of stable maps are constructed via GIT over a more general base.

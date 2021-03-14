@@ -1,0 +1,1 @@
+We introduce the differential, integral, and variational delta-embeddings. We prove that the integral delta-embedding of the Euler-Lagrange equations and the variational delta-embedding coincide on an arbitrary time scale. In particular, a new coherent embedding for the discrete calculus of variations that is compatible with the least action principle is obtained.

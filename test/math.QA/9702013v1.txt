@@ -1,0 +1,1 @@
+We compare two approaches to the calculation of irreducible characters of the Lie algebra gl(infinity)^ with negative integral central charge. As a consequence, we obtain a "reciprocity formula" for Clebsch-Gordan coefficients, in the limit when the central charge tends to infinity.

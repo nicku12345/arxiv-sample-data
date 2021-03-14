@@ -1,0 +1,1 @@
+We determine the third cohomology of Alexander quandles of the form F_q[T]/(T-omega), where F_q denotes the finite field of order q and omega is an element of F-q which is neither 0 nor 1. As a result, we obtain many concrete examples of non-trivial 3-cocycles.

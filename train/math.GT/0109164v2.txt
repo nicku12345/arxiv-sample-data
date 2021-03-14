@@ -1,0 +1,1 @@
+A combinatorial presentation of closed orientable 3-manifolds as bi-tricolored links is given together with two versions of a calculus via moves to manipulate bi-tricolored links without changing the represented manifold. That is, we provide a finite set of moves sufficient to relate any two manifestations of the same 3-manifold as a simple 4-sheeted branched covering of S^3.

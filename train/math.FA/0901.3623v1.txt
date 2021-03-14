@@ -1,0 +1,1 @@
+Let X be a WCG Banach space admitting a C^k-Fr\' echet smooth norm. Then X admits an equivalent norm which is simultaneously C^1-Fr\' echet smooth, LUR, and a uniform limit of C^k-Fr\' echet smooth norms. If X=C([0,\alpha]), where \alpha is an ordinal, then the same conclusion holds true with k=\infty.

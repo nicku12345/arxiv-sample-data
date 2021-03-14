@@ -1,0 +1,1 @@
+In this paper we show that an affine Hecke algebra H_q over complex numbers field with parameter q\ne 1 is not isomorphic to the group algebra over complex numbers field of the corresponding extend affine Weyl group if the corresponding root system has no factors of type A_1 and the order of q is different from 11 and 13 if the root system has factors of type E_8.

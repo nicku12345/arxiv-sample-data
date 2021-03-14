@@ -1,0 +1,1 @@
+We consider a well-known family of SDEs with irregular drifts and the correspondent zero noise limits. Using (mollified) local times, we show which trajectories are selected. The approach is completely probabilistic and relies on elementary stochastic calculus only.

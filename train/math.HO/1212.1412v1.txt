@@ -1,0 +1,1 @@
+We present a proof that any continuous function with domain including a closed interval yields an antiderivative of that function on that interval. This is done without the need of any integration comparable to that of Riemann, Cauchy, or Darboux. The proof is based on one given by Lebesgue in 1905.

@@ -1,0 +1,1 @@
+We prove the BMM symmetrising trace conjecture for the exceptional complex reflection groups G_4,\,G_5,\,G_6,\,G_7,\,G_8 using a combination of algorithms programmed in different languages (C++, SAGE, GAP3, Mathematica). Our proof depends on the choice of a suitable basis for the generic Hecke algebra associated with each group.

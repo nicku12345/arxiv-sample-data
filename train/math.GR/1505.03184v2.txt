@@ -1,0 +1,1 @@
+In this paper we give an explicit formula of the determinant of a Heisenberg representation \rho of a finite group G. Heisenberg representations are induced by 1-dimensional characters in multiple ways, but our formula will be independent of any particular choice of induction.

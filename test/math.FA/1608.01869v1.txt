@@ -1,0 +1,1 @@
+Let X=G/K be a symmetric space of the non-compact type. We prove that the mean value operator over translated K-orbits of a fixed point is surjective on the space of smooth functions on X if X is either complex or of rank one. For higher rank spaces it is shown that the same statement is true for points in an appropriate Weyl subchamber.

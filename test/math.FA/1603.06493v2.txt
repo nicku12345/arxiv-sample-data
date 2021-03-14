@@ -1,0 +1,1 @@
+We prove a new vectorial functional inequality of Poincar\'{e}-Beckner type. The inequality may be interpreted as an entropy-entropy production one for a gradient flow in the metric space of Radon measures. The proof uses subtle analysis of combinations of related super- and sub-level sets employing the coarea formula and the relative isoperimetric inequality.

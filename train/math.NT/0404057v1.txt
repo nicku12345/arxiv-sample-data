@@ -1,0 +1,1 @@
+Let n be a positive integer and let p be a prime. We calculate the probability that a random monic polynomial of degree n with coefficients in the ring Z_p of p-adic integers splits over Z_p into linear factors.

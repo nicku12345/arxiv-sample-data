@@ -1,0 +1,1 @@
+Given a finitely generated module over a commutative noetherian ring that satisfies certain reflexivity conditions, we show how failure of the semidualizing property for the module manifests in a disconnection of the prime spectrum of the ring.

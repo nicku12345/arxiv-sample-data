@@ -1,0 +1,1 @@
+In this paper we study the multiplicity of positive solutions for nonlinear elliptic equations on \R^N. The number of solutions is greater or equal than the number of disjoint intervals on which the nonlinear term is negative. Applications are given to multiplicity of standing waves for the nonlinear Schr\"odinger and Klein-Gordon equations.

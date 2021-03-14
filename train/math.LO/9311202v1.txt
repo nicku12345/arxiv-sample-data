@@ -1,0 +1,1 @@
+A model with a sequence of indiscernibles depending on a particular precovering set is constructed.The initial assumption is as follows: for every n<omega the set {alpha | o(alpha)=alpha^+n } is unbounded in kappa.

@@ -1,0 +1,1 @@
+Let W be a one-dimensional Brownian motion starting from 0. Define Y(t)= \int_0^t{\d s \over W(s)} := \lim_{\epsilon\to0} \int_0^t 1_{(|W(s)|> \epsilon)} {\d s \over W(s)}  as Cauchy's principal value related to local time. We prove limsup and liminf results for the increments of Y.

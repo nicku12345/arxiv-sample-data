@@ -1,0 +1,1 @@
+We show that if \mathcal{F} is any "well-behaved" subset of the Borel functions and we assume the Axiom of Determinacy then the hierarchy of degrees on \pow(\mathbb{R}) induced by \mathcal{F} turns out to look like the Wadge hierarchy (which is the special case where \mathcal{F} is the set of continuous functions).

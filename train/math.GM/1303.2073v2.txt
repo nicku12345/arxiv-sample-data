@@ -1,0 +1,1 @@
+I want to show one possibility to proof the Collatz conjecture, also called 3n+1 conjecture, for any natural number N. For this, I limit my analysis on the direct odd follower of every natural odd number and show the connections between the already by one reached numbers and their followers, to find an recurrence over all ranges [1,N_{i}], to proof the conjecture.

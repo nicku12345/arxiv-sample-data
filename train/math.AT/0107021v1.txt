@@ -1,0 +1,1 @@
+Quandle cocycles are constructed from extensions of quandles. The theory is parallel to that of group cohomology and group extensions. An interpretation of quandle cocycle invariants as obstructions to extending knot colorings is given, and is extended to links component-wise.

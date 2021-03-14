@@ -1,0 +1,1 @@
+Recently, Nevo introduced the notion of strongly edge decomposable spheres. In this paper, we characterize the algebraic shifted complex of those spheres. Algebraically, this result yields the characterization of the generic initial ideal of the Stanley--Reisner ideal of Gorenstein* complexes having the strong Lefschetz property in characteristic 0.

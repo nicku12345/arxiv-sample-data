@@ -1,0 +1,1 @@
+Using Walters' version of the Ruelle-Perron-Frobenius Theorem we show the existence and uniqueness of KMS states for a certain one-parameter group of automorphisms on a C*-algebra associated to a positively expansive map on a compact metric space.

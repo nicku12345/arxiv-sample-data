@@ -1,0 +1,1 @@
+Suppose G is a hyperbolic group whose boundary has topological dimension k. If the boundary is quasisymmetrically homeomorphic to an Ahlfors k-regular metric space, then, modulo a finite normal subgroup, G is isomorphic to a uniform lattice in the isometry group of hyperbolic (k+1)-space.

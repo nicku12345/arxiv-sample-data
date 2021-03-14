@@ -1,0 +1,1 @@
+We obtain some new results concerning the small deviation problem for S=\sum_n q^n X_n and M=\sup_n q^n X_n, where 0<q<1 and (X_n) are i.i.d. non-negative random variables. In particular, the asymptotics is shown to be the same for S and M in some cases.

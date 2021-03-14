@@ -1,0 +1,1 @@
+We introduce a general method to prove uniform in bandwidth consistency of kernel-type function estimators. Examples include the kernel density estimator, the Nadaraya-Watson regression estimator and the conditional empirical process. Our results may be useful to establish uniform consistency of data-driven bandwidth kernel-type function estimators.

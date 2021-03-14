@@ -1,0 +1,1 @@
+Ideals are used to define homological functors for additive categories. In abelian categories the ideals corresponding to the usual universal objects are principal, and the construction reduces, in a choice dependent way, to homology groups.   Applications are considered: derived categories and functors.

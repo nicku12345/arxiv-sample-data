@@ -1,0 +1,1 @@
+To every group of I-type, we associate a finite quotient group that plays the role that Coxeter groups play for Artin-Tits groups. Since groups of I-type are examples of Garside groups, this answers a question of D. Bessis in the particular case of groups of I-type. Groups of I-type are related to finite set theoretical solutions of the Yang-Baxter equation.

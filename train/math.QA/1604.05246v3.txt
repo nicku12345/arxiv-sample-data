@@ -1,0 +1,1 @@
+We construct an odd version of Khovanov's arc algebra H^n. Extending the center to elements that anticommute, we get a subalgebra that is isomorphic to the oddification of the cohomology of the (n,n)-Springer varieties. We also prove that the odd arc algebra can be twisted into an associative algebra.

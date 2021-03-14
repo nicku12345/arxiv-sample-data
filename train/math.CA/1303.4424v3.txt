@@ -1,0 +1,1 @@
+Consider quasianalytic local rings of germs of smooth functions closed under composition, implicit equation, and monomial division. We show that if the Weierstrass Preparation Theorem holds in such a ring then all elements of it are germs of analytic functions. .

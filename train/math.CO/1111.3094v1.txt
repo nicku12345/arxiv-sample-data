@@ -1,0 +1,1 @@
+For a permutation \omega \in S_{n} Denoncourt constructed a poset M_{\omega} which is the set of join-irreducibles of the Lehmer codes of the permutations in [e, \omega] in the inversion order on S_{n}. In this paper we show that M_{\omega} is a B_{2}-free poset if and only if \omega is a 3412-3421-avoiding permutation.

@@ -1,0 +1,1 @@
+We prove cancellation theorems for reciprocity sheaves and cube-invariant modulus sheaves with transfers of Kahn--Saito--Yamazaki, generalizing Voevodsky's cancellation theorem for \mathbf{A}^1-invariant sheaves with transfers. As an application, we get some new formulas for internal hom's of the sheaves \Omega^i of absolute K\"ahler differentials.

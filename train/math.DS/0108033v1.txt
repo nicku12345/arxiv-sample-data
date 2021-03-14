@@ -1,0 +1,1 @@
+An algebraic Z^{d}-action is an action of Z^{d} on a compact abelian group X by automorphisms of X. We prove that for d \ge 8, there exist mixing zero entropy algebraic Z^{d}-actions which do not exhibit isomorphism rigidity property.

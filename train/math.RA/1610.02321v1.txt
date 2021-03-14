@@ -1,0 +1,1 @@
+We prove that the ring of polynomials in several commuting indeterminates over a nil ring cannot be homomorphically mapped onto a ring with identity, i.e. it is Brown-McCoy radical. It answers a question posed by Puczylowski and Smoktunowicz. We also show that the central closure of a prime nil ring cannot be a simple ring with identity solving a problem due to Beidar.

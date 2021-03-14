@@ -1,0 +1,1 @@
+We construct a function for almost-complex Riemannian manifolds. Non-vanishing of the function for the almost-complex structure implies the almost-complex structure is not integrable. Therefore the constructed function is an obstruction for the existence of complex structures from the almost-complex structure. It is a function, not a tensor, so it is easier to work with.

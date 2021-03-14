@@ -1,0 +1,1 @@
+The quantum analogues of Pauli matrices are introduced and investigated. From these matrices and an appropriate trace over spinorial indiceswe construct a quantum Minkowsky metric. In this framework, we show explicitely the correspondance between the SL(2,C) and Lorentz quantum groups.

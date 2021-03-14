@@ -1,0 +1,1 @@
+In this paper, we discuss on the linearized stability of the trivial solution for a class of nonlinear Caputo fractional differential systems of order \alpha\in(1,2). We show that some recent existing results in this direction are wrong. To complete the literature we also give a criterion to test the asymptotic stability of the trivial solution of this system.

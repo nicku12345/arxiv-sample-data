@@ -1,0 +1,1 @@
+We prove that the p-Quillen complex of a finite solvable group with cyclic derived group is Cohen-Macaulay, if p is an odd prime. If p = 2 we prove a similar conclusion, but there is a discussion to be made.

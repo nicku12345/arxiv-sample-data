@@ -1,0 +1,1 @@
+We introduce the notions of mixed resolutions and simplicial sections, and prove a theorem relating them. This result is used (in another paper) to study deformation quantization in algebraic geometry.

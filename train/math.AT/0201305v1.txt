@@ -1,0 +1,1 @@
+We prove a result concerning formality of the pull-back of a fibration. Our approach is to use bar complexes in the category of commutative differential graded algebras. As an application, we generalize an old result of Baum and Smith.

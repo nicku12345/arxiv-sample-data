@@ -1,0 +1,1 @@
+A finite-dimensional matrix representation of the Jackson q-differential operator D_q, defined by D_qf(x) = (f(qx)-f(x))/(x(q-1)), is written down following Calogero. Such a representation of D_q should have applications in q-analysis leading to the corresponding extensions of the numerous results of Calogero's work.

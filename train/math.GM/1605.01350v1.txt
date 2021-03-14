@@ -1,0 +1,1 @@
+In this paper we introduce a variation of the well-known Zagreb indices by considering a proper vertex colouring of a graph G. The chromatic Zagreb indices are defined in terms of the parameter c(v), v \in V(G) instead of the invariant d_G(v). The notion of chromatically stable graphs is also introduced.

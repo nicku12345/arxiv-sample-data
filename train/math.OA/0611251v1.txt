@@ -1,0 +1,1 @@
+Suppose G is a second countable, locally compact, Hausdorff, principal groupoid with a fixed left Haar system. We define a notion of integrability for groupoids, and show G is integrable if and only if the groupoid C*-algebra C*(G) has bounded trace.

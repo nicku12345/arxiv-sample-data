@@ -1,0 +1,1 @@
+We modify Grayson's model of K_1 of an exact category to give a presentation whose generators are binary acyclic complexes of length at most k for any given k \ge 2. As a corollary, we obtain another, very short proof of the identification of Nenashev's and Grayson's presentations.

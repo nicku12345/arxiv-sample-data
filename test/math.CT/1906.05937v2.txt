@@ -1,0 +1,1 @@
+We present a complete categorical axiomatization of a wide class of dataflow programs. This gives a three-dimensional diagrammatic language for workflows, more expressive than the directed acyclic graphs generally used for this purpose. This calls for an implementation of these representations in data transformation tools.

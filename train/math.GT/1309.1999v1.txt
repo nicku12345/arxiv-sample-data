@@ -1,0 +1,1 @@
+The knot Floer complex and the concordance invariant \varepsilon can be used to define a filtration on the smooth concordance group. We exhibit an ordered subset of this filtration that is isomorphic to \mathbb{N} \times \mathbb{N} and consists of topologically slice knots.

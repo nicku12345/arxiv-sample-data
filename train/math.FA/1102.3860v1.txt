@@ -1,0 +1,1 @@
+We compare the perimeter measure with the Airault-Malliavin surface measure and we prove that all open convex subsets of abstract Wiener spaces have finite perimeter. By an explicit counter-example, we show that in general this is not true for compact convex domains.

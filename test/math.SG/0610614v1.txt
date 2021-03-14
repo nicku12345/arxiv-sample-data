@@ -1,0 +1,1 @@
+The Kaehler quotient of a complex reductive Lie group relative to the conjugation action carries a complex algebraic stratified Kaehler structure which reflects the geometry of the group. For the group SL(n,C), we interpret the resulting singular Poisson-Kaehler geometry of the quotient in terms of complex discriminant varieties and variants thereof.

@@ -1,0 +1,1 @@
+We give presentations for the braid groups associated with the complex reflection groups G_{24} and G_{27}. For the cases of G_{29}, G_{31}, G_{33} and G_{34}, we give (strongly supported) conjectures. These presentations were obtained with VKCURVE, a GAP package implementing Van Kampen's method.

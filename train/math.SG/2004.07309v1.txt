@@ -1,0 +1,1 @@
+We explain how to use bordered algebras to compute a version of link Floer homology. As a corollary, we also give a fast computation of the Thuston polytope for links in the three-sphere.

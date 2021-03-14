@@ -1,0 +1,1 @@
+Given n distinct points t_1,\ldots,t_n on the unit circle \T and equally many target values \f_1,\ldots,\f_n\in\T, we describe all Blaschke products f of degree at most n-1 such that f(t_i)=\f_i for i=1,\ldots,n. We also describe the cases where degree n-1 is the minimal possible.

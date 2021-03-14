@@ -1,0 +1,1 @@
+Let M be a symplectic manifold, equipped with a semifree symplectic circle action with a finite, nonempty fixed point set. We show that the circle action must be Hamiltonian, and M must have the equivariant cohomology and Chern classes of (P^1)^n.

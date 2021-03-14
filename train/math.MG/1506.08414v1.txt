@@ -1,0 +1,1 @@
+Cohn--Conway--Elkies--Kumar [Experiment. Math. (2007)] described that one can construct a family of designs on S^{2n-1} from a design on \mathbb{CP}^{n-1}. In this paper, we prove their claim for the case where n=2. That is, we give an algorithm to construct 2t-designs on S^{3} as products through a Hopf map S^3 \rightarrow S^2 of a t-design on S^2 and a 2t-design on S^1.

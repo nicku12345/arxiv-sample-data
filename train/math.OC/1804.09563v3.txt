@@ -1,0 +1,1 @@
+In this paper we show that a complete characterization of the controllability property for linear control system on three-dimensional solvable nonnilpotent Lie groups is possible by the LARC and the knowledge of the eigenvalues of the derivation associated with the drift of the system.

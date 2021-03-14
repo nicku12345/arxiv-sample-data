@@ -1,0 +1,1 @@
+Let Y be a normal and projective variety over an algebraically closed field k and V a vector bundle over Y. We prove that if there exist a k-scheme X and a finite surjective morphism g:X\to Y that trivializes V then V is essentially finite.

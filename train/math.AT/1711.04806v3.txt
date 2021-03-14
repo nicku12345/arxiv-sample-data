@@ -1,0 +1,1 @@
+Morava E-theory E is an E_\infty-ring with an action of the Morava stabilizer group \Gamma. We study the derived stack \operatorname{Spf} E/\Gamma. Descent-theoretic techniques allow us to deduce a theorem of Hopkins-Mahowald-Sadofsky on the K(n)-local Picard group, as well as a recent result of Barthel-Beaudry-Stojanoska on the Anderson duals of higher real K-theories.

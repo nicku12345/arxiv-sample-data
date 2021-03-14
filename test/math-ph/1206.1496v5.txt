@@ -1,0 +1,1 @@
+We consider nonholonomic systems with collisions and propose a concept of weak solutions to Lagrange-d'Alembert equations. In the light of this concept we describe dynamics of the collisions. Several applications have been investigated. Particularly the collision of rotating ball and the rough floor has been considered.

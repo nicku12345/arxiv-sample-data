@@ -1,0 +1,1 @@
+Let A be a noetherian commutative ring, and let I be an ideal in A. We study questions of flatness and I-adic completeness for infinitely generated A-modules. This is done using the notions of decaying function and I-adically free A-module.

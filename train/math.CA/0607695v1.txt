@@ -1,0 +1,1 @@
+We study the action of translation operators on wavelet subspaces. This action gives rise to an equivalence relation on the set of all wavelets. We show by explicit construction that each of the associated equivalence classes is non-empty.

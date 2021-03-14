@@ -1,0 +1,1 @@
+Let R be a local ring and M,N be finitely generated R-modules. The complexity of (M,N), denoted by \cxx RMN, measures the polynomial growth rate of the number of generators of the modules \Ext nRMN. In this paper we study several basic equalities and inequalities involving complexities of different pairs of modules.

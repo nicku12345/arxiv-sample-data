@@ -1,0 +1,1 @@
+It is well known that the Euler characteristic of an odd dimensional compact manifold is zero. An Euler complex is a combinatorial analogue of a compact manifold. We present here an elementary proof of the corresponding result for Euler complexes.

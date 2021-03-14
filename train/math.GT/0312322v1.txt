@@ -1,0 +1,1 @@
+Let K be a non-trivial knot in the 3-sphere and let Y(r) be the 3-manifold obtained by surgery on K with surgery-coefficient a rational number r. We show that there is a homomorphism from the fundamental group of Y(r) to SU(2) with non-cyclic image if r is less than or equal to 2.

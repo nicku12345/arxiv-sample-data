@@ -1,0 +1,1 @@
+We show that every unramified morphism X->Y has a canonical and universal factorization X->E->Y where the first morphism is a closed embedding and the second is etale (but not separated).

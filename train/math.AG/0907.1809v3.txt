@@ -1,0 +1,1 @@
+We develop an algorithm computing the transcendental lattice and the Mordell--Weil group of an extremal elliptic surface. As an example, we compute the lattices of four exponentially large series of surfaces

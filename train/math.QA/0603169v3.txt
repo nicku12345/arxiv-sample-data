@@ -1,0 +1,1 @@
+We give a new proof of the quantum version of MacMahon's Master Theorem due to Garoufalidis, Le and Zeilberger (one-parameter case) and to Konvalinka and Pak (multiparameter case) by deriving it from known facts about Koszul algebras.

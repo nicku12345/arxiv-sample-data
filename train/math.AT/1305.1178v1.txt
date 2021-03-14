@@ -1,0 +1,1 @@
+In this paper we prove that if G is a p-torus (resp. torus) group acting without fixed points on a finitistic space X (resp. with finitely many orbit types), then the G-index i_G(X) < 1. Using this G-index we obtain a generalization of the Central Point Theorem and also of the Tverberg Theorem for any d-dimensional Hausdorff space.

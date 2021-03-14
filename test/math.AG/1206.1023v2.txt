@@ -1,0 +1,1 @@
+We give a new proof of the theorem stating that for any connected linear algebraic group G over an algebraically closed field k of characteristic 0 and for any closed connected subgroup H of G, the unramified Brauer group of G/H vanishes.

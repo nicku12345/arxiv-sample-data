@@ -1,0 +1,1 @@
+An elementary approach is shown which derives the value of the Gauss sum of a cubic character over a finite field \mathbb F_{2^s} without using Davenport-Hasse's theorem (namely, if s is odd the Gauss sum is -1, and if s is even its value is -(-2)^{s/2}).

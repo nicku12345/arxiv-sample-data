@@ -1,0 +1,1 @@
+We will use immersed surfaces to study Seifert fibered surgery on Montesinos knots, and show that if \frac 1{q_1-1} + \frac 1{q_2-1} + \frac 1{q_3-1} \leq 1 then a Montesinos knot K(\frac{p_1}{q_1}, \frac{p_2}{q_2}, \frac{p_3}{q_3}) admits no atoroidal Seifert fibered surgery.

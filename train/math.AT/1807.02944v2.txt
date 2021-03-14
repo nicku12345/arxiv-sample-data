@@ -1,0 +1,1 @@
+We show a method to determine topological complexity from the fibrewise view point, which provides an alternative proof for tc(K) = 4, where K denotes Klein bottle.

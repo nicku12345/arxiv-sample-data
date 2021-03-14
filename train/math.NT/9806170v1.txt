@@ -1,0 +1,1 @@
+Using the theory of Diophantine m-tuples, i.e. sets with the property that the product of its any two distinct elements increased by 1 is a perfect square, we construct an elliptic curve over Q(t) of rank at least 4 with three non-trivial torsion points. By specialization, we obtain an example of elliptic curve over Q with torsion group Z/2Z * Z/2Z whose rank is equal 7.

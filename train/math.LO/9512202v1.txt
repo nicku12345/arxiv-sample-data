@@ -1,0 +1,1 @@
+A ZFC Dowker space is constructed which has cardinality \aleph_{\omega+1}. This provides a bound in ZFC to the first cardinal in which there is a ZFC Dowker space.   The space we construct is a closed and cofinal subspace of M.~E.~Rudin's Dowker space from 1971. A theorem from pcf theory used in the proof, but otherwise the proof is elementary.

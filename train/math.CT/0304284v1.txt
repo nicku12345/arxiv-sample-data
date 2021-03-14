@@ -1,0 +1,1 @@
+We give an explicit construction of the category Opetope of opetopes. We prove that the category of opetopic sets is equivalent to the category of presheaves over Opetope.

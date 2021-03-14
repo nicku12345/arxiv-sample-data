@@ -1,0 +1,1 @@
+We prove that every finite, commutative automorphic loop is solvable. We also prove that every finite, automorphic 2-loop is solvable. The main idea of the proof is to associate a simple Lie algebra of characteristic 2 to a hypothetical finite simple commutative automorphic loop. The "crust of a thin sandwich" theorem of Zel'manov and Kostrikin leads to a contradiction.

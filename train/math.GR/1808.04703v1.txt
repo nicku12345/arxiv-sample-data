@@ -1,0 +1,1 @@
+An element g of a group G is said to be right Engel if for every x\in G there is a number n=n(g,x) such that [g,{}_{n}x]=1. We prove that if a profinite group G admits a coprime automorphism \varphi of prime order such that every fixed point of \varphi is a right Engel element, then G is locally nilpotent.

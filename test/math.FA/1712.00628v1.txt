@@ -1,0 +1,1 @@
+For an inverse semigroup S with the set of idempotents E and a minimal idempotent, we find necessary and sufficient conditions for the Fourier algebra A(S) to be module amenable, module character amenable, module (operator) biflat, or module (operator) biprojective.

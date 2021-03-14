@@ -1,0 +1,1 @@
+We complete the proof of the upper bound \hat\rho_3\leq 10R for the regularity radius of Delone sets in three-dimensional Euclidean space. Namely, summing up the results obtained earlier, and adding the missing cases, we show that if all 10R-clusters of a Delone set X with parameters (r,R) are equivalent, then X is a regular system.

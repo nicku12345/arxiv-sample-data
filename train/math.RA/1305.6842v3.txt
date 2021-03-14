@@ -1,0 +1,1 @@
+A semigroup S is called an equational domain (e.d.) if any finite union of algebraic sets over S is algebraic. For a semigroup S with a finite ideal we find the necessary and sufficient conditions to be an e.d.

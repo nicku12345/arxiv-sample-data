@@ -1,0 +1,1 @@
+In this paper we study the Gan-Gross-Prasad problem for finite classical groups. Our results provide complete answers for unipotent representations, and we obtain the explicit branching laws for these representations. Moreover, for arbitrary representations, we give a formula to reduce the Gan-Gross-Prasad problem to the restriction problem of Deligne-Lusztig characters.

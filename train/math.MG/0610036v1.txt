@@ -1,0 +1,1 @@
+De Bruijn and Erd\H{o}s proved that every noncollinear set of n points in the plane determines at least n distinct lines. We suggest a possible generalization of this theorem in the framework of metric spaces and provide partial results on related extremal combinatorial problems.

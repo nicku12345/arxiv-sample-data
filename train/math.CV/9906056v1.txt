@@ -1,0 +1,1 @@
+In this article, we consider metrically thin singularities A of the tangential Cauchy-Riemann operator on smoothly embedded Cauchy-Riemann manifolds M. The main result states removability within the space of locally integrable functions on M under the hypothesis that the (dim M-2)-dimensional Hausdorff volume of A is zero and that the CR-orbits of M and M-A are comparable.

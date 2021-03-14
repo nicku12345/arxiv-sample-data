@@ -1,0 +1,1 @@
+We describe an algorithm that allows to compute a minimal resolution of the Steenrod algebra. The algorithm has built-in knowledge about vanishing lines for the cohomology of sub Hopf algebras of the Steenrod algebra which makes it both faster and more economical than the generic approach.

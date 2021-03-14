@@ -1,0 +1,1 @@
+We study Lagrangian time-discretizations of the Hunter-Saxton equation. Using the Moser-Veselov approach, we obtain such discretizations defined on the Virasoro group and on the group of orientation-preserving diffeomorphisms of the circle. We conjecture that one of these discretizations is integrable.

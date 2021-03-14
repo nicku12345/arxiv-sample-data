@@ -1,0 +1,1 @@
+A projective link is a smooth closed 1-submanifold of the real projective space of dimension three. A projective link is said to be affine if it is isotopic to a link, which does not intersect some projective plane. The main result: a projective link is affine if and only if the fundamental group of its complement contains a non-trivial element of order two.

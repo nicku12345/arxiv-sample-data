@@ -1,0 +1,1 @@
+We extend to arbitrary rings a definition of the octonion special linear group due to Baez. At the infinitesimal level we get a Lie ring, which we describe over some large classes of rings, including all associative rings and all algebras over a field. As a corollary we compute all the groups Baez defined.

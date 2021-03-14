@@ -1,0 +1,1 @@
+The 1-dimensional Zakharov system is shown to have a unique global solution for data without finite energy. The proof uses the " I-method " introduced by Colliander, Keel, Staffilani, Takaoka, and Tao in connection with a refined bilinear Strichatz estimate.

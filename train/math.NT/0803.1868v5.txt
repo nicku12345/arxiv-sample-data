@@ -1,0 +1,1 @@
+We show that the sequence of integers which have nearly the typical number of distinct prime factors forms a Poisson process. More precisely, for \de arbitrarily small and positive, the nearest neighbor spacings between integers n with |\om(n)-\log_2 n|\le (\log_2 n)^{\de} obey the Poisson distribution law.

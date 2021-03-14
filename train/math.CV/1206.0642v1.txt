@@ -1,0 +1,1 @@
+We study the (trace) norm of a linearly invariant family in the ball in \C. By adapting an approach that in one variable yields optimal results, we are able to derive an upper bound for the norm of the family in terms of the Schwarzian norm and the dimension n.

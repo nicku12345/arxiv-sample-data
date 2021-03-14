@@ -1,0 +1,1 @@
+We determine the extreme points and facets of the convex hull of all dual degree partitions of simple graphs on n vertices.

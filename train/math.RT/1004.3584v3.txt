@@ -1,0 +1,1 @@
+V.I. Arnold [Russian Math. Surveys 26 (2) (1971) 29-43] constructed a miniversal deformation of matrices under similarity; that is, a simple normal form to which not only a given square matrix A but all matrices B close to it can be reduced by similarity transformations that smoothly depend on the entries of B. We construct a miniversal deformation of matrices under congruence.

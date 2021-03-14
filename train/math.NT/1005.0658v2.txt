@@ -1,0 +1,1 @@
+In this note, we give a necessary and sufficient condition for determining which integers can be written as a sum of two integral squares for certain quadratic fields by using the integral Brauer-manin obstruction (see \cite{CTX}). The condition is computable and originally from the reciprocity law.

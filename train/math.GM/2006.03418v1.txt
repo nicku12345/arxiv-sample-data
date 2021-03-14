@@ -1,0 +1,1 @@
+In this short note, we show that, in any given metric space, every Lipschitz open-map image of every subset of a given metric space whose boundary is Hausdorff-null is Hausdorff-measurable with respect to the same dimension. The main results are connected with a number of familiar concepts in other branches such as complex analysis, functional analysis, and topology.

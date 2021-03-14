@@ -1,0 +1,1 @@
+If A is infinite and well-ordered, then |2^A|<=|Part(A)|<=|A^A|.

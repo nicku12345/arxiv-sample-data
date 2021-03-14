@@ -1,0 +1,1 @@
+Let f(x) be a polynomial with integer coefficients, let n be a positive integer, and let p be an odd prime. Then the mapping x-->f(x) sends Z/p^n into Z/p^n. We study the topological structure of this mapping.

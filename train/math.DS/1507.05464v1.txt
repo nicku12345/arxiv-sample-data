@@ -1,0 +1,1 @@
+Let X be a compact K\"ahler manifold of dimension n. Let T and S be two positive closed currents on X of bidegree (p,p) and (q,q) respectively with p+q\le n. Assume that T has a continuous super-potential. We prove that the wedge product T \wedge S, defined by Dinh and Sibony, is a positive closed current.

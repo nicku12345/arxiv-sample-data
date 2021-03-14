@@ -1,0 +1,1 @@
+Smoothing causal linear time-invariant filters are studied for continuous time processes. The paper suggests a family of causal filters with almost exponential damping of the energy on the higher frequencies. These filters are sub-ideal meaning that a faster decay of the frequency response would lead to the loss of causality.

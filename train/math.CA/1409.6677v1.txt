@@ -1,0 +1,1 @@
+Let \mathbb{R}=(-\infty,\infty), and let Q\in C^1(\mathbb{R}): \mathbb{R}\rightarrow[0,\infty) be an even function. We consider the exponential weights w(x)=e^{-Q(x)}, x\in \mathbb{R}. In this paper we obtain a pointwise convergence theorem for the Fourier-type series with respect to the orthonormal polynomials \left\{p_n(w^2;x)\right\}.

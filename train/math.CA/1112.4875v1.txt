@@ -1,0 +1,1 @@
+If a pair of functions nearly extremizes Young's convolution inequality for R^d, with all three exponents finite and strictly greater than 1, then each function is close in norm to a Gaussian. The proof relies on the Riesz-Sobolev rearrangement inequality and in particular, on an approximate inverse Riesz-Sobolev inequality established in a companion paper.

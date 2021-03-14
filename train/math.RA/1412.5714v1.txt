@@ -1,0 +1,1 @@
+A commutative ring R is J-stable provided that for any a\not\in J(R), R/aR has stable range one. A ring R is called an elementary divisor ring if every m\times n matrix over R admits diagonal reduction. We prove that a J-stabe ring R is an elementary divisor ring if and only if it is a Bezout ring.

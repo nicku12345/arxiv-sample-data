@@ -1,0 +1,1 @@
+Let A be a von Neumann algebra with no central summands of type I_1. We will show that every nonlinear Lie n-derivation on A is of the standard form, i.e. it can be expressed as a sum of an additive derivation and a central-valued mapping which annihilates each (n-1)-th commutator of A.

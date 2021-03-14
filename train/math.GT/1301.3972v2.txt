@@ -1,0 +1,1 @@
+A closed 4-manifold (or, more generally, a finite PD_4-space) has a finitely dominated infinite regular covering space if and only if either its universal covering space is finitely dominated or it is finitely covered by the mapping torus of a self homotopy equivalence of a PD_3-complex.

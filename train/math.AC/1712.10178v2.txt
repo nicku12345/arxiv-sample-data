@@ -1,0 +1,1 @@
+We show that over any field F of \operatorname{char}(F)=2 and 2-rank n, there exist 2^n bilinear n-fold Pfister forms that have no slot in common. This answers a question of Becher's in the negative. We provide an analogous result also for quadratic Pfister forms.

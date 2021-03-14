@@ -1,0 +1,1 @@
+For irreducible smooth representations \Pi of \mathrm{GSp}(4,k) over a non-archimedean local field k, Piatetskii-Shapiro and Soudry have constructed an L-factor depending on the choice of a Bessel model. It factorizes into a regular part and an exceptional part. We determine the regular part for the case of split Bessel models.

@@ -1,0 +1,1 @@
+This paper proves that the Castelnuovo-Mumford regularities of the product and sum of two monomial complete intersection ideals are at most the sum of the regularities of the two ideals, and provides examples showing that these inequalities do not hold for general complete intersections.

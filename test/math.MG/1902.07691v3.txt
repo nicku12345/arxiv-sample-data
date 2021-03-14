@@ -1,0 +1,1 @@
+A quasiconformal tree is a metric tree that is doubling and of bounded turning. We prove that every quasiconformal tree is quasisymmetrically equivalent to a geodesic tree with Hausdorff dimension arbitrarily close to 1.

@@ -1,0 +1,1 @@
+We study the evolution of Wigner measures of a family of solutions of a Schr\"odinger equation with a scalar potential displaying a conical singularity. Under a genericity assumption, classical trajectories exist and are unique, thus the question of the propagation of Wigner measures along these trajectories becomes relevant. We prove the propagation for general initial data.

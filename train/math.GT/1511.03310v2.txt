@@ -1,0 +1,1 @@
+In this paper, we present our general results about traversing flows on manifolds with boundary in the context of the flows on surfaces with boundary. We take advantage of the relative simplicity of 2D-worlds to explain and popularize our approach to the Morse theory on smooth manifolds with boundary, in which the boundary effects take the central stage.

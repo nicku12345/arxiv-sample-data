@@ -1,0 +1,1 @@
+In this article we study the pointwise decay properties of solutions to the Maxwell system on a class of nonstationary asymptotically flat backgrounds in three space dimensions. Under the assumption that uniform energy bounds and a weak form of local energy decay hold forward in time, we establish peeling estimates for all the components of the Maxwell tensor.

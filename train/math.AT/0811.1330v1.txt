@@ -1,0 +1,1 @@
+An almost-direct product of free groups is an iterated semidirect product of finitely generated free groups in which the action of the constituent free groups on the homology of one another is trivial. We determine the structure of the cohomology ring of such a group. This is used to analyze the topological complexity of the associated Eilenberg-Mac Lane space.

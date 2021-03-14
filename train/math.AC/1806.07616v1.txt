@@ -1,0 +1,1 @@
+Let I be a complete intersection in a polynomial ring over a field, the Castelnuovo-Mumford regularity of I^n is given by using an induction method. When I, J and K are three pure power complete intersections, it is proved that reg(IJK) is not more than reg(I)+reg(J)+reg(K).

@@ -1,0 +1,1 @@
+Working in the setting of Deligne categories, we generalize a result of Marin that hooks generate the representation ring of symmetric groups to wreath products of symmetric groups with a fixed finite group or Hopf algebra. In particular, when we take the finite group to be cyclic order 2 we recover a conjecture of Marin about Coxeter groups in type B.

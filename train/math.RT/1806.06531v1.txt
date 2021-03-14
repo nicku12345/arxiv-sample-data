@@ -1,0 +1,1 @@
+We give a direct straightforward proof that there is an isomorphism between the algebra of the Catalan monoid C_n that is, the monoid of all order-preserving, weakly increasing self-maps f of [n] = {1,...,n}, over any commutative ring with identity and the incidence algebra of a certain poset over the ring.

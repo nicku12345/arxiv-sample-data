@@ -1,0 +1,1 @@
+We use the Taylor resolution of a monomial ideal to compute the Tor algebra of the Stanley-Reisner ring of a simplicial complement of a simplicial complex.

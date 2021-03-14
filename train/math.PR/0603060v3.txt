@@ -1,0 +1,1 @@
+We show that the edges crossed by a random walk in a network form a recurrent graph a.s. In fact, the same is true when those edges are weighted by the number of crossings.

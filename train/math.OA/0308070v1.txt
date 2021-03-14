@@ -1,0 +1,1 @@
+We establish lower bounds for norms and CB-norms of elementary operators on B(H). Our main result concerns the operator Tx = axb + bxa and we show its norm is at least the product of the norms of a and b, proving a conjecture of M. Mathieu. We also establish some other results and formulae for the CB norm and norm of such T for special cases.

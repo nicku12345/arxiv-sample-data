@@ -1,0 +1,1 @@
+This is an expository paper about a \mathcal{C}_2-equivariant analog of the bar construction. We will explain its construction and prove how it acts as a \sigma-fold delooping machine on twisted monoids, where \sigma denotes the sign representation.

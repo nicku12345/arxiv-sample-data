@@ -1,0 +1,1 @@
+We establish the stability of second-order linear dynamic equations on time scales in the sense of Hyers and Ulam. To wit, if an approximate solution of the second-order linear equation exists, then there exists an exact solution to the dynamic equation that is close to the approximate one.

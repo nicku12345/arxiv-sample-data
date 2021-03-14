@@ -1,0 +1,1 @@
+In this paper non-asymptotic exact exponential estimates are derived (under minimal conditions) for the tail of deviation of the MLE distribution in the so-called natural terms: natural function, natural distance, metric entropy, Banach spaces of random variables, contrast function, majorizing measures or, equally, generic chaining.

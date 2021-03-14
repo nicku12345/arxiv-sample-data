@@ -1,0 +1,1 @@
+The Lambert W function has utility for solving various exponential and logarithmic equations arranged in the form of g(x)e^{g(x)}. Using the Lambert W function and tetration, a variety of categorized inversion formulas are presented. Related techniques are then used to derive polar forms of exponential and related functions.

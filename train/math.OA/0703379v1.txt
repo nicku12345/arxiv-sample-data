@@ -1,0 +1,1 @@
+We prove fourteen equivalent conditions for a set of timefrequency shifts on a lattice to be a frame for L^2. Remarkably, several of these conditions can be formulated without an inequality. In particular, instead of checking the invertibility of the frame operator on L^2 it suffices to verify that it is one-to-one on a certain subspace of tempered distributions.

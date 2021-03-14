@@ -1,0 +1,1 @@
+It is shown that any closed three-manifold M obtained by integral surgery on a knot in the three-sphere can always be constructed from integral surgeries on a 3-component link L with each component being an unknot in the three-sphere. It is also interesting to notice that infinitely many different integral surgeries on the same link L could give the same three-manifold M.

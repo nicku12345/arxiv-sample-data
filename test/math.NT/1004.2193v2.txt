@@ -1,0 +1,1 @@
+We consider the parametric family of sextic Thue equations \[ x^6-2mx^5y-5(m+3)x^4y^2-20x^3y^3+5mx^2y^4+2(m+3)xy^5+y^6=\lambda \] where m\in\mathbb{Z} is an integer and \lambda is a divisor of 27(m^2+3m+9). We show that the only solutions to the equations are the trivial ones with xy(x+y)(x-y)(x+2y)(2x+y)=0.

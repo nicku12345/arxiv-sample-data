@@ -1,0 +1,1 @@
+This is a recreational paper showing that certain linked graphs cannot be separated. The proofs employ elementary covering space theory, an appeal to a theorem of Scharlemann (concerning the band sums of two unknots), and a Jones polynomial calculation.

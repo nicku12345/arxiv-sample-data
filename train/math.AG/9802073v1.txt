@@ -1,0 +1,1 @@
+We study the geometry of algebraic monoids. We prove that the group of invertible elements of an irreducible algebraic monoid is an algebraic group, open in the monoid. Moreover, if this group is reductive, then the monoid is affine. We then give a combinatorial classification of reductive monoids by means of the theory of spherical varieties.

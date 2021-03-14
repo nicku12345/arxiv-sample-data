@@ -1,0 +1,1 @@
+This paper concerns the study of Leibniz algebras, a natural generalization of Lie algebras, from the perspective of centralizers of elements. We study conditions on Leibniz algebras under which centralizers of all elements are ideals. We call a Leibniz algebra, a CL-algebra if centralizers of all elements are ideals. We discuss nilpotency of CL-algebras.

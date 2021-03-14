@@ -1,0 +1,1 @@
+We lift Charles Rezk's complete Segal space model structure on the category of simplicial spaces to a Quillen equivalent one on the category of relative categories.

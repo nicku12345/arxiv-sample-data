@@ -1,0 +1,1 @@
+We introduce the sketch of construction of a Lipschitz function f: \mathcal{C} \to H, here the set \mathcal{C} consists of all compact convex subsets of the Hadamard space H. Note that f(\{x\})=\{x\} for any point x \in H.

@@ -1,0 +1,1 @@
+In this paper we study the self-adjoint Krein-von Neumann realization A_K of the perturbed Laplacian -\Delta+V in a bounded Lipschitz domain \Omega\subset\mathbb{R}^n. We provide an explicit and self-contained description of the domain of A_K in terms of Dirichlet and Neumann boundary traces, and we establish a Weyl asymptotic formula for the eigenvalues of A_K.

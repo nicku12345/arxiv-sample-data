@@ -1,0 +1,1 @@
+We present a {\Gamma}-convergence approximation for the total anisotropic length of a partition. This theoretical result gives rise to a numerical method which allows the study of minimal partitions with respect to different anisotropies. We also give a numerical framework for the study of isoperimetric problems with density.

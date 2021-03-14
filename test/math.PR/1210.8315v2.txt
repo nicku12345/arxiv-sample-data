@@ -1,0 +1,1 @@
+In this paper, the asymptotic behavior of the conditional least squares (CLS) estimators of the offspring means (\alpha,\beta) and of the criticality parameter \varrho:=\alpha+\beta for a 2-type critical doubly symmetric positively regular Galton-Watson branching process with immigration is described.

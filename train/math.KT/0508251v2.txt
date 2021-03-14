@@ -1,0 +1,1 @@
+Let k be a regular F_p-algebra, let A = k[x,y]/(xy) be the coordinate ring of the coordinate axes in the affine k-plane, and let I = (x,y) be the ideal that defines the intersection point. We evaluate the relative K-groups K_q(A,I) in terms of the groups of big de Rham-Witt forms of the ring k. The result generalizes previous results for K_1 and K_2 by Dennis and Krusemeyer.

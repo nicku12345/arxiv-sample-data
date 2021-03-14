@@ -1,0 +1,1 @@
+We study Pisot numbers \beta \in (1, 2) which are univoque, i.e., such that there exists only one representation of 1 as 1 = \sum_{n \geq 1} s_n\beta^{-n}, with s_n \in \{0, 1\}. We prove in particular that there exists a smallest univoque Pisot number, which has degree 14. Furthermore we give the smallest limit point of the set of univoque Pisot numbers.

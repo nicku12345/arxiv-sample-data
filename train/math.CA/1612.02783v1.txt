@@ -1,0 +1,1 @@
+Motivated by the work of Anderson, Vamanamurthy and Vuorinen \cite{avv}, in this paper authors study the log-convexity and log-concavity of Power mean, Identric mean, weighted Power mean, Lehmer mean, Modified Alzer mean, and establish the relation of these means with each other.

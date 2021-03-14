@@ -1,0 +1,1 @@
+The aim of this note is to give simple proofs of some results of Reichstein and Youssin (math.AG/9903162) about the behaviour of fixed points of finite group actions under rational maps. Our proofs work in any characteristic. We also give a short proof of the Nishimura lemma.

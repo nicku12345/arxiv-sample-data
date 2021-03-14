@@ -1,0 +1,1 @@
+Consider a compact K\"{a}hler manifold M^m with Ricci curvature lower bound Ric_M\geq -2(m+1) . Assume that its universal cover % \widetilde{M} has maximal bottom of spectrum \lambda_1(\widetilde{M}%) =m^2. Then we prove that \widetilde{M} is isometric to the complex hyperbolic space \Bbb{CH}^m.

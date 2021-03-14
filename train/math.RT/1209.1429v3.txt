@@ -1,0 +1,1 @@
+The Weil representation is used to construct a minimal type of the two-fold central extension of \operatorname{Sp}_{2n}(\mathbb{Q}_2). The corresponding Hecke algebra is shown to be isomorphic to the classical affine Hecke algebra of the split adjoint orthogonal group \operatorname{SO}_{2n+1}(\mathbb{Q}_2).

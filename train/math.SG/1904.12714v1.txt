@@ -1,0 +1,1 @@
+We redefine the cord algebra, which was introduced by Lenhard Ng as a topological knot invariant, in terms of Morse Theory. The determination of the cord algebra of the unknot and of the righthanded trefoil are given. We proove that the cord algebra in our definition is a knot invariant.

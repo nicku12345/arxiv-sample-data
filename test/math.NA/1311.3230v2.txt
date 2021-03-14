@@ -1,0 +1,1 @@
+In this work, we study the rate of convergence of the finite element method for the p(x)Laplacian (1< p_1\leq p(x)\leq p_2\leq 2) in two dimensional convex domains.

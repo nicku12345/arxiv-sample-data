@@ -1,0 +1,1 @@
+We characterize the convergence in distribution to a standard normal law for a sequence of multiple stochastic integrals of a fixed order with variance converging to 1. Some applications are given, in particular to study the limiting behavior of quadratic functionals of Gaussian processes.

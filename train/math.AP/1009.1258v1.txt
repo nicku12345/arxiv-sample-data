@@ -1,0 +1,1 @@
+We consider the evolutionary MHD systems, and study the the regularity and vanishing viscosity limit of the 3-D viscous system in a class of bounded domains with a slip boundary condition. We derive the convergence is in H^{2k+1}, for k>0, if the initial date holds some sufficient conditions.

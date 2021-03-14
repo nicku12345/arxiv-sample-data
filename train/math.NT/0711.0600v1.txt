@@ -1,0 +1,1 @@
+Let l be an odd prime number and H a finite abelian l-group. We determine the unit group of \Lambda_\wedge[H] (the completion of the localization at l of \Bbb{Z}_l[[T]][H]) as well as the kernel and cokernel of the integral logarithm L:\Lambda_\wedge[H]^\times\to \Lambda_\wedge[H], which appears in non-commutative Iwasawa theory.

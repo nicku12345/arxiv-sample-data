@@ -1,0 +1,1 @@
+Property (T) for groups means a dichotomy: a representation either has an invariant vector or all vectors are far from being invariant. We show that, under a stronger condition of A.Zuk, a similar dichotomy holds for almost representations as well.

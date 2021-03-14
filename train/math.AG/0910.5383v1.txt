@@ -1,0 +1,1 @@
+Let X be a Fano variety with at worst isolated quotient singularities. Our result asserts that if C \cdot (-K_X) > max\{\frac{n}{2}+1,\frac{2n}{3}\} for every curve C \subset X, then \rho_X=1.

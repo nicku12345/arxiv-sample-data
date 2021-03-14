@@ -1,0 +1,1 @@
+In this paper the class of Brauer graph algebras is proved to be closed under derived equivalence. For that we use the rank of the maximal torus of the identity component Out^0(A) of the group of outer automorphisms of a symmetric stably biserial algebra A.

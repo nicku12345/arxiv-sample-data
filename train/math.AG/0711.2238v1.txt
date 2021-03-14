@@ -1,0 +1,1 @@
+We study the Fourier-Mukai functor D(Y) -> D(X) induced by the universal family on a fine moduli space Y for simple semihomogeneous vector bundles on an abelian variety X. The main result is that the Fourier-Mukai transform of a very negative line bundle on Y is ample if and only if the bundles parametrized by Y are nef.

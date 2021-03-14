@@ -1,0 +1,1 @@
+We give a B\'ezout type inequality for mixed volumes, which holds true for any convex bodies. The key ingredient is the reverse Khovanskii-Teissier inequality for convex bodies, which was obtained in our previous work and inspired by its correspondence in complex geometry.

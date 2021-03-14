@@ -1,0 +1,1 @@
+Quantum inequalities are lower bounds for local averages of quantum observables that have positive classical counterparts, such as the energy density or the Wick square. We establish such inequalities in general (possibly interacting) quantum field theories on Minkowski space, using nonperturbative techniques. Our main tool is a rigorous version of the operator product expansion.

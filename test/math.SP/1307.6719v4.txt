@@ -1,0 +1,1 @@
+The asymptotic behaviour of the eigenvalue counting function of Laplacians on Hanoi attractors is determined. To this end, Dirichlet and resistance forms are constructed. Due to the non self-similarity of these sets, the classical construction of the Laplacian for p.c.f. self-similar fractals has to be modified by combining discrete and quantum graphs methods.

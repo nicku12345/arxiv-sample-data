@@ -1,0 +1,1 @@
+The two regular super-exponentials to base exp(1/e) are constructed. An efficient algorithm for the evaluation of these super-exponentials and their inverse functions is suggested and compared to the already published results.

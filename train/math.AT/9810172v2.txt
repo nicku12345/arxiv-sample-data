@@ -1,0 +1,1 @@
+We outline the current state of knowledge regarding geometric inequalities of systolic type, and prove new results, including systolic freedom in dimension 4. Namely, every compact, orientable, smooth 4-manifold X admits metrics of arbitrarily small volume such that every orientable, immersed surface of smaller than unit area is necessarily null-homologous in X.

@@ -1,0 +1,1 @@
+We study properties of the Golomb topology on polynomial rings over fields, in particular trying to determine conditions under which two such spaces are not homeomorphic. We show that if K is an algebraic extension of a finite field and K' is a field of the same characteristic, then the Golomb spaces of K[X] and K'[X] are homeomorphic if and only if K and K' are isomorphic.

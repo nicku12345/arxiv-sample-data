@@ -1,0 +1,1 @@
+Asymptotic efficiency is proved for the constructed in part 1 procedure, i.e. Pinsker's constant is found in the asymptotic lower bound for the minimax quadratic risk. It is shown that the asymptotic minimax quadratic risk of the constructed procedure coincides with this constant.

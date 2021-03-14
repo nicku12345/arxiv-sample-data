@@ -1,0 +1,1 @@
+We give an elementary proof of the well-known fact that the third cohomology group H^3(G, M) of a group G with coefficients in an abelian G-module M is in bijection to the set Ext^2(G, M) of equivalence classes of crossed module extensions of G with M.

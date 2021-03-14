@@ -1,0 +1,1 @@
+We show that a best rank one approximation to a real symmetric tensor, which in principle can be nonsymmetric, can be chosen symmetric.   Furthermore, a symmetric best rank one approximation to a symmetric tensor is unique if the tensor does not lie on a certain real algebraic variety.

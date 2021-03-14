@@ -1,0 +1,1 @@
+We consider the infinite symmetric group and its infinite index subgroup given as the stabilizer subgroup of one element under the natural action on a countable set. This inclusion of discrete groups induces a hyperfinite subfactor for each finite factorial representation of the larger group. We compute subfactor invariants of this construction in terms of the Thoma parameter.

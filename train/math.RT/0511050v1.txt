@@ -1,0 +1,1 @@
+Let G be a semisimple adjoint group over \bold C and \bar{G} be the De Concini-Procesi completion of G. In this paper, we define a Lagrangian subvariety \Lambda of the cotangent bundle of \bar{G} such that the singular support of any character sheaf on \bar{G} is contained in \Lambda.

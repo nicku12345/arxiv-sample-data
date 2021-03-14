@@ -1,0 +1,1 @@
+We give a purely combinatorial proof of the density Hales--Jewett Theorem that is modeled after Polymath's proof but is significantly simpler. In particular, we avoid the use of the equal-slices measure and work exclusively with the uniform measure.

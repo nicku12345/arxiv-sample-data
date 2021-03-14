@@ -1,0 +1,1 @@
+We investigate when a computable automorphism of a computable field can be effectively extended to a computable automorphism of its (computable) algebraic closure. We then apply our results and techniques to study effective embeddings of computable difference fields into computable difference closed fields.

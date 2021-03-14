@@ -1,0 +1,1 @@
+For a commutative Noetherian local ring we define and study the class of modules having reducible complexity, a class containing all modules of finite complete intersection dimension. Various properties of this class of modules are given, together with results on the vanishing of homology and cohomology.

@@ -1,0 +1,1 @@
+We give sharp and explicit upper bounds for the first positive eigenvalue \lambda_1(\Box_b) of the Kohn-Laplacian on compact strictly pseudoconvex hypersurfaces in \mathbb{C}^{n+1} in terms of their defining functions. As an application, we show that in the family of real ellipsoids, \lambda_1(\Box_b) has a unique maximum value at the CR sphere.

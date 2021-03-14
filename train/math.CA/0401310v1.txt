@@ -1,0 +1,1 @@
+We shall establish two-side explicit inequalities, which are asymptotically sharp up to a constant factor, on the maximum value of |H_k(x)| e^{-x^2/2}, on the real axis, where H_k are the Hermite polynomials.

@@ -1,0 +1,1 @@
+Let C be a finite dimensional algebra with B a split extension by a nilpotent bimodule E. We provide a short proof to a conjecture by Assem and Zacharia concerning properties of mod B inherited by mod C. We show if B is a tilted algebra, then C is a tilted algebra.

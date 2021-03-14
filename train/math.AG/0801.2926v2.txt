@@ -1,0 +1,1 @@
+Using Dumnicki's approach to showing non-specialty of linear systems consisting of plane curves with prescribed multiplicities in sufficiently general points on \mathbb{P}^2 we develop an asymptotic method to determine lower bounds for Seshadri constants of general points on \mathbb{P}^2. With this method we prove the lower bound 4/13 for 10 general points on \mathbb{P}^2.

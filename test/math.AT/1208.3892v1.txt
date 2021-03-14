@@ -1,0 +1,1 @@
+We classify flag complexes on at most 12 vertices with torsion in the first homology group. The result is moderately computer-aided.   As a consequence we confirm a folklore conjecture that the smallest poset whose order complex is homotopy equivalent to the real projective plane (and also the smallest poset with torsion in the first homology group) has exactly 13 elements.

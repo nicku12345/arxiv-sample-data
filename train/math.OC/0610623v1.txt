@@ -1,0 +1,1 @@
+After a recollection on compression through a projection onto a polyhedral set (which generalizes the compression by coordinates quantization), we express, in this framework, the probability that an image is coded with K coefficients as an explicit function of the approximation error.

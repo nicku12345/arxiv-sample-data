@@ -1,0 +1,1 @@
+In this paper we study operators of the form M(\phi)=T(\phi)+H(\phi) where T(\phi) and H(\phi) are the Toeplitz and Hankel operators acting on H^p(\T) with generating function \phi\in L^\iy(\T). It turns out that M(\phi) is invertible if and only if the function \phi admits a certain kind of generalized factorization.

@@ -1,0 +1,1 @@
+The Sharma-Mittal entropies generalize the celebrated Shannon, R\'enyi and Tsallis entropies. We report a closed-form formula for the Sharma-Mittal entropies and relative entropies for arbitrary exponential family distributions. We instantiate explicitly the formula for the case of the multivariate Gaussian distributions and discuss on its estimation.

@@ -1,0 +1,1 @@
+We show how to find the Steenrod operations in H^*(X) (the coefficients in F_p) given the diagonal morphism d_#:S_*(X)->S_*(X^p) and the action of the cyclic group C_p on S_*(X^p). Our construction needs no other data such as Eilenberg-Zilber morphisms.

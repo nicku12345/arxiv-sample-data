@@ -1,0 +1,1 @@
+We will answer a question raised by Emmanuel Dror Farjoun concerning the existence of torsion-free abelian groups G such that for any ordered pair of pure elements there is a unique automorphism mapping the first element onto the second one. We will show the existence of such a group of cardinality lambda for any successor cardinal lambda=mu^+ with mu=mu^{aleph_0}.

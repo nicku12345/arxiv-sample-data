@@ -1,0 +1,1 @@
+Models of dependent type theories are contextual categories with some additional structure. We prove that if a theory T has enough structure, then the category T\text{-}\mathbf{Mod} of its models carries the structure of a model category. We also show that if T has \Sigma types, then weak equivalences can be characterized in terms of homotopy categories of models.

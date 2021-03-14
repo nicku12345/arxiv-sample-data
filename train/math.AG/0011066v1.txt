@@ -1,0 +1,1 @@
+It is a classical result (apparently due to Tate) that all elliptic curves with a torsion point of order n (4 \leq n \leq 10, or n = 12) lie in a one-parameter family. However, this fact does not appear to have been used ever for computing the torsion of an elliptic curve. We present here a extremely down-to-earth algorithm using the existence of such a family.

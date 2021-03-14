@@ -1,0 +1,1 @@
+We study the Ruelle dynamical determinant of a real analytic diffeomorphism on a compact surface, assuming that the tangent space over the nonwandering set admits a dominated splitting. Combining previous work of Pujals and Sambarino with methods introduced by Rugh, we show that the determinant is either entire or holomorphic in a (possibly multiply) slit plane.

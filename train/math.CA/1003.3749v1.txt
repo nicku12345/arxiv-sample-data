@@ -1,0 +1,1 @@
+We show that the transformation (x_n)_{n\ge 1}\to (1/(1+x_1+...+x_n))_{n\ge 1} of the compact set of sequences (x_n)_{n\ge 1} of numbers from the unit interval [0,1] has a unique fixed point, which is attractive. The fixed point turns out to be a Hausdorff moment sequence studied in papers by Berg and Dur\'an in 2008.

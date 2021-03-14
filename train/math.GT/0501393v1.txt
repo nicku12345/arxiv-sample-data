@@ -1,0 +1,1 @@
+We prove that a virtual link diagrams satisfying two conditions on the Khovanov homology is minimal, that is, there is no virtual diagram representing the same link with smaller number of crossings. This approach works for both classical and virtual links

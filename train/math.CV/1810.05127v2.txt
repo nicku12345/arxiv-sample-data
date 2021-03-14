@@ -1,0 +1,1 @@
+Let S be a smooth, totally real, compact immersion in \mathbb{C}^n of real dimension m \leq n, which is locally polynomially convex and it has finitely many points where it self-intersects finitely many times, transversely or non-transversely. We prove that S is rationally convex if and only if it is isotropic with respect to a "degenerate" K\"ahler form in \mathbb{C}^n.

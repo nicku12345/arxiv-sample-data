@@ -1,0 +1,1 @@
+We prove a uniqueness theorem for compactly supported initial data for the variable speed wave equation arising in models of thermoacoustic tomography, given measurements on a part of the boundary. The proof is based on domain of dependence arguments and D. Tataru's unique continuation theorem.

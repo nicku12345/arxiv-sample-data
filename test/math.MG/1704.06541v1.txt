@@ -1,0 +1,1 @@
+For any geodesic current we associated a quasi-metric space. For a subclass of geodesic currents, called filling, it defines a metric and we study the critical exponent associated to this space. We show that is is equal to the exponential growth rate of the intersection function for closed curves.

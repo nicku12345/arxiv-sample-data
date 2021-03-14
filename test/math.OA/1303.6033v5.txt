@@ -1,0 +1,1 @@
+In the present paper it is proved that every inner 2-local derivation on the matrix ring M_n(\Re) of n\times n matrices over a commutative associative ring \Re is an inner derivation. Also, it is proved that, every derivation on an associative ring \Re has an extension to a derivation on the matrix ring M_n(\Re) of n\times n matrices over \Re.

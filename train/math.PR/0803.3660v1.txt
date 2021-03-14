@@ -1,0 +1,1 @@
+In this paper, we will prove that, if the coefficient g=g(t,y,z) of a BSDE is assumed to be continuous and linear growth in (y,z), then the uniqueness of solution and continuous dependence with respect to g and the terminal value \xi are equivalent.

@@ -1,0 +1,1 @@
+Let R be a commutative ring with identity, S be a multiplicatively closed subset of R, and let M be an R-module. The aim of this paper is to introduce the notion of S-secondary submodules of M as a generalization of secondary submodules of M and investigate some properties of this class of submodules.

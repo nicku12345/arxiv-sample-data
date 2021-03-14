@@ -1,0 +1,1 @@
+Let R be an exchange ring. We prove that the relative elementary subgroups E_n(R,I) are normal in the general linear group GL_n(R) if n\geq 1 and that the standard commutator formula E_n(R,I)=[E_n(R),E_n(R,I)]=[E_n(R),C_n(R,I)] holds if n\geq 3. Moreover, we classify the subgroups of GL_n(R) that are normalised by the elementary subgroup E_n(R) in the case n\geq 3.

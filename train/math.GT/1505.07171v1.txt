@@ -1,0 +1,1 @@
+We give bounds on the number of non-simple closed curves on a negatively curved surface, given upper bounds on both length and self-intersection number. In particular, it was previously known that the number of all closed curves of length at most L grows exponentially in L. We get exponentially tighter bounds given weak conditions on self-intersection number.

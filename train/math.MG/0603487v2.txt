@@ -1,0 +1,1 @@
+The famous \v{S}varc-Milnor Lemma says that a group G acting properly and cocompactly via isometries on a length space X is finitely generated and induces a quasi-isometry equivalence g\to g\cdot x_0 for any x_0\in X. We redefine the concept of coarseness so that the proof of the Lemma is automatic.

@@ -1,0 +1,1 @@
+In this note we define a notion of Courant pair as a Courant algebra over the Lie algebra of linear derivations on an associative algebra. We study formal deformations of Courant pairs by constructing a cohomology bicomplex with coefficients in a module from the cochain complexes defining Hochschild cohomology and Leibniz cohomology.

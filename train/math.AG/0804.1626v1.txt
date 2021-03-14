@@ -1,0 +1,1 @@
+The slopes of maximal subbundles of rank s divided by the degree of the map under various pull backs form a bounded collection of numbers called the s-spectrum of the bundle. We study the supremum of the s-spectrum and determine it in terms of the Harder Narasimhan filtration of the bundle.

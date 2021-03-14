@@ -1,0 +1,1 @@
+In this paper, we show that Singer's fifth transfer is not an epimorphism in degree 11. More precisely, it does not detect the element P(h_2) in Ext_A^{5,16}(F_2,F_2).

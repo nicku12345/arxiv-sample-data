@@ -1,0 +1,1 @@
+Let a,b be elements in a unital C^*-algebra with 0\leq a,b\leq 1. The element a is absolutely compatible with b if \vert a - b \vert + \vert 1 - a - b \vert = 1. In this note, we describe a complete list of absolutely compatible pairs in \mathbb{M}_2. We note that non-commutative pairs exhibit an elliptic behaviour.

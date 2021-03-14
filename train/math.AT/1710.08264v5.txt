@@ -1,0 +1,1 @@
+We formulate the notion of an isomorphism of GKM graphs. We then show that two GKM graphs have isomorphic graph equivariant cohomology algebras if and only if the graphs are isomorphic.

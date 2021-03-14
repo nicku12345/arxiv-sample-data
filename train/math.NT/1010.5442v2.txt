@@ -1,0 +1,1 @@
+We study the question of whether for each n there is another integer m with lambda(m)=lambda(n), where lambda is Carmichael's function. We give a "near" proof of the fact that this is the case unconditionally, and a complete conditional proof under the Extended Riemann Hypothesis. The main tool is a count of prime chains from paper arXiv:0906.3380.

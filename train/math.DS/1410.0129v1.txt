@@ -1,0 +1,1 @@
+It was conjectured by Furstenberg that for any x\in [0,1]\backslash Q,  \dim_H \bar{\{2^nx ({\text{mod}}\ 1): n\ge 1\}}+ \dim_H \bar{\{3^nx ({\text{mod}}\ 1): n\ge 1\}}\ge 1.  When x is a normal number, the above result holds trivially. In this note, we give explicit non-normal numbers for which the above dimensional formula holds.

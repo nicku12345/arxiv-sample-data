@@ -1,0 +1,1 @@
+We prove a technical estimate needed in our recent solution of the completeness question for the non-orthogonal Mexican hat wavelet system, in L^p for 1<p<2 and in the Hardy space H^p for 2/3 < p \leq 1.

@@ -1,0 +1,1 @@
+We interpret Hochschild cohomology as the Lie algebra of the derived Picard group (in the sense of Rouquier-Zimmermann and Yekutieli) and deduce that it is preserved under derived equivalences.

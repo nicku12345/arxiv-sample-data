@@ -1,0 +1,1 @@
+In this paper, we complete the global qualitative analysis of the well-known FitzHugh-Nagumo neuronal model. In particular, studying global limit cycle bifurcations and applying the Wintner-Perko termination principle for multiple limit cycles, we prove that the corresponding dynamical system has at most two limit cycles.

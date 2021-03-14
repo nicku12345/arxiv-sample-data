@@ -1,0 +1,1 @@
+We extend classical theorems of Renyi by finding the distributions of the numbers of both weak and strong left-to-right maxima (a.k.a. outstanding elements) in words over a given alphabet and in permutations of a given multiset.

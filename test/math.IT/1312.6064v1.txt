@@ -1,0 +1,1 @@
+In this paper we extend the work of Lisonek and Singh on construction X for quantum error-correcting codes to finite fields of order p^2^ where p is prime. The results obtained are applied to the dual of Hermitian repeated root cyclic codes to generate new quantum error-correcting codes.

@@ -1,0 +1,1 @@
+In this short note we show that if lambda>aleph_1 is regular and lambda is not the successor of a singular cardinal of cofinality aleph_0, and G is a lambda-free abelian group of size lambda, then there is a free group G' subseteq G of size lambda.

@@ -1,0 +1,1 @@
+It is well known that the usual Huzita-Hatori axioms for origami enable angle trisection but not angle quintisection. Using the concept of a multifold, Lang has achieved quintisection but not arbitrary algebraic numbers. We define the n-parameter multifold and show how to use one-parameter multifolds to obtain the algebraic closure of the rational numbers.

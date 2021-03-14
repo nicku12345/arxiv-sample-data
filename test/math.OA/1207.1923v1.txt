@@ -1,0 +1,1 @@
+We shall discuss how the notions of multicategories and their linear representations are related with tensor categories. When one focuses on the ones arizing from planar diagrams, it particularly implies that there is a natural one-to-one correspondence between planar algebras and singly generated bicategories.

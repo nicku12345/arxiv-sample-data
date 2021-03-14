@@ -1,0 +1,1 @@
+We compute the capacity region of the s-sender Multiple Access Adder Channel in information theory and obtain an explicit description of this region as only one polyhedron, instead of a convex hull of infinitely many polyhedrons. We obtain this by proving a conjecture raised by Lindstrom in 1975, which in turn follows from certain convexity results, both continuous and discrete.

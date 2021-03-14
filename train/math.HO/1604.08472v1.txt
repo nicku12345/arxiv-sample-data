@@ -1,0 +1,1 @@
+We describe the role the open-source software community plays in fixing bugs through a case study of a problem with integer determinant computations in SageMath.

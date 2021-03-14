@@ -1,0 +1,1 @@
+We extend the group law of curves of degree three by chords and tangents to the Jacobi variety of plane curves of degree n>4 by replacing points by point groups and lines by algebraic curves. The curves are nonsingular or have simple singularities. In the cases n=4,5,6 we have a close analogy to the case n=3. We describe an algorithm using Groebner bases.

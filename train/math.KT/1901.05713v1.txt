@@ -1,0 +1,1 @@
+We apply Goerss--Hopkins obstruction theory for motivic spectra to study the motivic Morava E-theories. We find that they always admit \mathbb{E}_\infty structures, but that these may admit "exotic" \mathbb{E}_\infty automorphisms not coming from the usual Morava stabilizer group.

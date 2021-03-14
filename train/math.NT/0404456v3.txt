@@ -1,0 +1,1 @@
+Let F(x_1,...,x_n) be a form of degree d\geq 2, which produces a geometrically irreducible hypersurface in \mathbb{P}^{n-1}. This paper is concerned with the number of rational points on F=0 which have height at most B. Whenever n<6, or whenever the hypersurface is not a union of lines, we obtain estimates that are essentially best possible and that are uniform in d and n.

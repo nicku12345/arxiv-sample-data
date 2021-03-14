@@ -1,0 +1,1 @@
+We introduce an asymptotic Markov's exponent and show that it is equal to Markov's exponent for a wide class of norms. As a consequence we obtain a lower bound for the optimal exponent in Markov's inequality considered with the norms possessing Nikolskii type property.

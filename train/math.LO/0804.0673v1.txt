@@ -1,0 +1,1 @@
+A celebrated argument of F. Hartogs (1915) deduces the Axiom of Choice from the hypothesis of comparability for any pair of cardinals. We show how each of a sequence of seemingly much weaker hypotheses suffices. Fixing a finite number k>1, the Axiom of Choice follows if merely any family of k cardinals contains at least one comparable pair.

@@ -1,0 +1,1 @@
+Many classical results concerning quadratic forms have been extended to forms over algebras with involution. However, not much is known in the case of forms without any symmetry property. The present paper will establish Witt cancellation and base change results, as well as some local-global and finiteness results in this context.

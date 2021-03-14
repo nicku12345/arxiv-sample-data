@@ -1,0 +1,1 @@
+A non-self-contained gathering of notes on category theory, including the definition of locally cartesian closed category, of the cartesian structure in slice categories, or of the pseudo-cartesian structure on Eilenberg-Moore categories. References and proofs are provided, sometimes, to my knowledge, for the first time.

@@ -1,0 +1,1 @@
+We reduce the sum \sum_{k=1}^\infty \sum_{j=0}^{k-1} \frac{(-1)^{j+k+1}}{(2j+1)^mk} in terms of special values of the Dirichlet L-series in the character of conductor 4. This sum is a combination of colored zeta values.

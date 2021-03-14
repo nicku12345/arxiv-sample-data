@@ -1,0 +1,1 @@
+The deductive method ruled mathematics for the last 2500 years, now it is the turn of the inductive method. Here we make a modest start by using the inductive method to discover and prove (rigorously) explicit generating functions for the number of dimer (and monomer-dimer) tilings of large families of "skinny" plane regions.

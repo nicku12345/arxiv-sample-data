@@ -1,0 +1,1 @@
+The Divisibility Graph of a finite group G has vertex set the set of conjugacy class lengths of non-central elements in G and two vertices are connected by an edge if one divides the other. We determine the connected components of the Divisibility Graph of the finite groups of Lie type in odd characteristic.

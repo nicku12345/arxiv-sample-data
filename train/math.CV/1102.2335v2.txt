@@ -1,0 +1,1 @@
+The purpose of this article is to study Lipschitz CR mappings from an h-extendible (or semi-regular) hypersurface in \mbb C^n. Under various assumptions on the target hypersurface, it is shown that such mappings must be smooth. A rigidity result for proper holomorphic mappings from strongly pseudoconvex domains is also proved.

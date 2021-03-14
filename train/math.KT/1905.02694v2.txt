@@ -1,0 +1,1 @@
+We prove that a symplectic matrix with entries in a ring with Bass stable rank one can be factored as a product of elementary symplectic matrices. This also holds for null-homotopic symplectic matrices with entries in a Banach algebra or in the ring of complex valued continuous functions on a finite dimensional normal topological space.

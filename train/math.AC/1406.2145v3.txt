@@ -1,0 +1,1 @@
+Let A and B be commutative rings with unity, f:A\to B a ring homomorphism and J an ideal of B. Then the subring A\bowtie^fJ:=\{(a,f(a)+j)|a\in A and j\in J\} of A\times B is called the amalgamation of A with B along with J with respect to f. In this paper, among other things, we investigate the Cohen-Macaulay and (quasi-)Gorenstein properties on the ring A\bowtie^fJ.

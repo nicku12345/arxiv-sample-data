@@ -1,0 +1,1 @@
+We study CAT(kappa) spaces X admitting affine functions. We show that there exists a canonical isometric embedding X -> Y x H where H is a Hilbert space, such that every affine function f: X -> R factors as f'o p, where p is the projection to H and f' is an affine function on H.

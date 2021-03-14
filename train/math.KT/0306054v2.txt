@@ -1,0 +1,1 @@
+This paper computes the quadratic Witt groups (the Wall L-groups) of the polynomial ring Z[t] and the integral group ring of the infinite dihedral group, with various involutions. We show that some of these groups are infinite direct sums of cyclic groups of order 2 and 4. The techniques used are quadratic linking forms over Z[t] and Arf invariants.

@@ -1,0 +1,1 @@
+Given an elementary simple-minded collection in the derived category of a non-positive dg algebra with finite-dimensional total cohomology, we construct a silting object via Koszul duality.

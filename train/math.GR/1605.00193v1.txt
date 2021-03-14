@@ -1,0 +1,1 @@
+We study the number of cylic subgroups in finite groups and get that G has |G|-3 cyclic subgroups if and only if G \cong D_{10} or Q_8.

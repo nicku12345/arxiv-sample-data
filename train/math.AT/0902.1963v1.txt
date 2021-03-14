@@ -1,0 +1,1 @@
+We consider the Lie algebra associated with the descending central series filtration of the pure braid group of a closed surface of arbitrary genus. R. Bezrukavnikov gave a presentation of this Lie algebra over the rational numbers. We show that his presentation remains true for this Lie algebra itself, i.e. over integers.

@@ -1,0 +1,1 @@
+Upper estimates of the diameter and the radius of the family of all planar convex bodies with respect to the Banach-Mazur distance are obtained. Namely, it is shown that the diameter does not exceed \tfrac{19-\sqrt{73}}4\approx 2.614, which improves the previously known bound of 3, and that the radius does not exceed \frac{117}{70}\approx 1.671.

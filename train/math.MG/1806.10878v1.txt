@@ -1,0 +1,1 @@
+In this paper we construct a new family of lattice packings for superballs in three dimensions (unit balls for the l^p_3 norm) with p \in (1, 1.58]. We conjecture that the family also exists for p \in (1.58, \log_2 3 = 1.5849625\ldots]. Like in the densest lattice packing of regular octahedra, each superball in our family of lattice packings has 14 neighbors.

@@ -1,0 +1,1 @@
+We prove the depth formula, for homologically bounded complexes X, Y provided that the complete intersection flat dimension of X is finite and \sup(X\utp_RY)<\infty. In particular, let M and N are two R-modules and the complete intersection flat dimension of M is finite. Then M and N satisfies the depth formula, provided \Tor^R_i(M,N)=0 for all i\ge 1.

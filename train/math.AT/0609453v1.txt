@@ -1,0 +1,1 @@
+This is an expository account of completion and local cohomology in brave new commutative algebra, especially as it applies to completion theorems and their duals in equivariant topology. The first part is fairly direct, but the second considers Morita theory and Gorenstein ring spectra. This draws on work of the author with Benson, Dwyer, Iyengar and May, amongst others.

@@ -1,0 +1,1 @@
+A group is just non-Dedekind (JND) if it is not a Dedekind group but all of whose proper homomorphic images are Dedekind groups. The aim of the paper is to classify finite JND-groups.

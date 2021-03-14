@@ -1,0 +1,1 @@
+Our goal is to extend the theory of the spectral shift function to the case where only the difference of some powers of the resolvents of self-adjoint operators belongs to the trace class. As an example, we consider a couple of Dirac operators.

@@ -1,0 +1,1 @@
+The 3-strand pretzel knots and links are a well-studied source of examples in knot theory. However, while there have been computations of the Khovanov homology of some sub-families of 3-strand pretzel knots, no general formula has been given for all of them. We give a general formula for the unreduced Khovanov homology of all 3-strand pretzel links, over the rational numbers.

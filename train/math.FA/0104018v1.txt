@@ -1,0 +1,1 @@
+Let G be a compact connected Lie group. We prove that the Fourier algebra A(G) is weakly amenable if and only if G is abelian.

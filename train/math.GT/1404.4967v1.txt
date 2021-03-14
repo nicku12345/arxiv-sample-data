@@ -1,0 +1,1 @@
+Among non-alternating knots with n\le 12 crossings given in \cite{1} Turaev genus is not known for 191 knot. For 154 of them we show that they are almost alternating, so their Turaev genus is 1.

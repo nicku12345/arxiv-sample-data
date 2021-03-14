@@ -1,0 +1,1 @@
+In this paper we give an alternative basis, \mathcal{B}_{\rm ST}, for the Kauffman bracket skein module of the solid torus, {\rm KBSM}\left({\rm ST}\right). The basis \mathcal{B}_{\rm ST} is obtained with the use of the Tempereley--Lieb algebra of type B and it is appropriate for computing the Kauffman bracket skein module of the lens spaces L(p, q) via braids.

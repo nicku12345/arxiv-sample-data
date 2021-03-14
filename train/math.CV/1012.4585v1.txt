@@ -1,0 +1,1 @@
+We give an explicit multi-parametric construction for Jenkins-Strebel differentials on real algebraic curves. Roughly speaking, the square of any real holomorphic abelian differential subjected to certain linear restrictions will be a JS quadratic differential.

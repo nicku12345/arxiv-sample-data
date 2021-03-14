@@ -1,0 +1,1 @@
+We prove that the potential of a Sturm--Liouville operator depends analytically and Lipschitz continuously on the spectral data (two spectra or one spectrum and the corresponding norming constants). We treat the class of operators with real-valued distributional potentials in the Sobolev class W^{s-1}_2(0,1), s\in[0,1].

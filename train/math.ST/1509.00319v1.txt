@@ -1,0 +1,1 @@
+An increasing number of applications is concerned with recovering a sparse matrix from noisy observations. In this paper, we consider the setting where each row of the unknown matrix is sparse. We establish minimax optimal rates of convergence for estimating matrices with row sparsity. A major focus in the present paper is on the derivation of lower bounds.

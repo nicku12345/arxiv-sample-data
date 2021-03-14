@@ -1,0 +1,1 @@
+We establish the Brownian bridge asymptotics for a scaled self-avoiding walk conditioned on arriving to a far away point   n \vec{a} for \vec{a} in Z^d, as n increases to infinity.

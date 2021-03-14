@@ -1,0 +1,1 @@
+We extend to semi-abelian categories the notion of characteristic subobject, which is widely used in group theory and in the theory of Lie algebras. Moreover, we show that many of the classical properties of characteristic subgroups of a group hold in the general semi-abelian context, or in stronger ones.

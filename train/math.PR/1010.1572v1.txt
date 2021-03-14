@@ -1,0 +1,1 @@
+We analyze a jump processes Z with a jump measure determined by a "memory" process S. The state space of (Z,S) is the Cartesian product of the unit circle and the real line. We prove that the stationary distribution of (Z,S) is the product of the uniform probability measure and a Gaussian distribution.

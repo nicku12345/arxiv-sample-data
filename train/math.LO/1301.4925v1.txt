@@ -1,0 +1,1 @@
+Working under AD, we investigate the length of prewellorderings given by the iterates of \M_{2k+1}, which is the minimal proper class mouse with 2k+1 many Woodin cardinals. In particular, we answer some questions from \cite{Hjorth01} (the discussion of the questions appears in the last section of \cite{HjorthD}).

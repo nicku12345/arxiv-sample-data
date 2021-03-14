@@ -1,0 +1,1 @@
+Suppose x^m + c*x^n is a permutation polynomial over GF(p), where p>5 is prime, m>n>0, and c is in GF(p)^*. We prove that gcd(m-n,p-1) is not 2 or 4. In the special case that either (p-1)/2 or (p-1)/4 is prime, this was conjectured in a recent paper by Masuda, Panario and Wang.

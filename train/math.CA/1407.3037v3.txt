@@ -1,0 +1,1 @@
+In this article, we consider the limited angle problem in computed X-ray tomography. A common practice is to use the filtered back projection with the limited data. However, this practice has been shown to introduce the artifacts along some straight lines. In this work, we characterize the strength of these artifacts.

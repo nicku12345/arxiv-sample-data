@@ -1,0 +1,1 @@
+We compare three approaches to the notion of conjugacy for semigroups, the first one via the transitive closure of the uv\sim vu relation, the second one via an action of inverse semigroups on themselves by partial transformations, and the third one via characters of finite-dimensional representations.

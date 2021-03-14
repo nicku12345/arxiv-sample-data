@@ -1,0 +1,1 @@
+We prove in this note that, for an alphabet with three letters, the set of first return to a given word in a set satisfying the tree condition is a basis of the free group.

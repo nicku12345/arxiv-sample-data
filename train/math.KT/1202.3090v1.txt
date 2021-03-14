@@ -1,0 +1,1 @@
+We consider algebraic groups GL_1(A), SL_1(A), where A is a division algebra of prime degree over a field F, and associated motives in the category of motivic complexes DM(F). Following an idea of Suslin, we relate motives of these groups to the motive of Voevodsky's simplicial scheme X, associated to the Severi-Brauer variety of A.

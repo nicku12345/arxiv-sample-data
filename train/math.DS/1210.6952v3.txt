@@ -1,0 +1,1 @@
+We study the thermodynamic formalism of sufficiently regular interval maps for Holder continuous potentials. We show that for a hyperbolic potential there is a unique equilibrium state, and that this measure is exponentially mixing. Moreover, we show the absence of phase transitions: The pressure function is real analytic at such a potential.

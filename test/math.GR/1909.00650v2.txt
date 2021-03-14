@@ -1,0 +1,1 @@
+We introduce the concept of a partial abstract kernel associated to a group G and a semilattice of groups A and relate the partial cohomology group H^3(G,C(A)) with the obstructions to the existence of admissible extensions of A by G which realize the given abstract kernel. We also show that if such extensions exist then they are classified by H^2(G,C(A)).

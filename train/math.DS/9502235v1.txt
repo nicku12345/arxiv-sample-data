@@ -1,0 +1,1 @@
+It is shown that a polynomial with a Cremer periodic point has a non-accessible critical point in its Julia set provided that the Cremer periodic point is approximated by small cycles.

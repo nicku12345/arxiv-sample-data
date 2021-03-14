@@ -1,0 +1,1 @@
+In this article we study the existence and the continuation of periodic solutions of autonomous Newtonian systems. To prove the results we apply the infinite-dimensional version of the degree for SO(2)-equivariant gradient operators. Using the results due to Rabier we show that the Leray-Schauder degree is not applicable in the proofs of our theorems, because it vanishes.

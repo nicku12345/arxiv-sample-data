@@ -1,0 +1,1 @@
+Let M be a G-manifold and \om a G-invariant exact m-form on M. We indicate when these data allow us to constract a cocycle on a group G with values in the trivial G-module \mathbb R and when this cocycle is nontrivial.

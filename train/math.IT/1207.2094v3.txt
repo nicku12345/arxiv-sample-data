@@ -1,0 +1,1 @@
+We establish the capacity region for a class of discrete memoryless cognitive interference channel (DM-CIC) called cognitive-more-capable channel, and we show that superposition coding is the optimal encoding technique. This is the largest capacity region for the DM-CIC to date, as the existing capacity results are explicitly shown to be its subsets.

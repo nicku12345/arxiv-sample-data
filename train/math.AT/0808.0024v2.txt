@@ -1,0 +1,1 @@
+We give an alternative to Postnikov's homotopy classification of maps from 3-dimensional CW-complexes to homogeneous spaces G/H of Lie groups. It describes homotopy classes in terms of lifts to the group G and is suitable for extending the notion of homotopy to Sobolev maps. This is required for applications to variational problems of mathematical physics.

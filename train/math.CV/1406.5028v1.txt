@@ -1,0 +1,1 @@
+Let \Gamma be a geometrically-finite Fuchsian group acting on the upper half plane \hh. Let \E denote the set of elliptic fixed points of \Gamma in \hh. We give a lower bound on the minimal hyperbolic distance between points in \E. Our bound depends on a universal constant and the length of the smallest closed geodesic on \Gamma \backslash \hh.

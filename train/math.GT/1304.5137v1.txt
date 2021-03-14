@@ -1,0 +1,1 @@
+We consider a family of corks, denoted W_n, constructed by Akbulut and Yasui. Each cork gives rise to an exotic structure on a smooth 4-manifold via a twist \tau on its boundary \Sigma_n = \partial W_n. We compute the instanton Floer homology of \Sigma_n and show that the map induced on the instanton Floer homology by \tau: \Sigma_n \rightarrow \Sigma_n is non-trivial.

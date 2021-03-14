@@ -1,0 +1,1 @@
+Let G be a split simply laced group defined over a p-adic field F. In this paper we study the restriction of the minimal representation of G to various dual pairs in G. For example, the restriction of the minimal representation of E_7 to the dual pair G_2 \times{}Sp(6) gives the non-endoscopic Langlands lift of irreducible representations of G_2 to Sp(6).

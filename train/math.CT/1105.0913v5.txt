@@ -1,0 +1,1 @@
+Let k be an algebraically closed field. Using the Eilenberg-Watts theorem over schemes, we determine the structure of k-linear right exact direct limit and coherence preserving functors from the category of quasi-coherent sheaves on P^1_k to the category of vector spaces over k. As a consequence, we characterize those functors which are integral transforms.

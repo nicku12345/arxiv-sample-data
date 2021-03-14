@@ -1,0 +1,1 @@
+We construct a normed algebra {\calA} with norm N(\cdot) over the reals, which is {\em quadrative} in the sense that N(A^2) \le N(A)^2 for all A \in {\cal A}, but is not 3-{\em bounded} in the sense that N(A^3) \le N(A)^3. This answers a question of Arens, Goldberg, and Luxemburg.

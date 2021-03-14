@@ -1,0 +1,1 @@
+We provide an axiomatic framework for working with a wide variety of closure operations on ideals and submodules in commutative algebra, including notions of reduction, independence, spread, and special parts of closures. This framework is applied to tight, Frobenius, and integral closures. Applications are given to evolutions and special Brian\c{c}on-Skoda theorems.

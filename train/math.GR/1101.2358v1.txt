@@ -1,0 +1,1 @@
+In this paper we study the (2,k)-generation of the finite classical groups SL(4,q), Sp(4,q), SU(4,q^2) and their projective images. Here k is the order of an arbitrary element of SL(2,q), subject to the necessary condition k>= 3. When q is even we allow also k=4.

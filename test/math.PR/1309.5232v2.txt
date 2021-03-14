@@ -1,0 +1,1 @@
+In this paper, we show that the integration of a stochastic differential equations driven by G-Brownian motion in R can be reduced to the integration of an ordinary differential equations parametrized by a variable in ({\Omega},F). We study the sample solutions of G-SDEs by an extention of G-It\^o formula. And then we also get a comparison theorem for G-SDEs and its applications.

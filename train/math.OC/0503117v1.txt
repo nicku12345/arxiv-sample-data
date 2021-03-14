@@ -1,0 +1,1 @@
+A generalization of the classical secant condition for the stability of cascades of scalar linear systems is provided for passive systems. The key is the introduction of a quantity that combines gain and phase information for each system in the cascade. For linear one-dimensional systems, the known result is recovered exactly.

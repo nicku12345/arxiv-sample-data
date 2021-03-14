@@ -1,0 +1,1 @@
+We establish model category structures on algebras and modules over operads in symmetric spectra, and study when a morphism of operads induces a Quillen equivalence between corresponding categories of algebras (resp. modules) over operads.

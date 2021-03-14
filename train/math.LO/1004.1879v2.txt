@@ -1,0 +1,1 @@
+We point out one of the differences between rapid ultrafilters and Q-points: Rapid ultrafilters may have empty intersection with van der Waerden ideal, whereas every Q-point has a non-empty intersection with van der Waerden ideal. Assuming Martin's axiom for countable posets we also construct a W-ultrafilter which is not a Q-point.

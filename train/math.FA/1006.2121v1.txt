@@ -1,0 +1,1 @@
+When \varphi and \psi are linear-fractional self-maps of the unit ball B_N in {\mathbb C}^N, N\geq 1, we show that the difference C_{\varphi}-C_{\psi} cannot be non-trivially compact on either the Hardy space H^2(B_N) or any weighted Bergman space A^2_{\alpha}(B_N). Our arguments emphasize geometrical properties of the inducing maps \varphi and \psi.

@@ -1,0 +1,1 @@
+Let q be a power of a prime p and let G be a completely reducible subgroup of \mathrm{GL}(d,q). We prove that the number of composition factors of G that have prime order p is at most (\varepsilon_q d-1)/(p-1), where \varepsilon_q is a function of q satisfying 1\leqslant\varepsilon_q\leqslant 3/2. For every q, we give examples showing this bound is sharp infinitely often.

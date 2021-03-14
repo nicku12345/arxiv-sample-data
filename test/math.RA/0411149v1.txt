@@ -1,0 +1,1 @@
+We describe a type of Lie color algebra, which we call generic, whose universal enveloping algebra is a domain with finite global dimension. Moreover, it is an iterated Ore extension. We provide an application and show Grobner basis methods can be used to study universal enveloping algebras of factors of generic Lie color algebras.

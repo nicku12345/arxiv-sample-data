@@ -1,0 +1,1 @@
+The purpose of this article is to present my new proof of the the construction and the convergence theorem of spectral sequences of filtered complexes, which is much shorter and cleaner than the "standard" proof.

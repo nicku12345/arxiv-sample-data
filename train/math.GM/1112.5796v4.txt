@@ -1,0 +1,1 @@
+We study the geometry of the Sieve of Eratosthenes. We introduce some concepts as Focals and Extremes. We find a symmetry in the distribution of the Focals (all the information about the primes is contained into a small set of numbers). We find that there is a geometric order in the Sieve and we give a formula for the greatest remainder that returns the same quotient.

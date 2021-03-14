@@ -1,0 +1,1 @@
+We show that every effective smooth action of a Lie group G on a manifold M is a diffeomorphism from G onto its image in Diff(M), where the image is equipped with the subset diffeology of the functional diffeology.

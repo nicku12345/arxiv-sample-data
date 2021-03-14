@@ -1,0 +1,1 @@
+A primitive type of two-dimensional dynamic system is introduced. It is shown that there is no decision procedure able to answer if such a dynamical system is ultimately zero.

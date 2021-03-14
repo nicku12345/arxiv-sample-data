@@ -1,0 +1,1 @@
+We show that the category of motivic spaces with transfers along finite flat morphisms, over a perfect field, satisfies all the properties we have come to expect of good categories of motives. In particular we establish the analog of Voevodsky's cancellation theorem.

@@ -1,0 +1,1 @@
+In this book super interval matrices using the special type of intervals of the form [0, a] are introduced. Several algebraic structures like semigroups, groups, semirings, rings, semivector spaces and vector spaces are introduced. Special fuzzy linear algebras are introduced using the concept of super fuzzy interval matrices.

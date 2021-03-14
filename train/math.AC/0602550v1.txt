@@ -1,0 +1,1 @@
+This paper applies G. Lyubeznik's notion of F-finite modules to describe in a very down-to-earth manner certain annihilator submodules of some top local cohomology modules over Gorenstein rings.   As a consequence we obtain an explicit description of the test ideal of Gorenstein rings in terms of ideals in a regular ring.

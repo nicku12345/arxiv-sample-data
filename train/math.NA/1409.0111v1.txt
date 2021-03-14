@@ -1,0 +1,1 @@
+We present an accurate quadrature formula on the sphere with less localized quadrature points for efficient numerical computation of the radiative transport equation (RTE) in the three dimensions. High accuracy of the present method dramatically reduces computational resources and fast computation of 3D RTE is achieved.

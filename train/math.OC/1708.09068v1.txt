@@ -1,0 +1,1 @@
+It is shown that away from the origin, the Douglas-Rachford operator with respect to a sphere and a convex set in a Hilbert space can be approximated by a another operator which satisfies a weak ergodic theorem. Similar results for other projection and reflection operators are also discussed.

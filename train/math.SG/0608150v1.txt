@@ -1,0 +1,1 @@
+We give a detailed exposition of the Alexandrov-Kontsevich-Schwarz- Zaboronsky superfield formalism using the language of graded manifolds. As a main illustarting example, to every Courant algebroid structure we associate canonically a three-dimensional topological sigma-model. Using the AKSZ formalism, we construct the Batalin-Vilkovisky master action for the model.

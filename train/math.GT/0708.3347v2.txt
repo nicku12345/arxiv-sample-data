@@ -1,0 +1,1 @@
+In this paper, we consider which lens spaces are obtainable by Dehn surgery described by Berge on doubly primitive knots. It is given an algorithm to decide whether a given lens space is obtainable by such surgery. Also included is a complete characterization of such surgery yielding lens spaces with Klein bottles.

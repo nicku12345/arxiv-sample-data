@@ -1,0 +1,1 @@
+We present a theorem which generalizes the classical Euler's theorem on congruencies: if (a,m)=1 then a^ \phi(m) \equiv 1 (mod m) for the case when a and m are not relatively primes.

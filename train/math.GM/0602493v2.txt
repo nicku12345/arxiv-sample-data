@@ -1,0 +1,1 @@
+We invent the notion of a {\it dimension of a variety} V as the cardinality of all its proper {\it derived} subvarieties (of the same type). The dimensions of varieties of lattices, varieties of regular bands and other general algebraic structures are determined.

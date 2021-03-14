@@ -1,0 +1,1 @@
+We introduce a double staircase construction T and show that the weak closure of \{T^n\} is \{\int, 2^{-m}T^n+(1-2^{-m})\int \ : m\in\N,\ n\in \Z\}.

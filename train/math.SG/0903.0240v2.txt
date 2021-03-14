@@ -1,0 +1,1 @@
+We prove that the only exact Lagrangian submanifolds in an ALE space are spheres. ALE spaces are the simply connected hyperkahler manifolds which at infinity look like C^2/G for any finite subgroup G of SL(2,C). They can be realized as the plumbing of copies of the cotangent bundle of a 2-sphere according to ADE Dynkin diagrams. The proof relies on symplectic cohomology.

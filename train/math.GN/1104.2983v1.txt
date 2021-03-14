@@ -1,0 +1,1 @@
+We consider a planar surface \Sigma of infinite type which has the Thompson group T as asymptotic mapping class group. We construct the asymptotic pants complex C of \Sigma and prove that the group T acts transitively by automorphisms on it. Finally, we establish that the automorphism group of the complex C is an extension of the Thompson group T by Z/2Z.

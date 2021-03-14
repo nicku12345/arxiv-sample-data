@@ -1,0 +1,1 @@
+We study a general class of recurrence relations that appear in the application of a matrix diagonalization procedure. We find general closed formula and determine analytical properties of the solutions. We finally apply these findings in several problems involving eigenvalues of graphs.

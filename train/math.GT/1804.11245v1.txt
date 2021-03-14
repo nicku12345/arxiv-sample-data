@@ -1,0 +1,1 @@
+The Teichm\"uller space \mathcal{T}(\Sigma) of a surface \Sigma is equipped with Thurston's asymmetric metric. Stretch lines are oriented geodesics for this metric on \mathcal{T}(\Sigma). We give the asymptotic behavior of the lengths of the measured geodesic laminations as one follows a stretch line in the positive direction.

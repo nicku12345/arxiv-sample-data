@@ -1,0 +1,1 @@
+In this note we analyze the C*-algebra associated with a branched covering both as a groupoid C*-algebra and as a Cuntz-Pimsner algebra. We determine conditions when the algebra is simple and purely infinite. We indicate how to compute the K-theory of several examples, including one related to rational maps on the Riemann sphere.

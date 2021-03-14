@@ -1,0 +1,1 @@
+We interpret Grillet's symmetric thrid cohomology classes of commutative monoids in terms of strictly symmetric monoidal abelian groupoids. We state and prove a classification result that generalizes the well-known one for strictly commutative Picard categories by Deligne and Fr\"ohlich and Wall, and Sinh.

@@ -1,0 +1,1 @@
+We give a simple proof of the "tree-width duality theorem" of Seymour and Thomas that the tree-width of a finite graph is exactly one less than the largest order of its brambles.

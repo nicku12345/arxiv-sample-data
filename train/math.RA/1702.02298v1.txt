@@ -1,0 +1,1 @@
+For an element a \in R, let \eta(a)=\{e\in R\mid e^2=e\mbox{ and }a-e\in \mbox{nil}(R)\}. The nil clean index of R, denoted by NinA(R), is defined as Nin(R)=\sup \{\mid \eta(a)\mid: a\in R\}. In this article we have characterized formal triangular matrix ring \begin{pmatrix}A & M0 & B\end{pmatrix} with nil clean index 4.

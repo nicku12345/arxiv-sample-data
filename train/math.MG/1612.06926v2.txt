@@ -1,0 +1,1 @@
+We prove several new results around Gromov's waist theorem. We give a simple proof of Vaaler's theorem on sections of the unit cube using the Borsuk--Ulam--Crofton technique. We consider waists of real and complex projective spaces, flat tori, convex bodies in Euclidean space. We establish waist-type results in terms of the Hausdorff measure.

@@ -1,0 +1,1 @@
+In this paper we consider the recurrent equation \Lambda_{p+1}=\frac1p\sum_{q=1}^pf\bigg(\frac{q}{p+1}\bigg)\Lambda_{q}\Lambda_{p+1-q} for p\ge 1 with f\in C[0,1] and \Lambda_1=y>0 given. We give conditions on f that guarantee the existence of y^{(0)} such that the sequence \Lambda_p with \Lambda_1=y^{(0)} tends to a finite positive limit as p\to \infty.

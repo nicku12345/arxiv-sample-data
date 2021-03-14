@@ -1,0 +1,1 @@
+Let p be a prime number and G be a finite commutative group such that p^{2} does not divide the order of G. In this note we prove that for every finite module M over the group ring Z_{p}[G], the inequality #M \leq #Z_{p}[G]/Fit_{Z_{p}[G]}(M) holds. Here, Fit_{Z_{p}[G]}(M) is the Z_{p}[G]-Fitting ideal of M.

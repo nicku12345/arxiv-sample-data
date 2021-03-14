@@ -1,0 +1,1 @@
+Every measurable function f on the circle can be represented as a sum of harmonics with positive spectrum, converging in measure. For convergence almost everywhere this is not true. We discuss several other subsets of Z for which one might get a Menshov type representation converging almost everywhere or in measure.

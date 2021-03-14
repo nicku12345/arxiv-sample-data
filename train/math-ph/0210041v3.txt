@@ -1,0 +1,1 @@
+We prove that the evolutionary Navier-Stokes equation in n-D torus with initial data in the class of distributions has an unique solution (local in t) that is analytic by all variables. This solution presents as a series globally.

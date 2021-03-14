@@ -1,0 +1,1 @@
+We prove that for every bounded linear operator T:X\to X, where X is a non-reflexive quotient of a von Neumann algebra, the point spectrum of T^* is non-empty (i.e. for some \lambda\in\mathbb C the operator \lambda I-T fails to have dense range.) In particular, and as an application, we obtain that such a space cannot support a topologically transitive operator.

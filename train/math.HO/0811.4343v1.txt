@@ -1,0 +1,1 @@
+We derive some formulas that rule the behaviour of finite differences under composition of functions with vector values and arguments.

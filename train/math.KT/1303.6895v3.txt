@@ -1,0 +1,1 @@
+In this paper, we give a concrete description of the higher homotopy groups (n>0) of the mapping space Map_{Alg}(R,S) for R and S unbounded differential graded algebras (DGA) over a commutative ring k. In the connective case, we describe the relation between the higher (negative) Hochschild cohomology HH^{-n+1}(R,S) and higher homotopy groups \pi_{n} Map_{Alg}(R,S), when n>1.

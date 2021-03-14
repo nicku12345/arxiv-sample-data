@@ -1,0 +1,1 @@
+We study some divisibility properties of multiperfect numbers. Our main result is: if N=p_1^{\alpha_1}... p_s^{\alpha_s} q_1^{2\beta_1}... q_t^{2\beta_t} with \beta_1, ..., \beta_t in some finite set S satisfies \sigma(N)=\frac{n}{d}N, then N has a prime factor smaller than C, where C is an effective computable constant depending only on s, n, S.

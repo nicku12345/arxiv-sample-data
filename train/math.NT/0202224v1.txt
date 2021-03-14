@@ -1,0 +1,1 @@
+For fields F of characteristic not p containing a primitive pth root of unity, we determine the Galois module structure of the group of pth-power classes of K for all cyclic extensions K/F of degree p.

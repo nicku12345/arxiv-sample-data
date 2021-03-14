@@ -1,0 +1,1 @@
+Let (R,\fm) be a local ring and \fa be an ideal of R. The inequalities   \begin{array}{ll} \ \Ht(\fa) \leq \cd(\fa,R) \leq \ara(\fa) \leq l(\fa) \leq \mu(\fa) \end{array} are known. It is an interesting and long-standing problem to find out the cases giving equality. Thanks to the formal grade we give conditions in which the above inequalities become equalities.

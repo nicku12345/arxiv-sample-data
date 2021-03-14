@@ -1,0 +1,1 @@
+We show that any Lipschitz projection-valued function p on a connected closed Riemannian manifold can be approximated uniformly by smooth projection-valued functions q with Lipschitz constant close to that of p. This answers a question of Rieffel.

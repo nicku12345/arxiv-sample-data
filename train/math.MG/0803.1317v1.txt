@@ -1,0 +1,1 @@
+In this note we show the n-2-dimensional volumes of codimension 2 faces of an n-dimensional simplex are algebraically independent functions of the lengths of edges. In order to prove this we compute the complete spectrum of a combinatorially interesting graph.

@@ -1,0 +1,1 @@
+We estimate whether there is an embedding from one n-dimensional rectangle into another which expands every k-dimensional area. Our estimate is sharp up to a constant factor in each dimension.

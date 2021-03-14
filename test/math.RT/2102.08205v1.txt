@@ -1,0 +1,1 @@
+The Jones-Wenzl idempotents of the Temperley-Lieb algebra are celebrated elements defined over characteristic zero and for generic loop parameter. Given pointed field (R, \delta), we extend the existing results of Burrull, Libedinsky and Sentinelli to determine a recursive form for the idempotents describing the projective cover of the trivial TL_n^R(\delta)-module.

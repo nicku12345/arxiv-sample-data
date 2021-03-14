@@ -1,0 +1,1 @@
+In this article we prove that under certain assumptions, a reductive homogeneous space G/H does not admit a solvable compact Clifford-Klein form. This generalizes the well known non-existence theorem of Benoist for nilpotent Clifford-Klein forms. This generalization works for a particular class of homogeneous spaces determined by "very regular" embeddings of H into G.

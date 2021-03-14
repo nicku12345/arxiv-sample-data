@@ -1,0 +1,1 @@
+In this article, we show that every Jordan {g, h}-derivation over T_n(C) is a {g, h}-derivation under an assumption, where C is a commutative ring with unity 1 not equal to 0. We give an example of a Jordan {g, h}-derivation over T_n(C) which is not a {g, h}-derivation. Also, we study Jordan {g, h}-derivation over M_n(C).

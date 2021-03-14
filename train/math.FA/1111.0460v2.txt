@@ -1,0 +1,1 @@
+We show that for quasi-greedy bases in real Banach spaces the error of the thresholding greedy algorithm of order N is bounded by the best N-term error of approximation times a constant which depends on the democracy functions and the quasi-greedy constant of the basis.

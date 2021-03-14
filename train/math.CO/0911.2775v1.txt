@@ -1,0 +1,1 @@
+Let e_{n}^k be the entries in the classical Euler's difference table. We consider the array d_{n}^{k}=e_n^k/k! for 0\leq k \leq n, where d_n^k can be interpreted as the number of k-fixed-points-permutations of [n]. We show that the sequence \{d_n^k\}_{0\leq k\leq n} is 2-log-concave and reverse ultra log-concave for any given n.

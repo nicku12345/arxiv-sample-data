@@ -1,0 +1,1 @@
+We study the limiting behavior of the zeros of the Euler polynomials. When linearly scaled, they approach a definite curve in the complex plane related to the Szego curve which governs the behavior of the roots of the Taylor polynomials associated to the exponential function. Further, under a conformal transformation, the scaled zeros are uniformly distributed.

@@ -1,0 +1,1 @@
+We comment on the set of visible points of a lattice and its Fourier transform, thus continuing and generalizing previous work by Schroeder and Mosseri. A closed formula in terms of Dirichlet series is obtained for the Bragg part of the Fourier transform. We compare this calculation with the outcome of an optical Fourier transform of the visible points of the 2D square lattice.

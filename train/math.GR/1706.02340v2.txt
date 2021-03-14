@@ -1,0 +1,1 @@
+For a p-group G of order  p^n with the derived subgroup of order  p^k  if  d=d(G),  the minimal number of elements required to generate  G,  then the order of Schur multiplier of G is bounded by  p^{\frac{1}{2}(d-1)(n-k+2)+1}.  In the current manuscript, we find the structure of all p-groups that attains the mentioned bound. Moreover, we show that all of them are capable.

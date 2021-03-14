@@ -1,0 +1,1 @@
+In this note, we show that the minmax and maxmin critical values of a function quadratic nondegenerate at infinity are equal when defined in homology or cohomology with coefficients in a field. However, by an example of F.Laudenbach, this is not always true for coefficients in a ring and, even in the case of a field, the minmax-maxmin depends on the field.

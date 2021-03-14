@@ -1,0 +1,1 @@
+We derive properties of the rate function in Varadhan's (annealed) large deviation principle for multidimensional, ballistic random walk in random environment, in a certain neighborhood of the zero set of the rate function. Our approach relates the LDP to that of regeneration times and distances. The analysis of the latter is possible due to the i.i.d. structure of regenerations.

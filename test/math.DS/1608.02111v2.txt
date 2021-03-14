@@ -1,0 +1,1 @@
+Answering a question of Hegyv\'ari and Ruzsa , we show that if A is a set of integers having positive upper Banach density, then the set A+A-A:= {a+b-c: a, b, c are in A} contains Bohr neighborhoods of many elements of A, where the radius and dimension of the Bohr neighborhood depend only the upper Banach density of A.

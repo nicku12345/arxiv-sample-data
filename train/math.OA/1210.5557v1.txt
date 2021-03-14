@@ -1,0 +1,1 @@
+We survey several applications of fixed point theorems in the theory of invariant subspaces. The general idea is that a fixed point theorem applied to a suitable map yields the existence of invariant subspaces for an operator on a Banach space.

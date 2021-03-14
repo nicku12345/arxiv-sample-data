@@ -1,0 +1,1 @@
+We construct Eberlein almost periodic functions  f_j : J \to H so that   ||f_1(\cdot)|| is not ergodic and thus not Eberlein almost periodic and ||f_2(.)|| is Eberlein almost periodic, but f_1 and f_2 are not pseudo almost periodic, the Parseval equation for them fails, where J=\r_+ or \r and H is a Hilbert space. This answers several questions posed by Zhang and Liu [18].

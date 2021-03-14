@@ -1,0 +1,1 @@
+In this paper we obtain (q+3)--regular graphs of girth 5 with fewer vertices than previously known ones for q=13,17,19 and for any prime q \ge 23 performing operations of reductions and amalgams on the Levi graph B_q of an elliptic semiplane of type {\cal C}. We also obtain a 13-regular graph of girth 5 on 236 vertices from B_{11} using the same technique.

@@ -1,0 +1,1 @@
+We look for spectral type differential equations for the generalized Jacobi polynomials and for the Sobolev-Laguerre polynomials.   We use a method involving computeralgebra packages like Maple and Mathematica and we will give some preliminary results.

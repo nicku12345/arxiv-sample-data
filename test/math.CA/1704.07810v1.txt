@@ -1,0 +1,1 @@
+We obtain sharp sparse bounds for Hilbert transforms along curves in \mathbb{R}^n, and derive as corollaries weighted norm inequalities for such operators. The curves that we consider include monomial curves and arbitrary C^n curves with nonvanishing torsion.

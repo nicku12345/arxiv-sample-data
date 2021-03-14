@@ -1,0 +1,1 @@
+We define a fuchsian affine action of a surface group to be such that the linear part factors through a representation of SL(2,{\mathbb R}). We prove a fuchsian affine action of a surface group is never proper.

@@ -1,0 +1,1 @@
+Equations over linearly ordered semilattices are studied. For any equation t(X)=s(X) we find irreducible components of its solution set and compute the average number of irreducible components of all equations in n variables.

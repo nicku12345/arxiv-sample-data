@@ -1,0 +1,1 @@
+We study the error in quadrature rules on a compact manifold. As in the Koksma-Hlawka inequality, we consider a discrepancy of the sampling points and a generalized variation of the function. In particular, we give sharp quantitative estimates for quadrature rules of functions in Sobolev classes.

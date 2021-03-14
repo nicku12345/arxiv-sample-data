@@ -1,0 +1,1 @@
+Leopold Vietoris and Guido Hoheisel showed how the existence of \lim_{x\to 0}\frac{\sin x}{x} can be derived from the trigonometric addition formulas. In this article two new proofs for this result are given. In addition it is discussed how this limit is related to the definition of \pi.

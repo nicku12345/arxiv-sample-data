@@ -1,0 +1,1 @@
+In this article we construct GL_{h}(3) from GL_{q}(3) by a singular map. We show that there exist two singular maps which map GL_{q}(3) to new quantum groups. We also construct their R-matrices and will show although the maps are singular but their R-matrices are not. Then we generalize these singular maps to the case GL(N) and for C_{n} series.

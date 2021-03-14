@@ -1,0 +1,1 @@
+We prove that every J-holomorphic variational vector field can be realized as derivation \frac{d}{dt}_{|t=0}f_t where (f_t) is a one parametric family of J-holomorphic discs. Furthermore, we discuss properness of an extremal J-holomorphic disc in a bounded pseudoconvex domain.

@@ -1,0 +1,1 @@
+We give a new algorithm for merging sorted lists of monomials. Together with a projection technique we obtain a new complexity bound for the BM-algorithm.

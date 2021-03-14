@@ -1,0 +1,1 @@
+Let J be an abelian variety over a number field such that the center of its endomorphism ring is equal to the ring of integers. If the endomorphism ring splits at a prime number l, then the l-adic representation is defined by the minuscule weights (microweights) of simple classical Lie algebras.

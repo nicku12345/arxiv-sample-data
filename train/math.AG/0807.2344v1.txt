@@ -1,0 +1,1 @@
+The stratified vector bundles on a smooth variety defined over an algebraically closed field k form a neutral Tannakian category over k. We investigate the affine group--scheme corresponding to this neutral Tannakian category.

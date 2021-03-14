@@ -1,0 +1,1 @@
+We here define a cell structure for real, complex and quaternionic flag manifolds in a unified way. Our method is geometric in nature and is inspired from a method due to Milnor and Stasheff, which they used to define a cell structure for real Grassmann manifolds.

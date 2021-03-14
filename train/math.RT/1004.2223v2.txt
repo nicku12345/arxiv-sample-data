@@ -1,0 +1,1 @@
+We compute the centre of the cyclotomic Hecke algebra attached to G(m,1,2) and show that if q \neq 1 it is equal to the image of the centre of the affine Hecke algebra \Ha. We also briefly discuss what is known about the relation between the centre of an arbitrary cyclotomic Hecke algebra and the centre of the affine Hecke algebra of type A.

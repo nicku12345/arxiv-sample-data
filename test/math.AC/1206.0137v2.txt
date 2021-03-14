@@ -1,0 +1,1 @@
+We construct a number of different examples of non-Noetherian graded rings that are injective as modules over themselves (or have some related but weaker properties). We discuss how these are related to the theory of triangulated categories, and to Freyd's Generating Hypothesis in stable homotopy theory.

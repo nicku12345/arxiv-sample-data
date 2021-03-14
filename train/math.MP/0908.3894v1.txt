@@ -1,0 +1,1 @@
+We consider an urn model leading to a random walk that can be solved explicitly in terms of the well known Jacobi polynomials.

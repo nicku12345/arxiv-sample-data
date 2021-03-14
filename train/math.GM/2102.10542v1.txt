@@ -1,0 +1,1 @@
+A simple proof of Euler's formula which states that the sum of the reciprocals of all natural numbers squared equals \pi^2/6 is presented based on the distribution theory introduced by Laurent Schwartz. Additional identities are obtained as a byproduct of the derivation.

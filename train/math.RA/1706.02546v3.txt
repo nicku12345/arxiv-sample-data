@@ -1,0 +1,1 @@
+We study the relations between partial and global group cohomology with values in a commutative unital ring \mathcal{A}. In particular, for a unital partial action of a group G on \mathcal{A}, such that \mathcal{A} is a direct product of commutative indecomposable rings, we show that any partial n-cocycle of G with values in \mathcal{A} is globalizable.

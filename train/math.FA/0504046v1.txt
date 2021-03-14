@@ -1,0 +1,1 @@
+The modulus of an order bounded functional on a Riesz space is the sum of a pair of Riesz homomorphisms if and only if the kernel of this functional is a Grothendieck subspace of the ambient Riesz space. An operator version of this fact is given.

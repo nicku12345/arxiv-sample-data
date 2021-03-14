@@ -1,0 +1,1 @@
+As conjectured by T. Przebinda, the transfer of characters in the Howe's correspondence should be obtained via the Cauchy-Harish-Chandra integral. In this paper, we prove that the conjecture holds for the dual pair (G = U(p, q), G' = U(r, s)), p+q = r+s, starting with a discrete series representation \Pi of \widetilde{U}(p, q).

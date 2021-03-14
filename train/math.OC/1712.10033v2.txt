@@ -1,0 +1,1 @@
+A variational model for reconstruction of damaged color images is studied, in particular in the case where only finitely many colors are admissible for the reconstructed image. An existence result and regularity properties of minimizers are presented.

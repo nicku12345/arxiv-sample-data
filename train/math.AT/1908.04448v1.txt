@@ -1,0 +1,1 @@
+A gauge group is the topological group of automorphisms of a principal bundle. We compute the integral cohomology ring of the classifying spaces of gauge groups of principal U(n)-bundles over the 2-sphere by generalizing the operation for free loop spaces, called the free double suspension.

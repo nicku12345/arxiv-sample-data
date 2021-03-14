@@ -1,0 +1,1 @@
+A. Horn's problem concerns find two self adjoint matrices A, B, so that A, B, and A+B have prescribed spectrum. In this paper, we show how it connects to an interpolation problem for two variable real zero polynomials and a tracial moment problem. In addition, we outline an algorithm to construct a pair (A,B).

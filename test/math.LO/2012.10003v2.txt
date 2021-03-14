@@ -1,0 +1,1 @@
+Assuming \mathrm{ZF}, we prove that Turing determinacy (\mathrm{TD}) implies countable choice axiom for sets of reals (\mathrm{CCR}).

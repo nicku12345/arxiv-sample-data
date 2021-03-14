@@ -1,0 +1,1 @@
+This paper considers the supercritical Navier-Stokes equations posed in the whole space \R^d, with suitably randomized initial data, in the weak solution setting. The global weak solutions are constructed for a large set of initial data in H^{-s}(\R^d) for some s>0 via a probabilistic argument, and this in turn implies the almost sure existence.

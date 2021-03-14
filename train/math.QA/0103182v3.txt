@@ -1,0 +1,1 @@
+We define a quantum analogue of the Grothendieck ring of finite dimensional modules of a quantum affine algebra of simply laced type. The construction is based on perverse sheaves on a variety related to quivers. We get also a new geometric construction of the tensor category of finite dimensional modules of a finite dimensional simple Lie algebra of type A-D-E.

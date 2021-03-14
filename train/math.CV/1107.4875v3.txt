@@ -1,0 +1,1 @@
+We prove the BMV (Bessis, Moussa, Villani, 1975) conjecture, which states that the function t -> Tr exp(A-tB), t \geq 0, is the Laplace transform of a positive measure on [0,\infty) if A and B are n x n Hermitian matrices and B is positive semidefinite. A semi-explicit representation for this measure is given.

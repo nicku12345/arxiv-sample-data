@@ -1,0 +1,1 @@
+We give completely combinatorial proofs of the main results of [3] using polygons. Namely, we prove that the mapping class group of a surface with boundary acts faithfully on a finitely-generated linear category. Along the way we prove some foundational results regarding the relevant objects from bordered Heegaard Floer homology,

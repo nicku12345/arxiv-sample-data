@@ -1,0 +1,1 @@
+The density topology \cal T is a topology on the real line, finer than the usual topology, having as its open sets the measurable subsets of {\mathbb R}, which are of density 1 at each of their points. The aim of this paper is to determine which subsets of the density topology are semi-stratifiable, orthocompact and weakly hereditarily pseudocompact.

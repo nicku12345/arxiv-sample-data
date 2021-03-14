@@ -1,0 +1,1 @@
+A remarkable extension of Rayleigh-Schroedinger perturbation method is found. Its (N+q) x (N+1) - dimensional Hamiltonians (as emerging, e.g., during quasi-exact constructions of bound states) are non-square matrices at q > 1. The role of an eigenvalue is played by an energy/coupling q-plet. In all orders, its perturbations are defined via a q-dimensional inversion.

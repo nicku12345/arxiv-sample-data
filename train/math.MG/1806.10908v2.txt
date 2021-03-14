@@ -1,0 +1,1 @@
+In this article, we introduce the concept of lexicographic metric space and, after discussing some basic properties of these metric spaces, such as completeness, boundedness, compactness and separability, we obtain a formula for the metric dimension of any lexicographic metric space.

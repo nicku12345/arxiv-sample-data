@@ -1,0 +1,1 @@
+Let \mathbb{N}_0 be a class of natural numbers whose binary decompositions has even number of 1. We estimate of the sum \sum\limits_{n\in \mathbf{N}_0,n\le X}\exp(2\pi i \alpha n^2).

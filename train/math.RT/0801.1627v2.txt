@@ -1,0 +1,1 @@
+Let W be a complex reflection group. We formulate a conjecture relating blocks of the corresponding restricted rational Cherednik algebras and Rouquier families for cyclotomic Hecke algebras. We verify the conjecture in the case that W is a wreath product of a symmetric group with a cyclic group of order l.

@@ -1,0 +1,1 @@
+In response to a question raised (and answered in the negative) by Terry Tao on his blog as to whether it is possible to rotate a line segment continuously within a set of area zero, we show that there is a set of area zero in the plane within which a line segment can be rotated by a Baire-1 map.

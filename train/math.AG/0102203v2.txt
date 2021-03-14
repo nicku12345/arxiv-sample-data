@@ -1,0 +1,1 @@
+Replacing symmetric powers by divided powers and working over Witt vectors instead of ground fields, I generalize Kawamatas T^1-lifting theorem to characteristic p>0. Combined with the work of Deligne-Illusie on degeneration of the Hodge-de Rham spectral sequences, this gives unobstructedness for certain Calabi-Yau varieties with free crystalline cohomology modules.

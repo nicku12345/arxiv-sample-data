@@ -1,0 +1,1 @@
+We give a self contained and elementary description of normal forms for symplectic matrices, based on geometrical considerations. The normal forms in question are expressed in terms of elementary Jordan matrices and integers with values in \{-1,0,1\} related to signatures of quadratic forms naturally associated to the symplectic matrix.

@@ -1,0 +1,1 @@
+This paper is a companion to our prior paper arXiv:0705.4619 on the `Small Ball Inequality in All Dimensions.' In it, we address a more restrictive inequality, and obtain a non-trivial, explicit bound, using a single essential estimate from our prior paper. The prior bound was not explicit and much more involved.

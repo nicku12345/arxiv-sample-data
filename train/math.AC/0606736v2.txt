@@ -1,0 +1,1 @@
+Motivated by work of C. U. Jensen, R.-O. Buchweitz, and H. Flenner, we prove the following result. Let R be a commutative Noetherian ring and a an ideal in the Jacobson radical of R. Let \hat{R}^a be the a-adic completion of R. If M is a finitely generated R-module such that \ext^i_R(\hat{R}^a,M)=0 for all i\neq 0, then M is a-adically complete.

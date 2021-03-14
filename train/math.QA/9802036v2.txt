@@ -1,0 +1,1 @@
+We introduce an affinization of the quantum Kac-Moody algebra associated to a symmetric generalized Cartan matrix. Based on the affinization, we construct a representation of the quantum Kac-Moody algebra by vertex operators from bosonic fields. We also obtain a combinatorial indentity about Hall-Littlewood polynomials.

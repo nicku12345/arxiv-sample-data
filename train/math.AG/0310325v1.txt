@@ -1,0 +1,1 @@
+Given two nonsingular real algebraic varieties V and W, we consider the problem of deciding whether a smooth map f: V -> W can be approximated by regular maps in the space of smooth maps from V to W.   Our main result is a complete solution to this problem in case W is the usual 2-dimensional sphere and V is a real algebraic surface of negative Kodaira dimension.

@@ -1,0 +1,1 @@
+This expository article describes applications of topological configuration spaces to the control of robotic systems. In particular, we review recent work by the authors on configuration spaces of graphs. These are lovely spaces: we show for example that the configuration space of two points on the complete graph of five vertices is a closed orientable surface of genus six.

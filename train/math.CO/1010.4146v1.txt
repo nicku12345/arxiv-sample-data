@@ -1,0 +1,1 @@
+This paper settled the question, which remains open in article published in Discrete Mathematics in 2008. Graphs homeomorphic to K_4, i.e., cliques on 4 vertices with edges replaced by paths are considered in this work. This work completes the study of chromaticity of K_4-homeomorphs of girth 7.

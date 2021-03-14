@@ -1,0 +1,1 @@
+The main goal of this paper is to study the different definitions of generating sequences appearing in the literature. We present these definitions and show that under certain situations they are equivalent. We also present an example that shows that they are not, in general, equivalent. We also present the relation of generating sequences and key polynomials.

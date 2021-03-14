@@ -1,0 +1,1 @@
+By means of a general gluing and conformal-deformation construction, we prove that any smooth, metrically complete Riemannian manifold with smooth boundary can be realized as a closed domain into a smooth, geodesically complete Riemannan manifold without boundary. Applications to Sobolev spaces, Nash embedding and local extensions with strict curvature bounds are presented.

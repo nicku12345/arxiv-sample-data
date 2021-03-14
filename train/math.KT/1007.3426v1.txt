@@ -1,0 +1,1 @@
+Let a and b be two integers such that 2\le a<b. In this article we define the notion of (a,b)-Koszul algebra as a generalization of N-Koszul algebras. We also exhibit examples and we provide a minimal graded projective resolution of the algebra A considered as an A-bimodule, which allows us to compute the Hochschild homology groups for some examples of (a,b)-Koszul algebras.

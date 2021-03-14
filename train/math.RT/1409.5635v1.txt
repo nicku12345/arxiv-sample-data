@@ -1,0 +1,1 @@
+Using the operator valued Fourier transform, the C*-algebras of connected real two-step nilpotent Lie groups are characterized as algebras of operator fields defined over their spectra. In particular, it is shown by explicit computations, that the Fourier transform of such C*-algebras fulfills the norm controlled dual limit property.

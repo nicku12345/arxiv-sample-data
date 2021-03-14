@@ -1,0 +1,1 @@
+A new idea for a binary clock is presented. It displays the time using a triangular array of 15 bits. It is shown that such a geometric, triangular arrangement is only possible because our system of time divisions is based on a sexagesimal system in which the number of minutes in 12 hours equals the factorial of a natural number (720=6!).

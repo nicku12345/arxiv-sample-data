@@ -1,0 +1,1 @@
+We prove that etale morphisms of schemes yield separable extensions of derived categories. We then generalize the Neeman-Thomason Localization Theorem to separable extensions of triangulated categories.

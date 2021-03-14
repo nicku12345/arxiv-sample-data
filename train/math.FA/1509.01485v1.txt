@@ -1,0 +1,1 @@
+In this paper we study two types of collections of operators on a Banach space on the subject of forming operator ideals. One of the types allows us to construct an uncountable chain of closed ideals in each of the operator algebras \mathcal{L}(\ell_1\oplus\ell_q), 1<q<\infty, and \mathcal{L}(\ell_1\oplus c_0). This finishes answering a longstanding question of Pietsch.

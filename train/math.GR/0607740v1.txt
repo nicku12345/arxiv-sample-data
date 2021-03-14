@@ -1,0 +1,1 @@
+For simple simply connected algebraic groups of classical type, Merkurjev, Parimala, and Tignol gave a formula for the restriction of the Rost invariant to torsors induced from the center of the group. We complete their results by proving formulas for exceptional groups. Our method is somewhat different and recovers also their formula for classical groups.

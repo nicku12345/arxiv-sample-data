@@ -1,0 +1,1 @@
+It is shown that Hermite polynomials satisfy a Bessel type orthogonality relation, based on the zeros of a single index Hermite polynomial and with a finite integration interval. Because of the role of non-symmetric zeros in the final relation, its applicability covers Hermite polynomials P_n(x) with n\ge 3.

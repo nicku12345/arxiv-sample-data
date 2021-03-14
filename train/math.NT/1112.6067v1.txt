@@ -1,0 +1,1 @@
+The sets of primitive foms may be decomposed into some Galois conjugacy classes. The purpose of this paper is to write down all of such classes with cardinal 1 or 2, explicitly in terms of some Eisenstein series, for level 1,2,3,4,6,8,9. For level 6, some calculations have not yet been completed.

@@ -1,0 +1,1 @@
+We use group representation theory to give algebraic formulae to compute complete transversals of singularities of vector fields, either in the nonsymmetric or in the reversible equivariant contexts. This computation produces normal forms directly, which are used sistematically in the local analysis of symmetric dynamics.

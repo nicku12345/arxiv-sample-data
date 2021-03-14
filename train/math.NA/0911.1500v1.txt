@@ -1,0 +1,1 @@
+We discuss the upper and lower estimates for the rate of convergence of Pure and Orthogonal Greedy Algorithms for dictionary with bounded cumulative coherence.

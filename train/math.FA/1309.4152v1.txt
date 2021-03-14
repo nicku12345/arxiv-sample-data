@@ -1,0 +1,1 @@
+In this paper, we are concerned with backward doubly stochastic differential evolutionary systems (BDSDESs for short). By using a variational approach based on the monotone operator theory, we prove the existence and uniqueness of the solutions for BDSDESs. We also establish an It\^o formula for the Banach space-valued BDSDESs.

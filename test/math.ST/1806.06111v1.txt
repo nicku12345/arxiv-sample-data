@@ -1,0 +1,1 @@
+IV regression in the context of a re-sampling is considered in the work. Comparatively, the contribution in the development is a structural identification in the IV model. The work also contains a multiplier-bootstrap justification.

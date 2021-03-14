@@ -1,0 +1,1 @@
+We extend the definition of the centroid body operator to an Orlicz--Lorentz centroid body operator on the star bodies in \mathbb R^n, and establish the sharp affine isoperimetric inequality that bounds (from below) the volume of the Orlicz--Lorentz centroid body of any convex body containing the origin in its interior by the volume of this convex body.

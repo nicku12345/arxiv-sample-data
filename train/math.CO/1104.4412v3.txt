@@ -1,0 +1,1 @@
+We show that provided \log^{50} n/n \leq p \leq 1 - n^{-1/4}\log^9 n we can with high probability find a collection of \lfloor \delta(G)/2 \rfloor edge-disjoint Hamilton cycles in G \sim G_{n, p}, plus an additional edge-disjoint matching of size \lfloor n/2 \rfloor if \delta(G) is odd. This confirms, for the above range of p, a conjecture of Frieze and Krivelevich.

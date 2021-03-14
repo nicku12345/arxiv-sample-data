@@ -1,0 +1,1 @@
+We provide a new upper bound on the number of conjugacy classes in the group U_n(q) of unitriangular matrices over a finite field. We also compute a similar upper bound for every group in the lower central series of U_n(q).

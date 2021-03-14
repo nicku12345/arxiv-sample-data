@@ -1,0 +1,1 @@
+We completely characterize definable linear orders in o-minimal structures expanding groups. For example, let (P,<_p) be a linear order definable in the real field R. Then (P,<_p) embeds definably in (R^{n+1},<_l), where <_l is the lexicographic order and n is the o-minimal dimension of P. This improves a result of Onshuus and Steinhorn in the o-minimal group context.

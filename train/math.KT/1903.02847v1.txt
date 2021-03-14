@@ -1,0 +1,1 @@
+J. Zelmanowitz introduced the concept of ring, which we call zip rings. In this paper we characterize a commutative Bezout domain whose finite homomorphic images are zip rings modulo its nilradical.

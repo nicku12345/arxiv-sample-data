@@ -1,0 +1,1 @@
+We present a comparison of the service disciplines in real-time queueing systems (the customers have a deadline before which they should enter the service booth). We state that giving priority to customers having an early deadline minimizes the average stationary lateness. We show this result by comparing adequate random vectors with the Schur-Convex majorization ordering.

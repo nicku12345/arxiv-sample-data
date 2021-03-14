@@ -1,0 +1,1 @@
+In this note we introduce a notion of free cofibrations of permutative categories. We show that each cofibration of permutative categories is a retract of a free cofibration.

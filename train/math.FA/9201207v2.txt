@@ -1,0 +1,1 @@
+We show that for any operator T:l_\infty^N\to Y, where Y is a Banach space, that its cotype 2 constant, K_2(T), is related to its (2,1)-summing norm, \pi_{2,1}(T), by K_2(T) \le c \log\log N \pi_{2,1}(T) . Thus, we can show that there is an operator T:C(K)\to Y that has cotype 2, but is not 2-summing.

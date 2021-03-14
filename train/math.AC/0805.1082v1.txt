@@ -1,0 +1,1 @@
+We give an affirmative answer to a 1976 question of M. Rosen: every abelian group is isomorphic to the class group of an elliptic Dedekind domain R. We can choose R to be the integral closure of a PID in a separable quadratic field extension. In particular, this yields new and -- we feel -- simpler proofs of theorems of L. Claborn and C.R. Leedham-Green.

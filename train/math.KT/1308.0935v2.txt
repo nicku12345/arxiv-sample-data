@@ -1,0 +1,1 @@
+For an arbitrary separated scheme X of finite type over a finite field \mathbb F_q and an integer j=-1,-2, we prove under the assumption of resolution of singularities, that the two groups H_{-1}(X,\mathbb Z(j)) and H_{-1}(\pi_0(X),\mathbb Z(j)) are canonically isomorphic. This gives an explicit computation of H_{-1}(X,\mathbb Z(j)).

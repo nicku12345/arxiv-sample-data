@@ -1,0 +1,1 @@
+We utilize the obstruction theory of Galewski-Matumoto-Stern to derive equivalent formulations of the Triangulation Conjecture. For example, every closed topological manifold M^n with n > 4 can be simplicially triangulated if and only if the two distinct combinatorial triangulations of RP^5 are simplicially concordant.

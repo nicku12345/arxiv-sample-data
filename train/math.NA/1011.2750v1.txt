@@ -1,0 +1,1 @@
+We prove the L^\infty(L^\infty)-boundedness of a higher-order shock-capturing streamline-diffusion DG-method based on polynomials of degree p\geq 0 for general scalar conservation laws. The estimate is given for the case of several space dimensions and for conservation laws with initial and boundary conditions.

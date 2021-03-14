@@ -1,0 +1,1 @@
+We are interested in easy geometric transformations which regularize n-polygons in the non-euclidean plane. A transformation is called easy if it can be easily implemented into an algorithm. This article is motivated by preceding work on geometric transformations on euclidean polygons and possible applications for non-euclidean meshes.

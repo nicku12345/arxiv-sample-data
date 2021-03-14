@@ -1,0 +1,1 @@
+Denoting by \mathcal{E}\subseteq \R^2 the set of the pairs (\lambda_1(\Omega),\lambda_2(\Omega)) for all the open sets \Omega\subseteq\R^N with unit measure, and by \Theta\subseteq\R^N the union of two disjoint balls of half measure, we give an elementary proof of the fact that \partial\E has horizontal tangent at its lowest point (\lambda_1(\Theta),\lambda_2(\Theta)).

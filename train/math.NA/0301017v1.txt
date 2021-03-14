@@ -1,0 +1,1 @@
+A mathematical relation between elements of one- and multi-dimensional discrete Fourier transforms (DFT) is found. A method of analysing the multi-dimensional data by their single one-dimensional (1-D) DFT is offered. An experiment of filtering a two-dimensional image using the single 1-D DFT is carried out.

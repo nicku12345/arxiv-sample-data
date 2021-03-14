@@ -1,0 +1,1 @@
+In this short paper we prove that a finite dimensional algebra is hereditary if and only if there is no loop in its ordinary quiver and every \tau-tilting module is tilting.

@@ -1,0 +1,1 @@
+The billiard dynamics inside an ellipse is integrable. It has zero topological entropy, four separatrices in the phase space, and a continuous family of convex caustics: the confocal ellipses. We prove that the curvature flow destroys the integrability, increases the topological entropy, splits the separatrices in a transverse way, and breaks all resonant convex caustics.

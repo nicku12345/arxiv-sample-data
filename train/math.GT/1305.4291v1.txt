@@ -1,0 +1,1 @@
+By using the Weil-Gel'fand-Zak transform of Faddeev's quantum dilogarithm, we propose a new state-integral model for the Teichm\"uller TQFT, where the circle valued state variables live on the edges of oriented leveled shaped triangulations.

@@ -1,0 +1,1 @@
+Let G be a real or complex linear algebraic reductive group. Let H and F be reductive subgroups. We study the natural H action on G/F. The main theorem of this note shows that generic H orbits are closed. This theorem is then applied to study representations of G, representations of H which are induced from representations of G, and intersections of reductive subgroups of G.

@@ -1,0 +1,1 @@
+Given a nonempty set X and a function f:X \rightarrow X, three fuzzy topological spaces are introduced. Some properties of these spaces and relation among them are studied and discussed.

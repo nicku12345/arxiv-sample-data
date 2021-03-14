@@ -1,0 +1,1 @@
+The value of the operator norm of Bergman projections from L^{\infty}(\mathbb{B}^n) to Bloch space is found in \cite{KalajMarkovic2014}. The authors of mentioned paper proposed the problem of calculating the norm of the same class of operators with different norm on the Bloch space - \mathcal{M}-invariant gradient. Here we prove that it has the conjectured value.

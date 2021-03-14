@@ -1,0 +1,1 @@
+We obtain an upper bound for the derivative of a Blaschke product, whose zeros lie in a certain Stolz-type region. We show that the derivative belongs to the space of analytic functions in the unit disk, introduced recently in \cite{FG}. As an outcome, we obtain a Blaschke-type condition for critical points of such Blaschke products.

@@ -1,0 +1,1 @@
+We announce a factorization result for equivariant birational morphisms between toric 4-folds whose source is Fano: such a morphism is always a composite of blow-ups along smooth invariant centers. Moreover, we show with a counterexample that, differently from the 3-dimensional case, even if both source and target are Fano, the intermediate varieties can not be chosen Fano.

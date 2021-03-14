@@ -1,0 +1,1 @@
+In this paper we define and present a simple combinatorial formula for a 3-variable Laurent polynomial invariant of conjugacy classes in Artin braid group B_m. We show that this Laurent polynomial satisfies the Conway skein relation and its coefficients are Vassiliev invariants of braids.

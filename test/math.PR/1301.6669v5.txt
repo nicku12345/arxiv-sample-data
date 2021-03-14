@@ -1,0 +1,1 @@
+We consider the two-dimensional Gaussian Free Field on a box of side length N, with Dirichlet boundary data, and prove the convergence of the law of the recentered maximum of the field.

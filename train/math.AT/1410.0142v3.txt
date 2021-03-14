@@ -1,0 +1,1 @@
+For each sapphire Sol 3-manifold, we classify the free involutions. For each triple (M, \tau; R^n) where M is a sapphire Sol 3-manifold and \tau is a free involution, we show if (M, \tau; R^n) has the Borsuk-Ulam property or not. It is known that for n>3 the Borsuk-Ulam property does not hold independent of the involution, so we provide a classification when n=2 and 3.

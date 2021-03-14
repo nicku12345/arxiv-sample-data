@@ -1,0 +1,1 @@
+For a smooth, compact Riemannian manifold (M,g) of dimension N \geg 3, we are interested in the critical equation \Delta_g u+(N-2/4(N-1) S_g+\epsilon h)u=u^{N+2/N-2} in M, u>0 in M, where \Delta_g is the Laplace--Beltrami operator, S_g is the Scalar curvature of (M,g), h\in C^{0,\alpha}(M), and \epsilon is a small parameter.

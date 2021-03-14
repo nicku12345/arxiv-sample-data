@@ -1,0 +1,1 @@
+This note establishes that a generalization of c-cyclical monotonicity from the Monge-Kantorovich problem with two marginals gives rise to a sufficient condition for optimality also in the multi-marginal version of that problem. To obtain the result, the cost function is assumed to be bounded by a sum of integrable functions. The proof rests on ideas from martingale transport.

@@ -1,0 +1,1 @@
+We derive asymptotic expansion for the spectrum of Hamiltonians with a strong attractive \delta' interaction supported by a smooth surface in \R^3, either infinite and asymptotically planar, or compact and closed. Its second term is found to be determined by a Schr\"odinger type operator with an effective potential expressed in terms of the interaction support curvatures.

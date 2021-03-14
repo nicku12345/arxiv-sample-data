@@ -1,0 +1,1 @@
+It is proven that a local Lie algebra in the sense of A. A. Kirillov determines the base manifold up to a diffeomorphism provided the anchor map is nowhere-vanishing. In particular, the Lie algebras of nowhere-vanishing Poisson or Jacobi brackets determine manifolds. This result has been proven for different types of differentiability: smooth, real-analytic, and holomorphic.

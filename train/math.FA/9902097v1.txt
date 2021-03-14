@@ -1,0 +1,1 @@
+Every frame in Hilbert space contains a subsequence equivalent to an orthogonal basis. If a frame is n-dimensional then this subsequence has length (1 - \epsilon) n. On the other hand, there is a frame which does not contain bases with brackets.

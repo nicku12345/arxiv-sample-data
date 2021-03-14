@@ -1,0 +1,1 @@
+Representations of \text{SO}(4,2) are constructed using 4\times4 and 2\times2 matrices with elements in \mathbb{H}'\otimes\mathbb{C}, and the known isomorphism between the conformal group and \text{SO}(4,2) is written explicitly in terms of the 4\times4 representation.

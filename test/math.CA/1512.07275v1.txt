@@ -1,0 +1,1 @@
+In this paper, two parallel notions of convexity of sets are introduced in the abelian semigroup setting. The connection of these notions to algebraic and to set-theoretic operations is investigated. A formula for the computation of the convex hull is derived. Finally, a Stone-type separation theorem for disjoint convex sets is established.

@@ -1,0 +1,1 @@
+In this paper we compute the spectrum, in the sense of Berkovich, of an ultrametric linear differential equation with constant coefficients, defined over an affinoid domain of the analytic affine line A_k^{1,an}. We show that it is a finite union of either closed disks or topological closures of open disks and that it satisfies a continuity property.

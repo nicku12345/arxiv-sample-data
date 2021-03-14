@@ -1,0 +1,1 @@
+Let \mathcal{H}ol(B_d) denote the space of holomorphic functions on the unit ball B_d of \mathbb{C}^d, d\ge 1. Given a log-convex strictly positive weight w(r) on [0,1), we construct a function f\in\mathcal{H}ol(B_d) such that the standard integral means M_p(f, r) and w(r) are equivalent for any 0<p\le\infty. Also, we obtain similar results related to volume integral means.

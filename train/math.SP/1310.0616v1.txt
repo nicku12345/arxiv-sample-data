@@ -1,0 +1,1 @@
+We consider the minimal differential operator A generated in L^2(0,\infty) by the differential expression l(y) = (-1)^n y^{(2n)}. Using the technique of boundary triplets and the corresponding Weyl functions, we find explicit form of the characteristic matrix and the corresponding spectral function for the Friedrichs and Krein extensions of the operator A.

@@ -1,0 +1,1 @@
+Let G be a finite non-cyclic p-group of order at least p^3. If G has an abelian maximal subgroup, or if G has an elementary abelian centre with C_G(Z(\Phi(G))) \ne \Phi(G), then |G| divides |\text{Aut}(G)|.

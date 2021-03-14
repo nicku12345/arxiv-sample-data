@@ -1,0 +1,1 @@
+In this short note, we develop a method for identifying the spaces Lip_{0}(U) for every nonempty open convex U of \mathbb{R}^{n} and n\in\mathbb{N}. Moreover, we show that \mathcal{F}(U) is identified with a quotient of L^{1}(U;\mathbb{R}^{n}).

@@ -1,0 +1,1 @@
+We discuss definability in the language of rings without parameters of the unique canonical henselian valuation of a field. We show that in most cases where the canonical henselian valuation is definable, it is already definable by a universal-existential or an existential-universal formula.

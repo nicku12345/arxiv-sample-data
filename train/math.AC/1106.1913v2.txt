@@ -1,0 +1,1 @@
+We introduce the class of modules with initially linear syzygies, which includes ideals with linear quotients, and study their minimal resolutions. Using a contracting homotopy for the resolutions, we see that the minimal resolution of a matroidal monomial ideal admits a DGA structure.

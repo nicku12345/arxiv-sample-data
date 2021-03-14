@@ -1,0 +1,1 @@
+Drawing on the previous work on interpolation failure, we show that Beth's definability theorem does not hold for intuitionistic predicate logic of constant domains without identity.

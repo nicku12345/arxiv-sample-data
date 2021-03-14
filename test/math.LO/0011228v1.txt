@@ -1,0 +1,1 @@
+It is proved undecidable in ZFC + GCH whether every Z-module has a^{perp} {Z}-precover.

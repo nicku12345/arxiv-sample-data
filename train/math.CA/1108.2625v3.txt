@@ -1,0 +1,1 @@
+We consider continuous functions f : [0,1] \to R that cut the real axis at every point of a measurable set of positive measure and we construct examples where f fails to have bounded variation, and at the opposite end, where f admits derivatives of all orders.

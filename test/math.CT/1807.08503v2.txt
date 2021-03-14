@@ -1,0 +1,1 @@
+We prove that the bounded derived category of the incidence algebra of the Tamari lattice is fractionally Calabi-Yau, giving a positive answer to a conjecture of Chapoton. The proof involves a combinatorial description of the Serre functor of this derived category on a sufficiently nice family of indecomposable objects.

@@ -1,0 +1,1 @@
+We construct explicitly the q-vertex operators (intertwining operators) for the level one modules V(\Lambda_i) of the classical quantum affine algebras of twisted types using interacting bosons, where i=0, 1 for A_{2n-1}^{(2)}, i=0 for D_4^{(3)}, i=0, n for D_{n+1}^{(2)}, and i=n for A_{2n}^{(2)}. A perfect crystal graph for D_4^{(3)} is constructed as a by-product.

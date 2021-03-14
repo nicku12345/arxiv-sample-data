@@ -1,0 +1,1 @@
+We examine the growth of crystals from vapor. We assume that the Wulff shape is a prism with a hexagonal base. The Gibbs-Thomson correction on the crystal surface is included in the model. Assuming that the-initial crystal has an admissible shape we show local in time existence of solutions.

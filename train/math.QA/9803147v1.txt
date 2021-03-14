@@ -1,0 +1,1 @@
+Tensor operators for the Jordanian quantum algebra Uh(sl(2)) are considered. Some explicit examples of them, which are obtained in the boson or fermion realization, are given and their properties are studied. It is also shown that the Wigner-Eckart's theorem can be extended to Uh(sl(2)).

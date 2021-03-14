@@ -1,0 +1,1 @@
+We define combinatorial Floer homology of a transverse pair of noncontractibe nonisotopic embedded loops in an oriented 2-manifold without boundary, prove that it is invariant under isotopy, and prove that it is isomorphic to the original Lagrangian Floer homology.

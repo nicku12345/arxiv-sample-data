@@ -1,0 +1,1 @@
+In this paper we study bilipschitz equivalences of germs of holomorphic foliations in (\mathbb{C}^2,0). We prove that the algebraic multiplicity of a singularity is invariant by such equivalences. Moreover, for a large class of singularities, we show that the projective holonomy representation is also a bilipschitz invariant.

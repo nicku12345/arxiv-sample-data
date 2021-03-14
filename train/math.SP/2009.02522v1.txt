@@ -1,0 +1,1 @@
+The inverse spectral problems are studied for the Sturm-Liouville operator on the star-shaped graph and for the matrix Sturm-Liouville operator with the boundary condition in the general self-adjoint form. We obtain necessary and sufficient conditions of solvability for these two inverse problems, and also prove their local solvability and stability.

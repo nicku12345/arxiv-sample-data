@@ -1,0 +1,1 @@
+We generalize Gaeta's Theorem to the family of determinantal schemes. In other words, we show that the schemes defined by minors of a fixed size of a matrix with polynomial entries belong to the same G-biliaison class of a complete intersection whenever they have maximal possible codimension, given the size of the matrix and of the minors that define them.

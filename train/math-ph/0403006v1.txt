@@ -1,0 +1,1 @@
+We study a system of N bosons in the plane interacting with delta function potentials. After a coupling constant renormalization we show that the Hamiltonian defines a self-adjoint operator and obtain a lower bound for the energy. The same results hold if one includes a regular inter-particle potential.

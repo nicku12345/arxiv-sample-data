@@ -1,0 +1,1 @@
+Motivated by the concept of degeneracy in biology (Edelman, Gally 2001), we establish a first connection between the Multiplicity Principle (Ehresmann, Vanbremeersch 2007) and mathematical statistics. Specifically, we exhibit two families of statistical tests that satisfy this principle to achieve the detection of a signal in noise.

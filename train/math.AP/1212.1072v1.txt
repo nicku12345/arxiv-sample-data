@@ -1,0 +1,1 @@
+In the Landau-de Gennes theoretical framework of a Q -tensor description of nematic liquid crystals, we consider a radial hedgehog defect with strong anchoring conditions in a ball B \subset \mathbb{R}^3 . We show that the scalar order parameter is monotonic, and we prove uniqueness of the minimizing hedgehog below the spinodal temperature T^\ast .

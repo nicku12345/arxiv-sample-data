@@ -1,0 +1,1 @@
+We show that there are semi-Cohen Boolean algebras which cannot be completely embedded into Cohen Boolean algebras. Using the ideas from this proof, we give a simpler argument for a theorem of S. Koppelberg and S. Shelah, stating that there are complete subalgebras of Cohen algebras which are not Cohen themselves.

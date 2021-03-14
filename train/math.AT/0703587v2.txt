@@ -1,0 +1,1 @@
+We compute the value of the simplicial volume for closed, oriented Riemannian manifolds covered by \mathbb{H}^{2}\times\mathbb{H}^{2} explicitly, thus in particular for products of closed hyperbolic surfaces. This gives the first exact value of a nonvanishing simplicial volume for a manifold of nonconstant curvature.

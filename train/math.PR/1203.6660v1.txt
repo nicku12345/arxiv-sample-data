@@ -1,0 +1,1 @@
+In this paper we study a one-dimensional random motion by having a general Erlang distribution for the sojourn times of the switching process and we obtain solution of the four order hyperbolic PDE for 2-Erlang case.

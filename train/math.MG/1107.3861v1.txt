@@ -1,0 +1,1 @@
+We provide an algorithm for computing the centered Hausdorff measure of self-similar sets satisfying the strong separation condition. We prove the convergence of the algorithm and test its utility on some examples.

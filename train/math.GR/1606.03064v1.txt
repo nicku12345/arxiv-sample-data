@@ -1,0 +1,1 @@
+We determine all finite subgroups of simple algebraic groups that have irreducible centralizers - that is, centralizers whose connected component does not lie in a parabolic subgroup.

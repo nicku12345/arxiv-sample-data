@@ -1,0 +1,1 @@
+This paper provides a method to calculate the bar codes of a PCD (point cloud data) with real coefficients in Section 3. With Dan Burghelea and Tamal Dey we developed a persistence theory which involves level sets discussed in Section 4. This paper is the Ph.D thesis written under the direction of Dan Burghelea at OSU.

@@ -1,0 +1,1 @@
+Let L/F be a dihedral extension of degree 2p, where p is an odd prime. Let K/F and k/F be subextensions of L/F with degrees p and 2, respectively. Then we will study relations between the p-ranks of the class groups Cl(K) and Cl(k).

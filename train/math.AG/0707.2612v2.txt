@@ -1,0 +1,1 @@
+Consider a finite morphism f:X -> Y of smooth projective varieties over a finite field k. Suppose X is the vanishing locus in projective N-space of at most r forms of degree at most d. We show there is a constant C, depending only on N, r, d and deg(f) such that if #k > C, then f(k):X(k) -> Y(k) is injective if and only if it's surjective.

@@ -1,0 +1,1 @@
+Of what use are the zeros of the Riemann zeta function? We can use sums involving zeta zeros to count the primes up to x. Perron's formula leads to sums over zeta zeros that can count the squarefree integers up to x, or tally Euler's \phi function and other arithmetical functions. This is largely a presentation of experimental results.

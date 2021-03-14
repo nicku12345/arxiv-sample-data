@@ -1,0 +1,1 @@
+Let M^n be a n-dimensional compact manifold, with n\geq3. For any conformal class C of riemannian metrics on M, we set \mu_k^c(M,C)=\inf_{g\in C}\mu_{[\frac n2],k}(M,g)\Vol(M,g)^{\frac2n}, where \mu_{p,k}(M,g) is the k-th eigenvalue of the Hodge laplacian acting on coexact p-forms. We prove that 0<\mu_k^c(M,C)\leq\mu_k^c(S^n,[g_{can}])\leq k^{\frac2n}\mu_1^c(S^n,[g_{can}]).

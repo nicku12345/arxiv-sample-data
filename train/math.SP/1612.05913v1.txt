@@ -1,0 +1,1 @@
+We improve the classical discrete Hardy inequality \begin{equation*}\label{1} \sum _{{n=1}}^{\infty }a_{n}^{2}\geq \left({\frac {1}{2}}\right)^{2} \sum _{{n=1}}^{\infty }\left({\frac {a_{1}+a_{2}+\cdots +a_{n}}{n}}\right)^{2}, \end{equation*} where \{a_n\}_{n=1}^\infty is any sequence of non-negative real numbers.

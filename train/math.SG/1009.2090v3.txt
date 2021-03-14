@@ -1,0 +1,1 @@
+We prove the Poisson geometric version of the Local Reeb Stability (from foliation theory) and of the Slice Theorem (from equivariant geometry). The result is also a generalization of Conn's linearization theorem from one-point leaves to arbitrary symplectic leaves (however, we do not make use of Conn's theorem).

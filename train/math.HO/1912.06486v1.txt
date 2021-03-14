@@ -1,0 +1,1 @@
+The description of the image of cubic function f(x) = x^3+x over finite field F_{2^n} was stated as a problem in the NSUCrypto olympiad in 2017. This problem was marked by organizers as <<unsolved>>. In this work we propose the full solution of this problem.

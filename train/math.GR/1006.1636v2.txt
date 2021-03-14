@@ -1,0 +1,1 @@
+We use intersections with horizontal manifolds to show that high-dimensional cycles in the Heisenberg group can be approximated efficiently by simplicial cycles. This lets us calculate all of the higher-order Dehn functions of the Heisenberg groups, thus proving a conjecture of Gromov.

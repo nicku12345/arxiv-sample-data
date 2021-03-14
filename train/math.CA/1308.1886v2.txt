@@ -1,0 +1,1 @@
+We provide a Maz'ya type characterization for a fractional Hardy inequality. As an application, we show that a bounded open set G admits a fractional Hardy inequality if and only if the associated fractional capacity is quasiadditive with respect to Whitney cubes of G and the zero extension operator acting on C_c(G) is bounded in an appropriate manner.

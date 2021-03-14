@@ -1,0 +1,1 @@
+In this paper a concise, complete proof of resolution of singularities of 3-folds in positive characteristic (>5) is given. The first proof of this theorem was given by Abhyankar in 1966. The resolution morphism in our proof is an isomorphism over the nonsingular locus.

@@ -1,0 +1,1 @@
+In this paper we present a battery of results related to how Galerkin semidiscretization in space affects some formulations of wave scattering and propagation problems when retarded boundary integral equations are used.

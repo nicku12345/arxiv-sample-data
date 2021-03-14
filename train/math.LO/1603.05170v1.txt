@@ -1,0 +1,1 @@
+Denote Hrushovski's non-collapsed ab initio construction for an n-ary relation by \mathbb{M} and the analogous construction for a symmetric n-ary relation by \mathbb{M}^{\sim}. We show that \mathbb{M} is isomorphic to a proper reduct of \mathbb{M}^{\sim} and vice versa, and that the combinatorial geometries associated with both structures are isomorphic.

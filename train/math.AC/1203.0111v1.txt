@@ -1,0 +1,1 @@
+We discuss the relationships between effect algebras with the Riesz Decomposition Property and partially ordered groups with interpolation. We show that any \sigma-orthocomplete atomic effect algebra with the Riesz Decomposition Property is an MV-effect algebras, and we apply this result for pseudo-effect algebras and for states.

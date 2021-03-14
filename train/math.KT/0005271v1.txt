@@ -1,0 +1,1 @@
+We calculate the R(G)-algebra structure on the reduced equivariant K-groups of two-dimensional spheres on which a compact Lie group G acts as involutions. In particular, the reduced equivariant K-groups are trivial if G is abelian, which shows that the previous Y. Yang's calculation in [Yan95] is not true.

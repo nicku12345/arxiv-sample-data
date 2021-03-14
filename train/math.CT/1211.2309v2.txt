@@ -1,0 +1,1 @@
+Let K be a commutative ring. In this article we construct a symmetric monoidal Quillen model structure on the category of small K-categories which enhances classical Morita theory. We then use it in order to obtain a natural tensor categorification of the Brauer group and of its functoriality.

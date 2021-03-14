@@ -1,0 +1,1 @@
+This note describes a method for generating an infinite-dimensional family of nonlinear control laws for underactuated systems. For a ball and beam system, the entire family is found explicitly.

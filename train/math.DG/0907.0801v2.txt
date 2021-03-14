@@ -1,0 +1,1 @@
+We define the Analytical signature, the Hodge signature and the de Rham signature for a foliated manifold with boundary with foliation transverse to the boundary. We show that all these signatures coincide and a Hirzebruch formula is valid.

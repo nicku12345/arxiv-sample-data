@@ -1,0 +1,1 @@
+In unbounded subset \Omega in R^n we study the operator u\rightarrow gu as an operator defined in the Sobolev space W^{r,p}(\Omega) and which takes values in L^p(\Omega). The functions g belong to wider spaces of L^p connected with the Morrey type spaces. The main result is an embedding theorem from which we can deduce a Fefferman type inequality.

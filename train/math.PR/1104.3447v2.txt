@@ -1,0 +1,1 @@
+We consider the stirring process in the interval \La_N:=[-N,N] of \mathbb Z with births and deaths taking place in the intervals I_+:=(N-K,N], K>0, and respectively I_-:=[-N,-N+K). We prove bounds on the truncated moments uniform in N which yield strong factorization properties.

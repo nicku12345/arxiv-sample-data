@@ -1,0 +1,1 @@
+In this note, we give the stochastic maximum principle for optimal control of stochastic PDEs in the general case (when the control domain need not be convex and the diffusion coefficient can contain a control variable).

@@ -1,0 +1,1 @@
+A graded tensor category over a group G will be called a strongly G-graded tensor category if every homogeneous component has at least one multiplicativily invertible object. Our main result is a description of the module categories over a strongly G-graded tensor category as induced from module categories over tensor subcategories associated with the subgroups of G.

@@ -1,0 +1,1 @@
+We describe a unified approach to estimating the dimension of f^{-1}(A) for any G-equivariant map f \colon X \to Y and any closed G-invariant subset A\subseteq Y in terms of connectivity of X and dimension of Y, where G is either a cyclic group of order p^k, a p-torus (p a prime), or a torus.

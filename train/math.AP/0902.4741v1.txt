@@ -1,0 +1,1 @@
+In this paper we study a model for phase segregation consisting in a sistem of a partial and an ordinary differential equation. By a careful definition of maximal solution to the latter equation, this system reduces to an Allen-Cahn equation with a memory term. Global existence and uniqueness of a smooth solution are proven and a characterization of the omega-limit set is given.

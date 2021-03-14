@@ -1,0 +1,1 @@
+Let A be a geometric arrangement such that codim(x) > 1 for every x in A. We prove that, if the complement space M(A) is rationally hyperbolic, then there exists an injective from a free Lie algebra L(u,v) to the homotopy Lie algebra of M(A).

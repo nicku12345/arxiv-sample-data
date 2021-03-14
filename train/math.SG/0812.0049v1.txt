@@ -1,0 +1,1 @@
+In this article, let \Sigma\subset\R^{2n} be a compact convex hypersurface which is (r, R)-pinched with \frac{R}{r}<\sqrt{{3/2}}. Then \Sg carries at least two strictly elliptic closed characteristics; moreover, \Sg carries at least 2[\frac{n+2}{4}] non-hyperbolic closed characteristics.

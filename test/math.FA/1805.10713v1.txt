@@ -1,0 +1,1 @@
+We show that for any nonprincipal ultrafilter U on the positive integers, then probability measure induced by the U-limit of asymptotic density is not a universally measurable function.

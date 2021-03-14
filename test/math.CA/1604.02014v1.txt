@@ -1,0 +1,1 @@
+We characterize the non-atomic measures \mu for which all Calder\'{o}n-Zygmund operators with antisymmetric kernels of a fixed non-integer dimension s are bounded in L^2(\mu) in terms of a positive quantity, the Wolff energy.

@@ -1,0 +1,1 @@
+A toric polyhedron is a reduced closed subscheme of a toric variety that are partial unions of the orbits of the torus action. We prove vanishing theorems for toric polyhedra. We also give a proof of the E_1-degeneration of Hodge to de Rham type spectral sequence for toric polyhedra in any characteristic. Finally, we give a very powerful extension theorem for ample line bundles.

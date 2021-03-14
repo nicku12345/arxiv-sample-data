@@ -1,0 +1,1 @@
+The Kirillov--Reshetikhin modules W^{r,s} are finite-dimensional representations of quantum affine algebras U'_q(g), labeled by a Dynkin node r of the affine Kac--Moody algebra g and a positive integer s. In this paper we study the combinatorial structure of the crystal basis B^{2,s} corresponding to W^{2,s} for the algebra of type D_n^{(1)}.

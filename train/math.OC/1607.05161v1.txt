@@ -1,0 +1,1 @@
+Although the Karush-Kuhn-Tucker conditions suggest a connection between a conic optimization problem and a complementarity problem, it is difficult to find an accessible explicit form of this relationship in the literature. This note will present such a relationship.

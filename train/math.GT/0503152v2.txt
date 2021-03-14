@@ -1,0 +1,1 @@
+Given any knot k, there exists a hyperbolic knot tilde k with arbitrarily large volume such that the knot group pi k is a quotient of pi tilde k by a map that sends meridian to meridian and longitude to longitude. The knot tilde k can be chosen to be ribbon concordant to k and also to have the same Alexander invariant as k.

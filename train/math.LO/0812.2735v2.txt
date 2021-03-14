@@ -1,0 +1,1 @@
+We use the Cauchy-Crofton formula to show that every definable cell (bounded by a ball with rational radius) in an O-minimal expansion of a field extension of the real numbers satisfies the Whitney arc property.

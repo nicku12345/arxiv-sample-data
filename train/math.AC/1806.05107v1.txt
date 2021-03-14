@@ -1,0 +1,1 @@
+We show that a Buchsbaum simplicial complex of small codimension must have large depth. More generally, we achieve a similar result for {\rm CM}_t simplicial complexes, a notion generalizing Buchsbaum-ness, and we prove more precise results in the codimension 2 case. Along the paper, we show that the {\rm CM}_t property is a topological invariant of a simplicial complex.

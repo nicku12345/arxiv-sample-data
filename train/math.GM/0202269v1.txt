@@ -1,0 +1,1 @@
+An extension to the factorisation principle as suggested by Fermat is presented.We start from a symmetry of natural numbers and obtain the factorisation principle therefrom.Later it is extended further to test the primality of any natural number and finally used to factorise any given number.

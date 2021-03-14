@@ -1,0 +1,1 @@
+The n-dimensional numerical range of a densely defined linear operator T on a complex Hilbert space \H is the set of vectors in \C^n of the form (< Te_1,e_1>,...,< Te_n,e_n>), where e_1,...,e_n is an orthonormal system in \H, consisting of vectors from the domain of T. We prove that the components of every corner point of the n-dimensional numerical range are eigenvalues of T.

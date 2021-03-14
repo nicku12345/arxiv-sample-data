@@ -1,0 +1,1 @@
+We estimate the linear isoperimetric constants of an n-dimensional ellipse. Using these estimates and a technique of Gromov, we estimate the Hopf and linking invariants of Lipschitz maps from ellipses to round spheres. Using these estimates, we give a lower bound for the k-dilation of degree non-zero maps between ellipses.

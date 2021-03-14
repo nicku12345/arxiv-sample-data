@@ -1,0 +1,1 @@
+We provide a formula to compute the volume of the intersection of a generalized cylinder with a hyperplane. Then we prove an integral inequality involving Bessel functions similar to Keith Ball's well-known inequality. Using this inequality we obtain upper bounds for the section volume. For large radius of the cylinder we determine the maximal section.

@@ -1,0 +1,1 @@
+We construct hyper-homology spectral sequences of Z-graded and ROG-graded Mackey functors for Ext and Tor over G-equivariant S-algebras (A-infty ring spectra) for finite groups G. These specialize to universal coefficient and Kunneth spectral sequences.

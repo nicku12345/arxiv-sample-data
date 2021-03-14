@@ -1,0 +1,1 @@
+Let H be a complex separable Hilbert space of dimension \geq 2, {\mathcal B}_s(H) the space of all self-adjoint operators on H. We give a complete classification of non-linear surjective maps on \mathcal B_s(H) preserving respectively numerical radius and numerical range of Lie product.

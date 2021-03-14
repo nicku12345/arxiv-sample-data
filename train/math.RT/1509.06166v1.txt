@@ -1,0 +1,1 @@
+Let (G,H) be a symmetric pair over a p-adic field and \pi a discrete series representation of G. In this paper, for some type of symmetric pairs (G,H), we show that local periods in Hom_H(\pi,\mathbb{C}) can be constructed by integrating the matrix coefficients of \pi over H.

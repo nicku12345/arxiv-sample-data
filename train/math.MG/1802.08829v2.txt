@@ -1,0 +1,1 @@
+Recently, strongly hyperbolic space as certain analytic enhancements of Gromov hyperbolic space was introduced by B. Nica and J. Spakula. In this note, we prove that the log-metric log(1+d) on a Ptolemy space (X,d) is a strongly hyperbolic metric. Using our result, we construct three metrics on a Ptolemy metric space and prove they are strongly hyperbolic.

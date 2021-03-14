@@ -1,0 +1,1 @@
+We give a new self-contained proof of Poincar\'e's Polyhedron Theorem on presentations of discontinuous groups of isometries of a Riemann manifold of constant curvature. The proof is not based on the theory of covering spaces, but only makes use of basic geometric concepts. In a sense one hence obtains a proof that is of a more constructive nature than most known proofs.

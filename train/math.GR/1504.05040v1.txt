@@ -1,0 +1,1 @@
+We investigate security properties of the Anshel-Anshel-Goldfeld commutator key-establishment protocol used with certain polycyclic groups. We show that despite low success of the length based attack the protocol can be broken by a deterministic polynomial-time algorithm.

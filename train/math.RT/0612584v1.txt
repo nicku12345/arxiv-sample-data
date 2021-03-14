@@ -1,0 +1,1 @@
+We give a geometric description of the blocks of the Brauer algebra B_n(\delta) in characteristic zero as orbits of the Weyl group of type D_n. We show how the corresponding affine Weyl group controls the representation theory of the Brauer algebra in positive characteristic, with orbits corresponding to unions of blocks.

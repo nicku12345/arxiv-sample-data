@@ -1,0 +1,1 @@
+A surjective bounded homomorphism fails to preserve n-weak amenability, in general. We however show that it preserves the property if the involved homomorphism enjoys a right inverse. We examine this fact for certain homomorphisms on several Banach algebras.

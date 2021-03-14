@@ -1,0 +1,1 @@
+We endow the set of persistence diagrams with the strong topology (the topology of countable direct limit of increasing sequence of bounded subsets considered in the bottleneck distance). The topology of the obtained space is described.   Also, we prove that the space of persistence diagrams with the bottleneck metric has infinite asymptotic dimension in the sense of Gromov.

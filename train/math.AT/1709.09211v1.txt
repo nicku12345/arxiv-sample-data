@@ -1,0 +1,1 @@
+We prove that the homotopy type of a map from a Peano continuum into a planar or one-dimensional space is determined by the induced homomorphism of fundamental groups. This provides a new proof that planar sets are aspherical and is used to prove that two planar or one-dimensional Peano continua are homotopy equivalent if and only if they have isomorphic fundamental groups.

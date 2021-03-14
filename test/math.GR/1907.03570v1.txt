@@ -1,0 +1,1 @@
+For every pair of distinct primes p, q we prove that \mathbb{Z}_p^3 \times \mathbb{Z}_q is a CI-group with respect to binary relational structures.

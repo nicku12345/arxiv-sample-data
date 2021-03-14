@@ -1,0 +1,1 @@
+Given a square-free monomial ideal I, we define a simplicial complex labeled by the generators of I^2 which supports a free resolution of I^2. As a consequence, we obtain (sharp) upper bounds on the Betti numbers of the second power of any square-free monomial ideal.

@@ -1,0 +1,1 @@
+We extend the Carne--Varopoulos upper bound on the probability transitions of a Markov chain to a certain class of nonreversible processes by introducing the definition of a ``centering measure.'' In the case of random walks on a group, we study the connections between different notions of centering.

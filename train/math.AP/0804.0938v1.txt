@@ -1,0 +1,1 @@
+In this paper we consider the unique determination of inhomogeneities together with possible buried obstacles by scattering measurements. Under the assumption that the buried obstacles have only planar contacts with the inhomogeneities, we prove that one can recover both of them by knowing the associated scattering amplitude at a fixed energy.

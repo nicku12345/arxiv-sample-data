@@ -1,0 +1,1 @@
+Given an open subset U of a projective curve Y and a smooth family f:V-->U of curves, with semi-stable reduction over Y, we show that for a sub variation of Hodge structures of rank >2 the Arakelov inequality must be strict. For families of n-folds we prove a similar result under the assumption that the (n,0) component of the Higgs bundle defines fibrewise a birational map.

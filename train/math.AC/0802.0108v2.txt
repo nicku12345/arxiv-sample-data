@@ -1,0 +1,1 @@
+In this paper we prove certain properties of cellular and acyclic classes of chain complexes of modules over a commutative Noetherian ring. In particular we show that if X is finite and belongs to some cellular class C then \Sigma^n H_X also belongs to C, for every n.

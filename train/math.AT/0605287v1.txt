@@ -1,0 +1,1 @@
+This note attempts to make clear the relation between configurations of points in a space Y and those in its Cartesian product with the reals. We show that under certain conditions there is an equivalence between C(Y x R^n, X) and the n-th loop space of C(Y,S^n(X)).

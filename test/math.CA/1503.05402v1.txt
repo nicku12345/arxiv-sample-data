@@ -1,0 +1,1 @@
+We introduce a new family of orthogonal polynomials on the disk that has emerged in the context of wave propagation in layered media. Unlike known examples, the polynomials are orthogonal with respect to a measure all of whose even moments are infinite.

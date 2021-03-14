@@ -1,0 +1,1 @@
+We introduce the notion of operadic torsors and operadic quasi-torsors. We show that if an operadic (quasi-)torsor between two operads exists, then these operads are (quasi-)isomorphic. As an application we present the (arguably) shortest known proof of the Deligne conjecture.

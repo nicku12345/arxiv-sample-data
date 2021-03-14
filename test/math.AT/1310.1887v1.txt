@@ -1,0 +1,1 @@
+We give a brief overview of the basics of cooperad theory using a new definition which lends itself to easy example creation and verification. We also apply our definition to build the parenthesization and cosimplicial structures exhibited by cooperads and give examples.

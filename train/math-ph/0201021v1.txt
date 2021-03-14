@@ -1,0 +1,1 @@
+The method of potential envelopes is used to analyse the bound-state spectrum of the Schroedinger Hamiltonian H = -Delta -v/(r+b), where v and b are positive. We established simple formulas yielding upper and lower energy bounds for all the energy eigenvalues.

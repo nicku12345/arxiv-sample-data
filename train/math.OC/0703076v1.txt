@@ -1,0 +1,1 @@
+In this paper, we study a game with positive or plus infinite expectation and determine the optimal proportion of investment for maximizing the limit expectation of growth rate per attempt. With this objective, we introduce a new pricing method in which the price is different from that obtained by the Black-Scholes formula for a European option.

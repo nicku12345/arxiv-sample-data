@@ -1,0 +1,1 @@
+A transitive permutation group of prime degree is doubly transitive or solvable. We give a direct proof of this theorem by Burnside which uses neither S-ring type arguments, nor representation theory.

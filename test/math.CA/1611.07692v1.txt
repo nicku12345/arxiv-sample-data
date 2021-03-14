@@ -1,0 +1,1 @@
+We prove several theorems concerning the exceptional sets of Hilbert transform on the real line. In particular, it is proved that any null set is exceptional set for the Hibert transform of an indicator function. The paper also provides a real variable approach to the Kahane-Katsnelson theorem on divergence of Fourier series.

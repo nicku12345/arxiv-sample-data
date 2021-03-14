@@ -1,0 +1,1 @@
+In this paper we consider the system in \R^3 \label{problemadipartenza0} -\e^2\Delta u+V(x)u+\phi(x)u=u^{p},

@@ -1,0 +1,1 @@
+We investigate the (small) quantum cohomology ring of the moduli spaces of stable n-pointed curves of genus 0. In particular, we determine an explicit presentation in the case n=5 and we outline a computational approach to the case n=6.

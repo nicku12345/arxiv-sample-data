@@ -1,0 +1,1 @@
+Let g be a reductive Lie algebra over a field of characteristic zero. Suppose g acts on a complex of vector spaces M by i_\lambda and L_\lambda, which satisfy the identities as contraction and Lie derivative do for smooth differential forms. Out of this data one defines cohomology of the invariants and equivariant cohomology of M. We establish Koszul duality between each other.

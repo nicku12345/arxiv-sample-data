@@ -1,0 +1,1 @@
+We describe the structure of the different hexagonal grids in dimension d=3, propose short notation for them, investigate the contact numbers of ball packings in these grids and share some computational results up to 200 balls, using mainly the greedy algorithm. We consider the octahedral grid, too.

@@ -1,0 +1,1 @@
+Dilworth's theorem. Every finite distributive lattice D can be represented as the congruence lattice of a finite lattice L. We want: Every finite distributive lattice D can be represented as the congruence lattice of a nice finite lattice L. nice = sectionally complemented, uniform, semimodular, given automorphism group, regular, uniform, isoform

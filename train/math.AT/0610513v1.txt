@@ -1,0 +1,1 @@
+The orbit projection \pi : M \to M/G of a proper G-manifold M is a fibration if and only if all points in M are regular. Under additional assumptions we show that \pi is a quasifibration if and only if all points are regular. We get a full answer in the equivariant category: \pi is a G-quasifibration if and only if all points are regular.

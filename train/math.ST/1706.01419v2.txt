@@ -1,0 +1,1 @@
+Zipf's law states that sequential frequencies of words in a text correspond to a power function. Its probabilistic model is an infinite urn scheme with asymptotically power distribution. The exponent of this distribution must be estimated. We use the number of different words in a text and similar statistics to construct asymptotically normal estimators of the exponent.

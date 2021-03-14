@@ -1,0 +1,1 @@
+We obtain integral boundary decay estimates for solutions of fourth-order elliptic equations on a bounded domain with regular boundary. We apply these estimates to obtain stability bounds for the corresponding eigenvalues under small perturbations of the boundary.

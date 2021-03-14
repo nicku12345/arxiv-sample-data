@@ -1,0 +1,1 @@
+Using Fourier analysis, Covert, Hart, Iosevich and Uriarte-Tuero (2008) showed that if the cardinality of a subset of the 2-dimensional vector space over a finite field with q elements is >= rq^2, with q^{-1/2} << r <= 1 then it contains an isometric copy of >= crq^3 triangles. In this note, we give a graph theoretic proof of this result.

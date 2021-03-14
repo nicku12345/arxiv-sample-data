@@ -1,0 +1,1 @@
+This article studies the zero divisor graphs of the ring of Lipschitz integers modulo n. In particular we focus on the number of vertices, the diameter and the girth. We also give some results regarding the domination number of these graphs.

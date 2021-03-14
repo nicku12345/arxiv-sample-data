@@ -1,0 +1,1 @@
+It is shown that, if all weak solutions of the evolution equation \begin{equation*} y'(t)=Ay(t),\ t\ge0, \end{equation*} with a scalar type spectral operator A in a complex Banach space are Gevrey ultradifferentiable of orders less than one, then the operator A is necessarily bounded.

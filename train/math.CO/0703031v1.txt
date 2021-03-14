@@ -1,0 +1,1 @@
+We extend to Barvinok's valuations the Euler-Maclaurin expansion formula which we obtained previously for the sum of values of a polynomial over the integral points of a rational polytope. This leads to an improvement of Barvinok's polynomial type algorithm for computing the highest coefficients of the corresponding Ehrhart quasi-polynomial.

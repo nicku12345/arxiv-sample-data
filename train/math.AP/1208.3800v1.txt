@@ -1,0 +1,1 @@
+In this paper, we establish an analog of the Beale-Kato-Majda type criterion for singularities of smooth solutions of a hydrodynamic system modeling vesicle and fluid interactions. The result shows that the maximum norm of the vorticity alone controls the breakdown of smooth solutions.

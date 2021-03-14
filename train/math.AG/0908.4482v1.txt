@@ -1,0 +1,1 @@
+Let G = Spec A be an affine K-group scheme and \tilde{A} = \{w \in A*: dim_K A^* \cdot w \cdot A^* < \infty \}. Let < -,-> : A^* \times \tilde{A} \to K, (w,\tilde{w}) := tr(w \tilde{w}), be the trace form. We prove that G is linearly reductive if and only if the trace form is non-degenerate on A^*.

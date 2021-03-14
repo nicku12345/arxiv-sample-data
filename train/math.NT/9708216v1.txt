@@ -1,0 +1,1 @@
+This paper gives additional background in algebraic geometry as an accompaniment to the article, ``Formal Groups, Elliptic Curves, and some Theorems of Couveignes'' [arXiv:math.NT/9708215]. Section 1 discusses the addition law on elliptic curves, and Sections 2 and 3 explain about function fields, uniformizers, and power series expansions with respect to a uniformizer.

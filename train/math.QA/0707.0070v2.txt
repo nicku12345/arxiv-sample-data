@@ -1,0 +1,1 @@
+Let G be a connected, simply connected, simple complex algebraic group and let e be a primitive l-th root of 1, with l odd and 3 does not divide l if G is of type G_{2}. We determine all Hopf algebra quotients of the quantized coordinate algebra of G at e.

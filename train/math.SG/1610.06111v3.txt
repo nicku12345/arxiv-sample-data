@@ -1,0 +1,1 @@
+In this note, we reformulate Donaldson's construction as a compactness result. Approximately holomorphic sections accumulate to "limit holomorphic sections" and uniform transversality properties of the approximately holomorphic sections correspond to transversality properties of their limits.

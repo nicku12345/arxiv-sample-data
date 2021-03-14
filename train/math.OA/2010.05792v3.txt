@@ -1,0 +1,1 @@
+We introduce stabilised property Gamma, a C*-algebraic variant of property Gamma which is invariant under stable isomorphism. We then show that simple separable nuclear C*-algebras with stabilised property Gamma and \mathrm{Cu}(A) \cong \mathrm{Cu}(A \otimes \mathcal{Z}) absorb the Jiang-Su algebra \mathcal{Z} tensorially.

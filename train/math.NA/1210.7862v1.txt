@@ -1,0 +1,1 @@
+We suggest a unified spectrally matched optimal grid approach for finite-difference and finite-element approximation of the PML. The new approach allows to combine optimal discrete absorption for both evanescent and propagative waves.

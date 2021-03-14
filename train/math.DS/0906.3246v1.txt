@@ -1,0 +1,1 @@
+For a mixed (advanced--delay) differential equation with variable delays and coefficients  \dot{x}(t) \pm a(t)x(g(t)) \mp b(t)x(h(t)) = 0, t\geq t_0  where  a(t)\geq 0, b(t)\geq 0, g(t)\leq t, h(t)\geq t  explicit nonoscillation conditions are obtained.

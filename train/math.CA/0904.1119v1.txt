@@ -1,0 +1,1 @@
+We study existence and uniqueness for the classical dynamics of a particle in a force field in the phase space. Through an explicit control on the regularity of the trajectories, we show that this is well posed if the force belongs to the Sobolev space H^{3/4}.

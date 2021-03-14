@@ -1,0 +1,1 @@
+We show that if a graph G of order n contains many copies of a given subgraph H, then it contains a blow-up of H of order log n.

@@ -1,0 +1,1 @@
+We show that if U\subset\partial A is a neighbourhood of a point x_0\in\partial A of the boundary of a convex body A then it has the so-called Stainhaus-type property (the interior of (U+U) is nonempty) if and only if x_0 is not a point of flatness of the boundary~\partial A. This implies that additive functions as well as mid-convex functions, bounded above on~U, are continuous.

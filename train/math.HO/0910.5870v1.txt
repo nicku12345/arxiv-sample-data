@@ -1,0 +1,1 @@
+In order to prove irrationality of \sqrt{2} by using only decimal expansions (and not fractions), we develop in detail a model of real numbers based on infinite decimals and arithmetic operations with them.

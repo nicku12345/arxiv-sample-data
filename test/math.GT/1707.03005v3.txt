@@ -1,0 +1,1 @@
+Given a link L\subset S^3, a representation \pi_1(S^3-L)\to{\rm SL}(2,\mathbb{C}) is {\it trace-free} if it sends each meridian to an element with trace zero. We present a method for completely determining trace-free {\rm SL}(2,\mathbb{C})-representations for arborescent links. Concrete computations are done for a class of 3-bridge arborescent links.

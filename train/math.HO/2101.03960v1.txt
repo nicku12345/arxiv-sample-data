@@ -1,0 +1,1 @@
+Our goal in this work is to present some mean value type theorems that are not studied in classic calculus and analysis courses. They are simple theorems yet with large applicability in mathematical analysis (for example, in the study of functional equations and integral operators), computational mathematics, economics among other areas.

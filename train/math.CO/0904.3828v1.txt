@@ -1,0 +1,1 @@
+First introduced in the study of the Sturmian words, the iterated palindromic closure was recently generalized to pseudopalindromes. This operator allows one to construct words with an infinity of pseudopalindromic prefixes, called pseudostandard words. We provide here several combinatorial properties of the fixed points under the iterated pseudopalindromic closure.

@@ -1,0 +1,1 @@
+The mixing operation for abstract polytopes gives a natural way to construct the minimal common cover of two polytopes. In this paper, we apply this construction to the regular convex polytopes, determining when the mix is again a polytope, and completely determining the structure of the mix in each case.

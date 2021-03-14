@@ -1,0 +1,1 @@
+We show that if G is a finite Abelian group and f is an integer-valued map on G with algebra norm at most M then there is some L < \exp(M^{4+o(1)}), cosets of (possibly different) subgroups W_1,...,W_L, and s_1,...,s_L \in \{-1,1\} such that f=\sum_i{s_i1_{W_i}}.

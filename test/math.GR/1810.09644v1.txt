@@ -1,0 +1,1 @@
+It is known that every torsion-free abelian group of finite rank has a maximal completely decomposable summand that is unique up to isomorphism. We show that groups of infinite rank need not have maximal completely decomposable summands, but when they do, this summand is unique up to isomorphism.

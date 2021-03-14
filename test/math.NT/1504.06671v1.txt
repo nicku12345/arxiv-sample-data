@@ -1,0 +1,1 @@
+We give an algorithm that constructs a minimal set of polynomials defining all extension of a (\pi)-adic field with given, inertia degree, ramification index, discriminant, ramification polygon, and residual polynomials of the segments of the ramification polygon.

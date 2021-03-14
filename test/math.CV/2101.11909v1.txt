@@ -1,0 +1,1 @@
+The growth of meromorphic solutions of linear difference equations containing Askey-Wilson divided difference operators is estimated. The \varphi-order is used as a general growth indicator, which covers the growth spectrum between the logarithmic order \rho_{\log}(f) and the classical order \rho(f) of a meromorphic function f.

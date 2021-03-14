@@ -1,0 +1,1 @@
+This paper contains a discussion of a library of formalized mathematics for the proof assistant Coq which the author worked on in 2011-13.

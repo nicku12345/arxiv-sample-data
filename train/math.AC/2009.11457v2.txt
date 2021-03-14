@@ -1,0 +1,1 @@
+The author introduces a conjecture about Makar-Limanov invariants of affine unique factorization domains over a field of characteristic zero. Then the author finds that the conjecture does not always hold when \mathbbm{k} is not algebraically closed and gives some examples where the conjecture holds.

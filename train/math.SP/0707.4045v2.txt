@@ -1,0 +1,1 @@
+We give upper and lower bounds on the volume of a tubular neighborhood of the nodal set of an eigenfunction of the Laplacian on a real analytic closed Riemannian manifold M. As an application we consider the question of approximating points on M by nodal sets, and explore analogy with approximation by rational numbers.

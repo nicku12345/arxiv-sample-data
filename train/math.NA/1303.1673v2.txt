@@ -1,0 +1,1 @@
+In Noor (2007)[Muhammad Aslam Noor, New iterative schemes for nonlinear equations, Appl. Math. Comput. 187 (2007) 937-943], proposed an algorithm namely \textbf{Algorithm 2.4} and established a proof to show cubic convergence. The presented proof is wrong. In this article, we show that \textbf{Algorithm 2.4} is not cubically convergent.

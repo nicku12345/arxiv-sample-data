@@ -1,0 +1,1 @@
+Each metro line usually has its own color on the map. For obvious reasons, these colors should be maximally different. Suppose a new metro line is built. We now explain a strategy to choose the color or several colors for the new lines, making them as different as possible from both the old ones and each other. This is illustrated by using the Moscow metro map.

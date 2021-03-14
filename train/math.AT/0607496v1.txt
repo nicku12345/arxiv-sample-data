@@ -1,0 +1,1 @@
+For compact hyperbolic 3-manifolds we lift the Bloch invariant defined by Neumann and Yang to an integral class in K_3(C) Applying the Borel and the Bloch regulators, one gets back the volume and the Chern-Simons invariant of the manifold. We also discuss the non-compact case, in which there appears a Z/2-ambiguity.

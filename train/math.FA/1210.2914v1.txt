@@ -1,0 +1,1 @@
+Positive semidefinite matrices partitioned into a small number of Hermitian blocks have a remarkable property. Such a matrix may be written in a simple way from the sum of its diagonal blocks

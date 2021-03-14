@@ -1,0 +1,1 @@
+We compute the V-monoid of a weighted Leavitt path algebra of a row-finite weighted graph, correcting a wrong computation of the V-monoid that exists in the literature. Further we show that the description of K_0 of a weighted Leavitt path algebra that exists in the literature is correct (although the computation was based on a wrong V-monoid description).

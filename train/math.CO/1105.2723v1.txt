@@ -1,0 +1,1 @@
+We show that every graph with two crossings is 5-choosable. We also prove that every graph which can be made planar by removing one edge is 5-choosable.

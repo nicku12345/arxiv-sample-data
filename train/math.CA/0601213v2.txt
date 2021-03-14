@@ -1,0 +1,1 @@
+In a prior work [Hilbert transform along smooth families of lines math.CA/0310345] the authors introduced a variant of the Kakeya maximal function associated with Lipschitz maps from the plane into the unit circle. In this paper, we improve the known estimates for this maximal operator--and raise the conjecture that the bounds established are optimal.

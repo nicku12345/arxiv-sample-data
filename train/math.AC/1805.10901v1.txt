@@ -1,0 +1,1 @@
+We study the set of localizations of an integral domain from a topological point of view, showing that it is always a spectral space and characterizing when it is a proconstructible subspace of the space of all overrings. We then study the same problems in the case of quotient rings, flat overrings and sublocalizations.

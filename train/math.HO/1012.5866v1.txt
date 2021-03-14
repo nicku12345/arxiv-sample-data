@@ -1,0 +1,1 @@
+One of the greatest difficulties encountered by all in their first proof intensive class is subtly assuming an unproven fact in a proof. The purpose of this note is to describe a specific instance where this can occur, namely in results related to unique factorization and the concept of the greatest common divisor.

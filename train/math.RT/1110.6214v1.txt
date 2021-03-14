@@ -1,0 +1,1 @@
+Let (W,S) be a Coxeter system with I\subseteq S such that the parabolic subgroup W_I is finite. Associated to this data there is a \textit{Hecke algebra} \scH and a \textit{parabolic Hecke algebra} \scH^I=\mathbf{1}_I\scH\mathbf{1}_I (over a ring \ZZ[q_s]_{s\in S}). We give a complete classification of the commutative parabolic Hecke algebras across all Coxeter types.

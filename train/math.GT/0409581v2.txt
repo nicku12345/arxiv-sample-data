@@ -1,0 +1,1 @@
+For a torus knot K, we bound the crosscap number c(K) in terms of the genus g(K) and crossing number n(K): c(K) \leq [(g(K)+9)/6] and c(K) \leq [(n(K) + 16)/12]. The (6n-2,3) torus knots show that these bounds are sharp.

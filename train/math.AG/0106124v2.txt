@@ -1,0 +1,1 @@
+We show that Mildenhall's theorem implies that the indecomposable higher Chow group of a self-product of an elliptic curve over the complex number field is infinite dimensional, if the elliptic curve is modular and defined over rational numbers. For the moment we cannot prove even the nontriviality of the indecomposable higher Chow group by a complex analytic method in this case.

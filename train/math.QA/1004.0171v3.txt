@@ -1,0 +1,1 @@
+We give a unified construction of quantum groups, q-Boson algebras and quantized Weyl algebras and an action of quantum groups on quantized Weyl algebras. This enables us to give a conceptual proof of the semi-simplicity of the category \mathcal{O}(B_q) introduced by T.Nakashima and the classification of all simple objects in it.

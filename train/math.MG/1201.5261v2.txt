@@ -1,0 +1,1 @@
+We compute the hyperbolic covolume of the automorphism group of each even unimodular Lorentzian lattice. The result is obtained as a consequence of a previous work with Belolipetsky, which uses Prasad's volume to compute the volumes of the smallest hyperbolic arithmetic orbifolds.

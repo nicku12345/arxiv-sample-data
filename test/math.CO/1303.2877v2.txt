@@ -1,0 +1,1 @@
+Given a norm on the plane and 2013 unit vectors in this norm, there is a signed sum of these vectors whose norm is at most one.

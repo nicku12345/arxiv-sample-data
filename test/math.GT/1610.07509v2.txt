@@ -1,0 +1,1 @@
+Along with excursions into manifolds with corners, resolution towers of Thom and Whitney stratifications, I show that for a generic gradientlike vector field on a manifold with a Morse function, the stable manifolds give a CW decomposition of the manifold. This has been done before.

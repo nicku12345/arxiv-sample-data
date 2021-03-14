@@ -1,0 +1,1 @@
+Given a unipotent bundle of smooth manifolds we construct its secondary transfer map and show that this map determines the higher smooth torsion of the bundle. This approach to higher torsion provides a new perspective on some of its properties. In particular it yields in a natural way a formula for torsion of a composition of two bundles.

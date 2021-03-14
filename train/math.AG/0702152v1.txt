@@ -1,0 +1,1 @@
+Given a Fourier-Mukai transform \Phi between the bounded derived categories of two smooth projective curves, we verifiy that the induced map between the Jacobian varieties preserves the principal polarization if and only if \Phi is an equivalence.

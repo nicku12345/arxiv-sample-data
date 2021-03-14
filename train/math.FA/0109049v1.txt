@@ -1,0 +1,1 @@
+We constructed a unitary semigroup (e^{tA})_{t \geq 0} on a Hilbert space and an orthogonal projection P such that the limit \lim_{n \to \infty} [ e^{\frac{t}{n}A}P ]^n does not exist strongly. A similar example with a positive contractive semigroup and positive contractive projection on L_p is also constructed.

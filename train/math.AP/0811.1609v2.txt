@@ -1,0 +1,1 @@
+We obtain a pointwise, a priori bound for the vorticity of axis symmetric solutions to the 3 dimensional Navier-Stokes equations. The bound is in the form of a reciprocal of a power of the distance to the axis of symmetry. This seems to be the first general pointwise estimate established for the axis symmetric Navier-Stokes equations.

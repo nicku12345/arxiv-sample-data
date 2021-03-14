@@ -1,0 +1,1 @@
+We formulate and prove a lattice version of the Atiyah-Singer index theorem. The main theorem gives a K-theoretic formula for an index-type invariant of operators on lattice approximations of closed integral affine manifolds. We apply the main theorem to an index problem of Wilson-Dirac operators in lattice gauge theory.

@@ -1,0 +1,1 @@
+We work to find a basis of graded identities for the octonion algebra. We do so for the \mathbb{Z}_2^2 and \mathbb{Z}_2^3 gradings, both of them derived of the Cayley-Dickson process, the later grading being possible only when the characteristic of the scalars is not two.

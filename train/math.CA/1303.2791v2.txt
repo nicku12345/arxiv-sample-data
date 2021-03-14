@@ -1,0 +1,1 @@
+We study the relationship between stable sampling sequences for bandlimited functions in L^p(\R^n) and the Fourier multipliers in L^p. In the case that the sequence is a lattice and the spectrum is a fundamental domain for the lattice the connection is complete. In the case of irregular sequences there is still a partial relationship.

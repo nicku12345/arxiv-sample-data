@@ -1,0 +1,1 @@
+Let g(x)=\chi_B(x) be the indicator function of a bounded convex set in \Bbb R^d, d\geq 2, with a smooth boundary and everywhere non-vanishing Gaussian curvature. Using a combinatorial appraoch we prove that if d \neq 1 \mod 4, then there does not exist S \subset {\Bbb R}^{2d} such that { \{g(x-a)e^{2 \pi i x \cdot b} \}}_{(a,b) \in S} is an orthonormal basis for L^2({\Bbb R}^d).

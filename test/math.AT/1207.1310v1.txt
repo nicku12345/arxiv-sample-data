@@ -1,0 +1,1 @@
+We develop a new route through which to explore \ker\Psi_X, the kernel of the \pi_1-shape group homomorphism determined by a general space X, and establish, for each locally path connected, paracompact Hausdorff space X, \ker\Psi_X is precisely the Spanier group of X.

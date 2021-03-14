@@ -1,0 +1,1 @@
+We define 2-gerbes bound by complexes of braided group-like stacks. We prove a classification result in terms of hypercohomology groups with values in abelian crossed squares and cones of morphisms of complexes of length 3. We give an application to the geometric construction of certain elements in Hermitian Deligne cohomology groups.

@@ -1,0 +1,1 @@
+The main result of this paper is a complete classification of the outer automorphism groups of two-generator, one-relator groups with torsion. To this classification we apply recent algorithmic results of Dahmani--Guirardel, which yields an algorithm to compute the isomorphism class of the outer automorphism group of a given two-generator, one-relator group with torsion.

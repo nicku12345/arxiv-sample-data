@@ -1,0 +1,1 @@
+Given 0 < s < 1, I prove that there exists a constant \epsilon = \epsilon(s) > 0 such that the following holds. Let K \subset \mathbb{R}^{2} be a Borel set with \mathcal{H}^{1}(K) > 0, and let E_{s}(K) \subset S^{1} be the collection of unit vectors e such that \dim_{\mathrm{p}} \pi_{e}(K) \leq s. Then \dim_{\mathrm{H}} E_{s}(K) \leq s - \epsilon.

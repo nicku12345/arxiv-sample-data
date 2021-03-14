@@ -1,0 +1,1 @@
+This paper studies an algorithm similar to that of Gaussian elimination in symplectic and orthogonal groups. We discuss two applications of this algorithm in computational group theory. One computes the spinor norm and the other computes the double coset decomposition with respect to Siegel maximal parabolic subgroup.

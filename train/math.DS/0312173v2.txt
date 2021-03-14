@@ -1,0 +1,1 @@
+In this note we construct measures of maximal entropy for a certain class of maps with critical points called Viana maps. The main ingredients of the proof are the non-uniform expansion features and the slow recurrence (to the critical set) of generic points with respect to the natural candidates for attaining the topological entropy.

@@ -1,0 +1,1 @@
+We show that the probability that two permutations of n letters have the same number of cycles is \[\sim \frac{1}{2\sqrt{\pi\log{n}}}.\]

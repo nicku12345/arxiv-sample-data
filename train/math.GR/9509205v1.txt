@@ -1,0 +1,1 @@
+This article presents a combinatorial result on indexed languages which was inspired by an attempt to understand the structure of groups with indexed language word problem. We show that a sufficiently long word in an indexed language can be written as a product of a uniformly bounded number of terms in such a way that some proper subproduct belongs to the language.

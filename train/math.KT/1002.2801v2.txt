@@ -1,0 +1,1 @@
+In this note we show that similar to the classical case the ring of representations of symmetric groups in a tensor derived category is certain ring of symmetric functions. We also show that in the general setting considered here, the Adams operations compute the characteristic series associated to powers of endomorphisms.

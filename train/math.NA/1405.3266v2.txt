@@ -1,0 +1,1 @@
+The novel Riemannian view on shape optimization developed in [Schulz, FoCM, 2014] is extended to a Lagrange-Newton approach for PDE constrained shape optimization problems. The extension is based on optimization on Riemannian vector space bundles and exemplified for a simple numerical example.

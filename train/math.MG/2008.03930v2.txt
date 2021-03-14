@@ -1,0 +1,1 @@
+Kohlenbach and Leustean have shown in 2010 that any asymptotically nonexpansive self-mapping of a bounded nonempty UCW-hyperbolic space has a fixed point. In this paper, we adapt a construction due to Moloney in order to provide a sequence that converges strongly to such a fixed point.

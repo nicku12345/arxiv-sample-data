@@ -1,0 +1,1 @@
+We show that, if f is a homeomorphism of the 2--torus isotopic to the identity, and its lift \widetilde f is transitive, or even if it is transitive outside of the lift of the elliptic islands, then (0,0) is in the interior of the rotation set of \widetilde f. This proves a particular case of Boyland's conjecture.

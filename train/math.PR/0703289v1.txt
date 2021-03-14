@@ -1,0 +1,1 @@
+A moderate deviation principle for nonlinear functions of Gaussian processes is established. The nonlinear functions need not be locally bounded. Especially, the logarithm is allowed. (Thus, small deviations of the process are relevant.) Both discrete and continuous time is treated. An integrable power-like decay of the correlation function is assumed.

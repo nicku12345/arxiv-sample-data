@@ -1,0 +1,1 @@
+We study the global spectrum fluctuations for \beta-Hermite and \beta-Laguerre ensembles via the tridiagonal matrix models introduced in \cite{dumitriu02}, and prove that the fluctuations describe a Gaussian process on monomials. We extend our results to slightly larger classes of random matrices.

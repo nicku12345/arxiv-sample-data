@@ -1,0 +1,1 @@
+Let E be a C*-correspondence over a C*-algebra \A with non-degenerate faithful left action. We show that E admits sufficiently many essential representations (i.e. representations \psi such that \psi(E)H = H to recover the Cuntz-Pimsner algebra O_E.

@@ -1,0 +1,1 @@
+We prove that if \Omega is a simply connected quadrature domain for a distribution with compact support and the infinity point belongs the boundary, then the boundary has an asymptotic curve that is either a straight line or a parabola or an infinite ray. In other words, unbounded quadrature domains in the plane are perturbations of null quadrature domains.

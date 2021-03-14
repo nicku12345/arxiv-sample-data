@@ -1,0 +1,1 @@
+For a double complex (A, d', d''), we show that if it satisfies the d'd''-lemma and the spectral sequence \{E^{p, q}_r\} induced by A does not degenerate at E_0, then it degenerates at E_1. We apply this result to prove the degeneration at E_1 of a Hodge-de Rham spectral sequence on compact bi-generalized Hermitian manifolds that satisfy a version of d'd''-lemma.

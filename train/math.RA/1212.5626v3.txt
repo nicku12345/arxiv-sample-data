@@ -1,0 +1,1 @@
+Let p be a prime. We complete the classification on pointed Hopf algebras of dimension p^2 over an algebraically closed field k. When \text{char}k \neq p, our result is the same as the well-known result for \text{char}k=0. When \text{char}k=p, we obtain 14 types of pointed Hopf algebras of dimension p^2, including a unique noncommutative and noncocommutative type.

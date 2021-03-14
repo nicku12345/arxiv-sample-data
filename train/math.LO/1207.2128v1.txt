@@ -1,0 +1,1 @@
+It is shown that the power set of \k ordered by the subset relation modulo various versions of the non-stationary deal can be embedded into the partial order of Borel equivalence relations on 2^\k under Borel reducibility. Here \k is uncountable regular cardinal with \k^{<\k}=\k.

@@ -1,0 +1,1 @@
+A bounded operator T in a Banach space X is said to satisfy the essential descent spectrum equality, if the descent spectrum of T as an operator on X coincides with the essential descent spectrum of T. In this note, we give some conditions under which the equality \sigma_{desc}(T) = \sigma^e_{desc}(T) holds for a single operator T.

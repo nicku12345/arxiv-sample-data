@@ -1,0 +1,1 @@
+An identity s=t is linear if each variable occurs at most once in each of the terms s and t. Let T be a tolerance relation of an algebra A in a variety defined by a set of linear identities. We prove that there exist an algebra B in the same variety and a congruence Theta of B such that a homomorphism from B onto A maps Theta onto T.

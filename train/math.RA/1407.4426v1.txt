@@ -1,0 +1,1 @@
+We describe a algorithms and their implementations that calculate local and global Schur indices of ordinary irreducible characters of finite groups, cyclotomic algebras over abelian number fields, and rational quaternion algebras. These functions are available with the latest release of the GAP package wedderga, versions 4.6 and higher.

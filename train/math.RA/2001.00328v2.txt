@@ -1,0 +1,1 @@
+Let n\in {\Bbb N}. An element a\in R has generalized n-strongly Drazin inverse if there exists x\in R such that xax=x, x\in comm^2(a), a^n-ax\in R^{qnil}. For any a,b\in R, we prove that 1-ab has generalized n-strongly Drazin inverse if and only if 1-ba has generalized n-strongly Drazin inverse. Extensions in Banach algebra are also obtained.

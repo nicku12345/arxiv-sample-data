@@ -1,0 +1,1 @@
+For ordinary differential equations in the complex domain, a central problem is to understand, in a given equation or class of equations, those whose solutions do not present multivaluedness. We consider autonomous, first-order, quadratic homogeneous equations in three variables, and begin the classification of those which do not have multivalued solutions.

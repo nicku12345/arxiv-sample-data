@@ -1,0 +1,1 @@
+We are concerned with the behavior of the polynomial maps F=(P,Q) of \mathbb{C}^2 with finite fibres and satisfying the condition that all of the curves aP+bQ=0, (a:b)\in \mathbb{P}^1, are irreducible rational curves. The obtained result shows that such polynomial maps F is invertible if (0,0) is a regular value of F or if the Jacobian condition holds.

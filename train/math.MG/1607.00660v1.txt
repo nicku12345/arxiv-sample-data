@@ -1,0 +1,1 @@
+Tile the unit square with n small squares. We determine the minimum of the sum of the side lengths of the n small squares, where the minimum is taken over all tilings of the unit square with n squares.

@@ -1,0 +1,1 @@
+We give an expository account of Nullstellensatz-like results when the base field is finite. In particular, we discuss the vanishing ideal of the affine space and of the projective space over a finite field. As an application, we include an alternative proof of Ore's inequality for the number of points of affine hypersurfaces over finite fields.

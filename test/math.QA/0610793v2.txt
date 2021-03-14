@@ -1,0 +1,1 @@
+We verify in an elementary way a result of Peterson for the maximal orthogonal and Lagrangian Grassmannians, and then find Vafa-Intriligator type formulas which compute their 3-point, genus zero Gromov-Witten invariants. Finally we study total positivity of the related Peterson varieties and show that Rietsch's conjecture about the total positivity holds for these cases.

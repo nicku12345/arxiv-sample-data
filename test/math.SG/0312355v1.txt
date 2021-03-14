@@ -1,0 +1,1 @@
+In a 1992 paper, Witten gave a formula for the intersection pairings of the moduli space of flat G-bundles over an oriented surface, possibly with markings. In this paper, we give a general proof of Witten's formula, for arbitrary compact, simple groups, and any markings for which the moduli space has at most orbifold singularities.

@@ -1,0 +1,1 @@
+For any finite dimensional C^*-algebra A, we give an endomorphism \Phi of the hyperfinite II_1 factor R of finite Jones index such that: for all k \in \mathbb {N}, \Phi^k (R)' \cap R= \otimes^k A. The Jones index [R: \Phi (R)]= (rank (A))^2, here rank (A) is the dimension of the maximal abelian subalgebra of A.

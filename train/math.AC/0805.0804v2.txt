@@ -1,0 +1,1 @@
+Let R be local Noetherian ring of depth at least two. We prove that there are indecomposable R-modules which are free on the punctured spectrum of constant, arbitrarily large, rank.

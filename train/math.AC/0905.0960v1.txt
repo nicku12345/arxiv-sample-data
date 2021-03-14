@@ -1,0 +1,1 @@
+Let S=K[x_1,x_2,...,x_n] be a polynomial ring in n variables over a field K. Stanley's conjecture holds for the modules I and S/I, when I is a critical monomial ideal. We calculate the Stanley depth of S/I when I is a canonical critical monomial ideal. For non critical monomial ideals we show the existence of a Stanley ideal with the same depth and Hilbert function.

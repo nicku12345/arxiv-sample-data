@@ -1,0 +1,1 @@
+It is known that there exist 32 triplets of circles such that each circle is tangent to the other two circles and to two of the sides of the triangle or their extensions. We provide formulae to obtain the radii of the circles for each of the 32 triplets from the side lengths of the reference triangle by means of trigonometric or hyperbolic functions.

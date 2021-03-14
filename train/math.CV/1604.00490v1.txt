@@ -1,0 +1,1 @@
+Let f be a real polynomial of x = (x_1,\dots,x_n) and \varphi be a locally integrable function of x which satisfies a holonomic system of linear differential equations. We study the distribution f_+^\lambda\varphi with a meromorphic parameter \lambda, especially its Laurent expansion and integration, from an algorithmic viewpoint in the framework of D-module theory.

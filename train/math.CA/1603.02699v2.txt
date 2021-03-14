@@ -1,0 +1,1 @@
+This paper provides a constructive proof of the weak factorizations of the classical Hardy space H^1(\mathbb{R}^n) in terms of multilinear Riesz transforms. As a direct application, we obtain a new proof of the characterization of {\rm BMO}(\mathbb{R}^n) (the dual of H^1(\mathbb{R}^n)) via commutators of the multilinear Riesz transforms.

@@ -1,0 +1,1 @@
+We establish exponential localization for a two-particle Anderson model in a Euclidean space {\mathbb R}^{d}, d\ge 1, in presence of a non-trivial short-range interaction and a random external potential of the alloy type. Specifically, we prove that all eigenfunctions with eigenvalues near the lower edge of the spectrum decay exponentially in L^2-norm.

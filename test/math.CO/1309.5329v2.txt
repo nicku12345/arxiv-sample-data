@@ -1,0 +1,1 @@
+A result of Seymour implies that any 3-connected matroid with a modular 3-point line is binary. We prove a similar characterization for 3-connected matroids with modular 4-point lines. We show that such a matroid is either representable over GF(3) or GF(4) or has an F_7-minor and either an (F_7^-)- or (F_7^-)^*-minor.

@@ -1,0 +1,1 @@
+The main results of the paper points out the connection between the weak ordered relations and factor lattices defined by tolerances. It is proved that for any tolerance T of a lattice L the Dedekind-Mac Neille completion of L/T is isomorphic to the concept lattice \mathcal{L}(L,L,R) of the context (L,L,R), where R:=\ \leq \circ T\circ \leq .

@@ -1,0 +1,1 @@
+In this note, we correct an error in arXiv:1702.04949 by adding an additional assumption of join completeness. We demonstrate with examples why this assumption is necessary, and discuss how join completeness relates to other properties of a skew lattice.

@@ -1,0 +1,1 @@
+We show that if (M,\tensor,I) is a monoidal model category then \REnd_M(I) is a (weak) 2-monoid in \sSet. This applies in particular when M is the category of A-bimodules over a simplicial monoid A: the derived endomorphisms of A then form its Hochschild cohomology, which therefore becomes a simplicial 2-monoid.

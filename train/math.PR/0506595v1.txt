@@ -1,0 +1,1 @@
+We study the influence of a multiplicative Gaussian noise, white in time and correlated in space, on the blow-up phenomenon in the supercritical nonlinear Schrodinger equation. We prove that any sufficiently regular and localized deterministic initial data gives rise to a solution which blows up in arbitrarily small time with a positive probability.

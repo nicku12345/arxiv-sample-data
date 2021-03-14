@@ -1,0 +1,1 @@
+Two successive generalizations of the usual tensor products are given. One can be constructed for arbitrary binary operations, and not only for semigroups, groups or vector spaces. The second one, still more general, is constructed for arbitrary generators on sets.

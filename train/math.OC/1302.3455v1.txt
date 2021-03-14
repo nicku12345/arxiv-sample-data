@@ -1,0 +1,1 @@
+In this paper we consider non convex control problems of stochastic differential equations driven by relaxed controls. We present existence of optimal controls and then develop necessary conditions of optimality. We cover both continuous diffusion and Jump processes.

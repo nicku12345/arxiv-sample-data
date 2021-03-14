@@ -1,0 +1,1 @@
+Many sub-Riemannian manifolds like the Heisenberg group do not admit bi- Lipschitz embedding into any Euclidean space. In contrast, the Grushin plane admits a bi-Lipschitz embedding into some Euclidean space. This is done by extending a bi-Lipschitz embedding of the singular line, using a Whitney decomposition of its complement.

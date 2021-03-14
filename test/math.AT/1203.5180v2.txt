@@ -1,0 +1,1 @@
+We show that for an m-connected cell complex X the space exp_k X of non-empty subsets of X of cardinality at most k is (m + k - 2)-connected

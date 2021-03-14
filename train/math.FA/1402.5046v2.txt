@@ -1,0 +1,1 @@
+For operators on Hilbert spaces of any dimension, we show that equivalence after extension coincides with equivalence after one-sided extension, thus obtaining a proof of their coincidence with Schur coupling. We also provide a concrete description of this equivalence relation in several cases, in particular for compact operators.

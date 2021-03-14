@@ -1,0 +1,1 @@
+Given a prime p, we construct a permutation group containing at least p^{p-2} non-conjugated regular elementary abelian subgroups of order p^3. This gives the first example of a permutation group with exponentially many non-conjugated regular subgroups.

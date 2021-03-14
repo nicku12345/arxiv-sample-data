@@ -1,0 +1,1 @@
+In this article, we compute the braid monodromy of two algebraic curves defined over R. These two curves are of complex level not bigger than 6, and they are unions of lines and conics. We use two different techniques for computing their braid monodromies. These results will be applied to computations of fundamental groups of their complements in C^2 and C PP^2.

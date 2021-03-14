@@ -1,0 +1,1 @@
+For any odd prime p, we prove that the induced homomorphism from the mod p cohomology of the classifying space of a compact simply-connected simple connected Lie group to the Weyl group invariants of the mod p cohomology of the classifying space of its maximal torus is an epimorphism except for the case p=3, G=E_8.

@@ -1,0 +1,1 @@
+We give an obstruction for lifts and extensions in a model category inspired by Klein and Williams' work on intersection theory. In contrast to the familiar obstructions from algebraic topology, this approach produces a single invariant that is complete in the presences of the appropriate generalizations of dimension and connectivity assumptions.

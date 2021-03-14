@@ -1,0 +1,1 @@
+Let K be a number field and let A be its ring of integers. Let G be a connected, noncommutative, absolutely almost simple algebraic K-group. If the K-rank of G equals 2, then G(A[t]) is not finitely presented.

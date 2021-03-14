@@ -1,0 +1,1 @@
+In this paper we derive an explicit lower bound on the volume of a hyperbolic n-orbifold for dimensions greater than or equal to four. Our main tool is H. C. Wang's bound on the radius of a ball embedded in the fundamental domain of a discrete subgroup of a semisimple Lie group.

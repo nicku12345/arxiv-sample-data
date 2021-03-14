@@ -1,0 +1,1 @@
+We study formal counterparts of Hurewicz fibrations and related topological notions in elementary toposes with NNO. The constructions are based on a specific notion of interval and lead to a structure of category of fibrant objects on toposes equipped with such a datum. We get in fact slightly more as the building blocks are derived from a weak factorisation system.

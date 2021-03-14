@@ -1,0 +1,1 @@
+Given a pure binomial ideal I in variables x_i, we define a new measure of the complexity of the saturation of I with respect to the product of the variables x_i, which we call the norm. We give a bound on the norm in terms of easily-computed invariants of the ideal. We discuss statistical applications both practical and theoretical.

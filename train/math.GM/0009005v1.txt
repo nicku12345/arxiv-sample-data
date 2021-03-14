@@ -1,0 +1,1 @@
+Poincare had conjectured that the fact that closed loops could be shrunk to points on a surface topologically equivalent to the surface of a sphere can be generalised to three (and more) dimensions. After nearly a century the conjecture has remained unproven. We given arguments below to show that the conjecture doesn't work in three dimensions.

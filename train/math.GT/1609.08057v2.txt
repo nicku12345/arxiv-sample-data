@@ -1,0 +1,1 @@
+It is well known that the Blanchfield pairing of a knot can be expressed using Seifert matrices. In this paper, we compute the Blanchfield pairing of a colored link with non-zero Alexander polynomial. More precisely, we show that the Blanchfield pairing of such a link can be written in terms of generalized Seifert matrices which arise from the use of C-complexes.

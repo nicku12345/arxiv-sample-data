@@ -1,0 +1,1 @@
+We develop self-adjoint extensions of the l=1 radial part of the Laplace operator in a special scalar product. The product arises as the transfer of the plain product from R^3 into the set of functions parametrizing one of the two components of the transverse vector field. The similar extensions are treated for the square of inverse operator of the radial part in question.

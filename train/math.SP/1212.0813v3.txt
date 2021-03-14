@@ -1,0 +1,1 @@
+The present paper is concerned with strong stability of solutions of non-autonomous equations of the form \dot u(t)=A(t)u(t), where A(t) is an unbounded operator in a Banach space depending almost periodically on t. A general condition on strong stability is given in terms of Perron conditions on the solvability of the associated inhomogeneous equation.

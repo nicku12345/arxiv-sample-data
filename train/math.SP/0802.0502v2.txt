@@ -1,0 +1,1 @@
+We give the Jordan form and the Singular Value Decomposition for an integral operator {\cal N} with a non-symmetric kernel N(y,z). This is used to give solutions of Fredholm equations for non-symmetric kernels, and to determine the behaviour of {\cal N}^n and ({\cal N}{\cal N^*})^n for large n.

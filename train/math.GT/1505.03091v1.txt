@@ -1,0 +1,1 @@
+This paper establishes that sutured annular Khovanov homology is not invariant for braid closures under axis-preserving mutations. This follows from an explicit relationship between sutured annular Khovanov homology and the classical Burau representation for braid closures.

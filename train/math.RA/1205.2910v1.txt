@@ -1,0 +1,1 @@
+Poisson superalgebras are known as a \mathbb{Z}_2-graded vector space with two operations, an associative supercommutative multiplication and a super bracket tied up by the super Leibniz relation. We show that we can consider a single nonassociative multiplication containing all these datas and then consider Poisson superalgebras as non associative algebras.

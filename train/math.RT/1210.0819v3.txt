@@ -1,0 +1,1 @@
+We show that a persistence module (for a totally ordered indexing set) consisting of finite-dimensional vector spaces is a direct sum of interval modules. The result extends to persistence modules with the descending chain condition on images and kernels.

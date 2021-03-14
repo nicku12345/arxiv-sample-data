@@ -1,0 +1,1 @@
+A connected 3-valent plane graph, whose faces are q- or 6-gons only, is called a {\em graph q_n}. We classify all graphs 4_n, which are isometric subgraphs of a m-hypercube H_m.

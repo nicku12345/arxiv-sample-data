@@ -1,0 +1,1 @@
+We present a different way to study the C*-algebra associated with an injective endomorphism of a group G of infinite cokernel. We follow the work of Boava and Exel to construct a partial crossed product representation of that C*-algebra and show properties only using such tools.

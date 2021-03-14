@@ -1,0 +1,1 @@
+Recently Bassa, Garcia and Stichtenoth constructed a tower of function fields over GF(q^3) having many rational places relative to their genera. We show that, by removing the bottom field from this tower, we obtain the same tower we would obtain by removing certain fields from a tower constructed previously by Bezerra, Garcia and Stichtenoth.

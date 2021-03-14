@@ -1,0 +1,1 @@
+In this paper, we prove that, if Deligne's "petites camarades conjecture" holds, then a Langlands type correspondence holds also for p-adic coefficients on a smooth curve over a finite field. We also prove that any overconvergent F-isocrystal of rank less than or equal to 2 on a smooth variety is \iota-mixed.

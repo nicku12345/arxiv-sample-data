@@ -1,0 +1,1 @@
+We show that by cutting off the vertices and then the edges of neighborly cubical polytopes, one obtains simple 4-dimensional polytopes with n vertices such that all separators of the graph have size at least \Omega(n/\log^{3/2}n). This disproves a conjecture by Kalai from 1991/2004.

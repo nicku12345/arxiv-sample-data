@@ -1,0 +1,1 @@
+An ordinal-valued metric taking its values in the set of all countable ordinals can be assigned to a metrizable set of nodes in a transfinite graph. Then, a variety of results concerning nodal eccentricities, radii, diameters, centers, peripheries, and blocks can be extended to transfinite graphs.

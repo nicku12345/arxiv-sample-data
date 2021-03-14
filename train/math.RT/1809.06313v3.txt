@@ -1,0 +1,1 @@
+We show that a gentle algebra over a field is \tau-tilting finite if and only if it is representation-finite. The proof relies on the "brick-\tau-tilting correspondence" of Demonet-Iyama-Jasso and on a combinatorial analysis.

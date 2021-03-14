@@ -1,0 +1,1 @@
+In this paper we give the first method for constructing n-multimagic squares (and hypercubes) for any n. We give an explicit formula in the case of squares and an effective existence proof in the higher dimensional case. Finally we prove that n-multimagic squares do not exist for certain orders.

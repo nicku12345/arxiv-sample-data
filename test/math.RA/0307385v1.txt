@@ -1,0 +1,1 @@
+It is proved that the exchange property, the Bass stable rank and the quasi-Bass property are all preserved under surjective inverse limits. This is then applied to multiplier rings by showing that in many cases can be obtained as inverse limits.

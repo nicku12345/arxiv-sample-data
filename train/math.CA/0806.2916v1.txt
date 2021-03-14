@@ -1,0 +1,1 @@
+Given a compact set S and a uniformly discrete sequence \La, we show that "approximate interpolation" of delta--functions on \La by a bounded sequence of L^2-functions with spectra in S implies an estimate on measure of S through the density of \La.

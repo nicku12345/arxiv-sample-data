@@ -1,0 +1,1 @@
+Let X be a minuscule homogeneous space, an odd quadric, or an adjoint homogenous space of type different from A and G_2. Le C be an elliptic curve. In this paper, we prove that for d large enough, the scheme of degree d morphisms from C to X is irreducible, giving an explicit lower bound for d which is optimal in many cases.

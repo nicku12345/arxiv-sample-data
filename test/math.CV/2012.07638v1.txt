@@ -1,0 +1,1 @@
+In this paper we determine the disks |z|<r\le1 where for different classes of univalent functions, we have the property {\rm Re}\left\{2\frac{zf'(z)}{f(z)}-\frac{z f''(z)}{f'(z)}\right\}>0\qquad (|z|<r).

@@ -1,0 +1,1 @@
+We prove that the Pauli representation of the quantum permutation algebra A_s(4) is faithful. This provides the second known model for a free quantum algebra. We use this model for performing some computations, with the main result that at the level of laws of diagonal coordinates, the Lebesgue measure appears between the Dirac mass and the free Poisson law.

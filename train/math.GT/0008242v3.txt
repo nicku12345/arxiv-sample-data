@@ -1,0 +1,1 @@
+We compute the maximal Thurston-Bennequin number for a Legendrian two-bridge knot or oriented two-bridge link in standard contact R^3, by showing that the upper bound given by the Kauffman polynomial is sharp. As an application, we present a table of maximal Thurston-Bennequin numbers for prime knots with nine or fewer crossings.

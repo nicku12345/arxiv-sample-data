@@ -1,0 +1,1 @@
+We provide a simple method for the calculation of the terms c_n in the Zassenhaus product e^{a+b}=e^a e^b \prod_{n=2}^{\infty} e^{c_n} for non-commuting a and b. This method has been implemented in a computer program. Furthermore, we formulate a conjecture on how to translate these results into nested commutators. This conjecture was checked up to order n=17 using a computer.

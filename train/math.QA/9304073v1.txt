@@ -1,0 +1,1 @@
+A covariant - tensor method for SU(2)_{q} is described. This tensor method is used to calculate q - deformed Clebsch - Gordan coefficients. The connection with covariant oscillators and irreducible tensor operators is established. This approach can be extended to other quantum groups.

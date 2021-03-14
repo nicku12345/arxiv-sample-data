@@ -1,0 +1,1 @@
+For an analytic function f(z)=z+\sum_{n=2}^\infty a_n z^n satisfying the inequality \sum_{n=2}^\infty n(n-1)|a_n|\leq \beta, sharp bound on \beta is determined so that f is either starlike or convex of order \alpha. Several other coefficient inequalities related to certain subclasses are also investigated.

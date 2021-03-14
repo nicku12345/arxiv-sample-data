@@ -1,0 +1,1 @@
+We show that all nontrivial embeddings of planar graphs on the torus contain a nontrivial knot or a nonsplit link. This is equivalent to showing that no minimally knotted planar spatial graphs on the torus exist that contain neither a nontrivial knot nor a nonsplit link all of whose components are unknots.

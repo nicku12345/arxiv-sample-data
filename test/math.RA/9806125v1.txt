@@ -1,0 +1,1 @@
+For a field K of the second kind with respect to 2 and of characteristic different from 2, we consider the decomposition of the binomials x^{2^n} - a into a product of irreducible factors over K and find the explicit form of the minimal idempotents of the twisted group algebra K^t< g> of a cyclic 2-group <g> over K.

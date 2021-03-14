@@ -1,0 +1,1 @@
+We study the de-equivariantization of a Hopf algebra by an affine group scheme and we apply Tannakian techniques in order to realize it as the tensor category of comodules over a coquasi-bialgebra. As an application we construct a family of coquasi-Hopf algebras A(H,G,\Phi) attached to a coradically-graded pointed Hopf algebra H and some extra data.

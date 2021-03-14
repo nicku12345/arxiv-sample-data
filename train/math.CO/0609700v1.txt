@@ -1,0 +1,1 @@
+We present a simple a bijection between permutations of \{1,..., n\} with k descents and permutation tableaux of length n with k columns.

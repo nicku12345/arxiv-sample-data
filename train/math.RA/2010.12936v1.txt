@@ -1,0 +1,1 @@
+An algebra is said to be a unary Leibniz algebra if every one-generated subalgebra is a Leibniz algebra. An algebra is said to be a binary Leibniz algebra if every two-generated subalgebra is a Leibniz algebra. We give characterizations of unary and binary Leibniz algebras in terms of identities.

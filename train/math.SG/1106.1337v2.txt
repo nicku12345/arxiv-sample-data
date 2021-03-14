@@ -1,0 +1,1 @@
+We prove that stationary Gromov-Witten invariants of \bp^1 arise as the Eynard-Orantin invariants of the spectral curve x=z+1/z, y=\ln{z}. As an application we show that tautological intersection numbers on the moduli space of curves arise in the asymptotics of large degree Gromov-Witten invariants of \bp^1.

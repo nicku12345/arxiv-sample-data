@@ -1,0 +1,1 @@
+We prove that the restriction of a probability measure invariant under a nonhyperbolic, ergodic and totally irreducible automorphism of a compact connected abelian group to the leaves of the central foliation is severely restricted. We also prove a topological analogue of this result: the intersection of every proper closed invariant subset with each central leaf is compact.

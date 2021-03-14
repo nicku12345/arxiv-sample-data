@@ -1,0 +1,1 @@
+Contrary to the customary view that the celebrated Nash-equilibrium theorem in Game Theory is paradigmatic for non-cooperative games, it is shown that, in fact, it is essentially based on a particularly strong cooperation assumption. Furthermore, in practice, this cooperation assumption is simply unrealistic.

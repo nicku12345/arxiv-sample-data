@@ -1,0 +1,1 @@
+We prove that given a family of strictly pseudoconvex domains varying in C2 topology on domains, there exists a continuously varying family of exposing maps for all boundary points of all domains.

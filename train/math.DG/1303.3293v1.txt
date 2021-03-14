@@ -1,0 +1,1 @@
+We prove that if M is a complete hypersurface in \mathbb{R}^{n+1} which is graph of a real radial function, then the spectrum of the Laplace operator on M is the interval [0,\infty).

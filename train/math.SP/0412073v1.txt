@@ -1,0 +1,1 @@
+The very old problem of extracting frequencies from time signals is addressed in the case of signals that are very short as compared to their intrinsic time scales. The solution of the problem is not only important to the classic signal processing but also helps to disqualify several common formulations of the quantum mechanical time-energy uncertainty principle.

@@ -1,0 +1,1 @@
+We calculate the generating functions for the number of tilings of rectangles of various widths by the right tromino, the L tetromino, and the T tetromino. This allows us to place lower bounds on the entropy of tilings of the plane by each of these. For the T tetromino, we also derive a lower bound from the solution of the Ising model in two dimensions.

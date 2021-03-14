@@ -1,0 +1,1 @@
+In this paper, we prove that the global Gorenstein projective dimension of a ring R is equal to the global Gorenstein injective dimension of R, and that the global Gorenstein flat dimension of R is smaller than the common value of the terms of this equality.

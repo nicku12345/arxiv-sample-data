@@ -1,0 +1,1 @@
+Continuing the work in \cite{ergodic-infinite}, we show that within each stratum of translation surfaces, there is a residual set of surfaces for which the geodesic flow in almost every direction is ergodic for almost-every periodic group extension produced using a technique referred to as \emph{cuts}.

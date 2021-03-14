@@ -1,0 +1,1 @@
+Using the theory of covering groups of Schur we prove that the two Nichols algebras associated to the conjugacy class of transpositions in S_n are equivalent by twist and hence they have the same Hilbert series. These algebras appear in the classification of pointed Hopf algebras and in the study of quantum cohomology ring of flag manifolds.

@@ -1,0 +1,1 @@
+We show that, for any k\geq 1, there exist non-formal compact orientable (k-1)-connected n-manifolds with k-th Betti number b_k=b\geq 0 if and only if n\geq \max \{4k-1, 4k+3-2b\}.

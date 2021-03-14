@@ -1,0 +1,1 @@
+Let L be a restricted Lie algebra over a field of characteristic p>2 and denote by u(L) its restricted enveloping algebra. We establish when the symmetric or skew elements of u(L) under the principal involution are Lie metabelian.

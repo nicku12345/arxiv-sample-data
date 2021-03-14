@@ -1,0 +1,1 @@
+We construct a subset of the Mandelbrot set which is dense on the boundary of the Mandelbrot set and which consists of only infinitely renormalizable points such that the Mandelbrot set is locally connected at every point of this subset. We prove the local connectivity by finding bases of connected neighborhoods directly.

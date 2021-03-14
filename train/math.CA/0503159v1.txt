@@ -1,0 +1,1 @@
+The aim of this paper is to discuss the simpleness of zeros of Stokes multipliers associated with the differential equation -\Phi''(X) + W(X)\Phi(X) =0, where  W(X) = X^{m} +a_{1}X^{m-1}+... +a_{m} is a real monic polynomial. We show that, under a suitable hypothesis on the coefficients a_k, all the zeros of the Stokes multipliers are simple.

@@ -1,0 +1,1 @@
+In this paper we study the ring of global sections of an open subset U=D(I) in Spec A, where A is a two-dimensional noetherian ring. The main concern is to give a geometric criterion when these rings are finitely generated, in order to correct an invalid statement of Schenzel.

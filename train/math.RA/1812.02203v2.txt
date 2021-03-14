@@ -1,0 +1,1 @@
+Let p be a positive integer and A be a nilpotent complex matrix. We prove that the set of all p-th roots of A is path-connected.

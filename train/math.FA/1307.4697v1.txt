@@ -1,0 +1,1 @@
+We prove a perturbation result for positive semigroups, thereby extending a heat kernel estimate by Barlow, Grigor'yan and Kumagai for Dirichlet forms (\cite{bgk2009}) to positive semigroups. This also leads to a generalization of domination for semigroups on L_p-spaces.

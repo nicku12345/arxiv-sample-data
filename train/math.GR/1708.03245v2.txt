@@ -1,0 +1,1 @@
+It is proved that, for a prime p>2 and integer n\geq 1, finite p-groups of nilpotency class 3 and having only two conjugacy class sizes 1 and p^n exist if and only if n is even; moreover, for a given even positive integer, such a group is unique up to isoclinism (in the sense of Philip Hall).

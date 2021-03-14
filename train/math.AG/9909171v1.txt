@@ -1,0 +1,1 @@
+We calculate the Euler characteristics of the local systems S^k(V) \otimes S^l\Wedge^2(V) on the moduli space M_2 of curves of genus 2, where V is the rank 4 local system R^1\pi_*C.

@@ -1,0 +1,1 @@
+We calculate, in the framework of the geometric Langlands program, the periods of cuspidal automorphic sheaves for GL_{2n} along the Levi subgroup GL_n\times\GL_n. We also solve the corresponding local problem.

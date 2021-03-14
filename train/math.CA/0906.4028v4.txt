@@ -1,0 +1,1 @@
+We show sufficient conditions on matrix weights U and V for the martingale transforms to be uniformly bounded from L^2(V) to L^2(U). We also show that these conditions imply the uniform boundedness of the dyadic shifts as well as the boundedness of the Hilbert transform between these spaces.

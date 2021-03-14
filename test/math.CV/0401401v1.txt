@@ -1,0 +1,1 @@
+Building upon work of Villamayor and Bierstone-Milman we give a proof of the canonical Hironaka principalization and desingularization. The idea of "homogenized ideals" introduced in the paper gives {\it a priori} the canonicity of algorithm and radically simplifies the proof.

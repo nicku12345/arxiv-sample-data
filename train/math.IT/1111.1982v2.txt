@@ -1,0 +1,1 @@
+This paper applies several concentration inequalities to prove concentration results for the crest factor of OFDM signals. The considered approaches are, to the best of our knowledge, new in the context of establishing concentration for OFDM signals.

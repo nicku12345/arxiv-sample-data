@@ -1,0 +1,1 @@
+In this paper, we study the non trivial idempotents of the 2 \times 2 matrix ring over the polynomial ring \mathbb{Z}_{pqr}[x] for distinct primes p, q  and r greater than 3. We have classified all the idempotents of this matrix ring into several classes such that any idempotent must belong to one of these classes. This work is extension of the work done in [1].

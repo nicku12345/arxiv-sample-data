@@ -1,0 +1,1 @@
+Wawamoto generalized the Witt algebra using Laurent extension of polynomial ring. We construct the generalized Witt algebra W(g_p,n) by using an additive map g_p from a set of integers into a field of characteristic zero where 1\leq p \leq n.

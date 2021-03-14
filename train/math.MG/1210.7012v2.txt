@@ -1,0 +1,1 @@
+We prove a central limit theorem for the volume of projections of the N-cube onto a random subspace of dimension n, when n is fixed and N tends to infinity. Randomness in this case is with respect to the Haar measure on the Grassmannian manifold.

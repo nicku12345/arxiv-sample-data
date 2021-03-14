@@ -1,0 +1,1 @@
+We give a new elementary proof of the Brian\c{c}on-Skoda theorem, which states that for an m-generated ideal \mathfrak{a} in the ring of germs of analytic functions at 0\in \C^n, the \nu:th power of its integral closure is contained in \mathfrak{a}, where \nu = \min(m,n).

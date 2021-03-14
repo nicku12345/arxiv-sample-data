@@ -1,0 +1,1 @@
+This is an elementary, examples driven, introduction to the representation theory of finite semigroups. We illustrate the Clifford-Munn correspondence between the representations of a semigroup and the representations of its maximal subgroups. The emphasis throughout is on naturally occurring examples.

@@ -1,0 +1,1 @@
+If X is compact metrizable and has finite fd-height then the unit interval, I, \ell-dominates X, in other words, there is a continuous linear map of C_p(I) onto C_p(X). If the unit interval \ell-dominates a space X then X is compact metrizable and has countable fd-height. Similar results are given for spaces \ell-dominated by the reals.

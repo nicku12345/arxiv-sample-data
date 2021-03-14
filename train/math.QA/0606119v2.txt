@@ -1,0 +1,1 @@
+It was shown by A.V.Mikhalev and I.A.Pinchuk in [MP] that the second homology group H_2(\st) of the Steinberg Lie superalgebra \st is trivial for m+n\geq 5. In this paper, we will work out H_2(\st) explicitly for m+n=3, 4.

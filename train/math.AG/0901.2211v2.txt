@@ -1,0 +1,1 @@
+We present a new method to achieve an embedded desingularization of a toric variety.   Let W be a regular toric variety defined by a fan \Sigma and X\subset W be a toric embedding. We construct a finite sequence of combinatorial blowing-ups such that the final strict transforms X'\subset W' are regular and X' has normal crossing with the exceptional divisor.

@@ -1,0 +1,1 @@
+We prove that every compact, pseudoconvex, orientable, CR manifold of \C^n, bounds a complex manifold in the C^\infty sense. In particular, the tangential Cauchy-Riemann system has closed range.

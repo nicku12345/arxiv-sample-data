@@ -1,0 +1,1 @@
+When computing the average speed of a car over different time periods from given GPS data, it is conventional wisdom that the maximal average speed over all time intervals of fixed length decreases if the interval length increases. However, this intuition is wrong. We investigate this phenomenon and make rigorous in which sense this intuition is still true.

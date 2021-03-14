@@ -1,0 +1,1 @@
+Let B_n be the number of self-intersections of a symmetric random walk with finite second moments in the integer planar lattice. We obtain moderate deviation estimates for B_n - E B_n and E B_n- B_n, which are given in terms of the best constant of a certain Gagliardo-Nirenberg inequality. We also prove the corresponding laws of the iterated logarithm.

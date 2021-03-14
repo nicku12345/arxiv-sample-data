@@ -1,0 +1,1 @@
+We prove, assuming that the Bohr-Sommerfeld rules hold, that the joint spectrum near a focus-focus critical value of a quantum integrable system determines the classical Lagrangian foliation around the full focus-focus leaf. The result applies, for instance, to h-pseudodifferential operators, and to Berezin-Toeplitz operators on prequantizable compact symplectic manifolds.

@@ -1,0 +1,1 @@
+We prove the approximate controllability of a bilinear Schr\"odinger equation modelling a two trapped ions system. A new spectral decoupling technique is introduced, which allows to analyze the controllability of the infinite-dimensional system through finite-dimensional considerations.

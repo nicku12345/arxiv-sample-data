@@ -1,0 +1,1 @@
+Under suitably nice conditions, given a coalgebra object in a tensor category we compute the layers of its coradical (socle) filtration.

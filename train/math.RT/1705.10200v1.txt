@@ -1,0 +1,1 @@
+In this paper we study the finite W-algebra for the queer Lie superalgebra Q(n) associated with the non-regular even nilpotent coadjoint orbits in the case when the corresponding nilpotent element has Jordan blocks each of size l. We prove that this finite W-algebra is isomorphic to a quotient of the super-Yangian of Q({n/l})

@@ -1,0 +1,1 @@
+It is shown that for a bounded weighted bilateral shift T acting on \ell_p(\Z) for 1\leq p\leq 2 supercyclicity of T, weak supercyclicity of T, cyclicity of T\oplus T and cyclicity of T^2 are equivalent. A new sufficient condition for cyclicity of a weighted bilateral shift is proved, which implies, in particular, that any compact weighted bilateral shift is cyclic.

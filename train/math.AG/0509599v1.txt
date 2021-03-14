@@ -1,0 +1,1 @@
+In the paper ``Chirality change in string theory'', by Douglas and Zhou, the authors give a list of bundles on a quintic Calabi-Yau threefold. Here we prove the semistability of most of these bundles. This provides examples of string theory compactifications which have a different number of generations and can be connected.

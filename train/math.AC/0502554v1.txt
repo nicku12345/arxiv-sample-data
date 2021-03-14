@@ -1,0 +1,1 @@
+Let M be a finitely generated module over a local complete intersection R of characteristic p>0. The property that M has finite projective dimension can be characterized by the vanishing of \ext_R^i({}^{f^n} R,M) for some i>0 and for some n>0.

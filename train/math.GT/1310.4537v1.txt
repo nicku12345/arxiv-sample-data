@@ -1,0 +1,1 @@
+We show that the head and tail functions of the colored Jones polynomial of adequate links are the product of head and tail functions of the colored Jones polynomial of alternating links that can be read-off an adequate diagram of the link. We apply this to strengthen a theorem of Kalfagianni, Futer and Purcell on the fiberedness of adequate links.

@@ -1,0 +1,1 @@
+We prove the nonexistence of ground states for NLS on bridge-like graphs, i.e. graphs with two halflines and four vertices, of which two at infinity, with Kirchhoff matching conditions. By ground state we mean any minimizer of the energy functional among all functions with the same mass.

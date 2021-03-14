@@ -1,0 +1,1 @@
+We prove that the quantum cohomology ring of any minuscule or cominuscule homogeneous space, once localized at the quantum parameter, has a non trivial involution mapping Schubert classes to multiples of Schubert classes. This can be stated as a strange duality property for the Gromov-Witten invariants, which turn out to be very symmetric.

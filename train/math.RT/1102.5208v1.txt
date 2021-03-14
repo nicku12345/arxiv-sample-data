@@ -1,0 +1,1 @@
+We check McKay conjecture on character degrees for the case of symplectic groups over the field with two elements Sp(2n,2) and the prime 2. Then we check the inductive McKay condition (Isaacs-Malle-Navarro 2007) for Sp(4,2^m) and all primes.

@@ -1,0 +1,1 @@
+We study invariant types in NIP theories. Amongst other things: we prove a definable version of the (p,q)-theorem in theories of small or medium directionality; we construct a canonical retraction from the space of M-invariant types to that of M-finitely satisfiable types; we show some amalgamation results for invariant types and list a number of open questions.

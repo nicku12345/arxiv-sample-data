@@ -1,0 +1,1 @@
+For every closed hyperbolic Haken 3-manifold and, more generally, for any hyperbolic 3-manifold M which is homeomorphic to the interior of a Haken manifold, the number 0.286 is a Margulis number. If M has non-zero first Betti number, or if M is closed and contains a semi-fiber, then 0.292 is a Margulis number for M.

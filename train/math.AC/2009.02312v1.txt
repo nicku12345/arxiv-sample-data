@@ -1,0 +1,1 @@
+We show that attaching a whisker (or a pendant) at the vertices of a cycle cover of a graph results in a new graph with the following property: all symbolic powers of its cover ideal are Koszul or, equivalently, componentwise linear. This extends previous work where the whiskers were added to all vertices or to the vertices of a vertex cover of the graph.

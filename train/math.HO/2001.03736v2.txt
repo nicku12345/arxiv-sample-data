@@ -1,0 +1,1 @@
+In this note, we show that each positive rational number can be written as \varphi(m^2)/\varphi(n^2), where \varphi is Euler's totient function and m and n are positive integers.

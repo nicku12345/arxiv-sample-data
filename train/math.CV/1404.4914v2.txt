@@ -1,0 +1,1 @@
+In this article, we consider a real smooth hypersurface M\subset \mathbb C^2, which is of infinite type at p\in M. The purpose of this paper is to show that the real vector space of tangential holomorphic vector field germs at p vanishing at p is either trivial or of real dimension 1.

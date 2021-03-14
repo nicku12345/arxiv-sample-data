@@ -1,0 +1,1 @@
+We construct a locally compact groupoid with the properties in the title. Our example is based closely on constructions used by Higson, Lafforgue, and Skandalis in their work on counterexamples to the Baum-Connes conjecture. It is a bundle of countable groups over the one point compactification of the natural numbers, and is Hausdorff, second countable and \'{e}tale.

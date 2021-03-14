@@ -1,0 +1,1 @@
+We show that under certain appropriate assumptions implied by \rm PFA, every tree of height \omega_2 without cofinal branches is \emph{specializable} via a proper forcing with finite conditions which has the \omega_1-approximation property. The forcing construction employs internally club \omega_1-guessing models as side conditions.

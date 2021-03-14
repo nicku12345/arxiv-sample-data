@@ -1,0 +1,1 @@
+In this paper we investigate the statistics of large waiting times (with respect to the total waiting time) for Bernoulli processes. We determine the corresponding rate functions explicitly and prove a large deviations asymptotic. By this we have estabished a large deviation principle for which the rate function is not the Legendre transform of some free energy function.

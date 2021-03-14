@@ -1,0 +1,1 @@
+In this note, we use estimates given in the recent preprint [Her11b]to deduce a formula for the F-pure threshold of a binomial hypersurface over a field of prime characteristic. These formulas are given in terms of the associated splitting polytope, and remain valid over any characteristic.

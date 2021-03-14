@@ -1,0 +1,1 @@
+A functor on compact Hausdorf spaces is constructed as the sum of certain equivariant K-theory groups. It is shown that the functor takes values in lambda-rings and satisfies a Thom isomorphism. In the case that the space is a CW-complex constructed only of even cells the functor outputs the free lambda-ring on generators in one-to-one correspondence with those cells.

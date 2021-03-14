@@ -1,0 +1,1 @@
+If mu is a smooth density on a hypersurface in R^d whose curvature never vanishes to infinite order, and A is a d-by-d matrix whose eigenvalues all have absolute value greater than 1, then the maximal function given by convolving f with dilates of mu by powers of A, and taking the maximum, is bounded from a corresponding version of H^1 to weak L^1.

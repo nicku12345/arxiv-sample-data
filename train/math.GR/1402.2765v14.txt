@@ -1,0 +1,1 @@
+We prove that if G is a group of automorphisms of a regular locally finite building which is closed in the compact-open topology and acts Weyl transitively on the building, then G admits just one Hausdorff locally compact \sigma-compact topology compatible with the group operations.

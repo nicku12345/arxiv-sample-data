@@ -1,0 +1,1 @@
+Convolution type Calder\'on-Zygmund singular integral operators with rough kernels \pv \Om(x)/|x|^n are studied. A condition on \Om implying that the corresponding singular integrals and maximal singular integrals map L^p \to L^p for 1<p<\nf is obtained. This condition is shown to be different from the condition \Om\in H^1(\sn).

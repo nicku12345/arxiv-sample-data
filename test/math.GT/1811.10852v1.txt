@@ -1,0 +1,1 @@
+For a virtual knot K and an integer r\geq 0, the r-covering K^{(r)} is defined by using the indices of chords on a Gauss diagram of K. In this paper, we prove that for any finite set of virtual knots J_0,J_2,J_3,\dots,J_m, there is a virtual knot K such that K^{(r)}=J_r (r=0\mbox{ and }2\leq r\leq m), K^{(1)}=K, and otherwise K^{(r)}=J_0.

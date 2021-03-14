@@ -1,0 +1,1 @@
+We provide an algorithm to determine whether a link L admits a crossing change that turns it into a split link, under some fairly mild hypotheses on L. The algorithm also provides a complete list of all such crossing changes. It can therefore also determine whether the unlinking number of L is 1.

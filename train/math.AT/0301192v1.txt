@@ -1,0 +1,1 @@
+We describe explicit presentations of all stable and the first nonstable homotopy groups of the unitary groups. In particular, for each n >= 2 we supply n homotopic maps that each represent the (n-1)!-th power of a suitable generator of pi_2n(U(n)) = Z_{n!}. The product of these n commuting maps is the constant map to the identity matrix.

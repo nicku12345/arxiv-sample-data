@@ -1,0 +1,1 @@
+The Hilbert series of local cohomologies for monomial ideals, which are not necessarily square-free, is established. As applications, we give a sharp lower bound of the non-vanishing degree of local cohomologies and also a sharp lower bound of the positive integer k of k-Buchsbaumness for generalized Cohen-Macaulay monomial ideals.

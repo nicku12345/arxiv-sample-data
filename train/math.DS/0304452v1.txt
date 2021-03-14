@@ -1,0 +1,1 @@
+We develop a dynamical systems theory for the compressible Navier-Stokes equations based on global in time weak solutions. The following questions will be addressed: Global existence and critical values of the adiabatic constant; dissipativity in the sense of Levinson - bounded absorbing sets; asymptotic compactness; and the long-time behaviour and attractors.

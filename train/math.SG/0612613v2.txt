@@ -1,0 +1,1 @@
+It is shown that a Hopf algebra over a field admitting a Galois extension separable over its subalgebra of coinvariants is of finite dimension. This answers in the affirmative a question posed by Beattie et al. in [{\it Proc. Amer. Math. Soc.} 128 No. 11 (2000), 3201-3203].

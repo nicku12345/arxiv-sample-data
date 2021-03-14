@@ -1,0 +1,1 @@
+We characterize real functions f on an interval (-\alpha,\alpha) for which the entrywise matrix function [a_{ij}] \mapsto [f(a_{ij})] is positive, monotone and convex, respectively, in the positive semidefiniteness order. Fractional power functions are exemplified and related weak majorizations are shown.

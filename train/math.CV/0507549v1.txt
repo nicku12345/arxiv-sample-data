@@ -1,0 +1,1 @@
+We introduce a class of analytic sheaves in a Banach space X, that we call cohesive sheaves. Cohesion is meant to generalize the notion of coherence from finite dimensional analysis. Accordingly, we prove the analog of Cartan's Theorems A and B for cohesive sheaves over pseudoconvex open subsets of X, provided X has an unconditional basis.

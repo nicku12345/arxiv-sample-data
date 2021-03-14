@@ -1,0 +1,1 @@
+We give a new and simple proof of the Hankel inversion formula for the classical Hankel transform which holds for a complex order with real part greater than -1. Using the proof of this formula we obtain the full description of the Kirillov model for discrete series representations of SL(2,R) and GL(2,R).

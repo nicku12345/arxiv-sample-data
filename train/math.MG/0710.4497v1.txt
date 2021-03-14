@@ -1,0 +1,1 @@
+We discuss notions of Gauss curvature and mean curvature for polyhedral surfaces. The discretizations are guided by the principle of preserving integral relations for curvatures, like the Gauss/Bonnet theorem and the mean-curvature force balance equation.

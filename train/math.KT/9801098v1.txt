@@ -1,0 +1,1 @@
+We prove that if R is a Hensel local ring with infinite residue field k, the natural map H_i(GL(n,R),Z/p) ---> H_i(GL(n,k),Z/p) is an isomorphism for i <=3, p distinct from char(k). This implies rigidity for H_i(GL_n), i <=3, which in turn implies the Friedlander-Milnor conjecture in positive characteristic in degrees <=3.

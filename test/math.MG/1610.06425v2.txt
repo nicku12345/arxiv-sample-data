@@ -1,0 +1,1 @@
+When the number of non-triangular faces adjacent to a vertex v is less than or equal to three, the vertex v will be called (\emph{combinatorially}) \emph{rigid}.   We study the number of rigid vertices and suggest a conjecture on a classification of polyhedra.

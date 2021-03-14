@@ -1,0 +1,1 @@
+We consider the distance function from an arbitrary point p on a flat surface, and determine the set F_{p} of all \emph{farthest points} (i.e., points at maximal distance) from p.

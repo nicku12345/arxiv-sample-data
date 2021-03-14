@@ -1,0 +1,1 @@
+Let K be a fixed field. We attach to each column-finite quiver E a von Neumann regular K-algebra Q(E) in a functorial way. The algebra Q(E) is a universal localization of the usual path algebra P(E) associated with E. The monoid of isomorphism classes of finitely generated projective right Q(E)-modules is explicitly computed.

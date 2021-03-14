@@ -1,0 +1,1 @@
+We show that if \mathfrak{A} is a commutative complex non-unital Banach Algebra with norm \|\cdot\|, then \|\cdot\| is regular on \mathfrak{A} if and only if \|\cdot\|_{op} is a norm on \mathfrak{A}\oplus \mathbb{C} and \mathfrak{A}\oplus\mathbb{C} is a commutative complex Banach Algebra with respect to \|\cdot\|_{op}.

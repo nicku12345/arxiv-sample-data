@@ -1,0 +1,1 @@
+The theory of commutative monads on cartesian closed categories provides a framework where aspects of the theory of distributions and other extensive quantities can be formulated and some results proved. We make explicit a link between our theory and the theory of Schwartz distributions of compact support. We also discuss probability distributions.

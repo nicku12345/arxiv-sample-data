@@ -1,0 +1,1 @@
+This paper provides the solution of the Riemann-Papperitz equation with singular points at z=-i,i.This solution is obtained by mapping the singular points into points 0,infinity. The solution is then obtained in terms of the Gauss hypergeometric function.

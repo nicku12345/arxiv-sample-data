@@ -1,0 +1,1 @@
+The intent of this paper is to present a set of axioms that are sufficient for a closure operation to generate a balanced big Cohen-Macaulay module B over a complete local domain R. Conversely, we show that if such a B exists over R, then there exists a closure operation that satisfies the given axioms.

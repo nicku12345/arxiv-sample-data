@@ -1,0 +1,1 @@
+It is shown that the Carath\'eodory distance and the Lempert function are almost the same on any strongly pseudoconvex domain in \C^n; in addition, if the boundary is C^{2+\eps}-smooth, then \sqrt{n+1} times one of them almost coincides with the Bergman distance.

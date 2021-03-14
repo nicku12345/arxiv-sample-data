@@ -1,0 +1,1 @@
+Chord diagrams and related enlacement graphs of alternating knots are enhanced to obtain complete invariant graphs including chirality detection. Moreover, the equivalence by common enlacement graph is specified and the neighborhood graph is defined for general purpose and for special application to knots.

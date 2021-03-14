@@ -1,0 +1,1 @@
+Let F be a field, char(F)\neq 2. Then every finite-dimensional F-algebra has either an idempotent or an absolute nilpotent if and only if over F every polynomial of odd degree has a root in F. This is also necessary and sufficient for existence of eigenvectors for all quadratic operators in finite-dimensional spaces over F.

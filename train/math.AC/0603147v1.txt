@@ -1,0 +1,1 @@
+We introduce and study the notion of \star-stability with respect to a semistar operation \star defined on a domain R; in particular we consider the case where \star is the w-operation. This notion allows us to generalize and improve several properties of stable domains and totally divisorial domains.

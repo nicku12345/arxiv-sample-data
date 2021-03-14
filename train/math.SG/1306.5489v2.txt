@@ -1,0 +1,1 @@
+We introduce a method for constructing J-complex discs. The method only uses the standard scheme for solving the Beltrami equation and the Schauder principle. As an application, we give a short self-contained proof of Gromov's Non-Squeezing Theorem.

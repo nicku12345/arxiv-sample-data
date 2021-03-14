@@ -1,0 +1,1 @@
+Let G be a linear group such that for every g in G there is a finite set R(g) with the property that for every x in G all sufficiently long commutators [g,x,x,...,x] belong to R(g). It is proved that G is finite-by-hypercentral.

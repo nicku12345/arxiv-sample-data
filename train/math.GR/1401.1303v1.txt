@@ -1,0 +1,1 @@
+We show that if the action of a classical group G on a set \Omega of 1-spaces of its natural module is of genus at most two, then |\Omega| \leq 10,000.

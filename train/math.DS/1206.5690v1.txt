@@ -1,0 +1,1 @@
+We prove in this note that there is, for some foliated bundles, a bijective correspondance between Garnett's harmonic measures and measures on the fiber that are stationary for some probability measure on the holonomy group. As a consequence, we show the uniqueness of the harmonic measure in the case of some foliations transverse to projective fiber bundles.

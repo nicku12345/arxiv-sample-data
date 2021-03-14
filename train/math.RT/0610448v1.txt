@@ -1,0 +1,1 @@
+We construct the entire generalized Kac-Moody Lie algebra as a quotient of the positive part of another generalized Kac-Moody Lie algebra. The positive part of a generalized Kac-Moody Lie algebra can be constructed from representations of quivers using Ringel's Hall algebra construction. Thus we give a direct realization of the entire generalized Kac-Moody Lie algebra.

@@ -1,0 +1,1 @@
+We give a combinatorial proof, using the hyperbolicity of the curve graphs, of the bounded geodesic image theorem of Masur and Minsky. Recently it has been shown that curve graphs are uniformly hyperbolic, thus a universal bound can be given for the diameter of the geodesic image. We also generalize the theorem for projections to markings of the whole surface.

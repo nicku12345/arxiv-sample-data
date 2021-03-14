@@ -1,0 +1,1 @@
+We prove a Liouville-type theorem for bounded stable solutions v \in C^2(\R^n) of elliptic equations of the type (-\Delta)^s v= f(v)\qquad {in \R^n,} where s \in (0,1) {and f is any nonnegative function}. The operator (-\Delta)^s stands for the fractional Laplacian, a pseudo-differential operator of symbol |\xi |^{2s}.

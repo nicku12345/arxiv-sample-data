@@ -1,0 +1,1 @@
+We prove that the Kontsevich integrals (in the sense of the formality theorem) of all even wheels are equal to zero. We deduce this theorem from the result of \cite{FSh} on the deformation quantization with traces.

@@ -1,0 +1,1 @@
+Letting G=F/R be a finitely-presented group, Hopf's formula expresses the second integral homology of G in terms of F and R. Expanding on previous work, we explain how to find generators of H_2(G;\mathbb{F}_p). The context of the problem, which is related to a conjecture of Quillen, is presented, as well as example calculations.

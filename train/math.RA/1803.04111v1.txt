@@ -1,0 +1,1 @@
+Let R be a finite ring. The commuting probability of R, denoted by \Pr(R), is the probability that any two randomly chosen elements of R commute. R is called an n-centralizer ring if it has n distinct centralizers. In this paper, we compute \Pr(R) for some n-centralizer finite rings.

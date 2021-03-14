@@ -1,0 +1,1 @@
+We construct a linear basis of a free GDN superalgebra over a field of characteristic \neq 2.   As applications, we prove a PBW theorem, that is, any GDN superalgebra can be embedded into its universal enveloping commutative associative differential superalgebra. An Engel theorem under some assumptions is given.

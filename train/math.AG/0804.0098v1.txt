@@ -1,0 +1,1 @@
+Let f_s: X_s \to {\bf {P}}^2 be the blowing-up of s distinct points and E a vector bundle on X_s. Here we give a cohomological criterio which is equivalent to E \cong f_s^\ast (A) with A a direct sum of line bundles. We also some cohomological characterizations of very particular rank 2 vector bundles on {\bf {P}}^2.

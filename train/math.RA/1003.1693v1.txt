@@ -1,0 +1,1 @@
+For a finite dimensional Lie algebra L, it is known that s(L)=\f{1}{2}(n-1)(n-2)+1-\mathrm{dim} M(L) is non negative. Moreover, the structure of all finite nilpotent Lie algebras is characterized when s(L)=0,1 in \cite{ni,ni4}. In this paper, we intend to characterize all nilpotent Lie algebra while s(L)=2.

@@ -1,0 +1,1 @@
+We revisit the old result that biflat Banach algebras have the same cyclic cohomology as \mathbb C, and obtain a quantitative variant (which is needed in forthcoming joint work of the author). Our approach does not rely on the Connes-Tsygan exact sequence, but is motivated strongly by its construction as found in [Connes,1985] and [Helemskii,1992].

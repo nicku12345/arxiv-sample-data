@@ -1,0 +1,1 @@
+In this paper, we give two proofs of the wellfoundedness of recursive notation systems for \Pi_N-reflecting ordinals. One is based on \Pi_{N-1}^0-inductive definitions, and the other is based on distinguished classes.

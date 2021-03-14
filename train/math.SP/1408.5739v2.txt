@@ -1,0 +1,1 @@
+The paper studies frequency characteristics and predictability of real sequences, i.e., discrete time processes in deterministic setting. We consider band-limitness and predictability of one-sided sequences. We establish predictability of some classes of sequences, and we suggest predictors represented by causal convolution sums over past times.

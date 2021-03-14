@@ -1,0 +1,1 @@
+Multiple primitive curves have been defined and studied by A. Banica and O. Forster. We introduce new invariants for coherent sheaves on these curves and define quasi locally free sheaves, which play the same role as locally free sheaves on smooth varieties. A more detailed study of torsion free sheaves is given for primitive curves of multiplicity 2.

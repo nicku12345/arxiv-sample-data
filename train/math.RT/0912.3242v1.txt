@@ -1,0 +1,1 @@
+Given a reductive Lie algebra over the complex numbers, we introduce a family of category which generalises the BGG category \mathcal{O}. We also classify the simple modules for some of these categories and prove a semisimplicity result.

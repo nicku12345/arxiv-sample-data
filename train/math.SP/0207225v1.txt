@@ -1,0 +1,1 @@
+We prove that spectral projections of Laplace-Beltrami operator on the m-complex unit sphere E_{Delta_{S^{2m-1}}}([0,R)) are uniformly bounded as an operator from H^p(S^{2m-1}) to L^p(S^{2m-1}) for all p --> (1,infinity). We also show that the Bochner-Riesz conjecture is true when restricted to cylindrically symmetric functions on R^{n-1} times R.

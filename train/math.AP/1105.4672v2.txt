@@ -1,0 +1,1 @@
+In this paper we give an affirmative answer to an open question mentioned in [Le Bris and Lions, Comm. Partial Differential Equations 33 (2008), 1272--1317], that is, we prove the well-posedness of the Fokker-Planck type equations with Sobolev diffusion coefficients and BV drift coefficients.

@@ -1,0 +1,1 @@
+Let G be a group and H be a subgroup of G which is either finite or of finite index in G. In this note, we give some characterizations for normality of H in G. As a consequence we get a very short and elementary proof of the Main Theorem of [5], which avoids the use of the classification of finite simple groups

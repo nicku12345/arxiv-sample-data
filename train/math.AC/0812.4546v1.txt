@@ -1,0 +1,1 @@
+In this paper we define, inspired by ring theory, the class of maximal residuated lattices with lifting Boolean center and prove a structure theorem for them: any maximal residuated lattice with lifting Boolean center is isomorphic to a finite direct product of local residuated lattices.

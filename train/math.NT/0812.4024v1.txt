@@ -1,0 +1,1 @@
+We present a new bound on A = \max_n |a_{pqr}(n)|, where a_{pqr}(n) are the coefficients of a ternary cyclotomic polynomial. We also prove that two consecutive coefficients of such a polynomial differ by at most one.

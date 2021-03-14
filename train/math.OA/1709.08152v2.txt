@@ -1,0 +1,1 @@
+Let S \subset \mathbb{Z}^{d} be a finitely generated subsemigroup. Let E be a product system over S. We show that there exists an infinite dimensional separable Hilbert space \mathcal{H} and a semigroup \alpha:=\{\alpha_x\}_{x \in S} of unital normal *-endomorphisms of B(\mathcal{H}) such that E is isomorphic to the product system associated to \alpha.

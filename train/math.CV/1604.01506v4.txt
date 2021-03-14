@@ -1,0 +1,1 @@
+In this paper, we prove an inequality for log canonical thresholds and Monge-Ampere masses. The idea of proof is a combination of the Ohsawa-Takegoshi L^2-extension theorem and inequalities in [ACKHZ09], [DH14]. It also give an analytic proof for the main result in [DH14] in the case of dimension 2.

@@ -1,0 +1,1 @@
+We study almost reverse lexicographic ideals in a polynomial ring over a field of arbitrary characteristic. We give a criterion for a given sequence of nonnegative integers to be the Hilbert function of an almost reverse lexicographic ideal in the polynomial ring. Then it will be shown that every Fr\"{o}berg sequence satisfies this criterion.

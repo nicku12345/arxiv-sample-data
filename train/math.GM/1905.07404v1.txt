@@ -1,0 +1,1 @@
+Let A=[a_{ij}]\in O_3(\mathbb{R}). We give several different proofs of the fact that the vector  V:=\left[\begin{array}{ccc} \displaystyle \frac{1}{a_{23}+a_{32}} & \displaystyle \frac{1}{a_{13}+a_{31}} & \displaystyle \frac{1}{a_{12}+a_{21}} \end{array}\right]^T,  if it exists, is an eigenvector of A corresponding to the eigenvalue 1.

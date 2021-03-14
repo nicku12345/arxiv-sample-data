@@ -1,0 +1,1 @@
+Let \alpha be an infinite ordinal and \gamma the unique ordinal satisfying \omega^{\omega^\gamma}\leq \alpha < \omega^{\omega^{\gamma+1}}. We show that the Banach space C([0,\,\alpha]) of all continuous scalar-valued functions on the compact ordinal interval [0,\,\alpha] has Szlenk index equal to \omega^{\gamma+1} and w^\ast-dentability index equal to \omega^{1+\gamma+1}.

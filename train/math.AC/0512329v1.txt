@@ -1,0 +1,1 @@
+The Hilbert function of a module over a positively graded algebra is of quasi-polynomial type (Hilbert--Serre). We derive an upper bound for its grade, i.e. the index from which on its coefficients are constant. As an application, we give a purely algebraic proof of an old combinatorial result (due to Ehrhart, McMullen and Stanley).

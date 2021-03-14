@@ -1,0 +1,1 @@
+Given a complex reflection group W we compute the support of the spherical irreducible module of the rational Cherednik algebra of W in terms of the simultaneous eigenfunction of the Dunkl operators and Schur elements for finite Hecke algebras.

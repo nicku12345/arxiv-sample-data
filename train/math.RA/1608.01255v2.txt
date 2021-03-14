@@ -1,0 +1,1 @@
+In this work we study Leibniz algebras whose second-maximal subalgebras are ideals. We provide a classification based on solvability, nilpotency, and the size of the derived algebra. We give specific descriptions of those Leibniz algebras whose derived algebra has codimension zero or one. This includes several algebras which are only possible over certain fields.

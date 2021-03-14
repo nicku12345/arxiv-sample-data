@@ -1,0 +1,1 @@
+In this paper, a relationship between the determinant of an alternating link and a certain polytope obtained from the link diagram is analyzed. We also show that when the underlying graph of the link diagram is properly oriented, the number of its spanning arborescence is equal to the determinant, i.e., the value at -1 of the Jones polynomial.

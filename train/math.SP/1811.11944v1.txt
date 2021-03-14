@@ -1,0 +1,1 @@
+In this paper, we approximate to continuous bi-Carleman kernels vanishing at infinity by sequences of their subkernels of Hilbert-Schmidt type and try to construct the resolvent kernels for these kernels as limits of sequences of the resolvent kernels for the approximating subkernels

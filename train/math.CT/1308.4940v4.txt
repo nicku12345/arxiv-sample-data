@@ -1,0 +1,1 @@
+Given symmetric monoidal infinity-categories C and D, subject to mild hypotheses on D, we define an infinity-categorical analog of the Day convolution symmetric monoidal structure on the functor category Fun(C, D). An E_infinity monoid for the Day convolution product is a lax monoidal functor from C to D.

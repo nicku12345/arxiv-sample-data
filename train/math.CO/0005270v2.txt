@@ -1,0 +1,1 @@
+We introduce polyhedral cones associated with m-hemimetrics on n points, and, in particular, with m-hemimetrics coming from partitions of an n-set into m+1 blocks. We compute generators and facets of the cones for small values of m,n and study their skeleton graphs.

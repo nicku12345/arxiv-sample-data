@@ -1,0 +1,1 @@
+If a characteristic class for two vector bundles over the same base space does not coincide, then the bundles are not isomorphic. We give under rather common assumptions a lower bound on the topological dimension of the set of all points in the base over which a morphism between such bundles is not bijective. Moreover, we show that this set is topologically non-trivial.

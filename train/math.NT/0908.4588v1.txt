@@ -1,0 +1,1 @@
+Let p be an odd prime. We show that the classification of p-divisible groups by Breuil windows and the classification of finite flat group schemes of p-power order by Breuil modules hold over any complete regular local ring with perfect residue field of characteristic p. We use a formalism of frames and windows with an abstract deformation theory that applies to Breuil windows.

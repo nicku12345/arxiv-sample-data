@@ -1,0 +1,1 @@
+For permutations avoiding consecutive patterns from a given set, we present a combinatorial formula for the multiplicative inverse of the corresponding exponential generating function. The formula comes from homological algebra considerations in the same sense as the corresponding inversion formula for avoiding word patterns comes from the well known Anick's resolution.

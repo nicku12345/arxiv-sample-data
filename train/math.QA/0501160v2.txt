@@ -1,0 +1,1 @@
+A cotensor product A\Box_H P of an H-Hopf Galois extension A and a C-coalgebra Galois extension P, such that P is an (H,C)-bicomodule, is analyzed. Conditions are stated, when A\Box_H P is a C-coalgebra Galois extension and when there exists a strong connection on A\Box_H P. Two examples are given, in both, A and P are Matsumoto spheres, and H=C=C(U(1)).

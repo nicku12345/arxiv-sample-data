@@ -1,0 +1,1 @@
+The goal of this paper is to give an efficient computation of the 3-point Gromov-Witten invariants of Fano hypersurfaces, starting from the Picard-Fuchs equation. This simplifies and to some extent explains the original computations of Jinzenji. The method involves solving a gauge-theoretic differential equation, and our main result is that this equation has a unique solution.

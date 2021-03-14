@@ -1,0 +1,1 @@
+Unlike the p = 2 case, the universal Steenrod Algebra Q(p) at odd primes does not have a fractal structure that preserves the length of monomials. Nevertheless, when p is odd we detect inside Q(p) two different families of nested subalgebras each isomorphic (as length-graded algebras) to the respective starting element of the sequence

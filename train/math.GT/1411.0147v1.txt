@@ -1,0 +1,1 @@
+We prove the Proportionality Principle for the Lipschitz simplicial volume without any restriction on curvature. Our argument is based on the construction of a suitable \emph{pseudostraightening} for simplices.

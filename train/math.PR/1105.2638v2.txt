@@ -1,0 +1,1 @@
+We show that there exists a connected graph G with subexponential volume growth such that critical percolation on the product of G with the line has infinitely many infinite clusters. We also give some conditions under which this cannot occur.

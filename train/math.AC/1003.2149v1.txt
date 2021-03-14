@@ -1,0 +1,1 @@
+Two-dimensional squarefree monomial ideals can be seen as the Stanley-Reisner ideals of graphs. The main results of this paper are combinatorial characterizations for the Cohen-Macaulayness of ordinary and symbolic powers of such an ideal in terms of the associated graph.

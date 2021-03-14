@@ -1,0 +1,1 @@
+We use the Adams spectral sequence to compute the KO-theory of all toric manifolds and certain singular toric varieties.

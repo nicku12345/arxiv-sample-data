@@ -1,0 +1,1 @@
+We prove that the pluricomplex Green function has the product property g_{D_1\times D_2}=\max\{ g_{D_1},g_{D_2}\} for any domains D_1\subset\Bbb C^n and D_2\subset\Bbb C^m.

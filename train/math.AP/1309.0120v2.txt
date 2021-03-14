@@ -1,0 +1,1 @@
+We prove the unique continuation property for the differential inequality |(-\Delta)^{\alpha/2}u|\leq|V(x)u|, where 0<\alpha<n and V\in L_{\textrm{loc}}^{n/\alpha,\infty}(\mathbb{R}^n), n\geq3.

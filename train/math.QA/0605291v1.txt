@@ -1,0 +1,1 @@
+Applying standard techniques from Toeplitz operator theory, we analyze the asymptotics of the Hilbert-Smith norms of the TQFT operators coming from isotopy classes of one dimensional oriented submanifolds on a closed oriented surface. We thereby obtain a Toeplitz operator interpretation and generalization of the asymptotic formula obtained recently by Marche and Narimannejad.

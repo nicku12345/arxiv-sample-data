@@ -1,0 +1,1 @@
+For Dirac operators, which have discrete spectra, the concept of eigenvalues gradient is given and formulae for this gradients are obtained in terms of normalized eigenfunctions. It is shown how the gradient is being used to describe isospectral operators or when finite number of spectral data is changed.

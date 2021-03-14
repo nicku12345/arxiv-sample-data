@@ -1,0 +1,1 @@
+We prove Rellich and improved Rellich inequalities that involve the distance function from a hypersurface of codimension k, under a certain geometric assumption. In case the distance is taken from the boundary, that assumption is the convexity of the domain. We also discuss the best constant of these inequalities.

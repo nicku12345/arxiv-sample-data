@@ -1,0 +1,1 @@
+We present two applications of explicit formulas, due to Cuntz and Krieger, for computations in K-homology of graph C*-algebras. We prove that every K-homology class for such an algebra is represented by a Fredholm module having finite-rank commutators; and we exhibit generating Fredholm modules for the K-homology of quantum lens spaces.

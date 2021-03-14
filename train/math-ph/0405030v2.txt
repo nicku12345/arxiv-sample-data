@@ -1,0 +1,1 @@
+We develop a simple method to obtain approximate analytical expressions for the period of a particle moving in a given potential. The method is inspired to the Linear Delta Expansion (LDE) and it is applied to a large class of potentials. Precise formulas for the period are obtained.

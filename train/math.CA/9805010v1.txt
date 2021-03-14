@@ -1,0 +1,1 @@
+This paper argues that automated proofs of identities for non-terminating hypergeometric series are feasible by a combination of Zeilberger's algorithm and asymptotic estimates. For two analogues of Saalsch\"utz' summation formula in the non-terminating case this is illustrated.

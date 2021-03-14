@@ -1,0 +1,1 @@
+We prove a refinement of the Fatou-Shishikura Inequality - that the total count of nonrepelling cycles of a rational map is less than or equal to the number of independent infinite forward critical orbits - from a suitable application of Thurston's Rigidity Theorem - the injectivity of I-f_* on spaces of meromorphic quadratic differentials.

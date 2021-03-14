@@ -1,0 +1,1 @@
+We develop a method for calculating the norm and the spectrum of the modulus of a Foguel operator. In many cases, the norm can be computed exactly. In others, sharp upper bounds are obtained. In particular, we observe several connections between Foguel operators and the Golden Ratio.

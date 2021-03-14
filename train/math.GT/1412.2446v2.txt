@@ -1,0 +1,1 @@
+A periodic geodesic on a surface has a natural lift to the unit tangent bundle; when the complement of this lift is hyperbolic, its volume typically grows as the geodesic gets longer. We give an upper bound for this volume which is linear in the geometric length of the geodesic.

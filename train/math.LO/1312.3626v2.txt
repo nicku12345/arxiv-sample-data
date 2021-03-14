@@ -1,0 +1,1 @@
+We consider extensions of Peano arithmetic which include an assertibility predicate. Any such system which is arithmetically sound effectively verifies its own soundness. This leads to the resolution of a range of paradoxes involving rational agents who are licensed to act under precisely defined conditions.

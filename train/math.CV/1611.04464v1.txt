@@ -1,0 +1,1 @@
+In recent work by Zimmer it was proved that if \Omega\subset\mathbb C^n is a bounded convex domain with C^\infty-smooth boundary, then \Omega is strictly pseudoconvex provided that the squeezing function approaches one as one approaches the boundary. We show that this result fails if \Omega is only assumed to be C^2-smooth.

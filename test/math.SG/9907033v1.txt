@@ -1,0 +1,1 @@
+Flow type suspension and homotopy suspension agree for attractor-repellor homotopy data.The connection maps associated in Conley index theory to an attractor-repellor decomposition with respect to the direct flow and its inverse are Spanier-Whitehead duals in the stably parallelizable context and are duals modulo a certain Thom construction in general.

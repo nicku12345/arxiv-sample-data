@@ -1,0 +1,1 @@
+Whereas many results are known about thresholds for ensembles of low-density parity-check codes under message-passing iterative decoding, this is not the case for linear programming decoding. Towards closing this knowledge gap, this paper presents some bounds on the thresholds of low-density parity-check code ensembles under linear programming decoding.

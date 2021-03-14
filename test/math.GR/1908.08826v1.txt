@@ -1,0 +1,1 @@
+We show that if H is an almost normal subgroup of G such that both H and G are of type VFP and vcd(G) = vcd(H) + 1, then G is the fundamental group of a graph of groups in which all vertex and edge groups are commensurable to H. We also investigate almost normal subgroups of one-relator groups and duality groups.

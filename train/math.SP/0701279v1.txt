@@ -1,0 +1,1 @@
+We study stability of spectral types for semi-infinite self-adjoint tridiagonal matrices under random decaying perturbations. We show that absolutely continuous spectrum associated with bounded eigenfunctions is stable under Hilbert-Schmidt random perturbations. We also obtain some results for singular spectral types.

@@ -1,0 +1,1 @@
+We prove a complex interpolation formula for the injective tensor product of vector-valued Banach function spaces satisfying certain geometric assumptions. This result unifies results of Kouba, and moreover, our approach offers an alternate proof of Kouba's interpolation formula for scalar-valued Banach function spaces.

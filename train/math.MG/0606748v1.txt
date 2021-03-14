@@ -1,0 +1,1 @@
+We give an explicit construction, based on Hadamard matrices, for an infinite series of floor{sqrt{d}/2}-neighborly centrally symmetric d-dimensional polytopes with 4d vertices. This appears to be the best explicit version yet of a recent probabilistic result due to Linial and Novik, who proved the existence of such polytopes with a neighborliness of d/400.

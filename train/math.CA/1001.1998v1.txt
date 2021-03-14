@@ -1,0 +1,1 @@
+We prove optimal bounds in L^2(R^2) for the maximal oper- ator obtained by taking a singular integral along N arbitrary directions in the plane. We also give a new proof for the optimal L^2 bound for the single scale Kakeya maximal function.

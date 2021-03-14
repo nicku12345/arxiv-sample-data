@@ -1,0 +1,1 @@
+We define the reduced horseshoe resolution and the notion of conjoined pairs of ideals in order to study the minimal graded free resolution of a class of p-Borel ideals and recover Pardue's regularity formula for them. It will follow from our technique that the graded betti numbers of these ideals do not depend on the characteristic of the base field k.

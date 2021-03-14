@@ -1,0 +1,1 @@
+We present and compare three constructive methods for realizing non-real spectra with three nonzero elements in the nonnegative inverse eigenvalue problem. We also provide some necessary conditions for realizability and numerical examples. In particular, we utilise the companion matrix.

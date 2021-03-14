@@ -1,0 +1,1 @@
+Two non-isomorphic graphs are twins if each is isomorphic to a subgraph of the other. We prove that a rayless graph has either infinitely many twins or none.

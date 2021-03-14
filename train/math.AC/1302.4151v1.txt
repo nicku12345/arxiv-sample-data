@@ -1,0 +1,1 @@
+Given a flat local ring homomorphism R\to S, and two finitely generated R-modules M and N, we describe conditions under which the modules Tor^i(M,N) and Ext^i(M,N) have S-module structures that are compatible with their R-module structures.

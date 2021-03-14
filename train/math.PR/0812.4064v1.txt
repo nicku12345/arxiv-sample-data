@@ -1,0 +1,1 @@
+In this paper we give a financial justification, based on non arbitrage conditions, of the (H) hypothesis in default time modelling. We also show how the (H) hypothesis is affected by an equivalent change of probability measure. The main technique used here is the theory of progressive enlargements of filtrations.

@@ -1,0 +1,1 @@
+As a function of second variable, we identify the Fourier series of Hurwitz zeta function and its derivatives on the unit interval. Consequently, we obtain results based on the formula for Fourier coefficients and also on Parseval's theorem. We do likewise in the case of Lerch's zeta function and its derivatives.

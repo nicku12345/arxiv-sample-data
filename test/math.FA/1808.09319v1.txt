@@ -1,0 +1,1 @@
+In this paper we bring together some of the key ideas and methods of two very lively fields of mathematical research, frame theory and optimal transport, using the methods of the second to answer questions posed in the first. In particular, we construct gradient flows in the Wasserstein space P_{2+\epsilon}(\mathbb{R}^d) for potentials of interest in frame theory.

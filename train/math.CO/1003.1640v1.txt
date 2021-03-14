@@ -1,0 +1,1 @@
+In the paper "Confinement of matroid representations to subsets of partial fields" (arXiv:0806.4487) we introduced the Hydra-k partial fields to study quinary matroids with inequivalent representations. The proofs of some results on these partial fields require extensive computations. This paper contains these computations, implemented in Mathematica.

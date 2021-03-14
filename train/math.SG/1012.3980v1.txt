@@ -1,0 +1,1 @@
+This note collects a number of standard statements in Riemannian geometry and in Sobolev-space theory that play a prominent role in analytic approaches to symplectic topology. These include relations between connections and complex structures, estimates on exponential-like maps, and dependence of constants in Sobolev and elliptic estimates.

@@ -1,0 +1,1 @@
+Asymptotic approximations of Jacobi polynomials are given for large values of the \beta-parameter and of their zeros. The expansions are given in terms of Laguerre polynomials and of their zeros. The levels of accuracy of the approximations are verified by numerical examples.

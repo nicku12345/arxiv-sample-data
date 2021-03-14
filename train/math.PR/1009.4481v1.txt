@@ -1,0 +1,1 @@
+In this paper we use the spine decomposition and martingale change of measure to establish a Kesten-Stigum L\log L theorem for branching Hunt processes. This result is a generalization of the results in Asmussen-Hering (1976) and Hering (1978) for branching diffusions.

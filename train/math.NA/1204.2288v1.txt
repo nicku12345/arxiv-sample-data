@@ -1,0 +1,1 @@
+The Space-Time Integrated Least-Squares (STILS) method is considered to analyze a space-time domain decomposition algorithm for scalar conservation laws. Continuous and discrete convergence estimates are given. Next using a time-marching finite element formulation, the STILS solution and its domain decomposition form are numerically compared.

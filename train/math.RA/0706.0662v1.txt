@@ -1,0 +1,1 @@
+We prove a graded version of Alev-Polo's rigidity theorem: the homogenization of the universal enveloping algebra of a semisimple Lie algebra and the Rees ring of the Weyl algebras A_n(k) cannot be isomorphic to their fixed subring under any finite group action. We also show the same result for other classes of graded regular algebras including the Sklyanin algebras.

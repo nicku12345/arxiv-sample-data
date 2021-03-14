@@ -1,0 +1,1 @@
+In the present paper we obtain a new homological version of the implicit function theorem and some versions of the Darboux theorem. Such results are proved for continuous maps on topological manifolds. As a consequence, some versions of these classic theorems are proved when we consider differenciable (not necessarily C^1) maps.

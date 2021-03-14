@@ -1,0 +1,1 @@
+We study non-compact surfaces obtained by gluing strips \mathbb{R}\times(-1,1) with at most countably many boundary intervals along some these intervals. Every such strip possesses a foliation by parallel lines, which gives a foliation on the resulting surface. It is proved that the identity path component of the group of homeomorphisms of that foliation is contractible.

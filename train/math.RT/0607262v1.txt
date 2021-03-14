@@ -1,0 +1,1 @@
+Let G be a reductive p-adic group. We prove that all supercuspidal representations of G arise through Yu's construction subject to certain hypotheses on k (depending on G). As a corollary, under the same hypotheses, we see that any supercuspidal representation is compactly induced from a representation of an open subgroup which is compact modulo the center.

@@ -1,0 +1,1 @@
+We introduce an abstract definition of a Hamming space that generalizes standard Hamming spaces ( \mathbb{Z}/ 2 \mathbb{Z})^n . We classify countable locally standard Hamming spaces and show that each of them can be realized as the Boolean algebra of idempotents of a Cartan subalgebra of a locally matrix algebra.

@@ -1,0 +1,1 @@
+We calculate the alternating number of torus knots with braid index 4 and less. For the lower bound, we use the upsilon-invariant recently introduced by Ozsv\'ath, Stipsicz, and Szab\'o. For the upper bound, we use a known bound for braid index 3 and a new bound for braid index 4. Both bounds coincide, so that we obtain a sharp result.

@@ -1,0 +1,1 @@
+Let X,Y be algebraic curves in P^n over C. We give an effective description of the join J(X,Y)\in P^n of X and Y in terms of local parametrizations of X and Y.

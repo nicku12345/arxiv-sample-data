@@ -1,0 +1,1 @@
+Continuing the first part of the paper, we consider scalar decentralized average-cost infinite-horizon LQG problems with two controllers. This paper focuses on the slow dynamics case when the eigenvalue of the system is small and prove that the single-controller optimal strategies ---linear strategies--- are constant ratio optimal among all distributed control strategies.

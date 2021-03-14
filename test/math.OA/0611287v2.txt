@@ -1,0 +1,1 @@
+A linear map \phi:{\mathcal A}\to {\mathcal B}  between (Banach) algebras is called 3-homomorphism if \phi(abc)=\phi(a)\phi(b)\phi(c) for each a, b, c \in {\mathcal A}. We investigate 3-homomorphisms on Banach algebras with bounded approximate identities and establish in two ways that every involution preserving homomorphism between C^*-algebras is norm decreasing.

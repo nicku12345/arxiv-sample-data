@@ -1,0 +1,1 @@
+This article is about a natural distance function induced by smooth cobordisms between links. We show that the cobordism distance of torus links is determined by the profiles of their signature functions, up to a constant factor.

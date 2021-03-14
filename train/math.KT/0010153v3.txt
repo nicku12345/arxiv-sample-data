@@ -1,0 +1,1 @@
+We define a new cyclic module, dual to the Connes-Moscovici cyclic module, for Hopf algebras, and give a characteristric map for the coaction of Hopf algebras. We also compute the resulting cyclic homology for cocommutative Hopf algebras, and some quantum groups.

@@ -1,0 +1,1 @@
+We provide a contact analogue of the symplectic camel theorem that holds in \mathbb{R}^{2n}\times S^1, and indeed generalize the symplectic camel. Our proof is based on the generating function techniques introduced by Viterbo, extended to the contact case by Bhupal and Sandon, and builds on Viterbo's proof of the symplectic camel.

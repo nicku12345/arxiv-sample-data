@@ -1,0 +1,1 @@
+Let \omega be an unbounded radial weight on \mathbb{C}^d, d\ge 1. Using results related to approximation of \omega by entire maps, we investigate Volterra type and weighted composition operators defined on the growth space \mathcal{A}^\omega(\mathbb{C}^d). Special attention is given to the operators defined on the growth Fock spaces.

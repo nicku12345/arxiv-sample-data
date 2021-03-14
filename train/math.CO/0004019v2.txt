@@ -1,0 +1,1 @@
+We obtain the specialization of monomial symmetric functions on the alphabet (a-b)/(1-q). This gives a remarkable algebraic identity, and four new developments for the Macdonald polynomial associated with a row. The proofs are given in the framework of \lambda-ring theory.

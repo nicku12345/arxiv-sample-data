@@ -1,0 +1,1 @@
+For any numerical semigroup S, there are infinitely many numerical symmetric semigroups T such that S=\frac{T}{2} is their half. We are studying the Betti numbers of the numerical semigroup ring K[T] when S is a 3-generated numerical semigroup or telescopic. We also consider 4-generated symmetric semigroups and the so called 4-irreducible numerical semigroups.

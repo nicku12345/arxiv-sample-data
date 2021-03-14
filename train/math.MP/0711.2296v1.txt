@@ -1,0 +1,1 @@
+We study the problem of classification of triples (\mathfrak{g}, f, k), where \mathfrak{g} is a simple Lie algebra, f its nilpotent element and k \in \CC, for which the simple W-algebra W_k (\mathfrak{g}, f) is rational.

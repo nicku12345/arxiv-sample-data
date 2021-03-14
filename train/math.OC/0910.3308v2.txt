@@ -1,0 +1,1 @@
+We consider dynamic systems on time scales under the control of two agents. One of the agents desires to keep the state of the system out of a given set regardless of the other agent's actions. Leitmann's avoidance conditions are proved to be valid for dynamic systems evolving on an arbitrary time scale.

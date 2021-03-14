@@ -1,0 +1,1 @@
+We study time-inhomogeneous Markov chains with finite state spaces using Nash and logarithmic-Sobolev inequalities, and the notion of c-stability. We develop the basic theory of such functional inequalities in the time-inhomogeneous context and provide illustrating examples.

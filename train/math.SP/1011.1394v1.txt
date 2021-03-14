@@ -1,0 +1,1 @@
+We consider the Schr\"odinger operator H = -\Delta + V in a layer or in a d-dimensional cylinder. The potential V is assumed to be periodic with respect to some lattice. We establish the absolute continuity of H, assuming V \in L_{p, \loc}, where p is a real number greater than d/2 in the case of a layer, and p > \max (d/2, d-2) for the cylinder.

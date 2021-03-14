@@ -1,0 +1,1 @@
+We show that every elliptic curve over a finite field of odd characteristic whose number of rational points is divisible by 4 is isogenous to an elliptic curve in Legendre form, with the sole exception of a minimal respectively maximal elliptic curve. We also collect some results concerning the supersingular Legendre parameters.

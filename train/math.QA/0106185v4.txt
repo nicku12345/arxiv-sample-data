@@ -1,0 +1,1 @@
+This paper determines the representation type of the Iwahori-Hecke algebras of type B when q\ne\pm1. In particular, we show that a single parameter non-semisimple Iwahori-Hecke algebra of type B has finite representation type if and only if q is a simple root of the Poincar\'e polynomial, confirming a conjecture of Uno's.

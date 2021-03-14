@@ -1,0 +1,1 @@
+In this note, we consider the following two families of quadratic polynomials S_{a,c}(x) = a - cx^2 and T_{a,c}(x) = a - c(1 + x^2) and show that their respective period-3 orbits live very different lives.

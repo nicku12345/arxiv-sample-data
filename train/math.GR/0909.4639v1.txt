@@ -1,0 +1,1 @@
+In this note we prove that if G is a finitely generated profinite group then the verbal subgroup G^{q} is open. Equivalently in a d-generator finite group every product of qth powers is a product of f(d,q) qth powers.

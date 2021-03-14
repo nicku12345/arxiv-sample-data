@@ -1,0 +1,1 @@
+We show that a closed weakly-monotone symplectic manifold of dimension 2n which has minimal Chern number greater than or equal to n+1 and admits a Hamiltonian toric pseudo-rotation is necessarily monotone and its quantum homology is isomorphic to that of the complex projective space. As a consequence when n=2, the manifold is symplectomorphic to \mathbb{C}P^2.

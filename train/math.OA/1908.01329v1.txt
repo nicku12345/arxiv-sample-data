@@ -1,0 +1,1 @@
+We describe a construction by G\'abor Elek, associating C*-algebras with uniformly recurrent subgroups, in the language of groupoid C*-algebras. This allows us to simplify several proofs in the original paper and fully characterise their nuclearity. We furthermore relate our groupoids to the dynamics of the group acting on its uniformly recurrent subgroup.

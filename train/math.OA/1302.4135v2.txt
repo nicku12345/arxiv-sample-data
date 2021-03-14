@@ -1,0 +1,1 @@
+Let {\cal Z} be the Jiang-Su algebra and {\cal K} the C*-algebra of compact operators on an infinite dimensional separable Hilbert space. We prove that the corona algebra M({\cal Z}\otimes {\cal K})/{\cal Z}\otimes {\cal K} has real rank zero. We actually prove a more general result.

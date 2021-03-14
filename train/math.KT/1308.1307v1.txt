@@ -1,0 +1,1 @@
+In this note we consider the coniveau filtration on the Grothendieck group of a regular separated noetherian scheme and its behavior with respect to the multiplication and the lambda ring structure. We show that a weak multiplicativity result can be proved. A strong compatibility result on Adams operations is also obtained.

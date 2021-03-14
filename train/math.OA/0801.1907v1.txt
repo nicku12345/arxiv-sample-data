@@ -1,0 +1,1 @@
+We construct a one parameter deformation of the group of 2\times 2 upper triangular matrices with determinant 1 using the twisting construction. An interesting feature of this new example of a locally compact quantum group is that the Haar measure is deformed in a non-trivial way. Also, we give a complete description of the dual \cs-algebra and the dual comultiplication.

@@ -1,0 +1,1 @@
+We show that if a bounded domain \Omega is exhausted by a bounded strictly pseudoconvex domain D with C^2 boundary, then \Omega is holomorphically equivalent to D or the unit ball, and show that a bounded domain has to be holomorphically equivalent to the unit ball if its Fridman's invariant has certain growth condition near the boundary.

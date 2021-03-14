@@ -1,0 +1,1 @@
+On Lie algebras, we study commutative 2-cocycles, i.e., symmetric bilinear forms satisfying the usual cocycle equation. We note their relationship with antiderivations and compute them for some classes of Lie algebras, including finite-dimensional semisimple, current and Kac-Moody algebras.

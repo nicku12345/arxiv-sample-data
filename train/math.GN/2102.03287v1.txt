@@ -1,0 +1,1 @@
+A \sigma-ideal \mathcal{I} on a Polish group (X,+) has Smital Property if for every dense set D and a Borel \mathcal{I}-positive set B the algebraic sum D+B is a complement of a set from \mathcal{I}. We consider several variants of this property and study their connections with countable chain condition, maximality and how well they are preserved via Fubini products.

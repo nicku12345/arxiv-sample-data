@@ -1,0 +1,1 @@
+For smooth bounded pseudoconvex domains in mathbb{C}^{2}, we provide geometric conditions on (the points of infinite type in) the boundary which imply compactness of the \bar{\partial}-Neumann operator. It is noteworthy that the proof of compactness does \emph{not} proceed via verifying the known potential theoretic sufficient conditions.

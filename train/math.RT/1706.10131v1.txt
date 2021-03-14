@@ -1,0 +1,1 @@
+Let G be a semisimple real Lie group with finite center and H a connected closed subgroup.   We establish a geometric criterion which detects whether the representation of G in L^2(G/H) is tempered.

@@ -1,0 +1,1 @@
+We show that the coherent state quantization of massive particles in 1+1 de Sitter space exhibits an ordering property: There exist some classical observables A and A^* such that O_{A^{*p}}O_{A^q}=O_{A^{*p} A^q} p, q \in \Z, where O_A is the quantum observable corresponding to the classical observable A.

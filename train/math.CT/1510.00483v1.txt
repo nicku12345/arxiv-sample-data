@@ -1,0 +1,1 @@
+In \cite{LS14} the analogy between the Kleisli construction and the construction of "warping a skew monoidale category" in the sense of \cite{LS12} was outlined. In this note we present the same work in a slightly more formal way.

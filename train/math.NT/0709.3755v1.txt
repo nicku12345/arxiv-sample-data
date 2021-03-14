@@ -1,0 +1,1 @@
+A systematic study of the trigonometric equation A tan a + B sin b = C, where A, B and C^2 are rational numbers. The special case tan Pi/11 + 4 sin 3 Pi/11 = sqrt[11] appears in the classical literature.

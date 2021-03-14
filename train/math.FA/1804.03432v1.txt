@@ -1,0 +1,1 @@
+In this paper we characterize Toeplitz matrices with entries in the space of bounded operators on Hilbert spaces \mathcal{B}(H) which define bounded operators acting on \ell^2(H) and use it to get the description of the right Schur multipliers acting on \ell^2(H) in terms of certain operator-valued measures.

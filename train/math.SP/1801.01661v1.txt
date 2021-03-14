@@ -1,0 +1,1 @@
+We consider a non self-adjoint Laplacian on a directed graph with non symmetric edge weights. We give necessary conditions for this Laplacian to be sectorial. We introduce a special self-adjoint operator and compare its essential spectrum with that of the non self-adjoint Laplacian considered.

@@ -1,0 +1,1 @@
+Let G be a planar graph such that the volume function of G satisfies V(2n)< CV(n) for some constant C > 0. Then for every vertex v of G and integer n, there is a domain \Omega such that B(v,n) \subset \Omega, \Omega \subset B(v, 6n) and the size of the boundary of \Omega is at most order n.

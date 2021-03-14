@@ -1,0 +1,1 @@
+A rectangular parallelepiped is called a cuboid (standing box). It is called perfect if its edges, face diagonals and body diagonal all have integer length. Euler gave an example where only the body diagonal failed to be an integer (Euler brick). Are there perfect cuboids? We prove that there is no perfect cuboid.

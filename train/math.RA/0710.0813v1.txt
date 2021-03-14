@@ -1,0 +1,1 @@
+It is proved that if R is a valuation domain with maximal ideal P and if R_L is countably generated for each prime ideal L, then R^R is separable if and only R_J is maximal, where J=\cap_{n\in\mathbb{N}}P^n.

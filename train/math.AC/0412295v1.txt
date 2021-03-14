@@ -1,0 +1,1 @@
+Let S=\Bbbk[x_1,..., x_n] be a polynomial ring over a field \Bbbk and I a monomial ideal of S. It is well known that the Poincar\'e series of \Bbbk over S/I is rational. We describe the coefficients of the denominator of the series and study the multigraded homotopy Lie algebra of S/I.

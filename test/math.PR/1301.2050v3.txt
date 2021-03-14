@@ -1,0 +1,1 @@
+In this note we consider a certain class of convolution operators acting on the L_p spaces of the one dimensional torus. We prove that the identity minus such an operator is nicely invertible on the subspace of functions with mean zero.

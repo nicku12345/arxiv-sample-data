@@ -1,0 +1,1 @@
+We extend a classical result by Rankin. We consider the following question: given n vectors v_i in the ball of radius R of an infinite dimensional Banach space {\cal B} with d(v_i,v_j)\geq 1, can we bound the number n?

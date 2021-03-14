@@ -1,0 +1,1 @@
+We define a new Cheeger-like constant for graphs and we use it for proving Cheeger-like inequalities that bound the largest eigenvalue of the normalized Laplace operator.

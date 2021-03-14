@@ -1,0 +1,1 @@
+We investigate the large-time behavior of viscosity solutions of quasi-monotone weakly coupled systems of Hamilton--Jacobi equations on the n-dimensional torus. We establish a convergence result to asymptotic solutions as time goes to infinity under rather restricted assumptions.

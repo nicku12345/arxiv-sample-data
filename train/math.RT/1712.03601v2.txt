@@ -1,0 +1,1 @@
+Let g be a complex, semisimple Lie algebra. Drinfeld showed that the quantum group associated to g is isomorphic as an algebra to the trivial deformation of the universal enveloping algebra of g. In this paper we construct explicitly such an isomorphism when g = sl(n), previously known only for n=2.

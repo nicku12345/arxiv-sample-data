@@ -1,0 +1,1 @@
+We describe an algorithm to compute the Schur multipliers of all nilpotent Lie p-rings in the family defined by a symbolic nilpotent Lie p-ring. Symbolic nilpotent Lie p-rings can be used to describe the isomorphism types of p-groups of order p^n for n \leq 7 and all primes p \geq n. We apply our algorithm to compute the Schur multipliers of all p-groups of order dividing p^6.

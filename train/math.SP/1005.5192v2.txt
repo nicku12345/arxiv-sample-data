@@ -1,0 +1,1 @@
+We provide leading order asymptotics for the size of the gap in the zeros around 1 of paraothogonal polynomials on the unit circle whose Verblunsky coefficients satisfy a slow decay condition and are inside the interval (-1,0). We also include related results that impose less restrictive conditions on the Verblunsky coefficients.

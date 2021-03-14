@@ -1,0 +1,1 @@
+Let V be an even dimensional vector space over a field K of characteristic 2 equipped with a non-degenerate alternating bilinear form f. The divided power algebra DV is considered as a complex with differential defined from f. We examine the cohomology modules as representations of the corresponding symplectic group.

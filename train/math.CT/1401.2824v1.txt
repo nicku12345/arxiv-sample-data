@@ -1,0 +1,1 @@
+Given a bundle gerbe on a compact smooth manifold or, more generally, on a compact \'etale Lie groupoid M, we show that the corresponding category of gerbe modules, if it is non-trivial, is equivalent to the category of finitely generated projective modules over an Azumaya algebra on M. This result can be seen as an equivariant Serre-Swan theorem for twisted vector bundles.

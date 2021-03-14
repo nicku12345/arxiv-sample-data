@@ -1,0 +1,1 @@
+In this note, we show that the twisted Grassmann graph constructed by van Dam and Koolen is the block graph of the design constructed by Jungnickel and Tonchev. We also show that the full automorphism group of the design is isomorphic to the full automorphism group of the twisted Grassmann graph.

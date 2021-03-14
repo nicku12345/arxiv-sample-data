@@ -1,0 +1,1 @@
+In this article we address the question whether the complex Monge-Amp\`{e}re equation is solvable for measures with large singular part. We prove that under some conditions there are no solution when the right-hand side is carried by a smooth subvariety in \CEP{n} of dimension k<n.

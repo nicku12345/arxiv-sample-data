@@ -1,0 +1,1 @@
+In this paper we consider a notion of pointwise Kan extension in double categories that naturally generalises Dubuc's notion of pointwise Kan extension along enriched functors. We show that, when considered in equipments that admit opcartesian tabulations, it generalises Street's notion of pointwise Kan extension in 2-categories.

@@ -1,0 +1,1 @@
+We introduce a new class of simple Lie algebras W(n,m) that generalize the Witt algebra by using "exponential" functions, and also a subalgebra W^*(n,m) thereof; and we show each derivation of W^*(1,0) can be written as a sum of an inner derivation and a scalar derivation. The Lie algebra W(n,m) is Z-graded and is infinite growth.

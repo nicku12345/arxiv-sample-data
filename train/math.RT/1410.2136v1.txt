@@ -1,0 +1,1 @@
+The graded cellularity of Libedinsky Double Leaves, which form a basis for the endomorphism ring of the Bott_Samelson_Soergel bimodules, allows us to view the Kazhdan_Lusztig polynomials as graded decomposition numbers. Using this point of view, I provide in this paper a new proof of the monotonicity conjecture for the Kazhdan_Lusztig polynomials of any Coxeter system.

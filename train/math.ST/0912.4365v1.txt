@@ -1,0 +1,1 @@
+We are interested in the following version of Jeffreys's law: if two predictors are predicting the same sequence of events and either is doing a satisfactory job, they will make similar predictions in the long run. We give a classification of instances of Jeffreys's law, illustrated with examples.

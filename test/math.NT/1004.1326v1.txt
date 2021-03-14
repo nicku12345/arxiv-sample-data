@@ -1,0 +1,1 @@
+Let x be a point in R^2 with irrational slope and let \Gamma denote the lattice SL(2,Z) acting linearly on R^2. Then, the orbit \Gamma x is dense in R^2. We give efective results on the approximation of a point y in R^2 by points of the form \gamma x, where \gamma belongs to \Gamma, in terms of the size of \gamma.

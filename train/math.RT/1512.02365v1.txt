@@ -1,0 +1,1 @@
+In this paper, we prove a weak kernel formula of Bessel functions attached to irreducible generic representations of p-adic GL(n). As an application, we show that the Bessel function defined by Bessel distribution coincides with the Bessel function defined via uniqueness of Whittaker models on the open Bruhat cell.

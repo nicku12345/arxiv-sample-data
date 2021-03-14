@@ -1,0 +1,1 @@
+In this paper, using a method of Luca and the author, we find all values x such that the quadratic polynomials x^2+1, x^2+4, x^2+2 and x^2-2 are 200-smooth and all values x such that the quadratic polynomial x^2-4 is 100-smooth.

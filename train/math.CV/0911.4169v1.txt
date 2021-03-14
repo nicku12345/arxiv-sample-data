@@ -1,0 +1,1 @@
+We give a precise estimate of the Bergman kernel for the model domain defined by \Omega_F=\{(z,w)\in \mathbb{C}^{n+1}:{\rm Im}w-|F(z)|^2>0\}, where F=(f_1,...,f_m) is a holomorphic map from \mathbb{C}^n to \mathbb{C}^m, in terms of the complex singularity exponent of F.

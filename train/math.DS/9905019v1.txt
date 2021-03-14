@@ -1,0 +1,1 @@
+Examples are given of tent maps T for which there exist non-trivial sets B \subset [0,1] such that T:B \to B is a homeomorphism.

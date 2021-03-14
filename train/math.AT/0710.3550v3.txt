@@ -1,0 +1,1 @@
+We construct an action of a free resolution of the Frobenius properad on the differential forms of a closed oriented manifold. As a consequence, the forms of a manifold with values in a semi-simple Lie algebra have an additional structure given by an action of a free resolution of the properad describing Lie di-algebras with module compatibility.

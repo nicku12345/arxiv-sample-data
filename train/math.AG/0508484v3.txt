@@ -1,0 +1,1 @@
+We prove more precisely the following main result of \cite{Isk1}. There is two non-conjugate embeddings of S_3\times \ZZ_2 into the Cremona group that is given by the linear action of this group on the plane and the action on the two-dimensional torus.

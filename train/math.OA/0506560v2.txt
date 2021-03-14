@@ -1,0 +1,1 @@
+Motivated by a result on weak Markov dilations, we define a notion of characteristic function for ergodic and coisometric row contractions with a one-dimensional invariant subspace for the adjoints. This extends a definition given by G. Popescu. We prove that our characteristic function is a complete unitary invariant for such tuples and show how it can be computed.

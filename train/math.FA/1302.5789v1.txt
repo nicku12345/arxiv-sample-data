@@ -1,0 +1,1 @@
+A class of negative definite kernels is defined in terms of measure spaces. Using this concept, property (T) for a countable group \G is characterized in terms of measure preserving actions of \G, as follows. If a set S is translated a finite amount by any fixed element of \G, then there is a uniform bound on how far S is translated.

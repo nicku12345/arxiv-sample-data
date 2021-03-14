@@ -1,0 +1,1 @@
+For every n\in\mathbb N we construct a finite graph G such that every orientation \vec G of G contains an isometric copy of any oriented tree on n vertices, and evaluate the smallest possible cardinality of G. On the other hand, we prove that every graph G admits an orientation containing no directed \omega-paths of infinite diameter.

@@ -1,0 +1,1 @@
+We define a stably free ideal domain to be a Noetherian domain whose left and right ideals ideals are all stably free. We define also a semi-stably free ideal domain to be an Ore domain whose finitely generated left and right ideals are stably free. Some properties of these rings are studied.

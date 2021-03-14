@@ -1,0 +1,1 @@
+We prove an O(log n) bound for the expectation of the logarithm of the condition number K for the computation of optimizers of linear programs.

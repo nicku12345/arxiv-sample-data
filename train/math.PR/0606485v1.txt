@@ -1,0 +1,1 @@
+In this paper we study random walks on the hypergroup of conics in finite fields. We investigate the behavior of random walks on this hypergroup, the equilibrium distribution and the mixing times. We use the coupling method to show that the mixing time of random walks on hypergroup of conics is only linear.

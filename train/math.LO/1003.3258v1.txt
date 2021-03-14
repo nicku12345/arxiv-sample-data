@@ -1,0 +1,1 @@
+We study continuous actions of Polish groups on Polish spaces. We develop Scott analysis introduced by Hjorth for studying orbit equivalence relations. We define eventually open actions and prove that this property characterizes the actions endowed with a complete system of hereditarily countable invariant structures.

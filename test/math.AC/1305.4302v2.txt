@@ -1,0 +1,1 @@
+Herzog and Takayama constructed explicit resolutions for the class of so called ideals with a regular linear quotient. This class contains all matroidal and stable ideals. The resolutions of matroidal and stable ideals are known to be cellular. In this note we show that the Herzog--Takayama resolution is also cellular.

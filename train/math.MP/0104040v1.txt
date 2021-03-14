@@ -1,0 +1,1 @@
+We introduce an n-ary Lie algebroid canonically associated with a Nambu-Poisson manifold. We also prove that every Nambu-Poisson bracket defined on functions is induced by some differential operator on the exterior algebra, and characterize such operators. Some physical examples are presented.

@@ -1,0 +1,1 @@
+Higher rank semigraph algebras are introduced by mixing concepts of ultragraph algebras and higher rank graph algebras. This yields a kind of higher rank generalisation of ultragraph algebras. We prove Cuntz--Krieger uniqueness theorems for cancelling semigraph algebras and aperiodic full semigraph algebras.

@@ -1,0 +1,1 @@
+We consider radial solutions of an elliptic equation involving the p-Laplace operator and prove by a shooting method the existence of compactly supported solutions with any prescribed number of nodes. The method is based on a change of variables in the phase plane corresponding to an asymptotic Hamiltonian system and provides qualitative properties of the solutions.

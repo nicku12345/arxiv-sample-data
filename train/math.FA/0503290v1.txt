@@ -1,0 +1,1 @@
+For -1<p<1 we introduce the concept of a polar p-centroid body {\Gamma^*_p K} of a star body K. We consider the question of whether {\Gamma^*_p K}\subset {\Gamma^*_p L} implies \mathrm{vol}(L)\le \mathrm{vol}(K). Our results extend the studies by Lutwak in the case p=1 and Grinberg, Zhang in the case p> 1.

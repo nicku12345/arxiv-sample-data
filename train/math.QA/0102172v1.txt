@@ -1,0 +1,1 @@
+We define several differential graded operads, some of them being related to families of polytopes : simplices and permutohedra. We also obtain a presentation by generators and relations of the operad K on associahedra introduced in a previous article.

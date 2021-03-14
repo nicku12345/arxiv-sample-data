@@ -1,0 +1,1 @@
+This paper introduces a number of new intrinsically 3-linked graphs through five new constructions. We then prove that intrinsic 3-linkedness is not preserved by \text{Y}\nabla moves. We will see that the graph M, which is obtained through a \text{Y}\nabla move on (PG)^*_*(PG), is not intrinsically 3-linked.

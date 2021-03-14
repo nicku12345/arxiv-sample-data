@@ -1,0 +1,1 @@
+We looked at a method for estimating the complexity measure of game tree size (the number of legal games). It seems effective for a number of children's games such as Tic-Tac-Toe, Connect Four and Othello.

@@ -1,0 +1,1 @@
+The present note considers a certain family of sums indexed by the set of fixed length compositions of a given number. The sums in question cannot be realized as weighted compositions. However they can be be related to the hypergeometric function, thereby allowing one to factorize the corresponding generating polynomials. This factorization leads to some interesting identities.

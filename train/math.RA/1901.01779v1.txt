@@ -1,0 +1,1 @@
+Let K be a 2-torsion free ring with identity. We give a description of the Lie derivations of R=R_{n}(K,J)=NT_{n}(K)+M_{n}(J), the ring of all n\times n matrices over K such that the entries on and above the main diagonal are elements of an ideal J of K.

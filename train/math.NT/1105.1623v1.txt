@@ -1,0 +1,1 @@
+We give a large sieve type inequality for functions supported on primes. As application we prove a conjecture by Elliott, and give bounds for short character sums over primes. The proves uses a combination of the large sieve and the Selberg sieve.

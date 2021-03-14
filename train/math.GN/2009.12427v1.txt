@@ -1,0 +1,1 @@
+We construct a geometrically self-similar Cantor set X of genus 2 in \mathbb{R}^3. This construction is the first for which the local genus is shown to be 2 at every point of X. As an application, we construct, also for the first time, a uniformly quasiregular mapping f:\mathbb{R}^3 \to \mathbb{R}^3 for which the Julia set J(f) is a genus 2 Cantor set.

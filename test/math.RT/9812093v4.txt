@@ -1,0 +1,1 @@
+Here we propose a way to construct generalized Kostka polynomials. Namely, we construct an equivariant filtration on tensor products of irreducible representations. Further, we discuss properties of the filtration and the adjoint graded space. Finally, we apply the construction to computation of coinvariants of current algebras.

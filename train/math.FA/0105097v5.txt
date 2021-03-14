@@ -1,0 +1,1 @@
+This paper introduces the proper notion of variational quasiconvexity associated to a group of diffeomorphisms. We prove a lower semicontinuity theorem connected to this notion. In the second part of the paper we apply this result to a class of functions introduced in [5]. Such functions are GL(n,R)^{+} quasiconvex, hence they induce lower semicontinuous integrals.

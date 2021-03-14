@@ -1,0 +1,1 @@
+There is a well known one--parameter family of left invariant CR structures on SU(2)\cong S^3. We show how purely algebraic methods can be used to explicitly compute the canonical Cartan connections associated to these structures and their curvatures. We also obtain explicit descriptions of tractor bundles and tractor connections.

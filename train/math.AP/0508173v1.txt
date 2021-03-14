@@ -1,0 +1,1 @@
+It is proved, using a bootstrap argument, that linear instability implies nonlinear instability for the incompressible Navier-Stokes equations in L^p for all p \in (1,\infty) and any finite or infinite domain in any dimension n.

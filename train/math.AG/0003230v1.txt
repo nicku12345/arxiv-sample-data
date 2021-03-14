@@ -1,0 +1,1 @@
+We prove that a smooth projective variety of dimension n is isomorphic to projective n-space iff the canonical class is -(n+1)-times an ample divisor. In characteristic zero this was proved by Kobayashi-Ochiai. We also extend the second adjunction theorem of Ionescu and Fujita to arbitrary characteristic.

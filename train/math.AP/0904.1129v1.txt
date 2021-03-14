@@ -1,0 +1,1 @@
+In space dimension n\geq3, we consider the magnetic Schr\"odinger Hamiltonian H=-(\nabla-iA(x))^2 and the corresponding Schr\"odinger equation i\partial_tu+Hu=0. We show some explicit examples of potentials A, with less than Coulomb decay, for which any solution of this equation cannot satisfy Strichartz estimates, in the whole range of Schr\"odinger admissibility.

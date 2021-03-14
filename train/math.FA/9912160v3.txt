@@ -1,0 +1,1 @@
+In this note we construct Swiss cheeses X such that R(X) is non-regular but such that R(X) has no non-trivial Jensen measures. We also construct a non-regular uniform algebra with compact, metrizable character space such that every point of the character space is a peak point.

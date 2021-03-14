@@ -1,0 +1,1 @@
+We prove that if A is a synaptic algebra and the orthomodular lattice P of projections in A is complete, then A is a factor iff A is an antilattice. We also generalize several other results of R. Kadison pertaining to infima and suprema in operator algebras.

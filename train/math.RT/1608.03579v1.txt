@@ -1,0 +1,1 @@
+We give a proof of the finite generation of the cohomology ring of a finite p-group over F_p by reduction to the case of elementary abelian groups, based on Serre's Theorem on products of Bocksteins.

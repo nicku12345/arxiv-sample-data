@@ -1,0 +1,1 @@
+We build penalized least-squares estimators using the slope heuristic and resampling penalties. We prove oracle inequalities for the selected estimator with leading constant asymptotically equal to 1. We compare the practical performances of these methods in a short simulation study.

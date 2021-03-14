@@ -1,0 +1,1 @@
+It was studied coherent states in complex variables in SU(2), SU(3), SU(4) groups and in general in SU(n) group. Using the completeness relation of the coherent state, we obtain a path integral expression for transition amplitude which connects a pair of SU(n) coherent states. In the classical limit, a canonical equation of motion is obtained.

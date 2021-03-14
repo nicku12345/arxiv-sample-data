@@ -1,0 +1,1 @@
+Under certain general conditions, an explicit formula to compute the greatest delta-epsilon function of a continuous function is given. From this formula, a new way to analyze the uniform continuity of a continuous function is given. Several examples illustrating the theory are discussed.

@@ -1,0 +1,1 @@
+In this note, we show that there are many infinity positive integer values of n in which, the following inequality holds  \left\lfloor{1/2}(\frac{(n+1)^2}{\log(n+1)}-\frac{n^2}{\log n})-\frac{\log^2 n}{\log\log n}\right\rfloor\leq\pi\big((n+1)^2\big)-\pi(n^2). 

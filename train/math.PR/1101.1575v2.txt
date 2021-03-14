@@ -1,0 +1,1 @@
+We define an equation on a simple graph which is an extension of Tanaka equation and the skew Brownian motion equation. We then apply the theory of transition kernels developped by Le Jan and Raimond and show that all the solutions can be classified by probability measures.

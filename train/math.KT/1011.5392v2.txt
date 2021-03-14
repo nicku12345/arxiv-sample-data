@@ -1,0 +1,1 @@
+In this paper, we investigate homotopy invariance for homology of SL_4. For any commutative ring, the group E_4(R[t]) acts on a simplicial complex whose contractibility implies homotopy invariance. We show that for a local factorial ring R, this complex satisfies the CAT(0)-property for the induced length metric from the Bruhat-Tits building.

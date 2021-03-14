@@ -1,0 +1,1 @@
+Qualitative and spectral properties of the form-sums   S_{\pm}(V):=D_{\pm}^{2m}\dotplus V(x),\quad m\in \mathbb{N}, in the Hilbert space L_{2}(0,1) are studied. Here the periodic (D_{+}) and the semiperiodic (D_{-}) differential operators are D_{\pm}: u\mapsto -i u', and V(x) is a 1-periodic complex-valued distribution in the Sobolev spaces H_{per}^{-m\alpha}, \alpha\in [0,1].

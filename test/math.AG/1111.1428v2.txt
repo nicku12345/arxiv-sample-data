@@ -1,0 +1,1 @@
+Fix integers m \ge 2, s\ge 5 and d\ge 2s+2. Here we describe the possible symmetric tensor ranks \le 2d+s-7 of all symmetric tensors (or homogeneous degree d polynomials) in m+1 variables with border rank s.

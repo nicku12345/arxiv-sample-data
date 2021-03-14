@@ -1,0 +1,1 @@
+The explicit constructions of minimal isometric, and minimal unitary dilations of an arbitrary linear pencil of operators T(\lambda)=T_0+\lambda T_1 consisting of contractions on a separable Hilbert space for |\lambda |=1, which generalize the classical constructions (the case T_1=0), are presented. In contrast to the classical case these dilations are essentially non-unique.

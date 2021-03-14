@@ -1,0 +1,1 @@
+We prove that, for a suitable choice of real numbers a, b, every operator from \ell_2 to X_{a,b} and from X_{a,b} to \ell_2 must be compact, where X_{a,b} is the Bourgain- Delbaen's space.

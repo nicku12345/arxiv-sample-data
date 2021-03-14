@@ -1,0 +1,1 @@
+Applying an Abstract Interpolation Lemma, we can show persistence of solutions of the initial value problem to higher order nonlinear Schr\"odinger equation, also called Airy-Schr\"odinger equation, in weighted Sobolev spaces \mathcal{X}^{2,\theta}, for 0 \le \theta \le 1.

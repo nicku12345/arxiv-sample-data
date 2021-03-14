@@ -1,0 +1,1 @@
+Using the combinatorial information of a Brauer configuration is possible to compute each entry of the Cartan matrix of the algebra associated to the Brauer configuration.

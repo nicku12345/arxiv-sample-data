@@ -1,0 +1,1 @@
+Using earlier results we prove a formula for the number W_{(n,k)} of 2-stack sortable permutations of length n with k runs, or in other words, k-1 descents. This formula will yield the suprising fact that there are as many 2-stack sortable permutations with k-1 descents as with k-1 ascents. We also prove that W_{(n,k)} is unimodal in k, for any fixed n.

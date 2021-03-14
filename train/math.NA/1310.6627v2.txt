@@ -1,0 +1,1 @@
+In this paper, a compact alternating direction implicit (ADI) finite difference scheme for the two-dimensional time fractional diffusion-wave equation is developed, with temporal and spatial accuracy order equal to two and four respectively. The second order accuracy in the time direction has not been achieved in previous studies.

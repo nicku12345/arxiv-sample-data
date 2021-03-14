@@ -1,0 +1,1 @@
+In this paper, we establish the Composition-Diamond lemma for free differential algebras. As applications, we give Groebner-Shirshov bases for free Lie-differential algebra and free commutative-differential algebra, respectively.

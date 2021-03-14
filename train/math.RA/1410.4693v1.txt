@@ -1,0 +1,1 @@
+We compare some recent approaches to extending the notions of left- and right-star partial order, introduced for complex matrices in early 90-ies, to bounded linear Hilbert space operators and to certain *-rings, and discuss in more detail a version of right-star partial order on a Rickart *-ring R. Regularity of R is not presumed.

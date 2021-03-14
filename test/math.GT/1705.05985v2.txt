@@ -1,0 +1,1 @@
+We show that there is a knot satisfying the property that for each minimal crossing number diagram of the knot and each single crossing of the diagram, changing the crossing results in a diagram for a knot whose unknotting number is at least that of the original knot, thus giving a counterexample to the Bernhard-Jablan Conjecture.

@@ -1,0 +1,1 @@
+Let X be a Banach space with a separable dual X^{*}. Let Y\subset X be a closed subspace, and f:Y\to\mathbb{R} a C^{1}-smooth function. Then we show there is a C^{1} extension of f to X.

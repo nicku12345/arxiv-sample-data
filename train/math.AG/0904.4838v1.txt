@@ -1,0 +1,1 @@
+This paper gathers results obtained with a software written in Java. For exceptional minuscule, quasi-minuscule, cominuscule or adjoint homogeneous spaces, the Schubert cells are expressed as polynomials in the generators of the quantum cohomology algebra.

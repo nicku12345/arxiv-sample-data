@@ -1,0 +1,1 @@
+A characterization of nef and good divisors is given: a divisor D on a smooth complex projective variety is nef and good if and only if the asymptotic multiplier ideals of sufficiently high multiples of e(D) D are trivial, where e(D) denotes the exponent of the divisor D. Some results of the same kind are proved in the analytic setting.

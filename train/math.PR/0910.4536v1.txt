@@ -1,0 +1,1 @@
+We use a coupling method for functional stochastic differential equations with bounded memory to establish an analogue of Wang's dimension-free Harnack inequality \cite{MR1481127}. The strong Feller property for the corresponding segment process is also obtained.

@@ -1,0 +1,1 @@
+In this paper, we prove the uniqueness of Ginzburg-Rallis models in the archimedean case. As a key ingredient, we introduce a new descent argument based on two geometric notions attached to submanifolds, which we call metrical properness and unipotent \chi-incompatibility.

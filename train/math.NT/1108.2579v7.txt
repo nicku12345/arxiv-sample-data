@@ -1,0 +1,1 @@
+Carmichael quotients for an integer m\ge 2 are introduced analogous to Fermat quotients, by using Carmichael function \lambda(m). Various properties of these new quotients are investigated, such as basic arithmetic properties, sequences derived from Carmichael quotients, Carmichael-Wieferich numbers, and so on. Finally, we link Carmichael quotients to perfect nonlinear functions.

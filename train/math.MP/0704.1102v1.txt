@@ -1,0 +1,1 @@
+We consider operators H_\mu of convolution with measures \mu on locally compact groups. We characterize the spectrum of H_\mu by constructing auxiliary operators whose kernel contain the pure point and singular subspaces of H_\mu, respectively. The proofs rely on commutator methods.

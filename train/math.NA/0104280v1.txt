@@ -1,0 +1,1 @@
+Iterative methods for the simultaneous determination of all roots of an equation are dis-cussed. The multiplicities of the roots are assumed to be known in advance. The methods are proved to have a cubical rate of convergence. Numerical examples are given.

@@ -1,0 +1,1 @@
+We prove a cyclic Lefschetz formula for foliations. To this end, we define a notion of equivariant cyclic cohomology and show that its expected pairing with K-theory is well defined. This enables to associate to any invariant transverse current on a compact foliated manifold, a Lefschetz formula for leafwise preserving isometries.

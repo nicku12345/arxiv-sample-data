@@ -1,0 +1,1 @@
+We prove that a finite dimensional algebra \Lambda is \tau-tilting finite if and only if all the bricks over \Lambda are finitely generated. This is obtained as a consequence of the existence of proper locally maximal torsion classes for \tau-tilting infinite algebras.

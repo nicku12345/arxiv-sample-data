@@ -1,0 +1,1 @@
+We show that a homotopy equivalence between manifolds induces a correspondence between their spin^c-structures, even in the presence of 2-torsion. This is proved by generalizing spin^c-structures to Poincare complexes. A procedure is given for explicitly computing the correspondence under reasonable hypotheses.

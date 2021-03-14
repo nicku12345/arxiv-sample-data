@@ -1,0 +1,1 @@
+By changing variables in a suitable way and using dominated convergence methods, this note gives a short proof of Stirling's formula and its refinement.

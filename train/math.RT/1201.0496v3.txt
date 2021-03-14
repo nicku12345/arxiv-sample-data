@@ -1,0 +1,1 @@
+We consider the question: what is the contragredient in terms of L-homomorphisms? We conjecture that it corresponds to the Chevalley automorphism of the L-group, and prove this in the case of real groups. The proof uses a characterization of the local Langlands correspondence over R. We also consider the related notion of Hermitian dual, in the case of GL(n,R).

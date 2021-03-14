@@ -1,0 +1,1 @@
+We prove the Ingram Conjecture, i.e., we show that the inverse limit spaces of every two tent maps with different slopes in the interval [1, 2] are non-homeomorphic. Based on the structure obtained from the proof, we also show that every self-homeomorphism of the inverse limit space of the tent map is pseudo-isotopic, on the core, to some power of the shift homeomorphism.

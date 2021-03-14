@@ -1,0 +1,1 @@
+We prove that the irreducible decomposition of the permutation representation of GL(n,q) on GL(n,q)/GL(n-m,q) stabilizes for large n. We deduce, as a consequence, a representation stability theorem for finitely generated VIC-modules.

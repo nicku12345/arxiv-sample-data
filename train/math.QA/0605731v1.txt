@@ -1,0 +1,1 @@
+We study a natural construction of Hopf algebra quotients canonically associated to an R-matrix in a finite dimensional Hopf algebra. We apply this construction to show that a quasitriangular Hopf algebra whose dimension is odd and square-free is necessarily cocommutative.

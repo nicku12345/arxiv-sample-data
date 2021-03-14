@@ -1,0 +1,1 @@
+Let \{\Omega_t:-1<t<1\} be a family of bounded pseudoconvex domains and \varphi_t\in PSH(\Omega_t). Let K_t(z,w) denote the Bergman kernel with weight \varphi_t on \Omega_t. We study the continuity and H\"older continuity of K_t(z,w) in t. Several applications to singularity theory of psh functions are given, including a new proof of the openness theorem.

@@ -1,0 +1,1 @@
+In this paper we give a lower bound on the waist of the unit sphere of a uniformly convex normed space by using the localization technique in codimension greater than one and a strong version of the Borsuk-Ulam theorem. The tools used in this paper follow ideas of M. Gromov in [4]. Our isoperimetric type inequality generalizes the Gromov-Milman isoperimetric inequality in [5].

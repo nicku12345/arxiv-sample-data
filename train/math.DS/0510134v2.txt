@@ -1,0 +1,1 @@
+Let S be a compact, oriented surface with negative Euler characteristic and let f be a homeomorphism of S that is isotopic to the identity. If there exists a periodic orbit with a non-zero rotation vector, then there exists a simple braid with the same rotation vector.

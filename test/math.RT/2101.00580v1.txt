@@ -1,0 +1,1 @@
+Let \mathfrak g(G,\lambda) denote the deformed generalized Heisenberg-Virasoro algebra related to a complex parameter \lambda\neq-1 and an additive subgroup G of \mathbb C. For a total order on G that is compatible with addition, a Verma module over \mathfrak g(G,\lambda) is defined. In this paper, we completely determine the irreducibility of these Verma modules.

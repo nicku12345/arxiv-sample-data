@@ -1,0 +1,1 @@
+We characterize all finite p-groups G of order p^n(n\leq 6), where p is a prime for n\leq 5 and an odd prime for n = 6, such that the center of the inner automorphism group of G is equal to the group of central automorphisms of G.

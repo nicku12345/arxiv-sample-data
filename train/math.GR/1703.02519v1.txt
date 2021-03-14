@@ -1,0 +1,1 @@
+We study the P versus NP problem through properties of functions and monoids, continuing the work of [3]. Here we consider inverse monoids whose properties and relationships determine whether P is different from NP, or whether injective one-way functions (with respect to worst-case complexity) exist.

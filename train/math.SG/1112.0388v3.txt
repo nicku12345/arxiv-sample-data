@@ -1,0 +1,1 @@
+We prove that for a compact toric manifold whose anti-canonical divisor is numerically effective, the Lagrangian Floer superpotential defined by Fukaya-Oh-Ohto-Ono is equal to the superpotential written down by using the toric mirror map under a convergence assumption. This gives a method to compute open Gromov-Witten invariants using mirror symmetry.

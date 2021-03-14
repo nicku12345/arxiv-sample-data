@@ -1,0 +1,1 @@
+We show among others that the formula:  \lfloor n + \log_{\Phi}\{\sqrt{5}(\log_{\Phi}(\sqrt{5}n) + n) -5 + \frac{3}{n}\} - 2 \rfloor (n \geq 2),  (where \Phi denotes the golden ratio and \lfloor \rfloor denotes the integer part) generates the non-Fibonacci numbers.

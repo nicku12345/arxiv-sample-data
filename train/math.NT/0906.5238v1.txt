@@ -1,0 +1,1 @@
+We will use Thue-Siegel method, based on Pad\'e approximation via hypergeometric functions, to give upper bounds for the number of integral solutions to the equation |F(x, y)| = 1 as well as the inequalities |F(x, y)| \leq h, for a certain family of irreducible quartic binary forms.

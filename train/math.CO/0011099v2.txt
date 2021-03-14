@@ -1,0 +1,1 @@
+Based on Sch\"utzenberger's evacuation and a modification of jeu de taquin, we give a bijective proof of an identity connecting the generating function of reverse semistandard Young tableaux with bounded entries with the generating function of all semistandard Young tableaux. This solves Exercise 7.102 b of Richard Stanley's book `Enumerative Combinatorics 2'.

@@ -1,0 +1,1 @@
+We construct a compact subset K of the four dimensional Euclidean space with the following property: For all values of the parameter in an interval, the Vietoris-Rips complex of K has uncountably generated first homology. This answers a question that arose in work on persistent homology.

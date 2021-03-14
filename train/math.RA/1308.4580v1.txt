@@ -1,0 +1,1 @@
+For each complex 8-dimensional filiform Lie algebra we find another non isomorphic Lie algebra that degenerates to it. Since this is already known for nilpotent Lie algebras of rank \ge 1, only the caracteristically nilpotent ones should be considered.

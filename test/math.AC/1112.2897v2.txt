@@ -1,0 +1,1 @@
+Let X be a codimension 1 subvariety of dimension >1 of a variety of minimal degree Y. If X is subcanonical with Gorenstein canonical singularities admitting a crepant resolution, then X is Arithmetically Gorenstein and we characterise such subvarieties X of Y via apolarity as those whose apolar hypersurfaces are Fermat.

@@ -1,0 +1,1 @@
+We compute the homotopy groups of spectra associated by a theorem of Lurie to the Shimura curves of discriminants 6, 10, and 14, beginning with a computation of integral rings of automorphic forms on these curves. As an application, we find that a generalized truncated Brown-Peterson spectrum BP<2> is an E_\infty ring spectrum at the prime 3.

@@ -1,0 +1,1 @@
+Let R = K[x_1, x_2, x_3, x_4] be the polynomial ring over a field of characteristic zero. For the ideal (x_1^a, x_2^b, x_3^c, x_4^d) \subset R, where at least one of a, b, c and d is equal to two, we prove that its generic initial ideal with respect to the reverse lexicographic order is the almost revlex ideal corresponding to the same Hilbert function.

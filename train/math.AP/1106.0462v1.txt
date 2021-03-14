@@ -1,0 +1,1 @@
+We give some generic properties of non degeneracy for critical points of functionals. We apply these results, obtaining some theorems of multiplicity of solutions for the equation -{\epsilon}^2\Delta_g u+u=|u|p-2u in M, u in H_g^1(M) where M is a compact Riemannian manifold of dimension n and 2< p<2n/(n-2).

@@ -1,0 +1,1 @@
+For quickly decreasing potentials with one position variable, the first threshold zero is always a resonance of the Kramers-Fokker-Planck operator. In this article we study low-energy spectral properties of the operator and calculate large time asymptotics of solutions in terms of the Maxwellian.

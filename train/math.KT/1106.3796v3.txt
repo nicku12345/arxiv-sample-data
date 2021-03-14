@@ -1,0 +1,1 @@
+In this paper, we prove the algebraic K-theory Novikov conjecture for group algebras over the ring of Schatten class operators. The main technical tool in the proof is an explicit construction of the Connes-Chern character.

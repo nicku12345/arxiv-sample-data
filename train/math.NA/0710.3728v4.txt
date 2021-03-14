@@ -1,0 +1,1 @@
+L1Packv2 is a Mathematica package that contains a number of algorithms that can be used for the minimization of an \ell_1-penalized least squares functional. The algorithms can handle a mix of penalized and unpenalized variables. Several instructive examples are given. Also, an implementation that yields an exact output whenever exact data are given is provided.

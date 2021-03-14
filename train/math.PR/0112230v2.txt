@@ -1,0 +1,1 @@
+A general proof of the Dybvig-Ingersoll-Ross Theorem on the monotonicity of long forward rates is presented. Some inconsistencies in the original proof of this theorem are discussed.

@@ -1,0 +1,1 @@
+Let I be a monomial ideal of the polynomial ring S=K[x_1,...,x_4] over a field K. Then S/I is sequentially Cohen-Macaulay if and only if S/I is pretty clean. In particular, if S/I is sequentially Cohen-Macaulay then I is a Stanley ideal.

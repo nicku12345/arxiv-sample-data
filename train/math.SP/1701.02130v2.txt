@@ -1,0 +1,1 @@
+For a Riemannian covering M_1\to M_0 of complete Riemannian manifolds with boundary (possibly empty) and respective fundamental groups \Gamma_1\subseteq\Gamma_0, we show that the bottoms of the spectra of M_0 and M_1 coincide if the right action of \Gamma_0 on \Gamma_1\backslash\Gamma_0 is amenable.

@@ -1,0 +1,1 @@
+In this paper, we find an explicit formulas, or recurrences, in terms of generating functions for the cardinalities of the sets S_n(T;\tau) of all permutations in S_n that contain \tau\in S_k exactly once and avoid a subset T\subseteq S_3, |T|\geq2. The main body of the paper is divided into three sections corresponding to the cases |T|=2,3 and |T|\geq4.

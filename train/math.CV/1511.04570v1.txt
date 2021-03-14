@@ -1,0 +1,1 @@
+Using the fact that the maximal ideals in the polydisk algebra are given by the kernels of point evaluations, we derive a simple formula that gives a solution to the B\'ezout equation in the space of all entire functions of several complex variables. Thus a short and easy analytic proof of Cartan's Nullstellensatz is obtained.

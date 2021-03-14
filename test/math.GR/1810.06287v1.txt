@@ -1,0 +1,1 @@
+We study the automorphism group Aut(G) of a free product G of finite cyclic groups. We investigate the question in which cases Aut(G) has Serre's property FA. In the case of two or three free factors, we prove that Aut(G) does not have property FA. However, if each free factor of G occurs at least four times we show that Aut(G) does have property FA.

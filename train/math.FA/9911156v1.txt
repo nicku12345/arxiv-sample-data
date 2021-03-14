@@ -1,0 +1,1 @@
+A separable Banach space X contains \ell_1 isomorphically if and only if X has a bounded wc_0^*-stable biorthogonal system. The dual of a separable Banach space X fails the Schur property if and only if X has a bounded wc_0^*-biorthogonal system.

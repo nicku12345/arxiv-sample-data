@@ -1,0 +1,1 @@
+In this paper, we study conditions under which the solutions of a backward stochastic differential equation with jump remains in a given set of constrains. This property is the so-called "viability property". As an application, we study the comparison theorem for multidimensional BSDEs with jumps.

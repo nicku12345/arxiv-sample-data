@@ -1,0 +1,1 @@
+We compute the asymptotics of eigenvalues of Jacobi matrices with the zero coefficients on the main diagonal and the off-diagonal coefficients which converge to zero.

@@ -1,0 +1,1 @@
+We prove a Perron-Frobenius-Ruelle theorem for group extensions of topological Markov chains based on a construction of \sigma-finite conformal measures and give applications to the construction of harmonic functions.

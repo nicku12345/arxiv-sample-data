@@ -1,0 +1,1 @@
+Let G be a group and A be a G-graded algebra satisfying a polynomial identity. We buid up a model for the relative free G-graded algebra and we obtain, as an application, the "factoring" property for the T_G-ideals of block triangular matrices with entries from the finite dimensional Grassmann algebra E for some particular Z_2-grading.

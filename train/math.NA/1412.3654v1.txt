@@ -1,0 +1,1 @@
+We prove Korn's inequalities for Naghdi and Koiter shell models defined on spaces of discontinuous piecewise functions. They are useful in study of discontinuous finite element methods for shells.

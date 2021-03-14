@@ -1,0 +1,1 @@
+Let G be a special orthogonal group SO(2n+1) defined over a p-adic field F. Let \pi be an admissible irreducible representation of G(F) which is tempered and of unipotent reduction. We prove that \pi has a wave front set. In some particular cases, for instance if \pi is of the discrete series, we give a method to compute this wave front set.

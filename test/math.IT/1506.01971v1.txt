@@ -1,0 +1,1 @@
+LCD codes are linear codes that intersect with their dual trivially. Quasi cyclic codes that are LCD are characterized and studied by using their concatenated structure. Some asymptotic results are derived. Hermitian LCD codes are introduced to that end and their cyclic subclass is characterized. Constructions of QCCD codes from codes over larger alphabets are given.

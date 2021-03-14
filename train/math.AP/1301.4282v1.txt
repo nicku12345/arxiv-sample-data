@@ -1,0 +1,1 @@
+We study the global existence issue for a three-dimensional Approximate Deconvolution Model with a vertical filter. We consider this model in a bounded cylindrical domain where we construct a unique global weak solution. The proof is based on a refinement of the energy method given by Berselli in [3].

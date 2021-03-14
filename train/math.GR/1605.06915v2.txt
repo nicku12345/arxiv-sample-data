@@ -1,0 +1,1 @@
+We present a procedure of group cubization: It results in a group whose some features resemble the ones of a given group, and which acts without fixed points on a CAT(0) cubical complex. As a main application we establish lack of Kazhdan's property (T) for Burnside groups.

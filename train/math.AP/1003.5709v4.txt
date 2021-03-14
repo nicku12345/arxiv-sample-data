@@ -1,0 +1,1 @@
+In this paper, we consider Hartree-type equations on the two-dimensional torus and on the plane. We prove polynomial bounds on the growth of high Sobolev norms of solutions to these equations. The proofs of our results are based on the adaptation to two dimensions of the techniques we previously used to study analogous problems on S^1, and on \mathbb{R}.

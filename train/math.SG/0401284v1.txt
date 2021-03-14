@@ -1,0 +1,1 @@
+This short note presents a simple construction of nonisotopic symplectic tori representing the same primitive homology class in the symplectic 4-manifold E(1)_K, obtained by knot surgery on the rational elliptic surface E(1) with the left-handed trefoil knot K. E(1)_K has the simplest homotopy type among simply-connected symplectic 4-manifolds known to exhibit such property.

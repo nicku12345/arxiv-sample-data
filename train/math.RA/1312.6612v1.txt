@@ -1,0 +1,1 @@
+We classify (possibly non commutative) algebras of low rank over a domain R. We first review results for algebras of rank 2 and for finite-dimensional division algebras over the real numbers. These results motivate us to consider which algebras possess a standard involution. Our main result is that algebras of rank 3 are either commutative or possess a standard involution.

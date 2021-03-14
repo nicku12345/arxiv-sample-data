@@ -1,0 +1,1 @@
+Let X be a proper metric space and let F be a finite group acting on X by isometries. We show that the asymptotic dimension of F\backslash X is the same as the asymptotic dimension of X.

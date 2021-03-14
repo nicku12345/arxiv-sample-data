@@ -1,0 +1,1 @@
+In this paper, we prove that, if the coefficient f = f(t; y; z) of backward doubly stochastic differential equations (BDSDEs for short) is assumed to be continuous and linear growth in (y; z); then the uniqueness of solution and continuous dependence with respect to the coefficients f, g and the terminal value are equivalent.

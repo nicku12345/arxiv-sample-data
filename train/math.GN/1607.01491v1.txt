@@ -1,0 +1,1 @@
+This paper studies various completeness properties of the open-point and bi-point-open topologies on the space C(X) of all real-valued continuous functions on a Tychonoff space X. The properties range from complete metrizability to the Baire space property.

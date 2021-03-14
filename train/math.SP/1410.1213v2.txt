@@ -1,0 +1,1 @@
+We study the spectrum of unbounded J-self-adjoint block operator matrices. In particular, we prove enclosures for the spectrum, provide a sufficient condition for the spectrum being real and derive variational principles for certain real eigenvalues even in the presence of non-real spectrum. The latter lead to lower and upper bounds and asymptotic estimates for eigenvalues.

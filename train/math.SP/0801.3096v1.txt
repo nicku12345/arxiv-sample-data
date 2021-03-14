@@ -1,0 +1,1 @@
+We consider Schroedinger operator -\Delta+V in R^d (d\ge 2) with smooth periodic potential V and prove that there are only finitely many gaps in its spectrum.

@@ -1,0 +1,1 @@
+We use the topological invariant of spatial graphs introduced by S. Yamada to find necessary conditions for a spatial graph to be periodic with a prime period. The proof of the main result is based on computing the Yamada skein algebra of the solid torus then proving that this algebra injects into the Kauffman bracket skein algebra of the solid torus.

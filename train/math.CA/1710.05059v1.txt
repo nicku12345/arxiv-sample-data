@@ -1,0 +1,1 @@
+We obtain matching direct and inverse theorems for the degree of weighted L_p-approximation by polynomials with the Jacobi weights (1-x)^\alpha (1+x)^\beta. Combined, the estimates yield a constructive characterization of various smoothness classes of functions via the degree of their approximation by algebraic polynomials.

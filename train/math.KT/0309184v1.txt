@@ -1,0 +1,1 @@
+The aim of this paper is to give a relatively easy bicomplex which computes the Shukla, or Quillen cohomology in the category of associative algebras over a commutative algebra A, in the case when A is an algebra over a field.

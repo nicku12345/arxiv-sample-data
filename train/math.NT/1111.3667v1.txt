@@ -1,0 +1,1 @@
+The Carmichael lambda function \lambda(n) is defined to be the smallest positive integer m such that a^m is congruent to 1 modulo n, for all a and n relatively prime. The function \lambda_k(n) is defined to be the kth iterate of \lambda(n). Previous results show a normal order for n/\lambda_k(n) where k=1,2. We will show a normal order for all k.

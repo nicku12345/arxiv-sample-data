@@ -1,0 +1,1 @@
+For affine monoids of dimension 2 with embedding dimension 2 and 3, we study the problem of determining when a vector is an element of the monoid, and the problem of determining the elasticity of a monoid element.

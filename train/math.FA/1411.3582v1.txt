@@ -1,0 +1,1 @@
+The aim of this paper is to provide characterizations of the Lebesgue-almost everywhere continuity of a function f : [a, b] \rightarrow R. These characterizations permit to obtain necessary and sufficient conditions for the Riemann integrability of f .

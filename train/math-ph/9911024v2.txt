@@ -1,0 +1,1 @@
+Two-, three- and four-dimensional representations of Penrose tilings of the plane are described. The vertices that occur in these representations lie on lattices. Symmetries and methods of visualizing these representations are discussed. The question of efficiently storing the information necessary to reconstruct a tiling is addressed.

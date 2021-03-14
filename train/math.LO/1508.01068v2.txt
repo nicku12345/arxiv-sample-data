@@ -1,0 +1,1 @@
+We prove the consistency of \mathrm{add}(\mathcal{N})<\mathrm{cov}(\mathcal{N})<\mathfrak{p}=\mathfrak{g}=\mathfrak{s}<\mathrm{add}(\mathcal{M})=\mathrm{cof}(\mathcal{M})<\mathfrak{a}=\mathrm{non}(\mathcal{N})=\mathfrak{c} with ZFC where each of these cardinal invariants assume arbitrary uncountable regular values.

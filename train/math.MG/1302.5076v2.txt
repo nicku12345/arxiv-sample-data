@@ -1,0 +1,1 @@
+This note make the observation that property A for a space is equivalent to the existence of a Markov process on the space which has a (uniformly) trivial Poisson boundary.

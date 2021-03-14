@@ -1,0 +1,1 @@
+We introduce relative homological and weakly homological categories, where ``relative'' refers to a distinguished class of normal epimorphisms. It is a generalization of homological categories, but also protomodular categories can be regarded as examples. We indicate that the relative versions of various homological lemmas can be proved in a relative homological category.

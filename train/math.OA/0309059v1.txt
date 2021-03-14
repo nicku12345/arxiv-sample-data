@@ -1,0 +1,1 @@
+We introduce a method to define C^*-algebras from C^*-correspondences. Our construction generalizes Cuntz-Pimsner algebras, crossed products by Hilbert C^*-modules, and graph algebras.

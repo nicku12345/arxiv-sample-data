@@ -1,0 +1,1 @@
+We investigate the amenability of skew filed extensions of the complex numbers. We prove that all skew fields of finite Gelfand-Kirillov transcendence degree are amenable. However there are both amenable and non-amenable skew fields of infinite Gelfand-Kirillov transcendence degree. For example, the free field is non-amenable.

@@ -1,0 +1,1 @@
+In this paper, we give a description of the John contact points of a regular simplex. We prove that the John ellipsoid of any simplex is ball if and only if this simplex is regular and that the John ellipsoid of a regular simplex is its inscribed ball.

@@ -1,0 +1,1 @@
+Lower and upper estimates are given for the probability that the epsilon-enlargement of planar Brownian motion to time 1 (the epsilon sausage) contains a unit line segment. The estimates imply that Brownian motion to time 1 itself contains no line segment.

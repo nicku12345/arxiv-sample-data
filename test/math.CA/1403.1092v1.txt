@@ -1,0 +1,1 @@
+We study the existence of nonnegative solutions for a system of impulsive differential equations subject to nonlinear, nonlocal boundary conditions. The system presents a coupling in the differential equation and in the boundary conditions. The main tool that we use is the theory of fixed point index for compact maps.

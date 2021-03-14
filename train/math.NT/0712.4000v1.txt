@@ -1,0 +1,1 @@
+We interpolate cohomology classes attached to families of Hilbert modular forms. Using this we construct a two variable p-adic L-function which interpolates one variable p-adic L-functions.

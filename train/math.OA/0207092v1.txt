@@ -1,0 +1,1 @@
+Let G be a second countable, locally compact groupoid with Haar system, and let \mathcal{A} be a bundle of C^{\ast}-algebras defined over the unit space of G on which G acts continuously. We determine conditions under which the associated crossed product C^{\ast}(G;\mathcal{A}) is a continuous trace C^{\ast}-algebra.

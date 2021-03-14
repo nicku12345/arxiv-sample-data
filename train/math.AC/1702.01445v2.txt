@@ -1,0 +1,1 @@
+We give algorithms to construct the N\'eron Desingularization and the easy case from \cite{KK} of the General N\'eron Desingularization.

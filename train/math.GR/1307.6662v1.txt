@@ -1,0 +1,1 @@
+For any conjugacy class C in G=PSL(2,q) we compute C^2 and discuss whether C contains a triple of elements whose product is 1 which generate G. Moreover, we determine which elements in G can be written as a product of two conjugate elements that generate G.

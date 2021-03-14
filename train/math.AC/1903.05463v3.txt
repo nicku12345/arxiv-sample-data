@@ -1,0 +1,1 @@
+For a commutative Noetherian ring R of prime characteristic, denote by ^{f}R the ring R with the left structure given by the Frobenius map. We develop Thomas Marley's work on the property of the Frobenius functor \F(-) = - \otimes_R {^f}R and show the interplay between \F and its dual \widetilde{\F}(-) = \Hom_R({}^{f}R, -) which is introduced by J\"{u}rgen Herzog.

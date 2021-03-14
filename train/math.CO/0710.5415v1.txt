@@ -1,0 +1,1 @@
+We give the generating function for the index of integer lattice points, relative to a finite order ideal. The index is an important concept in the theory of border bases, an alternative to Gr\"obner bases.

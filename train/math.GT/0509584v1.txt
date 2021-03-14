@@ -1,0 +1,1 @@
+We study how the length and the twisting parameter of a curve change along a Teichmuller geodesic. We then use our results to provide a formula for the Teichmuller distance between two hyperbolic metrics on a surface, in terms of the combinatorial complexity of curves of bounded lengths in these two metrics.

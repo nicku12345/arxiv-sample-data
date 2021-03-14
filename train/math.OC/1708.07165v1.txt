@@ -1,0 +1,1 @@
+In this paper, we establish spectral inequalities on measurable sets of positive Lebesgue measure for the Stokes operator, as well as an observability inequalities on space-time measurable sets of positive measure for non-stationary Stokes system. Furthermore, we provide their applications in the theory of shape optimization and time optimal control problems.

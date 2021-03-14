@@ -1,0 +1,1 @@
+In this paper, let \Sigma\subset\R^{6} be a compact convex hypersurface. We prove that if \Sigma carries only finitely many geometrically distinct closed characteristics, then at least two of them must possess irrational mean indices. Moreover, if \Sg carries exactly three geometrically distinct closed characteristics, then at least two of them must be elliptic.

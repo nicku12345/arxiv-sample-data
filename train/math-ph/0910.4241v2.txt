@@ -1,0 +1,1 @@
+We develop a new approach for the construction of the Glauber dynamics in continuum. Existence of the corresponding strongly continuous contraction semigroup in a proper Banach space is shown. Additionally we present the finite- and infinite-volume approximations of the semigroup by families of bounded linear operators.

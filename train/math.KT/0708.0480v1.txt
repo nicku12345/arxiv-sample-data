@@ -1,0 +1,1 @@
+Let A be a Noetherian commutative ring. Assume that projective modules of rank r over polynomial extensions of A are extended from A. Then projective modules of rank r over discrete Hodge A-algebras are also extended from A. This result extends a result of T. Vorst.

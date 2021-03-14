@@ -1,0 +1,1 @@
+With the aid of utilising tensor products, we give a simplified proof to the fundamental theorem of Benedetto and Fickus about the existence and characterisation of finite, normalised tight frames. We also establish unit-norm tensor resolutions for symmetric, positive semi-definite matrices.

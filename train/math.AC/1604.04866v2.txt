@@ -1,0 +1,1 @@
+Let D be a domain and M a maximal ideal of D. The ring of integer-valued polynomials on a subset E of D, as well as more general rings of functions from E to D, can be viewed as subrings of the product D^E=\prod_{e\in E}D. We investigate which maximal ideals of Int(E,D) (or any other subring of D^E) come from ultrapowers of the residue class ring D/M.

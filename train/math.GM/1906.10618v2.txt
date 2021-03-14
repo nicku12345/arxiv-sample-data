@@ -1,0 +1,1 @@
+This note proves that the first odd zeta value does not have a closed form formula \zeta(3)\ne r \pi^3 for any rational number r \in \mathbb{Q}. Furthermore, assuming the irrationality of the second odd zeta value \zeta(5), it is shown that \zeta(5)\ne r\pi^5 for any rational number r \in \mathbb{Q}.

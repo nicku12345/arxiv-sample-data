@@ -1,0 +1,1 @@
+Let S_1(n),...,S_p(n) be independent symmetric random walks in Z^d. We establish moderate deviations and law of the iterated logarithm for the intersection of the ranges #{S_1[0,n]\cap... \cap S_p[0,n]} in the case d=2, p\ge 2 and the case d=3, p=2.

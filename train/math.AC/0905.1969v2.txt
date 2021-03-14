@@ -1,0 +1,1 @@
+Examples are given to show that the support of a complex of modules over a commutative noetherian ring may not be read off the minimal semi-injective resolution of the complex. The same examples also show that a localization of a semi-injective complex need not be semi-injective.

@@ -1,0 +1,1 @@
+Suppose \pi_1 and \pi_2 are two Hecke-Maass cusp forms for SL(3,\mathbb{Z}) such that for all primitive character \chi we have  L(\tfrac{1}{2},\pi_1\otimes\chi)=L(\tfrac{1}{2},\pi_2\otimes\chi).  Then we show that \pi_1=\pi_2.

@@ -1,0 +1,1 @@
+We provide a short proof that a 5-connected nonplanar apex graph contains a subdivided K_{_5} or a K^-_{_4} (= K_{_4} with a single edge removed) as a subgraph. Together with a recent result of Ma and Yu that {\sl every nonplanar 5-connected graph containing K^-_{_4} as a subgraph has a subdivided K_{_5}}; this settles the Kelmans-Seymour conjecture for apex graphs.

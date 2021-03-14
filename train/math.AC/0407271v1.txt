@@ -1,0 +1,1 @@
+Let (R,\m) be a Noetherian local ring. Consider the notion of homological dimension of a module, denoted H-dim, for H= Reg, CI, CI_*, G, G^* or CM. We prove that, if for a finite R-module M of positive depth, \Hd_R({\m}^iM) is finite for some i \geq \reg(M), then the ring R has property H.

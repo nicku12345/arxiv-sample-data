@@ -1,0 +1,1 @@
+In 1971 Trotter conjectured that every finite poset on at least 3 points has a pair whose removal does not decrease the dimension by more than 1. In 1992 Brightwell and Scheinerman introduced fractional dimension of posets, and they made a similar conjecture for fractional dimension. This paper settles this latter conjecture.

@@ -1,0 +1,1 @@
+Let {mathcal M}_g^n be the moduli space of n-pointed Riemann surfaces of genus g. Denote by {\bar {\mathcal M}}_g^n the Deligne-Mumford compactification of {mathcal M}_g^n. In the present paper, we calculate the orbifold and the ordinary Euler characteristic of {\bar {\mathcal M}}_g^n for any g and n such that n>2-2g.

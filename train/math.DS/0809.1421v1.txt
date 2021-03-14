@@ -1,0 +1,1 @@
+We show that given any tiling of Euclidean space, any geometric patterns of points, we can find a patch of tiles (of arbitrarily large size) so that copies of this patch appear in the tiling nearly centered on a scaled and translated version of the pattern. The rather simple proof uses Furstenberg's topological multiple recurrence theorem.

@@ -1,0 +1,1 @@
+For any infinite subset X of the rationals and a subset F \subseteq X which has no isolated points in X we construct a function f: X \to X such that f(f(x))=x for each x\in X and F  is the set of discontinuity points of f.

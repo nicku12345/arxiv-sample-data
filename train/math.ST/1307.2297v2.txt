@@ -1,0 +1,1 @@
+Jing (1995) and Liu et al. (2008) studied the two-sample empirical likelihood and showed it is Bartlett correctable for the univariate and multivariate cases, respectively. We expand its domain to the full parameter space and obtain a two-sample extended empirical likelihood which is more accurate and can also achieve the second-order accuracy of the Bartlett correction.

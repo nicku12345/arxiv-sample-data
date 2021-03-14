@@ -1,0 +1,1 @@
+This article deals with a study of the structure of the class group of the cyclotomic field K=\Q(\zeta_p) for p an odd prime number, starting from Stickelberger relation. The present state of this work leads me to set a question for all the prime numbers h\not=p which divide the relative class number h^-(K).

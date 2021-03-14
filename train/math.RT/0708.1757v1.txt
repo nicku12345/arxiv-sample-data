@@ -1,0 +1,1 @@
+For each type of classical Lie algebra, we list the dominant highest weights \zeta for which (\zeta;\mu_i) is not a primitive pair and the weight space V_{\mu_i} has dimension one where \mu_i are the highest long and short roots in each case. These dimension one weight spaces lead to examples of nilmanifolds for which we cannot prove or disprove the density of closed geodesics.

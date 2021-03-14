@@ -1,0 +1,1 @@
+The well-known Leibniz theorem (Leibniz Criterion or alternating series test) of convergence of alternating series is generalized for the case when the absolute value of terms of series are "not absolutely monotonously" convergent to zero. Questions of accuracy of the estimation for the series remainder are considered.

@@ -1,0 +1,1 @@
+Shelah introduced the revised countable support (RCS) iteration to iterate semiproperness. This was an endpoint in the search for an iteration of a weak condition, still implying that aleph1 is preserved.   Dieter Donder found a better manageable approach to this iteration, which is presented here.

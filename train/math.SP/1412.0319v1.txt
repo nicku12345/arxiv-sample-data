@@ -1,0 +1,1 @@
+Let G be graph on n vertices and G^{(t)} its blow-up graph of order t. In this paper, we determine all eigenvalues of the Laplacian and the signless Laplacian matrix of G^{(t)} and its complement \bar{G^{(t)}}.

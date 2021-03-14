@@ -1,0 +1,1 @@
+Let X be the germ of a Gorenstein 3-fold singularity and C a smooth curve through it such that the general hyperplane section S of X containing D is DuVal of type E6 or E7. In this paper we obtain criteria for the existence of a terminal divisorial extremal neighborhood f: Y-->X contracting an irreducible divisor E onto C and classify all such neighborhoods.

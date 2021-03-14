@@ -1,0 +1,1 @@
+Let D be a dendrite and f:D-> D a continuous map. Denote by E(D) and B(D) the sets of endpoints and branch points of D respectively. We show that if E(D) is countable (resp. B(D) is discrete) then f is pointwise-recurrent if and only if f is pointwise periodic homeomorphism (resp. every pointin D\E(D) is periodic).

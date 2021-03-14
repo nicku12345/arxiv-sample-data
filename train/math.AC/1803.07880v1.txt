@@ -1,0 +1,1 @@
+The Cohen-Macaulay property of a graph arising from a poset has been studied by various authors. In this article, we study the Cohen-Macaulay property of a graph arising from a family of reflexive and antisymmetric relations on a set. We use this result to find classes of multipartite graphs which are Cohen-Macaulay.

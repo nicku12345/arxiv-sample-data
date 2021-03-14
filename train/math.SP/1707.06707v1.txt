@@ -1,0 +1,1 @@
+We describe the Krein extension of minimal operator associated with the expression A:=(-1)^n*d^(2n)/dx^(2n) on a finite interval (a,b) in terms of boundary conditions. All non-negative extensions of the operator A as well as extensions with a finite number of negative squares are described.

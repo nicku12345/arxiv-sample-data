@@ -1,0 +1,1 @@
+Partial Galois extensions were recently introduced by Dokuchaev, Ferrero and Paques. We introduce partial Galois extensions for noncommutative rings, using the theory of Galois corings. We associate a Morita context to a partial action on a ring.

@@ -1,0 +1,1 @@
+The pentagonal number theorem is extended to the sequence of the number of integer partitions with all parts equal. The new pentagonal number theorem implies that the distribution of the primes is just a specific detail of the application of the partition function to a sequence that we introduce and easily compute in this paper.

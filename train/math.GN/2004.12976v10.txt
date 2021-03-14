@@ -1,0 +1,1 @@
+Let J(f) denote the Julia set of the complex exponential f(z)=\exp(z)-1. We prove that the rational Hilbert space \mathfrak E is homeomorphic to the set of endpoints of J(f) whose orbits escape to \infty in the imaginary direction.

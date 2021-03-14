@@ -1,0 +1,1 @@
+We estimate the number of integer solutions to decomposable form inequalities (both asymptotic estimates and upper bounds are provided) when the degree of the form and the number of variables are relatively prime. These estimates display good behavior in terms of the coefficients of the form, and greatly improve upon previous estimates in this regard.

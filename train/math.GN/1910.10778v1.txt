@@ -1,0 +1,1 @@
+We introduce the concept of tied links in the solid torus, which generalize naturally the concept of tied links in S^3 previously introduced by Aicardi and Juyumaya. We also define an invariant of these tied links by using skein relations, and subsequently we recover this invariant by using Jones' method over the bt-algebra of type \mathtt{B} and the Markov trace defined on this.

@@ -1,0 +1,1 @@
+We show that the minimal polynomial of a polynomial exponential automorphism F of C^n (i.e. F=exp(D), where D is a locally nilpotent derivation) is of the form \mu_F(T)=(T-1)^d, d=min{m \in N: D^m(X_i)=0 for i=1,...,n}.

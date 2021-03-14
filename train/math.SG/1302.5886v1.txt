@@ -1,0 +1,1 @@
+We give a method to lift (2,0)-tensors fields on a manifold M to build symplectic forms on TM. Conversely, we show that any symplectic form \Om on TM is symplectomorphic, in a neighborhood of the zero section, to a symplectic form built naturally from three (2,0)-tensor fields associated to \Om.

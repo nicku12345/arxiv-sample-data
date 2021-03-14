@@ -1,0 +1,1 @@
+We express a general 4-hyperlogarithm as a linear combination of 4-hyperlogarithms in two variables. We reduce the Zagier's conjecture for n=4 to a combinatorial statement. We give a short survey of the strategy of Goncharov and Zagier for reducing the Zagier's conjecture for general n to combinatorial relations between hyperlogarithms. Such a survey is missing in the literature.

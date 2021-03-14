@@ -1,0 +1,1 @@
+The aim of the present work is to introduce a method based on Chebyshev polynomials for the numerical solution of a system of Cauchy type singular integral equations of the first kind on a finite segment. Moreover, an estimation error is computed for the approximate solution. Numerical results demonstrate effectiveness of the proposed method.

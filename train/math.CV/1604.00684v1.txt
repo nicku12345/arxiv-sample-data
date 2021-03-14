@@ -1,0 +1,1 @@
+Let U be the open unit disc in C and let B be the open unit ball in C^2. We prove that every discrete subset of B is contained in the range f(U) of a complete, proper holomorphic embedding f:U-->B. Here the completeness of f means that for any path p:[0,1)-->U such that |p(t)|-->1 as t-->1, the path t--> f(p(t)) from [0,1) to B has infinite length.

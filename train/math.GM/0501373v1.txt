@@ -1,0 +1,1 @@
+For a given complete lattice L, we investigate whether L can be decomposed as a direct product of directly indecomposable lattices. We prove that this is the case if every element of L is a join of join-irreducible elements and dually, thus extending to non-algebraic lattices a result of L. Libkin. We illustrate this by various examples and counterexamples.

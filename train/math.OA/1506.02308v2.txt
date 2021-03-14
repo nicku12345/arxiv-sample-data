@@ -1,0 +1,1 @@
+Let A be a simple separable unital locally approximately subhomogeneous C*-algebra (locally ASH algebra). It is shown that A\otimes Q can be tracially approximated by unital Elliott-Thomsen algebras with trivial \textrm{K}_1-group, where Q is the universal UHF algebra. In particular, it follows that A is classifiable by the Elliott invariant if A is Jiang-Su stable.

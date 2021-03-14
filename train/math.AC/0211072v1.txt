@@ -1,0 +1,1 @@
+Following work of Rieffel, we define the Cayley compactification of an abelian group with specified generating set. We investigate its structure using methods from discrete geometry and commutative algebra.

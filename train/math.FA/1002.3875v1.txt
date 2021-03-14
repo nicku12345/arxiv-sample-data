@@ -1,0 +1,1 @@
+We consider convolution equations of the type f * T = g where f, g are in L^p(R^n) and T is a compactly supported distribution. Under natural assumptions on the zero set of the Fourier transform of T we show that f is compactly supported, provided g is. Similar results are proved for non compact symmetric spaces as well.

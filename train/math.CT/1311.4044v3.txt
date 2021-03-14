@@ -1,0 +1,1 @@
+In this article, we consider a formulation of biset functors using the 2-category of finite sets with variable finite group actions. We introduce a 2-category \mathbb{S}, on which a biset functor can be regarded as a special kind of Mackey functors. This gives an analog of Dress' definition of a Mackey functor, in the context of biset functors.

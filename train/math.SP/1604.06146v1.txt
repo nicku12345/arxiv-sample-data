@@ -1,0 +1,1 @@
+In this note we prove that toric K\"ahler metrics on complex projective space which are also U(n)-invariant are determined by their equivariant spectrum i.e. the list of eigenvalues of the Laplacian together with weights of the torus representation on the eigenspaces.

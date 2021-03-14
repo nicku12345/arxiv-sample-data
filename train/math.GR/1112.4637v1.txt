@@ -1,0 +1,1 @@
+Let X be a locally compact geodesically complete CAT(0) space and G be a discrete group acting properly and cocompactly on X. We show that G contains an element acting as a hyperbolic isometry on each indecomposable de Rham factor of X. It follows that if X is a product of d factors, then G contains free abelian group of rank d.

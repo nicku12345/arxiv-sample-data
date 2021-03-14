@@ -1,0 +1,1 @@
+In this paper we construct conformally invariant systems of first order and second order differential operators associated to a homogeneous line bundle \Cal{L}_{s} \to G_0/Q_0 with Q_0 a maximal parabolic subgroup of quasi-Heisenberg type. This generalizes the results by Barchini, Kable, and Zierau.To do so we use techniques different from ones used by them.

@@ -1,0 +1,1 @@
+Let m_j denote the jth moment of a random variable X. One of the results is the inequality m_3 \leq c m_4^{3/4} with the best possible factor c over all random variables X with a non-positive mean.

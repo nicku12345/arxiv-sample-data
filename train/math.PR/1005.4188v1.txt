@@ -1,0 +1,1 @@
+In this paper we consider a sequence of random variables with mean uncertainty in a sublinear expectation space. Without the hypothesis of identical distributions, we show a new central limit theorem under the sublinear expectations.

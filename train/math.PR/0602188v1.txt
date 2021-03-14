@@ -1,0 +1,1 @@
+We extend generalized isoperimetric-type inequalities to iterated Brownian motion over several domains in \RR{R}^{n}. These kinds of inequalities imply in particular that for domains of finite volume, the exit distribution and moments of the first exit time for iterated Brownian motion are maximized with the ball D^{*} centered at the origin, which has the same volume as D

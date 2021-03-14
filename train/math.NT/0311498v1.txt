@@ -1,0 +1,1 @@
+A sharp asymptotic formula for the sum of reciprocals of \pi(n) is derived, where \pi(x) is the number of primes not exceeding x. This result improves the previous results of De Koninck--Ivi\'c and L. Panaitopol.

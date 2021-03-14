@@ -1,0 +1,1 @@
+We give an upper bound for the Stanley depth of the edge ideal I of a k-partite complete graph and show that Stanley's conjecture holds for I. Also we give an upper bound for the Stanley depth of the edge ideal of a k-uniform complete bipartite hypergraph.

@@ -1,0 +1,1 @@
+We illustrate the use of the computer algebra system Macaulay2 for simplifications of classical unirationality proofs. We explicitly treat the moduli spaces of curves of genus g=10, 12 and 14.

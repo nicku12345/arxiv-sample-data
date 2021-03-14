@@ -1,0 +1,1 @@
+We give a direct combinatorial proof of a famous identity,  \sum_{i+j=n} m{2i}{i} \binom{2j}{j} = 4^n  by actually counting pairs of k-subsets of 2k-sets. Then we discuss two different generalizations of the identity, and end the paper by presenting in explicit form the ordinary generating function of the sequence (\strut\binom{2n+k}{n})_{n\in\mathds{N}_0}, where k\in\mathds{R}.

@@ -1,0 +1,1 @@
+We prove the following result : Let E be a rank 2 bundle on {\bf P}, the projective space of dimension 3, and n a relative number such that H^0E(n-1)=0 and H^0E(n)\neq 0. Let C be a curve which is the zero locus of a section of H^0E(n). Then C is minimal in its biliaison class.

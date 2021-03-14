@@ -1,0 +1,1 @@
+We construct a pair (E ,F), where E is a holomorphic vector bundle over a compact Riemann surface and F a holomorphic subbundle of E, such that both F and E/F admit holomorphic connections, but E does not.

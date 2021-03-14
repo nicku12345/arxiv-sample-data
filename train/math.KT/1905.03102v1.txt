@@ -1,0 +1,1 @@
+If (R,I) is a henselian pair with an action of a finite group G and n\ge 1 is an integer coprime to |G| and such that n\cdot |G|\in R^*, then the reduction map of mod-n equivariant K-theory spectra \[ K^G(R)/n\stackrel{\simeq}{\longrightarrow} K^G(R/I)/n\] is an equivalence. We prove this by revisiting the recent proof of non-equivariant rigidity by Clausen, Mathew, and Morrow.

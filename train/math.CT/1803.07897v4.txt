@@ -1,0 +1,1 @@
+Incidence coalgebras of categories in the sense of Joni and Rota are studied, specifically cases where a monoidal product on the category turns these into (weak) bialgebras. The overlap with the theory of combinatorial Hopf algebras and that of Hopf quivers is discussed, and examples including trees, skew shapes, Milner's bigraphs and crossed modules are considered.

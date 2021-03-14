@@ -1,0 +1,1 @@
+Let f be a covering map of the open annulus A= S^1\times (0,1) of degree d , |d|>1. Assume that f preserves an essential (i.e not contained in a disk of A) compact subset K. We show that f has at least the same number of periodic points in each period as the map z^d in S^1.

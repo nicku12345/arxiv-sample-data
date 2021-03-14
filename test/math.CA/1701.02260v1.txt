@@ -1,0 +1,1 @@
+We introduce a new definition of topological degree for a meaningful class of operators which need not be continuous. Subsequently, we derive a number of fixed point theorems for such operators. As an application, we deduce a new existence result for first-order ODEs with discontinuous nonlinearities.

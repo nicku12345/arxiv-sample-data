@@ -1,0 +1,1 @@
+The goal of this paper is to study the action of the heat operator on the Heisenberg group H^d, and in particular to characterize Besov spaces of negative index on H^d in terms of the heat kernel. That characterization can be extended to positive indexes using Bernstein inequalities. As a corollary we obtain a proof of refined Sobolev inequalities in W^{s,p} spaces.

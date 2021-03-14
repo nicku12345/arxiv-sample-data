@@ -1,0 +1,1 @@
+We study the presumably unnecessary convexity hypothesis in the theorem of Chung et al. [CFS] on perimeter-minimizing planar tilings by convex pentagons. We prove that the theorem holds without the convexity hypothesis in certain special cases, and we offer direction for future research.

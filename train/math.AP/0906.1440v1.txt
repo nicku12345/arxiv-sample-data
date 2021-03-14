@@ -1,0 +1,1 @@
+We prove nonexistence of nonconstant global minimizers with limit at infinity of the semilinear elliptic equation -\Delta u=f(u) in the whole R^N, where f\in C^1(R) is a general nonlinearity and N\geq 1 is any dimension. As a corollary of this result, we establish nonexistence of nonconstant bounded radial global minimizers of the previous equation.

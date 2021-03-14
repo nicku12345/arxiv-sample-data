@@ -1,0 +1,1 @@
+We study objects in triangulated categories which have a two-dimensional graded endomorphism algebra. Given such an object, we show that there is a unique maximal triangulated subcategory, in which the object is spherical. This general result is then applied to algebraic geometry.

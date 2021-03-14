@@ -1,0 +1,1 @@
+Abstact: We introduce new models of energy redistribution in stochastic chemical kinetics with several molecule types and energy parameters. The main results concern the situations when there are product form measures. Using a probabilistic interpretation of the related Boltzmann equation, we find some invariant measures explicitly and prove convergence to them.

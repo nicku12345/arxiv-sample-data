@@ -1,0 +1,1 @@
+Let G be an ordered group that is a direct sum of a rank-one torsion-free abelian group and a finite-rank torsion-free abelian group, with order structure arising from the natural order on the first summand. A necessary condition and a sufficient condition are given for G to have an ordered-group inductive limit representation using injective maps.

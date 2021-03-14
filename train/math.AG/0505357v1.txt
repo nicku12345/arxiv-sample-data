@@ -1,0 +1,1 @@
+In this paper we prove the Hodge conjecture for products of the form S_1 \times ... S_n, where S_i are smooth projective surfaces such that p_g(S_i)=1, q(S_i)=2. We also prove the Hodge conjecture for arbitrary self-products of a K3 surface X such that End_{hodge}(T(X)) is a CM number field.

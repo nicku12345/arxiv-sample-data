@@ -1,0 +1,1 @@
+We study families of possibly overlapping self-affine sets. Our main example is a family that can be considered the self-affine version of Bernoulli convolutions and was studied, in the non-overlapping case, by F.Przytycki and M.Urbanski. We extend their results to the overlapping region and also consider some extensions and generalizations.

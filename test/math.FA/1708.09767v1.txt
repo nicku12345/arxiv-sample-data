@@ -1,0 +1,1 @@
+Let \Psi_m^D be orthogonal Daubechies wavelets that have m zero moments and let  W_{2,p}^k=\{f \in L_2(R):\|(I \omega)^k\hat f(\omega)\|_p\leq 1\}, \, k \in N.  We prove that  \lim_{m \to \infty}\, \sup\left\{\frac{|(\Psi_m^D)|}{\|(\hat \Psi_m^D)\|_q}: f \in W_{2, p'}^k\right\}=\frac{\frac{(2\pi)^{1/p-1/2}}{\pi^k}\left(\frac{1-2^{1-pk}}{pk-1}\right)^{1/p}}{(2\pi)^{1/q-1/2}}. 

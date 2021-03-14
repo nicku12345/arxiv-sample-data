@@ -1,0 +1,1 @@
+In the following text we prove that there exists a Fort transformation group with indicator sequence (p_0,\ldots,p_n) if and only if 0=p_0\leq p_1\leq\cdots\leq p_n=1, moreover we characterize all possible indicator topological spaces of Fort transformation groups.The text will study indicator sequences and indicator topologies of Fort transformation semigroups too.

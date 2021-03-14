@@ -1,0 +1,1 @@
+For \lambda an n-th power of a unit in a finite chain ring we prove that \lambda-constacyclic repeated-root codes over some finite chain rings are equivalent to cyclic codes. This allows us to simplify the structure of some constacylic codes. We also study the \alpha +p \beta-constacyclic codes of length p^s over the Galois ring GR(p^e,r).

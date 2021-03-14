@@ -1,0 +1,1 @@
+We consider a braid \beta which acts on a punctured plane. Then we construct a local system on this plane and find a homology cicle D in its symmetric power such that D\cdot \beta(D) coincides with the Alexander polynomial of the plate closure of \beta.

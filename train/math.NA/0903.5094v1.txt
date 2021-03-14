@@ -1,0 +1,1 @@
+We introduce the smt toolbox for Matlab. It implements optimized storage and fast arithmetics for circulant and Toeplitz matrices, and is intended to be transparent to the user and easily extensible. It also provides a set of test matrices, computation of circulant preconditioners, and two fast algorithms for Toeplitz linear systems.

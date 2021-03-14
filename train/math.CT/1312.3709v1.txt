@@ -1,0 +1,1 @@
+We define the Hochschild and cyclic (co)homology groups for superadditive categories and show that these (co)homology groups are graded Morita invariants. We also show that the Hochschild and cyclic homology are compatible with the tensor product of superadditive categories.

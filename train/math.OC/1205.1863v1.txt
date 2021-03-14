@@ -1,0 +1,1 @@
+We compute the intrinsic volumes of the cone of positive semidefinite matrices over the real numbers, over the complex numbers, and over the quaternions, in terms of integrals related to Mehta's integral. Several applications for the probabilistic analysis of semidefinite programming are given.

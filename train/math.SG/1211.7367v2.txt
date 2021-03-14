@@ -1,0 +1,1 @@
+In this paper, we construct a canonical grading on bordered Heegaard Floer homology by homotopy classes of nonvanishing vector fields. This grading is a generalization of our construction of an absolute grading on Heegaard Floer homology and it extends the well-known grading with values in a noncommutative group defined by Lipshitz-Ozsv\'ath-Thurston.

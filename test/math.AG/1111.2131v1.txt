@@ -1,0 +1,1 @@
+We explicitly compute \'etale covers of the smooth Fermat curves Y_{p+1} = \Proj k[u,v,w]/(u^{p+1} + v^{p+1} - w^{p+1}) which trivialise the vector bundles \Syz(u^2, v^2, w^2)(3), where k is a field of characteristic p \geq 3.

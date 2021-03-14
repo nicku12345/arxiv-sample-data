@@ -1,0 +1,1 @@
+We present axioms for the real numbers by imposing the field axioms on the rational numbers and then show that they are a field. We prove all our theorems constructively.

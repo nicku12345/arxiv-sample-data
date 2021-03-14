@@ -1,0 +1,1 @@
+We derive expressions for the partition function p(n), with n in the form 7k+a, as (k+1)-dimensional determinants.

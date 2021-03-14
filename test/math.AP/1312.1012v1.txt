@@ -1,0 +1,1 @@
+In this paper we consider three-dimensional incompressible magnetohydrodynamics equations. By using interpolation inequalities in anisotropic Lebesgue space, we provide regularity criteria involving the velocity or alternatively involving the fractional derivative of velocity in one direction, which generalize some known results.

@@ -1,0 +1,1 @@
+We prove the local existence of unique smooth solutions of the Donaldson geometric flow on the space of symplectic forms on a closed smooth four-manifold, representing a fixed cohomology class. It is a semiflow on the Besov space B^{1,p}_2(M, \Lambda^2) for p > 4. The Donaldson geometric flow was introduced by Simon Donaldson in [2]. For a detailed exposition see [6].

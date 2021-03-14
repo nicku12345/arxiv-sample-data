@@ -1,0 +1,1 @@
+The asymptotic stability of a global solution satisfying Hamilton-Jacobi equations with jumps will be analyzed in dependence on the strong dissipativity of the jump control function and using orbits of the differentiable flows to describe the corresponding characteristic system.

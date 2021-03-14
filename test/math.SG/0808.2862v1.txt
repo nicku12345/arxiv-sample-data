@@ -1,0 +1,1 @@
+We prove, under some generic assumptions, that the semiclassical spectrum modulo O(h^2) of a one dimensional pseudodifferential operator completely determines the symplectic geometry of the underlying classical system. In particular, the spectrum determines the hamiltonian dynamics of the principal symbol.

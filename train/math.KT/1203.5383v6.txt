@@ -1,0 +1,1 @@
+In this note we prove some results in flat and differential K-theory. The first one is a proof of the compatibility of the differential topological index and the flat topological index by a direct computation. The second one is the explicit isomorphisms between Bunke-Schick differential K-theory and Freed-Lott differential K-theory.

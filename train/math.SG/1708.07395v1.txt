@@ -1,0 +1,1 @@
+In this article we introduce a simple dynamical system called symplectic billiards. As opposed to usual/Birkhoff billiards, where length is the generating function, for symplectic billiards symplectic area is the generating function. We explore basic properties and exhibit several similarities, but also differences of symplectic billiards to Birkhoff billiards.

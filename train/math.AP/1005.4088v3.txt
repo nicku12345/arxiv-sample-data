@@ -1,0 +1,1 @@
+This paper deals with the Klein-Gordon-Maxwell system when the nonlinearity exhibits critical growth. We prove the existence of positive ground state solutions for this system when a periodic potential V is introduced. The method combines the minimization of the corresponding Euler-Lagrange functional on the Nehari manifold with the Br\'ezis and Nirenberg technique

@@ -1,0 +1,1 @@
+We construct a Kirby diagram of the rational homology ball used in "generalized rational blow-down" developed by Jongil Park. The diagram consists of a dotted circle and a torus knot. The link is simpler, but the parameters are a little complicate. Euclidean Algorithm is used three times in the construction and the proof.

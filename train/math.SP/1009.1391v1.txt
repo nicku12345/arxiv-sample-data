@@ -1,0 +1,1 @@
+We present a method for the explicit diagonalization of some Hankel operators. This method allows us to recover classical results on the diagonalization of Hankel operators with the absolutely continuous spectrum. It leads also to new results. Our approach relies on the commutation of a Hankel operator with some differential operator of second order.

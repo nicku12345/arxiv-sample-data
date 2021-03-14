@@ -1,0 +1,1 @@
+It is shown that the compressed word problem for an HNN-extension with base group H and finite associated subgroups is polynomial time Turing-reducible to the compressed word problem for H. An analogous result for amalgamated free products is shown as well.

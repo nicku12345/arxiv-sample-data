@@ -1,0 +1,1 @@
+We reproduce Hilbert's axiomatic formalisation of Number Theory, and argue that his enunciation of the Law of the Excluded Middle is inconsistent with a Turing-verifiable model of the axioms under the standard interpretation.

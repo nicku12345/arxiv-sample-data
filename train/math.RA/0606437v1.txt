@@ -1,0 +1,1 @@
+We give an algorithm to compute the local b function. In this algorithm, we use the Mora division algorithm in the ring of differential operators and an approximate division algorithm in the ring of differential operators with power series coefficient.

@@ -1,0 +1,1 @@
+In this paper methods for simultaneous finding all roots of generalized polynomials are developed. These methods are related to the case when the roots are multiple. They possess cubic rate of convergence and they are as labour-consuming as the known methods related to the case of polynomials with simple roots only.

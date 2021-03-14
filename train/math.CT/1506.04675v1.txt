@@ -1,0 +1,1 @@
+Logicians and philosophers of science have proposed various formal criteria for theoretical equivalence. In this paper, we examine two such proposals: definitional equivalence and categorical equivalence. In order to show precisely how these two well-known criteria are related to one another, we investigate an intermediate criterion called Morita equivalence.

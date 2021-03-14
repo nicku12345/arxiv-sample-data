@@ -1,0 +1,1 @@
+For a category with subobjects and factorization, here we describe a new category which we call category of chain bundles and it is shown that this new category is also a category with subobjects and admits factorization under certain restriction. Further we provide several examples of bundle categories and discuss some interesting properties of these categories.

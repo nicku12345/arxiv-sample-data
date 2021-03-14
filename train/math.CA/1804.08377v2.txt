@@ -1,0 +1,1 @@
+We give two conditions that are necessary and sufficient for the uniqueness of Filippov solutions of scalar, autonomous ordinary differential equations with discontinuous velocity fields. When only one of the two conditions is satisfied, we give a natural selection criterion that guarantees uniqueness of the solution.

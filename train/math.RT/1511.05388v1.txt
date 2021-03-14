@@ -1,0 +1,1 @@
+In this paper we explore the relations between the Hochschild cohomology of an algebra over some field and the Hochschild cohomology of its smash product with a finite group. Basically we are concentrated on the case where the group under consideration is an extension of a cyclic p-group by some p'-group, where p is the characteristic of the ground field.

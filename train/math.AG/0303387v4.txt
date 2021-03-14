@@ -1,0 +1,1 @@
+I prove a formula expressing the descendent genus g Gromov-Witten invariants of a projective variety X in terms of genus 0 invariants of its symmetric product stack S^{g+1}(X). When X is a point, the latter are structure constants of the symmetric group, and we obtain a new way of calculating the Gromov-Witten invariants of a point.

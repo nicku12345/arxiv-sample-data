@@ -1,0 +1,1 @@
+We improve an isoperimetric inequality due to Panos Papasoglu. We also generalize this inequality to the Finsler case by proving an optimal Finsler version of the Besicovitch's lemma which holds for any notion of Finsler volume.

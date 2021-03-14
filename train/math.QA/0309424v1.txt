@@ -1,0 +1,1 @@
+Let G be a complex simply connected semisimple Lie group, and let B_V be the canonical base of a Weyl module V of G. We calculate explicitely the action of the longest element w_0 of the Weyl group on B_V in terms of parametrizations. The method is based on results of Berenstein and Zelevinsky on the geometric lifting.

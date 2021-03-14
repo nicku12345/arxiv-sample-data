@@ -1,0 +1,1 @@
+In this paper, we give some sufficient conditions under which perturbations preserve Hilbert frames and near-Riesz bases. Similar results are also extended to frame sequences, Riesz sequences and Schauder frames. It is worth mentioning that some of our perturbation conditions are quite different from those used in the previous literatures on this topic.

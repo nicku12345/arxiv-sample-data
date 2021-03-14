@@ -1,0 +1,1 @@
+Nielsen's theorem states that any triangle can be inscribed in a planar Jordan curve. We prove a generalisation of this theorem, extending to any Jordan curve J embedded in \mathbb{R}^{n}, for a restricted set of triangles. We then conclude by investigating a condition under which a given point of J inscribes an equilateral triangle in particular.

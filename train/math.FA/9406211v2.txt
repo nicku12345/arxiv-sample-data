@@ -1,0 +1,1 @@
+A new proof of a result of Lutz Weis is given, that states that the stability of a positive strongly continuous semigroup (e^{tA})_{t \ge 0} on L_p may be determined by the quantity s(A). We also give an example to show that the dichotomy of the semigroup may not always be determined by the spectrum \sigma(A).

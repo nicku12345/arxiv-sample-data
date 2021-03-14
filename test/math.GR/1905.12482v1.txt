@@ -1,0 +1,1 @@
+Let p be a prime and G a pro-p group of finite rank that admits a faithful, self-similar action on the p-ary rooted tree. We prove that if the set \{g\in G \ | \ g^{p^n}=1\} is a nontrivial subgroup for some n, then G is a finite p-group with exponent at most p^n. This applies in particular to power abelian p-groups.

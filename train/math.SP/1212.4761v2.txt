@@ -1,0 +1,1 @@
+In this study, we give a regular fractional Sturm Liouville problem for diffusion operator (FSLPDO), research the spectral properties of the eigenfunctions and eigenvalues of the diffusion operator. We show that the eigenvalues and eigenfunctions of (FSLPDO) are real and orthogonal, respectively and fractional diffusion operator is self adjoint.

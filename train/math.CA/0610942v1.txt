@@ -1,0 +1,1 @@
+We use the arithmetic-combinatorial method of Katz and Tao to give mixed-norm estimates for the x-ray transform on R^d when d \geq 4. As an application, we obtain an improved estimate for the Hausdorff dimension of (d,k) sets, which are subsets of R^d containing a translate of every k-plane.

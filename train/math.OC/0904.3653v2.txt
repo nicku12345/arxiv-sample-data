@@ -1,0 +1,1 @@
+We investigate a limit value of an optimal control problem when the horizon converges to infinity. For this aim, we suppose suitable nonexpansive-like assumptions which does not imply that the limit is independent of the initial state as it is usually done in the literature.

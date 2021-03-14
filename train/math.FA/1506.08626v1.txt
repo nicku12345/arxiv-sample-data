@@ -1,0 +1,1 @@
+This paper summarizes the core definitions and results regarding the chain differential for functions in locally convex topological vector spaces. In addition, it provides a few elementary calculus rules of practical interest, notably for the differentiation of characteristic functionals in various domains of physical science and engineering.

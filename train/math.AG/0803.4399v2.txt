@@ -1,0 +1,1 @@
+We give some properties (cancellation, representability, stratification) of the sheaf R^i f_* G for an affine relative curve f:U -> S admitting a smooth compactification and G a solvable group.

@@ -1,0 +1,1 @@
+We propose a conjugated filter oscillation reduction scheme for solving Burgers' equation with high Reynolds numbers. Computational accuracy is tested at a moderately high Reynolds number for which analytical solution is available. Numerical results at extremely high Reynolds numbers indicate that the proposed scheme is efficient, robust and reliable for shock capturing.

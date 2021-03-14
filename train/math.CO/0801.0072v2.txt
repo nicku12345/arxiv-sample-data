@@ -1,0 +1,1 @@
+Let \pi=(\pi_1,\pi_2,\hdots,\pi_n) be permutation of the elements 1,2,\hdots,n.  Positive integer k\leq2^{n-1} we call index of \pi, if in its binary notation as n-digital binary number, the 1's correspond to the ascent points. We study behavior and properties of numbers of permutations of n elements having index k.

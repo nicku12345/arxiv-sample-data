@@ -1,0 +1,1 @@
+Tannaka duals of Hopf algebras inside semisimple tensor categories are used to construct orbifold tensor categories, which are shown to include the Tannaka dual of the dual Hopf algebras. The second orbifolds are then canonically isomorphic to the initial tensor categories.

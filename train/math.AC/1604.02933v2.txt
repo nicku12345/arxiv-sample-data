@@ -1,0 +1,1 @@
+Given two finite sequences of positive integers \alpha and \beta, we associate a square free monomial ideal I_{\alpha,\beta} in a ring of polynomials S, and we recursively compute the algebraic invariants of S/I_{\alpha,\beta}. Also, we give precise formulas in special cases.

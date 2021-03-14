@@ -1,0 +1,1 @@
+An automorphism of a group is called outer if it is not an inner automorphism.   Let G be a finite p-group. Then for every outer p-automorphism \phi of G the subgroup C_G(\phi)=\{x\in G \;|\; x^\phi=x\} has order p if and only if G is of order at most p^2.

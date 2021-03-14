@@ -1,0 +1,1 @@
+Let G be a bounded simply connected domain and E be a regular compact subset of G with connected complement. We investigate the asymptotic behavior of the Kolmogorov k-width, k=k(n), of the set of polynomials of degree at most n having the supremum norm at most 1 on G restricted to E in the space of continuous functions on E.

@@ -1,0 +1,1 @@
+We investigate the complexity of the lattice of local clones over a countably infinite base set. In particular, we prove that this lattice contains all algebraic lattices with at most countably many compact elements as complete sublattices, but that the class of lattices embeddable into the local clone lattice is strictly larger than that.

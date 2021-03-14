@@ -1,0 +1,1 @@
+We examine a certain class of trilinear integral operators which incorporate oscillatory factors e^{iP}, where P is a real-valued polynomial, and prove smallness of such integrals in the presence of rapid oscillations.

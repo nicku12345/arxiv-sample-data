@@ -1,0 +1,1 @@
+In this technical note, we proffer a very explicit construction of the "dual cocartesian fibration" p^{\vee} of a cartesian fibration p, and we show they are classified by the same functor to \mathbf{Cat}_{\infty}.

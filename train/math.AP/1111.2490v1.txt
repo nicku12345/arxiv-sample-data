@@ -1,0 +1,1 @@
+We determine the phase portrait of a Hamiltonian system of equations describing the motion of the particles in linear deep-water waves. The particles experience in each period a forward drift which decreases with greater depth.

@@ -1,0 +1,1 @@
+It is proved that every graph embedded on a (non-spherical) surface with non-separating face-width at least 7 contains a minor isomorphic to K_6. It is also shown that face-width four yields the same conclusion for graphs on the projective plane.

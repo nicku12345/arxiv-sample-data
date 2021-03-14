@@ -1,0 +1,1 @@
+The article establishes a long list of rigidity properties of lattices in G = SO(n,1) with n>=3 and G = SU(n,1) with n>=2 that are analogous to superrigidity of lattices in higher-rank Lie groups. The arguments are set in the context of strongly L^p unitary representations of G.

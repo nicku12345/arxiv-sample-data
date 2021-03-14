@@ -1,0 +1,1 @@
+We consider the differential system y'-x^{-1}Ay-q(x)y=\rho By  with n\times n matrices A,B, q(x), where A,B are constant, B is diagonal, A and q(x) are off-diagonal, q(\cdot)\in W^1_1[0,\infty). Some distinguished fundamental system of solutions is constructed. Also, we discuss the inverse scattering problem and obtain the uniqueness result.

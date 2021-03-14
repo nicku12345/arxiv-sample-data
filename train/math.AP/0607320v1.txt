@@ -1,0 +1,1 @@
+We show that the the 2 D quasi-geostrophic equation has global and unique strong solution, when the (large) data belongs in the critical, scale invariant space \dot{B}^{2-2\al}_{2, \infty}\cap L^{2/(2\al-1)}.

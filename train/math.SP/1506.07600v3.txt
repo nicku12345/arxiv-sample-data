@@ -1,0 +1,1 @@
+We prove sharp upper and lower bounds for the nodal length of Steklov eigenfunctions on real-analytic Riemannian surfaces with boundary. The argument involves frequency function methods for harmonic functions in the interior of the surface as well as the construction of exponentially accurate approximations for the Steklov eigenfunctions near the boundary.

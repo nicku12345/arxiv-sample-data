@@ -1,0 +1,1 @@
+If i:A\subset B is a commutative ring extension, we show that the group \mathcal I(A,B) of invertible A-submodules of B is contracted in the sense of Bass, with L\mathcal I(A,B)=H^0_{et}(A,i_*\mathbb Z/\mathbb Z). This gives a canonical decomposition for \mathcal I(A[t,\frac1t],B[t,\frac1t]).

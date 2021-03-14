@@ -1,0 +1,1 @@
+The time evolution operator K is introduced in the graded context and its main properties are discussed. In particular, the operator K is used to analize the projectability of constraint functions arising in the Lagrangian formalism for singular Lagrangians.

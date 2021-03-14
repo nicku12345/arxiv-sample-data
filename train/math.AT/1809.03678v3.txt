@@ -1,0 +1,1 @@
+We calculate the integral equivariant cohomology, in terms of generators and relations, of locally standard torus orbifolds whose odd degree ordinary cohomology vanishes. We begin by studying GKM-orbifolds, which are more general, before specialising to half-dimensional torus actions.

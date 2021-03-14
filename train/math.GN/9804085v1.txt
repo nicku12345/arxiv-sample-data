@@ -1,0 +1,1 @@
+For every triple of integers a, b, and c, such that a>O, b>0, and c>1, there is a homogeneous, non-bihomogeneous continuum whose every point has a neighborhood homeomorphic the Cartesian product of three Menger compacta m^a, m^b, and m^c. In particular, there is a homogeneous, non-bihomogeneous, Peano continuum of covering dimension four.

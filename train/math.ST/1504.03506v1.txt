@@ -1,0 +1,1 @@
+We prove that under some regularity and strong identifiability conditions, around a mixing distribution with m_0 components, the optimal local minimax rate of estimation of a mixture with m components is n^{-1/(4(m-m_0) + 2)}. This corrects a previous paper by Chen (1995) in The Annals of Statistics.

@@ -1,0 +1,1 @@
+We present a method for proving the existence of time delay (defined in terms of sojourn times) as well as its identity with Eisenbud-Wigner time delay in the case of the Friedrichs model. We show that this method applies to scattering by finite rank potentials.

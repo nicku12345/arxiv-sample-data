@@ -1,0 +1,1 @@
+This paper studies the proof of Collatz conjecture for some set of sequence of odd numbers with infinite number of elements. These set generalized to the set which contains all positive odd integers. This extension assumed to be the proof of the full conjecture, using the concept of mathematical induction.

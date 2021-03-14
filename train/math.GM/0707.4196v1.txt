@@ -1,0 +1,1 @@
+We give a short probabilistic (a Brownian motion) proof of the Riemann hypothesis based on some surprising, unexpected and deep algebraic conjecture (MAC in short) concerning the relation between the Riemann zeta \xi and a trivial zeta \zeta_{t}. That algebraic conjecture was firstly discovered and formulated in [MA]

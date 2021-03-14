@@ -1,0 +1,1 @@
+Let S_{n} denote the space of all n \times n real symmetric matrices. For n=2 or n>2 we characterize maps F from S_{n} to S_{m} which preserve adjacency, i.e. if rank(A-B)=1, then rank(F(A)-F(B))=1.

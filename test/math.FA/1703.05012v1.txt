@@ -1,0 +1,1 @@
+In this article, we present a constructive method for computing the frame coefficients of finite wavelet frames over prime fields using tools from computational harmonic analysis and group theory.

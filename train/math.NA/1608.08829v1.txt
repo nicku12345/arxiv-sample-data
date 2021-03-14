@@ -1,0 +1,1 @@
+We consider the mixed formulation of the equations governing Darcy-Forchheimer flow in porous media. We prove existence and uniqueness of a solution for the stationary problem and the existence of a solution for the transient problem.

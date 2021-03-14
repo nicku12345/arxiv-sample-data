@@ -1,0 +1,1 @@
+The 'contracting boundary' of a proper geodesic metric space consists of equivalence classes of geodesic rays that behave like rays in a hyperbolic space. We introduce a geometrically relevant, quasi-isometry invariant topology on the contracting boundary. When the space is the Cayley graph of a finitely generated group we show that our new topology is metrizable.

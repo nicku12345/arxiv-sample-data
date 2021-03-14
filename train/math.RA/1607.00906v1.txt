@@ -1,0 +1,1 @@
+In this paper we prove that for a monoid S, products of indecomposable right S-acts are indecomposable if and only if S contains a right zero. Besides, we prove that subacts of indecomposable right S-acts are indecomposable if and only if S is left reversible. Ultimately, we prove that the one element right S-act \Theta_S is product flat if and only if S contains a left zero.

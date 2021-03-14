@@ -1,0 +1,1 @@
+We develop Hilbert-Kunz theory in a combinatorial setting namely for binoids. We show that the Hilbert-Kunz multiplicity for commutative, finitely generated, semipositive, cancellative and reduced binoids exists and is a rational number. This implies that the corresponding Hilbert-Kunz multiplicity for the binoid algebras does not depend on the characteristic.

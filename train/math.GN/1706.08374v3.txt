@@ -1,0 +1,1 @@
+In this paper we construct a new "pro-p-complete" topological Kac-Moody group and compare it to various known topological Kac-Moody groups. We come across this group by investigating the process of completion of groups with BN-pairs. We would like to know whether the completion of such a group admits a BN-pair. We give explicit criteria for this to happen.

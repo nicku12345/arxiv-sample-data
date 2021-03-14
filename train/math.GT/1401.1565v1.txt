@@ -1,0 +1,1 @@
+Based on work of Rasmussen, we construct a concordance invariant associated to the knot Floer complex, and exhibit examples in which this invariant gives arbitrarily better bounds on the 4-ball genus than the Ozsvath-Szabo tau invariant.

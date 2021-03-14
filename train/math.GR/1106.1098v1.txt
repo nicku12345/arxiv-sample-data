@@ -1,0 +1,1 @@
+We describe an algorithm for computing successive quotients of the Schur multiplier M(G) for a group G given by an invariant finite L-presentation. As application, we investigate the Schur multipliers of various self-similar groups such as the Grigorchuk super-group, the generalized Fabrykowski-Gupta groups, the Basilica group and the Brunner-Sidki-Vieira group.

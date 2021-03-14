@@ -1,0 +1,1 @@
+The main result of this paper is a ``real form'' of Kirwan's convexity theorem, which in the abelian case was proved earlier by Duistermaat. We apply our result to flag varieties of real semisimple groups and obtain eigenvalue inequalities, which generalize inequalities found by Weyl, Ky Fan, Kostant, Klyachko, and many others.

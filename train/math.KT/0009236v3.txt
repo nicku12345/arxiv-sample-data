@@ -1,0 +1,1 @@
+We define an equivariant K_0-theory for \textit{Yetter-Drinfeld} algebras over a Hopf algebra with an invertible antipode. We then show that this definition can be generalized to all Hopf-module algebras. We show that there exists a pairing, generalizing Connes' pairing, between this theory and a suitably defined Hopf algebra equivariant cyclic cohomology theory.

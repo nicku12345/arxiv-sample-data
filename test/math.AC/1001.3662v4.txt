@@ -1,0 +1,1 @@
+Let X be a projective scheme over a field k and let A be the local ring at the vertex of the affine cone of X under some embedding X\hookrightarrow\mathbb{P}^n_k. We prove that, when \ch(k)>0, the Lyubeznik numbers \lambda_{i,j}(A) are intrinsic numerical invariants of X, i.e., \lambda_{i,j}(A) depend only on X, but not on the embedding.

@@ -1,0 +1,1 @@
+We extend the concept of graph energy, introduced by Gutman, to matrices. We give upper and lower bounds on matrix energy extending previous results for graphs. In particular, we estimate the energy of almost all graphs.

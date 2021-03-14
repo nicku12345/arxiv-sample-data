@@ -1,0 +1,1 @@
+The two-dimensional Schroedinger operator with a uniform magnetic field and a periodic zero-range potential is considered. For weak magnetic fields we reduce the spectral problem to the semiclassical analysis of one-dimensional Harper-like operators. This shows the existence of parts of Cantor structure in the spectrum for special values of the magnetic flux.

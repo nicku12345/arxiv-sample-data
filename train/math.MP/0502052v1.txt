@@ -1,0 +1,1 @@
+The dressing chain equations for the second order Sturm-Liouville differential operators is integrated. The simplest closure at the third step is linked to the spectral curve of the genus 1 and the explicit solution in elliptic Weierstrass functions is given. Dependence on integrals that enter the bihamiltonian structure is specified.

@@ -1,0 +1,1 @@
+Consider the system of n identical hard balls in \mathbb R^3 moving freely and colliding elastically. We show that there exist initial conditions such that the number of collisions is exponential in n.

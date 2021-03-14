@@ -1,0 +1,1 @@
+We extend the definition of Lagrangian quantum homology to monotone Lagrangian cobordism and establish its general algebraic properties. In particular we develop a relative version of Lagrangian quantum homology associated to a cobordism relative to a part of its boundary and study relations of this invariant to the ambient quantum homology.

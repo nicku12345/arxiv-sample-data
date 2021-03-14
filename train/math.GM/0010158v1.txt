@@ -1,0 +1,1 @@
+A Generalized Numeration Base is defined in this paper, and then particular cases are presented, such as Prime Base, Square Base, m-Power Base, Factorial Base, and operations in these bases. These bases are important for partitions of integers into primes, squares, cubes, generally into m-powers, also into factorials, and into any strictly increasing sequence.

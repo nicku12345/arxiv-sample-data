@@ -1,0 +1,1 @@
+Homology of the group Aut(F_n) of automorphisms of a free group on n generators is known to be independent of n in a certain stable range. Using tools from homotopy theory, we prove that in this range it agrees with homology of symmetric groups. In particular, Aut(F_n) has no stable rational homology, settling a conjecture of Hatcher and Vogtmann.

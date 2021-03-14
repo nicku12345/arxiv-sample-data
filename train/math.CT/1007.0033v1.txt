@@ -1,0 +1,1 @@
+We start from any small strict monoidal braided Ab-category and extend it to a monoidal nonstrict braided Ab-category which contains braided bialgebras. The objects of the original category turn out to be modules for these bialgebras

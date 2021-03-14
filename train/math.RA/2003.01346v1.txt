@@ -1,0 +1,1 @@
+Let R[G] be the group ring of a group G over an associative ring R with unity such that all prime divisors of orders of elements of G are invertible in R. If R is finite and G is a Chernikov (torsion FC-) group, then each R-derivation of R[G] is inner. Similar results also are obtained for other classes of groups G and rings R.

@@ -1,0 +1,1 @@
+Let A_p(\C) be the space of entire functions such that | f(z)|\le Ae^{Bp(z)} for some A,B>0 and let V be a discrete sequence of complex numbers which is not a uniqueness set for A_p(\C). We use L^2 estimates for the \bar\partial equation to charaterize the trace of A_p(\C) on V.

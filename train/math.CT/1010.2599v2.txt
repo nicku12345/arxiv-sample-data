@@ -1,0 +1,1 @@
+We prove that the folk model structure on strict \infty-categories transfers to the category of strict \infty-groupoids (and more generally to the category of strict (\infty, n)-categories), and that the resulting model structure on strict \infty-groupoids coincides with the one defined by Brown and Golasinski via crossed complexes.

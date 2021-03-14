@@ -1,0 +1,1 @@
+Let G be a connected reductive group over a finite field F_q. A map from irreducible representations of G(F_q) to semisimple classes in the dual group was defined by a cohomological method by Deligne and the author in 1976. Here we show that when q is large enough this map has an alternative (non-cohomological) definition.

@@ -1,0 +1,1 @@
+Let G be a split reductive algebraic group over a non-archimedean local field. We study the representation theory of a central extension \G of G by a cyclic group of order n, under some mild tameness assumptions on n. In particular, we focus our attention on the development of the theory of principal series representations for \G and applications of this theory.

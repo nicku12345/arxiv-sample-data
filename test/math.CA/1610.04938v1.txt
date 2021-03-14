@@ -1,0 +1,1 @@
+We present a new smoothness result for Caputo-type fractional ordinary differential equations, which reveals that, subtracting a non-smooth function that can be obtained by the information available, a non-smooth solution belongs to  C^m  for some positive integer  m .

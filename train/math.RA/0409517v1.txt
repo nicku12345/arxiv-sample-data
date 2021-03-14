@@ -1,0 +1,1 @@
+It is shown that every commutative arithmetic ring R has lambda-dimension  leq 3. An example of a commutative Kaplansky ring with  lambda-dimension 3 is given. If R satisfies an additional condition then  lambda-dim(R)

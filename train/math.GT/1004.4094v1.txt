@@ -1,0 +1,1 @@
+Let G be a Lie group and M a smooth proper G-manifold. Let pi:Mto M/G denote the natural map to the orbit space. Then there exist a PL manifold P, a polyhedron L and homeomorphisms tau:Pto M and \sigma:M/Gto L such that \sigma\circpi\circ\tau is PL. If M and the G-action are of analytic class, we can choose subanalytic \tau and then unique P and L.

@@ -1,0 +1,1 @@
+The main result of the paper is a Borel type description of the Sp(1)^n-equivariant cohomology ring of the manifold Fl_n(\mathbb{H}) of all complete flags in \mathbb{H}^n. To prove this, we obtain a Goresky-Kottwitz-MacPherson type description of that ring.

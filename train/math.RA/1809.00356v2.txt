@@ -1,0 +1,1 @@
+Let D be a non-commutative division ring, G a subnormal subgroup of {\mathrm GL}_n(D). In this note we show that if G contains a non-abelian solvable maximal subgroup, then n=1 and D is a cyclic algebra of prime degree over F.

@@ -1,0 +1,1 @@
+In this article, the concept of nil clean graph of a ring has been generalised to weakly nil clean graph of a ring and graph theoretic properties like girth, clique number, diameter and chromatic index of the graph have been studied for a finite commutative ring.

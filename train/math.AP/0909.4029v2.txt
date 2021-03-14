@@ -1,0 +1,1 @@
+This paper establishes new estimates for linear Schroedinger equations in R^3 with time-dependent potentials. Some of the results are new even in the time-independent case and all are shown to hold for potentials in scaling-critical, translation-invariant spaces.   The proof of the time-independent results uses a novel method based on an abstract version of Wiener's Theorem.

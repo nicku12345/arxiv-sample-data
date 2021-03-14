@@ -1,0 +1,1 @@
+Bezrukavnikov and Etingof introduced some functors between the categories O for rational Cherednik algebras. Namely, they defined two induction functors Ind_b, ind_\lambda and two restriction functors Res_b,res_\lambda. They conjectured that one has functor isomorphisms Ind_b\cong ind_\lambda, Res_b\cong res_\lambda. The goal of this paper is to prove this conjecture.

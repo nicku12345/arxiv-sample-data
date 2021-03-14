@@ -1,0 +1,1 @@
+Let G be a group SO(2n+1) defined over a p-adic field. We compute the wave front set of the anti-tempered irreducible representations of G(F) which are of unipotent reduction. It is the orthogonal orbit dual to the symplectic orbit appearing in the Arthur's parametrization of the representation.

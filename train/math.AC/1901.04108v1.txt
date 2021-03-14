@@ -1,0 +1,1 @@
+We prove that each positive power of the maximal ideal of a commutative Noetherian local ring is Tor-rigid, and strongly-rigid. This gives new characterizations of regularity and, in particular, shows that such ideals satisfy the torsion condition of a long-standing conjecture of Huneke and Wiegand.

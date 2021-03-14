@@ -1,0 +1,1 @@
+It is shown that for any locally knotted edge of a 3-connected graph in S^3, there is a ball that contains all of the local knots of that edge and is unique up to an isotopy setwise fixing the graph. This result is applied to the study of topological symmetry groups of graphs embedded in S^3.

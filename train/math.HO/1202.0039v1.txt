@@ -1,0 +1,1 @@
+This paper is about the product z^q/(1 - z)^(q + 1)(1 + (z/(1 - z)))^p, Euler gives the Talylor-Series and takes a closer look at the coefficient.

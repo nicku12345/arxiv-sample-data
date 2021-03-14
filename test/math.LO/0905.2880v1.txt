@@ -1,0 +1,1 @@
+We give a procedure for counting the number of different proofs of a formula in various sorts of propositional logic. This number is either an integer (that may be 0 if the formula is not provable) or infinite.

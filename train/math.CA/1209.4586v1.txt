@@ -1,0 +1,1 @@
+If a function f, acting on a Euclidean space \mathbb{R}^n, is "almost" orthogonally additive in the sense that f(x+y)=f(x)+f(y) for all (x,y)\in\bot\setminus Z, where Z is a "negligible" subset of the (2n-1)-dimensional manifold \bot\subset\mathbb{R}^{2n}, then f coincides almost everywhere with some orthogonally additive mapping.

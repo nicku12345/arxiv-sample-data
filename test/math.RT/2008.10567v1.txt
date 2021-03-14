@@ -1,0 +1,1 @@
+Let \Lambda be an algebra with a indecomposable projective-injective module. Adachi gave a method to construct the Hasse quiver of support \tau-tilting \Lambda-modules. In this paper, we will show that it can be restricted to \tau-tilting modules.

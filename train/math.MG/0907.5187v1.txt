@@ -1,0 +1,1 @@
+We prove non-extendability results for Lipschitz maps with target space being jet spaces equipped with a left-invariant Riemannian distance, as well as jet spaces equipped with a left-invariant sub-Riemannian Carnot-Caratheodory distance. The jet spaces give a model for a certain class of Carnot groups, including in particular all Heisenberg groups.

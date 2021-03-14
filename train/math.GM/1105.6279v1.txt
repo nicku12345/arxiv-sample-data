@@ -1,0 +1,1 @@
+In this article using Ramanujan's theory of Eisenstein series we evaluate completely the derivatives of the theta functions \vartheta_1^{(2\nu+1)}(z) and \vartheta_4^{(2\nu)}(z) in the origin in closed polynomials forms using only the first three Eisenstein series of weights 2,4, and 6.

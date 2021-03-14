@@ -1,0 +1,1 @@
+This is a tutorial paper that gives the complete proof of a result of Frolov [2] that shows the optimal order of convergence for numerical integration of functions with bounded mixed derivatives. The presentation follows Temlyakov [8], see also [7].

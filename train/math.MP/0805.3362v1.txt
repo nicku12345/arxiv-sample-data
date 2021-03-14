@@ -1,0 +1,1 @@
+In this paper we show some exact solutions for the Ito equation. These solutions are obtained by two methods: the tanh method and the projective Riccati equation method.

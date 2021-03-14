@@ -1,0 +1,1 @@
+We prove that a C^2 diffeomorphism f of a compact manifold M satisfies Axiom A and the strong transversality condition if and only if it is H\"{o}lder stable, that is, any C^1 diffeomorphism g of M sufficiently C^1 close to f is conjugate to f by a homeomorphism which is H\"{o}lder on the whole manifold.

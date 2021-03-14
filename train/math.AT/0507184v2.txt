@@ -1,0 +1,1 @@
+Using degree N isogenies of elliptic curves, we produce a spectrum Q(N). This spectrum is built out of spectra related to tmf. At p=3 we show that the K(2)-local sphere is built out of Q(2) and its K(2)-local Spanier-Whitehead dual. This gives a conceptual reinterpretation a resolution of Goerss, Henn, Mahowald, and Rezk.

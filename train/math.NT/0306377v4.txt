@@ -1,0 +1,1 @@
+We prove that the Hausdorff dimension of the set of badly approximable systems of m linear forms in n variables over the field of Laurent series with coefficients from a finite field is maximal. This is a analogue of Schmidt's multi-dimensional generalisation of Jarnik's Theorem on badly approximable numbers.

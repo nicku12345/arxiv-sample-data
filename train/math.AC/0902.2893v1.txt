@@ -1,0 +1,1 @@
+Let \Q_n \subset \mathbb P^{n+1} be a smooth quadric hypersurface. Here we prove that the tensor product of an m-Qregular sheaf on \Q_n and an l-Qregular vector bundle on \Q_n is (m+l)-Qregular.

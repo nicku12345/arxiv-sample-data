@@ -1,0 +1,1 @@
+In this paper, we will prove that any \A^3-form over a field k of characteristic zero is trivial provided it has a locally nilpotent derivation satisfying certain properties. We will also show that the result of T. Kambayashi on the triviality of separable \A^2-forms over a field k extends to \A^2-forms over any one-dimensional Noetherian domain containing \bQ.

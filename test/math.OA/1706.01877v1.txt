@@ -1,0 +1,1 @@
+The continuity of the core inverse and the dual core inverse is studied in the setting of C*-algebras. Later, this study is specialized to the case of bounded Hilbert space operators and to complex matrices. In addition, the differentiability of these generalized inverses is studied in the context of C*-algebras.

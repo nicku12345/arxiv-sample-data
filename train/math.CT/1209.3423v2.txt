@@ -1,0 +1,1 @@
+Rump has recently showed the existence of a unique maximal Quillen exact structure on any additive category. We study when this is given by the stable short exact sequences, i.e. kernel-cokernel pairs consisting of a semi-stable kernel and a semi-stable cokernel.

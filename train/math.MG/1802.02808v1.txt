@@ -1,0 +1,1 @@
+In this paper we prove asymptotic upper bounds on the variance of the number of vertices and missed area of inscribed random disc-polygons in smooth convex discs whose boundary is C^2_+. We also consider a circumscribed variant of this probability model in which the convex disc is approximated by the intersection of random circles.

@@ -1,0 +1,1 @@
+Let X be a smooth complex projective algebraic variety. Let \mathcal{G} be a G-banded gerbe with G a finite abelian group. We prove an exact formula expressing genus g orbifold Gromov-Witten invariants of \mathcal{G} in terms of those of X.

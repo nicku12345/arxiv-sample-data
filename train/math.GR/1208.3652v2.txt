@@ -1,0 +1,1 @@
+We give a geometric proof of a well known theorem that describes splittings of a free group as an amalgamated product or HNN extension over the integers. The argument generalizes to give a similar description of splittings of a virtually free group over a virtually cyclic group.

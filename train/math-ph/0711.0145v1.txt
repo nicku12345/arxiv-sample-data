@@ -1,0 +1,1 @@
+Nonlinear ODEs invariant under the group SL(2,R) are solved numerically. We show that solution methods incorporating the Lie point symmetries provide better results than standard methods.

@@ -1,0 +1,1 @@
+Let (R,m) be a Cohen-Macaulay local ring of positive dimension d and infinite residue field. Let I be an m-primary ideal and J a minimal reduction of I. In this paper, we show that \widetilde{r_J(I)}\leq r_J(I). This answer to a question that made by M.E. Rossi and I. Swanson in [\ref{Rs}, Question 4.6].

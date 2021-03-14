@@ -1,0 +1,1 @@
+We establish a general method for generating reflections between categories. We then apply our technique to generate adjunctions starting from geometric morphisms between Grothendieck toposes; as particular cases, we recover various well-known Stone-type adjunctions and establish several new ones.

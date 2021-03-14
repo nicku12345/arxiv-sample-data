@@ -1,0 +1,1 @@
+We define a new kind of Gauss diagrams to describe knots in the solid torus with projections in the annulus. We see that it provides an efficient tool for showing that a knot diagram can be fully recovered from its decorated Gauss diagram, and we use it to establish a characterization of the decorated Gauss diagrams of closed braids.

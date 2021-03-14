@@ -1,0 +1,1 @@
+In 2004, Hong and Szymanski gave a complete description of the primitive-ideal space of the C*-algebra of a directed graph. This article details a slightly different approach, in the simpler context of row-finite graphs with no sources, obtaining an explicit description of the ideal lattice of a graph algebra.

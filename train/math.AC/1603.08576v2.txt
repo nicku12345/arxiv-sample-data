@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring and M a finitely generated R-module. Under various hypotheses, it is proved that the center of \mbox{End}_R(M) coincides with the endomorphism ring of the trace ideal of M. These results are exploited to establish results for balanced and rigid modules, and to settle certain cases of a conjecture of Huneke and Wiegand.

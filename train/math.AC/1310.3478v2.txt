@@ -1,0 +1,1 @@
+For pairs of integers (n,m) and (d,e) satisfying some nedesary conditions, we construct a local flat ring morphism of noetherian local rings u:A -->B such that dim(A)=n, depth(A)=d, dim(B)=m, depth(B)=e.

@@ -1,0 +1,1 @@
+For a complete toric variety, we obtain an explicit formula for the localized equivariant Todd class in terms of the combinatorial data -- the fan. This is based on the equivariant Riemann-Roch theorem and the computation of the equivariant cohomology and equivariant homology of toric varieties.

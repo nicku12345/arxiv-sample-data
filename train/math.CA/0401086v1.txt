@@ -1,0 +1,1 @@
+We show that the Lagrange interpolation polynomials are biorthogonal with respect to a set of rational functions whose poles coinicde with interpolation points

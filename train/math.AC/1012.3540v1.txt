@@ -1,0 +1,1 @@
+We prove constructively that for any finite-dimensional commu- tative ring R, every stably free module over R[X;X^{1}] of rank > dim R is free, i.e., R[X;X^{-1}] is (dimR)-Hermite.

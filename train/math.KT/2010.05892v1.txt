@@ -1,0 +1,1 @@
+In this note, we give a short proof of the localization formula for the loop space Chern character of a compact Riemannian spin manifold M, using the rescaled spinor bundle on the tangent groupoid associated to M.

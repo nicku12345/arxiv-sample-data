@@ -1,0 +1,1 @@
+Assuming GCH, we construct an atomic boolean algebra whose pi-weight is strictly less than the least size of a maximal irredundant family.

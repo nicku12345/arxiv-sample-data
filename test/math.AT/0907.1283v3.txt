@@ -1,0 +1,1 @@
+We prove that E_n-homology of non-unital commutative algebras can be described as functor homology when one considers functors from a certain category of planar trees with n levels. For different n these homology theories are connected by natural maps, ranging from Hochschild homology and its higher order versions to Gamma homology.

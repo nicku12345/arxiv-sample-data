@@ -1,0 +1,1 @@
+In this note we use a result of Kantor to prove a conjecture of Degos. Specifically we prove the following: let \mathbb{F} be a finite field of order q and let f, g\in\mathbb{F}[X] be distinct polynomials of degree n such that f is primitive, and the constant term of g is non-zero. Then <C_f, C_g>=\mathrm{GL}_n(q).

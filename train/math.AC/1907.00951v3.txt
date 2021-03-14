@@ -1,0 +1,1 @@
+In a formally unmixed Noetherian local ring, if the colength and multiplicity of an integrally closed ideal agree, then R is regular. We deduce this using the relationship between multiplicity and various ideal closure operations.

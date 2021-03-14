@@ -1,0 +1,1 @@
+The Lawrence representation L_{n,m} is a family of homological representation of the braid group B_n, which specializes to the reduced Burau and the Lawrence-Krammer representation when m is 1 and 2. In this article we show that the Lawrence representation is faithful for m \geq 2.

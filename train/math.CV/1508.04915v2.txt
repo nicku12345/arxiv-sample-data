@@ -1,0 +1,1 @@
+We show there is a solution operator to \bar{\partial} which is bounded as a map W^{s}_{(0,1)}(\Omega)\cap\mbox{ker }\bar{\partial}\rightarrow W^{s}(\Omega) for all s\ge 0.

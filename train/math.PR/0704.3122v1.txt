@@ -1,0 +1,1 @@
+We show that for 0<\alpha<1 and \theta>-\alpha, the Poisson-Dirichlet distribution with parameter (\alpha, \theta) is the unique reversible distribution of a rather natural fragmentation-coalescence process. This completes earlier results in the literature for certain split and merge transformations and the parameter \alpha =0.

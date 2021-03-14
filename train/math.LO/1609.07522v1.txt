@@ -1,0 +1,1 @@
+We show that a large class of divisible abelian \ell-groups (lattice ordered groups) of continuous functions is interpretable (in a certain sense) in the lattice of the zero sets of these functions. This has various applications to the model theory of these \ell-groups, including decidability results.

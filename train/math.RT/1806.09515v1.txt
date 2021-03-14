@@ -1,0 +1,1 @@
+We prove the conjecture of Friedlander et al. about sums over Littelmann patterns for the the root system of type G_2, which is an analogue of Tokuyama's theorem for root systems of type A_r. We use elementary means to show that the conjecture is implied by a finite set of polynomial identities.

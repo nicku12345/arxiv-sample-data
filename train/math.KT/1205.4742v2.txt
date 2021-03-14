@@ -1,0 +1,1 @@
+We give a simple proof of the Riemann-Roch theorem for Deligne-Mumford stacks using the equivariant Riemann-Roch theorem and the localization theorem in equivariant K-theory together with some basic commutative algebra of Artin rings.

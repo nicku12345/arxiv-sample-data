@@ -1,0 +1,1 @@
+We show that the pure cactus group \Gamma_{n+1} is residually nilpotent and exhibit a surjective homomorphism \Gamma_{n+1} \to (\mathbb{Z}/2\mathbb{Z})^{2^n-n(n+1)/2-1} whose kernel is residually torsion-free nilpotent.

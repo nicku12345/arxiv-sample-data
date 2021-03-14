@@ -1,0 +1,1 @@
+We prove that for any natural n>1, the abstract commensurator group of the Baumslag - Solitar group BS(1,n) is isomorphic to the group of 2 by 2 upper triangular matrices A over rational numbers with A_{11}=1. We also prove that for any finitely generated group G with the unique root property the natural homomorphisms Aut(G)--> Comm(G)--> QI(G) are embeddings.

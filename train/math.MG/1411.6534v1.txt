@@ -1,0 +1,1 @@
+We show that the "grandfather graph" has the following property: it is the unique completion to a transitive graph of a large enough finite subgraph of itself.

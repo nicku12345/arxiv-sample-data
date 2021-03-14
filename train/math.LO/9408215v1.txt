@@ -1,0 +1,1 @@
+We prove that the Sacks forcing collapses the continuum onto the dominating number d, answering the question of Carlson and Laver. Next we prove that if a proper forcing of the size at most continuum collapses omega_2 then it forces diamond_{omega_1} .

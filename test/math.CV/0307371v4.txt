@@ -1,0 +1,1 @@
+We answer a question of Schleicher by showing that, for an exponential map with nonescaping singular value, every periodic ray lands. This is an analog of a theorem of Douady and Hubbard concerning polynomials. We also prove a partial converse: there are periodic external rays landing at all periodic points, with the exception of at most one periodic orbit.

@@ -1,0 +1,1 @@
+We present an algorithm for multivariate integration over cubes that is unbiased and has optimal order of convergence (in the randomized sense as well as in the worst case setting) for all Sobolev spaces H^{r, mix}([0,1]^d) and H^s([0,1]^d) for s>d/2.

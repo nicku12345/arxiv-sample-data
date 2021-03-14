@@ -1,0 +1,1 @@
+We investigate lower bounds on the average degree in r-cliques in graphs of order n and size greater than t(r,n), where t(r,n) is the size of the Turan graph on n vertices and r color classes. Continuing earlier research of Edwards and Faudree, we completely prove a conjecture of Bollobas and Erdoes from 1975.

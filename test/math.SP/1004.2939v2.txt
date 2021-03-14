@@ -1,0 +1,1 @@
+We prove the complete asymptotic expansion of the integrated density of states of a Schrodinger operator H = -\Delta + b acting in R^d when the potential b is either smooth periodic, or generic quasi-periodic (finite linear combination of exponentials), or belongs to a wide class of almost-periodic functions.

@@ -1,0 +1,1 @@
+Suppose that L is one of the finite simple groups PSL_4(q) or PSU_4(q) and L acts on a vector space W over a field whose characteristic divides q. We prove that the natural semidirect product of W and L contains an element whose order differs from the order of any element of L, thus answering questions 14.60 and 17.73 (a) of the Kourovka Notebook.

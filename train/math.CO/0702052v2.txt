@@ -1,0 +1,1 @@
+We express the generating function for lattice points in a rational polyhedral cone with a simplicial subdivision in terms of multivariate analogues of the h-polynomials of the subdivision and "local contributions" of the links of its nonunimodular faces. We also compute new examples of nonunimodal h^*-vectors of reflexive polytopes.

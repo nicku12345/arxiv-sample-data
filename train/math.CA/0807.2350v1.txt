@@ -1,0 +1,1 @@
+We bound the j -invariant of integral points on a modular curve in terms of the congruence group defining the curve. We apply this to prove that the modular curve Xsplit (p3) has no non-trivial rational point if p is a sufficiently large prime number. Assuming the GRH, one can replace p3 by p2 .

@@ -1,0 +1,1 @@
+This note explains how to prove that for any simply-connected reductive group G and any infinite field k, the inclusion of k in k[t] induces an isomorphism on homology. This generalizes results of Soule and Knudson.

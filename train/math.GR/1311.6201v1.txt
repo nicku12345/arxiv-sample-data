@@ -1,0 +1,1 @@
+Given a finite group G, let Cent(G) denote the set of distinct centralizers of elements of G. The group G is called n-centralizer if |Cent(G)|=n and primitive n-centralizer if |Cent(G)|=|Cent(\frac{G}{Z(G)})|=n. In this paper, we characterize the 9-centralizer and the primitive 9-centralizer groups.

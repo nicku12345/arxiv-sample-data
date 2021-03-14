@@ -1,0 +1,1 @@
+We prove an f-version of Mirsky's singular value inequalities for differences of matrices. This f-version consists in applying a positive concave function f, with f(0)=0, to every singular value in the original Mirsky inequalities.

@@ -1,0 +1,1 @@
+In this first part, a computable outer bound is proved for the multiterminal source coding problem, for a setup with two encoders, discrete memoryless sources, and bounded distortion measures.

@@ -1,0 +1,1 @@
+Let (\Omega,\mu) be a finite measure space, X a Banach space, and let 1\le p<\infty. The aim of this paper is to give an elementary proof of the Diaz--Mayoral theorem that a subset V of L^p(\mu;X) is relatively compact if and only if it is uniformly p-integrable, uniformly tight, and scalarly relatively compact.

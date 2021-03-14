@@ -1,0 +1,1 @@
+Fix \epsilon > 0, and let p_1 = 2, p_2 = 3,... be the sequence of all primes. We prove that if (q,a) = 1 then there are infinitely many pairs p_r, p_{r+1} such that p_r \equiv p_{r+1} \equiv a \mod q and p_{r+1} - p_r < \epsilon\log p_r. The proof combines the ideas of Shiu and Goldston-Pintz-Yildirim.

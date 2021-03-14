@@ -1,0 +1,1 @@
+In this paper we show that the geometric monodromy \phi of the Milnor fibre, has finite order q if and only if the operator \phi^q_* acts trivially on the homology. The proof is based on the classical methods of surgery.

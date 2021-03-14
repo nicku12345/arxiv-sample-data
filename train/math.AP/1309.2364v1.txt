@@ -1,0 +1,1 @@
+We consider the asymptotic behavior of the soltion to the wave equation with time-dependent damping and analytic nonlinearity. Our main goal is to prove the convergence of a global solution to an equilibrium as time goes to infinity by means of a suitable Lojasiewicz-Simon type inequality.

@@ -1,0 +1,1 @@
+In this work, we establish a nontrivial level of distribution for densities on \{1,\ldots, N\} obtained by a biased coin convolution. As a consequence of sieving theory, one then derives the expected lower bound for the weight of such densities on sets of pseudo-primes.

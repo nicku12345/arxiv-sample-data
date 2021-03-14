@@ -1,0 +1,1 @@
+We present the convergence analysis of the cell average technique, introduced in [12], to solve the nonlinear continuous Smoluchowski coagulation equation. It is shown that the technique is second order accurate on uniform grids and first order accurate on non-uniform smooth (geometric) grids. As an essential ingredient, the consistency of the technique is thoroughly discussed.

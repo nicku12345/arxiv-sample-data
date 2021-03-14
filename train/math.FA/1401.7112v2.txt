@@ -1,0 +1,1 @@
+In this paper we define bicomplex Orlicz space with hyperbolic valued Luxemburg norm and discussed some of their properties. We have also partially characterize an integral representation of a \mathbb{D}-valued convex function. Further we have shown that the spectrum of the unilateral shift operator on l^2(\mathbb{BC}) is the null cone \mathcal{NC}.

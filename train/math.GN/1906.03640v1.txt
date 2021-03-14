@@ -1,0 +1,1 @@
+Let \mathcal{O}S be the frame of open sets of a topological space S, and let N(\mathcal{O}S) be the frame of nuclei of \mathcal{O}S. For an Alexandroff space S, we prove that N(\mathcal{O}S) is spatial iff the infinite binary tree \mathscr T_2 does not embed isomorphically into (S, \le), where \le is the specialization preorder of S.

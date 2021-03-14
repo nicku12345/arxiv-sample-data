@@ -1,0 +1,1 @@
+Moving average models, linear or nonlinear, are characterized by their short memory. This paper shows that, in the presence of feedback in the dynamics, the above characteristic can disappear.

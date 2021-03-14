@@ -1,0 +1,1 @@
+The structure of isentropes (i.e. level sets of constant topological entropy) including the monotonicity of entropy, has been studied for polynomial interval maps since the 1980s. We show that isentropes of multimodal polynomial families need not be locally connected and that entropy does in general not depend monotonically on a single critical value.

@@ -1,0 +1,1 @@
+We study compatible aggregation functions on a general bounded distributive lattice L, where the compatibility is related to the congruences on L. As a by-product, a new proof of an earlier result of G. Gr\"atzer is obtained. Moreover, our results yield a new characterization of discrete Sugeno integrals on bounded distributive lattices.

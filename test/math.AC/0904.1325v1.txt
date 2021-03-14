@@ -1,0 +1,1 @@
+A formula for computation of the Poincar\'e series P_d(z) of the algebra of the covariants of binary d-form is found. By using it, we have computed the P_d(z) for d \leq 20.

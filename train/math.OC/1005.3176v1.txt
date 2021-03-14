@@ -1,0 +1,1 @@
+This work deals with the existence of optimal solution and the maximum principle for optimal control problem governed by Navier-Stokes equations with state constraint in 3-D. Strong results in 2-D also are given.

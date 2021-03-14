@@ -1,0 +1,1 @@
+For a row-finite higher-rank graph {\Lambda}, we construct a higher-rank graph T{\Lambda} such that the Toeplitz algebra of {\Lambda} is isomorphic to the Cuntz-Krieger algebra of T{\Lambda}. We then prove that the higher-rank graph T{\Lambda} is always aperiodic and use this fact to give another proof of a uniqueness theorem for the Toeplitz algebras of higher-rank graphs.

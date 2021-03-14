@@ -1,0 +1,1 @@
+We present a spectral sequence connecting the continuous and 'locally continuous' group cohomologies for topological groups. As an application it is shown that for contractible topological groups these cohomology concepts coincide. Similar results for k-groups and smooth cochains on Lie groups are also obtained.

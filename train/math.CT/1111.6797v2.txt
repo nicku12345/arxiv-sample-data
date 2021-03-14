@@ -1,0 +1,1 @@
+We reconsider a classical theorem by Bican and El Bashir, which guarantees the existence of non-trivial relatively pure submodules in a module category over a ring with unit. Our aim is to generalize the theorem to module categories over rings with several objects. As an application we then consider the special case of alpha-pure objects in such module categories.

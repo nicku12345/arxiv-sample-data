@@ -1,0 +1,1 @@
+Let \pi_1,...,\pi_n be an irreducible finite-dimensional \mathfrak{sl}_2-modules. Using the theory of the representations of the current algebras, we introduce a several ways to construct a q-grading on \pi_1\otimes...\otimes\pi_n. We study the corresponding graded modules and prove, that they are essentially the same.

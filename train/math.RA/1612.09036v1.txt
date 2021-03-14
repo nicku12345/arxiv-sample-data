@@ -1,0 +1,1 @@
+The definition of a holomorphic function over a general measurable space S endowed with a Markov process is defined by Zeghib and Barre. In this article we consider holomorphic functions over graphs whose ranges are a given finite field or a cyclic group. Also we consider a relation between \mathbb{C}-holomorphic functions over regular trees and the field of p-adic numbers.

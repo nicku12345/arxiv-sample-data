@@ -1,0 +1,1 @@
+We prove that a Quillen adjunction of model categories (of which we do not require functorial factorizations and of which we only require finite bicompleteness) induces a canonical adjunction of underlying quasicategories.

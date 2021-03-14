@@ -1,0 +1,1 @@
+This paper presents a proof of the existence of standard symplectic coordinates near a set of smooth, orthogonally intersecting symplectic submanifolds. It is a generalization of the standard symplectic neighborhood theorem. Moreover, in the presence of a compact Lie group G acting symplectically, the coordinates can be chosen to be G-equivariant.

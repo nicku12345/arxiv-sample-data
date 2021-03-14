@@ -1,0 +1,1 @@
+By using coupling arguments, Harnack type inequalities are established for a class of stochastic (functional) differential equations with multiplicative noises and non-Lipschitzian coefficients. To construct the required couplings, two results on existence and uniqueness of solutions on an open domain are presented.

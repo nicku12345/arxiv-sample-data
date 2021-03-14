@@ -1,0 +1,1 @@
+Assume V=L and lambda is regular smaller than the first weakly compact cardinal. Under those circumstances and with arbitrary requirements on the structure of Ext(G,Z) (under well known limitations), we construct an abelian group G of cardinality lambda such that for no G' subseteq G, |G'|< lambda is G/G' free and Ext(G,Z) realizes our requirements.

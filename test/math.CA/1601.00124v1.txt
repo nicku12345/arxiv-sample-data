@@ -1,0 +1,1 @@
+In this short note we prove a conjecture for the interval (0,1), related to a logarithmically completely monotonic function, presented in \cite{BG}. Then, we extend by proving a more generalized theorem. At the end we pose an open problem on a logarithmically completely monotonic function involving q-Digamma function.

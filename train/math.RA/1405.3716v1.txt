@@ -1,0 +1,1 @@
+In this article, we show the relation between the irreducible idempotents of the cyclic group algebra \mathbb F_qC_n and the central irreducible idempotents of the group algebras \mathbb F_qD_{2n}, where \mathbb F_q is a finite field with q elements and D_{2n} is the dihedral group of order 2n, where {\rm gcd}(q,n)=1.

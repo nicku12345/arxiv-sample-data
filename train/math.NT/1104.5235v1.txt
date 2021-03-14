@@ -1,0 +1,1 @@
+The \Sopfr(n) function is defined as the sum of prime factors of n each of which is taken with its multiplicity. This function is studied numerically. The analogy between \Sopfr(n) and the primes distribution function is drawn and some conjectures for prime numbers formulated in terms of the \Sopfr(n) function are suggested.

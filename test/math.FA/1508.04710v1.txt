@@ -1,0 +1,1 @@
+For Toeplitz operators on bounded symmetric domains of arbitrary rank, we define a Hilbert quotient module corresponding to partitions of length 1 and prove that it belongs to the Macaev class {\mathcal{L}}^{n,\infty}. We next obtain an explicit formula for the Dixmier trace of Toeplitz commutators in terms of the underlying boundary geometry.

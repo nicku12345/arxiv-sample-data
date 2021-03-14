@@ -1,0 +1,1 @@
+In this text we study the regularity of matrices with special polynomial entries. Barring some mild conditions we show that these matrices are regular if a natural limit size is not exceeded. The proof draws connections to generalized Vandermonde matrices and Schur polynomials that are discussed in detail.

@@ -1,0 +1,1 @@
+Let H be a pointed Hopf algebra over an algebraically closed field of characteristic zero. If H is a domain with finite Gelfand-Kirillov dimension greater than or equal to two, then H contains a Hopf subalgebra of Gelfand-Kirillov dimension two.

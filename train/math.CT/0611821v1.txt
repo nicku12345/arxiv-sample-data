@@ -1,0 +1,1 @@
+Let G be a group and let M be an object of the topos G-Set. We prove that an object X of the category G-Set is isomorphic to some subobject of one of the objects P(M), P(P(M)), P(P(P(M))),... if and only if card X < sup{card P(M), card P(P(M)), card P(P(P(M))),...} and {g \in G: \forall m \in M gm=m} \subseteq {g \in G: \forall x \in X gx=x}.

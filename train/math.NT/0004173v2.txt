@@ -1,0 +1,1 @@
+We define Eisenstein series twisted by modular symbols on the group SL(n), generalizing a construction of the first author. We show that, in the case of series attached to the minimal parabolic subgroup, our series converges for all points in a suitable cone. We conclude with examples for SL(2) and SL(3).

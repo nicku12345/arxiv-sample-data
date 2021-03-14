@@ -1,0 +1,1 @@
+The main result of this paper is that in order to prove the local uniformization theorem for local rings it is enough to prove it for rank one valuations. Our proof does not depend on the nature of the class of local rings for which we want to prove local uniformization. We prove also the reductions for different versions of the local uniformization theorem.

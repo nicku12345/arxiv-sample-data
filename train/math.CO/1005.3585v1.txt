@@ -1,0 +1,1 @@
+In this note we give a transparent proof of a result of da Cruz and Dias da Silva on the equality of symmetrized decomposable tensors. This will be done by explaining that their result follows from the fact that the coordinate ring of a flag variety is a unique factorization domain.

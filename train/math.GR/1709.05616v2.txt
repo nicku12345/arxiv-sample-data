@@ -1,0 +1,1 @@
+We construct a simplified resolution for the trivial G-module Z, where G is a finite abelian group, and compare it with the standard resolution. We use it to calculate cohomologies of irreducible G-lattices and their duals.

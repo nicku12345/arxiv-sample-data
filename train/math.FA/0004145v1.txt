@@ -1,0 +1,1 @@
+We prove that a Banach space E has the compact range property (CRP) if and only if for any given C^*-algebra \cal A, every absolutely summing operator from \cal A into E is compact.

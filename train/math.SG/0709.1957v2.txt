@@ -1,0 +1,1 @@
+If P is a polydisk with radii R_1 < ... < R_n and P' is a polydisk with radii R'_1 < ... < R'_n, then we construct a symplectic embedding from P into P' provided that C(n) R_1 < R'_1 and C(n) R_1 ... R_n < C(n) R'_1 ... R'_n. Up to a constant factor, these conditions are optimal.

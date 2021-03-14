@@ -1,0 +1,1 @@
+This paper presents sixteen quantitative versions of the classic Tverberg, Helly, & Caratheodory theorems in combinatorial convexity. Our results include measurable or enumerable information in the hypothesis and the conclusion. Typical measurements include the volume, the diameter, or the number of points in a lattice.

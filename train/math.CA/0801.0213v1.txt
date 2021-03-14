@@ -1,0 +1,1 @@
+We make an estimation of the support of a multivariable scaling function for an arbitrary dilation matrix. We give a method of calculating the values of the scaling function on a tight set using the knowledge of the size of the support.

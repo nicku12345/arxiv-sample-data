@@ -1,0 +1,1 @@
+We use the theory of fully matricial, or non-commutative, functions to investigate infinite divisibility and limit theorems in operator-valued non-commutative probability. Our main result is an operator-valued analogue of the Bercovici-Pata bijection. An important tool is Voiculescu's subordination property for operator-valued free convolution.

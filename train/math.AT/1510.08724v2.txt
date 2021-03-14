@@ -1,0 +1,1 @@
+We introduce a version of Farber's topological complexity suitable for investigating mechanical systems whose configuration spaces exhibit symmetries. Our invariant has vastly different properties to the previous approaches of Colman-Grant, Dranishnikov and Lubawski-Marzantowicz. In particular, it is bounded from above by Farber's topological complexity.

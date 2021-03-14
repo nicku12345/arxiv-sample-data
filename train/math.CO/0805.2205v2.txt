@@ -1,0 +1,1 @@
+In this note, we establish a mass formula for self-orthogonal codes over Z_{p^2}, where p is a prime. As a consequence, an alternative proof of the known mass formulas for self-dual codes over Z_{p^2} is obtained. We also establish a mass formula for even quaternary codes, which includes a mass formula for Type II quaternary codes as a special case.

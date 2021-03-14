@@ -1,0 +1,1 @@
+We show that for graph Laplacians \Delta_G on a connected locally finite simplicial undirected graph G with countable infinite vertex set V none of the operators \alpha\,\mathrm{Id}+\beta\Delta_G, \alpha,\beta\in\mathbb{K},\beta \ne 0, generate a strongly continuous semigroup on \mathbb{K}^V when the latter is equipped with the product topology.

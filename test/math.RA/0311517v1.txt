@@ -1,0 +1,1 @@
+All solutions of constant classical Yang-Baxter equation (CYBE) in Lie algebra L with dim L \le 3 are obtained and the sufficient and necessary conditions which (L, \hbox {[ ]}, \Delta_r, r) is a coboundary (or triangular) Lie bialgebra are given. The strongly symmetric elements in L\otimes L  are found and they all are solutions of CYBE in L with dim L \le 3.

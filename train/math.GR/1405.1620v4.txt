@@ -1,0 +1,1 @@
+We describe elementary examples of finitely presented sofic groups which are not residually amenable (and thus not initially subamenable or LEA, for short). We ask if an amalgam of two amenable groups over a finite subgroup is residually amenable and answer this positively for some special cases, including countable locally finite groups, residually nilpotent groups and others.

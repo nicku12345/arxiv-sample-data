@@ -1,0 +1,1 @@
+This paper constructs model structures on the categories of coalgebras and pointed irreducible coalgebras over an operad. The underlying chain-complex is assumed to be unbounded and the results for bounded coalgebras over an operad are derived from the unbounded case.

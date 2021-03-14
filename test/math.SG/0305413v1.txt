@@ -1,0 +1,1 @@
+We define a C*-algebraic quantization of constant Dirac structures on tori, which extends the standard quantization of Poisson structures. We prove that Dirac structures in the same orbit of a natural action of O(n,n|Z) give rise to Morita equivalent algebras, completing and extending a theorem of Rieffel and Schwarz.

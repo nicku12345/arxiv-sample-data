@@ -1,0 +1,1 @@
+Fix a very general hypersurface D in P^n of degree at least 2n + 1 and we show that the complement P^n - D does not contain any algebraic torus C^*.

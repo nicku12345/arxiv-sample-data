@@ -1,0 +1,1 @@
+The aim of this paper is to control the rate of convergence for central limit theorems of sojourn times of Gaussian fields in both cases: the fixed and the moving level. Our main tools are the Malliavin calculus and the Stein's method, developed by Nualart, Peccati and Nourdin. We also extend some results of Berman to the multidimensional case.

@@ -1,0 +1,1 @@
+In this paper we presents an algorithm for finding a solution of the linear nonhomogeneous quaternionic-valued differential equations. Moveover, several examples shows the feasibility of our algorithm.

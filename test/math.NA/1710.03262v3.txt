@@ -1,0 +1,1 @@
+For linear finite element discretizations of the Laplace equation in three dimensions, we give an example of a tetrahedral mesh in the cubic domain for which the logarithmic factor cannot be removed from the standard upper bounds on the error in the maximum norm.

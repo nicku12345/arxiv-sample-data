@@ -1,0 +1,1 @@
+Following the general idea of Schur--Weyl scheme and using two suitable symmetric groups (instead of one), we try to make more explicit the classical problem of decomposing tensor representations of finite and infinite symmetric groups into irreducible components.

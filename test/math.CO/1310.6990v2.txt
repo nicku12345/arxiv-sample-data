@@ -1,0 +1,1 @@
+We prove that for each finite field \mathbb F and integer k\in \mathbb Z there exists n\in \mathbb Z such that no excluded minor for the class of \mathbb F-representable matroids has n nested k-separations.

@@ -1,0 +1,1 @@
+This paper is concerned with the application of the theory of quasivelocities for optimal control for underactuated mechanical systems. Using this theory, we convert the original problem in a variational second-order lagrangian system subjected to constraints. The equations of motion are geometrically derived using an adaptation of the classical Skinner and Rusk formalism.

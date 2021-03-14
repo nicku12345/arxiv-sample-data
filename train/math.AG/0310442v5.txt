@@ -1,0 +1,1 @@
+This is an expository paper based on the results in [12] and [16]. The main goal is to prove the following two conjectures for genus up to two.   (1) Witten's conjecture on the relations between higher spin curves and Gelfand-Dickey Hierarchies.   (2) Virasoro conjecture for conformal semisimple Frobenius manifolds.

@@ -1,0 +1,1 @@
+We define a Courant bracket on an associative algebra using the theory of Hochschild homology, and we introduce the notion of Dirac algebra. We show that the bracket of an omni-Lie algebra is quite a kind of Courant bracket.

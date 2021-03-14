@@ -1,0 +1,1 @@
+We calculate the twisted Alexander polynomial with the adjoint action for torus knots and twist knots. As consequences of these calculations, we obtain the formula for the nonabelian Reidemeister torsion of torus knots in \cite{Du} and a formula for the nonabelian Reidemeister torsion of twist knots that is better than the one in \cite{DHY}.

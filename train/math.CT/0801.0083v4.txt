@@ -1,0 +1,1 @@
+We introduce the notion of central extension of gerbes on a topological space. We then show that there are obstruction classes to lifting objects and isomorphisms in a central extension. We also discuss pronilpotent gerbes. These results are used in a subsequent paper to study twisted deformation quantization on algebraic varieties.

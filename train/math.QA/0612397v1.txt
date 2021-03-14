@@ -1,0 +1,1 @@
+Let G be the complex general linear group and g its Lie algebra equipped with a factorizable Lie bialgebra structure; let U_h be the corresponding quantum group. We construct explicit U_h-equivariant quantization of Poisson orbit bundles O_\lambda \to O_\mu in gl(n)*.

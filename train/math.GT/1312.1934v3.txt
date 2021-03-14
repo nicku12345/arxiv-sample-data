@@ -1,0 +1,1 @@
+In a classic paper Zeeman introduced the k-twist spin of a knot K and showed that the exterior of a twist spin fibers over S^1. In particular this result shows that the knot K # -K is doubly slice. In this paper we give a quick proof of Zeeman's result. The k-twist spin of K also gives rise to two metabolizers for K # -K and we determine these two metabolizers precisely.

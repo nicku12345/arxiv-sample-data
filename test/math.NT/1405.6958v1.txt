@@ -1,0 +1,1 @@
+A novel generalization of the Prouhet-Thue-Morse sequence to binary \pm 1-weight sequences is presented. Derived from Rademacher functions, these weight sequences are shown to satisfy interesting orthogonality and recurrence relations. In addition, a result useful in describing these weight sequences as sidelobes of Doppler tolerant waveforms in radar is established.

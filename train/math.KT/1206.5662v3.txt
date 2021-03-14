@@ -1,0 +1,1 @@
+A model of K-homology with coefficients in a mapping cone using the framework of the geometric cycles of Baum and Douglas is developed. In particular, this leads to a geometric realization of K-homology with coefficients in R/Z. In turn, this group is related to the relative eta-invariant via index pairings.

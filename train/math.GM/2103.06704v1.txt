@@ -1,0 +1,1 @@
+Assuming there is a solution to the Navier-Stokes Equation in \mathbb{R}^n we deduce the analytic result for the average like velocity.

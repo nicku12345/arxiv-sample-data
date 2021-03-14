@@ -1,0 +1,1 @@
+Second-order necessary conditions for optimal control problems are considered, where the ``second-order" is in the sense of that Pontryagin's maximum principle is viewed as a first-order necessary optimality condition. A sufficient condition for a local minimizer is also given.

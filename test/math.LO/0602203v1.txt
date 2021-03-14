@@ -1,0 +1,1 @@
+A group is called square-like if it is universally equivalent to its direct square. It is known that the class of all square-like groups admits an explicit first order axiomatization but its theory is undecidable. We prove that the theory of square-like abelian groups is decidable. This answers a question posed by D. Spellman.

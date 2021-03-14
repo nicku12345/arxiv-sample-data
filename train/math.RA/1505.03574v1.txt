@@ -1,0 +1,1 @@
+We introduce the notion of a confluent Vandermonde matrix with quaternion entries and discuss its connection with Lagrange-Hermite interpolation over quaternions. Further results include the formula for the rank of a confluent Vandermonde matrix, the representation formula for divided differences of quaternion polynomials and their extensions to the formal power series setting.

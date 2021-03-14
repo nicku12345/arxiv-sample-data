@@ -1,0 +1,1 @@
+For a given \omega-operad A on globular sets we introduce a sequence of symmetric operads on Set called slices of A and show how the connected limit preserving properties of slices are related to the property of the category of n-computads of A being a presheaf topos.

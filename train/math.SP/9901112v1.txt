@@ -1,0 +1,1 @@
+We introduce the concept of a spectral shift operator and use it to derive Krein's spectral shift function for pairs of self-adjoint operators. Our principal tools are operator-valued Herglotz functions and their logarithms. Applications to Krein's trace formula and to the Birman-Solomyak spectral averaging formula are discussed.

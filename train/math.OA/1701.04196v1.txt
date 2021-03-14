@@ -1,0 +1,1 @@
+Let (A,\alpha) be a system consisting of a C^*-algebra A and an automorphism \alpha of A. We describe the primitive ideal space of the partial-isometric crossed product A\times_{\alpha}^{\textrm{piso}}\mathbb{N} of the system by using its realization as a full corner of a classical crossed product and applying some results of Williams and Echterhoff.

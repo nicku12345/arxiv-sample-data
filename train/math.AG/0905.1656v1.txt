@@ -1,0 +1,1 @@
+Consider a one-parameter family of algebraic varieties degenerating to a reducible one. Our main result is a formula for the fundamental cycle of the limit subscheme of any family of effective Cartier divisors. The formula expresses this cycle as a sum of Cartier divisors, not necessarily effective, of the components of the limit variety.

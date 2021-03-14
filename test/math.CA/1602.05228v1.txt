@@ -1,0 +1,1 @@
+Let M_\gamma be precise a priori majorant of first eigenvalues of Sturm--Liouville problems -y"+qy=\lambda y,\quad y(0)=y(1)=0, where q\leqslant 0 and \int_0^1 |q|^\gamma\,dx=1, \gamma\in (0,1/2). It is shown that the inequality M_\gamma<\pi^2 is true.

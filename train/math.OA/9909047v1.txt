@@ -1,0 +1,1 @@
+Let X be a compact Hausdorff space and let H be a separable Hilbert space. We prove that the group of all order automorphisms of the C^*-algebra C(X)\otimes B(H) is algebraically reflexive.

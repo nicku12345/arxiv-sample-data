@@ -1,0 +1,1 @@
+In this note we show that the positivity property of the equivariant signature of the loop space, first observed in [MS1] in the case of the even-dimensional projective spaces, is valid for   Picard number 2 toric varieties. A new formula for the equivariant signature of the loop space in the case of a toric spin variety is derived.

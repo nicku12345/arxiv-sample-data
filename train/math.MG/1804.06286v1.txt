@@ -1,0 +1,1 @@
+We show that for every quasi-isometric map from a Hadamard manifold of pinched negative curvature to a locally compact, Gromov hyperbolic, {\rm CAT}(0)-space there exists an energy minimizing harmonic map at finite distance. This harmonic map is moreover Lipschitz. This generalizes a recent result of Benoist-Hulin.

@@ -1,0 +1,1 @@
+In this note we revisit the problem of determining combinatorially the multiplicity at the origin of a toric curve. In addition, we give the exact value of the regularity index of that point for plane toric curves and effective bounds for this number for arbitrary toric curves.

@@ -1,0 +1,1 @@
+We show that K_1 of an exact category agrees with K_1 of the associated triangulated derivator. More generally we show that K_1 of a Waldhausen category with cylinders and a saturated class of weak equivalences coincides with K_1 of the associated right pointed derivator.

@@ -1,0 +1,1 @@
+It is proved that a discrete group G is exact if and only if its left translation action on the Stone-Cech compactification is amenable. Combining this with an unpublished result of Gromov, we have the existence of non exact discrete groups.

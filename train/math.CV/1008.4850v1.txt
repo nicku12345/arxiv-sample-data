@@ -1,0 +1,1 @@
+We define a birational version of the stability of cotangent sheaves for complex projective manifolds, and more generally for smooth orbifolds. We then show, using standard conjectures in birational classification, that these cotangent sheaves are birationally stable, unless the orbifold is uniruled.

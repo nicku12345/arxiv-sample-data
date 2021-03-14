@@ -1,0 +1,1 @@
+For every non-exceptional affine Lie algebra, we explicitly construct a positive geometric crystal associated with a fundamental representation. We also show that its ultra-discretization is isomorphic to the limit of certain perfect crystals of the Langlands dual affine Lie algebra.

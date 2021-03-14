@@ -1,0 +1,1 @@
+Given a continuous monadic functor T in the category of Tychonov spaces for each discrete topological semigroup X we extend the semigroup operation of X to a right-topological semigroup operation on TX whose topological center contains the dense subsemigroup of all elements of TX that have finite support.

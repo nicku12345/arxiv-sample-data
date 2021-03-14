@@ -1,0 +1,1 @@
+A numerical index is introduced for semigroups of completely positive maps of \Cal B(H) which generalizes the index of E_0-semigroups. It is shown that the index of a unital completely positive semigroup agrees with the index of its dilation to an E_0-semigroup, provided that the dilation is minimal.

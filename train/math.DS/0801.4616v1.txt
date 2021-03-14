@@ -1,0 +1,1 @@
+The class of linearly recurrent Cantor systems contains the substitution subshifts and some odometers. For substitution subshifts and odometers measure--theoretical and continuous eigenvalues are the same. It is natural to ask whether this rigidity property remains true for the class of linearly recurrent Cantor systems. We give partial answers to this question.

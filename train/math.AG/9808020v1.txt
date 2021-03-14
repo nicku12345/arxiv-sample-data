@@ -1,0 +1,1 @@
+We give an elementary argument for the well known fact that the endomorphism algebra End_Q(A) of a simple complex abelian surface A can neither be an imaginary quadratic field nor a definite quaternion algebra. Another consequence of our argument is that a two-dimensional complex torus T with Q(\sqrt{d})\subseteq End_Q(A) where Q(\sqrt{d}) is real quadratic, is algebraic.

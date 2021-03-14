@@ -1,0 +1,1 @@
+In the Grothendieck cohomology of a flag variety G/H there are two canonical additive bases, namely, the Demazure basis and the Grothendieck basis We present explicit formulae that reduce the multiplication of these basis elements to the Cartan numbers of G.

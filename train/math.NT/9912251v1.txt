@@ -1,0 +1,1 @@
+In this paper we prove a limit formula for heights on the endomorphism ring of a vector space over a number field. This limit formula can be considered as the analogue for both the Gelfand-Beurling formula for the spectral radius on a Banach Algebra and Tate's averaging procedure for constructing canonical heights on Abelian Varieties.

@@ -1,0 +1,1 @@
+We study the (relative) SL(2,C) character varieties of the four-holed sphere and the action of the mapping class group on it. We describe a domain of discontinuity for this action, and, in the case of real characters, show that this domain of discontinuity may be non-empty on the components where the relative euler class is non-maximal.

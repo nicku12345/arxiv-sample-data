@@ -1,0 +1,1 @@
+We exhibit, for n at least 5, infinitely many quadratic number fields admitting unramified degree n extensions with prescribed signature whose normal closures have Galois group A_n. This generalizes a result of Uchida and Yamamoto, which did not include the ability to restrict the signature, and a result of Yamamura, which was the case n=5.

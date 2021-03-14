@@ -1,0 +1,1 @@
+We prove that there exists a countable metrizable topological group G such that every countable metrizable group is isomorphic to a quotient of G. The completion H of G is a Polish group such that every Polish group is isomorphic to a quotient of H.

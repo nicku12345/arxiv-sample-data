@@ -1,0 +1,1 @@
+In this note we use Yaman's dynamical characterization of relative hyperbolicity to prove a theorem of Bowditch about relatively hyperbolic pairs (G,\mathcal{H}) with G hyperbolic. Our proof additionally gives a description of the Bowditch boundary of such a pair. This description of the boundary was previously obtained by Tran.

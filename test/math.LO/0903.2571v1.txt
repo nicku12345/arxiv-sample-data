@@ -1,0 +1,1 @@
+We study when a map between two subsets of a Boolean domain W can be extended to an automorphism of W. Under many hypotheses, if the underlying Boolean algebra is complete or if the sets are finite or Boolean domains, the necessary and suficient condition is that it preserves the Boolean distance between every couple of points.

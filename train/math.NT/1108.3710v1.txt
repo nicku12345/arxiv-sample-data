@@ -1,0 +1,1 @@
+In this note we improve an algorithm from a recent paper by Bauer and Bennett for computing a function of Erd\"os that measures the minimal gap size f(k) in the sequence of integers at least one of whose prime factors exceeds k. This allows us to compute values of f(k) for larger k and obtain new values of f(k).

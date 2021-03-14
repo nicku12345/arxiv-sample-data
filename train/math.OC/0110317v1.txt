@@ -1,0 +1,1 @@
+A general ISS-type small-gain result is presented. It specializes to a small-gain theorem for ISS operators, and it also recovers the classical statement for ISS systems in state-space form. In addition, we highlight applications to incrementally stable systems, detectable systems, and to interconnections of stable systems.

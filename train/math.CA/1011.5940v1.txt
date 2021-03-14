@@ -1,0 +1,1 @@
+We consider a sequence of polynomials appearing in expressions for the derivatives of the Lambert W function. The coefficients of each polynomial are shown to form a positive sequence that is log-concave and unimodal. This property implies that the positive real branch of the Lambert W function is a Bernstein function.

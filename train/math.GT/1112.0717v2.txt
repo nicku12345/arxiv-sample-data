@@ -1,0 +1,1 @@
+A formula is given which computes the Seiberg-Witten invariant of a 3-orbifold from the invariant of the underlying manifold. As an application, we derive a formula for the Seiberg-Witten invariant of a non-K\"{a}hler complex surface, which was originally due to O. Biquard \cite{Biq} and S.R. Williams \cite{W} independently.

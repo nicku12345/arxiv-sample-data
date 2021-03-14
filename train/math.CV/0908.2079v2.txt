@@ -1,0 +1,1 @@
+If X is a closed subset of the real line, denote by \GG_X the supremum of the size of the gap in the Fourier spectrum, taken over all non-trivial finite complex measures supported on X. In this paper we attempt to find \GG_X in terms of metric properties of X.

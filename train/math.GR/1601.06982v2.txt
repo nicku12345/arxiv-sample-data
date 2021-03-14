@@ -1,0 +1,1 @@
+In the space of marked group, we suppose that a sequence (G_i, X_i) converges to (G,X), where G is finitely presented. We obtain an inequality which connects Dehn functions of G_is and G. As a result, we show that if a sequence (K, X_i) converges to a hyperbolic marked group, then K is already hyperbolic.

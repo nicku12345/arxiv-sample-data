@@ -1,0 +1,1 @@
+In this paper we show that the leading coefficient \mu(y,w) of certain Kazhdan-Lusztig polynomials P_{y,w} of the permutation group \mathfrak S_n of 1,2,...,n are not greater than 1. More precisely, we show that the leading coefficients \mu(y,w) are not greater than 1 whenever a(y)< a(w), where a: \mathfrak S_n\to\mathbf N is the function defined by Lusztig.

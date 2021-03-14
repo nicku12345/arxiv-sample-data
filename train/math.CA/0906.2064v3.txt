@@ -1,0 +1,1 @@
+We use the method of induction-on-scales to prove certain diffeomorphism invariant nonlinear Brascamp--Lieb inequalities. We provide applications to multilinear convolution inequalities and the restriction theory for the Fourier transform, extending to higher dimensions recent work of Bejenaru--Herr--Tataru and Bennett--Carbery--Wright.

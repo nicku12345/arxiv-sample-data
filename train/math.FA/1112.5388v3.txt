@@ -1,0 +1,1 @@
+We consider function spaces of Besov, Triebel-Lizorkin, Bessel-potential and Sobolev type on \R^d, equipped with power weights w(x) = |x|^\gamma, \gamma>-d. We prove two-weight Sobolev embeddings for these spaces. Moreover, we precisely characterize for which parameters the embeddings hold. The proofs are presented in such a way that they also hold for vector-valued functions.

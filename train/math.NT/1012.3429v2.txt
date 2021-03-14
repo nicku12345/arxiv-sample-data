@@ -1,0 +1,1 @@
+For a polynomial P, we consider the sequence of iterated integrals of ln P(x). This sequence is expressed in terms of the zeros of P(x). In the special case of ln(1 + x^2), arithmetic properties of certain coefficients arising are described. Similar observations are made for ln(1 + x^3).

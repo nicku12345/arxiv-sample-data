@@ -1,0 +1,1 @@
+We compute the Betti numbers of the resolution of a special class of square-free monomial ideals, the ideals of mixed products. Moreover when these ideals are Cohen-Macaulay we calculate their type.

@@ -1,0 +1,1 @@
+If A/K is an abelian variety over a number field and P and Q are rational points, the original support conjecture asserted that if the order of Q (mod p) divides the order of P (mod p) for almost all primes p of K, then Q is obtained from P by applying an endomorphism of A. This is now known to be untrue. In this note we prove that it is not even true modulo the torsion of A.

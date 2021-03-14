@@ -1,0 +1,1 @@
+A semiregular operator on a Hilbert C^*-module, or equivalently, on the C^*-algebra of `compact' operators on it, is a closable densely defined operator whose adjoint is also densely defined. It is shown that for operators on extensions of compacts by unital or abelian C^*-algebras, semiregularity leads to regularity. Two examples coming from quantum groups are discussed.

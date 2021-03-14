@@ -1,0 +1,1 @@
+In this paper we study maximal chains in certain lattices constructed from powers of chains by iterated lax colimits in the 2-category of posets. Such a study is motivated by the fact that in lower dimensions, we get some familiar combinatorial objects such as Dyck paths and Kreweras walks.

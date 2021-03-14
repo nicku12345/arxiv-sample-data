@@ -1,0 +1,1 @@
+We discuss the (non)effectivity of Arslanov's completeness criterion. In particular, we show that a parameterized version, similar to the recursion theorem with parameters, fails. We also discuss the parameterized version of another extension of the recursion theorem, namely Visser's ADN theorem.

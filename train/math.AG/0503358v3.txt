@@ -1,0 +1,1 @@
+We study Hom 2-functors parameterizing 1-morphisms of algebraic stacks, and prove that it is representable by an algebraic stack under certain conditions, using Artin's criterion. As an application we study Picard 2-functors which parameterizes line bundles on algebraic stacks.

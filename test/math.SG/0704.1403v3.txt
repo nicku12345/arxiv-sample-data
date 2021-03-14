@@ -1,0 +1,1 @@
+This note elaborates on Th. Voronov's construction [math/0304038,math/0412202] of L_\infty-structures via higher derived brackets with a Maurer-Cartan element. It is shown that gauge equivalent Maurer-Cartan elements induce L_\infty-isomorphic structures. Applications in symplectic, Poisson and Dirac geometry are discussed.

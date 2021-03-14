@@ -1,0 +1,1 @@
+We prove that, for any topological space X and any metric space (Y,d), the fine topology on the space of continuous functions from X into Y is independent of the metric d.

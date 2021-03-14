@@ -1,0 +1,1 @@
+For any Drinfeld-Jimbo quantum enveloping algebra Uq(g) and for any family \lambda =(\lambda \_{ij})\_{1\leq i < j\leq t} \in k^{\star} of invertible elements of the base field, we explicitly construct a Galois object A\_{\lambda} of Uq(g) by generators and relations and we prove that any Galois object of Uq(g) is homotopic to a unique object of type A\_{\lambda}.

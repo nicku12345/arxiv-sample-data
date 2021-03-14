@@ -1,0 +1,1 @@
+We give an example of an operator that satisfies the curvature condition as defined in [2], but is not similar to the backward shift S* on the Hardy class H^2. We conclude therefore that the contraction assumption in the similarity characterization given in [2] is a necessary requirement.

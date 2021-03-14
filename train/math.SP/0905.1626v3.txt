@@ -1,0 +1,1 @@
+We prove an analog of Perron-Frobenius theorem for multilinear forms with nonnegative coefficients, and more generally, for polynomial maps with nonnegative coefficients. We determine the geometric convergence rate of the power algorithm to the unique normalized eigenvector.

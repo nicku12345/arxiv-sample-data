@@ -1,0 +1,1 @@
+In this paper we generalize the martingale of Kella and Whitt to the setting of L\'{e}vy-type processes and show that the (local) martingales obtained are in fact square integrable martingales which upon dividing by the time index converge to zero a.s. and in L^2. The reflected L\'{e}vy-type process is considered as an example.

@@ -1,0 +1,1 @@
+Let I(G) be the edge ideal associated to a simple graph G. We study the graded Betti numbers that appear in the linear strand of the minimal free resolution of I(G).

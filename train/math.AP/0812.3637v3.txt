@@ -1,0 +1,1 @@
+This paper is concerned with decay estimate of solutions to the semilinear wave equation with strong damping in a bounded domain. Introducing an appropriate Lyaponuv function, we prove that when the damping is linear, we can find initial data, for which the solution decays exponentially. This result improves an early one in an article of Gazzola and Squassina.

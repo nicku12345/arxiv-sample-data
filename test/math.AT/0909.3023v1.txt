@@ -1,0 +1,1 @@
+We study topology of configuration spaces of planar linkages having one leg of variable length. Such telescopic legs are common in modern robotics where they are used for shock absorbtion and serve a variety of other purposes. Using a Morse theoretic technique, we compute explicitly, in terms of the metric data, the Betti numbers of configuration spaces of these mechanisms.

@@ -1,0 +1,1 @@
+For a C^{*}-bialgebra A with a comultiplication \Delta, a universal R-matrix of (A,\Delta) is defined as a unitary element in the multiplier algebra M(A\otimes A) of A\otimes A which is an intertwiner between \Delta and its opposite comultiplication \Delta^{op}. We show that there exists no universal R-matrix for some C^{*}-bialgebras.

@@ -1,0 +1,1 @@
+In this paper, We introduce an invariant of rational n-tangles which is obtained from the Kauffman bracket. It forms a vector with Laurent polynomial entries. We prove that the invariant classifies the rational 2-tangles and the reduced alternating rational 3-tangles. We conjecture that it classifies the rational 3-tangles as well.

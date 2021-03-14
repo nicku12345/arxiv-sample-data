@@ -1,0 +1,1 @@
+In a recent paper of Wolff the optimal decay of circular L^p means of compactly supported measures of finite energy was given for p>=2, with application to Falconer's distance problem. The question was then raised in that paper as to whether any non-trivial improvement to these estimates were available for p < 2. We answer this question in the negative.

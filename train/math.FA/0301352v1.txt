@@ -1,0 +1,1 @@
+We give some necessary conditions and sufficient conditions for the compactness of the embedding of Sobolev spaces W^{1,p}(\Omega,w) \to L^p(\Omega,w), where w is some weight on a domain \Omega \subset \Real^n.

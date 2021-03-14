@@ -1,0 +1,1 @@
+We show that the top eigenvalue of an n\times n random symmetric Toeplitz matrix, scaled by \sqrt{2n\log n}, converges to the square of the 2\to4 operator norm of the sine kernel.

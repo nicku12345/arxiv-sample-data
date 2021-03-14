@@ -1,0 +1,1 @@
+We show that any non-minimal bridge decomposition of a torus knot is stabilized and that n-bridge decompositions of a torus knot are unique for any integer n. This implies that a knot in a bridge position is a torus knot if and only if there exists a torus containing the knot such that it intersects the bridge sphere in two essential loops.

@@ -1,0 +1,1 @@
+We describe the exponent of a group-theoretical fusion category \mathcal C = \mathcal C(G, \omega, F, \alpha) associated to a finite group G in terms of group cohomology. We show that the exponent of \C divides both e(\omega) \exp G and (\exp G)^2, where e(\omega) is the cohomological order of the 3-cocycle \omega. In particular \exp \C divides (\dim \C)^2.

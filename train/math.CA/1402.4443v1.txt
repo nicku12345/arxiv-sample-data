@@ -1,0 +1,1 @@
+We prove that if pure derivatives with respect to all coordinates of a function on \mathbb{R}^n are signed measures, then their lower Hausdorff dimension is at least n-1. The derivatives with respect to different coordinates may be of different order.

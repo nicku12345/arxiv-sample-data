@@ -1,0 +1,1 @@
+We give a set of foundations for cellular E_k-algebras which are especially convenient for applications to homological stability. We provide conceptual and computational tools in this setting, such as filtrations, a homology theory for E_k-algebras with a Hurewicz theorem, CW approximations, and many spectral sequences, which shall be used for such applications in future papers.

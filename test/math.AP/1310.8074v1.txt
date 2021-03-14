@@ -1,0 +1,1 @@
+Let H:=-\Delta+V be a nonnegative Schr\"odinger operator on L^2({\bf R}^N), where N\ge 2 and V is a radially symmetric function decaying quadratically at the space infinity. In this paper we consider the Schr\"odinger heat semigroup e^{-tH}, and make a complete table of the decay rates of the operator norms of e^{-tH} in the Lorentz spaces as t\to\infty.

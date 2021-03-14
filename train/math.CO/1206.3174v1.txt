@@ -1,0 +1,1 @@
+We find the joint distribution of three simple statistics on lattice paths of n upsteps and n downsteps leading to a triple sum identity for the central binomial coefficient {2n}-choose-{n}. We explain why one of the constituent double sums counts the irreducible pairs of compositions considered by Bender et al., and we evaluate some of the other sums.

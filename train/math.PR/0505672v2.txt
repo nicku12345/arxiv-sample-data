@@ -1,0 +1,1 @@
+We prove the almost sure ('quenched') invariance principle for a random walker on an infinite Bernoulli percolation cluster in \Z^d where d is larger or equal than 2.

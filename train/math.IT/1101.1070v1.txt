@@ -1,0 +1,1 @@
+This note provides a succinct proof of a 1973 theorem of Lieb that establishes the concavity of a certain trace function. The development relies on a deep result from quantum information theory, the joint convexity of quantum relative entropy, as well as a recent argument due to Carlen and Lieb.

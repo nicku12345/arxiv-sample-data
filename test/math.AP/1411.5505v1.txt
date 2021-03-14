@@ -1,0 +1,1 @@
+In this paper we consider self-similar blow-up solutions for the generalized deterministic KPZ~equation u_t = u_{xx} + \lambda \vert u_x \vert ^q, \lambda > 0, q > 2. The asymptotic behavior of self-similar solutions are studied.

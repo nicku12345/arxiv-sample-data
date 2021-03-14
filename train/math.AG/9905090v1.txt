@@ -1,0 +1,1 @@
+The Pluecker relations are equations which describe decomposable multivectors in \bigwedge V. We review all known versions, give some new ones, and decompose them into irreducible parts for the GL(V)-representations.

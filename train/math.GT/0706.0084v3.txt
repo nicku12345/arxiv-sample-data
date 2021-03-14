@@ -1,0 +1,1 @@
+We extend the state models for Jones and Alexander polynomials of classical links to state models of 2-variable polynomials in the case of singular links. Moreover, we extend both of them to polynomials with d+1 variables for long singular knots with exactly d double points. These extensions can detect non-invertibility of long singular knots.

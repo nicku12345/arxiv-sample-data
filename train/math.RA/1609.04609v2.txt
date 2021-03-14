@@ -1,0 +1,1 @@
+Let Q be a (non-unital) simple ring. A nonempty subset S of Q is said to have zero product if S^2=0. We classify all maximal zero product subsets of Q. We also describe the relationship between the maximal zero product subsets of Q and the maximal inner ideals of its associated Lie algebra.

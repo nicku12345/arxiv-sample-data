@@ -1,0 +1,1 @@
+We characterize the associative, idempotent, symmetric, and order-preserving operations on (finite) chains in terms of properties of (the Hasse diagram of) their associated semilattice order. In particular, we prove that the number of associative, idempotent, symmetric, and order-preserving operations on an n-element chain is the n^{\text{th}} Catalan number.

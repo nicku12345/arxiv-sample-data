@@ -1,0 +1,1 @@
+We show that for any nontrivial knot K and any natural number n there is a diagram D of K such that the unknotting number of D is greater than or equal to n. It is well known that twice the unknotting number of K is less than or equal to the crossing number of K minus one. We show that the equality holds only when K is a (2,p)-torus knot.

@@ -1,0 +1,1 @@
+We provide inverse semigroup and groupoid models for the Toeplitz and Cuntz-Krieger algebras of finitely aligned higher-rank graphs. Using these models, we prove a uniqueness theorem for the Cuntz-Krieger algebra.

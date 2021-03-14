@@ -1,0 +1,1 @@
+We construct the canonical structure of an irreducible projective variety on the set of connected curves of degree d in \Bbb P^n with rational components (some components can be multiple). The set of rational curves is open subset in the Zariski topology under this structure.

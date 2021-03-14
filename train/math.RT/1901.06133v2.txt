@@ -1,0 +1,1 @@
+The Brauer-Chen algebra is a generalization of the algebra of Brauer diagrams to arbitrary complex reflection groups, that admits a natural monodromic deformation. We determine the generic representation theory of the first non trivial quotient of this algebra. We also define natural extensions of this algebra and prove that they similarly admit natural monodromic deformations.

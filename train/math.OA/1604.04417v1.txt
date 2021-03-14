@@ -1,0 +1,1 @@
+We prove that every weak-local triple derivation on a JB^*-triple E (i.e. a linear map T: E\to E such that for each \phi \in E^* and each a\in E, there exists a triple derivation \delta_{a,\phi} : E\to E, depending on \phi and a, such that \phi T(a) = \phi \delta_{a,\phi} (a)) is a (continuous) triple derivation.

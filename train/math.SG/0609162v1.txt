@@ -1,0 +1,1 @@
+This paper explores homological mirror symmetry for weighted blowups of toric varieties. It will be shown that both the A-model and B-model categories have natural semiorthogonal decompositions. An explicit equivalence of the right orthogonal categories will be shown for the case of toric surfaces.

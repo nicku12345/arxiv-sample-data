@@ -1,0 +1,1 @@
+Using Struwe's "monotonicity trick" and the recent blow-up analysis of Ohtsuka and Suzuki, we prove the existence of mountain pass solutions to a mean field equation arising in two-dimensional turbulence.

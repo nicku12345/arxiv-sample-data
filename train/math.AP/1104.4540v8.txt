@@ -1,0 +1,1 @@
+When the spatial dimensions n=2, the initial data u_0\in H^1 and the Hamiltonian H(u_0)\leq 1, we prove that the scattering operator is well-defined in the whole energy space H^1(\mathbb{R}^2) for nonlinear Schr\"{o}dinger equation with exponential nonlinearity (e^{\lambda|u|^2}-1)u, where 0<\lambda<4\pi.

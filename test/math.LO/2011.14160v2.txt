@@ -1,0 +1,1 @@
+We study reductions well suited to compare structures and classes of structures with respect to properties based on enumeration reducibility. We introduce the notion of a positive enumerable functor and study the relationship with established reductions based on functors and alternative definitions.

@@ -1,0 +1,1 @@
+Let \bar{X} be a smooth quasi-projective d-dimensional variety over a field k and let D be an effective Cartier divisor on it. In this note, we construct cycle class maps from (a variant of) the higher Chow group with modulus of the pair (\bar{X},D) in the range (d+n, n) to the relative K-groups K_n(\bar{X}, D) for every n\geq 0.

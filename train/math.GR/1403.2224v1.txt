@@ -1,0 +1,1 @@
+For the black box groups X encrypting {\rm{PGL}}_2(q), q odd, we propose an algorithm constructing a subgroup encrypting {\rm{Sym}}_4 and subfield subgroups of X. We also present the analogous algorithms for black box groups encrypting {\rm{(P)SL}}_2(q).

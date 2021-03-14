@@ -1,0 +1,1 @@
+The Feigenbaum-Cvitanovic equation -lambda * g(x)= g(g(lambda * x)) is solved over the interval 0 <= x <= 1 with a Chebyshev series representation of g(x). Accurate expansion coefficients are tabulated for solutions g(x) = 1+O(x^z) with even exponents from z=2 up to z=14.

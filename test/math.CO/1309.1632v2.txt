@@ -1,0 +1,1 @@
+Let G be a connected non-bipartite graph on n vertices with domination number \gamma \le \frac{n+1}{3}. We investigate the least eigenvalue of the signless Laplacian of G, and present a lower bound for such eigenvalue in terms of the domination number \gamma.

@@ -1,0 +1,1 @@
+This paper deals with syzygies of the ideals of the Veronese embeddings.   We prove that O(3) on P^n satisfies Property N_4 for every n.   Besides we prove that O(d) on P^n satisfies N_p for all n >= p iff O(d) on P^p satisfies N_p.

@@ -1,0 +1,1 @@
+We show that the Street nerve of a strict \omega-category C is a Kan complex (respectively a quasi-category) if and only if the n-cells of C for n\geq 1 (respectively n> 1) are weakly invertible. Moreover, we define a complicial set structure on the nerve of C. The complicial set \mathcal{N}(C) is then n-trivial if and only if the k-cells of C for k\geq n are weakly invertible.

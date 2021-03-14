@@ -1,0 +1,1 @@
+We give a counterexample to a conjecture by Miasnikov, Ventura and Weil, stating that an extension of free groups is algebraic if and only if the corresponding morphism of their core graphs is onto, for every basis of the ambient group. In the course of the proof we present a partition of the set of homomorphisms between free groups which is of independent interest.

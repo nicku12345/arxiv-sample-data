@@ -1,0 +1,1 @@
+In this paper, we give a sufficient condition which makes the total complex of a cube exact. This can be regarded as a variant of the Buchsbaum-Eisenbud theorem which gives a characterization of what makes a complex of finitely generated free modules exact in terms of the grade of the Fitting ideals of boundary maps of the complex.

@@ -1,0 +1,1 @@
+Let X be a complex Banach space and let T be a bounded linear operator on X. For any closed T-invariant subspace F of X, T induces operators T_{|F}:F \longrightarrow F and T/F:X/F\longrightarrow X/F. In this note, we give a simple proof of the fact that the essential spectra of T_{|F} and T/F are always contained in the polynomial hull of the essential spectrum of T.

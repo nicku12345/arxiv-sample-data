@@ -1,0 +1,1 @@
+In this paper, motivated by Chen--Ruan's stringy orbifold theory on almost complex orbifolds, we construct a new cohomology ring \mathscr H^\ast_{G,cs}(X) for an equivariant almost complex pair (X,G), where X is a compact connected almost complex manifold, G is a connected compact Lie group which acts on X and preserves the almost complex structure.

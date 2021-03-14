@@ -1,0 +1,1 @@
+We introduce higher simplicial complexity of a simplicial complex K and higher combinatorial complexity of a finite space P (i.e. P is a finite poset). We relate higher simplicial complexity with higher topological complexity of |K| and higher combinatorial complexity with higher simplicial complexity of the order complex of P.

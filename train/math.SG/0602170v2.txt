@@ -1,0 +1,1 @@
+The aim of this paper is to give an alternative proof of a theorem about the existence of contact structures on five-manifolds due to Geiges. This theorem asserts that simply-connected five-manifolds admit a contact structure in every homotopy class of almost contact structures. Our proof uses the open book construction of Giroux.

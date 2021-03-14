@@ -1,0 +1,1 @@
+This paper consists of two parts. In the first part we show that any Poisson algebraic group over a field of characteristic zero and any Poisson Lie group admits a local quantization. This answers positively a question of Drinfeld. In the second part we apply our techniques of quantization to obtain some nontrivial examples of quantization of Poisson homogeneous spaces.

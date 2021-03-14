@@ -1,0 +1,1 @@
+We study the growth rate of a sequence which measures the uniform norm of the differential under the iterates of maps. On symplectically hyperbolic manifolds, we show that this sequence has at least linear growth for every non-identical symplectomorphisms which are symplectically isotopic to the identity.

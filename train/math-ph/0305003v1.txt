@@ -1,0 +1,1 @@
+Jackson's q-exponential is expressed as the exponential of a series whose coefficients are obtained in closed form. Such a relation is used to derive some properties of the q-exponential.

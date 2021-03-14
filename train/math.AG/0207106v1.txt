@@ -1,0 +1,1 @@
+We give explicit formulas for the multipoint series of Gromov-Witten invariants of CP^1. We use the recursions of the Toda hierarchy to calculate these in degree 0, and the Toda equation and the degree 0 formulas to extend the calculation to higher degrees.   We also obtain formulas for the Hodge series for the Hodge classes lambda_g and lambda_{g-1}.

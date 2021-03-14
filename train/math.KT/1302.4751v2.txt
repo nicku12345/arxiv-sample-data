@@ -1,0 +1,1 @@
+We construct Kasparov's bifunctor KK and E-theory by stable homotopy theoretic methods. This is motivated by results concerning constructions of bivariant theories on more general categories such as, for example, bornological algebras. The details of the construction have interesting applications to groups of extensions.

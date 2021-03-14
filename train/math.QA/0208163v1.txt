@@ -1,0 +1,1 @@
+We develop a method of reducing the size of quantum minors in the algebra of n x n quantum matrices. The method is used to show that quantum determinantal factor rings of n x n quantum matrices over the complex numbers are maximal orders, when the parameter q is transcendental over the rational numbers.

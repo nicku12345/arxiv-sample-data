@@ -1,0 +1,1 @@
+We construct a rank one infinite measure preserving transformation T such that for all sequences of nonzero integers \{k_{1},..., k_{r}\}, T^{k_{1}}\times...\times T^{k_{r}} is ergodic.

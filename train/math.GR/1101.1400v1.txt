@@ -1,0 +1,1 @@
+We describe a new algorithm which for each braid returns a quasi-geodesic sigma-definite word representative, defined as a braid word in which the generator sigma_i with maximal index i appears either only positively or only negatively.

@@ -1,0 +1,1 @@
+Let S be a smooth complex connected analytic surface which admits a holomorphic symplectic structure. Let S^{(n)} be its nth symmetric product. We prove that every projective symplectic resolution of S^{(n)} is isomorphic to the Douady-Barlet resolution S^{[n]} \to S^{(n)}.

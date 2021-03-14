@@ -1,0 +1,1 @@
+Let D be a bounded convex domain in C^N, N\geq 2. We prove that a continous map F from bD to C^N extends holomorphically through D if and only if for every polynomial map P from C^N to C^N such that F+P has no zero on bD, the degree of F+P|bD is nonnegative. We also prove another such theorem for more general domains.

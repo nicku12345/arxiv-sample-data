@@ -1,0 +1,1 @@
+In this paper, we prove that if a finite number of rectangles, every of which has at least one integer side, perfectly tile a big rectangle then there exists a strategy which reduces the number of these tiles (rectangles) without violating the condition on the borders of the tiles. Consequently this strategy leads to yet another solution to the famous rectangle tiling theorem.

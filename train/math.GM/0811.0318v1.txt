@@ -1,0 +1,1 @@
+This is a short textbook on Category Theory for Russian speaking students. It consists of three chapters: Categories and Functors, Representable Functors (including Adjoint Functors and (Co)limits) and Tensor Categories.

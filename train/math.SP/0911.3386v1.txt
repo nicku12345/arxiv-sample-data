@@ -1,0 +1,1 @@
+This note points out some bounds for the number of negative eigenvalues of Schroedinger operators with Hardy-type potentials, which follow from a simple coordinate transformation, and could prove useful in a spectral analysis of certain supersymmetric quantum mechanical models.

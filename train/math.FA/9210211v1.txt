@@ -1,0 +1,1 @@
+Let X be a reflexive Banach space such that for any x \ne 0 the set  \{x^* \in X^*: \text {\|x^*\|=1 and x^*(x)=\|x\|}\}  is compact. We prove that any unrestricted product of of a finite number of (W) contractions on X converges weakly.

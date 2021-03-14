@@ -1,0 +1,1 @@
+We present a numerical method to compute accessory parameters of the uniformizing differential equations of elliptic curves associated to arithmetic Fuchsian (1;e) groups. Up to PSL_2(\bbr) conjugation there are only finitely many such groups and we give a complete list of the accessory parameters

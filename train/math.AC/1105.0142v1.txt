@@ -1,0 +1,1 @@
+Given an integral domain D with quotient field K, the ring of integer-valued polynomials on D is the subring \{f (X) \in K[X]: f(D) \subset D\} of the polynomial ring K[X]. Using the related tools of t-closure and associated primes, we generalize some known results on integer-valued polynomial rings over Krull domains, PVMD's, and Mori domains.

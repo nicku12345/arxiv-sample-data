@@ -1,0 +1,1 @@
+Fix a prime number p and a non-negative integer n. We prove that if a p-complete spectrum X satisfying a mild finiteness condition has the same mod p cohomology as BP<n> as a module over the Steenrod algebra, then X is weak homotopy equivalent to the p-completion of BP<n>.

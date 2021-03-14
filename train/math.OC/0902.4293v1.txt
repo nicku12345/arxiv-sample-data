@@ -1,0 +1,1 @@
+This work studies the stabilization for a periodic parabolic system under perturbations in the system conductivity. A perturbed system does not have any periodic solution in general. However, we will prove that the perturbed system can always be pulled back to a periodic system after imposing a control from a fixed finite dimensional subspace.

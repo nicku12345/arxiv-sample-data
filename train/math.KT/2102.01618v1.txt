@@ -1,0 +1,1 @@
+For an infinity of number rings we express stable motivic invariants in terms of topological data determined by the complex numbers, the real numbers, and finite fields. We use this to extend Morel's identification of the endomorphism ring of the motivic sphere with the Grothendieck-Witt ring of quadratic forms to deeper base schemes.

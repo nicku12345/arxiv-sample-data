@@ -1,0 +1,1 @@
+We investigate the set of parameters \kappa\in\C for which the singular orbit (0,e^{\kappa},...) of E_{\kappa}(z):=\exp(z+\kappa) converges to \infty. These parameters are organized in smooth curves in parameter space called \emph{parameter rays}.

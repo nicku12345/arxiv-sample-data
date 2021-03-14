@@ -1,0 +1,1 @@
+By using Euler's approach of using Euclid's algorithm to expand a power series into a continued fraction, we show how to derive Ramanujan's q-continued fractions in a systematic manner.

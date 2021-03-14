@@ -1,0 +1,1 @@
+We prove that the (p,q)-cable of a knot K in S^3 admits a positive L-space surgery if and only if K admits a positive L-space surgery and q/p \geq 2g(K)-1, where g(K) is the Seifert genus of K. The "if" direction is due to Hedden.

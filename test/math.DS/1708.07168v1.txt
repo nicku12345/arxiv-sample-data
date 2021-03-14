@@ -1,0 +1,1 @@
+We consider a class of discontinuous piecewise linear differential systems in \mathbb{R}^3 with two pieces separated by a plane. In this class we show that there exist differential systems having: a unique limit cycle, a unique one-parameter family of periodic orbits, scrolls, invariant cylinders foliated by orbits which can be periodic or no.

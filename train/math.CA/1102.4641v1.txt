@@ -1,0 +1,1 @@
+In this note we introduce and define half Cauchy sequences. We prove that a sequence of real numbers is convergent if and only if it is bounded and half Cauchy. We also provide an example of how the concept may be used.

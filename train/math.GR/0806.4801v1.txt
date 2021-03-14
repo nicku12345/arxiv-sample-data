@@ -1,0 +1,1 @@
+We construct a family of automata with n states, n>3, acting on a rooted binary tree that generate the free products of cyclic groups of order 2.

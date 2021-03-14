@@ -1,0 +1,1 @@
+In this paper, we prove the boundedness of Riesz transforms \partial_{j}(-\Delta)^{-1/2} (j=1,2,...,n) on the Q-type spaces Q_{\alpha}^{\beta}(\mathbb{R}^{n}). As an application, we get the well-posedness and regularity of the quasi-geostrophic equation with initial data in Q_{\alpha}^{\beta,-1}(\mathbb{R}^{2}).

@@ -1,0 +1,1 @@
+We define the notion \phi(x,y) has NIP in A, where A is a subset of a model, and give some equivalences by translating results from [1]. Using additional material from [11] we discuss the number of coheirs when A is not necessarily countable. We also revisit the notion "\phi(x,y) has NOP in a model M" from [8].

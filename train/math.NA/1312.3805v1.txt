@@ -1,0 +1,1 @@
+We prove that standard Gaussian random multipliers are expected to stabilize numerically both Gaussian elimination with no pivoting and block Gaussian elimination. Our tests show similar results where we applied circulant random multipliers instead of Gaussian ones.

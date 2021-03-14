@@ -1,0 +1,1 @@
+Let \Omega be a C^4-smooth bounded pseudoconvex domain in \mathbb{C}^2. We show that if the \overline{\partial}-Neumann operator N_1 is compact on L^2_{(0,1)}(\Omega) then the embedding operator \mathcal{J}:Dom(\overline{\partial})\cap Dom(\overline{\partial}^*) \to L^2_{(0,1)}(\Omega) is L^p-regular for all 2\leq p<\infty.

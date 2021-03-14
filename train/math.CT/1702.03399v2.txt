@@ -1,0 +1,1 @@
+We introduce the forcing model of IZFA (Intuitionistic Zermelo-Fraenkel set theory with Atoms) for every Grothendieck topology and prove that the topos of sheaves on every site is equivalent to the category of 'sets in this forcing model'.

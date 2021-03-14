@@ -1,0 +1,1 @@
+Given a triangle ABC, we derive the probability distribution function and the moments of the area of an inscribed triangle RST whose vertices are uniformly distributed on AB, BC, and CA. The theoretical results are confirmed by a Monte Carlo simulation.

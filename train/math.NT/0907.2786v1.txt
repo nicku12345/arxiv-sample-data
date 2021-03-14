@@ -1,0 +1,1 @@
+In this paper, based on techniques of Newton polygons, a result which allows the computation of a p integral basis of every quartic number field is given. For each prime integer p, this result allows to compute a p-integral basis of a quartic number field K defined by an irreducible polynomial P(X) = X4 + aX + b \in\z[X] in methodical and complete generality.

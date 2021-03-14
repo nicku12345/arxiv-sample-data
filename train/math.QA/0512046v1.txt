@@ -1,0 +1,1 @@
+We use the idea of free fields to obtain highest weight representations for the extended affine Lie algebra \widetilde{\frak{gl}_{2}(\bc_q)} coordinatized by the quantum torus \bc_q and go on to construct a contravariant hermitian form. We further give a necessary and sufficient condition such that the contravariant hermitian form is positive definite.

@@ -1,0 +1,1 @@
+We construct the motive of an algebraic stack in the Nisnevich topology. For stacks which are Nisnevich locally quotient stacks, we give a presentation of the motive in terms of simplicial schemes. We also show that for quotient stacks the motivic cohomology agrees with the Edidin-Graham-Totaro Chow groups with integer coefficients.

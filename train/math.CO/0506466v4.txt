@@ -1,0 +1,1 @@
+We discuss and give elementary proofs of results of Brion and of Lawrence-Varchenko on the lattice-point enumerator generating functions for polytopes and cones. This largely expository note contains a new proof of Brion's Formula using irrational decompositions, and a generalization of the Lawrence-Varchenko formula.

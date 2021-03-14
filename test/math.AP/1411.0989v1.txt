@@ -1,0 +1,1 @@
+We consider the Ostrovsky-Hunter type equation that includes the short pulse. We con- sider here the asymptotic behavior as gamma goes to 0. The proof relies on deriving suitable a priori estimates together with an application of the compensated compactness method in the L^p set- ting.

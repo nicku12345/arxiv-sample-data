@@ -1,0 +1,1 @@
+We prove that two-sided tilting complexes, and dualizing complexes, over simple Goldie rings (with some technical conditions) are always shifts of invertible bimodules. This allows us to describe the derived Picard groups of such rings, and to deduce these are Gorenstein (and sometimes even Auslander-Gorenstein Cohen-Macaulay) rings.

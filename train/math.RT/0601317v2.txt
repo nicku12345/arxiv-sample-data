@@ -1,0 +1,1 @@
+We study different problems related to the Solomon's descent algebra \Sigma(W) of a finite Coxeter group (W,S): positive elements, morphisms between descent algebras, Loewy length... One of the main result is that, if W is irreducible and if the longest element is central, then the Loewy length of \Sigma(W) is equal to \lceil |S| / 2 \rceil.

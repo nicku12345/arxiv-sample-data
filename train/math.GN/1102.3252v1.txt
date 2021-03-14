@@ -1,0 +1,1 @@
+We give an affirmative answer to the following question: Is any Borel subset of a Cantor set \textbf{ C} a sum of a countable number of pairwise disjoint h-homogeneous subspaces that are closed in X? It follows that every Borel set X \subset \textbf{ R}^n can be partitioned into countably many h-homogeneous subspaces that are G_{\delta}-sets in X.

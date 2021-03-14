@@ -1,0 +1,1 @@
+We study locally presentable categories equipped with a cofibrantly generated weak factorization system. Our main result is that these categories are closed under 2-limits, in particular under pseudopullbacks. We give applications to deconstructible classes in Grothendieck categories. We discuss pseudopullbacks of combinatorial model categories.

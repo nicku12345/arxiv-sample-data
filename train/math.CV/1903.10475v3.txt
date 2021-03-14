@@ -1,0 +1,1 @@
+Let \Omega\subset\mathbb{C}^n be a product of one-dimensional open bounded domains with C^{1,\alpha} boundary, where 0<\alpha<1. Using methods from complex analysis in one variable, we construct an integral operator that solves \bar\partial in \Omega with supnorm estimates when the datum is in C^{n-1,\alpha}(\Omega).

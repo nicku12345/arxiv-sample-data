@@ -1,0 +1,1 @@
+We prove a version of the Schwarz lemma for holomorphic mappings from the unit disk into the symmetric product of a Riemann surface. Our proof is function-theoretic and self-contained. The main novelty in our proof is the use of the pluricomplex Green's function. We also prove several other Schwarz lemmas using this function.

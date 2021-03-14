@@ -1,0 +1,1 @@
+Let \mathcal{G} \rightrightarrows M be a source locally trivial proper Lie groupoid such that each orbit is of finite type. The orbit projection M \to M/\mathcal{G} is a fibration if and only if \mathcal{G} \rightrightarrows M is regular.

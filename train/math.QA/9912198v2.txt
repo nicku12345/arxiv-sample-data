@@ -1,0 +1,1 @@
+We introduce a flat version of the KZB connection. This connection is defined on the complement of the locus of Weierstrass points on the moduli space of genus g complex curves with marked points. We then give integral formulas for flat sections of this connection, using the parametrization of conformal blocks and of the KZB connection of our earlier paper math/9807145.

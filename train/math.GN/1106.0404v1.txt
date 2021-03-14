@@ -1,0 +1,1 @@
+A.Chigogidze defined for each normal functor on the category Comp an extension which is a normal functor on the category Tych. We consider this extension for any functor on the category Comp and investigate which properties it preserves from the definition it preserves from the definition of normal functor. We investigate as well some topological properties of such extension.

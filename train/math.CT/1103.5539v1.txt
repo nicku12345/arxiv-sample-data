@@ -1,0 +1,1 @@
+We give some examples of abelian categories A for which the derived category D(A) is not left-complete. Perhaps the most natural of these is where A is the category of representations of the additive group G_a over a field k of characteristic p>0.

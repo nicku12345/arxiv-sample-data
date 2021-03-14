@@ -1,0 +1,1 @@
+In this note we explain how Day's fixed point theorem can be used to conjugate certain groups of biLipschitz maps of a metric space into special subgroups like similarity groups. In particular, we use Day's theorem to establish Tukia-type theorems and to give new proofs of quasi-isometric rigidity results.

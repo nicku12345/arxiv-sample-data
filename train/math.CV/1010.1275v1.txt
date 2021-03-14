@@ -1,0 +1,1 @@
+We study the automorphism group action on a bounded domain in \CC^n. In particular, we consider boundary orbit accumulation points, and what geometric properties they must have. These properties are formulated in the language of Levi geometry.

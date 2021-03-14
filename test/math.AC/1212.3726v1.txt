@@ -1,0 +1,1 @@
+We show that monomial ideals generated in degree two satisfy a conjecture by Eisenbud, Green and Harris. In particular we give a partial answer to a conjecture of Kalai by proving that h-vectors of flag Cohen-Macaulay simplicial complexes are h-vectors of Cohen-Macaulay balanced simplicial complexes.

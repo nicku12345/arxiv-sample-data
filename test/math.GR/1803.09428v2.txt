@@ -1,0 +1,1 @@
+We construct a finitely presented group G such that the 7th dimension quotient G\cap(1+\varpi(\mathbb Z G)^7)/\gamma_7(G) has an element of order 3; this immediately leads to a finite 3-group without the dimension property. This contradicts a series of results by N. Gupta.

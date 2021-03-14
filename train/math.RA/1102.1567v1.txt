@@ -1,0 +1,1 @@
+We determine all majority operations on a four-element set that generate a minimal clone.

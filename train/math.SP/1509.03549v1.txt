@@ -1,0 +1,1 @@
+We introduce a new method for constructing isospectral quantum graphs that is based on transplanting derivatives of eigenfunctions. We also present simple digraphs with the same reversing zeta function, which generalizes the Bartholdi zeta function to digraphs.

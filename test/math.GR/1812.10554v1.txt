@@ -1,0 +1,1 @@
+Let G be a finite p-group and C be a conjugacy class of G. We prove that the order complex of the subrack poset of C is homotopy equivalent to a (m-2)-sphere, where m is the number of maximal elements in the subrack poset.

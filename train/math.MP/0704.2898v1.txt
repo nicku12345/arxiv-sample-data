@@ -1,0 +1,1 @@
+A new expression for the Green's function of a finite one-dimensional lattice with nearest neighbor interaction is derived via discrete Fourier transform. Solution of the Heisenberg spin chain with periodic and open boundary conditions is considered as an example. Comparison to Bethe ansatz clarifies the relation between the two approaches.

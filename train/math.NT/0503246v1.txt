@@ -1,0 +1,1 @@
+Let \phi(n) be the Euler-phi function, define \phi_0(n) = n and \phi_{k+1}(n)=\phi(\phi_{k}(n)) for all k\geq 0. We will determine an asymptotic formula for the set of integers n less than x for which \phi_k(n) is y-smooth, conditionally on a weak form of the Elliott-Halberstam conjecture.

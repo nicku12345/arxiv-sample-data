@@ -1,0 +1,1 @@
+The aim of this paper is to introduce a polynomial invariant f_K(t) for virtual knots. We show that f_K(t) can be used to distinguish some virtual knot from its inverse and mirror image. The behavior of f_K(t) under connected sum is also given. Finally we discuss which kind of polynomial can be realized as f_K(t) for some virtual knot K.

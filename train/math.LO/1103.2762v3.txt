@@ -1,0 +1,1 @@
+We develop the basics of an analogue of descriptive set theory for functions on a Polish space X. We use this to define a version of the small index property in the context of Polish topometric groups, and show that Polish topometric groups with ample generics have this property. We also extend classical theorems of Effros and Hausdorff to the topometric context.

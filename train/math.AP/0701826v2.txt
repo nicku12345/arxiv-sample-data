@@ -1,0 +1,1 @@
+We study the critical and super-critical dissipative quasi-geostrophic equations in \bR^2 or \bT^2. Higher regularity of mild solutions with arbitrary initial data in H^{2-\gamma} is proved. As a corollary, we obtain a global existence result for the critical 2D quasi-geostrophic equations with periodic \dot H^1 data. Some decay in time estimates are also provided.

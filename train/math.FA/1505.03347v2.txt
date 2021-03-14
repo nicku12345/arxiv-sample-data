@@ -1,0 +1,1 @@
+We consider a non-negative self-adjoint operator L satisfying generalized Gaussian estimates on a doubling metric measure space, and show that if L has a spectral gap then the local and global Hardy spaces defined by means of appropriate square functions coincide.

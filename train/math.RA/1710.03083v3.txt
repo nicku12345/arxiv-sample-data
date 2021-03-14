@@ -1,0 +1,1 @@
+By a result of Horv\'ath the equation solvability problem over finite nilpotent groups and rings is in P. We generalize his result, showing that the equation solvability over every finite supernilpotent Mal'cev algebra is in P. We also give an example of a nilpotent, but not supernilpotent Mal'cev algebra, whose identity checking problem is coNP-complete.

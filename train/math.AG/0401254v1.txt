@@ -1,0 +1,1 @@
+In these notes we investigate the rings of real polynomials in four variables, which are invariant under the action of the reflectiongroups [3,4,3] and [3,3,5]. It is well known that they are rationally generated in degree 2,6,8,12 and 2,12,20,30. We give a different proof of this fact by giving explicit equations for the generating polynomials.

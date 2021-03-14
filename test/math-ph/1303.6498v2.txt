@@ -1,0 +1,1 @@
+Given a 3-dimensional Riemannian manifold (M,g), we investigate the existence of positive solutions of the nonlinear Klein-Gordon-Maxwell system and nonlinear Schroedinger-Maxwell system with subcritical nonlinearity. We prove that the number of one peak solutions depends on the topological properties of the manifold M, by means of the Lusternik Schnirelmann category.

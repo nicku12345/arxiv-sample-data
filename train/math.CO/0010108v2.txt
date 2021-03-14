@@ -1,0 +1,1 @@
+Using a generalization of the Schensted insertion algorithm to rc-graphs, we provide a Littlewood-Richardson rule for multiplying certain Schubert polynomials by Schur polynomials.

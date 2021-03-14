@@ -1,0 +1,1 @@
+Monotone linear relations play important roles in variational inequality problems and quadratic optimizations. In this paper, we give explicit maximally monotone linear subspace extensions of a monotone linear relation in finite dimensional spaces. Examples are provided to illustrate our extensions. Our results generalize a recent result by Crouzeix and Anaya.

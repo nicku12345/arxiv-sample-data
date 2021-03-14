@@ -1,0 +1,1 @@
+For irreducible integer polynomials f(n)=n^d+c we prove an asymptotic formula for the number of k-th power free values taken by f(n), for n running up to x, subject to the condition k\ge (5d+3)/9. This improves earlier results in which the condition was k\ge (3d+1)/4. We also show that one can handle f(p) for prime arguments p, for the same range of k.

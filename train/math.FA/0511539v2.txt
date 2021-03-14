@@ -1,0 +1,1 @@
+In this paper, we establish the generalized Hyers--Ulam--Rassias stability of C^*-ternary ring homomorphisms associated to the Trif functional equation \begin{eqnarray*} d \cdot C_{d-2}^{l-2} f(\frac{x_1+... +x_d}{d})+ C_{d-2}^{l-1}\sum_{j=1}^d f(x_j) = l \cdot \sum_{1\leq j_1< ... < j_l\leq d} f(\frac{x_{j_1} + ... + x_{j_l}}{l}). \end{eqnarray*}

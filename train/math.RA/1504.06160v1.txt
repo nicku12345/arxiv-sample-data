@@ -1,0 +1,1 @@
+PBW deformations of Artin-Schelter regular algebras are skew Calabi-Yau. We prove that the Nakayama automorphisms of such PBW deformations can be obtained from their homogenizations. Some Calabi-Yau properties are generalized without Koszul assumption. We also show that the Nakayama automorphisms of such PBW deformations control Hopf actions on them.

@@ -1,0 +1,1 @@
+Anticipated backward stochastic differential equation (ABSDE) studied the first time in 2007 is a new type of stochastic differential equations. In this paper, we establish a general comparison theorem for 1-dimensional ABSDEs with the generators depending on the anticipated term of Z.

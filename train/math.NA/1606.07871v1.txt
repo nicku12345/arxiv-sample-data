@@ -1,0 +1,1 @@
+It is known that the computation of the Voigt/complex error function is problematic for highly accurate and rapid computation at small imaginary argument y << 1, where y = \operatorname{Im} \left[ z \right]. In this paper we consider an approximation based on the Fourier expansion that can be used to resolve effectively such a problem when y \to 0.

@@ -1,0 +1,1 @@
+By means of elementary conditions on coefficients, we isolate a large class of Fermat-like Diophantine equations that are not partition regular, the simplest examples being x^n+y^m=z^k with k\notin\{n,m\}.

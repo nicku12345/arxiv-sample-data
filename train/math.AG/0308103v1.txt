@@ -1,0 +1,1 @@
+We prove a formula for double Schubert and Grothendieck polynomials specialized to two rearrangements of the same set of variables. Our formula generalizes the usual formulas for Schubert and Grothendieck polynomials in terms of RC-graphs, and it gives immediate proofs of many other important properties of these polynomials.

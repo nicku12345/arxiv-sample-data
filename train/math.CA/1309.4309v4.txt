@@ -1,0 +1,1 @@
+In this paper, we obtain uniform bounds for a number of expressions that involve derivatives and integrals of modified Bessel functions. These uniform bounds are motivated by the need to bound such expressions in the study of variance-gamma and product normal approximations via Stein's method.

@@ -1,0 +1,1 @@
+We continue the study of a new family of multivariate wavelets which are obtained by "polyharmonic subdivision". We provide the results of experiments considering the distribution of the wavelet coefficients for the Lena image and for astronomical images. The main purpose of this investigation is to find a clue for proper quantization algorithms.

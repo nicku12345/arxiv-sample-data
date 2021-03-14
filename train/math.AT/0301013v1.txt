@@ -1,0 +1,1 @@
+In this paper we prove over fields of characteristic zero that the zero slice of the motivic sphere spectrum is the motivic Eilenberg-Maclane spectrum. As a corollary one concludes that the slices of any spectrum are modules over the motivic Eilenberg-MacLane spectrum. To prove our result we analyze the unstable homotopy type of the symmetric powers of the T-sphere.

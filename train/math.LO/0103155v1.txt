@@ -1,0 +1,1 @@
+If kappa is strongly compact, lambda > kappa is regular, then (2^{< lambda})^+ --> (lambda+eta)^2_theta holds for eta,theta<kappa.

@@ -1,0 +1,1 @@
+We establish asymptotic bounds on the L^p norms of spectrally localized functions in the case of two-dimensional Dirichlet forms with coefficients of Lipschitz regularity. These bounds are new for the range p>6. A key step in the proof is bounding the rate at which energy spreads for solutions to hyperbolic equations with Lipschitz coefficients.

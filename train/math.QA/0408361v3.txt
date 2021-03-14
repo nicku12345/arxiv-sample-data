@@ -1,0 +1,1 @@
+We consider the quantum Teichmuller space of the punctured surface introduced by Chekhov-Fock-Kashaev, and formalize it as a noncommutative deformation of the space of algebraic functions on the Teichmuller space of the surface. In order to apply it in 3-dimensional topology, we put more attention to the details involving small surfaces.

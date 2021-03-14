@@ -1,0 +1,1 @@
+In this paper it is shown, that B-splines are scaling functions for any natural N. For any natural N construction of Haar wavelets, Kotelnikov-Shannon wavelets, nonorthogonal wavelets based on B-splines is given. Examples of construction of filters of N-channel decomposition of signal and filters of reconstruction based on B-splines are given

@@ -1,0 +1,1 @@
+In this paper we prove that the generalization to \mathbb{RP}^n of the pentagram map defined in \cite{KS} is invariant under certain scalings for any n. This property allows the definition of a Lax representation for the map, to be used to establish its integrability.

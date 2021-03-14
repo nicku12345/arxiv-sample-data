@@ -1,0 +1,1 @@
+The Numerov method for linear second-order differential equations is generalized to include equations containing a first derivative term. The method presented has the same degree of accuracy as the ordinary Numerov sixth-order method. A general scheme of the application to the numerical solution of the Hartree-Fock equations is considered.

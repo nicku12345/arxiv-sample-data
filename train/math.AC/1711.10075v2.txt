@@ -1,0 +1,1 @@
+The {\tt Macaulay2} package {\tt RandomMonomialIdeals} provides users with a set of tools that allow for the systematic generation and study of random monomial ideals. It also introduces new objects, Sample and Model, to allow for streamlined handling of random objects and their statistics in {\tt Macaulay2}.

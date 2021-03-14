@@ -1,0 +1,1 @@
+We study generating functions for the number of permutations in \SS_n subject to two restrictions. One of the restrictions belongs to \SS_3, while the other to \SS_k. It turns out that in a large variety of cases the answer can be expressed via Chebyshev polynomials of the second kind.

@@ -1,0 +1,1 @@
+If G is a claw-free hamiltonian graph of order n and maximum degree \Delta with \Delta\geq 24, then G has cycles of at least \min\left\{ n,\left\lceil\frac{3}{2}\Delta\right\rceil\right\}-2 many different lengths.

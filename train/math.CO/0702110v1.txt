@@ -1,0 +1,1 @@
+Let \Psi_{k,n} denote the number of inequivalent binary self-orthogonal [n,k] codes. We present a method which allows us to compute \Psi_{k,n} explicitly for a moderate k and an arbitrary n. Included in this paper are explicit formulas for \Psi_{k,n} with k\le 5.

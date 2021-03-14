@@ -1,0 +1,1 @@
+In this paper, we show that for a unicritical polynomial having a priori bounds, the unique conformal measure of minimal exponent has no atom at the critical point. For a conformal measure of higher exponent, we give a necessary and sufficient condition for the critical point to be an atom, in terms of the growth rate of the derivatives at the critical value.

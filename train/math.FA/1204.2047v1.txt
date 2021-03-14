@@ -1,0 +1,1 @@
+If f is a real valued weakly lower semi-continous function on a Banach space X and C a weakly compact subset of X, we show that the set of x \in X such that z \mapsto \|x-z\|-f(z) attains its supremum on C is dense in X. We also construct a counter example showing that the set of x \in X such that z \mapsto \|x-z\|+\|z\| attains its supremum on C is not always dense in X.

@@ -1,0 +1,1 @@
+In this paper a definition is given for an unbounded Toeplitz-like operator with rational symbol which has poles on the unit circle. It is shown that the operator is Fredholm if and only if the symbol has no zeroes on the unit circle, and a formula for the index is given as well. Finally, a matrix representation of the operator is discussed.

@@ -1,0 +1,1 @@
+We give a detailed description of infinite locally nilpotent groups G such that the index |C_G (x) : <x>| is finite, for every non-normal cyclic subgroup <x> of G. We are also able to extend our analysis to all non-periodic groups satisfying a variation of our condition, where the requirement of finiteness is replaced with a bound.

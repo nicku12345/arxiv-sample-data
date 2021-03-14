@@ -1,0 +1,1 @@
+We consider the expansion of the real field by the group of rational points of an elliptic curve over the rational numbers. We prove a completeness result, followed by a quantifier elimination result. Moreover we show that open sets definable in that structure are semialgebraic.

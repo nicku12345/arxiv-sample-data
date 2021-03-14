@@ -1,0 +1,1 @@
+We compute the cobordism ring MU^*(BG)\otimes \mathbb{F}_p when G is a Chevalley group. In the particular case of the general linear group, we prove that it agrees with the Chow ring (as defined by Totaro).

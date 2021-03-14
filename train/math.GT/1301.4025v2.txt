@@ -1,0 +1,1 @@
+Let N be an irreducible, compact 3-manifold with empty or toroidal boundary which is not a closed graph manifold. Using recent work of Agol, Kahn-Markovic and Przytycki-Wise we will show that pi_1(N) admits a cofinal filtration with `fast' growth of Betti numbers as well as a cofinal filtration of pi_1(N) with `slow' growth of ranks.

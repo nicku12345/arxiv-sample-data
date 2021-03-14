@@ -1,0 +1,1 @@
+We study the problems of the existence, uniqueness and continuous dependence of Lipschitzian solutions \varphi of equations of the form  \varphi(x)=\int_{\Omega}g(\omega)\varphi\big(f(x,\omega)\big)\mu(d\omega)+F(x),  where \mu is a measure on a \sigma-algebra of subsets of a set \Omega.

@@ -1,0 +1,1 @@
+Let X be a compact K\"ahler manifold. We extend the notion of Quillen metric to the set of integrable line bundles on X. In particular, we prove that the notion of holomorphic analytic torsion extends to integrable line bundles \bar{L}, such that H^q(X,L)=0 for q\geq 1.

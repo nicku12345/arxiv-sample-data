@@ -1,0 +1,1 @@
+It is shown that for any Baire space X, linearly ordered compact Y and separately continuous mapping f:X\times Y\to\mathbb R there exists a dense in X G_\delta-set A\subseteq X such that f is jointly continuous at every point of A\times Y, i.e. any linearly ordered compact is a co-Namioka space.

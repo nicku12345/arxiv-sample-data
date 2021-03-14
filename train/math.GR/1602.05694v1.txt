@@ -1,0 +1,1 @@
+In this paper, we consider the following problem: For every positive integer r \geq 2, find all positive integers n such that for every semigroup of order \geq n in which x^r=x for every element x has a subsemigroup of order n.

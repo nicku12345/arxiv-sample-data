@@ -1,0 +1,1 @@
+We study a question of density of Lipschitz mappings in the Sobolev class of mappings from a closed manifold into a singular space. The main result of the paper shows that if we change the metric in the target space to a bi-Lipschitz equivalent one, than the property of the density of Lipschitz mappings may be lost.

@@ -1,0 +1,1 @@
+A Banach space X is said to have the Tsirelson property if it does not contain subspaces that are isomorphic to l_{p}, p in [1,infty) or c_{0}. The article contains a quite simple method to producing Banach spaces with the Tsirelson property.

@@ -1,0 +1,1 @@
+Let \Gamma_A denote the abelian-by-cyclic group associated to an integer-valued, non-singular matrix A. We show that if A has no eigenvalues of modulus one, then there are no faithful C^1 perturbations of the trivial action  \iota: \Gamma_A \to \diff, where M is a compact manifold.

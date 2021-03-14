@@ -1,0 +1,1 @@
+For higher order integral functionals with p(x) growth with respect to the highest order derivative D^m u, we prove that D^m u is H\"older continuous on an open subset \Omega_0 \subset \Omega of full Lebesgue- measure, provided that the exponent function p:\Omega \to (1,\infty) itself is H\"older continuous.

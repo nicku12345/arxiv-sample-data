@@ -1,0 +1,1 @@
+We show how to induce products in sheaf cohomology for a wide variety of coefficients: sheaves of dg commutative and Lie algebras, symmetric Omega-spectra, filtered dg algebras, operads and operad algebras.

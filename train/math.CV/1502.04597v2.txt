@@ -1,0 +1,1 @@
+We study isomonodromic deformation of Fuchsian linear q-difference systems. Furthermore, we are looking of the behaviour of the Birkhoff connexion matrix when q goes to 1. We use our results to study the convergence of the Birkhoff connexion matrix that appears in the definition of the q-analogue of the sixth Painlev\'e equation.

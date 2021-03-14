@@ -1,0 +1,1 @@
+Let M be a compact, connected, C^2-smooth and globally minimal hypersurface M in P_2(C) which divides the projective space into two connected parts U^{+} and U^{-}. We prove that there exists a side, U^- or U^+, such that every continuous CR function on M extends holomorphically to this side. Our proof of this theorem is a simplification of a result originally due to F. Sarkis.

@@ -1,0 +1,1 @@
+The canonical k-tangent structure on T^1_kQ=TQ\oplus\stackrel{k}...\oplus TQ allows us to characterize nonlinear connections on T^1_kQ and to develop G\"unther's (k-symplectic) Lagrangian formalism. We study the relationship between nonlinear connections and second-order partial differential equations (SOPDEs), which appear in G\"unther's Lagrangian formalism.

@@ -1,0 +1,1 @@
+This paper use Nevanlinna's Second Main Theorem of the value distribution theory, we got an important conclusion by Riemann hypothesis. this conclusion contradicts the Theorem 8.12 in Titchmarsh's book "Theory of the Riemann Zeta-functions", therefore we prove that Riemann hypothesis is incorrect.

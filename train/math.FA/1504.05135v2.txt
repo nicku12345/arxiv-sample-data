@@ -1,0 +1,1 @@
+This paper is about the technique of {\em shadow variables} that was used in the theory of monotone operators. In this paper, we use it to show that certain results that were originally proved for lower semicontinuous convex functions are in fact true for {\em marginable} convex functions.

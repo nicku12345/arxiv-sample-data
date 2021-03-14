@@ -1,0 +1,1 @@
+The aim of this paper is to study large deviations for the self-similar solution of a Kac-type kinetic equation. Under the assumption that the initial condition belongs to the domain of normal attraction of a stable law of index \alpha <2 and under suitable assumptions on the collisional kernel, precise asymptotic behavior of the large deviations probability is given.

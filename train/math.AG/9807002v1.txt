@@ -1,0 +1,1 @@
+We give the new effective criterion for the global generation of the adjoint bundle on normal surfaces with a boundary. We could make the invariant \delta small a bit more on log-terminal singular point, and then we could prove the theorem described in my previous paper "alg-geom/9612018" as a corollary.

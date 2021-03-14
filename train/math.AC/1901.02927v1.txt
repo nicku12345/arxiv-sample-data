@@ -1,0 +1,1 @@
+Given a submonoid H of \mathbb N^k, we give some characterizations of the minimum r\in \mathbb N^+ such that H is isomorphic to a submonoid of \mathbb N^r. In the context of submonoids of \mathbb N, we prove that if two numerical semigroups are isomorphic submonoids of \mathbb N, then they are equal and the identity map is the unique isomorphism between them.

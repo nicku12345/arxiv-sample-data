@@ -1,0 +1,1 @@
+We compute the minimal polynomials of the Ramanujan values t_n, where n\equiv 11 \mod 24, using Shimura reciprocity law. These polynomials can be used for defining the Hilbert class field of the imaginary quadratic field \mathbb{Q}(\sqrt{-n}), and have much smaller coefficients than the Hilbert polynomials.

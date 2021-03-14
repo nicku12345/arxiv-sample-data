@@ -1,0 +1,1 @@
+We generalize the colored Jones polynomial to 4-valent graphs. This generalization is given as a sequence of invariants in which the first term is a one variable specialization of the Kauffman-Vogel polynomial. We use the invariant we construct to give a sequence of singular braid group representations.

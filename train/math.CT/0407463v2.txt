@@ -1,0 +1,1 @@
+The representation theory for categorical groups is constructed. Each categorical group determines a monoidal bicategory of representations. Typically, these categories contain representations which are indecomposable but not irreducible. A simple example is computed in explicit detail.

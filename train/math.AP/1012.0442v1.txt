@@ -1,0 +1,1 @@
+We prove a general dispersive estimate for a Schroedinger type equation on a product manifold, under the assumption that the equation restricted to each factor satisfies suitable dispersive estimates. Among the applications are the two-particle Schroedinger equations on Euclidean spaces, and the nonlinear Schroedinger equation on the product of two real hyperbolic spaces.

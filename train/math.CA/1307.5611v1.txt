@@ -1,0 +1,1 @@
+We consider the equation - y"(x)+q(x)y(x)=f(x), x\in R and the weighted function space S_p^{(2)}(R,q)=\{y\in AC_{\loc}^{(1)}(R):\|y"-qy\|_p+\|q^{1/p}y\|_p<\infty\}; p\in[1,\infty), f\in L_p(R) and 0\le q\in L_1^{\loc}(R). We show that there exists an embedding S_p^{(2)}(R,q)\hookrightarrow L_p(R) if and only if equation above is correctly solvable in L_p(R).

@@ -1,0 +1,1 @@
+We consider a complex Ginzburg-Landau equation, corresponding to a Gross-Pitaevskii equation with a small dissipation term. We study an asymptotic regime for long-wave perturbations of constant maps of modulus one. We show that such solutions never vanish and we derive a damped wave dynamics for the perturbation.

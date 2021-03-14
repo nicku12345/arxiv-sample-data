@@ -1,0 +1,1 @@
+We show that if A is a unital C^*-algebra and B is a Cuntz-Krieger algebra for which A\otimes\mathbb{K} \cong B\otimes\mathbb{K}, then A is a Cuntz-Krieger algebra. Consequently, corners of Cuntz-Krieger algebras are Cuntz-Krieger algebras.

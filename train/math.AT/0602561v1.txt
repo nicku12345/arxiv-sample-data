@@ -1,0 +1,1 @@
+We give a very short self-contained combinatorial proof of the Babson-Kozlov conjecture, by presenting a cochain whose coboundary is the desired power of the characteristic class.

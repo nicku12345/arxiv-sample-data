@@ -1,0 +1,1 @@
+It is conjectured that every integer N>454 is the sum of seven nonnegative cubes. We prove the conjecture when N is congruent to 2 mod 4. This result, together with a recent proof for 4|N, shows that the conjecture is true for all even N.

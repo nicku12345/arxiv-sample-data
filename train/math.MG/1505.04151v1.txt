@@ -1,0 +1,1 @@
+We provide sharp upper bounds for the number of symmetrizations required to transform a star shaped set in {\mathbb R}^n arbitrarily close (in the Hausdorff metric) to the Euclidean ball.

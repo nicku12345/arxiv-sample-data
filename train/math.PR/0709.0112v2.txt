@@ -1,0 +1,1 @@
+We examine the spectral profile bound of Goel, Montenegro and Tetali for the uniform mixing time of continuous-time random walk in reversible settings. We find that it is precise up to a log log factor, and that this log log factor cannot be improved.

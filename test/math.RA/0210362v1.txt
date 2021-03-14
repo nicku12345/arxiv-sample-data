@@ -1,0 +1,1 @@
+Given a representation-finite algebra B and a subalgebra A of B such that the Jacobson radicals of A and B coincide, we prove that the representation dimension of A is at most three. By a result of Igusa and Todorov, this implies that the finitistic dimension of A is finite.

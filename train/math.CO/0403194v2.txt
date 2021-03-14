@@ -1,0 +1,1 @@
+A method for converting the geometrical problem of rectangle packing to an algebraic problem of solving a system of polynomial equations is described.

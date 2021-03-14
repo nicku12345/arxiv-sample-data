@@ -1,0 +1,1 @@
+We study multiple sampling, interpolation and uniqueness for the classical Fock spaces in the case of unbounded multiplicities. We show that there are no sequences which are simultaneously sampling and interpolating when the multiplicities tend to infinity.

@@ -1,0 +1,1 @@
+In a recent paper C. Miguel proved that the diameter of the commuting graph of the matrix ring \mathrm{M}_n(\mathbb{R}) is equal to 4 either if n=3 or n>4. But the case n=4 remained open, since the diameter could be 4 or 5. In this work we close the problem showing that also in this case the diameter is equal to 4.

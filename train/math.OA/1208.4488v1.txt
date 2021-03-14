@@ -1,0 +1,1 @@
+We examine the ideal structure of crossed products B\rtimes G where B is a continuous-trace C*-algebra and the induced action of G on the spectrum of B is proper. In particular, we are able to obtain a concrete description of the topology on the spectrum of the crossed product in the cases where either G is discrete or G is a Lie group acting smoothly on the spectrum of B.

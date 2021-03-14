@@ -1,0 +1,1 @@
+We give a self-contained exposition of some mathematical aspects of the Mueller-Stokes formalism. In the first part we review some basic notions of linear algebra and establish a proper notation. In the second part we introduce the Mueller-Stokes formalism and derive some useful mathematical relation between physical quantities. Finally a useful decomposition theorem is reviewed.

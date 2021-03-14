@@ -1,0 +1,1 @@
+Given a t.u.p.-semigroup (two unique product semigroup) X, we show if R is an X-graded ring then both its nilradical and Jacobson radical are homogeneous. This partially answers questions of Smoktunowicz and Jespers.

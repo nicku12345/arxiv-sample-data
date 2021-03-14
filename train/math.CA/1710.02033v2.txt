@@ -1,0 +1,1 @@
+We show that under rather general circumstances, the almost everywhere pointwise inequality |f|(x) \le Mf (x) is equivalent to a weak form of the Lebesgue density theorem, for totally bounded closed sets. We derive both positive and negative results from this characterization.

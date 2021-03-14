@@ -1,0 +1,1 @@
+We generalize graded Hecke algebras to include a twisting two-cocycle for the associated finite group. We give examples where the parameter spaces of the resulting twisted graded Hecke algebras are larger than that of the graded Hecke algebras. We prove that twisted graded Hecke algebras are particular types of deformations of a crossed product.

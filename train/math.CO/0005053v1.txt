@@ -1,0 +1,1 @@
+In this paper we correct an analysis of the two-player perfect-information game Dukego given in Berlekamp, Conway, and Guy's Winning Ways for your Mathematical Plays (Chapter 19). In particular, we characterize the board dimensions that are fair, i.e., those for which the first player to move has a winning strategy.

@@ -1,0 +1,1 @@
+We provide an analog of Tannaka Theory for Hopf algebras in the context of crossed Hopf group coalgebras introduced by Turaev.   Following Street and our previous work on the quantum double of crossed structures, we give a construction, via Tannaka Theory, of the quantum double of crossed Hopf group algebras (not necessarily of finite type).

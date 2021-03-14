@@ -1,0 +1,1 @@
+In this article, I prove that full subcomplexes of CAT(0) simplicial 3-complexes inherit the non positive curvature condition, and describe a family of counterexamples that prove this result can not be extended to higher dimensions.

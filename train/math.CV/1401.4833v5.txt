@@ -1,0 +1,1 @@
+In this note, we show how to apply the original L^2-extension theorem of Ohsawa and Takegoshi to the standard basis of a multiplier ideal sheaf associated with a plurisubharmonic function. In this way, we are able to reprove the strong openness conjecture and to obtain an effective version of the semicontinuity theorem for weighted log canonical thresholds.

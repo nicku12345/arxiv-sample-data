@@ -1,0 +1,1 @@
+Let M be a compact closed non-orientable surface. We show that the space of representations of the fundamental group of M into PSL(2,R) has exactly two connected components. These two components are the preimages of a certain Stiefel-Whitney characteristic class, computed in a similar way as the Euler class in the orientable case.

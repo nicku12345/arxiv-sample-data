@@ -1,0 +1,1 @@
+We make use of the recent proof that the critical probability for percolation on random Voronoi tessellations is 1/2 to prove the corresponding result for random Johnson-Mehl tessellations, as well as for two-dimensional slices of higher dimensional Voronoi tessellations. Surprisingly, the proof is a little simpler for these more complicated models.

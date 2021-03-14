@@ -1,0 +1,1 @@
+Fix a Hecke cusp form f, and consider the L-function of f twisted by a primitive Dirichlet character. As we range over all primitive characters of a large modulus q, what is the average behavior of the square of the central value of this L-function? Stefanicki proved an asymptotic valid only for q having very few prime factors, and we extend this to almost all q.

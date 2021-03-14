@@ -1,0 +1,1 @@
+For a knot K the cube number is a knot invariant defined to be the smallest n for which there is a cube diagram of size n for K. We will show that the cube number detects chirality in all cases computed thus far, and distinguishes certain legendrian knots.

@@ -1,0 +1,1 @@
+We show that K_{2i}(Z[x,y]/(xy),(x,y)) is free abelian of rank 1 and that K_{2i+1}(Z[x,y]/(xy),(x,y)) is finite of order (i!)^2. We also compute K_{2i+1}(Z[x,y]/(xy),(x,y)) in low degrees.

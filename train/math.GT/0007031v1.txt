@@ -1,0 +1,1 @@
+A new method to derive presentations of skein modules is developed. For the case of homotopy skein modules it will be shown how the topology of a 3-manifold is reflected in the structure of the module. The freeness problem for q-homotopy skein modules is solved, and a natural skein module related to linking numbers is computed.

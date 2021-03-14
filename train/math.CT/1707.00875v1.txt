@@ -1,0 +1,1 @@
+We establish a generalized form both of the Gabriel-Zisman exact sequence associated with a pointed functor between pointed groupoids, and of the Brown exact sequence associated with a fibration of pointed groupoids. Our generalization consists in replacing pointed groupoids with groupoids internal to a pointed regular category with reflexive coequalizers.

@@ -1,0 +1,1 @@
+We prove some local (in time) wellposedness results for nonlinear Schroedinger equations with rough data, that is, the initial value belongs to some Sobolev space of negative index. The proof uses the Fourier restriction norm method.

@@ -1,0 +1,1 @@
+We study codensity monads T induced by (mostly small, mostly dense) full subcategories A \subset K. These monads behave quite similarly, we show some connections with the Isbell duality, pro-finite objects and compact spaces. We prove that they are quite unlikely to be accessible. Finally, we introduce the notion of generically idempotent monad and comment its properties.

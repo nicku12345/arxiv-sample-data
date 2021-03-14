@@ -1,0 +1,1 @@
+A famous result of Hall asserts that the multiplication and exponentiation in finitely generated torsion free nilpotent groups can be described by rational polynomials. We describe an algorithm to determine such polynomials for all torsion free nilpotent groups of given Hirsch length. We apply this to determine the Hall polynomials for all such groups of Hirsch length at most 7.

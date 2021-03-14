@@ -1,0 +1,1 @@
+For a finite group G and complex character \chi\in\mathrm{Irr}(G) that restricts irreducibly to a normal subgroup N\vartriangleleft G, we prove a theorem about Clifford correspondences between the characters of subgroups of G that induce \chi.

@@ -1,0 +1,1 @@
+In this paper, we prove global well-posedness and scattering for the defocusing, cubic nonlinear Schr{\"o}dinger equation in three dimensions when n = 3 when u_{0} \in H^{s}(\mathbf{R}^{3}), s > 3/4. To this end, we utilize a linear-nonlinear decomposition, similar to the decomposition used in [12] for the wave equation.

@@ -1,0 +1,1 @@
+Let R be a compact, connected, orientable surface of genus g with n boundary components. Let \mathcal{C}(R) be the curve graph of R. We prove that if g=0, n \geq 5 or g=1, n \geq 3, and \lambda : \mathcal{C}(R) \rightarrow\mathcal{C}(R) is an edge preserving map, then \lambda is induced by a homeomorphism of R, and this homeomorphism is unique up to isotopy.

@@ -1,0 +1,1 @@
+We define reflexive sheaves on a singular quadric Q that generalize the spinor bundles on smooth quadrics, using matrix factorizations of the equation of Q. We study the first properties of these spinor sheaves, give a Horrocks-type criterion, and show that they are semi-stable, and indeed stable in some cases.

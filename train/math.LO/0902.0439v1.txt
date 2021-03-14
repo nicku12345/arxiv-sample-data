@@ -1,0 +1,1 @@
+Let C subset Reg be a non-empty class (of regular cardinal). Then the logic L(Q^{cf}_C) has additional nice properties: it has homogeneous model existence property.

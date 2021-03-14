@@ -1,0 +1,1 @@
+We give geometric proofs for Grobman-Hartman theorem for diffeomorphisms and ODEs. Proofs use covering relations and cone conditions for maps and isolating segments and cone condition for ODEs. We prove also the H\"older condition for the conjugating homeomorphims.

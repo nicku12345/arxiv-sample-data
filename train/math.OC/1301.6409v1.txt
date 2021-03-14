@@ -1,0 +1,1 @@
+The value of a zero-sum differential games is known to exist, under Isaacs' condition, as the unique viscosity solution of a Hamilton-Jacobi-Bellman equation. In this note we provide a self-contained proof based on the construction of \ep-optimal strategies, which is inspired by the "extremal aiming" method from Krasovskii and Subbotin.

@@ -1,0 +1,1 @@
+In this pedagogical note we propose to wander through five different methods to compute the number of connected graphs of the zero-dimensional \phi^4 field theory,in increasing order of sophistication. The note does not contain any new result but may be helpful to summarize the heart of constructive resummations, namely a replica trick and a forest formula.

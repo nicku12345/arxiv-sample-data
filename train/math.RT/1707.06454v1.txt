@@ -1,0 +1,1 @@
+Splints of root system of simple lie algebras appears naturally on studies of embedding of reductive subalgebras. A splint can be used to construct a branching rules as implementation of this idea simplifies calculation of branching coefficient. We extend the concept of splints to classical lie superalgebras cases as these algebras have wide application in physics.

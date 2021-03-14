@@ -1,0 +1,1 @@
+The purpose of this paper is to propose a sheaf theoretic approach to the theory of quantum principal bundles over non affine bases. We study the quantization of principal bundles G -> G/P, where G is a semisimple group and P a parabolic subgroup.

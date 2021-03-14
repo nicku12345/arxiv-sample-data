@@ -1,0 +1,1 @@
+In this note functions that transform open segments of a linear space into open segments of another linear space are studied and characterized. Assuming that the range is non-collinear, it is proved that such a map can always be expressed as the ratio of two affine functions.

@@ -1,0 +1,1 @@
+We describe the Hopf algebraic structure of Feynman graphs for non-abelian gauge theories, and prove compatibility of the so-called Slavnov-Taylor identities with the coproduct. When these identities are taken into account, the coproduct closes on the Green's functions, which thus generate a Hopf subalgebra.

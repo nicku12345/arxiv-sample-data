@@ -1,0 +1,1 @@
+We study the connection between the condition that the reduced C*-algebra of a finitely presented group is exact and the Novikov conjecture holding. The main result states that if the group is strongly exact in the sense that the inclusion of the group C*-algebra into the uniform Roe algebra of the group is a nuclear embedding then the Novikov conjecture holds for that group.

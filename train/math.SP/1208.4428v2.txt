@@ -1,0 +1,1 @@
+An analogue of Rellich's theorem is proved for discrete Laplacian on square lattice, and applied to show unique continuation property on certain domains as well as non-existence of embedded eigenvalues for discrete Schr{\"o}dinger operators.

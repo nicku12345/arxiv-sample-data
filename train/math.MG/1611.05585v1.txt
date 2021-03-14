@@ -1,0 +1,1 @@
+Let E be a graph-directed set associated with a di-graph G. Let \mu be a Markov-type measure on E. Assuming a separation condition for E, we determine the exact convergence order of the L_r-quantization error for \mu. This result provides us with accurate information on the asymptotics of the quantization error, especially when the quantization coefficient is infinite.

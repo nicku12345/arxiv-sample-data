@@ -1,0 +1,1 @@
+We construct a two-parameters example of {\em pseudo-bosons}, and we show that they are not regular, in the sense previously introduced by the author. In particular, we show that two biorthogonal bases of \Lc^2(\Bbb R) can be constructed, which are not Riesz bases, in general.

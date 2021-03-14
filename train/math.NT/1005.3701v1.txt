@@ -1,0 +1,1 @@
+Starting from a result of Stewart, Tijdeman and Ruzsa on iterated difference sequences, we introduce the notion of iterated compositions of linear operations. We prove a general result on the stability of such compositions (with bounded coefficients) on sets of integers having a positive upper density.

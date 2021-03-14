@@ -1,0 +1,1 @@
+We present an algorithm for the computation of logarithmic l-class groups of number fields. Our principal motivation is the effective determination of the l-rank of the wild kernel in the K-theory of number fields.

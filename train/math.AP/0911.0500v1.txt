@@ -1,0 +1,1 @@
+Assuming some \dot H^{1/2} - initial data lead to a singularity for the 3d Navier-Stokes equations, we show that there are also initial data with the minimal \dot H^{1/2} - norm which will produce a singularity.

@@ -1,0 +1,1 @@
+We prove pointwise in time decay estimates via an abstract conjugate operator method. This is then applied to a large class of dispersive equations.

@@ -1,0 +1,1 @@
+For a representation of a Lie algebra, one can construct a diagram of the representation, i. e. a directed graph with edges labeled by matrix elements of the representation. This article explains how to use these diagrams to describe normal forms, orbits and invariants of the representation, especially for the case of nilpotent Lie algebras.

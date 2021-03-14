@@ -1,0 +1,1 @@
+In this paper we show how generalized quaternions, including 2X2 matrices, can be used to find solutions of a non-commuting equation intimately connected with braid groups. These solutions can then be used to find polynomial invariants of virtual knots and links.

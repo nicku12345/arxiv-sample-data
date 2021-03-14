@@ -1,0 +1,1 @@
+We consider the classical Brezis-Nirenberg problem in the unit ball of \mathbb{R}^N, N\geq 3 and analyze the asymptotic behavior of nodal radial solutions in the low dimensions N=3,4,5,6 as the parameter converges to some limit value which naturally arises from the study of the associated ordinary differential equation.

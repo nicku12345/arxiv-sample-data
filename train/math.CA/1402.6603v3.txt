@@ -1,0 +1,1 @@
+We propose a simple uniform lower bound on the spacings between the successive zeros of the Laguerre polynomials L_n^{(\alpha)} for all \alpha>-1. Our bound is sharp regarding the order of dependency on n and \alpha in various ranges. In particular, we recover the orders given in \cite{ahmed} for \alpha \in (-1,1].

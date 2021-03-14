@@ -1,0 +1,1 @@
+This paper gives a connection between well chosen reductions of the Links-Gould invariants of oriented links and powers of the Alexander-Conway polynomial. We prove these formulas by showing the representations of the braid groups we derive the specialized Links-Gould polynomials from can be seen as exterior powers of copies of Burau representations.

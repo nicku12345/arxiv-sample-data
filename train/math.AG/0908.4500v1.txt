@@ -1,0 +1,1 @@
+We bound the maximal number N of singular points of a plane algebraic curve C that has precisely one place at infinity with one branch in terms of its first Betti number b_1(C). Asymptotically we prove that N<\sim{17/11}b_1(C) for large b_1. In particular, in the case of curves with one place at infinity, we confirm the Zaidenberg and Lin conjecture stating that N\le 2b_1+1.

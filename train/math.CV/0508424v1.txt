@@ -1,0 +1,1 @@
+Let M be a real analytic strictly pseudoconvex manifold of higher codimension in complex space, and let M' be the cartesian product of two or more compact real analytic strictly convex hypersurfaces. We prove that a germ of a biholomorphic map taking an open set in M to M' extends as a biholomorphic map along any path in M.

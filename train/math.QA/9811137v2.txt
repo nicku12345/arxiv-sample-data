@@ -1,0 +1,1 @@
+This paper is an exposition of heuristics related to Witten's functional integral, relating it to Vassiliev invariants and to the Kontsevich integrals that can be used to produce Vassiliev invariants of knots and links.In particular, we give a simplified version of the appearance of the Kontsevich integrals in the perturbation expansion of the functional integral.

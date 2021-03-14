@@ -1,0 +1,1 @@
+Let H be a complex infinite dimensional Hilbert space. We describe the form of all *-semigroup endomorphisms \phi of B(H) which are uniformly continuous on every commutative C*-subalgebra. In particular, we obtain that if \phi satisfies \phi(0)=0, then \phi is additive.

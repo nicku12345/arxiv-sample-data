@@ -1,0 +1,1 @@
+We give two algorithms for computing the Hilbert depth of a \emph{graded ideal} in the polynomial ring. These algorithms work efficiently for (squarefree) lex ideals. As a consequence, we construct counterexamples to some conjectures made by Shen in \cite{B:Sh2}.

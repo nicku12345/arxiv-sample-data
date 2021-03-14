@@ -1,0 +1,1 @@
+We show how to store good approximations of probability distributions in small space.

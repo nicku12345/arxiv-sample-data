@@ -1,0 +1,1 @@
+In this paper we propose a new method for determination of the two-term Machin-like formula for pi with arbitrarily small arguments of the arctangent function. This approach excludes irrational numbers in computation and leads to a significant improvement in convergence with decreasing arguments of the arctangent function.

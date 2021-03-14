@@ -1,0 +1,1 @@
+We give natural extensions for the alpha-Rosen continued fractions of Dajani et al. for a set of small alpha values by appropriately adding and deleting rectangles from the region of the natural extension for the standard Rosen fractions. It follows that the underlying maps have equal entropy.

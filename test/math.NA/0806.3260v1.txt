@@ -1,0 +1,1 @@
+We prove that the cycle-convergence of the restarted GMRES applied to a system of linear equations with a normal coefficient matrix is sublinear.

@@ -1,0 +1,1 @@
+In this paper, we study Ornstein-Uhlenbeck operators with quadratic potentials. We use Hamiltonian formalism to characterise the singularities produced by the potentials by finding explicit geodesics of the operators, and obtain the heat kernels via a probabilistic ansatz. All the formulae are closed.

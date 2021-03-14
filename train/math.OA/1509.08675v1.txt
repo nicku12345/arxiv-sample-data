@@ -1,0 +1,1 @@
+We generalize classical orthogonalization procedures from real linear algebra to the setting of fermionic quantum (FQ) operations. In the case of the Gram-Schmidt orthogonalization procedure, the generalization is easy. This, however, helps to obtain general information regarding FQ operations, and to generalize the symmetric orthogonalization procedure.

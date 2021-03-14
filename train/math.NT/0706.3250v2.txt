@@ -1,0 +1,1 @@
+We derive lower and upper bounds on possible growth rates of certain sets of positive integers A_k=\{1= a_1 < a_2 < ... < a_{k}\} such that all integers n\in \{0, 1, 2, ..., ka_{k}\} can be represented as a sum of no more than k elements of A_k, with repetition.

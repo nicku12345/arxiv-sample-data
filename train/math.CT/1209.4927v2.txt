@@ -1,0 +1,1 @@
+We show that history-preserving bisimilarity for higher-dimensional automata has a simple characterization directly in terms of higher-dimensional transitions. This implies that it is decidable for finite higher-dimensional automata. To arrive at our characterization, we apply the open-maps framework of Joyal, Nielsen and Winskel in the category of unfoldings of precubical sets.

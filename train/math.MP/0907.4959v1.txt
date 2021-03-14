@@ -1,0 +1,1 @@
+The Hamilton-Jacobi method which can be used for solving this equation has been presented. The solution of the equation suggests that there exist some second order linear ordinary differential equations whose resolution can be done by means of characteristic equation.

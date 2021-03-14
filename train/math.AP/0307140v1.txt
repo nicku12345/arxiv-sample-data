@@ -1,0 +1,1 @@
+We consider a strictly hyperbolic, genuinely nonlinear system of conservation laws in one space dimension. A sharp decay estimate is proved for the positive waves in an entropy weak solution. The result is stated in terms of a partial ordering among positive measures, using symmetric rearrangements and a comparison with a solution of Burgers' equation with impulsive sources.

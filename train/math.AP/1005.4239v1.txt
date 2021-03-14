@@ -1,0 +1,1 @@
+We prove Fatou type theorems for solutions of the heat equation in sub- Riemannian spaces. The doubling property of L-caloric measure, the Dahlberg estimate, the local comparison theorem, among other results, are established here. A backward Harnack inequality is proved for non-negative solutions vanishing in the lateral boundary.

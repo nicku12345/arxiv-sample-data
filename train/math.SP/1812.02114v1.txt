@@ -1,0 +1,1 @@
+In this note, we study the spectrum of the Kohn Laplacian on the unit spheres in \mathbb{C}^n and revisit Folland's classical eigenvalue computation. We also look at the growth rate of the eigenvalue counting function in this context. Finally, we consider the growth rate of the eigenvalues of the perturbed Kohn Laplacian on the Rossi sphere in \mathbb{C}^2.

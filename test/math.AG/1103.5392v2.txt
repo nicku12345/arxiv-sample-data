@@ -1,0 +1,1 @@
+Let X be a compact K\"ahler manifold whose universal covering is \mathbb C^n. A conjecture of Iitaka claims that X is a torus, up to finite \'etale cover. We prove this conjecture in various cases in dimension four. We also show that in the projective case Iitaka's conjecture is a consequence of the non-vanishing conjecture.

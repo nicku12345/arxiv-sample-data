@@ -1,0 +1,1 @@
+We study weak and strong survival for branching random walks on multigraphs. We prove that, for a large class of multigraphs, weak survival is related to a geometrical parameter of the multigraph and that the existence of a pure weak phase is equivalent to nonamenability. Finally we study weak and strong critical behaviors of the branching random walk.

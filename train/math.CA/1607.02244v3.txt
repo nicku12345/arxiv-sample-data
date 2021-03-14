@@ -1,0 +1,1 @@
+We show that the class of quasisymmetric maps between horizontal self-affine carpets is rigid. Such maps can only exist when the dimensions of the carpets coincide, and in this case, the quasisymmetric maps are quasi-Lipschitz. We also show that horizontal self-affine carpets are minimal for the conformal Assouad dimension.

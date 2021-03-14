@@ -1,0 +1,1 @@
+Given a substitution tiling T of the plane with subdivision operator \tau, we study the conformal tilings \mathcal{T}_n associated with \tau^n T. We prove that aggregate tiles within \mathcal{T}_n converge in shape as n\rightarrow \infty to their associated Euclidean tiles in T.

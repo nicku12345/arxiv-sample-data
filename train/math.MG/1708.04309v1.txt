@@ -1,0 +1,1 @@
+In this paper, we study regular sets in metric measure spaces with bounded Ricci curvature. We prove that the existence of a point in the regular set of the highest dimension implies the positivity of the measure of such regular set. Also we define thee dimension of metric measure spaces and prove the lower semicontinuity of that under the Gromov-Hausdorff convergence.

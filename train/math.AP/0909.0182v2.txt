@@ -1,0 +1,1 @@
+We give two different simple proofs for the removable singularities of the heat equation in (\Omega\setminus\{x_0\})\times (0,T) with n\ge 3. We also give a necessary and sufficient condition for removable singularities of the heat equation in (\Omega\setminus\{x_0\})\times (0,T) for the case n=2.

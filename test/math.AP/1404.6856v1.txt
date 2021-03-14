@@ -1,0 +1,1 @@
+We establish the local existence and the uniqueness of solutions of the heat equation with a nonlinear boundary condition for the initial data in uniformly local L^r spaces. Furthermore, we study the sharp lower estimates of the blow-up time of the solutions with the initial data \lambda\psi as \lambda\to 0 or \lambda\to\infty and the lower blow-up estimates of the solutions.

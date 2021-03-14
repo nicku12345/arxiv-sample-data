@@ -1,0 +1,1 @@
+We show that every internal biequivalence in a tricategory T is part of a biadjoint biequivalence. We give two applications of this result, one for transporting monoidal structures and one for equipping a monoidal bicategory with invertible objects with a coherent choice of those inverses.

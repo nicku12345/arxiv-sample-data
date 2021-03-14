@@ -1,0 +1,1 @@
+We classify the affine connections on compact orientable surfaces for which the pseudogroup of local isometries acts transitively. We prove that such a connection is either torsion-free and flat, the Levi-Civita connection of a Riemannian metric of constant curvature or the quotient of a translation-invariant connection in the plane.

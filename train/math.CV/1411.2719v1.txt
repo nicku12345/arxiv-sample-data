@@ -1,0 +1,1 @@
+We discuss some results around the following question: Let f be a nonconstant complex entire function and a, b two distinct complex numbers. If f and its derivative f' share their simple a-points and also share the value b, does this imply f\equiv f'?

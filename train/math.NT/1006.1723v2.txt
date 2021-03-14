@@ -1,0 +1,1 @@
+We study the Epstein zeta function E_n(L,s) for s>\frac{n}{2} and determine for fixed c>\frac{1}{2} the value distribution and moments of E_n(\cdot,cn) (suitably normalized) as n\to\infty. We further discuss the random function c\mapsto E_n(\cdot,cn) for c\in[A,B] with \frac{1}{2}<A<B and determine its limit distribution as n\to\infty.

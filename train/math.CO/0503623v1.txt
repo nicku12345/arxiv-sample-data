@@ -1,0 +1,1 @@
+We show that any n-vertex graph without even cycles of length at most 2k has at most 1/2(n^{1 + 1/k}) + O(n) edges, and polarity graphs of generalized polygons show that this is asymptotically tight when k = 2,3,5.

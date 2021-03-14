@@ -1,0 +1,1 @@
+Let G be a finite group and let \pi be a set of primes. In this paper, we prove a criterion for the existence of a solvable \pi-Hall subgroup of G, precisely, the group G has a solvable \pi-Hall subgroup if, and only if, G has a \{p,q\}-Hall subgroup for any pair p, q\in\pi.

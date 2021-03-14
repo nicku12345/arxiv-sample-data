@@ -1,0 +1,1 @@
+We observe that a finitely generated algebraic algebra R (over a field) is finite dimensional if and only if the associated graded ring grR is right noetherian, if and only if grR has right Krull dimension, if and only if grR satisfies a polynomial identity.

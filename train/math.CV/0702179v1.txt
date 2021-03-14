@@ -1,0 +1,1 @@
+Given an unbounded strongly pseudoconvex domain D and a continuous real valued function h defined on bD, we study the existence of a (maximal) plurisubharmonic function u on D such that u=h on bD.

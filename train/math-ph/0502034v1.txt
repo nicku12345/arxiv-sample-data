@@ -1,0 +1,1 @@
+Lambda-symmetries of ODEs were introduced by Muriel and Romero, and discussed by C. Muriel in her talk at SPT2001. Here we provide a geometrical characterization of lambda-prolongations, and a generalization of these -- and of lambda-symmetries -- to PDEs and systems thereof.

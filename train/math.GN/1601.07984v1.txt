@@ -1,0 +1,1 @@
+It is solved the problem on constructed of separately continuous functions on product of two topological spaces with given restriction. In particular, it is shown that for every topological space X and first Baire class function g:X\to \bf R there exists separately continuous function f:X\times X \to \bf R such that f(x,x)=g(x) for every x\in X.

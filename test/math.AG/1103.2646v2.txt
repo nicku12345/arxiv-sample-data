@@ -1,0 +1,1 @@
+We prove that the moduli space \mathcal{M}_g of smooth curves of genus g is the union of g-1 affine open subsets for every g with 2 \le g \le 5, as predicted by an intriguing conjecture of Eduard Looijenga.

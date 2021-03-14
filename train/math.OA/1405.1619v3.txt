@@ -1,0 +1,1 @@
+A Morita equivalence similar to that found by Green for crossed products by groups will be established for crossed products by inverse semigroups. More precisely, let G be an inverse semigroup, H a finite sub-inverse semigroup of G and A a G-algebra or a H-algebra. Then the crossed product A \rtimes H is Morita equivalent to a certain crossed product B \rtimes G.

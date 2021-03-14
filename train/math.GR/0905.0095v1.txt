@@ -1,0 +1,1 @@
+We construct a hyperbolic group with a finitely presented subgroup, which has infinitely many conjugacy classes of finite-order elements.   We also use a version of Morse theory with high dimensional horizontal cells and use handle cancellation arguments to produce other examples of subgroups of CAT(0) groups with infinitely many conjugacy classes of finite-order elements.

@@ -1,0 +1,1 @@
+This article studies the behaviour under liaison of the deficiency modules of schemes that are not assumed to be Cohen-Macaulay. Our study uses in particular a generalization of Serre duality, and gives a satisfactory description of this behaviour in dimension at most three. On the way we show other properties of linked schemes.

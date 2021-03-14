@@ -1,0 +1,1 @@
+We construct an algebraic weak factorization system (L, R) on the cartesian cubical sets, in which the canonical path object factorization A \to A^I \to A\times A induced by the 1-cube I is an L-R factorization for any R-object A.

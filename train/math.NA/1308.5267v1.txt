@@ -1,0 +1,1 @@
+In this paper we consider the approximation of a function by its interpolating multilinear spline and the approximation of its derivatives by the derivatives of the corresponding spline. We derive formulas for the uniform approximation error on classes of functions with moduli of continuity bounded above by certain majorants.

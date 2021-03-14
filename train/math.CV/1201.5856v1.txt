@@ -1,0 +1,1 @@
+In this paper, we show that the chordal Loewner differential equation with C^{\beta} driving function generates a C^{\beta + 1/2} slit for 1/2 < \beta \leq 2, except when \beta = 3/2 the slit is only proved to be weakly C^{1,1}.

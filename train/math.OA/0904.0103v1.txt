@@ -1,0 +1,1 @@
+It is shown that a trace invariant projection map, i.e. a positive unital idempotent map, of a finite dimensional C*-algebra into itself is non-decomposable if and only if it is atomic, or equivalently not the sum of a 2-positive and a 2-copositive map. In particular projections onto spin factors of dimension greater than 6 are atomic.

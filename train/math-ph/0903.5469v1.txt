@@ -1,0 +1,1 @@
+In this short note we give some techniques for constructing, starting from a {\it sufficient} family \mc F of semifinite or finite traces on a von Neumann algebra \M, a new trace which is faithful.

@@ -1,0 +1,1 @@
+In this paper a new result of recovery of sparse vectors from deterministic and noisy measurements by l1 minimization is given. The sparse vector is randomly chosen and follows a generic p-sparse model introduced by Candes and al. The main theorem ensures consistency of l1 minimization with high probability. This first result is secondly extended to compressible vectors.

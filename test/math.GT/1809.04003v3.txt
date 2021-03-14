@@ -1,0 +1,1 @@
+Given the notion of suborbifold of the second author (based on ideas of Borzellino/Brunsden) and the classical correspondence (up to certain equivalences) between (effective) orbifolds via atlases and effective orbifold groupoids, we analyze which groupoid embeddings correspond to suborbifolds and give classes of suborbifolds naturally leading to groupoid embeddings.

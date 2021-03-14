@@ -1,0 +1,1 @@
+We consider a spinless particle coupled to a photon field and prove that even if the Schr\"odinger operator p^2 + V does not have eigenvalues the system can have a ground state. We describe the coupling by means of the Pauli-Fierz Hamiltonian and our result holds in the case where the coupling constant \alpha is small.

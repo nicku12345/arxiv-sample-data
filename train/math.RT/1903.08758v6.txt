@@ -1,0 +1,1 @@
+In this thesis, I will prove the existence of two filtrations of the cohomology of line bundles on SL_3/B. The first one is a two-step filtration that exists for H^1(\mu) and H^2(\mu) if \mu is in the Griffith region. The second one exists for all H^i(\mu), which is similar to the p-filtration that has been considered by Jens Carsten Jantzen.

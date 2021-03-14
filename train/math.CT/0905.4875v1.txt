@@ -1,0 +1,1 @@
+Let \xi\geq 1 be a countable ordinal. We study the Borel subsets of the plane that can be made {\bf\Pi}^0_\xi by refining the Polish topology on the real line. These sets are called potentially {\bf\Pi}^0_\xi. We give a Hurewicz-like test to recognize potentially {\bf\Pi}^0_\xi sets.

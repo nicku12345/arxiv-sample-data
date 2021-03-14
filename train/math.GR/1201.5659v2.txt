@@ -1,0 +1,1 @@
+We modify tools introduced by Daniel Daly and Petr Vojtechovsky in order to count, for any odd prime q, the number of nilpotent loops of order 2q up to isotopy, instead of isomorphy.

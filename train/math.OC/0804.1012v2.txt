@@ -1,0 +1,1 @@
+We discuss controllability of systems that are initially given by boundary coupled p.d.e. of second order. Those systems may be described by modules over a certain subring R of the ring of Mikusinski operators with compact support. We show that the ring R is a Bezout domain. This property is utilized in order to derive algebraic and trajectory related controllability results.

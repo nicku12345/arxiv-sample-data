@@ -1,0 +1,1 @@
+Critical circle homeomorphisms have an invariant measure totally singular with respect to the Lebesgue measure. We prove that singularities of the invariant measure are of Holder type. The Hausdorff dimension of the invariant measure is less than 1 but greater than 0.

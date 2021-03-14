@@ -1,0 +1,1 @@
+It is shown that if (M,phi,alpha) is a W*-dynamical system with M a type I von Neumann algebra then the entropy of alpha w.r.t. phi equals the entropy of the restriction of alpha to the center of M. If furthermore (N,psi,beta) is a W*-dynamical system with N injective then the entropy of the tensor product system is the sum of the entropies.

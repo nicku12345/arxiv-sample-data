@@ -1,0 +1,1 @@
+A multidimensional version of the Yamada-Watanabe theorem is proved. It implies a spectral matrix Yamada-Watanabe theorem. It is also applied to particle systems of squared Bessel processes, corresponding to matrix analogues of squared Bessel processes: Wishart and Jacobi matrix processes. The beta-versions of these particle systems are also considered.

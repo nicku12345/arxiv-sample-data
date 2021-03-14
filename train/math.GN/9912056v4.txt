@@ -1,0 +1,1 @@
+Let a finite non-empty X is equipped with discrete topology. We prove that S \subseteq X^\omega is of second category if and only if for each f:\omega -> \bigcup_{n \in \omega} X^n there exists a sequence {a_n}_{n \in \omega} belonging to S such that for infinitely many i \in \omega the infinite sequence {a_{i+n}}_{n \in \omega} extends the finite sequence f(i).

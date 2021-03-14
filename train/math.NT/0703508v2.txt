@@ -1,0 +1,1 @@
+We define a family {\gamma(P)} of generalized Euler constants indexed by finite sets of primes P and study their distribution. These arise from partial sums of reciprocals of integers not divisible by any prime in P. An apparent monotonicity is investigated. We also prove that a certain property of these numbers is equivalent to the Riemann Hypothesis.

@@ -1,0 +1,1 @@
+Let G be a finite group. We prove a theorem implying that the orders of elements of the holomorph \operatorname{Hol}(G) are bounded from above by |G|, and we discuss an application to bounding automorphism orders of finite groups.

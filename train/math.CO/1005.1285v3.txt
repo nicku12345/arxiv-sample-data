@@ -1,0 +1,1 @@
+We derive an asymptotic formula for the number of strongly connected digraphs with n vertices and m arcs (directed edges), valid for m-n\to\infty as n\to \infty provided m=O(n\log n). This fills the gap between Wright's results which apply to m=n+O(1), and the long-known threshold for m, above which a random digraph with n vertices and m arcs is likely to be strongly connected.

@@ -1,0 +1,1 @@
+We give a rigorous derivation of Fourier's law from a system of closure equations for a nonequilibrium stationary state of a Hamiltonian system of coupled oscillators subjected to heat baths on the boundary. The local heat flux is proportional to the temperature gradient with a temperature dependent heat conductivity and the stationary temperature exhibits a nonlinear profile.

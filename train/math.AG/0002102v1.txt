@@ -1,0 +1,1 @@
+An explicit projective embedding of the moduli space of marked cubic surfaces is given. This embedding is equivariant under the Weyl group of type E6. The image is defined by a system of linear and cubic equations. To express the embedding in a most symmetric way, the target would be 79-dimensional, however the image lies in a 9-dimensional linear subspace.

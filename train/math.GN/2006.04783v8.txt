@@ -1,0 +1,1 @@
+Let \dot E(f) denote the set of all endpoints of the Julia set of f(z)=\exp(z)-1 which escape to infinity under iteration of f. We prove that \dot E(f) is not homeomorphic to Erd\H{o}s space \mathfrak E. Our methods show that the set of all points z\in \mathbb C whose orbits either escape to \infty or attract to 0 is path-connected.

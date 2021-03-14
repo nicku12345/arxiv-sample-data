@@ -1,0 +1,1 @@
+We introduce a geometric property complementary-finite asymptotic dimension (coas- dim). Similar with asymptotic dimension, we prove the corresponding coarse invariant theorem, union theorem and Hurewicz-type theorem.

@@ -1,0 +1,1 @@
+Prolongations of a group extension can be studied in a more general situation that we call group extensions of the co-type of a crossed module. Cohomology classification of such extensions is obtained by applying the obstruction theory of monoidal functors.

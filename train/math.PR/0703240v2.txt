@@ -1,0 +1,1 @@
+We give a new characterization for the convergence in distribution to a standard normal law of a sequence of multiple stochastic integrals of a fixed order with variance one, in terms of the Malliavin derivatives of the sequence. We extend our result to the multidimensional case and prove a weak convergence result for a sequence of square integrable random variables.

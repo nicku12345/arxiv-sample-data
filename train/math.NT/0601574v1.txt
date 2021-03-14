@@ -1,0 +1,1 @@
+Currently the circle and the sieve methods are the key tools in analytic number theory. In this paper the unifying theme of the two methods is shown to be the Ramanujan - Fourier series.

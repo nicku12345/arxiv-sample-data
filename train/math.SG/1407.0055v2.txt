@@ -1,0 +1,1 @@
+Gunningham [G] constructed an extended topological quantum field theory (TQFT) to obtain a closed formula for all spin Hurwitz numbers. In this note, we use the gluing theorem in [LP2] to re-prove the Gunningham's formula. We also describe a TQFT formalism naturally induced from the gluing theorem.

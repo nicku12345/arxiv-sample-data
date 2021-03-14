@@ -1,0 +1,1 @@
+In this paper, we define several measures induced by a finite directed graph. The study themselves is interesting ont only in the noncommutative probability point of view but also in the algebraic structure point of view, since to define graph measures we defined several rough algebraic structures induced by the given graph.

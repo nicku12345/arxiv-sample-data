@@ -1,0 +1,1 @@
+The aim of this paper is to construct invariant regions of a generalized m-component reaction-diffusion system with a tri-diagonal Toeplitz matrix of diffusion coefficients and prove the global existence of solutions using Lyapunov functional. The paper assumes nonhomogeneous boundary conditions and polynomial growth for the non-linear reaction term.

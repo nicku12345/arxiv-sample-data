@@ -1,0 +1,1 @@
+The aim of this work is to generalize Johnson's techniques in order to apply them to establish a bijective correspondence between S-derivations and continuous derivations on M_a(S,\omega), where S is a locally compact foundation semigroup with identity e, and \omega is a weight function on S, and apply it to find a necessary condition for amenability of weighted group algebras.

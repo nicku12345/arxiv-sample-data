@@ -1,0 +1,1 @@
+We analyze the asymptotics of crossing a high piecewise linear barriers by a renewal compound process with the subexponential jumps. The study is motivated by ruin probabilities of two insurance companies (or two branches of the same company) that divide between them both claims and premia in some specified proportions when the initial reserves of both companies tend to infinity.

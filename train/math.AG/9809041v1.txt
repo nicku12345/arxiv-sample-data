@@ -1,0 +1,1 @@
+We construct a family of plane curves as pull-backs of a conic for abelian coverings of P^2. If the conic is tangent to the ramification lines one obtains a family of curves of degree 2n with 3n singularities of type A_{n-1}. We calculate the fundamental group and Alexander polynomial for any member of this family and for some deformations of it.

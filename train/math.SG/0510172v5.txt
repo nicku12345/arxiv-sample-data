@@ -1,0 +1,1 @@
+We use the minimal coupling procedure of Sternberg and Weinstein and our pseudo-symplectic capacity theory to prove that every closed symplectic submanifold in any symplectic manifold has an open neighborhood with finite (\pi_1-sensitive) Hofer-Zehnder symplectic capacity. Consequently, the Weinstein conjecture holds near closed symplectic submanifolds in any symplectic manifold.

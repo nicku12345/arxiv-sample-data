@@ -1,0 +1,1 @@
+The relation between the girth and the error correction capability of column-weight-three LDPC codes is investigated. Specifically, it is shown that the Gallager A algorithm can correct g/2-1 errors in g/2 iterations on a Tanner graph of girth g \geq 10.

@@ -1,0 +1,1 @@
+It's well known that in the high-level error bound for multiquadric interpolation there is a crucial constant lambda lying between 0 and 1 which connot be calculated or even approximated. The purpose of this paper is to answer this question.

@@ -1,0 +1,1 @@
+We show that if (X,T) is a topological dynamical system with is deterministic in the sense of Kamiski, Siemaszko and Szymaski then T^{-1} and the product system need not be determinstic in this sense. However if the product system is deterministic then T^n is deterministic for all integers n>0.

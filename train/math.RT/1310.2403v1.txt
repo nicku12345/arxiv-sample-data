@@ -1,0 +1,1 @@
+We give a construction that in many cases gives a simple way to construct infinite families of algebras that are not Morita equivalent, but are all derived equivalent to the same block algebra of a finite group, and apply it to some small blocks. We make some remarks relating this construction to Donovan's Conjecture and Broue's Abelian Defect Group Conjecture.

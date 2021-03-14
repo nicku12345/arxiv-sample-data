@@ -1,0 +1,1 @@
+In this paper I try to construct the Anick's resolution for the Temperley-Lieb algebra TL_3 and bar homology Tor_\ast^{TL_3}(\mathbb{C},\mathbb{C}) and shows that how \tau \in \mathbb{C} given in the definition of TL_3 is actively involved in the differentials both in free resolution and bar homology. It suggests that the bar homology depends on the nature of \tau.

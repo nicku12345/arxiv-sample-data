@@ -1,0 +1,1 @@
+In this paper we give a definition of cyclic orthonormal generators (cogs) in R^N. We give a general canonical form for their expression. Further, we give an explicit formula for computing the canonical form of any given cog.

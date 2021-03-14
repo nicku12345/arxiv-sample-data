@@ -1,0 +1,1 @@
+The large Schroder numbers are known to count several classes of permutations avoiding two 4-letter patterns. Here we show they count another family of permutations, those whose left to right minima decomposition, when reversed, is 321-avoiding. The main tool is the Mansour-Deng-Du bijection from 321-avoiding permutations to Dyck paths.

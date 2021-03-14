@@ -1,0 +1,1 @@
+We build an irrational pseudo-rotation of the 2-torus which is semiconjugate to an irrational rotation of the circle in such a way that all the fibres of the semi-conjugacy are pseudo-circles. The proof uses the well-known `fast-approximation method' introduced by Anosov and Katok.

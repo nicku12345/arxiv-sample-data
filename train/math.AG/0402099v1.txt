@@ -1,0 +1,1 @@
+In this paper, we investigate when there exists a wild hypersurface bundle over a smooth proper toric variety in positive characteristic. In particular, we determine the possibilities for toric varieties with Picard number at most three or toric Fano varieties of dimension at most four. Moreover, we can construct wild hypersurface bundles over them.

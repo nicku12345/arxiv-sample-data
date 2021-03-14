@@ -1,0 +1,1 @@
+We show from a weak comparison principle (the Ultrapower Axiom) that the Mitchell order is linear on certain kinds of ultrafilters: normal ultrafilters, Dodd solid ultrafilters, and assuming GCH, generalized normal ultrafilters. In the process we prove a generalization of Solovay's lemma to singular cardinals.

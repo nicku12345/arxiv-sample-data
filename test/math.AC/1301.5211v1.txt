@@ -1,0 +1,1 @@
+Given a univariate polynomial f(x) over a ring R, we examine when we can write f(x) as g(h(x)) where g and h are polynomials of degree at least 2. We answer two questions of Gusic regarding when the existence of such g and h over an extension of R implies the existence of such g and h over R. We also pose two new questions along these lines.

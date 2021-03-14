@@ -1,0 +1,1 @@
+We revisit a recent paper of Fialowski and Iohara. They compute the homology of the Lie algebra \mathfrak{gl}(\infty,R) for R an associative unital algebra over a field of characteristic zero. We explain how to obtain essentially the same results by a completely different method.

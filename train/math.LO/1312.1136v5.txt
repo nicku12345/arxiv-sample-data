@@ -1,0 +1,1 @@
+Following G. Mints(Kluwer 2000 and draft 2013), we present terminating and bicomplete proof searches in multi-succedent sequent calculi for intuitionistic propositional logic, fragments of intuitionistic predicate logic and full intuitionistic predicate logic in the spirit of Schuette's schema.

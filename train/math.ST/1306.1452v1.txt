@@ -1,0 +1,1 @@
+A simple estimator for the finite right endpoint of a distribution function in the Gumbel max-domain of attraction is proposed. Large sample properties such as consistency and the asymptotic distribution are derived. A simulation study is also presented.

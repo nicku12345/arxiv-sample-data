@@ -1,0 +1,1 @@
+In 2012, Bartholdi, Siegenthaler, and Zalesskii computed the rigid kernel of the Hanoi towers group. We present a simpler proof that the rigid kernel is the Klein 4 group. In the course of the proof, we also compute the rigid stabilizers and present proofs that this group is a self-similar, recurrent, regular branch group.

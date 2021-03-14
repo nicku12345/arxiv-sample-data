@@ -1,0 +1,1 @@
+Consider a representation \rho\colon L \to \mathfrak{gl}(V) where L is a Lie algebra and V is a finite dimensional vector space. We prove the analog of Amitsur's conjecture on asymptotic behavior for codimensions of polynomial identities of \rho.

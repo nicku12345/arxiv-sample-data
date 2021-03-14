@@ -1,0 +1,1 @@
+We give a simple proof of a pointwise decay estimate in 3+1 dimensions stated in two versions, making advantage of a particular simplicity of inverting the spherically symmetric part of the wave operator and of the comparison theorem. We briefly explain the role of this estimate in proving decay estimates for nonlinear wave equations or wave equations with potential terms.

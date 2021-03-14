@@ -1,0 +1,1 @@
+For the groups SO(2n+1,F), where F is a p-adic field, we consider the tempered irr{\'e}ducible representations of unipotent reduction. Lusztig has contructed and parametrized these representations. We prove that they satisfy the expected endoscopic identities which determine the parametrization.

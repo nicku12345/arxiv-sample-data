@@ -1,0 +1,1 @@
+We discuss generalizations of classical theta series, requiring only some basic properties of the classical setting. As it turns out, the existence of a generalized theta transformation formula implies that the series is defined over a quasi-symmetric Siegel domain. In particular the exceptional symmetric tube domain does not admit a theta function.

@@ -1,0 +1,1 @@
+In the paper (Osaka J. Math. {\bf 46}: 403-409, 2009), Yang conjectured that a non-elementary subgroup G of SL(2, \bc) containing elliptic elements is discrete if for each elliptic element g\in G the group < f, g > is discrete, where f\in SL(2,\bc) is a test map which is loxodromic or elliptic. The purpose of this paper is to give an affirmative answer to this question.

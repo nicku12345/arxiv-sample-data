@@ -1,0 +1,1 @@
+The abstract notion of Tamarkin-Tsygan calculus with duality gives Batalin- Vilkovisky structures in a general setting. We apply this technique to the case of Van den Bergh duality for algebras to prove that Calabi-Yau algebras are BV-algebras.

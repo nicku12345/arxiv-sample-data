@@ -1,0 +1,1 @@
+We present the poset of Borel congruence classes of anti-symmetric matrices ordered by containment of closures. We show that there exists a bijection between the set of these classes and the set of involutions of the symmetric group. We give two formulas for the rank function of this poset.

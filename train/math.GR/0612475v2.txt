@@ -1,0 +1,1 @@
+The notion of a topological Jordan decomposition of a compact element of a reductive p-adic group has proven useful in many contexts. In this paper, we generalise it to groups defined over fairly general discretely-valued fields and prove the usual existence and uniqueness properties, as well as an analogue of a fixed-point result of Prasad and Yu.

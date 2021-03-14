@@ -1,0 +1,1 @@
+A quantum group of type A is defined as a Hopf algebra associated to a Hecke symmetry. We show the homology of a Koszul complex associated to the Hecke symmetry is one dimensional and determines a group-like element in the Hopf algebra. This group-like element can be interpreted as a homological determinant as suggested by Yu. Manin.

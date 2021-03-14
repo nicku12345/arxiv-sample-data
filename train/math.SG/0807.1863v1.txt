@@ -1,0 +1,1 @@
+We use the theory of pseudo-holomorphic quilts to establish a counterpart, in symplectic Floer homology, to the Gysin sequence for the homology of a sphere-bundle. In a motivating class of examples, this "symplectic Gysin sequence" is precisely analogous to an exact sequence describing the behaviour of Seiberg-Witten monopole Floer homology for 3-manifolds under connected sum.

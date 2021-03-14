@@ -1,0 +1,1 @@
+In this paper we will study three hypotheses proposed by L. I. Rozonoer (Automation and Remote Control, 2003, vol.64, no.8, pp.1237--1240) in optimal control theory in order to derive conditions for the existence of an optimal control under all initial conditions, and the relationships between Pontryagin maximum principle and the dynamic programming method.

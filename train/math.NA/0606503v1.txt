@@ -1,0 +1,1 @@
+We study the optimal approximation of the solution of an operator equation Au=f by linear and nonlinear mappings.   We identify those cases where optimal nonlinear approximation is better than optimal linear approximation.

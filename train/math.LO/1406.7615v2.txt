@@ -1,0 +1,1 @@
+Suppose that M is an infinite structure with finite relational vocabulary such that every relation symbol has arity at most 2. If M is simple and homogeneous then its complete theory is supersimple with finite SU-rank which cannot exceed the number of complete 2-types over the empty set.

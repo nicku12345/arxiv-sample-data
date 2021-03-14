@@ -1,0 +1,1 @@
+We show that if a co-dimension two knot is deform-spun from a lower-dimensional co-dimension 2 knot, there are constraints on the Alexander polynomials. In particular this shows, for all n, that not all co-dimension 2 knots in S^n are deform-spun from knots in S^{n-1}.

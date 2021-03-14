@@ -1,0 +1,1 @@
+Let G be a minimal locally compact groupoid with compact metrizable unit space and let E be a continuous G-Hilbert bundle. We show that a bounded continuous cocycle c: G\ra r^*E is necessarily a continuous coboundary. This is a groupoid version of a classical theorem of Gottschalk and Hedlund.

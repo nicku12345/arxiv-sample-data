@@ -1,0 +1,1 @@
+Through the method of brick decomposition and the operations on essential topological lines, we generalize the line translation theorem of Beguin, Crovisier, Le Roux [BCL] in the case where the property of preserving a finite measure with total support is replaced by the intersection property.

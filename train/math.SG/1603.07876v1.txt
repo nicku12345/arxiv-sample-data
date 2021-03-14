@@ -1,0 +1,1 @@
+We prove Arnol'd's three cusps conjecture about the front of Legendrian curves in the projectivized cotangent bundle of the 2-sphere. We use the microlocal theory of sheaves of Kashiwara and Schapira and study the derived category of sheaves on the 2-sphere with a given smooth Lagrangian microsupport.

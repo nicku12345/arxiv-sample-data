@@ -1,0 +1,1 @@
+We publicise a proof of the Jordan Curve Theorem which relates it to the Phragmen-Brouwer Property, and whose proof uses the van Kampen theorem for the fundamental groupoid on a set of base points.

@@ -1,0 +1,1 @@
+Let M_{\Omega,\alpha} and T_{\Omega,\alpha} be the fractional maximal and integral operators with rough kernels, where 0<\alpha<n. In this paper, we shall study the continuity properties of M_{\Omega,\alpha} and T_{\Omega,\alpha} on the weighted Morrey spaces L^{p,\kappa}(w). The boundedness of their commutators with BMO functions is also obtained.

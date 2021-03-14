@@ -1,0 +1,1 @@
+We use Salem's method to prove that there is a lower bound for partial sums of series of bi-orthogonal vectors in a Hilbert space, or the dual vectors. This is applied to some lower bounds on L^{1} norms for orthogonal expansions. There is also an application concerning linear algebra.

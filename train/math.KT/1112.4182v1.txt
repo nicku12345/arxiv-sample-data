@@ -1,0 +1,1 @@
+We define the Chern map from the Grothendieck group of a linear category C to the de Rham cohomology of C with coefficients in a DG-category. In order to achieve our goal, we define the notion of connection on a C-module, and we show that the trace of the curvature of a connection is a de Rham cocycle, whose cohomology class does not depend on the choice of the connection.

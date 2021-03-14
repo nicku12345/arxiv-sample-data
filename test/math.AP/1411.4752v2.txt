@@ -1,0 +1,1 @@
+This note is concerned with proving the finite speed of propagation for some non-local porous medium equation by adapting arguments developed by Caffarelli and V\'azquez (2010).

@@ -1,0 +1,1 @@
+In a previous paper the second author developed a new approach to the abelian p-adic Stark Conjecture at s=1 and stated some related conjectures. This paper develops and applies techniques using p-adic measures and continued fractions to numerically investigate one of these conjectures to high precision in fifteen cases with a real quadratic base field.

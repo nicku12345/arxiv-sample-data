@@ -1,0 +1,1 @@
+In the context of the Anderson model, Minami proved a Wegner type bound on the expectation of 2 by 2 determinant of Green's functions. We generalize it so as to allow for a magnetic field, as well as to determinants of higher order.

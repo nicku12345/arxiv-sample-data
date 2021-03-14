@@ -1,0 +1,1 @@
+Let G be a finite abelian subgroup of PGL(r-1,K)=\mathrm{Aut}(\P^{r-1}_K). In this paper, we prove that the normalization of the G-orbit Hilbert scheme \Hilb^G(\P^{r-1}) is described as a toric variety, which corresponds to the Gr\"obner fan for some homogeneous ideal I of K[x_1, ..., x_r].

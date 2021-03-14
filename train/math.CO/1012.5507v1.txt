@@ -1,0 +1,1 @@
+We provide an example of a 6-by-6 matrix with tropical rank equal to 4 and Kapranov rank equal to 5. This answers a question asked by M. Chan, A. Jensen, and E. Rubei.

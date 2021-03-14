@@ -1,0 +1,1 @@
+We examine words w satisfying the following property: if x is a subword of w and |x| is at least k for some fixed k, then the reversal of x is not a subword of w.

@@ -1,0 +1,1 @@
+The derived category of a Gorenstein triangular matrix algebra A admits an unbounded ladder, which is of period 3 if A = T_2(B). Also, a left recollement of triangulated categories with Serre functors sits in a ladder of period 1; as an application, the singularity category of A admits a ladder of period 1.

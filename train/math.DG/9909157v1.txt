@@ -1,0 +1,1 @@
+The curvature tensor and the scalar curvature are computed in the space of positive definite real matrices endowed by the Kubo-Mori inner product as a Riemannian metric.

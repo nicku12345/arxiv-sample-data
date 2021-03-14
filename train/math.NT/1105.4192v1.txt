@@ -1,0 +1,1 @@
+We give an improved asymptotic upper bound on the number of diagonal Fermat curves Ax^{\ell}+By^{\ell}=z^{\ell} over \mathbb{F}_{q} with no \mathbb{F}_{q}-rational points, where \ell is a prime number dividing q-1.

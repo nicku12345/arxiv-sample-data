@@ -1,0 +1,1 @@
+We introduce a monoidal category of corings using two different notions of corings morphisms. The first one is the (right) coring extensions recently introduced by T. Brzezi\'nski in [2], and the anther is the usual notion of morphisms defined in [5] by J. G\'omez-Torrecillas.

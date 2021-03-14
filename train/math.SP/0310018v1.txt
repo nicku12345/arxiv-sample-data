@@ -1,0 +1,1 @@
+The purpose of this note is to extend to any space dimension the bilinear estimate for eigenfunctions of the Laplace operator on a compact manifold (without boundary) obtained in a previous work in dimension 2. We also give some related trilinear estimates.

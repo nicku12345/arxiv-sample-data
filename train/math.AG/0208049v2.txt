@@ -1,0 +1,1 @@
+The semistable minimal model program is a special case of the minimal model program concerning 3-folds fibred over a curve and birational morphisms preserving this structure. We classify semistable divisorial contractions which contract the exceptional divisor to a normal point of a fibre. Our results can be applied to describe compact moduli spaces of surfaces.

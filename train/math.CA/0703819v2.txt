@@ -1,0 +1,1 @@
+The following deals with the T(b) theorems of David, Journ\'e, and Semmes \cite{DJS} considered in a dyadic setting. We find sharp growth estimates for a global and a local dyadic T(b) Theorem. We use multiscale analysis and Haar wavelets in the local case.

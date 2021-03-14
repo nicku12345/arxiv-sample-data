@@ -1,0 +1,1 @@
+We study the Bishop-Phelps-Bollobas property for numerical radius within the framework of C(K) spaces. We present several sufficient conditions on a compact space K ensuring that C(K) has the Bishop-Phelps-Bollobas property for numerical radius. In particular, we show that C(K) has such property whenever K is metrizable.

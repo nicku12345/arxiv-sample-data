@@ -1,0 +1,1 @@
+We prove that a local ring R of embedding codepth at most 3 has at most two semidualizing complexes up to shift-isomorphism, namely, R itself and a dualizing R-complex if one exists.

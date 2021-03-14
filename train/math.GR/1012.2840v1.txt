@@ -1,0 +1,1 @@
+Let w be a multilinear commutator and n a positive integer. Suppose that G is a residually finite group in which every product of at most 896 w-values has order dividing n. Then the verbal subgroup w(G) is locally finite.

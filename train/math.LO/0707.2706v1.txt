@@ -1,0 +1,1 @@
+If E is an equivalence relation Borel reducible to E_1 \times E_3 then either E is Borel reducible to the equality of countable sets of reals or E_1 is Borel reducible to E. The "either" case admits further strengthening.

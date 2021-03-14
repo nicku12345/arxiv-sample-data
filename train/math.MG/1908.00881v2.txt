@@ -1,0 +1,1 @@
+This note presents simple linear algebraic proofs of theorems due to Sinajova, Rankin and Kuperberg concerning spherical point configurations. The common ingredient in these proofs is the use of spherical Euclidean distance matrices and the Perron-Frobenius theorem.

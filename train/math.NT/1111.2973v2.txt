@@ -1,0 +1,1 @@
+We show that torsion points of certain orders are not on a theta divisor in the Jacobian variety of a hyperelliptic curve given by the equation y^2=x^{2g+1}+x with g \geq 2. The proof employs a method of Anderson who proved an analogous result for a cyclic quotient of a Fermat curve of prime degree.

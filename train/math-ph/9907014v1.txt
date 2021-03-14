@@ -1,0 +1,1 @@
+If a string is cyclically shifted it will re-appear after a certain number of shifts, which will be called its order. We solve the problem of how many strings exist with a given order. This problem arises in the context of quantum mechanics of spin systems.

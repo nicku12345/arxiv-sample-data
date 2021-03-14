@@ -1,0 +1,1 @@
+We discuss the value of the best constant in Gaffney inequality namely    \lVert \nabla \omega \rVert_{L^{2}}^{2}\leq C\left( \lVert d\omega\rVert_{L^{2}}^{2}+\lVert \delta\omega\rVert_{L^{2}% }^{2}+\lVert \omega\rVert_{L^{2}}^{2}\right)  when either \nu\wedge\omega=0 or \nu\,\lrcorner\,\omega=0 on \partial\Omega.

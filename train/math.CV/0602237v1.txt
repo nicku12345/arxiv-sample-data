@@ -1,0 +1,1 @@
+We consider the effective resummation of a Borel sum by its associated factorial series expansion. Our approach provides concrete estimates for the remainder term when truncating this factorial series. We then generalize a theorem of Nevanlinna which gives us the natural framework to extend the factorial series method for Borel-resummable fractional power series expansions.

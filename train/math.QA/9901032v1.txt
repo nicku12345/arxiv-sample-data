@@ -1,0 +1,1 @@
+We define canonical bases of the higher-level q-deformed Fock space modules of the affine Lie algebra sl(n)^. This generalizes the result of Leclerc and Thibon for the case of level 1. We express the transition matrices between the canonical bases and the natural bases of the Fock spaces in terms of affine Kazhdan-Lusztig polynomials.

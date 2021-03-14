@@ -1,0 +1,1 @@
+A fall coloring of a graph G is a proper coloring of G with k colors such that each vertex sees all k colors on its closed neighborhood. In this short note, we characterize all fall colorings of Kneser graphs of type KG(n,2).

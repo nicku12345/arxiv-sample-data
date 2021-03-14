@@ -1,0 +1,1 @@
+By using of Euler's difference table, we obtain simple explicit formula for the decomposition of k-th tensor power of adjoint representation of A_n Lie algebra at 2 k \le{n+1}.

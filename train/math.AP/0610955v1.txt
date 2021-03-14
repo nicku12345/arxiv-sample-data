@@ -1,0 +1,1 @@
+An L_{q}(L_{p})-theory of divergence and non-divergence form parabolic equations is presented. The main coefficients are supposed to belong to the class VMO_{x}, which, in particular, contains all measurable functions depending only on t. The method of proving simplifies the methods previously used in the case p=q.

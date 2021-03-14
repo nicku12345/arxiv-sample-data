@@ -1,0 +1,1 @@
+In this paper we study decompositions and classification problems for unbounded derivations in Bunce-Deddens-Toeplitz and Bunce-Deddens algebras. We also look at implementations of these derivations on associated GNS Hilbert spaces.

@@ -1,0 +1,1 @@
+For a general differential system \dot x(t) = \sum_{d=1}^3 u_d(t)X_d, where X_d generates the simple Lie algebra of type \mathfrak{a}_1, we compute the explicit solution in terms of iterated integrals of products of u_d's. As a byproduct we obtain the solution of a general Riccati equation by infinite quadratures.

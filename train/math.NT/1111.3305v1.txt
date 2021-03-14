@@ -1,0 +1,1 @@
+We consider Mertens' function M(x,q,a) in arithmetic progression, Assuming the generalized Riemann hypothesis (GRH), we show an upper bound that is uniform for all moduli which are not too large. For the proof, a former method of K. Soundararajan is extended to L-series.

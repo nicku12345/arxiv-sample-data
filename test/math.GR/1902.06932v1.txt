@@ -1,0 +1,1 @@
+Following partially a suggestion by Pyber, we prove that the diameter of a product of non-abelian finite simple groups is bounded linearly by the maximum diameter of its factors. For completeness, we include the case of abelian factors and give explicit constants in all bounds.

@@ -1,0 +1,1 @@
+We derive improved bounds on the error and erasure rate for spherical codes and for binary linear codes under Forney's erasure/list decoding scheme and prove some related results.

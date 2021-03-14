@@ -1,0 +1,1 @@
+We prove that any Legendrian knot in (S^3,\xi_{std}) bounds an exact Lagrangian surface in \mathbb{R}^4\setminus B^4 after a sufficient number of stabilizations. In order to show this, we construct a family combinatorial moves on knot projections with some additional data that correspond to Lagrangian cobordisms between knots.

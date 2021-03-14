@@ -1,0 +1,1 @@
+In this paper, we prove that the Bessel functions are locally integrable for all connected split reductive linear algebraic groups over a p-adic field F and the Bessel distributions are given by integrals against these Bessel functions, which are previously known only for GL(2),GL(3) proved by Baruch.

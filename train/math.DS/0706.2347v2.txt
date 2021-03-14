@@ -1,0 +1,1 @@
+Let W be a weight-homogeneous planar polynomial differential system with a center. We find an upper bound of the number of limit cycles which bifurcate from the period annulus of W under a generic polynomial perturbation. We apply this result to a particular family of planar polynomial systems having a nilpotent center without meromorphic first integral.

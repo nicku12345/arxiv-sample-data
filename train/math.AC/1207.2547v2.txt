@@ -1,0 +1,1 @@
+Some criteria for graded local cohomology to commute with coarsening functors are proven, and an example is given where graded local cohomology does not commute with coarsening.

@@ -1,0 +1,1 @@
+We prove that entropy map is upper semi-continuous for C1 nonuniformly hyperbolic systems with domination, while it is not true for C1+alpha nonuniformly hyperbolic systems in general. This goes a little against a common intuition that conclusions are parallel between C1+domination systems and C1+alpha systems.

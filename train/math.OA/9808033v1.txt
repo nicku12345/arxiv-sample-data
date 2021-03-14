@@ -1,0 +1,1 @@
+We present an operator algebraic approach to Wigner's unitary-antiunitary theorem using some classical results from ring theory. To show how effective this approach is, we prove a generalization of this celebrated theorem for Hilbert modules over matrix algebras. We also present a Wigner-type result for maps on prime C*-algebras.

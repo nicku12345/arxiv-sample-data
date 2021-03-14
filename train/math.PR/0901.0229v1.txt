@@ -1,0 +1,1 @@
+We prove density and current fluctuations for two examples of symmetric, interacting particle systems with anomalous diffusive behavior: the zero-range process with long jumps and the zero-range process with degenerated bond disorder. As an application, we obtain subdiffusive behavior of a tagged particle in a simple exclusion process with variable diffusion coefficient.

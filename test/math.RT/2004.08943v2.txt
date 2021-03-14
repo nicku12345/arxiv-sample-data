@@ -1,0 +1,1 @@
+We study equivariant localization of intersection cohomology complexes on Schubert varieties in Kashiwara's flag manifold. Using moment graph theory, we establish a link to the representation theory of Kac-Moody algebras and give a new proof of the Kazhdan-Lusztig conjecture for blocks containing an antidominant element.

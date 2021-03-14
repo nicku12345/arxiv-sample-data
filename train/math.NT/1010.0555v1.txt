@@ -1,0 +1,1 @@
+The field-of-norms functor is applied to deduce explicit reciprocity formulae for the Hilbert symbol in the mixed characteristic case from the explicit formula for the Witt symbol in characteristic p > 2 in the context of higher local fields. Is is shown that a "very special case" of this construction gives Vostokov's explicit formula

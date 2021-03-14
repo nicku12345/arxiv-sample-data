@@ -1,0 +1,1 @@
+We compute the Heegaard-Floer homology for the family Sigma(2,3,6n+1) of Brieskorn spheres using the algorithm by P. Ozsvath and Z. Szabo

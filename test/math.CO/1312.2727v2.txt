@@ -1,0 +1,1 @@
+We determine the most general form of a smooth function on Young diagrams, that is, a polynomial in the interlacing or multirectangular coordinates whose value depends only on the shape of the diagram. We prove that the algebra of such functions is isomorphic to quasi-symmetric functions, and give a noncommutative analog of this result.

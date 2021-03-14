@@ -1,0 +1,1 @@
+In this paper we consider topological spaces as generalised orders and characterise those spaces which satisfy a (suitably defined) topological distributive law. Furthermore, we show that the category of these spaces is dually equivalent to a certain category of frames by simply observing that both sides represent the idempotents split completion of the same category.

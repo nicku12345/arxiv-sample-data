@@ -1,0 +1,1 @@
+We introduce subclasses of exact categories in terms of admissible intersections or admissible sums or both at the same time. These categories are recently studied by Br\"ustle, Hassoun, Shah, Tattar and Wegner to give characterisations of quasi-abelian and abelian categories. We also generalise the Schur lemma to the context of exact categories.

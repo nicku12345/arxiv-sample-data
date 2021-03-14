@@ -1,0 +1,1 @@
+Let T : \Lambda \to \Lambda be an expanding map on a Cantor set. For each suitably normalized H\"older continuous potential, we construct a spectral triple from which one may recover the associated Gibbs measure as a noncommutative measure.

@@ -1,0 +1,1 @@
+We show that there is no algorithm which, provided a polynomial number of random points uniformly distributed over a convex body in R^n, can approximate the volume of the body up to a constant factor with high probability.

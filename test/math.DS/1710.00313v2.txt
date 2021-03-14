@@ -1,0 +1,1 @@
+We study the relation between the shadowing property and the limit shadowing property. We prove that if a continuous self-map f of a compact metric space has the limit shadowing property, then the restriction of f to the non-wandering set satisfies the shadowing property. As an application, we prove the equivalence of the two shadowing properties for equicontinuous maps.

@@ -1,0 +1,1 @@
+A 3D nonlinear chaotic system, called the T system, is analyzed in this paper. Horseshoe chaos is investigated via the heteroclinic Shilnikov method constructing a heteroclinic connections between the saddle equilibrium points of the system. Partially numerical computations are carried out to support the analytical results.

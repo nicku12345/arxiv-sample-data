@@ -1,0 +1,1 @@
+The group of partial inner automorphisms of the free group F_n on n generators is a subgroup I_n of Aut(F_n). we give an answer to the Andreadakis problem restricted to this subgroup. We show precisely that the Andreadakis filtration restricted to I_n does coincide with its lower central series. We also determine the cohomology ring H^{\ast}(I_n,\mathbb{Z}) of I_n.

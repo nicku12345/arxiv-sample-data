@@ -1,0 +1,1 @@
+In this paper non-asymptotic exponential and moment estimates are derived for tail of distribution for discrete time martingale under norming sequence 1/n, as in the classical Law of Large Numbers (LLN), by means of martingale differences as a rule in the terms of unconditional moments and tails of distributions of summands.   We show also the exactness of obtained estimations.

@@ -1,0 +1,1 @@
+For a higher-rank graph \Lambda with sources we detail a construction that creates a higher-rank graph \bar{\Lambda} that does not have sources and contains \Lambda as a subgraph. Furthermore, when \Lambda is row-finite, the Cuntz-Krieger algebra of \Lambda is a full corner of C^*(\bar{\Lambda}), the Cuntz-Krieger algebra of \bar{\Lambda}.

@@ -1,0 +1,1 @@
+We point out how Banach Fixed Point Theorem, and the Picard successive approximation methods induced by it, allows us to treat some mathematical methods in Combinatorics. In particular we get, by this way, a proof and an iterative algorithm for the Lagrange Inversion Formula.

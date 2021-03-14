@@ -1,0 +1,1 @@
+We reprove an inequality for Rademacher series with coefficients in the Schatten class S_1. Our method yields the same estimate for coefficients after suitable gaps in S_1-valued trigonometric series; this was known for scalar-valued functions. A very similar method gives a new proof of the extension to S_1-valued H^1 functions of Paley's theorem about lacunary coefficients.

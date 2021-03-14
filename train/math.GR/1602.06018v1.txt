@@ -1,0 +1,1 @@
+In this short note we prove that the finite non-abelian simple groups PSL(2,q), where q = 5,7, are determined by their posets of classes of isomorphic subgroups. In particular, this disproves the conjecture in the end of [5].

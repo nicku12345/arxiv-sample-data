@@ -1,0 +1,1 @@
+We introduce the graded bialgebra deformations, which explain Andruskiewitsch-Schneider's liftings method. We also relate this graded bialgebra deformation with the corresponding graded bialgebra cohomology groups, which is the graded version of the one due to Gerstenhaber-Schack.

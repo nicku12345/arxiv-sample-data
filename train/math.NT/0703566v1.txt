@@ -1,0 +1,1 @@
+We generalize the Farey-Brocot partition to a twodimensional continued fraction algorithm and generalized Farey-Brocot nets. We give an asymptotic formula for the moments of order \beta.

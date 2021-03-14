@@ -1,0 +1,1 @@
+We introduce holomorphic algebras H_q in the context of the q-Gaussian algebra \Gamma_q of Bozejko, K\"ummerer, and Speicher, and give a q-Segal-Bargmann transform for them. We then prove a strong hypercontractivity theorem, generalizing Janson's strong (holomorphic) hypercontractivity, from L^2(H_q) \to L^r(H_q) for r an even integer.

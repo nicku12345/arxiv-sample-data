@@ -1,0 +1,1 @@
+In this paper, we consider topological semigroup actions on compact topological spaces. Under mild assumptions on the semigroup and the action, we construct a semi-direct product groupoid with a Haar system. We also show that it is equivalent to a transformation groupoid. We apply this construction to the Wiener-Hopf C^{*}-algebras.

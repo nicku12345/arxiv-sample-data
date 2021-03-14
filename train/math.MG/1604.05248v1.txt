@@ -1,0 +1,1 @@
+We study a function, which is a weighted sum of the squares of the distances of an arbitrary point to the sidelines of a triangle. The given weights, considered as barycentric coordinates, determine a point M. We prove that the function reaches its minimum (maximum) at a point, which is isogonal conjugate to M.

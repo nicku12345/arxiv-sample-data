@@ -1,0 +1,1 @@
+We prove the following regularity result: If M and M' are smooth generic submanifolds of C^N and C^N' respectively, where N and N' are not necessarily equal, and if M is minimal, then every C^k-CR-map from M into M^\prime which is k-nondegenerate is smooth. As an application, every CR diffeomorphism of k-nondegenerate minimal submanifolds in C^N of class C^k is smooth.

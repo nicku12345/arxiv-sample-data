@@ -1,0 +1,1 @@
+We present a random walk approximation to fractional Brownian motion where the increments of the fractional random walk are defined as a weighted sum of the past increments of a Bernoulli random walk.

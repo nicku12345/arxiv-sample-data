@@ -1,0 +1,1 @@
+We show that in the space of all convex billiard boundaries, the set of boundaries with rational caustics is dense. More precisely, the set of billiard boundaries with caustics of rotation number 1/q is polynomial sense in the smooth case, and exponentially dense in the analytic case.

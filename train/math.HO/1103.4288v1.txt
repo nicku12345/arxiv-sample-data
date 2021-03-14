@@ -1,0 +1,1 @@
+We geometrically prove that in a d-dimensional cube with edges of length n, the number of particular d-dimensional tetrahedrons are given by Eulerian numbers. These tetrahedrons tassellate the cube, In this way the sum of the cubes are the sums of the tetrahedrons, whose calculation is trivial.

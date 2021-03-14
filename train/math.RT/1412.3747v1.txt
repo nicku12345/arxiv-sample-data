@@ -1,0 +1,1 @@
+In this paper we prove that the cyclotomic Khovanov-Lauda-Rouquier algebras in type A, \mathscr R_n^\Lambda, are \mathbb{Z}-free. We then extend the graded cellular basis of \mathscr R_n^\Lambda constructed by Hu and Mathas to \mathscr R_n and use this basis to give a classification of all irreducible \mathscr R_n-modules.

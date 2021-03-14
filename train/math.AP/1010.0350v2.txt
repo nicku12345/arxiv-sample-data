@@ -1,0 +1,1 @@
+We consider the equation -\epsilon^{2}\Delta u + u = u^ {p} in a bounded domain \Omega\subset\R^{3} with edges. We impose Neumann boundary conditions, assuming 1<p<5, and prove concentration of solutions at suitable points of \partial\Omega on the edges.

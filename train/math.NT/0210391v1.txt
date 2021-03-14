@@ -1,0 +1,1 @@
+In this note we consider questions about parametrisations of elliptic curves defined over number fields by quotients of the upper half-plane by finite index subgroups of SL_2(Z). We ask if we can choose such a parametrisation of an elliptic curve to reflect the field over which it is defined: this can be viewed as a generalisation of the Shimura-Taniyama-Weil conjecture.

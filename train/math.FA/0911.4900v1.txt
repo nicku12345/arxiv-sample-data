@@ -1,0 +1,1 @@
+We prove optimal embeddings for nonlinear approximation spaces in terms of weighted Lorentz sequence spaces, with the weights depending on the democracy functions of the basis. As applications we recover known embeddings for N-term wavelet approximation in Lebesgue, Orlicz, and Lorentz norms. We also study the "greedy classes" introduced by Gribonval and Nielsen.

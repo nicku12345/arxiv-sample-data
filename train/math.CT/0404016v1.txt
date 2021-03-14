@@ -1,0 +1,1 @@
+I exhibit a pair of non-symmetric operads that, although not themselves isomorphic, induce isomorphic monads. The existence of such a pair implies that if `algebraic theory' is understood as meaning `monad', operads cannot be regarded as algebraic theories of a special kind.

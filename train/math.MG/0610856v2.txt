@@ -1,0 +1,1 @@
+We apply the semidefinite programming approach developed in arxiv:math.MG/0608426 to obtain new upper bounds for codes in spherical caps. We compute new upper bounds for the one-sided kissing number in several dimensions where we in particular get a new tight bound in dimension 8. Furthermore we show how to use the SDP framework to get analytic bounds.

@@ -1,0 +1,1 @@
+We prove the existence of quadratic polynomials having a Julia set with positive Lebesgue measure in three cases: the presence of a Cremer fixed point, the presence of a Siegel disk, the presence of infinitely many (satellite) renormalizations.

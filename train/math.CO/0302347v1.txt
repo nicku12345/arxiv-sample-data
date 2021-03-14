@@ -1,0 +1,1 @@
+Motivated by work of Stembridge, we study rank functions for Viennot's heaps of pieces. We produce a simple and sufficient criterion for a heap to be a ranked poset and apply the results to the heaps arising from fully commutative words in Coxeter groups.

@@ -1,0 +1,1 @@
+Using derived categories of equivariant coherent sheaves, we construct a categorification of the tangle calculus associated to sl(2) and its standard representation. Our construction is related to that of Seidel-Smith by homological mirror symmetry. We show that the resulting doubly graded knot homology agrees with Khovanov homology.

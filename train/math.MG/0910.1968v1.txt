@@ -1,0 +1,1 @@
+For any sequence of matrix algebras that converge to a coadjoint orbit we give explicit formulas that show that the distances between the matrix algebras (viewed as quantum metric spaces) converges to 0. In the process we develop a general point of view that is likely to be useful in other related settings.

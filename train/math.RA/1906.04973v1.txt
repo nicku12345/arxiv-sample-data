@@ -1,0 +1,1 @@
+Let p be a multilinear polynomial in several non-commuting variables with coefficients in an arbitrary field K. Kaplansky conjectured that for any n, the image of p evaluated on the set M_n(K) of n by n matrices is a vector space. In this paper we settle the analogous conjecture for a quaternion algebra.

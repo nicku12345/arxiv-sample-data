@@ -1,0 +1,1 @@
+The theorem like Pontryagin's maximum principle for multiple integrals is proved. Unlike the usual maximum principle, the maximum should be taken not over all matrices, but only on matrices of rank one. Examples are given.

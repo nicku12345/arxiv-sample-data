@@ -1,0 +1,1 @@
+We compute the Kauffman bracket skein module of the complement of a twist knot, finding that it is free and infinite dimensional. The basis consists of cables of a two-component link, one component of which is a meridian of the knot. The cabling of the meridian can be arbitrarily large while the cabling of the other component is limited to the number of twists.

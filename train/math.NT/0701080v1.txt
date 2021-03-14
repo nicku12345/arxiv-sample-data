@@ -1,0 +1,1 @@
+The mean-centered cuboidal (or m.c.c.) lattice is known to be the optimal packing and covering among all isodual three-dimensional lattices. In this note we show that it is also the best quantizer. It thus joins the isodual lattices Z, A_2 and (presumably) D_4, E_8 and the Leech lattice in being simultaneously optimal with respect to all three criteria.

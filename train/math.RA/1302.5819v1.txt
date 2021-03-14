@@ -1,0 +1,1 @@
+Lie solvable restricted enveloping algebras were characterized by Riley and Shalev except when the ground field is of characteristic 2. We resolve the characteristic 2 case here which completes the classification. As an application of our result, we obtain a characterization of ordinary Lie algebras over any field whose enveloping algebra is Lie solvable.

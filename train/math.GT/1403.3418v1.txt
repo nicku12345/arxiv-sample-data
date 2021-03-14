@@ -1,0 +1,1 @@
+We present a new method to produce simple formulas for 1-cocycles of knots over the integers, inspired by Polyak-Viro's formulas for finite-type knot invariants. We conjecture that these formulas always represent finite-type cohomology classes in the sense of Vassiliev. An example of degree 3 is studied, and shown to coincide over Z/2 with the Teiblum-Turchin cocycle v_3^1.

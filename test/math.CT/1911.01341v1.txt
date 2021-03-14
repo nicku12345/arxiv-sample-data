@@ -1,0 +1,1 @@
+We prove that topological Hochschild homology (THH) arises from a presheaf of circles on a certain combinatorial category, which gives a universal construction of THH for any enriched infinity category.   Our results rely crucially on an elementary, model-independent framework for enriched higher category theory, which may be of independent interest.

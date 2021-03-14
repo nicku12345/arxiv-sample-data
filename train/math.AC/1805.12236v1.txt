@@ -1,0 +1,1 @@
+Let S be a commutative ring, x, y \in S a pair of exact zero divisors, and R = S/(x). Let F be a complex of free R-modules. In this paper we explicitly compute cohomological operators of R over S by constructing endomorphisms of F. We consider some properties of these cohomological operators, as well as provide an example in which these cohomological operators act non-trivially.

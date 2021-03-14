@@ -1,0 +1,1 @@
+We investigate the best order of smoothness of L^p(L^q). We prove in particular that there exists a C^\infty-smooth bump function on L^p(L^q) if and only if p and q are both even integers and p is a multiple of q.

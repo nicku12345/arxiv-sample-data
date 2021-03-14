@@ -1,0 +1,1 @@
+We study the jump of topological entropy for C^r interval or circle maps. We prove in particular that the topological entropy is continuous at any f \in C^r([0; 1]) with h_{top}(f) > \frac{\log^+ \|f'\|_\infty}{r}. To this end we study the continuity of the entropy of the Buzzi-Hofbauer diagrams associated to C^r interval maps.

@@ -1,0 +1,1 @@
+The aim of this work is to show how symbolic computation can be used to perform multivariate Lagrange, Hermite and Birkhoff interpolation and help us to build more realistic interpolating functions. After a theoretical introduction in which we analyze the complexity of the method we shall focus our attention on applications.

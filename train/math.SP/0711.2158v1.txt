@@ -1,0 +1,1 @@
+Under a perturbation by a decaying electric potential, the Landau Hamiltonian acquires some discrete eigenvalues between the Landau levels. We study the perturbation by an "expanding" electric potential V(t^{-1}x), t>0, and derive a quasi-classical formula for the counting function of the discrete spectrum as t\to \infty.

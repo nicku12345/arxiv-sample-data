@@ -1,0 +1,1 @@
+Let E be a separable Banach space and \Omega be a compact Hausdorff space. It is shown that the space C(\Omega,E) has property (V) if and only if E does. Similar result is also given for Bochner spaces L^p(\mu,E) if 1<p<\infty and \mu is a finite Borel measure on \Omega.

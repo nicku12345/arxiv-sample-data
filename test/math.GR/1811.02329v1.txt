@@ -1,0 +1,1 @@
+We define the notion of accessibility for a pro-p group. We prove that finitely generated pro-p groups are accessible given a bound on the size of their finite subgroups. We then construct a finitely generated inaccessible pro-p group, and also a finitely generated inaccessible discrete group which is residually p-finite.

@@ -1,0 +1,1 @@
+We define a new complex on which Out(F_n) acts by simplicial automorphisms, the cyclic splitting complex of F_n, and show that it is hyperbolic using a method developed by Kapovich and Rafi.

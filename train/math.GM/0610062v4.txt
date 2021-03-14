@@ -1,0 +1,1 @@
+In this paper we discuss a method to express the Prime counting function as a "sum" over Non-trivial zeros of Riemann Zeta function, using techniques from Analytic Number Theory, also we apply our results to the sum over primes of any function Sum(p<x) f(p)

@@ -1,0 +1,1 @@
+Lusztig has constructed a Frobenius morphism for quantum groups at an \ell-th root of unity, which gives an integral lift of the Frobenius map on universal enveloping algebras in positive characteristic. Using the Hall algebra we give a simple construction of this map for the positive part of the quantum group attached to an arbitrary Cartan datum in the nondivisible case.

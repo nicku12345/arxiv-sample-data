@@ -1,0 +1,1 @@
+The Rankin-Cohen bracket of two Eisenstein series provides a kernel yielding products of the periods of Hecke eigenforms at critical values. Extending this idea leads to a new type of Eisenstein series built with a double sum. We develop the properties of these series and their non-holomorphic analogs and show their connection to values of L-functions outside the critical strip.

@@ -1,0 +1,1 @@
+We explicitly determine the spectrum of transfer operators (acting on spaces of holomorphic functions) associated to analytic expanding circle maps arising from finite Blaschke products. This is achieved by deriving a convenient natural representation of the respective adjoint operators.

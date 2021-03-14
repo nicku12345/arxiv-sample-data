@@ -1,0 +1,1 @@
+Let R be an excellent local ring, m its maximal ideal and I an ideal. Then there exists a positive integer c such that for all integers n, the integral closure of (I + m^n) is contained in m^(n/c) + the integral closure of I.   In the proof, a version of the linear Artin approximation theorem is proved.

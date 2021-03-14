@@ -1,0 +1,1 @@
+We define winding numbers of regular closed curves on surfaces with a nice euclidean or hyperbolic geometry. We prove that two regular closed curves are regularly homotopic if and only if they are freely homotopic and have the same winding number.

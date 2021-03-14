@@ -1,0 +1,1 @@
+By a method inspired of the Stein's method, we derive an upper-bound of the Rubinstein distance between two absolutely continuous probability measures on configurations space. As an application, we show that the best way to approximate a Modulated Poisson Process (see below for the definition) by a Poisson process is to equate their intensity.

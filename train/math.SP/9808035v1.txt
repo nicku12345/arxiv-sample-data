@@ -1,0 +1,1 @@
+We prove the Plancherel formula for hypergeometric functions associated to a root system in the situation when the root multiplicities are negative (but close to 0). As a result we obtain a classification of the hypergeometric functions that are square integrable, and we find a closed formula for their square norm as a function of the root multiplicities.

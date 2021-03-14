@@ -1,0 +1,1 @@
+A relation between Schur algebras and Steenrod algebra is shown in [Hai10] where to each strict polynomial functor the author associates an unstable module. We show that the restriction of Hai's functor to the subcategory of strict polynomial functors of a given degree is fully faithfull.

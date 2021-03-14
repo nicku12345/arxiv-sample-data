@@ -1,0 +1,1 @@
+Let G be a finite p-group and let Aut(G) denote the full automorphism group of G. In the recent past, there has been interest in finding necessary and sufficient conditions on G such that certain subgroups of Aut(G) are equal. We prove a technical lemma and, as a consequence, obtain some new results and short and alternate proofs of some known results of this type.

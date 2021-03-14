@@ -1,0 +1,1 @@
+We prove that there is a map from Bloch's cycle complex to Kato's complex of Milnor K-theory, which induces a quasi-isomorphism from \'{e}tale sheafified cycle complex to the Gersten complex of logarithmic de Rham--Witt sheaves. Next we show that the truncation of Bloch's cycle complex at -3 is quasi-isomorphic to Spiess' dualizing complex.

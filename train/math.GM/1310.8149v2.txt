@@ -1,0 +1,1 @@
+Using the block vec matrix, I give a necessary and sufficient condition for factorization of a matrix into the Kronecker product of two other matrices. As a consequence, I obtain an elementary algorithmic procedure to decide whether a matrix has a square root for the Kronecker product.

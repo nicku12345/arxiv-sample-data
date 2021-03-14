@@ -1,0 +1,1 @@
+We consider a one dimensional evolution problem modeling the dynamics of an acoustic field coupled with a set of mechanical oscillators. We analyze solutions of the system of ordinary and partial differential equations with time-dependent boundary conditions describing the evolution in the limit of a continuous distribution of oscillators.

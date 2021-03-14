@@ -1,0 +1,1 @@
+Two Dehn surgeries on a knot are called purely cosmetic if their surgered manifolds are homeomorphic as oriented manifolds. Gordon conjectured that non-trivial knots in S^3 do not admit purely cosmetic surgeries. In this article, we confirm this conjecture for cable knots.

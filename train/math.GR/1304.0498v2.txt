@@ -1,0 +1,1 @@
+We describe, up to degree equal to the rank, the Lie algebra associated with the automorphism group of a free group. We compute in particular the ranks of its homogeneous components, and their structure as modules over the linear group.   Along the way, we infirm (but confirm a weaker form of) a conjecture by Andreadakis, and answer a question by Bryant-Gupta-Levin-Mochizuki.

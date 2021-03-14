@@ -1,0 +1,1 @@
+We show an It\^ o's formula for nondegenerate Brownian martingales X_t=\int_0^t u_s dW_s and functions F(x,t) with locally integrable derivatives in t and x. We prove that one can express the additional term in It\^o's s formula as an integral over space and time with respect to local time.

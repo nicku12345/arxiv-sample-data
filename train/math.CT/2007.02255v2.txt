@@ -1,0 +1,1 @@
+We show that the category \mathbf{CPO} of chain-complete posets is not co-wellpowered but that it is weakly co-wellpowered. This implies that \mathbf{CPO} is nearly locally presentable.

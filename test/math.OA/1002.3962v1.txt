@@ -1,0 +1,1 @@
+Let M be a compact Hausdorff space. We prove that in this paper, every self--adjoint matrix over C(M) is approximately diagonalizable iff \dim M\le 2 and \HO^2(M,\mathbb Z)\cong 0. Using this result, we show that every unitary matrix over C(M) is approximately diagonalizable iff \dim M\le 2, \HO^1(M,\mathbb Z)\cong\HO^2(M,\mathbb Z)\cong 0 when M is a compact metric space.

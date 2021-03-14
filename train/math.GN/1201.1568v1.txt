@@ -1,0 +1,1 @@
+This paper studies the C-compact-open topology on the set C(X) of all realvalued continuous functions on a Tychonov space X and compares this topology with several well-known and lesser known topologies. We investigate the properties C-compact-open topology on the set C(X) such as submetrizable, metrizable, separable and second countability.

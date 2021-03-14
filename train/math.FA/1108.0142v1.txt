@@ -1,0 +1,1 @@
+In this paper, using doubly stochastic operators, we have extended the notion of majorization to the space \ell^p(I), where I is assumed to be an infinite set, and then, in the case p\in (1,+\infty), characterize the structure of all bounded linear maps on this space which preserves majorization.

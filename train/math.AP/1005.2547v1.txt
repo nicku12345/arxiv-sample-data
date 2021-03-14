@@ -1,0 +1,1 @@
+In this paper we consider a boundary stabilization problem for the wave equation with interior delay. We prove an exponential stability result under some Lions geometric condition. The proof of the main result is based on an identity with multipliers that allows to obtain a uniform decay estimate for a suitable Lyapunov functional.

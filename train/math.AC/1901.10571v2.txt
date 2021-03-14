@@ -1,0 +1,1 @@
+We develop the theory of patterns on numerical semigroups in terms of the admissibility degree. We prove that the Arf pattern induces every strongly admissible pattern, and determine all patterns equivalent to the Arf pattern. We study patterns on the numerical duplication S \Join^d E when d \gg0. We also provide a definition of patterns on rings.

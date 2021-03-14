@@ -1,0 +1,1 @@
+We construct various functorial maps (projections) from virtual knots to classical knots. These maps are defined on diagrams of virtual knots; in terms of Gauss diagram each of them can be represented as a deletion of some chords. The construction relies upon the notion of parity. As corollaries, we prove that the minimal classical crossing number for classical knots.

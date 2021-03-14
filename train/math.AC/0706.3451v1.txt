@@ -1,0 +1,1 @@
+A method is provided for computing an upper bound of the complexity of a module over a local ring, in terms of vanishing of certain cohomology modules. We then specialize to complete intersections, which are precisely the rings over which all modules have finite complexity.

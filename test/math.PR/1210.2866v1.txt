@@ -1,0 +1,1 @@
+For local martingales with nonnegative jumps, we prove a sufficient criterion for the corresponding exponential martingale to be a true martingale. The criterion is in terms of exponential moments of a convex combination of the optional and predictable quadratic variation. The result extends earlier known criteria.

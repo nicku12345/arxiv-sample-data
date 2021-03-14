@@ -1,0 +1,1 @@
+For w in A_p(RH_r), we determine the precise range of indices so that w in RH_r(A_p), the precise range of q smaller than p for which w in A_q, and the precise range of s bigger than 1 for which w^s in A_p.

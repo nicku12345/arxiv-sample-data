@@ -1,0 +1,1 @@
+In this paper we discuss various refinements and generalizations of a theorem of Sankar Dutta and Paul Roberts. Their theorem gives a criterion for d elements in a d-dimensional Noetherian Cohen-Macaulay local ring to be a system of parameters, i.e., to have height d. We chiefly remove the assumption that the ring be Cohen-Macaulay and discuss similar theorems.

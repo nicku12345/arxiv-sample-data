@@ -1,0 +1,1 @@
+We prove a new variant of comparison principle for logarithmic L_2-small ball probabilities of Gaussian processes. As an application, we obtain logarithmic small ball asymptotics for some well-known processes with smooth covariances.

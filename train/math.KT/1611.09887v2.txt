@@ -1,0 +1,1 @@
+We give a proof of Bott periodicity for real graded C^\ast-algebras in terms of K- theory and E-theory. Guentner and Higson proved a similar result in the complex graded case but we extend this to cover all graded C^\ast-algebras. We obtain the 8-fold periodicity in E-theory by constructing two maps that are inverse to each other.

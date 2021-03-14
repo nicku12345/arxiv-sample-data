@@ -1,0 +1,1 @@
+The notion of Ann-categories is a categorification of the ring structure. Regular Ann-categories were classified by Shukla algebraic cohomology. In this article, we state and prove the precise theorem on classification for the general case due to Mac Lane cohomology for rings. And an application for classification problem of ring extensions is also introduced.

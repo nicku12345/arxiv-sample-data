@@ -1,0 +1,1 @@
+We give an explicit description of the terms and differentials of the Tate resolution of sheaves arising from Segre embeddings of \P^a\times\P^b. We prove that the maps in this Tate resolution are either coming from Sylvester-type maps, or from Bezout-type maps arising from the so-called toric Jacobian.

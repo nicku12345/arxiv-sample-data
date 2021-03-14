@@ -1,0 +1,1 @@
+We show that the L^2 integral mean on r\D of an analytic function in the unit disk \D with respect to the weighted area measure (1-|z|^2)^\alpha\,dA(z), where -3\le\alpha\le0, is a logarithmically convex function of r on (0,1). We also show that the range [-3,0] for \alpha is best possible.

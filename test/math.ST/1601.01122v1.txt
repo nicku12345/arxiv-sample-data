@@ -1,0 +1,1 @@
+We consider long-range dependent data. It is shown that the bootstrapped empirical process of these data converges to a semi-degenerate limit. The random part of this limit is always Gaussian. Thus the bootstrap might fail when the original empirical process accomplishes a noncentral limit theorem.

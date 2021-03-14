@@ -1,0 +1,1 @@
+Generalized Pauli-Fierz Hamiltonian with Kato-class potential \KPF in nonrelativistic quantum electrodynamics is defined and studied by a path measure. \KPF is defined as the self-adjoint generator of a strongly continuous one-parameter symmetric semigroup and it is shown that its bound states spatially exponentially decay pointwise and the ground state is unique.

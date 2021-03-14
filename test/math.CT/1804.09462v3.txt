@@ -1,0 +1,1 @@
+We give a simple combinatorial model for plethysm. Precisely, the bialgebra dual to plethystic substitution is realised as the homotopy cardinality of the incidence bialgebra of an explicit simplicial groupoid, obtained from surjections by a construction reminiscent of the Waldhausen S and the Quillen Q-construction.

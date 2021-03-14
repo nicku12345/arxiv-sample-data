@@ -1,0 +1,1 @@
+We show how a linear control systems theory for the backward nabla differential operator on an arbitrary time scale can be obtained via Caputo's duality. More precisely, we consider linear control systems with outputs defined with respect to the backward jump operator. Kalman criteria of controllability and observability, as well as realizability conditions, are proved.

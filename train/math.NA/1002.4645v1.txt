@@ -1,0 +1,1 @@
+In this article we demonstrate and compare two modified versions of the classical finite section method for band-dominated operators in case the latter is not stable. For both methods we give explicit criteria for their applicability.

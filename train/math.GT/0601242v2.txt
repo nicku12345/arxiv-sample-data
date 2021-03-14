@@ -1,0 +1,1 @@
+We use a simple geometric argument and small cancellation properties of link groups to prove that alternating links are non-trivial. This proof uses only classic results in topology and combinatorial group theory.

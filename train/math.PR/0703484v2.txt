@@ -1,0 +1,1 @@
+We prove the existence of the unique solution of a general Backward Stochastic Differential Equation with quadratic growth driven by martingales. Some kind of comparison theorem is also proved.

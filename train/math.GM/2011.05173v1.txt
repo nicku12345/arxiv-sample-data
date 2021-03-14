@@ -1,0 +1,1 @@
+We describe the explicit form of a left greatest common divisor and a least common multiple of solutions of a solvable linear matrix equation over a commutative elementary divisor domain. We prove that these left greatest common divisor and least common multiple are also solutions of the same equation.

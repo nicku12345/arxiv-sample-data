@@ -1,0 +1,1 @@
+S. Gervais gave a finite presentation for the mapping class group of a surface (math.GT/9811162). We show this presentation without using Wajnryb's simple presentation. We use a complex of curves defined by Harvey, in place of Hatcher and Thurston's complex.

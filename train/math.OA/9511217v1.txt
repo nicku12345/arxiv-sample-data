@@ -1,0 +1,1 @@
+We explicitly compute certain Douglas algebras that are invariant under both the Bourgain map and the minimal envelope map. We also compute the Bourgain algebra and the minimal envelope of the maximal subalgebras of a certain singly generated Douglas algebra.

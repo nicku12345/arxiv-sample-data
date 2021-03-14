@@ -1,0 +1,1 @@
+We prove the analog of the Morel-Voevodsky localization theorem for framed motivic spaces. We deduce that framed motivic spectra are equivalent to motivic spectra over arbitrary schemes, and we give a new construction of the motivic cohomology of arbitrary schemes.

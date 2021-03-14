@@ -1,0 +1,1 @@
+We prove the L^2-Euler characteristic has the invariance under the barycentric subdivision only for finite acyclic categories. And we extend the definition of L^2-Euler characteristic and prove the extended L^2-Euler characteristic has the invariance under the barycentric subdivision for more wide class of finite categories.

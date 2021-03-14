@@ -1,0 +1,1 @@
+In this paper we define a field K of characteristic zero with valuation whose value group is the real numbers, and we show that this field of generalised Puiseux series is algebraically closed and complete with respect to the norm induced by its valuation. We consider this field to be a good candidate for the base field for tropical geometry.

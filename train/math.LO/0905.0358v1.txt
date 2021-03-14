@@ -1,0 +1,1 @@
+We give in this paper a short semantical proof of the strong normalization for full propositional classical natural deduction. This proof is an adaptation of reducibility candidates introduced by J.-Y. Girard and simplified to the classical case by M. Parigot.

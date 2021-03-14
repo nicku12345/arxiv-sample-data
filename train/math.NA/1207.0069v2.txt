@@ -1,0 +1,1 @@
+We give a short and elementary introduction to Lie group methods. A selection of applications of Lie group integrators are discussed. Finally, a family of symplectic integrators on cotangent bundles of Lie groups is presented and the notion of discrete gradient methods is generalised to Lie groups.

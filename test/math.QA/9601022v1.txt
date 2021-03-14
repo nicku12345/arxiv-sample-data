@@ -1,0 +1,1 @@
+We define double (central and cocentral) extensions of Manin pairs introduced by Drinfeld, attached to curves and meromorphic differentials. We define ``infinite twistings'' of these pairs and quantize them in the sl_{2} case, adapting Drinfeld's ``new realizations'' technique. We study finite dimensional representations of these algebras in level 0, and some elliptic examples.

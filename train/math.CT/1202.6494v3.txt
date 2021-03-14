@@ -1,0 +1,1 @@
+We consider the derived category of a specific non-Noetherian ring \Lambda, and show that there are objects in D(\Lambda) that are not Bousfield equivalent to any module. This answers a question posed by Dwyer and Palmieri.

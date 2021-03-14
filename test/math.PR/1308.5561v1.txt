@@ -1,0 +1,1 @@
+Under proper scaling and distributional assumptions, we prove the convergence in the Skorokhod space endowed with the M_1-topology of a sequence of stochastic integrals of a deterministic function driven by a time-changed symmetric \alpha-stable L\'evy process. The time change is given by the inverse \beta-stable subordinator.

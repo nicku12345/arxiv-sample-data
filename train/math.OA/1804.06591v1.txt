@@ -1,0 +1,1 @@
+In this article, we present a new method to study relative Cuntz-Krieger algebras for higher-rank graphs. We only work with edges rather than paths of arbitrary degrees. We then use this method to simplify the existing results about relative Cuntz-Krieger algebras. We also give applications to study ideals and quotients of Toeplitz algebras.

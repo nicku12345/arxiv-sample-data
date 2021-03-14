@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of characteristic zero. Let f:X-->S be a flat, projective morphism of k-schemes of finite type with integral geometric fibers. We prove existence of a projective relative moduli space for semistable singular principal bundles on the fibres of f. This generalizes the result of A. Schmitt who studied the case when X is a nodal curve.

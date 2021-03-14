@@ -1,0 +1,1 @@
+We describe explicit algorithms for factoring q-difference operators and solving q-difference equations. These are well known results, presented in a "concrete" form.   -----   Nous decrivons des algorithmes explicites pour la factorisation d'operateurs et la resolution d'equations aux q-differences. Il s'agit d'une presentation "concrete" de resultats bien connus.

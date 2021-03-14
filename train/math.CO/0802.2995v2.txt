@@ -1,0 +1,1 @@
+We consider two {seemingly} different definitions of infinite words which contain {the} utmost number of palindromes. We show that these two definitions coincide. {The keynote of the proof is a meticulous inspection of properties of complete return words and the application of some basic graph theory.} In fact, we provide another proof of the result announced in \cite{Zamboni}.

@@ -1,0 +1,1 @@
+We show that if p is a prime and G is a finite p-solvable group satisfying the condition that a prime q divides the degree of no irreducible p-Brauer character of G, then the normalizer of some Sylow q-subgroup of G meets all the conjugacy classes of p-regular elements of G.

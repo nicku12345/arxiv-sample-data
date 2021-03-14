@@ -1,0 +1,1 @@
+We give a new proof of a result of Rick Kenyon that the probability that an edge in the middle of an n x n square is used in a loop-erased walk connecting opposites sides is of order n^{-3/4}. We, in fact, improve the result by showing that this estimate is correct up to multiplicative constants.

@@ -1,0 +1,1 @@
+A space X is submaximal if any dense subset of X is open. In this paper, we prove that every submaximal topological gyrogroup of non-measurable cardinality is strongly \sigma-discrete. Moreover, we prove that every submaximal strongly topological gyrogroup of non-measurable cardinality is hereditarily paracompact.

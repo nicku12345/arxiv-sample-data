@@ -1,0 +1,1 @@
+We prove existence and uniqueness for some nonlinear stochastic differential equation used in molecular dynamics, whose nonlinearity comes from a conditional expectation term. We also introduce an interacting particle system in order to approximate this conditional expectation, providing a discretization scheme for this equation.

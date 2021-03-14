@@ -1,0 +1,1 @@
+We prove new upper bounds on homotopy and homology groups of o-minimal sets in terms of their approximations by compact o-minimal sets. In particular, we improve the known upper bounds on Betti numbers of semialgebraic sets defined by quantifier-free formulae, and obtain for the first time a singly exponential bound on Betti numbers of sub-Pfaffian sets.

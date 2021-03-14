@@ -1,0 +1,1 @@
+The computer algebra system CHEVIE is designed to facilitate computations with various combinatorial structures arising in Lie theory, like finite Coxeter groups and Hecke algebras. We discuss some recent examples where CHEVIE has been helpful in the theory of algebraic groups, in questions related to unipotent classes, the Springer correspondence and Lusztig families.

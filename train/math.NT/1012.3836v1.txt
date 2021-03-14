@@ -1,0 +1,1 @@
+Some relations involving the Mellin and Laplace transforms of powers of the classical Hardy function  Z(t) := \zeta(1/2+it)\bigl(\chi(1/2+it)\bigr)^{-1/2}, \quad \zeta(s) = \chi(s)\zeta(1-s)  are obtained. In particular, we discuss some mean square identities and their consequences.

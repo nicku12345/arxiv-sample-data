@@ -1,0 +1,1 @@
+A quasitoric manifold is a 2n-dimensional compact smooth manifold with a locally standard action of an n-dimensional torus whose orbit space is a simple polytope. In this article, we classify quasitoric manifolds with the second Betti number \beta_2=2 topologically. Interestingly, they are distinguished by their cohomology rings up to homeomorphism.

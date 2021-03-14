@@ -1,0 +1,1 @@
+We prove that every finite energy J-holomorphic map u(s,t):\mathbb R\times S^1 \rightarrow {\mathbb R} \times \widetilde{M} exponentially converges to a periodic orbit of Reeb vector field of \widetilde M, as s\to \infty.

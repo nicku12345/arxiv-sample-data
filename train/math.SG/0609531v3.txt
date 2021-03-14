@@ -1,0 +1,1 @@
+Given a crossing in a planar diagram of a link in the three-sphere, we show that the knot Floer homologies of the link and its two resolutions at that crossing are related by an exact triangle. As a consequence, we deduce that for any quasi-alternating knot, the total rank of its knot Floer homology is equal to the determinant of the knot.

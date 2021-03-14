@@ -1,0 +1,1 @@
+The aim of this paper is to find distributional results for the posterior parameters which arise in the Sethuraman (1994) representation of the Dirichlet process. These results can then be used to derive simply the posterior of the Dirichlet process.

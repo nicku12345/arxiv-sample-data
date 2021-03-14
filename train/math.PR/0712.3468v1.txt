@@ -1,0 +1,1 @@
+Using the martingale approach we find sufficient conditions for exponential boundedness of first passage times over a level for ergodic first order autoregressive sequences (AR(1)). Further, we prove a martingale identity to be used in obtaining explicit bounds for the expectation of first passage times.

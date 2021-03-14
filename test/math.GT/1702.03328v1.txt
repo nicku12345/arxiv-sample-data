@@ -1,0 +1,1 @@
+Betten and Riesinger have shown that Clifford parallelism on real projective space is the only topological parallelism that is left invariant by a group of dimension at least 5. We improve the bound to 4. Examples of different parallelisms admitting a group of dimension 3 are known, so 3 is the "critical dimension".

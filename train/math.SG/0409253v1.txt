@@ -1,0 +1,1 @@
+Let G be compact Lie group. It is shown that the cotangent bundle of the complexification of G admits a hyperkahler structure which is invariant under left and right translations by elements of G. The proof is to realize the cotangent bundle of the complex group as a moduli space of solutions to Nahm's equations on the closed interval.

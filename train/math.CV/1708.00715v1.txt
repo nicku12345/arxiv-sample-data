@@ -1,0 +1,1 @@
+For n\geq3, m\geq1 and a given continuous function g:~\Omega\rightarrow\mathbb{R}^{m}, we establish some Schwarz type lemmas for mappings f of \Omega into \mathbb{R}^{m} satisfying the PDE: \Delta f=g, where \Omega is a subset of \mathbb{R}^{n}. Then we apply these results to obtain a Landau type theorem.

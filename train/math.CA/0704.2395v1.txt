@@ -1,0 +1,1 @@
+We proved that for any matrix dilation and for any positive integer n, there exists a compactly supported tight wavelet frame with approximation order n. Explicit methods for construction of dual and tight wavelet frames with a given number of vanishing moments are suggested.

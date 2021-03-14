@@ -1,0 +1,1 @@
+For a fixed object X in a monoidal category, an X-commutation structure on an object A is just a map from XA to AX. We study aspects of such structure in case A has a dual.

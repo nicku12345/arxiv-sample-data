@@ -1,0 +1,1 @@
+In this paper, general logic-systems are investigated. It is shown that there are infinitely many finite consequence operators defined on a fixed language L that cannot be generated from a finite logic-system. It is shown that a set map is a finite consequence operator iff it is defined by a general logic-system.

@@ -1,0 +1,1 @@
+In this paper we give a mathematical proof of Dodgson algorithm [1]. Recently Zeilberger [2] gave a bijective proof. Our techniques are based on determinant properties and they are obtained by induction.

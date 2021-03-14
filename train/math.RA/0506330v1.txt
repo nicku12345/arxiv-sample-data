@@ -1,0 +1,1 @@
+We show that the superanalogue of the Iwasawa decomposition exists for supergroup SL(n,m,\mathbb{C}). The first component of the decomposition is the compact real form SU(n,m), which was constructed following the idea of our article [3]. The second component is the super version of the AN group, that we define in this article.

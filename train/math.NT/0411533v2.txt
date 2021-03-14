@@ -1,0 +1,1 @@
+Let K be a number field, \bar{K} an algebraic closure of K and E/K an elliptic curve defined over K. In this paper, we prove that if E/K has a K-rational point P such that 2P\neq O and 3P\neq O, then for each \sigma\in Gal(\bar{K}/K), the Mordell-Weil group E(\bar{K}^{\sigma}) of E over the fixed subfield of \bar{K} under \sigma has infinite rank.

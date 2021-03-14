@@ -1,0 +1,1 @@
+We study densities of functionals over uniformly bounded triangulations of a Delaunay set of vertices, and prove that the minimum is attained for the Delaunay triangulation if this is the case for finite sets.

@@ -1,0 +1,1 @@
+We show that if a simple 3-manifold M has two Dehn fillings at distance \Delta \geq 4, each of which contains an essential annulus, then M is one of three specific 2-component link exteriors in S^3. One of these has such a pair of annular fillings with \Delta = 5, and the other two have pairs with \Delta = 4.

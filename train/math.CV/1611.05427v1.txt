@@ -1,0 +1,1 @@
+In this paper we introduce the concept of inflexible CR submanifolds. These are CR submanifolds of some complex Euclidean space such that any compactly supported CR deformation is again globally CR embeddable into some complex Euclidean space. Our main result is that any 2-pseudoconcave quadratic CR submanifold of type (n,d) in \mathbb{C}^{n+d} is inflexible.

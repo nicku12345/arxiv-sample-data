@@ -1,0 +1,1 @@
+We compute the second moment of a certain family of Rankin-Selberg L-functions L(f x g, 1/2) where f and g are Hecke-Maass cusp forms on GL(n). Our bound is as strong as the Lindel\"of hypothesis on average, and recovers individually the convexity bound. This result is new even in the classical case n=2.

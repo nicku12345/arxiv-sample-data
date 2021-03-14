@@ -1,0 +1,1 @@
+We introduce a graded version of dagger closure and prove that it coincides with solid closure for homogeneous ideals in two dimensional \mathbb{N}-graded domains of finite type over a field.

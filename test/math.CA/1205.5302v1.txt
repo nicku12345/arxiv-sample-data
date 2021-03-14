@@ -1,0 +1,1 @@
+We study the extension of Hill's method of infinite determinants to the case of integro-differential equations with periodic coefficients and kernels. We develop the analytical theory of such methods, and we obtain certain qualitative properties of the equations that determine the boundaries between regions of dynamic stability and dynamic instability.

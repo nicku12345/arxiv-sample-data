@@ -1,0 +1,1 @@
+We generalize a result of Chen concerning an isogeny between products of jacobians of modular curves associated to subgroups of GL(2,F_p). This generalization concerns objects with an action by GL(2,F) with F an arbitrary finite field, in more general additive categories.

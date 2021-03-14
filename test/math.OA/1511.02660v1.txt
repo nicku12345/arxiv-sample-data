@@ -1,0 +1,1 @@
+The Bost-Connes system is a C^*-dynamical system which has a relation with the class field theory. The purpose of this paper is to generalize the notion of Bost-Connes systems to local fields of characteristic zero. The notable phenomenon in the case of local fields is the absence of the phase transition. We also investigate the relation between the global and local ones.

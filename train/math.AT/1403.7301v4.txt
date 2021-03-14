@@ -1,0 +1,1 @@
+We compute the completed TMF_0(3) cohomology of the 7-connective cover BString of BO. We use cubical structures on line bundles over elliptic curves to construct an explicit class which together with the Pontryagin classes freely generates the cohomology ring.

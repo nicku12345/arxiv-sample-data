@@ -1,0 +1,1 @@
+We study the integral domains D satisfying the following condition: whenever I >AB with I,A,B nonzero ideals, there exist ideals A'>A and B'>B such that I=A'B'.

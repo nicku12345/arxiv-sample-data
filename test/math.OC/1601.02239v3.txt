@@ -1,0 +1,1 @@
+We prove minimax theorems for lower semicontinuous functions defined on a Hilbert space. The main tool is the theory of \Phi-convex functions and sufficient and necessary conditions for the minimax equality to hold for \Phi-convex functions. These conditions are expressed in terms of abstract \Phi-subgradients.

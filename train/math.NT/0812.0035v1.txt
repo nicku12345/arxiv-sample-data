@@ -1,0 +1,1 @@
+Let f be a Maass form for SL(3, \mathbb{Z}) which is fixed and u_j be an orthonormal basis of even Maass forms for SL(2, \mathbb{Z}), we prove an asymptotic formula for the average of the product of the Rankin-Selberg L-function of f and u_j and the L-function of u_j at the central value 1/2. This implies simultaneous nonvanishing results of these L-functions at 1/2.

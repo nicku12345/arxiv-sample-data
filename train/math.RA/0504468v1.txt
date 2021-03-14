@@ -1,0 +1,1 @@
+A commutative local Cohen-Macaulay ring R of finite Cohen-Macaulay type is known to be an isolated singularity; that is, Spec(R)-m is smooth.   This paper proves a non-commutative analogue. Namely, if A is a (non-commutative) graded AS Cohen-Macaulay algebra which is FBN and has finite Cohen-Macaulay type, then the non-commutative projective scheme determined by A is smooth.

@@ -1,0 +1,1 @@
+It is proved that for a Jacobi pair (F,G)\in C[x,y]^2, the Keller mapping: (a,b)\mapsto(F(a,b),G(a,b)) for (a,b)\in C^2, is injective. In particular, the 2-dimensional Jacobi conjecture holds.

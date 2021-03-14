@@ -1,0 +1,1 @@
+Using mostly elementary considerations, we find out who wins the game of Domineering on all rectangular boards of width 2, 3, 5, and 7. We obtain bounds on other boards as well, and prove the existence of polynomial-time strategies for playing on all boards of width 2, 3, 4, 5, 7, 9, and 11. We also comment briefly on toroidal and cylindrical boards.

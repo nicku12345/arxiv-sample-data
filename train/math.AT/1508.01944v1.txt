@@ -1,0 +1,1 @@
+The usual construction of a CW-approximation is functorial up to homotopy, but it is not functorial. In this note, we construct a functorial CW-approximation. Our construction takes inclusions of subspaces into inclusions of subcomplexes, and commutes with intersections of subspaces of a fixed space.

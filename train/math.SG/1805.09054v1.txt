@@ -1,0 +1,1 @@
+In this note we establish a representation property for a certain Hamiltonian capacity on \R^{2n} with the standard symplectic structure. We demonstrate that the value of this capacity on an open set with a contact type boundary is an element of the action spectrum of the boundary.

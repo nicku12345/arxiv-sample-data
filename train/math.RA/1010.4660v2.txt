@@ -1,0 +1,1 @@
+We consider the class of Lie algebras for which the Koszul 3-form is zero, and prove that it contains all quotients of Borel subalgebras, or of their nilradicals, of finite dimensional semi-simple Lie algebras. A list of Kac-Moody types for indecomposable nilpotent Lie algebras of dimension at most 7 is given.

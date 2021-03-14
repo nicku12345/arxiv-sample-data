@@ -1,0 +1,1 @@
+A flexible unified framework for both classical and quantum Schubert calculus is proposed. It is based on a natural combinatorial approach relying on the Hasse-Schmidt extension of a certain family of pairwise commuting endomorphisms of an infinite free Z-module M to its exterior algebra.

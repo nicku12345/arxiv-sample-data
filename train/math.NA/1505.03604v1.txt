@@ -1,0 +1,1 @@
+We show that a very simple modification of the Pure Greedy Algorithm for approximating functions by sparse sums from a dictionary in a Hilbert or more generally a Banach space has optimal convergence rates on the class of convex combinations of dictionary elements

@@ -1,0 +1,1 @@
+Given a Lie group G, a G-manifold M, and a point b of M with compact stabilizer, we construct slices for the lifted tangent and cotangent actions at a pre-image of b in terms of a slice for the G-action on M at the point b. We interpret the slice for the lifted cotangent action in terms of a symplectic slice and in terms of a Witt-Artin-decomposition.

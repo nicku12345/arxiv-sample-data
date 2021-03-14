@@ -1,0 +1,1 @@
+In this note, we introduce a class of indicators that enable to compute efficiently optimal transport plans associated to arbitrary distributions of N demands and N supplies in \mathbf{R} in the case where the cost function is concave. The computational cost of these indicators is small and independent of N. A hierarchical use of them enables to obtain an efficient algorithm.

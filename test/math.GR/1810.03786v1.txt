@@ -1,0 +1,1 @@
+In this note we provide some counterexamples for the conjectures of finite simple groups, one of the conjectures said "all finite simple groups G can be determined using their orders |G| and the number of elements of order p, where p the largest prime divisor of |G|".

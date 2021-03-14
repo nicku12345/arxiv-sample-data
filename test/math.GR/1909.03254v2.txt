@@ -1,0 +1,1 @@
+We give a new purely algebraic approach to odd unitary groups using odd form rings. Using these objects, we prove the stability theorems for odd unitary K_1-functor without using the corresponding result from linear K-theory under the ordinary stable rank condition. Moreover, we prove a natural stabilization result for projective unitary groups and various general unitary groups.

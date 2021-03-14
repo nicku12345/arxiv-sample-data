@@ -1,0 +1,1 @@
+We use geometry of Davis complex of a Coxeter group to prove the following result: if G is an infinite indecomposable Coxeter group and H\subset G is a finite index reflection subgroup then the rank of H is not less than the rank of G. This generalizes results of math/0305093. We also describe some properties of the nerves of the group and the subgroup in the case of equal ranks.

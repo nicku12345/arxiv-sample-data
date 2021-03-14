@@ -1,0 +1,1 @@
+This is the final version of ANT-0142 ("An embedding approach to Dwork's conjecture"). It reduces the higher rank case of the conjecture over a general base variety to the rank one case over the affine space. The general rank one case is completed in ANT-0235 "Rank one case of Dwork's conjecture". Both papers will appear in JAMS.

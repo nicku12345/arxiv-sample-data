@@ -1,0 +1,1 @@
+A simple algorithm to compute all the zeros of a generic polynomial is proposed.

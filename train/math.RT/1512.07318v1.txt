@@ -1,0 +1,1 @@
+We define the almost characters of G(F_q) where G is a reductive connected group over a finite field F_q as explicit linear combinations of irreducible characters. Previously these were defined assuming that the centre of G is connected.

@@ -1,0 +1,1 @@
+We consider the Schrodinger operator a given domain. Our goal is to study some optimization problems where an optimal (non-negative) potential V has to be determined in some suitable admissible classes and for some suitable optimization criteria, like the energy or the Dirichlet eigenvalues.

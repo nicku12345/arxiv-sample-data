@@ -1,0 +1,1 @@
+A partial order on the set of prime knots can be defined by the existence of an epimorphism between knot groups. We prove that all the prime knots with up to 6 crossings are minimal. We also show that each fibered knot with the irreducible Alexander polynomial is minimal.

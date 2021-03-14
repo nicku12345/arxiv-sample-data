@@ -1,0 +1,1 @@
+Given a Morse 2-function f: X^4 \to S^2, we give minimal conditions on the fold curves and fibers so that X^4 and f can be reconstructed from a certain combinatorial diagram attached to S^2. Additional remarks are made in other dimensions.

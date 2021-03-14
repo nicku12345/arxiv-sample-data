@@ -1,0 +1,1 @@
+We consider the energy of a randomly charged polymer. We assume that only charges on the same site interact pairwise. We study the lower tails of the energy, when averaged over both randomness, in dimension three or more. As a corollary, we obtain the correct temperature-scale for the Gibbs measure.

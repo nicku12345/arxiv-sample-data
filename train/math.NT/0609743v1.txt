@@ -1,0 +1,1 @@
+We describe a theoretical and effective algorithm which enables us to prove that rather general hypergeometric series and integrals can be decomposed as linear combinations of multiple zeta values, with rational coefficients.

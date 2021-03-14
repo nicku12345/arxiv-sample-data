@@ -1,0 +1,1 @@
+The A-hypergeometric system was introduced by Gel'fand, Kapranov and Zelevinsky in the 1980's. Among several classes of A-hypergeometric functions, those for 1-simplex \times (n-1)-simplex are known to be a very nice class. We will study an incomplete analog of this class.

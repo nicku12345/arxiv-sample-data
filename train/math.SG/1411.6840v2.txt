@@ -1,0 +1,1 @@
+We give a new proof of Givental's mirror theorem for toric manifolds using shift operators of equivariant parameters. The proof is almost tautological: it gives an A-model construction of the I-function and the mirror map. It also works for non-compact or non-semipositive toric manifolds.

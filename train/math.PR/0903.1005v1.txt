@@ -1,0 +1,1 @@
+Let X be a random vector in \rd with a regularly varying tail. We consider two transformations \|X\|f(\frac{X}{\|X\|}), f: \sd\to\sd, and Xf(\frac{X}{\|X\|}), f: \sd\to \mathbb{R}_+. Some sufficient conditions for preserving the property of regularity of the tail for this kind of transformations are given.

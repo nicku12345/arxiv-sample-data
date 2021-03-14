@@ -1,0 +1,1 @@
+The concept of generalised (in the sense of Colombeau) connection on a principal fibre bundle is introduced. This definition is then used to extend results concerning the geometry of principal fibre bundles to those that only have a generalised connection. Some applications to singular solutions of Yang-Mills theory are given.

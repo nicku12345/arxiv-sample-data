@@ -1,0 +1,1 @@
+Inspired by the algorithm of Berga and de Saxce for solving the discretisation in time of the evolution problem for an implicit standard material, we propose a general variational formulation in terms of bipotentials.

@@ -1,0 +1,1 @@
+In this manuscript we provide a new polynomial pattern. This pattern allows to find a polynomial expansion of the form \[x^{2m+1} = \sum_{k=1}^{x}\sum_{r=0}^{m} \mathbf{A}_{m,r} k^r (x-k)^r,\] where x,m\in\mathbb{N} and \mathbf{A}_{m,r} is real coefficient.

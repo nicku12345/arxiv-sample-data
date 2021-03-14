@@ -1,0 +1,1 @@
+In 1982, J.E. Jayne and C.A. Rogers proved that a mapping f \colon X \rightarrow Y of an absolute Souslin-F set X to a metric space Y is \Delta^0_2-measurable if and only if it is piecewise continuous. We now give a similar result for a perfectly paracompact first-countable space X and a regular space Y.

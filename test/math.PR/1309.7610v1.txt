@@ -1,0 +1,1 @@
+Finite difference schemes in the spatial variable for degenerate stochastic parabolic PDEs are investigated. Sharp results on the rate of L_p and almost sure convergence of the finite difference approximations are presented and results on Richardson extrapolation are established for stochastic parabolic schemes under smoothness assumptions.

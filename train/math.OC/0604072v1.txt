@@ -1,0 +1,1 @@
+We use a computer algebra system to compute, in an efficient way, optimal control variational symmetries up to a gauge term. The symmetries are then used to obtain families of Noether's first integrals, possibly in the presence of nonconservative external forces. As an application, we obtain eight independent first integrals for the sub-Riemannian nilpotent problem (2,3,5,8).

@@ -1,0 +1,1 @@
+We examine the class of increasing sequences of natural numbers which are IP-rigidity sequences for some weakly mixing probability preserving transformation. This property is closely related to the uncountability of the eigenvalue group of a corresponding non-singular transformation. We give examples, including a super-lacunary sequence which is not IP-rigid.

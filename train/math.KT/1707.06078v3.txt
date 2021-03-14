@@ -1,0 +1,1 @@
+We provide new tools for the calculation of the torsion in the cohomology of congruence subgroups in the Bianchi groups : An algorithm for finding particularly useful fundamental domains, and an analysis of the equivariant spectral sequence combined with torsion subcomplex reduction.\_\_\_\_\_\_\_\_\_\_With an appendix by Bui Anh Tuan and Sebastian Sch{\"o}nnenbeck

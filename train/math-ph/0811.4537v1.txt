@@ -1,0 +1,1 @@
+We consider a pseudorelativistic model of atoms and molecules, where the kinetic energy of the electrons is given by \sqrt{p^2+m^2}-m. In this model the eigenfunctions are generally not even bounded, however, we prove that the corresponding one-electron densities are smooth away from the nuclei.

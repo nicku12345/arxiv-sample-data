@@ -1,0 +1,1 @@
+The purpose of this paper is to give two applications of Fourier transforms and generic vanishing theorems:   - we give a cohomological characterization of principal polarizations   - we prove that if X an abelian variety and \Theta  a polarization of type (1,...,1,2), then a general pair (X,\Theta ) is log canonical

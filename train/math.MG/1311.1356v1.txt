@@ -1,0 +1,1 @@
+We study measures on [0,1] which are driven by a finite Markov chain and which generalize the famous Bernoulli products. We propose a hands-on approach to determine the structure function \tau and to prove that the multifractal formalism is satisfied. Formulas for the dimension of the measures and for the Hausdorff dimension of their supports are also provided.

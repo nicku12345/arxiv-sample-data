@@ -1,0 +1,1 @@
+Let p>3 be a prime number and let r be an integer with 1<r<p-1. For each r, let moreover G_r denote the unique quotient of the maximal class pro-p group of size p^{r+1}. We show that the mod-p cohomology ring of G_r has depth one and that, in turn, it satisfies the equalities in Carlson's depth conjecture [3].

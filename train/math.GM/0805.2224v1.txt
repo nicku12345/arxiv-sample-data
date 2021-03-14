@@ -1,0 +1,1 @@
+A new differential test for series of positive terms is proved. Let f(x) be a positive continuous function corresponded to a series of positive terms f(k), and g(x) is a derivative of reciprocal of f(x). Then, the convergence and divergence of the series may be determined from a value of fgx for enough large x. The rest may make the limit form, and is universal and complete.

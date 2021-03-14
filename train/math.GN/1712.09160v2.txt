@@ -1,0 +1,1 @@
+We answer the question: "on which metric spaces (M,d) are all continuous functions uniformly continuous?" Our characterization theorem improves and generalizes a previous result due to Levine and Saunders, and in particular is applicable to metric spaces which are "infinite dimensional."

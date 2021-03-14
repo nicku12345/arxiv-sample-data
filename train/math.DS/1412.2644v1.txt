@@ -1,0 +1,1 @@
+We study the real valued process  \{X_t, t\in {\mathbb N}\}  defined by X_{t+2} = \varphi(X_t,X_{t+1}), where the X_t are bounded. We aim at proving the decay of correlations for this model, under regularity assumptions on the transformation \varphi.

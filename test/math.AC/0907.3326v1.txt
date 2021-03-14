@@ -1,0 +1,1 @@
+We construct generalized Weyman complexes for coherent sheaves on projective space and describe explicitly how the differential depend on the differentials in the correpsonding Tate resolution. We apply this to define the Weyman complex of a coherent sheaf on a projective variety and explain how certain Weyman complexes can be regarded as Fourier-Mukai transforms.

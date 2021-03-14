@@ -1,0 +1,1 @@
+It is shown that projectionless C*-algebras that tensorially absorb the Jiang-Su algebra have the property that every element is a limit of products of two nilpotents. This is then used to classify the approximate unitary equivalence classes of positive elements in such C*-algebras using traces.

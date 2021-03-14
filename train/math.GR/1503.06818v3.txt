@@ -1,0 +1,1 @@
+Every semigroup which is a finite disjoint union of copies of the free mono- genic semigroup (natural numbers under addition) has soluble word prob- lem and soluble membership problem. Efficient algorithms are given for both problems.

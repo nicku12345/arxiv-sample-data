@@ -1,0 +1,1 @@
+This revised version corrects some substancial errors in the proofs. The old proofs were only valid for (finite dimensional) * (finite dimensional). The scope of the results remains the same, however for type I_\infty algebras, the results of the original version were incorrect.

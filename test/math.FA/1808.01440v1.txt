@@ -1,0 +1,1 @@
+In this paper, we introduce the concept of K-fusion frames and propose the duality for such frames. The relation between the local frames of K-fusion frames with their dual is studied. The elements from the range of a bounded linear operator K can be reconstructed by K-frames. Also, we establish K-fusion frame multipliers and investigate reconstruction of the range of K by them.

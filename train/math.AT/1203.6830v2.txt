@@ -1,0 +1,1 @@
+We prove a homological stability theorem for the moduli spaces of manifolds diffeomorphic to g(S^n x S^n), provided n > 2. This generalises Harer's stability theorem for the homology of mapping class groups. Combined with previous work of the authors, it gives a calculation of the homology of these moduli spaces in a range of degrees.

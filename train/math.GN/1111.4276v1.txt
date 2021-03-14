@@ -1,0 +1,1 @@
+This note presents a procedure of constructing a higher dimensional sphere map from a lower dimensional one and gives an explicit formula for smooth sphere map with a given degree. As an application a new proof of a generalized Poincare-Hopf theorem called Morse index formula is also presented.

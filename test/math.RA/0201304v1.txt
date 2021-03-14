@@ -1,0 +1,1 @@
+We study the ring generated over a field of characteristic 0 by noncommuting indeterminates {x_1,x_2,...,x_n} subject only to the relations x_i\sigma_k=\sigma_k x_i, for i,k=1,2,...,n, and their consequences, where \sigma_k =\sigma_k(x_1,x_2,...,x_n) is the k-th elementary polynomial in the noncommuting variables x_i. We assume n\geq 3 throughout.

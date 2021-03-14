@@ -1,0 +1,1 @@
+We introduce a misere quotient semigroup construction in impartial combinatorial game theory, and argue that it is the long-sought natural generalization of the normal-play Sprague-Grundy theory to misere play. Along the way, we illustrate how to use the theory to describe complete analyses of two wild taking and breaking games.

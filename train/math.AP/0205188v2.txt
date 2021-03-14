@@ -1,0 +1,1 @@
+We prove the existence of a compact L^2-H^1 attractor for a reaction-diffusion equation in R^n. This improves a previous result of B. Wang concerning the existence of a compact L^2-L^2 attractor for the same equation.

@@ -1,0 +1,1 @@
+A natural composition \odot on all pages of the lower central series spectral sequence for spheres is defined. Moreover, it is defined for p-lower central series spectral sequence of a simplicial group. It is proved that rth differential satisfies a "Leibiz rule with suspension": d^r(a\odot \sigma b)=\pm d^ra\odot b+a\odot d^r\sigma b, where \sigma is the suspension homomorphism.

@@ -1,0 +1,1 @@
+Given a smooth projective curve C of genus g over the complex numbers, Torelli's thoerem asserts that the pair (J(C),W^{g-1}) determines C, where W^{g-1} is an image of the g-1st symmetric power of C inside the Jacobian under an Abel-Jacobi map. We show that the theorem holds with g-1 replaced by an integer d in the range 1\le d\le g-1.

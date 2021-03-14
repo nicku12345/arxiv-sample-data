@@ -1,0 +1,1 @@
+Connections are an important tool of differential geometry. This paper investigates their definition and structure in the abstract setting of tangent categories. At this level of abstraction we derive several classically important results about connections, including the Bianchi identities, identities for curvature and torsion, almost complex structure, and parallel transport.

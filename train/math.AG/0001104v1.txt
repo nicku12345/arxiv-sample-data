@@ -1,0 +1,1 @@
+Given an invertible sheaf, does it come from a Cartier divisor? This might fail in presence of embedded components. I give some examples and characterize those invertible sheaves that allow a Cartier divisor.

@@ -1,0 +1,1 @@
+We introduce an infinite-dimensional affine group and construct its irreducible unitary representation. Our approach follows the one used by Vershik, Gelfand and Graev for the diffeomorphism group, but with modifications made necessary by the fact that the group does not act on the phase space. However it is possible to define its action on some classes of functions.

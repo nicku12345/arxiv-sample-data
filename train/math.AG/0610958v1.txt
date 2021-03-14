@@ -1,0 +1,1 @@
+We use the computer algebra system Magma to study graded rings of Fano 3-folds of index >=3 in terms of their Hilbert series.

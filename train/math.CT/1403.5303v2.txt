@@ -1,0 +1,1 @@
+We show that the category of algebraically cofibrant objects in a combinatorial and simplicial model category A has a model structure that is left-induced from that on A. In particular it follows that any presentable model category is Quillen equivalent (via a single Quillen equivalence) to one in which all objects are cofibrant.

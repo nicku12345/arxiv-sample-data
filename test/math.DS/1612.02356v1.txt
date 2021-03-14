@@ -1,0 +1,1 @@
+We show that the growth inequality rate \limsup \frac{1}{n} \log (\# Fix (f^n))\geq \log d holds for branched coverings of degree d of the sphere S^2 having a completely invariant simply connected region R with locally connected boundary, except in some degenerate cases with known couterexamples.

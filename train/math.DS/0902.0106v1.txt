@@ -1,0 +1,1 @@
+We discuss the relation between Devaney chaos in the base system and Devaney chaos in its induced hyperspace system. We show that the latter need not imply the former. We also argue that this implication is not true even in the strengthened condition. Additionally we give an equivalent condition for the periodically density in the hyperspace system.

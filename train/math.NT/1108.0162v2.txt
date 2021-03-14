@@ -1,0 +1,1 @@
+Let f(x) be the product of several linear polynomials with integer coefficients. In this paper, we obtain the estimate: \log {\rm lcm}(f(1), ..., f(n))\sim An as n\rightarrow\infty , where A is a constant depending on f.

@@ -1,0 +1,1 @@
+In this article we define frame for a Krein space K with a J-orthonormal basis and extend the notion of frame sequence and frame potential analogous to Hilbert spaces.We show that every frame is a sum of three orthonormal bases of a Krein space. We also find relation between frame and orthogonal projections on Krein space.

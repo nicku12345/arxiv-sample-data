@@ -1,0 +1,1 @@
+With the help of the representation of SL(2,Z) on the rank two free module over the integer adeles, we define the transition operator of a Markov chain. The real component of its spectrum exhibits a gap, whereas the non-real component forms a circle of radius 1/\sqrt{2}.

@@ -1,0 +1,1 @@
+In this paper, we give a complete description of strongly regular graphs with parameters ((n^2+3n-1)^2,n^2(n+3),1,n(n+1)). All possible such graphs are: the lattice graph L_{3,3} with parameters (9,4,1,2), the Brouwer-Haemers graph with parameters (81,20,1,6), and the Games graph with parameters (729,112,1,20).

@@ -1,0 +1,1 @@
+We construct one and two parameter deformations of the two dimensional Chebyshev polynomials with simple recurrence coefficients, following the algorithm in [3]. Using inverse scattering techniques, we compute the corresponding orthogonality measures.

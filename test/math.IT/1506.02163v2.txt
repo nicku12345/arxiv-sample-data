@@ -1,0 +1,1 @@
+In this paper, we propose a new method to bound the capacity of checkerboard codes on the hexagonal lattice. This produces rigorous bounds that are tighter than those commonly known.

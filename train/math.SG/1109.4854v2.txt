@@ -1,0 +1,1 @@
+We prove that on any symplectic manifold whose symplectic form represents a rational cohomology class there exists a sequence of compatible almost complex structures whose Nijenhuis energy (the L^2-norm of the Nijenhuis tensor) tends to zero. The sequence is obtained by stretching the neck around a Donaldson hypersurface.

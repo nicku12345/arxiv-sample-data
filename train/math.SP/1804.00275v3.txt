@@ -1,0 +1,1 @@
+Let \Gamma=PSL(2,Z[i]) be the Picard group and H^3 be the three-dimensional hyperbolic space. We study the Prime Geodesic Theorem for the quotient \Gamma \setminus H^3, called the Picard manifold, obtaining an error term of size O(X^{3/2+\theta/2+\epsilon}), where \theta denotes a subconvexity exponent for quadratic Dirichlet L-functions defined over Gaussian integers.

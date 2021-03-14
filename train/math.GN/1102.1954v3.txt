@@ -1,0 +1,1 @@
+We define two natural classes of functions, called 2-open and 2-closed, that are closest to open and closed functions.   We show that they have the following property: there are X_i \subset X  (i=1,2,...) such that f|X_i are open or closed functions onto f(X_i) and f(X_i) cover Y.

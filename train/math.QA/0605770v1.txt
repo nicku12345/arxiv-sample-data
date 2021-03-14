@@ -1,0 +1,1 @@
+We first discuss how open/closed chord diagrams, both with and without marked points, act on appropriate Hochschild complexes possibly coupled with the two-sided cobar complex. Then, in the main part of the paper, we introduce the notion of a V_k-algebra and obtain suitable homotopy versions.

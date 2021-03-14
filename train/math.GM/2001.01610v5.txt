@@ -1,0 +1,1 @@
+In this paper, we propose a new fractional derivative, which is based on a Caputo-type derivative with a smooth kernel. We show that the proposed fractional derivative reduces to the classical derivative and has a smoothing effect which is compatible with \ell_{1} regularization. Moreover, it satisfies some classical properties.

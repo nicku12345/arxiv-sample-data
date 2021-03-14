@@ -1,0 +1,1 @@
+The Brezis-Browder ordering principle [Advances Math., 21 (1976), 355-364] is used to get a proof, in the reduced axiomatic system (ZF-AC+DC), of a fixed point result [in the complete axiomatic system (ZF)] over Cantor complete ultrametric spaces due to Petalas and Vidalis [Proc. Amer. Math. Soc., 118 (1993), 819-821].

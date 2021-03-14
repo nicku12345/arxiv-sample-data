@@ -1,0 +1,1 @@
+We prove that no ball admits a non-harmonic orthogonal basis of exponentials. We use a combinatorial result, originally studied by Erd\H os, which says that the number of distances determined by n points in {\Bbb R}^d is at least C_d n^{\frac{1}{d}+\epsilon_d}, \epsilon_d>0.

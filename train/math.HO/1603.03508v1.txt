@@ -1,0 +1,1 @@
+In 1928 Henry Scudder described how to use a carpenter's square to trisect an angle. We use the ideas behind Scudder's technique to define a trisectrix---a curve that can be used to trisect an angle. We also describe a compass that could be used to draw the curve.

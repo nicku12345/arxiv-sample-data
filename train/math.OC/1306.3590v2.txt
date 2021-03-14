@@ -1,0 +1,1 @@
+We derive a new formula for the sensitivity of electromechanical oscillation damping with respect to generator redispatch. The formula could lead to some combination of observations, computations and heuristics to more effectively damp interarea oscillations.

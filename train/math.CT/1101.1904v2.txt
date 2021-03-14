@@ -1,0 +1,1 @@
+In this paper, we show that \C{G}-Frobenius algebras (for \C{G} a finite groupoid) correspond to a particular class of Frobenius objects in the representation category of D(k[\C{G}]), where D(k[\C{G}]) is the Drinfeld double of the quantum groupoid k[\C{G}].

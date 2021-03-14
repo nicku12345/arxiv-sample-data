@@ -1,0 +1,1 @@
+Let L be a non-split prime alternating link with n>0 crossings. We show that for each fixed g, the number of genus-g Seifert surfaces for L is bounded by an explicitly given polynomial in n. The result also holds for all spanning surfaces of fixed Euler characteristic. Previously known bounds were exponential.

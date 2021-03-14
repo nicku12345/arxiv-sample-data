@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the mean value of Frobenius numbers with three arguments. To prove this we use a new method invented by A. Ustinov, Rodseth's algorithm an bounds for exponential sums.

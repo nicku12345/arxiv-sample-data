@@ -1,0 +1,1 @@
+In this paper we present explicit bounds for optimal control in a Lagrange problem without end-point constraints. The approach we use is due to Gamkrelidze and is based on the equivalence of the Lagrange problem and a time-optimal problem for diferential inclusions.

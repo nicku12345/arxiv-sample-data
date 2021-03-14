@@ -1,0 +1,1 @@
+In this article we review a new method for proving the nonexistence of positive solutions of elliptic inequalities in unbounded domains in \rn, which was recently introduced by the authors. We expose our method and new results on the two most frequently encountered cases: inequalities involving the p-Laplacian or the Pucci extremal operator.

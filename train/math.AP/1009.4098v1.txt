@@ -1,0 +1,1 @@
+We prove the local in time existence and a blow up criterion of solution in the H\"{o}lder spaces for the inviscid Boussinesq system in R^{N},N\geq2, under the assumptions that the initial values \theta_{0},u_{0}\in C^{r}, with r>1.

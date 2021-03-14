@@ -1,0 +1,1 @@
+After recalling some basic notions of quantum statistical mechanics, we explain the Bost-Connes system that relates the structure of the maximal abelian extension of \mathbb{Q} to the space of \kms states of a \cs-dynamical system. Afterwards, we study briefly the Connes-Marcolli \text{GL}_2-system as a generalization of the former system.

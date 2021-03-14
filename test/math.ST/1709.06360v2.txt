@@ -1,0 +1,1 @@
+We study minimax lower bounds for function estimation problems on large graph when the target function is smoothly varying over the graph. We derive minimax rates in the context of regression and classification problems on graphs that satisfy an asymptotic shape assumption and with a smoothness condition on the target function, both formulated in terms of the graph Laplacian.

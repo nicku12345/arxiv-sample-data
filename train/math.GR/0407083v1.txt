@@ -1,0 +1,1 @@
+We establish an arithmeticity vs. non-linearity alternative for irreducible lattices in suitable product groups, such as for instance products of topologically simple groups. This applies notably to a (large class of) Kac-Moody groups. The alternative relies on a CAT(0) superrigidity theorem, as we follow Margulis' reduction of arithmeticity to superrigidity.

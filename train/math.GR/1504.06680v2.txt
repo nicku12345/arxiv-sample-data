@@ -1,0 +1,1 @@
+The Thompson group V is a subgroup of the homeomorphism group of the Cantor set. Brin defined higher dimensional Thompson groups nV as generalizations of V. We prove that nV has Serre's property FA, for every n. This is a generalization of the corresponding result of Farley, who studied V.

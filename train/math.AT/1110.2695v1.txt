@@ -1,0 +1,1 @@
+In this article, we construct a cofibrantly generated Quillen model structure on the category of small topological categories \mathbf{Cat}_{\mathbf{Top}}. It is Quillen equivalent to the Joyal model structure of (\infty,1)-categories and the Bergner model structure on \mathbf{Cat}_{\mathbf{sSet}}.

@@ -1,0 +1,1 @@
+Using ideas from algebraic topology and statistical mechanics, we generalize Kirchhoff's network and matrix-tree theorems to finite CW complexes of arbitrary dimension. As an application, we give a formula expressing Reidemeister torsion as an enumeration of higher dimensional spanning trees.

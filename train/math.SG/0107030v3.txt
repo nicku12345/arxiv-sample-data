@@ -1,0 +1,1 @@
+We generalize the author's formula for Gromov-Witten invariants of symplectic toric manifolds (see math.AG/0006156) to those needed to compute the quantum product of more than two classes directly, i.e. involving the pull-back of the Poincar\'e dual of the point class in the Deligne-Mumford spaces  \mathcal{M}_{0,m} .

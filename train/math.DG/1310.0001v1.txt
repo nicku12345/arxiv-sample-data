@@ -1,0 +1,1 @@
+In this note, we extend the theory of Chern-Cheeger-Simons to construct canonical invariants for a one-parameter family of flat connections on a smooth manifold. These invariants lie in degrees (2p-2)-cohomology with \C/\Z-cohomology, for p\geq 2. Furthermore, they are shown to be rigid in a variation of paths (parametrising flat connections), in degrees at least three.

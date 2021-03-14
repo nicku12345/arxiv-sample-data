@@ -1,0 +1,1 @@
+We show that the number of generators of the n-th cotangent cohomology group (n >=2) is the same for all rational surface singularities Y. For a large class of rational surface singularities, including quotient singularities, this number is also the dimension. For them we obtain an explicit formula for the corresponding Poincare series.

@@ -1,0 +1,1 @@
+We prove that for any semi-Dirichlet form (\epsilon, D(\epsilon)) on a measurable Lusin space E there exists a Lusin topology with the given \sigma-algebra as the Borel \sigma-algebra so that (\epsilon, D(\epsilon)) becomes quasi-regular. However one has to enlarge E by a zero set. More generally a corresponding result for arbitrary L^p-resolvents is proven.

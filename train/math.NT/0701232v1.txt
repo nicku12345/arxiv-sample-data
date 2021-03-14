@@ -1,0 +1,1 @@
+Two numbers are spectral equivalent if they have the same length spectrum. We show how to compute the equivalence classes of this relation. Moreover, we show that these classes can only have either 1,2 or infinitely many elements.

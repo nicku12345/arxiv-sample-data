@@ -1,0 +1,1 @@
+We show the topological Hochschild homology spectrum of a twisted group algebra \THH(A^{\tau}[G]) is the Thom spectrum associated to a parametrized orthogonal spectrum E(A,G). We then analyze the structure of the parametrized orthogonal spectrum E(A,G) and show that it is locally trivial.

@@ -1,0 +1,1 @@
+Let X and Y be separable Banach spaces and T:X\to Y be a bounded linear operator. We characterize the non-separability of T^*(Y^*) by means of fixing properties of the operator T.

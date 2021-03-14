@@ -1,0 +1,1 @@
+We show that every finite-dimensional complex pointed Hopf algebra with group of group-likes isomorphic to a sporadic group is a group algebra, except for the Fischer group Fi22, the Baby Monster and the Monster. For these three groups, we give a short list of irreducible Yetter-Drinfeld modules whose Nichols algebra is not known to be finite-dimensional.

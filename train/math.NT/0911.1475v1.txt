@@ -1,0 +1,1 @@
+We study some properties of the exponents of the terms appearing in the splitting perfect polynomials over \mathbb{F}_{p^2}, where p is a prime number. This generalizes the work of Beard et al. over \mathbb{F}_p. Corrected paper. Older Lemmas 2.17 to 2.20 in published version required a fixing done herein.

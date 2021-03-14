@@ -1,0 +1,1 @@
+In this paper, we firstly give a matrix approach to the bases of a separable Hilbert space and then correct a mistake appearing in both review and the English translation of the Olevskii's paper. After this, we show that even a diagonal compact operator may map an orthonormal basis into a conditional basis.

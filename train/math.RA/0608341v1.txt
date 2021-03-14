@@ -1,0 +1,1 @@
+We show that graded Hecke algebras are PI algebras if and only if they are finitely generated over their centres if and only if the deformation parameters t_{i} are zero for all i=1,\ldots,N. This generalises a result for symplectic reflection algebras by Etingof - Ginzburg and Brown - Gordon.

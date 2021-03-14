@@ -1,0 +1,1 @@
+We give a proof of the index theorem of lattice Wilson--Dirac operators, which states that the index of a twisted Dirac operator on the standard torus is described in terms of the corresponding lattice Wilson--Dirac operator. Our proof is based on the higher index theory of almost flat vector bundles.

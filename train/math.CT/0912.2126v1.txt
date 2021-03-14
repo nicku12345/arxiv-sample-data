@@ -1,0 +1,1 @@
+We give two examples of categorical axioms asserting that a canonically defined natural transformation is invertible where the invertibility of any natural transformation implies that the canonical one is invertible. The first example is distributive categories, the second (semi-)additive ones. We show that each follows from a general result about monoidal functors.

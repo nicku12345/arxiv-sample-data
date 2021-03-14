@@ -1,0 +1,1 @@
+Recall that an algebraic module is a KG-module that satisfies a polynomial with integer coefficients, with addition and multiplication given by direct sum and tensor product. In this article we prove that if L is a component of the (stable) Auslander-Reiten quiver for a dihedral 2-group consisting of non-periodic modules, then there is at most one algebraic module on L.

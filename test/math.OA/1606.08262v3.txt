@@ -1,0 +1,1 @@
+We show that an action of a group on a set X is locally finite if and only if X is not equidecomposable with a proper subset of itself. As a consequence, a group is locally finite if and only if its uniform Roe algebra is finite.

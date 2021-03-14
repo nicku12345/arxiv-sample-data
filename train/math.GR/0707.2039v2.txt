@@ -1,0 +1,1 @@
+Given a finite group H and a free group F_n, we prove that the wreath product H\wr F_n admits a metrically proper, isometric action on a Hilbert space.

@@ -1,0 +1,1 @@
+In this paper we introduce the concepts of higher equivariant and invariant topological complexity; and study their properties. Then we compare them with equivariant LS-category. We give lower and upper bounds for these new invariants. We compute some of these invariants for moment angle complexes.

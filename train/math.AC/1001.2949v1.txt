@@ -1,0 +1,1 @@
+Let R be a ring of polynomials in a finite number of variables over a perfect field k of characteristic p>0 and let F:R\to R be the Frobenius map of R, i.e. F(r)=r^p. We explicitly describe an R-module isomorphism Hom_R(F_*(M),N)\cong Hom_R(M,F^*(N)) for all R-modules M and N. Some recent and potential applications are discussed.

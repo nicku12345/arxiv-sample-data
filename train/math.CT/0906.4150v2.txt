@@ -1,0 +1,1 @@
+In his 1973 paper Quillen proved a resolution theorem for the K-Theory of an exact category; his proof was homotopic in nature. By using the main result of a paper by Nenashev, we are able to give an algebraic proof of Quillen's Resolution Theorem for K_1 of an exact category.

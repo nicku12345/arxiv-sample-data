@@ -1,0 +1,1 @@
+We show that each integral Borel cohomology class of a connected Lie group G can be represented by a Borel bounded cocycle if and only if the radical of G is linear. This leads to a generalization of Gromov's boundedness theorem on characteristic classes of flat bundles.

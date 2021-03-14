@@ -1,0 +1,1 @@
+For the finite groups GU(3), SU(3), GL(3), SL(3) over a finite field we solve the class product problem, i.e., we give a complete list of m-tuples of conjugacy classes whose product does not contain the identity matrix.

@@ -1,0 +1,1 @@
+We study generalized Poincar\'e inequalities. We prove that if a function satisfies a suitable inequality of Poincar\'e type, then the Hardy-Littlewood maximal function also obeys a meaningful estimate of similar form. As a by-product, we get a unified approach to proving that the maximal operator is bounded on Sobolev, Lipschitz and BMO spaces.

@@ -1,0 +1,1 @@
+It is proved that the weak large deviation principle of the scaled processes Z^\eps(t) = \eps Z(t/\eps) implies the weak large deviation principle for the scaled Green's measures of the Markov process Z(t).

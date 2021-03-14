@@ -1,0 +1,1 @@
+If a 3--manifold Y contains a non-separating sphere, then some twisted Heegaard Floer homology of Y is zero. This simple fact allows us to prove several results about Dehn surgery on knots in such manifolds. Similar results have been proved for knots in L--spaces.

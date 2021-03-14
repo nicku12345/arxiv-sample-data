@@ -1,0 +1,1 @@
+This paper shows how properties of jet schemes relate to those of the singularity on the base scheme. We will see that the jet scheme's properties of being Q-factorial, Q-Gorenstein, canonical, terminal and so on are inherited by the base scheme.

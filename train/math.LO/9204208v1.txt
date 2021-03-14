@@ -1,0 +1,1 @@
+The purpose of this note is to prove irreflexivity, and hence the linear ordering, in ZFC, without some of the machinery used by Dehornoy.

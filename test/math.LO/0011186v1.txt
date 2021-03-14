@@ -1,0 +1,1 @@
+The main result is   Theorem: Let A be an R-algebra, mu, lambda be cardinals such that |A|<=mu=mu^{aleph_0}<lambda<=2^mu. If A is aleph_0-cotorsion-free or A is countably free, respectively, then there exists an aleph_0-cotorsion-free or a separable (reduced, torsion-free) R-module G respectively of cardinality |G|=lambda with End_RG=A oplus Fin G.

@@ -1,0 +1,1 @@
+Mitchell's theorem on the approachability ideal states that it is consistent relative to a greatly Mahlo cardinal that there is no stationary subset of \omega_2 \cap \mathrm{cof}(\omega_1) in the approachability ideal I[\omega_2]. In this paper we give a new proof of Mitchell's theorem, deriving it from an abstract framework of side condition methods.

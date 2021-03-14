@@ -1,0 +1,1 @@
+We prove that the tight function introduced Sheffield and Smart (2012) is a Kirszbraun extension. In the real-valued case we prove that Kirszbraun extension is unique. Moreover, we produce a simple algorithm which calculates efficiently the value of Kirszbraun extension in polynomial time.

@@ -1,0 +1,1 @@
+We explain the algebra needed to make sense of the log signature of a path, with plenty of examples. We show how the log signature can be calculated numerically, and explain some software tools which demonstrate it.

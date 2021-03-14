@@ -1,0 +1,1 @@
+Applying proper orthogonal decomposition to a usual finite element (FE) formulation for space fractional partial differential equation, we get a reduced FE model, which greatly reduces the complexity of computation. Then, the stability analysis and error estimate for the reduced model are presented. Finally, we verify the effectiveness of the algorithm by numerical experiments.

@@ -1,0 +1,1 @@
+This paper establishes that every positive-definite matrix can be written as a positive linear combination of outer products of integer-valued vectors whose entries are bounded by the geometric mean of the condition number and the dimension of the matrix.

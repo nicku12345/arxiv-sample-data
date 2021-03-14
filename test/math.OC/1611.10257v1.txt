@@ -1,0 +1,1 @@
+We develop an Iterative version of the Singular Value Decomposition (ISVD) that jointly analyzes a finite number of data matrices to identify signals that correlate among the rows of matrices. It will be illustrated how the supervised analysis of a big data set by another complex, multi-dimensional phenotype using the ISVD algorithm could lead to signal detection.

@@ -1,0 +1,1 @@
+We show that the integer homology sphere obtained by splicing two nontrivial knot complements in integer homology sphere L-spaces has Heegaard Floer homology rank strictly greater than one. In particular, splicing the complements of nontrivial knots in the 3-sphere never produces an L-space. The proof uses bordered Floer homology.

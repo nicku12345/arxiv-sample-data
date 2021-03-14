@@ -1,0 +1,1 @@
+For each \beta\in(0,+\infty) there exists a canonical measure \mu_\beta on the ring A_f of finite adeles. We show that the positive rationals act ergodically on (A_f,\mu_\beta) for \beta\in(0,1], and then deduce from this the uniqueness of KMS_\beta-states for the Bost-Connes system.

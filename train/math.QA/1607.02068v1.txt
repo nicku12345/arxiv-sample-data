@@ -1,0 +1,1 @@
+We introduce dg Lie algebras controlling the deformations of vertex algebras and vertex Poisson algebras, utilizing the notion of operadic dg Lie algebra and the theory of chiral algebra. In terms of those dg Lie algebras, we formulate the deformation quantization problem of vertex Poisson algebras to vertex algebras.

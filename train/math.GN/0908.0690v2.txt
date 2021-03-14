@@ -1,0 +1,1 @@
+Whenever the mapping class group of a closed orientable surface of genus g acts by semisimple isometries on a complete CAT(0) space of dimension less than g it fixes a point.

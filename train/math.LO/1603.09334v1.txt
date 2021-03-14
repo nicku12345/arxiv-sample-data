@@ -1,0 +1,1 @@
+This paper is a continuation of the paper [16]. Namely, in [16] we have introduced, among others, the definition of the atomic entailment and we have constructed the system \overset\sqcap S, which is based on the atomic entailment. In this paper we show that the classical Arithmetic can be based on the Atomic Logic (see [17]).

@@ -1,0 +1,1 @@
+We derive several identities for arbitrary homogeneous second order recurrence sequences with constant coefficients. The results are then applied to present a unified study of six well known integer sequences, namely the Fibonacci sequence, the sequence of Lucas numbers, the Jacobsthal sequence, the Jacobsthal-Lucas sequence, the Pell sequence and the Pell-Lucas sequence.

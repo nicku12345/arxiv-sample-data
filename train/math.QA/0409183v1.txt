@@ -1,0 +1,1 @@
+We complete a certain diagram (the operadic butterfly) of categories of algebras involving Com, As, and Lie by constructing a type of algebras which have 4 generating operations and 16 relations. The associated operad is self-dual for Koszul duality.

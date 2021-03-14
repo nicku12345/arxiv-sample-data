@@ -1,0 +1,1 @@
+We find bounds for the Hofer-Zehnder capacity of coadjoint orbits of compact Lie groups with respect to the Kostant--Kirillov--Souriau symplectic form in terms of the combinatorics of their Bruhat graph. We show that our bounds are sharp for coadjoint orbits of the unitary group and equal to the diameter of a weighted Cayley graph.

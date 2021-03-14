@@ -1,0 +1,1 @@
+Let f be a newform of weight two and composite level N. We show how to compute weight 3/2 modular forms "associated" to f whose Fourier coefficients are related to the central values of quadratic twists (real and imaginary) of f. We will focus on examples for levels N=27, N=15, and N=75, which exhibit most aspects of our methods.

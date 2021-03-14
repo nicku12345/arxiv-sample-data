@@ -1,0 +1,1 @@
+We consider Sinai's random walk in random environment. We prove that infinitely often (i.o.) the size of the concentration neighborhood of this random walk is almost surely bounded. As an application we get that i.o. the maximal distance between two favorite sites is almost surely bounded.

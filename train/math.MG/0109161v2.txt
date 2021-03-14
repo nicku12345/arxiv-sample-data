@@ -1,0 +1,1 @@
+From any configuration of finitely many points in Euclidean three-space, Atiyah constructed a determinant and conjectured that it was always non-zero. Atiyah and Sutcliffe (hep-th/0105179) amass a great deal of evidence it its favour. In this article we prove the conjecture for the case of four points.

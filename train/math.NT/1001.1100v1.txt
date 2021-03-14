@@ -1,0 +1,1 @@
+Paul Erdos conjectured that for every n in N, n>1, there exist a, b, c natural numbers, not necessarily distinct, so that 4/n=1/a+1/b+1/c (see \cite{rg}). In this paper we prove an extension of Mordell's theorem and formulate a conjecture which is stronger than Erdos' conjecture.

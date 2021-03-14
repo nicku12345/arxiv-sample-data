@@ -1,0 +1,1 @@
+We give a short proof to the following tilting theorem by Happel, Reiten and Smal{\o} via an explicit construction: given two abelian categories \mathcal{A} and \mathcal{B} such that \mathcal{B} is tilted from \mathcal{A}, then \mathcal{A} and \mathcal{B} are derived equivalent.

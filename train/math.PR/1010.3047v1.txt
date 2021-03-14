@@ -1,0 +1,1 @@
+We consider a process given by a two-dimensional fractional Brownian motion with Hurst parameter 1/3 < H < 1/2, along with an associated L\'evy area, and prove the smoothness of a density for this process with respect to Lebesgue measure.

@@ -1,0 +1,1 @@
+We discuss a recently proposed analytical formula for the eigenvalues of the Gaussian well and compare it with the analytical expression provided by the variational method with the simplest trial function. The latter yields considerably more accurate results than the former for the energies and critical parameters.

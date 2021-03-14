@@ -1,0 +1,1 @@
+The integral version of the fractional Laplacian on a bounded domain is discretized by a Galerkin approximation based on piecewise linear functions on a quasi-uniform mesh. We show that the inverse of the associated stiffness matrix can be approximated by blockwise low-rank matrices at an exponential rate in the block rank.

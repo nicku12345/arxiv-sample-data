@@ -1,0 +1,1 @@
+In this article we consider a set C of points in PG(4,q), q even, satisfying certain combinatorial properties with respect to the planes of PG(4,q). We show that there is a regular spread in the hyperplane at infinity, such that in the corresponding Bruck-Bose plane PG(2,q^2), the points corresponding to C form a translation hyperoval, and conversely.

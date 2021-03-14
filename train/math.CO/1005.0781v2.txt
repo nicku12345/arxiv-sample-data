@@ -1,0 +1,1 @@
+We introduce a new permutation statistic, namely, the number of cycles of length q consisting of consecutive integers, and consider the distribution of this statistic among the permutations of \{1,2,...,n\}. We determine explicit formulas, recurrence relations, and ordinary and exponential generating functions. A generalization to more than one fixed length is also considered.

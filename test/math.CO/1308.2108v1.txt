@@ -1,0 +1,1 @@
+We show that no additive [15,5,9]_4-code exists. As a consequence the largest dimension k such that an additive quaternary [15,k,9]_4-code exists is k=4.5.

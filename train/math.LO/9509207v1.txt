@@ -1,0 +1,1 @@
+We show that an inner model of a class-generic extension of L need not itself be such an extension. Our example is of the form L[R], where R is a real belonging to a class-generic extension of L and constructible from 0#.

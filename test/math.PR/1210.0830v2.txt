@@ -1,0 +1,1 @@
+We prove a complete convergence theorem for a class of symmetric voter model perturbations with annihilating duals. A special case of interest covered by our results is the stochastic spatial Lotka-Volterra model introduced by Neuhauser and Pacala [Ann. Appl. Probab. 9 (1999) 1226-1259]. We also treat two additional models, the "affine" and "geometric" voter models.

@@ -1,0 +1,1 @@
+In this paper, we prove a new existence result for a variational model of crack growth in brittle materials proposed in [15]. We consider the case of n-dimensional finite elasticity, for an arbitrary n\ge1, with a quasiconvex bulk energy and with prescribed boundary deformations and applied loads, both depending on time.

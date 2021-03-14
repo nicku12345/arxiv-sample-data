@@ -1,0 +1,1 @@
+Let A(n,d,w) be the largest possible size of an (n,d,w) constant-weight binary code. By adding new constraints to Delsarte linear programming, we obtain twenty three new upper bounds on A(n,d,w) for n \leq 28. The used techniques allow us to give a simple proof of an important theorem of Delsarte which makes linear programming possible for binary codes.

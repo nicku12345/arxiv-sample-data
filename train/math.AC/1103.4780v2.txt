@@ -1,0 +1,1 @@
+We associate to any endomorphism of the punctured affine space over some field an element in the Witt group of the base field that we call degree. We use this degree to give a counter-example to a question on unimodular rows

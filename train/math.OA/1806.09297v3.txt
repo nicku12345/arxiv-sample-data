@@ -1,0 +1,1 @@
+We compute the homology of the groupoid associated to the Katsura algebras, and show that they capture the K-theory of the C^*-algebras, and hence satisfying the (HK) conjecture posted by Matui. Moreover, we show that several classifiable simple C^*-algebras are groupoid C^*-algebras of this class.

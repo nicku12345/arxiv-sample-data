@@ -1,0 +1,1 @@
+The space of invariants of a tensor product of representations of SL(n) is provided with the basis parametrized by wave graphs introduced here especially for this purpose. The proof utilizes a game similar to Tetris, named here L-tris.

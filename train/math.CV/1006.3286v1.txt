@@ -1,0 +1,1 @@
+We find a solution to the Loewner chain equation in the case when the infinitesimal generator satisfies h(0,t)=0, Dh(0,t)=A for any linear operator with m(A)>0. We also study the related classes of spirallike mappings, mappings with parametric representation and asymptotically spirallike mappings.

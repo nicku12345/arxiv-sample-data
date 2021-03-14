@@ -1,0 +1,1 @@
+We present two generalisations of Singular Value Decomposition from real-numbered matrices to dual-numbered matrices. We prove that every dual-numbered matrix has both types of SVD. Both of our generalisations are motivated by applications, either to geometry or to mechanics.

@@ -1,0 +1,1 @@
+We derive various inequalities involving the intersection number of the curves contained in geodesics and tight geodesics in the curve graph. While there already exist such inequalities on tight geodesics, our method applies in the setting of geodesics. Furthermore, the method gives inequalities with a uniform constant depending only on the topology of the surface.

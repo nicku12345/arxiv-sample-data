@@ -1,0 +1,1 @@
+Suppose 1 < p < \infty. Carleson's Theorem states that the Fourier series of any function in L^p[-\pi, \pi] converges almost everywhere. We show that the Schnorr random points are precisely those that satisfy this theorem for every f \in L^p[-\pi, \pi] given natural computability conditions on f and p.

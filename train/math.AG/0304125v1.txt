@@ -1,0 +1,1 @@
+We prove that a submaximal plane curve (i.e., an irreducible counterexample to Nagata's conjecture) with r singular points has sequence of multiplicities (m, n, ..., n) with m<sn for every integer with ((s-1)(s+2))^2 > 6.76(r-1).

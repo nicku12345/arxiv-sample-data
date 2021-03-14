@@ -1,0 +1,1 @@
+We construct an explicit projective bimodule resolution for the Leavitt path algebra of a row-finite quiver. We prove that the Leavitt path algebra of a row-countable quiver has Hochschild cohomolgical dimension at most one, that is, it is quasi-free in the sense of Cuntz-Quillen. The construction of the resolution relies on an explicit derivation of the Leavitt path algebra.

@@ -1,0 +1,1 @@
+We give a new criterion for a given knot to be a Montesinos knot by using the Rasmussen invariant and the signature. We apply the criterion to study Seifert fibered surgery on a strongly invertible knot, and show that a (p,q,q)-pretzel knot with integers p,q \ge 2 admits no Seifert fibered surgery.

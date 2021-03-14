@@ -1,0 +1,1 @@
+Applying Stein's method, an inductive technique and size bias coupling yields a Berry-Esseen theorem for normal approximation without the usual restriction that the coupling be bounded. The theorem is applied to counting the number of vertices in the Erdos-Renyi random graph of a given degree.

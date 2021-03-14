@@ -1,0 +1,1 @@
+Let R denote a two-dimensional normal standard-graded domain over the algebraic closure K of a finite field of characteristic p, and let I denote a homogeneous primary ideal. We prove that the Hilbert-Kunz function of I has the form   = e_{HK}(I) q^{2} + g (q) with rational Hilbert-Kunz multiplicity e_{HK}(I) and an eventually periodic function g (q).

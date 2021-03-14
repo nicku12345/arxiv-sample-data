@@ -1,0 +1,1 @@
+Let K = Q(\omega) with \omega^3 = m be a pure cubic number field. We show that the elements\alpha \in K^\times whose squares have the form a - \omega form a group isomorphic to the group of rational points on the elliptic curve E_m: y^2= x^3 - m. We also show how to apply these results to the construction of unramified quadratic extensions of pure cubic number fields.

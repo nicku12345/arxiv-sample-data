@@ -1,0 +1,1 @@
+We compute the {\mathbb F}_p-dimension of an n-th graded piece G_{(n)}/G_{(n+1)} of the Zassenhaus filtration for various finitely generated pro-p-groups G. These groups include finitely generated free pro-p-groups, Demushkin pro-p-groups and their free pro-p products. We provide a unifying principle for deriving these dimensions.

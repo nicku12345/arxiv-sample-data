@@ -1,0 +1,1 @@
+We prove t^{- \frac 14}-decay for the solutions of the 1-dim Schrodinger equation with a one-gap periodic potential as t \to +\infty . Generically, one has t^{- \frac 13}-decay and this decay is optimal. Our approach is to analyze the stationary phase in the Schr\"odinger evolution as an integral operator.

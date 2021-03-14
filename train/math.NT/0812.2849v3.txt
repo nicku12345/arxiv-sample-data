@@ -1,0 +1,1 @@
+The aim of this paper is to study a conjecture predicting a lower bound on the canonical height on abelian varieties, formulated by S. Lang and generalized by J. H. Silverman. We give here an asymptotic result on the height of Heegner points on the modular jacobian J_{0}(N), and we derive non-trivial remarks about the conjecture.

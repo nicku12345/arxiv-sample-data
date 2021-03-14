@@ -1,0 +1,1 @@
+We discuss resonances for Schr\"odinger operators with compactly supported potentials on the line and the half-line. We estimate the sum of the negative power of all resonances and eigenvalues in terms of the norm of the potential and the diameter of its support. The proof is based on harmonic analysis and Carleson measures arguments.

@@ -1,0 +1,1 @@
+We prove that it is relatively consistent with ZFC that in any perfect Polish space, for every nonmeager set A there exists a nowhere dense Cantor set C such that A intersect C is nonmeager in C. We also examine variants of this result and establish a measure theoretic analog.

@@ -1,0 +1,1 @@
+We prove an equivalence of triangulated categories between Orlov's triangulated category of singularities for a Gorenstein cyclic quotient singularity and the derived category of representations of a quiver with relations which is obtained from the McKay quiver by removing one vertex and half of the arrows.

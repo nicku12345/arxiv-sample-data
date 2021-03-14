@@ -1,0 +1,1 @@
+In this note we consider monoidal complexes and their associated algebras, called toric face rings. These rings generalize Stanley-Reisner rings and affine monoid algebras. We compute initial ideals of the presentation ideal of a toric face ring, and determine its graded Betti numbers. Our results generalize celebrated theorems of Hochster in combinatorial commutative algebra.

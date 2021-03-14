@@ -1,0 +1,1 @@
+We give a detailed description of the structure of the actor 2-crossed module related to the automorphisms of a crossed module of groupoids. This generalises work of Brown and Gilbert for the case of crossed modules of groups, and part of this is needed for work on 2-dimensional holonomy to be developed elsewhere (see math.DG/0009082).

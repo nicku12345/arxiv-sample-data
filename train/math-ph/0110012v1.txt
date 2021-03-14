@@ -1,0 +1,1 @@
+We study the following functional equation that has arisen in the context of mechanical systems invariant under the Poincare algebra: \sum\limits_{i=1}^{n+1}\dfrac{\partial}{\partial x_{i}}\prod\limits_{j\neq i}f(x_{i}-x_{j}) =0,\qquad n \geq 2. New techniques are developed and the general solution within a certain class of functions is given. New solutions are found.

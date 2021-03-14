@@ -1,0 +1,1 @@
+We show that any effective Hodge structure of CM-type occurs (without having to take a Tate twist) in the cohomology of some CM abelian variety over C. As a consequence we get a simple proof of the theorem (due to Hazama) that the usual Hodge conjecture for the class of all CM abelian varieties implies the general Hodge conjecture for the same class.

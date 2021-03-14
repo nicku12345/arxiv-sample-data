@@ -1,0 +1,1 @@
+We express the real connective K theory groups of the quaternion QL group of order 2^j\ge8 in terms of the representation theory of by showing ko_{4k-1}(BQL)=KSp(S^{4k+3}/\tau QL) where tau is any fixed point free representation of QL in U(2k+2)

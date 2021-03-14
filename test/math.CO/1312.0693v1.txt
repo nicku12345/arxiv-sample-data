@@ -1,0 +1,1 @@
+A bijective proof is given for the following theorem: the number of compositions of n into odd parts equals the number of compositions of n + 1 into parts greater than one. Some commentary about the history of partitions and compositions is provided.

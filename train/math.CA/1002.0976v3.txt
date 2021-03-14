@@ -1,0 +1,1 @@
+We unify the three distinct inequality sequences (Abramowitz ans Stegun (1972) [1,9.5.2]) of positive real zeros of Bessel functions into a single one.

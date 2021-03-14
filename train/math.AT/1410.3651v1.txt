@@ -1,0 +1,1 @@
+In this paper, an algorithm building the effective homology version of the pushout of the simplicial morphisms f:X\rightarrow Y and g:X\rightarrow Z, where X,Y and Z are simplicial sets with effective homology is presented.

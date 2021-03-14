@@ -1,0 +1,1 @@
+We show that if a d-dimensional Cohen-Macaulay complex is, in a certain sense, sufficiently "close" to being balanced, then there is a d-dimensional balanced Cohen-Macaulay complex having the same f-vector. This in turn provides some partial evidence for a conjecture of Kalai on the f-vectors of Cohen-Macaulay flag complexes.

@@ -1,0 +1,1 @@
+For a maximal separable subfield K of a central simple algebra A, we provide a semiring isomorphism between K-K-bimodules A and H-H bisets of G = \Gal(L/F), where F = \operatorname{Z}(A), L is the Galois closure of K/F, and H = \Gal(L/K). This leads to a combinatorial interpretation of the growth of \dim_K((KaK)^i), for fixed a \in A, especially in terms of Kummer sets.

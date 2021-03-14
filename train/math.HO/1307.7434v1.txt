@@ -1,0 +1,1 @@
+Logarithmic integrals revisited. We consider integrals of the form \int_0^1 \ln{\ln{(\frac{1}{x})}}R{(x)}{\rm d}x again, where R{(x)} is a rational function, and we will explain a way to obtain their values.

@@ -1,0 +1,1 @@
+Maps \Phi which do not increase the spectrum on complex matrices in a sense that \Sp(\Phi(A)-\Phi(B))\subseteq\Sp(A-B) are classified.

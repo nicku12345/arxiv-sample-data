@@ -1,0 +1,1 @@
+We prove an identity about partitions, previously conjectured in the study of shifted Jack polynomials (math.CO/9903020). The proof given is using \lambda-ring techniques. It would be interesting to obtain a bijective proof.

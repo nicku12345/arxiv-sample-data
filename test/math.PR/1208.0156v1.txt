@@ -1,0 +1,1 @@
+We study properties of occupation times by Brownian excursions and Brownian loops in two-dimensional domains. This allows for instance to interpret some Gaussian fields, such as the Gaussian Free Fields as (properly normalized) fluctuations of the total occupation time of a Poisson cloud of Brownian excursions when the intensity of the cloud goes to infinity.

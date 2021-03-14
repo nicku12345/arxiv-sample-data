@@ -1,0 +1,1 @@
+For a large class of word hyperbolic groups G the cross product C^*-algebra arising from the action of G on its Gromov boundary is shown to satisfy Poincare duality in K-theory. This class strictly contains fundamental groups of compact, negatively curved manifolds. The Baum-Connes Conjecture for amenable groupoids is used in a crucial way.

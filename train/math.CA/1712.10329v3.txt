@@ -1,0 +1,1 @@
+In this article, we present an innovative method to find particular solutions of the non-homogeneous Cauchy-Euler equations in several variables and Sturm-Liouville equations. The method is basically built on the application of the ponderation ring which introduced by Assal and Zeyada [2].

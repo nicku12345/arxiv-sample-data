@@ -1,0 +1,1 @@
+We generalize a family of variation norm estimates of Lepingle with endpoint estimates of Bourgain and Pisier-Xu to a family of variational estimates for paraproducts, both in the discrete and the continuous setting. This expands on work of Friz and Victoir, our focus being on the continuous case and an expanded range of variation exponents.

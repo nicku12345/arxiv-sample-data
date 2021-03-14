@@ -1,0 +1,1 @@
+We give a characterization of all del Pezzo surfaces of degree 6 over an arbitrary field F. A surface is determined by a pair of separable algebras. These algebras are used to compute the Quillen K-theory of the surface. As a consequence, we obtain an index reduction formula for the function field of the surface.

@@ -1,0 +1,1 @@
+Let X be a finite connected poset and K a field. We give a full description of Lie automorphisms of the incidence algebra I(X,K). In particular, we show that they are in general not proper.

@@ -1,0 +1,1 @@
+We provide an expanded and clarified proof of the famous result of Bowen and Ruelle giving an asymptotic formula for the Hausdorff dimension of quasi-circles corresponding to the Julia sets of f(z)=z^2+c for small c. The proof does not contain new material but has been rewritten to make it more accessible to MSc or PhD students with an interest in dimension theory.

@@ -1,0 +1,1 @@
+In this article we present ways to evaluate certain sums, products and continued fractions using tools from the theory of elliptic functions. The specific results appear to be new, although similar ones can be found in the leterature; in most cases the methods applied are different.

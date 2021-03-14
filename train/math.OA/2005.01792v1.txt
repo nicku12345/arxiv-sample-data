@@ -1,0 +1,1 @@
+We generalise a number of classical results from the theory of KMS states to KMS weights in the setting of C^{*}-dynamical systems arising from a continuous groupoid homomorphism c:\mathcal{G} \to \mathbb{R} on a locally compact second countable Hausdorff \'etale groupoid \mathcal{G}. In particular, we generalise Neshveyev's Theorem to KMS weights.

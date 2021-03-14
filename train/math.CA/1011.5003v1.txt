@@ -1,0 +1,1 @@
+Let T be the unit circle, f be an \alpha-Holder continuous function on T, \alpha>1/2, and A be the algebra of continuous function in the closed unit disk \bar D that are holomorphic in D. Then f extends to a meromorphic function in D with at most m poles if and only if the winding number of f+h on T is bigger or equal to -m for any h\in A such that f+h \neq 0 on T.

@@ -1,0 +1,1 @@
+This paper is a synthesis and extension of three earlier papers on PD_4-complexes X with fundamental group \pi such that c.d.\pi=2 and \pi has one end. Our goal is to show that the homotopy types of such complexes are determined by \pi, the Stiefel-Whitney classes and the equivariant intersection pairing on \pi_2(X). We achieve this under further conditions on \pi.

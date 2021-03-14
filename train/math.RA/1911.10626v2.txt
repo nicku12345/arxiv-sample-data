@@ -1,0 +1,1 @@
+Let A be a right Ore domain, Z(A) be the center of A and Q_r(A) be the right total ring of fractions of A. If K is a field and A is a K-algebra, in this short paper we prove that if A is finitely generated and {\rm GKdim}(A)<{\rm GKdim}(Z(A))+1, then Z(Q_r(A))\cong Q(Z(A)). Many examples that illustrate the theorem are included, most of them within the skew PBW extensions.

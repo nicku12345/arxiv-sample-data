@@ -1,0 +1,1 @@
+In [9] a question is raised: if a power bounded operator is quasisimilar to a singular unitary operator, is it similar to this unitary operator? For polynomially bounded operators, a positive answer to this question is known [1], [13]. In this paper a positive answer is given in some particular cases, but in general an answer remains unknown.

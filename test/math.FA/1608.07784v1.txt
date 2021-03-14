@@ -1,0 +1,1 @@
+The aim of this paper is to establish the decay estimate for the fractional wave equation semigroup on H-type groups given by e^{it\Delta^\alpha}, 0<\alpha<1. Combing the dispersive estimate and a standard duality argument, we also derive the corresponding Strichartz inequalties.

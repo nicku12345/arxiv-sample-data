@@ -1,0 +1,1 @@
+This is a complement to our earlier work \cite{C10a} where a new eigenvalue concentration bound for multi-particle disordered quantum lattice systems was obtained. Here we show that the new bound leads to a simplified proof of multi-particle spectral and dynamical localization.

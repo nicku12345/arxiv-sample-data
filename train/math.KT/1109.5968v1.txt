@@ -1,0 +1,1 @@
+The bundle map \pi_{h}: \Gamma((A_{tJ})_{t\in [0,1]})\lra A_{hJ}, for every h\in [0,1], of the continuous field (A_{tJ})_{t\in [0,1]} associated to the Rieffel deformation A_{J} of a C*-algebra A is shown to be a KK-equivalence by using a 2-cocycle twisting approach and RKK-fibrations.

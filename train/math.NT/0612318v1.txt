@@ -1,0 +1,1 @@
+In this article we consider mod p modular Galois representations which are unramified at p such that the Frobenius element at p acts through a scalar matrix. The principal result states that the multiplicity of any such representation is bigger than 1.

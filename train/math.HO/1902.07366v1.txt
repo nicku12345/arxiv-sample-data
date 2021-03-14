@@ -1,0 +1,1 @@
+We give an uncountability proof of the reals which relies on their order completeness instead of their sequential completeness. We use neither a form of the axiom of choice nor the law of excluded middle, therefore the proof applies to the MacNeille reals in any flavor of constructive mathematics. The proof leans heavily on Levy's unusual proof of the uncountability of the reals.

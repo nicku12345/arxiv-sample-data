@@ -1,0 +1,1 @@
+We determine the average number of distinct subsequences in a random binary string, and derive an estimate for the average number of distinct subsequences of a particular length.

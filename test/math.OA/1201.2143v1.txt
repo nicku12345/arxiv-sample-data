@@ -1,0 +1,1 @@
+Let D be a homogeneous bounded domain of \mathbb{C}^n and \mathcal{A} a set of (anti--Wick) symbols that defines a commutative algebra of Toeplitz operators on every weighted Bergman space of D. We prove that if \mathcal{A} is rich enough, then it has an underlying geometric structure given by a Lagrangian foliation.

@@ -1,0 +1,1 @@
+For the simple Lie algebra g = sl(n,C) we we find a set of generators and relations for the classical family algebra (End(g)\otimes S(g))^G as an algebra over the ring I(g). From these we can then determine a I(g)-linear basis of the family algebra, and thus the generalized exponents of the irreducible components of End(g) viewed as a g-module.

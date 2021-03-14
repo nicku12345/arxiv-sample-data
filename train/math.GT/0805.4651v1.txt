@@ -1,0 +1,1 @@
+We show how to use Bar-Natan's `divide and conquer' approach to computations to efficiently compute the universal sl(2) dotted foam cohomology groups, even for big knots and links. We also describe a purely topological version of the sl(2) foam theory, in the sense that no dots are needed on foams.

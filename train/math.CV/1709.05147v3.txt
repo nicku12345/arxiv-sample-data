@@ -1,0 +1,1 @@
+In this paper we show that every complex hypersurface A in a Stein manifold X with H^2(X;\mathbb Z)=0 is the divisor of a holomorphic function f on X whose critical points are precisely the singular points of A. A similar result is proved for complete intersections of higher codimension.

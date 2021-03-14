@@ -1,0 +1,1 @@
+In this work we present a new, natural, definition for the mean width of log-concave functions. We show that the new definition coincide with a previous one by B. Klartag and V. Milman, and deduce some properties of the mean width, including an Urysohn type inequality. Finally, we prove a functional version of the finite volume ratio estimate and the low-M* estimate.

@@ -1,0 +1,1 @@
+It was shown by Rordam and the second named author that a countable group G admits an action on a compact space such that the crossed product is a Kirchberg algebra if, and only if, G is exact and non-amenable. This construction allows a certain amount of choice. We show that different choices can lead to different algebras, at least with the free group.

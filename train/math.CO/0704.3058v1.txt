@@ -1,0 +1,1 @@
+Sequences whose terms are equal to the number of functions with specified properties are considered. Properties are based on the notion of derangements in a more general sense. Several sequences which generalize the standard notion of derangements are thus obtained. These sequences generate a number of integer sequences from the well-known Sloane's encyclopedia.

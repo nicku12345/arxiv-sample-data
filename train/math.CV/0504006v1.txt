@@ -1,0 +1,1 @@
+Let \Omega be a bounded symmetric domain except the two exceptional domains of {\Bbb C}^N and \phi a holomorphic self-map of \Omega. This paper gives a sufficient and necessary condition for the composition operator C_{\phi} induced by \phi to be compact on the Bloch space \beta(\Omega).

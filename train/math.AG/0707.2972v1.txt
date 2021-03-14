@@ -1,0 +1,1 @@
+In this paper we study the integral Chow ring of toric Deligne-Mumford stacks. We prove that the integral Chow ring of a semi-projective toric Deligne-Mumford stack is isomorphic to the Stanley-Reisner ring of the associated stacky fan. The integral orbifold Chow ring is also computed. Our results are illustrated with several examples.

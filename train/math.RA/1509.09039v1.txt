@@ -1,0 +1,1 @@
+We prove that if an algebra is either selfinjective, local or graded, then the Hochschild homology dimension of its trivial extension is infinite.

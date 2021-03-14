@@ -1,0 +1,1 @@
+Let A be a commutative Noetherian local ring containing a field of characteristic p>0. The integer invariants \lambda_{i,j}(A) have been introduced in an old paper of ours. In this paper we completely describe \lambda_{d,d}(A), where d=dimA, in terms of the topology of SpecA.

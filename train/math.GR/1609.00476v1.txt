@@ -1,0 +1,1 @@
+In this paper we introduce and study the concept of cyclic subgroup commutativity degree of a finite group G. This quantity measures the probability of two random cyclic subgroups of G commuting. Explicit formulas are obtained for some particular classes of groups. A criterion for a finite group to be an Iwasawa group is also presented.

@@ -1,0 +1,1 @@
+The left and right homological integrals are introduced for a large class of infinite dimensional Hopf algebras. Using the homological integrals we prove a version of Maschke's theorem for infinite dimensional Hopf algebras. The generalization of Maschke's theorem and homological integrals are the keys to study noetherian regular Hopf algebras of Gelfand-Kirillov dimension one.

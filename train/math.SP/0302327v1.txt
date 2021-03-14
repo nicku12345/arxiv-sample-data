@@ -1,0 +1,1 @@
+We consider a general class of sharp L^p Hardy inequalities in \R^N involving distance from a surface of general codimension 1\leq k\leq N. We show that we can succesively improve them by adding to the right hand side a lower order term with optimal weight and best constant. This leads to an infinite series improvement of L^p Hardy inequalities.

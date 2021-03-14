@@ -1,0 +1,1 @@
+In \cite{FOinteger}, Fukaya and Ono outlined a way of counting pseudo-holomorphic curves in a general compact symplectic manifold to obtain integer valued invariants. This paper contains the details of Fukaya and Ono's suggested construction for any compact symplectic manifold and a large class of exploded manifolds.

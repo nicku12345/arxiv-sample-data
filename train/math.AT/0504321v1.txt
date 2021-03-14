@@ -1,0 +1,1 @@
+We show that, for an arrangement of subspaces in a complex vector space with geometric intersection lattice, the complement of the arrangement is formal. We prove that the Morgan rational model for such an arrangement complement is formal as a differential graded algebra.

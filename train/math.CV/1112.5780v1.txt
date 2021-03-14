@@ -1,0 +1,1 @@
+Let F be a family of functions meromorphic in a domain D. If {|f|/(1+|f|^3):f in F} is locally uniformly bounded away from zero, then F is normal.

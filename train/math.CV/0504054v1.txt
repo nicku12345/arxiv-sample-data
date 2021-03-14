@@ -1,0 +1,1 @@
+We propose a proof of the characterization of spherical hypersurfaces as the only strictly pseudoconvex hypersurfaces which have contracting germs of diffeomorphisms. Unlike previous proofs, our approach does not use Chern-Moser theory. It only relies on Pinchuk dilation techniques. We also give some applications of this result.

@@ -1,0 +1,1 @@
+In this note we are concerned about the generalization of the GHS inequality for the Potts model. We also obtain by a different method the proof of the GHS inequality for the Ising model. We take advantage of a polynomial expansion and we derive that some of the variables of the polynomial can be separated

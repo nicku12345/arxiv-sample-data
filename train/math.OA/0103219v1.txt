@@ -1,0 +1,1 @@
+We associate a non-commutative C^*-algebra with any locally finite simplicial complex. We determine the K-theory of these algebras and show that they can be used to obtain a conceptual explanation for the Baum-Connes conjecture.

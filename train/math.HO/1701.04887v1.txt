@@ -1,0 +1,1 @@
+Cauchy's method from two centuries ago for computing integrals along the real axis by passing into the complex plane is not rigorous by present-day standards. Yet when properly formulated, his original approach is simpler than modern presentations of the residue calculus.

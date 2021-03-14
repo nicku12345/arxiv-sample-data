@@ -1,0 +1,1 @@
+Given a representation of the circle group by semiclassical Fourier integral operators, we construct an algebra of semiclassical pseudodifferential operators that are a quantum analogue of the notion of symplectic cutting of Lerman, and we prove an associated Szeg\"o limit theorem.

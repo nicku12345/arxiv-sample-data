@@ -1,0 +1,1 @@
+Let G be a graph on n nodes. In this note, we prove that if G is (r+1)-vertex connected, 1 \leq r \leq n-2, then there exists a configuration p in general position in R^r such that the bar framework (G,p) is universally rigid. The proof is constructive and is based on a theorem by Lovasz et al concerning orthogonal representations and connectivity of graphs [12,13].

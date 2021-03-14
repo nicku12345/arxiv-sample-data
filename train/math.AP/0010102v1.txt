@@ -1,0 +1,1 @@
+We prove the existence of a non-trivial solution for a nonlinear equation related to a measure-valued Lagrangian. The result is based on a compact embedding theorem of the Lagrangian domain and on the application of the Mountain Pass Theorem joined to a Palais-Smale condition.

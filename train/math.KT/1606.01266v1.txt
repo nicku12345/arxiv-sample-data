@@ -1,0 +1,1 @@
+We give a necessary and sufficient topological condition for the Vaserstein symbol to be injective on smooth affine real threefolds. More precisely, we show that the Vaserstein symbol is a bijection for such a threefold X if and only if the set of compact connected components of the real points of X (endowed with the Euclidean topology) is empty.

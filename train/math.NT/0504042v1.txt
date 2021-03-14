@@ -1,0 +1,1 @@
+Using properties of the Frobenius eigenvalues, we show that, in a precise sense, ``most'' isomorphism classes of (principally polarized) simple abelian varieties over a finite field are characterized up to isogeny by the sequence of their division fields, and a similar result for ``most'' isogeny classes. Some global cases are also treated.

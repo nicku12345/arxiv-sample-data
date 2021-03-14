@@ -1,0 +1,1 @@
+We give an explicit construct of a harmonic weak Maass form F_{\Theta} that is a "lift" of \Theta^3, where \Theta is the classical Jacobi theta function. Just as the Fourier coefficients of \Theta^3 are related to class numbers of imaginary quadratic fields, the Fourier coefficients of the "holomorphic part" of F_{\Theta} are associated to class numbers of real quadratic fields.

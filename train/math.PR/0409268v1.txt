@@ -1,0 +1,1 @@
+Let (W,H,\mu) be an abstract Wiener space and L be a probability density of class LlogL. Using the measure transportation of Monge-Kantorovitch, we prove that the kernel of the projection of L on the second Wiener chaos defines an (Hilbert-Schmidt) operator which is lower bounded by another Hilbert-Schmidt operator.

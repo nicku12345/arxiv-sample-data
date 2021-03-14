@@ -1,0 +1,1 @@
+We prove that the ratio of the Newman sum over numbers multiple of a fixed integer which is not multiple of 3 and the Newman sum over numbers multiple of a fixed integer divisible by 3 is o(1) when the upper limit of summing tends to infinity.We also discuss a connection of our results with a digit conjecture on primes.

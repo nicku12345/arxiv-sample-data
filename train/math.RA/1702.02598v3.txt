@@ -1,0 +1,1 @@
+Let F be a finite field of char F > 3 and sl_{2}(F) be the Lie algebra of traceless 2\times 2 matrices over F. In this paper, we find a basis for the \mathbb{Z}_{2}-graded identities of sl_{2}(F).

@@ -1,0 +1,1 @@
+Let (W,M,M'), dim W > 5, be a non-trivial h-cobordism (i.e., the Whitehead torsion of (W,V) is non-zero). We prove that every smooth function f: W --> [0,1], f(M)=0, f(M')=1 has at least 2 critical points. This estimate is sharp: W possesses a function as above with precisely two critical points.

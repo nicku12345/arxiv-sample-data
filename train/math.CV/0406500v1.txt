@@ -1,0 +1,1 @@
+In this paper we give a formula for counting the number of isolated stable singularities of a stable perturbation of corank 1 germs f:\C^n,0\to \C^p,0 with n<p that appear in the image f(\C^n).   We also define a set of {\cal A}-invariants and show that their finiteness is a necessary and sufficient condition for the {\cal A}-finiteness of the germ f.

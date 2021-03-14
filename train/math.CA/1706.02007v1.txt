@@ -1,0 +1,1 @@
+The Riesz-Sobolev inequality provides an upper bound, in integral form, for the convolution of indicator functions of subsets of Euclidean space. We formulate and prove a sharper form of the inequality. This can be equivalently phrased as a stability result, quantifying an inverse theorem of Burchard that characterizes cases of equality.

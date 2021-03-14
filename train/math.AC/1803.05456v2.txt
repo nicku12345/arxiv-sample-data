@@ -1,0 +1,1 @@
+We construct families of prime ideals in polynomial rings for which the number of associated primes of the second power (or higher powers) is exponential in the number of variables in the ring. We give a lower bound on the Ananyan-Hochster constant for the number of associated primes.

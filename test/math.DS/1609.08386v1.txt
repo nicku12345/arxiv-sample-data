@@ -1,0 +1,1 @@
+In this paper, we study infinite-dimensional Lagrangian systems where the potential functions are periodic, rearrangement invariant and weakly upper semicontinuous. And we prove that there exists a calibrated curve for every M\in L^{2}(I).

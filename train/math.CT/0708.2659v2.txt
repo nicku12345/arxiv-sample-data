@@ -1,0 +1,1 @@
+We introduce the notion of an ordered face structure. The ordered face structures to many-to-one computads are like positive face structures to positive-to-one computads. This allow us to give an explicit combinatorial description of many-to-one computads in terms of ordered face structures.

@@ -1,0 +1,1 @@
+We assumed that, for every natural number k, there is a natural number u such that the (k-1)th term of G(u) is k^k, and that G(u) terminates finitely. It immediately follows that every Goodstein Sequence G(m) over the natural numbers must terminate finitely.   The assumption is easily seen to be false since there is no m such that the third term of g(m) is 4^4.

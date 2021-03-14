@@ -1,0 +1,1 @@
+The time dependent Gross-Pitaevskii equation describes the dynamics of initially trapped Bose-Einstein condensates. We present a rigorous proof of this fact starting from a many-body bosonic Schroedinger equation with a short scale repulsive interaction in the dilute limit. Our proof shows the persistence of an explicit short scale correlation structure in the condensate.

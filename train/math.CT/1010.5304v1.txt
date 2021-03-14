@@ -1,0 +1,1 @@
+We develop an alternative approach to star-autonomous comonads via linearly distributive categories. It is shown that in the autonomous case the notions of star-autonomous comonad and Hopf comonad coincide.

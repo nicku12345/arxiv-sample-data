@@ -1,0 +1,1 @@
+We derive minimax generalized Bayes estimators of regression coefficients in the general linear model with spherically symmetric errors under invariant quadratic loss for the case of unknown scale. The class of estimators generalizes the class considered in Maruyama and Strawderman (2005) to include non-monotone shrinkage functions.

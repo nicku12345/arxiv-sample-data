@@ -1,0 +1,1 @@
+We study the conditions under which the highest nonvanishing local cohomology module of a domain R with support in an ideal I is faithful over R, i.e., which guarantee that H^c_I(R) is faithful, where c is the cohomological dimension of I. In particular, we prove that this is true for the case of positive prime characteristic when c is the number of generators of I.

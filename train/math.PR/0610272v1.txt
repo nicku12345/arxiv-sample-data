@@ -1,0 +1,1 @@
+We describe a new class of self-similar symmetric \alpha-stable processes with stationary increments arising as a large time scale limit in a situation where many users are earning random rewards or incurring random costs. The resulting models are different from the ones studied earlier both in their memory properties and smoothness of the sample paths.

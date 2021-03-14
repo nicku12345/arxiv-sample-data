@@ -1,0 +1,1 @@
+Let R be a Cohen-Macaulay local ring with maximal ideal \max. In this paper we present a procedure for computing the Ratllif-Rush closure of a \max-primary ideal I \subset R.

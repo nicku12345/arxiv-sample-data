@@ -1,0 +1,1 @@
+Let M be a smooth strictly convex closed surface in space and denote by H the set of points x in the exterior of M such that all the tangent segments from x to M have equal lengths. In this note we prove that if H is either a closed surface containing M or a plane then M is an Euclidean sphere. Moreover, we shall see that the situation in the Euclidean plane is very different.

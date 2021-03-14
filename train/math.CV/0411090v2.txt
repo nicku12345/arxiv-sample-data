@@ -1,0 +1,1 @@
+It will be shown that the Stone-Weierstrass theorem for Clifford-valued functions is true for the case of even dimension. It remains valid for the odd dimension if we add a stability condition by principal automorphism.

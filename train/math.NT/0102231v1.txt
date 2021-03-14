@@ -1,0 +1,1 @@
+This is an updated version of ANT-0253.   Let F be a number field with absolute Galois group G. We associate, to each continuous, solvable C-representation of G of GO(4)-type, an automorphic form P of GL(4)/F with the same L-function. As a consequence we exhibit an infinite class of primitive, 16-dimensional representations for which the Artin conjecture holds.

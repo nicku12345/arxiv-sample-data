@@ -1,0 +1,1 @@
+We formulate abstract conditions under which a suspension flow satisfies the local central limit theorem. We check the validity of these conditions for several systems including reward renewal processes, Axiom A flows, as well as the systems admitting Young tower, such as Sinai billiard with finite horizon, suspensions over Pomeau-Manneville maps, and geometric Lorenz attractors.

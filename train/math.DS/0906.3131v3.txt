@@ -1,0 +1,1 @@
+For each piecewise linear Lorenz map that expand on average, we show that it admits a dichotomy: it is either periodic renormalizable or prime. As a result, such a map is conjugate to a \beta-transformation.

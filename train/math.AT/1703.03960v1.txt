@@ -1,0 +1,1 @@
+We use combinatorial group theory methods to extend the definition of a classical James-Hopf invariant to a simplicial group setting. This allow us to realize certain coalgebra idempotents at sSet -level and obtain a functorial decomposition of the spectral sequence, associated with the lower p-central series filtration on the free simplicial group.

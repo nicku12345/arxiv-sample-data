@@ -1,0 +1,1 @@
+We construct a Hopf algebra cocycle in the Yangian double DY(SL_{2}), conjugating Drinfeld's coproduct to the usual one. To do that, we factorize the twist between two ``opposite'' versions of Drinfeld's coproduct, introduced in earlier work by V. Rubtsov and the first author, using the decomposition of the algebra in its negative and non-negative modes subalgebras.

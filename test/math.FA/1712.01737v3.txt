@@ -1,0 +1,1 @@
+In this note, we consider the space of all continuous operators with respect to the unbounded topology on locally solid vector lattices. We investigate whether this space forms a band. In addition, we look into some situations under which, the modulus of a continuous operator has the same property. Some examples are given to make the context more understandable.

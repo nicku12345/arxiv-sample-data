@@ -1,0 +1,1 @@
+Kalai and Kleitman established the bound n^{\log(d) + 2} for the diameter of a d-dimensional polyhedron with n facets. Here we improve the bound slightly to (n-d)^{\log(d)}.

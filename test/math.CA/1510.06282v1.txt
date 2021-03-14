@@ -1,0 +1,1 @@
+We prove that the Fourier cosine series \sum_{k=1}^{\infty}(-1)^{k+1}\frac{r^k\cos{k\phi}}{k+2} assumes its maximum value at \phi = 0 for \phi \in [0, \pi) regardless of r if r \in (0, 1]. This was first proved by Arias de Reyna and van de Lune. The more compact proof presented here is based on a generating function of the Chebyshev Polynomials.

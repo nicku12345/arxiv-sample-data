@@ -1,0 +1,1 @@
+We study the long time behavior of an Ornstein-Uhlenbeck process under the influence of a periodic drift. We prove that, under the standard diffusive rescaling, the law of the particle position converges weakly to the law of a Brownian motion whose covariance can be expressed in terms of the solution of a Poisson equation. We also derive upper bounds on the convergence rate.

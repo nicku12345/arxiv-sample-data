@@ -1,0 +1,1 @@
+We introduce a notion of an algebra of generalized pseudo-differential operators and prove that a spectral triple is regular if and only if it admits an algebra of generalized pseudo-differential operators. We also provide a self-contained proof of the fact that the product of regular spectral triples is regular.

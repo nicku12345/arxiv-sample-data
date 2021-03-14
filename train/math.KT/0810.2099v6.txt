@@ -1,0 +1,1 @@
+Given a group, we construct a fundamental additive functor on its orbit category. We prove that any isomorphism conjecture valid for this fundamental isomorphism functor holds for all additive functors, like K-theory, cyclic homology, topological Hochschild homology, etc. Finally, we reduce this fundamental isomorphism conjecture for K-theoretic ones.

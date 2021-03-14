@@ -1,0 +1,1 @@
+We generalize the L^p spectral cluster bounds of Sogge for the Laplace-Beltrami operator on compact Riemannian manifolds to systems of orthonormal functions. The optimality of these new bounds is also discussed. These spectral cluster bounds follow from Schatten-type bounds on oscillatory integral operators.

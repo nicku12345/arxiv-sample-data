@@ -1,0 +1,1 @@
+A finite-volume hyperbolic 3-manifold geometrically bounds if it is the geodesic boundary of a finite-volume hyperbolic 4-manifold. We construct here an example of non-compact, finite-volume hyperbolic 3-manifold that geometrically bounds. The 3-manifold is the complement of a link with eight components, and its volume is roughly equal to 29.311.

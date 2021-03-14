@@ -1,0 +1,1 @@
+Using measure-capacity inequalities we study new functional inequalities, namely L^q-Poincar\'{e} inequalities and L^q-logarithmic Sobolev inequalities. As a consequence, we establish the asymptotic behavior of the solutions to the so-called weighted porous media equation for m?1, in terms of L^2-norms and entropies.

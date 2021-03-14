@@ -1,0 +1,1 @@
+Let (R,m) -> (S,n) be a flat local homomorphism of excellent local rings. We investigate the conditions under which the weak or strong F-regularity of R passes to S. We show that is suffices that the closed fiber S/mS be Gorenstein and either F-finite (if R and S have a common test element), or F-rational (otherwise).

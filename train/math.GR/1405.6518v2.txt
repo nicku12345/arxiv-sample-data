@@ -1,0 +1,1 @@
+In this article, we prove that if all non-trivial cyclic subgroups of a group G are self normalizing and G satisfies the implication  \ o(x)\neq o(y)\Rightarrow o(xy)\neq o(x), o(y),  for all non-trivial elements x and y, then G is a p-group or simple.

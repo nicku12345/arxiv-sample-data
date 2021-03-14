@@ -1,0 +1,1 @@
+We introduce a Z_3-graded version of exterior (Grassmann) algebra with two generators and using this object we obtain a new Z_3-graded quantum group denoted by O(\widetilde{GL}_q(2)). We also discuss some properties of { O}(\widetilde{GL}_q(2)).

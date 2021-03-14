@@ -1,0 +1,1 @@
+We show that there exist non-formal compact oriented manifolds of dimension n and with first Betti number b_1=b\geq 0 if and only if n\geq 3 and b\geq 2, or n\geq (7-2b) and 0\leq b\leq 2. Moreover, we present explicit examples for each one of these cases.

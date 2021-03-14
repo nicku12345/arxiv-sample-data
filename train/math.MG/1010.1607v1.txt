@@ -1,0 +1,1 @@
+In this paper we shall investigate the following problem: Which is the largest regular triangle in a brick with volume 1 and having edge lengthes greater than \frac{1}{\sqrt{2}}? We prove that there are three optimal cases in all which the edge lengthes of the triangles are \sqrt{2}, respectively.

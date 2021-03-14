@@ -1,0 +1,1 @@
+Some of the important inequalities associated with quantum entropy are immediate algebraic consequences of the Hansen-Pedersen-Jensen inequality. A general argument is given using matrix perspectives of operator convex functions. A matrix analogue of Mar\'{e}chal's extended perspectives provides additional inequalities, including a p+q\leq 1 result of Lieb.

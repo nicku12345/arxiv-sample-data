@@ -1,0 +1,1 @@
+In this paper we generalize the definitions of singularities of pairs and multiplier ideal sheaves to pairs on arbitrary normal varieties, without any assumption on the variety being Q-Gorenstein or the pair being log Q-Gorenstein. The main features of the theory extend to this setting in a natural way.

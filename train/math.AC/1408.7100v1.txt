@@ -1,0 +1,1 @@
+This paper proves some special cases in which localization of tight closure holds. In particular it studies the condition LC relating to bounding the Loewy lengths of local cohomology of Frobenius iterates of quotient rings.

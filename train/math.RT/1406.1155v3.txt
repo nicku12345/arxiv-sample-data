@@ -1,0 +1,1 @@
+We compute generators and relations for the basic algebra of a non-semisimple singular block of the restricted enveloping algebra of \mathfrak{sl}_3 over an algebraically closed field of characteristic p>3. Working directly with the basic algebra we compute its centre and the internal degree zero part of its first Hochschild cohomology, and show its Verma modules are Koszul.

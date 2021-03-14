@@ -1,0 +1,1 @@
+We show that after rationalization there is a homotopy fiber sequence BBU -> K(ku) -> K(Z). We interpret this as a correspondence between the virtual 2-vector bundles over a space X and their associated anomaly bundles over the free loop space LX. We also rationally compute K(KU) by using the localization sequence, and K(MU) by a method that applies to all connective S-algebras.

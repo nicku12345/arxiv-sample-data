@@ -1,0 +1,1 @@
+In this note we show that if a family of ergodic Schr\"odinger operators on l^2({\Bbb Z}^\gamma) with continuous potentials have uniformly localized eigenfunctions then these eigenfunctions must be uniformly localized in a homogeneous sense.

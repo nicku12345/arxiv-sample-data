@@ -1,0 +1,1 @@
+We introduce the class of Orlicz-Pettis polynomials between Banach spaces, defined by their action on weakly unconditionally Cauchy series. We give a number of equivalent definitions, examples and counterexamples which highlight the differences between these polynomials and the corresponding linear operators.

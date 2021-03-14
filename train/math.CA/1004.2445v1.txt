@@ -1,0 +1,1 @@
+The Cauchy-Schl\"omilch transformation states that for a function f and a, \, b > 0, the integral of f(x^{2}) and af((ax-bx^{-1})^{2} over the interval [0, \infty) are the same. This elementary result is used to evaluate many non-elementary definite integrals, most of which cannot be obtained by symbolic packages. Applications to probability distributions is also given.

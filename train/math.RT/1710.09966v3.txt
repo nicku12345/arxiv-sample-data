@@ -1,0 +1,1 @@
+For a simple Lie superalgebra of type BDFG, we give explicit formulas for singular vectors in a Verma module of highest weight \lambda - \rho, which have weight s_{\gamma}\lambda - \rho for certain positive non-isotropic roots \gamma. This implies the existence of a nonzero homomorphism between the corresponding Verma modules.

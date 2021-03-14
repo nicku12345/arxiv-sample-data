@@ -1,0 +1,1 @@
+Kummer's Fourier series for the log gamma function is well known, having been discovered in 1847. In this paper we develop a corresponding Fourier series for the logarithm of the Barnes double gamma function (and the method may be easily extended to higher order multiple gamma functions). Some applications of these Fourier series are explored.

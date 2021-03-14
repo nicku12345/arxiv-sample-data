@@ -1,0 +1,1 @@
+A set C of vertices of a simple graph is called a completely regular code if for each i=0, 1, 2, \ldots and j = i-1, i, i+1, all vertices at distance i from C have the same number s_{ij} of neighbors at distance j from C. We characterize the completely regular codes in the infinite hexagonal grid graph.

@@ -1,0 +1,1 @@
+We discuss asymptotics of the zeros of orthogonal polynomials on the real line and on the unit circle when the recursion coefficients are periodic. The zeros on or near the absolutely continuous spectrum have a clock structure with spacings inverse to the density of zeros. Zeros away from the a.c. spectrum have limit points mod p and only finitely many of them.

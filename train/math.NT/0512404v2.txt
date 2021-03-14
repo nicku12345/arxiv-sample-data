@@ -1,0 +1,1 @@
+We show that each number of the form, the square root of s for s not a perfect square, is simply normal to the base 2. The argument uses some elementary ideas from the calculus of finite differences.

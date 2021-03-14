@@ -1,0 +1,1 @@
+We propose a measure of the impact of any two choices of prior distributions by quantifying the Wasserstein distance between the respective resulting posterior distributions at any fixed sample size. We illustrate this measure on the normal, Binomial and Poisson models.

@@ -1,0 +1,1 @@
+We give simple characterizations of the category PAsm(A) of partitioned assemblies, and of the realizability topos RT(A) over a partial combinatory algebra A. This answers the question for an 'extensional characterization' of realizability toposes.

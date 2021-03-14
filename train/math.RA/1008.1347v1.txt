@@ -1,0 +1,1 @@
+Base on some simple facts of Hadamard product, characterizations of positive definite preserving linear transformations on real symmetric matrix spaces with an additional assumption "\ra T(E_{ii})=1, i=1,2,..., n" or "T(A)>0\to A> 0", were given.

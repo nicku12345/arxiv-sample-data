@@ -1,0 +1,1 @@
+Consider the capillary water waves equations, set in the whole space with infinite depth, and consider small data (i.e. sufficiently close to zero velocity, and constant height of the water). We prove global existence and scattering. The proof combines in a novel way the energy method with a cascade of energy estimates, the space-time resonance method and commuting vector fields.

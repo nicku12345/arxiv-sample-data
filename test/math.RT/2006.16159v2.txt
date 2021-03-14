@@ -1,0 +1,1 @@
+Let G be a simple reductive group over the complex numbers. Let W be the Weyl group of G. We propose a description of the Springer representations of W associated to various unipotent classes of G by a purely algebraic method involving the families of various reflection subgroups of W and which is suitable to computer calculations.

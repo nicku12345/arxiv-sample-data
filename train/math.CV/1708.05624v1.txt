@@ -1,0 +1,1 @@
+We study the spectrum of the Kohn Laplacian \square_b^t on the Rossi example (\mathbb{S}^3, \mathcal{L}_t). In particular we show that 0 is in the essential spectrum of \square_b^t, which yields another proof of the global non-embeddability of the Rossi example.

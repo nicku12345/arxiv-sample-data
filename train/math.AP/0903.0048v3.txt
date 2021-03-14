@@ -1,0 +1,1 @@
+We consider a smooth and bounded domain of dimension d>1 and we construct solutions to the wave equation with Dirichlet boundary conditions which contradict the Strichartz estimates of the free space, at least for a subset of the usual range of indices. This is due to micro-local phenomena such as caustics generated in arbitrarily small time near the boundary.

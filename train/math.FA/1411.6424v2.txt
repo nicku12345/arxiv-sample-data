@@ -1,0 +1,1 @@
+We prove that a weakly ergodic, strong Feller semigroup on the space of measures converges strongly to a projection onto its fixed space. In contrast to a recent result of Gerlach we do not assume the semigroup to be stochastically continuous.

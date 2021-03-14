@@ -1,0 +1,1 @@
+Jagy and Kaplansky exhibited a table of 68 pairs of positive definite binary quadratic forms that represent the same odd primes and conjectured that this list is complete outside of "trivial" pairs. In this article, we find all pairs of such forms that represent the same primes outside of a finite set.

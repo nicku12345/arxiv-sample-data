@@ -1,0 +1,1 @@
+In this note we shall study the Witten multiple zeta function associated to the exceptional Lie algebra g_2. Our main result shows that its special values at nonnegative integers can always be expressed as rational linear combinations of the multi-polylogs evaluated at 12th roots of unity, except for two irregular cases.

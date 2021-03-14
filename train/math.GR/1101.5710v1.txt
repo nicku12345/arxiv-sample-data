@@ -1,0 +1,1 @@
+The aim of this note is to give a direct proof for the following result proved by Fountain and Lewin: {\em Let \alg be an independence algebra of finite rank and let a be a singular endomorphism of \alg . Then a=e_1... e_n where e^2_i=e_i and rank(a)=rank(e_i).}

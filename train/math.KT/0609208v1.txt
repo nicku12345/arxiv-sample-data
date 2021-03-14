@@ -1,0 +1,1 @@
+Kasparov KK-groups KK(A,B) are represented as homotopy groups of the Pedersen-Weibel nonconnective algebraic K-theory spectrum of the additive category of Fredholm (A,B)-bimodules for A and B, respectively, a separable and \sigma-unital trivially graded real or complex C^*-algebra acted upon by a fixed compact metrizable group.

@@ -1,0 +1,1 @@
+In [Kat94b], Kato defined his notion of a log regular scheme and studied the local behavior of such schemes. A toric variety equipped with its canonical logarithmic structure is log regular. And, these schemes allow one to generalize toric geometry to a theory that does not require a base field. This paper will extend this theory by removing normality requirements.

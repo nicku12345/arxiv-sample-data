@@ -1,0 +1,1 @@
+We study multiplicative Dirac structures on Lie groups. We show that the characteristic foliation of a multiplicative Dirac structure is given by the cosets of a normal Lie subgroup and, whenever this subgroup is closed, the leaf space inherits the structure of a Poisson-Lie group. We also describe multiplicative Dirac structures on Lie groups infinitesimally.

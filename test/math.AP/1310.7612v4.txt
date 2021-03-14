@@ -1,0 +1,1 @@
+We study the inviscid dyadic model of the Euler equations and prove some regularizing properties of the nonlinear term that occur due to forward energy cascade. We show every solution must have 3/5 L^2-based (or 1/10 L^3-based) regularity for all positive time. We conjecture this holds up to Onsager's scaling, where the L^2-based exponent is 5/6 and the L^3-based exponent is 1/3.

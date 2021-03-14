@@ -1,0 +1,1 @@
+In the present paper we investigate the performance of explicit splitting schemes and related techniques applied to a rigid body model subject to a stochastic torque and random perturbations in the inertia tensor. Results are discussed and compared with traditional solvers for such model.

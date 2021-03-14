@@ -1,0 +1,1 @@
+This paper generalizes the fundamental GAGA results of Serre cite{MR0082175} in three ways---to the non-separated setting, to stacks, and to families. As an application of these results, we show that analytic compactifications of \mathcal{M}_{g,n} possessing modular interpretations are algebraizable.

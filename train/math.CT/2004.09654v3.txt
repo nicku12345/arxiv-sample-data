@@ -1,0 +1,1 @@
+The main objective of this paper is to construct a homotopy colimit functor on a category of functors taking values in the model category of quasi-categories.

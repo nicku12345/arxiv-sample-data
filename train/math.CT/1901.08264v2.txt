@@ -1,0 +1,1 @@
+We show that Segal spaces, and more generally category objects in an \infty-category \mathcal{C}, can be identified with associative algebras in the double \infty-category of spans in \mathcal{C}. We use this observation to prove that "having identities" is a property of a non-unital (\infty,n)-category.

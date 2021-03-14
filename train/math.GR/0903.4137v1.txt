@@ -1,0 +1,1 @@
+Let G:=G_2(K) be a simple algebraic group of type G_2 defined over an algebraically closed field K of characteristic p>0. Let \sigma denote a standard Frobenius automorphism of G such that G_\sigma\cong G_2(q) with q\geq 4. In this paper we find all reductive subgroups of G and quasi-simple subgroups of G_\sigma in the defining characteristic.

@@ -1,0 +1,1 @@
+We consider loci of points such that their sum of distances or sum of squared distances to each of the sides of a given triangle is constant. These loci are inspired by Viviani's theorem and its extension. The former locus is a line segment or the whole triangle and the latter locus is an ellipse.

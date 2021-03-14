@@ -1,0 +1,1 @@
+We show that our construction of realizations for Lie algebras and quantum algebras can be generalized to quantum superalgebras, too. We study an example of quantum superalgebra U_q(gl(2/1)) and give the boson-fermion realization with respect to one pair od q-deformed boson operator and 2 pairs of fermions.

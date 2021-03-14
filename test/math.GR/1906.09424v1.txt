@@ -1,0 +1,1 @@
+For any group G, let nacent(G) denote the set of all nonabelian centralizers of G. Amiri and Rostami in (Publ. Math. Debrecen 87/3-4 (2015), 429-437) put forward the following question:   Let H and G be finite simple groups. Is it true that if |nacent(H)| = |nacent(G)|, then G is isomorphic to H?   In this paper, among other things, we give a negative answer to this question.

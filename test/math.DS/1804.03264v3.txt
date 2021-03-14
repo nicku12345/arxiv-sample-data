@@ -1,0 +1,1 @@
+In this paper, we present a criterion for pitchfork bifurcation of smooth vector fields based on a topological argument. Our result expands Rajapakse and Smale's result \cite{RS2} significantly. Based on our criterion, we present a class of families of non-symmetric vector fields undergoing a pitchfork bifurcation.

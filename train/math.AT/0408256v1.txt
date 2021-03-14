@@ -1,0 +1,1 @@
+This paper takes up the systematic study of the Gottlieb groups G_{n+k}(\S^n) of spheres for k\le 13 by means of the classical homotopy theory methods. The groups G_{n+k}(\S^n) for k\le 7 and k=10,12,13 are fully determined. Partial results on G_{n+k}(\S^n) for k=8,9,11 are presented as well. We also show that [\iota_n,\eta^2_n\sigma_{n+2}]=0 if n=2^i-7 for i\ge 4.

@@ -1,0 +1,1 @@
+The paper presents several combinatorial properties of the boolean cumulants. A corollary is a new proof of the multiplicative property of the boolean cumulant series that can be easily adapted for the case of boolean independence with amalgamation over an algebra.

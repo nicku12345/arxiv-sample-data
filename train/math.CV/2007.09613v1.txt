@@ -1,0 +1,1 @@
+Every real Bank-Laine function of finite order, whose zeros are all real but neither bounded above nor bounded below, either has an explicit representation in terms of trigonometric functions or has zeros with exponent of convergence at least 3. An example constructed via quasiconformal surgery demonstrates the sharpness of this result.

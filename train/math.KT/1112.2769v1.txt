@@ -1,0 +1,1 @@
+We construct a nontrivial inverse system of Cuntz algebras \{{\cal O}_{n}:2\leq n<\infty\}, whose inverse limit is *-isomorphic onto {\cal O}_{\infty}. By using this result, it is shown that the K_{0}-functor is discontinuous with respect to the inverse limit even if the limit is a C^{*}-algebra.

@@ -1,0 +1,1 @@
+Motivated by the recent results of Nualart and Xu \cite{Nualart} concerning limits laws for occupation times of one dimensional symmetric stable processes, this paper proves a decomposition for functionals of one dimensional symmetric L\'evy processes under certain conditions on the characteristic exponent and computes the moments of the decomposition.

@@ -1,0 +1,1 @@
+We prove that the set of fiber-bunched SL(2,\mathbb{R})-valued H\"{o}lder cocycles with nonvanishing Lyapunov exponents over a volume preserving, accessible and center-bunched partially hyperbolic diffeomorphism is open. Moreover, we present an example showing that this is no longer true if we do not assume acessibility in the base dynamics.

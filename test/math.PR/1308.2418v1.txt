@@ -1,0 +1,1 @@
+We give a proof of the maximal inequalities of Burkholder, Davis and Gundy for real as well as Hilbert-space-valued local martingales using almost only stochastic calculus. Some parts of the exposition, especially in the infinite dimensional case, appear to be original.

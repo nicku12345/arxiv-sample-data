@@ -1,0 +1,1 @@
+We prove that any self-contracted curve in R 2 endowed with a C 2 and strictly convex norm, has finite length. The proof follows from the study of the curve bisector of two points in R 2 for a general norm together with an adaptation of the argument used in [2].

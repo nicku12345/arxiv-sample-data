@@ -1,0 +1,1 @@
+For a non-flat C^3 unimodal map with a Cantor attractor, we show that for any open cover \mathcal U of this attractor, the complexity function p(\mathcal U, n) is of order n\log n. In the appendix, we construct a non-renormalizable map with a Cantor attractor for which p(\mathcal{U}, n) is bounded from above for any open cover \mathcal{U}.

@@ -1,0 +1,1 @@
+We obtain an improvement of some coloring theorems from \cite{nsbpr}, \cite{819}, and \cite{APAL} for the case where the singular cardinal in question has countable cofinality. As a corollary, we obtain an "idealized" version of the combinatorial principle \pr_1(\mu^+,\mu^+,\mu^+,\cf(\mu)) that maximizes the indecomposability of the associated ideal.

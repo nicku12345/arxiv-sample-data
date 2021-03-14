@@ -1,0 +1,1 @@
+The toric ring together with the toric ideal arising from a nested configuration is studied, with particular attention given to the algebraic study of normality of the toric ring as well as the Gr\"obner bases of the toric ideal. One of the combinatorial applications of these algebraic findings leads to insights on smooth 3 \times 3 transportation polytopes.

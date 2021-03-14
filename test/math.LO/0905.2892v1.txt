@@ -1,0 +1,1 @@
+We prove the strong normalization of full classical natural deduction (i.e. with conjunction, disjunction and permutative conversions) by using a translation into the simply typed lambda-mu-calculus. We also extend Mendler's result on recursive equations to this system.

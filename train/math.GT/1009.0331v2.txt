@@ -1,0 +1,1 @@
+We construct instanton Floer homology for lens spaces L(p,q). As an application, we prove that X = \CP^2 # \CP^2 does not admit a decomposition X = X_1 \cup X_2. Here X_1 and X_2 are oriented, simply connected, non-spin 4-manifolds with b^+ = 1 and with boundary L(p, 2), and p is a prime number of the form 16N+1.

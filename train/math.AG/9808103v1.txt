@@ -1,0 +1,1 @@
+This article contains a new argument which proves vanishing of the first cohomology for negative vector bundles over a complex projective variety if the rank of the bundle is smaller than the dimension of the base. Similar argument is applied to the construction of holomorphic functions on the universal covering of the complex projective variety .

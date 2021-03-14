@@ -1,0 +1,1 @@
+We prove the following analogue of a Theorem of R.O. Davies: Every \Sigma^1_2 function f:\R\times\R\to\R can be represented as a sum of rectangular \Sigma^1_2 functions if and only if all reals are constructible.

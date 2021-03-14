@@ -1,0 +1,1 @@
+In this paper, we show that every pseudo B-Fredholm operator is a pseudo Fredholm operator. Afterwards, we prove that the pseudo B-Weyl spectrum is empty if and only if the pseudo B-Fredholm spectrum is empty. Also, we study a symmetric difference between some parts of the spectrum.

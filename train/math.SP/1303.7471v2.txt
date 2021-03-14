@@ -1,0 +1,1 @@
+On geometrically finite hyperbolic manifolds \Gamma\backslash H^{d}, including those with non-maximal rank cusps, we give upper bounds on the number N(R) of resonances of the Laplacian in disks of size R as R\to \infty. In particular, if the parabolic subgroups of \Gamma satisfy a certain Diophantine condition, the bound is N(R)= O(R^d (\log R)^{d+1}).

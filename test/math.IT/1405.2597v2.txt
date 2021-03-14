@@ -1,0 +1,1 @@
+This paper is concerned with linear superposition systems in which all components of the superimposed signal are coded with an identical binary low-density parity-check (LDPC) code.

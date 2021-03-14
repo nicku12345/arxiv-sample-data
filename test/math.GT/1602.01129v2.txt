@@ -1,0 +1,1 @@
+We provide a diagrammatic computation for the bilinear form, which is defined as the pairing between the (relative) cup products with every local coefficients and every integral homology 2-class of every links in the 3-sphere. As a corollary, we construct bilinear forms on the twisted Alexander modules of links.

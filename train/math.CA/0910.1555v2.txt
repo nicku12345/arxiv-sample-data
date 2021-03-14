@@ -1,0 +1,1 @@
+We strengthen the Carleson-Hunt theorem by proving L^p estimates for the r-variation of the partial sum operators for Fourier series and integrals, for p>\max\{r',2\}. Four appendices are concerned with transference, a variation norm Menshov-Paley-Zygmund theorem, and applications to nonlinear Fourier transforms and ergodic theory.

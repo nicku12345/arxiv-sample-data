@@ -1,0 +1,1 @@
+We consider a number of generalizations of the \beta-extended MacMahon Master Theorem for a matrix. The generalizations are based on replacing permutations on multisets formed from matrix indices by partial permutations or derangements over matrix or submatrix indices.

@@ -1,0 +1,1 @@
+We encode a compact Lie group action on a compact manifold by the Sullivan model of its Borel construction. We then prove that deciding whether this action is almost free is NP-hard.

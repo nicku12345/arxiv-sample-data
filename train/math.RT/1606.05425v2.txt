@@ -1,0 +1,1 @@
+Let G be a real reductive Lie group with maximal compact sub- group K. We generalize the usual notion of Dirac index to a twisted version, which is nontrivial even in case G and K do not have equal rank. We compute ordinary and twisted indices of standard modules. As applications, we study extensions of Harish-Chandra modules and twisted characters.

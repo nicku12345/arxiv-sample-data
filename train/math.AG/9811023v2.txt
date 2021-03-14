@@ -1,0 +1,1 @@
+We construct a version of Fourier transform for families of real tori. This transform defines a functor from certain category associated with a symplectic family of tori to the category of holomorphic vector bundles on the dual family (the dual family has a natural complex structure). In the 1-dimensional case the former category is closely related to the Fukaya category.

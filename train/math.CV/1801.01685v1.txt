@@ -1,0 +1,1 @@
+Given a 2-sheeted torus over the circle with winding number 1, we prove that its polynomial hull is a union of 2-sheeted holomorphic discs. Moreover when the hull is non degenerate its boundary is a Levi-flat solid torus foliated by such discs.

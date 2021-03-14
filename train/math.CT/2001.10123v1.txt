@@ -1,0 +1,1 @@
+In this expository paper we explain in detail how to construct bicategorical colimits of several kinds of tensor categories, for example essentially small finitely cocomplete K-linear tensor categories. The constructions are direct and elementary.

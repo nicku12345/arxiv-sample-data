@@ -1,0 +1,1 @@
+In this paper we show that that greedy bases can be defined as those where the error term using m-greedy approximant is uniformly bounded by the best m-term approximation with respect to polynomials with constant coefficients in the context of the weak greedy algorithm and weights.

@@ -1,0 +1,1 @@
+In this paper, we define and study a notion of Ding projective dimension for complexes of left modules over associative rings. In particular, we consider the class of homologically bounded below complexes of left R-modules, and show that Ding projective dimension has a nice functorial description.

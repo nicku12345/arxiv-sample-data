@@ -1,0 +1,1 @@
+We present an explicit formula for computing toric residues as a quotient of two determinants, a la Macaulay, where the numerator is a minor of the denominator. We also give an irreducible representation of toric residues by extending the theory of subresultants to monomials of critical degree in the homogeneous coordinate ring of the corresponding toric variety.

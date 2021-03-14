@@ -1,0 +1,1 @@
+We derive eigenvalue asymptotics for Sturm--Liouville operators with singular complex-valued potentials from the space W^{\al-1}_{2}(0,1), \al\in[0,1], and Dirichlet or Neumann--Dirichlet boundary conditions. We also give application of the obtained results to the inverse spectral problem of recovering the potential from these two spectra.

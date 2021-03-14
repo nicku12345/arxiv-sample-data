@@ -1,0 +1,1 @@
+A group G is called logically cyclic, if it contains an element s such that every element of G can be defined by a first order formula with parameter s. The aim of this paper is to investigate the structure of such groups.

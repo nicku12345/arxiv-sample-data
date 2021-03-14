@@ -1,0 +1,1 @@
+We calculate the full asymptotic expansion of boundary blow-up solutions, for any nonlinearity f. Our approach enables us to state sharp qualitative results regarding uniqueness and ra-dial symmetry of solutions, as well as a characterization of nonlinearities for which the blow-up rate is universal. Lastly, we study in more detail the standard nonlinearities f(u) = u^p, p > 1.

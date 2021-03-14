@@ -1,0 +1,1 @@
+In this paper we study the Diophantine equation x^{4}-q^{4}=py^{5}, with the following conditions: p and q are different prime natural numbers, y is not divisible with p, p\equiv3 (mod20), q\equiv4 (mod5), \overline{p} is a generator of the group (U(\textbf{Z}_{q^{4}}),\cdot), (x,y)=1, 2 is a 5-power residue mod q.

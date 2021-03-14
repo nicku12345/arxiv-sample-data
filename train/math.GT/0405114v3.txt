@@ -1,0 +1,1 @@
+Using work of Ozsvath and Szabo, we show that if a nontrivial knot in S^3 admits a lens space surgery with slope p, then p <= 4g+3, where g is the genus of the knot. This is a close approximation to a bound conjectured by Goda and Teragaito.

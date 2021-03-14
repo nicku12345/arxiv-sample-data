@@ -1,0 +1,1 @@
+An old question in Euclidean Ramsey theory asks, if the points in the plane are red-blue coloured, does there always exist a red pair of points at unit distance or five blue points in line separated by unit distances? An elementary proof answers this question in affirmative.

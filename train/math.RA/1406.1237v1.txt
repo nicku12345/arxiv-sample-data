@@ -1,0 +1,1 @@
+An element of a ring R is called strongly J^{\#}-clean provided that it can be written as the sum of an idempotent and an element in J^{\#}(R) that commute. We characterize, in this article, the strongly J^{\#}-cleanness of matrices over projective-free rings. These extend many known results on strongly clean matrices over commutative local rings.

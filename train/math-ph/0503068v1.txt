@@ -1,0 +1,1 @@
+The free Bose gas with attractive boundary conditions is an interesting toy model for the study of Bose-Einstein Condensation (BEC), because one has BEC already in one dimension. Here we study for the first time the imperfect Bose gas with these boundary conditions and prove rigorously the occurence of condensation.

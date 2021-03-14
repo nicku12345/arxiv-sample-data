@@ -1,0 +1,1 @@
+For a finite group G, a Tambara functor on G is regarded as a G-bivariant analog of a commutative ring. In this analogy, previously we have defined an ideal of a Tambara functor. In this article, we will demonstrate a calculation of the prime spectrum of the Burnside Tambara functor, when G is a cyclic p-group for a prime integer p.

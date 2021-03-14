@@ -1,0 +1,1 @@
+We give an example of a three-dimensional zonotope whose set of tight zonotopal tilings is not connected by flips. Using this, we show that the set of triangulations of \Delta^4 \times \Delta^n is not connected by flips for large n. Our proof makes use of a non-explicit probabilistic construction.

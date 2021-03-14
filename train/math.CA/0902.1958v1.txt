@@ -1,0 +1,1 @@
+In this paper we continue the study of spectral properties of the Dunkl harmonic oscillator in the context of a finite reflection group on \mathbb{R}^d isomorphic to \mathbb{Z}^d_2. We prove that imaginary powers of this operator are bounded on L^p, 1<p<\infty, and from L^1 into weak L^1.

@@ -1,0 +1,1 @@
+We prove that if x^m + c*x^n permutes the prime field GF(p), where m>n>0 and c is in GF(p)^*, then gcd(m-n,p-1) > sqrt{p} - 1. Conversely, we prove that if q>=4 and m>n>0 are fixed and satisfy gcd(m-n,q-1) > 2q*(log log q)/(log q), then there exist permutation binomials over GF(q) of the form x^m + c*x^n if and only if gcd(m,n,q-1) = 1.

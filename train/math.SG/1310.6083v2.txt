@@ -1,0 +1,1 @@
+Fix a codimension-1 affine Poisson variety (X,\pi_X) in \mathbb{C}^n with an isolated singularity at the origin. We characterize possible extensions of \pi_X to \mathbb{C}^n using the Koszul complex of the Jacobian ideal of X. In the particular case of a singular surface, we show that there always exists an extension of \pi_X to \mathbb{C}^n.

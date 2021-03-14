@@ -1,0 +1,1 @@
+We give an exponential lower bound for the Graver complexity of the incidence matrix of a complete bipartite graph of arbitrary size. Our result is a generalization of the result by Berstein and Onn (2009) for 3xr complete bipartite graphs, r \ge 3.

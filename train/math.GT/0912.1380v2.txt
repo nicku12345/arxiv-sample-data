@@ -1,0 +1,1 @@
+We introduce and study algebraic structures underlying 2-dimensional Homotopy Quantum Field Theories (HQFTs) with arbitrary target spaces. These algebraic structures are formalized in the notion of a twisted Frobenius algebra. Our work generalizes results of Brightwell, Turner, and the second author on 2-dimensional HQFTs with simply-connected or aspherical targets.

@@ -1,0 +1,1 @@
+We introduce a geometric construction which relates to the pentagram map much in the way that a logarithmic spiral relates to a circle. After introducing the construction, we establish some basic geometric facts about it, and speculate on some of the deeper algebraic structure, such as the complete integrability of the associated dynamical system.

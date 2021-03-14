@@ -1,0 +1,1 @@
+Let R be a local ring of positive characteristic and X a complex with nonzero finitely generated homology and finite injective dimension. We prove that if derived base change of X via the Frobenius (or more generally, via a contracting) endomorphism has finite injective dimension then R is Gorenstein.

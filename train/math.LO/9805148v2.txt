@@ -1,0 +1,1 @@
+A set X subseteq R is strongly meager if for every measure zero set H, X+H not= R. Let SM denote the collection of strongly meager sets. We show that assuming CH, SM is not an ideal.

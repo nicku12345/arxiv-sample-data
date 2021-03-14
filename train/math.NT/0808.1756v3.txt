@@ -1,0 +1,1 @@
+Let \lambda(n) be the normalized n-th Fourier coefficient of a holomorphic cusp form for the full modular group. We show that for some constant C > 0 depending on the cusp form and every fixed c in the range 1 < c < 8/7, the mean value of \lambda(p) is \ll \exp (-C \sqrt{\log N}) as p runs over all (Piatetski-Shapiro) primes of the form [n^c] with a natural number n \leq N.

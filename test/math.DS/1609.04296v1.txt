@@ -1,0 +1,1 @@
+Walk dimension is an important conception in analysis of fractals. In this paper we prove that the walk dimension of a connected compact set possessing an Alfors regular measure is an invariant under Lipschitz transforms. As an application, we show some generalized Sierpi\'nski gaskets are not Lipschitz equivalent.

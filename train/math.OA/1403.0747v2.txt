@@ -1,0 +1,1 @@
+Simple, separable, unital, monotracial and nuclear C^*-algebras are shown to have finite nuclear dimension whenever they absorb the Jiang-Su algebra \mathcal{Z} tensorially. This completes the proof of the Toms-Winter conjecture in the unique trace case.

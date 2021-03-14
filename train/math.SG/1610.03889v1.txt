@@ -1,0 +1,1 @@
+Let \Pi be a rank 2 Poisson Structure in the Projective Space defined by the dimension 2 foliation \mathcal{F} in the pull-back component. We prove that for a generic choice of \mathcal{F}, the irreducible component of the Poisson structures containing \Pi and the irreducible component of Foliations containing \mathcal{F} coincides.

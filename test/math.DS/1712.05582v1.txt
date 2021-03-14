@@ -1,0 +1,1 @@
+Let \pi\colon T\times X\rightarrow X be a semiflow on a compact Hausdorff space X with phase semigroup T. This paper provides us with some conditions under which \textsl{weakly almost periodic} is equivalent to \textsl{uniformly almost periodic} or to \textsl{equicontinuous} for (T,X,\pi).

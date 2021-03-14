@@ -1,0 +1,1 @@
+We show that the category of N-complexes has a Str\om model structure, meaning the weak equivalences are the chain homotopy equivalences. This generalizes the analogous result for the category of chain complexes (N = 2). The trivial objects in the model structure are the contractible N-complexes which we necessarily study and derive several results.

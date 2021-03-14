@@ -1,0 +1,1 @@
+We formulate and prove a large sieve inequality for quadratic characters over a number field. To do this, we introduce the notion of an n-th order Hecke family. We develop the basic theory of these Hecke families, including versions of the Poisson summation formula.

@@ -1,0 +1,1 @@
+It is known that any two triangulations of a compact 3-manifold are related by finite sequences of certain local transformations. We prove here an upper bound for the length of a shortest transformation sequence relating any two triangulations of the 3-dimensional projective space, in terms of the number of tetrahedra.

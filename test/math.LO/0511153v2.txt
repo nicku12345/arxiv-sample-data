@@ -1,0 +1,1 @@
+In this paper, we prove that the Hurwitz equivalence problem for 1-factorizations in F_2 \oplus F_2 is undecidable, and as a consequence, the Hurwitz equivalence problem for \Delta^2-factorizations in the braid groups B_n, n\geq 5 is also undecidable.

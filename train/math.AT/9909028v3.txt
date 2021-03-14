@@ -1,0 +1,1 @@
+For a given pair of maps f,g:X->M from an arbitrary topological space to an n-manifold, the Lefschetz homomorphism is a certain graded homomorphism L:H(X)->H(M) of degree (-n). We prove a Lefschetz-type coincidence theorem: if the Lefschetz homomorphism is nontrivial then there is an x in X such that f(x)=g(x).

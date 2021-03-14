@@ -1,0 +1,1 @@
+In this paper, we give a proof of the classical Kronecker limit formulas using the distribution relation of the Eisenstein-Kronecker series. Using a similar idea, we then prove p-adic analogues of the Kronecker limit formulas for the p-adic Eisenstein-Kronecker functions defined in our previous paper.

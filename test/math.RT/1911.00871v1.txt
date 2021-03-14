@@ -1,0 +1,1 @@
+We present a computer algorithm to explicitly compute the BGG resolution and its cohomology. We give several applications, in particular computation of various sheaf cohomology groups on flag varieties. An implementation of the algorithm is available at https://github.com/RikVoorhaar/bgg-cohomology.

@@ -1,0 +1,1 @@
+We derive a formula for p(n) (the number of partitions of n) in terms of the partial Bell polynomials using Fa\`{a} di Bruno's formula and Euler's pentagonal number theorem.

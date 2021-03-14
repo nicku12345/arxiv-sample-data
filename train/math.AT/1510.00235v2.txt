@@ -1,0 +1,1 @@
+We construct a degree-type otopy invariant for equivariant gradient local maps in the case of a real finite dimensional orthogonal representation of a compact Lie group. We prove that the invariant establishes a bijection between the set of equivariant gradient otopy classes and the direct sum of countably many copies of \mathbb{Z}.

@@ -1,0 +1,1 @@
+I argue that, given vertices u and v in a 4-chromatic graph G, if the color of u equals the color of v in every 4-coloring of G then G has no planar supergraph where u and v are adjacent. This is equivalent to the Four Color Theorem.

@@ -1,0 +1,1 @@
+We prove that the optimal constant in the Lieb--Thirring inequality on a star graph with N edges coincides with that on \mathbb R if N is even. For odd N we show that this property holds when restricting to radial potentials and we prove an almost optimal bound for general potentials.

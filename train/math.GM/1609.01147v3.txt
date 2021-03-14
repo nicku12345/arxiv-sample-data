@@ -1,0 +1,1 @@
+Let x \geq 1 be a large number, let f(x) \in \mathbb{Z}[x] be a prime polynomial of degree \text{deg}(f)=m, and let u\ne \pm 1, v^2 be a fixed integer. Assuming the Bateman-Horn conjecture, an asymptotic counting function for the number of primes p=f(n) \leq x with a fixed primitve root u is derived in this note.

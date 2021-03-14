@@ -1,0 +1,1 @@
+In this paper we will discuss problems and techniques related to underactuated systems. We give a mathematical formulation of several problems arising from applications, review some standard and new techniques, and pose some interesting and challenging open questions.

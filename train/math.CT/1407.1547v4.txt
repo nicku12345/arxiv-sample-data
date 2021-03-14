@@ -1,0 +1,1 @@
+We study a classical realizability model (in the sense of J.-L. Krivine) arising from a model of untyped lambda calculus in coherence spaces. We show that this model validates countable choice using bar recursion and bar induction.

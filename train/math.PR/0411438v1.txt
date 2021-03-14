@@ -1,0 +1,1 @@
+This paper studies the asymptotic behavior of the Fisher information for a Levy process discretely sampled at an increasing frequency. We show that it is possible to distinguish not only the continuous part of the process from its jumps part, but also different types of jumps, and derive the rates of convergence of efficient estimators.

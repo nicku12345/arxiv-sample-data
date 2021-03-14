@@ -1,0 +1,1 @@
+We exhibit an equivalence between the model-theoretic framework of universal classes and the category-theoretic framework of locally multipresentable categories. We similarly give an equivalence between abstract elementary classes (AECs) admitting intersections and locally polypresentable categories. We use these results to shed light on Shelah's presentation theorem for AECs.

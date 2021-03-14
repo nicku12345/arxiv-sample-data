@@ -1,0 +1,1 @@
+Let X^* denote a Banach space with a subsymmetric weak^* Schauder basis satisfying condition~\eqref{eq:condition-c}. We show that for any operator T : X^*\to X^*, either T(X^*) or (I-T)(X^*) contains a subspace that is isomorphic to X^* and complemented in X^*. Moreover, we prove that \ell^p(X^*), 1\leq p \leq \infty is primary.

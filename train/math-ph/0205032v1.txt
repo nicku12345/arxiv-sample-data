@@ -1,0 +1,1 @@
+In the present paper we give the general solution of the functional equation  (f(x)+g(y)+h(z))^2 = F(x)+G(y)+H(z), x+y+z=0  which is related to the exact factorized ground-state wave function for the quantum one-dimensional problem of three different particles with pairwise interaction.

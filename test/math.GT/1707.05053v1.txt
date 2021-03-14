@@ -1,0 +1,1 @@
+We prove that for any distance at least 3 Heegaard splitting and a boundary component F, there is a diameter finite ball in the curve complex \mathcal {C}(F) so that it contains all distance degenerate curves or slopes in F.

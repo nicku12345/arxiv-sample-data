@@ -1,0 +1,1 @@
+We develop Hopf-Galois theory for weak Hopf algebras, and recover analogs of classical results for Hopf algebras. Our methods are based on the recently introduced Galois theory for corings. We focus on the situatation where the weak Hopf algebra is a groupoid algebra or its dual. We obtain weak versions of strongly graded rings, and classical Galois extensions.

@@ -1,0 +1,1 @@
+We prove that the Bredon homology or cohomology of the partition complex with fairly general coefficients is either trivial or computable in terms of constructions with the Steinberg module. The argument involves developing a theory of Bredon homology and cohomology approximation.

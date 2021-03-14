@@ -1,0 +1,1 @@
+We define an extension of the toric (middle perversity intersection homology) g-vector of a convex polytope X. The extended g(X) encodes the whole of the flag vector f(X) of X, and so is called complete. We find that for many examples that g_k(X)\geq 0 for most k (independent of X).

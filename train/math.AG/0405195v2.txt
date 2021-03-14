@@ -1,0 +1,1 @@
+For the Jacobian of a curve, the Riemann singularity theorem gives a geometric interpretation of the singularities of the theta divisor in terms of special linear series on the curve. This paper proves an analogous theorem for Prym varieties. Applications of this theorem to cubic threefolds, and Prym varieties of dimension five, are also considered.

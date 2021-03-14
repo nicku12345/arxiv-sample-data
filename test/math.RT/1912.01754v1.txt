@@ -1,0 +1,1 @@
+We define a map from the set of conjugacy classes of a Weyl group W to the representation ring of W tensored with the ring of polynomials in one variable.

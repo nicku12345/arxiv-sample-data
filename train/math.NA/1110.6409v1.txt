@@ -1,0 +1,1 @@
+Positive polynomial operator that approximates Urison operator, when integration domain is a "regular triangle" is investigated. We obtain Bernstein Polynomials as a particular case.

@@ -1,0 +1,1 @@
+Let M_i be a von Neumann algebra, and B_i be a maximal injective von Neumann subalgebra of M_i, i=1,2. If M_1 has separable predual and the center of B_1 is atomic, e.g., B_1 is a factor, then B_1\tensor B_2 is a maximal injective von Neuamnn subalgebra of M_1\tensor M_2. This partly answers a question of Popa

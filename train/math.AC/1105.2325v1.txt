@@ -1,0 +1,1 @@
+This paper gives new bounds on the first Hilbert coefficient of an ideal of finite colength in a Cohen-Macaulay local ring. The bound given is quadratic in the multiplicity of the ideal. We compare our bound to previously known bounds, and give examples to show that at least in some cases it is sharp. The techniques come largely from work of Elias, Rossi, Valla, and Vasconcelos.

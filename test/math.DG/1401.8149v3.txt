@@ -1,0 +1,1 @@
+In this paper, we derive the first and the second variation of the energy functional for a pseudo-Finsler metric using the family of affine connections associated to the Chern connection. This opens the possibility to accomplish computations with coordinate-free methods. Using the second variation formula, we introduce the index form and present some properties of Jacobi fields.

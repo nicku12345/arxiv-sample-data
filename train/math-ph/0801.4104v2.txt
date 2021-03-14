@@ -1,0 +1,1 @@
+We investigate the equivalence between spectral characteristics of the Laplace operator on a metric graph, and the associated unitary scattering operator. We prove that the statistics of level spacings, and moments of observations in the eigenbases coincide in the limit that all bond lengths approach a positive constant value.

@@ -1,0 +1,1 @@
+We prove that the arithmetic degree of a graded or local ring is bounded above by the arithmetic degree of any of its associated graded rings with respect to ideals I in A. In particular, if Spec (A) is equidimensional and has an embedded component in dimension i, then the normal cone of Spec (A) along V(I) has an embedded component in dimension i too.

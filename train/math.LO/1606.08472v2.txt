@@ -1,0 +1,1 @@
+We show that any theory of tame henselian valued fields is NIP if and only if the theory of its residue field and the theory of its value group are NIP. Moreover, we show that if (K,v) is a henselian valued field of residue characteristic \mathrm{char}(Kv)=p for which K^\times/(K^\times)^p is finite in case p>0, then (K,v) is NIP iff Kv is NIP and v is roughly tame.

@@ -1,0 +1,1 @@
+It is discussed the problem on construction of optimal quadrature formulas in the sense of Sard in the space L_2^{(m)}(0,1), when the nodes of quadrature formulas are equally spaced. Here the representations of optimal coefficients for any natural numbers m and N are found.

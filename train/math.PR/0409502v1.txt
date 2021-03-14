@@ -1,0 +1,1 @@
+Given an R^d-valued supercritical branching Wiener process, let D(A,T) be the number of particles in a subset A of R^d at time T, (T=0,1,2,...). We provide a complete asymptotic expansion of D(A,T) as T goes to infinity, generalizing the work of X.Chen.

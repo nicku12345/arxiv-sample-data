@@ -1,0 +1,1 @@
+We address the problem of obtaining well-defined criteria for multiobjective optimal control systems. Necessary and sufficient conditions for an optimal control functional to be nonessential are proved. The results provide effective tools for determining nonessential objectives in vector-valued optimal control problems.

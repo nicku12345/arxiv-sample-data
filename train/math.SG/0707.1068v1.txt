@@ -1,0 +1,1 @@
+We show that a nondegenerate tight contact form on the 3-sphere has exactly two simple closed Reeb orbits if and only if the differential in linearized contact homology vanishes. Moreover, in this case the Floquet multipliers and Conley-Zehnder indices of the two Reeb orbits agree with those of a suitable irrational ellipsoid in 4-space.

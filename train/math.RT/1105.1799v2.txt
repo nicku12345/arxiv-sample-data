@@ -1,0 +1,1 @@
+For a tensor triangulated category which is well generated in the sense of Neeman, it is shown that the collection of Bousfield classes forms a set. This set has a natural structure of a complete lattice which is then studied, using the notions of stratification and support.

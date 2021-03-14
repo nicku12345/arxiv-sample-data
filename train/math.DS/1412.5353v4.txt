@@ -1,0 +1,1 @@
+Let d \geq 2, and let \Gamma \subset PSL(2, \mathbb{R})^d be an irreducible, cocompact lattice. We prove a sharp estimate up to a logarithmic factor on the rate of equidistribution of coordinate horocycle flows on \Gamma \backslash PSL(2, \mathbb{R})^d.

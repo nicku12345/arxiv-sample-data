@@ -1,0 +1,1 @@
+We focus on the estimating problem of the infinity norm of the inverse of Nekrasov matrices, give new bounds which involve a parameter, and then determine the optimal value of the parameter such that the new bounds are better than those in L. Cvetkovic et al. (2013). Numerical examples are given to illustrate the corresponding results.

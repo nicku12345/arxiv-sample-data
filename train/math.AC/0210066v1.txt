@@ -1,0 +1,1 @@
+We prove that cancellation of reflexive modules over affine rings holds under some restrictions. We construct examples to show that this is false even over polynomial rings without the extra assumptions.

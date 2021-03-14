@@ -1,0 +1,1 @@
+Let T_k denote the Hecke algebra acting on newforms of weight k and level N. We prove that the power of p dividing the index of T_k inside its normalisation grows at least linearly with k (for fixed N), answering a question of Serre. We also apply our method to give heuristic evidence towards recent conjectures of Buzzard and Mazur.

@@ -1,0 +1,1 @@
+We study the unwheeled rational Kontsevich integral of torus knots. We give a precise formula for these invariants up to loop degree 3 and show that they appear as colorings of simple diagrams. We show that they behave under cyclic branched coverings in a very simple way. Our proof is combinatorial: it uses the results of Wheels and Wheelings and new decorations of diagrams.

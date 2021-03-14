@@ -1,0 +1,1 @@
+Atiyah's conjecture concerning configurations of N points in the Euclidean three-space is verified for the following nonplanar configurations: The first m points lie on a line L and the remaining n=N-m (>2) points are the vertices of a regular n-gon whose plane is perpendicular to L and whose centroid is on L.

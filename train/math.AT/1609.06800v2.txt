@@ -1,0 +1,1 @@
+We prove that the chain operad of the framed little balls (or disks) operad is not formal as a non-symmetric operad over the rationals if the dimension of their balls is odd and greater than 4.

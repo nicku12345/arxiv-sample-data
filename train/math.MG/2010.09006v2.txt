@@ -1,0 +1,1 @@
+We study a long standing open problem by Ulam, which is whether the Euclidean ball is the unique body of uniform density which will float in equilibrium in any direction. We answer this problem in the class of origin symmetric n-dimensional convex bodies whose relative density to water is 1/2. For n=3, this result is due to Falconer.

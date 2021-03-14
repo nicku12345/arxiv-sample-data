@@ -1,0 +1,1 @@
+Starting from the problem of describing cohomological invariants of Poisson manifolds we prove in a sense a ``no-go'' result: the differential graded Lie algebra of de Rham forms on a smooth Poisson manifold is formal.

@@ -1,0 +1,1 @@
+I construct some smooth Calabi-Yau threefolds in characteristic two and three that do not lift to characteristic zero. These threefolds are pencils of supersingular K3-surfaces. The construction depends on Moret-Bailly's pencil of abelian surfaces and Katsura's analysis of generalized Kummer surfaces. The threefold in characteristic two turns out to be nonrigid.

@@ -1,0 +1,1 @@
+We describe generators of universal Lefschetz groups consisting of self-maps of equivariant 1-spheres. This allows to formulate a normalization axiom which, together with the usual axioms, determines an equivariant Lefschetz number uniquely. We apply this technique to identify the fixed orbit detecting equivariant Lefschetz number of Chorny with the fixed orbit index of Dzedzej.

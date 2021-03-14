@@ -1,0 +1,1 @@
+We define an equivalence relation called A-isotopy between finitely determined map-germs, which is a strengthened version of A-equivalence. We consider the number of A-isotopy classes of equidimensional Morin singularities, and some other well-known low-dimensional singularities. We also give an application to stable perturbations of simple equi-dimensional map-germs.

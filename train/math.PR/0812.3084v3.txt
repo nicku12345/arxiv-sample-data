@@ -1,0 +1,1 @@
+We give error bounds which demonstrate optimal rates of convergence in the CLT for the total covered volume and the number of isolated shapes, for germ-grain models with fixed grain radius over a binomial point process of n points in a toroidal spatial region of volume n. The proof is based on Stein's method via size-biased couplings.

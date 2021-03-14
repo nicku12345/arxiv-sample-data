@@ -1,0 +1,1 @@
+The goal of this paper is to introduce a new tool, called {\em long turns}, which is a useful addition to the train track technology for automorphisms of free groups, in that it allows one to control periodic INPs in a train track map and hence the index of the induced automorphism.

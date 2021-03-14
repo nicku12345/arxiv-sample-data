@@ -1,0 +1,1 @@
+We determine all maximal subgroups of the direct product \sc G^n of \sc n copies of a group~\sc G. If \sc G is finite, we show that the number of maximal subgroups of~\sc G^n is a quadratic function of~\sc n if \sc G is perfect, but grows exponentially otherwise. We~deduce a theorem of Wiegold about the growth behaviour of the number of generators of~\sc G^n.

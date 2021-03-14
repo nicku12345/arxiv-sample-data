@@ -1,0 +1,1 @@
+Two types of eigenvalue continuity are commonly used in the literature. However, their meanings and the conditions under which continuities are used are not always stated clearly. This can lead to some confusion and needs to be addressed. In this note, we revisit the Ger\v{s}gorin disk theorem and clarify the issue concerning the proofs of the theorem by continuity.

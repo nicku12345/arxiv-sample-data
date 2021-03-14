@@ -1,0 +1,1 @@
+Assume that V is a braided vector space with diagonal type. It is shown that a monomial belongs to Nichols braided Lie algebra \mathfrak L(V) if and only if this monomial is connected. A basis of Nichols braided Lie algebra and dimension of Nichols braided Lie algebra of finite Cartan type are obtained.

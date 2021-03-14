@@ -1,0 +1,1 @@
+Symmetries of Poisson manifolds are in general quantized just to symmetries up to homotopy of the quantized algebra of functions. It is therefore interesting to study symmetries up to homotopy of Poisson manifolds. We notice that they are equivalent to Poisson principal bundles and describe their quantization to symmetries up to homotopy of the quantized algebras of functions.

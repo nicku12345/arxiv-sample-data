@@ -1,0 +1,1 @@
+1) We give a 3-dimensional analogue of M. Noether's inequality for canonically polarized threefolds: K^3\ge 2(2p_g-5)/3. This inequality is sharp by known examples of M. Kobayashi.   2) Given a minimal 3-fold X of general type with canonical singularities, if K^3< (3p_g-5)/2, we show that X must be birationally fibred by curves of genus 2.

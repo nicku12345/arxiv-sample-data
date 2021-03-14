@@ -1,0 +1,1 @@
+An exact expression for the symbol error probability of the four-dimensional 24-cell in Gaussian noise is derived. Corresponding expressions for other regular convex polytopes are summarized. Numerically stable versions of these error probabilities are also obtained.

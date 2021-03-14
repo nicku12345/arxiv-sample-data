@@ -1,0 +1,1 @@
+It is verified that the number of vertices in a d-dimensional cubical pseudomanifold is at least 2^{d+1}. Using Adin's cubical h-vector, the generalized lower bound conjecture is established for all cubical 4-spheres, as well as for some special classes cubical spheres in higher dimensions.

@@ -1,0 +1,1 @@
+A book of size q is the union of q triangles sharing a common edge. We find the exact Ramsey number of books of size q versus books of size p when p<q/6-o(q).

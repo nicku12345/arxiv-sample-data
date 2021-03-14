@@ -1,0 +1,1 @@
+We study the free complexification operation for compact quantum groups, G\to G^c. We prove that, with suitable definitions, this induces a one-to-one correspondence between free orthogonal quantum groups of infinite level, and free unitary quantum groups satisfying G=G^c.

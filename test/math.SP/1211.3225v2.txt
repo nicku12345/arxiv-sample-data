@@ -1,0 +1,1 @@
+In this article we prove a generalization of Weyl's criterion for the essential spectrum of a self-adjoint operator on a Hilbert space. We then apply this criterion to the Laplacian on functions over open manifolds and get new results for its essential spectrum.

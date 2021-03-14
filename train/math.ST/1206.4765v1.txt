@@ -1,0 +1,1 @@
+For a bivariate random vector (X,Y), symmetry conditions are presented that yield stochastic orderings among |X|, |Y|, |max(X,Y)|, and | min(X, Y)|. Partial extensions of these results for multivariate random vectors (X1,...,Xn) are also given.

@@ -1,0 +1,1 @@
+We discuss F(sigma) filters and show that the minimum size of a filter base generating an undiagonalizable filter included in some F(sigma) filter is the better known bounded evasion number e(ubd). An application to N-sets from trigonometric series is given by showing that if A is an N-set and B has size less e(ubd), then A+B is again an N-set.

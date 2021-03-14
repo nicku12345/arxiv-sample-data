@@ -1,0 +1,1 @@
+We extend the Oprea's result G_1(\mathbb{S}^{2n+1}/H)=\mathcal{Z}H to the 1st generalized Gottlieb group G_1^f(\mathbb{S}^{2n+1}/H) for a map f\colon A\to \mathbb{S}^{2n+1}/H. Then, we compute or estimate the groups G_m^f(\mathbb{S}^{2n+1}/H) and P_m^f(\mathbb{S}^{2n+1}/H) for some m>1 and finite groups H.

@@ -1,0 +1,1 @@
+An alternate form for the binomial tail is presented, which leads to a variety of bounds for the central tail. A few can be weakened into the corresponding Chernoff and Slud bounds, which not only demonstrates the quality of the presented bounds, but also provides alternate proofs for the classical bounds.

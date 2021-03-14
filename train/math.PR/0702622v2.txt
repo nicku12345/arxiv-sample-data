@@ -1,0 +1,1 @@
+We give sufficient conditions for existence, uniqueness and ergodicity of invariant measures for Musiela's stochastic partial differential equation with deterministic volatility and a Hilbert space valued driving L\'evy noise. Conditions for the absence of arbitrage and for the existence of mild solutions are also discussed.

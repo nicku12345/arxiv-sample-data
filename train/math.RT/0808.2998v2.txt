@@ -1,0 +1,1 @@
+Let G be a simply connected algebraic group of type B,C or D over an algebraically closed field of characteristic 2. We construct a Springer correspondence for the dual vector space of the Lie algebra of G. In particular, we classify the nilpotent orbits in the duals of symplectic and orthogonal Lie algebras over algebraically closed or finite fields of characteristic 2.

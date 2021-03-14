@@ -1,0 +1,1 @@
+For a simple symmetric random walk in dimension d\geq 3, a uniform strong law of large numbers is proved for the number of sites with given local time up to time n.

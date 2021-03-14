@@ -1,0 +1,1 @@
+The expected areas of the Wiener sausages swept by a disc attached to the two-dimensional Brownian Bridge joining the origin to a point x over a time interval [0,t] are computed. It is proved that the leading term of the expectation is given by Ramanujan's function if (x,t) remains in a parabolic region. The corresponding result for unconditioned process is also obtained.

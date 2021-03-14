@@ -1,0 +1,1 @@
+Let {\mathbb F}_q be a finite field of characteristic two and {\mathbb F}_q(X_1,...,X_n) a rational function field. We use matrix methods to obtain explicit transcendental bases of the invariant subfields of orthogonal groups and pseudo-symplectic groups on {\mathbb F}_q(X_1,...,X_n) over {\mathbb F}_q.

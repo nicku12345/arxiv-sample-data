@@ -1,0 +1,1 @@
+We study the postulation of a general union Y of double, triple, quartuple and quintuple points of P^3. In characteristic 0, we prove that Y has good postulation in degree d\ge 11. The proof is based on the combination of the Horace differential lemma with a computer-assisted proof. We also classify the exceptions in degree 9 and 10.

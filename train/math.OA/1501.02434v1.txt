@@ -1,0 +1,1 @@
+Let A be a C*-algebra. It is shown that A is an AW*-algebra if, and only if, each maximal abelian self--adjoint subalgebra of A is monotone complete. An analogous result is proved for Rickart C*-algebras; a C*-algebra is a Rickart C*-algebra if, and only if, it is unital and each maximal abelian self--adjoint subalgebra of A is monotone {\sigma}-complete.

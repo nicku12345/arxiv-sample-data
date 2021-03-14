@@ -1,0 +1,1 @@
+We show that a metric Jordan curve \Gamma is \emph{bounded turning} if and only if there exists a \emph{weak-quasisymmetric} homeomorphism \phi\colon \mathsf{S}^1 \to \Gamma.

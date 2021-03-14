@@ -1,0 +1,1 @@
+A method is developed to compute analytically fully symmetric cubature rules on the triangle by using symmetric polynomials to express the two kinds of invariance inherent in these rules. Rules of degree up to 15, some of them new and of good quality, are computed and presented.

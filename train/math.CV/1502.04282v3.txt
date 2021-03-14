@@ -1,0 +1,1 @@
+We prove a weighted Sobolev estimate of the Bergman projection on the Hartogs triangle, where the weight is some power of the distance to the singularity at the boundary. This method also applies to the n-dimensional generalization of the Hartogs triangle.

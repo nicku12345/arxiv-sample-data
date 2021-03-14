@@ -1,0 +1,1 @@
+We introduce quasi-Prufer extensions of rings in order to relativize the notion of quasi-Prufer domains and to take into account some contexts recently introduced in the literature. We also introduce almost-Prufer ring extensions. Characterizations and properties are given. In particular, we examine the relationship with the finite fibers property.

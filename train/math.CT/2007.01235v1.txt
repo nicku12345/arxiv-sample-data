@@ -1,0 +1,1 @@
+We show that the pretensor and tensor products of simplicial sets with marking are compatible with the homotopy theory of saturated N-complicial sets (which are a proposed model of (\infty,N)-categories), in the form of a Quillen bifunctor and a homotopical bifunctor, respectively.

@@ -1,0 +1,1 @@
+We consider compositions of natural numbers when there are different types of each natural number. Several recursions as well as some closed formulas for the number of compositions is derived. We also find its relationships with some known classes of integers such as Fibonacci, Catalan, Pell, Pell-Lucas, and Jacobsthal numbers.

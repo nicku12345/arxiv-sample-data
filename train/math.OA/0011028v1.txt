@@ -1,0 +1,1 @@
+Under the mild condition of continuity at a single point we describe all the bijections of the set of all partial isometries on a Hilbert space which preserve the order and the orthogonality in both directions. Moreover, we present a natural analogue of Wigner's theorem on quantum mechanical symmetries for the set of all rank-1 partial isometries.

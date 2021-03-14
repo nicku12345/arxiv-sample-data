@@ -1,0 +1,1 @@
+Let F_q be the finite field of q elements. Let H be a multiplicative subgroup of F_q^*. For a positive integer k and element b\in F_q, we give a sharp estimate for the number of k-element subsets of H which sum to b.

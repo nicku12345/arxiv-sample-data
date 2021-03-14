@@ -1,0 +1,1 @@
+We establish a uniform bound for the Castelnuovo-Mumford regularity of associated graded rings of parameter ideals in a generalized Cohen-Macaulay ring. As consequences, we obtain uniform bounds for the relation type and the postulation number. Moreover, we show that generalized Cohen-Macaulay rings can be characterized by the existence of such uniform bounds.

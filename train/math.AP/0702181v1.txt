@@ -1,0 +1,1 @@
+In this paper, we'll prove a L^2-concentration result of Zakharov system in space dimension two, with radial initial data (u_0,n_0,n_1)\in H^s\times L^2\times H^{-1} ({16/17}<s<1), when blow up of the solution happens by I-method. In additional to that we find a blow up character of this system. Furthermore, we improve the global existence result of Bourgain's to above spaces.

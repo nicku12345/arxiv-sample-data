@@ -1,0 +1,1 @@
+For the reference triangle or tetrahedron T, we study the stability properties of the L^2(T)-projection \Pi_N onto the space of polynomials of degree N. We show \|\Pi_N u\|_{L^2(\partial T)}^2 \leq C \|u\|_{L^2(T)} \|u\|_{H^1(T)}. This implies optimal convergence rates for the approximation error \|u - \Pi_N u\|_{L^2(\partial T)} for all u \in H^k(T), k > 1/2.

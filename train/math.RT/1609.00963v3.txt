@@ -1,0 +1,1 @@
+This paper gives a classification of all pairs (\mathfrak g, \mathfrak h) with \mathfrak g a simple real Lie algebra and \mathfrak h < \mathfrak g a reductive subalgebra for which there exists a minimal parabolic subalgebra \mathfrak p < \mathfrak g such that \mathfrak g = \mathfrak h + \mathfrak p as vector sum.

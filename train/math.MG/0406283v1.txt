@@ -1,0 +1,1 @@
+We show that round hemispheres are the only compact 2 dimensional Riemannian manifolds (with or without boundary) such that almost every pair of complete geodesics intersect once and only once. We prove this by establishing a sharp isoperimetric inequality for surfaces with boundary such that every pair of geodesics have at most one interior intersection point.

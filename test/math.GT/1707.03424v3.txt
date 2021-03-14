@@ -1,0 +1,1 @@
+In this paper we provide a new Bennequin-type inequality for the Rasmussen- Beliakova-Wehrli invariant, featuring the numerical transverse braid invariants (the c-invariants) introduced by the author. From the Bennequin type-inequality, and a combinatorial bound on the value of the c-invariants, we deduce a new computable bound on the Rasmussen invariant.

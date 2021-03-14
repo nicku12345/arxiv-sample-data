@@ -1,0 +1,1 @@
+We show that elliptic second order operators A of divergence type fulfill maximal parabolic regularity on distribution spaces, even if the underlying domain is highly non-smooth, the coefficients of A are discontinuous and A is complemented with mixed boundary conditions. Applications to quasilinear parabolic equations with non-smooth data are presented.

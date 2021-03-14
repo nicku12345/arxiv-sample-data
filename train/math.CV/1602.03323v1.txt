@@ -1,0 +1,1 @@
+This paper establishes connections between the boundary behaviour of functions representable as absolutely convergent Dirichlet series in a half-plane and the convergence properties of partial sums of the Dirichlet series on the boundary. This yields insights into the boundary behaviour of Dirichlet series and Taylor series which have universal approximation properties.

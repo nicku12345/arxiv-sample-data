@@ -1,0 +1,1 @@
+For a knot K in S^3 we construct according to Casson--or more precisely taking into account Lin and Heusener's further works--a volume form on the SU(2)-representation space of the group of K. We prove that this volume form is a topological knot invariant and explore some of its properties.

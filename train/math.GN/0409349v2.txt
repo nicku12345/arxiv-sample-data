@@ -1,0 +1,1 @@
+Several authors have recently attempted to show that the intersection of three simply connected subcontinua of the plane is simply connected provided it is non-empty and the intersection of each two of the continua is path connected. In this note we give a very short complete proof of this fact. We also confirm a related conjecture of Karimov and Repovs.

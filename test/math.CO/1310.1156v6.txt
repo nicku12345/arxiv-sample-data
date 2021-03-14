@@ -1,0 +1,1 @@
+The author gave a proof of a generalization of the Aztec diamond theorem for a family of 4-vertex regions on the square lattice with southwest-to-northeast diagonals drawn in (Electron. J. Combin., 2014) by using a bijection between tilings and non-intersecting lattice paths. In this paper, we use Kuo graphical condensation to give a new proof.

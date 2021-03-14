@@ -1,0 +1,1 @@
+In this paper, we investigate the minimal length of chains of minimal rational curves needed to join two general points on a Fano manifold of Picard number 1. In particular, we give a sharp bound of the length by a fundamental argument. As an application, we compute the length for Fano manifolds of dimension < 8.

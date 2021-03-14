@@ -1,0 +1,1 @@
+We show that the spectral flow of a one-parameter family of Schr\"odinger operators on a metric graph is equal to the Maslov index of a path of Lagrangian subspaces describing the vertex conditions. In addition, we derive an Hadamard-type formula for the derivatives of the eigenvalue curves via the Maslov crossing form.

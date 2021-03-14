@@ -1,0 +1,1 @@
+In type A we find equivalences of geometries arising in three settings: Nakajima's (``framed'') quiver varieties, conjugacy classes of matrices and loop Grassmannians. These are now all given by explicit formulas. As an application we provide a geometric version of symmetric and skew (GL(m), GL(n)) dualities.

@@ -1,0 +1,1 @@
+We introduce the notion that a zero-dimensional compact space L is a \emph{Boolean image} of an arbitrary compact space K. When K is also zero-dimensional, this just means that L is a continuous image of K. However, a number of interesting questions arise when we consider connected compacta K.

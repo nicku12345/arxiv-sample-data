@@ -1,0 +1,1 @@
+We give a new proof of a polynomial recurrence result due to Bergelson, Furstenberg, and McCutcheon, using idempotent ultrafilters instead of IP-limits.

@@ -1,0 +1,1 @@
+We introduce a new distance and we use it to parameter estimation purposes. We observe how it operates and we use in its place the usual methods of estimation which we call the methods of the new approach. We realize that we obtain a discretization of the continuous case. Moreover, when it is necessary to consider truncated data nothing is changed in computations.

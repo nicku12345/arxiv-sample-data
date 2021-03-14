@@ -1,0 +1,1 @@
+We determine the limiting empirical singular value distribution for random unitary matrices with Haar distribution and discrete Fourier transform (DFT) matrices when a random set of columns and rows is removed.

@@ -1,0 +1,1 @@
+We are proving L^2(\R)\times L^2(\R)\,\rightarrow\,L^1(\R) bounds for the bilinear Hilbert transform H_{\Gamma} along curves \Gamma=(t,-\gamma(t)) with \gamma being a smooth "non-flat" curve near zero and infinity.

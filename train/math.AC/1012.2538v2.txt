@@ -1,0 +1,1 @@
+This paper deals with well-known notion of PF-rings, that is, rings in which principal ideals are flat.   We give a new characterization of PF-rings. Also, we provide a necessary and sufficient condition for R\bowtie I (resp., R/I when R is a Dedekind domain or I is a primary ideal) to be PF-ring. The article includes a brief discussion of the scope and precision of our results.

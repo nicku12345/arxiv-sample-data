@@ -1,0 +1,1 @@
+Let A be a Noetherian ring. It is shown that any finite A--module M of finite Krull dimension with finite Cousin complex cohomologies has a uniform local cohomological annihilator. The converse is also true for a finite module M satisfying (S_2) which is over a local ring with Cohen--Macaulay formal fibres.

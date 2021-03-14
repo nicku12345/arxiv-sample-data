@@ -1,0 +1,1 @@
+The evaluation stack for minimal logarithmic stable maps is constructed, parameterizing families of standard log points in the target log scheme. This construction provides the ingredients necessary to define appropriate evaluation maps for minimal log stable maps and establish the logarithmic Gromov-Witten theory of a log-smooth Deligne- Faltings log scheme.

@@ -1,0 +1,1 @@
+The aim of this note is to point out that Chern characters can be computed using curvatures o ``super-connections up to homotopy'. We also present an application to the vanishing theorem for Lie algebroids which is at the origin of new secondary classes of algebroids (Fernandes), hence, in particular, of Poisson manifolds.

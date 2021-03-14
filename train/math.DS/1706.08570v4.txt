@@ -1,0 +1,1 @@
+One of the propositions in the paper [D. Kleinbock and G.A. Margulis, Logarithm laws for flows on homogeneous spaces, Invent. Math. 138 (1999), 451-494] related to approximating certain sets by smooth functions, was recently found to be incorrect. Here we correct the mistake.

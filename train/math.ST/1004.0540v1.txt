@@ -1,0 +1,1 @@
+This paper finds a symmetry relation (between quantiles of a random variable and its negative) that is intuitively appealing. We show this symmetry is quite useful in finding new relations for quantiles, in particular an equivariance property for quantiles under continuous decreasing transformations.

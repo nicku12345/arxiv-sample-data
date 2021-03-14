@@ -1,0 +1,1 @@
+We obtain a classification of a Q-factorial Q-Fano 3-fold X with the following properties:   the Picard number of X is 1;   the Gorenstein index of X is 2;   the Fano index of X is 1/2;   h^0 (-K_X) \geq 4;   there exists an index 2 point P such that (X,P)\simeq (\{xy +f(z^2,u)=0\} / \Bbb Z_2 (1,1,1,0), o) with ord f(Z,U)=1.

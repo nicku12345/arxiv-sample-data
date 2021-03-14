@@ -1,0 +1,1 @@
+We consider the p-Laplacian system of N equations in n space variables, 1< p\leq 2, under the homogeneous Navier slip boundary condition. Furthermore, the gradient of the velocity is replaced by the, more physical, symmetric gradient. We prove W^{2, q} regularity, up to the boundary, under suitable assumptions on the couple p,q. The singular case \mu= 0 is covered.

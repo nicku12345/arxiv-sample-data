@@ -1,0 +1,1 @@
+In this paper we prove that for an affine scheme essentially of finite type over a field F and of dimension d, K_{d+1}-regularity implies regularity, assuming that the characteristic of F is zero. This verifies a conjecture of Vorst.

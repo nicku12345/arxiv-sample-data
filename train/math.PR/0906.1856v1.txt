@@ -1,0 +1,1 @@
+We consider a time inhomogeneous Cox-Ingersoll-Ross diffusion with positive jumps. We exploit a branching property to prove existence of a unique strong solution under a restrictive condition on the jump measure. We give Laplace transforms for the transition probabilities, with an interpretation in terms of limits of mixtures over Gamma laws.

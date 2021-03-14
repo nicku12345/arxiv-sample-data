@@ -1,0 +1,1 @@
+We compare two natural types of fractional Laplacians (-\Delta)^s, "Navier" and "Dirichlet" ones. We show that for 0<s<1 their difference is positive definite and positivity preserving. Then we prove the coincidence of the Sobolev constants for these two fractional Laplacians.

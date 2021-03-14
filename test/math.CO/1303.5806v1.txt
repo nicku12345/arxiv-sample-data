@@ -1,0 +1,1 @@
+We study the relationship between the positivity property in a rank 2 cluster algebra, and the property of such an algebra to be tame. More precisely, we show that a rank 2 cluster algebra has a basis of indecomposable positive elements if and only if it is of finite or affine type. This statement disagrees with a conjecture by Fock and Goncharov.

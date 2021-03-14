@@ -1,0 +1,1 @@
+We construct isomorphisms of the Grothendieck group of a projective space and other groups related to Hilbert polynomials and total Chern classes. This is inspired by a correspondence between Chern and Hilbert polynomials stated in Eisenbud's Commutative Algebra. The equivalence of these two polynomials over the projective spaces is also discussed in this paper.

@@ -1,0 +1,1 @@
+We refine Funk's description of the classifying space of an inverse semigroup by replacing his *-semigroups by right generalized inverse *-semigroups. Our proof uses the idea that presheaves of sets over meet semilattices may be characterized algebraically as right normal bands.

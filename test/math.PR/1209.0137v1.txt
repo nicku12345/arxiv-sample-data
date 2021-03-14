@@ -1,0 +1,1 @@
+We investigate an almost sure limit theorem (ASCLT) for sequences of random variables having the form of a ratio of two terms such that the numerator satisfies the ASCLT and the denominator is a positive term which converges almost surely to 1. This result leads to the ASCLT for least square estimators for Ornstein-Uhlenbeck process driven by fractional Brownian motion.

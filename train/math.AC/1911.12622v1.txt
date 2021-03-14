@@ -1,0 +1,1 @@
+In this paper, we characterize the Grassmannian Gr(d,n) in terms of the row echelon forms of rank d. Using this characterization, then in the case of finite field we give a polynomial-type formula for the cardinality of the Grassmannian.

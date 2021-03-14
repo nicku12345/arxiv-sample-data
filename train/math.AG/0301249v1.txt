@@ -1,0 +1,1 @@
+This paper proves a result on the existence of finite flat scheme covers of Deligne-Mumford stacks. This result is used to prove that a large class of smooth Deligne-Mumford stacks with affine moduli space are quotient stacks, and in the case of quasi-projective moduli space, to reduce the question to one concerning Brauer groups of schemes.

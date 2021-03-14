@@ -1,0 +1,1 @@
+By using Malliavin calculus, Bismut derivative formulae are established for a class of stochastic (functional) differential equations driven by fractional Brownian motions. As applications, Harnack type inequalities and strong Feller property are presented.

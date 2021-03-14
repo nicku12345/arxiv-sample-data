@@ -1,0 +1,1 @@
+It is shown that for a solvable subgroup G of an almost simple group S which socle is isomorphic to A_n  (n\ge5) there are x,y,z,t \in S such that G \cap G^x \cap G^y \cap G^z \cap G^t =1.

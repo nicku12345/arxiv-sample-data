@@ -1,0 +1,1 @@
+We define an analytic index and prove a topological index theorem for a non-compact manifold M\_0 with poly-cylindrical ends. We prove that an elliptic operator P on M\_0 has an invertible perturbation P+R by a lower order operator if an only if its analytic index vanishes. As an application, we determine the K-theory groups of groupoid C^*--algebras of manifolds with corners.

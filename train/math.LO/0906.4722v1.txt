@@ -1,0 +1,1 @@
+A variety V has definable factor congruences if and only if factor congruences can be defined by a first-order formula Phi having central elements as parameters. We prove that if Phi can be chosen to be existential, factor congruences in every algebra of V are compact.

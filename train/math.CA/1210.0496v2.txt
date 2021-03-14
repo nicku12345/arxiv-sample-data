@@ -1,0 +1,1 @@
+We show that a function  f  of bounded variation satisfies  \Var Mf \leq C \Var f  where  Mf  is the centered Hardy-Littlewood maximal function of  f . Consequently, the operator  f \mapsto (Mf)'  is bounded from  W^{1,1}(R)  to  L^{1}(R) . This answers a question of Hajlasz and Onninen in the one-dimensional case.

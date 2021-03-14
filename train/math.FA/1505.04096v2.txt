@@ -1,0 +1,1 @@
+We introduce some general classes of pseudodifferential operators with symbols admitting exponential type growth at infinity and we prove mapping properties for these operators on Gelfand-Shilov spaces both in the quasi-analytic and in the non-quasi-analytic case. Moreover, we prove composition theorems and certain invariance properties of these classes.

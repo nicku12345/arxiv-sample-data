@@ -1,0 +1,1 @@
+We prove exact asymptotic expansions for the partial sums of the sequences of central binomial coefficients and Catalan numbers, \sum_{k=0}^n \binom{2k}{k} and \sum_{k=0}^n C_n. We also obtain closed forms for the polynomials \sum_{k=0}^{q-1}\binom{2k}{k}x^k and \sum_{k=0}^{q-1}C_kx^k over the field of p elements, where q is a power of the prime p.

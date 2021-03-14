@@ -1,0 +1,1 @@
+We explain why geometric realization commutes with Cartesian products and why the geometric realization of a simplicial set (resp. cyclic set) is equipped with an action of the group of orientation preserving homeomorphisms of the segment [0,1] (resp. the circle). Our approach is very similar to that of A. Besser and D. Grayson.

@@ -1,0 +1,1 @@
+This paper aims to help the development of new models of homotopy type theory, in particular with models that are based on realizability toposes. For this purpose it develops the foundations of an internal simplicial homotopy that does not rely on classical principles that are not valid in realizability toposes and related categories.

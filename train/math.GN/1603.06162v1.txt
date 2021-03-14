@@ -1,0 +1,1 @@
+A relation f\subseteq X^2 satisfies condition \Gamma if there exist distinct x,y\in X with \langle x,x\rangle ,\langle x,y\rangle ,\langle y,y\rangle \in f. The authors improve a previous result by characterizing nontrivial idempotent bonding relations on compact Hausdorff spaces as those satisfying condition \Gamma.

@@ -1,0 +1,1 @@
+In this paper, we give resolvent estimates for the linearized operator of the Navier-Stokes equation in \R^2 around the Oseen vortices, in the fast rotating limit \alpha\to+\infty.

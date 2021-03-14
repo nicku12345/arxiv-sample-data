@@ -1,0 +1,1 @@
+For proper subsets U of {1,2,...,31} we define and construct U-regular isotopy invariants of the Carter-Rieger-Saito movies (representing knotted surfaces) and use these to show that there are ambient isotopic knotted surfaces represented by movies M1 and M2 for which movie-moves of type 31 are required to get from M1 to M2.

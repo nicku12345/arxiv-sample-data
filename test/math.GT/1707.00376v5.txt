@@ -1,0 +1,1 @@
+We consider embeddings of 3-manifolds in S^4 such that each of the two complementary regions has an abelian fundamental group. In particular, we show that an homology handle M has such an embedding if and only if \pi_1(M)' is perfect, and that the embedding is then essentially unique.

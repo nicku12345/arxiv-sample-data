@@ -1,0 +1,1 @@
+The Serpinsky-Knopp curve is characterized as the only curve (up to isometry) that maps a unit segment onto a triangle of a unit area, so for any pair of points in the segment, the square of the distance between their images does not exceed four times the distance between them.

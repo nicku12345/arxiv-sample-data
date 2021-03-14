@@ -1,0 +1,1 @@
+A group-theoretical method, via Wada's representations, is presented to distinguish Kishino's virtual knot from the unknot. Biquandles are constructed for any group using Wada's braid group representations. Cocycle invariants for these biquandles are studied. These invariants are applied to show the non-existence of Alexander numberings and checkerboard colorings.

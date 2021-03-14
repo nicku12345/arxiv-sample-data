@@ -1,0 +1,1 @@
+Badzioch and Bergner proved a rigidification theorem saying that each homotopy simplicial algebra is weakly equivalent to a simplicial algebra. The question is whether this result can be extended from algebraic theories to finite limit theories and from simplicial sets to more general monoidal model categories. We will present some answers to this question.

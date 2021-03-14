@@ -1,0 +1,1 @@
+In this paper we introduce and study the poset of equivalence classes of subgroups of a finite group G, induced by the isomorphism relation. This contains the well-known lattice of solitary subgroups of G. We prove that in several particular cases it determines the structure of G.

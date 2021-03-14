@@ -1,0 +1,1 @@
+With an explicit example, we confirm a conjecture by Neumann and Wahl that there exist cusps with no Galois cover by a complete intersection. Some computational techniques are reviewed, and a method for deciding whether a given cusp has a complete intersection Galois cover is developed.

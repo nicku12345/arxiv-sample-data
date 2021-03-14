@@ -1,0 +1,1 @@
+A set U of unit vectors is selectively balancing if one can find two disjoint subsets U^+ and U^-, not both empty, such that the Euclidean distance between the sum of U^+ and the sum of U^- is smaller than 1. We prove that the minimum number of unit vectors that guarantee a selectively balancing set in \mathbb{R}^n is asymptotically \frac{1}{2} n \log n.

@@ -1,0 +1,1 @@
+We consider a family of multi-dimensional Schr\"odinger operators -\Delta+t V with a real t. The potential V in our model decays at infinity in a special way, so that it satisfies a certain integral condition. We prove that the absolutely continuous spectrum of this operator covers the interval [0,\infty) for almost every t.

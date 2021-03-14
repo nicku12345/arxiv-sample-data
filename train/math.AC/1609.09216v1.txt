@@ -1,0 +1,1 @@
+We extend to rings with zero-divisors the concept of perinormal domain introduced by N. Epstein and J. Shapiro. A ring A is called perinormal if every overring of A which satisfies going down over A is A-flat. The Pr\"ufer rings and the Marot Krull rings are perinormal.

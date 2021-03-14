@@ -1,0 +1,1 @@
+In this paper we present a new class of integer partition identities. The number of partitions with d-distant parts can be represented as a sum of the number of partitions with 1-distant parts whose even parts are greater than twice the number of odd parts. We also provide a direct bijection between these classes of partitions.

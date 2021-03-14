@@ -1,0 +1,1 @@
+In this paper, we study holomorphic discs in K3 surfaces and defined the open Gromov-Witten invariants. Using this new invariant, we can establish a version of correspondence between tropical discs and holomorphic discs with non-trivial invariants. We give an example of wall-crossing phenomenon of the invariant and expect it satisfies Kontsevich-Soibelman wall-crossing formula.

@@ -1,0 +1,1 @@
+In this paper, we consider bivariate Cheney-Sharma operators which are not the tensor product construction. Precisely, we show that these operators preserve Lipschitz condition of a given Lipschitz continuous function f and also the properties of the modulus of continuity function when f is a modulus of continuity function.

@@ -1,0 +1,1 @@
+Let G be a real reductive group and Z=G/H a unimodular homogeneous G-space. The space Z is said to satisfy VAI if all smooth vectors in the Banach representations L^{p}(Z) vanish at infinity, 1 <=p. For H connected we show that Z satisfies VAI if and only if it is of reductive type.

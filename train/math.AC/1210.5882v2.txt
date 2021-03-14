@@ -1,0 +1,1 @@
+Let R be a complete intersection ring and let M and N be R-modules. It is shown that the vanishing of Ext^i_R(M,N) for a certain number of consecutive values of i starting at n forces the complete intersection dimension of M to be at most n-1. We also estimate the complete intersection dimension of the dual of M, in terms of vanishing of the cohomology modules, Ext^i_R(M,N).

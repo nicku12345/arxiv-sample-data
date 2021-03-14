@@ -1,0 +1,1 @@
+We present a fast algorithm for computing the commutator length and an algorithm that gives a minimal commutator presentation of an element w\in [F,F], where F is a free group. Moreover, we give a algorithm that defines whether the element a commutator or not.

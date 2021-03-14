@@ -1,0 +1,1 @@
+For a given Laurent polynomial matrix function S, which is positive definite on the unit circle in the complex plane, we consider all possible polynomial spectral factors of S which are not necessarily invertible inside the unit circle.

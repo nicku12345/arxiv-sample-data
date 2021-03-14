@@ -1,0 +1,1 @@
+We introduce and motivate a notion of pseudo-arithmeticity, which possibly applies to all lattices in \mathrm{PO}(n,1) with n>3. We further show that under an additional assumption (satisfied in all known cases), the covolumes of these lattices correspond to rational linear combinations of special values of L-functions.

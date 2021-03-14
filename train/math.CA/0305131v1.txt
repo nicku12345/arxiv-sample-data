@@ -1,0 +1,1 @@
+Beginning with Hermite's integral representation of the Hurwitz zeta function, we derive explicit expressions in terms of elementary, polygamma, and negapolygamma functions for several families of integrals of the type \int_0^\infty f(t)K(q,t)dt with kernels K(q,t) equal to (e^{2\pi q t}-1)^{-1}, (e^{2\pi q t}+1)^{-1}, and (\sinh(2\pi q t)^{-1}.

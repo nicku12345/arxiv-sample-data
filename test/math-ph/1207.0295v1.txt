@@ -1,0 +1,1 @@
+The Kronig-Penney model with random Dirac potentials on the lattice \ZM has critical energies at which the Lyapunov exponent vanishes and the density of states has a van Hove singularity. This leads to a non-trivial quantum diffusion even though the spectrum is known to be pure-point.

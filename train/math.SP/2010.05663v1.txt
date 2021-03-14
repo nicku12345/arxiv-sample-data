@@ -1,0 +1,1 @@
+We consider Schr\"odinger operators of the form H_R = - d^2/ d x^2 + q + i \gamma \chi_{[0,R]} for large R>0, where q \in L^1(0,\infty) and \gamma > 0. Bounds for the maximum magnitude of an eigenvalue and for the number of eigenvalues are proved. These bounds complement existing general bounds applied to this system, for sufficiently large R.

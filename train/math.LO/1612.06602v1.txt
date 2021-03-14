@@ -1,0 +1,1 @@
+In this exposition, we get examples of what is called a "linear hyperdoctrine", based on categories of comodules indexed by coalgebras. This structures can model first order linear logic.

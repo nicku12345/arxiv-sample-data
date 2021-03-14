@@ -1,0 +1,1 @@
+We study the behavior of modules of m-integrable derivations of a commutative finitely generated algebra in the sense of Hasse-Schmidt under base change. We focus on the case of separable ring extensions over a field of positive characteristic and on the case where the extension is a polynomial ring in an arbitrary number of variables.

@@ -1,0 +1,1 @@
+Let P be a distinguished unary predicate and   K= {M: M a model of cardinality aleph_n with P^M of cardinality aleph_0}.   We prove that consistently for n=4, for some countable first order theory T we have: T has no model in K whereas every finite subset of T has a model in K. We then show how we prove it also for n=2, too.

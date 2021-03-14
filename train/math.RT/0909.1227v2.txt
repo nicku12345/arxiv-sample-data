@@ -1,0 +1,1 @@
+We define analytic R-groups for affine Hecke algebras, and prove the analog of the Knapp-Stein Dimension Theorem. As a corollary we prove that the commutant algebra of a unitary principal series representation is isomorphic to the complex group algebra of the R-group, twisted by a certain 2-cocycle \gamma. For classical Hecke algebras we prove that \gamma is always trivial.

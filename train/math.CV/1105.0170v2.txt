@@ -1,0 +1,1 @@
+In \cite{5} we proved that generically functions defined in any open set can be approximated by a sequense of their pad\'{e} approximants, in the sense of uniform convergence on compacta. In this paper we examine a more particular space, A^{\infty}(\Omega), and prove that we can obtain similar approximation results with functions smooth on the boundary.

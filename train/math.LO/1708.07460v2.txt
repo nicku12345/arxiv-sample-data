@@ -1,0 +1,1 @@
+Consider two paths f,g:[0;1]\to [0;1]^2 on the unit square such that f(0)=(0,0), f(1)=(1,1), g(0)=(0,1), g(1)=(1,0), f(0;1)\subseteq (0;1)^2 and g(0;1)\subseteq (0;1)^2. By continuity of f and g there is a point of intersection. We prove that there is a computable point of intersection if the paths are computable.

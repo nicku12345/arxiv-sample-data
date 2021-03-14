@@ -1,0 +1,1 @@
+This article is concerned with a general scheme on how to obtain constructive proofs for combinatorial theorems that have topological proofs so far. To this end the combinatorial concept of Tucker-property of a finite group G is introduced and its relation to the topological Borsuk-Ulam-property is discussed. Applications of the Tucker-property in combinatorics are demonstrated.

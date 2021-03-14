@@ -1,0 +1,1 @@
+In this note we present a ZFC construction of a non-meager filter which fails to be countable dense homogeneous. This answers a question of Hern\'andez-Guti\'errez and Hru\v{s}\'ak. The method of the proof also allows us to obtain a metrizable Baire topological group which is strongly locally homogeneous but not countable dense homogeneous.

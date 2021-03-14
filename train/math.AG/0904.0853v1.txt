@@ -1,0 +1,1 @@
+We prove that for an abelian group G of order n the morphism  \varphi\colon \mathbf{P}(V^*)\longrightarrow \mathbf{P} ((\mathrm{sym}^n V^*)^G) defined by \varphi([f]) = [\prod_{\sigma\in G} \sigma \cdot f ] is nondegenerate for every finite-dimensional representation V of G if and only if either n is a prime number or n=4.

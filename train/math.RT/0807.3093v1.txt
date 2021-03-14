@@ -1,0 +1,1 @@
+We give an algorithm for computing the irreducible admissible representations of a real reductive group with regular integral infinitesimal character. This algorithm has been implemented on a computer, as part of the Atlas of Lie Groups and Representations project.

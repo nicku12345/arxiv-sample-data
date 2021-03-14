@@ -1,0 +1,1 @@
+Let M be a simple manifold, and F be a component of \partial M of genus two. For a slope \gamma on F, we denote by M(\gamma) the manifold obtained by attaching a 2-handle to M along a regular neighborhood of \gamma on F. In this paper, we shall prove that there is at most one separating slope \gamma on F so that M(\gamma) is \partial-reducible.

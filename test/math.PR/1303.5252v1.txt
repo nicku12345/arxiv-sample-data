@@ -1,0 +1,1 @@
+We consider the Hopfield model with n neurons and an increasing number p=p(n) of randomly chosen patterns and use Stein's method to obtain rates of convergence for the central limit theorem of overlap parameters, which holds for every fixed choice of the overlap parameter for almost all realisations of the random patterns.

@@ -1,0 +1,1 @@
+We formulate the classical decoding algorithm of alternant codes afresh based on interpolation as in Sudan's list decoding of Reed-Solomon codes, and thus get rid of the key equation and the linear recurring sequences in the theory. The result is a streamlined exposition of the decoding algorithm using a bit of the theory of Groebner bases of modules.

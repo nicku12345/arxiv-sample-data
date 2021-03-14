@@ -1,0 +1,1 @@
+We investigate the join semilattice of modal operators on a Boolean algebra B. Furthermore, we consider pairs (f,g) of modal operators whose supremum is the unary discriminator on B, and study the associated bi--modal algebras.

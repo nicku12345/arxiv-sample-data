@@ -1,0 +1,1 @@
+Using recent development in motivic infinite loop space theory, we offer short and conceptual reproofs of some conjectures of Voevodsky's on the slice filtration using the birational geometry of Hilbert schemes. The original proofs were due to Marc Levine using very different methods, namely, the homotopy coniveau tower.

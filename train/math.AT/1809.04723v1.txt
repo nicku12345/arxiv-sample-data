@@ -1,0 +1,1 @@
+We prove that if R is an \mathbb{E}_2-ring with homotopy concentrated in even degrees, and \{x_j\} is any sequence of elements in \pi_{2*}(R), then R/(x_1,x_2,\cdots) admits the structure of an \mathbb{E}_1-R-algebra. This removes an assumption, common in the literature, that \{x_j\} be a regular sequence.

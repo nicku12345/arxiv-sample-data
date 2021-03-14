@@ -1,0 +1,1 @@
+Let X_1 and X_2 be mixing connected algebraic dynamical systems with the Descending Chain Condition. We show that every equivariant continuous map X_1 to X_2 is affine (that is, X_2 is topologically rigid) if and only if the system X_2 has finite topological entropy.

@@ -1,0 +1,1 @@
+The analytic properties of the Markov operator associated to a random walk are common tools in the study of the behaviour and some probabilistic features related to the walk. In this paper we consider a class of Markov operators which generalizes the class of compact Markov operators and we study some probabilistic properties of the associated random walk.

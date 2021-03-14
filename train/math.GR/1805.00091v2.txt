@@ -1,0 +1,1 @@
+Let P(G) denotes the set of sizes of fibers of non-trivial commutators of the commutator word map. Here, we prove that |P(G)|=1, for any finite group G of nilpotency class 3 with exactlly two conjugacy class sizes. We also show that for given n\geq 1, there exists a finite group G of nilpotency class 2 with exactlly two conjugacy class sizes such that |P(G)|=n.

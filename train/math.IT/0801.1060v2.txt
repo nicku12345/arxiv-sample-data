@@ -1,0 +1,1 @@
+Periodic-finite-type shifts (PFT's) form a class of sofic shifts that strictly contains the class of shifts of finite type (SFT's). In this paper, we investigate how the notion of "period" inherent in the definition of a PFT causes it to differ from an SFT, and how the period influences the properties of a PFT.

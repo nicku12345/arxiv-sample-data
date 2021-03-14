@@ -1,0 +1,1 @@
+We establish an optimal transportation inequality for the Poisson measure on the configuration space. Furthermore, under the Dobrushin uniqueness condition, we obtain a sharp transportation inequality for the Gibbs measure on \mathbb{N}^{\Lambda} or the continuum Gibbs measure on the configuration space.

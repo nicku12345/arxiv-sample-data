@@ -1,0 +1,1 @@
+The k-rank numerical range \Lambda_{k}(A) is expressed via an intersection of a countable family of numerical ranges \{F(M^{*}_{\nu}AM_{\nu})\}_{\nu\in\mathbb{N}} with respect to n\times (n-k+1) isometries M_{\nu}. This implication for \Lambda_{k}(A) provides further elaboration of the k-rank numerical radii of A.

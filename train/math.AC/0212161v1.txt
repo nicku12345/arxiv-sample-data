@@ -1,0 +1,1 @@
+Let R be a standard graded ring over a commutative Noetherian ring with unity and I a graded ideal of R. Let M be a finitely generated graded R-module. We prove that there exist integers e and \rho_M(I) such that for all large n, reg(I^nM)= \rho_M(I)n+e.

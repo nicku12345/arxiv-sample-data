@@ -1,0 +1,1 @@
+A perfect number is a number whose divisors add up to twice the number itself. The existence of odd perfect numbers is a millennia-old unsolved problem. This note proposes a proof of the nonexistence of odd perfect numbers. More generally, the same analysis seems to generalize to a proof of the nonexistence of odd multiperfect numbers.

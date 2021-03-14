@@ -1,0 +1,1 @@
+Let G be a subgroup of the symmetric group S_n, and let \delta_G=|S_n/G|^{-1} where |S_n/G| is the index of G in S_n. Then there are at most O_{n, \epsilon}(H^{n-1+\delta_G+\epsilon}) monic integer polynomials of degree n having Galois group G and height not exceeding H, so there are only `few' polynomials having `small' Galois group.

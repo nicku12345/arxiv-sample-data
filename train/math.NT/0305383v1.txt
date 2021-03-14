@@ -1,0 +1,1 @@
+We demonstrate, using character sum arguments, the existence of primitive polynomials of degree n over a finite field GF(q) with the coefficients for x^(n-1), x^(n-2), and x^(n-3) prescribed, so long as char(GF(q)) is at least 5 and n is at least 9. The cases n=7, 8 are also considered.

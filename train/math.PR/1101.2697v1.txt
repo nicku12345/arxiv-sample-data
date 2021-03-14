@@ -1,0 +1,1 @@
+The paper derives an equation for the Cauchy transform of the solution of a free stochastic differential equation (SDE). This new equation is used to solve several particular examples of free SDEs.

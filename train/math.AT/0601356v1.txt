@@ -1,0 +1,1 @@
+There exist spaces BSol(q) which are the classifying spaces of a family of 2-local finite groups based on certain fusion system over the Sylow 2-subgroups of Spin_7(q). In this paper we calculate the cohomology of BSol(q) as an algebra over the Steenrod algebra A_2. We also provide the calculation of the cohomology algebra over A_2 of the finite group of Lie type G_2(q).

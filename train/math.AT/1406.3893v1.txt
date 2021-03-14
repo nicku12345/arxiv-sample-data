@@ -1,0 +1,1 @@
+We prove the equivariant Leray-Hirsch theorem combinatorially for sufficiently good torus equivariant fiber bundles consisting of homogeneous spaces of Lie groups. We apply this theorem to determining the equivariant integral cohomology ring of the flag manifold of type E_6 and express it explicitly as a quotient ring of a polynomial ring.

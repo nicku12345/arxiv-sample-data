@@ -1,0 +1,1 @@
+Rosenbaum (2005) proposed the crossmatch test for two-sample goodness-of-fit testing in arbitrary dimensions. We prove that the test is consistent against all fixed alternatives. In the process, we develop a general consistency result based on (Henze & Penrose, 1999) that applies more generally.

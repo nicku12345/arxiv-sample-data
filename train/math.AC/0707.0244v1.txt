@@ -1,0 +1,1 @@
+We produce a family of numerical Campedelli surfaces with \Z/6 torsion by constructing the (Gorenstein codimension 5) canonical ring of the \'{e}tale six to one cover using serial unprojection. In Section 2 we develop the necessary algebraic machinery. Section 3 contains the numerical Campedelli surface construction, while Section 4 contains remarks and open questions.

@@ -1,0 +1,1 @@
+We introduce a model to design reflectors that take into account the inverse square law for radiation. We prove existence of solutions, both in the near and far field cases, when the input and output energies are prescribed.

@@ -1,0 +1,1 @@
+We have introduced the Janet's algorithm for the Stanley decomposition of a monomial ideal I in a polynomial ring S = K[x_1,...,x_n] and prove that Janet's algorithm gives the squarefree Stanley decomposition of S/I for a squarefree monomial ideal I. We have also shown that the Janet's algorithm gives a partition of a simplicial complex.

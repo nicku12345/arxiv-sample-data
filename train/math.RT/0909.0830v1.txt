@@ -1,0 +1,1 @@
+For n\geq 5 the natural permutation module for the alternating group \mathfrak{A}_n has a unique non-trivial composition factor, being called its natural simple module. We determine the vertices and sources of the natural simple \mathfrak{A}_n-module over fields of characteristic 2.

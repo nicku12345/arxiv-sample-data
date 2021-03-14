@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring of prime characteristic and M be an x-divisible right R[x,f]-module that is Noetherian as R-module. We give an affirmative answer to the question of Sharp and Yoshino in the case where R is semi-local and prove that the set of graded annihilators of R[x,f]-homomorphic images of M is finite. We also give a counterexample in the general case.

@@ -1,0 +1,1 @@
+Parity mappings from the chords of a Gauss diagram to the integers is defined. The parity of the chords is used to construct families of invariants of Gauss diagrams and virtual knots. One family consists of degree n Vassiliev invariants.

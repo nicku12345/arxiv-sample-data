@@ -1,0 +1,1 @@
+We consider a dynamical system consisting of subsystems indexed by a lattice. Each subsystem has one conserved degree of freedom ("energy") the rest being uniformly hyperbolic. The subsystems are weakly coupled together so that the sum of the subsystem energies remains conserved. We prove that the long time dynamics of the subsystem energies is diffusive.

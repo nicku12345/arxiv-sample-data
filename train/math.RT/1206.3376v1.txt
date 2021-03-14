@@ -1,0 +1,1 @@
+Consider the (Helgason-) Fourier transform on a Riemannian symmetric space G/K. We give a simple proof of the L^p-Schwartz space isomorphism theorem (0 <p \le 2) for K-finite functions. The proof is a generalization of J.-Ph. Anker's proof for K-invariant functions.

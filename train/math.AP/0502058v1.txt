@@ -1,0 +1,1 @@
+We establish the existence of a conservative weak solution to the Cauchy problem for the nonlinear variational wave equation u_{tt} - c(u)(c(u)u_x)_x=0, for initial data of finite energy. Here c(\cdot) is any smooth function with uniformly positive bounded values.

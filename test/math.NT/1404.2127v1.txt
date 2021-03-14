@@ -1,0 +1,1 @@
+In this paper, we present several necessary conditions for the reversed Dickson polynomial E_{n}(1, x) of the second kind to be a permutation of \mathbb{F}_{q}. In particular, we give explicit evaluation of the sum \sum_{a\in \mathbb{F}_{q}}E_{n}(1,a).

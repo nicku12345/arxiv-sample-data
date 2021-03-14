@@ -1,0 +1,1 @@
+We prove variation-norm estimates for the Walsh model of the truncated bilinear Hilbert transform, extending related results of Lacey, Thiele, and Demeter. The proof uses analysis on the Walsh phase plane and two new ingredients: (i) a variational extension of a lemma of Bourgain by Nazarov-Oberlin-Thiele, and (ii) a variation-norm Rademacher-Menshov theorem of Lewko-Lewko.

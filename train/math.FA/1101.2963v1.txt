@@ -1,0 +1,1 @@
+We generalize Hamilton's principle with fractional derivatives in Lagrangian L(t,y(t),{}_0D_t^\al y(t),\alpha) so that the function y and the order of fractional derivative \alpha are varied in the minimization procedure. We derive stationarity conditions and discuss them through several examples.

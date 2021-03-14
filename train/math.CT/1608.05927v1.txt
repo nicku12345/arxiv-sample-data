@@ -1,0 +1,1 @@
+We reformulate the statement of the Feit-Thompson theorem in terms of diagrams in the category of finite groups, namely iterations of the Quillen lifting property with respect to particular morphisms.

@@ -1,0 +1,1 @@
+This work is a modern revisitation of a classical paper by Alessandro Terracini, going back to 1915, which suggests an elementary but powerful method for studing Grassmann defective varieties. In particular, the case of Veronese surfaces is completely understood, giving an positive answer to the so-called Waring problem for pairs of homogeneous polynomials in three variables.

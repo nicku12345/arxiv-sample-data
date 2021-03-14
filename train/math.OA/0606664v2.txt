@@ -1,0 +1,1 @@
+In this note, we will point out, as a corollary of Popa's rigidity theory, that the crossed product von Neumann algebras for Bernoulli shifts cannot have relative property T. This is an operator algebra analogue of the theorem shown by Neuhauser and Cherix-Martin-Valette for discrete groups. Our proof is different from that for groups.

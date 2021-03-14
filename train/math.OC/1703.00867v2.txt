@@ -1,0 +1,1 @@
+This note deals with certain properties of convex functions. We provide results on the convexity of the set of minima of these functions, the behaviour of their subgradient set under restriction, and optimization of these functions over an affine subspace.

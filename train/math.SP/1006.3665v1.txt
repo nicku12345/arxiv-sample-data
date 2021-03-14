@@ -1,0 +1,1 @@
+The spectral properties of the pseudo-differential operator (-d^2/dx^2)^{1/2}+x^2 are analyzed by a combination of functional integration methods and direct analysis. We obtain a representation of its eigenvalues and eigenfunctions, prove precise asymptotic formulae, and establish various analytic properties. We also derive trace asymptotics and heat kernel estimates.

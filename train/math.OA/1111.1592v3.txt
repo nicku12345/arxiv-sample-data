@@ -1,0 +1,1 @@
+Inspired by Franks' classification of irreducible shifts of finite type we provide a short list of allowed moves on graphs that preserves the stable isomorphism class of the associated C*-algebras. We show that if two graphs have stably isomorphic and simple unital algebras then we can use these moves to transform one into the other.

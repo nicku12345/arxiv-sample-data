@@ -1,0 +1,1 @@
+Matching, the stratification of observations, is of primary importance for the analysis of observational studies. We show that the score test of conditional logistic regression and the paired Student/Hotelling test, two tests for paired data, are asymptotically equivalent.

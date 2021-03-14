@@ -1,0 +1,1 @@
+We study the relation between the coefficients of Taylor series and Kapteyn series representing the same function. We compute explicit formulas for expressing one in terms of the other and give examples to illustrate our method.

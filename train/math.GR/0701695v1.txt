@@ -1,0 +1,1 @@
+For most (and possibly all) non-associative finite simple Moufang loops, three generators of order 3 can be chosen so that each two of them generate a group isomorphic to (3, 3 | 3, p). The subgroup structure of (3, 3 | 3, p) depends on the solvability of a certain quadratic congruence, and it is described here in terms of generators.

@@ -1,0 +1,1 @@
+It is shown that the 1-dimensional lattice Schrodinger operator with potential given by a non-zero multiple of the Moebius function has positive Lyapounov exponent. In view of the classical theory of random Schrodinger operators, this may be seen as another manifestation of the Moebius randomness law.

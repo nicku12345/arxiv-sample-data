@@ -1,0 +1,1 @@
+We compute the action of the Steenrod algebra on generators of algebras of invariants of special linear group {SL_n=SL(n,\mathbb Z/p)} in the polynomial algebra with  p an odd prime number.

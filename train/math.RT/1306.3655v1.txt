@@ -1,0 +1,1 @@
+We construct certain virtual characters for the symmetric groups, then compute a formula which calculates the values of these virtual characters.

@@ -1,0 +1,1 @@
+Let A be a path A-infinity-algebra over a positively graded quiver Q. It is proved that the derived category of A is triangulated equivalent to the derived category of kQ, which is viewed as a dg algebra with trivial differential. The main technique used in the proof is Koszul duality.

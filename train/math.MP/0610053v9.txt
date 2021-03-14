@@ -1,0 +1,1 @@
+Based on the Gerstenhaber Theory, clarification is made of how operadic dynamics may be introduced. Operadic observables satisfy the Gerstenhaber algebra identities and their time evolution is governed by operadic evolution equation. The notion of an operadic Lax pair is also introduced. As an example, an operadic (representation of) harmonic oscillator is proposed.

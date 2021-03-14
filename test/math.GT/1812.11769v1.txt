@@ -1,0 +1,1 @@
+The Dynnikov coordinate system puts global coordinates on the boundary of Teichm\"uller space of an n--punctured disk. We survey the Dynnikov coordinate system, and investigate how we use this coordinate system to study pseudo--Anosov braids making use of results from Thurston's theory on surface homeomorphisms.

@@ -1,0 +1,1 @@
+We show a connection formula between two different q-Airy functions. One is called the Ramanujan function which appears in Ramanujan's "Lost notebook". Another one is called the q-Airy function that obtained in the study of the second q-Painlev\'e equation. We use the q-Borel transformation and the q-Laplace transformation following C. Zhang to obtain the connection formula.

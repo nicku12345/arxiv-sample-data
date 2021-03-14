@@ -1,0 +1,1 @@
+In this work we study, as the temperature goes to zero, the oscillation of Metropolis-Hasting's algorithm around the Basis Pursuit De-noising solutions. We derive new criteria for choosing the proposal distribution and the temperature in Metropolis-Hasting's algorithm. Finally we apply these results to compare Metropolis-Hasting's and simulated annealing algorithms.

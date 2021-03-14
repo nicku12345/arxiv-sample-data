@@ -1,0 +1,1 @@
+Let X be a subcomplex of the standard CW-decomposition of the n-dimensional torus. We exhibit an explicit optimal motion planning algorithm for X. This construction is used to calculate the topological complexity of complements of general position arrangements and Eilenberg-Mac Lane spaces associated to right-angled Artin groups.

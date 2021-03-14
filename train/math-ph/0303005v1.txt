@@ -1,0 +1,1 @@
+We review some basic notions and results of White Noise Analysis that are used in the construction of the Feynman integrand as a generalized White Noise functional. We show that the Feynman integrand for the harmonic oscillator in an external potential is a Hida distribution.

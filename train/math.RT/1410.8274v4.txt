@@ -1,0 +1,1 @@
+Let G be a p-adic reductive group and H a unimodular spherical subgroup of G. Let \pi be a unitary supercuspidal representation of G. In this note, under a mild assumption, we show that local periods in Hom_H(\pi,\mathbb{C}) can be constructed by integrating the matrix coefficients of \pi over H.

@@ -1,0 +1,1 @@
+We consider the question of when a slice knot admits a reducible Dehn surgery. By analyzing the correction terms associated to such a surgery, we show that slice knots cannot admit surgeries with more than two summands. We also give a necessary Heegaard Floer theoretic condition for a positive cable of a knot to be slice.

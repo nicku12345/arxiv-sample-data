@@ -1,0 +1,1 @@
+Let Lambda be a tiled R-order. We give a description of Aut_R(Lambda) as the semidirect product of Inn(Lambda) and a certain subgroup of Aut(Q(Lambda)), where Q(Lambda) is the link graph of Lambda. Additionally, we give criteria for determining when an element of Aut(Q(Lambda)) belongs to this subgroup in terms of the exponent matrix for Lambda.

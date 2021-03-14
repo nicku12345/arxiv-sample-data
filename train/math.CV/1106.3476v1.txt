@@ -1,0 +1,1 @@
+Let 0<p<\infty and 0\leq q<\infty. For each f in the weighted Hardy space H_{p, q},\ we show that d\|f_r\|_{p,q}^p/dr grows at most like o(1/1- r) as r\rightarrow 1.

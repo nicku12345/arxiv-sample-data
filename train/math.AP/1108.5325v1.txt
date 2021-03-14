@@ -1,0 +1,1 @@
+We show that the capacity of a class of plane condensers is comparable to the capacity of corresponding "dyadic condensers". As an application, we show that for plane condensers in that class the capacity blows up as the distance between the plates shrinks, but there can be no asymptotic estimate of the blow-up.

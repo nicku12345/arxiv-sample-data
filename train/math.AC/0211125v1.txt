@@ -1,0 +1,1 @@
+We present a theory for splitting algebras of monic polynomials over rings, and apply the results to symmetric functions, and Galois theory. Our main result is that the ring of invariants of a splitting algebra under the symmetric group almost always is the ring of coefficients.

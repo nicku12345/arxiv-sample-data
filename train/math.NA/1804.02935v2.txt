@@ -1,0 +1,1 @@
+In this paper, we establish a new estimate (including lower and upper bounds) for an important quantity involved in the convergence analysis of smoothed aggregation algebraic multigrid methods. The new upper bound improves the existing ones. And our upper bound is optimal.

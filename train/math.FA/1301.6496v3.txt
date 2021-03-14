@@ -1,0 +1,1 @@
+The Lie-Trotter-Kato product formula has been recently extended into Hadamard spaces by [Stojkovic, Adv. Calc. Var., 2012]. The aim of our short note is to give a simpler proof relying upon weak convergence instead of an ultrapower technique.

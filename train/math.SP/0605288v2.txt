@@ -1,0 +1,1 @@
+For cofinite Kleinian groups (or equivalently, finite-volume three-dimensional hyperbolic orbifolds) with finite-dimensional unitary representations, we evaluate the regularized determinant of the Laplacian using W. Muller's regularization. We give an explicit formula relating the determinant to the Selberg zeta-function.

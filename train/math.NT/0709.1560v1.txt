@@ -1,0 +1,1 @@
+we derive new, improved lower bounds for the block complexity of an irrational algebraic number and for the number of digit changes in the b-ary expansion of an irrational algebraic number. To this end, we apply a quantitative version of the Subspace Theorem due to Evertse and Schlickewei (2002).

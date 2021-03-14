@@ -1,0 +1,1 @@
+In this paper, we show that the class of all properly 3-realizable groups is closed under amalgamated free products (and HNN-extensions) over finite groups. We recall that G is said to be properly 3-realizable if there exists a compact 2-polyhedron K with \pi_1(K) \cong G and whose universal cover \tilde{K} has the proper homotopy type of a 3-manifold (with boundary).

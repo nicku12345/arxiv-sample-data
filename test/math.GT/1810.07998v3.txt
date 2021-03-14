@@ -1,0 +1,1 @@
+For each even classical pretzel knot P(2k_1+1,2k_2+1,2k_3), we determine the character variety of irreducible {\rm SL}(2,\mathbb{C})-representations, and clarify the steps of computing its A-polynomial.

@@ -1,0 +1,1 @@
+We suggest an abstract approach for point contact problems in the framework of boundary triples. Using this approach we obtain the perturbation series for a simple eigenvalue in the discrete spectrum of the model self-adjoint extension with weak point coupling. An example of a two-level quantum model is provided.

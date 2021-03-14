@@ -1,0 +1,1 @@
+The first Szego limit theorem has been extended by Bump-Diaconis and Tracy-Widom to limits of other minors of Toeplitz matrices. We extend their results still further to allow more general measures and more general determinants. We also give a new extension to higher dimensions, which extends a theorem of Helson and Lowdenslager.

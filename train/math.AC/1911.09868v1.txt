@@ -1,0 +1,1 @@
+Let K[G] denote the edge ring of a finite connected simple graph G on [d] and \mat(G) the matching number of G. It is shown that \reg(K[G]) \leq \mat(G) if G is non-bipartite and K[G] is normal, and that \reg(K[G]) \leq \mat(G) - 1 if G is bipartite.

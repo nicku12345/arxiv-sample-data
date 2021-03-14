@@ -1,0 +1,1 @@
+We show that the generating functions of Gromov--Witten invariants with ancestors are invariant under a simple flop, for all genera, after an analytic continuation in the extended K\"ahler moduli space. This is a sequel to [LLW].

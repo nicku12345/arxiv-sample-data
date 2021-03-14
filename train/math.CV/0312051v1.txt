@@ -1,0 +1,1 @@
+Let F\subset\Bbb C^n be a proper closed subset of \Bbb C^n and A\subset\Bbb C^n\setminus F at most countable (n\geq 2). We give conditions of F and A, under which there exists a holomorphic immersion (or a proper holomorphic embedding) \phi:\Bbb C\to\Bbb C^n with A\subset\phi(\Bbb C)\subset\Bbb C^n\setminus F.

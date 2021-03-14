@@ -1,0 +1,1 @@
+For each vector v we define the notion of a v-positive type for infinite measure-preserving transformations, a refinement of positive type as introduced by Hajian and Kakutani. We prove that a positive type transformation need not be (1,2)-positive type. We study this notion in the context of Markov shifts and multiple recurrence and give several examples.

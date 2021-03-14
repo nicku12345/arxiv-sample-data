@@ -1,0 +1,1 @@
+We give an explicit formula for the subalgebra zeta function of a general 3-dimensional Lie algebra over the p-adic integers \mathbb{Z}_p. To this end, we associate to such a Lie algebra a ternary quadratic form over \mathbb{Z}_p. The formula for the zeta function is given in terms of Igusa's local zeta function associated to this form.

@@ -1,0 +1,1 @@
+The fundamental identity of quadratic Jordan algebras Q_{Q_a b} = Q_aQ_bQ_a is commonly proven as a consequence of MacDonalds theorem or using more analytic methods. In this short note we give a self-contained purely algebraic proof using just a few easily proven identities and a Python script that follows a simple randomised logic to reduce expressions of Jordan operators.

@@ -1,0 +1,1 @@
+We will show that for any two bounded linear operators X,Y on a Hilbert space {\frak H}, if they satisfy the triangle equality |X+Y|=|X|+|Y|, there exists a partial isometry U on {\frak H} such that X=U|X| and Y=U|Y|. This is a generalization of Thompson's theorem to the matrix case proved by using a trace.

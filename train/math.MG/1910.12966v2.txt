@@ -1,0 +1,1 @@
+The hexagon is the least-perimeter tile in the Euclidean plane. On hyperbolic surfaces, the isoperimetric problem differs for every given area. Cox conjectured that a regular k-gonal tile with 120-degree angles is isoperimetric for its area. We prove his conjecture and more.

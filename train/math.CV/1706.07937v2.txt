@@ -1,0 +1,1 @@
+In this paper our purpose is to find upper bound estimate for the second Hankel determinant |a_{2}a_{4}-a_{3}^{2}| for functions defined by convolution belonging to the class \mathcal{N}_{\sigma}^{\mu,\delta}(\lambda,t) by using Chebyshev polynomials.

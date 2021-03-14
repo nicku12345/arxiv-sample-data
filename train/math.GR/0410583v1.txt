@@ -1,0 +1,1 @@
+Let G be a finite solvable group and \chi, \psi \in \Irr(G) be complex characters of G. Let \alpha be an irreducible constituent of the product \chi \psi. We show that the derived length of \Ker(\alpha)/\Ker(\chi\psi) is bounded by a linear function on the number of distinct irreducible constituents of \chi\psi

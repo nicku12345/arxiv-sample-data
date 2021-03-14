@@ -1,0 +1,1 @@
+Let \gamma: S^n\to \mathbb{R}_+ be a continuous function and let \mathcal{W}_\gamma be the Wulff shape associated with \gamma. In this paper, we show that if the boundary of \mathcal{W}_\gamma is a C^1 submanifold, then \gamma must be the convex integrand of \mathcal{W}_\gamma.

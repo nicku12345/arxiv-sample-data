@@ -1,0 +1,1 @@
+We introduce a convenient framework for constructing and analyzing orthogonal Thom spectra arising from virtual vector bundles. This framework enables us to set up a theory of orientations and graded Thom isomorphisms with good multiplicative properties. The theory is applied to the analysis of logarithmic structures on commutative ring spectra.

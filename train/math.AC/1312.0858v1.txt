@@ -1,0 +1,1 @@
+Let K be a field and S=K[x_1,\ldots, x_n]. Let I be a monomial ideal of S and u_1,\ldots, u_r be monomials in S which form a filter-regular sequence on S/I. We show that S/I is pretty clean if and only if S/(I,u_1,\ldots, u_r) is pretty clean.

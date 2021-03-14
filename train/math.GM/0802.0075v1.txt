@@ -1,0 +1,1 @@
+We show that the formalism of hybrid polynomials, interpolating between Hermite and Laguerre polynomials, is very useful in the study of Motzkin numbers and central trinomial coefficients. These sequences are identified as special values of hybrid polynomials, a fact which we use to derive their generalized forms and new identities satisfied by them.

@@ -1,0 +1,1 @@
+We find the exact Bellman function for the weak L^1 norm of local positive dyadic shifts. We also describe a sequence of functions, self-similar in nature, which in the limit extremize the local weak-type (1,1) inequality.

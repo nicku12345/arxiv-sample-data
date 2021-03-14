@@ -1,0 +1,1 @@
+We estimate the norm of the almost Mathieu operator H_{\theta,\lambda} =U+U^*+(\lambda /2)(V+V^*) in the rotation C^*-algebra A_\theta =C^*(U,V unitaries;UV=e^{2\pi i\theta} VU). In this process, we significantly improve the inequality \| H_\theta \| \leq 2\sqrt{2}, \theta \in [0.25,0.5], conjectured by Beguin, Valette and Zuk.

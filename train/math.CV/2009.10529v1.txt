@@ -1,0 +1,1 @@
+Let (X, T^{1,0}X) be a compact connected orientable strongly pseudoconvex CR manifold of dimension 2n+1, n\geq1. Assume that X admits a connected compact Lie group G action and a transversal CR S^1 action, we compute the coefficients of the first two lower order terms of the equivariant Szeg\H{o} kernel asymptotic expansions with respect to the S^1 action.

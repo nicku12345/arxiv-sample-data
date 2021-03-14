@@ -1,0 +1,1 @@
+Let K_s be a (-2,3,2s+1)-type Pretzel knot (s >= 3) and E(K_s)(p/q) be a closed manifold obtained by Dehn surgery along K_s with a slope p/q. We prove that if q>0, p/q >= 4s+7 and p is odd, then E(K_s)(p/q) cannot contain an R-covered foliation. This result is an extended theorem of a part of works of Jinha Jun for (-2,3,7)-Pretzel knot.

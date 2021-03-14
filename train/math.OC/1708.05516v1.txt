@@ -1,0 +1,1 @@
+An optimal control problem for the continuity equation is considered. The aim of a controller is to maximize the total mass within a target set at a given type moment. An iterative numerical algorithm for solving this problem is presented.

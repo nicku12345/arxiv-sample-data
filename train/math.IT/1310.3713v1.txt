@@ -1,0 +1,1 @@
+We derive a closed form solution for the Kullback-Leibler divergence between two Weibull distributions. These notes are meant as reference material and intended to provide a guided tour towards a result that is often mentioned but seldom made explicit in the literature.

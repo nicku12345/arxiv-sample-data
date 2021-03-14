@@ -1,0 +1,1 @@
+Ihara's proof that the reduction of the modular curve X_0(n) at a prime p not dividing n has many points over a quadratic extension is adapted to the drinfeld modular curves X_0(n). In order to do so, some properties of drinfeld modular varieties that have no proof in the literature are proven. The text is more or less self-contained.

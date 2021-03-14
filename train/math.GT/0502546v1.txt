@@ -1,0 +1,1 @@
+A polynomial curve of degree 5, \alpha, is a helix, if and only if both ||\alpha^'|| and ||\alpha^'\wedge \alpha^{''}|| are polynomial functions.

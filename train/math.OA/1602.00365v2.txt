@@ -1,0 +1,1 @@
+Two notions for linear maps (operational convex combinations and operational exetreme points) are introduced. The set S of ucp maps on the n times n matrix algebra is the operational convex combinations of the identity map. An operational extreme point of S is an extreme point of S but the converse does not hold, and every automorphism is an operational extreme point of S.

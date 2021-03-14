@@ -1,0 +1,1 @@
+We construct groups in which FV^3(n) != \delta^2(n). This construction also leads to groups G_k, k >= 3 for which \delta^{k}(n) is not subrecursive.

@@ -1,0 +1,1 @@
+Assume that A is a purely infinite simple C*-algebra whose K_0 is a torsion group, namely, contains no free element. Then a positive element a in A can be written as a finite sum of projections in A if and only if either a is a projection or the norm ||a||>1.

@@ -1,0 +1,1 @@
+In this paper, we show that the L_p-error of asymmetric linear approximation of the quadratic function Q({\mathbf x})=\sum_{j=1}^{d}x_j^2 on simplices in \RR^d of fixed volume is minimized on regular simplices.

@@ -1,0 +1,1 @@
+We study ergodic properties of stochastic dissipative systems with additive noise. We show that the system is uniformly exponentially ergodic provided the growth of nonlinearity at infinity is faster than linear. The abstract result is applied to the stochastic reaction diffusion equation in \mathbb R^d with d\le 3.

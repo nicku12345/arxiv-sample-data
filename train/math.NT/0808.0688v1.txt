@@ -1,0 +1,1 @@
+We prove that a function f from Z_p to itself is analytic if and only if it can be represented as f(x)=F(x, dx, ..., d^r x) where dx=(x-x^p)/p is the Fermat quotient operator and F is a restricted power series with coefficients in Z_p.

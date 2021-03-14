@@ -1,0 +1,1 @@
+In this article, we study the notion of the Schur multiplier \mathcal{M}(N,L) of a pair (N,L) of Lie superalgebras and obtain some upper bounds concerning dimensions. Moreover, we characterize the pairs of finite dimensional (nilpotent) Lie superalgebras for which \dim \mathcal{M}(N,L)= \frac{1}{2}\big{(}(m+n)^2+(n-m)\big{)}+\dim N\dim(L/N)-t, for t=0,1, where \dim N=(m|n).

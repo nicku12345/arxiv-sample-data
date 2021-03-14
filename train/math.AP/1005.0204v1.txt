@@ -1,0 +1,1 @@
+In this article we study a system of eikonal equations. Our aim is to isolate the solutions which minimise the discontinuity set of the gradient.

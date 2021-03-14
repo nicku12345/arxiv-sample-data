@@ -1,0 +1,1 @@
+Let X be a partial flag variety, stratified by orbits of the Borel. We give a criterion for the category of modular perverse sheaves to be equivalent to modules over a Koszul ring. This implies that modular category \mathcal O is governed by a Koszul-algebra in small examples.

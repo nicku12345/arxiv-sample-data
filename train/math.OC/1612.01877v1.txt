@@ -1,0 +1,1 @@
+We introduce the notion of stable solution in mean field game theory: they are locally isolated solutions of the mean field game system. We prove that such solutions exist in potential mean field games and are local attractors for learning procedures.

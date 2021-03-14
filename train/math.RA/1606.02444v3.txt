@@ -1,0 +1,1 @@
+Let \F be a field of characteristic different from 2 and \V be a vector space over \F. Let J: \alpha \to \alpha^J be a fixed involutory automorphism on \F. In this paper we answer the following question: given an invertible linear map T: \V \to \V, when does the vector space \V admit a T-invariant non-degenerate J-hermitian, resp. J-skew-hermitian, form?

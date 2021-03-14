@@ -1,0 +1,1 @@
+We use Poisson summation formula to calculate integrals of producs of sinc functions (cf. [4]) and related integrals as in [5] and [3]. We also generalize the one in [5] and introduce other remarkable integrals.   Finally we give a sum version of Siegel-type lower bound. (cf. [2], Theorem 3)

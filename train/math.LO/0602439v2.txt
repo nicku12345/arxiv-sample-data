@@ -1,0 +1,1 @@
+For every Scott set F and every nonrecursive set X in F, there is a Y in F such that X and Y are Turing incomparable.

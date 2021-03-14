@@ -1,0 +1,1 @@
+In this note we study the displacement function d_g(x):=d(gx,x) of an isometry g of a Euclidean building. We give a lower bound for d_g(x) depending on the distance from x to the minimal set of g.

@@ -1,0 +1,1 @@
+We study the growth of the genus zero Gromov-Witten invariants GW_{nD} of the projective plane P^2_k blown up at k points (where D is a class in the second homology group of P^2_k). We prove that, under some natural restrictions on D, the sequence log GW_{nD} is equivalent to lambda n log n, where lambda = D.c_1(P^2_k).

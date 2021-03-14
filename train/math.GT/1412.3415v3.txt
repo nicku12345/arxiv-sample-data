@@ -1,0 +1,1 @@
+This paper shows how the Formal Knot Theory state model for the Alexander-Conway polynomial is related to Knot Floer Homology. In particular we prove a parity result about the states in this model that clarifies certain relationships of the model with Knot Floer Homology.

@@ -1,0 +1,1 @@
+An H(div) conforming finite element method for solving the linear Biot equations is analyzed. Formulations for the standard mixed method are combined with formulation of interior penalty discontinuous Galerkin method to obtain a consistent scheme. Optimal convergence rates are obtained.

@@ -1,0 +1,1 @@
+Let \mathcal A be a Banach algebra. Using the concept of module biflatness, we show that the module amenability of the second dual \mathcal A^{**} (with the first Arens product) necessitates the module amenability of \mathcal A. We give some examples of Banach algebras \mathcal A such that \mathcal A^{**} are module biflat, but which are not themselves module biflat.

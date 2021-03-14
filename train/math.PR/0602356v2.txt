@@ -1,0 +1,1 @@
+We proof a connection between the generalized Molchan-Golosov integral transform and the generalized Mandelbrot-Van Ness integral transform of fractional Brownian motion (fBm). The former changes fBm of arbitrary Hurst index K into fBm of index H by integrating over [0,t], whereas the latter requires integration over (-infty,t].

@@ -1,0 +1,1 @@
+For any n>1 we determine the uniform and nonuniform lattices of the smallest covolume in the Lie group Sp(n,1). We explicitly describe them in terms of the ring of Hurwitz integers in the nonuniform case with n even, respectively, of the icosian ring in the uniform case for all n>1.

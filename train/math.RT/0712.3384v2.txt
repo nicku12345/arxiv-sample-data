@@ -1,0 +1,1 @@
+Let G be a real-reductive Lie group and let G_1 and G_2 be two subgroups given by involutions. We show how the technique of gradient maps can be used in order to obtain a new proof of Matsuki's parametrization of the closed double cosets G_1\backslash G/G_2 by Cartan subsets. We also describe the elements sitting in non-closed double cosets.

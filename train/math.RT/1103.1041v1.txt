@@ -1,0 +1,1 @@
+We show that the explicit formula of Stanley-F\'eray-\'Sniady for the characters of the symmetric group have a natural extension to the generalized characters. These are the spherical functions of the unbalanced Gel'fand pair (S_n\times S_{n-1},\text{diag}S_{n-1}).

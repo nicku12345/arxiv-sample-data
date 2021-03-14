@@ -1,0 +1,1 @@
+We show that we cannot avoid the existence of at least one directed circuit of length less than or equal to (n/r) in a digraph on n vertices with out-degree greater than or equal to r. This is well-known Caccetta-Haggkvist problem.

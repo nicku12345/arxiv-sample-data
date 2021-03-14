@@ -1,0 +1,1 @@
+We provide explicit uniform type (2,3)-generators for the special linear group SL_{12}(q) for all q except for q=2 or 4. Our considerations are easily traceable, self-contained and based only on the known list of maximal subgroups of this group.

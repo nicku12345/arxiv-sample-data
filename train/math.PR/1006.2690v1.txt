@@ -1,0 +1,1 @@
+We consider the equation R(n)=Q(n)+M(n) R(n-1), with random non-i.i.d. coefficients (Q(n),M(n)), and show that the distribution tails of the stationary solution to this equation are regularly varying at infinity.

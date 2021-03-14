@@ -1,0 +1,1 @@
+Answering a question about triangle inequality suggested by R. Li, A. Barrlund introduced a distance function which is a metric on a subdomain of {\mathbb R}^n\,. We study this Barrlund metric and give sharp bounds for it in terms of other metrics of current interest. We also prove sharp distortion results for the Barrlund metric under quasiconformal maps.

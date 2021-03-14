@@ -1,0 +1,1 @@
+Two coalgebra structures are used in quantum field theory. The first one is the coalgebra part of a Hopf algebra leading to deformation quantization. The second one is a co-module co-algebra over the first Hopf algebra and it is used to define connected chronological products and renormalization.

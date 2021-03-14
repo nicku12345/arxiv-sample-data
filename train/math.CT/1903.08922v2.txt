@@ -1,0 +1,1 @@
+With quantaloids carefully constructed from multi-adjoint frames, it is shown that multi-adjoint concept lattices, multi-adjoint property-oriented concept lattices and multi-adjoint object-oriented concept lattices are derivable from Isbell adjunctions, Kan adjunctions and dual Kan adjunctions between quantaloid-enriched categories, respectively.

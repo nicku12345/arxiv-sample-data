@@ -1,0 +1,1 @@
+The harmonic knot \H(a,b,c) is parametrized as K(t)= (T_a(t) ,T_b (t), T_c (t)) where a, b and c are pairwise coprime integers and T_n is the degree n Chebyshev polynomial of the first kind. We classify the harmonic knots \H(a,b,c) for  a \le 4.  We study the knots \H (2n-1, 2n, 2n+1), the knots \H(5,n,n+1), and give a table of the simplest harmonic knots.

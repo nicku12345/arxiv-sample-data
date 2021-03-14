@@ -1,0 +1,1 @@
+Through the use of a nonstandard version of Frostman's lemma, the notion of Hausdorff dimension is formulated in nonstandard euclidean space of arbitrary dimension. This allows for a nonstandard proof of the Kakeya conjecture in two dimensions, which can then be extended to the three-dimensional case.

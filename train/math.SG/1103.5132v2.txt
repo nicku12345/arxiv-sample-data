@@ -1,0 +1,1 @@
+We give an approach for relative and degenerate Gromov--Witten invariants, inspired by that of Jun Li but replacing predeformable maps by transversal maps to a twisted target. The main advantage is a significant simplification in the definition of the obstruction theory. We reprove in our language the degeneration formula, extending it to the orbifold case.

@@ -1,0 +1,1 @@
+The purpose of this paper is to give some generalizations, in the context of Banach mani- folds, of Sussmann's results about the orbits of families of vector fields ([Su]). Essentially, we define the notion of "l1-orbits" for any family of vector fields on a Banach manifold, and we prove, under appropriate assumptions, that such an orbit is a weak Banach submanifold.

@@ -1,0 +1,1 @@
+Let X be a separable real Hilbert space. We show that for every Lipschitz function f:X\rightarrow\mathbb{R}, and for every \epsilon>0, there exists a Lipschitz, real analytic function g:X\rightarrow\mathbb{R} such that |f(x)-g(x)|\leq \epsilon and \textrm{Lip}(g)\leq \textrm{Lip}(f)+\epsilon.

@@ -1,0 +1,1 @@
+In dimensions d\geq 4, we prove that the Schr\"{o}dinger map initial-value problem admits global (in time) solutions for smooth data with small norm in the critical Sobolev space.

@@ -1,0 +1,1 @@
+Let k be an infinite perfect field of positive characteristic p and assume that strong resolution of singularities holds over k. We prove that, if X is a d-dimensional noetherian scheme whose underlying reduced scheme is essentially of finite type over the field k, then the negative K-group K_q(X) vanishes for every q < -d. This partially affirms a conjecture of Weibel.

@@ -1,0 +1,1 @@
+We study the distribution of divisors of Euler's totient function and Carmichael's function. In particular, we estimate how often the values of these functions have "dense" divisors.

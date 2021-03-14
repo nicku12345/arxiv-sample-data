@@ -1,0 +1,1 @@
+It is known that orthogonal polynomials obey a 3 terms recursion relation, as well as a 2x2 differential system. Here, we give an explicit and concise expression of the differential system in terms of the recursion coefficients. This result is a generalization of an expression of Fokas, Its and Kitaev for the symmetric case.

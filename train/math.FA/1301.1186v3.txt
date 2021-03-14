@@ -1,0 +1,1 @@
+Using a variation of the Murphy-Varopoulos Theorem, we give a new proof of the following R.J.Loy Theorem: Let A be a separable Banach*-algebra with center Z such that ZA has at most countable codimension, then every positive linear functional on A is continuous.

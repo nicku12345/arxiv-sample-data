@@ -1,0 +1,1 @@
+In previous work, the necessary integrals arising from correlated wavefunctions were expressed in forms suitable for numerical integration. For the evaluation of r_{12} and 1/r_{12} integrals an analytic formula is derived. Combinatorial aspects of more than two electron integrals are discussed.

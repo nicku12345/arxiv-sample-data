@@ -1,0 +1,1 @@
+An abelian square is a string of length 2n where the last n symbols form a permutation of the first n symbols. In this note we count the number of abelian squares and give an asymptotic estimate of this quantity.

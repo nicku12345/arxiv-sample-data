@@ -1,0 +1,1 @@
+We prove the L^2 extension theorem for jets with optimal estimate following the method of Berndtsson-Lempert. For this purpose, following Demailly's construction, we consider Hermitian metrics on jet vector bundles.

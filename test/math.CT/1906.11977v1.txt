@@ -1,0 +1,1 @@
+Fof a nilpotent differential graded Lie algebra whose components vanish in degrees below -1 we construct an explicit equivalence between the nerve of the Deligne 2-groupoid and the simplicial set of differential forms with values in the Lie algebra introduced by V.Hinich. The construction uses the theory of non-abelian multiplicative integration.

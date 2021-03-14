@@ -1,0 +1,1 @@
+In this paper, we consider the three-dimensional Navier-Stokes equations, and show that if the \dot B^{-1}_{\infty,\infty}-norm of the velocity field is sufficiently small, then the solution is in fact classical.

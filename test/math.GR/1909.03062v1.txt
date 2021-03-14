@@ -1,0 +1,1 @@
+For a finite group G, let \Delta(G) denote the character graph built on the set of degrees of the irreducible complex characters of G. In this paper, we show that if the diameter of \Delta(G) is equal to three, then the complement of \Delta(G) is bipartite. Also in this case, we determine the structure of the character graph \Delta(G).

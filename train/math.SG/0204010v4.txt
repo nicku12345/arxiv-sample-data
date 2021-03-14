@@ -1,0 +1,1 @@
+The notion of Courant algebroid was introduced by Liu, Weinstein and Xu in 1997. Its definition consists of five axioms and an assumption for a derivation. It is shown that two of the axioms and the assumption for the derivation follow from the rest of the axioms.

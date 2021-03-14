@@ -1,0 +1,1 @@
+On a weakly Blackwell space we show how to define a Markov chain approximating problem, for the target problem. The approximating problem is proved to converge to the optimal reduced problem under different pseudometrics. A computational example of compression of information is discussed.

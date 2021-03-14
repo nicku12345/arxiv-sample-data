@@ -1,0 +1,1 @@
+A Brody curve, a.k.a. normal curve, is a holomorphic map from the complex line to the complex projective space of dimension n, such that the family of its translations is normal. We prove that Brody curves omitting n hyperplanes in general position have growth order at most one, normal type. This generalizes a result of Clunie and Hayman who proved it for n=1.

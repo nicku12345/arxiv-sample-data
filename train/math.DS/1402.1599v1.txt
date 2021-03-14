@@ -1,0 +1,1 @@
+For nonautonomous linear difference equations, we introduce the notion of the so-called nonuniform dichotomy spectrum and prove a spectral theorem. Moreover, we introduce the notion of weak kinematical similarity and prove a reducibility result by the spectral theorem.

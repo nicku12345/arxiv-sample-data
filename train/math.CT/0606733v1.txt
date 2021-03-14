@@ -1,0 +1,1 @@
+We develop a theory of double clubs which extends Kelly's theory of clubs to the pseudo double categories of Pare and Grandis. We then show that the club for symmetric strict monoidal categories on Cat extends to a `double club' on the pseudo double category of `categories, functors, profunctors and transformations'.

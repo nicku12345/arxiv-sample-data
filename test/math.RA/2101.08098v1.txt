@@ -1,0 +1,1 @@
+In this paper, the familiar notion of a Henselian pair is extended to the noncommutative case. Furthermore, the problem of Henselizations is studied in the noncommutative context, and it is shown that every (not necessarily commutative) pair which is Hausdorff with respect to a certain topology has a left (and right) Henselization.

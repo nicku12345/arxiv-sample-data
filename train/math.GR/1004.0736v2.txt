@@ -1,0 +1,1 @@
+We introduce a criterion for the completeness of ring approximations of modular cohomology rings of finite non prime power groups, and discuss how this criterion performs in practical computations, compared with other criteria.

@@ -1,0 +1,1 @@
+Let A be an affine algebra over the field of real numbers of dimension d. Let f \in A be an element not belonging to any real maximal ideal of A. Let P be a projective A-module of rank \geq d-1. Let (a,p) \in A_f \oplus P_f be a unimodular element. Then the projective A_f module Q=A_f \oplus P_f/(a,p)A_f is extended from A.

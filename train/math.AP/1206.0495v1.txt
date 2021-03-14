@@ -1,0 +1,1 @@
+In this article we present some results on the existence of positive and ground state solutions for the nonlinear Klein-Gordon-Maxwell equations. We introduce a general nonlinearity with subcritical and supercritical growth which does not require the usual Ambrosetti-Rabinowitz condition. The proof is based on variational methods and perturbation arguments.

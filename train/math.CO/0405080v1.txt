@@ -1,0 +1,1 @@
+A book of size q is a set of q triangles sharing a common edge. We study the size of the maximal book in a graph as a function of the number of its edges. In particular, we answer two questions of Erdos about graphs that are union of triangles.

@@ -1,0 +1,1 @@
+We study the orbit behavior of a germ of an analytic vector field of (C^n,0), n \geq 2. We prove that if its linear part is semisimple, non--resonant and verifies a Bruno--like condition, then the origin is effectively stable: stable for finite but exponentially long times.

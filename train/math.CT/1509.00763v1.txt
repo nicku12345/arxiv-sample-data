@@ -1,0 +1,1 @@
+Birkhoff's variety theorem from universal algebra characterises equational subcategories of varieties. We give an analogue of Birkhoff's theorem in the setting of enrichment in categories. For a suitable notion of an equational subcategory we characterise these subcategories by their closure properties in the ambient algebraic category.

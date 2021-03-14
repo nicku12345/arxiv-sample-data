@@ -1,0 +1,1 @@
+Simple proofs of the Hermite-Biehler and Routh-Hurwitz theorems are presented. The total nonnegativity of the Hurwitz matrix of a stable real polynomial follows as an immediate corollary.

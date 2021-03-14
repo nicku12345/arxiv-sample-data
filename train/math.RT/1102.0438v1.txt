@@ -1,0 +1,1 @@
+In a recent paper Cohen, Liu and Yu introduce the Type C Brauer algebra. We show that this algebra is an iterated inflation of hyperoctahedral groups, and that it is cellularly stratified. This gives an indexing set of the standard modules, results on decomposition numbers, and the conditions under which the algebra is quasi-hereditary.

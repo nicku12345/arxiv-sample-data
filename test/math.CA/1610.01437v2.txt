@@ -1,0 +1,1 @@
+We present two different proofs that positive polynomials on closed boxes of \mathbb{R}^2 can be written as bivariate Bernstein polynomials with strictly positive coefficients. Both strategies can be extended to prove the analogous result for polynomials that are positive on closed boxes of \mathbb{R}^n, n>2.

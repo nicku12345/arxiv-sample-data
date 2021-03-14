@@ -1,0 +1,1 @@
+We compute the reduced version of Khovanov and Rozansky's sl(N) homology for two-bridge knots and links. The answer is expressed in terms of the HOMFLY polynomial and signature.

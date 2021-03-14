@@ -1,0 +1,1 @@
+We show that given n and k, for q sufficiently large, there always exists an [n, k]_q MDS code that has a generator matrix G satisfying the following two conditions: (C1) Sparsest: each row of G has Hamming weight n - k + 1; (C2) Balanced: Hamming weights of the columns of G differ from each other by at most one.

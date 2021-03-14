@@ -1,0 +1,1 @@
+In this article, we define the notion of slim (normal) bases and show their existence for various fields. As an application, an algorithm will be given that computes the spectrum of a basefield transform by merely using O(n) additions.

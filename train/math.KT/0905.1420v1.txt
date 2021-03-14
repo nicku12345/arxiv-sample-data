@@ -1,0 +1,1 @@
+In his book (II.5), Connes gives a proof of the Atiyah-Singer index theorem for closed manifolds by using deformation groupoids and appropiate actions of these on R^N. Following these ideas, we prove an index theorem for manifolds with boundary.

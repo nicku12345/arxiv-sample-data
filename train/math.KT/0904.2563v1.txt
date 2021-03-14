@@ -1,0 +1,1 @@
+We study the K-group K_1 of the group ring of a finite group over a coefficient ring which is p-adically complete and admits a lift of Frobenius. In this paper, we consider the image of K_1 under the determinant map; the central tool is the group logarithm which we can define using the Frobenius lift. Using this we prove a fixed point theorem for the determinantal image of K_1.

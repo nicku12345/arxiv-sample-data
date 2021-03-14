@@ -1,0 +1,1 @@
+A new understanding of the notion of regularizer is proposed. It is argued that this new notion is more realistic than the old one and better fits the practical computational needs. An example of the regularizer in the new sense is given. A method for constructing regularizers in the new sense is proposed and justified.

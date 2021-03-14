@@ -1,0 +1,1 @@
+We consider polynomials of the form t^n-1 and determine when members of this family have a divisor of every degree in Z[t]. With F(x) defined to be the number of such integers up to x, we prove the existence of two positive constants c_1 and c_2 such that c_1 x/(log x) \leq F(x) \leq c_2 x/(log x).

@@ -1,0 +1,1 @@
+The necessary multiplier conditions for Laguerre expansions derived in Gasper and Trebels \cite{laguerre} are supplemented and modified. This allows us to place Markett's Cohen type inequality \cite{cohen} (up to the \log --case) in the general framework of necessary conditions.

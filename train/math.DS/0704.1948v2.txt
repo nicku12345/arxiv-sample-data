@@ -1,0 +1,1 @@
+Let X be a quadratic vector field with a center whose generic orbits are algebraic curves of genus one. To each X we associate an elliptic surface (a smooth complex compact surface which is a genus one fibration). We give the list of all such vector fields and determine the corresponding elliptic surfaces.

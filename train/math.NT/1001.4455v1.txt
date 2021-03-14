@@ -1,0 +1,1 @@
+We give an algorithm that finds a sequence of approximations with Dirichlet coefficients bounded by a constant only depending on the dimension. The algorithm uses the LLL-algorithm for lattice basis reduction. We present a version of the algorithm that runs in polynomial time of the input.

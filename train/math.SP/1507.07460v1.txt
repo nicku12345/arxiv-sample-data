@@ -1,0 +1,1 @@
+For a nonnegative weakly irreducible tensor \mathcal{A}, we give some characterizations of the spectral radius of \mathcal{A}, by using the digraph of tensors. As applications, some bounds on the spectral radius of the adjacency tensor and the signless Laplacian tensor of the k-uniform hypergraphs are shown.

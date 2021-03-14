@@ -1,0 +1,1 @@
+The Hadamard product of two power series \sum a_n z^n and \sum b_n z^n is the power series \sum a_n b_n z^n. We define the (Hadamard) grade of a power series A to be the least number (finite or infinite) of algebraic power series, the Hadamard product of which equals A. We study and discuss this notion.

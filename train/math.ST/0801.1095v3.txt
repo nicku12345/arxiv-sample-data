@@ -1,0 +1,1 @@
+We exhibit an approximate equivalence between the Lasso estimator and Dantzig selector. For both methods we derive parallel oracle inequalities for the prediction risk in the general nonparametric regression model, as well as bounds on the \ell_p estimation loss for 1\le p\le 2 in the linear model when the number of variables can be much larger than the sample size.

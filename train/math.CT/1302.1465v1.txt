@@ -1,0 +1,1 @@
+We prove a coherence theorem for invertible objects in a symmetric monoidal category. This is used to deduce associativity, skew-commutativity, and related results for multi-graded morphism rings, generalizing the well-known versions for stable homotopy groups.

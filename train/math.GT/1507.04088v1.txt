@@ -1,0 +1,1 @@
+We show that the minimal number of colors for all effective n-colorings of a link with non-zero determinant is at least 1+\log_2 n.

@@ -1,0 +1,1 @@
+For a Euclidean building X of type A_{2}, we classify the 0-dimensional subbuildings A of \partial_{T}X that occur as the asymptotic boundary of closed convex subsets. In particular, we show that triviality of the holonomy of a triple (of points of A) is (essentially) sufficient.   To prove this, we construct new convex subsets as the union of convex sets.

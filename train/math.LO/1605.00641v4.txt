@@ -1,0 +1,1 @@
+When p is a computable real so that p \geq 1, the isometry degree of a computable copy \mathcal{B} of \ell^p is defined to be the least powerful Turing degree that computes a linear isometry of \ell^p onto \mathcal{B}. We show that this degree always exists and that when p \neq 2 these degrees are precisely the c.e. degrees.

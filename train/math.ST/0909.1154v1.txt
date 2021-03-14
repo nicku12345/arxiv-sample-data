@@ -1,0 +1,1 @@
+We correct a condition in a result of Johnson and Samworth (Bernoulli 11 (2005) 829--845) concerning convergence to stable laws in Mallows distance. We also give an improved version of this result, setting it in the more familiar context of a Lindeberg-like condition.

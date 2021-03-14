@@ -1,0 +1,1 @@
+In this paper we consider the character of a finite dimensional algebraic representation of GL_{mn}({\mathbb C}) restricted to a particular disconnected component of the normalizer of the Levi subgroup GL_m({\mathbb C})^n of GL_{mn}(\mathbb C), generalizing a theorem of Kostant on the character values at the Coxeter element.

@@ -1,0 +1,1 @@
+In this paper, we give two algorithms to compute preimages of curves under polynomial endomorphisms. In particular, this gives an efficient way of computing preimages of points. Furthermore, we explain the abstract setting under which one can iteratively compute the inverse of a polynomial automorphism.

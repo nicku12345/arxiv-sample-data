@@ -1,0 +1,1 @@
+We show that if M is a closed three manifold with a Heegaard splitting with sufficiently big "handlebody distance" then the subgroup of the mapping class group of the Heegaard surface, which extend to both handlebodies is finite. As a corollary, this implies that under the same hypothesis, the mapping class group of M is finite.

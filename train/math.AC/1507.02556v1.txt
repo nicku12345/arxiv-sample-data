@@ -1,0 +1,1 @@
+There is given a characterization for the Rees algebras of parameters in a Gorenstein local ring to be almost Gorenstein graded rings. A characterization is also given for the Rees algebras of socle ideals of parameters. The latter one shows almost Gorenstein Rees algebras rather rarely exist for socle ideals, if the dimension of the base local ring is greater than two.

@@ -1,0 +1,1 @@
+We show that for general linear groups {\rm GL}_n(q) as well as for q-Schur algebras the knowledge of the modular Alvis-Curtis duality over fields of characteristic \ell, \ell \nmid q, is equivalent to the knowledge of the decomposition numbers.

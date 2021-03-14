@@ -1,0 +1,1 @@
+We discuss the H\"ormander multiplier theorem for L^p boundedness of Fourier multipliers in which the multiplier belongs to a fractional Sobolev space with smoothness s. We show that this theorem does not hold in the limiting case |1/p-1/2|=s/n.

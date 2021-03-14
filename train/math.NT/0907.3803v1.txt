@@ -1,0 +1,1 @@
+If Z(t) = \chi^{-1/2}(1/2+it)\zeta(1/2+it) denotes Hardy's function, where \zeta(s) = \chi(s)\zeta(1-s) is the functional equation of the Riemann zeta-function, then it is proved that  \int_0^T Z(t)\d t = O_\e(T^{1/4+\e}). 

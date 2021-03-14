@@ -1,0 +1,1 @@
+We consider the Dirichlet Laplacian in a family of narrow unbounded domains. As the width of these domains goes to 0, we study the asymptotic behavior of the eigenvalues that lie below the essential spectrum and the asymptotic behavior of the corresponding eigenfunctions.

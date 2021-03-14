@@ -1,0 +1,1 @@
+We compute the average Tristram---Levine signature of any graph link with positive weights in a three sphere, generalizing the results of Kirby and Melvin. The main tools are the Neumann's algorithm for computing the equivariant signatures of graph links and the Reciprocity Law for Dedekind sums.

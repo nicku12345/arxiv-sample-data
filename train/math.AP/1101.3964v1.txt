@@ -1,0 +1,1 @@
+We prove global existence of nonnegative weak solutions to a degenerate parabolic system which models the interaction of two thin fluid films in a porous medium. Furthermore, we show that these weak solutions converge at an exponential rate towards flat equilibria.

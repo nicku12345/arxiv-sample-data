@@ -1,0 +1,1 @@
+This paper introduce the Bessel-Struve kernel functions \mathcal{B}_\nu defined on the unit disk in the complex plane. We studies the close-to-convexity of \mathcal{B}_\nu with respect to several starlike functions. Sufficient condition on \nu for which the function z\mathcal{B}_\nu is starlike is given.

@@ -1,0 +1,1 @@
+We give infinitely many examples to show that even for simple groups G it is possible for the lattice of overgroups of a subgroup H to be the Boolean lattice of rank 2, in such a way that the two maximal overgroups of H are conjugate in G. This answers negatively a question posed by Aschbacher.

@@ -1,0 +1,1 @@
+We introduce an elementary congruence-based procedure to look for q-th power multiples in arbitrary binary recurrence sequences (q>2). The procedure allows to prove that no such multiples exist in many instances.

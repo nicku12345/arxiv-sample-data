@@ -1,0 +1,1 @@
+This is an introduction to the notion of local subgroupoid introduced by the author and R. Brown. It can also serve as an introduction to an application of sheaf theory, and so could be useful to beginners in that theory. The main results are the construction of the holonomy groupoid and the notion of s-sheaf for certain local subgroupoids s.

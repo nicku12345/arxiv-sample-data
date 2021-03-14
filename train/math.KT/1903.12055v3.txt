@@ -1,0 +1,1 @@
+This paper shows that the operad encoding modular operads is Koszul. Using this result we construct higher composition operations on (hairy) graph homology which characterize its rational homotopy type.

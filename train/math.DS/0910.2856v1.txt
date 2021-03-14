@@ -1,0 +1,1 @@
+A rank-one infinite measure preserving flow T=(T_t)_{t\in\Bbb R} is constructed such that for each t\ne 0, the Cartesian powers of the transformation T_t are all ergodic.

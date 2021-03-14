@@ -1,0 +1,1 @@
+In this note we consider functions with Moebius-periodic rational coefficients. These functions under some conditions take algebraic values and can be recovered by theta functions and the Dedekind eta function. Special cases are the elliptic singular moduli, the Rogers-Ramanujan continued fraction, Eisenstein series and functions associated with Jacobi symbol coefficients.

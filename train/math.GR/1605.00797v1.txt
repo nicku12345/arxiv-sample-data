@@ -1,0 +1,1 @@
+We design an algorithm to find certain partial permutation representations of a finitely presented group G (the bricks) that may be combined to a transitive permutation representation of G (the mosaic) on the disjoint union.

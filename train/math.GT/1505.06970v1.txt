@@ -1,0 +1,1 @@
+It follows implicitly from recent work in Heegaard Floer theory that lens spaces are homology cobordant exactly when they are oriented homeomorphic. We provide a new combinatorial proof using the Heegaard Floer d-invariants, which themselves may be defined combinatorially for lens spaces.

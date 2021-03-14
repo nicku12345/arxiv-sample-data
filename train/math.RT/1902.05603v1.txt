@@ -1,0 +1,1 @@
+We discuss certain effective improvements on superrigidity for SL_n(\mathbb{Z}) for finite n>2. Using these ideas we then use superrigidity to prove a representation stability theorem about pointwise finite dimensional VIC(\mathbb{Z})-modules, which itself can be viewed as a superrigidity theorem for VIC(\mathbb{Z}) and GL_\infty(\mathbb{Z})

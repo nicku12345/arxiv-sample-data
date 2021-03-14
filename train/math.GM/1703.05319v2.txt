@@ -1,0 +1,1 @@
+In 1859, Riemann had announced the following conjecture : the nontrivial roots (zeros) s=\alpha+i\beta of the zeta function, defined by: \zeta(s) =\displaystyle \sum_{n=1}^{+\infty}\frac{1}{n^s},\,\mbox{for}\quad \Re(s)>1 have real part \alpha= \displaystyle \frac{1}{2}. We give a proof that \alpha= \displaystyle \frac{1}{2} using an equivalent statement of Riemann Hypothesis.

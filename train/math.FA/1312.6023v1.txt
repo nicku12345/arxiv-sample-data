@@ -1,0 +1,1 @@
+We discuss some necessary and some sufficient conditions for an elementary operator x\mapsto\sum_{i=1}^n a_ixb_i on a Banach algebra A to be spectrally bounded. In the case of length three, we obtain a complete characterisation when A acts irreducibly on a Banach space of dimension greater than three.

@@ -1,0 +1,1 @@
+We give simple upper bounds for rational sectional category and use them to compute invariants of the type of Farber's topological complexity of rational spaces. In particular we show that the sectional category of formal morphisms reaches its cohomological lower bound and give a method to compute higher topological complexity of formal spaces in terms of their cohomology.

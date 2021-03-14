@@ -1,0 +1,1 @@
+We provide an algorithm which, for a given quadratic equation in the Grigorchuk group determines if it has a solution. As a corollary to our approach, we prove that the group has a finite commutator width.

@@ -1,0 +1,1 @@
+A C-motivic modular forms spectrum mmf has recently been constructed. This article presents detailed computational information on the Adams spectral sequence for mmf. This information is essential for computing with the C-motivic and classical Adams spectral sequences that compute the C-motivic and classical stable homotopy groups of spheres.

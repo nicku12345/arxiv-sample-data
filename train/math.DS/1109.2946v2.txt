@@ -1,0 +1,1 @@
+We prove that the Julia set of a rational function f is computable in polynomial time, assuming that the postcritical set of f does not contain any critical points or parabolic periodic orbits.

@@ -1,0 +1,1 @@
+It is well-known that derived equivalences preserve tensor products and trivial extensions. We disprove both constructions for stable equivalences of Morita type.

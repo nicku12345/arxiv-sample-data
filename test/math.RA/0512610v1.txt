@@ -1,0 +1,1 @@
+Newton's inequalities c_n^2 \ge c_{n-1}c_{n+1} are shown to hold for the normalized coefficients c_n of the characteristic polynomial of any M- or inverse M-matrix. They are derived by establishing first an auxiliary set of inequalities also valid for both of these classes. They are also used to derive some new necessary conditions on the eigenvalues of nonnegative matrices.

@@ -1,0 +1,1 @@
+We describe an algorithm to compute M. Saito's matrices A0 and A1 for an isolated hypersurface singularity. They determine the differential structure of the Brieskorn lattice, the spectral pairs and Hodge numbers, and the complex monodromy of the singularity.

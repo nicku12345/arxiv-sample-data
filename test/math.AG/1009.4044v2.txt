@@ -1,0 +1,1 @@
+It is well known that every Del Pezzo surface of degree 5 defined over k is parametrizable over k. In this paper we give an efficient construction for parametrizing, as well as algorithms for constructing examples in every isomorphism class and for deciding equivalence.

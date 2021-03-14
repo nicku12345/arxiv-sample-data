@@ -1,0 +1,1 @@
+The quantum mechanical time-evolution is studied for a particle under the influence of an explicitly time-dependent rotating potential. We discuss the existence of the propagator and we show that in the limit of rapid rotation it converges strongly to the solution operator of the Schr\"odinger equation with the averaged rotational invariant potential.

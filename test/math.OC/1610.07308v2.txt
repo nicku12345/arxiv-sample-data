@@ -1,0 +1,1 @@
+This paper studies the problem of stability of a parameterized delay differential equations (DDE see equation (0.1)). After discretizing the DDE (0.1), we show that the problem can be equivalently casted into a semi-definite programming (SDP) see (3.2), which can be solved efficiently through some popular algorithm, e.g., the interior point method [1].

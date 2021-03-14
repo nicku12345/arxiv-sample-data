@@ -1,0 +1,1 @@
+It is proved that if C is a convex body in {\Bbb R}^n then C has an affine image \widetilde C (of non-zero volume) so that if P is any 1-codimensional orthogonal projection,   |P\widetilde C| \ge |\widetilde C|^{n-1\over n}.   It is also shown that there is a pathological body, K, all of whose orthogonal projections have volume about \sqrt{n} times as large as |K|^{n-1\over n}.

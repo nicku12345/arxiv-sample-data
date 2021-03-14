@@ -1,0 +1,1 @@
+Over an associative ring we consider a class \mathbb{X} of left modules which is closed under set-indexed coproducts and direct summands. We investigate when the triangulated homotopy category \mathsf{K}(\mathbb{X}) is compactly generated, and give a number of examples.

@@ -1,0 +1,1 @@
+In this paper we obtain a set of polynomials which are orthogonal with respect to the classical discrete weight function of the Charlier polynomials at which an extra point mass at x=0 is added. We construct a difference operator of infinite order for which these new discrete orthogonal polynomials are eigenfunctions.

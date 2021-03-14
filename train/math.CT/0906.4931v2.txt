@@ -1,0 +1,1 @@
+We study polynomial functors over locally cartesian closed categories. After setting up the basic theory, we show how polynomial functors assemble into a double category, in fact a framed bicategory. We show that the free monad on a polynomial endofunctor is polynomial. The relationship with operads and other related notions is explored.

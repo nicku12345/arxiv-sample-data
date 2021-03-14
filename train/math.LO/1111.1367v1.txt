@@ -1,0 +1,1 @@
+We study the reverse mathematics of pigeonhole principles for finite powers of the ordinal \omega. Four natural formulations are presented and their relative strengths are compared. In the analysis of the pigeonhole principle for \omega^2, we uncover two weak variants of Ramsey's Theorem for pairs.

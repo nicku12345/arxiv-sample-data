@@ -1,0 +1,1 @@
+For a Kan complex with a vertex, we have the notion of its simplicial homotopy groups. In this paper, for a weak complicial set in the sense of Verity with a vertex, we construct monoids which are a generalization of simplicial homotopy groups.

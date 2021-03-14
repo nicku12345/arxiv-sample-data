@@ -1,0 +1,1 @@
+Bresinsky defined a class of monomial curves in \mathbb{A}^{4} with the property that the minimal number of generators or the first Betti number of the defining ideal is unbounded above. We prove that the same behaviour of unboundedness is true for all the Betti numbers and construct an explicit minimal free resolution for this class.

@@ -1,0 +1,1 @@
+In this article, we recover the Sinai - Ruelle - Bowen measure associated to a real-valued H\"{o}lder continuous function defined on the Julia set of a hyperbolic quadratic polynomial, as a noncommutative measure by constructing an appropriate spectral triple.

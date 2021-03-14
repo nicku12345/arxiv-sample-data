@@ -1,0 +1,1 @@
+We give a proof, based on Lipschitz quotient mappings, for the fact that limits of BLD-mappings between manifolds of bounded geometry are BLD. Furthermore we show that such mappings share some properties of covering maps and especially have no asymptotic values.

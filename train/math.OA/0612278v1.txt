@@ -1,0 +1,1 @@
+We determine the distributional behavior for products of free random variables in a general infinitesimal triangular array. In the case of positive variables, the main theorem extends a result proved earlier for arrays with identically distributed rows. The case of unitary variables is considered as well.

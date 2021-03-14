@@ -1,0 +1,1 @@
+We study the cohomology of spaces of string links and braids in \mathbb{R}^n for n\geq 3 using configuration space integrals. For n>3, these integrals give a chain map from certain diagram complexes to the deRham algebra of differential forms on these spaces. For n=3, they produce all finite type invariants of string links and braids.

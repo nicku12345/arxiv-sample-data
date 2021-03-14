@@ -1,0 +1,1 @@
+We prove a Faa di Bruno formula for the Green function in the bialgebra of P-trees, for any polynomial endofunctor P. The formula appears as relative homotopy cardinality of an equivalence of groupoids.

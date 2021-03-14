@@ -1,0 +1,1 @@
+We introduce a notion of permutation presentations of modules over finite groups, and completely determine finite groups over which every module has a permutation presentation. To get this result, we prove that every coflasque module over a cyclic p-group is permutation projective.

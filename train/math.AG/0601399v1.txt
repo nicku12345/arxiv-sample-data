@@ -1,0 +1,1 @@
+We introduce a new approach of computing the automorphism group and the field of moduli of points \p=[C] in the moduli space of hyperelliptic curves \H_g. Further, we show that for every moduli point \p \in \H_g(L) such that the reduced automorphism group of \p has at least two involutions, there exists a representative C of the isomorphism class \p which is defined over L.

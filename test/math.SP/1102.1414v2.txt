@@ -1,0 +1,1 @@
+The change in energy of an ideal Fermi gas when a local one-body potential is inserted into the system, or when the density is changed locally, are important quantities in condensed matter physics. We show that they can be rigorously bounded from below by a universal constant times the value given by the semiclassical approximation.

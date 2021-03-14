@@ -1,0 +1,1 @@
+We provide a new algorithm for evaluating the gamma function at any (rational) point and a new infinite product representation free from the presence of Euler and Mascheroni constant.Formulae and inequalities seemingly new are obtained as byproducts of the method.

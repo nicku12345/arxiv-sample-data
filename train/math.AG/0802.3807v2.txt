@@ -1,0 +1,1 @@
+We show that the Hilbert functor of points on an arbitrary separated algebraic stack is an algebraic space. We also show the algebraicity of the Hilbert stack of points on an algebraic stack and the algebraicity of the Weil restriction of an algebraic stack along a finite flat morphism. For the latter two results, no separation assumptions are necessary.

@@ -1,0 +1,1 @@
+In this paper, we present a method that enables to solve in parallel the Euler-Lagrange system associated with the optimal control of a parabolic equation. Our approach is based on an iterative update of a sequence of intermediate targets and gives rise independent sub-problems that can be solved in parallel. Numerical experiments show the efficiency of our method.

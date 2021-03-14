@@ -1,0 +1,1 @@
+In this note we give the definition of the "doubling operation" for simple polytopes, find the formula for the h-polynomial of new polytope.As an application of this operation we establish the relationship between moment-angle manifolds and their real analogues and prove the toral rank conjecture for moment-angle manifolds Z_P.

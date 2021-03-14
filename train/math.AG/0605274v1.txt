@@ -1,0 +1,1 @@
+This paper addresses weak approximation for rationally connected varieties defined over the function field of a curve, especially at places of bad reduction. Our approach entails analyzing the rational connectivity of the smooth locus of singular reductions of the variety. As an application, we prove weak approximation for cubic surfaces with square-free discriminant.

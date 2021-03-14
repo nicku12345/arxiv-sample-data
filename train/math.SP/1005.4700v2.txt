@@ -1,0 +1,1 @@
+Let A be a modular abelian variety of GL2-type over a totally real field F of class number one. Under some mild assumptions, we show that the Mordell-Weil rank of A grows polynomially over Hilbert class fields of CM extensions of F.

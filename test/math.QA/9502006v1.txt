@@ -1,0 +1,1 @@
+Cohomology and deformation theories are developed for Poisson algebras starting with the more general concept of a Leibniz pair, namely of an associative algebra A together with a Lie algebra L mapped into the derivations of A. A bicomplex (with both Hochschild and Chevalley-Eilenberg cohomologies) is essential.

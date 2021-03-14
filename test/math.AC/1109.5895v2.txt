@@ -1,0 +1,1 @@
+We present a method to compute the degrees of the Segre classes of a subscheme of complex projective space. The method is based on generic residuation and intersection theory. It has been implemented using the software system Macaulay2.

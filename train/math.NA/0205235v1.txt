@@ -1,0 +1,1 @@
+We present in this paper a set of routines constructed to compute the rank of a matrix Lie algebra and also to determine a Cartan subalgebra from a given list of elements

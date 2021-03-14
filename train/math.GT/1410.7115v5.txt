@@ -1,0 +1,1 @@
+Thurston's hyperbolization theorem for Haken manifolds and normal surface theory yield an algorithm to determine whether or not a compact orientable 3-manifold with nonempty boundary consisting of tori admits a complete finite-volume hyperbolic metric on its interior.   A conjecture of Gabai, Meyerhoff, and Milley reduces to a computation using this algorithm.

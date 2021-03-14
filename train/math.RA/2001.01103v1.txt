@@ -1,0 +1,1 @@
+We find all explicit involutive solutions X \in \mathbb C^{n \times n} of the Yang-Baxter-like matrix equation AXA=XAX, where A \in \mathbb C^{n \times n} is a given involutory matrix. The construction is algorithmic.

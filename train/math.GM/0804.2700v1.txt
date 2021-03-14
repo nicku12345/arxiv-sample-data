@@ -1,0 +1,1 @@
+A reproducing kernel Hilbert space (RKHS) has four well-known easily derived properties. Since these properties are usually not emphasized as a simple means of gaining insight into RKHS structure, they are singled out and proved in this brief article.

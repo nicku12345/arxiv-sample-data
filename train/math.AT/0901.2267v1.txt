@@ -1,0 +1,1 @@
+We provide examples of homogeneous spaces which are neither symmetric spaces nor real cohomology spheres, yet have the property that every invariant metric is geometrically formal. We also extend the known obstructions to geometric formality to some new classes of homogeneous spaces and of biquotients, and to certain sphere bundles.

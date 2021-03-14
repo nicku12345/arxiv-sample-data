@@ -1,0 +1,1 @@
+We estimate the proportion of several classes of elements in finite classical groups which are readily recognised algorithmically, and for which some power has a large fixed point subspace and acts irreducibly on a complement of it. The estimates are used in complexity analyses of new recognition algorithms for finite classical groups in arbitrary characteristic.

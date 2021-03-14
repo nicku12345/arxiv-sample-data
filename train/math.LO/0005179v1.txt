@@ -1,0 +1,1 @@
+We give an application of our extender based Radin forcing to cardinal arithmetic. Using a preparation forcing and interleaving of Cohen and Levy forcings in the normal Radin sequence we get a model with a power function having a fixed finite gap on all cardinals.

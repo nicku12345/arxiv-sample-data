@@ -1,0 +1,1 @@
+We discuss criteria for a self-adjoint operator on L^2(X) to have empty essential spectrum. We state a general result for the case of a locally compact abelian group X and give examples for X=R^n.

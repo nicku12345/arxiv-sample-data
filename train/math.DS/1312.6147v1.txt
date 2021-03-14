@@ -1,0 +1,1 @@
+The article presents results on existence and uniqueness of mild solutions to a class of non linear neutral stochastic functional differential equations (NSFDEs) driven by Fractional Brownian motion in a Hilbert space with non-Lipschitzian coefficients. The results are obtained by using the method of Picard approximation.

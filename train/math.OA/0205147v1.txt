@@ -1,0 +1,1 @@
+We propose a notion of operator monotonicity for functions of several variables, which extends the well known notion of operator monotonicity for functions of only one variable. The notion is chosen such that a fundamental relationship between operator convexity and operator monotonicity for functions of one variable is extended also to functions of several variables.

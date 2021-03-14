@@ -1,0 +1,1 @@
+We give a generalization of Hochster's formula for local cohomologies of square-free monomial ideals to monomial ideals, which are not necessarily square-free. Using this formula, we give combinatorial characterizations of generalized Cohen-Macaulay monomial ideals. We also give other applications of the generalized Hochster's formula.

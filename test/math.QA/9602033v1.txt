@@ -1,0 +1,1 @@
+We give an asymptotic expansion (the higher Stirling formula) and an infinite product representation (the Weierstrass product formula) of the Vign\'{e}ras multiple gamma function by considering the classical limit of the multiple q-gamma function.

@@ -1,0 +1,1 @@
+A matchstick graph is a graph drawn with straight edges in the plane such that the edges have unit length, and non-adjacent edges do not intersect. We call a matchstick graph (m;n)-regular if every vertex has only degree m or n. In this article the authors present the latest known (4;n)-regular matchstick graphs for 4\leq n\leq11 with a minimum number of vertices.

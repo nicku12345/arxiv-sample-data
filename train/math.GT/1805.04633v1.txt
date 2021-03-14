@@ -1,0 +1,1 @@
+Previously the second author has constructed by cobordism methods, an invariant associated to a finite group G. This invariant approximates the number of subgroups of a group, giving in some cases the number of abelian and cyclic subgroups. Here we explain the formulas used to obtain this invariant and we present values for some families of groups.

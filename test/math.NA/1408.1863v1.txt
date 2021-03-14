@@ -1,0 +1,1 @@
+In this note, we present a general way to construct spectral methods for the collision operator of the Boltzmann equation which preserves exactly the Maxwellian steady-state of the system. We show that the resulting method is able to approximate with spectral accuracy the solution uniformly in time.

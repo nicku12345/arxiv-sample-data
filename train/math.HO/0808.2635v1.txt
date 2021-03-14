@@ -1,0 +1,1 @@
+The linear transformation that sends x^n to the n'th Laguerre polynomial preserves real-rootedness.

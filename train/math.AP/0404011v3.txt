@@ -1,0 +1,1 @@
+We compute explicitely the best constants and, by solving some functional equations, we find all maximizers for homogeneous Strichartz estimates for the Schrodinger equation and for the wave equation in the cases when the Lebesgue exponent is an even integer.

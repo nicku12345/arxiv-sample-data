@@ -1,0 +1,1 @@
+For a recollement (\mathcal{A},\mathcal{B},\mathcal{C}) of abelian categories, we show that torsion pairs in \mathcal{A} and \mathcal{C} can induce torsion pairs in \mathcal{B}; and the converse holds true under certain conditions.

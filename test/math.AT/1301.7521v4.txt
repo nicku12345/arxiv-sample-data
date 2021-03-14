@@ -1,0 +1,1 @@
+We study homology groups of elementary Petri nets for the pipeline systems. We show that the integral homology groups of these nets in dimensions 0 and 1 equal the group of integers, and they are zero in other dimensions. We prove that directed homology groups of elementary Petri nets are zero in all dimensions.

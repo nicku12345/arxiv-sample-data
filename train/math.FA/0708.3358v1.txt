@@ -1,0 +1,1 @@
+In this note, we show that for each minimal norm N(\cdot) on the algebra M_n of all n \times n complex matrices, there exist norms \|\cdot\|_1 and \|\cdot\|_2 on {\mathbb C}^n such that N(A)=\max\{\|Ax\|_2: \|x\|_1=1, x\in {\mathbb C}^n\} for all A \in M_n. This may be regarded as an extension of a known result on characterization of minimal algebra norms.

@@ -1,0 +1,1 @@
+Long-range dependence in time series may yield non-central limit theorems. We show that there are analogous time series in free probability with limits represented by multiple Wigner integrals, where Hermite processes are replaced by non-commutative Tchebycheff processes. This includes the non-commutative fractional Brownian motion and the non-commutative Rosenblatt process.

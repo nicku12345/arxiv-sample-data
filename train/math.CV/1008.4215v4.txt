@@ -1,0 +1,1 @@
+We prove the following generalisation of Bohr theorem : let K\subset\mathbb C a continuum, (F_n)_n its Faber polynomials, \Omega_R=\{\Phi_K<R\}, (R>1) the levels sets of the Green function; then there exists R_0>1 such that for any f=\sum_n a_n F_n\in\mathscr O(\Omega_{R_0}) : f(\Omega_{R_0})\subset D(0,1) implies \sum_n|a_n|\cdot|F_n|_K<1.

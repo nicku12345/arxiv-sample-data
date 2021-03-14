@@ -1,0 +1,1 @@
+We study solutions of uniformly elliptic PDE with Lipschitz leading coefficients and bounded lower order coefficients. We extend previous results of A. Logunov concerning nodal sets of harmonic functions and, in particular, prove polynomial upper bounds on interior nodal sets of Steklov eigenfunctions in terms of the corresponding eigenvalue  \lambda .

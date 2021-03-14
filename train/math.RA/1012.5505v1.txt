@@ -1,0 +1,1 @@
+We calculate the diameters of commuting graphs of matrices over the binary Boolean semiring, the tropical semiring and an arbitrary nonentire commutative semiring. We also find the lower bound for the diameter of the commuting graph of the semiring of matrices over an arbitrary commutative entire antinegative semiring.

@@ -1,0 +1,1 @@
+In the first part, we prove that the dominion (in the sense of Isbell) of a subgroup of a finitely generated nilpotent group is trivial in the category of all nilpotent groups. In the second part, we show that the dominion of a subgroup of a finitely generated nilpotent group of class two is trivial in the category of all metabelian nilpotent groups.

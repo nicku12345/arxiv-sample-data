@@ -1,0 +1,1 @@
+A mixed finite element method for the Navier-Stokes equations is introduced in which the stress is a primary variable. The variational formulation retains the mathematical structure of the Navier-Stokes equations and the classical theory extends naturally to this setting. Finite element spaces satisfying the associated inf-sup conditions are developed.

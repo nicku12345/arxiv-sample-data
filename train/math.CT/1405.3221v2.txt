@@ -1,0 +1,1 @@
+We define the notion of duality categories as generalization of duality groups. Two examples are treated. The first is the Serre duality in the categories of strict polynomial functors. The second concerns finite complexes. We show in particular that finite Tits buildings are duality categories.

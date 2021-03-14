@@ -1,0 +1,1 @@
+We consider orthogonal polynomials on the unit circle with respect to a weight which is a quotient of q-gamma functions. We show that the Verblunsky coefficients of these polynomials satisfy discrete Painlev\'e equations, in a Lax form, which correspond to an A_3^{(1)} surface in Sakai's classification.

@@ -1,0 +1,1 @@
+Euler investigates the Taylorseries of (1+x+xx)^n and uses the results to evaluates some integrals which are today often proved with the calculus of residues.

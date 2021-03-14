@@ -1,0 +1,1 @@
+We classify group gradings on the simple Lie algebra L of type D_4 over an algebraically closed field of characteristic different from 2: fine gradings up to equivalence and G-gradings, with a fixed group G, up to isomorphism. For each G-grading on L, we also study graded L-modules (assuming characteristic 0).

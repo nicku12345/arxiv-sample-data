@@ -1,0 +1,1 @@
+Theorem: The topological partition relation omega^{*}-> (Y)^{1}_{2}   (a) fails for every space Y with |Y| >= 2^c ;   (b) holds for Y discrete if and only if |Y| <= c;   (c) holds for certain non-discrete P-spaces Y ;   (d) fails for Y= omega cup {p} with p in omega^{*} ;   (e) fails for Y infinite and countably compact.

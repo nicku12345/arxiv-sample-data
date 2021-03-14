@@ -1,0 +1,1 @@
+We prove the formula \begin{equation*}   TC(X\vee Y)=\max\{TC(X),TC(Y),cat(X\times Y)\} \end{equation*} for the topological complexity of the wedge X\vee Y.

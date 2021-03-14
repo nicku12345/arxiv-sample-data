@@ -1,0 +1,1 @@
+We prove that the embedding of the derived category of 1-motives into the triangulated category of effective Voevodsky motives, as well as its left adjoint functor LAlb, commute with the Hodge realization.

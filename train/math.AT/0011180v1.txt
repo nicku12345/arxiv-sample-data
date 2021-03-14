@@ -1,0 +1,1 @@
+We relate the brace products of a fibration with section to the differentials in its serre spectral sequence. In the particular case of free loop fibrations, we establish a link between these differentials and browder operations in the fiber. Applications and several calculations (for the particular case of spheres and wedges of spheres) are given.

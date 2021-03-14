@@ -1,0 +1,1 @@
+In this paper we determine a class of critical sets in the abelian {2--group} that may be obtained from a greedy algorithm. These new critical sets are all 2--critical (each entry intersects an intercalate, a trade of size 4) and completes in a top down manner.

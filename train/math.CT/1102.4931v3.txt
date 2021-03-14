@@ -1,0 +1,1 @@
+We show that some recent constructions in the literature, named `weak' generalizations, can be systematically treated by passing from 2-categories to categories enriched in the Cartesian monoidal category of Cauchy complete categories.

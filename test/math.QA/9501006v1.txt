@@ -1,0 +1,1 @@
+The main notions of the quantum groups: coproduct, action and coaction, representation and corepresentation are discussed using simplest examples: GL_q(2), sl_q(2), q-oscillator algebra {\cal A}(q), and reflection equation algebra. The Gauss decompositions of quantum groups and their realizations in terms of\, {\cal A}(q) are given.

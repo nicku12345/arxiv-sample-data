@@ -1,0 +1,1 @@
+Let f\_1,\ldots, f\_s be formal power series (respectively polynomials) in thevariable x. We study the semigroup of orders of the formal series inthe algebra K[[ f1,\ldots, f\_s]] \subseteq K[[ x ]] (respectively the semigroup of degrees of polynomials inK[f\_1,\ldots,f\_s]\subseteq K[x]). We give procedures to compute thesesemigroups and several applications.

@@ -1,0 +1,1 @@
+This paper exhibits a very simple formula for a particular solution of a linear ordinary differential equation with constant real coefficients, P(d/dt)x = f, f a function given by a linear combination of polynomials, trigonometrical and exponential real functions products. This is done by solving lower triangular linear systems with constant coefficients. Two examples are given.

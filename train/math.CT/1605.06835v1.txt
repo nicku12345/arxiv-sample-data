@@ -1,0 +1,1 @@
+We introduce a new higher categorical structure called a weakly globular n-fold category. This structure is based on iterated internal categories and on the notion of weak globularity. We identify a suitable class of pseudo-functors whose strictification produces weakly globular n-fold categories.

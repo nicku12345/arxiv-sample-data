@@ -1,0 +1,1 @@
+We remove the assumption "let p be odd or k totally imaginary" from several well-known theorems in Galois cohomology of number fields. For example, we show that the Galois group of the maximal extension of a number field k which is unramified outside 2 has a finite cohomological 2-dimension (also if k has real places).   (The dvi-file requires the xypic-package)

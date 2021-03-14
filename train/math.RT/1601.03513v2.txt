@@ -1,0 +1,1 @@
+We show that the left and right adjoint of the Schur functor can be expressed in terms of the monoidal structure of strict polynomial functors. Using this result we give a necessary and sufficient condition for when the tensor product of two simple strict polynomial functors is again simple.

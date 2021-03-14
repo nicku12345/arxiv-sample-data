@@ -1,0 +1,1 @@
+We study points of density 1/2 of sets of finite perimeter in infinite-dimensional Gaussian spaces and prove that, as in the finite-dimensional theory, the surface measure is concentrated on this class of points. Here density 1/2 is formulated in terms of the pointwise behaviour of the Ornstein-Uhlembeck semigroup.

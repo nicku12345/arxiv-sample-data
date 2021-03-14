@@ -1,0 +1,1 @@
+We consider a parabolic equation of the form u_t=\Delta u +f(u)+h(x,t) in R^N\times (0,\infty), where f in C^1(R) is such that f(0)=0 and f'(0)<0 and h is a suitable function on R^N\times (0,\infty). We show that under certain conditions, each globally defined and nonnegative bounded solution u converges to a single steady state.

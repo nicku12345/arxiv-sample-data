@@ -1,0 +1,1 @@
+In this paper we show that a simplicial complex can be determined uniquely up to isomorphism by its barycentric subdivision or comparability graph. At the end, it is summarized several algebraic, combinatorial and topological invariants of simplicial complexes.

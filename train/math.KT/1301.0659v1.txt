@@ -1,0 +1,1 @@
+In this paper, we compute the Leibniz (co)homology of the affine indefinite orthogonal Lie algebra. This calculation generalizes a result \cite[corollary 4.5]{JL} obtained by Jerry Lodder. We construct several indefinite orthogonal invariants in terms of balanced tensors and provide the Leibniz homology in terms of these invariants.

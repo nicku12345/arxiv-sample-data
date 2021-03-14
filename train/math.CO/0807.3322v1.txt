@@ -1,0 +1,1 @@
+We prove that a sequence is primitive substitutive if and only if the set of its derived sequences is finite; we defined these sequences here.

@@ -1,0 +1,1 @@
+We construct a C^1 symplectic twist map f of the annulus that has an essential invariant curve C such that: --C is not differentiable; -- the dynamic of f restricted to C is conjugated to the one of a Denjoy counter-example.

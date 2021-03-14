@@ -1,0 +1,1 @@
+Let \varphi be a linear fractional self-map of the open unit disk \mathbb{D} and H^2 the Hardy space of analytic functions on \mathbb{D}. The goal of this article is to characterize the linear fractional composition operators C_\varphi f=f\circ\varphi on H^2 that are complex symmetric.

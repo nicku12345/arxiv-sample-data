@@ -1,0 +1,1 @@
+We present two simple finite element methods for the discretization of Reissner--Mindlin plate equations with {\em clamped} boundary condition. These finite element methods are based on discrete Lagrange multiplier spaces from mortar finite element techniques. We prove optimal a priori error estimates for both methods.

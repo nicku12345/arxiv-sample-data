@@ -1,0 +1,1 @@
+We present a detailed proof of the Dovbysh-Sudakov representation for symmetric positive definite weakly exchangeable infinite random arrays, called Gram-de Finetti matrices, which is based on the representation result of Aldous and Hoover for arbitrary (not necessarily positive definite) symmetric weakly exchangeable arrays.

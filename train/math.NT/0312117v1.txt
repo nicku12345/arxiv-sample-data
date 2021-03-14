@@ -1,0 +1,1 @@
+An overview of results and problems concerning the asymptotic formula for \int_0^T|\zeta(1/2+it)|^4dt is given, together with a discussion of modern methods from spectral theory used in recent work on this subject.

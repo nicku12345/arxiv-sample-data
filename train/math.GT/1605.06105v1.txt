@@ -1,0 +1,1 @@
+We use the Grauert--Grothendieck complex on differentiable spaces to study basic relative forms on the inertia space of a compact Lie group action on a manifold. We prove that the sheaf complex of basic relative forms on the inertia space is a fine resolution of Bryliski's sheaf of functions on the inertia space.

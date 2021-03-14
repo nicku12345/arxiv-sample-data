@@ -1,0 +1,1 @@
+A class of C*-algebras is described for which the homomorphism from C_0(0,1] to the algebra may be classified by means of the Cuntz semigroup functor. Examples are given of algebras--simple and non-simple--for which this classification fails. It is shown that a suitable suspension of the Cuntz semigroup functor deals successfully with some of these counterexamples.

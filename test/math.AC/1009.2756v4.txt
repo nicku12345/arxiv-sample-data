@@ -1,0 +1,1 @@
+We show that the co-chordal cover number of a graph G gives an upper bound for the Castelnuovo-Mumford regularity of the associated edge ideal. Several known combinatorial upper bounds of regularity for edge ideals are then easy consequences of covering results from graph theory, and we derive new upper bounds by looking at additional covering results.

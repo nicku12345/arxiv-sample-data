@@ -1,0 +1,1 @@
+We proved that any even number not less than 6 can be expressed as the sum of two old primes, 2n=p_i+p_j

@@ -1,0 +1,1 @@
+We investigate the Galois group G_S(p) of the maximal p-extension unramified outside a finite S of primes of a number field in the (tame) case, when no prime dividing p is in S. We show that the cohomology of G_S(p) is 'often' isomorphic to the etale cohomology of the scheme \Spec(\O_k \sm S), in particular, G_S(p) is of cohomological dimension~2 then.

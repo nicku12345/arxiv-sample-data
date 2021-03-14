@@ -1,0 +1,1 @@
+The FN method is an accurate and efficient numerical method for the one-dimensional radiative transport equation. In this paper the FN method is extended to three dimensions using rotated reference frames. To demonstrate the method, the exiting flux from structured illumination reflected by a medium occupying the half space is calculated.

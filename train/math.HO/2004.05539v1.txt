@@ -1,0 +1,1 @@
+We propose a new approach to solve the classical Monty Hall problem in its general form. The solution is based on basic tools of probability theory, by defining three elementary events which decompose the sample space into a partition. The probabilities of each element of the partition allow us to compute the conditional and marginal probabilities of winning.

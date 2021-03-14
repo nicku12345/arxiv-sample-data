@@ -1,0 +1,1 @@
+In this note, we show that the strong Viterbo conjecture holds true on any convex toric domain, and that the Viterbo's volume-capacity conjecture holds for the product of a 1-unconditional convex body A\subset\mathbb{R}^{n} and its polar. We also give a direct calculus proof of the symmetric Mahler conjecture for l_p-balls.

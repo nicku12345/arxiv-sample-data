@@ -1,0 +1,1 @@
+We consider the system of N (\ge 2) elastically colliding hard balls with masses m_1,..., m_N, radius r, moving uniformly in the flat torus T_L^{\nu}= R^\nu/L \cdot Z^\nu, \nu \ge 2. It is proved here that the relevant Lyapunov exponents of the flow do not vanish for almost every (N+1)-tuple (m_1,...,m_N;L) of the outer geometric parameters.

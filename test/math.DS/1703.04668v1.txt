@@ -1,0 +1,1 @@
+We show the existence of computable complex numbers \lambda for which the bifurcation locus of the one parameter complex family f_{b}(z) = \lambda z + b z^{2} + z^{3} is not Turing computable.

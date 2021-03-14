@@ -1,0 +1,1 @@
+Starting from a supercompact cardinal we build a model in which 2^{\aleph_{\omega_1}}=2^{\aleph_{\omega_1+1}}=\aleph_{\omega_1+3} but there is a jointly universal family of size \aleph_{\omega_1+2} of graphs on \aleph_{\omega_1+1}. The same technique will work for any uncountable cardinal in place of \omega_1.

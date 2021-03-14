@@ -1,0 +1,1 @@
+Let X be a complex projective manifold and f a dominating rational map from X onto X. We show that the topological entropy h(f) of f is bounded from above by the logarithm of its maximal dynamical degree.

@@ -1,0 +1,1 @@
+This note is written to show that the definition of the {\cal L}{\cal A}-hypergroupoids in [5] should be corrected and that it is not enough to replace the multiplication "\cdot" of an {\cal L}{\cal A}-groupoid by the hyperoperation "\circ" to pass from an {\cal L}{\cal A}-groupoid to an {\cal L}{\cal A}-hypergroupoid.

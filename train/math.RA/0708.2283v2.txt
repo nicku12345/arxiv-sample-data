@@ -1,0 +1,1 @@
+Let R be a ring and S=R[x;\sigma,\delta] its Ore extension. We prove under some conditions that R is a quasi-Baer ring if and only if the Ore extension R[x;\sigma,\delta] is a quasi-Baer ring. Examples are provided to illustrate and delimit our results.

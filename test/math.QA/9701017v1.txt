@@ -1,0 +1,1 @@
+This paper extends Kontsevich's ideas on quantizing Poisson manifolds. A new differential is added to the Hodge decomposition of the Hochschild complex, so that it becomes a bicomplex, even more similar to the classical Hodge theory for complex manifolds.

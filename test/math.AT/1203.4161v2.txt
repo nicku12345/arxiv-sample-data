@@ -1,0 +1,1 @@
+In this paper we prove a stability theorem for block diffeomorphisms of 2d-dimensional manifolds that are connected sums of S^d x S^d. Combining this with a recent theorem of S. Galatius and O. Randal-Williams and Morlet's lemma of disjunction, we determine the homology of the classifying space of their diffeomorphism groups relative to an embedded disk in a stable range.

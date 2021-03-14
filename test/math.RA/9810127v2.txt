@@ -1,0 +1,1 @@
+We present a variation and generalization of a determinant evaluation of Wilf (math.CO/9809120). His result concerns a matrix whose entries are the coefficients of powers of a given power series; we replace the powers by repeated compositions and obtain similar results.

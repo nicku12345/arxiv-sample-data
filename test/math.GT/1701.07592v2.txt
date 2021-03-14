@@ -1,0 +1,1 @@
+We compute the group \mathcal{C}(\mathbb{C}\textbf{P}^m) of concordance classes of smoothings of complex projective space \mathbb{C}\textbf{P}^m for m=5,6,7,8. As an application, for m=7, 8, we compute the smooth tangential homotopy structure set of \mathbb{C}\textbf{P}^m and also determine the number of smooth structures on \mathbb{C}\textbf{P}^m with fixed Pontryagin classes.

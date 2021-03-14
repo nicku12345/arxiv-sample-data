@@ -1,0 +1,1 @@
+We determine the submodule of finite support of the tensor product of two modules M and N over a local ring and estimate its length in terms of M and N. Also, we compute higher local cohomology modules of tensor products in a serial of nontrivial cases. As applications, we compute the depth of tensor powers and present some freeness criteria.

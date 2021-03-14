@@ -1,0 +1,1 @@
+We use an Ulam-type discretization scheme to provide pointwise approximations for invariant densities of interval maps with a neutral fixed point. We prove that the approximate invariant density converges pointwise to the true density at a rate C^*\cdot\frac{\ln m}{m}, where C^* is a computable fixed constant and m^{-1} is the mesh size of the discretization.

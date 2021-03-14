@@ -1,0 +1,1 @@
+We describe a new class of scattering matrices for quantum graphs in which back-scattering is prohibited. We discuss some properties of quantum graphs with these scattering matrices and explain the advantages and interest in their study. We also provide two methods to build the vertex scattering matrices needed for their construction.

@@ -1,0 +1,1 @@
+General birth-and-death as well as hopping stochastic dynamics of infinite particle systems in the continuum are considered. We derive corresponding evolution equations for correlation functions and generating functionals. General considerations are illustrated in a number of concrete examples of Markov evolutions appearing in applications.

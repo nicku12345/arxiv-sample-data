@@ -1,0 +1,1 @@
+In this paper I prove existence of an irreducible pair of operators H and H+V, where H is a self-adjoint operator and V is a self-adjoint trace-class operator, such that the singular spectral shift function of the pair is non-zero on the absolutely continuous spectrum of the operator H.

@@ -1,0 +1,1 @@
+We establish a criterion for deciding whether a class of structures is the class of models of a geometric theory inside Grothendieck toposes; then we specialize this result to obtain a characterization of the infinitary first-order theories which are geometric in terms of their models in Grothendieck toposes, solving a problem posed by Ieke Moerdijk in 1989.

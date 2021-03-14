@@ -1,0 +1,1 @@
+We extend Kaprekar's Routine for a large class of applications. We also give particular examples of this generalization as alternatives to Kaprekar's Routine and Number. Some open questions about the length of the iterations until reaching either zero or a constant or a cycle, and about the length of the cycles are asked at the end.

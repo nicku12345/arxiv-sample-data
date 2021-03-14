@@ -1,0 +1,1 @@
+In this note we consider multiples aD, where D is a divisor of the blow-up of P^n along points in general position which appears in the Alexander and Hirschowitz list of Veronese embeddings having defective secant varieties. In particular we show that there is such a D with h^1(X,D) > 0 and h^1(X,2D) = 0.

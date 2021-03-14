@@ -1,0 +1,1 @@
+Compact packings are specific packings of spheres which can be seen as tilings and are good candidates to maximize the density. We show that the compact packings of the Euclidean space with two sizes of spheres are exactly those obtained by filling with smaller spheres the octahedral holes of a close-packing of equal spheres.

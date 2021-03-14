@@ -1,0 +1,1 @@
+It is well known that the Burau representation of the braid group can be used to recover the Alexander polynomial of the closure of a braid. We define L^2-Burau maps and use them to compute some L^2-Alexander torsions of links. As an application, we prove that the L^2-Burau maps distinguish more braids than the Burau representation.

@@ -1,0 +1,1 @@
+For the complement of a hyperplane arrangement we construct a dual homology basis to the no broken circuit basis of cohomology. This is based on the theory of wonderful embeddings and nested sets.

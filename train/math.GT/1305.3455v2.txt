@@ -1,0 +1,1 @@
+Let u(K) and g(K) denote the unknotting number and the genus of a knot K, respectively. For a 3-braid knot K, we show that u(K)\le g(K) holds, and that if u(K)=g(K) then K is either a 2-braid knot, a connected sum of two 2-braid knots, the figure-eight knot, a strongly quasipositive knot or its mirror image.

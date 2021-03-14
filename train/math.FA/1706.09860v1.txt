@@ -1,0 +1,1 @@
+It is proved that for any Dunford-Schwartz operator T acting in the space l_\infty and for each x\in c_0  there exists an element \widehat x \in c_0  such that \| \frac 1n \sum_{k=0}^{n-1}T^k(x) - \widehat x \|_\infty \to 0.

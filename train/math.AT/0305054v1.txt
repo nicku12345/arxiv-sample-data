@@ -1,0 +1,1 @@
+Algorithm of construction of all knots, links with given number of crosses on diagram of knot, link is offered. This algorithm is based on simple proposition, that there is a representation of knot (link) as closure of braid with n threads and length of this braid does not exceed n(4n-5)+2.

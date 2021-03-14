@@ -1,0 +1,1 @@
+We show that Selberg's eigenvalue conjecture concerning small eigenvalues of the automorphic Laplacian for congruence groups is equivalent to a conjecture about the non-existence of residual eigenvalues for a perturbed system. We prove this using a combination of methods from asymptotic perturbation theory and number theory.

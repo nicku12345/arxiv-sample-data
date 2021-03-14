@@ -1,0 +1,1 @@
+In this paper, we consider the problem of distributed optimal control of linear dynamical systems with a quadratic cost criterion. We study the case of output feedback control for two interconnected dynamical systems, and show that the linear optimal solution can be obtained from a combination of two uncoupled Riccati equations and two coupled Riccati equations.

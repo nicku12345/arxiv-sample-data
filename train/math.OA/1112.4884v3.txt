@@ -1,0 +1,1 @@
+We show that L^\infty(\mu), in its capacity as multiplication operators on L^p(\mu), is minimal as a p-operator space for a decomposable measure \mu. We conclude that L^1(\mu) has a certain maximal type p-operator space structure which facilitates computations with L^1(\mu) and the projective tensor product.

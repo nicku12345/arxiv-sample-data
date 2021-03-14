@@ -1,0 +1,1 @@
+We give sufficient conditions under which the convergence of finite difference approximations in the space variable of the solution to the Cauchy problem for linear stochastic PDEs of parabolic type can be accelerated to any given order of convergence by Richardson's method.

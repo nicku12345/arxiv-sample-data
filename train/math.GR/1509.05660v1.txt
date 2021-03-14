@@ -1,0 +1,1 @@
+Suppose that all groups of order n are defined on the same set G of cardinality n, and let the \emph{distance} of two groups of order n be the number of pairs (a,b)\in G\times G where the two group operations differ. Given a group G(\circ) of order n, we find all groups of order n, up to isomorphism, that are closest to G(\circ).

@@ -1,0 +1,1 @@
+In this paper we investigate the existence of closed billiard trajectories in not necessarily smooth convex bodies. In particular, we show that if a body K\subset \mathbb{R}^d has the property that the tangent cone of every non-smooth point q\in \partial K is acute (in a certain sense) then there is a closed billiard trajectory in K.

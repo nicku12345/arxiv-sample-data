@@ -1,0 +1,1 @@
+We establish the stability of higher-order linear non-homogeneous Cauchy-Euler dynamic equations on time scales in the sense of Hyers and Ulam. That is, if an approximate solution of a higher-order Cauchy-Euler equation exists, then there exists an exact solution to that dynamic equation that is close to the approximate one.

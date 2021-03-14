@@ -1,0 +1,1 @@
+We show that a fractal cube F in \mathbb R^3 may have an uncountable set Q of connected components K_\alpha neither of which is contained in any plane, whereas the set Q is a totally disconnected self-similar subset of the hyperspace C(\mathbb R^3), isomorphic to a Cantor set.

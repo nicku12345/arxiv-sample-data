@@ -1,0 +1,1 @@
+By using an explicit ordinary differential equation to approximate the exponential solution flow, we extend the universal limit theorem to rough differential equation in Banach space driven by weak geometric rough path, and give the quantitative dependence of solution in term of the initial value, vector field and driving rough path.

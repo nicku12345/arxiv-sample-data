@@ -1,0 +1,1 @@
+In this paper we establish a Floer-theoretical analog of the classical Gysin long exact sequence from algebraic topology for circle bundles. We study algebraic and functorial properties of this sequence and derive applications to computations of Lagrangian Floer homologies as well as to questions on the topology of Lagrangian submanifolds.

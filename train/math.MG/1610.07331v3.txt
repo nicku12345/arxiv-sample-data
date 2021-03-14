@@ -1,0 +1,1 @@
+We provide partial answers to the open problems 4.5, 4.6 of \cite{Gardner} and 12.9 of \cite{Lut1} regarding the classification of fixed points of the second mixed projection operator and iterates of the projection and centroid operators.

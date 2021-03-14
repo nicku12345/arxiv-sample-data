@@ -1,0 +1,1 @@
+We describe the semisimplification of the monoidal category of tilting modules for the algebraic group GL_n in characteristic p > 0. In particular, we compute the dimensions of the indecomposable tilting modules modulo p.

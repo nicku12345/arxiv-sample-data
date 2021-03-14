@@ -1,0 +1,1 @@
+In this work we show how auxiliary variables can be used to give an efficient method involving symbolic manipulation and Picard iteration for approximating solutions of certain Volterra integral equations.

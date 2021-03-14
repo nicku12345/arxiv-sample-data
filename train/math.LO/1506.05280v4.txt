@@ -1,0 +1,1 @@
+In this note we give a wellfoundedness proof of a computable notation system for first-order reflection.

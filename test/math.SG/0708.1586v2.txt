@@ -1,0 +1,1 @@
+We introduce the concepts of a multisymplectic structure and a polysymplectic structure on a general fiber bundle over a general base manifold, define the concept of the symbol of a multisymplectic form, which is a polysymplectic form representing its leading order contribution, and prove Darboux theorems for the existence of canonical local coordinates.

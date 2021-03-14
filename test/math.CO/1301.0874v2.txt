@@ -1,0 +1,1 @@
+We describe the combinatorics that arise in summing a double recursion formula for the enumeration of connected Feynman graphs in quantum field theory. In one index the problem is more tractable and yields concise formulas which are combinatorially interesting on their own. In the other index, one of these sums is Sloane's sequence A001865.

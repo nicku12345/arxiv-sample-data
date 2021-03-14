@@ -1,0 +1,1 @@
+In this note, a classification of Homogenization-Based Numerical Methods and (in particular) of Numerical Methods that are based on the Two-Scale Convergence is done. In this classification stand: Direct Homogenization-Based Numerical Methods; H-Measure-Based Numerical Methods; Two-Scale Numerical Methods and TSAPS: Two-Scale Asymptotic Preserving Schemes.

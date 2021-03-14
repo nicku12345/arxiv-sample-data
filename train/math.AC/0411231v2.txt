@@ -1,0 +1,1 @@
+In this note we supply an elementary proof of the following well-known theorem of R. Stanley: the h-vectors of Gorenstein algebras of codimension 3 are SI-sequences, i.e. are symmetric and the first difference of their first half is an O-sequence.

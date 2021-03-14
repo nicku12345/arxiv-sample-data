@@ -1,0 +1,1 @@
+We prove that a pair of proximal Klee-Phelps convex groupoids A(\circ),B(\circ) in a finite-dimensional normed linear space E are normed proximal, {\em i.e.}, A(\circ)\ \delta\ B(\circ) if and only if the groupoids are normed proximal. In addition, we prove that the groupoid neighbourhood N_z(\circ)\subseteq S_z(\circ) is convex in E if and only if N_z(\circ) = S_z(\circ).

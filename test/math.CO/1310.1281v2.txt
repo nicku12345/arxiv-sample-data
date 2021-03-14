@@ -1,0 +1,1 @@
+Placement games are a subclass of combinatorial games which are played on graphs. We will demonstrate that one can construct simplicial complexes corresponding to a placement game, and this game could be considered as a game played on these simplicial complexes. These complexes are constructed using square-free monomials.

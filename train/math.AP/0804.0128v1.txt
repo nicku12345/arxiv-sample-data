@@ -1,0 +1,1 @@
+We classify nonconstant entire local minimizers of the standard Ginzburg-Landau functional for maps in H^{1}_{loc}(R^3;R^3) satisfying a natural energy bound. Up to translations and rotations, such solutions of the Ginzburg-Landau system are given by an explicit solution equivariant under the action of the orthogonal group.

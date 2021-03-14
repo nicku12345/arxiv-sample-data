@@ -1,0 +1,1 @@
+Given a Schubert variety X_w, we exhibit a divisor \Delta, defined over the integers, such that the pair (X_w,\Delta) is log Fano in all characteristics.

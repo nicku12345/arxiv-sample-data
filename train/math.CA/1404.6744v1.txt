@@ -1,0 +1,1 @@
+We prove an inequality on positive real numbers, that looks like a reverse to the well-known Hilbert inequality, and we use some unusual techniques from Fourier analysis to prove that this inequality is optimal.

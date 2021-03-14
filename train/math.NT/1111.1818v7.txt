@@ -1,0 +1,1 @@
+We refine and extend previous constructions of p-adic L-functions for Rankin-Selberg convolutions on \GL(n)\times\GL(n-1) for regular algebraic representations over totally real fields. We also prove an intrinsic functional equation for this p-adic L-function, which will be of interest in further study of its arithmetic properties.

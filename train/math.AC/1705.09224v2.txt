@@ -1,0 +1,1 @@
+We count the number of submodules of an arbitrary module over a countable noetherian commutative ring. We give, along the way, a structural description of meager modules, which are defined as those that do not have the square of a simple module as subquotient. We deduce in particular a characterization of uniserial modules over commutative noetherian rings.

@@ -1,0 +1,1 @@
+Given Z-graded rings A and B, we study when the categories gr-A and gr-B are equivalent. We relate the Morita-type results of Ahn-Marki and del Rio to the twisting systems introduced by Zhang. Using Z-algebras, we obtain a simple proof of Zhang's main result. This makes the definition of a Zhang twist extremely natural and extends Zhang's results.

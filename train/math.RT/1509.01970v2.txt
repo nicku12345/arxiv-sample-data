@@ -1,0 +1,1 @@
+For every irreducible Harish-Chandra module of O^{*}(4), we determine its theta lift to Sp(p,q) in terms of the Langlands parameter, for all non-negative integers p and q. Our strategy is to determine the desired theta lifts by their infinitesimal characters and lowest K-types.

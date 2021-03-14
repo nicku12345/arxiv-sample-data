@@ -1,0 +1,1 @@
+We characterize stable T for which the model completion of T_{aut} is stable (i.e., every completion is). Then we prove that ``some completion is stable'' is different and we characterize it. Finally we show that if T is stable, T_{aut} has a model completion, T_* is an unstable complete of T^{mc}_{aut}, then T_* satisfies NSOP_3. Moreover, simplicity is preserved.

@@ -1,0 +1,1 @@
+We consider the hypercube in \mathbb R^n, and show that its quantum symmetry group is a q-deformation of O_n at q=-1. Then we consider the graph formed by n segments, and show that its quantum symmetry group is free in some natural sense. This latter quantum group, denoted H_n^+, enlarges Wang's series S_n^+,O_n^+,U_n^+.

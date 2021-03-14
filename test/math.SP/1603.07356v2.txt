@@ -1,0 +1,1 @@
+We describe some basic tools in the spectral theory of Schr\"odinger operator on metric graphs (also known as "quantum graph") by studying in detail some basic examples. The exposition is kept as elementary and accessible as possible. In the later sections we apply these tools to prove some results on the count of zeros of the eigenfunctions of quantum graphs.

@@ -1,0 +1,1 @@
+If \Gamma is a string C-group which is isomorphic to a transitive subgroup of the symmetric group Sym(n) (other than Sym(n) and the alternating group Alt(n)), then the rank of \Gamma is at most n/2+1, with finitely many exceptions (which are classified). It is conjectured that only the symmetric group has to be excluded.

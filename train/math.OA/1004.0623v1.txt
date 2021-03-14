@@ -1,0 +1,1 @@
+We show that if two tensor algebras of topological graphs are algebraically isomorphic, then the graphs are locally conjugate. Conversely, if the base space is at most one dimensional and the edge space is compact, then locally conjugate topological graphs yield completely isometrically isomorphic tensor algebras.

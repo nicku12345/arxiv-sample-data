@@ -1,0 +1,1 @@
+We propose a new estimator of a discrete monotone probability mass function with known flat regions. We analyse its asymptotic properties and compare its performance to the Grenander estimator and to the monotone rearrangement estimator.

@@ -1,0 +1,1 @@
+Complete solutions of functional identities \sum_{k\in K}F_k(\bar{x}_m^k)x_k = \sum_{l\in L}x_lG_l(\bar{x}_m^l) on the matrix algebra M_n(\mathbb{F}) are given. The nonstandard parts of these solutions turn out to follow from the Cayley-Hamilton identity.

@@ -1,0 +1,1 @@
+It is well known that Universal Cycles of k-letter words on an n-letter alphabet exist for all k and n. In this paper, we prove that Universal Cycles exist for restricted classes of words, including: non-bijections, equitable words (under suitable restrictions), ranked permutations, and "passwords".

@@ -1,0 +1,1 @@
+The Heesch problem 'grades' polygons that fail to tile the plane in terms of the number of layers (or corollas) of copies of it that can be formed around a central unit. We study the different topology of ' walls', which we define to be simply connected regions that divide the plane exactly into two simply connected regions. We present preliminary results and conjectures.

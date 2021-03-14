@@ -1,0 +1,1 @@
+A family of orthonormal polynomials on the unit ball B^d of \RR^d with respect to the inner product    < f,g >   = \int_{B^d}\Delta[(1-\|x\|^2) f(x)] \Delta[(1-\|x\|) g(x)] dx,  where \Delta is the Laplace operator, is constructed explicitly.

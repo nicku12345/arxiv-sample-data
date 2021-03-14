@@ -1,0 +1,1 @@
+Various concerns suggest looking for internal co-categories in categories with strong logical structure. It turns out that in any coherent category, all co-categories are co-equivalence relations.

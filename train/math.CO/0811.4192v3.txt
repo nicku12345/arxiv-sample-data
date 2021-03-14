@@ -1,0 +1,1 @@
+As we go along with a bioinformatic analysis we stumbled over a new combinatorial question. Although the problem is a very special one, there are maybe more applications than only this one we have. This text is mainly about the general combinatorial problem, the exact solution and its derivation. An outline of a real problem of this type is in the discussion.

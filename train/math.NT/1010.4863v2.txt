@@ -1,0 +1,1 @@
+We introduced a new continued fraction expansions in our previous paper. For these expansions, we show formulae of probability about incomplete quotients. Furthermore, we prove the existence of invariant measures with respect to the continued fraction transformations associated with expansions.

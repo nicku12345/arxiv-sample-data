@@ -1,0 +1,1 @@
+We discuss some properties of conditional expectation operators, and use these facts to prove an interesting counterexample regarding sufficient statistics. In particular, we show that there exists sufficient random variables X and Y, such that (X, Y) are jointly not sufficient. We follow the work of Burkholder and Chow, presenting complete proofs and supplying missing steps.

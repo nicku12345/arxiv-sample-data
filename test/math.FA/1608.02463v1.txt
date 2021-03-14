@@ -1,0 +1,1 @@
+We describe operators driving the time evolution of singular diffusion on finite graphs whose vertices are allowed to carry masses. The operators are defined by the method of quadratic forms on suitable Hilbert spaces. The model also covers quantum graphs and discrete Laplace operators.

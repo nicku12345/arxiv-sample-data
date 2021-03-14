@@ -1,0 +1,1 @@
+Let G be the space of generating functions of a periodic infinite order linear recurrence. In this paper we provide an explicit procedure for computing a basis of G.

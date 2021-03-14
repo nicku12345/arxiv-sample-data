@@ -1,0 +1,1 @@
+We consider an optimal control problem governed by an ODE with memory playing the role of a control. We show the existence of an optimal solution and derive some necessary optimality conditions. Some examples are then discussed.

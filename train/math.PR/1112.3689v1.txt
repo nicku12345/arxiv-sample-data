@@ -1,0 +1,1 @@
+We prove a monotonicity condition satisfied by the Erlang C formula when computed in the Halfin-Whitt regime. This property was recently conjectured in Janssen et al. [2011].

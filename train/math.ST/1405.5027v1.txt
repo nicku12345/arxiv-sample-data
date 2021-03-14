@@ -1,0 +1,1 @@
+We examine the efficiency of the mean deviation and Gini's mean difference (the mean of all pairwise distances). Our findings support the viewpoint that Gini's mean difference combines the advantages of the mean deviation and the standard deviation.

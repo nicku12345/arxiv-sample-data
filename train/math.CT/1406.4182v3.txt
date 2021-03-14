@@ -1,0 +1,1 @@
+In this paper we complete a chain of explicit Quillen equivalences between the model category for \Theta_{n+1}-spaces and the model category of small categories enriched in \Theta_n-spaces. The Quillen equivalences given here connect Segal category objects in \Theta_n-spaces, complete Segal objects in \Theta_n-spaces, and \Theta_{n+1}-spaces.

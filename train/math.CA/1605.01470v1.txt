@@ -1,0 +1,1 @@
+Cantor's ternary function is generalized to arbitrary base-change functions in non-integer bases. Some of them share the curious properties of Cantor's function, while others behave quite differently.

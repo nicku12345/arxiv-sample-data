@@ -1,0 +1,1 @@
+Let (A_0,A_1) be a compatible couple of Banach spaces in the interpolation theory sense. We give a formula for the K_t-functional of the interpolation couples (l_1(A_0),c_0(A_1)) or (l_1(A_0),l_infinity(A_1)) and (L_1(A_0),L_infinity(A_1)).

@@ -1,0 +1,1 @@
+We prove a weak-L^p bound for the Walsh-Carleson operator for p  near 1, improving on a theorem of Sjolin. We relate our result to the conjectures that the Walsh-Fourier and Fourier series of a function f\in L\log L(\mathbb T) converge for almost every x \in \mathbb T.

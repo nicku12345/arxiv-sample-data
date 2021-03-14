@@ -1,0 +1,1 @@
+We give a short tour through major parts of a recent long paper [IKR1] on supertropical valuation theory, leaving aside nearly all proofs (to be found in [IKR1]). In this way we hope to give easy access to ideas of a new branch of so called "supertropical algebra".

@@ -1,0 +1,1 @@
+We show that if M is a surface bundle over S^1 with fiber of genus 2, then for any integer n, M has a finite cover tilde(M) with b_1(tilde(M)) > n. A corollary is that M can be geometrized using only the `non-fiber' case of Thurston's Geometrization Theorem for Haken manifolds.

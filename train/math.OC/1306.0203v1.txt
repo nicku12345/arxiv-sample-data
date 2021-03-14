@@ -1,0 +1,1 @@
+We review recent results obtained to solve fractional order optimal control problems with free terminal time and a dynamic constraint involving integer and fractional order derivatives. Some particular cases are studied in detail. A numerical scheme is given, based on expansion formulas for the fractional derivative. The efficiency of the method is illustrated through examples.

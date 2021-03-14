@@ -1,0 +1,1 @@
+Given C^2 infinitely renormalizable unimodal maps f and g with a quadratic critical point and the same bounded combinatorial type, we prove that they are C^{1+\alpha} conjugate along the closure of the corresponding forward orbits of the critical points, for some \alpha>0.

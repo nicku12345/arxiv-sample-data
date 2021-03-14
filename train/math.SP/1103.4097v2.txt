@@ -1,0 +1,1 @@
+We calculate the spectrum and a basis of eigenvectors for the Spin Dirac operator over the standard 3-sphere. For the spectrum, we use the method of Hitchin which we transfer to quaternions and explain in more detail. The eigenbasis (in terms of polynomials) will be computed by means of representations of sl(2,C).

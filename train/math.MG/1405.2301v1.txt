@@ -1,0 +1,1 @@
+We present a new semidefinite Farkas lemma involving a side constraint on the rank. This lemma is then used to present a new proof of a recent characterization, by Connelly and Gortler, of dimensional rigidity of bar frameworks.

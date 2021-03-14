@@ -1,0 +1,1 @@
+This article gives the foundations of the colored Jones polynomial for singular knots. We extend Masbum and Vogel's algorithm to compute the colored Jones polynomial for any singular knot. We also introduce the tail of the colored Jones polynomial of singular knots and use its stability properties to prove a false theta function identity that goes back to Ramanujan.

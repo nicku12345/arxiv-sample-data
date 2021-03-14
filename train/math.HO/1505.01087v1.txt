@@ -1,0 +1,1 @@
+Poly-infix operators and operator families are introduced as an alternative for working modulo associativity and the corresponding bracket deletion convention. Poly-infix operators represent the basic intuition of repetitively connecting an ordered sequence of entities with the same connecting primitive.

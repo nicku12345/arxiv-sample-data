@@ -1,0 +1,1 @@
+We show that any eight-dimensional oriented manifold M possessing smooth circle action with exactly three fixed points has the same weight system as some circle action on \mathbb HP^2. It follows that Pontryagin numbers and equivariant cohomology of M coincide to that of \mathbb HP^2; if M admits cellular decomposition of only three cells, it is diffeomorphic to \mathbb HP^2.

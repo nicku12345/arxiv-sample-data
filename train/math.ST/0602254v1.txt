@@ -1,0 +1,1 @@
+We construct empirical Bayes estimators for the reproduction parameter of Borel-Tanner distribution assuming LINEX loss and prove their asymptotic optimality. Some properties of the estimators regret risk are illustrated through simulations.

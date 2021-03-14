@@ -1,0 +1,1 @@
+Let K be a finite dimensional compact metric space and K^\mathbb{Z} the full shift on the alphabet K. We prove that its mean dimension is given by \dim K or \dim K-1 depending on the "type" of K. We propose a problem which seems interesting from the view point of infinite dimensional topology.

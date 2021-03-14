@@ -1,0 +1,1 @@
+We exhibit three classes of compactly supported functions which provide reproducing kernels for the Sobolev spaces H^\delta(\R^d) of arbitrary order \,\delta>d/2.\, Our method of construction is based on a new class of oscillatory integral transforms that incorporate radial Fourier transforms and Hankel transforms.

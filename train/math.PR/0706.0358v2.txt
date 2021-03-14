@@ -1,0 +1,1 @@
+It has hitherto been known that in a transitive unimodular graph, each tree in the wired spanning forest has only one end a.s. We dispense with the assumptions of transitivity and unimodularity, replacing them with a much broader condition on the isoperimetric profile that requires just slightly more than uniform transience.

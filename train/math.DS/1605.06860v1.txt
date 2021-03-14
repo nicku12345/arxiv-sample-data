@@ -1,0 +1,1 @@
+This paper deals whith the stabilization of any UPO of a chaotic map by modulation of a control parameter. It concentrates on proportional and delayed feedback control methods. Alternative types of these methods are proposed and their achievments are investigated analyticaly and numerically.

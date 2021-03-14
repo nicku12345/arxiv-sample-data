@@ -1,0 +1,1 @@
+We consider the equation - \Delta u + b \nabla u = 0. The dependence of the local regularity of a solution on the properties of the coefficient b is investigated.

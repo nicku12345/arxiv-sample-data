@@ -1,0 +1,1 @@
+In this article we construct examples of derivations in matrix semirings. We study hereditary and inner derivations, derivatives of diagonal, triangular, Toeplitz, circulant matrices and of matrices of other forms and prove theorems for derivatives of matrices of these forms.

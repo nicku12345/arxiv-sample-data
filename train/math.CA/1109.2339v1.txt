@@ -1,0 +1,1 @@
+This paper extends characterizations of Sobolev spaces by Bourgain, Br\'{e}zis, and Mironescu to the higher order case. As a byproduct, we obtain an integral condition for the Taylor remainder term, which implies that the function is a polynomial. Similar questions are also considered in the context of Whitney jets.

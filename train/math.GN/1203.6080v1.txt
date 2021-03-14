@@ -1,0 +1,1 @@
+In this paper we show that if X is an infinite compactum cleavable over an ordinal, then X must be homeomorphic to an ordinal. X must also therefore be a LOTS. This answers two fundamental questions in the area of cleavability. We also leave it as an open question whether cleavability of an infinite compactum X over an ordinal \lambda implies X is embeddable into \lambda.

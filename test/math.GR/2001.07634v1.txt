@@ -1,0 +1,1 @@
+We prove a Freiheitssatz for one-relator products of torsion-free groups, where the relator has syllable length at most 8. This result has applications to equations over torsion-free groups: in particular a singular equation of syllable length at most 18 over a torsion-free group has a solution in some overgroup.

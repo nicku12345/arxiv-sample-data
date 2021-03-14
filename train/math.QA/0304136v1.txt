@@ -1,0 +1,1 @@
+We give the complete set of irreducible representations of U(SU(2))_q when q is a m-th root of unity. In particular we show that their dimensions are less or equal to m. Some of them are not highest weight representations.

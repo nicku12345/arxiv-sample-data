@@ -1,0 +1,1 @@
+We prove the higher-dimensional analogue of Wolff's local smoothing estimate (Geom. Funct. Anal. 2001) for large p. As in the 2+1-dimensional case, the estimate is sharp for any given value of p, but it is likely that the range of p can be improved.

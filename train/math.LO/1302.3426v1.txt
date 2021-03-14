@@ -1,0 +1,1 @@
+We defined ordered black boxes in which for a partial J we try to predict just a bound in J to a function restricted to C_\alpha. The existence results are closely related to pcf, propagating downward. We can start with trivial cases.

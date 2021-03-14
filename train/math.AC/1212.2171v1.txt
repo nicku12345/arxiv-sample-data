@@ -1,0 +1,1 @@
+Based upon properties of ordinal length, we introduce a new class of modules, the binary modules, and study their endomorphism ring. The nilpotent endomorphisms form a two-sided ideal, and after factoring this out, we get a commutative ring. In particular, any binary module without embedded primes is isomorphic to an ideal in a reduced ring.

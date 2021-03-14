@@ -1,0 +1,1 @@
+We show bijectively that the Catalan number C_n counts Dyck (n+1)-paths in which the terminal descent is of even length and all other descents to ground level (if any) are of odd length.

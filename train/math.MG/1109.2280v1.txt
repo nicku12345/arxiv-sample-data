@@ -1,0 +1,1 @@
+Unlike the situation in the classical theory of convex polytopes, there is a wealth of semi-regular abstract polytopes, including interesting examples exhibiting some unexpected phenomena. We prove that even an equifacetted semi-regular abstract polytope can have an arbitrary large number of flag orbits or face orbits under its combinatorial automorphism group.

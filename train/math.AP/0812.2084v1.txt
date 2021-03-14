@@ -1,0 +1,1 @@
+We consider two classes of defocusing energy-supercritical nonlinear Schr\"odinger equations in dimensions d\geq 5. We prove that if the solution u is apriorily bounded in the critical Sobolev space, that is, u\in L_t^\infty \dot H^{s_c}_x, then u is global and scatters.

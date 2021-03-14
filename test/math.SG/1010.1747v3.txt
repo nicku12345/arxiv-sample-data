@@ -1,0 +1,1 @@
+We construct locally defined symplectic torus actions on ribbon graph complexes. Symplectic reduction techniques allow for a recursive formula for the symplectic volumes of these spaces. Taking the Laplace transform results in the Eynard-Orantin recursion formulas for the Airy curve x = y^2 / 2.

@@ -1,0 +1,1 @@
+We investigate combinatorial issues relating to the use of random orbit approximations to the attractor of an iterated function system with the aim of clarifying the role of the stochastic process during generation the orbit. A Baire category counterpart of almost sure convergence is presented; and a link between topological and probabilistic methods is observed.

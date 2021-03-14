@@ -1,0 +1,1 @@
+The notion of Riesz sets tells us that a support of Fourier transform of a measure with non-trivial singular part has to be large. The notion of Rajchman sets tells us that if the Fourier transform tends to zero at infinity outside a small set, then it tends to zero even on the small set. Here we present a new angle of an old question: Whether every Rajchman set should be Riesz.

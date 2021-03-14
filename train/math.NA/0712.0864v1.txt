@@ -1,0 +1,1 @@
+A New Error Bound for shifted surface spline interpolation is presented. This error bound probably is the most powerful one up to now.

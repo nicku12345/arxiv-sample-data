@@ -1,0 +1,1 @@
+A new extension of the major index, defined in terms of Coxeter elements, is introduced. For the classical Weyl groups of type B, it is equidistributed with length. For more general wreath products it appears in an explicit formula for the Hilbert series of the (diagonal action) invariant algebra.

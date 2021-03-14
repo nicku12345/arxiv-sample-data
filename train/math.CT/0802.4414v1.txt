@@ -1,0 +1,1 @@
+In this work we construct an extension for the category of 0-modules by analogy with [H.-J. Baues and G. Wirshing, Cohomology of small categories, J. Pure Appl. Algebra, 38(1985), 187-211]. The 0-cohomology functor becomes a derived functor in the extended category. As an application of this construction we calculate the cohomological dimension of so-called 0-free monoids.

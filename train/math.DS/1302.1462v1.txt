@@ -1,0 +1,1 @@
+We prove that polygonal billiards with contracting reflection laws exhibit hyperbolic attractors with countably many ergodic SRB measures. These measures are robust under small perturbations of the reflection law, and the tables for which they exist form a generic set in the space of all polygons. Specific polygonal tables are studied in detail.

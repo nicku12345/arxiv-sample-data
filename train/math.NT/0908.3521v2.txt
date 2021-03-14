@@ -1,0 +1,1 @@
+Let G=O(n+3) be an orthogonal group of rank one and H=O(n+2) an anisotropic subgroup. We unwind the period along H of a spherical Eisenstein series of G against a cuspform of H into an Euler product and evaluate the local factors at odd primes.

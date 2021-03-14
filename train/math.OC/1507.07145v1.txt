@@ -1,0 +1,1 @@
+Nearly convex sets play important roles in convex analysis, optimization and theory of monotone operators. We give a systematic study of nearly convex sets, and construct examples of subdifferentials of lower semicontinuous convex functions whose domain or ranges are nonconvex.

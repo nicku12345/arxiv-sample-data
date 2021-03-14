@@ -1,0 +1,1 @@
+We define the notion of an \mathcal{RO}(G)-graded Tambara functor and prove that any G-spectrum with norm multiplication gives rise to such an \mathcal{RO}(G)-graded Tambara functor.

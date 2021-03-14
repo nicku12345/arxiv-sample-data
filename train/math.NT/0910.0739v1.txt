@@ -1,0 +1,1 @@
+In this paper we will use experimental and computational methods to find modular forms for non-congruence subgroups, and the modular forms for congruence subgroups that they are associated with via the Atkin--Swinnerton-Dyer correspondence. We also prove a generalization of a criterion due to Ligozat for an eta-quotient to be a modular function.

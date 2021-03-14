@@ -1,0 +1,1 @@
+We prove that the Devlin-Shelah weak diamond implies Galvin's property. On the other hand, Galvin's property is consistent with the negation of the weak diamond, and even with Martin's axiom. We show that the proper forcing axiom implies a relative to the negation of Galvin's property for \aleph_1.

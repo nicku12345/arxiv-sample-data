@@ -1,0 +1,1 @@
+The radius of convexity of two normalized Bessel functions of the first kind are determined in the case when the order is between -2 and -1. Our methods include the minimum principle for harmonic functions, the Hadamard factorization of some Dini functions, properties of the zeros of Dini functions via Lommel polynomials and some inequalities for complex and real numbers.

@@ -1,0 +1,1 @@
+We introduce the notion of a strong L-space, a closed, oriented rational homology 3-sphere whose Heegaard Floer homology can be determined at the chain level. We prove that the fundamental group of a strong L-space is not left-orderable. Examples of strong L-spaces include the double branched covers of alternating links in S^3.

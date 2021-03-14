@@ -1,0 +1,1 @@
+The pseudoperturbative shifted - l expansion technique PSLET is generalized for states with arbitrary number of nodal zeros. Bound- states energy eigenvalues for two truncated coulombic potentials are calculated using PSLET. In contrast with shifted large-N expansion technique, PSLET results compare excellently with those from direct numerical integration.

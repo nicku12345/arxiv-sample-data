@@ -1,0 +1,1 @@
+We compute the homology of the complex of formal operations on the Hochschild complex of differential graded commutative algebras as defined by Wahl and prove that these can be built as infinite sums of operations obtained from Loday's shuffle operations, Connes' boundary operator and the shuffle product.

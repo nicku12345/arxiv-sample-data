@@ -1,0 +1,1 @@
+In this paper, we show how to construct for a given consistent theory U a \Sigma^0_1-predicate that both satisfies the L\"ob Conditions and the Kreisel Condition ---even if U is unsound. We do this in such a way that U itself can verify satisfaction of an internal version of the Kreisel Condition.

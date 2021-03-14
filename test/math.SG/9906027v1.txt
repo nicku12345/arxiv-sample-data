@@ -1,0 +1,1 @@
+The notion of Leibniz algebroid is introduced, and it is shown that each Nambu-Poisson manifold has associated a canonical Leibniz algebroid. This fact permits to define the modular class of a Nambu-Poisson manifold as an appropiate cohomology class, extending the well-known modular class of Poisson manifolds.

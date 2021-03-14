@@ -1,0 +1,1 @@
+We study large deviation principles for Gaussian processes lifted to the free nilpotent group of step N. We apply this to a large class of Gaussian processes lifted to geometric rough paths. A large deviation principle for enhanced (fractional) Brownian motion, in Hoelder- or modulus topology, appears as special case.

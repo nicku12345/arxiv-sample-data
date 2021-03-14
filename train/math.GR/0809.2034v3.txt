@@ -1,0 +1,1 @@
+We prove that the automorphism group of the braid group on four strands acts faithfully and geometrically on a CAT(0) 2-complex. This implies that the automorphism group of the free group of rank two acts faithfully and geometrically on a CAT(0) 2-complex, in contrast to the situation for rank three and above.

@@ -1,0 +1,1 @@
+We determine the number of elements of order two in the group of normalized units V(F_2G) of the group algebra F_2G of a 2-group of maximal class over the field F_2 of two elements. As a consequence for the 2-groups G and H of maximal class we have that V(F_2G) and V(F_2H) are isomorphic if and only if G and H are isomorphic.

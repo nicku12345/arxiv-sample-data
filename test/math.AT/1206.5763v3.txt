@@ -1,0 +1,1 @@
+A topological groupoid G is K-pointed, if it is equipped with a homomorphism from a topological group K to G. We describe the homotopy groups of such K-pointed topological groupoids and relate these groups to the ordinary homotopy groups in terms of a long exact sequence. As an application, we give an obstruction to presentability of proper regular Lie groupoids.

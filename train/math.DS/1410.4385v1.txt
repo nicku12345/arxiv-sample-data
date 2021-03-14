@@ -1,0 +1,1 @@
+In this article, we apply Homotopy Perturbation Method (HPM) for solving three coupled non-linear equations which play an important role in biosystems. To illustrate the capability and reliability of this method. Numerical example is given which confirms our analytical findings.

@@ -1,0 +1,1 @@
+The cohomology of coherent sheaves and sheaves of Abelian groups on Noetherian schemes are interpreted in second order arithmetic by means of a finiteness theorem. This finiteness theorem provably fails for the etale topology even on Noetherian schemes.

@@ -1,0 +1,1 @@
+In this work we establish some polynomials and entire functions have only real zeros. These polynomials generalize q-Laguerre polynomials L_{n}^{(\alpha)}(x;q), while the entire functions are generalizations of Ramanujan's entire function A_{q}(z), q-Bessel functions J_{\nu}^{(2)}(z;q), J_{\nu}^{(3)}(z;q) and confluent basic hypergeometric series.

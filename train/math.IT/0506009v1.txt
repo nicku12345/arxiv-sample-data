@@ -1,0 +1,1 @@
+We propose two approximate algorithms for MAP decoding on tail-biting trellises. The algorithms work on a subset of nodes of the tail-biting trellis, judiciously selected. We report the results of simulations on an AWGN channel using the approximate algorithms on tail-biting trellises for the (24,12) Extended Golay Code and a rate 1/2 convolutional code with memory 6.

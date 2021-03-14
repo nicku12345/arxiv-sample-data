@@ -1,0 +1,1 @@
+We compare and contrast various notions of the "critical locus" of a complex analytic function on a singular space. After choosing a topological variant as our primary notion of the critical locus, we justify our choice by generalizing L\^e and Saito's result that constant Milnor number implies that Thom's a_f condition is satisfied.

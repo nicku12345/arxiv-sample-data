@@ -1,0 +1,1 @@
+The generalized Andrews-Curtis Conjecture expects that finite PLCW 2-complexes which are simple-homotopy equivalent, can be 3-deformed into each other. If in addition subcomplexes are required to be kept fix during the deformation, this is not possible.

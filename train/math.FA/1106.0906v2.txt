@@ -1,0 +1,1 @@
+From a given nuclear triplet we construct a nuclear triplet of sequence spaces and introduce a correlated Gaussian measure via the Bochner-Minlos theorem. Considering special types of correlation operators on such sequence spaces, certain conditional expectations can be given in an explicit way.

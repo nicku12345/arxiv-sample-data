@@ -1,0 +1,1 @@
+We construct p-adic families of Klingen Eisenstein series and L-functions for cuspforms (not necessarily ordinary) unramified at an odd prime p on definite unitary groups of signature (r, 0) (for any positive integer r) for a quadratic imaginary field split at p. When r=2, we show that the constant term of the Klingen Eisenstein family is divisible by a certain p-adic L-function.

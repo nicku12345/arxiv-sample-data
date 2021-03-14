@@ -1,0 +1,1 @@
+A set partition is said to be (k,d)-noncrossing if it avoids the pattern 12... k12... d. We find an explicit formula for the ordinary generating function of the number of (k,d)-noncrossing partitions of \{1,2,...,n\} when d=1,2.

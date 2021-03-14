@@ -1,0 +1,1 @@
+This short note is the generalization of Faugere F4-algorithm for polynomial rings with coefficients in Euclidean rings. This algorithm computes successively a Groebner basis replacing the reduction of one single s-polynomial in Buchberger's algorithm by the simultaneous reduction of several polynomials.

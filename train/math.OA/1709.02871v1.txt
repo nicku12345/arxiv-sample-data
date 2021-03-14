@@ -1,0 +1,1 @@
+Let G be second countable locally compact Hausdorff groupoid with a continuous Haar system. We remove the assumption of amenability in a theorem by Clark about GCR groupoid C^*-algebras. We show that if the groupoid C^*-algebra of G is GCR then the orbits of G are locally closed.

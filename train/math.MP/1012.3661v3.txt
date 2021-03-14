@@ -1,0 +1,1 @@
+We show, in general, how to transform the nonautonomous nonlinear Schroedinger equation with quadratic Hamiltonians into the standard autonomous form that is completely integrable by the familiar inverse scattering method in nonlinear science. Derivation of the corresponding equivalent nonisospectral Lax pair is outlined. A few simple integrable systems are discussed.

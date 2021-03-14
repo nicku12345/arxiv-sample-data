@@ -1,0 +1,1 @@
+We prove that the greedy sum of a direct product of two numeric arrays of complex numbers is equal to the product of the greedy sums of the factors provided that all the mentioned sums exist.

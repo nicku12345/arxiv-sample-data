@@ -1,0 +1,1 @@
+The number of topologies and non-homeomorphic topologies on a fixed finite set are now known up to n=18, n=16 but still no complete formula yet (Sloane). There are one to one correspondence among topologies, preorder and digraphs. In this article, we enumerate topologies and non-homeomorphic topologies whose underlying graph is a given finite graph.

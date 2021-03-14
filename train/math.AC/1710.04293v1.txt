@@ -1,0 +1,1 @@
+We show that the Koszul homology algebra of the second Veronese subalgebra of a polynomial ring over a field of characteristic zero is generated, as an algebra, by the homology classes corresponding to the syzygies of the lowest linear strand.

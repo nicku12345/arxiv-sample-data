@@ -1,0 +1,1 @@
+We present an algorithm for computing Borcherds products, which has polynomial runtime. It deals efficiently with the bounds on Fourier expansion indices originating in Weyl chambers. Naive multiplication has exponential runtime due to inefficient handling of these bounds. An implementation of the new algorithm shows that it is also much faster in practice.

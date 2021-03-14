@@ -1,0 +1,1 @@
+We formulate a model-independent theory of co/cartesian morphisms and co/cartesian fibrations: that is, one which resides entirely *within the \infty-category of \infty-categories*. We prove this is suitably compatible with the corresponding quasicategorical (and in particular, model-dependent) notions studied by Joyal and Lurie.

@@ -1,0 +1,1 @@
+In this note, we give a simple proof of the Borsuk-Ulam theorem for Z_p-actions. We prove that, if S^n and S^m are equipped with free Z_p-actions (p prime) and f: S^n \to S^m is a Z_p-equivariant map, then n \leq m.

@@ -1,0 +1,1 @@
+The aim of this article is to discuss the n-derivation algebras of Lie color algebras. It is proved that, if the base ring contains \frac{1}{n-1}, L is a perfect Lie color algebra with zero center, then every triple derivation of L is a derivation, and every n-derivation of the derivation algebra nDer(L)) is an inner derivation.

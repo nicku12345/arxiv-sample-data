@@ -1,0 +1,1 @@
+We characterize the sets \XX of all products PQ, and \YY of all products PQP, where P,Q run over all orthogonal projections and we solve the problems \arg\min\{\|P-Q\|: (P,Q) \in \cal Z\}, for \cal Z=\XX or \YY. We also determine the polar decompositions and Moore-Penrose pseudoinverses of elements of \XX.

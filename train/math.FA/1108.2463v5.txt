@@ -1,0 +1,1 @@
+We prove a version of the Titchmarsh convolution theorem for distributions on the circle. We show that the "naive form" of the Titchmarsh theorem could be violated, but that such a violation is only possible for the convolution of distributions which both possess certain symmetry properties.

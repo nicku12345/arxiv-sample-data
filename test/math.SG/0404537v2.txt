@@ -1,0 +1,1 @@
+We compute the genus zero family Gromov-Witten invariants for K3 surfaces using the topological recursion formula and the symplectic sum formula for a degeneration of elliptic K3 surfaces. In particular we verify the Yau-Zaslow formula for non-primitive classes of index two.

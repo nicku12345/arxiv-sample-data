@@ -1,0 +1,1 @@
+A class of subharmonic functions represented by the modified kernels are proved to have the growth estimates u(x) =o(x_{n}^{1-alpha}|x|^{m+alpha})at infinity in the upper half space of Rn, which generalizes the growth properties of analytic functions and harmonic functions.

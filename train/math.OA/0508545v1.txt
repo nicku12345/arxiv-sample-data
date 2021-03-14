@@ -1,0 +1,1 @@
+Gelfand-Naimark duality (Commutative C^*-algebras \equiv Locally compact Hausdorff spaces) is extended to C^*-algebras \equiv Quotient maps on locally compact Hausdorff spaces. Using this duality, we give for an \emph{arbitrary} bounded operator on a complex Hilbert space of several dimensions, a functional calculus and the existence theorem for nontrivial invariant subspace.

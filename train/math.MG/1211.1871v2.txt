@@ -1,0 +1,1 @@
+Heinrich Tietze has shown that for a closed connected subset of euclidean space being convex is a local property. We generalize this to CAT(0)-spaces and locally compact CAT(\kappa) spaces. As an application we give a construction of certain convex sets in euclidean buildings.

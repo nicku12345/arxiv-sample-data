@@ -1,0 +1,1 @@
+The traditional Riemann Mapping Theorem can be proved with circle packing techniques. We prove the Combinatorial Riemann Mapping Theorem for tilings of bounded size using circle packings.

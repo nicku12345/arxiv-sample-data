@@ -1,0 +1,1 @@
+We generalize the notion of tame discrete sets introduced by Rosay and Rudin from complex-Euclidean space to arbitrary complex manifolds and establish their basic properties. We show that complex-linear algebraic groups different from the complex line or the punctured complex line contain tame discrete sets.

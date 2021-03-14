@@ -1,0 +1,1 @@
+In this article we study the existence and strong consistency of GEE estimators, when the generalized estimating functions are martingales with random coefficients. Furthermore, we characterize estimating functions which are asymptotically optimal.

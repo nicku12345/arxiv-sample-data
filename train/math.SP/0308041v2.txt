@@ -1,0 +1,1 @@
+We consider the quantum site percolation model on graphs with an amenable group action. It consists of a random family of Hamiltonians. Basic spectral properties of these operators are derived: non-randomness of the spectrum and its components, existence of an self-averaging integrated density of states and an associated trace-formula.

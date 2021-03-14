@@ -1,0 +1,1 @@
+A quantized symplectic oscillator algebra of rank 1 is a PBW deformation of the smash product of the quantum plane with U_q(sl_2). We study its representation theory, and in particular, its category O.

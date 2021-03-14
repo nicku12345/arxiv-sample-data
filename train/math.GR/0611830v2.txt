@@ -1,0 +1,1 @@
+We study some properties of the varieties of deformations of free groups in compact Lie groups. In particular we prove a conjecture of Margulis and Soifer about the density of non-virtually free points in such variety, and a conjecture of Goldman on the ergodicity of the action of Aut(Fn) on such variety when n>2.

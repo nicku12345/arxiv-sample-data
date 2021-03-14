@@ -1,0 +1,1 @@
+We investigate whether there exists an arithmetic progression or geometric progression consisting only palindromic numbers. In this paper we show that the answer to this question is NO. Given the first and final term we will also give an estimate for how large that AP could be and so for the GP given its first term and common ratio.

@@ -1,0 +1,1 @@
+We describe the third homology of SL_2 of local rings over Z[1/2] in terms of a refined Bloch group. We use this to derive a localization sequence for the third homology of SL_2 of certain discrete valuation rings, and to make explicit computations for p-adic integers and other local rings.

@@ -1,0 +1,1 @@
+For a prime p>3, we compute a finite generating set for the SL_2(F_p)-invariants of the third symmetric power representation. The proof relies on the construction of an infinite SAGBI basis and uses the Hilbert series calculation of Hughes and Kemper.

@@ -1,0 +1,1 @@
+The use of improper priors in the context of Bayesian hierarchical linear mixed models has been studied under the assumption of normality of the random effects. We study the propriety of the posterior under more flexible distributional assumptions and general improper prior structures.

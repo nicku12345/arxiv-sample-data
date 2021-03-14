@@ -1,0 +1,1 @@
+This paper presents two universal algorithms for generalized Bellman equations with symmetric Toeplitz matrix. The algorithms are semiring extensions of two well-known methods solving Toeplitz systems in the ordinary linear algebra.

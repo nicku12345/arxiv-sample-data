@@ -1,0 +1,1 @@
+We study the nonparametric estimators of the infinitesimal coefficients of the second-order jump-diffusion models. Under the mild conditions, we obtain the weak consistency and the asymptotic normalities of the estimators.

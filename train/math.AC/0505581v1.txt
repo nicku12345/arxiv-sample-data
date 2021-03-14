@@ -1,0 +1,1 @@
+We present a short proof of Reisner's Theorem, characterizing which simplicial complexes have a Cohen-Macaulay face ring. In some cases, we can also express some homological invariants of the face ring in terms of the reduced homology of the complex.

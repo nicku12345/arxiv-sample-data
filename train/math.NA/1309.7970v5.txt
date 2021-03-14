@@ -1,0 +1,1 @@
+We analyze the effects of rounding errors in the nodes on barycentric interpolation. These errors are particularly relevant for the first barycentric formula with the Chebyshev points of the second kind. Here, we propose a method for reducing them.

@@ -1,0 +1,1 @@
+An explanation to the boundness of minimal log discrepancies conjectured by V.V. Shokurov would be that the minimal log discrepancies of a variety in its closed points define a lower semi-continuous function. We check this lower semi-continuity behaviour for varieties of dimension at most 3 and for toric varieties of arbitrary dimension.

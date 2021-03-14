@@ -1,0 +1,1 @@
+We prove Artin's axioms satisfy a compatibility for composition of 1-morphisms of stacks in groupoids. Consequently, some natural stacks in groupoids are algebraic, including a common generalization of Vistoli's Hilbert stack and the stack of branchvarieties of Alexeev and Knutson.

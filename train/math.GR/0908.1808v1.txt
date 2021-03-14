@@ -1,0 +1,1 @@
+A residually nilpotent group is \emph{k-parafree} if all of its lower central series quotients match those of a free group of rank k. Magnus proved that k-parafree groups of rank k are themselves free. We mimic this theory with surface groups playing the role of free groups. Our main result shows that the analog of Magnus' Theorem is false in this setting.

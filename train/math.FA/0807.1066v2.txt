@@ -1,0 +1,1 @@
+In a rather general setting of multivariate stochastic volatility market models we derive global iterative probabilistic schemes for computing the free boundary and its Greeks for a generic class of American derivative models using front-fixing methods. Convergence is closely linked to a proof of global regularity of the free boundary surface.

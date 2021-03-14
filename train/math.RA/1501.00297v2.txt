@@ -1,0 +1,1 @@
+We compare two generalizations of Tate homology: stable homology and the J-completion of Tor, also known as complete homology. For finitely generated modules, we show that the two theories agree over Artin algebras and over commutative noetherian rings that are Gorenstein, or local and complete.

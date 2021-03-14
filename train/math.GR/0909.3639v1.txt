@@ -1,0 +1,1 @@
+In this paper, we give a Gr\"obner-Shirshov basis of the braid group B_{n+1} in Adyan-Thurston generators. We also deal with the braid group of type \bf{B}_{n}. As results, we obtain a new algorithm for getting the Adyan-Thurston normal form, and a new proof that the braid semigroup B^+_{n+1} is the subsemigroup in B_{n+1}.

@@ -1,0 +1,1 @@
+Let \Phi \colon \sbat \times M \to M be a smooth action of the unit circle  \sbat on a manifold M. In this work, we compute the minimal model of M in terms of the orbit space B and the fixed point set F\subset B, as a dg-module over the Sullivan's minimal model of B.

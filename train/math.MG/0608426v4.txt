@@ -1,0 +1,1 @@
+Recently A. Schrijver derived new upper bounds for binary codes using semidefinite programming. In this paper we adapt this approach to codes on the unit sphere and we compute new upper bounds for the kissing number in several dimensions. In particular our computations give the (known) values for the cases n = 3, 4, 8, 24.

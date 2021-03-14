@@ -1,0 +1,1 @@
+Let C be an extremal self-dual binary code of length 72 and g\in \Aut(C)  be an automorphism of order 2. We show that C is a free \F_2<g> module and use this to exclude certain subgroups of order 8 of \Aut (C). We also show that \Aut(C) does not contain an element of order 10.

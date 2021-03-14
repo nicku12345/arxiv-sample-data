@@ -1,0 +1,1 @@
+A modified Version of the Hardy-Littlewood tauberian Theorem is used to prove under which conditions the moduli of the coefficients |a(n)/n| of schlicht functions tend uniformly to their Hayman Indexes as n tends to infinity.

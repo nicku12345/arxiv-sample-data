@@ -1,0 +1,1 @@
+In this short \'etude, we observe that the full structure of a recollement on a stable infinity-category can be reconstructed from minimal data: that of a reflective and coreflective full subcategory. The situation has more symmetry than one would expect at a glance. We end with a practical lemma on gluing equivalences along a recollement.

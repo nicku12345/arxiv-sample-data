@@ -1,0 +1,1 @@
+For a finite partially ordered set we calculate the dimension of the variety of its subspace representations having fixed dimension vector. The dimension is given in terms of the Euler quadratic form associated with a partially ordered set, which gives a geometric interpretation of this form.

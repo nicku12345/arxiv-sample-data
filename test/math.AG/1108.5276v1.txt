@@ -1,0 +1,1 @@
+Let X be a smooth complex projective variety and let L be a line bundle on it. We describe the structure of the pre-polarized manifold (X,L) for non integral values of the invariant \tau_L(R):=-K_X\cdot\Gamma/(L \cdot \Gamma), where \Gamma is a minimal curve of an extremal ray R:=\mathbb R_+[\Gamma] on X such that L \cdot R>0.

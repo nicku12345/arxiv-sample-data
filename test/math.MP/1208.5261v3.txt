@@ -1,0 +1,1 @@
+We prove a conjecture of Ambrus, Ball and Erd\'{e}lyi that equally spaced points maximize the minimum of discrete potentials on the unit circle whenever the potential is of the form \sum_{k=1}^n f(d(z,z_k)), where f:[0,\pi]\to [0,\infty] is non-increasing and strictly convex and d(z,w) denotes the geodesic distance between z and w on the circle.

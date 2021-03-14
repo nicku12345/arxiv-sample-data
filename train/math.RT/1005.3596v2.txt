@@ -1,0 +1,1 @@
+We study the b-functions of relative invariants of the prehomogeneous vector spaces associated with quivers of type A. By applying the decomposition formula for b-functions, we determine explicitly the b-functions of one variable for each irreducible relative invariant. Moreover, we give a graphical algorithm to determine the b-functions of several variables.

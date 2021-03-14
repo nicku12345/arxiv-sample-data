@@ -1,0 +1,1 @@
+We use L^2-Higgs cohomology to determine the Hodge numbers of the parabolic cohomology H^1(\bar S, j_*\V), where the local system \V arises from the third primitive cohomology of family of Calabi-Yau threefolds over a curve \bar S. The method gives a way to predict the presence of algebraic 2-cycles in the total space of the family and is applied to some examples.

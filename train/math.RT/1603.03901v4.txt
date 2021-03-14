@@ -1,0 +1,1 @@
+We prove that cyclotomic Yokonuma--Hecke algebras of type A are cyclotomic quiver Hecke algebras and we give an explicit isomorphism with its inverse, using a similar result of Brundan and Kleshchev on cyclotomic Hecke algebras. The quiver we use is given by disjoint copies of cyclic quivers. We relate this work to an isomorphism of Lusztig.

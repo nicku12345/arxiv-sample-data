@@ -1,0 +1,1 @@
+In this short note we introduce a notion called "quantum injectivity" of locally compact quantum groups, and prove that it is equivalent to amenability of the dual. Particularly, this provides a new characterization of amenability of locally compact groups.

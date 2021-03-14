@@ -1,0 +1,1 @@
+Using Green's theorem we reduce the variation of the total mean curvature of a smooth surface in the Euclidean 3-space to a line integral of a special vector field and obtain the following well-known theorem as an immediate consequence: the total mean curvature of a closed smooth surface in the Euclidean 3-space is stationary under an infinitesimal flex.

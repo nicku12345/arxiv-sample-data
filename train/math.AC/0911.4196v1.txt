@@ -1,0 +1,1 @@
+Let (T,m) be a complete local (Notherian) ring, C a finite set of pairwise incomparable nonmaximal prime ideals of T, and p a nonzero element. We provide necessary and sufficient conditions for T to be the completion of an integral domain A containing the prime ideal pA whose formal fiber is semilocal with maximal ideals the elements of C.

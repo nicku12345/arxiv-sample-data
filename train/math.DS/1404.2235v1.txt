@@ -1,0 +1,1 @@
+We define a hyperbolic renormalizations suitable for maps of small determinant, with uniform bounds for large periods. The techniques involve an improvement of the celebrated Palis-Takens renormalization and normal forms (fibered linearizations). These techniques are useful to study the dynamics of H\'enon like maps and the geometry of their parameter space.

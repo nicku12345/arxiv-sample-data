@@ -1,0 +1,1 @@
+More remarks and questions on transseries. In particular we deal with the system of ratio sets and grids used in the grid-based formulation of transseries. This involves a "witness" concept that keeps track of the ratios required for each computation. There are, at this stage, questions and missing proofs in the development.

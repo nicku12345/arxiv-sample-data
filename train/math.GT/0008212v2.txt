@@ -1,0 +1,1 @@
+We use a new geometric construction, grope splitting, to give a sharp bound for separation of surfaces in 4-manifolds. We also describe applications of this technique in link-homotopy theory, and to the problem of locating pi_1-null surfaces in 4-manifolds. In our applications to link-homotopy, grope splitting serves as a geometric substitute for the Milnor group.

@@ -1,0 +1,1 @@
+The Cancellation Problem for Affine Spaces is settled affirmatively, that is, it is proved that : Let  k  be an algebraically closed field of characteristic zero and let n, m \in \mathbb{N}. If R[Y_1,..., Y_m] \cong_k k[X_1,..., X_{n+m}] as k-algebras, where Y_1,..., Y_m, X_1,..., X_{n+m} are indeterminates, then R \cong_k k[X_1,..., X_n].

@@ -1,0 +1,1 @@
+We study certain modules over the algebra of a Cartier divisor on a scheme. Using these modules, we present an inductive method for studying finite generation properties of algebras and modules. In the context of the minimal model program, we show that finite generation of log canonical algebras and modules is equivalent to the minimal model and abundance conjectures.

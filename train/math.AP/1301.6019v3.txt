@@ -1,0 +1,1 @@
+In this paper we give a new compactness criterion in the Lebesgue spaces L^p((0,T)\times \Omega) and use it to obtain the first term in the asymptotic behaviour of the solutions of a nonlocal convection diffusion equation. We use previous results of Bourgain, Brezis and Mironescu to give a new criterion in the spirit of the Aubin-Lions-Simon Lemma.

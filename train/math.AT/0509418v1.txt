@@ -1,0 +1,1 @@
+Let X be a toric variety. Rationally Borel-Moore homology of X is isomorphic to the homology of the Koszul complex A^T_*(X)\otimes \Lambda^\x M, where A^T_*(X) is the equivariant Chow group and M is the character group of T. Moreover, the same holds for coefficients which are the integers with certain primes inverted.

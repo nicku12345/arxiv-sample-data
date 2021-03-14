@@ -1,0 +1,1 @@
+Let \Gamma be a geometrically finite group of finite asymptotic dimension and let R be a noetherian ring of finite homological dimension. The main result of the paper is that the integral K-theoretic assembly map for the group ring R[\Gamma] is an isomorphism. We also include partial results for larger classes of geometric groups.

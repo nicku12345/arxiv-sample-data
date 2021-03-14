@@ -1,0 +1,1 @@
+We refine the arithmetical hierarchy of various classical principles by finely investigating the derivability relations between these principles over Heyting arithmetic. We mainly investigate some restricted versions of the law of excluded middle, de Morgan's law, the double negation elimination, the collection principle and the constant domain axiom.

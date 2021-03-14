@@ -1,0 +1,1 @@
+We answer several questions of P. Erdos and R. Graham by showing that for any rational number r > 0, there exist integers n1, n2, ..., nk, k variable, where   N < n1 < n2 < ... < nk < (e^r + o_r(1) ) N,   such that   r = 1/n1 + 1/n2 + ... + 1/nk. Moreover, we obtain the best-possible error term for the o_r(1), which is O_r(loglog N/log N).

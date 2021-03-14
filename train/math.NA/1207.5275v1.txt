@@ -1,0 +1,1 @@
+A fast Fourier transform method for computing the weight enumerator polynomial and trigonometric degree of lattice rules is introduced.

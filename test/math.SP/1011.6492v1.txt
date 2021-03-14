@@ -1,0 +1,1 @@
+We define the magnetic Schr\"odinger on an infinite graph by the data of a magnetic field, some weights on vertices and some weights on edges . We discuss essential self-adjointness of this operator for graphs of bounded degree. The main result is a discrete version of a result of two authors of the present paper.

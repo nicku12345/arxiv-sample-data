@@ -1,0 +1,1 @@
+We prove that, in a m-hyperconvex domain in \mathbb{C}^{n}, if a non-negative Borel measure is dominated by a complex Hessian measure, then it is a complex Hessian measure of a function in the class \mathcal{N}_m(H). This is an extension of P. {\AA}hg, U. Cegrell, R. Czy\.z and P.H. Hiep's result in \cite{ACCH}.

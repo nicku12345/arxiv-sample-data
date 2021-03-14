@@ -1,0 +1,1 @@
+We use Seidel representation for symplectic orbifolds constructed in Tseng and Wang to compute the quantum cohomology ring of a compact symplectic toric orbifold (\X,\omega).

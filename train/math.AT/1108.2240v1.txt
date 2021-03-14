@@ -1,0 +1,1 @@
+We identify conditions under which it is guaranteed that an action of an operad on the E^2 page of a spectral sequence passes to E^r for r\ge 2 and hence to the E^\infty page. We consider this question in both the purely algebraic and topological settings.

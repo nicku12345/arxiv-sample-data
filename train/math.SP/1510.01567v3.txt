@@ -1,0 +1,1 @@
+In this paper we study the spectral property of a Fokker-Planck operator with potential. By virtue of a multiplier method inspired by Nicolas Lerner, we obtain new compactness criteria for its resolvent, involving the control of the positive eigenvalues of the Hessian matrix of the potential.

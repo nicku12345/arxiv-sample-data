@@ -1,0 +1,1 @@
+In this note the following is proved. Separable L-embedded spaces - that is separable Banach spaces which are complemented in their biduals such that the norm between the two complementary subspaces is additive - have property (X) which, by a result of Godefroy and Talagrand, entails uniqueness of the space as a predual.

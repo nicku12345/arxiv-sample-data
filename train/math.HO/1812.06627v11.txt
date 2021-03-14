@@ -1,0 +1,1 @@
+This is a supplement for "Pearls in graph theory" -- a textbook written by Nora Hartsfield and Gerhard Ringel.   Probabilistic method, Deletion-contraction formulas, Matrix theorem, Graph-polynomials, Generating functions, Minimum spanning trees, Marriage theorem and its relatives, Toroidal graphs, Rado graph.

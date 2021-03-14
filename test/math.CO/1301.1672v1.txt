@@ -1,0 +1,1 @@
+We analyze misere play of impartial tic-tac-toe---a game suggested by Bob Koca in which both players make X's on the board, and the first player to complete three-in-a-row loses. This game was recently discussed on mathoverflow.net in a thread created by Timothy Y. Chow.

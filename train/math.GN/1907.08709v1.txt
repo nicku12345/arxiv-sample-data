@@ -1,0 +1,1 @@
+In this paper, we define the parity virtual Alexander polynomial following the work of BDGGHN [1] and Kaestner and Kauffman [10]. The properties of this invariant are explored and some examples are computed. In particular, the invariant demonstrates that many virtual knots can not be unknotted by crossing change on only odd crossings.

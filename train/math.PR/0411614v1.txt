@@ -1,0 +1,1 @@
+We study the exact constants in the moment inequalities for sums of centered independent random variables: improve their asymptotics, low and upper bounds, calculate more exact asymptotics, elaborate the numerical algorithm for their calculation, study the class of smoothing etc.

@@ -1,0 +1,1 @@
+In [4] we introduce the associative algebras Q_{n,k}(\CE,\tau). Recall the definition. These algebras are labeled by discrete parameters n,k; n,k are integers n>k>0 and n and k have not common divisors. Then, \CE is an elliptic curve and \tau is a point in \CE. We identify \CE with \BC/\Gamma, where \Gamma is a lattice.

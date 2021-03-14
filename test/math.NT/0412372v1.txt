@@ -1,0 +1,1 @@
+We detail the continued fraction expansion of the square root of monic sextic polynomials. We note in passing that each line of the expansion corresponds to addition of the divisor at infinity, and interpret the data yielded by the general expansion. In particular we obtain an associated Somos sequence defined by a three-term recurrence relation of gap~6.

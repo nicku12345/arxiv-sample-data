@@ -1,0 +1,1 @@
+Lower bounds for the dimension of a triangulated category are provided. These bounds are applied to stable derived categories of Artin algebras and of commutative complete intersection local rings. As a consequence, one obtains bounds for the representation dimensions of certain Artin algebras.

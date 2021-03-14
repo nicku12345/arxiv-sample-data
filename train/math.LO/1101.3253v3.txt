@@ -1,0 +1,1 @@
+Let (K,\nu) be a real closed valued field, and let S\subseteq K^n be a definable open semi-algebraic set. We find an algebraic characterization of rational functions which are OVF-integral on S. We apply the existing model theoretic framework for proving ganzstellens\"atze, and need to control semi-sections and their relations to orderings. (joint work with Noa Lavi)

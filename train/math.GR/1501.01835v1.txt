@@ -1,0 +1,1 @@
+A subset A of a semigroup S is called a medial subset of S if xaby is in A if and only if xbay is in A for every elements x, y, a, b of S. In the paper we show how we can construct the commutative monoid congruences of a semigroup S by the help of medial subsets of S.

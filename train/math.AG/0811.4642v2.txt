@@ -1,0 +1,1 @@
+Shokurov's ACC Conjecture says that the set of all log canonical thresholds on varieties of bounded dimension satisfies the Ascending Chain Condition. This conjecture was proved for log canonical thresholds on smooth varieties in [EM1]. Here we use this result and inversion of adjunction to establish the conjecture for locally complete intersection varieties.

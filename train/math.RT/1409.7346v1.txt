@@ -1,0 +1,1 @@
+Exotic sheaves are certain complexes of coherent sheaves on the cotangent bundle of the flag variety of a reductive group. They are closely related to perverse-coherent sheaves on the nilpotent cone. This expository article includes the definitions of these two categories, applications, and some structure theory, as well as detailed calculations for SL(2).

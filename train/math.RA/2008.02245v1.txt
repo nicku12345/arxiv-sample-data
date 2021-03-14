@@ -1,0 +1,1 @@
+Preenvelopes of acts over a monoid are defined by analogy with Enochs' definition of preenvelopes of modules. Provided that it is closed for pure subacts, a class of acts is shown to be preenveloping precisely when it is closed under direct products. Examples of such classes include absolutely pure, weakly f-injective and weakly p-injective acts.

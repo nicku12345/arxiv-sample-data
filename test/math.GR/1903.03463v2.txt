@@ -1,0 +1,1 @@
+A gapset is the complement of a numerical semigroup in N. In this paper, we characterize all gapsets of multiplicity m \le 4. As a corollary, we provide a new simpler proof that the number of gapsets of genus g and fixed multiplicity m \le 4 is a nondecreasing function of g.

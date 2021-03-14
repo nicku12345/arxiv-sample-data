@@ -1,0 +1,1 @@
+We construct an example of two continuous maps f and g of the circle to itself with the same absolute value of the Fourier transform but with different winding numbers, answering a question of Brezis.

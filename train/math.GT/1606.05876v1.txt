@@ -1,0 +1,1 @@
+The construction of integer linking numbers of closed curves in a three-dimensional manifold usually appeals to the orientation of this manifold. We discuss how to avoid it constructing similar homotopy invariants of links in non-orientable manifolds.

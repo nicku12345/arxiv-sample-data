@@ -1,0 +1,1 @@
+The invariant of a link in three-sphere, associated with the cyclic quantum dilogarithm, depends on a natural number N. By the analysis of particular examples it is argued that for a hyperbolic knot (link) the absolute value of this invariant grows exponentially at large N, the hyperbolic volume of the knot (link) complement being the growth rate.

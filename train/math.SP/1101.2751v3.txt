@@ -1,0 +1,1 @@
+We show that Rieffel's deformation sends covariant C(T)-algebras into C(T)-algebras. We also treat the lower semi-continuity issue, proving that Rieffel's deformation transforms covariant continuous fields of C*-algebras into continuous fields of C*-algebras. Some examples are indicated, including certain quantum groups.

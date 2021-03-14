@@ -1,0 +1,1 @@
+Using the Cauchy-Riemann operator, we characterize Q_K spaces, Besov spaces and analytic Morrey spaces in terms of pseudoanalytic extensions of primitive functions. Our results are also true on some classical Banach spaces, such as the Bloch space, BMOA and the Dirichlet space.

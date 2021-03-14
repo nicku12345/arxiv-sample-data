@@ -1,0 +1,1 @@
+Let X be an F_{0}-space and let \mathcal{E}_{\#}(X)  the subgroup of homotopy classes of homotopy self-equivalences of X inducing the identity on \pi_*(X). The aim of this paper is to prove that \mathcal{E}_{\#}(X)  is finite.

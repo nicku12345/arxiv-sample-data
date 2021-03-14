@@ -1,0 +1,1 @@
+We identify the obstructions for the functoriality and the uniqueness of the totalization functor, (partially) defined on the category of simplicial objects in the homotopy category of a stable model category, and we use a result from the cyclic homology of group algebras to show they can be non-zero.

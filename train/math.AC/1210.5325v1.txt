@@ -1,0 +1,1 @@
+It is characterized when coarsening functors between categories of graded modules preserve injectivity of objects, and when they commute with graded covariant Hom functors.

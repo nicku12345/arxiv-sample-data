@@ -1,0 +1,1 @@
+We prove the minimax equality for the spectral radius \rho(AB) of the product of matrices A\in\mathcal{A} and B\in\mathcal{B}, where \mathcal{A} and \mathcal{B} are compact sets of non-negative matrices of dimensions N\times M and M\times N, respectively, satisfying the so-called hourglass alternative.

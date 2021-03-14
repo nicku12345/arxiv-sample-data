@@ -1,0 +1,1 @@
+Our result contains as special cases the Frobenius theorem (1895) on the number of solutions to the equation x^n=1 in a group, the Solomon theorem (1969) on the number of solutions in a group to a system of equations having fewer equations than unknowns, and the Iwasaki theorem (1985) on roots of subgroups. There are other curious corollaries on groups and rings.

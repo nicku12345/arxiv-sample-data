@@ -1,0 +1,1 @@
+We show that the set of bounded linear operators from X to X admits a Bishop-Phelps-Bollob\'as type theorem for numerical radius whenever X is \ell_1(\mathbb{C}) or c_0(\mathbb{C}). As an essential tool we provide two constructive versions of the classical Bishop-Phelps-Bollob\'as theorem for \ell_1(\mathbb{C}).

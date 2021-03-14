@@ -1,0 +1,1 @@
+We give a simple proof of Hanspeter Schmid's result that K_n:=2\int_0^\infty\cos t\,\prod_{k=0}^n\mathrm{sinc}\left(\frac{t}{2k+1}\right)\mathrm{d}t=\pi/2 if n\in\{0,1,\ldots,55\}, and K_n<\pi/2 if n\geq 56. Furthermore, we present two sinc integrals where the value \pi/2 is undercut as soon as n\geq 418 and n\geq 3091, respectively.

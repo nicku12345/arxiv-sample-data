@@ -1,0 +1,1 @@
+In this lecutre note, we consider infinite dimensional Lie algebras of generalized Jacobi matrices \mathfrak{g}J(k) and \mathfrak{gl}_\infty(k), which are important in soliton theory, and their orthogonal and symplectic subalgebras. In particular, we construct the homology ring of the Lie algebra \mathfrak{g}J(k) and of the orthogonal and symplectic subalgebras.

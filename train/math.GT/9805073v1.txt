@@ -1,0 +1,1 @@
+We give a complete proof of Thurston's Orbifold Theorem for very good 3-orbifolds of cyclic type. An orbifold is said to be very good when it has a finite cover which is a manifold. A 3-orbifold is of cyclic type if the singular set is a non-empty 1-manifold transverse to the boundary.

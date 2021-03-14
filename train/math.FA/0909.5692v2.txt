@@ -1,0 +1,1 @@
+In this paper, we prove generalized Hyres--Ulam--Rassias stability of the mixed type additive, quadratic and cubic functional equation f(x+ky)+f(x-ky)=k^2f(x+y)+k^2f(x-y)+2(1-k^2)f(x) for fixed integers k with k\neq0,\pm1 in non-Archimedean spaces.

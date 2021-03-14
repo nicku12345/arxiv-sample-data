@@ -1,0 +1,1 @@
+In this paper we study the Ellis semigroup of a d-step nilsystem and the inverse limit of such systems. By using the machinery of cubes developed by Host, Kra and Maass, we prove that such a system has a d-step topologically nilpotent enveloping semigroup. In the case d=2, we prove that these notions are equivalent, extending a previous result by Glasner.

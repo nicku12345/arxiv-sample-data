@@ -1,0 +1,1 @@
+In this paper, we study the superconvergence phenomenon in the free central limit theorem for identically distributed, unbounded summands. We prove not only the uniform convergence of the densities to the semicircular density but also their L^p-convergence to the same limit for p>1/2. Moreover, an entropic central limit theorem is obtained as a consequence of the above results.

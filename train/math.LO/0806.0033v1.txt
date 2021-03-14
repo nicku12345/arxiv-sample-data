@@ -1,0 +1,1 @@
+we will define a fuzzy signed measure on \sigma-algebras, as well as positive and negative sets. Herein, we will show that the Fuzzy Hahn Decomposition Theorem, which is a generalization of the classical Hahn Decomposition Theorem, decompose any space X into a positive set A and a negative set B such that A+B=X and the signed measure of A \wedge B  is 0.

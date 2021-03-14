@@ -1,0 +1,1 @@
+This paper proposes a roust downlink multiuser MIMO scheme that exploits the channel mean and antenna correlations to alleviate the performance penalty due to the mismatch between the true and estimated CSI.

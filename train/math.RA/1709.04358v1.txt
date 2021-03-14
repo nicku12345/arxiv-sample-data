@@ -1,0 +1,1 @@
+We present an algebraic structure in modules over integer rings with cardinality prime powers, which allows to define bases. With such structure, we prove a similar version for the basis extension theorem of linear algebra over fields. Moreover, we exhibit results involving the modules and their duals.

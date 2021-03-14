@@ -1,0 +1,1 @@
+We show that the category of corings over a fixed base ring with local units is equivalent to the category of comonads in (right) unital modules whose underlying functors preserve inductive limits. Changing base rings, we prove a bi-equivalence of bicategories. A base ring extension of corings by adjunctions is also introduced.

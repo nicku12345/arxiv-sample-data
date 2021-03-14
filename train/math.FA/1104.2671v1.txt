@@ -1,0 +1,1 @@
+The paper studies Banach spaces satisfying the Littlewood-Paley-Rubio de Francia property LPR_p, 2 \leq p < \infty. The paper shows that every Banach lattice whose 2-concavification is a UMD Banach lattice has this property. The paper also shows that every space having LPR_q also has LPR_p with q \leq p < \infty.

@@ -1,0 +1,1 @@
+This short survey reviews some aspects of spaces of positive-definite self-adjoint linear transformations on R^n and on C^n, including the standard Riemannian metric and the relation with the exponential mapping acting on self-adjoint linear transformations, which indeed leads to geodesics of positive-definite linear transformations.

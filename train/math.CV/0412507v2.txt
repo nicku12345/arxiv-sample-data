@@ -1,0 +1,1 @@
+We show that if the group of holomorphic automorphisms of a connected complex manifold M of dimension n is isomorphic as a topological group equipped with the compact-open topology to the automorphism group of the unit ball B^n\subset\CC^n, then M is biholomorphically equivalent to either B^n or \CC\PP^n\setminus\bar{B^n}.

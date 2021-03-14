@@ -1,0 +1,1 @@
+We prove that for every integer sequence I satisfying Dold relations there exists a map f : \mathbb{R}^d \to \mathbb{R}^d, d \ge 2, such that \mathrm{Per(f)} = \mathrm{Fix(f)} = \{o\}, where o denotes the origin, and (i(f^n, o))_n = I.

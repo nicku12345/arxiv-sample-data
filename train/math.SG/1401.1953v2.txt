@@ -1,0 +1,1 @@
+We prove a conjecture of Barraud-Cornea for orientable Lagrangian surfaces. As a corollary, we obtain that displaceable Lagrangian 2--tori have finite Gromov width. In order to do so, we adapt the pearl complex of Biran-Cornea to the non-monotone situation based on index restrictions for holomorphic discs.

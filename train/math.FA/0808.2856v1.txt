@@ -1,0 +1,1 @@
+If E is a separable symmetric sequence space with trivial Boyd indices and \cC^E is the corresponding ideal of compact operators, then there exists a C^1-function f_E, a self-adjoint element W\in \cC^E and a densely defined closed symmetric derivation \delta on \cC^E such that W \in Dom \delta, but f_E(W) \notin Dom \delta.

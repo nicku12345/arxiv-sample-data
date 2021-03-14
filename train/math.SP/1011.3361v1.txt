@@ -1,0 +1,1 @@
+We present here another proof of Oscar Rojo's theorems about the spectrum of graph Laplacian on certain balanced trees, by taking advantage of the symmetry properties of the trees in question, and looking into the eigenfunctions of Laplacian.

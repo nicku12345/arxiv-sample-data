@@ -1,0 +1,1 @@
+In this paper we solve a question of Simon Wassermann, whether the Calkin algebra can be written as a C*-tensor product of two infinite dimensional C*-algebras. More generally we show that there is no surjective *-homomorphism from a SAW*-algebra onto C*-tensor product of two infinite dimensional C*-algebras.

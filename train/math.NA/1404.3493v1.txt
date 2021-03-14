@@ -1,0 +1,1 @@
+We consider tractability of integration in reproducing kernel Hilbert spaces which are a tensor product of a Walsh space and a Korobov space. The main result provides necessary and sufficient conditions for weak, polynomial and strong polynomial tractability.

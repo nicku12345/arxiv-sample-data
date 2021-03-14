@@ -1,0 +1,1 @@
+In this note, we will do analysis of accessible singular points for a polynomial Hamiltonian system obtained by taking a double covering of the Painlev\'e I equation. We will show that this system passes the Painlev\'e \alpha-test for all accessible singular points P_i \ (i=1,2,3). We note its holomorphy condition of the first Painlev\'e system.

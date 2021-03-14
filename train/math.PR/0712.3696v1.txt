@@ -1,0 +1,1 @@
+We prove a central limit theorem for linear triangular arrays under weak dependence conditions. Our result is then applied to the study of dependent random variables sampled by a \bbZ-valued transient random walk. This extends the results obtained by Guillotin-Plantard & Schneider (2003). An application to parametric estimation by random sampling is also provided.

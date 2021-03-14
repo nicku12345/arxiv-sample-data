@@ -1,0 +1,1 @@
+Let T be the quasinilpotent operator on ell_1 without an invariant subspace constructed by C. J. Read in [R3]. We prove that the modulus of this operator has an invariant subspace (and even an eigenvector). This answers a question posed by Y. Abramovich, C. Aliprantis and O. Burkinshaw in [AAB1,AAB3]

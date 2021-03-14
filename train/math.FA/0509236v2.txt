@@ -1,0 +1,1 @@
+We prove that any tight frame in Hilbert space can be obtained by the Kaczmarz algorithm. An explicit way of constructing this correspondence is given. The uniqueness of the correspondence is determined.

@@ -1,0 +1,1 @@
+Let M denote a compact, orientable, 3-dimensional manifold and let a denote a contact 1-form on M; thus the wedge product of a with da is nowhere zero. This article explains how the Seiberg-Witten Floer homology groups as defined for any given Spin-C structure on M give closed, integral curves of the vector field that generates the kernel of da.

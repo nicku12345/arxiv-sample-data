@@ -1,0 +1,1 @@
+We formalize the concept of a family of metric spaces satisfying a coarse property uniformly and we generalize finite decomposition complexity of Erik Guentner, Romain Tessera, and Guoliang Yu. Of particular interest are results determining sufficient conditions for a metric space to satisfy Property A of Guoliang Yu.

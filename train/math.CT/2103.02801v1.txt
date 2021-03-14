@@ -1,0 +1,1 @@
+The notion of sobriety is extended to the realm of topological spaces valued in a commutative and unital quantale, via an adjunction between a category of quantale modules and the category of quantale-valued topological spaces. Relations between such sober spaces and quantitative domains based on flat ideals are investigated.

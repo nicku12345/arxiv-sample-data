@@ -1,0 +1,1 @@
+The panstochastic analogue of Birkhoff's Theorem on doubly-stochastic matrices is proved in the case n=5. It is shown that this analogue fails when n>1, n \ne 5.

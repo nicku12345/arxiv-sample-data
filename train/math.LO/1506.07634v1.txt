@@ -1,0 +1,1 @@
+We give an affirmative answer to a question of Gorelic \cite{Gorelic}, by showing it is consistent, relative to the existence of large cardinals, that there is a proper class of cardinals \alpha with cf(\alpha)=\omega_1 and \alpha^\omega > \alpha.

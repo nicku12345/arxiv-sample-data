@@ -1,0 +1,1 @@
+In this article, we determine the function \ell(S_{g, p}) such that the right-angled Artin group G(P_{m}) is embedded in the mapping class group \mathrm{Mod}(S_{g, p}) if and only if m is not more than \ell(S_{g, p}). Using this function and Birman--Hilden theory, we prove that \mathrm{Mod}(S_{0, p}) is virtually embedded in \mathrm{Mod}(S_{g, 0}) if and only if p \leq 2g+2.

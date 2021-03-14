@@ -1,0 +1,1 @@
+In the note, all indecomposable canonical forms of linear systems with dimension less than or equal to 4 are determined based on Belitskii's algorithm. As an application, an effective way to calculate dimensions of equivalence classes of linear systems is given by using Belitskii's canonical forms.

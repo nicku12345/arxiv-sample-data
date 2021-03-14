@@ -1,0 +1,1 @@
+We consider the integers having the property of reversing when multiplied by a specific integer k. First, we proved that k should be either 1, 4 or 9. Second, we classify these integers as (10, 1)- reverse multiples, (10, 4)- reverse multiples and (10, 9)- reverse multiples. Then we conclude their general form.

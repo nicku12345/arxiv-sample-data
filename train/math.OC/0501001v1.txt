@@ -1,0 +1,1 @@
+I do improve a recent improvement (due to Saint Raymond) of a minimax theorem of Borenshtein and Shul'man, replacing a global compactness assumption by a local one.

@@ -1,0 +1,1 @@
+We describe the natural identification of FH_*(X \times X, \triangle; \omega \oplus -\omega) with FH_*(X, \omega). Under this identification, we show that the extra elements in Ham(X \times X, \omega \oplus -\omega) found in (Part I), for X = (S^2 \times S^2, \omega_0 \oplus \lambda \omega_0) for \lambda > 1, do not define new invertible elements in FH_*(X, \omega).

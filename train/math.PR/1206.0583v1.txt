@@ -1,0 +1,1 @@
+By constructing a coupling in two steps and using the Girsanov theorem under a regular conditional probability, the log-Harnack inequality is established for a large class of Gruschin type semigroups whose generator might be both degenerate and non-Lipschitzian.

@@ -1,0 +1,1 @@
+In this paper we study gradings on simple Lie algebras arising from nilpotent elements. Specifically, we investigate abelian subalgebras which are degree 1 homogeneous with respect to these gradings. We show that for each odd nilpotent element there always exists canonically associated "strictly" odd nilpotent element, which allows us to reduce our investigations to the latter.

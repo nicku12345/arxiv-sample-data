@@ -1,0 +1,1 @@
+We give a sufficient condition for the essential self-adjointness of a perturbation of the square of the magnetic Laplacian on an infinite weighted graph. The main result is applicable to graphs whose degree function is not necessarily bounded. The result allows perturbations that are not necessarily bounded from below by a constant.

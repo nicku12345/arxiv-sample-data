@@ -1,0 +1,1 @@
+The purpose of this paper is to represent the integral Hankel transform as a series. If one uses B-spline wavelet this series is a linear combination of the hypergeometrical functions. Numerical evaluation of the test function with known analytical Hankel transform of the null kind illustrates the proposed results.

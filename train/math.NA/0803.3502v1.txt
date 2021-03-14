@@ -1,0 +1,1 @@
+We analyze a finite volume scheme for nonlocal SIR model, which is a nonlocal reaction-diffusion system modeling an epidemic disease. We establish existence solutions to the finite volume scheme, and show that it converges to a weak solution. The convergence proof is based on deriving series of a priori estimates and using a general L^p compactness criterion.

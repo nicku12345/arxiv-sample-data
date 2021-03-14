@@ -1,0 +1,1 @@
+In recent years, twisted Alexander polynomial has been playing an important role in low-dimensional topology.   For Montesinos links, we develop an efficient method to compute the twisted Alexander polynomial associated to any linear representation.   In particular, formulas for multi-variable Alexander polynomials of these links can be easily derived.

@@ -1,0 +1,1 @@
+We prove that the unitary equivalence classes of extensions of C*_r(G) by any sigma-unital stable C"-algebra, taken modulo extensions which split via an asymptotic homomorphism, form a group which can be calculated from the universal coefficient theorem of KK-theory when G is a free product of a countable collection of amenable groups.

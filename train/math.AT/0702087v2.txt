@@ -1,0 +1,1 @@
+We show that intersection homology extends Poincare duality to manifold homotopically stratified spaces (satisfying mild restrictions). This includes showing that, on such spaces, the sheaf of singular intersection chains is quasi-isomorphic to the Deligne sheaf.

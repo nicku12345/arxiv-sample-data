@@ -1,0 +1,1 @@
+In this paper we introduce the notion of the center ZBin(X) in the semigroup Bin(X) of all binary systems on a set X, and show that if (X,\bullet)\in ZBin(X), then x\not=y implies \{x,y\}=\{x\bullet y,y\bullet x\}.Moreover, we show that a groupoid (X,\bullet )\in ZBin(X) if and only if it is a locally-zero groupoid.

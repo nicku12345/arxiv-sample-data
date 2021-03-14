@@ -1,0 +1,1 @@
+We study families of time-frequency localization operators and derive a new characterization of modulation spaces. This characterization relates the size of the localization operators to the global time-frequency distribution. As a by-product, we obtain a new proof for the existence of multi-window Gabor frames and extend the structure theory of Gabor frames.

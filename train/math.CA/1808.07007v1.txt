@@ -1,0 +1,1 @@
+We introduce a new type of means. It is new in two ways: its domain consists of sets and its values are sets too. We investigate the properties and behavior of such generalization. We also present many naturally arisen examples for such means.

@@ -1,0 +1,1 @@
+We study certain weighted area integral means of analytic functions in the unit disc. We relate the growth of these means to the property of being mean H\"older continuous with respect to the Bergman space norm. In contrast with earlier work, we use the second iterated difference quotient instead of the first. We then give applications to Bergman space extremal problems.

@@ -1,0 +1,1 @@
+To locate all eigenvalues of a matrix more precisely, we exclude some sets which do not include any eigenvalue of the matrix from the well-known Brauer set to give two new Brauer-type eigenvalue inclusion sets. And it is also shown that the new sets are contained in the Brauer set.

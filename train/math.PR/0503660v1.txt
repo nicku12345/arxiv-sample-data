@@ -1,0 +1,1 @@
+In this note we show that almost sure convergence to zero of symmetrized U-statistics indexed by a linear sector in Z^d_+ is equivalent to convergence along the diagonal of Z^d_+, as it is considered in Lata\la and Zinn [Ann. Probab. 28 (2000) 1908-1924]. Comparisons with similar results for sums of multi-indexed i.i.d. random variables are also made.

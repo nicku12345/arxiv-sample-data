@@ -1,0 +1,1 @@
+We present a construction of biorthogonal wavelets using a compact operator which allows to preserve or increase some properties: regularity/vanishing moments, parity, compact supported. We build then a simple algorithm which computes new filters.

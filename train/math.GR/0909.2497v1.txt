@@ -1,0 +1,1 @@
+Let G be a group and let O_G denote the set of left orderings on G. Then O_G can be topologized in a natural way, and we shall study this topology to show that O_G can never be countably infinite. This paper retrieves correct parts of the withdrawn paper arXiv:math/0607470.

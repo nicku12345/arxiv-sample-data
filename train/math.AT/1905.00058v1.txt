@@ -1,0 +1,1 @@
+In this note we state corrected and expanded versions of our previous results on power operations for C_2-equivariant Bredon homology with coefficients in the constant Mackey functor on \mathbb{F}_2. In particular, we give a version of the Adem relations. The proofs rely on certain results in equivariant higher algebra which we will supply in a longer version of this paper.

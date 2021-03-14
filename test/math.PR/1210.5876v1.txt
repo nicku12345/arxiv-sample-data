@@ -1,0 +1,1 @@
+The aim of this paper is to characterize the Snell envelope of a given P-measurable process l as the minimal solution of some backward stochastic differential equation with lower general reflecting barriers and to prove that this minimal solution exists.

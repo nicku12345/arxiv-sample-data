@@ -1,0 +1,1 @@
+Let X be a complex space of pure dimension. We introduce fine sheaves \A^X_q of (0,q)-currents, which coincides with the sheaves of smooth forms on the regular part of X, so that the associated Dolbeault complex yields a resolution of the structure sheaf \hol^X. Our construction is based on intrinsic and quite explicit semi-global Koppelman formulas.

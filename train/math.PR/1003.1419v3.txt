@@ -1,0 +1,1 @@
+We prove several necessary and sufficient conditions for the existence of (smooth) transition probability densities for L\'evy processes and isotropic L\'evy processes. Under some mild conditions on the characteristic exponent we calculate the asymptotic behaviour of the transition density as t\to 0 and t\to\infty and show a ratio-limit theorem.

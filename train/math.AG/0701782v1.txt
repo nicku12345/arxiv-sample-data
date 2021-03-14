@@ -1,0 +1,1 @@
+Let X be an n-dimensional smooth proper variety over a field admitting resolution of singularities, and Y,Z two disjoint closed subsets of X. We establish an isomorphism M(X-Z,Y) isomorphic to M(X-Y,Z)^*(n)[2n] in Voevodsky's triangulated category of geometric motives. Here, M(X-Z,Y) is the motive of X -Z relative to its closed subset Y.

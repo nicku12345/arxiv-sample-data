@@ -1,0 +1,1 @@
+Let R = D[x;\sigma;\delta] be an Ore extension over a commutative Dedekind domain D, where \sigma is an automorphism on D. In the case \delta = 0 Marubayashi et. al. already investigated the class of minimal prime ideals in term of their contraction on the coefficient ring D. In this note we extend this result to a general case \delta not 0.

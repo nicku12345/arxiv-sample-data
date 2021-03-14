@@ -1,0 +1,1 @@
+We embed the rough integration in a larger geometrical/algebraic framework of integrating one-forms against group-valued paths, and reduce the rough integral to an inhomogeneous analogue of the classical Young integral. We define dominated paths as integrals of one-forms, and demonstrate that they are stable under basic operations.

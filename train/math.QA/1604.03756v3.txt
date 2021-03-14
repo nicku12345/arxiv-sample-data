@@ -1,0 +1,1 @@
+We study the quantum groups appearing via models C(G)\subset M_K(C(X)) which are "stationary", in the sense that the Haar integration over G is the functional tr\otimes\int_X. Our results include a number of generalities, notably with a substantial list of examples, and a detailed discussion in the quantum permutation group case.

@@ -1,0 +1,1 @@
+This paper considers the stochastic linear quadratic optimal control problem in which the control domain is nonconvex. By the functional analysis and convex perturbation methods, we establish a novel maximum principle. The application of the proposed maximum principle is illustrated through a work-out example.

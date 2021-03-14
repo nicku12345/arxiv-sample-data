@@ -1,0 +1,1 @@
+A version of smooth K-theory is constructed, which is adapted to the total Chern class instead of the Chern character (contrarily to previous theories). Some total Chern class morphism from this K-theory to Cheeger-Simons differential characters is constructed. This answers a question raised by U. Bunke.

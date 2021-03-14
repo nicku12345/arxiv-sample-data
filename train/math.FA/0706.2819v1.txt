@@ -1,0 +1,1 @@
+Let \Omega be an operator semigroup with generator A in a sequentially complete locally convex topological vector space E. For a semigroup with generator A+D, where D is a bounded linear operator on E, two integral equations are derived. A theorem on continuous dependence of a semigroup on its generator is proved. An application to random walk on \mathbb{Z} is given.

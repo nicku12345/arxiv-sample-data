@@ -1,0 +1,1 @@
+We describe meromorphic solutions to the equations f^n(z)+\left(f'\right)^n(z)=e^{\alpha z+\beta} and f^n(z)+f^n(z+c)=e^{\alpha z+\beta} (c\neq0) over the complex plane \mathbf{C} for integers n\geq1.

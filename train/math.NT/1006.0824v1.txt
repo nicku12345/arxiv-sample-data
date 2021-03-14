@@ -1,0 +1,1 @@
+We show that for primes p < 10^{14} the period length \kappa (p^2) of the Fibonacci sequence modulo p^2 is never equal to its period length modulo p. The investigation involves an extensive search by computer. As an application, we establish the general formula \kappa (p^n) = \kappa (p) \cdot p^{n-1} for all primes less than 10^{14}.

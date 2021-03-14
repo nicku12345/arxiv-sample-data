@@ -1,0 +1,1 @@
+We consider the weighted A^p(\omega) and B_p(\omega) spaces of holomorphic functions on the polydisk (in the case of p>1).   We prove some theorems about the boundedness of Toeplitz operators on weighted Besov spaces B_p(\omega) and about the boundedness of generalized little Hankel and Berezin- type operators on A^p(\omega).

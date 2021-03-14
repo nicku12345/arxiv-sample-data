@@ -1,0 +1,1 @@
+Let \De u+\la u=\De v+\la v=0, where \De is the Laplace--Beltrami operator on a compact connected smooth manifold M and \la>0. If H^1(M)=0 then there exists p\in M such that u(p)=v(p)=0. For homogeneous M, H^1(M)\neq0 implies the existence of a pair u,v as above that has no common zero.

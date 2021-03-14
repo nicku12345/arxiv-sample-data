@@ -1,0 +1,1 @@
+We give a new proof of a formula for the fusion rules for type A_2 due to B\'egin, Mathieu, and Walton. Our approach is to symbolically evaluate the Kac-Walton algorithm.

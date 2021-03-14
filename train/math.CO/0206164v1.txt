@@ -1,0 +1,1 @@
+Let w_0 denote the permutation [n,n-1,...,2,1]. We give two new explicit formulae for the Kazhdan-Lusztig polynomials P_{w_0w,w_0x} in S_n when x is a maximal element in the singular locus of the Schubert variety X_w. To do this, we utilize a standard identity that relates P_{x,w} and P_{w_0w,w_0x}.

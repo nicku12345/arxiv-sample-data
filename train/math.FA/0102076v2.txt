@@ -1,0 +1,1 @@
+This paper suggests an algebraic version of the theorem on the existence of eigenvectors for linear operators in abstract idempotent spaces. Earlier, the theorem on the existence of eigenvectors was only known for the cases of a free finite-dimensional semimodule and for compact operators in semimodules of real continuous functions.

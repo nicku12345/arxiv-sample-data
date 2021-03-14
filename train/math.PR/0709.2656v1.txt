@@ -1,0 +1,1 @@
+In this note, we show how the penalization method, introduced in order to describe some non-trivial changes of the Wiener measure, can be applied to the study of some simple polymer models such as the pinning model. The bulk of the analysis is then focused on the study of a martingale which has to be computed as a Markovian limit.

@@ -1,0 +1,1 @@
+We show that z\in\R^n is computably random if and only if every computable monotone function on \R^n is differentiable at z.

@@ -1,0 +1,1 @@
+In this paper, we prove a Tb theorem on product spaces \Bbb R^n\times \Bbb R^m, where b(x_1,x_2)=b_1(x_1)b_2(x_2), b_1 and b_2 are para-accretive functions on \Bbb R^n and \Bbb R^m, respectively.

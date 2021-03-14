@@ -1,0 +1,1 @@
+We compute the structure of the homology of an operad built from the spaces TH_{d,n} of configurations of points in C^d, modulo translation and homothety. We find that it is a mild generalization of Getzler's gravity operad, which occurs in dimension d = 1.

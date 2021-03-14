@@ -1,0 +1,1 @@
+We introduce a new class of multiplications of distributions in one dimension merging together two different regularizations of distributions. Some of the features of these multiplications are discussed in a certain detail.   We use our theory to study a certain number of examples, involving products between Dirac delta functions and its successive derivatives.

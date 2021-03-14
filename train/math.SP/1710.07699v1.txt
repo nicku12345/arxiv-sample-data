@@ -1,0 +1,1 @@
+We consider an inverse problem for Schr\"odinger operators on a connected equilateral graph G with standard matching conditions. The graph G consists of at least two odd cycles glued together at a common vertex. We prove an Ambarzumian type result, i.e., if a specific part of the spectrum is the same as in the case of zero potential, then the potential has to be zero.

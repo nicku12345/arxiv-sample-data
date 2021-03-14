@@ -1,0 +1,1 @@
+We offer a new approach to a definition of an equivariant version of the Poincar\'e series. This Poincar\'e series is defined not as a power series, but as an element of the Grothendieck ring of G-sets with an additional structure. We compute this Poincar\'e series for natural filtrations on the ring of germs of functions on the plane (\C^2,0) with a finite group representation.

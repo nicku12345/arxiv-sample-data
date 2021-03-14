@@ -1,0 +1,1 @@
+In 1971, Kunio Murasugi proved a necessary condition on a knot's Alexander polynomial for that knot to be periodic of prime power order. In this paper I present an alternate proof of Murasugi's condition which is subsequently used to extend his result to the twisted Alexander polynomial.

@@ -1,0 +1,1 @@
+Fock spaces over zeons are introduced. Trace identities and a noncommutative "integration-by-parts" formula are developed. As an application, we find a new criterion, without involving powers of the transition matrix, for a Markov chain to be ergodic.

@@ -1,0 +1,1 @@
+In this paper we continue with the algebraic study of Krivine's realizability, refining some of the authors' previous constructions by introducing two categories, with objects the abstract Krivine structures and the implicative algebras respectively. These categories are related by an adjunction whose existence clarifies many aspects of the theory previously established.

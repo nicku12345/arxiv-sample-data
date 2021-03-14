@@ -1,0 +1,1 @@
+We investigate left k-Noetherian and left k-Artinian semirings. We characterize such semirings using i-injective semimodules. We prove in particular, a partial version of the celebrated Bass-Papp Theorem for semiring. We illustrate our main results by examples and counter examples.

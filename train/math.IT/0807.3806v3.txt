@@ -1,0 +1,1 @@
+It is shown that for any binary-input discrete memoryless channel W with symmetric capacity I(W) and any rate R <I(W), the probability of block decoding error for polar coding under successive cancellation decoding satisfies P_e \le 2^{-N^\beta} for any \beta<\frac12 when the block-length N is large enough.

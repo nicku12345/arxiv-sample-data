@@ -1,0 +1,1 @@
+We classify incompressible, boundary-incompressible, nonorientable surfaces in punctured-torus bundles over S^1. We use the ideas of Floyd, Hatcher, and Thurston. The main tool is to put our surface in the "Morse position" with respect to the projection of the bundle into the basis S^1.

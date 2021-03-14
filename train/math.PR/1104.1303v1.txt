@@ -1,0 +1,1 @@
+We show that Talagrand's transport inequality is equivalent to a restricted logarithmic Sobolev inequality. This result clarifies the links between these two important functional inequalities. As an application, we give the first proof of the fact that Talagrand's inequality is stable under bounded perturbations.

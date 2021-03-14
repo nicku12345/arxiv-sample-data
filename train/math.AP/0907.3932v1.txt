@@ -1,0 +1,1 @@
+Linear interpolation inequalities that combine Hardy's inequality with sharp Sobolev embedding are obtained using classical arguments of Hardy and Littlewood (Bliss lemma). Such results are equivalent to Caffarelli-Kohn-Nirenberg inequalities with sharp constants. A one-dimensional convolution inequality for the exponential density is derived as an application of these methods.

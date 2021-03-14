@@ -1,0 +1,1 @@
+In this paper, we study the holomorphic function defined by the infinite product \Gamma_{a,r}(s) =\prod_{n \geq 0} (1 + \frac{1}{a+ nr})^s (1 + \frac{s}{a+nr})^{-1} which generalize Euler's definition in the sense that \Gamma(s) = \frac{\Gamma_{1,1}(s)}{s}. We obtain analogues of the Gauss multiplication formula, complement formula for functions \Gamma_{a,r}(s).

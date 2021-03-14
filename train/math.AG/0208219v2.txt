@@ -1,0 +1,1 @@
+We consider the family of polynomials P(x,a)=x^n+a_1x^{n-1}+... +a_n, x,a_i\in {\bf R}, and the stratification of {\bf R}^n\cong \{(a_1,... ,a_n)|a_i\in {\bf R}\} defined by the multiplicity vector of the real roots of P. We prove smoothness of the strata and a transversality property of their tangent spaces.

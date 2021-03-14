@@ -1,0 +1,1 @@
+It is shown that any finite, rank-connected, dismantlable lattice is lexicographically shellable (hence Cohen-Macaulay). A ranked, interval-connected lattice is shown to be rank-connected, but a rank-connected lattice need not be interval-connected. An example of a planar, rank-connected lattice that is not admissible is given.

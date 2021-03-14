@@ -1,0 +1,1 @@
+Geometric properties of schemes obtained by gluing algebras of monoids, including separation and finiteness properties, irreducibility, normality, catenarity, dimension, and Serre's properties (S_k) and (R_k), are investigated. This is used to show how the geometry of a toric scheme over an arbitrary base is influenced by the geometry of the base.

@@ -1,0 +1,1 @@
+This paper concerns the first passage times of Bessel processes to a point on the positive real line. We are interested in the case when the process starts at a position on its right and compute the densities of the distributions of the passage time to obtain the asymptotic forms of them as time tends to infinity that are valid uniformly for the starting position.

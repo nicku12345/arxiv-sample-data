@@ -1,0 +1,1 @@
+We show that there exists a canonical functor from the category of strict \infty-groupoids to the category of Grothendieck \infty-groupoids and that this functor is fully faithful. As a main ingredient, we prove that free strict \infty-groupoids on a globular pasting scheme are weakly contractible.

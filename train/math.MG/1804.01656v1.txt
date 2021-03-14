@@ -1,0 +1,1 @@
+We prove that the boundary of an orbit space or more generally a leaf space of a singular Riemannian foliation is an Alexandrov space in its intrinsic metric, and that its lower curvature bound is that of the leaf space. A rigidity theorem for positively curved leaf spaces with maximal boundary volume is also established and plays a key role in the proof of the boundary problem.

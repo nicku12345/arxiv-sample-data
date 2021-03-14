@@ -1,0 +1,1 @@
+A mixing Markov chain is proved to be realized as a random walk in a directed graph subject to a synchronizing road coloring. The result ensures existence of appropriate random mappings in Propp--Wilson's coupling from the past. The proof is based on the road coloring theorem. A necessary and sufficient condition for approximate preservation of entropies is also given.

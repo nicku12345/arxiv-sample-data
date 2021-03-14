@@ -1,0 +1,1 @@
+We prove that for every C>0 there exists a driving function U:[0,1]\to\mathbb{R} such that the corresponding chordal Loewner-Kufarev equation generates a quasislit and  \limsup_{h\downarrow0}\frac{|U(1)-U(1-h)|}{\sqrt{h}}=C. 

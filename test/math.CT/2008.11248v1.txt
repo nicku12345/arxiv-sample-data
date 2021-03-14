@@ -1,0 +1,1 @@
+We prove that, for any fields k and \mathbb{F} of characteristic 0 and any finite group T, the category of modules over the shifted Green biset functor (kR_{\mathbb{F}})_T is semisimple.

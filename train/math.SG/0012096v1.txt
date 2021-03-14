@@ -1,0 +1,1 @@
+We prove that, for any n, there are simply-connected four-manifolds which admit n-tuples of symplectic forms whose first Chern classes have pairwise different divisibilities in integral cohomology. It follows that the moduli space of symplectic forms modulo diffeomorphisms on such a manifold has at least n connected components.

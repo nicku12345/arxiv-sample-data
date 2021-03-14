@@ -1,0 +1,1 @@
+In the present paper we consider the system {\Delta}u - W_u (u) = 0, where u: R^n to R^n, for a class of potentials W: R^n to R that possess several global minima and are invariant under a general finite reflection group G. We establish existence of nontrivial entire solutions connecting the global minima of W along certain directions at infinity.

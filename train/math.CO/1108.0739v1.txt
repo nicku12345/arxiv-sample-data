@@ -1,0 +1,1 @@
+We show that every infinite word \omega on a finite subset of \mathbb{Z} must contain arbitrarily large factors B_1B_2 which are "close" to being \textit{additive squares}. We also show that for all k>1, \ \omega must contain a factor U_1U_2 ... U_k where U_1,U_2,..., U_k all have the same \textit{average.}

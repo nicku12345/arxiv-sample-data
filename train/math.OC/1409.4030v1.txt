@@ -1,0 +1,1 @@
+We consider discrete time partially observable zero-sum stochastic game with average payoff criterion. We study the game using an equivalent completely observable game. We show that the game has a value and also we come up with a pair of optimal strategies for both the players.

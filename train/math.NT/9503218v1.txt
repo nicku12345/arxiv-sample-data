@@ -1,0 +1,1 @@
+We describe some new general constructions of p-adic L-functions attached to certain arithmetically defined complex L-functions coming from motives over \bold Q with coefficiens in a number field T, with [T:\bold Q]<\infty. These constructions are equivalent to proving some generalized Kummer congruences for critical special values of these complex L-functions.

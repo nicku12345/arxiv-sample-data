@@ -1,0 +1,1 @@
+We characterise all the quasi-stationary distributions and the Q-process associated with a continuous state branching process that explodes in finite time. We also provide a rescaling for the continuous state branching process conditioned on non-explosion when the branching mechanism is regularly varying at 0.

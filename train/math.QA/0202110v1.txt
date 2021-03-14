@@ -1,0 +1,1 @@
+The sequence of rings H^n, n\ge 0, introduced in math.QA/0103190, controls categorification of the quantum sl(2) invariant of tangles. We prove that the center of H^n is isomorphic to the cohomology ring of the (n,n) Springer variety and show that the braid group action in the derived category of H^n-modules descends to the Springer action of the symmetric group.

@@ -1,0 +1,1 @@
+We determine the isomorphism class of the Brauer groups of certain nonrational genus zero extensions of number fields. In particular, for all genus zero extensions E of the rational numbers Q that are split by Q(\sqrt{2}), Br(E) is isomorphic to Br(Q(t)).

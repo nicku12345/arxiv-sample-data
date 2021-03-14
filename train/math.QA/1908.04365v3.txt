@@ -1,0 +1,1 @@
+We associate a formal power series with integer coefficients to a positive real number, we interpret this series as a "q-analogue of a real." The construction is based on the notion of q-deformed rational number introduced in arXiv:1812.00170. Extending the construction to negative real numbers, we obtain certain Laurent series.

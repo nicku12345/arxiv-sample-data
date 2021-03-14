@@ -1,0 +1,1 @@
+We compute the Hochschild and Gerstenhaber-Schack cohomological dimensions of the universal cosovereign Hopf algebras, when the matrix of parameters is a generic asymmetry. Our main tools are considerations on the cohomologies of free product of Hopf algebras, and on the invariance of the cohomological dimensions under graded twisting by a finite abelian group.

@@ -1,0 +1,1 @@
+New results on strong-consistency, in the Hilbert-Schmidt and trace operator norms, are obtained, in the parameter estimation of an autoregressive Hilbertian process of order one (ARH(1) process). In particular, a strongly-consistent diagonal componentwise estimator of the autocorrelation operator is derived, based on its empirical singular value decomposition.

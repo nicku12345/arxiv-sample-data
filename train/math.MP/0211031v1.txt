@@ -1,0 +1,1 @@
+The symmetry analysis of Ermakov systems is extended to the generalized case where the frequency depends on the dynamical variables besides time. In this extended framework, a whole class of nonlinearly coupled oscillators are viewed as Hamiltonian Ermakov system and exactly solved in closed form.

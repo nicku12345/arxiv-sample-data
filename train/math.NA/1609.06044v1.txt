@@ -1,0 +1,1 @@
+We consider a stabilized nonconforming finite element method for data assimilation in incompressible flow subject to the Stokes' equations. The method uses a primal dual structure that allows for the inclusion of nonstandard data. Error estimates are obtained that are optimal compared to the conditional stability of the ill-posed data assimilation problem.

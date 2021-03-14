@@ -1,0 +1,1 @@
+Let \Phi  be a Drinfeld \mathbf{F}\_{q}[T]-module of rank 2, over a finite field L=\mathbf{F}\_{q^{n}}. We will study the cyclic property of the structure L^{\Phi}. We will prove that the latter is cyclic only for trivial extensions of \mathbf{F}\_{q}.

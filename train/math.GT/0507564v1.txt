@@ -1,0 +1,1 @@
+In this paper we construct a family of symplectic 4--manifolds with positive signature for any given fundamental group G that approaches the BMY line. The family is used to show that one cannot hope to do better than than the BMY inequality in finding a lower bound for the function f=\chi+b\sigma on the class of all minimal symplectic 4-manifolds with a given fundamental group.

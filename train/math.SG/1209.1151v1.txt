@@ -1,0 +1,1 @@
+We show that a symplectic isotopy that is a C^0 limit of Hamiltonian isotopies is itself Hamiltonian, if the corresponding sequence of generating Hamiltonians converge in L^{(1, \infty)} topology.

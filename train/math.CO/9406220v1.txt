@@ -1,0 +1,1 @@
+A generalization of the classical statistics ``maj'' and ``inv'' (the major index and number of inversions) on words is introduced, parameterized by arbitrary graphs on the underlying alphabet. The question of characterizing those graphs that lead to equi-distributed "inv" and "maj" is posed and answered.

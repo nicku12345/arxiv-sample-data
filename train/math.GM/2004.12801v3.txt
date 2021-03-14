@@ -1,0 +1,1 @@
+The maximal number of cells in a polyomino with no four cells equally spaced on a straight line is determined to be 142. This is based on several partial results, each of which can be verified with computer assistance.

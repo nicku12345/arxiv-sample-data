@@ -1,0 +1,1 @@
+We show that the bridge number of a t bridge knot in S^3 with respect to an unknotted genus t surface is bounded below by a function of the distance of the Heegaard splitting induced by the t bridges. It follows that for any natural number n, there is a tunnel number one knot in S^3 that is not (1,n).

@@ -1,0 +1,1 @@
+Concrete sharp constants in a pointwise estimate of the gradient of a harmonic function in the unit disk are obtained under the assumption that function belong to Hardy space h^p, p\ge 1. This generalizes some recent result of Maz'ya & Kresin and a result of Colonna related to the Bloch constant of harmonic mappings of the unit disk into itself.

@@ -1,0 +1,1 @@
+Here we give two bijections, one to show that the number of UUU-free Dyck n-paths is the Motzkin number M_n, the other to obtain the (known) distributions of the parameters "number of UDUs" and "number of DDUs" on Dyck n-paths. The first bijection is straightforward, the second not quite so obvious.

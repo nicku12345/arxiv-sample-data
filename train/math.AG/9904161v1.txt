@@ -1,0 +1,1 @@
+Let H be the supremum of finitely many real polynomials of degree d and assume that H has a strict local minimum at 0. We prove a \L ojasiewicz-type inequality H(x_1,...,x_n) > ||(x_1,...,x_n)||^s where s depends only on d and n. This implies a similar inequality where (x_1,...,x_n) runs through the points of a semi-algebraic set.

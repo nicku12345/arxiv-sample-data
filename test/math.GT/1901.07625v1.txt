@@ -1,0 +1,1 @@
+We study the double slice genus of a knot, a natural generalization of slice genus. We define a notion called band number, a natural generalization of band unknotting number, and prove it is an upper bound on double slice genus. Our bound is based on an analysis of broken surface diagrams and embedding properties of 3-manifolds in 4-manifolds.

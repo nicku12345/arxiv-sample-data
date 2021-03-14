@@ -1,0 +1,1 @@
+We introduced a generalized Wishart distribution, namely, the Kotz-Wishart distribution. Several existing results based on the normality assumption have been extended. Inspired by the particular form of the pdf of the Kotz-Wishart matrix, we extended the Laplace transform operator. This generalized Laplace transform is applied to some functions of matrix argument.

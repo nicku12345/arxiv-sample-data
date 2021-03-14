@@ -1,0 +1,1 @@
+Three programs in Mathematica are presented, which produce expressions for the lowest order and the higher order corrections of the Phase Integral Approximation. First program is pertinent to one ordinary differential equation of the Schr\"odinger type. The remaining two refer to a set of two such equations.

@@ -1,0 +1,1 @@
+We establish new approximation results, in the sense of Lusin, of Sobolev functions by Lipschitz ones, in some classes of non-doubling metric measure structures. Our proof technique relies upon estimates for heat semigroups and applies to Gaussian and RCD(K, \infty) spaces. As a consequence, we obtain quantitative stability for regular Lagrangian flows in Gaussian settings.

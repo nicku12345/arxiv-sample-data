@@ -1,0 +1,1 @@
+We show that certain pullbacks of *-algebras equivariant with respect to a compact group action remain pullbacks upon completing to C^*-algebras. This unifies a number of results in the literature on graph algebras, showing that pullbacks of Leavitt path algebras lift automatically to pullbacks of the corresponding graph C^*-algebras.

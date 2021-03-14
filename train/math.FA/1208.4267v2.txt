@@ -1,0 +1,1 @@
+A typical result in this note is that if X is a Banach space which is a weak Asplund space and has the \omega^*-\omega-Kadets Klee property, then X is already an Asplund space.

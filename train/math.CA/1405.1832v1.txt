@@ -1,0 +1,1 @@
+Asymptotic properties of solutions of difference equation of the form \[ \Delta^m(x_n+u_nx_{n+k})=a_nf(n,x_{\sigma(n)})+b_n \] are studied. We give sufficient conditions under which all solutions, or all solutions with polynomial growth, or all nonoscillatory solutions are asymptotically polynomial. We use a new technique which allows us to control the degree of approximation.

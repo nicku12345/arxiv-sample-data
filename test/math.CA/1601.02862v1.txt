@@ -1,0 +1,1 @@
+We prove that a function f(x,y) of real variables defined on a rectangle, having square integrable partial derivatives f"_{xx} and f"_{yy}, has almost everywhere mixed derivatives f"_{xy} and f"_{yx}.

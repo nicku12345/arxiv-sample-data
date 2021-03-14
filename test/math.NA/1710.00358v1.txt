@@ -1,0 +1,1 @@
+In this work, we describe how to approximate solutions of some partial differential equations using the finite difference method defined on the Minkowski self-similar curve.

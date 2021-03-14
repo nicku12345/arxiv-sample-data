@@ -1,0 +1,1 @@
+In this article, we present a geometrical proof of sum of \cos n\varphi where n goes from 1 up to m. Although there exist some summation forms and the proofs are simple, they use complex numbers. Our proof comes from a geometrical construction. Moreover, from this geometrical construction we obtain an other summation form.

@@ -1,0 +1,1 @@
+We prove that thick category \mathcal{O} associated to a semi-simple complex finite dimensional Lie algebra is extension full in the category of all modules. We also prove the weak Alexandru conjecture both for regular blocks of thick category \mathcal{O} and the associated categories of Harish-Chandra bimodules, but disprove it for singular blocks.

@@ -1,0 +1,1 @@
+Let \Sigma be a complete finite-area orientable hyperbolic surface with one cusp, and let \mathcal{R} be the space of complete geodesic rays in \Sigma emanating from the puncture. Then there is a natural action of the mapping class group of \Sigma on \mathcal{R}. We show that this action is "almost everywhere" wandering.

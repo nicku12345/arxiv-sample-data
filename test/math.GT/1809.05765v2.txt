@@ -1,0 +1,1 @@
+We investigate two specific contractible manifolds (one Stein, and the other non-Stein) whose boundaries have non-trivial mapping class groups. In both cases we show that every diffeomorphism of their boundary extends to a diffeomorphism of the full manifold. In particular, these manifolds cannot be corks. The methods are a mix of 3 and 4-manifold techniques.

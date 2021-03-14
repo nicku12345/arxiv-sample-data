@@ -1,0 +1,1 @@
+BiHom-Akivis algebras are introduced. The BiHom-commutator-BiHom-associator algebra of a regular BiHom-algebra is a BiHom-Akivis algebra. It is shown that BiHom-Akivis algebras can be obtained from Akivis algebras by twisting along two algebra endomorphisms. It is pointed out that a BiHom-Akivis algebra associated to a regular BiHom-alternative algebra is a BiHom-Malcev algebra.

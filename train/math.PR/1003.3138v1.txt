@@ -1,0 +1,1 @@
+We consider the problem of modifying a quasi-probability kernel in order to improve its properties without changing the set of measures whose conditional probabilities it specifies.

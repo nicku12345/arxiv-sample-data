@@ -1,0 +1,1 @@
+We construct a representation of the blob algebra over a ring allowing base change to every interesting (i.e. non--semisimple) specialisation which, in quasihereditary specialisations, passes to a full tilting module.

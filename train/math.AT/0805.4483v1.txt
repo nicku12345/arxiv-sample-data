@@ -1,0 +1,1 @@
+By inspiring ourselves in Drinfeld's DG quotient, we develop Postnikov towers, k-invariants and an obstruction theory for dg categories. As an application, we obtain the following `rigidification' theorem: let A be a homologically connective dg category and F:B -> H0(A) a dg functor to its homotopy category. If the family of obstruction classes vanishes, then a lift for F exists.

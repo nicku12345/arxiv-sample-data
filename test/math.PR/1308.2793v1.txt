@@ -1,0 +1,1 @@
+Non-trivial linear bounds are obtained for the displacement of a random walk in a dynamic random environment given by a one-dimensional simple symmetric exclusion process in equilibrium. The proof uses an adaptation of multiscale renormalization methods of Kesten and Sidoravicius.

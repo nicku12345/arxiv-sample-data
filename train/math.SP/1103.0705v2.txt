@@ -1,0 +1,1 @@
+We prove that the Folland's fundamental solution for the sub-Laplacian on Heisenberg groups can also be derived form the resolvent kernel of this sub-Laplacian. This provides us with a new integral representation for this fundamental solution.

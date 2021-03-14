@@ -1,0 +1,1 @@
+We prove some combinatorial results required for the proof of the following conjecture of Nekrasov: The generating function of closed string invariants in local Calabi-Yau geometries obtained by appropriate fibrations of A_N singularities over P^1 reproduce the generating function of equivariant \hat{A}-genera of moduli space of instants on C^2.

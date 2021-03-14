@@ -1,0 +1,1 @@
+We prove that the total Betti number of the intersection X of three quadrics in RP^n is bounded by n(n+1). This bound improves the classical Barvinok's one which is at least of order three in n.

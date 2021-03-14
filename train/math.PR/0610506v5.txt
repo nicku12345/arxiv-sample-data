@@ -1,0 +1,1 @@
+Under the assumption that the initial population size of a Galton-Watson branching process increases to infinity, the paper studies asymptotic behavior of the population size before extinction. More specifically, we establish asymptotic properties of the conditional moments (which are exactly defined in the paper).

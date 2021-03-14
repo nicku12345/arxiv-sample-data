@@ -1,0 +1,1 @@
+Let G be a non-elementary discrete subgroup of \mathrm{Sp}(2,1). We show that if the sum of diagonal entries of each element of G is a complex number, then G is conjugate to a subgroup of \mathrm{U}(2,1).

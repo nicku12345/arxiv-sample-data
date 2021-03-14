@@ -1,0 +1,1 @@
+We consider a stochastic variant of the game of Bulgarian solitaire [M. Gardner (1983), Sci. Amer. 249, 12-21]. For the stationary measure of the random Bulgarian solitaire, we prove that most of its mass is concentrated on (roughly) triangular configurations of certain type.

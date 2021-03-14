@@ -1,0 +1,1 @@
+Given an increasing process (A_t)_{t\geq 0}, we characterize the right-continuous non-decreasing functions f: \R_+\to \R_+ that map A to a pure-jump process. As an example of application, we show for instance that functions with bounded variations belong to the domain of the extended generator of any subordinators with no drift and infinite L\'evy measure.

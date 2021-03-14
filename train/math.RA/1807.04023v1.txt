@@ -1,0 +1,1 @@
+Here we introduce and characterize a new class of le-modules _{R}M where R is a commutative ring with 1 and (M,+,\leqslant,e) is a lattice ordered semigroup with the greatest element e. Several notions are defined and uniqueness theorems for primary decompositions of a submodule element in a Laskerian le-module are established.

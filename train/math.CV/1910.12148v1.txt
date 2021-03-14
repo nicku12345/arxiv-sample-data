@@ -1,0 +1,1 @@
+Let f be a non-zero polynomial with complex coefficients and define M_n(f)=\int_0^1f(x)^n\,dx. We use ideas of Duistermaat and van der Kallen to prove \limsup_{n\rightarrow\infty}|M_n(f)|^{1/n}>0. In particular, M_n(f)\ne 0 for infinitely many n\in{\mathbb N}.

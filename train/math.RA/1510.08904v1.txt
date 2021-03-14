@@ -1,0 +1,1 @@
+Let L be a Lie superalgebra over a fled of characteristic p\neq 2 with enveloping algebra U(L) or let L be a restricted Lie superalgebra over a field of characteristic p > 2 with restricted enveloping algebra u(L). In this note, we establish when u(L) or U(L) is bounded Lie Engel.

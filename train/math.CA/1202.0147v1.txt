@@ -1,0 +1,1 @@
+We study differentiability properties of Zygmund functions and series of Weierstrass type in higher dimensions. While such functions may be nowhere differentiable, we show that, under appropriate assumptions, the set of points where the incremental quotients are bounded has maximal Hausdorff dimension.

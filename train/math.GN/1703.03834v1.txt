@@ -1,0 +1,1 @@
+We say that a subset S of an infinite group G is a Ramsey-product subset if, for any infinite subsets X, Y of G, there exist x \in X and y\in Y such that x y \in S and  y x \in S . We show that the family \varphi of all Ramsey-product subsets of G is a filter and \varphi defines the subsemigroup  \overline{G^*G^*} of the semigroup G^* of all free ultrafilters on G.

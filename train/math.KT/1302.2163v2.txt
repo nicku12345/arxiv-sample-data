@@ -1,0 +1,1 @@
+For any perfect field k a triangulated category of K-motives DK_(k) is constructed in the style of Voevodsky's construction of the category DM_(k). To each smooth k-variety X the K-motive is associated in the category DK_(k). Also, it is shown that K_n(X)=DK_(k)(M_K(X)[n],M_K(pt)), where K(X) is Quillen's K-theory of X.

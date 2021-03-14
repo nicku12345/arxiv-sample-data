@@ -1,0 +1,1 @@
+In this article we consider the Ore extension Algebra for the algebra \mathcal{A} of functions with finite support on a countable set. We derive explicit formulas for twisted derivations on \mathcal{A}. We give a description for the centralizer of \mathcal{A}, and the center of the Ore extension algebra when the derivation is zero.

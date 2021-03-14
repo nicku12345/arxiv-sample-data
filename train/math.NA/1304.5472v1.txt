@@ -1,0 +1,1 @@
+The author's presentation of multilevel Monte Carlo path simulation at the MCQMC 2006 conference stimulated a lot of research into multilevel Monte Carlo methods. This paper reviews the progress since then, emphasising the simplicity, flexibility and generality of the multilevel Monte Carlo approach. It also offers a few original ideas and suggests areas for future research.

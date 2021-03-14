@@ -1,0 +1,1 @@
+Let G be a graph drawn in the plane so that its edges are represented by x-monotone curves, any pair of which cross an even number of times. We show that G can be redrawn in such a way that the x-coordinates of the vertices remain unchanged and the edges become non-crossing straight-line segments.

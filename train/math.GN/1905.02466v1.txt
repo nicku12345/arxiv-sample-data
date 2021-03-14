@@ -1,0 +1,1 @@
+In this paper we introduce a metrics on the space of idempotent probability measures on a given compactum, which extends the metrics on the compactum. It is proven the introduced metrics generates the pointwise convergence topology on the space of idempotent probability measures

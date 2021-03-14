@@ -1,0 +1,1 @@
+We relate poles of local Godement-Jacquet L-functions to distributions on matrix spaces with singular supports. As an application, we show the irreducibility of the full theta lifts to GL_n(F) of generic irreducible representations of GL_n(F), where F is an arbitrary local field.

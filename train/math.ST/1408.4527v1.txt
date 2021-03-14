@@ -1,0 +1,1 @@
+We introduce a new characterization of Pareto distribution and construct integral and supremum type goodness-of-fit tests based on it. Limiting distribution and large deviations of new statistics are described and their local Bahadur efficiency for parametric alternatives is calculated. Conditions of local optimality of new statistics are given.

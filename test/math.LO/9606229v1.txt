@@ -1,0 +1,1 @@
+section 2: We answer a question of Mekler Eklof on the closure operations of the incompactness spectrum. We answer a question of Foreman and Magidor on reflection of stationary subsets of S_{< aleph_2}(lambda) = {a subseteq lambda : |a| < aleph_2}]. section 3 - NPT is not transitive. We prove NPT(lambda, mu) + NPT(mu, kappa) not => NPT(lambda, kappa)

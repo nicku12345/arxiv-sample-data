@@ -1,0 +1,1 @@
+For a p-group G admitting an automorphism \phi of order p^n with exactly p^m fixed points such that \phi^{p^{n-1}} has exactly p^k fixed points, we prove that G has a fully-invariant subgroup of m-bounded nilpotency class with (p,n,m,k)-bounded index in G. We also establish its analogue for Lie p-rings. The proofs make use of the theory of commutator-type operators.

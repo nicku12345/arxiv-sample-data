@@ -1,0 +1,1 @@
+We show that any disjunctive sum of Hackenbush Flowers G has as evil twin G^* \in {G, G+*} such that the outcomes of G under normal and mis\`ere play are the same as the outcomes of G^* under mis\`ere and normal play respectively. We also show that, under mis\`ere play, any Green Hackenbush position that has a single edge incident with the ground is equivalent to a nim-heap.

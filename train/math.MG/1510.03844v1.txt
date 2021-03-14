@@ -1,0 +1,1 @@
+We study a few approaches to identify inclusion (up to a shift) between two convex bodies in {\mathbb R}^n. To this goal we use mixed volumes and fractional linear maps. We prove that inclusion may be identified by comparing volume or surface area of all projective positions of the sets. We prove similar results for Minkowski sums of the sets.

@@ -1,0 +1,1 @@
+In this paper we study that the q-Euler numbers and polynomials are analytically continued to E_q(s). A new formula for the Euler's q-Zeta function \zeta_{E,q}(s) in terms of nested series of \zeta_{E,q}(n) is derived. Finally we introduce the new concept of the dynamics of analytically continued q-Euler numbers and polynomials.

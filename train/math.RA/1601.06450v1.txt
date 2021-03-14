@@ -1,0 +1,1 @@
+We prove that for finite, finitely related algebras the concepts of an absorbing subuniverse and a J\'onsson absorbing subuniverse coincide. Consequently, it is decidable whether a given subset is an absorbing subuniverse of the polymorphism algebra of a given relational structure.

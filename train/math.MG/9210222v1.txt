@@ -1,0 +1,1 @@
+O. H. Keller conjectured in 1930 that in any tiling of \Bbb R^n by unit n-cubes there exist two of them having a complete facet in common. O. Perron proved this conjecture for n\le 6. We show that for all n\ge 10 there exists a tiling of \Bbb R^n by unit n-cubes such that no two n-cubes have a complete facet in common.

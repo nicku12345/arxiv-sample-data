@@ -1,0 +1,1 @@
+We give an algorithmic proof of the theorem that a closed orientable irreducible and atoroidal 3-manifold has only finitely many Heegaard splittings in each genus, up to isotopy. The proof gives an algorithm to determine the Heegaard genus of an atoroidal 3-manifold.

@@ -1,0 +1,1 @@
+Let G be a real connected Lie group with polynomial volume growth, endowed with its Haar measure dx. Given a C^2 positive function M on G, we give a sufficient condition for an L^2 Poincar\'e inequality with respect to the measure M(x)dx to hold on G. We then establish a non-local Poincar\'e inequality on G with respect to M(x)dx.

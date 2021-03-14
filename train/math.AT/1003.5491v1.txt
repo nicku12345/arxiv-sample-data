@@ -1,0 +1,1 @@
+Let X and Y be finite nilpotent CW complexes with dimension of X less than the connectivity of Y. Generalizing results of Vigu\'e-Poirrier and Yamaguchi, we prove that the mapping space Map(X,Y) is rationally formal if and only if Y has the rational homotopy type of a finite product of odd dimensional spheres.

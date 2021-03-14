@@ -1,0 +1,1 @@
+Given a group G denote with exp(G) its exponent, which is the least common multiple of the order of its elements. In this paper we solve the problem of finding the finite simple groups having a proper subgroup with the same exponent. For each G with this property we will give an explicit example of H<G with exp(G)=exp(H).

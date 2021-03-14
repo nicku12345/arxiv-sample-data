@@ -1,0 +1,1 @@
+We prove that a smooth tropical hypersurface in \mathbb{R}^3 can be lifted to a smooth embedded Lagrangian submanifold in (\mathbb{C}^*)^3. This completes the proof of the result announced in the article "Lagrangian pairs pants" arXiv:1802.02993. The idea of the proof is to use Lagrangian pairs of pants as the main building blocks.

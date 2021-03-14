@@ -1,0 +1,1 @@
+In this paper we describe the category of motives for an elliptic curve in the sense of Voevodsky as a derived category of dg modules over a commutative differential graded algebra in the category of representations over some reductive group.

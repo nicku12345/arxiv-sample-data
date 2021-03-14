@@ -1,0 +1,1 @@
+Using the natural duality between linear functionals on tensor products of C*-algebras with the trace class operators on a Hilbert space H and linear maps of the C*-algebra into B(H), we study the relationship between separability, entanglement and the Peres condition of states and positivity properties of the linear maps.

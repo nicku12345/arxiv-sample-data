@@ -1,0 +1,1 @@
+This paper describes the structure of the moduli space of holomorphic curves and constructs Gromov Witten invariants in the category of exploded manifolds. This includes defining Gromov Witten invariants relative to normal crossing divisors and proving the associated gluing theorem which involves summing relative invariants over a count of tropical curves.

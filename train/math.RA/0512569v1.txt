@@ -1,0 +1,1 @@
+In this paper, we determine the structures of zero-divisor semigroups whose graph is K_n + 1, the complete graph K_n together with an end vertex. We also present a formula to calculate the number of non-isomorphic zero-divisor semigroups corresponding to the complete graph K_n, for all positive integer n.

@@ -1,0 +1,1 @@
+In this paper I develop categorical foundations needed for a rigorous approach to the definition of conformal field theory outlined by Graeme Segal. I discuss pseudo algebras over theories and 2-theories, their pseudo morphisms, bilimits, bicolimits, biadjoints, stacks, and related concepts.

@@ -1,0 +1,1 @@
+We propose an Artinian version of Berger's Conjecture for curves, concerning the module of K\"ahler differentials of an algebra. Our version implies Berger's Conjecture in characteristic 0. We establish our Artinian Berger Conjecture in a number of cases, and prove that Berger's Conjecture holds for curve singularities whose conductor ideal contains the cube of a maximal ideal.

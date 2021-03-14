@@ -1,0 +1,1 @@
+It is shown that no local periodicity is equivalent to the aperiodicity condition for arbitrary finitely-aligned k-graphs. This allows us to conclude that C*(\Lambda) is simple if and only if \Lambda is cofinal and has no local periodicity.

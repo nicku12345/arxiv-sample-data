@@ -1,0 +1,1 @@
+This paper gives a simple presentation of the free star-autonomous category over a category, based on Eilenberg-Kelly-MacLane graphs and Trimble rewiring, yielding a full coherence theorem: the commutativity of diagrams of canonical maps is decidable.

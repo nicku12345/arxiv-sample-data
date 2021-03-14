@@ -1,0 +1,1 @@
+In this brief note we provide a simple approach to give a new proof of the well known fact that the Banach-Alaoglu theorem and the Tychonoff product theorem for compact Hausdorff spaces are equivalent.

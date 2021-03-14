@@ -1,0 +1,1 @@
+Complex Legendre duality is a generalization of Legendre transformation from Euclidean spaces to Kahler manifolds, that Berndtsson and collaborators have recently constructed. It is a local isometry of the space of Kahler potentials. We show that the fixed point of such a transformation must correspond to a real analytic Kahler metric.

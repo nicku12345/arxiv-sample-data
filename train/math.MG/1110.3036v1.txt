@@ -1,0 +1,1 @@
+Given any two probability measures on a Euclidean space with mean 0 and finite variance, we demonstrate that the two probability measures are orthogonal in the sense of Wasserstein geometry if and only if the two spaces by spanned by the supports of each probability measure are orthogonal.

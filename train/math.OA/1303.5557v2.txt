@@ -1,0 +1,1 @@
+It is shown that the dual \hat{A} of a separable C^{\ast}-algebra A is discrete if and only if its Banach space dual has the weak^{\ast}-fixed point property. We prove further that these properties are equivalent to the uniform weak^{\ast} Kadec-Klee property of A^{\ast} and to the coincidence of the weak^{\ast} topology with the norm topology on the pure states of A.

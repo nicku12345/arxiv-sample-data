@@ -1,0 +1,1 @@
+We identify a number of decidable and undecidable fragments of first-order concatenation theory. We also give a purely universal axiomatization which is complete for the fragments we identify. Furthermore, we prove some normal-form results.

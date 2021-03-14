@@ -1,0 +1,1 @@
+We introduce a Calderon Zygmund decomposition such that the bad function has vanishing integral against a number of pure frequencies. Then we prove a variation norm variant of a maximal inequality for several frequencies due to Bourgain. To obtain the full range of Lp estimates we apply the multi frequency Calderon Zygmund decomposition.

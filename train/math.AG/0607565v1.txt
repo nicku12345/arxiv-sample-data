@@ -1,0 +1,1 @@
+Let X be a smooth projective curve of genus g \geq 2 defined over an algebraically closed field k of characteristic p>0. Given a semistable vector bundle E over X, we show that its direct image F\_*E under the Frobenius map F of X is again semistable. We deduce a numerical characterization of the stable rank-p vector bundles F\_*L, where L is a line bundle over X.

@@ -1,0 +1,1 @@
+We define ''convergence'' for noncommutative power series and construct two topologies on the algebra of power series, convergent with respect to a positive radius. We indicate all finite dimensional continuous representations of this algebra and prove completeness for both topologies.

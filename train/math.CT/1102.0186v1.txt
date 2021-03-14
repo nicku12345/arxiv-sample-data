@@ -1,0 +1,1 @@
+We introduce, for every positive integer n, the notion of an n-relative category and show that the category of the small n-relative categories is a model for the homotopy theory of n-fold homotopy theories, i.e. homotopy theories of ... of homotopy theories.

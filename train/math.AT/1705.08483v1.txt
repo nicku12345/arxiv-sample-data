@@ -1,0 +1,1 @@
+We give explicit formulae for a DGLA model of the bi-gon which is symmetric under the geometric symmetries of the cell. This follows the work of Lawrence-Sullivan on the (unique) DGLA model of the interval and its construction uses deeper knowledge of the structure of such models and their localisations for non-simply connected spaces.

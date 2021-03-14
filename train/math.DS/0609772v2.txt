@@ -1,0 +1,1 @@
+We study the dynamics near infinity of polynomial mappings f in \mathbb{C}^2. We assume that f has indeterminacy points and is non constant on the line at infinity L_\infty. If L_\infty is f-attracting, we decompose the Green current along itineraries defined by the indeterminacy points and their preimages. The symbolic dynamics that arises is a subshift on an infinite alphabet.

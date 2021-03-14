@@ -1,0 +1,1 @@
+We prove that every piecewise linear manifold of dimension up to four on which a finite group acts by piecewise linear homeomorphisms admits a compatible smooth structure with respect to which the group acts smoothly. This solves a challenge posed by Thurston in dimension three and confirms a conjecture by Kwasik and Lee in dimension four in a stronger form.

@@ -1,0 +1,1 @@
+In this paper we give a precise estimate of the discrepancy of a class of uniformly distributed sequences of partitions. Among them we found a large class having low discrepancy (which means of order 1/N. One of them is the Kakutani-Fibonacci sequence.

@@ -1,0 +1,1 @@
+This short note is to point the reader to notice that the proof of high dimensional asymptotic normality of MLE estimator for logistic regression under the regime p_n=o(n) given in paper: "Maximum likelihood estimation in logistic regression models with a diverging number of covariates. Electronic Journal of Statistics, 6, 1838-1846." is wrong.

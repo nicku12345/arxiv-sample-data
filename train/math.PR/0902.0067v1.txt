@@ -1,0 +1,1 @@
+We consider a Brownian motion on the plane with semipermeable membranes on n rays that have a common endpoint in the origin. We obtain the necessary and sufficient conditions for the process to reach the origin and we show that the probability of hitting the origin is equal to zero or one.

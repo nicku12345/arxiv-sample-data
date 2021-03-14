@@ -1,0 +1,1 @@
+Let (R, m) be a local commutative ring. Suppose that m is principal and that m^2 = 0. We give a complete description of the cellular lattice of perfect chain complexes of modules over this ring.

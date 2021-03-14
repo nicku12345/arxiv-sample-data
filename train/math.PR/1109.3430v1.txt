@@ -1,0 +1,1 @@
+We consider a discrete time analog of G--expectations and we prove that in the case where the time step goes to 0 the corresponding values converge to the original G--expectation. Furthermore we provide error estimates for the convergence rate. This paper is continuation of [4]. Our main tool is a strong approximation theorem which we derive for general discrete time martingales.

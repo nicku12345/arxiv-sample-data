@@ -1,0 +1,1 @@
+An abstract Pick interpolation theorem for a family of positive semi-definite kernels on a set X is formulated. The result complements those in \cite{Ag} and \cite{AMbook} and will subsequently be applied to Pick interpolation on distinguished varieties \cite{JKM}.

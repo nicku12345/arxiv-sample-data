@@ -1,0 +1,1 @@
+In the present paper, we establish a reduction theorem for linear Schr\"odinger equation with finite smooth and time-quasi-periodic potential subject to Dirichlet boundary condition by means of KAM technique. Moreover, it is proved that the corresponding Schr\"odinger operator possesses the property of pure point spectra and zero Lyapunov exponent.

@@ -1,0 +1,1 @@
+We consider integrals \tau_{\rho}=\int_0^1\rho\xi^2\,dx, where \xi is Wiener process and \rho is generalized function from some class of multipliers. In the case when multiplier \rho belongs to the trace-class, it is shown that \tau_{\rho} has \chi^2-distribution (or analogous). An example of multiplier \rho not belonging to the trace-class is constructed.

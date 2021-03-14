@@ -1,0 +1,1 @@
+We present how to obtain non-comparable regular but not completely regular spaces. We analyze a generalization of Mysior's example, extracting its underlying purely set-theoretic framework. This enables us to build simple counterexamples, using the Niemytzki plane, the Songefrey plane or Lusin gaps.

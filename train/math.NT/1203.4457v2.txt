@@ -1,0 +1,1 @@
+We study the third moment of quadratic Dirichlet L-functions, obtaining an error term of size O(X^{3/4 + \varepsilon}).

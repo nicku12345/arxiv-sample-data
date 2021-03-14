@@ -1,0 +1,1 @@
+We prove that for s<0, s-concave measures on {\mathbb R}^n satisfy a thin shell concentration similar to the log-concave one. It leads to a Berry-Esseen type estimate for their one dimensional marginal distributions. We also establish sharp reverse H\"older inequalities for s-concave measures.

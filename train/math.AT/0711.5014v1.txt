@@ -1,0 +1,1 @@
+We show that certain subrings of the cohomology of a finite p-group P may be realised as the images of restriction from suitable virtually free groups. We deduce that the cohomology of P is a finite module for any such subring. Examples include the ring of `universally stable elements' defined by Evens and Priddy, and rings of invariants such as the mod-2 Dickson algebras.

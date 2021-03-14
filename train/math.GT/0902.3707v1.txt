@@ -1,0 +1,1 @@
+Let K be a knot embedded in a Heegaard surface S for a closed orientable 3-manifold M. We define K-stable equivalence between pairs (S, K) and (S', K) in M, and we prove that any two pairs are K-stably equivalent in M if they have the same surface slope.

@@ -1,0 +1,1 @@
+For any n-ary associative algebra we construct a \Z_{n-1} graded algebra, which is a universal object containing the n-ary algebra as a subspace of elements of degree 1. Similar construction is carried out for semigroups.

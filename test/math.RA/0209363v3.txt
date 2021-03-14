@@ -1,0 +1,1 @@
+In this paper, we introduce Adem-Cartan operads and prove that the cohomology of any algebra over such an operad is an unstable level algebra over the extended Steenrod algebra. Moreover we prove that this cohomology is endowed with secondary cohomological operations.

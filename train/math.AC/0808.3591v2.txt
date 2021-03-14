@@ -1,0 +1,1 @@
+We discuss four different constructions of vector space bases associated to vanishing ideals of points. We show how to compute normal forms with respect to these bases and give new complexity bounds. As an application, we improve the computational algebra approach to the reverse engineering of gene regulatory networks.

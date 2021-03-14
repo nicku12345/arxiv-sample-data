@@ -1,0 +1,1 @@
+In this paper we present a family of values of the parameters of the third Painlev\'{e} equation such that Puiseux series formally satisfying this equation -- considered as series of z^{2/3} -- are series of exact Gevrey order one. We prove the divergence of these series and provide analytic functions which are approximated by them in sectors with the vertices at infinity.

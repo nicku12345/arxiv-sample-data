@@ -1,0 +1,1 @@
+In combinatorics there is a well-known duality between non-nesting and non-crossing objects. In algebra there are many objects which are standard, for example Standard Young Tableaux, Standard Monomials, Standard Bitableaux. We adopt a point of view that these standard objects are really non-nesting, and we find their non-crossing counterparts.

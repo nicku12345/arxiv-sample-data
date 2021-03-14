@@ -1,0 +1,1 @@
+We prove the Nagata compactification theorem for any separated map of finite type between quasi-compact and quasi-separated algebraic spaces, generalizing earlier results of Raoult. Along the way we also prove (and use) absolute noetherian approximation for such algebraic spaces, generalizing earlier results in the case of schemes.

@@ -1,0 +1,1 @@
+Let P(n) denote the largest prime factor of n \ge 2, P(1) = 1, and let  \beta(n) = \sum_{p|n}p, \Beta(n) = \sum_{p^\alpha||n}\alpha p, \Beta_1(n) = \sum_{\p^\alpha||n}p^\alpha  denote "large" additive functions. A survey of results on the functions P(n), \beta(n), \Beta(n) and \Beta_1(n) is presented, as well as some new results and open problems.

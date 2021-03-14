@@ -1,0 +1,1 @@
+It is known that inequality |z^n-1|\geq|z-1| holds on the circle |z-1/2|= 1/2, where n is a positive integer. We prove that in fact n can be real number not less then 1. We also prove following inequality as a lemma: cos^nx\lt 1-sinx for real n\gt3 and 2\pi/(n+1)\leq x \lt \pi/2.

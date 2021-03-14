@@ -1,0 +1,1 @@
+In this note, we prove that for any integer n\geq 3 the b-chromatic number of the Kneser graph KG(m,n) is greater than or equal to 2{\lfloor {m\over 2} \rfloor \choose n}. This gives an affirmative answer to a conjecture of [6].

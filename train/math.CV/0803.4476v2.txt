@@ -1,0 +1,1 @@
+Let D be a bounded homogeneous domain in \mbb{C}^n and let \Gamma be a cyclic discrete subgroup of the automorphism group of D. It is shown that the complex space D/\Gamma is Stein.

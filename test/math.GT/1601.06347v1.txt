@@ -1,0 +1,1 @@
+In this paper, it is shown that the set consisting of stable convex integrands S^n\to \mathbb{R}_+ is open and dense in the set consisting of C^\infty convex integrands with respect to Whitney C^\infty topology. Moreover, an application of the proof of this result is also shown.

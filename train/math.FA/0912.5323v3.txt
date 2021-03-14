@@ -1,0 +1,1 @@
+For a curve T:[0,1] -> R^n, we consider the directions theta in R^n which T "misses" the most and quantify this, as a function of the L_2 norm of T's differential.

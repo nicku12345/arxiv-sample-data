@@ -1,0 +1,1 @@
+We construct a bounded domain \Omega in \mathbb{C}^2 with boundary of class \mathcal{C}^{1,1}, such that \overline{\Omega} has a Stein neighborhood basis, but is not s-H-convex for any real number s\geq{1}.

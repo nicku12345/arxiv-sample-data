@@ -1,0 +1,1 @@
+Let N be a left near ring. A map d on N is called a nonzero multiplicative derivation if d(xy)=xd(y)+d(x)y holds for all x,y elements of N.In the present paper, we shall extend some well known results concerning commutativity of prime rings for a nonzero multiplicative derivations of a left prime near-ring N.

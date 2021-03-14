@@ -1,0 +1,1 @@
+In this article we consider variable coefficient, time-dependent wave equations. Using phase space methods we construct outgoing parametrices and prove Strichartz-type estimates globally in time. This is done in the context of C^2 metrics which satisfy a weak aymptotic flatness condition at infinity.

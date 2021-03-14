@@ -1,0 +1,1 @@
+We study the Calabi-Yau equation on symplectic manifolds. We show that Donaldson's conjecture on estimates for this equation in terms of a taming symplectic form can be reduced to an integral estimate of a scalar potential function. Under a positive curvature condition, we show that the conjecture holds.

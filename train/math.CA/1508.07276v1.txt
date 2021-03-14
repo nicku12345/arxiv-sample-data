@@ -1,0 +1,1 @@
+We find the asymptotics of the series \sum_{n=1}^\infty (-1)^n n^{-1} \exp(-t/n) as t\to+\infty. The answer is an oscillating function of t dominated by \exp(-(2\pi t)^{1/2}). The intermediate step is to find the asymptotics of the two-dimensional Fourier transform \hat F(\xi) of the function F(x)=(1+\exp(\|x\|^2))^{-1} as \|\xi\|\to\infty.

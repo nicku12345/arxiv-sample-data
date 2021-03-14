@@ -1,0 +1,1 @@
+Through the study of Morse theory on the associated Milnor fiber, we show that complex hyperplane arrangement complements are minimal. That is, the complement of a complex hyperplane arrangement has the homotopy type of a CW complex in which the number of p-cells equals the p-th betti number.

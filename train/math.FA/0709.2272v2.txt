@@ -1,0 +1,1 @@
+The relation between different notions measuring proximity to \ell_1 and distortability of a Banach space is studied. The main result states that a Banach space, whose all subspaces have Bourgain \ell_1 index greater than \omega^\alpha, \alpha<\omega_1, contains either an arbitrary distortable subspace or an \ell_1^\alpha-asymptotic subspace.

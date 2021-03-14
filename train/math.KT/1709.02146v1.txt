@@ -1,0 +1,1 @@
+We complete the picture available in the literature by showing that the integral Mackey algebra is Gorenstein if and only if the group order is square-free, in which case it must have Gorenstein dimension one. We illustrate this result by looking in details at the examples of the cyclic group of order four and the Klein four group.

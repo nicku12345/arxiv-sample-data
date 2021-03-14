@@ -1,0 +1,1 @@
+The main result of this paper is related to finding two-sided bounds of norm for the adjoint operator P^{\ast} of the Bergman projection P, where P denotes the Bergman projection wich maps L^{1}(D,d\lambda(z)) onto the Besov space B_{1}. Here d\lambda(z) is the M\"obius invariant measure {(1-|z|^2)^{-2}}{dA(z)}. It is shown that 2\leq\| P^{\ast}\|\leq 4.

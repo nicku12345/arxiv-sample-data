@@ -1,0 +1,1 @@
+Let \mathbb{D} denote the unit disk of \mathbb{C} and let \Lambda^\alpha(\mathbb{D}) denote the scale of holomorphic Lipschitz spaces extended to all \alpha\in\mathbb{R}. For arbitrary \alpha, \beta\in\mathbb{R}, we characterize the bounded weighted composition operators from \Lambda^\beta(\mathbb{D}) into \Lambda^\alpha(\mathbb{D}) and estimate their essential norms.

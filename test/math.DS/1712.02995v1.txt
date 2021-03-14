@@ -1,0 +1,1 @@
+We develop a novel approach to study the global behaviour of large foodwebs for ecosystems where several species share multiple resources. The model extends and generalize some previous works and takes into account self-limitation. Under certain conditions, we establish the global convergence and persistence of solutions.

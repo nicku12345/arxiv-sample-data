@@ -1,0 +1,1 @@
+We address the question: Given a positive integer N, can any 2D convex polygonal region be partitioned into N convex pieces such that all pieces have the same area and same perimeter? The answer to this question is easily `yes' for N=2. We prove the answer to be `yes' for N=4 and also discuss higher powers of 2.

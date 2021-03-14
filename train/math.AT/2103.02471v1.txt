@@ -1,0 +1,1 @@
+We construct Galois extensions of the T(n)-local sphere, lifting all finite abelian Galois extensions of the K(n)-local sphere. This is achieved by realizing them as higher semiadditive analogues of cyclotomic extensions. Combining this with a general form of Kummer theory, we lift certain elements from the K(n)-local Picard group to the T(n)-local Picard group.

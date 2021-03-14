@@ -1,0 +1,1 @@
+We prove global existence for a nonlinear Smoluchowski equation (a nonlinear Fokker-Planck equation) coupled with Navier-Stokes equations in two dimensions. The proof uses a deteriorating regularity estimate and the tensorial structure of the main nonlinear terms.

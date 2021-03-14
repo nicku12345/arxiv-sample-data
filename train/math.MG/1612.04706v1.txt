@@ -1,0 +1,1 @@
+This paper presents bounds for the best approximation, with respect to the Hausdorff metric, of a convex body K by a circumscribed polytope P with a given number of facets. These bounds are of particular interest if K is elongated. To measure the elongation of the convex set, its isoperimetric ratio  V_j(K)^{1/j} V_i(K)^{-1/i}  is used.

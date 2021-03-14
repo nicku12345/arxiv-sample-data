@@ -1,0 +1,1 @@
+In this paper, we study the real and the complex Waring rank of reducible cubic forms. In particular, we compute the complex rank of all reducible cubic forms. In the real case, for all reducible cubics, we either compute or bound the real rank depending on the signature of the degree two factor.

@@ -1,0 +1,1 @@
+We consider the method of alternating projections for finding a point in the intersection of two closed sets, possibly nonconvex. Assuming only the standard transversality condition (or a weaker version thereof), we prove local linear convergence. When the two sets are semi-algebraic and bounded, but not necessarily transversal, we nonetheless prove subsequence convergence.

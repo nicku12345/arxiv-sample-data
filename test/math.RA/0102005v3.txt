@@ -1,0 +1,1 @@
+In this paper we develop the theory of non-commutative \PP^1-bundles over commutative (smooth) schemes. Such non-commutative \PP^1-bundles occur in the theory of D-modules but our definition is more general. We can show that every non-commutative deformation of a Hirzebruch surface is given by a non-commutative \PP^1-bundle over \PP^1 in our sense.

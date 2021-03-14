@@ -1,0 +1,1 @@
+The purpose of this paper is to propose an efficient method to compute the automorphism group of an arbitrary hyperelliptic function field (genus>1) over a given ground field of characteristic >2 as well as over its algebraic extensions.

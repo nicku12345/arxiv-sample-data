@@ -1,0 +1,1 @@
+We consider group-subgroup pairs in which the group is a semidirect product and the subgroup is contained in the normal part. We give conditions for the pair to be a Hecke pair and we show that the enveloping Hecke algebra and Hecke C*-algebra are canonically isomorphic to semigroup crossed products, generalizing earlier results of Arledge, Laca and Raeburn and of Brenken.

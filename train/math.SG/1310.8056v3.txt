@@ -1,0 +1,1 @@
+We compute the Lagrangian cobordism group of the standard symplectic 2-torus and prove that it is isomorphic to the Grothendieck group of its derived Fukaya category. The proofs use homological mirror symmetry for the 2-torus.

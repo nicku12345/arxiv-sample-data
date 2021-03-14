@@ -1,0 +1,1 @@
+R.V. Kadison defined the notion of local derivation on an algebra and proved that every continuous local derivation on a von Neumann algebra is a derivation (Kadison 1990). We provide the analogous result in the setting of Jordan triples.

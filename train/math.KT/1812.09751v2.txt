@@ -1,0 +1,1 @@
+We introduce the notion of a bounded weight structure on a stable \infty-category and use this to prove the natural generalization of Waldhausen's sphere theorem: We show that the algebraic K-theory of a stable \infty-category with a bounded non-degenerate weight structure is equivalent to the algebraic K-theory of the heart of the weight structure.

@@ -1,0 +1,1 @@
+We define a notion of virtual Specht stability which is a relaxation of the Church-Farb notion of representation stability for sequences of symmetric group representations. Using a structural result of Nagpal, we show that FI-modules over fields of positive characteristic exhibit virtual Specht stability.

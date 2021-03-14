@@ -1,0 +1,1 @@
+We show that the complement of a degree d hypersurface in a projective complete intersection, whose defining equations have degrees strictly larger than d, has a rational connectivity higher than expected. The key new feature is that a positivity result replaces the usual transversality conditions needed to get such connectivity results.

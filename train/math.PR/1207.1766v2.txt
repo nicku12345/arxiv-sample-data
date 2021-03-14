@@ -1,0 +1,1 @@
+It is proved in this paper that Riemann-Liouville processes can arise from the temporal structures of the scaled occupation time fluctuation limits of the site-dependent (d,\alpha,\sigma(x))branching particle systems in the case of 1=d<\alpha<2 and \int_{\R}\sigma(x)\d x<\infty.

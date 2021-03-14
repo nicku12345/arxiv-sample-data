@@ -1,0 +1,1 @@
+The aim of this note is to give a quick algebraic proof of (the combinatorial part of) the classification theorem for compact real surfaces, whose classical proofs (as in the Massey book and in the Conway ZIP proof) are based on surgery (and pictures) and look more intricate.

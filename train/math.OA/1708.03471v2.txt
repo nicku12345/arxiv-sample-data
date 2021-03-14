@@ -1,0 +1,1 @@
+We interpret the construction of relative Cuntz-Pimsner algebras of correspondences in terms of the correspondence bicategory, as a reflector into a certain sub-bicategory. This generalises a previous characterisation of absolute Cuntz-Pimsner algebras of proper correspondences as colimits in the correspondence bicategory.

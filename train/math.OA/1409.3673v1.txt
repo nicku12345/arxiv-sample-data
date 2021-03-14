@@ -1,0 +1,1 @@
+We give various characterizations for a positive unital Tr-preserving map on a matrix algebra to preserve the von Neumann entropy of a state. Among others, it is given by that the map behaves as a *-automorphism. This is also equivalent to that the entropy of the stochastic matrix arising from the map and the state is zero.

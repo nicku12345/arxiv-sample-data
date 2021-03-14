@@ -1,0 +1,1 @@
+We present an elementary proof of the fundamental theorem of algebra, following Cauchy's version but avoiding his use of circular functions. It is written in the same spirit as Littlewood's proof of 1941, but reduces it to more elementary and constructive arguments.

@@ -1,0 +1,1 @@
+In this short note we observe that the Hilali conjecture holds for two-stage spaces, i.e. we argue that the dimension of the rational cohomology is at least as large as the dimension of the rational homotopy groups for these spaces. We also prove the Hilali conjecture for a class of spaces which puts it into the context of fibrations.

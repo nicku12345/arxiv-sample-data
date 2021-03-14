@@ -1,0 +1,1 @@
+In our paper arXiv:1310.6289, we stated that acylindrical hyperbolicity of a group is invariant under commensurability up to finite kernels. Unfortunately, the proof of this fact contained a gap. The goal of this erratum is to point out the gap and to correct the statements and proofs of results of arXiv:1310.6289 and the subsequent paper arXiv:1501.03066 affected by it.

@@ -1,0 +1,1 @@
+We present systematic methods of constructing pandiagonal sudoku squares of order k*k and Knut Vik sudoku squares of order k*k not divisible by 2 or 3. Pandiagonal magic squares are constructed from these squares. Examples of all these squares are given.

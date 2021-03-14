@@ -1,0 +1,1 @@
+We study the sets of the infinite sentences constructible with a dictionary over a finite alphabet, from the viewpoint of descriptive set theory. Among other things, this gives some true co-analytic sets. The case where the dictionary is finite is studied and gives a natural example of a set at the level omega of the Wadge hierarchy.

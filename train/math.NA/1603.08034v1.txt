@@ -1,0 +1,1 @@
+A new version of the piecewise approximation (Pruess) method is developed for calculating eigenvalues of Sturm-Liouville problems. The usual piecewise constant or piecewise linear potential approximations are replaced by translates of 2/cos^2(x), whose corresponding eigenvalue equation has elementary solutions.

@@ -1,0 +1,1 @@
+This note is an introduction to the properties of stable polynomials in several variables with real or complex coefficients. These polynomials are defined in terms of where the polynomial is non-vanishing. We do not cover well-known topics in one variable such as Routh-Hurwitz, the Edge theorem, and Kharitonov theory.

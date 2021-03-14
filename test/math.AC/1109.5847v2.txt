@@ -1,0 +1,1 @@
+We revisit the problem of computing the spreading and covering numbers. We show a connection between some of the spreading numbers and the number of non-negative integer 2x2 matrices whose entries sum to d, and we construct an algorithm to compute improved upper bounds for the covering numbers.

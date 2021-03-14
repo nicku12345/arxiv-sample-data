@@ -1,0 +1,1 @@
+We consider a polyharmonic operator H=(-\Delta)^l+V(x) in dimension two with l\geq 6, l being an integer, and a limit-periodic potential V(x). We prove that the spectrum contains a semiaxis of absolutely continuous spectrum.

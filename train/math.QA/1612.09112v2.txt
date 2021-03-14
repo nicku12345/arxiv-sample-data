@@ -1,0 +1,1 @@
+Let C be a modular category of Frobenius-Perron dimension dq^n, where q is a prime number and d is a square-free integer. We show that if q>2 then C is integral and nilpotent. In particular, C is group-theoretical. In the general case, we describe the structure of C in terms of equivariantizations of group-crossed braided fusion categories.

@@ -1,0 +1,1 @@
+In this paper we present quantitative comparisons between the Wentzel-Laplace eigenvalues, Steklov eigenvalues and Laplacian eigenvalues on the boundary of the target manifold using Riccati comparison techniques to estimate the Hessian of the distance function from the boundary.

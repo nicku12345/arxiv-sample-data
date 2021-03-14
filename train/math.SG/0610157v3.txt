@@ -1,0 +1,1 @@
+Gabber's Theorem claims that the singular support of a D-module is involutive. We show how to give a conceptually clear proof of this in the context of Hochschild Homology and Cohomology of abelian categories.

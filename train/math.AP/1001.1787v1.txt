@@ -1,0 +1,1 @@
+In this paper, we will prove the existence of infinitely many positive solutions to the following supercritical problem by using the Liapunov-Schmidt reduction method and asymptotic analysis:   {ll}\Delta u + u^{p}+f(x)=0, u>0 {in} R^{n},   \lim_{|x|\to\infty}u(x)\to 0.

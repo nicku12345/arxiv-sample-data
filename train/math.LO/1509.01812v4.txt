@@ -1,0 +1,1 @@
+We use sets of assignments, a.k.a. teams, and measures on them to define probabilities of first-order formulas in given data. We then axiomatise first-order properties of such probabilities and prove a completeness theorem for our axiomatisation. We use the Hardy-Weinberg Principle of biology and the Bell's Inequalities of quantum physics as examples.

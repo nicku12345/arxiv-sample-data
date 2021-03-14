@@ -1,0 +1,1 @@
+In this note, we study the arithmetic function f : \mathbb{Z}_+^* \to \mathbb{Q}_+^* defined by f(2^k \ell) = \ell^{1 - k} (\forall k, \ell \in \mathbb{N}, \ell odd). We show several important properties about that function and then we use them to obtain some curious results involving the 2-adic valuation.

@@ -1,0 +1,1 @@
+Let \hat{\mathfrak g} be an affine Lie algebra of type 1. We give a PBW basis for the quantum affine algebra U_q(\hat{\mathfrak g}) with respect to the triangular decomposition of \hat{\mathfrak g} associated with the imaginary positive root system.

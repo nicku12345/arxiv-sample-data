@@ -1,0 +1,1 @@
+We prove a kind of "almost all symmetry" result for the Liouville function \lambda(n):=(-1)^{\Omega(n)}, giving non-trivial bounds for its "symmetry integral", say I_{\lambda}(N,h) : we get I_{\lambda}(N,h)\ll NhL^3+Nh^{21/20}, with L:=\log N. We also give similar results for other related arithmetic functions, like the M\"{o}bius function \mu(n) (=\lambda(n) on square-free n).

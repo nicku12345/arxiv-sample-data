@@ -1,0 +1,1 @@
+Several identities for the Riemann zeta-function \zeta(s) are proved. For example, if s = \sigma + it and \sigma > 0, then  \int_{-\infty}^\infty |{(1-2^{1-s})\zeta(s)\over s}|^2dt = {\pi\over\sigma}(1 - 2^{1-2\sigma})\zeta(2\sigma). 

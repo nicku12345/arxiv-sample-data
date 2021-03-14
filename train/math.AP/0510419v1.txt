@@ -1,0 +1,1 @@
+We consider the classical Turing instability in a reaction-diffusion system as the secend part of our study on pattern formation. We prove that nonlinear dynamics of a general perturbation of the Turing instability is determined by the finite number of linear growing modes over a time scale of ln(1/\delta), where &\delta is the strength of the initial perturbation.

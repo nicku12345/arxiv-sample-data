@@ -1,0 +1,1 @@
+We explore the concentration properties of the ratio between the geometric mean and the arithmetic mean, showing that for certain sequences of weights one does obtain concentration, around a value that depends on the sequence.

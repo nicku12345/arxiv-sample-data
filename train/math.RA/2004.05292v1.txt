@@ -1,0 +1,1 @@
+In this paper we discuss finite presentability of the universal central extensions of Lie algebras {\mathfrak{sl}_n(R)}, where n\geq 3 and R is a unital associative k-algebra. We show that a universal central extension is finitely presented if and only if the algebra R is finitely presented.

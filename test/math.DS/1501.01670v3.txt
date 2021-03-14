@@ -1,0 +1,1 @@
+It is shown that if a non-invertible area preserving local homeomorphism on \mathbb{T}^2 is homotopic to a linear expanding or hyperbolic endomorphism, then it must be topologically transitive. This gives a complete characterization, in any smoothness category, of those homotopy classes of conservative endomorphisms that consist entirely of transitive maps.

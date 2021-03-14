@@ -1,0 +1,1 @@
+We prove (ZF+DC) e.g. : if mu =|H(mu)| then mu^+ is regular non measurable. This is in contrast with the results for mu = aleph_{omega} on measurability see Apter Magidor [ApMg]

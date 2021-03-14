@@ -1,0 +1,1 @@
+This study proposes improved chain-ratio type estimator for estimating population mean using some known values of population parameter(s) of the second auxiliary character. The proposed estimators have been compared with two-phase ratio estimator and some other chain type estimators. The performances of the proposed estimators have been supposed with a numerical illustration.

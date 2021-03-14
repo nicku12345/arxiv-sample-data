@@ -1,0 +1,1 @@
+We consider a two particle system on a star graph with \delta-function interaction. A class of eigensolutions is described which are constructed from appropriate one particle solutions, and hence are parametrised by two momenta. These solutions include a family of solutions with discontinuous derivative on the diagonal.

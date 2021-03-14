@@ -1,0 +1,1 @@
+We show how non-symmetric operads (or multicategories), symmetric operads, and clones, arise from three suitable monads on Cat, each extending to a (pseudo-)monad on the bicategory of categories and profunctors. We also explain how other previous categorical analyses of operads (via Day's tensor products, or via analytical functors) fit with the profunctor approach.

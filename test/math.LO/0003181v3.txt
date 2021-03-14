@@ -1,0 +1,1 @@
+On every set A there is a rigid binary relation, i.e. such a relation R that there is no homomorphism (A,R)->(A,R) except the identity (Vopenka et al. [1965]). We state two conjectures which strengthen this theorem. We prove these conjectures for some cardinalities.

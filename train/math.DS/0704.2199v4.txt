@@ -1,0 +1,1 @@
+Let f:I \to I be a C^2 multimodal interval map satisfying polynomial growth of the derivatives along critical orbits. We prove the existence and uniqueness of equilibrium states for the potential \phi_t:x\mapsto -t\log|Df(x)| for t close to 1, and also that the pressure function t \mapsto P(\phi_t) is analytic on an appropriate interval near t = 1.

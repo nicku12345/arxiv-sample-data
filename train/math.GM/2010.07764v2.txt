@@ -1,0 +1,1 @@
+We construct rings of typed ordered fuzzy numbers whose component functions are of a common form. As this ring also contains improper fuzzy numbers (OFNs whose membership "functions" are actually just relations), we develop a set of operations to convert an improper fuzzy number to a proper one of the same type.

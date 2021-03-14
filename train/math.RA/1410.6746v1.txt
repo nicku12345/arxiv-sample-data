@@ -1,0 +1,1 @@
+Using a nonstandard model of Peano arithmetic, we show that there are quasi-Euclidean subrings of Q[x] which are not k-stage Euclidean for any norm and positive integer k. These subrings can be either PID or non-UFD, depending on the choice of parameters in our construction. In both cases, there are 2^{\omega} such domains up to ring isomorphism.

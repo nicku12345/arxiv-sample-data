@@ -1,0 +1,1 @@
+We consider the product of two projective lines equipped with the complex conjugation transforming (x,y) into (\bar{y},\bar{x}) and blown up in at most two real, or two complex conjugate, points. For these four surfaces we prove the logarithmic equivalence of Welschinger and Gromov-Witten invariants.

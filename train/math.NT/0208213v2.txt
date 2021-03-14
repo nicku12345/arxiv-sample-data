@@ -1,0 +1,1 @@
+For completely multiplicative functions f(n) taking values 1 and -1, under certain conditions on f(n) we show that f(n) changes sign at least x exp(-7(log log x)sqrt(log x)) times as n runs through the integers <= x.

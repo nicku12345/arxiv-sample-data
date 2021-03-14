@@ -1,0 +1,1 @@
+In this paper, we obtain the general solution and the generalized Hyers-Ulam Rassias stability of the functional equation 3(f(x+2y)+f(x-2y))=12(f(x+y)+f(x-y))+4f(3y)-18f(2y)+36f(y)-18f(x).

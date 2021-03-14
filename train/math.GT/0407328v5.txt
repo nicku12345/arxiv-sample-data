@@ -1,0 +1,1 @@
+Suppose that M is a fibered three-manifold whose fiber is a surface of positive genus with one boundary component. Assume that M is not a semi-bundle. We show that infinitely many fillings of M along dM are virtually Haken. It follows that infinitely many Dehn-surgeries of any non-trivial knot in the three-sphere are virtually Haken.

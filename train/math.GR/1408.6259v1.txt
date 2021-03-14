@@ -1,0 +1,1 @@
+We conjecture that every infinite group G can be partitioned into countably many cells G=\bigcup_{n\in\omega}A_n such that cov(A_nA_n^{-1})=|G| for each n\in\omega. Here cov(A)=\min\{|X|:X\subseteq G, G=XA\}. We confirm this conjecture for each group of regular cardinality and for some groups (in particular, Abelian) of an arbitrary cardinality.

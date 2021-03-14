@@ -1,0 +1,1 @@
+We state the generating hypothesis in the homotopy category of G-spectra for a compact Lie group G, and prove that if G is finite, then the generating hypothesis implies the strong generating hypothesis, just as in the non-equivariant case. We also give an explicit counterexample to the generating hypothesis in the category of rational S^1-equivariant spectra.

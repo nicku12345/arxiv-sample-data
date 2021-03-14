@@ -1,0 +1,1 @@
+Let k a characteristic zero field. We give a characterization for the finite quiver k-algebras, based on double derivations. More precisely, we prove that if an associative and unitary k-algebra have a family of double derivations satisfying suitable conditions, then it is (canonically isomorphic to) a quiver algebra. This is the non-commutative version of a result of D. Wright.

@@ -1,0 +1,1 @@
+We introduce a new invariant for triangulated categories: the poset of spherical subcategories ordered by inclusion. This yields several numerical invariants, like the cardinality and the height of the poset. We explicitly describe spherical subcategories and their poset structure for derived categories of certain finite-dimensional algebras.

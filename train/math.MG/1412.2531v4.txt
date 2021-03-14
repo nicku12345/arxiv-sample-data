@@ -1,0 +1,1 @@
+We show that, given an absolutely continuous horizontal curve \gamma in the Heisenberg group, there is a C^1 horizontal curve \Gamma such that \Gamma=\gamma and \Gamma'=\gamma' outside a set of small measure. Conversely, we construct an absolutely continuous horizontal curve in the Engel group with no C^1 horizontal approximation.

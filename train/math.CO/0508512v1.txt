@@ -1,0 +1,1 @@
+Simple formulas for the number of different cyclic and dihedral necklaces containing n_j beads of the j-th color, j\leq m and \sum_{j=1}^mn_j=N, are derived.

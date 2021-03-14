@@ -1,0 +1,1 @@
+Using as the working hypothesis of an evaluation of the difference between primes p_{n+1} - p_n = O(\sqrt{p_n}) we represent in detail the proofs of Legendre's and Oppermann's conjectures.

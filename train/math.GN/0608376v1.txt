@@ -1,0 +1,1 @@
+In this note, we use elementary submodels to prove that a separable monotonically normal compactum can be mapped on a separable metric space via a continuous function whose fibers have cardinality at most 2.

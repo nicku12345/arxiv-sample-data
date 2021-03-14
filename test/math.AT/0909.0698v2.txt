@@ -1,0 +1,1 @@
+Chain complexes of finitely generated free modules over orbit categories provide natural algebraic models for finite G-CW complexes with prescribed isotropy. We prove a p-hypoelementary Dress induction theorem for K-theory over the orbit category of a finite group, and use it to re-interpret some results of Oliver and Kropholler-Wall on acyclic complexes.

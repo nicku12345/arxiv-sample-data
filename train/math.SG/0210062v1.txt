@@ -1,0 +1,1 @@
+It is shown that the characteristic vector field associated to a first order PDE has the same form of an infinitesimal generator of an odd-symplectic transformation with contact Hamiltonian the given PDE. It is considered under which condition such PDE has a characteristic vector field commuting with a generator of an odd-symplectic action.

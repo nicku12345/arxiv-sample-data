@@ -1,0 +1,1 @@
+We prove the following result. Let k be an infinite perfect field of positive characteristic and assume that strong resolution of singularities holds over k. Let R be a localization of a commutative d-dimensional k-algebra of finite type and suppose that R is K_{d+1}-regular. Then R is a regular ring.

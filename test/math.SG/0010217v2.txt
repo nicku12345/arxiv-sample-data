@@ -1,0 +1,1 @@
+In the symplectic category there is a `connect sum' operation that glues symplectic manifolds by identifying neighborhoods of embedded codimension two submanifolds. This paper establishes a formula for the Gromov-Witten invariants of a symplectic sum Z=X#Y in terms of the relative GW invariants of X and Y. Several applications to enumerative geometry are given.

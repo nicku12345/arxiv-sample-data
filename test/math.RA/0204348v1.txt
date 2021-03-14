@@ -1,0 +1,1 @@
+We introduce the concept of Hopf-Galois system, a reformulation of the notion of Galois extension of the base field for a Hopf algebra. The main feature of our definition is a generalization of the antipode of an ordinary Hopf algebra. The main application of Hopf-Galois systems is the construction of monoidal equivalences between comodule categories over Hopf algebras.

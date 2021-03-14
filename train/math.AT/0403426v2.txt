@@ -1,0 +1,1 @@
+We prove that Friedlander's generalized isomorphism conjecture on the cohomology of algebraic groups, and hence the Isomorphism Conjecture for the cohomology of the complex algebraic Lie group G(C) made discrete, are equivalent to the existence of an isoperimetric inequality in the homological bar complex of G(F), where F is the algebraic closure of a finite field.

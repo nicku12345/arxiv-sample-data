@@ -1,0 +1,1 @@
+We construct, for any finite commutative ring R, a family of representations of the general linear group \mathrm{GL}_n(R) whose intertwining properties mirror those of the principal series for \mathrm{GL}_n over a finite field.

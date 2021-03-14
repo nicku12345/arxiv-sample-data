@@ -1,0 +1,1 @@
+We provide a proof of global regularity of solutions of coupled Navier-Stokes equations and Fokker-Planck equations, in two spatial dimensions, in the absence of boundaries. The proof yields a priori estimates for the growth of spatial gradients.

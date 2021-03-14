@@ -1,0 +1,1 @@
+In this note we show that a combinatorial model of Kirchberg algebras in the UCT, namely the Katsura algebras O_{AB}, can be expressed both as groupoid C*-algebras and as inverse semigroup crossed products. We use this picture to obtain results about simplicity, pure infiniteness and nuclearity of O_{AB} using different methods than those used by Katsura.

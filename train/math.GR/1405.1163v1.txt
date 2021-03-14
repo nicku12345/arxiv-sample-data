@@ -1,0 +1,1 @@
+We show that an amalgamated free product G*_{A}H admits a discrete isolated ordering, under some assumptions of G,H and A. This generalizes the author's previous construction of isolated orderings, and unlike known constructions of isolated orderings, can produce an isolated ordering with many non-trivial proper convex subgroups.

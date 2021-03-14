@@ -1,0 +1,1 @@
+Let B = A< X | dX=t > be an extended DG algebra by the adjunction of variable of positive even degree n, and let N be a semi-free DG B-module that is assumed to be bounded below as a graded module. We prove in this paper that N is liftable to A if Ext_B^{n+1}(N,N)=0. Furthermore such a lifting is unique up to DG isomorphisms if Ext_B^{n}(N,N)=0.

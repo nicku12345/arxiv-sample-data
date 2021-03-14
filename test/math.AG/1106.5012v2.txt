@@ -1,0 +1,1 @@
+We describe the final log canonical model of the moduli space of stable curves of genus four. We prove that the rational map from \bar{M}_4 to this model contracts the Petri and the boundary divisors and flips the hyperelliptic locus. As an application, we find an exact bound on slopes of moving divisors on \bar{M}_4.

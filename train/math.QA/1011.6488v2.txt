@@ -1,0 +1,1 @@
+In this paper we categorify the Heisenberg action on the Fock space via the category O of cyclotomic rational double affine Hecke algebras. This permits us to relate the filtration by the support on the Grothendieck group of O to a representation theoretic grading defined using the Heisenberg action. This implies a recent conjecture of Etingof.

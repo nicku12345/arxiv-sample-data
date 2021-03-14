@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions for a Lipschitz map, or more generally a uniformly Lipschitz family of maps, to factor the Hamming cubes. This is an extension to Lipschitz maps of a particular spatial result of Bourgain, Milman, and Wolfson.

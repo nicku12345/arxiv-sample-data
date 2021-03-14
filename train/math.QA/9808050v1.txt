@@ -1,0 +1,1 @@
+We show that the action of classical operators associated to the Macdonald polynomials on the basis of Schur functions, S_{\lambda}[X(t-1)/(q-1)], can be reduced to addition in \lambda-rings. This provides explicit formulas for the Macdonald polynomials expanded in this basis as well as in the ordinary Schur basis, S_{\lambda}[X], and the monomial basis, m_{\lambda}[X].

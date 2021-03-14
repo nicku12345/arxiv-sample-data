@@ -1,0 +1,1 @@
+We show that there exist non-trivial piecewise-linear (PL) knots with isolated singularities S^{n-2}\subset S^n, n\geq 5, whose complements have the homotopy type of a circle. This is in contrast to the case of smooth, PL locally-flat, and topological locally-flat knots, for which it is known that if the complement has the homotopy type of a circle, then the knot is trivial.

@@ -1,0 +1,1 @@
+We show that the Riccati--Pad\'{e} method is suitable for the calculation of the complex eigenvalues of the Schr\"{o}dinger equation with a repulsive exponential potential. The accuracy of the results is remarkable for realistic potential parameters.

@@ -1,0 +1,1 @@
+We study the stability of the system of the Euler equation in the neighborhood of a stationary profile associated with the quasi isobaric model in a gravity field. This stationary profile is not bounded below, hence the operator is not coercive. We use this linear result to deduce a nonlinear result

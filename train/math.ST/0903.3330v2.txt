@@ -1,0 +1,1 @@
+Conditions are given under which the empirical copula process associated with a random sample from a bivariate continuous distribution has a smaller asymptotic covariance function than the standard empirical process based on observations from the copula. Illustrations are provided and consequences for inference are outlined.

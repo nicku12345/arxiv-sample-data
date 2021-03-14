@@ -1,0 +1,1 @@
+In this paper, an evolutionary strategy (ES) method is introduced as an optimization approach to solve problems in the manufacturing area. The ES method is applied to a case study for milling operations. The results show that it can effectively yield good results.

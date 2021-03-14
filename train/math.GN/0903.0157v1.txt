@@ -1,0 +1,1 @@
+We prove that in a certain class E of nonseparable Banach spaces the norm topology of the dual ball is definable in terms of its weak* topology. Thus, any weak* homeomorphism between duals balls of spaces in E is automatically norm-continuous.

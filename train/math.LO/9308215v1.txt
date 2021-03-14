@@ -1,0 +1,1 @@
+A graph is called dominating if its vertices can be labelled with integers in such a way that for every function f: omega-> omega the graph contains a ray whose sequence of labels eventually exceeds f. We obtain a characterization of these graphs by producing a small family of dominating graphs with the property that every dominating graph must contain some member of the family.

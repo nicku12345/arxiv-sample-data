@@ -1,0 +1,1 @@
+An error bound for Gaussian Interpolation which is better than the current exponential-type error bound is presented.

@@ -1,0 +1,1 @@
+In the early 1970's S.Tennenbaum proved that all countable models of PA^- + forall_1-Th(N) are embeddable into the reduced product N^omega/F, where F is the cofinite filter. In this paper we show that if M is a model of PA^- + forall_1-Th(N), and |M|= aleph_1, then M is embeddable into N^omega/D, where D is any regular filter on omega.

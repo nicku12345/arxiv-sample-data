@@ -1,0 +1,1 @@
+Two sharp lower bounds for the length of a longest cycle C of a graph G are presented in terms of the lengths of a longest path and a longest cycle of G-C, denoted by \overline{p} and \overline{c}, respectively, combined with minimum degree \delta: (1) |C|\geq(\overline{p}+2)(\delta-\overline{p}) and (2) |C|\geq(\overline{c}+1)(\delta-\overline{c}+1).

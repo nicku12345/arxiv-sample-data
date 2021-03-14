@@ -1,0 +1,1 @@
+For an ideal I of a Noetherian local ring (R,\fm,k) we show that \bt_1^R(I)-\bt_0^R(I)\geq -1. It is demonstrated that some residual intersections of an ideal I for which \bt_1^R(I)-\bt_0^R(I)= -1\;\text{or}\;0 are perfect. Some relations between Betti numbers and Bass numbers of the canonical module are studied.

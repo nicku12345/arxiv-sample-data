@@ -1,0 +1,1 @@
+The pseudo-unitary group {\bf U}\left(p,q\right) of signature \left(p,q\right) is the group of matrices that preserve the indefinite pseudo-Euclidean metric on the vector space \mathbb{C}^{p,q}. The goal of this paper is to describe the set {\bf U}_{s}\left(p,p\right) of Hermitian, or, self-adjoint elements in {\bf U}\left(p,p\right).

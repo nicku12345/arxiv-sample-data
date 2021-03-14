@@ -1,0 +1,1 @@
+Starting from an adapted Whitney decomposition of tube domains in \C^n over irreducible symmetric cones of \R^n, we prove an atomic decomposition theorem in mixed norm weighted Bergman spaces on these domains. We also characterize the interpolation space via the complex method between two mixed norm weighted Bergman spaces.

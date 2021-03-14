@@ -1,0 +1,1 @@
+Chain records is a new type of multidimensional record. We discuss how often the chain records are broken when the background sampling is from the unit cube with uniform distribution (or, more generally, from an arbitrary continuous product distribution).

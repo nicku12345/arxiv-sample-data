@@ -1,0 +1,1 @@
+It is known to be a hard problem to compute the competition number k(G) of a graph G in general. Park and Sano [13] gave the exact values of the competition numbers of Hamming graphs H(n,q) if 1 \leq n \leq 3 or 1 \leq q \leq 2. In this paper, we give an explicit formula of the competition numbers of ternary Hamming graphs.

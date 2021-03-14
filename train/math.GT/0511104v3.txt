@@ -1,0 +1,1 @@
+The notion of i-bounded geometry generalises simultaneously bounded geometry and the geometry of punctured torus Kleinian groups. We show that the limit set of a surface Kleinian group of i-bounded geometry is locally connected by constructing a natural Cannon-Thurston map. This is an exposition of a special case of the main result of arXiv:math/0607509.

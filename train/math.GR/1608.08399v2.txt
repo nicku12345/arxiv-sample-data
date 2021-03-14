@@ -1,0 +1,1 @@
+For S a Sylow p-subgroup of the group \mathrm{G}_2(p) for p odd, up to isomorphism of fusion systems, we determine all saturated fusion systems \mathcal{F} on S with O_p(\mathcal{F})=1. For p \ne 7, all such fusion systems are realized by finite groups whereas for p=7 there are 29 saturated fusion systems of which 27 are exotic.

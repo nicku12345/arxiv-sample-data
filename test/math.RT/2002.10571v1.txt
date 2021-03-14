@@ -1,0 +1,1 @@
+We prove that if b is a block of a finite group with normal abelian defect group and inertial quotient a direct product of elementary abelian groups, then \operatorname{Picent}(b) is trivial. We also provide examples of blocks b of finite groups with non-trivial \operatorname{Picent}(b). We even have examples with normal abelian defect group and abelian inertial quotient.

@@ -1,0 +1,1 @@
+We compute the cohomology of the right generalised projective Stiefel manifolds and use it to find bounds on the rank of the complementary bundle for certain vector bundles. Further the cohomology computations are also used to find bounds on the span and on the immersibility of the manifolds in certain cases.

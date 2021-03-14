@@ -1,0 +1,1 @@
+In this paper we prove the optimal convergence of a standard adaptive scheme based on edge finite elements for the approximation of the solutions of the eigenvalue problem associated with Maxwell's equations. The proof uses the known equivalence of the problem of interest with a mixed eigenvalue problem.

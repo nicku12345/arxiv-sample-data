@@ -1,0 +1,1 @@
+Given a pair of curves C_1 and C_2 on a hyperbolic surface F, when does there exist a pseudo-Anosov map sending one to another? More generally, one may ask the same question for C_i to be sets of disjoint simple closed curves. We will give necessary and sufficient conditions for the existence of such maps.

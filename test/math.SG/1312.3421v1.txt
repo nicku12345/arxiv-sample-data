@@ -1,0 +1,1 @@
+In this note we prove that Thompson's group F cannot be the fundamental group of a symplectic 4-manifold with trivial canonical class by showing that its Hausmann-Weinberger invariant q(F) is strictly positive.

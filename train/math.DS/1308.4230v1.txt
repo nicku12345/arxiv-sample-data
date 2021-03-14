@@ -1,0 +1,1 @@
+We define fractal continuations and the fast basin of the IFS and investigate which properties they inherit from the attractor. Some illustrated examples are provided.

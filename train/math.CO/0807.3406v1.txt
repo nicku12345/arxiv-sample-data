@@ -1,0 +1,1 @@
+If a non-periodic sequence X is the image by a morphism of a fixed point of both a primitive substitution \sigma and a primitive substitution \tau, then the dominant eigenvalues of the matrices of \sigma and of \tau are multiplicatively dependent. This is the way we propose to generalize Cobham's Theorem.

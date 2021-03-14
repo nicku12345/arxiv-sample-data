@@ -1,0 +1,1 @@
+The explicit realization of M. Kontsevich's formality on R^d is the main step of the proof of formality theorem on any manifold. We present here a coherent choice of orientations and signs in order to write completely M. Kontsevich's proof for R^d, including all the signs appearing in the formality equation.

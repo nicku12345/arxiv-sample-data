@@ -1,0 +1,1 @@
+Let g be an affine Lie algebra with index set I = \{0, 1, 2,..., n\} and g^L be its Langlands dual. It is conjectured that for each i \in I \setminus \{0\} the affine Lie algebra g has a positive geometric crystal whose ultra-discretization is isomorphic to the limit of certain coherent family of perfect crystals for g^L. We prove this conjecture for i=2 and g = A_n^{(1)}.

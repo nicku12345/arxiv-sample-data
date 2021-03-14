@@ -1,0 +1,1 @@
+We define the Laplacian operator on finite multicomplexes and give a formula for its spectra in the case of shifted multicomplexes.

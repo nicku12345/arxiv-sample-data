@@ -1,0 +1,1 @@
+We prove a version of the doubling Bernstein inequalities for the trace of an analytic function of two variables on an analytic subset of \mathbb{C}^2. The estimate applies to the whole analytic set in question including its singular points. The proof relies on a version of the Cartan estimate for maps in \mathbb{C}^2 which we establish in this work.

@@ -1,0 +1,1 @@
+We examine certain maps from root systems to vector spaces over finite fields. By choosing appropriate bases, the images of these maps can turn out to have nice combinatorial properties, which reflect the structure of the underlying root system. The main examples are E_6 and E_7.

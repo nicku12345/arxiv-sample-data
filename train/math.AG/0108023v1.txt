@@ -1,0 +1,1 @@
+We study the geometry of the varieties of clusters X_r introduced by Kleiman in the 70's, showing that for every Enriques diagram D of r vertices the subset Cl(D) of the clusters with Enriques diagram D is locally closed. We study also the relative positions of the subvarieties Cl(D), showing that they do not form a stratification and giving criteria for adjacencies between them.

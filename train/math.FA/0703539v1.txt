@@ -1,0 +1,1 @@
+We extend a p-adic spectral theorem of M. M. Vishik to a certain class of p-adic Banach algebras. This class includes inductive limits of finite-dimensional p-adic Banach algebras of the form B(X), where X is a finite-dimensional p-adic Banach space. In particular, we present a p-adic spectral theorem for p-adic UHF and p-adic triangular UHF (TUHF) Banach algebras.

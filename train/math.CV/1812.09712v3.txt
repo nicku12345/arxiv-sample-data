@@ -1,0 +1,1 @@
+We have discussed the problem of finding the condition on coefficients of f''+A(z)f'+B(z)f=0, \quad B(z)(\not \equiv 0) so that all non-trivial solutions are of infinite order. The hyper-order of these non-trivial solutions of infinite order is also found when \lambda(A)<\rho(A) and B(z) is a transcendental entire function satisfying some conditions.

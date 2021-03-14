@@ -1,0 +1,1 @@
+A significant theorem of L\"uck says that the first L^2-Betti number of the total space of a fibration vanishes under some conditions on the fundamental groups. The proof is based on constructions on chain complexes. In the present paper, we translate the proof into the world of CW-complexes to make it more accessible.

@@ -1,0 +1,1 @@
+For each three-bridge link of a certain form, we construct a taut Seifert surface for the link and establish whether the link is fibred. Using this, we also give the genus and fibredness of satellite knots whose pattern is constructed from a two-component two-bridge link in the case not addressed by work of Hirasawa and Murasugi.

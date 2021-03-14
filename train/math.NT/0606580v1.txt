@@ -1,0 +1,1 @@
+This is the first in a series of papers in which we study the n-Selmer group of an elliptic curve, with the aim of representing its elements as genus one normal curves of degree n. The methods we describe are practical in the case n=3 for elliptic curves over the rationals, and have been implemented in Magma.

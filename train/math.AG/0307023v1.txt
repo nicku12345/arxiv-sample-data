@@ -1,0 +1,1 @@
+Using the techniques of J.-P. Demailly and Th. Peternell in math.AG/0208021 a weak version of Kawamata-Viehweg vanishing is proven for pseudo-effective line bundles on compact Kaehler manifolds. It is a weak version, since one has to adjust the line bundle K_X + L with the upper regularized multiplier ideal sheaf I_+(L) of L, and this is already not optimal in the nef case.

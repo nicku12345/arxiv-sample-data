@@ -1,0 +1,1 @@
+Let \mathcal C be a small category with cofibrations. In this paper, we define the K-theory and Hochschild homology groups of \mathcal C of order Y, where Y is an ordered finite simplicial set with basepoint. Further, we construct the Dennis trace map between these groups.

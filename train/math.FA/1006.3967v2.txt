@@ -1,0 +1,1 @@
+In this paper, we study the inversion formula for recovering a function from its windowed Fourier transform. We give a rigorous proof for an inversion formula which is known in engineering. We show that the integral involved in the formula is convergent almost everywhere on \bbR as well as in L^p for all 1<p<\infty if the function to be reconstructed is.

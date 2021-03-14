@@ -1,0 +1,1 @@
+We study the distribution of eigenvalues of the one-dimensional Schr\"odinger operator with a complex valued potential V. We prove that if |V| decays faster than the Coulomb potential, then the series of imaginary parts of square roots of eigenvalues is convergent.

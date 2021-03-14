@@ -1,0 +1,1 @@
+UJ-rings are studied, i.e. ring in which all units can be presented in a form 1 + x, for some x\in J(R). The behavior of UJ-rings under various algebraic construction is investigated. In particular, it is shown that the problem of lifting the UJ property from a ring R to the polynomial ring R[x] is equivalent to the Kothe's problem for F_2-algebras.

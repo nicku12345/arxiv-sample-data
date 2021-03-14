@@ -1,0 +1,1 @@
+Quadratic algebras associated to graphs have been introduced by I. Gelfand, S. Gelfand, and Retakh in connection with decompositions of noncommutative polynomials. Here we show that, for each graph with rare triangular subgraphs, the corresponding quadratic algebra is a Koszul domain with global dimension equal to the number of vertices of the graph.

@@ -1,0 +1,1 @@
+Applying the Bonk-Kleiner characterization of Ahlfors 2-regular quasispheres, we show that a metric two-sphere X is a quasisphere if and only if X is linearly locally connected and carries a weak metric doubling measure, i.e., a measure that deforms the metric on X without much shrinking.

@@ -1,0 +1,1 @@
+We prove that the kth term of the lower central series of a finite group G is nilpotent if and only if |ab|=|a||b| for any \gamma_k-commutators a,b\in G of coprime orders.

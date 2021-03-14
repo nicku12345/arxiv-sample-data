@@ -1,0 +1,1 @@
+Let 0<\alpha<n and I_\alpha be the fractional integral operator. In this paper, we shall use a unified approach to show some boundedness properties of commutators [b,I_\alpha] on the weighted Morrey spaces L^{p,\kappa}(w) under appropriate conditions on the weight w, where the symbol b belongs to weighted BMO or Lipschitz space or weighted Lipschitz space.

@@ -1,0 +1,1 @@
+Let G be a reductive algebraic group defined over \bQ, with anisotropic centre. Given a rational action of G on a finite-dimensional vector space V, we analyze the truncated integral of the theta series corresponding to a Schwartz-Bruhat function on V(\bA). The Poisson summation formula then yields an identity of distributions on V(\bA). The truncation used is due to Arthur.

@@ -1,0 +1,1 @@
+We introduce a new method for computing the word length of an element of Thompson's group F with respect to a "consecutive" generating set of the form X_n={x_0,x_1,...,x_n}, which is a subset of the standard infinite generating set for F. We use this method to show that (F,X_n) is not almost convex, and has pockets of increasing, though bounded, depth dependent on n.

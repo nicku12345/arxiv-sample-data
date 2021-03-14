@@ -1,0 +1,1 @@
+Let G be an odd order nilpotent group with class 2 and e denotes the exponent of its commutator subgroup. Let e=p_1^{r_1}p_2^{r_2}... p_s^{r_s}, where p_i's are odd primes and r_i's are non-negative integers. Then there are at least r_1+r_2+... +r_s non-isomorphic nilpotent groups with class two and the order of each of the group is equal to the order of G.

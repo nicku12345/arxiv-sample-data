@@ -1,0 +1,1 @@
+We introduce multi-scale filtering by the way of certain double convolution systems. We prove stability theorems for these systems and make connections with function theory in the poly-disc. Finally, we compare the framework developed here with the white noise space framework, within which a similar class of double convolution systems has been defined earlier.

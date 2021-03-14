@@ -1,0 +1,1 @@
+In this paper we characterize a function defined on the set of edges of a triangulated surface such that there is a spherical angle structure having the function as the edge invariant (or Delaunay invariant).   We also characterize a function such that there is a hyperbolic angle structure having the function as the edge invariant.

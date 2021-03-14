@@ -1,0 +1,1 @@
+A new class of coefficients for the Hopf-cyclic homology of module algebras and coalgebras is introduced. These coefficients, termed stable anti-Yetter-Drinfeld contramodules, are both modules and contramodules of a Hopf algebra that satisfy certain compatibility conditions.

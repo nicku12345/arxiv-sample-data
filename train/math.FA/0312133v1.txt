@@ -1,0 +1,1 @@
+Let H be a Hilbert space. For a closed convex body A denote by r(A) the supremum of radiuses of balls, contained in A. We prove, that \sum_{n=1}^\infty r(A_n) \ge r(A) for every covering of a convex closed body A \subset H by a sequence of convex closed bodies A_n, n \in \N. It looks like this fact is new even for triangles in a 2-dimensional space.

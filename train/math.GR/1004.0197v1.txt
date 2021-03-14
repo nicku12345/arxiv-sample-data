@@ -1,0 +1,1 @@
+We show that there exist finitely generated soluble groups which are not LERF but which do not contain strictly ascending HNN extensions of a cyclic group. This solves Problem 16.2 in the Kourovka notebook. We further show that there is a finitely presented soluble group which is not LERF but which does not contain a strictly ascending HNN extension of a polycyclic group.

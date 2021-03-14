@@ -1,0 +1,1 @@
+We propose modification of Markovsky crypto-algorithm [2, 3, 4] on n-ary groupoids [1] that are invertible on at least one place.

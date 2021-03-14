@@ -1,0 +1,1 @@
+Given a cohesive sheaf \Cal S over a complex Banach manifold M, we endow the cohomology groups H^q(M,\Cal S) of M and H^q(\frak U,\Cal S) of open covers \frak U of M with a locally convex topology. Under certain assumptions we prove that the canonical map H^q(\frak U,\Cal S)\to H^q(M,\Cal S) is an isomorphism of topological vector spaces.

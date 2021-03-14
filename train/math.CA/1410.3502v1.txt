@@ -1,0 +1,1 @@
+For functions belonging to the classes C^{2}[0, 1] and C^{3}[0, 1], we establish the lower estimate with an explicit constant in approximation by Bernstein polynomials in terms of the second order Ditzian-Totik modulus of smoothness. Several applications to some concrete examples of functions are presented.

@@ -1,0 +1,1 @@
+In this paper, the existence of L^p(p>1) solutions for one-dimensional backward stochastic differential equations will be shown directly by proving that an approximation sequence is a Cauchy one in the L^p sense.

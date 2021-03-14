@@ -1,0 +1,1 @@
+In this paper we establish the stability of the functional equation \begin{equation*}f(xy)=f(x)g(y)+g(x)f(y)+h(x)h(y),\;x,y\in G,\end{equation*} where G is an amenable group.

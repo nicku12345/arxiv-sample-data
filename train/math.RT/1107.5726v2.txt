@@ -1,0 +1,1 @@
+We give two generalizations of Kac's Theorem on representations of quivers. One is to representations of equipped graphs by relations, in the sense of Gelfand and Ponomarev. The other is to representations of quivers in which certain of the linear maps are required to have maximal rank.

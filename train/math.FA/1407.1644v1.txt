@@ -1,0 +1,1 @@
+In this paper we study weighted mixed norm estimates for Riesz transforms associated to Dunkl harmonic oscillators. The idea is to show that the required inequalities are equivalent to certain vector valued inequalities for operator defined in terms of Laguerre expansions. In certain cases the main result can be deduced from the corresponding result for Hermite Riesz transforms.

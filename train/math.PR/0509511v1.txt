@@ -1,0 +1,1 @@
+In this paper, by using a Taylor development type formula, we show how it is possible to associate differential operators with stochastic differential equations driven by a fractional Brownian motion. As an application, we deduce that invariant measures for such SDEs must satisfy an infinite dimensional system of partial differential equations.

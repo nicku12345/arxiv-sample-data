@@ -1,0 +1,1 @@
+We prove a characterization of the j-multiplicity of a monomial ideal as the normalized volume of a polytopal complex. Our result is an extension of Teissier's volume-theoretic interpretation of the Hilbert-Samuel multiplicity for m-primary monomial ideals. We also give a description of the epsilon-multiplicity of a monomial ideal in terms of the volume of a region.

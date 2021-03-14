@@ -1,0 +1,1 @@
+A well-known theorem of Schoenberg states that if f(z) generates a PF_r sequence then 1/f(-z) generates a PF_r sequence. We give two counterexamples which show that this is not true, and give a correct version of the theorem. In the infinite limit the result is sound: if f(z) generates a PF sequence then 1/f(-z) generates a PF sequence.

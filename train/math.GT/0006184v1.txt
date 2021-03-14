@@ -1,0 +1,1 @@
+In this paper, we shall give an explicit Gauss diagram formula for the Kontsevich integral of links up to degree four. This practical formula enables us to actually compute the Kontsevich integral in a combinatorial way.

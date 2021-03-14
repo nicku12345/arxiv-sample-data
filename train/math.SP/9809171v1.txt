@@ -1,0 +1,1 @@
+We prove sharp L^2 boundary decay estimates for the eigenfunctions of certain second order elliptic operators acting in a bounded region, and of their first order space derivatives, using only the Hardy inequality. We then deduce bounds on the change of the eigenvalues when the region is reduced slightly in size, subject to DBCs.

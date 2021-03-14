@@ -1,0 +1,1 @@
+We present the first example of a poly-time computable Julia set with a recurrent critical point: we prove that the Julia set of the Feigenbaum map is computable in polynomial time.

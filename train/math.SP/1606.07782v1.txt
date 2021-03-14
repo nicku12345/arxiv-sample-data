@@ -1,0 +1,1 @@
+We prove a quantitative lower bound on the number of nodal domains of the real-analytic Eisenstein series. The main tool in the proof is a quantitative restricted QUE theorem where the support of the test function is allowed to shrink with the Laplace eigenvalue.

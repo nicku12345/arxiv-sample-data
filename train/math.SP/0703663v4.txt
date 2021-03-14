@@ -1,0 +1,1 @@
+Let M be a closed Riemannian manifold of dimension n. Let f be an eigenfunction of the Laplace-Beltrami operator corresponding to an eigenvalue \lambda. We show that the volume of {f>0} inside any ball B whose center lies on {f=0} is > C|B|/\lambda^n. We apply this result to prove that each nodal domain contains a ball of radius > C/\lambda^n.

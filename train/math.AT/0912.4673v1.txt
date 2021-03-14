@@ -1,0 +1,1 @@
+We prove that an additive track category with strong coproducts is equivalent to the category of pseudomodels for the algebraic theory of \nil_2 groups. This generalizes the classical statement that the category of models for the algebraic theory of abelian groups is equivalent to the category of abelian groups. Dual statements are also considered.

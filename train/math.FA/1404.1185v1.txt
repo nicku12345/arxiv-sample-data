@@ -1,0 +1,1 @@
+We show that if X and Y are Banach spaces, where Y is separable and polyhedral, and if T:X \to Y is a bounded linear operator such that T^*(Y^*) contains a boundary B of X, then X is separable and isomorphic to a polyhedral space. Some corollaries of this result are presented.

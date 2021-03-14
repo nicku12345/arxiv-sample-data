@@ -1,0 +1,1 @@
+It is well known that n x n upper-triangular real matrices with 1's on the diagonal form a nilpotent Lie group with an interesting family of non-isotropic dilations and corresponding geometry, as in [9]. Here we look at p-adic versions of this, and related matters.

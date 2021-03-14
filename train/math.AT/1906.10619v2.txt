@@ -1,0 +1,1 @@
+We show that the various higher Segal conditions of Dyckerhoff and Kapranov can all be characterized in purely categorical terms by higher excision conditions (in the spirit of Goodwillie-Weiss manifold calculus) on the simplex category \Delta and the cyclic category \Lambda.

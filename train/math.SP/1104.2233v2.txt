@@ -1,0 +1,1 @@
+We prove a 2-terms Weyl formula for the counting function N(mu) of the spectrum of the Laplace operator in the Euclidean disk with a sharp remainder estimate O(mu^2/3).

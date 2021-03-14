@@ -1,0 +1,1 @@
+Let G be a Carnot group with homogeneous dimension Q larger than 2 and let L be a sub-Laplacian on G. We prove that the critical dimension for removable sets of Lipschitz L-harmonic functions is Q-1. Moreover we construct self-similar sets with positive and finite (Q-1) dimensional Hausdorff measure which are removable.

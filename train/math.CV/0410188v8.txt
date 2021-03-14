@@ -1,0 +1,1 @@
+We show that any finitely connected domain U\subset\CC can be properly embedded into \CC^2. For some sequences \{p_j\}\subset U, U\setminus\{p_j\} can also be properly embedded into \CC^2.

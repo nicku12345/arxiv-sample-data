@@ -1,0 +1,1 @@
+It is shown that each continuous transformation h from Euclidean m-space (m>1) into Euclidean n-space that preserves the equality of distances (that is, fulfils the implication |x-y|=|z-w|\Rightarrow|h(x)-h(y)|=|h(z)-h(w)|) is a similarity map. The case of equal dimensions already follows from the Beckman--Quarles Theorem.

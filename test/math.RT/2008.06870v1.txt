@@ -1,0 +1,1 @@
+We determine which orthogonal representations V of GL(n,q) lift to the double cover Pin(V ) of the orthogonal group O(V ). We cover all n and prime powers q, except for (n; q) =(3,4).

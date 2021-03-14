@@ -1,0 +1,1 @@
+We reconsider the description for property transitions due to perfect measurements, viewing them as a special case of general transitions that are due to an externally imposed change. We propose a corresponding syntax involving operational quantum logic and a fragment of non-commutative linear logic.

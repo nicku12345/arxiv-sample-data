@@ -1,0 +1,1 @@
+Let P and Q be two convex polytopes both contained in the interior of an Euclidean ball r\textbf{B}^{d}. We prove that P=Q provided that their sight cones from any point on the sphere rS^{d-1} are congruent. We also prove an analogous result for spherical projections.

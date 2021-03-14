@@ -1,0 +1,1 @@
+We generalize Quillen's Theorem A to diagrams of lax 2-functors which commute up to transformation. It follows from a special case of this result that 2-categories are models for homotopy types.

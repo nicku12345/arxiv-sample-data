@@ -1,0 +1,1 @@
+We extend the classical Schwarz-Pick inequality to the class of harmonic mappings between the unit disk and a Jordan domain with given perimeter. It is intriguing that the extremals in this case are certain harmonic diffeomorphisms between the unit disk and a convex domain that solve the Beltrami equation of second order.

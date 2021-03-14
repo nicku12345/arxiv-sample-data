@@ -1,0 +1,1 @@
+Compaction in reactive porous media is modelled as a reaction-diffusion process with a moving boundary. Asymptotic analysis is used to find solutions for the coupled nonlinear compaction equations, and a traveling wave solution is obtained above the reaction zone.

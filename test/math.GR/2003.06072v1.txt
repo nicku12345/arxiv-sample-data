@@ -1,0 +1,1 @@
+Let G be a finite group and \alpha(G)=\frac{|C(G)|}{|G|}\,, where C(G) denotes the set of cyclic subgroups of G. In this short note, we prove that \alpha(G)\leq\alpha(Z(G)) and we describe the groups G for which the equality occurs. This gives some sufficient conditions for a finite group to be 4-abelian or abelian.

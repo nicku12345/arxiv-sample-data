@@ -1,0 +1,1 @@
+We consider countable Borel equivalence relations on quotient Borel spaces. We prove a generalization of the Feldman-Moore representation theorem, but provide some examples showing that other very simple properties of countable equivalence relations on standard Borel spaces may fail in the context of nonsmooth quotients.

@@ -1,0 +1,1 @@
+Let A be an integer matrix, and let f_A be the associated monomial map. We give a connection between the eigenvalues of A and existence of a linear recurrence relation in the sequence of degrees.

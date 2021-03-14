@@ -1,0 +1,1 @@
+A countable band B is called homogeneous if every isomorphism between finitely generated subbands extends to an automorphism of B. In this paper we give a complete classification of all the homogeneous bands. We prove that a homogeneous band belongs to the variety of regular bands, and has a homogeneous structure semilattice.

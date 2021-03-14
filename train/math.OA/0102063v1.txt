@@ -1,0 +1,1 @@
+The objects under investigation are the stochastic integrals with respect to free Levy processes. We define such integrals for square-integrable integrands, as well as for a certain general class of bounded integrands. Using the product form of the Ito formula, we prove the full functional Ito formula in this context.

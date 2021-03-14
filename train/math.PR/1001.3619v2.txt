@@ -1,0 +1,1 @@
+Under very general conditions the hitting time of a set by a stochastic process is a stopping time. We give a new simple proof of this fact. The section theorems foroptional and predictable sets are easy corollaries of the proof.

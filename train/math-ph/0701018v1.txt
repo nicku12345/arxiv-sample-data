@@ -1,0 +1,1 @@
+The present paper gives calculations in detail to prove several special cases of Atiyah-Singer theorem through supersymmetric \sigma-models. Some technical tricks are employed to calculate the determinants of fluctuation operators of the path integrals. An intuitive and geometric argument is applied to overcome the complicated calculation on spin fields twisted by gauge fields.

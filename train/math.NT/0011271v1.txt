@@ -1,0 +1,1 @@
+In this paper we give bounds for the Iwasawa invariants of the Igusa tower of curves investigated by Mazur and Wiles. We give an upper bound for the mu invariants and a lower bound for the sum of the lambda invariants, in terms of the genus and number of supersingular points of the base curve.

@@ -1,0 +1,1 @@
+We show that the roots of a Weierstrass polynomial on several variables are power series with rational exponents of bounded denominators, whose Newton diagrams are contained in an S-cone. As an application, in Section 4 we deal with some topics of integral dependence of Puiseux power series.

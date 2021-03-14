@@ -1,0 +1,1 @@
+Bisets can be considered as categories. This note uses this point of view to give a simple proof of a Mackey-like formula expressing the tensor product of two induced bimodules.

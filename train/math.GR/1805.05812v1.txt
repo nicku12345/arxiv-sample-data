@@ -1,0 +1,1 @@
+Let FH be a supersolvable Frobenius group with kernel F and complement H. Suppose that a finite group G admits FH as a group of automorphisms in such a manner that C_G(F)=1 and C_{G}(H) is nilpotent of class c. We show that G is nilpotent of (c,\left|FH\right|)-bounded class.

@@ -1,0 +1,1 @@
+Let SL(2, \mathbb H) be the group of 2 \times 2 quaternionic matrices A=\begin{pmatrix} a & b \\ c & d \end{pmatrix} with quaternionic determinant \det A=|ad-aca^{-1} b|=1. This group acts by the orientation-preserving isometries of the five dimensional (real) hyperbolic space. We obtain discreteness criteria for Zariski-dense subgroups of SL(2, \mathbb H) using test maps.

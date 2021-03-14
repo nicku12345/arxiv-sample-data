@@ -1,0 +1,1 @@
+Let H and K be quasiconvex subgroups of a negatively curved torsion-free group G. We give an algorithm which decides whether an element of H is conjugated in G to an element of K.

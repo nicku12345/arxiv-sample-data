@@ -1,0 +1,1 @@
+Here we prove that the minimal free resolution of a general space curve of large degree (e.g. a general space curve of degree d and genus g with d g+3, except for finitely many pairs (d,g)) is the expected one. A similar result holds even for general curves with special hyperplane section and, roughly, d g/2. The proof uses the so-called methode d'Horace.

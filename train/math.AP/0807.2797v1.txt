@@ -1,0 +1,1 @@
+We prove weak-strong uniqueness results for the isentropic compressible Navier-Stokes system on the torus. In other words, we give conditions on a strong solution so that it is unique in a class of weak solutions. Known weak-strong uniqueness results are improved. Classical uniqueness results for this equation follow naturally.

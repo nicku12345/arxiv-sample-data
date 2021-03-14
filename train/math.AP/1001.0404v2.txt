@@ -1,0 +1,1 @@
+Extending previous results of Oh--Zumbrun and Johnson--Zumbrun, we show that spectral stability implies linearized and nonlinear stability of spatially periodic traveling-wave solutions of viscous systems of conservation laws for systems of generic type, removing a restrictive assumption that wave speed be constant to first order along the manifold of nearby periodic solutions.

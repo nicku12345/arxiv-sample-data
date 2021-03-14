@@ -1,0 +1,1 @@
+We study the power sum problem max_{v=1,...,m} | sum_{k=1}^n z_k^v | and by using features of Fejer kernels we give new lower bounds in the case of unimodular complex numbers z_k and m cn^2 for constants c>1.

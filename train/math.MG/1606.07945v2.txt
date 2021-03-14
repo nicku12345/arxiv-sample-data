@@ -1,0 +1,1 @@
+The intrinsic volumes of Gaussian polytopes are considered. A lower variance bound for these quantities is proved, showing that, under suitable normalization, the variances converge to strictly positive limits. The implications of this missing piece of the jigsaw in the theory of Gaussian polytopes are discussed.

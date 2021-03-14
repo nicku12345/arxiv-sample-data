@@ -1,0 +1,1 @@
+We construct inner products by the Bernstein-Markov inequality on spaces of holomorphic sections of high powers of a line bundle. The corresponding weighted Bergman kernel functions converge to an extremal function. We obtain a uniform convergence speed.

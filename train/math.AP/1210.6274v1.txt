@@ -1,0 +1,1 @@
+Let p\in(1,n). If \Omega is a convex domain in \rn whose p-capacitary potential function u is (1-p)/(n-p)-concave (i.e. u^{(1-p)/(n-p)} is convex), then \Omega is a ball.

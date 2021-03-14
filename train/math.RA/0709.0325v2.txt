@@ -1,0 +1,1 @@
+Let R be a ring and (\sigma,\delta) a quasi-derivation of R. In this paper, we show that if R is an (\sigma,\delta)-skew Armendariz ring and satisfies the condition (\mathcal{C_{\sigma}}), then R is right p.q.-Baer if and only if the Ore extension R[x;\sigma,\delta] is right p.q.-Baer. As a consequence we obtain a generalization of \cite{hong/2000}.

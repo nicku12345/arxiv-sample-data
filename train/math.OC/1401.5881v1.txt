@@ -1,0 +1,1 @@
+In this paper, we propose a mixed-binary convex quadratic programming reformulation for the box-constrained nonconvex quadratic integer program and then implement IBM ILOG CPLEX 12.6 to solve the new model. Computational results demonstrate that our approach clearly outperform the very recent state-of-the-art solvers.

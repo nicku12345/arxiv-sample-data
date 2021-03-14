@@ -1,0 +1,1 @@
+Let G be a finite group, N(G) be the set of conjugacy classes of the group G. In the present paper it is proved G\simeq L if N(G)=N(L), where G is a finite group with trivial center and L is a finite simple group of exceptional Lie type or Tits group.

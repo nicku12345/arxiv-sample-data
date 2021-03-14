@@ -1,0 +1,1 @@
+It has been shown in this paper that the commutative Frobenius algebra QZ_5\otimes Z(QS_3) provides a complete invariant for two-dimensional cobordisms, i.e., that the corresponding two-dimensional quantum field theory is faithful. The essential role in the proof of this result plays Zsigmondy's Theorem.

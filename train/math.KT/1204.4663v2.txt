@@ -1,0 +1,1 @@
+In the erratum we correct a mistake (due to a wrong choice of basic polynomial invariants over Z[1/2]) in the original paper (v1). Using the correct basic polynomial invariants we improve our results and bounds on the annihilator. We also simplify some of the proofs.

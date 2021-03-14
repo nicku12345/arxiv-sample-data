@@ -1,0 +1,1 @@
+This article lists all the solution of the Catalan equation x^p-y^q=1 for x,y \in \mathbb{Z}[i], when one of the primes p and q is even.

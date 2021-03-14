@@ -1,0 +1,1 @@
+We prove that for sufficiently large k, there exist 0\le\sigma_k\le\eps_k\to 0 as k\to\infty, such that asymptotically almost surely the first k-regular subgraph appeared in the random graph process where one edge is added at a time has size between (1-\eps_k)|\K_k| and (1-\sigma_k)|\K_k|, where \K_k denotes the k-core of the graph.

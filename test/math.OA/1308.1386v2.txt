@@ -1,0 +1,1 @@
+In this work we construct a C*-algebra from an injective endomorphisms of some group G, allowing the endomorphism to have infinite cokernel. We generalize results obtained by I. Hirshberg and also by J. Cuntz and A. Vershik. In good cases we show that the C*-algebra that we study is classifiable by Kirchberg's classification theorem, with K-groups equal to K*(C*(G)).

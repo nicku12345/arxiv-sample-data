@@ -1,0 +1,1 @@
+In this paper, we study the pair (\GP(R),\GP(R)^{\perp}) where \GP(R) is the class of all Gorenstein projective modules. We prove that it is complete hereditary cotorsion theory provided l.\Ggldim(R)<\infty. We discuss also, when every Gorenstein projective module is Gorenstein flat.

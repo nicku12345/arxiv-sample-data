@@ -1,0 +1,1 @@
+We study the Robin Laplacian in a domain with two corners of the same opening, and we calculate the asymptotics of the two lowest eigenvalues as the distance between the corners increases to infinity.

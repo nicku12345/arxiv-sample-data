@@ -1,0 +1,1 @@
+It is proved that the Boolean algebra of rank n minimizes the flag f-vector among all graded lattices of rank n, whose proper part has nontrivial top-dimensional homology. The analogous statement for the flag h-vector is conjectured in the Cohen-Macaulay case.

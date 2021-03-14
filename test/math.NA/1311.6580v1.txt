@@ -1,0 +1,1 @@
+Spherical radial basis functions are used to define approximate solutions to strongly elliptic pseudodifferential equations on the unit sphere. These equations arise from geodesy. The approximate solutions are found by the Galerkin and collocation methods. A salient feature of the paper is a {\em unified theory} for error analysis of both approximation methods.

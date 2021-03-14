@@ -1,0 +1,1 @@
+Let (A,\mathfrak{m}) be a Noetherian local ring, M a finite A-module and x_1,...,x_n\in \m such that \lambda (M/\x M) is finite. Serre proved that all partial Euler characteristics of M with respect to \x is non-negative. This fact is easy to show when A contains a field. We give an elementary proof of Serre's result when A does not contain a field.

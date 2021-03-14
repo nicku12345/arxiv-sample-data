@@ -1,0 +1,1 @@
+For Schroedinger operators with long-range magnetic vector potentials and short-range electric scalar potentials in an exterior domain \Omega in {\bf R}^n with n \geq 2, we show that there is a one-to-one correspondence between the gauge equivalent classes of Hamiltonians and those of S-matrices if \Omega is exterior to a bounded convex obstacle.

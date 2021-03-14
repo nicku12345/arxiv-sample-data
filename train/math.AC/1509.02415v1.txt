@@ -1,0 +1,1 @@
+The paper proves the intermediate value theorem for polynomials and power series over a valued field with divisible valuation group and infinite residue field. Some further results on the behaviour of the valuation are obtained using Hensel's Lemma.

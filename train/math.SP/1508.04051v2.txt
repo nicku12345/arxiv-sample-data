@@ -1,0 +1,1 @@
+We prove a new polynomial lower bound on the scattering resolvent. For that, we construct a quasimode localized on a trajectory \gamma which is trapped in the past, but not in the future. The power in the bound is expressed in terms of the maximal Lyapunov exponent on \gamma, and gives the minimal number of derivatives lost in exponential decay of solutions to the wave equation.

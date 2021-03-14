@@ -1,0 +1,1 @@
+Let G be the homeomorphism group of a dendrite. We study the normal subgroups of G. For instance, there are uncountably many non-isomorphic such groups G that are simple groups. Moreover, these groups can be chosen so that any isometric G-action on any metric space has a bounded orbit. In particular they have the fixed point property (FH).

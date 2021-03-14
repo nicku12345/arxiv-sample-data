@@ -1,0 +1,1 @@
+In this paper we consider level l Appell functions, and find a partial differential equation for all odd l. For l=3 this recovers the Rank-Crank PDE, found by Atkin and Garvan, and for l=5 we get a similar PDE found by Garvan.

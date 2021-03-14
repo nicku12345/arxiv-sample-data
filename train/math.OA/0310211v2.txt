@@ -1,0 +1,1 @@
+We prove that if G is a countable, discrete group having infinite, normal subgroups with the relative property (T), then the Bernoulli shift action of G on {\underset g \in G \to \Pi} (X_0, \mu_0)_g for (X_{0},\mu_{0}) an arbitrary probability space, has first cohomology group isomorphic to the character group of G.

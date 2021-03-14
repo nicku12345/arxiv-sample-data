@@ -1,0 +1,1 @@
+We show that the Grothendieck ring of finite-dimensional representations of the periplectic Lie supergroup P(n) is isomorphic to the ring of symmetric polynomials in x_1^{\pm 1}, \ldots, x_n^{\pm 1} whose evaluation x_1=x_2^{-1}=t is independent of t.

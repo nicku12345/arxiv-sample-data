@@ -1,0 +1,1 @@
+Computing the extensions between Verma modules is in general a very difficult problem. Using Soergel bimodules, one can construct a graded version of the principal block of Category \mathcal{O} for any finite coxeter group. In this setting, we compute the extensions between Verma modules for dihedral groups.

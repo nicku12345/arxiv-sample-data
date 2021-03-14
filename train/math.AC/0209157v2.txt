@@ -1,0 +1,1 @@
+Suppose X is a projective variety, which needs not be smooth, and L an ample divisor on X. We show that there are integers c and b such that for any nonnegative integer p, L^d is normally generated and embeds X as a variety who defining ideal has linear syzygies upto the p-th step (i.e. L^d has property N_p) for all d >= cp + b.

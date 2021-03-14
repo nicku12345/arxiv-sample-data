@@ -1,0 +1,1 @@
+Why withdrawn: Main theorem can only be proved, if the flag manifold F with b2=1 is additionally hermitian symmetric.Mistake made at the following place: If F is not hermitian symmetric, certain vector fields are not left invariant

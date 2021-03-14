@@ -1,0 +1,1 @@
+We present a set of restrictions on the fractional differential equation x^{(\alpha)}(t)=g(x(t)), t\geq0, where \alpha\in(0,1) and g(0)=0, that leads to the existence of an infinity of solutions starting from x(0)=0. The operator x^{(\alpha)} is the Caputo differential operator.

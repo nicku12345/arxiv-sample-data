@@ -1,0 +1,1 @@
+We generalize the concept "well-posed linear system" to stochastic linear control systems and study some basic properties of such kind systems. Under our generalized definition, we show the well-posedness of the stochastic heat equation and the stochastic Schr\"odinger equation with suitable boundary control and observation operators, respectively.

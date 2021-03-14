@@ -1,0 +1,1 @@
+In 1974 Allan Cruse provided necessary and sufficient conditions to extend an r\times s partial latin rectangle consisting of t distinct symbols to a latin square of order n. Here we provide some generalizations and consequences of this result. Our results are obtained via an alternative proof of Cruse's theorem.

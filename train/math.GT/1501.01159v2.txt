@@ -1,0 +1,1 @@
+For a knot K with \Delta_K(t)\doteq t^2-3t+1 in a homology 3-sphere, let M be the result of 2/q-surgery on K. We show that an appropriate assumption on the Reidemeister torsion of the universal abelian covering of M implies q=\pm 1, if M is a Seifert fibered space.

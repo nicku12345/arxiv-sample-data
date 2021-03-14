@@ -1,0 +1,1 @@
+It is shown, that the mapping class group of a surface of the genus g > 1 admits a faithful representation into the matrix group GL (6g-6, Z). The proof is based on a categorical correspondence between the Riemann surfaces and the so-called toric AF-algebras.

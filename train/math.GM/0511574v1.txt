@@ -1,0 +1,1 @@
+A doubly infinite sum, numerically evaluated at between 0.999 and 1.001, turns out to have a nice value.

@@ -1,0 +1,1 @@
+In this note we study Kloosterman sums twisted by a multiplicative characters modulo a prime power. We show, by an elementary calculation, that these sums become equidistributed on the real line with respect to a suitable measure.

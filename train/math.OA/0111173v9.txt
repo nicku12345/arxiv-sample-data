@@ -1,0 +1,1 @@
+There exists a covariant non-injective functor from the space of generic Riemann surfaces to the so-called toric AF-algebras; such a functor maps isomorphic Riemann surfaces to the stably isomorphic toric AF-algebras. We use the functor to construct a faithful representation of the mapping class group of surface of genus g>1 into the matrix group GL(6g-6, Z).

@@ -1,0 +1,1 @@
+We introduce a property of Banach spaces called uniform convex-transitivity, which falls between almost transitivity and convex-transitivity. We will provide examples of uniformly convex-transitive spaces. This property behaves nicely in connection with some Banach-valued function spaces. As a consequence, we obtain new examples of convex-transitive Banach spaces.

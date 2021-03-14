@@ -1,0 +1,1 @@
+We propose a construction which transforms a self-similar zipper in \mathbb R^n to a self-affine zipper \mathbb R^{n+1} whose attractor is a smooth curve.

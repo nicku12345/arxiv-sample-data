@@ -1,0 +1,1 @@
+We investigate a property: a domain cuts the ambient space if and only if it's boundary is disconnected. Previously, we had shown that for compact manifolds this property is equivalent to the manifold having trivial 1-cohomology. We now generalize this discussion to locally connected metric spaces.

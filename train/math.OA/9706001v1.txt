@@ -1,0 +1,1 @@
+We show that a Fell bundle B = {B_t}_{t \in F}, over an arbitrary free group F, is amenable, whenever it is orthogonal (in the sense that B_x^* B_y = 0, if x and y are distinct generators of F) and semi-saturated (in the sense that B_{ts} coincides with the closed linear span of B_t B_s, when the multiplication ``ts'' involves no cancelation).

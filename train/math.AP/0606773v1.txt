@@ -1,0 +1,1 @@
+If X is a non-degenerate vector field on {\bf R} and H=-X^2 we examine conditions for the closure of H to generate a continuous semigroup on L_\infty which extends to the L_p-spaces. We give an example which cannot be extended and an example which extends but for which the real part of the generator on L_2 is not lower semibounded.

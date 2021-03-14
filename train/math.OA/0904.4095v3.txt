@@ -1,0 +1,1 @@
+This paper resolves a number of conjectures in the perturbation theory of linear operators. Namely, we prove that every Lipschitz function is operator Lipschitz in the Schatten-von Neumann ideals S^\alpha, 1 < \alpha < \infty. The negative result for S^\alpha, \alpha = 1, \infty was earlier established by Yu. Farforovskaya in 1972.

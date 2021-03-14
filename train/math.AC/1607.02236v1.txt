@@ -1,0 +1,1 @@
+A positive integer k is a length of a polynomial if that polynomial factors into a product of k irreducible polynomials. We find the set of lengths of polynomials of the form x^n in R[x], where (R, m) is an Artinian local ring with m^2 = 0.

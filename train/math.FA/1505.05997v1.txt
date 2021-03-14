@@ -1,0 +1,1 @@
+We consider integration of functions with values in a partially ordered vector space, and two notions of extension of the space of integrable functions. Applying both extensions to the space of real valued simple functions on a measure space leads to the classical space of integrable functions.

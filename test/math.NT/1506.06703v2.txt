@@ -1,0 +1,1 @@
+We show that the Euler system associated to Rankin--Selberg convolutions of modular forms, introduced in our earlier works with Lei and Kings, varies analytically as the modular forms vary in p-adic Coleman families. We prove an explicit reciprocity law for these families, and use this to prove cases of the Bloch--Kato conjecture for Rankin--Selberg convolutions.

@@ -1,0 +1,1 @@
+We show that any simple transitive 2-representation of the 2-ca\-te\-go\-ry of projective endofunctors for the quiver algebra of \Bbbk(\xymatrix{\bullet\ar[r]&\bullet}) and for the quiver algebra of \Bbbk(\xymatrix{\bullet\ar[r]\ar@/^/@{.}[rr]&\bullet\ar[r]&\bullet}) is equivalent to a cell 2-representation.

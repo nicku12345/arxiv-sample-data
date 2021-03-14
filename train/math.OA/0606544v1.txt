@@ -1,0 +1,1 @@
+We prove that if A is an infinite von Neumann algebra (i. e., the identity can be decomposed as a sum of a sequence of pairwise disjoint projections, all equivalent to the identity) then the cyclic cohomology of A vanishes. We show that the method of the proof applies to certain algebras of infinite matrices.

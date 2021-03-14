@@ -1,0 +1,1 @@
+We construct Luzin-type subsets of the real line in all finite powers Rothberger, with a non-Menger product. To this end, we use a purely combinatorial approach which allows to weaken assumptions used earlier to construct sets with analogous properties. Our assumptions hold, e.g., in the Random model, where already known category theoretic methods fail.

@@ -1,0 +1,1 @@
+This paper gives necessary conditions and slightly stronger sufficient conditions for a holomorphic function to be the Segal-Bargmann transform of a function in L^p(R^d) with respect to a Gaussian measure. The proof relies on a family of inversion formulas for the Segal-Bargmann transform, which can be "tuned" to give the best estimates for a given value of p.

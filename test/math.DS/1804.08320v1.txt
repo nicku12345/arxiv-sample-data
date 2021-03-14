@@ -1,0 +1,1 @@
+This article studies the N-vortex problem in the plane with positive vorticities. After an investigation of some properties for normalised relative equilibria of the system, we use symplectic capacity theory to show that, there exist infinitely many normalised relative periodic orbits on a dense subset of all energy levels, which are neither fixed points nor relative equilibria.

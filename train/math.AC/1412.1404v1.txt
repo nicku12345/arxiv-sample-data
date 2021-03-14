@@ -1,0 +1,1 @@
+Let (R,{\bf m}) be a two-dimensional regular local ring with infinite residue field. We prove an analogue of the Hoskin-Deligne length formula for a finitely generated, torsion-free, integrally closed R-module M. As a consequence, we get a formula for the Buchsbaum-Rim multiplicity of F/M, where F = M^{**}.

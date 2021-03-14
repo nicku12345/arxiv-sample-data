@@ -1,0 +1,1 @@
+We study the modularity of the genus zero open Gromov-Witten potentials and its generating matrix factorizations for elliptic orbifolds. These objects constructed by Lagrangian Floer theory are a priori well-defined only around the large volume limit. It follows from modularity that they can be analytically continued over the global K\"ahler moduli space.

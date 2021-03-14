@@ -1,0 +1,1 @@
+We construct a continuous semigroup of weak, dissipative solutions to a nonlinear partial differential equations modeling nematic liquid crystals. A new distance functional, determined by a problem of optimal transportation, yields sharp estimates on the continuity of solutions with respect to the initial data.

@@ -1,0 +1,1 @@
+We introduce two new measures of the noncordiality of a graph. We then calculate the values of these measures for various families of noncordial graphs. We also determine exactly which of the M\"obius ladders are cordial.

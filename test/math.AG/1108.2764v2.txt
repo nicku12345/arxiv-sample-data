@@ -1,0 +1,1 @@
+We describe Somekawa's K-group associated to a finite collection of semi-abelian varieties (or more general sheaves) in terms of the tensor product in Voevodsky's category of motives. While Somekawa's definition is based on Weil reciprocity, Voevodsky's category is based on homotopy invariance. We apply this to explicit descriptions of certain algebraic cycles.

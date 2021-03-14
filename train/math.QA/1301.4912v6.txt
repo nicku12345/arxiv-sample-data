@@ -1,0 +1,1 @@
+The Ding-Iohara algebra is a quantum algebra arising from the free field realization of the Macdonald operator. Starting from the elliptic kernel function introduced by Komori, Noumi and Shiraishi, we can define an elliptic analog of the Ding-Iohara algebra. The free field realization of the elliptic Macdonald operator is also constructed.

@@ -1,0 +1,1 @@
+A decomposition of a natural number n is a sequence of consecutive natural numbers that sums to n. We construct a one-to-one correspondence between the odd factors of a natural number and its decompositions. We study the decompositions by their lengths and introduce the concept of length spectrum. Also, we use diagrams to illustrate the ideas behind our proofs.

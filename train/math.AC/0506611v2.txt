@@ -1,0 +1,1 @@
+The graded Betti numbers of the minimal free resolution (and also therefore the Hilbert function) of the ideal of a fat point subscheme Z of P^2 are determined whenever Z is supported at any 6 or fewer distinct points. All results hold over an algebraically closed field k of arbitrary characteristic.

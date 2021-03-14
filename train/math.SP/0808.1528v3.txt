@@ -1,0 +1,1 @@
+We consider a twisted quantum wave guide, and are interested in the spectral analysis of the associated Dirichlet Laplacian H. We show that if the derivative of rotation angle decays slowly enough at infinity, then there is an infinite sequence of discrete eigenvalues lying below the infimum of the essential spectrum of H, and obtain the main asymptotic term of this sequence.

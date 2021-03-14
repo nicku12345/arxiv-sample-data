@@ -1,0 +1,1 @@
+The function h^0 for a number field is an analogue of the dimension of the Riemann-Roch spaces of divisors on an algebraic curve. In this paper, we prove the conjecture of van der Geer and Schoof about the maximality of h^0 at the trivial Arakelov divisor for quadratic extensions of complex quadratic fields.

@@ -1,0 +1,1 @@
+Let G be a classical group over a non-Archimedean local field of odd residual characteristic. Using recent work of S. Stevens, we define a certain kind of semisimple stratum, called good, and show that it provides a simple type in G which is an analogue of the simple type for GL(N,F) defined by Bushnell and Kutzko. Furthermore, we define a self-dual simple type in G.

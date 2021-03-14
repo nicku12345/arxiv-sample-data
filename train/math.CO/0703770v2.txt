@@ -1,0 +1,1 @@
+We study the properties of a logconcavity operator on a symmetric, unimodal subset of finite sequences. In doing so we are able to prove that there is a large unbounded region in this subset that is \infty-logconcave. This problem was motivated by the conjecture of Moll and Boros in that the binomial coefficients are \infty-logconcave.

@@ -1,0 +1,1 @@
+Let X be a complete complex nonsingular algebraic variety and D a closed algebraic subset of X. We show that the cup product maps H^i(X \setminus D) \otimes H^j(X,D) \to H^{i+j}(X,D) are morphisms of mixed Hodge structures. As a corollary we obtain a new proof of a duality result of Fujiki. We also deal with the extraordinary cup product.

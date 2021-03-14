@@ -1,0 +1,1 @@
+We introduce the concept of shifting distance functions, and we establish a new fixed point theorem which generalizes the Banach contraction principle. An example is provided to illustrate our result.

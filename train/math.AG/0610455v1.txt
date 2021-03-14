@@ -1,0 +1,1 @@
+We write the equivariant Todd class of a general complete toric variety as an explicit combination of the orbit closures, the coefficients being analytic functions on the Lie algebra of the torus which satisfy Danilov's requirement.

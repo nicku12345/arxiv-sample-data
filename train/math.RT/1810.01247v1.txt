@@ -1,0 +1,1 @@
+We study the rational Cherednik algebra attached to the complex reflection group G(r,1,2). Each irreducible representation S^\lambda of G(r,1,2) corresponds to a standard module \Delta(\lambda) for the rational Cherednik algebra. We give necessary and sufficient conditions for the existence of morphism between two of these modules and explicit formulas for them when they exist.

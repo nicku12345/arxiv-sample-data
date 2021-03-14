@@ -1,0 +1,1 @@
+We study mathematically a system of partial differential equations arising in the modelling of an aging fluid, a particular class of non Newtonian fluids. We prove well-posedness of the equations in appropriate functional spaces and investigate the longtime behaviour of the solutions.

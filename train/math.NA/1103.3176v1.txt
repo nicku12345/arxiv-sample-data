@@ -1,0 +1,1 @@
+In this paper, we first apply the Fitzpatrick algorithm to osculatory rational interpolation. Then based on Fitzpatrick algorithm, we present a Neville-like algorithm for Cauchy interpolation. With this algorithm, we can determine the value of the interpolating function at a single point without computing the rational interpolating function.

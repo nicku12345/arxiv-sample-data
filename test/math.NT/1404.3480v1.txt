@@ -1,0 +1,1 @@
+We prove, that  \biggl\|\biggl(\frac43\biggr)^k\biggr\| >\biggl(\frac49\biggr)^k\qquad\text{for}\quad k\ge6,  where \|\cdot\| is a distance to the nearest prime.

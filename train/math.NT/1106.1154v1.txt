@@ -1,0 +1,1 @@
+Assuming the Riemann hypothesis, we obtain upper and lower bounds for moments of the Riemann zeta-function averaged over the extreme values between its zeros on the critical line. Our bounds are very nearly the same order of magnitude. The proof requires upper and lower bounds for continuous moments of derivatives of Riemann zeta-function on the critical line.

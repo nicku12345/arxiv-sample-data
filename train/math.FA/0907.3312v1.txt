@@ -1,0 +1,1 @@
+We prove an inequality for the spectral radius of products of non-negative matrices conjectured by X. Zhan. We show that for all n\times n non-negative matrices A and B, \rho(A\circ B)\le\rho((A\circ A)(B\circ B))^{1/2}\le\rho(AB), where \circ represents the Hadamard product.

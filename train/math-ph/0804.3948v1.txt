@@ -1,0 +1,1 @@
+We show that for fixed A,B, hermitian nonnegative definite matrices, and fixed k the coefficients of the t^k in the polynomial \tr (A+tB)^m is positive if \tr AB >0 and m>N(A,B,k).

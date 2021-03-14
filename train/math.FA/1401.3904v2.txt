@@ -1,0 +1,1 @@
+We present norm estimates for solutions of first and second order elliptic BVPs of the Dirac operator considered over a bounded and smooth domain of the n-dimension Euclidean space. The solutions whose norms to be estimated are in some Sobolev spaces and the boundary conditions as traces of solutions and their derivatives are in some Slobodeckji spaces.

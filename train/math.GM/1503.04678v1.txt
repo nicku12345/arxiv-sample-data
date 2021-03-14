@@ -1,0 +1,1 @@
+This purpose of this paper is to note an interesting identity derived from an integral in Gradshteyn and Ryzhik using techniques from George Boros'(deceased) Ph.D thesis. The idenity equates a sum to a product by evaluating an integral in two different ways. A more general form of the idenity is left for further investigation.

@@ -1,0 +1,1 @@
+We complete the study of the regularity for Trudinger's equation by proving that weak solutions are H\"older continuous also in the singular case. The setting is that of a measure space with a doubling non-trivial Borel measure supporting a Poincar\'e inequality. The proof uses the Harnack inequality and intrinsic scaling.

@@ -1,0 +1,1 @@
+As a generalization of nil clean ideal, we define weak nil clean ideal of a ring. An ideal I of a ring R is weak nil clean ideal if for any x\in I, either x=e+n or x=-e+n, where n is a nilpotent element and e is an idempotent element of R. Some interesting properties of weak nil clean ideal and its relation with weak nil clean ring have been discussed.

@@ -1,0 +1,1 @@
+Finitary monads on \mathsf{Pos} are characterized as the precisely the free-algebra monads of varieties of algebras. These are classes of ordered algebras specified by inequations in context. Analagously, finitary enriched monads on \mathsf{Pos} are characterized: here we work with varieties of coherent algebras which means that their operations are monotone.

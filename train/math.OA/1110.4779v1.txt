@@ -1,0 +1,1 @@
+Given a von Neumann algebra M we consider the central extension E(M) of M. We describe class of von Neumann algebras M for which the algebra E(M) coincides with the algebra S(M) -- the algebra of all measurable operators with respect to M, and with S(M, \tau) -- the algebra of all \tau-measurable operators with respect to M.

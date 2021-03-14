@@ -1,0 +1,1 @@
+In this paper, we investigate the inequality \begin{equation*} \left\Vert f(\cdot +h)\right\Vert_{p\left( \cdot \right) }\leq A\left\Vert f\right\Vert_{p\left( \cdot \right) },\quad h\in \mathbb{R}^{n}, A>0 \end{equation*} under some suitable assumptions on the function f and the variable exponent p.

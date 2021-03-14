@@ -1,0 +1,1 @@
+A classical theorem by Ritt states that all the complete decomposition chains of a univariate polynomial satisfying a certain tameness condition have the same length. In this paper we present our conclusions about the generalization of these theorem in the case of finite coefficient fields when the tameness condition is dropped.

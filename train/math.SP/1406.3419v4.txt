@@ -1,0 +1,1 @@
+In this paper we find a new condition on a real periodic potential for which the self-adjoint Schr\"odinger operator may be defined by a quadratic form and the spectrum of the operator is purely absolutely continuous. This is based on resolvent estimates and spectral projection estimates in weighted L^2 spaces on the torus, and an oscillatory integral theorem.

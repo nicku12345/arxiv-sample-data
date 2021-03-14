@@ -1,0 +1,1 @@
+This is a follow-up to the paper in which we categorified the affine quantum Schur algebra S(n,r) for 2 < r < n, using a quotient of Khovanov and Lauda's categorification of the affine quantum sl_n. In this paper we categorify S(n,n) for n > 2, using an extension of the aforementioned quotient.

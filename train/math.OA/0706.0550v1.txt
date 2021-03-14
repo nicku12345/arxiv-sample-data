@@ -1,0 +1,1 @@
+Given any 1 < q \le 2, we use new free probability techniques to construct a completely isomorphic embedding of \ell_q (equipped with its natural operator space structure) into the predual of a sufficiently large QWEP von Neumann algebra.

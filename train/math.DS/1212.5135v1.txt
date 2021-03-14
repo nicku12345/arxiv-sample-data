@@ -1,0 +1,1 @@
+For totally ergodic Z^2-actions a collection of weak limits provide the set {2,4, ..., 2 ^ n} of spectral multiplicities for their tensor product. Our conditions allow to obtain a similar result for mixing actions via some limit procedure.

@@ -1,0 +1,1 @@
+The following analog of Bernstein inequality for monotone rational functions is established: if R is an increasing on [-1,1] rational function of degree n, then  R'(x)<\frac{9^n}{1-x^2}\|R\|,\quad x\in (-1,1).  The exponential dependence of constant factor on n is shown, with sharp estimates for odd rational functions.

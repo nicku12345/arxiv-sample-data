@@ -1,0 +1,1 @@
+We construct an analogue of Viterbo's transfer morphism for Floer homology of an automorphism of a Liouville domain. As an application we prove that the Dehn-Seidel twist along any Lagrangian sphere in a Liouville domain of dimension \geqslant 4 has infinite order in the symplectic mapping class group.

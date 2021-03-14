@@ -1,0 +1,1 @@
+In 1980, Gasymov showed that non-self-adjoint Hill operators with complex-valued periodic potentials of the type V(x)=\sum_{k=1}^{\infty} a_k e^{ikx}, with \sum_{k=1}^{\infty}|a_k|<\infty, have spectra [0, \infty). In this note, we provide an alternative and elementary proof of this result.

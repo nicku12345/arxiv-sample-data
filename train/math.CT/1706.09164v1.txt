@@ -1,0 +1,1 @@
+We observe that many of the separation axioms of topology (including T_0-T_4) can be expressed concisely and uniformly in terms of category theory as lifting properties (in the sense of Quillen model categories) with respect to (usually open) continuous maps of finite spaces (involving up to 4 points) and the real line.

@@ -1,0 +1,1 @@
+We compare the classical approach of constructing finite Postnikov systems by k-invariants and the global approach of Dwyer, Kan, and Smith. We concentrate on the case of 3-stage Postnikov pieces and provide examples where a classification is feasible. In general though the computational difficulty of the global approach is equivalent to that of the classical one.

@@ -1,0 +1,1 @@
+We extend the concepts of trivializing and knotting numbers for knots to spatial graphs and 2-bouquet graphs, in particular. Furthermore, we calculate the trivializing and knotting numbers for projections and pseudodiagrams of 2-bouquet spatial graphs based on the number of precrossings and the placement of the precrossings in the pseudodiagram of the spatial graph.

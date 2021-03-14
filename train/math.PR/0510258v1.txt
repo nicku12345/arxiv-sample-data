@@ -1,0 +1,1 @@
+\mu being a nonnegative measure satisfying some log-Sobolev inequality, we give conditions on F for the measure \nu=e^{-2F} \mu to also satisfy some log-Sobolev inequality. Explicit examples are studied.

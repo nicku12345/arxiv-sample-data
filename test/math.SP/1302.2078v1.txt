@@ -1,0 +1,1 @@
+New inverse and half-inverse problems: {\it sliding problems} are introduced. In this way several physically important equations are recovered from the quantum defect. In particular, sliding problems are solved for radial Schr\"odinger equation, radial Dirac system and multidimensional Schr\"odinger equation. Systems with Coulomb-type potentials are considered as well.

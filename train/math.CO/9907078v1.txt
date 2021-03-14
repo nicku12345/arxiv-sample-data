@@ -1,0 +1,1 @@
+Greene and Zaslavsky proved that the number of acyclic orientations of a graph with a unique sink is, up to sign, the linear coefficient of the chromatic polynomial. We give three new proofs of this result using pure induction, noncommutative symmetric functions, and an algorithmic bijection.

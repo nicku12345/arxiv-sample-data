@@ -1,0 +1,1 @@
+In this paper, we give a characterization of digraphs Q, |Q|\leq 4 such that the associated Hecke-Kiselman monoid H_Q is finite. In general, a necessary condition for H_Q to be a finite monoid is that Q is acyclic and its Coxeter components are Dynkin diagram. We show, by constructing examples, that such conditions are not sufficient.

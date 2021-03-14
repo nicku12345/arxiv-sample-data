@@ -1,0 +1,1 @@
+If all tiles in a tiling are congruent, the tiling is called monohedral. Tiling by convex polygons is called edge-to-edge if any two convex polygons are either disjoint or share one vertex or one entire edge in common. In this paper, we prove that a convex polygon that can generate an edge-to-edge monohedral tiling must be able to generate a periodic tiling.

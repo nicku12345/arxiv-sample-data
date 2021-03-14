@@ -1,0 +1,1 @@
+We establish a Morris type recurrence formula for the root system C_{n}.\ Next we introduce cyclage graphs for the corresponding Kashiwara-Nakashima's tableaux and use them to define a charge statistic. Finally we conjecture that this charge may be used to compute the Kostka-Foulkes polynomials for type C_{n}.

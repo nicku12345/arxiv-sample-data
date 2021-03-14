@@ -1,0 +1,1 @@
+A universal ordinary differential equation C^{\infty} of order 3 is constructed here. The equation is universal in the sense that any continuous function on a real segment can be approximated by a solution of this equation with an arbitrary accuracy in uniform norm.

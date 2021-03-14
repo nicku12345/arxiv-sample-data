@@ -1,0 +1,1 @@
+Recently, Keller and Pilpel conjectured that the influence of a monotone Boolean function does not decrease if we apply to it an invertible linear transformation. Our aim in this short note is to prove this conjecture.

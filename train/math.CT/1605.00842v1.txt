@@ -1,0 +1,1 @@
+We define the Hochschild complex and cohomology of a ring object in a monoidal category enriched over abelian groups. We interpret the cohomology groups and prove that the cohomology ring is graded-commutative.

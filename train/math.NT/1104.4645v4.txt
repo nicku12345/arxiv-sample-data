@@ -1,0 +1,1 @@
+For elliptic curves given by the equation E_{a}: y^{2}=x^{3}+ax, we establish the best-possible version of Lang's conjecture on the lower bound of the canonical height of non-torsion points along with best-possible upper and lower bounds for the difference between the canonical and logarithmic height.

@@ -1,0 +1,1 @@
+Given an irreducible closed 3--manifold Y, we show that its twisted Heegaard Floer homology determines whether Y is a torus bundle over the circle. Another result we will prove is, if K is a genus 1 null-homologous knot in an L--space, and the 0--surgery on K is fibered, then K itself is fibered. These two results are the missing cases of earlier results due to the second author.

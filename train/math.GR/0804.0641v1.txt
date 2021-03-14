@@ -1,0 +1,1 @@
+In this paper, by using the Groebner-Shirshov bases, we give characterizations of the Schreier extensions of groups when the group is presented by generators and relations. An algorithm to find the conditions of a group to be a Schreier extension is obtained. By introducing a special total order, we obtain the structure of the Schreier extension by an HNN group.

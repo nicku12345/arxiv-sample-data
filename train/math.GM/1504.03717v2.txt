@@ -1,0 +1,1 @@
+We achieve compositions rules for the geometric parameters of the composed rotations, which is in a certain sense analogous to the well known Rodrigues formula. We also obtain a necessary and sufficient condition for a composition of two simple rotations in \mathbb{E}^4 to be a simple rotation.

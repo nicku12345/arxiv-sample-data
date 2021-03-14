@@ -1,0 +1,1 @@
+Given a Lie bialgebra (g,g*), we present an explicit procedure to construct coisotropic subalgebras, i.e. Lie subalgebras of g whose annihilator is a Lie subalgebra of g*. We write down families of examples for the case that g is a classical complex simple Lie algebra.

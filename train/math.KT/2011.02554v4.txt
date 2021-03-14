@@ -1,0 +1,1 @@
+We give an example of a locally compact effective Hausdorff, minimal ample groupoid such that its rational homology differs from the K-theory of its reduced groupoid C^*-algebra. Moreover, we prove that such example satisfies Matui's AH-conjecture.

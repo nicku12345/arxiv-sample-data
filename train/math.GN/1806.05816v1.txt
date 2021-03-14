@@ -1,0 +1,1 @@
+Let T\times X\rightarrow X, (t,x)\mapsto tx, be a topological semiflow on a topological space X with phase semigroup T. We introduce and discuss in this paper various transitivity dynamics of (T,X).

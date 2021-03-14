@@ -1,0 +1,1 @@
+We show how the sign of a permutation can be deduced from the tableaux induced by the permutation under the Robinson-Schensted-Knuth correspondence. The result yields a simple proof of a conjecture on the squares of imbalances raised by Stanley.

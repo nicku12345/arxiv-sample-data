@@ -1,0 +1,1 @@
+We analyze Cucker-Smale flocking particles with delayed coupling, where different constant delays are considered between particles. By constructing a system of dissipative differential inequalities together with a continuity argument, we provide a sufficient condition for the flocking behavior when the maximum value of time delays is sufficiently small.

@@ -1,0 +1,1 @@
+We use purely combinatorial arguments to give a formula to compute all graded Betti numbers of path ideals of line graphs and cycles. As a consequence we can give new and short proofs for the known formulas of regularity and projective dimensions of path ideals of line graphs.

@@ -1,0 +1,1 @@
+The classification, both up to isomorphism or up to equivalence, of the gradings on a finite dimensional nonassociative algebra A over an algebraically closed field F, such that its group scheme of automorphisms is smooth, is shown to be equivalent to the corresponding problem for the scalar extension A_K for any algebraically closed field extension K.

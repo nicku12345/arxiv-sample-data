@@ -1,0 +1,1 @@
+We consider a right coherent ring R. We prove that the class of Gorenstein flat complexes is covering in the category of complexes of left R-modules Ch(R). When R is also left n-perfect, we prove that the class of Gorenstein projective complexes is special precovering in Ch(R).

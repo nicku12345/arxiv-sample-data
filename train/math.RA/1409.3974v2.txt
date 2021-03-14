@@ -1,0 +1,1 @@
+An element a in a ring R is strongly J-clean if it is the sum of an idempotent and an element in the Jacobson radical that commutes. We characterize the strongly J-clean 2\times 2 matrices over 2-projective-free non-commutative rings.

@@ -1,0 +1,1 @@
+We propose a new definition of Koszulity for graded algebras where the degree zero part has finite global dimension, but is not necessarily semi-simple. The standard Koszul duality theorems hold in this setting. We give an application to algebras arising from multiplicity free blocks of the BGG category \mathcal O.

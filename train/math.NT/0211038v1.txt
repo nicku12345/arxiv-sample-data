@@ -1,0 +1,1 @@
+Is is shown that all but O(x^{23207/23240}) even integers N<x can be written as the sum of a square, a cube, a forth and a fifth power of a prime.

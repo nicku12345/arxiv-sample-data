@@ -1,0 +1,1 @@
+We introduce a new notion of pathwise strategies for stochastic differential games. This allows us to give a correct meaning to some statement asserted in [Cardaliaguet-Rainer 2009].

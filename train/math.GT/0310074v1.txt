@@ -1,0 +1,1 @@
+Dror Bar-Natan and Ofer Ron have questioned the accuracy of the statement on page 453, line 2 minus of my paper "Groups of Ribbon Knots", Topology Vol 37, No. 2, 441-458, that "It follows from the inductive proof that \cal{R}_n is of index 2." See their article posted on arXiv: math.GT/0309282. We give here full details of how to carry out the inductive step.

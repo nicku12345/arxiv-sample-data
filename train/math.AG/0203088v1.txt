@@ -1,0 +1,1 @@
+Let n > 2 and let d < (n+1)/2. We prove that for a general hypersurface X of degree d in P^n, all the genus 0 Kontsevich moduli spaces M_{0,n}(X,e) are irreducible, reduced, local complete intersection stacks of the expected dimension.

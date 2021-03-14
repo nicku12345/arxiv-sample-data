@@ -1,0 +1,1 @@
+Buyalo and Lebedeva have shown that the asymptotic dimension of a hyperbolic group is equal to the dimension of the group boundary plus one. Among the work presented here is a partial extension of that result to all groups admitting \mathcal{Z}-structures; in particular, we show that \hbox{asdim}G\geq \hbox{dim}Z+1 where Z is the \mathcal{Z}-boundary.

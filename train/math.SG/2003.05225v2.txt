@@ -1,0 +1,1 @@
+Given a compactly supported area-preserving diffeomorphism of the disk, we prove an integral formula relating the asymptotic action to the asymptotic winding number. As a corollary, we obtain a new proof of Fathi's integral formula for the Calabi homomorphism on the disk.

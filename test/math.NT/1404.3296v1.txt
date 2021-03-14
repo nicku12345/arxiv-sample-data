@@ -1,0 +1,1 @@
+In this paper, I proved that N=p_1+p_2+2p_3, p_1\sim N/2, p_2\sim N/2, p_3=o(N), where N is a large even number, and p_i\ (i=1,2,3) are odd primes.

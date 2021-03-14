@@ -1,0 +1,1 @@
+A group G is called bounded if every conjugation-invariant norm on G has finite diameter. We introduce various strengthenings of this property and investigate them in several classes of groups including semisimple Lie groups, arithmetic groups and linear algebraic groups. We provide applications to Hamiltonian dynamics.

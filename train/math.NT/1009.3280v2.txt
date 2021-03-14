@@ -1,0 +1,1 @@
+We extend the theory of spinor class field and representation fields previously defined for lattices over the ring of integers of a number field to both, lattices over the coordinate ring of a smooth irreducible affine curve over a finite field, and sheaves of lattices over the structure sheaf of an irreducible smooth projective curve over a finite field.

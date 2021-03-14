@@ -1,0 +1,1 @@
+We develop a technique to construct finitely injective modules which are non trivial, in the sense that they are not direct sums of injective modules. As a consequence, we prove that a ring R is left noetherian if and only if each finitely injective left R-module is trivial, thus answering an open question posed by Salce.

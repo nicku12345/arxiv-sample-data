@@ -1,0 +1,1 @@
+We use relations between the base change representations and theta lifts, to give a new proof to the local period problems of SL(2) over a nonarchimedean quadratic field extension E/F. Then we will verify the Prasad conjecture for SL(2). With a similar strategy, we obtain a certain result for the Prasad conjecture for Sp(4).

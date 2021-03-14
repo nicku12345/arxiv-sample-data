@@ -1,0 +1,1 @@
+We extend some known results from smooth dynamical systems to the category of Lipschitz homeomorphisms of compact metric spaces. We consider dynamical properties as robust expansiveness and structural stability allowing Lipschitz perturbations with respect to a hyperbolic metric. We also study the relationship between Lipschitz topologies and the C^1 topology on smooth manifolds.

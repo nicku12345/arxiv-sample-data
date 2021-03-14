@@ -1,0 +1,1 @@
+We show that every K_4-free graph G with n vertices can be made bipartite by deleting at most n^2/9 edges. Moreover, the only extremal graph which requires deletion of that many edges is a complete 3-partite graph with parts of size n/3. This proves an old conjecture of P. Erdos.

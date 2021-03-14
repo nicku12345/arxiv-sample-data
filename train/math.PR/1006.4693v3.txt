@@ -1,0 +1,1 @@
+Weak convergence of various general functionals of partial sums of dependent random variables to stochastic integral now play a major role in the modern statistics theory. In this paper, we obtain the weak convergence of various general functionals of partial sums of casual process by means of the method which was introduced in Jacod and Shiryaev (2003).

@@ -1,0 +1,1 @@
+In this paper, we classify the modular group algebra KG of a group G over a field K of characteristic p>0 having upper Lie nilpotency index t^{L}(KG)= \vert G^{\prime}\vert - k(p-1) + 1 for k=14 and 15. Group algebras of upper Lie nilpotency index \vert G^{\prime}\vert - k(p-1) + 1 for k\leq 13, have already been characterized completely.

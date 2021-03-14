@@ -1,0 +1,1 @@
+In this paper we will investigate dynamic stability of percolation for the stochastic Ising model and the contact process. We also introduce the notion of downward and upward \epsilon-movability which will be a key tool for our analysis.

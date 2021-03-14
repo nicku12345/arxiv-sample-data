@@ -1,0 +1,1 @@
+We discuss two alternative methods, based on the Lindstedt--Poincar\'{e} technique, for the removal of secular terms from the equations of perturbation theory. We calculate the period of an anharmonic oscillator by means of both approaches and show that one of them is more accurate for all values of the coupling constant.

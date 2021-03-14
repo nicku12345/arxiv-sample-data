@@ -1,0 +1,1 @@
+We solve a problem posed by Blasco, Bonilla and Grosse-Erdmann in 2010 by constructing a harmonic function on \mathbb{R}^N, that is frequently hypercyclic with respect to the partial differentiation operator \partial/\partial x_k and which has a minimal growth rate in terms of the average L^2-norm on spheres of radius r>0 as r \to \infty.

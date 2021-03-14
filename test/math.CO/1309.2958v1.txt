@@ -1,0 +1,1 @@
+We prove new lower bounds on the crossing number of a complete graphs assuming that it is drawn in such a way that it contains a Hamiltonian cycle with no crossings.

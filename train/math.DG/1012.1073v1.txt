@@ -1,0 +1,1 @@
+For a compact minimal hypersurface M in S^{n+1} with the squared length of the second fundamental form S we confirm that there exists a positive constant \de(n) depending only on n, such that if n\leq S\leq n +\delta(n), then S\equiv n, i.e., M is a Clifford minimal hypersurface, in particular, when n\ge 6, the pinching constant \de(n)=\f{n}{23}.

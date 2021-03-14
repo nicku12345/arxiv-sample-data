@@ -1,0 +1,1 @@
+We prove that the groups PSL_n(q) are (2,3)-generated for n=9,10 or 11 and all q. Actually, we find out explicit generators x_n and y_n of respective orders 2 and 3, for the groups SL_n(q).

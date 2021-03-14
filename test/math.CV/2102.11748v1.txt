@@ -1,0 +1,1 @@
+This article deals with the second order linear differential equations with entire coefficients. We prove some results involving conditions on coefficients so that the order of growth of every non-trivial solution is infinite.

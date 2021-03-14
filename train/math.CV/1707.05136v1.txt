@@ -1,0 +1,1 @@
+We discuss compactness of the d-bar-Neumann operator in the setting of weighted L^2-spaces on b C^n. In addition we describe an approach to obtain the compactness estimates for the d-bar-Neumann operator. For this purpose we have to define appropriate weighted Sobolev spaces and prove an appropriate Rellich - Kondrachov lemma.

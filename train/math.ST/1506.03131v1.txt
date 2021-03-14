@@ -1,0 +1,1 @@
+Computing moments of various parameter estimators related to an autoregressive model of Statistics, one needs to evaluate several expressions of the type mentioned in the title of this article. We proceed to derive the corresponding formulas.

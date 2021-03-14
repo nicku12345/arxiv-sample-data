@@ -1,0 +1,1 @@
+Random walks as well as diffusions in random media are considered. Methods are developed that allow one to establish large deviation results for both the `quenched' and the `averaged' case.

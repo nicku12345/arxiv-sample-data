@@ -1,0 +1,1 @@
+We prove that the optimal cluster problem for the sum of the first Robin eigenvalue of the Laplacian, in the limit of a large number of convex cells, is asymptotically solved by (the Cheeger sets of) the honeycomb of regular hexagons. The same result is established for the Robin torsional rigidity.

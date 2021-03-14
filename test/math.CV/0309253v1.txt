@@ -1,0 +1,1 @@
+We examine invariant nonrecurrent Fatou components of automorphisms of \mathbb{C}^2 in the case where all limit maps are constant. We show that except in special cases there cannot be more than one such limit map. We also briefly examine such Fatou components where the limit maps may be nonconstant. Lastly we present a few examples of such Fatou components.

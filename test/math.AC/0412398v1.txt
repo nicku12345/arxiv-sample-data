@@ -1,0 +1,1 @@
+We show that every real nonnegative polynomial f can be approximated as closely as desired by a sequence of polynomials \{f_\epsilon\} that are sums of squares. Each f_\epsilon has a simple et explicit form in terms of f and \epsilon. A special representation is also obtained for convex polynomials, nonnegative on a convex semi-algebraic set.

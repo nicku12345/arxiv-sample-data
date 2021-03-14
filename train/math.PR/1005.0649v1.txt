@@ -1,0 +1,1 @@
+This paper is a survey of various results and techniques in first passage percolation, a random process modeling a spreading fluid on an infinite graph. The latter half of the paper focuses on the connection between first passage percolation and a certain class of stochastic growth and competition models.

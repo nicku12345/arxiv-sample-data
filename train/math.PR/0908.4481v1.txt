@@ -1,0 +1,1 @@
+It is proven that the eigenvalue process of Dyson's random matrix process of size two becomes non-Markov if the common coefficient 1/\sqrt{2} in the non-diagonal entries is replaced by a different positive number.

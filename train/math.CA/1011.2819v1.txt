@@ -1,0 +1,1 @@
+This work is a continuation of the recent study by the authors on approximation theory over the sphere and the ball. The main results define new Sobolev spaces on these domains and study polynomial approximations for functions in these spaces, including simultaneous approximation by polynomials and relation between best approximation to a function and to its derivatives.

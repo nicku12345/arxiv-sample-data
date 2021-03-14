@@ -1,0 +1,1 @@
+Using properties of asymptotically almost periodic solutions we prove existence theorem for piece-wise continuous almost periodic solutions of differential equations with delay and impulses. We apply these results to study almost periodic single species model with stage structure and impulses.

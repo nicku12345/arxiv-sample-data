@@ -1,0 +1,1 @@
+For p\in(0,1), let Q_p spaces be the space of all analytic functions on the unit disk \mathbb{D} such that |f'(z) | ^2 (1-| z| ^2)^p dA(z) is a p - Carleson measure. In this paper, we prove that the Wolff's Ideal Theorem on H^\infty{(\mathbb{D})} can be extended to the Banach algebra H^{\infty}(\mathbb{D})\cap Q_{p}, and also to the multiplier algebra on Q_p spaces.

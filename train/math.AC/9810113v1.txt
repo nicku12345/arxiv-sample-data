@@ -1,0 +1,1 @@
+Let V be a finite-dimensional superspace and G a simple (or a ``close'' to simple) matrix Lie superalgebra, i.e., a Lie subsuperalgebra in GL(V). Under the classical invariant theory for G we mean the description of G-invariant elements of the tensor algebra of V.   We give such description for GL(V), SL(V) and OSP(V) and their ``odd'' analogs: Q(V), SQ(V); Pe(V) and SPe(V).

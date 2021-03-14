@@ -1,0 +1,1 @@
+We introduce Coxeter-sortable elements of a Coxeter group W. For finite W, we give bijective proofs that Coxeter-sortable elements are equinumerous with clusters and with noncrossing partitions. We characterize Coxeter-sortable elements in terms of their inversion sets and, in the classical cases, in terms of permutations.

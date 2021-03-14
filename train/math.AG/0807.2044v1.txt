@@ -1,0 +1,1 @@
+We find a new, asymptotically better, bound g\le\frac14d^2+O(d) on the genus of a curve that may violate the generalized total reality conjecture. The bound covers all known cases except g=0 (the original conjecture).

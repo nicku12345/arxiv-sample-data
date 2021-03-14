@@ -1,0 +1,1 @@
+We prove L^p(b D)-regularity of the Cauchy-Szeg\H o projection (also known as the Szeg\H o projection) for bounded domains D\subset\mathbb C^n whose boundary satisfies the minimal regularity condition of class C^2, together with a naturally occurring notion of convexity.

@@ -1,0 +1,1 @@
+We prove that the moduli space M_L of L"uroth quartics in P^2, i.e. the space of quartics which can be circumscribed around a complete pentagon of lines modulo the action of PGL_3(CC) is rational, as is the related moduli space of Bateman seven-tuples of points in P^2.

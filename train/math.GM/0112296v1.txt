@@ -1,0 +1,1 @@
+Two points are randomly selected inside a three-dimensional euclidian cube. The value l of their separation lies somewhere between zero and the length of a diagonal of the cube. The probability density P(l) of the separation is obtained analytically. Also a Monte Carlo computer simulation is performed, showing good agreement with the formulas obtained.

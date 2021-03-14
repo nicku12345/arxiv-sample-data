@@ -1,0 +1,1 @@
+We compute the Stanley depth for a particular, but important case, of the quotient of complete intersection monomial ideals. Also, in the general case, we give sharp bounds for the Stanley depth of a quotient of complete intersection monomial ideals. In particular, we prove the Stanley conjecture for quotients of complete intersection monomial ideals.

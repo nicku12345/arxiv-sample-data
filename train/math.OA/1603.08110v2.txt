@@ -1,0 +1,1 @@
+Let D \subseteq A be an inclusion of unital abelian C^*-algebras. In this note we characterize (in topological terms) when there is a unique conditional expectation E:A \to D, at least when A is separable. As an application, we provide the first example of an inclusion with a unique conditional expectation, but multiple pseudo-expectations (in the sense of Pitts).

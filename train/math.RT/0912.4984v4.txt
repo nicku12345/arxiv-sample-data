@@ -1,0 +1,1 @@
+We use t-structures on the homotopy category K^b(R-mod) for an artin algebra R and Watts' representability theorem to give an existence proof for Auslander-Reiten sequences of R-modules.

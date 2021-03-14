@@ -1,0 +1,1 @@
+Additional remarks and questions for transseries. In particular: properties of composition for transseries; the recursive nature of the construction of R[[[ x ]]]; modes of convergence for transseries. There are, at this stage, questions and missing proofs in the development.

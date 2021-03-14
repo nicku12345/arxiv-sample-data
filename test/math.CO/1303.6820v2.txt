@@ -1,0 +1,1 @@
+We revisit the pseudo-random sequence introduced by Ehrenfeucht and Mycielski and its connections with DeBruijn strings.

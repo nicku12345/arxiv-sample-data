@@ -1,0 +1,1 @@
+We provide new elementary proofs of the following two results: every complex variety is locally the graphs of a Dir-minimizing function, first proved by Almgren; the gradients of Dir-minimizing functions, in principle square-summable, are p-integrable for some p > 2, proved by De Lellis and the author. In the planar case, we prove that our integrability exponents are optimal.

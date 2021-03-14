@@ -1,0 +1,1 @@
+We study the Parabolic complex Monge-Amp\'ere equation in a bounded strictly pseudoconvex domain in \mathbb{C}^n, with the boundary condition u=\varphi and the initial condition u=u_0. In this paper, we consider the case where \varphi is smooth and u_0 is an arbitrary plurisubharmonic function in a neighbourhood of \Omega satisfying u_0=\varphi(.,0) on the boundary of \Omega.

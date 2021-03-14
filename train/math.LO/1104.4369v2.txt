@@ -1,0 +1,1 @@
+In this paper using Sperner's lemma for modified partition of a simplex we will constructively prove Brouwer's fixed point theorem for sequentially locally non-constant and uniformly sequentially continuous functions.

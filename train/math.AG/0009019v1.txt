@@ -1,0 +1,1 @@
+We show that a generic vector field on an affine space of positive characteristic admits an invariant algebraic hypersurface. This contrast with Jouanolou's Theorem that shows that in characteristic zero the situation is completely opposite. That is a generic vector field in the complex plane does not admit any invariant algebraic curve.

@@ -1,0 +1,1 @@
+We completely characterize the logical hierarchy of various subsystems of weak arithmetic, namely: ZR, ZR + N, ZR + GCD, ZR + Bez, OI + N, OI + GCD, OI + Bez.

@@ -1,0 +1,1 @@
+Complex algebraic varieties become easy piecewise-linear objects after passing to the so-called tropical limit. Geometry of these limiting objects is known as tropical geometry. In this short survey we take a look at motivation and intuition behind this limit and consider a few simple examples of correspondence principle between classical and tropical geometries.

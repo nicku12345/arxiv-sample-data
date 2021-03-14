@@ -1,0 +1,1 @@
+We define a simple obstruction to Yu's property A that we call k-prisms. This structure allows for a straightforward proof that the space of persistence diagrams fails to have property A in a Wasserstein metric.

@@ -1,0 +1,1 @@
+We show (using results of Wise and of Woodhouse) that a tubular group is always virtually special (meaning that it has a finite index subgroup embedding in a RAAG) if the underlying graph is a tree. We also adapt Gardam and Woodhouse's argument on tubular groups which double cover 1-relator groups to show there exist 1-relator groups which are CAT(0) but not residually finite.

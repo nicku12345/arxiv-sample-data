@@ -1,0 +1,1 @@
+We show that if a positive integral surgery on a knot K inside a homology sphere X with Seifert genus g(K) results in an induced knot K_n in X_n(K)=Y which has simple Floer homology, we should have n>=2g(K). Moreover, if X is the standard sphere, the three-manifold Y is a L-space and the Heegaard Floer homology groups of K are determined by its Alexander polynomial.

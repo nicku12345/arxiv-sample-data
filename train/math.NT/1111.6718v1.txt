@@ -1,0 +1,1 @@
+We obtain lower bound of caliber number of real quadratic field K=\FQ(\sqrt{d}) using splitting primes in K. We find all real quadratic fields of caliber number 1 and find all real quadratic fields of caliber number 2 if d is not 5 modulo 8. In both cases, we don't rely on the assumption on \zeta_K(1/2).

@@ -1,0 +1,1 @@
+We describe four fine gradings on the real form \mathfrak e_{6,-26}. They are precisely the gradings whose complexifications are fine gradings on the complexified algebra \mathfrak{e}_6. The universal grading groups are \mathbb Z_2^6, \mathbb Z\times\mathbb Z_2^4, \mathbb Z^2\times\mathbb Z_2^3, and \mathbb Z_4\times\mathbb Z_2^4.

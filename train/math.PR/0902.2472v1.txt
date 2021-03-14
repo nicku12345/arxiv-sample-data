@@ -1,0 +1,1 @@
+This paper considers random (non-Hermitian) circulant matrices, and proves several results analogous to recent theorems on non-Hermitian random matrices with independent entries. In particular, the limiting spectral distribution of a random circulant matrix is shown to be complex normal, and bounds are given for the probability that a circulant sign matrix is singular.

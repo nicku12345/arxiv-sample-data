@@ -1,0 +1,1 @@
+In this note we obtain the surjectivity of smooth maps into Euclidean spaces under mild conditions. As application we give a new proof of the Fundamental Theorem of Algebra. We also observe that any C^1-map from a compact manifold into Euclidean space with dimension n\ge2 has infinitely many critical points.

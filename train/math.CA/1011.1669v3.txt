@@ -1,0 +1,1 @@
+We study a family of "classical" orthogonal polynomials which satisfy (apart from a 3-term recurrence relation) an eigenvalue problem with a differential operator of Dunkl-type. These polynomials can be obtained from the little q-Jacobi polynomials in the limit q=-1. We also show that these polynomials provide a nontrivial realization of the Askey-Wilson algebra for q=-1.

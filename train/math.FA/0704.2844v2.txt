@@ -1,0 +1,1 @@
+We prove a Kahane-Khinchin type result with a few random vectors, which are distributed independently with respect to an arbitrary log-concave probability measure on \R^n. This is an application of small ball estimate and Chernoff's method, that has been recently used in the context of Asymptotic Geometric Analysis in [1], [2].

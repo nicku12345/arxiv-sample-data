@@ -1,0 +1,1 @@
+In [The Terwilliger algebra of the Johnson schemes, Discrete Mathematics 307 (2007) 1621--1635], Levstein and Maldonado computed the Terwilliger algebra of the Johnson scheme J(n,m) when 3m\leq n. The distance-m graph of J(2m+1,m) is the Odd graph O_{m+1}. In this paper, we determine the Terwilliger algebra of O_{m+1} and give its basis.

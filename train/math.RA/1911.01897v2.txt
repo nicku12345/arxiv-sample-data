@@ -1,0 +1,1 @@
+Let \n_{d,t} be the free nilpotent Lie algebra of type d and nilindex t. Starting out with the derivation algebra and the automorphism group of \n_{d,t}, we get a natural description of derivations and automorphisms of any generic nilpotent Lie algebra of the same type and nilindex. Moreover, along the paper we discuss several examples to illustrate the obtained results.

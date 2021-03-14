@@ -1,0 +1,1 @@
+This paper is concerned with the lengths of constant length substitutions that generate topologically conjugate systems. We show that if the systems are infinite, then these lengths must be powers of the same integer. This result is a dynamical formulation of a special case of a 1969 theoretical computer science result of Alan Cobham. Our proof is rather simple.

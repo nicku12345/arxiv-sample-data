@@ -1,0 +1,1 @@
+We define mutation pair in a pseudo-triangulated category. We prove that under certain conditions, for a mutation pair in a pseudo-triangulated category, the corresponding quotient category carries a natural triangulated structure. This result unifies many previous constructions of quotient triangulated categories.

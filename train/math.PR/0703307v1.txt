@@ -1,0 +1,1 @@
+Let M be an arbitrary n by n matrix. We study the condition number a random perturbation M+N_n of M, where N_n is a random matrix. It is shown that, under very general conditions on M and M_n, the condition number of M+N_n is polynomial in n with very high probability. The main novelty here is that we allow N_n to have discrete distribution.

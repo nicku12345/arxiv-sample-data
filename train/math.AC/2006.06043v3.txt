@@ -1,0 +1,1 @@
+Using an old example of Nagata, we construct a Noetherian ring of prime characteristic p, whose Frobenius morphism is locally finite, but not finite.

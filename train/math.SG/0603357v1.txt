@@ -1,0 +1,1 @@
+We give two recursions for computing top intersections of tautological classes on blowups of moduli spaces of genus-one curves. One of these recursions is analogous to the well-known string equation. As shown in previous papers, these numbers are useful for computing genus-one enumerative invariants of projective spaces and Gromov-Witten invariants of complete intersections.

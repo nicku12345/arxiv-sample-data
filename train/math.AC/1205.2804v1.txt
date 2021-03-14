@@ -1,0 +1,1 @@
+We show how to derive a 3 \times 3 determinantal identity in 12 indeterminates that gives an explicit version of a result of Mohan Kumar and Pavaman Murthy on completing unimodular rows.

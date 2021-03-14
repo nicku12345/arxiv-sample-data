@@ -1,0 +1,1 @@
+Using the notion of a higher adjugate of a matrix, we generalize the eigenvector-eigenvalue formula surveyed recently by Denton, Parke, Tao and Zhang to arbitrary square matrices over \mathbb{C} and their possibly multiple eigenvalues.

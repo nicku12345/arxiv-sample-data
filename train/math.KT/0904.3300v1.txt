@@ -1,0 +1,1 @@
+We derive a power series formula for the p-adic regulator on the higher dimensional algebraic K-groups of number fields. This formula is designed to be well suited to computer calculations and to reduction modulo powers of p. In addition we describe a series of regulator questions concerning higher dimensional K-theoretic analogues of conjectures of Gross and Serre.

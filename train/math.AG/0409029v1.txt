@@ -1,0 +1,1 @@
+In this paper we show that on a general hypersurface of degree r=3,4,5,6 in {\bf P}^5 a rank 2 vector bundle E splits if and only if h^1 E(n)=h^2 E(n)=0 for all n \in \bf Z.

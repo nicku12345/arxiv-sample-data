@@ -1,0 +1,1 @@
+This is an exposition of a proof of the Madsen-Weiss Theorem, which asserts that the homology of mapping class groups of surfaces, in a stable dimension range, is isomorphic to the homology of a certain infinite loopspace that arises naturally when one applies the "scanning method". The proof given here utilizes simplifications introduced by Galatius and Randal-Williams.

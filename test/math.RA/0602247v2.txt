@@ -1,0 +1,1 @@
+We give a detailed description of the algebraic group Aut(g) of automorphisms of a simple finite dimensional Lie superalgebra g over an algebraically closed field k of characteristic 0. We also give a description of the group of automorphisms of the k-Lie superalgebra g \otimes_k R whenever R is a Noetherian domain with trivial Picard group.

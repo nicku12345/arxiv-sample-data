@@ -1,0 +1,1 @@
+Exact and asymptotic formulae are displayed for the coefficients \lambda_n used in Li's criterion for the Riemann Hypothesis. In particular, we argue that if (and only if) the Hypothesis is true, \lambda_n \sim n(A \log n +B) for n \to \infty (with explicit A>0 and B). The approach also holds for more general zeta or L-functions.

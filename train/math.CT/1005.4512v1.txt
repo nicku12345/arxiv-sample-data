@@ -1,0 +1,1 @@
+We describe (braided-)commutative algebras with non-degenerate multiplicative form in certain braided monoidal categories, corresponding to abelian metric Lie algebras (so-called Drinfeld categories). We also describe local modules over these algebras and classify commutative algebras with finite number of simple local modules.

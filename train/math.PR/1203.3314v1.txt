@@ -1,0 +1,1 @@
+In this note, we study the Martin boundary of the simple random walk on an example of directed graph. More precisely, the Martin boundary is shown to be trivial, i.e. there is no non-constant positive harmonic functions. The proof involves fine estimates of the Green function which are summarized in this note.

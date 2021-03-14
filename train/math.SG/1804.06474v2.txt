@@ -1,0 +1,1 @@
+We compute the symplectic volume of the symplectic reduced space of the product of N coadjoint orbits of a compact connected Lie group G. We compare our result with the result of Suzuki and Takakura , who study this in the case G = SU(3) starting from geometric quantization.

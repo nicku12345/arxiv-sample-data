@@ -1,0 +1,1 @@
+The best known upper estimates for the constants of the Hardy--Littlewood inequality for m-linear forms on \ell_{p} spaces are of the form \left(\sqrt{2}\right) ^{m-1}. We present better estimates which depend on p and m. An interesting consequence is that if p\geq m^{2} then the constants have a subpolynomial growth as m tends to infinity.

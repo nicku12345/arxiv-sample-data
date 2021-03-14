@@ -1,0 +1,1 @@
+We prove that any Artin group of large type is shortlex automatic with respect to its standard generating set, and that the set of all geodesic words over the same generating set satisfies the Falsification by Fellow-Traveller Property (FFTP) and hence is regular.

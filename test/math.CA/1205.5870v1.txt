@@ -1,0 +1,1 @@
+In this paper we define an integral operator on Lp and obtain its degree of convergence in the appropriate norm. By specializing the kernel of the integral operator we obtain many known results as corollaries. We have also applied our results to obtain results on singular integral operators.

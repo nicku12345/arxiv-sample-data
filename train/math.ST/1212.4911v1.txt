@@ -1,0 +1,1 @@
+We consider nonsynchronous sampling of parameterized stochastic regression models, which contain stochastic differential equations. Constructing a quasi-likelihood function, we prove that the quasi-maximum likelihood estimator and the Bayes type estimator are consistent and asymptotically mixed normal when the sampling frequency of the nonsynchronous data becomes large.

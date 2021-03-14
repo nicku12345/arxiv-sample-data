@@ -1,0 +1,1 @@
+Euler starts with a hypergeometric series F(a, b, c, x), and differentiates it to get a functional relation. This relation is today known as Euler's identity. Then he integrates to get another and ends up with something like Legendre polynomials. The paper is translated from Euler's Latin original into German.

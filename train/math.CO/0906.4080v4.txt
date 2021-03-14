@@ -1,0 +1,1 @@
+We show that if the sum of the resistances of an electrical network N is finite, then there is a unique electrical current in N provided we do not allow, in a sense, any flow to escape to infinity.

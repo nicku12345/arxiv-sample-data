@@ -1,0 +1,1 @@
+Given a local Cohen-Macaulay ring (R, {\mathfrak m}), we study the interplay between the integral closedness -- or even the normality -- of an {\mathfrak m}-primary R-ideal I and conditions on the Hilbert coefficients of I. We relate these properties to the depth of the associated graded ring of I.

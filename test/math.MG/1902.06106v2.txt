@@ -1,0 +1,1 @@
+We construct, for a locally compact metric space X, a space of polylipschitz forms \bar\Gamma^*_c(X), which is a pre-dual for the space of metric currents of \mathscr{D}_*(X) Ambrosio and Kirchheim. These polylipschitz forms may be seen as a substitute of differential forms in the metric setting.

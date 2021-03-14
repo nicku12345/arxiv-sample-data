@@ -1,0 +1,1 @@
+We investigate the quaternionic extension of the fractional Fourier transform on the real half-line leading to fractional Hankel transform. This will be handled \`a la Bargmann by means of hyperholomorphic second Bargmann transform for the slice Bergman space of second kind. Basic properties are derived including inversion formula and Plancherel identity.

@@ -1,0 +1,1 @@
+We prove local real analytic hypoellipticity for a sum of squares of complex vector fields studied by J.J. Kohn in a paper to appear in the Annals of Mathematics entitled "Hypoellipticity and loss of derivatives". The operator exhibits a loss of many derivatives but is nonetheless hypoelliptic, and, using L2 methods, we prove analytic hypoellipticity.

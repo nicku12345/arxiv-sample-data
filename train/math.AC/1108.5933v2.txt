@@ -1,0 +1,1 @@
+Let A be a Cohen-Macaulay local ring of dimension d and I an ideal in A. Let M be a finitely generated maximal Cohen-Macaulay A-module. Let I be a locally complete intersection ideal of analytic deviation one and reduction number at most one. We prove that the polynomial given by length(Tor^{A}_{1}(M,A/I^{n+1})) either has degree d-1 or F_I(M)  is a freeF(I)-module.

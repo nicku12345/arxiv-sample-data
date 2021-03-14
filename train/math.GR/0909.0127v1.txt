@@ -1,0 +1,1 @@
+The existence of NAFIL loops of every odd order n => 5 is established by construction. These are non-associative finite invertible loops that are simple and power-associative and they form an infinite family. The first member of this family is the NAFIL loop of order n = 5 which is known to define a Lie algebra with some possible applications in particle physics.

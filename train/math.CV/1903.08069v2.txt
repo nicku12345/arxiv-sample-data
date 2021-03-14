@@ -1,0 +1,1 @@
+Let f be analytic in the unit disk \mathbb D and normalized so that f(z)=z+a_2z^2+a_3z^3+\cdots. In this paper, we give upper bounds of the Hankel determinant of second order for the classes of starlike functions of order \alpha, Ozaki close-to-convex functions and two other classes of analytic functions. Some of the estimates are sharp.

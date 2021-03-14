@@ -1,0 +1,1 @@
+Let X be a pure n-dimensional complex analytic set in \mathbb{C}^N with an isolated singularity at 0. We study the Cauchy-Riemann operator on a deleted neighborhood of the singular point 0 in X.

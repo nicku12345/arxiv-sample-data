@@ -1,0 +1,1 @@
+We show the lack of uniform continuity of the flow map for the Camassa-Holm equation on the line, in the Sobolev spaces of index s > 3/2.

@@ -1,0 +1,1 @@
+In this paper we determine the automorphism group of the Fock-Bargmann-Hartogs domain D_{n,m} in \mathbb{C}^n\times\mathbb{C}^m which is defined by the inequality {\|\zeta\|}^2<e^{-\mu{\|z\|}^2}.

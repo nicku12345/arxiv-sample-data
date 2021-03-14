@@ -1,0 +1,1 @@
+This is one of a series papers which aim towards to solve the problem of determining automorphism groups of Frobenius groups. This one solves the problem in the case where the Frobenius kernels are elementary abelian and Frobenius complements are cyclic.

@@ -1,0 +1,1 @@
+Given a pair of points in the hyperbolic half plane or the unit disk, we provide a simple construction of the midpoint of the hyperbolic geodesic segment joining the points.

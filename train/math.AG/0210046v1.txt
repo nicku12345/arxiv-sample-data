@@ -1,0 +1,1 @@
+In this paper, we prove that the conductor formula of Bloch implies the conjecture of Deligne on Milnor numbers of isolated singularities. In particular, thanks to the work of Bloch on his conjecture, our result implies that this so-called Deligne-Milnor's conjecture is equally true in the unequal characteristic case.

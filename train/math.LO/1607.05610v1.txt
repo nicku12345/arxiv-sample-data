@@ -1,0 +1,1 @@
+We say that an ideal I is homogeneous, if its restriction to any I-positive subset is isomorphic to I. The paper investigates basic properties of this notion -- we give examples of homogeneous ideals and present some applications to topology and ideal convergence. Moreover, we answer questions related to our research.

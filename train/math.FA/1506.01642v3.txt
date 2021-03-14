@@ -1,0 +1,1 @@
+The aim of this paper is to prove duality of Triebel-Lizorkin spaces % F_{1,q\left( \cdot \right) }^{\alpha \left( \cdot \right) }. First, we prove the duality of associated sequence spaces. Then from the so-called % \varphi -transform characterization in the sense of Frazier and Jawerth, we deduce the main result of this paper.

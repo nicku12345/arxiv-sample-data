@@ -1,0 +1,1 @@
+Let E be a real Banach space. For x,y \in E, we follow R.James in saying that x is orthogonal to y if \|x+\alpha y\|\geq \|x\| for every \alpha \in R. We prove that every operator from E into itself preserving orthogonality is an isometry multiplied by a constant.

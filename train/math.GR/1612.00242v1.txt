@@ -1,0 +1,1 @@
+A conjecture of Roseberger asserts that every generalised triangle group either is virtually soluble or contains a non-abelian free subgroup. Modulo two exceptional cases, we verify this conjecture for generalised triangle groups of type (2,3,2) which do not admit essential representations onto the cyclic group of order 6.

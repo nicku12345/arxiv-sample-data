@@ -1,0 +1,1 @@
+We suggest that a certain one-to-one parametrization of completely positive maps on the matrix algebra might be useful in the study of quantum channels. This is illustrated in the case of binary quantum channels. While the algorithm is quite intricate, it admits a simple, lattice structure representation.

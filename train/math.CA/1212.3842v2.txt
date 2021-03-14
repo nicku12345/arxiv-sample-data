@@ -1,0 +1,1 @@
+Let T be an L^2-bounded operator having an \omega-Calder\'on--Zygmund kernel K with a modulus of continuity \omega. If \omega satisfied the Dini condition \int_0^1\omega(t)\ud t/t<\infty, then T satisfies the A_2 theorem    \Norm{Tf}{L^2(w)}\lesssim [w]_{A_2}\Norm{f}{L^2(w)}  and many related estimates, as a consequence of a domination by dyadic operators.

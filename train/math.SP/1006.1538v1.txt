@@ -1,0 +1,1 @@
+We describe the spectral properties of the Jacobi operator (Hy)_n= a_{n-1} y_{n-1}+a_{n}y_{n+1}+b_ny_n, n\in\Z, with a_n=a_n^0+ u_n, b_n= b_n^0+ v_n, where sequences a_n^0>0, b_n^0\in\R are periodic with period q, and sequences  u_n,  v_n have compact support. In the case  u_n\equiv 0 we obtain the asymptotics of the spectrum in the limit of small perturbations  v_n.

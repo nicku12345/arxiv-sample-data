@@ -1,0 +1,1 @@
+We prove that if A is finitely presented algebra with idempotent e such that A=AeA=A(1-e)A then the algebra eAe is finitely presented.

@@ -1,0 +1,1 @@
+Euler evaluates the integrals in the title and recognizes a recursion between them, which he then uses to give continued fractions for the log and arctan. The paper is translated from Euler's Latin original into German.

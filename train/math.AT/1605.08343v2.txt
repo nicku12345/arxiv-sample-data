@@ -1,0 +1,1 @@
+We define two different simplicial complexes, the common divisor simplicial complex and the prime divisor simplicial complex, from a set of integers, and explore their similarities. We will define a map between the two simplicial complexes, and use this map to show that for any set of integers, the fundamental groups of the resulting simplicial complexes are isomorphic.

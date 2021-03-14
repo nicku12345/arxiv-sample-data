@@ -1,0 +1,1 @@
+We show that if \mu \leq \cf \lambda  and \lambda is a strong limit singular cardinal, then [\mu, \lambda ]-compactness is productive if and only if either \mu= \omega , or \mu is \lambda-strongly compact.

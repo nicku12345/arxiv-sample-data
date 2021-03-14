@@ -1,0 +1,1 @@
+Holm studied modules of higher order differential operators (generalising derivations) on generic (central) hyperplane arrangements. We use his results to determine the Hilbert series of these modules. We also give a conjecture about the Poincar{\'e}-Betti series; these are known for the module of derivations through the work of Yuzvinsky and of Rose and Terao.

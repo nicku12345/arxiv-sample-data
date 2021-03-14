@@ -1,0 +1,1 @@
+We estimate the second order linking invariants of Lipschitz maps from an n-dimensional ellipse. The estimate uses a new directionally-dependent version of the isoperimetric inequality for cycles inside the ellipse. Using this work, we prove new lower bounds for the k-dilation of maps from one ellipse to another.

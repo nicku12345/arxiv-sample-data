@@ -1,0 +1,1 @@
+We apply discrete algebraic Morse theory to calculate the Anick resolution of the group algebra of the group G_3^2. As a corollary, we evaluate Hochschild cohomologies of G_3^2 with coefficients in all 1-dimensional bimodules. Almost all these groups are trivial, the only exceptions are 1-dimensional H^2 for two particular 1-dimensional bimodules.

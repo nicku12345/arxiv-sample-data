@@ -1,0 +1,1 @@
+We prove that there exists a dense set of analytic expanding maps of the circle for which the Ruelle eigenvalues enjoy exponential lower bounds. The proof combines potential theoretic techniques and explicit calculations for the spectrum of expanding Blaschke products.

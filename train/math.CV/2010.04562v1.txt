@@ -1,0 +1,1 @@
+In this paper, we study the uniqueness of zero-order entire functions and their difference. We have proved: Let f(z) be a nonconstant entire function of zero order, let q\neq0, \eta be two finite complex numbers, and let a and b be two distinct complex numbers. If f(z) and \Delta_{q,\eta}f(z) share a, b IM, then f\equiv \Delta_{q,\eta}f.

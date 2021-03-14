@@ -1,0 +1,1 @@
+We show that in finite dimensions, the Berezin expectation on an exterior algebra corresponds to the trace on a Clifford algebra, the correspondence being mediated by what is effectively a version of antinormal ordering.

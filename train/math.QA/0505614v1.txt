@@ -1,0 +1,1 @@
+We find the defining structures of two-parameter quantum groups U_{r,s}(\frak g) corresponding to the orthogonal and the symplectic Lie algebras, which are realized as Drinfel'd doubles. We further investigate the environment conditions upon which the Lusztig's symmetries exist between (U_{r,s}(\frak g), < ,>) and its associated object (U_{s^{-1}, r^{-1}}(\frak g), < | >).

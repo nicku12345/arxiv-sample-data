@@ -1,0 +1,1 @@
+In this paper, it is proved that every s-sparse vector {\bf x}\in {\mathbb R}^n can be exactly recovered from the measurement vector {\bf z}={\bf A} {\bf x}\in {\mathbb R}^m via some \ell^q-minimization with 0< q\le 1, as soon as each s-sparse vector {\bf x}\in {\mathbb R}^n is uniquely determined by the measurement {\bf z}.

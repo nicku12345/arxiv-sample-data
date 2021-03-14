@@ -1,0 +1,1 @@
+We describe a formal proof of the independence of the continuum hypothesis (\mathsf{CH}) in the Lean theorem prover. We use Boolean-valued models to give forcing arguments for both directions, using Cohen forcing for the consistency of \neg \mathsf{CH} and a \sigma-closed forcing for the consistency of \mathsf{CH}.

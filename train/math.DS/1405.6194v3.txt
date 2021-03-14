@@ -1,0 +1,1 @@
+We prove the existence of SRB measures for diffeomorphisms where a positive volume set of initial conditions satisfy an "effective hyperbolicity" condition that guarantees certain recurrence conditions on the iterates of Lebesgue measure. We give examples of systems that do not admit a dominated splitting but can be shown to have SRB measures using our methods.

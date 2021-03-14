@@ -1,0 +1,1 @@
+We give a complete classification of the set of parameters \kappa for which the singular value of E_{\kappa}:z\mapsto \exp(z)+\kappa escapes to infinity under iteration. In particular, we show that every path-connected component of this set is a curve to infinity.

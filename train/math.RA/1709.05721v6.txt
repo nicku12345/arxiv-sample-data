@@ -1,0 +1,1 @@
+For every n, we evaluate the smallest k such that the congruence inclusion \alpha (\beta \circ_n \gamma ) \subseteq \alpha \beta \circ_{k} \alpha \gamma  holds in a variety of reducts of lattices introduced by K. Baker. We also study varieties with a near-unanimity term and discuss identities dealing with reflexive and admissible relations.

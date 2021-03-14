@@ -1,0 +1,1 @@
+Complexification, from real connective K-theory to complex connective K-theory, sits in a well-known cofiber sequence between multiplication by eta and a map related to realification. We show how this cofiber sequence factors as one goes up the Postnikov towers of ko and ku. There are 5 distinct cofiber sequences which then repeat under Bott periodicity.

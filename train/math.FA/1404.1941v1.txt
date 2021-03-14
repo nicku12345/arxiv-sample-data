@@ -1,0 +1,1 @@
+Asymptotic expansion of the wavelet transform for small values of the dilation parameter a is obtained using asymptotic expansion of the Mellin convolution technique ofWong. Asymptotic expansions of Morlet wavelet transform, Mexican hat wavelet transform and Haar wavelet transform are obtained as special cases.

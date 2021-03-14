@@ -1,0 +1,1 @@
+We show that for each countable simplicial complex P the following conditions are equivalent: (1) P \in AE(X) iff P \in AE(\beta X) for any space X; (2) There exists a P-invertible map of a metrizable compactum X with P \in AE(X) onto the Hilbert cube.

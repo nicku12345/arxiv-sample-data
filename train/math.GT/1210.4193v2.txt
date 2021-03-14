@@ -1,0 +1,1 @@
+The knot Floer complex together with the associated concordance invariant epsilon can be used to define a filtration on the smooth concordance group. We show that the indexing set of this filtration contains the natural numbers cross the integers as an ordered subset.

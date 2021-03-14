@@ -1,0 +1,1 @@
+We develop a method of gluing the local mirrors and functors constructed from immersed Lagrangians in the same deformation class. As a result, we obtain a global mirror geometry and a canonical mirror functor. We apply the method to construct the mirrors of punctured Riemann surfaces and show that our functor derives homological mirror symmetry.

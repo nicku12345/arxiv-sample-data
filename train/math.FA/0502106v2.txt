@@ -1,0 +1,1 @@
+An order bounded functional on a Riesz space is a difference of Riesz homomorphisms if and only if the kernel of this functional is a Riesz subspace of the ambient Riesz space.

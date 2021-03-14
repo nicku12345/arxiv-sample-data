@@ -1,0 +1,1 @@
+We describe a computer algorithm that searches for substitution rules on a set of triangles, the angles of which are all integer multiples of {\pi}/n. We find new substitution rules admitting 7-fold rotational symmetry at many different inflation factors.

@@ -1,0 +1,1 @@
+For a field k of characteristic 0, we present an algorithm for deciding if a morphism \phi:k[X_1,...,X_m]\to k[X_1,...,X_m] has an inverse. The algorithm also shows how to find the inverse when it exists.

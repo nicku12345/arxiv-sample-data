@@ -1,0 +1,1 @@
+It is proved that if we partition a d-dimensional cube into n^d small cubes and color the small cubes into m+1 colors then there exists a monochromatic connected component consisting of at least f(d, m) n^{d-m} small cubes.

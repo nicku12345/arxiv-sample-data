@@ -1,0 +1,1 @@
+We show that every 0-1 multiplicity matrix for a simple graph G is generically realisable for G. In particular, every multiplicity matrix for a path is generically realisable. We use this result to provide several families of joins of graphs that are realisable by a matrix with only two distinct eigenvalues.

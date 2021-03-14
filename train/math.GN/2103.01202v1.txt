@@ -1,0 +1,1 @@
+It is shown that the family of all homogeneous continua in the hyperspace of all subcontinua of any finite-dimensional Euclidean cube or the Hilbert cube is an analytic subspace of the hyperspace which contains a topological copy of the linear space c_0=\{(x_k)\in \mathbb R^\omega: \lim x_k=0\} as a closed subset.

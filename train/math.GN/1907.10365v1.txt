@@ -1,0 +1,1 @@
+A sheaf can be defined in two ways. As the etale space, or as the contravariant functor. In this paper, by analogy, we characterize the topological etale groupoids by a sheaf theoritic way. For that purpose, we introduce a pseudogroup sheaf as generalization of a pseudogroup.

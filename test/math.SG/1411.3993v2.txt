@@ -1,0 +1,1 @@
+We develop the theory of J-holomorphic discs in Hilbert spaces with almost complex structures. As an aplication, we prove a version of Gromov's symplectic non-squeezing theorem for Hilbert spaces. It can be applied to short-time symplectic flows of a wide class of Hamiltonian PDEs.

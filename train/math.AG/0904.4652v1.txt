@@ -1,0 +1,1 @@
+We construct a polynomial of degree d in two variables whose   Hessian curve has (d-2)^2 connected components using Viro patchworking. In particular, this implies the existence of a smooth real algebraic surface of degree d in RP^3 whose parabolic curve is smooth and has d(d-2)^2 connected components.

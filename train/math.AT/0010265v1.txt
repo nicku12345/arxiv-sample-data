@@ -1,0 +1,1 @@
+We analyze and compare different dynamical systems and groupoids which can be obtained from projection point patterns. We define the cohomology of a point pattern as the cocycle cohomology of the pattern groupoid. We describe this cohomology qualitatively and calculate it for canonical projection method tilings with codimension smaller or equal than 3.

@@ -1,0 +1,1 @@
+The goal of this article is to construct explicitly a p-adic family of representations (which are dihedral representations), to construct their associated (phi,Gamma)-modules by writing down explicit matrices for phi and for the action of Gamma, and finally to determine which of these are trianguline.

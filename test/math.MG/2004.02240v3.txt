@@ -1,0 +1,1 @@
+In this paper we give a short, new proof of a natural generalization of Gerzon's bound. This bound improves the Delsarte, Goethals and Seidel's upper bound in a special case. Our proof is a simple application of the linear algebra bound method.

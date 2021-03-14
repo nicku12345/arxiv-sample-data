@@ -1,0 +1,1 @@
+It is shown that the rooted trees T_X and T_Y representing finite ultrametric spaces X and Y are isomorphic if and only if there exists a ball-preserving bijection F:X\to Y.

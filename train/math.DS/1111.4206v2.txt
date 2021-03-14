@@ -1,0 +1,1 @@
+We prove that, on connected compact manifolds, both C1-generic conservative diffeomorphisms and C1-generic transitive diffeomorphisms are topologically mixing. This is obtained through a description of the periods of a homoclinic class and by a control of the period of the periodic points given by the closing lemma.

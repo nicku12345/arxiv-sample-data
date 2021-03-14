@@ -1,0 +1,1 @@
+We show that if A is a d-dimensional abelian variety in a smooth quadric of dimension 2d then d=1 and A is an elliptic curve of bidegree (2,2) on a quadric. This extends a result of Van de Ven which says that A only can be embedded in P^{2d} when d=1 or 2.

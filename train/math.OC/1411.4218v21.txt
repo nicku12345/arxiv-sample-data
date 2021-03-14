@@ -1,0 +1,1 @@
+In the article we lead a brief survey of contemporary gradient type methods (with inexact oracle) for stochastic optimization problems.

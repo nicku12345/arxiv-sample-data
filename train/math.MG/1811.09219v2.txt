@@ -1,0 +1,1 @@
+We construct a family of non-PCF dendrites K in a plane, such that in each of them all subarcs have the same Hausdorff dimension s, while the set of s-dimensional Hausdorff measures of subarcs connecting the given point and a self-similar Cantor subset in K is a Cantor discontinuum.

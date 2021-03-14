@@ -1,0 +1,1 @@
+The Lamb-Bateman integral equation was introduced to study the solitary wave diffraction and its solution was written in terms of an integral transform. We prove that it is essentially the Abel integral equation and its solution can be obtained using the formalism of fractional calculus.

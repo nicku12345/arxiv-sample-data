@@ -1,0 +1,1 @@
+In this note, we compute the Hadamard coefficients of (algebraically) integrable Schrodinger operators in two dimensions. These operators first appeared in [BL] and [B] in connection with Huygens' principle, and our result completes, in a sense, the investigation initiated in those papers.

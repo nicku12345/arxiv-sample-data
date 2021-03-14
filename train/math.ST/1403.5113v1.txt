@@ -1,0 +1,1 @@
+This paper considers the construction of optimal designs due to Hoel and Levine and Guest. It focuses on the relation between the theory of the uniform approximation of functions and the optimality of the designs. Some application to accelerated tests is also presented. The multivariate case is also handled in some special situations.

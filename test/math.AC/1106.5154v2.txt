@@ -1,0 +1,1 @@
+The uniform Artin-Rees lemma has been proved by C. Huneke using algebraic methods. We give a new proof for this result in the analytic setting using residue calculus. We also have to introduce a type of product of complexes of vector bundles, which may be applicable in the solution of other division problems with respect to product ideals.

@@ -1,0 +1,1 @@
+We study stability issues for the so-called Borell-Brascamp-Lieb inequalities, proving that when near equality is realized, the involved functions must be L^1-close to be p-concave and to coincide up to homotheties of their graphs.

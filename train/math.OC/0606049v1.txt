@@ -1,0 +1,1 @@
+The aim of this paper is to present a symbolic computational algorithm that will allow us to deal with the feedback stabilization problem for continuous nonlinear polynomial systems. The overall approach is based on a methodology that checks the positivity of a given polynomial.

@@ -1,0 +1,1 @@
+Glimm's theorem says that a UHF algebra is almost embedded in a separable C^*-algebra not of type I. Applying his methods we obtain a covariant version of his result; a UHF algebra with a product type automorphism is covariantly embedded in such a C^*-algebra equipped with an automorphism with full Connes spectrum.

@@ -1,0 +1,1 @@
+Wreath products such as Z wr Z are not finitely-presentable yet can occur as subgroups of finitely presented groups. Here we compute the distortion of Z wr Z as a subgroup of Thompson's group F and as a subgroup of Baumslag's metabelian group G.   We find that Z wr Z is undistorted in F but is at least exponentially distorted in G.

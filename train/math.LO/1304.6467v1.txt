@@ -1,0 +1,1 @@
+We augment LP with a strong conditional operator, to yield a logic we call "strong LP," or LP=>. The resulting logic can speak of consistency in more discriminating ways, but introduces new possibilities for trivializing paradoxes.

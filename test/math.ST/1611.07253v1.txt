@@ -1,0 +1,1 @@
+The unicity of the time-varying quantile-based spectrum proposed in Birr et al. (2016) is established via an asymptotic representation result involving Wigner-Ville spectra.

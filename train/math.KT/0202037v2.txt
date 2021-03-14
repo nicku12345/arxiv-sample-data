@@ -1,0 +1,1 @@
+We define KK-theory spectra associated to C*-categories and look at certain instances of the Kasparov product at this level. This machinery is used to give a description of the analytic assembly map as a natural map of spectra.

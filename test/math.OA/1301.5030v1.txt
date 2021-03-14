@@ -1,0 +1,1 @@
+We construct a simple C*-algebra with nuclear dimension zero that is not isomorphic to its tensor product with the Jiang-Su algebra Z, and a hyperfinite II_1 factor not isomorphic to its tensor product with the separable hyperfinite II_1 factor R. The proofs use a weakening of the Continuum Hypothesis.

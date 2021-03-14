@@ -1,0 +1,1 @@
+By means of a Fourier-Mukai transform we embed moduli spaces of stable bundles on an algebraic curve C as isotropic subvarieties of moduli spaces of mu-stable bundles on the Jacobian variety J(C). When g(C)=2 this provides new examples of special Lagrangian submanifolds.

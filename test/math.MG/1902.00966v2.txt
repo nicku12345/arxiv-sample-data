@@ -1,0 +1,1 @@
+In this article we proof the existence of 4-regular planar unit-distance graphs consisting only of unit triangles without additional triangles. It is shown that the smallest number of unit triangles is \leq6422.

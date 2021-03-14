@@ -1,0 +1,1 @@
+We study the 1d Schr\"odinger operators with alloy type random supercritical decaying potential and prove the clock convergence for the local statistics of eigenvalues. We also consider, besides the standard i.i.d. case, more general ones with exponentially decaying correlations.

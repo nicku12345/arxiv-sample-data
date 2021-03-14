@@ -1,0 +1,1 @@
+We prove a maximum principle of optimal control of stochastic delay equations on infinite horizon. We establish first and second sufficient stochastic maximum principles as well as necessary conditions for that problem. We illustrate our results by an application to the optimal consumption rate from an economic quantity.

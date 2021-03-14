@@ -1,0 +1,1 @@
+We prove that abelian subgroups of the outer automorphism group of a free group are quasi-isometrically embedded. Our proof uses recent developments in the theory of train track maps by Feighn-Handel. As an application, we prove the rank conjecture for \mathrm{Out}(F_n).

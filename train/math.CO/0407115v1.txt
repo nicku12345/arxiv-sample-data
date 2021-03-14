@@ -1,0 +1,1 @@
+Iterating Newton's method symbolically for the general quadratic yields a rational function, the numerator and denominator of which are polynomials with highly composite coefficients.

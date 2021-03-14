@@ -1,0 +1,1 @@
+We obtain the asymptotics for the speed of a particular case of a particle system with branching and selection introduced by B\'erard and Gou\'er\'e (2010). The proof is based on a connection with a supercritical Galton-Watson process censored at a certain level.

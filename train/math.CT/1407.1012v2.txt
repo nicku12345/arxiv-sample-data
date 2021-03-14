@@ -1,0 +1,1 @@
+Frobenius monoidal functors preserve duals. We show that conversely, (co)monoidal functors between autonomous categories which preserve duals are Frobenius monoidal. We apply this result to linearly distributive functors between autonomous categories.

@@ -1,0 +1,1 @@
+In this paper we deal with edge-to-edge, irreducible decompositions of a centrally symmetric convex (2k)-gon into centrally symmetric convex pieces. We prove an upper bound on the number of these decompositions for any value of k, and characterize them for octagons.

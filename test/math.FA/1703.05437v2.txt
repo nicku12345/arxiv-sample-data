@@ -1,0 +1,1 @@
+Let P and Q be two orthogonal projections on a separable Hilbert space, \calH. Wang, Du and Dou proved that there exists a unitary, U, with UPU^{-1} =Q, \quad UQU^{-1} = P if and only if \dim(\ker P \cap \ker(1-Q)) = \dim(\ker Q \cap \ker(1-P)) (both may be infinite). We provide a new proof using the supersymmetric machinery of Avron, Seiler and Simon.

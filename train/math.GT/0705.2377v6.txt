@@ -1,0 +1,1 @@
+We define a grid presentation for singular links i.e. links with a finite number of rigid transverse double points. Then we use it to generalize link Floer homology to singular links. Besides the consistency of its definition, we prove that this homology is acyclic under some conditions which naturally make its Euler characteristic vanish.

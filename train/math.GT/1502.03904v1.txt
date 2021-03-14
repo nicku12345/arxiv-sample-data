@@ -1,0 +1,1 @@
+In this note we prove that for any finite quandle X and any 2-cocycle \phi\in Z^2_{Q\pm}(X; \mathds{Z}), the cocycle invariant \Phi^{\pm}_{\phi}(K) is trivial for all knots K.

@@ -1,0 +1,1 @@
+The purpose of this note is to give the general solution of two functional equations connected to the Shannon entropy and also to the Tsallis entropy. As a result of this, we present the regular solution of these equations, as well. Furthermore, we point out that the regularity assumptions used in previous works can substantially be weakened.

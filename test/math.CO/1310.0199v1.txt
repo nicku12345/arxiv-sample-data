@@ -1,0 +1,1 @@
+We prove that every possible k-cycle can be embedded into PG(n,q), for all n\geq 3 and q a power of a prime.

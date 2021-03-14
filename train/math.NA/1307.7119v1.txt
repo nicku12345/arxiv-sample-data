@@ -1,0 +1,1 @@
+We extend previous results on the exponential off-diagonal decay of the entries of analytic functions of banded and sparse matrices to the case where the matrix entries are elements of a C^*-algebra.

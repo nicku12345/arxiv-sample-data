@@ -1,0 +1,1 @@
+We show that Horrock's criterion for the splitting of vector bundles on \PP^n can be extended to vector bundles on multiprojective spaces and to smooth projective varieties with the weak CM property (see Definition 3.11). As a main tool we use the theory of n-blocks and Beilinson's type spectral sequences. Cohomological characterizations of vector bundles are also showed.

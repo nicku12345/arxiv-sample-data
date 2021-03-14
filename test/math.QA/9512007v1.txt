@@ -1,0 +1,1 @@
+We show that the affine quantum group U_q(\hat{sl_2}) is isomorphic to a bicrossproduct central extension C Z{}_\chi\cross U_q(Lsl_2) of the quantum loop group U_q(Lsl_2) by a quantum cocycle \chi, which we construct. We prove the same result for U_q(\hat{g}) in R-matrix form.

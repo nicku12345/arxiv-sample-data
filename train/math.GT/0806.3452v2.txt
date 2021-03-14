@@ -1,0 +1,1 @@
+This note shows that if two elements of equal trace (e.g., conjugate elements) generate an arithmetic two-bridge knot or link group, then the elements are parabolic. This includes the figure-eight knot and Whitehead link groups. Similarly, if two conjugate elements generate the trefoil knot group, then the elements are peripheral.

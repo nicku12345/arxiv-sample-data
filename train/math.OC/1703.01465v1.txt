@@ -1,0 +1,1 @@
+We consider the portfolio optimization with risk measured by conditional value-at-risk, based on the stress event of chosen asset being equal to the opposite of its value-at-risk level, under the normality assumption. Solvability conditions are given and illustrated by examples.

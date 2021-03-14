@@ -1,0 +1,1 @@
+We describe the planar rook category, the rook category, the rook-Brauer category, and the Motzkin category in terms of generators and relations. We show that the morphism spaces of these categories have linear bases given by planar rook diagrams, rook diagrams, rook-Brauer diagrams, and Motzkin diagrams.

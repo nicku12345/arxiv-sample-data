@@ -1,0 +1,1 @@
+In this work, new equivalences of topological statements and weaker axioms than {\bf AC} are proven. This equivalences include the use of anti-properties. All this equivalences have been checked with a computer using the theorem proving system Isabelle/Isar and are available at the isarmathlib repository.

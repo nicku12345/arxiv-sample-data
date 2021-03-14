@@ -1,0 +1,1 @@
+In this paper, we present an extension of \lambda\mu-calculus called \lambda\mu^{++}-calculus which has the following properties: subject reduction, strong normalization, unicity of the representation of data and thus confluence only on data types. This calculus allows also to program the parallel-or.

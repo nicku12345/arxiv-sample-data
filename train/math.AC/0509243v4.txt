@@ -1,0 +1,1 @@
+We show that the real parts of the poles of the Igusa zeta function of a monomial ideal can be computed from the torus-invariant divisors on the normalized blowing-up along the ideal. Moreover, we show that every such number is a root of the Bernstein-Sato polynomial associated to the monomial ideal.

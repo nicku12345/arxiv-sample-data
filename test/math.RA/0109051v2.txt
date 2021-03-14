@@ -1,0 +1,1 @@
+A question of interest in Linear Algebra is whether all n x n complex matrices can be unitarily tridiagonalised. The answer for all n not equal to 4 (affirmative or negative) has been known for a while, whereas the case n=4 seems to have remained open. In this paper, we settle the n=4 case in the affirmative. Some machinery from complex algebraic geometry needs to be used.

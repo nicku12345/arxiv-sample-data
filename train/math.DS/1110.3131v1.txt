@@ -1,0 +1,1 @@
+We define a very general class of rational functions f:CP^1 --> CP^1 such that for every function f of this class, there exists a countable family of smooth curves \gamma_i and a critically finite hyperbolic function R such that the dynamical system obtained from f by cutting along the curves \gamma_i is topologically semi-conjugate to R.

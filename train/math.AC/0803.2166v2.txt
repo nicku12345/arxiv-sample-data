@@ -1,0 +1,1 @@
+We find geometric and arithmetic conditions in order to characterize the irreducibility of the determinant of the generic Vandermonde matrix over the algebraic closure of any field k. We also characterize those determinants whose tropicalization with respect to the variables of a row is irreducible.

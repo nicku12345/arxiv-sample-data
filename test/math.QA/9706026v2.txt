@@ -1,0 +1,1 @@
+We show that noncommutative differential forms on k[x], k a field, are of the form \Omega^1=k_\lambda[x] where k_\lambda\supset k is a field extension. We compute the case C\supset R explicitly, where \Omega^1 is 2-dimensional. We study the induced quantum de Rahm complex, its cohomology and the associated moduli space of flat connections.

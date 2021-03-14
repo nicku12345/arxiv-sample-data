@@ -1,0 +1,1 @@
+We show that the essentially algebraic theory of a generalized algebraic theory, regarded as a category with finite limits, has a universal exponentiable arrow in the sense that any exponentiable arrow in any category with finite limits is the image of the universal exponentiable arrow by an essentially unique functor.

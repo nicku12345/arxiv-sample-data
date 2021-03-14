@@ -1,0 +1,1 @@
+It has been proved by Bergh and Thaule that the higher mapping cone axiom is equivalent to the higher octahedral axiom for n-angulated categories. In this note, we use homotopy cartesian diagrams to give several new equivalent statements of the higher mapping cone axiom, which are applied to explain the higher octahedral axiom.

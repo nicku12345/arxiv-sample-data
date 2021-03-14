@@ -1,0 +1,1 @@
+Let f(z)=e^{-bz^2}f_1(z) where b \geq 0 and f_1(z) is a real entire function of genus 0 or 1. We give a necessary and sufficient condition in terms of a sequence of inequalities for all of the zeros of f(z) to be real. These inequalities are an extension of the classical Laguerre inequalities.

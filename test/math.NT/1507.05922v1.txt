@@ -1,0 +1,1 @@
+We introduce a method for producing congruences between Hecke eigenclasses, possibly torsion, in the coherent cohomology of automorphic vector bundles on certain good reduction Shimura varieties. The congruences are produced using some "generalized Hasse invariants" adapted to the Ekedahl-Oort stratification of the special fiber.

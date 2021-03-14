@@ -1,0 +1,1 @@
+We consider the Schr\"odinger operator on [0,1] with potential in L^1. We prove that two potentials already known on [a,1] (a\in(0,{1/2}]) and having their difference in L^p are equal if the number of their common eigenvalues is sufficiently large. The result here is to write down explicitly this number in terms of p (and a) showing the role of p.

@@ -1,0 +1,1 @@
+G. Andrews proved that if n is a prime number then the coefficients a_k and a_{k+n} of the product (q,q)_\infty/(q^n,q^n)_\infty=\sum_k a_kq^k have the same sign, see [A1]. We generalize this result in several directions. Our results are based on the observation that many products can be written as alternating sums of characters of Virasoro modules.

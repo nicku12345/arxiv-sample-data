@@ -1,0 +1,1 @@
+We investigate Banach algebras of convolution operators on the L^p spaces of a locally compact group, and their K-theory. We show that for a discrete group, the corresponding K-theory groups depend continuously on p in an inductive sense. Via a Banach version of property RD, we show that for a large class of groups, the K-theory groups of the Banach algebras are independent of p.

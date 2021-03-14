@@ -1,0 +1,1 @@
+In this paper we use the approach of Ruan and Li-Ruan to construct virtual neighborhoods and show that the Gromov-Witten invariants can be defined as an integral over top strata of virtual neighborhood. We prove that the invariants defined in this way satisfy all the Gromov-Witten axioms of Kontsevich and Manin.

@@ -1,0 +1,1 @@
+We use Hodge decompositions to construct Poincar\'e duality models and revise results of Lambrechts and Stanley by removing unnecessary assumptions in the 'weak uniqueness' statement for simply-connected Poincar\'e duality models. The main idea is the construction of a certain extension of the Sullivan minimal model with a pairing which admits a Hodge decomposition.

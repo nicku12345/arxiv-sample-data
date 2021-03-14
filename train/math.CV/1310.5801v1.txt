@@ -1,0 +1,1 @@
+Let \mathcal{B}^{\omega}(B_d) denote the \omega-weighted Bloch space in the unit ball B_d of \mathbb{C}^d, d\ge 1. We show that the quadratic integral  \int_x^1 \frac{\omega^2(t)}{t}\, dt,\quad 0<x<1,  governs the radial divergence and integral reverse estimates in \mathcal{B}^{\omega}(B_d).

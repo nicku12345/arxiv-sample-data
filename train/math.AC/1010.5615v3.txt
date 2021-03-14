@@ -1,0 +1,1 @@
+The associated primes of an arbitrary lexsegment ideal I\subset S=K[x_1,...,x_n] are determined. As application it is shown that S/I is a pretty clean module, therefore, S/I is sequentially Cohen-Macaulay and satisfies Stanley's conjecture.

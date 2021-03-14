@@ -1,0 +1,1 @@
+We give the first example of a transitive quadratic map whose real and complex geometric pressure functions have a high-order phase transition. In fact, near the phase transition these functions behave as x \mapsto \exp (- 1 / x^2) near x = 0, before becoming linear. This quadratic map has a non-recurrent critical point, so it is non-uniformly hyperbolic in a strong sense.

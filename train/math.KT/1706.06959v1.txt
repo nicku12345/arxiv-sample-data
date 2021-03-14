@@ -1,0 +1,1 @@
+We construct the coarse index class with support condition (as an element of coarse K-homology) of an equivariant Dirac operator on a complete Riemannian manifold endowed with a proper, isometric action of a group. We further show a coarse relative index theorem and discuss the compatibility of the index with the suspension isomorphism.

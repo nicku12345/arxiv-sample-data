@@ -1,0 +1,1 @@
+We pursue the order-theoretic approach to ribbon graphs initiated by Kauer and Roggenkamp. We show that any ribbon graph order is twisted 1-Calabi-Yau in general and 1-Calabi-Yau if the ribbon graph is bipartite. We derive analogous results for anti-commutative versions of Brauer graph algebras.

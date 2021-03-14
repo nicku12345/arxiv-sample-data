@@ -1,0 +1,1 @@
+The Korkine-Zolotareff (KZ) reduction has been used in communications and cryptography. In this paper, we modify a very recent KZ reduction algorithm proposed by Zhang et al., resulting in a new algorithm, which can be much faster and more numerically reliable, especially when the basis matrix is ill conditioned.

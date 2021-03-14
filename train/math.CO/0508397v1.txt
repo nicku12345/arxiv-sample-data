@@ -1,0 +1,1 @@
+The confluent binomial posets with the atomic function A(n) = max (1,2^(n-2)) are classified. In particular, it is shown that in general there are non-isomorphic intervals of the same length.

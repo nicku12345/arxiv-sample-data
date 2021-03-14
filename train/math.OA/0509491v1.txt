@@ -1,0 +1,1 @@
+We present a formula for the norm of an elementary operator on a C*-algebra that seems to be new. The formula involves (matrix) numerical ranges and a kind of geometrical mean for positive matrices, the tracial geometric mean, which seems not to have been studied previously and has interesting properties. In addition, we characterise compactness of elementary operators.

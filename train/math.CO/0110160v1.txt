@@ -1,0 +1,1 @@
+We give an explicit description of the coefficients of the formal power series (1-x)(1-x^2)(1-x^3)(1-x^5)(1-x^8)(1-x^13)... In particular, we show that all the coefficients are equal to -1, 0 or 1.

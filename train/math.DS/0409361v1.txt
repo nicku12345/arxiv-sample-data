@@ -1,0 +1,1 @@
+We consider some smooth maps on a bouquet of circles. For these maps we can compute the number of fixed points, the existence of periodic points and an exact formula for topological entropy. We use Lefschetz fixed point theory and actions of our maps on both the fundamental group and the first homology group.

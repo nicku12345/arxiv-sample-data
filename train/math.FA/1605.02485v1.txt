@@ -1,0 +1,1 @@
+In this paper we prove that maximal H-monotone operators T:H^n\rightrightarrows V_1 whose domain is all the Heisenberg group H^n are locally bounded. This implies that they are upper semicontinuous. As a consequence, maximal H-monotonicity of an operator on H^n can be characterized by a suitable version of Minty's type theorem.

@@ -1,0 +1,1 @@
+We define a class of trim metric spaces and show that every finite metric space is the leaf space of a metric forest with trim base.

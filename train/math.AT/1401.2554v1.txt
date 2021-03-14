@@ -1,0 +1,1 @@
+We present a proof of the following theorem of Levin: For every connected CW complex K there is a simply connected CW complex K^+ obtained from K by attaching cells of dimension 2 and 3 such that the inclusion K\to K^+ induces isomorphisms of homology groups in dimension >1.

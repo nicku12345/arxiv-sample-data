@@ -1,0 +1,1 @@
+We obtain pointwise lower bounds for heat kernels of higher order differential operators with Dirichlet boundary conditions on bounded domains in \R^N. The bounds exhibit explicitly the nature of the spatial decay of the heat kernel close to the boundary. We make no smoothness assumptions on our operator coefficients which we assume only to be bounded and measurable.

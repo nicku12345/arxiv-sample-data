@@ -1,0 +1,1 @@
+This paper introduces a homology theory for links in I-bundles over an orientable surface. The theory is unique in that the elements of the chain groups are surfaces instead of diagrams. It is then shown this theory yields the same results as the homology theory constructed by Asaeda, Przytycki and Sikora.

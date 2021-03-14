@@ -1,0 +1,1 @@
+In this note, we recall Kummer's Fourier series expansion of the 1-periodic function that coincides with the logarithm of the Gamma function on the unit interval (0,1), and we use it to find closed forms for some numerical series related to the generalized Stieltjes constants, and some integrals involving the function x\mapsto \ln \ln(1/x).

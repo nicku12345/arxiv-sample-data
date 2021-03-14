@@ -1,0 +1,1 @@
+Replacing the triangle inequality, in the definition of a norm, by |x + y| ^{q}\leq 2^{q-1}(|x| ^{q} + |y| ^{q}) , we introduce the notion of a q-norm. We establish that every q-norm is a norm in the usual sense, and that the converse is true as well.

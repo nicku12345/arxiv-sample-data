@@ -1,0 +1,1 @@
+Numerical evidence suggests that certain permutation patterns of length k are easier to avoid than any other patterns of that same length. We prove that these patterns are avoided by no more than (2.25k^2)^n permutations of length n. In light of this, we conjecture that no pattern of length k is avoided by more than that many permutations of length n.

@@ -1,0 +1,1 @@
+An algorithm is presented for numerical computation of choreographies in the plane in a Newtonian potential and on the sphere in a cotangent potential. It is based on stereographic projection, approximation by trigonometric polynomials, and quasi-Newton and Newton optimization methods with exact gradient and exact Hessian matrix. New choreographies on the sphere are presented.

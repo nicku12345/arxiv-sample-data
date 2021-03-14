@@ -1,0 +1,1 @@
+A subgroup H of a group G is called inert if for each g\in G the index of H\cap H^g in H is finite. We give a classification of soluble-by-finite groups G in which subnormal subgroups are inert in the cases where G has no nontrivial torsion normal subgroups or G is finitely generated.

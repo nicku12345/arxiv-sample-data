@@ -1,0 +1,1 @@
+Garoufalidis conjectured a relation between the boundary slopes of a knot and its colored Jones polynomials. According to the conjecture, certain boundary slopes are detected by the sequence of degrees of the colored Jones polynomials. We verify this conjecture for adequate knots, a class that vastly generalizes that of alternating knots.

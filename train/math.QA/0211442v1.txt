@@ -1,0 +1,1 @@
+We describe a simple algorithm for computing the canonical basis of any irreducible finite-dimensional U_{q}(so_{2n+1}) or U_{q}(so_{2n})-module.

@@ -1,0 +1,1 @@
+This paper concerns the estimation of the regression function at a given point in nonparametric heteroscedastic models with Gaussian noise or with noise having unknown distribution. In the two cases an asymptotically efficient kernel estimator is constructed for the minimax absolute error risk.

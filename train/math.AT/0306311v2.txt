@@ -1,0 +1,1 @@
+We present a new integration formula for intersection numbers on toric quotients, extending the results of Witten, Jeffrey and Kirwan on localization. Our work was motivated by the Toric Residue Mirror Conjecture of Batyrev and Materov; as an application of our integration formula, we obtain a proof of this conjecture in a generalized setting.

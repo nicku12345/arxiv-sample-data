@@ -1,0 +1,1 @@
+We will use a discrete analogue of the classical Laplace method to show that the main term of the asymptotic expansions of certain entire functions, including Ramanujan's entire function A_{q}(z), can be expressed in terms of \theta-functions.

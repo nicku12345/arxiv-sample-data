@@ -1,0 +1,1 @@
+In this paper, for a given finitely generated algebra (an algebraic structure with arbitrary operations and no predicates) A we study finitely generated limit algebras of A, approaching them via model theory and algebraic geometry. Along the way we lay down foundations of algebraic geometry over arbitrary algebraic structures.

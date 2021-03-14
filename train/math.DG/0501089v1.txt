@@ -1,0 +1,1 @@
+We prove that on a Riemannian manifold, a smooth differential form has a primitive with a given (functional) upper bound provided the necessary weighted isoperimetric inequalities implied by Stokes are satisfied. We apply this to prove a comparison predicted by Gromov between the cofilling function and the filling area.

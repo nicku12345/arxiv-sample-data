@@ -1,0 +1,1 @@
+Let X be a smooth projective curve of genus g \geq 2 defined over a field of characteristic two. We give examples of stable orthogonal bundles with unstable underlying vector bundles and use them to give counterexamples to Behrend's conjecture on the canonical reduction of principal G-bundles for G= SO(n) with n \geq 7.

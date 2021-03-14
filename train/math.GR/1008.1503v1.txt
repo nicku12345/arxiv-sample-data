@@ -1,0 +1,1 @@
+We show that if {x1,...,x8064} is a set of distinct non-trivial elements of the sporadic simple Mathieu group M23 then there exists an element y such that {y,x_i} generates the whole group for every 0<i<8065 and that no larger set of distinct elements of M23 has this property.

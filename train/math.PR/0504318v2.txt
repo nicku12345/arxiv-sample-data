@@ -1,0 +1,1 @@
+Under the hypothesis of convergence in probability of a sequence of c\`{a}dl\`{a}g processes (X^n)\_n to a c\`{a}dl\`{a}g process X, we are interested in the convergence of corresponding values in optimal stopping and also in the convergence of optimal stopping times. We give results under hypothesis of inclusion of filtrations or convergence of filtrations.

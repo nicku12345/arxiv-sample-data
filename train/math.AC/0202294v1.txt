@@ -1,0 +1,1 @@
+In this paper we give a necessary and sufficient criterion for representability of a matroid over an algebraic closed field. This leads to an algorithm, based on an extension of Groebner Bases, in order to decide if a given matroid is representable over such a field.

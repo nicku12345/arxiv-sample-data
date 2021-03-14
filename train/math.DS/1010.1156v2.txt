@@ -1,0 +1,1 @@
+This note presents an approach to studying the iterates of a mapping whose restriction to the complement of a finite set is continuous and open. The main examples to which the approach can be applied are piecewise monotone mappings defined on an interval or a finite graph.

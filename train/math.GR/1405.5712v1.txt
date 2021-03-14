@@ -1,0 +1,1 @@
+After reviewing automaton semigroups, we introduce Cayley Automata and the corresponding Cayley Automaton semigroups. We investigate which semigroups are isomorphic to their Cayley Automaton semigroup and give some results for special classes of semigroups. We answer a question posed by Cain relating to the dual construction.

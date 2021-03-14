@@ -1,0 +1,1 @@
+We observed that statement (2.9) in Theorem 2 remains valid if condition (2.7) is replaced by the weaker condition that f(t) \in L^1(-T, T) \quad {\rm for\ all} \quad T>0.\eqno(2.7')

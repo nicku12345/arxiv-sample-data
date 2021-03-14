@@ -1,0 +1,1 @@
+Given rings R \subseteq S, consider the division closure DC(R,S) and the rational closure RC(R,S) of R in S. If S is commutative, then DC(R,S)=RC(R,S)=RT^{-1}, where T = \{t\in R : t^{-1} \in S\}. We show that this is also true if we assume only that R is commutative.

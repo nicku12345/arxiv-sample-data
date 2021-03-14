@@ -1,0 +1,1 @@
+We prove the existence of the intersection local time for two independent, d -dimensional fractional Brownian motions with the same Hurst parameter H. Assume d greater or equal to 2, then the intersection local time exists if and only if Hd<2.

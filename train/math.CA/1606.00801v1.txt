@@ -1,0 +1,1 @@
+Using Leray-Schauder degree theory we study the existence of at least one solution for the boundary value problem of the type (\varphi(u' ))' = f(t,u,u'), u'(0)=u(0), u'(T)= bu'(0), where \varphi is a homeomorphism such that \varphi(0)=0, f is a continuous function, and T a positive real number and b some non zero real number.

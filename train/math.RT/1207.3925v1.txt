@@ -1,0 +1,1 @@
+Let \rho is a cuspidal representation of GL(n,F), with F a non archimedean local field, and H a maximal Levi subgroup of GL(n,F). We show that if \rho is H-distinguished, then n is even, and H\simeq GL(n/2,F)\times GL(n/2,F).

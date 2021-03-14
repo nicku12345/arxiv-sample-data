@@ -1,0 +1,1 @@
+We explain how categories, and groupoids, can be seen as models for a Lawvere {\mathfrak Gr}-theory, where {\mathfrak Gr} is the category of graphs, and show that for Lawvere {\mathfrak Gr}-theories finitely presentable models are finitely presentable objects.

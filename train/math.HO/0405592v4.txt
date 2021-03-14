@@ -1,0 +1,1 @@
+In a well forgotten memoir of 1890, Andrei Markov devised a convergence acceleration technique based on a series transformation which is very similar to what is now known as the Wilf-Zeilberger (WZ) method. We review Markov's work, put it in the context of modern computer-aided WZ machinery, and speculate about possible reasons of the memoir being shelved for so long.

@@ -1,0 +1,1 @@
+We show that if the minimum entropy for a polynomial with roots on the unit circle is attained by polynomials with equally spaced roots, then, under a generic hypothesis about the nature of the extremum, the Krzyz conjecture on the maximum modulus of the Taylor coefficients of a holomorphic function that maps the disk to the punctured disk is true.

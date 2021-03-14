@@ -1,0 +1,1 @@
+A new finite element formulation for the Kirchhoff plate model is presented. The method is a displacement formulation with the deflection and the rotation vector as unknowns and it is based on ideas stemming from a stabilized method for the Reissner--Mindlin model and a method to treat a free boundary. Optimal a-priori and a-posteriori error estimates are derived.

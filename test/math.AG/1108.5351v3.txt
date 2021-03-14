@@ -1,0 +1,1 @@
+We prove that under a certain mild hypothesis, the DG category of D-modules on a quasi-compact algebraic stack is compactly generated. We also show that under the same hypothesis, the functor of global sections on the DG category of quasi-coherent sheaves is continuous.

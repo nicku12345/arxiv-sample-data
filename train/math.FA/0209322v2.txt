@@ -1,0 +1,1 @@
+It is shown that every set I(m) of Banach lattices of measurable functions defined on a measure space (Q,S,m), equipped with a some natural ordering became a modular lattice, which is Dedekind complete provided m is a probability measure. Moreover, some natural operations on considered spaces are in Galois connexion.

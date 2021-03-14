@@ -1,0 +1,1 @@
+We study aspects of the thermodynamics of quantum versions of spin glasses. By means of the Lie-Trotter formula for exponential sums of operators, we adapt methods used to analyze classical spin glass models to answer analogous questions about quantum models.

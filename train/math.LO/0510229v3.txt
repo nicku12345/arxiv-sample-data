@@ -1,0 +1,1 @@
+We mainly investigate model of set theory with restricted choice, e.g., ZF + DC + "the family of countable subsets of lambda is well ordered for every lambda" (really local version for a given lambda). In this frame much of pcf theory can be generalized. E.g., there is a class of regular cardinals, and we can prove cardinal inequality.

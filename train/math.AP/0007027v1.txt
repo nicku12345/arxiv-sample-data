@@ -1,0 +1,1 @@
+We present a very simple proof of the global existence of a C^\infty Lagrangian flow map for the 2D Euler and second-grade fluid equations (on a compact Riemannian manifold with boundary) which has C^\infty dependence on initial data u_0 in the class of H^s divergence-free vector fields for s>2.

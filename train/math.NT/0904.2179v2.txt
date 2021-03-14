@@ -1,0 +1,1 @@
+We give a new expression for the inner product of two kernel functions associated to a cusp form. Among other applications, it yields an extension of a formula of Kohnen and Zagier, and another proof of Manin's Periods Theorem. Cohen's representation of these kernels as series is also generalized.

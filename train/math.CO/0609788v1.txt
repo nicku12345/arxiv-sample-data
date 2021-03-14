@@ -1,0 +1,1 @@
+A permutation class which is closed under pattern involvement may be described in terms of its basis. The wreath product construction X \wr Y of two permutation classes X and Y is also closed, and we investigate classes Y with the property that, for any finitely based class X, the wreath product X \wr Y is also finitely based.

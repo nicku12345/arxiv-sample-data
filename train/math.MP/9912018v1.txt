@@ -1,0 +1,1 @@
+We consider the Navier-Stokes equation on a two dimensional torus with a random force, white noise in time and analytic in space, for arbitrary Reynolds number R. We prove probabilistic estimates for the long time behaviour of the solutions that imply bounds for the dissipation scale and energy spectrum as R\to\infty.

@@ -1,0 +1,1 @@
+Let X be a countably infinite set, Inj(X) the monoid of all injective endomaps of X, and Sym(X) the group of all permutations of X. We classify all submonoids of Inj(X) that are closed under conjugation by elements of Sym(X).

@@ -1,0 +1,1 @@
+Techniques of combinatorial set theory are applied to the following algebraic problem. Suppose G is an abelian group such that, for all countable subgroups C, the divisible part of the quotient G/C is countable. What can one conclude about the size of the divisible part of G/K when the cardinality of the subgroup K is a given uncountable cardinal?

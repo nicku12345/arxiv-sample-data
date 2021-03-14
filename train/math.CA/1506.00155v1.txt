@@ -1,0 +1,1 @@
+If f\in L^2(R^d) and if the function f(x)f(y) is close in L^2(R^{2d}) norm to a radially symmetric function of (x,y) then f is close in L^2 norm to a centered Gaussian function. This is proved in a quantitative form with the optimal exponent measuring closeness.

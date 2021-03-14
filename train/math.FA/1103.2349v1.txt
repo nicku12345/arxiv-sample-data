@@ -1,0 +1,1 @@
+Previous examples of non-type (D) maximal monotone operators were restricted to \ell^1, L^1, and Banach spaces containing isometriccopies of these spaces. This fact led to the conjecture that non-type (D) operators were restricted to this class of Banach spaces. We present a linear non-type (D) operator in c_0.

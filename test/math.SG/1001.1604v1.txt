@@ -1,0 +1,1 @@
+We consider surfaces embedded in a Riemannian manifold of arbitrary dimension and prove that many aspects of their differential geometry can be expressed in terms of a Poisson algebraic structure on the space of smooth functions of the surface. In particular, we find algebraic formulas for Weingarten's equations, the complex structure and the Gaussian curvature.

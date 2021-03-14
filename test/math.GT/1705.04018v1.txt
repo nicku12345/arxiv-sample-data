@@ -1,0 +1,1 @@
+Let S_{0,n} be an n-punctured sphere. For n\geq 4, we construct a sequence (\mathcal{X}_i)_{i\in\mathbb{N}} of finite rigid sets in the pants graph \mathcal{P}(S_{0,n}) such that \mathcal{X}_1 \subset \mathcal{X}_2 \subset ...\subset\mathcal{P}(S_{0,n}) and \bigcup_{i\geq1}\mathcal{X}_i=\mathcal{P}(S_{0,n}).

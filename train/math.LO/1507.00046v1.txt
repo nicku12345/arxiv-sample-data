@@ -1,0 +1,1 @@
+In Pure Inductive Logic, the principle of Strong Predicate Exchangeability is a rational principle based on symmetry that sits in between the principles of Predicate Exchangeability and Atom Exchangeability. We will show a de Finetti - style representation theorem for probability functions that satisfy this principle in addition to Unary Language Invariance.

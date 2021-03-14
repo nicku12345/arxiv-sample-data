@@ -1,0 +1,1 @@
+This note is concerned with the zeros of holomorphic Hecke cusp forms of large weight on the modular surface. The zeros of such forms are symmetric about three geodesic segments and we call those zeros that lie on these segments, real. Our main results give estimates for the number of real zeros as the weight goes to infinity.

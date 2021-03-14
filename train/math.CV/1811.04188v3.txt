@@ -1,0 +1,1 @@
+In this paper, we prove that \boldsymbol{\zeta} cannot be a solution to any nontrivial algebraic differential equation whose coefficients are polynomials in \boldsymbol{\Gamma},\boldsymbol{\Gamma}^{(n)} and \boldsymbol{\Gamma}^{(\ell n)} over the ring of polynomials in \mathbf{C}, where \ell,n\geq1 are positive integers.

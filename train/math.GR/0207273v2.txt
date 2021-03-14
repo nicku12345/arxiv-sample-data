@@ -1,0 +1,1 @@
+Let F be a field of characteristic p > 0 and let g, h be elements of the Nottingham group N(F) such that g has depth k and gh^{-1} has depth n >= k. We find the best possible lower bound for the depth of g^ph^{-p}.

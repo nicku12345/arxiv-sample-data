@@ -1,0 +1,1 @@
+We provide a characterization of no-iteration distributive laws in terms of its monads in extensive form only. To do that, it is necessary to take account of both right and left extension systems. We also give, in this right-left perspective, characterizations of the 1-cells and 2-cells in \mathbf{EM}(K) and \mathbf{Kl}(K).

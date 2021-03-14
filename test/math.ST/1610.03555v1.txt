@@ -1,0 +1,1 @@
+A monotone version of an empirical Bayes estimator for the parameter of the Borel-Tanner distribution is constructed. Some properties of the estimator's regret risk are illustrated through simulations.

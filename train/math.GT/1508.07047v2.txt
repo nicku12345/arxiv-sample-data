@@ -1,0 +1,1 @@
+From Furuta's \frac{10}{8} theorem, we derive a smooth slicing obstruction for knots in S^3 using a spin 4-manifold whose boundary is 0-surgery on a knot. We show that this obstruction is able to detect torsion elements in the smooth concordance group and find topologically slice knots which are not smoothly slice.

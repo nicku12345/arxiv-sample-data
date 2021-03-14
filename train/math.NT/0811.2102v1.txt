@@ -1,0 +1,1 @@
+We refine Khintchine Transference Principle which relates the measure of simultaneous rational approximation of an n real numbers with the measure of linear independence of these n numbers. Khintchine's inequalities are known to be optimal. However, they may be sharpened by taking into account two further uniform exponents.

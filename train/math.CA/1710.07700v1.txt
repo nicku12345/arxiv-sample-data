@@ -1,0 +1,1 @@
+We construct an example showing that the upper bound [w]_{A_1}\log({\rm{e}}+[w]_{A_1}) for the L^1(w)\to L^{1,\infty}(w) norm of the Hilbert transform cannot be improved in general.

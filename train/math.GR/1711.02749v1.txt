@@ -1,0 +1,1 @@
+Let P be a finite p-group and p be an odd prime. Let \mathcal{A}_p(P)_{\geq2} be a poset consisting of elementary abelian subgroups of rank at least 2. If the derived subgroup P'\cong C_p\times C_p, then the spheres occurring in \mathcal{A}_p(P)_{\geq2} all have the same dimension.

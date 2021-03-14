@@ -1,0 +1,1 @@
+Let G be a finite group, and let V be a completely reducible faithful G-module. By a result of Glauberman it has been known for a long time that if G is nilpotent of class 2, then |G| < |V|. In this paper we generalize this result as follows. Assuming G to be solvable, we show that the order of the maximal class 2 quotient of G is strictly bounded above by |V|.

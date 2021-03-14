@@ -1,0 +1,1 @@
+Given a connected algebraic group G over an algebraically closed field and a G-homogeneous space X, we describe the Chow ring of G and the rational Chow ring of X, with special attention to the Picard group. Also, we investigate the Albanese and the "anti-affine" fibrations of G and X.

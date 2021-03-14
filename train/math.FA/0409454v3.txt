@@ -1,0 +1,1 @@
+For a locally compact group G, let A(G) denote its Fourier algebra and \hat{G} its dual object, i.e. the collection of equivalence classes of unitary represenations of G. We show that the amenability constant of A(G) is less than or equal to \sup \{\deg(\pi) : \pi \in \hat{G} \} and that it is equal to one if and only if G is abelian.

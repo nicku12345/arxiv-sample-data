@@ -1,0 +1,1 @@
+We show that every finitely generated Artin-Tits group admits a finite Garside family, by introducing the notion of a low element in a Coxeter group and proving that the family of all low elements in a Coxeter system (W, S) with S finite includes S and is finite and closed under suffix and join with respect to the right weak order.

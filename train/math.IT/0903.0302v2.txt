@@ -1,0 +1,1 @@
+We compute the code parameters for binary linear codes obtained by greedy constructing the parity check matrix. Then we show that these codes improve the Gilbert-Varshamov (GV) bound on the code size and rate. This result counter proves the conjecture on the asymptotical exactness of the binary GV bound.

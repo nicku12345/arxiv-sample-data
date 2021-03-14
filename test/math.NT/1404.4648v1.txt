@@ -1,0 +1,1 @@
+Upon quotienting by units, the elements of norm 1 in a number field K form a countable subset of a torus of dimension r_1 + r_2 - 1 where r_1 and r_2 are the numbers of real and pairs of complex embeddings. When K is Galois with cyclic Galois group we demonstrate that this countable set is equidistributed in this torus with respect to a natural partial ordering.

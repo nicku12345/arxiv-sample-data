@@ -1,0 +1,1 @@
+We make a first step towards categorification of the dendriform operad, using categories of modules over the Tamari lattices. This means that we describe some functors that correspond to part of the operad structure.

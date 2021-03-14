@@ -1,0 +1,1 @@
+We give the full structure of the Ext algebra of a Nichols algebra of type A_2 by using the Hochschild-Serre spectral sequence. As an application, we show that the pointed Hopf algebras u(\mathcal{D}, \lmd, \mu) with Dynkin diagrams of type A, D, or E, except for A_1 and A_1\times A_1 with the order N_{J}>2 for at least one component J, are wild.

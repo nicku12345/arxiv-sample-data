@@ -1,0 +1,1 @@
+Let \mathcal{F} be a codimension one holomorphic foliation in \mathbb{P}^n, n\geq 2, leaving invariant a real-analytic Levi-flat hypersurface M with regular part M^{*}. Then every leaf of \mathcal{F} outside \overline{M^{*}} accumulates in \overline{M^{*}}.

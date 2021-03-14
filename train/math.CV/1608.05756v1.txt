@@ -1,0 +1,1 @@
+We demonstrate that being a hyperbolicity preserver does not imply monotonicity for infinite order differential operators on \mathbb{R}[x], thereby settling a recent conjecture in the negative. We also give some sufficient conditions for such operators to be monotone.

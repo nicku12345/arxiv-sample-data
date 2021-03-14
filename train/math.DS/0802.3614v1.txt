@@ -1,0 +1,1 @@
+The paper provides full algorithmic details on switching to the continuation of all possible codim 1 cycle bifurcations from generic codim 2 equilibrium bifurcation points in n-dimensional ODEs. We discuss the implementation and the performance of the algorithm in several examples, including an extended Lorenz-84 model and a laser system.

@@ -1,0 +1,1 @@
+There is a forgetful functor from the category of generalized effect algebras to the category of effect algebras. We prove that this functor is a right adjoint and that the corresponding left adjoint is the well-known unitization construction by Hedl\'ikov\'a and Pulmannov\'a. Moreover, this adjunction is monadic.

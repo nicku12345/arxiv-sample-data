@@ -1,0 +1,1 @@
+Consider two perfectly conducting spheres in a homogeneous medium where the current-electric field relation is the power law. Electric field blows up in the L-infinity norm as the distance between the conductors tends to zero. We give here a concise rigorous justification of the rate of this blow-up in terms of the distance between the conductors.

@@ -1,0 +1,1 @@
+If P is an algebraic point on a commutative group scheme A/K, then P is _almost_rational_ if no two non-trivial Galois conjugates sigma(P), tau(P), have sum equal to 2P. In this paper, we classify almost rational torsion points on semistable elliptic curves over Q.

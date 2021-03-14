@@ -1,0 +1,1 @@
+We prove edge universality of local eigenvalue statistics for orthogonal invariant matrix models with real analytic potentials and one interval limiting spectrum. Our starting point is the result of \cite{S:08} on the representation of the reproducing matrix kernels of orthogonal ensembles in terms of scalar reproducing kernel of corresponding unitary ensemble.

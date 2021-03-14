@@ -1,0 +1,1 @@
+We prove that if one wants to make a plane graph drawing straight-line then in the worst case one has to move almost all vertices.

@@ -1,0 +1,1 @@
+There is a relatively well-known description of the algebra of (higher order) left differential operators on commutative algebras. This note gives a construction of similar flavor for algebras of differential operators on not necessarily commutative algebras.

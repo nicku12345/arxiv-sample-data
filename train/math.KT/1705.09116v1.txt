@@ -1,0 +1,1 @@
+We show that in Grayson's model of higher algebraic K-theory using binary acyclic complexes, the complexes of length two suffice to generate the whole group. Moreover, we prove that the comparison map from Nenashev's model for K_1 to Grayson's model for K_1 is an isomorphism. It follows that algebraic K-theory of exact categories commutes with infinite products.

@@ -1,0 +1,1 @@
+In this note we exhibit a very simple proof of McNaughton Theorem, almost right out of the definitions, and at the same time we observe that this theorem does not depend of Chang's completeness theorem.

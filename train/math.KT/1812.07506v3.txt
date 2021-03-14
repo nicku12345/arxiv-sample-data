@@ -1,0 +1,1 @@
+We prove a topological invariance statement for the Morel-Voevodsky motivic homotopy category, up to inverting exponential characteristics of residue fields. This implies in particular that SH[1/p] of characteristic p>0 schemes is invariant under passing to perfections. Among other applications we prove Grothendieck-Verdier duality in this context.

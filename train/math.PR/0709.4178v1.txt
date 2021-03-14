@@ -1,0 +1,1 @@
+We revisit the work of Bourgain, Kahn, Kalai, Katznelson and Linial (1992) -- referred to as ``BKKKL'' in the title -- about influences on Boolean functions in order to give a precise statement of threshold phenomenon on the product space \{1,..., r\}^\NN, generalizing one of the main results of a paper by Talagrand (1994).

@@ -1,0 +1,1 @@
+We lift the lattice of translations in the extended affine Weyl group to a braid group action on the quantum affine algebra. This action fixes the Heisenberg subalgebra pointwise. Loop like generators are found for the algebra which satisfy the relations of Drinfel'd's new realization. Coproduct formulas are given and a PBW type basis is constructed.

@@ -1,0 +1,1 @@
+Scharlemann constructed a connected simplicial 2-complex \Gamma with an action by the group {\mathcal H_{2}} of isotopy classes of orientation preserving homeomorphisms of S^3 that preserve the isotopy class of an unknotted genus 2 handlebody V. In this paper we prove that the 2-complex \Gamma is contractible. Therefore we get a finite presentation of {\mathcal H_{2}}.

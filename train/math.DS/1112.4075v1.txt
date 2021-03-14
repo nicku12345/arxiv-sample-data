@@ -1,0 +1,1 @@
+We consider a conservative system with small periodic perturbations under the assumption that the divergence of the perturbed system is negative. The main theorems provide universal sufficient conditions for the existence and asymptotic stability of periodic solutions that apply regardless of whether the zeros of the bifurcation function are simple or not.

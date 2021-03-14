@@ -1,0 +1,1 @@
+Let \Gamma denote a distance-regular graph with classical parameters (D, b, \alpha, \beta) and D\geq 3. Assume the intersection numbers a_1=0 and a_2\not=0. We show \Gamma is 3-bounded in the sense of the article [D-bounded distance-regular graphs, European Journal of Combinatorics(1997)18, 211-229].

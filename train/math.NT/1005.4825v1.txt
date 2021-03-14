@@ -1,0 +1,1 @@
+We reduce a study of polarized abelian varieties over finite fields to the classification problem of skew-Hermitian modules over (possibly non-maximal) local orders. The main result of this paper gives a complete classification of these skew-Hermitian modules in the case when the ground ring is a dyadic non-maximal local order.

@@ -1,0 +1,1 @@
+The global classical solution to the incompressible Navier-Stokes-Fourier equation with small initial data in the whole space is constructed through a zero Knudsen number limit from the solutions to the Boltzmann equation with general collision kernels. The key point is the uniform estimate of the Sobolev norm on the global solutions to the Boltzmann equation.

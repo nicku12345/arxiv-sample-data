@@ -1,0 +1,1 @@
+For R=Q/J with Q a commutative graded algebra over a field and J non-zero, we relate the slopes of the minimal resolutions of R over Q and of k=R/R_{+} over R. When Q and R are Koszul and J_1=0 we prove Tor^Q_i(R,k)_j=0 for j>2i, for each non-negative integer i, and also for j=2i when i>dim Q-dim R and pd_QR is finite.

@@ -1,0 +1,1 @@
+The highest possible minimal norm of a unimodular lattice is determined in dimensions n <= 33. There are precisely five odd 32-dimensional lattices with the highest possible minimal norm (compared with more than 8*10^20 in dimension 33). Unimodular lattices with no roots exist if and only if n >= 23, n not = 25.

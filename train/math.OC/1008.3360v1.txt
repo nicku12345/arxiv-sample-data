@@ -1,0 +1,1 @@
+An optimal control problem for semilinear parabolic partial differential equations is considered. The control variable appears in the leading term of the equation. Necessary conditions for optimal controls are established by the method of homogenizing spike variation. Results for problems with state constraints are also stated.

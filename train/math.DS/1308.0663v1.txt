@@ -1,0 +1,1 @@
+It is proved that if G=G_1*_{G_3}G_2 is free product of probability measure preserving s-regular ergodic discrete groupoids amalgamated over an amenable subgroupoid G_3, then the sofic dimension s(G) satisfies the equality \[ s(G)=\h(G_1^0)s(G_1)+\h(G_2^0)s(G_2)-\h(G_3^0)s(G_3) \] where \h is the normalized Haar measure on G.

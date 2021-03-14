@@ -1,0 +1,1 @@
+Let \A and \B be unital Banach algebras and \phi\colon\A\to\B be a unital continuous homomorphism. We prove that if \phi is relatively spectral (i.e., there is a dense subalgebra X of \A such that \sp_\B(\phi(a))=\sp_\A(a) for every a\in X) and has dense range, then \phi induces monomorphisms from K_i(\A) to K_i(\B), i=0,1.

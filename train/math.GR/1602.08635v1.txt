@@ -1,0 +1,1 @@
+We prove that every finitely-generated right-angled Artin group can be embedded into some Brin-Thompson group nV. It follows that many other groups can be embedded into some nV (e.g., any finite extension of any of Haglund and Wise's special groups), and that various decision problems involving subgroups of nV are unsolvable.

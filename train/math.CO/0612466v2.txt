@@ -1,0 +1,1 @@
+In this article, we consider the factor complexity of a fixed point of a primitive substitution canonically defined by a beta-numeration system. We provide a necessary and sufficient condition on the Renyi expansion of 1 for having an affine factor complexity map C(n), that is, such that C(n)=an+b for any integer n.

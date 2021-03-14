@@ -1,0 +1,1 @@
+We prove that (\Z,+,0) has no proper superstable expansions of finite Lascar rank. Nevertheless, this structure equipped with a predicate defining powers of a given natural number is superstable of Lascar rank \omega. Additionally, our methods yield other superstable expansions such as (\Z,+,0) equipped with the set of factorial elements.

@@ -1,0 +1,1 @@
+For a monadic sentence psi in the finite vocabulary we show that the spectra, the set of cardinalities of models of psi is almost periodic under reasonable conditions. The first is that every model is so called ``weakly k-decomposable''. The second is that we restrict ourselves to a nice class of models constructed by some recursion.

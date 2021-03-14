@@ -1,0 +1,1 @@
+In 1987, C. Sabbah proved the existence of Bernstein-Sato polynomials associated with several analytic functions. The purpose of this article is to give a more elementary and constructive proof of the result of C. Sabbah based on the notion of the analytic Grobner fan of a D-module.

@@ -1,0 +1,1 @@
+We show that if H is a quasiconvex subgroup of infinite index in a non-elementary hyperbolic group G then the Schreier coset graph X for G relative to H is non-amenable (that is, X has positive Cheeger constant). We present some corollaries regading the Martin boundary and Martin compactification of X and the co-growth of H in G.

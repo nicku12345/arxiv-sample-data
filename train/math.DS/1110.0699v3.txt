@@ -1,0 +1,1 @@
+In this paper, we introduce topological pressure for continuous actions of countable sofic groups on compact metrizable spaces. This generalizes the classical topological pressure for continuous actions of countable amenable groups on such spaces. We also establish the variational principle for topological pressure in this sofic context.

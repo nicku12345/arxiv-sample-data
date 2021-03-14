@@ -1,0 +1,1 @@
+In this paper, we study the harmonic analysis of Bernoulli measures. We show a variety of orthonormal Fourier bases for the L^2 Hilbert spaces corresponding to certain Bernoulli measures, making use of contractive transfer operators. For other cases, we exhibit maximal Fourier families that are not orthonormal bases.

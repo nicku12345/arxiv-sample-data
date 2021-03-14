@@ -1,0 +1,1 @@
+For a truncated quiver algebra over a field of arbitrary characteristic, its Hochschild cohomology is calculated. Moreover, it is shown that its Hochschild cohomology algebra is finite-dimensional if and only if its global dimension is finite if and only if its quiver has no oriented cycles.

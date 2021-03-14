@@ -1,0 +1,1 @@
+In 1976, D. Voiculescu proved that every separable unital sub-C*-algebra of the Calkin algebra is equal to its (relative) bicommutant. In his minicourse (see reference), G. Pedersen asked in 1988 if Voiculescu's theorem can be extended to a simple corona algebra of a \sigma-unital C*-algebra. In this note, we answer Pedersen's question for a stable \sigma-unital C*-algebra.

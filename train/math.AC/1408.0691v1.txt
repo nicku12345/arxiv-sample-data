@@ -1,0 +1,1 @@
+Over a commutative local Cohen--Macaulay ring, we view and study the category of maximal Cohen--Macaulay modules as a ring with several objects. We compute the global dimension of this category and thereby extend a result of Leuschke to the case where the ring has arbitrary (as opposed to finite) CM-type.

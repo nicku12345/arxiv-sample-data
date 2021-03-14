@@ -1,0 +1,1 @@
+Suppose \delta is a generic immersed closed curve in the boundary of a 3-manifold M and \delta is null-homotopic in M. Then \delta can be displaced by a height function in a collar of the boundary so that the resulting simple closed curve in the collar bounds a disk in M.

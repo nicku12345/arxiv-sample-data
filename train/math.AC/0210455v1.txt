@@ -1,0 +1,1 @@
+This article first presents two examples of algorithms that extracts information on scheme out of its defining equations. We also give a review on the notion of Castelnuovo-Mumford regularity, its main properties (in particular its relation to computational issues) and different ways that were used to estimate it.

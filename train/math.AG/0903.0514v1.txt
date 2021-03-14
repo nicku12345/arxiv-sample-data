@@ -1,0 +1,1 @@
+Let Cr(k) be the Cremona group of rank 2 over a field k, i.e. the group of all k-automorphisms of k(X,Y). We determine the l.c.m. of the orders of the finite subgroups of Cr(k) of order prime to the characteristic of k.

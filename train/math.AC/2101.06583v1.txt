@@ -1,0 +1,1 @@
+Let A, B be polynomial rings over a field k, and I\subseteq A, J\subseteq B proper homogeneous ideals. We analyze the the associated primes of powers of I+J\subseteq A\otimes_k B given the data on the summands. The associated primes of large enough powers of I+J are determined. We then answer positively a question about the persistence property of I+J in many new cases.

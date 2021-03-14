@@ -1,0 +1,1 @@
+Spielman and Teng introduced the smoothed analysis of algorithms to provide a framework in which one could explain the success in practice of algorithms and heuristics that could not be understood through the traditional worst-case and average-case analyses. In this talk, we survey some of the smoothed analyses that have been performed.

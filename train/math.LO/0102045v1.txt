@@ -1,0 +1,1 @@
+We prove that if lambda is a strong limit singular cardinal and kappa a regular uncountable cardinal < lambda, then NS_{kappa lambda}, the non-stationary ideal over P_{kappa} lambda, is nowhere precipitous. We also show that under the same hypothesis every stationary subset of P_{kappa} lambda can be partitioned into lambda^{< kappa} disjoint stationary sets.

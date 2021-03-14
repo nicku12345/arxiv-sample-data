@@ -1,0 +1,1 @@
+A class of n-ary Poisson structures of constant rank is indicated. Then, one proves that the ternary Poisson brackets are exactly those which are defined by a decomposable 3-vector field. The key point is the proof of a lemma which tells that an n-vector (n\geq3) is decomposable iff all its contractions with up to n-2 covectors are decomposable.

@@ -1,0 +1,1 @@
+A set of necessary and sufficient conditions for a sequence of moment generating functions to converge to a moment generating function on an interval (a,b) not necessarily containing 0, is given. The result is derived using recent results by Mukherjea, et al. (2006) and Chareka (2007).

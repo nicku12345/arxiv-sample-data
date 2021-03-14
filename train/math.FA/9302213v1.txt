@@ -1,0 +1,1 @@
+We prove that if PT is a factorization of the identity operator on \ell_p^n through \ell_{\infty}^k, then ||P|| ||T|| \geq Cn^{1/p-1/2}(log n)^{-1/2}. This is a corollary of a more general result on factoring the identity operator on a quasi-normed space through \ell_{\infty}^k.

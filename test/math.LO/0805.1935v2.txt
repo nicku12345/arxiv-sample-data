@@ -1,0 +1,1 @@
+This is the second paper in a sequence on Krull dimension for limit groups, answering a question of Z. Sela. In it we develop the notion of a resolution of a sequence of limit groups and show how to derive resolutions of low complexity from resolutions of high complexity.

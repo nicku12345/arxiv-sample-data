@@ -1,0 +1,1 @@
+Motivated by the description of the C*-algebra of the affine automorphism group N_{6,28} of the Siegel upper half-plane of degree 2 as an algebra of operator fields defined over the unitary dual \widehat{N_{6,28}} of the group, we introduce a family of C*-algebras, which we call almost C_0(\mathcal{K}), and we show that the C*-algebra of the group N_{6,28} belongs to this class.

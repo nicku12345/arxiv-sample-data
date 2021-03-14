@@ -1,0 +1,1 @@
+In this paper we provide some exact formulas for the projective dimension and the regularity of edge ideals associated to three special types of vertex-weighted oriented m-partite graphs. These formulas are functions of the weight and number of vertices. We also give some examples to show that these formulas are related to direction selection and the weight of vertices.

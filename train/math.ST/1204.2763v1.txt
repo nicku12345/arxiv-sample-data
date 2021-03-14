@@ -1,0 +1,1 @@
+We compute a variance lower bound for unbiased estimators in specified statistical models. The construction of the bound is related to the original Cram\'er-Rao bound, although it does not require the differentiability of the model. Moreover, we show our efficiency bound to be always greater than the Cram\'er-Rao bound in smooth models, thus providing a sharper result.

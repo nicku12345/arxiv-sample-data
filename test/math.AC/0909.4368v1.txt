@@ -1,0 +1,1 @@
+We consider a class of graphs G such that the height of the edge ideal I(G) is half of the number \sharp V(G) of the vertices. We give Cohen-Macaulay criteria for such graphs.

@@ -1,0 +1,1 @@
+We prove that in NTP_2 theories if p is a dependent type with dp-rank >= \kappa, then this can be witnessed by indiscernible sequences of tuples satisfying p. If p has dp-rank infinity, then this can be witnessed by singletons (in any theory).

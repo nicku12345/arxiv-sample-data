@@ -1,0 +1,1 @@
+We present a method of obtaining a lower bound estimate of the curvatures of the Bergman metric without using the regularity of the kernel function on the boundary. As an application, we prove the existence of an uniform lower bound of the bisectional curvatures of the Bergman metric of a smooth bounded pseudoconvex domain near the boundary with constant Levi rank.

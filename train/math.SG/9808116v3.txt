@@ -1,0 +1,1 @@
+I repeat my definition for quantization of a vector bundle. For the case of Toeplitz and geometric quantization of a compact Kaehler Manifold, I give a construction for quantizing any smooth vector bundle which depends functorially on a choice of connection on the bundle.

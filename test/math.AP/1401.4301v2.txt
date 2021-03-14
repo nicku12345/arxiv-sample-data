@@ -1,0 +1,1 @@
+We consider weak stationary solutions to the incompressible Euler equations and show that the analogue of the h-principle obtained in [5, 7] for time-dependent weak solutions continues to hold. The key difference arises in dimension d = 2, where it turns out that the relaxation is strictly smaller than what one obtains in the time-dependent case.

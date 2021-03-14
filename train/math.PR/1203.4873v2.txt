@@ -1,0 +1,1 @@
+A stochastic partial differential equation (SPDE) is derived for super-Brownian motion regarded as a distribution function valued process. The strong uniqueness for the solution to this SPDE is obtained by an extended Yamada-Watanabe argument. Similar results are also proved for the Fleming-Viot process.

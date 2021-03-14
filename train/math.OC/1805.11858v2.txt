@@ -1,0 +1,1 @@
+The invariance pressure of continuous-time control systems with initial states in a set K which are to be kept in a set Q is introduced and a number of results are derived, mainly for the case where Q is a control set.

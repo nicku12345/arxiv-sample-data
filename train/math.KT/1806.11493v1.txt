@@ -1,0 +1,1 @@
+We prove that the presentations \langle x,y | [x,y],1 \rangle and \langle x,y | [x,[x,y^{-1}]]^2y[y^{-1},x]y^{-1},[x,[[y^{-1},x],x]] \rangle are not Q^*-equivalent even though their standard complexes have the same simple homotopy type.

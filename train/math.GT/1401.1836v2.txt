@@ -1,0 +1,1 @@
+We explicitly construct pseudo-Anosov maps on the closed surface of genus g with orientable foliations whose stretch factor \lambda is a Salem number with algebraic degree 2g. Using this result, we show that there is a pseudo-Anosov map whose stretch factor has algebraic degree d, for each positive even integer d such that d \leq g.

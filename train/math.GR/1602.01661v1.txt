@@ -1,0 +1,1 @@
+The main result of the paper is the following theorem. Let q be a prime, n a positive integer and A an elementary abelian group of order q^2. Suppose that A acts coprimely on a finite group G and assume that for each a\in A^{\#} every element of C_{G}(a) is n-Engel in G. Then the group G is k-Engel for some \{n,q\}-bounded number k.

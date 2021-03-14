@@ -1,0 +1,1 @@
+We describe the cone of Hilbert functions of artinian graded modules finitely generated in degree 0 over the polynomial ring R = k[x, y] with the non-standard grading deg(x) = 1 and deg(y) = n, where n is any natural number.

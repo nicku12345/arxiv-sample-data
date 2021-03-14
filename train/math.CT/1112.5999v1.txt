@@ -1,0 +1,1 @@
+We propose a definition of involutive categorical bundle (Fell bundle) enriched in an involutive monoidal category and we argue that such a structure is a possible suitable environment for the formalization of different equivalent versions of spectral data for commutative C*-categories.

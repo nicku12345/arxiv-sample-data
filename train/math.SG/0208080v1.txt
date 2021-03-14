@@ -1,0 +1,1 @@
+We introduce a de Rham model for stratified spaces arising from symplectic reduction. It turns out that the reduced symplectic form and its powers give rise to well-defined cohomology classes, even on a singular symplectic quotient.

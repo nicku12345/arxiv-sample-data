@@ -1,0 +1,1 @@
+We prove that all known examples of weakly o-minimal non-valuational structures have no definable Skolem functions. We show, however, that such structures eliminate imaginaries up to (definable families of) definable cuts. Along the way we give some new examples of weakly o-minimal non-valuational structures.

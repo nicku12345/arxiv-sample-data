@@ -1,0 +1,1 @@
+In this paper, we considered the spectrum of the Dirichlet Laplacian \Delta_\epsilon on \Omega_\epsilon=\{(x,y): -l_1<x<l_2, 0<y<\epsilon h(x)]\} where  l_1,l_2>0 and h(x) is a positive analytic function having 0 the only point where it achieves its global maximum M. In particular we studied in details about the full asymptotics of the eigenvalues.

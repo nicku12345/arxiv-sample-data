@@ -1,0 +1,1 @@
+Let M be a square-free integer and let P be a prime not dividing M such that P \sim M^\eta with 0<\eta<2/21. We prove subconvexity bounds for L(\tfrac{1}{2}, f \otimes g) when f and g are two primitive holomorphic cusp forms of levels P and M. These bounds are achieved through an unamplified second moment method.

@@ -1,0 +1,1 @@
+The fucntor I and its derived functor over the complex number field have been playing important roles in representation theory of real reductive Lie groups. In this paper, we discuss the flat base change formulas of the functor I and its derived functor over Noetherian rings. In particular, a flat base change theorem for A_{\mathfrak{q}}(\lambda) is obtained.

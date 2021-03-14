@@ -1,0 +1,1 @@
+We show how to compute the Bergman kernel functions of some special domains in a simple way. As an application of the explicit formulas, we show that the Bergman kernel functions of some convex domains, for instance the domain in C^3 defined by the inequality |z_1|+|z_2|+|z_3|<1, have zeroes.

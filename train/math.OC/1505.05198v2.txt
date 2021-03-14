@@ -1,0 +1,1 @@
+We propose a forward-backward splitting algorithm based on Bregman distances for composite minimization problems in general reflexive Banach spaces. The convergence is established using the notion of variable quasi-Bregman monotone sequences. Various examples are discussed, including some in Euclidean spaces, where new algorithms are obtained.

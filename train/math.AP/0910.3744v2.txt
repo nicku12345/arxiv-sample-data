@@ -1,0 +1,1 @@
+We obtain existence, uniqueness, and stability results for the modified 1-homogeneous infinity Laplace equation \[ -\Delta_\infty u - \beta |Du| = f, \] subject to Dirichlet or mixed Dirichlet-Neumann boundary conditions. Our arguments rely on comparing solutions of the PDE to subsolutions and supersolutions of a certain finite difference approximation.

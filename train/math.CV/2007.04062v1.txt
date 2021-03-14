@@ -1,0 +1,1 @@
+We show that any compact, connected set K in the plane can be approximated by the critical points of a polynomial with two critical values. Equivalently, K can be approximated in the Hausdorff metric by a true tree in the sense of Grothendieck's dessins d'enfants.

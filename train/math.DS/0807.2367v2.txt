@@ -1,0 +1,1 @@
+In this paper, we define codimension one Anosov actions of \RR^k, k\geq 2, on a closed connected orientable manifold M. We prove that if the ambient manifold has dimension greater than k+2, then the action is topologically transitive. This generalizes a result of Verjovsky for codimension one Anosov flows.

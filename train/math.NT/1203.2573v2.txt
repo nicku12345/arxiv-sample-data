@@ -1,0 +1,1 @@
+We prove an upper bound for the L^4-norm and for the L^2-norm restricted to the vertical geodesic of a holomorphic Hecke cusp form of large weight. The method is based on Watson's formula and estimating a mean value of certain L-functions of degree 6. Further applications to restriction problems of Siegel modular forms and subconvexity bounds of degree 8 L-functions are given.

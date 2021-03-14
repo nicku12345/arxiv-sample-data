@@ -1,0 +1,1 @@
+In this paper, we develop a dynamic framework for the modeling and analysis of social networks to work with web documents. We illustrate the model with features of web, design a form to analyze relationships of attributes as a modality of social structure, and create the optimization of generative model based on Bayes Theorem.

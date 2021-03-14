@@ -1,0 +1,1 @@
+In this note, we show that the category of strongly central series admits co-induced actions, which means that it is Locally Algebraically Cartesian Closed. We also show that some co-induction functors exist in the category of topological groups, and that a convenient category of topological groups is LACC.

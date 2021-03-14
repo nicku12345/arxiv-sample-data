@@ -1,0 +1,1 @@
+The polynomials that arise as coefficients when a power series is raised to the power x include many important special cases, which have surprising properties that are not widely known. This paper explains how to recognize and use such properties, and it closes with a general result about approximating such polynomials asymptotically.

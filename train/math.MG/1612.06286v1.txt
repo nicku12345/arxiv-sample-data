@@ -1,0 +1,1 @@
+In the setting of a metric space equipped with a doubling measure that supports a Poincar\'e inequality, we show that a set E is of finite perimeter if and only if \mathcal H(\partial^1 I_E)<\infty, that is, if and only if the codimension one Hausdorff measure of the \emph{1-fine boundary} of the set's measure theoretic interior I_E is finite.

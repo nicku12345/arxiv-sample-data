@@ -1,0 +1,1 @@
+In this paper, we study the Ext-algebras of graded skew extensions. For a connected graded algebra A and a graded automorphism \sigma, we analyze the Yoneda product of the Ext-algebra of graded skew extension A[z;\sigma], and prove this Ext-algebra is an R-smash product of the Ext-algebra of A and the one of polynomial algebra k[z] as an associative algebra.

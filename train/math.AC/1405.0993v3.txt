@@ -1,0 +1,1 @@
+We generalise the Vandermonde determinant identity to one which tests whether a family of hypersurfaces in \bP^n has an unexpected intersection point. The intended application is an asymptotic estimate of the volume of certain spaces of homogeneous polynomials on an embedded projective variety.

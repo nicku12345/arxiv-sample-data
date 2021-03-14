@@ -1,0 +1,1 @@
+We consider the range of a one-parameter family of self-interacting walks on the integers up to the time of exit from an interval. We derive the weak convergence of an appropriately scaled range. We show that the distribution functions of the limits of the scaled range satisfy a certain class of de Rham's functional equations. We examine the regularity of the limits.

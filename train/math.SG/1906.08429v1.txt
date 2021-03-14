@@ -1,0 +1,1 @@
+There is a number of known constructions of quasimorphisms on Hamiltonian groups. We show that on surfaces many of these quasimorphisms are not compatible with the Hofer norm in a sense they are not continuous and not Lipschitz. The only exception known to the author is the Calabi quasimorphism on a sphere and the induced quasimorphisms on genus-zero surfaces.

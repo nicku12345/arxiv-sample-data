@@ -1,0 +1,1 @@
+Mumford proved that psi^g - lambda_1 psi^{g-1} + ... + (-1)^g lambda_g = 0 in the Chow ring of M_{g,1} [Mum83]. We find an explicit recursive formula for psi^g - lambda_1 psi^{g-1} + ... + (-1)^g lambda_g in the tautological ring of \Mbar_{g,1} as a combination of classes supported on boundary strata.

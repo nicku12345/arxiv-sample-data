@@ -1,0 +1,1 @@
+We study the non-wandering set of contracting Lorenz maps. We show that if such a map f doesn't have any attracting periodic orbit, then there is a unique topological attractor. Precisely, there is a compact set \Lambda such that \omega_f(x)=\Lambda for a residual set of points x \in [0,1]. Furthermore, we classify the possible kinds of attractors that may occur.

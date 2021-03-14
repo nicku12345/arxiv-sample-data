@@ -1,0 +1,1 @@
+The automorphism groups for the groups of orders 8p and 8p^2 are given. The calculations were done using the programming language CAYLEY. Explicit presentations for both the groups of these orders and their automorphism groups are given.

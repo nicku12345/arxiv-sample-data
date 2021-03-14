@@ -1,0 +1,1 @@
+The equivariant `main conjecture' of Iwasawa theory is shown to hold for a Galois extension K/k of number fields with Galois group an l-adic pro-l Lie group of dimension 1 containing an abelian subgroup of index l, provided that Iwasawa's \mu-invariant \mu(K/k) vanishes.

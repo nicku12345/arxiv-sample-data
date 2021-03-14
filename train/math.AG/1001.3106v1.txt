@@ -1,0 +1,1 @@
+In this paper we construct a spectral sequence computing a modified version of morphic cohomology of a toric variety (even when it is singular) in terms of combinatorial data coming from the fan of the toric variety.

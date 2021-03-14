@@ -1,0 +1,1 @@
+Taking into account the theoretical results and guidelines given inthis work, we introduce a computational method to construct any 2 step nilpotent quadratic algebra of d generators. Along the work we show that the key of the classification of this class of metric algebras relies on certain families of skewsymmetric matrices. Computational examples for d<=8 will be given.

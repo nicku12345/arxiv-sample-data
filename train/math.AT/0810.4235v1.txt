@@ -1,0 +1,1 @@
+Let p be an odd prime. We show that for a simply-connected semisimple complex linear algebraic group, if its integral homology has p-torsion, the Chern classes do not generate the Chow ring of its classifying space.

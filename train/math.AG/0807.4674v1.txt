@@ -1,0 +1,1 @@
+In this paper, an explanation of the Newton-Peiseux algorithm is given. This explanation is supplemented with well-worked and explained examples of how to use the algorithm to find fractional power series expansions for all branches of a polynomial at the origin.

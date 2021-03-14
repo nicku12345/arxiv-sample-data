@@ -1,0 +1,1 @@
+We associate two linear categories with two objects to a module over the subalgebra of coinvariants of a Hopf-Galois extension, and prove that they are isomorphic. The structure Theorem for cleft extensions, and the Militaru \cStefan lifting Theorem can be obtained using these isomorphisms.

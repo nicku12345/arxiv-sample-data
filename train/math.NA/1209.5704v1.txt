@@ -1,0 +1,1 @@
+In this work we present a simplifyed proof of Kantorovich's Theorem on Newton's Method. This analysis uses a technique which has already been used for obtaining new extensions of this theorem.

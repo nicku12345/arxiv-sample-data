@@ -1,0 +1,1 @@
+Given a general finite group G, we consider several categories built on it, their Grothendieck topologies and resulting sheaf categories. We give an intrinsic new proof to the equivalence of M. Artin between the category of sheaves on the orbit category and that of group representations. Analogous equivalence is established for a class of local categories of G.

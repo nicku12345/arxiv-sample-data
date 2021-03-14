@@ -1,0 +1,1 @@
+We use methods of combinatorial number theory to prove that, for each n>1 and any prime p, some homotopy group \pi_i(SU(n)) contains an element of order p^{n-1+ord_p([n/p]!)}, where ord_p(m) denotes the largest integer \alpha such that p^{\alpha} divides m.

@@ -1,0 +1,1 @@
+We provide a simple proof of a theorem due to Nancy Hingston, asserting that symplectically degenerate maxima of any Hamiltonian diffeomorphism of the standard symplectic 2d-torus are non-isolated contractible periodic points or their action is a non-isolated point of the average-action spectrum. Our argument is based on generating functions.

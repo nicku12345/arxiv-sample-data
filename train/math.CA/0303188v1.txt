@@ -1,0 +1,1 @@
+We prove that the spherical mean of the Fourier transform of the characteristic function of a bounded convex set (without any additional assumptions) or a bounded set with a C^{3/2} boundary decays at infinity at the same rate as the Fourier transform of the characteristic function of the ball.

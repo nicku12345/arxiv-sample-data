@@ -1,0 +1,1 @@
+Given an ideal I in a polynomial ring, we consider the largest monomial subideal contained in I, denoted mono(I). We study mono as an interesting operation in its own right, guided by questions that arise from comparing the Betti tables of I and mono(I). Many examples are given throughout to illustrate the phenomena that can occur.

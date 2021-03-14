@@ -1,0 +1,1 @@
+In this paper we will propose a strategy to prove Goldbach's conjecture: every even integer greater than 2 can be written as the sum of two primes.

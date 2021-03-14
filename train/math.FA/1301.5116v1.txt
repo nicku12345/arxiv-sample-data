@@ -1,0 +1,1 @@
+Using spectral factorization techniques, a method is given by which rational matrix solutions to the Leech equation with rational matrix data can be computed explicitly. This method is based on an approach by J.A. Ball and T.T. Trent, and generalizes techniques from recent work of T.T. Trent for the case of polynomial matrix data.

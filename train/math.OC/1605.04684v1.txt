@@ -1,0 +1,1 @@
+The pole shape optimization of an electromagnet typical of an MRI type application is investigated. We compare the use of different parameterizations of the pole shape and compare the convergence of the optimizations using a discrete variable step length Tabu Search scheme.

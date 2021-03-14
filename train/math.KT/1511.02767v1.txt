@@ -1,0 +1,1 @@
+Let G be a word hyperbolic group. We prove that the algebraic K-theory groups of \dbZ [G], K_n(\dbZ[G]), have finite rank for all n\in \dbZ. For a few classes of groups, we give explicit formulas for the ranks of the algebraic K-theory groups of their group rings.

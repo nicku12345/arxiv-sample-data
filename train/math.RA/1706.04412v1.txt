@@ -1,0 +1,1 @@
+We aim to construct a non-commutative algebraic geometry by using generalised valuations. To this end, we introduce groupoid valuation rings and associate suitable value functions to them. We show that these objects behave rather like their commutative counterparts. Many examples are given and a tentative connections with Dubrovin valuation rings is established.

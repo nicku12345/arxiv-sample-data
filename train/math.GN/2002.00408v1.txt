@@ -1,0 +1,1 @@
+In this paper we introduce a weak version of level and epigraph convergence for level functions on topological spaces. In the particular case of topological groups we are able to define convolutions in the set of level functions and show that any such function is the limit in level and epigraph of robust functions.

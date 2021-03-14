@@ -1,0 +1,1 @@
+In this short note we prove a result that is an extension of an old Olympiad problem and is a very simple variant of the question of finding an approximation for k, where it is a nonzero constant and it satisfies the equation a^k+b^k=c, where a,b,c are all real constants.

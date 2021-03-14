@@ -1,0 +1,1 @@
+Let G be an abelian group and let lambda be the smallest rank of any group whose direct sum with a free group is isomorphic to G. If lambda is uncountable, then G has lambda pairwise disjoint, non-free subgroups. There is an example where lambda is countably infinite and G does not have even two disjoint, non-free subgroups.

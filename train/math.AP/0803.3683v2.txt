@@ -1,0 +1,1 @@
+In this paper, we prove the asymptotic stability of the family of solitons of the Benjamin-Ono equation in the energy space. The proof is based on a Liouville property for solutions close to the solitons for this equation, in the spirit of Martel and Merle (arXiv:0706.1174v2). As a corollary of the proofs, we obtain the asymptotic stability of exact multi-solitons.

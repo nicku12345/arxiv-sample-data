@@ -1,0 +1,1 @@
+This letter proposes a data-driven method for estimating the probability of wind ramping events without exploiting the exact probability distribution function (PDF) of wind power. Actual wind data validates the proposed method.

@@ -1,0 +1,1 @@
+In this paper we analyse local regularity of time-optimal controls and trajectories for an n-dimensional affine control system with a control parameter, taking values in a k-dimensional closed ball. In the case of k equal to n-1, we give sufficient conditions in terms of Lie bracket relations for all optimal controls to be smooth or to have only isolated jump discontinuities.

@@ -1,0 +1,1 @@
+This paper studies contact processes on general countable groups. It is shown that any such contact process has a well-defined exponential growth rate, and this quantity is used to study the process. In particular, it is proved that on any nonamenable group, the critical contact process dies out.

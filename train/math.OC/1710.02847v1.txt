@@ -1,0 +1,1 @@
+This paper provides necessary and sufficient conditions for exponential stabilization of distributed systems affine in control, evolving in a Banach state space, by means of constant controls. An explicit estimate of the convergence speed is obtained under the given constant control. Various applications are provided.

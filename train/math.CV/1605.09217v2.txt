@@ -1,0 +1,1 @@
+For a Cohen-Macaulay ideal of holomorphic functions, we construct by elementary means residue currents whose annihilator is precisely the given ideal. We give two proofs that the currents have the prescribed annihilator, one using the theory of linkage, and another using an explicit division formula involving these residue currents to express the ideal membership.

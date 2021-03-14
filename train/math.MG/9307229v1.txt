@@ -1,0 +1,1 @@
+Let f(d) be the smallest number so that every set in R^d of diameter 1 can be partitioned into f(d) sets of diameter smaller than 1. Borsuk's conjecture was that f(d)\! =\!d\!+\!1. We prove that f(d)\! \ge\! (1.2)^{\sqrt d} for large~d.

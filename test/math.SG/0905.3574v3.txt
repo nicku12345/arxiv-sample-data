@@ -1,0 +1,1 @@
+We introduce the notion of symplectic microfolds and symplectic micromorphisms between them. They form a monoidal category, which is a version of the "category" of symplectic manifolds and canonical relations obtained by localizing them around lagrangian submanifolds in the spirit of Milnor's microbundles.

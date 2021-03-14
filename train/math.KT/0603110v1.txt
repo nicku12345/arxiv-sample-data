@@ -1,0 +1,1 @@
+We provide and study an equivariant theory of group (co)homology of a group G with coefficients in a gamma-equivariant G-module A, when a separate group "gamma" acts on G and A, generalizing the classical Eilenberg-MacLane (co)homology of groups. Relationship with equivariant cohomology of topological spaces is established and application to algebraic K-theory is given.

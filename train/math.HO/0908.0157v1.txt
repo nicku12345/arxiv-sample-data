@@ -1,0 +1,1 @@
+We give two elementary proofs, at a level understandable by students with only pre-calculus knowledge of Algebra, of the well known fact that an irreducible irrational n-th root of a positive rational number cannot be solution of a polynomial of degree less than n with rational coefficients. We also state and prove a few simple consequences.

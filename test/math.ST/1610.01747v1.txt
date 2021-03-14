@@ -1,0 +1,1 @@
+We establish the limiting distribution (in total variation) of the quasi posteriors based on moment conditions, which only partially identify the parameters of interest. Some examples are discussed.

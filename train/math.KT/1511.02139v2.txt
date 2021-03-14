@@ -1,0 +1,1 @@
+We construct exceptional collections of line bundles of maximal length 4 on S=(C \times D)/G which is a surface isogenous to a higher product with p_g=q=0 where G=G(32,27) is a finite group of order 32 having number 27 in the list of Magma library. From these exceptional collections, we obtain new examples of quasiphantom categories as their orthogonal complements.

@@ -1,0 +1,1 @@
+We construct injective hulls and projective covers in categories of generalized uniform hypergraphs which generalizes the constructions in the category of quivers and the category of undirected graphs. While the constructions are not functorial, they are "sub-functorial", meaning they are subobjects of functorial injective and projective refinements.

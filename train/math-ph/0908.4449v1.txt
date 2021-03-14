@@ -1,0 +1,1 @@
+The general spectral boundary value problem framework is utilized to restate boundary value problems of Poincare, Hilbert, and Riemann for harmonic and analytic functions in abstract operator-theoretic terms.

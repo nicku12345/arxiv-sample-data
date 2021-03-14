@@ -1,0 +1,1 @@
+Consider the m-th roots of unity in {\bf C}, where m>0 is an integer. We address the following question: For what values of n can one find n such m-th roots of unity (with repetitions allowed) adding up to zero? We prove that the answer is exactly the set of linear combinations with non-negative integer coefficients of the prime factors of m.

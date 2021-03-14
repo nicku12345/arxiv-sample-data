@@ -1,0 +1,1 @@
+In this article we provide a fast computational method in order to calculate the Moore-Penrose inverse of singular square matrices and of rectangular matrices. The proposed method proves to be much faster and has significantly better accuracy than the already proposed methods, while works for full and sparse matrices.

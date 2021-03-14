@@ -1,0 +1,1 @@
+We prove that the cohomology algebra of elliptic arrangements depends only on the poset of layers. In the particular case of braid elliptic arrangements, we study the cohomology as representation and we compute some Hodge numbers. Finally, we discuss 1-formality for graphic elliptic arrangements.

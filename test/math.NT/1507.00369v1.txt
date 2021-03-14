@@ -1,0 +1,1 @@
+We prove some cases of a conjecture by Farhi on the representation of every positive integer as the sum of three terms of the sequence  \left\lfloor\frac{n^2}{a}\right\rfloor. This is done by generalizing a method used by Farhi in his original paper.

@@ -1,0 +1,1 @@
+Extending the corresponding notion for matrices or bounded linear operators on a Hilbert space we define a generalized Schur complement for a non-negative linear operator mapping a linear space into its dual and derive some of its properties.

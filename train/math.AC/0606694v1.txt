@@ -1,0 +1,1 @@
+This paper partly settles a conjecture of Costa on (n,d)-rings, i.e., rings in which n-presented modules have projective dimension at most d. For this purpose, a theorem studies the transfer of the (n,d)-property to trivial extensions of local rings by their residue fields. It concludes with a brief discussion -backed by original examples- of the scopes and limits of our results.

@@ -1,0 +1,1 @@
+In this paper, we give an algorithm to generate connection formulas of generalized hypergeometric functions {}_p F_{p-1} for degenerated values of parameters. We also show that these connection formulas give a fast method for numerical evaluation of generalized hypergeometric functions near \infty.

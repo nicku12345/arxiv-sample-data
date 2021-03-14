@@ -1,0 +1,1 @@
+We consider a conformal field theory for bosons on the Riemann sphere. Correlation functions are defined as singular limits of functional integrals. The main result is that these amplitudes define transition amplitudes, that is multilinear Hilbert-Schmidt functionals on a fixed Hilbert space.

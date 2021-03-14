@@ -1,0 +1,1 @@
+For each N>=c_d*n^{2d*(d+1)/(d+2)} we prove the existence of a spherical n-design on S^d consisting of N points, where c_d is a constant depending only on d.

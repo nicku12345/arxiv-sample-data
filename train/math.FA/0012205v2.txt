@@ -1,0 +1,1 @@
+It is proved that every linear biseparating map between spaces of vector-valued differentiable functions is a weighted composition map. As a consequence, such a map is always continuous.

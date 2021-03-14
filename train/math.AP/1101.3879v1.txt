@@ -1,0 +1,1 @@
+We give an application of the Crandall-Rabinowitz theorem on local bifurcation to a system of nonlinear parabolic equations with nonlocal reaction and cross-diffusion terms as well as nonlocal initial conditions. The system arises as steady-state equations of two interacting age-structured populations.

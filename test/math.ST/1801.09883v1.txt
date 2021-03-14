@@ -1,0 +1,1 @@
+Different network structures are compiared with respect to degree of robustnes of identification statistical procedures. It is shown that threshold (market) graph, cliques and independent sets in the threshold (market) graphs are preferable network structure from this point of view.

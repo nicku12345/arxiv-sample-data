@@ -1,0 +1,1 @@
+An elementary example shows that the number of zeroes of a component of a solution of a system of linear ordinary differential equations cannot be estimated through the norm of coefficients of the system alone.

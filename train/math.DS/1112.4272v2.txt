@@ -1,0 +1,1 @@
+We study shadowing property for a partially hyperbolic diffeomorphism f. It is proved that if f is dynamically coherent then any pseudotrajectory can be shadowed by a pseudotrajectory with "jumps" along the central foliation. The proof is based on the Tikhonov-Shauder fixed point theorem.

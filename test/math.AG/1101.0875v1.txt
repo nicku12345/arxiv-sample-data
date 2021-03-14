@@ -1,0 +1,1 @@
+The quintic-mirror family is a well-known one-parameter family of Calabi-Yau threefolds. A complete description of the global monodromy group of this family is not yet known. In this paper, we give a presentation of the global monodromy group in the general linear group of degree 4 over the ring of integers modulo 5.

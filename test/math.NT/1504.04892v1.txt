@@ -1,0 +1,1 @@
+Let p_1\equiv p_2\equiv5 \pmod8 be prime numbers such that \left(\frac{p_1}{p_2}\right)=-1. Let \mathbb{L}=Q(\sqrt2, \sqrt{p_1p_2}) Our goal is to resolve the equation X^2-\varepsilon_2\varepsilon_{p_1p_2}\varepsilon_{2p_1p_2}=0 in \mathbb{L}, where \varepsilon_j are fundamental units of real quadratic subfields of Q(\sqrt2, \sqrt{p_1p_2}).

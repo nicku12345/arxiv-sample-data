@@ -1,0 +1,1 @@
+We study linear and hermitian representations of finite C_2-graded groups. We prove that the category of linear representations is equivalent to a category of antilinear representations as an \infty-category. We also prove that the category hermitian representations, as an \infty-category, is equivalent to a category of usual representations.

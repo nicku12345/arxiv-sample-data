@@ -1,0 +1,1 @@
+McMorris and Powers proved an Arrow-type theorem on phylogenies given as collections of quartets. There is an error in one of the main lemmas used to prove this theorem. However, this lemma (and thereby the theorem) is still true, and a correct proof is provided.

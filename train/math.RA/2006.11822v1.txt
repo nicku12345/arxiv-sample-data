@@ -1,0 +1,1 @@
+Qinghai Huo, Yong Li, Guangbin Ren described the structure of left \mathbb{O}-modules in great detail in arXiv:1911.08282. However, they left open a question on cyclic left \mathbb{O}-modules. This note intends to close this gap and provide a complete description of bimodules.

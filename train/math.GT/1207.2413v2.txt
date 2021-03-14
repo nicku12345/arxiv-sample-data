@@ -1,0 +1,1 @@
+In [BF12] the authors associated to a knot K an invariant n_R(K) which is defined using the Blanchfield form and which gives a lower bound on the unknotting number. In this paper we express n_R(K) in terms of Levine-Tristram signatures and nullities of K. In the proof we also show that the Blanchfield form with real coefficients is diagonalizable.

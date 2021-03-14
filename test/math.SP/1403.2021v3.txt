@@ -1,0 +1,1 @@
+We obtain an order sharp estimate for the distance from a given bounded operator A on a Hilbert space to the set of normal operators in terms of \|[A,A^*]\| and the distance to the set of invertible operators. A slightly modified estimate holds in a general C^*-algebra of real rank zero.

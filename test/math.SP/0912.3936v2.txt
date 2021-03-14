@@ -1,0 +1,1 @@
+We discuss quantum graphs consisting of a compact part and semiinfinite leads. Such a system may have embedded eigenvalues if some edge lengths in the compact part are rationally related. If such a relation is perturbed these eigenvalues may turn into resonances; we analyze this effect both generally and in simple examples.

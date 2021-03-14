@@ -1,0 +1,1 @@
+We combinatorially prove that the number R(n,k) of permutations of length n having k runs is a log-concave sequence in k, for all n. We also give a new combinatorial proof for the log-concavity of the Eulerian numbers.

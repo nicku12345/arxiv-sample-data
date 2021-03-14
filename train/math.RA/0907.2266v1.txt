@@ -1,0 +1,1 @@
+Let R be a 2-torsion free \sigma-prime ring, U a nonzero square closed \sigma-Lie ideal of R and let d be a derivation of R. In this paper it is shown that:   1) If d is centralizing on U, then d = 0 or U \subseteq Z(R).   2) If either d([x, y]) = 0 for all x, y \in U, or [d(x), d(y)] = 0 for all x, y \in U and d commutes with \sigma on U, then d = 0 or U \subseteq Z(R).

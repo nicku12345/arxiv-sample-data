@@ -1,0 +1,1 @@
+In this paper, we prove that if I\subset S:=K[x_1,...,x_n] is a monomial ideal then I and S/I satisfy the Stanley conjecture when I has a small number of generators, with respect to \depth(S/I) and \max\{|P|:\;P\in\Ass(S/I)\}. In particular, if I be a monomial almost complete intersection ideal in S, then Stanley's Conjecture holds for S/I and I.

@@ -1,0 +1,1 @@
+We study the existence problem of proper actions of SL(2,R) on homogeneous spaces G/H of reductive type. Based on Kobayashi's properness criterion [Math. Ann. (1989)], we show that G/H admits a proper SL(2,R)-action via G if a maximally split abelian subspace of Lie H is included in the wall defined by a restricted root of Lie G. We also give a number of examples of such G/H.

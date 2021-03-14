@@ -1,0 +1,1 @@
+We show that the limiting distributions of the coefficients of the q-Catalan numbers and the generalized q-Catalan numbers are normal. Despite the fact that these coefficients are not unimodal for small n, we conjecture that for sufficiently large n, the coefficients are unimodal and even log-concave except for a few terms of the head and tail.

@@ -1,0 +1,1 @@
+We present a general new method for constructing pointwise ergodic sequences on countable groups, which is applicable to amenable as well as to non-amenable groups and treats both cases on an equal footing. The principle underlying the method is that both cases can be viewed as instances of the general ergodic theory of amenable equivalence relations.

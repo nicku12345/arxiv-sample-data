@@ -1,0 +1,1 @@
+We prove the norm identity \|\Id+T\| =1+\|T\|, which is known as the Daugavet equation, for weakly compact operators T on natural function spaces such as function algebras and L^{1}-predual spaces, provided a non-discreteness assumption is met. We also consider c_{0}-factorable operators and operators on C_{\Lambda}-spaces.

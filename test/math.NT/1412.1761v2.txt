@@ -1,0 +1,1 @@
+We present various constructions of sequences of polynomials satisfying the Binomial Theorem in finite characteristic based on the theory of additive polynomials. Various actions on these constructions are also presented. It is an open question whether we then have accounted for all sequences in finite characteristic which satisfy the Binomial Theorem.

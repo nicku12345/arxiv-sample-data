@@ -1,0 +1,1 @@
+This is an expository paper designed to introduce undergraduates to the Atiyah-Singer index theorem 50 years after its announcement. It includes motivation, a statement of the theorem, an outline of the easy part of the heat equation proof. It includes counting lattice points and knot concordance as applications.

@@ -1,0 +1,1 @@
+Let \sum_{n\in N^d} f_{n_1, ..., n_d} x_1^{n_1}... x_d^{n_d} be a multivariate generating function that converges in a neighborhood of the origin of C^d. We present a new, multivariate method for computing the asymptotics of the diagonal coefficients f_{a_1n,...,a_dn} and show its superiority over the standard, univariate diagonal method.

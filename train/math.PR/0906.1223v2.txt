@@ -1,0 +1,1 @@
+We prove the Wiener-Hopf factorization for Markov Additive processes. We derive also Spitzer-Rogozin theorem for this class of processes which serves for obtaining Kendall's formula and Fristedt representation of the cumulant matrix of the ladder epoch process. Finally, we also obtain the so-called ballot theorem.

@@ -1,0 +1,1 @@
+We use coefficient systems on the affine Bruhat-Tits building to study admissible representations of reductive p-adic groups in characteristic not equal to p. We show that the character function is locally constant and provide explicit neighbourhoods of constancy. We estimate the growth of the subspaces of invariants for compact open subgroups.

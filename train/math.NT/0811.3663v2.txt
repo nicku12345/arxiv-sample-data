@@ -1,0 +1,1 @@
+We refine a recent result of Parsell on the values of the form \lambda_1p_1 + \lambda_2p_2 + \mu_1 2^{m_1} + ...m + \mu_s 2^{m_s},  where p_1,p_2 are prime numbers, m_1,...c, m_s are positive integers, \lambda_1 / \lambda_2 is negative and irrational and \lambda_1 / \mu_1, \lambda_2/\mu_2 \in \Q.

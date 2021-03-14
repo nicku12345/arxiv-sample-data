@@ -1,0 +1,1 @@
+Let G be a plane graph with maximum face size D. If all faces of G with size four or more are vertex disjoint, then G has a cyclic coloring with D+1 colors, i.e., a coloring such that all vertices incident with the same face receive distinct colors.

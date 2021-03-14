@@ -1,0 +1,1 @@
+{\AA} Pleijel has proved that in the case of the Laplacian on the square with Neumann condition, the equality in the Courant nodal theorem (Courant sharp situation) can only be true for a finite number of eigenvalues. We identify five Courant sharp eigenvalues for the Neumann Laplacian in the square, and prove that there are no other cases.

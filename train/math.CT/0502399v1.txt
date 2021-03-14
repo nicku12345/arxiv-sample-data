@@ -1,0 +1,1 @@
+A quantum groups of type A is defined in terms of a Hecke symmetry. We show in this paper that the representation category of such a quantum group is uniquely determined as an abelian braided monoidal category by the bi-rank of the Hecke symmetry.

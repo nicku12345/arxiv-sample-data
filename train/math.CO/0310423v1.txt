@@ -1,0 +1,1 @@
+We show that the number of acyclic directed graphs with n labeled vertices is equal to the number of n X n (0,1)-matrices whose eigenvalues are positive real numbers.

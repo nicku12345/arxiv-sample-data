@@ -1,0 +1,1 @@
+We calculate the higher derivatives of length functions on Teichmuller space along earthquake deformations. This generalizes the cosine formula for the first derivative by Kerckhoff and Wolpert and the sine formula for second derivative by Wolpert.

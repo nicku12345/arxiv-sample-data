@@ -1,0 +1,1 @@
+We shall prove that under some volume growth condition, the essential spectrum of the Laplacian contains the interval [(n-1)^2K/4, \infty) if an n-dimensional Riemannian manifold has an end and the average of the part of the Ricci curvature on the end which lies below a nonpositive constant (n-1)K converges to zero at infinity.

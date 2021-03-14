@@ -1,0 +1,1 @@
+In this paper we construct combinatorial bases of Feigin-Stoyanovsky's type subspaces of standard modules for level k affine Lie algebra C_\ell^{(1)}. We prove spanning by using annihilating field x_\theta (z)^{k+1} of standard modules. In the proof of linear independence we use simple currents and intertwinining operators whose existence is given by fusion rules.

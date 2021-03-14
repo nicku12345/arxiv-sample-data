@@ -1,0 +1,1 @@
+Some Pfaffian manifolds admit the construction of an associated Weyl line-bundle in which the lift of the Pfaffian structure defines a 2-form which is basic. We identify the conditions under which this construction is possible, implement it, and investigate some properties of the foliated structure of these special manifolds and of their canonical flows.

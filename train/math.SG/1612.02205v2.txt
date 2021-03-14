@@ -1,0 +1,1 @@
+In this paper, we prove that every graphical hypersurface in a prequantization bundle over a symplectic manifold M, pinched between two circle bundles whose ratio of radii is less than \sqrt{2} carries either one short simple periodic orbit or carries at least \operatorname{cuplength}(M)+1 simple periodic Reeb orbits.

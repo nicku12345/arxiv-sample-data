@@ -1,0 +1,1 @@
+In 2002 Dimitar Dimitrov posted the problem of finding the optimal polynomials that provide the sharpness of Koebe Quarter Theorem for polynomials and asked whether Suffridge polynomials are optimal ones. We disproved Dimitrov's conjecture for polynomials of degree 3,4,5 and 6. For polynomials of degree 1 and 2 the conjecture is valid.

@@ -1,0 +1,1 @@
+We develop a factorization method for q-Racah polynomials. It is inspired to the approach to q-Hahn polynomials based on the q-Johnson scheme but we do not use association scheme theory nor Gel'fand pairs, but only manipolation of q-difference operators.

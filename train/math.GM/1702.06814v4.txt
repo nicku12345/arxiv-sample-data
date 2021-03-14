@@ -1,0 +1,1 @@
+Let E be an elliptic curve of rank \text{rk}(E) \geq 1, and let E(\mathbb{F}_p) be the elliptic group of order \#E(\mathbb{F}_p)=n. The number of primes p\leq x such that n is prime is expected to be \pi(x,E)=\delta(E)x/\log^2 x+o(x/\log^2 x), where \delta(E)\geq 0 is the density constant. This note proves a lower bound \pi(x,E) \gg x/\log^2 x.

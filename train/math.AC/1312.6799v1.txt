@@ -1,0 +1,1 @@
+Let A be a direct limit of a direct system of Cohen-Macaulay rings. In this paper, we describe the Cohen-Macaulay property of A. Our results indicate that A is not necessarily Cohen-Macaulay. We show A is Cohen-Macaulay under various assumptions. As an application, we study Cohen-Macaulayness of non-affine normal semigroup rings.

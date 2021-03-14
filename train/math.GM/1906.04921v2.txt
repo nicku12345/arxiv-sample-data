@@ -1,0 +1,1 @@
+Derivative of a function can be expressed in terms of integration over a small neighborhood of the point of differentiation, so-called differentiation by integration method. In this text a maximal generalization of existing results which use one-dimensional integrals is presented together with some interesting non-analytic weight functions.

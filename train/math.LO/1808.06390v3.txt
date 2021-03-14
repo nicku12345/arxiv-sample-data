@@ -1,0 +1,1 @@
+Assuming the existence of a strong cardinal \kappa, a weakly compact cardinal \lambda above it and \gamma > \lambda, we force a generic extension in which \kappa is a singular strong limit cardinal of any given cofinality \delta, 2^\kappa\geq \gamma and such that the tree property holds at \kappa^{++}.

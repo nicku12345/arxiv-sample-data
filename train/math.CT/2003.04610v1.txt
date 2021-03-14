@@ -1,0 +1,1 @@
+We develop a bicategorical setup in which one can speak about adjoint 1-morphisms even in the absence of genuine identity 1-morphisms. We also investigate which part of 2-representation theory of 2-categories extends to this new setup.

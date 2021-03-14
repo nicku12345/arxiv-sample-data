@@ -1,0 +1,1 @@
+In this paper we introduce and discuss some classes of orthogonal polynomials in several non-commuting variables. The emphasis is on a non-commutative version of the orthogonal polynomials on the real line. We introduce recurrence equations for these polynomials, Christoffel-Darboux formulas, and Jacobi type matrices.

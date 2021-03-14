@@ -1,0 +1,1 @@
+This is an expository article on the theory of algebraic stacks. After introducing the general theory, we concentrate in the example of the moduli stack of vector budles, giving a detailed comparison with the moduli scheme obtained via geometric invariant theory.

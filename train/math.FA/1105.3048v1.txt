@@ -1,0 +1,1 @@
+We show that there exists a sequence \{n_k, k\ge 1\} growing at least geometrically such that for any finite non-negative measure \nu such that \hat \nu\ge 0, any T>0,  \int_{-2^{n_k} T}^{2^{n_k} T} \hat \nu(x) \dd x \ll_\e T\,2^{2^{(1+\e)n_k}} \int_\R \Big|{\sin {xT} \over xT} \Big|^{n_k^2} \nu(\dd x). 

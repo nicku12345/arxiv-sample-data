@@ -1,0 +1,1 @@
+In this paper we study the existence and multiplicity of homoclinic solutions for the second order Hamiltonian system \ddot{u}-L(t)u(t)+W_u(t,u)=0, \forall t\in\mathbb{R}, by means of the minmax arguments in the critical point theory, where L(t) is unnecessary uniformly positively definite for all t\in \mathbb{R} and W_u(t, u) sastisfies the asymptotically linear condition.

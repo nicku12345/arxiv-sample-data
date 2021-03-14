@@ -1,0 +1,1 @@
+The Monty Hal problem is an attractive puzzle. It combines simple statement with answers that seem surprising to most audiences. The problem was thoroughly solved over two decades ago. Yet, more recent discussions indicate that the solution is incompletely understood. Here, we review the solution and discuss pitfalls and other aspects that make the problem interesting.

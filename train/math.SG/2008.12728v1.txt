@@ -1,0 +1,1 @@
+We show, under an orientation hypothesis, that a log symplectic manifold with simple normal crossing singularities has a stable almost complex structure, and hence is Spin_c. In the compact Hamiltonian case we prove that the index of the Spin_c Dirac operator twisted by a prequantum line bundle satisfies a [Q,R]=0 theorem.

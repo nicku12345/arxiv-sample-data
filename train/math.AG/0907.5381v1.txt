@@ -1,0 +1,1 @@
+A conjecture of Beauville and Voisin states that for an irreducible symplectic variety X, any polynomial relation between classes of divisors and the Chern classes of X which holds in cohomology already holds in the Chow groups. We verify the conjecture for a very general double EPW sextic.

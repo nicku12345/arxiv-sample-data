@@ -1,0 +1,1 @@
+We examine the total number of collisions C_n in the \Lambda-coalescent process which starts with n particles. A linear growth and a stable limit law for C_n are shown under the assumption of a power-like behaviour of the measure \Lambda near 0 with exponent 0<\alpha<1.

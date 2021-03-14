@@ -1,0 +1,1 @@
+We prove that the fundamental group functor from categorical Galois theory may be computed as a Kan extension.

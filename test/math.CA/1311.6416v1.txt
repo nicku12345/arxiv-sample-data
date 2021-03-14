@@ -1,0 +1,1 @@
+We propose an analytic proof of the Malgrange-Sibuya theorem concerning a sufficient condition of the convergence of a formal power series satisfying an ordinary differential equation. The proof is based on the majorant method and allows to estimate the radius of convergence of such a series.

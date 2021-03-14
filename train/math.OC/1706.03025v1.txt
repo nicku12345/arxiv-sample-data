@@ -1,0 +1,1 @@
+Notions of invariance pressure for control systems are introduced based on weights for the control values. The equivalence is shown between inner invariance pressure based on spanning sets of controls and on invariant open covers, respectively. Furthermore, a number of properties of invariance pressure are derived and it is computed for a class of linear systems.

@@ -1,0 +1,1 @@
+In this paper, we study finite symplectic actions on K3 surfaces X, i.e. actions of finite groups G on X which act on H^{2,0}(X) trivially. We show that the action on the K3 lattice H^2(X,Z) induced by a symplectic action of G on X depends only on G up to isomorphism, except for five groups.

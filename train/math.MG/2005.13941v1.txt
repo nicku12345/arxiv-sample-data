@@ -1,0 +1,1 @@
+We prove that for every reversible conical bicombing \sigma on a metric space X, there exists a conical bicombing on the injective hull of X that extends \sigma. We also establish a Descombes-Lang type result stating that every proper metric space with a conical bicombing admits a consistent bicombing satisfying certain convexity conditions.

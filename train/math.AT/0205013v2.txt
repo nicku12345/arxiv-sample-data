@@ -1,0 +1,1 @@
+Let G be either a finite cyclic group of prime order or S^1. We find new relations between cohomology of a manifold (or a Poincare duality space) M with a G-action on it and cohomology of the fixed point set, M^G. Our main tool is the notion of Poincare duality on the Leray spectral sequence of the map M_G -> BG. We apply our results to study group actions on 3-manifolds.

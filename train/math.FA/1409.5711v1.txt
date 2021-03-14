@@ -1,0 +1,1 @@
+We provide several perturbation theorems regarding closable operators on a real or complex Hilbert space. In particular we extend some classical results due to Hess--Kato, Kato--Rellich and W\"ust. Our approach involves ranges of matrix operators of the form \left(\begin{array}{cc}\!\! I & A\!\!\\ \!\! -B& I\!\!\end{array}\right).

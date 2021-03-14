@@ -1,0 +1,1 @@
+We show that there exist k-neighborly centrally symmetric d-dimensional polytopes with 2(n+d) vertices, where k(d,n)=Theta(d/(1+log ((d+n)/d))). We also show that this bound is tight.

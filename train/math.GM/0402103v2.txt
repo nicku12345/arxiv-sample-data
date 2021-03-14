@@ -1,0 +1,1 @@
+This paper gives an elementary proof of the result that the conjugacy classes of pairs (X,Y) of unimodular 2x2 complex matrices is an affine 3-space, parametrized by the traces of X, Y and XY. Identities for triples of elements of SL(2,C) are also derived.

@@ -1,0 +1,1 @@
+If Y is a closed orientable graph manifold, we show that Y admits a coorientable taut foliation if and only if Y is not an L-space. Combined with previous work of Boyer and Clay, this implies that Y is an L-space if and only if \pi_1(Y) is not left-orderable.

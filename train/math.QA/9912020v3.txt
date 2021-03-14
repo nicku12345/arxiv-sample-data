@@ -1,0 +1,1 @@
+We classify all total orders having a certain convex property on the positive root system of an arbitrary untwisted affine Lie algebra {\frak g}. Such total orders are called convex orders and are used to construct convex bases of Poincar\'e-Birkhoff-Witt type of the upper triangular subalgebra U_q^+ of the quantized enveloping algebra U_q({\frak g}).

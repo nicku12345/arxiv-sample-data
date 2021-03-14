@@ -1,0 +1,1 @@
+We study the cohomology of parabolic Deligne-Lusztig varieties associated to unipotent blocks of GLn(q). We show that the geometric version of Brou\'e's conjecture over Q_\ell, together with Craven's formula, holds for any unipotent block whenever it holds for the principal Phi_1-block, that is for the variety X(\pi).

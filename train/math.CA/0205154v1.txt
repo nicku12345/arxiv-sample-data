@@ -1,0 +1,1 @@
+We show that if f is locally in L\log\log L then the lacunary spherical means converge almost everywhere. The argument given here is a model case for more general results on singular maximal functions and Radon transforms (see ref. 6).

@@ -1,0 +1,1 @@
+We consider various lifting problems for C*-algebras. As an application of our results we show that any commuting family of order zero maps from matrices to a von Neumann central sequence algebra can be lifted to a commuting family of order zero maps to the C*-central sequence algebra.

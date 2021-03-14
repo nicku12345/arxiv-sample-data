@@ -1,0 +1,1 @@
+We expand the results of Roslanowski and Shelah arXive:1806.06283 , arXive:1909.00937 to all perfect Abelian Polish groups (H,+). In particular, we show that if \alpha<\omega_1 and 4\leq k<\omega, then there is a ccc forcing notion adding a \Sigma^0_2 set B\subseteq H which has \aleph_\alpha many pairwise k--overlapping translations but not a perfect set of such translations.

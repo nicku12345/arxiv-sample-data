@@ -1,0 +1,1 @@
+We establish (i) stability of Lyapunov exponents and (ii) convergence in probability of Oseledets spaces for semi-invertible matrix cocycles, subjected to small random perturbations. The first part extends results of Ledrappier and Young to the semi-invertible setting. The second part relies on the study of evolution of subspaces in the Grassmannian.

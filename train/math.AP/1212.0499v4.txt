@@ -1,0 +1,1 @@
+Inspired by the work of Wang and Yu [21] on wave maps, we show that for all positive numbers T_{0} > 0 and E_{0} > 0, a large kind of semi-linear wave equation on R \times R^{3} has a solution whose life-span is [0; T_{0}], and the energy of the initial Cauchy data is at least E_{0}.

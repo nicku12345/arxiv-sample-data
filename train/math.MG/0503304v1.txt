@@ -1,0 +1,1 @@
+Let \gamma be a bounded convex curve on a plane. Then \sharp (\gamma\cap (\Z/n)^2)=o(n^{2/3}). It streghtens the classical result of Jarn\'\i k (an upper estimate O(n^{2/3})) and disproves a conjecture of Vershik on existence of the so-called {\it universal Jarn\'\i k curve}.

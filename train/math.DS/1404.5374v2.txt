@@ -1,0 +1,1 @@
+Denote by \DC(M)_0 the identity component of the group of the compactly supported C^r diffeomorphisms of a connected C^\infty manifold M. We show that if \dim(M)\geq2 and r\neq \dim(M)+1, then any homomorphism from \DC(M)_0 to {\Diff}^1(\R) or {\Diff}^1(S^1) is trivial.

@@ -1,0 +1,1 @@
+In this paper we give an expository account of quasistrict symmetric monoidal 2-categories, as introduced by Schommer-Pries. We reformulate the definition using a graphical calculus called wire diagrams, which facilitates computations and emphasizes the central role played by the interchangor coherence isomorphisms.

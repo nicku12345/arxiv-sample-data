@@ -1,0 +1,1 @@
+We provide escape rates formulae for piecewise expanding interval maps with `random holes'. Then we obtain rigorous approximations of invariant densities of randomly perturbed metabstable interval maps. We show that our escape rates formulae can be used to approximate limits of invariant densities of randomly perturbed metastable systems.

@@ -1,0 +1,1 @@
+A theory T is shown to have an ICT pattern of depth k in variables \xbar iff it interprets some k-maximum VC class in |\xbar| parameters.

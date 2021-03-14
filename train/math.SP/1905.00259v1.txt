@@ -1,0 +1,1 @@
+We construct the heat kernel on curvilinear polygonal domains in arbitrary surfaces for Dirichlet, Neumann, and Robin boundary conditions as well as mixed problems, including those of Zaremba type. We compute the short time asymptotic expansion of the heat trace and apply this expansion to demonstrate a collection of results showing that corners are spectral invariants.

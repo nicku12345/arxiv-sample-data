@@ -1,0 +1,1 @@
+We prove that in a simple, unital, exact, Z-stable C*-algebra of stable rank one, the distance between the unitary orbits of self-adjoint elements with connected spectrum is completely determined by spectral data. This fails without the assumption of Z-stability.

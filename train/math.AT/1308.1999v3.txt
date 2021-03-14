@@ -1,0 +1,1 @@
+Motivated by motivic zeta function calculations, Vakil and Wood in [VMW12] made several conjectures regarding the topology of subspaces of symmetric products. The purpose of this note is to prove two of these conjectures and disprove a strengthening of one of them.

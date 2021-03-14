@@ -1,0 +1,1 @@
+We determine the integral cohomology ring of the homogeneous space E_8/T^1E_7 by the Borel presentation and a method due to Toda. Then using the Gysin exact sequence associated with the circle bundle S^1 -> E_8/E_7 -> E_8/T^1E_7, we also determine the integral cohomology of E_8/E_7.

@@ -1,0 +1,1 @@
+Call the sum of the singular values of a matrix A the energy of A. We investigate graphs and matrices of energy close to the maximal one. We prove a conjecture of Koolen and Moulten and give a stability theorem characterizing all square nonnegative matrices and all graphs with energy close to the maximal one. In particular, such graphs are quasi-random.

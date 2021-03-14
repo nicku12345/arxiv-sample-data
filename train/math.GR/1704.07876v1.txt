@@ -1,0 +1,1 @@
+Let G be the free two step nilpotent Lie group on three generators and let L be a sub-Laplacian on it. We compute the spectral resolution of L and prove that the operators arising from this decomposition enjoy a Tomas-Stein type estimate.

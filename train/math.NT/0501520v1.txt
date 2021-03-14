@@ -1,0 +1,1 @@
+Given an odd representation of the absolute Galois group of Q onto PGL(2,3) and a positive integer N, there exists a twisted modular curve defined over Q whose rational points classify the quadratic Q-curves of degree N realizing the representation. The paper gives a method to provide an explicit plane quartic model for this curve in the genus-three case N=5.

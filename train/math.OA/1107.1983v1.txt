@@ -1,0 +1,1 @@
+In this paper we consider near inclusions A\subseteq_\gamma B of C^*-algebras. We show that if B is a separable type I C*-algebra and A satisfies Kadison's similarity problem, then A is also type I and use this to obtain an embedding of A into B.

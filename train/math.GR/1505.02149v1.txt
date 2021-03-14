@@ -1,0 +1,1 @@
+We show that every semigroup which is a finite disjoint union of copies of the free monogenic semigroup (natural numbers under addition) has linear growth. This implies that the the corresponding semigroup algebra is a PI algebra.

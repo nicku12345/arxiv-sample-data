@@ -1,0 +1,1 @@
+We prove a version of the classical Mittag-Leffler Theorem for regular functions over quaternions. Our result relies upon an appropriate notion of principal part, that is inspired by the recent definition of spherical analyticity.

@@ -1,0 +1,1 @@
+Among the normalized metrics on a graph, we show the existence and the uniqueness of an entropy-minimizing metric, and give explicit formulas for the minimal volume entropy and the metric realizing it.

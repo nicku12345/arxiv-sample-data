@@ -1,0 +1,1 @@
+We introduce and study a general notion of polynomial functor from a small monoidal symmetric category whose unit is an initial object and give a classification result of polynomial functors of degree smaller of equal to n modulo those of degree smaller of equal to n-1 in the case of a category of hermitian spaces.

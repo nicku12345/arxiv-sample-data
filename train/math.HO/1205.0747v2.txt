@@ -1,0 +1,1 @@
+We found a solution of the star puzzle (a path on a chessboard from c5 to d4 in 14 straight strokes) in 14 queen moves, which has been claimed by the author as impossible.

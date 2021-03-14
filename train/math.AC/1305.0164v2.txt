@@ -1,0 +1,1 @@
+Let R be a Noetherian ring, I an ideal of R and M a ZD-module. Let S be a Melkersson subcategory with respect to I such that M/IM doesn't belong to S. We show that all maximal S-sequences on M in I, have equal length. If this common length is denoted by S-depth_I(M), then S-depth_I(M) = inf{i : H^i_I(M) doesn't belong to S}.

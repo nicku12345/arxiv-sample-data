@@ -1,0 +1,1 @@
+We define a class of rational numbers including, as a particular case, the classical harmonic numbers. For one particular instance we apply it to the expansion into powers series of a special function, and also detail its relashionship with the reciprocals of the binomial coefficients

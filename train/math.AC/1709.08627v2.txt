@@ -1,0 +1,1 @@
+We prove an analogue of the Affine Horrocks' Theorem for local complete intersection ideals of height n in R[T], where R is a regular domain of dimension d, which is essentially of finite type over an infinite perfect field of characteristic unequal to 2, and 2n\geq d+3.

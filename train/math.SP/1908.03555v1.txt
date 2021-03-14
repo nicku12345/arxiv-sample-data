@@ -1,0 +1,1 @@
+In this paper, we define the angle of a bounded linear operator A along an unbounded path emanating from the origin and use it to characterize range-kernel complementarity. In particular we show that if 0 faces the unbounded component of the resolvent set, then X=R(A)\oplus N(A) if and only if R(A) is closed and some angle of A is less than \pi.

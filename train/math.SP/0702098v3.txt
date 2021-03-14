@@ -1,0 +1,1 @@
+In this note, we determine the ground state energy of the translation invariant Pauli-Fierz model to subleading order O(\alpha^3) with respect to powers of the finestructure constant \alpha, and prove rigorous error bounds of order O(\alpha^{4}). A main objective of our argument is its brevity.

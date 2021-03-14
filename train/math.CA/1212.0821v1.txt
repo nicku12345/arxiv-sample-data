@@ -1,0 +1,1 @@
+One introduces the concept of greedy k-summability in such a way, that the direct product of one greedy k-summable numeric array onto another greedy n-summable numeric array to be greedy (n+k+1)-summable.

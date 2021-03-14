@@ -1,0 +1,1 @@
+The operation of (untwisted) Whitehead doubling trivializes the Alexander module of a knot (and consequently, all known abelian invariants), and converts knots to topologically slice ones. In this note we show that Whitehead doubling does not trivialize the rational function that equals to the 2-loop part of the Kontsevich integral.

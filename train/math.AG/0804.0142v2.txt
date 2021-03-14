@@ -1,0 +1,1 @@
+We show that two analytic function germs (\C^2,0) \to (\C,0) are topologically right equivalent if and only if there is a one-to-one correspondence between the irreducible components of their zero sets that preserves the multiplicites of these components, their Puiseux pairs, and the intersection numbers of any pairs of distinct components.

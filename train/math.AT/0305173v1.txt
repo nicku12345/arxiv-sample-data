@@ -1,0 +1,1 @@
+This mostly expository paper records some basic facts about towers of homotopy fiber sequences. We give a proof that a pairing of towers induces a pairing of associated spectral sequences, for towers of spaces and towers of spectra.

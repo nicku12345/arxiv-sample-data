@@ -1,0 +1,1 @@
+We show that the existence of a non-trivial solution of x^n+y^n=p^n, with p a prime number, is equivalent to the existence of a solution of a certain (over-determined) system of (n-1)-recursion relations ("zipper" equations) in \mathbb{Z}_{p-1}.

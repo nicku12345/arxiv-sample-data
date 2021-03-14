@@ -1,0 +1,1 @@
+We solve the oscillation stability problem for the Urysohn sphere, an analog of the distortion problem for the Hilbert space in the context of the Urysohn universal metric space. This is achieved by solving a purely combinatorial problem involving a family of countable homogeneous metric spaces with finitely many distances.

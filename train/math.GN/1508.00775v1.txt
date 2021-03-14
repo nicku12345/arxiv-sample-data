@@ -1,0 +1,1 @@
+It is proved that any surjective morphism f: \mathbb{Z}^\kappa \to K onto a locally compact group K is open for every cardinal \kappa. This answers a question posed by Karl Heinrich Hofmann and the second author.

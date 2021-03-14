@@ -1,0 +1,1 @@
+Long and Moody gave a method of constructing representations of the braid group B_n. We discuss some ways to generalize their construction. One of these gives representations of subgroups of B_n, including the Gassner representation of the pure braid group as a special case. Another gives representations of the Hecke algebra.

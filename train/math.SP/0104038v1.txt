@@ -1,0 +1,1 @@
+Brooks and Makover introduced an approach to random Riemann surfaces based on associating a dense set of them - Belyi surfaces - with random cubic graphs. In this paper, using Bollobas model for random regular graphs, we examine the topological structure of these surfaces, obtaining in particular an estimate for the expected value of their genus.

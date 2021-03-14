@@ -1,0 +1,1 @@
+We define a knot/link invariant using set theoretical solutions (X,\sigma) of the Yang-Baxter equation and non commutative 2-cocycles. We also define, for a given (X,\sigma), a universal group Unc(X) governing all 2-cocycles in X, and we exhibit examples of computations.

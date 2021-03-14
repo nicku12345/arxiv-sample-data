@@ -1,0 +1,1 @@
+We give new improved bounds for the dominant dimension of Nakayama algebras and use those bounds to give a classification of Nakayama algebras with n simple modules that are higher Auslander algebras with global dimension at least n. The classification is then used to extend the results on the inequality for the global dimension of Nakayama algebras obtained in \cite{MM}.

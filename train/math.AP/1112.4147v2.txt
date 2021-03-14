@@ -1,0 +1,1 @@
+In this article, we consider Leray solutions of the Navier-Stokes equations in the exterior of one obstacle in 3D and we study the asymptotic behavior of these solutions when the obstacle shrinks to a curve or to a surface. In particular, we will prove that a solid curve has no effect on the motion of a viscous fluid, so it is a removable singularity for these equations.

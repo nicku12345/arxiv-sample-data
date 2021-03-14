@@ -1,0 +1,1 @@
+We use Taylor's formula with Lagrange remainder to prove that functions with bounded second derivative are rectifiable in the case when polygonal paths are defined by interval subdivisions which are equally spaced. We discuss potential benefits for such an approach in introductory calculus courses.

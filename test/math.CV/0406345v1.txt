@@ -1,0 +1,1 @@
+We study the so-called integral means spectrum for univalent functions on the unit disk. Using an inequality of Prawitz (generalizing the classical area theorem of Gronwall), we find -- by applying a Moebius mapping to lift the result to the bidisk -- that it is possible to obtain rather strong estimates from above on the integral means spectrum.

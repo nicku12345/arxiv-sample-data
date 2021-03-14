@@ -1,0 +1,1 @@
+We provide an example proving that there exists no quadratic Lyapunov function for a certain class of linear agreement/consensus algorithms, a fact that had been numerically verified in [5]. We also briefly discuss sufficient conditions for the existence of such a Lyapunov function.

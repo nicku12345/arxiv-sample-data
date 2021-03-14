@@ -1,0 +1,1 @@
+We study the zero-range process on the complete graph. It is a Markov chain model for a microcanonical ensemble. We prove that the process converges to a fluid limit. The fluid limit rapidly relaxes to the appropriate Gibbs distribution.

@@ -1,0 +1,1 @@
+Based on the works of M. Marshall on multirings, we propose the fundamentals for a \textbf{non reduced} abstract quadratic forms theory in general coefficients on rings, with the machinery of multirings and multifields.

@@ -1,0 +1,1 @@
+We prove descent theorems for semiorthogonal decompositions using techniques from derived algebraic geometry. Our methods allow us to capture more general filtrations of derived categories and even marked filtrations, where one descends not only admissible subcategories but also preferred objects.

@@ -1,0 +1,1 @@
+In this paper, we establish several inequalities of Dirichlet eigenvalues for Laplace operator \Delta  with any order on \emph{n}-dimensional Euclidean space. These inequalities are more general than known Yang's inequalities and contain new consequences. To obtain them, we borrow the approach of Illias and Makhoul, and use a generalized Chebyshev's inequality.

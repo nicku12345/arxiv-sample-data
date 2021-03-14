@@ -1,0 +1,1 @@
+An old problem asks whether every compact group has a Haar-nonmeasurable subgroup. A series of earlier results reduce the problem to infinite metrizable profinite groups. We provide a positive answer, assuming a weak, potentially provable, consequence of the Continuum Hypothesis. We also establish the dual, Baire category analogue of this result.

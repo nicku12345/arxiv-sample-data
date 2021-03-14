@@ -1,0 +1,1 @@
+In this paper, we investigate a class of hybrid stochastic heat equations. By explicit formulae of solutions, we not only reveal the sample Lyapunov exponents but also discuss the pth moment Lyapnov exponents. Moreover, several examples are established to demonstrate that unstable (deterministic or stochastic) dynamical systems can be stabilized by Markovian switching.

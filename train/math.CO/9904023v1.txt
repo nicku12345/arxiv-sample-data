@@ -1,0 +1,1 @@
+We present a recursive algorithm for finding good lower bounds for the classical Ramsey numbers. Using notions from this algorithm we then give some results for generalized Schur numbers, which we call Issai numbers.

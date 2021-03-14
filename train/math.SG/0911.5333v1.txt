@@ -1,0 +1,1 @@
+Let K be a non-trivial knot in S^3, and let r and r' be two distinct rational numbers of same sign, allowing r to be infinite; we prove that there is no orientation-preserving homeomorphism between the manifolds S^3_r(K) and S^3_{r'}(K). We further generalize this uniqueness result to knots in arbitrary integral homology L-spaces.

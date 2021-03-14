@@ -1,0 +1,1 @@
+Let (\Omega,K_{\Omega}) be a convex domain in \mathbb C^d with the Kobayashi metric K_{\Omega}. In this paper we prove that m-convexity is a necessary condition for (\Omega, K_{\Omega}) to be CAT(0) if d=2. Moreover, when \Omega \subset \mathbb{C}^d, \: d\geq3, we obtain a similar result with the further smoothness assumption on its boundary.

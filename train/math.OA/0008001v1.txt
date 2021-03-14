@@ -1,0 +1,1 @@
+Given an n-tuple {a_1, ..., a_n} of self-adjoint operators on an infinite dimensional Hilbert space H and a positive integer k, there exists a projection p of rank k such that, for each for j = 1, ..., n, pa_jp is a scalar multiple of p. Assuming that {a_1, ...,a_n, 1} is a linearly independent set in the Calkin algebra, then p can be chosen of infinite rank.

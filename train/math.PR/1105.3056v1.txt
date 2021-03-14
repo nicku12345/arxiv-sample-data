@@ -1,0 +1,1 @@
+In the present paper, we prove that under the assumption of the finite sixth moment for elements of a Wigner matrix, the convergence rate of its empirical spectral distribution to the Wigner semicircular law in probability is O(n^{-1/2}) when the dimension n tends to infinity.

@@ -1,0 +1,1 @@
+We explore the lifting question in the context of cut-generating functions. Most of the prior literature on this question focuses on cut-generating functions that have the unique lifting property. We develop a general theory for understanding the lifting question for cut-generating functions that do not necessarily have the unique lifting property.

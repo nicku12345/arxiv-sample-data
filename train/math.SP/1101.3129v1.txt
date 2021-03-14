@@ -1,0 +1,1 @@
+Dirac-Sobolev and Dirac-Hardy inequalities in L^1 are established in which the L^p spaces which feature in the classical Sobolev and Hardy inequalities are replaced by weak L^p spaces. Counter examples to the analogues of the classical inequalities are shown to be provided by zero modes for appropriate Pauli operators constructed by Loss and Yau.

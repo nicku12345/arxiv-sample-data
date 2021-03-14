@@ -1,0 +1,1 @@
+Let G be a permutation group on n<\infty objects. Let f(g) be the number of fixed points of g\in G, and let \{f(g):1\ne g\in G\}=\{f_1,\ldots,f_r\}. In this expository note we give a character-free proof of a theorem of Blichfeldt which asserts that the order of G divides (n-f_1)\ldots(n-f_r). We also discuss the sharpness of this bound.

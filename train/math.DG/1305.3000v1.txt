@@ -1,0 +1,1 @@
+This paper continues the study of Alexandrov-Fenchel inequalities for quermassintegrals for k-convex domains. It focuses on the application to the Michael-Simon type inequalities for k-curvature operators. The proof uses optimal transport maps as a tool to relate curvature quantities defined on the boundary of a domain.

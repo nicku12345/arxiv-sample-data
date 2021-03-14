@@ -1,0 +1,1 @@
+Analytic capacity is associated with the Cauchy kernel 1/z and the L^\infty-norm. For n\in\mathbb{N}, one has likewise capacities related to the kernels K_i(x)=x_i^{2n-1}/|x|^{2n}, 1\le i\le 2, x=(x_1,x_2)\in\mathbb{R}^2. The main result of this paper states that the capacities associated with the vectorial kernel (K_1, K_2) are comparable to analytic capacity.

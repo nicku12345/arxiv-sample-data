@@ -1,0 +1,1 @@
+Let \Gamma be a torsion-free hyperbolic group. We show that the set of solutions of any system of equations with one variable in \Gamma is a finite union of points and cosets of centralizers if and only if any two-generator subgroup of \Gamma is free.

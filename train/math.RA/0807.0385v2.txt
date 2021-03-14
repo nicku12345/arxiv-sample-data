@@ -1,0 +1,1 @@
+Let \Phi, \Phi' be Leonard systems over a field \mathbb{K}, and V, V' the vector spaces underlying \Phi, \Phi', respectively. In this paper, we introduce and discuss a balanced bilinear form on V\times V'. Such a form naturally arises in the study of Q-polynomial distance-regular graphs. We characterize a balanced bilinear form from several points of view.

@@ -1,0 +1,1 @@
+It is given a simplified and self-contained proof of the classical Michael's finite-dimensional selection theorem. The proof is based on approximate selections constructed stepwise over skeletons of nerves of covers. The method is also applied to simplify the proof of the Schepin--Brodsky's generalisation of this theorem.

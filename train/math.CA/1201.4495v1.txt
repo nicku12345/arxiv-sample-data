@@ -1,0 +1,1 @@
+The problem of existence of solutions to nabla differential equations and nabla differential inclusions on time scales is considered. Under a special form of the set-valued constraint map, sufficient conditions for the existence of at least one solution, that stay in the constraint set, are derived.

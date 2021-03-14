@@ -1,0 +1,1 @@
+We define the \aleph_{1.5} chain condition. The corresponding forcing axiom is a generalization of Martin's Axiom and implies certain uniform failures of club--guessing on \omega_1 that don't seem to have been considered in the literature before.

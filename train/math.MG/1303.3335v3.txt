@@ -1,0 +1,1 @@
+Let E be a real Banach space with dimension at least 2. In this paper, we prove that if D\subset E is a John domain which is homeomorphic to an inner uniform domain via a CQH map, then each neargeodesic in D is a cone arc.

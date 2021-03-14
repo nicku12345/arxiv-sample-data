@@ -1,0 +1,1 @@
+Block codes, which correct asymmetric errors with limited-magnitude, are studied. These codes have been applied recently for error correction in flash memories. The codes will be represented by lattices and the constructions will be based on a generalization of Sidon sequences. In particular we will consider perfect codes for these type of errors.

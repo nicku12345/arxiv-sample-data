@@ -1,0 +1,1 @@
+We describe a practical algorithm which computes the accepting automaton for the insertion encoding of a permutation class, whenever this insertion encoding is regular. This algorithm is implemented in the accompanying Maple package INSENC, which can automatically compute the rational generating functions for such classes.

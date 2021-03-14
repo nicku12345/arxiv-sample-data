@@ -1,0 +1,1 @@
+We prove that if the initial ideal of a prime ideal is Borel-fixed and the dimension of the quotient ring is less than or equal to two, then given any non-minimal associated prime ideal of the initial ideal it contains another associated prime ideal of dimension one larger.

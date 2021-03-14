@@ -1,0 +1,1 @@
+In this paper, we present a proof of the Riemann hypothesis. We show that zeros of the Riemann zeta function should be on the line with the real value 1/2, in the region where the real part of complex variable is between 0 and 1.

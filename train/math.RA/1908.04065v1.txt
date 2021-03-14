@@ -1,0 +1,1 @@
+Let \mathfrak{sp}_{2n}(\mathbb {K}) be the symplectic Lie algebra over an algebraically closed field of characteristic zero. We prove that for any nonzero nilpotent element X \in \mathfrak{sp}_{2n}(\mathbb {K}) there exists a nilpotent element Y \in \mathfrak{sp}_{2n}(\mathbb {K}) such that X and Y generate \mathfrak{sp}_{2n}(\mathbb {K}).

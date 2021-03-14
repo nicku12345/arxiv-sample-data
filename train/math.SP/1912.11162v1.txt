@@ -1,0 +1,1 @@
+We consider the inverse Sturm-Liouville problem with one discontinuous point on three-star graph, we deduced the distribution of the eigenvalues, and proved that one spectrum could uniquely determine the unknown potential and jump information when we know the whole potentials on two edges and half potential on another edge.

@@ -1,0 +1,1 @@
+Note that the family of closed curves C_N={(x,y)\in R^2;x^(2N)+y^(2N)=1} for N=1,2,3,... approaches the boundary of [-1,1]^2 as N \to \infty. In this paper we exhibit a natural parameterization of these curves and generalize to a larger class of equations.

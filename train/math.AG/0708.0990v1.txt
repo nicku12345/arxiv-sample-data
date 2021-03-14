@@ -1,0 +1,1 @@
+In the ring of holomorphic functions at the origin of C^2, we consider the equation uf'_x+vf'_y=wf where f and w are given. We introduce intersection multiplicities relative to w and f'_y along the branches of f, and we study the solutions (u,v) using these valuations. As an application, we construct an explicit functional equation satisfied by f.

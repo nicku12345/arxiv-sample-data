@@ -1,0 +1,1 @@
+In this note we determine all power series F(X)\in 1+X\F_p[[X]] such that (F(X+Y))^{-1} F(X)F(Y) has only terms of total degree a multiple of p. Up to a scalar factor, they are all the series of the form F(X)=E_p(cX)\cdot G(X^p) for some c\in\F_p and G(X)\in 1+X\F_p[[X]], where E_p(X)=\exp\big(\sum_{i=0}^{\infty}X^{p^i}/p^i\big) is the Artin-Hasse exponential.

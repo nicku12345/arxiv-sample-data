@@ -1,0 +1,1 @@
+Let U be the closed unit disc in C. We show that there is no continuous map F:U-->U^2, holomorphic on Int(U) and such that F(bU) = b(U^2).

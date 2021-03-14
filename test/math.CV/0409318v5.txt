@@ -1,0 +1,1 @@
+This is a revised version of the second half of my paper math.AG/9909021. We prove that there exists a positive integer \nu_{n} depending only on n such that for every smooth projective n-fold of general type X defined over complex numbers, \mid mK_{X}\mid gives a birational rational map from X into a projective space for every m\geq \nu_{n}.

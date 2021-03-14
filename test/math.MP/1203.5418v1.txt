@@ -1,0 +1,1 @@
+We prove the "strong conjecture" expressed by Gazeau et al. in arXiv:1203.3936v1 [math-ph] about the coefficients of the Taylor expansion of the exponential of a polynomial. This implies the "weak conjecture" as a special case. The proof relies mainly about properties of the Gould-Hopper polynomials.

@@ -1,0 +1,1 @@
+Simplifications of a result from a prior paper concerning the electric resistance between points in a distance-regular graph are given. In particular, we prove that the maximal resistance between points is bounded by twice the resistance between neighbors. We also show that if the constant is weakened, then a very simple proof can be given.

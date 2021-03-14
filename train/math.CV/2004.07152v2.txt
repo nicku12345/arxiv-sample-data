@@ -1,0 +1,1 @@
+Let D be a strictly pseudoconvex domain in \C^N and X a pure-dimensional non-reduced subvariety that behaves well at \partial D. We provide L^p-estimates of extensions of holomorphic functions defined on X.

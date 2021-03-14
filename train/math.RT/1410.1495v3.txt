@@ -1,0 +1,1 @@
+In this paper, we study extensions of graded affine Hecke algebra modules. In particular, based on an explicit projective resolution on graded affine Hecke algebra modules, we prove a duality result for Ext-groups. This duality result with an Ind-Res resolution gives an algebraic proof of the fact that all higher Ext-groups between discrete series vanish.

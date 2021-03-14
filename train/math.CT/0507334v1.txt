@@ -1,0 +1,1 @@
+We introduce the concept of cotensor coalgebra for a given bicomodule over a coalgebra in an abelian monoidal category. Under some further conditions we show that such a cotensor coalgebra exists and satisfies a meaningful universal property. We prove that this coalgebra is formally smooth whenever the comodule is relative injective and the coalgebra itself is formally smooth.

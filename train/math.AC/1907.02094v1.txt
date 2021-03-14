@@ -1,0 +1,1 @@
+In this paper we present a matricial result that generalizes Hironaka's game and Perron transforms simultaneously. We also show how one can deduce the various forms in which the algorithm of Perron appears in proofs of local uniformization from our main result.

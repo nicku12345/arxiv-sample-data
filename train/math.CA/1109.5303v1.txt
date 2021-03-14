@@ -1,0 +1,1 @@
+We give an affirmative answer to a question of K. Ciesielski by showing that the composition f\circ g of two derivatives f,g:[0,1]\to[0,1] always has a fixed point. Using Maximoff's Theorem we obtain that the composition of two [0,1]\to[0,1] Darboux Baire-1 functions must also have a fixed point.

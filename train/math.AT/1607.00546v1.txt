@@ -1,0 +1,1 @@
+We prove that the loop space of the directed suspension of a directed space is homotopy equivalent to the James construction. In particular, it does not depend on the directed structure of a given directed space.
