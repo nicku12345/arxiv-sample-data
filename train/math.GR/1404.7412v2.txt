@@ -1,0 +1,1 @@
+Gromov conjectured that any irreducible lattice in a symmetric space of rank at least 3 should have at most polynomial Dehn function. We prove that the lattice Sp(2p;Z) has quadratic Dehn function when p is at least 5. By results of Broaddus, Farb, and Putman, this implies that the Torelli group in large genus is at most exponentially distorted.

@@ -1,0 +1,1 @@
+Over the finite field with two elements, we present a method for obtaining explicit expressions for the number of rank i matrices of the form A above B, where A is persymmetric (A matrix [a(i,j)] is persymmetric if a(i,j) = a(r,s) for i+j = r+s).

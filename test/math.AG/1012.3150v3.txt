@@ -1,0 +1,1 @@
+This brief survey of some singularity invariants related to Milnor fibers should serve as a quick guide to references. We attempt to place things into a wide geometric context while leaving technicalities aside. We focus on relations among different invariants and on the practical aspect of computing them.

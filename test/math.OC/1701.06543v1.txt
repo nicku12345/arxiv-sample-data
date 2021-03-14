@@ -1,0 +1,1 @@
+We consider a model that arises in integer programming, and show that all irredundant inequalities are obtained from maximal lattice-free convex sets in an affine subspace. We also show that these sets are polyhedra. The latter result extends a theorem of Lov\'asz characterizing maximal lattice-free convex sets in \mathbb{R}^n.

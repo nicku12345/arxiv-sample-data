@@ -1,0 +1,1 @@
+We improve the upper bounds (in terms of n) in [9] and [13] on the minimal number of elements required to generate a minimally transitive permutation group of degree n.

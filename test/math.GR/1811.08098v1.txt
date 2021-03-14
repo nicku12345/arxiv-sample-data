@@ -1,0 +1,1 @@
+A tubular group G is a finite graph of groups with \mathbb{Z}^2 vertex groups and \mathbb{Z} edge groups. We characterize residually finite tubular groups: G is residually finite if and only if its edge groups are separable. Methods are provided to determine if G is residually finite. When G has a single vertex group an algorithm is given to determine residual finiteness.

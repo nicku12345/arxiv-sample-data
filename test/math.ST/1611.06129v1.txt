@@ -1,0 +1,1 @@
+The paper discusses a test for the hypothesis that a random sample comes from the Cauchy distribution. The test statistics is derived from a characterization and is based on the characteristic function. Properties of the test are discussed and its performance measured by simulations. The test presented turns out to be extremely powerful in a wide range of alternatives.

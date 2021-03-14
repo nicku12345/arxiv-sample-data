@@ -1,0 +1,1 @@
+Here we carefully construct an equivalence between the derived category of coherent sheaves on an elliptic curve and a version of the Fukaya category on its mirror. This is the most accessible case of homological mirror symmetry. We also provide introductory background on the general Calabi-Yau case of The Homological Mirror Symmetry Conjecture.

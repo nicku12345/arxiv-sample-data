@@ -1,0 +1,1 @@
+In this paper we present several formulae for computing the partial degrees of the defining polynomial of the offset curve to an irreducible affine plane curve given implicitly, and we see how these formulae particularize to the case of rational curves. In addition, we present a formula for computing the degree w.r.t the distance variable.

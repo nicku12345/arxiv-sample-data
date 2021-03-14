@@ -1,0 +1,1 @@
+We present a method to obtain arbitrarily accurate solutions for conservative classical oscillators. The method that we propose here works both for small and large nonlinearities and provides simple analytical approximations. A comparison with the standard Lindstedt-Poincar\'e method is presented, from which the advantages of our method are clear.

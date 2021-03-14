@@ -1,0 +1,1 @@
+We study the fBm by use of convolution of the standard white noise with a certain distribution. This brings some simplifications and new results.

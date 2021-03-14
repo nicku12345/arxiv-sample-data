@@ -1,0 +1,1 @@
+We introduce the notion of quasi-triviality of quandles and define homology of quasi-trivial quandles. Quandle cocycle invariants are invariant under link-homotopy if they are associated with 2-cocycles of quasi-trivial quandles. We thus obtain a lot of numerical link-homotopy invariants.

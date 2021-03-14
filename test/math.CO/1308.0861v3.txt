@@ -1,0 +1,1 @@
+We prove new bounds on the number of incidences between points and higher degree algebraic curves. The key ingredient is an improved initial bound, which is valid for all fields. Then we apply the polynomial method to obtain global bounds on \mathbb{R} and \mathbb{C}.

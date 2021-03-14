@@ -1,0 +1,1 @@
+We compute the canonical class of certain Rees algebras. Our formula generalizes that of Herzog and Vasconcelos. Its proof relies on the fact that the formation of the canonical module commutes with subintersections in important cases. As an application we treat the classical determinantal ideals and the corresponding algebras of minors.

@@ -1,0 +1,1 @@
+Area integral functions are introduced for sectorial operators on Hilbert spaces. We establish the equivalence relationship between the square and area integral functions. This immediately extends McIntosh/Yagi's results on H^{\8} functional calculus of sectorial operators on Hilbert spaces to the case when the square functions are replaced by the area integral functions.

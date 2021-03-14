@@ -1,0 +1,1 @@
+Using the duality techniques introduced by De Meyer (1996a, 1996b), De Meyer and Marino (2005) provided optimal strategies for both players in finitely repeated games with incomplete information on two sides, in the independent case. In this note, we extend both the duality techniques and the construction of optimal strategies to the case of general type dependence.

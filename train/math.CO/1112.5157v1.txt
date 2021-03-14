@@ -1,0 +1,1 @@
+We resolve a conjecture of Hegarty regarding the number of edges in the square of a regular graph. If G is a connected d-regular graph with n vertices, the graph square of G is not complete, and G is not a member of two narrow families of graphs, then the square of G has at least (2-o_d(1))n more edges than G.

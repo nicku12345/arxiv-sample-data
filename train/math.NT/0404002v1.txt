@@ -1,0 +1,1 @@
+The classical Kronecker limit formula gives the constant term of the non-holomorphic Eisenstein series E(z,s) for SL(2,Z) at s=1 in terms of the Dedekind eta function. Here we compute the analagous formula for an Eisenstein series twisted by modular symbols (periods of weight two holomorphic cusp forms) for general Fuchsian groups of the first kind.

@@ -1,0 +1,1 @@
+Let n_0(N,k) be the number of initial Fourier coefficients necessary to distinguish newforms of level N and even weight k. We produce extensive data to support our conjecture that if N is a fixed squarefree positive integer and k is large then n_0(N,k) is the least prime that does not divide N.

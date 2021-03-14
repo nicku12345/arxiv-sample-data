@@ -1,0 +1,1 @@
+We introduce some algebraic structures such as singularity, commutators and central extension in modified categories of interest. Additionally, we introduce the cat^{1}-objects with their connection to crossed modules in these categories which gives rise to unify many notions about (pre)crossed modules in various algebras of categories.

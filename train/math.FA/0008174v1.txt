@@ -1,0 +1,1 @@
+We develop a usable perturbation theory for Weyl-Heisenberg frames. In particular, we prove that if (E_{mb}T_{na}g)_{m,n\inmathbb Z} is a WH-frame and h is a function which is close to g in the Wiener Amalgam space norm, then (E_{mb}T_{na}h)_{m,n\in \mathbb Z} is also a WH-frame.

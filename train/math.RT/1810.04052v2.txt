@@ -1,0 +1,1 @@
+Let G be a semisimple algebraic group over a field of characteristic p > 0. We prove that the dual Weyl modules for G all have p-filtrations when p is not too small. Moreover, we give applications of this theorem to p^n-filtrations for n > 1, to modules containing the Steinberg module as a tensor factor, and to the Donkin conjecture on modules having p-filtrations.

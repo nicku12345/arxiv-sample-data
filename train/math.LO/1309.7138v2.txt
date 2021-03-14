@@ -1,0 +1,1 @@
+In this note we give a negative answer to Abraham Robinson's question whether a finitely generated extension of an undecidable field is always undecidable. We construct 'natural' undecidable fields of transcendence degree 1 over Q all of whose proper finite extensions are decidable. We also construct undecidable algebraic extensions of Q that allow decidable finite extensions.

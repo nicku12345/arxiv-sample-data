@@ -1,0 +1,1 @@
+We bring in some new notions associated with 2\times 2 block positive semidefinite matrices. These notions concern the inequalities between the singular values of the off diagonal blocks and the eigenvalues of the arithmetic mean or geometric mean of the diagonal blocks. We investigate some relations between them. Many examples are included to illustrate these relations.

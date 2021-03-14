@@ -1,0 +1,1 @@
+By developing one-shot mutual covering lemmas, we derive a one-shot achievability bound for broadcast with a common message which recovers Marton's inner bound (with three auxiliary random variables) in the i.i.d.~case. The encoder employed is deterministic. Relationship between the mutual covering lemma and a new type of channel resolvability problem is discussed.

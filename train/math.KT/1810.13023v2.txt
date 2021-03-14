@@ -1,0 +1,1 @@
+We prove that Hochschild cohomology with coefficients in A^*=Hom_k(A,k) together with an A-structural map \psi:A^* \otimes_A A^* \to A^* is a Batalin-Vilkovisky algebra. This applies to symmetric, Frobenius and monomial path algebras.

@@ -1,0 +1,1 @@
+We compute the expected degree of a randomly chosen element in a basis of weight vectors in the Demazure module V_w(\Lambda) of \hat{sl}_2. We obtain en passant a new proof of Sanderson's dimension formula for these Demazure modules.

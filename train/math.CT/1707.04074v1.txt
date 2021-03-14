@@ -1,0 +1,1 @@
+We give a formal account of B\'enabou's theorem for peudoadjunctions in the context of Gray-categories. We prove that to give a pseudoadjunction F \dashv U: A \to X with unit \eta in a Gray-category K is precisely to give an absolute left (Kan) pseudoextension U of 1_X along F witnessed by \eta.

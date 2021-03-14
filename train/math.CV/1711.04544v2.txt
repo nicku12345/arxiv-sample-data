@@ -1,0 +1,1 @@
+We give upper bounds for volume of sublevel sets of real polynomials. Our method is to combine a version of global Lojasiewicz inequality with some well known estimate on volume of tubes around real algebraic sets. Some applications to oscillatory integrals and integration indices of real polynomial are also given.

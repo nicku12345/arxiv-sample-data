@@ -1,0 +1,1 @@
+We show that any non-zero Banach space with a separable dual contains a totally disconnected, closed and bounded subset S of Hausdorff dimension 1 such that every Lipschitz function on the space is Fr\'echet differentiable somewhere in S.

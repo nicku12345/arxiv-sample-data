@@ -1,0 +1,1 @@
+In this paper we consider the Sturm-Liuoville operator in the Hilbert space L_2 with the singular complex potential of W^{-1}_2 and two-point boundary conditions. For this operator we give sufficient conditions for norm resolvent approximation by the operators of the same class.

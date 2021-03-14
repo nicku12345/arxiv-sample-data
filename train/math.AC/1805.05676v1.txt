@@ -1,0 +1,1 @@
+We give a principle in derived categories, which lies behind the classical Auslander-Reiten duality and its generalized version by Iyama and Wemyss. We apply the principle to show the validity of the Auslander-Reiten conjecture over a Gorenstein ring in the case where the ring has dimension larger than two and the singular locus has at most one dimension.

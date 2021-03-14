@@ -1,0 +1,1 @@
+In continuous time, customers arrive at random. Each waits until one of c servers is available; each thereafter departs at random. The distribution of maximum line length of idle customers was studied over 25 years ago. We revisit two good approximations of this, employing a discrete Gumbel formulation and detailed graphics to describe simulation outcomes.

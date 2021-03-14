@@ -1,0 +1,1 @@
+We show that the Conway polynomials of Fibonacci links are Fibonacci polynomials modulo 2. We deduce that, when  n \not\equiv 0 \Mod 4 and (n,j) \neq (3,3), the Fibonacci knot  \cF_j^{(n)}  is not a Lissajous knot.

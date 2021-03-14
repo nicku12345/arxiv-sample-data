@@ -1,0 +1,1 @@
+The purpose of this article is to compute the cohomology of the motivic Steenrod algebra over Spec C through the geometric 70-stem. The main computational tool is the motivic May spectral sequence. Everywhere in this article, we are working only over Spec C, and we are always computing at the prime p = 2.

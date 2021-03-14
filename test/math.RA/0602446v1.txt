@@ -1,0 +1,1 @@
+We prove that if a Cartesian product of alternating groups is topologically finitely generated, then it is the profinite completion of a finitely generated residually finite group. The same holds for Cartesian producs of other simple groups under some natural restrictions.

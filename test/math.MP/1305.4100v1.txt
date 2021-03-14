@@ -1,0 +1,1 @@
+We present a connection between W-algebras and Yangians, in the case of gl(N) algebras, as well as for twisted Yangians and/or super-Yangians. This connection allows to construct an R-matrix for the W-algebras, and to classify their finite-dimensional irreducible representations. We illustrate it in the framework of nonlinear Schroedinger equation in 1+1 dimension.

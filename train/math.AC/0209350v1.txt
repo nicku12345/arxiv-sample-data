@@ -1,0 +1,1 @@
+This first part of the paper describes the support of top graded local cohomology modules. As a corrolary one obtains a simple criteria for the vanishing of these modules and also the fact that they have finitely many minimal primes.   The second part of this paper constructs examples of cohomological Hilbert functions which are not of polynomial type.

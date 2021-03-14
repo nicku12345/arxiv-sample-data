@@ -1,0 +1,1 @@
+In 1992, Osamu Kakimizu defined a complex that has become known as the Kakimizu complex of a knot. Vertices correspond to isotopy classes of minimal genus Seifert surfaces of the knot. Higher dimensional simplices correspond to collections of such classes of Seifert surfaces that admit disjoint representatives. We show that this complex is simply connected.

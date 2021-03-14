@@ -1,0 +1,1 @@
+In this short note, we show that any rational curve passing through the generic point in a moduli space of stable bundles with rank r and fixed determinant on a smooth projective curve of genus g\ge 4 has degree (with respect to the anti-canonical line bundle of the moduli space) at least 2r. It has degree 2r if and only if it is a Hecke curve.

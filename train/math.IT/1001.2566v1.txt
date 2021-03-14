@@ -1,0 +1,1 @@
+This paper extends the literature on interference alignment to more general classes of deterministic channels which incorporate non-linear input-output relationships. It is found that the concept of alignment extends naturally to these deterministic interference channels, and in many cases, the achieved degrees of freedom (DoF) can be shown to be optimal.

@@ -1,0 +1,1 @@
+In this paper, we give a proof of the Gan-Gross-Prasad conjecture for the discrete series of U(p,q). Given a discrete series representation D(\lambda) in terms of the Harish-Chandra parameter, the restriction of D(\lambda) to U(p-1,q) contains D(\mu) as a subrepresentation if and only if \lambda and \mu interlaces in a very special way.

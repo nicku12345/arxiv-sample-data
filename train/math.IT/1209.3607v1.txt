@@ -1,0 +1,1 @@
+Article presents proof that M-term non-linear approximation of functions that are C^3 apart from C^3 edges in curvelet frame have squared L^2 approximation bounded by M^(-2).

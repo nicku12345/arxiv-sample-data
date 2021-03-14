@@ -1,0 +1,1 @@
+Let W be a finite group and T be an abelian group. Consider an extension 0 \ra T \ra N \ra W \ra 0. For a smooth projective curve X, we give a precise description of the fiber of the quotient by T map q_T: \cM_X(N) \ra \cM_X(W) as a torsor over an abelian variety. We also prove a result on Mumford groups.

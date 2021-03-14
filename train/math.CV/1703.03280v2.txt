@@ -1,0 +1,1 @@
+For the Dirichlet series of the form \displaystyle F(z,\omega)=\sum\nolimits_{k=0}^{+\infty} f_k(\omega)e^{z\lambda_k(\omega)}   (z\in\mathbb{C}, \omega\in\Omega) with pairwise independent real exponents (\lambda_k(\omega)) on probability space (\Omega,\mathcal{A},P) an estimates of abscissas convergence and absolutely convergence are established.

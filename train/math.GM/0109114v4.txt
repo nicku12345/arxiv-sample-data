@@ -1,0 +1,1 @@
+An algorithm for computing /pi(N) is presented.It is shown that using a symmetry of natural numbers we can easily compute /pi(N).This method relies on the fact that counting the number of odd composites not exceeding N suffices to calculate /pi(N).

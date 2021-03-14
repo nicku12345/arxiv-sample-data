@@ -1,0 +1,1 @@
+After Landau, we define g(n) as the maximal order of a permutation of the symmetric group S(n) on n letters. We give several estimates of the largest prime divisor of g(n).

@@ -1,0 +1,1 @@
+We consider here the coexistence of first- and third-order integrals of motion in two dimensional classical and quantum mechanics. We find explicitly all potentials that admit such integrals, and all their integrals. Quantum superintegrable systems are found that have no classical analog, i.e. the potentials are proportional to \hbar^2, so their classical limit is free motion.

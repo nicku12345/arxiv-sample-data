@@ -1,0 +1,1 @@
+We show, following W. Holsztynski, that there exists a continuous metric d on the set of real numbers R such that any finite metric space is isometrically embeddable into (R,d).

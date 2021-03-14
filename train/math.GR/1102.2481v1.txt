@@ -1,0 +1,1 @@
+We prove that the Word problem in the Baumslag group G(1,2) which has a non-elementary Dehn function is decidable in polynomial time.

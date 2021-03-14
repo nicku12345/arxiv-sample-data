@@ -1,0 +1,1 @@
+We study the speed of a biased random walk on a percolation cluster on \Z^d in function of the percolation parameter p. We obtain a first order expansion of the speed at p=1 which proves that percolating slows down the random walk at least in the case where the drift is along a component of the lattice.

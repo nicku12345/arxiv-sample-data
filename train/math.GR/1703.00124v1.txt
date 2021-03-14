@@ -1,0 +1,1 @@
+In this paper we obtain a partial solution to Problem 17.41 from "Kourovka notebook": if S is a solvable subgroup of a finite group G with trivial solvable radical, do there exist five conjugate of S with trivial intersection. We consider the case, when G is a finite almost simple group with simple socle isomorphic to L_n^\epsilon(q) and S is a solvable subgroup of special type.

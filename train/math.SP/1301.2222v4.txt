@@ -1,0 +1,1 @@
+We show that eigenvalues and eigenfunctions of the Laplace-Beltrami operator on a Riemannian manifold are approximated by eigenvalues and eigenvectors of a (suitably weighted) graph Laplace operator of a proximity graph on an epsilon-net.

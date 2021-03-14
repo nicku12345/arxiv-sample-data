@@ -1,0 +1,1 @@
+Generalizing a classical one-variable theorem of Harald Bohr, we show that if an n-variable power series has modulus less than 1 in the unit polydisc, then the sum of the moduli of the terms is less than 1 in the polydisc of radius 1/(3*n^{1/2}).

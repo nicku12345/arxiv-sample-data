@@ -1,0 +1,1 @@
+Let X be a locally symmetric variety. Let EBS(X) and TorE(X) denote its excentric Borel-Serre and excentric toroidal compactifications, resp. We determine their least common modification and use it to prove a conjecture of Goresky and Tai concerning canonical extensions of homogeneous vector bundles. In the process, we see that EBS(X) and TorE(X) are homotopy equivalent.

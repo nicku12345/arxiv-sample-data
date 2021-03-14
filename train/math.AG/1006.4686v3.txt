@@ -1,0 +1,1 @@
+Given a surface S in P^3 and a collection of general points on it, how many surfaces of a given degree intersect S in a curve with prescribed multiplicities at the points? We formulate two natural conjectures which would answer this question, and we show they are equivalent. We then prove these conjectures in case all multiplicities are small.

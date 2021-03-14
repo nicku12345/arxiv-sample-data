@@ -1,0 +1,1 @@
+We obtain the dynamic programming equations and optimality conditions akin to Pontryagin's extremum principle for certain mathematical models of hybrid control systems.

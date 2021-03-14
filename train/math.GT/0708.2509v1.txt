@@ -1,0 +1,1 @@
+We construct a new order 1 invariant for knot diagrams. We use it to determine the minimal number of Reidemeister moves needed to pass between certain pairs of knot diagrams.

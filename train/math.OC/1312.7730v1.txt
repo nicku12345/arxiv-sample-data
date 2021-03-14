@@ -1,0 +1,1 @@
+In this paper, we provide a number of subdifferential formulas for a class of nonconvex infimal convolutions in normed spaces. The formulas obtained unify several results on subdifferentials of the distance function and the minimal time function. In particular, we generalize and validate the results obtained recently by Zhang, He, and Jiang

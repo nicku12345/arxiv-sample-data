@@ -1,0 +1,1 @@
+The class of MB(MB0)-tensors, which is a generation of B(B0)-tensors and quasi-double B(B0)-tensors, is proposed. And we prove that an even order symmetric MB(MB0)-tensor is positive (semi-)definite. This provides a positive answer for the conjecture in Li and Li's paper [15] that an even order symmetric quasi-double B0-tensor is positive semi-definite.

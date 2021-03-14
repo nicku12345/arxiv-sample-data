@@ -1,0 +1,1 @@
+Let Q be a conjugacy closed loop, and N(Q) its nucleus. Then Z(N(Q)) contains all associators of elements of Q. If in addition Q is diassociative (i.e., an extra loop), then all these associators have order 2. If Q is power-associative and |Q| is finite and relatively prime to 6, then Q is a group. If Q is a finite non-associative extra loop, then 16 \mid |Q|.

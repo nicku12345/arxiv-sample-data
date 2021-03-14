@@ -1,0 +1,1 @@
+We present an algorithm testing wheather, for given four vectors in R^3, there is a plane through the origin such that all four vectors fall into the same open halfspace.

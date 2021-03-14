@@ -1,0 +1,1 @@
+We generalize the fundamental structure Theorem on Hopf (bi)-modules by Larson and Sweedler to quasi-Hopf algebras H. If H is finite dimensional this proves the existence and uniqueness (up to scalar multiples) of integrals in H. Among other applications we prove a Maschke type Theorem for diagonal crossed products as constructed by the authors.

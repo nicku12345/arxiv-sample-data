@@ -1,0 +1,1 @@
+We study equations of the form \sigma(p^{q-1})=Az, where p is a prime, q is a fixed odd prime, A is a fixed integer and z is an integer composed of primes in a fixed finite set. We shall improve upper bounds for the size and the number of solutions of such equations.

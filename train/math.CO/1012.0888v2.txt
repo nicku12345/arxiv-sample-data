@@ -1,0 +1,1 @@
+In this paper we consider the following problem: Over the class of all simple connected unicyclic graphs on n vertices with girth g (n,g being fixed), which graph minimizes the Laplacian spectral radius? We prove that the graph U_{n,g} (defined in Section 1) uniquely minimizes the Laplacian spectral radius for n\geq 2g-1 when g is even and for n\geq 3g-1 when g is odd.

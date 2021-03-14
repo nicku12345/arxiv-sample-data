@@ -1,0 +1,1 @@
+Stability of nonconvex quadratic programming problems under finitely many convex quadratic constraints in Hilbert spaces is investigated. We present several stability properties of the global solution map, and the continuity of the optimal value function, assuming that the problem data undergoes small perturbations.

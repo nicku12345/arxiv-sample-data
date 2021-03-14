@@ -1,0 +1,1 @@
+The prime graph of a finite group G is denoted by \ga(G). Also G is called recognizable by prime graph if and only if each finite group H with \ga(H)=\ga(G), is isomorphic to G. In this paper, we classify all finite groups with the same prime graph as \textrm{PGL}(2,9). In particular, we present some solvable groups with the same prime graph as \textrm{PGL}(2,9).

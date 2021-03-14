@@ -1,0 +1,1 @@
+We prove that in the product of kappa many Boolean algebras we cannot find an independent set of more than 2^kappa elements solving a problem of Monk (earlier it was known that we cannot find more than 2^{2^kappa} but can find 2^kappa).

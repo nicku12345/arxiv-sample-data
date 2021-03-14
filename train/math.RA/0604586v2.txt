@@ -1,0 +1,1 @@
+Non-commutative Henselian rings are defined and it is shown that a local ring which is complete and separated in the topology defined by its maximal ideal is Henselian provided that it is almost commutative.

@@ -1,0 +1,1 @@
+We give a bound for the graph energy with given maximal degree in terms of the second and fourth moments of a graph. In the case in which the graph is d-regular we obtain the bound that is given in Van Dam, E. et al. (2014). through elementary methods.

@@ -1,0 +1,1 @@
+Using the integral representation of the inverse of the logarithmic derivative of the elliptic theta function, the spectrum of the Lax matrix for the 1D system of particles interacting via inverse sinh-squared potential is shown to be given by the asymptotic Bethe ansatz in the thermodynamic limit.

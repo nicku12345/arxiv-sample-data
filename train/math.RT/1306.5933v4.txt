@@ -1,0 +1,1 @@
+We classify the Auslander-Reiten components of the bounded derived category of \Lambda, where {\Lambda} is a cluster-tilted of type \~A. The main tool is the combinatoric description of the indecomposable complexes in the bounded homotopy category via homotopy strings and homotopy bands.

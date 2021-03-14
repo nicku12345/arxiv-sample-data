@@ -1,0 +1,1 @@
+In this paper, we introduce the notion of derivations of Lie 2-algebras and construct the associated derivation Lie 3-algebra. We prove that isomorphism classes of non-abelian extensions of Lie 2-algebras are classified by equivalence classes of morphisms from a Lie 2-algebra to a derivation Lie 3-algebra.

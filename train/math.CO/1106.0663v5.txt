@@ -1,0 +1,1 @@
+We prove that if A is a large random relational structure with at least one relation of arity at least 2 then the problem EXT(A) is almost surely NP-complete.

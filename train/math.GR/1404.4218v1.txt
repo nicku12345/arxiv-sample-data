@@ -1,0 +1,1 @@
+Given a group G and a G-module A, we show how to determine up to isomorphism the extensions E of A by G so that A embeds as smallest non-trivial term of the derived series or of the lower central series into E.

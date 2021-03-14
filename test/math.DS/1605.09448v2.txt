@@ -1,0 +1,1 @@
+We consider a simple pendulum whose suspension point undergoes fast vibrations in the plane of motion of the pendulum. The averaged over the fast vibrations system is a Hamiltonian system with one degree of freedom depending on two parameters. We give complete description of bifurcations of phase portraits of this averaged system.

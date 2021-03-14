@@ -1,0 +1,1 @@
+In this paper, we introduce a Hopf algebra, developed by the author and Andre Henriques, which is usable in the computation of the tmf homology of a space. As an application, we compute the tmf homology of BSigma_3 in a manner analogous to Mahowald's computation of the ko homology RP^infty.

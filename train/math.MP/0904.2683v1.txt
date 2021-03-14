@@ -1,0 +1,1 @@
+In quantum scattering on networks there is a non-linear composition rule for on-shell scattering matrices which serves as a replacement for the multiplicative rule of transfer matrices valid in other physical contexts. In this article, we show how this composition rule is obtained using Berezin integration theory with Grassmann variables.

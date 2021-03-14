@@ -1,0 +1,1 @@
+We prove that any real-analytic action of SL(n,\Z), n\ge 3 with standard homotopy data that preserves an ergodic measure \mu whose support is not contained in a ball, is analytically conjugate on an open invariant set to the standard linear action on the complement to a finite union of periodic orbits.

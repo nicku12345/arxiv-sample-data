@@ -1,0 +1,1 @@
+We classify the real and strongly real conjugacy classes in GL_n(q), SL_n(q), PGL_n(q), PSL_n(q), and all quasi-simple covers of PSL_n(q). In each case we give a formula for the number of real, and the number of strongly real, conjugacy classes.

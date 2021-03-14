@@ -1,0 +1,1 @@
+We define tautological Chow classes on the moduli space of curves with linear series. In the case where the forgetful morphism to the moduli space of curves has relative dimension zero, we describe the images of these classes in the Chow group of Mgbar. As an application, we compute the (virtual) slopes of several different classes of divisors on Mgbar.

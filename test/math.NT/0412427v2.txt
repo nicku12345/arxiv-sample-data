@@ -1,0 +1,1 @@
+In 1987, Zagier and Kramarz published a paper in which they presented evidence that a positive proportion of the even-signed cubic twists of the elliptic curve x^3+y^3=1 should have positive rank. We extend their data, showing that it is more likely that the proportion goes to zero.

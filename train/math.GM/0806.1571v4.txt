@@ -1,0 +1,1 @@
+Let \lfloor t \rfloor denote the greatest positive integer less than or equal to a given positive real number t and \vartheta(t) the Chebyshev \vartheta-function. In this paper, we prove a certain asymptotic relationship involving \vartheta(t) - \lfloor t \rfloor  and t^{1/2}.

@@ -1,0 +1,1 @@
+We define a relative version of the Loday construction for a sequence of commutative S-algebras A \rightarrow B \rightarrow C and a pointed simplicial subset Y \subset X. We use this to construct several spectral sequences for the calculation of higher topological Hochschild homology and apply those for calculations in some examples that could not be treated before.

@@ -1,0 +1,1 @@
+Given a Klein surface Y, there is a unique symmetric Riemann surface X being the complex double of Y. In this paper we shall show that the situation is not the same when we work in the category of surfaces with nodes.

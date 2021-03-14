@@ -1,0 +1,1 @@
+This paper provides a description of the algorithms employed by the Warwick AUTOMATA package for calculating the finite state automata associated with a short-lex automatic group. The aim is to provide an overview of the whole process, rather than concentrating on technical details, which have been already been published elsewhere. A number of related programs are also described.

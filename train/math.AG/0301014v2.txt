@@ -1,0 +1,1 @@
+For all m > 0 we build a two-dimensional family of smooth manifolds of real dimension 3m + 2 and use it to interpolate between the anticanonical family in the complex projective space of dimension m + 1 and its mirror dual. The main tool is the notion of self-dual manifold.

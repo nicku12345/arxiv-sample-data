@@ -1,0 +1,1 @@
+We use the concept of intrinsic metrics to give a new definition for an isoperimetric constant of a graph. We use this novel isoperimetric constant to prove a Cheeger-type estimate for the bottom of the spectrum which is nontrivial even if the vertex degrees are unbounded.

@@ -1,0 +1,1 @@
+N.Katz's middle convolution algorithm provides a description of rigid connections on the projective line with regular singularities. We extend the algorithm by adding the Fourier transform to it. The extended algorithm provides a description of rigid connections with arbitrary singularities.

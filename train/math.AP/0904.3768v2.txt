@@ -1,0 +1,1 @@
+In this paper, we establish separate necessary and sufficient   John-Nirenberg (JN) type inequalities for functions in   Q_{\alpha}^{\beta}(\mathbb{R}^{n}) which imply Gagliardo-Nirenberg (GN) type inequalities in   Q_{\alpha}(\mathbb{R}^{n}). Consequently, we obtain Trudinger-Moser type inequalities and Brezis-Gallouet-Wainger type inequalities in Q_{\alpha}(\mathbb{R}^{n}).

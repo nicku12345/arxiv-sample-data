@@ -1,0 +1,1 @@
+In this paper we introduce the notion of an unknotting index for virtual knots. We give some examples of computation by using writhe invariants, and discuss a relationship between the unknotting index and the virtual knot module. In particular, we show that for any non-negative integer n there exists a virtual knot whose unknotting index is (1,n).

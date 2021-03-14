@@ -1,0 +1,1 @@
+Our main motivation for the work presented in this paper is to construct a localization functor, in a certain sense dual to the f-localization of Bousfield and Farjoun, and to study some of its properties. We succeed in a case which is related to the Sullivan profinite completion. As a corollary we prove the existence of certain cohomological localizations.

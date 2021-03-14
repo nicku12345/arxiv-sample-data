@@ -1,0 +1,1 @@
+Let A,B be two square complex matrices of dimension at most 3. We show that the following conditions are equivalent i) There exists a finite subset U included in {2,3,4,...} such that for every positive integer t that is not in U, exp(tA+B)=exp(tA)exp(B)=exp(B)exp(tA). ii) The pair (A,B) has property L of Motzkin and Taussky and exp(A+B)=exp(A)exp(B)=exp(B)exp(A).

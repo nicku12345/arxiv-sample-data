@@ -1,0 +1,1 @@
+We determine when two almost automorphisms of a regular tree are conjugate. This is done by combining the classification of conjugacy classes in the automorphism group of a level-homogeneous tree by Gawron, Nekrashevych and Sushchansky and the solution of the conjugacy problem in Thompson's V by Belk and Matucci. We also analyze dynamics of tree almost automorphisms.

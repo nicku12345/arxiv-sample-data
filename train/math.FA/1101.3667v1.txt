@@ -1,0 +1,1 @@
+We prove a logarithmic Sobolev trace inequality in a gaussian space and we study the trace operator in the weighted Sobolev space W^{1,p}(\Omega,\gamma) for sufficiently regular domain. We exhibit examples to show the sharpness of the results. Applications to PDE are also considered.

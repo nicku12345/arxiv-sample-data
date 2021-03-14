@@ -1,0 +1,1 @@
+Let X be a uniform space and U(X) the linear space of real-valued uniformly continuous functions on X. Our main objective is to give a number of properties characterizing the fact that U(X) is stable under pointwise product in case X is a metric space. Some of these characterizations hold in much more general circumstances.

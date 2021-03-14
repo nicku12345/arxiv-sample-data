@@ -1,0 +1,1 @@
+We offer a counterexample to a theorem in the literature and then repair the theorem as follows: The fundamental group of a locally path connected metric space inherits the discrete topology in a natural way if and only if the underlying space is semilocally simply connected.

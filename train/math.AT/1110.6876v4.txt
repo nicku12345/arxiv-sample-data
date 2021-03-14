@@ -1,0 +1,1 @@
+We introduce fibrewise Whitehead- and fibrewise Ganea definitions of monoidal topological complexity. We then define several lower bounds for the topological complexity, which improve on the standard lower bound in terms of nilpotency of the cohomology ring. The relationships between these lower bounds are studied.

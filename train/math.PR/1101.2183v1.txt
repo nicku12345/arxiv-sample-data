@@ -1,0 +1,1 @@
+We establish an upper bound on the tails of a random variable that arises as a solution of a stochastic difference equation. In the non--negative case our bound is similar to a lower bound obtained by Goldie and Gr\"ubel in 1996.

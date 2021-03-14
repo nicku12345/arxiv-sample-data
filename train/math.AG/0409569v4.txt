@@ -1,0 +1,1 @@
+We describe the Chow ring with rational coefficients of Mbar_{0,1}(P^n,d) as the subring of invariants of a ring B(Mbar_{0,1}(P^n,d);Q), relative to the action of the group of symmetries S_d. We compute B(Mbar_{0,1}(P^n,d);Q) by following a sequence of intermediate spaces for Mbar_{0,1}(P^n,d).

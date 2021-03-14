@@ -1,0 +1,1 @@
+Associated with a prime homology class \beta \in P_2(X,\Z) (i.e. \beta=p\alpha and \alpha \in H_2(X,\Z) imply p=1 or p is an odd prime) on a symplectic three-manifold with vanishing first Chern class, we count the embedded perturbed pseudo-holomorphic curves in X of a fixed genus g to obtain certain integer valued invariants analogous to Gromov-Witten invariants of X.

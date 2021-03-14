@@ -1,0 +1,1 @@
+Direct solution of simultaneous linear equations is regarded to be slow for large systems of equations and requires special treatment to avoid numerical instability. A new method is proposed that addresses the numerical instability without any special treatments. The method uses the orthogonal matrices to achieve numerical stability.

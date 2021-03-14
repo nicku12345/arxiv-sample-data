@@ -1,0 +1,1 @@
+We provide a nontrivial upper bound for the nonnegative rank of rank-three matrices, which allows us to prove that [6(n+1)/7] linear inequalities suffice to describe a convex n-gon up to a linear projection.

@@ -1,0 +1,1 @@
+It is shown that if n<7, then each tiling of R^n by translates of the unit cube [0,1)^n contains a column; that is, a family of the form {[0,1)^n+(s+ke_i): k \in Z}, where s \in R^n, e_i is an element of the standard basis of R^n and Z is the set of integers.

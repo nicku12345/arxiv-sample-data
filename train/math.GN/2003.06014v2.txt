@@ -1,0 +1,1 @@
+In this paper, we shall show that the space of real-valued uniformly continuous functions on a metric measure space with the L^p norm is homeomorphic to the subspace consisting of sequences conversing to 0 in the pseudo interior.

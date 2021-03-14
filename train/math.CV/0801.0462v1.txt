@@ -1,0 +1,1 @@
+Given a function f in the exterior of a convex curve in the real plane, we prove that if the restrictions of f to the tangent lines to the curve extend as entire functions, then the function f is an entire function of two variables.

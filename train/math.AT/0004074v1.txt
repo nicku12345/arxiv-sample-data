@@ -1,0 +1,1 @@
+Let D_n be the Dickson invariant ring of F_2[X_1,...,X_n] acted by the general linear group GL(n,\F_2). In this paper, we provide an elementary proof of the conjecture by [Hung]: each element in D_n is in the image of the Steenrod square in F_2[X_1,...,X_n], where n>3.

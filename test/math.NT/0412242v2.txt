@@ -1,0 +1,1 @@
+We use a result of Thaine to give an alternative proof of the fact that, for a prime p>3 congruent to 3 modulo 4, the component e_{(p+1)/2} of the p-Sylow subgroup of the ideal class group of \mathbb Q(\zeta_{p}) is trivial.

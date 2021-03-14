@@ -1,0 +1,1 @@
+We propose a modification of the predictions of the Cohen--Lenstra heuristic for class groups of number fields in the case where roots of unity are present in the base field. As evidence for this modified formula we provide a large set of computational data which show close agreement.

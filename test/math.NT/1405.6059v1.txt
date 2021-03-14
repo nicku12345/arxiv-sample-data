@@ -1,0 +1,1 @@
+We describe algorithms for computing central values of twists of L-functions associated to Hilbert modular forms, carry out such computations for a number of examples, and compare the results of these computations to some heuristics and predictions from random matrix theory.

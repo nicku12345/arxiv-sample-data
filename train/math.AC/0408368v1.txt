@@ -1,0 +1,1 @@
+Let \fa denote an ideal of a d-dimensional Gorenstein local ring R and M and N two finitely generated R-modules with \pd M< \infty. It is shown that H^d_{\fa}(M,N)=0 if and only if \dim \hat{R}\big/ \fa\hat{R}+\fp>0 for all \fp\in\Ass_{\hat{R}}\hat{M}\cap\Supp_{\hat{R}}\hat{N}.

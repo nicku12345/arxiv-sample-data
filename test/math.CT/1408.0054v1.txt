@@ -1,0 +1,1 @@
+We implement in the formal language of homotopy type theory a new set of axioms called cohesion. Then we indicate how the resulting cohesive homotopy type theory naturally serves as a formal foundation for central concepts in quantum gauge field theory. This is a brief survey of work by the authors developed in detail elsewhere.

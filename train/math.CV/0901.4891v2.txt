@@ -1,0 +1,1 @@
+Le but de cet article est d'obtenir la cyclicite de certaines classes de fonctions pour des operateurs de Toeplitz anti-analytique associes a un produit fini de Blaschke dans les espaces H^p ou 1<p<\infty. Il s'agit aussi de decrire les sous-espaces invariants par ce type d'operateur et engendres par des decompositions lacunaires de fonctions.

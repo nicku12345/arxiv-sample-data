@@ -1,0 +1,1 @@
+We prove that the 2D Euler equations are not locally well-posed in C^1. Our approach relies on the technique of Lagrangian deformations and norm inflation of Bourgain and Li. We show that the assumption that the data-to-solution map is continuous in C^1 leads to a contradiction with a well-posedness result in W^{1,p} of Kato and Ponce.

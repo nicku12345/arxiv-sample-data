@@ -1,0 +1,1 @@
+Let H be a group obtained from a group G by adding one generator and one relator which is a proper power of a unimodular word. The main aim of this paper is to prove that G is a malnormal subgroup of H. This implies that if G is a nontrivial group, then the group H has a trivial center.

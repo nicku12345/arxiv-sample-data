@@ -1,0 +1,1 @@
+We construct a ring structure on complex cobordism tensored with the rationals, which is related to the usual ring structure as quantum cohomology is related to ordinary cohomology. The resulting object defines a generalized two- dimensional topological field theory taking values in a category of spectra.

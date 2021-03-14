@@ -1,0 +1,1 @@
+We prove an abstract compactness result for gradient flow lines of a non-local unregularized gradient flow equation on a scale Hilbert space. This is the first step towards Floer theory on scale Hilbert spaces.

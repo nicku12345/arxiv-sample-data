@@ -1,0 +1,1 @@
+We give topological and game theoretic definitions and theorems nec- essary for defining a Banach-Mazur game, and apply these definitions to formalize the game. We then state and prove two theorems which give necessary conditions for existence of winning strategies for players in a Banach-Mazur game.

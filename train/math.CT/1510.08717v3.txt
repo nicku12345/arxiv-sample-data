@@ -1,0 +1,1 @@
+We introduce semidirect products of skew monoidal categories as a categorification of semidirect products of monoids (or, perhaps more familiarly, of groups). We also discuss how this construction interacts with monoidal, autonomous and closed monoidal structures. We end by producing some examples of monoidal categories which are left closed but not right closed.

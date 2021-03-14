@@ -1,0 +1,1 @@
+A graph embedded in the 3-sphere is called irreducible if it is non-splittable and for any 2-sphere embedded in the 3-sphere that intersects the graph at one point the graph is contained in one of the 3-balls bounded by the 2-sphere. We show that irreducibility is preserved under certain deformations of embedded graphs. We show that certain embedded graphs are irreducible.

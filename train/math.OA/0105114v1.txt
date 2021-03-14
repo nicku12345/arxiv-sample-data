@@ -1,0 +1,1 @@
+We introduce notation Q(1) * ... * Q(n) * L(F_r) for von Neumann algebra II_1 factors where r is allowed to be negative. This notation is defined by rescalings of free products of II_1 factors, and is proved to be consistent with known results and natural operations. We also give two statements which we prove are equivalent to isomorphism of free group factors.

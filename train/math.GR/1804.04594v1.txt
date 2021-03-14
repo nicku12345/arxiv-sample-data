@@ -1,0 +1,1 @@
+Let G\in\{p,q\}^* be a finite group with trivial center, where p,q\in\pi(G) and p>q>5. In the present paper it is proved that |G|_{\{p,q\}}=|G||_{\{p,q\}}; in particular C_G(g)\cap C_G(h)=1 for every p-element g and every q-element h.

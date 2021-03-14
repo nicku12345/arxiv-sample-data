@@ -1,0 +1,1 @@
+An outstanding conjecture on roots of Ehrhart polynomials says that all roots \alpha of the Ehrhart polynomial of an integral convex polytope of dimension d satisfy -d \leq \Re(\alpha) \leq d-1. In this paper, we suggest some counterexamples of this conjecture.

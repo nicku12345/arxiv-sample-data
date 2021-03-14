@@ -1,0 +1,1 @@
+Let H be a Hopf quasigroup with bijective antipode and let Aut_{HQG}(H) be the set of all Hopf quasigroup automorphisms of H. We introduce a category {_{H}\mathcal{YDQ}^{H}}(\alpha,\beta) with \alpha,\beta\in Aut_{HQG}(H) and construct a braided T-category \mathcal{YDQ}(H) having all the categories {_{H}\mathcal{YDQ}^{H}}(\alpha,\beta) as components.

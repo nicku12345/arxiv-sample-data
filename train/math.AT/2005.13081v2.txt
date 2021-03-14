@@ -1,0 +1,1 @@
+Let \mathcal{A} be a topological Azumaya algebra of degree mn over a CW complex X. Firstly, we give conditions for the positive integers m and n, and the space X so that \mathcal{A} can be decomposed as the tensor product of topological Azumaya algebras of degrees m and n. Then we prove that if m<n and the dimension of X is higher than 2m+1, \mathcal{A} has no such decomposition.

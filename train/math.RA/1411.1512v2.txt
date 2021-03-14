@@ -1,0 +1,1 @@
+Using cocycle twists for associative graded algebras, we characterize finite dimensional nilpotent Lie color algebras L graded by arbitrary abelian groups whose enveloping algebras U(L) have the property that the injective hulls of simple right U(L)-modules are locally Artinian. We also collect together results on gradings on Lie algebras arising from this characterization.

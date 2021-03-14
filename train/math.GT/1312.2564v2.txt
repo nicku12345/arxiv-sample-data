@@ -1,0 +1,1 @@
+We show how Latour's theorem can be understood as a natural generalization of the  s -cobordism theorem for cohomology classes  u\in H^1(M;\mathbb{R}) . The  s -cobordism theorem becomes a special degenerate case when  u=0 .

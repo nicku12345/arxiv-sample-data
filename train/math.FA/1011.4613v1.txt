@@ -1,0 +1,1 @@
+Let X be a separable Banach space which admits a separating polynomial; in particular X a separable Hilbert space. Let f:X \rightarrow R be bounded, Lipschitz, and C^1 with uniformly continuous derivative. Then for each {\epsilon}>0, there exists an analytic function g:X \rightarrow R with |g-f|<\epsilon and ||g'-f'||<\epsilon.

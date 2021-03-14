@@ -1,0 +1,1 @@
+We present an explicit method to compute the (Siciak-Zaharjuta) extremal function of a real convex polytope in terms of supporting simplices and strips. We use this to give a new proof of the existence of extremal ellipses associated to the extremal function of a real convex body.

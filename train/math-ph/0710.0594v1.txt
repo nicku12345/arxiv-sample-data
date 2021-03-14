@@ -1,0 +1,1 @@
+We consider Hamiltonian systems of a certain class with unstable orbits moving to infinity. We prove a theorem showing that analogous quantum states do not exist. This theorem is applied to Schrodinger operators with potentials of degree zero which are Morse when restricted to the unit sphere.

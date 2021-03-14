@@ -1,0 +1,1 @@
+Necessary and sufficient conditions for two sequences \{\mu_n\}_{n=0}^\infty and \{ a_n\}_{n=0}^\infty to be the spectral data for a certain Sturm-Liouville problem are well known. We add two more conditions so that the same two sequences become necessary and sufficient for being the spectral data for a Sturm-Liouville problem with fixed boundary conditions.

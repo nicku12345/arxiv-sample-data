@@ -1,0 +1,1 @@
+In this document, the calculations of the AC power balance and flow equations used by MATPOWER will be extended to include adjustable tap ratios.

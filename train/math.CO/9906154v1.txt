@@ -1,0 +1,1 @@
+We find, in the form of a continued fraction, the generating function for the number of (132)-avoiding permutations that have a given number of (123) patterns, and show how to extend this to permutations that have exactly one (132) pattern. We find some properties of the continued fraction, which is similar to, though more general than, those that were studied by Ramanujan.

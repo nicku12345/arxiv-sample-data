@@ -1,0 +1,1 @@
+We consider the relationship between two sufficient conditions for regularity of the Bergman Projection on smooth, bounded, pseudoconvex domains. We show that if the set of infinite type points is reasonably well-behaved, then the existence of a family of good vector fields in the sense of Boas and Straube implies that the Diederich-Fornaess Index of the domain is equal to one.

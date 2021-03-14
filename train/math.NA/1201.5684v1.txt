@@ -1,0 +1,1 @@
+We propose the estimates of the discrete Green function for the stream- line diffusion finite element method (SDFEM) on Shishkin meshes.

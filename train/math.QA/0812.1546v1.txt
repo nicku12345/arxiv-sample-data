@@ -1,0 +1,1 @@
+Using matrix corepresentations on SL_q(N) and SU_q(N) we derive a Haar state on SU_q(N) which is nearly identical to that on SU_q(2). This allows us to create an orthonormal basis for the vector space of coordinate functions on SU_q(N).

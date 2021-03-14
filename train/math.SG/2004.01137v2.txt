@@ -1,0 +1,1 @@
+We prove that every symplectic 4-manifold admits a trisection that is compatible with the symplectic structure in the sense that the symplectic form induces a Weinstein structure on each of the three sectors of the trisection. Along the way, we show that a (potentially singular) symplectic braided surface in \mathbb{CP}^2 can be symplectically isotoped into bridge position.

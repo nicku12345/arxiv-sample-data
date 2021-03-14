@@ -1,0 +1,1 @@
+We prove variations of Carath\'eodory's, Helly's and Tverberg's theorems where the sets involved are measured according to continuous functions such as the volume or diameter. Among our results, we present continuous quantitative versions of Lov\'asz's colorful Helly theorem, B\'ar\'any's colorful Carath\'eodory's theorem, and the colorful Tverberg theorem.

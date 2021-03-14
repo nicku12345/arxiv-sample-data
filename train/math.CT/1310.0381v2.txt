@@ -1,0 +1,1 @@
+Evidence is given for the correctness of the Joyal-Riehl-Verity construction of the homotopy bicategory of the (\infty, 2)-category of (\infty, 1)-categories; in particular, it is shown that the analogous construction using complete Segal spaces instead of quasicategories yields a bicategorically equivalent 2-category.

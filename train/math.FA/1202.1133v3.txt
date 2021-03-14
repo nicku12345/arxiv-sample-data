@@ -1,0 +1,1 @@
+We prove sharp embedding inequalities for certain reduced Sobolev spaces that arise naturally in the context of Dirichlet problems with L^1 data. We also find the optimal target spaces for such embeddings, which in dimension 2 could be considered as limiting cases of the Hansson-Brezis-Wainger spaces, for the optimal embeddings of borderline Sobolev spaces W_0^{k,n/k}.

@@ -1,0 +1,1 @@
+We consider a purely algebraic result. Then given a circle or cyclic group of prime order action on a manifold, we will use it to estimate the lower bound of the number of fixed points. We also give an obstruction to the existence of \mathbb{Z}_p action on manifolds with isolated fixed points when p is a prime.

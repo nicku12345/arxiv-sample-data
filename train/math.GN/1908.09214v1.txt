@@ -1,0 +1,1 @@
+We define a Polish topology inspired from the Gandy-Harrington topology and show how it can be used to prove Silver's dichotomy theorem while remaining in the Polish realm. In this topology, a \Pi^1_1 equivalence relation decomposes into a "sum" of a clopen relation and a meager one. We characterize it as the largest regular toplogy with a basis included in \Sigma^1_1.

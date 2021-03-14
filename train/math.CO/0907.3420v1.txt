@@ -1,0 +1,1 @@
+We give an upper bound for the online chromatic number of graphs with high girth and for graphs with high oddgirth generalizing Kier- stead's algorithm for graphs that contain neither a C3 or C5 as an induced subgraph.

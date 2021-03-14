@@ -1,0 +1,1 @@
+We investigate a way to approximate the maximum of a polynomial over a polytopal region by using Handelman's polynomial decomposition and continuous multivariate generating functions. The maximization problem is NP-hard, but our approximation methods will run in polynomial time when the dimension is fixed.

@@ -1,0 +1,1 @@
+We give a short proof of Szemer\'edi's regularity lemma, based on elementary Euclidean geometry. The general line of the proof is that of the standard proof (in fact, of Szemer\'edi's original proof), but most technicalities are swallowed by applying Pythagoras' theorem.

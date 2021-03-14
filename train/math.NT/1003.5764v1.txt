@@ -1,0 +1,1 @@
+Based on a fairly precise approximation to the lattice discrepancy of a Lame disc, an asymptotic formula is established for the number of lattice points in a related three-dimensional body, linearly dilated by a large real parameter x. Particular care is taken of the boundary points of Gaussian curvature zero.

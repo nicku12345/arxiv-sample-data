@@ -1,0 +1,1 @@
+Related to each degeneration from CP^2 to CP(a^2,b^2,c^2), for (a,b,c) a Markov triple - positive integers satisfying a^2 + b^2 + c^2 = 3abc - there is a monotone Lagrangian torus, which we call T(a^2,b^2,c^2). We employ techniques from symplectic field theory to prove that no two of them are Hamiltonian isotopic to each other.

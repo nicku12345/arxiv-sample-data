@@ -1,0 +1,1 @@
+In math-ph/0107007, we present a method to tackle first order ordinary differential equations whose solutions contain Liouvillian functions (LFOODEs), many of them missed by the usual PS-approach. Here, we demonstrate an important result concerning the generality of that method.

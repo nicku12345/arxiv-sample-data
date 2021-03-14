@@ -1,0 +1,1 @@
+In this paper, theory and construction of spinor representations of real Clifford algebras \cl_{p,q} in minimal left ideals are reviewed. Connection with a general theory of semisimple rings is shown. The actual computations can be found in, for example, [2].

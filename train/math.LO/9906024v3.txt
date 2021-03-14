@@ -1,0 +1,1 @@
+We look for a parallel to the notion of ``proper forcing'' among lambda-complete forcing notions not collapsing lambda^+ . We suggest such a definition and prove that it is preserved by suitable iterations.

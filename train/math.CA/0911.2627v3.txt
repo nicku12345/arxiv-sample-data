@@ -1,0 +1,1 @@
+We classify the polynomials f(x,y) \in \mathbb R[x,y] such that given any finite set A \subset \mathbb R if |A+A| is small, then |f(A,A)| is large. In particular, the following bound holds : |A+A||f(A,A)| \gtrsim |A|^{5/2}. The Bezout's theorem and a theorem by Y. Stein play important roles in our proof.

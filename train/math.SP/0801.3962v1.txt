@@ -1,0 +1,1 @@
+In this paper we introduce and study a certain intricate Cantor-like set C contained in unit interval. Our main result is to show that the set C itself, as well as the set of dissipative points within C, both have Hausdorff dimension equal to 1. The proof uses the transience of a certain non-symmetric Cauchy-type random walk.

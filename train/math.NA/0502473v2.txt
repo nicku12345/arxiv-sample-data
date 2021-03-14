@@ -1,0 +1,1 @@
+We provide a simple proof of Tchakaloff's Theorem on the existence of cubature formulas of degree m for Borel measures with moments up to order m. The result improves known results for non-compact supports, since we do not need conditions on (m+1)st moments.

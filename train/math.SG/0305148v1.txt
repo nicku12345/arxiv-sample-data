@@ -1,0 +1,1 @@
+The Hofer-Zehnder theorem states that almost every hypersurface in a thickening of a hypersurface S in a symplectic manifold (M,\omega) carries a closed characteristic provided that S bounds a compact submanifold and (M,\omega) has finite capacity. We show that it is enough to assume that the thickening of S has finite capacity.

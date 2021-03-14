@@ -1,0 +1,1 @@
+Applying a theorem due to Belopol'ski and Birman, we show that the Laplace-Beltrami operator on 1-forms on {\bf R}^n endowed with an asymptotically Euclidean metric has absolutely continuous spectrum equal to [0, +\infty).

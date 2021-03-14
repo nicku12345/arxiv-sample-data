@@ -1,0 +1,1 @@
+We prove that is a measurable domain tiles R or R^2 by translations, and if it is "close enough" to a line segment or a square respectively, then it admits a lattice tiling. We also prove a similar result for spectral sets in dimension 1, and give an example showing that there is no analogue of the tiling result in dimensions 3 and higher.

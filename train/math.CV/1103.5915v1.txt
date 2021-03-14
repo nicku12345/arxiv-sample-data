@@ -1,0 +1,1 @@
+This paper determines the group of continuous invariants corresponding to an inner function  \Theta  with finitely many singularities on the unit circle T; that is, the continuous mappings g: T \to T such that \Theta \circ g = \Theta  on \T. These mappings form a group under composition.

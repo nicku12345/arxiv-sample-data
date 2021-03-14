@@ -1,0 +1,1 @@
+We define a canonical basis of the q-deformed Fock space representation of the affine Lie algebra \glchap_n. We conjecture that the entries of the transition matrix between this basis and the natural basis of the Fock space are q-analogues of decomposition numbers of the v-Schur algebras for v specialized to a nth root of unity.

@@ -1,0 +1,1 @@
+We make a study of ll-extensions of model category structures. We prove an existence result of ll-extensions, present some specific and some rather formal results about them and give an application of the existence result to the homotopy theory of categories enriched over a monoidal model category.

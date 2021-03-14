@@ -1,0 +1,1 @@
+Let D_1 be a subdomain of D_2 in the complex plane CC. Under very mild conditions on D_2 we show that there exist holomorphic functions f, defined on D_1 with the property that f is nowhere extendible across the boundary of D_1, while the graph of f over D_1 is NOT complete pluripolar in D_2 times CC. This refutes a conjecture of Levenberg, Martin and Poletsky.

@@ -1,0 +1,1 @@
+We define an S^1-equivariant index for non-compact symplectic manifolds with Hamiltonian S^1-action. We use the perturbation by Dirac-type operator along the S^1-orbits. We give a formulation and a proof of quantization conjecture for this S^1-equivariant index. We also give comments on the relation between our S^1-equivariant index and the index of transverse elliptic operators.

@@ -1,0 +1,1 @@
+We consider regular solutions to the Navier-Stokes equation and provide an extension to the Escauriaza-Seregin-Sverak blow-up criterion in the negative regularity Besov scale, with regularity arbitrarly close to -1. Our results rely on turning a priori bounds for the solution in negative Besov spaces into bounds in the positive regularity scale.

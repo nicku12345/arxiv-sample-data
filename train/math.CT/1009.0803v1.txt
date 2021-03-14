@@ -1,0 +1,1 @@
+Dual monoidal category \mathcal C^\ast of a monoidal functor F:\mathcal C\to \mathcal V has been constructed by S. Majid. In this paper, we extend the construction of dual structures for an Ann-functor F:\mathcal B\to \mathcal A. In particular, when F=id_{\mathcal A}, then the dual category \mathcal A^{\ast} is indeed the center of \mathcal A and this is a braided Ann-category.

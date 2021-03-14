@@ -1,0 +1,1 @@
+The power \frac{2m}{m+1} in the polynomial (and multilinear) Bohnenblust--Hille inequality is optimal. This result is well-known but its proof highly nontrivial. In this note we present a quite simple proof of this fact.

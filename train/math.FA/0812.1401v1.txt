@@ -1,0 +1,1 @@
+In this note we prove that the factorization theorem for dominated polynomials previously proved by the authors is equivalent to an alternative factorization scheme that uses classical linear techniques and a linearization process. However, this alternative scheme is shown not to be satisfactory until the equivalence is proved.

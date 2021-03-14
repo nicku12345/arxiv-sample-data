@@ -1,0 +1,1 @@
+We extend the sum-of-divisors function to the complex plane via the Gaussian integers. Then we prove a modified form of Euler's classification of odd perfect numbers.

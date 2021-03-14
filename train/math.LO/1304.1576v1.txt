@@ -1,0 +1,1 @@
+We prove completeness, interpolation and omitting types for certain predicate topological logics that properly extend the first order case. We aslo count the non isomorphic topological models of a countable theory

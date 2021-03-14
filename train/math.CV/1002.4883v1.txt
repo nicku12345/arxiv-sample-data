@@ -1,0 +1,1 @@
+We prove a theorem on separation of boundary null points for generators of continuous semigroups of holomorphic self-mappings of the unit disk in the complex plane. Our construction demonstrates the existence and importance of a particular role of the binary operation \circ given by 1 / f \circ g = 1/f + 1/g on generators.

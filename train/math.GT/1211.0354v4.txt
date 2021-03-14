@@ -1,0 +1,1 @@
+We prove that the control polygon of a Bezier curve B becomes homeomorphic and ambient isotopic to B via subdivision, and we provide closed-form formulas to compute the number of iterations to ensure these topological characteristics. We first show that the exterior angles of control polygons converge exponentially to zero under subdivision.

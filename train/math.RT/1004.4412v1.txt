@@ -1,0 +1,1 @@
+Let G be a reductive algebraic group, with nilpotent cone N and flag variety G/B. We construct an exact functor from perverse sheaves on N to locally constant sheaves on G/B, and we use it to study Ext-groups of simple perverse sheaves on N in terms of the cohomology of G/B. As an application, we give new proofs of some known results on stalks of perverse sheaves on N.

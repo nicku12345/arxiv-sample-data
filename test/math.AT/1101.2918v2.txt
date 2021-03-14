@@ -1,0 +1,1 @@
+Cohomology of a topological space with coefficients in stacks of abelian 2-groups is considered. A 2-categorical analog of the theorem of Grothendieck is proved, relating cohomology of the space with coefficients in a 2-stage spectrum and the Ext groups of appropriate stacks.

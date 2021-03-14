@@ -1,0 +1,1 @@
+We prove that the crossed product C^*-algebra C^*_r(\Gamma,\partial\Gamma) of a free group \Gamma with its boundary \partial\Gamma naturally sits between the reduced group C^*-algebra C^*_r\Gamma and its injective envelope I(C^*_r\Gamma). In other words, we have natural inclusion C^*_r\Gamma \subset C^*_r(\Gamma,\partial\Gamma) \subset I(C^*_r\Gamma) of C^*-algebras.

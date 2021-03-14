@@ -1,0 +1,1 @@
+Let N be a smooth manifold and f:N\to N be a C^l, l\geq 2 diffeomorphism. Let M be a normally hyperbolic invariant manifold, not necessarily compact. We prove an analogue of the \lambda-lemma in this case.

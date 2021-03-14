@@ -1,0 +1,1 @@
+Functorial maps and weak parities are equivalent descriptions of rules of substitution virtual crossings for classical in diagrams of a knot in a way compatible with Reidemeister moves. We introduce the notion of maximal weak parity and describe it for knots in a given closed oriented surface. This weak parity defines a projection from virtual knots to classical knots.

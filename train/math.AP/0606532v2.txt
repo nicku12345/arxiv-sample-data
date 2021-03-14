@@ -1,0 +1,1 @@
+Finite difference schemes are here solved by means of a linear matrix equation. The theoretical study of the related algebraic system is exposed, and enables us to minimize the error due to a finite difference approximation.

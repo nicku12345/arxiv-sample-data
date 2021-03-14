@@ -1,0 +1,1 @@
+In this work, we introduce new combinatorial objects called Dyck tableaux, which present a natural insertion algorithm. These tools may be useful to describe statistics which are relevant in the study of the physical model named PASEP.

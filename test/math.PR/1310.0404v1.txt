@@ -1,0 +1,1 @@
+We show some Chung-type \liminf law of the iterated logarithm results at zero for a class of (pure-jump) Feller or L\'evy-type processes. This class includes all L\'evy processes. The norming function is given in terms of the symbol of the infinitesimal generator of the process. In the L\'evy case, the symbol coincides with the characteristic exponent.

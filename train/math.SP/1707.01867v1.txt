@@ -1,0 +1,1 @@
+A problem of determining zeroes of the Gauss hypergeometric function goes back to Klein, Hurwitz, and Van Vleck. In this very short note we show how ratios of hypergeometric functions arise as m-functions of Jacobi matrices and we then revisit the problem based on the recent developments of the spectral theory of non-Hermitian Jacobi matrices.

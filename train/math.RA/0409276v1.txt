@@ -1,0 +1,1 @@
+We study Lie algebra prederivations. A Lie algebra admitting a non-singular prederivation is nilpotent. We classify filiform Lie algebras admitting a non-singular prederivation but no non-singular derivation. We prove that any 4-step nilpotent Lie algebra admits a non-singular prederivation. The results can be applied to construct affine structures on Lie algebras.

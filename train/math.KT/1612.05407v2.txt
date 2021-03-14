@@ -1,0 +1,1 @@
+We show that, for a simplicial complex, the supported cap product operation on Borel-Moore homology coincides with the supported cap product on simplicial homology. For this purpose we introduce the supported cap product for locally finite singular homology, and compare the cap product on the three homology theories.

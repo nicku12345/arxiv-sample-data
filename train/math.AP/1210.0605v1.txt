@@ -1,0 +1,1 @@
+We construct global \dot H^1\cap \dot H^{-1} solutions to a logarithmically modified 2D Euler vorticity equation. Our main tool is a new logarithm interpolation inequality which exploits the L^{\infty-}-conservation of the vorticity.

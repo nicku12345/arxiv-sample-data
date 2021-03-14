@@ -1,0 +1,1 @@
+A classical theorem of Jones and Journ\'e on weak-star convergence in the Hardy space H^1 was generalised to the multiparameter setting by Pipher and Treil. We prove the analogous result when the underlying space is a product space of homogeneous type. The main tools we use for this setting are from recent work in papers by Chen, Li and Ward and by Han, Li and Ward.

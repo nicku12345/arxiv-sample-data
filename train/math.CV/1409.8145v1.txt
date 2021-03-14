@@ -1,0 +1,1 @@
+Two properties of plurisubharmonic functions are proven. The first result is a Skoda type integrability theorem with respect to a Monge-Amp\`ere mass with H\"older continuous potential. The second one says that locally, a p.s.h. function is k-Lipschitz outside a set of Lebesgue measure smaller that c/k^2.

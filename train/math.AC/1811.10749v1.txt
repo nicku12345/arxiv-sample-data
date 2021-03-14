@@ -1,0 +1,1 @@
+We give an alternate proof for a theorem of Migliore and Nagel. In particular, we show that if \mathcal H is an SI-sequence, then the collection of Betti diagrams for all Artinian Gorenstein k-algebras with the weak Lefschetz property and Hilbert function \mathcal H has a unique largest element.

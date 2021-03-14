@@ -1,0 +1,1 @@
+Bicategories of spans are characterized as cartesian bicategories in which every comonad has an Eilenberg-Moore ob ject and every left adjoint arrow is comonadic.

@@ -1,0 +1,1 @@
+Given a probability space (\Omega,{\mathcal A},P), random variables L,M\colon\Omega\to\mathbb R and g\in L^1(\mathbb R) we obtain two characterizations of these f\in L^1(\mathbb R) which are solutions of the inhomogeneous refinement equation with a random affine map of the form f(x)=\int_\Omega |L(\omega)|f(L(\omega)x-M(\omega))P(d\omega)+g(x).

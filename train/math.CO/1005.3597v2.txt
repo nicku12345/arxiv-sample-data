@@ -1,0 +1,1 @@
+This paper describes a simple method for estimating lower bounds on the number of classes of equivalence for a special kind of integer sequences, called division sequences. The method is based on adding group structure to classes of equivalence and studying properties of resulting groups as presentations of free group.

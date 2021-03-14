@@ -1,0 +1,1 @@
+Define an outer measure on R^n by taking the infimum, over all covers of the set by tubes, of the sum of the cross-sectional areas of the tubes. We show that the only measurable sets for this outer measure are its null sets and their complements.

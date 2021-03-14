@@ -1,0 +1,1 @@
+We find the exact best possible range of those p > 1 for which any function which belongs to A_1(\mathbb{R}), with A_1-constant equal to c, must also belong to L^p. In this way we provide alternative proofs of the results in [2] and [10].

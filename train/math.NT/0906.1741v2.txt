@@ -1,0 +1,1 @@
+We establish formulae for the Iwasawa invariants of Mazur--Tate elements of cuspidal eigenforms, generalizing known results in weight 2. Our first theorem deals with forms of "medium" weight, and our second deals with forms of small slope . We give examples illustrating the strange behavior which can occur in the high weight, high slope case.

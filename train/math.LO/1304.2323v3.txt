@@ -1,0 +1,1 @@
+Assume \mathsf{ZF}+\mathsf{AD}+V=L(\mathbb{R}) and let \kappa<\Theta be an uncountable cardinal. We show that \kappa is J\'onsson, and that if \mathrm{cof}(\kappa)=\omega then \kappa is Rowbottom. We also establish some other partition properties.

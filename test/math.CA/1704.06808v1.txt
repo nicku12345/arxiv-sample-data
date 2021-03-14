@@ -1,0 +1,1 @@
+We introduce and investigate the Henstock-Kurzweil (HK) integral for Riesz-space-valued functions on time scales. Some basic properties of the HK delta integral for Riesz-space-valued functions are proved. Further, we prove uniform and monotone convergence theorems.

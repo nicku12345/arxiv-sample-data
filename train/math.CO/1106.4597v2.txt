@@ -1,0 +1,1 @@
+Cyclic polytopes are generally known for being involved in the Upper Bound Theorem, but they have another extremal property which is less well known. Namely, the special shape of their f-vectors makes them applicable to certain constructions to present non-unimodal convex polytopes. Nevertheless, the f-vectors of cyclic polytopes themselves are unimodal.

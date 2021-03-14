@@ -1,0 +1,1 @@
+Let T_n be the Teichmueller space of flat metrics on the n-dimensional torus and identify SL(n,Z) with the corresponding mapping class group. We prove that the subset Y consisting of those points at which the systoles generate the fundamental group of the torus is, for n > 4, not contractible. In particular, Y is not an SL(n,Z)-equivariant deformation retract of T_n.

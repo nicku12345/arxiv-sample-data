@@ -1,0 +1,1 @@
+In this paper, we show that the maximal divisible subgroup of groups K_1 and K_2 of an elliptic curve E over a function field is uniquely divisible. Further those K-groups modulo this uniquely divisible subgroup are explicitly computed. We also calculate the motivic cohomology groups of the minimal regular model of E, which is an elliptic surface over a finite field.

@@ -1,0 +1,1 @@
+We consider the question whether the trigonometric system can be equivalent to some rearrangement of the Walsh system in L_p for some p<>2. We show that this question is closely related to a combinatorial problem. This enables us to prove non-equivalence for a number of rearrangements. Previously this was known for the Walsh-Paley order only.

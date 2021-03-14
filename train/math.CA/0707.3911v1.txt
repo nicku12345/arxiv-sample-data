@@ -1,0 +1,1 @@
+The rational Landen transformation is a map on the coefficients of a rational integrand that preserves the value of the integral. This is the rational analog of the classical Landen transformations for elliptic integrals that leads to the arithmetic-geometric mean of Legendre and Gauss. We present the effect of this transformation in the simplest possible case.

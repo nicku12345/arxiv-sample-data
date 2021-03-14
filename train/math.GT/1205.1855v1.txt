@@ -1,0 +1,1 @@
+We introduce the notion of a G-family of quandles which is an algebraic system whose axioms are motivated by handlebody-knot theory, and use it to construct invariants for handlebody-knots. Our invariant can detect the chiralities of some handlebody-knots including unknown ones.

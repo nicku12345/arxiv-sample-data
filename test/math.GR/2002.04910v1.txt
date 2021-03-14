@@ -1,0 +1,1 @@
+We call a semigroup S f-noetherian if every right congruence of finite index on S is finitely generated. We prove that every finitely generated semigroup is f-noetherian, and investigate whether the properties of being f-noetherian and being finitely generated coincide for various semigroup classes.

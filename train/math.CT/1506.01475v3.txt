@@ -1,0 +1,1 @@
+We prove the theorem stated in the title. More precisely, we show the stronger statement that every symmetric monoidal left adjoint functor between presentably symmetric monoidal infinity-categories is represented by a strong symmetric monoidal left Quillen functor between simplicial, combinatorial and left proper symmetric monoidal model categories.

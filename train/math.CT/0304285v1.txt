@@ -1,0 +1,1 @@
+We continue our previous modifications of the Baez-Dolan theory of opetopes to modify the Baez-Dolan definition of universality, and thereby the category of opetopic n-categories and lax functors. For the case n=2 we exhibit an equivalence between this category and the category of bicategories and lax functors. We examine notions of strictness in the opetopic theory.

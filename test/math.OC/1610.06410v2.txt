@@ -1,0 +1,1 @@
+The paper studies the convergence, as N tends to infinity, of a system of N coupled Hamilton-Jacobi equations (the Nash system) when the coupling between the players becomes increasingly singular. The limit equation is a mean field game system with local coupling.

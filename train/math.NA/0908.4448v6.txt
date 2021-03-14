@@ -1,0 +1,1 @@
+In this paper, the method of discrete exterior calculus for numerically solving Maxwell's equations in space manifold and the time is discussed, which is a kind of lattice gauge theory. The analysis of its stable condition and error is also accomplished. This algorithm has been implemented on C++ plateform for simulating TE/M waves in vacuum.

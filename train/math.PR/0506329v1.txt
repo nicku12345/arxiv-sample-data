@@ -1,0 +1,1 @@
+In this paper, we construct a family of probability measures, by penalizations of a Walsh's Brownian motion with a weight dependent on its value and its local time at a time t. We prove that this family converges to a probability measure as t tends to infinity, and we study the behaviour of this limit measure.

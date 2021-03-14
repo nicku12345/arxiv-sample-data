@@ -1,0 +1,1 @@
+We show that if A is a closed subset of the Heisenberg group whose vertical projections are nowhere dense, then the complement of A is quasiconvex. In particular, closed sets which are null sets for the cc-Hausdorff 3-measure have quasiconvex complements. Conversely, we exhibit a compact totally disconnected set of Hausdorff dimension three whose complement is not quasiconvex.

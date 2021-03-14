@@ -1,0 +1,1 @@
+Sufficient conditions are given for existence and uniqueness in Smoluchowski's coagulation equation, for a wide class of coagulation kernels and initial mass distributions. An example of non-uniqueness is constructed. The stochastic coalescent is shown to converge weakly to the solution of Smoluchowski's equation.

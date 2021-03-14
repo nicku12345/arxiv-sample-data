@@ -1,0 +1,1 @@
+We provide an elementary proof of Y. Peres' lemma on the existence in certain dynamical systems of what we term heavy points, points whose ergodic averages consistently dominate the expected value of the ergodic averages. We also derive several generalizations of Peres' lemma by employing techniques from the simplified proof.

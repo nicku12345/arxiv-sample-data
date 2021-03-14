@@ -1,0 +1,1 @@
+We discuss a synchronization property for subshifts, that we call \lambda-synchronization. Under an irreducibility assumption we associate to a \lambda-synchronizing subshift a simple and purely infinite C^*-algebra.

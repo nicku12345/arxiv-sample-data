@@ -1,0 +1,1 @@
+We show that both Lusternik-Schnirelmann category and topological complexity are particular cases of a more general notion, that we call homotopic distance between two maps. As a consequence, several properties of those invariants can be proved in a unified way and new results arise.

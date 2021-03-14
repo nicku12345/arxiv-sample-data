@@ -1,0 +1,1 @@
+For a given flag variety, we characterize the primes p for which there exists a weight \lambda such that the Hard Lefschetz Theorem holds for multiplication by \lambda on the cohomology of the flag variety with coefficients in an infinite field of characteristic p.

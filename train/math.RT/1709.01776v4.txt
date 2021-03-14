@@ -1,0 +1,1 @@
+We propose a general algorithm to compute all the symmetry classes of any \mathrm{SO}(3) or \mathrm{O}(3) linear representation. This method relies on the introduction of a binary operator between sets of conjugacy classes of closed subgroups, called the clips. We compute explicit tables for this operation which allows to solve definitively the problem.

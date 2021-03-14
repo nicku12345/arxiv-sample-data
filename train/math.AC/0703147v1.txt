@@ -1,0 +1,1 @@
+We prove the following generalization of an example of Hartshorne: Let k be a field, n=4, R = k[[X1,...,Xn]], I = (X1,...,Xn-2)R and p\in R a prime element such that p\in(Xn-1,Xn)R. Then H^{n-2}_I (R/pR) is not artinian.

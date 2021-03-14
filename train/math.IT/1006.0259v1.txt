@@ -1,0 +1,1 @@
+We present two new algorithms for the reconstruction of turbo codes from a noisy intercepted bitstream. With these algorithms, we were able to reconstruct various turbo codes with realistic parameter sizes. To the best of our knowledge, these are the first algorithms able to recover the whole permutation of a turbo code in the presence of high noise levels.

@@ -1,0 +1,1 @@
+We first establish local well-posedness for a periodic 2-component Camassa-Holm equation with vorticity. We then present a global existence result for strong solutions to the equation. We finally obtain several blow-up results and the blow-up rate of strong solutions to the equation.

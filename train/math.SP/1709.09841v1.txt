@@ -1,0 +1,1 @@
+We provide several inequalities between eigenvalues of some classical eigenvalue problems on domains with C^2 boundary in complete Riemannian manifolds. A key tool in the proof is the generalized Rellich identity on a Riemannian manifold. Our results in particular extend some inequalities due to Kutller and Sigillito from subsets of \mathbb{R}^2 to the manifold setting.

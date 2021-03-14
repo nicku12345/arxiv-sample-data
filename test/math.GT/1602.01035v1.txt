@@ -1,0 +1,1 @@
+A subset of {\mathbb R}^d is called "sticky" if it cannot be isotoped off of itself by a small ambient isotopy. Sticky wild Cantor sets are constructed in {\mathbb R}^d for each d\geq 4.

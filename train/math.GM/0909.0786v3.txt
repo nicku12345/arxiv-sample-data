@@ -1,0 +1,1 @@
+We define a class of sequences {a_n} by a_1=a and a_{n+1}=P(a_n), where P(x) is a polynomial with real coefficients. We then find out for which values a and for which polynomials P(x) these sequences will be constant after a certain rank. Then we generalize it from polynomials P(x) to real functions f(x).

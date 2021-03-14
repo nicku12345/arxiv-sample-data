@@ -1,0 +1,1 @@
+We prove that the 2-variable BMW algebra embeds into an algebra constructed from the HOMFLY-PT polynomial. We also prove that the so(2N)-BMW algebra embeds in the q-Schur algebra of type A. We use these results to construct categorifications of the so(2N)-BMW algebra.

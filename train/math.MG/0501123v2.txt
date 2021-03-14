@@ -1,0 +1,1 @@
+Logarithmic spirals are conjectured to be optimal escape paths from a half plane ocean. Assuming this, we find the rate of increase for both min-max and min-mean interpretations of "optimal". For the one-dimensional analog, which we call logarithmic coils, our min-mean solution differs from a widely-cited published account.

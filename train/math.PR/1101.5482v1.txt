@@ -1,0 +1,1 @@
+For the continuous-time and the discrete-time three-state hidden Markov model, the flux of the likelihood function up to 3-dimension of the observed process is shown explicitly. As an application, the sufficient and necessary condition of the reversibility of the observed process is shown.

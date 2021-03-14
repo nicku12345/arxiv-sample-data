@@ -1,0 +1,1 @@
+We present condition on higher order asymptotic behaviour of basic sequences in a Banach space ensuring the existence of bounded non-compact strictly singular operator on a subspace. We apply it in asymptotic \ell_p spaces, 1\leq p<\infty, in particular in convexified mixed Tsirelson spaces and related asymptotic \ell_p HI spaces.

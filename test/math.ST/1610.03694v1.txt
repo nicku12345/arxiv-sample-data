@@ -1,0 +1,1 @@
+Local Asymptotic Normality (LAN) property for fractional Gaussian noise under high-frequency observations is proved with a non-diagonal rate matrix depending on the parameter to be estimated. In contrast to the LAN families in the literature, non-diagonal rate matrices are inevitable.

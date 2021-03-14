@@ -1,0 +1,1 @@
+This paper develops the notion of superquadracity defined by L.Birbrair and M.Denkowski for subsets of R^n. The main theorem of the paper establishes the relation between the superquadracity and nonepmty intersection of the set and the closure of its medial axis.

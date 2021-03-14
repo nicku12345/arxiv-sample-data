@@ -1,0 +1,1 @@
+A submanifold is said to be tangentially biharmonic if the bitension field of the isometric immersion that defines the submanifold has vanishing tangential component. The purpose of this paper is to prove that a surface in Euclidean 3-space has tangentially biharmonic normal bundle if and only if it is either minimal, a part of a round sphere, or a part of a circular cylinder.

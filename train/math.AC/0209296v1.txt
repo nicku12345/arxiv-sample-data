@@ -1,0 +1,1 @@
+We give an elementary proof that for a ring homomorphism A -> B, satisfying the property that every ideal in A is contracted from B, the following property holds: for every chain of prime ideals p_0 \subset ... \subset p_r in A there exists a chain of prime ideals q_0 \subset ... \subset q_r in B such that q_i \cap A = p_i.

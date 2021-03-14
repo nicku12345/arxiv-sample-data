@@ -1,0 +1,1 @@
+We provide a simple algorithm for finding the optimal upper bound for sums of products of matrix entries of the form   S_pi(N) := sum_{j_1, ..., j_2m = 1}^N t^1_{j_1 j_2} t^2_{j_3 j_4} ... t^m_{j_2m-1 j_2m} where some of the summation indices are constrained to be equal. The upper bound is easily obtained from a graph G associated to the constraints in the sum.

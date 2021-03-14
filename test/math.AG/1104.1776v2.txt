@@ -1,0 +1,1 @@
+We show that the irreducible variety of 4 x 4 x 4 complex valued tensors of border rank at most 4 is the zero set of polynomial equations of degree 5 (the Strassen commutative conditions), of degree 6 (the Landsberg-Manivel polynomials), and of degree 9 (the symmetrization conditions).

@@ -1,0 +1,1 @@
+We consider a stochastic functional differential equation with an arbitrary Lipschitz diffusion coefficient depending on the past. The drift part contains a term with superlinear growth and satisfying a dissipativity condition. We prove tightness and Feller property of the segment process to show existence of an invariant measure.

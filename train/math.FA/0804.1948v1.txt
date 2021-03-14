@@ -1,0 +1,1 @@
+This is a continuation of the earlier work \cite{SSS} to characterize stationary unitary increment Gaussian processes. The earlier assumption of uniform continuity is replaced by weak continuity and with a technical assumption on the domain of the generator, unitary equivalence of the processes to the solution of Hudson-Parthasarathy equation is proved.

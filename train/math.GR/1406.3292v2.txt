@@ -1,0 +1,1 @@
+Let \Phi:F\rightarrow F be an automorphism of the finite-rank free group F. Suppose that G=F\rtimes_\Phi\mathbb Z is word-hyperbolic. Then G acts freely and cocompactly on a CAT(0) cube complex.

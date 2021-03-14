@@ -1,0 +1,1 @@
+We construct the deformation functor associated to a couple of morphisms of differential graded Lie algebras, and use it to study the infinitesimal deformations of a holomorphic map of compact complex manifolds. In particular, in the case of K\"ahler manifolds we describe a generalizzation of the semiregularity map.

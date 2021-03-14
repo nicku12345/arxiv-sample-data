@@ -1,0 +1,1 @@
+Let G be an abelian group with identity e. Let R be a G-graded commutative ring and M a graded R-module. In this paper we will obtain some results concerning the graded generalized 2-absorbing submodules and their homogeneous components. Special attention has been paid, when graded rings are graded gr-Noetherian, to find extra properties of these graded submodules.

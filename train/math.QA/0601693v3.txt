@@ -1,0 +1,1 @@
+We give a combinatorial formula for the non-symmetric Macdonald polynomials E_{\mu}(x;q,t). The formula generalizes our previous combinatorial interpretation of the integral form symmetric Macdonald polynomials J_{\mu}(x;q,t). We prove the new formula by verifying that it satisfies a recurrence, due to Knop, that characterizes the non-symmetric Macdonald polynomials.

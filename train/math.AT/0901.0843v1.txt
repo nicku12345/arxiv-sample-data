@@ -1,0 +1,1 @@
+We construct a combinatorial model of an A-infinity-operad which acts simplicially on the cobar resolution (not just its total space) of a simplicial set with respect to a ring R.

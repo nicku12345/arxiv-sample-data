@@ -1,0 +1,1 @@
+In this short note we study foliations with rationally connected leaves on surfaces. Our main result is that on surfaces there exists a polarisation such that the Harder-Narasimhan filtration of the tangent bundle with respect to this polarisation yields the maximal rationally quotient of the surface.

@@ -1,0 +1,1 @@
+We consider N\times N Hermitian random matrices with independent identically distributed entries (Wigner matrices). We assume that the distribution of the entries have a Gaussian component with variance N^{-3/4+\beta} for some positive \beta>0. We prove that the local eigenvalue statistics follows the universal Dyson sine kernel.

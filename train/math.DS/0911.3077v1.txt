@@ -1,0 +1,1 @@
+This paper is devoted to the study of dimension theory, in particular multifractal analysis, for multimodal maps. We describe the Lyapunov spectrum, generalising previous results by Todd. We also study the multifractal spectrum of pointwise dimension. The lack of regularity of the thermodynamic formalism for this class of maps is reflected in the phase transitions of the spectra.

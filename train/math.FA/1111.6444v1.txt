@@ -1,0 +1,1 @@
+We prove several dichotomies on linear embeddings between Banach spaces. Given an arbitrary Banach space X with a basis, we show that the relations of isomorphism and bi-embedding are meager or co-meager on the Polish set of block-subspaces of X. We relate this result with tightness and minimality of Banach spaces. Examples and open questions are provided.

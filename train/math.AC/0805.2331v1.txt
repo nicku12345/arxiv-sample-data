@@ -1,0 +1,1 @@
+Let G=Aut_K (K(x)) be the Galois group of the transcendental degree one pure field extension K(x)/K. In this paper we describe polynomial time algorithms for computing the field Fix(H) fixed by a subgroup H < G and for computing the fixing group G_f of a rational function f in K(x).

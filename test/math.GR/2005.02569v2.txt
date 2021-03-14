@@ -1,0 +1,1 @@
+Slattery (2007) described computational methods to enumerate, construct, and identify finite groups of squarefree order. We generalise Slattery's result to the class of finite groups that have cyclic Sylow subgroups and provide an implementation for the computer algebra system GAP.

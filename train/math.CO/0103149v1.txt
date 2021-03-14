@@ -1,0 +1,1 @@
+A certain functional-difference equation that Runyon encountered when analyzing a queuing system was solved in a combined effort of Morrison, Carlitz, and Riordan. We simplify that analysis by exclusively using generating functions, in particular the kernel method, and the Lagrange inversion formula.

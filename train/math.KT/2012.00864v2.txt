@@ -1,0 +1,1 @@
+We equip \mathrm{BP} \langle n \rangle with an \mathbb{E}_3-\mathrm{BP}-algebra structure, for each prime p and height n. The algebraic K-theory of this \mathbb{E}_3-ring is of chromatic height exactly n+1. Specifically, it is an fp-spectrum of fp-type n+1, which can be viewed as a higher height version of the Lichtenbaum-Quillen conjecture.

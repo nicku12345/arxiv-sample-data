@@ -1,0 +1,1 @@
+We show that every 2-degenerate graph with maximum degree \Delta has a strong edge-coloring with at most 8\Delta-4 colors.

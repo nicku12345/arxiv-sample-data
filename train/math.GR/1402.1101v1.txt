@@ -1,0 +1,1 @@
+Let G be the group of unimodular automorphisms of \mathbb C^2. In the paper we prove two interesting results about this group. The first one is about absence of non-trivial finite-dimensional representations of G. The second one, we show that any non-trivial group endomorphism of G is a monomorphism, which implies that G is hopfian.

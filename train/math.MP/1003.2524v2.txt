@@ -1,0 +1,1 @@
+We revisit the quantum/classical integrable model correspondence in the context of inhomogeneous finite length XXZ spin-1/2 chains with periodic boundary conditions and show that the Bethe scalar product of an arbitrary state and a Bethe eigenstate is a discrete KP tau-function. The continuous Miwa variables of discrete KP are the rapidities of the arbitrary state.

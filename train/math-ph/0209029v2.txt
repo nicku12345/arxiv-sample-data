@@ -1,0 +1,1 @@
+We introduce a mathematical setup for charge transport in quantum pump connected to a number of external leads. It is proved that under rather general assumption on the Hamiltonian describing the system, in the adiabatic limit, the current through the pump is given by a formula of Buttiker, Pretre, and Thomas, relating it to the frozen S-matrix and its time derivative.

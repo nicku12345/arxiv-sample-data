@@ -1,0 +1,1 @@
+For the Heyting Arithmetic HA, HA* is defined as the theory \{A\mid {\sf HA}\vdash A^{\Box}\}, where A^{\Box} is called the box translation of A. We characterize the \Sigma_1-provability logic of HA* as a modal theory {\sf iH}_\sigma^*.

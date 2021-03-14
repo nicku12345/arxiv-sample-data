@@ -1,0 +1,1 @@
+We classify central extensions of a reductive group G by \mathcal{K}_3 and B\mathcal{K}_3, the sheaf of third Quillen K-theory groups and its classifying stack. These turn out to be parametrized by the group of Weyl-invariant quadratic forms on the cocharacter lattice valued in k^\times and the group of integral Weyl-invariant cubic forms on the cocharacter lattice respectively.

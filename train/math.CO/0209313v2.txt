@@ -1,0 +1,1 @@
+In this thesis, we apply the stack sorting operator to r-permutations and construct the functional equation for the generating function of two-stack-sortable k-tuple r-permutations counted by descents by using a factorization similar to Zeilberger's. We solve the functional equation and give explicit formulas for the number of two-stack-sortable r-permutations.

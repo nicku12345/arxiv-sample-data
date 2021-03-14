@@ -1,0 +1,1 @@
+Let \mathfrak{g} be the exceptional complex simple Lie algebra of type G_2. We provide a concrete cyclicity condition for the tensor product of fundamental representations of the Yangian Y(\mathfrak{g}). Using this condition, we show that every local Weyl module is isomorphic to an ordered tensor product of fundamental representations of Y(\mathfrak{g}).

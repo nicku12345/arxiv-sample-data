@@ -1,0 +1,1 @@
+In this expository note we provide a proof of Artin's theorem which states that the commutator subgroup of a free group on two generators is not finitely generated. The proof employs the infinite grid as in two other proofs in the literature mentioned in the note but takes a somewhat different approach which seems to be of didactic value.

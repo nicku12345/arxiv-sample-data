@@ -1,0 +1,1 @@
+We show how the asymptotic expansion for the gamma function \Gamma(x), similar to that obtained by Boyd [Proc. Roy. Soc. London A447 (1994) 609--630], can be obtained by using a form of Lagrange's inversion theorem with a remainder. A (possibly) new closed-form representation for the Stirling coefficients is given.

@@ -1,0 +1,1 @@
+We discuss properties of kinetic solutions of scalar conservation laws in the variational approach developed by Eu. Panov and Y. Brenier. Our main result shows that such solutions can be considered as curves in a suitable Hilbert space with tangents that are unique minimizers of an interaction functional.

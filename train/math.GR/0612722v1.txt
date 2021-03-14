@@ -1,0 +1,1 @@
+Let G be a finite group and a\in G. Let a^G=\{g^{-1}ag\mid g\in G\} be the conjugacy class of a in G. Assume that a^G and b^G are conjugacy classes of G with the property that {\bf C}_G(a)={\bf C}_G(b). Then a^G b^G is a conjugacy class if and only if [a,G]=[b,G]=[ab,G] and [ab,G] is a normal subgroup of G.

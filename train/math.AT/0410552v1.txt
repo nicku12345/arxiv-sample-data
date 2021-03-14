@@ -1,0 +1,1 @@
+We construct, for every even dimensional sphere S^n, n >1, and every odd integer k, a homogeneous polynomial map f: S^{n}\to S^{n} of Brouwer degree k and algebraic degree 2|k|-1.

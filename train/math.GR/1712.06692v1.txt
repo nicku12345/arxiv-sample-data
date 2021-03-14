@@ -1,0 +1,1 @@
+In this paper we study probabilistic aspects such as (cyclic) subgroup commutativity degree and (cyclic) factorization number of ZM-groups. We show that these quantities can be computed using the sizes of the conjugacy classes of these groups. In the end, we point out a class of groups whose (cyclic) subgroup commutativity degree vanishes asymptotically.

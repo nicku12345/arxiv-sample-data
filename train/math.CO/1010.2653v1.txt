@@ -1,0 +1,1 @@
+A theorem of Andrews equates partitions in which no part is repeated more than 2k-1 times to partitions in which, if j appears at least k times, all parts less than j also do so. This paper proves the theorem bijectively, with some of the generalizations that usually arise from such proofs.

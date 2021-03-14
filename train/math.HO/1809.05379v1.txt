@@ -1,0 +1,1 @@
+This article is devoted to methods of construction and study of stochastic models based on Monte Carlo method. A model of Brownian motion, the construction and processing which brings to a world of random numbers and mathematical statistics, promotes understanding of the probability distribution, in particular illustrates two common distributions: uniform and normal.

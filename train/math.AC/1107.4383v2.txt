@@ -1,0 +1,1 @@
+A supplemental paper detailing the QuillenSuslin package for Macaulay2. The QuillenSuslin package for Macaulay2 provides the ability to compute a free basis for a projective module over a polynomial ring with coefficients in Q, Z or Z/p for a prime integer p. A brief description of the underlying algorithm and the related tools are given.

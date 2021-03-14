@@ -1,0 +1,1 @@
+Let p and q be two positive integers, the goal of this note is to demonstrate, in a very simple and elementary way without using advanced tools, a formula to express the value of the integral I(p,q)=\int_0^\infty{\sin^p t\over t^q}dt when it converges.

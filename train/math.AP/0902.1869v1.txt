@@ -1,0 +1,1 @@
+The aim of this paper is to study the L^1-stability of periodic stationary solutions of scalar convection-diffusion equations. We obtain dispersion in L^2 for all space dimensions using Kru\v{z}kov type entropy. And when the space dimension is one, we estimate the number of sign changes of a solution to obtain L^1-stability.

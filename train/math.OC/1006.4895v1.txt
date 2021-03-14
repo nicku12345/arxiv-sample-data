@@ -1,0 +1,1 @@
+This is a survey on the computational complexity of nonlinear mixed-integer optimization. It highlights a selection of important topics, ranging from incomputability results that arise from number theory and logic, to recently obtained fully polynomial time approximation schemes in fixed dimension, and to strongly polynomial-time algorithms for special cases.

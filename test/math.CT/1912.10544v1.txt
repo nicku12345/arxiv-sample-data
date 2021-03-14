@@ -1,0 +1,1 @@
+We prove that the set of concordance classes of sections of an infinity-sheaf on a manifold is representable, extending a theorem of Madsen and Weiss. This is reminiscent of an h-principle in which the role of isotopy is played by concordance. As an application, we offer an answer to the question: what does the classifying space of a Segal space classify?

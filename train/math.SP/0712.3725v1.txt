@@ -1,0 +1,1 @@
+It is shown that the Kolmogorov distance between the spectral distribution function of a random covariance matrix \frac1p XX^T, where X is a n\times p matrix with independent entries and the distribution function of the Marchenko-Pastur law is of order O(n^{-1/2}). The bounds hold {\it uniformly} for any p, including \frac pn equal or close to 1.

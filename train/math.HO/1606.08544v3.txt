@@ -1,0 +1,1 @@
+This article revisits an integral of radical trigonometric functions. It presents several methods of integration where the integrand takes the form \sqrt{1 \pm \sin x} or \sqrt{1 \pm \cos x}. The integral has applications in Calculus where it appears as the length of cardioid represented in polar coordinates.

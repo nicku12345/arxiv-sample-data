@@ -1,0 +1,1 @@
+We proved the existence of an infinite dimensional stochastic system driven by white \alpha-stable noises (1<\alpha \leq 2), and prove this system is strongly mixing. Our method is by perturbing Ornstein-Uhlenbeck \alpha-stable processes.

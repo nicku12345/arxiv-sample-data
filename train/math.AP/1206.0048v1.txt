@@ -1,0 +1,1 @@
+Let \lambda_{q}:=\inf{\Vert\nabla u\Vert_{L^{p}(\Omega)}^{p}/\Vertu\Vert_{L^{q}(\Omega)}^{p}:u\in W_{0}^{1,p}(\Omega)\setminus{0}} , where \Omega is a bounded and smooth domain of \mathbb{R}^{N}, 1<p<N and 1\leq q\leq p^{\star}% :=\frac{Np}{N-p}. We prove that the function q\mapsto\lambda_{q} is absolutely continuous in the closed interval [1,p^{\star}].

@@ -1,0 +1,1 @@
+The windowed ray transform is a natural generalization of the "Analytic-Signal Transform" which is developed to extend arbitrary functions from \RR^n to \CC^n. We present several inversion formulas here.

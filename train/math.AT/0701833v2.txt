@@ -1,0 +1,1 @@
+The algebraic L-groups L_*(\A,X) are defined for an additive category \A with chain duality and a \Delta-set X, and identified with the generalized homology groups H_*(X;\LL_{\bullet}(\A)) of X with coefficients in the algebraic L-spectrum \LL_{\bullet}(\A). Previously such groups had only been defined for simplicial complexes X.

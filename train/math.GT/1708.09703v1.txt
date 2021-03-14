@@ -1,0 +1,1 @@
+Various standard texts on differential topology maintain that the level-preserving map defined by the track of an isotopy of embeddings is itself an embedding. This note describes a simple counterexample to this assertion.

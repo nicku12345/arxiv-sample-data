@@ -1,0 +1,1 @@
+A Mathematica based program has been elaborated in order to determine the symmetry group of a finite difference equation, by means of its differential representation. The package provides functions which enable us to solve the determining equations of the related Lie group

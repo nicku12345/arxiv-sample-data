@@ -1,0 +1,1 @@
+K-area is an invariant for Riemannian manifolds introduced by Gromov as an obstruction to the existence of positive scalar curvature. However in general it is difficult to determine whether K-area is finite or not. though the definition of K-area is quite natural. In this paper, we study how the invariant changes under surgery.

@@ -1,0 +1,1 @@
+We construct a possibly non-commutative groupoid from the failure of 3-uniqueness of a strong type. The commutative groupoid constructed by John Goodrick and Alexei Kolesnikov in \cite{GK} lives in the center of the groupoid.   A certain automorphism group approximated by the vertex groups of the non-commutative groupoids is suggested as a "fundamental group" of the strong type.

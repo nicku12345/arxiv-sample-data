@@ -1,0 +1,1 @@
+For an entire function f(z) = \sum_{k=0}^\infty a_k z^k, a_k>0, we show that f does not belong to the Laguerre-P\'olya class if the quotients \frac{a_{n-1}^2}{a_{n-2}a_n} are increasing in n, and c:= \lim\limits_{n\to \infty} \frac{a_{n-1}^2}{a_{n-2}a_n} is smaller than an absolute constant q_\infty (q_\infty\approx 3{.}2336) .

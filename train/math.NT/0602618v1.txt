@@ -1,0 +1,1 @@
+Let K/F be a quadratic extension of number fields. After developing a theory of the Eisenstein series over F, we prove a formula which expresses a partial zeta function of K as a certain integral of the Eisenstein series. As an application, we obtain a limit formula of Kronecker's type which relates the 0-th Laurent coefficients at s=1 of zeta functions of K and F.

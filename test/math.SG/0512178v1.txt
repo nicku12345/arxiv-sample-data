@@ -1,0 +1,1 @@
+For every odd natural number g=2d+1 we prove the existence of a countably infinite family of special Lagrangian cones in C^3 over a closed Riemann surface of genus g, using a geometric PDE gluing method.

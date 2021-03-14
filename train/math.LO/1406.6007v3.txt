@@ -1,0 +1,1 @@
+Given a definably amenable approximate subgroup A of a (local) group in some first-order structure, there is a type-definable subgroup H normalised by A and contained in A^4 such that every definable superset of H has positive measure.

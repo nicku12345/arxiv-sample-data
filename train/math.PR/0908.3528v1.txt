@@ -1,0 +1,1 @@
+We give a detailed proof, in the identically distributed case, of a conjecture of Feige about the maximum probability that the sum of n independent non-negative integer valued random variables, each of mean 1, exceeds n. The general case is reduced to two-point distributions.

@@ -1,0 +1,1 @@
+We discuss the notion of growth for discrete quantum groups, with a number of general considerations, and with some explicit computations. Of particular interest is the quantum analogue of Gromov's estimate regarding polynomial growth: we formulate the precise question, and we verify it for the duals of classical Lie groups.

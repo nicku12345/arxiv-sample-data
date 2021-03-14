@@ -1,0 +1,1 @@
+We develop direct and inverse scattering theory for Jacobi operators which are short range perturbations of quasi-periodic finite-gap operators. We show existence of transformation operators, investigate their properties, derive the corresponding Gel'fand-Levitan-Marchenko equation, and find minimal scattering data which determine the perturbed operator uniquely.

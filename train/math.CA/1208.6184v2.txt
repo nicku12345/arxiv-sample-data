@@ -1,0 +1,1 @@
+In this note we generate two local median oscillation decompositions of an arbitrary measurable function and discuss some applications to Calder\'{o}n-Zygmund singular integral operators T. These applications rely on the inequality M^{\sharp}_{0,s}(Tf)(x) \leq c\,Mf(x), and we complete the results given here with a discussion of a local version of this estimate.

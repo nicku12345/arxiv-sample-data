@@ -1,0 +1,1 @@
+In this paper, we consider moderate deviations for Good's coverage estimator. The moderate deviation principle and the self-normalized moderate deviation principle for Good's coverage estimator are established. The results are also applied to the hypothesis testing problem and the confidence interval for the coverage.

@@ -1,0 +1,1 @@
+Given a pair of smoothly bounded domains D_1, D_2 \subset \mathbb C, the purpose of this note is to obtain an inequality that relates the Carath\'{e}odory metrics on D_1, D_2, D_1 \cap D_2 and D_1 \cup D_2.

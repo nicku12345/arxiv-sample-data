@@ -1,0 +1,1 @@
+Let A be an algebra and let X be an A-bimodule. A \Bbb C-linear mapping d:A \to X is called a generalized Jordan derivation if there exists a Jordan derivation (in the usual sense) \delta:A \to X such that d(a^2)=ad(a)+\delta(a)a for all a \in A. The main purpose of this paper to prove the Hyers-Ulam-Rassias stability and superstability of the generalized Jordan derivations.

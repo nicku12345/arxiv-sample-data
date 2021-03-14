@@ -1,0 +1,1 @@
+We define generalised notions of biunitary elements in planar algebras and show that objects arising in quantum information theory such as Hadamard matrices, quantum latin squares and unitary error bases are all given by biunitary elements in the spin planar algebra. We show that there are natural subfactor planar algebras associated with biunitary elements.

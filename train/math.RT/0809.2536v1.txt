@@ -1,0 +1,1 @@
+We describe all locally semisimple subalgebras and all maximal subalgebras of the finitary Lie algebras \gl(\infty), \sl(\infty), \so(\infty), and \sp(\infty). For simple finite--dimensional Lie algebras these classes of subalgebras have been described in the classical works of A. Malcev and E. Dynkin.   Key words (2000 MSC): 17B05 and 17B65.

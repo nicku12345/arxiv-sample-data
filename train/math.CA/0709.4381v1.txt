@@ -1,0 +1,1 @@
+Extension to Walsh series of theorems of Helson and Katznelson on trigonometric series, saying that a trigonometric series whose partial sums are positive has its coefficients tend to zero but is not necessarily a Fourier-Lebesgue series

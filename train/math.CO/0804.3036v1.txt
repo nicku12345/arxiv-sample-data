@@ -1,0 +1,1 @@
+In this paper we systematically study various properties of the distance graph in {\Bbb F}_q^d, the d-dimensional vector space over the finite field {\Bbb F}_q with q elements. In the process we compute the diameter of distance graphs and show that sufficiently large subsets of d-dimensional vector spaces over finite fields contain every possible finite configurations.

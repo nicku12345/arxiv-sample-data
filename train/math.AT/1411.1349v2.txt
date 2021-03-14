@@ -1,0 +1,1 @@
+In this paper we show how to modify cofibrations in a monoidal model category so that the tensor unit becomes cofibrant while keeping the same weak equivalences. We obtain aplications to enriched categories and coloured operads in stable homotopy theory.

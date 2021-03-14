@@ -1,0 +1,1 @@
+We prove three inequalities relating some invariants of sets of matrices, such as the joint spectral radius. One of the inequalities, in which proof we use geometric invariant theory, has the generalized spectral radius theorem of Berger and Wang as an immediate corollary.

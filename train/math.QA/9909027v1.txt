@@ -1,0 +1,1 @@
+We introduce a notion of planar algebra, the simplest example of which is a vector space of tensors, closed under planar contractions. A planar algebra with suitable positivity properties produces a finite index subfactor of a II_1 factor, and vice versa.

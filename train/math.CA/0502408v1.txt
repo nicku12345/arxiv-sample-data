@@ -1,0 +1,1 @@
+Cauchy's interlace theorem states that the characteristic polynomial of a symmetric matrix is interlaced by the characteristic polynomial of any principle submatrix. We prove this in two sentences using only the linearity of the determinant, and the fact that all eigenvalues of a symmetric matrix are real.

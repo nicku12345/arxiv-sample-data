@@ -1,0 +1,1 @@
+We show that small normal subsets A of finite simple groups expand very rapidly -- namely, |A^2| \ge |A|^{2-\epsilon}, where \epsilon >0 is arbitrarily small.

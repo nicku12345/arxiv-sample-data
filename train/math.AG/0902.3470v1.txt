@@ -1,0 +1,1 @@
+For any genus g greater than 1, we construct a family of dimension g+1 of pairs of hyperelliptic curves of genus g whose jacobian are 2^g isogeneous.   -----   Pour tout genre g superieur ou egal a 2, nous construisons une famille a g+1 parametres de courbes de genre g telles qu'il existe une 2^g-isogenie entre leurs jacobiennes.

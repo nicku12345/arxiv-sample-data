@@ -1,0 +1,1 @@
+A long-standing conjecture of Stanley states that every Cohen-Macaulay simplicial complex is partitionable. We disprove the conjecture by constructing an explicit counterexample. Due to a result of Herzog, Jahan and Yassemi, our construction also disproves the conjecture that the Stanley depth of a monomial ideal is always at least its depth.

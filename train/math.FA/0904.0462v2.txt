@@ -1,0 +1,1 @@
+Let X be a Banach space with a separable dual. We prove that X embeds isomorphically into a \cL_\infty space Z whose dual is isomorphic to \ell_1. If, moreover, U is a space so that U and X are totally incomparable, then we construct such a Z, so that Z and U are totally incomparable. If X is separable and reflexive, we show that Z can be made to be somewhat reflexive.

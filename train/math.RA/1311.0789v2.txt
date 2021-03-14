@@ -1,0 +1,1 @@
+This work investigates the rank properties of A^+(B_n), the multiplicative semigroup reduct of the affine near-semirings over an aperiodic Brandt semigroup B_n. In this connection, the work obtains the small rank, lower rank and large rank of A^+(B_n). Further, the work provides lower bounds for intermediate rank and upper rank of A^+(B_n).

@@ -1,0 +1,1 @@
+We extend the classical Enriques-Petri Theorem to s-subcanonical projectively normal curves, proving that such a curve is (s+2)-gonal if and only if it is contained in a surface of minimal degree. Moreover, we show that any Fermat hypersurface of degree s+2 is apolar to an s-subcanonical (s+2)-gonal projectively normal curve, and vice versa.

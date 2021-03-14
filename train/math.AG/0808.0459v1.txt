@@ -1,0 +1,1 @@
+A Danilov-Gizatullin surface is a normal affine surface V, which is a complement to an ample section S in a Hirzebruch surface of index d. By a surprising result due to Danilov and Gizatullin, V depends only on the self-intersection number of S and neither on d nor on S. In this note we provide a new and simple proof of this Isomorphism Theorem.

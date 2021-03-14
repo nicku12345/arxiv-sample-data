@@ -1,0 +1,1 @@
+Given a mean-convex domain \Omega\subset \R^n with boundary of class C^{2,1}, we provide a representation formula for a boundary integral of the type \[ \int_{\partial \Omega} f(k(x)) \, d\mathcal{H}^{n-1} \] where k\geq 0 is the mean curvature of \partial \Omega and f is non-increasing and sufficiently regular, in terms of volume integrals and defect measure on the ridge set.

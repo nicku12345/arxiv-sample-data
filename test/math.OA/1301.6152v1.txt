@@ -1,0 +1,1 @@
+For every uncountable cardinal \kappa there are 2^\kappa nonisomorphic simple AF algebras of density character \kappa and 2^\kappa nonisomorphic hyperfinite II_1 factors of density character \kappa. These estimates are maximal possible. All C*-algebras that we construct have the same Elliott invariant and Cuntz semigroup as the CAR algebra.

@@ -1,0 +1,1 @@
+In the recent work arXiv:1311.3999, the authors proved that real analytic manifolds (M, g) with maximal eigenfunction growth must have a self-focal point p whose first return map has an invariant L1 measure on S^*_p M. In this addendum we add a purely dynamical argument on circle maps to improve the conclusion to: all geodesics from p are smoothly closed.

@@ -1,0 +1,1 @@
+A sequence of functions {f_n(q)}_{n=1}^{\infty} satisfies the functional equation for multiplication of quantum integers if f_{mn}(q) = f_m(q)f_n(q^m) for all positive integers m and n. This paper describes the structure of all sequences of rational functions with rational coefficients that satisfy this functional equation.

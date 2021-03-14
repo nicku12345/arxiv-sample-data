@@ -1,0 +1,1 @@
+Y. Hironaka introduced the spherical functions on the p-adic space of Hermitian matrices. For the space of 2\times2 Hermitian matrices, we complete Hironaka's work by also considering the case of a wildly ramified quadratic extension. We compute the spherical functions explicitly and obtain the functional equations.

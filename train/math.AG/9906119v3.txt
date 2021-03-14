@@ -1,0 +1,1 @@
+We formulate a generalization of Givental-Kim's quantum hyperplane principle. This is applied to compute the quantum cohomology of a Calabi-Yau 3-fold defined as the rank 4 locus of a general skew-symmetric 7x7 matrix with coeffisients in P^6. The computation verifies the mirror symmetry predictions of R\o dland in math.AG/9801092.

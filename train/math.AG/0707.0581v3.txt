@@ -1,0 +1,1 @@
+Let X be a connected compact complex manifold admitting a finite surjective map A \to X from a complex torus A. We prove that up to finite \'etale cover, X is a product of projective spaces and a torus.

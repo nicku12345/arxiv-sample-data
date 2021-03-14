@@ -1,0 +1,1 @@
+In this paper, we introduce a new notion, called the integral dimension, for noetherian rings. It can be regarded as the weak Briancon-Skoda numbers of rings. The point is that every noetherian local ring has finite integral dimension.

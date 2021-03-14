@@ -1,0 +1,1 @@
+Uniform L^2-estimates for the convolution of singular measures with respect to transversal submanifolds are proved in arbitrary space dimension. The results of Bennett-Bez are used to extend previous work of Bejenaru-Herr-Tataru. As an application, it is shown that the 3D Zakharov system is locally well-posed in the full subcritical regime.

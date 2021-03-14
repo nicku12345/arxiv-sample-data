@@ -1,0 +1,1 @@
+We prove a Seifert-van Kampen theorem for Legendrian submanifolds and exact Lagrangian cobordisms, and use it to calculate the change in the DGA caused by critical Legendrian ambient surgery.

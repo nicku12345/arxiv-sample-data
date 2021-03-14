@@ -1,0 +1,1 @@
+We explicitly construct two classes of infinitly many commutative operators in terms of the deformed W-algebra W_{qt}(sl_N^), and give proofs of the commutation relations of these operators. We call one of them local integrals of motion and the other nonlocal one, since they can be regarded as elliptic deformation of local and nonlocal integrals of motion for the W_N algebra.

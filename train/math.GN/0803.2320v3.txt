@@ -1,0 +1,1 @@
+For a topological group G, we show that a compact metric G-space is tame if and only if it can be linearly represented on a separable Banach space which does not contain an isomorphic copy of l_1 (we call such Banach spaces, Rosenthal spaces). With this goal in mind we study tame dynamical systems and their representations on Banach spaces.

@@ -1,0 +1,1 @@
+Uniform Harnack inequalities for harmonic functions on the pre- and graphical Sierpinski carpets are proved using a probabilistic coupling argument. Various results follow from this, including the construction of Brownian motion on Sierpinski carpets embedded in \R^d, d\geq 3, estimates on the fundamental solution of the heat equation, and Sobolev and Poincar\'e inequalities.

@@ -1,0 +1,1 @@
+A method yielding simple relationships among bilateral birth-and-death processes is outlined. This allows one to relate birth and death rates of two processes in such a way that their transition probabilities, first-passage-time densities and ultimate crossing probabilities are mutually related by some product-form expressions.

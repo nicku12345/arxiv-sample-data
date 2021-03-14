@@ -1,0 +1,1 @@
+This paper collects results and open problems concerning several classes of functions that generalize uniform continuity in various ways, including those metric spaces (generalizing Atsuji spaces) where all continuous functions have the property of being close to uniformly continuous.

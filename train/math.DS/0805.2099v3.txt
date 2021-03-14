@@ -1,0 +1,1 @@
+We prove that, under a mild summability condition on the growth of the derivative on critical orbits any piecewise monotone interval map possibly containing discontinuities and singularities with infinite derivative (cusp map) admits an ergodic invariant probability measures which is absolutely continuous with respect to Lebesgue measure.

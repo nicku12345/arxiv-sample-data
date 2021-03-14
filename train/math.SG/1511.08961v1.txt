@@ -1,0 +1,1 @@
+Given a compact symplectic manifold whose symplectic form has integer periods, one associates to it a dg category based on the microlocal analysis according to Kashiwara-Schapira

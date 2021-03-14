@@ -1,0 +1,1 @@
+In this paper we provide a sufficient condition, in terms of only one of the nine entries of the gradient tensor, i.e., the Jacobian matrix of the velocity vector field, for the global regularity of strong solutions to the three-dimensional Navier-Stokes equations in the whole space, as well as for the case of periodic boundary conditions.

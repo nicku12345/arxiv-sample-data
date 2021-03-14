@@ -1,0 +1,1 @@
+We use spectral theory to produce embeddings of distributions in the algebras of generalized functions on a closed Riemannian manifold. These embeddings are invariant under isometries and preserve the singularity structure of the distributions.

@@ -1,0 +1,1 @@
+We prove that every finite distributive lattice D can be represented as the congruence lattice of a rectangular lattice K in which all congruences are principal. We verify this result in a stronger form as an extension theorem.

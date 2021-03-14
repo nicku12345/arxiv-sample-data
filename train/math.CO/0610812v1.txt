@@ -1,0 +1,1 @@
+We introduce a linear programming method to obtain bounds on the cardinality of codes in Grassmannian spaces for the chordal distance. We obtain explicit bounds, and an asymptotic bound that improves on the Hamming bound. Our approach generalizes the approach originally developed by P. Delsarte and Kabatianski-Levenshtein for compact two-point homogeneous spaces.

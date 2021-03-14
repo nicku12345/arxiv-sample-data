@@ -1,0 +1,1 @@
+We produce a collection of families of curves, whose point count statistics over F_p becomes Gaussian for p fixed. In particular, the average number of F_p points on curves in these families tends to infinity.

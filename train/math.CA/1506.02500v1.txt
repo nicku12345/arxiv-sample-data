@@ -1,0 +1,1 @@
+For a local maximal function defined on a certain family of cubes lying ``well inside'' of \Omega, a proper open subset of \mathbb R ^n, we characterize the couple of weights (u,v) for which it is bounded from L^p(v) on L^q(u).

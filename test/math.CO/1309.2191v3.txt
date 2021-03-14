@@ -1,0 +1,1 @@
+Let h be a positive integer and A, B_1, B_2,\dots, B_h be finite sets in a commutative group. We bound |A+B_1+...+B_h| from above in terms of |A|, |A+B_1|,\dots,|A+B_h| and h. Extremal examples, which demonstrate that the bound is asymptotically sharp in all the parameters, are furthermore provided.

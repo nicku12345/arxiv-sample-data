@@ -1,0 +1,1 @@
+We develop a theory of syzygies in equivariant cohomology for tori as well as p-tori and coefficients in \mathbb{F}_p. A noteworthy feature is a new algebraic approach to the partial exactness of the Atiyah-Bredon sequence, which also covers all instances considered so far.

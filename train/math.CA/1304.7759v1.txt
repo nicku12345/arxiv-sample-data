@@ -1,0 +1,1 @@
+In this note we prove Scurry's testing conditions for the boundedness of a sequence-valued averaging positive dyadic operator from a weighted Lp space to a sequence-valued weighted Lp space by using parallel stopping cubes.

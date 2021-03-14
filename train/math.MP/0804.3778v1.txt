@@ -1,0 +1,1 @@
+We study the decay and smoothness of solutions of the dispersion managed non-linear Schr\"odinger equation in the case of zero residual dispersion. Using new x-space versions of bilinear Strichartz estimates, we show that the solutions are not only smooth, but also fast decaying.

@@ -1,0 +1,1 @@
+An operator form of asymptotic expansions for Markov chains is established. Coefficients are given explicitly. Such expansions require a certain modification of the classical spectral method. They prove to be extremely useful within the context of large deviations.

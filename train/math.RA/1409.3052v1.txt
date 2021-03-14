@@ -1,0 +1,1 @@
+We introduce the notion of Rota-Baxter coalgebra which can be viewed as the dual notion of Rota-Baxter algebra. We provide various concrete examples and establish some basic properties of this new object.

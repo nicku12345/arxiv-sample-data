@@ -1,0 +1,1 @@
+We obtain the existence of mountain pass solutions for quasi-linear equations without the typical assumptions which guarantee the boundedness of an arbitrary Palais-Smale sequence. This is done through a recent version of the monotonicity trick proved by the second author. The main results are new also for the p-Laplacian operator.

@@ -1,0 +1,1 @@
+The depth function of three numbers representing curvatures of three mutually tangent circles is introduced. Its 2D plot leads to a partition of the moduli space of the triples of mutually tangent circles/disks that is unexpectedly a beautiful fractal, the general form of which resembles that of an Apollonian disk packing, except that it consists of ellipses instead of circles.

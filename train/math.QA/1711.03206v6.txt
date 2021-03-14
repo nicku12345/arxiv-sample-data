@@ -1,0 +1,1 @@
+This is a survey on the transitive quantum groups G\subset S_N^+, and on the flat matrix models \pi:C(G)\to M_N(C(X)) for the corresponding Hopf algebras. We review the known results on the subject, with a number of improvements, technical generalizations, and some new results as well, and we discuss the open problems.

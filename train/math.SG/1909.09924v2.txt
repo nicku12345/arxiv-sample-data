@@ -1,0 +1,1 @@
+Let \omega denote an area form on S^2. Consider the closed symplectic 4-manifold M=(S^2\times S^2, A\omega \oplus a \omega) with 0<a<A. We show that there are families of displaceable Lagrangian tori L_{0,x},\, L_{1,x} \subset M, for x \in [0,1], such that the two-component link L_{0,x} \cup L_{1,x} is non-displaceable for each x.

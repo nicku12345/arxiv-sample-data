@@ -1,0 +1,1 @@
+We prove that the Poincare' polynomial of the moduli space of smooth genus 4 curves is 1+t^2+t^4+t^5. We show this by producing a stratification of the space, such that all strata are geometric quotients of complements of discriminants.

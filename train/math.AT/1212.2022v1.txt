@@ -1,0 +1,1 @@
+One of the most useful methods for studying the stable homotopy category is localising at some spectrum E. For an arbitrary stable model category we introduce a candidate for the E-localisation of this model category. We study the properties of this new construction and relate it to some well-known categories.

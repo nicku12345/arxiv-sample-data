@@ -1,0 +1,1 @@
+We introduce a new norm, called N^{p}-norm (1\leq{p}<\infty) on a space N^{p}(V,W) where V and W are abstract operator spaces. By proving some fundamental properties of the space N^{p}(V,W), we also obtain that if W is complete, then the space N^{p}(V,W) is also a Banach space with respect to this norm for 1\leq{p}<\infty.

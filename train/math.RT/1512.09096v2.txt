@@ -1,0 +1,1 @@
+We prove that if \mathfrak{s} is a solvable Lie algebra of matrices over a field of characteristic 0, and A\in\mathfrak{s}, then the semisimple and nilpotent summands of the Jordan-Chevalley decomposition of A belong to \mathfrak{s} if and only if there exist S,N\in\mathfrak{s}, S is semisimple, N is nilpotent (not necessarily [S,N]=0) such that A=S+N.

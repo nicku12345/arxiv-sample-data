@@ -1,0 +1,1 @@
+We study the model theory of the ring of adeles of a number field. We obtain quantifier elimination results in the language of rings and some enrichments. We given consequences for definable subsets of the adeles, and their measures.

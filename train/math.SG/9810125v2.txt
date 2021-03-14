@@ -1,0 +1,1 @@
+Consider a compact Lie group and a closed subgroup. Generalizing a result of Klyachko, we give a necessary and sufficient criterion for a coadjoint orbit of the subgroup to be contained in the projection of a given coadjoint orbit of the ambient group. The criterion is couched in terms of the ``relative'' Schubert calculus of the flag varieties of the two groups.

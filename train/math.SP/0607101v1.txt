@@ -1,0 +1,1 @@
+Fundamental solution for a Schr\"odinger equation with a time-dependent potential of long-range type is constructed. The solution is given as a Fourier integral operator with a symbol uniformly bounded global in time, when measured in natural semi-norms of a symbol class.

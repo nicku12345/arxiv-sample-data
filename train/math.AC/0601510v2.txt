@@ -1,0 +1,1 @@
+Let (A,\m) be a Noetherian local ring with infinite residue field and let I be an ideal in A and let F(I) = \oplus_{n \geq 0}I^n/\m I^n be the fiber-cone of I. We prove certain relations among the Hilbert coefficients of F(I) when the a-invariant of the associated graded ring G(I) is negative.

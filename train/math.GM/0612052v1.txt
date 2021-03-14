@@ -1,0 +1,1 @@
+We show that a concavity property of the exponential function is a direct consequence of the convexity of the continued Erlang loss function.

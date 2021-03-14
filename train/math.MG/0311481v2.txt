@@ -1,0 +1,1 @@
+We show that the alpha-weight of an MST over n points in a metric space with upper box dimension d has a bound independent of n if alpha is smaller than d and does not have one if alpha is larger than d.

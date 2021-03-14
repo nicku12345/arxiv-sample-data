@@ -1,0 +1,1 @@
+Stein and Wainger proved the L^p bounds of the polynomial Carleson operator for all integer-power polynomials without linear term. In the present paper, we partially generalise this result to all fractional monomials in dimension one. Moreover, the connections with Carleson's theorem and the Hilbert transform along vector fields or (variable) curves are also discussed in details.

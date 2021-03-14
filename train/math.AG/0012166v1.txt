@@ -1,0 +1,1 @@
+To any graded Frobenius algebra A we associate a sequence of graded Frobenius algebras A^[n] in such a way that for any smooth projective surface X with trivial canonical divisor there is a canonical isomorphism of rings between (H*X)^[n] and the cohomology H*(X^[n]) of the n-th Hilbert scheme of X.

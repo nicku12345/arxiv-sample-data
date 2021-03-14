@@ -1,0 +1,1 @@
+In Part I of this paper, we presented a Hilbert-style system \Sigma_D axiomatizing of stit logic of justification announcements (JA-STIT) interpreted over models with discrete time structure. In this part, we prove three frame definability results for \Sigma_D using three different definitions of a frame plus a yet another version of completeness result.

@@ -1,0 +1,1 @@
+This paper deals with a fourth order elliptic equation on compact Riemannian manifolds.We establish the existence of solutions to the equation with critical Sobolev growth which is the subject of the first theorem. In the second one, we prove the multiplicity of solutions in the subcritical case.

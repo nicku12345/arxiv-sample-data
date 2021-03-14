@@ -1,0 +1,1 @@
+For any regular cardinal \kappa and ordinal \eta<\kappa^{++} it is consistent that 2^{\kappa} is as large as you wish, and every function f:\eta \to [\kappa,2^{\kappa}]\cap Card with f(\alpha)=\kappa for cf(\alpha)<\kappa is the cardinal sequence of some locally compact scattered space.

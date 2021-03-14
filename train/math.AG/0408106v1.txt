@@ -1,0 +1,1 @@
+In this note, we consider K3 surfaces X with an action by the alternating group A_5. We show that if a cyclic extension A_5 . C_n acts on X then n = 1, 2, or 4. We also determine the A_5-invariant sublattice of the K3 lattice and its discriminant form.

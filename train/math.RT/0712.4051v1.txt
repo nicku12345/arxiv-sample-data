@@ -1,0 +1,1 @@
+The goal of these notes is to give a self-contained account of the representation theory of GL_2 and SL_2 over a finite field, and to give some indication of how the theory works for GL_n over a finite field.

@@ -1,0 +1,1 @@
+We introduce uncertainty regions to perform inference on partial correlations when data are missing not at random. These uncertainty regions are shown to have a desired asymptotic coverage. Their finite sample performance is illustrated via simulations and real data example.

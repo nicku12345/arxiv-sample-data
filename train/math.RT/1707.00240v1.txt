@@ -1,0 +1,1 @@
+Given a real reductive group Lie group G_\mathbb{R}, the Mackey analogy is a bijection between the set of irreducible tempered representations of G_\mathbb{R} and the set of irreducible unitary representations of its Cartan motion group. We show that this bijection arises naturally from families of twisted \mathcal{D}-modules over the flag variety of G_\mathbb{R}.

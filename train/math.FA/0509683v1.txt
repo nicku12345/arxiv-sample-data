@@ -1,0 +1,1 @@
+Given a Banach space. We show that its three times dual space can be written as a direct sum. Then being one of the sumands null is a necessary and sufficient condition for the dual space to be reflexive. We end with an application of this result to the known relationship between the reflexivity of a Banach space and that of its dual space.

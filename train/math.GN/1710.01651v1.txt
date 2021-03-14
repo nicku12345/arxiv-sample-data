@@ -1,0 +1,1 @@
+We extend known results of selection principles in C_p-theory to the context of spaces of the form C_{\mathcal{B}}(X), where \mathcal{B} is a bornology on X. Particularly, by using the filter approach of Jordan to C_p-theory, we show that \gamma-productive spaces are productive with a larger class of \gamma-like spaces.

@@ -1,0 +1,1 @@
+A family of stable mixed finite elements for the linear elasticity on tetrahedral grids are constructed, where the stress is approximated by symmetric H(\d)-P_k polynomial tensors and the displacement is approximated by C^{-1}-P_{k-1} polynomial vectors, for all k\ge 4. Numerical tests are provided.

@@ -1,0 +1,1 @@
+We construct new classes of Parseval frames for a Hilbert space which allow signal reconstruction from the absolute value of the frame coefficients. As a consequence, signal reconstruction can be done without using noisy phase or its estimation. This verifies a longstanding conjecture of the speech processing community.

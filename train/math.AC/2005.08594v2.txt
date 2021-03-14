@@ -1,0 +1,1 @@
+In this article, we obtain an upper bound for the regularity of the binomial edge ideal of a graph whose every block is either a cycle or a clique. As a consequence, we obtain an upper bound for the regularity of binomial edge ideal of a cactus graph. We also identify certain subclass attaining the upper bound.

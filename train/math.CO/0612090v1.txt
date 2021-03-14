@@ -1,0 +1,1 @@
+R. Stanley has found a nice combinatorial formula for characters of irreducible representations of the symmetric group of rectangular shape. Then, he has given a conjectural generalisation for any shape. Here, we will prove this formula using shifted Schur functions and Jucys-Murphy elements.

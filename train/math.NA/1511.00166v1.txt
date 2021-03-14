@@ -1,0 +1,1 @@
+Algorithms and underlying mathematics are presented for numerical computation with periodic functions via approximations to machine precision by trigonometric polynomials, including the solution of linear and nonlinear periodic ordinary differential equations. Differences from the nonperiodic Chebyshev case are highlighted.

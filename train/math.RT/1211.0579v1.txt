@@ -1,0 +1,1 @@
+For any finite-dimensional Lie algebra we introduce the notion of Jordan-Kronecker invariants, study their properties and discuss examples. These invariants naturally appear in the framework of the bi-Hamiltonian approach to integrable systems on Lie algebras and are closely related to Mischenko-Fomenko's argument shift method.

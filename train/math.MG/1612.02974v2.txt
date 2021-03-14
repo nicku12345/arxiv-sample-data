@@ -1,0 +1,1 @@
+We compare the regularity of the boundary of a convex set with the value of its Finslerian volume entropy. The main result states that the volume entropy of a two-dimensional domain whose associated curvature measure is Ahlfors \alpha-regular is \frac{2\alpha}{\alpha +1}.

@@ -1,0 +1,1 @@
+Suppose that X=G/K is the quotient of a locally compact group by a closed subgroup. If X is locally contractible and connected, we prove that X is a manifold. If the G-action is faithful, then G is a Lie group.

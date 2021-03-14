@@ -1,0 +1,1 @@
+In this note, starting with a little-known result of Kuo, I derive a recurrence relation for the Bernoulli numbers B_{2 n}, n being any positive integer. This new recurrence seems advantageous in comparison to other known formulae since it allows the computation of both B_{4 n} and B_{4 n +2} from only B_0, B_2,..., B_{2n}.

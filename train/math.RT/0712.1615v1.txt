@@ -1,0 +1,1 @@
+Staggered t-structures are a class of t-structures on derived categories of equivariant coherent sheaves. In this note, we show that the derived category of coherent sheaves on a partial flag variety, equivariant for a Borel subgroup, admits an artinian staggered t-structure. As a consequence, we obtain a basis for its equivariant K-theory consisting of simple staggered sheaves.

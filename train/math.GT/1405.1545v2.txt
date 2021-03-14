@@ -1,0 +1,1 @@
+This notes explores angle structures on ideally triangulated compact 3-manifolds with high genus boundary. We show that the existence of angle structures implies the existence of a hyperbolic metric with totally geodesic boundary, and conversely each hyperbolic 3-manifold with totally geodesic boundary has an ideal triangulation that admits angle structures.

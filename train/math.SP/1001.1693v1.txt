@@ -1,0 +1,1 @@
+We give an account of some results, both old and new, about any n\times n Markov matrix that is embeddable in a one-parameter Markov semigroup. These include the fact that its eigenvalues must lie in a certain region in the unit ball. We prove that a well-known procedure for approximating a non-embeddable Markov matrix by an embeddable one is optimal in a certain sense.

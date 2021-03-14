@@ -1,0 +1,1 @@
+Using the celebrated Morris Constant Term Identity, we deduce a recent conjecture of Chan, Robbins, and Yuen (math.CO/9810154), that asserts that the volume of a certain n(n-1)/2-dimensional polytope is given by the product of the first n-1 Catalan numbers.

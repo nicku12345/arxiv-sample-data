@@ -1,0 +1,1 @@
+We show that for two quivers without oriented cycles related by a BGP reflection, the posets of their tilting modules are related by a simple combinatorial construction, which we call flip-flop.   We deduce that the posets of tilting modules of derived equivalent path algebras of quivers without oriented cycles are universally derived equivalent.

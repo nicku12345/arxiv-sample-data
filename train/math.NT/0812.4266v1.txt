@@ -1,0 +1,1 @@
+In order to prove weak convergence of the periodic multiplicative Selmer algorithm we ensure that the periodicity matrix is positive and establish a relation between its entries and eigenvalues. Since we can imply that the limit of these relations exist, we arrive at the desired result.

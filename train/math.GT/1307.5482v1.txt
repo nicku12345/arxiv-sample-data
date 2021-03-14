@@ -1,0 +1,1 @@
+We give a mathematical computation of the number of solutions of Apollonius problem, by use of Lie Sphere Geometry. Unlike in higher dimensions, the number of solutions depends only on the topology of the configuration of the 3 objects. It appears that our classification is non redundant, and far simpler than those obtained previously.

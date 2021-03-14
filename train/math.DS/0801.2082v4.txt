@@ -1,0 +1,1 @@
+A dynamical Mertens' theorem for ergodic toral automorphisms with error term O(N^{-1}) is found, and the influence of resonances among the eigenvalues of unit modulus is examined. Examples are found with many more, and with many fewer, periodic orbits than expected.

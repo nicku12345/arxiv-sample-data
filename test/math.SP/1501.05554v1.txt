@@ -1,0 +1,1 @@
+We prove various estimates for the first eigenvalue of the magnetic Dirichlet Laplacian on a bounded domain in two dimensions. When the magnetic field is constant, we give lower and upper bounds in terms of geometric quantities of the domain. We furthermore prove a lower bound for the first magnetic Neumann eigenvalue in the case of constant field.

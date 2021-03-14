@@ -1,0 +1,1 @@
+This paper is devoted to the study of degenerate critical elliptic equations of Caffarelli-Kohn-Nirenberg type. By means of blow-up analysis techniques, we prove an a-priori estimate in a weighted space of continuous functions. From this compactness result, the existence of a solution to our problem is proved by exploiting the homotopy invariance of the Leray-Schauder degree.

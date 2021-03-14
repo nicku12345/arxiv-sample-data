@@ -1,0 +1,1 @@
+We consider a transient random walk on Z^d which is asymptotically stable, without centering, in a sense which allows different norming for each component. The paper is devoted to the asymptotics of the probability of the first return to the origin of such a random walk at time n.

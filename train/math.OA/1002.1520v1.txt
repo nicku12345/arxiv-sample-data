@@ -1,0 +1,1 @@
+We establish a relationship between Schreiner's matrix regular operator space and Werner's (nonunital) operator system. For a matrix ordered operator space V with complete norm, we show that V is completely isomorphic and complete order isomorphic to a matrix regular operator space if and only if both V and its dual space V^* are (nonunital) operator systems.

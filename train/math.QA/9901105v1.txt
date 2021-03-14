@@ -1,0 +1,1 @@
+Coalgebra-Galois extensions generalise Hopf-Galois extensions, which can be viewed as non-commutative torsors. In this paper it is analysed when a coalgebra-Galois extension is a separable, split, or strongly separable extension.

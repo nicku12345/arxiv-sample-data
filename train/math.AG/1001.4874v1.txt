@@ -1,0 +1,1 @@
+Let S\subset\Ps^r (r\geq 5) be a nondegenerate, irreducible, smooth, complex, projective surface of degree d. Let \delta_S be the number of double points of a general projection of S to \Ps^4. In the present paper we prove that  \delta_S\leq{\binom {d-2} {2}}, with equality if and only if S is a rational scroll. Extensions to higher dimensions are discussed.

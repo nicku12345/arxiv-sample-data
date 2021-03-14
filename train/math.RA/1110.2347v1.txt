@@ -1,0 +1,1 @@
+In this note, we prove an obstruction theorem for the existence of A infinite-structures over a commutative ring R on an algebra A associative up to homotopy, in terms of the Hochschild cohomology of the associative algebra H(A). The hidden purpose of the note is to show that there are no assumptions needed on the commutative ring R nor bounded assumptions on the complex A.

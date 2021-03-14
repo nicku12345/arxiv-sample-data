@@ -1,0 +1,1 @@
+We consider resonances associated to the operator -\frac{d^2}{dx^2}+V(x), where V(x)=V_+ if x>x_M and V(x)=V_- if x<-x_M, with V_+\not = V_-. We obtain asymptotics of the resonance-counting function in several regions. Moreover, we show that in several situations, the resonances, V_+, and V_- determine V uniquely up to translation.

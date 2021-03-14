@@ -1,0 +1,1 @@
+In this paper we prove a local removable singularity theorem for certain minimal laminations with isolated singularities in a Riemannian three-manifold. This removable singularity theorem is the key result used in our proof that a complete, embedded minimal surface in \mathbb{R}^3 with quadratic decay of curvature has finite total curvature.

@@ -1,0 +1,1 @@
+We count unlabeled k-trees by properly coloring them in k+1 colors and then counting orbits of these colorings under the action of the symmetric group on the colors.

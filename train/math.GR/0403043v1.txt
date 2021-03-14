@@ -1,0 +1,1 @@
+Let k be a local field, and G a linear group over k. We prove that either G contains a relatively open solvable subgroup, or it contains a relatively dense free subgroup. This result has applications in dynamics, Riemannian foliations and profinite groups.

@@ -1,0 +1,1 @@
+We present a self-contained development of Gauss' Arithmetic-Geometric Mean (AGM) and the work of A.E. Ingham who obtained rigorous error bounds for the AGM approximations to the period of a simple pendulum

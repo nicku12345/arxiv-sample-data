@@ -1,0 +1,1 @@
+We define a Deligne-Mumford stack X_{D,r} which depends on a scheme X, an effective Cartier divisor D\subset X, and a positive integer r. Then we show that the Abramovich-Vistoli moduli stack of stable maps into X_{D,r} provides compactifications of the locally closed substacks of \bar{M}_{g,n}(X,\beta) corresponding to relative stable maps.

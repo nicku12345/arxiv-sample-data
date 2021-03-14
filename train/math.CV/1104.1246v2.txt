@@ -1,0 +1,1 @@
+A classical result of singularity theory states that the spectrum of an isolated hypersurface singularity is symmetric with respect to n/2, where n is the dimension of the enclosing space. We prove a similar result for the Jordan-H\"older composition series of the (a,b)-module associated to an isolated hypersurface singularity.

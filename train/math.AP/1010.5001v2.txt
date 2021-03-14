@@ -1,0 +1,1 @@
+We use a Leibnitz rule type inequality for fractional derivatives to prove conditions under which a solution u(x,t) of the k-generalized KdV equation is in the space L^2(|x|^{2s}\,dx) for s \in \mathbb R_{+}.

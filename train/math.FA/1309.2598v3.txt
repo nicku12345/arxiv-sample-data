@@ -1,0 +1,1 @@
+We show that a recent interpolative new proof of the Bohnenblust--Hille inequality, when suitably handled, recovers its best known constants. This seems to be unexpectedly surprising since the known interpolative approaches only provide constants having exponential growth. This preprint is no longer an independent submission, it is now contained in the preprint arXiv 1310.2834.

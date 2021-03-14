@@ -1,0 +1,1 @@
+Let G={\rm Spec} A be a linearly reductive group and let w_G\in A^* be the invariant integral on G. We establish the harmonic analysis on G and we compute w_G when G=Sl_n, Gl_n, O_n, Sp_{2n} by geometric arguments and by means of the Fourier transform.

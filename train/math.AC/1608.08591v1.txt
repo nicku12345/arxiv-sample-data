@@ -1,0 +1,1 @@
+We give new proofs of two results of Stafford, which generalize two famous Theorems of Serre and Bass regarding projective modules. Our techniques are inspired by the theory of basic elements. Using these methods we further generalize Serre's Splitting Theorem by imposing a condition to the splitting maps, which has an application to the case of Cartier algebras.

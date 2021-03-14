@@ -1,0 +1,1 @@
+We show that character analysis using Fourier series is possible, at least when a mathematical character is considered. Previous approaches to character analysis are somewhat not in the spirit of harmonic analysis.

@@ -1,0 +1,1 @@
+Given a Q-dimensional Ahlfors regular metric space (X,\rho) and 0 < \alpha < Q, we show the existence of an \alpha-dimensional, Ahlfors regular subspace Y of X.

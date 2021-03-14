@@ -1,0 +1,1 @@
+We prove a Kunneth formula computing the Connes-Shlyakhtenko L^2-Betti numbers of the algebraic tensor product of two tracial *-algebras in terms of the L^2-Betti numbers of the two original algebras. As an application, we construct examples of non-finite, non-cocommutative, compact quantum groups with a non-vanishing first L^2-Betti number.

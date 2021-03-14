@@ -1,0 +1,1 @@
+We prove that the smallest non-trivial quotient of the mapping class group of a connected orientable surface of genus at least 3 without punctures is \mathrm{Sp}_{2g}(2), thus confirming a conjecture of Zimmermann. In the process, we generalise Korkmaz's results on \mathbb{C}-linear representations of mapping class groups to projective representations over any field.

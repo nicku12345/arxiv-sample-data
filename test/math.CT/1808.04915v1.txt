@@ -1,0 +1,1 @@
+We show that the Lascar group \operatorname{Gal}_L(T) of a first order theory T is naturally isomorphic to the fundamental group \pi_1(|\operatorname{Mod}(T)|) of the classifying space of the category of models of T and elementary embeddings.

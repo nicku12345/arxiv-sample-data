@@ -1,0 +1,1 @@
+Let G be a finite group having a factorisation G=AB into subgroups A and B with B cyclic and A\cap B=1, and let b be a generator of B. The associated skew-morphism is the bijective mapping f:A \to A well defined by the equality baB=f(a)B where a\in A. In this paper, we shall classify all skew-morphisms of cyclic p-groups where p is an odd prime.

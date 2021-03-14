@@ -1,0 +1,1 @@
+The purpose of this article is to investigate a hyperbolic complex manifold M exhausted by a pseudoconvex domain \Omega in \mathbb C^n via an exhausting sequence \{f_j\colon \Omega\to M\} such that f_j^{-1}(a) converges to a boundary point \xi_0 \in \partial \Omega for some point a\in M.

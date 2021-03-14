@@ -1,0 +1,1 @@
+The structure of Sally modules of \fkm-primary ideals I in a Cohen-Macaulay local ring (A, \m) satisfying the equality \e_1(I)=\e_0(I)-\ell_A(A/I)+1 is explored, where \e_0(I) and \e_1(I) denote the first two Hilbert coefficients of I.

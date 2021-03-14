@@ -1,0 +1,1 @@
+We give an explicit presentation for the plactic monoid for type C using admissible column generators. Thanks to the combinatorial properties of symplectic tableaux, we prove that this presentation is finite and convergent. We obtain as a corollary that plactic monoids for type C satisfy homological finiteness properties.

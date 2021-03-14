@@ -1,0 +1,1 @@
+We establish an interaction Morawetz estimate for the magnetic Schr\"odinger equation for n\geq 3 under certain smallness conditions on the gauge potentials, but with almost optimal decay. As an application, we prove global wellposedness and scattering in H^1 for the cubic defocusing magnetic Schr\"odinger equation for n = 3.

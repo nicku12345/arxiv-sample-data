@@ -1,0 +1,1 @@
+For any orbifold M, we explicitly construct a simplicial complex S(M) from a given triangulation of the `coarse' underlying space together with the local isotropy groups of M. We prove that, for any local system on M, this complex S(M) has the same cohomology as M. The use of S(M) in explicit calculations is illustrated in the example of the `teardrop' orbifold.

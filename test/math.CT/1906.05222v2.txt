@@ -1,0 +1,1 @@
+In this paper, we compute the virtual classes in the Grothendieck ring of algebraic varieties of \mathrm{SL}_2(\mathbb{C})-character varieties over compact orientable surfaces with parabolic points of semi-simple type. When the parabolic punctures are chosen to be semi-simple non-generic, we show that a new interaction phenomenon appears generating a recursive pattern.

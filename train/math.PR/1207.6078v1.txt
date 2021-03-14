@@ -1,0 +1,1 @@
+We give simple proofs, under minimal hypotheses, of the Weak Law of Large Numbers and the Central Limit Theorem for independent identically distributed random variables. These proofs use only the elementary calculus, together with the most basic notions of probability, expectations, and distribution functions

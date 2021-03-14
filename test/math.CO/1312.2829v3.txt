@@ -1,0 +1,1 @@
+We introduce the following weak version of Hadwiger's conjecture: If G is a graph and \kappa is a cardinal such that there is no coloring map c:G \to \kappa, then K_\kappa is a minor of G. We prove that this statement is true for graphs with infinite chromatic number

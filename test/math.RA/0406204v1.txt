@@ -1,0 +1,1 @@
+Let K be an infinite field and let R be a K-algebra endowed with a homogeneous polynomial norm N of degree n. If N satisfies a formal analogue of the Cayley-Hamilton Theorem the we will show that R is a quotient of the ring of the invariants of several square matrices of order n under the simultaneous conjugation.

@@ -1,0 +1,1 @@
+We construct explicitly the weights on the simplicial category so that the colimits and limits of 2-functors with those weights provide the Kleisli objects and the Eilenberg-Moore objects, respectively, in any 2-category.

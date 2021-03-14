@@ -1,0 +1,1 @@
+We prove that the existence of a homogeneous invariant of degree n for a representation of a semi-simple Lie group guarantees the existence of non-trivial solutions of D_{\alpha} = 0: these correspond to the maximum value of the square of the invariant divided by the norm of the representation to the n^{th} power.

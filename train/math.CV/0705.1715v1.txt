@@ -1,0 +1,1 @@
+In this article, we prove that if \Pi: X\to \Omega is a surjective holomorphic map, with \Omega a Stein space and X a complex manifold of dimension n\geq 3, and if, for every x\in \Omega there exists an open neighborhood U such that \Pi^{-1}(U) is Stein, then X is Stein

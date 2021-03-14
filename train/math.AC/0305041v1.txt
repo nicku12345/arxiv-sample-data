@@ -1,0 +1,1 @@
+Let E/K be an ellptic curve defined over a number field, let h be the canonical height on E, and let K^ab be the maximal abelian extension of K. Extending work of M. Baker, we prove that there is a positive constant C(E/K) so that every nontorsion point P in E(K^ab) satisfies h(P) > C(E/K).

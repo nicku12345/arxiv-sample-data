@@ -1,0 +1,1 @@
+Let V be a finite-dimensional symplectic vector space over a field of characteristic 0, and let G \subset Sp(V) be a finite subgroup. We prove that for any crepant resolution X \to V/G, the bounded derived category D^b(Coh(X)) of coherent sheaves on X is equivalent to the bounded derived category D^b_G(Coh(V)) of G-equivariant coherent sheaves on V.

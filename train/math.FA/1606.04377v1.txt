@@ -1,0 +1,1 @@
+A generalized Krein-Rutman theorem for a strongly positive bounded linear operator whose spectral radius is larger than essential spectral radius is established: the spectral radius of the operator is an algebraically simple eigenvalue with strongly positive eigenvector and other eigenvalues are less than the spectral radius.

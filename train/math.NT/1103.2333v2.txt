@@ -1,0 +1,1 @@
+In a recent paper, Moshe Jarden proposed a conjecture, later named the Kuykian conjecture, which states that if A is an abelian variety defined over a Hilbertian field K, then every intermediate field of K(A_{tor})/K is Hilbertian. We prove that the conjecture holds for Galois extensions of K in K(A_{tor}).

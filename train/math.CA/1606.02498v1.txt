@@ -1,0 +1,1 @@
+We consider difference equations of order four and determine the one parameter Lie group of transformations (Lie symmetries) that leave them invariant. We introduce a technique for finding their first integrals and discuss the association between the symmetries and first integrals as well as the notion of multipliers (related to conservation laws) for difference equations.

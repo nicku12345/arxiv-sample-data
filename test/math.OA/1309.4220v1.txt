@@ -1,0 +1,1 @@
+Let H and K be infinite dimensional Hilbert spaces, while B(H) and B(K) denote the algebras of all linear bounded operators on H and K, respectively. We characterize the forms of additive mappings from B(H) into B(K) that preserve the nonzero idempotency of either Jordan products of operators or usual products of operators in both directions.

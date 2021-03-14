@@ -1,0 +1,1 @@
+Let V_1 be the Fano threefold given as a hypersurface of degree 6 in P(1,1,1,2,3) (over a number field K). Then there exists a finite extension K'/K such that the set of K'-rational points of X is Zariski dense.

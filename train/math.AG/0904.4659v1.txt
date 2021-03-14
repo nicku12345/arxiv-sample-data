@@ -1,0 +1,1 @@
+Let Z be a closed subscheme of a smooth complex projective complete intersection variety Y\subseteq \Ps^N, with dim Y=2r+1\geq 3. We describe the N\'eron-Severi group NS_r(X) of a general smooth hypersurface X\subset Y of sufficiently large degree containing Z.

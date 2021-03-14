@@ -1,0 +1,1 @@
+In this paper we propose a new numerical method for solving stochastic differential equations (SDEs). As an application of this method we propose an explicit numerical scheme for a super linear SDE for which the usual Euler scheme diverges.

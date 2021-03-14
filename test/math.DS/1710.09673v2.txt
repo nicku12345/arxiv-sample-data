@@ -1,0 +1,1 @@
+A typical approach to analysing statistical properties of expanding maps is to show spectral gaps of associated transfer operators in adapted function spaces. The classical function spaces for this purpose are H\"older spaces and Sobolev spaces. Natural generalisations of these spaces are Besov spaces, on which we show a spectral gap of transfer operators.

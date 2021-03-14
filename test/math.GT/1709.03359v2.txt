@@ -1,0 +1,1 @@
+In this paper, we study Euler classes in groups of homeomorphisms of Seifert fibered 3-manifolds. We show that, in contrast to the familiar Euler class for \mathrm{Homeo}_0(S^1)^\delta, these Euler classes for \mathrm{Homeo}_0(M^3)^\delta are unbounded classes. In fact, we give examples of flat topological M bundles over a genus 3 surface whose Euler class takes arbitrary values.

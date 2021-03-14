@@ -1,0 +1,1 @@
+For a positive integer r we prove that if G is a profinite group in which the centralizer of every nontrivial element has rank at most r, then G is either a pro-p group or a group of finite rank. Further, if G is not virtually a pro-p group, then G is virtually of rank at most r+1.

@@ -1,0 +1,1 @@
+We consider second order linear differential operators possessing a term depending on the unknown function with a fixed argument and study the uniqueness of recovering the operators from the spectrum. We also obtain a constructive procedure for solving this inverse problem along with necessary and sufficient conditions of its solvability.

@@ -1,0 +1,1 @@
+We find general solutions to the generating-function equation sum c_q^{(X)} z^q = F(z)^X, where X is a complex number and F(z) is a convergent power series with |F(0)| >0. We then use these results to derive finite expressions containing only integers or simple fractions for partition functions and for Euler, Bernoulli, and Stirling numbers.

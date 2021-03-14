@@ -1,0 +1,1 @@
+Many years ago Kazhdan, Kostant and Sternberg defined the notion of inducing a hamiltonian action from a Lie subgroup. In this paper, we develop the attendant imprimitivity theorem and Mackey analysis in the full generality needed to deal with arbitrary closed normal subgroups.

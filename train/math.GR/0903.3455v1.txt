@@ -1,0 +1,1 @@
+Let N be a finitely generated nilpotent group. Algorithm is constructed such, that for every automorphism \phi \in Aut(N) defines the Reidemeister number R(\phi). It is proved that any free nilpotent group of rank r = 2 or r = 3 and class c \geq 4r, or rank r \geq 4 and class c \geq 2r, belongs to the class R_{\infty}.

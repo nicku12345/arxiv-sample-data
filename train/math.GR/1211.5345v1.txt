@@ -1,0 +1,1 @@
+Given a finite non-cyclic group G, call \sigma(G) the least number of proper subgroups of G needed to cover G. In this paper we give lower and upper bounds for \sigma(G) for G a group with a unique minimal normal subgroup N isomorphic to A_n^m where n \geq 5 and G/N is cyclic. We also show that \sigma(A_5 \wr C_2)=57.

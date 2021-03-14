@@ -1,0 +1,1 @@
+We prove that some quantized Arnold cat maps are entropic K-systems. This result was formulated by H. Narnhofer[1], but the fact that the optimal decomposition for the multi-channel entropy constructed there is not strictly local was not appropriately taken care of. We propose a strictly local decomposition based on a construction of Voiculescu.

@@ -1,0 +1,1 @@
+In the present article we describe how one can define Hausdorff measure allowing empty elements in coverings, and using infinite countable coverings only. In addition, we discuss how the use of different nonequivalent interpretations of the notion "countable set", that is typical for classical and modern mathematics, may lead to contradictions.

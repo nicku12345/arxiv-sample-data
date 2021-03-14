@@ -1,0 +1,1 @@
+We prove an upper bound for pointwise rotation of mappings with p-exponentially integrable distortion. We also show that this bound is essentially optimal by providing examples which attain this rotation up to a constant multiplication.

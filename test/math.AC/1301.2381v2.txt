@@ -1,0 +1,1 @@
+We define the dual F-signature of modules, which is equivalent to the F-signature if the module is the base ring. By using this invariant, We give characterizations of regular, F-regular, F-rational, and Gorenstein singularities.

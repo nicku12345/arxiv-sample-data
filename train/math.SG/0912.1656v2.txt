@@ -1,0 +1,1 @@
+We associate an exact Lefschetz fibration with a pair of a consistent dimer model and an internal perfect matching on it, whose Fukaya category is derived-equivalent to the category of representations of the directed quiver with relations associated with the pair. As a corollary, we obtain a version of homological mirror symmetry for two-dimensional toric Fano stacks.

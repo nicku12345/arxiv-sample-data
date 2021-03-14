@@ -1,0 +1,1 @@
+We construct a metrizable semitopological semilattice X whose partial order P=\{(x,y)\in X\times X:xy=x\} is a non-closed dense subset of X\times X. As a by-product we find necessary and sufficient conditions for the existence of a (metrizable) Hausdorff topology on a set, act, semigroup or semilattice, having a prescribed countable family of convergent sequences.

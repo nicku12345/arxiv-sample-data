@@ -1,0 +1,1 @@
+We revisit Stasheff's construction of a minimal Lie-Quillen model of a simply-connected closed manifold M using the language of infinity-algebras.   This model is then used to construct a graded Lie bracket on the equivariant homology of the free loop space of M minus a point similar to the Chas-Sullivan string bracket.

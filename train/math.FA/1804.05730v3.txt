@@ -1,0 +1,1 @@
+In [3] it was proved that almost-greedy and semi-greedy bases are equivalent in the context of Banach spaces with finite cotype. In this paper we show this equivalence for general Banach spaces.

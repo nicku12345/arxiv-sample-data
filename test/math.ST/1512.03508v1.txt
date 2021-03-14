@@ -1,0 +1,1 @@
+Assuming squared error loss, we show that finding unbiased estimators and Bayes estimators can be treated as using a pair of linear operators that operate between two Hilbert spaces. We note that these integral operators are adjoint and then investigate some consequences of this fact.

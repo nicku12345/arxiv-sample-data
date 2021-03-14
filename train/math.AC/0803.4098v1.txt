@@ -1,0 +1,1 @@
+We study the existence of linear series on curves lying on an Enriques surface and general in their complete linear system. Using a method that works also below the Bogomolov-Reider range, we compute, in all cases, the gonality of such curves. We also give a new result about the positive cone of line bundles on an Enriques surface and we show how this relates to the gonality.

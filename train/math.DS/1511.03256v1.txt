@@ -1,0 +1,1 @@
+We give a new proof of a theorem of Hubbard-Oberste-Vorth [HOV2] for H\'enon maps that are perturbations of a hyperbolic polynomial and recover the Julia set J^{+} inside a polydisk as the image of the fixed point of a contracting operator. We also give different characterizations of the Julia sets J and J^{+} which prove useful for later applications.

@@ -1,0 +1,1 @@
+It is known that if an operator T is complex symmetric then its Aluthge transform is also complex symmetric. This Note is devoted to showing that the Duggal transform doesn't inherit this property. For instance, we'll show that the Duggal transform isn't always complex symmetric when T is, as it was claimed in \cite{Ga}.

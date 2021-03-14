@@ -1,0 +1,1 @@
+We introduce a notion of globular multicategory with homomorphism types. These structures arise when organizing collections of "higher category-like" objects such as type theories with identity types. We show how these globular multicategories can be used to construct various weak higher categorical structures of types and terms.

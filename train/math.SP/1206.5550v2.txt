@@ -1,0 +1,1 @@
+The aim of this paper is to show that, in the limit circle case, the defect index of a symmetric relation induced by canonical systems, is constant on C. This provides an alternative proof of the De Branges theorem that the canonical systems with tr H(x)=1 imply the limit point case. To this end, we discuss the spectral theory of a linear relation induced by a canonical system.

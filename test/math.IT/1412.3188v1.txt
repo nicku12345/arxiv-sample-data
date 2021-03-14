@@ -1,0 +1,1 @@
+We generalize the array orthogonality property for perfect autocorrelation sequences to n-dimensional arrays. The generalized array orthogonality property is used to derive a number of n-dimensional perfect array constructions.

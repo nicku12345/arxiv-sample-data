@@ -1,0 +1,1 @@
+In this paper, we consider the asymptotic behavior for the principal eigenvalue of an elliptic operator with piecewise constant coefficients. This problem was first studied by Friedman in 1980. We show how the geometric shape of the interface affects the asymptotic behavior for the principal eigenvalue. This is a refinement of the result by Friedman.

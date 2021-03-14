@@ -1,0 +1,1 @@
+We consider a two dimensional magnetic Schroedinger operator on a square lattice with a spatially stationary random magnetic field. We prove   Anderson localization near the spectral edges. We use a new approach to establish a Wegner estimate that does not rely on the monotonicity of the energy on the random parameters.

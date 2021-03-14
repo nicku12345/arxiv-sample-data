@@ -1,0 +1,1 @@
+Monod introduced in [14] a family of Thompson-like groups which provides natural counterexamples to the von Neumann-Day conjecture. We construct a characterization of conjugacy and invariant and use them to compute centralizers in one group of this family.

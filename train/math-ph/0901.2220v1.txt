@@ -1,0 +1,1 @@
+Routines for computation of Weber's parabolic cylinder functions and their derivatives are implemented in Matlab for both moderate and great values of the argument. Standard, real solutions are considered. Tables of values are included.

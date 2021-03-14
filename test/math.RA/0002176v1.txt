@@ -1,0 +1,1 @@
+Suppose E/F is a field extension. We ask whether or not there exists an element of E whose characteristic polynomial has one or more zero coefficients in specified positions. We show that the answer is frequently ``no''. We also prove similar results for division algebras and show that the universal division algebra of degree n does not have an element of trace 0 and norm 1.

@@ -1,0 +1,1 @@
+We use (non-)additive sheaves to introduce an (absolute) notion of Hochschild cohomology for exact categories as Ext's in a suitable bisheaf category. We compare our approach to various definitions present in the literature.

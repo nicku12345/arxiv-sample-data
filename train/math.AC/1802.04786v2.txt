@@ -1,0 +1,1 @@
+We prove some results on the non-existence of rank one maximal Cohen-Macaulay modules over certain Segre product rings. As an application we show that over these Segre product rings there do not exist maximal Cohen-Macaulay modules with multiplicity less than or equal to the parameter degree of the ring, which disproves a conjecture of Schoutens.

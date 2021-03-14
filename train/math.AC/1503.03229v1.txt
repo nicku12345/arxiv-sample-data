@@ -1,0 +1,1 @@
+In this paper we show that expansion of a Buchsbaum simplicial complex is CM_t, for an optimal integer t\geq 1. Also, by imposing extra assumptions on a CM_t simplicial complex, we prove that it can be obtained from a Buchsbaum complex.

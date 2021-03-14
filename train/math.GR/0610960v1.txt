@@ -1,0 +1,1 @@
+This paper deals with the Langlands' classification for discrete series of unitary quasi-split p-adic groups. We show that such a classification follows from Arthur's work on the simple trace formula which we can use now thanks to Laumon-Ngo's proof of the fundamental lemma and Waldspurger's work on the consequences of it on the transfer.

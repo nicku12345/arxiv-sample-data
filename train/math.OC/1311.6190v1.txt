@@ -1,0 +1,1 @@
+We present an automatic and memory efficient methods of morphing-based parametrization of shapes in CFD optimization. Method is based on Kriging and Radial Basis Function interpolation methods.

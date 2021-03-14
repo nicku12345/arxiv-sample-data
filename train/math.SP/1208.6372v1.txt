@@ -1,0 +1,1 @@
+The problem of finding eigenvalue estimates for the Schr\"odinger operator turns out to be most complicated for the dimension 2. Some important results for this case have been obtained recently. We discuss these results and establish their counterparts for the operators on the combinatorial and metric graphs corresponding to the lattice Z^2.

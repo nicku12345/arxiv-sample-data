@@ -1,0 +1,1 @@
+We investigate the behavior of sequences (f(c_nx)) for Lebesgue integrable functions f:\mathbb R^d\to\mathbb R. In particular, we give a~description of classes of multipliers (c_n) and (d_n) such that f(c_nx)\to0 or \sum_{n=1}^\infty|f(d_nx)|<\infty for \lambda almost every x\in\mathbb R^d.

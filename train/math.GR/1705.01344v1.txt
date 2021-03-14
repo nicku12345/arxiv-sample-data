@@ -1,0 +1,1 @@
+We prove Cherlin's conjecture, concerning binary primitive permutation groups, for those groups with socle isomorphic to \mathrm{PSL}_2(q), {^2\mathrm{B}_2}(q), {^2\mathrm{G}_2}(q) or \mathrm{PSU}_3(q). Our method uses the notion of a "strongly non-binary action".

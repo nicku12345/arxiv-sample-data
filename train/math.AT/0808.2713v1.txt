@@ -1,0 +1,1 @@
+To a closed braid in a solid torus we associate a trace graph in a thickened torus in such a way that closed braids are isotopic if and only if their trace graphs can be related by trihedral and tetraherdal moves. For closed braids with a fixed number of strands, we recognize trace graphs up to isotopy and trihedral moves in polynomial time with respect to the braid length.

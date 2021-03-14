@@ -1,0 +1,1 @@
+Given a locally compact group bundle, we show that the system of the Plancherel weights of their C*-algebras is lower semi-continuous. As a corollary, we obtain that the dual Haar sytem of a continuous Haar system of a locally compact abelian group bundle is also continuous.

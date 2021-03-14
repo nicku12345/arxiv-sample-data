@@ -1,0 +1,1 @@
+Let X be an infinite linearly ordered set and let Y be a nonempty subset of X. We calculate the relative rank of the semigroup OP(X,Y) of all orientation-preserving transformations on X with restricted range Y modulo the semigroup O(X,Y) of all order-preserving transformations on X with restricted range Y. For Y = X, we characterize the relative generating sets of minimal size.

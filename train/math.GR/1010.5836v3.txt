@@ -1,0 +1,1 @@
+This is an expository work presenting in detail the proof of the structure theorem for divisible abelian groups. A divisible abelian group is an abelian group that satisfies nD=D for all natural n. The theorem states that any divisible group is a direct sum of copies of the additive rationals and quasicyclic groups.

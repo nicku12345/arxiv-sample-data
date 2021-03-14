@@ -1,0 +1,1 @@
+Recently the author introduced two new integer partition quadruple functions, which satisfy Ramanujan-type congruences modulo 3, 5, 7, and 13. Here we reprove the congruences modulo 3, 5, and 7 by defining a rank-type statistic that gives a combinatorial refinement of the congruences.

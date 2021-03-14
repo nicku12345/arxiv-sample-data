@@ -1,0 +1,1 @@
+We present a brief overview of the different domain and space decomposition techniques that enter in developing and analyzing solvers for discontinuous Galerkin methods. Emphasis is given to the novel and distinct features that arise when considering DG discretizations over conforming methods. Connections and differences with the conforming approaches are emphasized.

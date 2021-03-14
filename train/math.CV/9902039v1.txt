@@ -1,0 +1,1 @@
+Soient M une vari\'et\'e CR localement plongeable et \Phi\subset M un ferm\'e. On donne des conditions suffisantes pour que les fonctions L_{loc}^1 qui sont CR sur M\backslash \Phi le soient aussi sur M tout entier.

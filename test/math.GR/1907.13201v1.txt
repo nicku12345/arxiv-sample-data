@@ -1,0 +1,1 @@
+We consider a special configuration in which a finite group A acts by automorphisms on the finite group G, and the semidirect product GA acts on the vector space V by linear transformations; and discuss the existence of the regular A-module in V_{_{A}}.

@@ -1,0 +1,1 @@
+We answer the question to what extent homotopy (co)limits in categories with weak equivalences allow for a Fubini-type interchange law. The main obstacle is that we do not assume our categories with weak equivalences to come equipped with a calculus for homotopy (co)limits, such as a derivator.

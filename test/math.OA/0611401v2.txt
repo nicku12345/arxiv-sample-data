@@ -1,0 +1,1 @@
+We show that the notion of asymptotic lift generalizes naturally to normal positive maps \phi acting on von Neumann algebras M.   We focus on cases in which the domain of the asymptotic lift can be embedded as an operator subsystem of M, and characterize when that subsystem is a Jordan subalgebra of M in terms of the asymptotic multiplicative properties of \phi.

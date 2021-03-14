@@ -1,0 +1,1 @@
+A stochastic Navier-Stokes equation with space-time Gaussian white noise is considered, having as infinitesimal invariant measure a Gaussian measure   \mu_{\nu} whose covariance is given in terms of the enstrophy. Pathwise uniqueness for \mu_{\nu}-a.e. initial velocity is proven for solutions having \mu_{\nu} as invariant measure.

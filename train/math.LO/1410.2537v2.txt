@@ -1,0 +1,1 @@
+We make use of a finite support product of the Jensen minimal \varPi^1_2 singleton forcing to define a model in which \varPi^1_2 Uniformization fails for a set with countable cross-sections. We also define appropriate submodels of the same model in which Separation fails for \varPi^1_3.

@@ -1,0 +1,1 @@
+Let \xi be an algebraic number and let \alpha,\beta\in \mathbb Q[\xi]. An explicit formula for the coordinates of the product \alpha\beta is given in terms of the coordinates of \alpha and \beta and the companion matrix of the minimal polynomial of \xi. The formula as well as its proof extend to fairly general simple integral extensions.

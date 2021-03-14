@@ -1,0 +1,1 @@
+An invariant kernel for the pluricanonical system of a projective manifold of general type is introduced. Using this kernel we prove that the Yau volume form on a smooth projective variety has seminegative Ricci curvature. As a biproduct we prove the invariance of plurigenera for smooth projective deformations of manifolds of general type.

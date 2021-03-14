@@ -1,0 +1,1 @@
+In this short note, we present a construction of new symplectic 4-manifolds with non-negative signature using the complex surfaces on Bogomolov-Miyaoka-Yau line c_1^2 = 9\chi_h, the fake projective planes and Cartwright-Steger surfaces. Our construction yields an infinite family of fake rational homology (2n-1)\CP#(2n-1)\CPb for any integer 3 \leq n \leq 22.

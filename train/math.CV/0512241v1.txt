@@ -1,0 +1,1 @@
+We prove that the pluri-fine topology on any open set \Omega in \mathbb{C}^{n} is locally connected. This answers a question by Fuglede in [4]. See also Bedford [6].

@@ -1,0 +1,1 @@
+In this article we derive formula for probability \Prob(\sup_{t\leq T} (X(t)-ct)>u) where X=\{X(t)\} is a spectrally positive L\'evy process and c\in\RL. As an example we investigate the inverse Gaussian L\'evy process.

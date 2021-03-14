@@ -1,0 +1,1 @@
+Given a fixed integer n, we prove Ramsey-type theorems for the classes of all finite ordered n-colorable graphs, finite n-colorable graphs, finite ordered n-chromatic graphs, and finite n-chromatic graphs.

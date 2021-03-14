@@ -1,0 +1,1 @@
+We show that the convolution algebra K^G(\mathcal{B} \times \mathcal{B}) is isomorphic to the Based ring of the lowest two-sided cell of the extended affine Weyl group associated to G, where G is a connected reductive algebraic group over the field \mathbb{C} of complex numbers and \mathcal{B} is the flag variety of G.

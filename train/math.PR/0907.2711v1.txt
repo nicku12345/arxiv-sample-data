@@ -1,0 +1,1 @@
+These notes focus on the applications of the stochastic Taylor expansion of solutions of stochastic differential equations to the study of heat kernels in small times. As an illustration of these methods we provide a new heat kernel proof of the Chern-Gauss-Bonnet theorem.

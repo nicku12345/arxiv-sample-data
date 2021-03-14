@@ -1,0 +1,1 @@
+We construct an action selector on aspherical symplectic manifolds that are closed or convex. Such selectors have been constructed by Matthias Schwarz using Floer homology. The construction we present here is simpler and uses only Gromov compactness.

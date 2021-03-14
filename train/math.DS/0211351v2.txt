@@ -1,0 +1,1 @@
+We study the dynamics of a class of interval translation map on three intervals. We show that in this class the typical ITM is of finite type (reduce to an interval exchange transformation) and that the complement contains a Cantor set. We relate our maps to substitution subshifts. Results on Hausdorff dimension of the attractor and on unique ergodicity are obtained.

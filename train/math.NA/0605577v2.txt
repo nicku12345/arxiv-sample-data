@@ -1,0 +1,1 @@
+A fast and accurate algorithm for solving a Bernstein-Vandermonde linear system is presented. The algorithm is derived by using results related to the bidiagonal decomposition of the inverse of a totally positive matrix by means of Neville elimination. The use of explicit expressions for the determinants involved in the process serves to make the algorithm both fast and accurate.

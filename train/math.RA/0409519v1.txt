@@ -1,0 +1,1 @@
+It is shown that each almost maximal valuation ring R such that every indecomposable injective module is countably generated, satisfies the following condition (C): each fp-injective module is locally injective. The converse holds if R is a domain. Moreover, it is proved that a valuation ring that sastisfies this condition (C) is almost maximal.

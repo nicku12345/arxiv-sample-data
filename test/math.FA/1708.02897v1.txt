@@ -1,0 +1,1 @@
+Under the right conditions on a compact metric space X and on a Banach space E, we give a description of the 2-local (standard) isometries on the Banach space \hbox{Lip}(X,E) of vector-valued Lipschitz functions from X to E in terms of a generalized composition operator, and we study when every 2-local (standard) isometry on \hbox{Lip}(X,E) is both linear and surjective.

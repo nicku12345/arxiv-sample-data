@@ -1,0 +1,1 @@
+We prove that many pretzel knots of the form P(2n,m,-2n\pm1,-m) are not topologically slice, even though their positive mutants P(2n, -2n\pm1, m, -m) are ribbon. We use the sliceness obstruction of Kirk and Livingston related to the twisted Alexander polynomials associated to prime power cyclic covers of knots.

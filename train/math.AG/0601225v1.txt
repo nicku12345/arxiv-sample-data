@@ -1,0 +1,1 @@
+We compute in this note the Seshadri constants of the anticanonical bundle at every point of Del Pezzo surfaces. During the proof, we enlight the role of rational curves in our computations. We present then two exemples where the positivity of the anticanonical bundle cannot be detected using rational curves.

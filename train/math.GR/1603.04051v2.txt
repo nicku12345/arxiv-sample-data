@@ -1,0 +1,1 @@
+Many results have been established about determining whether or not an element evaluates to zero on an irreducible character of a group. In this note it is shown that if a group G has a normal nilpotent subgroup N, and P is a Sylow p-subgroup of G, then no irreducible character of G vanishes on N\cap Z(P).

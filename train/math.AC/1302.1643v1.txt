@@ -1,0 +1,1 @@
+We introduce a notion of degenerations of graded modules. In relation to it, we also introduce several partial orders as graded analogies of the hom order, the degeneration order and the extension order. We prove that these orders are identical on the graded Cohen-Macaulay modules if a graded ring is of graded finite representation type and representation directed.

@@ -1,0 +1,1 @@
+We present here a new method for evaluating determinants -- the reduction method. Firstly, in the section 2, we apply it to third-order determinants and after, in the section 3, we generalize it to higher-order determinants. In the section 4 an alternative formulation of the reduction method is presented and, in the section 5, we give the respective mathematical proofs.

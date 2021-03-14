@@ -1,0 +1,1 @@
+In the framework of locally compact quantum groups, we provide an induction procedure for unitary corepresentations as well as coactions on C*-algebras. We prove imprimitivity theorems that unify the existing theorems for actions and coactions of groups. We essentially use von Neumann algebraic techniques.

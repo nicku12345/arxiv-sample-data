@@ -1,0 +1,1 @@
+In this paper, the exponential B-spline functions are used for the numerical solution of the RLW equation. Three numerical examples related to propagation of single solitary wave, interaction of two solitary waves and wave generation are employed to illustrate the accuracy and the efficiency of the method. Obtained results are compared with some early studies.

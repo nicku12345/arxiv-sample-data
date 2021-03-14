@@ -1,0 +1,1 @@
+Let 1 \le p < q \le 2 and let M be any von Neumann algebra. We use recent techniques from free harmonic analysis to construct a completely isomorphic embedding of Lq(M) (equipped with its natural operator space structure) into Lp(A) for some sufficiently large von Neumann algebra A. We show that hyperfiniteness and the QWEP are preserved in our construction.

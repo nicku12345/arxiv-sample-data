@@ -1,0 +1,1 @@
+This paper has two parts. First, we recall and detail the definition of the Grothendieck topos of a connectivity space, that is the topos of sheaves on such a space. In the second part, we prove that every finite connectivity space is Morita-equivalent to a finite topological space, and vice versa (we have given this proof in several, but we haven't yet shared this in writing).

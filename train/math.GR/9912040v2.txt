@@ -1,0 +1,1 @@
+We prove the following version of Milnor's theorem on solvable groups of exponential growth: A finitely generated solvable group which is not polycyclic contains an ascending HNN extension. Consequently, a finitely generated solvable group is ERF iff it is polycyclic.

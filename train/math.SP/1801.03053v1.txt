@@ -1,0 +1,1 @@
+The classical hierarchy of Toda flows can be thought of as an action of the (abelian) group of polynomials on Jacobi matrices. We present a generalization of this to the larger groups of C^2 and entire functions, and in this second case, we also introduce associated cocycles and in fact give center stage to this object.

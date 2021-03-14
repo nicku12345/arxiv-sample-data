@@ -1,0 +1,1 @@
+Let (R,\mathfrak{m}) be a Noetherian regular local ring containing a field of characteristic p>0 and I a nonzero ideal of R. In this short note, we prove that if \operatorname{H}^i_I(R)\neq 0, then  \operatorname{Supp}_R(D(\operatorname{H}^i_{I}(R)))=\operatorname{Spec}(R).

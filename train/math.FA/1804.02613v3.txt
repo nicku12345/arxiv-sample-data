@@ -1,0 +1,1 @@
+The sets of strongly supercyclic, weakly l-sequentially supercyclic, weakly sequentially supercyclic, and weakly supercyclic vectors for an arbitrary normed-space operator are all dense in the normed space, regardless the notion of denseness one is considering, provided they are nonempty.

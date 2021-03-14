@@ -1,0 +1,1 @@
+Using the Oh-Schwarz spectral invariants and some arguments of Frauenfelder, Ginzburg, and Schlenk, we show that the \pi_1-sensitive Hofer-Zehnder capacity of any subset of a closed symplectic manifold is less than or equal to its displacement energy. This estimate is sharp, and implies some new extensions of the Non-Squeezing Theorem.

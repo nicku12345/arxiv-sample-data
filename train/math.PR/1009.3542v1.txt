@@ -1,0 +1,1 @@
+It is shown that the hyperbolic functions can be associated with selfdecomposable distributions (in short: SD probability distributions or L\'evy class L probability laws). Consequently, they admit associated background driving L\'evy processes Y (BDLP Y). We interpret the distributions of Y(1) via Bessel squared processes, Bessel bridges and local times.

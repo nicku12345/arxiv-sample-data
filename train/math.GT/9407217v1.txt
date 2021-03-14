@@ -1,0 +1,1 @@
+Alexander's and Markov's theorems state that any link type in R^3 is represented by a closed braid and that such representations are related by some elementary operations called Markov moves. We generalize the notion of a braid to that in 4-dimensional space and establish an analogue of these theorems.

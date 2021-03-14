@@ -1,0 +1,1 @@
+We determine the integral extension groups Ext^1({\Delta}(h),{\Delta}(h(k))) and Ext^k({\Delta}(h),{\Delta}(h(k))), where {\Delta}(h),{\Delta}(h(k)) are the Weyl modules of the general linear group GL_n corresponding to the hook partitions h=(a,1^b), h(k)=(a+k,1^{b-k}).

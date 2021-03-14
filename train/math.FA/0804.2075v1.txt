@@ -1,0 +1,1 @@
+Let C be a closed convex cone in a Banach ideal space X on a measurable space with a \sigma-finite measure. We prove that conditions C\cap X_+=\{0\} and C\supset -X_+ imply the existence of a strictly positive continuous functional on X, whose restriction to C is non-positive.

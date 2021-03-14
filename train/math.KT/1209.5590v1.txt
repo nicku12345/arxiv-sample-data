@@ -1,0 +1,1 @@
+If \Gamma is a torsion free \widetilde A_2 group acting on an \widetilde A_2 building \Delta, and \fk A_{\Gamma} is the associated boundary C^*-algebra, it is proved that K_0(\fk A_\Gamma)\otimes \bb R \cong \bb R^{2\beta_2}, where \beta_2=\dim_\bb R H^2(\Gamma, \bb R).

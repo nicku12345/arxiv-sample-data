@@ -1,0 +1,1 @@
+P(n,s) denotes the number of permutations of 1,2,...n that have exactly s sequences. Canfield and Wilf [math.CO/0609704] recently showed that P(n,s) can be written as a sum of s polynomials in n. We determine these polynomials explicitly and also obtain explicit expressions for P(n,s) and its fixed-s generating function u_s(x).

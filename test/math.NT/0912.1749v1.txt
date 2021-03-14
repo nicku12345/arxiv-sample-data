@@ -1,0 +1,1 @@
+In this article we generalize Borel's classical approximation results for the regular continued fraction expansion to the alpha-Rosen fraction expansion, using a geometric method. We give a Haas-Series-type result about all possible good approximations for the alpha for which the Legendre constant is larger than the Hurwitz constant.

@@ -1,0 +1,1 @@
+Graph compositions generalize both integer compositions and partitions of a finite set. We develop formulas, generating functions and recurrence relations for composition counting functions for several families of graphs.

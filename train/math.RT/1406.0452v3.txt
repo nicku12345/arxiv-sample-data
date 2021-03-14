@@ -1,0 +1,1 @@
+By a result of Mathas, the basis element T_{w_0} of the Hecke algebra of a finite Coxeter group acts in the canonical basis of a cell module as a permutation matrix times plus or minus a power of v. We generalize this result to the unequal parameter case,. We also show that the image of T_{w_0} in the corresponding asymptotic Hecke algebra is given by a simple formula.

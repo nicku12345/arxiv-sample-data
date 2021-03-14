@@ -1,0 +1,1 @@
+Let F be a global field, A its ring of adeles, G a reductive group over F. We prove the Baum-Connes conjecture for the adelic group G(A).

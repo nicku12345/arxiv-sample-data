@@ -1,0 +1,1 @@
+We show that existence of nonzero nilpotent elements in the \Z-module \Z/(p_1^{k_1}\times \cdots \times p_n^{k_n})\Z inhibits the module from possessing good structural properties. In particular, it stops it from being semisimple and from admitting certain good homological properties.

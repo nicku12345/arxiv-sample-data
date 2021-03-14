@@ -1,0 +1,1 @@
+In this note, we find a sharp bound for the minimal number (or in general, indexing set) of subspaces of a fixed (finite) codimension needed to cover any vector space V over any field. If V is a finite set, this is related to the problem of partitioning V into subspaces.

@@ -1,0 +1,1 @@
+The solvability in W^{2}_{p}(\bR^{d}) spaces is proved for second-order elliptic equations with coefficients which are measurable in one direction and VMO in the orthogonal directions in each small ball with the direction depending on the ball. This generalizes to a very large extent the case of equations with continuous or VMO coefficients.

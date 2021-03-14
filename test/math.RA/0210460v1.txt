@@ -1,0 +1,1 @@
+Let H be a Hopf algebra. Ju and Cai introduced the notion of twisting of an H-module coalgebra. In this note, we study the relationship between twistings, crossed coproducts and Hopf-Galois coextensions. In particular, we show that a twisting of an H-Galois coextension remains H-Galois if the twisting is invertible.

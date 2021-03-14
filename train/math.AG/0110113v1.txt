@@ -1,0 +1,1 @@
+This is the second part of the paper "A degeneration of stable morphisms and relative stable morphisms", (math.AG/0009097). In this paper, we constructed the relative Gromov-Witten invariants of a pair of a smooth variety and a smooth divisor. We then proved a degeneration formula of Gromov-Witten invariants, in cycle form.

@@ -1,0 +1,1 @@
+Let \mathcal{C}_{\mathbi{d}}, \mathcal{I}_{\mathbi{d}}, \mathbi{d}{=}(d_1,d_2,..., d_n) be the algebras of join covariants and joint invariants of the n binary forms of degrees d_1,d_2,..., d_n. Formulas for computation of the multivariate Poincar\'e series \mathcal{P}(\mathcal{C}_{\mathbi{d}},z_1,z_2,...,z_n,t) and \mathcal{P}(\mathcal{I}_{\mathbi{d}},z_1,z_2,...,z_n) are found.

@@ -1,0 +1,1 @@
+All previously published work on isomorphic grid embeddings into n-cubes has been restricted to binary n-cubes. This paper describes a straightforward method for embedding a A x B grid isomorphically into a k-ary n-cube with k>2.

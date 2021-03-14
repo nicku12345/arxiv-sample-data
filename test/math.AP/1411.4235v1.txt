@@ -1,0 +1,1 @@
+We study the time-dependent Ginzburg--Landau equations in a three-dimensional curved polyhedron (possibly nonconvex). Compared with the previous works, we prove existence and uniqueness of a global weak solution based on weaker regularity of the solution in the presence of edges or corners, where the magnetic potential may not be in L^2(0,T;H^1(\Omega)^3).

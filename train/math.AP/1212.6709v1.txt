@@ -1,0 +1,1 @@
+For the Schr\"odinger map problem from 2+1 dimensions into the 2-sphere we prove the existence of equivariant finite time blow up solutions that are close to a dynamically rescaled lowest energy harmonic map, the scaling parameter being given by t^{-\nu} with \nu>3/2.

@@ -1,0 +1,1 @@
+We identify the twisted sectors of a compact simplicial toric variety. We do the same for a generic nondegenerate Calabi-Yau hypersurface of an n-dimensional simplicial Fano toric variety and then explicitly compute h^{1,1}_{orb} and h^{n-2,1}_{orb} for the hypersurface. We give applications to the orbifold string theory conjecture and orbifold mirror symmetry.

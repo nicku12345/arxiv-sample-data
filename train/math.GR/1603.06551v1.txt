@@ -1,0 +1,1 @@
+A subgroup of a finite group is wide if each prime divisor of the group order divides the subgroup order. We obtain the description of finite soluble groups with no wide subgroups. We also prove that a finite soluble group with nilpotent wide subgroups has the quotient group by its hypercenter with no wide subgroups.

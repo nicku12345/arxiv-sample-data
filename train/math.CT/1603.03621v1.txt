@@ -1,0 +1,1 @@
+We show that every abstract Krivine structure in the sense of Streicher can be obtained, up to equivalence of the resulting tripos, from a filtered opca (A,A') and a subobject of 1 in the relative realizability topos RT(A',A); the topos is always a Booleanization of a closed subtopos of RT(A',A). We exhibit a range of non-localic Boolean subtoposes of the Kleene-Vesley topos.

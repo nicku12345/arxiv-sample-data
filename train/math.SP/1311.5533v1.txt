@@ -1,0 +1,1 @@
+We obtain precise asymptotics for the Steklov eigenvalues on a compact Riemannian surface with boundary. It is shown that the number of connected components of the boundary, as well as their lengths, are invariants of the Steklov spectrum. The proofs are based on pseudodifferential techniques for the Dirichlet-to-Neumann operator and on a number-theoretic argument.

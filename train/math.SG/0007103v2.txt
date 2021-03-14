@@ -1,0 +1,1 @@
+We try to generalize the Poisson cohomology of a 2-dimensional Poisson manifold to the n-vectors on a n-dimensional manifold. We define several cohomologies and we compute locally some of them, in the case of germs at 0 of n-vectors on a real or complex vector field of dimension n.

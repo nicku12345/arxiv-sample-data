@@ -1,0 +1,1 @@
+Finite (upper) nearlattices are essentially the same mathematical entities as finite semilattices, finite commutative idempotent semigroups, finite join-enriched meet semilattices, and chopped lattices. We prove that if an n-element nearlattice has at least 83\cdot 2^{n-8} subnearlattices, then it has a planar Hasse diagram. For n>8, this result is sharp.

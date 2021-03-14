@@ -1,0 +1,1 @@
+We give examples of two Banach spaces. One Banach space has no spreading model which contains \ell_p (1\le p<\infty) or c_0. The other space has an unconditional basis for which \ell_p (1\le p<\infty) and c_0 are block finitely represented in all block bases.

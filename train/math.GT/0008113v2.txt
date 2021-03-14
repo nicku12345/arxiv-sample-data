@@ -1,0 +1,1 @@
+A taut foliation of a hyperbolic 3-manifold has the continuous extension property for leaves in almost every direction; that is, for each leaf of the universal cover of the foliation and almost every geodesic ray in the leaf, the limit of the ray in the universal cover of the 3-manifold is a well-defined point in the ideal boundary.

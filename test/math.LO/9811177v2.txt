@@ -1,0 +1,1 @@
+We prove that for every (infinite cardinal) lambda there is a T_3-space X with clopen basis, 2^mu points where mu = 2^lambda, such that every closed subspace of cardinality <|X| has cardinality < lambda .

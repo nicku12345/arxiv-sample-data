@@ -1,0 +1,1 @@
+Let q be a p-power where p is a fixed prime. In this paper, we look at the p-power maps on unitriangular group U(n,q) and triangular group T(n,q). In the spirit of Borel dominance theorem for algebraic groups, we show that the image of this map contains large size conjugacy classes. For the triangular group we give a recursive formula to count the image size.

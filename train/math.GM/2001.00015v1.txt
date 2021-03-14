@@ -1,0 +1,1 @@
+In this article we will consider average angles of triangle, which share the same side with regular polygons. In particular we will count average angles in the triangle, which share the same bottom side with a square with length side d=1.

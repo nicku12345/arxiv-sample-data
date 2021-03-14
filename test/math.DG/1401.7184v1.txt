@@ -1,0 +1,1 @@
+We prove that any Riemannian two-sphere with area at most 1 can be continuously mapped onto a tree in a such a way that the topology of fibers is controlled and their length is less than 7.6. This result improves previous estimates and relies on a similar statement for Riemannian two-disks.

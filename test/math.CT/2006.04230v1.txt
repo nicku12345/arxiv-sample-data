@@ -1,0 +1,1 @@
+Let X be a scheme and let \mathcal{M} be a quasi-coherent sheaf on X. Then \mathcal{M} can be viewed as a cogroup object in the category of schemes under X. We show that the category of first order thickenings of X by \mathcal{M} is equivalent to the category of \mathcal{M}-cotorsors.

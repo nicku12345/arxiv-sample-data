@@ -1,0 +1,1 @@
+We give an effective criterion for openness of a morphism of schemes of finite type over a field: Over a normal base of dimension n, failure of openness is detected by a vertical component in the n'th fibred power of the morphism. This is a topological analogue of a criterion for flatness that originates with Auslander.

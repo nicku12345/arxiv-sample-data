@@ -1,0 +1,1 @@
+A new proof of Oka's lemma is given for smoothly bounded, pseudoconvex domains D\subset\mathbb{C}^n. The method of proof is then also applied to other convexity-like hypotheses on the boundary of D.

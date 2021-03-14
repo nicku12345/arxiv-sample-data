@@ -1,0 +1,1 @@
+We put together the ingredients for an efficient operator calculus based on Krawtchouk polynomials, including Krawtchouk transforms and corresponding convolution structure which provide an inherently discrete alternative to Fourier analysis. In this paper, we present the theoretical aspects and some basic examples.

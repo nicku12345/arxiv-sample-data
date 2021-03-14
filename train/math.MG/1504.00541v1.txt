@@ -1,0 +1,1 @@
+It is proved that every convex body in the plane has a point such that the union of the body and its image under reflection in the point is convex. If the body is not centrally symmetric, then it has, in fact, three affinely independent points with this property.

@@ -1,0 +1,1 @@
+Let (S,L) be a Lie-Rinehart pair such that L is S-projective and let U be its universal enveloping algebra. The purpose of this paper is to present a spectral sequence which converges to the Hochschild cohomology of U and whose second page involves the Lie-Rinehart cohomology of the pair and the Hochschild cohomology of S with values on U.

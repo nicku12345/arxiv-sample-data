@@ -1,0 +1,1 @@
+This note shows that for each n\geq 5 with only n\not= 6, there exists a 2n-dimensional specially omnioriented quasitoric manifold M^{2n} which represents a nonzero element in \Omega_*^U. This provides the counterexamples of Buchstaber--Panov--Ray conjecture.

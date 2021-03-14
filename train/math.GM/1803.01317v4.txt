@@ -1,0 +1,1 @@
+We give three new proofs of the triangle inequality in Euclidean Geometry. There seems to be only one known proof at the moment. It is due to properties of triangles, but our proofs are due to circles or ellipses. We aim to prove the triangle inequality as simple as possible without using properties of triangles.

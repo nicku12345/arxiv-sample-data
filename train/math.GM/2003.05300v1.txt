@@ -1,0 +1,1 @@
+In the paper, the author compute completely monotonic degree of a remainder of the asymptotic expansion of the trigamma function. This result verify one of a series of conjectures on completely monotonic degrees of remainders of the asymptotic expansions for the logarithm of the gamma function and for polygamma functions.

@@ -1,0 +1,1 @@
+In this paper, a multiple-relay network in considered, in which K single-antenna relays assist a single-antenna transmitter to communicate with a single-antenna receiver in a half-duplex mode. A new Amplify and Forward (AF) scheme is proposed for this network and is shown to achieve the optimum diversity-multiplexing trade-off curve.

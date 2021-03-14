@@ -1,0 +1,1 @@
+We enumerate all totally real number fields F with root discriminant delta_F <= 14. There are 1229 such fields, each with degree [F:QQ] <= 9.

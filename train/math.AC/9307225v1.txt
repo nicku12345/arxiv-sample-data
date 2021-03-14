@@ -1,0 +1,1 @@
+An example is constructed of a local ring and a module of finite type and finite projective dimension over that ring such that the module is not rigid. This shows that the rigidity conjecture is false.

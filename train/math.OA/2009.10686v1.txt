@@ -1,0 +1,1 @@
+Motivated by the harmonic analysis of self-affine measures, we introduce a class of representations of the Cuntz algebra associated to random walks on graphs. The representations are constructed using the dilation theory of row coisometries. We study these representations, their commutant and the intertwining operators.

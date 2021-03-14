@@ -1,0 +1,1 @@
+Let X denote a simply connected compact Riemannian symmetric space, U the universal covering of the identity component of the group of automorphisms of X, and LU the loop group of U. In this paper we prove the existence (and conjecture the uniqueness) of an LU-invariant probability measure on a distributional completion of the loop space of X.

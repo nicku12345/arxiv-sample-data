@@ -1,0 +1,1 @@
+We give a systematic definition of the fundamental groups of gropes, which we call grope groups. We show that there exists a nontrivial homomorphism from the minimal grope group M to another grope group G only if G is the free product of M with another grope group.

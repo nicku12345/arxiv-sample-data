@@ -1,0 +1,1 @@
+This is a companion to recent papers of the authors; here we construct the `noncommutative   Shilov boundary' of a (possibly nonunital) selfadjoint ordered space of Hilbert space operators. The morphisms in the universal property of the boundary preserve order.   As an application, we consider `maximal' and `minimal' unitizations of such ordered operator spaces.

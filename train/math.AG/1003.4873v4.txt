@@ -1,0 +1,1 @@
+We extend the results of Schapira and Schneiders on relative regularity and finiteness of elliptic pairs to the framework of \shd[[\hbar]]-modules and \R-constructible sheaves of \C[[\h]]-modules. We also construct a relative duality morphism for elliptic pairs in the smooth case and we prove that it is an isomorphism if the elliptic pair satisfies the finiteness criteria.

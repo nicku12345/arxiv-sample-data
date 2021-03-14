@@ -1,0 +1,1 @@
+In this note we obtain an explicit formula for the Hosoya polynomial of any distance-regular graph in terms of its intersection array. As a consequence, we obtain a very simple formula for the Hosoya polynomial of any strongly regular graph.

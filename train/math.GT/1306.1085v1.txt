@@ -1,0 +1,1 @@
+This paper provides a topological method to construct all simply-connected, spin, smooth 6-manifolds with torsion-free homology using simply-connected, smooth 4-manifolds as building blocks. We explicitly determine the invariants that classify these 6-manifolds from the intersection form and specific homology classes of the 4-manifold building blocks.

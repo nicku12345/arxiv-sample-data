@@ -1,0 +1,1 @@
+We consider stochastic convex optimization with a strongly convex (but not necessarily smooth) objective. We give an algorithm which performs only gradient updates with optimal rate of convergence.

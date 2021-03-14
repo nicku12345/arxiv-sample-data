@@ -1,0 +1,1 @@
+The number of n \times n matrices whose entries are either -1, 0, or 1, whose row- and column- sums are all 1, and such that in every row and every column the non-zero entries alternate in sign, is proved to be [1!4! >... (3n-2)!]/[n!(n+1)! ... (2n-1)!], as conjectured by Mills, Robbins, and Rumsey.

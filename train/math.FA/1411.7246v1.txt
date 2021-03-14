@@ -1,0 +1,1 @@
+The purpose of the present paper is to investigate the decay of Bernstein numbers of the embedding from B^t_{p_1,q}((0,1)^d) into the space L_{p_2}((0,1)^d) . The asymptotic behaviour of Bernstein numbers of the identity id: S_{p_1,p_1}^tB((0,1)^d)\rightarrow L_{p_2}((0,1)^d) will be also considered.

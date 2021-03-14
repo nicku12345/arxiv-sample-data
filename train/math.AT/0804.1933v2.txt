@@ -1,0 +1,1 @@
+We construct geometric examples of pseudomanifolds that satisfy the Witt condition for intersection homology Poincare duality with respect to certain fields but not others. We also compute the bordism theory of K-Witt spaces for an arbitrary field K, extending results of Siegel for K=Q.

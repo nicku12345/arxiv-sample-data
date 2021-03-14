@@ -1,0 +1,1 @@
+Generalized Z_k-graded Grassmann variables are used to label coherent states related to the nilpotent representation of the q-oscillator of Biedenharn and Macfarlane when the deformation parameter is a root of unity. These states are then used to construct generalized Grassmann representatives of state vectors.

@@ -1,0 +1,1 @@
+We present new computational methods for proving diffeomorphy of triangulated 4-manifolds, including algorithms and topological software that can for the first time effectively handle the complexities that arise in dimension four and be used for large scale experiments.

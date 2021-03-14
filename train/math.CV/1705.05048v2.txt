@@ -1,0 +1,1 @@
+Two meromorphic functions f(z) and g(z) sharing a small function \alpha(z) usually is defined in terms of vanishing of the functions f-\alpha and g-\alpha. We argue that it would be better to modify this definition at the points where \alpha has poles. Related to this issue we also point out some possible gaps in proofs in the published literature.

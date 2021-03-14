@@ -1,0 +1,1 @@
+Let K be a connected compact Lie group. The triples (O_1,\,O_2,\,O_3) of adjoint K-orbits such that O_1+O_2+O_3 contains 0 are parametrized by a closed convex polyhedral cone called the eigencone of K. For K simple of type A, B or C we give an inductive cohomology free description of the minimal set of linear inequalities which characterizes the eigencone of K.

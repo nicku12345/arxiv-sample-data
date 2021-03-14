@@ -1,0 +1,1 @@
+We prove L^p(b\mathcal{D})-regularity of the Cauchy-Leray integral for bounded domains \mathcal{D}\subset\mathbb C^n whose boundary satisfies the minimal regularity condition of class C^{1,1}, together with a naturally occurring notion of convexity.

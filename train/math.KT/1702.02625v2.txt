@@ -1,0 +1,1 @@
+The aim of this work is to give an algebraic weak version of the Atiyah-Singer index theorem. We compute then a few small examples with the elliptic differential operator of order \leq 1 coming from the Atiyah class in \mathrm{Ext}^1_{\mathcal{O}_X}(\mathcal{O}_X,\Omega^1_{X/k}), where X \longrightarrow \mathrm{Spec}(k) is a smooth projective scheme over a perfect field k.

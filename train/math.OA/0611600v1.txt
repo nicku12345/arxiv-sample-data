@@ -1,0 +1,1 @@
+We define a noncommutative differential calculus constructed from the inner derivation, then several relevant examples are showed. It is of interest to note that for certain C^*-algebra, this calculus is closely related to the classical one when the algebra associates a deformation parameter.

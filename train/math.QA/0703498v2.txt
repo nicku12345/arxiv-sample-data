@@ -1,0 +1,1 @@
+We compute necessary conditions on Yetter-Drinfeld modules over the groups SL(2,Fq) and GL(2,Fq) to generate finite dimensional Nichols algebras. This is a first step towards a classification of pointed Hopf algebras with a group of group-likes isomorphic to one of these groups.

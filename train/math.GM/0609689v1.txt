@@ -1,0 +1,1 @@
+The bilateral binomial theorem with step width two gives a bilateral hypergeometric formula for 2H2(a, a+1/2; c, c+1/2; z).

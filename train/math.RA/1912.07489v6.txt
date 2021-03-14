@@ -1,0 +1,1 @@
+Kronecker's 1856 paper contains a solvability theorem that is useful to construct unsolvable algebraic equations. We show how Kronecker's solvability theorem can be derived naturally via a polynomial complete decomposition method. This method is similar to D\"orrie, but we fill a gap that appears in his proof.

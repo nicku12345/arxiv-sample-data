@@ -1,0 +1,1 @@
+We prove that a Spector--like ultrapower extension \gN of a countable Solovay model \gM (where all sets of reals are Lebesgue measurable) is equal to the set of all sets constructible from reals in a generic extension \gM[\al] where \al is a random real over \gM. The proof involves an almost everywhere uniformization theorem in the Solovay model.

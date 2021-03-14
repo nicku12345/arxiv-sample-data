@@ -1,0 +1,1 @@
+One designs a linear stabilizable boundary feedback controller for the Navier-Stokes equations which is oblique to boundary.

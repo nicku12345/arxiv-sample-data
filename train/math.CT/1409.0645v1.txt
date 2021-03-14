@@ -1,0 +1,1 @@
+We show that in an essentially small rigid tensor triangulated category with connected Balmer spectrum there are no proper non-zero thick tensor ideals admitting strong generators. This proves, for instance, that the category of perfect complexes over a commutative ring without non-trivial idempotents has no proper non-zero thick subcategories that are strongly generated.

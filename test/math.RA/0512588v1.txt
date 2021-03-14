@@ -1,0 +1,1 @@
+The subject of Chapter 1 is GKK \tau-matrices and related topics. Chapter 2 is devoted to boundedly invertible collections of matrices, with applications to operator norms and spline approximation. Various structured matrices (Toeplitz, Hessenberg, Hankel, Cauchy, and other) are used extensively throughout the thesis.

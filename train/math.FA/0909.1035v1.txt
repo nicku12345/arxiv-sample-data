@@ -1,0 +1,1 @@
+For a Hilbert space H included in L^1_{loc} (R) of functions on R we obtain a representation theorem for the multipliers M commuting with the shift operator S. This generalizes the classical result for multipliers in L^2(R) as well as our previous result for multipliers in weighted space Lw^2(R). Moreover, we obtain a description of the spectrum of S.

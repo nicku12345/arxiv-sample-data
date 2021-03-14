@@ -1,0 +1,1 @@
+Let \Omega be an open convex domain of the complex plane. We study constants K such that \Omega is K-spectral or complete K-spectral for each continuous linear Hilbert space operator with numerical range included in \Omega. Several approaches are discussed.

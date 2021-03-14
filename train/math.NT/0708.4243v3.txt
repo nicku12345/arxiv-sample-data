@@ -1,0 +1,1 @@
+We study rational points and torsion points on Drinfeld modular curves defined over rational function fields. As a consequence we derive a conjecture of Schweizer describing completely the torsion of Drinfeld modules of rank two over \Bbb F_2(T) implying Poonen's uniform boundedness conjecture in this particular case.

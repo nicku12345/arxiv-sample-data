@@ -1,0 +1,1 @@
+In this note, we derive an asymptotically sharp upper bound on the number of lattice points in terms of the volume of centrally symmetric convex bodies. Our main tool is a generalization of a result of Davenport that bounds the number of lattice points in terms of volumes of suitable projections.

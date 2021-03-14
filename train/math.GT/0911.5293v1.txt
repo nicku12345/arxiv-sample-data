@@ -1,0 +1,1 @@
+We study spaces of realisations of linkages (weighted graphs) whose underlying graph is a series parallel graph. In particular, we describe an algorithm for determining whether or not such spaces are connected.

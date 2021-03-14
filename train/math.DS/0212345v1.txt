@@ -1,0 +1,1 @@
+We prove that some ergodic linear automorphisms of \T^N are stably ergodic, i.e. any small perturbation remains ergodic. The class of linear automorphisms we deal with includes all non-Anosov ergodic automorphisms when N=4 and so, as a corollary, we get that every ergodic linear automorphism of \T^N is stably ergodic when N\leq 5.

@@ -1,0 +1,1 @@
+In this paper we introduce the notion of "strong n-perfect rings" which is in some way a generalization of the notion of "n-perfect rings". We are mainly concerned with those class of rings in the context of pullbacks. Also we exhibit a class of n-perfect rings that are not strong n-perfect rings. Finally, we establish the transfer of this notion to the direct product notions.

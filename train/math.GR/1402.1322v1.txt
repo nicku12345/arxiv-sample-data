@@ -1,0 +1,1 @@
+The (proper) power graph of a group is a graph whose vertex set is the set of all (nontrivial) elements of the group and two distinct vertices are adjacent if one is a power of the other. Various kinds of planarity of (proper) power graphs of groups are discussed.

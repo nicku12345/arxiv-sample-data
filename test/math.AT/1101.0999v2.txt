@@ -1,0 +1,1 @@
+We present some classification results for quasitoric manifolds (M) with (p_1(M)=-\sum a_i^2) for some (a_i\in H^2(M)) which admit an action of a compact connected Lie-group (G) such that (\dim M/G \leq 1). In contrast to Kuroki's work we do not require that the action of (G) extends the torus action on (M).

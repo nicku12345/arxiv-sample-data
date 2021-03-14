@@ -1,0 +1,1 @@
+We evaluate the symmetric functions e_k, h_k and p_k on the alphabet \{x_r/(1-tx_r)\} by elementary methods and give the related generating functions. Our formulas lead to a new and short proof of an ex-conjecture of Lassalle, which was proved by Lascoux and Lassalle in the framework of \lambda-rings theory.

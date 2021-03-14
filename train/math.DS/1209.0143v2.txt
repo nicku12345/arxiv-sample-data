@@ -1,0 +1,1 @@
+Any Jordan curve in the complex plane can be approximated arbitrarily well in the Hausdorff topology by Julia sets of polynomials. Finite collections of disjoint Jordan domains can be approximated by the basins of attraction of rational maps.

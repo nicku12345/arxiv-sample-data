@@ -1,0 +1,1 @@
+A group is nested if the centers of the irreducible characters form a chain. In this paper, we will show that there is a set of subgroups associated with the conjugacy classes of group so that a group is nested if and only if these subgroups form a chain.

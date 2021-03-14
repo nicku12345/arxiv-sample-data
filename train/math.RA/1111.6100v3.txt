@@ -1,0 +1,1 @@
+We establish a lower bound for the size of possible counterexamples of the Dixmier Conjecture. We prove that B>15, where B is the minimum of the greatest common divisor of the total degrees of P and Q, where (P,Q) runs over the counterexamples of the Dixmier Conjecture.

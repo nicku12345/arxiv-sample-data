@@ -1,0 +1,1 @@
+We prove that every expanding minimal semigroup action of C^1 diffeomorphisms of a compact manifold (resp. C^{1+\alpha} conformal) is robustly minimal (resp. ergodic with respect to Lebesgue measure). We also show how, locally, a blending region yields the robustness of the minimality and implies ergodicity.

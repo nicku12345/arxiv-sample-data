@@ -1,0 +1,1 @@
+We compute the class of a divisor on M_{g,n} given as the closure of the locus of smooth pointed curves [C; x_1,..., x_n] for which \sum d_j x_j has an effective representative, where d_j are integers summing up to g-1, not all positive. The techniques used are a vector bundle computation, a pushdown argument reducing the number of marked points, and the method of test curves.

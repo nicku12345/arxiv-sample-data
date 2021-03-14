@@ -1,0 +1,1 @@
+We establish a characterization of dualizing modules among semidualizing modules. Let R be a finite dimensional commutative Noetherian ring with identity and C a semidualizing R-module. We show that C is a dualizing R-module if and only if Tor_i^R(E,E') is C- injective for all C-injective R-modules E and E' and all i\geq 0.

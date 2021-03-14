@@ -1,0 +1,1 @@
+In this paper we present the tanh method to obtain exact solutions to coupled MkDV system. This method may be applied to a variety of coupled systems of nonlinear ordinary and partial differential equations.

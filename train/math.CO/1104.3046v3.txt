@@ -1,0 +1,1 @@
+We determine the asymptotic behaviour of the number of the Eulerian circuits in undirected simple graphs with large algebraic connectivity (the second-smallest eigenvalue of the Laplacian matrix). We also prove some new properties of the Laplacian matrix.

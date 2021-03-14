@@ -1,0 +1,1 @@
+In this note, we will prove that a finite dimensional Lie algebra L of characteristic zero, admitting an abelian algebra of derivations D\leq Der(L) with the property  L^n\subseteq \sum_{d\in D}d(L)  for some n\geq 1, is necessarily solvable. As a result, if L has a derivation d:L\to L, such that L^n\subseteq d(L), for some n\geq 1, then L is solvable.

@@ -1,0 +1,1 @@
+We generalize in this paper a theorem of Titchmarsh for the positivity of Fourier sine integrals. We apply then the theorem to derive simple conditions for the absence of positive energy bound states (bound states embedded in the continuum) for the radial Schr\"odinger equation with nonlocal potentials which are superposition of a local potential and separable potentials.

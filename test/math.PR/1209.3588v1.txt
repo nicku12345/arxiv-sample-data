@@ -1,0 +1,1 @@
+In this paper we are looking for quantitative estimates for the convergene to equilibrium of non reversible Markov processes, especialy in short times. The models studied are simple enough to get an explicit expression of the L2 distance betweeen the semigroup and the invariant measure throught time and to compare it with the corresponding reversible cases.

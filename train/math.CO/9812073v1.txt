@@ -1,0 +1,1 @@
+We constructively prove that the partially ordered set of finite permutations ordered by deletion of entries contains an infinite antichain.

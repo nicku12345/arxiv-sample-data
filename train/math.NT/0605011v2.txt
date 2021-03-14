@@ -1,0 +1,1 @@
+Let p be a prime number and let K be a finite extension of the field \mathbb{Q}_p of p-adic numbers. Let N be a fully ramified, elementary abelian extension of K. Under a mild hypothesis on the extension N/K, we show that every element of N with valuation congruent mod [N:K] to the largest lower ramification number of N/K generates a normal basis for N over K.

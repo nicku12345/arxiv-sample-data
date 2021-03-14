@@ -1,0 +1,1 @@
+In this paper we explore the influence of the shape parameter in the gaussian function on error estimates and present a set of criteria for its optimal choice.

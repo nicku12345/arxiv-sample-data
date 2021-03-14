@@ -1,0 +1,1 @@
+We introduce and analyze a new cardinal characteristic of the continuum, the \emph{splitting number of the reals}, denoted \mathfrak{s}(\mathbb R). This number is connected to Efimov's problem, which asks whether every infinite compact Hausdorff space must contain either a non-trivial convergent sequence, or else a copy of \beta \mathbb N.

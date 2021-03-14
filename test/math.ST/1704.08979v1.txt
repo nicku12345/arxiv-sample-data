@@ -1,0 +1,1 @@
+In classification problems, the mode of the conditional probability distribution, i.e., the most probable category, is the Bayes classifier under zero-one or misclassification loss. Under any other cost structure, the mode fails to persist.

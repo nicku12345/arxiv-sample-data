@@ -1,0 +1,1 @@
+For a large class of convex domains in \bf C^n, it is shown that an L^p function on the boundary is CR if there are holomorphic extensions on almost all slices of D by complex lines parallel to the coordinate axes. As an application, a new operator limit for the Szeg\H{o} projection is obtained.

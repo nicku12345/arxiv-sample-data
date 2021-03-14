@@ -1,0 +1,1 @@
+We prove \ell^p\big(\mathbb Z^d\big) bounds, for p\in(1, \infty), of discrete maximal functions corresponding to averaging operators and truncated singular integrals of Radon type, and their applications to pointwise ergodic theory. Our new approach is based on a unified analysis of both types of operators, and also yields an extension to the vector-valued form of these results.

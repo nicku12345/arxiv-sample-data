@@ -1,0 +1,1 @@
+We study the surface arising from the diophantine equation m^3+(m+1)^3+...+(m+k-1)^3=l^2. It turns out that this is a K3 surface with Picard number 20. We stduy its aritmetic properties in detail. We construct elliptic fibrations on it, and we find a parametric solution to the original equation. Also, we determine the Hasse-Weil zeta function of the surface over Q.

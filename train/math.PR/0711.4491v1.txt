@@ -1,0 +1,1 @@
+We study lower limits for the ratio \frac{\bar{F^{*\tau}}(x)}{\bar F(x)} of tail distributions where  F^{*\tau} is a distribution of a sum of a random size \tau of i.i.d. random variables having a common distribution F, and a random variable \tau does not depend on summands.

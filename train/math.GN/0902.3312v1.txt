@@ -1,0 +1,1 @@
+It was proved by H. Whitney in 1933 that a Serre fibration of compact metric spaces admits a global section provided every fiber is homeomorphic to the unit interval [0,1]. Results of this paper extend Whitney theorem to the case when all fibers are homeomorphic to a given compact two-dimensional manifold.

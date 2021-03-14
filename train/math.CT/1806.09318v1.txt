@@ -1,0 +1,1 @@
+In the category of abelian groups, Pareigis constructed a Hopf ring whose comodules are differential graded abelian groups. We show that this Hopf ring can be obtained by combining grading and differential Hopf rings using semidirect product in fairly general symmetric monoidal additive categories.

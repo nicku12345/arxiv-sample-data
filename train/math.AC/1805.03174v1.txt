@@ -1,0 +1,1 @@
+Our aim is to introduce the tropical tensor product and investigate its properties. In particular we show its use for solving tropical matrix equations.

@@ -1,0 +1,1 @@
+This expository paper starts with a brief survey on the relation between partitions and surjections of sets, and then gives a quick introduction to the theories of incidence algebras, Segal groupoids and combinatorial species. The aim is to explain an objective construction, in terms of simplicial groupoids, of both the Faa di Bruno bialgebra and the plethystic bialgebra.

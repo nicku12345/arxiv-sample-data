@@ -1,0 +1,1 @@
+Virasoro constraints for orbifold Gromov-Witten theory are described. These constraints are applied to the degree zreo, genus zero orbifold Gromov-Witten potentials of the weighted projective stacks \mathbb{P}(1,N), \mathbb{P}(1,1,N) and \mathbb{P}(1,1,1,N) to obtain formulas of descendant cyclic Hurwitz-Hodge integrals.

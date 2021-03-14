@@ -1,0 +1,1 @@
+We construct an obstruction for the existence of embeddings of homology 3-sphere into homology S^3\times S^1 under some cohomological condition. The obstruction is defined as an element in the filtered version of the instanton Floer cohomology due to R.Fintushel-R.Stern. We make use of the \mathbb{Z}-fold covering space of homology S^3\times S^1 and the instantons on it.

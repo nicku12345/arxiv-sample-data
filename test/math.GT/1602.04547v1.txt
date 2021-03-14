@@ -1,0 +1,1 @@
+We calculate the twisted Reidemeister torsion of the complement of an iterated torus knot associated with a representation of its fundamental group to the complex special linear group of degree two. We also show that the twisted Reidemeister torsions associated with various representations appear in the asymptotic expansion of the colored Jones polynomial.

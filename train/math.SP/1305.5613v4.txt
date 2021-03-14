@@ -1,0 +1,1 @@
+For any n-dimensional compact Riemannian manifold (M,g), we construct a canonical t-family of isometric embeddings I_{t}: M->R^{q(t)}, with t>0 sufficiently small and q(t)>>t^{-n/2}. This is done by intrinsically perturbing the heat kernel embedding introduced in [BBG]. As t->0, asymptotic geometry of the embedded images is discussed.

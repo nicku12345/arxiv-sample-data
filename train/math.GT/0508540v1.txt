@@ -1,0 +1,1 @@
+In this paper we prove that a wild knot K which is the limit set of a Kleinian group acting conformally on the unit 3-sphere, with its standard metric, is homogeneous: given two points p, q\in{K} there exists a homeomorphism f of the sphere such that f(K)=K and f(p)=q. We also show that if the wild knot is a fibered knot then we can choose an f which preserves the fibers.

@@ -1,0 +1,1 @@
+Although real, normalized Gaussian wave packets minimize the product of position and momentum uncertainties, generic complex normalized Gaussian wave packets do not. We prove they minimize an alternative product of uncertainties that correspond to variables that are phase space rotations of position and momentum.

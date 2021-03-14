@@ -1,0 +1,1 @@
+We give the upper bound of differences of exponents for balanced 2-multiarrangements in terms of the cardinality of hyperplanes. Also, we give a shift isomorphism of 2-multiarrangements like Coxeter arrangements when the difference of exponents is maximum. As an application, a sufficient numerical and combinatorial condition for 3-arrangements to be free is given.

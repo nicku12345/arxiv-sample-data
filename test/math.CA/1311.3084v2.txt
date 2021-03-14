@@ -1,0 +1,1 @@
+We consider mapping properties of the iterated Stieltjes transform, establishing its new relations with the iterated Hilbert transform (a singular integral) on the half-axis and proving the corresponding convolution and Titchmarsh's type theorems. Moreover, the obtained convolution method is applied to solve a new class of singular integral equations.

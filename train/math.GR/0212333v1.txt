@@ -1,0 +1,1 @@
+In this Note we study the groups G satisfying condition (\mathcal{N},n), that is, every subset of G with n+1 elements contains a pair \{x,y\} such that the subgroup <x,y> is nilpotent.

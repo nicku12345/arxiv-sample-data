@@ -1,0 +1,1 @@
+In 1999, Fuchs and Schweigert proposed formulas of Verlinde type for moduli spaces of surface group representations in compact nonsimply connected Lie groups. In this paper, we will prove a symplectic version of their conjecture for surfaces with at most one boundary component. A key tool in our computations is Kostant's notion of a maximal torus in apposition.

@@ -1,0 +1,1 @@
+We formalize the notion of matrix coefficients for distributional vectors in a representation of a real reductive group, which consist of generalized functions on the group. As an application, we state and prove a Gelfand-Kazhdan criterion for a real reductive group in very general settings.

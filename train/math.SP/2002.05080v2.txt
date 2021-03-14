@@ -1,0 +1,1 @@
+Given a closed geodesic on a compact arithmetic hyperbolic surface, we show the existence of a sequence of Laplacian eigenfunctions whose integrals along the geodesic exhibit nontrivial growth. Via Waldspurger's formula we deduce a lower bound for central values of Rankin--Selberg L-functions of Maass forms times theta series associated to real quadratic fields.

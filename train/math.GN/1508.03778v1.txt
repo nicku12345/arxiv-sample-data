@@ -1,0 +1,1 @@
+It is shown that given a metric space X and a \sigma-finite positive regular Borel measure \mu on X, there exists a bounded continuous real-valued function on X that is one-to-one on the complement of a set of \mu measure zero.

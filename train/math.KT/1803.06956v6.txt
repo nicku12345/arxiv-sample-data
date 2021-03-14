@@ -1,0 +1,1 @@
+We show that a regular local ring is a filtered inductive limit of regular local rings, essentially of finite type over \bf Z. As an application the cohomological purity conjecture is reduced to the complete case.

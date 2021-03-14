@@ -1,0 +1,1 @@
+We prove that SAut(Fn), the unique subgroup of index two in the automorphism group of a free group of rank n, admits no non-trivial linear representation of degree d<n for any field of characteristic not equal to two.

@@ -1,0 +1,1 @@
+We compute two-term skein modules of framed oriented links in oriented 3-manifolds. They contain the self-writhe and total linking number invariants of framed oriented links in a universal way. The relations in a natural presentation of the skein module are interpreted as monodromies in the space of immersions from circles to the 3-manifold.

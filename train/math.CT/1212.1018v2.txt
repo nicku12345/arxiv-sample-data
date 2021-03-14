@@ -1,0 +1,1 @@
+Aguiar and Mahajan's bimonoids A in a duoidal category M are studied. Under certain assumptions on M, the Fundamental Theorem of Hopf Modules is shown to hold for A if and only if the unit of A determines an A-Galois extension. Our findings are applied to the particular examples of small groupoids and of Hopf algebroids over a commutative base algebra.

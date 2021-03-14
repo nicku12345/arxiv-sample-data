@@ -1,0 +1,1 @@
+Our main goal in this work is to further improve the mixed norm estimates due to Fournier, and also Algervik and Kolyada, to more general rearrangement invariant (r.i.) spaces. In particular we find the optimal domains and the optimal ranges for these embeddings between mixed norm spaces and r.i. spaces.

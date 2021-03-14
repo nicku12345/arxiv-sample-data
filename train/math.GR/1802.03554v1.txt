@@ -1,0 +1,1 @@
+In this note, we prove that the centralizer lattice {\mathfrak C}(G) of a group G cannot be written as a union of two proper intervals. In particular, it follows that {\mathfrak C}(G) has no breaking point. As an application, we show that the generalized quaternion 2-groups are not capable.

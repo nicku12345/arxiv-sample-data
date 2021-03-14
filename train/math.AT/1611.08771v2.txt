@@ -1,0 +1,1 @@
+The Goodwillie derivatives of the identity functor on pointed spaces form an operad in spectra. Adapting a definition of Behrens, we introduce mod 2 homology operations for algebras over this operad and prove these operations account for all the mod 2 homology of free algebras on suspension spectra of simply-connected spaces.

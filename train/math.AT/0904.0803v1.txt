@@ -1,0 +1,1 @@
+Let P_{k, n}^l be the space consisting of monic complex polynomials f(z) of degree k and such that the number of n-fold roots of f(z) is at most l. In this paper, we determine the integral homology groups of P_{k, n}^l.

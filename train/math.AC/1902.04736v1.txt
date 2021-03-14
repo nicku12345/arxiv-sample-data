@@ -1,0 +1,1 @@
+Let \mathbb{F}_{q^n} be the extension of the field \mathbb{F}_q of degree n, where q is power of prime p, i.e q=p^k, where k is a positive integer. In this paper, we provide sufficient condition for the existence of a primitive normal element \alpha\in\mathbb{F}_{q^n}  such that \alpha^2+\alpha+1 is also primitive normal element over \mathbb{F}_{q^n}.

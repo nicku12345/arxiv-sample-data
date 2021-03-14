@@ -1,0 +1,1 @@
+We construct an equivalence of categories from a strong categorical sl(2) action, following the work of Chuang-Rouquier. As an application, we give an explicit, natural equivalence between the derived categories of coherent sheaves on cotangent bundles to complementary Grassmannians.

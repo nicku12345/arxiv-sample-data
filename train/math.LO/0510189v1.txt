@@ -1,0 +1,1 @@
+For every partial combinatory algebra (pca) A and every partial endofunction on A, a pca A[f] is constructed such that in A[f], the function f is representable by an element; a universal property of the construction is formulated in terms of Longley's 2-category of pcas and decidable applicative morphisms.

@@ -1,0 +1,1 @@
+The problem of finding a generic star product on R^n is reduced to the computation of a skew-symmetric biderivation.

@@ -1,0 +1,1 @@
+Compressed sensing of sparse sources can be improved by incorporating prior knowledge of the source. In this paper we demonstrate a method for optimal selection of weights in weighted L_1 norm minimization for a noiseless reconstruction model, and show the improvements in compression that can be achieved.

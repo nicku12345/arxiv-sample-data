@@ -1,0 +1,1 @@
+In this paper, we study the non-self-dual extended Harper's model with a Liouville frequency. Based on the work of \cite{SY}, we show that the integrated density of states (IDS for short) of the model is \frac{1}{2}-H\ddot{\text{o}}lder continuous. As an application, we also obtain the Carleson homogeneity of the spectrum.

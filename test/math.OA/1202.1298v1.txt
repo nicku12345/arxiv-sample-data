@@ -1,0 +1,1 @@
+Guionnet et al. gave a construction of a II_1 factor associated to a subfactor planar algebra. In this paper we define an unshaded planar algebra. To any unshaded planar algebra P we associate a finite von Neumann algebra M_P. We prove that M_P is a II_1 factor that contains a generic maximal abelian subalgebra called the cup subalgebra.

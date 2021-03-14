@@ -1,0 +1,1 @@
+We give a sufficient condition for subelliptic estimates for the d-bar-Neumann operator on smoothly bounded, pseudoconvex domains in \mathbb{C}^n. This condition is a quantified version of McNeal's condition (\tilde{P}) for compactness of the d-bar-Neumann operator, and it extends Catlin's condition for subellipticity as it is less stringent.

@@ -1,0 +1,1 @@
+We study the time of existence of the solutions of the following Schr\"odinger equation i\psi_t = (-\Delta)^s \psi +f(|\psi|^2)\psi, x \in \mathbb S^d, or x\in\T^d where (-\Delta)^s stands for the spectrally defined fractional Laplacian with s>1/2 and f a smooth function. We prove an almost global existence result for almost all s>1/2.

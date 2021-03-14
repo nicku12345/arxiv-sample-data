@@ -1,0 +1,1 @@
+We construct a separately continuous function e:E\times K\to\{0,1\} on the product of a Baire space E and a zero-dimensional compact space K such that no restriction of e to any non-meager Borel set in E\times K is continuous. The function e provides a negative solution of Talagrand's problem in \cite{T}.

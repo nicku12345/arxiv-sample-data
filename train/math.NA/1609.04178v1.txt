@@ -1,0 +1,1 @@
+We review the currently available stability properties of the ENO reconstruction procedure, such as its monotonicity and non-oscillatory properties, the sign property, upper bounds on cell interface jumps and a total variation-type bound. We also outline how these properties can be applied to derive stability and convergence of high-order accurate schemes for conservation laws.

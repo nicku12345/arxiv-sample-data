@@ -1,0 +1,1 @@
+We study the structure of length four polynomial automorphisms of R[X,Y] when R is a UFD. The results from this study are used to prove that if \text{SL}_m(R[X_1,X_2,..., X_n]) = \text{E}_m(R[X_1,X_2,..., X_n]) for all n, m \ge 0 then all length four polynomial automorphisms of R[X,Y] that are conjugates are stably tame.

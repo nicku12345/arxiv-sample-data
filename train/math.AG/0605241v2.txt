@@ -1,0 +1,1 @@
+We give a presentation for the stack of rational curves with at most 1 node as the quotient by GL(3) of an open set in a 6-dimensional irreducible representation. We then use equivariant intersection theory to calculate the integral Chow ring of this stack.

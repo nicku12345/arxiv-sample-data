@@ -1,0 +1,1 @@
+Let X be a smooth projective complex curve, and let M be the moduli space of stable Higgs bundles on X (with genus g>1), with rank n and fixed determinant \xi, with n and deg(\xi) coprime. Let X' and \xi' be another such curve and line bundle, and M' the corresponding moduli space. We prove that if M and M' are isomorphic as algebraic varieties, then X and X' are isomorphic.

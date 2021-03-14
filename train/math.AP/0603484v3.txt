@@ -1,0 +1,1 @@
+For a two by two reaction-diffusion system on a bounded domain we give a simultaneous stability result for one coefficient and for the initial conditions. The key ingredient is a global Carleman-type estimate with a single observation acting on a subdomain.

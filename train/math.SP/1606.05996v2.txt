@@ -1,0 +1,1 @@
+In this paper, we study the numerical range of Jacobi operators and it is shown that under certain conditions, the boundary of the numerical range of these operators can be non-round only at the points where it touches the essential spectrum. It is further shown that these points cannot be the eigenvalue of the Jacobi operators.

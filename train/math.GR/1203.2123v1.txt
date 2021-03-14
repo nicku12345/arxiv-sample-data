@@ -1,0 +1,1 @@
+We show that for any n-ary group (G,f), the group Aut(G,f) can be embedded in Aut(\mathbb{Z}_{n-1}\ltimes G) and so we can obtain a class of interesting automorphisms of cyclic extensions.

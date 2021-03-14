@@ -1,0 +1,1 @@
+If E=\{e_i\} and F=\{f_i\} are two 1-unconditional basic sequences in L_1 with E r-concave and F p-convex, for some 1\le r<p\le 2, then the space of matrices \{a_{i,j}\} with norm   \|\{a_{i,j}\}\|_{E(F)}=\big\|\sum_k \|\sum_l a_{k,l}f_l\|e_k\big\| embeds into L_1. This generalizes a recent result of Prochno and Sch\"utt.

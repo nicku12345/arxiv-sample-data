@@ -1,0 +1,1 @@
+Omar Antol{\'\i}n Camarena pointed out a gap in the proofs in \cite{Brown15,BrownJordan} of a condition for the Phragmen--Brouwer Property not to hold; this note gives the correction in terms of a result on a pushout of groupoids, and some additional background.

@@ -1,0 +1,1 @@
+We give a constructive proof of a theorem of Naor and Neiman, (to appear, Revista Matematica Iberoamercana), which asserts that if (E,d) is a doubling metric space, there is an integer N > 0, that depends only on the metric doubling constant, such that for each exponent \alpha \in (1/2,1), we can find a bilipschitz mapping F = (E,d^{\alpha}) \to \R^N.

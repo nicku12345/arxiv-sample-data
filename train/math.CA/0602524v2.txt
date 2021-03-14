@@ -1,0 +1,1 @@
+We show that for any infinite set of unit vectors U in \ZR^2 the maximal operator defined by  H_Uf(x)=\sup_{u\in U}\bigg|\pv\int_{-\infty}^\infty \frac{f(x-tu)}{t}dt\bigg|,\quad x\in \ZR^2,  is not bounded in L^2(\ZR^2).

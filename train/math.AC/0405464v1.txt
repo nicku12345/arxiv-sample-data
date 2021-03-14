@@ -1,0 +1,1 @@
+We describe the possible restrictions of the cotangent bundle \Omega_{\PP^N} to an elliptic curve C \subset \PP^N. We apply this in positive characteristic to the computation of the Hilbert-Kunz function of a homogeneous R_+-primary ideal I \subset R in the graded section ring R = \bigoplus_{n \in \NN} \Gamma(C, \O(n)).

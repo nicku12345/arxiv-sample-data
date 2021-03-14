@@ -1,0 +1,1 @@
+In this article, we study the twisting procedure of orbifold cohomology. We introduce local system and construct twisted orbifold cohomology. Then, we generalize Vafa-Witten's notion of discrete torsion to general orbifold and examine its relation to local system. Finally, some examples are computed.

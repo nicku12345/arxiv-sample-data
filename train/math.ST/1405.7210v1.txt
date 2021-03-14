@@ -1,0 +1,1 @@
+We construct new tests of exponentiality based on Yanev-Chakraborty's characterization of exponential law. We calculate limiting distributions of new tests, local Bahadur efficiency for common alternatives and describe conditions of their local asymptotic optimality.

@@ -1,0 +1,1 @@
+We consider continuous structures which are obtained from finite dimensional Hilbert spaces over \mathbb{C} by adding some unitary operators. Quantum automata and quantum circuits are naturally interpretable in such structures. We consider appropriate algorithmic problems concerning continuous theories of natural classes of these structures.

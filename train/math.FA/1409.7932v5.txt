@@ -1,0 +1,1 @@
+The purpose of this paper is to generalize the classical Mazur's lemma from the classical convex analysis to the framework of locally L^0-convex modules. In this version an extra condition of countable concatenation is included. We provide a counterexample showing that this condition cannot be removed.

@@ -1,0 +1,1 @@
+We analyze the nested derivatives of a function \mathfrak{D}^{n}[f]\,(x) asymptotically, as n\rightarrow\infty, using a discrete version of the ray method. We give some examples showing the accuracy of our formulas.

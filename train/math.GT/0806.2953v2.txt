@@ -1,0 +1,1 @@
+We extend the concept of orbifold to that of branchfold, in order to allow any cone singularities with rational angles, and show why branchfolds naturally fit in the theory of branched coverings. Then, we obtain a geometric goodness theorem for branchfolds and apply it to prove that a conifold can be endowed with branchfold structure if and only if it has locally finite holonomy.

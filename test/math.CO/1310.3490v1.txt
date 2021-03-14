@@ -1,0 +1,1 @@
+The article considers the procedure of connection of graphs to the edges of a cyclic graph and its influence on the sandpile group of the graph thus obtained. A series of classes of graphs CH_n(a_1,...,a_n) is defined. Recurrent and non-recurrent formulas for calculating the sandpile groups of all graphs of classes CH_n (a_1, ..., a_n) are proposed.

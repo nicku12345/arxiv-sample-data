@@ -1,0 +1,1 @@
+We prove connective versions of results by Shulman [Shu10] and Dadarlat-Loring [DL94]. As a corollary, we see that two separable C^*-algebras of the form C_0(X) \otimes A, where X is a based, connected, finite CW-complex and A is a unital properly infinite algebra, are \bu-equivalent if and only if they are asymptotic matrix homotopy equivalent.

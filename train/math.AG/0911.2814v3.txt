@@ -1,0 +1,1 @@
+We compute explicitly the A-infinity structure on the Ext-algebra of the collection ({\mathcal O}_C, L), where L is a line bundle of degree 1 on an elliptic curve C. The answer involves higher derivatives of Eisenstein series.

@@ -1,0 +1,1 @@
+The main model studied in this paper is a lattice of nearest neighbors coupled pendula. For certain localized coupling we prove existence of energy transfer and estimate its speed.

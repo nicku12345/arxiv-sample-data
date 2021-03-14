@@ -1,0 +1,1 @@
+For any dimension d\geq 3 we construct C^{1}-open subsets of the space of C^{3} vector fields such that the flow associated to each vector field is Axiom A and exhibits a non-trivial attractor which mixes exponentially with respect to the unique SRB measure.

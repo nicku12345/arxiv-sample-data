@@ -1,0 +1,1 @@
+The aim of Part II is to explore the technique of invariance of tautological equations in the realm of Gromov--Witten theory. The main result is a proof of Invariance Theorem (Invariance Conjecture~1 in [14]), via the techniques from Gromov--Witten theory. It establishes some general inductive structure of the tautological rings, and provides a new tool to the study of this area.

@@ -1,0 +1,1 @@
+In this document we consider a way of localizing an MV-algebra. Given any prime filter F we find a local MV-algebra which has the same poset of prime filters as the poset of prime filters comparable to F.

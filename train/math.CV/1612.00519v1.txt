@@ -1,0 +1,1 @@
+Using the theory of quasiconformal mappings, we simplify the proof of the recent result by Taylor and Totik (see IMA Journal of Numerical Analysis 30 (2010) 462--486) on the behavior of the Lebesgue constants for interpolation points on a compact set in the complex plane.

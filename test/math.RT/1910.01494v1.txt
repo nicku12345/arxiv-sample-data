@@ -1,0 +1,1 @@
+We determine the derived representation type of Nakayama algebras and prove that a derived tame Nakayama algebra without simple projective module is gentle or derived equivalent to some skewed-gentle algebra, and as a consequence, we determine its singularity category.

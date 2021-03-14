@@ -1,0 +1,1 @@
+In the Nineties, Michel Herman conjectured the existence of a positive measure set of invariant tori at an elliptic diophatine critical point of a hamiltonian function. I construct a formalism for the UV-cutoff and prove a generalised KAM theorem which solves positively the Herman conjecture.

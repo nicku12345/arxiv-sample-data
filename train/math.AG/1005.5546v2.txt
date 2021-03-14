@@ -1,0 +1,1 @@
+In the mid 70's, Hartshorne conjectured that, for all n > 7, any rank 2 vector bundles on P^n is a direct sum of line bundles. This conjecture remains still open. In this paper, we construct indecomposable rank two vector bundles on a large class of Fano toric varieties. Unfortunately, this class does not contain P^n

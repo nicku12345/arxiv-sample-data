@@ -1,0 +1,1 @@
+We consider a quantum graph where the operator contains a potential. We show that this operator admits a heat kernel. Under some assumptions on the potential, this heat kernel admits an asymptotic expansion at t=0 with coefficients that depend on the potential in a universal way. These coefficients are spectral invariants, we compute the first few of them.

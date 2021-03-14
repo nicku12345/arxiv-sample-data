@@ -1,0 +1,1 @@
+Given a partial (resp. a global) action \alpha of a connected finite groupoid G on a ring A, we determine necessary and sufficient conditions for the partial (resp. global) skew groupoid ring A\star_{\alpha} G to be a separable extension of A.

@@ -1,0 +1,1 @@
+We prove that the \gamma-vector of the barycentric subdivision of a simplicial sphere is the f-vector of a balanced simplicial complex. The combinatorial basis for this work is the study of certain refinements of Eulerian numbers used by Brenti and Welker to describe the h-vector of the barycentric subdivision of a boolean complex.

@@ -1,0 +1,1 @@
+Let G be a finitely generated linear group over a field of characteristic 0. Suppose that every solvable subgroup of G is polycyclic. Then the claim is made that any solvable subgroup of G is separable. This is proven for G=SL_n(Z). However, the proof of the main theorem in section 4 is incomplete.

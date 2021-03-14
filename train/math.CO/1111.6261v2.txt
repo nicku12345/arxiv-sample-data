@@ -1,0 +1,1 @@
+We prove that if G is an (n,d,lambda)-graph (a d-regular graph on n vertices, all of whose non-trivial eigenvalues are at most lambda) and the following conditions are satisfied:   1. d/lambda >= (log n)^{1+epsilon} for some constant epsilon>0; 2.log d * lod (d/lambda) >> log n, then the number of Hamilton cycles in G is n!(d/n)^n(1+o(1))^n.

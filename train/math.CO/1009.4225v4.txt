@@ -1,0 +1,1 @@
+We prove the following conjecture of Zeilberger. Denoting by C_n the Catalan number, define inductively A_n by (-1)^{n-1}A_n=C_n+\sum_{j=1}^{n-1} (-1)^{j} \binom{2n-1}{2j-1} A_j \,C_{n-j} and a_n=2A_n/C_n. Then a_n (hence A_n) is a positive integer.

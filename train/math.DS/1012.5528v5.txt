@@ -1,0 +1,1 @@
+We consider the interconnections of arbitrary topology of a finite number of ISS hybrid systems and study whether the ISS property is maintained for the overall system. We show that if the small gain condition is satisfied, then the whole network is ISS and show how a non-smooth ISS-Lyapunov function can be explicitly constructed in this case.

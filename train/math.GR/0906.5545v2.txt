@@ -1,0 +1,1 @@
+This paper is a guide for the pure mathematician who would like to know more about cryptography based on group theory. The paper gives a brief overview of the subject, and provides pointers to good textbooks, key research papers and recent survey papers in the area.

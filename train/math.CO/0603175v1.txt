@@ -1,0 +1,1 @@
+In this note, we identify a natural class of subsets of affine Weyl groups whose Poincare series are rational functions. This class includes the sets of minimal coset representatives of reflection subgroups. As an application, we construct a generalization of the classical length-descent generating function, and prove its rationality.

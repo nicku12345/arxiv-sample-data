@@ -1,0 +1,1 @@
+We consider Ornstein-Uhlenbeck operators perturbed by a radial potential. Under weak assumptions we prove a spectral mapping theorem for the generated semigroup. The proof relies on a perturbative construction of the resolvent, based on angular separation, and the Gearhart-Pr\"u{\ss} Theorem.

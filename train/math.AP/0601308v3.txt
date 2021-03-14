@@ -1,0 +1,1 @@
+We construct solutions to nonlinear wave equations that are singular along a prescribed noncharacteristic hypersurface which is the graph of a function satisfying not the Eikonal but another partial differential equation of the first order. The method of Fuchsian reduction is employed.

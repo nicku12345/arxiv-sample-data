@@ -1,0 +1,1 @@
+In the paper the relation of homology groups of the direct limit of cochain complexes and the inverse limit of homology groups of corresponding chain complexes is studied. As a corollary, the tautness property of a homology theory is obtained. Moreover, for the defined exact homology theory the continuous property is obtained on the category of compact pairs.

@@ -1,0 +1,1 @@
+The eigenfunctions e^{i \lambda x} of the Laplacian on a flat torus have uniformly bounded L^p norms. In this article, we prove that for every other quantum integrable Laplacian, the L^p norms of the joint eigenfunctions must blow up at a rate \gg \lambda^{p-2/4p - \epsilon} for every \epsilon >0 as \lambda \to \infty.

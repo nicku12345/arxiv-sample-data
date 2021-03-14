@@ -1,0 +1,1 @@
+In this paper, we prove that the period of the continued fraction expansion of {\sqrt {2^{n}+1}} tends to infinity when n tends to infinity through odd positive integers.

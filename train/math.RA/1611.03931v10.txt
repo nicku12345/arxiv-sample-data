@@ -1,0 +1,1 @@
+Let (K, v) be a Henselian discrete valued field with residue field \widehat K of characteristic p, and Brd_{p}(K) be the Brauer p-dimension of K. This paper shows that Brd_{p}(K) \ge n, if [\widehat K\colon \widehat K ^{p}] = p ^{n}, for some n \in \mathbb{N}. It proves that Brd_{p}(K) = \infty  if and only if [\widehat K\colon \widehat K ^{p}] = \infty .

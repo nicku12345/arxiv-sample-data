@@ -1,0 +1,1 @@
+For a prime number p and a free profinite group S on the basis X, let S^{(n,p)}, n=1,2,\ldots be the lower p-central filtration of S. For p>n, we give a combinatorial description of H^2(S/S^{(n,p)},\mathbb{Z}/p) in terms of the Shuffle algebra on X.

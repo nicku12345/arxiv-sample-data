@@ -1,0 +1,1 @@
+Let G be a possibly disconnected reductive group over a finite field with Frobenius map F. The main result of this paper is that the characteristic functions af "admissible complexes" A on G such that F^*A is isomorphic to A form a basis of the space of functions on G^F that are constant on G^{0F}-conjugacy classes.

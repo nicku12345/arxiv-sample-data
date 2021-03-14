@@ -1,0 +1,1 @@
+We describe methods to evaluate elementary logarithmic integrals. The integrand is the product of a rational function and a linear polynomial in ln x.

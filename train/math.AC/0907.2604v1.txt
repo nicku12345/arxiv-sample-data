@@ -1,0 +1,1 @@
+In this article we prove that the Buchsbaum-Rim multiplicity e(F/N) of a parameter module N in a free module F=A^r is bounded above by the colength \ell_A(F/N). Moreover, we prove that once the equality \ell_A(F/N)=e(F/N) holds true for some parameter module N in F, then the base ring A is Cohen-Macaulay.

@@ -1,0 +1,1 @@
+New nilpotent series are produced that refine the usual nilpotent series of a group. These refinements can be arbitrarily longer than the series they refine and therefore clarify in greater detail the structure of automorphisms of nilpotent groups. Examples, properties, and an application to group-isomorphism testing are provided.

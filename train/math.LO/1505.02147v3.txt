@@ -1,0 +1,1 @@
+Given an o-minimal structure {\mathcal M} with a group operation, we show that for a properly convex subset U, the theory of the expanded structure {\mathcal M}'=({\mathcal M},U) has definable Skolem functions precisely when {\mathcal M}' is valuational. As a corollary, we get an elementary proof that the theory of any such {\mathcal M}' does not satisfy definable choice.

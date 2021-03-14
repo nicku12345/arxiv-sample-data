@@ -1,0 +1,1 @@
+Silverman proved a height inequality for jointly regular family of rational maps and the author improved it for jointly regular pairs. In this paper, we provide the same improvement for jointly regular family; if S is a jointly regular set of rational maps, then   \sum_{f\in S} \dfrac{1}{\deg f} h\bigl(f(P) \bigr) > (1+ \dfrac{1}{r}) f(P) - C   where r = \max_{f\in S} r(f).

@@ -1,0 +1,1 @@
+We investigate the homotopy type of the space of tuples of polynomials inducing base-point preserving algebraic maps from the circle S1 to a toric variety X{\Sigma}. In particular, we prove a homotopy stability result for this space by combining the Vassiliev spectral sequence and the scanning map.

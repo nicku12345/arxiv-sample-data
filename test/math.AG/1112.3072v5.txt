@@ -1,0 +1,1 @@
+We define the 2-groupoid of descent data assigned to a cosimplicial 2-groupoid and present it as the homotopy limit of the cosimplicial space gotten after applying the 2-nerve in each cosimplicial degree. This can be applied also to the case of n-groupoids thus providing an analogous presentation of "descent data" in higher dimensions.

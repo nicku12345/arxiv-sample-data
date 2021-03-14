@@ -1,0 +1,1 @@
+We classify Morita equivalence classes of indecomposable self-injective cellular algebras which have polynomial growth representation type, assuming that the base field has an odd characteristic. This assumption on the characteristic is for the cellularity to be a Morita invariant property.

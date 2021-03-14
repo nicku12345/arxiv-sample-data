@@ -1,0 +1,1 @@
+This article gives an elementary and formal 2-categorical construction of a bicategory of right fractions analogous to anafunctors, starting from a 2-category equipped with a family of covering maps that are fully faithful and co-fully faithful.

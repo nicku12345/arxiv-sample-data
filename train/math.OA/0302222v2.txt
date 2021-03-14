@@ -1,0 +1,1 @@
+Z.-J. Ruan has shown that several amenability conditions are all equivalent in the case of discrete Kac algebras. In this paper, we extend this work to the case of discrete quantum groups. That is, we show that a discrete quantum group, where we do not assume its unimodularity, has an invariant mean if and only if it is strongly Voiculescu amenable.

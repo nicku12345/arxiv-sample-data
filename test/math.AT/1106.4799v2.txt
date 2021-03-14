@@ -1,0 +1,1 @@
+We construct cup and cap products in intersection (co)homology with field coefficients. The existence of the cap product allows us to give a new proof of Poincare duality in intersection (co)homology which is similar in spirit to the usual proof for ordinary (co)homology of manifolds.

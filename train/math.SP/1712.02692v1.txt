@@ -1,0 +1,1 @@
+We prove exponential decay of energy for solutions of the damped wave equation on compact hyperbolic surfaces with regular initial data as long as the damping is nontrivial. The proof is based on a similar strategy as in Dyatlov-Jin and in particular, uses the fractal uncertainty principle proved in Bourgain-Dyatlov.

@@ -1,0 +1,1 @@
+We prove a conjecture of Viana which states that Lyapunov exponents vary continuously when restricted to GL(2,\mathbb{R})-valued cocycles over a subshift of finite type which admit invariant holonomies that depend continuously on the cocycle.

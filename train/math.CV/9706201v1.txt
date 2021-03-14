@@ -1,0 +1,1 @@
+We prove necessary and sufficient conditions for a system \dot z_i=z_ip_i(z) (p_i a polynomial) to have only entire analytic functions as solutions.

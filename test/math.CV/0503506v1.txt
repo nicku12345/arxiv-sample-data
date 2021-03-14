@@ -1,0 +1,1 @@
+This note is a comment on a recent paper by J. J. Kohn. We give an example of a second order partial differential operator, expressed as a sum of squares of complex vector fields satisfying the bracket condition, that is not hypoelliptic.

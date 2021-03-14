@@ -1,0 +1,1 @@
+We want to give a construction as simple as possible of a Borel subset of a product of two Polish spaces. This introduces the notion of potential Wadge class. Among other things, we study the non-potentially closed sets, by proving Hurewicz-like results. This leads to partial uniformization theorems, on big sets, in the sense of cardinality or Baire category.

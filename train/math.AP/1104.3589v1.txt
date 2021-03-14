@@ -1,0 +1,1 @@
+It is known that the three dimensional Navier-Stokes system for an incompressible fluid in the whole space has a one parameter family of explicit stationary solutions, which are axisymmetric and homogeneous of degree -1. We show that these solutions are asymptotically stable under any L^2-perturbation.

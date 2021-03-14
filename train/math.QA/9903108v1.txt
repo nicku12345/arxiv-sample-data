@@ -1,0 +1,1 @@
+A weight system is defined from the (multivariable) Conway potential function. We also show that it can be calculated recursively by using five axioms.

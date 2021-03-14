@@ -1,0 +1,1 @@
+We extend an approach of Beliakova for computing knot Floer homology and implement it in a publicly available computer program. We review the main programming and optimization methods used. Our program is then used to check that the Floer homology of a prime non-alternating knot with less than 12 crossings has no torsion.

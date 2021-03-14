@@ -1,0 +1,1 @@
+Let \Lambda be a lattice in an n-dimensional Euclidean space E and let \Lambda' be a Minkowskian sublattice of \Lambda, that is, a sublattice having a basis made of representatives for the Minkowski successive minima of \Lambda. We extend the classification of possible \Z/d\Z-codes of the quotients \Lambda/\Lambda' to dimension~9, where d\Z is the annihilator of \Lambda/\Lambda'.

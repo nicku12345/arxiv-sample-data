@@ -1,0 +1,1 @@
+In this paper we mainly construct bicrossproduct for finite-dimensional monoidal Hom-Hopf algebra (H,\alpha), generalizing the Majid's bicrossproduct. Naturally the Hom-type bicrossproduct leads to Drinfel'd double (H^{op}\bowtie H^{\ast}, \alpha \otimes (\alpha^{-1})^\ast) with a quasitriangular structure R satisfying the quantum Hom-Yang-Baxter equations.

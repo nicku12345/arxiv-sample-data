@@ -1,0 +1,1 @@
+There exists a canonical functor from the category of fibrant objects of a model category modulo cylinder homotopy to its homotopy category. We show that this functor is faithful under certain conditions, but not in general.

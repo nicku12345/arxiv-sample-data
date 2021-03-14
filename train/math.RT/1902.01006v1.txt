@@ -1,0 +1,1 @@
+Let h be a regular semisimple element in a complex simple Lie algebra g. Let t be an indeterminate. We consider the "variety" of Iwahori subalgebras of g tensored with power series in t which contain t times h. This variety admits a free action of a free abelian group of rank equal to the rank of g. We describe a fundamental domain for this action.

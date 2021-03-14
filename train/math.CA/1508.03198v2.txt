@@ -1,0 +1,1 @@
+We define fractal interpolation on unbounded domains for a certain class of topological spaces and construct local fractal functions. In addition, we derive some properties of these local fractal functions, consider their tensor products, and give conditions for local fractal functions on unbounded domains to be elements of Bochner-Lebesgue spaces.

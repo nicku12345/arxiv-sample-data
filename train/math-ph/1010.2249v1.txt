@@ -1,0 +1,1 @@
+The Clebsch--Gordan coefficients of the Kronecker products of the irreducible representations of the Quaternion Group Q8, of the Generalized Quaternion Groups Q16 and Q32, and of the factor group (Q32 X Q32)/{(1,1),(-1,-1)} are computed as eigenvectors of a well-known matrix of triple-products of the irreducible representations.

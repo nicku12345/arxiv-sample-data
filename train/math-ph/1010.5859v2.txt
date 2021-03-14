@@ -1,0 +1,1 @@
+We show that there is a sequence of operations on the positively graded part of a differential graded algebra making it into an L-infinity algebra. The formulas for the higher brackets involve Bernoulli numbers. The construction generalizes the derived bracket for Poisson manifolds, and the Lie 2-algebra associated to a Courant algebroid constructed by Roytenberg and Weinstein.

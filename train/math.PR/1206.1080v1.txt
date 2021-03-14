@@ -1,0 +1,1 @@
+We consider a rectangular grid induced by the south-west records from the planar Poisson point process in R^2_+. A random symmetry property of the matrix whose entries are the areas of tiles of the grid implies cute multivariate distributional identities for certain rational functions of independent exponential and uniform random variables.

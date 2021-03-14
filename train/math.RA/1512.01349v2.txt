@@ -1,0 +1,1 @@
+In this paper we show that a split central simple algebra with quadratic pair which decomposes into a tensor product of quaternion algebras with involution and a quaternion algebra with quadratic pair is adjoint to a quadratic Pfister form. This result is new in characteristic two, otherwise it is equivalent to the Pfister Factor Conjecture proven in [3].

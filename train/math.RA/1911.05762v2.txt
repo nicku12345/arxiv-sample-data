@@ -1,0 +1,1 @@
+Let \alpha  be a p \times q interval matrix with p \geq q and with the endpoints of all its entries in the set of the rational numbers. We prove that, if \alpha  contains a rank-r real matrix with r \in \{2, q-2,q-1,q\}, then it contains a rank-r rational matrix.

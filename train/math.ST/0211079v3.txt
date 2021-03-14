@@ -1,0 +1,1 @@
+We construct a density estimator and an estimator of the distribution function in the uniform deconvolution model. The estimators are based on inversion formulas and kernel estimators of the density of the observations and its derivative. Asymptotic normality and the asymptotic biases are derived.

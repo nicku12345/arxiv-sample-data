@@ -1,0 +1,1 @@
+For a nonsingular matrix A, we propose the form Tr(^t\!A A^{-1}), the trace of the product of its transpose and inverse, as a new invariant under congruence of nonsingular matrices.

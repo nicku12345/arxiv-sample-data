@@ -1,0 +1,1 @@
+Following the previous work, we determine exactly the highest weights for which a tensor product of two induced modules is a tilting module, for the algebraic group SL_2 over an algebraically closed field of positive characteristic.

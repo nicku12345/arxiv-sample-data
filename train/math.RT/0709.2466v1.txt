@@ -1,0 +1,1 @@
+A strengthened form of Schur's triangularization theorem is given for quaternion matrices with real spectrum (for complex matrices it was given by Littlewood). Littlewood's algorithm for reducing a complex matrix to a canonical form under unitary similarity is extended to quaternion matrices whose eigenvalues have geometric multiplicity 1.

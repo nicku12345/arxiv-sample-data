@@ -1,0 +1,1 @@
+Let B(\Lambda_0) be the level 1 highest weight crystal of the quantum affine algebra U_q(A_n^{(1)}). We construct an explicit crystal isomorphism between the geometric realization \mathbb{B}(\Lambda_0) of B(\Lambda_0) via quiver varieties and the path realization {\mathcal P}^{\rm ad}(\Lambda_0) of B(\Lambda_0) arising from the adjoint crystal \adjoint.

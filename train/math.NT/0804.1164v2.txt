@@ -1,0 +1,1 @@
+We use the p-adic local Langlands correspondence for GL_2(Q_p) to explicitly compute the reduction modulo p of crystalline representations of small slope, and give applications to modular forms.

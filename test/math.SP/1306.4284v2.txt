@@ -1,0 +1,1 @@
+We prove for the square Fibonacci Hamiltonian that the density of states measure is absolutely continuous for almost all pairs of small coupling constants. This is obtained from a new result we establish about the absolute continuity of convolutions of measures arising in hyperbolic dynamics with exact-dimensional measures.

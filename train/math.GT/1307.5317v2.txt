@@ -1,0 +1,1 @@
+In this paper, we use Heegaard Floer homology to study reducible surgeries. In particular, suppose K is a non-cable knot in the three-sphere with an L-space surgery. If p-surgery on K is reducible, we show that p equals 2g(K)-1. This implies that any knot with an L-space surgery has at most one reducible surgery, a fact that we show additionally for any knot of genus at most two.

@@ -1,0 +1,1 @@
+We give an elementary construction of the tangent-obstruction theory of the deformations of the pair (X,L) with X a reduced local complete intersection scheme and L a line bundle on X. This generalizes the classical deformation theory of pairs in case X is smooth. A criteria for sections of L to extend is also given.

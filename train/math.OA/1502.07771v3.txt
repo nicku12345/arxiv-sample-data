@@ -1,0 +1,1 @@
+We interpret several constructions with C*-algebras as colimits in the bicategory of correspondences. This includes crossed products for actions of groups and crossed modules, Cuntz-Pimsner algebras of proper product systems, direct sums and inductive limits, and certain amalgamated free products.

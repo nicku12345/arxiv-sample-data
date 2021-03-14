@@ -1,0 +1,1 @@
+We simplify the usual statement of the Torelli theorem for complex Enriques surfaces, by means of a lattice-theoretic trick. This allows easy proofs of several known results, which previously required intricate arithmetic arguments. The main new result is that the moduli space has contractible universal cover.

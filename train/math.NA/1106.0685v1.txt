@@ -1,0 +1,1 @@
+In this paper, we compose a computational algorithm for the determinant and the inverse of the n x n cyclic nonadiagonal matrix. The algorithm is suited for implementation using computer algebra systems (CAS) such as Mathematica and Maple.

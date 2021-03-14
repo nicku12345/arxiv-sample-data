@@ -1,0 +1,1 @@
+We describe a simple algorithm for computing the canonical basis of any finite-dimensional U_{q}(sp_{2n})-module.

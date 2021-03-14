@@ -1,0 +1,1 @@
+We apply Dijkgraaf-Witten invariant to establish a connection between Alexander polynomial and Seifert fibred surgery, showing that, if the k/\ell surgery along a knot K results in a small Seifert 3-manifold S^2(a_1/b_1,a_2/b_2,a_3/b_3), then constraints on k,a_1,a_2,a_3 can be read off from the Alexander polynomial of K.

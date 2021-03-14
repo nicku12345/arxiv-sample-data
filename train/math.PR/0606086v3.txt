@@ -1,0 +1,1 @@
+We establish a general formula for the Laplace transform of the hitting times of a Gaussian process. Some consequences are derived, and particular cases like the fractional Brownian motion are discussed.

@@ -1,0 +1,1 @@
+We show that the zeros of the random power series with i.i.d. real Gaussian coefficients form a Pfaffian point process. We further show that the product moments for absolute values and signatures of the power series can also be expressed by Pfaffians.

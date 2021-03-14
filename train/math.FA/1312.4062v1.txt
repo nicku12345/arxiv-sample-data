@@ -1,0 +1,1 @@
+If f\in \{f\in L^p(\mathbb{R}): f(x)=\int_{-\pi}^{\pi}e^{ix\xi}d\beta(\xi), \beta\in B.V.([-\pi,\pi]) \}, then f is determined by its samples on the integers by taking an appropriate limit. Specifically, \| f - L_{\phi_\alpha}f \|_{L^p(\mathbb{R})}\to 0 as \alpha\to\infty provided that \{\phi_\alpha: \alpha\in A\} is what we call a spline-like family of cardinal interpolators.

@@ -1,0 +1,1 @@
+We discuss computability and computational complexity of conformal mappings and their boundary extensions. As applications, we review the state of the art regarding computability and complexity of Julia sets, their invariant measures and external rays impressions.

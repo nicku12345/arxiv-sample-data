@@ -1,0 +1,1 @@
+This paper proves that for every convex body in R^n there exist 5n-4 Minkowski symmetrizations, which transform the body into an approximate Euclidean ball. This result complements the sharp c n log n upper estimate by J. Bourgain, J. Lindenstrauss and V.D. Milman, of the number of random Minkowski symmetrizations sufficient for approaching an approximate Euclidean ball.

@@ -1,0 +1,1 @@
+We previously showed that the inverse limit of standard-graded polynomial rings with perfect coefficient field is a polynomial ring, in an uncountable number of variables. In this paper, we show that the same result holds with arbitrary coefficient field. We also prove an analogous result for ultraproducts of polynomial rings.

@@ -1,0 +1,1 @@
+Let P^V_t, t\ge0, be the Schrodinger semigroup associated to a potential V and Markov semigroup P_t, t\ge0, on C(X). Existence is established of a left eigenvector and right eigenvector corresponding to the spectral radius e^{\lambda_0t} of P^V_t, simultaneously for all t\ge0. This is derived with no compactness assumption on the semigroup operators.

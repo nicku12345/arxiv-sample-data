@@ -1,0 +1,1 @@
+We prove uniform L^p bounds for multilinear operators which are given by multipliers whose symbols are singular on a one dimensional subspace. The novelty is that these bounds are uniform in the choice of the subspace.

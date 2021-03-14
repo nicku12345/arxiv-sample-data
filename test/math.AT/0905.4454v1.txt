@@ -1,0 +1,1 @@
+We show that coloring properties of a simplicial complex K are reflected by splitting properties of a bundle over the associated Davis-Januszkiewicz space whose Chern classes are given by the elementary symmetric polynomials in the generators of the Stanley-Reisner algebra of K.

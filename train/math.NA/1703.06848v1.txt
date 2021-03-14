@@ -1,0 +1,1 @@
+A new class of Hermite methods for solving nonlinear conservation laws is presented. While preserving the high order spatial accuracy for smooth solutions in the existing Hermite methods, the new methods come with better stability properties. Artificial viscosity in the form of the entropy viscosity method is added to capture shocks.

@@ -1,0 +1,1 @@
+This paper studies a time optimal control problem with control constraints of the rectangular type for the linear multi-input time-varying ordinary differential equations. The aims of this study are to establish certain necessary and sufficient conditions for the optimal time and time optimal control, and to build up an algorithm for the optimal time and time optimal control.

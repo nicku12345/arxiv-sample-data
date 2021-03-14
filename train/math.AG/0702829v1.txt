@@ -1,0 +1,1 @@
+A subvariety of a complex projective space has a well-known dual variety, which is the set of its tangent hyperplanes. The purpose of this paper is to generalise this notion for a subvariety of a quite general partial flag variety. A similar biduality theorem is proved, and the dual varieties of Schubert varieties are described.

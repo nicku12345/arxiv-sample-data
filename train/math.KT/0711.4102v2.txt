@@ -1,0 +1,1 @@
+We complete the calculation of the twisted cyclic homology of the quantised coordinate ring of SL(2) that we began in math.QA/0405249. In particular, a nontrivial cyclic 3-cocycle is constructed which also has a nontrivial class in Hochschild cohomology and thus should be viewed as a noncommutative geometry analogue of a volume form.

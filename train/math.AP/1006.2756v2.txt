@@ -1,0 +1,1 @@
+We study nonnegative classical solutions u of the polyharmonic inequality -\Delta^m u > 0 in a punctured neighborhood of the origin in R^n. We give necessary and sufficient conditions on integers n\ge 2 and m\ge 1 such that these solutions u satisfy a pointwise a priori bound as x\to 0.

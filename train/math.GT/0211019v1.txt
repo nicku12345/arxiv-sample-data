@@ -1,0 +1,1 @@
+A surface in the 4-sphere is trivially embedded, if it bounds a 3-dimensional handle body in the 4-sphere. For a surface trivially embedded in the 4-sphere, a diffeomorphism over this surface is extensible if and only if this preserves the Rokhlin quadratic form of this embedded surface.

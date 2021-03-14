@@ -1,0 +1,1 @@
+We characterize the curves in  P^3 which are minimal in their biliaison class. Such curves are exactly the curves which do no admit an elementary descending biliaison. As a consequence we have that every curve in P^3 can be obtained from a minimal one by means of a finite sequence of ascending elementary biliaisons.

@@ -1,0 +1,1 @@
+We show that given a separable cocontinuous monad on a stable derivator, the levelwise Eilenberg-Moore categories of modules glue together to a stable derivator. As an application, we give examples of derivators that satisfy all the axioms for stability except the strongness one.

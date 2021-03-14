@@ -1,0 +1,1 @@
+We give generators and relations for the planar algebras corresponding to ADE subfactors. We also give a basis and an algorithm to express an arbitrary diagram as a linear combination of these basis diagrams.

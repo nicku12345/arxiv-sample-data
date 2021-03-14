@@ -1,0 +1,1 @@
+We prove that if \pi is a recursive set of primes, then pointlike sets are decidable for the pseudovariety of semigroups whose subgroups are \pi-groups. In particular, when \pi is the empty set, we obtain Henckell's decidability of aperiodic pointlikes. Our proof, restricted to the case of aperiodic semigroups, is simpler than the original proof.

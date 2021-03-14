@@ -1,0 +1,1 @@
+Polya Enumeration Theorem is one of the most useful tools dealing with the enumeration of patterns that are symmetric in some ways. What follows is a procedure for obtaining the results of Polya Theorem directly, bypassing the usual preliminaries.

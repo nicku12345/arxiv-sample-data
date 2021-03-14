@@ -1,0 +1,1 @@
+We consider a random walk on integers where at the first visits to a site the walker gets a positive drift, but where after a certain number of visits the walker gets a negative drift. We prove that the walker is almost surely transient to the left with positive speed.

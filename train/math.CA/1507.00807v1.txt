@@ -1,0 +1,1 @@
+A Hardy-Littlewood integral inequality on finite intervals with a concave weight is established. Given a function f on an interval [a,b], it is shown that the square of the weighted L^2 norm of its derivative f' is bounded by the product of the weighted L^2 norm of f and that of the second derivative f''.

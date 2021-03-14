@@ -1,0 +1,1 @@
+In this note we show that for any given controllable pair (A,B) and any c> 1, a gain matrix K can be chosen so that the transition matrix of the system x' = (A+BK)x decays at the exponential rate exp(-ct) and the overshoot of the transition matrix can be bounded by Mc^L for some M and L that are independent of the choice of c.

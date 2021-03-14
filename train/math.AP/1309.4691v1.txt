@@ -1,0 +1,1 @@
+We study the existence of solutions for a class of nonlinear Schr\"odinger equations involving a magnetic field with mixed Dirichlet-Neumann boundary conditions. We use Lyusternik-Shnirelman category and the Morse theory to estimate the number of nontrivial solutions in terms of the topology of the part of the boundary where the Neumann condition is prescribed.

@@ -1,0 +1,1 @@
+The main result of this paper is the following: let d be a natural number >= 3; the line bundle O(1,...,1) on the product of d copies of the projective line P^1 satisfies Property N_p of Green-Lazarsfeld if and only if p <= 3.

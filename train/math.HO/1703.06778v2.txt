@@ -1,0 +1,1 @@
+We present a variety of prime-generating constructions that are based on sums of primes. The constructions come in all shapes and sizes, varying in the number of dimensions and number of generated primes. Our best result is a construction that produces 6 new primes for every starting prime.

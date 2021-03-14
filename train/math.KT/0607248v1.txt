@@ -1,0 +1,1 @@
+We define cyclic cohomology of corings over not necessarily commutative algebras. We observe that the key fact which allows us to define this complex is that enveloping algebra of an algebra is a para Hopf algebroid. This observation enables us to define Hopf cyclic cohomology of corings on which para Hopf algebroids act.

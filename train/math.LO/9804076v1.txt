@@ -1,0 +1,1 @@
+Can a computer which runs for time \omega^2 compute more than one which runs for time \omega? No. Not, at least, for the infinite computer we describe. Our computer gets more powerful when the set of its steps gets larger. We prove that they theory of second order arithmetic cannot be decided by computers running to countable time.

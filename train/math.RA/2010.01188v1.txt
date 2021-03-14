@@ -1,0 +1,1 @@
+We show that the set of all commuting probabilities in finite rings is a subset of the set of all commuting probabilities in finite nilpotent groups of class \le2. We believe that these two sets are equal; we prove they are equal, when restricted to groups and rings with odd number of elements.

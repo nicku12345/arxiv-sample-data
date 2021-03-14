@@ -1,0 +1,1 @@
+Starting from Doi-Onsager equation for the liquid crystal, we first derive the Q-tensor equation by the Bingham closure. Then we derive the Ericksen-Leslie equation from the Q-tensor equation by taking the small Deborah number limit.

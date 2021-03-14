@@ -1,0 +1,1 @@
+The depth of tensor product of modules over a Gorenstein local ring is studied. For finitely generated modules M and N over a Gorenstein local ring R, under some assumptions on the vanishing of finite number of Tate and relative homology modules, the depth(M\otimes N) is determined in terms of the depth(M) and depth(N).

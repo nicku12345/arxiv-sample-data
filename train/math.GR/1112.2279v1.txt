@@ -1,0 +1,1 @@
+To date almost all verifications of Oliver's p-group conjecture have proceeded by verifying a stronger conjecture about weakly closed quadratic subgroups. We construct a group of order 3^n for n = 49 which refutes the weakly closed conjecture but satisfies Oliver's conjecture.

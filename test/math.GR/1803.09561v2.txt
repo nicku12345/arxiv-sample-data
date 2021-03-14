@@ -1,0 +1,1 @@
+Fix a prime p, and let R be any subring of the complex numbers that is either integrally closed or contains a primitive pth root of 1. For each n\geq p-1 we compute the Yagita invariant at the prime p for the symplectic group Sp(2n,R).

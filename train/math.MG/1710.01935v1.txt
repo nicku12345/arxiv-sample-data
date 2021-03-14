@@ -1,0 +1,1 @@
+We prove some results concerning the boundary of a convex set in \H^n. This includes the convergence of curvature measures under Hausdorff convergence of the sets, the study of normal points, and, for convex surfaces, a generalized Gauss equation and some natural characterizations of the regular part of the Gaussian curvature measure.

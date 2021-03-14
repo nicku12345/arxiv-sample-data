@@ -1,0 +1,1 @@
+We show that for any set of reals X there is a subset Y such X and Y have same Lebesgue outer measure and the distance between any two distinct points in Y is irrational.

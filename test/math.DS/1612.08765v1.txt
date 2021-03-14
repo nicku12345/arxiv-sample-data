@@ -1,0 +1,1 @@
+Let A\subseteq SL_n(\mathbb{R}) group of diagonal matrices with positive diagonal, let {\rm ST}_n\subseteq X_n:=SL_n(\mathbb{R})/SL_n(\mathbb{Z}) be the set of stable lattices, and let {\rm WR}_n\subseteq X_n be the set of well-rounded lattices. We prove that any A-orbit in X_n intersects both {\rm ST}_n and {\rm WR}_n.

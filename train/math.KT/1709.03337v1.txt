@@ -1,0 +1,1 @@
+We give a description of cyclic cohomology and its pairing with K-groups for 2-cocycle deformation of algebras graded over discrete groups. The proof relies on a realization of monodromy for the Gauss-Manin connection on periodic cyclic cohomology in terms of the cup product action of group cohomology.

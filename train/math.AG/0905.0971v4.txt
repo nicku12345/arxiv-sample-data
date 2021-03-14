@@ -1,0 +1,1 @@
+We discuss Bernstein polynomials of reductive linear free divisors. We define suitable Brieskorn lattices for these non-isolated singularities, and show the analogue of Malgrange's result relating the roots of the Bernstein polynomial to the residue eigenvalues on the saturation of these Brieskorn lattices.

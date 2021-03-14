@@ -1,0 +1,1 @@
+We introduce the concept of Gaussian integral isoperimetric transference and show how it can be applied to obtain a new class of sharp Sobolev-Poincar\'{e} inequalities with constants independent of the dimension. In the special case of L^{q} spaces on the unit n-dimensional cube our results extend the recent inequalities that were obtained in \cite{FKS} using extrapolation.

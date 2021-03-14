@@ -1,0 +1,1 @@
+Let \mathcal{A} and \mathcal{B} be two alternative W^{*}-factors. In this paper, we proved that a bijective mapping \Phi :\mathcal{A}\rightarrow \mathcal{B} satisfies \Phi (ab+ba^{*})=\Phi (a)\Phi (b)+\Phi (b)\Phi (a)^{*} (resp., \Phi (ab-ba^{*})=\Phi (a)\Phi (b)-\Phi (b)\Phi (a)^{*}), for all elements a,b\in \mathcal{A}, if and only if \Phi  is a \ast -ring isomorphism.

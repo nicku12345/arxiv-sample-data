@@ -1,0 +1,1 @@
+In this paper is extended the original theorem by Fueter-Sce (assigning an \mathbb R_{0,m}-valued monogenic function to a \mathbb C-valued holomorphic function) to the higher order case. We use this result to prove Fueter's theorem with an extra monogenic factor P_k(x_0,\underline x).

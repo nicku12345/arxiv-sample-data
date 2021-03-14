@@ -1,0 +1,1 @@
+In the present paper we prove that the classes of Dixmier and Connes-Dixmier traces differ even on the Dixmier ideal \mathcal M_{1,\infty}. We construct a Marcinkiewicz space \mathcal M_\psi and a positive operator T\in \mathcal M_\psi which is Connes-Dixmier measurable but which is not Dixmier measurable.

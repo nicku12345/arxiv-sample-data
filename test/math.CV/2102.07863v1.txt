@@ -1,0 +1,1 @@
+We derive in the closed and unimprovable form the bilateral non-asymptotic relations between growth of entire functions and decay rate at infinity of its Taylor coefficients. We investigate the functions of one as well as of several complex variables.   We will apply the convex analysis: Young-Fenchel (Legendre) transform, Young inequality, saddle-point method etc.

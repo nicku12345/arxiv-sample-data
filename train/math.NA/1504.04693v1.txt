@@ -1,0 +1,1 @@
+There is presented an approach to find an approximation polynomial of a function with two variables based on the two dimensional discrete Fourier transform. The approximation polynomial is expressed through Chebyshev polynomials. There is given an uniform convergence result.

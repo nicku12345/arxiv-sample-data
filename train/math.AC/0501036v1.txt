@@ -1,0 +1,1 @@
+Given two equidimensional Cohen-Macaulay local rings of the same dimension, one shows that a simultaneous extension of each of them by a dualizing module of the other is Gorenstein. This generalizes a theorem of Fossum. The geometrical analogue is also considered. The pairs of double lines in the projective space which are algebraically linked are classified.

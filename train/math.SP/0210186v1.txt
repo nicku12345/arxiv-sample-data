@@ -1,0 +1,1 @@
+In this paper, we give a characterization of all closed linear operators in a separable Hilbert space which are unitarily equivalent to an integral operator in L_2(R) with bounded and arbitrarily smooth Carleman kernel on R^2. In addition, we give an explicit construction of corresponding unitary operators.

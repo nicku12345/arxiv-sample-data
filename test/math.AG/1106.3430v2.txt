@@ -1,0 +1,1 @@
+We apply a conjectured inequality on third chern classes of stable two-term complexes on threefolds to Fujita's conjecture. More precisely, the inequality is shown to imply a Reider-type theorem in dimension three which in turn implies that K_X + 6L is very ample when L is ample, and that 5L is very ample when K_X is trivial.

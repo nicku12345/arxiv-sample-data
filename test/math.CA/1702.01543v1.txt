@@ -1,0 +1,1 @@
+Given \{h_1,\cdots,h_{t}\}  a finite subset of \mathbb{R}^d, we study the continuous complex valued functions and the Schwartz complex valued distributions f defined on \mathbb{R}^d with the property that the forward differences \Delta_{h_k}^{m_k}f are (in distributional sense) continuous exponential polynomials for some natural numbers m_1,\cdots,m_t.

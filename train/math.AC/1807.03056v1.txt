@@ -1,0 +1,1 @@
+Let \mathcal{Z} be a specialization closed subset of \Spec R and X a homologically left-bounded complex with finitely generated homologies. We establish Faltings' Local-global Principle and Annihilator Theorems for the local cohomology modules {{\H_{\mathcal{Z}}^i(X). }} Our versions contain variations of results already known on these theorems.

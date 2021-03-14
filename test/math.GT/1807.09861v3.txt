@@ -1,0 +1,1 @@
+Every closed orientable surface S has the following property: any two connected covers of S of the same degree are homeomorphic (as spaces). In this, paper we give a complete classification of compact 3-manifolds with empty or toroidal boundary which have the above property. We also discuss related group-theoretic questions.

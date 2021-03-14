@@ -1,0 +1,1 @@
+We consider domains D\subseteq\mathbb R^n with C^1 -smooth boundary and study the following question: when the Fourier transform \hat{1_D} of the characteristic function 1_D belongs to L^p(\mathbb R^n)?

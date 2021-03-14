@@ -1,0 +1,1 @@
+Given an ideal J on a smooth variety in characteristic zero, we estimate the F-jumping numbers of the reductions of J to positive characteristic in terms of the jumping numbers of J and the characteristic. We apply one of our estimates to bound the Hartshorne-Speiser-Lyubeznik invariant for the reduction to positive characteristic of a hypersurface singularity.

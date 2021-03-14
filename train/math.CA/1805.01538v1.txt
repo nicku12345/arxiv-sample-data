@@ -1,0 +1,1 @@
+We derive weighted sums, including binomial and double binomial sums, for the generalized Fibonacci sequence \{G_m\} where for m\ge 2, G_m=G_{m-1}+G_{m-2} with initial values G_0 and G_1.

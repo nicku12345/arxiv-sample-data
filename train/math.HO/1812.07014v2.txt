@@ -1,0 +1,1 @@
+Let ABC be an equilateral triangle. For certain triangles T (the "tile") and certain N, it is possible to cut ABC into N copies of T. It is known that only certain shapes of T are possible, but until now very little was known about the possible values of N. Here we prove that for N>3, N cannot be prime.

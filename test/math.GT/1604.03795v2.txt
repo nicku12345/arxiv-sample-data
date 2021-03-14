@@ -1,0 +1,1 @@
+Let L be any infinite biperiodic alternating link. We show that for any sequence of finite links that Folner converges almost everywhere to L, their determinant densities converge to the Mahler measure of the 2-variable characteristic polynomial of the toroidal dimer model on an associated biperiodic graph.

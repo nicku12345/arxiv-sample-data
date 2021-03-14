@@ -1,0 +1,1 @@
+This paper discusses the lambda-ring version of the notion of conductor ideal for the group ring of a finite abelian group. We prove that if the group is primary, the lambda-conductor is the intersection of the classical conductor and the augmentation ideal.

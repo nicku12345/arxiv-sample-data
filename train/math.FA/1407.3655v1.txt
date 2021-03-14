@@ -1,0 +1,1 @@
+Let X and Y be Banach spaces and F a subset of B_{Y^*}. Endow Y with the topology \tau_F of pointwise convergence on F. Let T: X^* \to Y be a bounded linear operator which is (w^*, \tau_F) continuous. Assume that every vector in the range of T attains its norm at an element of F. Then it is proved that T is (w^*,w) continuous.

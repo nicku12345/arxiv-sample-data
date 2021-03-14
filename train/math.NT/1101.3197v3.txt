@@ -1,0 +1,1 @@
+We show that for any sufficiently large T, there exists a subinterval of [T,2T] of length at least 2.766 \times \frac{2\pi}{\log{T}}, in which the function t \mapsto \zeta(1/2 + it) has no zeros.

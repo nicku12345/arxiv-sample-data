@@ -1,0 +1,1 @@
+A body K is called polynomially integrable if its parallel section function V_{n-1}(K\cap\{\xi^\perp+t\xi\}) is a polynomial of t (on its support) for every \xi. A complete characterization of such bodies was given recently. Here we obtain a generalization of these results in the setting of dual quermassintegrals. We also address the associated smoothness issues.

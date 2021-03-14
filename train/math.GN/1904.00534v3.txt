@@ -1,0 +1,1 @@
+We continue the work of [10], studying properties of digital images determined by fixed point invariants. We introduce pointed versions of invariants that were introduced in [10]. We introduce freezing sets and cold sets to show how the existence of a fixed point set for a continuous self-map restricts the map on the complement of the fixed point set.

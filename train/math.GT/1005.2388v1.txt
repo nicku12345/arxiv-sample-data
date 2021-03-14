@@ -1,0 +1,1 @@
+It is well-known that Heegaard genus is additive under connected sum of 3-manifolds. We show that Heegaard genus of contact 3-manifolds is not necessarily additive under contact connected sum. We also prove some basic properties of the contact genus (a.k.a. open book genus) of 3-manifolds, and compute this invariant for some 3-manifolds.

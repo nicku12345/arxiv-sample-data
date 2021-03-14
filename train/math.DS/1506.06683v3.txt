@@ -1,0 +1,1 @@
+We show that minimal shifts with zero topological entropy are topologically conjugate to interval exchange transformations, generally infinite. When these shifts have linear factor complexity (linear block growth), the conjugate interval exchanges are proved to satisfy strong finiteness properties.

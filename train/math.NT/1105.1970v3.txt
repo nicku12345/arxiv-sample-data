@@ -1,0 +1,1 @@
+Let \K be a galois CM extension of \Q and \K_{\infty} its cyclotomic \Z_p-extension. Let A_n be the p-parts of the class groups in the intermediate subfields \K_n \subset \K_{\infty} and \rg{A} = \varprojlim_n A_n. We show that the p-rank of \rg{A} is finite, which is equivalent to the vanishing of Iwasawa's constant \mu for \rg{A}. (Currently withdrawn)

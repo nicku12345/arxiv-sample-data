@@ -1,0 +1,1 @@
+We use Brown-Peterson cohomology to obtain lower bounds for the higher topological complexity, TC_k(RP^n), of real projective spaces, which are often much stronger than those implied by ordinary mod-2 cohomology.

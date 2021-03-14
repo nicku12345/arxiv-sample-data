@@ -1,0 +1,1 @@
+This paper gives upper bounds for the dimension of the singularity category of a Cohen-Macaulay local ring with an isolated singularity. One of them recovers an upper bound given by Ballard, Favero and Katzarkov in the case of a hypersurface.

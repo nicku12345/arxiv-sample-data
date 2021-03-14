@@ -1,0 +1,1 @@
+In this paper, new block representations of Moore-Penrose inverses for arbitrary complex 2\times2 block matrices are given. The approach is based on block representations of orthogonal projection matrices.

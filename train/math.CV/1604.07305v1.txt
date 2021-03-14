@@ -1,0 +1,1 @@
+We improve a global approximation result by Al Taylor in C^n for holomorphic functions in weighted Hilbert spaces. The main tools are a variation of the theorem of Hormander on weighted L^2-estimates for the dbar-equation together with the solution of the strong openness conjecture. A counterexample to a global strong openness conjecture in Cn is also given here.

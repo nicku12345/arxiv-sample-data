@@ -1,0 +1,1 @@
+We prove the Gromov conjecture on the macroscopic dimension of the universal covering of a closed spin manifold with a positive scalar curvature under the following assumptions on the fundamental group: 1. The Strong Novikov Conjecture holds for \pi. 2. The natural map per:ko_n(B\pi)\to KO_n(B\pi) is injective.

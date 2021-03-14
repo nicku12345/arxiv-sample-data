@@ -1,0 +1,1 @@
+It is well known that Pythagorean triples can be parametrized by two triples of polynomials with integer coefficients. We show that no single triple of polynomials with integer coefficients in any number of variables is sufficient, but that there exists a parametrization of Pythagorean triples by a single triple of integer-valued polynomials.

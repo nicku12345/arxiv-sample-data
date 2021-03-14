@@ -1,0 +1,1 @@
+We are going to show that the representation dimension of a cluster-concealed algebra B is 3. We compute its representation dimension by showing an explicit Auslander generator for the cluster-tilted algebra.

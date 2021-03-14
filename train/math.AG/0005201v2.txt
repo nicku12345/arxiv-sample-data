@@ -1,0 +1,1 @@
+This note is a sequel to "Gerbes of chiral differential operators. II", math.AG/0003170. We study gerbes of chiral differential operators acting on the exterior algebra \Lambda E of a vector bundle over a smooth algebraic variety X. When E=\Omega^1_X this gerbe admits a canonical global section which coincides with the chiral de Rham complex of X.

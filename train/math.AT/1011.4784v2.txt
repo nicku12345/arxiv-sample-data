@@ -1,0 +1,1 @@
+In this paper, we discuss the theory of quasi-fibrations in proper Bousfield localizations of model categories of simplicial sheaves. We provide a construction of fibrewise localization and use this construction to generalize a criterion for locality of fibre sequences due to Berrick and Dror Farjoun. The result allows a better understanding of unstable A^1-homotopy theory.

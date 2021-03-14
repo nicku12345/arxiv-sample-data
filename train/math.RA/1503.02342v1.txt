@@ -1,0 +1,1 @@
+We show that if two division p-algebras of prime degree share an inseparable field extension of the center then they also share a cyclic separable one. We show that the converse is in general not true. We also point out that sharing all the inseparable field extensions of the center does not imply sharing all the cyclic separable ones.

@@ -1,0 +1,1 @@
+We study stable semistar operations defined over a Pr\"ufer domain, showing that, if every ideal of a Pr\"ufer domain R has only finitely many minimal primes, every such closure can be described through semistar operations defined on valuation overrings of R.

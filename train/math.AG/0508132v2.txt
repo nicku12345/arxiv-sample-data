@@ -1,0 +1,1 @@
+We determine the topological Euler number of certain moduli space of 1-dimensional closed subschemes in a smooth projective variety which admits a Zariski-locally trivial fibration with 1-dimensional fibers. The main approach is to use virtual Hodge polynomials and torus actions. The results might shed some light on the corresponding Donaldson-Thomas invariants.

@@ -1,0 +1,1 @@
+We prove a conjecture about the vertices and edges of the exchange graph of a cluster algebra \A in two cases: when \A is of geometric type and when \A is arbitrary and its exchange matrix is nondegenerate. In the second case we also prove that the exchange graph does not depend on the coefficients of \A. Both conjectures were formulated recently by Fomin and Zelevinsky.

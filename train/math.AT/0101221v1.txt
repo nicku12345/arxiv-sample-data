@@ -1,0 +1,1 @@
+Let F\hookrightarrow E\twoheadrightarrow B be a fibration whose base space B is a finite simply-connected CW-complex of dimension \leq p and whose total space E is a path-connected CW-complex of dimension \leq p-1. If \alpha\in H^{+}(F;\mathbb{F}_p) then \alpha ^{p}=0.

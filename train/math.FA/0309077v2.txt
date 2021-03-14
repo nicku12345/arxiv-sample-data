@@ -1,0 +1,1 @@
+Given the symmetric operator A_N obtained by restricting the self-adjoint operator A to N, a linear dense set, closed with respect to the graph norm, we determine a convenient boundary triple for the adjoint A_N^* and the corresponding Weyl function. These objects provide us with the self-adjoint extensions of A_N and their resolvents.

@@ -1,0 +1,1 @@
+It is known that the duals of transversal matroids are precisely the strict gammoids. The purpose of this short note is to show how the Lindstrom-Gessel-Viennot lemma gives a simple proof of this result.

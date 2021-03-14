@@ -1,0 +1,1 @@
+On demontre la convergence pour tout temps d'une approximation de l'equation de Vlasov par un systeme de particules sans regularisation du champ, ceci pour des potentiels singuliers, avec une force du type 1/|x|^{\alpha}, pour \alpha plus petit que 1.

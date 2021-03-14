@@ -1,0 +1,1 @@
+Let X be a general complex Fano threefold of genus 8. We prove that the moduli space of rank two semistable sheaves on X with Chern numbers c_1=1, c_2=6 and c_3=0 is isomorphic to the Fano surface F(X) of conics on X. Inside F(X), the non-locally free sheaves are parameterized by a smooth curve of genus 26 isomorphic to the base of the family of lines on X.

@@ -1,0 +1,1 @@
+The goal of this article is to give a precise relation between the mirror symmetry transformation of Givental and the Seidel elements for a smooth projective toric variety X with -K_X nef. We show that the Seidel elements entirely determine the mirror transformation and mirror coordinates.

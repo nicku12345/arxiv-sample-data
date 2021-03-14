@@ -1,0 +1,1 @@
+We show that, in the sense of Baire category, most Alexandrov surfaces with curvature bounded below by \kappa have no conical points. We use this result to prove that at most points of such surfaces, the lower and the upper Gaussian curvatures are equal to \kappa and \infty respectively.

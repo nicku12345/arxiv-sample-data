@@ -1,0 +1,1 @@
+We prove that the Markov operator associated to an iterated function system consisting of phi-max-contractions with probabilities has a unique invariant measure whose support is the attractor of the system.

@@ -1,0 +1,1 @@
+We consider conditions on a k-graph \Lambda, a semigroup S and a functor \eta : \Lambda \to S which ensure that the C^*-algebra of the skew-product graph \Lambda \times_\eta S is simple. Our results allow give some necessary and sufficient conditions for the AF-core of a k-graph C^{*}-algebra to be simple.

@@ -1,0 +1,1 @@
+We define a super Nambu-Poisson algebra over a super manifold. A super Nambu bracket does not satisfy the usual skew-symmetric property, and we propose another skew-symmetric property. We show that the divergence of super Nambu-Hamiltonian vector fields leads to a generalization of the Batalin-Vilkovisky algebra.

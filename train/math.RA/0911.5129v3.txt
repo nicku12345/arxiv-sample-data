@@ -1,0 +1,1 @@
+We show that there are exactly three types of Hilbert series of Artin-Schelter regular algebras of dimension five with two generators. One of these cases (the most extreme) may not be realized by an enveloping algebra of a graded Lie algebra. This is a new phenomenon compared to lower dimensions, where all resolution types may be realized by such enveloping algebras.

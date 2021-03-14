@@ -1,0 +1,1 @@
+In this paper we give an asymptotic of the coefficients of the orthogonal polynomials on the unit circle, with respect of a weight of type \displaystyle{ f : \theta \mapsto \prod_{1\le j \le M} \vert 1 - e^{i(\theta_{j}-\theta)}\vert ^{2\alpha_{j}} c} with \theta_{j}\in ]-\pi,\pi], -\frac{1}{2} < \alpha_{j}<\frac{1}{2} and c a sufficiently smooth function.

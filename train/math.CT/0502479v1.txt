@@ -1,0 +1,1 @@
+In this paper the notion of \infty-open-multicommutativity of functors in the category of compact Hausdorff spaces is considered. This property is a generalization of the open-multicommutativity on the case of infinite diagrams. It is proved that every open-multicommutative functor is \infty-open-multicommutative.

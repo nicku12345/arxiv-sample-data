@@ -1,0 +1,1 @@
+A bound on consecutive clique numbers of graphs is established. This bound is evaluated and shown to often be much better than the bound of the Kruskal-Katona theorem. A bound on non-consecutive clique numbers is also proven.

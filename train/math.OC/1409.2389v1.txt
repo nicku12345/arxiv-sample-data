@@ -1,0 +1,1 @@
+We show in the paper that the, so--called, "new architecture of L_1-Adaptive Control" is, indeed, different from classical model reference adaptive control. Alas, it is not new, since it exactly coincides with a full--state feedback, linear time--invariant proportional plus integral controller (with a decaying additive disturbance).

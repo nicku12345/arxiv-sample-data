@@ -1,0 +1,1 @@
+It has been shown by Bertoin and Yor (2002) that the law of positive self-similar Markov processes (pssMps) that only jump downwards and do not hit zero in finite time are uniquely determined by their entire moments for which explicit formulas have been derived. We use a recent jump-type stochastic differential equation approach to reprove and to extend their formulas.

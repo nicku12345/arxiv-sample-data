@@ -1,0 +1,1 @@
+We show how the notion of the transcendence degree of a zero-cycle on a smooth projective variety X is related to the structure of the motive M(X). This can be of particular interest in the context of Bloch's conjecture, especially for Godeaux surfaces, when the surface is given as a finite quotient of a suitable quintic in P^3.

@@ -1,0 +1,1 @@
+We show how a theorem of Gabber on alterations can be used to apply work of Cisinski, Suslin, Voevodsky, and Weibel to prove that K_n(X)[1/p] = 0 for n < - \dim X where X is a quasi-excellent noetherian scheme, p is a prime that is nilpotent on X, and K_n is the K-theory of Bass-Thomason-Trobaugh. This gives a partial answer to a question of Weibel.

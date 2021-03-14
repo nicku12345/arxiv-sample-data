@@ -1,0 +1,1 @@
+We show that there is no monad based on the normal functor H introduced earlier by Radul which is a certain functorial compactification of the Hartman-Mycielski construction HM.

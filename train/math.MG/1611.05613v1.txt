@@ -1,0 +1,1 @@
+In this paper we study the interior angle sums of geodesic triangles in \NIL geometry and prove that it can be larger, equal or less than \pi.   We use for the computations the projective model of \NIL introduced by E. {Moln\'ar} in \cite{M97}.

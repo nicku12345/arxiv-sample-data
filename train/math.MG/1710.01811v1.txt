@@ -1,0 +1,1 @@
+We present a criterion of local Normal Embedding of a semialgebraic (or definable in an o-minimal structure) contained in R^n in terms orders of contact of arcs. Namely, we prove that a semialgebraic set is normally embedded at a point x if and only if for any pair of arcs, coming to this point the inner order of contact is equal to the outer order of contact.

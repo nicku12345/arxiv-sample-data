@@ -1,0 +1,1 @@
+We solve the open problem of determining the second order term in the asymptotic expansion of the integral in Ball's integral inequality. In fact, we provide a method by which one can compute any term in the expansion. We also indicate how to derive an asymptotically sharp form of a generalized Ball's integral inequality.

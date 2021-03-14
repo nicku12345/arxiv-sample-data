@@ -1,0 +1,1 @@
+A projective, smooth, absolutely irreducible algebraic curve X of genus g defined over a finite field F_q is called optimal if for every other such genus g curve Y over F_q one has \#Y(F_q)\le \#X(F_q). In this paper we show that for g\le 5 there is a unique optimal genus g curve over F_2. For g=6 there are precisely two and for g=7 there are at least two.

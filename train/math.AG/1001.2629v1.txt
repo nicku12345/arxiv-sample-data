@@ -1,0 +1,1 @@
+When a non-singular complex projective surface X satisfies that K_X\sim 0, we shall show that there are only finitely many isomorphic classes as abstract schemes in the set of moduli scheme of H-semistable sheaves with fixed Chern classes \alpha on X, where H runs over the set of all \alpha-generic polarizations on X.

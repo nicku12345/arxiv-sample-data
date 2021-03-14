@@ -1,0 +1,1 @@
+We consider a relation between local and global characteristics of a differential algebraic variety. We prove that dimension of tangent space for every regular point of an irreducible differential algebraic variety coincides with dimension of the variety. Additionally, we classify tangent spaces at regular points in the case of one derivation.

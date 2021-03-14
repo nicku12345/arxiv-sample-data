@@ -1,0 +1,1 @@
+We construct dense Banach subalgebras A of the null sequence algebra c_0 which are spectral invariant, but do not satisfy the D_1-condition \|ab \|_A \leq K(\|a\|_{\infty} \|b\|_A + \|a \|_A \|b \|_{\infty}), for all a, b \in A. The sequences in A vanish in a skewed manner with respect to an unbounded function \sigma\colon {\mathbb N} \rightarrow [1, \infty).

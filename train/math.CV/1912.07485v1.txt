@@ -1,0 +1,1 @@
+In this paper, we will consider normality and uniqueness property of a family \mathcal{F} of meromorphic functions when [Q(f)]^{(k)} and [Q(g)]^{(k)} share \alpha ignoring multiplicities, for any f,g\in \mathcal{F}, where Q is a polynomial and \alpha  is a small function. Our results do not need all of zeros of Q have large order as other authors's results.

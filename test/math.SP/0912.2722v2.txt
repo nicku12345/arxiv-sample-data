@@ -1,0 +1,1 @@
+We prove the following. For any complex valued L^p-function b(x), 2 \leq p < \infty or L^\infty-function with the norm \| b | L^{\infty}\| < 1, the spectrum of a perturbed harmonic oscillator operator L = -d^2/dx^2 + x^2 + b(x) in L^2(\mathbb{R}^1) is discrete and eventually simple. Its SEAF (system of eigen- and associated functions) is an unconditional basis in L^2(\mathbb{R}).

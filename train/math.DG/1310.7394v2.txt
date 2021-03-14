@@ -1,0 +1,1 @@
+Starting with an orientable compact real-analytic Riemannian manifold (L,g) with \chi(L)=0, we show that a small neighbourhood  \textrm{Op}(L)  of the zero section in the cotangent bundle T^{*}L carries a Calabi-Yau structure such that the zero section is an isometrically embedded special Lagrangian submanifold.

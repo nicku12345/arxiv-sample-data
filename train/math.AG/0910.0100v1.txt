@@ -1,0 +1,1 @@
+We develop a modification of the Zariski--van Kampen approach for the computation of the fundamental group of a trigonal curve with improper fibers. As an application, we list the deformation families and compute the fundamental groups of all irreducible maximizing simple sextics with a type \bold D singular point.

@@ -1,0 +1,1 @@
+In this paper we introduce a modal theory H_{\sigma}, which is sound and complete for arithmetical \Sigma_1 substitutions in {\bf HA}, in other words, we will show that H_{\sigma} is the \Sigma_1-provability logic of {\bf HA}. Moreover we will show that H_{\sigma} is decidable. As a by-product of these results, we show that {\bf HA} + \Box\bot has de Jongh property.

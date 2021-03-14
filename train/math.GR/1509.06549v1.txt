@@ -1,0 +1,1 @@
+We compute the group cohomology of 32\Gamma_3f, a certain group of order 32. For this we construct explicit cocycle representatives of the cohomology generators. We thus lay to rest a discrepancy between several published computations of this cohomology ring.

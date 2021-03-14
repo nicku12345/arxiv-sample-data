@@ -1,0 +1,1 @@
+We study relation between left and right adjoint functors to the precomposition functor. As a cosnequence we obtain various dualities in the Ext-groups in the category of strict polynomial functors.

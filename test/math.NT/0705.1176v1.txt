@@ -1,0 +1,1 @@
+Given a finite residue field   k, one looks for a smoothness basis that is invariant under the automorphism group of k. We construct models for some finite fields that admit such a basis. This work aims at accelerating algorithms for computing discrete logarithms in some finite residue fields.

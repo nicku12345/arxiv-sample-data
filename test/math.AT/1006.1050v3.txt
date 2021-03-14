@@ -1,0 +1,1 @@
+We calculate the ku-homology of the groups Z/p^n X Z/p and Z/p^2 X Z/p^2. We prove that for this kind of groups the ku-homology contains all the complex bordism information. We construct a set of generators of the annihilator of the ku-toral class. These elements also generates the annihilator of the BP-toral class.

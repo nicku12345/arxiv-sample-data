@@ -1,0 +1,1 @@
+In this article we shall study some basic properties of posynomial rings with particular emphasis on rings {\rm Pos}(K,\mathbb{Q})[\bar x], and {\rm Pos}(K,\mathbb{Z})[\bar x]. The latter ring is the well known ring of Laurent polynomials.

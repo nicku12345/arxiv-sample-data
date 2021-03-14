@@ -1,0 +1,1 @@
+We introduce a notion of regularity for coherent sheaves on Grassmannians of lines. We use this notion to prove some extension of Evans-Griffith criterion to characterize direct sums of line bundles. We also give a cohomological characterization of exterior and symmetric powers of the universal bundles of the Grassmannian.

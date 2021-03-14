@@ -1,0 +1,1 @@
+For a locally compact group G, the convolution product on the space N(L^p(G)) of nuclear operators was defined by Neufang. We study homological properties of the convolution algebra N(L^p(G)) and relate them with some properties of the group G, such as compactness, finiteness, discreteness, and amenability.

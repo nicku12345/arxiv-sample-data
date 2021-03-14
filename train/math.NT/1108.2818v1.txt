@@ -1,0 +1,1 @@
+We observe that the Galois action on local constants associated to Galois representations of a local field yields information on their arithmetic nature, for example provides an upper bound to their order when they are roots of unity. It also yields information on the effect of Adams operations on these constants.

@@ -1,0 +1,1 @@
+This paper is a detailed study of finite-dimensional modules defined on bicomplex numbers. A number of results are proved on bicomplex square matrices, linear operators, orthogonal bases, self-adjoint operators and Hilbert spaces, including the spectral decomposition theorem. Applications to concepts relevant to quantum mechanics, like the evolution operator, are pointed out.

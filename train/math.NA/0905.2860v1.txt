@@ -1,0 +1,1 @@
+The optimal replication strategy for incomplete markets is obtained by solving a system of partial differential equations. In this paper, we study existence and uniqueness of the solution in suitable Sobolev spaces and propose a numerical method to compute the optimal strategy

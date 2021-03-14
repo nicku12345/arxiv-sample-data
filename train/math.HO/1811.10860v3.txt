@@ -1,0 +1,1 @@
+A recurrence relations for sums of powers of complex functions can be written as a system of linear equation AX=B. Using properties of determinant and Cramer's rule for solving systems of linear equation, this paper presents an absolutely explicit identity for solving sums of powers of complex functions without one sum depends on the others.

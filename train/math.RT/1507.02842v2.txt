@@ -1,0 +1,1 @@
+We consider an homogeneous action of a finite group on a free linear category over a field in order to prove that the subcategory of invariants is still free. Moreover we show that the representation type is preserved when considering invariants.

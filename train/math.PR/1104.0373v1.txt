@@ -1,0 +1,1 @@
+We derive two-sided bounds for moments of linear combinations of coordinates od unconditional log-concave vectors. We also investigate how well moments of such combinations may be approximated by moments of Gaussian random variables.

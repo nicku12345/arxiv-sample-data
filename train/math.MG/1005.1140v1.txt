@@ -1,0 +1,1 @@
+In this paper a measure of non-convexity for a simple polygonal region in the plane is introduced. It is proved that for "not far from convex" regions this measure does not decrease under the Minkowski sum operation, and guarantees that the Minkowski sum has no "holes".

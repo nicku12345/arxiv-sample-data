@@ -1,0 +1,1 @@
+We prove the consistency of the following statement: for some kappa<2^{aleph_0}, there is a kappa-complete ideal on kappa such that the Boolean algebra P(kappa)/I is sigma-centered and there are Q-sets of reals.

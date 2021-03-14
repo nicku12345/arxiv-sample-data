@@ -1,0 +1,1 @@
+We provide a new and elementary proof for the structure of geodesics in the Heisenberg group \mathbb{H}^n. The proof is based on a new isoperimetric inequality for closed curves in \mathbb{R}^{2n}. We also prove that the Carnot-Carath\'eodory metric is real analytic away from the center of the group.

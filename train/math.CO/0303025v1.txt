@@ -1,0 +1,1 @@
+We prove a recent conjecture of Lassalle about positivity and integrality of coefficients in some polynomial expansions. We also give a combinatorial interpretation of those numbers. Finally, we show that this question is closely related to the fundamental problem of calculating the linearization coefficients for binomial coefficients.

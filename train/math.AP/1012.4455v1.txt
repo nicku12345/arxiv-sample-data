@@ -1,0 +1,1 @@
+We study the long-time behavior of solutions of the one dimensional wave equation with nonlinear damping coefficient. We prove that if the damping coefficient function is strictly positive near the origin then this equation possesses a global attractor.

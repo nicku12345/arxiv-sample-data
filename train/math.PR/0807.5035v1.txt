@@ -1,0 +1,1 @@
+We combine Stein's method with a version of Malliavin calculus on the Poisson space. As a result, we obtain explicit Berry-Ess\'een bounds in Central Limit Theorems (CLTs) involving multiple Wiener-It\^o integrals with respect to a general Poisson measure. We provide several applications to CLTs related to Ornstein-Uhlenbeck L\'evy processes.

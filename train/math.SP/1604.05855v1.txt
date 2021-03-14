@@ -1,0 +1,1 @@
+In this study, the theorem on necessary and sufficient conditions for the solvability of inverse problem for Sturm-Liouville operator with discontinuous coefficient is proved and the algorithm of reconstruction of potential from spectral data (eigenvalues and normalizing numbers) is given.

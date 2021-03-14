@@ -1,0 +1,1 @@
+We show that the Landau levels cease to be eigenvalues if we perturb the 2D Schr\"odinger operator with constant magnetic field, by bounded electric potentials of fixed sign. We also show that, if the perturbation is not of fixed sign, then any Landau level may be an eigenvalue of arbitrary large, finite or infinite, multiplicity of the perturbed problem.

@@ -1,0 +1,1 @@
+Unlike the Hamilton quaternion algebra, the split-quaternions contain nontrivial zero divisors. In general speaking, it is hard to find the solutions of equations in algebras containing zero divisor. In this paper, we manage to derive explicit formulas for computing the roots of x^{2}+bx+c=0 in split quaternion algebra.

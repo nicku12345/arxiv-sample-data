@@ -1,0 +1,1 @@
+We give direct and inverse theorems for the weighted approximation of functions with endpoint singularities by combinations of Bernstein polynomials by the rth Ditzian-Totik modulus of smoothness \omega_\phi^{r}(f,t)_w where \phi is an admissible step-weight function.

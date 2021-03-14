@@ -1,0 +1,1 @@
+A slight improvement of Pleijel's estimate on the number of nodal domains is obtained, exploiting a refinement of the Faber-Krahn inequality and packing density of discs.

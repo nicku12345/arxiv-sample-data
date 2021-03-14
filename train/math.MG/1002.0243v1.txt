@@ -1,0 +1,1 @@
+We construct all Finsler metrics on the two-sphere for which geodesics are circles and show that any (reversible) path geometry on a two-dimensional manifold is locally the system of geodesics of a Finsler metric.

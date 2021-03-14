@@ -1,0 +1,1 @@
+We prove the optimality of a criterion of Koksma (1953) in Khinchin's conjecture, settling a long standing open problem in analysis. Using this result, we also give a near optimal condition for the a.e.\ convergence of series \sum_{k=1}^\infty c_k f(kx) for f\in L^2.

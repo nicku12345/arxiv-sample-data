@@ -1,0 +1,1 @@
+We give an elementary criterion on a group G for the map from Aut(G) to Out(G) to split virtually. This criterion applies to many residually finite CAT(0) groups and hyperbolic groups, and in particular to all finitely generated Coxeter groups. As a consequence the outer automorphism group of any finitely generated Coxeter group is residually finite and virtually torsion-free.

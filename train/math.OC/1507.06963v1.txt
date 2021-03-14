@@ -1,0 +1,1 @@
+Spacecraft attitude control using only magnetic torques is a time-varying system. Many designs were proposed using LQR and H-infinity formulations. The existence of the solutions depends on the controllability of the linear time-varying systems which has not been established. In this paper, we will derive the conditions of the controllability for this linear time-varying systems.

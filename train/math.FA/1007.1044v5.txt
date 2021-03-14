@@ -1,0 +1,1 @@
+A new type of combinations of Bernstein operators is given in [1]. Here, we introduce another one, which can be used to approximate the functions with singularities. The direct and inverse results of the weighted approximation of this new type combinations are given.

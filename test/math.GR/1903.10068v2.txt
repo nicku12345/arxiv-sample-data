@@ -1,0 +1,1 @@
+In this paper we show that Diophantine problem in solvable Baumslag-Solitar groups BS(1,k) and in wreath products A \wr \mathbb{Z}, where A is a finitely generated abelian group and \mathbb{Z} is an infinite cyclic group, is decidable.

@@ -1,0 +1,1 @@
+We prove an inequality of the form \gamma_n\geq C_n(\gamma_{n-1}) giving a lower bound for the Hermite constant \gamma_n in dimension n in terms of \gamma_{n-1}. Iterating this inequality yields a new proof of the Minkowski-Hlawka bound.

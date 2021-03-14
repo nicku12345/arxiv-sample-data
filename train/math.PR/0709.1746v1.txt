@@ -1,0 +1,1 @@
+We prove two martingale identities which involve exit times of Levy-driven Ornstein--Uhlenbeck processes. Using these identities we find an explicit formula for the Laplace transform of the exit time under the assumption that positive jumps of the Levy process are exponentially distributed.

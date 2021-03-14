@@ -1,0 +1,1 @@
+We study elements of the spectral theory of compact hyperbolic orbifolds \Gamma \backslash \mathbb{H}^{n}. We establish a version of the Selberg trace formula for non-unitary representations of \Gamma and prove that the associated Selberg zeta function admits a meromorphic continuation to \mathbb{C}.

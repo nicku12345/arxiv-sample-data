@@ -1,0 +1,1 @@
+Let R be a prime ring with center Z(R) and extended centroid C, H a non-zero generalized derivation of R and n>1 a fixed integer. In this paper we study the situations: (1) H(u2)n-H(u)2n in C for all u in L, where L is a non-central Lie ideal of R; (2) H(u2)n - H(u)2n = 0 for all u in [I; I], where I is a nonzero right ideal of R.

@@ -1,0 +1,1 @@
+The purpose of this note is to extend in a simple and unified way the known results on interlacing of zeros of paraorthogonal polynomials on the unit circle. These polynomials can be regarded as the characteristic polynomials of any matrix similar to an unitary upper Hessenberg matrix with positive subdiagonal elements.

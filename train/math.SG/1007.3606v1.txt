@@ -1,0 +1,1 @@
+Following a line of reasoning suggested by Eliashberg, we prove Cerf's theorem that any diffeomorphism of the 3-sphere extends over the 4-ball. To this end we develop a moduli-theoretic version of Eliashberg's filling-with-holomorphic-discs method.

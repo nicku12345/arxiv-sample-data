@@ -1,0 +1,1 @@
+We introduce a notion of pure-minimality for chain complexes of modules and show that it coincides with (homotopic) minimality in standard settings, while being a more useful notion for complexes of flat modules. As applications, we characterize von Neumann regular rings and left perfect rings.

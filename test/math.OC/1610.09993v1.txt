@@ -1,0 +1,1 @@
+We study the closure of the projection of the (nonconvex) cone of rank restricted positive semidefinite matrices onto subsets of the matrix entries. This defines the feasible sets for semidefinite completion problems with restrictions on the ranks. Applications include conditions for low-rank completions using the nuclear norm heuristic.

@@ -1,0 +1,1 @@
+In this study we find height bounds for polynomial rings over integral domains. We apply nonstandard methods and hence our constants will be ineffective. Then we find height bounds in the polynomial ring over algebraic numbers to test primality of an ideal. Furthermore we consider unique factorization domains and possible bounds for valuation rings and arithmetical functions.

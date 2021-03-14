@@ -1,0 +1,1 @@
+A very simple and short proof of the polynomial matrix spectral factorization theorem (on the unit circle as well as on the real line) is presented, which relies on elementary complex analysis and linear algebra.

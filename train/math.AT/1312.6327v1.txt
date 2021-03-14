@@ -1,0 +1,1 @@
+We prove a homological stability theorem for certain complements of symmetric spaces. This is a variant of a conjecture by Vakil and Matchett Wood for subspaces of \mathrm{Sym}^n(X) where X is an open manifold admitting a boundary. To do this we prove a homological stability result for a type of "coloured" configuration space by adding points of the same colour.

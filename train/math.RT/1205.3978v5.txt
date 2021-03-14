@@ -1,0 +1,1 @@
+We prove and construct Shannon-like Parseval wavelet frames for a class of two step connected, and simply connected nilpotent Lie groups, using a mixture of representation theory, group Fourier theory, and Gabor theory. Moreover, we are able to compute an upperbound for the norm of these Parseval frame wavelets.

@@ -1,0 +1,1 @@
+It is established that a ring Q-homeomorphism with respect to p-modulus in {\Bbb R}^n, n\geqslant2, is finitely Lipschitz if n-1<p<n and if the mean integral value of Q(x) over infinitisimial balls B(x_0,\epsilon) is finite everywhere.

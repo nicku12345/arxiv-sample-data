@@ -1,0 +1,1 @@
+We consider the linear system Ax=b arising from one-dimensional Poisson's equation with Dirichlet boundary conditions, where A is the square matrix with the stencil form [-1 2 -1]. Here we show that a pairwise aggregation-based algebraic 2-grid method reduces the A-norm of the error at each step by at least the factor 1/\sqrt{2}.

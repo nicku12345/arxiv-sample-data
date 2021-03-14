@@ -1,0 +1,1 @@
+We prove that for any positive integer c and any s > 0 there are representations of c as a sum a+b of two coprime positive integers a, b, such that the respective radicals are all greater than K(s)R(c)^(1-s)c^2. For the reprasentations in question, this is a stronger result than the abc-conjecture, which postulates that these representations are greater than k(s)c^1/(1+s).

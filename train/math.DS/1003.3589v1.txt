@@ -1,0 +1,1 @@
+In this paper we developed an integrating factor matrix method to derive conditions for the existence of first integrals. We use this novel method to obtain first integrals, along with the conditions for their existence, for two and three dimensional Lotka-Volterra systems with constant terms. The results are compared to previous results obtained by other methods.

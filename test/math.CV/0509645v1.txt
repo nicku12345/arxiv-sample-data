@@ -1,0 +1,1 @@
+We consider the set of all 2-step recurrences (difference equations) that are given by linear fractional maps. These give birational maps of the plane. We determine the degree growth of these birational maps. We find the all the maps in this family that are periodic. This also leads to new surface automorphisms with positive entropy.

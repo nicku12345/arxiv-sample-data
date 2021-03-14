@@ -1,0 +1,1 @@
+In this paper, we give a parameterization of the SU(2,1) representation space of the Brieskorn homology spheres using the trace coordinates. As applications, we give an example which shows that the orbifold Toledo invariant in \cite{krebs} does not distinguish the connected components of the PU(2,1) representation space.

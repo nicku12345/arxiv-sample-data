@@ -1,0 +1,1 @@
+This article describes a general method for computing automorphic forms using Voronoi-type summation formulas. It gives a numerical example where the technique is successful in quickly finding a cusp form on GL(3,Z)\GL(3,R), albeit one whose existence was already known as a Langlands lift.

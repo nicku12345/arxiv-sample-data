@@ -1,0 +1,1 @@
+We adapt Grayson's model of higher algebraic K-theory using binary acyclic complexes to the setting of stable \infty-categories. As an application, we prove that the K-theory of stable \infty-categories preserves infinite products.

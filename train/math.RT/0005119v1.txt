@@ -1,0 +1,1 @@
+C.M. Ringel defined Hall algebra associated with the category of representations of a quiver of Dynkin type and gave an explicit description of the structure constants of the corresponding Lie algebra. We utilize functorial properties of the Hall algebra to give a simple proof of Ringel's result, and to generalize it to the case of a quiver of affine type.

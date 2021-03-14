@@ -1,0 +1,1 @@
+It is pointed out that Reinsch's matrix operation formulation of calculating the Baker-Campbell-Hausdorff series [math-ph/9905012] is equivalent to the straightforward series expansion. The amount of calculation does not decrease by his method.

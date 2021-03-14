@@ -1,0 +1,1 @@
+In this note we prove a general version of the Extrapolation Theorem, extending the classical linear extrapolation theorem due to B. Maurey. Our result shows, in particular, that the operators involved do not need to be linear.

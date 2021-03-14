@@ -1,0 +1,1 @@
+In this paper we present a Mathematica notebook for computing nonsymmetric and interpolation Macdonald polynomials. We present the new recursive generation algorithm employed within the notebook and the theory required for its development. We detail the contents of the notebook and conclude with a couple of applications of the notebook.

@@ -1,0 +1,1 @@
+In this paper we prove that if we take to be identically zero and assume that any initial value satisfies on for any and then the Navier-Stokes initial value problem (1) have a smooth global solution , with bounded energy.

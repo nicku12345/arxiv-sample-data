@@ -1,0 +1,1 @@
+Let K be a number field and E/K a modular elliptic curve, with modular parametrization X_0(N) \to E defined over K. The purpose of this note is to study the images in E of classes of isogenous points in X_0(N).

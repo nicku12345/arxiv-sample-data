@@ -1,0 +1,1 @@
+We find a formula for the number of permutations of [n] that have exactly s runs up and down. The formula is at once terminating, asymptotic, and exact.

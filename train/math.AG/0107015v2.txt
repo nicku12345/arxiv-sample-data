@@ -1,0 +1,1 @@
+In this paper, we show an inequality between the degrees of the conductor and the Hodge fiber of a hyperelliptic curve above a discrete valuation ring. For that we have to show theorems about the lifting of p-cyclic covers in order to obtain informations on the edge of the moduli space of hyperelliptic stable curves. The inequality then comes from the geometry of this last space.

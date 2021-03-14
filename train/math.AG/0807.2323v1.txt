@@ -1,0 +1,1 @@
+Let X be a smooth Fano variety of dimension at least 4. We show that if X has an elementary birational contraction sending a divisor to a curve, then the Picard number of X is smaller or equal to 5.

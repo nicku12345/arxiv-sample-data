@@ -1,0 +1,1 @@
+We define the counting function for non-analytic (Maass) newforms of Hecke congruence groups_Gamma_0(M)_. We then calculate the three main terms of this counting function and give necessary and sufficient conditions on M for this counting function to have the same shape as if it were counting eigenvalues related to a cocompact group.

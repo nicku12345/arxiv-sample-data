@@ -1,0 +1,1 @@
+A modified Radon transform for noisy data is introduced and its inversion formula is established. The problem of recovering the multivariate probability density function f from the moments of its modified Radon transform \widehat{R}f is considered.

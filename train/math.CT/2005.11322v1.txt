@@ -1,0 +1,1 @@
+In [15] a homotopic variation for locality of logics was presented, namely a Quillen model category-based framework for locality under logical equivalence, for every primitive-positive sentence of quantifier-rank k. In this paper, we will present some of the implications and possible themes for investigations that arise from the aforementioned framework.

@@ -1,0 +1,1 @@
+We define the notion of right n-angulated category, which generalizes the notion of right triangulated category. Let \mathcal{C} be an additive category or n-angulated category and \mathcal{X} a covariantly finite subcategory, we show that under certain conditions the quotient \mathcal{C}/\mathcal{X} is a right n-angulated category. This result generalizes some previous work.

@@ -1,0 +1,1 @@
+We prove Okounkov's conjecture, a conjecture of Fomin-Fulton-Li-Poon, and a special case of Lascoux-Leclerc-Thibon's conjecture on Schur positivity and give several more general statements using a recent result of Rhoades and Skandera. An alternative proof of this result is provided. We also give an intriguing log-concavity property of Schur functions.

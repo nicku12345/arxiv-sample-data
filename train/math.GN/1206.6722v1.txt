@@ -1,0 +1,1 @@
+Schemata theory, Markov chains, and statistical mechanics have been used to explain how evolutionary algorithms (EAs) work. Incremental success has been achieved with all of these methods, but each has been stymied by limitations related to its less-than-global view. We show that moving the investigation into topological space improves our understanding of why EAs work.

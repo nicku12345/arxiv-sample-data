@@ -1,0 +1,1 @@
+Let A and B be C^*-algebras, A separable, and B \sigma-unital and stable. It is shown that there are natural isomorphisms E(A,B)=KK(SA,Q(B))=[SA,Q(B)\otimes K], where SA=C_0(0,1)\otimes A, [\cdot,\cdot] denotes the set of homotopy classes of *-homomorphisms, Q(B) = M(B)/B is the generalized Calkin algebra and K denotes the C^*-algebra of compact operators.

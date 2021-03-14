@@ -1,0 +1,1 @@
+In this paper, we obtain a blow up criterion for classical solutions to the 3-D compressible Naiver-Stokes equations just in terms of the gradient of the velocity, similar to the Beal-Kato-Majda criterion for the ideal incompressible flow. In addition, initial vacuum is allowed in our case.

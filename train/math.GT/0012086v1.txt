@@ -1,0 +1,1 @@
+We address the question: Does there exist a non-trivial knot with a trivial Jones polynomial? To find such a knot, it is almost certainly sufficient to find a non-trivial braid on four strands in the kernel of the Burau representation. I will describe a computer algorithm to search for such a braid.

@@ -1,0 +1,1 @@
+We prove that any Brownian moving average \[X_t=\int_{-\infty}^t\bigl(f(s-t)-f(s)\bigr) dB_s,\qquad t\ge0,\] satisfies the conditional full support condition introduced by Guasoni, R\'{a}sonyi and Schachermayer [Ann. Appl. Probab. 18 (2008) 491--520].

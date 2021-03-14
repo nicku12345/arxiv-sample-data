@@ -1,0 +1,1 @@
+We show that the lattice games of Guo and Miller support universal computation, disproving their conjecture that all lattice games have rational strategies. We also state an explicit counterexample to that conjecture: a three dimensional lattice game whose set of winning positions does not have a rational generating function.

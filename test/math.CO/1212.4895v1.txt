@@ -1,0 +1,1 @@
+The varietal hypercube VQ_n is a variant of the hypercube Q_n and has better properties than Q_n with the same number of edges and vertices. This paper proves that VQ_n is vertex-transitive. This property shows that when VQ_n is used to model an interconnection network, it is high symmetrical and obviously superior to other variants of the hypercube such as the crossed cube.

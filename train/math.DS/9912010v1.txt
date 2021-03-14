@@ -1,0 +1,1 @@
+Suppose X_{1}, X_{2} are nilmanifolds and \rho, \sigma are automorphism actions of a discrete group \Gamma on X_{1} and X_{2} respectively. We show that if (X_{1},\rho) and (X_{2}, \sigma) satisfy certain additional conditions then every \Gamma-equivariant continuous map from (X_{1},\rho) to (X_{2},\sigma) is an affine map.

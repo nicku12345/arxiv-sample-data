@@ -1,0 +1,1 @@
+Singular Gordon potentials are defined to be distributions from the space W^{-1}_{2,unif}(R) that are sufficiently fast approximated by periodic ones. We prove that Schr\"odinger operators with singular Gordon potentials have no point spectrum and show that a rich class of quasiperiodic distributions consists of singular Gordon potentials.

@@ -1,0 +1,1 @@
+In this paper we examine the commutativity of ideal extensions. We introduce methods of constructing such extensions, in particular we construct a noncommutative ring T which contains a central and idempotent ideal I such that T/I is a field. This answers a question from [2]. Moreover we classify fields of characteristic 0 which can be obtained as T/I for some T.

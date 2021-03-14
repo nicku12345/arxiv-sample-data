@@ -1,0 +1,1 @@
+This paper contains a Kawamata-Viehweg-Koll\'ar type vanishing theorem for vector bundles. In order to formulate and prove this cleanly, we introduce a class of sheaves that automatically satisfies a vanishing theorem. This is obtained by closing up the subclass of sheaves of adjoint type under extensions, direct images, and taking direct summands.

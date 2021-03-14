@@ -1,0 +1,1 @@
+We settle an old conjecture of Karrass and Solitar by proving that a finitely generated subgroup of a non-trivial free product G = A\ast B has finite index if and only if it intersects non-trivially each non-trivial normal subgroup of G. This holds, more generally, for subgroups of finite Kurosh rank.

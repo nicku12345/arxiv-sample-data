@@ -1,0 +1,1 @@
+We present a formulas to add a row or a column to the power, monomial, forgotten, Schur, homogeneous and elementary symmetric functions. As an application of these operators we show that the operator that adds a column to the Schur functions can be used to calculate a formula for the number of pairs of standard tableaux the same shape and height less than or equal to a fixed k.

@@ -1,0 +1,1 @@
+This paper gives the additivity and reduction formulas for mixed multiplicities of multi-graded modules M and mixed multiplicities of arbitrary ideals, and establishes the recursion formulas for the sum of all the mixed multiplicities of M. As an application of these formulas we get the recursion formulas for the multiplicity of multi-graded Rees modules.

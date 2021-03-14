@@ -1,0 +1,1 @@
+A dual Banach algebra is a Banach algebra which is a dual space, with the multiplication being separately weak^*-continuous. We show that given a unital dual Banach algebra \mc A, we can find a reflexive Banach space E, and an isometric, weak^*-weak^*-continuous homomorphism \pi:\mc A\to\mc B(E) such that \pi(\mc A) equals its own bicommutant.

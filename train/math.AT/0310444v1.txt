@@ -1,0 +1,1 @@
+We present a constructive proof of Ky Fan's combinatorial lemma concerning labellings of triangulated spheres. Our construction works for triangulations of S^n that contain a flag of hemispheres. As a consequence, we produce a constructive proof of Tucker's lemma that holds for a larger class of triangulations than previous constructive proofs.

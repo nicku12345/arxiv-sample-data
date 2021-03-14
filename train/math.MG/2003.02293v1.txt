@@ -1,0 +1,1 @@
+In this paper we discuss three distance functions on the set of convex bodies. In particular we study the convergence of Delzant polytopes, which are fundamental objects in symplectic toric geometry. By using these observations, we derive some convergence theorems for symplectic toric manifolds with respect to the Gromov-Hausdorff distance.

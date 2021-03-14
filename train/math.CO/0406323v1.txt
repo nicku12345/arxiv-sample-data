@@ -1,0 +1,1 @@
+We derive a collection of identities for bivariate Fibonacci and Lucas polynomials using essentially a matrix approach as well as properties of such polynomials when the variables x and y are replaced by polynomials. A wealth of combinatorial identities can be obtained for selected values of the variables.

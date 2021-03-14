@@ -1,0 +1,1 @@
+We study the behavior of geometric Picard ranks of K3 surfaces over the rationals under reduction modulo primes. We compute these ranks for reductions of smooth quartic surfaces modulo all primes p<2^{16} in several representative examples and investigate the resulting statistics.

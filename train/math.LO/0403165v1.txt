@@ -1,0 +1,1 @@
+The Necessary Maximality Principle for c.c.c. forcing asserts that any statement about a real in a c.c.c. extension that could become true in a further c.c.c. extension and remain true in all subsequent c.c.c. extensions, is already true in the minimal extension containing the real. We show that this principle is equiconsistent with the existence of a weakly compact cardinal.

@@ -1,0 +1,1 @@
+We prove that a monoid M is a group if and only if, in the category of monoids, all points over M are strong. This sharpens and greatly simplifies a result of Montoli, Rodelo and Van der Linden which characterises groups amongst monoids as the protomodular objects.

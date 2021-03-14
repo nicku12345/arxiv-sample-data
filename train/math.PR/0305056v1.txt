@@ -1,0 +1,1 @@
+We study heat-bath Glauber dynamics for the ferromagnetic Ising model on a finite cycle (a graph where every vertex has degree two). We prove that the relaxation time \tau_2 is an increasing function of any of the couplings J_{xy}. We also prove some further inequalities, and obtain exact asymptotics for \tau_2 at low temperatures.

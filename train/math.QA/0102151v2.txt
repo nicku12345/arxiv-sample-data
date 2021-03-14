@@ -1,0 +1,1 @@
+We find all unitary representations of the quantum "ax+b" group. It turns out that this quantum group is selfdual in the sense that all unitary representations are 'numbered' by elements of the same group. Moreover, we discover the formula for all unitary representations involving S.L. Woronowicz's quantum exponential function.

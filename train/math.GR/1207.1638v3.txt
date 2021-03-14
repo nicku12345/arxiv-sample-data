@@ -1,0 +1,1 @@
+We give a description of finite semigroups S that are minimal for not being Malcev nilpotent, i.e. every proper subsemigroup and every proper Rees factor semigroup is Malcev nilpotent but S is not. For groups this question was considered by Schmidt.

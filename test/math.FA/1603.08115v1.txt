@@ -1,0 +1,1 @@
+Given a complex Banach space X and a joint spectrum for complex solvable finite dimensional Lie algebras of operators defined on X, we extend this joint spectrum to quasi-solvable Lie algebras of operators, and we prove the main spectral properties of the extended joint spectrum. We also show that this construction is uniquely determined by the original joint spectrum.

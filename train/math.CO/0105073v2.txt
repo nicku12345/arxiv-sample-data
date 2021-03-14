@@ -1,0 +1,1 @@
+We study the generating function for the number of permutations on n letters containing exactly r\gs0 occurences of 132. It is shown that finding this function for a given r amounts to a routine check of all permutations in S_{2r}.

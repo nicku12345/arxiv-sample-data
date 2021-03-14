@@ -1,0 +1,1 @@
+In the paper the well known Riemann Hypothesis is proven. The proof is based on uniform approximation of the zeta function discs of the critical strip placed to the right from the critical line.The basic moment is a use of a new mesure introduced in the infinite dimensional unite cube different from the Haar or product measures

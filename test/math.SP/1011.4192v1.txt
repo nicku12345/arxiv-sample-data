@@ -1,0 +1,1 @@
+In this paper we study the spectrum of long-range percolation graphs. The underlying geometry is given in terms of a finitely generated amenable group. We prove that the integrated density of states (IDS) or spectral distribution function can be approximated uniformly in the energy variable. Using this, we are able to characterise the set of discontinuities of the IDS.

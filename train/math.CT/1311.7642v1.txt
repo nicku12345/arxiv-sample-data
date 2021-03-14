@@ -1,0 +1,1 @@
+Kleisli bicategories are a natural environment in which the combinatorics involved in various notions of algebraic theory can be handled in a uniform way. The setting allows a clear account of comparisons between such notions. Algebraic theories, symmetric operads and nonsymmetric operads are treated as examples.

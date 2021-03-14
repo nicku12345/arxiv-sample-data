@@ -1,0 +1,1 @@
+A Wiener-Hopf operator on a Banach space of functions on R+ is a bounded operator T such that P^+S_{-a}TS_a=T, for every positive a, where S_a is the operator of translation by a. We obtain a representation theorem for the Wiener-Hopf operators on a large class of functions on R+ with values in a separable Hilbert space.

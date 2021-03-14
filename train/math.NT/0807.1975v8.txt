@@ -1,0 +1,1 @@
+We prove that the number of overpseudoprimes to base 2 not exceeding x does not exceed x^(3/4)(1+o(1)).

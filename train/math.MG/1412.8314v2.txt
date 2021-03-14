@@ -1,0 +1,1 @@
+We prove that any n points in \mathbb{R}^2, not all on a line or circle, determine at least \frac{1}{4}n^2-O(n) ordinary circles (circles containing exactly three of the n points). The main term of this bound is best possible for even n. Our proof relies on a recent result of Green and Tao on ordinary lines.

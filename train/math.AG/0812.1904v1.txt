@@ -1,0 +1,1 @@
+We generalize Zak's theorems on tangencies and on linear normality as well as Zak's definition and classification of Severi varieties. In particular we find sharp lower bounds for the dimension of higher secant varieties of a given variety X under suitable regularity assumption on X, and we classify varieties for which the bound is attained.

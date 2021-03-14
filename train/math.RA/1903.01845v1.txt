@@ -1,0 +1,1 @@
+Let R be a finite local ring of odd characteristic and \beta a non-degenerate symmetric bilinear form on R^2.   In this short note, we determine the largest possible cardinality of pairwise orthogonal sets of unimodular vectors in R^2.

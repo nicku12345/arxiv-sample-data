@@ -1,0 +1,1 @@
+Using the fact that any minimal strongly regular surface carries locally canonical principal parameters, we obtain a canonical representation of these surfaces, which makes more precise the Weierstrass representation in canonical principal parameters. This allows us to describe locally the solutions of the natural partial differential equation of minimal surfaces.

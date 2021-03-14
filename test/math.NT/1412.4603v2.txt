@@ -1,0 +1,1 @@
+We prove that the overpartition function is log-concave for all n>1. The proof is based on Sills Rademacher type series for the overpartition function and inspired by Desalvo and Pak's proof for the partition function.

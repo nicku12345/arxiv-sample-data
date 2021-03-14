@@ -1,0 +1,1 @@
+It is a well-known fact in K-theory that the rapidly decreasing matrices of countable size form an associative topological algebra whose set of quasi-invertible elements is open, and such that the quasi-inversion map is continuous. We generalize these conclusions to further algebras of weighted matrices with entries in a Banach algebra.

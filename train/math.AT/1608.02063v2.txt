@@ -1,0 +1,1 @@
+We give a short proof of a theorem of Kuhn that Tate constructions for finite group actions vanish in telescopically localized stable homotopy theory. In particular, we observe that Kuhn's theorem is equivalent to the statement that the transfer BC_{p+} \to S^0 admits a section after telescopic localization, which in turn follows from the Kahn-Priddy theorem.

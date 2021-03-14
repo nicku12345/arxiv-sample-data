@@ -1,0 +1,1 @@
+In this work type II Hermite-Pad\'e approximants for a vector of Cauchy transforms of smooth Jacobi-type densities are considered. It is assumed that densities are supported on mutually disjoint intervals (an Angelesco system with complex weights). The formulae of strong asymptotics are derived for any ray sequence of multi-indices.

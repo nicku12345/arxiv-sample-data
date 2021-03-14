@@ -1,0 +1,1 @@
+Two Dehn surgeries on a knot are called cosmetic if they yield homeomorphic manifolds. For a null-homologous knot with certain conditions on the Thurston norm of the ambient manifold, if the knot admits cosmetic surgeries, then the surgery coefficients are equal up to sign.

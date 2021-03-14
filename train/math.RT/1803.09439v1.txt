@@ -1,0 +1,1 @@
+Let \C be a finite projective EI category and k be a field. The singularity category of the category algebra k\C is a tensor triangulated category. We compute its spectrum in the sense of Balmer.

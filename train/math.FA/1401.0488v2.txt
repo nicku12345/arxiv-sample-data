@@ -1,0 +1,1 @@
+Under some natural hypotheses, we show that if a multilinear mapping belongs to some Banach multlinear ideal, then it can be approximated by multilinear mappings belonging to the same ideal whose Arens extensions simultaneously attain their norms. We also consider the class of symmetric multilinear mappings.

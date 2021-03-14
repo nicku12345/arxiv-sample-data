@@ -1,0 +1,1 @@
+This paper shows that an eavesdropper can always recover efficiently the private key of one of the two parts of the public key cryptography protocol introduced by Shpilrain and Ushakov in [9]. Thus an eavesdropper can always recover the shared secret key, making the protocol insecure.

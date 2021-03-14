@@ -1,0 +1,1 @@
+Let a,f and g be integers, with a and f coprime. Under the generalized Riemann hypothesis it follows from work of Hooley and Lenstra that the set of primes p such that p=a(mod f) and g is primitive root mod p has a natural density. In this note we explicitly evaluate this density and give some applications of this result.

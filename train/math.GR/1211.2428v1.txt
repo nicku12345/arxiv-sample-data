@@ -1,0 +1,1 @@
+We show that the group of presentation < a,b,c,s,t\mid c=ab=ba,\, c^2=sas^{-1}=tbt^{-1}> (introduced by D. Wise) has the property of rapid decay.

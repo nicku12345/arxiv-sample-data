@@ -1,0 +1,1 @@
+We study the Fourier-Walsh spectrum \{\hat\mu (S); S\subset\{1, ..., n\}\} of the Moebius function \mu restricted to \{0, 1, 2, ..., 2^n-1\}\simeq \{0, 1\}^n and prove that it is not captued by levels \{\hat\mu (S)| \, |S|< n^{\frac 23-\epsion}\}. An application to correlation with monotone Boelean functions is given.

@@ -1,0 +1,1 @@
+We prove that the finite generation of adjoint rings proved in [Cascini and Lazi\'c] implies all the foundational results of the Minimal Model Program: the Rationality, Cone and Contraction theorems, the existence of flips, and termination of flips with scaling in the presence of a big boundary.

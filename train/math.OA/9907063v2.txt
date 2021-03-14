@@ -1,0 +1,1 @@
+We give an alternate proof of one of the inequalities proved recently for martingales (=sums of martingale differences) in a non-commutative L_p-space, with 1<p<\infty, by Q. Xu and the author. This new approach is restricted to p an even integer, but it yields a constant which is O(p) when p\to \infty and it applies to a much more general kind of sums which we call p-orthogonal.

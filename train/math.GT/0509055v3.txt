@@ -1,0 +1,1 @@
+Using Kirby Calculus, we explicitly pass from Berge's R-R descriptions of ten families of knots with lens space surgeries to surgery descriptions on the minimally twisted five chain link (MT5C). Since the MT5C admits a strong involution, we also give the corresponding tangle descriptions.

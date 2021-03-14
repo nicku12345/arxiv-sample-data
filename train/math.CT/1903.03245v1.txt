@@ -1,0 +1,1 @@
+We develop the basic theory of nilpotent types and their localizations away from sets of numbers in Homotopy Type Theory. For this, general results about the classifying spaces of fibrations with fiber an Eilenberg-Mac Lane space are proven. We also construct fracture squares for localizations away from sets of numbers.

@@ -1,0 +1,1 @@
+Using techniques developed for studying polynomially bounded cohomology, we show that the assembly map for K_*^t(\ell^1(G)) is rationally injective for all finitely presented discrete groups G. This verifies the \ell^1-analogue of the Strong Novikov Conjecture for such groups.

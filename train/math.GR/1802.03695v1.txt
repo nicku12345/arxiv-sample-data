@@ -1,0 +1,1 @@
+We construct a 4-state 2-letter bireversible automaton generating the lamplighter group (\mathbb Z_2^2)\wr\mathbb Z of rank two. The action of the generators on the boundary of the tree can be induced by the affine transformations on the ring \mathbb Z_2[[t]] of formal power series over \mathbb Z_2.

@@ -1,0 +1,1 @@
+Symmetry groups or groupoids of C*-algebras associated to non-Hausdorff spaces are often non-Hausdorff as well. We describe such symmetries using crossed modules of groupoids. We define actions of crossed modules on C*-algebras and crossed products for such actions, and justify these definitions with some basic general results and examples.

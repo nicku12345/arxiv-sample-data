@@ -1,0 +1,1 @@
+Recently Herbig, McNeal, and Straube have showed that the Bergman projection of conjugate holomorphic functions is smooth up to the boundary on a class of pseudoconvex domains. We show that a further smoothing property holds on a family of Reinhardt domains; namely, the Bergman projection of conjugate holomorphic functions is holomorphic past the boundary.

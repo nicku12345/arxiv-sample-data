@@ -1,0 +1,1 @@
+The subpower Higson corona of a proper metric space is defined in \cite{KZ}. We prove that, unlikely to the Higson corona, the closure of a \sigma-compact subset of the subpower Higson corona of a proper unbounded metric space does not necessarily coincide with its Stone-\v{C}ech corona.

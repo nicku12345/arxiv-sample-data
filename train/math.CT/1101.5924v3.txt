@@ -1,0 +1,1 @@
+Any functor from the category of C*-algebras to the category of locales that assigns to each commutative C*-algebra its Gelfand spectrum must be trivial on algebras of nxn-matrices for n at least 3. The same obstruction applies to the Zariski, Stone, and Pierce spectra. The possibility of spectra in categories other than that of locales is briefly discussed.

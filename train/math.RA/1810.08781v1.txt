@@ -1,0 +1,1 @@
+Let n=4k+1 and k\geq 4. We show that there exists maximal commutative subalgebras (with respect to inclusion) of dimension less that 3\cdot 2^{n-2}.

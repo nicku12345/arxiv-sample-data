@@ -1,0 +1,1 @@
+The main results of this paper are an asymptotic expansion in powers of \hbar for the spectral measure \mu_\hbar of a semi-classical Toeplitz operator, Q_\hbar, and an equivariant version of this result when Q_\hbar admits an n-torus as a symmetry group. In addition we discuss some inverse spectral consequences of these results.

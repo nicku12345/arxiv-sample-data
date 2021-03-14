@@ -1,0 +1,1 @@
+For each p>n we use local oscillations to give intrinsic characterizations of the trace of the Sobolev space W^1_p(\Omega) to the boundary of an arbitrary domain \Omega\subset R^n.

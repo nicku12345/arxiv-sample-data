@@ -1,0 +1,1 @@
+We consider the p-Laplacian in R^d perturbed by a weakly coupled potential. We calculate the asymptotic expansions of the lowest eigenvalue of such an operator in the weak coupling limit separately for p>d and p=d and discuss the connection with Sobolev interpolation inequalities.

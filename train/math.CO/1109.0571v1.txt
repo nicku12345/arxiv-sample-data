@@ -1,0 +1,1 @@
+We give a new proof of the k-fold convolution of the Catalan numbers. This is done by enumerating a certain class of polygonal dissections called k-in-n dissections. Furthermore, we give a formula for the average number of cycles in a triangulation.

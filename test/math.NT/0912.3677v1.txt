@@ -1,0 +1,1 @@
+Consider the product of (1-p^(-s))^(-4) over all primes p=1 mod 5. We evaluate its residue at s=1 and compare with the corresponding Mertens constant of Languasco & Zaccagnini. We also count primitive quintic Dirichlet characters mod n and determine their average number as n->infty.

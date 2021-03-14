@@ -1,0 +1,1 @@
+We show that the Hamiltonian Lagrangian monodromy group, in its homological version, is trivial for any weakly exact Lagrangian submanifold of a symplectic manifold. The proof relies on a sheaf approach to Floer homology given by a relative Seidel morphism.

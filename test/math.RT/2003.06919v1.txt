@@ -1,0 +1,1 @@
+We give canonical forms of selfadjoint and isometric operators on a complex vector space U with scalar product given by a positive semidefinite Hermitian form, and of Hermitian forms on U. For an arbitrary system of semiunitary spaces and linear mappings on/between them, we give an algorithm that reduces their matrices to canonical form.

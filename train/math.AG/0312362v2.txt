@@ -1,0 +1,1 @@
+We construct the Hilbert compactification of the universal moduli space of semistable vector bundles over smooth curves. The Hilbert compactification is the GIT quotient of some open part of an appropriate Hilbert scheme of curves in a Grassmannian. It has all the properties asked for by Teixidor.

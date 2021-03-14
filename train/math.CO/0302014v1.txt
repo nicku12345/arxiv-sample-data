@@ -1,0 +1,1 @@
+We study generating functions for the number of even (odd) permutations on n letters avoiding 132 and an arbitrary permutation \tau on k letters, or containing \tau exactly once. In several interesting cases the generating function depends only on k and is expressed via Chebyshev polynomials of the second kind.

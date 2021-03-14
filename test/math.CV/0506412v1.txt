@@ -1,0 +1,1 @@
+The theory of modular deformations is generalized for the category of complex analytic polyhedra which includes germs of complex space as well as any compact complex analytic space. The objective of the theory is a construction of fine moduli spaces. We also discuss new examples of modular families obtained by means of a computer algebra program.

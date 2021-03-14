@@ -1,0 +1,1 @@
+A necessary and sufficient condition is provided for the solvability of a binomial congruence with a composite modulus, circumventing its prime factorization. This is a generalization of Euler's Criterion through that of Euler's Theorem, and the concepts of order and primitive roots. Idempotent numbers play a central role in this effort.

@@ -1,0 +1,1 @@
+In this paper, we study constacyclic codes over F_p+vF_p, where p is an odd prime and v^2=v. The polynomial generators of all constacyclic codes over F_p+vF_p are characterized and their dual codes are also determined.

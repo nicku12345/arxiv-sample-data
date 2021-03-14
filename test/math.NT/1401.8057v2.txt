@@ -1,0 +1,1 @@
+A fundamental observation of Iwasawa gives a criterion for a module over the classical Iwasawa algebra to be torsion. In this paper, we study a certain extension of this criterion. We will then apply this to study the structure of the homology of the "Iwasawa cohomology groups" and dual fine Selmer groups.

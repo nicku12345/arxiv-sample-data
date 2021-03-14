@@ -1,0 +1,1 @@
+We consider the Lagrange and the Markov dynamical spectra associated with a conservative Anosov flow on a compact manifold of dimension 3 (including geodesic flows of negative curvature and suspension flows). We show that for a large set of real functions and typical conservative Anosov flows, both the Lagrange and Markov dynamical spectra have a non-empty interior.

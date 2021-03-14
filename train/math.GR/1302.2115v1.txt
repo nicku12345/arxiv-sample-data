@@ -1,0 +1,1 @@
+Let R be a ring and G a group. An R-module A is said to be artinian-by-(finite rank) if TorR(A) is artinian and A/TorR(A) has finite R-rank. The authors study ZG-modules A such that A/CA(H) is artinian-by-(finite rank) (as a Z-module) for every proper subgroup H.

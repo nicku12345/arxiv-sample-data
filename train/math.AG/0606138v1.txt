@@ -1,0 +1,1 @@
+It is proved that the degree of a morphism from a smooth projective n-fold with Picard number one to a smooth n-quadric is bounded (provided, of course, that n is at least three). Actually it has been proved some years ago, but I have never written down the proof, until J.-M. Hwang suggested, recently, that I do.

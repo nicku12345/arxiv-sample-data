@@ -1,0 +1,1 @@
+We compute the exact value of the squared condition number for the polynomial eigenvalue problem, when the input matrices have entries coming from the standard complex Gaussian distribution, showing that in general this problem is quite well conditioned.

@@ -1,0 +1,1 @@
+The notion of atomicity defined by Cohen, Moore and Neisendorfer is studied for the Dickson algebras. Not any ring of invariants respects this property. It depends on the property of the Dickson algebra that given any monomial d there exists a sequence of Steenrod operations P(\Gamma, d)  such that P(\Gamma, d) d becomes a p-th power of the top Dickson algebra generator.

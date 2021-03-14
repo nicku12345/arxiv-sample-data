@@ -1,0 +1,1 @@
+Let L be a positive definite even lattice of rank one and V_L^+ be the fixed points of the lattice VOA V_L associated to L under an automorphism of V_L lifting the -1 isometry of L. A set of generators and the full automorphism group of V_L^+ are determined.

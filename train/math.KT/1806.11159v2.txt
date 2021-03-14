@@ -1,0 +1,1 @@
+We establish a variant of the splitting principle of Garibaldi-Merkurjev-Serre for invariants taking values in a strictly homotopy invariant sheaf. As an application, we prove the folklore result of Morel that pi_0 of the motivic localization of the group completion of the stack of finite \'etale schemes is given by the sheaf of unramified Grothendieck-Witt groups.

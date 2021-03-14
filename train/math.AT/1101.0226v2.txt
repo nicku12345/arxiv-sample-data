@@ -1,0 +1,1 @@
+An explicit chain complex is constructed to calculate the derived functors of destabilization at an odd prime, generalizing constructions of Zarati and of Hung and Sum. The methods are based on the ideas of Singer and Miller and also apply at the prime two. A structural result on the derived functors of destabilization is deduced.

@@ -1,0 +1,1 @@
+We exhibit a Cayley-Hamilton trace identity for 2\times2 matrices with entries in a ring R satisfying [[x,y],[x,z]]=0 and 1/2 \in R.

@@ -1,0 +1,1 @@
+We show that if Q is simply connected, every exact Lagrangian cobordism between compact, exact Lagrangians in the cotangent bundle of Q is an h-cobordism. The result is an exercise in basic algebraic topology once one invokes the Abouzaid-Kragh theorem.

@@ -1,0 +1,1 @@
+Every prism manifold can be parametrized by a pair of relatively prime integers p>1 and q. In our earlier papers, we determined a complete list of prism manifolds P(p, q) that can be realized by positive integral surgeries on knots in S^3 when q<0 or q>p; in the present work, we solve the case when 0<q<p. This completes the solution of the realization problem for prism manifolds.

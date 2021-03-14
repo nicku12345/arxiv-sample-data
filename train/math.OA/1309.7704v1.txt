@@ -1,0 +1,1 @@
+A Hilbert C^*-quad module of finite type has a multi structure of Hilbert C^*-bimodules with two finite bases. We will construct a C^*-algebra from a Hilbert C^*-quad module of finite type and prove its universality subject to certain relations among generators. Some examples of the C^*-algebras from Hilbert C^*-quad modules of finite type will be presented.

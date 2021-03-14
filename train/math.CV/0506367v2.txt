@@ -1,0 +1,1 @@
+We give an elementary proof of the existence of an asymptotic expansion in powers of k of the Bergman kernel associated to L^k, where L is a positive line bundle. We also give an algorithm for computing the coefficients in the expansion.

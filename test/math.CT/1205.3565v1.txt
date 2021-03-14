@@ -1,0 +1,1 @@
+A double category is constructed from a `fattened' version of a given category, motivated in part by a context of parallel transport. We also study monoidal structures on the underlying category and on the fattened category.

@@ -1,0 +1,1 @@
+For A,epsilon>0 and any sufficiently large odd n we show that for almost all k up to n^{1/5-epsilon} there exists a representation n=p1+p2+p3 with primes in residue classes b1,b2,b3 mod k for almost all admissible triplets b1,b2,b3 of reduced residues mod k.

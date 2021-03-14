@@ -1,0 +1,1 @@
+Let G_\mathbb{R} be a Lie group and G its complexification. An open G_\mathbb{R}-orbit in a G-flag manifold is measurable whenever it carries a G_\mathbb{R}-invariant volume element. In this paper the notion of measurability is generalized to the supersymmetric setting and a classification of measurable open orbits in flag supermanifolds is given.

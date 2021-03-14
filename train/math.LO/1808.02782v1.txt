@@ -1,0 +1,1 @@
+We define notions of generically and coarsely computable relations and structures and functions between structures. We investigate the existence and uniqueness of equivalence structures in the context of these definitions

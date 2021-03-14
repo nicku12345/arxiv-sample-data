@@ -1,0 +1,1 @@
+We study non-trivial deformations of the natural action of the Lie algebra \mathrm{Vect}({\mathbb R}^n) on the space of differential forms on {\mathbb R}^n. We calculate abstractions for integrability of infinitesimal multi-parameter deformations and determine the commutative associative algebra corresponding to the miniversal deformation in the sense of \cite{ff}.

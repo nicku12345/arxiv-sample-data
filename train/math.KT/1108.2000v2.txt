@@ -1,0 +1,1 @@
+We study the K'-theory of a CM Henselian local ring R of finite Cohen-Macaulay type. We first describe a long exact sequence involving the groups K_i'(R) and the K-groups of certain other rings, including the Auslander algebra. By examining the terms and maps in the sequence, we obtain information about K'(R).

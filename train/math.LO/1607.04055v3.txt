@@ -1,0 +1,1 @@
+We take an argument of G\"odel's from his ground-breaking 1931 paper, generalize it, and examine its validity. The argument in question is this: the sentence G says about itself that it is not provable, and G is indeed not provable; therefore, G is true.

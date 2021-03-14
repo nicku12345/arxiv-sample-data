@@ -1,0 +1,1 @@
+\'Etale Nori finite vector bundles are those bundles defined by representations of a finite \'etale group scheme in the usual way. In this note we show that in many cases the dimensions of the Hodge cohomology groups of such a vector bundle and of a twist of it by an automorphism of the ground field are the same. This generalizes to the higher rank case a result of Pink-Roessler.

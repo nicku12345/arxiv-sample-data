@@ -1,0 +1,1 @@
+An abstract polytope is chiral if its automorphism group has two orbits on the flags, such that adjacent flags belong to distinct orbits. There are still few examples of chiral polytopes, and few constructions that can create chiral polytopes with specified properties. In this paper, we show how to build self-dual chiral polytopes using the mixing construction for polytopes.

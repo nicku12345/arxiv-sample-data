@@ -1,0 +1,1 @@
+This note discusses a framework for the investigation of the prime spectrum of an associative algebra A that is equipped with an action of a Hopf algebra H. In particular, we study a notion of H-rationality for ideals of A and comment on a possible Dixmier-Moeglin equivalence for H-prime ideals of A.

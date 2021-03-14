@@ -1,0 +1,1 @@
+Etingof and Schedler formulated a conjecture about the degree zero Poisson homology of an affine cone that admits a projective symplectic resolution. We strengthen this conjecture in general and prove the strengthened version for hypertoric varieties. We also formulate an analogous conjecture for the degree zero Hochschild homology of a quantization of such a variety.

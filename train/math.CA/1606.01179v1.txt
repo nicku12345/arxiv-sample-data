@@ -1,0 +1,1 @@
+We investigate the second moment of a random sampling \zeta(1/2+iX_t) of the Riemann zeta function on the critical line. Our main result states that if X_t is an increasing random sampling with gamma distribution, then for all sufficiently large t, \[\mathbb{E} |\zeta(1/2+iX_t)|^2 = \log t + O(\sqrt{\log t}\log\log t).\]

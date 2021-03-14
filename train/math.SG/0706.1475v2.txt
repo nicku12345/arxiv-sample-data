@@ -1,0 +1,1 @@
+Jacobi-Nijenhuis algebroids are defined as a natural generalization of Poisson-Nijenhuis algebroids, in the case where there exists a Nijenhuis operator on a Jacobi algebroid which is compatible with it. We study modular classes of Jacobi and Jacobi-Nijenhuis algebroids.

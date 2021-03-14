@@ -1,0 +1,1 @@
+We give a short, explicit proof of Hindman's Theorem that in every finite coloring of the integers, there is an infinite set all of whose finite sums have the same color. We give several exampls of colorings of the integers which do not have computable witnesses to Hindman's Theorem.

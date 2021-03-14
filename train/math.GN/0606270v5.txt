@@ -1,0 +1,1 @@
+Answering a question of Sakai, we show that the minimal cardinality of a set of reals X such that C_p(X) does not have the Pytkeev property is equal to the pseudo-intersection number p. Our approach leads to a natural characterization of the Pytkeev property of C_p(X) by means of a covering property of X, and to a similar result for the Reznicenko property of C_p(X).

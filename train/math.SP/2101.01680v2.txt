@@ -1,0 +1,1 @@
+The completeness of the system of eigenfunctions of the complex Schr\"odinger operator \mathscr{L}_c=-d^2/dx^2+cx^\alpha on the semi-axis with Dirichlet boundary conditions is proved for \alpha\in(0,2) and |\arg c|<2\pi\alpha/(\alpha+2)+\Delta t(\alpha) with some \Delta t(\alpha)>0.

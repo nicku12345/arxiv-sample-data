@@ -1,0 +1,1 @@
+There has been much interest on constructing models which are not isomorphic of cardinality lambda but are equivalent under the Ehrenfeucht-Fraisse game of length alpha even for every alpha<lambda. So under G.C.H. we know much. We deal here with constructions of such pairs of models proven in ZFC and get the existence under mild conditions.

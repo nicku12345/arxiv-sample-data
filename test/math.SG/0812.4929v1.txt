@@ -1,0 +1,1 @@
+In this paper we show that every degree 2 homology class of a 2n-dimensional symplectic manifold is represented by an immersed symplectic surface if it has positive symplectic area. Moreover, the symplectic surface can be chosen to be embedded if 2n is at least 6. We also analyze the additional conditions under which embedded symplectic representatives exist in dimension 4.

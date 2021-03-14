@@ -1,0 +1,1 @@
+We compare several quasi-Frobenius-type properties for corings that appeared recently in literature and provide several new characterizations for each of these properties. By applying the theory of Galois comodules with a firm coinvariant ring, we can characterize a locally quasi-Frobenius (quasi-co-Frobenius) coring as a locally projective generator in its category of comodules.

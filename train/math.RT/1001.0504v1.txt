@@ -1,0 +1,1 @@
+The rational Chow ring A?(S[n],Q) of the Hilbert scheme S[n] parametrising the length n zero-dimensional subschemes of a toric surface S can be described with the help of equivariant techniques. In this paper, we explain the general method and we illustrate it through many examples. In the last section, we present results on the intersection theory of graded Hilbert schemes.

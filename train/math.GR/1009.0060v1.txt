@@ -1,0 +1,1 @@
+This paper is an investigation of a procedure for constructing lattices by means of taking the sum of a pair of isometric lattices. We present various general results pertaining to this construction and discuss several examples of it applied to various well-known lattices of small rank.

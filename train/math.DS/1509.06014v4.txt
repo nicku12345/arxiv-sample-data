@@ -1,0 +1,1 @@
+In this paper we introduce the definition of entropy for a partial \mathbb{Z}-action. We show that the definition of partial entropy is an extension of the definition of topological entropy for a \mathbb Z-action. We also prove that the partial topological entropy is concentrated on the non-wandering set.

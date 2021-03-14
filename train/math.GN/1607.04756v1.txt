@@ -1,0 +1,1 @@
+P.J. Nyikos has asked whether it is consistent that every hereditarily normal manifold of dimension > 1 is metrizable, and proved it is if one assumes the consistency of a supercompact cardinal, and, in addition, that the manifold is hereditarily collectionwise Hausdorff. We are able to omit these extra assumptions.

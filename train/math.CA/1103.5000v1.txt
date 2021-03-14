@@ -1,0 +1,1 @@
+In this note we give an explicit integral representation and an expanssion for the heat kernel  H_n(t;x,y) associated to Fubini-Study Laplacians on quaternionic projective spaces \mathbb{P}^n(\mathbb H), n \geq 1. This was possible by establishing a real integral representation formula for Jacobi polynomials of type P_l^{(2n-1,1)}(\cos(2d)).

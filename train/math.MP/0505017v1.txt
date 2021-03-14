@@ -1,0 +1,1 @@
+It is known that many equations of interest in Mathematical Physics display solutions which are only asymptotically invariant under transformations (e.g. scaling and/or translations) which are not symmetries of the considered equation. In this note we extend the approach to asymptotic symmetries for the analysis of PDEs, to the case of difference equations.

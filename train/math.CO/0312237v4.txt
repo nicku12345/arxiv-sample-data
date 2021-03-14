@@ -1,0 +1,1 @@
+We show that for Bruhat intervals starting from the origin in simply-laced Coxeter groups the conjecture of Lusztig and Dyer holds, that is, the R-polynomials and the Kazhdan-Lusztig polynomials defined on [e,u] only depend on the isomorphism type of [e,u].

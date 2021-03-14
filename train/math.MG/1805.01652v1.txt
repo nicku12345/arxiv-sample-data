@@ -1,0 +1,1 @@
+We give a simple proof of T. Stehling's result, that in any normal tiling of the plane with convex polygons with number of sides not less than six, all tiles except the finite number are hexagons.

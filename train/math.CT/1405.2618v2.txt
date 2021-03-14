@@ -1,0 +1,1 @@
+We discuss a categorical version of the celebrated belief propagation algorithm. This provides a way to prove that some algorithms which are known or suspected to be analogous, are actually identical when formulated generically. It also highlights the computational point of view in monoidal categories.

@@ -1,0 +1,1 @@
+The non commuting matrix elements of matrices from quantum group GL_q(2;C) with q\equiv \omega  being the n-th root of unity are given a representation as operators in Hilbert space with help of C_4^{(n)} generalized Clifford algebra generators appropriately tensored with unit % 2\times 2 matrix infinitely many times. Specific properties of such a representation are presented.

@@ -1,0 +1,1 @@
+In this paper we propose an explicit and positivity preserving scheme for the mean reverting CEV model which converges in the mean square sense with convergence order a(a-1/2).

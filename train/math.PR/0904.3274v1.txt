@@ -1,0 +1,1 @@
+For a converging sequence of exponential L\'evy models, we give conditions under which the associated sequence of option prices converges. We also study the behaviour of the prices when no such convergence holds. We then consider two special cases, first when the martingale measure is chosen by minimisation of entropy and then when it minimises Hellinger integrals.

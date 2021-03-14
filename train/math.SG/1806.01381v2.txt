@@ -1,0 +1,1 @@
+This note explains how to deduce the wall-crossing formula for toric mutations established by Pascaleff-Tonkonog from the perverse schober of the corresponding local Landau-Ginzburg model. Along the way, we develop a general framework to extract a wall-crossing formula from a perverse schober on the projective line with a single critical point.

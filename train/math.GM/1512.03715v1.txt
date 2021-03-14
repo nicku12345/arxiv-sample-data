@@ -1,0 +1,1 @@
+In this paper the sum of an orthogonal matrix and an outer product is studied, and a relation between the norms of the vectors forming the outer product and the singular values of the resulting matrix is presented. The main result may be found in Theorem 1.

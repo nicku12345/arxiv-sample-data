@@ -1,0 +1,1 @@
+Let R be any ring containing a non-tivial idempotent element e. Let \Im: R\rightarrow R be a mapping such that \Im(ab)=\Im(b)a+b\Im(a) for all a,b\in R. In this note, our aim is to show that under some suitable restrictions imposed on R, \Im is additive.

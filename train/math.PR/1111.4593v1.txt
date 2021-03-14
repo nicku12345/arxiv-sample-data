@@ -1,0 +1,1 @@
+There exists a graph with two vertices x and y such that the ratio of the heat kernels p(x,x;t)/p(y,y;t) does not converge as t goes to infinity.

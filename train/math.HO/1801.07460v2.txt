@@ -1,0 +1,1 @@
+This article shows how to find the solution of an arbitrary quintic equation by performing two simultaneous folds on a sheet of paper. The folds achieve specific incidences between a set of points and lines that are determined by the coefficients of the quintic. Complete equations for computing the set are given, and their application is illustrated with an example.

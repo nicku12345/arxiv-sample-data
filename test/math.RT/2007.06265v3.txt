@@ -1,0 +1,1 @@
+In this article the zonal spherical functions of the Gelfand pair (G(r,d,n), S_n) of complex reflection groups will be calculated. After this, a product formula for these spherical functions and a discrete analog of the Laplace operator which has the spherical functions as eigenfunctions will be given.

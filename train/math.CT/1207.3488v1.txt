@@ -1,0 +1,1 @@
+We generalize the constructions of [17,19] to layered semirings, in order to enrich the structure and provide finite examples for applications in arithmetic (including finite examples). The layered category theory of [19] is extended accordingly, to cover noncancellative monoids.

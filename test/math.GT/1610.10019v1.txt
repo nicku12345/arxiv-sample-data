@@ -1,0 +1,1 @@
+Motivated by a recent paper of Gabai on the Whitehead contractible 3-manifold, we investigate contractible manifolds M^n which decompose or split as M^n = A \cup_C B where A,B,C \approx \mathbb{R}^n or A,B,C \approx \mathbb{B}^n. Of particular interest to us is the case n=4. Our main results exhibit large collections of 4-manifolds that split in this manner.

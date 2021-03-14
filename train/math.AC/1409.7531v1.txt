@@ -1,0 +1,1 @@
+We prove that sequentially Cohen-Macaulay rings in positive characteristic, as well as sequentially Cohen-Macaulay Stanley-Reisner rings in any characteristic, have trivial Lyubeznik table. Some other configurations of Lyubeznik tables are also provided depending on the deficiency modules of the ring.

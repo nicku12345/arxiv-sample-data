@@ -1,0 +1,1 @@
+We study arithmetic properties of tangent cones associated to affine monomial curves, using the concept of gluing. In particular we characterize the Cohen-Macaulay and Gorenstein properties of tangent cones of some families of monomial curves obtained by gluing. Moreover, we provide new families of monomial curves with non--decreasing Hilbert functions.

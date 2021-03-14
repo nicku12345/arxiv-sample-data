@@ -1,0 +1,1 @@
+We prove that the Hurewicz property is not preserved by finite products in the Miller model. This is a consequence of the fact that Miller forcing preserves ground model \gamma-spaces.

@@ -1,0 +1,1 @@
+This paper contains an alternate proof of the Schanuel Nullstellensatz for Zilber's Pseudoexponentiation. Furthermore, in an algebraically closed exponential field whose exponential map is surjective with standard kernel, this property follows from the field being exponentially algebraically closed.

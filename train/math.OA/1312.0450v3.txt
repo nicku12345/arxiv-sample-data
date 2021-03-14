@@ -1,0 +1,1 @@
+Let M be a von Neumann algebra of type II_1 which is also a complemented subspace of B(H). We establish an algebraic criterion, which ensures that M is an injective von Neumann algebra. As a corollary we show that if M is a complemented factor of type II_1 on a Hilbert space H, then M is injective if its fundamental group is non-trivial.

@@ -1,0 +1,1 @@
+In this work, oriented for students with knowledge of basics of linear algebra, we demonstrate, how the use of polar decomposition allows one to understand metric properties of non-degenerate linear operators in R^2.

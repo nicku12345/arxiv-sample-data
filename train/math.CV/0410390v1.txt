@@ -1,0 +1,1 @@
+We prove that for any complex manifold X, the set of all holomorphic maps from the unit disc to X whose images are everywhere dense in X forms a dense subset in the space of all holomorphic maps from the disc to X. We show by an example that this need not hold for maps from the disc to complex spaces with singularities.

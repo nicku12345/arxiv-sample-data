@@ -1,0 +1,1 @@
+At a social gathering of mathematicians, Herb Wilf noted that the numbers \zeta(k) - 1 sum to 1, and challenged the assembly to interpret the sequence as probabilities in some interesting number theoretic context. This short note provides one such interpretation.

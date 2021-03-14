@@ -1,0 +1,1 @@
+We define comodule algebras and Galois extensions for actions of bialgebroids. Using just module conditions we characterize the Frobenius extensions that are Galois as depth two and right balanced extensions. As a corollary, we obtain characterizations of certain weak and ordinary Hopf-Galois extensions without reference to action in the hypothesis.

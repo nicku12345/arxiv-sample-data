@@ -1,0 +1,1 @@
+Using a result from ergodic Ramsey theory, we answer a question posed by B\`es, Martin, Peris and Shkarin by showing a mixing operator T on a Hilbert space such that the tuple (T, T^2) is not disjoint transitive.

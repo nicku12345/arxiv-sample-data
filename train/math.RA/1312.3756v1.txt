@@ -1,0 +1,1 @@
+We look at value functions of primes in simple Artinian rings and associate arithmetical pseudo-valuations to Dubrovin valuation rings which, in the Noetherian case, are \mathbb{Z}-valued. This allows a divisor theory for bounded Krull domains.

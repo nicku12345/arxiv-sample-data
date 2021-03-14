@@ -1,0 +1,1 @@
+Let (X,d) be a metric space and X_0 be an open and dense subset of X. We develop the Walters' theory and discuss the existence of conformal measures in terms of the Perron-Frobenius-Ruelle operator for a continuous map T:X_0\rightarrow X and the Bowen formula about Hausdorff dimension and Poincar\'e exponent of some invariant subsests for T with some expanding property.

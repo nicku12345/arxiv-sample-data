@@ -1,0 +1,1 @@
+We show that the same similarity characterization obtained for Cowen-Douglas operators to the backward shift operators on reproducing kernel Hilbert spaces with analytic kernels can be used to describe similarity in the Dirichlet space setting. As in previous proofs, a model theorem that allows one to get the eigenvector bundle structure of the operator plays a crucial role.

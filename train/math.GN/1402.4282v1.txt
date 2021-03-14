@@ -1,0 +1,1 @@
+It is shown that if a T_2 topological space contains an uncountable closed discrete set, then \omega_1 \times (\omega_1 + 1) embeds as a closed subspace of (CL(X),\tau_F), the hyperspace of nonempty closed subsets of X equipped with the Fell topology.

@@ -1,0 +1,1 @@
+A new method for constructing aperiodic tilings is presented. The method is illustrated by constructing a particular tiling and its hull. The properties of this tiling and the hull are studied. In particular it is shown that these tilings have a substitution rule, that they are nonperiodic, aperiodic, limitperiodic and pure point diffractive.

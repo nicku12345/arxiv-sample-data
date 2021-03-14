@@ -1,0 +1,1 @@
+In this paper we provide a complete answer to a question by Heyman and Shparlinski concerning the natural density of polynomials which are irreducible by Eisenstein's criterion after applying some shift. The main tool we use is a local to global principle for density computations over a free \mathbb Z-module of finite rank.

@@ -1,0 +1,1 @@
+We prove that given four arbitrary quaternion numbers of norm 1 there always exists a 2\times 2 symplectic matrix for which those numbers are left eigenvalues. The proof is constructive. An application to the LS category of Lie groups is given.

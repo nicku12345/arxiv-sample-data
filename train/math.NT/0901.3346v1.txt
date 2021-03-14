@@ -1,0 +1,1 @@
+Let z be a primitive fifth root of unity and let F be the cyclotomic field F=Q(z). Let O be the ring of integers. We compute the Voronoi polyhedron of binary Hermitian forms over F and classify GL_2(O)-conjugacy classes of perfect forms. The combinatorial data of this polyhedron can be used to compute the cohomology of the arithmetic group GL_2(O) and Hecke eigen forms.

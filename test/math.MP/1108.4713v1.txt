@@ -1,0 +1,1 @@
+In this paper, we prove the conjecture for the coefficients of the two variable generating function used in our previous paper. The conjecture was tested numerically before, but its proof was lacking up to now.

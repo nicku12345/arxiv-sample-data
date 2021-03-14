@@ -1,0 +1,1 @@
+In this paper we study two-sided (left and right) axially symmetric solutions of a generalized Cauchy-Riemann operator. We present three methods to obtain special solutions: via the Cauchy-Kowalevski extension theorem, via plane wave integrals and Funk-Hecke's formula and via primitivation. Each of these methods is effective enough to generate all the polynomial solutions.

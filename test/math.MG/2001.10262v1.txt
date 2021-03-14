@@ -1,0 +1,1 @@
+Inspired by the concept of hyperconvexity and its relation to curvature, we translate geometric properties of a metric space encoded by the curvature inequalities into the persistent homology induced by the \v{C}ech filtration of that space.

@@ -1,0 +1,1 @@
+We consider various homological operations on homology of quandles. We introduce the notion of quandle partial derivatives, and extreme chains on which appropriate partial derivatives vanish. Extreme chains yield homological operations. We also consider the degree one homology operations created using elements of the quandle satisfying the so-called k-condition.

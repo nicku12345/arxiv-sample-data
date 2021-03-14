@@ -1,0 +1,1 @@
+We construct a graph of Kummer elements in a given cyclic algebra of prime degree and study its properties. In case of degree 5, we provide sufficient conditions for two elements to have a chain of Kummer elements connecting them, such that the multiplicative commutator of any two consecutive elements in the chain is a root of unity.

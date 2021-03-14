@@ -1,0 +1,1 @@
+We classify thick tensor ideals of finite objects in the category of rational torus-equivariant spectra, showing that they are completely determined by geometric isotropy. This is essentially equivalent to showing that the Balmer spectrum is the set of closed subgroups under cotoral inclusion. Corresponding statements are deduced for toral spectra for general groups.

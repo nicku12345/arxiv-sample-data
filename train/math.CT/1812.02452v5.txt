@@ -1,0 +1,1 @@
+We determine internal characterisations for when a tensor category is (super) tannakian, for fields of positive characteristic. This generalises the corresponding characterisations in characteristic zero by P. Deligne. We also explore notions of Frobenius twists in tensor categories in positive characteristic.

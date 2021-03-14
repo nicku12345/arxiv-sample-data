@@ -1,0 +1,1 @@
+Let G_1 \times G_2 be a subgroup of \mathrm{SO}_3(\mathbb{R}) such that the two factors G_1 and G_2 are non-trivial groups. We show that if G_1 \times G_2 is not abelian, then one factor is the (abelian) group of order 2, and the other factor is non-abelian and contains an element of order 2. There exist finite and infinite such non-abelian subgroups.

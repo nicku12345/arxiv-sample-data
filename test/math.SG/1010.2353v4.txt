@@ -1,0 +1,1 @@
+Given a J-holomorphic Morse function on a symplectic manifold, a new construction of the Fukaya-Seidel category is outlined. Applying this construction in an infinite dimensional case, a Fukaya-Seidel-type category is associated to a smooth three-manifold. In this case the construction is based on a five-dimensional gauge theory.

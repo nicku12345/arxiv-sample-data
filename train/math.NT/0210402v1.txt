@@ -1,0 +1,1 @@
+In this note we relate the property of a semisimple l-adic Galois representation being "F-split" for a number field F to its having abelian image. By F-split we mean that the characteristic polynomials of Frobenii all split in F.

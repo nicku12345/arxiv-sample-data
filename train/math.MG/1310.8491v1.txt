@@ -1,0 +1,1 @@
+Denote by \mathcal{A}(\kappa) the set of all compact Alexandrov surfaces with curvature bounded below by \kappa without boundary, endowed with the topology induced by the Gromov-Hausdorff metric. We determine the connected components of \mathcal{A}(\kappa) and of its closure.

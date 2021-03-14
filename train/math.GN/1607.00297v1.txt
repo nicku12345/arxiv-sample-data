@@ -1,0 +1,1 @@
+We give a new characterization of Valdivia compact spaces: A compact space is Valdivia if and only if it has a dense commutatively monotonically retractable subspace. This result solves Problem 5.12 from \cite{sal-rey}. Besides, we introduce the notion of full c-skeleton and prove that a compact space is Corson if and only if it has a full c-skeleton.

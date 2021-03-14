@@ -1,0 +1,1 @@
+Motivated by the concept of clean ideals, we introduce the notion of weakly clean ideals. We define an ideal I of a ring R to be weakly clean ideal if for any x\in I, x=u+e or x=u-e, where u is a unit in R and e is an idempotent in R. We discuss various properties of weakly clean ideals.

@@ -1,0 +1,1 @@
+The aim of this paper is to introduce and investigate a new class of functions called weakly almost contra-T^*-continuity which is defined as a function from an operator topological space (X, \tau, T) into an arbitrary topological space (Y, \delta). Furthermore, some new characterizations, several basic propositions are proved and some relevant counterexamples are provided.

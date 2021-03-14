@@ -1,0 +1,1 @@
+It has long been known that a Milnor invariant with no repeated index is an invariant of link homotopy. We show that Milnor's invariants with repeated indices are invariants not only of isotopy, but also of self C_k-moves. A self C_k-move is a natural generalization of link homotopy based on certain degree k clasper surgeries, which provides a filtration of link homotopy classes.

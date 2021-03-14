@@ -1,0 +1,1 @@
+Let I\subset S=K[x_1,...,x_n] be a lexsegment edge ideal or the Alexander dual of such an ideal. In both cases it turns out that the arithmetical rank of I is equal to the projective dimension of S/I.

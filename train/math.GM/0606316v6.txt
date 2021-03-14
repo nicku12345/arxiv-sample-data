@@ -1,0 +1,1 @@
+In this note, we approximate the average of prime powers in the decomposition of n! into prime numbers.

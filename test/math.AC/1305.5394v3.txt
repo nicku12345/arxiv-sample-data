@@ -1,0 +1,1 @@
+Let W_3(n) be the set of Waring ranks of reducible cubic forms in n+1 variables. We prove that W_3(n)\subseteq \lbrace 1,..., 2n+1\rbrace.

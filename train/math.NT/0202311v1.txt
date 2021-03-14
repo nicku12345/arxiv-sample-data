@@ -1,0 +1,1 @@
+Let E_k denote the elliptic curve defined by y^2 = x(x^2 - k^2). We consider the curves with k = pl, p = l = 1 mod 8 primes, and show that the density of rank-0 curves among them is at least 1/2 by explicitly constructing nontrivial elements in the 2-part of the Tate-Shafarevich group of E_k.

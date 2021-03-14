@@ -1,0 +1,1 @@
+We prove that the Bochi-Ma\~{n}\'{e} theorem is false, in general, for linear cocycles over non-invertible maps: there are C0-open subsets of linear cocycles that are not uniformly hyperbolic and yet have Lyapunov exponents bounded from zero.

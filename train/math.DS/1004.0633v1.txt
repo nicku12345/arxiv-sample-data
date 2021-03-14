@@ -1,0 +1,1 @@
+We prove the decoration theorem for the Mandelbrot set (and Multibrot sets) which says that when a "little Mandelbrot set" is removed from the Mandelbrot set, then most of the resulting connected components have small diameters.

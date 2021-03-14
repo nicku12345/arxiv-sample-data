@@ -1,0 +1,1 @@
+We construct a family (\mathcal{X}_\al)_{\al\le \omega_1} of reflexive Banach spaces with long transfinite bases but with no unconditional basic sequences. In our spaces \mathcal{X}_\al every bounded operator T is split into its diagonal part D_T and its strictly singular part S_T.

@@ -1,0 +1,1 @@
+In this paper we discuss a method to apply Quantization rules for arbitrary Hamiltonians that are not necessarily Polynomials in variable p, so we have H of the form H(x,p)=F(x,p)+g(x) the method uses the results of "Fractional Calculus" for derivatives and integrals.

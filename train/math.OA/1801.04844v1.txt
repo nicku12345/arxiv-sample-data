@@ -1,0 +1,1 @@
+Any finite algebraic Galois covering corresponds to an algebraic Morita equivalence. Here the C^*-algebraic analog of this fact is proven, i.e. any noncommutative finite-fold covering corresponds to a strong Morita equivalence.

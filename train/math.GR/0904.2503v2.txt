@@ -1,0 +1,1 @@
+Let G be a finite group, p a fixed prime and P a Sylow p-subgroup of G. In this short note we prove that if p is odd, G is p-nilpotent if and only if P controls fusion of cyclic groups of order p. For the case p=2, we show that G is p-nilpotent if and only if P controls fusion of cyclic groups of order 2 and 4.

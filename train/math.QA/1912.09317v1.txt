@@ -1,0 +1,1 @@
+A chain of quantum subgroups of the quantum automorphism group of finite graphs has been introduced. It generalizes the construction of J. Bichon (see [3]) in a sense. A better bound of the non zero eigenvalues of the graph Laplacian has been obtained using the chain of quantum subgroups.

@@ -1,0 +1,1 @@
+The first nontrivial eigenvalue of the Laplacian can be considered as a functional on the space of all Riemannian metrics of unit volume on a fixed surface. In this paper we prove that for the surface of genus 2 the supremum of this functional is equal to 16\pi. This provides a positive answer to the conjecture by Jakobson, Levitin, Nadirashvili, Nigam and Polterovich.

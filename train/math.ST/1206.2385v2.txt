@@ -1,0 +1,1 @@
+In this paper I provide simple and easily verifiable conditions under which a strong form of stochastic equicontinuity holds in a wide variety of modern time series models. In contrast to most results currently available in the literature, my methods avoid mixing conditions. I discuss several applications in detail.

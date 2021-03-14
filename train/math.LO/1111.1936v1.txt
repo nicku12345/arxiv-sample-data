@@ -1,0 +1,1 @@
+We study a class of formulas generalizing the weak law of the excluded middle, and provide a characterization of these formulas in terms of Kripke frames and Brouwer algebras. We use these formulas to separate logics corresponding to factors of the Medvedev lattice.

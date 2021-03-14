@@ -1,0 +1,1 @@
+Suppose we are given a symmetric operator T acting on a subspace of L2{M,m} where M is a connected manifold and m is a measure positive on open sets. Then there is at most one eigenspace that contains a real valued eigenfunction whose set of zeros has dimension less than n minus one, where n is the dimension of M.

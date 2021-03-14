@@ -1,0 +1,1 @@
+We completely describe the structure of the connected components of transversals to a collection of n line segments in R^3. We show that n>2 arbitrary line segments in R^3 admit 0, 1, ..., n or infinitely many line transversals. In the latter case, the transversals form up to n connected components.

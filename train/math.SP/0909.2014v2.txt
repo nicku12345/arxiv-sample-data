@@ -1,0 +1,1 @@
+For the Toeplitz quantization of complex-valued functions on a 2n-dimensional torus we prove that the expected number of eigenvalues of small random perturbations of a quantized observable satisfies a natural Weyl law. In numerical experiments the same Weyl law also holds for ``false'' eigenvalues created by pseudospectral effects.

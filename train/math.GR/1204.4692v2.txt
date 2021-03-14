@@ -1,0 +1,1 @@
+We prove that there is an algorithm to determine whether a tuple of elements in a toral relatively hyperbolic group G is in the automorphic orbit of the other tuple.

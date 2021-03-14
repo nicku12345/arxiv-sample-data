@@ -1,0 +1,1 @@
+We show that the half-perimeter generating functions for the number of Wicketed and Gated Ferrers diagrams is algebraic. Furthermore, the generating function of the Wicketed Ferrers diagrams is closely related to the generating function of the Catalan numbers. The methodology of the experimentation as well as the proof is the umbral transfer matrix method.

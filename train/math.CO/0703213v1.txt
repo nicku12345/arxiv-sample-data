@@ -1,0 +1,1 @@
+Sylvester's identity is a classical determinantal identity with a straightforward linear algebra proof. We present a new, combinatorial proof of the identity, prove several non-commutative versions, and find a \beta-extension that is both a generalization of Sylvester's identity and the \beta-extension of the MacMahon master theorem.

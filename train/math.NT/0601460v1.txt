@@ -1,0 +1,1 @@
+We study the function \Theta(x,y,z) that counts the number of positive integers n\le x which have a divisor d>z with the property that p\le y for every prime p dividing d. We also indicate some cryptographic applications of our results.

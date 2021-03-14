@@ -1,0 +1,1 @@
+We extend the well known criteria of reflexivity of Banach lattices due to Lozanovsky and Lotz to the class of finitely generated Banach C(K)- modules. Namely we prove that a finitely generated Banach C(K)-module is reflexive if and only if it does not contain any subspace isomorphic to either l^1 or c_0.

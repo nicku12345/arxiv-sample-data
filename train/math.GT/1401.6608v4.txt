@@ -1,0 +1,1 @@
+We generalize the construction of the Heegaard Floer homology for a singular knot to that for a balanced bipartite graph. For a given graph, we provide a combinatorial description of the Euler characteristic of its Heegaard Floer homology by using the "Kauffman states" on a graph diagram.

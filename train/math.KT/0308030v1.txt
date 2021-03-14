@@ -1,0 +1,1 @@
+We prove the Farrell-Jones Isomorphism Conjecture about the algebraic K-theory of a group ring RG in the case where the group G is the fundamental group of a closed Riemannian manifold with strictly negative sectional curvature. The coefficient ring R is an arbitrary associative ring with unit and the result applies to all dimensions.

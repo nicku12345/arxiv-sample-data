@@ -1,0 +1,1 @@
+We prove that the ZX-calculus is incomplete for quantum mechanics. We suggest the addition of a new 'color-swap' rule, of which currently no analytical formulation is known and which we suspect may be necessary, but not sufficient to make the ZX-calculus complete.

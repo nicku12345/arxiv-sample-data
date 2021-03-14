@@ -1,0 +1,1 @@
+In this short work we give a very short and elementary proof of the injectivity lemma, which plays an important role in the Tannakian duality for Hopf algebras over a field. Based on this we provide some generalizations of this fact to the case of flat algebras over a noetherian domain.

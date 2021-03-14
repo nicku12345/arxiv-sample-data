@@ -1,0 +1,1 @@
+In this paper,we will study the boundedness properties of commutator \[ C_{f}=[ f,\Delta] \] acting from \overset{.}{H}^{1}(\mathbb{R}^{d})  to \overset{.}{H}^{-1}(\mathbb{R}^{d}) .

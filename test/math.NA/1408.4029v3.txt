@@ -1,0 +1,1 @@
+We discuss the application of multistep collocation methods to Volterra integral equations which contain a weakly singular kernel (t-\tau)^{\alpha-1} with 0 <\alpha <1. Convergence orders of the methods are determined and their superconvergence is also analyzed. The paper closes with numerical examples and application to fractional differential equations.

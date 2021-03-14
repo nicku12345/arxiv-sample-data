@@ -1,0 +1,1 @@
+The Lyapunov exponents of GL(2)-cocycles over Markov shifts depend continuously on the underlying data, that is, on the matrix coefficients and the Markov measure transition probabilities.

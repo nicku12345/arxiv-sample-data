@@ -1,0 +1,1 @@
+Stochastic linear combinations of some random vectors are studied where the distribution of the random vectors and the joint distribution of their coefficients are Dirichlet. A method is provided for calculating the distribution of these combinations which has been studied before by some authors. Our main result is a generalization of some existing results with a simpler proof.

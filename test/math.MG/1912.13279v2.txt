@@ -1,0 +1,1 @@
+Let \mathbb{G} be any Carnot group. We prove that if a convolution type singular integral associated with a 1-dimensional Calder\'on-Zygmund kernel is L^2-bounded on horizontal lines, with uniform bounds, then it is bounded in L^p, p \in (1,\infty), on any compact C^{1,\alpha}, \alpha \in (0,1], regular curve in \mathbb{G}.

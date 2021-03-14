@@ -1,0 +1,1 @@
+We generalize Ramanujan method of approximating the smallest root of an equation which is found in Ramanujan Note books, Part-I. We provide simple analytical proof to study convergence of this method. Moreover, we study iterative approach of this method on approximating a root with arbitrary order of convergence.

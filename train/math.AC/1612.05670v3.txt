@@ -1,0 +1,1 @@
+This is an expository paper in which it is proved that, for every infinite field {\mathbf{F}}, the polynomial ring {\mathbf{F}}[t_1,\ldots, t_n] has Krull dimension n. The proof uses only "high school algebra" and the rudiments of undergraduate "abstract algebra."

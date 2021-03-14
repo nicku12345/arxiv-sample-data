@@ -1,0 +1,1 @@
+In this paper we identify the ``nil-terms'' for Waldhausen's algebraic K-theory of spaces functor as the reduced K-theory of a category of equivariant spaces equipped with a homotopically nilpotent endomorphism.

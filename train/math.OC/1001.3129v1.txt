@@ -1,0 +1,1 @@
+We provide a full self-contained proof of a famous Lemma of Ilmanen. This proof is based on a regularisation procedure similar to Lasry-Lions regularisation.

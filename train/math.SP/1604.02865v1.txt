@@ -1,0 +1,1 @@
+The commuting graph of a non-commutative ring R with center Z(R) is a simple undirected graph whose vertex set is R\setminus Z(R) and two vertices x, y are adjacent if and only if xy = yx. In this paper, we compute the spectrum and genus of commuting graphs of some classes of finite rings.

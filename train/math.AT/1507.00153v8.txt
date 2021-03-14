@@ -1,0 +1,1 @@
+The rational Pontryagin classes, evaluated on fiber bundles where the fiber is a 2n-dimensional euclidean space, can be nonzero in cohomology dimensions much greater than 4n. This makes a striking contrast with the Pontryagin classes of vector bundles.

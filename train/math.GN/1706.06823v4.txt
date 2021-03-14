@@ -1,0 +1,1 @@
+We show that the openness of the idempotent barycenter map is equivalent to the openness of the map of Max-Plus convex combination. As corollary we obtain that the idempotent barycenter map is open for the spaces of idempotent measures.

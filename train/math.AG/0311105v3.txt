@@ -1,0 +1,1 @@
+For a variety with a finitely generated total coordinate ring, we describe basic geometric properties in terms of certain combinatorial structures living in its divisor class group. For example, we describe the singularities, we calculate the ample cone, and we give simple Fano criteria. As we show by means of several examples, these results allow explicit computations.

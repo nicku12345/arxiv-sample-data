@@ -1,0 +1,1 @@
+Let G be a finite group. This expository article explores the subject of commuting probability in the group G and its relation with simultaneous conjugacy classes of commuting tuples in G. We also point out the relevance of this topic in context of topology where similar problems are studied when G is a Lie group.

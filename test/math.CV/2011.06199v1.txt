@@ -1,0 +1,1 @@
+In this paper, we study the Lambert-Tsallis function, which is a generalization of the Lambert function with two real parameters. We give a condition on the parameters such that there exists a complex domain touching zero on boundary which is mapped bijectively to the upper half plane by the Lambert-Tsallis function.

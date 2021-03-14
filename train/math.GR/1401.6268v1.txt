@@ -1,0 +1,1 @@
+In this paper, we study the structure of the rings of Fricke characters of free abelian groups. More precisely, we consider a descending filtration of ideals in the ring, and give a basis of its graded quotients. Then by using this fact, we show that the ring of Fricke characters of a free aberian group is an integral domain.

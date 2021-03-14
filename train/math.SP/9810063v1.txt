@@ -1,0 +1,1 @@
+We define the concept of instability index of an isolated eigenvalue of a non-self-adjoint operator, and prove some of its general properties. We also describe a stable procedure for computing this index for Schroedinger operators in one dimension, and apply it to the complex resonances of a typical operator with a dilation analytic potential.

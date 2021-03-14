@@ -1,0 +1,1 @@
+We consider the concept of generalized measure-theoretic entropy, where instead of the Shannon entropy function we consider an arbitrary concave function defined on the unit interval, vanishing in the origin. Under mild assumptions on this function we show that this isomorphism invariant is linearly dependent on the Kolmogorov-Sinai entropy.

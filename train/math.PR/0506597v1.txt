@@ -1,0 +1,1 @@
+We consider a totally monotone capacity on a Polish space and a sequence of bounded p.i.i.d. random variables. We show that, on a full set, any cluster point of empirical averages lies between the lower and the upper Choquet integrals of the random variables, provided either the random variables or the capacity are continuous.

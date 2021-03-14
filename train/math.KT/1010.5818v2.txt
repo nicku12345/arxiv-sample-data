@@ -1,0 +1,1 @@
+We define the notion of equivariant Hopf Galois extension and apply it as a functor between category of SAYD modules of the Hopf algebras involving in the extension. This generalizes the result of Jara-Stefan and B\"ohm-Stefan on associating a SAYD modules to any ordinary Hopf Galois extension.

@@ -1,0 +1,1 @@
+We consider suitable weak solutions of the incompressible Navier--Stokes equations in two cases: the 4D time-dependent case and the 6D stationary case. We prove that up to the boundary, the two-dimensional Hausdorff measure of the set of singular points is equal to zero in both cases.

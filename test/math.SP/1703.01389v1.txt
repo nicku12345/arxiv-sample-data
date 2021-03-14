@@ -1,0 +1,1 @@
+The purpose of this expository note is to revisit Morawetz's method for obtaining a lower bound on the rate of exponential decay of waves for the Dirichlet problem outside star-shaped obstacles, and to discuss the uniqueness of the sphere as the extremizer of the sharp lower bound proved by Ralston.

@@ -1,0 +1,1 @@
+Let S be the set of those \alpha\in\omega_2 that have cofinality \omega_1. It is consistent relative to a measurable that the nonempty player wins the pressing down game of length \omega_1, but not the Banach Mazur game of length \omega+1 (both games starting with S).

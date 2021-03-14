@@ -1,0 +1,1 @@
+In this article, we prove a Legendrian Whitney trick which allows for the removal of intersections between codimension-two contact submanifolds and Legendrian submanifolds, assuming such a smooth cancellation is possible. This technique is applied to show the existence h-principle for codimension-two contact embeddings with a prescribed contact structure.

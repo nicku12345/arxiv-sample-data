@@ -1,0 +1,1 @@
+Let X be a cubic hypersurface in \mathbb P^6 or a hypersurface of degree greater than equal to 7 in \mathbb P^5. In this note we try to understand, for a very general hyperplane section of X, the non-injectivity locus of the corresponding push-forward homomorphism at the level of Chow group of certain dimension.

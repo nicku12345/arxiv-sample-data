@@ -1,0 +1,1 @@
+We define locally trivial quantum vector bundles (QVB) and QVB associated to locally trivial quantum principal fibre bundles. There exists a differential structure on the associated vector bundle coming from the differential structure on the principal bundle, which allows to define connections on the associated vector bundle associated to connections on the principal bundle.

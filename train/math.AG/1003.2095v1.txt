@@ -1,0 +1,1 @@
+The projective line over a field carries structure of a groupoid with a certain correspondence between objects and arrows. We discuss to what extent the field can be reconstructed from the groupoid.

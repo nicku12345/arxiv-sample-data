@@ -1,0 +1,1 @@
+Chung, Diaconis, and Graham considered random processes of the form X_{n+1}=a_n X_n+b_n (mod p) where p is odd, X_0=0, a_n=2 always, and b_n are i.i.d. for n=0,1,2,... . In this paper, we show that if P(b_n=-1)=P{b_n=0)=P(b_n=1)=1/3, then there exists a constant c>1 such that c log_2 p steps are not enough to make X_n get close to uniformly distributed on the integers mod p.

@@ -1,0 +1,1 @@
+We propose an improved algorithm for finding roots of polynomials over finite fields. This makes possible significant speedup of the decoding process of Bose-Chaudhuri-Hocquenghem, Reed-Solomon, and some other error-correcting codes.

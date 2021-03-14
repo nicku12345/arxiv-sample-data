@@ -1,0 +1,1 @@
+We prove certain weighted Strichartz estimates and use these to prove a sharp theorem for global existence of small amplitude solutions of \square u= |u|^p, thus verifying the so-called "Strauss conjecture".

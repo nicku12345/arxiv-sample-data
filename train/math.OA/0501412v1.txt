@@ -1,0 +1,1 @@
+Using ideas of S. Wassermann on non-exact C^*-algebras and property T groups, we show that one of his examples of non-invertible C*-extensions is not semi-invertible. To prove this, we show that a certain element vanishes in the asymptotic tensor product. We also show that a modification of the example gives a C*-extension which is not even invertible up to homotopy.

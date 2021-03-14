@@ -1,0 +1,1 @@
+We prove that the Baire Category Theorem is equivalent to the following: Let G be a topological groupoid such that the unit space is a complete metric space, and there is a countable cover of G by neighbourhood bisections. If G is effective, then G is topologically principal.

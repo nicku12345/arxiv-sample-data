@@ -1,0 +1,1 @@
+We define the concept of regularity for bigraded modules and bigraded polynomial ring. In this setting we prove analogs of some of the classical results on m-regularity for graded modules over polynomial algebras.

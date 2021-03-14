@@ -1,0 +1,1 @@
+We prove that each simple polygonal arc {\gamma} attains at most two pairs of support lines of given angle difference such that each pair has s1 < s2 < s3 that {\gamma}(s1) and {\gamma}(s3) are on one such line and {\gamma}(s2) is on the other line.

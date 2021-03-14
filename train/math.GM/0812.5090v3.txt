@@ -1,0 +1,1 @@
+We show some definite integrals connecting to infinite series, studied in Ramanujan's paper, titled "On question 330 of Professor Sanjana". We present few recursive methods to evaluate these definite integrals in various cases and we generalize this, to evaluate simliar kind of integrals through infinite series.

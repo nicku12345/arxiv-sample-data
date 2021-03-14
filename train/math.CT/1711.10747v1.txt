@@ -1,0 +1,1 @@
+This paper provides several characterizations of final functors between internal groupoids in Barr-exact categories. In particular, it is proved that an internal functor between groupoids is final if and only if it is full and essentially surjective.

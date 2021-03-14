@@ -1,0 +1,1 @@
+Let (S,\mathfrak{m},k) and (T,\mathfrak{n},k) be local rings, and let R denote their fiber product over their common residue field k. Inspired by work of Naseh and Sather-Wagstaff, we explore consequences of vanishing of {\rm Tor}^R_m(M,N) for various values of m, where M and N are finitely generated R-modules.

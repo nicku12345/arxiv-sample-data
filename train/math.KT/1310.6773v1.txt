@@ -1,0 +1,1 @@
+This is a reproduction of my thesis. By using higher K-theory(Chern character, cyclic homology, effacement theorem and etc), we provide an answer to a question by Green- Griffiths which says the tangent sequence to Bloch-Gersten-Quillen sequence is Cousin resolution.

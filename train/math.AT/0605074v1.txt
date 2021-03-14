@@ -1,0 +1,1 @@
+We compute the integral homology (including torsion), the topological K-theory, and the Hodge structure on cohomology of Calabi-Yau threefold hypersurfaces and complete intersections in Gorenstein toric Fano varieties. The methods are purely topological.

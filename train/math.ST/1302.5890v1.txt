@@ -1,0 +1,1 @@
+The purpose of this paper is to estimate the self-similarity index of the Rosenblatt process by using the Whittle estimator. Via chaos expansion into multiple stochastic integrals, we establish a non-central limit theorem satisfied by this estimator. We illustrate our results by numerical simulations.

@@ -1,0 +1,1 @@
+Let M be a finitely generated module of dimension d and depth t over a Noetherian local ring (A, {\mathfrak m}) and I an {\mathfrak m}-primary ideal. In the main result it is shown that the last t Hilbert coefficients e_{d-t+1}(I,M),..., e_d(I,M) are bounded below and above in terms of the first d-t+1 Hilbert coefficients e_0(I,M),...,e_{d-t}(I,M) and d.

@@ -1,0 +1,1 @@
+These notes present an approach to obtaining the basic operations of addition and multiplication on the natural numbers in terms of elementary results about commutative monoids.

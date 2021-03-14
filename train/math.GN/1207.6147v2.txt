@@ -1,0 +1,1 @@
+We examine conditions on a (compact metrizable) space X such that for any space Y and closed subspace Z, the set of continuous functions from Z to X which extend to Y is either open or closed in the set of continuous functions from Z to X in the uniform topology.

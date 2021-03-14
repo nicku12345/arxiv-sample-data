@@ -1,0 +1,1 @@
+By a new approximate method, dimensional free Harnack inequalities are established for a class of semilinear stochastic differential equations in Hilbert space with multiplicative noise. These inequalities are applied to study the strong Feller property for the semigroup and some properties of invariant measure.

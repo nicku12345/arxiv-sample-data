@@ -1,0 +1,1 @@
+For p>1 we find the Bellman function of two variables associated with the dyadic maximal operator on Rn.Actually we do that in the more general setting of tree-like maximal operators.We provide a simple and elementary proof,different from those in [4] and [9].

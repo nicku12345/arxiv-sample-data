@@ -1,0 +1,1 @@
+We prove that the rank gradient vanishes for mapping class groups of genus bigger than 1, Aut(F_n), for all n, Out(F_n) for n \geq 3, and any Artin group whose underlying graph is connected. These groups have fixed price 1. We compute the rank gradient and verify that it is equal to the first L^2-Betti number for some classes of Coxeter groups.

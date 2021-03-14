@@ -1,0 +1,1 @@
+Let (M, g_0) be a closed 4-manifold with positive Yamabe invariant and with L^2-small Weyl curvature tensor. Let g_1 \in [g_0] be any metric in the conformal class of g_0 whose scalar curvature is L^2-close to a constant. We prove that the set of Riemannian metrics in the conformal class [g_0] that are isospectral to g_1 is compact in the C^\infty topology.

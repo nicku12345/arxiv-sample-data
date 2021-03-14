@@ -1,0 +1,1 @@
+Let f:S ->B be a relatively minimal fibred surface. In this note we give a partial affirmative answer to a conjecture of Xiao, proving that the direct image of the relative dualizing sheaf of f is ample when the slope of the fibration is less than 4, if the general fibre of f is non-hyperelliptic or the genus of the fibre or of the base curve is low.

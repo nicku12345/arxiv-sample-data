@@ -1,0 +1,1 @@
+We define and show the existence of the quantum symmetry group of a Hilbert module equipped with an orthogonal filtration. Our construction unifies the constructions of Banica-Skalski's quantum symmetry group of a C*-algebra equipped with an orthogonal filtration and Goswami's quantum isometry group of an admissible spectral triple.

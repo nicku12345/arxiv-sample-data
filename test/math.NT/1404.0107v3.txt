@@ -1,0 +1,1 @@
+We provide a framework for using elliptic curves with complex multiplication to determine the primality or compositeness of integers that lie in special sequences, in deterministic quasi-quadratic time. We use this to find large primes, including the largest prime currently known whose primality cannot feasibly be proved using classical methods.

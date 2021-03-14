@@ -1,0 +1,1 @@
+We prove that for all p>1, every relatively hyperbolic group has \ell^p compression exponent equal to the minimum of the exponents of its maximal parabolic subgroups. Moreover, this embedding can be explicitly described in terms of given embeddings of the maximal parabolic subgroups.

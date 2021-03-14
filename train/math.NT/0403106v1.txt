@@ -1,0 +1,1 @@
+We will study the solution of a congruence, x \equiv g^{(1/2)\omega_g(2^n)} \bmod 2^n, depending on the integers g and n, where \omega_g(2^n) denotes the order of g modulo 2^n. Moreover, we introduce an application of the above result to the study of an estimation of exponential sums.

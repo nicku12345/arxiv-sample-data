@@ -1,0 +1,1 @@
+In this paper we prove that for a type II_1 factor N with a Cartan maximal abelian subalgebra (masa), the Hochschild cohomology groups H^n(N,N)=0, for all n \geq 1. This generalizes the result of Sinclair and Smith, who proved this for all N having separable predual.

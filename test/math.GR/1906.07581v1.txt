@@ -1,0 +1,1 @@
+We contribute towards the classification programme for Conway groupoids associated to a 2-(n,4,\lambda) design. Our main results improve the known bounds for a hole stabilizer to be primitive, or to contain the alternating group, {\rm Alt}(n-1). We exploit these improved bounds to give a partial classification for Conway groupoids when \lambda=3.

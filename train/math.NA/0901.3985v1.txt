@@ -1,0 +1,1 @@
+In this paper we present efficient computational and symbolic algorithms for solving a nearly pentadiagonal linear systems. The implementation of the algorithms using Computer Algebra Systems (CAS)such as MAPLE, MACSYMA, MATHEMATICA, and MATLAB is straightforward. Two examples are given in order to illustrate the algorithms.

@@ -1,0 +1,1 @@
+Let W_n^+ be the Lie algebra of the Lie algebra of vector fields on \C^n. In this paper, we classify all simple bounded weight W_n^+ modules. Any such module is isomorphic to the simple quotient of a tensor module F(P,M)=P\otimes M for a simple weight module P over the Weyl algebra K_n^+ and a finite dimensional simple \gl_n module M.

@@ -1,0 +1,1 @@
+In this note we prove a necessary and sufficient condition for the change of variables formula for the HK integral, with implications for the change of variables formula for the Lebesgue integral. As a corollary, we obtain a necessary and sufficient condition for the Fundamental Theorem of Calculus to hold for the HK integral.

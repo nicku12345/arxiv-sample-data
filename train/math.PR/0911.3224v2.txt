@@ -1,0 +1,1 @@
+We present precise asymptotics of the odometer function for the internal Diffusion Limited Aggregation model. These results provide a better understanding of this function whose importance was demonstrated by Levine and Peres. We derive a different proof of a time-scale result by Lawler, Bramson and Griffeath.

@@ -1,0 +1,1 @@
+Let 1 \rightarrow H \rightarrow G \rightarrow \mathbb{Z} \rightarrow 1 be an exact sequence of hyperbolic groups induced by a fully irreducible automorphism \phi of the free group H. Let H_1 (\subset H) be a finitely generated distorted subgroup of G. Then H_1 is of finite index in H. This is an analog of a Theorem of Scott and Swarup for surfaces in hyperbolic 3-manifolds.

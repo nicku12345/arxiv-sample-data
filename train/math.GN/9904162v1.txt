@@ -1,0 +1,1 @@
+By a Knaster continuum we understand the inverse limit of copies of [0,1] with open bonding maps. We prove that for any two Knaster continua K_1 and K_2, there are 2^\aleph_0 distinct homotopy types of maps of K_1 onto K_2 that map the endpoint of K_1 to the endpoint of K_2.

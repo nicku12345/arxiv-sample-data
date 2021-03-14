@@ -1,0 +1,1 @@
+The third eigenvalue of the Robin Laplacian on a simply-connected planar domain of given area is bounded above by the third eigenvalue of a disjoint union of two disks, provided the Robin parameter lies in a certain range and is scaled in each case by the length of the boundary. Equality is achieved when the domain degenerates suitably to the two disks.

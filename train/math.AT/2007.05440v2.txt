@@ -1,0 +1,1 @@
+We produce a canonical highly homotopy-coherent operad structure on the derivatives of the identity functor in spaces via a pairing of cosimplicial objects, providing a new description of an operad structure on such objects first described by Ching. In addition, we show the derived primitives of a commutative coalgebra in spectra form an algebra over this operad.

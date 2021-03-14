@@ -1,0 +1,1 @@
+Recently a new proof was given for Beurling's Ingham type theorem on one-dimensional nonharmonic Fourier series, providing explicit constants. We improve this result by applying a short elementary method instead of the previous complex analytical approach. Our proof equally works in the multidimensional case.

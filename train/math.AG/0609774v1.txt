@@ -1,0 +1,1 @@
+For many classical moduli spaces of orthogonal type there are results about the Kodaira dimension. But nothing is known in the case of dimension greater than 19. In this paper we obtain the first results in this direction. In particular the modular variety defined by the orthogonal group of the even unimodular lattice of signature (2, 8m+2) is of general type if m is at least 5.

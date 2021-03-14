@@ -1,0 +1,1 @@
+A group G is called special p-group of rank k if the commutator subgroup [G,G] and centre Z(G) are equal, which is elementary abelian p-group of rank k and G/[G,G] is also elementary abelian p-group. In this article we determine the Schur multiplier of special p-groups of rank 2 explicitly.

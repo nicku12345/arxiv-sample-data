@@ -1,0 +1,1 @@
+Using a semiclassical approach we show that the spectrum of a smooth Anosov vector field V on a compact manifold is discrete (in suitable anisotropic Sobolev spaces) and then we provide an upper bound for the density of eigenvalues of the operator (-i)V, called Ruelle resonances, close to the real axis and for large real parts.

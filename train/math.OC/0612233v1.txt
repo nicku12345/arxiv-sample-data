@@ -1,0 +1,1 @@
+In this work sufficient conditions expressed by means of single and vector Lyapunov functions of Uniform Input-to-Output Stability (UIOS) and Uniform Input-to-State Stability (UISS) are given for finite-dimensional systems under feedback control with zero order hold.

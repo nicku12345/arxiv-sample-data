@@ -1,0 +1,1 @@
+Let f:A\longrightarrow B be a ring homomorphism and let \mathfrak b be an ideal of B. In this paper we study Pr\"ufer like conditions in the amalgamation of A with B along \mathfrak b, with respect to f, a ring construction introduced in 2009 by D'Anna, Finocchiaro and Fontana.

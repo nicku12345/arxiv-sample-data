@@ -1,0 +1,1 @@
+We apply Davies' method for obtaining pointwise lower bounds on the heat kernels of higher-order differential operators to obtain pointwise lower bounds in the presence of a polynomialy bounded potential.

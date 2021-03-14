@@ -1,0 +1,1 @@
+Let f be an analytic function mapping the unit disk \D to itself. We give necessary and sufficient conditions on the local behavior of f near a finite set of boundary points that requires f to be a finite Blaschke product.

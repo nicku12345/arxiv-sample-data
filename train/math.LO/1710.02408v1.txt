@@ -1,0 +1,1 @@
+We provide a recursive construction of all the semi-Heyting algebras that can be defined on a chain with n elements. This construction allows us to count them easily. We also compare the formula for the number of semi-Heyting chains thus obtained to the one previously known.

@@ -1,0 +1,1 @@
+We generalize Y. Nievergelt's inversion method for the Radon transform on lines in the 2-plane to the k-plane Radon transform of continuous and L^p functions on R^n for all 1\leq k<n.

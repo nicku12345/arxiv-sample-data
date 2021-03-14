@@ -1,0 +1,1 @@
+We prove the existence of an algorithm which solves the reducibility problem in braid groups and runs in quadratic time with respect to the braid length for any fixed braid index.

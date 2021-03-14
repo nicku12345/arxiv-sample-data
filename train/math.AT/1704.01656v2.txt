@@ -1,0 +1,1 @@
+Let G be a compact Lie group. We prove that if V and W are orthogonal G-representations such that V^G=W^G=\{0\}, then a G-equivariant map S(V) \to S(W) exists provided that \dim V^H \leq \dim W^H for any closed subgroup H\subseteq G. This result is complemented by a reinterpretation in terms of divisibility of certain Euler classes when G is a torus.

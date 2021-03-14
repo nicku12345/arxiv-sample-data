@@ -1,0 +1,1 @@
+We consider two interacting connected graded Hopf algebras, the former being a comodule-coalgebra on the latter. We show how to define analogues of Connes-Kreimer's renormalization group and Beta function, when the graduation operator is replaced by any biderivation coming from an infinitesimal character of the second Hopf algebra.

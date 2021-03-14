@@ -1,0 +1,1 @@
+In this note, we generalize the technique developed in [13] and prove that every 5xn matrix of tropical rank at most 3 has Kapranov rank at most 3, for the ground field that contains at least 4 elements. For the ground field either F_2 or F_3, we construct an example of a 5x5 matrix with tropical rank 3 and Kapranov rank 4.

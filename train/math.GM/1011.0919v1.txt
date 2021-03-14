@@ -1,0 +1,1 @@
+In this paper we have suggested a family of estimators for the population mean when study variable itself is qualitative in nature. Expressions for the bias and mean square error (MSE) of the suggested family have been obtained. An empirical study has been carried out to show the superiority of the constructed estimator over others.

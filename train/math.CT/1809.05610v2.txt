@@ -1,0 +1,1 @@
+We develop the notion of left and right Bousfield localizations in proper, cellular symmetric monoidal model categories with cofibrant unit, using homotopy function complexes defined by internal Hom objects instead of Hom sets.

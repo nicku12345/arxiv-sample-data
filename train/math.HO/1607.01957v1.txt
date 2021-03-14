@@ -1,0 +1,1 @@
+We prove that, in any field of characteristic not two and not three except the five-element field, each element decomposes into a product of four factors whose sum vanishes. We also find all k,n,q such that every n\times n matrix over the q-element field decomposes into a product of k commuting matrices whose sum vanishes.

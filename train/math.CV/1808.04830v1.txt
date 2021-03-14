@@ -1,0 +1,1 @@
+We prove that every bi-Lipschitz embedding of the unit circle into the plane can be extended to a bi-Lipschitz map of the unit disk with linear bounds on the constants involved. This answers a question raised by Daneri and Pratelli. Furthermore, every Lipschitz embedding of the circle extends to a Lipschitz homeomorphism of the plane, again with a linear bound on the constant.

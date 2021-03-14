@@ -1,0 +1,1 @@
+This note proves that, for F = \Bbb{R,C} or \Bbb{H}, the bordism classes of all non-bounding Grassmannian manifolds G_k(F^{n+k}), with k < n and having real dimension d, constitute a linearly independent set in the unoriented bordism group {\frak{N}}_d regarded as a {\Bbb{Z}}_2-vector space.

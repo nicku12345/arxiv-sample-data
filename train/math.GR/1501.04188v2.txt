@@ -1,0 +1,1 @@
+We investigate some differential properties for permutations in the affine group, of a vector space V over the binary field, with respect to a new group operation \circ, inducing an alternative vector space structure on V .

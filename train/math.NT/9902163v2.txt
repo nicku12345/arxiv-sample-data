@@ -1,0 +1,1 @@
+We show that for a positive proportion of fundamental discriminants d, L(1/2,chi_d) != 0. Here chi_d is the primitive quadratic Dirichlet character of conductor d.

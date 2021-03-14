@@ -1,0 +1,1 @@
+Let N be the normalizer of a maximal torus T in a split reductive group over F_q and let w be an involution in the Weyl group N/T. We construct explicitly a lifting n of w in N such that the image of n under the Frobenius map is equal to the inverse of n.

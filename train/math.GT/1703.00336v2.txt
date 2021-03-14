@@ -1,0 +1,1 @@
+Let M be a closed hyperbolic 3-manifold with a fibered face \sigma of the unit ball of the Thurston norm on H_2(M). If M satisfies a certain condition related to Agol's veering triangulations, we construct a taut branched surface in M spanning \sigma. This partially answers a 1985 question of Oertel, and extends an earlier partial answer due to Mosher.

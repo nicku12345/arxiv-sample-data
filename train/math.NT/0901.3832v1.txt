@@ -1,0 +1,1 @@
+We show that the number of copies of {\Bbb Q}_p/{\Bbb Z}_p in the Tate-Shafarevich group of an elliptic curve E over {\Bbb Q} with complex multipication, is at most 2p - g, where g is the rank of E({\Bbb Q}), and for all sufficiently large good ordinary primes p.

@@ -1,0 +1,1 @@
+B. Sturmfels and S. Sullivant associated to any graph a toric ideal, called the cut ideal. We consider monomial cut ideals and we show that their algebraic properties such as the minimal primary decomposition, the property of having a linear resolution or being Cohen--Macaulay may be derived from the combinatorial structure of the graph.

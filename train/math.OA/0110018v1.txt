@@ -1,0 +1,1 @@
+Let G be the p-adic group GL(n). Using C*-algebra techniques, we obtain a very explicit description of the tempered dual of G in terms of Bernstein parameters and extended quotients. We also prove that Plancherel measure (on the tempered dual of a reductive p-adic group) is rotation-invariant.

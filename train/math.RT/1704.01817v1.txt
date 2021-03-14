@@ -1,0 +1,1 @@
+For a simple real Jordan algebra V, a family of bi-differential operators from \mathcal{C}^\infty(V\times V) to \mathcal{C}^\infty(V) is constructed. These operators are covariant under the rational action of the conformal group of V. They generalize the classical {\em Rankin-Cohen} brackets (case V=\mathbb{R}).

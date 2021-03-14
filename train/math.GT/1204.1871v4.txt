@@ -1,0 +1,1 @@
+We compare the invariant for classical knots and links defined using the Juyumaya trace on the Yokonuma-Hecke algebras with the HOMFLYPT polynomial. We show that the two invariants, as maps on the set {\mathcal L} of oriented link types in S^3, do not coincide except in a few trivial cases.

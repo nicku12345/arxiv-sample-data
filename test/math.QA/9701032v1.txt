@@ -1,0 +1,1 @@
+We present a q-difference realization of the quantum superalgebra U_q(sl(M|N)), which includes Grassmann even and odd coordinates and their derivatives. Based on this result we obtain a free boson realization of the quantum affine superalgebra U_q(\widehat{sl}(2|1)) of an arbitrary level k.

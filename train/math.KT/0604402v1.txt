@@ -1,0 +1,1 @@
+We obtain the equivariant K-homology of the classifying space \underline{E}W for W a right-angled or, more generally, an even Coxeter group. The key result is a formula for the relative Bredon homology of \underline{E}W in terms of Coxeter cells. Our calculations amount to the K-theory of the reduced C^*-algebra of W, via the Baum-Connes assembly map.

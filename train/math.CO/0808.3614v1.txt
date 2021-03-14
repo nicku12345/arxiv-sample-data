@@ -1,0 +1,1 @@
+We count the number of walks of length n on a k-node circular digraph that cover all k nodes in two ways. The first way illustrates the transfer-matrix method. The second involves counting various classes of height-restricted lattice paths. We observe that the results also count so-called k-balanced strings of length n, generalizing a 1996 Putnam problem.

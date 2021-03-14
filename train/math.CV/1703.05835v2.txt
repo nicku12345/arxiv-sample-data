@@ -1,0 +1,1 @@
+In this paper we find the exact value region \mathcal V(z_0,T) of the point evaluation functional f\mapsto f(z_0) over the class of all holomorphic injective self-maps f:\mathbb D\to\mathbb D of the unit disk \mathbb D having a boundary regular fixed point at \sigma=-1 with f'(-1)=e^{T} and the Denjoy - Wolff point at \tau=1.

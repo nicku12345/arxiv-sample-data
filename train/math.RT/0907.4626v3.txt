@@ -1,0 +1,1 @@
+Let G be the simple, simply connected algebraic group SL_3 defined over an algebraically closed field K of characteristic p>0. In this paper, we find H^2(G,V) for any irreducible G-module V. When p>7 we also find H^2(G(q),V) for any irreducible G(q)-module V for the finite Chevalley groups G(q)=SL(3,q) where q is a power of p.

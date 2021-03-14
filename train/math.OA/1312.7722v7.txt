@@ -1,0 +1,1 @@
+Any unital separable continuous C(X)-algebra with properly infinite fibres is properly infinite as soon as the compact Hausdorff space X has finite topological dimension. We study conditions under which this is still the case in the infinite dimensional case.

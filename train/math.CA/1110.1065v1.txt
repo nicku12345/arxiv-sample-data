@@ -1,0 +1,1 @@
+For r < 2, we prove the boundedness of a maximal operator formed by applying all multipliers m with \|m\|_{V^r} \leq 1 to a given function.

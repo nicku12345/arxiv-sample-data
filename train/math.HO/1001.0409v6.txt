@@ -1,0 +1,1 @@
+C. F. Gauss discovered a beautiful formula for the number of irreducible polynomials of a given degree over a finite field. Assuming just a few elementary facts in field theory and the exclusion-inclusion formula, we show how one see the shape of this formula and its proof instantly.

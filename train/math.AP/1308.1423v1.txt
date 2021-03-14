@@ -1,0 +1,1 @@
+We prove Strichartz estimates for gravity water waves, in arbitrary dimension and in fluid domains with general bottoms. We consider rough solutions such that, initially, the first order derivatives of the velocity field are not controlled in L^\infty-norm, or the initial free surface has a curvature not controlled in L^2-norm.

@@ -1,0 +1,1 @@
+We algorithmically characterize the maximal contact number problem for finite congruent lattice sphere packings in \mathbb{R}^d and show that in \mathbb{R}^3 this problem is equivalent to determining the maximal coordination of a monatomic crystal.

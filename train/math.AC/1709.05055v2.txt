@@ -1,0 +1,1 @@
+Let G be a finite simple graph on n vertices. Let J_G \subset K[x_1, \ldots, x_n] be the cover ideal of G. In this article, we obtain syzygies, Betti numbers and Castelnuovo-Mumford regularity of J_G^s for all s \geq 1 for certain classes of graphs G.

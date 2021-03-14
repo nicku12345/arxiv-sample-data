@@ -1,0 +1,1 @@
+Given certain intersection cohomology sheaves on a projective variety with a torus action, we relate the cohomology groups of their tensor product to the cohomology groups of the individual sheaves. We also prove a similar result in the case of equivariant cohomology.

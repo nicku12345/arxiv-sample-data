@@ -1,0 +1,1 @@
+Hensel-Przytycki-Webb proved that all curve graphs of orientable surfaces are 17-hyperbolic. In this paper, we show that curve graphs of non-orientable surfaces are 17-hyperbolic by applying Hensel-Przytycki-Webb's argument. We also show that arc graphs of non-orientable surfaces are 7-hyperbolic, and arc-curve graphs of (non-)orientable surfaces are 9-hyperbolic.

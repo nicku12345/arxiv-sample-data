@@ -1,0 +1,1 @@
+We give elementary proofs of the univariate elliptic beta integral with bases |q|, |p|<1 and its multiparameter generalizations to integrals on the A_n and C_n root systems. We prove also some new unit circle multiple elliptic beta integrals, which are well defined for |q|=1, and their p\to 0 degenerations.

@@ -1,0 +1,1 @@
+For each prime p, we determine the distribution of the p^{th} Fourier coefficients of the Hecke eigenforms of large weight for the full modular group. As p\to\infty, this distribution tends to the Sato--Tate distribution.

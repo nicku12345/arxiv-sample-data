@@ -1,0 +1,1 @@
+We show how to get Krall polynomials from Krall discrete polynomials using a procedure of passing to the limit in some of the parameters of the family. We also show that this procedure has to be different to the standard one used in the Askey scheme to go from the classical discrete polynomials to the classical polynomials.

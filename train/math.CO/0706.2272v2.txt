@@ -1,0 +1,1 @@
+For n \geq 2 and a local field K, let \Delta_n denote the affine building naturally associated to the symplectic group {\rm Sp}_n(K). We compute the spectral radius of the subgraph Y_n of \Delta_n induced by the special vertices in \Delta_n, from which it follows that Y_n is an analogue of a family of expanders and is non-amenable.

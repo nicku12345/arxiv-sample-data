@@ -1,0 +1,1 @@
+Extending Eilenberg-Mac Lane's methods, higher level cohomologies for commutative monoids are introduced and studied. Relationships with pre-existing theories (Leech, Grillet, ...) are stated. The paper includes a cohomological classification for symmetric monoidal groupoids and several computations for cyclic monoids.

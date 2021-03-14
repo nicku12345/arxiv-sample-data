@@ -1,0 +1,1 @@
+We correct Theorem 3.10 of "The simplicial boundary of a CAT(0) cube complex" in the infinite-dimensional case. No correction is needed in the finite-dimensional case.

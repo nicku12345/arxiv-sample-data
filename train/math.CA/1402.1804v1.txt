@@ -1,0 +1,1 @@
+We use Oberlin, Nazarov, and Thiele's Multi-Frequency Calder\'{o}n-Zygmund decomposition to lower estimates on maximal multipliers in L^p. We also improve on classical multiplier results of Coifman, Rubio de Francia, and Semmes.

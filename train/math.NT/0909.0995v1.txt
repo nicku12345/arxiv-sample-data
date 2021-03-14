@@ -1,0 +1,1 @@
+Let a(n, k) be the k-th coefficient of the n-th cyclotomic polynomial. Recently, Ji, Li and Moree \cite{JLM09} proved that for any integer m\ge1, \{a(mn, k)| n, k\in\mathbb{N}\}=\mathbb{Z}. In this paper, we improve this result and prove that for any integers s>t\ge0,   \{a(ns+t, k)| n, k\in\mathbb{N}\}=\mathbb{Z}.

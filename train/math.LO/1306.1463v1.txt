@@ -1,0 +1,1 @@
+We show that there exists an atomic representable polyadic equality algebra of finite dimension n\geq 3, such that the cylindric reduct of its completion is not in SNr_n\CA_{n+4}, hence the result in the title. This solves an open problem in algebraic logic, though the values for k=n+1, n+2, n+3, is still, to the best of our knowlege unknown.

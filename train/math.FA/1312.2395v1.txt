@@ -1,0 +1,1 @@
+An effective radius of convergence is defined and computed for any truncated Taylor series. Applications to well known series are performed and is shown that a range of good coincidence for actual and approximative plot can always be found. For sufficient large degree of approximation the effective radius is also an estimation of the true non-infinite radius of convergence.

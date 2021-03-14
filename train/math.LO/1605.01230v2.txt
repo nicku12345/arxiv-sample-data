@@ -1,0 +1,1 @@
+In these notes we study the class of divisible MV-algebras inside the algebraic hierarchy of MV-algebras with product. We connect divisible MV-algebras with \mathbb Q-vector lattices, we present the divisible hull as a categorical adjunction and we prove a duality between finitely presented algebras and rational polyhedra.

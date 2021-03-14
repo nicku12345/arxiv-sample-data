@@ -1,0 +1,1 @@
+In this paper, we introduce the Bessel-Struve transform, we establish an inversion theorem of the Weyl integral transform associated with this transform, in the case of half integers, we give a characterization of the range of \mathcal{D}(\mathbb{R}) by Bessel-Struve transform and we prove a Schwartz-Paley-Wiener theorem on \mathcal{E}'(\mathbb{R}).

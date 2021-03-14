@@ -1,0 +1,1 @@
+This paper gives an improved sum-product estimate for subsets of a finite field whose order is not prime. It is shown, under certain conditions, that \max\{|A+A|,|A\cdot{A}|\}\gg{\frac{|A|^{12/11}}{(\log_2|A|)^{5/11}}}. This new estimate matches, up to a logarithmic factor, the current best known bound obtained over prime fields by Rudnev (\cite{mishaSP}).

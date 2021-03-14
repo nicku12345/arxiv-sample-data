@@ -1,0 +1,1 @@
+We study the heat kernel transform on a nilmanifold  M  of the Heisenberg group. We show that the image of  L^2(M)  under this transform is a direct sum of weighted Bergman spaces which are related to twisted Bergman and Hermite-Bergman spaces.

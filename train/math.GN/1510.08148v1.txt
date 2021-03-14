@@ -1,0 +1,1 @@
+Given a ring R and S one of its ideals, we obtain a compactification of the prime spectrum of S through a mainly algebraic process. We name it the R-nilcompactification of SpecS. We study some categorical properties of this construction.

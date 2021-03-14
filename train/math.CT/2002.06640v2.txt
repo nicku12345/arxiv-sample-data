@@ -1,0 +1,1 @@
+We construct explicit minimal models for the (hyper)operads governing modular, cyclic and ordinary operads, and wheeled properads, respectively. Algebras for these models are homotopy versions of the corresponding structures.

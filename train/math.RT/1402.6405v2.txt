@@ -1,0 +1,1 @@
+Let G be the split orthogonal group of degree 2n+1 over an arbitrary field \mathbb{F} of {\rm char}\,\mathbb{F}\ne 2. In this paper, we classify multiple flag varieties G/P_1\times\cdots\times G/P_k of finite type. Here a multiple flag variety is called of finite type if it has a finite number of G-orbits with respect to the diagonal action of G when |\mathbb{F}|=\infty.

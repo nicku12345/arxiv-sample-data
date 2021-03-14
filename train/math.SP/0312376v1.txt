@@ -1,0 +1,1 @@
+We present a new and simple bound for the exponential decay of second order systems using the spectral shift. This result is applied to finite matrices as well as to partial differential equations of Mathematical Physics. The type of the generated semigroup is shown to be bounded by the upper real part of the numerical range of the underlying quadratic operator pencil.

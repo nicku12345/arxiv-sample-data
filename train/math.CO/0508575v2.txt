@@ -1,0 +1,1 @@
+Delsarte conjectured in 1973 that there are no nontrivial pefect codes in the Johnson scheme. Etzion and Schwartz recently showed that perfect codes must be k-regular for large k, and used this to show that there are no perfect codes correcting single errors in J(n,w) for n <= 50000. In this paper we show that there are no perfect single error-correcting codes for n <= 2^250.

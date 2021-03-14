@@ -1,0 +1,1 @@
+We show that the tensor product A\otimes B over \mathbb{C} of two C^* -algebras satisfying the \textit{NCDL} conditions has again the same property. We use this result to describe the C^* -algebra of the Heisenberg motion groups G_n = \mathbb{T}^n \ltimes \mathbb{H}_n as algebra of operator fields defined over the spectrum of G_n .

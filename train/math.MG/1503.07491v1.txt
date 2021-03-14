@@ -1,0 +1,1 @@
+B\'ar\'any, Katchalski and Pach proved the following quantitative form of Helly's theorem. If the intersection of a family of convex sets in \mathbb{R}^d is of volume one, then the intersection of some subfamily of at most 2d members is of volume at most some constant v(d). They proved the bound v(d)\leq d^{2d^2}, and conjectured v(d)\leq d^{cd}. We confirm it.

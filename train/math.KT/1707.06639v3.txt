@@ -1,0 +1,1 @@
+We prove that the Tate conjecture is invariant under Homological Projective Duality (=HPD). As an application, we prove the Tate conjecture in the new cases of linear sections of determinantal varieties, and also in the cases of complete intersections of two quadrics. Furthermore, we extend the Tate conjecture from schemes to stacks and prove it for certain global orbifolds

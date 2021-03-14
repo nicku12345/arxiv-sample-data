@@ -1,0 +1,1 @@
+We show that the number of elements generating a squarefree monomial ideal up to radical can always be bounded above in terms of the number of its minimal monomial generators and the maximal height of its minimal primes.

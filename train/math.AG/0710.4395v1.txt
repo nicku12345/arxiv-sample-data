@@ -1,0 +1,1 @@
+This note studies the structure of the divisorial fixed part of the dualizing sheaf of a 1-connected curve D on a smooth surface S. It is shown that if the divisorial fixed part F of the dualizing sheaf is non empty then it has arithmetic genus<1 and each component of F is a smooth rational curve.

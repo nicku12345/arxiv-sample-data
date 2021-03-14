@@ -1,0 +1,1 @@
+This is a continuation, completion, and generalization of our previous joint work with B. Chorny. We supply model structures and Quillen equivalences underlying Goodwillie's constructions on the homotopy level for functors between simplicial model categories satisfying mild hypotheses.

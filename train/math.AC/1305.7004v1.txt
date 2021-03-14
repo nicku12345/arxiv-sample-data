@@ -1,0 +1,1 @@
+Let (R,m) be a complete local ring, a an ideal of R and M a finitely generated R-module. The aim of this paper is to show that for any non-negative integer n, the least integer i such that the i-th local cohomology with respect to a is not in dimension <n, is equal to the n-th finiteness dimension of M relative to a. This generalizes the main result of Quy and Brodmann-Lashgari.

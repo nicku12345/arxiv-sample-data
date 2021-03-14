@@ -1,0 +1,1 @@
+A recent result on size functions is extended to higher homology modules: the persistent homology based on a multidimensional measuring function is reduced to a 1-dimensional one. This leads to a stable distance for multidimensional persistent homology. Some reflections on i-essentiality of homological critical values conclude the paper.

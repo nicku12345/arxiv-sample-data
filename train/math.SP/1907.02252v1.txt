@@ -1,0 +1,1 @@
+We study an eigenvalue problem for the biharmonic operator with Neumann boundary conditions on domains of Riemannian manifolds. We discuss the weak formulation and the classical boundary conditions, and we describe a few properties of the eigenvalues. Moreover, we establish upper bounds compatible with the Weyl's law under a given lower bound on the Ricci curvature.

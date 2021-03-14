@@ -1,0 +1,1 @@
+We find a simple algebraic model for rational G-equivariant spectra, where G is the p-adic integers, via a series of Quillen equivalences. This model, along with an Adams short exact sequence, will allow us to easily perform constructions and calculations.

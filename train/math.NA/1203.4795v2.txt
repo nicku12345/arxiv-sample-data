@@ -1,0 +1,1 @@
+For the class of polynomial quadrature rules we show that conveniently chosen bases allow to compute both the weights and the theoretical error expression of a n-point rule via the undetermined coefficients method. As an illustration, the framework is applied to some classical rules such as Newton-Cotes, Adams-Bashforth, Adams-Moulton and Gaussian rules.

@@ -1,0 +1,1 @@
+We show that if S is a finite type orientable surface of genus g and p punctures where 3g+p > 4, then EL(S) is (n-1)-connected and (n-1)-locally connected where dim(PML(S))=2n+1=6g+2p-7. Furthermore, if g=0, then EL(S) is homeomorphic to the p-4 dimensional Nobeling space.

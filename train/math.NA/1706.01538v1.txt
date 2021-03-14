@@ -1,0 +1,1 @@
+A method for computation of the matrix Mittag-Leffler function is presented. The method is based on Jordan canonical form and implemented as a Matlab routine.

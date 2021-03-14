@@ -1,0 +1,1 @@
+We introduce the notion of a topological higher-rank graph, a unified generalization of the higher-rank graph and the topological graph. Using groupoid techniques, we define the Toeplitz and Cuntz-Krieger algebras of topological higher-rank graphs, and show that the C^*-algebras defined are coherent with the existing theory.

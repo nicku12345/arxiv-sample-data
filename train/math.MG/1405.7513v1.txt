@@ -1,0 +1,1 @@
+We consider a generalization of the classic Sperner lemma. This lemma states that every Sperner coloring of a triangulation of a simplex contains a fully colored simplex. We found a weaker assumption than Sperner's coloring. It is also shown that the main theorem implies Tucker's lemma and some other theorems.

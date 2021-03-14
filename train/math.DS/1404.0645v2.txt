@@ -1,0 +1,1 @@
+We obtain optimal moment bounds for Birkhoff sums, and optimal concentration inequalities, for a large class of slowly mixing dynamical systems, including those that admit anomalous diffusion in the form of a stable law or a central limit theorem with nonstandard scaling (n\log n)^{1/2}.

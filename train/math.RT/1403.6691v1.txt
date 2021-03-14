@@ -1,0 +1,1 @@
+We examine the structure of the partition algebra P_n(\delta) over a field k of characteristic p>0. In particular, we describe the decomposition matrix of P_n(\delta) when n<p and when n=p and \delta=p-1.

@@ -1,0 +1,1 @@
+Given a multigraded algebra A, it is a natural question whether or not for two homogeneous components A_u and A_v, the product A_{nu}A_{nv} is the whole component A_{nu+nv} for n big enough. We give combinatorial and geometric answers to this question.

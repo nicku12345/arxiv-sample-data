@@ -1,0 +1,1 @@
+This article proves hypersurfaces of degree d in projective n-space are "rationally simply-connected" if d^2 \leq n. In a forthcoming paper, de Jong and I prove a slightly weaker result when d^2 \leq n+1.

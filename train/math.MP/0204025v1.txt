@@ -1,0 +1,1 @@
+We compute the generating function for the characters of the irreducible representations of SU(n) whose associated Young diagrams have only two rows with the same number of boxes. The result is a rational determinantal expression in which both the numerator and the denominator have a simple structure when expressed in terms of Schur polynomials.

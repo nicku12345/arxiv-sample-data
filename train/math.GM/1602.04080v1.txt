@@ -1,0 +1,1 @@
+In this work we present new methods for transforming and solving finite series by using the Laplace transform. In addition we introduce both an alternative method based on the Fourier transform and a simplified approach. The latter allows a quick solution in some cases.

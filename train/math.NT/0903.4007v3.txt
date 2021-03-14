@@ -1,0 +1,1 @@
+Combining the mollifiers, we exhibit other choices of coefficients that improve the results on large gaps between the zeros of the Riemann zeta-function. Precisely, assuming the Generalized Riemann Hypothesis (GRH), we show that there exist infinitely many consecutive gaps greater than 3.033 times the average spacing.

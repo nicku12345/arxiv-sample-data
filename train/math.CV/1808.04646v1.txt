@@ -1,0 +1,1 @@
+In this article, we derive off-diagonal estimates of the Bergman kernel associated to the tensor-powers of the cotangent bundle defined on a hyperbolic Riemann surface of finite volume, when the distance between the points is less than injectivity radius. We then use these estimates to derive estimates of the Bergman kernel along the diagonal.

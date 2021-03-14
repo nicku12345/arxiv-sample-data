@@ -1,0 +1,1 @@
+We consider a class of stratified groups with a CR structure and a compatible control distance. For these Lie groups we show that the space of conformal maps coincide with the space of CR and anti-CR diffeomorphisms. Furthermore, we prove that on products of such groups, all CR and anti-CR maps are product maps, up to a permutation isomorphism, and affine in each component.

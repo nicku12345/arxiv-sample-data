@@ -1,0 +1,1 @@
+We prove the arithmetic Hodge index and hard Lefschetz conjectures for the Grassmannian G=G(2,N) parametrizing lines in projective space, for the natural arithmetic Lefschetz operator defined via the Pl\"ucker embedding of G in projective space. The analysis of the Hodge index inequalities involves estimates on certain Racah polynomials.

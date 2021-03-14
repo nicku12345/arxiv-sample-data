@@ -1,0 +1,1 @@
+For an oriented knot diagram D, the warping degree d(D) is the smallest number of crossing changes which are needed to obtain the monotone diagram from D in the usual way. We show that d(D) + d(-D) + 1 is less than or equal to the crossing number of D. Moreover the equality holds if and only if D is an alternating diagram.

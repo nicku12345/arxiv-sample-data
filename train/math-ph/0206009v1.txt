@@ -1,0 +1,1 @@
+Using Koopman's approach to classical dynamical systems we show that the classical damping may be interpreted as appearance of resonant states of the corresponding Koopman's operator. It turns out that simple classical damped systems give rise to discrete complex spectra. Therefore, the corresponding generalized eigenvectors may be interpreted as classical resonant states.

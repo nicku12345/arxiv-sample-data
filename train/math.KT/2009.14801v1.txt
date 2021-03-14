@@ -1,0 +1,1 @@
+We calculate suitably localized Hochschild homologies of various quantum groups and Podle\'s spheres after realizing them as generalized Weyl algebras (GWAs). We use the fact that every GWA is birationally equivalent to a smash product with a 1-torus. We also address and solve the birational equivalence problem and the birational smoothness problem for GWAs.

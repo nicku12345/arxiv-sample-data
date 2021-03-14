@@ -1,0 +1,1 @@
+We give a geometric proof of the evaluation of the integral \int \sec x\,dx which is normally done using a rather ad hoc approach.

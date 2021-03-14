@@ -1,0 +1,1 @@
+For several natural filtrations of a free group S we express the n-th term of the filtration as the intersection of all kernels of homomorphisms from S to certain groups of upper-triangular unipotent matrices. This generalizes a classical result of Grun for the lower central filtration. In particular, we do this for the n-th term in the lower p-central filtration of S.

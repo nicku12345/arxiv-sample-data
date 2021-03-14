@@ -1,0 +1,1 @@
+A simple and natural Gao algorithm for decoding algebraic codes is described. Its relation to the Welch-Berlekamp and Euclidean algorithms is given.

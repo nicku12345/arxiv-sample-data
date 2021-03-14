@@ -1,0 +1,1 @@
+Assume that arc length is measured with the flat spacetime metric. Then, for the most general Poincare group representation for translating 4-vectors, curves with parallel translated tangent vectors must have accelerations that are the scalar product of the tangent vector with an antisymmetric tensor. Such curves are the paths of charged particles in an electromagnetic field.

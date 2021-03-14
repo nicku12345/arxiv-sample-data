@@ -1,0 +1,1 @@
+If phi is a scattered order type, mu a cardinal, then there exists a scattered order type psi such that psi->[phi]^1_{mu,aleph_0} holds.

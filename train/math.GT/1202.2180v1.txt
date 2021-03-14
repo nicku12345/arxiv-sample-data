@@ -1,0 +1,1 @@
+This paper details a series of experiments in searching for minimal energy configurations for knots and links using the computer program KnotPlot. The most interesting phenomena found in these experiments is the dependence of the trajectories of energy descent upon the initial geometric conditions of the knotted embedding.

@@ -1,0 +1,1 @@
+We use modular arithmetic to construct a de Bruijn array containing all fillings of an L (a 2 x 2 array with the upper right corner removed) with digits chosen from {0,...,k-1}.

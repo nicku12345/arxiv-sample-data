@@ -1,0 +1,1 @@
+Let \A be a semisimple unital commutative Banach algebra. We say that a Banach \A-module M is nice if every proper closed submodule of M is contained in a closed submodule of M of codimension 1. We provide examples of nice and non-nice modules.

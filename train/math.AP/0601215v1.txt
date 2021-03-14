@@ -1,0 +1,1 @@
+We prove the local well posedness of the Benjamin-Ono equation and the generalized Benjamin-Ono equation in  H^1(\T) . This leads to a global well-posedness result in  H^1(\T) for the Benjamin-Ono equation.

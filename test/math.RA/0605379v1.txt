@@ -1,0 +1,1 @@
+Freudenthal's Magic Square, which in characteristic 0 contains the exceptional Lie algebras other than G2, is extended over fields of characteristic 3, through the use of symmetric composition superalgebras, to a larger square that contains both Lie algebras and superalgebras. With one exception, the simple Lie superalgebras that appear have no counterpart in characteristic 0.

@@ -1,0 +1,1 @@
+We study the number of Darboux charts needed to cover a closed connected symplectic manifold (M,\omega), and effectively estimate this number from below and from above in terms of the Lusternik--Schnirelmann category of M and the Gromov width of (M,\omega).

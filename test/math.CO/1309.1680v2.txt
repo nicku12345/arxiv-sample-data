@@ -1,0 +1,1 @@
+For prime powers q we use "strongly orthogonal" linear Sudoku solutions of order q^2 to construct ordered orthogonal arrays of type OOA (4,s,2,q), and for each q we present a range of values of s for which these constructions are valid.

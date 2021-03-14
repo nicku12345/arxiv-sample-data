@@ -1,0 +1,1 @@
+In this note we build on our previous work with Takehiko Yasuda to prove a precise version of inversion of adjunction for varieties which are local complete intersections.

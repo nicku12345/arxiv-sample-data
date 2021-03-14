@@ -1,0 +1,1 @@
+For each integer k >= 2, let F(k) denote the largest n for which there exists a permutation \sigma \in S_n, all of whose patterns of length k are distinct. We prove that F(k) = k + \lfloor \sqrt{2k-3} \rfloor + e_k, where e_k \in {-1,0} for every k. Suggestions for further investigations along these lines are discussed.

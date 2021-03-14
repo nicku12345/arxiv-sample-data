@@ -1,0 +1,1 @@
+In this article we prove that, if X is a smooth 4-manifold containing an embedded double node neighborhood, all knot surgery 4-manifolds X_K are mutually diffeomorphic to each other after a connected sum with \mathbb{CP}^2. Hence, by applying to the simply connected elliptic surface E(n), we also show that every knot surgery 4-manifold E(n)_K is almost completely decomposable.

@@ -1,0 +1,1 @@
+We define an (equivariant) quaternionic analytic torsion for antiselfdual vector bundles on quaternionic Kaehler manifolds, using ideas by Leung and Yi. We compute this torsion for vector bundles on quaternionic homogeneous spaces with respect to any isometry in the component of the identity, in terms of roots and Weyl groups.

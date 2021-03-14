@@ -1,0 +1,1 @@
+We develop a procedure for determining whether a square complex matrix is unitarily equivalent to a complex symmetric (i.e., self-transpose) matrix. Our approach has several advantages over existing methods. We discuss these differences and present a number of examples.

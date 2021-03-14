@@ -1,0 +1,1 @@
+We present formulae allowing calculation of numerical values of the numbers c_k appearing in the Baez-Duarte criterion for the Riemann Hypothesis for arbitrary large k. We present plots of c_k for k \in (1, 10^9).

@@ -1,0 +1,1 @@
+We find out a method for symbolic estimation of a minimal (maximal) distance between eigenvalues of a Hermitian matrix (or roots of a polynomial with real (maybe degenerated) roots), using Hankel matrices formalism. The range of location of eigenvalues is symbolically estimated too. All estimations can be done with any precision.

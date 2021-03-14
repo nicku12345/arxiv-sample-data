@@ -1,0 +1,1 @@
+We show that if (X,\Theta) is a PPAV over an algebraically closed field of characteristic p>0 and D\in |m\Theta|, then (X,\frac 1 m D) is a limit of strongly F-regular pairs and in particular {\rm mult}_x(D)\leq m\cdot \dim X for any x\in X.

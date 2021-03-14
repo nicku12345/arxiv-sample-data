@@ -1,0 +1,1 @@
+We study the convergence analysis of a Picard-S iteration method for a particular class of weak-contraction mappings. Furthermore, we prove a data dependence result for fixed point of the class of weak-contraction mappings with the help of the Picard-S iteration methods.

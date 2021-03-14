@@ -1,0 +1,1 @@
+As a stable analogue of degenerations, we introduce the notion of stable degenerations for Cohen-Macaulay modules over a Gorenstein local algebra. We shall give several necessary and/or sufficient conditions for the stable degeneration. These conditions will be helpful to see when a Cohen-Macaulay module degenerates to another.

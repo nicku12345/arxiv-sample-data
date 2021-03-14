@@ -1,0 +1,1 @@
+We reproduce the quantum cohomology of toric varieties (and of some hypersurfaces in projective spaces) as the cohomology of certain vertex algebras with differential. The deformation technique allows us to compute the cohomology of the chiral de Rham complex over the projective space.

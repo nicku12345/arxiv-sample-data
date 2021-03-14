@@ -1,0 +1,1 @@
+In this paper we obtain a representation as martingale transform operators for the rearrangement and shift operators introduced by T. Figiel. The martingale transforms and the underlying sigma algebras are obtained explicitly by combinatorial means. The known norm estimates for those operators are a direct consequence of our representation.

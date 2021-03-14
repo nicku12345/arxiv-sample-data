@@ -1,0 +1,1 @@
+In this paper, we consider the complex Ginzburg--Landau equation u_t = e^{i\theta} [\Delta u + |u|^\alpha u] + \gamma u on {\mathbb R}^N , where \alpha >0, \gamma \in \R and -\pi /2<\theta <\pi /2. By convexity arguments we prove that, under certain conditions on \alpha ,\theta ,\gamma , a class of solutions with negative initial energy blows up in finite time.

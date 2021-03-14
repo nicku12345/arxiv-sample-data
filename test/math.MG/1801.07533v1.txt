@@ -1,0 +1,1 @@
+We construct a regular random projection of a metric space onto a closed doubling subset and use it to linearly extend Lipschitz and C^1 functions. This way we prove more directly a result by Lee and Naor and we generalize the C^1 extension theorem by Whitney to Banach spaces.

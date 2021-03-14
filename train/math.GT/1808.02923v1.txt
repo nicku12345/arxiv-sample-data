@@ -1,0 +1,1 @@
+A knot is said to be slice if it bounds a smooth properly embedded disk in the 4-ball. We demonstrate that the Conway knot, 11n34 in the Rolfsen tables, is not slice. This completes the classification of slice knots under 13 crossings, and gives the first example of a non-slice knot which is both topologically slice and a positive mutant of a slice knot.

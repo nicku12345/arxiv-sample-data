@@ -1,0 +1,1 @@
+Voiculescu's random matrix model for freeness is extended to the non-Gaussian case and also the case of constant block diagonal matrices. Thus we are able to investigate free products of free group factors with matrix algebras and with the hyperfinite II_1 factor, showing that  L(F_n) * R = L(F_(n+1))  for n \ge 1, (where L(F_1)=L(Z)).

@@ -1,0 +1,1 @@
+A finite non-abelian group G is called commuting integral if the commuting graph of G is integral. In this paper, we show that a finite group is commuting integral if its central factor is isomorphic to {\mathbb{Z}}_p \times {\mathbb{Z}}_p or D_{2m}, where p is any prime integer and D_{2m} is the dihedral group of order 2m.

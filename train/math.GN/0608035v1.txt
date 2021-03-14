@@ -1,0 +1,1 @@
+Assuming the Continuum Hypothesis, there is a compact first countable connected space of weight aleph_1 with no totally disconnected perfect subsets. Each such space, however, may be destroyed by some proper forcing order which does not add reals.

@@ -1,0 +1,1 @@
+We show that if a manifold M admits a contact structure, then so does M\times S^2. Our proof relies on surgery theory, a theorem of Eliashberg on contact surgery and a theorem of Bourgeois showing that if M admits a contact structure then so does M\times T^2.

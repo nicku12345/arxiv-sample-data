@@ -1,0 +1,1 @@
+We introduce and study the infinite dimensional linear programming problem which along with its dual allows one to characterize the optimal value of the deterministic long-run average optimal control problem in the general case when the latter may depend on the initial conditions of the system.

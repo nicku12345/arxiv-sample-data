@@ -1,0 +1,1 @@
+The Stone-Weierstrass Theorem for compact Hausdorff spaces is a basic result of functional analysis with far-reaching consequences. We show that this theorem is a consequence of the Beth definability property of a certain infinitary equational logic, stating that every implicit definition can be made explicit.

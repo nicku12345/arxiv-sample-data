@@ -1,0 +1,1 @@
+We demonstrate equivalence between two definitions of lower finite highest weight categories. We also show that, in the presence of a duality, a lower finite highest weight structure on a category is unique. Finally, we give a new proof for the fact that any abelian category is extension full in its ind-completion.

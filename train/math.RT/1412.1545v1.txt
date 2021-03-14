@@ -1,0 +1,1 @@
+This paper studies a generalization of magic squares to finite projective space \mathbb{P}^n(q). We classify at all functions from \mathbb{P}^n(q) into a finite field where the sum along any r-flat is 0. In doing so we show connections to elementary number theory and the modular representation theory of \operatorname{GL}(n,q).

@@ -1,0 +1,1 @@
+We introduce the fractal expansions, sequences of integers associated to a number. We show that these sequences characterize the O-sequences and encode some information on lex segment ideals. Moreover, we introduce a numerical functions called fractal functions, and we show that fractal functions can be used to classify the Hilbert functions of bigraded algebras.

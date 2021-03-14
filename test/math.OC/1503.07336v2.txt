@@ -1,0 +1,1 @@
+In this paper, we analyze the convergence of a risk sensitive like filter where the risk sensitivity parameter is time varying. Such filter has a Kalman like structure and its gain matrix is updated according to a Riccati like iteration. We show that the iteration converges to a fixed point by using the contraction analysis.

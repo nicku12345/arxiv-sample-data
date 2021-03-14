@@ -1,0 +1,1 @@
+Given a planar algebra we show the equivalence of the notions of a module over this algebra (in the operadic sense), and module over a universal annular algebra. We classify such modules, with invariant inner products, in the generic region and give applications to subfactorss, including a planar construction of the E_6 and E_8 subfactors.

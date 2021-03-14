@@ -1,0 +1,1 @@
+We first generalize a classical iteration formula for one variable holomorphic mappings to a formula for higher dimensional holomorphic mappings. Then, as an application, we give a short and intuitive proof of a classical theorem, due to H. Poincar\'{e}, for the condition under which a singularity of a holomorphic vector field is an isochronous center.

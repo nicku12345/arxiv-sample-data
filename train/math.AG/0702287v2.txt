@@ -1,0 +1,1 @@
+Suppose X is a smooth quasiprojective variety over \cc and \rho : \pi _1(X,x) \to SL(2,\cc) is a Zariski-dense representation with quasiunipotent monodromy at infinity. Then \rho factors through a map X\to Y with Y either a DM-curve or a Shimura modular stack.

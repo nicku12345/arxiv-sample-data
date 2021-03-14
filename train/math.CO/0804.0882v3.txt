@@ -1,0 +1,1 @@
+A positroid is a matroid defined by Postnikov to study the cells in the non-negative part of the Grassmannian. They are in bijection with decorated permutations. We show a way to explain contraction and restriction of positroids in terms of decorated permutations.

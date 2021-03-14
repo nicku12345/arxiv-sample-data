@@ -1,0 +1,1 @@
+We find asymptotic lower bounds for the numbers of both Beauville and non-Beauville 2-generator finite p-groups of a fixed order, which turn out to coincide with the best known asymptotic lower bound for the total number of 2-generator finite p-groups of the same order. This shows that both Beauville and non-Beauville groups are abundant within the family of finite p-groups.

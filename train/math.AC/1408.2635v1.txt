@@ -1,0 +1,1 @@
+In this paper, we prove the moving lemma, addition and subtraction principles, in a more general setup than the available ones. We apply these results to explore a question of Nori on homotopy of sections of projective modules. As another application, we investigate the Segre class of ideals, extending the existing results.

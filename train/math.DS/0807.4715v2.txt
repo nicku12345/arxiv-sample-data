@@ -1,0 +1,1 @@
+In this paper we show that the piecewise linear map f(x) = px for x in [0,1/p], and sx-s/p for x in (1/p,1], p > 1, 0 < s < 1 which has an expanding, onto branch and a contracting branch is eventually piecewise expanding and exact.

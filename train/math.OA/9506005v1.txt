@@ -1,0 +1,1 @@
+Given a measurable twisted action of a second-countable, locally compact group G on a separable C*-algebra A, we prove the existence of a topology on AxG making it a continuous bundle, whose cross sectional C*-algebra is isomorphic to the Busby--Smith--Packer--Raeburn crossed product.

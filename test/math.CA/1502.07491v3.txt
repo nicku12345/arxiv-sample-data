@@ -1,0 +1,1 @@
+In this paper we consider differential opeartor L=d^4_x + u(x). We find the commutativity condition for operator L with a differential operator M of order 4g+2, where L and M are operators of rank 2. Some examples are constructed. These examples don't commute with differential opeartors of odd order.

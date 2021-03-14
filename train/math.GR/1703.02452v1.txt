@@ -1,0 +1,1 @@
+Let G be a finite solvable group, and let p be a prime. In this note, we prove that p does not divide \varphi(1) for every irreducible monomial p-Brauer character \varphi of G if and only if G has a normal Sylow p-subgroup.

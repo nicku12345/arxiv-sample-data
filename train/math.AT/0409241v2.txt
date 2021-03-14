@@ -1,0 +1,1 @@
+We present a new link invariant which depends on a representation of the link group in SO(3). The computer calculations indicate that an abelian version of this invariant is expressed in terms of the Alexander polynomial of the link. On the other hand, if we use non abelian representation, we get the squared non abelian Reidemeister torsion (at least for some torus knots).

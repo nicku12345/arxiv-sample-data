@@ -1,0 +1,1 @@
+Let M be a simple 3-manifold, and F be a component of \partial M of genus at least 2. Let \alpha and \beta be separating slopes on F. Let M(\alpha) (resp. M(\beta)) be the manifold obtained by adding a 2-handle along \alpha (resp. \beta). If M(\alpha) and M(\beta) are \partial-reducible, then the minimal geometric intersection number of \alpha and \beta is at most 8.

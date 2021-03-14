@@ -1,0 +1,1 @@
+We define a notion of {\it positive part} of a lattice \Lambda and we endow the set of such positive parts with a topology. We then study some properties of this topology, by comparing it with the one of V^*/\RM_{> 0}, where V^* is the dual vector space of \RM \otimes_\ZM \Lambda.

@@ -1,0 +1,1 @@
+We give examples of nonsingular curves in projective 3 space such that the regularity of powers of their ideal sheaves are highly nonlinear. This is in constrast to the case of an ideal I in a polynomial ring, where the regularity of I^n is a linear polynomial in n for large n.

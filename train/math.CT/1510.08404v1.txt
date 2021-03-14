@@ -1,0 +1,1 @@
+We show that for spaces A that satisfy a certain smallness condition, there is a Lawvere theory T_A so that a space X has the structure of a T_A-algebra if and only if X is weakly equivalent to a mapping space out of A. In particular, spheres localized at a set of primes satisfy this condition.

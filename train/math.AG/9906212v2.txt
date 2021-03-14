@@ -1,0 +1,1 @@
+Let x(t) be a trajectory of the gradient of a real analytic function and suppose that x_0 is a limit point of x(t). We prove the gradient conjecture of R. Thom which states that the secants of x(t) at x_0 have a limit. Actually we show a stronger statement: the radial projection of x(t) from x_0 onto the unit sphere has finite length.

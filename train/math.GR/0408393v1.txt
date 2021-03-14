@@ -1,0 +1,1 @@
+It is proved that for any prime p a finitely generated nilpotent group is conjugacy separable in the class of finite p-groups if and only if the torsion subgroup of it is a finite p-group and the quotient group by the torsion subgroup is abelian.

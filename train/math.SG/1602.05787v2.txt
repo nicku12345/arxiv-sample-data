@@ -1,0 +1,1 @@
+The main purpose of this note is to exhibit a Hamiltonian diffeomorphism loop undetected by the Seidel morphism of certain 2-point blow-ups of S^2 \times S^2, exactly one of which being monotone. As side remarks, we show that Seidel's morphism is injective on all Hirzebruch surfaces and discuss how to adapt the monotone example to the Lagrangian setting.

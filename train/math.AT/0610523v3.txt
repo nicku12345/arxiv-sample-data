@@ -1,0 +1,1 @@
+The primary algebraic model of a ring spectrum is the ring of homotopy groups. We introduce the secondary model which has the structure of a secondary analogue of a ring. This new algebraic model determines Massey products and cup-one squares. As an application we obtain new derivations of the homotopy ring.

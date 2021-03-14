@@ -1,0 +1,1 @@
+In this paper, we establish the linear profile decomposition for the one dimensional fourth order Schr\"odinger equation  iu_t-\mu\Delta u+\Delta^2u=0, t\in\mathbb{R}, x\in\mathbb{R}, u(0,x)=f(x)\in L^2,  where \mu\ge 0. As an application, we establish a dichotomy result on the existence of extremals to the symmetric Schr\"odinger Strichartz inequality.

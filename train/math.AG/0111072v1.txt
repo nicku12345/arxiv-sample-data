@@ -1,0 +1,1 @@
+The notion of tangencial base point is well-known for schemes in characteristic zero. We show that the definition in terms of Puiseux series generalizes to the case of Deligne--Mumford stacks, over a field of arbitrary characteristic. We then apply this construction to moduli spaces of smooth curves, generalizing a result of Ihara-Nakamura.

@@ -1,0 +1,1 @@
+A hom-associative algebra is an algebra whose associativity is twisted by an algebra homomorphism. We show that the Hochschild type cochain complex of a hom-associative algebra carries a homotopy G-algebra structure. As a consequence, we get a Gerstenhaber algebra structure on the cohomology of a hom-associative algebra. We also find similar results for hom-dialgebras.

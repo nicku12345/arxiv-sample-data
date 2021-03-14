@@ -1,0 +1,1 @@
+We consider the ternary Goldbach problem with two prime variables of the form k^2+m^2+1 and find an asymptotic formula for the number of its solutions.

@@ -1,0 +1,1 @@
+Let (R,\frak m) be a commutative Noetherian local ring and let M and N be finitely generated R-modules of finite injective dimension and finite Gorenstein injective dimension, respectively. In this paper we prove a generalization of Ischebeck Formula, that is \depth_RM+\sup\{i| {0.1cm}\Ext_R^i(M,N)\neq 0\}=\depth R.

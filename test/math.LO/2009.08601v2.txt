@@ -1,0 +1,1 @@
+Assume \mathcal{C} is the class of all linear orders L such that L is not a countable union of well ordered sets, and every uncountable subset of L contains a copy of \omega_1. We show it is consistent that \mathcal{C} has minimal elements. This answers an old question due to Galvin.

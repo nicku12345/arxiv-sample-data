@@ -1,0 +1,1 @@
+We give a new proof of Rudolph's multiple term return times theorem based on Host-Kra structure theory. Our approach provides characteristic factors for all terms, works for arbitrary tempered F{\o}lner sequences and also yields a multiple term Wiener-Wintner-type return times theorem for nilsequences.

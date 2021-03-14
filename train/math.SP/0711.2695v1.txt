@@ -1,0 +1,1 @@
+We consider OPRL and OPUC with measures regular in the sense of Ullman-Stahl-Totik and prove consequences on the Jacobi parameters or Verblunsky coefficients. For example, regularity on [-2,2] implies \lim_{N\to\infty} N^{-1} [\sum_{n=1}^N (a_n-1)^2 + b_n^2] =0.

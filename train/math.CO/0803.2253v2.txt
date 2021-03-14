@@ -1,0 +1,1 @@
+We study vectors formed by entries on the diagonal of standard Young tableaux of shifted shapes. Such vectors are in bijection with integer lattice points of certain integral polytopes, which are Minkowski sums of simplices. We also describe vertices of these polytopes, and construct corresponding shifted Young tableaux.

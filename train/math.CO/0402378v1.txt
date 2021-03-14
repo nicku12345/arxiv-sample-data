@@ -1,0 +1,1 @@
+We analyze the structure and enumerate Dumont permutations of the first and second kinds avoiding certain patterns or sets of patterns of length 3 and 4. Some cardinalities are given by Catalan numbers, powers of 2, little Schroeder numbers, and other known or related sequences.

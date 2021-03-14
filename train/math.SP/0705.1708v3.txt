@@ -1,0 +1,1 @@
+Suppose we want to find the eigenvalues and eigenvectors for the linear operator L, and suppose that we have solved this problem for some other "nearby" operator K. In this paper we show how to represent the eigenvalues and eigenvectors of L in terms of the corresponding properties of K.

@@ -1,0 +1,1 @@
+In this paper, a method is given to calculate the Jones polynomial of the 6-plat presentations of knots by using a representation of the braid group \mathbb{B}_6 into a group of 5\times 5 matrices. We also can calculate the Jones polynomial of the 2n-plat presentations of knots by generalizing the method for the 6-plat presentations of knots.

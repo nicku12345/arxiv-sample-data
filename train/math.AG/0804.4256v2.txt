@@ -1,0 +1,1 @@
+It is known that a tilting generator on an algebraic variety X gives a derived equivalence between X and a certain non-commutative algebra. In this paper, we explain a method to construct a tilting generator from an ample line bundle, and construct it in several examples.

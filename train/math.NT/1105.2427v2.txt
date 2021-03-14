@@ -1,0 +1,1 @@
+Let p be a prime number and let F be a field containing a root of unity of order p. We prove that a certain very small canonical Galois group (G_F)_{[3]} over F encodes the valuations on F whose value group is not p-divisible and which satisfy a variant of Hensel's lemma.

@@ -1,0 +1,1 @@
+Tsirelson's space T is known to be distortable but it is open as to whether or not T is arbitrarily distortable. For n\in {\Bbb N} the norm \|\cdot\|_n of the Tsirelson space T(S_n,2^{-n}) is equivalent to the standard norm on T. We prove there exists K<\infty so that for all n, \|\cdot\|_n does not K distort any subspace Y of T.

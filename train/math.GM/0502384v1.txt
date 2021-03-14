@@ -1,0 +1,1 @@
+This short paper presents an exact formula for counting twin prime pairs less than or equal to x in terms of the classical Smarandache Function. An extension of the formula to count prime pairs (p, p+2n), n > 1, is also given.

@@ -1,0 +1,1 @@
+In Noncommutative Geometry, as in quantum theory, classically real variables are assumed to correspond to self-adjoint operators. We consider the relaxation of the requirement of self-adjointness to mere symmetry for operators X_i which encode space-time information.

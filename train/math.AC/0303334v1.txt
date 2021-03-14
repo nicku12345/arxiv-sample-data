@@ -1,0 +1,1 @@
+We introduce the notion of strong test module and show that a large number of such modules appear in the tight closure theory of complete domains: the test ideal (this has already been known), the parameter test module, and the module of relative test elements. They also appear as certain multiplier ideals, a concept of interest in algebraic geometry.

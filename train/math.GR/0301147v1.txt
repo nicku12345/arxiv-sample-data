@@ -1,0 +1,1 @@
+This paper describes a non-deterministic polynomial-time algorithm to find a path of length O(log p loglog p) between any two vertices of the Cayley graph of SL(2,Z/pZ).

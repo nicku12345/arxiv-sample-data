@@ -1,0 +1,1 @@
+Classification problems of subcategories have been deeply considered so far. In this paper, we discuss classifying dense (co)resolving subcategories of exact categories via their Grothendieck groups. This study is motivated by the classification of dense triangulated subcategories of triangulated categories due to Thomason.

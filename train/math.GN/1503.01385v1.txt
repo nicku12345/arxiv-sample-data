@@ -1,0 +1,1 @@
+We show that it is consistent with ZFC that every compact group has a non-Haar-measurable subgroup. In addition, we demonstrate a natural construction, and we conjecture that this construction always produces a non-measurable subgroup of a given compact group. We prove that this is so in the Abelian case.

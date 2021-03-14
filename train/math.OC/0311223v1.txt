@@ -1,0 +1,1 @@
+In this paper we show how nonlinear internal models can be effectively used in the design of output regulators for nonlinear systems. This result provides a significant enhancement of the non-equilibrium theory for output regulation, which we have presented in the recent paper entitled "Limit Sets, Zero Dynamics, and Internal Models in the Problem of Nonlinear Output Regulation".

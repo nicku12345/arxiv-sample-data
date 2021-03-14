@@ -1,0 +1,1 @@
+This paper provides a proof of a LLT-like test for Fermat numbers, based on the properties of Lucas Sequences and on the method of Lehmer.

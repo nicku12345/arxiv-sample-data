@@ -1,0 +1,1 @@
+In this short note, we use the idempotent decomposition to give an explicit isomorphism from a semisimple Artinian ring to an external direct sum of finite full matrix rings over division rings.

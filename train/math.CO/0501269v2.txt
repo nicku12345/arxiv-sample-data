@@ -1,0 +1,1 @@
+We show an asymptotic estimate for the number of labelled planar graphs on n vertices. We also find limit laws for the number of edges, the number of connected components, and other parameters in random planar graphs.

@@ -1,0 +1,1 @@
+Given X a complex Banach space, L a complex nilpotent finite dimensional Lie algebra, and \rho\colon L\to L(X), a representation of L in X such that \rho (l)\in K(X) for all l\in L, the Taylor, the Slodkowski, the Fredholm, the split and the Fredholm split joint spectra of the representation \rho are computed.

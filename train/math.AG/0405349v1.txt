@@ -1,0 +1,1 @@
+We consider the moduli space A_{pol}(n) of (non-principally) polarised abelian varieties of genus g\geq3 with coprime polarisation and full level-n structure. Based upon the analysis of the Tits building in math/0405321, we give an explicit lower bound on n that is sufficient for the compactified moduli space to be of general type if one further explicit condition is satisfied.

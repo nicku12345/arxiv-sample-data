@@ -1,0 +1,1 @@
+Using an inverse system of metric graphs as in: J. Cheeger and B. Kleiner, "Inverse limit spaces satisfying a Poincar\'e inequality", we provide a simple example of a metric space X that admits Poincar\'e inequalities for a continuum of mutually singular measures.

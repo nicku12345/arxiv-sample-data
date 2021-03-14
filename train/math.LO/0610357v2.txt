@@ -1,0 +1,1 @@
+In this paper we study the expressive power and definability for (extended) modal languages interpreted on topological spaces. We provide topological analogues of the van Benthem characterization theorem and the Goldblatt-Thomason definability theorem in terms of the well established first-order topological language L_t.

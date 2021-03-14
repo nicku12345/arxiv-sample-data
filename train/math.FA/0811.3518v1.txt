@@ -1,0 +1,1 @@
+In this paper we prove an abstract version of Pietsch's domination theorem which unify a number of known Pietsch-type domination theorems for classes of mappings that generalize the ideal of absolutely p-summing linear operators. A final result shows that Pietsch-type dominations are totally free from algebraic conditions, such as linearity, multilinearity, etc.

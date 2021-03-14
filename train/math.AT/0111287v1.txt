@@ -1,0 +1,1 @@
+We show that if U is a hypercover of a topological space X then the natural map from hocolim U to X is a weak equivalence. This fact is used to construct topological realization functors for the A^1-homotopy theory of schemes over real and complex fields.

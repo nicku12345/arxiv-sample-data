@@ -1,0 +1,1 @@
+Simion conjectured the unimodality of a sequence counting lattice paths in a grid with a Ferrers diagram removed from the northwest corner. Recently, Hildebrand and then Wang proved the stronger result that this sequence is actually log concave. Both proofs were mainly algebraic in nature. We give two combinatorial proofs of this theorem.

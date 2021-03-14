@@ -1,0 +1,1 @@
+We consider here the 1D  Green-Naghdi equations that are commonly used in coastal oceanography to describe the propagation of large amplitude surface waves. We show that the solution of the Green-Naghdi equations can be constructed by a standard Picard iterative scheme so that there is no loss of regularity of the solution with respect to the initial condition.

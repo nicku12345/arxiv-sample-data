@@ -1,0 +1,1 @@
+We introduce here a method which uses etale neighborhoods to extend results from smooth semi-local rings to arbitrary semi-local rings A by passing to the henselization of a smooth presentation of A. The technique is used to show that etale cohomology of A agrees with Galois cohomology, the Merkuriev-Suslin theorem holds for A, and to describe torsion in K_2(A).

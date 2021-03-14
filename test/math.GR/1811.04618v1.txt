@@ -1,0 +1,1 @@
+In this note we prove that a homomorphism from a compact connected simple Lie group with the norm topology to any separable SIN group is automatically continuous. This generalizes a result by Dowerk and Thom. Further, we prove some elementary characterizations of invariant automatic continuity.

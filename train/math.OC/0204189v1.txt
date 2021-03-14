@@ -1,0 +1,1 @@
+In this paper we will present a mathematical description and analysis of a fractional-order regulated system in the state space and the state-space controller design based on placing the closed-loop poles on the complex plane. Presented are the results of simulations and stability investigation of this system.

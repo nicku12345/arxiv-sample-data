@@ -1,0 +1,1 @@
+The normal form theorem, proved in R. Laver, On the left distributive law and the freeness of an algebra of elementary embeddings, Advances in Mathematics 91 (1992), 209-231, for the free algebra \Cal A on one generator x satisfying the left distributive law a(bc) = (ab)(ac) is extended by showing that members of \Cal A can be put into a "division form."

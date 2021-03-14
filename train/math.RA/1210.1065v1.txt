@@ -1,0 +1,1 @@
+In this brief note, we revisit a class of crossed-product orders over discrete valuation rings introduced by D. E. Haile. We give simple but useful criteria, which involve only the two-cocycle associated with a given crossed-product order, for determining whether such an order is a hereditary order or a maximal order.

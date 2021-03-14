@@ -1,0 +1,1 @@
+Hurewicz proved completely metrizable Menger spaces are /sigma-compact. We extend this to Cech-complete Menger spaces and consistently to projective Menger metrizable spaces. On the other hand, it is consistent that there is a co-analytic Menger space that is not /sigma-compact.

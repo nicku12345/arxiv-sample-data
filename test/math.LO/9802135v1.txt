@@ -1,0 +1,1 @@
+We introduce a large cardinal property which is consistent with L and show that for every superatomic Boolean algebra B and every cardinal lambda with the large cardinal property, if tightness^+(B) >= lambda^+, then depth (B) >= lambda. This improves a theorem of Dow and Monk.

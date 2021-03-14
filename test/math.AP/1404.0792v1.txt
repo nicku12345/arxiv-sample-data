@@ -1,0 +1,1 @@
+In this paper we study a H\'enon-like equation (see equations (1) below), where the nonlinearity f(t) is not homogeneous (i.e., it is not a power). By minimization on the Nehari manifold, we prove that for large values of the parameter \alpha there is a breaking of symmetry and non radial solutions appears. This holds for sub- and super-critical growth of the nonlinearity f.

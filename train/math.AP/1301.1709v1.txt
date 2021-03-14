@@ -1,0 +1,1 @@
+We study the large-time behavior of the free boundary position capturing the one-dimensional motion of the carbonation reaction front in concrete-based materials. We extend here our rigorous justification of the \sqrt{t}-behavior of reaction penetration depths by including non-linear effects due to deviations from the classical Henry's law and time-dependent Dirichlet data.

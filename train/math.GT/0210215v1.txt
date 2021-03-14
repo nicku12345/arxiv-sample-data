@@ -1,0 +1,1 @@
+Kneser-Haken Finiteness asserts that for each compact 3-manifold M there is an integer c(M) such that any collection of k>c(M) closed, essential, 2-sided surfaces in M must contain parallel elements. We show here that if M is closed then twice the number of tetrahedra in a (pseudo)-triangulation of M suffices for c(M).

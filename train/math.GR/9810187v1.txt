@@ -1,0 +1,1 @@
+We consider splittings of groups over finite and two-ended subgroups. We study the combinatorics of such splittings using generalisations of Whitehead graphs. In the case of hyperbolic groups, we relate this to the topology of the boundary. In particular, we give a proof that the boundary of a one-ended strongly accessible hyperbolic group has no global cut point.

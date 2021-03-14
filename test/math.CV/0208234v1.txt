@@ -1,0 +1,1 @@
+We investigate which boundary points in the closed unit ball of the Bergman space of integrable holomorphic functions on the unit disc are strongly exposed. This requires study of the Bergman projection and its kernel, the annihilator of Bergman space. We show that all polynomials in the boundary of the unit ball are strongly exposed.

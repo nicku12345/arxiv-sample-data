@@ -1,0 +1,1 @@
+We show that for p\ge 1, the p-th moment of suprema of linear combinations of independent centered random variables are comparable with the sum of the first moment and the weak p-th moment provided that 2q-th and q-th integral moments of these variables are comparable for all  q \ge 2. The latest condition turns out to be necessary in the i.i.d. case.

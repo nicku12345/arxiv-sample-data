@@ -1,0 +1,1 @@
+Let g be a locally Lipschitz continuous real valued function which satisfies the Keller-Osserman condition and is convex at infinity, then any large solution of -\Delta u+g(u)=0 in a ball is radially symmetric.

@@ -1,0 +1,1 @@
+We study the action of the group Aut(F_n) of automorphisms of a finitely generated free group on the degree 2 subcomplex of the spine of Auter space. Hatcher and Vogtmann showed that this subcomplex is simply connected, and we use the method described by K. S. Brown to deduce a new presentation of Aut(F_n).

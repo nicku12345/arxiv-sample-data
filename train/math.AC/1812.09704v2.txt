@@ -1,0 +1,1 @@
+Let R be a commutative noetherian local ring. We define a new invariant for R-modules which we call the little dimension. Using it, we extend the improved new intersection theorem.

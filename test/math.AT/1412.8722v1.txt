@@ -1,0 +1,1 @@
+We consider the arrangements of subtori in a flat d - dimensional torus T. Let us consider an arrangement on n subtori of codimension one, let f be the number of connected components of the complement in T to the union of subtori. We found the set of all possible numbers f for given n and d and arbitrary arrangements of subtori.

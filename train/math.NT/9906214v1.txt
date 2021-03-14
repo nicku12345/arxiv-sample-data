@@ -1,0 +1,1 @@
+The authors study the distribution of zeros of the Fekete polynomial f_p(t) (defined for p prime) as p -> infinity. They show that asymptotically a constant fraction of the zeros lie on the unit circle, and they investigate the constant of proportionality.

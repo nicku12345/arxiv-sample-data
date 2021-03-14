@@ -1,0 +1,1 @@
+Let (R,M,k) be a regular local G-ring with regular system of parameters (u_1, \ldots ,u_d,y). We prove that the Hironaka characteristic polyhedron \Delta (f;u_1, \ldots ,u_d), f \not \in (u_1, \ldots ,u_d) of a hypersurface singularity X={\rm Spec}R/(f) can be computed in some system of coordinates belonging to R. No assumption on the residue characteristic is required.

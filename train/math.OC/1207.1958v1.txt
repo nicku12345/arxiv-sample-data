@@ -1,0 +1,1 @@
+This note presents an example of bilinear conservative system in an infinite dimensional Hilbert space for which approximate controllability in the Hilbert unit sphere holds for arbitrary small times. This situation is in contrast with the finite dimensional case and is due to the unboundedness of the drift operator.

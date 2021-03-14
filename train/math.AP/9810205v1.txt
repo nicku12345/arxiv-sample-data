@@ -1,0 +1,1 @@
+N-fold B\"acklund transformation for the Davey-Stewartson equation is constructed by using the analytic structure of the Lax eigenfunction in the complex eigenvalue plane. Explicit formulae can be obtained for a specified value of N. Lastly it is shown how generalized soliton solutions are generated from the trivial ones.

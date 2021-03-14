@@ -1,0 +1,1 @@
+Let K be a field of characteristic 0 containing all roots of unity. We classify all the Hopf structures on monomial K-coalgebras, or, in dual version, on monomial K-algebras.

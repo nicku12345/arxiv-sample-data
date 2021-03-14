@@ -1,0 +1,1 @@
+We describe a competetive equillibrium in a railway cargo transportation model. We reduce the problem of finding this equillibrium to the solution of to mutually dual convex optimization problems. According to L.V. Kantorvich we interpret an optimal traffic policy for the model in terms of Lagrange multipliers.

@@ -1,0 +1,1 @@
+In this paper, we develop 2-dimensional algebraic theory which closely follows the classical theory of modules. The main results are giving definitions of 2-module and the representation of 2-ring. Moreover, for a 2-ring \cR, we prove that its modules form a 2-Abelian category.

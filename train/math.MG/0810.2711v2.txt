@@ -1,0 +1,1 @@
+We introduce snowballs, which are compact sets in \R^3 homeomorphic to the unit ball. They are 3-dimensional analogs of domains in the plane bounded by snowflake curves. For each snowball B a quasiconformal map f\colon \R^3\to \R^3 is constructed that maps B to the unit ball.

@@ -1,0 +1,1 @@
+In this paper we prove, if u\in\mathcal C([0,\infty),{\bf {\mathcal X}^{-1}}(\mathbb R^3)) is global solution of 3D Navier-Stokes equations, then \|u(t)\|_{{\bf {\mathcal X}^{-1}}} decays to zero as time goes to infinity. Fourier analysis and standard techniques are used.

@@ -1,0 +1,1 @@
+This paper reports on a new algorithm to compute the asymptotic solutions of a linear differential system. A feature of the algorithm is the ability to accommodate periodic coefficients.

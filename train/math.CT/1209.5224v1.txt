@@ -1,0 +1,1 @@
+For a completely distributive quantale L, L-fuzzy strongest postcondition predicate transformers are introduced, and it is shown that, under reasonable assumptions, they are linear or affine continuous mappings between continuous L-idempotent semimodules of L-fuzzy monotonic predicates.

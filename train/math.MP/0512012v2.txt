@@ -1,0 +1,1 @@
+This paper gives a review of Connes-Kreimer formulation of perturbative renormalization in Quantum Field Theory. We begin with the derivation of the Feynman calculus, the Hopf algebra structure on Feynman diagrams and we show the natural occurence of Birkhoff decomposition in perturbative renormalization. Most of proofs is added in the present paper.

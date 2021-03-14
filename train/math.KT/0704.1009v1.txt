@@ -1,0 +1,1 @@
+These notes are meant to provide a rapid introduction to triangulated categories. We start with the definition of an additive category and end with a glimps of tilting theory. Some exercises are included.

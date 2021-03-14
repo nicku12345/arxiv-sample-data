@@ -1,0 +1,1 @@
+We study which matrices are sums of idempotents over a field of non-zero characteristic; in particular, we prove that any such matrix, provided it is large enough, is actually a sum of five idempotents, and even of four when the field is a prime one.

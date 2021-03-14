@@ -1,0 +1,1 @@
+The optimal pair of two linear varieties is considered as a best approximation problem, namely the distance between a point and the difference set of two linear varieties. The Gram determinant allows to get the optimal pair in closed form.

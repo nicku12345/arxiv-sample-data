@@ -1,0 +1,1 @@
+A triangulation of a surface is \emph{irreducible} if there is no edge whose contraction produces another triangulation of the surface. We prove that every irreducible triangulation of a surface with Euler genus g\geq1 has at most 13g-4 vertices. The best previous bound was 171g-72.

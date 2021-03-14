@@ -1,0 +1,1 @@
+We give another proof of a theorem of Hatcher and Vogtmann stating that the sequence Aut(F_n) satisfies integral homological stability. The paper is for the most part expository, and we also explain Quillen's method for proving homological stability.

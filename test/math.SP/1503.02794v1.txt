@@ -1,0 +1,1 @@
+We prove quantitative equidistribution properties for orthonormal bases of eigenfunctions of the Laplacian on the rational d-torus. We show that the rate of equidistribution of such eigenfunctions is of polynomial decay. We also prove that equidistribution of eigenfunctions holds for symbols supported in balls with a radius shrinking at a polynomial rate.

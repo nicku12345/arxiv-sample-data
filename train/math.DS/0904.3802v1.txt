@@ -1,0 +1,1 @@
+We study non-invertible piecewise hyperbolic maps in the plane. The Hausdorff dimension of the attractor is calculated in terms of the Lyapunov exponents, provided that the map satisfies a transversality condition. Explicit examples of maps for which this condition holds are given.

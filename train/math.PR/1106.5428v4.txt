@@ -1,0 +1,1 @@
+In this article we contribute to the moment analysis of branching processes in catalytic media. The many-to-few lemma based on the spine technique is used to derive a system of (discrete space) partial differential equations for the number of particles in a variation of constants formulation. The long-time behaviour is then deduced from renewal theorems and induction.

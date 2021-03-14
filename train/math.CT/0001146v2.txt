@@ -1,0 +1,1 @@
+Let I,J be small categories and C:I\times J@>>>\CAT a functor to the category of small categories. We show that if I has a final object then the canonical map \operatorname{hocolim}_J\operatorname{holim}_IC@>>>\operatorname{holim}_I \operatorname{hocolim}_JC is a strong homotopy equivalence.

@@ -1,0 +1,1 @@
+By using the Jensen's maximum principle and the Alexandrov's theorem in the convex analysis, we present the nonlocal version of the Jensen-Ishii lemma, which leads to the precise argument for the comparison principle.

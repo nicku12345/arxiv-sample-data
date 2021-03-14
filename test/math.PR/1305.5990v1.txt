@@ -1,0 +1,1 @@
+We study distributions of random vectors whose components are second order polynomials in Gaussian random variables. Assuming that the law of such a vector is not absolutely continuous with respect to Lebesgue measure, we derive some interesting consequences. Our second result gives a characterization of limits in law for sequences of such vectors.

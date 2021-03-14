@@ -1,0 +1,1 @@
+We study local structure of time-optimal controls and trajectories for a 3-dimensional control-affine system with a 2-dimensional control parameter with values in the disk. In particular, we give sufficient conditions, in terms of Lie bracket relations, for optimal controls to be smooth or to have only isolated jump discontinuities.

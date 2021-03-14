@@ -1,0 +1,1 @@
+We prove a Calder\'on reproducing formula for the Dunkl continuous wavelet transform on \mathbb{R}. We apply this result to derive new inversion formulas for the dual Dunkl-Sonine integral transform.

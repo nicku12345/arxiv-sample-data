@@ -1,0 +1,1 @@
+We treat the classical notion of convexity in the context of hard real analysis. Definitions of the concept are given in terms of defining functions and quadratic forms, and characterizations are provided of different concrete notions of convexity. This analytic notion of convexity is related to more classical geometric ideas. Applications are given both to analysis and geometry.

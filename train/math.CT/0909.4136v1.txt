@@ -1,0 +1,1 @@
+We develop further the algebra of cospans and spans of graphs introduced by Katis, Sabadini and Walters for the sequential and parallel composition of processes, adding here data types.

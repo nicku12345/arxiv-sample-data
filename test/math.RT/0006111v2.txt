@@ -1,0 +1,1 @@
+We prove a factorization-concentration result for characters of symmetric groups. This is then applied to the asymptotic behaviour of the decomposition of the tensor representations. There are connections with the Pastur-Marcenko distribution of random matrix theory, and freely infinitely divisible distributions.

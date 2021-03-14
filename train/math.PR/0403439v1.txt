@@ -1,0 +1,1 @@
+We study a model of directed polymers with an exponentially recurrent Markov chain and an indefinitely divisible random environment. We prove that the normalized partition function converges exponentially fast towards zero at all temperatures.

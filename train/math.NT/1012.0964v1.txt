@@ -1,0 +1,1 @@
+We prove two results on Kloosterman sums over finite fields, using Stickelberger's theorem and the Gross-Koblitz formula. The first result concerns the minimal polynomial over Q of a Kloosterman sum, and the second result gives a characterisation of ternary Kloosterman sums modulo 27.

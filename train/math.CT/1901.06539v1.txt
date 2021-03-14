@@ -1,0 +1,1 @@
+We construct W-types in the category of coalgebras for a cartesian comonad. It generalizes the constructions of W-types in presheaf toposes and gluing toposes.

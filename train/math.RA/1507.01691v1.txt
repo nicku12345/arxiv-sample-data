@@ -1,0 +1,1 @@
+A Hom-Lie-Yamaguti algebra, whose ternary operation expresses through its binary one in a specific way, is a multiplicative Hom-Malcev algebra. Any multiplicative Hom-Malcev algebra over a field of characteristic zero has a natural Hom-Lie-Yamaguti structure.

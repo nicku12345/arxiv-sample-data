@@ -1,0 +1,1 @@
+Let  L  be an  n -dimensional nilpotent Lie algebra of nilpotency class  c  with the derived subalgebra of dimension  m . Recently, Rai proved that the dimension of Schur multiplier of  L  is bounded by  \frac{1}{2}(n-m-1)(n+m)-\sum\limits_{i=2}^ {min\lbrace n-m,c\rbrace} n-m-i . In this paper, we obtain the structure of all nilpotent Lie algebras that attain this bound.

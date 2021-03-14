@@ -1,0 +1,1 @@
+We give a construction of a free digroup F(X) on a set X and formulate the halo and the group parts of F(X). We prove that F(X) is isomorphic to F(Y) if and only if card(X)=card(Y).

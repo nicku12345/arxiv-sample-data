@@ -1,0 +1,1 @@
+Let Gn be the graph on n-dimensional Euclidean space connecting points of rational Euclidean distance. It is consistent relative to an inaccessible cardinal that ZF+DC holds and G3 has countable chromatic number, yet G4 has uncountable chromatic number.

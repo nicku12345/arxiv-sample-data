@@ -1,0 +1,1 @@
+This paper gives a new proof of a result of Geoghegan and Mihalik which states that whenever a contractible open n-manifold W which is not homeomorphic to \mathbf{R}^n is a covering space of an n-manifold M and either n \geq 4 or n=3 and W is irreducible, then the group of covering translations injects into the homeotopy group of W.

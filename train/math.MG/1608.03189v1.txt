@@ -1,0 +1,1 @@
+In this article we consider S to be a set of points in d-space with the property that any d points of S span a hyperplane and not all the points of S are contained in a hyperplane. The aim of this article is to introduce the function e_d(n), which denotes the minimal number of hyperplanes meeting S in precisely d points, minimising over all such sets of points S with |S|=n.

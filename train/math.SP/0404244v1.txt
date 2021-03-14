@@ -1,0 +1,1 @@
+In this paper, we characterize all closed linear operators in a separable Hilbert space which are unitarily equivalent to an integral bi-Carleman operator in L_2(R) with bounded and arbitrarily smooth kernel on R^2. In addition, we give an explicit construction of corresponding unitary operators. The main result is a qualitative sharpening of an earlier result of [5].

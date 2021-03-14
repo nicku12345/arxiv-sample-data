@@ -1,0 +1,1 @@
+We will review the major results in finite dimensional real phase retrieval for vectors and projections. We then   (1)prove that many of these theorems hold in infinite dimensions,   (2) give counter-examples to show that many others fail in infinite dimensions,   (3)list finite dimensional results are unknown for \ell_2.

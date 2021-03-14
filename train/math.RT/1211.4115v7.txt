@@ -1,0 +1,1 @@
+An purely algebraic proof of the PBW theorem of U_q(gl(m,n)) is given. Lusztig's conjecture is extended to the super case. The Lusztig's tensor product theorem is established.

@@ -1,0 +1,1 @@
+We exhibit quantum cluster algebra structures on quantum Grassmannians K_q[Gr(2,n)] and their quantum Schubert cells, as well as on K_q[Gr(3,6)], K_q[Gr(3,7)] and K_q[Gr(3,8)]. These cases are precisely those where the quantum cluster algebra is of finite type and the structures we describe quantize those found by Scott for the classical situation.

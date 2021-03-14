@@ -1,0 +1,1 @@
+We present a polynomial time Monte-Carlo algorithm for finite simple black box classical groups of odd characteristic which constructs all root {\rm{SL}}_2(q)-subgroups associated with the nodes of the extended Dynkin diagram of the corresponding algebraic group.

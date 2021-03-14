@@ -1,0 +1,1 @@
+This note provides an effective lower bound for the number of primes in the quadratic progression p=n^2+1 \leq x as x \to \infty.

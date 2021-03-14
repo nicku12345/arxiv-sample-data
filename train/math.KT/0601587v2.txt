@@ -1,0 +1,1 @@
+We obtain the equivariant K-homology of the classifying space \underline{E}SL(3,Z) from the computation of its Bredon homology with respect to finite subgroups and coefficients in the representation ring. We also obtain the corresponding results for GL(3,Z). Our calculations give therefore the topological side of the Baum-Connes conjecture for these groups.

@@ -1,0 +1,1 @@
+We study the spectral linear elasticity problem in an unbounded periodic waveguide, which consists of a sequence of identical bounded cells connected by thin ligaments of diameter of order  h >0. The essential spectrum of the problem is known to have band-gap structure. We derive asymptotic formulas for the position of the spectral bands and gaps, as h \to 0.

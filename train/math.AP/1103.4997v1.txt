@@ -1,0 +1,1 @@
+In this note a very simple example is given which shows that if the sum of two semigroup generators is itself a generator, the generated semigroup in general can not be rapresented by the Lie-Trotter product formula.

@@ -1,0 +1,1 @@
+In this paper, we prove the following result : let X be a complex manifold, hyperbolic for the Carath\'eodory distance and let U be an open set relatively compact in X. Then, there exists k<1 such that we get, for the Carath\'eodory infinitesimal metric E_X(x,v) less or equal to kE_U(x,v). We also get results concerning fixed points of holomorphic mappings from X to U.

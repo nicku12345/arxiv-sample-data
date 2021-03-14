@@ -1,0 +1,1 @@
+In this paper we show that by renorming an ordered Banach space, every cone P can be converted to a normal cone with constant K = 1 and consequently due to this approach every cone metric space is really a metric one and every theorem in metric space valid for cone metric space automatically.

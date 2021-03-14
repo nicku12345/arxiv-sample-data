@@ -1,0 +1,1 @@
+We introduce the concept of a consistency space. The idea of the consistency space is motivated by the question, Given only the collection of sets of sentences which are logically consistent, is it possible to reconstruct their lattice structure?

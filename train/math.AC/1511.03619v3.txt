@@ -1,0 +1,1 @@
+Consider a finite dimensional vector space V over a finite field \mathbb{F}_q. We give a minimal generating set for the ring of invariants \mathbb{F}_q[V \oplus V^*]^{\text{GL}(V)}, and show that this ring is a Gorenstein ring but is not a complete intersection. These results confirm a conjecture of Bonnaf\'e and Kemper.

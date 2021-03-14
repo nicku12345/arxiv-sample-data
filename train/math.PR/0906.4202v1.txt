@@ -1,0 +1,1 @@
+In a paper from 1995, Wormald gave general criteria for certain parameters in a family of discrete random processes to converge to the solution of a system of differential equations. Based on this method, we show that if some further conditions are satisfied, the parameters converge to a multivariate normal distribution.

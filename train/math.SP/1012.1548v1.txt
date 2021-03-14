@@ -1,0 +1,1 @@
+It is shown, non--rigorously, that the effective action on a Z_q factored odd spheres (lune) has a vanishing derivative at q=1. This leaves the effective action on the ordinary odd d-sphere as (minus) the value of the entanglement entropy associated with a (d-2)-sphere. Some numbers are given.

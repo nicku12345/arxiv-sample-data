@@ -1,0 +1,1 @@
+We prove that the 2-category of spaces admits a strong generator made up of the tori. In other words, Whitehead's theorem holds for the 2-category of (not necessarily connected, not pointed) spaces.

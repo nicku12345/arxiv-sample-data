@@ -1,0 +1,1 @@
+Let p be a prime number, F a totally real field such that [F(mu_p): F]=2 and [F:Q] is odd. For delta \in F^times, let [delta] denote its class in F^times/F^{times p}. In this paper, we show   Main Theorem. There are infinitely many classes [delta]\in F^times/F^{times p} such that the twisted affine Fermat curves W_delta: X^p+Y^p=delta have no F-rational points.

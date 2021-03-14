@@ -1,0 +1,1 @@
+Motivated by the study of the local extrema of sin(x)/x we define the \emph{Amplitude Modulation} transform of functions defined on (subsets of) the real line. We discuss certain properties of this transform and invert it in some easy cases.

@@ -1,0 +1,1 @@
+We present a random isometry-invariant subgraph of a Cayley graph such that with probability 1 its exponential growth rate does not exist.

@@ -1,0 +1,1 @@
+We prove that an abelian category equipped with an ample sequence of objects is equivalent to the quotient of the category of coherent modules over the corresponding algebra by the subcategory of finite-dimensional modules. In the Noetherian case a similar result was proved by Artin and Zhang.

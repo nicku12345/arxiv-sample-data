@@ -1,0 +1,1 @@
+In 1996, Jens Franke proved the equivalence of certain triangulated categories possessing an Adams spectral sequence. One particular application of this theorem is that the K_(p)-local stable homotopy category at an odd prime can be described as the derived category of an abelian category. We explain this proof from a topologist's point of view.

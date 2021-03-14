@@ -1,0 +1,1 @@
+This paper computationally obtains optimal bounded-weight, binary, error-correcting codes for a variety of distance bounds and dimensions. We compare the sizes of our codes to the sizes of optimal constant-weight, binary, error-correcting codes, and evaluate the differences.

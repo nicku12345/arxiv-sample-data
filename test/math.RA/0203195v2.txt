@@ -1,0 +1,1 @@
+We consider quiver representations respecting a quiver automorphism and show that the dimension vectors of the indecomposables are precisely the positive roots of an associated symmetrisable Kac-Moody Lie algebra. Moreover, every such Lie algebra arises in this way.   We also discuss the relationship with species of valued quivers over finite fields.

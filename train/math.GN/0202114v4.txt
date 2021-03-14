@@ -1,0 +1,1 @@
+Let f\colon X\to Y be a perfect n-dimensional surjection of paracompact spaces with Y being a C-space. We prove that, for any m\geq n+1, almost all (in the sense of Baire category) maps g from X into the m-dimensional cube have the following property: g(f^{-1}(y)) is at most n-dimensional for every y\in Y.

@@ -1,0 +1,1 @@
+The following result is proved:   {\bf Theorem.} Let D\subset \R^3 be a bounded domain homeomorphic to a ball, |D| be its volume, |S| be the surface area of its smooth boundary S, D\subset B_R:=\{x:|x|\leq R\}, and H_R is the set of all harmonic in B_R functions. If \frac 1 {|D|}\int_Dhdx=\frac 1 {|S|}\int_Shds\quad \forall h\in H_R, then D is a ball.

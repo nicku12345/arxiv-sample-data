@@ -1,0 +1,1 @@
+Let M_R be an injective right module over a ring R. The goal of this paper to prove that the endomorphism ring S=(M_R) of M is quasi-duo if and only if M_R is square-free.

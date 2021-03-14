@@ -1,0 +1,1 @@
+We consider the capability of p groups of class two and odd prime exponent. We use linear algebra and counting arguments to establish a number of new results. In particular, we settle the 4-generator case, and prove a sufficient condition based on the ranks of G/Z(G) and [G,G].

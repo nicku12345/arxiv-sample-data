@@ -1,0 +1,1 @@
+We extend the definition of an extension of a right Hilbert module to the setting of Hilbert bimodules and show that an extension of Hilbert bimodules induces an extension of Cuntz-Pimsner algebras. We also study the Cuntz-Pimsner algebra associated to the multiplier bimodule and show that an extension can be realised as a restricted direct-sum bimodule.

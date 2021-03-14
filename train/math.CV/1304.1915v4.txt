@@ -1,0 +1,1 @@
+It is shown that there is a computable conformal map of the unit disk onto a domain D that has a computable extension to the closure of the unit disk even though the boundary of D is not effectively locally connected. The proof encodes an arbitrary \emph{c.e.} set into the local connectivity of the boundary of D.

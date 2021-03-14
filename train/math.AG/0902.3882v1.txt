@@ -1,0 +1,1 @@
+We construct curves with many points over finite fields using the class group

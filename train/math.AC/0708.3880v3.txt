@@ -1,0 +1,1 @@
+We show that given a dominant morphism between two smooth varieties of the same dimension, the induced morphism between the formal neighborhoods of two arcs on these varieties is a closed embedding, of codimension given by the order of vanishing along the ramification subscheme.

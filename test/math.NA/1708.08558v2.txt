@@ -1,0 +1,1 @@
+Some error analysis on virtual element methods including inverse inequalities, norm equivalence, and interpolation error estimates are presented for polygonal meshes which admits a virtual quasi-uniform triangulation.

@@ -1,0 +1,1 @@
+We show that every finite-dimensional Alexandrov space X with curvature bounded from below embeds canonically into a product of an Alexandrov space with the same curvature bound and a Euclidean space such that each affine function on X comes from an affine function on the Euclidean space.

@@ -1,0 +1,1 @@
+In this survey article, we discuss several different knot concordance invariants coming from the Heegaard Floer homology package of Ozsvath and Szabo. Along the way, we prove that if two knots are concordant, then their knot Floer complexes satisfy a certain type of stable equivalence.

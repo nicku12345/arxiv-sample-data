@@ -1,0 +1,1 @@
+We describe the structure of ground states and ceiling states for generalized gauge actions on an UHF algebra. It is shown that both sets are affinely homeomorphic to the state space of a unital AF algebra, and that any pair of unital AF algebras can occur in this way, independently of the field of KMS states. In addtion, we study the KMS-infinity states.

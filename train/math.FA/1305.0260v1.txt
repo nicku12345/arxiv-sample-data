@@ -1,0 +1,1 @@
+In this note we show that, if \mcB is separable Banach space, then there is a biorthogonal system \{x_n, x_n^*\} such that, the closed linear span of \{x_n\},\bar{\left\langle {\{x_n\}}\right\rangle}=\mcB and \left\| {x_n} \right\|\left\| {x_n^*} \right\| = 1 for all n.

@@ -1,0 +1,1 @@
+We give a parity condition of a Heegaard diagram to show that it is unstabilized. This improves the result of [5]. As an application, we construct unstabilized Heegaard splittings by Dehn twists on any given Heegaard splitting.

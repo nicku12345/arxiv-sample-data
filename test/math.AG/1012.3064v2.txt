@@ -1,0 +1,1 @@
+The condition of plane polynomial curve to be a line in well-known Abhyankar-Moh Theorem is replaced by weaker ones. A criterion of embedded line is obtained from this strong theorem: Two polynomials can generate the entire polynomial ring iff their derivatives can be generated.

@@ -1,0 +1,1 @@
+We give sufficient conditions for the existence of a model structure on operads in an arbitrary symmetric monoidal model category. General invariance properties for homotopy algebras over operads are deduced.

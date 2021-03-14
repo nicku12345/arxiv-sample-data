@@ -1,0 +1,1 @@
+Quantum sphere is introduced as a quotient of the so-called Reflection Equation Algebra. This enables us to construct some line bundles on it by means of the Cayley-Hamilton identity whose a quantum version was discovered in \cite{PS}, \cite{GPS}. A new way to introduce some elements of "braided geometry" on the quantum sphere is discussed.

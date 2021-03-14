@@ -1,0 +1,1 @@
+If X_{\lambda} is a smooth member of the Dwork family over a perfect field k, and Y_{\lambda} is its mirror variety, then the motives of X_{\lambda} and Y_{\lambda} are equal up to motives that are in coniveau \geq 1. If k is a finite field, this provides a motivic explanation for Wan's congruence between the zeta functions of X_{\lambda} and Y_{\lambda}.

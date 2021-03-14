@@ -1,0 +1,1 @@
+In this paper we give necessary and sufficient conditions for the system of positive numbers  M_{k_1}, M_{k_2},..., M_{k_{d}}, 0\leq k_1<...<k_{d} {\leq} r, to guarantee the existence of an r-monotone function defined on the negative half-line \RR_- and such that \|x^{(k_i)}\|_{\infty}=M_{k_i}, i=1,2,...,d.

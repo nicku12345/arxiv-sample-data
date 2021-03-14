@@ -1,0 +1,1 @@
+We find an upper bound for the Gromov width of coadjoint orbits of U(n) with respect to the Kirillov-Kostant-Souriau symplectic form by computing certain Gromov-Witten invariants. The approach presented here is closely related to the one used by Gromov in his celebrated non-squeezing theorem.

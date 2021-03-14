@@ -1,0 +1,1 @@
+We prove that, for the general curve of genus g, the 2nd Gaussian map is injective if g <= 17 and surjective if g >= 18. The proof relies on the study of the limit of the 2nd Gaussian map when the general curve of genus g degenerates to a general stable binary curve, i.e. the union of two rational curves meeting at g+1 points.

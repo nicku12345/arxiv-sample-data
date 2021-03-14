@@ -1,0 +1,1 @@
+We establish geometric criteria to decide whether a contact manifold is overtwisted. Starting with the original definition, we first relate the different overtwisted disks in each dimension and show that a manifold is overtwisted if the Legendrian unknot is loose. Then we characterize overtwistedness in terms of open book decompositions and provide several applications.

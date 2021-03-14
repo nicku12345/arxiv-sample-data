@@ -1,0 +1,1 @@
+We show that a doubling measure on the plane can give positive measure to the graph of a continuous function. This answers a question by Wang, Wen and Wen. Moreover we show that the doubling constant of the measure can be chosen to be arbitrarily close to the doubling constant of the Lebesgue measure.

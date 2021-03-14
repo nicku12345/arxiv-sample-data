@@ -1,0 +1,1 @@
+We introduce unbiased estimators for the Shannon entropy and the class number, in the situation that we are able to take sequences of independent samples of arbitrary length.

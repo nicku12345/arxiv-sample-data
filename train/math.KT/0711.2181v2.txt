@@ -1,0 +1,1 @@
+In this article we prove that the KH-asembly map, as defined by Bartels and L{\"u}ck, can be described in terms of the algebraic KK-theory of Cortinas and Thom. The KK-theory description of the KH-assembly map is similar to that of the Baum-Connes assembly map. In very elementary cases, methods used to prove the Baum-Connes conjecture also apply to the KH-isomorphism conjecture.

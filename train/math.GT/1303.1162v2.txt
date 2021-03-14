@@ -1,0 +1,1 @@
+We give some new methods, based on Lipschitz extension theorems, for bounding filling invariants of subsets of nonpositively curved spaces. We apply our methods to find sharp bounds on higher-order Dehn functions of Sol_{2n+1}, horospheres in euclidean buildings, Hilbert modular groups, and certain S-arithmetic groups.

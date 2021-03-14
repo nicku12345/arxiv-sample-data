@@ -1,0 +1,1 @@
+Considering the family of L-functions \{L(s,f)\}_{f \in H_k} where H_k is the set of weight k Hecke-eigen cusp forms for SL_2(\mathbb{Z}), we prove a zero density estimate near the central point, valid as the weight k \to \infty. This is an ingredient in the author's related paper, which gives an unconditional upper bound on the distribution of the central values.

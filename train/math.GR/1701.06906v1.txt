@@ -1,0 +1,1 @@
+A non-cyclic finite p-group G is said to be thin if every normal subgroup of G lies between two consecutive terms of the lower central series and |\gamma_i(G):\gamma_{i+1}(G)|\le p^2 for all i\geq 1. In this paper, we determine Beauville structures in metabelian thin p-groups.

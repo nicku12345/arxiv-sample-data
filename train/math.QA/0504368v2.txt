@@ -1,0 +1,1 @@
+We prove a theorem about the derivation algebra of the tensor product of two algebras. As an application, we determine the derivation algebra of the fixed point algebra of the tensor product of two algebras, with respect to the tensor product of two finite order automorphisms of the involved algebras. These results generalize some well-know theorems in the literature.

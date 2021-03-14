@@ -1,0 +1,1 @@
+We prove a conjectured determinantal inequality: \frac{\det J}{\prod_{i=1}^nJ_{ii}}\le 2(1-\frac{1}{n-1})^{n-1}, where J is a real n\times n (n\ge 2) diagonally balanced symmetric matrix.

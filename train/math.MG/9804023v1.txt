@@ -1,0 +1,1 @@
+We give a short argument that for some C > 0, every n-dimensional Banach ball K admits a 256-round subquotient of dimension at least C n/(log n). This is a weak version of Milman's quotient of subspace theorem, which lacks the logarithmic factor.

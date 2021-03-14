@@ -1,0 +1,1 @@
+We prove in the theory "ZFC + there is no inner model with a Woodin cardinal" that there is a universal weasel. This shows in particular that one doesn't have to assume the existence of large cardinals in V to prove the existence of some such weasel.

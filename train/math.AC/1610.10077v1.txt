@@ -1,0 +1,1 @@
+In this note we show that in a commutative ring R with unity, for any n > 0, if I is an n-absorbing ideal of R, then (\sqrt{I})^{n} \subseteq I.

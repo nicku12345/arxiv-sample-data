@@ -1,0 +1,1 @@
+We consider optimal control problems governed by systems describing the unsteady flows of an incompressible second grade fluid with Navier-slip boundary conditions. We prove the existence of an optimal solution and derive the corresponding necessary optimality conditions.

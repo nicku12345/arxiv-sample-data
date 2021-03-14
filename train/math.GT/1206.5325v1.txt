@@ -1,0 +1,1 @@
+We give a recipe to compute the geometric intersection number of an integral lamination with a particular type of integral lamination on an n-times punctured disk. This provides a way to find the geometric intersection number of two arbitrary integral laminations when combined with an algorithm of Dynnikov and Wiest.

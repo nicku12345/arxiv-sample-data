@@ -1,0 +1,1 @@
+In this expository paper we survey results that relate Hilbert coefficients of an m-primary ideal I in a Cohen-Macaulay local ring (R, m) with depth of the associated graded ring G(I). Several results in this area follow from two theorems of S. Huckaba and T. Marley. These were proved using homological techniques. We provide simple proofs using superficial sequences.

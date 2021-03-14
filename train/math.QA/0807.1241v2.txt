@@ -1,0 +1,1 @@
+We show that a square zero, degree one element in W(V), the Weyl algebra on a vector space V, is equivalent to providing V with the structure of an algebra over the properad Cobar(coFrob), the properad arising from the cobar construction applied to the cofrobenius coproperad.

@@ -1,0 +1,1 @@
+Let X be a smooth scheme with an action of an algebraic group G. We establish an equivalence of two categories related to the corresponding moment map \mu : T^*X \to Lie(G)^* - the derived category of G-equivariant coherent sheaves on the derived fiber \mu^{-1}(0) and the derived category of G-equivariant matrix factorizations on T^*X \times Lie(G) with potential given by \mu.

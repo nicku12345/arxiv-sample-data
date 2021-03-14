@@ -1,0 +1,1 @@
+We prove that the bar construction of an E_\infty algebra forms an E_\infty algebra. To be more precise, we provide the bar construction of an algebra over the surjection operad with the structure of a Hopf algebra over the Barratt-Eccles operad. (The surjection operad and the Barratt-Eccles operad are classical E_\infty operads.)

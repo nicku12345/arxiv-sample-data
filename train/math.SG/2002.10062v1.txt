@@ -1,0 +1,1 @@
+We extend the Marsden-Weinstein-Meyer symplectic reduction theorem to the setting of multisymplectic manifolds. In this context, we investigate the dependence of the reduced space on the reduction parameters. With respect to a distinguished class of multisymplectic moment maps, an exact stationary phase approximation and nonabelian localization theorem are also obtained.

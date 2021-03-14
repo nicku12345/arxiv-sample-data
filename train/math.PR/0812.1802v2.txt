@@ -1,0 +1,1 @@
+We prove that, up to scalar multiples, there exists only one local regular Dirichlet form on a generalized Sierpinski carpet that is invariant with respect to the local symmetries of the carpet. Consequently for each such fractal the law of Brownian motion is uniquely determined and the Laplacian is well defined.

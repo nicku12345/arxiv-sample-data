@@ -1,0 +1,1 @@
+Denote by \DC(M)_0 the identity component of the group of compactly supported C^\infty diffeomorphisms of a connected C^\infty manifold M, and by \HR the group of the homeomorphisms of \R. We show that if M is a closed manifold which fibers over S^m (m\geq 2), then any homomorphism from \DC(M)_0 to \HR is trivial.

@@ -1,0 +1,1 @@
+The slope variety of a graph is an algebraic set whose points correspond to drawings of a graph. A complement-reducible graph (or cograph) is a graph without an induced four-vertex path. We construct a bijection between the zeroes of the slope variety of the complete graph on n vertices over \mathbb{F}_2, and the complement-reducible graphs on n vertices.

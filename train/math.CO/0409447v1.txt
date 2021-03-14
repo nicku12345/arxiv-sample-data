@@ -1,0 +1,1 @@
+We give a simple bijective proof of associativity and commutativity of the Littlewood-Richardson coefficients or the hive ring. Specifically, we establish existence a polarized polymatroidal discretely concave functions on the tetrahedron with given boundary values at two adjoint faces.

@@ -1,0 +1,1 @@
+In this paper we explore the connection between tensor algebras and displacement structure. We describe a scattering experiment in this framework, we obtain a realization of the elements of the tensor algebra as transfer maps of a certain class of nonstationary linear systems, and we describe a Schur algorithm for the Schur elements of the tensor algebra.

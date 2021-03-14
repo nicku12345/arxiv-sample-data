@@ -1,0 +1,1 @@
+We introduce Peano words, which are words corresponding to finite approximations of the Peano space filling curve. We then find the number of occurrences of certain patterns in these words.

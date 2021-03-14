@@ -1,0 +1,1 @@
+We study in what sense one can determine the function k=k(x) in the scalar hyperbolic conservation law u_t+(k(x)f(u))_x=0 by observing the solution u(t,\dott) of the Cauchy problem with initial data u|_{t=0}=u_o.

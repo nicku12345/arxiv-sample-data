@@ -1,0 +1,1 @@
+This paper presents a model structure for natural transformations of diagrams of simplicial presheaves of a fixed shape, in which the weak equivalences are defined by analogy with pro-equivalences between pro-objects.

@@ -1,0 +1,1 @@
+Let G = \ZZ_p, p an odd prime, act freely on a finite-dimensional CW-complex X with mod p cohomology isomorphic to that of a lens space L^{2m-1} (p;q_1,...,q_m). In this paper, we determine the mod p cohomology ring of the orbit space X/G, when p^2\nmid m.

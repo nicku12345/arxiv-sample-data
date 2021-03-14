@@ -1,0 +1,1 @@
+A result of Borg--Hochstadt in the theory of periodic Jacobi matrices states that such a matrix has constant diagonals as long as all gaps in its spectrum are closed (have zero length). We suggest a quantitative version of this result by proving the two-sided bounds between oscillations of the matrix entries along the diagonals and the length of the maximal gap in the spectrum.

@@ -1,0 +1,1 @@
+Resolution of a compact group action in the sense described by Albin and Melrose is applied to the conjugation action by the unitary group on self-adjoint matrices. It is shown that the eigenvalues are smooth on the resolved space and that the trivial bundle smoothly decomposes into the direct sum of global one-dimensional eigenspaces.

@@ -1,0 +1,1 @@
+In this note we show that various (geometric/homological) finiteness properties are not profinite properties. For example for every 1 \le k, \ell \le \bbn, there exist two finitely generated residually finite groups \Ga_1 and \Ga_2 with isomorphic profinite completions, such that \Ga_1 is strictly of type F_k and \Ga_2 of type F_\ell.

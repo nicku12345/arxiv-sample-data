@@ -1,0 +1,1 @@
+We prove a generalization of Demailly-Ein-Lazarsfeld's subadditivity formula and Mustata's summation formula for multiplier ideals to the case of singular varieties, using characteristic p methods. As an application of our formula, we improve Hochster-Huneke's result on the growth of symbolic powers of ideals in singular affine algebras.

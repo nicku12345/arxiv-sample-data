@@ -1,0 +1,1 @@
+We present a descent style, Bockstein spectral sequence computing Ext over the motivic Steenrod algebra over \R and related sub-Hopf algebras. We demonstrate the workings of this spectral sequence in several examples, providing motivic analogues to the classical computations related to BP<n> and ko.

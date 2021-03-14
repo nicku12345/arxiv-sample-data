@@ -1,0 +1,1 @@
+For each clone C on a set A there is an associated equivalence relation analogous to Green's R-relation, which relates two operations on A if and only if each one is a substitution instance of the other using operations from C. We study the maximal and submaximal clones on a three-element set and determine which of them have only finitely many relative R-classes.

@@ -1,0 +1,1 @@
+We consider the variant of Coxeter-Conway frieze patterns called 2-frieze. We prove that there exist infinitely many closed integral 2-friezes (i.e. containing only positive integers) provided the width of the array is bigger than 4. We introduce operations on the integral 2-friezes generating bigger or smaller closed integral 2-friezes.

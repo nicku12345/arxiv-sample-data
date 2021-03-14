@@ -1,0 +1,1 @@
+For a closed 4-manifold X and closed 3-manifold M we investigate the smallest integer n (perhaps infinity) such that M embeds in the connected sum of n copies of X. It is proven that any lens space (or homology lens space) embeds topologically locally flatly in a connected sum of 8 copies of the complex projective plane.

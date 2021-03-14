@@ -1,0 +1,1 @@
+Each packing of R^d by translates of the unit cube [0,1)^d admits a decomposition into at most two parts such that if a translate of the unit cube is covered by one of them, then it also belongs to such a part.

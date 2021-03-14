@@ -1,0 +1,1 @@
+The alpha-determinant unifies and interpolates the notion of the determinant and permanent. We determine the irreducible decomposition of the cyclic module of gl_n(C) defined by the alpha-determinant. The degeneracy of the irreducible decomposition is determined by the content polynomial of a given partition.

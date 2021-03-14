@@ -1,0 +1,1 @@
+We show that   (1) If ZF is consistent then the following theory is consistent "ZF + DC(omega_{1}) + Every set of reals has Baire property" and   (2) If ZF is consistent then the following theory is consistent "ZFC + `every projective set of reals has Baire property' + `any union of omega_{1} meager sets is meager' ".

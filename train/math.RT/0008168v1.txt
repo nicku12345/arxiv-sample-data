@@ -1,0 +1,1 @@
+Let G be a finite group scheme over an algebraically closed field of positive characteristic. Assume further that the connected component of G is unipotent. It is shown that the projectivity of a rational G-module can be detected on a family of closed subgroups. It is further shown that nilpotent cohomology or extension classes can be detected on this family of subgroups.

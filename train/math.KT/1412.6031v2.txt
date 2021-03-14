@@ -1,0 +1,1 @@
+Building on work of Livernet and Richter, we prove that E_n-homology and E_n-cohomology of a commutative algebra with coefficients in a symmetric bimodule can be interpreted as functor homology and cohomology. Furthermore we show that the associated Yoneda algebra is trivial.

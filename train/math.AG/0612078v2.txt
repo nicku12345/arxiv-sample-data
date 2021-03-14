@@ -1,0 +1,1 @@
+We introduce the concept of strict ample sequence in a fibered triangulated category and define the stability of the objects in a triangulated category. Then we construct the moduli space of (semi) stable objects by GIT construction.

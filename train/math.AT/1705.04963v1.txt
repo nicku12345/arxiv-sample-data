@@ -1,0 +1,1 @@
+To every homotopy n-nilpotent group, defined in earlier work by Dwyer and the author, we associate an endofunctor of pointed spaces and prove that it is looped and n-excisive. As a tool we prove that \Omega P_n({\rm id}) commutes with sifted colimits of connected spaces.

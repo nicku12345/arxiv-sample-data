@@ -1,0 +1,1 @@
+This tutorial presents a simple yet accurate transient stability analysis for Type-A wind turbines. The paper is presented in a tutorial way and therefore it includes some scripts in Matlab/muPad which demonstrate the main concepts.

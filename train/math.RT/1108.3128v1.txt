@@ -1,0 +1,1 @@
+We show that the complexity of the Lie module \mathrm{Lie}(n) in characteristic p is bounded above by m where p^m is the largest p-power dividing n and, if n is not a p-power, is equal to the maximum of the complexities of \Lie(p^i) for 1 \leq i \leq m.

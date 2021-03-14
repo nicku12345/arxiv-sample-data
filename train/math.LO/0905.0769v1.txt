@@ -1,0 +1,1 @@
+In this paper we present a purely syntactical proof of the operational equivalence of I=\lambda xx and the \lambda-term J that is the \eta-infinite expansion of I.

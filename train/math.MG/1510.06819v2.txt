@@ -1,0 +1,1 @@
+Sampaio recently showed that bi-Lipschitz homeomorphic subanalytic sets have bi-Lipschitz homeomorphic tangent cones.   The purpose of this note is to show that Sampaio's method works as well for (SSP) sets, that is, the above result is characteristic for (SSP) sets, a much wider class.

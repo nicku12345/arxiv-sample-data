@@ -1,0 +1,1 @@
+We establish a necessary density criterion for the identifiability of time-frequency structured classes of Hilbert-Schmidt operators. The density condition is based on the density criterion for Gabor frames and Riesz bases in the space of square integrable functions. We complement our findings with examples of identifiable operator classes.

@@ -1,0 +1,1 @@
+We compute the rational cohomology ring of \bar R_2, the (compactified) moduli space of Prym curves of genus 2. We also recompute the rational cohomology ring of \bar S_2, the moduli space of spin curves of genus 2, thereby correcting some errors made in an article by G. Bini and C. Fontanari, containing a computation of the same ring.

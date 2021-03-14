@@ -1,0 +1,1 @@
+If F is a (not necessarily associative) monad on Set, then the natural transformation F(A\times B)\to F(A)\times F(B) is surjective if and only if F(\boldsymbol{1})=\boldsymbol{1}. Specializing F to F_{\mathcal{V}}, the free algebra functor for a variety \mathcal{V}, this result generalizes and clarifies an observation by Dent, Kearnes and Szendrei.

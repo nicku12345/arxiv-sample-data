@@ -1,0 +1,1 @@
+In this paper, we show that Picard, Krasnoselskij, Mann, Ishikawa, new two step, Noor, multistep, new multistep, SP and S-iterative schemes are equivalent for contractive-like operators.

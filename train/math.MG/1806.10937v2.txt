@@ -1,0 +1,1 @@
+We give an improvement of the Carath\'eodory theorem for strong convexity (ball convexity) in \mathbb R^n, reducing the Carath\'eodory number to n in several cases; and show that the Carath\'eodory number cannot be smaller than n for an arbitrary gauge body K. We also give an improved topological criterion for one convex body to be a Minkowski summand of another.

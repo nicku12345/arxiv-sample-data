@@ -1,0 +1,1 @@
+It is proved that on any smoothly bounded domain D in \mathbb{R}^n, n>1, the output of the harmonic Bergman projection belongs to the Sobolev space of order k whenever all tangential derivatives of order up to k of the input function belong to L^2(D).

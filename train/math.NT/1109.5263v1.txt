@@ -1,0 +1,1 @@
+An etale cohomology group W of some irreducible components, which is the smooth compactification of an affine curve (X^{q^2}-X)^{q-1}=(Y^{q(q+1)}-Y^{q+1})^{q-1}, in the stable reduction the Lubin-Tate curve of level two is related to the Lusztig theory over finite rings. In this paper, we investigate a relationship between the cohomology group W and the Lusztig theory.

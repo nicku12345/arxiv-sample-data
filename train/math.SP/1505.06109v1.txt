@@ -1,0 +1,1 @@
+We study the relationship between the adjacency matrix and the discrete Laplacian acting on 1-forms. We also prove that if the adjacency matrix is bounded from below it is not necessarily essentially self-adjoint. We discuss the question of essential self-adjointness and the notion of completeness.

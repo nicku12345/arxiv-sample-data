@@ -1,0 +1,1 @@
+For a totally uniquely ergodic dynamical system, we prove a topological Wiener-Wintner ergodic theorem with polynomial weights under the coincidence of the quasi discrete spectrums of the system in both senses of Abramov and of Hahn-Parry. The result applies to ergodic nilsystems. Fully oscillating sequences can then be constructed on nilmanifolds.

@@ -1,0 +1,1 @@
+We show that the category of finitely generated free modules over certain local rings is n-angulated for every n at least 3. In fact, we construct several classes of n-angles, parametrized by equivalence classes of units in the local rings. Finally, we show that for odd values of n some of these n-angulated categories are not algebraic.

@@ -1,0 +1,1 @@
+We prove the non-commutative analogue of Grothendieck's Standard Conjecture D for the dg-category of matrix factorizations of an isolated hypersurface singularity in characteristic 0. Along the way, we show the Euler pairing for such dg-categories of matrix factorizations is positive semi-definite.

@@ -1,0 +1,1 @@
+This note is an observation that the LLL algorithm applied to prime powers can be used to find "good" examples for the ABC and Szpiro conjectures.

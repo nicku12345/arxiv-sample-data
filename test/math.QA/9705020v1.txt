@@ -1,0 +1,1 @@
+The Cuntz algebra carries in a natural way the structure of a module algebra over the quantized universal enveloping algebra U_q(g), and the structure of a co-module algebra over the quantum group G_q associated with U_q(g). These two algebraic structures are dual to each other via the duality between G_q and U_q(g).

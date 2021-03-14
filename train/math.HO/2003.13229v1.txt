@@ -1,0 +1,1 @@
+This paper introduces a new equation for rewriting two unit fractions to another two unit fractions. This equation is useful for optimizing the elements of an Egyptian Fraction. Parity of the elements of the Egyptian Fractions are also considered. And lastly, the statement that all rational numbers can be represented as Egyptian Fraction is re-established.

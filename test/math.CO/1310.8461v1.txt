@@ -1,0 +1,1 @@
+In this paper, we prove: Let A be a nonnegative primitive tensor with order m and dimension n. Then its primitive degree R(A)\leq (n-1)^2+1, and the upper bound is sharp. This confirms a conjecture of Shao [7].

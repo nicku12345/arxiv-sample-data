@@ -1,0 +1,1 @@
+Using the description of dominions in the variety of nilpotent groups of class at most two, we give a characterization of which groups are absolutely closed in this variety. We use the general result to derive an easier characterization for some subclasses; e.g. an abelian group G is absolutely closed in {\cal N}_2 if and only if G/pG is cyclic for every prime p.

@@ -1,0 +1,1 @@
+This paper blends two techniques recently developed in [2] and [3] to prove the presence of absolutely continuous spectrum for the multidimensional Schrodinger operator provided that the potential is summable over trajectory with positive probability. These trajectories are defined by Ito's equation and escape to infinity almost surely.

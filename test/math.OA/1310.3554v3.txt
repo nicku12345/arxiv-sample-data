@@ -1,0 +1,1 @@
+Given an n-tuple of multiplication operators on the Bergman space of a bounded pseudoconvex domain in C^n, we study the algebra of their commutants. In particular, we give a geometric description of the maximal C*-subalgebra of this algebra.

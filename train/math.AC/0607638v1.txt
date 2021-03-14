@@ -1,0 +1,1 @@
+This article studies jet schemes of monomial schemes. They are known to be equidimensional but usually are not reduced. We thus investigate their structure further, giving a formula for the multiplicity along every component of the jet schemes of a general reduced monomial hypersurface (that is, the case of a simple normal crossing divisor).

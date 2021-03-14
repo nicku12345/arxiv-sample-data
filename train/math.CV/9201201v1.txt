@@ -1,0 +1,1 @@
+If E is a nonempty closed subset of the locally finite Hausdorff (2n-2)-measure on an n-dimensional complex manifold M and all points of E are nonremovable for a meromorphic mapping of M \ E into a compact K\"ahler manifold, then E is a pure (n-1)-dimensional complex analytic subset of M.

@@ -1,0 +1,1 @@
+We consider the Schrodinger operator with a constant magnetic field in the exterior of a compact domain on the plane. The spectrum of this operator consists of clusters of eigenvalues around the Landau levels. We discuss the rate of accumulation of eigenvalues in a fixed cluster.

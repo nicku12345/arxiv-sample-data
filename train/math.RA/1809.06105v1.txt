@@ -1,0 +1,1 @@
+We define the rank of elements of general unital rings, discuss its properties and give several examples to support the definition. In semiprime rings we give a characterization of rank in terms of invertible elements. As an application we prove that every element in the socle of a unital semiprime ring is unit-regular.

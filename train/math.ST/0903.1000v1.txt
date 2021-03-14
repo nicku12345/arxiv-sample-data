@@ -1,0 +1,1 @@
+We give derivations of some basic results for the Bernstein approximation in n variables that are useful in investigating copulas. It is shown that Bernstein approximations of copulas are again copulas. We exhibit a stochastic interpretation for the Bernstein approximation of a copula.

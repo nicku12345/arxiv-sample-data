@@ -1,0 +1,1 @@
+We use equivariant methods to establish basic properties of orbifold K-theory. We introduce the notion of twisted orbifold K-theory in the presence of discrete torsion, and show how it can be explicitly computed for global quotients.

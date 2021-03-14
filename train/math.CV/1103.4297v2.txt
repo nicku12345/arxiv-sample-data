@@ -1,0 +1,1 @@
+We generalize the Poletsky disc envelope formula for the function \sup \{u \in \PSH(X,\omega) ; u\leq \phi\} on any complex manifold X to the case where the real (1,1)-current \omega=\omega_1-\omega_2 is the difference of two positive closed (1,1)-currents and \phi is the difference of an \omega_1-upper semicontinuous function and a plurisubharmonic function.

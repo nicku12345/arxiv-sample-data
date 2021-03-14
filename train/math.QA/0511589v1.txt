@@ -1,0 +1,1 @@
+The algebras Q_n describe the relationship between the roots and coefficients of a non-commutative polynomial. I.Gelfand, S.Gelfand, and V. Retakh have defined quotients of these algebras corresponding to graphs. In this work we find the Hilbert series of the class of algebras corresponding to the graph K_3. We also show this algebra is Koszul using the lattice definition.

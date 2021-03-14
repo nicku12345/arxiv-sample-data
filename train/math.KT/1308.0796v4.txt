@@ -1,0 +1,1 @@
+The representation ring of an affine algebraic group scheme can be endowed with the structure of a (special) \lambda-ring. We show that the same is true for the ring of symmetric representations, i.e. for the Grothendieck-Witt ring of the representation category, for any affine algebraic group scheme over a field of characteristic not two.

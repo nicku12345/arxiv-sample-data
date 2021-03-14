@@ -1,0 +1,1 @@
+A strong error estimate for the uniform rational approximation of x^\alpha on [0,1] is given, and its proof is sketched. Let E_{nn}(x^\alpha,[0,1]) denote the minimal approximation error in the uniform norm. Then it is shown that \lim_{n\to\infty}e^{2\pi\sqrt{\alpha n}}E_{nn}(x^\alpha,[0,1]) = 4^{1+\alpha}|\sin\pi\alpha| holds true for each \alpha>0.

@@ -1,0 +1,1 @@
+It is shown that a Banach space E has type p if and only for some (all) d\ge 1 the Besov space B_{p,p}^{(\frac1p-\frac12)d}(\R^d;E) embeds into the space \g(L^2(\R^d),E) of \g-radonifying operators L^2(\R^d)\to E. A similar result characterizing cotype q is obtained. These results may be viewed as E-valued extensions of the classical Sobolev embedding theorems.

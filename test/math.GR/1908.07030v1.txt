@@ -1,0 +1,1 @@
+In this note we show that if p is an odd prime and G is a powerful p-group with N\leq G^{p} and N normal in G, then N is powerfully nilpotent. An analogous result is proved for p=2 when N\leq G^{4}.

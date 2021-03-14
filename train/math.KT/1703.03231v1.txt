@@ -1,0 +1,1 @@
+We prove that the projective model structure on the category of unbounded cochain complexes extends naturally to the category of contractions. The proof is completely elementary and we do not assume familiarity with model categories.

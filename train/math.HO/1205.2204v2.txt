@@ -1,0 +1,1 @@
+We present a method to compute the volume of a solid of revolution as a double integral in a very simple way. Then, we see that the classical methods (disks and shells) are recovered if this double integral is computed by each of the two possible applications of Fubini's theorem. As a further application we also show how Pappus' theorem is obtained from our formula.

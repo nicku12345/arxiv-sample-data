@@ -1,0 +1,1 @@
+Neumann-Lara (1985) and \v{S}krekovski conjectured that every planar digraph with digirth at least three is 2-colorable. We prove a relaxed version of this conjecture: every planar digraph of digirth at least five is 2-colorable. The result also holds in the setting of list colorings.

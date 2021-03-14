@@ -1,0 +1,1 @@
+The purpose of this note is to provide an approximation for the generalized bootstrapped empirical process achieving the rate in Kolmos et al. (1975). The proof is based on much the same arguments as in Horvath et al. (2000). As a consequence, we establish an approximation of the bootstrapped kernel-type density estimator

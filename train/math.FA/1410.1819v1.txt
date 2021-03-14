@@ -1,0 +1,1 @@
+We compute the right and left democracy functions of admissible wavelet bases in variable Lebesgue spaces defined on R^n. As an application we give Lebesgue type inequalities for these wavelet bases. We also show that our techniques can be easily modified to prove analogous results for weighted variable Lebesgue spaces and variable exponent Triebel-Lizorkin spaces.

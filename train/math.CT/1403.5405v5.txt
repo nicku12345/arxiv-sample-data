@@ -1,0 +1,1 @@
+The purpose of this note is to record a connection between sheaves on complete Boolean algebras and conditional sets. This connection yields a transfer principle for conditional set theory. On the other hand we use conditional set theory to interpret the internal objects of a respective sheaf topos.

@@ -1,0 +1,1 @@
+This paper gives a new representation of Pickands' constants, which arise in the study of extremes for a variety of Gaussian processes. Using this representation, we resolve the long-standing problem of devising a reliable algorithm for estimating these constants. A detailed error analysis illustrates the strength of our approach.

@@ -1,0 +1,1 @@
+In this paper, we introduce the Tribonacci and Tribonacci-Lucas quaternion polynomials. We obtain the Binet formulas, generating functions and exponential generating functions of these quaternions. Moreover, we give some properties and identities for the Tribonacci and Tribonacci-Lucas quaternions.

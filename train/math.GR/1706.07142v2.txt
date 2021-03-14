@@ -1,0 +1,1 @@
+The non--commuting graph \Gamma(G) of a non--abelian group G is defined as follows. The vertex set V(\Gamma(G)) of \Gamma(G) is G\setminus Z(G) where Z(G) denotes the center of G and two vertices x and y are adjacent if and only if xy\neq yx. For non--abelian finite groups G and H it is conjectured that if \Gamma(G) \cong \Gamma(H), then |G|=|H|. We prove the conjecture.

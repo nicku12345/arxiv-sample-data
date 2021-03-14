@@ -1,0 +1,1 @@
+Albertson conjectured that if a graph G has chromatic number r then its crossing number is at least as much as the crossing number of K_r. Albertson, Cranston, and Fox verified the conjecture for r\le 12. We prove the statement for r\le 16.

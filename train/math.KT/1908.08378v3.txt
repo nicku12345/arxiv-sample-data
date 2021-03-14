@@ -1,0 +1,1 @@
+We give a method for computing the C_2-equivariant homotopy groups of the Betti realization of a p-complete cellular motivic spectrum over R in terms of its motivic homotopy groups. More generally, we show that Betti realization presents the C_2-equivariant p-complete stable homotopy category as a localization of the p-complete cellular real motivic stable homotopy category.

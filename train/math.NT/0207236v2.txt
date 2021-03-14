@@ -1,0 +1,1 @@
+We calculate the discrete moments of the characteristic polynomial of a random unitary matrix, evaluated a small distance away from an eigenangle. Such results allow us to make conjectures about similar moments for the Riemann zeta function, and provide a uniform approach to understanding moments of the zeta function and its derivative.

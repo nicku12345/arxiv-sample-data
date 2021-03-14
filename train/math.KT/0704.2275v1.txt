@@ -1,0 +1,1 @@
+The purpose of this article is to prove that Gersten's conjecture for a commutative regular local ring is true. As its applications, we will prove the vanishing conjecture for certain Chow groups, generator conjecture for certain K-groups and Bloch's formula for absolute case.

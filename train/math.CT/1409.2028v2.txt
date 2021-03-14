@@ -1,0 +1,1 @@
+The purpose of this paper is to develop an efficient computational model for Abelian categories of coherent sheaves over certain classes of varieties. These categories are naturally described as Serre quotient categories. Hence, our approach relies on describing general Serre quotient categories in a constructive way which leads to an efficient computer implementation.

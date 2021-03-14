@@ -1,0 +1,1 @@
+In a central force system the angle between two successive passages of a body through pericenters is called the apsidal angle. In this paper we prove that for central forces of the form f(r)\sim \lambda r^{-(\alpha+1)} with \alpha<2 the apsidal angle is a monotonous function of the energy, or equivalently of the orbital eccentricity.

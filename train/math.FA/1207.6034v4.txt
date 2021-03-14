@@ -1,0 +1,1 @@
+In a real locally convex Hausdorff space the closed convex hull of every metrizable compact set is compact if (and only if) every continuous curve has a Pettis integral with respect to Lebesgue measure. For such spaces there is a natural concept of Bochner integrals.

@@ -1,0 +1,1 @@
+Distinguished selfadjoint extensions of operators which are not semibounded can be deduced from the positivity of the Schur Complement (as a quadratic form). In practical applications this amounts to proving a Hardy-like inequality. Particular cases are Dirac-Coulomb operators where distinguished selfadjoint extensions are obtained for the optimal range of coupling constants.

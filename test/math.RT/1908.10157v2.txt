@@ -1,0 +1,1 @@
+It is shown that, given a representation of a quiver over a finite field, one can check in polynomial time whether it is absolutely indecomposable.

@@ -1,0 +1,1 @@
+In this paper, we establish a link between Leray mollified solutions of the three-dimensional generalized Naiver-Stokes equations and mild solutions for initial data in the adherence of the test functions for the norm of Q^{\beta,-1}_{\alpha, loc}(\mathbb{R}^{3}). This result applies to the usual incompressible Navier-Stokes equations and deduces a known link.

@@ -1,0 +1,1 @@
+We study sums with multiplicative functions that take values over a non-homogenous Beatty sequence. We then apply our result in a few special cases to obtain asymptotic formulas such as the number of integers in a Beatty sequence representable as a sum of two squares up to a given magnitude.

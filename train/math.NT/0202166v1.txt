@@ -1,0 +1,1 @@
+We establish a uniform upper estimate for the values of zeta(s)/zeta(s+A), 0<= A, on the critical line (conditionally on the Riemann Hypothesis). We use this to give a variant, purely complex analytic, to Baez-Duarte's proof of a strengthened Nyman-Beurling criterion for the validity of the Riemann Hypothesis.

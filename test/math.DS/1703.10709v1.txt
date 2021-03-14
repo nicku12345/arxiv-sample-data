@@ -1,0 +1,1 @@
+In this paper, we consider the mean curvature flow with driving force on fixed extreme points in the plane. We give a general local existence and uniqueness result of this problem with C^2 initial curve. For a special family of initial curves, we classify the solutions into three categories. Moreover, in each category, the asymptotic behavior is given.

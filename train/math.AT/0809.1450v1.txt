@@ -1,0 +1,1 @@
+We give a conjectural description for the kernel of the map assigning to each finite \mathbb Z_p-free G\times\mathbb Z_p-set its rational permutation module where G is a finite p-group. We prove that this conjecture is true when G is an elementary abelian p-group or a cyclic p-group.

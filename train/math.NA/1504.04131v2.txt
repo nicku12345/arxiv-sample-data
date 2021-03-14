@@ -1,0 +1,1 @@
+We establish formulas for the b-adic Walsh coefficients of functions in C^\alpha[0,1] for an integer \alpha \geq 1 and give upper bounds on the Walsh coefficients of these functions. We also study the Walsh coefficients of periodic and non-periodic functions in reproducing kernel Hilbert spaces.

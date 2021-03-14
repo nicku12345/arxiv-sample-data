@@ -1,0 +1,1 @@
+We introduce a general Hamiltonian framework that appears to be a natural setting for the derivation of various production functions in economic growth theory, starting with the celebrated Cobb-Douglas function. Employing our method, we investigate some existing models and propose a new one as special cases of the general n-dimensional Lotka-Volterra system of eco-dynamics.

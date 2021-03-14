@@ -1,0 +1,1 @@
+We obtain universal affine type estimates for the location of the geometric medians of triangle perimeters and for the location of the geometric medians of triangular domains. At the end, some alternative implementations of the triangle space are discussed.

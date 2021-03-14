@@ -1,0 +1,1 @@
+The paper is concerned with the boundary controllability of entropy weak solutions to hyperbolic systems of conservation laws. We prove a general result on the asymptotic stabilization of a system near a constant state. On the other hand, we give an example showing that exact controllability in finite time cannot be achieved, in general.

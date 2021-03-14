@@ -1,0 +1,1 @@
+At any order, the perturbative expansion of the expectation values of Wilson lines in Chern-Simons theory gives certain integral expressions. We show that they all lead to knot invariants. Moreover these are finite type invariants whose order coincides with the order in the perturbative expansion. Together they combine to give a universal Vassiliev invariant.

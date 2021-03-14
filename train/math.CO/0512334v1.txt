@@ -1,0 +1,1 @@
+We develop the necessary machinery in order to prove that hexagonal tilings are uniquely determined by their Tutte polynomial, showing as an example how to apply this technique to the toroidal hexagonal tiling.

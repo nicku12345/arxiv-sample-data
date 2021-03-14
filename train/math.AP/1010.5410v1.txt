@@ -1,0 +1,1 @@
+The abstract version of Struwe's monotonicity trick developed by Jeanjean and Jeanjean-Toland for functionals depending on a real parameter is improved, under suitable assumptions. Besides, all the machinery is extended to the case of continuous functionals on Banach spaces, in the framework of non-smooth critical point theory.

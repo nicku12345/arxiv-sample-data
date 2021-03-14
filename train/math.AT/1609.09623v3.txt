@@ -1,0 +1,1 @@
+Given a small category I and a closed symmetric monoidal category \mm, we show that the diagram category \mm^I with the objectwise product is a closed symmetric monoidal category. We then prove that if I is a Reedy category and \mm has a model structure compatible with its product, then so is the Reedy model structure on \mm^I provided that \mm is cofibrantly generated.

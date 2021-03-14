@@ -1,0 +1,1 @@
+Let k[x]_{(x)} be the polynomial ring k[x] localized in the maximal ideal (x)\subseteq k[x]. We study the Hilbert functor parameterizing ideals of colength n in this ring {\it having support at the origin}. The main result of this article is that this functor is not representable. We also give a complete description of the functor as a limit of representable functors.

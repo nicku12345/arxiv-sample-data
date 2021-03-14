@@ -1,0 +1,1 @@
+We provide sufficient conditions for a mapping f:R^{n}\rightarrow R^{n} to be a global diffeomorphism in case it is strictly (Hadamard) differentiable. We use classical local invertibility conditions together with the non-smooth critical point theory.

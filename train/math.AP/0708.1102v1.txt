@@ -1,0 +1,1 @@
+Let G be a compact Lie group acting transitively on Riemannian manifolds M and N. Let p be a G equivariant Riemannian submersion from M to N. We show that a smooth differential form on N has finite Fourier series if and only if the pull back has finite Fourier series on M

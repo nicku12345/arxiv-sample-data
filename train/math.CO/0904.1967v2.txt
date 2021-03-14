@@ -1,0 +1,1 @@
+We (re-)prove that in every 3-edge-coloured tournament in which no vertex is incident with all colours there is either a cyclic rainbow triangle or a vertex dominating every other vertex monochromatically.

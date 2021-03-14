@@ -1,0 +1,1 @@
+It is a classical problem in algebraic geometry to characterize the algebraic subvariety by using the Gauss map. In this note, we try to develop the analogue theory in CR geometry. In particular, under some assumptions, we show that a CR map between spheres is totally geodesic if and only if the CR Gauss map of the image is degenerate.

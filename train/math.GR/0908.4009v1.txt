@@ -1,0 +1,1 @@
+We consider classes of fundamental groups of complements of various kinds of codimension 2 embeddings and show that, in general, the problem of deciding whether or not a group in one class belongs to a smaller class is algorithmically unsolvable.

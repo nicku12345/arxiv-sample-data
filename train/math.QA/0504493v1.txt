@@ -1,0 +1,1 @@
+For a finite dimensional semisimple Lie algebra {\frak{g}} and a root q of unity in a field k, we associate to these data a double quiver \bar{\cal{Q}}. It is shown that a restricted version of the quantized enveloping algebras U_q(\frak g) is a quotient of the double quiver algebra k\bar{\cal Q}.

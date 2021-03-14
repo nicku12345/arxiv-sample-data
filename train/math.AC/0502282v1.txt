@@ -1,0 +1,1 @@
+We introduce pretty clean modules, extending the notion of clean modules by Dress, and show that pretty clean modules are sequentially Cohen-Macaulay. We also extend a theorem of Dress on shellable simplicial complexes to multicomplexes.

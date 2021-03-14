@@ -1,0 +1,1 @@
+It is known that the second Leibniz homology group HL_2(stl_n(R)) of the Steinberg Leibniz algebra stl_n(R) is trivial for n\geq 5. In this paper, we determine HL_2(stl_n(R)) explicitly (which are shown to be not necessarily trivial) for n=3, 4 without any assumption on the base ring.

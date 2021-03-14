@@ -1,0 +1,1 @@
+In this note, we give a short proof of the existence of certain abelian extension over a given global field K. This result implies that for every positive integer m, there exists an abelian extension L/K of exponent m such that the m-torsion subgroup of \Br(K) equals \Br(L/K).

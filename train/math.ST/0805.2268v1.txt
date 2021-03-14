@@ -1,0 +1,1 @@
+The paper proposes some robust estimators of the finite population mean. Such estimators are particularly suitable in the presence of some outlying observations. Included as special cases of our general result are robust versions of the ratio estimator and the Horvitz-Thompson estimator. The robust estimators are derived on the basis of certain predictive influence functions.

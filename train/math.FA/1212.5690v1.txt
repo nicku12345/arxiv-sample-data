@@ -1,0 +1,1 @@
+We improve the operator Kantorovich inequality as follows: Let A be a positive operator on a Hilbert space with 0<m\le A \le M. Then for every unital positive linear map \Phi, \[\Phi(A^{-1})^2\le (\frac{(M+m)^2}{4Mm})^2\Phi(A)^{-2}.\] As a consequence, \[\Phi(A^{-1})\Phi(A)+\Phi(A)\Phi(A^{-1}) \le \frac{(M+m)^2}{2Mm}.\]

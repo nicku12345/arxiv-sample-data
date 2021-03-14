@@ -1,0 +1,1 @@
+Let R be a nil ring. We prove that primitive ideals in the polynomial ring R[x] in one indeterminate over R are of the form I[x] for some ideals I of R.

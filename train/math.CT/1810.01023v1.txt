@@ -1,0 +1,1 @@
+Taking into account the correspondence between open groupoids and their quantales, we establish a bijective correspondence between the principal G-bundles whose left projection is an open surjection and the principal \opens(G)-locales for any open groupoid G and its groupoid quantale \opens(G), the latter requires a generalization of the supported modules for groupoid quantales.

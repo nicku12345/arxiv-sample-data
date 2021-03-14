@@ -1,0 +1,1 @@
+We demonstrate that the extended Kalman filter converges locally for a broad class of nonlinear systems. If the initial estimation error of the filter is not too large then the error goes to zero exponentially as time goes to infinity. To demonstrate this, we require that the system be C^2 and uniformly observable with bounded second partial derivatives.

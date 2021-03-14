@@ -1,0 +1,1 @@
+Invariant subspaces of a matrix A are considered which are obtained by truncation of a Jordan basis of a generalized eigenspace of A. We characterize those subspaces which are independent of the choice of the Jordan basis. An application to Hamilton matrices and algebraic Riccati equations is given.

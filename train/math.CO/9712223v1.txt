@@ -1,0 +1,1 @@
+We give a short argument that for any fixed n, the probability that a permutation on m letters is an n'th power is asymptotically C m^{phi(n)/n - 1}.

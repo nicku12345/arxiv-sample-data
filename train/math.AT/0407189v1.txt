@@ -1,0 +1,1 @@
+We prove that the integral cohomology algebra of the moment-angle complex Z_K, or of the corresponding coordinate subspace arrangement complement U(K), is isomorphic to the Tor-algebra of the face ring Z[K] of simplicial complex K.

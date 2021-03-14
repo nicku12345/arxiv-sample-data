@@ -1,0 +1,1 @@
+In a previous paper, we showed that 3\bar{5}241-avoiding permutations are counted by the unique sequence that starts with a 1 and shifts left under the self-composition transform. The proof uses a complicated bijection. Here we give a much simpler proof based on Lagrange inversion.

@@ -1,0 +1,1 @@
+Let \Lambda be a finite dimensional algebra such that \mathcal{L}_{\Lambda} or \mathcal{R}_{\Lambda}\neq\emptyset. Then \Lambda is \tau-tilting finite if and only if \Lambda is representation-finite.

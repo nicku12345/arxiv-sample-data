@@ -1,0 +1,1 @@
+We establish a relationship between the word complexity and the number of generalized diagonals for a polygonal billiard. We conclude that in the rational case the complexity function has cubic upper and lower bounds. In the tiling case the complexity has cubic asymptotic growth.

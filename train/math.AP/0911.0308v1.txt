@@ -1,0 +1,1 @@
+We study the biharmonic equation \Delta^2 u =u^{-\alpha}, 0<\alpha<1, in a smooth and bounded domain \Omega\subset\RR^n, n\geq 2, subject to Dirichlet boundary conditions. Under some suitable assumptions on \o related to the positivity of the Green function for the biharmonic operator, we prove the existence and uniqueness of a solution.

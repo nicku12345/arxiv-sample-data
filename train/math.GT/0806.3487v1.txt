@@ -1,0 +1,1 @@
+Given a torus bundle Y over the circle and a cohomology class [\omega]\in H^2(Y;\mathbb{Z}) which evaluates nontrivially on the fiber, we compute the Heegaard Floer homology of Y with twisted coefficients in the universal Novikov ring.

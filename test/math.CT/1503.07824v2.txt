@@ -1,0 +1,1 @@
+We establish an equivalence of homotopy theories between symmetric monoidal bicategories and connective spectra. For this, we develop the theory of \Gamma-objects in 2-categories. In the course of the proof we establish strictfication results of independent interest for symmetric monoidal bicategories and for diagrams of 2-categories.

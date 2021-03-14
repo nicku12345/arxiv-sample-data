@@ -1,0 +1,1 @@
+We investigate the Baire classification of mappings f:X\times Y\to Z, where X belongs to a wide class of spaces, which includes all metrizable spaces, Y is a topological space, Z is an equiconnected space, which are continuous in the first variable and for a dense set in X these mappings are functions of a Baire class \alpha in the second variable.

@@ -1,0 +1,1 @@
+A version of the projection method for solving the scattering problem for acoustic and electromagnetic waves is proposed and shown to be more efficient numerically than the earlier ones because the corresponding matrix is not ill-conditioned.

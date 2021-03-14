@@ -1,0 +1,1 @@
+We prove explicit and elementary formulas for the group homology and cohomology of a finite group with coefficients in any module. We describe in elementary terms the cohomology algebra H^*(G,k) as a graded algebra for a finite group G and a commutative ring k.

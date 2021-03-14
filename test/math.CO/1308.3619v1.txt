@@ -1,0 +1,1 @@
+We provide a trace partitioned Gray code for the set of q-ary strings avoiding a pattern constituted by k consecutive equal symbols. The definition of this Gray code is based on two different constructions, according to the parity of q. This result generalizes, and is based on, a Gray code for binary strings avoiding k consecutive 0's.

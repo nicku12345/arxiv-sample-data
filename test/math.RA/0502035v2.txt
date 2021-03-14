@@ -1,0 +1,1 @@
+We construct reflection functors on categories of modules over deformed wreath products of the preprojective algebra of a quiver. These functors give equivalences of categories associated to generic parameters which are in the same orbit under the Weyl group action. We give applications to the representation theory of symplectic reflection algebras of wreath product groups.

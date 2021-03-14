@@ -1,0 +1,1 @@
+Aim of this paper is to define a new type of cohomology for multiplicative Hom-Leibniz algebras which controls deformations of Hom-Leibniz algebra structure. The cohomology and the associated deformation theory for Hom-Leibniz algebras as developed here are also extended to equvariant context, under the presence of finite group actions on Hom-Leibniz algebras.

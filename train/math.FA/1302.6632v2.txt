@@ -1,0 +1,1 @@
+We give a constructive proof of Carpenter's Theorem due to Kadison. Unlike the original proof our approach also yields the real case of this theorem.

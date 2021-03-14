@@ -1,0 +1,1 @@
+Through symbolic methods, we state explicit formulae for Tchebychev, Gegenbauer, Meixner, Mittlag-Leffler, and Pidduck polynomials. This is done by underlining the crucial role played by the Abel identity in revisiting the Lagrange inversion formula and the theory of the Riordan arrays.

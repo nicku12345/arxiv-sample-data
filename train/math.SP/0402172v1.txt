@@ -1,0 +1,1 @@
+We prove an approximate spectral theorem for non-self-adjoint operators and investigate its applications to second order differential operators in the semi-classical limit. This leads to the construction of a twisted FBI transform. We also investigate the connections between pseudospectra and boundary conditions in the semi-classical limit.

@@ -1,0 +1,1 @@
+We present a simplification of Jensen's proof of his Coding Theorem (even in the case where 0# exists). The proof avoids Jensen's split into cases according to whether or not 0# exists.   In addition, the paper contains self-contained proofs of the necessary forms of Square and Diamond, based on an approach to fine structure using Jensen's \Sigma^* theory.

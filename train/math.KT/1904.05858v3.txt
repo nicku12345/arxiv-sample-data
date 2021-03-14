@@ -1,0 +1,1 @@
+We prove a claim by Williams that the coassembly map is a homotopy limit map. As an application, we show that the homotopy limit map for the coarse version of equivariant A-theory agrees with the coassembly map for bivariant A-theory that appears in the statement of the topological Riemann-Roch theorem.

@@ -1,0 +1,1 @@
+This masters thesis reviews bundle gerbe theory and the well-known basic bundle gerbe over SU(n). We introduce the cup product bundle gerbe, and show it is stably isomorphic to the pullback of the basic bundle gerbe by the Weyl map. This result enriches our understanding of the basic bundle gerbe, which has numerous applications in physics.

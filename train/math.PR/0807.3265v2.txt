@@ -1,0 +1,1 @@
+We prove that, for \kappa\in(0,4) and \rho\ge (\kappa-4)/2, the chordal SLE(\kappa;\rho) trace started from (0;0^+) or (0;0^-) satisfies the reversibility property. And we obtain the equation for the reversal of the chordal SLE(\kappa;\rho) trace started from (0;b_0), where b_0>0.

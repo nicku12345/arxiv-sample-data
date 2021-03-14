@@ -1,0 +1,1 @@
+Given an arbitrary p-Banach ideal (0 < p \leq 1), we ask for geometrical properties of this ideal which are sufficient (and necessary) to allow a transfer of the principle of local reflexivity to this operator class.

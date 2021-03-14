@@ -1,0 +1,1 @@
+Let G be a finite group and N\unlhd G. In this note, we construct a class poset of G for some cyclic subgroup C of G. And we find a relation between m_{G,N} and the Euler characteristic of some nerve spaces of these posets(see Main Theorem).

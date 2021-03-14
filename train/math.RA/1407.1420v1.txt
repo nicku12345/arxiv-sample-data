@@ -1,0 +1,1 @@
+Viewing the complex Clifford algebra C(V) of a real inner product space V as a superalgebra, we offer several proofs of the fact that if W is a subspace of the complexification of V then the supercommutant of the Clifford algebra C(W) is precisely the Clifford algebra C(W^{\perp}).

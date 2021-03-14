@@ -1,0 +1,1 @@
+The Stirling numbers of the first kind can be represented in terms of a new class of polynomials that are closely related to the Bernoulli polynomials. Recursion relations for these polynomials are given.

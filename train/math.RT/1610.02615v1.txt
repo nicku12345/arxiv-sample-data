@@ -1,0 +1,1 @@
+Using the resolution quiver for a connected Nakayama algebra, a fast algorithm is given to decide whether its global dimension is finite or not and whether it is Gorenstein or not. The latter strengthens a result of Ringel.

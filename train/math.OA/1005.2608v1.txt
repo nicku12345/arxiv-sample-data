@@ -1,0 +1,1 @@
+We consider representations of the free group F_2 on two generators such that the norm of the sum of the generators and their inverses is bounded by \mu\in[0,4]. These \mu-constrained representations determine a C*-algebra A_{\mu} for each \mu\in[0,4]. We prove that these C*-algebras form a continuous bundle of C*-algebras over [0,4] and calculate their K-groups.

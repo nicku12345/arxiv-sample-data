@@ -1,0 +1,1 @@
+This is a written-up version of eight introductory lectures to the Hodge theory of projective manifolds. The table of contents should be self-explanatory. The only exception is section 8 where I discuss, in a simple example, a technique for studying the class map for homology classes on the fibers of a map and one for approximating a certain kind of primitive vectors.

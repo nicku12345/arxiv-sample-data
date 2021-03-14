@@ -1,0 +1,1 @@
+In this letter, we reconsider the Born-Infeld approach by replacing the Faraday field-strength tensor by a complex one in the lagrangian density. We show that an extension of the least action principle to complex-valued lagrangian densities permits us to understand why experiments have never exhibited nonlinear Born-Infeld effects.

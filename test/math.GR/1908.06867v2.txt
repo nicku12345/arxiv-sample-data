@@ -1,0 +1,1 @@
+Let A be a finite group acting by automorphisms on the finite group G. We introduce the commuting graph \Gamma (G,A) of this action and study some questions related to the structure of G under certain graph theoretical conditions on \Gamma (G,A).

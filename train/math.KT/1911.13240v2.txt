@@ -1,0 +1,1 @@
+We provide unipotent factorizations of vector bundle automorphisms of real and complex vector bundles over smooth manifolds. This generalises work of Thurston-Wasserstein and Wasserstein for trivial vector bundles. We also address two symplectic cases and propose a complex geometric analog of the problem in the setting of holomorphic vector bundles over Stein manifolds.

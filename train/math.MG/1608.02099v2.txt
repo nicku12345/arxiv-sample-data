@@ -1,0 +1,1 @@
+We determine geodesics in \mathbb{R}_{\infty}^n (i.e. (\mathbb{R}^n, d_{\infty})) and by using this, classify planes up to isometry in \mathbb{R}_{\infty}^3.

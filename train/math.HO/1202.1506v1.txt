@@ -1,0 +1,1 @@
+Euler gives a long introduction, giving all the arguments for and against the use of divergent series in calculus and then gives his own definition of the sum of a diverging series. Then in the second half of this paper he evaluates the the 1-1+2-6+24-120+720-... on several ways and gets the sum 0.5963473621372. The paper is translated from Euler's Latin original into German.

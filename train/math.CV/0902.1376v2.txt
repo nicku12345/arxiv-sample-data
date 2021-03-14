@@ -1,0 +1,1 @@
+We construct a canonical Green current T_f for every quasi-algebraically stable meromorphic self-map f of CP^k such that its first dynamical degree \lambda_1(f) is a simple root of its characteristic polynomial and that \lambda_1(f) > 1. We establish a functional equation for T_f and show that the support of T_f is contained in the Julia set of f, which is thus non empty.

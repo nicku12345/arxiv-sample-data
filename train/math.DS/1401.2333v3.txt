@@ -1,0 +1,1 @@
+We use the homotopy Brouwer theory of Handel to define a Poincar{\'e} index between two orbits for an orientation preserving fixed point free homeomorphism of the plane. Furthermore, we prove that this index is almost additive.

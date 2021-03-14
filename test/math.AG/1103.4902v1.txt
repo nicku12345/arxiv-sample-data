@@ -1,0 +1,1 @@
+We describe all reductive spherical subgroups of the group SL(n) which have connected intersection with any parabolic subgroup of the group SL(n). This condition guarantees that any open equivariant embedding of the corresponding homogeneous space into a Moishezon space is algebraic.

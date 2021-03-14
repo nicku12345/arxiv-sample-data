@@ -1,0 +1,1 @@
+A version of Arzel\`a-Ascoli theorem for X being \sigma-locally compact Hausdorff space is proved. The result is used in proving compactness of Fredholm, Hammerstein and Urysohn operators. Two fixed point theorems, for Hammerstein and Urysohn operator, are derived on the basis of Schauder theorem.

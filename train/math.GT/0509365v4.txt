@@ -1,0 +1,1 @@
+We describe an algorithm for determining whether a finite quandle is isomorphic to an Alexander quandle by finding all possible Alexander presentations of the quandle. We give an implementation of this algorithm in Maple.

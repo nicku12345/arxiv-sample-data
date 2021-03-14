@@ -1,0 +1,1 @@
+Let A be an n by n matrix, whose entries are independent copies of a centered random variable satisfying the subgaussian tail estimate. We prove that the operator norm of A^{-1} does not exceed Cn^{3/2} with probability close to 1.

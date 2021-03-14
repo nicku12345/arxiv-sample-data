@@ -1,0 +1,1 @@
+We describe the Taylor and Lyubeznik resolutions as simplicial resolutions, and use them to show that the Scarf complex of a monomial ideal is the intersection of all its minimal free resolutions.

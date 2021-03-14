@@ -1,0 +1,1 @@
+Each extended Cartan--Eilenberg system (H, \partial) gives rise to two exact couples and one spectral sequence. We show that the canonical colim-lim interchange morphism associated to H is a surjection, and that its kernel is isomorphic to Boardman's whole-plane obstruction group W, for each of the two exact couples.

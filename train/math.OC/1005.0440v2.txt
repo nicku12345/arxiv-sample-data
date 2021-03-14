@@ -1,0 +1,1 @@
+The ubiquity of PID controllers in the industry has remained mysterious until now. We provide here a mathematical explanation of this strange phenomenon by comparing their sampling with the the one of "intelligent" PID controllers, which were recently introduced. Some computer simulations nevertheless confirm the superiority of the new intelligent feedback design.

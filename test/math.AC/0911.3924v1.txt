@@ -1,0 +1,1 @@
+We bound the complexity of the fibers of the generic linear projection of a smooth variety in terms of a new family of invariants. These invariants are closely related to ideas of John Mather, and we give a simple proof of his bound on the Thom-Boardman invariants of a generic projection as an application.

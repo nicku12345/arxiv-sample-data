@@ -1,0 +1,1 @@
+We give an upper bound on the largest eigenvalue of a graph of given order, size, and girth.

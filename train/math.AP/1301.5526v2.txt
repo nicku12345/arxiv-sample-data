@@ -1,0 +1,1 @@
+We prove the existence of nontrivial standing wave solutions of the complex Ginzburg-Landau equation \phi_t = e^{i\theta} \Delta \phi + e^{i\gamma} |\phi |^\alpha \phi  with periodic boundary conditions. Our result includes all values of \theta  and \gamma  for which \cos \theta \cos \gamma >0, but requires that \alpha >0 be sufficiently small.

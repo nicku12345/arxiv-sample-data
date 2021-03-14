@@ -1,0 +1,1 @@
+We prove that if a sequence of pairs of smooth commuting Hamiltonians converge in the C^0 topology to a pair of smooth Hamiltonians, these commute. This allows us define the notion of commuting continuous Hamiltonians. As an application we extend some results of Barles and Tourin on multi-time Hamilton-Jacobi equations to a more general setting.

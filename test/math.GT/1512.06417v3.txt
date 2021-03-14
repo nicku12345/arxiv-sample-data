@@ -1,0 +1,1 @@
+We call a Delta Diagram any diagram of a knot or link whose regions (including the unbounded one) have 3, 4, or 5 sides. We prove that any knot or link admits a delta diagram. We define and estimate combinatorial link invariants stemming from this definition.

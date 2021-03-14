@@ -1,0 +1,1 @@
+We obtain spectral inequalities and asymptotic formulae for the discrete spectrum of the operator \frac12\, \log(-\Delta) in an open set \Omega\in\Bbb R^d, d\ge2, of finite measure with Dirichlet boundary conditions. We also derive some results regarding lower bounds for the eigenvalue \lambda_1(\Omega) and compare them with previously known inequalities.

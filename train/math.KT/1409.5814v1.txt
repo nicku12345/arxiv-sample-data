@@ -1,0 +1,1 @@
+It is known that every R-module has a flat precover. We show in the paper that every R-module has a Gorenstein flat precover.

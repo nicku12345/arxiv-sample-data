@@ -1,0 +1,1 @@
+We obtain optimal lower and upper bounds for the (additive) integrality gaps of integer knapsack problems. In a randomised setting, we show that the integrality gap of a "typical" knapsack problem is drastically smaller than the integrality gap that occurs in a worst case scenario.

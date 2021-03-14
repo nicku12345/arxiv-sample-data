@@ -1,0 +1,1 @@
+This paper is concerned with proving superlogarithmic estimates for the operator \Box_b on pseudoconvex CR manifolds and using them to establish hypoellipticity of \Box_b and of the \bar{\partial}-Neumann problem. These estimates are established under the assumption that subellipticity degenerates in certain specified ways.

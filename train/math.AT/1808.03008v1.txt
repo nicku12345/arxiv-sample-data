@@ -1,0 +1,1 @@
+Let X be a toric \mbox{hyperK\"ahler} manifold. The purpose of this note is to describe the topological K-ring K^*(X) of X. We give a presentation for the topological K-ring in terms of generators and relations similar to the known description of the cohomology ring of these manifolds.

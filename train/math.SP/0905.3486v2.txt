@@ -1,0 +1,1 @@
+Each subset E\subset\Bbb N is realized as the set of essential values of the multiplicity function for the Koopman operator of an ergodic conservative infinite measure preserving transformation.

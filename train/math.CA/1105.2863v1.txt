@@ -1,0 +1,1 @@
+In this paper we analyze the existence of entire radially symmetric solutions for Schrodinger system type {\Delta}_{p_{i}}u_{i}+h_{i}(r)|\nabla u_{i}|^{p_{i}-1}=a_{i}(r)f_{i}(u_1,...,u_{d}) for i=1,...,d on R^{N} where p_{i}>1, d \in {1,2,3,...}, h_{i} and a_{i} are nonnegative radial continuous functions and f_{i} are nonnegative increasing continuous functions on [0,\infty).

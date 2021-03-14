@@ -1,0 +1,1 @@
+Using Blanchfield pairings, we show that two Alexander polynomials cannot be realized by a pair of matrices with Gordian distance one if a corresponding quadratic equation does not have an integer solution. We also give an example of how our results help in calculating the Gordian distances, algebraic Gordian distances and polynomial distances.

@@ -1,0 +1,1 @@
+We investigate the distribution of the zeros of partial sums of the Riemann zeta-function, sum_{n\leq X}n^{-s}, estimating the number of zeros up to height T, the number of zeros to the right of a given vertical line, and other aspects of their horizontal distribution.

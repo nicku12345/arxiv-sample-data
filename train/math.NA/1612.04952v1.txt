@@ -1,0 +1,1 @@
+Using the notion of Dubiner distance, we give an elementary proof of the fact that good covering point configurations on the 2-sphere are optimal polynomial meshes. From these we extract Caratheodory-Tchakaloff (CATCH) submeshes for compressed Least Squares fitting.

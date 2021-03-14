@@ -1,0 +1,1 @@
+A classical theorem of I. Schur states that the degree of any irreducible complex representation of a finite group G divides the order of G/\mathscr{Z} G, where \mathscr{Z} G is the center G. This note discusses similar divisibility results for certain classes of Hopf algebras.

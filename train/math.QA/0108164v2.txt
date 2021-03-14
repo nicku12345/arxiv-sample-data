@@ -1,0 +1,1 @@
+We compute the generic degrees of the Ariki--Koike algebras by first constructing a basis of matrix units in the semisimple case. As a consequence, we also obtain an explicit isomorphism from any semisimple Ariki--Koike algebra to the group algebra of the corresponding complex reflection group.

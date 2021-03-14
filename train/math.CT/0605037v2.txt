@@ -1,0 +1,1 @@
+*-Autonomous categories were initially defined by M. Barr to describe a type of duality carried by many monoidal closed categories. Later they were generalised by the current author to include *-autonomous promonoidal categories. Together, these structures under "convolution" product give a clear indication of the usefulness of *-autonomy in quantum mathematics and related areas.

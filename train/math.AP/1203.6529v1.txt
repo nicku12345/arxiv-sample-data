@@ -1,0 +1,1 @@
+This paper is concerned with the existence, uniqueness and time-asymptotic stability of time periodic solutions to the compressible Navier-Stokes-Korteweg system effected by a time periodic external force in \mathbb{R}^n. Our analysis is based on a combination of the energy method and the time decay estimates of solutions to the linearized system.

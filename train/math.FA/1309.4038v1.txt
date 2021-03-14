@@ -1,0 +1,1 @@
+A notion of resolvent set for an operator acting in a rigged Hilbert space \D \subset \H\subset \D^\times is proposed. This set depends on a family of intermediate locally convex spaces living between \D and \D^\times, called interspaces. Some properties of the resolvent set and of the corresponding multivalued resolvent function are derived and some examples are discussed.

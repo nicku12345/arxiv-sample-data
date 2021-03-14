@@ -1,0 +1,1 @@
+Let  P(z)  be a polynomial of degree  n  and for any real or complex number \alpha, let D_\alpha P(z)=nP(z)+(\alpha-z)P^{\prime}(z) denote the polar derivative with respect to \alpha. In this paper, we obtain generalizations of some inequalities for the polar derivative of a polynomial.

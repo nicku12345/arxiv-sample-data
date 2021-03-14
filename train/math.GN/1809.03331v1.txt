@@ -1,0 +1,1 @@
+In this paper we prove that for a compact space X inclusion P_{f}(X)\in ANR holds if and only if X\in ANR. Further, it is shown that the functor P_{f} preserves property of a compact to be Q-manifold or a Hilbert cube, properties of maps fibres to be ANR-compact, Q-manifold, Hilbert cube (the finite of Hilbert cube).

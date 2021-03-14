@@ -1,0 +1,1 @@
+We prove that a random cubic graph almost surely is not homomorphic to a cycle of size 7. This implies that there exist cubic graphs of arbitrarily high girth with no homomorphisms to the cycle of size 7.

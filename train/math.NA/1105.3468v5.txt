@@ -1,0 +1,1 @@
+A graph based matching is used to construct aggregation for algebraic multigrid. Effects of inexact coarse grid solve is analyzed numerically for a highly discontinuous convection diffusion coefficient matrix and problems from Florida matrix market collection. The proposed strategy is found to be more robust compared to a classical AMG approach.

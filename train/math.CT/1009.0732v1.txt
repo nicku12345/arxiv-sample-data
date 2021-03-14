@@ -1,0 +1,1 @@
+We relate weak distributive laws in SetMat to strictly associative (but not strictly unital) pseudoalgebras of the 2-monad (-)^2 on Cat. The corresponding orthogonal factorization systems are characterized by a certain bilinearity property.

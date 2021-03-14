@@ -1,0 +1,1 @@
+As an application of B\'ezout's theorem from algebraic geometry, we show that the standard notion of a trigonometric polynomial does not agree with a more naive, but reasonable notion of trigonometric polynomial.

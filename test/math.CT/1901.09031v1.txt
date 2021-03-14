@@ -1,0 +1,1 @@
+We introduce quantum versions of Manin pairs and Manin triples and define quantum moment maps in this context. This provides a framework that incorporates quantum moment maps for actions of Lie algebras and quantum groups for any quantum parameter. We also show how our quantum moment maps degenerate to known classical versions of moment maps and describe their fusion.

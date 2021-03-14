@@ -1,0 +1,1 @@
+Let  T _{P} f (x) = \int e ^{i P (y)} K (y) f (x-y) \, dy , where  K (y) is a smooth Calder\'on-Zygmund kernel on  \mathbb R ^{n}, and  P be a polynomial. The maximal truncations of  T_P satisfy the weak  L ^{1} inequality, our proof simplifying and extending the argument of Chanillo and Christ for the weak type bound for  T_P.

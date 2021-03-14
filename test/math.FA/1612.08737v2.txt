@@ -1,0 +1,1 @@
+The first-order Euler-Maclaurin formula relates the sum of the values of a smooth function on an interval of integers with its integral on the same interval on \mathbb R. We formulate here the analogue for functions that are just of bounded variation.

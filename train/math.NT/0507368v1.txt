@@ -1,0 +1,1 @@
+We define a sequence of real functions which coincide with Li's coefficients at one and which allow us to extend Li's criterion for the Riemann Hypothesis to yield a necessary and sufficient condition for the existence of zero-free strips inside the critical strip 0<\Re(z)<1. We study some of the properties of these functions, including their oscillatory behaviour.

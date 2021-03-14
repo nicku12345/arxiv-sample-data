@@ -1,0 +1,1 @@
+We introduce a new version of Floer theory of a non-monotone Lagrangian submanifold which only uses least area holomorphic disks with boundary on it. We use this theory to prove non-displaceability theorems about continuous families of Lagrangian tori in the complex projective plane and other del Pezzo surfaces.

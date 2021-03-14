@@ -1,0 +1,1 @@
+We give a new proof of the Adams-Riemann-Roch theorem for a smooth projective morphism X\to Y, in the situation where Y is a regular scheme, which is quasi-projective over \mF_p. We also partially answer a question of B. K\"ock.

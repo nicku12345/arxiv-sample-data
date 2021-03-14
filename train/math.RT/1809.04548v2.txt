@@ -1,0 +1,1 @@
+Let W_\pi be the lattice Lie algebra of Witt type associated with an additive inclusion \pi: \mathbb{Z}^N \hookrightarrow \mathbb{C}^2 with N>1. In this article, the classification of simple \mathbb{Z}^N-graded W_\pi-modules, whose multiplicities are uniformly bounded, is given.

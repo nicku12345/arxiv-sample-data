@@ -1,0 +1,1 @@
+In this paper we use 3-manifold techniques to illuminate the structure of the category of tangles. In particular, we show that every idempotent morphism A in such a category naturally splits as A=B\circ C such that C\circ B is an identity morphism.

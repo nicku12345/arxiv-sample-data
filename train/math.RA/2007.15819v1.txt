@@ -1,0 +1,1 @@
+In a unitary ring with involution, we prove that each element has at most one weak group inverse if and only if each idempotent element has a unique weak group inverse. Furthermore, we define the m-weak group inverse and show some properties of m-weak group inverse.

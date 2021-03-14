@@ -1,0 +1,1 @@
+Suppose that there is a measurable cardinal. If \aleph_\omega is a strong limit cardinal, but the power of \aleph_\omega is bigger than \aleph_{\omega_1}, then there is an inner model with a Woodin cardinal. Modulo the need of the measurable cardinal this answers a question of Gitik and Mitchell.

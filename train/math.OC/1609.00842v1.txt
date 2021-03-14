@@ -1,0 +1,1 @@
+We prove that the bundle method for nonsmooth optimization achieves solution accuracy \varepsilon in at most \mathcal{O}\big(\ln(1/\varepsilon)/\varepsilon\big) iterations, if the function is strongly convex. The result is true for the versions of the method with multiple cuts and with cut aggregation.

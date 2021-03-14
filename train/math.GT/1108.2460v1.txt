@@ -1,0 +1,1 @@
+Given a hyperbolic knot, we prove that the Reidemeister torsion of any lift of the holonomy to SL(2,C) is invariant under mutation along a Conway sphere.

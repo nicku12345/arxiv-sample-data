@@ -1,0 +1,1 @@
+An analytic center cutting plane method is an iterative algorithm based on the computation of analytic centers. In this paper, we propose some analytic center cutting plane methods for solving quasimonotone or pseudomonotone variational inequalities whose domains are bounded or unbounded convex bodies.

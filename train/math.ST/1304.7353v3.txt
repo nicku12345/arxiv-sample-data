@@ -1,0 +1,1 @@
+We derive the posterior contraction rate for non-parametric Bayesian estimation of the intensity function of a Poisson point process.

@@ -1,0 +1,1 @@
+We describe a simple polynomial-time algorithm for the CDT problem that relies on a construction of Barvinok.

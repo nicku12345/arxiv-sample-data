@@ -1,0 +1,1 @@
+We show that a finite type duality group of dimension d>2 is the fundamental group of a (d+3)-manifold with rationally acyclic universal cover. We use this to find closed manifolds with rationally acyclic universal cover and some nonvanishing L^2-Betti numbers outside the middle dimension, which contradicts a rational analogue of a conjecture of Singer.

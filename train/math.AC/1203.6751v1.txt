@@ -1,0 +1,1 @@
+For a finite module M over a local, equicharacteristic ring (R,m), we show that the well-known formula \cohdim(m,M)=\dim M becomes trivial if ones uses Matlis duals of local cohomology modules together with spectral sequences. We also prove a new, ring-theoretic vanishing criterion for local cohomology modules.

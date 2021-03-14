@@ -1,0 +1,1 @@
+Let p_n be the number of partitions of an integer n. For each of the partition statistics of counting their parts, ranks, or cranks, there is a natural family of integer polynomials. We investigate their asymptotics and the limiting behavior of their zeros as sets and densities.

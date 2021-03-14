@@ -1,0 +1,1 @@
+We define the Thurston-Bennequin polytope of a two-component link as the convex hull of all pairs of integers that arise as framings of a Legendrian representative. The main result of this paper is a description of the Thurston-Bennequin polytope for two-bridge links. As an application, we construct non-quasipositive surfaces in \R^3 all whose sub-annuli are quasipositive.

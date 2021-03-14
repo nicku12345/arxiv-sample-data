@@ -1,0 +1,1 @@
+Let \mathcal{Q}(\varphi):=\int_\Omega \big(|\nabla \varphi|^p+V|\varphi|^p\big)\dnu on \core, and assume that \mathcal{Q}\geq 0. The aim of the paper is to obtain ''as large as possible" nonnegative (optimal) Hardy-type weight W satisfying \mathcal{Q}(\varphi)\geq \int_{\Omega} W|\varphi|^p\dnu \quad\forall \varphi\in\core, on punctured domains \Omega.

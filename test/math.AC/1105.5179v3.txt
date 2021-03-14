@@ -1,0 +1,1 @@
+A ring R is called a PIR, if each ideal of R is a principal ideal. An local ring (R,\mf{m)} is a artinian PIR if and only if its maximal ideal \mf{m} is principal and has finite nilpotency index. In this paper, we determine the structure of a finite local PIR.

@@ -1,0 +1,1 @@
+A graph is split if there is a partition of its vertex set into a clique and an independent set. The present paper is devoted to the splitness of some graphs related to finite simple groups, namely, prime graphs and solvable graphs, and their compact forms. It is proved that the compact form of the prime graph of any finite simple group is split.

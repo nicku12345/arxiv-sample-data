@@ -1,0 +1,1 @@
+The Radon transform is a bounded operator from L^p of Euclidean space R^d to L^q of the Grassmann manifold of all affine hyperplanes in R^d, for certain exponents. We identify all extremizers of the associated inequality for the endpoint case p=(d+1)/d and q=d+1.

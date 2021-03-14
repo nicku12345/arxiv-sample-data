@@ -1,0 +1,1 @@
+The action of the symmetric group of degree 4 on the Tetrahedron algebra, introduced by Hartwig and Terwilliger, is studied. This action gives a grading of the algebra which is related to its decomposition into a direct sum of three subalgebras isomorphic to the Onsager algebra. The ideals of both the Tetrahedron algebra and the Onsager algebra are determined.

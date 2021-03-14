@@ -1,0 +1,1 @@
+We give a necessary and sufficient criterion when a normal CP-map on a von Neumann algebra admits a restriction to a maximal commutative subalgebra. We apply this result to give a far reaching generalization of Rebolledo's sufficient criterion for the Lindblad generator of a Markov semigroup on B(G).

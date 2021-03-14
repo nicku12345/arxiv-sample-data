@@ -1,0 +1,1 @@
+We develop a crystal base theory for the general linear Lie superalgebra gl(m,n). We prove that any irreducible U_q(gl(m,n))-module in some category has a crystal base, and prove that its associated crystal base is parameterized by semistandard tableaux.

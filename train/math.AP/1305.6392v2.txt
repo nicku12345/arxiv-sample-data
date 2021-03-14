@@ -1,0 +1,1 @@
+The Cauchy problem for the L^2-critical boson star equation with initial data of low regularity in spatial dimension d=3 is studied. Local well-posedness in H^s for s > 1/4 is proved. Moreover, for radial initial data, local well-posedness is established in H^s for s > 0. Both results are shown to be almost optimal by providing complementary ill-posedness results.

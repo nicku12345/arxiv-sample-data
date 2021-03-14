@@ -1,0 +1,1 @@
+We apply the Transfer Algorithm introduced in arXiv:1106.5090 to transfer an A_\infty-algebra structure that cannot be computed using the classical Basic Perturbation Lemma. We construct a space X whose (base pointed) loop cohomology H = H^*(\Omega X; Z_2) comes equipped with a nontrivial operation \omega : H x H --> H x H.

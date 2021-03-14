@@ -1,0 +1,1 @@
+We generalize Tennenbaum's geometric proof of the irrationality of sqrt(2) to sqrt(n) for n = 3, 5, 6 and 10. Modified version published in Mathematics Magazine \textbf{85} (2012), no. 2, 110--114.

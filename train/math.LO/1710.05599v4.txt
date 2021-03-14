@@ -1,0 +1,1 @@
+We show that the decision problem for the basic system of interpretability logic IL is PSPACE-complete. For this purpose we present an algorithm which uses polynomial space with respect to the complexity of a given formula. The existence of such algorithm, together with the previously known PSPACE hardness of the closed fragment of IL, implies PSPACE-completeness.

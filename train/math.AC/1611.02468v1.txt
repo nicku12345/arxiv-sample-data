@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring and D be a discrete Hodge algebra over R of dimension d>\text{dim}(R). Then we show that   (i) the top Euler class group E^d(D) of D is trivial.   (ii) if d>\text{dim}(R)+1, then (d-1)-st Euler class group E^{d-1}(D) of D is trivial.

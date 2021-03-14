@@ -1,0 +1,1 @@
+Mean square estimates for Z_2(s) = \int_1^\infty |\zeta(1/2+ix)|^4x^{-s}dx (\Re s > 1) are discussed, and some related Mellin transforms of quantities connected with the fourth power moment of |\zeta(1/2+ix)|^4.

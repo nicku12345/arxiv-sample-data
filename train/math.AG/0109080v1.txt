@@ -1,0 +1,1 @@
+Let f : S --> B be a non-trivial family of semi-stable curves of genus g, N the number of critical points of f and s the number of singular fibres. We prove the inequality N < (4g+2)(s+2g(B)-2) .

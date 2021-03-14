@@ -1,0 +1,1 @@
+In this paper we show that the h-p spectral element method developed in \cite{pdstrk1,tomar-01,tomar-dutt-kumar-02} applies to elliptic problems in curvilinear polygons with mixed Neumann and Dirichlet boundary conditions provided that the Babuska--Brezzi inf--sup conditions are satisfied.

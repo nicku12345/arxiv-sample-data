@@ -1,0 +1,1 @@
+This paper highlights three known identities, each of which involves sums over alternating sign matrices. While proofs of all three are known, the only known derivations are as corollaries of difficult results. The simplicity and natural combinatorial interpretation of these identities, however, suggest that there should be direct, bijective proofs.

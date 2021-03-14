@@ -1,0 +1,1 @@
+In this paper we define some ballean structure on the power set of a group and, in particular, we study the subballean with support the lattice of all its subgroups. If G is a group, we denote by L(G) the family of all subgroups of G. For two groups G and H, we relate their algebraic structure via the ballean structure of L(G) and L(H).

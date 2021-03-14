@@ -1,0 +1,1 @@
+In this paper we establish a Hardy inequality for Laplace operators with Robin boundary conditions. For convex domains, in particular, we show explicitly how the corresponding Hardy weight depends on the coefficient of the Robin boundary conditions. We also study several extensions to non-convex and unbounded domains.

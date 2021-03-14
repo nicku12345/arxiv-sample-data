@@ -1,0 +1,1 @@
+For a real representation \pi of a finite group G we define the obstruction class to be w_i(\pi), where i>0 is minimal with w_i(\pi)\neq 0. We compute the obstruction class for real representations of \mathrm{GL}_2(\mathbb{F}_q), for q odd.

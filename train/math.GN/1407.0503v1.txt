@@ -1,0 +1,1 @@
+We prove that any continuous mapping f:E\to Y on a completely metrizable subspace E of a perfect paracompact space X can be extended to a Lebesgue class one mapping g:X\to Y (i.e. for every open set V in Y the preimage g^{-1}(V) is an F_\sigma-set in X) with values in an arbitrary topological space Y.

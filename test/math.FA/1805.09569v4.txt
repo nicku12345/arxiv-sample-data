@@ -1,0 +1,1 @@
+We give an alternative lower bound for the numerical radii of Hilbert space operators. As a by-product, we find conditions such that   \begin{equation*} \omega\left(\left[\begin{array}{cc} 0 & R \\ S & 0 \end{array}\right]\right)=\frac{\Vert R \Vert +\Vert S\Vert }{2} \end{equation*} where R, S \in \mathbb{B}(\mathcal{H}).

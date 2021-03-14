@@ -1,0 +1,1 @@
+Using algebraic methods, and motivated by the one variable case, we study a multipoint interpolation problem in the setting of several complex variables. The duality realized by the residue generator associated with an underlying Gorenstein algebra, using the Lagrange interpolation polynomial, plays a key role in the arguments.

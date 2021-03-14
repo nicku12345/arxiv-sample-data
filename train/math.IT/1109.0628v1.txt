@@ -1,0 +1,1 @@
+Cyclic codes with two zeros and their dual codes as a practically and theoretically interesting class of linear codes, have been studied for many years. However, the weight distributions of cyclic codes are difficult to determine. From elliptic curves, this paper determines the weight distributions of dual codes of cyclic codes with two zeros for a few more cases.

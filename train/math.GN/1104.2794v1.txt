@@ -1,0 +1,1 @@
+We give easy proofs that a) the Continuum Hypothesis implies that if the product of X with every Lindelof space is Lindelof, then X is a D-space, and b) Borel's Conjecture implies every Rothberger space is Hurewicz.

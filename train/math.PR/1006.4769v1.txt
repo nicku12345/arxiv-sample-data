@@ -1,0 +1,1 @@
+For the critical branching random walk in \mathbb{Z}^{4} with branching at the origin only we find the asymptotic behavior of the probability of the event that there are particles at the origin at moment t\rightarrow \infty  and prove a Yaglom type conditional limit theorem for the number of individuals at the origin given that there are particles at the origin.

@@ -1,0 +1,1 @@
+In this paper we study the homeomorphic properties of the solutions to one dimensional backward doubly stochastic differential equations under suitable assumptions, where the terminal values depend on a real parameter. Then, we apply them to the solutions for a class of second order quasilinear parabolic stochastic partial differential equations.

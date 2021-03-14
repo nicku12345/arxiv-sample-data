@@ -1,0 +1,1 @@
+We prove dynamical upper bounds for discrete one-dimensional Schroedinger operators in terms of various spacing properties of the eigenvalues of finite volume approximations. We demonstrate the applicability of our approach by a study of the Fibonacci Hamiltonian.

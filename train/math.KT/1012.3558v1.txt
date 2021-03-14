@@ -1,0 +1,1 @@
+We show that for any block algebra B of a finite group over an algebraically closed field of prime characteristic the dimension of HH^n(B) is bounded by a function depending only on the nonnegative integer n and the defect of B. The proof uses in particular a theorem of Brauer and Feit which implies the result for n=0.

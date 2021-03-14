@@ -1,0 +1,1 @@
+First, we systemize ealier results the uniform persistence for discrete model A_{n+1}=A_nF(A_{n-m}) of population growth, where F:(0,\infty)\to(0,\infty) is continuous and strictly decreasing. Second, we investigation the effect of delay m when F is not monotone. We are mainly using \omega-limit set of persistent solution, which is discussed in more general by P. Walters, 1982.

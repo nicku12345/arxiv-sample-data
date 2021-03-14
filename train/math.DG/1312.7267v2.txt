@@ -1,0 +1,1 @@
+We construct a corank one Poisson manifold which is of strong compact type, i.e., the associated Lie algebroid structure on its cotangent bundle is integrable, annd the source 1-conected (symplectic) integration is compact. The construction relies on the moduli of marked K3 surfaces.

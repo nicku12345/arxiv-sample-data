@@ -1,0 +1,1 @@
+This paper investigates problems in the characterization of the proximity of digital discs. Based on the \mathcal{L}_1-metric structure for the 2D digital plane and using a Jaccard-like metric, we determine numerical characters for intersecting digital discs.

@@ -1,0 +1,1 @@
+Suppose S is a closed orientable surface and \tilde{S} is a finite sheeted regular cover of S. The following question was posed by Juli\'{e}n March\'{e} in Mathoverflow: Do the lifts of simple curves from S generate H_{1}(\tilde{S},\mathbb{Z})? A family of examples is given for which the answer is "no".

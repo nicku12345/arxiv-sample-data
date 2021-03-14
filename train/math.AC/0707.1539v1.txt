@@ -1,0 +1,1 @@
+We consider the group G of R-automorphisms of the polynomial ring R[x] especially in the case where R is the ring of integers modulo n. We describe conjugacy classes in G, and in the case where n = 4, we describe more explicitly the structure of G and determine all rings of invariants of R[x] with respect to subgroups of G.

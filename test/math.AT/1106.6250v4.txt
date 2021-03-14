@@ -1,0 +1,1 @@
+We use two cofibre sequences to identify some combinatorial situations when the independence complex of a graph splits into a wedge sum of smaller independence complexes. Our main application is to give a recursive relation for the homotopy types of the independence complexes of powers of cycles, which answers an open question of D. Kozlov.

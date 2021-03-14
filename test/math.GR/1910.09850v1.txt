@@ -1,0 +1,1 @@
+Let G be a group of order 8 and F an algebraically closed field with char= 2. In this paper we compute the number of n degree representations of G and subsequent dimensions of the corresponding spaces of invatiant bilinear forms over the field F. We explicitly discuss about the existence of non-degenerate invariant bilinear forms.

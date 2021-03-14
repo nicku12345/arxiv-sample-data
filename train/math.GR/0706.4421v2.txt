@@ -1,0 +1,1 @@
+Consider the unit ball, B = D x [0,1], containing n unknotted arcs a_1, ... a_n such that the boundary of each a_i lies in D x {0}. We give a finite presentation for the mapping class group of B fixing the arcs {a_1, ..., a_n} setwise and fixing D x {1} pointwise. This presentation is calculated using the action of this group on a simply-connected complex.

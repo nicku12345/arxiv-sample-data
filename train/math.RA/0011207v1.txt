@@ -1,0 +1,1 @@
+Let A be an algebra over a commutative ring R. If R is noetherian and A^\circ is pure in R^A, then the categories of rational left A-modules and right A^\circ-comodules are isomorphic. In the Hopf algebra case, we can also strengthen the Blattner-Montgomery duality theorem. Finally, we give sufficient conditions to get the purity of A^\circ in R^A.

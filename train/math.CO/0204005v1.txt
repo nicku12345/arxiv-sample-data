@@ -1,0 +1,1 @@
+Define S_n^k(T) to be the set of permutations of \{1,2,...,n\} with exactly k fixed points which avoid all patterns in T \subseteq S_m. We enumerate S_n^k(T), T \subseteq S_3, for all |T| \geq 2 and 0 \leq k \leq n.

@@ -1,0 +1,1 @@
+Groupoid (Q, \cdot) in which equality (xy)Jx = y is true for all x, y \in Q, where J is a map of the set Q, is a CI-quasigroup.

@@ -1,0 +1,1 @@
+Given a Banach space X, we consider Ces\`aro spaces \text{Ces}_p(X) of X-valued functions over the interval [0,1], where 1\leq p<\infty. We prove that if X has the Opial/uniform Opial property, then certain analogous properties also hold for \text{Ces}_p(X). We also prove a result on the Opial/uniform Opial property of Ces\`aro spaces of vector-valued sequences.

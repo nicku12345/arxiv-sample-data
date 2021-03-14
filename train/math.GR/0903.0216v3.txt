@@ -1,0 +1,1 @@
+We present an algorithm to convert a word of length n in the standard generators of the solvable Baumslag-Solitar group BS(1,p) into a geodesic word, which runs in linear time and O(n\log n) space on a random access machine.

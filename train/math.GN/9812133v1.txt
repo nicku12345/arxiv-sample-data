@@ -1,0 +1,1 @@
+We produce a model of ZFC in which there are no locally compact first countable S-spaces, and in which 2^{aleph_0}<2^{aleph_1}. A consequence of this is that in this model there are no locally compact, separable, hereditarily normal spaces of size aleph_1, answering a question of the second author.

@@ -1,0 +1,1 @@
+I compute the dynamical degrees in C. Voisin's example of a rational self-map of the variety of lines on a cubic fourfold.

@@ -1,0 +1,1 @@
+For the Fourier transform \mathcal{F}\mu of a general (non-trivial) self-similar measure \mu on the real line \mathbb{R}, we prove a large deviation estimate \[ \lim_{c\to +0} \varlimsup_{t\to \infty}\frac{1}{t}\log (\mathrm{Leb}\{x\in [-e^t, e^t]\mid |\mathcal{F}\mu(\xi)| \ge e^{-ct} \})=0. \]

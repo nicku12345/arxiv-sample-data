@@ -1,0 +1,1 @@
+In this paper we introduce a notion of unilateral slope for the Mumford-Shah functional, and provide an explicit formula in the case of smooth cracks. We show that the slope is not lower semicontinuous and study the corresponding relaxed functional.

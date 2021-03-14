@@ -1,0 +1,1 @@
+We analyze an Iteratively Re-weighted Least Squares (IRLS) algorithm for promoting l1-minimization in sparse and compressible vector recovery. We prove its convergence and we estimate its local rate. We show how the algorithm can be modified in order to promote lt-minimization for t<1, and how this modification produces superlinear rates of convergence.

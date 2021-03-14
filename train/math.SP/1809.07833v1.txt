@@ -1,0 +1,1 @@
+In this note we prove that the vertex energy of a graph, as defined in Arizmendi and Juarez (2018), can be calculated in terms of a Coulson integral formula. We present examples of how this formula can be used, and we show some applications to bipartite graphs.

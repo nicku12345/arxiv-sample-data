@@ -1,0 +1,1 @@
+A strategy for playing the game of roulette is presented in this paper. The strategy is based on the same probabilistic argument that leads to the well-known Birthday Paradox in Probability theory. Following the strategy, a player will have a positive expected gain per spin as well as in the long run despite the fact that the pay-off ratios in roulette favor the House.

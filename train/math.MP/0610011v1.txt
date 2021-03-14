@@ -1,0 +1,1 @@
+We define quantum bi-Hamiltonian systems, by analogy with the classical case, as derivations in operator algebras which are inner derivations with respect to two compatible associative structures. We find such structures by means of the associative version of Nijenhuis tensors. Explicit examples, e.g. for the harmonic oscillator, are given.

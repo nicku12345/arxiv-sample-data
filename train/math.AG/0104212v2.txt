@@ -1,0 +1,1 @@
+We prove an equivariant Grothendieck-Ogg-Shafarevich formula. This formula may be viewed as an \'etale analogue of well-known formulas for Zariski sheaves generalizing the classical Chevalley-Weil formula. We give a new approach to those formulas (first proved by Ellingsrud/L{\o}nsted, Nakajima, Kani and Ksir) which can also be applied in the \'etale case.

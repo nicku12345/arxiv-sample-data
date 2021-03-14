@@ -1,0 +1,1 @@
+A method is presented for finding the Lie point symmetry transformations acting simultaneously on difference equations and lattices, while leaving the solution set of the corresponding difference scheme invariant. The method is applied to several examples. The found symmetry groups are used to obtain particular solutions of differential-difference equations.

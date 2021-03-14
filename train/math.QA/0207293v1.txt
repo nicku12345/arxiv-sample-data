@@ -1,0 +1,1 @@
+We give a realization of crystal graphs for basic representations of the quantum affine algebra U_q(C_n^{(1)}) using combinatorics of Young walls. The notion of splitting blocks plays a crucial role in the construction of crystal graphs.

@@ -1,0 +1,1 @@
+We study the field isomorphism problem of cubic generic polynomial X^3+sX+s over the field of rational numbers with the specialization of the parameter s to nonzero rational integers m via primitive solutions to the family of cubic Thue equations x^3-2mx^2y-9mxy^2-m(2m+27)y^3=\lambda where \lambda^2 is a divisor of m^3(4m+27)^5.

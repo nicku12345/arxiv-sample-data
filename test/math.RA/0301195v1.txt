@@ -1,0 +1,1 @@
+This article is made up with two parts. In the first part, we generalize to the case when objects are faithfully flat over the ground ring, the full equivalence between the notions of Hopf-Galois extension and Hopf-Galois system. In the second part of the article, we show that the Kashiwara algebras introduced by Kashiwara in his study of crystal bases are Hopf-Galois objects.

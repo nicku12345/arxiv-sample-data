@@ -1,0 +1,1 @@
+We develop direct and inverse scattering theory for Jacobi operators with steplike coefficients which are asymptotically close to different finite-gap quasi-periodic coefficients on different sides. We give a complete characterization of the scattering data, which allow unique solvability of the inverse scattering problem in the class of perturbations with finite first moment.

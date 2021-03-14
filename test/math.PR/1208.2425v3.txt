@@ -1,0 +1,1 @@
+Shift Harnack and integration by part formula are establish for semilinear spde with delay and a class of stochastic semilinear evolution equation which cover the hyperdissipative Naiver-Stokes/Burges equation. For the case of stochastic equation with delay, an extension to path space is given.

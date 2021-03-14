@@ -1,0 +1,1 @@
+We study the behaviour of clique complexes of graphs under the operation of taking graph powers. As an example we compute the clique complexes of powers of cycles, or, in other words, the independence complexes of circular complete graphs.

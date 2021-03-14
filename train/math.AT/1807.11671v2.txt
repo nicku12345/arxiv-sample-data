@@ -1,0 +1,1 @@
+We show that the little discs operad D_2 is not formal over \mathbb{F}_2 as a planar (or non-symmetric) operad. We compute explicitly the homological obstruction using as chain model the cells of the spineless cacti operad

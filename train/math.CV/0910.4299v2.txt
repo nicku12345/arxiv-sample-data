@@ -1,0 +1,1 @@
+We find all matrices A from the spectral unit ball \Omega_n such that the Lempert function l_{\Omega_n}(A,\cdot) is continuous.

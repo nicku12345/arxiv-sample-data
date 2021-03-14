@@ -1,0 +1,1 @@
+In this paper, we investigate Murre's conjecture on the existence of a Chow--Kuenneth decomposition for a rational homogeneous bundle Z\to S over a smooth variety, defined over complex numbers. Chow-K\"unneth decomposition is exhibited for Z whenever S has a Chow--Kuenneth decomposition. The same conclusion holds for a class of log homogeneous varieties, studied by M. Brion.

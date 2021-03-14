@@ -1,0 +1,1 @@
+This paper studies the K-theory of categories of partially cancellative monoid sets, which is better behaved than that of all finitely generated monoid sets. A number of foundational results are proved, making use of the formalism of CGW-categories due to Campbell and Zakharevich, and numerous example computations are provided.

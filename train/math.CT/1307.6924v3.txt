@@ -1,0 +1,1 @@
+Thick simplices are the nerves of the contractible groupoids obtained by inverting the arrows in the categories [n]. Using explicit expansions of simplicial subsets of the thick simplices, we present a new approach to results of Rezk and of Joyal and Tierney on quasi-categories and their associated Kan complexes of quasi-invertible morphisms.

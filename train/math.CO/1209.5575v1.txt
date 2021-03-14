@@ -1,0 +1,1 @@
+We present a short proof of Jin's theorem which is entirely elementary, in the sense that no use is made of nonstandard analysis, ergodic theory, measure theory, ultrafilters, or other advanced tools. The given proof provides the explicit bound 1/c where c=BD(A)*BD(B) to the number of shifts of A+B that are needed to cover a thick set.

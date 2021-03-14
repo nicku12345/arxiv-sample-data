@@ -1,0 +1,1 @@
+We show that for f a continuous function on the closed polydisc \bar{\mathbb{D}^n} with n\geq 2, the Hankel operator H_{f} is compact on the Bergman space of \mathbb{D}^n if and only if there is a decomposition f=h+g, where h is in the ball algebra and g vanishes on the boundary of the polydisc.

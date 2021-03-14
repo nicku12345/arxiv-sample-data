@@ -1,0 +1,1 @@
+We describe a category, the objects of which may be viewed as models for homotopy theories. We show that for such models, ``functors between two homotopy theories form a homotopy theory'', or more precisely that the category of such models has a well-behaved internal hom-object.

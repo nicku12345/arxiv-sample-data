@@ -1,0 +1,1 @@
+Matrices over the dual numbers are considered. We propose an approach to classify these matrices up to similarity. Some preliminary results on the realization of this approach are obtained. In particular, we produce explicitly canonical matrices of orders 2 and 3.

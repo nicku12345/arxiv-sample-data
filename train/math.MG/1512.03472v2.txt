@@ -1,0 +1,1 @@
+The paper is devoted to the study of graph sequence G_n = (V_n, E_n) where V_n is the set of all vectors v in R^n with coordinates from {-1, 0, 1} such that |v| = sqrt(3), and E_n consists of all pairs of vertices with the scalar product 1. We find exactly the independence number of G_n. As a corollary we get some new lower bounds of chi(\R^n) and chi(\Q^n) for small values of n.

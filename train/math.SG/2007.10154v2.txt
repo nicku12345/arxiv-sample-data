@@ -1,0 +1,1 @@
+Using the microlocal theory of sheaves, we associate a category to each Weinstein manifold. By constructing a microlocal specialization functor, we show that exact Lagrangians give objects in our category, and that the category is invariant under Weinstein homotopy.

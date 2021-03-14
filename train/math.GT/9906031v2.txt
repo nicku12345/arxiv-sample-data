@@ -1,0 +1,1 @@
+We classify the path-components of the space of circle-valued Morse functions on compact surfaces: two Morse functions f, g: M\to S^1 belong to same path-component of this space if and only if they are homotopic and have equal numbers of critical points at each index.

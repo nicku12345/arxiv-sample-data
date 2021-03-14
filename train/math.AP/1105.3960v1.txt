@@ -1,0 +1,1 @@
+In this paper we obtain optimal estimates for the "currents" associated to point masses in the plane, in terms of the Coulombian renormalized energy of Sandier-Serfaty \cite{ss1,ss3}. To derive the estimates, we use a technique that we introduced in \cite{st}, which couples the "ball construction method" to estimates in the Lorentz space L^{2,\infty}.

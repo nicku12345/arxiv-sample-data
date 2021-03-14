@@ -1,0 +1,1 @@
+The exponential decay rate of L^2-norm related to the Korteweg-de Vries equation with localized damping posed on whole real line will be established. In addition, by using classical arguments we determine the H^1-norm of the solution associated to Korteweg-de Vries equation with damping in whole domain, can not have a decay property for an arbitrary initial data.

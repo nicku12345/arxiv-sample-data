@@ -1,0 +1,1 @@
+We initiate the study of modules of constant Jordan type for quantum complete intersections, and prove a range of basic properties. We then show that for these algebras, constant Jordan type is an invariant of Auslander-Reiten components. Finally, we classify modules with stable constant Jordan type [1] or [n-1] in the 2-generator case.

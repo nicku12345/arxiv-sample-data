@@ -1,0 +1,1 @@
+It is known that the paving conjecture fails for 2-paving projections with constant diagonal 1/2. But the proofs of this fact are existence proofs. We will give concrete examples of these projections and projections with constant diagonal 1/r which are not r-pavable in a very strong sense.

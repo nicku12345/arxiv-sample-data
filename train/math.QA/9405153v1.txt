@@ -1,0 +1,1 @@
+We show that Galois theory of cyclotomic number fields provides a powerful tool to construct systematically integer-valued matrices commuting with the modular matrix S, as well as automorphisms of the fusion rules. Both of these prescriptions allow the construction of modular invariants and offer new insight in the structure of known exceptional invariants.

@@ -1,0 +1,1 @@
+We introduce and study some generalizations of regular spaces, which were motivated by studying continuity properties of functions between (regular) topological spaces. In particular, we prove that a first-countable Hausdorff topological space is regular if and only if it does not contain a topological copy of the Gutik hedgehog.

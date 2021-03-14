@@ -1,0 +1,1 @@
+These notes are based on the mini-course "On the Graham Higman group", given at the Erwin Schr\"odinger Institute in Vienna, January 20, 22, 27 and 29, 2016, as a part of the Measured Group Theory program. The main purpose is to describe p-quotients of the Higman group H(k) for p|(k-1). (One may check that the condition p|(k-1) is necessary for the existence of such quotients.)

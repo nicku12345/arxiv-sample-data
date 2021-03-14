@@ -1,0 +1,1 @@
+We prove a comparison principle for weak solutions of elliptic quasilinear equations in divergence form whose ellipticity constants degenerate at every point where \nabla u \in K, where K\subset \mathbb{R}^N is a Borel set containing the origin.

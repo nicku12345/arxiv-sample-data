@@ -1,0 +1,1 @@
+This paper is about a method for solving infinite series in closed form by using inverse and forward Laplace transforms. The resulting integral is to be solved instead. The method is extended by parametrizing the series. A further Laplace transform with respect to it will offer more options for solving a series.

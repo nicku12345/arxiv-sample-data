@@ -1,0 +1,1 @@
+We explore the Borel complexity of some basic families of subsets of a countable group (large, small, thin, sparse and other) defined by the size of their elements. Applying the obtained results to the Stone-\v{C}ech compactification \beta G of G, we prove, in particular, that the closure of the minimal ideal of \beta G is of type F_{\sigma\delta}.

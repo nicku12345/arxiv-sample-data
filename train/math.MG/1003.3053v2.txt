@@ -1,0 +1,1 @@
+How can we understand the origins of highly symmetrical objects? One way is to characterize them as the solutions of natural optimization problems from discrete geometry or physics. In this paper, we explore how to prove that exceptional objects, such as regular polytopes or the E_8 root system, are optimal solutions to packing and potential energy minimization problems.

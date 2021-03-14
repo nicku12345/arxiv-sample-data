@@ -1,0 +1,1 @@
+This article is devoted to a regularity criteria for solutions of the Navier-Stokes equations in terms of regularity along the stream lines. More precisely, we prove that a suitable weak solution for the Navier-Stokes equations is regular under some constraint on the second derivative of |u| along the stream lines.

@@ -1,0 +1,1 @@
+The main result in this paper is the proof of the recently conjectured non-existence of cubic Legendre multiplier sequences. We also give an alternative proof of the non-existence of linear Legendre multiplier sequences, using a method that will allow for a more methodical treatment of sequences interpolated by higher degree polynomials.

@@ -1,0 +1,1 @@
+In this paper we study controlled continuous time random walks (CTRWs) and heuristically derive pay-off function dynamic programming (DP) equations which turn in the limit of standard scaling to fractional Hamilton Jacobi Bellman type equations. This paper aims to extend results from [1] in a controlled setting.

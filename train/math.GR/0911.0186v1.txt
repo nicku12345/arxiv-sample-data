@@ -1,0 +1,1 @@
+It is known that splittings of finitely presented groups over 2-ended groups can be characterized geometrically. We show that this characterization does not extend to all finitely generated groups. Answering a question of Kleiner we show that the Cayley graph of the lamplighter group is coarsely separated by quasi-circles.

@@ -1,0 +1,1 @@
+In this paper, we give sharp bounds for the homological dimensions of the Leavitt path algebra L_K(E) of a finite graph E with coefficients in a commutative ring K, as well as establish a formula for calculating the homological dimensions of L_K(E) when K is a commutative unital algebra over a field.

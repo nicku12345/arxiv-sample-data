@@ -1,0 +1,1 @@
+For a linear differential equation with a mild condition on its singularities, we discuss generalized continued fractions converging to expressions in its solutions and their derivatives. In the case of an order two linear differential equation, this is the logarithmic derivative of the holomorphic solution near a singularity.

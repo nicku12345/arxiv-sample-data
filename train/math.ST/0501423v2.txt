@@ -1,0 +1,1 @@
+A binomial-type operator on a stationary Gaussian process is introduced in order to model long memory in the spatial context. Consistent estimators of model parameters are demonstrated. In particular, it is shown that \hat{d}_N-d=O_P(\frac{(\operatorname {Log}N)^3}{N}), where d=(d_1,d_2) denotes the long memory parameter.

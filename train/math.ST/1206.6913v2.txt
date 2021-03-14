@@ -1,0 +1,1 @@
+We develop algorithms for sampling from a probability distribution on a submanifold embedded in Rn. Applications are given to the evaluation of algorithms in 'Topological Statistics'; to goodness of fit tests in exponential families and to Neyman's smooth test. This article is partially expository, giving an introduction to the tools of geometric measure theory.

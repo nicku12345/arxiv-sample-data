@@ -1,0 +1,1 @@
+We extend Lee's result on sl(2) Khovanov cohomology of a link L to the general sl(n) case: a filtered chain complex C(L) whose spectral sequence E_2 term equals Khovanov cohomology is exhibited. We also compute C(L)'s cohomology: it depends only on linking numbers of certain sublinks of L.

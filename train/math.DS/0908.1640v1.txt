@@ -1,0 +1,1 @@
+It is shown that if E is any subset of \Bbb N such that either 1\in E or 2\in E then there is a mixing transformation whose set of spectral multiplicities is E.

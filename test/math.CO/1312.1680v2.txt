@@ -1,0 +1,1 @@
+For a graph G, let f(G) be the largest integer k for which there exist two vertex-disjoint induced subgraphs of G each on k vertices, both inducing the same number of edges. We prove that f(G) \ge n/2 - o(n) for every graph G on n vertices. This answers a question of Caro and Yuster.

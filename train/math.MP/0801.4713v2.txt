@@ -1,0 +1,1 @@
+The general construction of frames of p-adic wavelets is described. We consider the orbit of a mean zero generic locally constant function with compact support (mean zero test function) with respect to the action of the p-adic affine group and show that this orbit is a uniform tight frame. We discuss relation of this result to the multiresolution wavelet analysis.

@@ -1,0 +1,1 @@
+We study the structure of the family of numerical semigroups with fixed multiplicity and Frobenius number. We give an algorithmic method to compute all the semigroups in this family. As an application we compute the set of all numerical semigroups with given multiplicity and genus.

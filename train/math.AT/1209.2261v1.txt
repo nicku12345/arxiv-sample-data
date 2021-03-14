@@ -1,0 +1,1 @@
+A space X is called W-trivial if for every vector bundle \xi over X, the total Stiefel-Whitney class W(\xi)= 1. In this article we shall investigate whether the suspensions of Dold manifolds, \s^k D(m,n), is W-trivial or not.

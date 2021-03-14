@@ -1,0 +1,1 @@
+We derive a procedure for a minimal state space realization of a rational transfer matrix over an arbitrary eld. The procedure is based on the Smith- McMillan form and leads to a state transition matrix in Jacobson normal form.

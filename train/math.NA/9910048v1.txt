@@ -1,0 +1,1 @@
+The method of optimal prediction is applied to calculate the future means of solutions to the Klein-Gordon equation. It is shown that in an appropriate probability space, the difference between the average of all solutions that satisfy certain constraints at time t=0, and the average computed by an approximate method, is small with high probability.

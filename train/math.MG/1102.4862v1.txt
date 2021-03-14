@@ -1,0 +1,1 @@
+In this note we prove a theorem concerning the sewing of even dimensional neighbourly polytopes. The theorem provides a fast algorithm for sewing in practice. We also give a description of the universal faces of a sewn d-polytope in terms of the main theorem.

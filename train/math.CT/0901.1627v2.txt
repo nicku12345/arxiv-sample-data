@@ -1,0 +1,1 @@
+We extend a result of Cisinski on the construction of cofibrantly generated model structures from (Grothendieck) toposes to locally presentable categories and from monomorphism to more general cofibrations. As in the original case, under additional conditions, the resulting model structures are "left determined" in the sense of Rosicky and Tholen.

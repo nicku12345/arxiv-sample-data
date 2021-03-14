@@ -1,0 +1,1 @@
+In this note we describe the structure of finite groups G whose Chermak-Delgado lattice is the interval [G/Z(G)] = {H \in L(G) \mid Z(G)\leq H\leq G}.

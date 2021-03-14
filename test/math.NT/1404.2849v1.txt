@@ -1,0 +1,1 @@
+We prove a Hasse principle for solving equations of the form ax+by+cz=0 where x, y, z belong to a given finite index subgroup of the multiplicative group of rational numbers. From this we deduce a Hasse principle for diagonal curves over fields of algebraic numbers with finitely generated Galois group.

@@ -1,0 +1,1 @@
+For all classical groups (and for their analogs in infinite dimension or over general base fields or rings) we construct certain contractions, called "homotopes". The construction is geometric, using as ingredient involutions of associative geometries. We prove that, under suitable assumptions, the groups and their homotopes have a canonical semigroup completion.

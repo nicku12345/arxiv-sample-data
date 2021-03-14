@@ -1,0 +1,1 @@
+Let B be a Blaschke product with zeros \{a_n\}. If B' \in A^p_{\alpha} for certain p and \alpha, it is shown that \sum_n (1 - |a_n|)^{\beta} < \infty for appropriate values of \beta. Also, if \{a_n\} is uniformly discrete and if B' \in H^p or B' \in A^{1+p} for any p \in (0,1), it is shown that \sum_n (1 - |a_n|)^{1-p} < \infty.

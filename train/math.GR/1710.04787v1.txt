@@ -1,0 +1,1 @@
+We present new results regarding automatic continuity, unifying some diagonalization concepts that have been developed over the years. For example, any homomorphism from a completely metrizable topological group to Thompson's group F has open kernel. A similar claim holds when F is replaced with a Baumslag-Solitar group or a torsion-free word hyperbolic group.

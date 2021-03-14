@@ -1,0 +1,1 @@
+This paper investigates the efficiency of an alternative to ratio estimator under the super population model with uncorrelated errors and a gamma-distributed auxiliary variable. Comparisons with usual ratio and unbiased estimators are also made.

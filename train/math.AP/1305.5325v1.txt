@@ -1,0 +1,1 @@
+We consider finite energy corotationnal wave maps with target manifold \m S^2. We prove that for a sequence of times, they decompose as a sum of decoupled harmonic maps in the light cone, and a smooth wave map (in the blow case) or a linear scattering term (in the global case), up to an error which tends to 0 in the energy space.

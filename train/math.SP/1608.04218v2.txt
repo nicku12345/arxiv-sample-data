@@ -1,0 +1,1 @@
+In this note we introduce the concept of the numerical range of a bounded linear operator with respect to a family of projections. We give a precise definition and elaborate on its connection to the classical numerical range as well as to generalisations such as the quadratic numerical range and block numerical range.

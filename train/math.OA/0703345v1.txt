@@ -1,0 +1,1 @@
+A Central Limit Theorem for non-commutative random variables is proved using the Lindeberg method. The theorem is a generalization of the Central Limit Theorem for free random variables proved by Voiculescu. The Central Limit Theorem in this paper relies on an assumption which is weaker than freeness.

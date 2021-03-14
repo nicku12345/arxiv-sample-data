@@ -1,0 +1,1 @@
+A cycle base of a permutation group is defined to be a maximal set of its pairwise non-conjugate regular cyclic subgroups. It is proved that a cycle base of a permutation group of degree n can be constructed in polynomial time in~n.

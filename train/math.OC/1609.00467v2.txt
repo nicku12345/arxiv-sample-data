@@ -1,0 +1,1 @@
+We present a method for solving linearly constrained convex optimization problems, which is based on the application of known algorithms for finding zeros of the sum of two monotone operators (presented by Eckstein and Svaiter) to the dual problem. We establish convergence rates for the new method, and we present applications to TV denoising and compressed sensing problems.

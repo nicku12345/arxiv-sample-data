@@ -1,0 +1,1 @@
+Given a Morse function on a manifold whose moduli spaces of gradient flow lines for each action window are compact up to breaking one gets a bidirect system of chain complexes. There are different possibilities to take limits of such a bidirect system. We discuss in this note the relation between these different limits.

@@ -1,0 +1,1 @@
+We prove that if a solvable group A acts coprimely on a solvable group G, then A has a "large" orbit in its corresponding action on the set of ordinary complex irreducible characters of G. This extends (at the cost of a weaker bound) a 2005 result of A. Moreto who obtained such a bound in case that A is a p-group.

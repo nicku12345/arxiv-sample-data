@@ -1,0 +1,1 @@
+We use a characterization of the graph C*-algebras C*(E) as the Stacey crossed product C*(E)^\gamma \times_{\beta_E} N, to study its ideal properties in terms of the (non-classical) C*-dynamical system (C*(E)^\gamma, \beta_E)

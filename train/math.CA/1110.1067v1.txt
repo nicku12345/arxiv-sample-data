@@ -1,0 +1,1 @@
+We prove an extension of the Walsh-analog of the Carleson-Hunt theorem, where the L^\infty norm defining the Carleson maximal operator has been replaced by an L^q maximal-multiplier-norm. Additionally, we consider certain associated variation-norm estimates.

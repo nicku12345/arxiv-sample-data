@@ -1,0 +1,1 @@
+An error analysis for some Newton-Cotes quadrature formulae is presented. Peano-like error bounds are obtained. They are generally, but not always, better than the usual Peano bounds.

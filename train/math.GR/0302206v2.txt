@@ -1,0 +1,1 @@
+We introduce a combinatorial version of Stallings-Bestvina-Feighn-Dunwoody folding sequences. We then show how they are useful in analyzing the solvability of the uniform subgroup membership problem for fundamental groups of graphs of groups. Applications include coherent right-angled Artin groups and coherent solvable groups.

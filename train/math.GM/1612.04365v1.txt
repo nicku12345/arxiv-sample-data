@@ -1,0 +1,1 @@
+In this note we compare two formulas for the higher order derivatives of the function 1/(exp(x) -1). We also provide an integral representation for these derivatives and obtain a classical formula relating zeta values and Bernoulli numbers.

@@ -1,0 +1,1 @@
+We present a self-contained account of Woodin's extender algebra and its use in proving absoluteness results, including a proof of the \Sigma^2_1-absoluteness theorem. We also include a proof that the existence of an inner model with Woodin limit of Woodin cardinals implies the existence of divergent models of \AD^+.

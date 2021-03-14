@@ -1,0 +1,1 @@
+We prove that for any pair of i.i.d. random variables X,Y with finite moment of order a \in (0,2] it is true that E |X-Y|^a \leq E |X+Y|^a. Surprisingly, this inequality turns out to be related with bifractional Brownian motion. We extend this result to Bernstein functions and provide some counter-examples.

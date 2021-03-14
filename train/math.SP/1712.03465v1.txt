@@ -1,0 +1,1 @@
+We define the distance between edges of graphs and study the coarse Ricci curvature on edges. We consider the Laplacian on edges based on the Jost-Horak's definition of the Laplacian on simplicial complexes. As one of our main results, we obtain an estimate of the first non-zero eigenvalue of the Laplacian by the Ricci curvature for a regular graph.

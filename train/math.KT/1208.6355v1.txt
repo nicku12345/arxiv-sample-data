@@ -1,0 +1,1 @@
+The K\"unneth Theorem for equivariant (complex) K-theory K^*_G, in the form developed by Hodgkin and others, fails dramatically when G is a finite group, and even when G is cyclic of order 2. We remedy this situation in this very simplest case G = Z/2 by using the power of RO(G)-graded equivariant K-theory.

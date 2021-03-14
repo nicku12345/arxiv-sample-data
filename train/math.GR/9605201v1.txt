@@ -1,0 +1,1 @@
+We describe a general technique for embedding certain amalgamated products into direct products. This technique provides us with a way of constructing a host of finitely presented subgroups of automatic groups which are not even asynchronously automatic. We can also arrange that such subgroups satisfy, at best, an exponential isoperimetric inequality.

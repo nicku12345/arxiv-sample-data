@@ -1,0 +1,1 @@
+Generalizing our earlier work, we construct quasi-particle bases of principal subspaces of standard module L_{X_l^{(1)}}(k\Lambda_0) and generalized Verma module N_{X_l^{(1)}}(k\Lambda_0) at level k\geq 1 in the case of affine Lie algebras of types B_l^{(1)} and C_l^{(1)}. As a consequence, from quasi-particle bases, we obtain the graded dimensions of these subspaces.

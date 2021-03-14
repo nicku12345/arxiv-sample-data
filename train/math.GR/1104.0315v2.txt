@@ -1,0 +1,1 @@
+We study finite G-sets and their tensor product with Riemannian manifolds, and obtain results on isospectral quotients and covers. In particular, we show the following: if M is a compact connected Riemannian manifold (or orbifold) whose fundamental group has a finite non-cyclic quotient, then M has isospectral non-isometric covers.

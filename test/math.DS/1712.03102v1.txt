@@ -1,0 +1,1 @@
+Let d(c) denote the Hausdorff dimension of the Julia set J_c of the polynomial f_c(z)=z^2+c. We will investigate behavior of the function d(c) when real parameter c tends to a parabolic parameter.

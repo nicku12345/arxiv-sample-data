@@ -1,0 +1,1 @@
+We study the distribution of the outliers in the spectrum of finite rank deformations of Wigner random matrices. We assume that the matrix entries have finite fourth moment and extend the results by Capitaine, Donati-Martin, and F\'eral for perturbations whose eigenvectors are delocalized.

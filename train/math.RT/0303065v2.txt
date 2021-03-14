@@ -1,0 +1,1 @@
+This paper is devoted to a detailed study of certain remarkable posets which form a natural partition of all abelian ideals of a Borel subalgebra. Our main result is a nice uniform formula for the dimension of maximal ideals in these posets. We also obtain results on ad-nilpotent ideals which complete the analysis started in \cite{CP2}, \cite{CP3}.

@@ -1,0 +1,1 @@
+We prove that the volumes determined by the lengths of the non-zero vectors \pm\vecx in a random lattice L of covolume 1 define a stochastic process that, as the dimension n tends to infinity, converges weakly to a Poisson process on the positive real line with intensity 1/2. This generalizes earlier results by Rogers and Schmidt.

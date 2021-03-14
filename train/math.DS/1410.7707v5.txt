@@ -1,0 +1,1 @@
+We construct examples of C^{1} Anosov diffeomorphisms on \mathbb{T}^{2} which are of Krieger type {\rm III}_{1} with respect to Lebesgue measure. This shows that the Gurevic Oseledec phenomena that conservative C^{1+\alpha} Anosov diffeomorphisms have a smooth invariant measure does not hold true in the C^{1} setting.

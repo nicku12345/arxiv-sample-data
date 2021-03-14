@@ -1,0 +1,1 @@
+Let G=GL_{n}(R), with the usual Cartan decomposition G=Kexp(p_0) and the usual Iwasawa decomposition G=NAK. We determine the image of exp(p_0) under the projection of G to K through the Iwasawa decomposition. As an application, we prove a positivity result about the matrix coefficients of principal series representations of G.

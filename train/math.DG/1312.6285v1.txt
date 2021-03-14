@@ -1,0 +1,1 @@
+We show, by modifying Borb\'ely's example, that there are 3-dimen\-sional Cartan-Hadamard manifolds M, with sectional curvatures \le -1, such that the asymptotic Dirichlet problem for a class of quasilinear elliptic PDEs, including the minimal graph equation, is not solvable.

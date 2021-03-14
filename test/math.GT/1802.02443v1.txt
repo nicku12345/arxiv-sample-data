@@ -1,0 +1,1 @@
+We describe the construction of an \mathcal{A}_\infty multi-module in terms of counts of holomorphic polygons in a series Heegaard multi-diagrams. We show that this is quasi-isomorphic to the type-A bordered-sutured invariant of a link complement with a view to calculating, in the sequel, these invariants in terms of the link Floer homology of the corresponding link.

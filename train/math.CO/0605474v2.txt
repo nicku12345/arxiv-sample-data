@@ -1,0 +1,1 @@
+We find the number of partitions of n whose BG-rank is j, in terms of pp(n), the number of pairs of partitions whose total number of cells is n, giving both bijective and generating function proofs. Next we find congruences mod 5 for pp(n), and then we use these to give a new proof of a refined system of congruences for p(n) that was found by Berkovich and Garvan.

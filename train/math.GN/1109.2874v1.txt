@@ -1,0 +1,1 @@
+In this paper we introduce I^K-convergence which is a common generalization of the I^K-convergence of sequences, double sequences and nets. We show that many results that were shown before for these special cases are true for the I^K-convergence, too

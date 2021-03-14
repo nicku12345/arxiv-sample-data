@@ -1,0 +1,1 @@
+In this paper, we prove the diffusion phenomenon for the linear wave equation with space-dependent damping. We prove that the asymptotic profile of the solution is given by a solution of the corresponding heat equation in the L^2-sense.

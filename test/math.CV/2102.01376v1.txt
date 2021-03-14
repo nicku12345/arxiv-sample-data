@@ -1,0 +1,1 @@
+For any complex polynomial P having all its zeros in the unit disk, we estimate the rate of change of the argument P (z) when the point z runs through the boundary of this disk.

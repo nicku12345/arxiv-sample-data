@@ -1,0 +1,1 @@
+One proves existence and uniqueness of strong solutions to stochastic porous media equations under minimal monotonicity conditions on the nonlinearity. In particular, we do not assume continuity of the drift or any growth condition at infinity.

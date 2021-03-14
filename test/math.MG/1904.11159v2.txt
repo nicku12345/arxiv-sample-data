@@ -1,0 +1,1 @@
+In this paper, we use the linear programming approach to find new upper bounds for the moments of isotropic measures. These bounds are then utilized for finding lower packing bounds and energy bounds for projective codes. We also show that the obtained energy bounds are sharp for several infinite families of codes.

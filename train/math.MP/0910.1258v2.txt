@@ -1,0 +1,1 @@
+We consider integrals of type \int_{O_n}u_{11}^{a_1}... u_{1n}^{a_n}u_{21}^{b_1}... u_{2n}^{b_n} du, with respect to the Haar measure on the orthogonal group. We establish several remarkable invariance properties satisfied by such integrals, by using combinatorial methods. We present as well a general formula for such integrals, as a sum of products of factorials.

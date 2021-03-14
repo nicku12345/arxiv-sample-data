@@ -1,0 +1,1 @@
+We construct operators which factorize the transfer function associated with a non-self-adjoint 2x2 operator matrix whose diagonal entries can have overlapping spectra and whose off-diagonal entries are unbounded operators.

@@ -1,0 +1,1 @@
+Let f be an Anosov diffeomorphism of the n-dimensional torus {\mathbb{T}}^n and \tau a continuous self-mapping of {\mathbb{T}}^n commuting with f. We prove that \tau is surjective if and only if the restriction of \tau to each homoclinicity class of f is injective.

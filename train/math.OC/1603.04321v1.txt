@@ -1,0 +1,1 @@
+We present an algorithm for the identification of the relaxation kernel in the theory of diffusion systems with memory (or of viscoelasticity) which is linear, in the sense that we propose a linear Volterra integral equation of convolution type whose solution is the relaxation kernel. The algorithm is based on the observation of the flux through a part of the boundary of a body.

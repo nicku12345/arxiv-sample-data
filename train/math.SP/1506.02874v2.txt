@@ -1,0 +1,1 @@
+Let P(h),h\in]0,1] be a semiclassical scalar differential operator of order 2. The existence of a supersymmetric structure given by a matrix G(x;h) was exhibited in \cite{HeHiSj13} under rather general assumptions. In this note we give a sufficient condition on its coefficient so that the matrix G(x;h) enjoys some nice estimates with respect to the semiclassical parameter.

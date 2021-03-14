@@ -1,0 +1,1 @@
+We prove the following result due to Hamidoune using an analytic approach. Suppose that A is a subset of a finite group G with |AA^{-1}| \leq (2-\varepsilon)|A|. Then there is a subgroup H of G and a set X of size O_\varepsilon(1) such that A \subset XH.

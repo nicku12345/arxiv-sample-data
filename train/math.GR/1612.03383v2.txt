@@ -1,0 +1,1 @@
+To any finite ordered subset and any finite partition of a group a set of tuples of positive integers, named as configurations, is associated that describes the group's behavior. The present paper provides an exposition of this notion and related topics, including amenability, paradoxical decomposition and the group theoretical properties.

@@ -1,0 +1,1 @@
+We introduce an analog of part of the Langlands-Shahidi method to the p-adic setting, constructing reciprocals of certain p-adic L-functions using the nonconstant terms of the Fourier expansions of Eisenstein series. We carry out the method for the group SL(2), and give explicit p-adic measures whose Mellin transforms are reciprocals of Dirichlet L-functions.

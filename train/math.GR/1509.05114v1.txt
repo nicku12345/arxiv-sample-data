@@ -1,0 +1,1 @@
+Let G be a group. We denote by \nu(G) an extension of the non-abelian tensor square G \otimes G by G \times G. We prove that if G is finite-by-nilpotent, then the non-abelian tensor square G \otimes G is finite-by-nilpotent. Moreover, \nu(G) is nilpotent-by-finite (Theorem A). Also we characterize BFC-groups in terms of \nu(G) (Theorem B).

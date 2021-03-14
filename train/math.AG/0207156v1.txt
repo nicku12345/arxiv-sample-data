@@ -1,0 +1,1 @@
+Let X' be a smooth contractible three-dimensional affine algebraic variety with a free algebraic C_+ -action on it such that S =X'// C_+ is smooth. We prove that X' is isomorphic to S \times \C and the action is induced by a translation on the second factor. As a consequence we show that any free algebraic C_+ -action on C^3 is a translation in a suitable coordinate system.

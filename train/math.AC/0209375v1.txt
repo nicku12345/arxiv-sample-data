@@ -1,0 +1,1 @@
+We present a constructive description of minimal reductions with a given reduction number. This description has interesting consequences on the minimal reduction number, the big reduction number, and the core of an ideal. In particular, it helps solve a conjecture of Vasconcelos on the relationship between reduction numbers and initial ideals.

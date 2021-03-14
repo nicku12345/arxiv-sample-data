@@ -1,0 +1,1 @@
+Let B be a Poisson algebra \Bbb C[x_1,\ldots, x_k] with Poisson bracket such that \{x_j,x_i\}=c_{ji}x_ix_j+p_{ji} for all j>i, where c_{ji}\in\Bbb C and p_{ji}\in\Bbb C[x_1,\ldots,x_i]. Here we obtain an iterated skew polynomial algebra such that its semiclassical limit is equal to B and the results are illustrated by examples.

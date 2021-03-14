@@ -1,0 +1,1 @@
+Let S be a compact surface, and M be the double of a handlebody. Given a homotopy class of maps from S to M inducing an isomorphism of fundamental groups, we describe a canonical uniformly lipschitz retraction of the sphere graph of M to the arc graph of S. We also show that this retraction is a uniformly bounded distance from the nearest point projection map.

@@ -1,0 +1,1 @@
+We analyze the Hermite polynomials H_{n}(\xi) and their zeros asymptotically as n\to\infty, using the limit relation between the Charlier and Hermite polynomials. Our formulas involve some special functions and they yield very accurate approximations.

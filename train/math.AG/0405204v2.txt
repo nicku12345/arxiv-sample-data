@@ -1,0 +1,1 @@
+If X is a nonsingular curve in a Calabi--Yau threefold Y whose normal bundle N_{X/Y} is a generic semistable bundle, are the local Gromov-Witten invariants of X well defined? For X of genus two or higher, the issues are subtle. We will formulate a precise line of inquiry and present some results, some positive and some negative.

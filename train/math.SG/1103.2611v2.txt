@@ -1,0 +1,1 @@
+SYZ mirror conjecture predicts that a Calabi-Yau manifold X consists of a family of tori which are dual to a family of special lagrangian tori on the mirror dual manifold \hat{X}. Here we consider a fibration of polarized abelian varieties and we construct a dual one. Moreover we prove that they are equivalent at the level of derived categories.

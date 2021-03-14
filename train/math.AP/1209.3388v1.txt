@@ -1,0 +1,1 @@
+For a Lipschitz domain we show that solutions of certain first order systems are unique. This result is then applied to prove a crucial step for showing Korn's first inequality as well as to prove the 'infinitesimal rigid displacement lemma in curvilinear coordinates'.

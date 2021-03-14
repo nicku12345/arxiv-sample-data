@@ -1,0 +1,1 @@
+A method of constructing specific polynomial representations f(x) over the finite field F_p of the square roots function modulo a prime p = 2^k*n + 1, n odd, is presented. The formulas for the cases k = 2, 3 and 4 are given.

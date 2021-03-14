@@ -1,0 +1,1 @@
+In this paper, it is proved that, for the truth value algebra of interval-valued fuzzy sets, the distributive laws do not imply the monotonicity condition for the set inclusion operation. Then, a lattice-ordered t_{r}-norm, which is not the convolution of t-norms on [0, 1], is obtained. These results negatively answer two open problems posed by Walker and Walker in [15].

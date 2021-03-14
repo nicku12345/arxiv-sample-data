@@ -1,0 +1,1 @@
+In this paper, we present the next step in the proof that Z_{TV,\C} = Z_{RT, Z(\C)}, namely that the theories give the same 3-manifold invariants. In future papers we will show that this equality extends to an equivalence of TQFTs.

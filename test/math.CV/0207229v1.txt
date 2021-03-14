@@ -1,0 +1,1 @@
+If f is a real entire function and ff" has only real zeros then f belongs to the Laguerre-Polya class, the closure of the set of real polynomials with real zeros.   This result completes a long line of development originating from a conjecture of Wiman in 1914.

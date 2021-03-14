@@ -1,0 +1,1 @@
+We prove that a Hausdorff paratopological group G is meager if and only if there are a nowhere dense subset A of G and a countable subset C in G such that CA=G=AC.

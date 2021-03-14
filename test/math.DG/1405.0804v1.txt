@@ -1,0 +1,1 @@
+Given a globally hyperbolic spacetime endowed with a complete lightlike Killing vector field and a complete Cauchy hypersurface, we characterize the points which can be connected by geodesics. A straightforward consequence is the geodesic connectedness of globally hyperbolic generalized plane waves with a complete Cauchy hypersurface.

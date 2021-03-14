@@ -1,0 +1,1 @@
+We describe a method to accelerate the numerical computation of the coefficients of the polynomials P_k(x) that appear in the conjectured asymptotics of the 2k-th moment of the Riemann zeta function. We carried out our method to compute the moment polynomials for k \leq 13, and used these to experimentally test conjectures for the moments up to height 10^8.

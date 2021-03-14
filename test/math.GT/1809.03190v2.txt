@@ -1,0 +1,1 @@
+Intersection norms are integer norms on the first homology group of a surface. In this article, we prove that there are some polytopes which are not dual unit balls of such norms. By the way, we investigate the set of collections of curves on \Sigma2 whose complement is a disk.

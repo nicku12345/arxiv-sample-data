@@ -1,0 +1,1 @@
+We compute the Stanley depth for the quotient ring of a square free Veronese ideal and we give some bounds for the Stanley depth of a square free Veronese ideal. In particular, it follows that both satisfy the Stanley's conjecture.

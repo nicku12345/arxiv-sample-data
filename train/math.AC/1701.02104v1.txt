@@ -1,0 +1,1 @@
+We use the concept of 2-absorbing ideal introduced by Badawi to study those commutative rings in which every proper ideal is a product of 2-absorbing ideals (we call them TAF-rings). Any TAF-ring has dimension at most one and the local TAF-domains are the atomic pseudo-valuation domains.

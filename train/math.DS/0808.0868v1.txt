@@ -1,0 +1,1 @@
+We prove that a subshift (X,T) is linearly recurrent if and only if it is a primitive and proper S-adic subshift. This corrects Proposition 6 in F. Durand ({\it Ergod. Th. & Dynam. Sys. {\bf 20}} (2000), 1061--1078).

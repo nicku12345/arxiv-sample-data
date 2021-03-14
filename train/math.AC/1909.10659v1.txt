@@ -1,0 +1,1 @@
+In this paper it is shown that a sortable ideal I is Freiman if and only if its sorted graph is chordal. This characterization is used to give a complete classification of Freiman principal Borel ideals and of Freiman Veronese type ideals with constant bound.

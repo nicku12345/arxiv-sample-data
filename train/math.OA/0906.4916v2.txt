@@ -1,0 +1,1 @@
+We show that the full group C^*-algebra of PSL(n, \Z) is primitive when n=2, and not primitive when n\geq 3. Moreover, we show that there exists an uncountable family of pairwise inequivalent, faithful irreducible representations of C^*(PSL(2,\Z)).

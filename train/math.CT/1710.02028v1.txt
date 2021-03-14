@@ -1,0 +1,1 @@
+We prove a theorem, motivated by a conjecture of Voevodsky on C-systems, that provides, under some assumptions, a lift of a functor with a C-system as domain and a category as codomain, to a homomorphism of C-systems.

@@ -1,0 +1,1 @@
+We consider matrices containing two diagonal bands of positive entries. We show that all eigenvalues of such matrices are of the form r \zeta, where r is a nonnegative real number and \zeta is a pth root of unity, where p is the period of the matrix, which is computed from the distance between the bands.

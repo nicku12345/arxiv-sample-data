@@ -1,0 +1,1 @@
+For the minimal graph with strict convex level sets, we find an auxiliary function to study the Gaussian curvature of the level sets. We prove that this curvature function is a concave function with respect to the height of the minimal surface while this auxiliary function is almost sharp when the minimal surface is the Catenoid.

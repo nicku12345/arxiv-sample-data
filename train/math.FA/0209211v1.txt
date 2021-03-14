@@ -1,0 +1,1 @@
+We introduce an equivalence relation on the set of single wavelets of L^2(R^n) associated with an arbitrary dilation matrix. The corresponding equivalence classes are characterized in terms of the support of the Fourier transform of wavelets and it is shown that each of these classes is non-empty.

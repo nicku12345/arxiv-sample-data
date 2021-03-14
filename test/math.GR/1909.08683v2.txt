@@ -1,0 +1,1 @@
+We prove that a non-affine latin quandle (also known as left distributive quasigroup) of order 2^k exists if and only if k = 6 or k \geq 8. The construction is expressed in terms of central extensions of affine quandles.

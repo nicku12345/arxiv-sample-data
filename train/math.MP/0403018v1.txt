@@ -1,0 +1,1 @@
+We investigate the solution of the equation \partial_t E(x,t)-iD\partial_x^2 E(x,t)= \lambda |S(x,t)|^2 E(x,t), for x in a circle and S(x,t) a Gaussian stochastic field with a covariance of a particular form. It is shown that the coupling \lambda_c at which <|E|> diverges for t>=1 (in suitable units), is always less or equal for D>0 than D=0.

@@ -1,0 +1,1 @@
+We construct a prequential test of probabilistic forecasts that does not reject correct forecasts when the data-generating processes is exchangeable and is not manipulable by a false forecaster.

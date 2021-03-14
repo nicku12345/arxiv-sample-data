@@ -1,0 +1,1 @@
+In this paper we study the sum \sum_{j_1+j_2+...+j_d=n}\prod_{i=1}^d F_{k\cdot j_i}, where d\geq2 and k\geq1.

@@ -1,0 +1,1 @@
+In this work we investigate families of translation invariant differentiation bases B of rectangles in R^n, for which L\log^{n-1}L(R^n) is the largest Orlicz space that B differentiates. In particular, we improve on techniques developed by A.~Stokolos 1988 and 2008.

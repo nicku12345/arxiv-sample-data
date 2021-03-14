@@ -1,0 +1,1 @@
+We generalize the notion of length to an ordinal-valued invariant defined on the class of finitely generated modules over a Noetherian ring. A key property of this invariant is its semi-additivity on short exact sequences. As an application, we prove some general acyclicity theorems.

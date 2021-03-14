@@ -1,0 +1,1 @@
+We present an inversion formula which can be used to obtain resolvent expansions near embedded thresholds. As an application, we prove for a class of quantum waveguides the absence of accumulation of eigenvalues and the continuity of the scattering matrix at all thresholds.

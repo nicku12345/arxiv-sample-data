@@ -1,0 +1,1 @@
+We give an effective upper escape rate function for Brownian motion on a complete Riemannian manifold in terms of the volume growth of the manifold. An important step in the work is estimating the small tail probability of the crossing time between two concentric geodesic spheres by reflecting Brownian motions on the larger geodesic ball.

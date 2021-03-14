@@ -1,0 +1,1 @@
+This work establishes a subtle connection between mirror symmetry for Calabi-Yau threefolds and that of curves of higher genus. The linking structure is what we call a perverse curve. We show how to obtain such from Calabi-Yau threefolds in the Batyrev mirror construction and prove that their Hodge diamonds are related by the mirror duality.

@@ -1,0 +1,1 @@
+Let (X,D) be log canonical pair such \dim X = 3 and the divisor -(K_X + D) is nef and big. For a special class of such (X,D)'s we prove that the linear system |-n(K_{X}+D)| is free for n \gg 0.

@@ -1,0 +1,1 @@
+We give a definition of Toeplitz matrix acting on the \ell^2-space of an imprimitivity C^*-bimodule X over a C^*-algebra A. We characterize the set of Toeplitz matrices as the closure in a certain topology of the image of the left regular representation of the crossed product A\rtimes X.

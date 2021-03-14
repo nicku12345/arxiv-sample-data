@@ -1,0 +1,1 @@
+We describe an algorithm for finding sharp upper bounds for the total Betti numbers of a saturated ideal given certain constraints on its Hilbert function. This algorithm is implemented in the Macaulay2 package, MaxBettiNumbers, along with variations that produce ideals with maximal total Betti numbers.

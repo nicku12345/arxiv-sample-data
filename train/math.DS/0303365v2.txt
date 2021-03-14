@@ -1,0 +1,1 @@
+We construct an equilibrium measure \mu for a polynomial correspondence F of Lojasiewicz exponent l>1. We then show that \mu can be built as the distribution of preimages of a generic point and that the expansive periodic points are equidistributed on the support of \mu. Using this results, we will give a characterization of infinite unique sets for polynomials.

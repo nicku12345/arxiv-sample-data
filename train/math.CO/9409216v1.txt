@@ -1,0 +1,1 @@
+An expression in the exterior algebra of a Peano space yielding Pappus' Theorem was originally given by Doubilet, Rota, and Stein. Motivated by an identity of Rota, we give an identity in a Grassmann-Cayley algebra of step 3, involving joins and meets alone, which expresses the Theorem of Pappus.

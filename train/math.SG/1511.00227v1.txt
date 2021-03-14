@@ -1,0 +1,1 @@
+A locally conformally symplectic (LCS) form is an almost symplectic form \omega such that a closed one-form \theta exists with d\omega = \theta \wedge \omega. We present a version of the well-known result of Darboux and Weinstein in the LCS setting and give an application concerning Lagrangian submanifolds.

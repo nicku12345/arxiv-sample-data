@@ -1,0 +1,1 @@
+Let \delta be a derivation of a locally nilpotent ring R. Then the differential polynomial ring R[X; \delta] cannot be mapped onto a ring with a non-zero idempotent. This answers a recent question by Greenfeld, Smoktunowicz and Ziembowski.

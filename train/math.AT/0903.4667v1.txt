@@ -1,0 +1,1 @@
+We introduce the notion of the space of parallel strings with partially summable labels, which can be viewed as a geometrically constructed group completion of the space of particles with labels. We utilize this to construct a machinery which produces equivariant generalized homology theories from such simple and abundant data as partial monoids.

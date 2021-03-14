@@ -1,0 +1,1 @@
+The error performance of the ensemble of typical LDPC codes transmitted over the binary erasure channel (BEC) is analyzed. In the past, lower bounds on the error exponents were derived. In this paper a probabilistic upper bound on this error exponent is derived. This bound holds with some confidence level.

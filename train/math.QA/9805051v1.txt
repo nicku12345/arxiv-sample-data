@@ -1,0 +1,1 @@
+We present an approach to cyclic homology of A_{\infty} algebras. Our main technical tool is the concept of X-complex due to Cuntz and Quillen. This, in particular, enables us to compute the periodic cyclic homology of an A_{\infty} algebra in terms of the periodic cyclic homology of its homology.

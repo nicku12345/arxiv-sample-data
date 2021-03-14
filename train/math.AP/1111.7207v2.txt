@@ -1,0 +1,1 @@
+In this paper we prove that a strictly convex Alexandrov solution u of the Monge-Amp\`ere equation, with right hand side bounded away from zero and infinity, is W_{\rm loc}^{2,1}. This is obtained by showing higher integrability a-priori estimates for D^2 u, namely D^2 u \in L\log^k L for any k\in \mathbb N.

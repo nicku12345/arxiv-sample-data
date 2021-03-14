@@ -1,0 +1,1 @@
+We prove that if A is a finite algebra with a parallelogram term that satisfies the split centralizer condition, then A is dualizable. This yields yet another proof of the dualizability of any finite algebra with a near unanimity term, but more importantly proves that every finite module, group or ring in a residually small variety is dualizable.

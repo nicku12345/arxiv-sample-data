@@ -1,0 +1,1 @@
+Considering a solid 3-dimensional Klein bottle and a collaring of its boundary, can we extend a generic C^\infty non-singular function defined on the collaring to the full solid Klein bottle without critical points? We give a condition on the Reeb graph of the given function that is necessary and sufficient for the existence of such a non-singular extension.

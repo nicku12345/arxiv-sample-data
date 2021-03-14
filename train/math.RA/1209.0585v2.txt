@@ -1,0 +1,1 @@
+Starting from known results, due to Y. Tian in [Ti; 00], referring to the real matrix representations of the real quaternions, in this paper we will investigate the left and right real matrix representations for the complex quaternions and we give some examples in the special case of the complex Fibonacci quaternions.

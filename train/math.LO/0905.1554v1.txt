@@ -1,0 +1,1 @@
+The symmetric \lambda mu-calculus is the \lambda\mu-calculus introduced by Parigot in which the reduction rule \mu', which is the symmetric of \mu, is added. We give examples explaining why the technique using the usual candidates of reducibility does not work. We also prove a standardization theorem for this calculus.

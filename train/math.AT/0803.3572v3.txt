@@ -1,0 +1,1 @@
+A well known conjecture in the theory of transformation groups states that if p is a prime and (Z/p)^r acts freely on a product of k spheres, then r is less than or equal to k. We prove this assertion if p is large compared to the dimension of the product of spheres. The argument builds on tame homotopy theory for non simply connected spaces.

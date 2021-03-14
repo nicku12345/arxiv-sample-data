@@ -1,0 +1,1 @@
+We prove that many of the recently-constructed algebras and categories which appear in categorification can be equipped with an action of the Lie algebra sl_2 by derivations. The representations which appear are filtered by tensor products of coverma modules. In a future paper, we will address the implications of this structure for categorification.

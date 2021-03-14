@@ -1,0 +1,1 @@
+Given a power q of a prime number p and "nice" polynomials f_1,...,f_r\in\bbF_q[T,X] with r=1 if p=2, we establish an asymptotic formula for the number of pairs (a_1,a_2)\in\bbF_q^2 such that f_1(T,a_1T+a_2),...,f_r(T,a_1T+a_2) are irreducible in \bbF_q[T]. In particular that number tends to infinity with q.

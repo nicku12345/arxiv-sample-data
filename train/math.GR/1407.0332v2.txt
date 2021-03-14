@@ -1,0 +1,1 @@
+We study a random group G in the Gromov density model and its Cayley complex X. For density < 5/24 we define walls in X that give rise to a nontrivial action of G on a CAT(0) cube complex. This extends a result of Ollivier and Wise, whose walls could be used only for density < 1/5. The strategy employed might be potentially extended in future to all densities < 1/4.

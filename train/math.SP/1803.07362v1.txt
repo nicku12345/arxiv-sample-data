@@ -1,0 +1,1 @@
+We consider the nonlinear eigenvalue problem, with Dirichlet boundary condition, for a class of very degenerate elliptic operators, with the aim to show that, at least for square type domains having fixed volume, the symmetry of the domain maximize the principal eigenvalue, contrary to what happens for the Laplacian.

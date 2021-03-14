@@ -1,0 +1,1 @@
+Let A be a \mathfrak Q-domain, K=frac(A), B=A^{[n]} and D\in \lnd_A(B). Assume rank D= rank D_K=r, where D_K is the extension of D to K^{[n]}. Then we show that   (i) If D_K is rigid, then D is rigid.   (ii) Assume n=3, r=2 and B=A[X,Y,Z] with DX=0. Then D is triangulable over A if and only if D is triangulable over A[X]. In case A is a field, this result is due to Daigle.

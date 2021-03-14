@@ -1,0 +1,1 @@
+The simplicial extension of any functor from Sets to Sets which commutes with directed colimits takes weak equivalences to weak equivalences. The goal of the present paper is construct a framework which can be used to proof results of this kind for a wide class of closed model categories and functors between those categories.

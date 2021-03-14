@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of positive characteristic, G a reductive group over k, and V a finite dimensional G-module. Let B be a Borel subgroup of G, and U its unipotent radical. We prove that if S=\Sym V has a good filtration, then S^U is F-pure.

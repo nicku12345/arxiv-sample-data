@@ -1,0 +1,1 @@
+We introduce the study of nonlinear harmonic forms. These are forms which minimize the L_2 energy in a cohomology class subject to a nonlinear constraint. In this note, we include only motivations and the most basic existence results. We also introduce a variant of the Bochner formula suitable for probing the structure of the intersection form of a 4-manifold.

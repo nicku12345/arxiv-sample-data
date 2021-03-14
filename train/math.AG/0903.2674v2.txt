@@ -1,0 +1,1 @@
+The article provides a factorization formalism for determinants of the period matrices for D-modules on curves. Unlike previous approach due to Bloch, Deligne, and Esnault, it does not use Fourier transform.

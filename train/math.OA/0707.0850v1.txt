@@ -1,0 +1,1 @@
+We define the concept of completely regular ordinary differential operators and give various criteria for operators to belong to this class. We give also criteria for Birkhof regularity of ordinary differential operators in terms of the growth of the Green function and basis property.

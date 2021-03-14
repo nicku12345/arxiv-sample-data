@@ -1,0 +1,1 @@
+In this note we prove that the simplicial derived functors introduced by Tierney and Vogel [TV69] are naturally isomorphic to the cubical derived functors introduced by the author in [P09]. We also explain how this result generalizes the well-known fact that the simplicial and cubical singular homologies of a topological space are naturally isomorphic.

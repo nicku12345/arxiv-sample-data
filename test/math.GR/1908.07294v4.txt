@@ -1,0 +1,1 @@
+We show that the geodesic growth function of any finitely generated virtually abelian group is either polynomial or exponential; and that the geodesic growth series is holonomic, and rational in the polynomial growth case. In addition, we show that the language of geodesics is blind multicounter.

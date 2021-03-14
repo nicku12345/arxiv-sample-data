@@ -1,0 +1,1 @@
+The cotangent cohomology groups T^1 and T^2 play an important role in deformation theory, the first as space of infinitesimal deformations, while the obstructions land in the second. Much work has been done to compute their dimension for rational surface singularities. For such singularities we give explicit dimension formulas for the groups T^i with i>2.

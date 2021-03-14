@@ -1,0 +1,1 @@
+The Slope Conjecture relates the degree of the colored Jones polynomial to the boundary slopes of a knot. We verify the Slope Conjecture and the Strong Slope Conjecture for Montesinos knots M(\frac{1}{r},\frac{1}{s-\frac{1}{u}},\frac{1}{t} ) with r,u,t odd, s even and u\leq-1, r<-1<1<s,t.

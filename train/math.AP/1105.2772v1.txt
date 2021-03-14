@@ -1,0 +1,1 @@
+Consider the positive, radial solutions of the nonlinear biharmonic equation \Delta^2 u = u^p. There is a critical power p_c such that solutions are linearly stable if and only if p\geq p_c. We obtain their asymptotic expansion at infinity in the case that p\geq p_c.

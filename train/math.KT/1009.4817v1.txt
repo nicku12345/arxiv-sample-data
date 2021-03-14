@@ -1,0 +1,1 @@
+We use stable anti Yetter-Drinfeld contramodules to improve the cup products in Hopf cyclic cohomology. The improvement fixes the lack of functoriality of the cup products previously defined and show that the cup products are sensitive to the coefficients.

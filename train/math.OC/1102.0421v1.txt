@@ -1,0 +1,1 @@
+Some metric and graphical regularity properties of generalized constraint systems are investigated. Then, these properties are applied in order to penalize (in the sense of Clarke) various scalar and vector optimization problems. This method allows us to present several necessary optimality conditions in solid constrained vector optimization.

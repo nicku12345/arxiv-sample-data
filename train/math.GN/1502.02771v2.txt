@@ -1,0 +1,1 @@
+This article introduces strongly far proximity, which is associated with Lodato proximity \delta. A main result in this paper is the introduction of a hit-and-miss topology on \mbox{CL}(X), the hyperspace of nonempty closed subsets of X, based on the strongly far proximity.

@@ -1,0 +1,1 @@
+In this article we find the equivalent conditions to assure the existence and uniqueness of positive solutions to semilinear elliptic equations wih double power nonlinearities. As a bonus, we give a simpler proof of our former result that the uniqueness condition comes from the existence condition.

@@ -1,0 +1,1 @@
+The versal deformation ring R(G,V) of a mod p representation V of a profinite group G encodes all isomorphism classes of lifts of V to representations of G over complete local commutative Noetherian rings. We introduce a new technique for determining R(G,V) when G is finite which involves Brauer's generalized decomposition numbers.

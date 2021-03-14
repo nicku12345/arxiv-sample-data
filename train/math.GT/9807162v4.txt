@@ -1,0 +1,1 @@
+Bar-Natan used Chinese characters to show that finite type invariants classify string links up to homotopy. In this paper, I construct the correct spaces of chord diagrams and Chinese characters for links up to homotopy. I use these spaces to show that the only rational finite type invariants of link homotopy are the pairwise linking numbers of the components.

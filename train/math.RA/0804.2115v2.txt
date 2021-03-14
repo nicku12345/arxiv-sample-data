@@ -1,0 +1,1 @@
+In this paper, we establish Composition-Diamond lemma for tensor product k< X> \otimes k< Y> of two free algebras over a field. As an application, we construct a Groebner-Shirshov basis in k< X> \otimes k< Y> by lifting a Groebner-Shirshov basis in k[X] \otimes k< Y>, where k[X] is a commutative algebra.

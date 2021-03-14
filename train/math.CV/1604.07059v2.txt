@@ -1,0 +1,1 @@
+Let \Omega be an arbitrary bounded semi-Reinhardt domain in \mathbb{C}^{m+n}. We show that for m \geq 2, if a Hankel operator with an anti-holomorphic symbol is Hilbert-Schmidt on the Bergman space L_a^2(\Omega), then it must equal zero. This fact has previously been proved for Reinhardt domains.

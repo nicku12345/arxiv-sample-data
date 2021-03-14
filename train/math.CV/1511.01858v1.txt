@@ -1,0 +1,1 @@
+We study H\"older continuity of solutions to the Dirichlet problem for measures having density in L^p, p>1, with respect to Hausdorff-Riesz measures of order 2n-2+\epsilon for 0<\epsilon \leq 2, in a bounded strongly hyperconvex Lipschitz domain and the boundary data belongs to  C^{0,\alpha}(\partial \Omega),  0<\alpha \leq 1.

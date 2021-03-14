@@ -1,0 +1,1 @@
+Every commuting set of normal matrices with entries in an AW*-algebra can be simultaneously diagonalized. To establish this, a dimension theory for properly infinite projections in AW*-algebras is developed. As a consequence, passing to matrix rings is a functor on the category of AW*-algebras.

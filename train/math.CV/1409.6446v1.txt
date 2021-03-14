@@ -1,0 +1,1 @@
+We define a new type of Hardy-Orlicz spaces of conformal mappings on the unit disk where in place of the value |f(x)| we consider the intrinsic path distance between f(x) and f(0) in the image domain. We show that if the Orlicz function is doubling then these two spaces are actually the same, and we give an example when the intrinsic Hardy-Orlicz space is strictly smaller.

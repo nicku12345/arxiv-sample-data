@@ -1,0 +1,1 @@
+We have constructed a realization of rectilinear geodesic (in the sense of~\cite{Memoli2018}), lying in Gromov-Hausdorff space, as a shortest geodesic w.r.t. the Hausdorff distance in an ambient metric space.

@@ -1,0 +1,1 @@
+In this paper, we first generalize a value distribution result of Lahiri and Dewan [4] and as an application of this result we prove a normality criterion using partial sharing of small functions. Further, in sequel normality criteria of Hu and Meng [3] and Ding, Ding and Yuan [1] are improved and generalized when the domain D:=\{z:|z|<R,0<R\leq\infty\}.

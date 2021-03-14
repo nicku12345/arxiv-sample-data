@@ -1,0 +1,1 @@
+For an indecomposable module M over a path algebra of a quiver of type \widetilde{\mathbb A}_n, the Gabriel-Roiter measure gives rise to four new numerical invariants; we call them the multiplicity, and the initial, periodic and final parts. We describe how these invariants for M and for its dual specify the position of M in the Auslander-Reiten quiver of the algebra.

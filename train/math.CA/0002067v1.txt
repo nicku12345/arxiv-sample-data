@@ -1,0 +1,1 @@
+We prove that a union of two intervals in R is a spectral set if and only if it tiles R by translations.

@@ -1,0 +1,1 @@
+In this paper, we establish the generalized Hyers--Ulam--Rassias stability of homomorphisms between ternary algebras associted to the generalized Jensen functional equation r f(\frac{sx+ty}{r}) = s f(x) + t f(y).

@@ -1,0 +1,1 @@
+We, by making use of elementary arguments, deduce integral representations of the Legendre chi function \chi_{s}(x) valid for |z|<1 and \Re(s)>1. Our earlier established results on the integral representations for the Riemann zeta function \zeta(2 n+1) and the Dirichlet beta function \beta(2 n) , n\in\mathbb{N}, are direct consequence of these representations.

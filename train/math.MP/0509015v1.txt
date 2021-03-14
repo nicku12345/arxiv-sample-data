@@ -1,0 +1,1 @@
+In this article, we describe the construction of graded q-differential algebra with ternary differential satisfying the property d^3=0 and the q-Leibniz rule. Our starting point is coordinate first order differential calculus on some complex algebra and the corresponding bimodule of second order differentials.

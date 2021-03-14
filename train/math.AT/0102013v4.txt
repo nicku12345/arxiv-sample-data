@@ -1,0 +1,1 @@
+Let G be a compact connected Lie group with maximal torus T, and H a closed subgroup containing T . We work out the Atiyah--Bott--Berline--Vergne localization formula for the homogeneous space G/H under the natural action of the maximal torus T. The computation gives explicit formulas for the ordinary and equivariant characteristic numbers of a homogeneous space.

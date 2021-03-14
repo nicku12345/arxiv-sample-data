@@ -1,0 +1,1 @@
+It is proved that the classical Laplace transform is a continuous valuation which is positively GL(n) covariant and logarithmic translation covariant. Conversely, these properties turn out to be sufficient to characterize this transform.

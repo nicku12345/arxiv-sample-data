@@ -1,0 +1,1 @@
+In this paper we prove a uniqueness theorem on generalized Kahler-Einstein metrics on Fano manifolds. Our result generalize the one shown by Berndtsson using the convexity properties of Bergman kernels. The same technics as well as that of the regularization of closed positive currents and an estimate due to Demailly-Kollar will be used in our proof.

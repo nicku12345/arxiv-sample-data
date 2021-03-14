@@ -1,0 +1,1 @@
+Kadeishvili's proof of the minimality theorem induces an algorithm for the inductive computation of an A_\infty-algebra structure on the homology of a dg-algebra.   In this paper, we prove that for one class of dg-algebras, the resulting computation will generate a complete A_\infty-algebra structure after a finite amount of computational work.

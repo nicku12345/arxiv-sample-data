@@ -1,0 +1,1 @@
+We introduce the notion of (half) 2-adjoint equivalences in Homotopy Type Theory and prove their expected properties. We formalized these results in the Lean Theorem Prover.

@@ -1,0 +1,1 @@
+We analyze the Charlier polynomials C(n,x)and their zeros asymptotically for large n. We obtain asymptotic approximations, using the limit relation between the Krawtchouk and Charlier polynomials, involving some special functions. We give numerical examples showing the accuracy of our formulas.

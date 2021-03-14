@@ -1,0 +1,1 @@
+We prove the uniqueness of twisted K-theory in both the real and complex cases using the computation of the K-theories of Eilenberg-MacLane spaces due to Anderson and Hodgkin. As an application of our method, we give some vanishing results for actions of Eilenberg-MacLane spaces on K-theory spectra.

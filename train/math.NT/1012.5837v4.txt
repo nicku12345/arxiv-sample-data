@@ -1,0 +1,1 @@
+The aim of this paper is to introduce a new family of elliptic curves in the form of y^2=x(x-a^2)(x-b^2) that have positive ranks. We first generate a list of pythagorean triples (a,b,c) and then construct this family of elliptic curves. It turn out that this new family have positive ranks and search for the upper bound for their ranks.

@@ -1,0 +1,1 @@
+The Paouris inequality gives the large deviation estimate for Euclidean norms of log-concave vectors. We present a modified version of it and show how the new inequality may be applied to derive tail estimates of l_r-norms and suprema of norms of coordinate projections of isotropic log-concave vectors.

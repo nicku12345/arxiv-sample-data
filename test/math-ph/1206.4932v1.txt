@@ -1,0 +1,1 @@
+In this note we establish the existence of ground states for atoms within several restricted Hartree-Fock theories. It is shown, for example, that there exists a ground state for closed shell atoms with N electrons and nuclear charge Z \geq N-1. This has to be compared with the general Hartree-Fock theory where the existence of a minimizer is known for Z>N-1 only.

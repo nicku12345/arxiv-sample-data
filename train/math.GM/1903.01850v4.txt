@@ -1,0 +1,1 @@
+The Sendovs conjecture asserts that if all the zeros of a polynomial p(z) lie in the closed unit disk, then there must be a critical point of p(z) within unit distance of each zero. The conjecture has been proved to be true for many special cases.Here we give a proof of the conjecture.

@@ -1,0 +1,1 @@
+We extend the heuristic discussion in Senn (2008) on the bias from selective inference for the treatment selection problem (Dawid 1994), by deriving the closed-form expression for the selection bias. We illustrate the advantages of our theoretical results through numerical and simulated examples.

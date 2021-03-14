@@ -1,0 +1,1 @@
+This paper analyzes the properties of the solutions of the generalized continuous algebraic Riccati equation from a geometric perspective. This analysis reveals the presence of a subspace that may provide an appropriate degree of freedom to stabilize the system in the related optimal control problem even in cases where the Riccati equation does not admit a stabilizing solution.

@@ -1,0 +1,1 @@
+Let f be a dominating meromorphic self-map of large topological degree on a compact Kaehler manifold. We give a new construction of the equilibrium measure of f and prove that it is exponentially mixing. Then, we deduce the central limit theorem for Lipschitzian observables.

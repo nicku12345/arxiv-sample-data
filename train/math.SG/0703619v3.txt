@@ -1,0 +1,1 @@
+As an application of `reverse engineering' technique introduced by R. Fintushel, D. Park and R. Stern \cite{FPS}, we construct an infinite family of fake (2n+2l-1)CP^2#(2n+4l-1)(-CP^2)'s for all n \ge 0, l \ge 1.

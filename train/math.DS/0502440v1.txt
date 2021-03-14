@@ -1,0 +1,1 @@
+Given a new definition for the entropy of a cellular automata acting on a two-dimensional space, we propose an inequality between the entropy of the shift on a two-dimensional lattice and some angular analog of Lyapunov exponents.

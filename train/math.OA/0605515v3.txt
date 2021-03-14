@@ -1,0 +1,1 @@
+Let A=(A_x) be a (semi-)continuous field of C^*-algebras over a compact Hausdorff space X and let p=(p_x) be a projection in A such that each p_x\in A_x is properly infinite (x\in X). Then p is properly infinite if the field A is upper semi-continuous. However, p can be finite if the field is lower semi-continuous.

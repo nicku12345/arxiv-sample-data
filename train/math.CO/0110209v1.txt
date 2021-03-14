@@ -1,0 +1,1 @@
+Let S be a set of 2n+1 points in the plane such that no three are collinear and no four are concyclic. A circle will be called point-splitting if it has 3 points of S on its circumference, n-1 points in its interior and n-1 in its exterior. We show the surprising property that S always has exactly n^2 point- splitting circles, and prove a more general result.

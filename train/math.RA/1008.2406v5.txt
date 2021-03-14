@@ -1,0 +1,1 @@
+Let 1\leq m \leq n be integers with m|n and \cat{Alg}_{n,m} the class of central simple algebras of degree n and exponent dividing m. In this paper, we find new, improved upper bounds for the essential dimension and 2-dimension of \cat{Alg}_{n,2}. In particular, we show that \ed_{2}(\cat{Alg}_{16,2})=24 over a field F of characteristic different from 2.

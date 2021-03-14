@@ -1,0 +1,1 @@
+We give an axiomatic framework for studying the representation theory of towers of algebras. We introduce a new class of algebras, contour algebras, generalising (and interpolating between) blob algebras and cyclotomic Temperley-Lieb algebras. We demonstrate the utility of our formalism by applying it to this class.

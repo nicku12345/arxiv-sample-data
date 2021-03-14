@@ -1,0 +1,1 @@
+We construct realizations of quantum generalized Verma modules for U_q(sl_n(C)) by quan- tum differential operators. Taking the classical limit q ! 1 provides a realization of classical generalized Verma modules for sl_n(C) by differential operators.

@@ -1,0 +1,1 @@
+For every e>0, any subset of R^n with Hausdorff dimension larger than (1-e)n must have ultrametric distortion larger than 1/(4e).

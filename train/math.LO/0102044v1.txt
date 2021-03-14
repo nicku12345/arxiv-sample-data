@@ -1,0 +1,1 @@
+For suitable groups G we will show that one can add a Boolean algebra B by forcing in such a way that Aut(B) is almost isomorphic to G. In particular, we will give a positive answer to the following question due to J.Roitman: Is aleph_{omega} a possible number of automorphisms of a rich Boolean algebra?

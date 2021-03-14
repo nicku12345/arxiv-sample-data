@@ -1,0 +1,1 @@
+The Bohl algebra \textrm{B} is the ring of linear combinations of functions t^k e^{\lambda t}, where k is any nonnegative integer, and \lambda is any complex number, with pointwise operations. We show that the Bass stable rank and the topological stable rank of \textrm{B} (where we use the topology of uniform convergence) are infinite.

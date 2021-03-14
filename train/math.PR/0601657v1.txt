@@ -1,0 +1,1 @@
+We consider a Langevin process with white noise random forcing. We suppose that the energy of the particle is instantaneously absorbed when it hits some fixed obstacle. We show that nonetheless, the particle can be instantaneously reflected, and study some properties of this reflecting solution.

@@ -1,0 +1,1 @@
+We use Hamiltonian actions to construct nonstandard (as opposed to \RP^n and T^n) Lagrangian submanifolds of \CP^n. First of all, a quotient of \RP^3 by the dihedral group D_3 is a Lagrangian submanifold of \CP^3. Secondly, \Su(n)/\Z_n are Lagrangian submanifolds of \CP^{n^2-1}.

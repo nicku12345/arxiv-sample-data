@@ -1,0 +1,1 @@
+Let A_2 be a free associative or polynomial algebra of rank two over a field K of characteristic zero. Based on the degree estimate of Makar-Limanov and J.-T.Yu, we prove: 1) An element p \in A_2 is a test element if p does not belong to any proper retract of A_2; 2) Every endomorphism preserving the automorphic orbit of a nonconstant element of A_2 is an automorphism.

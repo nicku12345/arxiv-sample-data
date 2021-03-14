@@ -1,0 +1,1 @@
+We give a general exposition of model theoretic connected components of groups. We show that if a group G has NIP, then there exists the smallest invariant (over some small set) subgroup of G with bounded index (Theorem 5.3). This result extends theorem of Shelah. We consider also in this context the multiplicative and the additive groups of some rings (including infite fields).

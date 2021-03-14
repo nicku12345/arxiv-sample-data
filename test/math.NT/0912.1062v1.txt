@@ -1,0 +1,1 @@
+In this note we describe a procedure of calculating the number all regular tetrahedra that have coordinates in the set {0,1,...,n}. We develop a few results that may help in finding good estimates for this sequence which is twice A103158 in the Online Encyclopedia of Integer Sequences.

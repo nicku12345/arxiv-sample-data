@@ -1,0 +1,1 @@
+We provide a natural interpretation of the secondary Euler characteristic and introduce higher Euler characteristics. For a compact oriented manifold of odd dimension, the secondary Euler characteristic recovers the Kervaire semi-characteristic. We prove basic properties of the higher invariants and illustrate their use. We also introduce motivic variants.

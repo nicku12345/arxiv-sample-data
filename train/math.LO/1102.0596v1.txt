@@ -1,0 +1,1 @@
+This talk is a sneak preview of the project, 'proof theory for theories of ordinals'. Background, aims, survey and furture works on the project are given. Subsystems of second order arithmetic are embedded in recursively large ordinals and then the latter are analysed. We scarcely touch upon proof theoretical matters.

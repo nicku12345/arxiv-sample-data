@@ -1,0 +1,1 @@
+Let A be a unital AF-algebra (simple or non-simple) and let \alpha be an automorphism of A. Suppose that \alpha has certain Rokhlin property and A is \alpha-simple. Suppose also that there is an integer J\geq1 such that \alpha^{J}_{*0}=id_{K_{0}(A)}, we show that A\rtimes_{\alpha}\mathbb{Z} has tracial rank zero.

@@ -1,0 +1,1 @@
+Let k be a commutative ring, H a faithfully flat Hopf algebra with bijective antipode, A a k-flat right H-comodule algebra. We investigate when a relative Hopf module is projective over the subring of coinvariants B=A^{{\rm co}H}, and we study the semisimplicity of the category of relative Hopf modules.

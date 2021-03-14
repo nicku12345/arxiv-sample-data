@@ -1,0 +1,1 @@
+Let X be the space of all infinite 0,1-sequences and T be the odometer on X. In this paper we introduce a dense subgroup S(2^\infty) of the full group [T] and describe all indecomposable characters on S(2^\infty). As result we obtain a description of indecomposable characters on [T].

@@ -1,0 +1,1 @@
+In this note, we show that, if a pseudo-Anosov map \phi:S\to S admits a finite cover whose action on the first homology has spectral radius greater than 1, then the monodromy of any fibered structure of any finite cover of the mapping torus M_{\phi} has the same property.

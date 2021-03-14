@@ -1,0 +1,1 @@
+We propose an adaptive finite element method to approximate the solutions to reaction-diffusion systems on time-dependent domains and surfaces. We derive a computable error estimator that provides an upper bound for the error in the semidiscrete (space) scheme. We reconcile our theoretical results with benchmark computations.

@@ -1,0 +1,1 @@
+There are two abelian groups which can naturally be associated to an additive category A: the split Grothendieck group of A and the triangulated Grothendieck group of the homotopy category of (bounded) complexes in A. We prove that these groups are isomorphic. Along the way, we deduce that the `Euler characteristic' of a complex in A is invariant under homotopy equivalence.

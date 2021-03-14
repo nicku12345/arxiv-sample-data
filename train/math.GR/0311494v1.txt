@@ -1,0 +1,1 @@
+In this article we introduce the notion of weak identities in a group and study their properties. We show that weak identities have some similar properties to ordinary ones. We use this notion to prove that any finitely generated solvable discriminating group is abelian.

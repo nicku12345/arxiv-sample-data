@@ -1,0 +1,1 @@
+We show that if a topological or paratopological group G contains a stationary subset of some regular uncountable cardinal, then G contains a subspace which is not collectionwise normal. This statement implies that if a monotonically normal space (in particular, any generalized ordered space) is a paratopological group then the space is hereditarily paracompact.

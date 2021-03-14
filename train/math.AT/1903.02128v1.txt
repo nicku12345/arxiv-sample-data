@@ -1,0 +1,1 @@
+In this short note we observe that the higher topological complexity of an iterated connected sum of real projective spaces is maximal possible. Unlike the case of regular TC, the result is accessible through easy mod 2 zero-divisor cup-length considerations.

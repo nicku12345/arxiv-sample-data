@@ -1,0 +1,1 @@
+We show that the Quantum Isometry Group(as introduced in \cite{goswami}) of the n tori is the classical isometry group. Moreover, using a result in \cite{bhowmick goswami}, we conclude that the Quantum Isometry group of the noncommutative n tori is a Rieffel deformation of the Quantum Isometry Group of the commutative n tori.

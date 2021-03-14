@@ -1,0 +1,1 @@
+We prove the consistency of: if B_1, B_2 are Boolean algebra satisfying the c.c.c. and the 2^{aleph_0}-c.c. respectively then B_1 x B_2 satisfies the 2^{aleph_0}-c.c.

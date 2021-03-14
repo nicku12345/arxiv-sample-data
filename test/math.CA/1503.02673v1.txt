@@ -1,0 +1,1 @@
+We consider a sequence of composite bivariate Bernstein operators and the cubature formula associated with them. The upper bounds for the remainder term of the cubature formula are described in terms of moduli of continuity of order two. Also we include some results showing how non-multiplicative the integration functional is.

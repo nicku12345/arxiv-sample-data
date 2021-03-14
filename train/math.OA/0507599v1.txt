@@ -1,0 +1,1 @@
+The coarse geometric Novikov conjecture provides an algorithm to determine when the higher index of an elliptic operator on a noncompact space is nonzero. The purpose of this paper is to prove the coarse geometric Novikov conjecture for spaces which admit a (coarse) uniform embedding into a uniformly convex Banach space.

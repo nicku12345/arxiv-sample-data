@@ -1,0 +1,1 @@
+We give a new elementary proof of the main theorem of [Fef12]: Quantifiers implicitly definable in pure second-order logic equipped with Henkin semantics implies are (explicitly) definable in first-order logic.

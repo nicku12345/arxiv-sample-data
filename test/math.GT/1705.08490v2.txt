@@ -1,0 +1,1 @@
+We extend techniques due to Pardon to show that there is a lower bound on the distortion of a knot in \mathbb{R}^3 proportional to the minimum of the bridge distance and the bridge number of the knot. We also exhibit an infinite family of knots for which the minimum of the bridge distance and the bridge number is unbounded and Pardon's lower bound is constant.

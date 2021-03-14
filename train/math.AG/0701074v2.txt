@@ -1,0 +1,1 @@
+In this paper, we propose a definition of the moduli stack of stable relative ideal sheaves, and prove that it is a separated and proper Deligne-Mumford stack. It is the first part of the project of relative Donaldson-Thomas theory of ideal sheaves on projective threefolds, which in the end provides a degeneration formula of Donaldson-Thomas invariants of threefolds.

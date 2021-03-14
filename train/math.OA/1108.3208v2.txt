@@ -1,0 +1,1 @@
+We study the spectral synthesis for the Banach *-algebra A\oop B, the operator space projective tensor product of C^*-algebras A and B. It is shown that if A or B has finitely many closed ideals, then A\oop B obeys spectral synthesis. The Banach algebra A \oop A with the reverse involution is also studied.

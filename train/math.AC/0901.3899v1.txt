@@ -1,0 +1,1 @@
+In this paper, we prove that the Stanley--Reisner ideal of any connected simplicial complex of dimension \ge 2 that is locally complete intersection is a complete intersection ideal. As an application, we show that the Stanley--Reisner ideal whose powers are Buchsbaum is a complete intersection ideal.

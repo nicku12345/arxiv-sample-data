@@ -1,0 +1,1 @@
+In this paper, we give new characterizations of the Buchsbaum and Cohen-Macaulay properties of the tangent cone \gr_\frakm(R), where (R,\frakm) is a numerical semigroup ring of embedding dimension 3. In particular, we confirm the conjectures raised by Sapko on the Buchsbaumness of \gr_\frakm(R).

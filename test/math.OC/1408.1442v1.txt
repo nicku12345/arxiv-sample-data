@@ -1,0 +1,1 @@
+Output stabilizability of a class of infinite dimensional linear systems is studied in this paper. A criterion for the system to be output stabilizable by a linear bounded feedback u=Fx, F\in L(Z,\mathbb{R}^{^{p}}) will be given.

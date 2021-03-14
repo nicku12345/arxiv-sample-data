@@ -1,0 +1,1 @@
+We give a characterization of the internally 4-connected binary matroids that have no minor isomorphic to M(K3,3). Any such matroid is either cographic, or is isomorphic to a particular single-element extension of the bond matroid of a cubic or quartic Mobius ladder, or is isomorphic to one of eighteen sporadic matroids.

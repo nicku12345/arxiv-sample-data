@@ -1,0 +1,1 @@
+We establish L^p bounds on L^2 normalized spectral clusters for self-adjoint elliptic Dirichlet forms with Lipschitz coefficients. In two dimensions we obtain best possible bounds for all p between 2 and infinity, up to logarithmic losses for 6<p\leq 8. In higher dimensions we obtain best possible bounds for a limited range of p.

@@ -1,0 +1,1 @@
+We give an example of a non-compact, locally compact group G such that its Fourier-Stieltjes algebra B(G) is operator amenable. Furthermore, we characterize those G for which A^*(G) - the spine of B(G) as introduced by M. Ilie and the second named author - is operator amenable and show that A^*(G) is operator weakly amenable for each G.

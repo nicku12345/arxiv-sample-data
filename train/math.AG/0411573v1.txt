@@ -1,0 +1,1 @@
+Let M denote the moduli space of stable vector bundles of rank n and fixed determinant of degree coprime to n on a non-singular projective curve X of genus g \geq 2. Denote by \cU a universal bundle on X \times M. We show that, for x,y \in X, x \neq y, the restrictions \cU|\{x\} \times M and \cU|\{y\} \times M are stable and non-isomorphic when considered as bundles on X.

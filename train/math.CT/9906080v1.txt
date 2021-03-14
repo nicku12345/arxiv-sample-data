@@ -1,0 +1,1 @@
+We show that two operator algebras are strongly Morita equivalent (in the sense of Blecher, Muhly and Paulsen) if and only if their categories of operator modules are equivalent via completely contractive functors. Moreover, any such functor is completely isometrically isomorphic to the Haagerup tensor product (= interior tensor product) with a strong Morita equivalence bimodule.

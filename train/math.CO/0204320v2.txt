@@ -1,0 +1,1 @@
+We find generating functions the number of strings (words) containing a specified number of occurrences of certain types of order-isomorphic classes of substrings called subword patterns. In particular, we find generating functions for the number of strings containing a specified number of occurrences of a given 3-letter subword pattern.

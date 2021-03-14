@@ -1,0 +1,1 @@
+Connection of flat polynomials with some spectral questions in ergodic theory is discussed. A necessary condition for a sequence of polynomials of the type \frac{1}{\sqrt{N}} \big(1 +\sum_{j=1}^{N-1} z^{n_j}\big) to be flat in almost everywhere sense is given, which contrasts with a similar necessary condition for a sequence of polynomials to be ultraflat.

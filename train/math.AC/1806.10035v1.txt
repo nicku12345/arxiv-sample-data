@@ -1,0 +1,1 @@
+Let P be a finitely generated ideal of a commutative ring R. Krull's Principal Ideal Theorem states that if R is Noetherian and P is minimal over a principal ideal of R, then P has height at most one. Straightforward examples show that this assertion fails if R is not Noetherian. We consider what can be asserted in the non-Noetherian case in place of Krull's theorem.

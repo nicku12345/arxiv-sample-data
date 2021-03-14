@@ -1,0 +1,1 @@
+This paper computes the Dirac index of all the weakly fair A_{\mathfrak{q}}(\lambda) modules of U(p, q). Although counter-examples have been found to a conjecture of Vogan on the unitary dual of U(p, q) phrased by Trapa in 2001, we believe that any irreducible unitary representation of U(p, q) with non-zero Dirac cohomology must be a weakly fair A_{\mathfrak{q}}(\lambda) module.

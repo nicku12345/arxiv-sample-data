@@ -1,0 +1,1 @@
+We consider right prisms with horizontal quadrilateral bases and tops, and vertical rectangular sides. We look for examples where all the edges, face diagonals and space diagonals are integers. We find examples when the base is an isosceles trapezium and a parallelogram, but no solution for a kite or rhombus.

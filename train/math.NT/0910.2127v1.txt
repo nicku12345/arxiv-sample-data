@@ -1,0 +1,1 @@
+Conway and Sloane constructed a 4-parameter family of pairs of isospectral lattices of rank four. They conjectured that all pairs in their family are non-isometric, whenever the parameters are pairwise different, and verified this for classical integral lattices of determinant up to 10^4. In this paper, we use our theory of lattice invariants to prove this conjecture.

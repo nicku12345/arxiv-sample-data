@@ -1,0 +1,1 @@
+Properties of the q-ultraspherical polynomials for q being a primitive root of unity are derived using a formalism of the so_q(3) algebra. The orthogonality condition for these polynomials provides a new class of trigonometric identities representing discrete finite-dimensional analogs of q-beta integrals of Ramanujan.

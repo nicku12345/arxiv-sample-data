@@ -1,0 +1,1 @@
+We show that in a generalized Adams spectral sequence, the presence of a vanishing line of fixed slope (at some term of the spectral sequence, with some intercept) is a generic property.

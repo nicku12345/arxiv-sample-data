@@ -1,0 +1,1 @@
+Using Dolgushev's generalization of Fedosov's method for deformation quantization, we give a positive answer to a question of P.Xu: can one prove a formality theorem for Lie algebroids ? As a direct application of this result, we obtain that any triangular Lie bialgebroid is quantizable.

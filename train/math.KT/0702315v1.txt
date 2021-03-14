@@ -1,0 +1,1 @@
+The purpose of this article is to prove that Gersten's conjecture for a commutative discrete valuation ring is true. Combining with the result of \cite{GL87}, we learn that Gersten's conjecture is true if the ring is a commutative regular local, smooth over a commutative discrete valuation ring.

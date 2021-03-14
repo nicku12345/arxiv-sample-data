@@ -1,0 +1,1 @@
+We give a general overview of ordinal notation systems arising from reflection calculi, and extend the to represent impredicative ordinals up to those representable using Buchholz-style collapsing functions.

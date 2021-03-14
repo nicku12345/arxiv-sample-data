@@ -1,0 +1,1 @@
+In this paper we study the model of heat transfer in a porous medium with a critical diffusion. We obtain global existence and uniqueness of solutions to the equations of heat transfer of incompressible fluid in Besov spaces \dot B^{3/p}_{p,1}(\mathbb{R}^3) with 1\le p\le\infty by the method of modulus of continuity and Fourier localization technique.

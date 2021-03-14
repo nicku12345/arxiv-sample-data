@@ -1,0 +1,1 @@
+v2: An additional assumption was added in Theorem 4.8. In order to show that a connected abelian group is admissible on the site of locally compact spaces we must in addition assume that it is locally topologically divisible. This condition is used in the proof of Lemma 4.62.

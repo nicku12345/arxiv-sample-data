@@ -1,0 +1,1 @@
+We show that for any discrete semigroup X the semigroup operation can be extended to a right-topological semigroup operation on the space G(X) of inclusion hyperspaces on X. We detect some important subsemigroups of G(X), study the minimal ideal, the (topological) center, left cancelable elements of G(X), and describe the structure of the semigroups G(\IZ_n) for small numbers n.

@@ -1,0 +1,1 @@
+A general construction of binary sequences with low autocorrelation are considered in the paper. Based on recent progresses about this topic and this construction, several classes of binary sequences with optimal autocorrelation and other low autocorrelation are presented.

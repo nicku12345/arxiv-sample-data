@@ -1,0 +1,1 @@
+This short note presents the derivation of a new {\it a priori} estimate for the Oldroyd-B model. Such an estimate may provide useful information when investigating the long-time behaviour of macro-macro models, and the stability of numerical schemes. We show how this estimate can be used as a guideline to derive new estimates for other macroscopic models, like the FENE-P model.

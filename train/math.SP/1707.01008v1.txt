@@ -1,0 +1,1 @@
+The inverse scattering problem for Sturm-Liouville operators on the line with a matrix transfer condition at the origin is considered. We show that the transfer matrix can be reconstructed from the eigenvalues and reflection coefficient. In addition, for potentials with compact essential support, we show that the potential can be uniquely reconstructed.

@@ -1,0 +1,1 @@
+We show that for certain arithmetic groups, geometrically finite subgroups are the intersection of finite index subgroups containing them. Examples are the Bianchi groups and the Seifert-Weber dodecahedral space. In particular, for manifolds commensurable with these groups, immersed incompressible surfaces lift to embeddings in a finite sheeted covering.

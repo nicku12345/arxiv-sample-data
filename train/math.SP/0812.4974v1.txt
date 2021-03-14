@@ -1,0 +1,1 @@
+In this paper we give simplified formulas for certain polynomials which arise in some new Titchmarsh-Weyl m-functions for the radial part of the separated Hydrogen atom on the half line and two independent programs for generating them using the symbolic manipulator Mathematica.

@@ -1,0 +1,1 @@
+We derive the Hamiltonian associated to a quantum stochastic flow by extending the Albeverio-Kurasov construction of self-adjoint extensions to finite rank perturbations of nonsemibounded operators to Fock space.

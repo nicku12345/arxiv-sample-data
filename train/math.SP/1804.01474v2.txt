@@ -1,0 +1,1 @@
+We generalize the normalized combinatorial Laplace operator for graphs by defining two Laplace operators for hypergraphs that can be useful in the study of chemical reaction networks. We also investigate some properties of their spectra.

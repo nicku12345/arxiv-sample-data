@@ -1,0 +1,1 @@
+We provide a representation of the homomorphisms U\longrightarrow \mathbb R, where U is the lattice of all uniformly continuous on the line. The resulting picture is sharp enough to describe the fine topological structure of the space of such homomorphisms.

@@ -1,0 +1,1 @@
+The paper reports on computation of verified enclosures for the Titchmarsh-Weyl m-function. It examines some cases in which Lohner's AWA algorithm must be suplimented by mathematical analysis.

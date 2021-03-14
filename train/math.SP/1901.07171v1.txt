@@ -1,0 +1,1 @@
+To what extent is the maximum modulus principle for scalar-valued analytic functions valid for matrix-valued analytic functions? In response, we discuss some maximum norm principles for such functions that do not appear to be widely known, deduce maximum and minimum principles for their singular values, and make some observations concerning resolvents and matrix exponentials.

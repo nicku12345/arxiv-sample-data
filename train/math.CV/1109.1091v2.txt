@@ -1,0 +1,1 @@
+We discuss the boundary behavior of functions in backward shift invariant subspaces (B H^2)^{\perp}, where B is a Blaschke product. Extending some results of Ahern and Clark, we are particularly interested in the growth rates of functions at points of the spectrum of B where B does not admit a derivative in the sense of Carath\'eodory.

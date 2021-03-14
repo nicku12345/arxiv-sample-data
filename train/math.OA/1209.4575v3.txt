@@ -1,0 +1,1 @@
+It is shown that if T is a ternary ring of operators (TRO), X is a nondegenerate sub-TRO of T and there exists a contractive idempotent surjective map P:T-->X, then P has a unique, explicitly described extension to a conditional expectation between the associated linking algebras. A version of the result for W*-TROs is also presented and some applications mentioned.

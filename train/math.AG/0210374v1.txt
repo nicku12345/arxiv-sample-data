@@ -1,0 +1,1 @@
+The weak factorization theorem for birational maps is used to prove that for all nonnegative i the ith mod 2 Betti number of compact nonsingular real algebraic varieties has a unique extension to a "virtual Betti number" beta_i defined for all real algebraic varieties, such that if Y is a closed subvariety of X, then beta_i(X) = beta_i(X\Y) + beta_i(Y).

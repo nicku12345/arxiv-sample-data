@@ -1,0 +1,1 @@
+We provide the first examples of finitely generated simple groups that are amenable (and infinite). This follows from a general existence result on invariant states for piecewise-translations of the integers. The states are obtained by constructing a suitable family of densities on the classical Bernoulli space.

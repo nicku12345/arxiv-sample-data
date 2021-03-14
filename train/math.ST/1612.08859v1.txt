@@ -1,0 +1,1 @@
+The first part of this paper is another English translation of a 1986 note. It gives a natural definition of a finite Bernoulli sequence (i.e., a typical realization of a finite sequence of binary IID trials) and compares it with the Kolmogorov--Martin-Lof definition, which is interpreted as defining exchangeable sequences. The appendix gives the historical background and proofs.

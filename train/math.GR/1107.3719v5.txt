@@ -1,0 +1,1 @@
+Let G be a non-elementary hyperbolic group. Let w be a group word such that the set w[G] of all its values in G does not coincide with G or 1. We show that the width of verbal subgroup w(G)=<w[G]> is infinite. That is, there is no such l\in\mathbb Z that any g\in w(G) can be represented as a product of \le l values of w and their inverses.

@@ -1,0 +1,1 @@
+Given an integer partition \la=(\la_1, ..., \la_\ell) and an integer k, denote by \la^{(k)} the sequence of length \ell obtained by reordering the values |\la_i-k| in non-increasing order. If \la dominates \mu and has the same weight, then \la^{(k)} dominates \mu^{(k)}.

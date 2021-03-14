@@ -1,0 +1,1 @@
+We study the problem of representing integers as sums of prime numbers from a fixed Beatty sequence B_{\alpha,\beta}, where \alpha>1 is irrational and of finite type.

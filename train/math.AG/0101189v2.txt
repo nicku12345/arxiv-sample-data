@@ -1,0 +1,1 @@
+We present several approaches to equivariant intersection cohomology. We show that for a complete algebraic variety acted by a connected algebraic group G it is a free module over H^*(BG). The result follows from the decomposition theorem or from a weight argument.

@@ -1,0 +1,1 @@
+We show that any weak solution to the full Navier-Stokes-Fourier system emanating from the data belonging to the Sobolev space W^{3,2} remains regular as long as the velocity gradient is bounded. The proof is based on the weak-strong uniqueness property and parabolic a priori estimates for the local strong solutions.

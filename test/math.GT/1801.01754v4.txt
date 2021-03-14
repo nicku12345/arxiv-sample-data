@@ -1,0 +1,1 @@
+Consider the problem of estimating the minimum entropy of pseudo-Anosov maps on a surface of genus g with n punctures. We determine the behaviour of this minimum number for a certain large subset of the (g,n) plane, up to a multiplicative constant. In particular it has been shown that for fixed n, this minimum value behaves as \frac{1}{g}, proving what Penner speculated in 1991.

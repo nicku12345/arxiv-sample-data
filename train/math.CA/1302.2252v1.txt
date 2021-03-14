@@ -1,0 +1,1 @@
+In this note we describe some recent advances in the area of maximal function inequalities. We also study the behaviour of the centered Hardy-Littlewood maximal operator associated to certain families of doubling, radial decreasing measures, and acting on radial functions. In fact, we precisely determine when the weak type (1,1) bounds are uniform in the dimension.

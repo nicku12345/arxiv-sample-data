@@ -1,0 +1,1 @@
+We prove that if \mu is a generically stable stable measure in a first order theory with NIP and mu(\phi(x,b)) = 0 for all b, then \mu^{(n)}(\exists y(\phi(x_1,y)\wedge ... \wedge \phi(x_n,y))) = 0. We deduce that if G is an fsg grooup then a definable subset X of G is generic just if every translate of X does not fork over \emptyset.

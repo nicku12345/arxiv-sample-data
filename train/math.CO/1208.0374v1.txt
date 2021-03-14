@@ -1,0 +1,1 @@
+In this paper we prove that if S is any finite configuration of points in \mathbb{Z}^2, then any finite coloring of \mathbb{E}^2 must contain uncountably many monochromatic subsets homothetic to S. We extend a result of Brown, Dunfield, and Perry on 2-colorings of \mathbb{E}^2 to any finite coloring of \mathbb{E}^2.

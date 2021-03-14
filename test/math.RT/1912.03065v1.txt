@@ -1,0 +1,1 @@
+In Part I of this paper, we introduced a class of certain algebras of finite dimension over a field. All these algebras are split, symmetric and local. Here we continue to investigate their Loewy structure. We show that in many cases their Loewy length is equal to an upper bound established in Part I, but we also construct examples where we have a strict inequality.

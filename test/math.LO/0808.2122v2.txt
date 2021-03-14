@@ -1,0 +1,1 @@
+We describe a non-extensional variant of Martin-L\"of type theory which we call two-dimensional type theory, and equip it with a sound and complete semantics valued in 2-categories.

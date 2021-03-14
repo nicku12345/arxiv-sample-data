@@ -1,0 +1,1 @@
+In this note we will show that the dilation result obtained for fractional skew monoid rings, in the case of a cancellative left Ore monoid S acting on a unital ring A by corner isomorphisms, holds in full generality. We apply this result to the context of semigroup C^*-crossed products.

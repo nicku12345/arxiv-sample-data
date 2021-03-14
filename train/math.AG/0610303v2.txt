@@ -1,0 +1,1 @@
+M. Mustata used jet schemes to compute the multiplier ideals of reduced hyperplane arrangements. We give an alternate proof using a log resolution, which is simpler and allows us to consider non-reduced arrangements. By applying the idea of wonderful models introduced by De Concini--Procesi, we also simplify the result.

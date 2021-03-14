@@ -1,0 +1,1 @@
+The aim of this note is to determine whether certain non-o-minimal expansions of o-minimal theories which are known to be NIP, are also distal. We observe that while tame pairs of o-minimal structures and the real field with a discrete multiplicative subgroup have distal theories, dense pairs of o-minimal structures and related examples do not.

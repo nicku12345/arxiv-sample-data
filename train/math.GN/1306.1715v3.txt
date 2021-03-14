@@ -1,0 +1,1 @@
+We show that a linearly ordered topological space is initially \lambda-compact if and only if it is \lambda-bounded, that is, every set of cardinality \leq \lambda has compact closure. As a consequence, every product of initially \lambda-compact linearly ordered topological spaces is initially \lambda-compact.

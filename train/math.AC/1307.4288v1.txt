@@ -1,0 +1,1 @@
+The strong global dimension of a ring is the supremum of the length of perfect complexes that are indecomposable in the derived category. In this note we characterize the noetherian commutative rings that have finite strong global dimension. We also give a similar characterization for arbitrary noetherian schemes.

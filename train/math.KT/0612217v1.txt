@@ -1,0 +1,1 @@
+We give an analytic proof of the fact that the index of an elliptic operator on the boundary of a compact manifold vanishes when the principal symbol comes from the restriction of a K-theory class from the interior. The proof uses noncommutative residues inside the calculus of cusp pseudodifferential operators of Melrose.

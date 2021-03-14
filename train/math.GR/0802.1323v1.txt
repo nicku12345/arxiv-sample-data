@@ -1,0 +1,1 @@
+If F is a finitely generated free group and \phi is an automorphism of F then F \rtimes_\phi Z satisfties a quadratic isoperimetric inequality.

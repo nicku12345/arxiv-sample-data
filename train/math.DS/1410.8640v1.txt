@@ -1,0 +1,1 @@
+We show that the entry and return times for dynamic balls (Bowen balls) is exponential for systems that have an \alpha-mixing invariant measure with certain regularities. We also show that systems modeled by Young's tower has exponential hitting time distribution for dynamical balls

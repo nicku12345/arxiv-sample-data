@@ -1,0 +1,1 @@
+Let f be a non-negative concave function on the positive half-line. Let A and B be two positive matrices. Then, for all symmetric norms, || f(A+B) || is less than || f(A)+f(B) ||. When f is operator concave, this was proved by Ando and Zhan. Our method is simpler. Several related results are presented.

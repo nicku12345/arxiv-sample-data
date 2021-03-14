@@ -1,0 +1,1 @@
+We consider in this paper the problem of the Lagrangian controllability for the Korteweg-de Vries equation. Using the N-solitons solution, we prove that, for any length of the spatial domain L>0 and any time T>0, it is possible to choose appropriate boundary controls of KdV equation such that the flow associated to this solution exit the domain in time T.

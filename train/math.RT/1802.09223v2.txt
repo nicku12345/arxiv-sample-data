@@ -1,0 +1,1 @@
+Let U be the unipotent radical of a Borel subgroup of a connected reductive algebraic group G, which is defined over an algebraically closed field k. In this paper, we extend work by Goodwin-R\"ohrle concerning the commuting variety of Lie(U) for char(k)=0 to fields, whose characteristic is good for G

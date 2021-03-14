@@ -1,0 +1,1 @@
+The reassignment method for the wavelet transform is investigated. Particularly good results are obtained if the wavelet is an extremal for the uncertainty relation of the affine group.

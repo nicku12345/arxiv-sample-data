@@ -1,0 +1,1 @@
+Finite type nilpotent spaces are weakly equivalent if and only if their singular cochains are quasi-isomorphic as E-infinity algebras. The cochain functor from the homotopy category of finite type nilpotent spaces to the homotopy category of E-infinity algebras is faithful but not full.

@@ -1,0 +1,1 @@
+A system of m nonzero vectors in \mathbb{Z}^n is called an m-icube if they are pairwise orthogonal and have the same length. The paper describes m-icubes in \mathbb{Z}^4 for 2\le m\le 4 using Hurwitz integral quaternions, counts the number of them with given edge length, and proves that unlimited extension is possible in \mathbb{Z}^4.

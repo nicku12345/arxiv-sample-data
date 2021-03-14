@@ -1,0 +1,1 @@
+We provide an interpretation of the APS index theorem of Piazza-Schick and Zeidler in terms of coarse homotopy theory. On the one hand we propose a motivic version of the boundary value problem, the index theorem, and the associated secondary invariants. On the other hand, we discuss in detail how the abstract version is related with classical case for Dirac operators.

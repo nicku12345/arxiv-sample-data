@@ -1,0 +1,1 @@
+We prove estimates on the H\"older exponent of the density of states measure for discrete Schr\"odinger operators with potential of the form V(n) = \lambda(\lfloor(n+1)\beta\rfloor - \lfloor n\beta\rfloor), with \lambda large enough, and conclude that for almost all values of \beta, the density of states measure is not H\"older continuous.

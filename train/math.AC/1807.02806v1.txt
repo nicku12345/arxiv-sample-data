@@ -1,0 +1,1 @@
+We show that the \g-vector of the interval subdivision of a simplicial complex with a nonnegative and symmetric h-vector is nonnegative. In particular, we prove that such \g-vector is the f-vector of some balanced simplicial complex. Moreover, we show that the local \g-vector of the interval subdivision of a simplex is nonnegative; answering a question by Juhnke-Kubitzke et al.

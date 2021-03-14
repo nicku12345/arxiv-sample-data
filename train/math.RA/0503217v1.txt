@@ -1,0 +1,1 @@
+We introduce a concept, d-complete, and show that a Lie algebra is d-complete if and only if its full graph is complete.

@@ -1,0 +1,1 @@
+We prove a result about producing new frames for general spline-type spaces by piecing together portions of known frames. Using spline-type spaces as models for the range of certain integral transforms, we obtain results for time-frequency decompositions and sampling.

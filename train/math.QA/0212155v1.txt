@@ -1,0 +1,1 @@
+The elliptic gamma function is a generalization of the Euler gamma function. Its trigonometric and rational degenerations are the Jackson q-gamma function and the Euler gamma function. We prove multiplication formulas for the elliptic gamma function, whose degenerations are the Gauss-Askey multiplication formula for the Euler and trigonometric gamma functions.

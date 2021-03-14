@@ -1,0 +1,1 @@
+We prove that, with probability 1, all orthogonal projections of the natural measure on a percolation fractal are absolutely continuous and (except for the horizontal and vertical projection) have H\"older continuous density.

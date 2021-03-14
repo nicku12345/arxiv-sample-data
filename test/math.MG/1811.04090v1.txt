@@ -1,0 +1,1 @@
+We study the Lebesgue-Bochner discretization property of Banach spaces Y, which ensures that the Bourgain's discretization modulus for Y has a good lower estimate. We prove that there exist spaces that do not have the Lebesgue-Bochner discretization property, and we give a class of examples of spaces that enjoy this property.

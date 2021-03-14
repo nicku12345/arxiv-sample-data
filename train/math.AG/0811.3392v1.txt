@@ -1,0 +1,1 @@
+We describe the Gevrey series solutions at singular points of the irregular hypergeometric system (GKZ system) associated with an affine monomial curve. We also describe the irregularity complex of such a system with respect to its singular support. We use restriction and some results in D-module theory to reduce our study to the two dimensional case.

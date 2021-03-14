@@ -1,0 +1,1 @@
+Theory of laminated turbulnece includes continuous layer of turbulence (statistical description, kinetic equations, Zakharov-Kolmogorov spectra, etc) AND discrete layer of turbulence (isolated groups of interacting waves, no statisticaldescription). This theory is presented, examples of possible applications are given, important open questions are formulated.

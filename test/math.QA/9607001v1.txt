@@ -1,0 +1,1 @@
+We prove that braid invariants coming from quantum gl(N) separate braids, by recalling that these invariants (properly decomposed) are all Vassiliev invariants, showing that all Vassiliev invariants of braids arise in this way, and reproving that Vassiliev invariants separate braids. We discuss some corollaries of this result and of our method of proof.

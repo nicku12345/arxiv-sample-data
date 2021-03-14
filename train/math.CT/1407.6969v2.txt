@@ -1,0 +1,1 @@
+We collect some isomorphisms of categories and bijections of structures using the Kleisli and Eilenberg-Moore 2-adjunctions.

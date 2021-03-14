@@ -1,0 +1,1 @@
+We prove simplicial version of a classical theorem of Eilenberg in the equivariant context and give an alternative description of the simplicial version of Bredon-Illman cohomology with local coefficients, as introduced in [15], to derive a spectral sequence.

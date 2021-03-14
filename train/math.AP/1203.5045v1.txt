@@ -1,0 +1,1 @@
+We study the global well-posedness of a two-dimensional Boussinesq system which couples the incompressible Euler equation for the velocity and a transport equation with fractional diffusion of type |\DD|^{\alpha} for the temperature. We prove that for \alpha>1, there exists a unique global solution for initial data with critical regularities.

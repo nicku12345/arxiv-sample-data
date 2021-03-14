@@ -1,0 +1,1 @@
+An extension is given of a recent result of Glazyrin, showing that an orthonormal basis \{e_{i}\}_{i=1}^{d} joined with the vectors \{e_{j}\}_{j=1}^{m}, where 1\leq m < d minimizes the p-frame potential for p\in[1,2\log{\frac{2m+1}{2m}}/\log{\frac{m+1}{m}}] over all collections of N=d+m vectors \{x_1,\dots,x_N \} in \mathbb{S}^{d-1}.

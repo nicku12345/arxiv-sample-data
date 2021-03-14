@@ -1,0 +1,1 @@
+A parallelotope is a polytope whose translation copies fill space without gaps and intersections by interior points. Voronoi conjectured that each parallelotope is an affine image of the Dirichlet domain of a lattice, which is a Voronoi polytope. We give several properties of a parallelotope and prove that each of them is equivalent to it is an affine image of a Voronoi polytope.

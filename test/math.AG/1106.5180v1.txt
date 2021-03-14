@@ -1,0 +1,1 @@
+Let (X,C) be a germ of a threefold X with terminal singularities along an irreducible reduced complete curve C with a contraction f: (X,C)\to (Z,o) such that C=f^{-1}(o)_{red} and -K_X is ample. Assume that (X,C) contains a point of type (IC) or (IIB). We complete the classification of such germs in terms of a general member H\in |\mathcal O_X| containing C.

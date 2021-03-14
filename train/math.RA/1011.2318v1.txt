@@ -1,0 +1,1 @@
+By the result of Dixmier, any weight space of enveloping algebra of Lie algebra L over a field of characteristic 0 is adL stable. In this paper we will show that this result need not be true, if F is replaced by a field of prime characteristic. A condition will be given, so a weight space will be adL stable.

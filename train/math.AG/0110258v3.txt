@@ -1,0 +1,1 @@
+Let S be a ruled surface inside a smooth threefold W and let E be a vector bundle on a formal neighborhood of S. We find minimal conditions under which the local moduli space of E is finite dimensional and smooth. Moreover, we show that E is a flat limit of a flat family of vector bundles whose general element we describe explicitly.

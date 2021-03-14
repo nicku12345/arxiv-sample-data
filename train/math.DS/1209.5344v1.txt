@@ -1,0 +1,1 @@
+We show that every dendrite satisfying the condition that no subtree of it contains all free arcs admits a transitive, even exactly Devaney chaotic map with arbitrarily small entropy. This gives a partial answer to a question of Baldwin from 2001.

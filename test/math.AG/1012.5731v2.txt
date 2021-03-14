@@ -1,0 +1,1 @@
+We present a spectral sequence which efficiently computes Betti numbers of a closed semi-algebraic subset of RP^n defined by a system of quadratic inequalities and the image of the homology homomorphism induced by the inclusion of this subset in RP^n. We do not restrict ourselves to the term E_2 of the spectral sequence and give a simple explicit formula for the differential d_2.

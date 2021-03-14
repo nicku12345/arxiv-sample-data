@@ -1,0 +1,1 @@
+In this paper, the weak Galerkin finite element method for second order elliptic problems employing polygonal or polyhedral meshes with arbitrary small edges or faces was analyzed. With the shape regular assumptions, optimal convergence order for H^1 and L_2 error estimates were obtained. Also element based and edge based error estimates were proved.

@@ -1,0 +1,1 @@
+We show that every continuous map from one translationally finite tiling space to another can be approximated by a local map. If two local maps are homotopic, then the homotopy can be chosen so that every interpolating map is also local.

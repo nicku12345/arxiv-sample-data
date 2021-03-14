@@ -1,0 +1,1 @@
+This paper presents an elementary and direct proof of the Fundamental Theorem of Algebra, via Bolzano-Weierstrass Theorem on Minima, that avoids: every root extraction, angle, non-algebraic functions, differentiation, integration, series and arguments by induction.

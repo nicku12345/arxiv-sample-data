@@ -1,0 +1,1 @@
+We clarify the asymptotic of the limsup of the size of the neighborhood of concentration of Sinai's walk improving the result in \cite{Pierre3}. Also we get the almost sure limit of the number of points visited more than a small but fixed proportion of a given amount of time.

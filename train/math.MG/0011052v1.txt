@@ -1,0 +1,1 @@
+Motivated from Gaussian processes, we derive the intrinsic volumes of the infinite--dimensional Brownian motion body. The method is by discretization to a class of orthoschemes. Numerical support is offered for a conjecture of Sangwine-Yager, and another conjecture is offered on the rate of decay of intrinsic volume sequences.

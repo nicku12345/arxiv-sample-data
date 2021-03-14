@@ -1,0 +1,1 @@
+We express continuous \times p,\times q-invariant measures on the unit circle via some simple forms. On one hand, a continuous \times p,\times q-invariant measure is the weak-* limit of average of Dirac measures along an irrational orbit. On the other hand, a continuous \times p,\times q-invariant measure is a continuous function on [0,1] satisfying certain function equations.

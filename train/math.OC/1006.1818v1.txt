@@ -1,0 +1,1 @@
+We show that a first order problem can approximate solutions of a robust optimization problem when the uncertainty set is scaled, and explore further properties of this first order problem.

@@ -1,0 +1,1 @@
+We establish partial regularity for vector-valued solutions to parabolic systems where the coefficients are possibly discontinuous with respect to (x,t). More precisely, we assume a VMO-condition with respect to the (x,t) and continuity with respect to u and prove H\"older continuity of the solutions outside of singular sets.

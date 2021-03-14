@@ -1,0 +1,1 @@
+A symmetric monoidal pairing is defined among simply connected co-H spaces and this is used to generalize the Whitehead product map S(X ^ Y) --> SX v SY to co-H spaces.

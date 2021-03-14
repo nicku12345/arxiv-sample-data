@@ -1,0 +1,1 @@
+We use Altmann's toric fan description of P-resolutions to formulate a new description of deformation theory invariants for two-dimensional cyclic quotient singularities. In particular, we show how to calculate the dimensions of the (reduced) versal base space components as well as Milnor numbers of smoothings over them.

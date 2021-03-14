@@ -1,0 +1,1 @@
+Let A be a multiplicative subgroup of \mathbb Z_p^*. Define the k-fold sumset of A to be kA=\{x_1+\dots+x_k:x_i \in A,1\leq i\leq k\}. We show that 6A\supseteq \mathbb Z_p^* for |A| > p^{\frac {11}{23} +\epsilon}. In addition, we extend a result of Shkredov to show that |2A|\gg |A|^{\frac 85-\epsilon} for |A|\ll p^{\frac 59}.

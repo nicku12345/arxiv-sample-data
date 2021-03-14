@@ -1,0 +1,1 @@
+In this paper we show that a composition operator C_\varphi cannot be complex symmetric on Hardy-Hilbert space H^2(D) when \varphi is an elliptic automorphism of order 3 and not a rotation. This completes the project of finding all invertible composition operators which are complex symmetric H^2(D).

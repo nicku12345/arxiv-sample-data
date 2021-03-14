@@ -1,0 +1,1 @@
+In this work, we define a Morse function on SO(n) and show that this function is indeed a perfect Morse function.

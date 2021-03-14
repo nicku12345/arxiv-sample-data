@@ -1,0 +1,1 @@
+In this paper we study an asymptotic expansion for the distribution of a random motion of a particle driven by a Markov process in diffusion approximation. We show that the singularly perturbed equation of a Markovian random motion can be reduced to the regularly perturbed equation for the distribution of the random motion.

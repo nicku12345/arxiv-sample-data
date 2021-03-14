@@ -1,0 +1,1 @@
+We determine a set of primitive idempotents and the basic algebra of the restricted quantum group \bar{U}_qsl_2(\mathbb{C}). As a result, we can show the dimension of the space of symmetric linear functions of \bar{U}_qsl_2(\mathbb{C}) is 3p-1

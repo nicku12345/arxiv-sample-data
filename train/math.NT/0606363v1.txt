@@ -1,0 +1,1 @@
+We show that the slopes of the~U_5 operator acting on slopes of 5-adic overconvergent modular forms of weight~k with primitive Dirichlet character~\chi of conductor~25 are given by either \[ \left\{{1/4}\cdot\lfloor\frac{8i}{5}\rfloor: i \in \N\right\}\text{or }\left\{{1/4}\cdot\lfloor\frac{8i+4}{5}\rfloor: i \in \N\right\}, \] depending on~k and~\chi.

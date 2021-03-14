@@ -1,0 +1,1 @@
+In this paper, we prove the following inequality: for any x, y>0, there holds \big|x\sin\frac{1}{x} - y\sin\frac{1}{y} \big| \leq \sqrt{2|x - y|}.

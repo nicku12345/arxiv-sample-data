@@ -1,0 +1,1 @@
+Let P_n denote the n-th linear ordering polytope. We define projections from P_n to the n-th permutahedron and to the (n-1)-st linear ordering polytope. Both projections are equivariant with respect to the natural \Sn-action and they project to orthogonal subspaces. In particular the second projection defines an S_n-action in P_{n-1}.

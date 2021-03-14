@@ -1,0 +1,1 @@
+We prove that for each dimension not less than five there exists a contraction between solvable Lie algebras that can be realized only with matrices whose Euclidean norms necessarily approach infinity at the limit value of contraction parameter. Therefore, dimension five is the lowest dimension of Lie algebras between which contractions of the above kind exist.

@@ -1,0 +1,1 @@
+The operations of linear algebra, calculus, and statistics are routinely applied to measurement scales but certain mathematical conditions must be satisfied in order for these operations to be applicable. We call attention to the conditions that lead to construction of measurement scales that enable these operations.

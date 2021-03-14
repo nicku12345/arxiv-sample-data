@@ -1,0 +1,1 @@
+We derive Fourier integral associated to the complex Martin function in the Denjoy domain of Widom type with the Direct Cauchy Theorem (DCT). As an application we study reflectionless Weyl-Titchmarsh functions in such domains, related to them canonical systems and transfer matrices. The DCT property appears to be crucial in many aspects of the underlying theory.

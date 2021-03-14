@@ -1,0 +1,1 @@
+We describe weak BCC-algebras (also called BZ-algebras) in which the condition (xy)z=(xz)y is satisfied only in the case when elements x,y belong to the same branch. We also characterize branchwise commutative and branchwise implicative weak BCC-algebras satisfying this condition. We also describe connections between various types of implicative weak BCC-algebras.

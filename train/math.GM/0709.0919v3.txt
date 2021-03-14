@@ -1,0 +1,1 @@
+This note aims to demonstrate that every parabolic geometry has a naturally defined per-Courant algebro\"id structure. This structure is a Courant algebro\"id if and only if the the curvature \kappa of the Cartan connection vanishes. In all other cases, if the parabolic geometry is regular, there does not exist a natural universal expression for a Courant bracket.

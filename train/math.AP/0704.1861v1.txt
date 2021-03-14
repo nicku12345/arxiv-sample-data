@@ -1,0 +1,1 @@
+We study that a solution of the initial value problem associated for the coupled system of equations of Korteweg - de Vries type which appears as a model to describe the strong interaction of weakly nonlinear long waves, has analyticity in time and smoothing effect up to real analyticity if the initial data only has a single point singularity at x=0.

@@ -1,0 +1,1 @@
+Robert Denomme and Gordan Savin made a primality test for Fermat numbers 2^(2^k)+1 using elliptic curves. We propose another primality test using elliptic curves for Fermat numbers and also give primality tests for integers of the form 2^(2k+1)\pm2^(k+1)+1.

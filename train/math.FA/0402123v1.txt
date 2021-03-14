@@ -1,0 +1,1 @@
+We study a semigroup \phi of linear operators acting on a Banach space X which satisfies the condition \codim X_0<\infty, where X_0=\{x\in X \mid \phi_t(x)\underset{t\to\infty}\longrightarrow 0\}. We show that X_0 is closed under these conditions. We establish some properties concerning the asymptotic behavior of subspaces which complement X_0 in X.

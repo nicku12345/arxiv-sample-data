@@ -1,0 +1,1 @@
+In this paper, we extend the proximal point algorithm for vector optimization from the Euclidean space to the Riemannian context. Under suitable assumptions on the objective function the well definition and full convergence of the method to a weak efficient point is proved.

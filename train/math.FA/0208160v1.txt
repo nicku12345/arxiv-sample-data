@@ -1,0 +1,1 @@
+We prove that if X is an infinite-dimensional Banach space with C^p smooth partitions of unity, then X and X\K are C^p diffeomorphic, for every weakly compact subset K of X.

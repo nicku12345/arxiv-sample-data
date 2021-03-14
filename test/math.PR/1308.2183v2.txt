@@ -1,0 +1,1 @@
+We study a model of mass redistribution on a finite graph. We address the questions of convergence to equilibrium and the rate of convergence. We present theorems on the distribution of empty sites and the distribution of mass at a fixed vertex. These distributions are related to random permutations with certain peak sets.

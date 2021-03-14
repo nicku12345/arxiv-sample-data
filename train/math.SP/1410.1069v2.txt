@@ -1,0 +1,1 @@
+In this article, we show that a Finsler--Laplacian introduced previously can detect changes in the Finsler metric that the marked length spectrum cannot. We also construct examples of non-reversible Finsler metrics in negative curvature such that 4\lambda_1 > h^2, where \lambda_1 is the bottom of the L^2-spectrum and h the topological entropy of the flow.

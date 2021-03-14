@@ -1,0 +1,1 @@
+Let G be a finite group and H a core-free subgroup of G. We will show that if there exists a solvable, generating transversal of H in G, then G is a solvable group. Further, if S is a generating transversal of H in G and S has order 2 invariant sub right loop T such that the quotient S/T is a group. Then H is an elementary abelian 2-group.

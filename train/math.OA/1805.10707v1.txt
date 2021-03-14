@@ -1,0 +1,1 @@
+We construct a one parameter family of ICC groups \{G_t\}_{t>1}, with the property that the group factor L(G_t) is isomorphic to the interpolated free group factor L(\mathbb F_t):=L(\mathbb{F}_2)^{1/\sqrt{t-1}}, \forall t. Moreover, the groups G_t have fixed cost t, are strongly treeable and freely generate any treeable ergodic equivalence relation of same cost.

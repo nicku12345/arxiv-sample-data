@@ -1,0 +1,1 @@
+We study the real Grassmann manifold G_{2n}^n (of n-subspaces in \mathbb R^{2n}), and the action of Z_2 on it by taking the orthogonal complement. The homological index of this action is estimated from above and from below. In case n is a power of two it is shown that \hind G_{2n}^n=2n-1.

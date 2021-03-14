@@ -1,0 +1,1 @@
+In cryptography and coding theory, it is important to study the pseudo-random sequences and the ergodic transformations. We already have the 1-Lipshitz ergodic theory over {\Z}_2 established by V. Anashin and others. In this paper we present an ergodic theory over {\F}_2[[T]] and some ideas which might be very useful in applications.

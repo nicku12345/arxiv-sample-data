@@ -1,0 +1,1 @@
+The Collatz variations pattern seems not to have any recurrence relation between numbers. But knowing that there is at least a natural number that converges after several iterations we construct a function f_{X,Y} that is equal to the value of convergence for all convergent sequences. A canonical decomposition can be expressed for such numbers.

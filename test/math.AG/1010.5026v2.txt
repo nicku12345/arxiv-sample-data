@@ -1,0 +1,1 @@
+We show that the total cohomology of the canonical bundle of a smooth projective variety, seen as a module over an exterior algebra, splits into a natural direct sum of submodules which are generated in degree zero and have a linear free resolution. This improves a previous result of the first two authors.

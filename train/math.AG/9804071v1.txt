@@ -1,0 +1,1 @@
+A meromorphic function on a compact complex analytic manifold defines a \bc\infty locally trivial fibration over the complement of a finite set in the projective line \bc\bp^1. We describe zeta-functions of local monodromies of this fibration around atypical values. Some applications to polynomial functions on \bc^n are described.

@@ -1,0 +1,1 @@
+Let X be a non-empty set and let \mathcal{F} be any C^{\ast}-subalgebra of \ell ^{\infty}(X) containing the constant functions. We show that the spectrum of \mathcal{F} can be considered as a space of certain filters determined by \mathcal{F} on X. Furthermore, we show that these filters describe the topology of the spectrum of \mathcal{F}.

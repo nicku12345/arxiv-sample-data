@@ -1,0 +1,1 @@
+In this note, we mainly extend some Gorenstein homological properties from special rings (Noetherian or coherent rings ) to arbitrary rings by introducing the notions of Gorenstein weak injective and weak projective modules respectively.

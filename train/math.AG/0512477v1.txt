@@ -1,0 +1,1 @@
+For a Del Pezzo surface of degree 8 given over the rationals we decide whether there is a rational parametrization of the surface and construct one in the affirmative case. We define and use the Lie algebra of the surface to reach the aim. The algorithm has been implemented in Magma.

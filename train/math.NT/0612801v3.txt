@@ -1,0 +1,1 @@
+We prove Dirichlet's theorem for polynomial rings: Let F be a pseudo algebraically closed field. Then for all relatively prime polynomials a(X), b(X)\in F[X] and for every sufficiently large positive integer n there exist infinitely many polynomials c(X)\in F[X] such that a(X) + b(X)c(X) is irreducible of degree n, provided that F has a separable extension of degree n.

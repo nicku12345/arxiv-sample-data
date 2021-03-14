@@ -1,0 +1,1 @@
+Let G be the classical group, and let Hom(\mathbb{Z}^m,G) denote the space of commuting m-tuples in G. Baird proved that the cohomology of Hom(\mathbb{Z}^m,G) is identified with a certain ring of invariants of the Weyl group of G. In this paper by using the result of Baird we give the cohomology ring of Hom(\mathbb{Z}^2,G) for simple Lie group G of rank 2.

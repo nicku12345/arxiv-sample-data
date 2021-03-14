@@ -1,0 +1,1 @@
+We study some properties of hyperbolic Gaussian analytic functions of intensity L in the unit ball of \mathbb C^n. First we deal with the asymptotics of fluctuations of linear statistics as L\to\infty. Then we estimate the probability of large deviations (with respect to the expected value) of such linear statistics and use this estimate to prove a hole theorem.

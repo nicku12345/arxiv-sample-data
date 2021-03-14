@@ -1,0 +1,1 @@
+We present the census of all non-orientable, closed, connected 3-manifolds admitting a rigid crystallization with at most 30 vertices. In order to obtain the above result, we generate, manipulate and compare, by suitable computer procedures, all rigid non-bipartite crystallizations up to 30 vertices.

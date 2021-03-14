@@ -1,0 +1,1 @@
+Sewell and Trotter [J. Combin. Theory Ser. B, 1993] proved that every connected alpha-critical graph that is not isomorphic to K_1, K_2 or an odd cycle contains a totally odd K_4-subdivision. Their theorem implies an interesting min-max relation for stable sets in graphs without totally odd K_4-subdivisions. In this note, we give a simpler proof of Sewell and Trotter's theorem.

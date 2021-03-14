@@ -1,0 +1,1 @@
+We prove L^p estimates for the Walsh model of the "biest", a trilinear multiplier with singular symbol which arises naturally in the expansion of eigenfunctions of a Schrodinger operator, and which is also related to the bilinear Hilbert transform. The corresponding estimates for the Fourier model will be obtained in the sequel of this paper.

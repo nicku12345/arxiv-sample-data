@@ -1,0 +1,1 @@
+Let P be a d-dimensional lattice polytope. We show that there exists a natural number c_d, only depending on d, such that the multiples cP have a unimodular cover for every natural number c >= c_d. Actually, a subexponential upper bound for c_d is provided, together with an analogous result for unimodular covers of rational cones.

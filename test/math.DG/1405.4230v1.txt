@@ -1,0 +1,1 @@
+In this note, we give a new and simple proof of a result in {\cite{DX1}} which states that any smooth complete self-shrinker in \mathbb{R}^3 with second fundamental form of constant length must be a generalized cylinder \mathbb{S}^k \times \mathbb{R}^{2-k} for some k\leq2. Moreover, we prove a gap theorem for smooth self-shrinkers in all dimensions.

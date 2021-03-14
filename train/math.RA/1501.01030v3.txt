@@ -1,0 +1,1 @@
+We will give a short proof of the fact that if the algebraic closure of a field \mathbb F is a finite extension, then for n\geq 3 the commuting graph \Gamma(M_n(\mathbb F)) is connected and its diameter is four.

@@ -1,0 +1,1 @@
+We show that for a tangle T with -\partial^0T \cong \partial^1 T the Hochschild homology of the tangle Floer homology \widetilde{\mathit{CT}}(T) is equivalent to the link Floer homology of the closure T' = T/(-\partial^0T \sim \partial^1 T) of the tangle, linked with the tangle axis. In addition, we show that the action of the braid group on tangle Floer homology is faithful.

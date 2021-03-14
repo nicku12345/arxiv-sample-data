@@ -1,0 +1,1 @@
+This is an expository introduction to simplicial sets and simplicial homotopy theory with particular focus on relating the combinatorial aspects of the theory to their geometric/topological origins. It is intended to be accessible to students familiar with just the fundamentals of algebraic topology.

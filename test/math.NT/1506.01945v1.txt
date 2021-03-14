@@ -1,0 +1,1 @@
+Given two arithmetical functions f,g we derive, under suitable conditions, asymptotic formulas with error term, for the convolution sums \sum_{n \le N} f(n) g(n+h), building on an earlier work of Gadiyar, Murty and Padma. A key role in our method is played by the theory of Ramanujan expansions for arithmetical functions.

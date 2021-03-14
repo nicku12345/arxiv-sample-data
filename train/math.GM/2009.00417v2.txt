@@ -1,0 +1,1 @@
+This note investigates the prime values of the polynomial f(t)=qt^2+a for any fixed pair of relatively prime integers  a\geq 1 and  q\geq 1 of opposite parity. For a large number x\geq1, an asymptotic result of the form \sum_{n\leq x^{1/2},\, n \text{ odd}}\Lambda(qn^2+a)\gg qx^{1/2}/2\varphi(q) is achieved for q\ll (\log x)^b, where  b\geq 0  is a constant.

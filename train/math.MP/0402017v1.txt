@@ -1,0 +1,1 @@
+We complete the construction of raising and lowering operators, given in a previous work, for the orthogonal polynomials of hypergeometric type on non-homogeneous lattice, and extend these operators to the generalized orthogonal polynomials, namely, those difference of orthogonal polynomials that satisfy a similar difference equation of hypergeometric type.

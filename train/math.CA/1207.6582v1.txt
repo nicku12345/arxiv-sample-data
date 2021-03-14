@@ -1,0 +1,1 @@
+We begin with an overview on square functions for spherical and Bochner-Riesz means which were introduced by Eli Stein, and discuss their implications for radial multipliers and associated maximal functions. We then prove new endpoint estimates for these square functions, for the maximal Bochner-Riesz operator, and for more general classes of radial Fourier multipliers.

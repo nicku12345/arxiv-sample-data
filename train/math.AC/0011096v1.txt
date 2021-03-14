@@ -1,0 +1,1 @@
+Let v be a rank-one discrete valuation of the field k((\X)). We know, after \cite{Bri2}, that if n=2 then the dimension of v is 1 and if v is the usual order function over k((\X)) its dimension is n-1. In this paper we prove that, in the general case, the dimension of a rank-one discrete valuation can be any number between 1 and n-1.

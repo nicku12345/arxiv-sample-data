@@ -1,0 +1,1 @@
+We show how minimal elements of a stopping time \sigma-algebra can be expressed in terms of the minimal elements of the \sigma-algebra of the underlying filtration. This facilitates an intuitive interpretation of stopping time \sigma-algebras. An example is provided.

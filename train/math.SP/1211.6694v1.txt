@@ -1,0 +1,1 @@
+We give a new sufficient condition for existence and completeness of wave operators in abstract scattering theory. This condition generalises both trace class and smooth approaches to scattering theory. Our construction is based on estimates for the Cauchy transforms of operator valued measures.

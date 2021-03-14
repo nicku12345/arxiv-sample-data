@@ -1,0 +1,1 @@
+For a semisimple Lie group G_\mathbb{C} over \mathbb{C}, we study the homotopy type of the symplectomorphism group of the cotangent bundle of the flag variety and its relation to the braid group. We prove a homotopy equivalence between the two groups in the case of G_\mathbb{C}=SL_3(\mathbb{C}), under the SU(3)-equivariancy condition on symplectomorphisms.

@@ -1,0 +1,1 @@
+This paper deals with the study of the Malliavin calculus of Euclidean motions on Wiener space, (i.e. transformations induced by general measure preserving transformations, called `rotations', and H-valued shifts) and the associated flows on abstract Wiener spaces

@@ -1,0 +1,1 @@
+Let G be a finite group. Then we denote \psi(G) = \sum_{x\in G}o(x) where o(x) is the order of the element x in G. In this paper we characterize some finite p-groups (p a prime) by \psi and their orders.

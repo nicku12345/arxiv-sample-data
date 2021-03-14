@@ -1,0 +1,1 @@
+In alternating sign matrices the first and last nonzero entry in each row and column is specified to be +1.   Such matrices always exist. We investigate a generalization by specifying independently the sign of the first and last nonzero entry in each row and column to be either a +1 or a -1. We determine necessary and sufficient conditions for such matrices to exist.

@@ -1,0 +1,1 @@
+We define the scattered subsets of a group as asymptotic counterparts of scattered subspaces of a topological space, and prove that a subset A of a group G is scattered if and only if A contains no piecewise shifted IP-subsets. For an amenable group G and a scattered subspace A of G, we show that \mu(A)=0 for each left invariant Banach measure \mu on G.

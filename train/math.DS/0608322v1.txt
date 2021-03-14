@@ -1,0 +1,1 @@
+We augment the method of C^\infty conjugation approximation with explicit estimates on the conjugacy map. This allows us to construct ergodic volume preserving diffeomorphisms measure-theoretically isomorphic to any apriori given Liouville rotation on a variety of manifolds. In the special case of tori the maps can be made uniquely ergodic.

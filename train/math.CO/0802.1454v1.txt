@@ -1,0 +1,1 @@
+We investigate the homogeneous symmetric Macdonald polynomials P_\lambda(\X;q,t) for the specialization t=q^k. We show an identity relying the polynomials P_\lambda(\X;q,q^k) and P_\lambda(\frac{1-q}{1-q^k}\X;q,q^k). As a consequence, we describe an operator whose eigenvalues characterize the polynomials P_\lambda(\X;q,q^k).

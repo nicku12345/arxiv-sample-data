@@ -1,0 +1,1 @@
+In this short note we prove by a counter-example that Theorem 3.2 in the paper "A study on concave optimization via canonical dual function" by J. Zhu, S. Tao, D. Gao is false; moreover, we give a very short proof for Theorem 3.1 in the same paper.

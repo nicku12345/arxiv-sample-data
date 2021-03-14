@@ -1,0 +1,1 @@
+We show that if a surgery on a knot in a product sutured manifold yields the same product sutured manifold, then this knot is a 0-- or 1--crossing knot. The proof uses techniques from sutured manifold theory.

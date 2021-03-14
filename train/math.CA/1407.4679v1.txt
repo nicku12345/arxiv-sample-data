@@ -1,0 +1,1 @@
+We generalize the property that Riemann sums of a continuous function corresponding to equidistant subdivision of an interval converge to the integral of that function, and we give some applications of this generalization.

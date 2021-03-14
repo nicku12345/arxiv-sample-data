@@ -1,0 +1,1 @@
+We show that Voiculescu's circular operator and, more generally, each circular free Poisson operator has a continuous family of invariant subspaces relative to the von Neumann algebra it generates. The proof relies on upper triangular random matrix models and consequent realizations of these operators as upper triangular matrices of free random variables.

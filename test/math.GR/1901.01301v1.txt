@@ -1,0 +1,1 @@
+Given a group acting on a Gromov hyperbolic space, Bestvina and Fujiwara introduced the WPD property --- weak proper discontinuity --- for studying the 2nd bounded cohomology of the group. We carry out a more general study of second bounded cohomology using a 'really' weak property discontinuity property known as WWPD that was introduced by Bestvina, Bromberg, and Fujiwara.

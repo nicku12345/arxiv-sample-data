@@ -1,0 +1,1 @@
+Building on previous works, we show that the category of non-negatively graded chain complexes of D_X-modules -- where X is a smooth affine algebraic variety over an algebraically closed field of characteristic zero -- fits into a homotopical algebraic context in the sense of Toen and Vezzosi.

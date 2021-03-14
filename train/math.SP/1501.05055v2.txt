@@ -1,0 +1,1 @@
+We investigate some bounds for the density of states in the pure point regime for the random Schr\"{o}dinger operators H^{\omega}=-\Delta+\displaystyle\sum_{n\in\mathbb{Z}^d}a_nq_n(\omega), acting on \ell^2(\mathbb{Z}^d), where \{q_n\} are iid random variables and a_n\simeq|n|^{-\alpha}~~\alpha>0.

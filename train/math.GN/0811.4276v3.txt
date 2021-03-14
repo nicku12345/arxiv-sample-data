@@ -1,0 +1,1 @@
+We study algebraic and topological properties of topological semigroups containing a copy of the bicyclic semigroup C(p,q). We prove that each topological semigroup S with pseudocompact square contains no dense copy of C(p,q). On the other hand, we construct a (consistent) example of a pseudocompact (countably compact) Tychonov semigroup containing a copy of C(p,q).

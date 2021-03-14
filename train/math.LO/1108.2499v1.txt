@@ -1,0 +1,1 @@
+In this paper, we show that a partitioned formula \phi is dependent if and only if \phi has uniform definability of types over finite partial order indiscernibles. This generalizes our result from a previous paper [1]. We show this by giving a decomposition of the truth values of an externally definable formula on a finite partial order indiscernible.

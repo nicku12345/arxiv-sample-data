@@ -1,0 +1,1 @@
+In the homogenization of monotone parabolic partial differential equations with oscillations in both the space and time variables the gradients converges only weakly in L^p. In the present paper we construct a family of correctors, such that, up to a remainder which converges to zero strongly in L^p, we obtain strong convergence of the gradients in L^p.

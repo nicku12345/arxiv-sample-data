@@ -1,0 +1,1 @@
+We generalize a result of Eisenbud-Huneke-Ulrich on the maximal graded shifts of a module with prescribed annihilator and prove a linear regularity bound for ideals in a polynomial ring depending only on the first p - c steps in the resolution, where p = \mathrm{pd}(S/I) and c = \mathrm{codim}(I).

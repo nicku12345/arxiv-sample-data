@@ -1,0 +1,1 @@
+It is shown that if A generates a bounded cosine operator function on a UMD space X, then i(-A)^{1/2} generates a bounded C_0-group. The proof uses a transference principle for cosine functions.

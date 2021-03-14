@@ -1,0 +1,1 @@
+The Poisson equation on manifolds plays an fundamental role in many applications. Recently, we proposed a novel numerical method called the Point Integral method (PIM) to solve the Poisson equations on manifolds from point clouds. In this paper, we prove the convergence of the point integral method for solving the Poisson equation with the Dirichlet boundary condition.

@@ -1,0 +1,1 @@
+We extend the Bass-Matlis characterization of local Noetherian divisorial domains to the non-Noetherian case. This result is then used to study the following question: If a domain D is w-divisorial, that is, if each w-ideal of D is divisorial, then is D[X] automatically w-divisorial? We show that the answer is yes if D is either integrally closed or Mori.

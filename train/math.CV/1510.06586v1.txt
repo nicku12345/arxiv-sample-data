@@ -1,0 +1,1 @@
+Let p(z) be a complex polynomial of degree n. Let C be a circle containing its n-1 zeros, having its center in the centroid of these zeros. We prove that C must contain at least int((n-1):2) zeros of its derivative.

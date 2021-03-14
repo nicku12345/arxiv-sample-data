@@ -1,0 +1,1 @@
+In this paper we study the knot Floer homology of a subfamily of twisted (p, q) torus knots where q \equiv\pm1 (mod p). Specifically, we classify the knots in this subfamily that admit L-space surgeries. To do calculations, we use the fact that these knots are (1, 1) knots and, therefore, admit a genus one Heegaard diagram.

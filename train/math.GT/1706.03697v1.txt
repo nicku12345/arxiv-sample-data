@@ -1,0 +1,1 @@
+Let \phi:\mathcal{C}(S)\to\mathcal{C}(S') be a simplicial isomorphism between the curve graphs of two infinite-type surfaces. In this paper we show that in this situation S and S' are homeomorphic and \phi is induced by a homeomorphism h:S\to S'.

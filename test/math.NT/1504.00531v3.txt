@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the number of primes of the shape a^2 +p^4, thereby refining the well known work of Friedlander and Iwaniec. Along the way, we prove a result on equidistribution of primes up to x, in which the moduli may be almost as large as x^2.

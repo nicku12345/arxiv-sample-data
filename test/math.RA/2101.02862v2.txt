@@ -1,0 +1,1 @@
+We give a new and conceptually straightforward proof of the well-known presentation for the Temperley-Lieb algebra, via an alternative new presentation. Our method involves twisted semigroup algebras, and we make use of two apparently new submonoids of the Temperley-Lieb monoid.

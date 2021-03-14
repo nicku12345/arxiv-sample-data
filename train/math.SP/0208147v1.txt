@@ -1,0 +1,1 @@
+We give a local central limit theorem for simple random walks on Z^d, including Gaussian error estimates. The detailed proof combines standard large deviation techniques with Cramer-Edgeworth expansions for lattice distributions.

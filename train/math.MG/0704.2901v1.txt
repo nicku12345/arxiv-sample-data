@@ -1,0 +1,1 @@
+Weakly convex polyhedra which are star-shaped with respect to one of their vertices are infinitesimally rigid. This is a partial answer to the question whether every decomposable weakly convex polyhedron is infinitesimally rigid. The proof uses a recent result of Izmestiev on the geometry of convex caps.

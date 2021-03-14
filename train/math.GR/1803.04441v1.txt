@@ -1,0 +1,1 @@
+The set of formal power series with coefficients in an associative but noncommutative algebra becomes a loop with the substitution product. We initiate the study of this loop by describing certain Lie and Sabinin algebras related to it. Some examples of Lie algebras satisfying the standard identities of degrees 5 and 6 appear naturally.

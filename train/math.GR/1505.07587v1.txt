@@ -1,0 +1,1 @@
+For a finite Galois extension K/k and an intermediate field F such that Gal(K/F) has a normal complement in Gal(K/k), we construct and characterize Hopf Galois structures on K/k which are induced by a pair of Hopf Galois structures on K/F and F/k.

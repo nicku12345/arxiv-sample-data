@@ -1,0 +1,1 @@
+In this article, we give a method of calculating the automorphism groups of the vertex operator algebras V_L^+ associated with even lattices L. For example, by using this method we determine the automorphism groups of V_L^+ for even lattices of rank one, two and three, and even unimodular lattices.

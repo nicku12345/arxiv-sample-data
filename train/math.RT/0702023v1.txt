@@ -1,0 +1,1 @@
+Let F be a non-Archimedean local field of characteristic 0, and let D be a finite dimensional central division algebra over F. We prove that any unitary irreducible representation of a Levi subgroup of GL(m,D), with m a positive integer, induces irreducibly to GL(m,D). This ends the classification of the unitary dual of GL(m,D) initiated by Tadic.

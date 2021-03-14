@@ -1,0 +1,1 @@
+We provide bounds on the error between dynamics of an infinite dimensional bilinear Schr\"odinger equation and of its finite dimensional Galerkin approximations. Standard averaging methods are used on the finite dimensional approximations to obtain constructive controllability results. As an illustration, the methods are applied on a model of a 2D rotating molecule.

@@ -1,0 +1,1 @@
+There are nice relations between graded homological dimensions and ordinary homological dimensions. We study the Gorenstein injective dimension of a complex of graded modules denoted by ^*\Gid, and derive its properties. In particular we prove the Chouinard's like formula for ^*\Gid, and compare it with the usual Gorenstein injective dimension.

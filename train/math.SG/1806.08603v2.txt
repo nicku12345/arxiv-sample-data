@@ -1,0 +1,1 @@
+Given a knot in a closed connected orientable 3-manifold we prove that if the exterior of the knot admits an aperiodic contact form that is Euclidean near the boundary, then the 3-manifold is diffeomorphic to the 3-sphere and the knot is the unknot.

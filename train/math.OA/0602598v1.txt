@@ -1,0 +1,1 @@
+Let 1 \in A \subset B be an inclusion of unital C*-algebras of index-finite type and depth 2. Suppose that A is infinite dimensional simple with tsr(A) = 1 and SP-property. Then tsr(B) \leq 2. As a corollary when A is a simple C*-algebra with \tsr(A) = 1 and SP-property and \alpha an action of a finite group G on \Aut(A), \tsr(A \rtimes_\alpha G) \leq 2.

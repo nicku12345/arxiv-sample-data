@@ -1,0 +1,1 @@
+In this note we provide examples that show that a common notion of causality for linear operators on Banach spaces does not carry over to the closure of the respective operators. We provide an alternative definition for causality, which is equivalent to the usual definition for closed linear operators but does carry over to the closure.

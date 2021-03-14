@@ -1,0 +1,1 @@
+We study the canonical orbit category of the bounded derived category of finite dimensional representations of the quiver of type D_{\infty}. We prove that this orbit category is a cluster category, that is, its cluster-tilting subcategories form a cluster structure as defined in [\ref{BIRS}].

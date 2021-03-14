@@ -1,0 +1,1 @@
+Let f be a meromorphic function. We suggest a generalization of f and its derivative f' sharing a nonzero value a IM that does not impose any a priori restrictions on the ramification of f. Then we discuss some results around the question whether the famous theorem on entire functions f that share two values IM with f' still holds for this weaker notion.

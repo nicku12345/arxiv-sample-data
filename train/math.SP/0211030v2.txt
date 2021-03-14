@@ -1,0 +1,1 @@
+Let G be the group GL(n) over a number field E and let A be the ring of adeles of E. In this paper we prove that the spectral side of the Arthur trace formula for G is absolutely convergent for all integrable rapidly decreasing functions on G(A)^1.

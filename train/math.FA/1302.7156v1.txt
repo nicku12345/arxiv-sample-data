@@ -1,0 +1,1 @@
+Ultrafunctions are a particular class of functions defined on a non-Archimedean field. They provide generalized solutions to functional equations which do not have any solutions among the real functions or the distributions. In this paper we analyze sistematically some basic properties of the spaces of ultrafunctions.

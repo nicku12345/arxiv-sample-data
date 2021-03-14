@@ -1,0 +1,1 @@
+The object of this note is to give a very short proof of the following theorem of Ivanov and Schupp. Let H be a finitely generated subgroup of a free group F and the index [F:H] infinite. Then there exists a nontrivial normal subgroup N of F such that N cap H = {1}.

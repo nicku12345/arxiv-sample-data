@@ -1,0 +1,1 @@
+The unipotent groups are an important class of algebraic groups. We show that techniques used to compute with finitely generated nilpotent groups carry over to unipotent groups. We concentrate particularly on the maximal unipotent subgroup of a split reductive group and show how this improves computation in the reductive group itself.

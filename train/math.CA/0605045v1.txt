@@ -1,0 +1,1 @@
+Under the assumption of positive multiplicity, we obtain basic estimates of the hypergeometric functions F\_\la and G\_\la of Heckman and Opdam, and sharp estimates of the particular functions F\_0 and G\_0. Next we prove the Paley-Wiener theorem for the Schwartz class, solve the heat equation and estimate the heat kernel.

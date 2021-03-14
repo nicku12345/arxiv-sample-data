@@ -1,0 +1,1 @@
+We begin by introducing the main ideas of the paper under discussion. We discuss some interesting issues regarding adaptive component-wise credible intervals. We then briefly touch upon the concepts of self-similarity and excessive bias restriction. This is then followed by some comments on the extensive simulation study carried out in the paper.

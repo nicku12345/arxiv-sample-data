@@ -1,0 +1,1 @@
+T*-categories are introduced as a ternary generalization of C*-categories. Their linking C*-categories are constructed and the Gelfand-Naimark representation theorems of Zettl for C*-ternary rings and for W*-ternary rings, are generalized to T*-categories. Biduals of C*-categories and of T*-categories are considered.

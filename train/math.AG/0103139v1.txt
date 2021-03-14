@@ -1,0 +1,1 @@
+We show this Chow ring is \Z \oplus \Z. We do this by partitioning the space into 2n subvarieties each of which is fibered over Gl(2n-2,\C)/SO(2n-2,\C).

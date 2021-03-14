@@ -1,0 +1,1 @@
+We develop several methods, based on the geometric relationship between the eigenspaces of a matrix and its adjoint, for determining whether a square matrix having distinct eigenvalues is unitarily equivalent to a complex symmetric matrix. Equivalently, we characterize those matrices having distinct eigenvalues which lie in the unitary orbit of the complex symmetric matrices.

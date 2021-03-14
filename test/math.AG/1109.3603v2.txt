@@ -1,0 +1,1 @@
+In this short note we prove the unirationality of Hurwitz spaces of 6-gonal curves of genus g with 5\leq g\leq 28 or g=30,31,33,35,36,40,45. Key ingredient is a liaison construction in \PP^1 \times \PP^2. By semicontinuity, the proof of the dominance of this construction is reduced to a computation of a single curve over a finite field.

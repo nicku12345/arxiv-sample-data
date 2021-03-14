@@ -1,0 +1,1 @@
+By applying methods of Duhamel algebra and reproducing kernels, we prove that every linear bounded operator on the Hardy-Hilbert space H^{2}(D) has a nontrivial invariant subspace. This solves affirmatively the Invariant Subspace Problem in the Hilbert space.

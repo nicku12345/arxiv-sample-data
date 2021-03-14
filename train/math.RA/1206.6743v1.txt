@@ -1,0 +1,1 @@
+In this paper we give a factorization theorem for the ring of exponential polynomials in many variables over an algebraically closed field of characteristic 0 with an exponentiation. This is a generalization of the factorization theorem due to Ritt in \cite{ritt}.

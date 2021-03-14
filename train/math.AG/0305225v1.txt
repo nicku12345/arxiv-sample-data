@@ -1,0 +1,1 @@
+The moduli space of (1,p)-polarized abelian surfaces is a quasi-projective variety. In the case when p is a prime, we study its Kodaira dimension. We show that it is of general type for p > 71 and some smaller values of p. This improves an earlier result of G. K. Sankaran.

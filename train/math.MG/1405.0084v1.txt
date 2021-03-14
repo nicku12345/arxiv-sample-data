@@ -1,0 +1,1 @@
+In this note we study the action of the pentagram map on the moduli space of twisted polygons. The action with respect to the canonical coordinate turns out to be applicable to the framework of tropical geometry. As an application, we induce quasi-recursiveness of the pentagram map on some domain, which is induced from dynamical property of the pentagram automaton.

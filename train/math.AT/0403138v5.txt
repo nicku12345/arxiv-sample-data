@@ -1,0 +1,1 @@
+We show that if the Atiyah Jones conjecture holds for a surface X, then it also holds for the blow-up of X at a point. Since the conjecture is known to hold for {\mathbb P}^2 and for ruled surfaces, it follows that the conjecture is true for all rational surfaces.

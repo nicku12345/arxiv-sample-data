@@ -1,0 +1,1 @@
+We prove a compactness theorem for automorphisms of free groups. Namely, we show that the set of automorphisms keeping bounded the length of the uniform current is compact (up to conjugation.) This implies that the spectrum of the length of the images of the uniform current is discrete, answering to a conjecture of I. Kapovich.

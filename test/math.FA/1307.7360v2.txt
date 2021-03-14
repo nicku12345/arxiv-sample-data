@@ -1,0 +1,1 @@
+This is an introductory note concerning the distribution vectors in a unitary representation of a Lie group. We discuss the definition of matrix coefficients associated with a pair of distributions and how one can compute them. Most of the results are known to some expert, but missing in the literature.

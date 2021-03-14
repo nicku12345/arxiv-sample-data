@@ -1,0 +1,1 @@
+Let \Gamma be a torsion free discrete group acting cocompactly on a two dimensional euclidean building \Delta. The centralizer of an element of \Gamma is either a Bieberbach group or is described by a finite graph of finite cyclic groups. Explicit examples are computed, with \Delta of type \widetilde A_2.

@@ -1,0 +1,1 @@
+Adapting Mourre's commutator method to the dissipative setting, we prove a limiting absorption principle for a class of abstract dissipative operators. A consequence is the resolvent estimates for the high frequency Helmholtz equation when trapped trajectories meet the set where the imaginary part of the potential is non-zero. We also give the resolvent estimates in Besov spaces.

@@ -1,0 +1,1 @@
+We consider the approximation of a continuous function, defined on a compact set of the d-dimensional Euclidean space, by sums of two ridge functions. We obtain a necessary and sufficient condition for such a sum to be a best approximation. The result resembles the classical Chebyshev equioscillation theorem for polynomial approximation.

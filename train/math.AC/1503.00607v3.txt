@@ -1,0 +1,1 @@
+The theory of symmetric multivariate Lagrange interpolation is a beautiful but rather unknown tool that has many applications. Here we derive from it an Exchange Lemma that allows to explain in a simple and natural way the full description of the double sum expressions introduced by Sylvester in 1853 in terms of subresultants and their Bezout coefficients.

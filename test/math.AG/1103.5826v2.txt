@@ -1,0 +1,1 @@
+In this article we describe our experiences with a parallel SINGULAR-implementation of the signature of a surface singularity defined by z^N+g(x,y)=0.

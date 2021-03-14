@@ -1,0 +1,1 @@
+We developed an optimal in the natural sense algorithm of partition in cluster analysis based on the densities of observations in the different hypotheses. These densities may be characterized, for instance, as the multivariate so-called "quasi-Gaussian distribution".   We describe also the possible applications in technical diagnosis, demography and philology.

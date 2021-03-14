@@ -1,0 +1,1 @@
+We investigate invertible matrices over finite additively idempotent semirings. The main result provides a criterion for the invertibility of such matrices. We also give a construction of the inverse matrix and a formula for the number of invertible matrices.

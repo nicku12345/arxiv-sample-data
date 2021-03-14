@@ -1,0 +1,1 @@
+For any 2\leq n\leq \infty, we construct a concrete 1-parameter family of non-orbit equivalent actions of the free group \Bbb F_n. These actions arise as diagonal products between a generalized Bernoulli action and the action \Bbb F_n\curvearrowright (\Bbb T^2,\lambda^2), where \Bbb F_n is seen as a subgroup of SL_2(\Bbb Z).

@@ -1,0 +1,1 @@
+We show that for every non-negative integer d, there exist differential equations w''+Pw=0, where P is a polynomial of degree d, such that some non-trivial solution w has all zeros real.

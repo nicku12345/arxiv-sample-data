@@ -1,0 +1,1 @@
+This paper deals with syzygies of Segre embeddings. Let d >=3 and n_1, ..., n_d nonzero natural numbers. We prove that O(1,...., 1) on the product of P^{n_1}, ...,P^{n_d} satisfies Property N_p if and only if p <= 3.

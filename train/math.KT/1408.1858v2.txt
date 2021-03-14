@@ -1,0 +1,1 @@
+We construct relative abelian categories in the sense of MacLane for models of algebraic systems in (co)complete abelian categories. As an example, we consider an analogue of Hochschild-Mitchell cohomology for the functor of Yoneda embedding.

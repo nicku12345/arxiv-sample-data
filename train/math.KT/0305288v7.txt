@@ -1,0 +1,1 @@
+We develop a theory of differential equations associated to families of algebraic cycles in higher Chow groups (i.e., motivic cohomology groups). This formalism is related to inhomogeneous Picard--Fuchs type differential equations. For families of K3 surfaces the corresponding non-linear ODE turns out to be symilar to Chazy's equation.

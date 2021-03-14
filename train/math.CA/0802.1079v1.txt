@@ -1,0 +1,1 @@
+We study p-adic multiresolution analyses (MRAs). A complete characterisation of test functions generating MRAs (scaling functions) is given. We prove that only 1-periodic test functions may be taken as orthogonal scaling functions. We also suggest a method for the construction of wavelet functions and prove that any wavelet function generates a p-adic wavelet frame.

@@ -1,0 +1,1 @@
+For a class of asymptotically hyperbolic manifolds, we show that the bottom of the continuous spectrum of the Laplace-Beltrami operator is not an eigenvalue. Our approach only uses properties of the operator near infinity and, in particular, does not require any global assumptions on the topology or the curvature, unlike previous papers on the same topic.

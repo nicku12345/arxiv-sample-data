@@ -1,0 +1,1 @@
+An analogue of the Berry-Esseen inequality is proved for the speed of convergence of free additive convolutions of bounded probability measures. The obtained rate of convergence is of the order n^{-1/2}, the same as in the classical case. An example with binomial measures shows that this estimate cannot be improved without imposing further restrictions on convolved measures.

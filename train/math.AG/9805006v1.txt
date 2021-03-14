@@ -1,0 +1,1 @@
+We describe algorithms for computing various functors for algebraic D-modules, i.e. systems of linear partial differential equations with polynomial coefficients. We will give algorithms for restriction, tensor product, localization, and local cohomology groups for all degrees.

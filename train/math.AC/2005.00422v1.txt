@@ -1,0 +1,1 @@
+This paper gives an elementary proof of a theorem by de Felipe and Teissier in the paper "Valuations and henselization" (arXiv:1903.10793v1), to appear in Math. Annalen. The theorem compares two henselizations of a local domain dominated by a valuation domain. Our proofs are written in the constructive Bishop style.

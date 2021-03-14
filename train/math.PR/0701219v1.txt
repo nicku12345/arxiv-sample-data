@@ -1,0 +1,1 @@
+This article summarizes the various ways one may use to construct the Skew Brownian motion, and shows their connections. Recent applications of this process in modelling and numerical simulation motivates this survey. This article ends with a brief account of related results, extensions and applications of the Skew Brownian motion.

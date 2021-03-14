@@ -1,0 +1,1 @@
+We investigate the problem of characterizing the classes of Grothendieck toposes whose internal logic satisfies a given assertion in the theory of Heyting algebras, and introduce natural analogues of the double negation and De Morgan topologies on an elementary topos for a wide class of intermediate logics.

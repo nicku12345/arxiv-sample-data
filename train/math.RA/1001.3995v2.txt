@@ -1,0 +1,1 @@
+Given an integer n greater of equal to 3, we investigate the minimal dimension of a subalgebra of M_n(K) with a trivial centralizer. It is shown that this dimension is 5 when n is even and 4 when it is odd. In the latter case, we also determine all 4-dimensional subalgebras with a trivial centralizer.

@@ -1,0 +1,1 @@
+In this paper, we propose an arc-search infeasible-interior-point algorithm. We show that this algorithm is polynomial and the polynomial bound is {\cal O}(nL) which is at least as good as the best existing bound for infeasible-interior-point algorithms for linear programming.

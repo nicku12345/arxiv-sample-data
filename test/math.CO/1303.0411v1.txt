@@ -1,0 +1,1 @@
+For any odd prime power q we provide a quick construction of a complete family of q(q-1) mutually orthogonal sudoku squares of order q^2.

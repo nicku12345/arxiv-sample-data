@@ -1,0 +1,1 @@
+This work extends Perron's method for the porous medium equation in the slow diffusion case. The main result shows that nonnegative continuous boundary functions are resolutive in a general cylindrical domain.

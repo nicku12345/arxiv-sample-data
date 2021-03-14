@@ -1,0 +1,1 @@
+We prove a matrix trace inequality for completely monotone functions and for Bernstein functions. As special cases we obtain non-trivial trace inequalities for the power function x->x^q, which for certain values of q complement McCarthy's trace inequality and for others strenghten it.

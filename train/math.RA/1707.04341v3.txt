@@ -1,0 +1,1 @@
+An n-ary associative function is called reducible if it can be written as a composition of a binary associative function. We summarize known results when the function is defined on a chain and is nondecreasing. Our main result shows that associative idempotent and nondecreasing functions are uniquely reducible.

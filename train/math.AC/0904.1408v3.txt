@@ -1,0 +1,1 @@
+In this paper we are concerned with the vanishing of \textnormal{Tor} over complete intersection rings. Building on results of C. Huneke, D. Jorgensen and R. Wiegand, and, more recently, H. Dao, we obtain new results showing that good depth properties on the R-modules M, N and M\otimes_RN force the vanishing of \textnormal{Tor}^{R}_{i}(M,N) for all i\geq 1.

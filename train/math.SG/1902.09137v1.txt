@@ -1,0 +1,1 @@
+We already showed that Betti numbers are all zero when w is not equal to h for (w,h)-doubly weighted homology groups of some special pre Lie superalgebra and showed the first Betti number is 0 when w = h. In this note, we show that the second Betti number is 0 when w = h.

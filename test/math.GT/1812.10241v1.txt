@@ -1,0 +1,1 @@
+Given a genus-g Heegaard splitting of the 3-sphere with g \ge 3, we show that the primitive disk complex for the splitting is not weakly closed under disk surgery operation. That is, there exist two primitive disks in one of the handlebodies of the splitting such that any disk surgery on one along the other one yields no primitive disks.

@@ -1,0 +1,1 @@
+We show that the group of bounded sequences of elements of \mathbb{Z}[\sqrt 2] is an example of an abelian group with several well known, and not so well known, pathological properties. It appears to be simpler than all previously known examples for some of these properties, and at least simpler to describe for others.

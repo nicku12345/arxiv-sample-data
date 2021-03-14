@@ -1,0 +1,1 @@
+For prime p\ge 7, by using Baker's method we obtain two explicit bounds in terms of p for the j-invariant of an integral point on X_{\ns}^{+}(p) which is the modular curve of level p corresponding to the normalizer of a non-split Cartan subgroup of \GL_2(\Z/p\Z).

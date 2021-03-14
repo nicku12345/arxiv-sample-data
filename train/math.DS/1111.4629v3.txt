@@ -1,0 +1,1 @@
+We extend a theorem of Herman from the case of unicritical polynomials to the case of polynomials with two finite critical values. This theorem states that Siegel disks of such polynomials, under a diophantine condition (called Herman's condition) on the rotation number, must have a critical point on their boundaries.

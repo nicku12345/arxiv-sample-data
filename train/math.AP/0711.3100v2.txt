@@ -1,0 +1,1 @@
+We review the proof of existence and uniqueness of solutions of the Maxwell-Schr"odinger system in a neighborhood of infinity in time, with prescribed asymptotic behaviour defined in terms of asymptotic data, without any restriction on the size of those data. That result is the basic step in the construction of modified wave operators for the Maxwell-Schr"odinger system.

@@ -1,0 +1,1 @@
+We compute the K-groups for the Cuntz-Krieger algebras \mathcal{O}_{A_{\mathcal{K}(f_{\mu})}}, where A_{\mathcal{K}(f_{\mu})} is the Markov transition matrix arising from the \textit{kneading sequence }\mathcal{K} (f_{\mu}) of the one-parameter family of real quadratic maps f_{\mu}.

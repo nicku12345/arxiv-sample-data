@@ -1,0 +1,1 @@
+We associate a geometric space to an arbitrary convex polytope. Our construction parallels the construction by D. Cox of a toric variety as a GIT quotient. The spaces that we obtain are endowed with a natural stratification and perfectly mimic the features of toric varieties associated to rational convex polytopes.

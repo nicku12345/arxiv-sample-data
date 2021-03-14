@@ -1,0 +1,1 @@
+We prove that a certain series defines a constant function using Wolpert's formula for the variation of the length of a geodesic along a Fenchel Nielsen twist. Subsequently we determine the value viewing it as function on the the Deligne Mumford compactification and evaluating it at the stable curve at infinity.

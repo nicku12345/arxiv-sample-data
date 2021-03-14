@@ -1,0 +1,1 @@
+We prove that the group of isometries of a metric measure space that satisfies the Riemannian curvature condition, RCD^*(K,N), is in fact a Lie group. We obtain an optimal upper bound on its dimension and classify the spaces where this maximal dimension is achieved.

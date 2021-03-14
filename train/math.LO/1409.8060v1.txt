@@ -1,0 +1,1 @@
+We show that any formula with two free variables in a VC-minimal theory has VC-codensity at most two. Modifying the argument slightly, we give a new proof of the fact that, in a VC-minimal theory where acl = dcl, the VC-codensity of a formula is at most the number of free variables.

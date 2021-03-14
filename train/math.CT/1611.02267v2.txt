@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions on a presentable infinity-category C so that families of objects of C form an infinity-topos. In particular, we prove a conjecture of Joyal that this is the case whenever C is stable.

@@ -1,0 +1,1 @@
+We define mutation pair in an n-angulated category and prove that given such a mutation pair, the corresponding quotient category carries a natural n-angulated structure. This result generalizes a theorem of Iyama-Yoshino in classical triangulated category. As an application, we obtain that the quotient category of a Frobenius n-angulated category is also an n-angulated category.

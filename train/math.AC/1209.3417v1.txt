@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring, \fa an ideal of R and M an R-module. We intend to establish the dual of Grothendieck's Vanishing Theorem for local homology modules. We conjecture that H^{\fa}_i(M)=0 for all i>\Mag_RM. We prove this in several cases.

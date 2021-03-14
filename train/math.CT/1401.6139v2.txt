@@ -1,0 +1,1 @@
+We prove that Leibniz homology of Lie algebras can be described as functor homology in the category of linear functors from a category associated to the Lie operad.

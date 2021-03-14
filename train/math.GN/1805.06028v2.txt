@@ -1,0 +1,1 @@
+In this note we are concerned with the validity of an uncountable analogue of a combinatorial lemma due to Vlastimil Pt\'ak. We show that the validity of the result for \omega_1 can not be decided in ZFC alone. We also provide a sufficient condition, for a class of larger cardinals.

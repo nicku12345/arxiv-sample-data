@@ -1,0 +1,1 @@
+A 2-form between two sup-lattices L and R is defined to be a sup-lattice bimorphism L x R -> 2. Such 2-forms are equivalent to Galois connections, and we study them and their relation to quantales, involutive quantales and quantale modules. As examples we describe applications to C*-algebras.

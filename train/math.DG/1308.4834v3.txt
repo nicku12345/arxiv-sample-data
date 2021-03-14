@@ -1,0 +1,1 @@
+We consider a 3-dimensional Riemannian manifold M with two circulant structures -- a metric g and an endomorphism q whose third power is identity. The structure q is compatible with g such that an isometry is induced in any tangent space of M. We obtain some curvature properties of this manifold (M, g, q) and give an explicit example of such a manifold.

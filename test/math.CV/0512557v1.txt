@@ -1,0 +1,1 @@
+We study holomorphic families of polynomial-like maps depending on a parameter s. We prove that the partial sums of largest Lyapunov exponents are plurisubharmonic functions of s. We also study their continuity and introduce the bifurcation locus as the support of bifurcation currents.

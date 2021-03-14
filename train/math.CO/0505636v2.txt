@@ -1,0 +1,1 @@
+We solve some recurrences given by E. Munarini and N. Zagaglia Salvi proving explicit closed formulas for Whitney numbers of the distributive lattices of order ideals of the fence poset and crown poset. Moreover, we get explicit closed formulas for Whitney numbers of lattices of order ideals of fences with higher asymmetric peaks.

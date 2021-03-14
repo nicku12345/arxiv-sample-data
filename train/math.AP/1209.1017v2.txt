@@ -1,0 +1,1 @@
+We consider the hyperbolic-elliptic version of the Davey-Stewartson system with cubic nonlinearity posed on the two dimensional torus. A natural setting for studying blow up solutions for this equation takes place in H^s, 1/2 < s < 1. In this paper, we prove a lower bound on the blow up rate for these regularities.

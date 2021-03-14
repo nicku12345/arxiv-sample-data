@@ -1,0 +1,1 @@
+Let X be a smooth, connected, closed subvariety of a complex vector space V. The asymptotic cone as(X) is naturally equipped with a nearby cycles sheaf P coming from the specialization of X to as(X). We show that if X is transverse to infinity in a suitable sense, then the Fourier transform of P is an intersection homology sheaf.

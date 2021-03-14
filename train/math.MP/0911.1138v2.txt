@@ -1,0 +1,1 @@
+We present a variational approach to a general Lienard-type equation in order to linearize it and, as an example, the Van der Pol oscillator is discussed. The new equation which is almost linear is factorized. The point symmetries of the deformed equation are also discussed and the two-dimensional Lie algebraic generators are obtained.

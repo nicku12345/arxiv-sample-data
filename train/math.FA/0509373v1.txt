@@ -1,0 +1,1 @@
+For a compact metric space K the space \Lip(K) has the Daugavet property if and only if the norm of every f \in \Lip(K) is attained locally. If K is a subset of an L_p-space, 1<p<\infty, this is equivalent to the convexity of K.

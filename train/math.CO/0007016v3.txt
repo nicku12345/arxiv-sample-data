@@ -1,0 +1,1 @@
+In this paper, explicit formulae for the expectation and the variance of descent functions on random standard Young tableaux are presented. Using these, it is shown that the normalized variance, V/E^2, is bounded if and only if a certain inequality relating tableau shape to the descent function holds.

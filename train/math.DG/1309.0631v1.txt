@@ -1,0 +1,1 @@
+We develop an essentially algebraic method to study biharmonic curves into an implicit surface. Although our method is rather general, it is especially suitable to study curves into surfaces defined by a polynomial equation: in particular, we use it to give a complete classification of biharmonic curves into real quadrics of the 3-dimensional Euclidean space.

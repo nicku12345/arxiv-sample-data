@@ -1,0 +1,1 @@
+We consider the elasticity operator with zero Poisson's ratio on an infinite strip and an infinite plate with a horizontal crack. We prove an asymptotic formula for the distance of the embedded eigenvalues to some spectral threshold of the operator as the crack becomes small.

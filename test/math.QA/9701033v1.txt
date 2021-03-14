@@ -1,0 +1,1 @@
+In the Hopf algebra GL_{p,q}(2) the determinant is central iff p=q. In this case we put determinant to be equal to 1 to get SL_q(2). In this paper I consider the case when p/q is a root of unity; and, consequently, a power of the determinant is central.

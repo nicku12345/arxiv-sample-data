@@ -1,0 +1,1 @@
+The method of potential envelopes is used to analyse the bound state spectrum of the Schroedinger Hamiltonian H=-\Delta+V(r), where the Hellmann potential is given by V(r) = -A/r + Be^{-Cr}/r, A and C are positive, and B can be positive or negative. We established simple formulas yielding upper and lower bounds for all the energy eigenvalues.

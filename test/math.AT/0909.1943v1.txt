@@ -1,0 +1,1 @@
+We prove the following result of V. Voevodsky. If S is a finite dimensional noetherian scheme such that S=\cup_\alpha\Spec(R_\alpha) for {\em countable} rings R_\alpha, then the stable motivic homotopy category over S satisfies Brown representability.

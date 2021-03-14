@@ -1,0 +1,1 @@
+We prove that the coefficients of the colored Jones polynomial of alternating links stabilize under increasing the number of twists in the twist regions of the link diagram. This gives us an infinite family of q-power series derived from the colored Jones polynomial parametrized by the color and the twist regions of the alternating link diagram.

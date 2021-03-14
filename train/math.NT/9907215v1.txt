@@ -1,0 +1,1 @@
+If G is a pro-p, p-adic, Lie group and if \Lambda(G) denotes the Iwasawa algebra of G then we present a formula for determining the \Lambda(G)-rank of a finitely generated \Lambda(G)-module. This is given in terms of the G homology groups of the module. We explore some consequences of this for the structure of \Lambda(G)-modules.

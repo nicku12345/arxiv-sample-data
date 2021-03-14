@@ -1,0 +1,1 @@
+Let X be a K3 surface with a primitive ample divisor H, and let \beta=2[H]\in H_2(X, \mathbf Z). We calculate the Gromov-Witten type invariants n_{\beta} by virtue of Euler numbers of some moduli spaces of stable sheaves. Eventually, it verifies Yau-Zaslow formula in the non primitive class \beta.

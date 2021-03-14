@@ -1,0 +1,1 @@
+The upper estimate of the percolation threshold of the Bernoulli random field on the hexagonal lattice is found. It is done on the basis of the cluster decomposition. Each term of the decomposition is estimated using the number estimate of cycles on the hexagonal lattice which represent external borders of possible finite clusters containing the fixed lattice vertex.

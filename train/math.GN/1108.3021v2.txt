@@ -1,0 +1,1 @@
+The fundamental groupoid of a space becomes enriched over the category of topological spaces when the hom-sets are endowed with topologies intimately related to universal constructions of topological groups. This paper is devoted to a generalization of classical covering theory in the context of this construction.

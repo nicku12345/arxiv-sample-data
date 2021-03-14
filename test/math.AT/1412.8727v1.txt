@@ -1,0 +1,1 @@
+We list special graphs of degree 4 with at most 3 vertices (atoms from the theory of integrable hamiltonian systems) which could be represented by a union of closed geodesics on the one of the following surfaces with metric of constant curvature: sphere, projective plane, torus, Klein bottle.

@@ -1,0 +1,1 @@
+We give a short proof of It\^o's formula for stochastic Hilbert-space valued processes in the setting V\subset H\subset V^{*} based on the possibility to lift the stochastic differentials, which are originally in V^{*}, into H. Using this result we also prove the maximum principle for second-order SPDEs in arbitrary domains.

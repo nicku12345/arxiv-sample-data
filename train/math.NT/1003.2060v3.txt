@@ -1,0 +1,1 @@
+We first give a condition on the parameters s,w under which the Hurwitz zeta function \zeta(s,w) has no zeros and is actually negative. As a corollary we derive that it is nonzero for w\geq 1 and s\in(0,1) and, as a particular instance, the known result that the classical zeta function has no zeros in (0,1).

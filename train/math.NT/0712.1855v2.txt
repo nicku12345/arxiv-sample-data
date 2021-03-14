@@ -1,0 +1,1 @@
+A variation of multiple L-values, which arises from the description of the special values of the spectral zeta function of the non-commutative harmonic oscillator, is introduced. In some special cases, we show that its generating function can be written in terms of the gamma functions. This result enables us to obtain explicit evaluations of them.

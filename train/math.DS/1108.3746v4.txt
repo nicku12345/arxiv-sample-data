@@ -1,0 +1,1 @@
+We analyze the Lyapunov spectrum of the relative Ruelle operator associated with a skew product whose base is an ergodic automorphism and whose fibers are full shifts. We prove that these operators can be approximated in the C^0-topology by positive matrices with an associated dominated splitting.

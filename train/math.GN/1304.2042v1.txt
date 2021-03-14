@@ -1,0 +1,1 @@
+We prove that for each meager relation E\subset X\times X on a Polish space X there is a nowhere meager subspace F\subset X which is E-free in the sense that (x,y)\notin E for any distinct points x,y\in F.

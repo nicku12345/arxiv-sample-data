@@ -1,0 +1,1 @@
+We show that if a list of nonzero complex numbers \sigma=(\lambda_1,\lambda_2,\ldots,\lambda_k) is the nonzero spectrum of a diagonalizable nonnegative matrix, then \sigma is the nonzero spectrum of a diagonalizable nonnegative matrix of order k+k^2.

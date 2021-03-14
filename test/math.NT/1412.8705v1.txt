@@ -1,0 +1,1 @@
+Let  (H_s(n))_{n \geq 1}  be an s-dimensional Halton's sequence. Let D_N be the discrepancy of the sequence  (H_s(n))_{n = 1}^{N} . It is known that ND_N =O(\ln^s N) as N \to \infty .   In this paper we prove that this estimate is exact:      \overline{\lim}_{ N \to \infty} N \ln^{-s}(N) D_N >0.   

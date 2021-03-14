@@ -1,0 +1,1 @@
+We show that Riesz transforms associated to the Grushin operator G = -\Delta - |x|^2\partial_t^2 are bounded on L^p(R^n+1). We also establish an analogue of H\"ormander-Mihlin multiplier theorem and study Bochner-Riesz means associated to the Grushin operator. The main tools used are Littlewood-Paley theory and an operator valued Fourier multiplier theorem due to L. Weis.

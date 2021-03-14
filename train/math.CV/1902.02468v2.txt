@@ -1,0 +1,1 @@
+We extend Quine's bound on the number of self-intersection of curves with polynomial parameterization to the case of Laurent polynomials. As an application, we show that circle embeddings are dense among all maps from a circle to a plane with respect to an integral norm.

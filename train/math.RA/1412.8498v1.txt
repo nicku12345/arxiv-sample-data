@@ -1,0 +1,1 @@
+We prove the following conjecture by S. Carpentier, A. De Sole, and V. G. Kac: Let K be a differential field and R be a differential subring of K. Let M be a matrix whose elements are differential operators with coefficents in R. Then, if M has degeneracy degree 1, the Dieudonne' determinant of M lies in R.

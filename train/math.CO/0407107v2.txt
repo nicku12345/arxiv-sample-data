@@ -1,0 +1,1 @@
+Hofmman's bound on the chromatic number of a graph states that \chi \geq 1 - \frac {\lambda_1} {\lambda_n}. Here we show that the same bound, or slight modifications of it, hold for several graph parameters related to the chromatic number: the vector coloring number, the \psi-covering number and the \lambda-clustering number.

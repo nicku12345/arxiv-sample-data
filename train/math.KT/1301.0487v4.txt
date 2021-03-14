@@ -1,0 +1,1 @@
+Restriction of functions from a reductive p-adic group G to its compact subgroups defines an operator on the Hochschild and cyclic homology of the Hecke algebra of G. We study the commutation relations between this operator and others coming from representation theory: Jacquet functors, idempotents in the Bernstein centre, and characters of admissible representations.

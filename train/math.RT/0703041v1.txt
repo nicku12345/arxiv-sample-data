@@ -1,0 +1,1 @@
+Let G be a noncyclic group of order 4, and let K be the ring Z of rational integers, the localization of Z at the prime 2 and the ring of 2-adic integers, respectively. We describe, up to conjugacy, all of the indecomposable subgroups in the group GL(m,K) which are isomorphic to G.

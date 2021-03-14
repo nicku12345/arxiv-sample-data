@@ -1,0 +1,1 @@
+We prove that, except in some low-complexity cases, every locally injective simplicial map between pants graphs is induced by a \pi_1-injective embedding between the corresponding surfaces.

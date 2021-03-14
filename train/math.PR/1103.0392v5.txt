@@ -1,0 +1,1 @@
+In this paper, we introduce the idea of stochastic integrals with respect to an increasing process in the G-framework and extend G-It\^o's formula. Moreover, we study the solvability of the scalar valued stochastic differential equations driven by G-Brownian motion with reflecting boundary conditions (RGSDEs).

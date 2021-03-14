@@ -1,0 +1,1 @@
+We prove the following theorem: if w is a quasiconformal mapping of the unit disk onto itself satisfying elliptic partial differential inequality |L[w]|\le \mathcal{B}|\nabla w|^2+\Gamma, then w is Lipschitz continuous. This {result} extends some recent results, where instead of an elliptic differential operator is {only} considered {the} Laplace operator.

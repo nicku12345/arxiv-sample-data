@@ -1,0 +1,1 @@
+We show that every non-trivial tame knot or link in R^3 has a quadrisecant, i.e. four collinear points. The quadrisecant must be topologically non-trivial in a precise sense. As an application, we show that a nonsingular, algebraic surface in R^3 which is a knotted torus must have degree at least eight.

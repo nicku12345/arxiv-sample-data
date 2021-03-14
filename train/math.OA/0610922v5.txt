@@ -1,0 +1,1 @@
+Quantum families of maps between quantum spaces are defined and studied. We prove that quantum semigroup (and sometimes quantum group) structures arise naturally on such objects out of more fundamental properties. As particular cases we study quantum semigroups of maps preserving a fixed state and quantum commutants of given quantum families of maps.

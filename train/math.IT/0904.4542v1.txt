@@ -1,0 +1,1 @@
+In this paper, we generalize the well known cut-set bound to the problem of lossy transmission of functions of arbitrarily correlated sources over a discrete memoryless multiterminal network.

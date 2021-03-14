@@ -1,0 +1,1 @@
+In this paper, we apply quantitative operator K-theory to develop an algorithm for computing K-theory for the class of filtered C *-algebras with asymptotic finite nuclear decomposition. As a consequence, we prove the K{\"u}nneth formula for C *-algebras in this class. Our main technical tool is a quantitative Mayer-Vietoris sequence for K-theory of filtered C *-algebras.

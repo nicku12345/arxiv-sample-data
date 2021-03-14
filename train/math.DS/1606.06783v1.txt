@@ -1,0 +1,1 @@
+We give a subclass L of Non-linear Lalley-Gatzouras carpets and an open set U in L such that any carpet in U has a unique ergodic measure of full dimension. In particular, any Lalley-Gatzouras carpet which is close to a non-trivial general Sierpinski carpet has a unique ergodic measure of full dimension.

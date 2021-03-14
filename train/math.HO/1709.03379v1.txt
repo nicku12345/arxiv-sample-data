@@ -1,0 +1,1 @@
+If you cancel out the digit 6 from the ratio 16/64, you get the right answer by the wrong method. In 1979 R.P. Boas made an extensive study of such "anomalous cancellations" and generated many examples, in many bases. We continue his pioneering work, and generate many more examples, using the Extended Euclidean Algorithm.

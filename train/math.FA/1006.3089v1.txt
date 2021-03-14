@@ -1,0 +1,1 @@
+We prove that for each dense non-compact linear operator S:X\to Y between Banach spaces there is a linear operator T:Y\to c_0 such that the operator TS:X\to c_0 is not compact. This generalizes the Josefson-Nissenzweig Theorem.

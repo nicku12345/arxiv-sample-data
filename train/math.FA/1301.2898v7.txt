@@ -1,0 +1,1 @@
+We give a characterization of the extremal sequences for the Bellman function of the dyadic maximal operator.In fact we prove that they behave approximately like eigenfunctions of this operator for a specific eigenvalue.

@@ -1,0 +1,1 @@
+We study a class of quasi-cyclic LDPC codes. We provide precise conditions guaranteeing high girth in their Tanner graph. Experimentally, the codes we propose perform no worse than random LDPC codes with their same parameters, which is a significant achievement for algebraic codes.

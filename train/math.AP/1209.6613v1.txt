@@ -1,0 +1,1 @@
+In this paper we study the equation Lu=f, where L is a \C-valued vector field in \R^2 with a homogeneous singularity. The properties of the solutions are linked to the number theoretic properties of a pair of complex numbers attached to the vector field.

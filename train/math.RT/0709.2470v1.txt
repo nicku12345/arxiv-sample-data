@@ -1,0 +1,1 @@
+Paul Van Dooren [Linear Algebra Appl. 27 (1979) 103-140] constructed an algorithm for the computation of all irregular summands in Kronecker's canonical form of a matrix pencil. The algorithm is numerically stable since it uses only unitary transformations. We extend Paul Van Dooren's algorithm to the matrices of a cycle of linear mappings.

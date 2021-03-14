@@ -1,0 +1,1 @@
+To a presentation of an oriented link as the closure of a braid we assign a complex of bigraded vector spaces. The Euler characteristic of this complex (and of its triply-graded cohomology groups) is the HOMFLYPT polynomial of the link. We show that the dimension of each cohomology group is a link invariant.

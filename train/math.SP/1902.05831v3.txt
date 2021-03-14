@@ -1,0 +1,1 @@
+We study the eigenvalues of the Dirichlet-to-Neumann operator on a finite subgraph of the integer lattice Zn. We estimate the first n+1 eigenvalues using the number of vertices of the subgraph. As a corollary, we prove that the first non-trivial eigenvalue of the Dirichlet-to-Neumann operator tends to zero as the number of vertices of the subgraph tends to infinity.

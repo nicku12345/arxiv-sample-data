@@ -1,0 +1,1 @@
+In this paper, we provide upper and lower estimates for the minimal number of functions needed to represent a bounded variation function with an accuracy of epsilon with respect to {\bf L}^1-distance.

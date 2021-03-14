@@ -1,0 +1,1 @@
+Let X be a space and write LX for its free loop space equipped with the action of the circle group T given by dilation. We compute the equivariant cohomology H^*(LX_hT; Z/p) as a module over H^*(BT; Z/p) when X=CP^r for any positive integer r and any prime number p. The computation implies that the associated mod p Serre spectral sequence collapses from the E_3-page.

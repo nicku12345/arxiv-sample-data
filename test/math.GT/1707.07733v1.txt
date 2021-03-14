@@ -1,0 +1,1 @@
+We describe the polynomial time complexity algorithm for computing first coefficients of the skein (Homflypt) and Kauffman polynomial invariants of links, discovered by D.Vertigan in 1992 but never published.

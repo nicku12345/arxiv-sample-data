@@ -1,0 +1,1 @@
+We develop relative oscillation theory for Jacobi matrices which, rather than counting the number of eigenvalues of one single matrix, counts the difference between the number of eigenvalues of two different matrices. This is done by replacing nodes of solutions associated with one matrix by weighted nodes of Wronskians of solutions of two different matrices.

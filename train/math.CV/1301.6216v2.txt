@@ -1,0 +1,1 @@
+Let H(D) denote the space of holomorphic functions on the unit disk D. We characterize those radial weights w on D, for which there exist functions f, g \in H(D) such that the sum |f| + |g| is equivalent to w. Also, we obtain similar results in several complex variables for circular, strictly convex domains with smooth boundary.

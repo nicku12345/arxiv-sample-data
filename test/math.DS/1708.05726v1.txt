@@ -1,0 +1,1 @@
+We propose and investigate an SEI infection's age model with a general class of nonlinear incidence rates. We give a necessary and sufficient condition for global asymptotic stability of the free-equilibrium related to the basic reproduction number. By using Lyapunov functionals, we show the global asymptotic stability of the endemic equilibrium whenever it exists.

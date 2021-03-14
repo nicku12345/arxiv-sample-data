@@ -1,0 +1,1 @@
+The aim of this paper is to introduce a new Newton-type iterative method and then to show that this process converges to the unique solution of the scalar nonlinear equation f(x)=0 under weaker conditions involving only f and f' by fixed point techniques. Also, by using this iteration process quite new nicely looking graphics are obtained.

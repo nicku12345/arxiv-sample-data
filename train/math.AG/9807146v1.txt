@@ -1,0 +1,1 @@
+For an affine variety S we consider the ring AK(S), which is the intersection of the rings of constants of all locally-nilpotent derivations of the ring \Cal {O}(S). We show that AK(S\times\Bbb {C}^n)=AK(S) for a smooth affine surface S with H^2(S,\Bbb {Z})=\{0\}.

@@ -1,0 +1,1 @@
+We prove that, with probability one, eventually there are no more than three favourite (i.e. most visited) sites of simple random walk. This partially answers a relatively long standing question of Pal Erdos and Pal Revesz.

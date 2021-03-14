@@ -1,0 +1,1 @@
+We show that each of Veech's original examples of translation surfaces with ``optimal dynamics'' whose trace field is of degree greater than two has non-periodic directions of vanishing SAF-invariant. Furthermore, we give explicit examples of pseudo-Anosov diffeomorphisms whose contracting direction has zero SAF-invariant.

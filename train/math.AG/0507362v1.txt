@@ -1,0 +1,1 @@
+We study the Noether-Lefschetz locus of a very ample line bundle L on an arbitrary smooth threefold Y. Building on results of Green, Voisin and Otwinowska, we give explicit bounds, depending only on the Castelnuovo-Mumford regularity properties of L, on the codimension of the components of the Noether-Lefschetz locus of |L|.

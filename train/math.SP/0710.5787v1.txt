@@ -1,0 +1,1 @@
+We compute the Selberg trace formula for Hecke operators (also called the trace formula for modular correspondences) in the context of cocompact Kleinian groups with finite-dimentional unitary representations. We give some applications to the distribution of Hecke eigenvalues, and give an analogue of Huber's theorem.

@@ -1,0 +1,1 @@
+This paper defines the concept of an oriented quantum algebra and develops its application to the construction of quantum link invariants. We show that all known quantum link invariants can be put into this framework.

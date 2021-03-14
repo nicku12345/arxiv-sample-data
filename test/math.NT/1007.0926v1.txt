@@ -1,0 +1,1 @@
+The following theorem is proven: Both real and imaginary parts of the function F(s) defined as F(s)=zeta(s)*Gamma(s/2)*pi**(-s/2)=xi(s)/(s*(s-1)), and whose zeroes exactly coincide with the non-trivial zeroes of the Riemann zeta-function, have infinitely many zeroes for any value of Re(s).

@@ -1,0 +1,1 @@
+We build on the correspondence between Petri nets and free symmetric strict monoidal categories already investigated in the literature, and present a categorical semantics for Petri nets with guards. This comes in two flavors: Deterministic and with side-effects. Using the Grothendieck construction, we show how the guard semantics can be internalized in the net itself.

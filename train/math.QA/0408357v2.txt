@@ -1,0 +1,1 @@
+Almost integral TQFTs were introduced by Gilmer [Duke Math. J. 125 (2004) 389--413]. The aim of this paper is to modify the TQFT of the category of extended 3-cobordisms given by Turaev (in his book: Quantum invariants of knots and 3-manifolds) to obtain an almost integral TQFT.

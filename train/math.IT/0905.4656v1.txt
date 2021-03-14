@@ -1,0 +1,1 @@
+In this Letter, we show that under the assumption of high resolution, the quantization errors of fGn and fBm signals with uniform quantizer can be treated as uncorrelated white noises.

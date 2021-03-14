@@ -1,0 +1,1 @@
+We look at the topology of the tiling space of locally random Fibonacci substitution, which is defined as a-->ba with probability p, a-->ab with probability 1-p and b-->a for 0<p<1. We show that its Cech cohomology group is not finitely generated, in contrast to the case where random substitutions are applied globally.

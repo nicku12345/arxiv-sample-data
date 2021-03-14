@@ -1,0 +1,1 @@
+We consider the algebra {\cal E}_n(u) introduced by F. Aicardi and J. Juyumaya as an abstraction of the Yokonuma-Hecke algebra. We construct a tensor space representation for {\cal E}_n(u) and show that this is faithful. We use it to give a basis for {\cal E}_n(u) and to classify its irreducible representations.

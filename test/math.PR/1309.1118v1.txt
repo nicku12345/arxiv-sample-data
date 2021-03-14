@@ -1,0 +1,1 @@
+We consider anisotropic independent bond percolation models on the slab \Z^2\times\{0,\dots,k\}, where we suppose that the axial (vertical) bonds are open with probability p, while the radial (horizontal) bonds are open with probability q. We study the critical curves for these models and establish their continuity and strict monotonicity.

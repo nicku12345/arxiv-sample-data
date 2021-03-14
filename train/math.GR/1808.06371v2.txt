@@ -1,0 +1,1 @@
+We show that any subgroup of a finitely generated virtually abelian group G grows rationally relative to G, that the set of right cosets of any subgroup of G grows rationally, and that the set of conjugacy classes of G grows rationally. These results hold regardless of the choice of finite weighted generating set for G.

@@ -1,0 +1,1 @@
+In the paper we first construct a new cotorsion pair, in the category of chain complexes, from two given cotorsion pairs in the category of modules, and then we consider completeness of such pairs under certain conditions.

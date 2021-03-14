@@ -1,0 +1,1 @@
+We define and study the 2-category of torsors over a Picard groupoid, a central extension of a group by a Picard groupoid, and commutator maps in this central extension. Using it in the context of two-dimensional local fields and two-dimensional adelic theory we obtain the two-dimensional tame symbol and a new proof of Parshin reciprocity laws on an algebraic surface.

@@ -1,0 +1,1 @@
+We give some real polynomials in two variables of degrees 4, 5, and 6 whose hessian curves have more connected components than had been known previously. In particular, we give a quartic polynomial whose hessian curve has 4 compact connected components (ovals), a quintic whose hessian curve has 8 ovals, and a sextic whose hessian curve has 11 ovals.

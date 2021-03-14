@@ -1,0 +1,1 @@
+Let X be a co-H-space of (p-1)-cell complex with all cells in even dimensions. Then the loop space \Omega X admits a retract \bar A^{\min}(X) that is the evaluation of the functor \bar A^{\min} on X. In this paper, we determine the homology H_*(\bar A^{\min}(X)) and give the \EHP sequence for the spaces \bar A^{\min}(X).

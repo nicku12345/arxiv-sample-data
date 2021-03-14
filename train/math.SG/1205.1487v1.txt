@@ -1,0 +1,1 @@
+Holomorphic 2-forms on K\"{a}hler surfaces lead to "Local Gromov-Witten invariants" of spin curves. This paper shows how to derive sum formulas for such local GW invariants from the sum formula for GW invariants of certain ruled surfaces. These sum formulas also verify the Maulik-Pandharipande formulas that were recently proved by Kiem and Li.

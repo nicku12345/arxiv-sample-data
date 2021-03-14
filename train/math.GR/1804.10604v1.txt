@@ -1,0 +1,1 @@
+In this note we refine examples by Aka from arithmetic to S-arithmetic groups to show that the vanishing of the i-th \ell^2-Betti number is not a profinite invariant for all i \ge 2.

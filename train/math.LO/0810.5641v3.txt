@@ -1,0 +1,1 @@
+In a previous paper, we introduced a way of constructing a forcing along a simplified gap-1 morass such that the forcing satisfies a chain condition. Now, we generalize this to gap-2 morasses. As an application, we prove that GCH is consistent with the existence of a 0-dimensional Hausdorff topology on \omega_3 which has spread \omega_1.

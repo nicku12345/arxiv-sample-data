@@ -1,0 +1,1 @@
+We establish endpoint Lebesgue space bounds for convolution and restricted X-ray transforms along curves satisfying fairly minimal differentiability hypotheses, with affine and Euclidean arclengths. We also explore the behavior of certain natural interpolants and extrapolants of the affine and Euclidean versions of these operators.

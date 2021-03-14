@@ -1,0 +1,1 @@
+This note is an exposition of Waldhausen's proof of Waldhausen's Theorem: the three-sphere has a single Heegaard splitting, up to isotopy, in every genus. As a necessary step we also give a sketch of the Reidemeister-Singer Theorem.

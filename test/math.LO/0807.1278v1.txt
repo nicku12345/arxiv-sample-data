@@ -1,0 +1,1 @@
+In this paper we enrich the orthomodular structure by adding a modal operator, following a physical motivation. A logical system is developed, obtaining algebraic completeness and completeness with respect to a Kripke-style semantic founded on Baer *-semigroups as in [20].

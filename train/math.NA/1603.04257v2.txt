@@ -1,0 +1,1 @@
+We discretize the Lagrange multiplier formulation of the obstacle problem by mixed and stabilized finite element methods. A priori and a posteriori error estimates are derived and numerically verified.

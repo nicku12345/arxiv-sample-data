@@ -1,0 +1,1 @@
+In this paper we present an equivalent form of Granger noncausality in state space representation. As a generalization of this result, necessary and sufficient conditions are provided for an output process to admit a particular minimal coordinated state space representation.

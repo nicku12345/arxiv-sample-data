@@ -1,0 +1,1 @@
+Let n,p,k be three positive integers. We prove that the numbers binomial (n,k) 3F2 (1-k, -p, p-n ; 1, 1-n ; 1) are positive integers which generalize the classical binomial coefficients. We give two generating functions for these integers, and a straightforward application.

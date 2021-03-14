@@ -1,0 +1,1 @@
+The triangular ratio metric is studied in a domain G\subsetneq\mathbb{R}^n, n\geq2. Several sharp bounds are proven for this metric, especially, in the case where the domain is the unit disk of the complex plane. The results are applied to study the H\"older continuity of quasiconformal mappings.

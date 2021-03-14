@@ -1,0 +1,1 @@
+Given a type I von Neumann algebra M with a faithful normal semi-finite trace \tau, let S_0(M, \tau) be the algebra of all \tau-compact operators affiliated with M. We give a complete description of all derivations on the algebra S_0(M, \tau). In particular, we prove that if M is of type I_\infty then every derivation on S_0(M, \tau) is spatial.

@@ -1,0 +1,1 @@
+This article considers the positive integers N for which \zeta_{N}(s) = \sum_{n=1}^{N} n^{-s} has zeroes in the half-plane \Re(s)>1. Building on earlier results, we show that there are no zeroes for 1\leq N\leq 18 and for N=20, 21, 28. For all other N there are infinitely many zeroes.

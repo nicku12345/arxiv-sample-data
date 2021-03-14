@@ -1,0 +1,1 @@
+Permutation polynomials are an interesting subject of mathematics and have applications in other areas of mathematics and engineering. In this paper, we develop general theorems on permutation polynomials over finite fields. As a demonstration of the theorems, we present a number of classes of explicit permutation polynomials on \gf_q.

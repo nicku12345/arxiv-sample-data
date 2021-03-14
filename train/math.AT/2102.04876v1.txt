@@ -1,0 +1,1 @@
+We exhibit a Quillen equivalence between two model categories encoding the homotopy theory of stratified spaces : the model category of filtered simplicial sets, and that of filtered spaces. Additionally, we introduce a new class of filtered spaces, that of vertical filtered CW-complexes, providing a nice model for the homotopy category of stratified spaces.

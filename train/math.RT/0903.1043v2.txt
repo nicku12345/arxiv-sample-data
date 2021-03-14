@@ -1,0 +1,1 @@
+We define an exact functor F_{n,k} from the category of Harish-Chandra modules for GL(n,R) to the category of finite-dimensional representations for the degenerate affine Hecke algebra for gl(k). Under certain natural hypotheses, we prove that the functor maps standard modules to standard modules (or zero) and irreducibles to irreducibles (or zero).

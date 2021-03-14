@@ -1,0 +1,1 @@
+In this article we consider a system of eikonal equations with a Dirichlet boundary condition. We propose a variational method to select the class of solutions which minimize the discontinuity set of the gradient.

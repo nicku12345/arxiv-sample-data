@@ -1,0 +1,1 @@
+We consider the phenomenon of spectral pollution arising in calculation of spectra of self-adjoint operators by projection methods. We suggest a strategy of dealing with spectral pollution by using the so-called second order relative spectra. The effectiveness of the method is illustrated by a detailed analysis of two model examples.

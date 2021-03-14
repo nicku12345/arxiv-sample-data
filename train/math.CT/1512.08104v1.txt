@@ -1,0 +1,1 @@
+In this paper we consider the class of l-bijective C-systems, i.e., C-systems for which the length function is a bijection. The main result of the paper is a construction of an isomorphism between two categories - the category of l-bijective C-systems and the category of Lawvere theories.

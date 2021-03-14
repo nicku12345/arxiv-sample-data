@@ -1,0 +1,1 @@
+We give an example of a finite rank, in fact aleph-1 categorical theory where the CBP (canonical base property) does not hold. We include a "group-like" example. We also prove, in a finite Morley rank context, if all definable Galois groups are "rigid" then the theory has the CBP (in a strong sense).

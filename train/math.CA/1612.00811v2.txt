@@ -1,0 +1,1 @@
+We construct a Schwartz function \varphi such that for every exponentially small perturbation of integers \Lambda, the set of translates \{\varphi(t-\lambda), \lambda\in\Lambda\} spans the space L^p(R), for every p > 1. This result remains true for more general function spaces X, whose norm is "weaker" than L^1 (on bounded functions).

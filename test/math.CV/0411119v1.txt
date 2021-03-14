@@ -1,0 +1,1 @@
+We continue our study of the variation of parabolic cohomology (math.AG/0310139) and derive an exact formula for the underlying Poincare duality. As an illustration of our methods, we compute the monodromy of the Picard-Euler system and its invariant Hermitian form, reproving a classical theorem of Picard.

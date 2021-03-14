@@ -1,0 +1,1 @@
+Using the symmetric monoidal closed category structure of the category of measurable spaces, in conjunction with the Giry monad which we show is a strong monad, we analyze Bayesian inference maps and their construction in relation to the tensor product probability. This perspective permits the inference maps to be seen as a pullback construction.

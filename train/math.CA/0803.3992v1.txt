@@ -1,0 +1,1 @@
+In this paper, it is proved that, in a dual context, asymptotic expansions of ordinary linear time-differential equations which possess limiting equations to their limiting equations might be obtained by first discretizing them and then using residues calculation for such discrete- time counterparts

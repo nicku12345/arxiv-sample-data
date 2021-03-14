@@ -1,0 +1,1 @@
+For an infinitesimal symplectic action of a Lie algebra {\goth g} on a symplectic manifold, we construct an infinitesimal crossed product of Hamiltonian vector fields and Lie algebra {\goth g}. We obtain its second crossed product in case {\goth g}=R and show an infinitesimal version for a theorem type of Takesaki duality.

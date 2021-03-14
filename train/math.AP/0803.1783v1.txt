@@ -1,0 +1,1 @@
+We give a partial uniqueness result concerning comparable renormalized solutions of the nonlinear elliptic problem -\diw(\aop(x,Du))=\mu in \Omega, u=0 on \partial\Omega, where \mu is a Radon measure with bounded variation on \Omega.

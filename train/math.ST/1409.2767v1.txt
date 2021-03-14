@@ -1,0 +1,1 @@
+We derive the posteror contraction rate for non-parametric Bayesian estimation of a deterministic dispersion coefficient of a linear stochastic differential equation.

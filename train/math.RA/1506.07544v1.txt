@@ -1,0 +1,1 @@
+A commutative ring R is locally stable provided that for any a,b\in R such that aR+bR=R, there exist some y\in R such that R/(a+by)R has stable range 1.For a Bezout ring R, we prove that R is an elementary divisor ring if and only if R is locally stable if and only if R has neat range 1.

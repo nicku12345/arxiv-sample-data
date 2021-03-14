@@ -1,0 +1,1 @@
+We give a short proof of the Cauchy-Binet determinantal formula using multilinear algebra by first generalizing it to an identity {\em not} involving determinants. By extending the formula to abstract Hilbert spaces we obtain, as a corollary, a generalization of the classical Parseval identity.

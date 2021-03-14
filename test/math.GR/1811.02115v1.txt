@@ -1,0 +1,1 @@
+We construct the groups <A,B,C \;| \, A^2,B^2,C^2,(ABC)^2> and <A,B \;| \, A^2,B^4,(AB)^4>, using 3-state automata over the alphabets \{1,2,3\} and \{1,2,3,4\}. In addition, we show, how to define direct powers of G by automaton (when for G it's given), keeping the alphabet.

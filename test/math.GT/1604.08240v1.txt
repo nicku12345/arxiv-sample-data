@@ -1,0 +1,1 @@
+Let Y be a closed and oriented 3-manifold. We define different versions of unfolded Seiberg-Witten Floer spectra for Y. These invariants generalize Manolescu's Seiberg-Witten Floer spectrum for rational homology 3-spheres. We also compute some examples when Y is a Seifert space.

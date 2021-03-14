@@ -1,0 +1,1 @@
+Trivalent 2-stratifolds are a generalization of 2-manifolds in that there are disjoint simple closed curves where three sheets meet. We obtain a classification of 1-connected 2-stratifolds in terms of their associated labeled graphs and develop operations that will construct from a single vertex all graphs that represent 1-connected 2-stratifolds.

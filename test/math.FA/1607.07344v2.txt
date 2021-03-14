@@ -1,0 +1,1 @@
+We prove that the play and the stop operator possess Newton and Bouligand derivatives, and exhibit formulas for those derivatives. The remainder estimate is given in a strenghtened form, and a corresponding chain rule is developed. The construction of the Newton derivative ensures that the mappings involved are measurable.

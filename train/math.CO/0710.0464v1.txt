@@ -1,0 +1,1 @@
+Osburn and Schneider derived several combinatorial identities involving harmonic numbers using the computer programm Sigma. Here, they are derived by partial fraction decomposition and creative telescoping.

@@ -1,0 +1,1 @@
+We prove the simmetry of the Burkill-Cesari integral and discuss its continuity with respect to both the  BV norm of Aumann and Shapley and to the Lipschitz norm. As a consequence, we provide an existence result of a value, different from the Aumann and Shapley's one, on a subspace of AC_\infty.

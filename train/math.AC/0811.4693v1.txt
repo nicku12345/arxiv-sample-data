@@ -1,0 +1,1 @@
+The t-class semigroup of an integral domain is the semigroup of fractional t-ideals modulo its subsemigroup of nonzero principal ideals with the operation induced by ideal t-multiplication. This paper investigates ring-theoretic properties of a Noetherian domain that reflect reciprocally in the Clifford or Boolean property of its t-class semigroup.

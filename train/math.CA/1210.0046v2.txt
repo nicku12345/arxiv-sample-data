@@ -1,0 +1,1 @@
+In this note we study the monotonicity of the function x\mapsto \psi(1 +bx)^a/\psi(1 + ax)^b. We also give the several inequalities involving the psi function, whic is the logarithmic derivative of the gamma function.

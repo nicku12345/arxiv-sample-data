@@ -1,0 +1,1 @@
+Selberg identified the "parity" barrior, that sieves alone cannot distinguish between integers having an even or odd number of factors. We give here a short and self-contained demonstration of parity breaking using bilinear forms, modeled on the Twin Primes Conjecture.

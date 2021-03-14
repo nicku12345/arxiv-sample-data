@@ -1,0 +1,1 @@
+Given an arbitrary three-dimensional correlation matrix, we prove that there exists a three-dimensional joint distribution for the random variable (X,Y,Z) such that X,Y and Z are identically distributed with beta distribution \beta_{k,k}(dx) on (0,1) if k\geq 1/2. This implies that any correlation structure can be attained for three-dimensional copulas.

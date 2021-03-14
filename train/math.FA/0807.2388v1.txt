@@ -1,0 +1,1 @@
+We construct a Hereditarily Indecomposable Banach space \eqs_d with a Schauder basis \seq{e}{n} on which there exist strictly singular non-compact diagonal operators. Moreover, the space \mc{L}_{\diag}(\eqs_d) of diagonal operators with respect to the basis \seq{e}{n} contains an isomorphic copy of \ell_{\infty}(\N).

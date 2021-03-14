@@ -1,0 +1,1 @@
+We define convexity canonically in the setting of monoids. We show that many classical results from convex analysis hold for functions defined on such groups and semigroups, rather than only on vector spaces. Some examples and counter-examples are also discussed.

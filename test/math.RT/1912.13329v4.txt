@@ -1,0 +1,1 @@
+Let G be a semisimple simply connected group of simply laced type over C. We show that the flag manifold of G has a version defined over the "tropical" semifield Z on which the monoid G(Z) associated to G and the semifield Z acts.

@@ -1,0 +1,1 @@
+In 1982, Seebold showed that the only overlap-free binary words that are the fixed points of non-identity morphisms are the Thue-Morse word and its complement. We strengthen Seebold's result by showing that the same result holds if the term 'overlap-free' is replaced with '7/3-power-free'. Furthermore, the number 7/3 is best possible.

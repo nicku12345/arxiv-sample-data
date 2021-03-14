@@ -1,0 +1,1 @@
+We introduce a discrete delayed exponential depending on sequence of matrices. This discrete matrix gives a representation of a solution to the Cauchy problem for a discrete linear system with pure delay with sequence of matrices. We discard the commutativity condition used in recent works related to the representation of solutions for discrete delay linear systems.

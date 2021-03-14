@@ -1,0 +1,1 @@
+We construct a family of self-adjoint operators D_N which have compact resolvent and bounded commutators with the coordinate algebra of the quantum projective space CP_q(l), for any l>1 and 0<q<1. They provide 0^+ dimensional equivariant even spectral triples. If l is odd and N=(l+1)/2, the spectral triple is real with KO-dimension 2l mod 8.

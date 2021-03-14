@@ -1,0 +1,1 @@
+The problem of linear equivalence for a general class of nonlinear systems, is examined throughout this paper. A relevant algorithm is developed, based on a factorization procedure. This factorization is based on the star-product, an operation corresponding to the cascade connection of systems.

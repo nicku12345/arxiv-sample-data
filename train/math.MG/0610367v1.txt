@@ -1,0 +1,1 @@
+We compute the horizontal Hessian of the signed Carnot-Charatheodory distance from a surface S in the Heisenberg group H. The expression for the Hessian is in terms of the surface's intrinsic curvatures. As an application, we compute the horizontal Hessian of the Carnot-Charatheodory distance from a point in H.

@@ -1,0 +1,1 @@
+We introduce and study a local combinatorial condition, called the 5/9-condition, on a simplicial complex, implying Gromov hyperbolicity of its universal cover. We hereby give an application of another combinatorial condition, called 8-location, introduced by Damian Osajda. Along the way we prove the minimal filling diagram lemma for 5/9-complexes.

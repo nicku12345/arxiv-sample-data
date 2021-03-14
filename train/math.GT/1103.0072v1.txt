@@ -1,0 +1,1 @@
+This paper is about the clock number of a knot. First we define the clock number by using states of a knot defined by Kauffman. Next we show that if K is a prime knot, its clock number is greater than or equal to its crossing number. Finally we prove that its clock number is equal to its crossing number if and only if K is a two-bridge knot.

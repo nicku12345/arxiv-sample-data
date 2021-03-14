@@ -1,0 +1,1 @@
+Let p\ge 5 be a prime, and let q_p(2):=(2^{p-1}-1)/p be the Fermat quotient of p to base 2. The following curious congruence was conjectured by L. Skula and proved by A. Granville  q_p(2)^2\equiv -\sum_{k=1}^{p-1}\frac{2^k}{k^2}\pmod{p}.  In this note we establish the above congruence by entirely elementary number theory arguments.

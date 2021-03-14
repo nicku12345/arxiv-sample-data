@@ -1,0 +1,1 @@
+For a positively presented group G, we provide a criterion for two tuples of positive group generators of G to be Hurwitz equivalent or Hurwitz-conjugation equivalent. We also present an algorithmic approach to solve the Hurwitz equivalence and the Hurwitz search problems by using the word reversing method.

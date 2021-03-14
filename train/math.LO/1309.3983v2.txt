@@ -1,0 +1,1 @@
+We prove that a real x is 1-generic if and only if every differentiable computable function has continuous derivative at x. This provides a counterpart to recent results connecting effective notions of randomness with differentiability. We also consider multiply differentiable computable functions and polynomial time computable functions.

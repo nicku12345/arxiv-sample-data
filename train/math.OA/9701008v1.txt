@@ -1,0 +1,1 @@
+We determine the subfactors N\subset R of the hyperfinite II_1-factor R with finite index for which the C^*-tensor category of the associated (N,N)-bimodules is equivalent to the C^*-tensor category \C{U}_G of all unitary finite dimensional representations of a given finite group G.

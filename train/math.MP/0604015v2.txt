@@ -1,0 +1,1 @@
+We prove the convergence in certain weighted spaces in momentum space of eigenfunctions of H = T-lambda*V as the energy goes to an energy threshold. We do this for three choices of kinetic energy T, namely the non-relativistic Schr"odinger operator, the pseudorelativistc operator sqrt{-\Delta+m^2}-m, and the Dirac operator.

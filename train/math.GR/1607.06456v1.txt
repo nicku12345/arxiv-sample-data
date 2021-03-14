@@ -1,0 +1,1 @@
+Let G be a finite group with Sylow subgroups P_1,\ldots,P_n, and let k(G) denote the number of conjugacy classes of G. Pyber asked if k(G) \leq \prod_{i=1}^n k(P_i) for all finite groups G. With the help of GAP, we prove that Pyber's inequality holds for all symmetric and alternating groups.

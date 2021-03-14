@@ -1,0 +1,1 @@
+We show that for every nontrivial potential space L^{1}_{K}(\mathbb{R}^{n}), there exists an approach region for which the associated maximal function is of weak-type, but the boundedness for the completed region is false, which is in contrast with the nontangential case.

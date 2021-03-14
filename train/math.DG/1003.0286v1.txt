@@ -1,0 +1,1 @@
+For any transversal-Courant algebroid E on a foliated manifold (M,\mathcal{F}), and for any choice of a decomposition TM=T\mathcal{F}\oplus Q, we construct a Courant algebroid structure on T\mathcal{F}\oplus T^*\mathcal{F}\oplus E.

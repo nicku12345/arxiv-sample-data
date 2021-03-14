@@ -1,0 +1,1 @@
+We pose some questions about spaces parametrizing rational curves on rationally connected varieties. We give a partial answer for cubic threefolds. Many of our results were previously proved by Iliev, Markushevich and Tikhimirov by analyzing vector bundles on cubic threefolds. Our proofs use residuation rather than vector bundles.

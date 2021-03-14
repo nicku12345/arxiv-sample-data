@@ -1,0 +1,1 @@
+We give closed-form expressions for the Dirichlet beta function at even positive integers and for the Dirichlet lambda function at odd positive integers, based on the function J(s) defined via convergent integral. We also show fundamental relations between Dirichlet lambda and beta functions and the function J(s).

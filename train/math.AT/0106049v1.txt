@@ -1,0 +1,1 @@
+We give lower bound on the number of periodic billiard trajectories inside a generic smooth strictly convex closed surface in 3-space: for odd n, there are at least 2(n-1) such trajectories. We apply a topological approach based on the calculation of cohomology of certain configuration spaces.

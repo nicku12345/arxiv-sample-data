@@ -1,0 +1,1 @@
+We investigate the regularity of solutions of first order Hamilton-Jacobi equation with super linear growth in the gradient variable. We show that the solutions are locally H\"older continuous with H\"older exponent depending only on the growth of the Hamiltonian. The proof relies on a reverse H\"older inequality.

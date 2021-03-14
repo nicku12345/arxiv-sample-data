@@ -1,0 +1,1 @@
+We show that the equation in the title (with \Phi_m the mth cyclotomic polynomial) has no integer solution with n\ge 1 in the cases (m,p)=(15,41), (15,5581),(10,271). These equations arise in a recent group theoretical investigation by Z. Akhlaghi, M. Khatami and B. Khosravi.

@@ -1,0 +1,1 @@
+We prove a non-smooth generalization of the global implicit function theorem. More precisely we use the non-smooth local implicit function theorem and the non-smooth critical point theory in order to prove a non-smooth global implicit function theorem for locally Lipschitz functions. A comparison between several global inversion theorems is discussed.

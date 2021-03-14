@@ -1,0 +1,1 @@
+We investigate the problem of estimating a function f based on observations from its noisy convolution when the noise exhibits long-range dependence. We construct an adaptive estimator based on the kernel method, derive minimax lower bound for the L^2-risk when f belongs to Sobolev space and show that such estimator attains optimal rates that deteriorate as the LRD worsens.

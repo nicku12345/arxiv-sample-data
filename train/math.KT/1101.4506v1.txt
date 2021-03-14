@@ -1,0 +1,1 @@
+We determine the integral homology of PSL4(Z) in degrees at most 5 and determine its p-part in higher degrees for the primes p>=5. Our method applies to other arithmetic groups; as illustrations we include descriptions of the integral homology of PGL3(Z[i]) and PGL3(Z[\exp(2\pi{i}/3)]) in degrees at most 5.

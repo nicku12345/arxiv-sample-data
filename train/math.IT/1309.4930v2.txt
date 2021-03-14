@@ -1,0 +1,1 @@
+Ahlswede, Cai, and Zhang proved that, in the noise-free limit, the zero-undetected-error capacity is lower bounded by the Sperner capacity of the channel graph, and they conjectured equality. Here we derive an upper bound that proves the conjecture.

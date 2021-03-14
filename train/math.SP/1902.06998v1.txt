@@ -1,0 +1,1 @@
+In this paper we express the eigenvalues of real anti-tridiagonal Hankel matrices as the zeros of given rational functions. We still derive eigenvectors for these structured matrices at the expense of prescribed eigenvalues.

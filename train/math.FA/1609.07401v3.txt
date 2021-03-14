@@ -1,0 +1,1 @@
+Let X be a noncompact symmetric space of rank one and let h^1(X) be a local atomic Hardy space. We prove the boundedness from h^1(X) to L^1(X) and on h^1(X) of some classes of Fourier integral operators related to the wave equation associated with the Laplacian on X and we estimate the growth of their norms depending on time.

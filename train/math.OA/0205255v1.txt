@@ -1,0 +1,1 @@
+For a locally compact Hausdorff semigroup S, the L^\infty representation algebra R(S) was extensively studied by Dunkl and Ramirez. The Fourier-Stieltjes algebra F(S) of a topological semigroup was studied by Lau. The aim of this paper is to investigate these two algebras and study the amenability of them with respect to the structure of S.

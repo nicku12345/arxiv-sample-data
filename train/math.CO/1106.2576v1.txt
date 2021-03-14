@@ -1,0 +1,1 @@
+Stanley conjectured in 1977 that the h-vector of a matroid simplicial complex is a pure O-sequence. We give simple constructive proofs that the conjecture is true for matroids of rank less than or equal to 3, and corank 2. We used computers to verify that Stanley's conjecture holds for all matroids on at most nine elements.

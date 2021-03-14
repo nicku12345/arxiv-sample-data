@@ -1,0 +1,1 @@
+In this paper, we study the high-dimensional Hausdorff operators, defined via a general linear mapping A, and their commutators on the weighted Morrey spaces in the setting of the Heisenberg group. Particularly, under some assumption on the mapping A, we establish their sharp boundedness on the power weighted Morrey spaces.

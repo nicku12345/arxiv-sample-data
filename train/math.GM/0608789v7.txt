@@ -1,0 +1,1 @@
+In this article we consider a method for proving a class of analytical inequalities via minimax rational approximations. All numerical calculations in this paper are given by Maple computer program.

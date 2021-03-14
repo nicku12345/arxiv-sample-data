@@ -1,0 +1,1 @@
+We prove that the category of Hopf bimodules over any Hopf algebra has enough injectives, which enables us to extend some results on the unification of Hopf bimodule cohomologies of [T1,T2] to the infinite dimensional case. We also prove that the cup-product defined on these cohomologies is graded-commutative.

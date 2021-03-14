@@ -1,0 +1,1 @@
+Under sufficiently strong assumptions about the first term in an arithmetic progression, we prove that for any integer a, there are infinitely many n\in \mathbb N such that for each prime factor p|n, we have p-a|n-a. This can be seen as a generalization of Carmichael numbers, which are integers n such that p-1|n-1 for every p|n.

@@ -1,0 +1,1 @@
+We prove that if q is a power of a prime p and p^k divides a, with k\ge 0, then \[ 1+(q-1)\sum_{0\le b(q-1)<a} \binom{a}{b(q-1)}\equiv 0\pmod{p^{k+1}}. \] The special case of this congruence where q=p was proved by Carlitz in 1953 by means of rather deep properties of the Bernoulli numbers. A more direct approach produces our generalization and several related results.

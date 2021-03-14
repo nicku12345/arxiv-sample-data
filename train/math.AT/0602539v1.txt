@@ -1,0 +1,1 @@
+We study a spectral sequence that computes the (mod 2) S^1-equivariant homology of the free loop space LM of a manifold M (the "string homology" of M). Using it and knowledge of the string topology operations on the homology of LM, we compute the string homology of M when M is a sphere or a projective space.

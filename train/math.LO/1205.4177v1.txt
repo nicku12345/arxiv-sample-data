@@ -1,0 +1,1 @@
+We study groups and rings definable in d-minimal expansions of ordered fields. We generalize to such objects some known results from o-minimality. In particular, we prove that we can endow a definable group with a definable topology making it a topological group, and that a definable ring of dimension at least 1 and without zero divisors is a skew field.

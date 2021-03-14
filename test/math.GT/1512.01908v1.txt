@@ -1,0 +1,1 @@
+We show that except for n = 2 if a bridge surface for a knot is an index n topologically minimal surface, then after a perturbation it is still topologically minimal with index at most n+1.

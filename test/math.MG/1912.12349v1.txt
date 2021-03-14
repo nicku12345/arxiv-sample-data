@@ -1,0 +1,1 @@
+We show that a typical Besicovitch set B has intersections of measure zero with every line not contained in it. Moreover, every line in B intersects the union of all the other lines in B in a set of measure zero.

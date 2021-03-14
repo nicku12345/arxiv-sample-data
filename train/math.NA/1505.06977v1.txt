@@ -1,0 +1,1 @@
+In this note we show that it is impossible to have data independent non-oscillatory three point finite difference scheme irrespective of its accuracy for a scalar hyperbolic initial value problem.

@@ -1,0 +1,1 @@
+We prove that a component of the closure of the set of star points on a hypersurface X of degree d>2 in N-dimensional projective space is linear. Afterwards, we focus on the case where the component is of maximal dimension N-2 and the case where X is a surface (i.e. N=3).

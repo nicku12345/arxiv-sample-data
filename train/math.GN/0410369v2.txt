@@ -1,0 +1,1 @@
+Let X be a compactum such that dim_Q X < n+1, n>1. We prove that there is a Q-acyclic resolution r: Z-->X from a compactum Z of dim < n+1. This allows us to give a complete description of all the cases when for a compactum X and an abelian group G such that dim_G X < n+1, n>1 there is a G-acyclic resolution r: Z-->X from a compactum Z of dim < n+1.

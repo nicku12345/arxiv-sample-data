@@ -1,0 +1,1 @@
+Bennett, Carbery, and Tao formulated an n-linear analogue of the Kakeya conjecture in R^n. They proved the conjecture except for the endpoint case. We prove the endpoint case.

@@ -1,0 +1,1 @@
+In this Note we study a class of BSDEs which admits a particular singularity in their driver. More precisely, we assume that the driver is not integrable and degenerates when approaching to the terminal time of the equation.

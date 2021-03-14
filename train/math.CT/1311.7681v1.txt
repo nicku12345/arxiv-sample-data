@@ -1,0 +1,1 @@
+We provide bar and cobar constructions as functors between some categories of curved algebras and curved augmented coalgebras over a graded commutative ring. These functors are adjoint to each other.

@@ -1,0 +1,1 @@
+We compute the automorphisms of the Bousfield-Kan completion at a prime p of the little two-disks operads and show that they are given by the pro-p Grothendieck-Teichm\"uller group. We also show that the Grothendieck-Teichm\"uller group acts faithfully on the p-complete stable little disks operad.

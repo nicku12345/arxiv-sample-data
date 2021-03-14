@@ -1,0 +1,1 @@
+We calculate commutation relations of vertex operators for the spin representation of U_q(D_n^{(1)}) by using recursive formulae of R-matrices. In quantum symmetry approach, we obtain the energy and momentum spectrum of the quantum spin chain model related with the spin representation from these commutation relations.

@@ -1,0 +1,1 @@
+We exhibit examples of triangulated categories which are neither the stable category of a Frobenius category nor a full triangulated subcategory of the homotopy category of a stable model category. Even more drastically, our examples do not admit any non-trivial exact functors to or from these algebraic respectively topological triangulated categories.

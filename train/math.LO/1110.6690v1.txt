@@ -1,0 +1,1 @@
+We prove that if there is a dominating family of size {\aleph}_{1}, then there is are {\aleph}_{1} many compact subsets of {\omega}^{\omega} whose union is a maximal almost disjoint family of functions that is also maximal with respect to infinite partial functions.

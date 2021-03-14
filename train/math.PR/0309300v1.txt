@@ -1,0 +1,1 @@
+For the FK representation of the Ising model, we prove that the slab percolation threshold coincides with the critical temperature in any dimension larger or equal to three.

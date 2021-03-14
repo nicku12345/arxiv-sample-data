@@ -1,0 +1,1 @@
+This paper considers the problem of defining a measure of redundant information that quantifies how much common information two or more random variables specify about a target random variable. We discussed desired properties of such a measure, and propose new measures with some desirable properties.

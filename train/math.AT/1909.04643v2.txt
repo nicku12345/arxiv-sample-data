@@ -1,0 +1,1 @@
+Let \mathcal{G}_k be the gauge group of the principal SU(4)-bundle over S^4 with second Chern class k and let p be a prime. We show that there is a rational or p-local homotopy equivalence \Omega\mathcal{G}_k\simeq\Omega\mathcal{G}_{k'} if and only if (60,k)=(60,k').

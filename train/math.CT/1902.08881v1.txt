@@ -1,0 +1,1 @@
+I show that the theories of enrichment in a monoidal infinity-category defined by Hinich and by Gepner-Haugseng agree, and that the identification is unique. Among other things, this makes the Yoneda lemma available in the former model.

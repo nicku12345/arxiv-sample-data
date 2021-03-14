@@ -1,0 +1,1 @@
+In 1946, P. Erd\H os and I. Niven proved that there are only finitely many positive integers n for which one or more elementary symmetric functions of 1, 1/2, \ldots , 1/n are integers. In this paper we solve this old problem by showing that if n\ge 4, then none of elementary symmetric functions of 1, 1/2, \ldots , 1/n is an integer.

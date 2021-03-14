@@ -1,0 +1,1 @@
+We determine a basis of the (twisted) cocenter of graded affine Hecke algebras with arbitrary parameters. In this setting, we prove that the kernel of the (twisted) trace map is the commutator subspace (Density theorem) and that the image is the space of good forms (trace Paley-Wiener theorem).

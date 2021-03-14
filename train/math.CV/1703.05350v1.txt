@@ -1,0 +1,1 @@
+We explicitely unveil several classes of inner functions u in H^\infty with the property that there is \eta\in ]0,1[ such that the level set \Omega_u(\eta):=\{z\in\mathbb D: |u(z)|<\eta\} is connected. These so-called one-component inner functions play an important role in operator theory.

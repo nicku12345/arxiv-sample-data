@@ -1,0 +1,1 @@
+We show that if CH holds and either (i) there exists an \omega_1-Kurepa tree, or (ii) \square(\omega_2) holds, then there are regular T_1 Lindel\"of spaces X_0 and X_1 with points G_\delta such that e(X_0 \times X_1)>2^\omega.

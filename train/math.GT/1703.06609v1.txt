@@ -1,0 +1,1 @@
+The fundamental groups of compact 3-manifolds are known to be residually finite. Feng Luo conjectured that a stronger statement is true, by only allowing finite groups of the form PGL(2,R), where R is some finite commutative ring with identity. We give an equivalent formulation of Luo's conjecture via faithful representations and provide various examples and a counterexample.

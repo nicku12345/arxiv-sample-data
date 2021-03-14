@@ -1,0 +1,1 @@
+This paper explores the structure of quasi-socle ideals I=Q:m^2 in a Gorenstein local ring A, where Q is a parameter ideal and m is the maximal ideal in A. The purpose is to answer the problem of when Q is a reduction of I and when the associated graded ring G(I) = \bigoplus_{n \geq 0}I^n/I^{n+1} is Cohen-Macaulay. Wild examples are explored.

@@ -1,0 +1,1 @@
+We study the decomposability of Specht modules labelled by bihooks, bipartitions with a hook in each component, for the Iwahori--Hecke algebra of type B. In all characteristics, we determine a large family of decomposable Specht modules, and conjecture that these provide a complete list of decomposable Specht modules indexed by bihooks. We prove the conjecture for small n.

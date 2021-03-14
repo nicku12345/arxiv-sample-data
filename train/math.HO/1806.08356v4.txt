@@ -1,0 +1,1 @@
+Using concepts and techniques of bilinear algebra, we construct hyperbolic planes over a euclidean ordered field that satisfy all the Hilbert axioms of incidence, order and congruence for a basic plane geometry, but for which the hyperbolic version of the parallel axiom holds rather than the classical Euclidean parallel postulate.

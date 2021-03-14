@@ -1,0 +1,1 @@
+Let [x] be the greatest integer not exceeding x. In the paper we introduce the sequence \{U_n\} given by U_0=1 and U_n=-2\sum_{k=1}^{[n/2]}\binom n{2k}U_{n-2k}\quad(n\ge 1), and establish many recursive formulas and congruences involving \{U_n\}.

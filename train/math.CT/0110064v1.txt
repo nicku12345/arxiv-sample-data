@@ -1,0 +1,1 @@
+We outline the construction of the holonomy groupoid of a locally Lie groupoid and the monodromy groupoid of a Lie groupoid. These specialise to the well known holonomy and monodromy groupoids of a foliation, when the groupoid is just an equivalence relation.

@@ -1,0 +1,1 @@
+We generalize a theorem of Bellow and Calder\'on concerning the a.e. convergence of the convolution powers \ds \mu^nf(x)=\sum_{k}\mu^n(k)f(T^k x) where T is a measure preserving transformation of a probability space and \mu is a probability measure on the integers.

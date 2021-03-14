@@ -1,0 +1,1 @@
+Let X be a path connected, compact metric space and let A be a unital separable simple nuclear Z-stable real rank zero C*-algebra. We classify all the unital *-embeddings (up to approximate unitary equivalence) of C(X) into A. Specifically, we provide an existence and a uniqueness theorem for unital *-embeddings from C(X) into A.

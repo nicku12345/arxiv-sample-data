@@ -1,0 +1,1 @@
+In this paper we investigate the question of when the determinantal ring R over a field k is an almost Gorenstein local/graded ring in the sense of Goto, Takahashi, and the author. As a consequence of the main result, we see that if R is a non-Gorenstein almost Gorenstein local/graded ring, then the ring R has a minimal multiplicity.

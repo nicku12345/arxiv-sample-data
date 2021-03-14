@@ -1,0 +1,1 @@
+This paper concerns representations of the integral general linear group. The extension groups Ext^2 between any pair of hook Weyl modules are determined via a detailed study of cyclic generators and relations associated to certain extensions. As a corollary, the modular extension groups Ext^1 between such modules are determined.

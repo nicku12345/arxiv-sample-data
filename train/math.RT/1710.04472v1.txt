@@ -1,0 +1,1 @@
+Consider the Grothendieck group of finite type projective modular representations of the symmetric groups on n letters, or more generally, of its wreath product with a finite group. They form a graded group, with a product defined using induction. We show that the resulting graded ring is a polynomial ring.

@@ -1,0 +1,1 @@
+This paper deals with the system \[\{{array}{ll} -\Delta u = \lambda u + q |u|^3 u \phi & \hbox{in} B_R, -\Delta \phi=q |u|^5 & \hbox{in} B_R, u=\phi=0 & \hbox{on} \partial B_R. {array}.\] We prove existence and nonexistence results depending on the value of \lambda.

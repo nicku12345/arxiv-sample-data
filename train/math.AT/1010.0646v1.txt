@@ -1,0 +1,1 @@
+In the present paper we study a bordism theory related to pairs (M,\, \xi), where M is a closed smooth oriented manifold with a stably trivial normal bundle and \xi is a virtual \SU-bundle of virtual dimension 1 over M. The main result is the calculation of the corresponding ring modulo torsion and the explicit description of its generators.

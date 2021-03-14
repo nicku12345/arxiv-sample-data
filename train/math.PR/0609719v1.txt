@@ -1,0 +1,1 @@
+Estimate (3.39) which appears in the proof of Proposition 3.4 in [Ann. Probab. 27 (1999) 1414--1467, doi:10.1214/aop/1022677454] is wrong. We present below a corrected proof which introduces an extra factor 2 in equations (3.34) and (3.35). This has no consequence in the rest of the paper since Proposition 3.4 is used to estimate only ratios; see (3.23) and (3.25).

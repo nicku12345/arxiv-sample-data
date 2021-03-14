@@ -1,0 +1,1 @@
+In this note we point out the relation between Brion's formula for the lattice point generating function of a convex polytope in terms of the vertex cones [Brion1988] on the one hand, and the polar decomposition \`a la Lawrence/Varchenko [Lawrence1991, Varchenko1987] on the other.   We then go on to prove a version of polar decomposition for non-simple polytopes.

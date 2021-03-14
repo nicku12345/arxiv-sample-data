@@ -1,0 +1,1 @@
+We prove that in the graded commutative ring K_{*}(\mathbb{S}), all positive degree elements are multiplicatively nilpotent. The analogous statements also hold for TC_{*}(\mathbb{S};\mathbb{Z}^{\wedge}_p) and K_{*}(\mathbb{Z}).

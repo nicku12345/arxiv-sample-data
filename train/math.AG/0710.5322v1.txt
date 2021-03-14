@@ -1,0 +1,1 @@
+We prove a new effective recursion formula for computing all intersection indices (integrals of \psi classes) on the moduli space of curves, inducting only on the genus.

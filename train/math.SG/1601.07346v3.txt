@@ -1,0 +1,1 @@
+Let \Lambda be a spin Legendrian submanifold of the 1-jet space of a smooth manifold. We prove that the Legendrian contact homology of \Lambda with integer coefficients can be computed using Morse flow trees.

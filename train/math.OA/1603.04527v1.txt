@@ -1,0 +1,1 @@
+The Fubini product of operator spaces provide a powerful tool for analysing properties of tensor products. In this paper we review the the theory of Fubini products and apply it to the problem of computing invariant parts of dynamical systems. In particular, we study the invariant translation approximation property of discrete groups.

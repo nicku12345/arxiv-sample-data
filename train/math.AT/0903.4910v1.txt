@@ -1,0 +1,1 @@
+The Singer transfer provides an interesting connection between modular representation theory and the cohomology of the Steenrod algebra. We discuss a version of `Quillen stratification' theorem for the Singer transfer and its consequences.

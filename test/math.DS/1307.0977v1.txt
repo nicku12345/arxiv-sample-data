@@ -1,0 +1,1 @@
+Smale space is a particular class of hyperbolic topological dynamical systems, defined by David Ruelle. The third author constructed a homology theory for Smale spaces which is based on Krieger's dimension group invariant for shifts of finite type. In this paper, we compute this homology for the one-dimensional generalized solenoids of R.F. Williams.

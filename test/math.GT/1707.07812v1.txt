@@ -1,0 +1,1 @@
+When K is a knot and p \gg 0 is a prime, we discuss a finite set whose cardinality is \Delta_K(p^n), the value of the Alexander polynomial of K at p^n.

@@ -1,0 +1,1 @@
+While the problem of knot classification is far from solved, it is possible to create computer programs that can be used to tabulate knots up to a desired degree of complexity. Here we discuss the main ideas on which such programs can be based. We also present the actual results obtained after running a computer program on which knots are denoted through regular projections.

@@ -1,0 +1,1 @@
+We describe an explicit construction of galoisian Stokes operators for irregular linear q-difference equations. These operators are parameterized by the points of an elliptic curve minus a finite set of singularities. Taking residues at these singularities, one gets q-analogues of alien derivations which freely generate the Lie algebra of the Stokes subgroup of the Galois group.

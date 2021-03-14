@@ -1,0 +1,1 @@
+We show that any Fermat hypercubic is apolar to a trigonal curve, and vice versa. We show also that the Waring number of the polar hypercubic associated to a tetragonal curve of genus g is at most \lceil 3/2g - 7/2\rceil, and for a large class of them is at most 4/3g - 3.

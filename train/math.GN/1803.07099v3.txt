@@ -1,0 +1,1 @@
+A class \mathfrak{M} of coarse spaces is called a variety if \mathfrak{M} is closed under formation of subspaces, coarse images and products. We classify the varieties of coarse spaces and, in particular, show that if a variety \mathfrak{M} contains an unbounded metric space then \mathfrak{M} is the variety of all coarse spaces.

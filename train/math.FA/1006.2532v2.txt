@@ -1,0 +1,1 @@
+We prove that the flag kernel singular integral operators of Nagel-Ricci-Stein on a homogeneous group are bounded on the Lp spaces. The gradation associated with the kernels is the natural gradation of the underlying Lie algebra. Our main tools are the Littlewood-Paley theory and a symbolic calculus combined in the spirit of Duoandikoetxea and Rubio de Francia.

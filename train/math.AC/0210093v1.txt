@@ -1,0 +1,1 @@
+Let I be a divisorial ideal of a strongly F-regular ring R. Watanabe asked if the symbolic Rees algebra R_s(I) is Cohen-Macaulay whenever it is Noetherian. We develop the notion of multi-symbolic Rees algebras, and use this to show that R_s(I) is indeed Cohen-Macaulay whenever a certain auxiliary ring is finitely generated over R.

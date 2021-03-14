@@ -1,0 +1,1 @@
+Consider a Hamiltonian action of a compact Lie group on a symplectic manifold which has the strong Lefschetz property. We establish an equivariant version of the Merkulov-Guillemin d\delta-lemma and an improved version of the Kirwan-Ginzburg equivariant formality theorem, which says that every cohomology class has a \emph{canonical} equivariant extension.

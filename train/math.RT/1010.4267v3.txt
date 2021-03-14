@@ -1,0 +1,1 @@
+In this paper we define and study the notion of a proper costratifying system, which is a generalization of the so-called proper costandard modules to the context of stratifying systems. The proper costandard modules were defined by V. Dlab in his study of quasi-hereditary algebras (see \cite{Dlab}).

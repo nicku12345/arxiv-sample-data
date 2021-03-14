@@ -1,0 +1,1 @@
+Applying techniques similar to Combinatorial Nullstellensatz we prove a lower estimate of |f(A,B)| for finite subsets A, B of a field, and polynomial f(x,y) of the form f(x,y)=g(x)+yh(x), where degree of g is greater then degree of h.

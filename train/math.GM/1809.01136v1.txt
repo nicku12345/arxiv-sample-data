@@ -1,0 +1,1 @@
+We use a well known concept of proper vertex colouring of a graph to introduce the construction of a chromatic completion graph and its related parameter, the chromatic completion number of a graph. We then give the chromatic completion number of certain classes of cycle derivative graphs and helm graphs. Finally, we discuss further problems for research related to this concept.

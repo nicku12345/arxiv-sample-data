@@ -1,0 +1,1 @@
+This paper studies the heat content} for Schr\"odinger operators of the fractional Laplacian (-\Delta)^{\alpha/2}, 0<\alpha\leq 2 in R^d, d\geq 1. Employing probabilistic and analytic techniques, a small time asymptotic expansion formula is given and the "heat content invariants" are identified. These results are new even in the case of the Laplacian, \alpha=2.

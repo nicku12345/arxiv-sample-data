@@ -1,0 +1,1 @@
+A simple algorithm for decoding both errors and erasures of Reed-Solomon codes is described.

@@ -1,0 +1,1 @@
+The stabilisation height of a fibre surface in the 3-sphere is the minimal number of Hopf plumbing operations needed to attain a stable fibre surface from the initial surface. We show that families of fibre surfaces related by iterated Stallings twists have unbounded stabilisation height.

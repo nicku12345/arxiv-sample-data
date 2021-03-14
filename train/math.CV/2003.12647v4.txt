@@ -1,0 +1,1 @@
+We study mappings satisfying the so-called inverse Poletsky inequality. Under integrability of the corresponding majorant, it is proved that these mappings are logarithmic H\"{o}lder continuous in the neighborhood of the boundary points. In particular, the indicated properties hold for homeomorphisms whose inverse satisfy the weighted Poletsky inequality.

@@ -1,0 +1,1 @@
+Ambarzumyan's theorem for quadratic Sturm-Liouville problem is extended to second order differential systems of dimension d. It is shown that if the spectrum is the same as the spectrum belonging to the zero potential, then the matrix valued functions p and q are both zero

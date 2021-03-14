@@ -1,0 +1,1 @@
+In this paper, we establish bilinear and gradient bilinear Strichartz estimates for Schr\"odinger operators in 2 dimensional compact manifolds with boundary. Using these estimates, we can infer the local well-posedness of cubic nonlinear Schr\"odinger equation in H^s for every s>{2/3} on such manifolds.

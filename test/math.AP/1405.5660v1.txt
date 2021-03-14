@@ -1,0 +1,1 @@
+We describe all extensions of the Calogero Hamiltonian \[L=-\frac{d^2}{dr^2}+\frac{b}{r^2} \quad \text{in}\ L^2(\mathbb{R}_+), \quad b <-\frac{1}{4}\] having non empty resolvent and generating an analytic semigroup in L^2(\mathbb{R}_+).

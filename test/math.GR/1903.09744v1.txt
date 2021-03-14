@@ -1,0 +1,1 @@
+Denote the sum of element orders in a finite group G by \psi(G) and let C_n denote the cyclic group of order n. In this paper, we prove that if |G|=n and \psi(G)>\frac{13}{21}\,\psi(C_n), then G is nilpotent. Moreover, we have \psi(G)=\frac{13}{21}\,\psi(C_n) if and only if n=6m with (6,m)=1 and G\cong S_3\times C_m. Two interesting consequences of this result are also presented.

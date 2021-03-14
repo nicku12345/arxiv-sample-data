@@ -1,0 +1,1 @@
+For the exclusion process with symmetric kernel p(x,y)=p(y,x), the set of invariant measures has been completely studied. This paper gives results concerning the invariant measures for exclusion processes where p(x,y)=p(y,x) except for finitely many (x,y).

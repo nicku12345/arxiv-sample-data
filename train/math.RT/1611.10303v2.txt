@@ -1,0 +1,1 @@
+For Weyl groups of classical types, we present formulas to calculate the restriction of Springer representations to a maximal parabolic subgroup of the same type. As a result, we give recursive formulas for Euler characteristics of Springer fibers for classical types. We also give tables of those for exceptional types.

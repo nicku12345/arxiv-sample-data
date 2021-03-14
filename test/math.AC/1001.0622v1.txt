@@ -1,0 +1,1 @@
+In this paper for power series in many (real or complex)variables a radius of (absolute) convergence is offered. This radius can be evaluated by a formula similar to Cauchy-Hadamard formula and in one variable case they are same.

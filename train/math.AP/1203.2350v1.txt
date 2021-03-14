@@ -1,0 +1,1 @@
+In this paper, we show that the near field reflector problem is a nonlinear optimization problem. From the corresponding functional and constraint function, we derive the Monge-Amp\`ere type equation for such a problem.

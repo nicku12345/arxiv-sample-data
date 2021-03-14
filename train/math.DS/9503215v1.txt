@@ -1,0 +1,1 @@
+This work studies combinatorics and geometry of the Yoccoz puzzle for quadratic polynomials. It is proven that the moduli of the ``principal nest'' of annuli grow at linear rate. As a corollary we obtain complex a priori bounds and local connectivity of the Julia set for many infinitely renormalizable quadratics.

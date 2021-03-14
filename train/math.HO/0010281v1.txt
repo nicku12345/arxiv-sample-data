@@ -1,0 +1,1 @@
+The Pythagorean triples have the structure of a ternary rooted tree; the tree is based on the Cayley graph of a free subgroup of the modular group

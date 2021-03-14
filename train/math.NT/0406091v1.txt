@@ -1,0 +1,1 @@
+The formula \lim_{N\to\infty}\sum_{p<N,p,p+2 both prime} \log(p)\log(p+2) = C_2 is tested on the computer up to N=2^{40}\approx 1.1\times 10^{12} and very good agreement is found.

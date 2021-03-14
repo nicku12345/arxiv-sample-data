@@ -1,0 +1,1 @@
+In the present paper we construct all typical finite-dimensional representations of the quantum Lie superalgebra U_{q}[gl(2/2)] at generic deformation parameter q. As in the non-deformed case the finite-dimensional U_{q}[gl(2/2)]-module W^{q} obtained is irreducible and can be decomposed into finite-dimensional irreducible U_{q}[gl(2)\oplus gl(2)]-submodules V^{q}_{k}

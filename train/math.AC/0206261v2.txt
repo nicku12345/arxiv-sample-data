@@ -1,0 +1,1 @@
+We show how to express any Hasse-Schmidt derivation of an algebra in terms of a finite number of them under natural hypothesis. As an application, we obtain coefficient fields of the completion of a regular local ring of positive characteristic in terms of Hasse-Schmidt derivations

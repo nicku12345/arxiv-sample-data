@@ -1,0 +1,1 @@
+We define variable parameter analogues of the affine arclength measure on curves and prove near-optimal L^p-improving estimates for associated multilinear generalized Radon transforms. Some of our results are new even in the convolution case.

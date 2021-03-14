@@ -1,0 +1,1 @@
+In the present paper, we establish that Riesz transforms for Dunkl Hermite expansion as introduced in [4] are singular integral operators with H\"ormander's type conditions and we show that are bounded on L^p(\mathbb{R}^d; d\mu_k) 1 < p < 1.

@@ -1,0 +1,1 @@
+Using bordered Floer theory, we give a combinatorial construction and proof of invariance for the hat version of Heegaard Floer homology. As a part of the proof, we also establish combinatorially the invariance of the linear-categorical representation of the strongly-based mapping class groupoid given by the same theory.

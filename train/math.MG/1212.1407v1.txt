@@ -1,0 +1,1 @@
+A lattice L is "meet-distributive" if for each element of L, the meets of the elements directly below it form a Boolean lattice. These objects are in bijection with "convex geometries", which are an abstract model of convexity. Do they give rise to an incidence Hopf algebra of convex geometries?

@@ -1,0 +1,1 @@
+For a locally pseudocompact space X let [\zeta X=X\cup cl_{\beta X}(\beta X\backslash\upsilon X).] It is proved that \zeta X is the largest (with respect to the standard partial order \leq) among all pseudocompactifications of X which have compact remainder. Other characterizations of \zeta X are also given.

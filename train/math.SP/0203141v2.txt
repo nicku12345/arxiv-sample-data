@@ -1,0 +1,1 @@
+We derive Povzner--Wienholtz-type self-adjointness results for m\times m matrix-valued Sturm--Liouville operators T=R^{-1}\big[-\f{d}{dx}P\f{d}{dx}+Q\big] in L^2((a,b);Rdx)^m, m\in\bbN, for (a,b) a half-line or \bbR.

@@ -1,0 +1,1 @@
+We give a direct description of the category of sheaves on Lichtenbaum's Weil-\'etale site of a number ring. Then we apply this result to define a spectral sequence relating Weil-\'etale cohomology to Artin-Verdier \'etale cohomology. Finally we construct complexes of \'etale sheaves computing the expected Weil-\'etale cohomology.

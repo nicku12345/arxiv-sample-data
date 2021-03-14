@@ -1,0 +1,1 @@
+The formula for the dihedral angle of the simplex of n dimensions, arccos(1/n), is derived using classical geometry.

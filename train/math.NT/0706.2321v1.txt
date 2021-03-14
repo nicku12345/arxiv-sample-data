@@ -1,0 +1,1 @@
+Assuming the Riemann Hypothesis, we establish lower bounds for moments of the derivative of the Riemann zeta-function averaged over the non-trivial zeros of \zeta(s). Our proof is based upon a recent method of Rudnick and Soundararajan that provides analogous bounds for moments of L-functions at the central point, averaged over families.

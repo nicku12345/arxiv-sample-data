@@ -1,0 +1,1 @@
+Let X be a closed invariant subset of the half--open annulus \mathbb{A} such that \mathbb{A} \setminus X is homeomorphic to \mathbb{A}. We prove that either the rotation number of all forward semi--orbits of accessible points of X are well--defined and equal to the prime end rotation number or the same is true for all backward semi--orbits of accessible points of X.

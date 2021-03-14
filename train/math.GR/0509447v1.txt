@@ -1,0 +1,1 @@
+A subgroup H is said to be nc-supplemented in a group G if there is a subgroup K\leq G such that HK\unlhd G and H\cap K is contained in H_G, the core of H in G. We characterize the solvability of finite groups G with some subgroups of Sylow subgroups nc-supplemented in G. We also give a result on c-supplemented subgroups.

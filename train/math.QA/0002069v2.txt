@@ -1,0 +1,1 @@
+A Pre-Lie algebra is a vector space L endowed with a bilinear product * : L \times L to L satisfying the relation (x*y)*z-x*(y*z)= (x*z)*y-x*(z*y), for all x,y,z in L. We give an explicit combinatorial description in terms of rooted trees of the operad associated to this type of algebras and prove that it is a Koszul operad.

@@ -1,0 +1,1 @@
+We present a uniform method of density elimination for several semilinear substructural logics. Especially, the density elimination for the involutive uninorm logic IUL is proved. Then the standard completeness of IUL follows as a lemma by virtue of previous work by Metcalfe and Montagna.

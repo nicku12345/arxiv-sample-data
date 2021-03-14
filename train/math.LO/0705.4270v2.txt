@@ -1,0 +1,1 @@
+Let (P,\leq) be a partially ordered set and let \tau be a compact topology on P that is finer than the interval topology. Then \tau is contained in the order (convergence) topology on (P,\tau). So any Priestley topology is contained in the order topology.

@@ -1,0 +1,1 @@
+Given integers a,b>1 with \log_b{a} irrational, we investigate the connection between the conjectured asymptotic equidistribution of digits in the base-b expansion of a^n and the (non-)Diophantine properties of the number \theta_{a,b}=\log_b{a}.

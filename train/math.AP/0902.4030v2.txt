@@ -1,0 +1,1 @@
+In this paper we prove a nonlocal version of the Cordes-Niremberg estimates. We use it to extend our previous regularity results for fully nonlinear integro-differential equations to the variable coefficient case and several other settings where the equation can be thought of as a perturbation of the translation invariant case.

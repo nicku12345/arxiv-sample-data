@@ -1,0 +1,1 @@
+This paper is devoted to introducing coarse structures in a very simple way, namely as an equivalence relation on the set of simple ends. As an application we show that Gromov boundary of every hyperbolic space is an example of a Higson corona and each Freundenthal compactification is an example of a Higson compactification.

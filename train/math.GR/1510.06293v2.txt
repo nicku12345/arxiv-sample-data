@@ -1,0 +1,1 @@
+Let G be a Camina p-group of nilpotence class 3. We prove that if G' < C_G (G'), then |Z(G)| \le |G':G_3|^{1/2}. We also prove that if G/G_3 has only one or two abelian subgroups of order |G:G'|, then G' < C_G (G'). If G/G_3 has p^a + 1 abelian subgroups of order |G:G'|, then either G' < C_G (G') or |Z(G)| \le p^{2a}.

@@ -1,0 +1,1 @@
+We give a source of examples of H_infinity ring structures that do not lift to E_infinity ring structures, based on Mandell's equivalence between certain cochain algebras and spaces.

@@ -1,0 +1,1 @@
+We show how to recover equilibrated face tractions for the hybrid high-order method for linear elasticity recently introduced in [D. A. Di Pietro and A. Ern, A hybrid high-order locking-free method for linear elasticity on general meshes, Comput. Meth. Appl. Mech. Engrg., 2015, 283:1-21], and prove that these tractions are optimally convergent.

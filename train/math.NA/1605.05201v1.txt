@@ -1,0 +1,1 @@
+In this note we shall devise a variable-order continuous Galerkin time stepping method which is especially geared towards norm-preserving dynamical systems. In addition, we will provide an a posteriori estimate for the L^\infty-error.

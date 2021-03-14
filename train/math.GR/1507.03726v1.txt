@@ -1,0 +1,1 @@
+For any group G, let C(G) denote the intersection of the normal- izers of centralizers of all elements of G. Set C0 = 1. Define Ci+1(G)=Ci(G) = C(G=Ci(G)) for i ? 0. By C1(G) denote the terminal term of the ascending series. In this paper, we show that a finitely generated group G is nilpotent if and only if G = Cn(G) for some positive integer n.

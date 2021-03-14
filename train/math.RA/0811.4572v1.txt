@@ -1,0 +1,1 @@
+Let S be a symbol algebra. The trace form of S is computed and it is shown how this form can be used to determine whether S is a division algebra or not. In addition, the exterior powers of the trace form of S are computed.

@@ -1,0 +1,1 @@
+We define the model of an abstract economy with private information and a countable set of actions. We generalize the H. Yu and Z. Zhang's model (2007), considering that each agent is characterised by a preference correspondence instead of having an utility function. We establish two different equilibrium existence results.

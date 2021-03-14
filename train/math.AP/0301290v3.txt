@@ -1,0 +1,1 @@
+We prove global existence for quasilinear wave equations outside of a wide class of obstacles. The obstacles may contain trapped hyperbolic rays as long as there is local exponential energy decay for the associated linear wave equation. Thus, we can handle all non-trapping obstacles. We are also able to handle non-diagonal systems satisfying the appropriate null condition.

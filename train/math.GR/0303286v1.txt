@@ -1,0 +1,1 @@
+Let an affine space of dimension n over a field k. To each point correponds a section of the linear group G to the affine group. Generally, every section is like this, excpt in the case card(k)=2 and n=3, where G is the group of cardinality 168.

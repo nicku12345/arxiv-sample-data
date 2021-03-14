@@ -1,0 +1,1 @@
+The main result is a Paley's theory for lacunary Fourier series using semigroup-BMO and H^1 spaces. This interpretation allows an extension of Paley's theory to general discrete groups, complementing the work of Rudin for abelian groups with a total order, and Lust-Piquard and Pisier's work for lacunary Fourier series with operator-valued coefficients.

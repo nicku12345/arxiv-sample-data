@@ -1,0 +1,1 @@
+We study the Baire class one countable colorings, i.e., the countable partitions into F_\sigma sets. Such a partition gives a covering of the diagonal into countably many F_\sigma squares. This leads to the study of countable unions of F_\sigma rectangles. We give a Hurewicz-like dichotomy for such countable unions.

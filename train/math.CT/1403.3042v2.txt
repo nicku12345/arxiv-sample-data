@@ -1,0 +1,1 @@
+We study the accessibility properties of trivial cofibrations and weak equivalences in a combinatorial model category and prove an estimate for the accessibility rank of weak equivalences. In particular, we show that the class of weak equivalences between simplicial sets is finitely accessible.

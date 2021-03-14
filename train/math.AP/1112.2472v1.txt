@@ -1,0 +1,1 @@
+Using Bony's paramultiplication we improve a result obtained in in a previous paper for operators having coefficients non-Lipschitz-continuous with respect to t but {\mathcal C}^2 with respect to x, showing that the same result is valid when {\mathcal C}^2 regularity is replaced by Lipschitz regularity in x.

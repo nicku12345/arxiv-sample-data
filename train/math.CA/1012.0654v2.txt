@@ -1,0 +1,1 @@
+The Marcinkiewicz integral is essentially a Littlewood-Paley g-function, which plays a important role in harmonic analysis. In this article, by using the atomic decomposition theory of weighted Hardy spaces and homogeneous weighted Herz-type Hardy spaces, we will obtain some weighted weak type estimates for Marcinkiewicz integrals on these spaces.

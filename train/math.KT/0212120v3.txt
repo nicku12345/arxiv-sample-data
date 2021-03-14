@@ -1,0 +1,1 @@
+We associate to a pseudomanifold X with isolated singularities a differentiable groupoid G which plays the role of the tangent space of X. We construct a Dirac element D and a Dual Dirac element \lambda such that D and \lambda induce a Poincar{\'e} duality in K-theory between the C^*-algebras C(X) and C^*(G).

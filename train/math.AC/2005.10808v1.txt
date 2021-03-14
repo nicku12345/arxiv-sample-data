@@ -1,0 +1,1 @@
+We describe new classes of noetherian local rings R whose finitely generated modules M have the property that Tor_i^R(M,M)=0 for i\gg 0 implies that M has finite projective dimension, or Ext^i_R(M,M)=0 for i\gg 0 implies that M has finite projective dimension or finite injective dimension.

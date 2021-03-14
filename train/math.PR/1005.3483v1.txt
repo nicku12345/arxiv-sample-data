@@ -1,0 +1,1 @@
+In this paper we show that under some assumptions, for a d-dimensional fractional Brownian motion with Hurst parameter H>1/2, the density of solution of stochastic differential equation driven by it has a short-time expansion similar to that in the Brownian motion case.

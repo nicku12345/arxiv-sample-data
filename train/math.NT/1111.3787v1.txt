@@ -1,0 +1,1 @@
+Based on algebraic number theory we construct some families of rotated Dn-lattices with full diversity which can be good for signal transmission over both Gaussian and Rayleigh fading channels. Closed-form expressions for the minimum product distance of those lattices are obtained through algebraic properties.

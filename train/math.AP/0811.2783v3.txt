@@ -1,0 +1,1 @@
+In this paper we consider a multi-dimensional wave equation with dynamic boundary conditions, related to the Kelvin-Voigt damping. Global existence and asymptotic stability of solutions starting in a stable set are proved. Blow up for solutions of the problem with linear dynamic boundary conditions with initial data in the unstable set is also obtained.

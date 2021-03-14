@@ -1,0 +1,1 @@
+Suppose M is a cusped finite-volume hyperbolic 3-manifold and T is an ideal triangulation of M with essential edges. We show that any incompressible surface S in M that is not a virtual fiber can be isotoped into spunnormal form in T . The proof is based directly on ideas of W. Thurston.

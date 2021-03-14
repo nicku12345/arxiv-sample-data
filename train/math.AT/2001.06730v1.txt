@@ -1,0 +1,1 @@
+Let f_1,...,f_k:M\to N be maps between closed manifolds, N(f_1,...,f_k) and R(f_1,...,f_k) be the Nielsen and the Reideimeister coincidence numbers respectively. In this note, we relate R(f_1,...,f_k) with R(f_1,f_2),...,R(f_1,f_k). When N is a torus or a nilmanifold, we compute R(f_1,...,f_k) which, in these cases, is equal to N(f_1,...,f_k).

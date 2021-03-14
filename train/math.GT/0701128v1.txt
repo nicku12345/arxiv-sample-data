@@ -1,0 +1,1 @@
+We look into computational aspects of two classical knot invariants. We look for ways of simplifying the computation of the coloring invariant and of the Alexander module. We support our ideas with explicit computations on pretzel knots.

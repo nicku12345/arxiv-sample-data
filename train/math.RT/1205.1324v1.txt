@@ -1,0 +1,1 @@
+In this article, we generalize the concept of torsion pairs and study its structure. As a trial of obtaining all torsion pairs, we decompose torsion pairs by projective modules and injective modules. Then we calculate torsion pairs on the algebra KAn and tub categories. At last we try to find all torsion pairs on the module categories of finite dimensional hereditary algebras.

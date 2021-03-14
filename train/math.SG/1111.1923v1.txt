@@ -1,0 +1,1 @@
+Let D be a non-displaceable disk in an annulus A. Suppose that g is a compactly supported Hamiltonian which preserves D with translation number n. We show that Hofer's norm |g| is bounded from below by cn for a certain constant c. We also give example of such Hamiltonian which is more efficient than the obvious rotation of D.

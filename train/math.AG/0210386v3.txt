@@ -1,0 +1,1 @@
+We describe in terms of the j-invariant all elliptic surfaces pi: X -> C with a section, such that h^{1,1}(X)=rank NS(X) and the Mordell-Weil group of pi is finite.   We use this to give a complete solution to infinitesimal Torelli for elliptic surfaces with a section over P^1.

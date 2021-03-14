@@ -1,0 +1,1 @@
+Consider the nth degree polynomial equation, X^n+A_{n-1}X^{n-1}+...+A_1X+A_0=0 over the ring of 2 by 2 complex matrices. If this equation has more than {2n \choose 2} solutions, then it has infinitely many solutions. We show here that for any n,m \in\N such that m\leq{2n \choose 2}, there exists an nth degree polynomial equation with exactly m solutions.

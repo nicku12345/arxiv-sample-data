@@ -1,0 +1,1 @@
+We study the asymptotic behavior of the ratio |f(z)|/|z| as z\to 0 for mappings differentiable a.e. in the unit disc with non-degenerated Jacobian. The main tools involve the length-area functionals and angular dilatations depending on some real number p. The results are applied to homeomorphic solutions of a nonlinear Beltrami equation. The estimates are illustrated by examples.

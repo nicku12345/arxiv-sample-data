@@ -1,0 +1,1 @@
+This note presents an analytic technique for proving the linear independence of certain small subsets of real numbers over the rational numbers. The applications of this test produce simple linear independence proofs for the subsets of triples \{1, e, \pi\}, \{1, e, \pi^{-1}\}, and \{1, \pi^r, \pi^s\}, where 1\leq r<s  are fixed integers.

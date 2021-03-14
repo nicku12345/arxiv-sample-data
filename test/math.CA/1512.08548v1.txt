@@ -1,0 +1,1 @@
+In this paper, the logarithmically complete monotonicity property for a functions involving q-gamma function is investigated for q\in(0,1). As applications of this results, some new inequalities for the q-gamma function are established. Furthermore, let the sequence r_n be defined by n!=\sqrt{2\pi n}(n/e)^n e^{r_n}. We establish new estimates for Stirling's formula remainder r_n.

@@ -1,0 +1,1 @@
+Starting from the solution to Bring's equation the root ambiguity is removed from the solution to the quintic equation. This gives the five complex roots of the quintic equation as indicated by Gauss's Fundamental Theorem of Algebra.r

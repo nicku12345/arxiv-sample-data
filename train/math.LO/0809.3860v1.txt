@@ -1,0 +1,1 @@
+The aim of this short note is to communicate a simple solution to the problem posed in [1] as Question 7.2.7: is it true that for every ccc \sigma-ideal I any I-positive Borel set contains modulo I an I-positive closed set?

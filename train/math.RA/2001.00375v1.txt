@@ -1,0 +1,1 @@
+It is proved that the tame automorphism group of a differential polynomial algebra k\{x,y\} over a field k of characteristic 0 in two variables x,y with m commuting derivations \delta_1, \ldots, \delta_m is a free product with amalgamation. An example of a wild automorphism of the algebra k\{x,y\} in the case of m\geq 2 derivations is constructed.

@@ -1,0 +1,1 @@
+We introduce PWP a method for counting indirect influences and compare it with three well-known methods. We provide combinatorial as well as probabilistic interpretation for the PWP method.

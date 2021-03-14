@@ -1,0 +1,1 @@
+Let X be a non-degenerate, connected, locally path-connected metrizable space and Fin(X) be the hyperspace consisting of non-empty finite subsets in X endowed with the Vietoris topology. In this paper, we show that every compact set in Fin(X) is a strong Z-set.

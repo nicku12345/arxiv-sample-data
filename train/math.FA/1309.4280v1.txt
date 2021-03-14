@@ -1,0 +1,1 @@
+Let L be a Banach lattice with order continuous norm, and let S be a multiplicative semigroup of ideal-triangularizable positive compact operators on L such that, for every pair A, B in S, the atomic diagonal of the commutator AB-BA is equal to zero. We prove that the semigroup S is ideal-triangularizable.

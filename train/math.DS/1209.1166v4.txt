@@ -1,0 +1,1 @@
+With the variational method introduced by J Mather, we construct a mechanical Hamiltonian system whose Alpha function has a flat F and is non-differentiable at the boundary of F. In the case of two degrees of freedom, we prove this phenomenon is stable under perturbations of Mane's

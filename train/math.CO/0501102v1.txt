@@ -1,0 +1,1 @@
+We show that the number of monotone triangles with prescribed bottom row (k_1,...,k_n) is given by a simple product formula which remarkably involves (shift) operators. Monotone triangles with bottom row (1,2,...,n) are in bijection with n \times n alternating sign matrices.

@@ -1,0 +1,1 @@
+Let k be a perfect field of characteristic different from two. We show that the filtration on the Grothendieck-Witt group GW(k) induced by the slice filtration for the sphere spectrum in the motivic stable homotopy category is the I-adic filtration, where I is the augmentation ideal in GW(k).

@@ -1,0 +1,1 @@
+We survey noetherian rings A over which the injective hull of every simple module is locally artinian. Then we give a general construction for algebras A that do not have this property. In characteristic 0, we also complete the classification of down-up algebras with this property.

@@ -1,0 +1,1 @@
+In this work we deal with a symbolic approach to the general quadratic polynomial decomposition. By means of a symbolic implementation, we investigate some properties of the components sequences like orthogonality and symmetry. We present some explicit results for a collection of well known orthogonal cases.

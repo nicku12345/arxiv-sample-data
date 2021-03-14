@@ -1,0 +1,1 @@
+In this note we will show that exact Courant algebras over a Lie algebra \mathfrak{g} can be characterised via Leibniz 2- cocycles, and the automorphism group of a given exact Courant algebra is in a one-to-one correspondence with first Leibniz cohomology space of \mathfrak{g}.

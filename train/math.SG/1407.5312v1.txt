@@ -1,0 +1,1 @@
+A symplectic manifold that is obtained from the complex projective plane by k blowups is encoded by k+1 parameters: the size of the initial complex projective plane, and the sizes of the blowups. We determine which values of these parameters yield symplectomorphic manifolds.

@@ -1,0 +1,1 @@
+In this paper we prove Conjecture 1.2 in \cite{B-F}. This enables us to establish the meromorphic continuation of the standard partial L function L^S(s,\pi^{(n)}). Here, \pi^{(n)} is a genuine irreducible cuspidal representation of the group GL_r^{(n)}({\bf A}).

@@ -1,0 +1,1 @@
+For analytic functions f(z) in the closed unit disk \bar{U}, two boundary points z_1 and z_2 such that \alpha = (f'(z_1)+f'(z_2))/2 in f'(U) are considered. The object of the present paper is to discuss some interesting conditions for f(z) to be |f'(z)-1|<\rho|1-\alpha| in U with some examples.

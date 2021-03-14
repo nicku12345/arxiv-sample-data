@@ -1,0 +1,1 @@
+We study the Manneville map f(x)=x+x^z (mod 1), with z>1, from a computational point of view, studying the behaviour of the Algorithmic Information Content. In particular, we consider a family of piecewise linear maps that gives examples of algorithmic behaviour ranging from the fully to the mildly chaotic, and show that the Manneville map is a member of this family.

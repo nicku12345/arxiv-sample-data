@@ -1,0 +1,1 @@
+We connect k-triangulations of a convex n-gon to the theory of Schubert polynomials. We use this connection to prove that the simplicial complex with k-triangulations as facets is a vertex-decomposable triangulated sphere, and we give a new proof of the determinantal formula for the number of k-triangulations.

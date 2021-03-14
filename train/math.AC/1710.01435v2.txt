@@ -1,0 +1,1 @@
+In this paper, we present an algorithm for computing the minimal reductions of \mathfrak{m}-primary ideals of Cohen--Macaulay local rings. Using this algorithm, we are able to compute the Hilbert--Samuel multiplicities and solve the membership problem for the integral closure of \mathfrak{m}-primary ideals.

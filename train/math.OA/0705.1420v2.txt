@@ -1,0 +1,1 @@
+We show that any compact group can be realized as the outer automorphism group of a factor of type II_1. This has been proved in the abelian case by Ioana, Peterson and Popa applying Popa's deformation/rigidity techniques to amalgamated free product von Neumann algebras. Our methods are a generalization of theirs.

@@ -1,0 +1,1 @@
+We study the analytic behavior of the restriction of a Siegel modular form to \mathbb{H} \times \mathbb{H} in the case that the Siegel form is a Saito-Kurokawa lift. A formula of Ichino links this behavior to a family of GL_3 \times GL_2 L-functions.

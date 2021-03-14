@@ -1,0 +1,1 @@
+The purpose of this note is to present a formulation of a given nonlinear ordinary differential equation into an equivalent system of linear ordinary differential equations. It is evident that the easiness of a such procedure would be able to open a new way in order to calculate or approximate the solution of an ordinary differential equation. Some examples are presented.

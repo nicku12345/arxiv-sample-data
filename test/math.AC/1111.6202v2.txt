@@ -1,0 +1,1 @@
+We determine the minimal generators of the ideal of the tangential variety of a Segre-Veronese variety, as well as the decomposition into irreducible GL-representations of its homogeneous coordinate ring. In the special case of a Segre variety, our results confirm a conjecture of Landsberg and Weyman.

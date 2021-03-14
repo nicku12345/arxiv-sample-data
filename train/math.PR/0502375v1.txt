@@ -1,0 +1,1 @@
+We derive a high-resolution formula for the L^2-quantization errors of Riemann-Liouville processes and the sharp Kolmogorov entropy asymptotics for related Sobolev balls. We describe a quantization procedure which leads to asymptotically optimal functional quantizers. Regular variation of the eigenvalues of the covariance operator plays a crucial role.

@@ -1,0 +1,1 @@
+Using the first discrete derivatives for the expansion in z=0 of the oscillating part lambdatiny(n) =lambda n* of the "tiny" Li-Keiper coefficients , we analyse two series in the variable z=1-1/s ~0 for the first low values and compare them with the exact series. The numerical results suggest interesting more "sophisticated" approximations.

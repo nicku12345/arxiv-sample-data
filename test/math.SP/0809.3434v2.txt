@@ -1,0 +1,1 @@
+By approximation, I show that the spectrum of the Schr\"odinger operator with potential V(n) = f(n\rho \pmod 1) for f continuous and \rho > 0, \rho \notin \N is an interval.

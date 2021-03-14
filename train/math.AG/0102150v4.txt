@@ -1,0 +1,1 @@
+We reformulate a conjecture of Deligne on 1-motives by using the integral weight filtration of Gillet and Soul\'e on cohomology, and prove it. This implies the original conjecture up to isogeny. If the degree of cohomology is at most two, we can prove the conjecture for the Hodge realization without isogeny, and even for 1-motives with torsion.

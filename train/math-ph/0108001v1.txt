@@ -1,0 +1,1 @@
+An algebraic formalism for quantum decoherence in systems with continuous evolution spectrum is introduced. A certain subalgebra, dense in the characteristic algebra of the system, is defined in such a way that Riemann-Lebesgue theorem can be used to explain decoherence in a well defined final pointer basis.

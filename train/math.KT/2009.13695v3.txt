@@ -1,0 +1,1 @@
+Let G be a linear Lie group acting properly and isometrically on a G-spin^c manifold M with compact quotient. We show that Poincar\'e duality holds between G-equivariant K-theory of M, defined using finite-dimensional G-vector bundles, and G-equivariant K-homology of M, defined through the geometric model of Baum and Douglas.

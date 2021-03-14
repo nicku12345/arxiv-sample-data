@@ -1,0 +1,1 @@
+We give a classification result for a certain class of C^{*}-algebras \mathfrak{A} over a finite topological space X in which there exists an open set U of X such that U separates the finite and infinite subquotients of \mathfrak{A}. We will apply our results to C^{*}-algebras arising from graphs.

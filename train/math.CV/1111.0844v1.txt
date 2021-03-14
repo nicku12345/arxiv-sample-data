@@ -1,0 +1,1 @@
+We prove that if D is a domain in C, alpha>1 and c>0, then the family F of functions meromorphic in D such that |f'(z)|/(1+|f(z)|^alpha)>c for every z in D is normalin D. For alpha=1, the same assumptions imply quasi-normality but not necessarily normality.

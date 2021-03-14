@@ -1,0 +1,1 @@
+Generalizing a result of Miyakawa, Nozaki, Pogosyan and Rosenberg, we prove that there is a one-to-one correspondence between the set of intersecting antichains in a subset of the lower half of the k-valued n-cube and the set of intersecting antichains in the k-valued (n-1)-cube.

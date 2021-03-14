@@ -1,0 +1,1 @@
+Let T be a Fourier integral operator on \R^n of order -(n-1)/2. It was shown by Seeger, Sogge, and Stein that T mapped the Hardy space H^1 to L^1. In this note we show that T is also of weak-type (1,1). The main ideas are a decomposition of T into non-degenerate and degenerate components, and a factorization of the non-degenerate portion.

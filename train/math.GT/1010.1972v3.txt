@@ -1,0 +1,1 @@
+Our main result is a nontrivial lower bound for the distortion of some specific knots. In particular, we show that the distortion of the torus knot T_{p,q} satisfies \delta(T_{p,q})>\frac 1{160}\min(p,q). This answers a 1983 question of Gromov.

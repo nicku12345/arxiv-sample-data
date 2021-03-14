@@ -1,0 +1,1 @@
+For a class of one-dimensional Schrodinger operators with polynomial potentials that includes Hermitian and PT-symmetric operators, we show that the zeros of scaled eigenfunctions have a limit disctibution in the complex plane as the eigenvalues tend to infinity.   This limit distribution depends only on the degree of potential and on the boundary conditions.

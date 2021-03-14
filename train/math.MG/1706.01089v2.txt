@@ -1,0 +1,1 @@
+Recent results of Grepstad and Lev are used to show that weighted cut-and-project sets with one-dimensional physical space and one-dimensional internal space are bounded distance equivalent to some lattice if the weight function h is continuous on the internal space, and if h is either piecewise linear, or twice differentiable with bounded curvature.

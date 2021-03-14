@@ -1,0 +1,1 @@
+Given a (not necessarily discrete) proper metric space M with bounded geometry, we define a groupoid G(M). We show that the coarse Baum--Connes conjecture with coefficients, which states that the assembly map with coefficients for G(M) is an isomorphism, is hereditary by taking closed subspaces.

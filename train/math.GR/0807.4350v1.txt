@@ -1,0 +1,1 @@
+Let a split element of a connected semisimple Lie group act on one of its flag manifolds. We prove that each connected set of fixed points of this action is itself a flag manifold. With this we can obtain the generalized Bruhat decomposition of a semisimple Lie group by entirely dynamical arguments.

@@ -1,0 +1,1 @@
+Sufficient conditions are developed for a class of generalized Polya urn schemes ensuring exchangeability. The extended class includes the Blackwell-MacQueen Polya urn and the urn schemes for the two-parameter Poisson-Dirichlet process and finite dimensional Dirichlet priors among others.

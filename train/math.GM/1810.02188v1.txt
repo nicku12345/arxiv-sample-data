@@ -1,0 +1,1 @@
+We show that for any P= 6^{m+1}.N -1  is a prime number for any 1 < N \le 13 , N \ne 8 and N \ne i^{m+1}Mod(6i+1)  where  i \in Z^+  and  m \in  odd Z^+  for 1 < N \le 13 and N \ne 8 and also we further discussed that P= 6^{m+1}.N -1  is a prime number for  N >13  if and only if , N \ne i^{m+1}Mod(6i+1) +(6i +1)a   ; i,a \le Z^+ 

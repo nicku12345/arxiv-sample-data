@@ -1,0 +1,1 @@
+We use Giraudo's construction of combinatorial operads from monoids to offer a conceptual explanation of the origins of Hoffbeck's path sequences of shuffle trees, and use it to define new monomial orders of shuffle trees. One such order is utilised to exhibit a quadratic Gr\"obner basis of the Poisson operad.

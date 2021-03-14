@@ -1,0 +1,1 @@
+In this paper, we identify Laplace transforms of occupation times of intervals until first passage times for spectrally negative L\'evy processes. New analytical identities for scale functions are derived and therefore the results are explicitly stated in terms of the scale functions of the process. Applications to option pricing and insurance risk models are also presented.

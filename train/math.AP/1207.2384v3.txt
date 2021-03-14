@@ -1,0 +1,1 @@
+In this paper, the almost sure global well-posedness of the cubic non linear wave equation on the sphere is studied when the initial datum is a random variable with values in low regularity spaces. The domain is first the 3D sphere, thanks to the existence of a uniformly bounded in L^p basis of L^2(S^3) and then the result is extended to \R^3 thanks to the Penrose transform.

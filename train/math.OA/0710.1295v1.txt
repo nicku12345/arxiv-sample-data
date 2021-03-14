@@ -1,0 +1,1 @@
+We show that a probability measure is not a nontrivial free additive convolution if it puts no mass in an interval whose endpoints are atoms. The analogous results for free multiplicative convolutions are proved as well. The proofs use analytic subordination.

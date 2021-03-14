@@ -1,0 +1,1 @@
+If two random variables X and A are functionally related via f(X)=A for some strictly monotone continuously differentiable function f:R->R, the distribution of X may easily be computed from the distribution of A.

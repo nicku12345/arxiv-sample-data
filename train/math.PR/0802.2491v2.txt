@@ -1,0 +1,1 @@
+We prove an analogue of the classical ballot theorem that holds for any random walk in the range of attraction of the normal distribution. Our result is best possible: we exhibit examples demonstrating that if any of our hypotheses are removed, our conclusions may no longer hold.

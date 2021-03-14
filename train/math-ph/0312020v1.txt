@@ -1,0 +1,1 @@
+We study the non homogeneous quadratic Bessel zeta function \zeta_{RB}(s,\nu,a) defined as the sum of the square of the positive zeros of the Bessel function J_\nu(z) plus a positive constant. In particular, we give explicit formulas for the main associated zeta invariants, namely poles and residua, \zeta_{RB}(0,\nu,a) and \zeta'_{RB}(0,\nu,a).

@@ -1,0 +1,1 @@
+We compute the characters of real irreducible representations of SL(2,q), the special linear group on q letters, for an odd prime q. Moreover, we give the dimensions of these irreducible representations under the actions of cyclic subgroups of SL(2,q).

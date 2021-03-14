@@ -1,0 +1,1 @@
+We introduce the Andre-Quillen cohomology of lambda-rings and Psi-rings, this is different to the lambda-ring cohomology defined by Yau in 2005. We show that there is a natural transformation connecting the cohomology of the K-theory of spheres to the homotopy groups of spheres.

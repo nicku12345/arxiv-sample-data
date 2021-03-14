@@ -1,0 +1,1 @@
+We show that nonparametric regression is asymptotically equivalent in Le Cam's sense with a sequence of Gaussian white noise experiments as the number of observations tends to infinity. We propose a general constructive framework based on approximation spaces, which permits to achieve asymptotic equivalence even in the cases of multivariate and random design.

@@ -1,0 +1,1 @@
+An eigenvalue of a graph G is called a main eigenvalue if it has an eigenvector the sum of whose entries is not equal to zero. In this paper, all connected tricyclic graphs with exactly two main eigenvalues are determined.

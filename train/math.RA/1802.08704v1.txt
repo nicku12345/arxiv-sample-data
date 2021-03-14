@@ -1,0 +1,1 @@
+We explore Jordan derivations of triangular matrices with entries from an additively idempotent semiring. The main result states that for any matrix A over additively idempotent semiring, if we put all the elements of the family of dense submatrices of A to be zeroes, we find a derivative of A. The set of derivations of this type is established.

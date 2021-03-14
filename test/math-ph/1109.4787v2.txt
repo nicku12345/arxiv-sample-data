@@ -1,0 +1,1 @@
+It is demonstrated that a certain integral equation can be solved using the Painleve equation of third kind. Inversely, a special solution of this Painleve equation can be expressed as the ratio of two infinite series of spheroidal functions with known coefficients.

@@ -1,0 +1,1 @@
+We derive explicit inequalities for sums of eigenvalues of one-dimensional Schr\"{o}dinger operators on the whole line. In the case of the perturbed harmonic oscillator, these bounds converge to the corresponding trace formula in the limit as the number of eigenvalues covers the whole spectrum.

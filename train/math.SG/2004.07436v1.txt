@@ -1,0 +1,1 @@
+In our previous work, we provided an algebraic proof of the Zinger's comparison formula between genus one Gromov-Witten invariants and reduced invariants when the target space is a complete intersection of dimension two or three in a projective space. In this paper, we extend the result in any dimensions and for descendant invariants.

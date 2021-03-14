@@ -1,0 +1,1 @@
+In this article, we consider the properties of hitting times for G-martingale and the stopped processes. We prove that the stopped processes for G-martingales are still G-martingales and that the hitting times for a class of G-martingales including G-Brownian motion are quasi-continuous. As an application, we improve the G-martingale representation theorems in [Song10].

@@ -1,0 +1,1 @@
+Recently in symplectic geometry there arose an interest in bounding various functionals on spaces of matrices. It appears that Grothendieck's theorems about factorization are a useful tool for proving such bounds. In this note we present two such applications.

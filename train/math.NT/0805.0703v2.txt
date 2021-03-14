@@ -1,0 +1,1 @@
+Higher order cohomology of arithmetic groups is expressed in terms of (g,K)-cohomology. Generalizing results of Borel, it is shown that the latter can be computed using functions of (uniform) moderate growth. A higher order versions of Borel's conjecture is stated, asserting that the cohomology can be computed using automorphic forms.

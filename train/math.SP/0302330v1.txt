@@ -1,0 +1,1 @@
+For a bounded convex domain \Omega in R^N we prove refined Hardy inequalities that involve the Hardy potential corresponding to the distance to the boundary of \Omega, the volume of \Omega, as well as a finite number of sharp logarithmic corrections. We also discuss the best constant of these inequalities.

@@ -1,0 +1,1 @@
+Using elementary methods, we determine the highest power of 2 dividing a power sum 1^n + 2^n + . . . + m^n, generalizing Lengyel's formula for the case where m is itself a power of 2. An application is a simple proof of Moree's result that, if (a,m,n) is any solution of the generalized Erdos-Moser Diophantine equation 1^n + 2^n + . . . + (m-1)^n = am^n, then m is odd.

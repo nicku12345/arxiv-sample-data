@@ -1,0 +1,1 @@
+We prove pointwise gradient bounds for heat semigroups associated to general (possibly unbounded) Laplacians on infinite graphs satisfying the curvature dimension condition CD(K,\infty). Using gradient bounds, we show stochastic completeness for graphs satisfying the curvature dimension condition.

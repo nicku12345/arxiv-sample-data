@@ -1,0 +1,1 @@
+In the Euclidean setting the Sobolev spaces W^{\alpha,p}\cap L^\infty are algebras for the pointwise product when \alpha>0 and p\in(1,\infty). This property has recently been extended to a variety of geometric settings. We produce a class of fractal examples where it fails for a wide range of the indices \alpha,p.

@@ -1,0 +1,1 @@
+We show basic properties on tensor products for Gelfand-Shilov distributions and Pilipovi{\'c} distributions. This also includes the Fubbini's property of such tensor products. We also apply the Fubbini property to deduce some properties for short-time Fourier transforms of Gelfand-Shilov and Pilipovi{\'c} distributions.

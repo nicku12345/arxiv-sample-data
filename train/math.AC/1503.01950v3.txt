@@ -1,0 +1,1 @@
+Let I_G be the binomial edge ideal on the generic 2 x n - Hankel matrix associated with a closed graph G on the vertex set [n]. We characterize the graphs G for which I_G has maximal regularity and is Gorenstein.

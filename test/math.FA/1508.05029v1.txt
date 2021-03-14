@@ -1,0 +1,1 @@
+Let H be an infinite dimensional Hilbert space. We show that there exist three orthogonal projections X_1, X_2, X_3 onto closed subspaces of H such that for every 0\ne z_0\in H there exist k_1, k_2,\dots \in \{1,2,3\} so that the sequence of iterates defined by z_n= X_{k_n} z_{n-1} does not converge in norm.

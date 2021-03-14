@@ -1,0 +1,1 @@
+We describe the Galois objects and biGalois groups of monomial nonsemisimple Hopf algebras. The main feature of our description is the use of modified versions of the second cohomology group of the grouplike elements. These computations generalize the previous ones of Masuoka and Schauenburg for the Taft algebras.

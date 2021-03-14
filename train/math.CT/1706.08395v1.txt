@@ -1,0 +1,1 @@
+We relativize the notion of a compact object in an abelian category with respect to a fixed subclass of objects. We show that the standard closure properties persist to hold in this case. Furthermore, we describe categorical and set-theoretical conditions under which all products of compact objects remain compact.

@@ -1,0 +1,1 @@
+We show how lattice paths and the reflection principle can be used to give easy proofs of unimodality results. In particular, we give a "one-line" combinatorial proof of the unimodality of the binomial coefficients. Other examples include products of binomial coefficients, polynomials related to the Legendre polynomials, and a result connected to a conjecture of Simion.

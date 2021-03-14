@@ -1,0 +1,1 @@
+We study the Cauchy problem for the 3D Navier-Stokes equations, and prove some scalaring-invariant regularity criteria involving only one velocity component.

@@ -1,0 +1,1 @@
+A direct approach to Ball's simplex inequality is presented. This approach, which does not use the Brascamp-Lieb inequality, also gives Barthe's characterization of the simplex for Ball's inequality and extends it from discrete to arbitrary measures. It also yields the dual inequality, along with equality conditions, and it does both for arbitrary measures.

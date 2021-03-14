@@ -1,0 +1,1 @@
+This paper deals with the problem of boundary stabilization of first-order n\times n inhomogeneous quasilinear hyperbolic systems. A backstepping method is developed. The main result supplements the previous works on how to design multi-boundary feedback controllers to realize exponential stability of the original nonlinear system in the spatial H^2 sense.

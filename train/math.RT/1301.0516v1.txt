@@ -1,0 +1,1 @@
+We compute the Hochschild cohomology groups \HH^*(A) in case A is a triangular string algebra, and show that its ring structure is trivial.

@@ -1,0 +1,1 @@
+We prove that any unicritical polynomial f_c:z\mapsto z^d+c which is at most finitely renormalizable and has only repelling periodic points is combinatorially rigid. It implies that the connectedness locus (the ``Multibrot set'') is locally connected at the corresponding parameter values. It generalizes Yoccoz's Theorem for quadratics to the higher degree case.

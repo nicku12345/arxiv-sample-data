@@ -1,0 +1,1 @@
+In this short research note we obtain double definite integral expressions for the Kapteyn type series built by Kummer's M (or confluent hypergeometric {}_1F_1) functions. These kind of series unify in natural way the similar fashion results for Neumann-, Schl\"omilch- and Kapteyn-Bessel series recently established by Pog\'any, S\"uli, Baricz and Jankov Ma\v{s}irevi\'c.

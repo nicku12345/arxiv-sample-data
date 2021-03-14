@@ -1,0 +1,1 @@
+Let A be a unital separable C*-algebra. We observe that A is type I if and only if the CNT-entropy of every inner automorphism of A is zero.

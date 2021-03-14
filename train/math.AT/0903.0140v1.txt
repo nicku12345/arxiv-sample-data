@@ -1,0 +1,1 @@
+Let PSigma_n denote the group that can be thought of either as the group of motions of the trivial n-component link or the group of symmetric automorphisms of a free group of rank n. The integral cohomology ring of PSigma_n is determined, establishing a conjecture of Brownstein and Lee.

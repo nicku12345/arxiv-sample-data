@@ -1,0 +1,1 @@
+We show that for every n > 0 there is a planar topological disk A_0 and n translates A_1, A_2, ..., A_n of A_0 such that the interiors of A_0, ... A_n are pairwise disjoint, but with each A_i touching A_0 for 1 <= i <= n.

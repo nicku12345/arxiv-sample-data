@@ -1,0 +1,1 @@
+We give an improved lower bound for the error of any quadrature computing \int_{-1}^1 f(x) d\alpha(x) of analytic functions bounded in the neighborhood of [-1,1].

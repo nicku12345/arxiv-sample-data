@@ -1,0 +1,1 @@
+We identify the space of tangentially straightened long knots in R^m, for m greater than or equal to 4, as the double loops on the space of derived operad maps from the associative operad into a version of the little m-disk operad. This verifies a conjecture of Kontsevich, Lambrechts, and Turchin.

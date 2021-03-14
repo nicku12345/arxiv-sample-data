@@ -1,0 +1,1 @@
+We show that, for a closed non-orientable surface F, an automorphism of H_1(F,\Z) is induced by a homeomorphism of F if and only if it preserves the (mod 2) intersection pairing. We shall also prove the corresponding result for punctured surfaces.

@@ -1,0 +1,1 @@
+This paper proves that if points Z_1,Z_2,... are chosen independently and identically using some measure \mu from the unit circle in the complex plane, with p_n(z) = (z-Z_1)(z-Z_2)...(z-Z_n), then the empirical distribution of the critical points of p_n converges weakly to \mu.

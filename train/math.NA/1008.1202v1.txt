@@ -1,0 +1,1 @@
+We present Gerschgorin-type eigenvalue inclusion sets applicable to generalized eigenvalue problems.Our sets are defined by circles in the complex plane in the standard Euclidean metric, and are easier to compute than known similar results.As one application we use our results to provide a forward error analysis for a computed eigenvalue of a diagonalizable pencil.

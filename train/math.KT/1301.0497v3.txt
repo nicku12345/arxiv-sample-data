@@ -1,0 +1,1 @@
+We consider the special linear group G=SL2 over a p-adic field, and its diagonal subgroup M=GL1. Parabolic induction of representations from M to G induces a map in equivariant homology, from the Bruhat-Tits building of M to that of G. We compute this map at the level of chain complexes, and show that it is given by parahoric induction (as defined by J.-F. Dat).

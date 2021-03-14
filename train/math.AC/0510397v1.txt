@@ -1,0 +1,1 @@
+A Theorem of Eakin and Sathaye relates the number of generators of a certain power of an ideal with the existence of a distinguished reduction for that ideal. We prove how this result can be obtained as a special case of Green's General Hyperplane Restriction Theorem.

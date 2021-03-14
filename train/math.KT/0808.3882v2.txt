@@ -1,0 +1,1 @@
+For any regular noetherian scheme X and every k>0, we define a chain morphism between two chain complexes whose homology with rational coefficients is isomorphic to the algebraic K-groups of X tensored by the field of rational numbers. It is shown that these morphisms induce in homology the Adams operations defined by Gillet and Soule or the ones defined by Grayson.

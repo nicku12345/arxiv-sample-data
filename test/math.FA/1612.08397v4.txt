@@ -1,0 +1,1 @@
+We develop a constructive process which determines all extreme points of the unit ball of the space of m--linear forms, m\geq1. Our method provides a full characterization of the geometry of that space through finitely many elementary steps, and thus it can be extensively applied in both computational and theoretical problems.

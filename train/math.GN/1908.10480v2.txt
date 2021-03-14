@@ -1,0 +1,1 @@
+We introduce the notion of filtration between topologies and study its stabilization properties. Descriptive set theoretic complexity plays a role in this study. Filtrations lead to natural transfinite sequences approximating a given equivalence relation. We investigate those.

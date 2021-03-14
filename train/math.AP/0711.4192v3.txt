@@ -1,0 +1,1 @@
+We transpose work by T.Mizumachi to prove smoothing estimates for dispersive solutions of the linearization at a ground state of a Nonlinear Schr\"odinger equation (NLS) in 1D. As an application we extend to dimension 1D a result on asymptotic stability of ground states of NLS proved by Cuccagna & Mizumachi for dimensions \ge 3

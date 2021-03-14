@@ -1,0 +1,1 @@
+In this paper we show how iterate weak crossed products with common monoid. More concretely, if (A\otimes V, \mu_{A\otimes V}) and (A\otimes W, \mu_{A\otimes W}) are weak crossed products, we find sufficient conditions to obtain a new weak crossed product (A\otimes V\otimes W, \mu_{A\otimes V\otimes W})

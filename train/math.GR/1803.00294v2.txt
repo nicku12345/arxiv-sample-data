@@ -1,0 +1,1 @@
+We show that the Aut-invariant word norm on right angled Artin and right angled Coxeter groups is unbounded (except in few special cases). To prove unboundedness we exhibit certain characteristic subgroups. This allows us to find unbounded quasimorphisms which are Lipschitz with respect to the Aut-invariant word norm.

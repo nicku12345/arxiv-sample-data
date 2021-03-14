@@ -1,0 +1,1 @@
+We give a direct proof of a result of Sweedler describing the cofree cocommutative coalgebra over a vector space, and use our approach to give an explicit construction of liftings of maps into this universal coalgebra. The basic ingredients in our approach are local cohomology and residues.

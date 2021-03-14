@@ -1,0 +1,1 @@
+We prove that return time statistics of a dynamical system do not change if one passes to an induced (i.e. first return) map. We apply this to show exponential return time statistics in i) smooth interval maps with nowhere-dense critical orbits and ii) certain interval maps with neutral fixed points. The method also applies to iii) certain quadratic maps of the complex plane.

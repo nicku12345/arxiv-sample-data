@@ -1,0 +1,1 @@
+We introduce the notion of restricted dynamical quantum groups through their category of representations, which are monoidal categories with a forgetful functor to the category of \pi-graded vector spaces for a groupoid \pi.

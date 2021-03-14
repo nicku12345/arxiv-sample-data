@@ -1,0 +1,1 @@
+We characterize the region of meromorphic continuation of an analytic function f in terms of the geometric rate of convergence on a compact set of sequences of multi-point rational interpolants of f. The rational approximants have a bounded number of poles and the distribution of interpolation points is arbitrary.

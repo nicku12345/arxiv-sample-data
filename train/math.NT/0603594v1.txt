@@ -1,0 +1,1 @@
+We establish automatic realizations of Galois groups among groups M\rtimes G, where G is a cyclic group of order p^n for a prime p and M is a quotient of the group ring Fp[G].

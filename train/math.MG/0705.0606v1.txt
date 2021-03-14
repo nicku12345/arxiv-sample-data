@@ -1,0 +1,1 @@
+We present a self-contained proof that the number of diameter pairs among n points in Euclidean 3-space is at most 2n-2. The proof avoids the ball polytopes used in the original proofs by Grunbaum, Heppes and Straszewicz. As a corollary we obtain that any three-dimensional diameter graph can be embedded in the projective plane.

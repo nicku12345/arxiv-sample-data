@@ -1,0 +1,1 @@
+The basic Monty Hall problem is explored to introduce into the fundamental concepts of the game theory and to give a complete Bayesian and a (noncooperative) game-theoretic analysis of the situation. Simple combinatorial arguments are used to exclude the holding action and to find minimax solutions.

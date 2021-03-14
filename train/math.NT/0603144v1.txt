@@ -1,0 +1,1 @@
+Recently (see [1]) I has introduced an interesting the Euler-Barnes multiple zeta function. In this paper we construct the q-analogue of Euler-Barnes multiple zeta function which interpolates the q-analogue of Frobenius-Euler numbers of higher order at negative integers.

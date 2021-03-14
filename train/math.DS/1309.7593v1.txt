@@ -1,0 +1,1 @@
+Consider a multimodal interval map f of C^3 with non-flat critical points. We establish several characterizations of the map f is quasi-symmetrically conjugated to a piecewise affine map in the case f is topologically exact and all of its periodic points are hyperbolic repelling. In particular, we give a negative answer to a question posted by Henk Bruin in \cite{Bru96}.

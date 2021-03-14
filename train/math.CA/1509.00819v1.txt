@@ -1,0 +1,1 @@
+The conjecture by Steklov was solved negatively by Rakhmanov in 1979. His original proof was based on the formula for orthogonal polynomial obtained by adding point masses to the measure of orthogonality. In this note, we show how this polynomial can be obtained by applying the method developed recently for proving the sharp lower bounds for the problem by Steklov.

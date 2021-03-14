@@ -1,0 +1,1 @@
+We give a formal concept of (right) wide Morita context between two 0-cells in arbitrary bicategory. We then construct a new bicategory with the same 0-cells as the oldest one, and with 1-cells all these (right) wide Morita contexts. An application to the (right) Eilenberg-Moore bicategory of comonads associated to the bimodules bicategory is also given.

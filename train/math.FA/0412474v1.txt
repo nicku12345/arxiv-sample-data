@@ -1,0 +1,1 @@
+We investigate the stability of Pexiderized mappings in Banach modules over a unital Banach algebra. As a consequence, we establish the Hyers--Ulam stability of the orthogonal Cauchy functional equation of Pexider type f_1(x+y)=f_2(x)+f_3(y), x\perp y in which \perp is the orthogonality in the sense of Ratz.

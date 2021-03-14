@@ -1,0 +1,1 @@
+We obtain Sobolev inequalities for the Schrodinger operator -\Delta-V, where V has critical behaviour V(x)=((N-2)/2)^2|x|^{-2} near the origin. We apply these inequalities to obtain pointwise estimates on the associated heat kernel, improving upon earlier results.

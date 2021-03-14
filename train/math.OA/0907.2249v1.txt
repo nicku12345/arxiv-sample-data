@@ -1,0 +1,1 @@
+We prove that uniform Roe C*-algebras associated to some expander graphs coming from discrete groups with property (\tau) are not K-exact. In particular, we show that this is the case for the expander obtained as Cayley graphs of a sequence of alternating groups (with appropriately chosen generating sets).

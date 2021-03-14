@@ -1,0 +1,1 @@
+The generating series associated to a certain sequence of limited Taylor expansions coincides with the continuously iterated Invert Transform and displays thus a nice functional equality.

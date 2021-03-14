@@ -1,0 +1,1 @@
+The Qth-power algorithm for computing structured global presentations of integral closures of affine domains over finite fields is modified to compute structured presentations of integral closures of ideals in affine domains over finite fields relative to a local monomial ordering. A non-homogeneous version of the standard (homogeneous) Rees algebra is introduced as well.

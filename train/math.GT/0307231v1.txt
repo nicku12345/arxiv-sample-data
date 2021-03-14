@@ -1,0 +1,1 @@
+An updated proof of a 1933 theorem of Goeritz, exhibiting a finite set of generators for the group of automorphisms of the 3-sphere that preserve a genus two Heegaard splitting. The group is analyzed via its action on a certain connected 2-complex. (The analogous problem for higher genus Heegaard splittings appears to remain unresolved.)

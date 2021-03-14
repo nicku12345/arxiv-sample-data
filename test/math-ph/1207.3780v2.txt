@@ -1,0 +1,1 @@
+From the study of a functional equation relating the Gibbs measures at two different tempratures we prove that the specific entropy of the Gibbs measure of the Sherrington-Kirkpatrick Spin Glass Model vanishes at the inverse temperature \beta=4 \log2.

@@ -1,0 +1,1 @@
+As a first step towards a general set-theoretic counterpart of the remarkable Bernstein-Walsh-Siciak Theorem concerning the rapidity of polynomial approximation of a holomorphic function on polynomially convex compact sets in \mathbb{C}^n, we prove a version of this theorem for analytic hypersurfaces.

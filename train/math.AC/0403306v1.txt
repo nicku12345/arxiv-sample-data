@@ -1,0 +1,1 @@
+We introduce classes of rings which are close to being Gorenstein. These rings arise naturally as specializations of rings of countable CM type. We study these rings in detail, and along the way generalize an old result of Teter which characterized Artinian rings which are Gorenstein rings modulo their socle.

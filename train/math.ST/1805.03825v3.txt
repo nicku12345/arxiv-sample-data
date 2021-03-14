@@ -1,0 +1,1 @@
+We prove that in many realistic cases, the ordinary sample mean after a group sequential trial is asymptotically normal if the maximal number of observations increases. We derive that it is often safe to use naive confidence intervals for the mean of the collected observations, based on the ordinary sample mean. Our theoretical findings are confirmed by a simulation study.

@@ -1,0 +1,1 @@
+Let R be a ring, \sigma an injective endomorphism of R and \delta a \sigma-derivation of R. We prove that if R is semiprime left Goldie then the same holds for the Ore extension R[x;\sigma,\delta] and both rings have the same left uniform dimension.

@@ -1,0 +1,1 @@
+In [14] Hemmer conjectures that the module of fixed points for the symmetric group \Sigma_m of a Specht module for \Sigma_n (with n>m), over a field of positive characteristic p, has a Specht series, when viewed as a \Sigma_{n-m}-module. We provide a counterexample for each prime p. The examples have the same form for p\geq 5 and we treat the cases p=3 and p=2 separately.

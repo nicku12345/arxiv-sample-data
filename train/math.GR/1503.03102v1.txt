@@ -1,0 +1,1 @@
+We use probabilistic methods to prove that many Coxeter groups are incoherent. In particular, this holds for Coxeter groups of uniform exponent > 2 with sufficiently many generators.

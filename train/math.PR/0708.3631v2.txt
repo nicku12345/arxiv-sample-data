@@ -1,0 +1,1 @@
+We introduce a class of Gaussian processes with stationary increments which exhibit long-range dependence. The class includes fractional Brownian motion with Hurst parameter H>1/2 as a typical example. We establish infinite and finite past prediction formulas for the processes in which the predictor coefficients are given explicitly in terms of the MA and AR coefficients.

@@ -1,0 +1,1 @@
+For fixed t\in [0,1) and h>0, consider the local uniform empirical process \DD_{n,h,t}(s):=n^{-1/2}\coo\sliin 1_{[t,t+hs]}(U_i)-hs\cff,\;s\in [0,1], where the U_i are independent and uniformly distributed on [0,1]. We investigate the functional limit behaviour of \DD_{n,h,t} uniformly in \wth_n\le h\le h_n when n\wth_n/\log\log n\rar \infty and h_n\rar 0.

@@ -1,0 +1,1 @@
+Working in homotopy type theory, we provide a systematic study of homotopy limits of diagrams over graphs, formalized in the Coq proof assistant. We discuss some of the challenges posed by this approach to formalizing homotopy-theoretic material. We also compare our constructions with the more classical approach to homotopy limits via fibration categories.

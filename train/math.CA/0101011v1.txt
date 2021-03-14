@@ -1,0 +1,1 @@
+Some divergent trigonometric integrals have appeared in standard tables for many years, listed as converging. We give a simple proof that these integrals diverge and trace their history. The original error was made when a (startlingly) famous mathematician incorrectly differentiated under the integral sign with some convergent integrals that depend on a paramater.

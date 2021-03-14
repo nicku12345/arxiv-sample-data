@@ -1,0 +1,1 @@
+A compact semisimple Lie algebra \mathfrak{g} induces a Poisson structure \pi on the unit sphere S in \mathfrak{g}^*. We compute the moduli space of Poisson structures on S around \pi. This is the first explicit computation of a Poisson moduli space in dimension greater or equal than three around a degenerate (i.e. not symplectic) Poisson structure.

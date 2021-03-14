@@ -1,0 +1,1 @@
+We present a slightly more general version of Boole's additive formula for factorials as a simple consequence of Lagrange's Interpolating Polynomial theorem.

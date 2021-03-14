@@ -1,0 +1,1 @@
+A conjecture from a paper by J. Bierkens and A.C.M. Ran concerning the location of eigenvalues of rank one perturbations of singular M-matrices is shown to be false in dimension four and higher, but true for dimensions two and three.

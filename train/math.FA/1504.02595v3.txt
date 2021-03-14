@@ -1,0 +1,1 @@
+We find a priori and a posteriori error estimates of the best proximity point for the Picard iteration associated to a cyclic contraction map, which is defined on a uniformly convex Banach space with modulus of convexity of power type. We find the rate of convergence for the Picard sequence.

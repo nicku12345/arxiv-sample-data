@@ -1,0 +1,1 @@
+Let c(d) denote the minimal composition length of all finite solvable groups with solvable (or derived) length d. We prove that c(d) equals 0,1,2,4,5,7,8,13,15 when d=0,1,2,3,4,5,6,7,8.

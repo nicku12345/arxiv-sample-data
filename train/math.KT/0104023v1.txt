@@ -1,0 +1,1 @@
+We study the completion of a group relative to a Zariski dense representation in a reductive algebraic group over a field k. The characteristic zero case was worked out previously by R. Hain; we extend his results to arbitrary characteristic. The primary application is to the study of the cohomology of groups such as SL_n(k[[T]]).

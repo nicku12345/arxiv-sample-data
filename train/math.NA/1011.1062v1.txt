@@ -1,0 +1,1 @@
+The plane wave stability properties of the conservative schemes of Besse and Fei et al. for the cubic Schr\"{o}dinger equation are analysed. Although the two methods possess many of the same conservation properties, we show that their stability behaviour is very different. An energy preserving generalisation of the Fei method with improved stability is presented.

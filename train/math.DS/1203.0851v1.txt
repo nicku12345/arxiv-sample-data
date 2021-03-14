@@ -1,0 +1,1 @@
+This paper presents a sufficient condition for a continuum in R^n to be embeddable in R^n in such a way that its image is not an attractor of any iterated function system. An example of a continuum in R^2 that is not an attractor of any weakly contracting iterated function system is also given.

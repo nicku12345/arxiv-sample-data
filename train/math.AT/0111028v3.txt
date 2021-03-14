@@ -1,0 +1,1 @@
+We prove the following statement motivated by the quaternionic linear algebra: there is no continuous map from the quaternionic Grassmannian to the quaternionic projective space such that the pull back of the first Pontryagin class of the tautological bundle over the projective space is equal to the first Pontryagin class of the tautological bundle over the Grassmannian.

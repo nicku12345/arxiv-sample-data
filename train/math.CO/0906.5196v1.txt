@@ -1,0 +1,1 @@
+We find the generating function for C(n,k,r), the number of compositions of n into k positive parts all of whose runs (contiguous blocks of constant parts) have lengths less than r, using recent generalizations of the method of Guibas and Odlyzko for finding the number of words that avoid a given list of subwords.

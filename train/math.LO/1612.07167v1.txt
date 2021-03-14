@@ -1,0 +1,1 @@
+It is known that the set of tautologies of second order intuitionistic propositional logic, \mathrm{IPC} 2, is undecidable. Here, we prove that the sets of formulas of \mathrm{IPC} 2 which are true in the algebra of open subsets of reals or rationals are decidable.

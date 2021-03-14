@@ -1,0 +1,1 @@
+Consider the Hamiltonian action of a torus on a compact twisted generalized complex manifold M. We first observe that Kirwan injectivity and surjectivity hold for ordinary equivariant cohomology in this setting. Then we prove that these two results hold for the twisted equivariant cohomology as well.

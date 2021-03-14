@@ -1,0 +1,1 @@
+We study three connective versions of the spectrum for topological modular forms of level 3. All three were described briefly by Mahowald and Rezk in [Pure Appl Math Quar (2009)], but we add much detail to their discussion. Letting tmf(3) denote our connective model which is a ring spectrum, we compute the tmf(3)-homology of RP^infty.

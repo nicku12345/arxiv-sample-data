@@ -1,0 +1,1 @@
+We show that the classifying topos for the theory of fields does not satisfy De Morgan's law, and we identify its largest dense De Morgan subtopos as the classifying topos for the theory of fields of nonzero characteristic which are algebraic over their prime fields.

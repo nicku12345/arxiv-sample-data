@@ -1,0 +1,1 @@
+We consider the 1D Dirac operator on the half-line with compactly supported potentials. We study resonances as the poles of scattering matrix or equivalently as the zeros of modified Fredholm determinant. We obtain the following properties of the resonances: 1) asymptotics of counting function, 2) estimates on the resonances and the forbidden domain.

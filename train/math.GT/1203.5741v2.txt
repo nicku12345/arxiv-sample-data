@@ -1,0 +1,1 @@
+C. Armond, S. Garoufalidis and T.Le have shown that a unicolored Jones polynomial of a B-adequate link has a stable tail at large colors. We categorify this tail by showing that Khovanov homology of a unicolored link also has a stable tail, whose graded Euler characteristic coincides with the tail of the Jones polynomial.

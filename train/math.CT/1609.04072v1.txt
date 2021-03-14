@@ -1,0 +1,1 @@
+We study a new type of higher categorical structure, called weakly globular n-fold category, previously introduced by the author. We show that this structure is a model of weak n-categories by proving that it is suitably equivalent to the Tamsamani-Simpson model. We also introduce groupoidal weakly globular n-fold categories and show that they are algebraic models of n-types.

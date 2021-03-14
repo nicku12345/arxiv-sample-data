@@ -1,0 +1,1 @@
+Supramenability of groups is characterised in terms of invariant measures on locally compact spaces. This opens the door to constructing interesting crossed product C*-algebras for non-supramenable groups. In particular, stable Kirchberg algebras in the UCT class are constructed using crossed products for both amenable and non-amenable groups.

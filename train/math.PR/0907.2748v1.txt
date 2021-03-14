@@ -1,0 +1,1 @@
+We obtain the viscosity solution of G-heat equation with the initial condition \phi(x)=x^{n} for each integer n\geq1 using the method of G-Brownian motion.

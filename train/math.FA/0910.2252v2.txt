@@ -1,0 +1,1 @@
+In this brief note, we provide an example of non complete locally convex space E with a \sigma(E, E^*) closed bounded subset C\subset E, which is not \sigma(E, E^*)-compact, even if every \varphi\in E^* attains its sup over C.

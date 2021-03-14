@@ -1,0 +1,1 @@
+We show that the weak infinitesimal generator of a class of Markov processes acts on bounded continuous functions with bounded continuous second derivative as a singular integral with respect to the orthogonality measure of the explicit family of polynomials.

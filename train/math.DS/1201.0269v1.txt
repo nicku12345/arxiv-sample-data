@@ -1,0 +1,1 @@
+In this paper we consider a class of differential equations with state-dependent delays. We show first and second-order differentiability of the solution with respect to parameters in a pointwise sense and also using the C-norm on the state-space, assuming that the state-dependent time lag function is piecewise strictly monotone.

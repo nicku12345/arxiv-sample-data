@@ -1,0 +1,1 @@
+Let I be a proper graded ideal in a positively graded polynomial ring S over a field of characteristic 0. In this note it is shown that S/I^k is Golod for all k\geq 2.

@@ -1,0 +1,1 @@
+This expository paper covers the first two sections of chapter VI of Shelah's book "Proper and Improper Forcing," including the preservationn (using CS iterations of proper forcings) of omega-omega bounding, Sacks property, Lavewr property, P-point property, and others.

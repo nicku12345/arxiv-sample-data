@@ -1,0 +1,1 @@
+In this paper we present a version of the general polynomial involutive algorithm for computing Janet bases specialized to toric ideals. The relevant data structures are Janet trees which provide a very fast search for a Janet divisor. We broach also efficiency issues in view of application of the algorithm presented to computation of toric ideals.

@@ -1,0 +1,1 @@
+A zircon is a poset in which every principal order ideal is finite and equipped with a so-called special matching. We prove that the subposet induced by the fixed points of any automorphism of a zircon is itself a zircon. This provides a natural context in which to view recent results on Bruhat orders on twisted involutions in Coxeter groups.

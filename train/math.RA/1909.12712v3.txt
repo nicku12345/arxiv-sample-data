@@ -1,0 +1,1 @@
+Let X be a set of noncommuting variables of cardinality card(X)\geqslant 2, and {\mathscr G}=\{\sigma_x\}_{x\in X}, {\mathscr D}=\{\delta_x\}_{x\in X} be families of automorphisms and skew derivations of the ring R. It is proved that if the ring R is semiprime Goldie, then the free skew extension R[X;{\mathscr G},{\mathscr D}] is semiprimitive.

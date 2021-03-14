@@ -1,0 +1,1 @@
+In this paper, we define a realizability semantics for the simply typed \lambda\mu-calculus. We show that if a term is typable, then it inhabits the interpretation of its type. This result serves to give characterizations of the computational behavior of some closed typed terms. We also prove a completeness result of our realizability semantics using a particular term model.

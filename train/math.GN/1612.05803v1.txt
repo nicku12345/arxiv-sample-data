@@ -1,0 +1,1 @@
+Two of the natural topologies for infinite graphs with edge-ends are Etop and Itop. In this paper, we study and characterize them. We show that Itop can be constructed by inverse limits of inverse systems of graphs with finitely many vertices. Furthermore, as an application of the inverse limit approach, we construct a topological spanning tree in Itop

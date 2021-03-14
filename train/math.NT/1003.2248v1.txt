@@ -1,0 +1,1 @@
+Let q be an integral quadratic form of signature (2,m+2). We will show that the Siegel theta functions attached to q satisfies certain symmetries. As an application, we prove the symmetries for automorphic forms on the orthogonal group of q closely related to Heegener divisors (Borcherds lifts and automorphic Green functions).

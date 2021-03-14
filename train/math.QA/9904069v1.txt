@@ -1,0 +1,1 @@
+The construction of link polynomials associated with finite dimensional representations of ribbon quasi-Hopf algebras is discussed in terms of the formulation of an appropriate Markov trace. We then show that this Markov trace is invariant under twisting of the quasi-Hopf structure, which in turn implies twisting invariance of the associated link polynomials.

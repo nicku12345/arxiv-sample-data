@@ -1,0 +1,1 @@
+The main purpose of this paper is to introduce the geometric difference sequence space   l_\infty^{G} (\Delta_G) and prove that l_\infty^{G} ({\Delta}_{G}) is a Banach space with respect to the norm \left\|.\right\|^G_{{\Delta}_G}. Also we compute the \alpha-dual, \beta-dual and \gamma-dual spaces. Finally we obtain the Geometric Newton-Gregory interpolation formulae.

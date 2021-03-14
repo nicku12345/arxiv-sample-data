@@ -1,0 +1,1 @@
+We show that multiplication from L_p\times L_q to L_1 (for p,q\in [1,\infty], 1/p+1/q=1) is a uniformly open mapping. We also prove the uniform openness of the multiplication from \ell_1\times c_0 to \ell_1. This strengthens the former results obtained by M. Balcerzak, A. Majchrzycki and A. Wachowicz.

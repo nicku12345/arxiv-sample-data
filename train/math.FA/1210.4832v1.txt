@@ -1,0 +1,1 @@
+We find the exact values for constants in bilateral Calderon-Stein-Weiss inequalities between tail (Marcinkiewicz) norm and weak Lebesgue (Lorentz) norm.   Possible applications: Functional Analysis (for instance, interpolation of operators), Integral Equations, Probability Theory and Statistics (tail estimations for random variables).

@@ -1,0 +1,1 @@
+We construct families of convex domains that are biholomorphic to bounded domains, but not bounded convex domains. This is accomplished by finding an obstruction related to the Gromov hyperbolicity of the Kobayashi metric.

@@ -1,0 +1,1 @@
+In this note we study a family of algebras with one parameter defined by generators and relations. The set of generators contains the generators of the usual braids algebra, and another set of generators which is interpreted as ties between consecutive strings. We also study the representations theory of the algebra when the parameter is specialized to 1.

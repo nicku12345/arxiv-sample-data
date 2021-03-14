@@ -1,0 +1,1 @@
+Given a simplicial idempotent augmented endofunctor F on a simplicial combinatorial model category M, under the assumption of Vopenka's principle, we exhibit a set A of cofibrant objects in M such that F is equivalent to \CW_A, the cellularization with respect to A.

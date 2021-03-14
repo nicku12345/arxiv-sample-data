@@ -1,0 +1,1 @@
+We prove the folklore endpoint multilinear k_j-plane conjecture originated from the paper \cite{bennett2006multilinear} of Bennett, Carbery and Tao. Along the way we prove a more general result, namely the endpoint multilinear k_j-variety theorem. Finally, we generalize our results to the endpoint perturbed Beascamp-Lieb inequality using techniques in this paper.

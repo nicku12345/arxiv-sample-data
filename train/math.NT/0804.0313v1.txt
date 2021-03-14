@@ -1,0 +1,1 @@
+Let A be a zero-sum free subset of Z_n with |A|=k. We compute for k\le 7 the least possible size of the set of all subset-sums of A.

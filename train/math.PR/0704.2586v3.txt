@@ -1,0 +1,1 @@
+If the coefficients of polynomials are selected by some random process, the zeros of the resulting polynomials are in some sense random. In this paper the author rephrases the above in more precise language, and calculates the joint conditional densities of a random vector whose values determine almost surely the zeros of a "random" reduced cubic.

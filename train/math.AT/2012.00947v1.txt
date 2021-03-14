@@ -1,0 +1,1 @@
+The paper is devoted to an approach to the bounded cohomology theory based on the theories of simplicial sets and Postnikov systems. In particular, the main results of the bounded cohomology theory of topological spaces are extended to arbitrary Kan (fibrant) simplicial sets.

@@ -1,0 +1,1 @@
+We develop a new way of writing the Lame Hamiltonian in Lie-algebraic form. This yields, in a natural way, an explicit formula for both the Lame polynomials and the classical non-meromorphic Lame functions in terms of Chebyshev polynomials and of a certain family of weakly orthogonal polynomials

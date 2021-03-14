@@ -1,0 +1,1 @@
+In this note a proof of a differential analog of Chevalley's theorem \cite{C} on homomorphism extensions is given. An immediate corollary is a condition of finitenes of extensions of differential algebras and several equivalent definitions of a differentially closed field, including Kolchin's Nullstellensatz.

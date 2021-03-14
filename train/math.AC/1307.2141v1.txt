@@ -1,0 +1,1 @@
+We study the regularity of binomial edge ideals. For a closed graph G we show that the regularity of the binomial edge ideal J_G coincides with the regularity of \ini_{\lex}(J_G) and can be expressed in terms of the combinatorial data of G. In addition, we give positive answers to Matsuda-Murai conjecture for some classes of graphs.

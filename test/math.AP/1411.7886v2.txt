@@ -1,0 +1,1 @@
+The energy-critical defocusing nonlinear Schr\"odinger equation on 3-dimensional rectangular tori is considered. We prove that the global well-posedness result for the standard torus of Ionescu and Pausader extends to this class of manifolds, namely, for any initial data in H^1 the solution exists globally in time.

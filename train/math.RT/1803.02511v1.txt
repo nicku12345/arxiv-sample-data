@@ -1,0 +1,1 @@
+Let H be a finite-dimensional weak Hopf algebra over a field k and A/B be a right faithfully flat weak H-Galois extension. We prove that if the finitistic dimension of B is finite, then it is less than or equal to that of A. Moreover, suppose that H is semisimple. If the finitistic dimension conjecture holds, then the finitistic dimension of B is equal to that of A.

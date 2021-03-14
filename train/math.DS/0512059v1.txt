@@ -1,0 +1,1 @@
+We study weak mixing of all orders for weakly mixing measure preserving dynamical systems, where the dynamics is given by the action of an abelian second countable topological group which has an invariant measure under the group operation. One of the main technical tools we use is a van der Corput lemma for Hilbert space valued functions on a second countable topological group.

@@ -1,0 +1,1 @@
+We give a description of the kernel of the induction map K_0(R)->K_0(S), where S is a commutative ring and R is the ring of invariants of the action of a finite group G on S. The description is in terms of H^1(G,GL(S)).

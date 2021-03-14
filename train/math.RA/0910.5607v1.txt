@@ -1,0 +1,1 @@
+Preclones are described as the closed classes of the Galois connection induced by a preservation relation between operations and matrix collections. The Galois closed classes of matrix collections are also described by explicit closure conditions.

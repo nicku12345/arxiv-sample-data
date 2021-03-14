@@ -1,0 +1,1 @@
+It is shown that an arbitrary function from D\subset \R^n to \R^m will become C^{0,\alpha}-continuous in almost every x\in D after restriction to a certain subset with limit point x. For n\geq m differentiability can be obtained. Examples show the H\"older exponent \alpha=\min\{1,\frac{n}{m}\} is optimal.

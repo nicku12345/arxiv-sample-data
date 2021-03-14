@@ -1,0 +1,1 @@
+We review and simplify A. Beilinson's construction of a basis for the motivic cohomology of a point over a cyclotomic field, then promote the basis elements to higher Chow cycles and evaluate the KLM regulator map on them.

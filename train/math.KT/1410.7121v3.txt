@@ -1,0 +1,1 @@
+Categorical resolution of singularities has been constructed in arXiv:1212.6170. It proceeds by alternating two steps of seemingly different nature. We show how to use the formalism of filtered derived categories to combine the two steps into one. This results in a certain rather natural categorical refinement of the usual blowup of an algebraic variety in a closed subscheme.

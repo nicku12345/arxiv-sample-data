@@ -1,0 +1,1 @@
+It is well-known that the Fundamental Identity (FI) implies that Nambu brackets are decomposable, i.e., given by a determinantal formula. We find a weaker alternative to the FI that allows for non-decomposable Nambu brackets, but still yields a Darboux-like Theorem via a Nambu-type generalization of Weinstein's splitting principle for Poisson manifolds.

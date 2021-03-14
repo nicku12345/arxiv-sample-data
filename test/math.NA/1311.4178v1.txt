@@ -1,0 +1,1 @@
+In this paper, we consider elliptic boundary value problems with discontinuous coefficients and obtain the asymptotic optimal error estimate \|u-u_k\|_{1,\Omega}\leqslant Ch|\ln h|^{1/2}\|u\|_{2,\Omega_1+\Omega_2} for triangle linear elements.

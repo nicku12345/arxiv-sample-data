@@ -1,0 +1,1 @@
+We use Markov chains and numerical linear algebra -- and several CPU hours -- to determine the expected number of coins in a person's possession under certain conditions. We identify the spending strategy that results in the minimum possible expected number of coins, and we consider two other strategies that are more realistic.

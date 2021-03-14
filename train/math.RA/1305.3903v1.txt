@@ -1,0 +1,1 @@
+We show that the submonoid of all nxn triangular tropical matrices satisfies a nontrivial semigroup identity and provide a generic construction for classes of such identities. The utilization of the Fibonacci number formula gives us an upper bound on the length of these 2-variable semigroup identities.

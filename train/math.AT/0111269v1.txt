@@ -1,0 +1,1 @@
+We provide a proof of the controlled surgery sequence, including stability, in the special case that the local fundamental groups are trivial. Stability is a key ingredient in the construction of exotic homology manifolds by Bryant, Ferry, Mio and Weinberger, but no proof has been available. The development given here is based on work of M. Yamasaki.

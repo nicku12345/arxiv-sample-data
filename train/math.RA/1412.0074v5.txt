@@ -1,0 +1,1 @@
+In this paper, a new class of \Z-graded Lie conformal algebras \CW(a,c) of infinite rank is constructed.   The conformal derivations and one-dimensional central extensions of \CW(a,c) are completely determined. And all conformal modules of rank one over \CW(a,c) (a\neq0) are proved to be trivial and all such nontrivial (irreducible) modules over \CW(0,c) are classified.

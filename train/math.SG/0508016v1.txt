@@ -1,0 +1,1 @@
+This paper introduces the notion of ``relative gerbes'' for smooth maps of manifolds, and discusses their differential geometry. The equivalence classes of relative gerbes are further classified by the relative integral cohomology in degree three.

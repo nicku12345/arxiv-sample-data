@@ -1,0 +1,1 @@
+We generalize the concept of a number derivative, and examine one particular instance of a deformed number derivative for finite field elements. We find that the derivative is linear when the deformation is a Frobenius map and go on to examine some of its basic properties.

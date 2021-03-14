@@ -1,0 +1,1 @@
+Let V be a vertex operator algebra, k a positive integer and \sigma a permutation automorphism of the vertex operator algebra V^{\otimes k}. In this paper, we determine the fusion product of any V^{\otimes k}-module with any \sigma-twisted V^{\otimes k}-module.

@@ -1,0 +1,1 @@
+We describe a deformation quantization of a modification of Poisson geometry by a closed 3-form. Under suitable conditions it gives rise to a stack of algebras. The basic object used for this aim is a kind of families of Poisson structures given by a Maurer-Cartan equation; they are easily quantized using Kontsevich's Formality theorem.

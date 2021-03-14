@@ -1,0 +1,1 @@
+Let F(M,k) be the configuration space of ordered k-tuples of distinct points in the manifold M. Using the Fadell-Neuwirth fibration, we prove that the configuration spaces F(M,k) are never contractible, for k\geq 2. As applications of our results, we will calculate the LS category and topological complexity for its loop space and suspension.

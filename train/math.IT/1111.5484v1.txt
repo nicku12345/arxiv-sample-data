@@ -1,0 +1,1 @@
+Binary linear [n,k] codes that are proper for error detection are known for many combinations of n and k. For the remaining combinations, existence of proper codes is conjectured. In this paper, a particular class of [n,k] codes is studied in detail. In particular, it is shown that these codes are proper for many combinations of n and k which were previously unsettled.

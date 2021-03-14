@@ -1,0 +1,1 @@
+Necessary optimality conditions and numerical methods for solving an optimal control problem for a linear continuous-time dynanical system with controlled coefficients and quadratic goal functional are discussed.

@@ -1,0 +1,1 @@
+We demonstrate that Joyal's category Theta_n, which is central to numerous definitions of (infinity,n)-categories, naturally encodes the homotopy type of configuration spaces of marked points in R^n. This article is largely self-contained and uses only elementary techniques in combinatorics and homotopy theory.

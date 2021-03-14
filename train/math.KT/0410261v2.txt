@@ -1,0 +1,1 @@
+We give a new simple proof of the exactness of the complex of injective words and use it to prove Nakaoka's homology stability for symmetric groups. The methods are generalized to show acyclicity in low degrees for the complex of words in general position.

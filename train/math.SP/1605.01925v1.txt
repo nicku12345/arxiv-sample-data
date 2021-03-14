@@ -1,0 +1,1 @@
+We derive inequalities for sums of eigenvalues of Schr\"{o}dinger operators on finite intervals and tori. In the first of these cases, the inequalities converge to the classical trace formulae in the limit as the number of eigenvalues considered approaches infinity.

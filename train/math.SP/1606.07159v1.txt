@@ -1,0 +1,1 @@
+Let (T(t))_{t\geq0} be a C_0 semigroups and A be its infinitesimal generator. In this work, we prove that the spectral inclusion for (T(t))_{t\geq0} remains true for the Drazin invertible and Quasi-Fredholm spectra. Also, we will give conditions under which facts A is quasi-Fredholm, A is Drazin invertible and A is B-Fredholm are equivalent.

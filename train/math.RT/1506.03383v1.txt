@@ -1,0 +1,1 @@
+We show here that the fundamental lemma for twisted endoscopy, now proved for the unit elements in the spherical Hecke algebras, implies the fundamental lemma for all elements of these Hecke algebras. The proof, whose idea is due to Arthur, uses the transfer, which is known as a consequence of the fundamental lemma for the units.

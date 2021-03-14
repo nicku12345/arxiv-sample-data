@@ -1,0 +1,1 @@
+For the solvable polynomial algebras introduced and studied by Kandri-Rody and Weispfenning [J. Symbolic Comput., 9(1990)], a constructive characterization is given in terms of Gr\"obner bases for ideals of free algebras, thereby solvable polynomial algebras are completely determinable in a computational way.

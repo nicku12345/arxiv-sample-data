@@ -1,0 +1,1 @@
+We prove that the amalgamated free product of two free groups of rank two over a common cyclic subgroup, admits an amenable, faithful, transitive action on an infinite countable set. We also show that any finite index subgroup admits such an action, which applies for example to surface groups and fundamental groups of surface bundles over \mathbb{S}^1.

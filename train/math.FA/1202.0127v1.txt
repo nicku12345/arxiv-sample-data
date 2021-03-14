@@ -1,0 +1,1 @@
+In this note we extend some new estimates of the integral \int_a^b (x-a)^p(b-x)^qf(x)dx for functions when a power of the absolute value is P-convex.

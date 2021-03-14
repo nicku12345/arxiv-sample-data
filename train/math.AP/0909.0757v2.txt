@@ -1,0 +1,1 @@
+We prove global well-posedness for the cubic, defocusing, nonlinear Schr{\"o}dinger equation on \mathbf{R}^{2} with data u_{0} \in H^{s}(\mathbf{R}^{2}), s > 1/4. We accomplish this by improving the almost Morawetz estimates in [9].

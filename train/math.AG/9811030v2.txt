@@ -1,0 +1,1 @@
+We present a method to compute the holonomic extension of a D-module from a Zariski open set in affine space to the whole space. A particular application is the localization of coherent D-modules which are holonomic on the complement of an affine variety.

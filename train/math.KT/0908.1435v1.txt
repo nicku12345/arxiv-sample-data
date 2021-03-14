@@ -1,0 +1,1 @@
+The aim of this note is to prove the Mahler measure identity m(x+x^{-1}+y+y^{-1}+5) = 6 m(x+x^{-1}+y+y^{-1}+1) which was conjectured by Boyd. The proof is achieved by proving relationships between regulators of both curves.

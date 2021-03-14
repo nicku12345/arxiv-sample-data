@@ -1,0 +1,1 @@
+We begin with recalling the correspond theorem of induced modules and global sections of vector bundles. After that, we give a generalization of this theorem. Finally, we apply the result to branching laws, and give some concrete examples.

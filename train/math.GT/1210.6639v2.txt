@@ -1,0 +1,1 @@
+Knots parametrized in cylinder coordinates by t -> (st, 3 + cos(nt), cos(mt + \phi)) share properties of Lissajous and billiard knots in a cylinder. We use these 'billiard knots in a flat solid torus' to study two topics: when is Z(s,n,m) equal to Z(s,m,n)? And: why are the determinants of certain Lissajous and billiard knots in a cylinder equal?

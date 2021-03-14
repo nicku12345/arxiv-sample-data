@@ -1,0 +1,1 @@
+We investigate the Whiteheadness of Borel abelian groups (aleph_1-free, wlog, as otherwise this is trivial). We show that CH (and even WCH) implies any such abelian group is free, and always aleph_2-free.

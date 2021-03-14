@@ -1,0 +1,1 @@
+A group G has property R_\infty if for every \phi\in Aut(G), there are an infinite number of \phi-twisted conjugacy classes of elements in G. In this note, we determine the R_\infty-property for G=\pi_1(M) for all geometric 3-manifolds M.

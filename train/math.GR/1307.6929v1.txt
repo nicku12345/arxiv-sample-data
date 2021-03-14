@@ -1,0 +1,1 @@
+If a finitely generated semigroup S has a hopfian (meaning: every surjective endomorphism is an automorphism) cofinite subsemigroup T then S is hopfian too. This no longer holds if S is not finitely generated. There exists a finitely generated hopfian semigroup S with a non-hopfian subsemigroup T such that S\T has size 1.

@@ -1,0 +1,1 @@
+Let G_1,...,G_q be algebraic varieties over a finite field k. We show that, if q >1, the finiteness of the tensor product of G_1, ...,G_q as Mackey functors. We apply this to prove the finiteness of a relative Chow group and an abelian fundamental group which classifies abelian coverings with bounded ramification along the boundary.

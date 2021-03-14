@@ -1,0 +1,1 @@
+This paper, originally written in Hungarian by D\'{e}nes K\H{o}nig in 1931, proves that in a bipartite graph, the minimum vertex cover and the maximum matching have the same size. This statement is now known as K\H{o}nig's theorem. The paper also discusses the connection of graphs and matrices, then makes some observations about the combinatorial properties of the latter.

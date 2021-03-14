@@ -1,0 +1,1 @@
+Enflo and Rosenthal proved that \ell_p(\aleph_1), 1 < p < 2, does not (isomorphically) embed into L_p(\mu) with \mu a finite measure. We prove that if X is a subspace of an L_p space, 1< p < 2, and \ell_p(\aleph_1) does not embed into X, then X embeds into L_p(\mu) for some finite measure \mu.

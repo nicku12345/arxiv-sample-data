@@ -1,0 +1,1 @@
+Using an explicit family of plane quartic curves, we prove the existence of a genus 3 curve over any finite field of characteristic 3 whose number of rational points stays within a fixed distance from the Hasse-Weil-Serre upper bound. We also provide an intrinsic characterization of so-called Legendre elliptic curves.

@@ -1,0 +1,1 @@
+Let A \Rightarrow M be a Lie algebroid. In this short note, we prove that a pull-back of A along a fibration with homologically k-connected fibers, shares the same deformation cohomology of A up to degree k.

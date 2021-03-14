@@ -1,0 +1,1 @@
+We show how to improve on Theorem 10 in [arXiv:0906.4883], describing when subsets in W^{1,p}(\mathbb{R}^n) are totally bounded subsets of L^q(\mathbb{R}^n) for p<n and p\le q<p^*. This improvement was first shown by Dosso, Fofana, and Sanogo (2013) in the context of Morrey--Sobolov spaces.

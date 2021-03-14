@@ -1,0 +1,1 @@
+For every positive integer n\geq 2, we introduce the concept of measure-theoretic n-sensitivity for measure-theoretic dynamical systems via finite measurable partitions, and show that an ergodic system is measure-theoretically n-sensitive but not (n+1)-sensitive if and only if its maximal pattern entropy is \log n.

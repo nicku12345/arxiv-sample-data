@@ -1,0 +1,1 @@
+We define fake weighted projective spaces as a generalisation of weighted projective spaces. We introduce the notions of fundamental group in codimension 1 and of universal covering in codimension 1. We prove that for every fake weighted projective space its universal cover in codimension 1 is a weighted projective space.

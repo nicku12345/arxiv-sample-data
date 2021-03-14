@@ -1,0 +1,1 @@
+We show that the resolvent of the Laplacian on asymptotically hyperbolic spaces extends meromorphically with finite rank poles to the complex plane if and only if the metric is `even' (in a sense). If it is not even, there exist some cases where the resolvent has an essential singularity in the non-physical sheet.

@@ -1,0 +1,1 @@
+An elementary method of computing the values at negative integers of the Riemann zeta function is presented. The principal ingredient is a new q-analogue of the Riemann zeta function. We show that for any argument other than 1 the classical limit of this q-analogue exists and equals the value of the Riemann zeta.

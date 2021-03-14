@@ -1,0 +1,1 @@
+This note describes a technique for generating large non-singular matrices with blocks of full rank. Our motivation to construct such matrices arises in the white-box implementation of cryptographic algorithms with S-boxes.

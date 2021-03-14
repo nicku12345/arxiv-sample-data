@@ -1,0 +1,1 @@
+We use the Asymptotic Large Sieve and Levinson's method to obtain lower bounds for the proportion of simple zeros on the critical line of the twists by primitive Dirichlet characters of a fixed L-function of degree 1,2, or 3.

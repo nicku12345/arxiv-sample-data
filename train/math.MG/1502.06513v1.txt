@@ -1,0 +1,1 @@
+We prove a quantitative stability result for the Brunn-Minkowski inequality: if |A|=|B|=1, t \in [\tau,1-\tau] with \tau>0, and |tA+(1-t)B|^{1/n}\leq 1+\delta for some small \delta, then, up to a translation, both A and B are quantitatively close (in terms of \delta) to a convex set K.

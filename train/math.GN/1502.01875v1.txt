@@ -1,0 +1,1 @@
+We study extension operators between spaces \sigma_n(2^X) of subsets of X of cardinality at most n. As an application, we show that if B_H is the unit ball of a nonseparable Hilbert space H, equipped with the weak topology, then, for any 0<\lambda<\mu, there is no extension operator T: C(\lambda B_H)\to C(\mu B_H).

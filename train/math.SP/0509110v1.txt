@@ -1,0 +1,1 @@
+We consider discrete one-dimensional Schroedinger operators whose potentials decay asymptotically like an inverse square. In the super-critical case, where there are infinitely many discrete eigenvalues, we compute precise asymptotics of the number of eigenvalues below a given energy E as this energy tends to the bottom of the essential spectrum.

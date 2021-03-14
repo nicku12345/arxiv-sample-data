@@ -1,0 +1,1 @@
+We consider a stabilized version of hat Heegaard Floer homology of a 3-manifold Y (i.e. the U=0 variant of Heegaard Floer homology for closed 3-manifolds). We give a combinatorial algorithm for constructing this invariant, starting from a Heegaard decomposition for Y, and give a combinatorial proof of its invariance properties.

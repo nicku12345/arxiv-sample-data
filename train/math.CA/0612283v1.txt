@@ -1,0 +1,1 @@
+The classical Jackson-Stechkin inequality estimates the value of the best uniform approximation of a periodic function by trigonometric polynomials of degree \le n-1 in terms of its r-th modulus of smoothness \omega_r(f,\delta).   The main result of the paper is in establishing the correct order of Jackson--Stechkin constants.

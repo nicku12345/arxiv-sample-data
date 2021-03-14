@@ -1,0 +1,1 @@
+Let (R,m) be a commutative Noetherian local ring. It is known that R is Cohen-Macaulay if there exists either a nonzero finitely generated R-module of finite injective dimension or a nonzero Cohen-Macaulay R-module of finite projective dimension. In this paper, we investigate the Gorenstein analogues of these facts.

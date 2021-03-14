@@ -1,0 +1,1 @@
+In this paper we consider ideal sheaves associated to the singular loci of a divisor in a linear system |L| of an ample line bundle on a complex abelian variety. We prove an effective result on their (continuous) global generation, after suitable twists by powers of L. Moreover we show that similar results hold for subvarieties of a complex abelian variety.

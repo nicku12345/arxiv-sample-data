@@ -1,0 +1,1 @@
+Let p(z)=a_0+a_1z+a_2z^2+a_3z^3+\cdots+a_nz^n be a polynomial of degree n, where the coefficients a_j, j \in \{0,1,2,\cdots n\}, are real numbers. We impose some restriction on the coefficients and then prove some extensions and generalizations of the Enestr\"{o}m-Kakeya Theorem.

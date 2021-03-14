@@ -1,0 +1,1 @@
+We prove global well-posedness and scattering for the defocusing, cubic NLS on \mathbb{R}^3 with initial data in H^s(\mathbb{R}^3) for s>49/74. The proof combines the ideas of resonance decomposition in \cite{CKSTT4} and linear-nonlinear decomposition in \cite{ben1}\cite{roy} together with the idea of large time iteration.

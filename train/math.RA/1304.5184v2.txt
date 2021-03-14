@@ -1,0 +1,1 @@
+In this paper we use the operadic framework to find Gr\"obner-Shirshov bases for the free quadri-algebra. We perform computations using the representation of the nonsymmetric operad by planar rooted trees in a very intuitive way. Gr\"obner-Shirshov bases for the free dendriform algebra are also found with this technique, simplifying the work by Chen and Wang in 2010.

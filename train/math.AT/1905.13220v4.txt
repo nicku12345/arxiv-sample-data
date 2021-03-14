@@ -1,0 +1,1 @@
+Persistent homology studies the birth and death of cycles in a parameterized family of spaces. In this paper, we study the birth and death of cycles in a multifiltration of a chain complex with the goal of producing a persistence diagram that satisfies bottleneck stability.

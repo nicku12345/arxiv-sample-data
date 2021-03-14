@@ -1,0 +1,1 @@
+We give a short and elementary proof that the first hitting time of a F_\sigma set by the jump process of a c\`{a}dl\`{a}g adapted process is a stopping time.

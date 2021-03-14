@@ -1,0 +1,1 @@
+We prove that if a set B in a Banach space X can be written as an increasing, countable union B=\cup_n B_n of sets B_n such that no B_n is uniform boundedness deciding, then also B is not uniform boundedness deciding. From this we can give a positive answer to a question of M. Valdivia.

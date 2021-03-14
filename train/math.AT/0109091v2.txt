@@ -1,0 +1,1 @@
+The aim of this paper is to explain how, through the work of a number of people, some algebraic structures related to groupoids have yielded algebraic descriptions of homotopy n-types. Further, these descriptions are explicit, and in some cases completely computable, in a way not possible with the traditional Postnikov systems, or with other models, such as simplicial groups.

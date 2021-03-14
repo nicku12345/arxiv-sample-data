@@ -1,0 +1,1 @@
+In [Lu6] Lusztig defined a certain algebra H, which is a direct sum of various algebras H_{\mathfrak{o}}. We establish an explicit algebra isomorphism between each algebra H_{\mathfrak{o}} and some matrix algebra with coefficients in the tensor product of an (affine or finite) Hecke algebra and a group algebra. We give an application.

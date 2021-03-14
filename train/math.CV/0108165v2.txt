@@ -1,0 +1,1 @@
+Let (M,p) and (M',p') be the germs of real-analytic 1-infinite type hypersurfaces in \C^2. We prove that any formal equivalence sending (M,p) into (M',p') is formally parametrized (and hence uniquely determined by) its jet at p of a predetermined order depending only on (M,p). As an application, we use this to examine the local formal transformation groups of such hypersurfaces.

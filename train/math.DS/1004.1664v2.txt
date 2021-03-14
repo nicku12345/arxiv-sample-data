@@ -1,0 +1,1 @@
+Hayashi has extended a result of Ma\~n\'e, proving that every diffeomorphism f which has a C^1-neighborhood \mathcal{U}, where all periodic points of any g\in\mathcal{U} are hyperbolic, it is an Axiom A diffeomorphism. Here, we prove the analogous result in the volume preserving scenario.

@@ -1,0 +1,1 @@
+Accurate asymptotic expressions are given for the exponentially small eigenvalues of Witten Laplacians acting on p-forms. The key ingredient, which replaces explicit formulas for global quasimodes in the case p = 0, is Barannikov's presentation of Morse theory.

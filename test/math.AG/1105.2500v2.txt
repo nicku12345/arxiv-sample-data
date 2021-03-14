@@ -1,0 +1,1 @@
+We introduce a notion of ampleness for subschemes of higher codimension using the theory of q-ample line bundles. We also investigate certain geometric properties satisfied by ample subvarieties, e.g. the Lefschetz hyperplane theorems and numerical positivity. Using these properties, we also construct a counterexample to the converse of the Andreotti-Grauert vanishing theorem.

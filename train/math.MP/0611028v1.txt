@@ -1,0 +1,1 @@
+Newton-Cartan manifolds and the Galilei group are defined by the use of co-rank one degenerate metric tensor. Newton-Cartan connection is lifted to the degenerate spinor bundle over a Newton-Cartan 4-manifold by the aid of degenerate spin group. Levy-Leblond equation is constructed with the lifted connection.

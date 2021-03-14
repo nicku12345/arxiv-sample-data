@@ -1,0 +1,1 @@
+We define a complex whose cohomology group of order 1 contains the infinitesimal deformations of a Levi flat structure on a smooth manifold. In the case of real analytic Levi flat structures, this cohomology group is the product of the d-bar cohomology group of order 1 of tangent vector fields to the Levi structure and the cohomology group of order 1 of the associated DGLA.

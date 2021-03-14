@@ -1,0 +1,1 @@
+We compute the number of rhombus tilings of a hexagon with side lengths a,b,c,a,b,c which contain the central rhombus and the number of rhombus tilings of a hexagon with side lengths a,b,c,a,b,c which contain the `almost central` rhombus above the centre.

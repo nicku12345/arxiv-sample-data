@@ -1,0 +1,1 @@
+We study Banach spaces X with a strongly asymptotic l_p basis (any disjointly supported finite set of vectors far enough out with respect to the basis behaves like l_p) which are minimal (X embeds into every infinite dimensional subspace). In particular such spaces embed into l_p.

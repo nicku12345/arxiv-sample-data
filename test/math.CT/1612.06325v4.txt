@@ -1,0 +1,1 @@
+For any fiat 2-category C, we show how its simple transitive 2-representations can be constructed using coalgebra 1-morphisms in the injective abelianization of C. Dually, we show that these can also be constructed using algebra 1-morphisms in the projective abelianization of C. We also extend Morita-Takeuchi theory to our setup and work out several examples explicitly.

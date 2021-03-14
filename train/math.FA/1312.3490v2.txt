@@ -1,0 +1,1 @@
+In the context of spaces of homogeneous type, we develop a method to deterministically construct dyadic grids, specifically adapted to a given combinatorial situation. This method is used to estimate vector-valued operators rearranging martingale difference sequences such as the Haar system.

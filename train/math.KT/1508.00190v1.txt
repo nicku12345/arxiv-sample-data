@@ -1,0 +1,1 @@
+In this paper, we define the singular Hochschild cohomology groups HH_{sg}^i(A, A) of an associative k-algebra A as morphisms from A to A[i] in the singular category D_{sg}(A\otimes_k A^{op}) for i\in \mathbb{Z}. We prove that HH_{sg}^*(A, A) has a Gerstenhaber algebra structure and in the case of a symmetric algebra A, HH_{sg}^*(A, A) is a Batalin-Vilkovisky (BV) algebra.

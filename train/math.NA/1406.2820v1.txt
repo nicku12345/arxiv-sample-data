@@ -1,0 +1,1 @@
+In this paper we present a novel matrix method for polynomial rootfinding. By exploiting the properties of the QR eigenvalue algorithm applied to a suitable CMV-like form of a companion matrix we design a fast and computationally simple structured QR iteration.

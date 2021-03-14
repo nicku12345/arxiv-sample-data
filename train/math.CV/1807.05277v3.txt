@@ -1,0 +1,1 @@
+It is shown that if the boundary of a Reinhardt domain in \mathbb{C}^n contains the origin, each holomorphic function on the domain which is infinitely many times differentiable up to the boundary extends holomorphically to a neighborhood of the origin.

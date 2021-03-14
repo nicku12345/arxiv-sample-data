@@ -1,0 +1,1 @@
+For every integer g greater than or equal to 2, there exist infinitely many pairwise nonhomeomorphic smooth 4-manifolds that admit genus-g Lefschetz fibrations over S^2 but do not carry any complex structure with either orientation. This extends a recent result of Ozbagci and Stipsicz.

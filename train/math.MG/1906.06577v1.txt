@@ -1,0 +1,1 @@
+Among other results, we prove the following theorem about Steiner minimal trees in d-dimensional Euclidean space: if two finite sets in \mathbb{R}^d have unique and combinatorially equivalent Steiner minimal trees, then there is a homotopy between the two sets that maintains the uniqueness and the combinatorial structure of the Steiner minimal tree throughout the homotopy.

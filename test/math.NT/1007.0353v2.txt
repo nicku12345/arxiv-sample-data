@@ -1,0 +1,1 @@
+It is not difficult to find an asymptotic formula for the number of pairs of positive integers x, y \le H such that x^2 + y^2 + 1 is squarefree. In the present paper we improve the estimate for the error term in this formula using the properties of certain exponential sums. A.Weils's estimate for the Kloosterman sum plays the major role in our analysis.

@@ -1,0 +1,1 @@
+I give a formula for the zeta function of a projective toric hypersurface over a finite field and estimate its Newton polygon. As an application this formula allows us to compute the exact number of rational points on the families of Calabi-Yau manifolds in Mirror Symmetry.

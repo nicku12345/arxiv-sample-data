@@ -1,0 +1,1 @@
+Let G be a compact Lie group with a maximal torus T. Based on a presentation of the integral cohomology ring H^{\ast}(G/T) of the flag manifold G/T in \cite{DZ1}we have presented in \cite{DZ2}an explicit and unified construction of the integral cohomology rings H^{\ast}(G) for the 1--connected Lie groups G. In this paper we extend this construction to all compact Lie groups.

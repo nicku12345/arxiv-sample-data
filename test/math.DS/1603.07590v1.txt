@@ -1,0 +1,1 @@
+We prove that the time of the first collision between two particles in a Sinai billiard table converges weakly to an exponential distribution when time is rescaled by the inverse of the radius of the particles. This results provides a first step in studying the energy evolution of hard ball systems in the rare interaction limit.

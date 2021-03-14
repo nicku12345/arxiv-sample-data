@@ -1,0 +1,1 @@
+For 0<p<\infty and \alpha\in (-\infty,\infty) we determine when the L^p integral mean on \{z\in\mathbb C: |z|\le r\} of an entire function with respect to the Gaussian area measure e^{-\alpha|z|^2}\,dA(z) is logarithmic convex or logarithmic concave.

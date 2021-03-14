@@ -1,0 +1,1 @@
+These notes contain an Ergodic-theoretic account of the Cocycle Superrigidity Theorem recently discovered by Sorin Popa. We state and prove a relative version of the result, discuss some applications to measurable equivalence relations, and point out that Gaussian actions (of ``rigid'' groups) satisfy the assumptions of Popa's theorem.

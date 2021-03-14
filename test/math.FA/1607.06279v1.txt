@@ -1,0 +1,1 @@
+Let E_{1},...,E_{m},F be Banach spaces. The index of summability of \left(E_{1}\times\cdots\times E_{m},F\right)  is a kind of measure of how far the m-linear operators T:E_{1}\times\cdots\times E_{m}\rightarrow F are from being multiple summing. In this paper we estimate the index of summability of several pairs of Banach spaces.

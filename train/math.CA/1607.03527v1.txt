@@ -1,0 +1,1 @@
+We prove that the bilinear maximal Bochner-Riesz operator T_*^\lambda is bounded from L^{p_1}(\mathbb R^n)\times L^{p_2}(\mathbb R^n) to L^p(\mathbb R^n) for appropriate (p_1,p_2,p) when \lambda>(4n+3)/5.

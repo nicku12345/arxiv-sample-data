@@ -1,0 +1,1 @@
+We show that on smooth complete Reinhardt domains, weighted Bergman projection operators corresponding to exponentially decaying weights are unbounded on L^p spaces for all p\not=2. On the other hand, we also show that the exponentially weighted projection operators are bounded on Sobolev spaces on the unit ball.

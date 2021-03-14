@@ -1,0 +1,1 @@
+The divergence of the harmonic series is proved by direct comparison with a series whose nth partial sum telescopes to the natural logarithm of n. The key idea is to apply the classical inequality x>=log(1+x) (valid for x>-1) with x=1/k and sum over k, 1<=k<=n-1.

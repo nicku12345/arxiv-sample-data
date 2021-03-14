@@ -1,0 +1,1 @@
+Despite the fact that there is a huge amount on papers and books devoted to the theory of Jacobian elliptic functions, very little is known when the modulus k of these functions lies outside the unit interval [0,1]. In this note, we prove some simple inequalities for the absolute value of Jacobian elliptic functions with complex modulus.

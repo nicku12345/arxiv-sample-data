@@ -1,0 +1,1 @@
+In this paper, we remove a technical hypothesis from a previous paper. This allows us to construct stable bundles of rank 2 with Clifford index significantly smaller than the classical Clifford index on suitably chosen curves of any genus \ge13.

@@ -1,0 +1,1 @@
+In previous work Regev used part of the representation theory of Lie superalgebras to compute the values of a character of the symmetric group whose decomposition into irreducible constituents is described by semistandard (k,\ell)-tableaux. In this short note we give a new proof of Regev's result using skew characters.

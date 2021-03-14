@@ -1,0 +1,1 @@
+For positive semidefinite n\times n matrices A and B, the singular value inequality (2+t)s_{j}(A^{r}B^{2-r}+A^{2-r}B^{r})\leq 2s_{j}(A^{2}+tAB+B^{2}) is shown to hold for r=\frac{1}{2}, 1, \frac{3}{2} and all -2<t\leq 2.

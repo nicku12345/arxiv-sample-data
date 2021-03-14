@@ -1,0 +1,1 @@
+This paper consists in a first study of the Hardy space H1 in the rational Dunkl setting. Following Uchiyama's approach, we characterizee H1 atomically and by means of the heat maximal operator. We also obtain a Fourier multiplier theorem for H1. These results are proved here in the one-dimensional case and in the product case.

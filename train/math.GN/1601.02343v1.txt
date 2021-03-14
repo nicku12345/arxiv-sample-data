@@ -1,0 +1,1 @@
+It is investigated necessary and sufficient conditions on topological spaces X=\prod\limits _{s\in S}X_s and Y=\prod\limits _{t\in T}Y_t for the dependence of every separately continuous functions f:X\times Y\to \mathbb R on at most \aleph coordinates with respect to the first or the second variable.

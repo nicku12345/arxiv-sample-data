@@ -1,0 +1,1 @@
+We extend the proof of the dynamic programming principle (DPP) for standard stochastic optimal control problems driven by general L\'{e}vy noises. Under appropriate assumptions, it is shown that the DPP still holds when the state process fails to have any moments at all.

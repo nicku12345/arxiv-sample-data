@@ -1,0 +1,1 @@
+We show that the limiting eigenvalue distribution of random symmetric Toeplitz matrices is absolutely continuous with density bounded by 8, partially answering a question of Bryc, Dembo and Jiang (2006). The main tool used in the proof is a spectral averaging technique from the theory of random Schr\"{o}dinger operators. The similar question for Hankel matrices remains open.

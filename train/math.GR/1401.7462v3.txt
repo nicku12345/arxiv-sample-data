@@ -1,0 +1,1 @@
+By a proper cover of a finite group G we mean an extension of a nontrivial finite group by G. Our purpose is to show that a proper cover of a finite simple group L of Lie type always contains an element whose order differs from the element orders of L provided that the Lie rank of L is sufficiently large.

@@ -1,0 +1,1 @@
+This paper shows that the method of Galperin which had been widely accepted in the literature since 1983 for constructing a non-dense and non-periodic trajectory in a triangle can never work. This is done by showing that all possible examples that can be produced by Galperin's method of which there are infinitely many all produce a periodic trajectory.

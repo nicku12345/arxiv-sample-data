@@ -1,0 +1,1 @@
+Assuming that Q (Robinson arithmetic) is consistent and Church's Thesis is true, the Fixed Point Lemma allows the derivation of a contradiction. The derivation can be blocked by withholding Godel numbers for certain formulae, but the restriction means there will be direct counterexamples to the Fixed Point Lemma. So either way, the Lemma is false.

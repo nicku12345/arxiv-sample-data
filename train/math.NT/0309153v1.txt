@@ -1,0 +1,1 @@
+We give an upper bound on the number of extensions of a fixed number field of prescribed degree and discriminant less than X; these bounds improve on work of Schmidt. We also prove various related results, such as lower bounds for the number of extensions and upper bounds for Galois extensions.

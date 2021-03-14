@@ -1,0 +1,1 @@
+Given a von Neumann algebra M with a faithful normal finite trace, we introduce the so called finite tracial algebra M_f as the intersection of L_p-spaces L_p(M, \mu) over all p \geq 1 and over all faithful normal finite traces \mu on M. Basic algebraic and topological properties of finite tracial algebras are studied. We prove that all derivations on these algebras are inner.

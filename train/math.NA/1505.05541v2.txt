@@ -1,0 +1,1 @@
+The tight binding model is a minimal electronic structure model for molecular modelling and simulation. We show that the total energy in this model can be decomposed into site energies, that is, into contributions from each atomic site whose influence on their environment decays exponentially. This result lays the foundation for a rigorous analysis of QM/MM coupling schemes.

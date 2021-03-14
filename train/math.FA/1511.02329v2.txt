@@ -1,0 +1,1 @@
+Let A be a bounded linear operator and P a bounded linear projection on a Banach space X. We show that the operator semigroup (e^{t(A-kP)})_{t \ge 0} converges to a semigroup on a subspace of X as k \to \infty and we compute the limit semigroup.

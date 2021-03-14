@@ -1,0 +1,1 @@
+M. E. Cesaro (1885) gave a quite remarkable expression for the Bell number --the number of partitions of an n-element set -- as a definite integral. This note is an exposition, correcting a typographical error in the original.

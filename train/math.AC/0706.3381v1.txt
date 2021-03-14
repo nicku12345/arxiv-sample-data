@@ -1,0 +1,1 @@
+The supremum of reduction numbers of ideals having principal reductions is expressed in terms of the integral degree, a new invariant of the ring, which is finite provided the ring has finite integral closure. As a consequence, one obtains bounds for the Castelnuovo-Mumford regularity of the Rees algebra and for the Artin-Rees numbers.

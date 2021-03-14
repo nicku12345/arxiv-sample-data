@@ -1,0 +1,1 @@
+We classify the pairs of polynomials f,g over a field K, such that f(X)-g(Y) has a factor of total degree at most 2. This was done by Y. Bilu for characteristic 0 fields K. As his method does not work in positive characteristic, we use a quite different approach.

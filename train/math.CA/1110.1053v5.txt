@@ -1,0 +1,1 @@
+We extend Kovacic's algorithm to compute the differential Galois group of some second order parameterized linear differential equation. In the case where no Liouvillian solutions could be found, we give a necessary and sufficient condition for the integrability of the system. We give various examples of computation.

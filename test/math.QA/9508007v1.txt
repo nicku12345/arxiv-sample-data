@@ -1,0 +1,1 @@
+All quantum group structures on the group GL(2) are classified. It is shown that there are only two such structures, the well known quantum groups GL_{qp}(2) and GL_{hh'}(2).

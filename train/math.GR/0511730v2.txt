@@ -1,0 +1,1 @@
+We obtain presentations for the Brauer monoid, the partial analogue of the Brauer monoid, and for the greatest factorizable inverse submonoid of the dual symmetric inverse monoid. In all three cases we apply the same approach, based on the realization of all these monoids as Brauer-type monoids.

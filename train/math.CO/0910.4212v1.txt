@@ -1,0 +1,1 @@
+We show that the joint distribution of the number of singleton pairs and the number of adjacency pairs is symmetric over the set partitions of type B_n without zero-block, in analogy with the result of Callan for ordinary partitions.

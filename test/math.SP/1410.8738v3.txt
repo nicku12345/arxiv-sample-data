@@ -1,0 +1,1 @@
+We study the linear relaxation Boltzmann equation, a simple semiclassical kinetic model. We provide a resolvent estimate for an associated non-selfadjoint operator as well as an estimate on the return to equilibrium. This is done using a scaling argument and non-semiclassical hypocoercive estimate.

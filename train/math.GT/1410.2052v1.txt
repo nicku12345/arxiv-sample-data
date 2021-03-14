@@ -1,0 +1,1 @@
+We show that the following unlinking strategy does not always yield an optimal sequence of crossing changes: first split the link with the minimal number of crossing changes, and then unknot the resulting components.

@@ -1,0 +1,1 @@
+Let (R,\fm,k) be a commutative noetherian local ring with dualizing complex \dua R, normalized by \Ext^{\depth(R)}_R(k,\dua R)\cong k. Partly motivated by a long standing conjecture of Tachikawa on (not necessarily commutative) k-algebras of finite rank, we conjecture that if \Ext^n_R(\dua R,R)=0 for all n>0, then R is Gorenstein, and prove this in several significant cases.

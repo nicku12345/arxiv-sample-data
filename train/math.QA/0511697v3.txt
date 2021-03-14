@@ -1,0 +1,1 @@
+The quantum Frobenius map and it splitting are shown to descend to corresponding maps for generalized q-Schur algebras at a root of unity. We also define analogs of q-Schur algebras for any affine algebra, and prove the corresponding results for them.

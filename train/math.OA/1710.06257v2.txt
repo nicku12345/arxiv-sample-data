@@ -1,0 +1,1 @@
+Continuing our study of spectral triples on quantum domains, we look at unbounded invariant and covariant derivations in the quantum annulus. In particular, we investigate whether such derivations can be implemented by operators with compact parametrices, a necessary condition in the definition of a spectral triple.

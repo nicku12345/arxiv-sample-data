@@ -1,0 +1,1 @@
+Let p be a prime number and k be a positive integer not divisible by p. We describe the Heller translates of the periodic Lie module \mathrm{Lie}(pk) in characteristic p and show that it has period 2p-2 when p is odd and 1 when p=2.

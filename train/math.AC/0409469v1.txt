@@ -1,0 +1,1 @@
+Let k be any field and k^s its separable closure. Let X be an affine variety over k which is isomorphic to affine n-space over the field extension k^s. Then X is isomorphic to affine n space over k.

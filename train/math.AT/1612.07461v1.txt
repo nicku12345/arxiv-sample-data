@@ -1,0 +1,1 @@
+As an application of Behrens and Rezk's spectral algebra model for unstable v_n-periodic homotopy theory, we give explicit presentations for the completed E-homology of the Bousfield-Kuhn functor on odd-dimensional spheres at chromatic level 2, and compare them to the level 1 case. The latter reflects earlier work in the literature on K-theory localizations.

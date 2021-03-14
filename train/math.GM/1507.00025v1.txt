@@ -1,0 +1,1 @@
+If the chromatic number of Euclidean plane is larger than four, but it is known that the chromatic number of planar graphs is equal to four, then how does one explain it? In my opinion, they are contradictory to each other. This idea leads to confirm the chromatic number of the plane about its exact value.

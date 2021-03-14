@@ -1,0 +1,1 @@
+We study lower bounds for the norm of the product of polynomials and their applications to the so called \emph{plank problem.} We are particularly interested in polynomials on finite dimensional Banach spaces, in which case our results improve previous works when the number of polynomials is large.

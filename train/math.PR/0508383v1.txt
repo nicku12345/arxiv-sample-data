@@ -1,0 +1,1 @@
+We give an elementary construction of a time-invertible Markov process which is discrete except at one instance. The process is one of the quadratic harnesses studied in our previous papers and can be regarded as a random joint of two independent Poisson processes.

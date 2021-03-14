@@ -1,0 +1,1 @@
+We present a complete theory of the asymptotics of the zeros of OPUC with Verblunsky coefficients \alpha_n = \sum_{\ell=1}^L C_\ell b_\ell^n + O((b\Delta)^n) where \Delta <1 and \abs{b_\ell} = b<1.

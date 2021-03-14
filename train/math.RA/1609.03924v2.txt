@@ -1,0 +1,1 @@
+It is known that there are Lie algebras with non-semigroup gradings, i.e. such that the binary operation on the grading set is not associative. We provide a similar example in the class of associative algebras.

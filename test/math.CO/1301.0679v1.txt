@@ -1,0 +1,1 @@
+In this note, using the derangement polynomials and their umbral representation, we give another simple proof of an identity conjectured by Lacasse in the study of the PAC-Bayesian machine learning theory.

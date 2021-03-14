@@ -1,0 +1,1 @@
+We present an algorithm that decides whether a finitely generated linear group over an infinite field is solvable-by-finite: a computationally effective version of the Tits alternative. We also give algorithms to decide whether the group is nilpotent-by-finite, abelian-by-finite, or central-by-finite. Our algorithms have been implemented in MAGMA and are publicly available.

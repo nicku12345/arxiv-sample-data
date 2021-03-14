@@ -1,0 +1,1 @@
+In this article we study congruences of lines in \mathbb{P}^n, and in particular of order one. After giving general results, we obtain a complete classification in the case of \mathbb{P}^4 in which the fundamental surface F is in fact a variety-i.e. it is integral-and the congruence is the irreducible set of the trisecant lines of F.

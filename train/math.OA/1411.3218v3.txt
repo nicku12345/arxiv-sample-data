@@ -1,0 +1,1 @@
+We construct a family of q-deformations of SU(2) for complex parameters q not equal to 0. For real q, the deformation coincides with Woronowicz' compact quantum SU_q(2) group. For q not real, SU_q(2) is only a braided compact quantum group with respect to a certain tensor product functor for C*-algebras with an action of the circle group.

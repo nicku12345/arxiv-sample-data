@@ -1,0 +1,1 @@
+Let \gamma denote imaginary parts of complex zeros of the Riemann zeta-function \zeta(s). Certain sums over the \gamma's are evaluated, by using the function G(s) = \sum_{\gamma>0}\gamma^{-s} and other techniques. Some integrals involving the function S(T) = (1/\pi)\arg\zeta(1/2+iT) are also considered.

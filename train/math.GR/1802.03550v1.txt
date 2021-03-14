@@ -1,0 +1,1 @@
+In \cite{1}, a class of gyrogroups (G,\odot) has been associated to certain groups (G,\cdot). We give a necessary and sufficient condition for (G,\odot) to be gyrocommutative. We also prove that under a suitable assumption two finite groups central by a 2-Engel group are isomorphic if and only if their associated gyrogroups are isomorphic.

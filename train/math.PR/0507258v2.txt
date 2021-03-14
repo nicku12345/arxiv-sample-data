@@ -1,0 +1,1 @@
+We consider a continuous time version of Cramer's theorem with nonnegative summands  S_t=\frac{1}{t}\sum_{i:\tau_i\le t}\xi_i, t \to\infty,  where (\tau_i,\xi_i)_{i\ge 1} is a sequence of random variables such that tS_t is a random process with independent increments.

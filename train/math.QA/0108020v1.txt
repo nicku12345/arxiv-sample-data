@@ -1,0 +1,1 @@
+All unitary representations of the quantum ``az+b'' group are found. It turns out that this quantum group is self dual i.e. all unitary representations are 'numbered' by elements of the same group. Moreover, the formula for all unitary representations involving the quantum exponential function is proven.

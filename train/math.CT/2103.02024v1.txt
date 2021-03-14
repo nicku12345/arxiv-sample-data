@@ -1,0 +1,1 @@
+In this note, we review a construction of category with families (CwF) in a presheaf category. When the base category of a presheaf category is a CwF, we internalize this CwF structure in the CwF of the presheaf category. This note assumes working knowledge on category theory.

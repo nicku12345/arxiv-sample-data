@@ -1,0 +1,1 @@
+This short note contains the proofs of two small but somewhat surprising results about ultrafilters on \mathbb{N}: 1. strongly summable ultrafilters are rapid, 2. every rapid ultrafilter induces a closed left ideal of rapid ultrafilters. As a consequence, there will be rapid minimal idempotents in all models of set theory with rapid ultrafilters.

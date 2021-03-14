@@ -1,0 +1,1 @@
+In this note we study embeddings of Cayley graphs of right groups on surfaces. We characterize those right groups which have a toroidal but no planar Cayley graph, such that the generating system of the right group has a minimal generating system of the group as a factor.

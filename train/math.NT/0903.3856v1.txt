@@ -1,0 +1,1 @@
+Let d be a squarefree integer. Does there exist four squares in arithmetic progression over Q(sqrt{d})? We shall give a partial answer to this question, depending on the value of d. In the affirmative case, we construct explicit arithmetic progressions consisting of four squares over Q(sqrt{d}).

@@ -1,0 +1,1 @@
+We prove some estimations of the correlation of two local observables in quantum spin systems (with Schr\"odinger equations) at large temperature. For that, we describe the heat kernel of the Hamiltonian for a finite subset of the lattice, allowing the dimension to tend to infinity. This is an improved version of an earlier unpublished manuscript.

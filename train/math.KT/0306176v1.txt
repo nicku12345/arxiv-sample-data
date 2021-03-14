@@ -1,0 +1,1 @@
+We review the basic definition of a stack and apply it to the topological and smooth settings. We then address two subtleties of the theory: the correct definition of a ``stack over a stack'' and the distinction between small stacks (which are algebraic objects) and large stacks (which are generalized spaces).

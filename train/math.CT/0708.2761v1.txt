@@ -1,0 +1,1 @@
+Following the analogy between algebras (monoids) and monoidal categories the construction of nucleus for non-associative algebras is simulated on the categorical level. Nuclei of categories of modules are considered as an example.

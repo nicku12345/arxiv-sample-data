@@ -1,0 +1,1 @@
+We prove a general inequality on \beta-mixing coefficients of point processes depending uniquely on their n-th order intensity functions. We apply this inequality in the case of determinantal point processes and show that the rate of decay of the \beta-mixing coefficients of a wide class of DPPs is optimal.

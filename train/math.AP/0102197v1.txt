@@ -1,0 +1,1 @@
+We construct finite-dimensional invariant manifolds in the phase space of the Navier-Stokes equation on R^2 and show that these manifolds control the long-time behavior of the solutions. This gives geometric insight into the existing results on the asymptotics of such solutions and also allows one to extend those results in a number of ways.

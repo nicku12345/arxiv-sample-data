@@ -1,0 +1,1 @@
+The goal of this paper is to give an explicit formula for the l-adic cohomology of period domains over finite fields for arbitrary reductive groups. The result is a generalisation of the computation in math.AG/9907098 which treats the case of the general linear group.

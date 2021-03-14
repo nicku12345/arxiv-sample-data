@@ -1,0 +1,1 @@
+First we define a new kind of function over \mathbb{N}. For each i\in\mathbb{N} we have an associated function, which will be called S_i . Then we define a new kind of sequence, to be made from the functions S_i . Finally, we will see that some of these sequences has a self-similarity feature.

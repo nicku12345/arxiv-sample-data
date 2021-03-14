@@ -1,0 +1,1 @@
+We present a class of symplectic matrices which transform by similarity given 2n\times 2n -dimensional matrix into Bunse-Gerstner form. If the given matrix is skew-Hamiltonian, the transformation gives a solution of an antisymmetric Riccati matrix equation, resulting from optimal control of linear systems.

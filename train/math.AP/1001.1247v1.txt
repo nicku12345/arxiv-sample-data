@@ -1,0 +1,1 @@
+We prove a blow-up criterion in terms of the upper bound of the density for the strong solution to the 3-D compressible Navier-Stokes equations. The initial vacuum is allowed. The main ingredient of the proof is \textit{a priori} estimate for an important quantity under the assumption that the density is upper bounded, whose divergence can be viewed as the effective viscous flux.

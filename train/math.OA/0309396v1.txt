@@ -1,0 +1,1 @@
+Suppose that G is a locally compact group and \pi is a (not necessarily irreducible) unitary representation of a closed normal subgroup N of G on a Hilbert space H. We extend results of Clifford and Mackey to determine when \pi extends to a unitary representation of G on the same space H in terms of a cohomological obstruction.

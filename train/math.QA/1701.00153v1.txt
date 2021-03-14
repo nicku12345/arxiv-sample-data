@@ -1,0 +1,1 @@
+We show that the definition of unrolled Hopf algebras can be naturally extended to the Nichols algebra \mathcal{B} of a Yetter-Drinfeld module V on which a Lie algebra \mathfrak g acts by biderivations. Specializing to Nichols algebras of diagonal type, we find unrolled versions of the small, the De Concini-Procesi and the Lusztig divided power quantum group, respectively.

@@ -1,0 +1,1 @@
+The normalised volume measure on the \ell_p^n unit ball (1\leq p\leq 2) satisfies the following isoperimetric inequality: the boundary measure of a set of measure a is at least cn^{1/p}\tilde{a}\log^{1-1/p}(1/\tilde{a}), where \tilde{a}=\min(a,1-a).

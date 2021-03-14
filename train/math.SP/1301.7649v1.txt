@@ -1,0 +1,1 @@
+Consider the eigenfunctions u for a ree rectangular membrane wo that -\Delta u=\lambda u on \mathcal R(c,d)=(0,d)\times(0,d). In this note we show that if if u>0 on \partial \mathcal R(c,d)) then u\equiv C for some positive constant.

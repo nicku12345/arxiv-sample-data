@@ -1,0 +1,1 @@
+In this paper, we collect various structural results to determine when an integral homology 3--sphere bounds an acyclic smooth 4--manifold, and when this can be upgraded to a Stein embedding. In a different direction we study whether smooth embedding of connected sums of lens spaces in \mathbb{C}^2 can be upgraded to a Stein embedding, and determined that this never happens.

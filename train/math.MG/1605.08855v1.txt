@@ -1,0 +1,1 @@
+We prove that an injection from the integer set into the real line admits a quasiconformal extension to the complex plane if and only if it is quasisymmetric.

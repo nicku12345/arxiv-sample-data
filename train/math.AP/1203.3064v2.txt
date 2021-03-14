@@ -1,0 +1,1 @@
+Let L=\Delta^{\alpha/2}+ b\cdot\nabla with \alpha\in(1,2). We prove the Martin representation and the Relative Fatou Theorem for non-negative singular L-harmonic functions on {\mathcal C}^{1,1} bounded open sets.

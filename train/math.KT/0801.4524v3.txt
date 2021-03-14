@@ -1,0 +1,1 @@
+We construct a Quillen model structure on the category of spectral categories, where the weak equivalences are the symmetric spectra analogue of the notion of equivalence of categories.

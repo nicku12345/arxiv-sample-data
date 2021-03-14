@@ -1,0 +1,1 @@
+By forcing with \mathbb{P}_{\rm max} over strong models of determinacy, we obtain models where different square principles at \omega_2 and \omega_3 fail. In particular, we obtain a model of 2^{\aleph_0}=2^{\aleph_1}=\aleph_2 + \lnot\square(\omega_2) + \lnot\square(\omega_3).

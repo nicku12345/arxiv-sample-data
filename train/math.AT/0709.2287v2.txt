@@ -1,0 +1,1 @@
+We employ Massey products to find sharper lower bounds for the Schwarz genus of a fibration than those previously known. In particular we give examples of non-formal spaces X for which the topological complexity \TC(X) (defined to be the genus of the free path fibration on X) is greater than the zero-divisors cup-length plus one.

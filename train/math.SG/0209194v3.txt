@@ -1,0 +1,1 @@
+Let G be a compact, simply connected simple Lie group. We give a construction of an equivariant gerbe with connection on G, with equivariant 3-curvature representing a generator of H^3_G(G,\Z). Technical tools developed in this context include a gluing construction for gerbes and a theory of equivariant bundle gerbes.

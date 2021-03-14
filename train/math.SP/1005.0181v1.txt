@@ -1,0 +1,1 @@
+We study discontinuity of the Lyapunov exponent. We construct a limit-periodic Schr\"odinger operator, of which the Lyapunov exponent has a positive measure set of discontinuities. We also show that the limit-periodic potentials, whose Lyapunov exponent is discontinuous, are dense in the space of limit-periodic potentials.

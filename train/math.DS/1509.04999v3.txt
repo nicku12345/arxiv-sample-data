@@ -1,0 +1,1 @@
+In the N-body problem, a simple choreography is a periodic solution, where all masses chase each other on a single loop. In this paper we prove that for the planar Newtonian N-body problem with equal masses, N \ge 3, there are at least 2^{N-3} + 2^{[(N-3)/2]} different main simple choreographies. This confirms a conjecture given by Chenciner and etc. in \cite{CGMS02}.

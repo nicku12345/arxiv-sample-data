@@ -1,0 +1,1 @@
+We give a proof of Brooks' theorem and its list coloring extension using the algebraic method of Alon and Tarsi; this also shows that the Brooks' theorem remains valid in a more general game coloring setting.

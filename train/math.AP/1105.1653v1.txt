@@ -1,0 +1,1 @@
+We prove the equivalence of three weak formulations of the steady water waves equations, namely the velocity formulation, the stream function formulation, and the Dubreil-Jacotin formulation, under weak Holder regularity assumptions on their solutions.

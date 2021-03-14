@@ -1,0 +1,1 @@
+We prove that a finitely generated Lie algebra L such that (i) every commutator in generators is ad-nilpotent, and (ii)  L satisfies a polynomial identity, is nilpotent. As a corollary we get that a finitely generated residually-p torsion group whose pro-p completion satisfies a pro-p identity is finite.

@@ -1,0 +1,1 @@
+In this paper, we study the relative perturbation bounds for joint eigenvalues of commuting tuples of normal n \times n matrices. Some Hoffman-Wielandt type relative perturbation bounds are proved using the Clifford algebra technique. A result is also extended for diagonalizable matrices which improves a relative perturbation bound for single matrices.

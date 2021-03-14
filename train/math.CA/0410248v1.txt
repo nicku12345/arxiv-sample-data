@@ -1,0 +1,1 @@
+A q-analogue a pair of multivariable biorthogonal polynomials found by M.V.Tratnik in 1989 is derived. The weight function is a product of a multivariable version of the integrand in the Askey-Roy integral and of the Askey-Wilson weight function in a single variable. In addition, a biorthogonality relation is derived for certain bivariate extensions of the q-Racah polynomials.

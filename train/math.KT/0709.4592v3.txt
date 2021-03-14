@@ -1,0 +1,1 @@
+We study the Fibered Isomorphism Conjecture of Farrell and Jones in L-theory for groups acting on trees. In several cases we prove the conjecture. This includes wreath products of abelian groups and free metabelian groups. We also deduce the conjecture in pseudoisotopy theory for these groups. Finally in B of Theorem 1.1 we prove the L-theory version of [[7], Theorem 1.2].

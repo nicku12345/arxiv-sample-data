@@ -1,0 +1,1 @@
+We show that {\sc Heegaard Genus \leq g}, the problem of deciding whether a triangulated 3-manifold admits a Heegaard splitting of genus less than or equal to g, is NP-hard. The result follows from a quadratic time reduction of the NP-complete problem {\sc CNF-SAT} to {\sc Heegaard Genus \leq g}.

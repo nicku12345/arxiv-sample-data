@@ -1,0 +1,1 @@
+We present a method, based on loop equations, to compute recursively, all the terms in the large N topological expansion of the free energy for the 2-hermitian matrix model, in the case where the support of the density of eigenvalues is not connected. We illustrate the method by computing the free energy of a statistical physics model on a discretized torus.

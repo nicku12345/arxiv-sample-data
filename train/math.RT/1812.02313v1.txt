@@ -1,0 +1,1 @@
+Recently we defined imaginary crystal bases for U_q(\widehat{\mathfrak{sl}(2)})- modules in category \mathcal O^q_{\text{red,im}} and showed the existence of such bases for reduced quantized imaginary Verma modules for U_q(\widehat{\mathfrak{sl}(2)}). In this paper we show the existence of imaginary crystal basis for any object in the category \mathcal O^q_{\text{red,im}}.

@@ -1,0 +1,1 @@
+We obtain necessary and sufficient conditions for the L^p-boundedness of the operator with positive Bergman kernel in some homogeneous Siegel domains of Cn. The key tool used here is the Okikiolu test, which finally leads to better result than the Schur test as it has been used so far.

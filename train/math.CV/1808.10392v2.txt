@@ -1,0 +1,1 @@
+We show that there exists a planar Jordan domains \Omega with boundary of Hausdorff dimension 1 such that, for any conformal maps \varphi \colon \mathbb D \to \Omega, any homeomorphic extension of \varphi or \varphi^{-1} to the entire plane is not in W^{1,\,1}_{\rm loc} (or even not in BV_{\rm loc}).

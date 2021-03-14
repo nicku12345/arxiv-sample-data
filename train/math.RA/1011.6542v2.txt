@@ -1,0 +1,1 @@
+Let V be the representation of the quantised enveloping algebra of a general linear group which is the q-analogue of the vector representation. In this paper we construct a basis of the representations obtained by tensoring copies of V and its dual. This basis restricts to a basis of the subspace of invariant tensors.

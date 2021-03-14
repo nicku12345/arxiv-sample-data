@@ -1,0 +1,1 @@
+We introduce and study Choquet-Monge-Ampere classes on compact Kahler manifolds. They consist of quasi-plurisubharmonic functions whose sublevel sets have small enough asymptotic Monge-Ampere capacity. We compare them with finite energy classes, which have recently played an important role in Kahler Geometry.

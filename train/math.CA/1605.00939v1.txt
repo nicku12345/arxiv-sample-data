@@ -1,0 +1,1 @@
+For an arbitrary Radon measure \mu we estimate the integrated discrete curvature of \mu in terms of its centred variant of Jones' beta numbers. We farther relate integrals of centred and non-centred beta numbers. As a corollary, employing the recent result of Tolsa [Calc. Var. PDE, 2015], we obtain a partial converse of the theorem of Meurer [arXiv:1510.04523].

@@ -1,0 +1,1 @@
+In this article, we construct Chern classes in rational Deligne cohomology for coherent sheaves on a smooth complex compact manifold. We prove that these classes verify the functoriality property under pullbacks, the Whitney formula and the Grothendieck-Riemann-Roch theorem for projective morphisms between smooth complex compact manifolds.

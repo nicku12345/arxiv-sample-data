@@ -1,0 +1,1 @@
+In this paper we prove that every recursively presented Lie algebra over a field which is a finite extention of its simple subfield can be embedded in a recursively presented Lie algebra defined by relations which are equalities of (nonassociative) words of generators and a+b=c, where a,b,c are generators.

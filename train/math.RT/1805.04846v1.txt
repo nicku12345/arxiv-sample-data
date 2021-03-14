@@ -1,0 +1,1 @@
+We use the local theta correspondences between the quaternionic Hermitian groups and the quaternionic skew-Hermitian groups to understand the distinction problem for the symmetric pair SL(2,E)/SL(1,D), where E is a quadratic field extension of a nonarchimedean local field extension F and D is a 4-dimensional division quaternion algebra over F

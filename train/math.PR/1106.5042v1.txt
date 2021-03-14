@@ -1,0 +1,1 @@
+The primary purpose of this article is to prove a tightness of skew random walks. The tightness result implies, in particular, that the skew Brownian motion can be constructed as the scaling limit of such random walks. Our proof of tightness is based on a fourth-order moment method.

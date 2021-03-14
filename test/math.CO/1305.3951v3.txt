@@ -1,0 +1,1 @@
+The disproved Nash Williams conjecture states that every 4-regular 4-connected graph has a hamiltonian cycle. We show that a modification of this conjecture is equivalent to the Dominating Cycle Conjecture.

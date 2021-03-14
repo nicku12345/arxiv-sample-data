@@ -1,0 +1,1 @@
+A group G is a vGBS group if it admits a decomposition as a finite graph of groups with all edge and vertex groups finitely generated and free abelian. We construct the JSJ decomposition of a vGBS group over abelian groups. We prove that this decomposition is explicitly computable, and may be obtained by local changes on the initial graph of groups.

@@ -1,0 +1,1 @@
+Richard Kadison showed that not every commutative von Neumann subalgebra of a factor von Neumann algebra is equal to its relative double commutant. We prove that every commutative C*-subalgebra of a centrally prime C*-algebra B equals its relative approximate double commutant. If B is a von Neumann algebra, there is a related distance formula.

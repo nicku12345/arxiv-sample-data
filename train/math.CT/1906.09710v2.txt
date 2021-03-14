@@ -1,0 +1,1 @@
+We show that every unitarizable fusion category, and more generally every semisimple C*-tensor category, admits a unique unitary structure. Our proof is based on a categorified polar decomposition theorem for monoidal equivalences between such categories. We prove analogous results for unitarizable braided fusion categories and module categories.

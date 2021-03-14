@@ -1,0 +1,1 @@
+In this paper we study the Bessel process R_t^{(\mu)} with index \mu\neq 0 starting from x>0 and killed when it reaches a positive level a, where x>a>0. We provide sharp estimates of the transition probability density p_a^{(\mu)}(t,x,y) for the whole range of space parameters x,y>a and every t>0.

@@ -1,0 +1,1 @@
+We use martingales to study Bayesian consistency. We derive sufficient conditions for both Hellinger and Kullback-Leibler consistency, which do not rely on the use of a sieve. Alternative sufficient conditions for Hellinger consistency are also found and demonstrated on examples.

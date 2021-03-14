@@ -1,0 +1,1 @@
+Georges Skandalis exhibited in his work on K-nuclearity the first class of C^*-algebras A for which the canonical map K_*(A\otimes_{max}A)\to K_*(A\otimes_{min}A) is not an isomorphism. We show that it is the injectivity that fails (even rationally) in his examples.

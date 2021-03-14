@@ -1,0 +1,1 @@
+Relaxation theorems which apply to one, two and three-dimensional nonlinear elasticity are proved. We take into account the fact an infinite amount of energy is required to compress a finite line, surface or volume into zero line, surface or volume. However, we do not prevent orientation reversal.

@@ -1,0 +1,1 @@
+We compare, for smooth monomial projective curves, the Castel- nuovo-Mumford regularity and the reduction number; we present an example where these two numbers differ. However, we show they coin- cide for a certain class of monomial curves. Furthermore, for smooth monomial curves we prove an inequality which is stronger than the one from the Eisenbud-Goto conjecture.

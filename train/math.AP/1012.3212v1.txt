@@ -1,0 +1,1 @@
+We consider a second-order selfadjoint elliptic operator with an anisotropic diffusion matrix having a jump across a smooth hypersurface. We prove the existence of a weight-function such that a Carleman estimate holds true. We moreover prove that the conditions imposed on the weight function are necessary.

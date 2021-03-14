@@ -1,0 +1,1 @@
+The quintic equation with real coefficients x^5+5ax^3+5a^2x+b=0 is solved in terms of radicals and the results used to sum a hypergeometric series for several arguments.

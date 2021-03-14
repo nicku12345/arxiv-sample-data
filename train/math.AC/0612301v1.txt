@@ -1,0 +1,1 @@
+After recalling briefly the main properties of the amalgamated duplication of a ring R along an ideal I, denoted by R\JoinI, we restrict our attention to the study of the properties of R\JoinI, when I is a multiplicative canonical ideal of R \cite{hhp}. In particular, we study when every regular fractional ideal of R\Join I is divisorial.

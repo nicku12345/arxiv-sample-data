@@ -1,0 +1,1 @@
+We establish a v_1-periodicity theorem in Ext over the complex-motivic Steenrod algebra. The element h_1 of Ext, which detects the homotopy class \eta in the motivic Adams spectral sequence, is non-nilpotent and therefore generates h_1-towers. Our result is that, apart from these h_1-towers, v_1-periodicity behaves as it does classically.

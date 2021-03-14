@@ -1,0 +1,1 @@
+For an abelian group A, we give a precise homological description of the kernel of the natural map \Gamma(A) \to A\otimes_\mathbb{Z} A, \gamma(a)\mapsto a\otimes a, where \Gamma is whitehead's quadratic functor from the category of abelian groups to itself.

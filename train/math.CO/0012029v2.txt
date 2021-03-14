@@ -1,0 +1,1 @@
+Define S_n(R;T) to be the number of permutations on n letters which avoid all patterns in the set R and contain each pattern in the multiset T exactly once. In this paper we enumerate S_n(\{\alpha\};\{\beta\}) and S_n(\emptyset;\{\alpha,\beta\}) for all \alpha \neq \beta \in S_3. The results for S_n(\{\alpha\};\{\beta\}) follow from two papers by Mansour and Vainshtein.

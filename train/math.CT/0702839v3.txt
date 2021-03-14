@@ -1,0 +1,1 @@
+This is the second paper in a series. In part I we developed deformation theory of objects in homotopy and derived categories of DG categories. Here we extend these (derived) deformation functors to an appropriate bicategory of artinian DG algebras and prove that these extended functors are pro-representable in a strong sense.

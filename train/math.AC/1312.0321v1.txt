@@ -1,0 +1,1 @@
+For a monomial ideal I, let G(I) be its minimal set of monomial generators. If there is a total order on G(I) such that the corresponding Lyubeznik resolution of I is a minimal free resolution of I, then I is called a Lyubeznik ideal. In this paper, we characterize the Lyubeznik ideals, and we discover some classes of Lyubeznik ideals.

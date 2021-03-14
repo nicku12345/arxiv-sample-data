@@ -1,0 +1,1 @@
+A ring is called n-perfect (n\geq 0), if every flat module has projective dimension less or equal than n. In this paper, we show that the n-perfectness relate, via homological approach, some homological dimension of rings. We study n-perfectness in some known ring constructions. Finally, several examples of n-perfect rings satisfying special conditions are given.

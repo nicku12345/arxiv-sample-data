@@ -1,0 +1,1 @@
+We use \mathrm{C}^{\ast}-algebra ultrapowers to give a new construction of the Stone-Cech compactification of a separable, locally compact space. We use this construction to give a new proof of the fact that groups that act isometrically, properly, and transitively on trees are boundary amenable.

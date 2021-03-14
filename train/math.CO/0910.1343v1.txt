@@ -1,0 +1,1 @@
+Following a question of J. Cooper, we study the expected number of occurrences of a given permutation pattern q in permutations that avoid another given pattern r. In some cases, we find the pattern that occurs least often, (resp. most often) in all r-avoiding permutations. We also prove a few exact enumeration formulae, some of which are surprising.

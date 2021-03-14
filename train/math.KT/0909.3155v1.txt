@@ -1,0 +1,1 @@
+We prove moving lemma for additive higher Chow groups of smooth projective varieties. As applications, we prove the very general contravariance property of additive higher Chow groups. Using the moving lemma, we establish the structure of graded-commutative differential graded algebra (CDGA) on these groups.

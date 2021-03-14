@@ -1,0 +1,1 @@
+A model of a q-harmonic oscillator based on q-Charlier polynomials of Al-Salam and Carlitz is discussed. Simple explicit realization of q-creation and q-annihilation operators, q-coherent states and an analog of the Fourier transformation are found. A connection of the kernel of this transform with biorthogonal rational functions is observed.

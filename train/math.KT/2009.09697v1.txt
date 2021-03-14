@@ -1,0 +1,1 @@
+For a G-scheme X with a given equivariant perfect obstruction theory, we prove a virtual equivariant Grothendieck-Riemann-Roch formula, this is an extension of a result of Fantechi-G\"ottsche to the equivariant context. We also prove a virtual non-abelian localization theorem for schemes over \mathbb{C} with proper actions.

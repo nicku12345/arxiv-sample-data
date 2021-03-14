@@ -1,0 +1,1 @@
+Perfect quadratic forms give a toroidal compactification of the moduli space of principally polarized abelian g-folds that is Q-factorial and whose ample classes are characterized, over any base. In characteristic zero it has canonical singularities if g is at least 5, and is the canonical model (in the sense of Mori and Reid) if g is at least 12.

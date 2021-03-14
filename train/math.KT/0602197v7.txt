@@ -1,0 +1,1 @@
+In this note a generalized Gauss-Manin connection is constructed for cohomology of Lie-Rinehart algebras, generalizing the classical Gauss-Manin connection. As an application a Gysin-map between K-groups of flat connections is constructed. We also calculate some examples of Gauss-Manin connections on hypersurface singularities.

@@ -1,0 +1,1 @@
+We prove a strong form of finite rigidity for pants graphs of spheres. Specifically, for any n\geq4, we construct a finite subgraph X_n of the pants graph P(S_{0,n}) of the n-punctured sphere S_{0,n} with the following property. Any simplicial embedding of X_n into any pants graph P(S_{0,m}) of a punctured sphere is induced by an embedding S_{0,n} \to S_{0,m}.

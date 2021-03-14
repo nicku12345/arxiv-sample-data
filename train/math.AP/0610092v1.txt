@@ -1,0 +1,1 @@
+We consider the Derivative NLS equation with general quadratic nonlinearities. In \cite{be2} the first author has proved a sharp small data local well-posedness result in Sobolev spaces with a decay structure at infinity in dimension n = 2. Here we prove a similar result for large initial data in all dimensions n \geq 2.

@@ -1,0 +1,1 @@
+We prove that for certain classes of graded algebras (Koszul, local, cellular), infinite global dimension implies that Hochschild homology does not vanish in high degrees, provided the characteristic of the ground field is zero. Our proof uses Igusa's formula relating the Euler characteristic of relative cyclic homology to the graded Cartan determinant.

@@ -1,0 +1,1 @@
+If the function f is transcendental and meromorphic in the plane, and either f has finitely many poles or its inverse function has a logarithmic singularity over infinity, then the equation \dot z = f(z) has infinitely many trajectories tending to infinity in finite increasing time

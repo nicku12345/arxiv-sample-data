@@ -1,0 +1,1 @@
+We consider Fuchsian singularities of arbitrary genus and prove, in a conceptual manner, a formula for their Poincar\'e series. This uses Coxeter elements involving Eichler-Siegel transformations. We give geometrical interpretations for the lattices and isometries involved, lifting them to triangulated categories.

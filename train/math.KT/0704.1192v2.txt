@@ -1,0 +1,1 @@
+We define an integral Borel-Moore homology theory over finite fields, called arithmetic homology, and an integral version of Kato homology. Both types of groups are expected to be finitely generated, and sit in a long exact sequence with higher Chow groups of zero-cycles.

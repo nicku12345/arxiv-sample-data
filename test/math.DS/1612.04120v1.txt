@@ -1,0 +1,1 @@
+For given non-consistent initial conditions, we study the stability of a class of generalised linear systems of difference equations with constant coefficients and taking into account that the leading coefficient can be a singular matrix. We focus on the optimal solutions of the system and derive easily testable conditions for stability.

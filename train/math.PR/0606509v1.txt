@@ -1,0 +1,1 @@
+A lower bound estimate \lambda_2 - \lambda_1 \ge c \lambda_1^{-d / \alpha} (\diam D)^{-d - \alpha} for the spectral gap of the Dirichlet fractional Laplacian on arbitrary bounded domain D is proved. This follows from a variational formula for the spectral gap and an upper bound estimate for the supremum norm of the ground state eigenfunction.

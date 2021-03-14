@@ -1,0 +1,1 @@
+The geometric Frobenius morphism on smooth varieties is an fppf-fiber bundle. We study representations of the structure group scheme. In particular, we describe irreducible representations and compute its Grothendieck ring of finite dimensional representations.

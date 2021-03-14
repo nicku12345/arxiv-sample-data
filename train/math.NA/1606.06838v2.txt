@@ -1,0 +1,1 @@
+New error bounds for the linear complementarity problems are given respectively when the involved matrices are Nekrasov matrices and B-Nekrasov matrices. Numerical examples are given to show that new bounds are better respectively than those provided by Garcia-Esnaola and Pena in [15,16] in some cases.

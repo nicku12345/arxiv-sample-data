@@ -1,0 +1,1 @@
+We consider a bounded step size random walk in an ergodic random environment with some ellipticity, on an integer lattice of arbitrary dimension. We prove a level 3 large deviation principle, under almost every environment, with rate function related to a relative entropy.

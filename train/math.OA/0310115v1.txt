@@ -1,0 +1,1 @@
+We introduce and investigate using Hilbert modules the properties of the Fourier algebra A(G) for a locally compact groupoid G. We establish a duality theorem for such groupoids in terms of multiplicative module maps. This includes as a special case the classical duality theorem for locally compact groups proved by P. Eymard.

@@ -1,0 +1,1 @@
+Grinshpon has proved that if S is a commutative subring of a ring R and A\in M_n(S) is invertible in M_n(R), then det(A) is invertible in R. We give a very short proof of the result.

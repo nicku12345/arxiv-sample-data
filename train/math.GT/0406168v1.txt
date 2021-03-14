@@ -1,0 +1,1 @@
+A graph multilink is a link with multiplicities in a homology 3-sphere whose exterior is a graph manifold. In this Note, we compute the Novikov homology of graph multilinks. As a corollary, we give a majoration for the number of Novikov modules on a given graph link.

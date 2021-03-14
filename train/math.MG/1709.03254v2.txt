@@ -1,0 +1,1 @@
+We study cross ratios from an axiomatic viewpoint and show that a space equipped with a cross ratios carries several notions of dimension. Specifically, we introduce notions of Hausdorff- and Nagata-dimension and prove that they are invariants of M\"obius spaces. This provides us with more direct methods of obtaining dimensions for boundaries of Gromov-hyperbolic spaces.

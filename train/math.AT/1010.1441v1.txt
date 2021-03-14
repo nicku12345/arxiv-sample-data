@@ -1,0 +1,1 @@
+For a 1-connected CW-complex X, let \mathcal{E}(X) denote the group of homotopy classes of self-homotopy equivalences of X. The aim of this paper is to prove that, for every n\in\Bbb N, there exists a 1-connected rational CW-complex X_{n} such that \mathcal{E}(X_{n})\cong \underset{2^{n+1}\mathrm{. times}}{\underbrace{\Bbb Z_{2}\oplus... \Bbb \oplus \Bbb Z_{2}}}.

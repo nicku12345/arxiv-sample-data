@@ -1,0 +1,1 @@
+An algorithmic proof of General Neron Desingularization is given here for one dimensional local domains and it is implemented in \textsc{Singular}. Also a theorem recalling Greenberg' strong approximation theorem is presented for one dimensional Cohen-Macaulay local rings.

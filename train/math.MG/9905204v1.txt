@@ -1,0 +1,1 @@
+The famous Hadwiger theorem classifies all rigid motion invariant continuous valuations on convex sets as linear conbinations of quermassintegrals. We prove much more general result. We classify continuous valuations which are invariant with respect to the orthogonal (or special orthogonal) group. Some applications to integral geometry are given.

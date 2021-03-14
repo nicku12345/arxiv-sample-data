@@ -1,0 +1,1 @@
+We build optimal exponential bounds for the probabilities of large deviations of sums \sum_{k=1}^nf(X_k) where (X_k) is a finite reversible Markov chain and f is an arbitrary bounded function. These bounds depend only on the stationary mean E_{\pi}f, the end-points of the support of f, the sample size n and the second largest eigenvalue \lambda of the transition matrix.

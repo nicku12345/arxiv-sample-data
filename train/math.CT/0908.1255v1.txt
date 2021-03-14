@@ -1,0 +1,1 @@
+For any subgroup H of Out(F_n), either H has a finite index subgroup that fixes the conjugacy class of some proper, nontrivial free factor of F_n, or H contains a fully irreducible element phi, meaning that no positive power of phi fixes the conjugacy class of any proper, nontrivial free factor of F_n.

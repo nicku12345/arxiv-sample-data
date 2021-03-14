@@ -1,0 +1,1 @@
+Boardman, Johnson, and Wilson gave a precise formulation for an unstable algebra over a generalized cohomology theory. Modifying their definition slightly in the case of complex K-theory by taking into account its periodicity, we prove that an unstable algebra for complex K-theory is precisely a filtered \lambda-ring, and vice versa.

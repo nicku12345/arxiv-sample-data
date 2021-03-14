@@ -1,0 +1,1 @@
+In the present article, the author shows that Faltings' annihilator theorem holds for any Noetherian ring A if A is universally catenary; all the formal fibers of all the localizations of A are Cohen-Macaulay; and the Cohen-Macaulay locus of each finitely generated A-algebra is open.

@@ -1,0 +1,1 @@
+Let G be a connected reductive group defined over a non archimedean local field k. A theorem of Bernstein states that for any compact open subgroup K of G(k), there are, up to unramified twists, only finitely many K-spherical supercuspidal representations of G(k). We prove an analogous result on the Galois side of the Langlands correspondence.

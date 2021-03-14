@@ -1,0 +1,1 @@
+The method we have applied in "A. Bernini, L. Ferrari, R. Pinzani, Enumerating permutations avoiding three Babson-Steingrimsson patterns, Ann. Comb. 9 (2005), 137--162" to count pattern avoiding permutations is adapted to words. As an application, we enumerate several classes of words simultaneously avoiding two generalized patterns of length 3.

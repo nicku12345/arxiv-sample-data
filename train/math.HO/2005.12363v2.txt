@@ -1,0 +1,1 @@
+In this note I show a simple generalization of the binomial coefficient to \mathbb{C} as a linear combination of sinc functions. This allows to simplify calculations as well as having interesting applications in calculus.

@@ -1,0 +1,1 @@
+For a fibration with the fiber K(\pi,n)-space, the algebraic model as a twisted tensor product of chains of the base with standard chains of K(\pi,n)-complex is given which preserves multiplicative structure as well. In terms of this model the action of the n-cohomology of the base with coefficients in \pi on the homology of fibration is described.

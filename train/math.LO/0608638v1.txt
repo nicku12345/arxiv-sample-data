@@ -1,0 +1,1 @@
+We prove that for regular \lambda above a strong limit singular \mu certain guessing principles follow just from cardinal arithmetic assumptions. The main result is that for such \lambda and \mu there are coboundedly many regular \kappa<\mu such that \clubsuit^-(S^\lambda_\kappa) holds whenever \lambda=\lambda^{<\kappa}.

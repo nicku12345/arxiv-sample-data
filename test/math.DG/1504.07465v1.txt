@@ -1,0 +1,1 @@
+The present paper is a follow up of our paper \cite{nS}. We investigate here the maximization of higher order eigenvalues in a conformal class on a smooth compact boundaryless Riemannian surface. Contrary to the case of the first nontrivial eigenvalue as shown in \cite{nS}, bubbling phenomena appear.

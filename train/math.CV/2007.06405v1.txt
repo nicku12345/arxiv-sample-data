@@ -1,0 +1,1 @@
+We study Sobolev estimates for solutions of the inhomogenous Cauchy-Riemann equations on annuli in \cx^n, by constructing exact sequences relating the Dolbeault cohomology of the annulus with respect to Sobolev spaces of forms with those of the envelope and the hole. We also obtain solutions with prescibed support and estimates in Sobolev spaces using our method.

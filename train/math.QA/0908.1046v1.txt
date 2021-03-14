@@ -1,0 +1,1 @@
+This paper defines a pairing of two finite Hopf C*-algebras A and B, and investigates the interactions between them. If the pairing is non-degenerate, then the quantum double construction is given. This construction yields a new finite Hopf C*-algebra D(A,B). The canonical embedding maps of A and B into the double are both isometric.

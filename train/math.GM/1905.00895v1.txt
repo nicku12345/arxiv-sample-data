@@ -1,0 +1,1 @@
+Heron angle: both its sine and cosine are rational Heron triangle: all its sides and area are rational Heron Parallelogram: all its sides, diagonals and area are rational We give one-to-one (bijective) parametrizations for all three concepts.

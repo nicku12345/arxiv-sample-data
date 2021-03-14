@@ -1,0 +1,1 @@
+If c is a positive number, Descartes' rule of signs implies that multiplying a polynomial f(x) by c - x introduces an odd number of changes of sign in the coefficients. We turn this around, proving this fact about sign changes inductively and deriving Descartes' rule from it.

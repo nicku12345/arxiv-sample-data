@@ -1,0 +1,1 @@
+We construct finite free resolutions of Z over ZG, where G is the fundamental group of a surface distinct from S^2 and RP^2, and define diagonal approximations for these resolutions. We then procceed to give some possible applications that come with the knowledge of those maps.

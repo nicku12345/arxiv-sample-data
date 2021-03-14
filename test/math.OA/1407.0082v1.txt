@@ -1,0 +1,1 @@
+This paper discusses the existence of a sufficient condition for an operator to be weakly hypercyclic. We establish a weak hypercyclicity criterion, and thereupon we can answer questions 5.3 and 5.8 posed by Chan and Sanders in 2004. Lastly, we show that for specific type of composition operator, weak hypercyclicity and hypercyclicity are equivalent.

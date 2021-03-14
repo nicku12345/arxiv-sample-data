@@ -1,0 +1,1 @@
+We prove that, for C^1-generic diffeomorphisms, if a homoclinic class is not hyperbolic, then there is a non-hyperbolic ergodic measure supported on it. This proves a conjecture by D\'iaz and Gorodetski [28]. We also discuss the conjectured existence of periodic points with different stable dimension in the class.

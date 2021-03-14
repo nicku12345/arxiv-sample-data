@@ -1,0 +1,1 @@
+This paper studies the regularity of certain coherent sheaves that arise naturally from Segre-Veronese embeddings of a product of projective spaces. We give an explicit formula for the regularity of these sheaves and show that their regularity is subadditive. We then apply our results to study the Tate resolutions of these sheaves.

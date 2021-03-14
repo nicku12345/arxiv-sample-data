@@ -1,0 +1,1 @@
+We propose a general condition, to ensure essential self-adjointness for the Gau{\ss}-Bonnet operator, based on a notion of completeness as Chernoff. This gives essential self-adjointness of the Laplace operator both for functions or 1-forms on infinite graphs. This is used to extend Flanders result concerning solutions of Kirchhoff's laws.

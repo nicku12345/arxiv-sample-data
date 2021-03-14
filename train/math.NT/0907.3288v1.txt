@@ -1,0 +1,1 @@
+We revisit a work by R. Okazaki and prove that for every cubic binary form F(x, y) with large enough discriminant, the Thue equation |F(x, y)| = 1 has at most 7 solutions in integers x and y.

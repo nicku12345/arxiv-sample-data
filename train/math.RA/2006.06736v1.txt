@@ -1,0 +1,1 @@
+Let A be a Banach algebra, and let a; b; c 2 A satisfying a(ba)^2 = abaca = acaba = (ac)^2a: We prove that 1 - ba\in A^d if and only if 1 - ac \in A^d. In this case, (1-ac)^d =1-a(1-ba)^{\pi}(1-\alpha(1+ba))^{-1}bac (1+ac)+a((1-ba)^d)bac. This extends the main result on g-Drazin inverse of Corach (Comm. Algebra, 41(2013), 520{531).

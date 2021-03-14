@@ -1,0 +1,1 @@
+Let V be a smooth projective 3-fold of general type. Denote by K^{3}, a rational number, the self-intersection of the canonical sheaf of any minimal model of V. One defines K^{3} as a canonical volume of V. The paper is devoted to proving the sharp lower bound K^{3}\ge {1/420} which can be reached by an example: X_{46}\subseteq \mathbb{P}(4,5,6,7,23).

@@ -1,0 +1,1 @@
+We obtain the asymptotic formulas for the eigenvalues and eigenfunctions of the Sturm-Liouville operators with general regular boundary conditions. Using these formulas, we find sufficient conditions on the potential q such that the root functions of these operators do not form a Riesz basis.

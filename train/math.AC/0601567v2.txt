@@ -1,0 +1,1 @@
+In this paper we investigate a property for commutative rings with identity which is possessed by every coherent regular ring and is equivalent to Cohen-Macaulay for Noetherian rings. We study the behavior of this property in the context of ring extensions (of various types) and rings of invariants.

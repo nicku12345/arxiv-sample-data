@@ -1,0 +1,1 @@
+This paper first introduces a refined version of the Azuma-Hoeffding inequality for discrete-parameter martingales with uniformly bounded jumps. The refined inequality is used to revisit the large deviations analysis of binary hypothesis testing.

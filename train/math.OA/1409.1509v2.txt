@@ -1,0 +1,1 @@
+We show that Drinfeld's double group construction for locally compact quantum groups preserves the Haagerup property. This shows that the Drinfeld doubles of the quantum groups, C_{0}(\mathbb{F}_{2}), SU_{q}(2), SU_{q}(1,1)_{\text{ext}}, quantum ax+b, quantum az+b, and E_{q}(2) have the Haagerup property.

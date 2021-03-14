@@ -1,0 +1,1 @@
+The second relative homotopy group \pi_2(V(\C),V(\R)) (of the complex relative to the real points of an algebraic variety) encodes interesting information about the `bubbling' phenomena of quantum cohomology. We consider these groups in particular for genus zero Deligne-Mumford moduli spaces, as well as for certain generalizations introduced more recently by Manin and Losev.

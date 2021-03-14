@@ -1,0 +1,1 @@
+In this paper we give a detailed asymptotic formula for the lowest eigenvalue of the magnetic Neumann Schr\"odinger operator in the ball in three dimensions with constant magnetic field, as the strength of the magnetic field tends to infinity. This asymptotic formula is used to prove that the eigenvalue is monotonically increasing for large values of the magnetic field.

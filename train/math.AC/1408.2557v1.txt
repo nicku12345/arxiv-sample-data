@@ -1,0 +1,1 @@
+In this paper we prove that if I(G) is a bipartite edge ideal with regularity three then for all s\geq 2 the regularity of I(G)^s is exactly 2s+1.

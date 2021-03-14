@@ -1,0 +1,1 @@
+In this paper we build, for any natural n, a closure operator relative to the n-matrix endofunctor over the category of rings with 1. We analyze which properties are invariant under this operator. This operator tends to be decisive, in the sense that the operator preserves the property or loses the property for all rings.

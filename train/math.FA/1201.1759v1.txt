@@ -1,0 +1,1 @@
+We give a necessary and sufficient condition for a difference of convex (DC, for short) functions, defined on a locally convex space, to be Lipschitz continuous. Our criterion relies on the intersections of the "epsilon-subdifferentials of the involved functions.

@@ -1,0 +1,1 @@
+The odd wheel is the only type of 4-critical graph in which one vertex always gets a unique color. This supports Frederic Guthrie's approach to the Four Color Problem.

@@ -1,0 +1,1 @@
+Let A_1 be any spectrum in the class of finite spectra whose mod-2 cohomology is isomorphic to \mathcal{A}(1) as a module over the subalgebra \mathcal{A}(1) of the Steenrod algebra; let tmf be the connective spectrum of topological modular forms. In this paper, we prove that the tmf-Hurewicz image of A_1 is surjective.

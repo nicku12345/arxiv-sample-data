@@ -1,0 +1,1 @@
+In the program to classify C^*-algebras, it is very important to find abstract conditions which are sufficient to imply that a given algebra has tracial rank zero, in the sense of Huaxin Lin. Even in the presence of a unique trace, we show that the union of the known necessary conditions is not enough.

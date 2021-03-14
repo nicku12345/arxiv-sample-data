@@ -1,0 +1,1 @@
+We describe a family of open subsets M_A of the Moore plane, one for each subset A of \mathbb{R}. Each of these subsets is a separable contractible (Hausdorff) 2-manifold, which is nonmetrizable if A is uncountable. The collection \{M_A:A\subseteq\mathbb{R}\} contains 2^{2^{\aleph_0}} distinct homeomorphism classes.

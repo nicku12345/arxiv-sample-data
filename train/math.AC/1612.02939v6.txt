@@ -1,0 +1,1 @@
+We construct explicitly a resolution of a fan algebra of principal ideals over a Noetherian ring for the case when the fan is a proper rational cone in the plane. Under some mild conditions on the initial data, we show that this resolution is minimal.

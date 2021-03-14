@@ -1,0 +1,1 @@
+the main goal of this paper is to prove that any Banach space X, that every dual ball in X** is weak* -separable, or every weak* -closed convex subset in X** is weak* -separable, or every norm-closed convex set in X* is constructible, admits an equivalent Frechet differentiable norm.

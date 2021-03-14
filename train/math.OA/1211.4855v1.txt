@@ -1,0 +1,1 @@
+We define variants of Pisier's similarity degree for unital C*-algebras and use direct integral theory to obtain new results. We prove that if every II_{1} factor representation of a separable C*-algebra \mathcal{A} has property \Gamma, then the similarity degree of \mathcal{A} is at most 11.

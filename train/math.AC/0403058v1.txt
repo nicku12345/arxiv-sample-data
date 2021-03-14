@@ -1,0 +1,1 @@
+Let k be a field. We determine the ideals I in a finitely generated graded k-algebra A, whose associated graded rings are isomorphic to A. Also we compute the graded local cohomologies of the Rees rings A[I t] and give the condition for A[I t] to be generalized Cohen-Macaulay.

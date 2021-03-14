@@ -1,0 +1,1 @@
+We give a tight upper bound on the polygonal diameter of the interior, resp. exterior, of a simple n-gon, n \ge 3, in the plane as a function of n, and describe an n-gon (n \ge 3) for which both upper bounds (for the interior and the exterior) are attained \emph{simultaneously}.

@@ -1,0 +1,1 @@
+This paper studies the class group of graded integral domains. As an application, we state a decomposition theorem for class groups of semigroup rings. This recovers well-known results developed for the classic contexts of polynomial rings and Krull semigroup rings. Our results are backed by original examples.

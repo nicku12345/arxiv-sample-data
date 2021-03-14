@@ -1,0 +1,1 @@
+We exhibit a knot P in the solid torus, representing a generator of first homology, such that for any knot K in the 3-sphere, the satellite knot with pattern P and companion K is not smoothly slice in any homology 4-ball. As a consequence, we obtain a knot in a homology 3-sphere that does not bound a piecewise-linear disk in any contractible 4-manifold.

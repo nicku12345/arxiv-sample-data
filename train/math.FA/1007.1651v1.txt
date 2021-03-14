@@ -1,0 +1,1 @@
+Given a Banach space A and fix a non-zero \varphi\in A^* with \|\varphi\|\leq 1. Then the product a\cdot b=\langle\varphi, a\rangle\ b turning A into a Banach algebra which will be denoted by _\varphi A. Some of the main properties of _\varphi A such as Arens regularity, n-weak amenability and semi-simplicity are investigated.

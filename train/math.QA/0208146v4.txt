@@ -1,0 +1,1 @@
+The determinant is a main organizing tool in commutative linear algebra. In this review we present a theory of the quasideterminants defined for matrices over a division algebra. We believe that the notion of quasideterminants should be one of main organizing tools in noncommutative algebra giving them the same role determinants play in commutative algebra.

@@ -1,0 +1,1 @@
+An approach is proposed for bounding the number of zeros that solutions of linear differential systems with polynomial coefficients may have. A bound is obtained in a special case which improves upon currently existing.

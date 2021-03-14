@@ -1,0 +1,1 @@
+We prove that the Benjamin-Ono equation is well-posed in  H^{1/2}(\T) . This leads to a global well-posedness result in  H^{1/2}(\T)  thanks to the energy conservation.

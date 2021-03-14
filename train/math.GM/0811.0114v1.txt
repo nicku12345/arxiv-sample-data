@@ -1,0 +1,1 @@
+In this article we construct a family of expressions \varepsilon(n). For each element E(n) from \varepsilon(n), the convergence of the series \sum_{n \ge n_E}{E(n)} can be determined in accordance to the theorems of this article. Some applications are also presented.

@@ -1,0 +1,1 @@
+For an algebraically closed base field of characteristic p>0, a new algorithm to construct some non-zero GL(n-1)-high weight vectors of irreducible rational GL(n)-modules is suggested. It is based on successively applying Kleshchev's lowering operators to GL(n-1)-high weight vectors already obtained.

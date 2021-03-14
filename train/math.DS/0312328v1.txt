@@ -1,0 +1,1 @@
+We study the lower and upper local rates of Poincare recurrence of rotations on the circle by means of symbolic dynamics. As a consequence, we show that if the lower rate of Poincare recurrence of an ergodic dynamical system (X,F,mu,T) is greater or equal to 1 mu-almost everywhere, then it is weakly mixing.

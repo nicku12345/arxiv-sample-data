@@ -1,0 +1,1 @@
+For an arbitrary field of any characteristic we give an explicit description, in terms of Pl\"ucker coordinates, of the projective linear space that cuts out the Lagrangian-Grassmannian variety L(n,2n) of maximal isotropic subspaces in a symplectic vector space of dimension 2n in the Grassmannian variety G(n,2n)

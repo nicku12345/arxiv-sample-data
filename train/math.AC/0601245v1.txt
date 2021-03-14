@@ -1,0 +1,1 @@
+We introduce a class of Stanley-Reisner ideals called generalized complete intersection, which is characterized by the property that all the residue class rings of powers of the ideal have FLC. We also give a combinatorial characterization of such ideals.

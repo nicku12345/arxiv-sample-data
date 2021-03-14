@@ -1,0 +1,1 @@
+We define a poset of partitions associated to an operad. We prove that the operad is Koszul if and only if the poset is Cohen-Macaulay.   In one hand, this characterisation allows us to compute the homology of the poset. This homology is given by the Koszul dual operad. On the other hand, we get new methods for proving that an operad is Koszul.

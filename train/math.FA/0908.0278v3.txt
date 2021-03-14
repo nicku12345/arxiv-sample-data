@@ -1,0 +1,1 @@
+If f is a function of n variables that is locally L^1 approximable by a sequence of smooth functions satisfying local L^1 bounds on the determinants of the minors of the Hessian, then f admits a second order Taylor expansion almost everywhere. This extends a classical theorem of A.D. Alexandrov, covering the special case in which f is locally convex.

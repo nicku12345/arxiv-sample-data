@@ -1,0 +1,1 @@
+We calculate the character of the Weil representation using previous results which express the Weyl symbol of metaplectic operators in terms of the symplectic Cayley transform and the Conley--Zehnder index.

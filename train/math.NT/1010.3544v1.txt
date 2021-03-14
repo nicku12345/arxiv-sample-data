@@ -1,0 +1,1 @@
+Let P(a,q) be the least prime in the arithmetic progression \{n\equiv a(mod\ q)\}. In this note, when q has bounded cubic part and (a,q)=1, we combine the Heath-Brown's method and the Burgess's bounds for L-functions to obtain  P(a,q)\ll q^{4.5}.

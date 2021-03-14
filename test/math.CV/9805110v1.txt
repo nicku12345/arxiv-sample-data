@@ -1,0 +1,1 @@
+We examine when the composition of two entire functions f and g is even, and extend some of our results to cyclic compositions in general. We prove some theorems for the cases when f or g is a polynomial. Two of the key theorems we use are a well-known result of Borel, and a theorem of Baker and Gross concerning when f(p(z))=f(q(z)).

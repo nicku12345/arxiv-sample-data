@@ -1,0 +1,1 @@
+Let \text{Red}(M) be the sum of all reduced submodules of a module M. For modules over commutative rings, \text{Soc}(M)\subseteq \text{Red}(M). By drawing motivation from how \text{Soc}-injective modules were defined by Amin et. al. in \cite{amin2005}, we introduce \text{Red}-injective modules, study their properties and use them to characterize quasi-Frobenius rings and V-rings.

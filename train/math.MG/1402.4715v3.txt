@@ -1,0 +1,1 @@
+We expand on a result of Barvinok and Hartigan to derive asymptotic formulas for the number of integer and binary integer points in a wide class of multi-index k_1\times k_2\times \ldots \times k_{\nu} transportation polytopes. A simple closed form approximation is given as the k_js go to infinity.

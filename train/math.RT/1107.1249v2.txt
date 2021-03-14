@@ -1,0 +1,1 @@
+Given a finite-dimensional, complex simple Lie algebra we exhibit an integral form for the universal enveloping algebra of its map algebra, and an explicit integral basis for this integral form. We also produce explicit commutation formulas in the universal enveloping algebras of the map algebras of sl_2 that allow us to write certain elements in Poincare-Birkhoff-Witt order.

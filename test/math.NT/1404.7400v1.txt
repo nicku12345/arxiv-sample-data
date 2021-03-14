@@ -1,0 +1,1 @@
+Let n,k be the positive integers, and let S_{k}(n) be the sums of the k-th power of positive integers up to n. By means of that we consider the evaluation of the sum of more general series by Bernstein polynomials. Additionally we show the reality of our idea with some examples.

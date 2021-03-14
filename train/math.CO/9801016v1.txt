@@ -1,0 +1,1 @@
+H. N. V. Temperley's method for counting vertically convex polyominoes is modified, generalized, and most importantly, programmed (in Maple).

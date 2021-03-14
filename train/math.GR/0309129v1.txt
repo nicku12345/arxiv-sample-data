@@ -1,0 +1,1 @@
+Let G be a connected real Lie group of dimension n.   Then there exists a relatively compact open neighbourhood W of e in G such that for n+1 randomly chosen elements g_0,..,g_n the generated subgroup will be dense in G with probability one.

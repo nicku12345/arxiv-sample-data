@@ -1,0 +1,1 @@
+We consider multifractional process given by double Ito--Wiener integrals, which generalize the multifractional Rosenblatt process. We prove that this process is continuous and has a square integrable local time.

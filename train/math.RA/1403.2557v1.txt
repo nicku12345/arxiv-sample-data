@@ -1,0 +1,1 @@
+In this paper we answer two questions from [16], by showing that, over any algebraically closed field, K, there is a finitely generated, infinitely dimensional algebra A such that algebras A\otimes_{K}A and A\otimes_{K} A^{op} are nil.

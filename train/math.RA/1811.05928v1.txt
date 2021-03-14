@@ -1,0 +1,1 @@
+Let \mathcal{C} be a pocategory, FI(\mathcal{C}) the finitary incidence ring of \mathcal{C} and \varphi a Jordan isomorphism of FI(\mathcal{C}) onto an associative ring A. We study the problem of decomposition of \varphi into the (near-)sum of a homomorphism and an anti-homomorphism.

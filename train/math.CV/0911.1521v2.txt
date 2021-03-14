@@ -1,0 +1,1 @@
+We discuss a general result of holomorphic extension of a real analytic function f defined on the boundary \partial D of a real analytic strictly convex subset D\subset\subset \C^n. We show that this follows from the hypothesis of separate holomorphic extension along stationary/extremal discs.

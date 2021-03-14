@@ -1,0 +1,1 @@
+Let p be a prime. We classify finitely generated pro-p groups G which satisfy d(H) = d(G) for all open subgroups H of G. Here d(H) denotes the minimal number of topological generators for the subgroup H. Within the category of p-adic analytic pro-p groups, this answers a question of Iwasawa.

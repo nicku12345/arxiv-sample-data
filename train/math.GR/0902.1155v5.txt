@@ -1,0 +1,1 @@
+We study matrix identities involving multiplication and unary operations such as transposition or Moore-Penrose inversion. We prove that in many cases such identities admit no finite basis.

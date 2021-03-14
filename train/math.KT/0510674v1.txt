@@ -1,0 +1,1 @@
+We explore the relations of twisted K-theory to twisted and untwisted classical cohomology. We construct an Atiyah-Hirzebruch spectral sequence, and describe its differentials rationally as Massey products. We define the twisted Chern character. We also discuss power operations in the twisted theory, and the role of the Koschorke classes.

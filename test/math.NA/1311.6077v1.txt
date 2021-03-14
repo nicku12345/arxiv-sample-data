@@ -1,0 +1,1 @@
+We combine the known methods for univariate polynomial root-finding and for computations in the Frobenius matrix algebra with our novel techniques to advance numerical solution of a univariate polynomial equation, and in particular numerical approximation of the real roots of a polynomial. Our analysis and experiments show efficiency of the resulting algorithms.

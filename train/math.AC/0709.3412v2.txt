@@ -1,0 +1,1 @@
+The R-module functors that are essential for the development of the theory of the linear representations of an affine R-group are the quasi-coherent R-modules and the R-module schemes. The aim of this paper is to study when a quasi-coherent R-module is an R-module scheme. We will prove that it is equivalent to giving a characterization of projective R-modules of finite type.

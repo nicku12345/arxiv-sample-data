@@ -1,0 +1,1 @@
+Let A and B be finite-dimensional simple algebras with arbitrary signature over an algebraically closed field. Suppose A and B are graded by a semigroup S so that the graded identitical relations of A are the same as those of B. Then A is isomorphic to B as an S-graded algebra.

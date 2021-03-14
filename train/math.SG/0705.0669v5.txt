@@ -1,0 +1,1 @@
+We define a new combinatorial complex computing the hat version of link Floer homology over Z/2Z, which turns out to be significantly smaller than the Manolescu-Ozsvath-Sarkar one.

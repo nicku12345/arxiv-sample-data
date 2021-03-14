@@ -1,0 +1,1 @@
+We use the techniques of integration of Poisson manifolds into symplectic Lie groupoids to build symplectic resolutions (= desingularizations) of the closure of a symplectic leaf. More generally, we show how Lie groupoids can be used to lift singularities, in particular when one imposes a compatibility condition with an additional structure given by a multi-vector field.

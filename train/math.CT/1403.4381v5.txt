@@ -1,0 +1,1 @@
+We provide proofs of two properties of the model category dgCat of dg-categories (with the Morita or Dwyer-Kan model structure): When working over a field the category dgCat is left proper. Natural simplicial resolutions in dgCat are given by dg-categories of Maurer-Cartan elements.

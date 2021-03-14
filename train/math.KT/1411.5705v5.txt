@@ -1,0 +1,1 @@
+We show that real Deligne cohomology of a complex manifold arises locally as a topological vector space completion of the analytic Lie groupoid of holomorphic vector bundles. Thus Beilinson's regulator arises naturally as a comparison map between K-theory groups of different types.

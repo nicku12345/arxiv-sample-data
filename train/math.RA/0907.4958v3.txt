@@ -1,0 +1,1 @@
+We show how to use Groebner bases for operads to prove various freeness theorems: freeness of certain operads as nonsymmetric operads, freeness of an operad Q as a P-module for an inclusion P into Q, freeness of a suboperad. This gives new proofs of many known results of this type and helps to prove some new results.

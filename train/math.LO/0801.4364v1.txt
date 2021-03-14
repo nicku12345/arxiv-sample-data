@@ -1,0 +1,1 @@
+I show that assuming PFA, every proper Scott set is the standard system of a model of PA. A Scott set X is proper if it is arithmetically closed and the quotient Boolean algebra X/Fin is a proper partial order.

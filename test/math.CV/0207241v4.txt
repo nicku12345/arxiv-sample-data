@@ -1,0 +1,1 @@
+We propose, within the context of the dynamics of a holomorphic germ in CI^N, a definition of 'attracting basin' of a fixed point. We prove that the inverse germ of an endomorphism of CI^N with a repulsive fixed point in 0, satisfying a supplementary technical hypothesis, admits an attracting basin which could be described as a Fatou-Bieberbach domain 'with many leaves'.

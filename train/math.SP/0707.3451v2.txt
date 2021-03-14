@@ -1,0 +1,1 @@
+We extend relative oscillation theory to the case of Sturm--Liouville operators H u = r^{-1}(-(pu')'+q u) with different p's. We show that the weighted number of zeros of Wronskians of certain solutions equals the value of Krein's spectral shift function inside essential spectral gaps.

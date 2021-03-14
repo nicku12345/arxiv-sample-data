@@ -1,0 +1,1 @@
+For nonmonotonic logics, Cumulativity is an important rule. We show here that Cumulativity fans out into an infinity of different conditions, if the domain is not closed under finite unions.

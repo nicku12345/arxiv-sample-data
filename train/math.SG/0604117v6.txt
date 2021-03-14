@@ -1,0 +1,1 @@
+We revisit Khudaverdian's geometric construction of an odd nilpotent operator \Delta_E that sends semidensities to semidensities on an antisymplectic manifold. We find a local formula for the \Delta_E operator in arbitrary coordinates and we discuss its connection to Batalin-Vilkovisky quantization.

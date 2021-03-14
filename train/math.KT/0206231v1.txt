@@ -1,0 +1,1 @@
+Nous generalisons la theorie de la K-moyennabilite au cas d'un unitaire multiplicatif regulier V. Nous montrons que si (H,V,U) est un systeme de Kac K-moyennable, alors pour toute S-algebre A, les algebres  A\times_{m}\hat S (produit croise maximal) et  A\times \hat S (produit croise reduit) sont KK-equivalentes ou S est la C^*-algebre de Hopf reduite associee a V.

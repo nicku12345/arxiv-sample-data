@@ -1,0 +1,1 @@
+We use Kauffman's bracket polynomial to define a complex-valued invariant of virtual rational tangles that generalizes the well-known fraction invariant for classical rational tangles. We provide a recursive formula for computing the invariant, and use it to compute several examples.

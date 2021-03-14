@@ -1,0 +1,1 @@
+We work over an o-minimal expansion of a real closed field R. Given a closed simplicial complex K and a finite number of definable subsets of its realization |K| in R we prove that there exists a triangulation (K',f) of |K| compatible with the definable subsets such that K' is a subdivision of K and f is definably homotopic to the identity on |K|.

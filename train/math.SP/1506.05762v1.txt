@@ -1,0 +1,1 @@
+Let G be a connected undirected graph with n, n\ge 3, vertices and m edges. Denote by \rho_1 \ge \rho_2 \ge \cdots > \rho_n =0 the normalized Laplacian eigenvalues of G. Upper and lower bounds of \rho_i, i=1,2,\ldots , n-1, are determined in terms of n and general Randi\' c index, R_{-1}.

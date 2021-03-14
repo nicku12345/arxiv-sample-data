@@ -1,0 +1,1 @@
+In this paper, we consider the one-term Edgeworth expansion for finite population L-statistics. We provide an explicit formula for the Edgeworth correction term and give sufficient conditions for the validity of the expansion which are expressed in terms of the weight function that defines the statistics and moment conditions.

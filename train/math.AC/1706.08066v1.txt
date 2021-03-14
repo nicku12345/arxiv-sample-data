@@ -1,0 +1,1 @@
+Conca and Herzog proved that any product of ideals of linear forms in a polynomial ring has a linear resolution. The goal of this paper is to establish the same result for any quadric hypersurface. The main tool we develop and use is a flexible version of Derksen and Sidman's approximation systems.

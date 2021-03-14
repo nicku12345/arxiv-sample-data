@@ -1,0 +1,1 @@
+We provide new general kernel selection rules thanks to penalized least-squares criteria. We derive optimal oracle inequalities using adequate concentration tools. We also investigate the problem of minimal penalty as described in [BM07].

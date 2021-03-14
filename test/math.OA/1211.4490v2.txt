@@ -1,0 +1,1 @@
+It is well known that the functor of taking the minimal tensor product with a fixed C^*-algebra preserves inductive limits if and only if it preserves extensions. In other words, tensor continuity is equivalent to tensor exactness. We consider a K-theoretic analogue of this result and show that K-continuity is equivalent to K-exactness, using a result of M. Dadarlat.

@@ -1,0 +1,1 @@
+The space of Schwartz distributions of finite order is represented as a factor space of the space of, what we call, Mikusinski functions. The point of Mikusinski functions is that they admit a multiplication by convergent Laurent series. It is shown that this multiplication provides a natural simple basis for Heaviside's operational calculus.

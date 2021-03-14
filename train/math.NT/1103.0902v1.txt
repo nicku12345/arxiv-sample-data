@@ -1,0 +1,1 @@
+We define the notion of index-module for a couple of A-lattices in a vector space, A being a Dedekind ring. We apply this notion to prove by elementary means that a weak Gras conjecture (i.e for irreducible nontrivial Q-characters) holds for a suitable group of Stark units in global function fields.

@@ -1,0 +1,1 @@
+We define the rigid homology. The trace morphism in rigid cohomology define by duality the cycle class in rigid homology. We verify the compatibility of this classes with rationnal equivalence and intersection theory. We deduce some formal consequences such as the Riemman-Roch-Grothendieck theorem in rigid cohomology and the self-intersection formula.

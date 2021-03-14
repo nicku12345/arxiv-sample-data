@@ -1,0 +1,1 @@
+A class of nets in constructive (in A.A.Markov's sense) topological space for which the convergence is equivalent to convergence of all subsequences, is described. B.A.Kushner's theorem about coincidence of strong and weak constructive variants of Riemann's integrability, is obtained as corollary.

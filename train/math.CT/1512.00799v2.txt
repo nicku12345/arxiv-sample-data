@@ -1,0 +1,1 @@
+We show how decreasing diagrams introduced in the theory of rewriting systems can be used to prove coherence type theorems in category theory. We apply this method to describe a coherent presentation of the 0-Hecke monoid \mathcal{H}(\Sigma_n) of the symmetric group \Sigma_n, i.e. a presentation by generators, relations, and relations between relations.

@@ -1,0 +1,1 @@
+We establish the kernel estimates for the Littlewood-Paley projections associated with a Schr\"odinger operator H=-\Delta+V in \mathbb{R}^3 for a large class of short-range potentials V(x). As a corollary, we prove the homogeneous Sobolev inequality.

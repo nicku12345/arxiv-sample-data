@@ -1,0 +1,1 @@
+We classify gradings by arbitrary abelian groups on the classical simple Lie and Jordan superalgebras Q(n), n \geq 2, over an algebraically closed field of characteristic different from 2 (and not dividing n+1 in the Lie case): fine gradings up to equivalence and G-gradings, for a fixed group G, up to isomorphism.

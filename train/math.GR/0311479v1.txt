@@ -1,0 +1,1 @@
+Let P and P' be projective spaces having the same dimension n assumed to be finite. Let \Delta and \Delta' be buildings of type A_n. We consider mappings of chambers of \Delta into chambers of \Delta' which send appartments to appartments. It is shown that shuch mappings are induced by strong embeddings of P into P' or into the dual space P^{'*}.

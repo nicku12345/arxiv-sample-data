@@ -1,0 +1,1 @@
+We show that the Bianchi group \mathrm{PSL}_2(\mathcal{O}_d), where \mathcal{O}_d is the ring of integers in \Q(\sqrt{d}), d<0, has a free quotient of rank \geq |d|^{1/4-\epsilon}, as |d|\to\infty.

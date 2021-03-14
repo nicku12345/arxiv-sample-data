@@ -1,0 +1,1 @@
+Every projective module is flat. Conversely, every flat module is a direct limit of finitely generated free modules; this was proved independently by Govorov and Lazard in the 1960s. In this paper we prove an analogous result for complexes of modules, and as applications we reprove some results due to Enochs and Garc\'ia Rozas and to Neeman.

@@ -1,0 +1,1 @@
+We relate matroid connectivity to Tutte-connectivity in an infinite graph. Moreover, we show that the two cycle matroids, the finite-cycle matroid and the cycle matroid, in which also infinite cycles are taken into account, have the same connectivity function. As an application we re-prove that, also for infinite graphs, Tutte-connectivity is invariant under taking dual graphs.

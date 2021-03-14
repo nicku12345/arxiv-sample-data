@@ -1,0 +1,1 @@
+A book of size N is the union of N triangles sharing a common edge. We show that the Ramsey number of a book of size N vs. a book of size M equals 2N+3 for all N>(10^6)M. Our proof is based on counting.

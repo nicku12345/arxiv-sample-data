@@ -1,0 +1,1 @@
+We show that to every local representation of the Birman-Murakami-Wenzl algebra defined by a skew-invertible R-matrix R\in Aut(V\otimes V) one can associate pairings V\otimes V\to C and V^*\otimes V^*\to C, where V is the representation space. Further, we investigate conditions under which the corresponding quantum group is of SO or Sp type.

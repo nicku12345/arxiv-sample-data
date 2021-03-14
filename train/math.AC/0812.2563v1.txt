@@ -1,0 +1,1 @@
+In this note we prove a generalization of the flat extension theorem of Curto and Fialkow for truncated moment matrices. It applies to moment matrices indexed by an arbitrary set of monomials and its border, assuming that this set is connected to 1. When formulated in a basis-free setting, this gives an equivalent result for truncated Hankel operators.

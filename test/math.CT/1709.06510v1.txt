@@ -1,0 +1,1 @@
+We introduce higher dimensional analogues of simplicial constructions due to Segal and Waldhausen, respectively producing the direct sum and algebraic K-theory spectra of an exact category. We then investigate their fibrancy properties, based on the formalism of higher Segal spaces by Dyckerhoff-Kapranov.

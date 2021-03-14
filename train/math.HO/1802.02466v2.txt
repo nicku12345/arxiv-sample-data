@@ -1,0 +1,1 @@
+We construct random triangles via uniform sampling of certain families of lines in the plane. Two examples are given. The word "uniform" turns out to be vague; two competing models are examined. Everything we write is well-known to experts. Which model is more appropriate? Our hope is to engage a larger audience in answering this question.

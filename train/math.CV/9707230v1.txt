@@ -1,0 +1,1 @@
+The Lojasiewicz exponent at infinity of an entire function measures of the infimal rate of growth of its gradient. The authors compute the Lojasiewicz exponents at infinity of the 3-variable complex polynomials   x - 3 x^{2n+1} y^{2q} + 2 x^{3n+1} y^{3q} + y z

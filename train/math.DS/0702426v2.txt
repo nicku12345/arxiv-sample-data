@@ -1,0 +1,1 @@
+Defining the density flow of perturbations moving at a given speed for cellular automata, we establish equalities and inequalities between the measurable entropy of a cellular automaton and the measurable entropy of its associated shift.

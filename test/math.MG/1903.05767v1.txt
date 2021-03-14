@@ -1,0 +1,1 @@
+In this paper we present an extension of known semidefinite and linear programming upper bounds for spherical codes and consider a version of this bound for distance graphs. We apply the main result for the distance distribution of a spherical code.

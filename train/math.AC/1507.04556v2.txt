@@ -1,0 +1,1 @@
+The structure of the complex \operatorname{\mathbf{R}Hom}_R(R/I,R) is explored for an Ulrich ideal I in a Cohen-Macaulay local ring R. As a consequence, it is proved that in a one-dimensional almost Gorenstein but non-Gorenstein local ring, the only possible Ulrich ideal is the maximal ideal. It is also studied when Ulrich ideals have the same minimal number of generators.

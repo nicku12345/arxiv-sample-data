@@ -1,0 +1,1 @@
+Given a triple cover p: X --> Y of varieties, we produce a new variety Z and a birational morphism f: Z --> X which is an isomorphism away from the fat-point ramification locus of p. The variety Z has a natural interpretation in terms of the data describing the triple cover, and the morphism f has an elegant geometric description.

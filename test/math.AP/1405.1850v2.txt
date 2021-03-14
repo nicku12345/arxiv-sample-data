@@ -1,0 +1,1 @@
+We consider abstract semilinear evolution equations with a time delay feedback. We show that, if the C_0-semigroup describing the linear part of the model is exponentially stable, then the whole system retains this good property when a suitable smallness condition on the time delay feedback is satisfied. Some examples illustrating our abstract approach are also given.

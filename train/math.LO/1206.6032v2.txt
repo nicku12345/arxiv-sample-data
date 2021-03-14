@@ -1,0 +1,1 @@
+We characterize when the elementary diagram of a mutually algebraic structure has a model complete theory, and give an explicit description of a set of existential formulas to which every formula is equivalent. This characterization yields a new, more constructive proof that the elementary diagram of any model of a strongly minimal, trivial theory is model complete.

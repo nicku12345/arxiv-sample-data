@@ -1,0 +1,1 @@
+A parametric spectral estimation problem in the style of Byrnes, Georgiou, and Lindquist was posed in \cite{FPZ-10}, but the existence of a solution was only proved in a special case. Based on their results, we show that a solution indeed exists given an arbitrary matrix-valued prior density. The main tool in our proof is the topological degree theory.

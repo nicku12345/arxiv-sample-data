@@ -1,0 +1,1 @@
+The branching data of an algebraic function is a list of orders of local monodromies around branching points. We present branching data that ensure that the algebraic functions having them are representable by radicals. This paper is a review of recent work by the authors and of closely related classical work by Ritt.

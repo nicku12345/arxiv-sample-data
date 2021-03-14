@@ -1,0 +1,1 @@
+In this paper we investigate the generalized Hyers- Ulam stability of the functional equation f (2x +y)+f (2x -y)= f (x + y)+ f (x -y)+2f (2x)-2f (x) in fuzzy Banach spaces.

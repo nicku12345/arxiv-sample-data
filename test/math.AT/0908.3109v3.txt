@@ -1,0 +1,1 @@
+We give an explicit calculation of the Wu invariants for immersions of a finite graph into the plane and classify all generic immersions of a graph into the plane up to regular homotopy by the Wu invariant. This result is a generalization of the fact that two plane curves are regularly homotopic if and only if they have the same rotation number.

@@ -1,0 +1,1 @@
+For any positive invertible matrix A and any normal matrix B in M_{n}({\Bbb C}), we investigate whether the inequality  ||A\sharp (B^{*}A^{-1}B)||\geq ||B||  is true or not, where \sharp denotes the geometric mean and ||\cdot|| denotes the operator norm. We will solve this problem negatively. The related topics are also discussed.

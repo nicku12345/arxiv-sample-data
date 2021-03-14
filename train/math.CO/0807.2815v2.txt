@@ -1,0 +1,1 @@
+We prove that there are permutation classes (hereditary properties of permutations) of every growth rate (Stanley-Wilf limit) at least \lambda \approx 2.48187, the unique real root of x^5-2x^4-2x^2-2x-1, thereby establishing a conjecture of Albert and Linton.

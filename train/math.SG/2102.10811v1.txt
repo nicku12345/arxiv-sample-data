@@ -1,0 +1,1 @@
+The purpose of this note is to prove that the symplectic mapping class groups of many K3 surfaces are infinitely generated. Our proof makes no use of any Floer-theoretic machinery but instead follows the approach of Kronheimer and uses invariants derived from the Seiberg-Witten equations.

@@ -1,0 +1,1 @@
+Categorified quantum groups play an increasing role in quantum topology and representation theory. The Steenrod algebra is a fundamental component of algebraic topology. In this paper we show that categorified quantum groups can be extended to module categories over the Steenrod algebra in a natural way. This yields an intepretation of the small quantum group by Khovanov and Qi.

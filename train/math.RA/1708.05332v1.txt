@@ -1,0 +1,1 @@
+Reverse order law for the Moore-Penrose inverses of tensors are useful in the field of multilinear algebra. In this paper, we first prove some more identities involving the Moore-Penrose inverse of tensors. We then obtain a few necessary and sufficient conditions for the reverse order law for the Moore-Penrose inverse of tensors via the Einstein product.

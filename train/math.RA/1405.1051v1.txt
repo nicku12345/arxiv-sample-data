@@ -1,0 +1,1 @@
+A module is called automorphism-invariant if it is invariant under any automorphism of its injective envelope. In this survey article we present the current state of art dealing with such class of modules.

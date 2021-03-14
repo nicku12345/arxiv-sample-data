@@ -1,0 +1,1 @@
+A concise Matlab implementation of a stable parallelizable space-time Petrov-Galerkin discretization for parabolic evolution equations is given. Emphasis is on reusability of spatial finite element codes.

@@ -1,0 +1,1 @@
+This paper is withdrawn by the author due to a critical error in the proof of the main theorem, Theorem 3.10. (More specifically the identity (5.18) is incorrect in that the T^*S^1(2)-factor is missing in the right hand side of the equality.) Therefore the uniquenss question for L^{(1,\infty)}-case is still open.

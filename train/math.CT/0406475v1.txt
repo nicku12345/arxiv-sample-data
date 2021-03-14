@@ -1,0 +1,1 @@
+We give a concrete description of a strict totally coordinatized version of Kapranov and Voevodsky's 2-category of finite dimensional 2-vector spaces. In particular, we give explicit formulas for composition of 1-morphisms and the two compositions between 2-morphisms

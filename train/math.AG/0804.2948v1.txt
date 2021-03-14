@@ -1,0 +1,1 @@
+The generating function for S_n-equivariant Euler characteristics of moduli spaces of pointed hyperelliptic curves for any genus g>1 is calculated. This answer generalizes the known ones for genera 2 and 3 and answers obtained by J. Bergstrom for any genus and n<8 points.

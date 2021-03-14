@@ -1,0 +1,1 @@
+Let {\mathscr M}(p) (p=2,3,\ldots) be the singlet vertex operator algebra and \omega its conformal vector. We classify the simple weak {\mathscr M}(p)-modules with a non-zero element u such that for some integer s\geq 2, \omega_i u\in{\mathbb C} u (i=\lfloor s/2\rfloor+1,\lfloor s/2\rfloor+2,\ldots,s-1), \omega_{s} u\in{\mathbb C}^{\times} u, and \omega_i u=0 for all i>s.

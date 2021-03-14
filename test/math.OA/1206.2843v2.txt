@@ -1,0 +1,1 @@
+Between the category of exact metric spaces with bounded geometry (about which much is known) and the larger category of arbitrary exact metric spaces (about which little is known) lies the intermediate category of asymptotically exact metric spaces. We show that the coarse Baum-Connes assembly map is naturally split surjective for this class, with generally non-zero kernel.

@@ -1,0 +1,1 @@
+Rewriting for semigroups is a special case of Groebner basis theory for noncommutative polynomial algebras. The fact is a kind of folklore but is not fully recognised. The aim of this paper is to elucidate this relationship, showing that the noncommutative Buchberger algorithm corresponds step-by-step to the Knuth-Bendix completion procedure.

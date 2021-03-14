@@ -1,0 +1,1 @@
+We show that the Magnus embedding, which embeds the free solvable group of rank r and degree d into the wreath product of the free abelian group of rank r with the free solvable group of rank r and degree d-1, is a quasi-isometry.

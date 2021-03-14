@@ -1,0 +1,1 @@
+In this paper we study the homology and cohomology of confguration spaces of two distinct particles on a graph. Our main tool is intersection theory for cycles in graphs. We obtain an explicit description of the cohomology algebra of the configuration space in the case of planar graphs.

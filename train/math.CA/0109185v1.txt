@@ -1,0 +1,1 @@
+Many limits are known for hypergeometric orthogonal polynomials that occur in the Askey scheme. We show how asymptotic representations can be derived by using the generating functions of the polynomials. For example, we discuss the asymptotic representation of the Meixner-Pollaczek, Jacobi, Meixner, and Krawtchouk polynomials in terms of Laguerre polynomials.

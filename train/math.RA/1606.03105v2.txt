@@ -1,0 +1,1 @@
+We provide formulas for computing the discriminant of noncommutative algebras over central subalgebras in the case of Ore extensions and skew group extensions. The formulas follow from a more general result regarding the discriminants of certain twisted tensor products. We employ our formulas to compute automorphism groups for examples in each case.

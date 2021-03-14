@@ -1,0 +1,1 @@
+Tutte's 3-flow conjecture asserts that every 4-edge-connected graph has a nowhere-zero 3-flow. In this note we prove that every regular graph of valency at least four admitting a solvable arc-transitive group of automorphisms admits a nowhere-zero 3-flow.

@@ -1,0 +1,1 @@
+We give a simple inequality for the sum of independent bounded random variables. This inequality improves on the celebrated result of Hoeffding in a special case. It is optimal in the limit where the sum tends to a Poisson random variable.

@@ -1,0 +1,1 @@
+We prove a Jensen formula for slice-regular functions of one quaternionic variable. The formula relates the value of the function and of its first two derivatives at a point with its integral mean on a three dimensional sphere centred at that point and with the disposition of its zeros. The formula can be extended to semiregular slice functions.

@@ -1,0 +1,1 @@
+It is well-known that the second homology group H_2(\st) of the Steinberg Lie algebra \st is trivial when n\geq 5. In this paper, we will work out H_2(\st) explicitly for n=3, 4 which are not necessarily trivial. Consequently, we obtained H_2(sl_n(R)) for n=3, 4.

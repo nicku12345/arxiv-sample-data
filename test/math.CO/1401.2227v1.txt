@@ -1,0 +1,1 @@
+In this paper we characterize the unique graph whose algebraic connectivity is minimum among all connected graphs with given order and fixed matching number or edge covering number, and present two lower bounds for the algebraic connectivity in terms of the matching number or edge covering number.

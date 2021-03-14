@@ -1,0 +1,1 @@
+We construct two difference families on each of the cyclic groups of order 109, 145 and 247, and use them to construct skew-Hadamard matrices of orders 436, 580 and 988. Such difference families and matrices are constructed here for the first time. The matrices are constructed by using the Goethals-Seidel array.

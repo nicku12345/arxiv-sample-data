@@ -1,0 +1,1 @@
+A sofic group G is said to be flexibly stable if every sofic approximation to G can converted to a sequence of disjoint unions of Schreier graphs by modifying an asymptotically vanishing proportion of edges. We establish that if \mathrm{PSL}_d(\mathbb{Z}) is flexibly stable for some d \geq 5 then there exists a group which is not sofic.

@@ -1,0 +1,1 @@
+Let X be a compact, geodesically complete, locally CAT(0) space such that the universal cover admits a rank one axis. We prove the Bowen-Margulis measure on the space of geodesics is the unique measure of maximal entropy for the geodesic flow, which has topological entropy equal to the critical exponent of the Poincar\'e series.

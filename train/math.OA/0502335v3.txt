@@ -1,0 +1,1 @@
+We investigate some extremal cases of exactness constant and completely bounded projection constant. More precisely, for an n-dimensional operator space E we prove that \lambda_{cb}(E) = \sqrt{n} if and only if ex(E) = \sqrt{n}, which is equivalent to \lambda_{cb}(E) < \sqrt{n} if and only if ex(E) < \sqrt{n}.

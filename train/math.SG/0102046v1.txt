@@ -1,0 +1,1 @@
+We generalize Poisson-Nijenhuis structures. We prove that on a manifold endowed with a Nijenhuis tensor and a Jacobi structure which are compatible, there is a hierarchy of pairwise compatible Jacobi structures.   Furthermore, we study the homogeneous Poisson-Nijenhuis structures and their relations with Jacobi structures.

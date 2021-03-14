@@ -1,0 +1,1 @@
+We extend the Zariski topology on simp A, the finite dimensional simple A-representations, to a non-commutative topology (in the sense of Fred Van Oystaeyen) on rep A, all finite dimensional A-representations, using Jordan-Holder filtrations. The non-commutativity of the topology is enforced by the order of the composition factors.

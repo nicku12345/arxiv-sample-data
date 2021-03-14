@@ -1,0 +1,1 @@
+We determine the rate of decay of the expectation Z(t) of some multiplicative functional related to Brownian motion up to time t. This permits to prove that the Wiener measure, penalized by this multiplicative functional, converges as t goes to infinity to a probability measure (p.m.) . We obtain the law of the canonical process under this new p.m.

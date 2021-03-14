@@ -1,0 +1,1 @@
+We generalise the proof by Marian and Oprea of rank-level duality for non-abelian theta functions to the case of sections of line bundles (conformal blocks) over moduli spaces of parabolic vector bundles over a projective smooth curve. We also describe how it implies the rank-level duality between conformal blocks of Sp(2) and Sp(2n).

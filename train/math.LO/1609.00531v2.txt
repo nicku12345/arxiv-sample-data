@@ -1,0 +1,1 @@
+An equational condition is a set of equations in an algebraic language, and an algebraic structure satisfies such a condition if it possesses terms that meet the required equations. We find a single nontrivial equational condition which is implied by any nontrivial idempotent equational condition.

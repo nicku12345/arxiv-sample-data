@@ -1,0 +1,1 @@
+It was shown recently that a Langevin process can be reflected at an energy absorbing boundary. Here, we establish that the law of this reflecting process can be characterized as the unique weak solution to a certain second order stochastic differential equation with constraints, which is in sharp contrast with a deterministic analog.

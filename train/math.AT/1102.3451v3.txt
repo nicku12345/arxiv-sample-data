@@ -1,0 +1,1 @@
+The tools and arguments developed by Kevin Costello are adapted to families of "Outer Spaces" or spaces of graphs. This allows us to prove a version of Deligne's conjecture: the Harrison homology associated to a homotopy commutative algebra is naturally a module over a particular cobordism category of 3-manifolds.

@@ -1,0 +1,1 @@
+In this short note we will use the residue theorem to establish a formula for Euler's constant. In particular, we offer a slightly generalized version of an interesting infinite series due to Flajolet, Gourdon, and Dumas.

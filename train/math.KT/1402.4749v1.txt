@@ -1,0 +1,1 @@
+We show that every discrete subgroup of \mathrm{GL}(n,\mathbb{R}) admits a finite dimensional classifying space with virtually cyclic stabilizers. Applying our methods to \mathrm{SL}(3,\mathbb{Z}), we obtain a four dimensional classifying space with virtually cyclic stabilizers and a decomposition of the algebraic K-theory of its group ring.

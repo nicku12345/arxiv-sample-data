@@ -1,0 +1,1 @@
+We prove that a PQ-symmetric homeomorphism between two complete metric spaces can be extended to a quasi-isometry between their hyperbolic approximations.   This result is used to prove that two visual Gromov hyperbolic spaces are quasi-isometric if and only if there is a PQ-symmetric homeomorphism between their boundaries.

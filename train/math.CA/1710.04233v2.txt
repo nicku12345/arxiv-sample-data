@@ -1,0 +1,1 @@
+We prove that averaging operators are uniformly bounded on L^1 for all geometrically doubling metric measure spaces, with bounds independent of the measure. From this result, the L^1 convergence of averages as r \to 0 immediately follows.

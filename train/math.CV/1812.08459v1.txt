@@ -1,0 +1,1 @@
+This works introduces several notions of subharmonicity for real-valued functions of one quaternionic variable. These notions are related to the theory of slice regular quaternionic functions introduced by Gentili and Struppa in 2006. The interesting properties of these new classes of functions are studied and applied to construct the analogs of Green's functions.

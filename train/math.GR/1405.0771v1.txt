@@ -1,0 +1,1 @@
+A result of Handel-Mosher guarantees that the ratio of logarithms of stretch factors of any fully irreducible automorphism of the free group F_N and its inverse is bounded by a constant C_N. In this short note we show that this constant C_N cannot be chosen independent of N.

@@ -1,0 +1,1 @@
+We study the low-energy asymptotics of the spectral shift function for Schr\"odinger operators with potentials decaying like O(\frac{1}{|x|^2}). We prove a generalized Levinson's for this class of potentials in presence of zero eigenvalue and zero resonance.

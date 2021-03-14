@@ -1,0 +1,1 @@
+We deal with relatives of GCH which are provable. In particular we deal with rank version of the revised GCH. Our motivation was to find such results when only weak versions of the axiom of choice are assumed but some of the results gives us additional information even in ZFC.

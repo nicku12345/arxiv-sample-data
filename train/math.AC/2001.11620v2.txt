@@ -1,0 +1,1 @@
+For a local ring (A,\mathfrak{m}) of dimension n, we study the natural map from the Koszul cohomology module H^n(\mathfrak{m}; A) to the local cohomology module H^n_\mathfrak{m}(A). We prove that the injectivity of this map characterizes the Cohen-Macaulay property of the ring A. We also answer a question of Dutta by constructing normal rings A for which this map is zero.

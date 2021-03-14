@@ -1,0 +1,1 @@
+In this paper, we generalize the notion of Serre fibration to the Morita category of topological groupoids and derive the associated long exact sequence of homotopy groups. We use this results for calculation of homotopy groups of various groupoids, such as the foliation groupoid of a Riemannian foliation.

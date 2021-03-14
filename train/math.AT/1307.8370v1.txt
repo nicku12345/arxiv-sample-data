@@ -1,0 +1,1 @@
+A finite CW-complex X is C-trivial if for every complex vector bundle \xi over X, the total Chern class c(\xi)=1. In this note we completely determine when each of the following spaces are C-trivial: suspensions of stunted real projective spaces, suspensions of stunted complex projective spaces and suspensions of stunted quaternionic projective spaces.

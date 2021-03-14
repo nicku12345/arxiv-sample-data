@@ -1,0 +1,1 @@
+We give formulas for the density of the measure of orthogonality for orthonormal polynomials with unbounded recurrence coefficients. The formulas involve limits of appropriately scaled Tur\'an determinants or Christoffel functions. Exact asymptotics of the polynomials and numerical examples are also provided.

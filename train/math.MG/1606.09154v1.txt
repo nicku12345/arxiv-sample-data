@@ -1,0 +1,1 @@
+For Borel subsets A and B of the Euclidean n-space the intersection of A with generic rotations and translations of B has often Hausdorff dimension at least dim A + dim B - n. Estimates for the exceptional set of rotations are derived.

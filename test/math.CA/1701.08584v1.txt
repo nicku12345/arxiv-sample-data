@@ -1,0 +1,1 @@
+In \mathbb{R}^n, we establish an asymptotically sharp upper bound for the upper Minkowski dimension of k-porous sets having holes of certain size near every point in k orthogonal directions at all small scales. This bound tends to n-k as k-porosity tends to its maximum value.

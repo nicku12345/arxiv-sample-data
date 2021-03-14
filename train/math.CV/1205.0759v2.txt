@@ -1,0 +1,1 @@
+Let \rho be a quasiconformal mapping on the plane with complex dilatation \mu. We show that if \mu satisfies a certain Carleson measure condition, then one can transfer H^{\infty} on the upper half plane onto the corresponding space in the complement of the quasicircle \Gamma=\rho(\mathbb{R}), and that this condition on \mu characterizes C^{1+\alpha} curves.

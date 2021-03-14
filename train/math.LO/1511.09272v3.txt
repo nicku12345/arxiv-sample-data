@@ -1,0 +1,1 @@
+We shall define a general notion of dimension, and study groups and rings whose interpretable sets carry such a dimensio. In particular, we deduce chain conditions for groups, definability results for fields and domains, and show that pseudofinite groups contain big finite-by-abelian subgroups, and pseudofinite groups of dimension 2 contain big soluble subgroups.

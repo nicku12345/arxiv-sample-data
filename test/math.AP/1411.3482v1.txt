@@ -1,0 +1,1 @@
+We consider the so-called Toda system in a smooth planar domain under homogeneous Dirichlet boundary conditions. We prove the existence of a continuum of solutions for which both components blow-up at the same point. This blow-up behavior is asymmetric, and moreover one component includes also a certain global mass. The proof uses singular perturbation methods.

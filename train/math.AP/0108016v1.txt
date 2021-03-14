@@ -1,0 +1,1 @@
+We prove almost global existence for semilinear wave equations outside of nontrapping obstacles. We use the vector field method, but only use the generators of translations and Euclidean rotations. Our method exploits 1/r decay of wave equations, as opposed to the much harder to prove 1/t decay.

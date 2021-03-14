@@ -1,0 +1,1 @@
+We prove that the diametral strong diameter 2 property of a Banach space (meaning that, in convex combinations of relatively weakly open subsets of its unit ball, every point has an "almost diametral" point) is stable under 1-sums, i.e., the direct sum of two spaces with the diametral strong diameter 2 property equipped with the 1-norm has again this property.

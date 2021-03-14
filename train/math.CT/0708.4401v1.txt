@@ -1,0 +1,1 @@
+We construct a central extension of the group of automorphisms of a 2-Tate vector space viewed as a discrete 2-group. This is done using an action of this 2-group on a 2-gerbe of gerbel theories. This central extension is used to define central extensions of double loop groups.

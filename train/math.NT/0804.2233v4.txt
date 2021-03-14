@@ -1,0 +1,1 @@
+We investigate various mean value problems involving order three primitive Dirichlet characters. In particular, we obtain an asymptotic formula for the first moment of central values of the Dirichlet L-functions associated to this family, with a power saving in the error term. We also obtain a large-sieve type result for order three (and six) Dirichlet characters.

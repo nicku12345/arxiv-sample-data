@@ -1,0 +1,1 @@
+We provide examples of towers of covers of cusped hyperbolic 3-manifolds whose exponential homological torsion growth is explicitly computed in terms of volume growth. These examples arise from abelian covers of alternating links in the thickened torus. A corollary is that the spanning tree entropy for each regular planar lattice is given by the volume of a hyperbolic polyhedron.

@@ -1,0 +1,1 @@
+A method for constructing Lagrangians for the Lie transformation groups is explained. As examples, the Lagrangians for real plane rotations and affine transformations of the real line are constructed.

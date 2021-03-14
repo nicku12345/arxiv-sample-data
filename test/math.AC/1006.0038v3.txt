@@ -1,0 +1,1 @@
+We recall the space of seminorms discussed by Payne in \cite{P} and define a slight modification, the space of graded valuations. After explaining how these spaces relate to tropical geometry, we describe examples of graded valuations which come from the representation theory of reductive groups.

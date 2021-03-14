@@ -1,0 +1,1 @@
+One of the main problems in representation theory is to understand the exact relationship between Brauer corresponding blocks of finite groups. The case where the local correspondent has a unique simple module seems key. We characterize this situation for the principal p-blocks where p is odd.

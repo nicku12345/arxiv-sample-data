@@ -1,0 +1,1 @@
+The famous Lomonosov's invariant subspace theorem states that if a continuous linear operator T on an infinite-dimensional normed space E "commutes" with a compact nonzero operator K, i.e., TK=KT, then T has a non-trivial closed invariant subspace. We generalize this theorem for multivalued linear operators.

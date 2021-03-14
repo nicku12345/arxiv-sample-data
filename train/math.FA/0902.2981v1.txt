@@ -1,0 +1,1 @@
+A generalization of a viscosity generalized Halpern iteration scheme is analyzed. It is proven that the solution converges asymptotically strongly to a unique fixed point of an asymptotically nonexpansive mapping which drives the iteration together with a contractive self-mapping, a viscosity term and two driving external forcing terms.

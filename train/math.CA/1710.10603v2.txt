@@ -1,0 +1,1 @@
+This paper is served as a first contribution regarding the boundedness of Hausdorff operators on function spaces with smoothness. The sharp conditions are established for boundedness of Hausdorff operators on Sobolev spaces W^{k,1}. As applications, some bounded and unbounded properties of Hardy operator and adjoint Hardy operator on W^{k,1} are deduced.

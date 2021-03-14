@@ -1,0 +1,1 @@
+We construct a singular differential operator attached to a class of singular metrics on the line bundles over the complex projective space, \mathbb{P}^1. This operator extends the classical notion of the generalized Laplacian. We prove that this operator admits a infinite, discrete and positive spectrum. We compute it explicitly.

@@ -1,0 +1,1 @@
+We establish new conditions that prevent the existence of (weak) normal integral bases in tame Galois extensions of number fields. This leads to the following result: under appropriate technical hypotheses, the existence of a normal integral basis in the upper layer of an abelian tower Q \subset K \subset L forces the tower to be split in a very strong sense.

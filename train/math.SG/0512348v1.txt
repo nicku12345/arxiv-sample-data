@@ -1,0 +1,1 @@
+In this paper we present several counterexamples to Rasmussen's conjecture that the concordance invariant coming from Khovanov homology is equal to twice the invariant coming from Ozsv{\'a}th-Szab{\'o} Floer homology. The counterexamples are twisted Whitehead doubles of the (2,2n+1) torus knots.

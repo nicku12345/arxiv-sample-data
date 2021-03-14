@@ -1,0 +1,1 @@
+We modify the standard perfect symmetric obstruction theory for moduli spaces of simple perfect complexes, to the situation of complexes on abelian threefolds with fixed determinant and Fourier-Mukai determinant. As outcome we attach nontrivial Donaldson-Thomas invariants to moduli spaces for complexes modulo twist and translation.

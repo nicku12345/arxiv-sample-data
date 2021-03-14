@@ -1,0 +1,1 @@
+We provide theorems containnig both Kakutani and Browder fixed points theorems as immediate corollaries, as well as Michael and Browder selection theorems. For this purpose we introduce convex structures more general than those of locally convex and non-locally convex topological vector spaces or generalized convexity structures due to Michael, Van de Vel and Horvath.

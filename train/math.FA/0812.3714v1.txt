@@ -1,0 +1,1 @@
+Let A and B be positive semidefinite matrices. We investigate the conditions under which the Lieb-Thirring inequality can be extended to singular values. That is, for which values of p does the majorisation \sigma(B^p A^p) \prec_w \sigma((BA)^p) hold, and for which values its reversed inequality \sigma(B^p A^p) \succ_w \sigma((BA)^p).

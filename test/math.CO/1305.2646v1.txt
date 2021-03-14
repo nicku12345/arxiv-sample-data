@@ -1,0 +1,1 @@
+We define and study embeddings of cycles in finite affine and projective planes. We show that for all k, 3\le k\le q^2, a k-cycle can be embedded in any affine plane of order q. We also prove a similar result for finite projective planes: for all k, 3\le k\le q^2+q+1, a k-cycle can be embedded in any projective plane of order q.

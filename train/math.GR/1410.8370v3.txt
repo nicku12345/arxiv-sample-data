@@ -1,0 +1,1 @@
+A topological group G has the Approximate Fixed Point (AFP) property on a bounded convex subset C of a locally convex space if every continuous affine action of G on C admits a net (x_i), x_i\in C, such that x_{i}-gx_{i}\longrightarrow 0 for all g\in G. We study the relationship of this property with amenability.

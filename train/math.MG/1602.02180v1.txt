@@ -1,0 +1,1 @@
+Let E be a subset of a doubling metric space (X,d). We prove that for any s\in [0, \dim_{A}E], where \dim_{A} denotes the Assouad dimension, there exists a subset F of E such that \dim_{A}F=s. We also show that the same statement holds for the lower dimension \dim_L.

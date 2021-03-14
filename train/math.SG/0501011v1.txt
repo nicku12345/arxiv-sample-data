@@ -1,0 +1,1 @@
+A manifold obtained by k simultaneous symplectic blow-ups of CP^2 of equal sizes epsilon (where the size of CP^1 \subset CP^2 is one) admits an effective two dimensional torus action if k <= 3 and admits an effective circle action if (k-1)epsilon < 1. We show that these bounds are sharp if 1/epsilon is an integer.

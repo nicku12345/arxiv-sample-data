@@ -1,0 +1,1 @@
+In this paper, we introduce a semantics of realisability for the classical propositional natural deduction and we prove a correctness theorem. This allows to characterize the operational behaviour of some typed terms.

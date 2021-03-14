@@ -1,0 +1,1 @@
+We introduce two new iteration games: the game G, which is a strengthening of the weak iteration game, and the game G+, which is somewhat stronger than G but weaker than the full iteration game of length omega_1.   For a countable M elementarily embeddable in some V_{eta}, we can show that II wins G(M,omega_1) and that I does not win the G+(M).

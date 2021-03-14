@@ -1,0 +1,1 @@
+We demonstrate how the key notions of Tononi et al.'s Integrated Information Theory (IIT) can be studied within the simple graphical language of process theories, i.e. symmetric monoidal categories. This allows IIT to be generalised to a broad range of physical theories, including as a special case the Quantum IIT of Zanardi, Tomka and Venuti.

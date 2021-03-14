@@ -1,0 +1,1 @@
+We provide a new general theorem for multivariate normal approximation on convex sets. The theorem is formulated in terms of a multivariate extension of Stein couplings. We apply the results to a homogeneity test in dense random graphs and to prove multivariate asymptotic normality for certain doubly indexed permutation statistics.

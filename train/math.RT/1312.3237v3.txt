@@ -1,0 +1,1 @@
+Let W be a Coxeter group and let M be the free Z[v,v^{-1}]-module with basis indexed by the involutions of W. We show how recent results of Elias and Williamson on Soergel bimodules can be used to give an alternative definition of an action of the Hecke algebra of W on M.

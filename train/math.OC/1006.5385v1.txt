@@ -1,0 +1,1 @@
+Dempster's covariance selection method is extended first to general nonsingular matrices and then to full rank rectangular matrices. Dempster observed that his completion solved a maximum entropy problem. We show that our generalized completions are also solutions of a suitable entropy-like variational problem.

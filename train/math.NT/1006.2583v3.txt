@@ -1,0 +1,1 @@
+For a negative integer k let J_k be the space of modified Jacobi forms of weight k and index 0 on \mathrm{SL}_2(\mathbb{Z}). For each positive integer m we consider certain subspace J_k^{m} of J_k which satisfies J_k=\cup_{m=1}^\infty J_k^m. By observing a relation between coefficients of the Fourier development of a modified Jacobi form we show that J_k^m is finite-dimensional.

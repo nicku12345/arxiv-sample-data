@@ -1,0 +1,1 @@
+A formula is derived that provides generating functions for any multi-j-symbol, such as the 3-j-symbol, the 6-j-symbol, the 9-j-symbol, etc. The result is completely determined by geometrical objects (loops and curves) in the graph of the the multi-j-symbol. A geometric-combinatorical interpretation for multi-j-symbols is given.

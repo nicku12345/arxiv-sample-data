@@ -1,0 +1,1 @@
+We establish that a category of fibrant objects (in the sense of Brown) admits a Dwyer-Kan homotopical calculus of right fractions. This is done using a homotopical calculus of cocycles, which is an auxiliary structure that can be defined on every category of fibrant objects. As an application, we deduce some non-abelian versions of the Verdier hypercovering theorem.

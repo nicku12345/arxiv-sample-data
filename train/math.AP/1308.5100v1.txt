@@ -1,0 +1,1 @@
+We consider second-order evolution equations in an abstract setting with intermittently delayed/ not-delayed damping. We give sufficient conditions for asymptotic and exponential stability, improving and generalising our previous results from [19]. In particular, under suitable conditions, we can consider unbounded damping operators. Some concrete examples are finally presented.

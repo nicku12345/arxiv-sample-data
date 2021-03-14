@@ -1,0 +1,1 @@
+Harer-Kas-Kirby conjectured that every handle decomposition of the elliptic surface E(1)_{2,3} requires both 1- and 3-handles. We prove that the elliptic surface E(n)_{p,q} has a handle decomposition without 1-handles for n\geq 1 and (p,q)=(2,3),(2,5),(3,4),(4,5).

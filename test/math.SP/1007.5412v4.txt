@@ -1,0 +1,1 @@
+For the periodic matrix-valued Jacobi operator J we obtain the estimate of the Lebesgue measure of the spectrum |\s(J)|\le4 \min_n\Tr(a_na_n^*)^\frac12, where a_n are off-diagonal elements of J. Moreover estimates of width of spectral bands are obtained.

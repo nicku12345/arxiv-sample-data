@@ -1,0 +1,1 @@
+Let GL_1(R) be the units of a commutative ring spectrum R. In this paper we identify the composition BGL_1(R)->K(R)->THH(R)->\Omega^{\infty}(R), where K(R) is the algebraic K-theory and THH(R) the topological Hochschild homology of R. As a corollary we show that classes in \pi_{i-1}(R) not annihilated by the stable Hopf map give rise to non-trivial classes in K_i(R) for i\geq 3.

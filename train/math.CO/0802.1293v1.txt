@@ -1,0 +1,1 @@
+In this paper, we study partitions of positive integers into distinct quasifibonacci numbers. A digraph and poset structure is constructed on the set of such partitions. Furthermore, we discuss the symmetric and recursive relations between these posets. Finally, we prove a strong generalization of Robbins' result on the coefficients of a quasifibonacci power series.

@@ -1,0 +1,1 @@
+Let X be a smooth projective variety over an algebraically closed field of positive characteristic. We prove that if D is a pseudo-effective R-divisor on X which is not numerically equivalent to the negative part in its divisorial Zariski decomposition, then the numerical dimension of D is positive. In characteristic zero, this was proved by Nakayama using vanishing theorems.

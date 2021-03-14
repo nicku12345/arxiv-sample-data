@@ -1,0 +1,1 @@
+To some Hecke symmetries (i.e. Yang-Baxter braidings of Hecke type) we assign algebras called braided non-commutative spheres. For any such algebra, we introduce and compute a q-analog of the Chern-Connes index. Unlike the standard Chern-Connes index, ours is based on the so-called categorical trace specific for a braided category in which the algebra in question is represented.

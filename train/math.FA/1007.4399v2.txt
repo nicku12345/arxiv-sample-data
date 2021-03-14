@@ -1,0 +1,1 @@
+Dual pseudo splines constitute a new class of refinable functions with B-splines as special examples, which was introduced in \cite{DHSS}. In this paper, we shall construct Riesz wavelet associated with dual pseudo splines. Furthermore, we use dual pseudo splines to construct tight frame systems with desired approximation order by applying the unitary extension principle.

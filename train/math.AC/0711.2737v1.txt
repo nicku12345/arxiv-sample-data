@@ -1,0 +1,1 @@
+For G=SL_n or GL_n we construct representations V such that the invariant ring K[V]^G is not Cohen-Macaulay.

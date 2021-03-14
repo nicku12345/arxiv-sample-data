@@ -1,0 +1,1 @@
+Although there are many simple proofs of Jordan's decomposition theorem in the literature (see [1], the references mentioned there, and [2]), our proof seems to be even more elementary. In fact, all we need is the theorem on the dimensions of rang and kernel and the existence of eigenvalues of a linear transformation on a nontrivial finite dimensional complex vector space.

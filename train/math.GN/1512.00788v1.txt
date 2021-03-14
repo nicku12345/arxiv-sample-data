@@ -1,0 +1,1 @@
+We prove that, for a Tychonoff space X, the space C_p(X) is barrelled if and only if it is a Mackey group.

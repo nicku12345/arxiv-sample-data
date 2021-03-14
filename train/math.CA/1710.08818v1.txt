@@ -1,0 +1,1 @@
+Using P\'{o}lya's urn model with negative replacement we introduce a new Bernstein-type operator and we show that the new operator improves upon the known estimates for the classical Bernstein operator. We also provide numerical evidence showing that the new operator gives a better approximation when compared to some other classical Bernstein-type operators.

@@ -1,0 +1,1 @@
+In this paper we will study the representations of isomorphisms between bases of topological spaces. It turns out that the perfect setting for this study is that of regular open subsets of complete metric spaces, but we have achieved some results about arbitrary bases in complete metric spaces and also about regular open subsets of Hausdorff regular topological spaces.

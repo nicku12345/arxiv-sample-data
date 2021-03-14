@@ -1,0 +1,1 @@
+In this paper, we investigate behaviors of Maximal Dimension, a group invariant involving certain configuration of maximal subgroups, which we denote by MaxDim. We prove that in some special cases, MaxDim(G\times H) = MaxDim(G) + MaxDim(H). We also prove a conjecture stated by Ellie Thieu which shows that groups with m < MaxDim can be constructed from groups with m < i.

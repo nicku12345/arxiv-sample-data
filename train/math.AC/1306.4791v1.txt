@@ -1,0 +1,1 @@
+We prove that an irreducible polynomial derivation in positive characteristic is a Jacobian derivation if and only if there exists an n-1-element p-basis of its ring of constants. In the case of two variables we characterize these derivations in terms of their divergence and some nontrivial constants.

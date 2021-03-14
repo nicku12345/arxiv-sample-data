@@ -1,0 +1,1 @@
+We present different ways of endowing a particular category of graphs with Quillen model structures. We show, among other things, that the core of a graph can be seen as its homotopy type in an appropriate Quillen model structure, and that an infinity of Quillen model structures exist for our particular category of graphs.

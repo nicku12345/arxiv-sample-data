@@ -1,0 +1,1 @@
+We give elementary proofs of the theorems mentioned in the title. Our methods rely on a simple version of Ramsey theory and a martingale difference lemma. They also provide quantitative results: if a Banach space contains \ell^{1} only with a bad constant then every bounded sequence admits a subsequence which is ``nearly'' a weak Cauchy sequence.

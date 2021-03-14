@@ -1,0 +1,1 @@
+We prove that the extremal sequences for the Bellman function of the dyadic maximal operator behave approximately as eigenfunctions of this operator for a specific eigenvalue. We use this result to prove the analogous one with respect to the Hardy operator.

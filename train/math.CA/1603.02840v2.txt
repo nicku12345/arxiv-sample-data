@@ -1,0 +1,1 @@
+In this paper we will show that monomial summability processes with respect to different monomials are not compatible, except in the (trivial) case of a convergent series. We will apply this fact to the study of solutions of Pfaffian systems with normal crossings, focusing in the implications of the complete integrability condition on these systems.

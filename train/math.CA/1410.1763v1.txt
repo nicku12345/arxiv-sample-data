@@ -1,0 +1,1 @@
+We prove a height-estimate (distance from the tangent hyperplane) for \Lambda-minima of the perimeter in the sub-Riemannian Heisenberg group. The estimate is in terms of a power of the excess (L^2-mean oscillation of the normal) and its proof is based on a new coarea formula for rectifiable sets in the Heisenberg group.

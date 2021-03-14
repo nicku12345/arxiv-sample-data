@@ -1,0 +1,1 @@
+We show, assuming Schanuel's conjecture, that every irreducible complex polynomial in two variables where both variables appear has infinitely many algebraically independent solutions of the form (z,e^z).

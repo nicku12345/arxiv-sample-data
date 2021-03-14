@@ -1,0 +1,1 @@
+The main result is to prove that if a Malcev algebra A is \textit{right nilpotent} of degree n, then A is \textit{strongly nilpotent} of degree less or equals to 4n^2-2n+1.

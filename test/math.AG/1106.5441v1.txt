@@ -1,0 +1,1 @@
+A ribbon is a first-order thickening of a non-singular curve. Motivated by a question of Eisenbud and Green, we show that a compactification of the moduli space of line bundles on a ribbon is given by the moduli space of semi-stable sheaves. We then describe the geometry of this space, determining the irreducible components, the connected components, and the smooth locus.

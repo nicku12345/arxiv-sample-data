@@ -1,0 +1,1 @@
+The goals of this expository article are on one hand to describe how to construct (m-) cluster categories from triangulations (resp. from m+2-angulations) of polygons. On the other hand, we explain how to use translation quivers and their powers to obtain the m-cluster categories directly from the diagonals of a polygon.

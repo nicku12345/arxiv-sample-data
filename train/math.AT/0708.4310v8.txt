@@ -1,0 +1,1 @@
+In this paper, we study Z_2 actions on a cell complex X having the cohomology ring isomorphic to that of the wedge sum P^2 (n) V S^{3n} or S^n V S^{2n} V S^{3n}. We determine the possible fixed point sets depending on whether or not X is totally non-homologous to zero in X_{Z_2} and give examples realizing the possible cases.

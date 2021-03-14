@@ -1,0 +1,1 @@
+In his thesis, Wiberg showed the existence of thresholds for families of regular low-density parity-check codes under min-sum algorithm decoding. He also derived analytic bounds on these thresholds. In this paper, we formulate similar results for linear programming decoding of regular low-density parity-check codes.

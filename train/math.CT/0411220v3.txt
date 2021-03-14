@@ -1,0 +1,1 @@
+T. Bridgeland defined the notion of a stability manifold for a triangulated category, motivated by Douglas's work on \Pi-stability for D-branes. We show that the stability manifold of the bounded derived category of the coherent sheaves on P^1 is C^2. This is the first complete picture of a stability manifold for a non-Calabi-Yau manifold.

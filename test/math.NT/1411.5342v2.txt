@@ -1,0 +1,1 @@
+In this paper, we prove that for d=3,\dots,8, every natural number can be written as t_x+t_y+3t_z+dt_w, where x, y, z, and w are nonnegative integers and t_k=k(k+1)/2 (k=0,1,2,\ldots) is a triangular number. Furthermore, we study mixed sums of triangular numbers and certain binary quadratic forms.

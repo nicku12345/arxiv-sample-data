@@ -1,0 +1,1 @@
+Quite recently, McDuff showed that the existence of a symplectic embedding of one four-dimensional ellipsoid into another can be established by comparing their corresponding sequences of ECH capacities. In this note we show that these sequences can be encoded in a generating function, which gives several new equivalent formulations of McDuff's theorem.

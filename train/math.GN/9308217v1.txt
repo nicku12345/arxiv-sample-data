@@ -1,0 +1,1 @@
+Let T be the family of open subsets of a topological space (not necessarily Hausdorff or even T_0). We prove that if T has a countable base and is not countable, then T has cardinality at least continuum.

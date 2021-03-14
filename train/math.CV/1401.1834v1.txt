@@ -1,0 +1,1 @@
+We study the Diederich-Forn{\ae}ss exponent and relate it to non-existence of Stein domains with Levi-flat boundaries in complex manifolds. In particular, we prove that if the Diederich-Forn{\ae}ss exponent of a smooth bounded Stein domain in an n-dimensional complex manifold is >k/n, then it has a boundary point at which the Levi-form has rank \ge k.

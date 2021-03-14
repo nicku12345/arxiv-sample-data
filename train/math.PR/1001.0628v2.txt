@@ -1,0 +1,1 @@
+We present functional versions of recent results on the univariate distributions of the process V_{x,u} = x + W_{u\tau(x)}, 0\le u\le 1, where W_\bullet is the standard Brownian motion process, x>0 and \tau (x) =\inf\{t>0 : W_{t}=-x\}.

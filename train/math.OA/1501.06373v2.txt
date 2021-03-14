@@ -1,0 +1,1 @@
+Let M=M_1*M_2 be a nontrivial tracial free product of finite von Neumann algebras. We prove that any amenable subalgebra of M that has a diffuse intersection with M_1 is in fact contained in M_1. This has been proved by C. Houdayer under more general circumstances.

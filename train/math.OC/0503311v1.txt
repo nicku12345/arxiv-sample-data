@@ -1,0 +1,1 @@
+This note remarks that small-gain results for a negative feedback loop around a monotone system can be seen as consequences of results concerning an extended monotone system.

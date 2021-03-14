@@ -1,0 +1,1 @@
+We compute the homotopy groups of the spaces of self maps of Lie groups of rank 2, SU(3), Sp(2), and G_2. We use the cell structures of these Lie groups and the standard methods of homotopy theory.

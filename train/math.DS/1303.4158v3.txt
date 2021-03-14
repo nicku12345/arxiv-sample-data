@@ -1,0 +1,1 @@
+Subshifts with property (A) are constructed from a class of directed graphs. As special cases the Markov-Dyck shifts are shown to have property (A). The semigroups, that are associated to \mathcal R-graph shifts with Property (A), are determined. Also results on the reconstruction of \mathcal R-graphs from their \mathcal R-graph shifts are obtained.

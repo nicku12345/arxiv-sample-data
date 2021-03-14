@@ -1,0 +1,1 @@
+We describe the size of the sets of sojourn times E_\gamma =\{t\geq 0: |B_t|\leq t^\gamma\} associated with a fractional Brownian motion B in terms of various large scale dimensions.

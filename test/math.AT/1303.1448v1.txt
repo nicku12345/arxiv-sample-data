@@ -1,0 +1,1 @@
+We give a new proof of formality of the operad of little disks. The proof makes use of an operadic version of a simple formality criterion for commutative differential graded algebras due to Sullivan. We see that formality is a direct consequence of the fact that the Grothendieck-Teichm\"uller group operates on the chain operad of little disks.

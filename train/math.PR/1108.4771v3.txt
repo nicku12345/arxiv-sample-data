@@ -1,0 +1,1 @@
+We study the Hopfield model where the ratio \alpha of patterns to sites grows large. We prove that the free energy with inverse temperature \beta and external field B behaves like \beta\sqrt\alpha+\gamma, where \gamma is the limiting free energy of the Sherrington-Kirkpatrick model with inverse temperature \sqrt2\beta and external field B.

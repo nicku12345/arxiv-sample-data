@@ -1,0 +1,1 @@
+Let K be a complete discretely valued field of rank one, with residue field \Q_p. It is well known that period equals index in \Br(K). We prove that when p=2 there exist noncyclic K-division algebras of every 2-power degree divisible by four. Otherwise, every K-division algebra is cyclic.

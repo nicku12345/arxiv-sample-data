@@ -1,0 +1,1 @@
+Let S be a Rees semigroup, and let \ell^1(S) be its convolution semigroup algebra. Using Morita equivalence we show that bounded Hochschild homology and cohomology of \ell^1(S) is isomorphic to those of the underlying discrete group algebra.

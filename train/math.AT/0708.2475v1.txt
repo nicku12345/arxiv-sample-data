@@ -1,0 +1,1 @@
+We give a homotopy theoretic characterization of sheaves on a stack and, more generally, a presheaf of groupoids on an arbitary small site C. We use this to prove homotopy invariance and generalized descent statements for categories of sheaves and quasi-coherent sheaves. As a corollary we obtain an alternate proof of a generalized change of rings theorem of Hovey.

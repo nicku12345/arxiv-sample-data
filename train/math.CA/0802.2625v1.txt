@@ -1,0 +1,1 @@
+We present in this paper a detailed note on the computation of Puiseux series solutions of the Riccatti equation associated with a homogeneous linear ordinary differential equation. This paper is a continuation of [1] which was on the complexity of solving arbitrary ordinary polynomial differential equations in terms of Puiseux series.

@@ -1,0 +1,1 @@
+A group G has the R_{\infty}--property if the number R(\varphi) of twisted conjugacy classes is infinite for any automorphism \varphi of G. For such a group G, the R_{\infty}--nilpotency index is the least integer c such that G/\gamma_{c+1}(G) still has the R_\infty--property. In this paper, we determine the R_{\infty}--nilpotency degree of all Baumslag--Solitar groups.

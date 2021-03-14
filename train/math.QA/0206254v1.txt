@@ -1,0 +1,1 @@
+Given a group G, we use involutary Hopf G-coalgebras to define a scalar invariant of flat G-bundles over 3-manifolds. When G=1, this invariant equals to the one of 3-manifolds constructed by Kuperberg from involutary Hopf algebras. We give examples which show that this invariant is not trivial.

@@ -1,0 +1,1 @@
+We determine the decomposition of V_{\sqrt{2}D_l} into a sum of irreducible T-modules for general l where D_l is the root lattice of type D_l and T is the tensor product of l+1 Virasoro vertex operator algebras with central charges c_{1}=1/2, c_{2}=7/10, c_{3}=4/5, and c_{i}=1 for 4\le i\le l+1.

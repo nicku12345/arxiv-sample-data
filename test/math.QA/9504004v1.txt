@@ -1,0 +1,1 @@
+We show that the quantum straightening algorithm for Young tableaux and Young bitableaux reduces in the crystal limit q \mapsto 0 to the Robinson-Schensted algorithm.

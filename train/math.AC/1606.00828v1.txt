@@ -1,0 +1,1 @@
+Let R_1 be a commutative ring, let R_2 be a finitely generated extension ring of R_1, and let S be a ring that is intermediate between R_1 and R_2. For R_1 = R[x] and R_2 = R[x,y], this paper gives simple combinatorial constructions of intermediate rings S that are not finitely generated over R[x].

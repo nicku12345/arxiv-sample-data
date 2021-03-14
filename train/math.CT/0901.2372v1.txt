@@ -1,0 +1,1 @@
+We generalize the notion of an exact category and introduce weakly exact categories. A proof of the snake lemma in this general setting is given. Some applications are given to illustrate how one can do homological algebra in a weakly exact category.

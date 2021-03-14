@@ -1,0 +1,1 @@
+This paper presents results on both the kernel and cokernel of the S-capitulation map C_{F,S}\ra C_{K,S}^{G} for arbitrary finite Galois extensions K/F (with Galois group G) and arbitrary finite sets of primes S of F (assumed to contain the archimedean primes in the number field case)

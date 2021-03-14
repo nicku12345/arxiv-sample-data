@@ -1,0 +1,1 @@
+We show that the unit ball of a Hilbert space in its weak topology is a continuous image of the countable power of the Alexandroff compactification of a discrete set, and we deduce some combinatorial properties of its lattice of open sets which are not shared by the balls of other equivalent norms when the space is nonseparable.

@@ -1,0 +1,1 @@
+We extend Wallman's classic duality from lattice bases to semilattice subbases and from compact to locally closed compact spaces. Moreover, we make this duality functorial via appropriate relational morphisms.

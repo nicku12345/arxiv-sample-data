@@ -1,0 +1,1 @@
+Let (A,\mathfrak{m}) be an abstract complete intersection and let P be a prime ideal of A. In [1] Avramov proved that A_P is an abstract complete intersection. In this paper we give an elementary proof of this result.

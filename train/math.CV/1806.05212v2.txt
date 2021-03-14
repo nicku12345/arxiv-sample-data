@@ -1,0 +1,1 @@
+Given a complex polynomial p(z) of degree n and an ellipse, we find an algorithm of determining the number of zeros of p in the interior and exterior of the ellipse. Our results generalize the previous results of Pt\'ak and Young about the circles.

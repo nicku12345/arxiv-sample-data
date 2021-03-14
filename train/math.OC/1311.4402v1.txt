@@ -1,0 +1,1 @@
+Both the shortest and the longest blowup time for a controlled system are considered. Existence result and maximum principle for optimal triple are established. Thanks to some monotonicity of the controlled system, some kinds of "the front part local optimality" for optimal triple is established. Then proofs of the main results become easy, clear and abundant.

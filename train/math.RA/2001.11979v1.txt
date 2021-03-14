@@ -1,0 +1,1 @@
+Leibniz algebras are certain generalization of Lie algebras. It is natural to generalize concepts in Lie algebras to Leibniz algebras and investigate whether the corresponding results still hold. In this paper we introduce the notion of complete Leibniz algebras as generalization of complete Lie algebras. Then we study properties of complete Leibniz algebras and their holomorphs.

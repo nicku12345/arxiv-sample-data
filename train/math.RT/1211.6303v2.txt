@@ -1,0 +1,1 @@
+Brauer algebras form a tower of cellular algebras. There is a well-defined notion of limiting blocks for these algebras. In this paper we give a complete description of these limiting blocks over any field of positive characteristic. We also prove the existence of a class of homomorphisms between cell modules.

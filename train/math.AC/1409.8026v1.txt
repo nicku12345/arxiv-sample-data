@@ -1,0 +1,1 @@
+Let K be a field and let A be the polynomial ring in n variables with coefficients in the field K We study the universal squarefree lexsegment ideals in A. We put our attention on their combinatorics computing some invariants. Moreover we study the link between such special class of squarefree lexsegment ideals and the so called s-sequences.

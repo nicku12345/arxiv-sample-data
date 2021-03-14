@@ -1,0 +1,1 @@
+This text surveys different probabilistic aspects of a model which is used to describe the evolution of an object that falls apart randomly as time passes. Each point of view yields useful techniques to establish properties of such random fragmentation processes.

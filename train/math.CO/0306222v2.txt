@@ -1,0 +1,1 @@
+We prove an identity about partitions involving new combinatorial coefficients. The proof given is using a generating function. As an application we obtain the explicit expression of two shifted symmetric functions, related with Jack polynomials. These quantities are the moments of the "alpha-content" random variable with respect to some transition probability distributions.

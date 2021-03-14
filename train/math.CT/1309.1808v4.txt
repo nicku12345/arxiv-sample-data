@@ -1,0 +1,1 @@
+We study the continuous map induced on spectra by a separable extension of tensor-triangulated categories. We determine the image of this map and relate the cardinality of its fibers to the degree of the extension. We then prove a weak form of descent, "up-to-nilpotence", which allows us to generalize Quillen's Stratification Theorem to equivariant derived categories.

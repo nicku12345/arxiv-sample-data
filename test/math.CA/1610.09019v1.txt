@@ -1,0 +1,1 @@
+We characterize the scaling function of a crystal Multiresolution Analysis in terms of the vector-scaling function for a Multiresolution Analysis associated to a lattice. We give necessary and sufficient conditions in terms of the symbol matrix in order that an associated crystal wavelet basis exists.

@@ -1,0 +1,1 @@
+We set forth a definition of hyperfinite knots. Loosely speaking, these are limits of certain sequences of knots with increasing crossing number. These limits exist in appropriate closures of quotient spaces of knots. We give examples of hyperfinite knots. These examples stem from an application of the Thermodynamic Limit to the CJKLS invariant of knots.

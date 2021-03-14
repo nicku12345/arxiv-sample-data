@@ -1,0 +1,1 @@
+Recently, L. Buhovsky, A. Logunov and S. Tanny proved the (strong) Poisson bracket conjecture by Leonid Polterovich in dimension 2. In this note, instead of open cover constituted of displaceable sets in their work, considering open cover constituted of topological discs we give a sufficient and necessary condition that Poisson bracket invariants of these covers are positive.

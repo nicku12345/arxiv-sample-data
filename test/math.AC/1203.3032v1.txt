@@ -1,0 +1,1 @@
+The main purpose of this paper is to introduce the concept of essentially critically compressible modules. We call an R-module M essentially critically compressible module if it is essentially compressible and additionally it cannot be imbedded in any of its factor module.

@@ -1,0 +1,1 @@
+The main aspiration of this note is to construct several different Haar-type systems in euclidean spaces of higher dimensions and prove sharp Lp bounds for the corresponding martingale transforms. In dimension one this was a result of Burkholder. The motivation for working in this direction is the search for Lp estimates of the Ahlfors-Beurling operator.

@@ -1,0 +1,1 @@
+In this paper, we start by proving the existence of the strict transform of a positive current T as soon as its j^{th} currents, T_j, are plurisubharmonics or plurisuperharmonics. Then, with a suitable condition on T_j, we show the existence of the directional tangent cone to T. In the particular case, when T is closed, we give a second condition independent to the previous one.

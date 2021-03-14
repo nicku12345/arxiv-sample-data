@@ -1,0 +1,1 @@
+We show that if a separable Rosenthal compactum K is an n-to-one preimage of a metric compactum, but it is not an n-1-to-one preimage, then K contains a closed subset homeomorphic to either the n-Split interval S_n(I) or the Alexandroff n-plicate D_n(2^\mathbb{N}). This generalizes a result of the third author that corresponds to the case n=2.

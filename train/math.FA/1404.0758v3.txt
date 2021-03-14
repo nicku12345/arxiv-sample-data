@@ -1,0 +1,1 @@
+We extend the Gabor analysis in \cite{GaSa} to a broad class of modulation spaces, allowing more general mixed quasi-norm estimates and weights in the definition of the modulation space quasi-norm. For such spaces we deduce invariance and embedding properties, and that the elements admit reconstructible sequence space representations using Gabor frames.

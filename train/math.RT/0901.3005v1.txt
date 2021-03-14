@@ -1,0 +1,1 @@
+Friedrich Knop has given an example of a polynomial algebra A in characteristic two with an unusual SL_2 action. We exhibit a nontrivial class in H^1(SL_2,A), not detected by Frobenius kernels.

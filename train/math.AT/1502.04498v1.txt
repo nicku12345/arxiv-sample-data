@@ -1,0 +1,1 @@
+Semaphores were introduced by Dijkstra as a tool for modeling concurrency in computer programs. In this paper we provide a formal definition of PV-programs, i.e. programs using semaphores, their state spaces and execution spaces. The main goal of this paper is to prove that every finite homotopy type may appear as a connected component of the execution space of a PV-program.

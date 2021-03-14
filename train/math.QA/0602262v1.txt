@@ -1,0 +1,1 @@
+We introduce a new skein module for three manifolds based on properly embedded surfaces and their relations introduced by D.Bar-Natan, and modified by M.Khovanov. We compute the structure of the modules for some manifolds, including Seifert fibred manifolds.

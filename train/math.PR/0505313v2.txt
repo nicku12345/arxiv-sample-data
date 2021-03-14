@@ -1,0 +1,1 @@
+We derive two-sided estimates on moments and tails of Gaussian chaoses, that is, random variables of the form \sum a_{i_1,...,i_d}g_{i_1}... g_{i_d}, where g_i are i.i.d. {\mathcal{N}}(0,1) r.v.'s. Estimates are exact up to constants depending on d only.

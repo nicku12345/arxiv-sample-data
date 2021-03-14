@@ -1,0 +1,1 @@
+In this paper we use twisted Alexander polynomials to prove that the exterior of a particular graph knot is not fibered. Then we build three 2-component graph links out of this knot, and use similar techniques to discuss their fiberedness.

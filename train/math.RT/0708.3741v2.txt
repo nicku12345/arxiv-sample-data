@@ -1,0 +1,1 @@
+We answer a question posed by Carlson, Peng, and Wheeler, and demonstrate that in general Rickard modules in relatively stable categories are not idempotent modules even if one localizes with respect to a tensor ideal subcategory. We also show that there is a modification one can make so as to recover the idempotent behaviour.

@@ -1,0 +1,1 @@
+Let (\A, \alpha) and (\B, \beta) be C*-dynamical systems and assume that \A is a separable simple C*-algebra and that \alpha and \beta are *-automorphisms. Then the semicrossed products \A \times_{\alpha} \bbZ^{+} and \B \times_{\beta} \bbZ^{+} are isometrically isomorphic if and only if the dynamical systems (\A, \alpha) and (\B, \beta) are outer conjugate.

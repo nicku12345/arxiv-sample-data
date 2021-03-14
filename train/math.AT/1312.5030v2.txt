@@ -1,0 +1,1 @@
+Let p be a fixed prime number. The main purpose of this paper is to introduce the notion of \textit{irreducible} p-local compact group, which provides a first reduction towards a classification of all p-local compact groups. In order to test this idea, in this note we describe all p-local compact groups of rank 1 in terms of this notion.

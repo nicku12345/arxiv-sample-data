@@ -1,0 +1,1 @@
+In this note, we study the Cohen-Macaulayness of non-Noetherian rings. We show that Hochster's celebrated theorem that a finitely generated normal semigroup ring is Cohen-Macaulay does not extend to non-Noetherian rings. We also show that for any valuation domain V of finite Krull dimension, V[x] is Cohen-Macaulay in the sense of Hamilton-Marley.

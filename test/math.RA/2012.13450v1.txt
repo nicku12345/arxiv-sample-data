@@ -1,0 +1,1 @@
+Let R be a ring with identity and I(X,R) be the incidence algebra of a locally finite partially ordered set X over R. In this paper, we compute the socle and the singular ideal of the incidence ring for some X in terms of the socle of R and the singular ideal of R, respectively.

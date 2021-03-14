@@ -1,0 +1,1 @@
+Let V be a p-adic representation of the absolute Galois group G of Q_p that becomes crystalline over a finite tame extension, and assume p odd. We provide necessary and sufficient conditions for V to be isomorphic to the Tate module V_p(A) of an abelian variety A defined over Q_p. These conditions are stated on the filtered (\phi,G)-module attached to V.

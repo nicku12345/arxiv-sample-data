@@ -1,0 +1,1 @@
+The minimum number of elements needed for a poset to have exactly n linear extensions is at most 2sqrt{n}. In a special case, the bound can be improved to sqrt{n}.

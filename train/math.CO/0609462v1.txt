@@ -1,0 +1,1 @@
+We characterize the equivalence and the weak equivalence of Cayley graphs for a finite group \C{A}. Using these characterizations, we find enumeration formulae of the equivalence classes and weak equivalence classes of Cayley graphs. As an application, we find the number of weak equivalence classes of circulant graphs.

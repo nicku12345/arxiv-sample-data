@@ -1,0 +1,1 @@
+After revisiting Cantor-Zassenhaus polynomial factorization algorithm, we describe a new simplified version of it, which requires less computational cost. Moreover we show that it is able to find a factor of a fully splitting polynomial of degree t over \mathbb F_{2^m} with O(\frac{2^m}{3^{t}}) attempts and over \mathbb F_{p^m} for odd p with O(\frac{p^m}{2^{t}}) attempts.

@@ -1,0 +1,1 @@
+We consider the continuous time version of the `true' or `myopic' self-avoiding random walk with site repulsion in 1d. The Ray-Knight-type method which was applied to the discrete time and edge repulsion case, is applicable to this model with some modifications. We present a limit theorem for the local time of the walk and a local limit theorem for the displacement.

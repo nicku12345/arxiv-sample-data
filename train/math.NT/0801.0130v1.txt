@@ -1,0 +1,1 @@
+Let \mathbf H_2 denote the set of even integers n \not\equiv 1 \pmod 3. We prove that when H \ge X^{0.33}, almost all integers n \in \mathbf H_2, X < n \le X + H can be represented as the sum of a prime and the square of a prime. We also prove a similar result for sums of three squares of primes.

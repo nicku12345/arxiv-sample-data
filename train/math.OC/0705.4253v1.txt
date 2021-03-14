@@ -1,0 +1,1 @@
+We establish that the min-sum message-passing algorithm and its asynchronous variants converge for a large class of unconstrained convex optimization problems.

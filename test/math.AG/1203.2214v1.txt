@@ -1,0 +1,1 @@
+Using the Kuga-Satake correspondence we provide an effective algorithm for the computation of the Picard and Brauer groups of K3 surfaces of degree 2 over number fields.

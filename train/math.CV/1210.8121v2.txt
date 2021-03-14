@@ -1,0 +1,1 @@
+Answering an old question, we find a domain X in the complex projective plane CP^2 which admits a strongly plurisubharmonic function, but such that every holomorphic function on X is constant. The domain X can be chosen diffeomorphic to an oriented real 2-plane bundle over the 2-sphere.

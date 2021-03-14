@@ -1,0 +1,1 @@
+Unlike Grothendieck's \'etale fundamental group, Nori's fundamental group does not fulfill the homotopy exact sequence in general. We give necessary and sufficient conditions which force exactness of the sequence.

@@ -1,0 +1,1 @@
+We consider the Markov chain approximations for singular stable-like processes. First we obtain properties of some Markov chains. Then we construct the approximating Markov chains and give a necessary condition for weak convergence of these chains to singular stable-like processes.

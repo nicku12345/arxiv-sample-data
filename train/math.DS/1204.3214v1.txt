@@ -1,0 +1,1 @@
+Let f: S^2 \to S^2 be a postcritically finite branched covering map without periodic branch points. We give necessary and sufficient algebraic conditions for f to be homotopic, relative to its postcritical set, to an expanding map g.

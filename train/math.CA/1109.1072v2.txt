@@ -1,0 +1,1 @@
+In this paper, we prove that the partial sum process of general orthogonal series is a geometric 2-rough process under the same condition as in Menshov-Rademacher Theorem. For Fourier series, the condition can be improved, and an equivalent condition on the limit function is identified.

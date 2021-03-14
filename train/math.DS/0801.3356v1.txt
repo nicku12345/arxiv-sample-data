@@ -1,0 +1,1 @@
+We show that if f_t is a holomorphic family of quadratic-like maps with all periodic orbits repelling so that for each real t the map f_t is a real Collet-Eckmann S-unimodal map then, writing m_t for the unique absolutely continuous invariant probability measure of f_t, the map t -> \int g dm_t is real analytic for any real analytic function g.

@@ -1,0 +1,1 @@
+We refine Brink's theorem, that the non-reflection part of a reflection centralizer in a Coxeter group W is a free group. We give an explicit set of generators for centralizer, which is finitely generated when W is. And we give a method for computing the Coxeter diagram for its reflection subgroup. In many cases, our method allows one to compute centralizers in one's head.

@@ -1,0 +1,1 @@
+This work is devoted to the study of integration with respect to binomial measures. We develop interpolatory quadrature rules and study their properties. Local error estimates for these rules are derived in a general framework.

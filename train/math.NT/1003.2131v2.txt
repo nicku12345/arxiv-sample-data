@@ -1,0 +1,1 @@
+On the twisted Fermat cubic, an elliptic divisibility sequence arises as the sequence of denominators of the multiples of a single rational point. We prove that the number of prime terms in the sequence is uniformly bounded. When the rational point is the image of another rational point under a certain 3-isogeny, all terms beyond the first fail to be primes.

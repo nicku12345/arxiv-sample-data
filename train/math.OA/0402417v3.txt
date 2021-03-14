@@ -1,0 +1,1 @@
+We prove that the notion of relative property (T) (or rigidity) for inclusions of finite von Neumann algebras defined in [Po1] is equivalent to a weaker property, in which no ``continuity constants'' are required. The proof is by contradiction and uses infinite products of completely positive maps, regarded as correspondences.

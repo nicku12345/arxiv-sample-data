@@ -1,0 +1,1 @@
+We verify that Kelly's constructions of the internal Hom for enriched categories extends naturally to lax functors taking their values in a symmetric monoidal category. Our motivation is to set up a `calculus on lax functors' that will host the theory of weakly enriched categories that are defined by lax diagrams.

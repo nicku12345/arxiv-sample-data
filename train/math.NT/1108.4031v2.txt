@@ -1,0 +1,1 @@
+For p=1 (mod 4), we prove the formula (conjectured by R. Chapman) for the determinant of the matrix C with C(i,j)=LegendreSymbol(j-i,p), i,j=0,...,(p-1)/2.

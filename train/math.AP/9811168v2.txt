@@ -1,0 +1,1 @@
+The endpoint Strichartz estimates for the Schr\"odinger equation are known to be false in two dimensions. However, if one averages the solution in L^2 in the angular variable, we show that the homogeneous endpoint and the retarded half-endpoint estimates hold, but the full retarded endpoint fails. In particular, the original versions of these estimates hold for radial data.

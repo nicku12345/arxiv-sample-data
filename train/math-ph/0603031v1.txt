@@ -1,0 +1,1 @@
+The basic mechanism how gerbes arise in quantum field theory is explained; in particular the case of chiral fermions in background fields is treated. The role of of various gauge group extensions (central extensions of loop groups and their generalizations) is also explained, in relation to index theory computation of the Dixmier-Douady class of a gerbe.

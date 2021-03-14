@@ -1,0 +1,1 @@
+We give methods to compute l^2-cohomology groups of a covering manifolds obtained by removing pullback of a (normal crossing) divisor to a covering of a compact K\"ahler manifold. We prove that in suitable quotient categories, these groups admit natural mixed Hodge structure whose graded pieces are given by expected Gysin maps.

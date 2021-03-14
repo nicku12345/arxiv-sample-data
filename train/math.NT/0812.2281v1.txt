@@ -1,0 +1,1 @@
+For any real number \t, the set of all real numbers x for which there exists a constant c(x) > 0 such that \inf_{p \in \ZZ} |\t q - x - p| \geq c(x)/|q| for all q in \ZZ {0} is an 1/8-winning set.

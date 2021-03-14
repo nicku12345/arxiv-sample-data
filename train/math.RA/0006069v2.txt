@@ -1,0 +1,1 @@
+We extend previous work on the eigenvalue problem for Hermitian octonionic matrices by discussing the case where the eigenvalues are not real, giving a complete treatment of the 2x2 case, and summarizing some prelimenary results for the 3x3 case.

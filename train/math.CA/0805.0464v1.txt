@@ -1,0 +1,1 @@
+In this paper, we give a direct proof of the twisted Poincar\'{e} lemma by using the integrations over regularized paths. This method tells us a concrete description of the \v{C}ech-de Rham isomorphism.

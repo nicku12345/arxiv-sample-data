@@ -1,0 +1,1 @@
+We approach higher-order variational problems of Herglotz type from an optimal control point of view. Using optimal control theory, we derive a generalized Euler-Lagrange equation, transversality conditions, a DuBois-Reymond necessary optimality condition and Noether's theorem for Herglotz's type higher-order variational problems, valid for piecewise smooth functions.

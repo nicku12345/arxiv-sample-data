@@ -1,0 +1,1 @@
+An Ak slow fast system is a particular type of singularly perturbed ODE. The corresponding slow manifold is defined by the critical points of a universal unfolding of an Ak singularity. In this note we propose a formal normal form of Ak slow fast systems.

@@ -1,0 +1,1 @@
+We prove global existence of strong solutions for the Vlasov-Poisson system in a convex bounded domain in the plasma physics case assuming homogeneous Dirichlet boundary conditions for the electric potential and the specular reflection boundary conditions for the distribution density.

@@ -1,0 +1,1 @@
+Sarkar and Wang have given a combinatorial algorithm for computing Heegaard Floer homology and Plamenevskaya has improved their method to compute Ozsvath-Szabo invariant. In this paper, applying the combinatorial method to stabilizations of an open book, we prove basic properties of Ozsvath-Szabo invariant.

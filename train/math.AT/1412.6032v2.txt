@@ -1,0 +1,1 @@
+The first author proved in a previous paper that the n-fold bar construction for commutative algebras can be generalized to E_n-algebras, and that one can calculate E_n-homology with trivial coefficients via this iterated bar construction. We extend this result to E_n-homology and E_n-cohomology of a commutative algebra A with coefficients in a symmetric A-bimodule.

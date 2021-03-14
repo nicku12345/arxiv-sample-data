@@ -1,0 +1,1 @@
+Answering a question of Gao and Kechris, we show that, given any polish group G, there exists a closed subset F of Urysohn's universal metric space U such that G is (topologically) isomorphic to the subgroup of isometries of U which map F onto itself.

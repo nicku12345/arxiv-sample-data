@@ -1,0 +1,1 @@
+Let X be a proper, non-compact CAT(-1) space, and \Gamma a discrete cocompact subgroup of the isometries of X. We compactify the diagonal action of \Gamma on X \times X considering a domain of the horofunction boundary with respect to the maximum metric.

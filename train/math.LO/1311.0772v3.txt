@@ -1,0 +1,1 @@
+If M,N are countable, arithmetically saturated models of Peano Arithmetic and Aut(M) is isomorphic to Aut(N), then the Turing-jumps of Th(M) and Th(N) are recursively equivalent.

@@ -1,0 +1,1 @@
+This paper deals with the problem of conjugacy of Cartan subalgebras for affine Kac-Moody Lie algebras. Unlike the methods used by Peterson and Kac, our approach is entirely cohomological and geometric. It is deeply rooted on the theory of reductive group schemes developed by Demazure and Grothendieck, and on the work of J. Tits on buildings.

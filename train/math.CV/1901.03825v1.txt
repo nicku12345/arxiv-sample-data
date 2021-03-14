@@ -1,0 +1,1 @@
+Let A be a non-projectively-pluripolar set in a Fr\'{e}chet space E. We give sufficient conditions to ensure the convergence on some zero-neighbourhood in E of a (sequence of) formal power series of Fr\'{e}chet-valued continuous homogeneous polynomials provided that the convergence holds at a zero-neighbourhood of each complex line \ell_a := \C a for every a \in A.

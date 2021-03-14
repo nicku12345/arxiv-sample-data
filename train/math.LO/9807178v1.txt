@@ -1,0 +1,1 @@
+Assuming the continuum hypothesis there is an inseparable sequence of length omega_1 that contains no Lusin subsequence, while if Martin's Axiom and the negation of CH is assumed then every inseparable sequence (of length omega_1) is a union of countably many Lusin subsequences.

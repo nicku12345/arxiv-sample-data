@@ -1,0 +1,1 @@
+We use the Weil bound of multiplicative character sums together with some recent results of N. Boston and R. Jones, to show that the critical orbit of quadratic polynomials over a finite field of q elements is of length O(q^{3/4}), improving upon the trivial bound q.

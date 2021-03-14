@@ -1,0 +1,1 @@
+Any classical r-matrix on the Lie algebra of linear operators on a real vector space V gives rise to a quadratic Poisson structure on V which admits a deformation quantization stemming from the construction of V. Drinfel'd. We exhibit in this article an example of quadratic Poisson structure which does not arise this way.

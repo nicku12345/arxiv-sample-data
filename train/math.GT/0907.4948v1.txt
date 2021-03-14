@@ -1,0 +1,1 @@
+Let K be a knot in S^3. We study the iterated Bing doubles of K, giving a new proof for the following statement: If BD_n(K) is slice for some n, then K is algebraically slice. This result was first proved by Cha and Kim using covering link calculus. We also use this tool, but our proof is substantially simpler and illuminates several generalizations.

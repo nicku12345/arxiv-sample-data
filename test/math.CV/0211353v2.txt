@@ -1,0 +1,1 @@
+We give an explicit description of the canonical Frobenius structure attached (by the results of the first part of this article) to the polynomial f(u_0,...,u_n)=w_0u_0+...+w_nu_n restricted to the torus u_0^{w_0}...u_n^{w_n}=1, for any family of positive integers w_0,...,w_n such that gcd(w_0,...,w_n)=1.

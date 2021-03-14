@@ -1,0 +1,1 @@
+We continue the work of S. Tikhonov, E. Liflyand, B. Booton, and others, proving the equivalence of L(p,q)-norms of general monotone functions and of their Fourier transforms. The main tool in this work is the interpolation properties of cones of general monotone functions in L(p,q)-norms.

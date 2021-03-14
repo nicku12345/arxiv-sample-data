@@ -1,0 +1,1 @@
+We construct a higher Whitehead torsion map, using algebraic K-theory of spaces, and show that it satisfies the usual properties of the classical Whitehead torsion. This is used to describe a "geometric assembly map" defined on stabilized structure spaces in purely homotopy theoretic terms.

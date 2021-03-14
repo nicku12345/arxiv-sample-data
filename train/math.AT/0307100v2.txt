@@ -1,0 +1,1 @@
+If Q is a group acting as a group of automorphisms of another group G (with finite orbits), denote by C_*(G)^Q the subcomplex of Q-invariant chains in the bar complex C_*(G). In this paper, we study the homology of the complex C_*(G)^Q and compute several examples.

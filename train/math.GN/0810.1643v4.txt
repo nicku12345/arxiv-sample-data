@@ -1,0 +1,1 @@
+We show that Lelek's problem on the chainability of continua with span zero is not a metric problem: from a non-metric counterexample one can construct a metric one.

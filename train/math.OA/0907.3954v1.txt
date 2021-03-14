@@ -1,0 +1,1 @@
+Let \ell^p be the space of all p-summable sequences on \mathbb{Z}. An infinite matrix is said to have \ell^p-stability if it is bounded and has bounded inverse on \ell^p. In this paper, a practical criterion is established for the \ell^p-stability of convolution-dominated infinite matrices.

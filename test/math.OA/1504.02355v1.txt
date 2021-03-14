@@ -1,0 +1,1 @@
+For \left(C(t)\right)_{t\in\mathbb R} being a cosine family on a unital normed algebra, we show that the estimate \limsup_{t\to\infty^{+}}\|C(t) - I\| <2 implies that C(t)=I for all t\in\mathbb R. This generalizes the result that \sup_{t\geq0}\|C(t)-I\|<2 yields that C(t)=I for all t\geq0. We also state the corresponding result for discrete cosine families and for semigroups.

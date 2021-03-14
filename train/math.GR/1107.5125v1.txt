@@ -1,0 +1,1 @@
+Suppose G is a simple group. For any nontrivial elements g and h, g can be written as a finite product of conjugates of h or the inverse of h. G is called uniformly simple if the length of such an expression is uniformly bounded. We show that the infinite alternating group is non-uniformly simple and evaluate how the length of such an expression is unbounded.

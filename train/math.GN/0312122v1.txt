@@ -1,0 +1,1 @@
+We discuss subsets S of {\mathbb{R}}^n such that every real valued function f on S is of the form {equation*} f(x_1,x_2,...,x_n) = u_1(x_1) + u_2(x_2) + ... + u_n(x_n), {equation*} and the related concepts and situations in analysis.

@@ -1,0 +1,1 @@
+In this paper, we construct embeddings of right-angled Artin groups into higher dimensional Thompson groups. In particular, we embed every right-angled Artin groups into n-dimensional Thompson group, where n is the number of complementary edges in the defining graph.

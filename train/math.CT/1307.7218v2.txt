@@ -1,0 +1,1 @@
+We show that for a monoidal model category \M=(\ul{M}, \otimes, I), certain co-Segal \M-categories are equivalent to strict ones.

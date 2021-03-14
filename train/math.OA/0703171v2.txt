@@ -1,0 +1,1 @@
+Let M be a type I von Neumann algebra with the center Z, and let LS(M) be the algebra of all locally measurable operators affiliated with M. We prove that every Z-linear derivation on LS(M) is inner. In particular all Z-linear derivations on the algebras of measurable and respectively totally measurable operators are spatial and implemented by elements from LS(M).

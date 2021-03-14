@@ -1,0 +1,1 @@
+We consider multivariate integration in the randomized setting. The function spaces which we study are defined on R^s with respect to the Gaussian measure and the functions are characterized by the decay of their Hermite coefficients. We study tractability of Monte Carlo integration and give necessary and sufficient conditions to achieve tractability.

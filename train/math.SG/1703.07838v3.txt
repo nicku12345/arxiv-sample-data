@@ -1,0 +1,1 @@
+This note constructs sharp obstructions for stabilized symplectic embeddings of an ellipsoid into a ball, in the case when the initial four-dimensional ellipsoid has `eccentricity' of the form 3n-1 for some integer n.

@@ -1,0 +1,1 @@
+This paper presents a proof of the generalized Oka-Grauert principle for 1-convex manifolds: Every continuous mapping from a 1-convex manifold X to a complex manifold Y which is already holomorphic on a neighborhood of the exceptional set is homotopic to a holomorphic one provided that either Y satisfies CAP or we are free to change the complex structure on X.

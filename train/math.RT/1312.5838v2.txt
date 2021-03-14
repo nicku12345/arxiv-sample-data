@@ -1,0 +1,1 @@
+We consider the space of nilpotent Higgs bundles on a weighted projective line, as a global analog of the nilpotent cone. We show that it is pure, compute its dimension, and define geometric correspondences between irreducible components. We prove it by constructing a loop analog of a cristal, in the spirit of Kashiwara and Saito, for some corresponding loop Kac-Moody algebra.

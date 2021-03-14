@@ -1,0 +1,1 @@
+Let L be a finite n-element semilattice. We prove that if L has at least 127\cdot 2^{n-8} subsemilattices, then L is planar. For n>8, this result is sharp since there is a non-planar semilattice with exactly 127\cdot 2^{n-8}-1 subsemilattices.

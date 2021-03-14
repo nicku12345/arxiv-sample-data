@@ -1,0 +1,1 @@
+We give a canonical form of matrices of a cycle of linear or semilinear mapping V_1 --- V_2 --- ... --- V_t --- V_1 in which all V_i are complex vector spaces, each line is an arrow ---> or <---, and each arrow denotes a linear or semilinear mapping.

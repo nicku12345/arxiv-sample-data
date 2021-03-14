@@ -1,0 +1,1 @@
+The mathematical software system polymake provides a wide range of functions for convex polytopes, simplicial complexes, and other objects. A large part of this paper is dedicated to a tutorial which exemplifies the usage. Later sections include a survey of research results obtained with the help of polymake so far and a short description of the technical background.

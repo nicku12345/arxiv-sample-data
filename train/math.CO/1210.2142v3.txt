@@ -1,0 +1,1 @@
+We prove that every simple connected graph with no K_5 minor admits a proper 4-coloring such that the neighborhood of each vertex v having more than one neighbor is not monochromatic, unless the graph is isomorphic to the cycle of length 5. This generalizes the result by S.-J. Kim, S. J. Lee, and W.-J. Park on planar graphs.

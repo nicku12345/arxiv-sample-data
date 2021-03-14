@@ -1,0 +1,1 @@
+The second squarefree Veronese subring in n variables is the edge ring of the complete graph with n vertices. It is proved that every second squarefree Veronese subring possesses a Koszul filtration.

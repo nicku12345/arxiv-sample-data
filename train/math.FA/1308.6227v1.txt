@@ -1,0 +1,1 @@
+In this note a general way to develop a cardinal interpolant for l^2-data on the integer lattice Z^n is shown. Further, a parameter is introduced which allows one to recover the original Paley-Weiner function from which the data came.

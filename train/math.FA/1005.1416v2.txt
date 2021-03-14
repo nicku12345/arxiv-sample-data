@@ -1,0 +1,1 @@
+We prove that if X is any complex separable infinite-dimensional Banach space with an unconditional Schauder decomposition, X supports an operator T which is chaotic and frequently hypercyclic. In contrast with the complex case, we observe that there are real Banach spaces with an unconditional basis which support no chaotic operator.

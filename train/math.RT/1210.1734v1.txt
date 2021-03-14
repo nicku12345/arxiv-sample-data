@@ -1,0 +1,1 @@
+Assuming the Lusztig conjecture on the irreducible characters for reductive algebraic groups in positive characteristic p, which is now a theorem for large p, we show that the modules for their Frobenius kernels induced from the simple modules of p-regular highest weights for their parabolic subgroups are rigid and determine their Loewy series.

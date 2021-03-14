@@ -1,0 +1,1 @@
+Let f:I\to X be a d.c. mapping, where I\subset \R is an open interval and X a Banach space. Let C_f be the set of critical points of f.   We prove that f(C_f) has zero 1/2-dimensional Hausdorff measure.

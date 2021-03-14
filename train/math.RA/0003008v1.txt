@@ -1,0 +1,1 @@
+Let H denote a semisimple Hopf algebra over an algebraically closed field k of characteristic 0. We show that the degree of any irreducible representation of H whose character belongs to the center of H^* must divide the dimension of H .

@@ -1,0 +1,1 @@
+We give a new simple example of an atomic domain which is not ACCP. Our example is a monoid domain F[X;M], where F is a field and M is a submonoid of the additive monoid of nonnegative rational numbers.

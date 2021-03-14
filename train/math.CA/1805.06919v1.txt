@@ -1,0 +1,1 @@
+We introduce the notion of the difference quotient set of a real valued function f on a set E\subset[0,1], and compare this set to the range of f on E. We discuss the measure theoretic properties of both the range and the difference quotient set of f over E under different assumptions on f and E.

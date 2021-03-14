@@ -1,0 +1,1 @@
+We consider Thue equations of the form ax^k+by^k = 1, and assuming the truth of the abc-conjecture, we show that almost all locally soluble Thue equations of degree at least three violate the Hasse principle. A similar conclusion holds true for Fermat equations ax^k+by^k+cz^k = 0 of degree at least six.

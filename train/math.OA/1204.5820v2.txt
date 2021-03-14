@@ -1,0 +1,1 @@
+We show that the passage from a C^\ast-correspondence to its Cuntz-Pimsner C^\ast-algebra gives a functor on a category of C^\ast-correspondences with appropriately defined morphisms. Applications involving topological graph C^\ast-algebras are discussed, and an application to crossed-product correspondences is presented in detail.

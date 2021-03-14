@@ -1,0 +1,1 @@
+We prove the non-rationality of a double cover of \mathbb{P}^{n} branched over a hypersurface F\subset\mathbb{P}^{n} of degree 2n having isolated singularities such that n\ge 4 and every singular points of the hypersurface F is ordinary, i.e. the projectivization of its tangent cone is smooth, whose multiplicity does not exceed 2(n-2).

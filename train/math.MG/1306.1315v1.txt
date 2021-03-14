@@ -1,0 +1,1 @@
+In this note we prove certain inequalities for mixed discriminants of positive semi-definite matrices, and mixed volumes of compact convex sets in n-dimensions. Moreover, we discuss how the latter are related to the monotonicity of an information functional on the class of convex bodies, which is a geometric analogue of the classical Fisher information.

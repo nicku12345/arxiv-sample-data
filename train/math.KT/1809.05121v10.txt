@@ -1,0 +1,1 @@
+We show that for a noetherian algebra A whose bounded dg derived category is smooth, the singular Hochschild cohomology (=Tate--Hochschild cohomology) is isomorphic, as a graded algebra, to the Hochschild cohomology of the dg singularity category of A. The existence of such an isomorphism is suggested by recent work of Zhengfang Wang.

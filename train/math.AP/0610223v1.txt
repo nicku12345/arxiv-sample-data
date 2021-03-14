@@ -1,0 +1,1 @@
+We prove that the Cauchy problem for the KP-I equation is globally well-posed for initial data which are localized perturbations (of arbitrary size) of a non-localized (i.e. not decaying in all directions) traveling wave solution (e.g. the KdV line solitary wave or the Zaitsev solitary waves which are localized in x and y periodic or conversely).

@@ -1,0 +1,1 @@
+In this short note, we prove that the usual \Theta function on a Riemannian manifold without conjugate points is uniformly bounded from below. This extends a result of Green in two dimensions. This elementary lemma implies that the B\'erard remainder in the Weyl law is valid for a manifold without conjugate points, without any restriction on the dimension.

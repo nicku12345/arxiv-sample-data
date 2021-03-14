@@ -1,0 +1,1 @@
+This is an expository paper on the dynamical properties of substitutions in propositional many-valued logics. We identify substitutions with endomorphisms of free algebras, and we study their actions on the dual spectral spaces.

@@ -1,0 +1,1 @@
+In the paper we proved that for a compact X inclusion I_{f}(X)\in ANR holds if and only if X\in ANR. Further, it is shown that the functor I_{f} preserves property of a compact to be Q-manyfold or a Hilbert cube, preserves property of map layers to be ANR-compact, compact Q-manyfold and a Hilbert cube (the finite sum of Hilbert cubes)

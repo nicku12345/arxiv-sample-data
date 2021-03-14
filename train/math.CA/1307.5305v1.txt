@@ -1,0 +1,1 @@
+Beurling slow variation is generalized to Beurling regular variation. A Uniform Convergence Theorem, not previously known, is proved for those functions of this class that are measurable or have the Baire property. This permits their characterization and representation. This extends the gamma class of de Haan theory studied earlier.

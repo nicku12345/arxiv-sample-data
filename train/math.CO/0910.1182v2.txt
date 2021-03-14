@@ -1,0 +1,1 @@
+A \delta-vector \delta(\Pc)= (\delta_0, \delta_1, ..., \delta_d) is called shifted symmetric if \delta_{d-i} = \delta_{i+1} for each 0 \leq i \leq [(d-1)/2]. A natural family of (0,1)-polytopes with shifted symmetric \delta-vectors will be studied.

@@ -1,0 +1,1 @@
+We construct an uncountable family of groups of type FP. In contrast to every previous construction of non-finitely presented groups of type FP we do not use Morse theory on cubical complexes; instead we use Gromov's graphical small cancellation theory.

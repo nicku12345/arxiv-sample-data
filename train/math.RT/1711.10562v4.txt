@@ -1,0 +1,1 @@
+For all the irreducible dual pairs of type I (G,G'), we analyze the restriction of the oscillator representation as a (\mathfrak{g}', K')-module, when G' is the smaller group. For all (G,G') in the stable range, as well as one more case, the modules obtained are projective. We use the duality correspondence introduced by Howe to analyze these restrictions.

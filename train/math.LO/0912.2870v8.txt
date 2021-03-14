@@ -1,0 +1,1 @@
+This paper examines the metatheory of the formalist account of an arbitrary first-order theory. The paper considers whether the metatheory can be expressed (using Tarskian semantics) in a model of a first-order theory that, roughly speaking, contains a proper axiom (schema) corresponding to a set-theoretic axiom (schema) of subsets. The hypothesis is reduced to absurdity.

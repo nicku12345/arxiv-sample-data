@@ -1,0 +1,1 @@
+It is shown that if G is a primitive permutation group on a set of size n, then any nilpotent quotient of G has order at most n^{\beta} and any solvable quotient of G has order at most n^{\alpha+1} where \beta=\log 32/ \log 9 and \alpha=(3 \log (48)+\log (24))/ (3 \cdot \log (9)). This was motivated by a result of Aschbacher and Guralnick

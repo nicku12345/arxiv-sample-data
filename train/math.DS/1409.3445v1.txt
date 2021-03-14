@@ -1,0 +1,1 @@
+Let \cal{F} be a regular codimension 1 holomorphic foliation on a compact K\" ahler manifold. One assumes in addition that \cal{F} possesses a transverse invariant positive current. The aim of this paper is to establish the following alternative: - There exists an invariant hypersurface. - The foliation admits a transverse invariant hermitian metric with constant curvature

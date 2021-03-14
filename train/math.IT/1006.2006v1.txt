@@ -1,0 +1,1 @@
+It is shown that given two copies of a q-ary input channel W, where q is prime, it is possible to create two channels W^- and W^+ whose symmetric capacities satisfy I(W^-)\le I(W)\le I(W^+), where the inequalities are strict except in trivial cases. This leads to a simple proof of channel polarization in the q-ary case.

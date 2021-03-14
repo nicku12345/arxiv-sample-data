@@ -1,0 +1,1 @@
+Let p be a prime larger than 3 and let G be a finite group. We prove that G is p-solvable of p-length at most 2 if there are at most two distinct character degrees relatively prime to p in the principal p-block of G. This generalizes a theorem of Isaacs-Smith, as well as a recent result of three of the present authors.

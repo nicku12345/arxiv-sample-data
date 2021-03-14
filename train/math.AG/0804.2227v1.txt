@@ -1,0 +1,1 @@
+This paper describes how to compute equations of plane models of minimal Du Val double planes of general type with p_g=q=1 and K^2=2,...,8. A double plane with K^2=8 having bicanonical map not composed with the associated involution is also constructed. The computations are done using the algebra system Magma.

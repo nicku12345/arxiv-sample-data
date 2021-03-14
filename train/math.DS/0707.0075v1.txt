@@ -1,0 +1,1 @@
+We prove that a C^{2+\alpha}-smooth orientation-preserving circle diffeomorphism with rotation number in Diophantine class D_\delta, 0<\delta<\alpha\le1, is C^{1+\alpha-\delta}-smoothly conjugate to a rigid rotation. We also derive the most precise version of Denjoy's inequality for such diffeomorphisms.

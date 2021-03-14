@@ -1,0 +1,1 @@
+We use quasi-orders to describe the structure of C-groups. We do this by associating a quasi-order to each compatible C-relation of a group, and then give the structure of such quasi-ordered groups. We also reformulate in terms of quasi-orders some results concerning C-minimal groups given by Macpherson and Steinhorn.

@@ -1,0 +1,1 @@
+We explain how a version of Floer homology can be used as an invariant of symplectic manifolds with b_1>0. As a concrete example, we look at four-manifolds produced from braids by a surgery construction. The outcome shows that the invariant is nontrivial; however, it is an open question whether it is stronger than the known ones.

@@ -1,0 +1,1 @@
+Every finite dimensional Hopf algebra is a Frobenius algebra, with Frobenius homomorphism given by an integral. The Nakayama automorphism determined by it yields a decomposition with degrees in a cyclic group. For a family of pointed Hopf algebras, we determine necessary and sufficient conditions for this decomposition to be strongly graded.

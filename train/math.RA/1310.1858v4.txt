@@ -1,0 +1,1 @@
+In this paper we present a solution for any standard quaternion quadratic equation, i.e. an equation of the form z^2+\mu z+\nu=0 where \mu and \nu belong to some quaternion division algebra Q over some field F, assuming the characteristic of F is 2.

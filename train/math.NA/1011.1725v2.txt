@@ -1,0 +1,1 @@
+It is proved that among the rational iterations locally converging with order s>1 to the sign function, the Pad\'e iterations and their reciprocals are the unique rationals with the lowest sum of the degrees of numerator and denominator.

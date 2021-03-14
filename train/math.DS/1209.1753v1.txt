@@ -1,0 +1,1 @@
+The "multicorn" is the connectedness locus of unicritical antiholomorphic polynomials z\mapsto \bar r{z}^d+c; the special case d=2 was named "tricorn" by Milnor. It appears as a natural local configuration in spaces of real cubic polynomials. We prove that no multicorn for d\ge 2 is pathwise connected, confirming a classical prediction based on numerical observations.

@@ -1,0 +1,1 @@
+In this paper we study some optimization problems for nonlinear elastic membranes. More precisely, we consider the problem of optimizing the cost functional \J(u)=\int_{\partial\Omega} f(x) u \rd \H^{N-1} over some admissible class of loads f where u is the (unique) solution to the problem -\Delta_p u + |u|^{p-2}u = 0 in \Omega with |\nabla u|^{p-2}u_\nu = f on \partial \Omega.

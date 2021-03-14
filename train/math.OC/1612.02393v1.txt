@@ -1,0 +1,1 @@
+We review in a unified way results for two types of stochastic chemical reaction systems for which moments can be effectively computed: feedforward networks and complex-balanced networks.

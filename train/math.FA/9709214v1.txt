@@ -1,0 +1,1 @@
+We show that Rudin-Plotkin isometry extension theorem in L_p implies that when X and Y are isometric subspaces of L_p and p is not an even integer, 1 \leq p < \infty, then X is complemented in L_p if and only if Y is; moreover the constants of complementation of X and Y are equal. We provide examples demonstrating that this fact fails when p is an even integer larger than 2.

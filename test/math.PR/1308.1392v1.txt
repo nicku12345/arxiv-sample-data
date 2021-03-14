@@ -1,0 +1,1 @@
+We provide a disintegration theorem for the Gaussian Radon transform Gf on Banach spaces and use the Segal-Bargmann transform on abstract Wiener spaces to find a procedure to obtain f from its Gaussian Radon transform Gf.

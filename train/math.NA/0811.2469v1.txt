@@ -1,0 +1,1 @@
+We construct a family of two new optimized explicit Runge-Kutta methods with zero phase-lag and derivatives for the numerical solution of the time-independent radial Schr\"odinger equation and related ordinary differential equations with oscillating solutions. The numerical results show the superiority of the new technique of nullifying both the phase-lag and its derivatives.

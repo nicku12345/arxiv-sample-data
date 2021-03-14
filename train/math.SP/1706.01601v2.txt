@@ -1,0 +1,1 @@
+We study the relationship between the geometry of smoothly bounded domains in complete Riemannian manifolds and the associated sequence of L^1-norms of exit time moments for Brownian motion. We establish bounds for Dirichlet eigenvalues and, for closed manifolds, we establish a comparison result for elements of the moment sequence.

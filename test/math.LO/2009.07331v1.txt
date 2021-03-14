@@ -1,0 +1,1 @@
+We study H-structures associated to SU-rank one measurable structures. We prove that the SU-rank of the expansion is continuous and that it is uniformly definable in terms of the parameters of the formulas. We also introduce notions of dimension and measure for definable sets in the expansion and prove they are uniformly definable in terms of the parameters of the formulas.

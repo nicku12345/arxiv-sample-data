@@ -1,0 +1,1 @@
+We determine the commutative Schur rings over S_6 that contain the sum of all the transpositions in S_6. There are eight such types (up to conjugacy), of which four have the set of all the transpositions as a principal set of the Schur ring.

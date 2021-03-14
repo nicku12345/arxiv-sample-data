@@ -1,0 +1,1 @@
+We define Euler characteristics on classes of residually finite and virtually torsion free groups and we show that they satisfy certain formulas in the case of amalgamated free products and HNN extensions over finite subgroups. These forumlas are obtained from a general result which applies to the rank gradient and the first L^2-Betti number of a finitely generated group.

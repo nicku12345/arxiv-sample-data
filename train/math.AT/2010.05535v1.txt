@@ -1,0 +1,1 @@
+A topological spherical space form is the quotient of a sphere by a free action of a finite group. In general, their homotopy types depend on specific actions of a group. We show that the monoid of homotopy classes of self-maps of a topological spherical space form is determined by the acting group and the dimension of the sphere, not depending on a specific action.

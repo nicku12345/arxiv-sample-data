@@ -1,0 +1,1 @@
+Let R be a commutative ring and \Gamma(R) denote its zero-divisor graph. In this paper, we investigate the genus number of the compact Riemann surface which \Gamma(R) can be embedded and illustrate all finite commutative rings R (up to isomorphism) such that \Gamma(R) is either toroidal or planar.

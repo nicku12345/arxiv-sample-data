@@ -1,0 +1,1 @@
+We give a new proof of the equivalence between two of the main models for (\infty,n)-categories, namely the n-fold Segal spaces of Barwick and the \Theta_{n}-spaces of Rezk, by proving that these are algebras for the same monad on the \infty-category of n-globular spaces. The proof works for a broad class of \infty-categories that includes all \infty-topoi.

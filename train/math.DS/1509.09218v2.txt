@@ -1,0 +1,1 @@
+We establish pointwise ergodic theorems for a large class of natural averages on simple Lie groups of real-rank-one, going well beyond the radial case considered previously. The proof is based on a new approach to pointwise ergodic theorems, which is independent of spectral theory. Instead, the main new ingredient is the use of direct geometric arguments in hyperbolic space.

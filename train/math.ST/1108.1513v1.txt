@@ -1,0 +1,1 @@
+he starting process with countable number of types \mu(t) generates a stopped branching process \xi(t). The starting process stops, by falling into the nonempty set S. It is assumed, that the starting process is subcritical, indecomposable and noncyclic. It is proved, that the extinction probability converges to the cyclic function with period 1.

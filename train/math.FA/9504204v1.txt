@@ -1,0 +1,1 @@
+We prove that for every closed locally convex subspace E of L_0 and for any continuous linear operator T from L_0 to L_0/E there is a continuous linear operator S from L_0 to L_0 such that T = QS where Q is the quotient map from L_0 to L_0/E.

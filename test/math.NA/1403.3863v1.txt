@@ -1,0 +1,1 @@
+We propose a regularization method to solve a nonlinear ill-posed problem connected to inversion of data gathered by a ground conductivity meter.

@@ -1,0 +1,1 @@
+In this note we compute the topological Hochschild homology of quotients of DVRs. Along the way we give a short argument for B\"okstedt periodicity and generalizations over various other bases. Our strategy also gives a very efficient way to redo the computations of THH (resp. logarithmic THH) of complete DVRs originally due to Lindenstrauss-Madsen (resp. Hesselholt-Madsen).

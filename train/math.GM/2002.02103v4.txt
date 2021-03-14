@@ -1,0 +1,1 @@
+Let G be a Frobenius group with the Frobenius kernel N. Applying character theory, G. Frobenius proved that N was a normal subgroup of G in the year 1901. This is a celebrated application of the character theory of finite groups. In this note, we give a character-free proof of the result, which is a well-known problem in the theory of finite groups.

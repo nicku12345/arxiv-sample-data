@@ -1,0 +1,1 @@
+We present a recursive algorithm computing all the genus-zero Gromov-Witten invariants from a finite number of initial ones, for Fano varieties with generically tame semi-simple quantum (and small quantum) (p, p)- type cohomology, whose first Chern class is a strictly positive combination of effective integral basic divisors.

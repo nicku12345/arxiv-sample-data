@@ -1,0 +1,1 @@
+We consider a mixed stochastic differential equation involving both standard Brownian motion and fractional Brownian motion with Hurst parameter H>1/2. The mean-square rate of convergence of Euler approximations of solution to this equation is obtained.

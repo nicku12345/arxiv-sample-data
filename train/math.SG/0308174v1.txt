@@ -1,0 +1,1 @@
+Let M be a compact manifold with an effective semi-free circle action whose fixed point set has trivial normal bundle. We prove that its cotangent bundle endowed with the canonical symplectic form has bounded Hofer-Zehnder sensitive capacity. We give several examples like the product of any compact manifold with \S^n or a connected sum \CP^n # ... # \CP^n.

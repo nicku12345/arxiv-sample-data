@@ -1,0 +1,1 @@
+The goal of this paper is to give a simple proof of Deligne's conjecture (proven by Fujiwara) and to generalize it to the situation appearing in our joint project with David Kazhdan on the global Langlands correspondence over function fields. Our proof holds in the realm of ordinary algebraic geometry and does not use rigid geometry.

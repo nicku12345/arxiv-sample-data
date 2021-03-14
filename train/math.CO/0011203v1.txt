@@ -1,0 +1,1 @@
+Using a mixture of linear algebra and statics, we derive what can be viewed as a slight generalization of the Coppersmith-Tetali-Winkler Identity H(i,j)+H(j,k)+H(k,i)=H(j,i)+H(k,j)+H(i,k) for hitting times of a random walk.

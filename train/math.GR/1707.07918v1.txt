@@ -1,0 +1,1 @@
+Given a group G with bounded torsion that acts properly on a systolic complex, we show that every solvable subgroup of G is finitely generated and virtually abelian of rank at most 2. In particular this gives a new proof of the above theorem for systolic groups. The main tools used in the proof are the Product Decomposition Theorem and the Flat Torus Theorem.

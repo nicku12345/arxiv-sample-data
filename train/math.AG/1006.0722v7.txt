@@ -1,0 +1,1 @@
+We compute the Kodaira dimension of the universal Picard variety P_{d,g} parameterizing line bundles of degree d on curves of genus g under the assumption that (d-g+1,2g-2)=1. We also give partial results for arbitrary degrees d and we investigate for which degrees the universal Picard varieties are birational.

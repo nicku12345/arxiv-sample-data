@@ -1,0 +1,1 @@
+Given a non-negative integer k, we construct a lattice 3-simplex P with the following property: The affine semigroup Q_P associated to P is not normal, and every element q \in \sat{Q}_P \setminus Q_P has lattice distance at least k above every facet of Q_P.

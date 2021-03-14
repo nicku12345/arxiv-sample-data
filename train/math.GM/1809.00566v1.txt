@@ -1,0 +1,1 @@
+We study odd numbers through a straightforward indexing. We focus in particular on odd prime and composite numbers and their distribution. With a counting argument, we calculate the limit of two sums and compare their convergence rate.

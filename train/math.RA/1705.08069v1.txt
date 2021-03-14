@@ -1,0 +1,1 @@
+By applying a Gr\"{o}bner-Shirshov basis of the symmetric group S_{n}, we give two formulas for Schubert polynomials, either of which involves only nonnegative monomials. We also prove some combinatorial properties of Schubert polynomials. As applications, we give two algorithms to calculate the structure constants for Schubert polynomials, one of which depends on Monk's formula.

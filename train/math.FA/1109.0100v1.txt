@@ -1,0 +1,1 @@
+Let L=-\Delta+V be a Schr\"{o}dinger operator, where \Delta  is the Laplacian operator on \rz, while the nonnegative potential V belongs to certain reverse H\"{o}lder class. In this paper, we establish some weighted norm inequalities for commutators of Littlewood-Paley functions related to Schr\"odinger operators.

@@ -1,0 +1,1 @@
+This paper compares the definitions of finite-type invariants due to Ohtsuki and to Garoufalidis, showing that, residually, type 3m of the former equals type m of the latter. It also shows that type 2m Ohtsuki invariants define knot invariants of type 3m (first proved by Habegger).

@@ -1,0 +1,1 @@
+Let G_n be the random graph on [n]= {1, ...,n} with the possible edge {i,j} having probability being p_{|i-j|}= 1/|i-j|^alpha, alpha in (0,1) irrational. We prove that the zero one law (for first order logic) holds. The paper is continued in [Sh:517]

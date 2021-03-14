@@ -1,0 +1,1 @@
+Necessary and sufficient conditions are given for a prime Noetherian algebra K[S] of a submonoid S of a polycyclic-by-finite group G to be a maximal order. These conditions are entirely in terms of the monoid S. This extends earlier results of Brown concerned with the group ring case and of the authors for the case where K[S] satisfies a polynomial identity.

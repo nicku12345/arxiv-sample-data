@@ -1,0 +1,1 @@
+New sufficient conditions for a vector Gaussian interference channel to achieve the sum-rate capacity by treating interference as noise are derived, which generalize the existing results. More concise conditions for multiple-input-single-output, and single-input-multiple-output scenarios are obtained.

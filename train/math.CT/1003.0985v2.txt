@@ -1,0 +1,1 @@
+In this paper we define 3-crossed modules for commutative (Lie) algebras and investigate the relation between this construction and the simplicial algebras. Also we define the projective 3-crossed resolution for investigate a higher dimensional homological information and show the existence of this resolution for an arbitrary \mathbf{k}-algebra.

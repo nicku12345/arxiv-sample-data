@@ -1,0 +1,1 @@
+The paper is focused on the problem of estimating the probability p of individual contaminated sample, under group testing. The precision of the estimator is given by the probability of proportional closeness, a concept defined in the Introduction. Two-stage and sequential sampling procedures are characterized. An adaptive procedure is examined.

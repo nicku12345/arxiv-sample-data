@@ -1,0 +1,1 @@
+We present definitions of homology groups associated to a family of amalgamation functors. We show that if the generalized amalgamation properties hold, then the homology groups are trivial. We compute the group H_2 for strong types in stable theories and show that in this context, the class of possible groups H_2 is precisely the profinite abelian groups.

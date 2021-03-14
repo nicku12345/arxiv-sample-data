@@ -1,0 +1,1 @@
+Building on work of Baldwin and Beaudoin, assuming Martin's Axiom, we construct a zero-dimensional separable metrizable space X such that X is countable dense homogeneous while X^2 is not. It follows from results of Hru\v{s}\'ak and Zamora Avil\'es that such a space X cannot be Borel. Furthermore, X can be made homogeneous and completely Baire as well.

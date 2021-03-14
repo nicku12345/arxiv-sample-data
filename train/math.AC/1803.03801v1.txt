@@ -1,0 +1,1 @@
+We classify all convex polyomino whose coordinate rings are Gorenstein. We also compute the Castelnuovo-Mumford regularity of the coordinate ring of any stack polyomino in terms of the smallest interval which contains its vertices. We give a recursive formula for computing the multiplicity of a stack polyomino.

@@ -1,0 +1,1 @@
+We give an Euler Maclaurin formula with remainder for the sum of the values of a smooth function on the integral points in a simple integral polytope. This formula is proved by elementary methods.

@@ -1,0 +1,1 @@
+We describe the closed, densely defined linear transformations commuting with a given operator T of class C_0 in terms of bounded operators in {T}'. Our results extend those of Sarason for operators with defect index 1, and Martin in the case of arbitrary finite index.

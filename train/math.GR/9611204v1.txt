@@ -1,0 +1,1 @@
+Let L be a free Lie algebra over a field k, I a non-trivial proper ideal of L, n>1 an integer. The multiplicator H_2(L/I^n,k) of L/I^n is not finitely generated, and so in particular, L/I^n is not finitely presented, even when L/I is finite dimensional.

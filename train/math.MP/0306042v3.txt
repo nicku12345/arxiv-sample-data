@@ -1,0 +1,1 @@
+We prove the existence of the Bogoliubov S(g) operator for the (:\phi^4:)_2 quantum field theory for coupling functions g of compact support in space and time. The construction is nonperturbative and relies on a theorem of Kisy\'nski. It implies almost automatically the properties of unitarity and causality for disjoint supports in the time variable.

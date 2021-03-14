@@ -1,0 +1,1 @@
+By substituting the diagonal and the other two adjacent diagonals terms with two different functions depending on two parameters of the discrete Laplacian operator, the nature of its spectrum changes from being purely continuous to partially continuous. We present the existence of three isolated eigenvalues by altering those two parameters.

@@ -1,0 +1,1 @@
+We give several criteria for a ring to be a UFD including generalizations of some criteria due to P. Samuel. These criteria are applied to construct, for any field k, (1) a Z-graded non-noetherian rational UFD of dimension three over k, and (2) k-affine rational UFDs defined by trinomial relations.

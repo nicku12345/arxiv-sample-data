@@ -1,0 +1,1 @@
+We construct frames adapted to a given cover of the time-frequency or time-scale plane. The main feature is that we allow for quite general and possibly irregular covers. The frame members are obtained by maximizing their concentration in the respective regions of phase-space. We present applications in time-frequency, wavelet and Gabor analysis.

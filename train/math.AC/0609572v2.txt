@@ -1,0 +1,1 @@
+We prove conditions for equality between the extreme eigenvalues of a matrix and its quotient. In particular, we give a lower bound on the largest singular value of a matrix and generalize a result of Finck and Grohmann about the largest eigenvalue of a graph.

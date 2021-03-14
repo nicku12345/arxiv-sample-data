@@ -1,0 +1,1 @@
+The syntax of an imperative language does not mention explicitly the state, while its denotational semantics has to mention it. In this paper we show that the equational proofs about an imperative language may hide the state, in the same way as the syntax does.

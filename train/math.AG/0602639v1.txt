@@ -1,0 +1,1 @@
+Mondromy and deformation-and-specialization arguments are used to produce a pencil of Enriques surfaces with no section and index one. The same technique completes the proof that the witness curves in "Rational connectivity ..." depend on the relative dimension.

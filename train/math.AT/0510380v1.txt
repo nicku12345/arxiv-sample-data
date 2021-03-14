@@ -1,0 +1,1 @@
+We show that a minimal triangulation of the associahedron (Stasheff polytope) of dimension n is made of (n+1)^{n-1} simplices. We construct a natural bijection with the set of parking functions from a new interpretation of parking functions in terms of shuffles.

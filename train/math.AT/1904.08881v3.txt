@@ -1,0 +1,1 @@
+We present an abstract version of Goerss-Hopkins theory in the setting of a prestable \infty-category equipped with a suitable periodicity operator. In the case of the \infty-category of synthetic spectra, this yields obstructions to realizing a comodule algebra as a homology of a commutative ring spectrum, recovering the results of Goerss and Hopkins.

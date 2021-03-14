@@ -1,0 +1,1 @@
+Let K be an algebraically closed field. We prove that a polynomial K-derivation D in two variables is locally nilpotent if and only if the subgroup of polynomial K-automorphisms which commute with D admits elements whose degree is arbitrary big.

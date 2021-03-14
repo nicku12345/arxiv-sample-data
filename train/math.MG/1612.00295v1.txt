@@ -1,0 +1,1 @@
+Let n\ge2 and let \Phi\colon\mathbb{R}^n\to[0,\infty) be a positively 1-homogeneous and convex function. Given two convex bodies A\subset B in \mathbb{R}^n, the monotonicity of anisotropic \Phi-perimeters holds, i.e. P_\Phi(A)\le P_\Phi(B). In this note, we prove a quantitative lower bound on the difference of the \Phi-perimeters of A and B in terms of their Hausdorff distance.

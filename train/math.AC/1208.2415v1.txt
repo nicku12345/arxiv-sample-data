@@ -1,0 +1,1 @@
+We show that the Castelnuovo-Mumford regularity of the binomial edge ideal of a graph is bounded below by the length of its longest induced path and bounded above by the number of its vertices.

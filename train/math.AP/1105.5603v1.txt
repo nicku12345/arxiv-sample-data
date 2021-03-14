@@ -1,0 +1,1 @@
+In this paper, we consider the overdetermined problem for fully non linear singular or degenerate elliptic operators in bounded smooth domains with both Dirichlet and Neumann condition, as in the classical result of Serrin we prove that the existence of nontrivial constant sign solution imply that the domain is a ball.

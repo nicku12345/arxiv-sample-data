@@ -1,0 +1,1 @@
+We define and characterize the Krein space numerical range W(A) and the Krein space co-numerical range W_{\rm co}(A) of a non-negative operator A in a Krein space. It is shown that the non-zero spectrum of A is contained in the closure of W(A)\cap W_{\rm co}(A).

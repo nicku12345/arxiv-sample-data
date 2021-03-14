@@ -1,0 +1,1 @@
+We give a new method of computation of the degree of the third secant variety of a smooth curve C in P^(d-2) of genus 2 and degree d>=8, using the presentation of the third secant variety as the union of all scrolls that are defined via a g^1_3 on C.

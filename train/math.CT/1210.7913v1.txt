@@ -1,0 +1,1 @@
+We demonstrate that an equivalence of categories using \varepsilon-interleavings as a fundamental component exists between the model of persistence modules as graded modules over a polynomial ring and the model of persistence modules as modules over the total order of the real numbers.

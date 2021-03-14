@@ -1,0 +1,1 @@
+The tropical convex hull of a finite set of points in tropical projective space has a natural structure of a cellular free resolution. Therefore, methods from computational commutative algebra can be used to compute tropical convex hulls. Tropical cyclic polytopes are also presented.

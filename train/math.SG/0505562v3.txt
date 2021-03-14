@@ -1,0 +1,1 @@
+In this note we prove that a positive multiple of each even-dimensional integral homology class of a compact symplectic manifold (M^{2n}, \omega) can be represented as the difference of the fundamental classes of two symplectic submanifolds in (M^{2n}, \omega). We also discuss the realizability of integral homology classes by symplectic surfaces in (M^{2n}, \omega).

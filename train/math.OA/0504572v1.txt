@@ -1,0 +1,1 @@
+A real n-by-n idempotent matrix A with all entries having the same absolute value is called {\it absolutely flat}. We consider the possible ranks of such matrices and herein characterize the triples: size, constant, and rank for which such a matrix exists. Possible inequivalent examples of such matrices are also discussed.

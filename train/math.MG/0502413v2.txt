@@ -1,0 +1,1 @@
+A polytope in the hyperbolic space \H^n is called an {\it ideal polytope} if all its vertices belong to the boundary of \H^n. We prove that no simple ideal Coxeter polytope exist in \H^n for n>8.

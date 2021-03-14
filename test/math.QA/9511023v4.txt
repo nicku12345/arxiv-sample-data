@@ -1,0 +1,1 @@
+We show that a quantum super matrix in standard format is invertible if and only if its block matrices of even entries are invertible. We prove the q-analog of the well-known formula for the Berezinian.

@@ -1,0 +1,1 @@
+We solve the part of the Donaldson-Thomas theory of Calabi-Yau threefolds which comes from super-rigid rational curves. As an application, we prove a version of the conjectural Gromov-Witten/Donaldson-Thomas correspondence for contributions from super-rigid rational curves. In particular, we prove the full GW/DT correspondence for the quintic threefold in degrees one and two.

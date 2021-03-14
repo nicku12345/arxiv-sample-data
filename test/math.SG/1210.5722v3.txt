@@ -1,0 +1,1 @@
+We define a coalgebra structure for open strings transverse to any framed codimension 2 submanifold. When the submanifold is a knot in R^3, we show this structure recovers a specialization of the Ng cord algebra, a non-trivial knot invariant which is not determined by a number of other knot invariants.

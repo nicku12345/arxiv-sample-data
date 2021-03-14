@@ -1,0 +1,1 @@
+We discuss positivity properties of `distinguished propagators', i.e. distinguished inverses of operators that frequently occur in scattering theory and wave propagation. We relate this to the work of Duistermaat and H\"ormander on distinguished parametrices (approximate inverses), which has played a major role in quantum field theory on curved spacetimes recently.

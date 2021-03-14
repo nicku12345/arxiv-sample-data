@@ -1,0 +1,1 @@
+Our aim is to investigate the properties of existence and uniqueness of greedy bases in Banach spaces. We show the non-existence of greedy basis in some Nakano spaces and Orlicz sequence spaces and produce the first-known examples of non-trivial spaces (i.e., different from c_0, \ell_1, and \ell_2) with a unique greedy basis.

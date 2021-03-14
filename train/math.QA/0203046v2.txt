@@ -1,0 +1,1 @@
+We present a family of analogs of the Hall-Littlewood symmetric functions in the Q-function algebra. The change of basis coefficients between this family and Schur's Q-functions are q-analogs of numbers of marked shifted tableaux. These coefficients exhibit many parallel properties to the Kostka-Foulkes polynomials.

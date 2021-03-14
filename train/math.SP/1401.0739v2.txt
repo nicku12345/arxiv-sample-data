@@ -1,0 +1,1 @@
+The class of Riemannian orbifolds of dimension n defined by a lower bound on the sectional curvature and the volume and an upper bound on the diameter has only finitely many members up to orbifold homeomorphism. Furthermore, any class of isospectral Riemannian orbifolds with a lower bound on the sectional curvature is finite up to orbifold homeomorphism.

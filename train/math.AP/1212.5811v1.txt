@@ -1,0 +1,1 @@
+In this work we want to prove the existence of solution for a class of fractional Hamiltonian systems given by {eqnarray*}_{t}D_{\infty}^{\alpha}(_{-\infty}D_{t}^{\alpha}u(t)) + L(t)u(t) = & \nabla W(t,u(t)) u\in H^{\alpha}(\mathbb{R}, \mathbb{R}^{N}) {eqnarray*}

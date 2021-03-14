@@ -1,0 +1,1 @@
+This note is a corrigendum to the previous version arXiv:0711.2735v3 published in J. Lie Theory. As it has been recently pointed out to me by Alexander Premet, Remark 3 of arXiv:0711.2735v3 is incorrect. We verify in this note thanks to recent results of Premet and Topley (see arXiv:1301.4653) that Theorem 25 of arXiv:0711.2735v3 remains correct in spite of this error.

@@ -1,0 +1,1 @@
+We describe a combinatorial model for the complement of a complexified toric arrangement by using nerves of acyclic categories. This generalizes recent work of Moci and Settepanella on thick toric arrangements. Moreover, we compute its fundamental group by finding a (finite) presentation.

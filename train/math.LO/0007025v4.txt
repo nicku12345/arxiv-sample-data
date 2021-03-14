@@ -1,0 +1,1 @@
+We indicate that an argument of da Costa and Doria in fact proves P=NP. This observation makes their argument appear dubious. We isolate a weak version of one of their lemmas which would already prove P=NP. We point out that even this weak version is probably false. In fact, a generalized form of this weak version is provably false.

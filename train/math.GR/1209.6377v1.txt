@@ -1,0 +1,1 @@
+We show that every element of PSL(2,q) is a commutator of elements of coprime orders. This is proved by showing first that in PSL(2,q) any two involutions are conjugate by an element of odd order.

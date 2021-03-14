@@ -1,0 +1,1 @@
+We characterize the category of monads on Set and the category of Lawvere theories that are equivalent to the category of regular equational theories.

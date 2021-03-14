@@ -1,0 +1,1 @@
+This sequel to Derived Langlands II studies some PSH algebras and their numerical invariants, which generalise the epsilon factors of the local Langlands Programme. It also describes a conjectural Hopf algebra structure on the sum of the hyperHecke algebras of products of the general linear groups over a p-adic local field or a finite field.

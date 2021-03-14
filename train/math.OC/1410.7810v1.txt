@@ -1,0 +1,1 @@
+In this paper, some deficiencies of a method proposed by Burdet and Johnson in 1977 for solving integer programming problems are discussed. Examples where the algorithm fails to solve the IP and ways to fix these errors are given.

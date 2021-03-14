@@ -1,0 +1,1 @@
+We show that any finite-variance, isotropic random field on a compact group is necessarily mean-square continuous, under standard measurability assumptions. The result extends to isotropic random fields defined on homogeneous spaces where the group acts continuously.

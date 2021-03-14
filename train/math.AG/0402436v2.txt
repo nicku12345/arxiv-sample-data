@@ -1,0 +1,1 @@
+Let X be a generic curve of genus g defined over an algebraically closed field k of characteristic p\geq 0. We show that for n sufficiently large there exists a tame rational map f:X\to \PP^1_k with monodromy group A_n. This generalizes a result of Magaard--V\"olklein to positive characteristic.

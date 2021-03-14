@@ -1,0 +1,1 @@
+A classical conjecture in transformation group theory states that if G=(\bbZ/p)^r acts freely on a product of k spheres S^{n_1} \times ... \times S^{n_k}, then r\leq k. We prove this conjecture in the case where the average of the dimensions {n_i} is large compared to the differences |n_i-n_j| between the dimensions.

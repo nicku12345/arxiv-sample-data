@@ -1,0 +1,1 @@
+Let k_r(n,m) denote the minimum number of r-cliques in graphs with n vertices and m edges. For r=3,4 we give a lower bound on k_r(n,m) that approximates k_r(n,m) with an error smaller than n^r/(n^2-2m). The solution is based on a constraint minimization of certain multilinear forms. In our proof, a combinatorial strategy is coupled with extensive analytical arguments.

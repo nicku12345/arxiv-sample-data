@@ -1,0 +1,1 @@
+The eigenvalues of the elliptic N-body Ruijsenaars operator are obtained by a dynamical version of the algebraic nested Bethe ansatz method. We use a result of Felder and Varchenko, who showed how to obtain the Ruijsenaars operator as the transfer matrix of a particular representation of the elliptic quantum group associated to gl(N).

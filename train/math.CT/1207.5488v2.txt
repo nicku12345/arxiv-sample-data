@@ -1,0 +1,1 @@
+We study a type of connection forms, given by Chen integrals, over pathspaces by placing such forms within a category-theoretic framework of principal bundles and connections. We introduce a notion of 'decorated' principal bundles, develop parallel transport on such bundles, and explore specific examples in the context of pathspaces.

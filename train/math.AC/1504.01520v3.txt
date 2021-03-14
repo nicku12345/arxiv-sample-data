@@ -1,0 +1,1 @@
+For a pair (P,Q) of finite posets the generators of the ideal L(P,Q) correspond bijectively to the isotone maps from P to Q. In this note we determine all pairs (P,Q) for which the Alexander dual of L(P,Q) coincides with L(Q,P), up to a switch of the indices.

@@ -1,0 +1,1 @@
+We prove that solutions u of the equation f=u-u\circ T are automatically Holder continuous when f is Holder continuous, and T is non uniformly expanding and Markov. This result applies in particular to Young towers and to intermittent maps.

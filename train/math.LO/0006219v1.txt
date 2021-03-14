@@ -1,0 +1,1 @@
+We show that, consistently, for some regular cardinals theta<lambda, there exists a Boolean algebra B such that B=lambda^+ and for every subalgebra B' of B of size lambda^+ we have Depth(B')=theta.

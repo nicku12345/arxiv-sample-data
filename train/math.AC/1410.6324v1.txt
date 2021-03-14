@@ -1,0 +1,1 @@
+For a field \ef, the discrete topological vector spaces over \ \ef are essentially of the form \ef^{\alpha} where \alpha is an ordinal. With additional appropriate properties, they are isomorphic to \ef^{(\beta)} where \beta is again an ordinal. Finally, the categories of the vector spaces of the the first and the second type are equivalent.

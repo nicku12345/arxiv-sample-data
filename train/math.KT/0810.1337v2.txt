@@ -1,0 +1,1 @@
+We prove that the relative K-groups associated with a nilpotent extension of Z/p^N Z-algebras and the bi-relative K-groups associated with a Milnor square of Z/p^N Z-algebras are p-primary torsion groups of bounded exponent. We also show that, in general, the cyclotomic trace map extends from Quillen K-theory to Bass completed non-connective algebraic K-theory.

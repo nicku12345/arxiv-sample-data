@@ -1,0 +1,1 @@
+Let H be a finite dimensional bialgebra. In this paper, we prove that the category of Yetter-Drinfeld-Long bimodules is isomorphic to the Yetter-Drinfeld category over the tensor product bialgebra H\o H^* as monoidal category. Moreover if H is a Hopf algebra with bijective antipode, the isomorphism is braided.

@@ -1,0 +1,1 @@
+We show that for any k-times continuously differentiable function f:[a,\infty)\longrightarrow{\mathbb R}, any integer q\ge 0 and any \alpha>1 the inequality \liminf_{x\to\infty} \frac{x^k \cdot\log x\cdot \log_2 x\cdot\dots\cdot   \log_q x \cdot f^{(k)}(x)}{1+|f(x)|^\alpha}\le 0  holds.

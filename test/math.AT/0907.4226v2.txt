@@ -1,0 +1,1 @@
+We give an alternative proof of Madsen-Weiss' generalized Mumford conjecture. Our proof is based on ideas similar to Madsen-Weiss' original proof, but it is more geometrical and less homotopy theoretical in nature. At the heart of the argument is a geometric version of Harer stability, which we formulate as a theorem about folded maps.

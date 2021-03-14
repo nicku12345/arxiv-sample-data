@@ -1,0 +1,1 @@
+We show that for almost every (with respect to Masur-Veech measure) \omega \in \mathcal{H}(2), the set of angles \theta \in [0, 2\pi) so that e^{i\theta}\omega has non-uniquely ergodic vertical foliation has Hausdorff dimension (and codimension) 1/2.

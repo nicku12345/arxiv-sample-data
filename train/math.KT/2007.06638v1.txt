@@ -1,0 +1,1 @@
+It is proven that Matui's AH~conjecture is true for Katsura--Exel--Pardo groupoids \mathcal{G}_{A,B} associated to integral matrices A and B. This conjecture relates the topological full group of an ample groupoid with the homology groups of the groupoid. We also give a criterion under which the topological full group [[\mathcal{G}_{A,B}]] is finitely generated.

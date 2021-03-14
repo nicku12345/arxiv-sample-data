@@ -1,0 +1,1 @@
+We propose a new more efficient method for the computation of two-sided Gr\"obner bases of ideals and bimodules shifting the problem to the enveloping algebra. Arising from the ideas this method involves, we introduce the notion of two-sided syzygy, which reveals to be useful in the computation of the intersection of bimodules. Further applications are left for a sequel.

@@ -1,0 +1,1 @@
+The intersection growth of a group G is the asymptotic behavior of the index of the intersection of all subgroups of G with index at most n, and measures the Hausdorff dimension of G in profinite metrics. We study intersection growth in free groups and special linear groups and relate intersection growth to quantifying residual finiteness.

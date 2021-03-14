@@ -1,0 +1,1 @@
+In this article, we derive an asymptotic formula for the second moment of S(t) which includes the lower order terms using a prediction from the ratios conjecture of Conrey, Farmer and Zirnbauer. The formula matches very well with actual values of the second moment.

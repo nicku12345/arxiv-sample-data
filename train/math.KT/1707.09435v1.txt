@@ -1,0 +1,1 @@
+We introduce the notion of log motivic triangulated categories, which is the theoretical framework for understanding the motivic aspect of cohomology theories for fs log schemes. Then we study the Grothendieck six operations formalism for log motivic triangulated categories.

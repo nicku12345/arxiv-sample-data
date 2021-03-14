@@ -1,0 +1,1 @@
+Using a new technique involving integration it is possible to find the exact roots of simple functions. In this case, simple functions are defined as smooth functions having an inverse, and that inverse having an antiderivative. This technique now makes it possible to find the exact roots of certain functions without the use of numerical or iterative methods.

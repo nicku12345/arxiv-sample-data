@@ -1,0 +1,1 @@
+This paper deals with a non-self-adjoint differential operator which is associated with a diffusion process with random jumps from the boundary. Our main result is that the algebraic multiplicity of an eigenvalue is equal to its order as a zero of the characteristic function \Delta(\lambda) . This can be used to determine the multiplicities of eigenvalues for concrete operators.

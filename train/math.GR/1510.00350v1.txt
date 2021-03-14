@@ -1,0 +1,1 @@
+In this paper, we study some large scale properties of the mother groups of bounded automata groups. First we give two methods to prove every mother group has infinite asymptotic dimension. Then we study the decomposition complexity of certain subgroup in the mother group. We prove the subgroup belongs to \mathcal{D}_\omega.

@@ -1,0 +1,1 @@
+Let X^k_{m,n}=\Sigma^k (\mathbb R\mathbb P^m/\mathbb R\mathbb P^n). In this note we completely determine the values of k,m,n for which the total Stiefel-Whitney class w(\xi)=1 for any vector bundle \xi over X^k_{m,n}.

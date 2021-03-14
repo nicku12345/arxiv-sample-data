@@ -1,0 +1,1 @@
+For certain one-dimensional Schroedinger-type difference operators with a complex potential, a "complete" set of exponentially decaying eigenvectors is shown to exist. "Completeness" entails that the parameters involved are obtained through evaluation of analytic functions on a Riemann surface.

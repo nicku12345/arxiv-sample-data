@@ -1,0 +1,1 @@
+We prove a Santal\'{o} and a reverse Santal\'{o} inequality for the polarity transform, which was recently re-discovered by Artstein-Avidan and Milman, in the class consisting of (even) log-concave functions attaining their maximal value 1 at the origin, also called geometric log-cancave functions. The bounds are sharp up to the optimal universal constants.

@@ -1,0 +1,1 @@
+The fundamental matrix and the delay Lyapunov matrix of linear delay difference equations are introduced. Some properties of the Lyapunov matrix, and the jump discontinuities of its derivative are proven, leading to its construction in the case of single delay or commensurate delays. An approximation is proposed for the non-commensurate case.

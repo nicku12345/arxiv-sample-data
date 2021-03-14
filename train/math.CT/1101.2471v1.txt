@@ -1,0 +1,1 @@
+In this paper we first define the category of fuzzy hyper BCK- algebras. After that we show that the category of hyper BCK-algebras has equalizers, coequalizers, products. It is a consequence that this category is complete and hence has pullbacks.

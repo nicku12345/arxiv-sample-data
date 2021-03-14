@@ -1,0 +1,1 @@
+The purpose of this short note is to give a proof of the following identity between (logarithmic) Mahler measures m(y^2+2xy+y-x^3-2x^2-x)=5/7*m(y^2+4xy+y-x^3+x^2) which is one of many examples that arise from the comparison of Mahler measures and special values of L-functions.

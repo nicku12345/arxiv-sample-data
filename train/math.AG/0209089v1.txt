@@ -1,0 +1,1 @@
+Let C be a curve of genus g and L a line bundle of degree 2g on C . Let M be the kernel of the evaluation map from the trivial bundle with fibre H^0(C,L) into L . We show that when L is general enough, the rank g bundle M and its exterior powers are stable and admit a reducible theta divisor.

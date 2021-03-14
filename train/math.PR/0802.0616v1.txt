@@ -1,0 +1,1 @@
+In this note, we prove that if g is uniformly continuous in z, uniformly with respect to (\oo,t) and independent of y, the solution to the backward stochastic differential equation (BSDE) with generator g is unique.

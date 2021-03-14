@@ -1,0 +1,1 @@
+In this short note, we give a description of the Parry-Sullivan number of a graph in terms of the cycles in the graph. This tool is occasionally useful in reasoning about the Parry-Sullivan numbers of graphs.

@@ -1,0 +1,1 @@
+This paper studies Ulrich ideals in one-dimensional Cohen-Macaulay local rings. A correspondence between Ulrich ideals and overrings is given. Using the correspondence, chains of Ulrich ideals are closely explored. The specific cases where the rings are of minimal multiplicity and \operatorname{GGL} rings are analyzed.

@@ -1,0 +1,1 @@
+Let S be a closed orientable hyperbolic surface, and let \mathcal{O}(K,S) denote the number of mapping class group orbits of curves on S with at most K self-intersections. Building on work of Sapir [16], we give upper and lower bounds for \mathcal{O}(K,S) which are both exponential in \sqrt{K}.

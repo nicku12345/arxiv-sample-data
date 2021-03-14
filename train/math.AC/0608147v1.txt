@@ -1,0 +1,1 @@
+We propose a heuristic algorithm for fast computation of the Poincar\'{e} series P_n(t) of the invariants of binary forms of degree n, viewed as rational functions. The algorithm is based on certain polynomial identities which remain to be proved rigorously. By using it, we have computed the P_n(t) for n\le30.

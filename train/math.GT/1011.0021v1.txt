@@ -1,0 +1,1 @@
+We show that a pseudo-Anosov map on a boundary component of an irreducible 3-manifold has a power that partially extends to the interior if and only if its (un)stable lamination is a projective limit of meridians. The proof is through 3-dimensional hyperbolic geometry, and involves an investigation of algebraic limits of convex cocompact compression bodies.

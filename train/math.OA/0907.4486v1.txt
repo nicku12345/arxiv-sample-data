@@ -1,0 +1,1 @@
+An operator T \in B(\h) is complex symmetric if there exists a conjugate-linear, isometric involution C:\h\to\h so that T = CT^*C. We provide a concrete description of all complex symmetric partial isometries. In particular, we prove that any partial isometry on a Hilbert space of dimension \leq 4 is complex symmetric.

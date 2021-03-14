@@ -1,0 +1,1 @@
+The main result of this note gives an explicit presentation of the S^1-equivariant cohomology ring of the (n-k,k) Springer variety (in type A) as a quotient of a polynomial ring by an ideal I, in the spirit of the well-known Borel presentation of the cohomology of the flag variety.

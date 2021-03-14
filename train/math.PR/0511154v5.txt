@@ -1,0 +1,1 @@
+The Levy transform of a Brownian motion B is the Brownian motion B't, the integral over (O,t) of sign of Bs with respect to dBs. Call T the corresponding transformation on the Wiener space W. We establish that a.s. the orbit of w in W under T is dense in W for the compact uniform convergence topology.

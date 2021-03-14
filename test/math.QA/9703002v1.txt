@@ -1,0 +1,1 @@
+A classical theorem of Scheunert on G-color Lie algebras, asserts in the case of finitely generated abelian groups, one can twist the algebra structure and the commutation bicharacter on G by a 2-cocycle twist to a super-Lie G graded, algebra. In this paper we show that this can be done for an arbitrary group.

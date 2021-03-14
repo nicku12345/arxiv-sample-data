@@ -1,0 +1,1 @@
+Let n be a natural number. Recall that a C*-algebra is said to be n-subhomogeneous if all its irreducible representations have dimension at most n. In this short note, we give various approximation properties characterising n-subhomogeneous C*-algebras.

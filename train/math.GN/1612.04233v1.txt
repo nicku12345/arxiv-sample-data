@@ -1,0 +1,1 @@
+We provide a very short elementary proof that every bounded separable metric group embeds into a monothetic bounded metric group, in such a way that the result of Morris and Pestov that every separable abelian topological group embeds into a monothetic group is an immediate corollary. We show that the boundedness assumption is essential.

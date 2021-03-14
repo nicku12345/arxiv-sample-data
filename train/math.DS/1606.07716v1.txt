@@ -1,0 +1,1 @@
+We study shadowing property for random infinite pseudotrajectories of a continuous map f of a compact metric space. For the cases of transitive maps and transitive attractors we prove a dichotomy: either f satisfies shadowing property or random pseudotrajectory is shadowable with probability 0.

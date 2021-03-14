@@ -1,0 +1,1 @@
+We sharpen the constant in the KS_2 conjecture of Weaver \cite{We}, which was validated by Marcus, Spielman, and Srivastava \cite{MSS} in their solution of the Kadison--Singer problem. We then apply this result to prove optimal asymptotic bounds on the size of partitions in the Feichtinger conjecture.

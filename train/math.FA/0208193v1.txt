@@ -1,0 +1,1 @@
+It is shown that every component of the spectrum of a weakly hypercyclic operator meets the unit circle. The proof is based on the lemma that a sequence of vectors in a Banach space whose norms grow at geometrical rate doesn't have zero in its weak closure.

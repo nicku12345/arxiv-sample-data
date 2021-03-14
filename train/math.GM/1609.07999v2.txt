@@ -1,0 +1,1 @@
+The Thue-Morse sequence (1, -1, -1, 1, -1, 1, 1, ...) can in a sense be naturally extended to a continuous function f called the Fabius function. It is shown how to determine the exact value of f(x) whenever x is the ratio between a positive integer and a power of 2.

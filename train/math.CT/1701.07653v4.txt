@@ -1,0 +1,1 @@
+We prove that connectors are stable under quotients in any (regular) Goursat category. As a consequence, the category \mathsf{Conn}(\mathbb{C}) of connectors in \mathbb{C} is a Goursat category whenever \mathbb C is. This implies that Goursat categories can be characterised in terms of a simple property of internal groupoids.

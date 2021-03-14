@@ -1,0 +1,1 @@
+We study the operator associated to a random walk on \R^d endowed with a probability measure. We give a precise description of the spectrum of the operator near 1 and use it to estimate the total variation distance between the iterated kernel and its stationary measure. Our study contains the case of Gaussian densities on \R^d.

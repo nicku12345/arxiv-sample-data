@@ -1,0 +1,1 @@
+We consider the Laplacian in a straight strip, subject to a combination of Dirichlet and Neumann boundary conditions. We show that a switch of the respective boundary conditions leads to a Hardy inequality for the Laplacian. As a byproduct of our method, we obtain a simple proof of a theorem of Dittrich and Kriz.

@@ -1,0 +1,1 @@
+We describe a partial order on simplicial complexes motivated by topology. This partial order provides a poset stratification of the product of the Ran space and the nonnegative real numbers, which we interpret as a universal space of simplicial complex filtrations.

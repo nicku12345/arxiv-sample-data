@@ -1,0 +1,1 @@
+We study the 2d-Ising model defined on finite boxes at temperatures that are below but very close from the critical point. When the temperature approaches the critical point and the size of the box grows fast enough, we establish large deviations estimates on FK-percolation events that concern the phenomenon of phase coexistence.

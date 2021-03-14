@@ -1,0 +1,1 @@
+Relying on the main results of [Guralnick-Tiep], we classify all unitary t-groups for t \geq 2 in any dimension d \geq 2. We also show that there is essentially a unique unitary 4-group, which is also a unitary 5-group, but not a unitary t-group for any t \geq 6.

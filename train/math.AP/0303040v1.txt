@@ -1,0 +1,1 @@
+We define a notion of quasi-static evolution for the elliptic approximation of the Mumford-Shah functional proposed by Ambrosio and Tortorelli. Then we prove that this regular evolution converges to a quasi-static growth of brittle fractures in linearly elastic bodies.

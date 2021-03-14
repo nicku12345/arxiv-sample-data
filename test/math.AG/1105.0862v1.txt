@@ -1,0 +1,1 @@
+In this short note we prove a finite generation result for the coordinate ring of certain affine group schemes over a discrete valuation ring. This may be used to simplify the use of results of Prasad and Yu on quasi-reductive groups by Mirkovic and Vilonen in their work on geometric Langlands duality.

@@ -1,0 +1,1 @@
+Given a 3-holed sphere decomposition of an orientable closed surface, it is shown that each orientation preserving homeomorphism of the surface is isotopic to a composition AB where A is a product of positive Dehn twists and B is a product of negative Dehn twists on the decomposition curves.

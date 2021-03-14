@@ -1,0 +1,1 @@
+It is shown that a module is sequentially Cohen-Macaulay if and only if the index of reducibility for distinguished parameter ideals are eventually constant with special value. As corollaries to the main theorem we given to characterize the Gorensteinness, Cohen-Macaulayness of local rings in term of eventually index of reducibility for distinguished parameter ideals.

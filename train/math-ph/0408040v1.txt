@@ -1,0 +1,1 @@
+In a recent paper Andrei N. Soklakov explained the foundations of the Lagrangian formulation of classical particle mechanics by means of Kolmogorov complexity. In the present paper we use some of Soklakov ideas in order to derive the second law of thermodynamics. Our main result is that the complexity of a thermal system corresponds to its entropy.

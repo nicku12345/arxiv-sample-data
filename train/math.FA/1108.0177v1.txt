@@ -1,0 +1,1 @@
+Let \mathcal K be a flag kernel on a homogeneous nilpotent Lie group G. We prove that operators T of the form T(f)= f*\mathcal K form an algebra under composition, and that such operators are bounded on L^{p}(G) for 1<p<\infty.

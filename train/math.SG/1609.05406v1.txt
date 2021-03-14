@@ -1,0 +1,1 @@
+We compute the Picard group of a stable b-symplectic manifold M by introducing a collection of discrete invariants \mathfrak{Gr} which classify M up to Morita equivalence.

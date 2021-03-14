@@ -1,0 +1,1 @@
+In this note we show how to generalize the stochastic calculus method introduced by Comets and Neveu [Comm. Math. Phys. 166 (1995) 549-564] for two models of spin glasses, namely, the SK model with external field and the perceptron model. This method allows to derive quite easily some fluctuation results for the free energy in those two cases.

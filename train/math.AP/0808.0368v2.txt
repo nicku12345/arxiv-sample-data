@@ -1,0 +1,1 @@
+Using the harmonic map heat flow and the function spaces of Tataru and the author, we establish a large data local well-posedness result in the energy class for wave maps from two-dimensional Minkowski space \R^{1+2} to hyperbolic spaces \H^m. This is one of the five claims required in an earlier paper in this series to prove global regularity for such wave maps.

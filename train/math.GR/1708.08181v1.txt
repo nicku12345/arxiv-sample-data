@@ -1,0 +1,1 @@
+In the Kourovka notebook the following question is posed 14.101:   Is it true that a periodic group saturated with finite simple groups of Lie type whose ranks are bounded in the aggregate, is itself a simple group of Lie type?   In this paper we give a partial answer to this question for periodic groups saturated by finite simple groups of Lie type rank 1.

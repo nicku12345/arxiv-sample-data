@@ -1,0 +1,1 @@
+We consider 14 medial-like balanced functional equations with four object variables for a pair (f, g) of binary quasigroup operations. Then, we prove that every algebra (B; f, g) with quasigroup operations satisfying a medial-like balanced functional equation has a linear representation on an abelian group (B; +).

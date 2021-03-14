@@ -1,0 +1,1 @@
+We study the large time behavior of non-negative solutions to the singular diffusion equation with gradient absorption  \partial_t u-\Delta_{p}u+|\nabla u|^q=0 \quad \hbox{in} \ (0,\infty)\times\real^N,  for p_c:=2N/(N+1)

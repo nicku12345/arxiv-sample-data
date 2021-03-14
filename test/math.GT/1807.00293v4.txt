@@ -1,0 +1,1 @@
+If a 2-knot group other than \mathrm{Z}[\frac12]\rtimes\mathbb{Z} is almost coherent and has a torsion-free abelian normal subgroup A of rank 1 which is not finitely generated then A meets nontrivially every subgroup which is not locally free, and A/A\cap\pi'' is finite cyclic, of odd order.

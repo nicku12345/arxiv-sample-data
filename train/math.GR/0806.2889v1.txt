@@ -1,0 +1,1 @@
+We present an effective algorithm for detecting automorphic orbits in free groups, as well as a number of algorithmic improvements of train tracks for free group automorphisms.

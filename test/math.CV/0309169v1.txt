@@ -1,0 +1,1 @@
+We show there exists an L^p solution, for p>2, to the dbar-Neumann problem on an edge domain in C^2 for (0,1)-forms, and we explicitly compute the singularities, which are of complex logarithmic and arctangent type, along the edge, of the solution.

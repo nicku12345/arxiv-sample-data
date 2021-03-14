@@ -1,0 +1,1 @@
+We present in this paper some fundamental tools for developing matrix analysis over the complex quaternion algebra. As applications, we consider generalized inverses, eigenvalues and eigenvectors, similarity, determinants of complex quaternion matrices, and so on.

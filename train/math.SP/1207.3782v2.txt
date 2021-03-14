@@ -1,0 +1,1 @@
+In the present paper, we prove an improved Combes-Thomas estimate, i.e., the Combes-Thomas estimate in trace-class norms, for magnetic Schr\"{o}dinger operators under general assumptions. In particular, we allow unbounded potentials. We also show that for any function in the Schwartz space on the reals the operator kernel decays, in trace-class norms, faster than any polynomial.

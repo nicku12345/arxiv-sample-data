@@ -1,0 +1,1 @@
+In this paper we present a new kind of model for traffic flow which couples a first-order macroscopic approach with a second-order microscopic approach, avoiding any interface or boundary conditions between them. The Euler-Godunov scheme associated to the model is conservative and it is able to reproduce typical traffic phenomena like stop & go waves.

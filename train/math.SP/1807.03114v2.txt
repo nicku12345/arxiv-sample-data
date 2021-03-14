@@ -1,0 +1,1 @@
+This paper is concerned with the estimation of the number of negative eigenvalues (bound states) of Schroedinger operators in a strip subject to Neumann boundary conditions. The estimates involve weighted L^1 norms and L ln L norms of the potential. Estimates involving the norms of the potential supported by a curve embedded in the strip are also presented.

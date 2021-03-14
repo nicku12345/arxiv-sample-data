@@ -1,0 +1,1 @@
+Solecki proved that the group of automorphisms of a countable structure cannot be an uncountable free abelian group. See more in Just, Shelah and Thomas math.LO/0003120 where as a by product we can say something on on uncountable structures. We prove here the following Theorem: If A is a countable model, then Aut(M) cannot be a free uncountable group.

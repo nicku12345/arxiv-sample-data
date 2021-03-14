@@ -1,0 +1,1 @@
+We prove that a refinement of Stark's Conjecture formulated by Rubin is true up to primes dividing the order of the Galois group, for finite, abelian extensions of function fields over finite fields. We also show that in the case of constant field extensions a statement stronger than Rubin's holds true.

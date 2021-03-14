@@ -1,0 +1,1 @@
+If there exists a cyclic quadrilateral whose sides go through the given four collinear points, then there are infinitely many such quadrilaterals inscribed in the same circle. We give two proofs of this porism; one based on cross-ratios, the other on compositions of hyperbolic isometries.

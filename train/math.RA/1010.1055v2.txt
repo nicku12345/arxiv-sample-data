@@ -1,0 +1,1 @@
+We provide a construction of minimal injective resolutions of simple comodules of path coalgebras of quivers with relations. Dual to Calabi-Yau condition of algebras, we introduce the Calabi-Yau condition to coalgebras. Then we give some descriptions of Calabi-Yau coalgebras with lower global dimensions. An appendix is included for listing some properties of cohom functors.

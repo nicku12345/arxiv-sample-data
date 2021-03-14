@@ -1,0 +1,1 @@
+We utilize the Ozsvath-Szabo contact invariant to detect the action of involutions on certain homology spheres that are surgeries on symmetric links, generalizing a previous result of Akbulut and Durusoy. Potentially this may be useful to detect different smooth structures on 4-manifolds by cork twisting operation.

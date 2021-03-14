@@ -1,0 +1,1 @@
+In continuation of work begun in \cite{FR}, we study in this article those Auslander--Reiten components of the algebras \Dist(G_r) that contain simple modules or baby Verma modules, where \Dist(G_r) is the algebra of distributions of the r-th Frobenius kernel of the smooth reductive group G, defined over an algebraically closed field of positive characteristic.

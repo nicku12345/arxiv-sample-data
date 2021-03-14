@@ -1,0 +1,1 @@
+We show that hypergeometric differential equations, unitary and Gauss-Manin connections give rise to de Rham cohomology sheaves which do not admit a Bloch-Ogus resolution. The latter is in contrast to Panin's theorem asserting that corresponding \'etale cohomology sheaves do fulfill Bloch-Ogus theory.

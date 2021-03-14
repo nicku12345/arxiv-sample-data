@@ -1,0 +1,1 @@
+If a convex body C has modular and irreducible face lattice (and is not strictly convex), there is a face-preserving homeomorphism from C to a section of a cone of hermitian matrices or C has dimension 8, 14 or 26.

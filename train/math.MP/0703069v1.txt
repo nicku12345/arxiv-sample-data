@@ -1,0 +1,1 @@
+We discuss dimensional reduction for Hamiltonian systems which possess nonconstant Poisson brackets between pairs of coordinates and between pairs of momenta. The associated Jacobi identities imply that the dimensionally reduced brackets are always constant. Some examples are given alongside the general theory.

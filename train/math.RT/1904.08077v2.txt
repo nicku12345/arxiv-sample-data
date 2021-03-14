@@ -1,0 +1,1 @@
+Let {\bf G} be a connected reductive group defined over \mathbb{F}_q, the finite field with q elements. Let {\bf B} be an Borel subgroup defined over \mathbb{F}_q. In this paper, we completely determine the composition factors of the induced module \mathbb{M}(\op{tr})=\Bbbk{\bf G}\otimes_{\Bbbk{\bf B}}\op{tr} (\op{tr} is the trivial {\bf B}-module) for any field \Bbbk.

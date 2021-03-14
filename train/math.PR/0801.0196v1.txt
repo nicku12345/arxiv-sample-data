@@ -1,0 +1,1 @@
+It is well-known that a random variable, i.e., a function defined on a probability space, with values in a Borel space, can be represented on the special probability space consisting of the unit interval with Lebesgue measure. We show an extension of this to multivariate functions. This is motivated by some recent constructions of random graphs.

@@ -1,0 +1,1 @@
+We provide a generalization of the Schensted insertion algorithm for rc-graphs of Bergeron and Billey. The new algorithm is used to give a new proof of Pieri's formula.

@@ -1,0 +1,1 @@
+In this paper, we describe the structure of finite groups whose element orders or proper (abelian) subgroup orders form an arithmetic progression of ratio r\geq 2. This extends the case r=1 studied in previous papers \cite{1,8,4}.

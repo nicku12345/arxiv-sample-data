@@ -1,0 +1,1 @@
+We develop a theory of universal central extensions for Hom-Lie antialgebra. It is proved that a Hom-Lie antialgebra admits a universal central extension if and only if it is perfect. Moreover, we show that the kernel of the universal central extension is equal to the second homology group with trivial coefficients.

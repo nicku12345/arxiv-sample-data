@@ -1,0 +1,1 @@
+We give characterizations of the skein polynomial for links (as well as Jones and Alexander-Conway polynomials derivable from it), avoiding the usual "smoothing of a crossing" move. As by-products we have characterizations of these polynomials for knots, and for links with any given number of components.

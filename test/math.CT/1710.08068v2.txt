@@ -1,0 +1,1 @@
+Let \mathcal A be a locally noetherian Grothendieck category. In this paper, we study subcategories of \mathcal A using subsets of the spectrum \mathfrak Spec(\mathcal A). Along the way, we also develop results in local algebra with respect to the category \mathcal A that we believe to be of independent interest.

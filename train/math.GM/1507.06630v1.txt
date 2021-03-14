@@ -1,0 +1,1 @@
+A counter-example to lower bounds for the singular values of the sum of two matrices in [1] and [2] is given. Correct forms of the bounds are pointed out.

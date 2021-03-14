@@ -1,0 +1,1 @@
+Let X be a smooth toric variety stratified by the torus action. This paper is a presentation of a description of the category Perv_X of perverse sheaves on X relatively to the fixed stratification. We define a category of representations of a quiver, defined thanks to the fan of X, equivalent to Perv_X.

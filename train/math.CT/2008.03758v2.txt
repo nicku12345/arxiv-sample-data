@@ -1,0 +1,1 @@
+In this short note we prove that two definitions of (co)ends in \infty-categories, via twisted arrow \infty-categories and via \infty-categories of simplices, are equivalent. We also show that weighted (co)limits, which can be defined as certain (co)ends, can alternatively be described as (co)limits over left and right fibrations, respectively.

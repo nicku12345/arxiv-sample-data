@@ -1,0 +1,1 @@
+There is presented an algorithm for computing the topological degree for a large class of polynomial mappings. As an application there is given an effective algebraic formula for the intersection number of a polynomial immersion M --> R^2m, where M is an m-dimensional algebraic manifold.

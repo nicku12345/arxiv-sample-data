@@ -1,0 +1,1 @@
+We present a sufficient condition of existence of asymptotic expansion in negative power series for a function defined by Taylor series and unitary formulas for coefficients of this expansion. An example of computing scheme for arctangent function is represented.

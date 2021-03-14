@@ -1,0 +1,1 @@
+We propose a simple way of testing whether a given set of observations can come from a given theoretical cumulative distribution. In the test more weight is attached to the tails of the distribution than in the usual Kolmogorov or Smirnov tests. The respective probability distribution is derived.

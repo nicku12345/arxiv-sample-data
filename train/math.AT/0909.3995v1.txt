@@ -1,0 +1,1 @@
+We prove a Dold-Kan type correspondence between the category of dendroidal abelian groups and a suitably constructed category of dendroidal complexes. Our result naturally extends the classical Dold-Kan correspondence between the category of simplicial abelian groups and the category of non-negatively graded chain complexes.

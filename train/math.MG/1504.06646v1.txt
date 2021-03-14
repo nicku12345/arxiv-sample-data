@@ -1,0 +1,1 @@
+For every n, we construct a metric measure space that is doubling, satisfies a Poincare inequality in the sense of Heinonen-Koskela, has topological dimension n, and has a measurable tangent bundle of dimension 1.

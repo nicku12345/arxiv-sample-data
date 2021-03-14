@@ -1,0 +1,1 @@
+In this note, we consider the Dirac operator D on a Riemannian symmetric space M of noncompact type. Using representation theory we show that D has point spectrum iff the \hat A-genus of its compact dual does not vanish. In this case, if M is irreducible then M = U(p,q)/U(p) \times U(q) with p+q odd, and Spec_p(D) = \{0\}.

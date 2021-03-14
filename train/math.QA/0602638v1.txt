@@ -1,0 +1,1 @@
+The theory of quantum symmetric pairs as developed by the second author is based on coideal subalgebras of the quantized universal enveloping algebra for a semisimple Lie algebra. This paper investigates the center of these coideal subalgebras, proving that the center is a polynomial ring. A basis of the center is given in terms of a submonoid of the dominant integral weights.

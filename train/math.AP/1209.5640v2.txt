@@ -1,0 +1,1 @@
+We prove that, for general cost functions on \mathbb{R}^n, or for the cost d^2/2 on a Riemannian manifold, optimal transport maps between smooth densities are always smooth outside a closed singular set of measure zero.

@@ -1,0 +1,1 @@
+We consider a new and simpler proof of an inequality of A.S. Gasparyan, which was originally derived in terms of complex algebraical objects --- multidimensional hyperdeterminants. Our proof is much simpler and use only standard technics such as mean inequalities. The main theorem on Gini means is essentially used. Some corollaries and problems are considered.

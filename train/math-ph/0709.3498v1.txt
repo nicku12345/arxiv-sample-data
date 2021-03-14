@@ -1,0 +1,1 @@
+We study the ac-conductivity in linear response theory for the Anderson tight-binding model. We define the electrical ac-conductivity and calculate the linear-response current at zero temperature for arbitrary Fermi energy. In particular, the Fermi energy may lie in a spectral region where extended states are believed to exist.

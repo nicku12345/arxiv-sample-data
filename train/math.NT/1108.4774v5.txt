@@ -1,0 +1,1 @@
+In this paper, for a square-free integer l>1, a even positive integer k and a positive integer N, we give a trace formula of the Hecke operator T(l) on the space S_k^0(N) of all newforms of weight k and level \Gamma_0(N). Moreover, we give a decomposition S_k^0(N)=\oplus_{i|N}S_k^0(N;i) and also give a trace formula of T(l) on S_k^0(N;i).

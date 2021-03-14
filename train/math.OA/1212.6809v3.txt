@@ -1,0 +1,1 @@
+In this paper, we give an example to show that, if u\in C(X)\otimes M_n with \det (u)=1 then the C* exponential length of u (denoted by cel(u)) can not be controlled by \pi. Moreover, in the simple inductive limit C*-algebras, similar examples exist.

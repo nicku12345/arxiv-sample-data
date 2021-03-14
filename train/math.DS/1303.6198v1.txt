@@ -1,0 +1,1 @@
+We introduce and study the Lyapunov numbers -- quantitative measures of the sensitivity of a dynamical system (X,f) given by a compact metric space X and a continuous map f:X \to X. In particular, we prove that for a minimal topologically weakly mixing system all Lyapunov numbers are the same.

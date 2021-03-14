@@ -1,0 +1,1 @@
+In this paper we introduce perfectly supportable semigroups and prove that they are \sigma-discrete in each Hausdorff shift-invariant topology. The class of perfectly supportable semigroups includes each subsemigroup S of the semigroup FRel(X) of finitely supported relations on an infinite set X such that S contains the group FSym(X) of finitely supported permutations of X.

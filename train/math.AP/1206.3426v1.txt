@@ -1,0 +1,1 @@
+We consider the functional J(v) = \int_\Omega [f(|\nabla v|) - v] dx, where \Omega is a bounded domain and f:[0,+\infty)\to \mathbb{R} is a convex function vanishing for s\in [0,\sigma], with \sigma>0. We prove that a minimizer u of J satisfies an equation of the form \min(F(\nabla u, D^2 u), |\nabla u|-\sigma)=0 in the viscosity sense.

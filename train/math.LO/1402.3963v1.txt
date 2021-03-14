@@ -1,0 +1,1 @@
+We explain which Weierstrass elliptic functions are locally definable from other elliptic functions and exponentiation in the context of o-minimal structures. The proofs make use of the predimension method from model theory to exploit functional transcendence theorems in a systematic way.

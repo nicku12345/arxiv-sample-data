@@ -1,0 +1,1 @@
+When searching for Calabi.Yau differential equations, often different formulas for the coefficients give the same differential equation. The coefficients are usually sums (simple, double or triple) of products of binomial coefficients. This results in numerous binomial identities.

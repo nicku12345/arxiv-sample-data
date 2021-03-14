@@ -1,0 +1,1 @@
+We prove a sufficient optimality condition for non-linear optimal control problems with delays in both state and control variables. Our result requires the verification of a Hamilton-Jacobi partial differential equation and is obtained through a transformation that allow us to rewrite a delayed optimal control problem as an equivalent non-delayed one.

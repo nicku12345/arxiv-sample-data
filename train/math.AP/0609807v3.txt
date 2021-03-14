@@ -1,0 +1,1 @@
+Using variational methods, we construct approximate solutions for the Gross-Pitaevski equation which concentrate on circles in \R^3. These solutions will help to show that the L^2 flow is unstable for the usual topology and for the projective distance.

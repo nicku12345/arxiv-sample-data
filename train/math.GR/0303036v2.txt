@@ -1,0 +1,1 @@
+We describe an efficient algorithm to write any element of the alternating group A_n as a product of two n-cycles (in particular, we show that any element of A_n can be so written -- a result of E. A. Bertram). An easy corollary is that every element of A_n is a commutator in the symmetric group S_n.

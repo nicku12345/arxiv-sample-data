@@ -1,0 +1,1 @@
+Given an ideal \mathcal{J} on a complex manifold, Andersson and Wulcan constructed a current R^\mathcal{J} such that the annihilator of R^\mathcal{J} is \mathcal{J}, generalizing the duality theorem for Coleff-Herrera products. We describe a way to generalize this construction to ideals on singular varieties.

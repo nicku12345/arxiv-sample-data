@@ -1,0 +1,1 @@
+We introduce a new minimisation principle for Poisson equation using two variables: the solution and the gradient of the solution. This principle allows us to use any conforming finite element spaces for both variables, where the finite element spaces do not need to satisfy a so-called inf-sup condition. A numerical example demonstrates the superiority of the approach.

@@ -1,0 +1,1 @@
+We obtain a correct generalization of Shokurov's non-vanishing theorem for log canonical pairs. It implies the base point free theorem for log canonical pairs. We also prove the rationality theorem for log canonical pairs. As a corollary, we obtain the cone theorem for log canonical pairs. We do not need Ambro's theory of quasi-log varieties.

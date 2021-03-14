@@ -1,0 +1,1 @@
+It is shown that the Hecke-Kiselman algebra associated to a finite directed graph is an automaton algebra in the sense of Ufnarovskii. Consequently, its Gelfand-Kirillov dimension is an integer if it is finite. As a consequence, it is proved that the Hecke-Kiselman algebra associated to an oriented cycle admits a finite Gr\"obner basis.

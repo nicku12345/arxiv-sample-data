@@ -1,0 +1,1 @@
+Let N_{g,n} denote the nonorientable surface of genus g with n boundary components and M(N_{g,n}) its mapping class group. We obtain an explicit finite presentation of M(N_{g,n}) for n=0,1 and all g such that g+n>3.

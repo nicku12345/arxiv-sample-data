@@ -1,0 +1,1 @@
+In this paper we give a model for equivariant (\infty, 1)-categories. We modify an approach of Shimakawa for equivariant \Gamma-spaces to the setting of simplicial spaces. We then adapt Rezk's Segal and completeness conditions to fit with this setting.

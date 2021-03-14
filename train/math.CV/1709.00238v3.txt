@@ -1,0 +1,1 @@
+We show that the Friedrichs operator exhibits smoothing properties in the L^p scale. In particular we prove that on any smoothly bounded pseudoconvex domain the Friedrichs operator maps A^2(\Omega) to A^p(\Omega) for some p>2.

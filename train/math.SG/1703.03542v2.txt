@@ -1,0 +1,1 @@
+We associate to any integrable Poisson manifold a stack, i.e. a category fibered in groupoids over a site. The site in question has objects Dirac manifolds and morphisms pairs consisting of a smooth map and a closed 2-form. We show that two Poisson manifolds are symplectically Morita equivalent if and only if their associated stacks are isomorphic.

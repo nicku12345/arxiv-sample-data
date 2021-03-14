@@ -1,0 +1,1 @@
+We present a non-commutative version of the cycle lemma of Dvoretsky and Motzkin that applies to free groups and use this result to solve a number of problems involving cyclic reduction in the free group. We also describe an application to random matrices, in particular the fluctuations of Kesten's Law.

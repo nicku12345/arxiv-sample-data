@@ -1,0 +1,1 @@
+We explain how to use computer experiments over finite fields to gain heuristic information about the solution set of polynomial equations in characteristic zero. These are notes of a tutorial I gave at the NATO Advanced Study Institute on Higher-Dimensional Geometry over Finite Fields in G"ottingen 2007.

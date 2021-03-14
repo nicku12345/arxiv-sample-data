@@ -1,0 +1,1 @@
+In this paper we tried to condense the determinant of n square matrix to the determinant of (n - 1) square matrix with the mathematical proof.

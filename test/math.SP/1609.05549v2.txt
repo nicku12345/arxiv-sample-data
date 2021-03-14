@@ -1,0 +1,1 @@
+We apply Gromov's ham sandwich method to get   (1) domain monotonicity (up to a multiplicative constant factor);   (2) reverse domain monotonicity (up to a multiplicative constant factor); and   (3) universal inequalities   for Neumann eigenvalues of the Laplacian on bounded convex domains in a Euclidean space.

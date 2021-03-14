@@ -1,0 +1,1 @@
+We show that the fundamental group of the 3-manifold obtained by \frac{p}{q}-surgery along the (n-2)-twisted (3,3m+2)-torus knot, with n,m \ge 1, is not left-orderable if \frac{p}{q} \ge 2n + 6m-3 and is left-orderable if \frac{p}{q} is sufficiently close to 0.

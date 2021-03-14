@@ -1,0 +1,1 @@
+In an infinite-horizon optimal control problem the stability of the adjoint variable implying the vanishing of the adjoint variable at infinity along optimal solution.

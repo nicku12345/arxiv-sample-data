@@ -1,0 +1,1 @@
+A celebrated theorem of Selberg states that for congruence subgroups of SL(2,Z) there are no exceptional eigenvalues below 3/16. We prove a generalization of Selberg's theorem for infinite index "congruence" subgroups of SL(2,Z). Consequently we obtain sharp upper bounds in the affine linear sieve, where in contrast to \cite{BGS} we use an archimedean norm to order the elements.

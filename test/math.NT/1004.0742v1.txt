@@ -1,0 +1,1 @@
+As an example of relative p-adic Hodge theory, we sketch the construction of the universal admissible filtration of an isocrystal (\phi-module) over the completion of the maximal unramified extension of Q_p, together with the associated universal crystalline local system.

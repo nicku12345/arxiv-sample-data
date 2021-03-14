@@ -1,0 +1,1 @@
+We consider two C^2 Anosov diffeomorphisms in a C^1 neighborhood of a linear hyperbolic automorphism of three dimensional torus with real spectrum. We prove that they are C^1+ conjugate if and only if the differentials of the return maps at corresponding periodic points have the same eigenvalues.

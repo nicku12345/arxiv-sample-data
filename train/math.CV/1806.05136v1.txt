@@ -1,0 +1,1 @@
+For an analytic function f on the unit disk \mathbb{D}=\{z:|z|<1\} satisfying f(0)=0=f'(0)-1, we obtain sufficient conditions so that f satisfies |(zf'(z)/f(z))^2-1|<1. The technique of differential subordination of first or second order is used. The admissibility conditions for lemniscate of Bernoulli are derived and employed in order to prove the main results.

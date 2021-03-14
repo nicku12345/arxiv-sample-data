@@ -1,0 +1,1 @@
+We develop the theory of CW(A)-complexes, which generalizes the classical theory of CW-complexes, keeping the geometric intuition of J.H.C. Whitehead's original theory. We obtain this way generalizations of classical results, such as Whitehead Theorem, which allow a deeper insight in the homotopy properties of these spaces.

@@ -1,0 +1,1 @@
+In this paper we will prove that the vorticity belongs to L^{\infty}(0, T; L^2(R^3)) by means of vorticity-velocity formulation, then the existence of a global smooth solution is obtained for the Cauchy problem of 3D incompressible Navier-Stokes equation.

@@ -1,0 +1,1 @@
+Let C_g be a general curve of genus g>3. Guralnick and others proved that the monodromy group of a cover C_g-> P^1 of degree n is either S_n or A_n. We show that A_n occurs for n>2g. The corresponding result for S_n is classical.

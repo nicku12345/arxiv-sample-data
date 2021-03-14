@@ -1,0 +1,1 @@
+This paper is concerned with finite blow-up solutions of the heat equation with nonlinear boundary conditions. It is known that a rate of blow-up solutions is the same as the self-similar rate for a Sobolev subcritical case. A goal of this paper is to construct a blow-up solution whose blow-up rate is different from the self-similar rate for a Sobolev supercritical case.

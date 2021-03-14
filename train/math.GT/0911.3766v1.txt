@@ -1,0 +1,1 @@
+In this paper, we compute the graph skein algebra of the punctured disk with two holes. Then, we apply the graph skein techniques developed here to establish necessary conditions for a spatial graph to have a symmetry of order p, where p is a prime. The obstruction criteria introduced here extend some results obtained earlier for symmetric spatial graphs.

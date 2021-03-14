@@ -1,0 +1,1 @@
+We give lower bounds for the eigenvalues of the submanifold Dirac operator in terms of intrinsic and extrinsic curvature expressions. We also show that the limiting cases give rise to a class generalizing that of Killing spinors. We conclude by translating these results in terms of intrinsic twisted Dirac operators.

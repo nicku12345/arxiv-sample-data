@@ -1,0 +1,1 @@
+We prove sharp inequalities for the average number of affine diameters through the points of a convex body K in {\mathbb R}^n. These inequalities hold if K is either a polytope or of dimension two. An example shows that the proof given in the latter case does not extend to higher dimensions.

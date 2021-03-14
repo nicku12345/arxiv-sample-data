@@ -1,0 +1,1 @@
+Frenkel-Reshetikhin introduced q-characters of finite dimensional representations of quantum affine algebras. We give a combinatorial algorithm to compute them for all simple modules. Our tool is t-analogue of the q-characters, which is similar to Kazhdan-Lusztig polynomials, and our algorithm has a resemblance with their definition.

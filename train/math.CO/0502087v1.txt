@@ -1,0 +1,1 @@
+We propose a representation of boolean bent functions by bent rectangles, that is, by special matrices with restrictions on rows and columns. Using this representation, we exhibit new classes of bent functions, give an algorithm to construct bent functions, improve a lower bound for the number of bent functions.

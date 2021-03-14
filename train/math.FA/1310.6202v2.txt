@@ -1,0 +1,1 @@
+In this paper we show that from the estimate \sup_{t \geq 0}\|C(t) - \cos(at)I\| <1 we can conclude that C(t) equals \cos(at) I. Here \left(C(t)\right)_{t \geq 0} is a strongly continuous cosine family on a Banach space.

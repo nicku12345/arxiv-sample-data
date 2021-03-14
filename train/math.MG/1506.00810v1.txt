@@ -1,0 +1,1 @@
+Larry Hoehn discovered a remarkable concurrence theorem about pentagrams. Draw cicles through two consecutive vertices and the intersection points of the sides in between, Then the radical axes of each pair of consecutive circles are concurrent or parallel. In this note we prove a generalisation to n-gons.

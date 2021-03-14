@@ -1,0 +1,1 @@
+In this paper, we give a new characterization of generalized Browder's theorem by considering equality between the generalized Drazin-meromorphic Weyl spectrum and the generalized Drazin-meromorphic spectrum. Also, we generalize Cline's formula to the case of generalized Drazin-meromorphic invertibility under the assumption that A^kB^kA^k=A^{k+1} for some positive integer k.

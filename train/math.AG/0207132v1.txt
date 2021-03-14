@@ -1,0 +1,1 @@
+The goal of this paper is to define families of toric varieties and to study their properties. These families are locally trivial fibrations over some base, whose fibres are isomorphic to a fixed complete toric variety. The study is motivated by the occurence of such families in the context of gauged sigma models for toric varieties.

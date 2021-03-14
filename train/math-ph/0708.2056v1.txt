@@ -1,0 +1,1 @@
+We consider a quantum two-particle system on a d-dimensional lattice with interaction and in presence of an IID external potential. We establish Wegner-typer estimates for such a model. The main tool used is Stollmann's lemma.

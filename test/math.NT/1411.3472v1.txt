@@ -1,0 +1,1 @@
+In this work, we generalize the integer enumeration basis. We also construct bijections between the elements of special sets and the elements of some groups, and treat the special case of the hyperoctohedral groups. Then, we find a code analogous to the Lehmer code for the hyperoctahedral groups.

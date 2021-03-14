@@ -1,0 +1,1 @@
+We prove a stronger version of a termination theorem appeared in the paper "On existence of log minimal models II". We essentially just get rid of the redundant assumptions so the proof is almost the same as in there. However, we give a detailed proof here for future reference.

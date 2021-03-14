@@ -1,0 +1,1 @@
+We give the following characterization of sofic (weakly sofic) groups: a group G is sofic (weakly sofic) if and only if any system of equations solvable in any alternating group (any finite group) is solvable over G.

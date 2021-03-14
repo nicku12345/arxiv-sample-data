@@ -1,0 +1,1 @@
+We lift Grothendieck-Verdier-Spaltenstein's six functor formalism for derived categories of sheaves on ringed spaces over a field to differential graded enhancements. Our main tools come from enriched model category theory.

@@ -1,0 +1,1 @@
+In this article we consider large data Wave-Maps from \mathbb{R}^{2+1} into a compact Riemannian manifold (\mathcal{M},g), and we prove that regularity and dispersive bounds persist as long as a certain type of bulk (non-dispersive) concentration is absent. In a companion article we use these results in order to establish a full regularity theory for large data Wave-Maps.

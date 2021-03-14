@@ -1,0 +1,1 @@
+We prove strong theorems for the local time at infinity of a nearest neighbor transient random walk. First, laws of the iterated logarithm are given for the large values of the local time. Then we investigate the length of intervals over which the walk runs through (always from left to right) without ever returning.

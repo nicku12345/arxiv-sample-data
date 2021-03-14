@@ -1,0 +1,1 @@
+In this note, we present a formula for the action of the primitive Steenrod-Milnor operations on generators of algebra of invariants of the general linear group {GL_n=GL(n, \mathbb F_p)} in the polynomial algebra with p an arbitrary prime number.

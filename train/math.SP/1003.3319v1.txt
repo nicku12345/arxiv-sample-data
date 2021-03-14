@@ -1,0 +1,1 @@
+We consider discrete Schroedinger operator J with Wigner-von Neumann potential not belonging to l^2. We find asymptotics of orthonormal polynomials associated to J. We prove the Weyl-Titchmarsh type formula, which relates the spectral density of J to a coefficient in asymptotics of orthonormal polynomials.

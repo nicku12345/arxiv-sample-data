@@ -1,0 +1,1 @@
+Let G be a finite p-group, where p is a prime number, and \chi and \psi be faithful complex irreducible characters of G. We study the relation between the number \eta(\chi,\psi) of distinct irreducible constituents of the product \chi \psi and p.

@@ -1,0 +1,1 @@
+We show that there is a boolean algebra that has the Freese-Nation property (FN) but not the strong Freese-Nation property (SFN), thus answering a question of Heindorf and Shapiro. Along the way, we produce some new characterizations of the FN and SFN in terms of sequences of elementary submodels.

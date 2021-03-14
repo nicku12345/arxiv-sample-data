@@ -1,0 +1,1 @@
+We give a shorter proof of Lemma 1.9 from Goodwillie, "Calculus III", which is the key step in proving that the construction P_nF gives an n-excisive functor.

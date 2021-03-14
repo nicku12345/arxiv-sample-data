@@ -1,0 +1,1 @@
+For any positive integer r, we exhibit a knot Kr with (20 \times 2 r--1 + 1) crossings whose Jones polynomial V (Kr) is equal to 1 mod-ulo 2 r. Our construction rests on a certain 20-crossing tangle T 20 which is undetectable by the Kauffman bracket polynomial pair mod 2.

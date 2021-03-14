@@ -1,0 +1,1 @@
+We study monoids equipped with a second binary operation that captures the structure of the endomorphisms of an object X such that X=X\times X. We construct a universal monoid of this type and examine some of its rich combinatorial structure. We show that if X has a nontrivial endomorphism and X=X\times X, then every finite monoid has a faithful action on X.

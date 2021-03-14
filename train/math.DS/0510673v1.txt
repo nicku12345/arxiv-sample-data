@@ -1,0 +1,1 @@
+A class of piecewise affine hyperbolic maps on a bounded subset of the plane is considered. It is shown that if a map from this class is sufficiently area-expanding then almost surely this map has an absolutely continuous invariant measure.

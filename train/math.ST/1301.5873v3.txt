@@ -1,0 +1,1 @@
+This article investigates the support detection problem using the LASSO estimator in the space of measures. More precisely, we study the recovery of a discrete measure (spike train) from few noisy observations (Fourier samples, moments...) using an \ell_{1}-regularization procedure. In particular, we provide an explicit quantitative localization of the spikes.

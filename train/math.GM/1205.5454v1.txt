@@ -1,0 +1,1 @@
+A few elementary estimates of a basic character sum over the prime numbers are derived here. These estimates are nontrivial for character sums modulo large q. In addition, an omega result for character sums over the primes is also included.

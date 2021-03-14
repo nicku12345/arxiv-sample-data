@@ -1,0 +1,1 @@
+We establish new results of first-order necessary conditions of optimality for finite-dimensional problems with inequality constraints and for problems with equality and inequality constraints, in the form of John's theorem and in the form of Karush-Kuhn-Tucker's theorem. In comparison with existing results we weaken assumptions of continuity and of differentiability.

@@ -1,0 +1,1 @@
+In this paper, we first define the concept of convexity in G-metric spaces. We then use Mann iterative process in this newly defined convex G-metric space to prove some convergence results for some classes of mappings. In this way, we can extend several existence results to those approximating fixed points. Our results are just new in the setting.

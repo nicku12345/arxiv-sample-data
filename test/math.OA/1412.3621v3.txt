@@ -1,0 +1,1 @@
+We prove that C*-algebras which, as Banach spaces, are Grothendieck cannot be decomposed into a tensor product of two infinite-dimensional C*-algebras. By a result of Pfitzner, this class contains all von Neumann algebras and their norm-quotients. We thus complement a recent result of Ghasemi who established a similar conclusion for the class of SAW*-algebras.

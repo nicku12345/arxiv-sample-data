@@ -1,0 +1,1 @@
+Associated to any closed quantum subgroup G\subset U_N^+ and any index set I\subset\{1,\ldots,N\} is a certain homogeneous space X_{G,I}\subset S^{N-1}_{\mathbb C,+}, called affine homogeneous space. We discuss here the abstract axiomatization of the algebraic manifolds X\subset S^{N-1}_{\mathbb C,+} which can appear in this way, by using Tannakian duality methods.

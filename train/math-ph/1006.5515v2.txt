@@ -1,0 +1,1 @@
+We present an asymptotic analysis of the Verblunsky coefficients for the polynomials orthogonal on the unit circle with the varying weight e^{-nV(\cos x)}, assuming that the potential V has four bounded derivatives on [-1,1] and the equilibrium measure has a one interval support. We obtain the asymptotics as a solution of the system of "string" equations.

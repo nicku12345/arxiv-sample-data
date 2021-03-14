@@ -1,0 +1,1 @@
+We show that the classifying category C(T) of a dependent type theory T with axioms for identity types admits a non-trivial weak factorisation system. We provide an explicit characterisation of the elements of both the left class and the right class of the weak factorisation system. This characterisation is applied to relate identity types and the homotopy theory of groupoids.

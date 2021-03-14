@@ -1,0 +1,1 @@
+An algebra A is said to be strongly semisimple if every principal congruence of A is an intersection of maximal congruences. We give a geometrical characterisation of strongly semisimple MV-algebras in terms of Bouligand-Severi k-tangents. The latter are a k-dimensional generalisation of the classical Bouligand-Severi tangents.

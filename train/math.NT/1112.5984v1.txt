@@ -1,0 +1,1 @@
+We find all solutions of Diophantine equation x^{2}+11^{2k} = y^{n} where x>=1, y>=1, n>=3 and k is natural number. We give p-adic interpretation of this equation.

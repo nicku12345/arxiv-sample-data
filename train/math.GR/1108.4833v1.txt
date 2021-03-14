@@ -1,0 +1,1 @@
+We describe a new algorithm for computing braid orbits on Nielsen classes. As an application we classify all families of affine genus zero systems; that is all families of coverings of the Riemann sphere by itself such that the monodromy group is a primitive affine permutation group.

@@ -1,0 +1,1 @@
+We describe the GIT compactification of the moduli space of cubic fourfolds, with a special emphasis on the role played by singularities. Our main result is that a cubic fourfold with only isolated simple (A-D-E) singularities is GIT stable. Conversely, with some minor exceptions, the stability for cubic fourfolds is characterized by this condition.

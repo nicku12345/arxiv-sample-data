@@ -1,0 +1,1 @@
+This paper deals with the global well-posedness of the 3D axisymmetric Euler equations for initial data lying in critical Besov spaces B_{p,1}^{1+3/p}. In this case the BKM criterion is not known to be valid and to circumvent this difficulty we use a new decomposition of the vorticity.

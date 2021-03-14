@@ -1,0 +1,1 @@
+We define a diffeomorphism invariant of smooth 4-manifolds which we can estimate for many smoothings of R^4 and other smooth 4-manifolds. Using this invariant we can show that uncountably many smoothings of R^4 support no Stein structure. (Gompf has constructed uncountably many smoothings of R^4 which do support Stein structures.) Other applications of this invariant are given.

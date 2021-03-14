@@ -1,0 +1,1 @@
+We construct a normal countably tight T_1 space X with t(X_\delta) >2^\omega. This is an answer to the question posed by Dow-Juh\'asz-Soukup-Szentmikl\'ossy-Weiss. We also show that if the continuum is not so large, then the tightness of G_\delta-modifications of countably tight spaces can be arbitrary large up to the least \omega_1-strongly compact cardinal.

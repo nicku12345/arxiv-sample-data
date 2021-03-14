@@ -1,0 +1,1 @@
+Quasitoric manifolds are manifolds that admit an action of the torus that is locally as the standard action of T^n on C^n. It is known that the quotients of such actions are nice manifolds with corners. We prove that such manifolds are equivariantly rigid i.e., that any other manifold that is T^n-homotopy equivalent to a quasitoric manifold, is T^n-homeomorphic to it.

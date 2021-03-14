@@ -1,0 +1,1 @@
+This paper is about a small combinatorial trick, which is well known, but has no name. Let G be a permutation group acting on a vector space M. There is a natural way to assign a cosimplicial space to these data. We call the resulting cochain complex the cubical complex. Its cohomology is easy to compute. We give some examples of its occurrence in nature.

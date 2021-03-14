@@ -1,0 +1,1 @@
+We show the complete proof of the Markov property of the strong solution to a multidimensional SDE whose coefficients involve local time on a hyperplane of the unknown process.

@@ -1,0 +1,1 @@
+For a scheme X, we construct a sheaf C of complexes on X such that for every quasi-compact open subset U of X, C(U) is quasi-isomorphic to the Hochschild complex of the scheme U. Since C is moreover acyclic for taking sections on quasi-compact opens, we obtain a local to global spectral sequence for Hochschild cohomology if X is quasi-compact.

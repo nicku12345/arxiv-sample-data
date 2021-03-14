@@ -1,0 +1,1 @@
+We prove that a finite von Neumann algebra {\mathcal A} is semisimple if the algebra of affiliated operators {\mathcal U} of {\mathcal A} is semisimple. When {\mathcal A} is not semisimple, we give the upper and lower bounds for the global dimensions of {\mathcal A} and {\mathcal U}. This last result requires the use of the Continuum Hypothesis.

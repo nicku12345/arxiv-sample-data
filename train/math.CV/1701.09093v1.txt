@@ -1,0 +1,1 @@
+We define an analogue of the Baernstein star function for a meromorphic function f in several complex variables. This function is subharmonic on the upper half-plane and encodes some of the main functionals attached to f.We then characterize meromorphic functions admitting a harmonic star function.

@@ -1,0 +1,1 @@
+Let f be a homeomorphism of the torus isotopic to the identity and suppose that there exists a periodic orbit with a non-zero rotation vector (p/q,r/q), then f has a topologically monotone periodic orbit with the same rotation vector.

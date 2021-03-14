@@ -1,0 +1,1 @@
+This purpose of this book is twofold: to provide a general introduction to higher category theory (using the formalism of "quasicategories" or "weak Kan complexes"), and to apply this theory to the study of higher versions of Grothendieck topoi. A few applications to classical topology are included.

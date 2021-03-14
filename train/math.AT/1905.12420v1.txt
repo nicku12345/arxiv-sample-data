@@ -1,0 +1,1 @@
+We use geometric fixed points to describe the homotopy theory of genuine equivariant commutative ring spectra after inverting the group order. The main innovation is the use of the extra structure provided by the Hill-Hopkins-Ravenel norms in the form of additional norm maps on geometric fixed point diagrams, which turns out to be computationally managable.

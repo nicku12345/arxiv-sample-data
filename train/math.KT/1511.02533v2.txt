@@ -1,0 +1,1 @@
+We apply new techniques to Gerstenhaber brackets on the Hochschild cohomology of a skew group algebra formed from a polynomial ring and a finite group (in characteristic 0). We show that the Gerstenhaber brackets can always be expressed in terms of Schouten brackets. We obtain as consequences some conditions under which brackets are always 0, strengthening known results.

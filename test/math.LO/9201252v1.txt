@@ -1,0 +1,1 @@
+We show that it is consistent with ZFC that L^infty (Y,B, nu) has no linear lifting for many non-complete probability spaces (Y,B, nu), in particular for Y=[0,1]^A, B= Borel subsets of Y, nu = usual Radon measure on B .

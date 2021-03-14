@@ -1,0 +1,1 @@
+We extend the covariant GNS representation of Niculescu, Str\"oh and Zsid\'o for C*-dynamical systems with time-evolution of the system (dynamics) a homomorphism of C*-algebras, to any dynamical systems, where the dynamics is an unital completely positive map. We give also an overview on its application to the reversible dilation theory as formulated by B. Kummerer.

@@ -1,0 +1,1 @@
+A gentle introduction to Gaussian processes (GPs). The three parts of the document consider GPs for regression, classification, and dimensionality reduction.

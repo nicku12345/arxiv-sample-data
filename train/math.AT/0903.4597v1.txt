@@ -1,0 +1,1 @@
+Let RX_{k,n}^l be the space consisting of all (n+1)-tuples (p_0(z),...,p_n(z)) of monic polynomials over R of degree k and such that there are at most l roots common to all p_i(z). In this paper, we prove a stable splitting of RX_{k,n}^l.

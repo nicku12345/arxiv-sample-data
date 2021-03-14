@@ -1,0 +1,1 @@
+We construct an endomorphism of the Khovanov invariant to prove H-thinness and pairing phenomena of the invariants for alternating links. As a consequence, it follows that the Khovanov invariant of an oriented nonsplit alternating link is determined by its Jones polynomial, signature, and the linking numbers of its components.

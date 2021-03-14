@@ -1,0 +1,1 @@
+Let (R, m) be a Cohen-Macaulay local ring and I be an m-primary ideal. We introduce ideals of almost minimal mixed multiplicty which are analogues of ideals studied by J. Sally.   The main theorem describes the Hilbert series of fiber cones of these ideals.

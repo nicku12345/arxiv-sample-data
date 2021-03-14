@@ -1,0 +1,1 @@
+Let U be the closed unit disc in C and let p be a point on the unit circle. Let f be a continuous function on U which extends holomorphically from each circle contained in U and centered at the origin, and from each circle contained in U and passing through the point p. Then f is holomorphic in the interior of U.

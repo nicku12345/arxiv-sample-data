@@ -1,0 +1,1 @@
+Let mu(G) and mu_min(G) be the largest and smallest eigenvalues of the adjacency matricx of a graph G. We refine quantitatively the following two results on graph spectra. (i) if H is a proper subgraph of a connected graph G, then mu(G)>mu(H). (ii) if G is a connected nonbipartite graph, then mu(G)>-mu_min(G).

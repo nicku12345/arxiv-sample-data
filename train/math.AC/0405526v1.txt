@@ -1,0 +1,1 @@
+A semi-dualizing module over a commutative noetherian ring A is a finitely generated module C with RHom_A(C,C) \simeq A in the derived category D(A).   We show how each such module gives rise to three new homological dimensions which we call C-Gorenstein projective, C-Gorenstein injective, and C-Gorenstein flat dimension, and investigate the properties of these dimensions.

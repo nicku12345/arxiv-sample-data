@@ -1,0 +1,1 @@
+Suppose k is a field of characteristic 2, and n,m\geq 4 powers of 2. Then the A_\infty-structure of the group cohomology algebras H^*(C_n,k) and (H^*(C_m,k) are well known. We give results characterizing an A_\infty-structure on H^*(C_n\times C_m,k) including limits on non-vanishing low-arity operations and an infinite family of non-vanishing higher operations.

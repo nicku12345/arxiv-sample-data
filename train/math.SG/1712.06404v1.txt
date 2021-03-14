@@ -1,0 +1,1 @@
+Our main result is the \mathcal{C}^0-rigidity of the area spectrum and the Maslov class of Lagrangian submanifolds. This relies on the existence of punctured pseudoholomorphic discs in cotangent bundles with boundary on the zero section, whose boundaries represent any integral homology class. We discuss further applications of these punctured discs in symplectic geometry.

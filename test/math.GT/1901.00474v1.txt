@@ -1,0 +1,1 @@
+For knots in S^3, it is well-known that the Alexander polynomial of a ribbon knot factorizes as f(t)f(t^{-1}) for some polynomial f(t). By contrast, the Alexander polynomial of a ribbon 2-knot is not even symmetric in general. Via an alternative notion of ribbon 2-knots, we give a topological condition on a 2-knot that implies the factorization of the Alexander polynomial.

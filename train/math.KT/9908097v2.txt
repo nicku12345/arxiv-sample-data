@@ -1,0 +1,1 @@
+This is the integral text of my thesis. The first part is an expanded version of "Riemann-Roch theorems for Deligne-Mumford stacks", where I deal with Artin stacks over general bases. In the second part, I prove some Riemann-Roch statment for D-modules on Deligne-Mumford stacks, and I also consider the problem of algebraization of analytic stacks.

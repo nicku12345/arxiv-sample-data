@@ -1,0 +1,1 @@
+Using basic topology and linear algebra, we define a plethora of invariants of boundary links whose values are power series with noncommuting variables. These turn out to be useful and elementary reformulations of an invariant originally defined by M. Farber.

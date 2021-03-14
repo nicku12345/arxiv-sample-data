@@ -1,0 +1,1 @@
+We compute the multidegrees and the Segre numbers of general determinantal Cremona transformations, with generically reduced base scheme, by specializing to the standard Cremona transformation and computing its Segre class via mixed volumes of rational polytopes.

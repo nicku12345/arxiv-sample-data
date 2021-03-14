@@ -1,0 +1,1 @@
+In this paper we consider the Toda system of equations on a compact surface. We will give existence results by using variational methods in a non coercive case. A key tool in our analysis is a new Moser-Trudinger type inequality under suitable conditions on the center of mass and the scale of concentration of the two components u_1, u_2.

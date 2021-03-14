@@ -1,0 +1,1 @@
+In this note, we extend the considerations for the Choquet integral calculus on the interval [0, t] introduced in \cite{Su}, \cite{Su3}, to the case of an interval [a, t], with arbitrary a\in \mathbb{R}.

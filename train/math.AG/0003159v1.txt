@@ -1,0 +1,1 @@
+In this paper we define an action of the Weyl group on the quiver varieties M_{m,\grl}(d,v) with generic (m,\grl). To do it we describe a set of generators of the projective ring of a quiver variety. We also prove connectness for the smooth quiver variety M(d,v) and normality for M_0(d,v) in the case of a quiver of finite type and d-v a regular weight.

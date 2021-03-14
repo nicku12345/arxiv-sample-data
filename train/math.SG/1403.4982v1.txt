@@ -1,0 +1,1 @@
+For any Legendrian knot in (R^3,ker(dz-ydx)), we show that the existence of an augmentation to any field of the Chekanov-Eliashberg differential graded algebra over Z[t,t^{-1}] is equivalent to the existence of a ruling of the front diagram, generalizing results of Fuchs, Ishkhanov, and Sabloff. We also show that any even graded augmentation must send t to -1.

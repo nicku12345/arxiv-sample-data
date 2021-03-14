@@ -1,0 +1,1 @@
+This paper is devoted to a proof of optimal regularity, near the initial state, for weak solutions to the two-phase parabolic obstacle problem. The approach used here is general enough to allow us to consider the initial data belonging to the class C^{1,1}.

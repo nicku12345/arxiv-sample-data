@@ -1,0 +1,1 @@
+Let H be a non-semisimple Hopf algebra with antipode S of dimension pq over an algebraically closed field of characteristic 0 where p \le q are odd primes. We prove that \Tr(S^{2p})=p^2d where d \equiv pq \pmod{4}. As a consequence, if p,q are twin primes, then any Hopf algebra of dimension pq is semisimple.

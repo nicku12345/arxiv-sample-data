@@ -1,0 +1,1 @@
+In this paper, the algebra of the differences of two multiply monotone functions on \mathbb{R}_+=(0,+\infty) is studied. A sufficient condition for the function f_0\big(|x|_{p,d}\big), where |x|_{p,d}=\Big(\sum\limits_{j=1}^d|x_j|^p\Big)^{\frac{1}{p}}, p\in(0,+\infty], to be represented as the Fourier transform is given.

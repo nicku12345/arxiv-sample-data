@@ -1,0 +1,1 @@
+Lusztig proved that the Kazhdan-Lusztig basis of a spherical Hecke algebra can be essentially identified with the Weyl characters of the Langlands dual group. We generalize this result to the unequal parameter case. The new proof is pretty simple and quite different from Lusztig's.

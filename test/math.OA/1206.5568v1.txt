@@ -1,0 +1,1 @@
+An n-tuple of operators (V_1,...,V_n) acting on a Hilbert space H is said to be isometric if the row operator (V_1,...,V_n) : H^n \to H is an isometry. We prove that every isometric n-tuple is hyperreflexive, in the sense of Arveson. For n = 1, the hyperreflexivity constant is at most 95. For n \geq 2, the hyperreflexivity constant is at most 6.

@@ -1,0 +1,1 @@
+We consider the problem of finding a local minimum of a binary quadratic function, and show by an elementary construction that every descending local search algorithm takes exponential time in the worst case.

@@ -1,0 +1,1 @@
+We show that Kontsevich's formality of the little disk operad, obtained using graphs, is homotopic to Tamarkin's formality, for a special choice of a Drinfeld associator. The associator is given by parallel transport of the Alekseev-Torossian connection.

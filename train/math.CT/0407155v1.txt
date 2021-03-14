@@ -1,0 +1,1 @@
+In this paper we generalize the well-known construction of shuffle product algebras by using mixable shuffles, and prove that any free Baxter algebra is isomorphic to a mixable shuffle product algebra. This gives an explicit construction of the free Baxter algebra, extending the work of Rota and Cartier.

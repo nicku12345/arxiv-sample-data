@@ -1,0 +1,1 @@
+Absolute continuity implies uniform continuity, but generally not vice versa. In this short note, we present one sufficient condition for a uniformly continuous function to be absolutely continuous, which is the following theorem: For a uniformly continuous function f defined on an interval of the real line, if it is piecewise convex, then it is also absolutely continuous.

@@ -1,0 +1,1 @@
+We prove that every tower of normal filters of height \gd (\gd supercompact) is precipitous assuming that each normal filter in the tower is the club filter restricted to a stationary set. We give an example to show that this assumption is necessary. We also prove that every normal filter can be generically extended to a well-founded V-ultrafilter (assuming large cardinals).

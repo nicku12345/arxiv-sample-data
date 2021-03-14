@@ -1,0 +1,1 @@
+Obata et al. proved that spatially-coupled (SC) MacKay-Neal (MN) codes achieve the capacity of BEC. However, the SC-MN codes codes have many variable nodes of degree two and have higher error floors. In this paper, we prove that SC-MN codes with no variable nodes of degree two achieve the capacity of BEC.

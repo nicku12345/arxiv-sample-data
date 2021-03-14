@@ -1,0 +1,1 @@
+Let B be a p-block of a finite group G with abelian defect group D such that S\unlhd G, S'=S, G/Z(S)\le\Aut(S) and S/Z(S) is a sporadic simple group. We show that B is isotypic to its Brauer correspondent in N_G(D) in the sense of Brou\'e. This has been done by [Rouquier, 1994] for principal blocks and it remains to deal with the non-principal blocks.

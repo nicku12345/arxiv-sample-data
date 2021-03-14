@@ -1,0 +1,1 @@
+We prove that the vector space R^d of any finite dimension d with the standard metric embeds in a bi-Lipschitz way into the group of area-preserving diffeomorphisms G of the two-sphere endowed with the L^p-metric for p>2. Along the way we show that the L^p-metric on the group G is unbounded for p>2 by elementary methods.

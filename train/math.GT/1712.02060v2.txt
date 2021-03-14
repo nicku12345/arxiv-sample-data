@@ -1,0 +1,1 @@
+As nilpotent studies in knot theory, we focus on invariants of Milnor, Orr, and Kontsevich. We show that the Orr invariant of degree  k  is equivalent to the tree reduction of the Kontsevich invariant of degree < 2k . Furthermore, we will see a close relation between the Orr invariant and the Milnor invariant, and discuss a method of computing these invariants

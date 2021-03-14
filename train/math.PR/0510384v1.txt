@@ -1,0 +1,1 @@
+We study a two armed-bandit algorithm with penalty. We show the convergence of the algorithm and establish the rate of convergence. For some choices of the parameters, we obtain a central limit theorem in which the limit distribution is characterized as the unique stationary distribution of a discontinuous Markov process.

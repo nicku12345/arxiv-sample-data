@@ -1,0 +1,1 @@
+Ozsv\'ath and Szab\'o conjectured that knot Floer homology detects fibred links. We will verify this conjecture for closed 3-braids, by classifying fibred closed 3-braids. In particular, given a nontrivial closed 3-braid, either it is fibred, or it differs from a fibred link by a half twist. The proof uses Gabai's method of disk decomposition.

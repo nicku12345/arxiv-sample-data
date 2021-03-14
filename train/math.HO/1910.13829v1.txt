@@ -1,0 +1,1 @@
+We show any power of five may be expressed arithmetically with the digits of its decimal representation. We also show powers of five (in decimal) contain any amount of zeros in a row.

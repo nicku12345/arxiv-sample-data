@@ -1,0 +1,1 @@
+In this paper we consider some properties of semisimple Hopf algebras of dimension pq where p and q are distinct primes. These properties are useful for classification of such Hopf algebras. In particular, we show that for such a Hopf algebra H, if H and H^* are of Frobenius type then H or H^* is a group algebra.

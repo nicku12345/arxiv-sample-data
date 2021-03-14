@@ -1,0 +1,1 @@
+We extend a factorization due to Krein to arbitrary analytic functions from the upper half-plane to itself. The factorization represents every such function as a product of fractional linear factors times a function which, generally, has fewer zeros and singularities than the original one. The result is used to construct functions with given zeros and poles on the real line.

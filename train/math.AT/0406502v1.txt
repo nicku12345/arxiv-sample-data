@@ -1,0 +1,1 @@
+We show that the cobar construction of a DG-bialgebra is a homotopy G-algebra. This implies that the bar construction of this cobar is a DG-bialgebra as well.

@@ -1,0 +1,1 @@
+To a directed graph E is associated a C^*-algebra C^* (E) called a graph C^*-algebra. There is a canonical action \gamma of {\bf T} on C^* (E), called the gauge action. In this paper we present necessary and sufficient conditions for the fixed point algebra C^* (E)^\gamma to be simple. Our results also yield some structure theorems for simple graph algebras.

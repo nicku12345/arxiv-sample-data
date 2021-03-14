@@ -1,0 +1,1 @@
+Let K be a global field and n > 1 an integer. We show n is composite if and only if there is an irreducible polynomial f(x) \in K[x] of degree n which is reducible q-adically for all the primes q of K.

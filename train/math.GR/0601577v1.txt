@@ -1,0 +1,1 @@
+The goal of this paper is to prove how Arthur's results, in the case of split odd orthogonal p-adic groups, imply the Langlands' classification of discrete series. Of course this need the validity of ''fundamental'' lemmas which are not yet available. And this include a Langlands' classification of cuspidal irreducible representations for such groups.

@@ -1,0 +1,1 @@
+Given a locally compact abelian group G, we give an explicit formula for the Dixmier--Douady invariant of the C^*-algebra of the groupoid extension associated to a \v{C}ech 2-cocycle in the sheaf of germs of continuous G-valued functions. We then exploit the blow-up construction for groupoids to extend this to some more general central extensions of \'etale equivalence relations.

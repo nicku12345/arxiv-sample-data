@@ -1,0 +1,1 @@
+We present a nonlinear realization of the 5-graded Lie algebra associated to a Kantor triple system. Any simple Lie algebra can be realized in this way, starting from an arbitrary 5-grading. In particular, we get a unified realization of the exceptional Lie algebras f_4, e_6, e_7, e_8, in which they are respectively related to the division algebras R, C, H, O.

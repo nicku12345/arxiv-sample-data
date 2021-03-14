@@ -1,0 +1,1 @@
+Frobenius built a representation theory of finite groups in the process of obtaining the irreducible factorization of the group determinant. Here, we give a generalization of Frobenius' theorem. The generalization leads to a corollary on irreducible representations of finite groups.

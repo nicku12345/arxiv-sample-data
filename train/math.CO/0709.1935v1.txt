@@ -1,0 +1,1 @@
+The clique-width is known to be unbounded in the class of unit interval graphs. In this paper, we show that this is a minimal hereditary class of unbounded clique-width, i.e., in every hereditary subclass of unit interval graphs the clique-width is bounded by a constant.

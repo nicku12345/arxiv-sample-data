@@ -1,0 +1,1 @@
+We apply Walsh's method for proving norm convergence of multiple ergodic averages to arbitrary amenable groups. We obtain convergence in the uniform Ces\`aro sense for their polynomial actions and for ``triangular'' averages associated to commuting homomorphic actions. The latter generalizes a result due to Bergelson, McCutcheon, and Zhang in the case of two actions.

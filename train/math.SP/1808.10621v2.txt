@@ -1,0 +1,1 @@
+It is proved that if a bounded domain in three dimensions satisfies a certain concavity condition, then the Neumann-Poincar\'e operator on the boundary of the domain or its inversion in a sphere has at least one negative eigenvalue. The concavity condition is quite simple, and is satisfied if there is a point on the boundary at which the Gaussian curvature is negative.

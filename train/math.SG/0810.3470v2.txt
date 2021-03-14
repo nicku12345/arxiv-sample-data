@@ -1,0 +1,1 @@
+We define a toric degeneration of an integrable system on a projective manifold, and prove the existence of a toric degeneration of the Gelfand-Cetlin system on the flag manifold of type A. As an application, we calculate the potential function for a Lagrangian torus fiber of the Gelfand-Cetlin system.

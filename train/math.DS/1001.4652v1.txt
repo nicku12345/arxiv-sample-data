@@ -1,0 +1,1 @@
+The notion of relatedness loci in the parabolic slices Per_1(e^{2\pi i p/q}) in moduli space of quadratic rational maps is introduced. They are counterparts of the disconnectedness or escape locus in the slice of quadratic polynomials. A model for these loci is presented, and a strategy of proof of the faithfulness of the model is given.

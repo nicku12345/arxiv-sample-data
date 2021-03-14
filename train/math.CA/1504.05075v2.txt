@@ -1,0 +1,1 @@
+In this paper we introduce a class of generalized Morrey spaces associated with Schr\"odinger operator L=-\Delta+V. Via a pointwise estimate, we obtain the boundedness of the operators V^{\beta_{2}}(-\Delta+V)^{-\beta_{1}} and their dual operators on these Morrey spaces.

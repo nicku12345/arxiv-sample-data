@@ -1,0 +1,1 @@
+Sturm-Liouville oscillation theory for periodic Jacobi operators with matrix entries is discussed and illustrated. The proof simplifies and clarifies the use of intersection theory of Bott, Maslov and Conley-Zehnder. It is shown that the eigenvalue problem for linear Hamiltonian systems can be dealt with by the same approach.

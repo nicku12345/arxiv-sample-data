@@ -1,0 +1,1 @@
+We determine the Hausdorff dimension for the range of a class of pure jump Markov processes in \mathbb{R}^d, which turns out to be random and depends on the trajectories of these processes. The key argument is carried out through the SDE representation of these processes. The method developed here also allows to compute the Hausdorff dimension for the graph.

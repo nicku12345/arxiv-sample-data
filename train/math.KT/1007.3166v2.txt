@@ -1,0 +1,1 @@
+We use Gromov's K--area to define a generalized homology theory on compact smooth manifolds. In fact, this theory collects obstructions to the enlargeability of the manifold and its nontrivial submanifolds. Moreover, using the K--area homology we can rephrase some classic results about positive scalar curvature.

@@ -1,0 +1,1 @@
+We use the notion of multi-Reedy category to prove that, if \mathcal C is a Reedy category, then \Theta \mathcal C is also a Reedy category. This result gives a new proof that the categories \Theta_n are Reedy categories. We then define elegant Reedy categories, for which we prove that the Reedy and injective model structures coincide.

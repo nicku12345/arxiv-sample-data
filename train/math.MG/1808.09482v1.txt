@@ -1,0 +1,1 @@
+Given a random k-dimensional cross-section of a hypercube, what is its expected number of vertices? We show that, for a suitable distribution of random slices, the answer is 2^k, independent of the dimension of the hypercube.

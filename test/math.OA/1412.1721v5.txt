@@ -1,0 +1,1 @@
+The C*-algebra of bounded operators on the separable infinite-dimensional Hilbert space cannot be mapped to a W*-algebra in such a way that each unital commutative C*-subalgebra C(X) factors normally through \ell^\infty(X). Consequently, there is no faithful functor discretizing C*-algebras to AW*-algebras, including von Neumann algebras, in this way.

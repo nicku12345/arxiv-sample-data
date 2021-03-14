@@ -1,0 +1,1 @@
+The goal of this paper is to describe conditions which guarantee a central limit theorem for random variables, which distributions are controled by hidden Markov chains. We proved that when a Markov chain is ergodic and random variables fullfiled Lindeberg's condition then the Central Limit Theorem is true.

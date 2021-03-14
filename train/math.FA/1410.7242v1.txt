@@ -1,0 +1,1 @@
+We show that operators on a separable infinite dimensional Banach space X of the form I +S, where S is an operator with dense generalised kernel, must lie in the norm closure of the hypercyclic operators on X, in fact in the closure of the mixing operators.

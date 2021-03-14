@@ -1,0 +1,1 @@
+Existence of solutions to the Lp Minkowski problem is proved for all p less than 0. For the cirtical case of p=-n, which is known as the centro-affine Minkowski problem, this paper contains the main result in [71] as a special case.

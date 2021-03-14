@@ -1,0 +1,1 @@
+In this paper, we consider solvable groups that satisfy the two-prime hypothesis. We prove that if G is such a group and G has no nonabelian nilpotent quotients, then |\cd G| \le 462,515. Combining this result with the result from part I, we deduce that if G is any such group, then the same bound holds.

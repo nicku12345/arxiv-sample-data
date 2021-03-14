@@ -1,0 +1,1 @@
+In this book I treat the structure of D-module which has countable basis. If we do not care for topology of D-module, then we consider Hamel basis. If norm is defined in D-module, then we consider Schauder basis. In case of Schauder basis, we consider vectors whose expansion in the basis converges normally.

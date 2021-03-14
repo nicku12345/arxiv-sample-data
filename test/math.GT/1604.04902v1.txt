@@ -1,0 +1,1 @@
+Let K be a fibered knot in the 3-sphere. We show that if the monodromy of K is sufficiently complicated, then Dehn surgery on K cannot yield a lens space. Work of Yi Ni shows that if K has a lens space surgery then it is fibered. Combining this with our result we see that if K has a lens space surgery then it is fibered and the monodromy is relatively simple.

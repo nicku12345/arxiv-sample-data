@@ -1,0 +1,1 @@
+The purpose of this paper is to study the structure of Lotka-Volterra algebras, the set of their idempotent elements and their group of automorphisms. These algebras are defined through antisymmetric matrices and they emerge in connection with biological problems and Lotka-Volterra systems for the interactions of neighboring individuals.

@@ -1,0 +1,1 @@
+We construct examples of weighted algebras L_p^w(G) with 1<p\le 2 on uncountable free groups. For p>2 no weighted algebras exist on these groups.   From the other side, we prove that an amenable group on which exist weighted algebras with p>1 must be sigma-compact.

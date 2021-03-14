@@ -1,0 +1,1 @@
+We prove that |A^n| > c_n |A|^{[\frac{n+1}{2}]} for any finite subset A of a free group if A contains at least two noncommuting elements, where c_n>0 are constants not depending on A. Simple examples show that the order of these estimates are the best possible for each n>0.

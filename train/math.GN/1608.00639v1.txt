@@ -1,0 +1,1 @@
+Let f \colon X \rightarrow Y be a resolvable-measurable mapping of a metrizable space X to a regular space Y. Then f is piecewise continuous. Additionally, for a metrizable completely Baire space X, it is proved that f is resolvable-measurable if and only if it is piecewise continuous.

@@ -1,0 +1,1 @@
+We generalize Brenner and Butler's Theorem as well as Happel's Theorem on the equivalences induced by a finitely generated tilting module over artin algebras, to the case of an infinitely generated tilting module over an arbitrary associative ring establishing the equivalences induced between subcategories of module categories and also at the level of derived categories.

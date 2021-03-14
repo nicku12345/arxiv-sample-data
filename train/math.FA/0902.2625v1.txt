@@ -1,0 +1,1 @@
+We investigate the behavior of some thin sets of integers defined through random trigonometric polynomial when one replaces Gaussian or Rademacher variables by p-stable ones, with 1 < p < 2. We show that in one case this behavior is essentially the same as in the Gaussian case, whereas in another case, this behavior is entirely different.

@@ -1,0 +1,1 @@
+In this paper we survey and bring together several approaches to obtaining inner functions for Toeplitz operators. These approaches include the classical definition, the Wold decomposition, the operator-valued Poisson Integral, and Clark measures. We then extend these notions somewhat to inner functions on model spaces. Along the way we present some novel examples.

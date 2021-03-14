@@ -1,0 +1,1 @@
+We introduce Euler summability method for sequences of fuzzy numbers and state a Tauberian theorem concerning Euler summability method, of which proof provides an alternative to that of K. Knopp[\"Uber das Eulersche Summierungsverfahren II, Math. Z. 18 (1923)] when the sequence is of real numbers. As corollaries, we extend the obtained results to series of fuzzy numbers.

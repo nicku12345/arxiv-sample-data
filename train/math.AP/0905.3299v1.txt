@@ -1,0 +1,1 @@
+We give sufficient conditions under which the convergence of finite difference approximations in the space variable of possibly degenerate second order parabolic and elliptic equations can be accelerated to any given order of convergence by Richardson's method.

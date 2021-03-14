@@ -1,0 +1,1 @@
+Let V be a finite dimensional vector space over a field \mathrm{k} of characteristic 0. Let A be a linear mapping of V into itself. This paper gives a normal form for A, which gives a better description of the structure of A than the companion matrix. The computation of this normal form uses only operations from \mathrm{k} and does not require finding roots of any polynomial.

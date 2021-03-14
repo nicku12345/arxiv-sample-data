@@ -1,0 +1,1 @@
+This paper presents a canonical duality theory for solving nonconvex minimization problem of Rosenbrock function. Extensive numerical results show that this benchmark test problem can be solved precisely and efficiently to obtain global optimal solutions.

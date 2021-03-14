@@ -1,0 +1,1 @@
+We show that if a (locally compact) group G acts properly on a locally compact \sigma-compact space X then there is a family of G-invariant proper continuous finite-valued pseudometrics which induces the topology of X. If X is furthermore metrizable then G acts properly on X if and only if there exists a G-invariant proper compatible metric on X.

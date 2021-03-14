@@ -1,0 +1,1 @@
+In this work we study the main dynamical properties of the push-forward map, a transformation in the space of probabilities P(X) induced by a map T: X \to X, X a compact metric space. We also establish a connection between topological entropies of T and of the push-forward map.

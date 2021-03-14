@@ -1,0 +1,1 @@
+The proximal point method for a special class of nonconvex multiobjective functions is studied in this paper. We show that the method is well defined and that the accumulation points of any generated sequence, if any, are Pareto--Clarke critical points. Moreover, under additional assumptions, we show the full convergence of the generated sequence.

@@ -1,0 +1,1 @@
+In this article, we prove the existence of optimal risk-sensitive control with state constraints. We use near monotone assumption on the running cost to prove the existence of optimal risk-sensitive control.

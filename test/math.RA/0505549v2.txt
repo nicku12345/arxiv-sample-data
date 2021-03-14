@@ -1,0 +1,1 @@
+Given an abelian category with arbitrary products, arbitrary coproducts, and a generator, we show that the closed subspaces (in the sense of A. L. Rosenberg) are parameterized by a suitably defined poset of ideals in the generator. In particular, the collection of closed subspaces is itself a small poset.

@@ -1,0 +1,1 @@
+If f is a compactly supported function on the Heisenberg group and the group Fourier transform \hat{f}(\lambda) is a finite rank operator for all \lambda then f is the zero function.

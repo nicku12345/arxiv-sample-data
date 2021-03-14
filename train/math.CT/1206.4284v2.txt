@@ -1,0 +1,1 @@
+We define bicategories internal to 2-categories. When the ambient 2-category is symmetric monoidal categories, this provides a convenient framework for encoding the structures of a symmetric monoidal 3-category. This framework is well suited to examples arising in geometry and algebra, such as the 3-category of bordisms or the 3-category of conformal nets.

@@ -1,0 +1,1 @@
+We prove that for any winding number m>0 pattern P and winding number -m pattern Q, there exist knots K such that the minimal genus of a cobordism between P(K) and Q(K) is arbitrarily large. This answers a question posed by Cochran-Harvey [CH17] and generalizes a result of Kim-Livingston [KL05].

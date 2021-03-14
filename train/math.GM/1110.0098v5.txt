@@ -1,0 +1,1 @@
+The main purpose of this paper is to calculate exact quasiclassical asymptotic of the quantum averages without any reference to the corresponding quasiclassical asimptotic of the Schr\"odinger wave function {\Psi}(x,t)given via Maslov canonical operator. We suggest a new asymptotic representation for the quantum averages with position variable with localized initial data.

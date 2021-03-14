@@ -1,0 +1,1 @@
+Let G be a right-angled Artin group. We use geometric methods to compute a presentation of the subgroup H of Aut(G) consisting of the automorphisms that send each generator to a conjugate of itself. This generalizes a result of McCool on basis-conjugating automorphisms of free groups.

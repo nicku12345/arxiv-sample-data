@@ -1,0 +1,1 @@
+For a smooth manifold of any dimension greater than one, we present an open set of smooth endomorphisms such that any of them has a transitive attractor with a non-empty interior. These maps are m-fold non-branched coverings, m \ge 3. The construction applies to any manifold of the form S^1 \times M, where S^1 is the standard circle and M is an arbitrary manifold.

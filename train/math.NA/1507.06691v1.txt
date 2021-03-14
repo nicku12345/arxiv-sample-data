@@ -1,0 +1,1 @@
+We develop an ultra-weak variational formulation of a fractional advection diffusion problem in one space dimension and prove its well-posedness. Based on this formulation, we define a DPG approximation with optimal test functions and show its quasi-optimal convergence. Numerical experiments confirm expected convergence properties, for uniform and adaptively refined meshes.

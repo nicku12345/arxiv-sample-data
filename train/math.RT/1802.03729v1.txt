@@ -1,0 +1,1 @@
+The three point current algebra \mathfrak{sl}(2,\mathcal R) where \mathcal R=\mathbb C[t,t^{-1},u\,|\,u^2=t^2+4t ] and three-point Virasoro algebra both act on a previously constructed Fock space. In this paper we prove that the semi-direct product, i.e. the gauge algebra acts on the Fock space as well.

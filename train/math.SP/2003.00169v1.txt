@@ -1,0 +1,1 @@
+Given two d\times d matrices, say A and B, when do p(A) and p(B) have the same ``size'' for every polynomial p? In this article, we provide definitive results in the cases d=2 and d=3 when the notion of size used is the spectral norm.

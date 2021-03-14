@@ -1,0 +1,1 @@
+We prove that any quasitoric manifold M^{2n} admits a T^n-invariant almost complex structure if and only if M admits a positive omniorientation. In particular, we show that all obstructions to existence of T^n-invariant almost complex structure on M^{2n} arise from cohomology of underlying polytope - and hence are trivial.

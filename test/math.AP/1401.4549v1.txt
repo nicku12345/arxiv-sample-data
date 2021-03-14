@@ -1,0 +1,1 @@
+Let (M,g) be a compact riemannian manifold of dimension n\geq 5. We are interested in the stability of a slighly subcritical Paneitz-Branson type equation on M. Assuming that there exists a positive nondegenerate solution of the critical equation and under suitable conditions, we prove that this equation is not stable for all n\geq 5.

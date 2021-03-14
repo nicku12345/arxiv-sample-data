@@ -1,0 +1,1 @@
+In this paper we study the local regularity of fractional integrals of Fourier series using several definitions of the H\"older exponent. We especially consider series coming from fractional integrals of modular forms. Our results show that in general cusp forms give rise to pure fractals (as opposed to multifractals). We include explicit examples and computer plots.

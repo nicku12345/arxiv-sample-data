@@ -1,0 +1,1 @@
+We investigate flat maps where the source or target is a Noetherian ring, giving necessary and/or sufficient conditions on a ring for such maps to exist. Along the way, we develop some general facts about flat ring maps, and exhibit many examples, including a new class of zero-dimensional local rings.

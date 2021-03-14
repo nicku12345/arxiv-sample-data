@@ -1,0 +1,1 @@
+Presentations are computed for a braided version BV of Thompson's group V and for V itself showing that there is an Artin group/Coxeter group relation between them. The presentation for V is obtained from that for BV by declaring all that all generators are involutions.

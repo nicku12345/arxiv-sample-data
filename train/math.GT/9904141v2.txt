@@ -1,0 +1,1 @@
+A formula for the difference of Vassiliev invariants of degree k+1 of two knots all of whose Vassiliev invariants of degree k agree is proven. The proof uses K. Habiro's C-moves and his theorem which relates them to Vassiliev invariants.

@@ -1,0 +1,1 @@
+The purpose of this paper is twofold: first we give a survey on the recent developments of curve counting invariants on Calabi-Yau 3-folds, e.g. Gromov-Witten theory, Donaldson-Thomas theory and Pandharipande-Thomas theory. Next we focus on the proof of the rationality conjecture of the generating series of PT invariants, and discuss its conjectural Gopakumar-Vafa form.

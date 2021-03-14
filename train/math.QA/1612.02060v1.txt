@@ -1,0 +1,1 @@
+We consider all genus two correlation functions for the Virasoro vacuum descendants of a vertex operator algebra. These are described in terms of explicit generating functions that can be combinatorially expressed in terms of a sequence of globally defined differential operators on which the genus two Siegel modular group Sp(4,\mathbb{Z}) has a natural action.

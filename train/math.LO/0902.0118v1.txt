@@ -1,0 +1,1 @@
+We prove that the definition of supersimplicity in metric structures from \cite{pezz:Morley} is equivalent to an \textit{a priori} stronger variant. This stronger variant is then used to prove that if T is a supersimple Hausdorff cat then so is its theory of lovely pairs.

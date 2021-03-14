@@ -1,0 +1,1 @@
+For any commutative ring A we introduce a generalization of S-noetherian rings using a hereditary torsion theory \sigma instead of a multiplicatively closed subset S\subseteq{A}. It is proved that if A is a totally \sigma-noetherian ring, then \sigma is of finite type, and that totally \sigma-noetherian is a local property.

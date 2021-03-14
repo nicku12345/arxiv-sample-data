@@ -1,0 +1,1 @@
+We study the initial trace problem for positive solutions of semilinear heat equations with strong absorption. We show that in general this initial trace is an outer regular Borel measure. We emphasize in particular the case where u satisfies (E) \partial_t u-\Delta u+t^\alpha |u|^{q-1}u=0, with q>1 and \alpha>-1 and prove that in the subcritical case 1

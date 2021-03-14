@@ -1,0 +1,1 @@
+Let S be a surface of genus g with n points removed, G a connected Lie group, and X(G) the moduli space of representations of the fundamental group of S into G. We compute the fundamental group of X(G) when n>0 and G is a real or complex reductive algebraic group, or a compact Lie group; and when n=0 and G=GL(m,C), SL(m,C), U(m), or SU(m).

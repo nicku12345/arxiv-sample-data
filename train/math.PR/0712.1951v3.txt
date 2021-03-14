@@ -1,0 +1,1 @@
+We consider one-dimensional directed trap models and suppose that the trapping times are heavy-tailed. We obtain the inverse of a stable subordinator as scaling limit and prove an aging phenomenon expressed in terms of the generalized arcsine law. These results confirm the status of universality described by Ben Arous and \v{C}ern\'y for a large class of graphs.

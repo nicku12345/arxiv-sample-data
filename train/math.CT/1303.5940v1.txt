@@ -1,0 +1,1 @@
+We describe right-hand skew Boolean algebras in terms of a class of presheaves of sets over Boolean algebras called Boolean sets, and prove a duality theorem between Boolean sets and etale spaces over Boolean spaces.

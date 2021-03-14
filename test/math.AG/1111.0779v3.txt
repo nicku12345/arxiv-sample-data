@@ -1,0 +1,1 @@
+For a semistable family of varieties over a curve in characteristic p, we prove the existence of a "Clemens-Schmid type" long exact sequence for the p-adic cohomology. The cohomology groups appearing in such a long exact sequence are defined locally

@@ -1,0 +1,1 @@
+Let p, ell be distinct primes and let q be a power of p. Let G be a connected compact Lie group. We show that there exists an integer b such that the mod ell cohomology of the classifying space of a finite Chevalley group G(F_q) is isomorphic to the mod ell cohomology of the classifying space of the loop group LG for q=p^{ab}, a>0.

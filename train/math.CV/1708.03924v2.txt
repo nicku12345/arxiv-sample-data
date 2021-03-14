@@ -1,0 +1,1 @@
+For a given continuous function g:~\Omega\rightarrow\mathbb{C}, we establish some Schwarz type Lemmas for mappings f in \Omega satisfying the {\rm PDE}: \Delta f=g, where \Omega is a subset of the complex plane \mathbb{C}. Then we apply these results to obtain a Landau type theorem, which is a partial answer to the open problem in \cite{CP}. %The obtained results are

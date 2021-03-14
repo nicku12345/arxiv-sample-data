@@ -1,0 +1,1 @@
+Let D be a smoothly bounded domain in C^2. Suppose that D admits a smooth defining function which is plurisubharmonic on the boundary of D. Then the Diederich-Fornaess exponent can be chosen arbitrarily close to 1, and the closure of D admits a Stein neighborhood basis.

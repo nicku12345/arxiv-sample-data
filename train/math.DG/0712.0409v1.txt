@@ -1,0 +1,1 @@
+After appropriate normalizations an embedded disk whose second fundamental form has large norm contains a multi-valued graph, provided the L^P norm of the mean curvature is sufficiently small. This generalizes to non-minimal surfaces a well known result of Colding and Minicozzi.

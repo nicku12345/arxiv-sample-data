@@ -1,0 +1,1 @@
+In this paper, we compute the regularity and Hilbert series of symbolic powers of the cover ideal of a graph G when G is either a crown graph or a complete multipartite graph. We also compute the multiplicity of symbolic powers of cover ideals in terms of the number of edges.

@@ -1,0 +1,1 @@
+Let X be a smooth curve of genus g. When pi>=3g and d>=pi-2g+1 we show the existence of a double covering gamma:C-->X where C a smooth curve of genus pi with a base-point-free pencil of degree d which is not the pull-back of a pencil on X.

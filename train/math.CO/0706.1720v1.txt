@@ -1,0 +1,1 @@
+In the paper On the Existence of Hadamard Matrices in J. Combinatorial Theory 21, 1976, it is shown that for a natural number q > 3, we can construct an Hadamard Matrix of order 2^s q for s \geq t where t = [2 log_2(q-3)]. I will show that this bound is not a consequence of the proof given in the paper and explain the error in the argumentation.

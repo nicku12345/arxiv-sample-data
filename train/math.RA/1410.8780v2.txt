@@ -1,0 +1,1 @@
+In the present paper we generalize the notion of a Heyting algebra to the non-commutative setting and hence introduce what we believe to be the proper notion of the implication in skew lattices. We list several examples of skew Heyting algebras, including Heyting algebras, dual skew Boolean algebras, conormal skew chains and algebras of partial maps with poset domains.

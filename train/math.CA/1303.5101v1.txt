@@ -1,0 +1,1 @@
+We tabulate the abscissae and associated weights for numerical integration of integrals with either the singular weight function (-log x)^m for exponents m=1, 2 or 3, or the symmetric weight function cos(pi*x/2). Standard brute force arithmetics generates explicit pairs of these values for up to 128 nodes.

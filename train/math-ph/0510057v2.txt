@@ -1,0 +1,1 @@
+We study the one-dimensional discrete quasi-periodic Schrodinger equation. We introduce the notion of variations of potential and use it to define "typical" potential. We show that for typical C^3 potential, if the coupling constant is large, then for most frequencies, the Lyapunov exponent is positive for all energies.

@@ -1,0 +1,1 @@
+The genus graphs have been studied by many authors, but just a few results concerning in special cases: Planar, Toroidal, Complete, Bipartite and Cartesian Product of Bipartite. We present here a derive general lower bound for the genus of a abelian Cayley graph and construct a family of circulant graphs which reach this bound.

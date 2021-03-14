@@ -1,0 +1,1 @@
+We introduce specific type of hyperbolic spaces. It is not a general linear covariant object, but of use in constructing nilpotent systems. In the present work necessary definitions and relevant properties of configuration and phase spaces are indicated. As a working example we use a D=2 isotropic harmonic oscillator.

@@ -1,0 +1,1 @@
+Let V be a finite dimensional real Euclidean Jordan algebra with the identity element 1. Let Q be the closed convex cone of squares. We show that the Wiener- Hopf compactification of Q is the interval (1-Q) \cap (-1+Q). As a consequence, we deduce that the K-groups of the Wiener-Hopf C^{*}-algebra associated to Q are trivial.

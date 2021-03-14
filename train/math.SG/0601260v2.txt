@@ -1,0 +1,1 @@
+In this note we verify certain statement about the operator Q\_K constructed by Donaldson in [3] by using the full asymptotic expansion of Bergman kernel obtained in [2] and [4].

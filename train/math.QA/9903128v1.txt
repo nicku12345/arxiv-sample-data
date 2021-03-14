@@ -1,0 +1,1 @@
+Recently we have reformulated the octonions as quasissociative algebras (quasialgebras) living in a symmetric monoidal category. In this note we provide further examples of quasialgebras, namely ones where the nonassociativity is induced by a Z_n-grading and a nontrivial 3-cocycle

@@ -1,0 +1,1 @@
+Given a positive definite binary quadratic form f, let r(n) = |{(x,y): f(x,y)=n}| denote its representation function. In this paper we study linear correlations of these functions. For example, if r_1, ..., r_k are representation functions, we obtain an asymptotic for sum_{n,d} r_1(n) r_2(n+d) ... r_k(n+ (k-1)d).

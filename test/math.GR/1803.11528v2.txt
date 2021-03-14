@@ -1,0 +1,1 @@
+In this paper we will give various examples of exponentially distorted subgroups in linear groups, including some new example of subgroups of SL_n(\mathbb{Z}[x]) for n \ge 3, and show how they can be used to construct symmetric-key cryptographic platforms.

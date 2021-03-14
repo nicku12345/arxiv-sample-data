@@ -1,0 +1,1 @@
+We consider a one parameter family of Laplacians on a closed manifold and study the semi-classical limit of its analytically parametrized eigenvalues. Our results are analogous to a theorem for scalar Schr\"odinger operators on Euclidean space by Luc Hillairet and apply to geometric operators like Witten's Laplacian associated with a Morse function.

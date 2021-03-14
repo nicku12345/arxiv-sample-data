@@ -1,0 +1,1 @@
+We prove a lower bound on the spacing of zeros of paraorthogonal polynomials on the unit circle, based on continuity of the underlying measure as measured by Hausdorff dimensions. We complement this with the analog of the result from arXiv:1011.3159 showing that clock spacing holds even for certain singular continuous measures.

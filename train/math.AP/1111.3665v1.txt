@@ -1,0 +1,1 @@
+In this paper, we study the null controllability of weakly degenerate coupled parabolic systems with two different diffusion coefficients and one control force. To obtain this aim, we develop first new global Carleman estimates for degenerate parabolic equations with weight functions different from the ones in the previous works.

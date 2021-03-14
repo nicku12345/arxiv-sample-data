@@ -1,0 +1,1 @@
+We present various estimates for the Lebesgue constants of the thresholding greedy algorithm, in the case of general bases in Banach spaces. We show the optimality of these estimates in some situations. Our results recover and slightly improve various estimates appearing earlier in the literature.

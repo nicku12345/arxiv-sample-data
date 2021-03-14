@@ -1,0 +1,1 @@
+We focus on solving constrained convex optimization problems using mini-batch stochastic gradient descent. Dynamic sample size rules are presented which ensure a descent direction with high probability. Empirical results from two applications show superior convergence compared to fixed sample implementations.

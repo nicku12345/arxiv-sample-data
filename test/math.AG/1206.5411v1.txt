@@ -1,0 +1,1 @@
+The configuration of theta characteristics and vanishing thetanulls on a hyperelliptic curve is completely understood. We observe in this note that analogous results hold for the s-invariant theta characteristics on any curve C with an involution s . As a consequence we get examples of non hyperelliptic curves with a high number of vanishing thetanulls.

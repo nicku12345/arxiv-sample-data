@@ -1,0 +1,1 @@
+Let X be a topological space. We denote by \pi_0(X) the set of connected components of X and by \Pi_1(U) the fundamental groupoid. In this paper we prove that for good topological spaces the assignments U\mapsto\pi_0(U) and U\mapsto\Pi_1(U) are the terminal cosheaf and costack respectively.

@@ -1,0 +1,1 @@
+We study real analytic perturbations of hyperbolic linear automorphisms on the 2-torus. The Koopman and the transfer operator are nuclear of order 0 when acting on a suitable Hilbert space. We show the generic existence of non-trivial Ruelle resonances for both operators. We prove that some of the perturbations preserve the volume and some of them do not.

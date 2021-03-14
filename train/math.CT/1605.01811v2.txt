@@ -1,0 +1,1 @@
+We introduce a formalism to analyze partially defined functions between ordered sets. We show that our construction provides a uniform and conceptual approach to all the main definitions encountered in elementary real analysis including Dedekind cuts, limits and continuity.

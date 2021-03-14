@@ -1,0 +1,1 @@
+Let (\mathrm{M}, \omega_{0}) be a connected paracompact smooth oriented manifold. We establish a necessary and sufficient conditions on Lie subalgebra \mathfrak{a} of \mathrm{T M} such that its orbits becomes diffeomorphic to an open convex set of \mathbb{R}^{n}, where n is the orbit dimension.

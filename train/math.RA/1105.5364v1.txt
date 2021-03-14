@@ -1,0 +1,1 @@
+It is shown that the subalgebra of invariants of a free associative algebra of finite rank under a linear action of a semisimple Hopf algebra has a rational Hilbert series with respect to the usual degree function, whenever the ground field has zero characteristic.

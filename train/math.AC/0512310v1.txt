@@ -1,0 +1,1 @@
+In this paper we investigate the series \sum_{k = 1}^\infty \binom{3k}{k}^{-1}k^{-n}x^k. Obtaining some integral representations of them, we evaluated the sum of them explicitly for n = 0, 1, 2.

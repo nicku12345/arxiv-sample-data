@@ -1,0 +1,1 @@
+In this short note we give a short proof of a recent result by Potapov and Sukochev (arXiv:0904.4095v1), stating that a Lipschitz function on the real line remains Lipschitz on the (self-adjoint part of) non-commutative L_p spaces with 1<p<\infty.

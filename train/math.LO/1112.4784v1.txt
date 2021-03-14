@@ -1,0 +1,1 @@
+In this paper, we prove that a pseudoexponential field has continuum many non-isomorphic countable real closed exponential subfields, each with an order preserving exponential map which is surjective onto the nonnegative elements. Indeed, this is true of any algebraically closed exponential field satisfying Schanuel's conjecture.

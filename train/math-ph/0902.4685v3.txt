@@ -1,0 +1,1 @@
+In the present article we intend to accomplish a rigorous analysis which allows to elaborate useful symbolic and numerical codes leading to an accurate evaluation of the thermal radiation. We will consider the case of the electromagnetic field in axially symmetric systems, a case of real interest in cryogenics.

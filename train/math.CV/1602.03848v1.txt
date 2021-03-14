@@ -1,0 +1,1 @@
+We give a condition under which a divisor X in a bounded convex domain of finite type D in C^n is the zero set of a function in a Hardy space H^p(D) for some p \textgreater{} 0. This generalizes Varopoulos' result [Zero sets of H^p functions in several complex variables, Pac. J. Math. (1980)] on zero sets of H^p-functions in strictly convex domains of C^n .

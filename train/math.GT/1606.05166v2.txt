@@ -1,0 +1,1 @@
+We construct a weak 2-functor from the bicategory of oriented tangles to a bicategory of Lagrangian cospans. This functor simultaneously extends the Burau representation of the braid groups, its generalization to tangles due to Turaev and the first-named author, and the Alexander module of 1 and 2-dimensional links.

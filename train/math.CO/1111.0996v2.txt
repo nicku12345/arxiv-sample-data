@@ -1,0 +1,1 @@
+The Catalan transform of a sequence (a_{n})_{n>=0} is the sequence (b_{n})_{n>=0} with b_{n} = Sum[k/(2n-k) (2n-k)-choose-(n-k) a_{k},k=0..n]. Here we show that the Catalan transform of the Catalan numbers has a simple interpretation: it counts functions f:[1,n] -> [1,n] satisfying the condition that, for all i<j, f(j)-(j-i) is not in the interval [1,f(i)-1].

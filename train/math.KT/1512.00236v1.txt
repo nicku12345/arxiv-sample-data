@@ -1,0 +1,1 @@
+For every generalized quadratic form or hermitian form over a division algebra, the anisotropic kernel of the form obtained by scalar extension to the function field of a smooth projective conic is defined over the field of constants. The proof does not require any hypothesis on the characteristic.

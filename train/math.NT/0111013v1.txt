@@ -1,0 +1,1 @@
+We show that for a positive proportion of real primitive Dirichlet characters chi, the associated Dirichlet L-function L(s,chi) has no zeros on the positive real axis. Prior to this it was not known whether or not there were infinitely many L-functions (from any family) with no positive real zeros.

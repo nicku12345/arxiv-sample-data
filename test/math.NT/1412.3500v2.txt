@@ -1,0 +1,1 @@
+We prove a GL(n)xGL(n-1) local converse theorem for l-adic families of smooth representations of GL(n,F) where F is a finite extension of Q_p and l is different from p. To do so, we also extend the theory of Rankin-Selberg integrals, first introduced by Jacquet, Piatetski-Shapiro, and Shalika, to the setting of families, continuing previous work of the author.

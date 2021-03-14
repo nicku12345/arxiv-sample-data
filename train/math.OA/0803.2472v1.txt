@@ -1,0 +1,1 @@
+Let G be a locally compact group and rho a non-unitary finite dimensional representation of G. We consider tensor products of rho by some unitary representations of G in order to define two Banach algebras analogous to the group C*-algebras, C*(G) and C*_r(G). We calculate the K-theory of such algebras for a large class of groups satisfying the Baum-Connes conjecture.

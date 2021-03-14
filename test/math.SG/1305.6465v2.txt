@@ -1,0 +1,1 @@
+This article is concerned with moduli spaces of connections on bundles on Riemann surfaces, where the structure group of the bundle may vary in different regions of the surface. Here we will describe such moduli spaces as complex symplectic manifolds, generalising the complex character varieties of Riemann surfaces.

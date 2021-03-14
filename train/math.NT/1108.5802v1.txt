@@ -1,0 +1,1 @@
+Let f be an arithmetical function. The matrix [f[i,j]]_{n\times n} given by the value of f in least common multiple of [i,j], f\big([i,j]\big) as its i,\; j entry is called the least common multiple (LCM) matrix. We consider the generalization of this matrix where the elements are in the form f\big(n,[i,j]\big) and f\big(n,i,j,[i,j]\big).

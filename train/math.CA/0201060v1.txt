@@ -1,0 +1,1 @@
+We prove L^p estimates for the Walsh model of the maximal bi-Carleson operator (which is a hybrid of the bilinear Hilbert transform and the Carleson maximal operator which appears naturally in the eigenfunction problem for one-dimensional Schrodinger operators). The corresponding estimates for the Fourier model will be obtained in the sequel of this paper.

@@ -1,0 +1,1 @@
+We apply the work of Bourgain, Fremlin and Talagrand on compact subsets of the first Baire class to show new results about phi-types for phi NIP. In particular, we show that if M is a countable model, then an M-invariant phi-type is Borel definable. Also the space of M-invariant phi-types is a Rosenthal compactum, which implies a number of topological tameness properties.

@@ -1,0 +1,1 @@
+A contact graph of a packing of closed balls is a graph with balls as vertices and pairs of tangent balls as edges. We prove that the average degree of the contact graph of a packing of balls (with possibly different radii) in \mathbb{R}^3 is not greater than 13.955. We also find new upper bounds for the average degree of contact graphs in \mathbb{R}^4 and \mathbb{R}^5.

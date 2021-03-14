@@ -1,0 +1,1 @@
+We generalize a preceding simple proof of the Jamiolkowski criterion to check whether a given linear map between algebras of operators is completely positive or not. The generalization is performed to embrace all algebras of Hilbert-Schmidt class operators, thus possibly infinite-dimensional.

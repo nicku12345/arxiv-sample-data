@@ -1,0 +1,1 @@
+We study a one parameter family of cubic self-inversive polynomials that "envelope" conic sections in the following sense. Provided the three roots of the polynomial lie on the unit circle, when you draw the triangle connecting the roots, the sides of the triangle, or extensions thereof, will all be tangent to the same ellipse or hyperbola independent of the parameter.

@@ -1,0 +1,1 @@
+We decompose the Marsden-Weinstein reductions for the moment map associated to representations of a quiver. The decomposition involves symmetric products of deformations of Kleinian singularities, as well as other terms. As a corollary we deduce that the Marsden-Weinstein reductions are irreducible varieties.

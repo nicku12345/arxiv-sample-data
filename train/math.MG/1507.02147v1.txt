@@ -1,0 +1,1 @@
+We address various topologies (de Bruijn, chordal ring, generalized Petersen, meshes) in various ways ( isometric embedding, embedding up to scale, embedding up to a distance) in a hypercube or a half-hypercube. Example of obtained embeddings: infinite series of hypercube embeddable Bubble Sort and Double Chordal Rings topologies, as well as of regular maps.

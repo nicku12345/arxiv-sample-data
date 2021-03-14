@@ -1,0 +1,1 @@
+The supersymmetry method pioneered by Wegner and Efetov (1979-1983) is reviewed for the case of Hermitian band random matrices, with special attention given to the original method of Schaefer and Wegner and a recent variant due to Fyodorov. Particular emphasis is placed on correctness of the mathematical reasoning.

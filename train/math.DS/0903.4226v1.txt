@@ -1,0 +1,1 @@
+We present a novel way of realizing the Bernoulli shift on p symbols on the p-adic integers, where p is a prime. By showing that suitably small perturbations of the shift are still Bernoulli we find many "nice" maps, such as polynomials on \mathbb Z_p, that are isomorphic to the (noninvertible) Bernoulli shift.

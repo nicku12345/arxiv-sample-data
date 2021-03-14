@@ -1,0 +1,1 @@
+Let G be an algebraic group of classical type of rank l over an algebraically closed field K of characteristic p. We list and determine the dimensions of all irreducible KG-modules L with \dim L < \binom{l+1}{4} if G is of type A_l, and with \dim L < 16 \binom{l}{4}, if G is of type B_l, C_l or D_l.

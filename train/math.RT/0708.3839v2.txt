@@ -1,0 +1,1 @@
+We classify gentle algebras defined by quivers with two cycles under derived equivalence in a non degenerate case, by using some combinatorial invariants constructed from the quiver with relations defining these algebras. We also present a list of normal forms; any such algebra is derived equivalent to one of the algebras in the list.

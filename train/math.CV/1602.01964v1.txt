@@ -1,0 +1,1 @@
+In this paper we study H\"older continuity of the pluricomplex Green function with logarithmic growth at infinity of a smooth generic submanifold of \C^n. In particular we prove that the pluricomplex Green function of any C^2-smooth generic compact submanifold of \C^n (without boundary) is Lipschitz continuous in \C^n.

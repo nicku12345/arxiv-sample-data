@@ -1,0 +1,1 @@
+It is shown that, given any (n-1)-dimensional lattice L, there is a vector v in Z^n such that the projection of Z^n onto v^perp is arbitrarily close to L. The problem arises in attempting to find the largest cylinder anchored at two points of Z^n and containing no other points of Z^n.

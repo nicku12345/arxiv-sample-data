@@ -1,0 +1,1 @@
+Let X be a smooth projective variety of Albanese fiber dimension 1 and of general type. We prove that the translates through 0 of all components of V^0(\omega_X) generate \Pic^0(X). We then study the pluricanonical maps of X. We show that |4K_X| induces a birational map.

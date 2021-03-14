@@ -1,0 +1,1 @@
+An element w of a Weyl group W is called elliptic if it has no eigenvalue 1 in the standard reflection representation. We determine the order of any representative g in a semisimple algebraic group G of an elliptic element w in the corresponding Weyl group W. In particular if w has order d and G is simple of type different from C_n or F_4, then g has order d in G.

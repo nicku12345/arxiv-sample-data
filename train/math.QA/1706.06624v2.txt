@@ -1,0 +1,1 @@
+We study the realizations of certain braided vector spaces of rack type as Yetter-Drinfeld modules over a cosemisimple Hopf algebra H. We apply the strategy developed in arXiv:1212.5279 to compute their liftings and use these results to obtain the classification of finite-dimensional copointed Hopf algebras over \mathbb{S}_4.

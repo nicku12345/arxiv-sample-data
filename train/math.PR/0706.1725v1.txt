@@ -1,0 +1,1 @@
+Given d \in (0,infty) let k_d be the smallest integer k such that d < 2k\log k. We prove that the chromatic number of a random graph G(n,d/n) is either k_d or k_d+1 almost surely.

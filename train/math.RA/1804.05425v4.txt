@@ -1,0 +1,1 @@
+In this paper we compute the center of many noncommutative algebras that can be interpreted as skew PBW extensions. We show that, under some natural assumptions on the parameters that define the extension, either the center is trivial, or, it is of polynomial type. As an application, we provided new examples of noncommutative algebras that are cancellative.

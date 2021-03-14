@@ -1,0 +1,1 @@
+It is shown that the orthogonal polynomials, corresponding to the oscillatory weight e^{\im\omega x}, exists if \omega is a transcendental number and \tan\omega/\omega\in\Q. Also, it is proved that such orthogonal polynomials exist for almost every \omega>0, and the roots are all simple if \omega>0 is either small enough or large enough.

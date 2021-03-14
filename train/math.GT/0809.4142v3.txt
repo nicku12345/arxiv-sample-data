@@ -1,0 +1,1 @@
+For any knot with genus one and unknotting number one, other than the figure-eight knot, we prove that there is exactly one way to unknot it by means of a crossing change. In the case of the figure-eight knot, we prove that there are precisely two unknotting crossing changes. The proof uses sutured manifold theory and an analysis of the arc complex of the once-punctured torus.

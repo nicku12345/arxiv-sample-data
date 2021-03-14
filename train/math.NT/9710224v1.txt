@@ -1,0 +1,1 @@
+Let C be the curve y^2=x^6+1 of genus 2 over a field of characteristic zero. Consider C embedded in its Jacobian J by sending one of the points at infinity on C to the origin of J. In this brief note we show that the points of C whose image on J are torsion are precisely the two points at infinity and the six points with y=0.

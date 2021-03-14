@@ -1,0 +1,1 @@
+We show that there are four possibilities for the product of all elements in the multiplicative group of a quotient of the ring of integers in a number field, and give precise conditions for each of the possibilities to occur. This generalisation of Wilson's theorem turns out to have been first discovered by M. La\v{s}\v{s}\'ak (2000), but our proof is simpler and more direct.

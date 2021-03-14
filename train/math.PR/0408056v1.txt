@@ -1,0 +1,1 @@
+We consider a random walk X_n in non-i.i.d. environment and show that the ratio of log X_n to log n converges in probability to a positive constant.

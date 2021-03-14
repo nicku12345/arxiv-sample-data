@@ -1,0 +1,1 @@
+We study a form of cyclic pursuit on Riemannian manifolds with positive injectivity radius. We conjecture that on a compact manifold, the piecewise geodesic loop formed by connecting consecutive pursuit agents either collapses in finite time or converges to a closed geodesic. The main result is that this conjecture is valid for nonpositively curved compact manifolds.

@@ -1,0 +1,1 @@
+For D, D' analytic polyhedra in C^n, it is proven that a biholomorphic mapping f\colon D\to D' extends holomorphically to a dense boundary subset under certain condition of general position. This result is also extended to a more general class of domains with no smoothness condition on the boundary.

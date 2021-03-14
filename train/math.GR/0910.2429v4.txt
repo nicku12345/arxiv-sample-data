@@ -1,0 +1,1 @@
+Although any finite Bol loop of odd prime exponent is solvable, we show there exist such Bol loops with trivial center. We also construct finitely generated, infinite, simple Bruck loops of odd prime exponent for sufficiently large primes. This shows that the Burnside problem for Bruck loops has a negative answer.

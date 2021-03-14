@@ -1,0 +1,1 @@
+We prove that, under certain conditions, the model structure on a monoidal model category \mathcal{V} can be transferred to a model structure on the category of \mathcal{V}-enriched coloured (symmetric) operads. As a particular case we recover the known model structure on simplicial operads.

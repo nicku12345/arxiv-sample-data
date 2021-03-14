@@ -1,0 +1,1 @@
+We show that if \rho is a non-trivial zero of the Riemann zeta function \zeta then 2^\rho + \frac{1}{\rho - 1} + 1/2 = \rho \int_{1}^{\infty} {t + 1/2} t^{-\rho-1} dt where, {x} is the fractional part of x.

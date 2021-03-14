@@ -1,0 +1,1 @@
+Edwards' Theorem establishes duality between a convex cone in the space of continuous functions on a compact space and the set of representing or Jensen measures for this cone. In this paper we prove non-compact versions of this theorem.

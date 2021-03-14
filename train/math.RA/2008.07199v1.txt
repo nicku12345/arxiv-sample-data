@@ -1,0 +1,1 @@
+For an infinite dimensional Hopf quasigroup, if the faithful integral exists, then it is unique up to scalar. Base on the faithful integrals, we construct the integral dual of a class of infinite dimensional Hopf quasigroups, and show that the integral dual has a similar structure to Hopf coquasigroup, which is a regular multiplier Hopf coquasigroup with a faithful integral.

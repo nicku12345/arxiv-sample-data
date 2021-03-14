@@ -1,0 +1,1 @@
+Let {\cal O} be a quantizable coadjoint orbit of a semisimple Lie group G. Under certain hypotheses we prove that #(\pi_1(\text{Ham}({\cal O})))\geq #(Z(G)), where \text{Ham}({\cal O}) is the group of Hamiltonian symplectomorphisms of {\cal O}.

@@ -1,0 +1,1 @@
+The purpose of this work is to produce a converse theorem for adelic Eisenstein series on the double metaplectic cover of the group SL_2(\mathbb{A}). We show that the double Dirichlet series, which satisfy the natural functional equations required in our theorem, are in fact Mellin transforms at infinity of metaplectic Eisenstein series.

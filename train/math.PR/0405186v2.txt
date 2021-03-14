@@ -1,0 +1,1 @@
+We consider the motion of a discrete random surface interacting by exclusion with a random wall. The heights of the wall at the sites of \Z^d are i.i.d.\ random variables. Fixed the wall configuration, the dynamics is given by the serial harness process which is not allowed to go below the wall. We study the effect of the distribution of the wall heights on the repulsion speed.

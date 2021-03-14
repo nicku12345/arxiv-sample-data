@@ -1,0 +1,1 @@
+We develop a theory of modulus sheaves with transfers, which generalizes Voevodsky's theory of sheaves with transfers. This paper and its sequel are foundational for the theory of motives with modulus, which is developed in [KMSY20].

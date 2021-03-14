@@ -1,0 +1,1 @@
+The domains of mesh functions are strict subsets of the underlying space of continuous independent variables. Spaces of partial maps between topological spaces admit topologies which do not depend on any metric. Such topologies geometrically generalize the usual numerical analysis definitions of convergence.

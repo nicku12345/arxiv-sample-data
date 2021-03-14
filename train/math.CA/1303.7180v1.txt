@@ -1,0 +1,1 @@
+We discuss weighted estimates for the squares of the Riesz transforms, R^{2}, on L^{2}(W) where W is a matrix A2 weight. We prove that if W is close to the Identity matrix Id, then the operator norm of R^{2} is close to its unweighted norm on L^{2} which is one. This is done by the use of the Bellman function technique.

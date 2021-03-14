@@ -1,0 +1,1 @@
+We generalize the Wiener-Hopf factorization of Laurent series to more general commutative coefficient rings, and we give explicit formulas for the decomposition. We emphasize the algebraic nature of this factorization.

@@ -1,0 +1,1 @@
+For an interval finite quiver Q, we introduce a class of flat representations. We classify the indecomposable projective objects in the category \mathrm{rep}(Q) of pointwise finite dimensional representations. We show that an object in \mathrm{rep}(Q) is projective if and only if it is a direct sum of countably generated flat representations.

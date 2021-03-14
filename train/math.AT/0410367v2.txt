@@ -1,0 +1,1 @@
+We show that the topological Hochschild homology THH(R of an E_n-ring spectrum R is an E_{n-1}-ring spectrum. The proof is based on the fact that the tensor product of the operad Ass for monoid structures and the the little n-cubes operad is an E_{n+1}-operad, a result which is of independent interest.

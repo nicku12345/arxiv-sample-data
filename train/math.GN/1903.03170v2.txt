@@ -1,0 +1,1 @@
+We construct, using mild combinatorial hypotheses, a real Menger set that is not Scheepers, and two real sets that are Menger in all finite powers, with a non-Menger product. By a forcing-theoretic argument, we show that the same holds in the Blass--Shelah model for arbitrary values of the ultrafilter and dominating number.

@@ -1,0 +1,1 @@
+We show that if G is a finite group and A is a subset of G with no non-trivial solutions to xz=yy then |A| < |G|/(log log |G|)^c.

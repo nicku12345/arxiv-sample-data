@@ -1,0 +1,1 @@
+Let a compact group G act on real or complex C*-algebras A and B, with A separable and B sigma-unital. We express the G-equivariant Kasparov groups KK_n(A,B) by algebraic K-groups of a certain additive category.

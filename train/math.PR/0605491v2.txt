@@ -1,0 +1,1 @@
+We study in this article large deviations for the empirical mean of iid random vectors with some deterministic weights, whose empirical measure weakly converges to some compactly support probability distribution. The scope of this paper is to study the effect on the LDP of outliers, that is sequences of weights that remain far from the support of the limiting measure.

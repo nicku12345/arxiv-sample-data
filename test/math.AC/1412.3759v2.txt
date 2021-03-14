@@ -1,0 +1,1 @@
+Let k be a field, and let X,Y be two locally noetherian k-schemes (respectively k-formal schemes) with dualizing complexes R_X and R_Y respectively. We show that R_X \boxtimes_{k} R_Y (respectively its derived completion) is a dualizing complex over X\times_{k} Y if and only if X\times_{k} Y is locally noetherian of finite Krull dimension.

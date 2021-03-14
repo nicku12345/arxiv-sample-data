@@ -1,0 +1,1 @@
+We deal with a mechanism of generating distributional chaos in planar nonautonomous ODEs and try to measure chaosity in terms of topological entropy. It is based on the interplay between simple periodic solutions. We prove the existence of infinitely many heteroclinic solutions betwen the periodic ones.

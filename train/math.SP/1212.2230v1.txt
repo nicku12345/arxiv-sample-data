@@ -1,0 +1,1 @@
+In this note, we derive explicit formulas for the Schroedinger wave operators in R^2 under the assumption that 0-energy is neither an eigenvalue nor a resonance. These formulas justify the use of a recently introduced topological approach of scattering theory to obtain index theorems.

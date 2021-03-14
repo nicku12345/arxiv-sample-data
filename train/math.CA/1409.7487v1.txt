@@ -1,0 +1,1 @@
+Based on the total integrability we first define an integral of a real valued function f as an interval function associated to its antiderivative F. By introducing the concept of the residue of a function into the real analysis, the relationship between the so defined integral and the generalized Riemann integral is established.

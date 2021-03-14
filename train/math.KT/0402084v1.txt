@@ -1,0 +1,1 @@
+We show that some associative algebras whose product splits up into the sum of several operations and are free, in a certain sense, with respect to these operations, admit a Hopf algebra structure. We show that the operad of dendriform algebras play a crucial role in this context, and we give numerous examples.

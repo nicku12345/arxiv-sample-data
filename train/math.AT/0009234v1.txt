@@ -1,0 +1,1 @@
+Concerns decompositions of smooth 4-manifolds as the union of two handlebodies, each with handles of index <=2 (``Heegard'' decompositions).Sample result: Two 2-complexes are (up to 2-deformation) dual spines of a Heegard decomposition of the 4-sphere if and only if they satisfy the conclusions of the Alexander-Lefshetz duality theorem (H_1K\simeq H^2L and H_2K\simeq H^1L).

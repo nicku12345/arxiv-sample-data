@@ -1,0 +1,1 @@
+This paper generalize [7](math.GT/0601291): We construct new links invariants from g, a type I basic classical Lie superalgebra. The construction uses the existence of an unexpected replacement of the vanishing quantum dimension of typical module. Using this, we get a multivariable link invariant associated to any one parameter family of irreducible g-modules.

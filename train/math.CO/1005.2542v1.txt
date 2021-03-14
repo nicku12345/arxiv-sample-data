@@ -1,0 +1,1 @@
+For a graph G, its rth power is constructed by placing an edge between two vertices if they are within distance r of each other. In this note we study the amount of edges added to a graph by taking its rth power. In particular we obtain that either the rth power is complete or "many" new edges are added. This is an extension of a result obtained by P. Hegarty for cubes of graphs.

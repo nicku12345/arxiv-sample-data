@@ -1,0 +1,1 @@
+In this paper, we point out that many Jacobi elliptic function solutions to non-linear differential equation(NDE) can be transformed each other via the modulus and phase transformation of Jacobi elliptic function. Therefore these solutions are equivalent. We investigate equivalent of the Jacobi elliptic function solutions of Korteweg-de Vries (mKdV) equation as a example.

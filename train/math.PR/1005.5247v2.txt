@@ -1,0 +1,1 @@
+In this paper, we deal with one dimensional backward doubly stochastic differential equations (BDSDEs) where the coefficient is left Lipschitz in y (may be discontinuous) and uniformly continuous in z. We obtain a generalized comparison theorem and a generalized existence theorem of BDSDEs .

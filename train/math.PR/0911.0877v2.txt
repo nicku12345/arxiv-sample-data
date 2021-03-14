@@ -1,0 +1,1 @@
+We consider a branching random walk on \mathbb{R} with a killing barrier at zero. At criticality, the process becomes eventually extinct, and the total progeny Z is therefore finite. We show that the tail distribution of Z displays a typical behaviour in (n\ln^2(n))^{-1}, which confirms the prediction of Addario-Berry and Broutin.

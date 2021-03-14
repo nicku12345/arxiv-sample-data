@@ -1,0 +1,1 @@
+We calculate the parabolic Chern character of a bundle with locally abelian parabolic structure on a smooth strict normal crossings divisor, using the definition in terms of Deligne-Mumford stacks. We obtain explicit formulas for ch_1, ch_2 and ch_3, and verify that these correspond to the formulas given by Borne for ch_1 and Mochizuki for ch_2.

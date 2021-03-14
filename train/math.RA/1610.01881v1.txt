@@ -1,0 +1,1 @@
+Let H and L be two Hopf algebras such that their comodule categories are monoidal equivalent. We prove that if H is a twisted Calabi-Yau (CY) Hopf algebra, then L is a twisted CY algebra when it is homologically smooth. Especially, if H is a Noetherian twisted CY Hopf algebra and L has finite global dimension, then L is a twisted CY algebra.

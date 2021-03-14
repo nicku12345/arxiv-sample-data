@@ -1,0 +1,1 @@
+Here we calculate the Chern classes of {\bar {\mathcal M}}_{g,n}, the moduli stack of stable n-pointed curves. In particular, we prove that such classes lie in the tautological ring.

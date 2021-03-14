@@ -1,0 +1,1 @@
+We define a morphism based upon a Latin square that generalizes the Thue-Morse morphism. We prove that fixed points of this morphism are overlap-free sequences generalizing results of Allouche - Shallit and Frid.

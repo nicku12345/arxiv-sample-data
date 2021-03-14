@@ -1,0 +1,1 @@
+Let G be a finite simple graph and I(G) denote the corresponding edge ideal. In this paper we prove that if G is a very well-covered graph then for all s \geq 2 the regularity of I(G)^s is exactly 2s+\nu(G)-1.

@@ -1,0 +1,1 @@
+Sperner's lemma states that every Sperner coloring of a triangulation of a simplex contains a fully colored simplex. We present a generalization of this lemma, where instead of triangulations are considered quadrangulations.

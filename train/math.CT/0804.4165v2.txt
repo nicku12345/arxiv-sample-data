@@ -1,0 +1,1 @@
+We introduce a category of locally constant n-operads which can be considered as the category of higher braided operads. For n=1,2,\infty the homotopy category of locally constant n-operads is equivalent to the homotopy category of classical nonsymmetric, braided and symmetric operads correspondingly.

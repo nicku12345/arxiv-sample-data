@@ -1,0 +1,1 @@
+We review and apply Cheeger-Gromov theory on l^2-cohomology of infinite coverings of complete manifolds with bounded curvature and finite volume. Applications focus on l^2-cohomology of (pullback of) harmonic Higgs bundles on some covering of Zariski open sets of K\"ahler manifolds. The l^2-Dolbeault to DeRham spectral sequence of these Higgs bundles is seen to degenerate at E_2.

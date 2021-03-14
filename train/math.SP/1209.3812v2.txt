@@ -1,0 +1,1 @@
+We compute the Dirac spectrum of SU(3) for a one parameter family of Dirac operators, including the Levi-Civita, cubic, and trivial Dirac operators. We then proceed to compute the spectral action for the entire family.

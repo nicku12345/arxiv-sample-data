@@ -1,0 +1,1 @@
+In this paper, we considered the theory of quasideterminants and row and column determinants. We considered the application of this theory to the solving of a system of linear equations in quaternion algebra. We established correspondence between row and column determinants and quasideterminants of matrix over quaternion algebra.

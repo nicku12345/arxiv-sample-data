@@ -1,0 +1,1 @@
+The main result of this paper is the following theorem. Let q be a prime, A an elementary abelian group of order q^3. Suppose that A acts as a coprime group of automorphisms on a profinite group G in such a manner that C_G(a)' is periodic for each nontrivial element a in A. Then G' is locally finite.

@@ -1,0 +1,1 @@
+A transform that enables generator-matrix-based Reed-Solomon (RS) coded data to be recovered under interpolation-based list decoding is presented. The transform matrix needs to be computed only once and the transformation of an element from the output list to the desired RS coded data block incurs k^{2} field multiplications, given a code of dimension k.

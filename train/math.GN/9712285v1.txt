@@ -1,0 +1,1 @@
+It is shown that there exists a complete, atomless, sigma-centered Boolean algebra, which does not contain any regular countable subalgebra if and only if there exist a nowhere dense ultrafilter. Therefore the existence of such algebras is undecidable in ZFC.

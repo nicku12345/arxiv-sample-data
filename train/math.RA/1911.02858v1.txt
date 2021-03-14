@@ -1,0 +1,1 @@
+Antilattices (S;\lor, \land) for which the Green's equivalences \mathcal L_{(\lor)}, \mathcal R_{(\lor)}, \mathcal L_{(\land)} and \mathcal R_{(\land)} are all congruences of the entire antilattice are studied and enumerated.

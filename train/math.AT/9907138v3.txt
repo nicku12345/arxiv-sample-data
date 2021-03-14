@@ -1,0 +1,1 @@
+We prove that strongly homotopy algebras (such as A_\infty, C_\infty, sh Lie, B_\infty, G_\infty,...) are homotopically invariant in the category of chain complexes. An important consequence is a rigorous proof that `strongly homotopy structures transfer over chain homotopy equivalences.'

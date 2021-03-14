@@ -1,0 +1,1 @@
+A space X is star-Lindelof provided for every open cover U there is a finite subset A of X such that St(A,U)=X. We show that a Tychonoff star-Lindelof space can have arbitraryly big extent while the extent of a normal star-Lindelof space can not be greater than c.

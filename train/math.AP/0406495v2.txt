@@ -1,0 +1,1 @@
+We prove a sharp H\"older estimate for solutions of linear two-dimensional, divergence form elliptic equations with measurable coefficients, such that the matrix of the coefficients is symmetric and has {\em unit determinant}. Our result extends some previous work by Piccinini and Spagnolo. The proof relies on a sharp Wirtinger type inequality.

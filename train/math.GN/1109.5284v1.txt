@@ -1,0 +1,1 @@
+The set of continuous or Baire class 1 functions defined on a metric space X is endowed with the natural pointwise partial order. We investigate how the possible lengths of well-ordered monotone sequences (with respect to this order) depend on the space X.

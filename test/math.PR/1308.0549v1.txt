@@ -1,0 +1,1 @@
+In this note, we study the asymptotic behaviour near extinction of (sub-) critical continuous state branching processes. In particular, we establish an analogue of Khintchin's law of the iterated logarithm near extinction time for a continuous state branching process whose branching mechanism satisfies a given condition and its reflected process at its infimum.

@@ -1,0 +1,1 @@
+We restrict the type of 2 \times 2-matrices which can occur as simple components in the Wedderburn decomposition of the rational group algebra of a finite group. This results in a description up to commensurability of the group of units of the integral group ring \mathbb Z G for all finite groups G that do not have a non-commutative Frobenius complement as a quotient.

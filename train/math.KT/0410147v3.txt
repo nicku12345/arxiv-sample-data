@@ -1,0 +1,1 @@
+Let F be a nonarchimedean local field and let GL(N) = GL(N,F). We prove the existence of parahoric types for GL(N). We construct representative cycles in all the homology classes of the chamber homology of GL(3).

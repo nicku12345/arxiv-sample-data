@@ -1,0 +1,1 @@
+It is proven here that if the connected sum of two tunnel number one knots in the 3-sphere is a tunnel number two knot, then at least one of the summand knots has a genus two Heegaard splitting with a meridian as a primitive element. Hence this is a necessary and sufficient condition for tunnel number one knots to have additive tunnel number.

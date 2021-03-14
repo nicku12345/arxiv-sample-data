@@ -1,0 +1,1 @@
+Deligne asked in 1993 whether the Hochschild cochain complex of an associative ring has a natural action by the singular chains of the little 2-cubes operad. In this paper we give an affirmative answer to this question. We also show that the topological Hochschild cohomology spectrum of an associative ring spectrum has an action of an operad equivalent to the little 2-cubes.

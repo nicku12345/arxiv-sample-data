@@ -1,0 +1,1 @@
+We reprove the main result of our joint work [arXiv:0706.0604] with Srinivas, concerning finite Schur filtration dimension, but now with the base field replaced by a commutative noetherian ring k. This leads to finiteness results for the cohomology of a reductive group scheme G over k with coefficients in a finitely generated commutative k-algebra with G action.

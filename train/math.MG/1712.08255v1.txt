@@ -1,0 +1,1 @@
+It is known that if finite subsets of a locally finite metric space M admit C-bilipschitz embeddings into \ell_p (1\le p\le \infty), then for every \epsilon>0, the space M admits a (C+\epsilon)-bilipschitz embedding into \ell_p. The goal of this paper is to show that for p\ne 2,\infty this result is sharp in the sense that \epsilon cannot be dropped out of its statement.

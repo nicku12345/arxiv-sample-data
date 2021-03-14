@@ -1,0 +1,1 @@
+Consider a complex one dimensional foliation on a complex surface near a singularity p. If \mathcal{I} is a closed invariant set containing the singularity p, then \mathcal{I} contains either a separatrix at p or an invariant real three dimensional manifold singular at p.

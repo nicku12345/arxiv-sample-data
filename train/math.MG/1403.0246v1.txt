@@ -1,0 +1,1 @@
+An old result of Zamfirescu says that for most convex curves C in the plane most points in R^2 lie on infinitely many normals to C, where most is meant in Baire category sense. We strengthen this result by showing that `infinitely many' can be replaced by `contiunuum many' in the statement. We present further theorems in the same spirit.

@@ -1,0 +1,1 @@
+We consider the transmission of a single bit over the continuous-time Poisson channel with noiseless feedback. We show that to send the bit reliably requires, on the average, half the energy of a photon. In the absence of peak-power constraints this holds irrespective of the intensity of the dark current. We also solve for the energy required to send log_{2} M bits.

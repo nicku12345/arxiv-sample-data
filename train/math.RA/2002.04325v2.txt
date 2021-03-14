@@ -1,0 +1,1 @@
+Given a ring T_n, n\geqslant 2, of lower triangular n\times n matrices with entries from an arbitrary field F, a complete description is performed of the orbits of free cyclic submodules of ^2T_n, under the action of the general linear group GL_2(T_n). It is given its total number, which is equal to the Bell number B_n, and there are shown their representatives.

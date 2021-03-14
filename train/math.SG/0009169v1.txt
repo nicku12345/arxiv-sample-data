@@ -1,0 +1,1 @@
+Hirzebruch surfaces provide an excellent example to underline the fact that in general symplectic manifolds, Gromov-Witten invariants might well count curves in the boundary components of the moduli space. We use this example to explain in detail that the counting argument given by Batyrev in "Quantum cohomology rings of toric manifolds" (Asterisque 218:9-34, 1993) does not work.

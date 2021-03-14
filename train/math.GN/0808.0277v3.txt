@@ -1,0 +1,1 @@
+We give an easily checkable algebraic condition which implies that two elements of a finitely generated free group are members of distinct doubly-twisted conjugacy classes with respect to a pair of homomorphisms. We further show that this criterion is satisfied with probability 1 when the homomorphisms and elements are chosen at random.

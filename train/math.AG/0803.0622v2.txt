@@ -1,0 +1,1 @@
+In this paper we prove a generalization of a theorem of Schneider, which gives a criterion for a projective surface over the complex numbers to have an ample cotangent bundle. After reviewing different notions of positivity, we introduce a slightly weaker notion of ampleness, which we call quasi-ample, and then are able to extend Schneider's result to higher dimensions.

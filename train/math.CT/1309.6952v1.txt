@@ -1,0 +1,1 @@
+We prove that the category of dg-coalgebras is symmetric monoidal closed and that the category of dg-algebras is enriched, tensored, cotensored and strongly monoidal over that of coalgebras. We apply this formalism to reconstruct several known adjunctions, notably the bar-cobar adjunction.

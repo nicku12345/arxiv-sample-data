@@ -1,0 +1,1 @@
+For each Hermitian matrix, we prove that instead of the leading principal minors some of their sums can be used in the leading principal minors criterion and in other inertia problems.

@@ -1,0 +1,1 @@
+We give an explicit expression for the invariant measure, absolutely continuous with respect to the Lebesgue measure, of the greedy beta-transformation with three deleted digits. We define a version of the natural extension of the transformation to obtain this expression. We get that the transformation is exact and weakly Bernoulli.

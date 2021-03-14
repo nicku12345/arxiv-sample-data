@@ -1,0 +1,1 @@
+We introduce a canonical form for near-normal sequences NN(n), and using it we enumerate the equivalence classes of such sequences for even n up to 30. These sequences are needed for Yang multiplication in the construction of longer T-sequences from base sequences.

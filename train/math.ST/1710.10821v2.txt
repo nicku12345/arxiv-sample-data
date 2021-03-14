@@ -1,0 +1,1 @@
+We study the problem of detecting a drift change of a Brownian motion under various extensions of the classical case. Specifically, we consider the case of a random post-change drift and examine monotonicity properties of the solution with respect to different model parameters. Moreover, robustness properties -- effects of misspecification of the underlying model -- are explored.

@@ -1,0 +1,1 @@
+We introduce a substitute for the concept of slice for the case of non-linear Lipschitz functionals and transfer to the non-linear case some results about the Daugavet and the alternative Daugavet equations previously known only for linear operators.

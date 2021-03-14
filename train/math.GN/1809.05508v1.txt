@@ -1,0 +1,1 @@
+In a paper by Bella, Tokg\"os and Zdomskyy it is asked whether there exists a Tychonoff space X such that the remainder of C_p(X) in some compactification is Menger but not \sigma-compact. In this paper we prove that it is consistent that such space exists and in particular its existence follows from the existence of a Menger ultrafilter.

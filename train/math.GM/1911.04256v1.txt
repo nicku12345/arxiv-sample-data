@@ -1,0 +1,1 @@
+The aim of this paper is to make the clarification of images faster by the formula that Franciszekn made for matrices integrations and this made Sukhvinders Algorithm complicate and slower. This paper uses the Fibonacci number to determine integration formulas for matrices of order 2 and 3 in order to make the process of images clarification shorter.

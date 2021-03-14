@@ -1,0 +1,1 @@
+For the Srzednicki-W\'ojcik equation, the planar nonautonomous ODE parameterized by \kappa \in \mathbb{R},  z'=\overline{z}(1+ |z|^2 \exp(i \kappa t)), \qquad z(t) \in \mathbb{C}  using averaging we show how the region of hyperbolicty grows with |\kappa|. Based on this we give bounds on the sizes of bounded orbits.

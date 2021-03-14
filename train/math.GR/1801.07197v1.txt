@@ -1,0 +1,1 @@
+We show that, for a finitely generated residually finite group \Gamma, the word [x_1, \ldots, x_k] is a probabilistic identity of \Gamma if and only if \Gamma is virtually nilpotent of class less than k. Related results, generalizations and problems are also discussed.

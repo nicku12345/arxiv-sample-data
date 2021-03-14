@@ -1,0 +1,1 @@
+We obtain an estimate of Voiculescu's (modified) free entropy dimension for generators of a {II}_1-factor \mc{M} with a subfactor \mc{N} containing an abelian subalgebra \mc{A} of finite multiplicity. It implies in particular that the interpolated free group subfactors of finite Jones index do not have abelian subalgebras of finite multiplicity or Cartan subalgebras.

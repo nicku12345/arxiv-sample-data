@@ -1,0 +1,1 @@
+We give a study of some molecular vibration potentials by solving the D-dimensional Schrodinger equation using the asymptotic iteration method (AIM). The eigenvalue values obtained by the AIM are found to agree with analytic solutions. The corresponding eigenfunctions are also obtained using the AIM

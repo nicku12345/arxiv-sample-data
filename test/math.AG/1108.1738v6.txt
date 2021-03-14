@@ -1,0 +1,1 @@
+We develop the notion of indscheme in the context of derived algebraic geometry, and study the categories of quasi-coherent sheaves and ind-coherent sheaves on indschemes. The main results concern the relation between classical and derived indschemes and the notion of formal smoothness.

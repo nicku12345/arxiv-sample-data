@@ -1,0 +1,1 @@
+We consider open spin chains based on osp(m|2n) Yangians. We solve the reflection equations for some classes of reflection matrices, including the diagonal ones. Having then integrable open spin chains, we write the analytical Bethe Ansatz equations. More details and references can be found in [1,2].

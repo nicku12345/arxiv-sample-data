@@ -1,0 +1,1 @@
+The splitting number of a link is the minimum number of crossing changes between distinct components that is required to convert the link into a split link. We provide a bound on the splitting number in terms of the four-genus of related knots.

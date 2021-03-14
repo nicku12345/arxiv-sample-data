@@ -1,0 +1,1 @@
+We study nonsymmetric tridiagonal operators acting in the Hilbert space \ell^2 and describe the spectrum and the resolvent set of such operators in terms of a continued fraction related to the resolvent. In this way we establish a connection between Pad\'e approximants and spectral properties of nonsymmetric tridiagonal operators.

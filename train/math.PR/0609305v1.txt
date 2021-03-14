@@ -1,0 +1,1 @@
+The comparison theorem for skew Brownian motions is proved. As the corollary we get the estimate on {\Cal L}_1-distance between two skew Brownian motions started from different points. Using this result we prove the continuous dependence on starting point of one class of generalized diffusion processes constructed as the strong solution to an SDE.

@@ -1,0 +1,1 @@
+We present a new oscillation criterion to determine whether the number of eigenvalues below the essential spectrum of a given Jacobi operator is finite or not. As an application we show that Kenser's criterion for Jacobi operators follows as a special case.

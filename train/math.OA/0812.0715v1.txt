@@ -1,0 +1,1 @@
+Joinings of C*-dynamical systems are defined in terms of free products of C*-algebras, as an analogue of joinings of classical dynamical systems. We then consider disjointness in this context, in particular for ergodic versus identity systems. Lastly we show how multi-time correlation functions appearing in quantum statistical mechanics naturally fit into this joining framework.

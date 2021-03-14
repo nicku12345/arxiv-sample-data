@@ -1,0 +1,1 @@
+We extend the concepts of de Casteljau and de Boor algorithms as well as splines to geodesic spaces and present some applications in geometric modeling. The concept of weighted geometric mean provides another approach to splines. We compare the corresponding Bezier curves and show that for Riemannian manifolds, their endpoint tangents coincide.

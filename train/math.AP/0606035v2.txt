@@ -1,0 +1,1 @@
+We describe a formula for the Taylor series expansion of the Gaussian kernel around the origin of \Rn\times\R.

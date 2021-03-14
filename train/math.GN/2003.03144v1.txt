@@ -1,0 +1,1 @@
+We prove that in the Miller model, every M-separable space of the form C_p(X), where X is metrizable and separable, is productively M-separable, i.e., C_p(X)\times Y is M-separable for every countable M-separable Y.

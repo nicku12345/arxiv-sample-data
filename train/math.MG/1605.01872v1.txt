@@ -1,0 +1,1 @@
+We show that any k-th closed sphere-of-influence graph in a d-dimensional normed space has a vertex of degree less than~5^d k, thus obtaining a common generalization of results of F\"uredi and Loeb (1994) and Guibas, Pach and Sharir (1994).

@@ -1,0 +1,1 @@
+By a twenty year old result of Ralph Freese, an n-element lattice L has at most 2^{n-1} congruences. We prove that if L has less than 2^{n-1} congruences, then it has at most 2^{n-2} congruences. Also, we describe the n-element lattices with exactly 2^{n-2} congruences.

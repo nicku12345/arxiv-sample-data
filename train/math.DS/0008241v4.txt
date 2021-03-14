@@ -1,0 +1,1 @@
+We consider the system of N (\ge2) hard disks of masses m_1,...,m_N and radius r in the flat unit torus \Bbb T^2. We prove the ergodicity (actually, the B-mixing property) of such systems for almost every selection (m_1,...,m_N;r) of the outer geometric parameters.

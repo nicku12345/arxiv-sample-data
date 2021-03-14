@@ -1,0 +1,1 @@
+We show that the Lipschitz shadowing property of a diffeomorphism is equivalent to structural stability. As a corollary, we show that an expansive diffeomorphism having the Lipschitz shadowing property is Anosov.

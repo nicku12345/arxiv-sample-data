@@ -1,0 +1,1 @@
+In this paper, we introduce some explicit approximations for the summation \sum_{k\leq n}\Omega(k), where \Omega(k) is the total number of prime factors of k.

@@ -1,0 +1,1 @@
+We prove that a quasi-bialgebra admits a preantipode if and only if the associated free quasi-Hopf bimodule functor is Frobenius, if and only if the relative (opmonoidal) monad is a Hopf monad. The same results hold in particular for a bialgebra, tightening the connection between Hopf and Frobenius properties.

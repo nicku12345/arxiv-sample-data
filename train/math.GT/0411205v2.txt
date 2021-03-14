@@ -1,0 +1,1 @@
+For an arbitrary positive integer n, we construct infinitely many one-cusped hyperbolic 3-manifolds where each manifold's A-polynomial detects every n-th root of unity. This answers a question of Cooper, Culler, Gillet, Long, and Shalen as to which roots of unity arise in this manner.

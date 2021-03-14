@@ -1,0 +1,1 @@
+In the paper we consider two positive contractions T,S:L^{1}(A,\tau)\longrightarrow L^{1}(A,\tau) such that T\leq S, here (A,\t) is a semi-finite JBW-algebra. If there is an n_{0}\in\mathbb{N} such that \|S^{n_{0}}-T^{n_{0}}\|<1. Then we prove that \|S^{n}-T^{n}\|<1 holds for every n\geq n_{0}.

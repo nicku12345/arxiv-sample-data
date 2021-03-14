@@ -1,0 +1,1 @@
+In a previous paper we investigated the centraliser dimension of groups. In the current paper we study properties of centraliser dimension for the class of free partially commutative groups and, as a corollary, we obtain an efficient algorithm for computation of centraliser dimension in these groups.

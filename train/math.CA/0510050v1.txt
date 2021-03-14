@@ -1,0 +1,1 @@
+We study the Kapteyn series % %TCIMACRO{\dsum \limits_{n=1}^{\infty}}% %BeginExpansion {\displaystyle\sum\limits_{n=1}^{\infty}} %EndExpansion t^{n}\mathrm{J}_{n}(nz) . We find a series representation in powers of z and analyze its radius of convergence.

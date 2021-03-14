@@ -1,0 +1,1 @@
+In this paper, we obtain the general solution and the stability result for the following functional equation in random normed spaces (in the sense of Sherstnev) under arbitrary t-norms f(2x+y)+f(2x-y)=4[f(x+y)+f(x-y)]+2[f(2x)-4f(x)]-6f(y).

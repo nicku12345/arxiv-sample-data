@@ -1,0 +1,1 @@
+For a Lie group G, we seek the right definition of a "moment space" for G. One axiom is clear, involving a closed equivariant three-form. We construct this form for symmetric spaces associated to a symmetric pair (H,G) with an additional structure. Furthermore, we prove a decomposition theorem for these pairs over a compact, connected, and semisimple Lie group.

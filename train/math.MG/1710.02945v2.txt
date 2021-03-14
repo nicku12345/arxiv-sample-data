@@ -1,0 +1,1 @@
+We consider the Lie group SU_2 endowed with a left-invariant axisymmetric Riemannian metric. This means that a metric has eigenvalues I_1 = I_2, I_3 > 0. We give an explicit formula for the diameter of such metric. Other words, we compute the diameter of Berger's sphere.

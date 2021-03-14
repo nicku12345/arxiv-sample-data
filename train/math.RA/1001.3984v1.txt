@@ -1,0 +1,1 @@
+We describe all possible ways how a ring can be expressed as the union of three of its proper subrings. This is an analogue for rings of a 1926 theorem of Scorza about groups. We then determine the minimal number of proper subrings of the simple matrix ring M_{n}(q) whose union is M_{n}(q).

@@ -1,0 +1,1 @@
+Topological modular forms with level structure were introduced in full generality by Hill and Lawson. We will show that these decompose additively in many cases into a few simple pieces and give an application to equivariant TMF. Furthermore, we show which Tmf_1(n) are self-Anderson dual up to a shift, both with and without their natural C_2-action.

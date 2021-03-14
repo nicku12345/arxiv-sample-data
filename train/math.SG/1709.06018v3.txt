@@ -1,0 +1,1 @@
+We consider Hamiltonian Floer cohomology groups associated to a Lefschetz fibration, and the structure of operations on them. As an application, we will (under an important additional assumption) equip those groups with connections, which differentiate with respect to the Novikov variable.

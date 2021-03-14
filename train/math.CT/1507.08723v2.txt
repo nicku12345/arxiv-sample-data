@@ -1,0 +1,1 @@
+It is shown that the Joyal quasi-category model structure for simplicial sets extends to a model structure on simplicial presheaves, for which the weak equivalences are local (or stalkwise) Joyal equivalences.

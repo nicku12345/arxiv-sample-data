@@ -1,0 +1,1 @@
+We study a variation of Carlsson and Zomorodian's persistent homology. As an application, we analyze the persistent cellular sheaf cohomology of network coding sheaves on deteriorating networks.

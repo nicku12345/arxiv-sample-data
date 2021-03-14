@@ -1,0 +1,1 @@
+In this note we give examples of Zariski's pairs B_{1,m}, B_{2,m} (m \in N and m \geq 5) of plane cuspidal curves such that   (i) B_{i,m} is the discriminant curve of a generic morphism f_{i,m}:S_i \to P^2, i=1, 2,   (ii) S_1 and S_2 are homeomorphic surfaces of general type,   (iii) f_{i,m} is given by linear three-dimensional subsystem of the mth canonical class of S_i.

@@ -1,0 +1,1 @@
+We prove weighted L^2 (Morawetz) estimates for the solutions of linear Schrodinger and wave equation with potentials that decay like |x|^{-2} for large x, by deducing them from estimates on the resolvent of the associated elliptic operator. We then deduce Strichartz estimates for these equations.

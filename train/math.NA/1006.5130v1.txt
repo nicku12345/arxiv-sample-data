@@ -1,0 +1,1 @@
+This paper reports on a simple pure numerical method developed for computing Hansen coefficients by using recursive harmonic analysis technique. The precision criteria of the computations are very satisfactory and provide materials for computing Hansen's and Hansen's like expansions, also to check the accuracy of some existing algorithms.

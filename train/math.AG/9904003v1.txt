@@ -1,0 +1,1 @@
+We provide supporting examples to Le Potier's Strange duality conjecture, in the case of the moduli space M of rank 2 semi-stable sheaves on the projective plane, with even first Chern class, and second Chern class less or equal to 19. We compute in this case the dimension of the space of global sections of the determinant bundle on M.

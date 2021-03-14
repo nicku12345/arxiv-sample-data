@@ -1,0 +1,1 @@
+We discuss the summation of certain series defined by counting blocks of digits in the B-ary expansion of an integer. For example, if s_2(n) denotes the sum of the base-2 digits of n, we show that \sum_{n \geq 1} s_2(n)/(2n(2n+1)) = (\gamma + \log \frac{4}{\pi})/2. We recover this previous result of Sondow in math.NT/0508042 and provide several generalizations.

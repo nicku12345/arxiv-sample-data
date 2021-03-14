@@ -1,0 +1,1 @@
+We prove that for every p\in(1,\infty), p\ne 2, there exist a Banach space X isomorphic to \ell_p and a finite subset U in \ell_p, such that U is not isometric to a subset of X. This result shows that the finite isometric version of the Krivine theorem (which would be a strengthening of the Krivine theorem (1976)) does not hold.

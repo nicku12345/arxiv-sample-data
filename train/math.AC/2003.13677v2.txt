@@ -1,0 +1,1 @@
+In prime characteristic there are important invariants that allow us to measure singularities. For certain cases, it is known that they are rational numbers. In this article, we show this property for Stanley-Reisner rings in several cases.

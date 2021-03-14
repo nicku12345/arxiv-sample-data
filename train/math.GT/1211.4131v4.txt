@@ -1,0 +1,1 @@
+We give a Conway-Gordon type formula for invariants of knots and links in a spatial complete four-partite graph K_{3,3,1,1} in terms of the square of the linking number and the second coefficient of the Conway polynomial. As an application, we show that every rectilinear spatial K_{3,3,1,1} contains a nontrivial Hamiltonian knot.

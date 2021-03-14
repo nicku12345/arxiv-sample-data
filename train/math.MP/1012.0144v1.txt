@@ -1,0 +1,1 @@
+We study in some detail the structure of the projective quadric Q' obtained by taking the quotient of the isotropic cone in a standard pseudo-Hermitian space H_{p,q} with respect to the positive real numbers R^+ and, further, by taking the quotient Q'/U(1). The case of signature (1,1) serves as an illustration. Q'/U(1) is studied as a compactification of RxH_{p-1,q-1}.

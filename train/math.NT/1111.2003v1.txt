@@ -1,0 +1,1 @@
+We prove that there are infinitely many integers n such that the total number of prime factors of (n+h_{1})(n+h_{2})...(n+h_{\kappa}) is at most (1/2)\kappa\log\kappa+O(\kappa), provided \kappa is sufficiently large.

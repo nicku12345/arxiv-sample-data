@@ -1,0 +1,1 @@
+We study betweenness preserving mappings (we call them monotone) on subsets of the plane. We show, in particular, that an open planar set cannot be mapped in a one-to-one monotone way into the real line.

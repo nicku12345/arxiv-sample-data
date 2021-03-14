@@ -1,0 +1,1 @@
+We construct a complete locally convex topological vector space X of countable algebraic dimension and a continuous linear operator T:X\to X such that T has no non-trivial closed invariant subspaces.

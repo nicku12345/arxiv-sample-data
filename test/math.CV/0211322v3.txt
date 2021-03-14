@@ -1,0 +1,1 @@
+Let \gamma be the curve generating a Schramm--Loewner Evolution (SLE) process, with parameter \kappa\geq0. We prove that, with probability one, the Hausdorff dimension of \gamma is equal to \operatorname {Min}(2,1+\kappa/8).

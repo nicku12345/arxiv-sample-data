@@ -1,0 +1,1 @@
+This paper refines the argument of Lehman by reducing the size of the constants in Turing's method. This improvement is given in Theorem 1 and scope for further improvements is also given. Analogous improvements to Dirichlet L-functions and Dedekind zeta-functions are also included.

@@ -1,0 +1,1 @@
+Applying recent results by Lowen-Van den Bergh we show that Hochschild cohomology is preserved under Koszul-Moore duality as a Gerstenhaber algebra. More precisely, the corresponding Hochschild complexes are linked by a quasi-isomorphism of B-infinity-algebras.

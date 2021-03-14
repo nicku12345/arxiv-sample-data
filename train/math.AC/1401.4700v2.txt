@@ -1,0 +1,1 @@
+Inspired by a recent work of Buchweitz and Flenner, we show that, for a semidualizing bimodule C, C--perfect complexes have the ability to detect when a ring is strongly regular. It is shown that there exists a class of modules which admit minimal resolutions of C--projective modules.

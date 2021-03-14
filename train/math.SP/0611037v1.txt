@@ -1,0 +1,1 @@
+Based on the HVZ theorem and dilation analyticity of the pseudorelativistic no-pair Jansen-Hess operator, it is shown that for subcritical potential strength (Z < 90) the singular continuous spectrum is absent. The bound is slightly higher (Z < 102) for the Brown-Ravenhall operator whose eigenvalues are, by the virial theorem, confined to <2m if Z<50.math/m

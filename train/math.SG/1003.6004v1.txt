@@ -1,0 +1,1 @@
+We study the infinitesimal aspects of the following problem. Let H be a Hamiltonian of \R^{2n} whose energy surface {H=1} encloses a compact starshaped domain of volume equal to that of the unit ball in \R^{2n}. Does the energy surface {H=1} carry a periodic orbit of the Hamiltonian system associated to H with action less than or equal to \pi ?

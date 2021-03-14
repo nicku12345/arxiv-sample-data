@@ -1,0 +1,1 @@
+In this paper we give a new aggregation framework for linear Diophantine equations. In particular, we prove that an aggregated system of minimum size can be built in polynomial time. We also derive an analytic formula that gives the number of solutions of the system when it is possible to aggregate the system into one equation.

@@ -1,0 +1,1 @@
+Soft set theory and rough set theory are mathematical tools to deal with uncertainties. In [3], authors combined these concepts and introduced soft rough sets. In this paper, we introduce the concepts of soft rough graphs, vertex and edge induced soft rough graphs and soft rough trees. We define some products with examples in soft rough graphs.

@@ -1,0 +1,1 @@
+The purpose of this article is to study conservativity in the context of triangulated categories equipped with a weight structure. As application, we establish (weight) conservativity for the restriction of the (generic) l-adic realization to the category of motives of Abelian type of characteristic zero.

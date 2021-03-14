@@ -1,0 +1,1 @@
+We call an integer N>1 primover to base a if it either prime or overpseudoprime to base a. We prove, in particular, that every Fermat number is primover to base 2. We also indicate a simple process of receiving of primover divisors of numbers of the form a^n-1.

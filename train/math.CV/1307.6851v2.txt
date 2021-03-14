@@ -1,0 +1,1 @@
+We prove that every complex analytic set X in a Runge domain D can be approximated by Nash sets on relatively compact subdomains of D. We give a necessary and sufficient condition for a complex analytic set X to admit a Nash approximation which coincides with X along its given subsets.

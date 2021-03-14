@@ -1,0 +1,1 @@
+In this paper we generalize to bivariate polynomials of Fibonacci and Lucas, properties obtained for Chebyshev polynomials. We prove that the coordinates of the bivariate polynomials over appropriate basis are families of integers satisfying remarkable recurrence relations.

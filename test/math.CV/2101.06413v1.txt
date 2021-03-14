@@ -1,0 +1,1 @@
+Considering differential equation f''+A(z)f'+B(z)f=0, where A(z) and B(z) are entire complex functions, our results revolve around proving all non-trivial solutions are of infinite order taking various restrictions on coefficients A(z) and B(z).

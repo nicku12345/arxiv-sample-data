@@ -1,0 +1,1 @@
+We introduce and study several homological notions which generalise the discrete derived categories of D. Vossieck. As an application, we show that Vossieck discrete algebras have this property with respect to all bounded t-structures. We give many examples of triangulated categories regarding these notions.

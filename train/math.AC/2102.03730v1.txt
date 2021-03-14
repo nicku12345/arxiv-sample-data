@@ -1,0 +1,1 @@
+Let G be a group with identity e. Let R be a G-graded commutative ring and M a graded R-module. In this paper, we introduce the concept of graded classical and graded strongly classical 2-absorbing second submodules of graded modules over a graded commutative rings. A number of results concerning these classes of graded submodules and their homogeneous components are given.

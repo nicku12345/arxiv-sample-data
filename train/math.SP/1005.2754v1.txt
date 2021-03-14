@@ -1,0 +1,1 @@
+We consider the operator associated to a random walk on finite volume surfaces with hyperbolic cusps. We study the spectral gap (upper and lower bound) associated to this operator and deduce some rate of convergence of the iterated kernel towards its stationary distribution.

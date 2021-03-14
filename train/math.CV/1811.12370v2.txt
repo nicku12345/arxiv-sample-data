@@ -1,0 +1,1 @@
+Local boundary smoothness of an analytic function f on the unit ball of C^n is compared to the smoothness of its modulus. We prove that different conditions imposed on the zeros of f imply different drops of the smoothness. We also show that some of the drops are the best possible.

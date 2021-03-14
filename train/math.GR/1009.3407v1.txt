@@ -1,0 +1,1 @@
+Given a group acting cellularly and cocompactly on a simply-connected 2-complex, we provide a criterion establishing that all finitely generated subgroups have quasiconvex orbits. This work generalizes the "perimeter method". As an application, we show that high-powered one-relator products A \ast B / \nclose{r^n} are coherent if A and B are coherent.

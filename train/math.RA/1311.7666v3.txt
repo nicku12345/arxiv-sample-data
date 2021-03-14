@@ -1,0 +1,1 @@
+We study centralizers in certain algebras with valuation in order to generalize results by Hellstr\"{o}m and Silvestrov on centralizers in graded algebras. We prove that the centralizer of an element in the studied algebras is a free module over a certain ring. Under further assumptions we obtain that the centralizer is also commutative.

@@ -1,0 +1,1 @@
+We present a unified method to obtain weighted estimates of linear and multilinear commutators with BMO functions, that is amenable to a plethora of operators and functional settings. Our approach elaborates on a commonly used Cauchy integral trick, recovering many known results but yielding also numerous new ones.

@@ -1,0 +1,1 @@
+The K-theory of the stable Higson corona of a coarse space carries a canonical ring structure. This ring is the domain of an unreduced version of the coarse co-assembly map of Emerson and Meyer. We show that the target also carries a ring structure and co-assembly is a ring homomorphism, provided that the given coarse space is contractible in a coarse sense.

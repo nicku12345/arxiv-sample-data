@@ -1,0 +1,1 @@
+We prove the uniqueness of bounded solutions for the spatially homogeneous Fokker-Planck-Landau equation with a Coulomb potential. Since the local (in time) existence of such solutions has been proved by Arsen'ev-Peskov (1977), we deduce a local well-posedness result. The stability with respect to the initial condition is also checked.

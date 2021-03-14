@@ -1,0 +1,1 @@
+In this paper we generalize Poletsky's classical theorem to a situation where the kernel of Poisson functional is not upper semicontinuous. We give a characterization of thinness of a subset at a point in \C^n in term of analytic discs.

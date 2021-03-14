@@ -1,0 +1,1 @@
+The classical notion of L\'evy process is generalized to one that takes as its values probabilities on a first order model equipped with a commutative semigroup. This is achieved by applying a convolution product on definable probabilities and the infinite divisibility with respect to it.

@@ -1,0 +1,1 @@
+Several well-known results from the random matrix theory, such as Wigner's law and the Marchenko--Pastur law, can be interpreted (and proved) in terms of non-backtracking walks on a certain graph. Orthogonal polynomials with respect to the limiting spectral measure play a role in this approach.

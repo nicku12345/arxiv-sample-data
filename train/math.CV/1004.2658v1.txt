@@ -1,0 +1,1 @@
+In this paper we define a new concept of quasi-convolution for analytic functions normalized by f(0)=0 and f^\prime(0)=1 in the unit disk E=\{z\in \mathbb{C}\colon |z|<1\}. We apply this new approach to study the closure properties of a certain class of analytic and univalent functions under some families of (known and new) integral operators.

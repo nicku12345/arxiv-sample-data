@@ -1,0 +1,1 @@
+We prove that the only global, strong, spatially periodic solution to the Degasperis-Procesi equation, vanishing at some point (t0, x0), is the identically zero solution. We also establish the analogue of such Liouville-type theorem for the Degasperis-Procesi equation with an additional dispersive term.

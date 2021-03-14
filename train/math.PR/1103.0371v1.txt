@@ -1,0 +1,1 @@
+We relate the L_p-variation, 2\le p < \infty, of a solution of a backward stochastic differential equation with a path-dependent terminal condition to a generalized notion of fractional smoothness. This concept of fractional smoothness takes into account the quantitative propagation of singularities in time.

@@ -1,0 +1,1 @@
+Let A be an elliptic pseudodifferential operator of positive order on a compact closed manifold, and let T be a pseudodifferential operator of negative order such that T^m is of trace class. We compute \log\det(A(I+T))-\log\det A-\log\det_m (I+T) where first two determinants are zeta function regularized, and the last one is a regularized Fredholm determinant.

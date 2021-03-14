@@ -1,0 +1,1 @@
+Let N be a hyperbolic 3-manifold and B a component of the interior of AH(\pi_1(N)), the space of marked hyperbolic 3-manifolds homotopy equivalent to N. We will give topological conditions on N sufficient to give \rho \in \bar{B} such that for every small neighborhood V of \rho, V \cap B is disconnected. This implies that \bar{B} is not manifold with boundary.

@@ -1,0 +1,1 @@
+In this paper, we present a new estimator of the mean of a random vector, computed by applying some threshold function to the norm. Non asymptotic dimension-free almost sub-Gaussian bounds are proved under weak moment assumptions, using PAC-Bayesian inequalities.

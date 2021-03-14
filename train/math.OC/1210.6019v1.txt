@@ -1,0 +1,1 @@
+The application of the max-algebra to describe queueing systems by both linear scalar and vector equations is discussed. It is shown that these equations may be handled using ordinary algebraic manipulations. Examples of solving the equations representing the G/G/1 queue and queues in tandem are also presented.

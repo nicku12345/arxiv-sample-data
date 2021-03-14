@@ -1,0 +1,1 @@
+This paper is concentrated on the classification of permutation matrix with the permutation similarity relation, mainly about the canonical form of a permutational similar equivalence class, the cycle matrix decomposition of a permutation matrix and the cycle factorization of a permutation matrix or monomial matrix.

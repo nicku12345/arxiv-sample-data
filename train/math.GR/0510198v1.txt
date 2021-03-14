@@ -1,0 +1,1 @@
+A finitely generated group admits a decomposition, called its Grushko decomposition, into a free product of freely indecomposable groups. There is an algorithm to construct the Grushko decomposition of a finite graph of finite rank free groups. In particular, it is possible to decide if such a group is free.

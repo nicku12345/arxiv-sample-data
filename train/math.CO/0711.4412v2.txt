@@ -1,0 +1,1 @@
+Stirling's formula, the asymptotic expansion of n! for n large, or of \Gamma(z) for z\to \infty, is derived directly from the recursion equation \Gamma(z+1) =z \Gamma(s) and the normalization condition \Gamma ({1/2}) =\sqrt{\pi}.

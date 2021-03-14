@@ -1,0 +1,1 @@
+We show that the pairing on de Rham realizations of 1-motives in "Theorie di Hodge III", IHES 44, can be defined over any base scheme and we prove that it gives rise to a perfect duality if one is working with a 1-motive and its Cartier dual. Furthermore we study universal extensions of 1-motives and their relation with \natural-extensions.

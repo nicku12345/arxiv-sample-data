@@ -1,0 +1,1 @@
+We obtain necessary and sufficient conditions for a matrix A to be Birkhoff-James orthogonal to another matrix B in the Ky Fan k-norms. A characterization for A to be Birkhoff-James orthogonal to any subspace \mathscr W of \mathbb M(n) is also obtained.

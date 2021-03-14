@@ -1,0 +1,1 @@
+In Reverse Mathematics, the axiom system DNR, asserting the existence of diagonally non-recursive functions, is strictly weaker than WWKL_0 (weak weak K\"onig's Lemma).

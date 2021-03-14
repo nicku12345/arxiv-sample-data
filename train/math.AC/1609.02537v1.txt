@@ -1,0 +1,1 @@
+Assume that R is a commutative ring with nonzero identity. In this paper, we introduce and investigate zero-annihilator graph of R denoted by \mathtt{ZA}(R). It is the graph whose vertex set is the set of all nonzero nonunit elements of R and two distinct vertices x and y are adjacent whenever {\rm Ann}_R(x)\cap {\rm Ann}_R(y)=\{0\}.

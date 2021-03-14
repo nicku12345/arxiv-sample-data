@@ -1,0 +1,1 @@
+We show that the Tits index E_8^{133} cannot be obtained by means of the Tits construction over a field with no odd degree extensions. We construct two cohomological invariants, in degrees 6 and 8, of the Tits construction and the more symmetric Allison-Faulkner construction of Lie algebras of type E_8 and show that these invariants can be used to detect the isotropy rank.

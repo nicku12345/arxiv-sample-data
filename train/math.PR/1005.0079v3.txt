@@ -1,0 +1,1 @@
+A necessary and sufficient condition for a random walk in a finite directed graph subject to a road coloring to be measurable with respect to the driving random road colors is proved to be that the road coloring is synchronizing. For this, the random walk subject to a non-synchronizing road coloring is proved to have uniform law on a certain partition of the state space.

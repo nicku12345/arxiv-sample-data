@@ -1,0 +1,1 @@
+We consider a new model for shunting inhibitory cellular neural networks, retarded functional differential equations with piecewise constant argument. The existence and exponential stability of almost periodic solutions are investigated. An illustrative example is provided.

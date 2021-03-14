@@ -1,0 +1,1 @@
+An Euclidean topological space E is homeomorphic to the subset of delta-functions of the space D'(E) of Schwartz distributions on E. Herewith, any smooth function of compact support on E is extended onto D'(E). One can think of these extensions as sue generis quantum deformations. In quantum models, one therefore should replace integration of functions over E with that over D(E).

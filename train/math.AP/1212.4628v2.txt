@@ -1,0 +1,1 @@
+We prove that the finite time blow up solutions of type II character constructed by Krieger-Schlag-Tataru as well as Krieger-Schlag are unstable in the energy topology, in that there exist open data sets in the energy topology containing these blow up solutions in their closure and which lead to solutions scattering to zero at time infinity.

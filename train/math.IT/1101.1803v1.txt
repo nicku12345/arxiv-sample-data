@@ -1,0 +1,1 @@
+We describe a technique to construct a set of check positions (and hence an information set) for every abelian code solely in terms of its defining set. This generalizes that given by Imai in \cite{Imai} in the case of binary TDC codes.

@@ -1,0 +1,1 @@
+We prove a few existence results of a solution for a static system with a coupling of thermoviscoelastic type. As this system involves L^1 coupling terms we use the techniques of renormalized solutions for elliptic equations with L^1 data. We also prove partial uniqueness results.

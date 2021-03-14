@@ -1,0 +1,1 @@
+For certain uncountable cardinals \kappa we produce a group of cardinality \kappa which is freely indecomposable, strongly \kappa-free, and whose abelianization is free abelian of rank \kappa. The construction takes place in G\"odel's constructible universe L. This strengthens an earlier result of Eklof and Mekler.

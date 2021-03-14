@@ -1,0 +1,1 @@
+We generalize the notion of flat chains with arbitrary coefficient groups to Banach spaces and prove a sequential compactness result. We also remove the restriction that a flat chain have finite mass in order for its support to exist.

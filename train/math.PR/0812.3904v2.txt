@@ -1,0 +1,1 @@
+We are concerned with scaling limits of the solutions to stochastic differential equations with stationary coefficients driven by Poisson random measures and Brownian motions. We state an annealed convergence theorem, in which the limit exhibits a diffusive or superdiffusive behavior, depending on the integrability properties of the Poisson random measure

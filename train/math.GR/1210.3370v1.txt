@@ -1,0 +1,1 @@
+Let G be a compact semisimple linear Lie group. We study the action of Aut(F_r) on the space H_*(G^r;\QQ). We compute the image of this representation and prove that it only depends on the rank of the Lie algebra of G. We show that the kernel of this representation is always the Torrelli subgroup IA_r of Aut(F_r).

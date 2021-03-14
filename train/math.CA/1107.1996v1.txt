@@ -1,0 +1,1 @@
+We study the existence of Riemann-Stieltjes integrals of bounded functions against a given integrator. We are also concerned with the possibility of computing the resulting integrals by means of related Riemann integrals. In particular, we present a new generalization to the well-known formula for continuous integrands and continuously differentiable integrators.

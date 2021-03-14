@@ -1,0 +1,1 @@
+We prove spacetime weighted-L^2 estimates for the Schrodinger and wave equation with an inverse-square potential. We then deduce Strichartz estimates for these equations.

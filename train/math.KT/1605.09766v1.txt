@@ -1,0 +1,1 @@
+In this paper we study the behaviour of the Igusa-Todorov functions for Artin algebras A with finite injective dimension, and Gorenstein algebras as a particular case. We show that the \phi-dimension and \psi-dimension are finite in both cases. Also we prove that monomial, gentle and cluster tilted algebras have finite \phi-dimension and finite \psi-dimension.

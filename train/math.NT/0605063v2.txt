@@ -1,0 +1,1 @@
+In this paper a special class of local zeta functions is studied. The main theorem states that the functions have all zeros on the line Re (s)=1/2. This is a natural generalization of the result of Bump and Ng stating that the zeros of the Mellin transform of Hermite functions have Re (s)=1/2.

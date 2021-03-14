@@ -1,0 +1,1 @@
+In this paper, we show that a compact real surface embedded in a complex surface has a regular Stein neighborhood basis, provided that there are only finitely many complex points on the surface, and that they are all flat and hyperbolic. An application to unions of totally real planes in \CC^2 is then given.

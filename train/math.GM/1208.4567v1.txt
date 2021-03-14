@@ -1,0 +1,1 @@
+In this article we give the theoretical background for generating Ramanujan type 1/\pi^{2\nu} formulas. As applications of our method we give a general construction of 1/\pi^4 series and examples of 1/\pi^6 series. We also study the elliptic alpha function whose values are useful for such evaluations.

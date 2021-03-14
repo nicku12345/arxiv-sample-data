@@ -1,0 +1,1 @@
+In this paper, we show that any Coxeter graph which defines a higher rank Coxeter group must have disjoint induced subgraphs each of which defines a hyperbolic or higher rank Coxeter group. We then use this result to demonstrate several classes of Coxeter graphs which define hyperbolic Coxeter groups.

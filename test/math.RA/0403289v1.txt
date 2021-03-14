@@ -1,0 +1,1 @@
+We develop an analog of the exponential families of Wilf in which the label sets are finite dimensional vector spaces over a finite field rather than finite sets of positive integers. The essential features of exponential families are preserved, including the exponential formula relating the deck enumerator and the hand enumerator.

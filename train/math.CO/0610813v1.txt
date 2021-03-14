@@ -1,0 +1,1 @@
+Upper bounds are derived for codes in Stiefel and Grassmann manifolds with given minimal chordal distance. They stem from upper bounds for codes in products of unit spheres and projective spaces. The new bounds are asymptotically better than the previously known ones.

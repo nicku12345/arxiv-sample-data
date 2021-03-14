@@ -1,0 +1,1 @@
+A thermodynamic model describing phase transitions with thermal memory, in terms of an entropy equation and a momentum balance for the microforces, is adressed. Convergence results and error estimates are proved for the related integrodifferential system of PDE as the sequence of memory kernels converges to a multiple of a Dirac delta, in a suitable sense.

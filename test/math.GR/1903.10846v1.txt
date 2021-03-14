@@ -1,0 +1,1 @@
+Given a prime power q and positive integers m,t,e with e > mt/2, we determine the number of all monic irreducible polynomials f(x) of degree m with coefficients in \mathbb{F}_q such that f(x^t) contains an irreducible factor of degree e. Polynomials with these properties are important for justifying randomised algorithms for computing with matrix groups.

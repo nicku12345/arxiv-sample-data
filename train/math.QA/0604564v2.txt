@@ -1,0 +1,1 @@
+Let \md^b(A) be the derived category of a finite dimensional basic algebra A with finite global dimension. We construct the Lie algebra arising from the 2-periodic version \mk_2(\mp(A)) of \mk^b(\mp(A)) in term of constructible functions on varieties attached to \mk_2(\mp(A)).

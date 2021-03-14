@@ -1,0 +1,1 @@
+In this paper, we show that the regularity of the q-th quasi-symbolic power I^{((q))} and the regularity of the q-th bracket power I^{[q]} of a monomial ideal of Borel type I, satisfy the relations reg(I^{((q))})\leq q \cdot reg(I), respectively reg(I^{[q]})\geq q\cdot reg(I). Also, we give an upper bound for reg(I^{[q]}).

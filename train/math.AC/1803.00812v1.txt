@@ -1,0 +1,1 @@
+Using \lambda operations, we give some results on the kernel of the natural map from the monoid algebra \mathbb{Z} R of a commutative ring R to the ring of S-Witt vectors of R. As a byproduct we obtain a very natural interpretation of a power series used by Dwork in his proof of the rationality of zeta functions for varieties over finite fields.

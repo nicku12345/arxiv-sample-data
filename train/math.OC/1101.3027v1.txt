@@ -1,0 +1,1 @@
+We produce relaxation bounds on the diameter of arbitrary sections of the l1 ball in R^n. We use these results to test conditions for sparse recovery.

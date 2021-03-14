@@ -1,0 +1,1 @@
+We show that the free locally convex space L(X) over a Tychonoff space X is a Mackey group iff L(X) is a Mackey space iff X is discrete.

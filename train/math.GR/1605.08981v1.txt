@@ -1,0 +1,1 @@
+A group G is called subgroup conjugacy separable if for every pair of non-conjugate finitely generated subgroups of G, there exists a finite quotient of G where the images of these subgroups are not conjugate. It is proved that the fundamental group of a hyperbolic 3-manifold (closed or with cusps) is subgroup conjugacy separable.

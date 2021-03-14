@@ -1,0 +1,1 @@
+We introduce and study non-abelian cohomology sets of Hopf algebras with coefficients in Hopf comodule algebras. We prove that these sets generalize as well Serre's non-abelian group cohomology theory as the cohomological theory constructed by the authors in a previous article. We establish their functoriality and compute explicit examples. Further we classify Hopf torsors.

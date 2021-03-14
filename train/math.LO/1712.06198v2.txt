@@ -1,0 +1,1 @@
+We show that there exist models \mathcal M_1 and \mathcal M_2 such that \mathcal M_1 elementarily embeds into \mathcal M_2 but their ultrafilter extensions \beta(\mathcal M_1) and \beta(\mathcal M_2) are not elementarily equivalent.

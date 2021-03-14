@@ -1,0 +1,1 @@
+We study the slice filtration and associated spectral sequence for a family of RO(C_{p^{n}})-graded suspensions of the Eilenberg-MacLane spectrum for the constant Mackey functor \underline{\mathbb Z}. Since H\underline{\mathbb Z} is the zero slice of the sphere spectrum, this begins an analysis of how one can describe the slices of a suspension in terms of the original slices.

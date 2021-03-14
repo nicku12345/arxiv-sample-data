@@ -1,0 +1,1 @@
+Let f be an orientation preserving homeomorphism of the disc D2 which possesses a periodic point of period 3. Then either f is isotopic, relative the periodic orbit, to a homeomorphism g which is conjugate to a rotation by 2 pi /3 or 4 pi /3, or f has a periodic point of least period n for each n in N*.

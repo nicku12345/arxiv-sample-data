@@ -1,0 +1,1 @@
+We consider the scattering transform for the first order system in the plane,   (D-Q) \psi =0 where D is the 2x2 diagonal matrix differential operator whose diagonal entries are d-bar and d and Q is a 2x2 off-diagonal matrix. We show that the scattering map is Lipschitz continuous on a neighborhood of zero in L^2.

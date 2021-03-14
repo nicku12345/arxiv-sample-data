@@ -1,0 +1,1 @@
+We prove that if a solution of an equation of KdV type is bounded above by a traveling wave with an amplitude that decays faster than a given linear exponential then it must be zero. We assume no restrictions neither on the size nor in the direction of the speed of the traveling wave.

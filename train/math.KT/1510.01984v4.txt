@@ -1,0 +1,1 @@
+Let G be U(n), SU(n), Sp(n) or Spin(n). In this short note we give explicit general formulas for Adams operations on K^*(G), and eigenvectors of Adams operations on K^*(U(n)).

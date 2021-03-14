@@ -1,0 +1,1 @@
+Let p and r be two primes and n, m be two distinct divisors of pr. Consider the n-th and m-th cyclotomic polynomials. In this paper, we present lower and upper bounds for the coefficients of the inverse of one of them modulo the other one. We mention an application to torus-based cryptography.

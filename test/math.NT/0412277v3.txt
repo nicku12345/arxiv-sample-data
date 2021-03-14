@@ -1,0 +1,1 @@
+Based on work of Alain Connes, I have constructed a spectral interpretation for zeros of L-functions. Here we specialise this construction to the Riemann zeta function. We construct an operator on a nuclear Frechet space whose spectrum is the set of non-trivial zeros of zeta. We exhibit the explicit formula for the zeros of the Riemann zeta function as a character formula.

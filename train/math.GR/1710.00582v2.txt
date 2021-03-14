@@ -1,0 +1,1 @@
+We investigate the finite soluble groups G with the following property (replacement property): for every irredundant generating set \{g_1,\dots,g_m\} of maximal size and for any 1\neq g\in G there exists an i\in \{1,\dots,m\} so that \langle g_1,\dots,g_{i-1},g,g_{i+1},\dots,g_m\rangle=G.

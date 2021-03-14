@@ -1,0 +1,1 @@
+In this paper we prove a global well-posedness result for tridimensional Navier-Stokes-Boussinesq system with axisymmetric initial data. This system couples Navier-Stokes equations with a transport equation governing the density.

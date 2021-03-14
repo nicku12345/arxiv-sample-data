@@ -1,0 +1,1 @@
+Here we prove some special cases of the following conjecture: that the sum of the Betti numbers of a 1-connected elliptic space is greater than the total rank of its homotopy groups. Our main tool is Sullivan's minimal model.

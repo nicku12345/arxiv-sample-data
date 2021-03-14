@@ -1,0 +1,1 @@
+We give a proof of the Neilsen-Thurston classification theorem of a homeomorphism f of a standard surface of finite type as either periodic, pseudo-Anosov, or reducible. In the periodic case, we show that there exists an integer n>0 such that f is isotopic to h with h^n isotopic to the identity. This is the weaker version of the Nielsen-Thurston theorem.

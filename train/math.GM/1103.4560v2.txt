@@ -1,0 +1,1 @@
+This article is a short introduction to the theory of the groups of points of elliptic curves over finite fields. It is concerned with the elementary theory and practice of elliptic curves cryptography, the new generation of public key systems. The material and coverage are focused on the groups of points of elliptic curves and algebraic curves, but not exclusively.

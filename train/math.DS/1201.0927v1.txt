@@ -1,0 +1,1 @@
+We prove that the Oseledets splittings of an ergodic hyperbolic measure of a C^{1+ r} diffeomorphism can be approximated by that of atomic measures on hyperbolic periodic orbits. This removes the assumption on simple spectrum in \cite{Liang} and strengthens Katok's closing lemma.

@@ -1,0 +1,1 @@
+We present a regularity result for weak solutions of the 2D quasi-geostrophic equation with supercritical (\alpha< 1/2) dissipation (-\Delta)^\alpha : If a Leray-Hopf weak solution is H\"{o}lder continuous \theta\in C^\delta({\mathbb R}^2) with \delta>1-2\alpha on the time interval [t_0, t], then it is actually a classical solution on (t_0,t].

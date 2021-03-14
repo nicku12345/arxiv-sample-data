@@ -1,0 +1,1 @@
+We show that (k,m)-linear mappings, introduced by I. Chernega and A. Zagorodnyuk in [3], are particular cases of polynomials. As corollaries, we expose some apparently overlooked properties in the literature. For instance, every multilinear mapping is a homogeneous polynomial. Contributions to the polarization formula are also provided.

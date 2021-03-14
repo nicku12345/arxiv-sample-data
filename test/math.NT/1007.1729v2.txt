@@ -1,0 +1,1 @@
+We call a (q-1)-th Kummer extension of a cyclotomic function field a quasi-cyclotomic function field if it is Galois, but non-abelian, over the rational function field with the constant field of q elements. In this paper, we determine the structure of the Galois groups of a kind of quasi-cyclotomic function fields over the base field. We also give the genus formulae of them.

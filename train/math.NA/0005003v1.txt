@@ -1,0 +1,1 @@
+Error estimation is given for a regularized Shannon's sampling formulae, which was found to be accurate and robust for numerically solving partial differential equations.

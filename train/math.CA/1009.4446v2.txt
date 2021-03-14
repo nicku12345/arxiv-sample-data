@@ -1,0 +1,1 @@
+We study some properties of smooth sets in the sense defined by Hungerford. We prove a sharp form of Hungerford's Theorem on the Hausdorff dimension of their boundaries on Euclidean spaces and show the invariance of the definition under a class of automorphisms of the ambient space.

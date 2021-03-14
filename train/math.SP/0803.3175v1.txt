@@ -1,0 +1,1 @@
+We prove local and global versions of Borg-Marchenko-type uniqueness theorems for half-lattice and full-lattice CMV operators (CMV for Cantero, Moral, and Velazquez \cite{CMV03}). While our half-lattice results are formulated in terms of Weyl-Titchmarsh functions, our full-lattice results involve the diagonal and main off-diagonal Green's functions.

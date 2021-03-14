@@ -1,0 +1,1 @@
+We give shuffle algebra realization of positive part of quantum affine superalgebra U_{v}(\widehat{\mathfrak{D}}(2,1;\theta)) associated to any simple root systems. We also determine the shuffle algebra associated to \widehat{\mathfrak{sl}}(2|1) with odd root system when v is a primitive root of unity of even order, generalizing results in \cite{FJMMT03}.

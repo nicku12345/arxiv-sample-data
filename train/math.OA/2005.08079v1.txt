@@ -1,0 +1,1 @@
+In this paper, we show that a completely positive linear map is weakly nuclear if and only if its complexification is weakly nuclear. It is shown that a real C^*-algebra is exact if and only if its complexification is exact and similar case is provided for the quasidiaginality.

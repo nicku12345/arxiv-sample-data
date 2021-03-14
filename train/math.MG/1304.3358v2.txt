@@ -1,0 +1,1 @@
+The Appendix of the article arXiv:1212.5056 [math.CO] "On growth in an abstract plane" by Nick Gill, H. A. Helfgott, Misha Rudnev, contains a general "geometric Ruzsa triangle inequality" in a Desarguesian projective plane. The purpose of this note is to give a similar inequality for metric spaces with dilations, that is in the absence of an algebraic or incidence structure.

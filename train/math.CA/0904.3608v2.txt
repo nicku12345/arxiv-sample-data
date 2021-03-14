@@ -1,0 +1,1 @@
+In this article, we establish first a geometric Paley-Wiener theorem for the Dunkl transform in the crystallographic case. Next we obtain an optimal bound for the L^p\to L^p norm of Dunkl translations in dimension 1. Finally we describe more precisely the support of the distribution associated to Dunkl translations in higher dimension.

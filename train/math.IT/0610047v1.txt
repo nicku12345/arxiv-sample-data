@@ -1,0 +1,1 @@
+We establish that the feedback capacity of the trapdoor channel is the logarithm of the golden ratio and provide a simple communication scheme that achieves capacity. As part of the analysis, we formulate a class of dynamic programs that characterize capacities of unifilar finite-state channels. The trapdoor channel is an instance that admits a simple analytic solution.

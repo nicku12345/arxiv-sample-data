@@ -1,0 +1,1 @@
+Based on conditional set theory, we study conditional weak topologies, extending some well-known results to this framework and culminating with the proof of conditional versions of Eberlein-\v{S}mulian and Amir-Lindenstrauss Theorems. In pursuing this aim, we prove conditional versions of Baire Category Theorem and Uniform Boundedness Principle.

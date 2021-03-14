@@ -1,0 +1,1 @@
+Given a lattice \Gamma \subset SOL, we show that there is a coarsely dense subset \mathcal{D} \subset \Gamma that is not biLipschitz equivalent to \Gamma. We also prove similar results for lattices in certain higher rank abelian-by-abelian groups and for the solvable Baumslag-Solitar groups.

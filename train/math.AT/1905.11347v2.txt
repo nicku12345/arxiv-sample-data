@@ -1,0 +1,1 @@
+We prove that the spatial realization of a rational complete Lie algebra L, concentrated in degree 0, is isomorphic to the simplicial bar construction on the group, obtained from the Baker-Campbell-Hausdorff product on L.

@@ -1,0 +1,1 @@
+We give an explicit implicit function theorem for formal power series that is valid for all fields, which implies in particular Lagrange inversion formula and and Flajolet-Soria coefficient extraction formula known for fields of characteristic 0.

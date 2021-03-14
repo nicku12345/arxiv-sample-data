@@ -1,0 +1,1 @@
+By benefit of Pesin's method to prove ergodicity with respect to Lebesgue measure for ordinary dynamical systems, we conclude ergodicity (resp. term-ergodicity) for some action semigroups with respect to volume measure (resp. quasi measure). To this aim, the main tool is the theory of local ergodicity.

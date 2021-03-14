@@ -1,0 +1,1 @@
+Let Q be an n-Kronecker quiver, i.e., a quiver with two vertices, labeled by 1 and 2, and n arrows from 2 to 1. We show that there are infinitely many Gabriel-Roiter measures admitting no direct predecessors.

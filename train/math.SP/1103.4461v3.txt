@@ -1,0 +1,1 @@
+in the recent paper [Journal of Physics A, 43474-0288 (2011)], B. Helffer and R. Purice compute the second term of a semi-classical trace formula for a Schr\"odinger operator with magnetic field. We show how to recover their formula by using the methods developped by the geometers in the seventies for the heat expansions.

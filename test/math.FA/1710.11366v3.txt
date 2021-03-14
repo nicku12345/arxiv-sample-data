@@ -1,0 +1,1 @@
+Let s\ge 1, \omega ,\omega_0\in \mathscr P_{E,s}^0, a\in \Gamma _{s}^{(\omega_0)}, and let \mathscr B be a suitable invariant quasi-Banach function space, Then we prove that the pseudo-differential operator \operatorname{Op} (a) is continuous from M(\omega_0\omega ,\mathscr B ) to M(\omega ,\mathscr B ).

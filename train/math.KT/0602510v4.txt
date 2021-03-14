@@ -1,0 +1,1 @@
+We define the character of a group representation in a 2-category C. For linear C, this notion yields a Hopkins-Kuhn-Ravenel type character theory defined on pairs of commuting elements of the group. We discuss some examples and prove a formula for the character of the induced representation.

@@ -1,0 +1,1 @@
+Maximal and atomic Hardy spaces Hp and HAp , are considered in the setting of a doubling metric measure space in the presence of a non-negative self-adjoint operator whose heat kernel has Gaussian localization and the Markov property. It is shown that Hp = HAp with equivalent norms.

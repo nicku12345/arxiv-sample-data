@@ -1,0 +1,1 @@
+An open subset U of a complex surface can be topologically perturbed to yield an open subset whose inherited complex structure is Stein, if and only if U is homeomorphic to the interior of a handlebody whose handles all have index equal or less than 2.

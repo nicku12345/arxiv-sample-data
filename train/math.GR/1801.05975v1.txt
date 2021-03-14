@@ -1,0 +1,1 @@
+We call a finite group irrational if none of its elements is conjugate to a distinct power of itself. We prove that those groups are solvable and describe certain classes of these groups, where the above property is only required for p-elements, for p from a prescribed set of primes.

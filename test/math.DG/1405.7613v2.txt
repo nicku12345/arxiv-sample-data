@@ -1,0 +1,1 @@
+We derive the Chern-Gauss-Bonnet Theorem for manifolds with smooth non-degenerate boundary in the pseudo-Riemannian context from the corresponding result in the Riemannian setting by examining the Euler-Lagrange equations associated to the Pfaffian of a complex "metric" on the tangent space and then applying analytic continuation.

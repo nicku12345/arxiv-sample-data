@@ -1,0 +1,1 @@
+We provide a sharp rate of convergence in the central limit theorem for random vectors with an unconditional, log-concave density. The argument relies on analysis of the Neumann laplacian on convex domains and on the theory of optimal transportation of measures.

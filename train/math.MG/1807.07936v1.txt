@@ -1,0 +1,1 @@
+We characterize those mappings from a compact subset of \mathbb{R} into the Heisenberg group \mathbb{H}^{n} which can be extended to a C^{m} horizontal curve in \mathbb{H}^{n}. The characterization combines the classical Whitney conditions with an estimate comparing changes in the vertical coordinate with those predicted by the Taylor series of the horizontal coordinates.

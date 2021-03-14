@@ -1,0 +1,1 @@
+We show that one can skip the skew-symmetry assumption in the definition of Nambu-Poisson brackets. In other words, a n-ary bracket on the algebra of smooth functions which satisfies the Leibniz rule and a n-ary version of the Jacobi identity must be skew-symmetric. A similar result holds for a non-antisymmetric version of Lie algebroids.

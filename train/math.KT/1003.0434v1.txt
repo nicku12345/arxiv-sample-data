@@ -1,0 +1,1 @@
+We prove an analogue of the Approximation Theorem of L^2-Betti numbers by Betti numbers for arbitrary coefficient fields and virtually torsionfree amenable groups. The limit of Betti numbers is identified as the dimension of some module over the Ore localization of the group ring.

@@ -1,0 +1,1 @@
+For a bornology \mathcal B on a cardinal \kappa, we prove that the \mathcal B-macrocube is normal if and only if \mathcal B has a linearly ordered base. As a corollary, we get that the hyperballean of bounded subsets of an ultradiscrete ballean is not normal. These answer Question 1 from \cite{b2} and Question 14.4 from \cite{b1}.

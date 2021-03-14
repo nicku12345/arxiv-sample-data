@@ -1,0 +1,1 @@
+An algebraic category \mathcal{C} is called balanced if the cotriple cohomology of any object of \mathcal{C} vanishes in positive dimensions on injective coefficient modules. Important examples of balanced and of non-balanced categories occur in the literature. In this paper we prove that the category of crossed modules in groups is non-balanced.

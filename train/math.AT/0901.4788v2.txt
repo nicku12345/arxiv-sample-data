@@ -1,0 +1,1 @@
+The incidence correspondence in the grassmannian which determines the tautological bundle defines a map between cycle spaces on grassmannians. These cycle spaces decompose canonically into a product of Eilenberg-MacLane spaces. These decompositions and the associated maps are calculated up to homotopy.

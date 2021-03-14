@@ -1,0 +1,1 @@
+In a previous work of the authors, a result to algorithmically compute the topology types of the level curves of an algebraic surface, is given. From this result, here we derive applications based on level curves to determine some topological features of surfaces (reality, compactness, connectivity) and to the problem of plotting.

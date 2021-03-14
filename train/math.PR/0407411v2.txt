@@ -1,0 +1,1 @@
+This paper is devoted to the study of the following problem. We have set of diffusion processes with absorption on boundaries in some region at initial time t=0. It is required to estimate of number of the unabsorbed processes for the fixed time ~\tau>0. The number of initial processes is considered as function of \tau and \tau\to\infty.

@@ -1,0 +1,1 @@
+Lecture notes from 2008 CMI/ETH Summer School on Evolution Equations. These notes are an informal introduction to the applications of microlocal methods in the study of linear evolution equations and spectral theory. Calculi of pseudodifferential operators and Fourier integral operators are discussed and axiomatized, but not constructed: the focus is on how to apply these tools.

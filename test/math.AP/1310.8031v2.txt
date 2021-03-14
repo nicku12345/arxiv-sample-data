@@ -1,0 +1,1 @@
+In this paper, we consider the smooth solutions of 3D incompressible Navier-Stokes equations in periodic domains. We prove that, in the absence of external forces and with divergence-free smooth periodic initial data, periodic smooth solutions of the 3D Navier-Stokes equations exist for all time.

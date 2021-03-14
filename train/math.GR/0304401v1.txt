@@ -1,0 +1,1 @@
+Let p be a prime number. Let G be a finite p-group and \chi \in Irr(G). Denote by \bar{\chi} \in Irr(G) the complex conjugate of \chi. Assume that \chi(1)=p^n. We show that the number of distinct irreducible constituents of the product \chi\bar{\chi} is at least 2n(p-1)+1.

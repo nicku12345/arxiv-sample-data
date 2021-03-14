@@ -1,0 +1,1 @@
+Let L be the sublaplacian and T the partial Laplacian with respect to central variables on H-type groups. We investigate a class of invariant differential operators by the joint functional calculus of L and T. We establish Stein-Tomas type restriction theorems for these operators. In particular, the asymptotic behaviors of restriction estimates are given.

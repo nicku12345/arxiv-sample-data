@@ -1,0 +1,1 @@
+We consider certain point patterns of an Euclidean space and calculate the Ellis enveloping semigroup of their associated dynamical systems. The algebraic structure and the topology of the Ellis semigroup, as well as its action on the underlying space, are explicitly described. As an example, we treat the vertex pattern of the Amman-Beenker tiling of the plane.

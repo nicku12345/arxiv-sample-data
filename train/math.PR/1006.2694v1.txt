@@ -1,0 +1,1 @@
+We study a linear recursion with random Markov-dependent coefficients. In a "regular variation in, regular variation out" setup we show that its stationary solution has a multivariate regularly varying distribution. This extends results previously established for i.i.d. coefficients.

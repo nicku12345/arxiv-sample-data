@@ -1,0 +1,1 @@
+We construct a certain `cobordism category' {\cal D} whose morphisms are suitably decorated cobordism classes between similarly decorated closed oriented 1-manifolds, and show that there is essentially a bijection between (1+1-dimensional) unitary topological quantum field theories (TQFTs) defined on {\cal D}, on the one hand, and Jones' subfactor planar algebras, on the other.

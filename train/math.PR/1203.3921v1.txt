@@ -1,0 +1,1 @@
+We give sharp regularity results for the solution to the stochastic wave equation with linear fractional-colored noise. We apply these results in order to establish upper and lower bound for the hitting probabilities of the solution in terms of the Hausdorff measure and of the Newtonian capacity.

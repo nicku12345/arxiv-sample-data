@@ -1,0 +1,1 @@
+In the 2-local stable homotopy category the group of left-bu-module automorphisms of bu\wedge bo which induce the identity on mod 2 homology is isomorphic to the group of infinite upper triangular matrices with entries in the 2-adic integers. We identify the conjugacy class of the matrix corresponding to 1\wedge\psi^3, where \psi^3 is the Adams operation.

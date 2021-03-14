@@ -1,0 +1,1 @@
+We prove a conjecture of Artur Elezi in a generalized form suggested by Givental. Namely, our main result relates genus-0 Gromov--Witten invariants of a bundle space with such invariants of the base, provided that the fiber is a toric manifold. When the base is the point, a new proof of mirror theorems by A. Givental and by H. Iritani for toric manifolds is obtained.

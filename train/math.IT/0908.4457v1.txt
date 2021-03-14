@@ -1,0 +1,1 @@
+We show that there are infinitely many binary strings z, such that the sum of the on-line decision complexity of predicting the even bits of z given the previous uneven bits, and the decision complexity of predicting the uneven bits given the previous event bits, exceeds the Kolmogorov complexity of z by a linear term in the length of z.

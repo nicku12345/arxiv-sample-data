@@ -1,0 +1,1 @@
+We developed computer algebra tools for enumerating conjugacy classes of independent subsets and generating sets of symmetric groups up to n=7, and carried out an initial analysis of the obtained results.

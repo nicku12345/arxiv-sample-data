@@ -1,0 +1,1 @@
+A sharper estimate for the summatory Euler phi function \sum_{n \leq x} \varphi(n) is presented in this work. It improves the established estimate in the current mathematical literature. In addition, an estimate for its reciprocal \sum_{n \leq x} 1/\varphi(n) is also determined.

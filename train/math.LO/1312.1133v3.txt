@@ -1,0 +1,1 @@
+In this paper we show that the intuitionistic fixed point theory FiX^{i}(X) over set theories T is a conservative extension of T if T can manipulate finite sequences and has the full foundation schema.

@@ -1,0 +1,1 @@
+In infinite topological Fort space X, for nonempty subsets C,D of X in the following text we answer to this question "Is there any \lambda and Top--design C-(X,D,\lambda) of type i?" for i=1,2,3,4. We prove there exist \lambda and C-(X,D,\lambda), Top--design of type 2 (resp. type 4) if and only if C can be embedded into D.

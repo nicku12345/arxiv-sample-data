@@ -1,0 +1,1 @@
+Let E be a cyclic extension of pth-power degree of a field F of characteristic p. For all m, s in N, we determine K_mE/p^sK_mE as a (Z/p^sZ)[Gal(E/F)]-module. We also provide examples of extensions for which all of the possible nonzero summands in the decomposition are indeed nonzero.

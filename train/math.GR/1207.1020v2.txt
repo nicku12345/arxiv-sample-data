@@ -1,0 +1,1 @@
+In this short note, we provide an inequality that holds in any finite group, only involving the orders of the elements; we prove that equality holds if and only if the group is nilpotent.

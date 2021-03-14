@@ -1,0 +1,1 @@
+We offer a simple Monte-Carlo method for solving of the multidimensional initial value and non-homogeneous problem for the Navier-Stokes Equations in whole space when the initial function and right hand side belong to the correspondent Sobolev-Lebesgue-Riesz space.

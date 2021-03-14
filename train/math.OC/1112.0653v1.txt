@@ -1,0 +1,1 @@
+Some iterative techniques are defined to solve reversible inverse problems and a common formulation is explained. Numerical improvements are suggested and tests validate the methods.

@@ -1,0 +1,1 @@
+We give an upper bound on the dimension of the bounded derived category of an abelian category. We show that if \CX is a sufficiently nice subcategory of an abelian category, then derived dimension of \CA is at most \CX-dim\CA, provided \CX-dim\CA is greater than one. We provide some applications.

@@ -1,0 +1,1 @@
+In this paper we study spectral sets which are unions of finitely many intervals in R. We show that any spectrum associated with such a spectral set is periodic, with the period an integral multiple of the measure of the set. As a consequence we get a structure theorem for such spectral sets and observe that the generic case is that of the equal interval case.

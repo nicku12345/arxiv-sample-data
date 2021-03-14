@@ -1,0 +1,1 @@
+We compute the Bass stable rank of the ring \Gamma(X,\mathcal O_X) of global sections of the structure sheaf \mathcal O_X on a finite-dimensional Stein space (X,\mathcal O_X) and then apply this result to the problem of the factorization of invertible holomorphic matrices on X.

@@ -1,0 +1,1 @@
+In this paper we investigate solvability of a partial integral equation in the space L_2(\Omega\times\Omega), where \Omega=[a,b]^\nu. We define a determinant for the partial integral equation as a continuous function on \Omega and for a continuous kernels of the partial integral equation we give explicit description of the solution.

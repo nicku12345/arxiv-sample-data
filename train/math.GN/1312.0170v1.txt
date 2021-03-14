@@ -1,0 +1,1 @@
+We provide an upper bound on the topological complexity of twisted products. We use it to give an estimate TC(X)\le TC(\pi_1(X))+\dim X of the topological complexity of a space in terms of its dimension and the complexity of its fundamental group.

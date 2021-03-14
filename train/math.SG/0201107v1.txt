@@ -1,0 +1,1 @@
+The purpose of this note is to make some connection between the sub-Riemannian geometry on Carnot-Caratheodory groups and symplectic geometry.   We shall concentrate here on the Heisenberg group, although it is transparent that almost everything can be done on a general Carnot-Caratheodory group. Such generalisations will be the subject of a forthcoming note.

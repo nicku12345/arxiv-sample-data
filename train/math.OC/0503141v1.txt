@@ -1,0 +1,1 @@
+This paper addresses invariance principles for a certain class of switched nonlinear systems. We provide an extension of LaSalle's Invariance Principle for these systems and state asymptotic stability criteria. We also present some related results that deal with the compactness of the trajectories of these switched systems and that are interesting by their own.

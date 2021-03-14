@@ -1,0 +1,1 @@
+This paper is a promenade around the product  P_n(x) := \sin x \sin 2x \sin 4x ... \sin 2^n x. 

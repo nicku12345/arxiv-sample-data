@@ -1,0 +1,1 @@
+The Frobenius depth denoted by \Fdepth defined by Hartshorne-Speiser in 1977 and later by Lyubeznik in 2006, in a different way, for rings of positive characteristic. The aim of the present paper is to compare the \Fdepth with formal grade, and \depth to shed more light on the notion of Frobenius depth from a different point of view.

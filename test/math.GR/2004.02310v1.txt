@@ -1,0 +1,1 @@
+We show that any affine invariant function on the set of positive definite matrices must factor through the determinant function, as long as the restriction of the function to scalar matrices is surjective. A motivation from robust statistics is discussed.

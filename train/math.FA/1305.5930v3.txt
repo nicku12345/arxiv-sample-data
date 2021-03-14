@@ -1,0 +1,1 @@
+Hadamard's global inverse theorem provides conditions for a function to be globally invertible on Rn. In this note we show that the conditions are robust enough for the conclusion to hold even if we relax the conditions by removing the assumption at a finite number of points. As a consequence, we get a global inverse function theorem for homogeneous functions.

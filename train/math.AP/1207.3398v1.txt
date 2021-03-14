@@ -1,0 +1,1 @@
+In this paper we will investigate the singular points of the following unstable free boundary problem: {equation}\label{Eq} \Delta u= -\chi_{\{u>0\}} \quad\quad\textrm{in} B_1(0) {equation} where \chi_{\{u>0\}} is the characteristic function of the set \{u>0\}.

@@ -1,0 +1,1 @@
+The efficiency of two Bayesian order estimators is studied. By using nonparametric techniques, we prove new underestimation and overestimation bounds. The results apply to various models, including mixture models. In this case, the errors are shown to be O(e^{-an}) and O((\log n)^b/\sqrt{n}) (a,b>0), respectively.

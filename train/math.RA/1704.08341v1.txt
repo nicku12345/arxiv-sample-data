@@ -1,0 +1,1 @@
+Every automorphism-invariant right non-singular A-module is injective if and only if the factor ring of the ring A with respect to its right Goldie radical is a right strongly semiprime ring.

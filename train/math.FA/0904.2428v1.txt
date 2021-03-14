@@ -1,0 +1,1 @@
+In this paper we consider the order-like relation for self-adjoint operators on some Hilbert space. This relation is defined by using Jensen inequality. We will show that under some assumptions this relation is antisymmetric.

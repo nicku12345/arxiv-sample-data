@@ -1,0 +1,1 @@
+A state-preserving automorphism of a von Neumann algebra induces a canonical unitary operator on the GNS Hilbert space of the state which fixes the vacuum. This unitary commutes with both the modular operator of the state and its modular conjugation. We prove an extension of this result for state-preserving unital completely positive maps.

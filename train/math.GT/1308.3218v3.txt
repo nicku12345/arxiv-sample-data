@@ -1,0 +1,1 @@
+Roberts proved that a family of alternating, arborescent, prime knots each have at least 2^{2n-1} distinct minimal genus Seifert surfaces, where n is the genus of the knot in question. We give a subfamily of these knots that have exactly this many minimal genus Seifert surfaces.

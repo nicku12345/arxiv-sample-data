@@ -1,0 +1,1 @@
+We propose new variational principles for traffic assignment problems. So to find equillibrium we have to solve large-scale convex optimization problem of special type. We propose some kind of "algebra" on different models and corresponding numerical algorithms that allows us to combine the optimal method from the basis ones and predescribed operations on methods.

@@ -1,0 +1,1 @@
+Let K be a subfield of \mathbb{R}. The theory of \mathbb{R} viewed as an ordered K-vector space and expanded by a predicate for \mathbb{Z} is decidable if and only if K is a real quadratic field.

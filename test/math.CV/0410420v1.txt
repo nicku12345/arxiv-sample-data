@@ -1,0 +1,1 @@
+We study the asymptotics of zeros for entire functions of the form \sin z + \int_{-1}^1 f(t)e^{izt}dt with f belonging to a space X \hookrightarrow L_1(-1,1) possessing some minimal regularity properties.

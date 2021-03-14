@@ -1,0 +1,1 @@
+We consider Jacobi matrices and Schrodinger operators that are reflectionless on an interval. We give a systematic development of a certain parametrization of this class, in terms of suitable spectral data, that is due to Marchenko. Then some applications of these ideas are discussed.

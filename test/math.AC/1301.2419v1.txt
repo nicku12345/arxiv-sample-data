@@ -1,0 +1,1 @@
+We prove a Lojasiewicz type inequality for a system of polynomial equations with coefficients in the ring of formal power series in two variables. This result is an effective version of the Strong Artin Approximation Theorem. From this result we deduce a bound of Artin functions of isolated singularities.

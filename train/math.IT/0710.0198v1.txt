@@ -1,0 +1,1 @@
+For every n = 2^k > 8 there exist exactly [(k+1)/2] mutually nonequivalent Z_4-linear extended perfect codes with distance 4. All these codes have different ranks.

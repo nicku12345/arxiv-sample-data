@@ -1,0 +1,1 @@
+In this note we investigate the problem of determining elements of the Selberg class from their Dirichlet series coefficients at the primes. We show that this is possible when the degree is one, but in general need an additional weak hypothesis on the Dirichlet series coefficients at squares of primes.

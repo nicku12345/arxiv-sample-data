@@ -1,0 +1,1 @@
+Global regular axially symmetric solutions with large swirl in a cylinder with periodic conditions on the top and on the bottom are proved. On the lateral part of its boundary the boundary slip conditions are assumed. The proof is obtained step by step extending a local solution and showing that the initial data are not increasing.

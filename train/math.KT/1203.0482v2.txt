@@ -1,0 +1,1 @@
+We define the analytical and the topological indices for continuous families of operators in the C*-closure of the Boutet de Monvel algebra. Using techniques of C*-algebra K-theory and the Atiyah-Singer theorem for families of elliptic operators on a closed manifold, we prove that these two indices coincide.

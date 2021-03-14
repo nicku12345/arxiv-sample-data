@@ -1,0 +1,1 @@
+This note explains consequences of recent work of Frank Quinn for computations of Nil groups in algebraic K-theory, in particular the Nil groups occurring in the K-theory of polynomial rings, Laurent polynomial rings, and the group ring of the infinite dihedral group.

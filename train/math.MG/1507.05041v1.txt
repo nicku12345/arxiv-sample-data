@@ -1,0 +1,1 @@
+We show that the tight span of a path connected subset of the Manhattan plane can be constructed in a very simple way by "hatching" the subset in horizontal and vertical directions and then taking the closure of the resulting set.

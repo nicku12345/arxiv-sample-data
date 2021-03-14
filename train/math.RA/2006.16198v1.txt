@@ -1,0 +1,1 @@
+We derive a closed-form expression for the kth power of semicirculant matrices by using the determinant of certain matrices. As an application, a closed-form expression for the kth power of r-circulant matrices is also povided.

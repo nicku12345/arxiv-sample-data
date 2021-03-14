@@ -1,0 +1,1 @@
+A theory of topological gravity is a homotopy-theoretic representation of the Segal-Tillmann topologification of a two-category with cobordisms as morphisms. This note describes a relatively accessible example of such a thing, suggested by the wall-crossing formulas of Donaldson theory.

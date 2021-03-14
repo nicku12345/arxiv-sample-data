@@ -1,0 +1,1 @@
+We consider arbitrary open sets \Omega in Euclidean space with finite Lebesgue measure, and obtain upper bounds for (i) the largest Courant-sharp Dirichlet eigenvalue of \Omega, (ii) the number of Courant-sharp Dirichlet eigenvalues of \Omega. This extends recent results of P. B\'erard and B. Helffer.

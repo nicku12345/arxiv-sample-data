@@ -1,0 +1,1 @@
+We prove in this short report that for arbitrary weak converging sequence of sigma-finite Borelian measures in the separable Banach space there is a compact embedded separable subspace such that this measures not only are concentrated in this subspace but weak converge therein.

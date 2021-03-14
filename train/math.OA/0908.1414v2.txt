@@ -1,0 +1,1 @@
+A C*-algebra A is C*-reflexive if any countably generated Hilbert C*-module M over A is C*-reflexive, i.e. the second dual module M'' coincides with M. We show that a commutative C*-algebra A is C*-reflexive if and only if for any sequence I_k of disjoint non-zero C*-subalgebras, the canonical inclusion \oplus_k I_k\subset A doesn't extend to an inclusion of \prod_k I_k.

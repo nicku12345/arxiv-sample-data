@@ -1,0 +1,1 @@
+We describe the value set \{f(z_0)\,:\, f:\mathbb{D}\to\mathbb{D} \text{ univalent}, f(0)=0, f'(0)= e^{-T} \}, where \mathbb{D} denotes the unit disc and z_0\in\mathbb{D}\setminus\{0\}, T>0, by applying Pontryagin's maximum principle to the radial Loewner equation.

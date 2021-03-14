@@ -1,0 +1,1 @@
+This preprint contains the Coq proof files for Gabriel-Zisman localization, bundled with the source. The text of this preprint consists of the definitions and lemma statements of the main files, with proofs removed. See the other preprint ``Explaining GZ localization to the computer'' for explanation and discussion.

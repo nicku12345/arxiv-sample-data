@@ -1,0 +1,1 @@
+We establish sufficient conditions for the existence and uniqueness of different types of delayed BSDEs in finite time horizon. We consider then infinite horizon, replacing the terminal value condition in the finite horizon case with a condition of strong decay at infinity.

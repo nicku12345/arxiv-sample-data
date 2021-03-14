@@ -1,0 +1,1 @@
+In this paper we introduce the iterations \phi^k_1(t) of the Jacob's ladder. It is proved, for example, that the mean-value of the product Z^2[\phi^n_1(t)]Z^2[\phi^{n-1}(t)]... Z^2[\phi^0_1(t)] over the segment [T,T+U] is asymptotically equal to \ln^{n+1}T. Nor the case n=1 cannot be obtained in known theories of Balasubramanian, Heath-Brown and Ivic.

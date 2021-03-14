@@ -1,0 +1,1 @@
+By finding a p-adic obstruction, we construct many examples of positive characteristic complete noetherian local rings which do not admit any module-finite Cohen-Macaulay extension. These examples should be contrasted with a result of Hochster-Huneke: the union of all finite extensions is always Cohen-Macaulay.

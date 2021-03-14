@@ -1,0 +1,1 @@
+We expose different methods of regularizations of subsolutions in the context of discrete weak KAM theory. They allow to prove the existence and the density of C^{1,1} subsolutions. Moreover, these subsolutions can be made strict and smooth outside of the Aubry set.

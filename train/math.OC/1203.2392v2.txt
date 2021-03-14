@@ -1,0 +1,1 @@
+We establish a region of convergence for the proto-typical non-convex Douglas-Rachford iteration which finds a point on the intersection of a line and a circle. Previous work on the non-convex iteration [2] was only able to establish local convergence, and was ineffective in that no explicit region of convergence could be given.

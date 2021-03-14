@@ -1,0 +1,1 @@
+If a knot has the Alexander polynomial not equal to 1, then it is linear n-colorable.   By means of such a coloring, such a knot is given an upper bound for the minimal quandle order, i.e., the minimal order of a quandle with which the knot is quandle colorable.   For twist knots, we study the minimal quandle orders in detail.

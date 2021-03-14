@@ -1,0 +1,1 @@
+In the paper, we provide an effective method for the Lipschitz equivalence of two-branch Cantor sets and three-branch Cantor sets by studying the irreducibility of polynomials. We also find that any two Cantor sets are Lipschitz equivalent if and only if their contraction vectors are equivalent provided one of the contraction vectors is homogeneous.

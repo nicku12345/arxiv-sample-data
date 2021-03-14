@@ -1,0 +1,1 @@
+For n \geq 2 we describe an O(l^3n)-time algorithm that determines if a length l virtual braid word in the standard presentation of the virtual braid group {\mathcal VB}_n represents the trivial virtual braid.

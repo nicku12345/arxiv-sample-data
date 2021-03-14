@@ -1,0 +1,1 @@
+We consider several extensions of the Maillet determinant studied by Malo, Turnbull, and Carlitz and Olson, and derive properties of the underlying matrices. In particular, we compute the eigenvectors and eigenvalues of these matrices, which yield formulas for these new determinants.

@@ -1,0 +1,1 @@
+Associated to any compact quantum group G\subset U_N^+ is a canonical family of group dual subgroups \widehat{\Gamma}_Q\subset G, parametrized by unitaries Q\in U_N, playing the role of "maximal tori" for G. We present here a series of conjectures, relating the various algebraic and analytic properties of G to those of the family \{\widehat{\Gamma}_Q|Q\in U_N\}.

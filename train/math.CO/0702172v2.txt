@@ -1,0 +1,1 @@
+The Genocchi numbers are the coefficients of the generating function 2t/(e^t+1). In this note we will give an equation for simplicial balls which involves this numbers. It relates the number of faces in the interior of the ball with the number of faces in the boundary of the ball. This is a variation of similar equations given in [McMullen 2004] and [Herrmann and Joswig 2006].

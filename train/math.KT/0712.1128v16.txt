@@ -1,0 +1,1 @@
+In this paper exterior products are used to define operations and characteristic classes with values in the K-theory of an abelian category with tensor and exterior products. We apply the general construction to define Chern and Segre classes with values in algebraic K-theory and the K-theory of connections.

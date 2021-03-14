@@ -1,0 +1,1 @@
+For a symplectic manifold M let \{\cdot,\cdot\} be the corresponding Poisson bracket. In this note we prove that the functional (F,G) \mapsto \|\{F,G\}\|_{L^p(M)} is lower-semicontinuous with respect to the C^0-norm on C^\infty_c(M) when \dim M = 2 and p < \infty, extending previous rigidity results for p = \infty in arbitrary dimension.

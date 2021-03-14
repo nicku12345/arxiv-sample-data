@@ -1,0 +1,1 @@
+Explicit conditions are presented for the existence, uniqueness and ergodicity of the strong solution to a class of generalized stochastic porous media equations. Our estimate of the convergence rate is sharp according to the known optimal decay for the solution of the classical (deterministic) porous medium equation.

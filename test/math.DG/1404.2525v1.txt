@@ -1,0 +1,1 @@
+We prove \epsilon-closeness of hypersurfaces to a sphere in Euclidean space under the assumption that the traceless second fundamental form is \delta-small compared to the mean curvature. We give the explicit dependence of \delta on \epsilon within the class of uniformly convex hypersurfaces with bounded volume.

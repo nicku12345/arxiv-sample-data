@@ -1,0 +1,1 @@
+The Vassiliev conjecture states that the Vassiliev invariants are dense in the space of all numerical link invariants in the sense that any link invariant is a pointwise limit of Vassiliev invariants.   In this article, we prove that the Vassiliev conjecture holds in the case of the coefficients of the HOMFLY and the Kauffman polynomials.

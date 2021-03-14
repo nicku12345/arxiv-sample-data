@@ -1,0 +1,1 @@
+Let g be a free brace algebra. This structure implies that g is also a prelie algebra and a Lie algebra. It is already known that g is a free Lie algebra. We prove here that g is also a free prelie algebra, using a description of g with the help of planar rooted trees, a permutative product, and anipulations on the Poincar\'e-Hilbert series of g.

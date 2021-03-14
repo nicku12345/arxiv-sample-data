@@ -1,0 +1,1 @@
+We prove Beurling's theorem for the full group SL(2,\R). This is the {\em master theorem} in the quantitative uncertainty principle as all the other theorems of this genre follow from it.

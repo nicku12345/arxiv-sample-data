@@ -1,0 +1,1 @@
+In 1896 Heinrich Maschke characterized planar finite groups, that is groups which admit a generating system such that the resulting Cayley graph is planar. In our study we consider the question, which finite semigroups have a planar Cayley graph. Right groups are a class of semigroups relatively close to groups. We present a complete characterization of planar right groups.

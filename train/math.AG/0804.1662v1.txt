@@ -1,0 +1,1 @@
+Let X be a projective variety of dimension n and L be a nef divisor on X. Denote by e_d(r;X,L) the d-dimensional Seshadri constant of r very general points in X. We prove that e_d(rs;X,L) >= e_d(r;X,L)e_d(s;P^n,O_{P^n}(1)).

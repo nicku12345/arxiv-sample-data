@@ -1,0 +1,1 @@
+We show that a single special separation theorem (namely, a consequence of the geometric form of the Hahn-Banach theorem) can be used to prove Farkas type theorems, existence theorems for numerical quadrature with positive coefficients, and detailed characterizations of best approximations from certain important cones in Hilbert space.

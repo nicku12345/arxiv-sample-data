@@ -1,0 +1,1 @@
+In this paper we address the stable numerical solution of nonlinear ill-posed systems by a trust-region method. We show that an appropriate choice of the trust-region radius gives rise to a procedure that has the potential to approach a solution of the unperturbed system. This regularizing property is shown theoretically and validated numerically.

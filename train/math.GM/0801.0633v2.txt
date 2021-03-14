@@ -1,0 +1,1 @@
+From Bombieri's mean value theorem one can deduce the prime number theorem being equivalent to the Riemann hypothesis and the least prime P(q) satisfying P(q)= O(q^2 [ln q]^32) in any arithmetic progressions with common difference q.

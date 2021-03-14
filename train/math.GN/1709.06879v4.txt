@@ -1,0 +1,1 @@
+A space X has a \mathbb{Q}-diagonal if X^2\setminus \Delta has a \mathcal{K}(\mathbb{Q})-directed compact cover. We show that any compact space with a \mathbb{Q}-diagonal is metrizable, hence any Tychonorff space with a \mathbb{Q}-diagonal is cosmic. These give a positive answer to Problem 4.2 and Problem 4.8 in \cite{COT11} raised by Cascales, Orihuela and Tkachuk.

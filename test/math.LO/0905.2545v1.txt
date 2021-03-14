@@ -1,0 +1,1 @@
+I give a proof of the confluence of combinatory strong reduction that does not use the one of lambda-calculus. I also give simple and direct proofs of a standardization theorem for this reduction and the strong normalization of simply typed terms.

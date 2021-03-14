@@ -1,0 +1,1 @@
+We prove that every finite dimensional representation of a finite group over a field of characteristic p admits a finite resolution by p-permutation modules. The proof involves a reformulation in terms of derived categories.

@@ -1,0 +1,1 @@
+Given a partition \lambda corresponding to a dominant integral weight of \mathfrak{sl}_n, we define the structure of crystal on the set of 5-vertex ice models satisfying certain boundary conditions associated to \lambda. We then show that the resulting crystal is isomorphic to that of the irreducible representation of highest weight \lambda.

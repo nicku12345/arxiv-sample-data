@@ -1,0 +1,1 @@
+Initial steps in the study of inner expansion properties of infinite Cayley graphs and other infinite graphs, such as hyperbolic ones, are taken, in a flavor similar to the well-known Lipton-Tarjan square root separation result for planar graphs. Connections to relaxed versions of quasi-isometries are explored, such as regular and semiregular maps.

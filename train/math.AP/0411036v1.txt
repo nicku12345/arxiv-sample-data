@@ -1,0 +1,1 @@
+In this note we show that k-convex functions on \Bbb R^n are twice differentiable almost everywhere for every positive integer k>n/2. This generalizes the classical Alexsandrov's theorem for convex functions.

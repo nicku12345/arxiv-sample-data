@@ -1,0 +1,1 @@
+This article describes, in elementary terms, a generic approach to produce discrete random tilings and similar random structures by using point process theory. The standard Voronoi and Delone tilings can be constructed in this way. For this purpose, convex polytopes are replaced by their vertex sets. Three explicit constructions are given to illustrate the concept.

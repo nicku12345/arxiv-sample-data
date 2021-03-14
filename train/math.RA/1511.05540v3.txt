@@ -1,0 +1,1 @@
+We determine minimal Cayley--Hamilton and Capelli identities for matrices over a Grassmann algebra of finite rank. For minimal standard identities, we give lower and upper bounds on the degree. These results improve on upper bounds given by L.\ M\'arki, J.\ Meyer, J.\ Szigeti, and L.\ van Wyk in a recent paper.

@@ -1,0 +1,1 @@
+The most basic characteristic classes of smooth fibre bundles are the generalised Miller-Morita-Mumford classes, obtained by fibre integrating characteristic classes of the vertical tangent bundle. In this note we show that they may be defined for more general families of manifolds than smooth fibre bundles: smooth block bundles and topological fibre bundles.

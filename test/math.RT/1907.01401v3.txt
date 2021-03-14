@@ -1,0 +1,1 @@
+Let G(F_q) be the group of rational points of a simple algebraic group defined and split over a finite field F_q. In this paper we define a new basis for the Grothendieck group of unipotent representations of G(F_q).

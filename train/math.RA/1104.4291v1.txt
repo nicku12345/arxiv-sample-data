@@ -1,0 +1,1 @@
+We construct two superalgebras associated to a punctured Riemann surface. One of them is a Lie superalgebra of Krichever-Novikov type, the other one is a Jordan superalgebra. The constructed algebras are related in several ways (algebraic, geometric, representation theoretic). In particular, the Lie superalgebra is the algebra of derivations of the Jordan superalgebra.

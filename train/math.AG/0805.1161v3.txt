@@ -1,0 +1,1 @@
+Given an hermitian space we compute its essential dimension, Chow motive and prove its incompressibility in certain dimensions.

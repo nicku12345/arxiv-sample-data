@@ -1,0 +1,1 @@
+We show that for every simple closed curve \alpha, the extremal length and the hyperbolic length of \alpha are quasi-convex functions along any Teichmuller geodesic. As a corollary, we conclude that, in Teichmuller space equipped with the Teichmuller metric, balls are quasi- convex.

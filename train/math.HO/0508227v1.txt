@@ -1,0 +1,1 @@
+In this paper Euler shows how, if we have recursive functions f,g,h and an infinite sequence A,B,C,... which satisfies fA=gB+hC, f'B=g'C+h'D, f''C=g''D+h''E, f'''D=g'''E+h'''F, etc., where the primes denote an index not a derivative, then we can find a continued fraction for fA/B.

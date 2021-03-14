@@ -1,0 +1,1 @@
+We show that quandle coverings in the sense of Eisermann form a (regular epi)-reflective subcategory of the category of surjective quandle homomorphisms, both by using arguments coming from categorical Galois theory and by constructing concretely a centralization congruence. Moreover, we show that a similar result holds for normal quandle extensions.

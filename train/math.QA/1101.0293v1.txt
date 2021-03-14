@@ -1,0 +1,1 @@
+We develop a diagrammatic categorification of the polynomial ring Z[x]. Our categorification satisfies a version of Bernstein-Gelfand-Gelfand reciprocity property with the indecomposable projective modules corresponding to x^n and standard modules to (x-1)^n in the Grothendieck ring.

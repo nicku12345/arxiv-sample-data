@@ -1,0 +1,1 @@
+We study the size, in terms of the Hausdorff dimension, of the subsets of \mathbb T such that the Fourier series of a generic function in L^1(\TT), L^p(\TT) or in \mathcal C(\mathbb T) may behave badly. Genericity is related to the Baire category theorem or to the notion of prevalence.

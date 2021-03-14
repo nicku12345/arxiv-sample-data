@@ -1,0 +1,1 @@
+We explore properties of Cauchy-Stieltjes families that have no counterpart in exponential families. We relate the variance function of the iterated Cauchy-Stieltjes family to the pseudo-variance function of the initial Cauchy-Stieltjes family. We also investigate when the domain of means can be extended beyond the "natural domain".

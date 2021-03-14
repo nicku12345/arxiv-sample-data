@@ -1,0 +1,1 @@
+In this paper, we introduce the notion of the rainbow neighbourhood and a related graph parameter namely, the rainbow neighbourhood number of a graph G. We report on preliminary results thereof. We also establish a necessary and sufficient condition for the existence of a rainbow neighbourhood in the line graph of a graph G.

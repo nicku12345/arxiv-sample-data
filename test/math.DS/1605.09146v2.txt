@@ -1,0 +1,1 @@
+We describe classes of semisynchronizing, non-synchronizing subshifts, that are closed under topological conjugacy. The subshifts that belong to these classes satisfy a strong hypothesis of context-freeness and are canonically presented by means of Shannon graphs that have the structure of a pda.

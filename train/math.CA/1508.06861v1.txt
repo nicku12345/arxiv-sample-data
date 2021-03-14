@@ -1,0 +1,1 @@
+We evaluate q-Bessel functions at an infinite sequence of points and introduce a generalization of the Ramanujan function and give an extension of the m-version of the Rogers-Ramanujan identities. We also prove several generating functions for Stieltjes-Wigert polynomials with argument depending on the degree. In addition we give several Rogers-Ramanujan type identities.

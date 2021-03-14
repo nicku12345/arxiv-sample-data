@@ -1,0 +1,1 @@
+Let H be a character Hopf algebra. Every right coideal subalgebra that contains the coradical has a PBW-basis which can be extended up to a PBW-basis of H.

@@ -1,0 +1,1 @@
+We investigate a one-dimensional model describing the motion of liquid drops sliding down an inclined plane (the so-called quasi-static approximation model). We prove existence and uniqueness of a solution and investigate its long time behavior for both homogeneous and inhomogeneous medium (i.e. constant and non-constant contact angle). We also obtain some homogenization results.

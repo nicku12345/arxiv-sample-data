@@ -1,0 +1,1 @@
+By the Golod--Shafarevich Theorem, an associative algebra R given by n generators and d<n^2/3 homogeneous quadratic relations is not 5-step nilpotent. We prove that this estimate is optimal. Namely, we show that for every positive integer n, there is an algebra R given by n generators and n^2/3 homogeneous quadratic relations such that R is 5-step nilpotent.

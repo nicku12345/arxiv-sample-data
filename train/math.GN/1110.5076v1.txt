@@ -1,0 +1,1 @@
+We prove that the space M(K(x,y)) of \mathbb R-places of the field K(x,y) of rational functions of two variables with coefficients in a totally Archimedean field K has covering and integral dimensions \dim M(K(x,y))=\dim_\IZ M(K(x,y))=2 and the cohomological dimension \dim_G M(K(x,y))=1 for any Abelian 2-divisible coefficient group G.

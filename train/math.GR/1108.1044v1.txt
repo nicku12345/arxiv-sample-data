@@ -1,0 +1,1 @@
+Let G be a finitely generated group and M_n(G) the number of its normal subgroup subgroups of index at most n. For linear groups G we show that M_n(G) can grow polynomially in n only if the semisimple part of the Zariski closure of G has simple components only of type G2, F4 or E8 (and in this case indeed this can happened!)

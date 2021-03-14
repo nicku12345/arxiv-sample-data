@@ -1,0 +1,1 @@
+In this note we study a complex Monge-Amp\`{e}re type equation of the form (dd^cu)^n = \frac {ke^{-u}dV}{\int e^{-u}dV}\,

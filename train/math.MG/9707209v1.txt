@@ -1,0 +1,1 @@
+Motivated by the Blaschke-Santal\'o inequality, we define for a convex body K in {\bf R}^n and for t \in {\bf R} the Santal\'o-regions S(K,t) of K. We investigate properties of these sets and relate them to a concept of Affine Differential Geometry, the affine surface area of K.

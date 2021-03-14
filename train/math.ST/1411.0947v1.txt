@@ -1,0 +1,1 @@
+This paper provides a generalization of a classical result obtained by Wilks about the asymptotic behavior of the likelihood ratio. The new results deal with the asymptotic behavior of the joint distribution of a vector of likelihood ratios which turn out to be stochastically dependent.

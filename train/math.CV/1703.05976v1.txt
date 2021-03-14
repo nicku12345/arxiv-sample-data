@@ -1,0 +1,1 @@
+We discuss topics related to zeroes of the Bergman kernels, and present a method for generating Bergman kernels with arbitrarily, but finitely, many zeroes. It is also shown that a Bergman kernel induced by a radial weight on the unit disk cannot have infinitely many zeroes. Similar questions for the Segal-Bargmann spaces of the complex plane are briefly discussed.

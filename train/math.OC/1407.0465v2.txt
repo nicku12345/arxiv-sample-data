@@ -1,0 +1,1 @@
+With the help of the newly developed S-lemma with interval bounds, we show that strong duality holds for the interval bounded generalized trust region subproblem under some mild assumptions, which answers an open problem raised by Pong and Wolkowicz [Comput. Optim. Appl. 58(2), 273-322, 2014].

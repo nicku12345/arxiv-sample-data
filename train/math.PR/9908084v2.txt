@@ -1,0 +1,1 @@
+We establish a necessary and sufficient condition for the propagation of chaos by a family of many-particle Markov processes, if the particles live in a Polish space: a sequence of n-particle Markov transition functions propagates chaos if and only if it propagates chaos for pure initial states.

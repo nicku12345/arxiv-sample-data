@@ -1,0 +1,1 @@
+Let B'_n be the commutator subgroup of the braid group B_n. We prove that Aut(B'_n)=Aut(B_n) for n\ge4. This answers a question asked by Vladimir Lin.

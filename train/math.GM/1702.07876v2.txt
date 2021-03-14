@@ -1,0 +1,1 @@
+Certain analytical expressions which "feel" the divisors of natural numbers are investigated. We show that these expressions encode to some extent the well-known algorithm of the sieve of Eratosthenes. Most part of the text is written in pedagogical style, however some formulas are new.

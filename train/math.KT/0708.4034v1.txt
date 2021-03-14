@@ -1,0 +1,1 @@
+Let k be a number field, and let S be a finite set of k-rational points of P^1. We relate the Deligne-Goncharov contruction of the motivic fundamental group of X:=P^1_k- S to the Tannaka group scheme of the category of mixed Tate motives over X.

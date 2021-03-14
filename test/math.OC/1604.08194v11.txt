@@ -1,0 +1,1 @@
+We propose primal-dual stochastic mirror descent for the convex optimization problems with functional constraints. We obtain the rate of convergence in terms of probability of large deviations.

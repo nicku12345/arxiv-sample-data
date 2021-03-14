@@ -1,0 +1,1 @@
+We prove that if an integral equation has a positive solution then all complex roots of the famous Riemann zeta function are distinct and having the real part 1/2. We also prove that the minimal distance between two consecutive real simple roots of the function \Xi in (0,T) is less than \frac 1{A\ln T}.

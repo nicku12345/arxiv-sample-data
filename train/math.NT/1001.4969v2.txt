@@ -1,0 +1,1 @@
+Let X be a smooth, projective, geometrically irreducible curve of genus at least two defined over a number field K. We prove that there is an algorithm that determines whether X has a K-rational point if Grothendieck's section conjecture holds for X.

@@ -1,0 +1,1 @@
+In this paper there are considered some scalar valued groupoid bihomomorphism structures, being in fact the groupoid counterparts of the inner product notion originally defined for vectors. These bihomomorphisms, called here the semi-inner products for groupoids, determine non-negative real valued functions which fulfill the axioms assumed for a groupoid norm concept [2].

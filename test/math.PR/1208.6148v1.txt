@@ -1,0 +1,1 @@
+We derive logarithmic asymptotics of probabilities of small deviations for iterated processes in the space of trajectories. We find conditions under which these asymptotics coincide with those of processes generating iterated processes. When these conditions fail the asymptotics are quite different.

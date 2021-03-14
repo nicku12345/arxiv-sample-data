@@ -1,0 +1,1 @@
+We prove analogues of the fundamental theorem of algebraic K-theory for the second and third homology of SL_2 over an infinite field k. The statements involve Milnor-Witt K-theory and scissors congruence groups. We use these results to calculate the low-dimensional homology of SL_2 of Laurent polynomials over certain fields.

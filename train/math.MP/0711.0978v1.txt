@@ -1,0 +1,1 @@
+Alternative canonical methods for defining canonical SO(3)-coupled bases for SU(3) irreps are considered and compared. It is shown that a basis that diagonalizes a particular linear combination of SO(3) invariants in the SU(3) universal enveloping algebra gives basis states that have good K quantum numbers in the asymptotic rotor-model limit.

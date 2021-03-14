@@ -1,0 +1,1 @@
+We show that a trivial case of Janelidze's categorical Galois theorem can be used as a key step in the proof of Joyal and Tierney's result on the representation of Grothendieck toposes as localic groupoids. We also show that this trivial case can be used to prove the general categorical Galois theorem by using a rather pleasing technical result about sliced adjunctions.

@@ -1,0 +1,1 @@
+It is proved that a norm-decreasing homomorphism of commutative Banach algebras is an effective descent morphism for Banach modules if and only if it is a weak retract.

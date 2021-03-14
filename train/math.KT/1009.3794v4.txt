@@ -1,0 +1,1 @@
+Let A and B be Gorenstein Artin algebras of Cohen-Macaulay finite type. We prove that, if A and B are derived equivalent, then their Cohen-Macaulay Auslander algebras are also derived equivalent.

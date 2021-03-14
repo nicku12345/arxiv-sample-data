@@ -1,0 +1,1 @@
+Let F be a finitely generated free group. We present an algorithm such that, given a subgroup H\leqslant F, decides whether H is the fixed subgroup of some family of automorphisms, or family of endomorphisms of F and, in the affirmative case, finds such a family. The algorithm combines both combinatorial and geometric methods.

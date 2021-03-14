@@ -1,0 +1,1 @@
+Following Shokurov's ideas, we give a short proof of the following klt version of his result: termination of terminal log flips in dimension d implies that any klt pair of dimension d has a log minimal model or a Mori fibre space. Thus, in particular, any klt pair of dimension 4 has a log minimal model or a Mori fibre space.

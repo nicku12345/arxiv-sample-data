@@ -1,0 +1,1 @@
+We prove a result which gives sufficient conditions for a conformal annulus which is a countable union of nested conformal annuli to have bounded modulus. Our theorem also gives estimates for the modulus of such an annulus and is proved using an interpolation result which constructs a quasiconformal map between two annuli given a smooth identification of their boundaries.

@@ -1,0 +1,1 @@
+We generalize the zig-zag product construction to produce infinite families of regular graphs of any constant degree. We analyze the second largest eigenvalue of this new zig-zag product to show that the modified zig-zag product of good expanders is again a good expander (yet not Ramanujan).

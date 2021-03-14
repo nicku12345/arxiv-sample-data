@@ -1,0 +1,1 @@
+We consider the Schrodinger operator in n-dimensional rectangular domains with either Dirichlet or Neumann boundary conditions on the faces and study the constraints on the potential imposed by fixing the spectrum of the operator.We study also the asymptotics of the heat kernel when t tends to 0.

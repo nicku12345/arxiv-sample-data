@@ -1,0 +1,1 @@
+A loop is automorphic if all its inner mappings are automorphisms. We construct the free commutative automorphic 2-generated loop of nilpotency class 3. It has dimension 8 over the integers.

@@ -1,0 +1,1 @@
+A knight's tour is often represented as a broken line connecting the centers of successively visited squares. We say that two knight moves form a cross if the midpoints of their respective segments coincide. We show that no knight tour exists on a rectangular board in which every move is part of a cross. We also establish the general structure of pseudotours with this property.

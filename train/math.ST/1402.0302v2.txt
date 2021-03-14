@@ -1,0 +1,1 @@
+A new class of minimax Stein-type shrinkage estimators of a multivariate normal mean is studied where the shrinkage factor is based on an l_p norm. The proposed estimators allow some but not all coordinates to be estimated by 0 thereby allow sparsity as well as minimaxity.

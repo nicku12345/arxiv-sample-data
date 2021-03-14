@@ -1,0 +1,1 @@
+We establish the asymptotic normality of the kernel type estimator for the regression function constructed from quasi-associated data when the explanatory variable takes its values in a separable Hilbert space.

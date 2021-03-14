@@ -1,0 +1,1 @@
+Let \{a_k\} be a sequence of real numbers defined by an mth order linear homogenous recurrence relation. In this paper we obtain a determinant formula for the circulant matrix A=circ(a_1, a_2, \cdots, a_n), providing a generalization of determinantal results in papers of Bozkurt \cite{Bozkurt}, Bozkurt and Tam \cite{BozkurtTam}, and Shen, et al. \cite{ShenCenHao}.

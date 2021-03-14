@@ -1,0 +1,1 @@
+Let G be a semisimple real algebraic Lie group of real rank at least two and U be the unipotent radical of a non-trivial parabolic subgroup. We prove that a discrete Zariski dense subgroup of G that contains an irreducible lattice of U is an arithmetic lattice of G. This solves a conjecture of Margulis and extends previous work of Hee Oh.

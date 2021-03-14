@@ -1,0 +1,1 @@
+Weak solutions to parabolic integro-differential operators of order \alpha \in (\alpha_0, 2) are studied. Local a priori estimates of H\"older norms and a weak Harnack inequality are proved. These results are robust with respect to \alpha \nearrow 2. In this sense, the presentation is an extension of Moser's result in 1971.

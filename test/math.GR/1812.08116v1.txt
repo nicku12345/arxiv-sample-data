@@ -1,0 +1,1 @@
+A method of random search based on Kolmogorov complexity is proposed and applied to two search problems in group theory. The method is provably effective but not practical, so the applications involve heuristic approximations. Perhaps surprisingly, these approximations seem to work. Some experimental evidence is presented.

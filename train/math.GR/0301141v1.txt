@@ -1,0 +1,1 @@
+We prove that Richard Thompson's group F is not minimally almost convex with respect to the two standard generators. This improves upon a recent result of S. Cleary and J. Taback. We make use of the forest diagrams for elements of F introduced by J. Belk and K. Brown. These diagrams seem particularly well-suited for understanding the Cayley graph for the two standard generators.

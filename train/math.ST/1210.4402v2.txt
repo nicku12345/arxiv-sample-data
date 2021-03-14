@@ -1,0 +1,1 @@
+We introduce a semi-parametric estimator of the Poisson intensity parameter of a spatial stationary Gibbs point process. Under very mild assumptions satisfied by a large class of Gibbs models, we establish its strong consistency and asymptotic normality. We also consider its finite-sample properties in a simulation study.

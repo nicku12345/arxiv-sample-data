@@ -1,0 +1,1 @@
+Let \k be an arbitrary field. For any fixed badly approximable power series \Theta in \k((X^{-1})), we give an explicit construction of continuum many badly approximable power series \Phi for which the pair (\Theta, \Phi) satisfies the Littlewood conjecture. We further discuss the Littlewood conjecture for pairs of algebraic power series.

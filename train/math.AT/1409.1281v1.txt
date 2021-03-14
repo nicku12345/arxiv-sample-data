@@ -1,0 +1,1 @@
+Using the Bockstein spectral sequence developed previously by the authors, we compute the ring ER(n)^*(BO(q)) explicitly. We then use this calculation to show that the ring spectrum MO[2^{n+1}] is ER(n)-orientable (but not ER(n+1)-orientable), where MO[2^{n+1}] is defined as the Thom spectrum for the self map of BO given by multiplication by 2^{n+1}.

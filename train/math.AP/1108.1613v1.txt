@@ -1,0 +1,1 @@
+It is shown that the one-dimensional or two-dimensional radially symmetric isothermal compressible Navier-Stokes system has no non-trivial global smooth solutions if the initial density is compactly supported. This result is a generalization of Xin's work \cite{Xin98} to the isothermal case.

@@ -1,0 +1,1 @@
+The Schur Theorem says that if G is a group whose center Z(G) has finite index n, then the order of the derived group G' is finite and bounded by a number depending only on n. In the present paper we show that if G is a finite group such that G/Z(G) has rank r, then the rank of G' is r-bounded. We also show that a similar result holds for a large class of infinite groups.

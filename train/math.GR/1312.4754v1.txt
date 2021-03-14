@@ -1,0 +1,1 @@
+This note is an implementation of the algorithm for computing Bogomolov multipliers as given in \cite{Mor11} in combination with \cite{Eic08} to effectively determine the multipliers of groups of order 128. The two serving purposes are a continuation of the results \cite{Chu08,Chu09}, and an application \cite{Jez13}.

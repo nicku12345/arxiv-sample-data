@@ -1,0 +1,1 @@
+We study fundamental groups of clique complexes associated to random graphs. We establish thresholds for their cohomological and geometric dimension and torsion. We also show that in certain regime any aspherical subcomplex of a random clique complex satisfies the Whitehead conjecture, i.e. all irs subcomplexes are also aspherical.

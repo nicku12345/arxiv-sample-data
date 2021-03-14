@@ -1,0 +1,1 @@
+We argue that various braid group actions on triangulated categories should be extended to projective actions of the category of braid cobordisms and illustrate how this works in examples. We also construct actions of both the affine braid group and the braid cobordism category on the derived category of coherent sheaves on the cotangent bundle to the full flag variety.

@@ -1,0 +1,1 @@
+The Leinster matrix corresponding to a finite category has entries counting the number of morphisms between objects. A first question is to know which positive integer matrices come from at least one finite category. Here, that question will be answered when the entries are strictly positive.

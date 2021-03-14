@@ -1,0 +1,1 @@
+We give the explicit analytic development of Macdonald polynomials in terms of "modified complete" and elementary symmetric functions. These expansions are obtained by inverting the Pieri formula. Specialization yields similar developments for monomial, Jack and Hall-Littlewood symmetric functions.

@@ -1,0 +1,1 @@
+We study mixing properties of commutative groups of automorphisms acting on compact nilmanifolds. Assuming that every nontrivial element acts ergodically, we prove that such actions are mixing of all orders. We further show exponential 2-mixing and 3-mixing. As an application we prove smooth cocycle rigidity for higher-rank abelian groups of nilmanifold automorphisms.

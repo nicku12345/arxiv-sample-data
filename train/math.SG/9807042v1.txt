@@ -1,0 +1,1 @@
+We apply the Guillemin-Lerman-Sternberg theorem to reprove a formula of Heckman for the Duistermaat-Heckman measure associated to the coadjoint action of T, a maximal torus of a compact semisimple Lie group G, on a regular coadjoint G-orbit in the dual space of the Lie algebra of G. This formula is, in an appropriate sense, a limiting case of the Kostant multiplicity formula.

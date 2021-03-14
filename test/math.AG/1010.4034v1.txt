@@ -1,0 +1,1 @@
+Let k[x_1,...,x_n] be the polynomial algebra in n variables and let A^n=Spec k[x_1,...,x_n]. In this note we show that the root vectors of the affine Cremona group Aut(A^n) with respect to the diagonal torus are exactly the locally nilpotent derivations x^a\times d/dx_i, where x^a is any monomial not depending on x_i. This answers a question due to Popov.

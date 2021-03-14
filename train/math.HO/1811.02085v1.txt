@@ -1,0 +1,1 @@
+The Fibonacci sequence is obtained as weighted sum along the rows in the Pascal triangle by choosing a periodic up-and-down pattern of weights from the set \{-1,-\frac{1}{2},0, \frac{1}{2}, 1\}. A graphical illustration of this identity shows a novel "`beautiful"' Fibonacci pattern.

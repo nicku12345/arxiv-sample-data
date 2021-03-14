@@ -1,0 +1,1 @@
+We introduce a new class of categories generalizing locally presentable ones. The distinction does not manifest in the abelian case and, assuming Vopenka's principle, the same happens in the regular case. The category of complete partial orders is the natural example of a nearly locally finitely presentable category which is not locally presentable.

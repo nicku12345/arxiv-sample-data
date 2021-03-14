@@ -1,0 +1,1 @@
+We explore the recent results announced in "Robust machine learning by median-of-means: theory and practice" by G. Lecu\'e and M. Lerasle. We show that these results are, in fact, almost obvious outcomes of the machinery developed in [4] for the study of tournament procedures.

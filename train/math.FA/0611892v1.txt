@@ -1,0 +1,1 @@
+We give a complete characterization of 2\pi-periodic weights w for which the usual trigonometric system forms a quasi-greedy basis for L^p(\bT;w), i.e., bases for which simple thresholding approximants converge in norm. The characterization implies that this can happen only for p=2 and whenever the system forms a quasi-greedy basis, the basis must actually be a Riesz basis.

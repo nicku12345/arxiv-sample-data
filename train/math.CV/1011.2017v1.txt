@@ -1,0 +1,1 @@
+We study the asymptotic zero distribution of the rescaled Laguerre polynomials, \displaystyle L_n^{(\alpha_n)}(nz), with the parameter \alpha_n varying in such a way that \displaystyle \lim_{n\rightarrow \infty}\alpha_n/n=-1. The connection with the so-called Szeg\"{o} curve will be showed.

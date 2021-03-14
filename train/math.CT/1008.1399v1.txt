@@ -1,0 +1,1 @@
+There are various generalizations of bialgebras to their ''many object'' versions, such as quantum categories, bialgebroids and weak bialgebras. These can also be thought of as quantum analogues of small categories. In this paper we study modules over these structures, which are quantum analogues of profunctors (also called distributors) between small categories.

@@ -1,0 +1,1 @@
+Let H be a 3-partite 3-uniform hypergraph, i.e. a 3-uniform hypergraph such that every edge intersects every partition class in exactly one vertex, with each partition class of size n. We determine a Dirac-type vertex degree threshold for perfect matchings in 3-partite 3-uniform hypergraphs.

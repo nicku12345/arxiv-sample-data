@@ -1,0 +1,1 @@
+We define unimodular measures on the space of rooted simplicial complexes and associate to each measure a chain complex and a trace function. As a consequence, we can define \ell^2-Betti numbers of unimodular random rooted simplicial complexes and show that they are continuous under Benjamini-Schramm convergence.

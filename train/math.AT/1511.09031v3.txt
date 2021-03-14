@@ -1,0 +1,1 @@
+We lift the classical theorem of Arnol'd on homological stability for configurations spaces of the plane to the motivic world. More precisely, we prove that the schemes of unordered configurations of points in the affine line satisfy stability with respect to the motivic t-structure on mixed Tate motives.

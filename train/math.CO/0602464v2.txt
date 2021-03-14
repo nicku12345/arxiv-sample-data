@@ -1,0 +1,1 @@
+M. Beck, J. De Loera, M. Develin, J. Pfeifle and R. Stanley found that the roots of the Ehrhart polynomial of a d-dimensional lattice polytope are bounded above in norm by 1+(d+1)!. We provide an improved bound which is quadratic in d and applies to a larger family of polynomials.

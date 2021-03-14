@@ -1,0 +1,1 @@
+We study the rate of growth experienced by the Kronecker coefficients as we add cells to the rows and columns indexing partitions. We do this by moving to the setting of the reduced Kronecker coefficients.

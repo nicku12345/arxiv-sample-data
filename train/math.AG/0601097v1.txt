@@ -1,0 +1,1 @@
+We define many new examples of modules of equations for secant varieties of Segre varieties that generalize Strassen's commutation equations. Our modules of equations are obtained by constructing subspaces of matrices from tensors that satisfy various commutation properties.

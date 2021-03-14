@@ -1,0 +1,1 @@
+Let \pi be a set of primes, and let G be a finite \pi-separable group. We consider the Isaacs {\rm B}_\pi-characters. We show that if N is a normal subgroup of G, then {\rm B}_\pi (G/N) = {\rm Irr} (G/N) \cap {\rm B}_\pi (G).

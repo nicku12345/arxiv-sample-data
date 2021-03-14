@@ -1,0 +1,1 @@
+We study the defining equations of projective embeddings of the blowup of P^2 at a set of {d+1 \choose 2} number of points in generic position. To do this, we first generalize the notion of a matrix, its ideal of 2x2 minors to that of a box-shaped matrix. Our work completes previous works of Geramita and Gimigliano.

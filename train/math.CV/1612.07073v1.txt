@@ -1,0 +1,1 @@
+For an analytic curve \gamma:(a,b)\rightarrow \C, the set of values approached by \gamma(t), as t\searrow a and as t\nearrow b can be any two continuua of \C\cup\{\infty\}.

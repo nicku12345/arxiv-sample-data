@@ -1,0 +1,1 @@
+We will show that if (\Omega,\Sigma,\mu) is an atomless positive measure space, X is a Banach space and 1\leq p<\infty, then the group of isometric automorphisms on the Bochner space L^{p}(\mu,X) is contractible in the strong operator topology. We do not require \Sigma or X above to be separable.

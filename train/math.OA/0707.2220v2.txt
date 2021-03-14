@@ -1,0 +1,1 @@
+It is shown that, for a C*-algebra of stable rank one (i.e., in which the invertible elements are dense), two well-known isomorphism invariants, the Cuntz semigroup and the Thomsen semigroup, contain the same information. More precisely, these two invariants, viewed appropiately, determine each other in a natural way.

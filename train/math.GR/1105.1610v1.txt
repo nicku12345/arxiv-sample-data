@@ -1,0 +1,1 @@
+Define a random variable \xi_n by choosing a conjugacy class C of the Sylow p-subgroup of S_{p^n} by random, and let \xi_n be the logarithm of the order of an element in C. We show that \xi_n has bounded variance and mean order \frac{\log n}{\log p}+O(1), which differs significantly from the average order of elements chosen with equal probability.

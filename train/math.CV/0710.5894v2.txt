@@ -1,0 +1,1 @@
+For real power series whose non-zero coefficients satisfy |a_m|^{1/m}\to~1 we prove a stronger version of Fabry theorem relating the frequency of sign changes in the coefficients and analytic continuation of the sum of the power series.

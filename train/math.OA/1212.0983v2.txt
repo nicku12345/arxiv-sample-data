@@ -1,0 +1,1 @@
+We construct a group measure space II_1 factor that has two non-conjugate Cartan subalgebras. We show that the fundamental group of the II_1 factor is trivial, while the fundamental group of the equivalence relation associated with the second Cartan subalgebra is non-trivial. This is not absurd as the second Cartan inclusion is twisted by a 2-cocycle.

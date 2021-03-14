@@ -1,0 +1,1 @@
+The set of acyclic orientations of a connected graph with a given sink has a natural poset structure. We give a geometric proof of a result of Jim Propp: this poset is the disjoint union of distributive lattices.

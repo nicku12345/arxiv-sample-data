@@ -1,0 +1,1 @@
+In this note we give a new lower bound on the virtual crossing number via the writhe polynomial, which refines a result of B. Mellor. The proof is based on a new interpretation of the writhe polynomial. The characterization of the writhe polynomial is also discussed.

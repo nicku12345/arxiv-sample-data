@@ -1,0 +1,1 @@
+The usual Gromov-Witten invariants are zero for K\"{a}hler surfaces with p_g\geq 1. In this paper we use analytic methods to define Family Gromov-Witten Invariants for K\"{a}hler surfaces. We prove that these are well-defined invariants of the deformation class of the K\"{a}hler structure.

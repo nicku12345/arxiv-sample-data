@@ -1,0 +1,1 @@
+We give an improved polynomial bound on the complexity of the equation solvability problem, or more generally, of finding the value sets of polynomials over finite nilpotent rings. Our proof depends on a result in additive combinatorics, which may be of independent interest.

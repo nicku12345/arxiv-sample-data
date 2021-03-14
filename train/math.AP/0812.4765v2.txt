@@ -1,0 +1,1 @@
+We show that any entropy solution u of a convection diffusion equation \partial_t u + \div F(u)-\Delta\phi(u) =b in \OT belongs to C([0,T),L^1_{Loc}(\o\O)). The proof does not use the uniqueness of the solution.

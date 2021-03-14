@@ -1,0 +1,1 @@
+We construct a fake exponential Brownian motion, a continuous martingale different from classical exponential Brownian motion but with the same marginal distributions, thus extending results of Albin and Oleszkiewicz for fake Brownian motions. The ideas extend to other diffusions.

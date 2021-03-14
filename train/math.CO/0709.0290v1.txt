@@ -1,0 +1,1 @@
+We prove that K_{n} is \mathbb{Z}_{2}^{2}-cordial if and only if 1 \leq n \leq 3 and that K_{m,n} is \mathbb{Z}_{2}^{2} if and only if it is false that m=n=2.

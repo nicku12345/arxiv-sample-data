@@ -1,0 +1,1 @@
+In this paper, we study properties of maps between fibrant objects in model categories. We give a characterization of weak equivalences between fibrant object. If every object of a model category is fibrant, then we give a simple description of a set of generating cofibrations. We show that to construct such model structure it is enough to check some relatively simple conditions.

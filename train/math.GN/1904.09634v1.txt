@@ -1,0 +1,1 @@
+We consider the homeomorphic classification of finite-dimensional continua as well as several related equivalence relations. We show that, when n \geq 2, the classification problem of n-dimensional continua is strictly more complex than the isomorphism problem of countable graphs. We also obtain results that compare the relative complexity of various equivalence relations.

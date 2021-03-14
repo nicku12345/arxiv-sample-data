@@ -1,0 +1,1 @@
+Let L be a reductive subgroup of a reductive Lie group G. Let G/H be a homogeneous space of reductive type. We provide a necessary condition for the properness of the action of L on G/H. As an application we give examples of spaces that do not admit standard compact Clifford-Klein forms.

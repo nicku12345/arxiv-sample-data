@@ -1,0 +1,1 @@
+We show that the operadic cohomology for any type of algebras over a non-symmetric operad A can be computed as Ext in the category of operadic A-modules. We use this principle to prove that the Gerstenhaber-Schack diagram cohomology is operadic cohomology.

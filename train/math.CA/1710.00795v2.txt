@@ -1,0 +1,1 @@
+We generalize Bourgain's discretized projection theorem to higher rank situations. Like Bourgain's theorem, our result yields an estimate for the Hausdorff dimension of the exceptional sets in projection theorems formulated in terms of Hausdorff dimensions. This estimate complements earlier results of Mattila and Falconer.

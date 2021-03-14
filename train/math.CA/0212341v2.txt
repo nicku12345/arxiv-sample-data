@@ -1,0 +1,1 @@
+A basic point about hyperbolic groups is that they have "spaces at infinity" which are spaces of homogeneous type in the sense of Coifman and Weiss, and with a lot of self-similarity coming from the group. This short survey deals with some of the notions involved.

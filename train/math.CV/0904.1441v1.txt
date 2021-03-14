@@ -1,0 +1,1 @@
+Let D be a Hartogs domain of the form D={(z,w) \in CxC^N : |w| < e^{-u(z)}} where u is a subharmonic function on C. We prove that the Bergman space of holomorphic and square integrable functions on D is either trivial or infinite dimensional.

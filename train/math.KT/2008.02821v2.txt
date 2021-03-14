@@ -1,0 +1,1 @@
+In this short note, we given a new proof of Mitchell's theorem that L_{T\left(n\right)} K(Z) \cong 0 for n \geq 2. Instead of reducing the problem to delicate representation theory, we use recently established hyperdescent technology for chromatically-localized algebraic K-theory.

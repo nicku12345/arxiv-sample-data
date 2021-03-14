@@ -1,0 +1,1 @@
+Every submartingale S of class D has a unique Doob-Meyer decomposition S=M+A, where M is a martingale and A is a predictable increasing process starting at 0. We provide a short and elementary prove of the Doob-Meyer decomposition theorem. Several previously known arguments are included to keep the paper self-contained.

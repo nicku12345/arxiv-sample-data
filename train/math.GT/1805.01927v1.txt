@@ -1,0 +1,1 @@
+The Chen-Yang volume conjecture states that the growth rate of the Turaev-Viro invariants of a compact oriented 3-manifold determines its simplicial volume. In this paper we prove that the Chen-Yang conjecture is stable under (2n+1,2)-cabling.

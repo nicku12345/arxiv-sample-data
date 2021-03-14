@@ -1,0 +1,1 @@
+We show that the Kakimizu complex of a knot may be locally infinite, answering a question of Przytycki--Schultens. We then prove that if a link L only has connected Seifert surfaces and has a locally infinite Kakimizu complex then L is a satellite of either a torus knot, a cable knot or a connected sum, with winding number 0.

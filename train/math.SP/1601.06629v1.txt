@@ -1,0 +1,1 @@
+Various spectral notions have been employed to grasp the structure of point sets, in particular non-periodic ones. In this article, we present them in a unified setting and explain the relations between them. For the sake of readability, we use Delone sets in Euclidean space as our main object class, and give generalisations in the form of further examples and remarks.

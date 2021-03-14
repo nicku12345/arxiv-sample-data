@@ -1,0 +1,1 @@
+Based on various strategies and a new general doubling operator, we obtain several simple proofs of the celebrated Sharkovsky's cycle coexistence theorem. A simple non-directed graph proof which is especially suitable for a calculus course right after the introduction of Intermediate Value Theorem is also given (in section 3).

@@ -1,0 +1,1 @@
+It is a classical result that the absolute value of any k-minor of an r\times s real or complex matrix is bounded by the product of its first k singular values. We generalize this statement to the context of real or complex simple Jordan pairs with generalized minors given by Jordan algebra determinants.

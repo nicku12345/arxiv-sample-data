@@ -1,0 +1,1 @@
+For primes p, we investigate an \mathbb{F}_p-version of simplicial volume and compare these invariants with their siblings over other coefficient rings. We will also consider the associated gradient invariants, obtained by stabilisation along finite coverings. Throughout, we will discuss the relation between such simplicial volumes and Betti numbers.

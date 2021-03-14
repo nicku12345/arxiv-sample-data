@@ -1,0 +1,1 @@
+We consider a degenerate stochastic differential equation that has a sticky point in the Markov process sense. We prove that weak existence and weak uniqueness hold, but that pathwise uniqueness does not hold nor does a strong solution exist.

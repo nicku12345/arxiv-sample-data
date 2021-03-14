@@ -1,0 +1,1 @@
+Let D denote the (n-1)-dimensional simplex. Let Y be a random 2-dimensional subcomplex of D obtained by starting with the full 1-skeleton of D and then adding each 2-simplex independently with probability p. For a fixed c>0 it is shown that if p=\frac{(6+7c) \log n}{n} then a.a.s. the fundamental group \pi(Y) does not have a nontrivial quotient of order at most n^c.

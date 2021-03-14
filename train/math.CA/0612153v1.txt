@@ -1,0 +1,1 @@
+We investigate the Knizhnik-Zamolodchikov linear differential system. The coefficients of this system are rational functions. We prove that the solution of the KZ system is rational when k is equal to two and n is equal to three. While doing so, we found the coefficients of expansion in a neighborhood of a singular point.

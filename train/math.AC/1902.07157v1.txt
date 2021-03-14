@@ -1,0 +1,1 @@
+Over a one-dimensional Gorenstein local domain R, let E be the endomorphism ring of the maximal of R, viewed as a subring of the integral closure \overline R. If there exist finitely generated R-modules M and N, neither of them free, whose tensor product is torsion-free, we show that E must be local with the same residue field as R.

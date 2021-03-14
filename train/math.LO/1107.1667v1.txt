@@ -1,0 +1,1 @@
+We extend a transitive model V of ZFC + GCH cardinal preservingly to a model N of ZF + "GCH holds below Alef_omega" + "there is a surjection from the power set of Alef_omega onto lambda" where lambda is an arbitrarily high fixed cardinal in V.

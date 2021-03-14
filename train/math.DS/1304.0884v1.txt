@@ -1,0 +1,1 @@
+We study the asymptotic behaviour of the number of self-intersections of a trajectory of a periodic planar Lorentz process with strictly convex obstacles and finite horizon. We give precise estimates for its expectation and its variance. As a consequence, we establish the almost sure convergence of the self-intersections with a suitable normalization.

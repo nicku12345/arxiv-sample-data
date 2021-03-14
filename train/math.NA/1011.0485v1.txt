@@ -1,0 +1,1 @@
+We continue our study on variable order Arnold-Falk-Winther elements for 2D elasticity in context of both affine and parametric curvilinear elements. We present an h-stability result for affine elements, and an asymptotic stability result for curvilinear elements. Both theoretical results are confirmed with numerical experiments.

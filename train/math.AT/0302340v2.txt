@@ -1,0 +1,1 @@
+We show that for a complete complex algebraic variety the pure component of homology coincides with the image of intersection homology. Therefore pure homology is topologically invariant. To obtain slightly more general results we introduce "image homology" for noncomplete varieties.

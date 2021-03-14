@@ -1,0 +1,1 @@
+We determine (non-)triviality of Samelson products of inclusions of factors of the mod p decomposition of G_{(p)} for (G,p)=(E_7,5),(E_7,7),(E_8,7). This completes the determination of (non-)triviality of those Samelson products in p-localized exceptional Lie groups when G has p-torsion free homology.

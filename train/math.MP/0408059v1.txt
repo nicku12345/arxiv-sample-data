@@ -1,0 +1,1 @@
+A simple version for the extension of the Taylor theorem to the operator functions was found. The expansion was done with respect to a value given by a diagonal matrix for the non-commutative case, and the coefficients are given both by recurrence relations and Cauchy integrals.

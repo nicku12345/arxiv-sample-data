@@ -1,0 +1,1 @@
+We discuss the combinatorics of faces of trees in the context of dendroidal sets and develop a systematic treatment of dendroidal anodyne extensions. As the main example and our motivation, we prove the pushout-product property for the stable model structure on dendroidal sets.

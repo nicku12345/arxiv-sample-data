@@ -1,0 +1,1 @@
+In this note we present an algorithm for the construction of the unit group of the Burnside ring \Omega(G) of a finite group G from a list of representatives of the conjugacy classes of subgroups of G.

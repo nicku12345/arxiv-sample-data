@@ -1,0 +1,1 @@
+We study quantum automorphism groups of vertex-transitive graphs having less than 11 vertices. With one possible exception, these can be obtained from cyclic groups {\mathbb Z}_n, symmetric groups S_n and quantum symmetric groups \mathcal Q_n, by using various product operations. The exceptional case is that of the Petersen graph, and we present some questions about it.

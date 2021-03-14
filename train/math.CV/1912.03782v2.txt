@@ -1,0 +1,1 @@
+We discuss stationary discs for generic CR manifolds and apply them to the problem of finite jet determination for CR mappings. We prove that a CR diffeomorphism of two finitely smooth strictly pseudoconvex Levi generating CR manifolds is uniquely determined by its 2-jet at a given point. A new key element of the proof is the existence of non-defective stationary discs.

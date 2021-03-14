@@ -1,0 +1,1 @@
+In this paper, we introduce the sign q-permutation representation of the Iwahori-Hecke algebra on the tensor space of the graded vector space. We establish Schur-Weyl reciprocity between the quantum general super Lie algebra and the Iwahori-Hecke algebra. Our result includes Schur-Weyl reciprocity of both the super case and the quantum case, and unifies those two important cases.

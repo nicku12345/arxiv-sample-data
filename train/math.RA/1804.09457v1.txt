@@ -1,0 +1,1 @@
+Consider the special linear Lie algebra \mathfrak{sl}_n(\mathbb {K}) over an infinite field of characteristic different from 2. We prove that for any nonzero nilpotent X there exists a nilpotent Y such that the matrices X and Y generate the Lie algebra \mathfrak{sl}_n(\mathbb {K}).

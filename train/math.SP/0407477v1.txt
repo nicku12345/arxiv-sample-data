@@ -1,0 +1,1 @@
+This article is a survey of classical and quantum completely integrable systems from the viewpoint of local ``phase space'' analysis. It advocates the use of normal forms and shows how to get global information from glueing local pieces. Many crucial phenomena such as monodromy or eigenvalue concentration are shown to arise from the presence of non-degenerate critical points.

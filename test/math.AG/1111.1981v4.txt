@@ -1,0 +1,1 @@
+We study fiber functors on Tannakian categories which are equipped with a grading or a filtration. Our goal is to give a comprehensive set of foundational results about such functors. A main result is that each filtration on a fiber functor can be split by a grading fpqc-locally on the base scheme.

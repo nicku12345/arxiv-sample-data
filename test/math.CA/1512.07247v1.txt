@@ -1,0 +1,1 @@
+We obtain an alternative approach to recent results by M. Lacey \cite{La} and T. Hyt\"onen {\it et al.} \cite{HRT} about a pointwise domination of \omega-Calder\'on-Zygmund operators by sparse operators. This approach is rather elementary and it also works for a class of non-integral singular operators.

@@ -1,0 +1,1 @@
+In this paper using split extensions of group-groupoids we obtain the notion of crossed modules over group-grouoids which are also called 2-groups and we prove a categorical equivalence of these types of crossed modules and double group-groupoids which are internal to the category of group-groupoids. This equivalence enables us to produce more examples of double groupoids.

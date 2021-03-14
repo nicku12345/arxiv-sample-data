@@ -1,0 +1,1 @@
+We compute the {\Omega}^1(G) invariant when 1 {\to} H {\to} G {\to} K {\to} 1 is a split short exact sequence. We use this result to compute the invariant for pure and full braid groups on compact surfaces. Applications to twisted conjugacy classes and to finite generation of commutator subgroups are also discussed.

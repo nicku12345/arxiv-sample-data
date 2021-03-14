@@ -1,0 +1,1 @@
+The purpose of this short note is to understand the Grothendieck ring of the Deligne category \underline{\text{Rep}}(GL_t). We give a formula for the class of an indecomposable object in terms of exterior powers of the tautological object and its dual.

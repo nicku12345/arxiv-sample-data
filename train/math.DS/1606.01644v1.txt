@@ -1,0 +1,1 @@
+We study the real, bounded-variables process (X_n) defined by a k-term recurrence relation X_{n+k} ={\phi}(X_n, ... , X_{n+k-1}). We prove the decay of correlations, mainly under purely analytic hypotheses concerning the function {\phi} and its partial derivatives.

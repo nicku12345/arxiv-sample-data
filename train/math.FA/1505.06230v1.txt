@@ -1,0 +1,1 @@
+In this paper, we propose to study spectral measures on local fields. Some basic results are presented, including the stability of Bessel sequences under perturbation, the Landau theorem on Beurling density, the law of pure type of spectral measures, the boundedness of the Radon-Nikodym derivative of absolutely continuous F-spectral measures etc.

@@ -1,0 +1,1 @@
+We provide explicit motion planners for Euiclidean configuration spaces. This allows us to recover some known values of the topological complexity and the Lusternik-Schinirelman category of these spaces.

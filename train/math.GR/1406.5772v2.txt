@@ -1,0 +1,1 @@
+For each prime p we construct a family \{G_i\} of finite p-groups such that |\Aut (G_i)|/|G_i| goes to 0, as i goes to infinity. This disproves a well-known conjecture that |G| divides |\Aut(G)| for every non-abelian finite p-group G.

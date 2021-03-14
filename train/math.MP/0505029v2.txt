@@ -1,0 +1,1 @@
+Using a complete basis set we have obtained an analytic expression for the matrix elements of the Coulomb interaction. These matrix elements are written in a closed form. We have used the basis set of the three-dimensional isotropic quantum armonic oscillator in order to develop our calculations, which can be useful when treating interactions in localized systems.

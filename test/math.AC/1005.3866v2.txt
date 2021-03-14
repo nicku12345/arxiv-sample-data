@@ -1,0 +1,1 @@
+It is shown that every polynomial function P : \mathbb{C}^2\longrightarrow \mathbb{C} with irreducible fibres of same a genus is a coordinate. In consequence, there does not exist counterexamples F = (P,Q) to the Jacobian conjecture such that all fibres of P are irreducible curves of same a genus.

@@ -1,0 +1,1 @@
+We investigate the system TRC of combinatory logic that is equiconsistent with New Foundations. We prove that various unstratified combinators do not exist in TRC.

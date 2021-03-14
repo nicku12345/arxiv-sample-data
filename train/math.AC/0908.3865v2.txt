@@ -1,0 +1,1 @@
+We prove different forms of the Nullstellensatz for difference fields and absolutely flat simple difference rings, called pseudofields. A difference ring is a ring on which an arbitrary group is acting by means of ring automorphisms.

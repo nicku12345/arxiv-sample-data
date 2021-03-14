@@ -1,0 +1,1 @@
+We prove a fluctuating limit theorem of a sequence of super-Brownian motions over \mbb{R} with a single point catalyst. The weak convergence of the processes on the space of Schwarz distributions is established. The limiting process is an Ornstein-Uhlenbeck type process solving a Langevin type equation driven by a one-dimensional Brownian motion.

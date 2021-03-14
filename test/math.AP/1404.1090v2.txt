@@ -1,0 +1,1 @@
+We give natural topological conditions on the support of the target measure under which solutions to the optimal transport problem with cost function satisfying the (weak) Ma, Trudinger, and Wang condition cannot have any isolated singular points.

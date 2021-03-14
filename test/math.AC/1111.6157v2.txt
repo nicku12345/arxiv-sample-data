@@ -1,0 +1,1 @@
+We compute the Betti numbers for all the powers of initial and final lexsegment edge ideals. For the powers of the edge ideal of an anti-d-path, we prove that they have linear quotients and we characterize the normally torsion-free ideals. We determine a class of non-squarefree ideals, arising from some particular graphs, which are normally torsion-free.

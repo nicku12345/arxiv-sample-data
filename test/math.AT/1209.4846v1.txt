@@ -1,0 +1,1 @@
+We prove that every finite connected simplicial complex is homotopy equivalent to the quotient of a contractible manifold by proper actions of a virtually torsion-free group. As a corollary, we obtain that every finite connected simplicial complex is homotopy equivalent to the classifying space for proper bundles of some virtual Poincar\'e duality group.

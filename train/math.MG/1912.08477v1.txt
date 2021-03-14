@@ -1,0 +1,1 @@
+We prove that the largest convex shape that can be placed inside a given convex shape Q \subset \mathbb{R}^{d} in any desired orientation is the largest inscribed ball of Q. The statement is true both when "largest" means "largest volume" and when it means "largest surface area". The ball is the unique solution, except when maximizing the perimeter in the two-dimensional case.

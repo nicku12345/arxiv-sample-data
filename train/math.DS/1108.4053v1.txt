@@ -1,0 +1,1 @@
+We study Hopf-Andronov bifurcations in a class of random differential equations (RDEs) with bounded noise. We observe that when an ordinary differential equation that undergoes a Hopf bifurcation is subjected to bounded noise then the bifurcation that occurs involves a discontinuous change in the Minimal Forward Invariant set.

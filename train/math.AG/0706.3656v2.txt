@@ -1,0 +1,1 @@
+We determine the Betti numbers of the Springer fibers in type A. To do this, we construct a cell decomposition of the Springer fibers. The codimension of the cells is given by an analogue of the Coxeter length. This makes our cell decomposition well suited for the calculation of Betti numbers.

@@ -1,0 +1,1 @@
+In order to avoid the evaluation of the Jacobian matrix and its inverse, the present author recently introduced the pseudo-Jacobian matrix with a general applicability of any nonlinear systems of equations. By using this concept, this paper proposes the pseudo-Newton method

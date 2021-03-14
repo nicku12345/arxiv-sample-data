@@ -1,0 +1,1 @@
+We present an algorithm for the rigorous integration of Delay Differential Equations (DDEs) of the form x'(t)=f(x(t-\tau),x(t)). As an application, we give a computer assisted proof of the existence of two attracting periodic orbits (before and after the first period-doubling bifurcation) in the Mackey-Glass equation.

@@ -1,0 +1,1 @@
+Let M and N be smooth manifolds. For an open V of M let emb(V,N) be the space of embeddings from V to N. By results of Goodwillie and Goodwillie-Klein, the cofunctor V |--> emb(V,N) is analytic if dim(N)-dim(M) > 2. We deduce that its Taylor series converges to it. For details about the Taylor series, see Part I.

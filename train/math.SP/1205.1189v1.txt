@@ -1,0 +1,1 @@
+The D-eigenvalues {\mu}_1,{\mu}_2,...,{\mu}_{n} of a connected graph G are the eigenvalues of its distance matrix. The distance Estrada index of G is defined in [15] as DEE=DEE(G)=\Sigma_{i=1}^n e^{{\mu}_{i}}   In this paper, we give better lower bounds for the distance Estrada index of any connected graph as well as some relations between DEE(G) and the distance energy.

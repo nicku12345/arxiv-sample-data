@@ -1,0 +1,1 @@
+We prove that if u is a weak solution to a constant coefficient system (with strong ellipticity assumed along the horizontal direction) in a Carnot group (no restriction on the step), then u is actually smooth. We then use this result to develop blow-up analysis to prove a partial regularity result for weak solutions of certain non-linear systems.

@@ -1,0 +1,1 @@
+In this paper, we present how to use a free algebra based interval arithmetics framework in order to build better defined inclusion function for interval semi-group and for its associated vector space. One introduces the psi-algorithm, which performs set inversion of functions and exhibits some numerical examples developped with the python programming langage.

@@ -1,0 +1,1 @@
+We give a short proof of a result of G. Paouris on the tail behaviour of the Euclidean norm |X| of an isotropic log-concave random vector X\in\R^n, stating that for every t\geq 1, P(|X|\geq ct\sqrt n)\leq \exp(-t\sqrt n). More precisely we show that for any log-concave random vector X and any p\geq 1, (E|X|^p)^{1/p}\sim E |X|+\sup_{z\in S^{n-1}}(E |< z,X>|^p)^{1/p}.

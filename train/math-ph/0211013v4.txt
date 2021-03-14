@@ -1,0 +1,1 @@
+We consider a modified version of the Vlasov-Maxwell system in which the usual Maxwell fields are replaced by their retarded parts. We show that solutions of this modified system exist globally for a small number of particles and that they describe a system without incoming radiation

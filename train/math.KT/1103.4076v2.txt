@@ -1,0 +1,1 @@
+We give a proof of the degree formula for the Euler characteristic previously obtained by Kirill Zainoulline. The arguments used here are considerably simpler, and allow us to remove all restrictions on the characteristic of the base field.

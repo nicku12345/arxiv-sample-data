@@ -1,0 +1,1 @@
+We introduce a notion of Hochschild Lefschetz class for a good coherent D-module on a compact complex manifold, and prove that this class is compatible with the direct image functor. We prove an orbifold Riemann-Roch formula for a D-module on a compact complex orbifold.

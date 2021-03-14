@@ -1,0 +1,1 @@
+This paper provides an accessible introduction to some of the work of Woodin on suitable extender models. We define the HOD conjecture, prove it is equivalent to a formulation in terms of weak extender models for supercompactness, and give some of its consequences.

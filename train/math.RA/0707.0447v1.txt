@@ -1,0 +1,1 @@
+Let S be a subring of the ring R. We investigate the question of whether S intersected by U(R) is equal to U(S) holds for the units. In many situations our answer is positive. There is a special emphasis on the case when R is a full matrix ring and S is a structural subring of R defined by a reflexive and transitive relation.

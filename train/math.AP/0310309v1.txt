@@ -1,0 +1,1 @@
+We construct a potential V on \RR^d, smooth away from one pole, and a sequence of quasi-modes for the operator -\Delta+V, which concentrate on this pole. No smoothing effect, Strichartz estimates nor dispersive inequalities hold for the corresponding Schrodinger equation.

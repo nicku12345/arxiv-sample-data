@@ -1,0 +1,1 @@
+In this paper the Hochschild-cochain-complex of an A-infinity-algebra A with values in an A-infinity-bimodule M over A and maps between them is defined. Then, an infinity-inner-product on A is defined to be an A-infinity-bimodule-map between A and its dual A*. There is a graph-complex associated to A-infinity-algebras with infinity-inner-product.

@@ -1,0 +1,1 @@
+The purpose of this note is to give a direct and self-contained proof of the Proportionality Theorem of Brasselet-Schwartz. This theorem relates the Schwartz indices of frames obtained by radial extension on Whitney stratified analytic spaces, with the obstructions to extending the canonical lifting of these frames as non-zero sections of the corresponding Nash bundle.

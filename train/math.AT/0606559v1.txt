@@ -1,0 +1,1 @@
+We define equivariant homology theories using bordism of stratifolds with a G-action, where G is a discrete group. Stratifolds are a generalization of smooth manifolds which were introduced by Kreck. He defines homology theories using bordism of suitable stratifolds. We develop the equivariant generalization of these ideas.

@@ -1,0 +1,1 @@
+The Chisini conjecture asserts that a generic ramified covering over the complex projective plane of degree at least 5 is uniquely determined by its branch curve. We prove this for degree at least 12 using the work of Kulikov (math-AG/9803144).

@@ -1,0 +1,1 @@
+This note discusses the bijection between the exceptional subcategories of representations of quivers and generalized non-crossing partitions of Weyl groups. We give a new proof of the Ingalls-Thomas-Igusa-Schiffler bijection by using the exchange property of the Weyl groups of the Kac-Moody Lie algebras.

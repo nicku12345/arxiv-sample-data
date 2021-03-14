@@ -1,0 +1,1 @@
+We obtain a uniform linear bound for the Chevalley function at a point in the source of an analytic mapping that is regular in the sense of Gabrielov. There is a version of Chevalley's lemma also along a fibre, or at a point of the image of a proper analytic mapping. We get a uniform linear bound for the Chevalley function for a closed Nash (or formally Nash) subanalytic set.

@@ -1,0 +1,1 @@
+In this paper we give a direct geometric proof of the fact that tensoring with the Tate motive in the triangulated category of effective motives DM is a full embedding. The main part of the proof is given in the context of schemes of finite type over a noetherian base scheme.

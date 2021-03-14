@@ -1,0 +1,1 @@
+We prove that for every positive integer m\geq 18(2^{9}\cdot 3^{7})! and every smooth projective 3-fold of general type X defined over complex numbers, \mid mK_{X}\mid gives a birational rational map from X into a projective space.

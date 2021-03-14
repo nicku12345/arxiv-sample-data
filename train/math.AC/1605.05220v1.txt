@@ -1,0 +1,1 @@
+Let M, N be finite modules over a Noetherian local ring R, and let G be the associated graded ring of R. We show that the bigraded Hilbert series of gr(Tor^R(M,N)) is obtained from that of Tor^G(gr(M),gr(N)) by negative consecutive cancellations, thus extending a theorem of Rossi and Sharifan.

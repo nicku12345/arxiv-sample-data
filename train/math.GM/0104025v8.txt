@@ -1,0 +1,1 @@
+This article examines the formula G (of Goedel). We demonstrated that the Goedel's number of the formula G is not a finite number if (i) G is comprehended as a self-referential statement or (ii) there is an infinite set S of well-formed formulae such that the elements of S are theorems or antitheorems in T.

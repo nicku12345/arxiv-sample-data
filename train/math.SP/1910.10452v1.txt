@@ -1,0 +1,1 @@
+An equality between the spectral flow of a family A of self-adjoint Fredholm operators and the index of the associated differential operator \frac{d}{dt}-iA with Atiyah-Patodi-Singer-style boundary conditions is shown. This generalizes a result by C.B\"ar and A. Strohmaier used to show their Lorentzian version of the Atiyah-Patodi-Singer Index Theorem.

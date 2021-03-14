@@ -1,0 +1,1 @@
+A \emph{wheel} is a graph formed by a chordless cycle C and a vertex u not in C that has at least three neighbors in C. We prove that every 3-connected planar graph that does not contain a wheel as an induced subgraph is either a line graph or has a clique cutset. We prove that every planar graph that does not contain a wheel as an induced subgraph is 3-colorable.

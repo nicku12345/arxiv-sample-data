@@ -1,0 +1,1 @@
+Let (A,\mathfrak{m}, k=A/\mathfrak{m}) be a noetherian local ring. Then it is equivalent n = \dim A = \dim_k \mathfrak{m}/\mathfrak{m}^2 and \mathrm{Tor}^A_i(k,k) = 0 for all i \gg 0. The article gives a proof with the change-of-ring spectral sequence in the derived category form.

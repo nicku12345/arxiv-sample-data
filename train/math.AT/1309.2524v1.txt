@@ -1,0 +1,1 @@
+We construct a non-paracompact Hausdorff space for which Cech cohomology does not coincide with sheaf cohomology. Moreover, the sheaf of continuous real-valued functions is neither soft nor acyclic, and our space admits non-numerable principal bundles.

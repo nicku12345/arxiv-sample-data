@@ -1,0 +1,1 @@
+The power graph \mathcal{P}(G) of a finite group G is a graph whose vertex set is the group G and distinct elements x,y\in G are adjacent if one is a power of the other, that is, x and y are adjacent if x\in\langle y\rangle or y\in\langle x\rangle. We characterize all finite groups G whose power graphs are claw-free, K_{1,4}-free or C_4-free.

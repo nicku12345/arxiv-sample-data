@@ -1,0 +1,1 @@
+For each proper divisor d of (r^2-r+1), r being a power of a prime, maximal curves over a finite field with r^2 elements covered by the Hermitian curve of genus 1/2((r^2-r+1)/d-1) are constructed.

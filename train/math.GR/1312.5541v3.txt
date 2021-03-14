@@ -1,0 +1,1 @@
+We study the buildings in which parallelism of residues is an equivalence relation. If the building admits a group action, we describe how parallel residues are related to residues with equal stabilizers. This permits to retrieve the fact that in a Coxeter group or in a graph product, intersections of parabolic subgroups are parabolic.

@@ -1,0 +1,1 @@
+The aim of this note is to give a precise description of the local structure of the moduli space of rank 3 vector bundles over a curve of genus 2, which is in particular shown to be a local complete intersection. This allows us to investigate the local structure of the branch locus of the theta map, whose dual is known to be the Coble cubic in P^8.

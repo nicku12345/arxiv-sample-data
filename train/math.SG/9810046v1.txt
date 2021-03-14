@@ -1,0 +1,1 @@
+We provided two explicit formulas for the intersection cohomology (as a graded vector space with pairing) of the symplectic quotient by a circle in terms of the S^1 equivariant cohomology of the original symplectic manifold and the fixed point data. The key idea is the construction of a small resolution of the symplectic quotient.

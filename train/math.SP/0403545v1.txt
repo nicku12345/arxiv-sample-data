@@ -1,0 +1,1 @@
+On an asymptotically hyperbolic manifold (X,g), we show that the resolvent resonances coincide, with multiplicities, with the poles of the renormalized scattering operator, except for the special points n/2-k (with k>0 integer) where an additional term appears: this is the dimension of the kernel of the k-conformal Laplacian on the boundary when (X,g) is Einstein.

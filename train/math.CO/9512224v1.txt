@@ -1,0 +1,1 @@
+We prove an explicit formula for the number of n \times n upper triangular matrices, over GF(q), whose square is the zero matrix. This formula was recently conjectured by Sasha Kirillov and Anna Melnikov[KM].

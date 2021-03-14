@@ -1,0 +1,1 @@
+We prove a formula for the nth power of the q-derivative operator at x=0 for every function whose nth derivative at x=0 exists. We give a proof in both the real variable and the complex variable case.

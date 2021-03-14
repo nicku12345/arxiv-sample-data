@@ -1,0 +1,1 @@
+We show that the symmetric injective tensor product space \hat{\otimes}_{n,s,\epsilon}E is not complex strictly convex if E is a complex Banach space of \dim E \ge 2 and if n\ge 2 holds. It is also reproved that \ell_\infty is finitely represented in \hat{\otimes}_{n,s,\epsilon}E if E is infinite dimensional and if n\ge 2 holds, which was proved in the other way by Dineen.

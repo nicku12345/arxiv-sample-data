@@ -1,0 +1,1 @@
+Let D=\{\rho<0\} be a smooth domain of finite type in an almost complex manifold (M,J) of real dimension four. We assume that the defining function \rho is J-plurisubharmonic on a neighborhood of \overline{D}. We study the asymptotic behavior of pseudoholomorphic discs contained in the domain D.

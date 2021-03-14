@@ -1,0 +1,1 @@
+We give explicit formulae for certain elements occurring in the Bernstein presentation of an affine Hecke algebra, in terms of the usual Iwahori- Matsumoto generators. We utilize certain minimal expressions for said elements and we give a sheaf-theoretic interpretation for the existence of these minimal expressions.

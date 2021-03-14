@@ -1,0 +1,1 @@
+In this article we present a simple proof of Borevich-Shafarevich's method to compute the sum of the first n natural numbers of the same power. We also prove several properties of Bernoulli's numbers.

@@ -1,0 +1,1 @@
+We show that if A is a simply connected, finite, pointed CW-complex then the mapping spaces Map(A, -) are preserved by the localization functors only if A has the rational homotopy type of a wedge of spheres of a fixed dimension.

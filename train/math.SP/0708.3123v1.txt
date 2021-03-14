@@ -1,0 +1,1 @@
+For a unitary local system of rank one on a complete hyperbolic threefold of finite volume which has only one cusp, the Ruelle L-function is defined. We will show that if the first cohomology group of the local system vanishes its value at s=0 is equal to the square of the Franz-Reidemeister torsion.

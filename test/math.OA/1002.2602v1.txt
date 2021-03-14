@@ -1,0 +1,1 @@
+We prove a Caratheodory-Fejer type interpolation theorem for certain matrix convex sets in \C^d using the Blecher-Ruan-Sinclair characterization of abstract operator algebras. Our results generalize the work of Dmitry S. Kalyuzhnyi-Verbovetzkii for the d-dimensional non-commutative polydisc.

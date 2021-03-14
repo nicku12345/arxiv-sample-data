@@ -1,0 +1,1 @@
+Trimolecular reaction models are investigated in the compartment-based (lattice-based) framework for stochastic reaction-diffusion modelling. The formulae for the first collision time and the mean reaction time are derived for the case where three molecules are present in the solution.

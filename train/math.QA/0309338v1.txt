@@ -1,0 +1,1 @@
+We develop a general framework to deal with the unitary representations of quantum groups using the language of C*-algebras. Using this framework, we prove that the duality holds in a general context. This extends the framework of the duality theorem using the language of von Neumann algebras previously developed by Masuda and Nakagami.

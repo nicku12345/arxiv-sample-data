@@ -1,0 +1,1 @@
+We propose a definition of the category of hybrid systems in which executions are special types of morphisms. Consequently morphisms of hybrid systems send executions to executions.   We plan to use this result to define and study networks of hybrid systems.

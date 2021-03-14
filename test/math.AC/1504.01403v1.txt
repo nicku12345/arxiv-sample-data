@@ -1,0 +1,1 @@
+We prove a conjectured upper bound for the Castelnuovo-Mumford regularity of binomial edge ideals of graphs, due to Matsuda and Murai. Indeed, we prove that \mathrm{reg}(J_G)\leq n-1 for any graph G with n vertices, which is not a path. Moreover, we study the behavior of the regularity of binomial edge ideals under the join product of graphs.

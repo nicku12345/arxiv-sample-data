@@ -1,0 +1,1 @@
+We investigate trace formulas for Jacobi operators which are trace class perturbations of quasi-periodic finite-gap operators using Krein's spectral shift theory. In particular we establish the conserved quantities for the solutions of the Toda hierarchy in this class.

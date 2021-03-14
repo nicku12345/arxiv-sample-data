@@ -1,0 +1,1 @@
+We show that if X is a quasi-Banach space with trivial dual then every continuous function f:[0,1]\to X has a primitive, answering a question of M.M. Popov.

@@ -1,0 +1,1 @@
+We construct a finite 1-connected CW complex X such that H_*(\Omega X; Z) has p-torsion for the infinitely many primes satisfying p ~ 5,7,17,19 mod 24, but no p-torsion for the infinitely many primes satisfying p ~ 13 or 23 mod 24.

@@ -1,0 +1,1 @@
+In this paper we show that, if an integrable Hamiltonian system admits a nondegenerate hyperbolic singularity then it will satisfy the Kolmogorov condegeneracy condition near that singularity (under a mild additional condition, which is trivial if the singularity contains a fixed point)

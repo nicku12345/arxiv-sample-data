@@ -1,0 +1,1 @@
+We prove that the constraint languages invariant under a short sequence of J\'onsson terms (containing at most three non-trivial ternary terms) are tractable by showing that they have bounded width. This improves the previous result by Kiss and Valeriote and presents some evidence that the Larose-Zadori conjecture holds in the congruence-distributive case.

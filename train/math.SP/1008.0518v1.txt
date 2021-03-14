@@ -1,0 +1,1 @@
+Let H be a Hilbert space of entire functions. Let H' be the space of the functions f(z)/\prod_i(z-z_i) where f belongs to H and vanishes at n given complex points z_i. We compute a suitable E function for H' when one is given for H.

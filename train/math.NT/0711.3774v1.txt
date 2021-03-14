@@ -1,0 +1,1 @@
+We explain how recent work on 3-descent and 4-descent for elliptic curves over Q can be combined to search for generators of the Mordell-Weil group of large height. As an application we show that every elliptic curve of prime conductor in the Stein-Watkins database has rank at least as large as predicted by the conjecture of Birch and Swinnerton-Dyer.

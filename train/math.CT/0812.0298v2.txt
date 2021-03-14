@@ -1,0 +1,1 @@
+We define a notion of weak omega-category internal to a model of Martin-L\"of type theory, and prove that each type bears a canonical weak omega-category structure obtained from the tower of iterated identity types over that type. We show that the omega-categories arising in this way are in fact omega-groupoids.

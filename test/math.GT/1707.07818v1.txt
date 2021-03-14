@@ -1,0 +1,1 @@
+Let p be a puncture of a punctured sphere, and let Q be the set of all other punctures. We prove that the maximal cardinality of a set of arcs pairwise intersecting at most once, which start at p and end in Q, is |X|(|X| + 1). We deduce that the maximal cardinality of a set of arcs with arbitrary endpoints pairwise intersecting at most twice is |X|(|X| + 1)(|X| + 2).

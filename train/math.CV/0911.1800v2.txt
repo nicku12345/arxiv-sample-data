@@ -1,0 +1,1 @@
+In this article, we show that if \Pi: X\rightarrow \Omega is an unbranched Riemann domain with \Omega Stein and \Pi a locally 1-complete morphism, then X is Stein. This gives in particular a positive answer to the local Steiness problem, namely if X is a Stein space and, if \Omega is a locally Stein open set in X, then \Omega is Stein.

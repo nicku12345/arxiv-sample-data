@@ -1,0 +1,1 @@
+We prove that if \vec{R} is a computable sequence of subsets of \omega which admits no computable cohesive set, then no 3-generic computes any \vec{R}-cohesive set; and there exists a Martin-L\"{o}f random which computes no \vec{R}-cohesive set.

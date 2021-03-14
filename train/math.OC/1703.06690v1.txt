@@ -1,0 +1,1 @@
+The popular BFGS quasi-Newton minimization algorithm under reasonable conditions converges globally on smooth convex functions. This result was proved by Powell in 1976: we consider its implications for functions that are not smooth. In particular, an analogous convergence result holds for functions, like the Euclidean norm, that are nonsmooth at the minimizer.

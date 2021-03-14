@@ -1,0 +1,1 @@
+In this paper, we create new version of IS-LM model. The original IS-LM model has two main deficiencies: assumptions of constant price level and of strictly exogenous money supply. New IS-LM model eliminates these deficiencies. In the second section, we prove the existence of relaxation oscillations in this new IS-LM model.

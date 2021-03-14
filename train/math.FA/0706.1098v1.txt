@@ -1,0 +1,1 @@
+Let A=(a_{j,k})_{j,k \ge 1} be a non-negative matrix. In this paper, we characterize those A for which \|A\|_{E, F} are determined by their actions on decreasing sequences, where E and F are suitable normed Riesz spaces of sequences.

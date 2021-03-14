@@ -1,0 +1,1 @@
+A theorem that is of aid in computing the domain of the adjoint operator is provided. It may serve e.g. as a criterion for selfadjointness of a symmetric operator, for normality of a formally normal operator or for H--selfadjointness of an H--symmetric operator. Differential operators and operators given by an infinite matrix are considered as examples.

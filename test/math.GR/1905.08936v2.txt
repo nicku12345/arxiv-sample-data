@@ -1,0 +1,1 @@
+We show that almost all permutations have some power that is a cycle of prime length. The proof includes a theorem giving a strong upper bound on the proportion of elements of the symmetric group having no cycles with length in a given set.

@@ -1,0 +1,1 @@
+In this short note we study the semantics of two basic computational effects, exceptions and states, from a new point of view. In the handling of exceptions we dissociate the control from the elementary operation which recovers from the exception. In this way it becomes apparent that there is a duality, in the categorical sense, between exceptions and states.

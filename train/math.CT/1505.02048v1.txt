@@ -1,0 +1,1 @@
+This article shows that the units of a skew monoidal category are unique up to a unique isomorphism, and internalises this fact to skew monoidales. Some benefits of certain extra structure on the unit maps are also discussed before the axioms of a skew monoidal category are shown to be independent.

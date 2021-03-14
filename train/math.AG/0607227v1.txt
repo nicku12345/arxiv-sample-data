@@ -1,0 +1,1 @@
+We show that Nori's fundamental group scheme \pi(X,x) does not base change correctly under extension of the base field for certain smooth projective ordinary curves X of genus 2 defined over a field of characteristic 2.

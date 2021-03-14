@@ -1,0 +1,1 @@
+We show a version of Hilbert 90 that is valid for a large class of algebras many of which are not commutative, distributive or associative. This class contains the nth iteration of the Conway-Smith doubling procedure. We use our version of Hilbert 90 to parametrize all solutions in ordered fields to the norm one equation for such algebras.

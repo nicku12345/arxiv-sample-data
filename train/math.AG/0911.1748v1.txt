@@ -1,0 +1,1 @@
+Here we prove that the homological dimension of the category of sheaves on a topological space satisfying some suitable conditions is finite. In particular, we find conditions to bound the homological dimension of o-minimal and subanalytic sheaves.

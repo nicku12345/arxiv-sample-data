@@ -1,0 +1,1 @@
+It is well-known that any finite \Pi^{0}_{1}-class of 2^{\mathbb N} has a computable member. Then, how can we understand this in the context of reverse mathematics? In this note, we consider several very weak fragments of K\H{o}nig's lemma to answer this qeustion.

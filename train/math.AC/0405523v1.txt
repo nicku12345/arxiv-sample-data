@@ -1,0 +1,1 @@
+We define three new homological dimensions - Cohen-Macaulay injective, projective, and flat dimension - which inhabit a theory similar to that of classical injective, projective, and flat dimension. Finiteness of the new dimensions characterizes Cohen-Macaulay rings with dualizing modules.

@@ -1,0 +1,1 @@
+In this paper we define a new presentation for the Dunkl-Opdam subalgebra of the rational Cherednik algebra. This shows that the Dunkl-Opdam subalgebra is a Drinfeld algebra. We use this fact to define Dirac cohomology for the DO subalgebra. We also formalise generalised graded Hecke algebras and define a Langlands classification to generalised graded Hecke algebras.

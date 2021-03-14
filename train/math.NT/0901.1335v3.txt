@@ -1,0 +1,1 @@
+For a proper subfield K of \QQ we show the existence of an algebraic number \alpha such that no power \alpha^n, n\geq 1, lies in K. As an application it is shown that these numbers, multiplied by convenient Gaussian numbers, can be written in the form P(T)^{Q(T)} for some transcendental numbers T where P and Q are arbitrarily prescribed non-constant rational functions over \QQ.

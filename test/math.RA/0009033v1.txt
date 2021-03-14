@@ -1,0 +1,1 @@
+Let KG be a group algebra of a finite p-group G over a finite field K of characteristic p. We compute the order of the unitary subgroup of the group of units when G is either an extraspecial 2-group or the central product of such a group with a cyclic group of order 4 or G has an abelian subgroup A of index 2 and an element b such that b inverts each element of A.

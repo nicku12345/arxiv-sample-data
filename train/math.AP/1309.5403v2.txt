@@ -1,0 +1,1 @@
+A new way to prove the one-dimensional Cauchy problem's weakly discontinuous solutions for hyperbolic PDEs are on the characteristics is discussed in this paper. To do so, I use wavelet singularity detection methods or WTMM [1] based on two-dimensional wavelet transform and combine it with the Lipschits index to strengthen the detection.

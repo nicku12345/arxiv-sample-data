@@ -1,0 +1,1 @@
+In the mean-field regime, we prove convergence (with explicit bounds) of the many-body von Neumann dynamics with bounded interactions to the Hartree-von Neumann dynamics.

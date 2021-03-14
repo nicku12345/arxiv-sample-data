@@ -1,0 +1,1 @@
+Given any finite graph, we offer a simple realization of the graph-associahedron polytope using integer coordinates.

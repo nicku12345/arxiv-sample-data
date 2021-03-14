@@ -1,0 +1,1 @@
+For the Kronecker algebra, Zwara found in [14] an example of a module whose orbit closure is neither unibranch nor Cohen-Macaulay. In this paper, we explain how to extend this example to all representation-infinite algebras with a preprojective component.

@@ -1,0 +1,1 @@
+We will show that Banach spaces are monadic over complete metric spaces via the unit ball functor. For the forgetful functor, one should take complete pointed metric spaces.

@@ -1,0 +1,1 @@
+We briefly review and illustrate our procedure to 'decouple' by transformation of generators: either a Hopf algebra H from a H-module algebra A_1 in their cross-product A_1 >\triangleleft H; or two (or more) H-module algebras A_1,A_2. These transformations are based on the existence of an algebra map A_1 >\triangleleft H\to A_1.

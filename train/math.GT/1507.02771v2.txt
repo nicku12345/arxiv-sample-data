@@ -1,0 +1,1 @@
+We prove that the genus of the Turaev surface of a link diagram is determined by a graph whose vertices correspond to the boundary components of the maximal alternating regions of the link diagram. Furthermore, we use these graphs to classify link diagrams whose Turaev surface has genus one or two, and we prove that similar classification theorems exist for all genera.

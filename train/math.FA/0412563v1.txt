@@ -1,0 +1,1 @@
+Theorem: Let X and Y be two Banach spaces, Phi: X to Y a continuous, linear, surjective operator, and Psi: X to Y a completely continuous operator with bounded range. Then, one has dim{x in X : Phi(x)=Psi(x)} >= dim(Phi^{-1}(0)). Here dim denotes the covering dimension.

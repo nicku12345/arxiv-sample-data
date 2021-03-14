@@ -1,0 +1,1 @@
+We propose M\"obius transformations as the natural rotation and scaling tools for editing spherical images. As an application we produce spherical Droste images. We obtain other self-similar visual effects using rational functions, elliptic functions, and Schwarz-Christoffel maps.

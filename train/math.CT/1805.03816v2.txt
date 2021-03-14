@@ -1,0 +1,1 @@
+We use fibrations to construct four complete Segal spaces: simplicial spaces, Segal spaces and complete Segal spaces and spaces. Each one comes with a universal fibration that classifies Reedy left fibrations, Segal coCartesian fibrations, coCartesian fibrations and left fibrations.

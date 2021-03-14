@@ -1,0 +1,1 @@
+C(X) denotes the space of continuous complex-valued functions on the compact Hausdorff space X. X has the CSWP if every subalgebra of C(X) which separates points and contains the constant functions is dense in C(X). W. Rudin showed that all scattered X have the CSWP. We describe a class of non-scattered X with the CSWP; by another result of Rudin, such X cannot be metrizable.

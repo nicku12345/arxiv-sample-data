@@ -1,0 +1,1 @@
+The main new notions are the notions of tangent-like spaces and local monoids. The main result is the pasage from a local monoid to its tangent-like space which is a local Leibniz algebra.

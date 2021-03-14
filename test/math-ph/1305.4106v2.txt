@@ -1,0 +1,1 @@
+We explicitly construct parametrices for magnetic Schr\"odinger operators on R^d and prove that they provide a complete small-t expansion for the corresponding heat kernel, both on and off the diagonal.

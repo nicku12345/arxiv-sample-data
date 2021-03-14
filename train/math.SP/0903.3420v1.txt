@@ -1,0 +1,1 @@
+This is a survey on eigenfunctions of the Laplacian on Riemannian manifolds (mainly compact and without boundary). We discuss both local results obtained by analyzing eigenfunctions on small balls, and global results obtained by wave equation methods. Among the main topics are nodal sets, quantum limits, and L^p norms of global eigenfunctions.

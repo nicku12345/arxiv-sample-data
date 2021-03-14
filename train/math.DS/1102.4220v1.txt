@@ -1,0 +1,1 @@
+Two polygons P,Q are code equivalent if there are billiard orbits u,v which hit the same sequence of sides and such that the projections of the orbits are dense in the boundaries \partial P, \partial Q. Our main results show when code equivalent polygons have the same angles, resp. are similar, resp. affinely similar.

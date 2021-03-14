@@ -1,0 +1,1 @@
+In this paper, we achieve the general solution and the generalized   Hyers-Ulam-Rassias stability of the following functional equation f(x+ky)+f(x-ky)=k^2f(x+y)+k^2f(x-y)+2(1-k^2)f(x)\eqno {2 cm}for fixed integers k with k\neq0,\pm1 in the quasi-Banach spaces.

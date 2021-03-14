@@ -1,0 +1,1 @@
+We provide a way to produce knots in S^3 from signed chord diagrams, and prove that every knot can be produced in this way. Using these diagrams, we generalize the fundamental theorem of finite type invariants. We also provide moves for the diagrams so that any two diagrams for the same knot are connected by a sequence of moves.

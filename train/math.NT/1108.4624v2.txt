@@ -1,0 +1,1 @@
+We consider a family of continued fraction expansions of any number in the unit closed interval [0,1] whose digits are differences of consecutive non-positive integer powers of an integer m \geq 2. For this expansion, we apply the method of Rockett and Sz\"usz from [6] and obtained the solution of its Gauss-Kuzmin type problem.

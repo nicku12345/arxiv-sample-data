@@ -1,0 +1,1 @@
+We give a closed formula for volumes of generic hyperbolic tetrahedra in terms of edge lengths. The cue of our formula is by the volume conjecture for the Turaev-Viro invariant of closed 3-manifolds, which is defined from the quantum 6j-symbols. This formula contains the dilogarithm functions, and we specify the adequate branch to get the actual value of the volumes.

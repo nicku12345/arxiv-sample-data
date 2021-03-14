@@ -1,0 +1,1 @@
+A GPU implementation of an algorithm to compute the Mertens function in O(x2/3+{\ko}) time is discussed. Results for x up to 10^{22}, and a new extreme value for M(x)/x^{1/2}, -0.585768 (M(x) \approx -1.996 \ast 10^9 at x \approx 1.161 \ast 10^{19}), are reported.An approximate algorithm is used to examine values of M(x) for x up to \exp{(10^{15})}.

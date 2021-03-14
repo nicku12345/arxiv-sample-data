@@ -1,0 +1,1 @@
+The goal of this article is to establish tauberian theorems for the k--summability processes defined by germs of analytic functions in several complex variables. The proofs are based on the tauberian theorems for k--summability in one variable and in monomials, and a method of monomialization of germs of analytic functions.

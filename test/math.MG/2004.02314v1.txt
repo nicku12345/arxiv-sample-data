@@ -1,0 +1,1 @@
+We prove the local minimality of halfspaces in Carnot groups for a class of nonlocal functionals usually addressed as nonlocal perimeters. Moreover, in a class of Carnot groups in which the De Giorgi's rectifiability Theorem holds, we provide a lower bound for the \Gamma-liminf of the rescaled energy in terms of the horizontal perimeter.

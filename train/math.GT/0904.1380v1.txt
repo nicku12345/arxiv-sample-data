@@ -1,0 +1,1 @@
+We study invertible generating pairs of fundamental groups of graph manifolds, that is, pairs of elements (g,h) for which the map g --> g^{-1}, h --> h^{-1} extends to an automorphism. We show in particular that a graph manifold is of Heegaard genus 2 if and only if its fundamental group has an invertible generating pair.

@@ -1,0 +1,1 @@
+It is proved that the average length of standard confidence intervals for parameters of gamma and normal distributions monotonically decrease with the sample size. The proofs are based on fine properties of the classical gamma function.

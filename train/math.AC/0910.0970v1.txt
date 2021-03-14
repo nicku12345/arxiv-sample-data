@@ -1,0 +1,1 @@
+The theory of standard bases in polynomial rings with coefficients in a ring R with respect to local orderings is developed. R is a commutative Noetherian ring with 1 and we assume that linear equations are solvable in R.

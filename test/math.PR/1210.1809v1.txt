@@ -1,0 +1,1 @@
+We obtain a formula for the density of the winding number of planar Brownian motion around the origin, and deduce from it asymptotic expansions in inverse powers of the logarithm of the squared time, explicit in the angular variable. In particular, we obtain the corrections of any order to the Spitzer's law, and also to a local limit theorem for the windings.

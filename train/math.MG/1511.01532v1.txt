@@ -1,0 +1,1 @@
+We consider notions of metrized categories, and then approximate categorical structures defined by a function of three variables generalizing the notion of 2-metric space. We prove an embedding theorem giving sufficient conditions for an approximate categorical structure to come from an inclusion into a metrized category.

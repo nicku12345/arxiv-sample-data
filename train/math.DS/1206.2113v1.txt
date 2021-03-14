@@ -1,0 +1,1 @@
+Using a sifting-shadowing combination, we prove in this paper that an arbitrary \mathrm{C}^1-class local diffeomorphism f of a closed manifold M^n is uniformly expanding on the closure \mathrm{Cl}_{M^n}(\mathrm{Per}(f)) of its periodic point set \mathrm{Per}(f), if it is nonuniformly expanding on \mathrm{Per}(f).

@@ -1,0 +1,1 @@
+We consider a tamely ramified abelian extension of local fields of degree n, without assuming the presence of the nth roots of unity in the base field. We give an explicit formula which computes the local reciprocity map in this situation.

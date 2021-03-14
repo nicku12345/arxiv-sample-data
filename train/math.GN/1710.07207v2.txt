@@ -1,0 +1,1 @@
+In this note we investigate to what extent the fundamental group of a metric space can be described as the inverse limit of its discrete fundamental groups. We show that some mild conditions suffice to imply the existence of an isomorphism and we provide a list of counterexamples to possible weakenings of these hypotheses.

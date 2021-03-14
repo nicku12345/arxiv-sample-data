@@ -1,0 +1,1 @@
+We prove a multivariate version of Hoeffding's inequality about the distribution of homogeneous polynomials of Rademacher functions. The proof is based on such an estimate about the moments of homogeneous polynomials of Rademacher functions which can be considered as an improvement of Borell's inequality in a most important special case.

@@ -1,0 +1,1 @@
+We present an elementary, L^2, proof of Fedi\u{\i}'s theorem on arbitrary (e.g., infinite order) degeneracy and extensions. In particular, the proof allows and shows C^\infty, Gevrey, and real analytic hypoellipticity, and allows the coefficents to depend on the remaining variable as well.

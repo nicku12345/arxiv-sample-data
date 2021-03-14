@@ -1,0 +1,1 @@
+For a domain D\subset {\Bbb{C}}^n we construct a continuous foliation of D into one real dimensional curves such that any function f\in {C^1(D)} which can be extended holomorphically into some neighborhood of each curve in the foliation will be holomorphic on D.

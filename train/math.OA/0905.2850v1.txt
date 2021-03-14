@@ -1,0 +1,1 @@
+In this article, we give a class of examples of compact quantum groups and unitary 2-cocycles on them, such that the twisted quantum groups are non-compact, but still locally compact quantum groups (in the sense of Kustermans and Vaes). This also provides examples of cocycle twists where the underlying C*-algebra of the quantum group changes.

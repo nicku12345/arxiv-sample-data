@@ -1,0 +1,1 @@
+We prove the existence of metrics maximizing the first eigenvalue normalized by area on closed, non-orientable surfaces assuming two spectral gap conditions. These spectral gap conditions are proved by the authors in \cite{MS3}.

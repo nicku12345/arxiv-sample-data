@@ -1,0 +1,1 @@
+We present a function that tests for primality, factorizes composites and builds a closed form expression of \pi(n^2) in terms of \sum_{3 \leq p \leq n} \frac{1}{p} and a weaker version of \omega(n).

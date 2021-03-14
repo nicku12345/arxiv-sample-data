@@ -1,0 +1,1 @@
+Let G be a cocompact lattice in a virtually connected Lie group or the fundamental group of a 3-manifold. We prove the K-theoretic Farrell-Jones Conjecture (up to dimension one) and the L-theoretic Farrell-Jones Conjecture for G, where we allow coefficients in additive G-categories with (involution).

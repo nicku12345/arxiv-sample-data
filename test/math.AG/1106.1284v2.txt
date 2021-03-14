@@ -1,0 +1,1 @@
+In earlier work, the authors described a relation between the Poincar\'e series and the classical monodromy zeta function corresponding to a quasihomogeneous polynomial. Here we formulate an equivariant version of this relation in terms of the Burnside rings of finite abelian groups and their analogues.

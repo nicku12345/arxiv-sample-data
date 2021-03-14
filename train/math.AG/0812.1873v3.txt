@@ -1,0 +1,1 @@
+In this article we study holomorphic integrals on tropical plane curves in view of ultradiscretization. We prove that the lattice integrals over tropical curves can be obtained as a certain limit of complex integrals over Riemannian surfaces.

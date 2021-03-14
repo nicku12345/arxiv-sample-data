@@ -1,0 +1,1 @@
+We prove that bold N, the standard model of arithmetic, has an uncountable elementary extension N such that there is no ultrafilter on the Boolean Algebra of subsets of bold N represented in N which is minimal (i.e. as in Rudin-Keisler order for partitions represented in N).

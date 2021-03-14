@@ -1,0 +1,1 @@
+In this paper we calculate the cardinality of the set S_n(T,tau) of all permutations in S_n that avoid one pattern from S_4 and a nonempty set of patterns from S_3.

@@ -1,0 +1,1 @@
+In this paper I introduce a criterion for the Riemann hypothesis, and then using that I prove \sum_{k=1}^\infty \mu(k)/k^s converges for \Re(s) > \frac{1}{2}. I use a step function \nu(x) = 2\{x/2\} - \{x\} for the Dirichlet eta function (\{x\} is the fractional part of x), which was at the core of my investigations, and hence derive the stated result subsequently.

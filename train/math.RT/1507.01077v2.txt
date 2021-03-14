@@ -1,0 +1,1 @@
+Let \bf{ G} be a tamely ramified connected reductive group defined over a non-archimedean local field k. We show that the Bernstein center of a tame supercuspidal block of \bf{ G}(k) is isomorphic to the Bernstein center of a depth zero supercuspidal block of \bf{ G}^{0}(k) for some twisted Levi subgroup of \bf{ G}^{0} of \bf{ G}.

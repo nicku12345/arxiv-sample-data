@@ -1,0 +1,1 @@
+We study Stanley decompositions and show that Stanley's conjecture on Stanley decompositions implies his conjecture on partitionable Cohen-Macaulay simplicial complexes. We also prove these conjectures for all Cohen-Macaulay monomial ideals of codimension 2 and all Gorenstein monomial ideals of codimension 3.

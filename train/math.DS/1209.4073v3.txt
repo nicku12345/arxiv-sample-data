@@ -1,0 +1,1 @@
+We consider infinite measure-preserving non-primitive self-similar tiling systems in Euclidean space \mathbb R^d. We establish the second-order ergodic theorem for such systems, with exponent equal to the Hausdorff dimension of a graph-directed self-similar set associated with the substitution rule.

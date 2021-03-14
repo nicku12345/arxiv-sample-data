@@ -1,0 +1,1 @@
+Let X be the graph in the plane of a pfaffian function f (in the sense of Khovanskii). Suppose X is not algebraic. This note gives an upper bound for the number of rational points on X of height up to X. The bound is uniform in the order and degre of f.

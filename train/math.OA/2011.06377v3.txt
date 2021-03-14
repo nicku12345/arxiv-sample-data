@@ -1,0 +1,1 @@
+We exhibit a unital simple mono-tracial AF algebra A with the property that for any compact set K of real numbers containing 0 there is a periodic flow on A such the set of possible inverse temperatures for that flow is K, and for each number in K the corresponding equilibrium state is unique.

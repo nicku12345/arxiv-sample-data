@@ -1,0 +1,1 @@
+We demonstrate that it is possible to compute wave function normalization constants for a class of Schr\"odinger type equations by an algorithm which scales linearly (in the number of eigenfunction evaluations) with the desired precision P in decimals.

@@ -1,0 +1,1 @@
+In this paper, we study the so-called diagram groups. Our main result is that diagram groups are free if and only if they do not contain any subgroup isomorphic to \mathbb{Z}^2. As an immediate corollary, we get that hyperbolic diagram groups are necessarily free, answering a question of Guba and Sapir.

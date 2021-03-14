@@ -1,0 +1,1 @@
+Understanding the complemented subspaces of L_p has been an interesting topic of research in Banach space theory since 1960. 1999, Alspach proposed a systematic approach to classifying the subspaces of L_p by introducing a norm given by partitions and weights. This paper shows that with Alspach Norm we are able to classify some complemented subspaces of L_p, 2<p<\infty.

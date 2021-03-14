@@ -1,0 +1,1 @@
+It is well known that for a non pseudocompact space X, the family (X) of all intermediate subrings of C(X) which contain bounded real valued continuous functions contains at least 2c many distinct rings. We show that if in addition X is first countable and real compact, then there are at least 2c many rings in (X), no two of which are pairwise isomorphic.

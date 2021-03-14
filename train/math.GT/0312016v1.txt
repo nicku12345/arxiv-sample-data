@@ -1,0 +1,1 @@
+With the help of a new program, we do computations concerning the Witten-Reshetikhin-Turaev representations of mapping class groups. In particular we distinguish some mutant fibered knots. The program can be downloaded from http://www.geometrie.ch/TQFT

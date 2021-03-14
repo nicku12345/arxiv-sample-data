@@ -1,0 +1,1 @@
+Coble defined in his 1929 treatise invariants for cubic surfaces and quartic curves. We reinterpret these in terms of the root systems of type E_6 and E_7 that are naturally associated to these varieties, thereby giving some of his results a more intrinsic treatment. Our discussion is uniform for all Del Pezzo surfaces of degree 2,3,4 and 5.

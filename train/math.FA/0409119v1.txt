@@ -1,0 +1,1 @@
+In this note we extend D. Singh and A. A. W. Mehanna's invariant subspace theorem for RH^1 (the real Banach space of analytic functions in H^1 with real Taylor coefficients) to the simply invariant subspaces of RL^1 (the real Banach space of functions in L^1 with real Fourier coefficients).

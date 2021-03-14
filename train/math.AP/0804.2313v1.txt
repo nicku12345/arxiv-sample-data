@@ -1,0 +1,1 @@
+We prove weighted estimates on the linear KdV group, which are scaling sharp. This kind of estimates are in the spirit of that used to prove small data scattering for the generalized KdV equations.

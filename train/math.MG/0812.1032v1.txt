@@ -1,0 +1,1 @@
+We prove that the Hilbert Geometry of a convex set is bi-lipschitz equivalent to a normed vector space if and only if the convex is a polytope.

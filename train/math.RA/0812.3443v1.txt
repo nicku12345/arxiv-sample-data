@@ -1,0 +1,1 @@
+Let A be an Azumaya algebra of constant rank n^2 over a Hensel pair (R,I) where R is a semilocal ring with n invertible in R. Then the reduced Whitehead group SK(A) coincides with its reduction SK(A/IA).

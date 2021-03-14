@@ -1,0 +1,1 @@
+We study a new proof principle in the context of constructive Zermelo-Fraenkel set theory based on what we will call "non-deterministic inductive definitions". We give applications to formal topology as well as a predicative justification of this principle.

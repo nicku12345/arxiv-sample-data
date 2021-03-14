@@ -1,0 +1,1 @@
+This article proves that if M is a smooth manifold of dimension at least four, then for generic choice of metric on M, all prime parametrized minimal surfaces in M are free of branch points and lie on nondegenerate critical submanifolds for the two-variable energy function which have the same dimension as the group of complex automorphisms of the domain Riemann surface.

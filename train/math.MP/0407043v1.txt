@@ -1,0 +1,1 @@
+We reveal a relationship between the colored Jones polynomial and the A-polynomial for twist knots. We demonstrate that an asymptotics of the N-colored Jones polynomial in large N gives the potential function, and that the A-polynomial can be computed. Also discussed is a case of torus knots.

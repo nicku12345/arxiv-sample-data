@@ -1,0 +1,1 @@
+The spectrum of a periodic group G is the set \omega(G) of its element orders. Consider a group G such that \omega(G)=\omega(A_7). Assume that G has a subgroup H isomorphic to A_4, whose involutions are squares of elements of order 4. We prove that either O_2(H) \subseteq O_2(G) or G has a finite nonabelian simple subgroup.

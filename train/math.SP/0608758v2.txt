@@ -1,0 +1,1 @@
+On any compact manifold of dimension greater than 3, we exhibit a metric whose first positive eigenvalue for the Laplacian acting on p-form is of multiplicity 2. As a corollary, we prescribe the volume and any finite part of the spectrum of the Hodge Laplacian with multiplicity 1 or 2.

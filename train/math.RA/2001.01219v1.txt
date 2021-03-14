@@ -1,0 +1,1 @@
+The Zero divisor Graph of a commutative ring R, denoted by \Gamma[R], is a graph whose vertices are non-zero zero divisors of R and two vertices are adjacent if their product is zero. We consider the zero divisor graph \Gamma[\mathbb{Z}_n], for any natural number n and find out which graphs are Eulerian graphs.

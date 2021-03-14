@@ -1,0 +1,1 @@
+For an odd quadratic space V of Witt index \geq 3 over a commutative ring with pseudoinvolution, we classify the subgroups of the odd unitary group U(V) that are normalized by the elementary subgroup EU_{(e_1,e_{-1})}(V) defined by a hyperbolic pair (e_1,e_{-1}) in V. Further we correct some minor mistakes that exist in the literature on odd unitary groups.

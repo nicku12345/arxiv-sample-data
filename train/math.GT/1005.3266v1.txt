@@ -1,0 +1,1 @@
+A sequence of Temperley-Lieb algebra elements corresponding to torus braids with growing twisting numbers converges to the Jones-Wenzl projector. We show that a sequence of categorification complexes of these braids also has a limit which may serve as a categorification of the Jones-Wenzl projector.

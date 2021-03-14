@@ -1,0 +1,1 @@
+We show that fractal (or "Mandelbrot") percolation in two dimensions produces a set containing no directed paths, when the set produced has zero area. This improves a similar result by the first author in the case of constant retention probabilities to the case of retention probabilities approaching 1.

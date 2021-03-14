@@ -1,0 +1,1 @@
+We obtained the C^\alpha continuity for weak solutions of a class of ultraparabolic equations with measurable coefficients of the form {\partial_t u} = \partial_x(a(x,y,t)\partial_x u) +b_0(x,y,t)\partial_x u+b(x,y,t)\partial_y u, which generalized our recent results on KFP equations.

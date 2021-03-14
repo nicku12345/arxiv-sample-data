@@ -1,0 +1,1 @@
+We study dispersion for the defocusing gKdV equation. It is expected that it is not possible for the bulk of the L^2-mass to concentrate in a small interval for a long time. We study a variance-type functional exploiting Tao's monotonicity formula in the spirit of earlier work by Tao as well as Kwon & Shao and quantify its growth in terms of sublevel estimates.

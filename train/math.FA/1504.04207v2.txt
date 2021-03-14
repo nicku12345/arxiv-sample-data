@@ -1,0 +1,1 @@
+This note has a twofold purpose. To improve the best known lower estimates of the Hardy-Littlewood inequality for m-linear forms in \ell_{p} spaces and to provide a closed formula encompassing the cases p>2m and % p=2m. Our approach is quite simpler than the previous and uses the best known constants of the Clarkson's inequalities.

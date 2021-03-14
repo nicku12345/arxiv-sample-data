@@ -1,0 +1,1 @@
+In earlier work of the authors, the Khovanov complex of a knot or link appeared as the first page in a spectral sequence abutting to the instanton homology. The quantum and (co)homological gradings on Khovanov homology do not survive as gradings, but we show that they survive as filtrations.

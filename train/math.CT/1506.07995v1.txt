@@ -1,0 +1,1 @@
+The locale corresponding to the real interval [-1,1] is an interval object, in the sense of Escard\'o and Simpson, in the category of locales. The map c from 2^\omega to [-1,1], mapping a stream s of signs +1 or -1 to \Sum_{i=1}^\infty s_i 2^{-i}, is a proper localic surjection; it is also expressed as a coequalizer.

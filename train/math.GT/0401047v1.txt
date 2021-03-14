@@ -1,0 +1,1 @@
+We construct for an equivariant cohomology theory for proper equivariant CW-complexes an equivariant Chern character, provided that certain conditions about the coefficients are satisfied. These conditions are fulfilled if the coefficients of the equivariant cohomology theory possess a Mackey structure. Such a structure is present in many interesting examples.

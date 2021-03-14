@@ -1,0 +1,1 @@
+Let RG be the group ring of a finite group G over a commutative ring R with 1. An element x in RG is said to be skew-symmetric with respect to an involution \sigma of RG if \sigma(x)=-x. A structure theorem for the skew-symmetric elements of FG is given where F is an algebraic extension of \mathbb{Q} which generalizes some previously known results in this direction.

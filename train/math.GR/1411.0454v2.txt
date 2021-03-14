@@ -1,0 +1,1 @@
+Every finite group whose order is divisible by a prime p has at least 2 \sqrt{p-1} conjugacy classes.

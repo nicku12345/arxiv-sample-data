@@ -1,0 +1,1 @@
+We prove that commutative algebras in braided tensor categories do not admit faithful Hopf algebra actions unless they come from group actions. We also show that a group action allows us to see the algebra as the regular algebra in the representation category of the acting group.

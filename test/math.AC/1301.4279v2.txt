@@ -1,0 +1,1 @@
+We present an elementary proof that the Schur polynomial corresponding to an increasing sequence of exponents (c_0,..., c_{n-1}) with c_0 = 0 is irreducible over every field of characteristic p whenever the numbers d_i = c_{i+1} - c_i are all greater than 1, not divisible by p, and satisfy gcd(d_i, d_{i+1}) = 1 for every i.

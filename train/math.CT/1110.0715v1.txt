@@ -1,0 +1,1 @@
+The theme of the paper is the use of commutative Frobenius algebras in braided strict monoidal categories in the study of varieties of circuits and communicating systems which occur in Computer Science, including circuits in which the wires are tangled. We indicate also some possible novel geometric interest in such algebras.

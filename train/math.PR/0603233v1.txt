@@ -1,0 +1,1 @@
+In this article, we derive strong localization results for directed polymers in random environment. We show that at "low temperature" the polymer measure is asymptotically concentrated at a few points of macroscopic mass (we call these points epsilon-atoms). These results are derived assuming weak conditions on the tail decay of the random environment.

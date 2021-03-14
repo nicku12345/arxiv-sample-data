@@ -1,0 +1,1 @@
+We consider a linear hybrid system composed by two rods of equal length connected by a point mass. We show that the system is null controllable with Dirichlet and Neumann controls. The results are based on a careful spectral spectral analysis together with the moment method.

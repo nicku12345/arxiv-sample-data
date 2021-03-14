@@ -1,0 +1,1 @@
+In this note, we verify that the complex Kodaira dimension \kappa^h equals the symplectic Kodaira dimension \kappa^s for smooth 4-manifolds with complex and symplectic structures. We also calculate the Kodaira dimension for many Lefschetz fibrations.

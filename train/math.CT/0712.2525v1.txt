@@ -1,0 +1,1 @@
+We show how finite limits and colimits can be calculated compositionally using the algebras of spans and cospans, and give as an application a proof of the Kleene Theorem on regular languages.

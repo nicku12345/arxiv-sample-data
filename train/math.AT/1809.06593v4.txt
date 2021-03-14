@@ -1,0 +1,1 @@
+We introduce an intrinsic filtration to the magnitude chain complex of a metric space, and study basic properties of the associated spectral sequence of the magnitude homology. As an application, the third magnitude homology of the circle is computed.

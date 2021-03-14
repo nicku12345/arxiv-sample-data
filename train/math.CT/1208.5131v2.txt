@@ -1,0 +1,1 @@
+We give a new way to derive branching rules for the conformal embedding (\asl_n)_m\oplus(\asl_m)_n\subset(\asl_{nm})_1. In addition, we show that the category \Cc(\asl_n)_m^0 of degree zero integrable highest weight (\asl_n)_m-representations is braided equivalent to \Cc(\asl_m)_n^0 with the reversed braiding.

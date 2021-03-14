@@ -1,0 +1,1 @@
+We estimate the speed of decay of correlations for general nonuniformly expanding dynamical systems, using estimates on the time the system takes to become really expanding. Our method can deal with fast decays, such as exponential or stretched exponential. We prove in particular that the correlations of the Alves-Viana map decay in O(e^{-c \sqrt{n}}).

@@ -1,0 +1,1 @@
+We examine some numerical iterative methods for computing the eigenvalues and eigenvectors of real matrices. The five methods examined here range from the simple power iteration method to the more complicated QR iteration method. The derivations, procedure, and advantages of each method are briefly discussed.

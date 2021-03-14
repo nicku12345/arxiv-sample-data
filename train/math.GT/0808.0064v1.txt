@@ -1,0 +1,1 @@
+A virtual string can be defined as a closed curve on a surface modulo certain equivalence relations. Turaev defined several invariants of virtual strings which we use to produce a table of virtual strings up to 4 crossings. We discuss progress in extending the tabulation to 5 crossings. We also provide a counter-example to a statement of Kadokami.

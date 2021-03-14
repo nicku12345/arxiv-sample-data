@@ -1,0 +1,1 @@
+We prove that the diagonal of the transition probabilities for the d-dimensional Bessel processes on (0, 1], reflected at 1, which we denote by p_R^N(t, r,r), is an increasing function of r for d>2 and that this is false for d=2.

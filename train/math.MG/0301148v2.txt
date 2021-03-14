@@ -1,0 +1,1 @@
+We introduce a canonical structure of a commutative associative filtered algebra with the unit on polynomial smooth valuations, and study its properties. The induced structure on the subalgebra of translation invariant smooth valuations has especially nice properties (it is the structure of the Frobenius algebra). We also present some applications.

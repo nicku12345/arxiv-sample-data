@@ -1,0 +1,1 @@
+Linear algebra is usually defined over a field such as the reals or complex numbers. It is possible to extend this to skew fields such as the quaternions. However, to the authors' knowledge there is no commonly accepted notation of linear algebra over skew fields. To this end, we discuss ways of notation that account for the non-commutativity of the quaternion multiplication.

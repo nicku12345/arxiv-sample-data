@@ -1,0 +1,1 @@
+We show that it is consistent with ZFC that all filters which have the Baire property are Lebesgue measurable. We also show that the existence of a Sierpinski set implies that there exists a nonmeasurable filter which has the Baire property.

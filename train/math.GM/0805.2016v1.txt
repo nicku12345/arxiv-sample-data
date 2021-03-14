@@ -1,0 +1,1 @@
+The aim of this note is to give a surprising symmetry property of some harmonic algebraic curves: when all the roots z_i of a complex polynomial P lie on the unit circle \U, the points of \U different from the z_i, and such that \Arg(P(z))=\theta, form a regular n-gon, where n is the degree of P.

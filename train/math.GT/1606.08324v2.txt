@@ -1,0 +1,1 @@
+We prove a conjecture of Przytycki which asserts that the n-quandle of a link L in the 3-sphere is finite if and only if the fundamental group of the n-fold cyclic branched cover of the 3-sphere, branched over L, is finite.

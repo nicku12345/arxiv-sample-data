@@ -1,0 +1,1 @@
+Let FH be a Frobenius group with kernel F and complement H, acting coprimely on the finite solvable group G by automorphisms. We prove that if C_{G}(H) is of Fitting length n then the index of the n-th Fitting subgroup F_{n}(G) in G is bounded in terms of |C_{G}(F)| and |F|. This generalizes a result of Khukhro and Makarenko \cite{k-m} which handles the case n=1.

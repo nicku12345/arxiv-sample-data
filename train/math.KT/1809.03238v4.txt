@@ -1,0 +1,1 @@
+We extend the results of G.~Garkusha and I.~Panin on framed motives of algebraic varieties [4] to the case of a finite base field, and extend the computation of the zeroth cohomology group H^0(\mathbb ZF(\Delta^\bullet_k,\mathbf G^{\wedge n}_m))=K^{MW}_n by A.~Neshitov [8] to perfect fields k of positive characteristic different from 2.

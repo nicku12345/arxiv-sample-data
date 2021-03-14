@@ -1,0 +1,1 @@
+A Banach space E is c_0-saturated if every closed infinite dimensional subspace of E contains an isomorph of c_0. A c_0-saturated Banach space with an unconditional basis which has a quotient space isomorphic to l^2 is constructed.

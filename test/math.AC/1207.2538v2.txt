@@ -1,0 +1,1 @@
+It will be shown that the toric ring of the chain polytope of a finite partially ordered set is an algebra with straightening laws on a finite distributive lattice. Thus in particular every chain polytope possesses a regular unimodular triangulation arising from a flag complex.

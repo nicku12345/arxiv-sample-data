@@ -1,0 +1,1 @@
+In this study, we define new paranormed sequence spaces by the sequences of Fibonacci numbers. Furthermore, we compute the \alpha-,\beta- and \gamma- duals and obtain bases for these sequence spaces. Besides this, we characterize the matrix transformations from the new paranormed sequence spaces to the Maddox's spaces c_{0}(q),c(q),\ell(q) and \ell_{\infty}(q).

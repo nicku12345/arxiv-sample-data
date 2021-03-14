@@ -1,0 +1,1 @@
+The orbit graph of a k-orbit polytope is a graph on k nodes that shows how the flag orbits are related by flag adjacency. Using orbit graphs, we classify k-orbit polytopes and determine when a k-orbit polytope is i-transitive. We then provide an explicit classification of three-orbit polytopes, and we describe a generating set for their automorphism groups.

@@ -1,0 +1,1 @@
+We prove a necessary condition that has every extremal sequence for the Bellman function of the dyadic maximal operator.This implies the weak-Lp uniqueness for such a sequence.

@@ -1,0 +1,1 @@
+We present a class of permutations for which the number of distinctly ordered subsequences of each permutation approaches an almost optimal value as the length of the permutation grows to infinity.

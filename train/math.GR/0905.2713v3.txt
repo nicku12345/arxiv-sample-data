@@ -1,0 +1,1 @@
+Given a group with at least two more generators than relations, we give an effective estimate on the minimal index of a subgroup with a nonabelian free quotient. We show that the index is bounded by a polynomial in the length of the relator word. We also provide a lower bound on the index.

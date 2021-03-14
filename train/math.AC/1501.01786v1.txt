@@ -1,0 +1,1 @@
+In this note we review the Singular library Inverse-syst.lib that implements Macaulay's correspondence and other related constructions for local rings.

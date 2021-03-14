@@ -1,0 +1,1 @@
+We study the class of groups having the property that every non-nilpotent subgroup is equal to its normalizer. These groups are either soluble or perfect. We completely describe the structure of soluble groups and finite perfect groups with the above property. Furthermore, we give some structural information in the infinite perfect case.

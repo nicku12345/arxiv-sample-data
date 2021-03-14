@@ -1,0 +1,1 @@
+We develop a Hermite interpolation scheme and prove error bounds for C^1 bivariate piecewise polynomial spaces of Argyris type vanishing on the boundary of curved domains enclosed by piecewise conics.

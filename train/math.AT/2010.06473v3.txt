@@ -1,0 +1,1 @@
+In this expository note we explain why the functor that sends a stratified topological space S to the \infty-category of constructible hypersheaves of spaces on S is homotopy-invariant.

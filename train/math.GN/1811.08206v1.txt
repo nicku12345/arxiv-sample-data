@@ -1,0 +1,1 @@
+Let \mathcal{I}\subseteq\mathcal{P}(\omega) be a meager ideal. Then there are no continuous projections from \ell_\infty onto the set of bounded sequences which are \mathcal{I}-convergent to 0. In particular, it follows that the set of bounded sequences statistically convergent to 0 is not isomorphic to \ell_\infty.

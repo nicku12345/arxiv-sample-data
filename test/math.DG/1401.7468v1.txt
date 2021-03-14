@@ -1,0 +1,1 @@
+In this paper, we introduce the notion of modular class of a Lie algebroid A equipped with a Nambu structure satisfying some suitable hypothesis. We also introduce cohomology and homology theories for such Lie algebroids and prove that these theories are connected by a duality isomorphism when the modular class is null.

@@ -1,0 +1,1 @@
+In the spirit of Sullivan's paper "Cycles for the Dynamical Study of Foliated Manifolds and Complex Manifolds", existence of a contact structure on a closed manifold M is shown to be equivalent to existence of an ample S^1-invariant cone structure with no nontrivial exact structure cycles on the manifold S^1 \times M.

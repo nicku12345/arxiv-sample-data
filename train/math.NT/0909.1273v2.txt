@@ -1,0 +1,1 @@
+R.F.Tichy and J.Uitz introduced a one parameter family g_{\lambda}, \lambda \in (0,1), of singular functions. When \lambda=1/2 the function g_{\lambda} coincides with the famous Minkowski question mark function. In this paper we describe the arithmetical nature of the function g_{\lambda} when \lambda = \frac{3-\sqrt{5}}{2}.

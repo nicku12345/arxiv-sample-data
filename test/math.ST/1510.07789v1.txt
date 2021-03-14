@@ -1,0 +1,1 @@
+We consider the problem of estimating the s-th derivative of a density function f by the tilted Kernel estimator introduced in Hall and Doosti (2012). Then we further show this estimator achieves the same convergence rate, in probability, the wavelet estimators achieved as shown in Hall and Patil (1995).

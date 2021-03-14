@@ -1,0 +1,1 @@
+The aim of this note is to prove that any compact metric space can be made connected at a minimal cost, where the cost is taken to be the one-dimensional Hausdorff measure.

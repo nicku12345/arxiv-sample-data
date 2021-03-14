@@ -1,0 +1,1 @@
+For a semidualizing module C over a ring R, we study the following classes modulo exact zero divisors: \g_C--projectives, \mathcal G_C; the Auslander class \mathcal A_C; the Bass class \mathcal B_C; \mathcal{P}_C--projective;  {\mathcal F}_C--projective; and {\mathcal I}_C--injective dimensions.

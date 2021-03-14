@@ -1,0 +1,1 @@
+For any two continuous maps f,g between two solvmanifolds of same dimension satisfying the Mostow condition, we give a technique of computation of the Lefschetz coincidence number of f,g. This result is an extension of the result of Ha, Lee and Penninckx for completely solvable case.

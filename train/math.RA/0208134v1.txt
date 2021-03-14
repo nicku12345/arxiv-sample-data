@@ -1,0 +1,1 @@
+A semiring can be ``completed'' (i.e., embedded into a semiring in which all infinite sums are defined and satisfy some reasonable properties) iff this semiring can be naturally partially ordered. This construction is ``natural'' (a left adjoint to the forgetful functor), and quite straightforward.

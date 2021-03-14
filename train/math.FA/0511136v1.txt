@@ -1,0 +1,1 @@
+We give a complete description of spectrum of the wavelet Galerkin operator R_{m_0,m_0}f(z)=\frac{1}{N}\sum_{w^N=z}|m_0|^2(w)f(w),\quad(z\in\m athbb{T}) associated to a a low-pass filter m_0 and a scale N, in the Banach spaces C(\mathbb{T}) and L^{p}(\mathbb{T}), 1\leq p\leq\infty.

@@ -1,0 +1,1 @@
+The splitting of the Frobenius direct image of line bundles on toric varieties is used to explicitly construct an orthogonal basis of line bundles in the derived category D^b(X) where X is a Fano toric variety with (almost) maximal Picard number.

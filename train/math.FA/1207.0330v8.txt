@@ -1,0 +1,1 @@
+In this work we construct compact totally ordered spaces K. In a particular case we show that there are tow sub- C* algebras Y1; Y2 and a topology T which is weaker than the Tp topology such that (Yj,Tp) = (Yj,T); j = 1; 2; (C(K),Tp) =(Y1,Tp)\oplus(Y2,Tp) and (C(K),T) is not universally measurable.

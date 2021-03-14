@@ -1,0 +1,1 @@
+The purpose of this paper is to study the convergence in distribution of two subsequences of the signed cubic variation of the fractional Brownian motion with Hurst parameter H=1/6. We prove that, under some conditions on both subsequences, the limit is a two-dimensional Brownian motion whose components may be correlated and we find explicit formulae for its covariance function.

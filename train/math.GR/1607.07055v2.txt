@@ -1,0 +1,1 @@
+Using Cayley transform, we show how to construct rotation matrices \emph{infinitely near} the identity matrix over a non-archimedean pythagorean field. As an application, an alternative way to construct non-central proper normal subgroups of the rotation group over such fields is provided.

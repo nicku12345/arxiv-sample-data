@@ -1,0 +1,1 @@
+This article presents a short and concise description of stochastic approximation algorithms in reinforcement learning of Markov decision processes. The algorithms can also be used as a suboptimal method for partially observed Markov decision processes.

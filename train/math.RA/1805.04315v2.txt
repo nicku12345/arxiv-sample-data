@@ -1,0 +1,1 @@
+This is a contribution to the theory of atoms in abelian categories recently developed in a series of papers by Kanda. We present a method that enables one to explicitly compute the atom spectrum of the module category over a wide range of non-commutative rings. We illustrate our method and results by several examples.

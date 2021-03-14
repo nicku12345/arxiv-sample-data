@@ -1,0 +1,1 @@
+We study the asymptotic behavior of a Markov chain on \mathbb{Z}^2 that corresponds to the two-dimensional marginals of a reinforcement process on \mathbb{Z}^{\mathbb{N}}. Three distinct asymptotic regimes are identified, depending on the scaling of the reinforcement parameter \Delta with respect to the number of steps performed by the chain.

@@ -1,0 +1,1 @@
+We fix any pair (\mathbf{\mathscr{C}},\mathbf{W}) consisting of a bicategory and a class of morphisms in it, admitting a bicalculus of fractions, i.e. a "localization" of \mathbf{\mathscr{C}} with respect to the class \mathbf{W}. In the resulting bicategory of fractions, we identify necessary and sufficient conditions for the existence of weak fiber products.

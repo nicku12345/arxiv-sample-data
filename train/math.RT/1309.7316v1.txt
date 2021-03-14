@@ -1,0 +1,1 @@
+We use the description of the universal central extension of the DJKM algebra \mathfrak{sl}(2, R) where  R=\mathbb C[t,t^{-1},u\,|\,u^2=t^4-2ct^2+1 ] given in earlier work to construct realizations of the DJKM algebra in terms of sums of partial differential operators.

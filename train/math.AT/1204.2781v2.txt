@@ -1,0 +1,1 @@
+We define a space of relative embedded thickenings of a given map from a finite complex to a Poincare Duality space, and show that there is a highly connected stabilization map between such spaces induced by fiberwise suspension. As a result, we obtain a generalization to the Poincare Duality category of a smooth stabilization theorem of Connolly and Williams.

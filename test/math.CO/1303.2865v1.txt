@@ -1,0 +1,1 @@
+The goal of this paper is to unify two lines in a particular area of graph limits. First, we generalize and provide unified treatment of various graph limit concepts by means of a combination of model theory and analysis. Then, as an example, we generalize limits of bounded degree graphs from subgraph testing to finite model testing.

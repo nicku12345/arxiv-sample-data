@@ -1,0 +1,1 @@
+We study some discrete and continuous variants of the following problem of Erdos: given a finite subset P of R^2 or R^3, what is the maximum number of pairs (p_1,p_2) with p_1,p_2 in P and |p_1 -p_2 |=1?

@@ -1,0 +1,1 @@
+Two simple observations are made: (1) If the normal function associated to a Hodge class has a zero locus of positive dimension, then it has a singularity. (2) The intersection cohomology of the dual variety contains the cohomology of the original variety, if the degree of the embedding is large.

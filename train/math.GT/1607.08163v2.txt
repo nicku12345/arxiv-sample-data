@@ -1,0 +1,1 @@
+We outline the proof that non-triangulable manifolds exist in any dimension greater than four. The arguments involve homology cobordism invariants coming from the Pin(2) symmetry of the Seiberg-Witten equations. We also explore a related construction, of an involutive version of Heegaard Floer homology.

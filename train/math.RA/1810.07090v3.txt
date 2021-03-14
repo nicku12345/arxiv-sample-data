@@ -1,0 +1,1 @@
+Let D be a division ring with center F, and G a subnormal subgroup of D^*. We show that if G is a locally solvable group such that G^{(i)} is algebraic over F, then G must be central. Also, if M is non-abelian locally solvable maximal subgroup of G with M^{(i)} algebraic over F, then D is a cyclic algebra of prime degree over F.

@@ -1,0 +1,1 @@
+This paper is focused on the generalized Forchheimer flows for slightly compressible fluids. We prove the existence and uniqueness of the differential system for stationary problem. The technique of semi-discretization in time is used to prove the existence of solution for the transient problem.

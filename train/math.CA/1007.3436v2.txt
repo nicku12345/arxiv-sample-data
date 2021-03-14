@@ -1,0 +1,1 @@
+We present here an approach to a computation of \zeta(2) by changing variables in the double integral using hyperbolic trig functions. We also apply this approach to present \zeta(n), when n>2, as a definite improper integral of single variable.

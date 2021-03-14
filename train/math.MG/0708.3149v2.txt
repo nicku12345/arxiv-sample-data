@@ -1,0 +1,1 @@
+A spherical set is called convex if for every pair of its points there is at least one minimal geodesic segment that joins these points and lies in the set. We prove that for n >= 3 a complete locally-convex (topological) immersion of a connected (n-1)-manifold into the n-sphere is a surjection onto the boundary of a convex set.

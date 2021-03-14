@@ -1,0 +1,1 @@
+We give a short and simple proof of a recent result of Dobbins that any point in an nd-polytope is the barycenter of n points in the d-skeleton. This new proof builds on the constraint method that we recently introduced to prove Tverberg-type results.

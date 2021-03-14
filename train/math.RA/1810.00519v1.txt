@@ -1,0 +1,1 @@
+Over a field of characteristic zero, we prove that the Freiheitssatz holds for brace algebras, the word problem for the brace algebras with a single defining relation is decidable, two generated subalgebras of free brace algebras are free, and that automorphisms of two generated free brace algebras are tame.

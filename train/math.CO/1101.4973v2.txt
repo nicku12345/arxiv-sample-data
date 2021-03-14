@@ -1,0 +1,1 @@
+We prove a sharp Ore-type criterion for hamiltonicity of balanced bipartite digraphs: A bipartite digraph D, with colour classes of cardinality N, is hamiltonian if, for every pair of vertices u and v from opposite colour classes of D such that the arc uv is not in D, the sum of the outdegree of u and the indegree of v is greater than or equal to N+2.

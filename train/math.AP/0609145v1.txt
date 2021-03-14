@@ -1,0 +1,1 @@
+We derive damping estimates and asymptotics of L^p operator norms for oscillatory integral operators with finite type singularities. The methods are based on incorporating finite type conditions into L^2 almost orthogonality technique of Cotlar-Stein.

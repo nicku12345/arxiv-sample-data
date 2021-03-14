@@ -1,0 +1,1 @@
+We put a Quillen model structure on the category of small categories enriched in simplicial k-modules and non-negatively graded chain complexes of k-modules, where k is a commutative ring. The model structure is obtained by transfer from the model structure on simplicial categories due to J. Bergner.

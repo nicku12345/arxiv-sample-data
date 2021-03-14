@@ -1,0 +1,1 @@
+We give a purely category-theoretic proof of the result of Makkai and Par\'e saying that the category \bf Lin of linearly ordered sets and order preserving injective mappings is a minimal finitely accessible category. We also discuss the existence of a minimal \aleph_1-accessible category.

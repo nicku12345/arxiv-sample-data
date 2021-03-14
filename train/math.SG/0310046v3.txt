@@ -1,0 +1,1 @@
+In this note we prove a simple relation between the mean curvature form, symplectic area, and the Maslov class of a Lagrangian immersion in a K\"ahler-Einstein manifold. An immediate consequence is that in K\"ahler-Einstein manifolds with positive scalar curvature, minimal Lagrangian immersions are monotone.

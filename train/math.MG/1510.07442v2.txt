@@ -1,0 +1,1 @@
+Let S denote the unit sphere of a real normed space. We show that the intrinsic metric on S is strongly equivalent to the induced metric on S. Specifically, for all x,y\in S, \[ \|x-y\|\leq d(x,y)\leq\sqrt{2}\pi\|x-y\|, \] where d denotes the intrinsic metric on S.

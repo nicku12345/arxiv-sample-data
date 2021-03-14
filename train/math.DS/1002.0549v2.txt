@@ -1,0 +1,1 @@
+We study the exponential rate of decay of Lebesgue numbers of open covers in topological dynamical systems. We show that topological entropy is bounded by this rate multiplied by dimension. Some corollaries and examples are discussed.

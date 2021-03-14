@@ -1,0 +1,1 @@
+We compute the Grothendieck group of certain 2-Calabi--Yau triangulated categories appearing naturally in the study of the link between quiver representations and Fomin--Zelevinsky's cluster algebras. In this setup, we also prove a generalization of Fomin--Zelevinsky's mutation rule.

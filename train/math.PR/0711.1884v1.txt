@@ -1,0 +1,1 @@
+In this note, we prove a version of the conjectured duality of Schramm-Loewner Evolutions, by establishing exact identities in distribution between some boundary arcs of chordal \SLE_\kappa, \kappa>4, and appropriate versions of \SLE_{\hat\kappa}, \hat\kappa=16/\kappa.

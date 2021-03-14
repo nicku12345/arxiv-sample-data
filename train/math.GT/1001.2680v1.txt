@@ -1,0 +1,1 @@
+We show that for a torus knot the SL(2;C) Chern-Simons invariants and the SL(2;C) twisted Reidemeister torsions appear in an asymptotic expansion of the colored Jones polynomial. This suggests a generalization of the volume conjecture that relates the asymptotic behavior of the colored Jones polynomial of a knot to the volume of the knot complement.

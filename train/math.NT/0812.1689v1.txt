@@ -1,0 +1,1 @@
+Baez-Duarte reformulated the Riemann hypothesis as a statement about a Hilbert space distance, involving the integer dilations of the "fractional part" function. Under the assumption of the Riemann hypothesis, we improve on the currently known estimate for this distance.

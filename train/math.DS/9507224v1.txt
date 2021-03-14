@@ -1,0 +1,1 @@
+Let f be a polynomial map of the Riemann sphere of degree at least two. We prove that if f has a Siegel disk G on which the rotation number satisfies a diophantine condition, then the boundary of G contains a critical point.

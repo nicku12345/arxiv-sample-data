@@ -1,0 +1,1 @@
+We show that the sum of ranks of two matrix polynomials is the same as the sum of the rank of the matrix obtained by applying the greatest common divisor of the polynomials, with the rank of the matrix obtained by applying the lowest common multiple of the polynomials. Many applications, for older or more recent problems, of this result are obtained.

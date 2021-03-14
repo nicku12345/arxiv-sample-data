@@ -1,0 +1,1 @@
+For a commutative ring R with many units, we describe the kernel of H_3(inc): H_3(GL_2(R), Z) --> H_3(GL_3(R), Z). Moreover we show that the elements of this kernel are of order at most two. As an application we study the indecomposable part of K_3(R).

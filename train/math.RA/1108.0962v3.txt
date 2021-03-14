@@ -1,0 +1,1 @@
+Generalizing John Conway's construction of the Field On_2, we give the "minimal" definitions of addition and multiplication that turn the ordinals into a Field of characteristic p, for any prime p. We then analyze the structure of the resulting Field, which we will call On_p.

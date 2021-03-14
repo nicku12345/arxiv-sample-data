@@ -1,0 +1,1 @@
+This paper considers explicit constructions of Auerbach bases in separable Banach spaces. Answering the question of A. Pe{\l}czy{\'n}ski, we prove by construction the existence of Auerbach basis in arbitrary subspace of c_0 of finite codimension and in the space C(K) for K compact countable metric space.

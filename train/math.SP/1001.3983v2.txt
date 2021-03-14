@@ -1,0 +1,1 @@
+We consider a quasinilpotent operator whose resolvent is entire operator function of exponential type. Let A be its one-dimensional perturbation. We establish necessity of Muckenhoupt condition (A2) for two weights related to operator A for unconditional basisness of its eigenfunctions. Note that no apriori restrictions are imposed on the spectrum of A.

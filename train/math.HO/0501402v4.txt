@@ -1,0 +1,1 @@
+In this paper we provide a straightforward proof that if a pair of amicable numbers with different parity exists (one number odd and the other one even), then the odd amicable number must be a perfect square, while the even amicable number has to be equal to the product of a power of 2 and an odd perfect square.

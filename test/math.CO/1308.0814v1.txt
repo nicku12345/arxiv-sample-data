@@ -1,0 +1,1 @@
+Let p_1,p_2,p_3 be three non-collinear points in the plane, and let P be a set of n other points in the plane. We show that the number of distinct distances between p_1,p_2,p_3 and the points of P is \Omega(n^{6/11}), improving the lower bound \Omega(n^{0.502}) of Elekes and Szab\'o \cite{ESz} (and considerably simplifying the analysis).

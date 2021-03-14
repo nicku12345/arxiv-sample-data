@@ -1,0 +1,1 @@
+We prove that the initial value problem (IVP) for the critical generalized KdV equation u_{t}+u_{xxx}+(u^5)_{x}=0 on the real line is globally well-posed in H^{s}(\R) provided s>3/5.

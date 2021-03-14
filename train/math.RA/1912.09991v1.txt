@@ -1,0 +1,1 @@
+By modifying the proof of a paper by O. Bournez and M. Branicky, we establish that the Matrix Mortality Problem is decidable with any finite set of 2\times2 matrices which has at most one invertible matrix. The same modification also shows that the number of non-invertible matrices is irrelevant.

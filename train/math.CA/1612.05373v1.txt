@@ -1,0 +1,1 @@
+We prove the Levin-Ste\v{c}kin inequality using Chebyshev's inequality and symmetrization. Symmetry and slightly modified Chebyshev's inequality are also the key to an elementary proof of Clausing's inequality .

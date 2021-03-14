@@ -1,0 +1,1 @@
+Grossberg and VanDieren have started a program to develop a stability theory for tame classes. We prove, for instance, that for tame abstract elementary classes satisfying the amlagamation property and for large enough cardinals kappa, stability in kappa implies stability in kappa^{+n} for each natural number n.

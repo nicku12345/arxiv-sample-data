@@ -1,0 +1,1 @@
+We define periodic frameworks as graphs on the torus, using the language of gain graphs. We present some fundamental definitions and results about the infinitesimal rigidity of graphs on a torus of fixed size and shape, and find necessary conditions for the generic rigidity of pe- riodic frameworks on a d-dimensional fixed torus.

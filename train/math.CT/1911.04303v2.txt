@@ -1,0 +1,1 @@
+We give several criteria to decide whether a given tensor category is the abelian envelope of a fixed symmetric monoidal category. Benson and Etingof conjectured that a certain limit of finite symmetric tensor categories is tensor equivalent to the finite dimensional representations of SL_2 in characteristic 2. We use our results on the abelian envelopes to prove this conjecture.

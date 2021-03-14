@@ -1,0 +1,1 @@
+It is shown, for a given graph group G, that the fixed point subgroup Fix\,\varphi is finitely generated for every endomorphism \varphi of G if and only if G is a free product of free abelian groups. The same conditions hold for the subgroup of periodic points. Similar results are obtained for automorphisms, if the dependence graph of G is a transitive forest.

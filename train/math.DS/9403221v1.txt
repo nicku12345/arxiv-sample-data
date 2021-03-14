@@ -1,0 +1,1 @@
+We show that the conjugacy class of an eventually expanding continuous piecewise affine interval map is contained in a smooth codimension 1 submanifold of parameter space. In particular conjugacy classes have empty interior. This is based on a study of the relation between induced Markov maps and ergodic theoretical behavior.

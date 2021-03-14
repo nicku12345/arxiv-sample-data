@@ -1,0 +1,1 @@
+It is shown that there are primitive substitution tilings with dense tile orientations invariant under n-fold rotation for n=2,3,4,5,6,8. The proof for dense tile orientations uses a general result about irrationality of angles in certain parallelograms.

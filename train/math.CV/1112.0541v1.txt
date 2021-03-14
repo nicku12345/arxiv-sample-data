@@ -1,0 +1,1 @@
+In this paper, we prove by means of a counterexample that there exist pair of integers (n,p) with n\geq 3, 2\leq p\leq n-1, and open sets D in C^{n} which are cohomologically p-complete with respect to the structure sheaf of D such that the cohomology group H_{n+p}(D,Z) does not vanish. In particular D is not p-complete.

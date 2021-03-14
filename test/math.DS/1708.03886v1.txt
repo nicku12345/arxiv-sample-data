@@ -1,0 +1,1 @@
+We prove pointwise convergence for the semi-radial averages on G=SL_2(\mathbb{R}) given by \int_t^{t+1} m_K\ast \delta_{a_{s}}ds (and similar variants), acting on K-finite L^p-functions in a probability-measure-preserving action of the group, for p > 1.

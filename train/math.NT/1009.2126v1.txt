@@ -1,0 +1,1 @@
+We consider deformations of bounded complexes of modules for a profinite group G over a field of positive characteristic. We prove a finiteness theorem which provides some sufficient conditions for the versal deformation of such a complex to be represented by a complex of G-modules that is strictly perfect over the associated versal deformation ring.

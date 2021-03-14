@@ -1,0 +1,1 @@
+We introduce and prove basic results about several graph-theoretic notions relevant to the multiresolution analysis of flow graphs that represent the transfer of control in computer programs. We take a category-theoretical viewpoint to demonstrate that our definitions are natural and to motivate particular incarnations of related constructions.

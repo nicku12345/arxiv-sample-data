@@ -1,0 +1,1 @@
+We reinterpret algebraic de Rham cohomology for a possibly singular complex variety X as sheaf cohomology in the site of smooth schemes over X with Voevodsky's h-topology. Our results extend to the algebraic de Rham complex as well. Our main technique is to extend Cech cohomology of hypercovers to arbitrary local acyclic fibrations of simplicial presheaves.

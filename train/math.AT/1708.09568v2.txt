@@ -1,0 +1,1 @@
+We compute the cohomology of the subalgebra A^{C_2}(1) of the C_2-equivariant Steenrod algebra A^{C_2}. This serves as the input to the C_2-equivariant Adams spectral sequence converging to the RO(C_2)-graded homotopy groups of an equivariant spectrum ko_{C_2}. Our approach is to use simpler \mathbb{C}-motivic and \mathbb{R}-motivic calculations as stepping stones.

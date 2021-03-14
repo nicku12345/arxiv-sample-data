@@ -1,0 +1,1 @@
+We prove that, consistently with ZFC, no ultraproduct of countably infinite (or separable metric, non-compact) structures is isomorphic to a reduced product of countable (or separable metric) structures associated to the Fr\'echet filter. Since such structures are countably saturated, the Continuum Hypothesis implies that they are isomorphic when elementarily equivalent.

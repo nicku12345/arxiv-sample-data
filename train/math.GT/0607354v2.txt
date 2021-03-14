@@ -1,0 +1,1 @@
+The earlier article tried to construct an algorithm to compute the Heegaard Floer homology \hat{HF}(Y) for a 3-manifold Y. However there is an error in a proof which the author, as of now, is unable to fix.

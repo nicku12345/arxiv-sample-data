@@ -1,0 +1,1 @@
+A `total Chern class' invariant of knots is defined. This is a universal Vassiliev invariant which is integral `on the level of Lie algebras' but it is not expressible as an integer sum of diagrams. The construction is motivated by similarities between the Kontsevich integral and the topological Chern character.

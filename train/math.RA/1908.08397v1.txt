@@ -1,0 +1,1 @@
+We introduce an explicit Groebner-Shirshov basis for HNN-extension of dialgebras. On the basis of Composition-Diamond lemma, a normal form for the elements of HNN-extension of digebras will be determined.

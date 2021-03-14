@@ -1,0 +1,1 @@
+We prove that if the Jacobian Conjecture in two variables is false and (P,Q) is a standard minimal pair, then the Newton polygon HH(P) of P must satisfy several restrictions that had not been found previously. This allows us to discard some of the corners found in [GGV, Remark 7.14] for HH(P), together with some of the infinite families found in [H, Theorem~2.25]

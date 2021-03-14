@@ -1,0 +1,1 @@
+In this paper we extend Badzioch's, Dorabiala's, and Williams' definition of cohomological higher smooth torsion to a twisted cohomological higher torsion invariant. Additionally, we show that this still satisfies geometric additivity and transfer, and will also satisfy additivity and transfer for coefficients.

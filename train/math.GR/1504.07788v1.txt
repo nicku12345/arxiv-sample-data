@@ -1,0 +1,1 @@
+Starting from the seminal example of the greedy normal norm in braid monoids, we analyse the mechanism of the normal form in a Garside monoid and explain how it extends to the more general framework of Garside families. Extending the viewpoint even more, we then consider general quadratic normalisation procedures and characterise Garside normalisation among them.

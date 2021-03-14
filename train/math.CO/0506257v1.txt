@@ -1,0 +1,1 @@
+Given a graph G of order n and size m, let s(G)= sum|d(u)-2m/n|, where the sum is taken over all vertices u of G. We investigate upper and lower bounds on eigenvalues of G in terms of s(G).

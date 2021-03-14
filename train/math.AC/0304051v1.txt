@@ -1,0 +1,1 @@
+Let R be an excellent local domain of positive characteristic with residue field k and let R^+ be its absolute integral closure. If \text{Tor}^R_1(R^+,k) vanishes, then R is Cohen-Macaulay, normal, F-rational and F-pure. If R has at most an isolated singularity or has dimension at most two, then R is regular.

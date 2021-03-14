@@ -1,0 +1,1 @@
+The cyclic quantum dilogarithm is interpreted as a cyclic 6j-symbol of the Weyl algebra, considered as a Borel subalgebra BU_q(sl(2)). Using modified 6j-symbols, an invariant of triangulated links in triangulated 3-manifolds is constructed. Apparently, it is an ambient isotopy invariant of links.

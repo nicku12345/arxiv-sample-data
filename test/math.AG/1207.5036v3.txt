@@ -1,0 +1,1 @@
+Let p be a singular point of a complex hypersurface whose tangent cone is a quadric of rank at least 3. We show that the space of arcs through p is irreducible. Using a method of de Fernex, this shows that the Nash problem has a negative answer for x^2+y^2+z^2+t^5=0. Version 2: Several small corrections.

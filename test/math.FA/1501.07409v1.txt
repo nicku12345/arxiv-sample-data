@@ -1,0 +1,1 @@
+The main objective of this paper is to define the mother wavelet on local fields and study the continuous wavelet transform (CWT) and some of their basic properties. its inversion formula, the Parseval relation and associated convolution are also studied.

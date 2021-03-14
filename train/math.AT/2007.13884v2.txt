@@ -1,0 +1,1 @@
+We determine \pi_*(BDiff_\partial(D^{2n})) \otimes \mathbb{Q} for 2n \geq 6 completely in degrees * \leq 4n-10, far beyond the pseudoisotopy stable range. Furthermore, above these degrees we discover a systematic structure in these homotopy groups: we determine them outside of certain "bands" of degrees.

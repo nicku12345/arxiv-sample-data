@@ -1,0 +1,1 @@
+In this note, we prove that if the boundary of a Mazur-type 4-manifold is an irreducible Heegaard Floer homology L-space, then the manifold must be the 4-ball, and the boundary must be the 3-sphere. We use this to give a new proof of Gabai's Property R.

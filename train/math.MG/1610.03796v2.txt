@@ -1,0 +1,1 @@
+Employing the inverse function theorem on Banach spaces, we prove that in a C^{2}(S^{n-1})-neighborhood of the unit ball, the only solutions of \Pi^2K=cK are origin-centered ellipsoids. Here K is an n-dimensional convex body, \Pi K is the projection body of K and \Pi^2K=\Pi(\Pi K).

@@ -1,0 +1,1 @@
+We give a bound for the number of real solutions to systems of n polynomials in n variables, where the monomials appearing in different polynomials are distinct. This bound is smaller than the fewnomial bound if this structure of the polynomials is not taken into account.

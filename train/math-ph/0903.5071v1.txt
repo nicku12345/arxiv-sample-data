@@ -1,0 +1,1 @@
+We derive an explicit simple formula for expectations of all Schur functions in the real Ginibre ensemble. It is a positive integer for all entries of the partition even and zero otherwise. The result can be used to determine the average of any analytic series of elementary symmetric functions by Schur function expansion.

@@ -1,0 +1,1 @@
+We study the small ball asymptotics problem in L_2 for two generalizations of the fractional Brownian motion with variable Hurst parameter. To this end, we perform careful analysis of the singular values asymptotics for associated integral operators.

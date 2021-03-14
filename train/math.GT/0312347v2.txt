@@ -1,0 +1,1 @@
+We extend the notion of intersection graphs for knots in the theory of finite type invariants to string links. We use our definition to develop weight systems for string links via the adjacency matrix of the intersection graph, and show that these weight systems are related to the weight systems induced by the Conway and Homfly polynomials.

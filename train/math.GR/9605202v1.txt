@@ -1,0 +1,1 @@
+We classify those sequences \langle S_{n} \mid n \in \mathbb{N} \rangle of finite simple nonabelian groups such that the full product \prod_{n} S_{n} has property (FA).

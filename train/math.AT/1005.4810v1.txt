@@ -1,0 +1,1 @@
+We compare the structure of a mapping cone in the category Top^D of spaces under a space D with differentials in algebraic models like crossed complexes and quadratic complexes. Several subcategories of Top^D are identified with algebraic categories. As an application we show that there are exactly 16 essential self--maps of S^2 x S^2 fixing the diagonal.

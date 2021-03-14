@@ -1,0 +1,1 @@
+Simplicial complexes X provide commutative rings A(X) via the Stanley-Reisner construction. We calculated the cotangent cohomology, i.e., T1 and T2 of A(X) in terms of X. These modules provide information about the deformation theory of the algebro geometric objects assigned to X.

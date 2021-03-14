@@ -1,0 +1,1 @@
+I study the Lyapunov exponent and the integrated density of states for general Jacobi operators. The main result is that questions about these, can be reduced to questions about ergodic Jacobi operators. Then, I apply this to a(n) = 1 and b(n) = f(n^\rho \pmod{1}) for \rho > 0 not an integer, and to obtain a probabilistic version of the Denisov--Rakhmanov--Remling Theorem.

@@ -1,0 +1,1 @@
+We show that if v is an axially symmetric suitable weak solution to the Navier Stokes equations (in the sense of L. Caffarelli, R. Kohn & L. Nirenberg) such that the radial component of v has a higher regularity (i.e. satisfies weighted Serrin-Prodi type condition), then all components of v are regular.

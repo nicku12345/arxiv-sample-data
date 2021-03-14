@@ -1,0 +1,1 @@
+We give a counterexample to the following theorem of Bremermann on Shilov boundaries: if D is a bounded domain in \mathbb C^n having a univalent envelope of holomorphy, say \widetilde D, then the Shilov boundary of D with respect to the algebra \mathcal A(D) coincides with the corresponding one for \widetilde D.

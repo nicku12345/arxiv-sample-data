@@ -1,0 +1,1 @@
+We prove that the Morava-K-theory-based Eilenberg-Moore spectral sequence has good convergence properties whenever the base space is a p-local finite Postnikov system with vanishing (n+1)st homotopy group.

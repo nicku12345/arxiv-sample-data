@@ -1,0 +1,1 @@
+Let G be a finite group and \rho: G--> End(E) be a group representation of G on a coherent sheaf over an integral scheme. The purpose of this paper shall give a decomposition theorem of such representations in non-splitting components and apply this results to the studie of Galois covers

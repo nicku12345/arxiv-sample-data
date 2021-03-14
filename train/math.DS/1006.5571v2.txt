@@ -1,0 +1,1 @@
+We study the dynamics of homoclinic classes on three dimensional manifolds under the robust absence of dominated splittings. We prove that if such a homoclinic class contains a volume-expanding periodic point, then, C^1-generically, it contains a hyperbolic periodic point whose index (dimension of the unstable manifold) is equal to two.

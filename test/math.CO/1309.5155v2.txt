@@ -1,0 +1,1 @@
+The half-open hypersimplex \Delta'_{n,k} consists of those x = (x_{1}, \ldots, x_{n}) \in[0,1]^n with k-1<x_1+\cdots+x_n\le k, where 0 < k \leq n. The f-vector of a half-open hypersimplex and related generating functions are explicitly studied.

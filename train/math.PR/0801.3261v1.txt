@@ -1,0 +1,1 @@
+In this short note, the identity in law, which was obtained by P. Salminen, between on one hand, the Ornstein-Uhlenbeck process with parameter gamma, killed when it reaches 0, and on the other hand, the 3-dimensional radial Ornstein-Uhlenbeck process killed exponentially at rate gamma and conditioned to hit 0, is derived from a simple absolute continuity relationship.

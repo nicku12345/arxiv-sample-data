@@ -1,0 +1,1 @@
+In a previous work we have introduced the notion of embedded \Q-resolution, which essentially consists in allowing the final ambient space to contain abelian quotient singularities. Here we give a generalization of N. A'Campo's formula for the monodromy zeta function of a singularity in this setting. Some examples of its applications are shown.

@@ -1,0 +1,1 @@
+We prove in ZFC that for mu >= aleph_2 there is a sigma --ideal I on mu and a Boolean sigma --subalgebra B of the family of subsets of mu which includes I such that the natural homomorphism from B onto B/I cannot be lifted.

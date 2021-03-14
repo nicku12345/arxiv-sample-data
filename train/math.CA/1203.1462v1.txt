@@ -1,0 +1,1 @@
+This paper contains a new elementary proof of the Fundamental Theorem of Calculus for the Lebesgue integral. The hardest part of our proof simply concerns the convergence in {\rm L}^1 of a certain sequence of step functions, and we prove it using only basic elements from Lebesgue integration theory.

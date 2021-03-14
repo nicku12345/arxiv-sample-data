@@ -1,0 +1,1 @@
+We consider an application to the discrete log problem using completely regular semigroups which may provide a more secure symmetric cryptosystem than the classic system based on groups. In particular we describe a scheme that would appear to offer protection to a standard trial multiplication attack.

@@ -1,0 +1,1 @@
+Zaharopol proved the following result: let T,S:L^1(X,{\cf},\m)\to L^1(X,{\cf},\m) be two positive contractions such that T\leq S. If \|S-T\|<1 then \|S^n-T^n\|<1 for all n\in\bn. In the present paper we generalize this result to multi-parameter contractions acting on L^1. As an application of that result we prove a generalization of the "zero-two" law.

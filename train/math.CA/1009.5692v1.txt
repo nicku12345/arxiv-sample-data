@@ -1,0 +1,1 @@
+Using the notion of h-subdifferential, we characterize both first and second order differentiability of h-convex functions in stratified groups. We show that Aleksandrov's second order differentiability of h-convex functions is equivalent to a suitable differentiability of their horizontal gradient.

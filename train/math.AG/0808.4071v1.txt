@@ -1,0 +1,1 @@
+Let X be a complete intersection of two hypersurfaces F_n and F_k in the projective space P^5 of degree n and k respectively with n >= k, such that the singularities of X are nodal and F_k is smooth. We prove that if the threefold X has at most (n+k-2)(n-1)-1 singular points, then it is factorial.

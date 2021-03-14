@@ -1,0 +1,1 @@
+Euler's totient function counts the positive integers up to a given integer n that are relatively prime to n. The aim of this article is to give a result about the sum of euler's totient function from k equal 1 to n whene p divides n and p a prime number.

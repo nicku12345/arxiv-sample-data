@@ -1,0 +1,1 @@
+In this paper we study quantitative aspects of Newton method for finding zeros of mappings f: M_n -> R^n and vector fields X: M_x -> TM_n

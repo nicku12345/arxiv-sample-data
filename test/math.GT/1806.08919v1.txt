@@ -1,0 +1,1 @@
+A multibranched surface is a 2-dimensional polyhedron without vertices. We introduce moves for multibranched surfaces embedded in a 3-manifold, which connect any two multibranched surfaces with the same regular neighborhoods in finitely many steps.

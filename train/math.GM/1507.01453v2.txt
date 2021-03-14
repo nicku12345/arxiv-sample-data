@@ -1,0 +1,1 @@
+We have studied the infinitesimal Baker-Campbell-Hausdorff formula up to n=4 (Math. Appl. 2 (2013), 61-91). In this note we correct some errors in our calculation for n=4 and presents the calculation for n=5 by using Mathematica.

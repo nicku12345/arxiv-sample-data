@@ -1,0 +1,1 @@
+The limit of a sequence by the definition with \varepsilon is introduced by the notion of checkmate in two moves. The idea is also extended to define the limit of a function with \varepsilon and \delta.

@@ -1,0 +1,1 @@
+We solve a problem of Marshal Hall by proving the convergence of the catalan number generating function directly on the basis of its recursion formula.

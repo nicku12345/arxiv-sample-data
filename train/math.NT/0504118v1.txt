@@ -1,0 +1,1 @@
+We answer a number of questions relating to the pseudo-Smarandache function Z(n). We show that the ratio of consecutive values Z(n+1)/Z(n) and Z(n-1)/Z(n) are unbounded; that Z(2n)/Z(n) is unbounded; that n/Z(n) takes every integer value infinitely often; and that the series \sum_n 1/Z(n)^\alpha is convergent for any \alpha > 1.

@@ -1,0 +1,1 @@
+For an arbitrary operator ideal I, every nilpotent element of I is a single commutator of operators from I^t, for an exponent t that depends on the degree of nilpotency.

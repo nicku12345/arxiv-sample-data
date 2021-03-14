@@ -1,0 +1,1 @@
+Permutations avoiding all patterns of a given shape (in the sense of Robinson-Schensted-Knuth) are considered. We show that the shapes of all such permutations are contained in a suitable thick hook, and deduce an exponential growth rate for their number.

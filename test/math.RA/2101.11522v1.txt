@@ -1,0 +1,1 @@
+A Hom-Lie algebra (L, \alpha_L) is said to be \emph{capable} if there exists a Hom-Lie algebra (H, \alpha_H) such that L \cong H/Z(H). We obtain a characterisation of capable Hom-Lie algebras involving its epicentre and we use this theory to further study the six-term exact sequence in homology and to obtain a Hopf-type formulae of the second homology of perfect Hom-Lie algebras.

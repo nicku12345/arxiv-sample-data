@@ -1,0 +1,1 @@
+We study second order equations and systems on non-Lipschitz domains including mixed boundary conditions. The key result is interpolation for suitable function spaces. From this, elliptic and parabolic regularity results are deduced by means of Sneiberg's isomorphism theorem.

@@ -1,0 +1,1 @@
+We discuss partial specifications in first-order logic FO and also in a Turing-complete extension of FO. We compare the compositional and game-theoretic approaches to the systems.

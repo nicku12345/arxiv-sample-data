@@ -1,0 +1,1 @@
+The existence and uniqueness of local in time strong solution with large initial data for the three-dimensional compressible viscoelastic fluid is established. The strong solution has weaker regularity than the classical solution. The Lax-Milgram theorem and the Schauder-Tychonoff fixed-point argument are applied.

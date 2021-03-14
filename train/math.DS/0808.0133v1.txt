@@ -1,0 +1,1 @@
+We consider finite families of SL(2,R) matrices whose products display uniform exponential growth. These form open subsets of (SL(2,R))^N, and we study their components, boundary, and complement. We also consider the more general situation where the allowed products of matrices satisfy a Markovian rule.

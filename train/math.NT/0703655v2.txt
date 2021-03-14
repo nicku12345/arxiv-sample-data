@@ -1,0 +1,1 @@
+We show that the expected value for the linear complexity of m-multisequences of length n is E_n^{(m)} = n m/(m+1) + O(1).

@@ -1,0 +1,1 @@
+We prove regularity bounds for Koszul cycles holding for every ideal of dimension at most 1 in a polynomial ring. We generalize the lower bound for the Green-Lazarsfeld index of Veronese rings we proved in arXiv:0902.2431 to the multihomogeneous setting.

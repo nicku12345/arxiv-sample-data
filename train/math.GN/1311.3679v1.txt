@@ -1,0 +1,1 @@
+The aim of this paper is to prove all well-known metrization theorems using partitions of unity. To accomplish this, we first discuss sufficient and necessary conditions for existence of \mathcal{U}-small partitions of unity (partitions of unity subordinated to an open cover \mathcal{U} of a topological space X).

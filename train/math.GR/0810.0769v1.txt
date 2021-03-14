@@ -1,0 +1,1 @@
+Generators and defining relations for wreath products of groups are given. Under some condition (conormality of the generators) they are minimal. In particular, it is just the case for the Sylow subgroups of the symmetric groups.

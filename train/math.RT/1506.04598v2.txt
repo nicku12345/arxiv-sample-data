@@ -1,0 +1,1 @@
+Let G be a reductive connected group over the algebraic closure of a finite field. In this paper we give the classification of character sheaves on G in categorical terms (as a categorical centre). Previously such a classification was known for unipotent character sheaves and also in the case where the ground field is replaced by the complex numbers.

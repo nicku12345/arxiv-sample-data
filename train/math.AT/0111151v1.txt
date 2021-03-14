@@ -1,0 +1,1 @@
+We show that if K is a nilpotent finite complex, then \Omega K can be built from spheres using fibrations and homotopy (inverse) limits. This is applied to show that if {\mathrm {map}}_*(X,S^n) is weakly contractible for all n, then {\mathrm {map}}_*(X,K) is weakly contractible for any nilpotent finite complex K.

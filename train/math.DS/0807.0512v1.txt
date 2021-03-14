@@ -1,0 +1,1 @@
+Let \Pi be an open, relatively compact period annulus of real analytic vector field X_0 on an analytic surface. We prove that the maximal number of limit cycles which bifurcate from \Pi under a given multi-parameter analytic deformation X_\lambda of X_0 is finite, provided that X_0 is either Hamiltonian, or generic Darbouxian vector field.

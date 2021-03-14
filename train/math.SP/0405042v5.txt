@@ -1,0 +1,1 @@
+Let w be an Abelian differential on compact Riemann surface of genus g\geq 1. We obtain an explicit holomorphic factorization formula for \zeta-regularized determinant of the Laplacian in flat conical metrics with trivial holonomy |w|^2, generalizing the classical Ray-Singer result in g=1.

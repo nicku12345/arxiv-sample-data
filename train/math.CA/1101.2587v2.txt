@@ -1,0 +1,1 @@
+We show that if no m-plane contains almost all of an m-rectifiable set E \subset \R^{n}, then there exists a single (m - 1)-plane V such that the radial projection of E has positive m-dimensional measure from every point outside V.

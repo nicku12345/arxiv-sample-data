@@ -1,0 +1,1 @@
+Given a locally maximal compact invariant hyperbolic set \Lambda for a C^1 flow or diffeomorphism on a Riemann manifold with C^1 unstable laminations, we construct an invariant continuous bundle of tangent vectors to local unstable manifolds that locally approximates \Lambda in a certain way.

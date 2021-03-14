@@ -1,0 +1,1 @@
+Nonlinear gradient dynamic approach for solving the tensor complementarity problem (TCP) is presented. Theoretical analysis shows that each of the defined dynamical system models ensures the convergence performance. The computer simulation results further substantiate that the considered dynamical system can solve the tensor complementarity problem (TCP).

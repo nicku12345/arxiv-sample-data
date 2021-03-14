@@ -1,0 +1,1 @@
+This paper answeres the question posed by E.Manes in his book "Algebraic theories": given monoids M and N considered as categories with a single object, and a morphism f: M --> N of monoids (considered as functor), such that f has an adjoint (left or right), is it true that f is an isomorphism? The answer is "no".

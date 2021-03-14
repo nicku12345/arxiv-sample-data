@@ -1,0 +1,1 @@
+In this paper, we study the conjecture II.1.9 of Cluster structures for 2-Calabi-Yau categories and unipotent groups, which said that any maximal rigid object without loops or 2-cycles in its quiver is a cluster tilting object in a connected Hom-finite triangulated 2-CY category C. We obtain some conditions equivalent to the conjecture, and using them we proved the conjecture.

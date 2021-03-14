@@ -1,0 +1,1 @@
+We introduce a new class of algebras, which we call cluster-tilted. They are by definition the endomorphism algebras of tilting objects in a cluster category. We show that their representation theory is very close to the representation theory of hereditary algebras. As an application of this, we prove a generalised version of so-called APR-tilting.

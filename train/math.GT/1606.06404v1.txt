@@ -1,0 +1,1 @@
+We study concordance of virtual knots. Our main result is that a classical knot K is virtually slice if and only if it is classically slice. From this we deduce that the concordance group of classical knots embeds into the concordance group of long virtual knots.

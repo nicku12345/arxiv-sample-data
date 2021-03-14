@@ -1,0 +1,1 @@
+Let \Omega be a bounded smooth domain in \mathbb{R}^{4} such that for some integer d\geq1 its d-th singular cohomology group with coefficients in some field is not zero, then problem   {\Delta^{2}u-\rho^{4}k(x)e^{u}=0 & \hbox{in}\Omega,   u=\Delta u=0 & \hbox{on}\partial\Omega,   has a solution blowing-up, as \rho\to0, at m points of \Omega, for any given number m.

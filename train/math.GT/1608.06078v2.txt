@@ -1,0 +1,1 @@
+We describe triangle coordinates for integral laminations on a non-orientable surface N_{k,n} of genus k with n punctures and one boundary component, and give an explicit bijection from the set of integral laminations on N_{k,n} to (\mathbb{Z}^{2(n+k-2)}\times \mathbb{Z}^k)\setminus \left\{0\right\}.

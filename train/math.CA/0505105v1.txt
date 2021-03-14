@@ -1,0 +1,1 @@
+We characterize the weighted Hardy's inequalities for monotone functions in {\mathbb R^n_+}. In dimension n=1, this recovers the classical theory of B_p weights. For n>1, the result was only known for the case p=1. In fact, our main theorem is proved in the more general setting of partially ordered measure spaces.

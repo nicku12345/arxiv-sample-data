@@ -1,0 +1,1 @@
+We compare the K-theory and K-homology of the well known CAR algebra.   While the K_0 group is infinitely generated, we shows that it pairs identically to zero with even Fredholm modules over the algebra. We show further that in fact the even K-homology is trivial, while the odd K-homology is very large. These results give some insight into the K-homology of AF-algebras.

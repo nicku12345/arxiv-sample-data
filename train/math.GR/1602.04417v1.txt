@@ -1,0 +1,1 @@
+It is shown that, given a lattice H in a totally disconnected, locally compact group G, the contraction subgroups in G and the values of the scale function on G are determined by their restrictions to H. Group theoretic properties intrinsic to the lattice, such as being periodic or infinitely divisible, are then seen to imply corresponding properties of G.

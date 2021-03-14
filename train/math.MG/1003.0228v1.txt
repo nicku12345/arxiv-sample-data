@@ -1,0 +1,1 @@
+For d \geq 2 let B be standard d-dimensional Brownian motion. For any \alpha < 1/d we construct an \alpha-H\"{o}lder continuous function f \colon [0,1] \to \mathbb{R}^d so that the range of B-f covers an open set. This strengthens a result of Graversen (1982) and answers a question of Le Gall (1988).

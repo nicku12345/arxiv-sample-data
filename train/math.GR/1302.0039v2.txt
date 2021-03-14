@@ -1,0 +1,1 @@
+Metric estimates are quantities that approximate the word metric of a finitely presented group up to multiplicative constants. In this paper, they are computed for some nilpotent groups and used to compute the distortion functions of several embeddings between them.

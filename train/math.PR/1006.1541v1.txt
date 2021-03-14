@@ -1,0 +1,1 @@
+We characterize Banach spaces B of stable type p (1 < p < 2) by the property that for every sequence (X_i) of B-valued random variables, independent, centered and fulfilling some integrability assumption, the sequence S_n/n^(1/p) is a quasimartingale, where S_n=X_1+...+X_n.

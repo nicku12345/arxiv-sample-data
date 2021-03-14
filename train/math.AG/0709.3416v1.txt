@@ -1,0 +1,1 @@
+Let X be a projective variety over a number field K (resp. over \mathbb{C}). Let H be the sum of ``sufficiently many positive divisors'' on X. We show that any set of quasi-integral points (resp. any integral curve) in X-H is not Zariski dense.

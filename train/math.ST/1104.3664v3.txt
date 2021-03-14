@@ -1,0 +1,1 @@
+In this paper, using spectral theory of Hilbertian operators, we study ARMA Gaussian processes indexed by graphs. We extend Whittle maximum likelihood estimation of the parameters for the corresponding spectral density and show their asymptotic optimality.

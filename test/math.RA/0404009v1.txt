@@ -1,0 +1,1 @@
+We show that if a field k contains sufficiently many elements(for instance, if k is infinite), and K is an algebraically closed field containing k, then every linear algebraic k-group over K is k-isomorphic to Aut(A\otimes_kK), where A is a finite dimensional simple algebra over k.

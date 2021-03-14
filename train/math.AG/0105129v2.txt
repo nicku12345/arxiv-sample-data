@@ -1,0 +1,1 @@
+We point out an interesting relation between hypersurface elliptic singularities and log Enriques surfaces: with a few exceptions, every hypersurface elliptic singularity define some klt log Enriques surface (S,Diff). In many cases, the log canonical cover of (S,Diff) is a Du Val K3 surface with ``large'' nonsymplectic automorphism group.

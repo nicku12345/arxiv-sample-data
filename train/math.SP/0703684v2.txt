@@ -1,0 +1,1 @@
+We consider operators of Kramers-Fokker-Planck type in the semi-classical limit such that the exponent of the associated Maxwellian is a Morse function with two local minima and a saddle point. Under suitable additional assumptions we establish the complete asymptotics of the exponentially small splitting between the first two eigenvalues.

@@ -1,0 +1,1 @@
+Given an It\=o semimartingale with a time-homogeneous jump part observed at high frequency, we prove weak convergence of a normalized truncated empirical distribution function of the L\'evy measure to a Gaussian process. In contrast to competing procedures, our estimator works for processes with a non-vanishing diffusion component and under simple assumptions on the jump process.

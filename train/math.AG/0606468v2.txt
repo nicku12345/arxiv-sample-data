@@ -1,0 +1,1 @@
+We generalize the notion of proper stack introduced by Kashiwara and Schapira to the case of a general site, and we prove that a proper stack is a stack.

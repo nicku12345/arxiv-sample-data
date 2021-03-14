@@ -1,0 +1,1 @@
+We show that every free semigroup algebras has a (strongly) unique Banach space predual. We also provide a new simpler proof that a weak*-closed unital operator operator algebra containing a weak* dense subalgebra of compact operators has a unique Banach space predual.

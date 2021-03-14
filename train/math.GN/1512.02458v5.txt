@@ -1,0 +1,1 @@
+We prove that the complement of a \sigma-compact subset of a topological space that has a \pi-tree also has a \pi-tree. To do this, we construct the foliage hybrid operation, which deals with foliage trees (that is, set-theoretic trees with a `leaf' at each node). Then using this operation we modify a \pi-tree of a space and get a \pi-tree for its subspace.

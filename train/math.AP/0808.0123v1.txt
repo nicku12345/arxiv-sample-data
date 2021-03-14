@@ -1,0 +1,1 @@
+In this paper we investigate a system describing electrically charged particles in the whole space R^2. Our main goal is to describe large time behavior of solutions which start their evolution from initial data of small size. This is achieved using radially symmetric self-similar solutions.

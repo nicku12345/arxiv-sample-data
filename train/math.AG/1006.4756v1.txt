@@ -1,0 +1,1 @@
+There is presented a method for computing the number of branches of a real analytic curve germ from R^n to R^m, where m is greater or equal to n, having a singular point at the origin, and the number of half--branches of the set of double points of an analytic germ from R^2 to R^3.

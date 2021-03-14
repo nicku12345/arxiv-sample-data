@@ -1,0 +1,1 @@
+We show that the two cuspidal unipotent characters of a finite Chevalley group E_7(q) have Schur index~2, provided that q is an even power of a (sufficiently large) prime number p such that p\equiv 1 \bmod 4. The proof uses a refinement of Kawanaka's generalized Gelfand--Graev representations and some explicit computations with the {\sf CHEVIE} computer algebra system.

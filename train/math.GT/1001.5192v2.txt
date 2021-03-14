@@ -1,0 +1,1 @@
+A Chebyshev curve C(a,b,c,\phi) has a parametrization of the form x(t)=Ta(t); y(t)=T_b(t) ; z(t)= Tc(t + \phi), where a,b,c are integers, Tn(t) is the Chebyshev polynomial of degree n and \phi \in \RR. When C(a,b,c,\phi) has no double points, it defines a polynomial knot. We determine all possible knots when a, b and c are given.

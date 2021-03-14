@@ -1,0 +1,1 @@
+For a sample set of 1024 values, the FFT is 102.4 times faster than the discrete Fourier transform (DFT). The basis for this remarkable speed advantage is the `bit-reversal' scheme of the Cooley-Tukey algorithm. Eliminating the burden of `degeneracy' by this means is readily understood using vector graphics.

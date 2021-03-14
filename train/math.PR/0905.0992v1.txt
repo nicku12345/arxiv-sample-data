@@ -1,0 +1,1 @@
+This paper investigates a damped stochastic wave equation driven by a non-Gaussian Levy noise. The weak solution is proved to exist and be unique. Moreover we show the existence of a unique invariant measure associated with the transition semigroup under mild conditions.

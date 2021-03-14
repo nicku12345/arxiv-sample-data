@@ -1,0 +1,1 @@
+We study the two-scale asymptotics for a charged beam under the action of a rapidly oscillating external electric field. After proving the convergence to the correct asymptotic state, we develop a numerical method for solving the limit model involving two time scales and validate its efficiency for the simulation of long time beam evolution.

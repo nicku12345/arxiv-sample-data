@@ -1,0 +1,1 @@
+We consider the group of isotopy classes of automorphisms of the 3-sphere that preserve a spatial graph or a handlebody-knot embedded in it. We prove that the group is finitely presented for an arbitrary spatial graph or a reducible handlebody-knot of genus two. We also prove that the groups for "most" irreducible genus two handlebody-knots are finite.

@@ -1,0 +1,1 @@
+We prove that certain means of the quadratical partial sums of the two-dimensional Vilenkin-Fourier series are uniformly bounded operators from the Hardy space H_{p} to the space L_{p} for 0<p\leq 1. We also prove that the sequence in the denominator cannot be improved.

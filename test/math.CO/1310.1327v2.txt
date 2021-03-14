@@ -1,0 +1,1 @@
+A strong placement game G played on a board B is equivalent to a simplicial complex \Delta_{G,B}. We look at weight games, a subclass of strong placement games, and introduce upper bounds on the number of positions with i pieces in G, or equivalently the number of faces with i vertices in \Delta_{G,B}, which are reminiscent of the Kruskal-Katona bounds.

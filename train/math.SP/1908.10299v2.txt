@@ -1,0 +1,1 @@
+We study spectral problems for integro-differential equations arising in the theory of Gaussian processes similar to the fractional Brownian motion. We generalize the method of Chigansky--Kleptsyna and obtain the two-term eigenvalue asymptotics for such equations. Application to the small ball probabilities in L_2-norm is given.

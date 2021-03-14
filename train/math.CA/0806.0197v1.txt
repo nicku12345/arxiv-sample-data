@@ -1,0 +1,1 @@
+Analogues of multi-paramter multiplier operators on R^d are defined on the torus T^d. It is shown that these operators satisfy the classical Coifman-Meyer theorem. In addition, L log L and L (log L)^n end-point estimates are proved.

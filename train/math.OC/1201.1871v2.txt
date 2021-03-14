@@ -1,0 +1,1 @@
+In this paper we deal with the local exact controllability to a particular class of trajectories of the N-dimensional Boussinesq system with internal controls having 2 vanishing components. The main novelty of this work is that no condition is imposed on the control domain.

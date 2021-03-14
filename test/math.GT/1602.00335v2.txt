@@ -1,0 +1,1 @@
+We describe, under some additional technical assumptions, the Gromov boundary of the free product of several G_i's amalgamated wrt. H, where G_i are hyperbolic groups with boundary homeomorphic to a densely punctured n-sphere, and H is their common subgroup corresponding to a peripheral sphere in each of the \partial G_i's.

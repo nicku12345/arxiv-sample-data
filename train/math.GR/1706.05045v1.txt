@@ -1,0 +1,1 @@
+In this article we give an order-dividing bijective function between cyclic and non cyclic groups of finite order. In particular, we prove that there exists a bijective function from D_{2n} to Z_{2n} for any natural integer n; and from Z_p x Z_k to Z_{pk} when p is an odd prime and k is not a multiple of p.

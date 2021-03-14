@@ -1,0 +1,1 @@
+We find the largest linear space of bounded linear operators on L_1(Omega), that being restricted to any L_1(A), A \subset Omega, satisfy the Daugavet equation.

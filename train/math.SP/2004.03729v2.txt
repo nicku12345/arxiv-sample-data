@@ -1,0 +1,1 @@
+In this paper, a diffusion operator including conformable fractional derivatives of order {\alpha} ({\alpha} in (0,1)) is considered. The asymptotics of the eigenvalues, eigenfunctions and nodal points of the operator are obtained. Furthermore, an effective procedure for solving the inverse nodal problem is given.

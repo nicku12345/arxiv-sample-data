@@ -1,0 +1,1 @@
+A version of the Davis-Kahan Tan 2\Theta theorem [SIAM J. Numer. Anal. \textbf{7} (1970), 1 -- 46] for not necessarily semibounded linear operators defined by quadratic forms is proven. This theorem generalizes a recent result by Motovilov and Selin [Integr. Equat. Oper. Theory \textbf{56} (2006), 511 -- 542].

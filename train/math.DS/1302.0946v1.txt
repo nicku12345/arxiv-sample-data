@@ -1,0 +1,1 @@
+We prove that for every three-dimensional vector field, either it can be accumulated by Morse-Smale ones, or it can be accumulated by ones with a transverse homoclinic intersection of some hyperbolic periodic orbit in the C^1 topology.

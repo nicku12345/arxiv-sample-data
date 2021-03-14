@@ -1,0 +1,1 @@
+This paper first summarizes the foundations of stochastic calculus via regularization and constructs through this procedure It\^o and Stratonovich integrals. In the second part, a survey and new results are presented in relation with finite quadratic variation processes, Dirichlet and weak Dirichlet processes.

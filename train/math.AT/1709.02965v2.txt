@@ -1,0 +1,1 @@
+The purpose of this paper is to examine the calculational consequences of the duality for BPR<n> proved by the first author and Meier in 1607.02332, making them explicit in the special case n=3. We give an explicit description of the behaviour of the spectral sequence, with pictures.

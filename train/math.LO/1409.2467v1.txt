@@ -1,0 +1,1 @@
+We show that every boolean category satisfying AC provides a categorical semantic of the typed Epsilon calculus.

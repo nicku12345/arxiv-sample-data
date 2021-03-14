@@ -1,0 +1,1 @@
+In this note we resolve the problem of getting a state-space realization compatible with the deterministic state-space realization and the filtering problem.

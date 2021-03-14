@@ -1,0 +1,1 @@
+A new algebraic object is introduced - recurrent fractions, which is an n-dimensional generalization of continued fractions. It is used to describe an algorithm for rational approximations of algebraic irrational numbers. Some parametrization for generalized Pell's equations is constructed.

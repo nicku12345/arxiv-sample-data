@@ -1,0 +1,1 @@
+We give characterizations, for various fragments of geometric logic, of the class of theories classified by a locally connected (resp. connected and locally connected, atomic, compact, presheaf) topos, and exploit the existence of multiple sites of definition for a given topos to establish some properties of quotients of theories of presheaf type.

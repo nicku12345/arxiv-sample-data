@@ -1,0 +1,1 @@
+In this note a general approach is suggested for comparison of operators. This is done by means of the Fourier transform of a measure. This approach is applied to comparison of approximation properties of various summability methods of the Fourier integrals (I) and to differential operators with constant coefficients (II).

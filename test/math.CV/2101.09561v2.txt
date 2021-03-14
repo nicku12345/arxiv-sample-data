@@ -1,0 +1,1 @@
+We prove that a harmonic quasiconformal mapping defined on a finitely connected domain in the plane, all of whose boundary components are either points or quasicircles, admits a quasiconformal extension to the whole plane if its Schwarzian derivative is small. We also make the observation that a univalence criterion for harmonic mappings holds on uniform domains.

@@ -1,0 +1,1 @@
+Given a numerical semigroup S and a positive integer d, the fraction \frac{S}{d}=\{ x \in \mathbb{N} \ | \ dx \in S\} is again a numerical semigroup. In this paper we determine a generating set for \frac{S}{d} in terms of the minimal generators of S and provide sharp upper bounds for the embedding dimension of \frac{S}{d}.

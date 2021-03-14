@@ -1,0 +1,1 @@
+In this paper we characterize when the semi-commutator T_fT_g-T_{fg} of two Toeplitz operators T_f and T_g on the Hardy space of the bidisc is zero. We also show that there is no nonzero finite rank semi-commutator on the bidisc. Furthermore explicit examples of compact semi-commutators with symbols continuous on the bitorus T^2 are given.

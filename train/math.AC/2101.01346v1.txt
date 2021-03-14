@@ -1,0 +1,1 @@
+We show that a mixed characteristic valuation ring with a value group \Gamma and a residue field k of characteristic p>0, is a filtered direct limit of complete intersection \bf Z-algebras if \Gamma/{\bf Z}\val(p) has no torsion, k is separably generated over F_p and either V is Henselian, or \dim V=1 .

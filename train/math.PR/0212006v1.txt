@@ -1,0 +1,1 @@
+We show that a lower bound for covariance of \min(X_1,X_2) and \max(X_1,X_2) is \cov{X_1}{X_2} and an upper bound for variance of \\ \min(X_2,\max(X,X_1)) is \var{X} + \var{X_1} +\var{X_2} generalizing previous results. We also characterize the cases where these bounds are sharp.

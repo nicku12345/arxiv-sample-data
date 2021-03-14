@@ -1,0 +1,1 @@
+The new class of Banach spaces, so-called asymptotic l_p spaces, is introduced and it is shown that every Banach space with bounded distortions contains a subspace from this class.   The proof is based on an investigation of certain functions, called enveloping functions, which are intimately connected with stabilization properties of the norm.

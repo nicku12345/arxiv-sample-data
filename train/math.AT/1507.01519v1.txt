@@ -1,0 +1,1 @@
+Using known results about their integral cohomology ring, we prove that the topological complexity of the space of n-gons in R^3 with prescribed side lengths equals 2n-5, assuming that the space is nonempty and does not contain any straight-line polygons.

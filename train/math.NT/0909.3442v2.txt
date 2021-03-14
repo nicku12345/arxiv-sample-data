@@ -1,0 +1,1 @@
+For a prime m, let Phi_m be the classical modular polynomial, and let h(Phi_m) denote its logarithmic height. By specializing a theorem of Cohen, we prove that h(Phi_m) <= 6 m log m + 16 m + 14 sqrt m log m. As a corollary, we find that h(Phi_m) <= 6 m log m + 18 m also holds. A table of h(Phi_m) values is provided for m <= 3607.

@@ -1,0 +1,1 @@
+Let f be a continuous endomorphism of a surface M, and A an attracting set such that the restriction f|_A: A \to A is a d:1 covering map. We show that if f is a local homeomorphism in the immediate basin B^0_A of A, then f is also a d:1 covering of B^0_A.

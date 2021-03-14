@@ -1,0 +1,1 @@
+We show that in characteristic 2, the Steinberg representation of the symplectic group Sp(2n,q), q a power of an odd prime p, has two irreducible constituents lying just above the socle that are isomorphic to the two Weil modules of degree (q^n-1)/2.

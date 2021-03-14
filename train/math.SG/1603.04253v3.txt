@@ -1,0 +1,1 @@
+To a differential graded algebra with coefficients in a noncommutative algebra, by dualisation we associate an A_\infty-category whose objects are augmentations. This generalises the augmentation category of Bourgeois and Chantraine to the noncommutative world.

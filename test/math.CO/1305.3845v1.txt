@@ -1,0 +1,1 @@
+This addendum contains results about the inversion number and major index polynomials for permutations avoiding 321 which did not fit well into the original paper. In particular, we consider symmetry, unimodality, behavior modulo 2, and signed enumeration.

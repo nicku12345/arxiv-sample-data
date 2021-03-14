@@ -1,0 +1,1 @@
+An intrinsic version of the integrability theorem for the classical Backlund theorem is presented. It is characterized by a one-form which can be put in the form of a Riccati system. It is shown how this system can be linearized. Based on this, a procedure for generating an infinite number of conservation laws is given.

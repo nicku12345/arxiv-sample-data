@@ -1,0 +1,1 @@
+We consider Schr\"odinger operators H^h = (ih d+{\bf A})^* (ih d+{\bf A}) with the periodic magnetic field {\bf B}=d{\bf A} on covering spaces of compact manifolds. Under some assumptions on \bf B, we prove that there are arbitrarily large number of gaps in the spectrum of these operators in the semiclassical limit of strong magnetic field h\to 0.

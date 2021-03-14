@@ -1,0 +1,1 @@
+The bondage number b(G) of a nonempty graph G is the smallest number of edges whose removal from G results in a graph with domination number greater than that of G. Denote P_n\times P_m be the Cartesian product of two paths P_n and P_m. This paper determines that the exact value of b(P_n\times P_2), b(P_n\times P_3) and b(P_n\times P_4) for n\ge 2.

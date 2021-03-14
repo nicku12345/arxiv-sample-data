@@ -1,0 +1,1 @@
+The asymptotic expansion of the Kummer function {}_1F_1(a; b; z) is examined as z\to+\infty on the Stokes line \arg\,z=0. The correct form of the subdominant algebraic contribution is obtained for non-integer a. Numerical results demonstrating the accuracy of the expansion are given.

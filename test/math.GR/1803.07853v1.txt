@@ -1,0 +1,1 @@
+It is proved in [J. Group Theory, {\bf 10} (2007), 859-866] that if G is a finite p-group such that (G,Z(G)) is a Camina pair, then |G| divides |\Aut(G)|. We give a very short and elementary proof of this result.

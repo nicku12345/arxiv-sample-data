@@ -1,0 +1,1 @@
+Let P^n be the projective space of dimension n on an algebraically closed field of characteristic 0 and F be the image of the Segre embedding of P^1xP^1xP^1 inside P^7. In the present paper we deal with the moduli spaces of locally free sheaves E on F of rank 2 with h^i(F,E(t))=0 for i=1,2 and each integer t.

@@ -1,0 +1,1 @@
+We consider vertices, a notion originating in local representation theory of finite groups, for the category \mathcal{O} of a rational Cherednik algebra and prove the analogue of the Dipper-Du Conjecture for Hecke algebras of symmetric groups in that setting. As a corollary we obtain a new proof of the Dipper-Du Conjecture over \mathbb{C}.

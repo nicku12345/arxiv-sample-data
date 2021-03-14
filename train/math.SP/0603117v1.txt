@@ -1,0 +1,1 @@
+I consider the same operator as in part I assuming however that \mu \ge Ch^{-1} and V is replaced by (2l+1)\mu h F+W with l\in \bZ^+. Under some non-degeneracy conditions I recover remainder estimates up to O \bigl(\mu^{-{\frac 1 \nu}}h^{-1} +1\bigr) but now case \mu \ge Ch^{-\nu} is no more forbidden and the principal part is of magnitude \mu h^{-1}.

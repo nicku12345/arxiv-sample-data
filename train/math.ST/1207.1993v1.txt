@@ -1,0 +1,1 @@
+This article presents a unified approach to simultaneously compute the Jacobians of several singular matrix transformations in the real, complex, quaternion and octonion cases. Formally, these Jacobians are obtained for real normed division algebras with respect to the Hausdorff measure.

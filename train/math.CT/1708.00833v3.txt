@@ -1,0 +1,1 @@
+We compute the tensor triangular spectrum of perfect complexes of filtered modules over a commutative ring, and deduce a classification of the thick tensor ideals. We give two proofs: one by reducing to perfect complexes of graded modules which have already been studied in the literature, and one more direct for which we develop some useful tools.

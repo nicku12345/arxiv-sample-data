@@ -1,0 +1,1 @@
+We define a notion of symmetric monoidal closed (SMC) theory, consisting of a SMC signature augmented with equations, and describe the classifying categories of such theories in terms of proof nets.

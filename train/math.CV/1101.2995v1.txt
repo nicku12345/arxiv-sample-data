@@ -1,0 +1,1 @@
+It is well known that functions in the analytic Besov space B_1 on the unit disk \D admits an integral representation f(z)=\ind\frac{z-w}{1-z\bar w}\,d\mu(w), where \mu is a complex Borel measure with |\mu|(\D)<\infty. We generalize this result to all Besov spaces B_p with 0<p\le1 and all Lipschitz spaces \Lambda_t with t>1. We also obtain a version for Bergman and Fock spaces.

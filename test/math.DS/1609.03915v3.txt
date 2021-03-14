@@ -1,0 +1,1 @@
+Given two permutable entire functions f and g, we establish vital relationship between escaping sets of entire functions f, g and their composition. We provide some families of transcendental entire functions for which Eremenko's conjecture holds. In addition, we investigate the dynamical properties of the mapping f(z)=z+1+e^{-z}.

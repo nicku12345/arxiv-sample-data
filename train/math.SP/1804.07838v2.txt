@@ -1,0 +1,1 @@
+We study relations between the decaying rates of operator semigroups on Hilbert spaces and some spectral properties of their respective generators; in particular, we show that the decaying rates of orbits of semigroups which are stable but not exponentially stable, typically in Baire's sense, depend on sequences of time going to infinity.

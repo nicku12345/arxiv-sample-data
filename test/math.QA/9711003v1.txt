@@ -1,0 +1,1 @@
+Two quantum Hopf structures for the Schr\"odinger algebra as well as their corresponding differential-difference realizations are presented. For each case a (space or time) discretization of the Schr\"odinger equation is deduced and the quantum Schr\"odinger generators are shown to be symmetry operators.

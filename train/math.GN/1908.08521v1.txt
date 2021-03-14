@@ -1,0 +1,1 @@
+Let n be any positive integer and \mathscr{I\!P\!F}(\mathbb{N}^n) be the semigroup of all order isomorphisms between principal filters of the n-th power of the set of positive integers \mathbb{N} with the product order. We prove that a Hausdorff locally compact semitopological semigroup {\mathscr{I\!P\!F}(\mathbb{N}^n)} with an adjoined zero is either compact or discrete.

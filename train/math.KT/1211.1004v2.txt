@@ -1,0 +1,1 @@
+We show that the dual of the Witt vectors on Z_{\geq 0}^n - 0 as defined by Angeltveit, Gerhardt, Hill, and Lindenstrauss represent the functor taking a commutative formal group G to the maps of formal schemes Ahat^n -> G, and that the Witt vectors are self-dual for Q-algebras or when n=1.

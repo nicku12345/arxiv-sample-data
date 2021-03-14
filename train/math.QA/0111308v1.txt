@@ -1,0 +1,1 @@
+Starting with the superYangian Y(M|N) based on gl(M|N), we define twisted superYangians Y^+(M|N) and Y^-(M|N). Only Y^+(M|2n) and Y^-(2m|N) can be defined, and appear to be isomorphic one with each other. We study their finite-dimensional irreducible highest weight representations.

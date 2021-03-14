@@ -1,0 +1,1 @@
+It is shown that if the binomial edge ideal of a graph G defines a Koszul algebra, then G must be chordal and claw free. A converse of this statement is proved for a class of chordal and claw free graphs.

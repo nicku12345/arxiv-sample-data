@@ -1,0 +1,1 @@
+Extensions to the trapezoidal rule using derivative information are studied for periodic integrands and integrals along the entire real line. Integrands which are analytic within a half plane or within a strip containing the path of integration are considered. Derivative-free error bounds are obtained. Alternative approaches to including derivative information are discussed.

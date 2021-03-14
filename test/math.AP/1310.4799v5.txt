@@ -1,0 +1,1 @@
+We construct an initial data for two-dimensional Euler equation in a disk for which the gradient of vorticity exhibits double exponential growth in time for all times. This estimate is known to be sharp - the double exponential growth is the fastest possible growth rate.

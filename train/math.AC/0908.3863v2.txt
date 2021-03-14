@@ -1,0 +1,1 @@
+We develop a geometric theory for difference equations with a given group of automorphisms. To solve this problem we extend the class of difference fields to the class of absolutely flat simple difference rings called pseudofields. We prove the Nullstellensatz over pseudofields and investigate geometric properties of pseudovarieties.

@@ -1,0 +1,1 @@
+Let k be a field of arbitrary characteristic and let Q be a quiver of finite representation type. In this paper we prove that if M is an indecomposable kQ-module then the universal deformation ring of M over kQ is isomorphic to k.

@@ -1,0 +1,1 @@
+The purpose of this paper is to give applications of the Eilenberg-Moore type spectral sequence converging to the relative loop homology algebra of a Gorenstein space, which is introduced in the previous paper due to the authors. Moreover, it is proved that the spectral sequence is functorial on the category of simply-connected Poincar\'e duality spaces over a space.

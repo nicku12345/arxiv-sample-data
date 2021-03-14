@@ -1,0 +1,1 @@
+This paper considers a generalisation of the idea of a Hopf algebra in which a commutative ring replaces the field in the unit and counit. It is motivated by an example from the inverse scattering formalism for solitons. We begin with the corresponding idea for groups, where the concept of the identity is altered.

@@ -1,0 +1,1 @@
+We study local bifurcation from an eigenvalue with multiplicity greater than one for a class of semilinear elliptic equations. We evaluate the exact number of bifurcation branches of non trivial solutions and we compute the Morse index of the solutions in those branches.

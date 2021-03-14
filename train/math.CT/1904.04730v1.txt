@@ -1,0 +1,1 @@
+Let C be a triangulated category with a Serre functor S and X a non-zero contravariantly finite rigid subcategory of C. Then X is cluster tilting if and only if the quotient category C/X is abelian and S(X)=X[2]. As an application, this result generalizes work by Beligiannis.

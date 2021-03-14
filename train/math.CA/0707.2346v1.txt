@@ -1,0 +1,1 @@
+In this paper we give a q-analogue of the Hardy's theorem for the q-Bessel Fourier transform. The celebrated theorem asserts that if a function f and its Fourier transform \hat{f} satisfying |f(x)|\leq c.e^{-{1/2} x^2} and |\hat{f}(x)|\leq c.e^{-{1/2} x^2} for all x\in\mathbb{% R} then f(x)=\text{const}.e^{-{1/2} x^2}.

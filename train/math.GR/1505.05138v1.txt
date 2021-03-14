@@ -1,0 +1,1 @@
+Let G be a finite group and d the degree of a complex irreducible character of G, then write |G|=d(d+e) where e is a nonnegative integer. We prove that |G|\leq e^4-e^3 whenever e>1. This bound is best possible and improves on several earlier related results.

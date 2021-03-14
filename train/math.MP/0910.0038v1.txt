@@ -1,0 +1,1 @@
+In this paper, we introduce the h-analogue of Fibonacci numbers for non-commutative h-plane. For h h'= 1 and h = 0, these are just the usual Fibonacci numbers as it should be. We also derive a collection of identities for these numbers. Furthermore, h-Binet's formula for the h-Fibonacci numbers is found and the generating function that generates these numbers is obtained.

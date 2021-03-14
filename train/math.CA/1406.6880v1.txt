@@ -1,0 +1,1 @@
+We examine a result of A. Iserles and E. B. Saff, use it to prove a conjecture of S. Fisk that a linear operator which maps monomials to Legendre polynomials also preserves zeros in the open interval |x|<1, and state a more general version of the conjecture for the Jacobi polynomials.

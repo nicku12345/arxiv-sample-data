@@ -1,0 +1,1 @@
+We show that the absolute value of the determinant of a matrix with random independent (but not necessarily iid) entries is strongly concentrated around its mean. As an application, we show that the Godsil-Gutman and Barvinok estimators for the permanent of a strictly positive matrix give sub-exponential approximation ratios with high probability.

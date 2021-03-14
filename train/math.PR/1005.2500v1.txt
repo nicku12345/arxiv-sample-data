@@ -1,0 +1,1 @@
+In this work the existence of solutions of one-dimensional backward dou- bly stochastic differential equations (BDSDEs in short) where the coefficient is left-Lipschitz in y (may be discontinuous) and Lipschitz in z is studied. Also, the associated comparison theorem is obtained.

@@ -1,0 +1,1 @@
+A weak bialgebra is known to be a special case of a bialgebroid. In this paper we study the relationship of this fact with the Tannaka theory of bialgebroids as developed in [4]. We obtain a Tannaka representation theorem with respect to a separable Frobenius fiber functor.

@@ -1,0 +1,1 @@
+In the context of orthogonal polynomials in the plane we introduce the notion of a polynomially small (PS) perturbation of a measure. In such a case we establish relative asymptotic results for the two sequences of the associated orthonormal polynomials. We also provide results dealing with the behaviour of the zeros of PS perturbations of area orthogonal (Bergman) polynomials.

@@ -1,0 +1,1 @@
+Given a truncated path algebra A=\frac{\Bbbk Q}{J^k} we prove that \fidim A = \fidim A^{\op}. We also compute the \phi-dimension of A in function of the \phi-dimension of \frac{\Bbbk Q}{J^2} when Q has no sources nor sinks. This allows us to bound the \phi-dimension for truncated path algebras. Finally, we characterize A when its \phi-dimension is equal to 1.

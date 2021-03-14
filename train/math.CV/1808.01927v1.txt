@@ -1,0 +1,1 @@
+Let (X, T^{1,0}X) be a compact strongly pseudoconvex CR manifold of dimension 2n+1. Assume that X admits a Torus action T^d. In this work, we study the behavior of torus equivariant Szeg\H{o} kernels and prove that the weighted torus equivariant Szeg\H{o} kernels admit asymptotic expansions.

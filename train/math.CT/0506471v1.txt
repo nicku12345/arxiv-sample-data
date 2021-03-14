@@ -1,0 +1,1 @@
+This explains a computer formulation of Gabriel-Zisman localization of categories in the proof assistant Coq. It includes both the general localization construction with the proof of GZ's Lemma 1.2, as well as the construction using calculus of fractions. The proof files are bundled with the other preprint "Files for GZ localization" posted simultaneously.

@@ -1,0 +1,1 @@
+There exist operators A such that : for any sequence of contractions \{A_n\}, there is a total sequence of mutually orthogonal projections \{E_n\} such that \Sigma E_nAE_n=\bigoplus A_n.

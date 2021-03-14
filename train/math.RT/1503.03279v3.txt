@@ -1,0 +1,1 @@
+Let p(t)\in\mathbb C[t] be a polynomial with distinct roots and nonzero constant term. We describe, using Fa\'a de Bruno's formula and Bell polynomials, the universal central extension in terms of generators and relations for the hyperelliptic current Lie algebras \mathfrak g\otimes R whose coordinate ring is of the form R=\mathbb C[t,t^{-1},u\,|\, u^2=p(t)].

@@ -1,0 +1,1 @@
+The mapping torus of an endomorphism \Phi of a group G is the HNN-extension G*_G with bonding maps the identity and \Phi. We show that a mapping torus of an injective free group endomorphism has the property that its finitely generated subgroups are finitely presented and, moreover, these subgroups are of finite type.

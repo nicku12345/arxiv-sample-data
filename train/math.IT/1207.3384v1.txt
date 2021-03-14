@@ -1,0 +1,1 @@
+In this paper we give the structure of constacyclic codes over formal power series and chain rings. We also present necessary and sufficient conditions on the existence of MDS codes over principal ideal rings. These results allow for the construction of infinite families of MDS self-dual codes over finite chain rings, formal power series and principal ideal rings.

@@ -1,0 +1,1 @@
+Given a centred distribution, can one find a time-homogeneous martingale diffusion starting at zero which has the given law at time 1? We answer the question affirmatively if generalized diffusions are allowed.

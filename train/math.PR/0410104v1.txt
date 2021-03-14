@@ -1,0 +1,1 @@
+We establish both uniform and nonuniform error bounds of the Berry-Esseen type in normal approximation under local dependence. These results are of an order close to the best possible if not best possible. They are more general or sharper than many existing ones in the literature. The proofs couple Stein's method with the concentration inequality approach.

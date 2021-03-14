@@ -1,0 +1,1 @@
+We prove that partially ordered set has finite number of finite-dimensional indecomposable nonequivalent Hilbert representations with orthoscalarity condition if and anly if it has finite number of indecomposable linear representations. We show that each indecomposable representation of the poset of finite type could be unitarized with some weight.

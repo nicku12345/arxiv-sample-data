@@ -1,0 +1,1 @@
+We show that any element of the special linear group SL_2(R) is a product of two exponentials if the ring R is either the ring of holomorphic functions on an open Riemann surface or the disc algebra. This is sharp: one exponential factor is not enough since the exponential map corresponding to SL_2(\mathbb{C}) is not surjective. Our result extends to the linear group GL_2(R).

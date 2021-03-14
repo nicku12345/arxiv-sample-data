@@ -1,0 +1,1 @@
+Let (X,\Delta) be a proper dlt pair and L a nef Cartier divisor such that aL-(K_X+\Delta) is nef and log big on (X,\Delta) for some a\in {\mathbb Z}_{>0}. Then |mL| is base point free for every m\gg 0.

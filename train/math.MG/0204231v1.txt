@@ -1,0 +1,1 @@
+We prove that Dirichlet stereohedra for non-cubic crystallographic groups in dimension 3 cannot have more than 80 facets. The bound depends on the particular crystallographic group considered and is above 50 only on 9 of the 97 affine conjugacy classes of them.   We also construct Dirichlet stereohedra with 32 and 29 facets for a hexagonal and a tetragonal group, respectively.

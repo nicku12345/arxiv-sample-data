@@ -1,0 +1,1 @@
+We describe several experimental results obtained in four candidates social choice elections. These include the Condorcet and Borda paradoxes, as well as the Condorcet efficiency of plurality voting with runoff. The computations are done by Normaliz. It finds precise probabilities as volumes of polytopes and counting functions encoded as Ehrhart series of polytopes.

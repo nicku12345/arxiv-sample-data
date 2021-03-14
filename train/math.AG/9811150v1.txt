@@ -1,0 +1,1 @@
+We use basic algebraic topology and Ellingsrud-Stromme results on the Betti numbers of punctual Hilbert schemes of surfaces to compute a generating function for the Euler characteristic numbers of the Douady spaces of "n-points" associated with a complex surface. The projective case was first proved by L. G\"ottsche.

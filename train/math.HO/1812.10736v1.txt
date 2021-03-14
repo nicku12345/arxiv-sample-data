@@ -1,0 +1,1 @@
+This article is dedicated to domino tilings of certain types of graph grids. For each of these grids, the domino tilings are represented using linear-recurrent sequences. New dependencies are proved that are not included in Neil Sloane's Online Encyclopedia of Integer Sequences (OEIS).

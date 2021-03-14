@@ -1,0 +1,1 @@
+Let A,B\in B(H). We present among others a simple proof of the widely known result stating that if 0\leq A\leq B, then \sqrt A\leq \sqrt B. The same idea is used to prove that if 0\leq A\leq B and A is invertible, then B too is invertible and B^{-1}\leq A^{-1}.

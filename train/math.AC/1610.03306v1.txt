@@ -1,0 +1,1 @@
+In this paper, we give a formula to compute all the top degree graded Betti numbers of the path ideals of a cycle. As a consequence we can give a formula to compute its projective dimension and regularity.

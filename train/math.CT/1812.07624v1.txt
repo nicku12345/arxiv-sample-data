@@ -1,0 +1,1 @@
+Goerss--Hopkins obstruction theory is a powerful tool for constructing structured ring spectra from purely algebraic data. Using the formalism of model \infty-categories, we provide a generalization that applies in an arbitrary presentably symmetric monoidal stable \infty-category (such as that of equivariant spectra or of motivic spectra).

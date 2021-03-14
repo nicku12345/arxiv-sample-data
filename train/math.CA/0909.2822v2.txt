@@ -1,0 +1,1 @@
+Racah and Wilson polynomials with dilated and translated argument are reparametrized such that the polynomials are continuous in the parameters as long as these are nonnegative, and such that restriction of one or more of the new parameters to zero yields orthogonal polynomials lower in the Askey scheme. Geometrically this will be described as a manifold with corners.

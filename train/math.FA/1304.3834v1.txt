@@ -1,0 +1,1 @@
+Let m,n be positive integers. In this short note we prove that the set of all continuous and surjective functions from \mathbb{R}^{m} to \mathbb{R}^{n} contains (excluding the 0 function) a \mathfrak{c}-dimensional vector space. This result is optimal in terms of dimension.

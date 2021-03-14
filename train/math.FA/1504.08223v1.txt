@@ -1,0 +1,1 @@
+Based on a construction method introduced by J. Bourgain and F. Delbaen, we give a general definition of a Bourgain-Delbaen space and prove that every infinite dimensional separable \mathcal{L}_\infty-space is isomorphic to such a space. Furthermore, we provide an example of a \mathcal{L}_\infty and asymptotic c_0 space not containing c_0.

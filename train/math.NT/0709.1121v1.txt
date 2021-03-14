@@ -1,0 +1,1 @@
+Let Gamma be a congruence subgroup of the Picard modular group of an imaginary number field k, and let D be the associated symmetric space. We describe a method to compute the integral cohomology of the locally symmetric space Gamma\D. The method is implemented for the case k=Q(i) and k=Q(sqrt(-3)), and the cohomology is computed for various Gamma.

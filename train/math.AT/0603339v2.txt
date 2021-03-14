@@ -1,0 +1,1 @@
+We construct a pseudo-localization of the 2-category of combinatorial Quillen model categories with respect to Quillen equivalences, and then verify that it embeds in a 2-category of Grothendieck derivators.

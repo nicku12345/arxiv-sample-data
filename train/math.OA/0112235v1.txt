@@ -1,0 +1,1 @@
+We study the K-homology of the rotation algebras A_{\theta} using the six term cyclic sequence for the K-homology of a crossed product by {\bf Z}. In the case where \theta is irrational we use Pimsner and Voiculescu's work on AF-embeddings of the A_{\theta} to search for the missing generator of the even K-homology.

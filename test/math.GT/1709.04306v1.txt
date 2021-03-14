@@ -1,0 +1,1 @@
+In this note I present my understanding of, that is to say the way I look at, David Gabai's proof of his recent 4-Dimensional Light Bulb Theorem (4D-LBT). His construction, entirely smooth, is an ingenious amalgam of classical moves, and represents the first new hands-on advance in constructive smooth 4-manifold theory, that I am aware of, in a long time.

@@ -1,0 +1,1 @@
+We present a numerical study of the nonlinear system of \Phi^4_0  equations of motion. The solution is obtained iteratively, starting from a precise point-sequence of the appropriate Banach space, for small values of the coupling constant. The numerical results are in perfect agreement with the main theoretical results established in a series of previous publications.

@@ -1,0 +1,1 @@
+Let (\Omega_1, \mathcal{F}_1, \mu_1), (\Omega_2, \mathcal{F}_2, \mu_2) be two probabilty spaces, 1\leq p\leq +\infty and X a Banach space. In this work we show that L^p(\mu_1, X), VB^p (\mu_1,X), cabv(\mu_{1},X) are isomorphic to L^p(\mu_2, X), VB^p(\mu_2, X), cabc(\mu_2, X) respectively, if L^1(\mu_1) is strongly isomorphic to L^1(\mu_2).

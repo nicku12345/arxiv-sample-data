@@ -1,0 +1,1 @@
+New recursive equations designed for the G/G/m queue are presented. These equations describe the queue in terms of recursions for the arrival and departure times of customers, and involve only the operations of maximum, minimum and addition.

@@ -1,0 +1,1 @@
+Zuk's criterion give us a condition for a finitely generated group to have Property(T): the smallest non - zero eigenvalue of Laplace operator corresponding to the simple random walk on the associated graph have to be greater than 1/2. We present here two examples that prove that this condition cannot be improved.

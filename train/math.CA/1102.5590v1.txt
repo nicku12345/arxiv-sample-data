@@ -1,0 +1,1 @@
+After introducing the concept of null functions, we shall present a uniqueness result in the sense of the null functions for the Laplace transform on time scales with arbitrary graininess. The result can be regarded as a dynamic extension of the well-known Lerch's theorem.

@@ -1,0 +1,1 @@
+In this paper we verify a conjecture by Kozlov (Discrete Comput Geom 18 (1997) 421--431), which describes the convex hull of the set of face vectors of r-colorable complexes on n vertices. As part of the proof we derive a generalization of Tur\'{a}n's graph theorem.

@@ -1,0 +1,1 @@
+We describe briefly in this note a procedure for consistently estimating the marginal likelihood of a statistical model through a sample from the posterior distribution of the model parameters.

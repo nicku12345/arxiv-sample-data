@@ -1,0 +1,1 @@
+We generate the fractional Poisson process by subordinating the standard Poisson process to the inverse stable subordinator. Our analysis is based on application of the Laplace transform with respect to both arguments of the evolving probability densities.

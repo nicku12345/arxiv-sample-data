@@ -1,0 +1,1 @@
+We utilise the theory of crossed simplicial groups to introduce a collection of local Quillen model structures on the category of simplicial presheaves with a compact planar Lie group action on a small Grothendieck site. As an application, we give a characterisation of equivariant cohomology theories on a site as derived mapping spaces in these model categories.

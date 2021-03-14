@@ -1,0 +1,1 @@
+For any lattice congruence of the weak order on \mathfrak{S}_n, N. Reading proved that glueing together the cones of the braid fan that belong to the same congruence class defines a complete fan. We prove that this fan is the normal fan of a polytope.

@@ -1,0 +1,1 @@
+We study some specializations and extensions of the quantum version of the MacMahon Master Theorem derived by Garoufalidis, Le and Zeilberger. In particular, we obtain a (t,q)-analogue for the Cartier-Foata noncommutative version and a semi-strong (t,q)-analogue for the contextual algebra.

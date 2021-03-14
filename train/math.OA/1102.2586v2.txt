@@ -1,0 +1,1 @@
+We provide, in the spirit of a 1968 paper of C. Delaroche, new conditions under which a C^*-algebra has a nonzero center.We also present an example of a (separable) AF algebra with center \{0\} but whose all the primitive ideals are modular, thus answering a question from that paper of Delaroche.

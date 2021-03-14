@@ -1,0 +1,1 @@
+We consider a random wave model introduced by Zelditch to study the behavior of typical quasi-modes on a Riemannian manifold. Using the exponential moment method, we show that random waves satisfy the quantum unique ergodicity property with probability one under mild growth assumptions.

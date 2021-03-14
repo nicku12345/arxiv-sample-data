@@ -1,0 +1,1 @@
+This paper contains an L^{p} improving result for convolution operators defined by singular measures associated to hypersurfaces on the motion group. This needs only mild geometric properties of the surfaces, and it extends earlier results on Radon type transforms on \mathbb{R}^{n}. The proof relies on the harmonic analysis on the motion group.

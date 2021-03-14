@@ -1,0 +1,1 @@
+We prove optimal (that is, without loss of derivatives) dispersive estimates for the Schrodinger group e^{it(-\Delta+V)} for a class of real-valued potentials V\in C^k(R^n) with k>(n-3)/2, where n=4,5.

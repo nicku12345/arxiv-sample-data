@@ -1,0 +1,1 @@
+In this paper we show that on a general sextic hypersurface X\subset \bf P^4, a rank 2 vector bundle E splits if and only if h^1(E(n))=0 for any n \in \bf Z. We get thus a characterization of complete intersection curves in X

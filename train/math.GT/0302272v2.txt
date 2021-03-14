@@ -1,0 +1,1 @@
+We show that if a knot or link has n thin levels when put in thin position then its exterior contains a collection of n disjoint, non-parallel, planar, meridional, essential surfaces. A corollary is that there are at least n/3 tetrahedra in any triangulation of the complement of such a knot.

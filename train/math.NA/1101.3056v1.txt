@@ -1,0 +1,1 @@
+This paper presents a finite step method for computing the binary solution to an overdetermined system of linear algebraic equations Ax = b, where A is an m x n real matrix of rank n < m, and b is a real m-vector. The method uses the optimal policy of dynamic programming along with the branch and bound concept. Numerical examples are given.

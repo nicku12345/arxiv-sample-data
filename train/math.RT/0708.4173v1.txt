@@ -1,0 +1,1 @@
+A recollement describes one triangulated category T as "glued together" from two others, S and U. The definition is not symmetrical in S and U, but this note shows how S and U can be interchanged when T has a Serre functor.

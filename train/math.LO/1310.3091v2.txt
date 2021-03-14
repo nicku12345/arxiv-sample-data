@@ -1,0 +1,1 @@
+In this paper, we will generalize the definition of partially random or complex reals, and then show the duality of random and complex, i.e., a generalized version of Levin-Schnorr's theorem. We also study randomness from the view point of arithmetic using the relativization to a complete \Pi^0_1-class.

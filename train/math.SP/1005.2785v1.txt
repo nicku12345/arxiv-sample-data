@@ -1,0 +1,1 @@
+We show that the absolute values of non-positive eigenvalues of Schr\"odinger operators with complex potentials can be bounded in terms of L_p-norms of the potential. This extends an inequality of Abramov, Aslanyan, and Davies to higher dimensions and proves a conjecture by Laptev and Safronov. Our main ingredient are the uniform Sobolev inequalities of Kenig, Ruiz, and Sogge.

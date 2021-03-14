@@ -1,0 +1,1 @@
+For a given length and a given degree and an arbitrary partition of the positive integers, there always is a cell containing a polynomial progression of that length and that degree; moreover, the coefficients of the generating polynomial can be chosen from a given semigroup and one can prescribe the occurring powers. A multidimensional version is included.

@@ -1,0 +1,1 @@
+A random variable is sampled from a discrete distribution. The missing mass is the probability of the set of points not observed in the sample. We sharpen and simplify McAllester and Ortiz's results (JMLR, 2003) bounding the probability of large deviations of the missing mass. Along the way, we refine and rigorously prove a fundamental inequality of Kearns and Saul (UAI, 1998).

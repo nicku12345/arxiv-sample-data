@@ -1,0 +1,1 @@
+This is a report on recent work of Chalupnik and Touze. We explain the Koszul duality for the category of strict polynomial functors and make explicit the underlying monoidal structure which seems to be of independent interest. Then we connect this to Ringel duality for Schur algebras and describe Serre duality for strict polynomial functors.

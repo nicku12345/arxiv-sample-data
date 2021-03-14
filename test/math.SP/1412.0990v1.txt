@@ -1,0 +1,1 @@
+For the scattering system given by the Laplacian in a half-space with a periodic boundary condition, we derive resolvent expansions at embedded thresholds, we prove the continuity of the scattering matrix, and we establish new formulas for the wave operators.

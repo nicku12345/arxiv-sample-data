@@ -1,0 +1,1 @@
+We consider k-dimensional central sections of the unit ball of \ell_p^n (denoted B_p^n) and we prove that their volume are bounded by the volume of B_p^n whenever 1<p<2 and 1\le k\le (n-1)/2 or k=n-1. We also consider 0<p<1 and other cases. We obtain sharp inequalities involving Gamma Function in order to get these results.

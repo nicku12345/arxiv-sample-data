@@ -1,0 +1,1 @@
+We determine the explicit formulas for the sum of products of homogeneous multiple harmonic sums \sum_{k=1}^n \prod_{j=1}^r H_k(\{1\}^{\lambda_j}) when \sum_{j=1}^r \lambda_j\leq 5. We apply these identities to the study of two congruences modulo a power of a prime.

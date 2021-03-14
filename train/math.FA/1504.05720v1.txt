@@ -1,0 +1,1 @@
+We introduce new classes of modulation spaces over phase space. By means of the Kohn-Nirenberg correspondence, these spaces induce norms on pseudo-differential operators that bound their operator norms on L^p-spaces, Sobolev spaces, and modulation spaces.

@@ -1,0 +1,1 @@
+Kingman has shown, under very weak conditions on the interarrival- and sevice-time distributions, that First-Come-First-Served minimizes the variance of the waiting time among possible service disciplines. We show, under the same conditions, that Last-Come-First-Served maximizes the variance of the waiting time, thereby giving an upper bound on the variance among all disciplines.

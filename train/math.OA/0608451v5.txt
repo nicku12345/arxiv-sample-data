@@ -1,0 +1,1 @@
+We give a new proof of a result of Ozawa showing that if a von Neumann subalgebra Q of a free group factor L\Bbb F_n, 2\leq n\leq \infty has relative commutant diffuse (i.e. without atoms), then Q is amenable.

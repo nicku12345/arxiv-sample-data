@@ -1,0 +1,1 @@
+We give a simplified proof of elimination of imaginaries (in the geometric sorts) in ACVF, based on ideas of Hrushovski. This proof manages to avoid many of the technical issues which arose in the original proof by Haskell, Hrushovski, and Macpherson.

@@ -1,0 +1,1 @@
+Let b \ge 2 be an integer. We prove that the b-adic expansion of every irrational algebraic number cannot have low complexity. Furthermore, we establish that irrational morphic numbers are transcendental, for a wide class of morphisms. In particular, irrational automatic numbers are transcendental. Our main tool is a new, combinatorial transcendence criterion.

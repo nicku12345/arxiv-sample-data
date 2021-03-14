@@ -1,0 +1,1 @@
+For each p>1 and each positive integer m we use divided differences to give intrinsic characterizations of the restriction of the Sobolev space W^m_p(R) to an arbitrary closed subset of the real line.

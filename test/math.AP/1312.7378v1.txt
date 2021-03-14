@@ -1,0 +1,1 @@
+In this article, we establish several almost critical regularity conditions such that the weak solutions of the 3D Navier-Stokes equations become regular, based on one component of the solutions, say u_3 and \partial_3u_3.

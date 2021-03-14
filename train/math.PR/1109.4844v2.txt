@@ -1,0 +1,1 @@
+We prove Edgeworth type expansions for distribution functions of sums of free random variables under minimal moment conditions. The proofs are based on the analytic definition of free convolution. We apply these results to the expansion of densities to derive expansions for the free entropic distance of sums to the Wigner law.

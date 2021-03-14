@@ -1,0 +1,1 @@
+An admissible estimator of the eigenvalues of the variance-covariance matrix is given for multivariate normal distributions with respect to the scale-invariant squared error loss.

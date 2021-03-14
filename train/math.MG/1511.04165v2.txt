@@ -1,0 +1,1 @@
+For any Wulff shape, its dual Wulff shape is naturally defined. A self-dual Wulff shape is a Wulff shape equaling its dual Wulff shape exactly. In this paper, it is shown that a Wulff shape is self-dual if and only if the spherical convex body induced by it is of constant width {\pi}/{2}.

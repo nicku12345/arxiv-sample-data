@@ -1,0 +1,1 @@
+A simple formula computing the multiplier ideal of a monomial ideal on an arbitrary affine toric variety is given. Variants for the multiplier module and test ideals are also treated.

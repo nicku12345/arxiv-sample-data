@@ -1,0 +1,1 @@
+It is proved that if a left brace A has the operation \ast associative, then A is a two-sided brace. Consequently, A is a Jacobson radical ring. This answers a question of Ced\'o, Gateva-Ivanova and Smoktunowicz.

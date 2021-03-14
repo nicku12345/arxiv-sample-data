@@ -1,0 +1,1 @@
+We compute the rate of convergence of forward, backward and central finite difference \theta-schemes for linear PDEs with an arbitrary odd order spatial derivative term. We prove convergence of the first or second order for smooth and less smooth initial data.

@@ -1,0 +1,1 @@
+We study continuous, symmetric and unanimous aggregation functions and continuous majority functions and prove that such functions exist on a choice space if and only if the choice space is contractible.

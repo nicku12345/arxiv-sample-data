@@ -1,0 +1,1 @@
+Richard Stanley proved that the centralized/normalized version of the random variable "length of largest up-down subsequence" in a random permutation of length n is asymptotically normal. We go beyond and present a more refined asymptotic formula for the moments.

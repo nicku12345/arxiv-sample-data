@@ -1,0 +1,1 @@
+Let X be a simplicial complex with the ground set V. Define its Alexander dual as a simplicial complex X* = {A \subset V: V \setminus A \notin X}. The combinatorial Alexander duality states that the i-th reduced homology group of X is isomorphic to the (|V|-i-3)-th reduced cohomology group of X* (over a given commutative ring R). We give a self-contained proof.

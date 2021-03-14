@@ -1,0 +1,1 @@
+This note is devoted to study the output stabilizability of a simplified and a one-dimensional diffusion equation. Necessary and sufficient conditions for the system to be output stabilizable will be given. These conditions are given in terms of the eigenvalues of the infinitesimal generator and the Fourier coefficients of input and output operators.

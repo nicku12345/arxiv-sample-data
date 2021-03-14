@@ -1,0 +1,1 @@
+As an application of the method of Thue-Siegel, we will resolve a conjecture of Walsh to the effect that the Diophantine equation aX^{4} - bY^2=1, for fixed positive integers a and b, possesses at most two solutions in positive integers X and Y. Since there are infinitely many pairs (a,b) for which two such solutions exist, this result is sharp.

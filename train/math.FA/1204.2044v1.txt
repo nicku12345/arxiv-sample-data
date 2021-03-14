@@ -1,0 +1,1 @@
+If X is a separable infinite dimensional Banach space, we construct a bounded and linear operator R on X such that  A_R=\{x \in X, \|R^tx\| \rightarrow \infty\}  is not dense and has non empty interior with the additional property that R can be written I+K, where I is the identity and K is a compact operator. This answers two recent questions of H\'ajek and Smith.

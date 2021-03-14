@@ -1,0 +1,1 @@
+Tannaka's Theorem states that a linear algebraic group G is determined by the category of finite dimensional G-modules and the forgetful functor. We extend this result to linear differential algebraic groups by introducing a category corresponding to their representations and show how this category determines such a group.

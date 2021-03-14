@@ -1,0 +1,1 @@
+We study the hyperbolicity of a class of horseshoes exhibiting an internal tangency, i.e. a point of homoclinic tangency accumulated by periodic points. In particular these systems are strictly not uniformly hyperbolic. However we show that all the Lyapunov exponents of all invariant measures are uniformly bounded away from 0. This is the first known example of this kind.

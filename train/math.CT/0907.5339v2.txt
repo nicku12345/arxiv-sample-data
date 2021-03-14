@@ -1,0 +1,1 @@
+We define a new model structure on the category of small categories, which is intimately related to the notion of coverings and fundamental groups of small categories. Fibrant objects in the model structure coincide with groupoids, and the fibrant replacement is the groupoidification.

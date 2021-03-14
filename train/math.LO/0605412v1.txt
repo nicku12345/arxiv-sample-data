@@ -1,0 +1,1 @@
+We exhibit a simplified version of the construction of a field of Morley rank p with a predicate of rank p-1, extracting the main ideas for the construction from previous papers and refining the arguments. Moreover, an explicit axiomatization is given, and ranks are computed.

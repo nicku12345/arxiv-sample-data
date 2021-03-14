@@ -1,0 +1,1 @@
+Let \mathbb{Q_3} the smooth quadric in P^4 (the 4-dimensional projective space). In this note we completely describe the closure of the open set of vector bundles in {\bf M}_{\mathbb{Q}_3}(0,2,0). This description gives another example where the conditions given in math.AG/0112199 for a sheaf to be limit of vector bundles are necessary and sufficient.

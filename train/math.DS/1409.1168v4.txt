@@ -1,0 +1,1 @@
+In this paper, we study a class of Rauzy fractals {\mathcal R}_a given by the polynomial x^3- ax^2+x-1 where a \geq 2 is an integer. In particular we give explicitly an automaton that generates the boundary of {\mathcal R}_a and using an exotic numeration system we prove that {\mathcal R}_a is homeomorphic to a topological disk.

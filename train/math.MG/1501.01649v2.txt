@@ -1,0 +1,1 @@
+We show that for p\geq 1 and r\geq 1 the p-th moment of the l_r-norm of a log-concave random vector is comparable to the sum of the first moment and the weak p-th moment up to a constant proportional to r. This extends the previous result of Paouris concerning Euclidean norms.

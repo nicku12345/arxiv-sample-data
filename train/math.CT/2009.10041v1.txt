@@ -1,0 +1,1 @@
+In this article we describe properties of the 2-functor from the 2-category of comonads to the 2-category of functors that sends a comonad to its forgetful functor. This allows us to describe contexts where algebras over a monad are enriched tensored and cotensored over coalgebras over a comonad.

@@ -1,0 +1,1 @@
+We introduce semiadditive 2-categories, 2-categories with binary 2-biproducts and a zero object, as a suitable framework for typing tensor calculus. Tensors are the generalization of matrices, whose components have more than two indices.

@@ -1,0 +1,1 @@
+We will say that the permutations f_1,...,f_n is an e-solution of an equation if the normalized Hamming distance between its l.h.p. and r.h.p. is less than e. We give a sufficient conditions when near to an e-solution exists an exact solution and some examples when there does not exist such a solution.

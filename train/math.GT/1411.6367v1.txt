@@ -1,0 +1,1 @@
+Let K be a link of Conway's normal form C(m), m \geq 0, or C(m,n) with mn\textgreater{}0, and let D be a trigonal diagram of K. We show that it is possible to transform D into an alternating trigonal diagram, so that all intermediate diagrams remain trigonal, and the number of crossings never increases.

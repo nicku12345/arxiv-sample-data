@@ -1,0 +1,1 @@
+We develop a general solution for the Fokker-Planck (Kolomogorov) equation representing the diffusion limit of the Wright-Fisher model of random genetic drift for an arbitrary number of alleles at a single locus. From this solution, we can readily deduce information about the evolution of a Wright-Fisher population.

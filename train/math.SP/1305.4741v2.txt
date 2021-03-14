@@ -1,0 +1,1 @@
+We apply topological methods to study eigenvalues of the Laplacian on closed hyperbolic surfaces. For any closed hyperbolic surface S of genus g, we get a geometric lower bound on {\lambda_{2g-2}}(S): {\lambda_{2g-2}}(S) > 1/4 + {\epsilon_0}(S), where {\epsilon_0}(S) > 0 is an explicit constant which depends only on the systole of S

@@ -1,0 +1,1 @@
+We prove the so-called Severi inequality, stating that the invariants of a minimal smooth complex projective surface of maximal Albanese dimension satisfy: K^2_S >= 4\chi(S).

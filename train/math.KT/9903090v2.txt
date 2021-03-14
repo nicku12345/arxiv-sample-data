@@ -1,0 +1,1 @@
+The Novikov complex of a circle-valued Morse function is constructed algebraically from the Morse-Smale complex of the restriction to a fundamental domain of the real-valued Morse function on the pullback infinite cyclic cover.

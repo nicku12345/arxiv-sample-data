@@ -1,0 +1,1 @@
+We consider the Green ring R_{KC} for a cyclic p-group C over a field K of prime characteristic p and determine the Adams operations \psi^n in the case where n is not divisible by p. This gives information on the decomposition into indecomposables of exterior powers and symmetric powers of KC-modules.

@@ -1,0 +1,1 @@
+To any pair of coverings f_i: X \ra X_i, i = 1,2 of smooth projective curves one can associate an abelian subvariety of the Jacobian J_X, the Prym variety P(f_1,f_2) of the pair (f_1,f_2). In some cases we can compute the type of the restriction of the canonical principal polarization of JX. We obtain 2 families of Prym-Tyurin varieties of exponent 6.

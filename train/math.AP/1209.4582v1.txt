@@ -1,0 +1,1 @@
+We consider a class of power-type nonlinear Schr\"odinger equations for which the power of the nonlinearity lies between the mass- and energy-critical exponents. Following the concentration-compactness approach, we prove that if a solution u is bounded in the critical Sobolev space throughout its lifespan, that is, u\in L_t^\infty \dot{H}_x^{s_c}, then u is global and scatters.

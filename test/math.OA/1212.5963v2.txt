@@ -1,0 +1,1 @@
+We prove that the C*-algebra of the universal (n,m)-dynamical system may be obtained, up to Morita-Rieffel equivalence, as the crossed-product relative to an interaction on a commutative C*-algebra. The interaction involved is shown not to be part of an interaction group.

@@ -1,0 +1,1 @@
+Let \pi S(t) denote the argument of the Riemann zeta-function at the point \frac12+it. Assuming the Riemann Hypothesis, we sharpen the constant in the best currently known bounds for S(t) and for the change of S(t) in intervals. We then deduce estimates for the largest multiplicity of a zero of the zeta-function and for the largest gap between the zeros.

@@ -1,0 +1,1 @@
+This article derives the distribution of random matrix \mathbf{X} associated with the transformation \mathbf{Y} = \mathbf{X}^{*}\mathbf{X}, such that \mathbf{Y} has a Riesz distribution for real normed division algebras. Two versions of this distributions are proposed and some of their properties are studied.

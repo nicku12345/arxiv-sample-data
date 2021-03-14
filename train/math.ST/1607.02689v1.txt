@@ -1,0 +1,1 @@
+Diaconis and Perlman (1990) conjecture that the distribution functions of two weighted sums of iid gamma random variables cross exactly once if one weight vector majorizes the other. We disprove this conjecture when the shape parameter of the gamma variates is \alpha <1 and prove it when \alpha\geq 1.

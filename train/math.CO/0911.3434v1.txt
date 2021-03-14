@@ -1,0 +1,1 @@
+The regular 2n-gon (square, hexagon, octagon, ...) is subdivided into smaller polygons (tiles) by the subset of diagonals which run parallel to any of the 2n sides. The manuscript reports on the number of tiles up to the 78-gon.

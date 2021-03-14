@@ -1,0 +1,1 @@
+The SL(3,C)-covariant 9-dimensional equation for a free 3-spinor particle is transformed into the Dirac-like form (p_A\delta^A - M)\Psi=0. However, the corresponding \delta matrices do not satisfy the Dirac algebra. It is shown that \delta^A lead to a Finslerian generalization of the Duffin-Kemmer algebra. The Appendix contains an explicit realization of the \delta matrices.

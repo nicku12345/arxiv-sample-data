@@ -1,0 +1,1 @@
+We calculate the Gromov--Hausdorff distance between a line segment and a circle in the Euclidean plane. To do that, we introduced a few new notions like round spaces and nonlinearity degree of a metric space.

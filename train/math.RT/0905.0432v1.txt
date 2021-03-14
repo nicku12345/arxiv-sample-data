@@ -1,0 +1,1 @@
+We generalize Soergel's tilting algorithm to singular weights and deduce from this the validity of the Lascoux-Leclerc-Thibon conjecture on the connection between the canonical basis of the basic submodule of the Fock module and the representation theory of the Hecke-algebras at root of unity.

@@ -1,0 +1,1 @@
+We prove L^1 --> L^\infty estimates for linear Schroedinger equations in dimensions one and three. The potentials are only required to satisfy some mild decay assumptions. No regularity on the potentials is assumed.

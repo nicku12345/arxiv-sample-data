@@ -1,0 +1,1 @@
+C-cross topologies are introduced. Modifcations of the Kuratowski-Ulam Theorem are considered. Cardinal invariants add, cof, cov and non with respect to meager or nowhere dense subsets are compared. Remarks on invariants cof(nwdY) are mentioned for dense subspaces Y of X.

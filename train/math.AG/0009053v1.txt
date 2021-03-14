@@ -1,0 +1,1 @@
+This paper contains some applications of Fourier-Mukai techniques to the birational geometry of threefolds. In particular, we prove that birational Calabi-Yau threefolds have equivalent derived categories. To do this we show how flops arise naturally as moduli spaces of perverse coherent sheaves.

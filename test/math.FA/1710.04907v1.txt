@@ -1,0 +1,1 @@
+In this note we formulate recent stability results for Hardy inequalities in the language of Folland and Stein's homogeneous groups. Consequently, we obtain remainder estimates for Rellich type inequalities on homogeneous groups. Main differences from the Euclidean results are that the obtained stability estimates hold for any homogeneous quasi-norm.

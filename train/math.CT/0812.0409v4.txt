@@ -1,0 +1,1 @@
+We show that for any type in Martin-L\"of Intensional Type Theory, the terms of that type and its higher identity types form a weak omega-category in the sense of Leinster. Precisely, we construct a contractible globular operad of definable composition laws, and give an action of this operad on the terms of any type and its identity types.

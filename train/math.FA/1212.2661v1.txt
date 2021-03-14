@@ -1,0 +1,1 @@
+It is shown that the Hardy-Littlewood maximal function associated to the cube in \mathbb R^n obeys dimensional free bounds in L^p fir p>1. Earlier work only covered the range p>\frac 32.

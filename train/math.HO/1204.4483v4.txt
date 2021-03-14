@@ -1,0 +1,1 @@
+Many of the theorems of real analysis, against the background of the ordered field axioms, are equivalent to Dedekind completeness, and hence can serve as completeness axioms for the reals. In the course of demonstrating this, the article offers a tour of some less-familiar ordered fields, provides some of the relevant history, and considers pedagogical implications.

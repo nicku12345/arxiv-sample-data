@@ -1,0 +1,1 @@
+We use a hocolim approach to the Isomorphism Conjecture in K-Theory to analyze the case of groups of the form G\rtimes Z and G_1*_{G}G_2. As an important corollary we prove that the isomorphism conjecture in K-Theory holds for a finitely generated free group.

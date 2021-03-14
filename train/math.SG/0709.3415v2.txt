@@ -1,0 +1,1 @@
+Symplectic field theory (SFT) is a collection of homology theories that provide invariants for contact manifolds. We give a proof that vanishing of any one of either contact homology, rational SFT or (full) SFT are equivalent. We call a manifold for which these theories vanish "algebraically overtwisted".

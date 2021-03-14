@@ -1,0 +1,1 @@
+We give an extension of Hoeffding's inequality to the case of supermartingales with differences bounded from above. Our inequality strengthens or extends the inequalities of Freedman, Bernstein, Prohorov, Bennett and Nagaev.

@@ -1,0 +1,1 @@
+In this paper we prove that a deformed tensor product of two Lefschetz algebras is a Lefschetz algebra. We then use this result in conjunction with some basic Schubert calculus to prove that the coinvariant ring of a finite reflection has the strong Lefschetz property.

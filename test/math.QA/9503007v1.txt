@@ -1,0 +1,1 @@
+We build the q=-1 defomation of plane on a product of two copies of algebras of functions on the plane. This algebra constains a subalgebra of functions on the plane. We present general scheme (which could be used as well to construct quaternion from pairs of complex numbers) and we use it to derive differential structures, metric and discuss sample field theoretical models.

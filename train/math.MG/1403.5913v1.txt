@@ -1,0 +1,1 @@
+We define a volume function for a robot arms in 3-dimensional Euclidean space and give geometric conditions for its critical points. For 3-arms this volume function is an exact topological Morse function on the 3-sphere.

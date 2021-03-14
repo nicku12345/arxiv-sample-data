@@ -1,0 +1,1 @@
+In this paper, we give some basic properties of the generalized derivation algebra {\rm GDer}(L) of a Hom-Lie superalgebra L. In particular, we prove that {\rm GDer}(L) = {\rm QDer}(L) + {\rm QC}(L), the sum of the quasiderivation algebra and the quasicentroid. We also prove that {\rm QDer}(L) can be embedded as derivations in a larger Hom-Lie superalgebra.

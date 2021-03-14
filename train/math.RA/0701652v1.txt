@@ -1,0 +1,1 @@
+We introduce the notion of bi-monoid in general monoidal category generalizing by this the notion of bialgebra. In the case of bimodules over a noncommutative algebra, we obtain a compatibility condition between ring and coring whenever both structures admit the same underlying bimodule.

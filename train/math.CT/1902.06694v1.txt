@@ -1,0 +1,1 @@
+We show that in the category of preordered sets, there is a natural notion of pretorsion theory, in which the partially ordered sets are the torsion-free objects and the sets endowed with an equivalence relation are the torsion objects. Correspondingly, it is possible to construct a stable category factoring out the objects that are both torsion and torsion-free.

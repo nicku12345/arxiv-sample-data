@@ -1,0 +1,1 @@
+If one is given a rigid triangle in the plane or space, we show that the only motion possible, where each vertex of the triangle moves along a straight line, is given by a hypocycloid line drawer in the plane, and a natural extension in three-space. Each point lies on a circle which rolls around, without slipping, inside a larger circle of twice its diameter.

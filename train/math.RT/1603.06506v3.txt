@@ -1,0 +1,1 @@
+We introduce a new type of diagrams and prove the existence of a particular one, the "central tuned diagram", with some optimal features, for finitely generated modules of certain categories. This is achieved by getting to the idea of "the virtual category" of a module. Important applications are specifically suggested to the modular representations of finite groups of Lie type.

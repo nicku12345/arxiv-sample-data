@@ -1,0 +1,1 @@
+In this short paper we estimate the size of the partial sum of the logarithmic function \sum \limits_{n\leq x}\log n using a different method. We also use it to give an upper and lower bound for the factorial of any positive integer.

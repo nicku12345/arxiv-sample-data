@@ -1,0 +1,1 @@
+This note corrects some serious errors in the first-order perturbation analysis of singular vectors as published by G.W. Stewart in his book "Matrix Algorithms Volume II: Eigensystems", SIAM, 2001.

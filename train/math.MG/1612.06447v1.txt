@@ -1,0 +1,1 @@
+In the setting of a metric space X equipped with a doubling measure that supports a Poincar\'e inequality, we show that if u_i\to u strictly in BV(X), i.e. if u_i\to u in L^1(X) and \Vert Du_i\Vert(X)\to\Vert Du\Vert(X), then for a subsequence (not relabeled) we have \widetilde{u}_i(x)\to \widetilde{u}(x) for \mathcal H-almost every x\in X\setminus S_u.

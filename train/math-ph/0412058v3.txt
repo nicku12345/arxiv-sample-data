@@ -1,0 +1,1 @@
+We prove a Egorov theorem, or quantum-classical correspondence, for the quantised baker's map, valid up to the Ehrenfest time. This yields a logarithmic upper bound for the decay of the quantum variance, and, as a corollary, a quantum ergodic theorem for this map.

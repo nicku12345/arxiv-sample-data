@@ -1,0 +1,1 @@
+Requirements are formulated for a reaction kinetics package to be useful for an as wide as possible circle of users and illustrated with examples using ReactionKinetics, a Mathematica based package.

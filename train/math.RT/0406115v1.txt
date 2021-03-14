@@ -1,0 +1,1 @@
+We define the notion of character sheaf on a possibly disconnected reductive group. We show that the restriction functor carries a character sheaf to a direct sum of character sheaves.

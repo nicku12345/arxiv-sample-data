@@ -1,0 +1,1 @@
+We prove, by means of the tensor product of Fell bundles, that a Fell bundle B={B_t}_{t in G} over a discrete group G has nuclear cross-sectional C^*-algebra, whenever B has the approximation property and the unit fiber B_e is nuclear. In particular, any twisted partial crossed product of a nuclear C^*-algebra by an amenable discrete group is nuclear.

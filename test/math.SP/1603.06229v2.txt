@@ -1,0 +1,1 @@
+We show that a semibounded Toeplitz quadratic form is closable in the space \ell^2({\Bbb Z}_{+}) if and only if its matrix elemens are Fourier coefficients of an absolutely continuous measure. We also describe the domain of the corresponding closed form. This allows us to define semibounded Toeplitz operators under minimal assumptions on their matrix elements.

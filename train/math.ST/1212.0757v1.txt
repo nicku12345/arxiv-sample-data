@@ -1,0 +1,1 @@
+This note shows that some assumption on small balls probability, frequently used in the domain of functional statistics, implies that the considered functional space is of finite dimension. To complete this result an example of L2 process is given that does not fulfill this assumption.

@@ -1,0 +1,1 @@
+In this work, I develop a new view of presentation theory for C*-algebras, both unital and non-unital, heavily grounded in classical notions from algebra. In particular, I introduce Tietze transformations for these presentations, which lead to a transformation theorem analogous to Tietze's 1908 result in group theory.

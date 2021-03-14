@@ -1,0 +1,1 @@
+It is shown that a separated sequence of points in the unit disc of the complex plane is in fact uniformly separated, if there exists a certain intermediate sequence whose separated subsequences are uniformly separated. This property is applied to improve a recent result in the theory of differential equations.

@@ -1,0 +1,1 @@
+We prove the cone theorem for varieties with LCIQ singularities using deformation theory of stable maps into Deligne-Mumford stacks. We also obtain a sharper bound on -(K_X+D)-degree of (K_X+D)-negative extremal rays for projective \QQ-factorial log terminal threefold pair (X,D).

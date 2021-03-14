@@ -1,0 +1,1 @@
+We present an algorithm which computes the Hilbert depth of a graded module based on a theorem of Uliczka. Connected to a Herzog's question we see that the Hilbert depth of a direct sum of modules can be strictly bigger than the Hilbert depth of all the summands.

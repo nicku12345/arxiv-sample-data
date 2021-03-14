@@ -1,0 +1,1 @@
+We discuss a definition of the Maslov index for Lagrangian pairs on \mathbb{R}^{2n} based on spectral flow, and develop many of its salient properties. We provide two applications to illustrate how our approach leads to a straightforward analysis of the relationship between the Maslov index and the Morse index for Sch\"odinger operators on [0,1] and \mathbb{R}.

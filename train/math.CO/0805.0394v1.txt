@@ -1,0 +1,1 @@
+We prove that if G is a triangulation of the torus and \chi(G) \neq 5, then there is a 3-coloring of the edges of G so that the edges bounding every face are assigned three different colors.

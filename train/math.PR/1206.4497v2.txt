@@ -1,0 +1,1 @@
+The relevant quasipotential near an equilibrium point is determined by a new linear matrix equation, with less unknowns than an existing (possibly nonlinear) one. This also assures the asymptotic fulfillment of the Fokker-Planck equation, even globally due to the second term in the noise strength. An auxiliary result for the exit problem is derived as well.

@@ -1,0 +1,1 @@
+We introduce a new operation on a class of graphs with the property that the Laplacian eigenvalues of the input and output graphs are related. Based on this operation, we obtain a family of order (square root of n) noncospectral unicyclic graphs on n vertices with the same Laplacian energy.

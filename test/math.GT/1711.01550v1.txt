@@ -1,0 +1,1 @@
+We show a spectral sequence for the rational Khovanov homology of an oriented link in terms of the rational Khovanov complexes and homologies of the link surgeries along an admissible cut. As a non trivial corollary, we give an explicit splitting formula for the Jones polynomial.

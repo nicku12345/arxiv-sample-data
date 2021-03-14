@@ -1,0 +1,1 @@
+The purpose of this note is twofold. We first review the theory of Fourier-Mukai partners together with the relevant part of Nikulin's theory of lattice embeddings via discriminants. Then we consider Fourier-Mukai partners of K3 surfaces in the presence of polarisations, in which case we prove a counting formula for the number of partners.

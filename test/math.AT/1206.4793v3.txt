@@ -1,0 +1,1 @@
+We study vanishing results for L2-cohomology of countable groups under the presence of subgroups that satisfy some weak normality condition. As a consequence we show that the L2-Betti numbers of SL(n,R) for any infinite integral domain R vanish below degree n-1. We also give a uniform proof for the vanishing of L2-Betti numbers of Thompson's groups F and T.

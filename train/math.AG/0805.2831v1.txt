@@ -1,0 +1,1 @@
+Let C be a smooth curve in \PP^2 given by an equation F=0 of degree d. In this paper we parametrise all linear pfaffian representations of F by an open subset in the moduli space M_C(2,K_C). We construct an explicit correspondence between pfaffian representations of C and rank 2 vector bundles on C with canonical determinant and no sections.

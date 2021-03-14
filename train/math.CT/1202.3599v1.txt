@@ -1,0 +1,1 @@
+In this short note we study Lie algebras in the framework of symmetric monoidal categories. After a brief review of the existing work in this field and a presentation of earlier studied and new examples, we examine which functors preserve the structure of a Lie algebra.

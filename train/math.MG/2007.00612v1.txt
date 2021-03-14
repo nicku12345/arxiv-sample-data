@@ -1,0 +1,1 @@
+In this note, we prove the following conjecture by A. Akopyan and V. Vysotsky: If the convex hull of a planar curve \gamma covers a planar convex figure K, then \operatorname{length}(\gamma) \geq \operatorname{per} (K) - \operatorname{diam} (K). In addition, all cases of equality in this inequality are studied.

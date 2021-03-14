@@ -1,0 +1,1 @@
+We prove that a finite coprime linear group G in characteristic p>=(|G|-1)/2 has a regular orbit. This bound on p is best possible. We also give an application to blocks with abelian defect groups.

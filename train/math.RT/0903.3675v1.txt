@@ -1,0 +1,1 @@
+We enumerate over even characteristic the components of the permutation module of the symmetric group of even degree acting on the set of its fixed point free involutions. We find the vertex and Brauer quotient for each component, and the ordinary character associated with each component.

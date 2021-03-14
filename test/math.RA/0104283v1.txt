@@ -1,0 +1,1 @@
+In this paper we use refiltering methods to prove that certain types of multi-filtered algebras are Auslander-regular and Cohen-Macaulay. This is applied to obtain that the quantized enveloping algebra associated to a Cartan matrix is Auslander-regular and Cohen-Macaulay.

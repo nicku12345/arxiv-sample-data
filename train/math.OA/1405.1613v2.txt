@@ -1,0 +1,1 @@
+Higson proved that every homotopy invariant, stable and split exact functor from the category of C^*-algebras to an additive category factors through Kasparov's KK-theory. By adapting a group equivariant generalization of this result by Thomsen, we generalize Higson's result to the inverse semigroup equivariant setting.

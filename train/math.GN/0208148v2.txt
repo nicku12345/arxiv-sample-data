@@ -1,0 +1,1 @@
+We prove that for every compactum X with dim_Z X <= n >= 2 there is a cell-like resolution r: Z --> X from a compactum Z onto X such that dim Z <= n and for every integer k and every abelian group G such that dim_G X <= k >= 2 we have dim_G Z <=k. The latter property implies that for every simply connected CW-complex K such that e-dim X <= K we also have e-dim Z <= K.

@@ -1,0 +1,1 @@
+In this paper, we find an upper bound for the CP-rank of a matrix over a tropical semiring, according to the vertex clique cover of the graph prescribed by the pattern of the matrix. We study the graphs that beget the patterns of matrices with the lowest possible CP-ranks and prove that any such graph must have its diameter equal to 2.

@@ -1,0 +1,1 @@
+We consider the operator \mathcal R, which sends a function on \mathbb R^{2n} to its integrals over all affine Lagrangian subspaces in \mathbb R^{2n}. We discuss properties of the operator \mathcal R and of the representation of the affine symplectic group in the space of functions on \mathbb R^{2n}.

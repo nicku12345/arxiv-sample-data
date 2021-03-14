@@ -1,0 +1,1 @@
+Given a finite dimensional algebra over a perfect field the text introduces covering functors over the mesh category of any modulated Auslander-Reiten component of the algebra. This is applied to study the composition of irreducible morphisms between indecomposable modules in relation with the powers of the radical of the module category.

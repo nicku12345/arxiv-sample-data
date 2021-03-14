@@ -1,0 +1,1 @@
+Nazarov, Peres and Volberg proved recently that the Favard length of the n-th iteration of the four-corner Cantor set is bounded from above by n^{-c} for an appropriate c. We generalize this result to all product Cantor sets whose projection in some direction has positive 1-dimensional measure.

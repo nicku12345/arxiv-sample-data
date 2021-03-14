@@ -1,0 +1,1 @@
+In this note, we show that for hyponormal Toeplitz operators, there exists a lower bound for the area of the spectrum. This extends the known estimate for the spectral area of Toeplitz operators with an analytic symbol.

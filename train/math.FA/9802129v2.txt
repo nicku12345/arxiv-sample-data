@@ -1,0 +1,1 @@
+We prove that Schlumprecht space S is isomorphic to (\sum_{k=1}^\infty \oplus \ell_infty ^{n_k})_S  for any sequence of integers (n_k). We also show that every complemented subspace of S which has some subsymmetric basis, is isomorphic to S.

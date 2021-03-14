@@ -1,0 +1,1 @@
+Let (A,\a) and (B,\b) be two Hom-Hopf algebras. In this paper, we construct a class of new Hom-Hopf algebras: R-smash product (A\natural_R B,\a\o \b). Moreover, necessary and sufficient conditions for (A\natural_R B,\a\o \b) to be a cobraided Hom-Hopf algebra are given.

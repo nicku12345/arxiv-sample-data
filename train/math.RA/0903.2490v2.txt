@@ -1,0 +1,1 @@
+The converse of Schur's lemma (or CSL) condition on a module category has been the subject of considerable study in recent years. In this note we extend that work by developing basic properties of module categories in which the CSL condition governs modules of finite length.

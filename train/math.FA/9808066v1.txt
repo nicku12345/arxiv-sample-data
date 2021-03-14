@@ -1,0 +1,1 @@
+In this note we show that if two Toeplitz operators on a Bergman space commute and the symbol of one of them is analytic and nonconstant, then the other one is also analytic.

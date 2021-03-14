@@ -1,0 +1,1 @@
+A set in the Euclidean plane is constructed whose image under the classical Radon transform is Lipschitz in every direction. It is also shown that, under mild hypotheses, for any such set the function which maps a direction to the corresponding Lipschitz constant cannot be bounded.

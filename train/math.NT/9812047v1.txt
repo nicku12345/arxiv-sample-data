@@ -1,0 +1,1 @@
+We study the distribution of spacings between squares modulo q as the number of prime divisors of q tends to infinity. In an earlier paper Kurlberg and Rudnick proved that the spacing distribution for square free q is Poissonian, this paper extends the result to arbitrary q.

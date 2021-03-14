@@ -1,0 +1,1 @@
+The notion of adequate function has been recently introduced in order to characterize the essentially strictly functions on a reflexive Banach space among the weakly lower semicontinuous ones. In this paper we reinforce this concept and show that a lower semicontinuous function is essentially firmly subdifferentiable if and only if it is strongly adequate.

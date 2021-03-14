@@ -1,0 +1,1 @@
+Given a compact orientable 3-manifold M whose boundary is a hyperbolic surface and a simple closed curve C in its boundary, every knot in M is homotopic to one whose complement admits a complete hyperbolic structure with totally geodesic boundary in which the geodesic representative of C is as small as you like.

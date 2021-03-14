@@ -1,0 +1,1 @@
+The sole purpose of this note is to introduce some elementary results on the structure and functoriality of Reedy model categories. In particular, I give a very useful little criterion to determine whether composition with a morphism of Reedy categories determines a left or right Quillen functor. I then give a number of useful inheritance results.

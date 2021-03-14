@@ -1,0 +1,1 @@
+Using tools and techniques from geometric control theory, namely Hermann-Nagano theorem, we prove controllability result for a mechanical system consisting of a planar double inverted pendulum fixed to a wheeled cart that can move linearly along a horizontal track.

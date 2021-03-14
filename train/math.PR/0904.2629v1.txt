@@ -1,0 +1,1 @@
+We obtain sufficient condition for SDEs to evolve in the positive orthant. We use comparison theorem arguments to achieve this. As a result we prove the existence of a unique strong solution for a class of multidimensional degenerate SDEs with non-Lipschitz diffusion coefficients.

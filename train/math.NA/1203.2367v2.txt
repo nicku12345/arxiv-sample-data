@@ -1,0 +1,1 @@
+We analyze the asymptotic behavior of a junction problem between a plate and a perpendicular rod made of a nonlinear elastic material. The two parts of this multi-structure have small thicknesses of the same order \delta. We use the decomposition techniques obtained for the large deformations and the displacements in order to derive the limit energy as \delta tends to 0.

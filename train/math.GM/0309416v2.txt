@@ -1,0 +1,1 @@
+In this paper we consider the eigenvalue problem for piezoelectric shallow shells and we show that, as the thickness of the shell goes to zero, the eigensolutions of the three-dimensional piezoelectric shells converge to the eigensolutions of a two-dimensional eigenvalue problem.

@@ -1,0 +1,1 @@
+We develop a semantics for logics of imperfect information with respect to general models.   Then we build a proof system and prove its soundness and completeness with respect to this semantics.

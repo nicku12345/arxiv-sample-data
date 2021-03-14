@@ -1,0 +1,1 @@
+We study the eigenvalues of Schr\"odinger type operators T +   \lambda V and their asymptotic behavior in the small coupling limit   \lambda \to 0, in the case where the symbol of the kinetic energy,   T(p), strongly degenerates on a non-trivial manifold of codimension one.

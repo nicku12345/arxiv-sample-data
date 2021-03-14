@@ -1,0 +1,1 @@
+Let U^+ be the plus part of the quantized enveloping algebra of a simple Lie algebra and let B^* be the dual canonical basis of U^+. Let b,b' be in B* and suppose that one of the two elements is a q-commuting product of quantum flag minors. We show that b and b' are multiplicative if and only if they q-commute.

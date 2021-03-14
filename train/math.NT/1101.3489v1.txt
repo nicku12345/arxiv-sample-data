@@ -1,0 +1,1 @@
+Assuming that the Generalized Riemann Hypothesis (GRH) holds, we prove an explicit formula for the number of representations of an integer as a sum of k\geq 5 primes. Our error terms in such a formula improve by some logarithmic factors an analogous result by Friedlander-Goldston.

@@ -1,0 +1,1 @@
+We extend the notion of effective resistance to metric spaces that are similar to graphs but can also be similar to fractals. Combined with other basic facts proved in the paper, this lays the ground for a construction of Brownian Motion on such spaces completed in [10].

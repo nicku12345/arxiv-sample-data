@@ -1,0 +1,1 @@
+This article gives conceptual statements and proofs relating parabolic induction and Jacquet functors on split reductive groups over a non-Archimedean local field to the associated Iwahori-Hecke algebra as tensoring from and restricting to parabolic subalgebras. The main tool is Bernstein's presentation of the Iwahori-Hecke algebra.

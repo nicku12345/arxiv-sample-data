@@ -1,0 +1,1 @@
+We prove that for Diophantine \om and almost every \th, the almost Mathieu operator, (H_{\omega,\lambda,\theta}\Psi)(n)=\Psi(n+1) + \Psi(n-1) + \lambda\cos 2\pi(\omega n +\theta)\Psi(n), exhibits localization for \lambda > 2 and purely absolutely continuous spectrum for \lambda < 2. This completes the proof of (a correct version of) the Aubry-Andr\'e conjecture.

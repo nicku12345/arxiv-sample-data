@@ -1,0 +1,1 @@
+We present algorithms for computing the squared Weil and Tate pairings on elliptic curves and the squared Tate pairing for hyperelliptic curves. The squared pairings introduced in this paper have the advantage that our algorithms for evaluating them are deterministic and do not depend on a random choice of points. Our pairings save about 20-30% over the usual pairings.

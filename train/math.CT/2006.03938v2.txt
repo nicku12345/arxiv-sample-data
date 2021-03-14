@@ -1,0 +1,1 @@
+In the first part of this paper, we study additive functors that commute with direct and inverse limits. We prove that, under some conditions, such functors are trivial. In the second part, we state conditions for a covariant half exact functor to commute with direct limits, based on its first left satellite functor.

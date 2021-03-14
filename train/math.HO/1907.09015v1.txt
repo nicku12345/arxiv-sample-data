@@ -1,0 +1,1 @@
+The category of matchings between finite sets extends to the category of cobordisms of signed sets. A chain of cobordisms that starts and ends with unsigned sets A and B yields a matching from A to B. This is a convenient way to package the involution principle of Garsia and Milne, which reveals itself to have little to do with involutions.

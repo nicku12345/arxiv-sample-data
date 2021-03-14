@@ -1,0 +1,1 @@
+We answer Klop and de Vrijer's question whether adding surjective-pairing axioms to the extensional lambda calculus yields a conservative extension. The answer is positive. As a byproduct we obtain a "syntactic" proof that the extensional lambda calculus with surjective pairing is consistent.

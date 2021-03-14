@@ -1,0 +1,1 @@
+We show that a necessary condition for T to be a potential blow up time is \lim\limits_{t\uparrow T}\|v(\cdot,t)\|_{L_3}=\infty.

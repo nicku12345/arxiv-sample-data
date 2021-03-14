@@ -1,0 +1,1 @@
+We study the notions of weak rational ergodicity and rational weak mixing as defined by Jon Aaronson. We prove that various families of infinite measure-preserving rank-one transformations possess (or do not posses) these properties, and consider their relation to other notions of mixing in infinite measure.

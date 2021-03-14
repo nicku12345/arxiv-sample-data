@@ -1,0 +1,1 @@
+We prove upper pointwise estimates for the Bergman kernel of the weighted Fock space of entire functions in L^2(e^{-2\phi}) where \phi is a subharmonic function with \Delta \phi a doubling measure. We derive estimates for the canonical solution operator to the inhomogeneous Cauchy-Riemann equation and we characterize the compactness of this operator in terms of \Delta \phi.

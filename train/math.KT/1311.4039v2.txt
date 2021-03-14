@@ -1,0 +1,1 @@
+We define a notion of Fourier-Mukai transform on algebraic cobordism cycles with \mathbb{Q}-coefficients on an abelian variety. We use this to produce a Beauville decomposition of algebraic cobordism and study its consequences, including a decomposition of the cobordism motive of an abelian variety.

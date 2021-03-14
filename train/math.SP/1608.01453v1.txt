@@ -1,0 +1,1 @@
+Let \{\lambda_n^2\}_{n = 0}^\infty be the spectra of a Sturm-Liouville problem on [0,\pi ]. We investigate the question: Do the systems \{\cos(\lambda_n x)\}_{n= 0}^\infty or \{\sin(\lambda_n x)\}_{n = 0}^\infty form Riesz bases in {L^2}[0,\pi]? The answer is almost always positive.

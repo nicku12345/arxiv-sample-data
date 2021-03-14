@@ -1,0 +1,1 @@
+We study a family of polynomials in two variables having moduli up to bilipschitz equivalence: two distinct polynomials of this family are not bilipschitz equivalent. However any level curve of the first polynomial is bilipschitz equivalent to a level curve of the second.

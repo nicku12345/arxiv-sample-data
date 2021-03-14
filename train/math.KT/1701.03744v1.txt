@@ -1,0 +1,1 @@
+We compute the Grothendieck group of the category of abelian varieties over an algebraically closed field k. We also compute the Grothendieck group of the category of A-isotypic abelian varieties, for any simple abelian variety A, assuming k has characteristic 0, and for any elliptic curve A in any characteristic.

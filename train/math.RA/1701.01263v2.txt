@@ -1,0 +1,1 @@
+We discuss the projective line \mathbb{P}(R) over a finite associative ring with unity. \mathbb{P}(R) is naturally endowed with the symmetric and anti-reflexive relation "distant". We study the graph of this relation on \mathbb{P}(R) and classify up to isomorphism all distant graphs G(R, \Delta) for rings R up to order p^5, p prime.

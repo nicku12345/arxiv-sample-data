@@ -1,0 +1,1 @@
+In this paper, we obtain existence results of periodic solutions of hamiltonian systems in the Orlicz-Sobolev space W^1L^{\Phi}([0,T]). We employ the direct method of calculus of variations and we consider a potential function F satisfying the inequality |\nabla F(t,x)|\leq b_1(t) \Phi_0'(|x|)+b_2(t), with b_1, b_2\in L^1 and certain N-functions \Phi_0.

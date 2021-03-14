@@ -1,0 +1,1 @@
+In this paper, we consider the problem of reconstructing an n \times n cell matrix D(\vec{x}) constructed from a vector \vec{x} = (x_{1}, x_{2},\dots, x_{n}) of positive real numbers, from a given set of spectral data. In addition, we show that the spectrum of cell matrices D(\vec{x}) and D(\pi(\vec{x})) are the same, for every permutation \pi \in S_{n}.

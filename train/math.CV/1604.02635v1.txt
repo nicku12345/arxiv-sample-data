@@ -1,0 +1,1 @@
+For a pseudoconvex tube domain, we prove estimates that relate the sublevel sets of its diagonal Bergman kernel to the floating bodies of its convex base. This allows us to associate a new affine invariant to any convex body.

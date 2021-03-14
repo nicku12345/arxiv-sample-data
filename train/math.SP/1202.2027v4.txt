@@ -1,0 +1,1 @@
+We study the resonance phenomena for time periodic perturbations of a Hamiltonian H on the Hilbert space L^2(\mathbb R ^d). Here, resonances are characterized in terms of time behavior of the survival probability. Our approach uses the Floquet-Howland formalism combined with the results of L. Cattaneo, J.M. Graf and W. Hunziker on resonances for time independent perturbations.

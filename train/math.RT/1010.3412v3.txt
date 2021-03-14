@@ -1,0 +1,1 @@
+We classify good Z-gradings of basic Lie superalgebras over an algebraically closed field of characteristic zero. Good Z-gradings are used in quantum Hamiltonian reduction for affine Lie superalgebras, where they play a role in the construction of super W-algebras. We also describe the centralizer of a nilpotent even element and of an sl(2)-triple in gl(m|n) and osp(m|2n).

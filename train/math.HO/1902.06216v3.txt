@@ -1,0 +1,1 @@
+We use Taylor's formula with Lagrange remainder to make a modern adaptation of Poisson's proof of a version of the fundamental theorem of calculus in the case when the integral is defined by Euler sums, that is Riemann sums with left (or right) endpoints which are equally spaced. We discuss potential benefits for such an approach in basic calculus courses.

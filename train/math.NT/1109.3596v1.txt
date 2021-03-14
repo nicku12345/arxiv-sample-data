@@ -1,0 +1,1 @@
+We prove that an odd number is an Euler pseudoprime for exactly one half of the admissible bases if and only if it is a special Carmichael number.

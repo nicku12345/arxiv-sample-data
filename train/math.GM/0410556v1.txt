@@ -1,0 +1,1 @@
+We present an explicit polynomial formula for evaluating the principal logarithm of all matrices lying on the line segment \{I(1-t)+At:t\in [0,1]\} joining the identity matrix I (at t=0) to any real matrix A (at t=1) having no eigenvalues on the closed negative real axis. This extends to the matrix logarithm the well known Putzer's method for evaluating the matrix exponential.

@@ -1,0 +1,1 @@
+In this article we consider the Boussinesq system supplemented with some dissipation terms. These equations model the propagation of a waterwave in shallow water. We prove the existence of a global smooth attractor for the corresponding dynamical system.

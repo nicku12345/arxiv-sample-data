@@ -1,0 +1,1 @@
+This paper uses the technology of weighted and regular triangulations to study discrete versions of the Laplacian on piecewise Euclidean manifolds. Regular triangulations are studied in some detail, including flip algorithms. The Laplacian is then studied as an operator on functions of the vertices as a generalized weighted Laplacian on graphs.

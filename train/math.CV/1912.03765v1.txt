@@ -1,0 +1,1 @@
+We extend Carleson's interpolation Theorem to sequences of matrices, by giving necessary and sufficient separation conditions for a sequence of matrices to be interpolating.

@@ -1,0 +1,1 @@
+We give the definition of presentations of linear monoidal categories. Our main result is that given a presentation of a linear monoidal category, we can produce a presentation of the same category as a linear category. We apply this result to endomorphism algebras of certain important linear monoidal categories.

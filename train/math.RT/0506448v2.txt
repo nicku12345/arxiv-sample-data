@@ -1,0 +1,1 @@
+This paper is a report on a computer check of some positivity properties of the Hecke algebra in type H4, including the non-negativity of the coefficients of the structure constants in the Kazhdan-Lusztig basis. This answers a long-standing question of Lusztig's. The same algorithm, carried out by hand, also allows us to deal with the case of dihedral Coxeter groups.

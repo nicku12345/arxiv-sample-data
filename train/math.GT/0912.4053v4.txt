@@ -1,0 +1,1 @@
+We define the fundamental quandle of a spatial graph and several invariants derived from it. In the category of graph tangles, we define an invariant based on the walks in the graph and cocycles from nonabelian quandle cohomology.

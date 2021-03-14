@@ -1,0 +1,1 @@
+We prove a new fixed point theorem of Schauder-type which applies to discontinuous operators in non-compact domains. In order to do so, we present a modification of a recent Schauder-type theorem due to Pouso. We apply our result to second-order boundary value problems with discontinuous nonlinearities. We include an example to illustrate our theory.

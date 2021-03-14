@@ -1,0 +1,1 @@
+We prove existence of solution to a nonlinear first-order nabla dynamic equation on an arbitrary bounded time scale with boundary conditions, where the right-hand side of the dynamic equation is a continuous function.

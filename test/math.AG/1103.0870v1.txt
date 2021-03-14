@@ -1,0 +1,1 @@
+We define Hecke transformation for orthogonal bundles over a compact Riemann surface. Using the cycles on a moduli space of orthogonal bundles given by Hecke transformations, we prove that the projectivized Picard bundle on the moduli space is stable.

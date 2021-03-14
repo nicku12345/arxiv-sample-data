@@ -1,0 +1,1 @@
+We prove an identity about partitions with a very elementary formulation. We had previously conjectured this identity, encountered in the study of shifted Jack polynomials (math.CO/9901040). The proof given is using a trivariate generating function. It would be interesting to obtain a bijective proof. We present a conjecture generalizing this identity.

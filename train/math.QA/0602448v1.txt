@@ -1,0 +1,1 @@
+We present two new proofs of the the important q-commuting property holding among certain pairs of quantum minors of an n x n q-generic matrix. The first uses elementary quasideterminantal arithmetic; the second involves paths in an edge-weighted directed graph.

@@ -1,0 +1,1 @@
+We present a method to compute the geometric Picard rank of a K3 surface over \bbQ. Contrary to a widely held belief, we show it is possible to verify Picard rank 1 using reduction only at a single prime. Our method is based on deformation theory for invertible sheaves.

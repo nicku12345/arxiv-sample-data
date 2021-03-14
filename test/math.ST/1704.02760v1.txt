@@ -1,0 +1,1 @@
+In the present note we consider the problem of constructing honest and adaptive confidence sets for the matrix completion problem. For the Bernoulli model with known variance of the noise we provide a realizable method for constructing confidence sets that adapt to the unknown rank of the true matrix.

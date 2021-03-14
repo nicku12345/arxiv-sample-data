@@ -1,0 +1,1 @@
+Let (m,b) a pair of natural numbers. For m even (resp. m odd and b greater than or equal to 2) we show that if there is an m-dimensional non-formal compact oriented manifold whose first Betti number equals b, there is also a symplectic (resp. contact) manifold with these properties.

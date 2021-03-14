@@ -1,0 +1,1 @@
+We use the compression theorem (arxiv:math.GT/9712235) cf section 7, to prove results for equivariant configuration spaces analogous to the well-known non-equivariant results of May, Milgram and Segal.

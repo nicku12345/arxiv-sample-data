@@ -1,0 +1,1 @@
+Given an infinite graph G on countably many vertices, and a closed, infinite set \Lambda of real numbers, we prove the existence of an unbounded self-adjoint operator whose graph is G and whose spectrum is \Lambda.

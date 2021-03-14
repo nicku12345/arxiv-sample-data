@@ -1,0 +1,1 @@
+We analyze a general family of fibrations which, after looping, have sections. Methods are developed to determine the homotopy type of the fibre and the homotopy classes of the map from the fibre to the base. The methods are driven by applications to two-cones, Poincare Duality complexes, the connected sum operation, and polyhedral products.

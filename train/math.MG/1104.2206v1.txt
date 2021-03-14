@@ -1,0 +1,1 @@
+We prove that the Hausdorff dimension of the graph of a prevalent continuous function is 2. We also indicate how our results can be extended to the space of continuous functions on [0,1]^d for d \in \mathbb{N} and use this to obtain results on the `horizon problem' for fractal surfaces. We begin with a survey of previous results on the dimension of a generic continuous function.

@@ -1,0 +1,1 @@
+For a Grothendieck category having a noetherian generator, we prove that there are only finitely many minimal atoms. This is a noncommutative analogue of the fact that every noetherian scheme has only finitely many irreducible components. It is also shown that each minimal atom is represented by a compressible object.

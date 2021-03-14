@@ -1,0 +1,1 @@
+We study the structure of tensor representations of the classical infinite-dimensional locally finite Lie algebras gl_\infty, sl_\infty, sp_\infty and so_\infty. In contrast with the finite-dimensional case, these tensor representations are not semisimple. We explicitly describe their Jordan-Holder constituents, socle filtrations, and indecomposable direct summands.

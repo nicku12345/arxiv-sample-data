@@ -1,0 +1,1 @@
+This paper generalizes Shelah's generic pair conjecture (now theorem) for the measurable cardinal case from first order theories to finite diagrams. We use homogeneous models in the place of saturated models.

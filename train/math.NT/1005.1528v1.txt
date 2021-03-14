@@ -1,0 +1,1 @@
+In this note we find all the solutions of the Diophantine equation x^4\pm y^4=iz^2 using elliptic curves over \mathbb Q(i). Also, using the same method we give a new proof of Hilbert's result that the equation x^4\pm y^4=z^2 has only trivial solutions in Gaussian integers.

@@ -1,0 +1,1 @@
+We construct an indecomposable reflexive Banach space X_{ius} such that every infinite dimensional closed subspace contains an unconditional basic sequence. We also show that every operator T\in \mathcal{B}(X_{ius}) is of the form \lambda I+S with S a strictly singular operator.

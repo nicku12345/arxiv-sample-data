@@ -1,0 +1,1 @@
+We prove a formula for the push-forward class of Bott-Samelson resolutions in the algebraic cobordism ring of the flag bundle. We then provide a geometric interpretation to the double beta-polynomials of Fomin and Kirillov by specializing our formula to the case of connected K-theory.

@@ -1,0 +1,1 @@
+Given a homogeneous Poisson point process in R^d, Haggstrom and Meester asked whether it is possible to place spheres (of differing radii) centred at the points, in a translation-invariant way, so that the spheres do not overlap but there is an unbounded component of touching spheres. We prove that the answer is yes in sufficiently high dimension.

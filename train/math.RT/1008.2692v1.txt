@@ -1,0 +1,1 @@
+Let G be a connected reductive group. We define a map from the set of unipotent classes in G to the set of conjugacy classes in the Weyl group (assuming that the characteristic is not bad). This map is a one sided inverse of a map in the opposite direction constructed in an earlier paper.

@@ -1,0 +1,1 @@
+In this paper we characterize the unit disc, the bidisc and the symmetrized bidisc \[ G =\{(z+w,zw):|z|<1,\ |w|<1\} \] in terms of the possession of small classes of analytic maps into the unit disc that suffice to solve all Carath\'eodory extremal problems in the domain.

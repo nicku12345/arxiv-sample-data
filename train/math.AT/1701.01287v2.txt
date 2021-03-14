@@ -1,0 +1,1 @@
+We introduce cannibalistic classes for string bundles with values in TMF with level structures. This allows us to compute the Morava E-homology of any map from the bordism spectrum MString to TMF with level structures.

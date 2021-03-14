@@ -1,0 +1,1 @@
+We give a simple construction of an equivariant deformation retract of Outer space which is homeomorphic to the Bestvina-Feighn bordification. This results in a much easier proof that the bordification is (2n-5)-connected at infinity, and hence that Out(F_n) is a virtual duality group.

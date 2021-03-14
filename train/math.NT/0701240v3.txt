@@ -1,0 +1,1 @@
+Let P denote the set of all primes. Suppose that P_1, P_2, P_3 are three subsets of P with the sum of their lower densities relative to P is greater than 2. We prove that for sufficiently large odd integer n, there exist p_i\in P_i such that n=p_1+p_2+p_3.

@@ -1,0 +1,1 @@
+We prove that the moduli stack of stable curves of genus g with n marked points is rigid, i.e., has no infinitesimal deformations. This confirms the first case of a principle proposed by Kapranov. It can also be viewed as a version of Mostow rigidity for the mapping class group.

@@ -1,0 +1,1 @@
+We characterize the exponential distribution in terms of the regression of a record value with non-adjacent record values as covariates. We also study characterizations based on the regression of linear combinations of record values.

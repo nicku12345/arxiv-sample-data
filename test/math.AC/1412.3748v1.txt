@@ -1,0 +1,1 @@
+In this note we prove the relation between Betti numbers of an Arf semigroup S and its blowup S' in the case when they have the same multiplicity n. The relation is then \beta_{i,s}(S')=\beta_{i,{s+(i+1)n}}(S).

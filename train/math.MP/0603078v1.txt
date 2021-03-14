@@ -1,0 +1,1 @@
+We use the method of homological quantum reduction to construct a deformation quantization on singular symplectic quotients in the situation, where the coefficients of the moment map define a complete intersection. Several examples are discussed, among others one where the singularity type is worse than an orbifold singularity.

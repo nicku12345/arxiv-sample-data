@@ -1,0 +1,1 @@
+We study one-dimensional conservation law. We develop a simple numerical method for computing the unique entropy admissible weak solution to the initial problem. The method basis on the equal-area principle and gives the solution for given time directly.

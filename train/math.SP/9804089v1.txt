@@ -1,0 +1,1 @@
+Given a separable, locally compact Hausdorff space X and a positive Radon measure m(dx) on it, we study the problem of finding the potential V(x) \ge 0 that maximizes the first eigenvalue of the Schr\"odinger-type operator L+V(x); L is the generator of a local Dirichlet form (a, D[a]) on L^2(X, m(dx)).

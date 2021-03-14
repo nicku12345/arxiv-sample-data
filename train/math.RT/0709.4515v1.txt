@@ -1,0 +1,1 @@
+We give the number of nilpotent orbits in the Lie algebras of orthogonal groups under the adjoint action of the groups over \tF_{2^n}. Let G be an adjoint algebraic group of type B,C or D defined over an algebraically closed field of characteristic 2. We construct the Springer correspondence for the nilpotent variety in the Lie algebra of G.

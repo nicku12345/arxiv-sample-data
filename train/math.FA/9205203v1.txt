@@ -1,0 +1,1 @@
+It is shown how to construct, given a Banach space which does not have the approximation property, another Banach space which does not have the approximation property but which does have the compact approximation property.

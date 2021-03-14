@@ -1,0 +1,1 @@
+Let H be an algebraic group scheme over a field k acting on a commutative k-algebra A which is a unique factorisation domain. We show that, under certain mild assumptions, the monoid of nonzero H-stable principal ideals in A is free commutative. From this we deduce, in certain special cases, results about the monoid of nonzero semi-invariants and the algebra of invariants.

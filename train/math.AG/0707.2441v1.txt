@@ -1,0 +1,1 @@
+Let G be a finite group, \Lambda an absolutely irreducible \Z[G]-module and w a weight of \Lambda.   To any Galois covering with group G we associate two correspondences, the Schur and the Kanev correspondence.   We work out their relation and compute their invariants.   Using this, we give some new examples of Prym-Tyurin varieties.

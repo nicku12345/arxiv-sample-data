@@ -1,0 +1,1 @@
+We study the symplectic geometry of the moduli spaces of polygons in the Minkowski 3-space. These spaces naturally carry completely integrable systems with periodic flows. We extend the Gelfand-Tsetlin method to pseudo-unitary groups and show that the action variables are given by the Minkowsky lengths of non-intersecting diagonals.

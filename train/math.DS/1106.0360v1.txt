@@ -1,0 +1,1 @@
+In this paper, we study the existence of infinitely many periodic solutions for second order Hamiltonian systems \ddot{u}+\nabla_u V(t,u)=0, where V(t, u) is either asymptotically quadratic or superquadratic as |u|\to \infty.

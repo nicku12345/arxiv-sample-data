@@ -1,0 +1,1 @@
+We show that if X is a limit of n-dimensional Riemannian manifolds with Ricci curvature bounded below and \gamma is a limit geodesic in X then along the interior of \gamma same scale measure metric tangent cones T_{\gamma(t)}X are H\"older continuous with respect to measured Gromov-Hausdorff topology and have the same dimension in the sense of Colding-Naber.

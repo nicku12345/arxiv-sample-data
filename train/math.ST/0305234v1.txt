@@ -1,0 +1,1 @@
+Consider estimation of the regression parameter in the accelerated failure time model, when data are obtained by cross sectional sampling. It is shown that it is possible under regularity of the model to construct an efficient estimator of the unknown Euclidean regression parameter if the distribution of the covariate vector is known and also if it is unknown with vanishing mean.

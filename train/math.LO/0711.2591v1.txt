@@ -1,0 +1,1 @@
+We use a reverse Easton forcing iteration to obtain a universe with a definable well-ordering, while preserving the GCH and proper classes of a variety of very large cardinals. This is achieved by coding using the principle diamond star at a proper class of successor cardinals.

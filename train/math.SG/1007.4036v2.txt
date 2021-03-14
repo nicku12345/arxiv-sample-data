@@ -1,0 +1,1 @@
+We prove that quasi-morphisms and quasi-states on a closed integral symplectic manifold descend under symplectic reduction to symplectic hyperplane sections. Along the way we show that quasi-morphisms that arise from spectral invariants are the Calabi homomorphism when restricted to Hamiltonians supported on stably displaceable sets.

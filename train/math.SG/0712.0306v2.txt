@@ -1,0 +1,1 @@
+In this paper, we study the relation between the smallest g-supersolution of constraint backward stochastic differential equation and viscosity solution of constraint semilineare parabolic PDE, i.e. variation inequalities. And we get an existence result of variation inequalities via constraint BSDE, and prove a uniqueness result under certain condition.

@@ -1,0 +1,1 @@
+For a closed subgroup of a locally compact group the Rieffel induction process gives rise to a C^*-correspondence over the C^*-algebra of the subgroup. We study the associated Cuntz-Pimsner algebra and show that, by varying the subgroup to be open, compact, or discrete, there are connections with the Exel-Pardo correspondence arising from a cocycle, and also with graph algebras.

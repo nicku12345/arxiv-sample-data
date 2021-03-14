@@ -1,0 +1,1 @@
+When \mathbb{K} is a field, and \mathcal{A} and \mathcal{B} denote commuting subspaces of \text{M}_n(\K) each of which contains a non-scalar matrix, we prove that \dim \mathcal{A} +\dim \mathcal{B} \leq (n-1)^2+3. We also give a complete description of the cases when equality holds.

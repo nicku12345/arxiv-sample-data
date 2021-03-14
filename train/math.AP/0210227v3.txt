@@ -1,0 +1,1 @@
+In this paper, we show that certain local Strichartz estimates for solutions of the wave equation exterior to a convex obstacle can be extended to estimates that are global in both space and time. This extends the work that was done previously by H. Smith and C. Sogge in odd spatial dimensions.

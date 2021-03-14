@@ -1,0 +1,1 @@
+Let k be a perfect field of characteristic p>0, k(t)_{per} the perfect closure of k(t) and A a k-algebra. We characterize whether the ring A\otimes_k k(t)_{per} is noetherian or not. As a consequence, we prove that the ring A\otimes_k k(t)_{per} is noetherian when A is the ring of formal power series in n indeterminates over k.

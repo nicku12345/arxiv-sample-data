@@ -1,0 +1,1 @@
+We prove that Axiom A is open and dense in the space of C^1 area contracting orientation-preserving embeddings on compact orientable surfaces with boundary. This settles the area contracting version of the {\em Smale's conjecture} \cite{s}.

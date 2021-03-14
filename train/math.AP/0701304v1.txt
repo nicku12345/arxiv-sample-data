@@ -1,0 +1,1 @@
+We prove global wellposedness in the energy space of the defocusing cubic nonlinear Schroedinger and Gross-Pitaevskii equations on the exterior of a non-trapping domain in dimension 3. The main ingredient is a Strichartz estimate obtained combining a semi-classical Strichartz estimate with a smoothing effect on exterior domains.

@@ -1,0 +1,1 @@
+We consider the mutual commutativity of Dunkl operators of the rational Calogero model as zero-curvature condition and calculate the non-local operator, related to these flat connections. This operator has physical meaning of particular scattering matrix of Calogero model and maps the eigenfunctions of Dunkl operator to the wave function of N free particles (plane waves).

@@ -1,0 +1,1 @@
+In this paper a simple method of construction of scaling function \phi (x) and orthogonal wavelets with the compact support for any natural coefficient of scaling N\ge 2 is given. Examples of construction of wavelets for coefficients of scaling N=2 and N=3 are produced.

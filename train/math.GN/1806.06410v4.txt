@@ -1,0 +1,1 @@
+Let G be a matrix group. Topological G-manifolds with Palais-proper action have the G-homotopy type of countable G-CW complexes (3.2). This generalizes E Elfving's dissertation theorem for locally linear G-manifolds (1996). Also we improve the Bredon--Floyd theorem from compact groups G (1960).

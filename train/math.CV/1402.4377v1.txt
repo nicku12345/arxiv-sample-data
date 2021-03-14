@@ -1,0 +1,1 @@
+This article is devoted to not only characterizing the first and second preduals of the analytic Campanato spaces (\mathcal{CA}_p) on the unit disk, but also investigating boundedness of three operators: superposition (\mathsf{S}^\phi); backward shift (\mathsf{S_b}); Schwarzian derivative (\mathsf{S}), acting on \mathcal{CA}_p.

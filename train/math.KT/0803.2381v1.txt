@@ -1,0 +1,1 @@
+We develop class field theory of curves over p-adic fields which extends the unramified theory of S. Saito. The class groups which approximate abelian \'etale fundamental groups of such curves are introduced in the terms of algebraic K-groups by imitating G. Wiesend's class group for curves over finite fields.

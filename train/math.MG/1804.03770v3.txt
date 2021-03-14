@@ -1,0 +1,1 @@
+We develop the basic tools for classifying edge-to-edge tilings of sphere by congruent pentagons. Then we prove such tilings for edge combination a^2b^2c are three families of pentagonal subdivisions of the platonic solids, with 12, 24 and 60 tiles. We also prove that such tilings for edge combination a^3bc are two unique double pentagonal subdivisions, with 48 and 120 tiles.

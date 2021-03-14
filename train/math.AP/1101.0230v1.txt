@@ -1,0 +1,1 @@
+We consider the Euler-Voigt equations and the Navier-Stokes-Voigt equations, which are obtained by an inviscid alpha-regularization from the corresponding equations. The main result we show is the structural stability of the system in term of the variations of both viscosity of regularization parameters.

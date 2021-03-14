@@ -1,0 +1,1 @@
+When the characteristic of the underlying field is at least 5, we prove that the adjustment matrix for blocks of q-Schur algebras of weights 3 and 4 is the identity matrix. Moreover, we show that the decomposition numbers for weight 3 blocks of q-Schur algebras are bounded above by one.

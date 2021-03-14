@@ -1,0 +1,1 @@
+It is known that a category of many-sorted algebras on pure sets of similarity type is "concretely equivalent" to a category of single-sorted algebras. In this paper, we characterize a single-sorted variety that corresponds to a many-sorted variety. Such variety is also characterized by the condition that is decomposable with respect to matrix product.

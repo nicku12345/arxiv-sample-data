@@ -1,0 +1,1 @@
+We generalize a result of Giroux which says that a closed surface in a contact 3-manifold with Morse-Smale characteristic foliation is convex. Specifically, we show that the result holds in contact manifolds of arbitrary dimension. As an application, we show that a particular closed hypersurface introduced by A. Mori is C^{\infty}-close to a convex hypersurface.

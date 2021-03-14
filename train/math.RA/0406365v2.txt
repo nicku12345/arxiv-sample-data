@@ -1,0 +1,1 @@
+We adopt the p-group generation algorithm to classify small-dimensional nilpotent Lie algebras over small fields. Using an implementation of this algorithm, we list the nilpotent Lie algebras of dimension at most~9 over \F_2 and those of dimension at most~7 over \F_3 and \F_5.

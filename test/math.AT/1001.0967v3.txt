@@ -1,0 +1,1 @@
+Alan Weinstein showed that certain characteristic numbers of any Riemannian submersion with totally geodesic fibers and positive vertizontal curvatures are nonzero. In this paper we explicitly compute these invariants in terms of Chern and Pontrjagin numbers of the bundle. This allows us to show that many bundles do not admit such metrics.

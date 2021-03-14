@@ -1,0 +1,1 @@
+A covering problem posed by Henri Lebesgue in 1914 seeks to find the convex shape of smallest area that contains a subset congruent to any point set of unit diameter in the Euclidean plane. Methods used previously to construct such a covering can be refined and extended to provide an improved upper bound for the optimal area. An upper bound of 0.8440935944 is found.

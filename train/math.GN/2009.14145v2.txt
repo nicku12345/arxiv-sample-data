@@ -1,0 +1,1 @@
+We categorify the adjunction between locales and topological spaces, this amounts to an adjunction between (generalized) bounded ionads and topoi. We show that the adjunction is idempotent. We relate this adjunction to the Scott adjunction, which was discussed from a more categorical point of view in [Liba]. We hint that 0-dimensional adjunction inhabits the categorified one.

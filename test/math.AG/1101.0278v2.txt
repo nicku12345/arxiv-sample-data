@@ -1,0 +1,1 @@
+We describe a new approach to the Schubert calculus on complete flag varieties using the volume polynomial associated with Gelfand-Zetlin polytopes. This approach allows us to compute the intersection products of Schubert cycles by intersecting faces of a polytope.

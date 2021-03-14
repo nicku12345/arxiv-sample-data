@@ -1,0 +1,1 @@
+An object in motivic homotopy theory is called cellular if it can be built out of motivic spheres using homotopy colimit constructions. We explore some examples and consequences of cellularity. We explain why the algebraic K-theory and algebraic cobordism spectra are both cellular, and prove some Kunneth theorems for cellular objects.

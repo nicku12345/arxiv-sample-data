@@ -1,0 +1,1 @@
+In this note we present some remarks on big Cohen-Macaulay algebras. Our methods for doing this are inspired by the notion of dagger closure and by ideas of Northcott on dropping of the Noetherian assumption of certain homological properties.

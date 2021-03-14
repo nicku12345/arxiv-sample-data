@@ -1,0 +1,1 @@
+For any natural number n \geq 2, we construct a triangulated monoidal category whose Grothendieck ring is isomorphic to the ring of cyclotomic integers \mathbb{O}_n.

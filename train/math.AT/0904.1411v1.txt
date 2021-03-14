@@ -1,0 +1,1 @@
+We find conditions on topological spaces X, Y and nonempty subset B of Y which guarantee that for each continuous map f from X to Y there exists a map g homotopic to f such that Nielsen preimage classes of g^{-1}(B) are all topologically essential.

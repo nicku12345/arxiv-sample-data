@@ -1,0 +1,1 @@
+Let G be a group. We can topologize the spaces of left-orderings LO(G) and bi-orderings O(G) of G with the product topology. These spaces may or may not have isolated points. It is known that LO(F_2) has no isolated points, where F_2 is a free group on two generators. In this paper we show that O(F_2) has no isolated points as well.

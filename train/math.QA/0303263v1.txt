@@ -1,0 +1,1 @@
+We consider semisimple triangular operators acting in the symmetric component of the group algebra over the weight lattice of a root system. We present a determinantal formula for the eigenbasis of such triangular operators. This determinantal formula gives rise to an explicit construction of the Macdonald polynomials and of the Heckman-Opdam generalized Jacobi polynomials.

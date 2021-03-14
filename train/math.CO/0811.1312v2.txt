@@ -1,0 +1,1 @@
+We show that with high probability a random set of size \Theta(n^{1-1/k}) of \{1,...,n\} contains two elements a and a+d^k, where d is a positive integer. As a consequence, we prove an analogue of S\'ark\"ozy-F\"urstenberg's theorem for random set.

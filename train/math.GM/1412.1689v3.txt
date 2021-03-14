@@ -1,0 +1,1 @@
+Fermat's Last Theorem states that the Diophantine equation X^n+Y^n=Z^n has no non-trivial solution for any n greater than 2. In this paper we give a brief and simple proof of the theorem using only elementary methods.

@@ -1,0 +1,1 @@
+Let \Phi:F\rightarrow F be a polynomially-growing automorphism of a finite-rank free group F. Then G=F\rtimes_{_\Phi}\mathbb Z acts freely on a CAT(0) cube complex.

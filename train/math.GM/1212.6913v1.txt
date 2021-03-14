@@ -1,0 +1,1 @@
+The 'nice' x:\mathbf{R}\rightarrow\{0,1\}^{n} functions from the asynchronous systems theory are called signals. The periodicity of a point of the orbit of the signal x is defined and we give a note on the existence of the prime period.

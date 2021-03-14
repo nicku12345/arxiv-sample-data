@@ -1,0 +1,1 @@
+Suppose X and Y are locally compact Hausdorff spaces, E and F are Banach spaces and F is strictly convex. We show that every linear isometry T from C_0(X,E) {\em into} C_0(Y,F) is essentially a weighted composition operator Tf(y) = h(y) (f(\varphi(y))). This supplements results of Jerison (when T is onto) and Cambern (when X,Y are compact).

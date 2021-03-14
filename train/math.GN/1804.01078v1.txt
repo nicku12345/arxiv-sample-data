@@ -1,0 +1,1 @@
+In this paper, we prove that if the weak Pareto solution set of a monotone vector variational inequality is disconnected then each connected component of this set is unbounded. Consequently, the set is connected when it is bounded and nonempty. Similar assertions are also valid for the proper Pareto solution set.

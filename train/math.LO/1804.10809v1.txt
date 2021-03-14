@@ -1,0 +1,1 @@
+We describe a syntactic method for taking proofs which use ultraproducts and translating them into direct, constructive proofs.

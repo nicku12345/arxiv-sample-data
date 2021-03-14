@@ -1,0 +1,1 @@
+Let L be a prime alternating link with n crossings. We show that for each fixed g, the number of genus g incompressible surfaces in the complement of L is bounded by a polynomial in n. Previous bounds were exponential in n.

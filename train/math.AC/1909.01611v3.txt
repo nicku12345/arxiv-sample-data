@@ -1,0 +1,1 @@
+In this paper we explicitly compute the derivation module of quotients of polynomial rings by ideals formed by the sum or by some other gluing technique. We discuss cases of monomial ideals and binomial ideals separately.

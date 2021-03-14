@@ -1,0 +1,1 @@
+The following theorem is the main result of this note. Theorem 1. Let (E, \|\cdot\|_E)  be a rearrangement invariant Banach function space on the interval [0, 1]. If E is isometric to \L_p [0, 1] for some 1\le p<\infty, then E coincides with \L_p [0, 1] and furthermore \|\cdot\|_E = \lambda\|\cdot\|_{\L_p}, where \lambda = \|{\bf 1}\|_E.

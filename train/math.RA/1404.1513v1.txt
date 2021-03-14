@@ -1,0 +1,1 @@
+In this paper we find a Clifford algebra associated to generalized Fibonacci quaternions. In this way, we provide a nice algorithm to obtain a division quaternion algebra starting from a quaternion non-division algebra and vice-versa.

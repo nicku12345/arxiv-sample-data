@@ -1,0 +1,1 @@
+One considers weighted sums over points of lattice polytopes, where the weight of a point v is the monomial q^f(v) for some linear form f. One proposes a q-analogue of the classical theory of Ehrhart series and Ehrhart polynomials, including Ehrhart reciprocity and involving evaluation at the q-integers.

@@ -1,0 +1,1 @@
+We study Nevai's condition that for orthogonal polynomials on the real line, K_n(x,x_0)^2 K_n(x_0,x_0)^{-1} d\rho (x)\to\delta_{x_0} where K_n is the CD kernel. We prove that it holds for the Nevai class of a finite gap set uniformly on the spectrum and we provide an example of a regular measure on [-2,2] where it fails on an interval.

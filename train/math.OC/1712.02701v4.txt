@@ -1,0 +1,1 @@
+This article develops a duality principle for non-linear elasticity. The results are obtained through standard tools of convex analysis and the Legendre transform concept. We emphasize the dual variational formulation is concave. Moreover, sufficient optimality conditions are also established.

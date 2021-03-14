@@ -1,0 +1,1 @@
+We present sharp bounds for \sum_{i=1}^n \alpha_i x_i - \prod_{i=1}^n x_i^{\alpha_i} in terms of the variance of the vector (x_1^{1/2},...,x_n^{1/2}).

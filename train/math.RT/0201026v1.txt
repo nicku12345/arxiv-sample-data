@@ -1,0 +1,1 @@
+Let G be a complex semisimple Lie group. The aim of this article is to compare two basis for G-modules, namely the standard monomial basis and the dual canonical basis. In particular, we give a sufficient condition for a standard monomial to be an element of the dual canonical basis and vice versa.

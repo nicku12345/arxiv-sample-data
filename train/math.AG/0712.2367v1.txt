@@ -1,0 +1,1 @@
+We prove the Bertram-Feinberg-Mukai conjecture for a generic curve C of genus g and a semistable vector bundle E of rank two and determinant K on C, namely we prove the injectivity of the Petri-canonical map S^2(H^0(E))\to H^0(S^2(E)).

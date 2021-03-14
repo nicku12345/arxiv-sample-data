@@ -1,0 +1,1 @@
+Exact bounds for the positions of the branch points for cyclic coverings of the p-adic projective line by Mumford curves are calculated in two ways. Firstly, by using Fumiharu Kato's *-trees, and secondly by giving explicit matrix representations of the Schottky groups corresponding to the Mumford curves above the projective line through combinatorial group theory.

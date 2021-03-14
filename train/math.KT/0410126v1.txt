@@ -1,0 +1,1 @@
+In this short note, we show that the cohomology of an algebra entwined with a coalgebra as defined by T. Brzezi\'nski (J. Algebra 235 (2001), no. 1, 176--202; arXiv:math.RA/9909108) computes the Hochschild cohomology of the subalgebra of coinvariants when the extension is Galois.

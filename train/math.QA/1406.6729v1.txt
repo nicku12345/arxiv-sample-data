@@ -1,0 +1,1 @@
+In this paper the structure of the Drinfeld realization \Udr_q of affine quantum algebras (both untwisted and twisted) is described in details, and its defining relations are studied and simplified. As an application, a homomorphism \psi from this realization to the Drinfeld and Jimbo presentation \U_q^{DJ} is provided, and proved to be surjective.

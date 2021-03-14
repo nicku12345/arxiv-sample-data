@@ -1,0 +1,1 @@
+Let \sum_{d|n} denote sum over divisors of a positive integer n, and t_{r}(n) denote the number of representations of n as a sum of r triangular numbers. Then we prove that  \sum_{d|n}\frac{1+2\,(-1)^{d}}{d}=\sum_{r=1}^{n}\frac{(-1)^{r}}{r}\, \binom{n}{r}\, t_{r}(n)  using a result of Ono, Robbins and Wahl.

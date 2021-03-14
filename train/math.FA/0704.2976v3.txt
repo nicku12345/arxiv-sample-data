@@ -1,0 +1,1 @@
+Let UC(K) denote the Banach space of all bounded uniformly continuous functions on a hypergroup K. The main results of this article concern on the \alpha-amenability of UC(K) and quotients and products of hypergroups. It is also shown that a Sturm-Liouville hypergroup with a positive index is \alpha-amenable if and only if \alpha=1.

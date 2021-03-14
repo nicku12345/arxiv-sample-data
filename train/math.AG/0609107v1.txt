@@ -1,0 +1,1 @@
+We use the Brill-Noether theory to prove the Green conjecture for exceptional curves on K3 surfaces. Such curves count among the few ones having Clifford dimension at least three. We obtain our result by adopting an infinitesimal approach due to Pareschi, and using a degenerate version of a theorem due to Hirschowitz-Ramanan-Voisin.

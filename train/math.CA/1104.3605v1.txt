@@ -1,0 +1,1 @@
+In this paper, we discuss foliations by real curves. We investigate differential equations which are modifications of du/dx = v along leaves. Our focus is on having a solution operator so that u is continuous if v is continuous.

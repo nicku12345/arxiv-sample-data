@@ -1,0 +1,1 @@
+We compute an explicit algebraic deformation quantization for an affine Poisson variety described by an ideal in a polynomial ring, and inheriting its Poisson structure from the ambient space.

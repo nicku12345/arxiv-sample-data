@@ -1,0 +1,1 @@
+We study Gorenstein almost Fano threefolds X with canonical singularities and pseudoindex > 1. We show that the maximal Picard number of X is 10 in general, 3 if X is Fano, and 8 if X is toric. Moreover, we characterize the boundary cases. In the Fano case, we prove that the generalized Mukai conjecture holds.

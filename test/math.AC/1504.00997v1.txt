@@ -1,0 +1,1 @@
+We give a bijective proof that the Betti numbers of a minimal free resolution of the Stanley-Reisner ring of a cycle graph (viewed as a one-dimensional simplicial complex) are given by the number of standard Young tableaux of a given shape.

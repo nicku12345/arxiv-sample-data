@@ -1,0 +1,1 @@
+Let L be a line bundle on a K3 or Enriques surface. We give a vanishing theorem for H^1(L) that, unlike most vanishing theorems, gives necessary and sufficient geometrical conditions for the vanishing. This result is essential in our study of Brill-Noether theory of curves on Enriques surfaces (reference [KL1]) and of Enriques-Fano threefolds (reference [KLM]).

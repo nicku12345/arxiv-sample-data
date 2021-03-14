@@ -1,0 +1,1 @@
+We show that a strengthened version of the Collet-Eckmann condition for multimodal maps is topologically invariant. In particular, if f is non-uniformly expanding and the critical points are generic with respect to the absolutely continuous invariant measure, then any map g topologically conjugate to f is also non-uniformly expanding.

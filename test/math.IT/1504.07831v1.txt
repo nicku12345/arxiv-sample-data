@@ -1,0 +1,1 @@
+In this paper, we study skew cyclic codes over the ring R=\F_q+u\F_q+v\F_q+uv\F_q, where u^{2}=u,v^{2}=v,uv=vu, q=p^{m} and p is an odd prime. We investigate the structural properties of skew cyclic codes over R through a decomposition theorem. Furthermore, we give a formula for the number of skew cyclic codes of length n over R.

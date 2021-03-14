@@ -1,0 +1,1 @@
+We prove that the relation E_0(\rho, W^{-}) + E_0(\rho, W^{+}) \geq 2 E_0(\rho, W) holds for any binary input discrete memoryless channel W, and \rho \geq 0.

@@ -1,0 +1,1 @@
+We provide a generalization of Mehta-Ramanathan theorems to framed sheaves: we prove that the restriction of a \mu-semistable framed sheaf on a nonsingular projective irreducible variety, of dimension greater or equal than two, to a general hypersurface of sufficiently high degree is again \mu-semistable. The same holds for \mu-stability under some additional assumptions.

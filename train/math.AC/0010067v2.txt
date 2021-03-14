@@ -1,0 +1,1 @@
+Given a flat, projective morphism Y \to T from an equidimensional scheme to a nonsingular curve and a subscheme Z of Y, we give conditions under which specialization of the Segre class s(N_{Z}Y) of the normal cone of Z in Y implies flatness of the normal cone. We apply this result to study when the relative tangent star cone of a flat family is flat.

@@ -1,0 +1,1 @@
+We prove the \Lambda-variation diminishing property of the Bernstein and Kantorovich polynomials. Next we apply this result to characterize the space C\Lambda BV_c as the closure of the space of polynomials in the \Lambda BV norm. A new proof of the separability of C\Lambda BV_c is given.

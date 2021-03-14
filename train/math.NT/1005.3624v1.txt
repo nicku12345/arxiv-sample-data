@@ -1,0 +1,1 @@
+We show that essentially the Fibonacci sequence is the unique binary recurrence which contains infinitely many three-term arithmetic progressions. A criterion for general linear recurrences having infinitely many three-term arithmetic progressions is also given.

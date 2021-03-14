@@ -1,0 +1,1 @@
+In this paper, we introduce and study a relative complete cohomology theory in Grothendieck categories. Some properties of this cohomology including vanishing and balancedness are given. As an application of our approach, we prove a new balanced result for Tate cohomology in Grothendieck categories.

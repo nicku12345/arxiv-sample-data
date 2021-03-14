@@ -1,0 +1,1 @@
+We give an example of a non-trivial linear operad that only admits trivial coalgebras and give sufficient conditions ensuring that the cofree coalgebra functor be faithful.

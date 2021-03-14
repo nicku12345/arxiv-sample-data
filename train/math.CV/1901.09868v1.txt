@@ -1,0 +1,1 @@
+We construct a boundary integral formula for harmonic functions on open, smoothly-bordered subdomains of Riemann surfaces embeddable into \C\P^2. The formula may be considered as an analogue of the Green's formula for domains in \C.

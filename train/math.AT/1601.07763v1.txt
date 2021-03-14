@@ -1,0 +1,1 @@
+We prove that the existence of a Hurewicz fibration between certain spaces with the homotopy type of a CW-complex implies some topological restrictions on their universal coverings. This result is used to deduce differentiable and metric properties of maps between compact Riemannian manifolds under curvature restrictions.

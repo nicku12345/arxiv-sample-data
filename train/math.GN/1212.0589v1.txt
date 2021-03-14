@@ -1,0 +1,1 @@
+In this note we relate some selection principles to metrisability and separability of a manifold. In particular we show that \sf{S}_{fin}(\mathcal K,\mathcal O), \sf{S}_{fin}(\Omega,\Omega) and \sf{S}_{fin}(\Lambda,\Lambda) are each equivalent to metrisability for a manifold, while \sf{S}_1(\mathcal D,\mathcal D) is equivalent to separability for a manifold.

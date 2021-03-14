@@ -1,0 +1,1 @@
+In this article, we develop an algorithm to calculate the set of all integers m for which there exists a linear operator T on {\mathbb R}^n such that {\mathbb R}^n has exactly m T-invariant subspaces. A brief discussion is included as how these methods might be extended to vector spaces over arbitrary fields.

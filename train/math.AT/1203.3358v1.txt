@@ -1,0 +1,1 @@
+We study the cohomology of the space of immersed genus g surfaces in a simply-connected manifold. We compute the rational cohomology of this space in a stable range which goes to infinity with g. In fact, in this stable range we are also able to obtain information about torsion in the cohomology of this space, as long as we localise away from (g-1).

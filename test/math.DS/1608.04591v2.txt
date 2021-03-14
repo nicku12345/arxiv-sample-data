@@ -1,0 +1,1 @@
+This article provides optimal constants for two quantitative recurrence problems. First of all for recurrence of maps of the interval [0,1] that preserve the Lebesgue measure and on the other hand Lagrange spectrum of interval exchange transformations. Both results are based on a non-conventional packing problem in the plane with respect to the "pseudo-norm" N(x,y) = sqrt(|xy|).

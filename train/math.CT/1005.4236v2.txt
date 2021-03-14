@@ -1,0 +1,1 @@
+For any locally cartesian closed category E, we prove that a local fibered right adjoint between slices of E is given by a polynomial. The slices in question are taken in a well known fibered sense.

@@ -1,0 +1,1 @@
+We investigate the spectrum of the Lax operator L_u of the Benjamin-Ono equation on the torus for complex valued potentials u in the Sobolev space H^{-s}(\T, \C), 0 \le s < 1/2, with small imaginary part and prove analytic properties of the moment map, defined in terms of spectral data of L_u.

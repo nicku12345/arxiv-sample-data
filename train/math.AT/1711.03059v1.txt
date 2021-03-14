@@ -1,0 +1,1 @@
+We construct a new category of vector spaces which contains both the standard category of vector spaces and Grassmannians. Its space of objects classifies vector bundles, its space of morphisms classifies bundle isomorphisms, and it can be delooped to obtain the topological K-theory spectrum.

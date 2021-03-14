@@ -1,0 +1,1 @@
+We prove uniform Morrey-Campanato estimates for Helmholtz equations in the case of two unbounded inhomogeneous media separated by an interface. They imply weighted L^2-estimates for the solution. We prove also a uniform L^2-estimate {\em without weight} for the trace of the solution on the interface

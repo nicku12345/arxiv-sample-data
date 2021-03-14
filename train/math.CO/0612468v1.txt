@@ -1,0 +1,1 @@
+We provide a geometrical construction of the slim dense near hexagon with parameters (s,t,t_{2})=(2,5,\{1,2\}). Using this construction, we construct the rank 3 symplectic dual polar space DSp(6,2) which is the slim dense near hexagon with parameters (s,t,t_{2})=(2,6,2). Both the near hexagons are constructed from two copies of a generalized quadrangle with parameters (2,2).

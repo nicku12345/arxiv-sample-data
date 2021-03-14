@@ -1,0 +1,1 @@
+We prove a uniqueness result for limit cycles of the second order ODE \ddot x + \sum_{j=1}^{J}f_{j}(x)\dot x^{j} + g(x) = 0. We extend a uniqueness result proved in \cite{CRV}. The main tool applied is an extension of Massera theorem proved in \cite{GS}.

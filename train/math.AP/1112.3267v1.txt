@@ -1,0 +1,1 @@
+We prove the existence of at least one T-periodic solution (T > 0) for differential equations of the form (u'(t)/sqrt{1-u'^2(t)})'=f(u(t))+h(t), in (0,T), where f is a continuous function defined on R that satisfies a strong resonance condition, h is continuous and with zero mean value. Our method uses variational techniques for nonsmooth functionals.

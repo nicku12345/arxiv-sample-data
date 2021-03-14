@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring, \fa an ideal of R and M a finitely generated R--module. Let t be a non-negative integer such that \H^i_\fa(M) is \fa--cofinite for all i<t. It is well--known that \Hom_R(R/\fa,\H^t_\fa(M)) is finitely generated R--module. In this paper we study the finiteness of \Ext^1_R(R/\fa,\H^t_\fa(M)) and \Ext^2_R(R/\fa,\H^t_\fa(M)).

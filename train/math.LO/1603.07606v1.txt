@@ -1,0 +1,1 @@
+This article aims to present a neighborhood semantic for a modal logic, namely, propositional logic of the plausible. As a subnormal character modal logic, not admits a Kripke semantics. However, the authors show that this neighborhood semantic, reach a relational semantics for propositional logic of the plausible.

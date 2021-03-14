@@ -1,0 +1,1 @@
+The multivariable Conway function is generalized to oriented framed trivalent graphs equipped with additional structure (coloring). This is done via refinements of Reshetikhin-Turaev functors based on irreducible representations of quantized gl(1|1) and sl(2). The corresponding face state sum models for the generalized Conway function are presented.

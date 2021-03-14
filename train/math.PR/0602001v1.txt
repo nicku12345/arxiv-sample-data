@@ -1,0 +1,1 @@
+Given a symmetric random walk in Z^2 with finite second moments, let R_n be the range of the random walk up to time n. We study moderate deviations for R_n -E R_n and E R_n -R_n. We also derive the corresponding laws of the iterated logarithm.

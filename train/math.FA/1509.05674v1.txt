@@ -1,0 +1,1 @@
+We show how positive unital linear maps can be used to obtain lower bounds for the maximum distance between the eigenvalues of two normal matrices. Some related bounds for the spread and condition number of Hermitian matrices are also discussed here.

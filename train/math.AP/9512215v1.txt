@@ -1,0 +1,1 @@
+A necessary and sufficient condition for local solvability is presented for the linear partial differential operators -X^2-Y^2+ia(x)[X,Y] in \bold R^3=\{(x,y,t)\}, where X=\partial_x,\; Y=\partial_y+x^k\partial_t, and a\in C^{\infty}(\bold R^1) is real valued, for each positive integer k.

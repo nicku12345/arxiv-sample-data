@@ -1,0 +1,1 @@
+Let E be a graded division ring finite-dimensional over its center with torsion-free abelian grade group, and let q(E) be its quotient division ring. Let tau be a degree-preserving unitary involution on E. We prove that SK_1(E, tau) is isomorphic to SK_1(q(E), tau).

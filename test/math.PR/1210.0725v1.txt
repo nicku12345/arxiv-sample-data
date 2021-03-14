@@ -1,0 +1,1 @@
+This note provides a tool to infer moderate deviations principles for specific random variables from deviations principles for their Hubbard-Stratonovich transforms.

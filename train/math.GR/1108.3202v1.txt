@@ -1,0 +1,1 @@
+The relative commutativity degree of a subgroup H of a finite group G, denoted by \Pr(H, G), is the probability that an element of G commutes with an element of H. In this article we obtain some lower and upper bounds for \Pr(H, G) and their consequences. We also study an invariance property of \Pr(H, G) and its generalizations, under isoclinism of pairs of groups.

@@ -1,0 +1,1 @@
+We study stratifying ideals for rings in the context of relative homological algebra. Using LU-decompositions, which are a special type of twisted products, we give a sufficient condition for an idempotent ideal to be (relative) stratifying.

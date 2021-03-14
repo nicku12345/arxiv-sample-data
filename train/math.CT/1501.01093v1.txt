@@ -1,0 +1,1 @@
+We prove that the collection of model structures on (quasicoherent) module categories does not obey flat descent. In particular, it fails to be a separated presheaf, in the fppf topology, on Artin stacks.

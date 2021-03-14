@@ -1,0 +1,1 @@
+Using a generalization of forward elimination, it is proved that functions f_1,...,f_n:X\to\mathbb{A}, where \mathbb{A} is a field, are linearly independent if and only if there exists a nonsingular matrix [f_i(x_j)] of size n, where x_1,...,x_n\in X.

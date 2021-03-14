@@ -1,0 +1,1 @@
+D-loops are loops with the antiautomorphic inverse property. The class of such loops is larger than the class of IP-loops. The smallest D-loops which is not an IP-loop has six elements. We prove several basic properties of such loops and present methods of constructions of D-loops from IP-loops. Unfortunately, a loop isotopic to a D-loop may not be a D-loop.

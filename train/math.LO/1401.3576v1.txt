@@ -1,0 +1,1 @@
+We provide a complete classification of solvable instances of the equational unification problem over De Morgan and Kleene algebras with respect to unification type. The key tool is a combinatorial characterization of finitely generated projective De Morgan and Kleene algebras.

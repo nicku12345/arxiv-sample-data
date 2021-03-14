@@ -1,0 +1,1 @@
+Let \cF be a family of finite loops closed under subloops and factor loops. Then every loop in \cF has the strong Lagrange property if and only if every simple loop in \cF has the weak Lagrange property. We exhibit several such families, and indicate how the Lagrange property enters into the problem of existence of finite simple loops.

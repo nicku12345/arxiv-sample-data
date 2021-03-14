@@ -1,0 +1,1 @@
+We describe Maple packages for the automatic generation of generating functions(and series expansions) for counting lattice animals(fixed polyominoes), in the two-dimensional hexagonal lattice, of bounded but arbitrary width. Our Maple packages(complete with source code) are easy-to-use and available from my website.

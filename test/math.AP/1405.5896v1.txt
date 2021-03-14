@@ -1,0 +1,1 @@
+In this paper, we establish a local gradient estimate for a p-Lpalacian equation with a fast growing gradient nonlinearity. With this estimate, we can prove a parabolic Liouville theorem for ancient solutions satisfying some growth restriction near infinity.

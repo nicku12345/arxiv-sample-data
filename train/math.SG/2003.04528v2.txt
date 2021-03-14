@@ -1,0 +1,1 @@
+We prove the Hamiltonian unknottedness of real Lagrangian tori in the monotone S^2\times S^2, namely any real Lagrangian torus in S^2\times S^2 is Hamiltonian isotopic to the Clifford torus \mathbb{T}_{\text{Clif}}. The proof is based on a neck-stretching argument, Gromov's foliation theorem, and the Cieliebak-Schwingenheuer criterion.

@@ -1,0 +1,1 @@
+We provide two examples of complex homogeneous quadratic polynomials P on Banach spaces of the form l_1(I). The first polynomial P has both separable and nonseparable maximal zero subspaces. The second polynomial P has the property that while the index-set I is not countable, all zero subspaces of P are separable.

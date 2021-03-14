@@ -1,0 +1,1 @@
+This is a corrected version of my paper published in Journal of Geometry and Physics 25(1998), 205-226. I added missing cases to the classification theorem 1.1, namely the SO(n+1)-manifold SO(n +2)/ (SO (n) \times SO(2)), the SO(3)-manifold C P^2 and the SU(3)-manifold C P^1 \times C P^1.

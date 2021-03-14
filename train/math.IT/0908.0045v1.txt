@@ -1,0 +1,1 @@
+A random construction of bipolar sensing matrices based on binary linear codes is introduced and its RIP (Restricted Isometry Property) is analyzed based on an argument on the ensemble average of the weight distribution of binary linear codes.

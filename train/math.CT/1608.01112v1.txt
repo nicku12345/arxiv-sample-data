@@ -1,0 +1,1 @@
+In this note we characterize, within the framework of the theory of finite set, those categories of graphs that are {\em algebraic universal} in the sense that every concrete category embeds in them. The proof of the characterization is based on the sparse--dense dichotomy and its model theoretic equivalent.

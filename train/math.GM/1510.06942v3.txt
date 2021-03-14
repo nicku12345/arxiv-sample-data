@@ -1,0 +1,1 @@
+The objective of this series of papers is to recover information regarding the behaviour of FQ operations in the case n=2, and FQ conform-operations in the case n=3. In this first part we study how the basic invariance properties of FQ operations (n=2) are reflected in their formal power series expansions.

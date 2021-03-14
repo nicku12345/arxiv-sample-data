@@ -1,0 +1,1 @@
+We relate a balancing property of letters for bi-infinite sequences to the invariance of the resulting 1-dimensional tiling dynamics under changes in the lengths of the tiles. If the language of the sequence space is finitely balanced, then all length changes in the corresponding tiling space result in topological conjugacies, up to an overall rescaling.

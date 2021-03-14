@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the second moment (up to height T) of the Riemann zeta function with two shifts. The case we deal with is where the real parts of the shifts are very close to zero and the imaginary parts can grow up to T^{2-\epsilon}, for any \epsilon>0.

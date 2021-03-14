@@ -1,0 +1,1 @@
+Let n \geq 4 and let \Omega be a bounded hyperconvex domain in \mathbb{C}^{n}. Let \varphi be a negative exhaustive smooth plurisubharmonic function on \Omega. We show that any holomorphic function defined on a connected open neighborhood of the support of (i\partial \overline{\partial}\varphi)^{n-3} can be extended to the holomorphic function on \Omega.

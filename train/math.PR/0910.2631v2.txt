@@ -1,0 +1,1 @@
+In this paper we study the almost sure central limit theorem started from a point for additive functionals of a stationary and ergodic Markov chain via a martingale approximation in the almost sure sense. As a consequence we derive the quenched CLT for additive functionals or reversible Markov chains.

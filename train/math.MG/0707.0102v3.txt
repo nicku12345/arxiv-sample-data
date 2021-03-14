@@ -1,0 +1,1 @@
+We prove that Alexandrov spaces X of nonnegative curvature have Markov type 2 in the sense of Ball. As a corollary, any Lipschitz continuous map from a subset of X into a 2-uniformly convex Banach space is extended as a Lipschitz continuous map on the entire space X.

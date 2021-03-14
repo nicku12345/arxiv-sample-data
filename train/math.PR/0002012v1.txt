@@ -1,0 +1,1 @@
+For f: [0,1]\to \R, we consider L^f_t, the local time of space-time Brownian motion on the curve f. Let \sS_\al be the class of all functions whose H\"older norm of order \al is less than or equal to 1. We show that the supremum of L^f_1 over f in \sS_\al is finite is \al>\frac12 and infinite if \al<\frac12.

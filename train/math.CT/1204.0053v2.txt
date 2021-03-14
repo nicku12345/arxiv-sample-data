@@ -1,0 +1,1 @@
+We motivate and give semantics to theory presentation combinators as the foundational building blocks for a scalable library of theories. The key observation is that the category of contexts and fibered categories are the ideal theoretical tools for this purpose.

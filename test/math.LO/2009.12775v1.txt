@@ -1,0 +1,1 @@
+We continue the work done by Gitik, Kanovei, Koepke, and later by the authors. We prove that for every set A in a Magidor-Radin generic extension using a coherent sequence such that o^{\vec{U}}(\kappa)<\kappa, there is a subset C' of the Magidor club such that V[A]=V[C']. Also we classify all intermediate ZFC transitive models V\subseteq M\subseteq V[G].

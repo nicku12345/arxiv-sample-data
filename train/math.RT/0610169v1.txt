@@ -1,0 +1,1 @@
+Let G:= (C^*)^k\times SL_2(C) act linearly on a vector space or its projectivisation. We obtain an effective criterion to detect whether a number of orbits in an orbit-closure is finite or not.

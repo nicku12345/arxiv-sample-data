@@ -1,0 +1,1 @@
+In this paper, we present an improved continued fraction approximation of the Wallis ratio. This approximation is fast in comparison with the recently discovered asymptotic series. We also establish the double-side inequality related to this approximation. Finally, some numerical computations are provided for demonstrating the superiority of our approximation.

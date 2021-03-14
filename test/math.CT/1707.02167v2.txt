@@ -1,0 +1,1 @@
+We examine the concept of field in tensor-triangular geometry. We gather examples and discuss possible approaches, while highlighting open problems. As the construction of residue tt-fields remains elusive, we instead produce suitable homological tensor-functors to Grothendieck categories.

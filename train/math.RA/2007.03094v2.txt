@@ -1,0 +1,1 @@
+Let R be a ring with a derivation \delta. In this paper, we prove that an analogue of Amitsur's property holds for left T-nilpotent radideals of pseudo-differential operator rings R((x^{-1}; \delta)), where R is a delta-compatible ring. As a direct consequence of this fact, we obtain an alternative characterization of the prime radical of R((x^{-1}; \delta)).

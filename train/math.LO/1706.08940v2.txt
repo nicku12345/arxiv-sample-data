@@ -1,0 +1,1 @@
+We provide algebraic conditions ensuring the decidability of the theory of modules over effectively given Pr\"ufer (in particular B\'ezout) domains with infinite residue fields in terms of a suitable generalization of the prime radical relation. For B\'{e}zout domains these conditions are also necessary.

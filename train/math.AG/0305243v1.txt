@@ -1,0 +1,1 @@
+We give the basic definitions of group actions on (algebraic) stacks, and prove the existence of fixed points and quotients as (algebraic) stacks.

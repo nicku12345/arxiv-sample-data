@@ -1,0 +1,1 @@
+In this paper, we prove that if G is a finite group in which elements of the same order outside the center are conjugate, then G is abelian or is isomorphic to S_3, the symmetry group of degree 3.

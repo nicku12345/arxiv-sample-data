@@ -1,0 +1,1 @@
+Starting form the Zakharov/Craig-Sulem formulation of the water-waves equations, we prove that one can define a pressure term and hence obtain a solution of the classical Euler equations. It is proved that these results hold in rough domains, under minimal assumptions on the regularity to ensure, in terms of Sobolev spaces, that the solutions are C^1.

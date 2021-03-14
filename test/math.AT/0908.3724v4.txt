@@ -1,0 +1,1 @@
+We show that Kervaire invariant one elements in the homotopy groups of spheres exist only in dimensions at most 126. By Browder's Theorem, this means that smooth framed manifolds of Kervaire invariant one exist only in dimensions 2, 6, 14, 30, 62, and possibly 126. With the exception of dimension 126 this resolves a longstanding problem in algebraic topology.

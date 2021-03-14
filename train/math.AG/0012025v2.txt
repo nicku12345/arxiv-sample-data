@@ -1,0 +1,1 @@
+This is an expanded comment on Barannikov's paper math.AG/0006193. A symplectic version of his construction is discussed. It is shown that the duality transformation for mirror torus fibrations over the same Monge-Ampere manifold exchanges semi-infinite A-variations of Hodge structure introduced in this paper with Barannikov's semi-infinite B-variations of Hodge structure.

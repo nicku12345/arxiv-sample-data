@@ -1,0 +1,1 @@
+If the dimension d is even, the resonances of the Schr\"odinger operator -\Delta +V on {\mathbb R}^d with V bounded and compactly supported are points on \Lambda, the logarithmic cover of {\mathbb C} \setminus \{0\}. We show that for fixed sign potentials V and for nonzero integers m, the resonance counting function for the mth sheet of \Lambda has maximal order of growth.

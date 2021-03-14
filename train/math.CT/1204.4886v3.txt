@@ -1,0 +1,1 @@
+The classical universal bundle functor W:sGrp(C) \to sSet(C) for simplicial groups in a category C with finite products lifts to a monad on sGrp(C). This result extends to simplicial algebras for any Lawvere theory containing that of groups.

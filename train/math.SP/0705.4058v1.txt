@@ -1,0 +1,1 @@
+We derive a two-terms asymptotics for eigenvalues of the Dirichlet Laplacian in a narrow strip of variable width. The asymptotics is taken with respect to a small paprameter that characterizes the width of the strip.

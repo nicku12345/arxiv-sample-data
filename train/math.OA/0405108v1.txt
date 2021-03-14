@@ -1,0 +1,1 @@
+In this paper, we will consider the free probability theory of free group factor L(F_{N}), where F_{k} is the free group with k-generators. We compute the moment series and the R-transform of the generating operator, T=g_{1}+...+g_{N}+g_{1}^{-1}+..+g_{N}^{-1}.

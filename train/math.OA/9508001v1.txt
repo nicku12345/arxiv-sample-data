@@ -1,0 +1,1 @@
+We have previously shown how to construct a deformation quantization of any locally compact space on which a vector group acts. Within this framework we show here that, for a natural class of Hamiltonians, the quantum evolutions will have the classical evolution as their classical limit.

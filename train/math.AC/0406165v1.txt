@@ -1,0 +1,1 @@
+After motivating the question we prove various results about the set of associated primes of Matlis duals of top local cohomology modules. In some cases we can calculate this set, for the general situation we present a conjecture. An easy application of this theory is the well-known fact that Krull dimension can be expressed by the vanishing of local cohomology modules.

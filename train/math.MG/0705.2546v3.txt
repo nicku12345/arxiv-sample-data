@@ -1,0 +1,1 @@
+We prove the inequality  \as A\ast_CB\le\max\{\as A,\as B,\as C+1\}  and we apply this inequality to show that the asymptotic dimension of any right-angled Coxeter group does not exceed the dimension of its Davis' complex.

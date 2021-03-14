@@ -1,0 +1,1 @@
+In this paper, we show that the derivability problem for the primal propositional logic remains solvable in polynomial time upon adding a certain form of the principle of equivalent form substitution; and that, upon adding another form of this principle, it becomes co-NP-hard.

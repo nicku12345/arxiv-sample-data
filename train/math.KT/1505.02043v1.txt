@@ -1,0 +1,1 @@
+We construct a sequence of n-1 cyclic exact sequences that can be used to compute the K-theory of the C^\star-algebra crossed product A \ltimes {\mathbb Z}_n.

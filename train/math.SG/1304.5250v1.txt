@@ -1,0 +1,1 @@
+We show that the cylinder Z^{2n}(1):= B^2(1)\times \mathbb{R}^{2(n-1)} embeds symplectically into B^4(R) \times \mathbb{R}^{2(n-2)} if R \geq \sqrt{3}.

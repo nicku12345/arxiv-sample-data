@@ -1,0 +1,1 @@
+We show that the Lindenstrauss basic sequence in l_1 may be used to construct a conditional quasi-greedy basis of l_1, thus answering a question of Wojtaszczyk. We further show that the sequence of coefficient functionals for this basis is not quasi-greedy.

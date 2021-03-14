@@ -1,0 +1,1 @@
+A generalized filter construction is used to build an example of a non-MRA normalized tight frame wavelet for dilation by 2 in L^2(\mathbb R). This example has the same multiplicity function as the Journ\'e wavelet, yet has a C^{\infty} Fourier transform and can be made to be C^r for any fixed positive integer r.

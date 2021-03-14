@@ -1,0 +1,1 @@
+In this note, we review some facts about polynomials representing functions modulo primes p. In addition we prove that the polynomial f(x) = x^{p-2} + x^{p-3} + ... + x^3 + x^2 + 2x + 1 represents the transposition (0 1) modulo p, that is, f(0) \equiv 1 (mod p), f(1) \equiv 0 (mod p), and f(a) \equiv a (mod p) for all 2 \le a \le p-1.

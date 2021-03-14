@@ -1,0 +1,1 @@
+An effective class in a closed symplectic four-manifold (X, \omega) is a two-dimensional homology class which is realized by a J-holomorphic cycle for every tamed almost complex structure J. We prove that effective classes are orthogonal to Lagrangian tori in H_2 (X ; \Bbb{Z}).

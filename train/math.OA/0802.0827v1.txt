@@ -1,0 +1,1 @@
+We study the notion of joinings of W*-dynamical systems, building on ideas from measure theoretic ergodic theory. In particular we prove sufficient and necessary conditions for ergodicity in terms of joinings, and also briefly look at conditional expectation operators associated with joinings.

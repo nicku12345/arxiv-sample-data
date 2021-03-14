@@ -1,0 +1,1 @@
+We prove that the operad of mock partially associative n-ary algebras is not Koszul, as conjectured by the second and the third author in 2009, and utilise the Zeilberger's algorithm for hypergeometric summation to demonstrate that non-Koszulness of that operad cannot be established by hunting for negative coefficients in the inverse of its Poincar\'e series.

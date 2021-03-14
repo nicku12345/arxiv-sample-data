@@ -1,0 +1,1 @@
+We identify the spaces of homogeneous polynomials in two variables K[Y^k, XY^{k-1}, ..., X^k] among representations of the Lie ring sl(2,K). This amounts to constructing a compatible K-linear structure on some abstract sl(2,K)-modules, where sl(2,K) is viewed as a Lie ring.

@@ -1,0 +1,1 @@
+For an S^{1}-manifold with boundary, we prove a localization formula applying to any equivariant cohomology theory satisfying a certain algebraic condition. We show how the localization result of Kalkman and a case of the quantization commutes with reduction theorem follow easily from the localization formula.

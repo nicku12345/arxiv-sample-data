@@ -1,0 +1,1 @@
+The purpose of this note is to present my understanding of Tim Austin's proof of the multiple ergodic theorem for commuting transformations, emphasizing on the use of joinings, extensions and factors. The existence of a sated extension, which is a key argument in the proof, is presented in a general context.

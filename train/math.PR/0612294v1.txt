@@ -1,0 +1,1 @@
+In this paper, we establish the existence of the solutions  (X, L) of reflected stochastic differential equations with possible anticipating initial random variables. The key is to obtain some substitution formula for Stratonovich integrals via a uniform convergence of the corresponding Riemann sums.

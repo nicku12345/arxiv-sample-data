@@ -1,0 +1,1 @@
+The character of an irreducible admissible representation of a p-adic reductive group is known to be a constant function in some neighborhood of any regular semisimple element \gamma in the group. Under certain mild restrictions on \gamma, we give an explicit description of a neighborhood of \gamma on which the character is constant.

@@ -1,0 +1,1 @@
+Birman-Lubotzky-McCarthy proved that any abelian subgroup of the mapping class groups for orientable surfaces is finitely generated. We apply Birman-Lubotzky-McCarthy's arguments to the mapping class groups for non-orientable surfaces. We especially find a finitely generated group isomorphic to a given torsion-free subgroup of the mapping class groups.

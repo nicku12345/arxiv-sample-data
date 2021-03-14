@@ -1,0 +1,1 @@
+We investigate the size of subspaces in sumsets and show two main results. First, if A is a subset of F_2^n with density at least 1/2 - o(n^{-1/2}) then A+A contains a subspace of co-dimension 1. Secondly, if A is a subset of F_2^n with density at least 1/2-o(1) then A+A contains a subspace of co-dimension o(n).

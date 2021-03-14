@@ -1,0 +1,1 @@
+We prove an extension of the Ocone-Karatzas integral representation, valid for all BV functions on the classical Wiener space. We establish also an elementary chain rule formula and combine the two results to compute explicit integral representations for some classes of BV composite random variables.

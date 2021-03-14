@@ -1,0 +1,1 @@
+We study the model theoretic strength of various lattices that occur naturally in topology, like closed (semi-linear or semi-algebraic or convex) sets. The method is based on weak monadic second order logic and sharpens previous results by Grzegorczyk. We also answers a question of Grzegorczyk on the 'algebra of convex sets'.

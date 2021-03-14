@@ -1,0 +1,1 @@
+We introduce a new type of algebra, which is called a Lie-Leibniz algebra. This concept is an abstraction of derived bracket construction. It will be proved that the operad of Lie-Leibniz algebras is Koszul. The strong homotopy version of derived bracket Leibniz algebras will be discussed. We will get some new results with respect to sh Lie and sh Leibniz algebras.

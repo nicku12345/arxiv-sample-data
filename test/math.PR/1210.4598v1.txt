@@ -1,0 +1,1 @@
+For M \geq 2 we construct a strictly stationary, M-tuplewise independent sequence that is mixing (in the ergodic-theoretic sense) and yet still fails to satisfy the Central Limit Theorem.

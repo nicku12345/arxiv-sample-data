@@ -1,0 +1,1 @@
+In this note, we present a systematic method to explicitly compute the determinants and inverses for some generalized Hilbert matrices associated with orthogonal systems with explicit representations. We expressed the determinant, the inverse and a lower bound for the smallest eigenvalue of such matrix in terms of the explicit orthogonal system.

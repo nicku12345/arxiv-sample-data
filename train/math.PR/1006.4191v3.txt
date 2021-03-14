@@ -1,0 +1,1 @@
+Consider an independent site percolation model on \Z^d,\ d\geq 2, with parameter p \in (0,1), where there are only nearest neighbor bonds and long range bonds of length k parallel to some coordinate axis. We show that the percolation probability is a non-decreasing function of k. We also generalize this result for models whose long range bonds have several lengths.

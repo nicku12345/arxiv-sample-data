@@ -1,0 +1,1 @@
+We examine the finite group actions on K3 and Abelian surfaces giving the same orbit space after desingularization. We show that when the group is not Z_2, then the Picard number of the K3 surface must be 19 or 20, and that in the latter case the Abelian surface is uniquely determined by the K3 surface.

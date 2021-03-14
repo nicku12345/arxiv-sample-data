@@ -1,0 +1,1 @@
+An efficient numerical algorithm for the computation of linking number is presented. The algorithm keep tracks or rounding error so that it can ensure the correctness of the results.

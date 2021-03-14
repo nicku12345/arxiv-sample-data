@@ -1,0 +1,1 @@
+We show that there is no compact hyperbolic Coxeter d-polytope with d+4 facets for d>7. This bound is sharp: examples of such polytopes up to dimension 7 were found by Bugaenko (1984). We also show that in dimension d=7 the polytope with 11 facets is unique.

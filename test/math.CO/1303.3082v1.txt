@@ -1,0 +1,1 @@
+This paper deals with adjacency matrices of signed cycle graphs and chemical descriptors based on them. The eigenvalues and eigenvectors of the matrices are calculated and their efficacy in classifying different signed cycles is determined. The efficacy of some numerical indices is also examined.

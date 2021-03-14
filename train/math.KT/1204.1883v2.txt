@@ -1,0 +1,1 @@
+We introduce an alternative proof, with the use of tools and notions for Hopf algebras, to show that Hopf Galois coextensions of coalgebras are the sources of stable anti Yetter-Drinfeld modules. Furthermore we show that two natural cohomology theories related to a Hopf Galois coextension are isomorphic.

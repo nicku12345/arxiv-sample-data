@@ -1,0 +1,1 @@
+Conditional quantiles provide a natural tool for reporting results from regression analyses based on semiparametric transformation models. We consider their estimation and construction of confidence sets in the presence of censoring.

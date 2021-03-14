@@ -1,0 +1,1 @@
+We give a short straightforward proof for the bound of the reminder term in the Taylor theorem. The proof uses only induction and the fact that f'\geq 0 implies the monotonicity of f, so it might be an attractive proof to give to undergraduate students.

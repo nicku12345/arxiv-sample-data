@@ -1,0 +1,1 @@
+The Klein-Gordon - Schroedinger system with Yukawa coupling is shown to have a unique global solution for rough data, which not necessarily have finite energy. The proof uses a generalized bilinear estimate of Strichartz type and Bourgain's idea to split the data into low and high frequency parts.

@@ -1,0 +1,1 @@
+We present a simple method based on the stability and duality of the properties of sampling and interpolation, which allows one to substantially simplify the proofs of some classical results.

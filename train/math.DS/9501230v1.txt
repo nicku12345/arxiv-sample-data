@@ -1,0 +1,1 @@
+A new technique for obtaining rigorous results concerning the global dynamics of nonlinear systems is described. The technique combines abstract existence results based on the Conley index theory with computer- assisted computations. As an application of these methods it is proven that for an explicit parameter value the Lorenz equations exhibit chaotic dynamics.

@@ -1,0 +1,1 @@
+We prove the global well-posedness of three dimensional compressible Navier-Stokes equations for some classes of large initial data, which is of large oscillation for the density and large energy for the velocity. The structure of the system (especially, the effective viscous flux) is fully exploited.

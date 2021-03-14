@@ -1,0 +1,1 @@
+For any pair of integers n\geq 1 and q\geq 2, we construct an infinite family of mutually non-isotopic symplectic tori representing the homology class q[F] of an elliptic surface E(n), where [F] is the homology class of the fiber. We also show how such families can be non-isotopically and symplectically embedded into a more general class of symplectic 4-manifolds.

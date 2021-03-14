@@ -1,0 +1,1 @@
+In this paper, we extend the generalization of Drinfeld realization of quantum affine algebras to quantum affine superalgebras with its Drinfeld comultiplication and its Hopf algebra structure, which depends on a function g(z) satisfying the relation: g(z)=g(z^{-1})^{-1}. In particular, we present the Drinfeld realization of U_q(\hat {\frak osp}(1,2)) and its Serre relations.

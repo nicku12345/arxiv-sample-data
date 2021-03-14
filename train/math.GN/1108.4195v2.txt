@@ -1,0 +1,1 @@
+We prove that a map between two realcompact spaces is skeletal if and only if it is homeomorphic to the limit map of a skeletal morphism between w-spectra with surjective limit projections.

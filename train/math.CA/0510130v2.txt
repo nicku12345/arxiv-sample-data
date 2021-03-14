@@ -1,0 +1,1 @@
+We examine the class of functions representable by an analytic sum (by which we mean a trigonometric sum involving only positive frequencies) converging almost everywhere. We show that it is dense but that it is first category and has zero Wiener measure.

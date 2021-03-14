@@ -1,0 +1,1 @@
+Given a space X, a \sigma-algebra \mathfrak{B} on X and a measurable map T:X \to X, we say that a measure \mu is half-invariant if, for any B \in \mathfrak{B}, we have \mu(T^{-1}(B)\leq \mu (B). In this note we present a generalization of Birkhoff's Ergodic theorem to \sigma-finite half-invariant measures.

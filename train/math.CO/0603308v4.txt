@@ -1,0 +1,1 @@
+We introduce variants of Barvinok's algorithm for counting lattice points in polyhedra. The new algorithms are based on irrational signed decomposition in the primal space and the construction of rational generating functions for cones with low index. We give computational results that show that the new algorithms are faster than the existing algorithms by a large factor.

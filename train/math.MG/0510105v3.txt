@@ -1,0 +1,1 @@
+We determine the set of Busemann points of an arbitrary finite-dimensional normed space. These are the points of the horofunction boundary that are the limits of "almost-geodesics". We prove that all points in the horofunction boundary are Busemann points if and only if the set of extreme sets of the dual unit ball is closed in the Painleve-Kuratowski topology.

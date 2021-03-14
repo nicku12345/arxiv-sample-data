@@ -1,0 +1,1 @@
+In this paper we analyze the rate-distortion function R(D) achievable using linear codes over GF(q), where q is a prime number.

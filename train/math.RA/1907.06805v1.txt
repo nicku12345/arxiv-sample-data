@@ -1,0 +1,1 @@
+We give various formulas to compute the number of all involutions, i.e. elements of order 2, in an incidence algebra I(X,\mathbb{K}), where X is a finite poset (star, Y and Rhombuses) and \mathbb{K} is a finite field of characteristic different from 2. Using the techniques describing here we show an algorithm to calculate the number of involutions on any finite poset.

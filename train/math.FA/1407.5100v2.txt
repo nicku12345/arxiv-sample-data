@@ -1,0 +1,1 @@
+Properties of compositions and convex combinations of averaged nonexpansive operators are investigated and applied to the design of new fixed point algorithms in Hilbert spaces. An extended version of the forward-backward splitting algorithm for finding a zero of the sum of two monotone operators is obtained.

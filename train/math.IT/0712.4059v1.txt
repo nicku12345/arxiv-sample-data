@@ -1,0 +1,1 @@
+We consider distributed computation of functions of distributed data in random planar networks with noisy wireless links. We present a new algorithm for computation of the maximum value which is order optimal in the number of transmissions and computation time.We also adapt the histogram computation algorithm of Ying et al to make the histogram computation time optimal.

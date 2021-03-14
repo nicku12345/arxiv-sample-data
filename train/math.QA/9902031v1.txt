@@ -1,0 +1,1 @@
+The aim of this paper is to introduce and to investigate the analogues of torsors for compact quantum groups and to study their role in representation theory. Let A be a unitarizable Hopf *-algebra: we show that there is a category equivalence between *-fibre functors on unitary A-comodules and A-*-Galois extension endowed with a positive Haar measure.

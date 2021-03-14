@@ -1,0 +1,1 @@
+There is the classical Radon theorem. Given integer d \geq 1 and d+2 points in d-dimensional space R^d. Then these points can be divided into two disjoint subsets whose convex hulls have a non-empty intersection. The original proof of this theorem is usually used. In this article, this is another proof of it, by lowering the dimension.

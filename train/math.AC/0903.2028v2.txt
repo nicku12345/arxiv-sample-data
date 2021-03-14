@@ -1,0 +1,1 @@
+We introduce the concept of multiplication matrices for ideals of projective dimension zero. We discuss various applications and in particular, we give a new algorithm to compute the variety of an ideal of projective dimension zero.

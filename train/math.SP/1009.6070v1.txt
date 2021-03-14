@@ -1,0 +1,1 @@
+In this note, we prove an optimal universal lower bound on the truncated resolvent for semiclassical Schroedinger operators near a trapping energy. In particular, this shows that known upper bounds for hyperbolic trapping are optimal. The proof rely on an idea of X. P. Wang, and on propagation of coherent states for Ehrenfest times.

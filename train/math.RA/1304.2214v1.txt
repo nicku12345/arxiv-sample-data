@@ -1,0 +1,1 @@
+Let K be a complete discretely valued field and F the function field of a curve over K. If the characteristic of the residue field k of K is p > 0, then we give a bound for the Brauer p-simension of F in terms of the p-rank of k. If k is a perfect field of characteristic 2, we show that the u-invaraint of F is at most 8.

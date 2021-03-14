@@ -1,0 +1,1 @@
+Inspired by Menshov's representation theorem, we prove that there exists a sequence of frequecies such that any measurable (complex valued) function on R can be represented as a sum of almost everywhere convergent trigonometric series with these frequencies.

@@ -1,0 +1,1 @@
+All linear operators L:\mathcal{C}[z]\to \mathcal{C}[z] which decrease the diameter of the zero set of any P\in\mathcal{C}[z] are found.

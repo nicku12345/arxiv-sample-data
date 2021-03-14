@@ -1,0 +1,1 @@
+To find moments of various estimators related to Autoregressive models of Statistics, one first needs the cumulants of products of two Normally distributed random variables. The purpose of this article is to derive the corresponding formulas, and extend them to products of three or more such variables.

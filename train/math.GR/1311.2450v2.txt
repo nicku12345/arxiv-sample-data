@@ -1,0 +1,1 @@
+In this short paper we show that if (G,H) is an amenable Hecke pair and \Gamma is a subgroup of G containing H, then the Hecke pair (\Gamma, H) is amenable too. This answers positively a question of Pierre Eymard, asked in 1972, when it is restricted to Hecke pairs

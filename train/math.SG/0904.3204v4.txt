@@ -1,0 +1,1 @@
+We derive a new exact sequence in the hat-version of Heegaard Floer homology. As a consequence we see a functorial connection between the invariant of Legendrian knots and the contact element. As an application we derive two vanishing results of the contact element making it possible to easily read off its vanishing out of a surgery presentation in suitable situations.

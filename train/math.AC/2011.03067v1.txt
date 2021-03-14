@@ -1,0 +1,1 @@
+A squarefree monomial ideal is called an f-ideal if its Stanley-Reisner and facet simplicial complexes have the same f-vector. We show that f-ideals generated in a fixed degree have asymptotic density zero when the number of variables goes to infinity. We also provide novel algorithms to construct f-ideals generated in small degrees.

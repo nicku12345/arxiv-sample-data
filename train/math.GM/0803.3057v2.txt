@@ -1,0 +1,1 @@
+We show that if a graph is k-edge-connected, and we adjoin to it another graph satisfying a "contracted diameter less or equal to 2" condition, with minimal degree greater or equal to k, and some natural hypothesis on the edges connecting one graph to the other, the resulting graph is also k-edge-connected.

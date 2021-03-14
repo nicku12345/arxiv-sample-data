@@ -1,0 +1,1 @@
+We define as a distribution the product of a function (or distribution) h in some Hardy space Hp with a function b in the dual space of Hp. Moreover, we prove that the product bxh may be written as the sum of an integrable function with a distribution that belongs to some Hardy-Orlicz space, or to the same Hardy space Hp, depending on the values of p.

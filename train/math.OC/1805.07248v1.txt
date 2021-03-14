@@ -1,0 +1,1 @@
+A novel class of derivative-free optimization algorithms is developed. The main idea is to utilize certain non-commutative maps in order to approximate the gradient of the objective function. Convergence properties of the novel algorithms are established and simulation examples are presented.

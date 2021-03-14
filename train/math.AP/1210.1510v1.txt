@@ -1,0 +1,1 @@
+The axially symmetric solutions to the Navier-Stokes equations in a periodic cylinder with boundary slip conditions on the lateral part of its boundary are considered. A priori estimates for solutions with large swirl necessary for a proof of global regular solutions are derived.

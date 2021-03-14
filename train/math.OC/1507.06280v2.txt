@@ -1,0 +1,1 @@
+Mean Field Game systems describe equilibrium configurations in differential games with infinitely many infinitesimal interacting agents. We introduce a learning procedure (similar to the Fictitious Play) for these games and show its convergence when the Mean Field Game is potential.

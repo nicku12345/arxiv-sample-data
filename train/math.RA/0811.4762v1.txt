@@ -1,0 +1,1 @@
+For given depth of a we derive a formula for the depth of the image of that term under a given hypersubstitution.

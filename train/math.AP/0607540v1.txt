@@ -1,0 +1,1 @@
+For the homogeneous Boltzmann equation with (cutoff or non cutoff) hard potentials, we prove estimates of propagation of Lp norms with a weight (1+ |x|^2)^q/2 (1 < p < +\infty, q \in \R\_+ large enough), as well as appearance of such weights. The proof is based on some new functional inequalities for the collision operator, proven by elementary means.

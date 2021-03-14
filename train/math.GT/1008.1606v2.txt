@@ -1,0 +1,1 @@
+We show how to construct an ideal triangulation of a mapping torus of a pseudo-Anosov map punctured along the singular fibers. This gives rise to a new conjugacy invariant of mapping classes, and a new proof of a theorem of Farb-Leininger-Margalit. The approach in this paper is based on ideas of Hamenstadt.

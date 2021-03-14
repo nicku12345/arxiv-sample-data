@@ -1,0 +1,1 @@
+In this paper, we will prove that all non-trivial solutions of f''+A(z)f'+B(z)f=0 are of infinite order, where we have some restrictions on entire functions A(z) and B(z).

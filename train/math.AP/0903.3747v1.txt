@@ -1,0 +1,1 @@
+In this paper we study a fractional diffusion Boussinesq model which couples the incompressible Euler equation for the velocity and a transport equation with fractional diffusion for the temperature. We prove global well-posedness results.

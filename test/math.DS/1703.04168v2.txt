@@ -1,0 +1,1 @@
+For any polynomial diffeomorphism f of {\Bbb C}^2 with positive entropy, neither the Julia set of f nor of its inverse f^{-1} is semi-analytic.

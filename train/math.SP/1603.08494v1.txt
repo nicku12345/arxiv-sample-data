@@ -1,0 +1,1 @@
+Systems-conjugate points have been introduced and studied by John Barrett \cite{barr} in relation with the self-adjoint fourth order differential equation (r(x)y")"-(q(x)y')'= p(x)y, where r(x)>0, p(x)>0 and q\equiv0. In this paper we extend some of his results to more general cases, when q(x) is free of any sign restrictions.

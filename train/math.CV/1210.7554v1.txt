@@ -1,0 +1,1 @@
+In this paper, we prove that a compact set K\subset \mathbb{C}^n is the support of a weighted equilibrium measure if and only it is not pluripolar at each of its points extending a result of Saff and Totik to higher dimensions. Thus, we characterize the supports weighted equilibrium measures completely. Our proof is a new proof even in one dimension.

@@ -1,0 +1,1 @@
+Let A be an nxn (entrywise) positive matrix and let f(t)=det(I-t A). We prove that there always exists a positive integer N such that 1-f(t)^{1/N} has positive coefficients.

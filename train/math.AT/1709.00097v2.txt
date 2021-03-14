@@ -1,0 +1,1 @@
+We introduce weighted versions of the classical \v{C}ech and Vietoris-Rips complexes. We show that a version of the Vietoris-Rips Lemma holds for these weighted complexes and that they enjoy appropriate stability properties. We also give some preliminary applications of these weighted complexes.

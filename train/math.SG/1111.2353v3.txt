@@ -1,0 +1,1 @@
+In this paper we use the Ekeland-Hofer-Zehnder symplectic capacity to provide several bounds and inequalities for the length of the shortest periodic billiard trajectory in a smooth convex body in {\mathbb R}^{n}. Our results hold both for classical billiards, as well as for the more general case of Minkowski billiards.

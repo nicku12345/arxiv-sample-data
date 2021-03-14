@@ -1,0 +1,1 @@
+We investigate unital, subtractive and strongly unital regular categories with enough projectives and give characterizations of their projective covers. The categorical equation "strongly unital = unital + subtractive" is explored: this leads to proofs of their varietal characterizations in terms of the categorical properties of the corresponding algebraic theories.

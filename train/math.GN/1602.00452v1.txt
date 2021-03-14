@@ -1,0 +1,1 @@
+It is solved the problem on construction of separately continuous functions on product of n topological spaces with given restriction. In particular, it is shown that for every topological space X and n-1 Baire class function g:X\to \mathbb R there exists a separately continuous function f:X^n\to\mathbb R such that f(x,x,\dots,x)=g(x) for every x\in X.

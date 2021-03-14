@@ -1,0 +1,1 @@
+We provide lower L^q and weak L^p-bounds for the localized dyadic maximal operator on R^n, when the local L^1 and the local L^p norm of the function are given. We actually do that in the more general context of homo- geneous tree-like families in probability spaces.

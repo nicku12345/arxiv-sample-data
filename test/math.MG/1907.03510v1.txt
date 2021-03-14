@@ -1,0 +1,1 @@
+This paper discusses properties of the Higson corona by means of a quotient on coarse ultrafilters on a proper metric space. We use this description to show that the corona functor is faithful. This study provides a K\"unneth formula for twisted coarse cohomology. We obtain the Gromov boundary of a hyperbolic proper geodesic metric space as a quotient of its Higson corona.

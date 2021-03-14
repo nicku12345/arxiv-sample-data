@@ -1,0 +1,1 @@
+With the help of the multigraded Nijenhuis-- Richardson bracket and the multigraded Gerstenhaber bracket from [7] for every n\ge 2 we define n-ary associative algebras and their modules and also n-ary Lie algebras and their modules, and we give the relevant formulas for Hochschild and Chevalley cohomogy.

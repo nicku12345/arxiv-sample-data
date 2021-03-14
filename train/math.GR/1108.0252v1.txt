@@ -1,0 +1,1 @@
+We show that the homological finiteness length of a non-uniform lattice on a locally finite CAT(0) n-dimensional polyhedral complex is less than n. As a corollary, we obtain an upper bound for the homological finiteness length of arithmetic groups over function fields. This gives an easier proof of a result of Bux and Wortman that solved a long-standing conjecture.

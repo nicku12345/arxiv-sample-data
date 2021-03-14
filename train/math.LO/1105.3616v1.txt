@@ -1,0 +1,1 @@
+We present a constructive proof of Tychonoff's fixed point theorem in a locally convex space for sequentially locally non-constant functions, As a corollary to this theorem we also present Schauder's fixed point theorem in a Banach space for sequentially locally non-constant functions. We follow the Bishop style constructive mathematics.

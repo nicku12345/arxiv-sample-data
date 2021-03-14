@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions for a Schur map to be a homomorphism, with some generalizations to the infinite-dimensional case. In the finite-dimensional case, we find that a Schur multiplier distributes over matrix multiplication if and only if the Schur matrix has a certain simple form.

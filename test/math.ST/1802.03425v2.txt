@@ -1,0 +1,1 @@
+It is well-known that density estimation on the unit interval is asymptotically equivalent to a Gaussian white noise experiment, provided the densities are sufficiently smooth and uniformly bounded away from zero. We show that a uniform lower bound, whose size we sharply characterize, is in general necessary for asymptotic equivalence to hold.

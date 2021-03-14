@@ -1,0 +1,1 @@
+In this paper, we are dealing with the approximation of the process (Y,Z) solution to the backward doubly stochastic differential equation with the forward process X . After proving the L2-regularity of Z, we use the Euler scheme to discretize X and the Zhang approach in order to give a discretization scheme of the process (Y,Z).

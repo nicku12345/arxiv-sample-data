@@ -1,0 +1,1 @@
+Exceptional sequences of line bundles on a smooth projective toric surface are automatically full when they can be constructed via augmentation. By using spherical twists, we give examples that there are also exceptional sequences which can not be constructed this way but are nevertheless full.

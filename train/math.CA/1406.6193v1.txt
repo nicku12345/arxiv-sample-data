@@ -1,0 +1,1 @@
+We derive Mehler--Heine type asymptotic formulas for Charlier and Meixner polynomials, and also for their associated families. These formulas provide good approximations for the polynomials in the neighborhood of x=0, and determine the asymptotic limit of their zeros as the degree n goes to infinity.

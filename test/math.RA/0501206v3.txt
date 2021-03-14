@@ -1,0 +1,1 @@
+We define the class of non-decomposable N-ary operations in the mixed tensor algebra \bigoplus\limits_{i,j=0}^\infty A_i^j. There are higher Jacobi-like identities for (binary) deformed matrix commutator and a 3-ary operation which is non-decomposable into binary ones.

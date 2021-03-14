@@ -1,0 +1,1 @@
+Topological data analysis provides a collection of tools to encapsulate and summarize the shape of data. Currently it is mainly restricted to \emph{mapper algorithm} and \emph{persistent homology}. In this paper we introduce new mapper--inspired descriptor that can be applied for exploratory data analysis.

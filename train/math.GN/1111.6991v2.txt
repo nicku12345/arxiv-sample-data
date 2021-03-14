@@ -1,0 +1,1 @@
+Most of the assertions in the theory of well ordered sets are quite simple. However, one of its central statements, Zermelo's theorem, stands out of this rule, for its well-known proofs are rather complicated. The aim of the current paper is to propose a simple proof of this theorem. Please inform us if you ever encountered such a proof.

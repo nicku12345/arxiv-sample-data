@@ -1,0 +1,1 @@
+We prove that the best constant in the general Brascamp-Lieb inequality is a locally bounded function of the underlying linear transformations. As applications we deduce certain very general Fourier restriction, Kakeya-type, and nonlinear variants of the Brascamp-Lieb inequality which have arisen recently in harmonic analysis.

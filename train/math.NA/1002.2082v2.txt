@@ -1,0 +1,1 @@
+In this paper we present criteria for the choice of the shape parameter c contained in the famous radial function multiquadric. It may be of interest to RBF people and all people using radial basis functions to do approximation.

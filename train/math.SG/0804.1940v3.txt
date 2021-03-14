@@ -1,0 +1,1 @@
+Let (M,\omega) be a symplectic manifold, \mathcal{D}\subset TM a real polarization on M and \wp a leaf of \mathcal{D}. We construct a Fedosov-type star-product \ast_L on M such that C^\infty (\wp)[[h]] has a natural structure of left module over the deformed algebra (C^\infty (M)[[h]], \ast_L). This generalizes the results of 0708.2626.

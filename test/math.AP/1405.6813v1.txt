@@ -1,0 +1,1 @@
+We consider smooth solutions to the biharmonic heat equation on Euclidean space for which the square of the Laplacian at time t is globally bounded from above by k/t for some k in R, for all t in [0,T]. We prove local, in space and time, estimates for such solutions. We explain how these estimates imply uniqueness of smooth solutions in this class.

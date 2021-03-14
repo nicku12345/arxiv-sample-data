@@ -1,0 +1,1 @@
+Versions of well known function theoretic operator theory results of Szego and Widom are established for the Neil algebra. The Neil algebra is the subalgebra of the algebra of bounded analytic functions on the unit disc consisting of those functions whose derivative vanishes at the origin.

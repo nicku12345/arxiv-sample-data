@@ -1,0 +1,1 @@
+Strongly consistent and asymptotic normal estimators of the Hurst index of a stochastic differential equation driven by a fractional Brownian motion are proposed. The estimators are based on discrete observations of the underlying process.

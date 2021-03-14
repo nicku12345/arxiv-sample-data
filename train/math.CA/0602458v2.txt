@@ -1,0 +1,1 @@
+This is a survey on discrete linear operators which, besides approximating in Jackson or near-best order, possess some interpolatory property at some nodes. Such operators can be useful in numerical analysis.

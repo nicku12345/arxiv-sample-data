@@ -1,0 +1,1 @@
+We prove that if X is an infinite dimensional Banach lattice with a weak unit then there exists a probability space (Omega, Sigma,mu) so that the unit sphere S(L_1(Omega, Sigma, mu) is uniformly homeomorphic to the unit sphere S(X) if and only if X does not contain l_{infty}^n's uniformly.

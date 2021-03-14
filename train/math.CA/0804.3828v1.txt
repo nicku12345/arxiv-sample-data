@@ -1,0 +1,1 @@
+In this article some explicit estimates on the decay of the convolutive inverse of a sequence are proved. They are derived from the functional calculus for Sobolev algebras. Applications include localization in spline-type spaces and oversampling schemes.

@@ -1,0 +1,1 @@
+In this paper, we consider the Fourier spectral method for numerically solving the 2D convective Cahn-Hilliard equation. The semi-discrete and fully discrete schemes are established. Moreover, the existence, uniqueness and the optimal error bound are also considered.

@@ -1,0 +1,1 @@
+We study some interesting properties of Furstenberg's topology of the integers. We show that it is metrizable, totally disconnected, and (Z,+,.) is a topological ring with respect to this topology. As an application, we show that any two disjoint sets of primes can be separated by arithmetic progressions.

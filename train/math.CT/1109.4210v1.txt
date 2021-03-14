@@ -1,0 +1,1 @@
+Let A be a pseudocompact (or profinite) algebra, so A=C^* where C is a coalgebra. We show that the if the semiartinian part (the "Dickson" part) of every A-module M splits off in M, then A is semiartinian, also giving a positive answer in the case of algebras arising as dual of coalgebras (pseudocompact algebras), to a well known conjecture of Faith.

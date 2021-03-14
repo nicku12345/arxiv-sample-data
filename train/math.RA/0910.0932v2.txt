@@ -1,0 +1,1 @@
+In this paper we present a complete classification (isomorphism classes with some isomorphism invariants) of complex associative algebras up to dimension five (including both cases: unitary and non-unitary). In some symbolic computations we used Maple software.

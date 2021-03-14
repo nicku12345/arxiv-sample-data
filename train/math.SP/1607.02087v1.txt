@@ -1,0 +1,1 @@
+We consider the minimisation of Dirichlet eigenvalues \lambda_k, k \in \N, of the Laplacian on cuboids of unit measure in \R^3. We prove that any sequence of optimal cuboids in \R^3 converges to a cube of unit measure in the sense of Hausdorff as k \rightarrow \infty.

@@ -1,0 +1,1 @@
+Let X be a symplectic variety equipped with an action of a torus A. Let \nu \subset A be a finite cyclic subgroup. We show that K-theoretic stable envelope of subvarieties X^{\nu}\subset X can be obtained via various limits of the elliptic stable envelopes of X. An example of X given by the Hilbert scheme of points in the complex plane is considered in details.

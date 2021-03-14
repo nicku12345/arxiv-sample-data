@@ -1,0 +1,1 @@
+We give explicit multiplicities and formulas for multiplicities of characters appearing in the decomposition of the induced character Ind^{S_{2n}}_{C_{S_{2n}}({\sigma})} 1_C, where {\sigma} is an n-cycle, C_{S_{2n}}({\sigma}) is the centralizer of {\sigma} in S_{2n}, and 1_C denotes the trivial character on C_{S_{2n}}({\sigma}).

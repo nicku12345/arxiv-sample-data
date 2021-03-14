@@ -1,0 +1,1 @@
+In response to questions by Kassabov, Nikolov and Shalev, we show that a given subset A of a finite simple group G is the image of some word map w : G\times G\to G  if and only if (i) A contains the identity and (ii) A is invariant under \Aut (G).

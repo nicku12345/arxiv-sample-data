@@ -1,0 +1,1 @@
+We prove that, for every decreasing sequence {a \sb k} of natural numbers, there exists a map f: X --> X with cat (f\sp k)=a\sb k.

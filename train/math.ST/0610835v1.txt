@@ -1,0 +1,1 @@
+Likelihood ratio tests are intuitively appealing. Nevertheless, a number of examples are known in which they perform very poorly. The present paper discusses a large class of situations in which this is the case, and analyzes just how intuition misleads us; it also presents an alternative approach which in these situations is optimal.

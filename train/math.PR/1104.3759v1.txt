@@ -1,0 +1,1 @@
+Edgeworth-type expansions for convolutions of probability densities and powers of the characteristic functions with non-uniform error terms are established for i.i.d. random variables with finite (fractional) moments of order s \geq 2, where s may be noninteger.

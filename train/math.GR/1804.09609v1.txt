@@ -1,0 +1,1 @@
+Suppose that G is a finitely generated group and W is the formal language of words defining the identity in G. We prove that if G is a nilpotent group, the fundamental group of a finite volume hyperbolic three-manifold, or a right-angled Artin group whose graph lies in a certain infinite class, then W is not a multiple context free language.

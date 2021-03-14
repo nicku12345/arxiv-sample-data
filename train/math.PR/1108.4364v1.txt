@@ -1,0 +1,1 @@
+We define the Schramm-Loewner evolution (SLE) in multiply connected domains for kappa \leq 4 using the Brownian loop measure. We show that in the case of the annulus, this is the same measure obtained recently by Dapeng Zhan. We use the loop formulation to give a different derivation of the partial differential equation for the partition function for the annulus.

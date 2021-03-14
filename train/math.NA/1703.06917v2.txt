@@ -1,0 +1,1 @@
+In this work, we outline the entropy viscosity method and discuss how the choice of scaling influences the size of viscosity for a simple shock problem. We present examples to illustrate the performance of the entropy viscosity method under two distinct scalings.

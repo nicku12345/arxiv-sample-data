@@ -1,0 +1,1 @@
+Let A(k)u(k)=f(k) (1) be an operator equation, X and Y are Banach spaces, k\in\Delta\subset\C is a parameter, A(k):X\to Y is a map, possibly nonlinear. Sufficient conditions are given for continuity of u(k) with respect to k. Necessary and sufficient conditions are given for the continuity of u(k) with respect to k in the case of linear operators A(k).

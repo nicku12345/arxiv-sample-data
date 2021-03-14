@@ -1,0 +1,1 @@
+A theorem of Mina evaluates the determinant of a matrix with entries D^j(f(x)^i). We note the important special case where the matrix entries are evaluated at x=0 and give a simple proof of it, and some applications. We then give a short proof of the general case.

@@ -1,0 +1,1 @@
+The author provides some definitions and structural results about Fell bundles, defined as C^*-algebra bundles over topological groupoids. Such bundles are a mutual generalization of semi-direct products of groups with C^*-algebras and C^*-algebra bundles over topological spaces. In particular a Morita equivalence theorem with semi-direct products is established.

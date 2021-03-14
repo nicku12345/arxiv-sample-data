@@ -1,0 +1,1 @@
+We construct a minimal projective bimodule resolution for every finite dimensional quantum complete intersection of codimension two. Then we use this resolution to compute both the Hochschild cohomology and homology for such an algebra. In particular, we show that the cohomology vanishes in high degrees, while the homology is always nonzero.

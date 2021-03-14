@@ -1,0 +1,1 @@
+We use obstruction theory to prove that if alpha(n)=2, then RP^{16n+8} cannot be immersed in R^{32n+3} and RP^{16n+10} cannot be immersed in R^{32n+11}, and that if alpha(n)>2, then RP^{8n+4} can be embedded in R^{16n+1}. These are new results.

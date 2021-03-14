@@ -1,0 +1,1 @@
+In analogy with the Thurston norm, we define for an orientable 3-manifold M a numerical function on H_2(M;Q/Z). This function measures the minimal complexity of folded surfaces representing a given homology class. A similar function is defined on the torsion subgroup of H_1(M). These functions are estimated from below in terms of abelian torsions of M.

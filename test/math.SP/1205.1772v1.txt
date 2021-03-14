@@ -1,0 +1,1 @@
+We consider the Schr\"odinger operator on a star shaped graph with n edges joined at a single vertex. We derive an expression for the trace of the difference of the perturbed and unperturbed resolvent in terms of a Wronskian. This leads to representations for the perturbation determinant and the spectral shift function, and to an analog of Levinson's formula.

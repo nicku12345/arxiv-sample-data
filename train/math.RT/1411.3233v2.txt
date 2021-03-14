@@ -1,0 +1,1 @@
+Let W be a Coxeter group. We show that a certain power series involving a sum over all involutions in W can be expressed in terms of the Poincare series of W. (The case where W is finite is already known,)

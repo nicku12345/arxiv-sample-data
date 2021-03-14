@@ -1,0 +1,1 @@
+Green's Conjecture states the following : syzygies of the canonical model of a curve are simple up to the p^th stage if and only if the Clifford index of C is greater than p. We prove that the generic curve of genus g satisfies Green's conjecture.

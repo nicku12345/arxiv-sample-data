@@ -1,0 +1,1 @@
+We establish a motivic version of the May Nilpotence Conjecture: if E is a normed motivic spectrum that satisfies E \wedge HZ \simeq 0, then also E \wedge MGL \simeq 0. In words, motivic homology detects vanishing of normed modules over the algebraic cobordism spectrum.

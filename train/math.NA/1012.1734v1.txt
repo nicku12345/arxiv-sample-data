@@ -1,0 +1,1 @@
+For an elliptic problem with two space dimensions, we propose to formulate the finite volume method with the help of Petrov-Galerkin mixed finite elementsthat are based on the building of a dual Raviart-Thomas basis.

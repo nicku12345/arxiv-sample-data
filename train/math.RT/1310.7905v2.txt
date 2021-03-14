@@ -1,0 +1,1 @@
+I describe the current state of the development version of the CHEVIE package, which deals with Coxeter groups, reductive algebraic groups, complex reflection groups, Hecke algebras, braid monoids, etc... Examples are given, showing the code to check some results of Lusztig.

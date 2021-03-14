@@ -1,0 +1,1 @@
+In this note we report local well-posedness results for the Cauchy problems associated to generalized KdV type equations with dissipative perturbation for given data in the low regularity L^2-based Sobolev spaces. The method of proof is based on the {\em contraction mapping principle} employed in some appropriate time weighted spaces.

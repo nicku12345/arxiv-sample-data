@@ -1,0 +1,1 @@
+Based on the convex least-squares estimator, we propose two different procedures for testing convexity of a probability mass function supported on N with an unknown finite support. The procedures are shown to be asymptotically calibrated.

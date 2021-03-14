@@ -1,0 +1,1 @@
+We analyze the dispersive properties of a Dirac system perturbed with a magnetic field. We prove a general virial identity; as applications, we obtain smoothing and endpoint Strichartz estimates which are optimal from the decay point of view. We also prove a Hardy-type inequality for the perturbed Dirac operator.

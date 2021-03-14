@@ -1,0 +1,1 @@
+The main goal of this paper is to establish existence, regularity and uniqueness results for the solution of a Hamilton-Jacobi-Bellman (HJB) equation, whose operator is an elliptic integro-differential operator. The HJB equation studied in this work arises in singular stochastic control problems where the state process is a controlled d-dimensional L\'evy process.

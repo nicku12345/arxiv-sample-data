@@ -1,0 +1,1 @@
+Given \sigma a triangulation of bordered surface with marked points and punctures (S, M), we associate an ice quiver with potential (Q_{\sigma}, W_{\sigma}, F) and define the corresponding Jacobian algebra \Gamma_{\sigma}. We show that the boundary algebra B(\sigma) of \Gamma_{\sigma} depends only on the surface (S, M).

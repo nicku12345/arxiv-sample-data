@@ -1,0 +1,1 @@
+In this paper, we extend the system AF2 in order to have the subject reduction for the \beta\eta-reduction. We prove that the types with positive quantifiers are complete for models that are stable by weak-head expansion.

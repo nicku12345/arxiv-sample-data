@@ -1,0 +1,1 @@
+A poset is (r + s)-free if it does not contain two incomparable chains of size r and s, respectively. We prove that when r and s are at least 2, the First-Fit algorithm partitions every (r + s)-free poset P into at most 8(r-1)(s-1)w chains, where w is the width of P. This solves an open problem of Bosek, Krawczyk, and Szczypka (SIAM J. Discrete Math., 23(4):1992--1999, 2010).

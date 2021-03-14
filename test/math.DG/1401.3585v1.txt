@@ -1,0 +1,1 @@
+Let M be an irreducible Riemannian symmetric space. The index of M is the minimal codimension of a (non-trivial) totally geodesic submanifold of M. We prove that the index is bounded from below by the rank of the symmetric space. We also classify the irreducible Riemannian symmetric spaces whose index is less or equal than 3.

@@ -1,0 +1,1 @@
+We prove a conjecture of Drake and Kim: the number of 2-distant noncrossing partitions of \{1,2,...,n\} is equal to the sum of weights of Motzkin paths of length n, where the weight of a Motzkin path is a product of certain fractions involving Fibonacci numbers. We provide two proofs of their conjecture: one uses continued fractions and the other is combinatorial.

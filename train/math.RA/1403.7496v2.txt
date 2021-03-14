@@ -1,0 +1,1 @@
+Let D be a division ring with infinite center, n be a positive integer and w(x_1,x_2,\cdots, x_m)=1 be a generalized group identity over the general linear group \GL_n(D). The aim of this paper is to prove that every subnormal subgroup of GL_n(D) which satisfies the generalized group identity w(x_1,x_2,\cdots, x_m)=1 is central.

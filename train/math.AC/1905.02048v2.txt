@@ -1,0 +1,1 @@
+This paper studies Ulrich ideals in hypersurface rings. A characterization of Ulrich ideals is given. Using the characterization, we construct a minimal free resolution of an Ulrich ideal concretely. We also explore Ulrich ideals in a hypersurface ring of the form R = k[[X, Y]]/(f).

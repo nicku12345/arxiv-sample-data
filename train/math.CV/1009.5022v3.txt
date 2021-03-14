@@ -1,0 +1,1 @@
+We prove that a C^{1,1}-smooth bounded domain D in \C^n is linearly convex if and only if the convex hull of any two discs in D with common center lies in D.

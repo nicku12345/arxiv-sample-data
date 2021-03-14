@@ -1,0 +1,1 @@
+We consider a generalization of the Frobenius Problem where the object of interest is the greatest integer which has exactly j representations by a collection of positive relatively prime integers. We prove an analogue of a theorem of Brauer and Shockley and show how it can be used for computation.

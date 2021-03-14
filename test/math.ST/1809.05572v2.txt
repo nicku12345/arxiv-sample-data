@@ -1,0 +1,1 @@
+We give a statistical interpretation of entropic optimal transport by showing that performing maximum-likelihood estimation for Gaussian deconvolution corresponds to calculating a projection with respect to the entropic optimal transport distance. This structural result gives theoretical support for the wide adoption of these tools in the machine learning community.

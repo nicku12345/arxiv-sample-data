@@ -1,0 +1,1 @@
+We show that the r-by-r minors of a d-by-n matrix of variables form a tropical basis of the ideal they generate if and only if r<4, or r=min(d,n), or else r=4 and min(d,n)<7. This answers a question asked by M. Chan, A. Jensen, and E. Rubei.

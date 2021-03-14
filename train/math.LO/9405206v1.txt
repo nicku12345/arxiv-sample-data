@@ -1,0 +1,1 @@
+The Baer-Specker group is the product of countably many copies of the additive group Z of integers. Assuming the continuum hypothesis, we construct a pure subgroup G of the Baer-Specker group with the following properties. Every endomorphism of G differs from a scalar multiplication by an endomorphism of finite rank. Yet G has uncountably many homomorphisms to Z.

@@ -1,0 +1,1 @@
+Let (R,\fm) be commutative Noetherian local ring. It is shown that R is Cohen--Macaulay ring if there exists a Cohen--Macaulay finite (i.e. finitely generated) R--module with finite upper Gorenstein dimension. In addition, we show that, in the Intersection Theorem, projective dimension can be replaced by quasi--projective dimension.

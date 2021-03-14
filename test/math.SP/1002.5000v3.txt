@@ -1,0 +1,1 @@
+There has been quite some activity and progress concerning spectral asymptotics of random operators that are defined on percolation subgraphs of different types of graphs. In this short survey we record some of these results and explain the necessary background coming from different areas in mathematics: graph theory, group theory, probability theory and random operators.

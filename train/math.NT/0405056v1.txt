@@ -1,0 +1,1 @@
+We study the distribution of palindromic numbers (with respect to a fixed base g\ge 2) over certain congruence classes, and we derive a nontrivial upper bound for the number of prime palindromes n\le x as x\to\infty. Our results show that almost all palindromes in a given base are composite.

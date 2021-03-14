@@ -1,0 +1,1 @@
+We construct the Fock space representations for the quantum affine algebra of type C_2^{(1)} in terms of Young walls. Using this construction, we give a generalized Lascoux-Leclerc-Thibon algorithm for computing the global bases of the basic representations.

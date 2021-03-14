@@ -1,0 +1,1 @@
+A solution operator to the \bar{\partial}-equation is constructed on unbounded worm domains, D_{\beta}. Regularity estimates are proven showing the operator preserves regularity of the data. The operator may be viewed as a continuous mapping among appropriate subpaces of W^s(D_{\beta}), which depend on a rotational invariance of the domains.

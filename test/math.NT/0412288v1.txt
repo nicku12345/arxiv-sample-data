@@ -1,0 +1,1 @@
+Let pi(x) denote the number of primes smaller or equal to x. We compare sqrt{pi}(x) with sqrt{R}(x) and sqrt{li}(x), where R(x) and li(x) are the Riemann function and the logarithmic integral, respectively. We show a regularity in the distribution of the natural numbers in terms of a phase related to sqrt{pi}-sqrt{R} and indicate how li(x) can cross pi(x) for the first time.

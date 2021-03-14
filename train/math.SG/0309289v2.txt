@@ -1,0 +1,1 @@
+In this work we define a relative version of the flux homomorphism, introduced by Calabi in 1969, for a symplectic manifold. We use it to study (the universal cover of) the group of symplectomorphisms of a symplectic manifold leaving a Lagrangian submanifold invariant. We show that some quotients of this group are stable under symplectic reduction.

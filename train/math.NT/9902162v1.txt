@@ -1,0 +1,1 @@
+The authors describe a general approach which, in principal, should produce the correct (conjectural) formula for every even integer moment of the Riemann zeta function. They carry it out for the sixth and eigth powers; in the case of sixth powers this leads to the formula conjectured by Conrey and Ghosh, and in the case of eighth powers is new.

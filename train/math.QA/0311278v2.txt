@@ -1,0 +1,1 @@
+This paper generalizes the results of the paper \cite{mi3} to the case of the general \mathfrak{sl}_2 Schubert varieties. We study the homomorphisms between different Schubert varieties, describe their geometry and the group of the line bundles. We also derive some consequences, concerning the infinite-dimensional generalized affine grassmanians.

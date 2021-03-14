@@ -1,0 +1,1 @@
+Square matrices represent linear self-maps of vector spaces, and their eigenpoints are the fixed points of the induced map on projective space. Likewise, polynomial self-maps of a projective space are represented by tensors. We study the configuration of fixed points of a tensor or symmetric tensor.

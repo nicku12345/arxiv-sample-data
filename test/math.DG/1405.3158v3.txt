@@ -1,0 +1,1 @@
+In this note, we give the correct statements of [2,Proposition 3.3 and Theorem 3.4] and a formula of the Chern curvature in terms of the curvature tensor R^V of the affine connection \nabla^V and the Chern tensor P.

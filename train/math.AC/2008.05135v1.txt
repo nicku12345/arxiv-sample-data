@@ -1,0 +1,1 @@
+Let R be be a commutative ring with identity and S be a multiplicatively closed subset of R. In this article we introduce the concepts of S-coidempotent submodules and fully S-coidempotent R-modules as generalizations of coidempotent submodules and fully coidempotent R-modules. We explore some basic properties of these classes of R-modules.

@@ -1,0 +1,1 @@
+In the note, the functions \abs{\psi^{(i)}(e^x)} for i\in\mathbb{N} are proved to be sub-additive on (\ln\theta_i,\infty) and super-additive on (-\infty,\ln\theta_i), where \theta_i\in(0,1) is the unique root of equation 2\abs{\psi^{(i)}(\theta)}=\abs{\psi^{(i)}(\theta^2)}.

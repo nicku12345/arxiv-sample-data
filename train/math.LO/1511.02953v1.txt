@@ -1,0 +1,1 @@
+We present a proof of completeness for the implicational propositional calculus, based on a variant of the Lindenbaum procedure.

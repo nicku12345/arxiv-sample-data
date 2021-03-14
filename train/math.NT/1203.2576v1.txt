@@ -1,0 +1,1 @@
+The elliptic curve y^2= x^3-Nx where N=m^4+n^4 has rank at least 2 over Q(m,n). When N can be written in two different ways as sum of two fourth powers, then we prove that the rank is at least 4.

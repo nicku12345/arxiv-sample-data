@@ -1,0 +1,1 @@
+We show that the category of decomposition spaces and CULF maps is locally a topos. Precisely, the slice category over any decomposition space D is a presheaf topos, namely decomp/D=Psh(tw D).

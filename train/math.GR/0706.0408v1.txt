@@ -1,0 +1,1 @@
+Among other things, we prove that the group of automorphisms fixing every normal subgroup of a nilpotent-by-abelian group is nilpotent-by-metabelian. In particular, the group of automorphisms fixing every normal subgroup of a metabelian group is soluble of derived length at most 3. An example shows that this bound cannot be improved.

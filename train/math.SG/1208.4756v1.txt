@@ -1,0 +1,1 @@
+A symmetric periodic orbit is a special kind of periodic orbit that can also be regarded as a Lagrangian intersection point. Therefore it has two Maslov indices whose difference is the Hormander index. In this paper we provide a formula for the Hormander index of a symmetric periodic orbit and its iterates in terms of Chebyshev polynomials.

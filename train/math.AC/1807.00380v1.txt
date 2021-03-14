@@ -1,0 +1,1 @@
+This paper extends Auslander-Reiten duality in two directions. As an application, we obtain various criteria for freeness of modules over local rings in terms of vanishing of Ext modules, which recover a lot of known results on the Auslander-Reiten conjecture.

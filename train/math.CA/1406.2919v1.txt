@@ -1,0 +1,1 @@
+A topological structure of the solution set to differential inclusions with impulses at variable times is investigated. In order to do that an appropriate Banach space is defined. It is shown that the solution set is an R_{\delta}-set. Results are new also in the case of~differential equations with impulses at variable times.

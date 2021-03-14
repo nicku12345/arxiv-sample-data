@@ -1,0 +1,1 @@
+We introduce higher gentle algebras. Our definition allows us to determine the singularity categories and subsequently show that higher gentle algebras are Iwanaga-Gorenstein. Under extra assumptions, we show that cluster-tilted algebras (in the sense of Oppermann-Thomas) of higher Auslander algebras of type A are higher gentle.

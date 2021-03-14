@@ -1,0 +1,1 @@
+In contrast to the fact that every completely distributive lattice is necessarily continuous in the sense of Scott, it is shown that complete distributivity of a category enriched over the closed category obtained by endowing the unit interval with a continuous t-norm does not imply its continuity in general. Necessary and sufficient conditions for the implication are presented.

@@ -1,0 +1,1 @@
+It has been pointed out to the author by David Glickenstein that the proof of the (closely related) Lemmas 1.2 and 3.2 in the title paper is incorrect. The statements of both Lemmas are correct, and the purpose of this note is to give a correct argument. The argument is of some interest in its own right.

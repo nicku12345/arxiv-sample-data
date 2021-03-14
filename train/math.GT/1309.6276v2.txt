@@ -1,0 +1,1 @@
+We prove that graph products constructed over infinite graphs with bounded clique number preserve finite asymptotic dimension. We also study the extent to which Dranishnikov's property C, and Dranishnikov and Zarichnyi's straight finite decomposition complexity are preserved by constructions such as unions, free products, and group extensions.

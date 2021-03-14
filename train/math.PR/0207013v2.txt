@@ -1,0 +1,1 @@
+We give simple proofs that for a continuous local martingale M_t:   1) \liminf_{\epsilon->0} \epsilon \log Ee^{(1-\epsilon) <M>_\infty /2} < \infty   ==> E\exp(M_\infty - <M>_\infty /2) = 1, 2) \liminf_{\epsilon->0} \epsilon \log\sup_{t>=0} Ee^{(1-\epsilon)M_t/2} < \infty   ==> E\exp(M_\infty - <M>_\infty /2) = 1 .

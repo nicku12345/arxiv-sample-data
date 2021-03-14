@@ -1,0 +1,1 @@
+We prove that if a link admits non-trivial (2k+1)-colorings, with prime 2k+1>7, it also admits non-trivial (2k+1)-colorings not involving colors 2k, 2k-1, nor k.

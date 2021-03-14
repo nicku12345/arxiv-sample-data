@@ -1,0 +1,1 @@
+In 1957, Chandler Davis proved that unitarily invariant convex functions on the space of hermitian matrices are precisely those which are convex and symmetrically invariant on the set of diagonal matrices. We give a simple perturbation theoretic proof of this result. (Davis' argument was also very short, though based on completely different ideas).

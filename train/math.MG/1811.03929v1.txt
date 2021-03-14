@@ -1,0 +1,1 @@
+A cube is an 8-rep-tile: it is the union of eight smaller copies of itself. Is there a set with a hole which has this property? The computer found an interesting and complicated solution, which then could be simplified. We discuss some problems of computer-assisted research in geometry.

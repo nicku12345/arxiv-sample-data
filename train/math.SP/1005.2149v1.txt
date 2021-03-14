@@ -1,0 +1,1 @@
+We study spaces of reflectionless Jacobi matrices. The main theme is the following type of question: Given a reflectionless Jacobi matrix, is it possible to approximate it by other reflectionless and, typically, simpler Jacobi matrices of a special type? For example, can we approximate by periodic operators?

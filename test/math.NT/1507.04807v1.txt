@@ -1,0 +1,1 @@
+In this paper, we define a variant of Fibonacci-like sequences that we call prime Fibonacci sequences, where one takes the sum of the previous two terms and returns the smallest odd prime divisor of that sum as the next term. We prove that these sequences always terminate in a power of two but can be extended infinitely to the left.

@@ -1,0 +1,1 @@
+Restriction categories were introduced as a way of generalising the notion of partial map categories. In this paper, we define cocomplete restriction category, and give the free cocompletion of a small restriction category as a suitably defined category of restriction presheaves. We also consider the case where our restriction category is locally small.

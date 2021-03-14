@@ -1,0 +1,1 @@
+In order to adapt to the differentiable setting a formula for linear response proved by Pollicott and Vytnova in the analytic setting, we show a result of regularity of dynamical determinants of expanding maps of the circle. The main tool is the decomposition of a transfer operator as a sum of a nuclear part and a "small" bounded part.

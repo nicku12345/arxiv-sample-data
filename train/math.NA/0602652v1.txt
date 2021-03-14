@@ -1,0 +1,1 @@
+We developed a fast numerical methodfor complex symmetric shifted linear systems, which is motivated by the quantum-mechanical (electronic-structure) theory in nanoscale materials. The method is named shifted Conjugate Orthogonal Conjugate Gradient (shifted COCG) method. The formulation is given and several numerical aspects are discussed.

@@ -1,0 +1,1 @@
+Admissible locally-free sheaves on P^3, also known in the literature as mathematical instanton bundles, arise in twistor theory, and are in 1-1 correspondence with instantons on R^4. In this paper, we study admissible sheaves on P^3 from the algebraic geometric point of view. We discuss examples and compare the admissibility condition with semistability and splitting type.

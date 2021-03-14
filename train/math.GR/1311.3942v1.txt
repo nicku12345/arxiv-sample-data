@@ -1,0 +1,1 @@
+In this note we generalize the extended Brauer quotient defined by L. Puig and Y. Zhou in [4, Section 3] to the case of N-interior G-algebras, where N is a normal subgroup of a finite group G. We use this extended Brauer quotient on permutation algebras to establish some correspondences that generalize known results that hold in the group algebra case.

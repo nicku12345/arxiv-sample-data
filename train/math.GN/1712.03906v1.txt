@@ -1,0 +1,1 @@
+An \omega_1-compact space is a space in which every closed discrete subspace is countable. We give various general conditions under which a locally compact, \omega_1-compact space is \sigma-countably compact, i.e., the union of countably many countably compact spaces. These conditions involve very elementary properties.

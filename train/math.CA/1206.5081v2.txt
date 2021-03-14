@@ -1,0 +1,1 @@
+On the basis of the theory of Sturm--Liouville problem with distribution coefficients we get the infima and suprema of the first eigenvalue of the problem -y" + (q-\lambda) y=0, y'(0) -k_0^2 y(0) = y'(1) + k_1^2 y(1) = 0, where q belongs to the set of constant-sign summable functions on [0,1] such that \int_0^1 q dx=\pm 1.

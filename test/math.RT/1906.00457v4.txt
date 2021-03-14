@@ -1,0 +1,1 @@
+Let V be a free module of rank n over a commutative unital ring k. We prove that tensor space V^{\otimes r} satisfies Schur--Weyl duality, regarded as a bimodule for the action of the group algebra of the Weyl group of \mathrm{GL}(V) and the partition algebra P_r(n) over k. We also prove a similar result for the half partition algebra.

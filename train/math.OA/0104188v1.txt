@@ -1,0 +1,1 @@
+It is shown that every linear surjective isometry between two right, full, Hilbert C*-modules is a sum of two maps : a (bi-) module map (which is completely isometric and preserves the inner product) and a map that reverses the (bi-) module actions. Every such isometry can be extended to an isometry of the C* linking algebras.

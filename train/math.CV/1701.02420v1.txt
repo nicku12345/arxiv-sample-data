@@ -1,0 +1,1 @@
+We prove that every multiplier sequence for the Legendre basis which can be interpolated by a polynomial has the form \{h(k^2+k)\}_{k=0}^{\infty}, where h\in\mathbb{R}[x]. We also prove that a non-trivial collection of polynomials of a certain form interpolate multiplier sequences for the Legendre basis, and we state conjectures on how to extend these results.

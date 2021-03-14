@@ -1,0 +1,1 @@
+We consider the representation dimension, for fixed n\geq2, of ordinary and quantised Schur algebras S(n,r) over a field k. For k of positive characteristic p we give a lower bound valid for all p. We also give an upper bound in the quantum case, when k has characteristic 0.

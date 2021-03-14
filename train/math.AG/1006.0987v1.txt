@@ -1,0 +1,1 @@
+In this paper we study fiber type morphisms between moduli spaces of pointed rational curves. Via Kapranov's description we are able to prove that the only such morphisms are forgetful maps. This allow us to show that the Automorphism group of \overline{M}_{0,n} is the permutation group on n elements as soon as n\geq 5.

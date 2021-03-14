@@ -1,0 +1,1 @@
+We define a proper moduli stack for degree p covers f:Y \to \cX where \cX is a twisted stable curve in the sense of [5] and [4], and Y is a stable curve which via f is a torsor over \cX under a finite flat group scheme \cG \to \cX.

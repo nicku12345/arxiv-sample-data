@@ -1,0 +1,1 @@
+We show that an identity of Kreweras for the Narayana numbers counts Dyck paths with a given number of peaks by number of peak plateaus, where a peak plateau is a run of consecutive peaks that is immediately preceded by an upstep and followed by a downstep.

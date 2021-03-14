@@ -1,0 +1,1 @@
+Let S be a toric algebra over a field K of characteristic 0 and let I be a monomial ideal of S. We show that the local cohomology modules H^i_I(S) are of finite length over the ring of differential operators D(S;K), generalizing the classical case of a polynomial algebra S. As an application, we compute the characteristic cycles of some local cohomology modules.

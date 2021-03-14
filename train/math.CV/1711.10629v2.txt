@@ -1,0 +1,1 @@
+We use the folding theorem of Bishop to construct an entire function f in class B and a wandering domain U of f such that f restricted to f^n(U) is univalent, for all n \geq 0. The components of the wandering orbit are bounded and surrounded by the postcritical set.

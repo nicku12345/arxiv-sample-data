@@ -1,0 +1,1 @@
+In this note we define the notion of Tate-Shafarevich group and Selmer group of the Chow group of an abelian variety defined over a number field. In this context we give positive answer to the question of Colliot-Th\'{e}l\`{e}ne that the Chow group of zero cycles modulo n is finite over any number field.

@@ -1,0 +1,1 @@
+We survey some results on tensor products of irreducible Harish-Chandra bimodules. It turns out that such tensor products are semisimple in suitable Serre quotient categories. We explain how to identify the resulting semisimple tensor categories and describe some applications to representation theory.

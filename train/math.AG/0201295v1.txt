@@ -1,0 +1,1 @@
+We prove the rationality of the K\"ahler cone and the positivity of c_2(X), if X is a Calabi-Yau-threefold with \rho(X)=2 and has an embedding into a {\bb P}^n-bundle over {\bb P}^m in the cases (n,m)=(1,3),(3,1). The case (n,m)=(2,2) has been done in the first part of this paper. Moreover, if (n,m)=(3,1), we describe the 'other' contraction different from the projection.

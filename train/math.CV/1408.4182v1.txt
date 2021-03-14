@@ -1,0 +1,1 @@
+We generalize Nagel's formula for the Szeg\"o kernel and use it to compute the Szeg\"o kernel on a class of noncompact CR manifolds whose tangent space decomposes into one complex direction and several totally real directions. We also discuss the control metric on these manifolds and relate it to the size of the Szeg\"o kernel.

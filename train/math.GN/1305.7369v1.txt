@@ -1,0 +1,1 @@
+We equip the product of countably many copies of a compact Abelian group X with the uniform topology, and study some properties of the topological group G thus obtained. In particular, we determine the cardinality of the dual group of G, when X is the circle group: it is precisely 2^c.

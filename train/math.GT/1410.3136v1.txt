@@ -1,0 +1,1 @@
+We define and study analogs of curve graphs for infinite type surfaces. Our definitions use the geometry of a fixed surface and vertices of our graphs are infinite multicurves which are bounded in both a geometric and a topological sense. We show that the graphs we construct are generally connected, infinite diameter and infinite rank.

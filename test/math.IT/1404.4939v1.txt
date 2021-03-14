@@ -1,0 +1,1 @@
+This paper proposes an efficient method to construct the bipartite graph with as many edges as possible while without introducing the shortest cycles of length equal to 4. The binary matrix associated with the bipartite graph described above presents comparable and even better phase transitions than Gaussian random matrices.

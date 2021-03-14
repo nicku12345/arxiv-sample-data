@@ -1,0 +1,1 @@
+Let (R,\m) be a formally unmixed local ring of positive prime characteristic and dimension d. We examine the implications of having small Hilbert-Kunz multiplicity (i.e., close to 1). In particular, we show that if R is not regular, there exists a lower bound, strictly greater than one, depending only on d, for its Hilbert-Kunz multiplicity.

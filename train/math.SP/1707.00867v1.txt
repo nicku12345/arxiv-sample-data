@@ -1,0 +1,1 @@
+We construct an open set \Omega\subset\mathbb{R}^N on which an eigenvalue problem for the p-Laplacian has not isolated first eigenvalue and the spectrum is not discrete. The same example shows that the usual Lusternik-Schnirelmann minimax construction does not exhaust the whole spectrum of this eigenvalue problem.

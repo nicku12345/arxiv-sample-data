@@ -1,0 +1,1 @@
+In this note we introduce a sufficient condition for the Orlik-Solomon algebra associated to a matroid M to be l-adic and we prove that this condition is necessary when M is binary (in particular graphic). Moreover, this result cannot be extended to the class of all matroids.

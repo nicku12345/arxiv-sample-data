@@ -1,0 +1,1 @@
+We prove the weak and the strong convergence of the trajectories of the continuous gradient projection method under some mild assumptions on the objective function and the step size function. Moreover, we estimate the decay rate to equilibrium when the objective function satisfies a global Holderian error bound inequality.

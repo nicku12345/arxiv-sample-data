@@ -1,0 +1,1 @@
+Abel's continuity theorem for power series is a great tool to compute sums and prove properties of special functions. However, apart from two basic examples, this no longer occupies a place in Analysis courses. This note is an invitation to get acquainted with this theorem, its history, and many of its applications dispersed in the literature.

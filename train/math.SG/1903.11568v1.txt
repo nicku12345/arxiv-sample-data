@@ -1,0 +1,1 @@
+We give examples of symplectic actions of a cyclic group, inducing a trivial action on homology, on four-manifolds that admit Hamiltonian circle actions, and show that they do not extend to Hamiltonian circle actions. Our work applies holomorphic methods to extend combinatorial tools developed for circle actions to study cyclic actions.

@@ -1,0 +1,1 @@
+We consider an electrostatic attractive-repulsive differential system in the nonnegative quadrant. Under some condition on the constants there exists a unique global solution. The main difficulty is to prove uniqueness when starting at the corner of the quadrant.

@@ -1,0 +1,1 @@
+We show that every globally asymptotically stable system with a twice continuously differentiable vector field admits a local polynomial Lyapunov function on an arbitrary bounded neighborhood of the origin.

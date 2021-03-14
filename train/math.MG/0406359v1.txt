@@ -1,0 +1,1 @@
+We prove that the Cayley-Menger determinant of an n-dimensional simplex is an absolutely irreducible polynomial for n\geq3. We also study the irreducibility of polynomials associated to related geometric constructions.

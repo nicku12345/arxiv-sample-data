@@ -1,0 +1,1 @@
+We prove a strong form of the motivic monodromy conjecture for abelian varieties, by showing that the order of the unique pole of the motivic zeta function is equal to the size of the maximal Jordan block of the corresponding monodromy eigenvalue. Moreover, we give a Hodge-theoretic interpretation of the fundamental invariants appearing in the proof.

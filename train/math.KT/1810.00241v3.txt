@@ -1,0 +1,1 @@
+The set \mathcal{E}'(\mathbb{R}) of all compactly distributions, with the operations of addition, convolution, multiplication by complex scalars, and with the strong dual topology is a topological algebra. In this article, it is shown that the topological stable rank of \mathcal{E}'(\mathbb{R}) is 2.

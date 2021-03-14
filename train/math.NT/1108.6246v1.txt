@@ -1,0 +1,1 @@
+It will be demonstrated that there is a thin basis of order four of minimal cardinality #A(x) = O(x^.25). The current literature shows the existence of a thin basis of order four of cardinality #A(x) = O(x^(.25+{\epsilon}), {\epsilon} > 0, but speculates on the existence of a thin basis of order four of minimal cardinality.

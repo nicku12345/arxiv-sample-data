@@ -1,0 +1,1 @@
+This paper deals with system with n identical elements and one repairing device. While one element working other ones stay in reserve. The distribution of element working and repairing times are supposed to be exponential. Here we obtain the asymptotic distribution of the system lifetime under conditions of its high reliability.

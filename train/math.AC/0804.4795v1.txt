@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring. The notion of regular sequences with respect to a Serre class of R-modules is introduced and some of their essential properties are given. Then in the local case, we explore a theory of Cohen-Macaulayness with respect to Serre classes.

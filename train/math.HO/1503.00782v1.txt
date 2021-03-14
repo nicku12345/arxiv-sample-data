@@ -1,0 +1,1 @@
+Among three natural numbers there is always one which is larger than or equal to the Nim sum of the remaining two numbers. This amazing fact has many applications.

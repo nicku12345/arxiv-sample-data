@@ -1,0 +1,1 @@
+This note defines a flag vector for i-graphs. The construction applies to any finite combinatorial object that can be shelled. Two possible connections to quantum topology are mentioned. Further details appear in the author's "On quantum topology, hypergraphs and flag vectors", (preprint q-alg/9708001).

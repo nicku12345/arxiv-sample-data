@@ -1,0 +1,1 @@
+Let A be a basic connected finite dimensional algebra over an algebraically closed field k. Assuming that A is monomial and that the ordinary quiver Q of A has no oriented cycle and no multiple arrows, we prove that A admits a universal cover with group the fundamental group of the underlying space of Q.

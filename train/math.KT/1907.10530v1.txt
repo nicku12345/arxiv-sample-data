@@ -1,0 +1,1 @@
+We prove that for a quasi-regular semiperfectoid \mathbb{Z}_p^{\rm cycl}-algebra R (in the sense of Bhatt-Morrow-Scholze), the cyclotomic trace map from the p-completed K-theory spectrum K(R;\mathbb{Z}_p) of R to the topological cyclic homology \mathrm{TC}(R;\mathbb{Z}_p) of R identifies on \pi_2 with a q-deformation of the logarithm.

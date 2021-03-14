@@ -1,0 +1,1 @@
+Given r elements in an integral domain over an algebraically closed field such that any two are linearly independent, we show that there is an integer e between 1 and r! such the eth powers of these elements are linearly independent.

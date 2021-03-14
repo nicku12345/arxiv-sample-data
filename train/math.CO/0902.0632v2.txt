@@ -1,0 +1,1 @@
+We focus on infinite words with languages closed under reversal. If frequencies of all factors are well defined, we show that the number of different frequencies of factors of length n+1 does not exceed 2C(n+1)-2C(n)+1.

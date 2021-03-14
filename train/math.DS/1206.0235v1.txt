@@ -1,0 +1,1 @@
+We establish certain topological properties of rank understood as a function on the set of invariant measures on a topological dynamical system. To be exact, we show that rank is of Young class LU (i.e., it is the limit of an increasing sequence of upper semicontinuous functions)

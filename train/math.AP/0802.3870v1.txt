@@ -1,0 +1,1 @@
+We obtain a sharp local well-posedness result for the Gradient   Nonlinear Wave Equation on a nonsmooth curved background. In the process we introduce variable coefficient versions of Bourgain's X^{s,b} spaces, and use a trilinear multiscale wave packet decomposition in order to prove a key trilinear estimate.

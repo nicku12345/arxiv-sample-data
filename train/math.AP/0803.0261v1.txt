@@ -1,0 +1,1 @@
+The Camassa-Holm equation possesses well-known peaked solitary waves that are called peakons. Their orbital stability has been established by Constantin and Strauss (2000). We prove here the stability of ordered trains of peakons. We also establish a result on the stability of multipeakons.

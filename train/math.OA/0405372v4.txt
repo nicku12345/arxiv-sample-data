@@ -1,0 +1,1 @@
+We compute the Coifman-Meyer-Wickerhauser measure \mu for certain families of quadrature mirror filters (QMFs), and we establish that for a subclass of QMFs, \mu contains a fractal scale. In particular, these measures \mu are not in the Lebesgue class.

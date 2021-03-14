@@ -1,0 +1,1 @@
+Bayer-Stillman showed that reg(I) = reg(gin_\tau(I)) when \tau is the graded reverse lexicographic order. We show that the reverse lexicographic order is the unique monomial order \tau satisfying reg(I) = reg(gin_\tau(I)) for all ideals I. We also show that if gin_{\tau_1}(I) = gin_{\tau_2}(I) for all I, then \tau_1 = \tau_2.

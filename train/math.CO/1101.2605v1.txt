@@ -1,0 +1,1 @@
+We examine a result of Basor and Ehrhardt concerning Hankel and Toeplitz plus Hankel matrices, within the context of the Riordan group of lower-triangular matrices. This allows us to determine the LDU decomposition of certain symmetric Toeplitz plus Hankel matrices. We also determine the generating functions and Hankel transforms of associated sequences.

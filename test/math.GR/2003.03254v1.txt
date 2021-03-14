@@ -1,0 +1,1 @@
+In this sixth part we study rank 3 reflection groups not well generated: G(2r,r,2), G_{12}, G_{13} and G_{22}. We start from a reflection representation of a rank 3 Coxeter group and we show that we can obtain in this manner affine Coxeter groups whose linear part is one of the preceding groups.

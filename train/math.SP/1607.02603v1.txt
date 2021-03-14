@@ -1,0 +1,1 @@
+This paper is devoted to the mathematical investigation of the MIT bag model, that is the Dirac operator on a smooth and bounded domain with certain boundary conditions. We prove that the operator is self-adjoint and, when the mass goes to infinity, we provide spectral asymptotic results.

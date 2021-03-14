@@ -1,0 +1,1 @@
+In this note, we study monodromies of algebraic connections on the trivial vector bundle. We prove that on a smooth complex affine curve, any monodromy arises as the underlying local system of an algebraic connection on the trivial bundle. We give a generalization of this for rank one monodromies in higher dimension.

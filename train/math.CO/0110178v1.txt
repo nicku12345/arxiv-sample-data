@@ -1,0 +1,1 @@
+A composition of an integer is called Carlitz if adjacent parts are different. Several characteristics of random Carlitz compsitions have been studied recently by Knopfmacher and Prodinger. We complement their work by establishing the asymptotics of the average number of distinct part sizes in a random Carlitz composition.

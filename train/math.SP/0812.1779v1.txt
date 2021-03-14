@@ -1,0 +1,1 @@
+In this article, we will explore why Karlin-McGregor method of using orthogonal polynomials in the study of Markov processes was so successful for one dimensional nearest neighbor processes, but failed beyond nearest neighbor transitions. We will proceed by suggesting and testing possible fixtures.

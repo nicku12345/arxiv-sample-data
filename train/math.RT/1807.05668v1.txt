@@ -1,0 +1,1 @@
+Given a skeletally small category \mathcal{C}, we show that any locally finite endo-length \mathcal{C}-module is the direct sum of indecomposable \mathcal{C}-modules, whose endomorphism algebra is local.

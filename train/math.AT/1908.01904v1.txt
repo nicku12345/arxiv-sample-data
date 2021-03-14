@@ -1,0 +1,1 @@
+As a step towards understanding the \mathrm{tmf}-based Adams spectral sequence, we compute the K(1)-local homotopy of \mathrm{tmf} \wedge \mathrm{tmf}, using a small presentation of L_{K(1)}\mathrm{tmf} due to Hopkins. We also describe the K(1)-local \mathrm{tmf}-based Adams spectral sequence.

@@ -1,0 +1,1 @@
+We prove the uniqueness of weak solutions to the critical defocusing wave equation in 3D under a local energy inequality condition. More precisely, we prove the uniqueness of  u \in L^\infty\_t(\dot{H}^{1})\cap \dot{W}^{1,\infty}\_t(L^2), under the condition that u verifies some local energy inequalities.

@@ -1,0 +1,1 @@
+A ravel is a spatial graph which is non-planar but contains no non-trivial knots or links. We characterize when a Montesinos tangle can become a ravel as the result of vertex closure with and without replacing some number of crossings by vertices.

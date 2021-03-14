@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of characteristic two and let Q_8 be the quaternion group of order 8. We determine the Gerstenhaber Lie algebra structure and the Batalin-Vilkovisky structure on the Hochschild cohomology ring of the group algebra kQ_8.

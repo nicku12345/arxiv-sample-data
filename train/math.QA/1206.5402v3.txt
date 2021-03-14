@@ -1,0 +1,1 @@
+A linear Gr-category is a category of finite-dimensional vector spaces graded by a finite group together with natural tensor product. We classify the braided monoidal structures of a class of linear Gr-categories via explicit computations of the 3-cocycles and quasi-bicharacters of finite abelian groups which are direct product of two cyclic groups.

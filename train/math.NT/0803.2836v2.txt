@@ -1,0 +1,1 @@
+We present a proof, which is conditional on the Birch and Swinnerton-Dyer Conjecture for a specific abelian variety, that there do not exist rational numbers x and c such that x has exact period N = 6 under the iteration x |-> x^2 + c. This extends earlier results by Morton for N = 4 and by Flynn, Poonen and Schaefer for N = 5.

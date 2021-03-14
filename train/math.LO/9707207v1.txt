@@ -1,0 +1,1 @@
+We show that the consistency strength of the system NFUB, a variant of Quine's "New Foundations" recently introduced by Randall Holmes, is precisely that of [ZFC - Power Set] + "There is a weakly compact cardinal''.   This is a preliminary draft of the paper. Nevertheless, it contains a complete proof.

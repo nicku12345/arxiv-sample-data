@@ -1,0 +1,1 @@
+We introduce a notion of categorical homotopic distance between functors by adapting the notion of homotopic distance in topological spaces, recently defined by the authors to the context of small categories. Moreover, this notion generalizes the work on categorical LS-category of small categories by Tanaka.

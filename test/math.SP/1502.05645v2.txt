@@ -1,0 +1,1 @@
+In this paper we study the influence of an electric field on a two dimen-sional waveguide. We show that bound states that occur under a geometrical deformation of the guide turn into resonances when we apply an electric field of small intensity having a nonzero component on the longitudinal direction of the system. MSC-2010 number: 35B34,35P25, 81Q10, 82D77.

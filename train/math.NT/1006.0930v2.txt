@@ -1,0 +1,1 @@
+Let \chi be a primitive Dirichlet character modulo q and L(s,\chi) be the Dirichlet L-function associated to \chi. Using a new two-piece mollifier we show that L(\tfrac{1}{2},\chi)\ne0 for at least 34% of the characters in the family.

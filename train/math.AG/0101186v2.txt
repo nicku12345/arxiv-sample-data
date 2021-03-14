@@ -1,0 +1,1 @@
+This paper considers normal projective complex surface X with at worst Kawamata log terminal singularities and K_X is numerically trivial. The aim is to prove that there is a finite rational polyhedral cone which is a fundamental domain for the action Aut(X) on the rational convex hull of its ample cone.

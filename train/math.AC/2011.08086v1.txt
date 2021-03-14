@@ -1,0 +1,1 @@
+This expository note delves into the theory of projective modules parallel to the one developed for injective modules by Matlis. Given a perfect ring R, we present a characterization of indecomposable projective R-modules and describe a one-to-one correspondence between the projective indecomposable R-modules and the simple R-modules.

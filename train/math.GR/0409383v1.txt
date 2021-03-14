@@ -1,0 +1,1 @@
+Let F_{2,d} denote the free class-2-nilpotent group on d generators. We compute the normal zeta functions \zeta^\triangleleft_{F_{2,d}}(s), prove that they satisfy local functional equations and determine their abscissae of convergence and pole orders.

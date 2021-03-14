@@ -1,0 +1,1 @@
+This article introduces a new signal analysis method. The main idea consists in interpreting a pulse-shaped signal, after multiplying it by a positive parameter, as a potential of a Schr\"odinger operator and representing this signal with the discrete spectrum of this operator. We present some results obtained in the analysis of the arterial blood pressure with this method.

@@ -1,0 +1,1 @@
+We give some upper bounds on the dimension of the kernel of the cup product map H^{1}(X,\mathbb{C})\otimes H^{1}(X,\mathbb{C}) \to H^{2}(X,\mathbb{C}), where X is a compact K\"ahler variety without Albanese fibrations.

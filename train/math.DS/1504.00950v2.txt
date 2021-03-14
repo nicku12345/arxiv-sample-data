@@ -1,0 +1,1 @@
+It is shown that the cubic nonconventional ergodic average of order 2 with M\"obius and Liouville weight converge almost surely to zero. As a consequence, we obtain that the Ces\`aro mean of the self-correlations and some moving average of the self-correlations of M\"obius and Liouville functions converge to zero.

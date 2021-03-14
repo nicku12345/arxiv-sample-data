@@ -1,0 +1,1 @@
+We consider the asymptotic behaviour of the second-order correlation function of the characteristic polynomial of a real symmetric random matrix. Our main result is that the existing result for a random matrix from the Gaussian Orthogonal Ensemble essentially continues to hold for a general real symmetric Wigner matrix.

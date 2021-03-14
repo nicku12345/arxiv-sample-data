@@ -1,0 +1,1 @@
+We prove that the commutator is stable in permutations endowed with the Hamming distance, that is, two permutations that almost commute are near two commuting permutations. Our result extends to k-tuples of almost commuting permutations, for any given k, and allows restrictions, for instance, to even permutations.

@@ -1,0 +1,1 @@
+Given two schemes S and S', we prove that every equivalence between \mathbf{Sch}_S and \mathbf{Sch}_{S'} comes from a unique isomorphism between S and S'. This eliminates all Noetherian and finite type hypotheses from a result of Mochizuki and fully answers a programme set out by Brandenburg in a series of questions on MathOverflow in 2011.

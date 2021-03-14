@@ -1,0 +1,1 @@
+We prove configuration theorems that generalize the Desargues, Pascal, and Pappus theorems. Our generalization of the Desargues theorem allows us to introduce the structure of an Abelian group on the (properly extended) set of triangles which are perspective from a point. In barycentric coordinates, the corresponding group operation becomes the addition in R^3.

@@ -1,0 +1,1 @@
+Using an idea of Doug Lind, we give a lower bound for the Perron-Frobenius degree of a Perron number that is not totally-real. As an application, we prove that there are cubic Perron numbers whose Perron-Frobenius degrees are arbitrary large; a result known to Lind, McMullen and Thurston. A similar result is proved for biPerron numbers.

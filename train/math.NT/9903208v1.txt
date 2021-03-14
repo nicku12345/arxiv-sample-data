@@ -1,0 +1,1 @@
+This is an updated version of ANT-0166.   Generalizing results of Stroeker and Top we show that the 2-ranks of the Tate-Shafarevich groups of the elliptic curves y^2 = (x+k)(x^2+k^2) can become arbitrarily large. We also present a conjecture on the rank of the Selmer groups attached to rational 2-isogenies of elliptic curves.

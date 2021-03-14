@@ -1,0 +1,1 @@
+In this work we give general conditions under which a C^0 perturbation of an expansive homeomorphim with specification property has an unique Bowen measure, that is, there is an ergodic probability measure which is the unique measure maximizing the topological entropy.   We apply these conditions to show that several derived from Anosov diffeomorphims have a unique Bowen measure.

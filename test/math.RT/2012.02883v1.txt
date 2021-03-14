@@ -1,0 +1,1 @@
+We describe the branching of Lie algebras of classical type over A_{n-1} using an inductive approach, which was motivated by the work of Gornitskii. This allows us to label the highest weight vectors of the modules occurring in the decomposition of the restriction of a finite-dimensional simple module to A_{n-1} by lattice points of a string or a Lusztig polytope.

@@ -1,0 +1,1 @@
+In this paper we prove a new asymptotic lower bound for the minimal number of simplices in simplicial dissections of n-dimensional cubes. In particular we show that the number of simplices in dissections of n-cubes without additional vertices is at least (n+1)^{\frac {n-1} 2}.

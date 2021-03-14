@@ -1,0 +1,1 @@
+The random graph is an infinite graph with the universal property that any embedding of G-v extends to an embedding of G, for any finite graph. In this paper we show that this graph embeds in the curve graph of a surface \Sigma if and only if \Sigma has infinite genus, showing that the curve system on an infinite genus surface is "as complicated as possible".

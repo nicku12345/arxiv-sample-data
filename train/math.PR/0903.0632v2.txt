@@ -1,0 +1,1 @@
+Suppose that X_1,\...,X_n,\... are i.i.d. rotationally invariant N-by-N matrices. Let \Pi_n=X_n\... X_1. It is known that n^{-1}\log |\Pi_n| converges to a nonrandom limit. We prove that under certain additional assumptions on matrices X_i the speed of convergence to this limit does not decrease when the size of matrices, N, grows.

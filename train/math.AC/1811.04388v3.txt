@@ -1,0 +1,1 @@
+Let R be a Cohen-Macaulay local ring, I a strongly Cohen-Macaulay ideal of R. We show that R/{\rm Ann}_R(I) is a maximal Cohen-Macaulay R-module by means of the delta-invariant. Also it is shown that there exists a Cohen-Macaulay ideal J of R such that the \delta_{R/J}-invariant of all Koszul homologies of R with respect I is zero.

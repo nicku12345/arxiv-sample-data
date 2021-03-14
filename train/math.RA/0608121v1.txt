@@ -1,0 +1,1 @@
+In this paper we prove that every automorphism of the semigroup of invertible matrices with nonnegative elements over a linearly oredered associative ring on some specially defined subgroup concides with the composition of an inner automorphism of the semigroup, an automorphism of the ring preserving the order, and a central homothety.

@@ -1,0 +1,1 @@
+It is shown how certain idempotents in the Griess algebra generate the discrete series representations for the Virasoro algebra inside the Frenkel-Lepowsky-Meurman's moonshine module vertex operator algebra. It is also shown that each Niemeier lattice determines (in many ways) certain maximal associative subalgebras of the Griess algebra.

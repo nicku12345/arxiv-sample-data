@@ -1,0 +1,1 @@
+Let G be a connected reductive group over a field of characteristic zero, and consider an orthogonal representation of G. We give a simple criterion for whether the representation lifts to the spin group, in terms of the highest weights of the irreducible constituents of the representation.

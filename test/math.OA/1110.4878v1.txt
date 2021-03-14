@@ -1,0 +1,1 @@
+Let X be a Riemannian manifold endowed with a co-compact isometric action of an infinite discrete group. We consider L2 spaces of harmonic vector-valued forms on the product manifold X^N, which are invariant with respect to an action of the braid group B_N, and compute their von Neumann dimensions (the braided L2- Betti numbers)

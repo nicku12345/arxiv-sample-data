@@ -1,0 +1,1 @@
+Let L be a nef line bundle on a projective scheme X in positive characteristic. We prove that the augmented base locus of L is equal to the union of the irreducible closed subsets V of X such that the restriction of L to V is not big. For a smooth variety in characteristic zero, this was proved by Nakamaye using vanishing theorems.

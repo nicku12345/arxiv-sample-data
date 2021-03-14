@@ -1,0 +1,1 @@
+This paper aims to give a short but self-contained introduction into the theory of (wheeled) props, properads, dioperads and operads, and illustrate some of its key ideas in terms of a prop(erad)ic interpretation of simplicial and permutahedra cell complexes with subsequent applications to the Hochschild-Kostant-Rosenberg type isomorphisms.

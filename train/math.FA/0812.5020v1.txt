@@ -1,0 +1,1 @@
+In this paper, we obtain the general solution and the generalized Ulam-Hyers stability of the cubic and quartic functional equation &4(f(3x+y)+f(3x-y))=-12(f(x+y)+f(x-y)) &+12(f(2x+y)+f(2x-y))-8f(y)-192f(x)+f(2y)+30f(2x).

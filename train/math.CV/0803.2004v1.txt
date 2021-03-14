@@ -1,0 +1,1 @@
+We show that a discrete sequence \Lambda of the complex plane is the union of n interpolating sequences for the H\"ormander algebras A_p if and only if the trace of A_p on \Lambda coincides with the space of functions on \Lambda for which the divided differences of order n-1 are uniformly bounded. The analogous result holds in the unit disk for Korenblum-type algebras.

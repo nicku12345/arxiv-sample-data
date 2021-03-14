@@ -1,0 +1,1 @@
+In this paper I prove that for any prime p there is a constant C_p>0 such that for any n>0 and for any p-power q there is a smooth, projective, absolutely irreducible curve over \mathbb{F}_q of genus g\leq C_p q^n without points of degree smaller than n.

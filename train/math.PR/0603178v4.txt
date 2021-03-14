@@ -1,0 +1,1 @@
+We study the behavior of the two-dimensional Ising model in a finite box at temperatures that are below, but very close to, the critical temperature. In a regime where the temperature approaches the critical point and, simultaneously, the size of the box grows fast enough, we establish a large deviation principle that proves the appearance of a round Wulff crystal.

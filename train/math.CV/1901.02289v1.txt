@@ -1,0 +1,1 @@
+Given a Stein manifold with the density property, we show that under a suitable topological condition it is possible to prescribe derivatives at a finite number of points to automorphisms depending holomorphically on a Stein parameter. This is an Oka property of the manifold and is related to its holomorphic flexibility.

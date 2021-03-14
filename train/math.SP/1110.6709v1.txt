@@ -1,0 +1,1 @@
+It is shown that M. Krein's method of directing functionals can be used to prove the existence of a scalar spectral measure for certain Sturm-Liouville equations with two singular endpoints. The essential assumption is the existence of a solution of the equation that is square integrable at one singular endpoint and depends analytically on the eigenvalue parameter.

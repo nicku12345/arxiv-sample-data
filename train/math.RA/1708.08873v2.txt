@@ -1,0 +1,1 @@
+We present a new algorithm to decide isomorphism between finite graded algebras. For a broad class of nilpotent Lie algebras, we demonstrate that it runs in time polynomial in the order of the input algebras. We introduce heuristics that often dramatically improve the performance of the algorithm and report on an implementation in Magma.

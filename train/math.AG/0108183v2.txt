@@ -1,0 +1,1 @@
+We study the projective models of complex K3 surfaces polarized by a line bundle L such that all smooth curves in |L| have non-general Clifford index. Such models are in a natural way contained in rational normal scrolls.   We use this study to classify and describe all projective models of K3 surfaces of genus at most 10.

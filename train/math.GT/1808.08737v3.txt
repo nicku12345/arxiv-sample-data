@@ -1,0 +1,1 @@
+We prove a lower bound on the number of maximally broken trajectories of the negative gradient flow of a Morse-Smale function on a closed aspherical manifold in terms of integral (torsion) homology.

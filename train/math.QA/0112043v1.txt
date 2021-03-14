@@ -1,0 +1,1 @@
+In this paper we describe the Hopf algebras on planar binary trees used to renormalize the Feynman propagators of quantum electrodynamics, and the coaction which describes the renormalization procedure. Both structures are related to some semi-direct coproduct of Hopf algebras.

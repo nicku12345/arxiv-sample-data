@@ -1,0 +1,1 @@
+We construct generators of the center of the universal enveloping algebra of the complex orthogonal Lie algebra realized as the alternative matrices of size n. These elements are constructed in accordance with the Iwasawa decomposition of the real rank one indefinite orthogonal Lie algebra. We also discuss the Iwasawa decomposition of the Pfaffian.

@@ -1,0 +1,1 @@
+The universal central extensions and their extension kernels of the matrix Lie superalgebra sl(m, n, A), the Steinberg Lie superalgebra st(m, n, A) in category {\bf SLeib} of Leibniz superalgebras are determined under a weak assumption (compared with \cite{MP}) using the first Hochschild homology and the first cyclic homology group.

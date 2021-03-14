@@ -1,0 +1,1 @@
+Assume that X is a surface over an algebraically closed field k. Let \tilde{X} be obtained from X by blowing up a smooth point and let L be the exceptional curve. Let \coh(X) be the category of coherent sheaves on X. In this note we show how to recover \coh({X}) from \coh(\tilde{X}), if we know the object \Oscr_L(L).

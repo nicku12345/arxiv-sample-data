@@ -1,0 +1,1 @@
+We concern the effect of domain perturbation on the behaviour of stochastic partial differential equations subject to the Dirichlet boundary condition. Under some assumptions, we get an estimate for the solutions under changes of the domain.

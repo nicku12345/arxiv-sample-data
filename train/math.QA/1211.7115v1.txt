@@ -1,0 +1,1 @@
+Based on the definition of vertex coalgebra introduced by Hubbard [H], we prove that this notion can be reformulated using the Co-Commutator, Co-Skew symmetry and Co-Associator formulas without restrictions on the grading.

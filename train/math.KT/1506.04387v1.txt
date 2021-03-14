@@ -1,0 +1,1 @@
+We show, using basic Morita equivalences between block algebras of finite groups, that the Conjecture of H. Sasaki from [9] is true for a new class of blocks called nilpotent covered blocks. When this Conjecture is true we define some transfer maps between cohomology of block algebras and we analyze them through transfer maps between Hochschild cohomol- ogy algebras.

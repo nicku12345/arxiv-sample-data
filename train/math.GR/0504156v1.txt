@@ -1,0 +1,1 @@
+Let G be a finite p-group, where p is a prime number, and a\in G. Denote by \Cl(a)=\{gag^{-1}\mid g\in G\} the conjugacy class of a in G. Assume that |\Cl(a)|=p^n. Then \Cl(a)\Cl(a^{-1})=\{xy\mid x\in \Cl(a), y\in \Cl(a^{-1})\} is the union of at least n(p-1)+1 distinct conjugacy classes of G.

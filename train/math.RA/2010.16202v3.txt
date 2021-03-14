@@ -1,0 +1,1 @@
+In the present paper, we prove that a local derivation on the octonion (Cayley) algebra \mathbb{O} over an arbitrary field, satisfying some conditions is a derivation, and every 2-local derivation on \mathbb{O} is a Jordan derivation.

@@ -1,0 +1,1 @@
+In this paper, we solve a problem raised by V. Kac in \cite{Kac} on locally semi-simple quiver representations. Specifically, we show that an acyclic quiver Q is of tame representation type if and only if every representation of Q with a semi-simple ring of endomorphisms is locally semi-simple.

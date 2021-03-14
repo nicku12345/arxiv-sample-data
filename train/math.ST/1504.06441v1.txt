@@ -1,0 +1,1 @@
+We show that Lasso and Bayesian Lasso are very close when the sparsity is large and the noise is small. Then we propose to solve Bayesian Lasso using multivalued stochastic differential equation. We obtain three discretizations algorithms, and propose a method for calculating the cost of Monte-Carlo (MC), multilevel Monte Carlo (MLMC) and MCMC algorithms.

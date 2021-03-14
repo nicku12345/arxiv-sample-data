@@ -1,0 +1,1 @@
+Results on the finiteness of induced crossed modules are proved both algebraically and topologically. Using the Van Kampen type theorem for the fundamental crossed module, applications are given to the 2-types of mapping cones of classifying spaces of groups. Calculations of the cohomology classes of some finite crossed modules are given, using crossed complex methods.

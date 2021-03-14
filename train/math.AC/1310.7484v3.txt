@@ -1,0 +1,1 @@
+We prove that multigraded Betti numbers of a simplicial forest are always either 0 or 1. Moreover a nonzero multidegree appears exactly at one homological degree in the resolution. Our work generalizes work of Bouchat on edge ideals of graph forests.

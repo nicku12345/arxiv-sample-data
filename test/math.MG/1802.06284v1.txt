@@ -1,0 +1,1 @@
+We analytically study proximity and distance properties of various kernels and similarity measures on graphs. This helps to understand the mathematical nature of such measures and can potentially be useful for recommending the adoption of specific similarity measures in data analysis.

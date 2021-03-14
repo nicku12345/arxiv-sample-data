@@ -1,0 +1,1 @@
+We show that the minimal number of singular fibers N(g,1) in a genus-g Lefschetz fibration over the torus is at least 3. As an application, we show that N(g, 1) \in \{ 3, 4\} for g\ge 5, N(g, 1) \in \{3, 4,5 \} for g= 3, 4 and N(2,1) = 7.

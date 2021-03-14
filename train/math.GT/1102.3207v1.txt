@@ -1,0 +1,1 @@
+D.Nash defined a family of homotopy 4-spheres in [11]. Proving that his manifolds {\mathcal S}_{m,n,m',n'} are all real S^4, we find that they have handle decomposition with no 1-handles, two 2-handles and two 3-handles. The handle structures give new potential counterexamples of Property 2R conjecture.

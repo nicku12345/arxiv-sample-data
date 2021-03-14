@@ -1,0 +1,1 @@
+In the one-parameter family of power-law maps of the form f_a(x)=-|x|^{\alpha}+a, \alpha >1, we give examples of mutually related dynamically determined quantities, depending on the parameter a, such that one is a Pick function of the following one. These Pick functions are extendable by reflection through the (1,+\infty) half-axis and have completely monotone derivatives there.

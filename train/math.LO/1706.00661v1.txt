@@ -1,0 +1,1 @@
+We establish the descriptive set theoretic representation of the mouse M_n^{\#}, which is called 0^{(n+1)\#}. This part partially finishes the case n=2 by establishing the higher level analog of the EM blueprint definition of 0^{\#}. From this, we prove the level-4 Kechris-Martin Theorem and deal with the case n=3.

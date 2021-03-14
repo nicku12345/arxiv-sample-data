@@ -1,0 +1,1 @@
+We propose a novel high-order HDG method for the Biot's consolidation model in poroelasticity. We present optimal error analysis for both the semi-discrete and full-discrete (combined with temporal backward differentiation formula) schemes. Numerical tests are provided to demonstrate the performance of the method.

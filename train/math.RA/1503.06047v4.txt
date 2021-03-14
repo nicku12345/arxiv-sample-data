@@ -1,0 +1,1 @@
+We study loop near-rings, a generalization of near-rings, where the additive structure is not necessarily associative. We introduce local loop near-rings and prove a useful detection principle for localness.

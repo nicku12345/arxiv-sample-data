@@ -1,0 +1,1 @@
+Any configuration of lattice vectors gives rise to a hierarchy of higher-dimensional configurations which generalize the Lawrence construction in geometric combinatorics. We prove finiteness results for the Markov bases, Graver bases and face posets of these configurations, and we discuss applications to the statistical theory of log-linear models.

@@ -1,0 +1,1 @@
+We study permutation polynomials through the device of the \emph{polypermutation group} of an associative ring R, denoted by {\rm Pgr}(R). We derive some basic properties and compute the cardinality of {\rm Pgr}(\mathbb{Z}/p^k) when p\geq k. We use this computation to determine the structure of {\rm Pgr}(\mathbb{Z}/p^2).

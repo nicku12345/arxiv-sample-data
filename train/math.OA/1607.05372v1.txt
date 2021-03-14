@@ -1,0 +1,1 @@
+We introduce a notion of uniformly continuous orbit equivalence as a subequivalence relation of continuous orbit equivalence of one-sided topological Markov shifts. It is described in terms of gauge actions on the associated Cuntz-Krieger algebras and continuous full groups of the Markov shifts.

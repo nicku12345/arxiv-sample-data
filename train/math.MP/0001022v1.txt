@@ -1,0 +1,1 @@
+Wave functions and energies are constructed in a short-range Poeschl-Teller well (= negative quadratic secans hyperbolicus) with a quartic perturbation. Within the framework of an innovated, Lanczos-inspired perturbation theory we show that our choice of non-orthogonal basis makes all the corrections given by closed formulae. The first few items are then generated using MAPLE.

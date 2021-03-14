@@ -1,0 +1,1 @@
+We show that if M is a stable unsuperstable homogeneous structure, then for most kappa < |M|, the number of elementary submodels of M of power kappa is 2^kappa .

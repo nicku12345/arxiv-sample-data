@@ -1,0 +1,1 @@
+We construct two families of distance-regular graphs, namely the subgraph of the dual polar graph of type B_3(q) induced on the vertices far from a fixed point, and the subgraph of the dual polar graph of type D_4(q) induced on the vertices far from a fixed edge. The latter is the extended bipartite double of the former.

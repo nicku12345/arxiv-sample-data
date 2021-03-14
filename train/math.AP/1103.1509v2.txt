@@ -1,0 +1,1 @@
+We consider the linearized Landau operator for which we provide simple proofs of hypoellipticity, and in particular we recover the recent results of H\' erau and Pravda-Starov \cite{herau-all}. Our arguments are elementary and in particular avoids any use of pseudo-differential calculus.

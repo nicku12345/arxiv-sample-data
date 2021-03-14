@@ -1,0 +1,1 @@
+We prove that a recently proposed homotopy perturbation method for the treatment of population dynamics is just the Taylor expansion of the population variables about initial time. Our results show that this perturbation method fails to provide the global features of the ecosystem dynamics.

@@ -1,0 +1,1 @@
+We address the problem of determining the class of self-similar groups, and in particular its closure under restricted direct products. We show that the group \mathbb Z^{(\omega)} is self-similar, that G^{(\omega)}\rtimes C_2 is self-similar whenever G is, and that permutational wreath products of a finite abelian group with a self-similar group are self-similar.

@@ -1,0 +1,1 @@
+We construct hyperbolic groups with the following properties: The boundary of the group has big dimension, it is separated by a Cantor set and the group does not split. This shows that Bowditch's theorem that characterizes splittings of hyperbolic groups over 2-ended groups in terms of the boundary can not be extended to splittings over more complicated subgroups.

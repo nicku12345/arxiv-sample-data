@@ -1,0 +1,1 @@
+Using ideas of sphere packing problem we estimate the number of solid moons that can be packed inside the Earth, assuming that both the Moon and the Earth are perfect sphere.

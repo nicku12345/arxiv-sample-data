@@ -1,0 +1,1 @@
+Diagrams and Reidemeister moves for links in a twisted S^1-bundle over an unorientable surface are introduced. Using these diagrams, we compute the Kauffman Bracket Skein Module (KBSM) of the connected sum of two projective spaces. In particular, we show that it has torsion. We also present a new computation of the KBSM of S^1 x S^2 and the lens spaces L(p,1).

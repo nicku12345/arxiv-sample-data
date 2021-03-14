@@ -1,0 +1,1 @@
+Waldhausen's algebraic K-theory machinery is applied to motivic homotopy theory, producing an interesting motivic homotopy type. Over a field F of characteristic zero, its path components receive a surjective ring homomorphism from the Grothendieck ring of varieties over F.

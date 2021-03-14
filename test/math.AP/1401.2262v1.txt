@@ -1,0 +1,1 @@
+Using time dependent Lyapunov functions, we prove pointwise upper bounds for the heat kernels of some nonautonomous Kolmogorov operators with possibly unbounded drift and diffusion coefficients and a possibly unbounded potential term.

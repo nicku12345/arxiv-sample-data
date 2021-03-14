@@ -1,0 +1,1 @@
+Some sufficient conditions on a simplicial space X guaranteeing that X_1\simeq \Omega|X| were given by Segal. We give a generalization of this result for multisimplicial spaces. This generalization is appropriate for the reduced bar construction, providing an n-fold delooping of the classifying space of a category.

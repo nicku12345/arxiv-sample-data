@@ -1,0 +1,1 @@
+By using the Szeg\H{o}'s transformation we deduce new relations between the recurrence coefficients for orthogonal polynomials on the real line and the Verblunsky parameters of orthogonal polynomials on the unit circle. Moreover, we study the relation between the corresponding \mathcal{S}-functions and \mathcal{C}-functions

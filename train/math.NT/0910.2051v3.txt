@@ -1,0 +1,1 @@
+Let C(q,+) be the set of even, primitive Dirichlet characters (mod q). Using the mollifier method we show that L^{(k)}(1/2,chi) is not equal to zero for almost all the characters chi in C(q,+) when k and q are large. Here, L^{(k)}(s,chi) is the k-th derivative of of the Dirichlet L-function L(s,chi).

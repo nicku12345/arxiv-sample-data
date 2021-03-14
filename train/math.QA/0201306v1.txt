@@ -1,0 +1,1 @@
+Cohomology theory of links, introduced by the author, is combinatorial. Dror Bar-Natan recently wrote a program that found ranks of cohomology groups of all prime knots with up to 11 crossings. His surprising experimental data is discussed in this note.

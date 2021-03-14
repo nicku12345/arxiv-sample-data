@@ -1,0 +1,1 @@
+In this paper we consider horseshoes containing an orbit of homoclinic tangency accumulated by periodic points. We prove a version of the Invariant Manifolds Theorem, construct finite Markov partitions and use them to prove the existence and uniqueness of equilibrium states associated to H\"older continuous potentials.

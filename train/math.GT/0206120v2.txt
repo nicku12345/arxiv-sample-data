@@ -1,0 +1,1 @@
+We show that in the mapping class group of a surface any relation between Dehn twists of the form T_x^j T_y^k = M (M a multitwist) is the lantern relation, and any relation of the form (T_x T_y)^k = M (where T_x commutes with M) is the 2-chain relation.

@@ -1,0 +1,1 @@
+Let \beta be a real number. Then for almost all irrational \alpha>0 (in the sense of Lebesgue measure)   \limsup_{x\to\infty}\pi_{\alpha,\beta}^*(x)(\log x)^2/x>=1, where \pi_{\alpha,\beta}^*(x)={p<=x: both p and [\alpha p+\beta] are primes}.

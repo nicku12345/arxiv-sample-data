@@ -1,0 +1,1 @@
+We introduce and develop the concept of oblique duality for fusion frames. This concept provides a mathematical framework to deal with problems in distributed signal processing where the signals, considered as elements in a Hilbert space and under certain consistency requirements, are analyzed in one subspace and are reconstructed in another subspace.

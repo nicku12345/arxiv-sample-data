@@ -1,0 +1,1 @@
+This is a revised version of ANT-0045.   If K is a number field of degree n with discriminant D, if K=Q(a) then H(a)>c(n)|D|^(1/(2n-2)) where H(a) is the height of the minimal polynomial of a. We ask if one can always find a generator a of K such that d(n)|D|^(1/(2n-2))>H(a) holds. The answer is yes for real quadratic fields.

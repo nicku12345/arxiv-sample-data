@@ -1,0 +1,1 @@
+On a compact, oriented, Riemannian manifold, the Hodge decomposition theorem associates a smooth primitive to any exact smooth form omega. In this paper, we show that given a smooth family of exact smooth forms omega(t), the family of associated primitives is also a smooth family with respect to t.

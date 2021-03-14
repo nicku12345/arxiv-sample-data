@@ -1,0 +1,1 @@
+We show that the adjacency matrix M of the line digraph of a d-regular digraph D on n vertices can be written as M=AB, where the matrix A is the Kronecker product of the all-ones matrix of dimension d with the identity matrix of dimension n and the matrix B is the direct sum of the adjacency matrices of the factors in a dicycle factorization of D.

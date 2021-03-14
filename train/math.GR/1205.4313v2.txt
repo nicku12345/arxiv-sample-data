@@ -1,0 +1,1 @@
+In this paper, we study Camina triples. Camina triples are a generalization of Camina pairs. Camina pairs were first introduced in 1978 by A.R. Camina in \cite{camina1}. Camina's work in \cite{camina1} was inspired by the study of Frobenius groups. We show that if (G,N,M) is a Camina triple, then either G/N is a p-group, M is nilpotent, or M has a non-trivial nilpotent quotient.

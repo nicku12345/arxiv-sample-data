@@ -1,0 +1,1 @@
+We establish the uniqueness of semi-wavefront solution for a non-local delayed reaction-diffusion equation. This result is obtained by using a generalization of the Diekman-Kaper theory for a nonlinear convolution equation. Several applications to the systems of non-local reaction-diffusion equations with distributed time delay are also considered.

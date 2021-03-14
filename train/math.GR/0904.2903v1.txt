@@ -1,0 +1,1 @@
+Given a Lie group G with finitely many components and a compact Lie group A which acts on G by automorphisms, we prove that there always exists an A-invariant maximal compact subgroup K of G, and that for every such K, the natural map H^1(A,K)\to H^1(A,G) is bijective. This generalizes a classical result of Serre [6] and a recent result in [1].

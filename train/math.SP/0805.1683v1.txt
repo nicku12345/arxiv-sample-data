@@ -1,0 +1,1 @@
+In this article, we derive bounds for values of the global geometry of locally tessellating planar graphs, namely, the Cheeger constant and exponential growth, in terms of combinatorial curvatures. We also discuss spectral implications for the Laplacians.

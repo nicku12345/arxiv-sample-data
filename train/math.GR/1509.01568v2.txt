@@ -1,0 +1,1 @@
+The Tarski number of a group G is the minimal number of the pieces of paradoxical decompositions of that group. Using configurations along with a matrix combinatorial property we construct paradoxical decompositions. We also compute an upper bound for the Tarski number of a given non-amenable group by counting the number of paths in a diagram associated to the group.

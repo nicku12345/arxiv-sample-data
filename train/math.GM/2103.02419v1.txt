@@ -1,0 +1,1 @@
+In this paper, we investigate the interpolation of surfaces which are obtained from an isoasymptotic curve in 3D-Euclidean space. We prove that there exist a unique  C^0 -Hermite surface interpolation related to an isoasymptotic curve under some special conditions on the marching scale functions. Finally, we present some examples and plot their graphs.

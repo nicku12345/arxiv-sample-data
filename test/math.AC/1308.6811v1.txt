@@ -1,0 +1,1 @@
+Estimates are obtained for the degrees of minimal syzygies of quotient algebras of polynomial rings. For a class that includes Koszul algebra in almost all characteristics, these degrees are shown to increase by at most 2 from one syzygy module to the next one. Even slower growth is proved if, in addition, the algebra satisfies Green and Lazarsfeld's condition N_q with q > 1.

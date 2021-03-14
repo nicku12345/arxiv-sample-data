@@ -1,0 +1,1 @@
+Necessary conditions for a domain \Omega\subset \mathbb C^n admitting a local plurisubharmonic defining function on the boundary are given. In tandem, we give an algorithm to construct a local plurisubharmonic defining function on the boundary when one exists. In some cases we show that the necessary conditions are also sufficient.

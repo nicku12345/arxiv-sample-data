@@ -1,0 +1,1 @@
+A general stochastic maximum principle is proved for optimal controls of semilinear stochastic evolution equations. Stochastic evolution operators, and the control with values in a general set enter into both drift and diffusion terms.

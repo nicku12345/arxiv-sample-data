@@ -1,0 +1,1 @@
+Let M be a smooth manifold which is homeomorphic to the n-fold product of S^k, where k is odd. There is an induced homomorphism from the group of diffeomorphisms of M to the automorphism group of H k (M ; Z). We prove that the image of this homomorphism contains a congruence subgroup of SL_n (Z) whenever n is at least 3.

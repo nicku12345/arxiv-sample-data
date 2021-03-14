@@ -1,0 +1,1 @@
+We construct a groupoid equivariant Kasparov class for transversely oriented foliations in all codimensions. In codimension 1 we show that the Chern character of an associated semifinite spectral triple recovers the Connes-Moscovici cyclic cocycle for the Godbillon-Vey secondary characteristic class.

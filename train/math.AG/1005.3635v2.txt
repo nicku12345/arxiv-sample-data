@@ -1,0 +1,1 @@
+In this article, we derive a list of possible characteristic polynomials of the Frobenius of simple supersingular abelian varieties of dimension 1, 2, 3, 4, 5, 6, 7 over \mathbb{F}_q where q = p^n, n odd.

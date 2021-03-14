@@ -1,0 +1,1 @@
+For every spatial embedding of each graph in the Petersen family, it is known that the sum of the linking numbers over all of the constituent 2-component links is congruent to 1 modulo 2. In this paper, we give an integral lift of this formula in terms of the square of the linking number and the second coefficient of the Conway polynomial.

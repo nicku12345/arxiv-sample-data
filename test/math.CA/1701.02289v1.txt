@@ -1,0 +1,1 @@
+We investigate mixed Lusin area integrals associated with Jacobi trigonometric polynomial expansions. We prove that these operators can be viewed as vector-valued Calder\'on-Zygmund operators in the sense of the associated space of homogeneous type. Consequently, their various mapping properties, in particular on weighted L^p spaces, follow from the general theory.

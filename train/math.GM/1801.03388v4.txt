@@ -1,0 +1,1 @@
+The five (5) families of quadrature rules with periods of one or two intervals for the real line and spline classes C^0, C^1 are presented. The formulae allow one to calculate the points or weights of these quadrature rules in a very simple manner as for the classical Gauss-Legendre rules.

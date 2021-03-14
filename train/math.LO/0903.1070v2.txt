@@ -1,0 +1,1 @@
+Let G be a closed subgroup of the group of all permutations of a countably infinite set. Let X be a Polish G-space with a countable basis A of clopen sets. Each x from X defines a characteristic function f on A by f(U)=1 iff x belongs to U (where U is from A). We consider computable complexity of f and some related questions.

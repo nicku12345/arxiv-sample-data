@@ -1,0 +1,1 @@
+We prove the parametric homotopy principle for holomorphic immersions of Stein manifolds into Euclidian space and the homotopy principle with approximation on holomorphically convex sets. We write an integration by parts like formula for the solution f to the problem Lf|_\Sigma=g, where L is a holomorphic vector field, semi-transversal to analytic variety \Sigma.

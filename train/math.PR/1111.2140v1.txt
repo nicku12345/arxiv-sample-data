@@ -1,0 +1,1 @@
+In this paper, we give an upper bound for a probabilistic distance between a Gaussian vector and a vector of U-statistics of Poisson point processes by applying Malliavin-Stein inequality on the Poisson space.

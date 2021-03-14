@@ -1,0 +1,1 @@
+We extend the Koszul duality theory of associative algebras to algebras over an operad. Recall that in the classical case, this Koszul duality theory relies on an important chain complex: the Koszul complex. We show that the cotangent complex, involved in the cohomology theory of algebras over an operad, generalizes the Koszul complex.

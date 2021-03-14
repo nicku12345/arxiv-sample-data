@@ -1,0 +1,1 @@
+The aim of this note is to extend the energy decay estimates from [J. Wirth, J. Differential Equations 222 (2006) 487--514] to a broader class of time-dependent dissipation including very fast oscillations. This is achieved using stabilisation conditions on the coefficient in the spirit of [F. Hirosawa, Math. Ann. 339/4 (2007) 819--839].

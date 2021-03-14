@@ -1,0 +1,1 @@
+We construct a Bourgain-Delbaen \mathscr{L}_\infty-space \mathfrak{X}_{Kus} with strongly heterogenous structure: any bounded operator on \mathfrak{X}_{Kus} is a compact perturbation of a multiple of the identity, whereas the space \mathfrak{X}_{Kus} is saturated with unconditional basic sequences.

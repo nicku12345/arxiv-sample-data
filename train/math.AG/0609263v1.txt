@@ -1,0 +1,1 @@
+In this note, we use the method of [3] to give a simple proof of famous Witten conjecture. Combining the coefficients derived in our note and this method, we can derive more recursion formulas of Hodge integrals.

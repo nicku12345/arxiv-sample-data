@@ -1,0 +1,1 @@
+We use twisted Alexander polynomials to show that certain algebraically slice 2-bridge knots are not topologically slice, even though all prime power Casson-Gordon signatures vanish. We also provide some computations indicating the efficacy of Casson-Gordon signatures in obstructing the smooth sliceness of 2-bridge knots.

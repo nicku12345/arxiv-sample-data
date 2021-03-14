@@ -1,0 +1,1 @@
+We prove that \beta_p(I(G)) = \beta_{p,p+r}(I(G)) for skew Ferrers graph G, where p:=\pd(I(G)) and r:=\reg(I(G)). As a consequence, we confirm that Ene, Herzog and Hibi's conjecture is true for the Betti numbers in the last columm of Betti table. We also give an explicit formula for the unique extremal Betti number of binomial edge ideal for some closed graphs.

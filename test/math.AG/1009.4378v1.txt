@@ -1,0 +1,1 @@
+We define a notion of logarithmic stable maps based on Bumsig Kim's construction. Then we prove a degeneration formula under this setting by applying the method develeoped by Dan Abramovich and Barbara Fantechi for transversal maps.

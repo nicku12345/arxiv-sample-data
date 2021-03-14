@@ -1,0 +1,1 @@
+The sum of correlated gamma random variables appears in the analysis of many wireless communications systems, e.g. in systems under Nakagami-m fading. In this Letter we obtain exact expressions for the probability density function (PDF) and the cumulative distribution function (CDF) of the sum of arbitrarily correlated gamma variables in terms of certain Lauricella functions.

@@ -1,0 +1,1 @@
+We show that the Calabi-Yau dimension of the stable module category of a selfinjective algebra of finite representation type is determined by the action of the Nakayama and suspension functors on objects.   Our arguments are based on recent results of C. Amiot, and hence apply more generally to triangulated categories having only finitely many indecomposable objects.

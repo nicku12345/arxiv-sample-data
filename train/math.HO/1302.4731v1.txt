@@ -1,0 +1,1 @@
+In this short note we give a glimpse of homotopy type theory, a new field of mathematics at the intersection of algebraic topology and mathematical logic, and we explain Vladimir Voevodsky's univalent interpretation of it. This interpretation has given rise to the univalent foundations program, which is the topic of the current special year at the Institute for Advanced Study.

@@ -1,0 +1,1 @@
+Given a II_1 factor M and a masa A of M, we prove a version of the Schur-Horn Theorem, together with a contractive version. These results are inspired on a recent conjecture of Arveson and Kadison (math.OA/0508482).

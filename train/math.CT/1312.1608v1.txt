@@ -1,0 +1,1 @@
+We give an elementary exposition of some fundamental facts about fibered (or rather opfibered) categories, in terms of monads and 2-categories. The account avoids any mention of category-valued functors and pseudofunctors.

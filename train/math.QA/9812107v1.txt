@@ -1,0 +1,1 @@
+We suggest new realizations of quantum groups corresponding to complex simple Lie algebras, and of affine quantum groups. These new realizations are labeled by Coxeter elements of the corresponding Weyl group and have the following key feature: The natural counterparts of the subalgebras U(n), where n is a maximal nilpotent subalgebra in g, possess non--singular characters.

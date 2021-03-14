@@ -1,0 +1,1 @@
+It is known that if f is a continuous function on the complex plane which extends holomorphically from each circle surrounding the origin then f is not necessarily holomorphic. In the paper we prove that if, in addition, f extends holomorphically from each circle belonging to an open family of circles which do not surround the origin then f is holomorphic.

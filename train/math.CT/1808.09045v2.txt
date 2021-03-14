@@ -1,0 +1,1 @@
+Generalizing a result of Dwyer and Kan for simplicial categories, we characterize the morphisms of multi-sorted simplicial algebraic theories and simplicial coloured operads which induce a Quillen equivalence between the corresponding categories of algebras.

@@ -1,0 +1,1 @@
+Let \g be a classical Lie algebra, e a nilpotent of \g element and \gt g_e the centraliser of e in \g. We prove that \g_e=[\g_e,\g_e] if and only if e is rigid. It is also shown that if e is contained in [\g_e,\g_e], then the nilpotent radical of \g_e coincides with [\g(1)_e,\g_e], where \g(1)_e is an eigenspace of a characteristic of e with the eigenvalue 1.

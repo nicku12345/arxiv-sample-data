@@ -1,0 +1,1 @@
+We use grid diagrams to investigate the Ozsvath-Szabo concordance invariant tau, and to prove that |tau(K_1)-tau(K_2)|<=g, whenever there is a genus g knot cobordism joining K_1 to K_2. This leads to an entirely grid diagram-based proof of Kronheimer-Mrowka's theorem, formerly known as the Milnor conjecture.

@@ -1,0 +1,1 @@
+Let Q be a non-singular diagonal quadratic form in at least four variables. We provide upper bounds for the number of integer solutions to the equation Q=0, which lie in a box with sides of length 2B, as B tends to infinity. The estimates obtained are completely uniform in the coefficients of the form, and become sharper as they grow larger in modulus.

@@ -1,0 +1,1 @@
+We outline some ongoing work related to a conjecture of Reed \cite{reed97} on \omega, \Delta, and \chi. We conjecture that the complement of a counterexample G to Reed's conjecture has connectivity on the order of \log(|G|). We prove that this holds for a family (parameterized by \epsilon > 0) of relaxed bounds; the \epsilon = 0 limit of which is Reed's upper bound.

@@ -1,0 +1,1 @@
+We combine stochastic control methods, white noise analysis and Hida-Malliavin calculus applied to the Donsker delta functional to obtain new representations of semimartingale decompositions under enlargement of filtrations. The results are illustrated by explicit examples.

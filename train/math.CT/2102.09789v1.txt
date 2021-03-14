@@ -1,0 +1,1 @@
+It is shown that every two-variable adjunction in categories enriched in a commutative quantale serves as a base for constructing Isbell adjunctions between functor categories, and Kan adjunctions are precisely Isbell adjunctions constructed from suitable associated two-variable adjunctions. Representation theorems are established for fixed points of these adjunctions.

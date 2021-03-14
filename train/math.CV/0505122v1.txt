@@ -1,0 +1,1 @@
+Let D be a convex domain with smooth boundary in complex space and let f be a continuous function on the boundary of D. Suppose that f holomorphically extends to the extremal discs tangent to a convex subdomain of D. We prove that f holomorphically extends to D. The result partially answers a conjecture by Globevnik and Stout of 1991.

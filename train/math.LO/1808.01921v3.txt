@@ -1,0 +1,1 @@
+We reimplement the creature forcing construction used by Fischer et al. (arXiv:1402.0367) to separate Cicho\'{n}'s diagram into five cardinals as a countable support product. Using the fact that it is of countable support, we augment our construction by adding uncountably many additional cardinal characteristics, sometimes referred to as localisation cardinals.

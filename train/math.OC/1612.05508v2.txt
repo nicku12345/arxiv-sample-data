@@ -1,0 +1,1 @@
+In this paper we propose a method to determine explicitly the solution of the total variation denoising problem with an L^p fidelity term, where p>1, for piecewise constant initial data in dimension one.

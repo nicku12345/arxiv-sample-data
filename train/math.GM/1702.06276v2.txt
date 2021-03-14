@@ -1,0 +1,1 @@
+We present a prime-generating polynomial (1+2n)(p -2n) + 2 where p>2 is a lower member of a pair of twin primes less than 41 and the integer n is such that \: \frac {1-p}{2} < n < p-1.

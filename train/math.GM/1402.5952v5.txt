@@ -1,0 +1,1 @@
+We consider the alternating Riemann zeta function \zeta^*(s)= \sum^{\infty}_{ n=1} \frac{(-1)^{n-1}}{n^s}, which converges if Re (s)>0 . By using Rouche's theorem, Vitali's theorem and by method of contradiction we complete the proof of the Riemann Hypothesis.

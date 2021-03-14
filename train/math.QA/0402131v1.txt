@@ -1,0 +1,1 @@
+We use Lee's work on the Khovanov homology to define a knot invariant s. We show that s(K) is a concordance invariant and that it provides a lower bound for the slice genus of K. As a corollary, we give a purely combinatorial proof of the Milnor conjecture.

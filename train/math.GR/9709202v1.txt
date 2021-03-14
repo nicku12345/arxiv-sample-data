@@ -1,0 +1,1 @@
+Let \phi:G\rightarrow G be an endomorphism of a finitely generated residually finite group. R.~Hirshon asked if there exists~n such that the restriction of \phi to \phi^n(G) is injective. We give an example to show that this is not always the case.

@@ -1,0 +1,1 @@
+We prove that if Y is a closed subspace of a Banach space X such that Y and X/Y admit an equivalent asymptotically uniformly smooth norm, then X also admits an equivalent asymptotically uniformly smooth norm. The proof is based on the use of the Szlenk index and yields a few other applications to renorming theory.

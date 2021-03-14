@@ -1,0 +1,1 @@
+Let M^{2n} be a closed smooth manifold homotopy equivalent to the complex projective space \mathbb{C}P(n). The purpose of this paper is to show that when n is even, the difference of the first Pontrjagin classes between M^{2n} and \mathbb{C}P(n) is divisible by 16.

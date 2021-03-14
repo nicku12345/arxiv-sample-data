@@ -1,0 +1,1 @@
+We study the number of ends of a Schreier graph of a hyperbolic group. Let G be a hyperbolic group and let H be a subgroup of G. In general, there is no algorithm to compute the number of ends of a Schreier graph of the pair (G, H). However, assuming that H is a quasi-convex subgroup of G, we construct an algorithm.

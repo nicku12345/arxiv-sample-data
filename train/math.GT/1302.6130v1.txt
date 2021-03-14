@@ -1,0 +1,1 @@
+For a fixed p, there are only finitely many elliptic 3-manifolds given by p/q-surgery on a knot in S^3. We prove this result by using the Heegaard Floer correction terms (d-invariants) to obstruct elliptic manifolds from arising as knot surgery.

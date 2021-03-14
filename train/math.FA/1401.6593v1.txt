@@ -1,0 +1,1 @@
+In the present paper, we use a generalised shift operator in order to define a generalised modulus of smoothness. By its means, we define generalised Lipschitz classes of functions, and we give their constructive characteristics. Specifically, we prove certain direct and inverse types theorems in approximation theory for best approximation by algebraic polynomials.

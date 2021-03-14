@@ -1,0 +1,1 @@
+An r-gentiling is a dissection of a shape into r \geq 2 parts which are all similar to the original shape. An r-reptiling is an r-gentiling of which all parts are mutually congruent. This article shows that no acute tetrahedron is an r-gentile or r-reptile for any r < 9, by showing that no acute spherical diangle can be dissected into less than nine acute spherical triangles.

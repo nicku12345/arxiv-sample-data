@@ -1,0 +1,1 @@
+We provide a direct, elementary proof for the existence of \lim_{\lambda\to 0} v_{\lambda}, where v_{\lambda} is the value of a \lambda-discounted finite two-person zero-sum stochastic game.

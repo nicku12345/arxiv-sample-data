@@ -1,0 +1,1 @@
+We introduce a statistic \pmaj on partitions of [n]=\{1,2,..., n\}, and show that it is equidistributed with the number of 2-crossings over partitions of [n] with given sets of minimal block elements and maximal block elements. This generalizes the classical result of equidistribution for the permutation statistics inversion number and major index.

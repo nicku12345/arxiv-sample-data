@@ -1,0 +1,1 @@
+One studies a particular algebraic system where the unknowns are matrices. We solve this system according to the parameters values thanks to the theory of Grobner basis.

@@ -1,0 +1,1 @@
+Let G be a locally compact groupoid. If X is a free and proper G-space, then (X*X)/G is a groupoid equivalent to G. We consider the situation where X is proper but no longer free. The formalism of groupoid C*-algebras and their representations is suitable to attach C*-algebras to this new object.

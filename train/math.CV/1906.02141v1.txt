@@ -1,0 +1,1 @@
+We consider the differential equations s' = c^5 and c' = - s^5 with initial conditions s(0) = 0 and c(0) = 1. We show that s^2 c^2 extends to the reciprocal of the Weierstrass elliptic function with invariants g_2 = 0 and g_3 = 16. We also show that powers of s^2 c^2 are the only functions of the form s^m c^n that extend meromorphically in the plane.

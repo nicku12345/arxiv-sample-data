@@ -1,0 +1,1 @@
+Let (\phi_t) be a semigroup of holomorphic self-maps of~\mathbb D. In this note, we use an abstract approach to define the K\"onigs function of (\phi_t) and "holomorphic models" and show how to deduce the existence and properties of the infinitesimal generator of (\phi_t) from this construction.

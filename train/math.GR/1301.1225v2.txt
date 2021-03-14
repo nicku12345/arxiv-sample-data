@@ -1,0 +1,1 @@
+Given an arbitrary group G we construct a semigroup of idempotents (band) B_G with the property that the free idempotent generated semigroup over B_G has a maximal subgroup isomorphic to G. If G is finitely presented then B_G is finite. This answers several questions from recent papers in the area.

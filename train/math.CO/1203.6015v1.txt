@@ -1,0 +1,1 @@
+We study the irreducibility of the characteristic polynomial of the energy graph of the non linear Schr\"{o}dinger equation (NLS). This will be useful to the verification of the second Melnikov condition for NLS.

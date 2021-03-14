@@ -1,0 +1,1 @@
+We prove that the vertex set of any twin-free multigraph G has an embedding into some point set P of some Euclidean space Rk, such that the automorphism group of G is isomorphic to the isometry group of Rk globally preserving P.

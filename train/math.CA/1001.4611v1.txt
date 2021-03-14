@@ -1,0 +1,1 @@
+The psi function \psi(x) is defined by \psi(x)=\frac{\Gamma'(x)}{\Gamma(x)} and \psi^{(i)}(x) for i\in\mathbb{N} denote the polygamma functions, where \Gamma(x) is the gamma function. In this paper we prove that a function involving the difference between [\psi'(x)]^2+\psi''(x) and a proper fraction of x is completely monotonic on (0,\infty).

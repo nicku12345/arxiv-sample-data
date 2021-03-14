@@ -1,0 +1,1 @@
+Because of its multiplicativity, the Berezinian is the character of the one-dimensional representation of the general linear supergroup. We give an explicit construction of this representation on a space of tensors. Similarly, we construct the representation such that its character is the inverse of the Berezinian.

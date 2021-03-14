@@ -1,0 +1,1 @@
+I show that the set of smooth curves of genus g admitting branched coverings X->P^1 with only triple ramification points has dimension at least max(2g-3,g). In characteristic two, such curves have tame rational functions and an analog of Belyi's Theorem applies to them.

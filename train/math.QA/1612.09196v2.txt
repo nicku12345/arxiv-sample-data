@@ -1,0 +1,1 @@
+The 6j-symbols for representations of the \mathrm{SU}(2) quantum group are given by Hahn-Exton q-Bessel functions. This interpretation leads to several summation identities for the q-Bessel functions. Multivariate q-Bessel functions are defined, which are shown to be limit cases of multivariate Askey-Wilson polynomials. The multivariate q-Bessel functions occur as 3nj-symbols.

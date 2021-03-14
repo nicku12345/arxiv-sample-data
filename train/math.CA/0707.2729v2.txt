@@ -1,0 +1,1 @@
+The aim of this paper is to study the q-Schr\"{o}dinger operator  L= q(x)-\Delta_q,  where q(x) is a given function of x defined over \mathbb{R}_{q}^{+}=\{q^n,\quad n\in\mathbb Z\} and \Delta_q is the q-Laplace operator  \Delta_{q}f(x)=\frac{1}{x^{2}}[ f(q^{-1}x)-\frac{1+q}{q}f(x)+\frac{1}{q}f(qx)]. 

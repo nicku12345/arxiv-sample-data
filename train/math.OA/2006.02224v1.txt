@@ -1,0 +1,1 @@
+We consider Boidol's group, whose Lie algebra is an extension of the Heisenberg Lie algebra by the reals with the roots 1 and -1 . It is the only connected solvable Lie group of dimension less than or equal to four whose group C*-algebra had not yet been determined. In this paper we describe its C*-algebra as an algebra of operator fields defined over the spectrum of the group.

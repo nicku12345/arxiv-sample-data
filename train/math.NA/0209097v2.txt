@@ -1,0 +1,1 @@
+We study the geometry of functions from the plane to the plane. For a large special class we are able to count preimages and compute them. Both numerical and theoretical aspects are discussed. Some of the tools used are Whitney's classification of critical points, rotation numbers, covering maps and continuation methods.

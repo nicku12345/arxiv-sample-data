@@ -1,0 +1,1 @@
+This article analyses geometric constructions by origami when up to n simultaneous folds may be done at each step. It shows that any arbitrary angle can be m-sected if the largest prime factor of m is p\le n+2. Also, the regular m-gon can be constructed if the largest prime factor of \phi(m) is q\le n+2, where \phi is Euler's totient function.

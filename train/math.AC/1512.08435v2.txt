@@ -1,0 +1,1 @@
+An algorithmic proof of General Neron Desingularization is given here for one dimensional local rings and it is implemented in Singular. Also a theorem recalling Greenberg' strong approximation theorem is presented for one dimensional local rings.

@@ -1,0 +1,1 @@
+Let V, W be finite-dimensional orthogonal representations of a finite group G. The equivariant degree with values in the Burnside ring of G has been studied extensively by many authors. We present a short proof of the degree product formula for local equivariant maps on V and W.

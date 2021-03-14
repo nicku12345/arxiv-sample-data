@@ -1,0 +1,1 @@
+A monotone grid class is a permutation class (i.e., a downset of permutations under the containment order) defined by local monotonicity conditions. We give a simplified proof of a result of Murphy and Vatter that monotone grid classes of forests are partially well-ordered.

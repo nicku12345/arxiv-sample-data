@@ -1,0 +1,1 @@
+The Cauchy functional equation is not only the most important single functional equation, it is also central to regular variation. Classical Karamata regular variation involves a functional equation and inequality due to Goldie; we study this, and its counterpart in Beurling regular variation, together with the related Go{\l}\k{a}b-Schinzel equation.

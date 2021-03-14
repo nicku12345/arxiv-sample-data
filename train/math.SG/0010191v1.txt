@@ -1,0 +1,1 @@
+A regular Poisson manifold can be described as a foliated space carrying a tangentially symplectic form. Examples of foliations are produced here that are not induced by any Poisson structure although all the basic obstructions vanish.

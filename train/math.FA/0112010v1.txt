@@ -1,0 +1,1 @@
+We show that C.J.Read's example of an operator T on l_1 which does not have any non-trivial invariant subspaces is not the adjoint of an operator on a predual of l_1. Furthermore, we present a bounded diagonal operator D such that even though its inverse is unbounded, but D^{-1}TD is a bounded operator with invariant subspaces, and is adjoint to an operator on c_0.

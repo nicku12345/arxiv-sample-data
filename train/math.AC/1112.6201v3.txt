@@ -1,0 +1,1 @@
+Motivated by a result of Araya, we extend the Auslander-Reiten duality theorem to Cohen-Macaulay local rings. We also study the Auslander-Reiten conjecture, which is rooted in Nakayama's work on finite dimensional algebras. One of our results detects a certain condition that forces the conjecture to hold over local rings of positive depth.

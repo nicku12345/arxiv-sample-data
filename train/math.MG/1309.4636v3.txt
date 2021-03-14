@@ -1,0 +1,1 @@
+We give a means of estimating the equivariant compression of a group G in terms of properties of open subgroups G_i whose direct limit is G. Quantifying a result by S.R. Gal, we also study the behaviour of the equivariant compression under amalgamated free products G1*_H G2 where H is of finite index in both G_1 and G_2.

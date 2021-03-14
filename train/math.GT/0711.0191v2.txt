@@ -1,0 +1,1 @@
+We show that a complete hyperbolic n-manifold has a geodesic triangulation such that the tetrahedra contained in the thick part are L-bilipschitz diffeomorphic to the standard Euclidean n-simplex, for some constant L depending only on the dimension and the constant used to define the thick-thin decomposition of M.

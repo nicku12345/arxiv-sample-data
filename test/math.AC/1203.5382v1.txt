@@ -1,0 +1,1 @@
+We present an algorithm to find generators of the multigraded algebra A associated to an arbitrary p-divisor D on some variety Y. A modified algorithm is also presented for the case where Y admits a torus action. We demonstrate our algorithm by computing generators for the Cox ring of the smooth del Pezzo surface of degree 5.

@@ -1,0 +1,1 @@
+We give a method for computing the ensemble average of multiplicative class functions over the Gaussian ensemble of real asymmetric matrices. These averages are expressed in terms of the Pfaffian of Gram-like antisymmetric matrices formed with respect to a skew-symmetric inner product related to the class function.

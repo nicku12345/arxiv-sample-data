@@ -1,0 +1,1 @@
+In this note we study dual coalgebras of algebras over arbitrary (noetherian) commutative rings. We present and study a generalized notion of coreflexive comodules and use the results obtained for them to characterize the so called coreflexive coalgebras. Our approach in this note is an algebraically topological one.

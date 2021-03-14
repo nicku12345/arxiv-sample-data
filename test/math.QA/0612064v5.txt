@@ -1,0 +1,1 @@
+The cyclotomic Birman-Wenzl-Murakami algebras are quotients of the affine BMW algebras in which the affine generator satisfies a polynomial relation. We show that the cyclotomic BMW algebras are free modules over any (admissible, integral) ground ring, and that they are isomorphic to cyclotomic versions of the Kauffman tangle algebras

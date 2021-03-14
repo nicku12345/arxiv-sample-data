@@ -1,0 +1,1 @@
+While even perfect numbers are completely characterized, the existence or otherwise of odd perfect numbers is an open problem. We address that problem and prove that if a natural number is odd, then it's not perfect.

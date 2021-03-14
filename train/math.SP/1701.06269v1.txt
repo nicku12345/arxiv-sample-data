@@ -1,0 +1,1 @@
+In this paper, we solve Gallay's conjecture on the spectral lower bound and pseudospecrtal bound for the linearized operator of the Navier-Stokes equation in R^2 around rapidly rotating Oseen vortices.

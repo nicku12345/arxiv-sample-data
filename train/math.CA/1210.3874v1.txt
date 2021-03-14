@@ -1,0 +1,1 @@
+In this article, we prove that the double inequality \alpha G(a,b)+(1-\alpha)C(a,b)<M(a,b)<\beta G(a,b)+(1-\beta)C(a,b) holds true for all a,b>0 with a\neq b if and only if \alpha\geq 5/9 and \beta\leq 1-1/[2\log(1+\sqrt{2})]=0.4327..., where G(a,b),C(a,b) and M(a,b) are respectively the geometric, contra-harmonic and Neuman-S\'andor means of a and b.

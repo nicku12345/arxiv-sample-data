@@ -1,0 +1,1 @@
+We prove an abstract and general version of the Lewy-Stampacchia inequality. We then show how to reproduce more classical versions of it and, more importantly, how it can be used in conjunction with Laplacian comparison estimates to produce large class of functions with bounded Laplacian on spaces with a lower bound on the Ricci curvature.

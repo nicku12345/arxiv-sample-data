@@ -1,0 +1,1 @@
+The classical table of integrals by I. S. Gradshteyn and I. M. Ryzhik contains many definite integrals where the integrand is the product of a rational function times the logarithm of another rational function. We begin the systematic evaluation of these integrals.

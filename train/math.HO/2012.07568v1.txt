@@ -1,0 +1,1 @@
+Let a,b,c be non-zero integers and f(x)=ax^n+bx^m+c be a trinomial of degree n. We surveyed the irreducibility criteria of f(x) over rational numbers.

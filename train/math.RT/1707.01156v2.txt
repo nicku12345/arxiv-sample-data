@@ -1,0 +1,1 @@
+Let \Gamma be a finite Coxeter group with reflection representation R. We show that a \Gamma-equivariant quasicoherent sheaf on R descends to the quotient space R//\Gamma if it descends to the quotient space R//\langle s_i\rangle for every simple reflection s_i\in \Gamma.

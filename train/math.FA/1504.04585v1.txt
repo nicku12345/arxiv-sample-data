@@ -1,0 +1,1 @@
+We consider nonnegative r-potent matrices with finite dimensions and study their decomposability. We derive the precise conditions under which an r-potent matrix is decomposable. We further determine a general structure for the r-potent matrices based on their decomposability. Finally, we establish that semigroups of r-potent matrices are also decomposable.

@@ -1,0 +1,1 @@
+For self-adjoint Hankel operators of finite rank, we find an explicit formula for the total multiplicity of their negative and positive spectra. We also show that very strong perturbations, for example, a perturbation by the Carleman operator, do not change the total number of negative eigenvalues of finite rank Hankel operators.

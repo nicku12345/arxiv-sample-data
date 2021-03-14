@@ -1,0 +1,1 @@
+Let L_n(x) and L_n^\alpha(x) be the nth Laguerre and associated Laguerre polynomial respectively. Fisk proved that the linear operator sending x^n to L_n(x) preserves real-rootedness. In this note we prove a stronger result; namely, that when \alpha\ge 0, the linear operator sending x^n to (-1)^n n! L_n^\alpha(x) preserves real-rootedness.

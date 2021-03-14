@@ -1,0 +1,1 @@
+This paper is mainly concerned with proving \sigma(AB)=\sigma(BA) for two linear and non necessarily bounded operators A and B. The main tool is left and right invertibility of bounded and unbounded operators.

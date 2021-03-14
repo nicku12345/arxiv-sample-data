@@ -1,0 +1,1 @@
+We prove a vanishing theorem for the Hodge number h^21 of projective toric varieties provided by a certain class of polytopes. We explain how this Hodge number also gives information about the deformation theory of the toric Gorenstein singularity derived from the same polytope. In particular, the vanishing theorem for h^21 implies that these deformations are unobstructed.

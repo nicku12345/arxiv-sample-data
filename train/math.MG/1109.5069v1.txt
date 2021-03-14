@@ -1,0 +1,1 @@
+We show the uniqueness of the radial centers of any order \alpha of a parallel body of a convex body \Omega in \mathbb R^m at distance \delta if \delta is greater than the diameter of \Omega multiplied by a constant which depends only on the dimension m.

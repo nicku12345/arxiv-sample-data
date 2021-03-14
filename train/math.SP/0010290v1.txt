@@ -1,0 +1,1 @@
+We give a method of decomposing bundle-valued polynomials compatible with the action of the Lie group Spin(n), where important tools are Spin(n)-equivariant operators and their spectral decompositions. In particular, the top irreducible component is realized as an intersection of kernels of these operators.

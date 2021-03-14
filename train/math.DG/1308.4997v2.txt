@@ -1,0 +1,1 @@
+Given a complete, Ricci-flat 4-manifold with a Killing field, we give an estimate on the manifold's energy in terms of a certain asymptotic quantity of the Killing field. If the Killing field has no zeros and satisfies a certain asymptotic condition, the manifold is flat.

@@ -1,0 +1,1 @@
+We give a short and very general proof of the fact that the property of a dense Fr\'echet subalgebra of a Banach algebra being local, or closed under the holomorphic functional calculus in the Banach algebra, is preserved by tensoring with the n\times n matrix algebra of the complex numbers.

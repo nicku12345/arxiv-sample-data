@@ -1,0 +1,1 @@
+We show that the secondary Hochschild cohomology associated to a triple (A,B,\varepsilon) has several of the properties of the usual Hochschild cohomology. Among others, we prove the existence of the cup and Lie products, discuss the connection with extensions of B-algebras, and give a Hodge type decomposition of the secondary Hochschild cohomology.

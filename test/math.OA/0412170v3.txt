@@ -1,0 +1,1 @@
+In this paper, we will compuet the moment of the operator which is the product of the generating operator and the word operator. The word operator means the operator which is the total sum of the word with length n. We constructed a new recurrence relation and by using this recurrence relation, we can compute the first moment of the operator.

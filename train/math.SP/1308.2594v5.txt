@@ -1,0 +1,1 @@
+For the complex interior transmission eigenvalues (ITE) we study for small \theta > 0 the counting function N(\theta, r) = #\{\lambda \in \C:\: \lambda \: {\rm is} \: {\rm (ITE)},\: |\lambda| \leq r, \: 0 \leq \arg \lambda \leq \theta\}. We obtain for fixed \theta > 0 an upper bound N(\theta, r) \leq C r^{n/2}, \: r \geq r(\theta).

@@ -1,0 +1,1 @@
+We describe the main functions of the Macaulay2 package Quasidegrees. The purpose of this package is to compute the quasidegree set of a finitely generated A-graded module presented as the cokernel of a monomial matrix. We provide examples with motivation coming from A-hypergeometric systems.

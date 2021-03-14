@@ -1,0 +1,1 @@
+This paper deals with the rigorous study of the diffusive stress relaxation in the multidimensional system arising in the mathematical modeling of viscoelastic materials. The control of an appropriate high order energy shall lead to the proof of that limit in Sobolev space. It is shown also as the same result can be obtained in terms of relative modulate energies.

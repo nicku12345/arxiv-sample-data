@@ -1,0 +1,1 @@
+This paper provides asymptotics with a sharp error term for the Dirichlet summatory function of a certain class of arithmetic functions. The result applies, e.g., to the sums over r^2(n) and r(n^3), where r(m) denotes the number of ways to write m as a sum of two squares of integers.

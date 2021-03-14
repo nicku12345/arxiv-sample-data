@@ -1,0 +1,1 @@
+We exhibit an algorithm to determine the bridge number of a hyperbolic knot in the 3-sphere. The proof uses adaptations of almost normal surface theory for compact surfaces with boundary in ideally triangulated knot exteriors.

@@ -1,0 +1,1 @@
+We analyze the representation of A^{n} as a linear combination of A^{j},\ 0\leq j\leq k-1, where A is a k\times k matrix. We obtain a first order asymptotic approximation of A^{n} as n\to\infty, without imposing any special conditions on A.   We give some examples showing the application of our results.

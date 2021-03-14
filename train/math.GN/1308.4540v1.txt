@@ -1,0 +1,1 @@
+We give, for each countable ordinal \xi \geq 1, an example of a {\bf\Delta}^0_2 countable union of Borel rectangles that cannot be decomposed into countably many {\bf\Pi}^0_\xi rectangles. In fact, we provide a graph of a partial injection with disjoint domain and range, which is a difference of two closed sets, and which has no {\bf\Delta}^0_\xi-measurable countable coloring.

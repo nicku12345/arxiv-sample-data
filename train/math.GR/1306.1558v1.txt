@@ -1,0 +1,1 @@
+Given a finite group G, denote by \Gamma(G) the simple undirected graph whose vertices are the distinct sizes of noncentral conjugacy classes of G, and set two vertices of \Gamma(G) to be adjacent if and only if they are not coprime numbers. In this note we prove that, if \Gamma(G) is a k-regular graph with k\geq 1, then \Gamma(G) is a complete graph with k+1 vertices.

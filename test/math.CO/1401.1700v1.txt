@@ -1,0 +1,1 @@
+In this note, we present an interesting corollary of a theorem of Hamada and Ohmori. We prove that the complementary of PG(n,2) is the only design, up to an isomorphism, whose blocks form a group for the symmetric difference.

@@ -1,0 +1,1 @@
+We study the Bousfield-Kan spectral sequence associated to the Munson-Voli\'c cosimplicial model for the space of long links with l strings in \mathbb{R}^N . We compute explicitely some Euler-Poincar\'e series associated to the second page of that spectral sequence and deduce exponential growth of their Betti numbers.

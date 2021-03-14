@@ -1,0 +1,1 @@
+Here we present the reasoning behind, and program to find, the generating functions for the number of permutations in the title. The article duals as the "accompanying" Maple package.

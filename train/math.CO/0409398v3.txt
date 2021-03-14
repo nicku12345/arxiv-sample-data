@@ -1,0 +1,1 @@
+We use a greedy probabilistic method to prove that for every \epsilon > 0, every m\times n Latin rectangle on n symbols has an orthogonal mate, where m=(1-\epsilon)n. That is, we show the existence of a second Latin rectangle such that no pair of the mn cells receives the same pair of symbols in the two rectangles.

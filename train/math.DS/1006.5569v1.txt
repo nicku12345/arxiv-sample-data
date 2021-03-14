@@ -1,0 +1,1 @@
+Given a closed smooth four-dimensional manifold, we construct a diffeomorphism that has a homoclinic class whose continuation locally generically satisfies the following condition: it does not admit any kind of dominated splittings whereas any periodic points belonging to it never have unstable index one.

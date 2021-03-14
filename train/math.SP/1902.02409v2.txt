@@ -1,0 +1,1 @@
+The well-known stationary phase formula gives us a way to precisely compute oscillating integrals so long as the symbol is regular enough (in comparison to the large parameter controlling the oscillation). However in a number of applications we find ourselves with symbols that are not suitably regular. In this paper we obtain decay bounds for such oscillatory integrals.

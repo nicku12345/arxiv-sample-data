@@ -1,0 +1,1 @@
+We define scattering phases associated to pairs of Laplacians on asymptotically hyperbolic manifolds, and prove some spectral asymptotics for them. These result are applications of Isozaki-Kitada's constructions which we adapt to this framework.

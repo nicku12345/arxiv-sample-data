@@ -1,0 +1,1 @@
+We describe a notion of categorical model for unitless fragments of (multiplicative) linear logic. The basic definition uses promonoidal categories, and we also give an equivalent elementary axiomatisation.

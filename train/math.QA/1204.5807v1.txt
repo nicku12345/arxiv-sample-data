@@ -1,0 +1,1 @@
+This is a survey on spherical Hopf algebras. We give criteria to decide when a Hopf algebra is spherical and collect examples. We discuss tilting modules as a mean to obtain a fusion subcategory of the non-degenerate quotient of the category of representations of a suitable Hopf algebra.

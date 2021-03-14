@@ -1,0 +1,1 @@
+The aim of this work is to study the existence of a periodic solutions of nth-order differential equations with delay d dt x(t) + d 2 dt 2 x(t) + d 3 dt 3 x(t) + ... + d n dt n x(t) = Ax(t) + L(xt) + f (t). Our approach is based on the M-boundedness of linear operators, Fourier type, B s p,q-multipliers and Besov spaces.

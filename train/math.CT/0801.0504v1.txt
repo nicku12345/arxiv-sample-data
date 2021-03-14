@@ -1,0 +1,1 @@
+A concept of quantum triad and its solution is introduced. It represents a common framework for several situations where we have a quantale with a right module and a left module, provided with a bilinear inner product. Examples include Van den Bossche quantaloids, quantum frames, simple and Galois quantales, operator algebras, or orthomodular lattices.

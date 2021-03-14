@@ -1,0 +1,1 @@
+In this article an intertwining operator is constructed which transforms the harmonic oscillator to the Dirac operator (the first order derivative operator). We give also the explicit solutions to the heat and wave equation associated to Dirac operator. As an application the heat and the wave kernels of the harmonic oscillator are computed.

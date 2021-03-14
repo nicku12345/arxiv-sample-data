@@ -1,0 +1,1 @@
+Let (A,\m) be a strict complete intersection of positive dimension and let M be a maximal \CM \ A-module with bounded betti-numbers. We prove that the Hilbert function of M is non-decreasing. We also prove an analogous statement for complete intersections of codimension two.

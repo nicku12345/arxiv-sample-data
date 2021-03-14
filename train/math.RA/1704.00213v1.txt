@@ -1,0 +1,1 @@
+A ring R is Yaqub nil-clean if for any a\in R, a-a^3 or a+a^3 is nilpotent for all a\in R. We prove that a ring R is Yaqub nil-clean if and only if for any a\in R, there exists some e^3=e\in R, such that a-e or a+3e is nilpotent and ae=ea.

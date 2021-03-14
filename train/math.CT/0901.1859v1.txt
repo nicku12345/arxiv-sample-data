@@ -1,0 +1,1 @@
+The main goal of this paper is to prove that the idempotent completions of the triangulated categories of singularities of two schemes are equivalent if the formal completions of these schemes along singularities are isomorphic. We also discuss Thomason theorem on dense subcategories and a relation to the negative K-theory.

@@ -1,0 +1,1 @@
+We study here a sequence of secondary measures, so called because the set of secondary polynomials on a given term become orthogonal for the next measure. The main result is a formula making explicit the density of any term of the sequence, under some hypotheses. We give some applications and also derive an interpretation of the Fourier coefficients as multiple integrals.

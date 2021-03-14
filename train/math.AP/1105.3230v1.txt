@@ -1,0 +1,1 @@
+We study via Carleman estimates the sharpest possible exponential decay for {\it waveguide} solutions to the Laplace equation (\partial^2_t+\triangle)u=Vu+W\cdot(\partial_t,\nabla)u, and find a necessary quantitative condition on the exponential decay in the spatial-variable of nonzero waveguides solutions which depends on the size of V and W at infinity.

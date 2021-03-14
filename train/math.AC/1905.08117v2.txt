@@ -1,0 +1,1 @@
+We provide constructive versions of Hilbert's syzygy theorem for Z and Z/nZ following Schreyer's method. Moreover, we extend these results to arbitrary coherent strict B\'ezout rings with a divisibility test for the case of finitely generated modules whose module of leading terms is finitely generated.

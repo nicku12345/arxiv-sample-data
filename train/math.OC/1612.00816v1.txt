@@ -1,0 +1,1 @@
+This paper presents results on the solvability of the observer design problem for general nonlinear triangular systems with inputs, under weak observability assumptions. The local state estimation is exhibited by means of a delayed time-varying Luenberger-type system. In order to achieve the global estimation, a switching sequence of observers is designed.

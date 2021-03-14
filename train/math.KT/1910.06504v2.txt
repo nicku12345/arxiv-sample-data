@@ -1,0 +1,1 @@
+I present a proof of Kirchberg's classification theorem: two separable, nuclear, \mathcal O_\infty-stable C^\ast-algebras are stably isomorphic if and only if they are ideal-related KK-equivalent. In particular, this provides a more elementary proof of the Kirchberg--Phillips theorem which is isolated in the paper to increase readability of this important special case.

@@ -1,0 +1,1 @@
+We prove an exact trace formula for the Laplacian with a delta potential - also known as a point scatterer - on a non-compact hyperbolic surface of finite volume with one cusp. Our formula is an analogue of the Selberg trace formula. We express the difference of perturbed and unperturbed trace as a smooth term plus a sum over combinations of diffractive orbits.

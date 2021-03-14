@@ -1,0 +1,1 @@
+Any ergodic measure of a smooth map on a compact manifold has a multifractal spectrum with one point - the dimension of the measure itself - at the diagonal. We will construct examples where this fails in the most drastic way for invariant measures invariant under linear maps of the circle.

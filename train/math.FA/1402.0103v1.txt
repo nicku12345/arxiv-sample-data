@@ -1,0 +1,1 @@
+In this paper, we prove that the topology induced by algebraic cone metric coincides with the topology induced by the metric obtained via a nonlinear scalarization function, i.e. any algebraic cone metric space is metrizable. Furthermore, the notion of algebraic cone normed space is introduced and also normability of the topology of this space is proved.

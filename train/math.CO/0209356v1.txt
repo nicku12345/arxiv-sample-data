@@ -1,0 +1,1 @@
+We present matrix identities which yield respectively the Jordan canonical form of the Pascal matrix P_n = (i -1 choose j -1)_{1 <= i,j <= n} modulo a prime, the eigenvectors of (i choose j)_{1 <= i,j <= n}, and the Smith normal form of powers of P_n - I_n.

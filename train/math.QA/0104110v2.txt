@@ -1,0 +1,1 @@
+Using the quantum double method, we construct a universal R-matrix for the quantization of the Lie superalgebra D(2,1,x). We use this result to construct a link invariant and show it coincides with a specialization of Kauffman's Dubrovnik polynomial.

@@ -1,0 +1,1 @@
+For any finite group G, we construct a spectral sequence for computing the Bredon cohomology of a G-CW complex X, starting with the cohomology of X^H/\cup_{K>H}X^K with suitable local coefficients, for various H \leq G.

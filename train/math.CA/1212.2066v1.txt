@@ -1,0 +1,1 @@
+This article presents simple and easy proofs of the Implicit Function Theorem and the Inverse Function Theorem, in this order, both of them on a finite-dimensional Euclidean space, that employ only the Intermediate Value Theorem and the Mean-Value Theorem. These proofs avoid compactness arguments, the contraction principle, and fixed-point theorems.

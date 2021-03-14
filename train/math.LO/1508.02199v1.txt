@@ -1,0 +1,1 @@
+We prove that a theory T has stable forking if and only if T^\mathrm{eq} has stable forking.

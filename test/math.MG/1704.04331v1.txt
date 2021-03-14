@@ -1,0 +1,1 @@
+We study two 2-dimensional Teichm\"uller spaces of surfaces with boundary and marked points, namely, the pentagon and the punctured triangle. We show that their geometry is quite different from Teichm\"uller spaces of closed surfaces. Indeed, both spaces are exhausted by regular convex geodesic polygons with a fixed number of sides, and their geodesics diverge at most linearly.

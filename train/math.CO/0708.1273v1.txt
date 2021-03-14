@@ -1,0 +1,1 @@
+We construct a group K_n with properties similar to infinite Coxeter groups. In particular, it has a geometric representation featuring hyperplanes and simplicial chambers. The generators of K_n are given by 2-element subsets of {0, .., n}. We give some easy combinatorial results on the finite residues of K_n.

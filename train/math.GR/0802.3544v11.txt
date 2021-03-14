@@ -1,0 +1,1 @@
+The main achievement of this thesis is an algorithm which given a finite group presentation and natural numbers n and k, computes all the relators of length and area up to n and k respectively. The complexity of this algorithm is better by a factor which is over-exponential than that of classical methods using van Kampen diagrams.

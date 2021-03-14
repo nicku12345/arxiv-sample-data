@@ -1,0 +1,1 @@
+Let V be a complex nonsingular projective 3-fold of general type with \chi(\omega_V)\geq 0 (resp. >0). We prove that the m-canonical map \Phi_{|mK_V|} is birational onto its image for all m\ge 14 (resp. \geq 8). Known examples show that the lower bound r_3=14 (resp. =8) is optimal.

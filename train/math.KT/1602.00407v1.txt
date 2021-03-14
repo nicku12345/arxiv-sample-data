@@ -1,0 +1,1 @@
+We use the abelian approximation for the bootstrap category of filtered C*-algebras to define a sensible notion of support for its objects. As a consequence, we provide a full classification of localizing subcategories in terms of a product of lattices of noncrossing partitions of a regular (n+1)-gon, where n is the number of ideals in the filtration.

@@ -1,0 +1,1 @@
+We show that on a Riemann surface lamination locally embedded in \mathbb{C}^2, C^1 functions (in the sense of the C^1 structure of the lamination) are uniform limits of ambient C^1 functions, with L^p control on the derivatives along the leaves. This implies that locally in C^2, a (1,1) positive closed current dominated by a uniformly laminar current is itself uniformly laminar.

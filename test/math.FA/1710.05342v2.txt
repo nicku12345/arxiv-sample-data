@@ -1,0 +1,1 @@
+We consider three special and significant cases of the following problem. Let D be a (possibly unbounded) set of finite Lebesgue measure in R^d. Find conditions on D for which the standard exponential basis on the unit cube of R^d is a frame, a Riesz sequence, or a Riesz basis on L^2(D).

@@ -1,0 +1,1 @@
+Given an algebraically closed field F of characteristic 0 and an F-vector space V, let L(V)=V\oplus\Lambda^2(V) denote the free 2-step nilpotent Lie algebra associated to V. In this paper, we classify all uniserial representations of the solvable Lie algebra \mathfrak g=\langle x\rangle\ltimes L(V), where x acts on V via an arbitrary invertible Jordan block.

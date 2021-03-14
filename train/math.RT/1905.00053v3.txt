@@ -1,0 +1,1 @@
+Suppose that \mathbf{G} is a connected reductive group over a finite extension F/\mathbb{Q}_p, and that C is a field of characteristic p. We prove that the group \mathbf{G}(F) admits an irreducible admissible supercuspidal, or equivalently supersingular, representation over C.

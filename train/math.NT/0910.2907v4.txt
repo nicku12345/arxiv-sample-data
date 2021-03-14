@@ -1,0 +1,1 @@
+We show that the p-adic valuation of the sequence of Fibonacci numbers is a p-regular sequence for every prime p. For p \neq 2, 5, we determine that the rank of this sequence is \alpha(p) + 1, where \alpha(m) is the restricted period length of the Fibonacci sequence modulo m.

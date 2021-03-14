@@ -1,0 +1,1 @@
+We develop singular Weyl-Titchmarsh-Kodaira theory for one-dimensional Dirac operators. In particular, we establish existence of a spectral transformation as well as local Borg-Marchenko and Hochstadt-Liebermann type uniqueness results. Finally, we give some applications to the case of radial Dirac operators.

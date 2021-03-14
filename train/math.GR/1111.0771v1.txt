@@ -1,0 +1,1 @@
+We prove that a finitely generated group G is virtually free if and only if there exists a generating set for G and k > 0 such that all k-locally geodesic words with respect to that generating set are geodesic.

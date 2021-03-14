@@ -1,0 +1,1 @@
+In this note, we prove without using Fourier analysis that the symmetric square integrable random walks in \Z^{2} are recurrent.

@@ -1,0 +1,1 @@
+For a positive semidefinite matrix H= \begin{bmatrix} A&X\\ X^{*}&B \end{bmatrix} , we consider the norm inequality  ||H||\leq ||A+B|| . We show that this inequality holds under certain conditions. Some related topics are also investigated.

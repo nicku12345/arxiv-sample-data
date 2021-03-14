@@ -1,0 +1,1 @@
+In this paper, we use an adjusted autoencoder to estimate the true eigenvalues of the population correlation matrix from the sample correlation matrix when the number of samples is small. We show that the model outperforms the Rotational Invariant Estimator (Bouchaud) which is the optimal estimator in the sample eigenvectors basis when the dimension goes to infinity.

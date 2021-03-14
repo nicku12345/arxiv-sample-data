@@ -1,0 +1,1 @@
+As an attempt to understand motives over k[x]/(x^m), we define the cubical additive higher Chow groups with modulus for all dimensions extending the works of S. Bloch, H. Esnault and K. R\"ulling on 0-dimensional cycles. We give an explicit construction of regulator maps on the groups of 1-cycles with an aid of the residue theory of A. Parshin and V. Lomadze.

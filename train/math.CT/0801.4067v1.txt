@@ -1,0 +1,1 @@
+We develop the theory of weak bimonoids in braided monoidal categories and show them to be quantum categories in a certain sense. Weak Hopf monoids are shown to be quantum groupoids. Each separable Frobenius monoid R leads to a weak Hopf monoid R \otimes R.

@@ -1,0 +1,1 @@
+We study the Frobenius complexity of Hibi rings over fields of characteristic p > 0. In particular, for a certain class of Hibi rings (which we call \omega^{(-1)}-level), we compute the limit of the Frobenius complexity as p \rightarrow \infty.

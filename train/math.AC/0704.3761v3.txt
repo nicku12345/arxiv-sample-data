@@ -1,0 +1,1 @@
+For homomorphism K-->S of commutative rings, where K is Gorenstein and S is essentially of finite type and flat as a K-module, the property that all non-trivial fiber rings of K-->S are Gorenstein is characterized in terms of properties of the cohomology modules Ext_n^{S\otimes_KS}S{S\otimes_KS}.

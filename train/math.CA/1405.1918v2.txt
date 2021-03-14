@@ -1,0 +1,1 @@
+We use connection relations and series rearrangement to generalize generating functions for several higher continuous orthogonal polynomials in the Askey scheme, namely the Wilson, continuous dual Hahn, continuous Hahn, and Meixner-Pollaczek polynomials. We also determine corresponding definite integrals using the orthogonality relations for these polynomials.

@@ -1,0 +1,1 @@
+Virtual singular braids are generalizations of singular braids and virtual braids. We define the virtual singular braid monoid via generators and relations, and prove Alexander- and Markov-type theorems for virtual singular links. We also show that the virtual singular braid monoid has another presentation with fewer generators.

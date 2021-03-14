@@ -1,0 +1,1 @@
+Certain countably and finitely additive measures can be associated to a given nonnegative supermartingale. Under weak assumptions on the underlying probability space, existence and (non)uniqueness results for such measures are proven.

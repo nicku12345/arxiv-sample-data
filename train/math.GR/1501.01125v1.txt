@@ -1,0 +1,1 @@
+Every Ree group R(q), with q\neq 3 an odd power of 3, is the automorphism group of an abstract regular polytope, and any such polytope is necessarily a regular polyhedron (a map on a surface). However, an almost simple group G with R(q) < G \leq \mathsf{Aut}(R(q)) is not a C-group and therefore not the automorphism group of an abstract regular polytope of any rank.

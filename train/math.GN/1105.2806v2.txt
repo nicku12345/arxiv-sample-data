@@ -1,0 +1,1 @@
+We prove that a topological Clifford semigroup S is metrizable if and only if S is an M-space and the set E=\{e\in S:ee=e\} of idempotents of S is a metrizable G_\delta-set in S. The same metrization criterion holds also for any countably compact Clifford topological semigroup S.

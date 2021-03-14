@@ -1,0 +1,1 @@
+We say a lattice tetrahedron whose centroid is its only non-vertex lattice point is lattice barycentric. The notation T(a,b,c) describes the lattice tetrahedron with vertices {0, e_1, e_2, a e_1 + b e_2 + c e_3}. Our result is that all such T(a,b,c) are unimodularly equivalent to T(3,3,4) or T(7,11,20).

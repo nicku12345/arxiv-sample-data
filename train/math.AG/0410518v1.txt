@@ -1,0 +1,1 @@
+Classification of curves in a projective space occupies minds of many mathematicians. First step in doing so is classification of curves on a given surface. This brings us to consideration of the nonsingular Del Pezzo Surface in P^4_k. We describe conditions for a divisor to be very ample and condition for a divisor class to contain an irreducible curve.

@@ -1,0 +1,1 @@
+We outline necessary and sufficient condition to the existence of extrmas of a function on a self-similar set, and we describe discrete gradient algorithm to find the extrema.

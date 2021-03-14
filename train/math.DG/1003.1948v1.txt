@@ -1,0 +1,1 @@
+A linear connection D in a Lie algebroid is said to be metrizable if there exists a Riemannian metric h in the Lie algebroid such that Dh=0. Conditions for the linear connection D to be metrizable are investigated.

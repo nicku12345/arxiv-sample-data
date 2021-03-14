@@ -1,0 +1,1 @@
+Sharp L^p extensions of Pitt's inequality expressed as a weighted Sobolev inequality are obtained using convolution estimates and Stein-Weiss potentials. More generally, optimal constants are obtained for the full Stein-Weiss potential as a map from L^p to itself, and new proofs are given for the classical Pitt and Stein-Weiss estimates.

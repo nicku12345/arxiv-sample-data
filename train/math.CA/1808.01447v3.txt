@@ -1,0 +1,1 @@
+In this paper, the L^2 boundedness of the Hilbert transform along variable flat curve (t,P(x_1)\gamma(t)) H_{P,\gamma}f(x_1,x_2):=\mathrm{p.\,v.}\int_{-\infty}^{\infty}f(x_1-t,x_2-P(x_1)\gamma(t))\,\frac{\textrm{d}t}{t},\quad \forall\, (x_1,x_2)\in\mathbb{R}^2, is studied, where P is a real polynomial on \mathbb{R}. A new sufficient condition on the curve \gamma is introduced.

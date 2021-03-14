@@ -1,0 +1,1 @@
+We show that every inclusion of von Neumann algebras with a faithful normal conditional expectation has the weak relative Dixmier property. This answers a question of Popa \cite{Po99}. The proof uses an improvement of Ellis' lemma for compact convex semigroup.

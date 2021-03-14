@@ -1,0 +1,1 @@
+We show that the crossing number of any link that is known to be quasi-alternating is less than or equal to its determinant. Based on this, we conjecture that the crossing number of any quasi-alternating link is less than or equal to its determinant. Thus, if this conjecture is proved then it would give an easier obstruction for quasi-alternateness than the ones already known.

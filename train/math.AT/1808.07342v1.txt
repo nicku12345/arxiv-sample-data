@@ -1,0 +1,1 @@
+For a compact Lie group G we show that if the representing spectrum for Borel cohomology generates its category of modules if G is connected. For a closed subgroup H of G we consider the map C^*(BG)--->C^*(BH) and establish the sense in which it is relatively Gorenstein. Throughout, we pay careful attention to the importance of connectedness of the groups.

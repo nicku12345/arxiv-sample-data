@@ -1,0 +1,1 @@
+A Type II lattice of norm 8 in dimension 72 is obtained by Construction A applied to an extended Quadratic Residue code over Z8. Its automorphism group contains a subgroup isomorphic to PSL(2,71).

@@ -1,0 +1,1 @@
+Here we study some algebraic properties of non-cyclic graphs. In this paper we show that \overline{\Gamma}_G is isomorphic to K_3\cup (n-4)K_1 or K_4\cup (n-5)K_1 if and only if G is isomorphic to D_8 or D_{10}, respectively. We characterize all groups of order n like G in which \gamma(\Gamma_G)+\gamma(\overline{\Gamma}_G)\in \{n, n-1, n-2, n-3\}, where |Cyc(G)|=1.

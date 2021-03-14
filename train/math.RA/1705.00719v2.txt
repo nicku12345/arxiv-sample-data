@@ -1,0 +1,1 @@
+We provide a description of the class of n-ary operations on an arbitrary chain that are quasitrivial, symmetric, nondecreasing, and associative. We also prove that associativity can be replaced with bisymmetry in the definition of this class. Finally we investigate the special situation where the chain is finite.

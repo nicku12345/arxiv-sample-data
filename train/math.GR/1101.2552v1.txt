@@ -1,0 +1,1 @@
+The aim of this brief note is to offer another proof of a theorem of Hrushovski that approximate subgroups of GL_n(C) are almost nilpotent. This approach generalizes to uniformly non amenable groups.

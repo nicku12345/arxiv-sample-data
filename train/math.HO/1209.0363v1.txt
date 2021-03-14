@@ -1,0 +1,1 @@
+We prove a version of L'hospital's rule for multivariable functions, which holds for non-isolated singular points. We also give an algorithm for resolving many indeterminate limits with isolated singular points.

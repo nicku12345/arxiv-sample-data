@@ -1,0 +1,1 @@
+We show that if pn >> log n, the binomial random graph G_{n,p} has an approximate Hamilton decomposition. More precisely, we show that in this range G_{n,p} contains a set of edge-disjoint Hamilton cycles covering almost all of its edges. This is best possible in the sense that the condition that pn >> log n is necessary.

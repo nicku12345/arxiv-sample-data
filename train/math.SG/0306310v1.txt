@@ -1,0 +1,1 @@
+We prove that for generic geometry, the curl-eigenfield solutions to the steady Euler equations on the three torus are all hydrodynamically unstable (linear, L^2 norm). The proof involves a marriage of contact topological methods with the instability criterion of Friedlander-Vishik. An application of contact homology is the crucial step.

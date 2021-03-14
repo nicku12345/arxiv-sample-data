@@ -1,0 +1,1 @@
+We prove that if n\ge1, then an (n+1)-component Brunnian link L in a connected, oriented 3-manifold is C_n-equivalent to an unlink. We also prove that if n\ge2, then L can not be distinguished from an unlink by any Goussarov-Vassiliev finite type invariant of degree<2n.

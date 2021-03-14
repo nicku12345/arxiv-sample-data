@@ -1,0 +1,1 @@
+We give an alternative presentation of Khovanov homology of links with strict functoriality result over integers. The construction uses an oriented sl(2) state model allowing a natural definition of the boundary operator as twisted action of morphisms belonging to a TQFT for trivalent graphs and surfaces.

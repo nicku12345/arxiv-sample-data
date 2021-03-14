@@ -1,0 +1,1 @@
+Assume that M is a compact connected unitary 2n-dimensional manifold and admits a non-trivial circle action preserving the given complex structure. If the first Chern class of M equals to k_0x for a certain 2nd integral cohomology class x with |k_0|\geq n + 2, and its first integral cohomology group is zero, this short paper shows that the Todd genus and A_k-genus of M vanish.

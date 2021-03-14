@@ -1,0 +1,1 @@
+We prove that the Hatcher-Quinn and Wall invariants of a self-transverse immersion f\co N^n\imm M^{2n} coincide. That is, we construct an isomorphism between their target groups which carries one onto the other. We also employ methods of normal bordism theory to investigate the Hatcher-Quinn invariant of an immersion f\co N^n\imm M^{2n-1}.

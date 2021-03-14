@@ -1,0 +1,1 @@
+Let p be a prime number and F a local field with residual characteristic p. In this article, to an irreducible smooth representation of GL_2(F) over \bar{\mathbf{F}}_p with central character, we associate canonically a diagram which determines the original representation up to isomorphism. We also determine it in some cases.

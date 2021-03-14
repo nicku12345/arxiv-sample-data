@@ -1,0 +1,1 @@
+The group U_n(F) of all nxn unipotent upper-triangular matrices over F has derived length d := Ceiling(log_2 (n)), equivalently 2^{d-1} < n <= 2^d. We prove that U_n(F) has a 3-generated subgroup of derived length d, and it has a 2-generated subgroup of derived length d if and only if (21/32)* 2^d < n <= 2^d.

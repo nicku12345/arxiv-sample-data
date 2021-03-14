@@ -1,0 +1,1 @@
+For a magnetic Hamiltonian on a half-plane given as the sum of the Landau operator with Dirichlet boundary conditions and a random potential, a quantization theorem for the edge currents is proven. This shows that the concept of edge channels also makes sense in presence of disorder. Moreover, Gaussian bounds on the heat kernel and its covariant derivatives are obtained.

@@ -1,0 +1,1 @@
+A framework is presented whereby a general convex conic optimization problem is transformed into an equivalent convex optimization problem whose only constraints are linear equations and whose objective function is Lipschitz continuous. Virtually any subgradient method can be applied to solve the equivalent problem. Two methods are analyzed.

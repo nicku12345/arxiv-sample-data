@@ -1,0 +1,1 @@
+We give an introduction to the theory of determinantal ideals and rings, their Groebner bases, initial ideals and algebras, respectively. The approach is based on the straightening law and the Knuth-Robinson-Schensted correspondence. The article contains a section treating the basic results about the passage to initial ideals and algebras.

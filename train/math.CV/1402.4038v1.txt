@@ -1,0 +1,1 @@
+This paper presents a primitive nth root of unity in \mathbb C. The approach is very elementary and avoids the following: the complex exponential function, trigonometry, and group theory. It also avoids differentiation, integration, and series. The presentation of the primitive is indirect.

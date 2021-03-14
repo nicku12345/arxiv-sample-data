@@ -1,0 +1,1 @@
+Classical orthogonal polynomials in one variable can be characterized as the only orthogonal polynomials satisfying a Rodrigues formula. In this paper, using the second kind Kronecker power of a matrix, a Rodrigues formula is introduced for classical orthogonal polynomials in two variables.

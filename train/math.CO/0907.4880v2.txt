@@ -1,0 +1,1 @@
+A {\em pointed partition} of n is a pair (\lambda, v) where \lambda\vdash n and v is a cell in its Ferrers diagram. We construct an involution on pointed partitions of n exchanging "hook length" and "part length". This gives a bijective proof of a recent result of Bessenrodt and Han.

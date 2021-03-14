@@ -1,0 +1,1 @@
+The aim of this paper is to explain, mostly through examples, what groupoids are and how they describe symmetry. We will begin with elementary examples, with discrete symmetry, and end with examples in the differentiable setting which involve Lie groupoids and their corresponding infinitesimal objects, Lie algebroids.

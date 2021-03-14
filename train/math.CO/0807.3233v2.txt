@@ -1,0 +1,1 @@
+In 1977, Wegner conjectured that the chromatic number of the square of every planar graph G with maximum degree \Delta\ge8 is at most \bigl\lfloor\frac32\Delta\bigr\rfloor+1. We show that it is at most \frac32 \Delta (1+o(1)) (where the o(1) is as \Delta\to+\infty), and indeed that this is true for the list chromatic number and for more general classes of graphs.

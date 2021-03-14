@@ -1,0 +1,1 @@
+A number has the "collective" property if the number is the greatest lower bound of a bounded, strictly decreasing sequence on the real line. We prove that numbers with the collective property constitute an empty set.

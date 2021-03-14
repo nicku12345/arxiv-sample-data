@@ -1,0 +1,1 @@
+We give an alternative proof of a conjecture of Bollob\'as, Brightwell and Leader, first proved by Peter Allen, stating that the number of boolean functions definable by 2-SAT formulae is (1+o(1))2^{\binom{n+1}{2}}. One step in the proof determines the asymptotics of the number of "odd-blue-triangle-free" graphs on n vertices.

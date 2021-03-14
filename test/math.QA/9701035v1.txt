@@ -1,0 +1,1 @@
+We construct explicitly the quantum symplectic affine algebra U_q(\widehat{sp}_{2n}) using bosonic fields. The Fock space decomposes into irreducible modules of level -1/2, quantizing the Feingold-Frenkel construction for q=1.

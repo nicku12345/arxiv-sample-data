@@ -1,0 +1,1 @@
+We define A_n=\sum_{i=1}^n (-1)^i\frac{1}{i} and we show that, for every prime p, there exists a number n such that A_n\equiv 0 (mod p).

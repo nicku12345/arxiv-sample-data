@@ -1,0 +1,1 @@
+We prove that if a Borel probability measure (\mu) on (\T) is invariant under the action of a "large" multiplicative semigroup (lower logarithmic density is positive) and the action of the whole semigroup is ergodic then (\mu) is either Lebesgue or has finite support.

@@ -1,0 +1,1 @@
+A realization of various algebraic structures in terms of the C_{\lambda}-extended oscillator algebras is introduced. In particular, the C_{\lambda}-extended oscillator algebras realization of Fairlie-Fletcher-Zachos (FFZ)algebra is given. This latter lead easily to the realization of the quantum U_t(sl(2)) algebra. The new deformed Virasoro algebra is also presented.

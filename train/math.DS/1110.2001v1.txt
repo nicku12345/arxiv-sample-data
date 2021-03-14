@@ -1,0 +1,1 @@
+I provide a proof of the existence of absolutely continuous invariant measures (and study their statistical properties) for multidimensional piecewise expanding systems with not necessarily bounded derivative or distortion. The proof uses basic properties of multidimensional BV functions.

@@ -1,0 +1,1 @@
+In this paper we obtain a very general Gauss-Green formula for weakly differentiable functions and sets of finite perimeter. This result is obtained by revisiting Anzellotti's pairing theory and by characterizing the measure pairing (\boldsymbol{A}, Du) when \boldsymbol{A} is a bounded divergence measure vector field and u is a bounded function of bounded variation.

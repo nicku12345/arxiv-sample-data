@@ -1,0 +1,1 @@
+Let A be a ring of dimension d. Assume that for every finite extension ring R of A, E_{d+1}(R) acts transitively on Um_{d+1}(R). Then we prove that E(A\oplus P) acts transitively on Um(A\oplus P), for any projective A-module P of rank d. As a consequence of this, we generalise some results of Gubeladze.

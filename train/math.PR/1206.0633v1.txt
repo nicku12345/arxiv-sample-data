@@ -1,0 +1,1 @@
+In a random graph model based on 3-interactions we give the joint asymptotic distribution of weights and degrees and prove scale-free property for the model. Moreover, we determine the asymptotics of the maximal weight and the maximal degree.

@@ -1,0 +1,1 @@
+Examples are given of degenerate elliptic operators on smooth, compact manifolds that are not globally regular in C^\infty. These operators degenerate only in a rather mild fashion. Certain weak regularity results are proved, and an interpretation of global irregularity in terms of the associated heat semigroup is given.

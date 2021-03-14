@@ -1,0 +1,1 @@
+Scattering problem by several bodies, small in comparison with the wavelength, is reduced to linear algebraic systems of equations, in contrast to the usual reduction to some integral equations.

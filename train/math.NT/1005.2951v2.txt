@@ -1,0 +1,1 @@
+In this note, we show that any continued fraction convergent of the number e = 2.71828... can be derived by approximating some integral I_{n, m} := \int_{0}^{1} x^n (1 - x)^m e^x d x (n, m \in \mathbb{N}) by 0. In addition, we present a new way for finding again the well-known regular continued fraction expansion of e.

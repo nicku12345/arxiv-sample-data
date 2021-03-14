@@ -1,0 +1,1 @@
+Lusztig's algorithm of computing generalized Green functions of reductive groups involves an ambiguity of certain scalars. In this paper, for reductive groups of classical type with arbitrary characteristic, we determine those scalars explicitly, and eliminate the ambiguity. Our results imply that all the generalized Green functions of classical type are computable.

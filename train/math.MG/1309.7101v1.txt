@@ -1,0 +1,1 @@
+We prove that if two convex bodies  K, L \subset \mathbb{R}^3 satisfy the property that the orthogonal projections of K and L onto every plane containing the origin are roations of each other, then either K and L coincide or L is the image of K under a reflection about the origin

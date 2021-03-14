@@ -1,0 +1,1 @@
+In this note it is shown that associating to a principally polarized abelian variety its de Rham cohomology defines a faithfully flat morphism of the moduli space of principally polarized abelian varieties in positive characteristics to the moduli space of symplectic F-Zips as defined in \cite{MW}.

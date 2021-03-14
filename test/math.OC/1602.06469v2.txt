@@ -1,0 +1,1 @@
+In this paper we consider second order optimality conditions for a bilinear optimal control problem governed by a strongly continuous semigroup operator, the control entering linearly in the cost function. We derive first and second order optimality conditions, taking advantage of the Goh transform. We then apply the results to the heat and wave equations.

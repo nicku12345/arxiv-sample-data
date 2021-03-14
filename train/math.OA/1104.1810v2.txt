@@ -1,0 +1,1 @@
+Let G be a compact group. Let (X,G) be a standard Borel G-measure space. We show that the group action on (X, G) is transitive if and only if it is ergodic. Using this result, we show that every irreducible covariant representation of a C*-dynamical system (A, G) is induced from a stability group. In addition, we show that (A, G) satisfies strong-EHI.

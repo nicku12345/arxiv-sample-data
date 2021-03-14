@@ -1,0 +1,1 @@
+The familiar Fourier-Mukai technique can be extended to an equivariant setting where a finite group G acts on a smooth projective variety X. In this paper we compare the group of invariant autoequivalences \Aut(D(X))^G with the group of autoequivalences of D^G(X). We apply this method in three cases: Hilbert schemes on K3 surfaces, Kummer surfaces and canonical quotients.

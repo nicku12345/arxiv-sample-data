@@ -1,0 +1,1 @@
+A numerical procedure and its MAPLE implementation capable of rigorously, albeit in a brute-force manner, proving specific strict one-variable inequalities in specific finite intervals is described. The procedure is useful, for instance, to affirm strict lower bounds of specific functions.

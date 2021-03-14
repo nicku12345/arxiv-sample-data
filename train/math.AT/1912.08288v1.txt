@@ -1,0 +1,1 @@
+The Leray spectral sequence of a map f computes the homology of the domain of f from the fibers of f. In this expository paper, we relate in full detail the Leray spectral sequence associated to a simplicial map f to the Leray cosheaves of f. We then give applications to level set persistent homology and Reeb spaces.

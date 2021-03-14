@@ -1,0 +1,1 @@
+Let N_q(g) the maximal number of points on a genus g curve over F_q. We prove that N_3(5)=13.

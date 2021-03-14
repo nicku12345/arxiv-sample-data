@@ -1,0 +1,1 @@
+Chebychev approximations are given for the Gamma and the Polygamma functions in only one contiguous intervall [1..inf] with a definable maximal relative error. The approximations need about three coefficients per decimal until a checked precision of 100 decimal digits.

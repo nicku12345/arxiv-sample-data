@@ -1,0 +1,1 @@
+A formula for the number of toroidal m x n binary arrays, allowing rotation of the rows and/or the columns but not reflection, is known. Here we find a formula for the number of toroidal m x n binary arrays, allowing rotation and/or reflection of the rows and/or the columns.

@@ -1,0 +1,1 @@
+Let C be a commutative ring with unity. In this article, we show that every Jordan derivation over an upper triangular matrix algebra T_n(C) is an inner derivation. Further, we extend the result for Jordan derivation on full matrix algebra M_n(C).

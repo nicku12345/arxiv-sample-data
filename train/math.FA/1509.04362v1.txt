@@ -1,0 +1,1 @@
+Some inequalities for quantum f-divergence of trace class operators in Hilbert spaces are obtained. It is shown that for normalised convex functions it is nonnegative. Some upper bounds for quantum f-divergence in terms of variational and chi-distance are provided. Applications for some classes of divergence measures such as Umegaki and Tsallis relative entropies are also given.

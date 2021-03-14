@@ -1,0 +1,1 @@
+We prove the optimality of the hypotheses guaranteeing the L^p-boundedness for the Cauchy-Leray integral in \mathbb C^n, n\geq 2, obtained in [LS-4].   Two domains, both elementary in nature, show that the geometric requirement of strong \mathbb C-linear convexity, together with regularity of order 2, are both necessary.

@@ -1,0 +1,1 @@
+We define a numerical quasi-isometry invariant of a finitely generated group, whose values parametrize the difference between the group being uniformly embeddable in a Hilbert space and the reduced C*-algebra of the group being exact.

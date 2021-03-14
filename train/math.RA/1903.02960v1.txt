@@ -1,0 +1,1 @@
+We construct the universal enveloping preassociative and postassociative algebra for a pre-Lie and a postLie algebra respectively. We show that the pairs (\mathrm{preLie},\mathrm{preAs}) and (\mathrm{postLie},\mathrm{postAs}) are Poincare-Birkhoff-Witt-pairs, for the first one it's a reproof of the result of V. Dotsenko and P. Tamaroff.

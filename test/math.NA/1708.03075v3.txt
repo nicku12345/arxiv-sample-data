@@ -1,0 +1,1 @@
+This paper concerns the model updating problems with no spillover of the quadratic palindromic system P(\lambda)=\lambda^2 A^{\star}+\lambda Q+A

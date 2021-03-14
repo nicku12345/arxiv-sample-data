@@ -1,0 +1,1 @@
+Finding necessary and sufficient conditions for isomorphism between two semigroups of order-preserving transformations over an infinite domain with restricted range was an open problem in \cite{FHQS}. In this paper, we show a proof strategy to answer that question.

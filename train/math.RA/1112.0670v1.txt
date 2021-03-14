@@ -1,0 +1,1 @@
+In this paper we introduce the notion of a partial action of a groupoid on a ring as well as we give a criteria for the existence of a globalization of it. We construct a Morita context associated to a globalizable partial groupoid action and we introduce the notion of a partial Galois extension, which is related to the strictness of this context.

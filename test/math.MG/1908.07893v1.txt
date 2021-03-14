@@ -1,0 +1,1 @@
+We introduce a novel intrinsic volume concept in tropical geometry. This is achieved by developing the foundations of a tropical analog of lattice point counting in polytopes. We exhibit the basic properties and compare it to existing measures. Our exposition is complemented by a brief study of arising complexity questions.

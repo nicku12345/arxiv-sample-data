@@ -1,0 +1,1 @@
+We prove that all maximal subgroups of the free idempotent generated semigroup over a band B are free for all B belonging to a band variety V if and only if V consists either of left seminormal bands, or of right seminormal bands.

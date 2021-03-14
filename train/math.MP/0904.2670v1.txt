@@ -1,0 +1,1 @@
+In this paper we use the equivalence result originally proved by the author which relates a multi-resolution analysis (MRA) of L^2(R) and an orthonormal set of single electron wave-functions in the lowest Landau level, to build up a procedure which produces, starting with a certain square-integrable function, a MRA of L^2(R)

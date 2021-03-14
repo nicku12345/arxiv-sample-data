@@ -1,0 +1,1 @@
+The basic theorems of vector calculus are illuminated when we replace the original 3 stooges of vector calculus: Grad, Div, and Curl, with combinatorial substitutes. In addition to providing simple proofs of Green's theorem and the equivalence of the integral and derivative definitions of curl, we also provide a brief introduction to cohomology theory.

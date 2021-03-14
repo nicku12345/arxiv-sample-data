@@ -1,0 +1,1 @@
+We give a variational proof of the existence and uniqueness of a convex cap with the given upper boundary. The proof uses the concavity of the total scalar curvature functional on the space of generalized convex caps. As a byproduct, we prove that generalized convex caps with the fixed boundary are globally rigid, that is uniquely determined by their curvatures.

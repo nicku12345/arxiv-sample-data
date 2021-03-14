@@ -1,0 +1,1 @@
+Let J be the Jacobian of a smooth projective curve. We define a natural action of the Lie algebra of polynomial Hamiltonian vector fields on the plane, vanishing at the origin, on the Chow group of J with rational coefficients. Using this action we obtain some relations between tautological cycles on J.

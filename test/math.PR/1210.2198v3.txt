@@ -1,0 +1,1 @@
+By using the conjugate distribution technique of Cram\'er, we obtain some expansions of large deviation probabilities for martingales with differences satisfying the conditional Bernstein's condition. The expansions are of the same order as in the classical Cram\'er's large deviation result and are therefore optimal.

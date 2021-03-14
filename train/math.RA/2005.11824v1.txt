@@ -1,0 +1,1 @@
+We prove that for positive integers m \geq 1, n \geq 1 and a prime number p \neq 2,3 there are finitely many finite m-generated Moufang loops of exponent p^n.

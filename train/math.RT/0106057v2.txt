@@ -1,0 +1,1 @@
+We provide an explicit bijection between the ad-nilpotent ideals of a Borel subalgebra of a simple Lie algebra g and the orbits of \check{Q}/(h+1)\check{Q} under the Weyl group (\check{Q} being the coroot lattice and h the Coxeter number of g). From this result we deduce in a uniform way a counting formula for the ad-nilpotent ideals.

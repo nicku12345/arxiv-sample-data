@@ -1,0 +1,1 @@
+Let G be a rank 1 simple Lie group and M be a connected orientable aspherical tame manifold. Assume that each end of M has amenable fundamental group. There are several definitions of volume of representations of the fundamental group of M into G. We give a new definition of volume of representations and furthermore, show that all definitions so far are equivalent.

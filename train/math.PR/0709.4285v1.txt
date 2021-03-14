@@ -1,0 +1,1 @@
+Following Cs\"{o}rg\H{o}, Szyszkowicz and Wang (Ann. Statist. {\bf 34}, (2006), 1013--1044) we consider a long range dependent linear sequence. We prove weak convergence of the uniform Vervaat and the uniform Vervaat error processes, extending their results to distributions with unbounded support and removing normality assumption.

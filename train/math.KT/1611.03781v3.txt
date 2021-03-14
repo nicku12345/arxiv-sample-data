@@ -1,0 +1,1 @@
+In this note we set a configuration space description of the equivariant connective K-homology groups with coefficients in a unital C*-algebra for proper actions. Over this model we define a connective assembly map and prove that in this setting is possible to recover the analytic assembly map.

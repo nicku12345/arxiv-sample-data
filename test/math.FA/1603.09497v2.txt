@@ -1,0 +1,1 @@
+Objective of this paper is to introduce the generalized geometric difference sequence spaces   l_\infty^{G}(\Delta^m_G), c^G(\Delta^m_G), c_0^{G}(\Delta^m_G) and to prove that these are Banach spaces. Then we prove some inclusion properties. Also we compute their dual spaces.

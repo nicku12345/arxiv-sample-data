@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring and let \G be the category of modules of G-dimension zero over R. We denote the associated stable category by \pG. We show that the functor category \modpG is a Frobenius category and we argue how this property could characterize \G as a subcategory of \modR.

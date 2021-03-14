@@ -1,0 +1,1 @@
+We calculate the precise number of r-regular elements in the finite exceptional groups. As a corollary we find that the proportion of r-regular elements is at least 3577/18432 and for all \epsilon>0, there are infinitely finite simple exceptional groups such that the proportion of r-regular elements is less than 3577/18432+\epsilon for some prime r.

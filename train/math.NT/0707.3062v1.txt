@@ -1,0 +1,1 @@
+Let a and f be coprime positive integers. Let g be an integer. Under the Generalized Riemann Hypothesis (GRH) it follows by a result of H.W. Lenstra that the set of primes p such that p=a(mod f) and g is a primitive root modulo p has a natural density. In this note this density is explicitly evaluated with an Euler product as result.

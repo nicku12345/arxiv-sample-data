@@ -1,0 +1,1 @@
+Let R be the ring of polynomials in finitely many commuting variables with coefficients in Z_n. It is shown that every unit of R is an involution if and only of n is a divisor of 12.

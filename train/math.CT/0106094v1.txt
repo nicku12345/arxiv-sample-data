@@ -1,0 +1,1 @@
+We present some constructions of limits and colimits in pro-categories. These are critical tools in several applications. In particular, certain technical arguments concerning strict pro-maps are essential for a theorem about \'etale homotopy types. Also, we show that cofiltered limits in pro-categories commute with finite colimits.

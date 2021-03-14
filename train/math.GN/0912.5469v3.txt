@@ -1,0 +1,1 @@
+We define a class of subsets of a topological space that coincides with the class of compact saturated subsets when the space is sober, and with enough good properties when the space is not sober. This class is introduced especially in view of applications to capacity theory.

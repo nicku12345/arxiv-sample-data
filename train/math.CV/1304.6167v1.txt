@@ -1,0 +1,1 @@
+Dorff, proved in [2] that the convolution of two harmonic right-half plane mappings is convex in the direction of real axis provided that the convolution is locally univalent and sense preserving. Later, it was shown in [3] that the condition of locally univalent and sense preserving can be dropped in some special cases. In this paper, we generalize the main result from [3].

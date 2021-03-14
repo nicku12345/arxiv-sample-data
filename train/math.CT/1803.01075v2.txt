@@ -1,0 +1,1 @@
+Taking advantage of the quantale-theoretic description of \'etale groupoids we study principal bundles, Hilsum-Skandalis maps, and Morita equivalence in terms of modules on inverse quantal frames. The Hilbert module description of quantale sheaves leads naturally to a formulation of Morita equivalence in terms of bimodules that resemble imprimitivity bimodules of C*-algebras.

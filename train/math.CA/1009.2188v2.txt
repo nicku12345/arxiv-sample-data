@@ -1,0 +1,1 @@
+We study the basis property of systems of exponentials with frequencies belonging to 'simple quasicrystals'. We show that a diophantine condition is necessary and sufficient for such a system to be a Riesz basis in L^2 on a finite union of intervals. For the proof we extend to BMO a theorem of Kesten about the discrepancy of irrational rotations of the circle.

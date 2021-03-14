@@ -1,0 +1,1 @@
+In this note it is shown that the class of all multipliers from the d-parameter Hardy space H^1_{\mathrm{prod}} (\mathbb{T}^d) to L^2 (\mathbb{T}^d) is properly contained in the class of all multipliers from L \log^{d/2} L (\mathbb{T}^d) to L^2(\mathbb{T}^d).

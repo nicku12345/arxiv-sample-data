@@ -1,0 +1,1 @@
+A K-quasiconformal selfmap of the unit disk with identity boundary values satisfies the H\"older estimate |f(z)-f(w)| \leq 4^{1-1/K} |z-w|^{1/K}. The constant 4^{1-\frac{1}{K}} is sharp.

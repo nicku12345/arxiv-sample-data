@@ -1,0 +1,1 @@
+A superprocess with dependent spatial motion and interactive immigration is constructed as the pathwise unique solution of a stochastic integral equation carried by a stochastic flow and driven by Poisson processes of one-dimensional excursions.

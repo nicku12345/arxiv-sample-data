@@ -1,0 +1,1 @@
+We will show the uniqueness of outer coactions of finite groups on the AFD factor of type II_1 along the arguments by Connes, Jones and Ocneanu. Namely, we construct the infinite tensor product type action, adopt it as the model action, and prove that any outer coaction is conjugate to the model action.

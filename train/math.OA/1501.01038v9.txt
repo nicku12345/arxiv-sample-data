@@ -1,0 +1,1 @@
+We calculate the Cuntz semigroup of the tensor product A with A. We restrict our attention to C*-algebras A which are unital, simple, nuclear, stably finite, have stable rank one, absorbs the Jiang-Su algebra tensorially and satisfy the UCT.

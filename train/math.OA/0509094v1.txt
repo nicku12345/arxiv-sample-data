@@ -1,0 +1,1 @@
+A \emph{multicontraction} on a Hilbert space \HH is an n-tuple of operators T=(T_1,...,T_n) acting on \HH, such that \sum_{i=1}^n T_i T_i^*\le \1_\HH. We obtain some results related to the characteristic function of a commuting multicontraction, most notably discussing its behaviour with respect to the action of the analytic automorphisms of the unit ball.

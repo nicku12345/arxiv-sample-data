@@ -1,0 +1,1 @@
+In this paper, we establish real Paley-Wiener theorems for the Dunkl transform on Rd. More precisely, we characterize the functions in the Schwartz space S(IRd) and in L2k(Rd) whose Dunkl transform has bounded, unbounded, convex and nonconvex support.

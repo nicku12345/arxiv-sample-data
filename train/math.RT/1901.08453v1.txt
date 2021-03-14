@@ -1,0 +1,1 @@
+This book describes some computational methods to deal with modular characters of finite groups. It is the theoretical background of the MOC system of the same authors. This system was, and is still used, to compute the modular character tables of sporadic simple groups.

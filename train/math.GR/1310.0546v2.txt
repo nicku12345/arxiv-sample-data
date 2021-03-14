@@ -1,0 +1,1 @@
+We develop a theory of curve diagrams for Artin groups of type B. We define the winding number labeling and the wall crossing labeling of curve diagrams, and show that these labelings detect the classical and the dual Garside length, respectively. A remarkable point is that our argument does not require Garside theory machinery like normal forms, and is more geometric in nature.

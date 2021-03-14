@@ -1,0 +1,1 @@
+Hypothesis about the parallelism of the regression lines in R multivariate simple linear models are studied in this paper. Tests on common intercept and sets of lines intersected at a fixed value, are also developed. An application in an agricultural entomology context is provided.

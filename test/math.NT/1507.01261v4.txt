@@ -1,0 +1,1 @@
+An explicit estimate for the Riemann zeta function on the critical line is derived using the van der Corput method. An explicit van der Corput lemma is presented.

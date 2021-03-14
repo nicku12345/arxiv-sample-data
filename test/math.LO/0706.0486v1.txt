@@ -1,0 +1,1 @@
+We study a model theoretic context (finite thorn rank, NIP, with finitely satisfiable generics) which is a common generalization of groups of finite Morley rank and definably compact groups in o-minimal structures. We show that assuming thorn rank 1, the group is abelian-by-finite, and assuming thorn rank 2 the group is solvable by finite. Also a field is algebraically closed.

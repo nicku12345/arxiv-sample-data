@@ -1,0 +1,1 @@
+Let K be a number field and A/K be a polarized abelian variety with absolutely trivial endomorphism ring. We show that if the Neron model of A/K has at least one fiber with potential toric dimension one, then for almost all rational primes ell, the Galois group of the splitting field of the ell-torsion of A is GSp_{2g}(Z/ell).

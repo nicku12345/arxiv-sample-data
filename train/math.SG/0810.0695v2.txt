@@ -1,0 +1,1 @@
+We describe some of the algebra underlying the decomposition of planar grid diagrams. This provides a useful toy model for an extension of Heegaard Floer homology to 3-manifolds with parametrized boundary. This paper is meant to serve as a gentle introduction to the subject, and does not itself have immediate topological applications.

@@ -1,0 +1,1 @@
+In this paper, we prove that convergence of a new iteration and S-iteration can be used to approximate to the fixed points of contractive-like operators. We also prove some data dependence results of this new iteration and S-iteration schemes for contractive-like operators. Our results extend and improve some known results in the literature.

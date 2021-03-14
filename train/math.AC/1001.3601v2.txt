@@ -1,0 +1,1 @@
+Recently, G. Floystad studied "higher Cohen-Macaulay property" of certain finite regular cell complexes. In this paper, we partially extend his results to squarefree modules, toric face rings, and simplicial posets. For example, we show that if (the corresponding cell complex of) a simplicial poset is l-Cohen-Macaulay then its codimension one skeleton is (l+1)-Cohen-Macaulay.

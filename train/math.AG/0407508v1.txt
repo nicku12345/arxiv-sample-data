@@ -1,0 +1,1 @@
+We compute the Small Quantum Cohomology of Hilb^2(P^1xP^1) and determine recursively most of the Big Quantum Cohomology. We prove a relationship between the invariants so obtained and the enumerative geometry of hyperelliptic curves in P^1xP^1. This extends the results obtained by Graber for Hilb^2(P^2) and hyperelliptic curves in P^2.

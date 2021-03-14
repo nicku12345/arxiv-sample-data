@@ -1,0 +1,1 @@
+To each polynomial \v\in\F[x,y,z] is associated a Poisson structure on \F^3, a surface and a Poisson structure on this surface. When \v is weight homogeneous with an isolated singularity, we determine the Poisson cohomology and homology of the two Poisson varieties obtained.

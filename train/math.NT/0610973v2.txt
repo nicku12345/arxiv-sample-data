@@ -1,0 +1,1 @@
+We show that the linear dependence on p of the running time of Kedlaya's point-counting algorithm in characteristic p may be reduced to p^{1/2}.

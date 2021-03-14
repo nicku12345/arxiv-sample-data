@@ -1,0 +1,1 @@
+We consider the compressible (barotropic) Navier-Stokes system on time-dependent domains, supplemented with slip boundary conditions. Our approach is based on penalization of the boundary behaviour, viscosity, and the pressure in the weak formulation. Global-in-time weak solutions are obtained.

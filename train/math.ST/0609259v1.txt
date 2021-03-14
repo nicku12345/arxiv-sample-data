@@ -1,0 +1,1 @@
+Asymptotic properties of a dimension-robust dependence measure are investigated. It is related to those used in independence tests, but is derivable, thus suitable for independent component analysis. An adjustable kernel allows to accelerate the convergence of the estimator without affecting the bias.

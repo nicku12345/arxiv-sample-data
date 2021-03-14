@@ -1,0 +1,1 @@
+In this note we describe a relation between Euler's elasticae and sub-Riemannian geodesics on SE(2). Analyzing the Hamiltonian system of Pontryagin maximum principle we show that these two curves coincide only in the case when they are segments of a straight line.

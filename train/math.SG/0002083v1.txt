@@ -1,0 +1,1 @@
+We investigate deformations of lagrangian manifolds with singularities. We introduce a complex similar to the de Rham-complex whose cohomology calculates deformation spaces. Examples of singular lagrangian varieties are presented and deformations are calculated explicitly.

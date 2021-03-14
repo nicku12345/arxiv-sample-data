@@ -1,0 +1,1 @@
+Let A be a graded C*-algebra. We characterize Kasparov's K-theory group \hat{K}_0(A) in terms of graded *-homomorphisms by proving a general converse to the functional calculus theorem for self-adjoint regular operators on graded Hilbert modules. An application to the index theory of elliptic differential operators on smooth closed manifolds and asymptotic morphisms is discussed.

@@ -1,0 +1,1 @@
+In this paper, by using the Laplace transform and the theory of toric arrangement, we show that discrete truncated power is a periodic piecewise polynomial on the shifted integral lattice cone. Based on the toric reduction method in the real field, we give a toric arrangement method to compute discrete truncated power.

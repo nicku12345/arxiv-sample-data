@@ -1,0 +1,1 @@
+In this paper I explore the set of quaternion algebras over field. Quaternion algebra E(C,-1,-1) is isomorphic to tensor product of complex field C and quaternion algebra H=E(R,-1,-1). Considered two sets of quaternion functions, which satisfy to equation similar to Cauchy-Riemann equation for a complex function.

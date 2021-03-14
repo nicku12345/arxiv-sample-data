@@ -1,0 +1,1 @@
+A locally connected topos is a Galois topos if the Galois objects generate the topos. We show that the full subcategory of Galois objects in any connected locally connected topos is an inversely 2-filtered 2-category, and as an application of the construction of 2-filtered bi-limits of topoi, we show that every Galois topos has a point.

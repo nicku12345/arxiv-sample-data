@@ -1,0 +1,1 @@
+In this paper, the closed-form expressions for the coefficients of \frac{x_r^2}{x_s^2} and \frac{x_r^2}{x_sx_t} in the Dyson product are found by applying an extension of Good's idea. As onsequences, we find several interesting Dyson style constant term identities.

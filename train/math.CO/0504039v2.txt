@@ -1,0 +1,1 @@
+We propose the further study of the rate of growth of the number of contiguous buildings which may be made from n LEGO blocks of the same size and color. Specializing to blocks of dimension 2x4 we give upper and lower bounds, and speculate on the true value.

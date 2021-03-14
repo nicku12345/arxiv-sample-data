@@ -1,0 +1,1 @@
+We use Ulam's method to provide rigorous approximation of diffusion coefficients for uniformly expanding maps. An algorithm is provided and its implementation is illustrated using Lanford's map.

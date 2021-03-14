@@ -1,0 +1,1 @@
+In this paper, we use techniques of Conrey, Farmer and Wallace to find spaces of modular forms S_k(\Gamma_0(N)) where all of the eigenspaces have Hecke eigenvalues defined over \F_p, and give a heuristic indicating that these are all such spaces.

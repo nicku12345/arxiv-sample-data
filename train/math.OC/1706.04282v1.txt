@@ -1,0 +1,1 @@
+We study two techniques to obtain new families of classical and general Dual-Feasible Functions: A conversion from minimal Gomory--Johnson functions; and computer-based search using polyhedral computation and an automatic maximality and extremality test.

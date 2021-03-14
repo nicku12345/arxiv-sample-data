@@ -1,0 +1,1 @@
+In the present paper, we build a bridge between Conway-Coxeter friezes and rational tangles through the Kauffman bracket polynomials. One can compute a Kauffman bracket polynomials attached to rational links by using Conway-Coxeter friezes. As an application one can give a complete invariant on Conway-Coxeter friezes of zigzag-type.

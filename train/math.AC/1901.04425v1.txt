@@ -1,0 +1,1 @@
+We introduce an invariant, associated to a coherent sheaf over a projective morphism of schemes, which controls when sheaf cohomology can be passed through the given morphism. We then use this invariant to estimate the stability indexes of the regularity and a*-invariant of powers of homogeneous ideals.

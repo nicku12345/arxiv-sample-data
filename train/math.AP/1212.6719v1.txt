@@ -1,0 +1,1 @@
+We consider the energy critical focusing NLS in R^3 and prove, for any \nu sufficiently small, the existence of radial finite energy solutions that as t\to\infty behave as a sum of a dynamically rescaled ground state plus a radiation, the scaling law being of the form t^{\nu}.

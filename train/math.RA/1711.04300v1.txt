@@ -1,0 +1,1 @@
+An algebra with identities a(bc)=b(ac), (ab)c=(ac)b is called bicommutative. We construct list of identities satisfied by commutator and anti-commutator products in a free bicommutative algebra. We give criterions for elements of a free bicommutative algebra to be Lie or Jordan.

@@ -1,0 +1,1 @@
+We consider which spaces can be realized as the omega limit set of the discrete time dynamical system. This is equivalent to asking which spaces admit a chain transitive homeomorphism and which do not. This leads us to ask for spaces where all homeomorphisms are chain transitive.

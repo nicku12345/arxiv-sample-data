@@ -1,0 +1,1 @@
+We calculate the homology of the mapping class group in the stable range. The calculation is based on Madsen and Weiss' proof of the "Generalised Mumford Conjecture".

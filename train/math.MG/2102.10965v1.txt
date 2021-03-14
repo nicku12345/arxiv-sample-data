@@ -1,0 +1,1 @@
+We prove that almost every triangle can be dissected only into n^2 triangles which have to be equal one another. Moreover, such a dissection is unique for every n. It turns out that to solve this "simple" problem it is convenient to use some tools from linear algebra, calculus and measure theory.

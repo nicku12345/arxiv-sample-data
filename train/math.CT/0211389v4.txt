@@ -1,0 +1,1 @@
+We show that sums over graphs such as appear in the theory of Feynman diagrams can be seen as integrals over discrete groupoids. From this point of view, basic combinatorial formulas of the theory of Feynman diagrams can be interpreted as pull-back or push-forward formulas for integrals over suitable groupoids.

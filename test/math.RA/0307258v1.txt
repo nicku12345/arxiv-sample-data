@@ -1,0 +1,1 @@
+We give a systematic description of many monomial bases for a given quantized enveloping algebra and of many integral monomial bases for the associated Lusztig \mathbb Z[v,v^{-1}]-form. The relations between monomial bases, PBW bases and canonical bases are also discussed.

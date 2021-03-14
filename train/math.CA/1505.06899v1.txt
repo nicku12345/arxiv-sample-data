@@ -1,0 +1,1 @@
+We examine a class of exact solutions for the eigenvalues and eigenfunctions of a doubly anharmonic oscillator defined by the potential V(x)=\omega^2/2 x^2+\lambda x^4/4+\eta x^6/6, \eta>0. These solutions hold provided certain constraints on the coupling parameters \omega^2, \lambda and \eta are satisfied.

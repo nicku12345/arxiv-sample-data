@@ -1,0 +1,1 @@
+Let M be a finite Riemann surface and let A(bM) be the algebra of all continuous functions on bM which extend holomorphically through M. We prove that a continuous function F on bM belongs to A(bM) if for each f, g in A(bM) such that fF+g has no zero the change of argument of fF+g along bM is nonnegative.

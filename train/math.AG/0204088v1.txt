@@ -1,0 +1,1 @@
+Suppose given a Galois etale cover Y -> X of proper non-singular curves over an algebraically closed field k of prime characteristic p. Let H be its Galois group, and G any finite extension of H by a p-group P. We give necessary and sufficient conditions on G to be the Galois group of an etale cover of X dominating Y -> X.

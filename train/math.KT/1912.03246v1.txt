@@ -1,0 +1,1 @@
+We prove that the p-adically completed periodic topological cyclic homology of a DG category over a perfect field k of characteristic p>2 is isomorphic to the (p-adically completed) periodic cyclic homology of a lifting of the DG category over the Witt vectors W(k).

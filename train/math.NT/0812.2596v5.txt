@@ -1,0 +1,1 @@
+We present an algorithm to decide the primality of Proth numbers, N=2^e t+1, without assuming any unproven hypothesis. The expected running time and the worst case running time of the algorithm are O ((t log t + log N)log N) and O ((t log t + log N) log^2 N) bit operations, respectively.

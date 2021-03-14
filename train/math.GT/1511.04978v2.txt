@@ -1,0 +1,1 @@
+The simple loop conjecture for 3-manifolds states that every 2-sided immersion of a closed surface into a 3-manifold is either injective on fundamental groups or admits a compression. This can be viewed as a generalization of the Loop Theorem to immersed surfaces. We prove the conjecture in the case that the target 3-manifold admits a geometric structure modeled on Sol.

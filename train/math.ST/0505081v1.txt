@@ -1,0 +1,1 @@
+In this paper we derive the consistency of the penalized likelihood method for the number state of the hidden Markov chain in autoregressive models with Markov regimen. Using a SAEM type algorithm to estimate the models parameters. We test the null hypothesis of hidden Markov Model against an autoregressive process with Markov regime.

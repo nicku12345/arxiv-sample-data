@@ -1,0 +1,1 @@
+We consider the CSLs of 4-dimensional hypercubic lattices. In particular, we derive the coincidence index \Sigma and calculate the number of different CSLs as well as the number of inequivalent CSLs for a given \Sigma. The hypercubic face centered case is dealt with in detail and it is sketched how to derive the corresponding results for the primitive hypercubic lattice.

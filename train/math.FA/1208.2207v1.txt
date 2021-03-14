@@ -1,0 +1,1 @@
+Let C(K) be the Banach space of all continuous functions on a given compact space K. We investigate the w*-sequential closure in C(K)* of the set of all finitely supported probabilities on K. We discuss the coincidence of the Baire sigma-algebras on C(K) associated to the weak and pointwise convergence topologies.

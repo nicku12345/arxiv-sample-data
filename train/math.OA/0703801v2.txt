@@ -1,0 +1,1 @@
+Starting from an arbitrary endomorphism \delta of a unital C*-algebra A we construct a crossed product. It is shown that the natural construction depends not only on the C*-dynamical system (A,\delta) but also on the choice of an ideal J orthogonal to Ker \delta.

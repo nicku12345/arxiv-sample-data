@@ -1,0 +1,1 @@
+In this paper we extend Rado-Choquet-Kneser theorem for the mappings with Lipschitz boundary data and essentially positive Jacobian at the boundary, without restriction on the convexity of image domain. It is an extension of a recent result of Alessandrini and Nesi \cite{ale}. Some applications for the family of quasiconformal harmonic mappings between Jordan domains are given.

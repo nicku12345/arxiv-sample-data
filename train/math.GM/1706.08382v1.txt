@@ -1,0 +1,1 @@
+We compare the notions "Decisiveness" and "Success" for certain weighted voting systems and various underlying voting measures. In particular, we compute the success rate for the Shapley-Shubik meassure and, more generally, for Common Belief Models.

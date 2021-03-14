@@ -1,0 +1,1 @@
+In this paper, we propose a new approach for deriving probabilistic inequalities. Our main idea is to exploit the information of underlying distributions by virtue of the monotone likelihood ratio property and Berry-Essen inequality. Unprecedentedly sharp bounds for the tail probabilities of some common distributions are established.

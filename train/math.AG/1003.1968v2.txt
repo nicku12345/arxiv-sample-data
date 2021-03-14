@@ -1,0 +1,1 @@
+We study tensors in \C^{m\times n\times l} whose border rank is l. We characterize the tensors in \C^{3\times 3\times 4} and in \C^{4\times 4\times 4} of border rank 4 at most.

@@ -1,0 +1,1 @@
+We like to find a logic stronger than first order such that: on the one hand it satisfies the 0-1 law, e.g. for the random graph script G_{n, 1/2} and on the other hand there is a formula varphi(x) such that for no first order psi (x) do we have: for every random enough G_{n, 1/2} are the formulas varphi(x), \psi(x) equivalent in it.

@@ -1,0 +1,1 @@
+We prove game-theoretic generalizations of some well known zero-one laws. Our proofs make the martingales behind the laws explicit, and our results illustrate how martingale arguments can have implications going beyond measure-theoretic probability.

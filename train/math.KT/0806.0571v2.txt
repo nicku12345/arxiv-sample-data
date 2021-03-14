@@ -1,0 +1,1 @@
+We define push-forwards for Witt groups of schemes along proper morphisms, using Grothendieck duality theory. This article is an application of results of the authors on tensor-triangulated closed categories to such structures on some derived categories of schemes together with classical derived functors.

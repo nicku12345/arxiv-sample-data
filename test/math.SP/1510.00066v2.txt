@@ -1,0 +1,1 @@
+We prove L^p and smoothing estimates for the resolvent of magnetic Schr\"odinger operators. We allow electromagnetic potentials that are small perturbations of a smooth, but possibly unbounded background potential. As an application, we prove an estimate on the location of eigenvalues of magnetic Schr\"odinger and Pauli operators with complex electromagnetic potentials.

@@ -1,0 +1,1 @@
+We prove that the Local Fundamental Group Scheme satisfies the Lefschetz - Bott theorems in characteristic p. The proofs are standard applications of the Enriques-Severi -Zariski-Serre vanishing theorems and known facts about the p-curvature

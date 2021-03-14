@@ -1,0 +1,1 @@
+In this paper we give a new formulation of an abstract control problem in terms of a Grushin problem, so that we will reformulate all notions of controllability, observability and stability in a new form that gives readers an easy interpretation of these notions.

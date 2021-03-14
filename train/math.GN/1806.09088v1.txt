@@ -1,0 +1,1 @@
+The paper considers the spaces B_p[1, \alpha] of all Baire functions x\colon [1,\alpha]\to \mathbb{R}, defined on segments of ordinals [1,\alpha] and endowed with the topology of pointwise convergence. A complete topological classification of these spaces is given

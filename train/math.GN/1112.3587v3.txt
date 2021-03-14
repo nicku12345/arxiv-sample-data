@@ -1,0 +1,1 @@
+Let X and Y be compact, simply connected and locally connected subsets of R^2, and let f : X -> Y be a homeomorphism isotopic to the identity on X. Generalizing Brouwer's plane translation theorem for self-maps of the plane, we prove that f has no recurrent (in particular, no periodic) points if it has no fixed points.

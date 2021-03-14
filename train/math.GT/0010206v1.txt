@@ -1,0 +1,1 @@
+We show that for links with at most 5 components, the only finite type homotopy invariants are products of the linking numbers. In contrast, we show that for links with at least 9 components, there must exist finite type homotopy invariants which are not products of the linking numbers. This corrects previous errors of the first author.

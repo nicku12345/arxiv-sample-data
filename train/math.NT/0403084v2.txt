@@ -1,0 +1,1 @@
+Using equidistribution results of Katz and a computation in finite symplectic groups, we give an explicit asymptotic formula for the proportion of curves C over a finite field for which the l-torsion of Jac(C) is isomorphic to a given abelian l-group. In doing so, we prove a conjecture of Friedman and Washington

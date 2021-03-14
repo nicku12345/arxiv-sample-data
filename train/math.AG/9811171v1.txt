@@ -1,0 +1,1 @@
+This paper develops the theory of a sheaf of normal differential operators to a submanifold Y of a complex manifold X as a generalization of the normal bundle. We show that the global sections of this sheaf play an analogous role for formal deformations of Y to the role played by the normal bundle with respect to first-order deformations.

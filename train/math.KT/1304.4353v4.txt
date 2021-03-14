@@ -1,0 +1,1 @@
+I propose a definition of left/right connection along a strong homotopy Lie-Rinehart algebra. This allows me to generalize simultaneously representations up to homotopy of Lie algebroids and actions of strong homotopy Lie algebras on graded manifolds. I also discuss the Schouten-Nijenhuis calculus associated to strong homotopy Lie-Rinehart connections.

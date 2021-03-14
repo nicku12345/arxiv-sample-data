@@ -1,0 +1,1 @@
+We prove that for an induced CR structure on a compact, generic, regular 3-pseudoconcave CR submanifold {\bold M}\subset{\bold G}, of a complex manifold {\bold G}, satisfying condition \dim H^1({\bold M}, T^{\prime}({\bold G})|_{\bold M})=0 all the close CR structures are induced by close embeddings.

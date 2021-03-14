@@ -1,0 +1,1 @@
+We extend Fukushima's result on the finite convergence of an algorithm for the global convex feasibility problem to the local nonconvex case.

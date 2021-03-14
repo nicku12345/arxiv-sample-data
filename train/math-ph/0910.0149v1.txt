@@ -1,0 +1,1 @@
+We comment on the new trend in mathematical physics that consists of obtaining Taylor series for fabricated linear and nonlinear unphysical models by means of homotopy perturbation method (HPM), homotopy analysis method (HAM) and Adomian decomposition method (ADM). As an illustrative example we choose a recent application of the HPM to a dynamic system of anisotropic elasticity.

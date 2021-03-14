@@ -1,0 +1,1 @@
+For a commutative semigroup S with 0, the zero-divisor graph of S denoted by \Gamma(S) is the graph whose vertices are nonzero zero-divisor of S, and two vertices x, y are adjacent in case xy=0 in S. In this paper we study the case where the graph \Gamma(S) is complete r-partite for a positive integer r. Also we study the commutative semigroups which are finitely colorable.

@@ -1,0 +1,1 @@
+We prove that for every abelian group G and every compactum X with \dim_G X \leq n \geq 2 there is a G-acyclic resolution r: Z \lo X from a compactum Z with \dim_G Z \leq n and \dim Z \leq n+1 onto X.

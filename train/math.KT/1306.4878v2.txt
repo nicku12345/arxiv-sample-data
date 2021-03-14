@@ -1,0 +1,1 @@
+The periodic cyclic homology of any proper dg category comes equipped with a canonical pairing. We show that in the case of the dg category of matrix factorizations of an isolated singularity the canonical pairing can be identified with the so-called higher residue pairing on the twisted de Rham cohomology of the singularity.

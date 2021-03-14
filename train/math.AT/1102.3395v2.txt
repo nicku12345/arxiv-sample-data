@@ -1,0 +1,1 @@
+Using sheaf theory, I introduce a continuous theory of persistence for mappings between compact manifolds. In the case both manifolds are orientable, the theory holds for integer coefficients. The sheaf introduced here is stable to homotopic perturbations of the mapping. This stability result has a flavor similar to that of bottleneck stability in persistence.

@@ -1,0 +1,1 @@
+The notion of PROP models the operations with multiple inputs and multiple outputs, acting on some algebraic structures like the bialgebras or the Lie bialgebras.   We prove a Koszul duality theory for PROPs generalizing the one for associative algebras and for operads.

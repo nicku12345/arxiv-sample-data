@@ -1,0 +1,1 @@
+We use twisted stable maps to compute the number of rational degree d plane curves having prescribed contacts to a smooth plane cubic.

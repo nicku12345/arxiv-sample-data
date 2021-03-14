@@ -1,0 +1,1 @@
+Following ideas of Quillen it is shown that the graded K-theory of a Z^n-graded ring with support contained in a pointed cone is entirely determined by the K-theory of the subring of degree-0 elements.

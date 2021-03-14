@@ -1,0 +1,1 @@
+We consider a Hamiltonian torus action on a compact connected symplectic manifold M. For a certain class of Lagrangian submanifolds Q of M we show that the image of Q under the momentum map is convex. As an application we complete the symplectic proof of Kostant's non-linear convexity theorem.

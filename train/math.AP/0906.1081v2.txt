@@ -1,0 +1,1 @@
+We present an approach to minimization under constraint. We explore the connections of this technique with the general method of Compactness by Concentration of P.L. Lions and present applications to some constrained semi-linear and quasi-linear elliptic problems.

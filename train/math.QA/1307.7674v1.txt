@@ -1,0 +1,1 @@
+We show that there exists a suitable sequence \{w^{(k)}\}_{k \ge 0} of Weyl group elements for the perfect crystal B = B^{1,3l} such that the path realizations of the Demazure crystals B_{w^{(k)}}(l\Lambda_2) for the quantum affine algebra U_q(D_4^{(3)}) have tensor product like structure with mixing index \kappa =1.

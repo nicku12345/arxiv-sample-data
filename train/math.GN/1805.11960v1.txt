@@ -1,0 +1,1 @@
+For a Tychonoff space X, we denote by C_p(X) the space of all real-valued continuous functions on X with the topology of pointwise convergence. We give the functional characterization of the covering property of Hurewicz.

@@ -1,0 +1,1 @@
+We consider a family of compact, oriented and connected Riemannian manifolds shrinking to a metric graph and describe the asymptotic behaviour of the eigenvalues of the Hodge Laplacian. We apply our results to produce manifolds with spectral gaps of arbitrarily large size in the spectrum of the Hodge Laplacian.

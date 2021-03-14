@@ -1,0 +1,1 @@
+An elliptic equation div(F(Du)) = f whose ellipticity strongly degenerates for small values of Du (say, F = 0 on B(0,1)) is considered. The aim is to prove regularity for F(Du). The paper proves a continuity result in dimension two and presents some applications.

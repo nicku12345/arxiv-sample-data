@@ -1,0 +1,1 @@
+In this article, we propose a novel matrix technique to obtain numerical solutions of initial value problems involving linear fractional nabla difference equations and provide few examples to illustrate the applicability of proposed method. In particular, we solve nabla analogue of fractional relaxation - oscillation equation numerically using this method.

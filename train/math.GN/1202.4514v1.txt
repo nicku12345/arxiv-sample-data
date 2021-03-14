@@ -1,0 +1,1 @@
+We prove that the expectation value of the index function i(x) over a probability space of injective function f on any finite simple graph G=(V,E) is equal to the curvature K(x) at the vertex x. This result complements and links Gauss-Bonnet sum K(x) = chi(G) and Poincare-Hopf sum i(x) = chi(G) which both hold for arbitrary finite simple graphs.

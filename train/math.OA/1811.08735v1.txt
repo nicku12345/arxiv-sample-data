@@ -1,0 +1,1 @@
+We compute all the quantum symmetries of a graph with n- disjoint loops at the critical inverse temperature. We show that the set of non-isomorphic CQG's appearing as quantum symmetry at the critical inverse temperature has a one to one correspondence with the cardinality of the set of partitions of the number of vertices.

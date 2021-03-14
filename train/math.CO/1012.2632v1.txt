@@ -1,0 +1,1 @@
+In this paper, we show that for given positive integer C, there are only finitely many distance-regular graphs with valency k at least three, diameter D at least six and k2/k<=C. This extends a conjecture of Bannai and Ito.

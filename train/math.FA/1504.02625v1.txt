@@ -1,0 +1,1 @@
+In the paper we consider self-adjoint partial integral operators of Fredholm type T with a degenerate kernel on the space L_2([a,b]\times[c,d]). Essential and discrete spectra of T are described.

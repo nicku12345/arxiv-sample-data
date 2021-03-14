@@ -1,0 +1,1 @@
+The elliptic curve method (ECM) is one of the best factorization methods available. It is possible to use hyperelliptic curves instead of elliptic curves but it is in theory slower. We use special hyperelliptic curves and Kummer surfaces to reduce the complexity of the algorithm. Our implementation GMP-HECM is faster than GMP-ECM for factoring big numbers.

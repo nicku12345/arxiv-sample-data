@@ -1,0 +1,1 @@
+In this paper we consider Abel equation x' = g(t)x^2+f(t)x^3, where f and g are analytical functions. We proved that if the equation has a center at x=0, then the Moment Conditions, i. e., m_k=\int_{-1}^1f(t)(G(t))^kdt=0,~~k=0,1,2, is satisfied where G(t)=\int_{-1}^tg(s)ds. Besides, we give partial a positive answer to a conjecture proposed by Y. Lijun and T. Yun in 2001.

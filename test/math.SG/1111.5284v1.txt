@@ -1,0 +1,1 @@
+Let X_n be a cycle of n projective lines, and T_n a symplectic torus with n punctures. In this paper we review results appeared in arXiv:1103.2462 and in arXiv:1109.6615, which establish a version of homological mirror symmetry relating X_n and T_n, and define on D^b(Coh(X_n)) an action of the pure mapping class group of T_n.

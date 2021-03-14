@@ -1,0 +1,1 @@
+Let E be an elliptic curve defined via a Weierstrass equation F(x,y)=0 over an infinite field k. Denote by A the coordinate ring of E. In this note we compute the integral homology of PGL_2(A). We obtain a rigidity result as a corollary.

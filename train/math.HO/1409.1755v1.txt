@@ -1,0 +1,1 @@
+Cantor's first idea to build a one-to-one mapping from the unit interval to the unit square did not work since, as pointed out by Dedekind, the so-obtained function is not surjective. Here, we start from this function and modify it (on a negligible set) in order to obtain the desired result: a one-to-one correspondance between the unit interval and the unit square.

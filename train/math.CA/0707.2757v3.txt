@@ -1,0 +1,1 @@
+Let Pd,n denote the space of all real polynomials of degree at most d on R^n. We prove a new estimate for the logarithmic measure of the sublevel set of a polynomial P in Pd,1. Using this estimate, we prove a sharp estimate for a singular oscillatory integral on R^n.

@@ -1,0 +1,1 @@
+We determine the groups of minimal order in which all groups of order n can embedded for 1 < n < 16. We further determine the order of a minimal group in which all groups or order n or less can be embedded, also for 1 < n < 16.

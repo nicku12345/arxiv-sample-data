@@ -1,0 +1,1 @@
+Let G be a locally compact non-compact group. We show that under a very mild assumption on the weight function w, the weighted group algebra L_1(G,w) is strongly Arens irregular in the sense of Dales-Lamb-Lau. To this end, we first derive a general factorization theorem for bounded families in the L_\infty(G,1/w)^*-module L_\infty(G,1/w).

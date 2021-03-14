@@ -1,0 +1,1 @@
+For a given C_0-semigroup (T(t))_{t\geq 0} we consider Staffans-Weiss perturbations (B,C) of its generator as studied in [1] and investigate the robustness of asymptotic properties of the perturbed C_0-semigroup (T_{BC}(t))_{t\geq 0}. As a concrete application we study the asymptotic behavior of a neutral semigroup.

@@ -1,0 +1,1 @@
+This note is dedicated to Professor Gould. The aim is to show how the identities in his book "Combinatorial Identities" can be used to obtain identities for Fibonacci and Lucas polynomials. In turn these identities allow to derive a wealth of numerical identities for Fibonacci and Lucas numbers.

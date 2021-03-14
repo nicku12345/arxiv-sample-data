@@ -1,0 +1,1 @@
+Hit-and-Run is known to be one of the best random sampling algorithms, its mixing time is polynomial in dimension. Nevertheless, in practice the number of steps required to achieve uniformly distributed samples is rather high. We propose new random walk algorithm based on billiard trajectories. Numerical experiments demonstrate much faster convergence to uniform distribution.

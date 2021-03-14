@@ -1,0 +1,1 @@
+In this paper we mainly discuss three things. First, there is no canonical norm on the space H^p_u(\mathbb{D}). Second, we improve the weak-* convergence of the measures \mu_{u,r}. Third, the dilations f_t of the function f\in H^p_u(\mathbb{D}) converge to f in H^p_u-norm and hence the polynomials are dense in H^p_u(\mathbb{D}).

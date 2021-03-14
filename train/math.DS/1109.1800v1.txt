@@ -1,0 +1,1 @@
+We introduce methods that allow to derive continuous-time versions of various discrete-time ergodic theorems. We then illustrate these methods by giving simple proofs and refinements of some known results as well as establishing new results of interest.

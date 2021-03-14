@@ -1,0 +1,1 @@
+It is shown that for every k\in\mathbb{N} and every spreading sequence \{e_n\}_{n\in\mathbb{N}} that generates a uniformly convex Banach space E, there exists a uniformly convex Banach space X_{k+1} admitting \{e_n\}_{n\in\mathbb{N}} as a k+1-iterated spreading model, but not as a k-iterated one.

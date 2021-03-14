@@ -1,0 +1,1 @@
+Given smooth manifolds V^n and M^m, an integer k, and an immersion f:V\looparrowright M, we have constructed an obstruction for existence of regular homotopy of f to an immersion f':V\looparrowright M without k-fold points. This obstruction takes values in certain framed bordism group, and for (k+1)(n+1)\leq km turns out to be complete.

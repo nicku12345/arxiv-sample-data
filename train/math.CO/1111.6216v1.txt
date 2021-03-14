@@ -1,0 +1,1 @@
+We show that if G is any nilpotent, finite group, and the commutator subgroup of G is cyclic, then every connected Cayley graph on G has a hamiltonian cycle.

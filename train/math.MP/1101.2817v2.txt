@@ -1,0 +1,1 @@
+We find explicit solutions to both the Oldroyd-B model with infinite Weissenberg number and the coupled Navier-Stokes/Phase-Field system. The solutions blow up in finite time.

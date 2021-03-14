@@ -1,0 +1,1 @@
+We consider the problem -\Delta u - g(u) = \lambda u, u \in H^1(\R^N), \int_{\R^N} u^2 = 1, \lambda\in\R, in dimension N\ge2. Here g is a superlinear, subcritical, possibly nonhomogeneous, odd nonlinearity. We deal with the case where the associated functional is not bounded below on the L^2-unit sphere, and we show the existence of infinitely many solutions.

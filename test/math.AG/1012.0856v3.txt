@@ -1,0 +1,1 @@
+Let \M_g be the course moduli space of complex projective nonsingular curves of genus g. We prove that when the Brill-Noether number \rho(g,r,n) is non-negative every component of the Petri locus P^r_{g,n}\subset \M_g whose general member is a curve C such that W^{r+1}_n(C) = \emptyset, has codimension one in \M_g.

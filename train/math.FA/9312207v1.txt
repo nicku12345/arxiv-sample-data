@@ -1,0 +1,1 @@
+We give a positive solution for the hyperplane conjecture of quotient spaces F of L_p, where 1<p\kll\infty. \[ vol(B_F)^{\frac{n-1}{n}} \kl c_0 \pl p' \pl \sup_{H \p hyperplane} vol(B_F\cap H) \pl.\] This result is extended to Banach lattices which does not contain \ell_1^n's uniformly. Our main tools are tensor products and minimal volume ratio with respect to L_p-sections.

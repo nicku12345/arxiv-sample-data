@@ -1,0 +1,1 @@
+Gradual numbers have been introduced recently as a means of extending standard interval computation methods to fuzzy intervals. The literature treats monotonic functions of fuzzy intervals. In this paper, we combine the concepts of gradual numbers and optimization, which allows for the evaluation of any differentiable function on fuzzy intervals, with no monotonicity requirement.

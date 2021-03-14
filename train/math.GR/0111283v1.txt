@@ -1,0 +1,1 @@
+For each finite ordinal n, and each locally-finite group G of cardinality aleph-sub-n, we construct an (n+1)-dimensional, contractible CW-complex on which G acts with finite stabilizers. We use the complex to obtain information about cohomology with induced coefficients. Our techniques also give information about the location of some large free abelian groups in the hierarchy HF.

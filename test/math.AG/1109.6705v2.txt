@@ -1,0 +1,1 @@
+A result of Keel and McKernan states that a hypothetical counterexample to the F-conjecture must come from rigid curves on \bar {M}_{0,n} that intersect the interior. We exhibit several ways of constructing rigid curves. In all our examples, a reduction mod p argument shows that the classes of the rigid curves that we construct can be decomposed as sums of F-curves.

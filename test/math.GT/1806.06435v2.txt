@@ -1,0 +1,1 @@
+An enhanced trivalent tangle is a trivalent tangle with some of its edges labeled. We use enhanced trivalent tangles and classical knot theory to provide a recipe for constructing invariants for trivalent tangles, and in particular, for knotted trivalent graphs. Our method also yields invariants of, what we refer to as, enhanced handlebody-tangles and enhanced handlebody-links.

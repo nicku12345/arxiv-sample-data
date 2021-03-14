@@ -1,0 +1,1 @@
+Let f:S \fr B be a surface fibration with fibres of genus 5. We find a linear relation between the fundamental invariants of the surface. Namely K_f^2=\chi_f+N where N is the number of trigonal fibres. Our proof is based on the analysis of the relative canonical algebra \cal{R}(f).

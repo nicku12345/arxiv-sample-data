@@ -1,0 +1,1 @@
+We describe some new univariate spline quasi-interpolants on uniform partitions of bounded intervals. Then we give some applications to numerical analysis: integration, differentiation and approximation of zeros.

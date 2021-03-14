@@ -1,0 +1,1 @@
+We introduce a quantum double quasitriangular quasi-Hopf algebra D(H) associated to any quasi-Hopf algebra H. The algebra structure is a cocycle double cross product. We use categorical reconstruction methods. As an example, we recover the quasi-Hopf algebra of Dijkgraaf, Pasquier and Roche as the quantum double D^\phi(G) associated to a finite group G and group 3-cocycle \phi.

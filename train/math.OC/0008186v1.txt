@@ -1,0 +1,1 @@
+This paper deals with fractional-order controlled systems and fractional-order controllers in the frequency domain. The mathematical description by fractional transfer functions and properties of these systems are presented. The new ways for modelling of fractional-order systems are illustrated with a numerical example and obtained results are discussed in conclusion.

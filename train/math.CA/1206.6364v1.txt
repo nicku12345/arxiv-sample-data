@@ -1,0 +1,1 @@
+We consider the class of two-lag linear delay differential equations and develop a series expansion to solve for the roots of the nonlinear characteristic equation. Supporting numerical results are presented along with application of our method to study the stability of a two-lag model from ecology.

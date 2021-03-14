@@ -1,0 +1,1 @@
+We show, using Eckmann-Hilton argument, that the category of 3-computads is not cartesian closed. As a corollary we get that neither the category of all computads nor the category of n-computads, for n>2, do form locally cartesian closed categories, and hence elementary toposes.

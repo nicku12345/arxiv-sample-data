@@ -1,0 +1,1 @@
+Using the framework of metriplectic systems on \R^n we will describe a constructive geometric method to add a dissipation term to a Hamilton-Poisson system such that any solution starting in a neighborhood of a nonlinear stable equilibrium converges towards a certain invariant set. The dissipation term depends only on the Hamiltonian function and the Casimir functions.

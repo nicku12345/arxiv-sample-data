@@ -1,0 +1,1 @@
+In this short note, we point out how some new cases of Hochster's direct summand conjecture can be deduced from fundamental theorems in p-adic Hodge theory due to Faltings. The cases tackled include the ones when the ramification of the map being considered lies entirely in characteristic p.

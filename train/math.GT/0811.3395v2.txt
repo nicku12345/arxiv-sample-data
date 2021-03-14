@@ -1,0 +1,1 @@
+We show that every 3--manifold admits a Heegaard diagram in which a truncated version of Heegaard Floer homology (when the holomorpic disks pass through the basepoints at most once) can be computed combinatorially.

@@ -1,0 +1,1 @@
+We provide Sobolev estimates for solutions of first order Hamilton-Jacobi equations with Hamiltonians which are superlinear in the gradient variable. We also show that the solutions are differentiable almost everywhere. The proof relies on an inverse H\"older inequality. Applications to mean field games are discussed.

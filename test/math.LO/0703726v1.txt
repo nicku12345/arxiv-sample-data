@@ -1,0 +1,1 @@
+We show that it is consistent with the axioms of set theory that every infinite profinite group G possesses a closed subset X of Haar measure zero such that less than continuum many translates of X cover G. This answers a question of Elekes and Toth and by their work settles the problem for all infinite compact topological groups.

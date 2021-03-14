@@ -1,0 +1,1 @@
+Let G be a solvable linear group acting on the finite vectorpace V and assume that (|G|,|V|)=1. In this paper we find x,y\in V such that C_G(x)\cap C_G(y)=1. In particular, this answers a question of I. M. Isaacs. We complete some results of S. Dolphi, A. Seress and T. R. Wolf.

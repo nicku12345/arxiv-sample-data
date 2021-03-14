@@ -1,0 +1,1 @@
+A recent result in [2] on the non-existence of Gauss-Lobatto cubature rules on the triangle is strengthened by establishing a lower bound for the number of nodes of such rules. A method of constructing Lobatto type cubature rules on the triangle is given and used to construct several examples.

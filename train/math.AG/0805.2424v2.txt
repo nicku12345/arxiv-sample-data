@@ -1,0 +1,1 @@
+We determine the Kodaira dimension of the moduli space of even spin curves for all genera, with one possible exception: The scheme S_g has negative Kodaira dimension for g<8 and it is of general type for g>8. The Kodaira dimension of S_8 is non-negative.

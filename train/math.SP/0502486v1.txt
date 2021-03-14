@@ -1,0 +1,1 @@
+We provide necessary and sufficient conditions for a Jacobi matrix to produce orthogonal polynomials with Szeg\H{o} asymptotics off the real axis. A key idea is to prove the equivalence of Szeg\H{o} asymptotics and of Jost asymptotics for the Jost solution. We also prove L^2 convergence of Szeg\H{o} asymptotics on the spectrum.

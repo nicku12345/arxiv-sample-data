@@ -1,0 +1,1 @@
+We prove in ZFC that if G is a (right) R-module such that the groups \Hom_R(\prod_{i\in I}G_i,G) and \prod_{i\in I}\Hom_R(G_i,G) are naturally isomorphic for all families of R-modules (G_i)_{i\in I} then G=0. The result is valid even we restrict to families such that G_i\cong G for all i\in I.

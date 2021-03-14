@@ -1,0 +1,1 @@
+We develop the semifilter approach to the classical Menger and Hurewicz covering properties and show that the small cardinal g is a lower bound of the additivity number of the family of Menger subspaces of the Baire space, and under u< g every subset X of the real line with the property Split(Lambda,Lambda) is Hurewicz.

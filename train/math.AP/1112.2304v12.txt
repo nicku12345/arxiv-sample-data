@@ -1,0 +1,1 @@
+We develop a variational technique for some wide classes of nonlinear evolutions. The novelty here is that we derive the main information directly from the corresponding Euler-Lagrange equations. In particular, we prove that not only the minimizer of the appropriate energy functional but also any critical point must be a solution of the corresponding evolutional system.

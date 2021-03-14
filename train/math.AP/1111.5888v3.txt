@@ -1,0 +1,1 @@
+Let \phi be a smooth solution of the parabolic equation F(D^2u, Du, u, x, t)- u_{t} = 0: Assume F is uniform elliptic only in a neighborhood of (D^2\phi, D\phi, \phi, x, t), we prove that any solution obtained from small L1-perturbation of \phi remains smooth.

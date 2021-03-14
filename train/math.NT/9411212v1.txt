@@ -1,0 +1,1 @@
+A new upper bound is given for the dimension of the space of holomorphic cusp forms of weight one and prime level q:  \hbox{dim}\, S_1(q) << q^{11/12} \log^4{q}  with an absolute implied constant.

@@ -1,0 +1,1 @@
+The ER(2)-cohomology of B\mathbb{Z}/(2^q) and \mathbb{C}P^n are computed along with the Atiyah-Hirzebruch spectral sequence for ER(2)^*(\mathbb{C}P^\infty). This, along with other papers in this series, gives us the ER(2)-cohomology of all Eilenberg-MacLane spaces. Since ER(2) is TMF_0(3) after a suitable completion, these computations also take care of that theory.

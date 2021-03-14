@@ -1,0 +1,1 @@
+We provide explicit series expansions for the exponential and logarithm functions attached to a rank r Drinfeld module that generalize well known formulas for the Carlitz exponential and logarithm. Using these results we obtain a procedure and an analytic expression for computing the periods of rank 2 Drinfeld modules and also a criterion for supersingularity.

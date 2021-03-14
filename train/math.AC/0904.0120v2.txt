@@ -1,0 +1,1 @@
+We show that in the constant coefficient case the generic tropical variety of a graded ideal exists. This can be seen as the analogon to the existence of the generic initial ideal in Groebner basis theory. We determine the generic tropical variety as a set in general and as a fan for principal ideals and linear ideals.

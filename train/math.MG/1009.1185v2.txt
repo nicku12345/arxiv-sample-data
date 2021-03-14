@@ -1,0 +1,1 @@
+Let (G,P) be a bar framework of n vertices in general position in R^d, d <= n-1, where G is a (d+1)-lateration graph. In this paper, we present a constructive proof that (G,P) admits a positive semi-definite stress matrix with rank n-d-1. We also prove a similar result for a sensor network where the graph consists of m(>= d+1) anchors.

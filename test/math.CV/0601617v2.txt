@@ -1,0 +1,1 @@
+We prove a relation between the \bar\partial_M cohomology of a minimal orbit M of a real form G_0 of a complex semisimple Lie group G in a flag manifold G/Q and the Dolbeault cohomology of the Matsuki dual open orbit X of the complexification K of a maximal compact subgroup K_0 of G_0, under the assumption that M is Levi-flat.

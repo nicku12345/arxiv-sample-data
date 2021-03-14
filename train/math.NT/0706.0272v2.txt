@@ -1,0 +1,1 @@
+We address the problem of computing in the group of \ell^k-torsion rational points of the jacobian variety of algebraic curves over finite fields, with a view toward computing modular representations.

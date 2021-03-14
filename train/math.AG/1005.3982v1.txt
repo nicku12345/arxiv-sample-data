@@ -1,0 +1,1 @@
+We prove that any arithmetically Gorenstein curve on a smooth, general hypersurface X\subset \bbP^{4} of degree at least 6, is a complete intersection. This gives a characterisation of complete intersection curves on general type hypersurfaces in \bbP^4. We also verify that certain 1-cycles on a general quintic hypersurface are non-trivial elements of the Griffiths group.

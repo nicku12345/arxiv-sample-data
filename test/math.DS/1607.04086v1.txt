@@ -1,0 +1,1 @@
+This work is devoted to study the existence of periodic solutions for a family of discontinuous differential systems Z(x,y;\epsilon) with many zones. We show that for \epsilon sufficiently small the averaged functions at any order control the existence of crossing limit cycles for systems in this family. We also provide some examples dealing with nonlinear centers.

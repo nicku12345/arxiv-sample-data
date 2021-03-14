@@ -1,0 +1,1 @@
+In this paper we prove that the Prym map, from the space of double coverings of a curve of genus g with r branch points to the moduli space of abelian varieties, is generically injective if r>6 and g>1, r=6 and g>2, r=4 and g>4, r=2 and g>5. We also show that a very generic Prym variety of dimension at least 4 is not isogenous to a Jacobian.

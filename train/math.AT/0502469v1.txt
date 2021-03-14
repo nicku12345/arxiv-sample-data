@@ -1,0 +1,1 @@
+Every 1-connected topological 4-manifold M admits a S^{1}-covering by #_{r-1}S^{2}\times S^{3}, where r=rankH^{2}(M;\QTR{Bbb}{Z}).

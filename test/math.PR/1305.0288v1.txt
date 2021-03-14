@@ -1,0 +1,1 @@
+We consider stochastic dynamics for a spin system with mean field interaction, in which the interaction potential is subject to noisy and dissipative stochastic evolution. We show that, in the thermodynamic limit and at sufficiently low temperature, the magnetization of the system has a time periodic behavior, despite of the fact that no periodic force is applied.

@@ -1,0 +1,1 @@
+We provide a new proof of James' sup theorem for (non necessarily separable) Banach spaces. One of the ingredients is the following generalization of a theorem of Hagler and Johnson (1977) : "If a normed space E does not contain any asymptotically isometric copy of \ell^1(\IN), then every bounded sequence of E' has a normalized block sequence pointwise converging to 0".

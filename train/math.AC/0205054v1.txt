@@ -1,0 +1,1 @@
+We prove (the excellent case of) Schreyer's conjecture that a local ring with countable Cohen--Macaulay type has at most a one-dimensional singular locus. Furthermore we prove that the localization of a Cohen-Macaulay local ring of countable CM type is again of countable CM type.

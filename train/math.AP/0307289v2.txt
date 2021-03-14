@@ -1,0 +1,1 @@
+We show that the Benjamin-Ono equation is globally well-posed in H^s(\R) for s \geq 1. This is despite the presence of the derivative in the non-linearity, which causes the solution map to not be uniformly continuous in H^s for any s. The main new ingredient is to perform a global gauge transformation which almost entirely eliminates this derivative.

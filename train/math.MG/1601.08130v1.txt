@@ -1,0 +1,1 @@
+We present measure theoretic rigidity for graphs of first Betti number b>1 in terms of measures on the boundary of a 2b-regular tree, that we make explicit in terms of the edge-adjacency and closed-walk structure of the graph. We prove that edge-reconstruction of the entire graph is equivalent to that of the "closed walk lengths".

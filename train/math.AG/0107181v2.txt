@@ -1,0 +1,1 @@
+We present formulas for computing the resultant of sparse polynomials as a quotient of two determinants, the denominator being a minor of the numerator. These formulas extend the original formulation given by Macaulay for homogeneous polynomials.

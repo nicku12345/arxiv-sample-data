@@ -1,0 +1,1 @@
+We show how natural functors from the category of coherent sheaves on a projective scheme to categories of Kronecker modules can be used to construct moduli spaces of semistable sheaves. This construction simplifies or clarifies technical aspects of existing constructions and yields new simpler definitions of theta functions, about which more complete results can be proved.

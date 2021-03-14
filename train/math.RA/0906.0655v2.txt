@@ -1,0 +1,1 @@
+The fine abelian group gradings on the simple classical Lie algebras (including D4) over algebraically closed fields of characteristic 0 are determined up to equivalence. This is achieved by assigning certain invariant to such gradings that involve central graded division algebras and suitable sesquilinear forms on free modules over them.

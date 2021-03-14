@@ -1,0 +1,1 @@
+It is well known that Thom-Boardman symbols are realized by non-increasing sequences of nonnegative integers. A natural question is whether the converse is also true. In this paper we answer this question affirmatively, that is, for any non-increasing sequence of nonnegative integers, there is a map-germ with the prescribed sequence as its Thom-Boardman symbol.

@@ -1,0 +1,1 @@
+This paper investigates the connection between discrete and continuous models describing prion proliferation. The scaling parameters are interpreted on biological grounds and we establish rigorous convergence statements. We also discuss, based on the asymptotic analysis, relevant boundary conditions that can be used to complete the continuous model.

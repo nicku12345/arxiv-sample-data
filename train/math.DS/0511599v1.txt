@@ -1,0 +1,1 @@
+For a smooth map f of a compact interval I admitting an inducing scheme we establish a thermodynamical formalism, i.e., describe a class of real-valued potential functions \phi on I which admit a unique equilibrium measure \mu_\phi. Our results apply to unimodal maps corresponding to a positive Lebesgue measure set of parameters in a one-parameter transverse family.

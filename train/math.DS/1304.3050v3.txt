@@ -1,0 +1,1 @@
+In this paper, we study small perturbations of a class of non-convex integrable Hamiltonians with two degrees of freedom, and we prove a result of diffusion for an open and dense set of perturbations, with an optimal time of diffusion which grows linearly with respect to the inverse of the size of the perturbation.

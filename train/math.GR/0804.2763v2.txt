@@ -1,0 +1,1 @@
+Let S be a p-group for an odd prime p. Bob Oliver conjectures that a certain characteristic subgroup X(S) always contains the Thompson subgroup J(S). We obtain a reformulation of the conjecture as a statement about modular representations of p-groups. Using this we verify Oliver's conjecture for groups where S/X(S) has nilpotence class at most two.

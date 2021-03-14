@@ -1,0 +1,1 @@
+We give an elementary combinatorial proof of a special case of a result due to Bazlov and Ion concerning the Fourier coefficients of the Cherednik kernel. This can be used to give yet another proof of the classical fact that for a complex simple Lie algebra, the partition formed by its exponents is dual to that formed by the numbers of positive roots at each height.

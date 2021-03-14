@@ -1,0 +1,1 @@
+In this paper we will study the boundedness of Riesz Potentials, Bessel potentials and Fractional Derivatives on Gaussian Besov-Lipschitz spaces B_{p,q}^{\alpha}(\gamma_d). Also these results can be extended to the case of Laguerre or Jacobi expansions and even further to the general framework of diffusions semigroups.

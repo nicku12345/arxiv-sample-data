@@ -1,0 +1,1 @@
+We extend the notion of the associated random walk and the Wald martingale in random walks where the increments are independent and identically distributed to the more general case of stationary ergodic increments. Examples are given where the increments are Markovian or Gaussian, and an application in queueing is considered.

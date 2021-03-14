@@ -1,0 +1,1 @@
+Generalizing several previous results in the literature on rational harmonic functions, we derive bounds on the maximum number of zeros of functions f(z) = \frac{p(z)}{q(z)} - \overline{z}, which depend on both \mathrm{deg}(p) and \mathrm{deg}(q). Furthermore, we prove that any function that attains one of these upper bounds is regular.

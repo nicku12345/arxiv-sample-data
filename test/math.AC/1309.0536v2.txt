@@ -1,0 +1,1 @@
+Given a collection of l general lines \ell_1,\ldots,\ell_{l} in \pr^2, the star configuration \XX(l) is the set of points constructed from all pairwise intersections of these lines. For each non-negative integer d, we compute the dimension of the family of curves of degree d that contain a star configuration.

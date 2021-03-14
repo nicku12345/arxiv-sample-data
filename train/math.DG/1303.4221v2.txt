@@ -1,0 +1,1 @@
+Inspired by an argument of Ros [15] -- we use the L\'{o}pez-Ros deformation to give another proof of the fact -- due to Meeks and Wolf [13] -- that the only smooth, connected, singly-periodic minimal surfaces in \Real^3 with the area growth of two planes are the singly-periodic Scherk surfaces.

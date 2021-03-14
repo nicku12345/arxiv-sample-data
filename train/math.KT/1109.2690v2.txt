@@ -1,0 +1,1 @@
+Shuffle algebras are monoids for an unconvential monoidal category structure on graded vector spaces. We present two homological results on shuffle algebras with monomial relations, and use them to prove exact and asymptotic results on consecutive pattern avoidance in permutations.

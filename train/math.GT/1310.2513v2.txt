@@ -1,0 +1,1 @@
+The concordance genus of a knot is the least genus of any knot in its concordance class. Although difficult to compute, it is a useful invariant that highlights the distinction between the three-genus and four-genus. In this paper we define and discuss the stable concordance genus of a knot, which describes the behavior of the concordance genus under connected sum.

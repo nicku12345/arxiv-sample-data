@@ -1,0 +1,1 @@
+In this article, we prove the Riesz - Fej\'er inequality for complex-valued harmonic functions in the harmonic Hardy space {\bf h}^p for all p > 1. The result is sharp for p \in (1,2]. Moreover, we prove two variant forms of Riesz-Fej\'er inequality for harmonic functions, for the special case p=2.

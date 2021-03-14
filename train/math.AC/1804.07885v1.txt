@@ -1,0 +1,1 @@
+The Cohen-Macaulay type of idealizations of maximal Cohen-Macaulay modules over Cohen-Macaulay local rings is explored. There are two extremal cases, one of which is closely related to the theory of Ulrich modules \cite{BHU, GOTWY1, GOTWY2, GTT2}, and the other one is closely related to the theory of residually faithful modules and the theory of closed ideals \cite{BV}.

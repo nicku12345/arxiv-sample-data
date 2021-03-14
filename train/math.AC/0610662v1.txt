@@ -1,0 +1,1 @@
+We determine the simplicial compleses \Delta whose Stanley-Reisner ideals I_\Delta have the following property: for all n\geq 1 the powers I_\Delta^n have linear resolutions and finite length local cohomologies.

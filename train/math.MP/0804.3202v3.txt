@@ -1,0 +1,1 @@
+We generalize Minami's estimate for the Anderson model and its extensions to n eigenvalues, allowing for n arbitrary intervals and arbitrary single-site probability measures with no atoms. As an application, we derive new results about the multiplicity of eigenvalues and Mott's formula for the ac-conductivity when the single site probability distribution is H\"older continuous.

@@ -1,0 +1,1 @@
+We prove that every simple transitive 2-representation of the fiat 2-category of Soergel bimodules (over the coinvariant algebra) in type B_2 is equivalent to a cell 2-representation. We also describe some general properties of the 2-category of Soergel bimodules for arbitrary finite Dihedral groups.

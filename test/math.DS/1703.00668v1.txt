@@ -1,0 +1,1 @@
+Let \Gamma be a countable group. A \Gamma-action on a compact abelian group X by continuous automorphisms of X is called Noetherian if the dual of X is Noetherian as a {\mathbb Z}(\Gamma)-module. We prove that any Noetherian action of a finitely generated virtually nilpotent group has a dense set of periodic points.

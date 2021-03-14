@@ -1,0 +1,1 @@
+The set of all closed subgroups of a profinite carries a natural profinite topology. This space of subgroups can be classified up to homeomorphism in many cases, and tight bounds placed on its complexity as expressed by its scattered height.

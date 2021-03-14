@@ -1,0 +1,1 @@
+In this article we prove that for a basic classical Lie superalgebra the annihilator of a strongly typical Verma module is a centrally generated ideal. For a basic classical Lie superalgebra of type I we prove that the localization of the enveloping algebra by a certain central element is free over its centre.

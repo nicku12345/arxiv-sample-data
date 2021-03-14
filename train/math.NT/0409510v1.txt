@@ -1,0 +1,1 @@
+Let K be a global field and f in K[X] be a polynomial. We present an efficient algorithm which factors f in polynomial time.

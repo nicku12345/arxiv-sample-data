@@ -1,0 +1,1 @@
+In this paper we study the semi-Fredholm property of band-dominated operators A and prove that it already implies the Fredholmness of A in all cases where this is not disqualified by obvious reasons. Moreover, this observation is applied to show that the Fredholmness of a band-dominated operator already follows from the surjectivity of all its limit operators.

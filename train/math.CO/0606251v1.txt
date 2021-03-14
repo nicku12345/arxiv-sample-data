@@ -1,0 +1,1 @@
+This paper shows the fastest way to force a win with rook and king against king on an m*n board. In the classical case, this gives a faster win than what Capablanca suggested in his book 'Chess Fundamentals'.

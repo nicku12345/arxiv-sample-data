@@ -1,0 +1,1 @@
+In this paper we formulate combinatorial identities that give representation of positive integers as linear combination of even powers of 2 with binomial coefficients. We present side by side combinatorial as well as computer generated proofs using the Wilf-Zeilberger(WZ) method.

@@ -1,0 +1,1 @@
+In this paper we prove large deviations principles for the Nadaraya-Watson estimator of the regression of a real-valued variable with a functional covariate. Under suitable conditions, we show pointwise and uniform large deviations theorems with good rate functions.

@@ -1,0 +1,1 @@
+We consider a class of bi-parameter kernels and related square functions in the upper half-space, and give an efficient proof of a boundedness criterion for them. The proof uses modern probabilistic averaging methods and is based on controlling double Whitney averages over good cubes.

@@ -1,0 +1,1 @@
+Recently Stephen Theriault and I found an elementary construction of Anick's spaces and proved their main properties(arXiv:0710.1024).In this work the fundamental fibration is decomposed. This is useful in studying maps out of Anick's spaces and will be needed in order to determine it's universal properties.

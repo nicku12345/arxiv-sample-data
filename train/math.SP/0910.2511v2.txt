@@ -1,0 +1,1 @@
+We study resolvent estimates for non-selfadjoint semiclassical pseudodifferential operators with double characteristics. Assuming that the quadratic approximation along the double characteristics is elliptic, we obtain polynomial upper bounds on the resolvent in a suitable region inside the pseudospectrum.

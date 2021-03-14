@@ -1,0 +1,1 @@
+We provided an analogue Banach-Alaoglu theorem for Hilbert H^*-module. We construct a \Lambda-weak^* topology on a Hilbert H^*-module over a proper H^*-algebra \Lambda, such that the unit ball is compact with respect to \Lambda-weak^* topology.

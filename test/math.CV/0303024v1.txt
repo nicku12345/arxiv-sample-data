@@ -1,0 +1,1 @@
+We define a smooth functional calculus for a non-commuting tuple of (unbounded) operators A_j on a Banach space with real spectra and resolvents with temperate growth, by means of an iterated Cauchy formula. The construction is also extended to tuples of more general operators allowing smooth functional calculii. We also discuss the relation to the case with commuting operators.

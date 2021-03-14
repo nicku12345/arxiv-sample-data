@@ -1,0 +1,1 @@
+We prove that the monoidal 2-category of cospans of finite linear orders and surjections is the universal monoidal category with an object X with a semigroup and a cosemigroup structures, where the two structures satisfy a certain 2-dimensional separable algebra condition.

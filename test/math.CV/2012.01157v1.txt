@@ -1,0 +1,1 @@
+It is known that, if S(z) is a non-constant, singular inner function defined on the unit disk, then \min_{|z|\le r}|S(z)|\to0 as r\to1^-. We show that the convergence may be arbitrarily slow.

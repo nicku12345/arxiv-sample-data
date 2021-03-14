@@ -1,0 +1,1 @@
+We extend Bourgain's return times theorem to arbitrary locally compact second countable amenable groups. The proof is based on a version of the Bourgain--Furstenberg--Katznelson--Ornstein orthogonality criterion.

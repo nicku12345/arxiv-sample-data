@@ -1,0 +1,1 @@
+For simply-laced quivers, we consider the fixed-point subalgebra of the quiver Hecke algebra under the homogeneous sign map. This leads to a new family of algebras we call alternating quiver Hecke algebras. We give a basis theorem and a presentation by generators and relations which is strikingly similar to the KLR presentation for quiver Hecke algebras.

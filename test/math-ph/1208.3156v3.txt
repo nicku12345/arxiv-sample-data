@@ -1,0 +1,1 @@
+It is shown how the dimension of any arbitrary over-determined system of differential equations can be reduced, which makes the system suitable for numerical solution modeling. Specifically, over-determined equations of hydrodynamics are presented.

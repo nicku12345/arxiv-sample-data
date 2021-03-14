@@ -1,0 +1,1 @@
+A version of the Dynamical Systems Method (DSM) for solving ill-conditioned linear algebraic systems is studied in this paper. An {\it a priori} and {\it a posteriori} stopping rules are justified. An iterative scheme is constructed for solving ill-conditioned linear algebraic systems.

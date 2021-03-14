@@ -1,0 +1,1 @@
+The goal of this paper is to describe a sufficient condition on cycles in graphs for which the edge ideal is splittable. We give an explicit splitting function for such ideals.

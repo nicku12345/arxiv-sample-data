@@ -1,0 +1,1 @@
+Given n integer, let X be either the set of hermitian or real n\times n matrices of rank at least n-1. If n is even, we give a sharp estimate on the maximal dimension of a real vector subspace of X\cup\{0\}. The rusults are obtained, via K-theory, by studying a bundle map induced by the adjugation of matrices

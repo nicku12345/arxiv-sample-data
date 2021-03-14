@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian ring and M be a finitely generated R-module. Considering the new concept of linkage of ideals over a module, we study associated prime ideals, cofiniteness and Artinianness of local cohomology modules of M with respect to some linked ideals over it.

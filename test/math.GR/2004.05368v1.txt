@@ -1,0 +1,1 @@
+In this paper we investigate some Mal'cev classes of varieties of left-quasigroups. We prove that the weakest Mal'cev condition for a variety of left-quasigroup is having a Mal'cev term. Then we specialize to the setting of quandles for which we prove that the meet semidistributive varieties are those which have no finite models.

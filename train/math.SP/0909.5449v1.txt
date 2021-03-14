@@ -1,0 +1,1 @@
+We show that, under very general definitions of a kinetic energy operator T, the Lieb-Thirring inequalities for sums of eigenvalues of T-V can be derived from the Sobolev inequality appropriate to that choice of T.

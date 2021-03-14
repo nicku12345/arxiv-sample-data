@@ -1,0 +1,1 @@
+A topological space Y is said to have (AEEP) if the following condition is fulfilled. Whenever (X,\mathfrak{M}) is a measurable space and f, g: X \to Y are two measurable functions, then the set \Delta(f,g) = \{x \in X:\ f(x) = g(x)\} is a member of \mathfrak{M}. It is shown that a metrizable space Y has (AEEP) iff the cardinality of Y is no greater than 2^{\aleph_0}.

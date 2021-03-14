@@ -1,0 +1,1 @@
+We define a broad class of crossed product C*-algebras of the form C(G)xG, where G is a discrete countable amenable residually finite group, and G is a profinite completion of G. We show that they are unital separable simple nuclear quasidiagonal C*-algebras, or real rank zero, stable rank one, with comparability of projections and with a unique trace.

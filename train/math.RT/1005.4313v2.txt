@@ -1,0 +1,1 @@
+Let G be an almost simple reductive group with Weyl group W. Let B be a Borel subgroup of G. Let C be an elliptic conjugacy class in W and let w be an element of minimal length of C. We investigate the existence of a semisimple class of G whose intersection with BwB has dimension dim(B). We show that in good characteristic such a semisimple class exists almost always.

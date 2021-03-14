@@ -1,0 +1,1 @@
+The standard actions of finite groups on spheres S^d are linear actions, i.e. by finite subgroups of the orthogonal group O(d+1). We prove that, in each dimension d>5, there is a finite group G which admits a faithful, topological action on a sphere S^d but is not isomorphic to a subgroup of O(d+1). The situation remains open for smooth actions.

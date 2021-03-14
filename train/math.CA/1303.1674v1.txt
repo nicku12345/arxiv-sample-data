@@ -1,0 +1,1 @@
+We derive Groebner bases for Lauricella's hypergeometric differential equations I_A(m), I_B(m), I_C(m) with respect to a monomial order. By using these Groebner bases, we determine characteristic varieties and the singular loci of I_A(m), I_B(m), I_C(m).

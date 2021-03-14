@@ -1,0 +1,1 @@
+We prove that any null-homotopic holomorphic map from a Stein space X to the symplectic group \operatorname{Sp}_{4}(\mathbb{C}) can be written as a finite product of elementary symplectic matrices with holomorphic entries.

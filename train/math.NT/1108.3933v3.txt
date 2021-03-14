@@ -1,0 +1,1 @@
+In this paper, we study the explicit structure of the graded ring of elliptic modular forms for the congruence subgroup \Gamma_0(N) with N=1,2,3,4,5,6,7,8,9,10,12,16,18,25. More precisely, making use of some relations between Fourier expansions, we determine the ring by a quotient of the polynomial ring in several variables.

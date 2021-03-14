@@ -1,0 +1,1 @@
+For \Lambda the category of free opetopic algebras, we construct a model structure \emph{\`a la Cisinski} on the category of presheaves over \Lambda, and show that is is equivalent to opetopic complete Segal spaces. This generalizes the results of Joyal and Tierney in the simplicial case, and of Cisinski and Moerdijk in the planar dendroidal case.

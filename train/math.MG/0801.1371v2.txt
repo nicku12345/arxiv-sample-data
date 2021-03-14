@@ -1,0 +1,1 @@
+In this paper, we study the L\'{e}vy-Milman concentration phenomenon of 1-Lipschitz maps from mm-spaces to \mathbb{R}-trees. Our main theorems assert that the concentration to \mathbb{R}-trees is equivalent to the concentration to the real line.

@@ -1,0 +1,1 @@
+The Brezing-Weng method is a general framework to generate families of pairing-friendly elliptic curves. Here, we introduce an improvement which can be used to generate more curves with larger discriminants. Apart from the number of curves this yields, it provides an easy way to avoid endomorphism rings with small class number.

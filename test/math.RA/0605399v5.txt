@@ -1,0 +1,1 @@
+Mainly motivated by Pirashvili's spectral sequences on a Leibniz algebra, a cohomological characterization of Leibniz central extensions of Lie algebras is given based on Corollary 3.3 and Theorem 3.5. In particular, as applications, we obtain the cohomological version of Gao's main Theorem in \cite{Gao2} for Kac-Moody algebras and answer a question in \cite{LH}.

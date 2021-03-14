@@ -1,0 +1,1 @@
+In the paper we prove that every automorphism of and elementary adjoint Chevalley group of types A_l, D_l, or E_l, over local commutative ring with 1/2 is a composition of a ring automorphism and conjugation by some matrix from the normalizer of the Chevalley group in \GL(V) (V is the adjoint representation space).

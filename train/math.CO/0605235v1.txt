@@ -1,0 +1,1 @@
+We define a new kind of crossing number which generalizes both the bipartite crossing number and the outerplanar crossing number. We calculate exact values of this crossing number for many complete bipartite graphs and also give a lower bound.

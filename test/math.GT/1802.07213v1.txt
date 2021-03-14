@@ -1,0 +1,1 @@
+In this paper we give a method to construct Heegaard splittings of oriented graph manifolds with orientable bases. A graph manifold is a closed 3-manifold admitting only Seifert-fibered pieces in its Jaco-Shalen decomposition; for technical reasons, we restrict our attention to the fully oriented case, i.e. both the pieces and the bases are oriented.

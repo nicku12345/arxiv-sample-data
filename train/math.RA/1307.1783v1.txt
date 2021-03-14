@@ -1,0 +1,1 @@
+For an endomorphism s of R with s^{t}=1 we prove that the truncated polynomial ring (algebra) R[w,s]/(w^{t}) embeds into M_{t}(R[z]/(z^{t})). For an involution we exhibit an embedding of R into M_{2,1}^{s}(R), where M_{2,1}^{s}(R) is the algebra of the so called (s,2,1) supermatrices.

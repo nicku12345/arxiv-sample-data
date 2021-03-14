@@ -1,0 +1,1 @@
+We study the concentration of the distribution of an additive function, when the sequence of prime values of f decays fast and has good spacing properties. In particular, we prove a conjecture by Erdos and Katai on the concentration of f(n)=\sum_{p|n}(\log p)^{-c} when c>1.

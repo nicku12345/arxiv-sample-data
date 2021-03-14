@@ -1,0 +1,1 @@
+A universal cycle for permutations is a word of length n! such that each of the n! possible relative orders of n distinct integers occurs as a cyclic interval of the word. We show how to construct such a universal cycle in which only n+1 distinct integers are used. This is best possible and proves a conjecture of Chung, Diaconis and Graham.

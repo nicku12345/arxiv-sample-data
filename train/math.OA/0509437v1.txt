@@ -1,0 +1,1 @@
+We construct an AF-algebra A such that its local multiplier algebra M_{\text{loc}}(A) does not agree with M_{\text{loc}}(M_{\text{loc}}(A)), thus answering a question raised by G.K. Pedersen in 1978.

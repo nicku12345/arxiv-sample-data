@@ -1,0 +1,1 @@
+We introduce the notion of a Hu-Liu prime ideal in the context of left commutative rngs, and establish the contravariant functor from the category of left commutative rngs into the category of topological spaces.

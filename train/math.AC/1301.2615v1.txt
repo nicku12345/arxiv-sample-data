@@ -1,0 +1,1 @@
+Let B be a ring and A=B[X,Y]/(aX^2+bXY+cY^2-1) where a,b,c\in B. We study the smoothness of A over B, and the regularity of B when B is a ring of algebraic integers.

@@ -1,0 +1,1 @@
+We consider the Dirichlet Laplacian with a constant magnetic field in a two-dimensional domain of finite measure. We determine the sharp constants in semi-classical eigenvalue estimates and show, in particular, that Polya's conjecture is not true in the presence of a magnetic field.

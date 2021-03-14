@@ -1,0 +1,1 @@
+Let R be a ring satisfying a polynomial identity and let D be a derivation of R. We consider the Jacobson radical of the skew polynomial ring R[x;D] with coefficients in R and with respect to D, and show that J(R[x;D])\cap R is a nil D-ideal. This extends a result of Ferrero, Kishimoto, and Motose, who proved this in the case when R is commutative.

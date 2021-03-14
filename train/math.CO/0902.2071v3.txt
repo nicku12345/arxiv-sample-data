@@ -1,0 +1,1 @@
+In unpublished work, Geelen proved that a matroid is near-regular if and only if it has no minor isomorphic to: U2,5; U3,5; the Fano plane and its dual; the non-Fano and its dual; the single-element deletion of AG(2,3), its dual, and the matroid obtained from it with a Delta-Y operation; and P8. We provide a proof of this characterization.

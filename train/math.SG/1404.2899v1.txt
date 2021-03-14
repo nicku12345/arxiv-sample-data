@@ -1,0 +1,1 @@
+In the context of the two dimensional sigma model, we show that classical field theory naturally defines a functor from Segal's category of Riemann surfaces to the Guillemin-Sternberg/Weinstein category of canonical relations in symplectic geometry, following ideas of Cattaneo, Mnev, and Reshetikhin. This is an expository article, based on a research tutorial.

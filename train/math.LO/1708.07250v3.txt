@@ -1,0 +1,1 @@
+We consider a property stronger than the Sacks property, called the shrink wrapping property, which holds between the ground model and each Sacks forcing extension. Unlike the Sacks property, the shrink wrapping property does not hold between the ground model and a Silver forcing extension. We also show an application of the shrink wrapping property.

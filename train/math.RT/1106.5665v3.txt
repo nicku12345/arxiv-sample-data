@@ -1,0 +1,1 @@
+We compute the Yoneda extension algebra of the collection of Weyl modules for GL_2 over an algebraically closed field of positive characteristic p by developing a theory of generalised Koszul duality for certain 2-functors, one of which controls the rational representation theory of GL_2 over such a field.

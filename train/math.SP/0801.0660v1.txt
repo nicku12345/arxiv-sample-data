@@ -1,0 +1,1 @@
+We consider scattering by an obstacle in \Real^d, d\geq 3  odd. We show that for the Neumann Laplacian if an obstacle has the same resonances as the ball of radius \rho does, then the obstacle is a ball of radius \rho. We give related results for obstacles which are disjoint unions of several balls of the same radius.

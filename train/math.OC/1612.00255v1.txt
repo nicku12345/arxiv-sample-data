@@ -1,0 +1,1 @@
+In this note, three Lagrange multiplier rules introduced in the literature for set valued optimization problems are compared. A generalization of all three results is given which proves that under rather mild assumptions, x is a weak solution to the constrained problem, if and only if it is a weak solution to the Lagrangian.

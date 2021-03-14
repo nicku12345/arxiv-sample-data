@@ -1,0 +1,1 @@
+We define and study a homological version of Sullivan's rational de Rham complex for simplicial sets. This new functor can be generalised to simplicial symmetric spectra and in that context it has excellent categorical properties which promise to make a number of interesting applications much more straightforward.

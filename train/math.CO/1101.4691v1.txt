@@ -1,0 +1,1 @@
+It is proved that, for a prime number p, showing that an n-element matroid is not representable over GF(p) requires only O(n^2) rank evaluations.

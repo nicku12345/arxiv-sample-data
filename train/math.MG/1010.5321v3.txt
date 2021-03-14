@@ -1,0 +1,1 @@
+This paper collects some important formulas on hyperbolic volume. To determine concrete values of volume function is a very hard question requiring the knowledge of various methods. Our goal to give a non-elementary integral on the volume of the orthosceme (obtain it without using the Schl\"afli differential formula), using edge-lengthes as the only parameters.

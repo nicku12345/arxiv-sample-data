@@ -1,0 +1,1 @@
+Let S_r be the blow-up of P^2 in r general points, i.e., a smooth Del Pezzo surface of degree 9-r. For r <= 7, we determine the quadratic equations defining its Cox ring explicitly. The ideal of the relations in Cox(S_8) is calculated up to radical. As conjectured by Batyrev and Popov, all the generating relations are quadratic.

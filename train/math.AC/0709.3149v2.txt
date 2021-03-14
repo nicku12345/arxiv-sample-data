@@ -1,0 +1,1 @@
+We introduce an idea for generalization of a local cohomology module, which we call a local cohomology module with respect to a pair of ideals (I,J), and study their various properties. Some vanishing and nonvanishing theorems are given for this generalized version of local cohomology. We also discuss its connection with the ordinary local cohomology.

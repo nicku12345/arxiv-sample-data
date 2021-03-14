@@ -1,0 +1,1 @@
+In this paper the Serre spectral sequence of Moerdijk and Svensson is extended from Bredon cohomology to RO(G)-graded cohomology for finite groups G. Special attention is paid to the case G=Z/2 where the spectral sequence is used to compute the cohomology of certain projective bundles and loop spaces.

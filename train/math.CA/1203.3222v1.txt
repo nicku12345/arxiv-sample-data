@@ -1,0 +1,1 @@
+We study discontinuous solutions of the monomial equation \frac{1}{n!}\Delta_h^nf(x)=f(h). In particular, we characterize the closure of their graph, \bar{G(f)}^{\mathbb{R}^2}, and we use the properties of these functions to present a new proof of the Darboux type theorem for polynomials and of Hamel's theorem for additive functions.

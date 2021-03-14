@@ -1,0 +1,1 @@
+We concretely construct a 2-categorically extended TQFT that extends the Reshetikhin-Turaev TQFT to cobordisms with corners. The source category will be a well chosen 2-category of decorated cobordisms with corners and the target bicategory will be the Kapranov-Voevodsky 2-vector spaces.

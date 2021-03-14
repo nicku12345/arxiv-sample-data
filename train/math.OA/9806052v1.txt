@@ -1,0 +1,1 @@
+In the algebra \Cal A=\Cal L(PSL(2,\Bbb Z)\otimes B(H)=\Cal L(F_N)\otimes B(H), N finite, there exists a bounded subnormal operator Z, such that \Cal A is the weak closure of linear span of the set {(Z^*)^n Z^m| n,m=0,1,2...}.

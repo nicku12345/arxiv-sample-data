@@ -1,0 +1,1 @@
+Let G be a finite group, A a finite abelian group. Each homomorphism \phi:G\to A\wr S_n induces a homomorphism \bar{\phi}:G\to A in a natural way. We show that as \phi is chosen randomly, then the distribution of \bar{\phi} is close to uniform. As application we prove a conjecture of T. M\"uller on the number of homomorphisms from a finite group into Weyl groups of type D_n.

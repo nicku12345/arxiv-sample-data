@@ -1,0 +1,1 @@
+We define the Drinfeld center of a monoidal category enriched over a braided monoidal category, and show that every modular tensor category can be realized in a canonical way as the Drinfeld center of a self-enriched monoidal category. We also give a generalization of this result for important applications in physics.

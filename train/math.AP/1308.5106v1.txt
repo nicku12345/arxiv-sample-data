@@ -1,0 +1,1 @@
+We consider second-order evolution equations in an abstract setting with damping and time delay and give sufficient conditions ensuring exponential stability. Our abstract framework is then applied to the wave equation, the elasticity system and the Petrovsky system.

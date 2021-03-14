@@ -1,0 +1,1 @@
+We give a simple proof of the Curtis' theorem: if A_\bullet is k-connected free simplicial abelian group, then L^n(A_\bullet) is an k+ \lceil \log_2 n \rceil-connected simplicial abelian group, where L^n is the functor of n-th Lie power. In the proof we do not use Curtis' decomposition of Lie powers. Instead of this we use the Chevalley-Eilenberg complex for the free Lie algebra.

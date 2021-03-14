@@ -1,0 +1,1 @@
+We develop a theory of extrapolation for weights that satisfy a generalized reverse H\"older inequality in the scale of Orlicz spaces. This extends previous results by Auscher and Martell [2] on limited range extrapolation. As an application, we show that a number of weighted norm inequalities for linear and bilinear operators can be proved using our extrapolation theorem.

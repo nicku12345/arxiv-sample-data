@@ -1,0 +1,1 @@
+We show that if 2k\geq n, then a k-connected weak n-category A can be ``delooped'' to a k+1-connected weak n+1-category Y with Hom_Y(y,y)\cong A. This is the essential part of the ``stabilization hypothesis'' of Baez and Dolan q-alg/9503002, math/9802029.

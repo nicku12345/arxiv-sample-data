@@ -1,0 +1,1 @@
+In this note, firstly we give an easy proof of the factorization of symmetric matrices (see [Mos] math-ph/0203023), then we use it to prove the well-known fact that the automorphism group of a non-degenerate symmetric bilinear form acts transitively on the locus of isotropic subspaces \Sigma_k.

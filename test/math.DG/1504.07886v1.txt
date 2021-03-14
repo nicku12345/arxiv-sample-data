@@ -1,0 +1,1 @@
+If (M^n, g) is a closed Riemannian manifold where every unit ball has volume at most \epsilon_n (a sufficiently small constant), then the (n-1)-dimensional Uryson width of (M^n, g) is at most 1.

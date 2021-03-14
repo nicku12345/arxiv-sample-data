@@ -1,0 +1,1 @@
+In this paper, we study the self-normalized Cram\a'{e}r-type moderate deviations for centered independent random variables X_1, X_2,... with 0<E |X_i|^3 <\infty. The main results refine Theorems 1.1 and 1.2 of Wang (2011), the Berry-Esseen bound (2.11) and Corollaries 2.2 and 2.3 of Jing, Shao and Wang (2003) under stronger moment conditions.

@@ -1,0 +1,1 @@
+We prove that any linear operator with kernel in a Gelfand-Shilov space is a composition of two operators with kernels in the same Gelfand-Shilov space. We also give links on numerical approximations for such compositions. We apply these composition rules to establish Schatten-von Neumann properties for such operators.

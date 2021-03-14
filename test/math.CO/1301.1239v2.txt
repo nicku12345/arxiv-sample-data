@@ -1,0 +1,1 @@
+Let A be an n by n random matrix with iid entries taken from the p-adic integers or Z/NZ. Then under mild non-degeneracy conditions the cokernel of A has a universal probability distribution. In particular, the p-part of an iid random matrix over the integers has cokernel distributed according to the Cohen-Lenstra measure up to an exponentially small error.

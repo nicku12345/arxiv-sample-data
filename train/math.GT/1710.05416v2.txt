@@ -1,0 +1,1 @@
+We study the algebraic structures of the virtual singular braid monoid, VSB_n, and the virtual singular pure braid monoid, VSP_n. The monoid VSB_n is the splittable extension of VSP_n by the symmetric group S_n. We also construct a representation of VSB_n.

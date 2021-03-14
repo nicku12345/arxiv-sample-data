@@ -1,0 +1,1 @@
+We construct a family of matrix ensembles that fits Anshelevich's regression postulates for "Meixner laws on matrices". We show that the Laplace transform of a general n by n Meixner matrix ensemble satisfies a system of partial differential equations which is explicitly solvable for n=2. We rely on these solutions to identify the six types of 2 by 2 Meixner matrix ensembles.

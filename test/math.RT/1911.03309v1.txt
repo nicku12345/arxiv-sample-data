@@ -1,0 +1,1 @@
+Let F be a global field, and G a connected reductive group defined over F. We prove that two endoscopic data of G which are equivalent almost everywhere, are equivalent. The result remains true for (non-twisted) endoscopy with character. We also give, for F global or local and G quasi-simple simply connected, a description of the elliptic endoscopic data of G.

@@ -1,0 +1,1 @@
+Let R be a Cohen-Macaulay local ring possessing a canonical module. We compare the initial and terminal Betti numbers of modules in a series of nontrivial cases. We pay special attention to the Betti numbers of the canonical module. Also, we compute \beta_0(\omega_{\frac{R}{I}}) in some cases, where I is a product of two ideals.

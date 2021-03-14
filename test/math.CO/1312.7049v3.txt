@@ -1,0 +1,1 @@
+It is shown that, for each d \geq 4, there exists an integral convex polytope \mathcal{P} of dimension d such that each of the coefficients of n, n^{2}, \ldots, n^{d-2} of its Ehrhart polynomial i(\mathcal{P},n) is negative.

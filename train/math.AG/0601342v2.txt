@@ -1,0 +1,1 @@
+Let X be a compact Riemann surface together with a finite set of marked points. We use Morse theoretic techniques to compute the Betti numbers of the parabolic U(2,1)-Higgs bundles moduli spaces over X. We give examples for one marked point showing that the Poincare polynomials depend on the system of weights of the parabolic bundle.

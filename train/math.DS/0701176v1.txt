@@ -1,0 +1,1 @@
+We give a combinatorial classification for the class of postcritically fixed Newton maps of polynomials and indicate potential for extensions.   As our main tool, we show that for a large class of Newton maps that includes all hyperbolic ones, every component of the basin of an attracting fixed point can be connected to infinity through a finite chain of such components.

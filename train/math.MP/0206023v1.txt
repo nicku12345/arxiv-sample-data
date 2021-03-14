@@ -1,0 +1,1 @@
+We study the Case sum rules, especially C_0, for general Jacobi matrices. We establish situations where the sum rule is valid. Applications include an extension of Shohat's theorem to cases with an infinite point spectrum and a proof that if \lim n (a_n -1)=\alpha and \lim nb_n =\beta exist and 2\alpha <\abs{\beta}, then the Szeg\H{o} condition fails.

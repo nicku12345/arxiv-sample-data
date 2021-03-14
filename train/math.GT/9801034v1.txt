@@ -1,0 +1,1 @@
+It is shown how Fiedler's `small state-sum' invariant for a braid can be calculated from the 2-variable Alexander polynomial of the link which consists of the closed braid together with the braid axis.

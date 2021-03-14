@@ -1,0 +1,1 @@
+We answer a variant of a question of Rodl and Voigt by showing that, for a given infinite cardinal lambda, there is a graph G of cardinality kappa =(2^lambda)^+ such that for any colouring of the edges of G with lambda colours, there is an induced copy of the kappa-tree in G in the set theoretic sense with all edges having the same colour.

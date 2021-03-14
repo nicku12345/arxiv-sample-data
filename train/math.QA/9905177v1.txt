@@ -1,0 +1,1 @@
+Let G be a Lie groupoid and L his Lie algebroid. We give a definition of the classical limit of a C^*-bundle and we use the tangent groupoid associated to G to show that the Poisson structure on L is the classical limit of a C^*-bundle.

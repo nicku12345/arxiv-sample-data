@@ -1,0 +1,1 @@
+Let (A, \mathfrak{m}) be a d-dimensional Cohen-Macaulay local ring with infinite residue field and let J be a minimal reduction of \mathfrak{m}. We show that \lambda(\mathfrak{m}^3/J\mathfrak{m}^2) is independent of J.

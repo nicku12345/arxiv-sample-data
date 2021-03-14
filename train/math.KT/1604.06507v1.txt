@@ -1,0 +1,1 @@
+We show that the action of the Lie algebra HH^1(A) of outer derivations of an associative algebra A on the Hochschild cohomology HH^*(A) of A given by the Gerstenhaber bracket can be computed in terms of an arbitrary projective resolution of A as an A-bimodule, without having recourse to comparison maps between the resolution and the bar resolution.

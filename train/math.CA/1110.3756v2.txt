@@ -1,0 +1,1 @@
+In connection with proving the A_2 conjecture in 2010, T. Hyt\"onen obtained a representation of general Cald\'eron-Zygmund operators in terms of simpler operators known as Haar shifts. In this note, we prove that the result is sharp in the sense that Haar shift representations of Hyt\"onen's type are only available for Calder\'on-Zygmund operators.

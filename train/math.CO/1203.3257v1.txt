@@ -1,0 +1,1 @@
+We give an excess theorem for spherical 2-designs. This theorem is a dual version of the spectral excess theorem for graphs, which gives a characterization of distance-regular graphs, among regular graphs in terms of the eigenvalues and the excess. Here we give a characterization of Q-polynomial association schemes among spherical 2-designs.

@@ -1,0 +1,1 @@
+The metric dimension of a graph G is the minimum size of a subset S of vertices of G such that all other vertices are uniquely determined by their distances to the vertices in S. In this paper we investigate the metric dimension for two different models of random forests, in each case obtaining normal limit distributions for this parameter.

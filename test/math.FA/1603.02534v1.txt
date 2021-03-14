@@ -1,0 +1,1 @@
+We prove that Burenkov's Extension Operator preserves Sobolev spaces built on general Morrey spaces, including classical Morrey spaces. The analysis concerns bounded and unbounded open sets with Lipschitz boundaries in the n-dimensional Euclidean space.

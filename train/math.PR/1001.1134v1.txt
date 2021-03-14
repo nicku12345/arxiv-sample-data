@@ -1,0 +1,1 @@
+Let {X_{t_1,t_2}: t_1,t_2 >= 0} be a two-parameter L\'evy process on R^d. We study basic properties of the one-parameter process {X_{x(t),y(t)}: t \in T} where x and y are, respectively, nondecreasing and nonincreasing nonnegative continuous functions on the interval T. We focus on and characterize the case where the process has stationary increments.

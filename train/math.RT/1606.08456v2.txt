@@ -1,0 +1,1 @@
+In 1998 Brou\'e, Malle and Rouquier conjectured that the Hecke algebra of a finite complex reflection group W is a free module over the algebra of parameters of rank |W|. We give an exposition of a proof of this conjecture in characteristic zero (and sufficiently large positive characteristic), due to I. Losev and I. Marin - G. Pfeiffer.

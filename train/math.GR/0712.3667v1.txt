@@ -1,0 +1,1 @@
+Let \gamma_i(G) and Z_i(G) denote the i-th terms of the lower and upper central series of a group G, respectively. P. Hall showed that if \gamma_{i+1}(G) is finite then the index |G:Z_{2i}(G)| is finite. We prove that the same result holds under the weaker hypothesis that |\gamma_{i+1}(G):\gamma_{i+1}(G)\cap Z_i(G)| is finite.

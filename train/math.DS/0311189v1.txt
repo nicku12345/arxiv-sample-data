@@ -1,0 +1,1 @@
+In this brief note, we prove stretched exponential upper bounds for the correlation functions of the absolutely continuous invariant measure of the skew product studied by Viana and Alves. This improves the superpolynomial bounds obtained by Alves, Luzzatto, and Pinheiro.

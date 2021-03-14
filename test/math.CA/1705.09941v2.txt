@@ -1,0 +1,1 @@
+The main results in this note concern the characterization of the length of continua 1 (Theorems 2.5) and the parametrization of continua with finite length (Theorem 4.4). Using these results we give two independent and relatively elementary proofs of Golab's semicontinuity theorem.

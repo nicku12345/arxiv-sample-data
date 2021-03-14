@@ -1,0 +1,1 @@
+We define a new kind of algebroid which fulfills a Leibniz rule, a Jacobi identity twisted by a 3-form H with values in the kernel of the anchor map, and the twist is closed under a naturally occurring exterior covariant derivative. We give examples and define three kinds of cohomology two via realization as Q-structure on graded manifolds. This classifies PQ3-manifolds.

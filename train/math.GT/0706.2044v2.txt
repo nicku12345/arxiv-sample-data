@@ -1,0 +1,1 @@
+We continue the comparison between lines of minima and Teichmueller geodesics begun in [CRS1]. We show that in the Teichmueller space of a surface S, lines of minima are quasi-geodesic with respect to the Teichmueller metric. The quasi-geodesic constants depend only on the topological type of S.

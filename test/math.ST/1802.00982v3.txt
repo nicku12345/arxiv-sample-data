@@ -1,0 +1,1 @@
+In this paper, we will construct the Malliavin derivative and the stochastic integral with respect to the Mixed fractional Brownian motion (mfbm) for H>1/2. As an application, we try to find the ruin probability with an unknown parameter driven by mfBm and the Least Square Estimator of the drift parameter in the mixed fractional Ornstein-Uhlenbeck process.

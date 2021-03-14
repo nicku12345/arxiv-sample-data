@@ -1,0 +1,1 @@
+We give a short proof of Theorem 1.2 (i) from the paper "The Alexander-Orbach conjecture holds in high dimensions" by G. Kozma and A. Nachmias. We show that the expected size of the intrinsic ball of radius r is at most Cr if the susceptibility exponent is at most 1. In particular, this result follows if the so-called triangle condition holds.

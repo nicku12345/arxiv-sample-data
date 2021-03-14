@@ -1,0 +1,1 @@
+We introduce functions for relative maximization in a general context: the beta and alpha applications. After a systematic study concerning regularities, we investigate how to approximate certain values of these functions using periodic orbits. We establish yet that the differential of an alpha application dictates the asymptotic behavior of the optimal trajectories.

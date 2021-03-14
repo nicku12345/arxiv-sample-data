@@ -1,0 +1,1 @@
+Schroedinger operator on the half-line with periodic background potential perturbed by a certain potential of Wigner-von Neumann type is considered. The asymptotics of generalized eigenvectors for the values of the spectral parameter from the upper half-plane and on the absolutely continuous spectrum is established. Weyl-Titchmarsh type formula for this operator is proven.

@@ -1,0 +1,1 @@
+Given an action of a compact group on a complex vector bundle, there is an induced action of the group on the associated Cuntz-Pimsner algebra. We determine conditions under which this action has finite Rokhlin dimension.

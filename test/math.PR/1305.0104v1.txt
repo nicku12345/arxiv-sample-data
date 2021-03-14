@@ -1,0 +1,1 @@
+We exploit a connection between distances in the infinite percolation cluster, when the parameter is close to one, and the discrete-time TASEP on \mathbb{Z}. This shows that when the parameter goes to one, large balls in the cluster are asymptotically shaped near the axes like arcs of parabola.

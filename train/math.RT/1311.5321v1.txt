@@ -1,0 +1,1 @@
+Let k be a local field of characteristic zero. Rankin-Selberg's local zeta integrals produce linear functionals on generic irreducible admissible smooth representations of GL_n(k)\times GL_r(k), with certain invariance properties. We show that up to scalar multiplication, these linear functionals are determined by the invariance properties.

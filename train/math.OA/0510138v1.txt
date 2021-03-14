@@ -1,0 +1,1 @@
+A map \phi:M_m(\bC)\to M_n(\bC) is decomposable if it is of the form \phi=\phi_1+\phi_2 where \phi_1 is a CP map while \phi_2 is a co-CP map. A partial characterization of decomposability for maps \phi: M_2(\bC) \to M_3(\bC) is given.

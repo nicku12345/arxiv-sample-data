@@ -1,0 +1,1 @@
+Let f : X \longrightarrow Y be a proper and local complete intersection morphism of schemes. We prove that \mathbb{R}f_{*} preserves perfect complexes, without any projectivity or noetherian assumptions. This provides a different proof of a theorem by Neeman and Lipman based on techniques from derived algebraic geometry to proceed a reduction to the noetherian case.

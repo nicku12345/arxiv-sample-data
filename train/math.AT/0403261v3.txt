@@ -1,0 +1,1 @@
+An explicit (-1)^n-quadratic form over Z[Z^{2n}] representing the surgery problem E_8 x T^{2n} is obtained, for use in the Bryant-Ferry-Mio-Weinberger construction of 2n-dimensional exotic homology manifolds.

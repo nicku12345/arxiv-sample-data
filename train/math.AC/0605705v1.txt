@@ -1,0 +1,1 @@
+In this short note, we introduce an Euler analogue of Wilson's theorem; a_1a_2... a_{\phi(n)}\equiv (-1)^{\phi(n)+1}~({\rm mod}~n) say, where {\rm gcd}(a_i,n)=1.

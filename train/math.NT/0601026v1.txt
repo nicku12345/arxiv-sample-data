@@ -1,0 +1,1 @@
+Let n>=3 be an odd integer. For any integer a prime to n, define the permutation gamma_{a,n} of {1,...,(n-1)/2} by gamma_{a,n}(x)=n-\dec{ax}_n if {ax}_n>=(n+1)/2, and {ax}_n if {ax}_n<=(n-1)/2, where {x}_n denotes the least nonnegative residue of x modulo n. In this note, we show that the sign of gamma_{a,n} coincides with the Jacobi symbol (a/n) if n=1 mod 4, and 1 if n=3 mod 4.

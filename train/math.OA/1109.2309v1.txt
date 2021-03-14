@@ -1,0 +1,1 @@
+Let A be a unital simple AH-algebra with stable rank one and real rank zero such that kx=0 for all x\in {\rm ker}\rho_A, the subgroup of infinitesmal elements in K_0(A), and for the same integer k\ge 1. We show that A has tracial rank zero and is isomorphic to a unital simple AH-algebra with no dimension growth.

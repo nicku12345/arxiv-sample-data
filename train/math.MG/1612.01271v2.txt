@@ -1,0 +1,1 @@
+We provide a short self-contained inductive proof of the famous generalized Euler-Poincar\'e Formula for the numbers of faces of a convex polytope in every dimension. Our proof is elementary and it does not use shellability of polytopes.

@@ -1,0 +1,1 @@
+Building on Kadeishvili's original theorem inducing A_\infty-algebra structures on the homology of dg-algebras, several directions of algorithmic research in A_\infty-algebras have been pursued.   In this paper we will survey work done on calculating explicit A_\infty-algebra structures from homotopy retractions; in group cohomology; and in persistent homology.

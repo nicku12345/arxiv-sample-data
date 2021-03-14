@@ -1,0 +1,1 @@
+An ARMA model can be fully determined based on either its spectral density, or its correlogram, i.e. a formula for computing the corresponding k th serial correlation for any integer k. In this article we describe how to find, given one of these three ways of specifying the model, the other two.

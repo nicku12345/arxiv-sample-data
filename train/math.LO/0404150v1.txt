@@ -1,0 +1,1 @@
+We establish the eventual periodicity of the spectrum of any monadic second-order formula where:   (i) all relation symbols, except equality, are unary, and   (ii) there is only one function symbol and that symbol is unary.

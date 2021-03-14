@@ -1,0 +1,1 @@
+Let X be a smooth projective complex variety, of dimension 3, whose Hodge numbers h^{3,0}(X), h^{1,0}(X) both vanish. Let f: X--> X be a birational map that induces an isomorphism on (dense) open subvarieties U,V of X. Then we show that the complex reduced varieties (X \ U), (X \ V) are piecewise isomorphic.

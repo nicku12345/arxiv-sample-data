@@ -1,0 +1,1 @@
+A standard bicovariant differential calculus on a quantum matrix space {\tt Mat}(m,n)_q is considered. The principal result of this work is in observing that the U_q\frak{s}(\frak{gl}_m\times \frak{gl}_n))_q is in fact a U_q\frak{sl}(m+n)-module differential algebra.

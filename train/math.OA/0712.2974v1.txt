@@ -1,0 +1,1 @@
+We address the question of a Berry Esseen type theorem for the speed of convergence in a multivariate free central limit theorem. For this, we estimate the difference between the operator-valued Cauchy transforms of the normalized partial sums in an operator-valued free central limit theorem and the Cauchy transform of the limiting operator-valued semicircular element.

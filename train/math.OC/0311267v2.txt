@@ -1,0 +1,1 @@
+We present new theorems characterizing robust Lyapunov functions and infinite horizon value functions in optimal control as unique viscosity solutions of partial differential equations. We use these results to further extend Zubov's method for representing domains of attraction in terms of partial differential equation solutions.

@@ -1,0 +1,1 @@
+On the space of homomorphisms from a Verma module to an indecomposable tilting module of the BGG-category O we define a natural filtration following Andersen and establish a formula expressing the dimensions of the filtration steps in terms of coefficients of Kazhdan-Lusztig polynomials.

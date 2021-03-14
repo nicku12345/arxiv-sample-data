@@ -1,0 +1,1 @@
+We establish an analogue of the Bochner theorem for first order operators of Dunkl type, that is we classify all such operators having polynomial solutions. Under natural conditions it is seen that the only families of orthogonal polynomials in this category are limits of little and big q-Jacobi polynomials as q=-1.

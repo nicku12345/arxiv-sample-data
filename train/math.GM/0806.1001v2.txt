@@ -1,0 +1,1 @@
+Any positive integer n other than 10 with abundancy index 9/5 must be a square with at least 6 distinct prime factors, the smallest being 5. Further, at least one of the prime factors must be congruent to 1 modulo 3 and appear with an exponent congruent to 2 modulo 6 in the prime power factorization of n.

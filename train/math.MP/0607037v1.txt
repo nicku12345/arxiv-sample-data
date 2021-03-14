@@ -1,0 +1,1 @@
+Exterior calculus and moving frames are used to describe curved elastic shells. The kinematics follow from the Lie-derivative on forms whereas the dynamics via stress-forms.

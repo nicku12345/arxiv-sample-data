@@ -1,0 +1,1 @@
+We compute the center and Azumaya locus in the simplest non-abelian examples of quantized multiplicative quiver varieties at a root of unity: quantum Weyl algebras of rank N, and quantum differential operators on the quantum group \mathrm{GL}_2. These examples illustrate in elementary terms much more general phenomena explored further in [Ganev-Jordan-Safronov 2019].

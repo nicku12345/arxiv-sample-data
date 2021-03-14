@@ -1,0 +1,1 @@
+A class of spherical functions is studied which can be viewed as the matrix generalization of Bessel functions. We derive a recursive structure for these functions. We show that they are only special cases of more general radial functions which also have a, properly generalized, recursive structure. Some explicit results are worked out.

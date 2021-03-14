@@ -1,0 +1,1 @@
+We prove that for a generic C^1-diffeomorphism existence of a homoclinic class with periodic saddles of different indices (dimension of the unstable bundle) implies existence an invariant ergodic non-hyperbolic (one of the Lyapunov exponents is equal to zero) measure of f.

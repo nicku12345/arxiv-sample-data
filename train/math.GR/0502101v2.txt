@@ -1,0 +1,1 @@
+A word hyperbolic group G is called GFERF if every quasiconvex subgroup coincides with the intersection of finite index subgroups containing it. We show that in any such group, the product of finitely many quasiconvex subgroups is closed in the profinite topology on G.

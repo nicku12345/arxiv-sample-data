@@ -1,0 +1,1 @@
+We prove a rank inequality on the instanton knot homology and the Khovanov homology of a link in S^3. The key step of the proof is to construct a spectral sequence relating Baldwin-Levine-Sarkar's pointed Khovanov homology to a singular instanton invariant for pointed links.

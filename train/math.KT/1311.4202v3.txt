@@ -1,0 +1,1 @@
+Assuming local one-sided units exist, I give an elementary proof of Wodzicki excision for cyclic homology. The proof is also constructive and provides an explicit inverse excision map. As far as I know, the latter is new.

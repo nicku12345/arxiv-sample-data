@@ -1,0 +1,1 @@
+We show that the Hilbert-Kunz multiplicity of a d-dimensional nonregular complete intersection over the algebraic closure of F_p, p>2 prime, is bounded by below by the Hilbert-Kunz multiplicity of the hypersurface \sum _{i=0}^{d} x_i^2=0, answering positively a conjecture of Watanabe and Yoshida in the case of complete intersections.

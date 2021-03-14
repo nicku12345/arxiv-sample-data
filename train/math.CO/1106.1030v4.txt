@@ -1,0 +1,1 @@
+We use Razborov's flag algebra method to show a new asymptotic lower bound for the minimal density m_4 of monochromatic K_4's in any 2-coloring of the edges of the complete graph K_n on n vertices. The hitherto best known lower bound was obtained by Giraud, who proved that m_4>1/46, whereas the best known upper bound by Thomason states that m_4<1/33. We can show that m_4>1/35.

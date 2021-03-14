@@ -1,0 +1,1 @@
+For given a graph H, a graphic sequence \pi=(d_1,d_2,...,d_n) is said to be potentially H-graphic if there exists a realization of \pi containing H as a subgraph. In this paper, we characterize the potentially K_6-C_5 -graphic sequences.

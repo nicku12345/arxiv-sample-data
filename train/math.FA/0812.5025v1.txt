@@ -1,0 +1,1 @@
+In this paper, we obtain the general solution and the generalized Hyers-Ulam Rassias stability of the functional equation f(2x+y)+f(2x-y)=4(f(x+y)+f(x-y))-{3/7}(f(2y)-2f(y))+2f(2x)-8f(x).

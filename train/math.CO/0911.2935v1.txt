@@ -1,0 +1,1 @@
+Based on Bona's condition for the balanced property of the number of cycles of permutations, we give a general criterion for the balanced property in terms of the generating function of a statistic. We show that the q-derangement numbers and the q-Catalan numbers satisfy the balanced property.

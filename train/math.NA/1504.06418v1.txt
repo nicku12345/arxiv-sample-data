@@ -1,0 +1,1 @@
+It is shown that the h-adaptive mixed finite element method for the discretization of eigenvalue clusters of the Laplace operator produces optimal convergence rates in terms of nonlinear approximation classes. The results are valid for the typical mixed spaces of Raviart-Thomas or Brezzi-Douglas-Marini type with arbitrary fixed polynomial degree in two and three space dimensions.

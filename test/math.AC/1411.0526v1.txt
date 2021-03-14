@@ -1,0 +1,1 @@
+We look at spaces of infinite-by-infinite matrices, and consider closed subsets that are stable under simultaneous row and column operations. We prove that up to symmetry, any of these closed subsets is defined by finitely many equations.

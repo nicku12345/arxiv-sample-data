@@ -1,0 +1,1 @@
+Let G be a locally compact group, and let B(G) denote its Fourier--Stieltjes algebra. We show that B(G) is Connes-amenable if and only if G is almost abelian.

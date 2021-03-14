@@ -1,0 +1,1 @@
+In this work we use intersection of different pseudo-orbits obtained by interval extensions to reduce the bounds of the exact solution provided by the toolbox Intlab. The method is applied on the logistic map.

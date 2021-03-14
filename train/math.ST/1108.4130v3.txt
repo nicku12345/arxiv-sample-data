@@ -1,0 +1,1 @@
+This is a supplementary material to the paper "Online Expectation Maximization based algorithms for inference in hidden Markov models". It contains further technical derivations and additional simulation results.

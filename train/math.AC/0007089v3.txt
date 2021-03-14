@@ -1,0 +1,1 @@
+We give conjectures on the "asymptotic" behaviour of the Hilbert series of (quotients by) generic ideals in the exterior algebra, as the number of variables tend to infinity. Our conjectures are supported by extensive computer calculations.

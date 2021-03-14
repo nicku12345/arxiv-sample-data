@@ -1,0 +1,1 @@
+A natural topology on the set of left orderings on free abelian groups and free groups F_n, n>1 has studied in [1]. It has been proven already that in the abelian case the resulted topological space is a Cantor set. There was a conjecture: this is also true for the free group F_n with n>1 generators. We point out the article dealing with equivalent questions. The answer is "yes".

@@ -1,0 +1,1 @@
+Using Taubes' periodic ends theorem, Auckly gave examples of toroidal and hyperbolic irreducible integer homology spheres which are not surgery on a knot in the three-sphere. We give an obstruction to a homology sphere being surgery on a knot coming from Heegaard Floer homology. This is used to construct infinitely many small Seifert fibered examples.

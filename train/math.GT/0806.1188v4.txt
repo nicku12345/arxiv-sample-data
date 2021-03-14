@@ -1,0 +1,1 @@
+We give new information about the geometry of closed, orientable hyperbolic 3-manifolds with 4-free fundamental group. As an application we show that such a manifold has volume greater than 3.44. This is in turn used to show that if M is a closed orientable hyperbolic 3-manifold such that vol M < 3.44, then H_1(M;Z/2Z) has dimension at most 7.

@@ -1,0 +1,1 @@
+It is proved that nonparametric autoregression is asymptotically equivalent in the sense of Le Cam's deficiency distance to nonparametric regression with random design as well as with regular nonrandom design.

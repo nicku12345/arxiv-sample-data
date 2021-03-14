@@ -1,0 +1,1 @@
+Starting from the quantum group SL_q(2,C), we construct operator invariants of 3-cobordisms with spin structure, satisfying the requirements of a topological quantum field theory and refining the Reshetikhin--Turaev and Turaev--Viro models. We establish the relationship between these two refined models.

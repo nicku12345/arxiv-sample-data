@@ -1,0 +1,1 @@
+Let (M, g, omega) be a compact, almost-Kaehler Einstein 4-manifold of negative star-scalar curvature. Then (M, omega) is a MINIMAL symplectic 4-manifold of general type. In particular, M cannot be differentiably decomposed as a connected sum N # (-CP_2).

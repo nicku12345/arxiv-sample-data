@@ -1,0 +1,1 @@
+Here we deal with the logic of [GuSh 533], which tries to capture polynomial time (for finite models). There it is proved that the logic cannot say much on models with equality only. Here we prove that it cannot say much on models for which we expect it cannot say much, like random enough graphs. This is the result of having a general criterion.

@@ -1,0 +1,1 @@
+In this work, we studied various properties of arithmetic function \tilde{\varphi}, where \tilde{\varphi}(n)=|\{m\in \mathbb{N} | 1\le m\le n, (m,n)=1, \mbox{m is not a prime}\}|.

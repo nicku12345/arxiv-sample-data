@@ -1,0 +1,1 @@
+We show connection formulae of local solutions of the Ramanujan equation between the origin and the infinity. These solutions are given by the Ramanujan function, the q-Airy function and the divergent basic hypergeometric series {}_2\varphi_0(0,0;-;q,x). We use two different q-Borel-Laplace transformations to obtain our connection formulae.

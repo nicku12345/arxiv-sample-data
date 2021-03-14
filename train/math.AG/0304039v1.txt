@@ -1,0 +1,1 @@
+Let (S,0) be a rational complex surface singularity with reduced fundamental cycle, also known as a {\em minimal} singularity. Using a fundamental result by M. Spivakovsky, we explain how to get a minimal resolution of the discriminant curve for a generic projection of (S,0) onto (\C^2,0) directly from the resolution graph of (S,0).

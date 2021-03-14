@@ -1,0 +1,1 @@
+We show that any directed colimit of acessible categories and accessible full embeddings is accessible and, assuming the existence of arbitrarily large strongly compact cardinals, any directed colimit of acessible categories and accessible embeddings is accessible.

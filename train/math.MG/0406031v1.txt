@@ -1,0 +1,1 @@
+We provide upper and lower bounds on the least-perimeter way to enclose and separate n regions of equal area in the plane. Along the way, inside the hexagonal honeycomb, we provide minimizers for each n .

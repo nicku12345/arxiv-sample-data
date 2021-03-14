@@ -1,0 +1,1 @@
+This paper determines what structure is needed for internal homs in a monoidal category C to be liftable to the category C^G of Eilenberg-Moore coalgebras for a monoidal comonad G on C. We apply this to lift star-autonomy with the view to recasting the definition of quantum groupoid.

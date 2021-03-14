@@ -1,0 +1,1 @@
+We use factorized L operator to construct an integrable model with open boundary conditions. By taking trigonometic limit(\tau \to \sqrt{-1}\infty) and scaling limit(\omega \to 0), we get a Hamiltonian of a classical integrable system. It shows that this integrable system is similar to those found by Calogero et al.

@@ -1,0 +1,1 @@
+Relying of properties of the inductive tensor product, we construct cyclic type homology theories for certain nuclear algebras. In this context we establish continuity theorems. We compute the periodic cyclic homology of the Schwartz algebra of p-adic GL(n) in terms of compactly supported de Rham cohomology of the tempered dual of GL(n).

@@ -1,0 +1,1 @@
+The entropy of an orthogonal matrix is defined. It provides a new interpretation of Hadamard matrices as those that saturate the bound for entropy.It appears to be a useful Morse function on the group manifold. It has sharp maxima and other saddle points. The matrices corresponding to the maxima for 3 and 5 dimensions are presented. They are integer matrices (upto a rescaling).

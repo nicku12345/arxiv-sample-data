@@ -1,0 +1,1 @@
+For quasi-linear elliptic equations we detect relevant properties which remain invariant under the action of a suitable class of diffeomorphisms. This yields a connection between existence theories for equations with degenerate and non-degenerate coerciveness.

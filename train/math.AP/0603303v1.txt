@@ -1,0 +1,1 @@
+For a rather general class of equations of Kadomtsev-Petviashvili (KP) type, we prove that the zero-mass (in x) constraint is satisfied at any non zero time even if it is not satisfied at initial time zero. Our results are based on a precise analysis of the fundamental solution of the linear part and its anti x-derivative.

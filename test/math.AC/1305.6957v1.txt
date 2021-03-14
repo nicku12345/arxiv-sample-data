@@ -1,0 +1,1 @@
+In this paper we introduce the open Waring rank of a form of degree d in n variables and prove the that this rank in bounded from above by \binom{n+d-2}{d-1} - \binom{n+d-6}{d-3} whenever n, d >= 3. This proves the same upper bound for the classical Waring rank of a form, improving the result of [BBS] and giving, as far as we know, the best upper bound known.

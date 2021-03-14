@@ -1,0 +1,1 @@
+We describe an algorithm to compute the essentially different factorizations of a given image primitive integer-valued polynomial f(X)=g(X)/d\in\Q[X], where g\in\Z[X] and d\in\N is square-free, assuming that the factorization of g(X) in \Z[X] and d in \Z is known. We translate this problem into a combinatorial one.

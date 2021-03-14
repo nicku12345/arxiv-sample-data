@@ -1,0 +1,1 @@
+We present contraction prescription of the quantum groups: from SU_q(2) to E_{\kappa}(2). Our strategy is different then one chosen in ref. [P. Zaugg, J. Phys. A {\bf 28} (1995) 2589]. We provide explicite prescription for contraction of a, b, c and d generators of SL_q(2) and arrive at ^* Hopf algebra E_{\kappa}(2).

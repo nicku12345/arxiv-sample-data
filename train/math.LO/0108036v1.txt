@@ -1,0 +1,1 @@
+A thorough investigation of the foundations of paraconsistent logics. Relations between logical principles are formally studied, a novel notion of consistency is introduced, the logics of formal inconsistency, and the subclasses of C-systems and dC-systems are defined and studied. An enormous variety of paraconsistent logics in the literature is shown to constitute C-systems.

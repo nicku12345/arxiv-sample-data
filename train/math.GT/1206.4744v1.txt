@@ -1,0 +1,1 @@
+We study simple branched coverings of degree d of the 2- and 3- dimensional sphere branched over oriented links. We demonstrate how to use braid charts to develop embeddings of these into S^k \times D^2 for k=2,3 when d=2,3. This is an initial part of our study and represents the manuscript submitted to the RIMS workshop at Intelligence of Low Dimensional Topology.

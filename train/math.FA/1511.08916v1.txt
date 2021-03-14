@@ -1,0 +1,1 @@
+In their 2008 paper Gau and Wu conjectured that the numerical range of a 4-by-4 nilpotent matrix has at most two flat portions on its boundary. We prove this conjecture, establishing along the way some additional facts of independent interest. In particular, a full description of the case in which these two portions indeed materialize and are parallel to each other is included.

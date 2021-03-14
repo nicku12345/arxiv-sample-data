@@ -1,0 +1,1 @@
+In this paper we complete the proof of Ryba's modular moonshine conjectures. We do this by applying Hodge theory to the cohomology of the monster Lie algebra over the ring of p-adic integers in order to calculate the Tate cohomology groups of elements of the monster acting on the monster vertex algebra.

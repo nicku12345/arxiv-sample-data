@@ -1,0 +1,1 @@
+We derive the asymptotic behavior of the occupation measure of the unit ball, for super-Brownian motion started from the Dirac measure at a distant point x and conditioned to hit the unit ball. In the critical dimension d=4, we obtain a limiting exponential distribution for the ratio of the occupation measure over log(|x|).

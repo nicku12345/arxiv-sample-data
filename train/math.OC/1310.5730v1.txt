@@ -1,0 +1,1 @@
+A distributed optimal control problem with final observation for a three- dimensional Lagrange averaged Navier-Stokes-? model is studied. The solvability of the optimal control problem is proved and the first-order optimality conditions are estab- lished. Moreover, by using the Lagrange multipliers method, an optimality system in a weak and a strong form is derived.

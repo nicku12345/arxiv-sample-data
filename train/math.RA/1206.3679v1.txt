@@ -1,0 +1,1 @@
+A lattice L is slim if it is finite and the set of its join-irreducible elements contains no three-element antichain. We prove that there exists a positive constant C such that, up to similarity, the number of planar diagrams of these lattices of size n is asymptotically C times 2 to the n.

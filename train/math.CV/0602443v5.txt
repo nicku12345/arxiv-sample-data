@@ -1,0 +1,1 @@
+Let \TT be a torus. We prove that all subsets of \TT with finitely many boundary components (none of them being points) embed properly into \CC^2.

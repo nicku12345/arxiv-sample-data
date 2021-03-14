@@ -1,0 +1,1 @@
+We give sharp estimate for the free energy of directed polymers in random environment in dimension 1+1. This estimate was known for a Gaussian environment, we extend it to the case where the law of the environment is infinitely divisible.

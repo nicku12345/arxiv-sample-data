@@ -1,0 +1,1 @@
+Let P be an arbitrary partially ordered set, R a commutative ring with identity and FI(P,R) the finitary incidence algebra of P over R. Under some natural assumption on R, we prove that each Lie-type derivation of FI(P,R) is proper.

@@ -1,0 +1,1 @@
+Let W be a Weyl group. We define a new basis for the Grothendieck group of representations of W. This basis contains on the one hand the special representations of W and on the other hand the representations carried by the left cells of W. We show that the representations in the new basis have a certain bipositivity property.

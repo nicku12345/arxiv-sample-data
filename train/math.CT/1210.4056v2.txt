@@ -1,0 +1,1 @@
+This paper introduces the notion of weakly globular double categories, a particular class of strict double categories, as a way to model weak 2-categories; it explores its use in defining a double category of fractions, and shows that the sub-2-category of groupoidal weakly globular double categories forms an algebraic model of homotopy 2-types.

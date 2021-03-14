@@ -1,0 +1,1 @@
+We give sharp bounds for the reliability measure of a discrete r.v. defined on {0, ..., n}, conditionally on the knowledge of the first three moments of the r.v. The present work is as an extension of the results given in [Di Cecco, Stat. Prob. Lett., 81(2011), 411-416].

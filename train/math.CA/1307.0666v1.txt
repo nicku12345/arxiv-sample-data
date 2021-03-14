@@ -1,0 +1,1 @@
+The paper deals with the stability of the fundamental equation of information of multiplicative type. It will be proved that the equation in question is stable in the sense of Hyers and Ulam under some assumptions. This result will be applied to prove the stability of a system of functional equations that characterizes the recursive measures of information of multiplicative type.

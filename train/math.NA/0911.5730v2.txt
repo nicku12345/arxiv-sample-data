@@ -1,0 +1,1 @@
+We combine the advantages of the adaptive and multilevel approaches, proposed previously by the authors, to propose a new method that preserves both, parallel scalability with increasing number of subdomains and excellent convergence properties. Performance of the method is illustrated on a two-dimensional problem of linear elasticity.

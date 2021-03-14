@@ -1,0 +1,1 @@
+We propose a new algorithm to compute numerically the distribution function of the sum of d dependent, non-negative random variables with given joint distribution.

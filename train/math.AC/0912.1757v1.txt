@@ -1,0 +1,1 @@
+Let R be a commutative ring with identity. For an R-module M, the notion of strongly prime submodule of M is defined. It is shown that this notion of prime submodule inherits most of the essential properties of the usual notion of prime ideal. In particular, the Generalized Principal Ideal Theorem is extended to modules.

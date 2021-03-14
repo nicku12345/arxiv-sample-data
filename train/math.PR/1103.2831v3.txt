@@ -1,0 +1,1 @@
+The paper studies the rate of convergence of the weak Euler approximation for solutions to SDEs driven by Levy processes, with Hoelder-continuous coefficients. It investigates the dependence of the rate on the regularity of coefficients and driving processes. The equation considered has a non-degenerate main part driven by a spherically-symmetric stable process.

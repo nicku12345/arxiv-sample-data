@@ -1,0 +1,1 @@
+We define the notion of fundamental group of an algebraic stack, prove a comparison theorem between the fundamental group of a stack over the complex numbers and that of the associated analytic orbifold, show that this notion coincides with that defined with simplicial schemes by Oda and finally prove some short exact sequences involving these groups.

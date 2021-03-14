@@ -1,0 +1,1 @@
+We provide an analogue of Wedderburn's factorization method for central polynomials with coefficients in an octonion division algebra, and present an algorithm for fully factoring polynomials of degree n with n conjugacy classes of roots, counting multiplicities.

@@ -1,0 +1,1 @@
+Action of the graded Grothendieck-Teichmueller (GT) group on a resolution of the operad of Gerstenhaber algebras (GA) is defined. It is shown that the induced Lie algebra action is homotopically non-trivial (i.e. the induced map from the Lie algebra of the graded GT group to the deformation complex of the operad of GA is injective).

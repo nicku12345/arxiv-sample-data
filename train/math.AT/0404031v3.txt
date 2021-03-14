@@ -1,0 +1,1 @@
+We characterize Hopf spaces with finitely generated cohomology as an algebra over the Steenrod algebra. We "deconstruct" the original space into an H-space Y with finite mod p cohomology and a finite number of p-torsion Eilenberg-Mac Lane spaces. We give a precise description of homotopy commutative H-spaces in this setting.

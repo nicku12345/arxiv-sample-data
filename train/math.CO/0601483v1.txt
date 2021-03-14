@@ -1,0 +1,1 @@
+David Little developed a combinatorial algorithm to study the Schur-positivity of Stanley symmetric functions and the Lascoux-Sch\"{u}tzenberger tree. We generalize this algorithm to affine Stanley symmetric functions.

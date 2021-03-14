@@ -1,0 +1,1 @@
+We present a very simple example of a theorem with constructive and non-constructive proofs: the equation c^2 x^2 - (c^2 + c)x + c = 0 has a solution.

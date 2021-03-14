@@ -1,0 +1,1 @@
+In this paper we show the convergence of the long-term return t^{-\mu}\int_0^tX(s)\d s for some \mu\geq1, where X is the short-term interest rate which follows an extension of Cox-Ingersoll-Ross type model with jumps and memory, and, as an application, we also investigate the corresponding behavior of two-factor Cox-Ingersoll-Ross model with jumps and memory

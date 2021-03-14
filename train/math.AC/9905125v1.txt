@@ -1,0 +1,1 @@
+We give a necessary and sufficient condition on a homogeneous polynomial ideal for its Taylor complex to be exact. Then we give a combinatorial construction of a minimal resolution for ideals satisfying the above condition (in particular for monomial ideals).

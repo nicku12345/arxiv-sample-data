@@ -1,0 +1,1 @@
+Let \mathfrak{a} be an ideal of a commutative Noetherian ring R and M a finitely generated R-module. In this paper we proved that if \operatorname{Supp}\mathfrak{F}_\mathfrak{a}^i(M) is finite for all i<t, then so is \operatorname{Ass}(\mathfrak{F}_{\mathfrak{a}}^t(M)).

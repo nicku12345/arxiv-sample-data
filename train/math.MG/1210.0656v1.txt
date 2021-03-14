@@ -1,0 +1,1 @@
+Let (X,d,p) be a metric space with a metric d and a marked point p. We define the set of w-strongly porous at 0 subsets of [0,\infty) and prove that the distance set {d(x,p): x\in X} is w-strongly porous at 0 if and only if every pretangent space to X at p is bounded.

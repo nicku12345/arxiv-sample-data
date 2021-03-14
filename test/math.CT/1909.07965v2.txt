@@ -1,0 +1,1 @@
+We prove that for any homotopy type X, there is an abstract elementary class \mathcal{C}, with joint embedding, almagamation and no maximal models such that the classifying space realizes the homotopy type X. We provide a few explicit examples.

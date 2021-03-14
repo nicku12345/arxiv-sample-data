@@ -1,0 +1,1 @@
+We prove the consistency of the theory ZFC + there is a strongly compact cardinal from the existence of a cardinal preserving embedding from the universe into an inner model. The proof almost shows that under SCH, every cardinal preserving embedding preserves the cofinality and continuum functions.

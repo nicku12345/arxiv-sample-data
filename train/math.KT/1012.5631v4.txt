@@ -1,0 +1,1 @@
+We investigate the relations in Galois groups of maximal p-extensions of fields, the structure of their natural filtrations, and their relationship with the Bloch-Kato conjecture proved by Rost and Voevodsky with Weibel's patch. Our main focus is on the third degree, but we provide examples for all degrees.

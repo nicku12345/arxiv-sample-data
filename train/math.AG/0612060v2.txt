@@ -1,0 +1,1 @@
+Notes for some talks given at the seminar on characteristic classes at NTNU in autumn 2006. In the paper a proof of the existence of a Chern-character from complex K-theory to any cohomology theory with values in graded Q-algebras is given. The Chern-character respects the Adams and Steenrod operations.

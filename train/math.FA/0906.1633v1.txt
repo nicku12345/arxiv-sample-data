@@ -1,0 +1,1 @@
+In this paper we give a description of separating or disjointness preserving linear bijections on spaces of vector-valued absolutely continuous functions defined on compact subsets of the real line. We obtain that they are continuous and biseparating in the finite-dimensional case. The infinite-dimensional case is also studied.

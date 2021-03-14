@@ -1,0 +1,1 @@
+In this note we describe conditions under which the algebras for a monad on a presheaf category equipped with some additional structure are fibrant objects in a model structure. We also prove that when these conditions are satisfied the resulting model structure is, in a suitable sense, the smallest model structure for which the units of the monad give a fibrant replacement.

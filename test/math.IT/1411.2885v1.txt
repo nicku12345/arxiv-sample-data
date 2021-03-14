@@ -1,0 +1,1 @@
+The paper presents a method to generate some families of linear codes over finite fields of characteristics greater than two in the widest class due to the size of Grassmann manifold, i.e. when the dimension is equal to codimension. Our method applies some simple embedding of projective line into the Grassman manifold.

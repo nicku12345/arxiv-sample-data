@@ -1,0 +1,1 @@
+Let G be a semisimple Lie group with a maximal torus T. We present an explicit formula for the Borel transgression \tau :H^{1}(T)\rightarrow H^{2}(G/T) of the fibration G\rightarrow G/T. This formula corrects an error in the paper \cite{K}, and has been applied to construct the integral cohomology rings of compact Lie groups in the sequel works \cite{D,DZ2}.

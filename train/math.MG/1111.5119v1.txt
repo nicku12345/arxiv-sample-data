@@ -1,0 +1,1 @@
+We study optimal transportation with the quadratic cost function in geodesic metric spaces satisfying suitable non-branching assumptions. We introduce and study the notions of slope along curves and along geodesics and we apply the latter to prove suitable generalizations of Brenier's theorem of existence of optimal maps.

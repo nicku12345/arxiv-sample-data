@@ -1,0 +1,1 @@
+We show, how the combination of the Cayley-Hamilton theorem and a certain companion matrix construction can be used to derive Z2-graded trace identities in M_{n}(E).

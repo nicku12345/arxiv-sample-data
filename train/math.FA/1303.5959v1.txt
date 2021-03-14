@@ -1,0 +1,1 @@
+It has been shown that Paley-Wiener functions may be recovered from their values on a complete interpolating sequence. This paper explores the same phenomenon, and gives a sufficient condition on a function \phi(x), called an interpolator, so that scattered translates of this function may be used to interpolate and recover any given Paley-Wiener function.

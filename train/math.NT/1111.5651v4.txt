@@ -1,0 +1,1 @@
+Let K be a number field and d_K the absolute value of the discrimant of K/\mathbb{Q}. We consider the root discriminant d_L^{\frac{1}{[L:\mathbb{Q}]}} of extensions L/K. We show that for any N>0 and any positive integer n, the set of length n solvable extensions of K with root discriminant less than N is finite. The result is motivated by the study of class field towers.

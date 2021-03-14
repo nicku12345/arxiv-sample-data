@@ -1,0 +1,1 @@
+The concept of uniform tangent sets was introduced and discussed in [3 - Krastanov, Ribarska, SIAM J. Control Optim., 55(3), 2017]. This study is devoted to their further investigation and to generalization of the abstract Lagrange multiplier rule from [3].

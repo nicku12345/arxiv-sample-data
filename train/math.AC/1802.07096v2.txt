@@ -1,0 +1,1 @@
+We introduce a generating function associated to the homogeneous generators of a graded algebra that measures how far is this algebra from being finitely generated. For the case of some algebras of Frobenius endomorphisms we describe this generating function explicitly as a rational function.

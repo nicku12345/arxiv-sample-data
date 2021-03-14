@@ -1,0 +1,1 @@
+In this article we give the meaning of the determinant for 3D matrices with elements from a field F, and the meaning of 3D inverse matrix. Based on my previous work titled '3D Matrix Rings', we want to constructed the 'general linear group of degree n for 3D matrices, which i mark with GL(n,n,p;F)' for 3D-matrices, analog to 'general linear group of degree n' known.

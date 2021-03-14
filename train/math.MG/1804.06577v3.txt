@@ -1,0 +1,1 @@
+We show by construction that every rhombic lattice \Gamma in \mathbb{R}^{2} has a fundamental domain whose symmetry group contains the point group of \Gamma as a subgroup of index 2. This solves the last open case of a question raised in [3] on fundamental domains for planar lattices whose symmetry groups properly contain the point groups of the lattices.

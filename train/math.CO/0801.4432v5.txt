@@ -1,0 +1,1 @@
+We give a new proof for a theorem of Ehrhart regarding the quasi-polynomiality of the function that counts the number of integer points in the integral dilates of a rational polytope. The proof involves a geometric bijection, inclusion-exclusion, and recurrence relations, and we also prove Ehrhart reciprocity using these methods.

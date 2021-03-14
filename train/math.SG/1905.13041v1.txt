@@ -1,0 +1,1 @@
+Motivated by work of Fine and Panov, and of Lindsay and Panov, we prove that every closed symplectic complexity one space that is positive (e.g. positive monotone) enjoys topological properties that Fano varieties with a complexity one holomorphic torus action possess. In particular, such spaces are simply connected, have Todd genus equal to one and vanishing odd Betti numbers.

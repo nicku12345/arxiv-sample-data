@@ -1,0 +1,1 @@
+Using the lookdown construction of Donnelly and Kurtz we prove that, at any fixed positive time, the \Lambda-Fleming-Viot process with underlying Brownian motion has a compact support provided that the corresponding \Lambda-coalescent comes down from infinity not too slowly. We also find both upper bound and lower bound on the Hausdorff dimension for the support.

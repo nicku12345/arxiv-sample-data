@@ -1,0 +1,1 @@
+The Hausmann-Weinberger invariant of a group G is the minimal Euler characteristic of a closed orientable 4-manifold M with fundamental group G. We compute this invariant for finitely generated free abelian groups and estimate the invariant for all finitely generated abelian groups.

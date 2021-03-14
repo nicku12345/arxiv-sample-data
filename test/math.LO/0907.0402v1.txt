@@ -1,0 +1,1 @@
+We reformulate, in the context of continuous logic, an oscillation theorem originally proved by G. Hjorth. We give a proof of the theorem in that setting which is similar to, but simpler than, Hjorth's original one. The point of view presented here clarifies the relation between Hjorth's theorem and first-order logic.

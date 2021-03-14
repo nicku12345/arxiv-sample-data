@@ -1,0 +1,1 @@
+In this paper, we realize high-level versions of Jacobi's derivative formula to all the rational characteristics corresponding to level k \,\,(k=3,4,5,6). For this purpose, we propose the method to obtain derivative formulas by means of the residue theorem. We believe that this method can be also applied to all the rational characteristics corresponding to level k\ge 7.

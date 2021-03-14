@@ -1,0 +1,1 @@
+Let G be a classical algebraic group, X a maximal rank reductive subgroup and P a parabolic subgroup. This paper classifies when X\G/P is finite. Finiteness is proven using geometric arguments about the action of X on subspaces of the natural module for G. Infiniteness is proven using a dimension criterion which involves root systems.

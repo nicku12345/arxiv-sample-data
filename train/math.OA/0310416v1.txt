@@ -1,0 +1,1 @@
+We show how to modify any Bratteli diagram E for an AF-algebra A to obtain a Bratteli diagram KE for A whose graph algebra C^*(KE) contains both A and C^*(E) as full corners.

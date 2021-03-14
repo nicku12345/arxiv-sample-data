@@ -1,0 +1,1 @@
+The analogue of P\'olya's conjecture is shown to fail for the fractional Laplacian (-Delta)^{alpha/2} on an interval in 1-dimension, whenever 0 < alpha < 2. The failure is total: every eigenvalue lies below the corresponding term of the Weyl asymptotic.   In 2-dimensions, the fractional P\'olya conjecture fails already for the first eigenvalue, when 0 < alpha < 0.984.

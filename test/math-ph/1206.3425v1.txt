@@ -1,0 +1,1 @@
+This note deals with the long-time behavior of the solution to the spatially homogeneous Boltzmann equation for Maxwellian molecules, when the initial datum belongs to a suitable neighborhood of the Maxwellian equilibrium. In particulary, it contains a quantification of the rate of exponential convergence, obtained by simple arguments.

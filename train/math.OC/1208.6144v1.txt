@@ -1,0 +1,1 @@
+In this note, it is shown by counterexamples, theoretical analysis and simulation tests that the two types of sliding-mode controllers presented in the paper [1] fail to solve the stabilization problem of a class of under-actuated mechanical systems.

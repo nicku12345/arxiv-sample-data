@@ -1,0 +1,1 @@
+We prove new upper bounds for the length of laws that hold for all groups of size at most n -- improving on previous results of Bou-Rabee and Kassabov-Matucci. The methods make use of the classification of finite simple groups. Stronger bounds are proved in case the groups are assumed to be nilpotent or solvable.

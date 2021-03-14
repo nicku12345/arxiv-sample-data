@@ -1,0 +1,1 @@
+Given an m-component link L in S^3 (m \ge 2), we construct a family of links which are link homotopic, but not link isotopic, to L. Every proper sublink of such a link is link isotopic to the corresponding sublink of L. Moreover, if L is an unlink then there exist links that in addition to the above properties have all Milnor invariants zero.

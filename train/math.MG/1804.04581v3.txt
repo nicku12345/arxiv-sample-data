@@ -1,0 +1,1 @@
+For sequences of warped product metrics on a 3-torus satisfying the scalar curvature bound R_j \geq -\frac{1}{j}, uniform upper volume and diameter bounds, and a uniform lower area bound on the smallest minimal surface, we find a subsequence which converges in both the Gromov-Hausdorff and the Sormani-Wenger Intrinsic Flat sense to a flat 3-torus.

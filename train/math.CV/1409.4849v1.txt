@@ -1,0 +1,1 @@
+Oberchkoff's inequality says that a polynomial of degree d with non-negative coefficients has at most 2ad/pi zeros in the angle {|arg z|<a}. We improve and generalize this inequality, and study the case of equality.

@@ -1,0 +1,1 @@
+We define the notion of the orbit group of a quandle via its connectivity and compute the orbit groups for some basic quandles. We also show that the orbit group counts the number of orbits of certain quandles.

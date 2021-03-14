@@ -1,0 +1,1 @@
+Building on recent work of Philip Welch, we prove that (lightface) \Sigma^0_3 determinacy is equivalent to the existence of a wellfounded model satisfying the axiom scheme of (boldface) \mathbf{\Pi}^1_2 monotone induction.

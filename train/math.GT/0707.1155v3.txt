@@ -1,0 +1,1 @@
+We propose some natural generalizations of Reidemeister moves that do not increase the number of crossings in the generated diagrams. Experimentations make us conjecture that this class of monotonic moves is complete for computing canonical forms and then deciding isotopy.

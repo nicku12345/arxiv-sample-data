@@ -1,0 +1,1 @@
+A unique analytic solution of the generalized Dixon nonhomogeneous integral equation is derived in C^{1}[0,A],\ A > 0. It is written in terms of the Neumann series, which is expressed as a double series of residues at multiple poles of powers of the gamma-function.

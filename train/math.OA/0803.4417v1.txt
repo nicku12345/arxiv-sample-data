@@ -1,0 +1,1 @@
+Using the natural duality between linear functionals on tensor products of C*-algebras with the trace class operators on a Hilbert space H and linear maps of the C*-algebra into B(H), we give two characterizations of separability, one relating it to abelianness of the definite set of the map, and one on tensor products of nuclear and UHF C*-algebras

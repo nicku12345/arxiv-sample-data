@@ -1,0 +1,1 @@
+Researchers in the past have studied eigenvalues of Cayley digraphs or graphs. We are interested in characterizing Cayley digraphs on a finite Abelian group G whose eigenvalues are algebraic integers in a given number field K. And we succeed in finding a method to do so by proving Theorem 1. Also, the number of such Cayley digraphs is computed.

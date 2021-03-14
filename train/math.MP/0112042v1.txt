@@ -1,0 +1,1 @@
+We introduce a family of noncommutative 4-spheres, such that the instanton projector has its first Chern class trivial: ch_1(e) = B \chi + b \xi. We construct for them a 4-dimensional cycle and calculate explicitly the Chern-Connes paring for the instanton projector.

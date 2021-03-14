@@ -1,0 +1,1 @@
+This paper proves existence of optimizers of the Stein-Weiss inequalities on Carnot groups under some conditions. The adjustment of Lions' concentration compactness principles to Carnot groups plays an important role in our proof. Unlike known treatment to the Hardy-Littlewood-Sobolev inequality on Heisenberg group, our arguments relate to the powers of the weight functions.

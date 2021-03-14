@@ -1,0 +1,1 @@
+We study the Beurling-Selberg problem of finding band-limited L^1-functions that lie below the indicator function of an Euclidean ball. We compute the critical radius of the support of the Fourier transform for which such construction can have a positive integral.

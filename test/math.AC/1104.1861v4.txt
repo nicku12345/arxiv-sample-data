@@ -1,0 +1,1 @@
+We show that the factorial and Q-factorial loci of algebraic varieties defined over an algebraically closed field are open, that products of locally factorial varieties are still locally factorial, and that this property remains true for Q-factorial varieties if the ground field is not the algebraic closure of a finite field.

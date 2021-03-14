@@ -1,0 +1,1 @@
+We prove the equivalence of the frame property and the closedness for a weighted shift-invariant space. We also construct a sequence \Phi^{2k+1} and the sequence of spaces V^p_\mu(\Phi^{2k+1}), k\in{\mathbb{N}}, on \mathbb{R}, with the useful properties in sampling, approximations and stability.

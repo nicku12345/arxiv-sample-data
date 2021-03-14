@@ -1,0 +1,1 @@
+Using deformed Green's oscillators and Green's Ansatz,we construct a multiparameter interpolation between para-Bose and para-Fermi statistics of a given order. When the interpolating parameters q_{ij} satisfy |q_{ij}|<1 (|q_{ij}|= 1), the interpolation statistics is "infinite quon"-like (anyon-like).The proposed interpolation does not contain states of negative norms.

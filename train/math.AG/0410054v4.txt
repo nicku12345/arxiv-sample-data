@@ -1,0 +1,1 @@
+We describe the quantum cohomology ring of a toric Fano variety X in terms of the usual topological cohomology ring for an auxiliary infinite-dimensional scheme. This scheme is a part of an algebro-geometric model for the universal cover of the space of free loops with values in X.

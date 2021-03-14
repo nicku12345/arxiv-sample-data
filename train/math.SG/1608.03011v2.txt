@@ -1,0 +1,1 @@
+This article is a continuation of [15]. For Legendrian surfaces in 1-jet spaces, we prove that the Cellular DGA defined in [15] is stable tame isomorphic to the Legendrian contact homology DGA.

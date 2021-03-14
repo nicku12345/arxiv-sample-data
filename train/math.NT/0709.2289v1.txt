@@ -1,0 +1,1 @@
+Let t[n] be a sequence that satisfies a first order homogeneous recurrence t[n] = Q[n]*t[n-1], where Q is a polynomial with integer coefficients. The asymptotic behavior of the p-adic valuation of t[n] is described under the assumption that all the roots of Q in Z/pZ have nonvanishing derivative.

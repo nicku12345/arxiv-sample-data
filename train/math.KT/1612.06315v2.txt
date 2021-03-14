@@ -1,0 +1,1 @@
+We show that the cohomology groups usually associated with racks and quandles agree with the Quillen cohomology groups for the algebraic theories of racks and quandles, respectively. We also explain how this makes available the entire range of tools that comes with a Quillen homology theory, such as long exact sequences (transitivity) and excision isomorphisms (flat base change).

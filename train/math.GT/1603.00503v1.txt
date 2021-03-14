@@ -1,0 +1,1 @@
+We show that every countable subgroup G<\rm GL_+(2,\mathbb{R}) without contracting elements is the Veech group of a tame translation surface S of infinite genus, for infinitely many different topological types of S. Moreover, we prove that as long as every end has genus, there are no restrictions on the topological type of S to realise all possible uncountable Veech groups.

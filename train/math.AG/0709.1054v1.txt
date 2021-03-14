@@ -1,0 +1,1 @@
+The purpose of these notes is to provide the details of the Jacobian ring computations carried out in [1], based on the computer algebra system Magma [2].

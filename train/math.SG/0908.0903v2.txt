@@ -1,0 +1,1 @@
+We develop differential and symplectic geometry of differentiable Deligne-Mumford stacks (orbifolds) including Hamiltonian group actions and symplectic reduction. As an application we construct new examples of symplectic toric DM stacks as symplectic quotients of C^NxBG, where G is a finite non-abelian group.

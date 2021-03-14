@@ -1,0 +1,1 @@
+For a smooth domain D containing the origin, we consider a vector field u \in C^1(D\setminus\{0\},\mathbb{R}^3) with \divg u \equiv 0 and exclude certain types of possible isolated singularities at the origin, based on the geometry of streamlines that go near that possible singular point.

@@ -1,0 +1,1 @@
+Secondary homotopy groups supplement the structure of classical homotopy groups. They yield a track functor on the track category of pointed spaces compatible with fiber sequences, suspensions and loop spaces. They also yield algebraic models of homotopy types with homotopy groups concentrated in two consecutive dimensions.

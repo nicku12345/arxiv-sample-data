@@ -1,0 +1,1 @@
+The two-dimensional Zakharov system is shown to have a unique global solution for data without finite energy if the L^2 - norm of the Schr\"odinger part is small enough. The proof uses a refined I-method originally initiated by Colliander, Keel, Staffilani, Takaoka and Tao. A polynomial growth bound for the solution is also given.

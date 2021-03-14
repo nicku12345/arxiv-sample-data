@@ -1,0 +1,1 @@
+We generalize the Second Oversampling Theorem for wavelet frames and dual wavelet frames from the setting of integer dilations to real dilations. We also study the relationship between dilation matrix oversampling of semi-orthogonal Parseval wavelet frames and the additional shift invariance gain of the core subspace.

@@ -1,0 +1,1 @@
+Define B(n) to be the largest height of a polynomial in \mathbb{Z}[x] dividing x^n-1. We formulate a number of conjectures related to the value of B(n) when n is of a prescribed form. Additionally, we prove a lower bound for B(p^aq^b) where p,q are distinct primes.

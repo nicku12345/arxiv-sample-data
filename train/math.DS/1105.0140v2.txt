@@ -1,0 +1,1 @@
+We introduce mean dimensions for continuous actions of countable sofic groups on compact metrizable spaces. These generalize the Gromov-Lindenstrauss-Weiss mean dimensions for actions of countable amenable groups, and are useful for distinguishing continuous actions of countable sofic groups with infinite entropy.

@@ -1,0 +1,1 @@
+With the geometric background provided by Alonso, Martini, and Spirova on the location of circumcenters of triangles in normed planes, we show the validity of the Elzinga--Hearn algorithm and the Shamos--Hoey algorithm for solving the minimal enclosing disk problem in strictly convex normed planes.

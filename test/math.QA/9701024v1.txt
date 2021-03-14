@@ -1,0 +1,1 @@
+In this paper we use the Hecke algebra of type B to define a new algebra \Sch which is an analogue of the q-Schur algebra. We construct Weyl modules for \Sch and obtain, as factor modules, a family of irreducible \Sch-modules over any field.

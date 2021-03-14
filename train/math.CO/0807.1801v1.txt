@@ -1,0 +1,1 @@
+Some conjectures on partition hook lengths, recently stated by the author, have been proved and generalized by Stanley, who also needed a formula by Andrews, Goulden and Jackson on symmetric functions to complete his derivation. Another identity on symmetric functions can be used instead. The purpose of this note is to prove it.

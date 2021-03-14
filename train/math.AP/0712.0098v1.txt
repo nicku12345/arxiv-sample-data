@@ -1,0 +1,1 @@
+We prove that the Maxwell-Schr\"odinger system in \R^{3+1} is globally well-posed in the energy space. The key element of the proof is to obtain a short time wave packet parametrix for the magnetic Schr\"odinger equation, which leads to linear, bilinear and trilinear estimates. These, in turn, are extended to larger time scales via a bootstrap argument.

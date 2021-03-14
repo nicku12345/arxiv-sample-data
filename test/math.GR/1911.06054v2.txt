@@ -1,0 +1,1 @@
+A finite group G is a CG-group if |{\rm Cent}(G) | = | G' |+2, where G' is the commutator subgroup and Cent(G) is the set of distinct element centralizers of G. In this paper we give some results on CG-groups. We also give a negative answer to \cite[Conjecture 2.3]{con} given by K. Khoramshahi and M. Zarrin.

@@ -1,0 +1,1 @@
+We prove that every two-player non-zero-sum Dynkin game in continuous time admits an epsilon-equilibrium in randomized stopping times. We provide a condition that ensures the existence of an epsilon-equilibrium in non-randomized stopping times.

@@ -1,0 +1,1 @@
+We complete the study of the topological period-index problem over 8 dimensional finite CW complexes started in a preceding paper. More precisely, we determine the sharp upper bound of the index of a topological Brauer class \alpha\in H^3(X;\mathbb{Z}), where X is of the homotopy type of an 8 dimensional finite CW complex and the period of \alpha is divisible by 4.

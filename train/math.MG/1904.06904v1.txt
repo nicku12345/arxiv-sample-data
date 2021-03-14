@@ -1,0 +1,1 @@
+Several quantitative notions of rectifiability in the Heisenberg groups have emerged in the recent literature. In this paper we study the relationship between two of them, the big pieces of intrinsic Lipschitz graphs (BPiLG) condition and the bilateral weak geometric lemma (BWGL), and show that sets with BPiLG satisfy the BWGL.

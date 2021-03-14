@@ -1,0 +1,1 @@
+Given a grid presentation of a knot (or link) K in the three-sphere, we describe a Heegaard diagram for the knot complement in which the Heegaard surface is a torus and all elementary domains are squares. Using this diagram, we obtain a purely combinatorial description of the knot Floer homology of K.

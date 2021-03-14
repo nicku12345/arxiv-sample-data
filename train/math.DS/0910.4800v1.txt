@@ -1,0 +1,1 @@
+We study dynamics of a substitution subshift given by the substitution a->aca, b->d, c->b, d->c that is related to the Grigorchuk group. This dynamical system is shown to be, up to a countable set, conjugated to the binary odometer.

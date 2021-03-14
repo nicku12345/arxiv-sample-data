@@ -1,0 +1,1 @@
+We develop a local polynomial spline interpolation scheme for arbitrary spline order on bounded intervals. Our method's local formulation, effective boundary considerations and optimal interpolation error rate make it particularly useful for real-time implementation in real-world applications.

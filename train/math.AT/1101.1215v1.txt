@@ -1,0 +1,1 @@
+We give an upper bound on the set of spherical classes in H_*QX when X = P,S^1. This is related to the Curtis conjecture on spherical classes in H_*Q_0S^0. The results also provide some control over the bordism classes on of immersions when X is a Thom complex.

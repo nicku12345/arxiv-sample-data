@@ -1,0 +1,1 @@
+Let S=K[x_1,\ldots,x_n] be the polynomial ring over the field K, and let I\subset S be a graded ideal. It is shown that the higher iterated Hilbert coefficients of the graded S-modules \Tor_i^S(M,I^k) and \Ext^i_S(M,I^k) are polynomial functions in k, and an upper bound for their degree is given. These results are derived by considering suitable bigraded modules.

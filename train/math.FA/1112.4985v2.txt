@@ -1,0 +1,1 @@
+We study the operators T on the weighted space L^p commuting either with the right translations St or left translations P^+S_{-t} and we establish the existence of a symbol of T. We characterize completely the spectrum of St. We obtain a similar result for the spectrum of P^+S_{-t} and some spectral results for the bounded operators commuting with (St), t>0 or with (P^+St), t<0.

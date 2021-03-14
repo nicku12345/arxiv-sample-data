@@ -1,0 +1,1 @@
+We obtain large n asymptotics for products of powers of the absolute values of the characteristic polynomials in the Gaussian Unitary Ensemble of n\times n matrices. Our results can also be interpreted as asymptotics of the determinant of a Hankel matrix whose symbol is supported on the real line and possesses power-like (Fisher-Hartwig) singularities.

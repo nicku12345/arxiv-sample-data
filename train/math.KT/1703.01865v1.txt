@@ -1,0 +1,1 @@
+In this note we show that Waldhausen's K-theory functor from Waldhausen categories to spaces has a universal property: It is the target of the "universal global Euler characteristic", in other words, the "additivization" of the functor sending a Waldhausen category C to obj(C) . We also show that a large class of functors possesses such an additivization.

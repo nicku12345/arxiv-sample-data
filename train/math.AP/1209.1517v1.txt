@@ -1,0 +1,1 @@
+We obtain monotonicity properties for minima and stable solutions of general energy functionals of the type  \int F(\nabla u, u, x) dx  under the assumption that a certain integral grows at most quadratically at infinity. As a consequence we obtain several rigidity results of global solutions in low dimensions.

@@ -1,0 +1,1 @@
+We consider the face ideal associated to a line-type simplicial complex. We compute the \texttt{depth} and the \texttt{sdepth} for its quotient ring. In particular, the facet ideal and its quotient ring satisfy the Stanley inequality.

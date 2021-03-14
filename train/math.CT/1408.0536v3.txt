@@ -1,0 +1,1 @@
+We investigate the conditions that are sufficient to make the Ext-algebra of an object in a (triangulated) category into a Frobenius algebra and compute the corresponding Nakayama automorphism. As an application, we prove the conjecture that hdet(\mu_A) = 1 for any noetherian Artin-Schelter regular (hence skew Calabi-Yau) algebra A.

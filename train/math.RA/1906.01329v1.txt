@@ -1,0 +1,1 @@
+We generalize Knuth's construction of Case I semifields quadratic over a weak nucleus, also known as generalized Dickson semifields, by doubling of central simple algebras. We thus obtain division algebras of dimension 2s^2 by doubling central division algebras of degree s. Results on isomorphisms and automorphisms of these algebras are obtained in certain cases.

@@ -1,0 +1,1 @@
+We present computational data and heuristic arguments which suggest that given a hyperbolic knot the volume correlates with its determinant, the Mahler measure of its Alexander polynomial and the Mahler measure of the twisted Alexander polynomial corresponding to the discrete and faithful SL(2,C)-representation.

@@ -1,0 +1,1 @@
+Generalizing a result of Pourchet, we prove that, if \alpha,\beta are power sums satisfying suitable conditions, the length of the continued fraction of the ratio \alpha(n)/\beta(n) tends to infinity with n.

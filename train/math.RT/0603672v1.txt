@@ -1,0 +1,1 @@
+Let A be a selfinjective algebra. We show that, for any n, maximal n-orthogonal A-modules (in the sense of Iyama), rarely exist. More precisely, we prove that if A admits a maximal n-orthogonal module, then all A-modules are of complexity at most 1.

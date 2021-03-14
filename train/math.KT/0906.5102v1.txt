@@ -1,0 +1,1 @@
+Given a cycle module M with a ring structure we show that the cycle complex with coefficients in M of a smooth scheme of finite type over a field has a A-infinity algebra structure. In the case of Milnor K-theory this gives a homotopy model for the classical intersection theory of algebraic cycles.

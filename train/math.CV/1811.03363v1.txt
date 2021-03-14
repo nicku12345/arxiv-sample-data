@@ -1,0 +1,1 @@
+Let D be a domain in C^n with smooth boundary, of finite 1-type at a point p in the boundary and such that the closure of D has a basis of Stein Runge neighborhoods. Assume that there exists an analytic disc which intersects the closure of D exactly at p. We construct proper holomorphic maps from any open Riemann surface S which are attached to the closure of D exactly at p.

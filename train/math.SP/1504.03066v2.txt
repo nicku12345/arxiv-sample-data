@@ -1,0 +1,1 @@
+In this paper, we give a necessary and sufficient condition for an even order three dimensional strongly symmetric circulant tensor to be positive semi-definite. In some cases, we show that this condition is also sufficient for this tensor to be sum-of-squares. Numerical tests indicate that this is also true in the other cases.

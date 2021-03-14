@@ -1,0 +1,1 @@
+We study persistence properties of solutions to some canonical dispersive models, namely the semi-linear Schr\"odinger equation, the k-generalized Korteweg-de Vries equation and the Benjamin-Ono equation, in weighted Sobolev spaces H^s(\R^n)\cap L^2(|x|^ldx),\;s,\,l>0

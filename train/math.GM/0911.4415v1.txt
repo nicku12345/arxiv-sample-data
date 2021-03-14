@@ -1,0 +1,1 @@
+We prove that for any partition of a set which contains an infinite arithmetic (respectively geometric) progression into two disjoint subsets, at least one of these subsets contains an infinite number of triplets such that each triplet is an arithmetic (respectively geometric) progression.

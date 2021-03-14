@@ -1,0 +1,1 @@
+Let G be a compact Lie group, and consider the variety Hom(Z^k,G) of representations of Z^k into G. We view this as a based space by designating the trivial representation to be its base point. We prove that the fundamental group of this space is naturally isomorphic to \pi_1(G)^k.

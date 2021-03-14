@@ -1,0 +1,1 @@
+The q-special functions appear naturally in q-deformed quantum mechanics and both sides profit from this fact. Here we study the relation between the q-deformed harmonic oscillator and the q-Hermite polynomials. We discuss: recursion formula, generating function, Christoffel-Darboux identity, orthogonality relations and the moment functional.

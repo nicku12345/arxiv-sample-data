@@ -1,0 +1,1 @@
+Let A be a commutative ring and I an ideal of A with a reduction Q. In this paper we give an upper bound on the reduction number of I with respect to Q, when a suitable family of ideals in A is given. As a corollary it follows that if some ideal J containing I satisfies J^2 = QJ, then I^{v + 2} = QI^{v + 1}, where v denotes the number of generators of J / I as an A-module.

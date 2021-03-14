@@ -1,0 +1,1 @@
+We develop methods for proving that certain extensions of polynomial functors do not split naturally. As an application we give a functorial description of the third and the fourth stable homotopy groups of the classifying spaces of free abelian groups.

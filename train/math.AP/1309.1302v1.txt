@@ -1,0 +1,1 @@
+We find necessary and sufficient conditions for the validity of weighted Rellich and Calderon-Zygmund inequalities in L^p, 1 \leq p \leq \infty, in the whole space and in the half-space with Dirichlet boundary conditions. General operators like L=\Delta+c\frac{x}{|x|^2}\cdot\nabla-\frac{b}{|x|^2} are considered. We compute best constants in some situations.

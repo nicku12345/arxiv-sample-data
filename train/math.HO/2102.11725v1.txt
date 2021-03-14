@@ -1,0 +1,1 @@
+This is an extended introduction to discrete valuation rings and Dedekind domains. Some natural generalizations of Dedekind domains are also (briefly) discussed including "almost Dedekind domains", Pr\"ufer domains, Krull domains, and singular integral domains of dimension 1.

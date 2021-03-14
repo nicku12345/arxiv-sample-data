@@ -1,0 +1,1 @@
+We show that when projecting an edge-transitive N-dimensional polytope onto anM-dimensional subspace of R^N, the sums of the squares of the original and projected edges are in the ratio N=M.

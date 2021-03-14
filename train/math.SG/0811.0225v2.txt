@@ -1,0 +1,1 @@
+In this paper we introduce a representation of knots and links called a cube diagram. We show that a property of a cube diagram is a link invariant if and only if the property is invariant under two types of cube diagram operations. A knot homology is constructed from cube diagrams and shown to be equivalent to knot Floer homology.

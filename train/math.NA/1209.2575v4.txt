@@ -1,0 +1,1 @@
+Given a large real symmetric, positive semidefinite m-by-m matrix, the goal of this paper is to show how a numerical approximation of the entropy, given by the sum of the entropies of the individual eigenvalues, can be computed in an efficient way. An application from quantum-optics illustrates the new algorithm.

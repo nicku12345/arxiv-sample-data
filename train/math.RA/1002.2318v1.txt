@@ -1,0 +1,1 @@
+Let A be a connected-graded algebra with trivial module k, and let B be a graded Ore extension of A. We relate the structure of the Yoneda algebra E(A) := Ext_A(k,k) to E(B). Cassidy and Shelton have shown that when A satisfies their K_2 property, B will also be K_2. We prove the converse of this result.

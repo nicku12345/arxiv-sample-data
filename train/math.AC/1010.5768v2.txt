@@ -1,0 +1,1 @@
+We investigate Gr\"obner bases of contraction ideals under some monomial homomorphisms. As an application of our theorem, we generalize the result of Aoki--Hibi--Ohsugi--Takemura and Hibi-Ohsugi. Using our results, one can provide many examples of toric ideals that admit square-free or quadratic initial ideals.

@@ -1,0 +1,1 @@
+This is an expository paper about several sophisticated forcing techniques closely related to standard finite support iterations of ccc partial orders. We focus on the four topics of ultrapowers of forcing notions, iterations along templates, Boolean ultrapowers of forcing notions, and restrictions of forcing notions to elementary submodels.

@@ -1,0 +1,1 @@
+We show that for all integers m\geq 2, and all integers k\geq 2, the orthogonal groups \Orth^{\pm}(2m,\Fk) act on abstract regular polytopes of rank 2m, and the symplectic groups \Sp(2m,\Fk) act on abstract regular polytopes of rank 2m+1.

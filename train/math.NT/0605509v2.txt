@@ -1,0 +1,1 @@
+This paper has been withdrawn. Counterexamples to the announced theorem can be made by observing that the natural map Ext(M,N)--> Ext(Lie(N),Lie(M)) is surjective and that the extension of two pure motives of the same weight is again pure. The proof contains a crucial mistake in the analysis of the ``glueing'' of trivialisations.

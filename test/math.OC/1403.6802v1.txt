@@ -1,0 +1,1 @@
+We show that the open-loop transfer functions and the stability margins may be defined within the recent model-free control setting. Several convincing computer experiments are presented including one which studies the robustness with respect to delays.

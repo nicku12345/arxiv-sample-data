@@ -1,0 +1,1 @@
+We give bounds for various homological invariants (including Castelnuovo-Mumford regularity, degrees of local cohomology, and injective dimension) of finitely generated VI-modules in the non-describing characteristic case. It turns out that the formulas of these bounds for VI-modules are the same as the formulas of corresponding bounds for FI-modules.

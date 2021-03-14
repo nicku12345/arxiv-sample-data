@@ -1,0 +1,1 @@
+We determine the decomposition matrices of unipotent \ell-blocks of defect \Phi_4^2 for exceptional groups of Lie type up to a few unknowns. For this we employ the new cohomological methods of the first author, together with properties of generalized Gelfand-Graev characters which were recently shown to hold whenever the underlying characteristic is good.

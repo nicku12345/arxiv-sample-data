@@ -1,0 +1,1 @@
+The conservativity of a minimal quantum dynamical semigroup is proved whenever there exists a ``reference'' subharmonic operator bounded from below by the dissipative part of the infinitesimal generator. We discuss applications of this criteria in mathematical physics and quantum probability.

@@ -1,0 +1,1 @@
+It is proved that for every fractal continuous mapping F: I\to I^2 of the unit interval onto the unit square there is a pair of points x,y\in I, such that |F(x)-F(y)|^2\ge 5|x-y|.

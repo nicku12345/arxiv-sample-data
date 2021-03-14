@@ -1,0 +1,1 @@
+We offer two proofs that categories weakly enriched over symmetric monoidal categories can be strictified to categories enriched in permutative categories. This is a "many 0-cells" version of the strictification of bimonoidal categories to strict ones.

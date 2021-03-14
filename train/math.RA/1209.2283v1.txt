@@ -1,0 +1,1 @@
+Let F_m be the free group on m generators and let G be a finite nilpotent group of non square-free order; we show that for each m\ge 2 the integral group ring {\bf Z}[G\times F_m] has infinitely many stably free modules of rank 1.

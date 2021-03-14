@@ -1,0 +1,1 @@
+We prove that if \{ \varphi_j\}_j is a sequence of subharmonic functions which are increasing to some subharmonic function \varphi in \mathbb{C}, then the union of all the weighted Hilbert spaces H(\varphi_j) is dense in the weighted Hilbert space H(\varphi).

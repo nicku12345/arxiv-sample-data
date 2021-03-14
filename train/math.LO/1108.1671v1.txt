@@ -1,0 +1,1 @@
+We prove that the following problem is decidable: given a finite set of relations, decide whether this set admits a near-unanimity function.

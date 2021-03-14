@@ -1,0 +1,1 @@
+In a sample variance decomposition, with components functions of the sample's spacings, the largest component \tilde{I}_n is used in cluster detection. It is shown for normal samples that the asymptotic distribution of \tilde{I}_n is the Gumbel distribution.

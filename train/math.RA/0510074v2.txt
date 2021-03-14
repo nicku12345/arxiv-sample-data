@@ -1,0 +1,1 @@
+It is proved that the localization of an injective module E, over a valuation ring R, at a prime ideal J, is injective if J is not the subset of zero-divisors of R or if J or E is flat. It follows that localizations of injective modules over h-local Pr\"{u}fer domains are injective too.

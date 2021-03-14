@@ -1,0 +1,1 @@
+We detect higher order Whitehead products on the homology H of a differential graded Lie algebra L in terms of higher brackets in the transferred L_\infty structure on H via a given homotopy retraction of L onto H.

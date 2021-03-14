@@ -1,0 +1,1 @@
+Let p\neq 2, and let R be a smooth affine algebra of dimension 3 over \overline{F}_p and P, Q be projective R-modules of rank 2, each with trivial determinant. We prove: P is isomorphic to Q if and only if there is an ideal J\subset R of height 2 such that both P and Q map onto J.

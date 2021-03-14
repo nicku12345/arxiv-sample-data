@@ -1,0 +1,1 @@
+The extension of a conflict control problem with infinite horizon is constructed. This extension is the projective limit of restricted games. Relations between "sensitivity to target set" and the existence of the optimal control are studied. Special attention is paid to the pursuit-evasion game with "joint control/relaxed control".

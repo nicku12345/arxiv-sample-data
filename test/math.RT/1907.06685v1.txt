@@ -1,0 +1,1 @@
+We investigate various ways to define an analogue of BGG category \mathcal{O} for the non-semi-simple Takiff extension of the Lie algebra \mathfrak{sl}_2. We describe Gabriel quivers for blocks of these analogues of category \mathcal{O} and prove extension fullness of one of them in the category of all modules.

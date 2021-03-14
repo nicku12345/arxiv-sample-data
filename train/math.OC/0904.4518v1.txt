@@ -1,0 +1,1 @@
+Given a real objective function defined over the symmetric group, a direct local-search algorithm is proposed, and its complexity is estimated. In particular for an n-dimensional unit vector we are interested in the permutation isometry that acts on this vector by mapping it into a cone of a given angle.

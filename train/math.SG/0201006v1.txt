@@ -1,0 +1,1 @@
+Consider the 2n-dimensional closed ball B of radius 1 in the 2n-dimensional symplectic cylinder Z = D \times R^{2n-2} over the closed disc D of radius 1. We construct for each \epsilon >0 a Hamiltonian deformation \phi of B in Z of energy less than \epsilon such that the area of each intersection of \phi (B) with the disc D \times \{x\}, x \in R^{2n-2}, is less than \epsilon.

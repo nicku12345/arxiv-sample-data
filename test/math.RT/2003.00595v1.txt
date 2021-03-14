@@ -1,0 +1,1 @@
+We will be defining a type of perverse equivalence that always corresponds to a derived equivalence with two-term tilting complexes. We are going to show that the tilting considered by Okuyama and Yoshii for the proof of Brou\'e's conjecture for SL(2,q) in defining characteristic is a composition of such perverse equivalences.

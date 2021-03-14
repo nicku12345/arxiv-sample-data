@@ -1,0 +1,1 @@
+Any finite union of disjoint, mutually exterior Jordan curves in the complex plane can be approximated arbitrarily well in the Hausdorff topology by polynomial Julia sets. Furthermore, the proof is constructive.

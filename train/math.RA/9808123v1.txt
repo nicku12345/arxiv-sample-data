@@ -1,0 +1,1 @@
+We show that group algebras kG of polycyclic-by-finite groups G, where k is a field, are catenary: Given prime ideals P and P' of kG, with P contained in P', all saturated chains of primes between P and P' have the same length.

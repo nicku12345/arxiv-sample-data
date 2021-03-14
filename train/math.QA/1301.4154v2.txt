@@ -1,0 +1,1 @@
+We give a proof of the Radford's Biproduct Theorem in S. Montgomery's book [Hopf Algebras and Their Actions on Rings, CBMS 82, AMS,1993.] by using Majid's braided diagrams method and Yu.Bespalov and V. Lyubashenko's "t-angles.sty" package.

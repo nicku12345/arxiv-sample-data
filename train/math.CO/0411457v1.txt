@@ -1,0 +1,1 @@
+We give an Euler-Maclaurin formula with remainder for the weighted sum of the values of a smooth function on the integral points in a simple integral polytope. Our work generalizes the formula obtained by Karshon, Sternberg and Weitsman in the ''Euler-Maclaurin with remainder for a simple integral polytope''.

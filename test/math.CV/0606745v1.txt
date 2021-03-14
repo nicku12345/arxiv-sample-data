@@ -1,0 +1,1 @@
+A version of Markov's estimate for the derivative of a polynomial is proved with the interval [-1,1] replaced by an arbitrary continuum in the complex plane.

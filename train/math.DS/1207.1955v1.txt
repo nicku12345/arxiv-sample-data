@@ -1,0 +1,1 @@
+Let M be a triangulable compact manifold. We prove that, among closed subgroups of \homeo_{0}(M) (the identity component of the group of homeomorphisms of M), the subgroup consisting of volume preserving elements is maximal.

@@ -1,0 +1,1 @@
+We present a deterministic polynomial-time algorithm that determines whether a finite module over a finite commutative ring is cyclic, and if it is, outputs a generator.

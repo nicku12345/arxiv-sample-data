@@ -1,0 +1,1 @@
+For a nonempty convex subset C of a Hadamard space X, it is proved that u=P_Cx if and only if \langle\overrightarrow{xu},\overrightarrow{uy}\rangle \geqslant0 for all y\in C. As an application of this characterization, we prove strong convergence of two iterative algorithms with perturbations for nonexpansive mappings.

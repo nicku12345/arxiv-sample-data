@@ -1,0 +1,1 @@
+In this paper we prove that the unitary groups SU_n(q^2) are (2,3)-generated for any prime power q and any integer n\geq 8. By previous results this implies that, if n\geq 3, the groups SU_n(q^2) and PSU_n(q^2) are (2,3)-generated, except when (n,q)\in\{(3,2),(3,3),(3,5),(4,2), (4,3),(5,2)\}.

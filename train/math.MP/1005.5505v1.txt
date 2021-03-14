@@ -1,0 +1,1 @@
+A Hamiltonian (model operator) H associated to a quantum system describing three particles in interaction, without conservation of the number of particles, is considered. The Faddeev type system of equations for eigenvectors of H is constructed. The essential spectrum of H is described by the spectrum of the channel operator.

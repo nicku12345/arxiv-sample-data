@@ -1,0 +1,1 @@
+We prove that for a Calderon-Zygmund operator and weight w\in A_2, that it satisfies the linear in A2 bound due to Hytonen. Our proof will appeal to a distributional inequality used by several authors, adapted Haar functions, and standard stopping times.

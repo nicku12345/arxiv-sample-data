@@ -1,0 +1,1 @@
+We study the almost sure convergence of randomly truncated stochastic algorithms. We present a new convergence theorem which extends the already known results by making vanish the classical condition on the noise terms. The aim of this work is to prove an almost sure convergence result of randomly truncated stochastic algorithms under easily verifiable conditions

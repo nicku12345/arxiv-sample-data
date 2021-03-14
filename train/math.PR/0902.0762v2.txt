@@ -1,0 +1,1 @@
+In this article we present an example of a random oriented tree model on d-dimensional lattice, that is a forest in d=3 with positive probability. This is in contrast with the other random tree models in the literature which are a forest only when d strictly greater than 3.

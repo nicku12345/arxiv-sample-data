@@ -1,0 +1,1 @@
+We establish by means of a computer search that a complete graph on 14 vertices has 98,758,655,816,833,727,741,338,583,040 distinct and 1,132,835,421,602,062,347 nonisomorphic one-factorizations. The enumeration is constructive for the 10,305,262,573 isomorphism classes that admit a nontrivial automorphism.

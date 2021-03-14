@@ -1,0 +1,1 @@
+Let D\subset\Co be a bounded domain, whose boundary B consists of k simple closed continuous curves and H^{\infty}(D) be the algebra of bounded analytic functions on D. We prove the matrix-valued corona theorem for matrices with entries in H^{\infty}(D).

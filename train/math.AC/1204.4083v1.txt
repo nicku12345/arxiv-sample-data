@@ -1,0 +1,1 @@
+It is proved that if one of the finite modules M and N, over a local ring R, has reducible complexity and has finite Gorenstein dimension then the depth formula holds, provided TorR_i(M,N) = 0 for i>>0. We also study the vanishing of cohomology of a module of finite complete intersection dimension.

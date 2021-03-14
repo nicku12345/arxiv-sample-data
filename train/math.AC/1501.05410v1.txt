@@ -1,0 +1,1 @@
+Let C be a semidualizing module. We first investigate the properties of finitely generated G_C-projective modules. Then, relative to C, we introduce and study the rings of Gorenstein (weak) global dimensions at most 1, which we call C-Gorenstein (semi)hereditary rings, and prove that every C-Gorenstein hereditary ring is both coherent and C-Gorenstein semihereditary.

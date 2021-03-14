@@ -1,0 +1,1 @@
+We use the very recent approach developed by Lacey in [23] and extended by Bernicot-Frey-Petermichl in [3], in order to control Bochner-Riesz operators by a sparse bilinear form. In this way, new quantitative weighted estimates, as well as vector-valued inequalities are deduced.

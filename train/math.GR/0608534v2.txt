@@ -1,0 +1,1 @@
+Let G be a finite p-group such that x\Z(G) \subseteq x^G for all x \in G- \Z(G), where x^G denotes the conjugacy class of x in G. Then |G| divides |\Aut(G)|, where \Aut(G) is the group of all automorphisms of G.

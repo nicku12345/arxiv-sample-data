@@ -1,0 +1,1 @@
+We establish a blowup criterion for the two-dimensional (2D) full compressible Navier-Stokes system. The criterion is given in terms of the divergence of the velocity field only, and is independent of the temperature. It is almost the same as that of barotropic case.

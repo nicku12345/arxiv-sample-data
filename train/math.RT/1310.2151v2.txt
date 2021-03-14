@@ -1,0 +1,1 @@
+We prove that the inductive AM condition introduced by Britta Sp\"ath is true for the simple alternating groups in characteristic 2. To achieve this we give an equivalent of a well known result on blocks of the symmetric groups with the same weight to 2-blocks of double cover of alternating groups.

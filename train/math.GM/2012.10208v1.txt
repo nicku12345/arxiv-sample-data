@@ -1,0 +1,1 @@
+In this paper we prove that the Single-Valued (and respectively Interval-Valued, as well as Subset-Valued) Score, Accuracy, and Certainty Functions determine a total order on the set of neutrosophic triplets (T, I, F). This total order is needed in the neutrosophic decision-making applications.

@@ -1,0 +1,1 @@
+Let T be a complete, superstable theory with fewer than 2^{\aleph_{0}} countable models. Assuming that generic types of infinite, simple groups definable in T^{eq} are sufficiently non-isolated we prove that \omega^{\omega} is the strict upper bound for the Lascar rank of T.

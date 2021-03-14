@@ -1,0 +1,1 @@
+We present a combinatorial proof for the existence of the sign refined Grid Homology in lens spaces, and a self contained proof that \partial_\mathbb{Z}^2 = 0. We also present a Sage program that computes \widehat{GH} (L(p,q),K;\mathbb{Z}), and provide empirical evidence supporting the absence of torsion in these groups.

@@ -1,0 +1,1 @@
+We discuss the direct use of cubic-matrix splines to obtain continuous approximations to the unique solution of matrix models of the type Y''(x) = f(x,Y(x)). For numerical illustration, an estimation of the approximation error, an algorithm for its implementation, and an example are given.

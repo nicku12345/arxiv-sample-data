@@ -1,0 +1,1 @@
+Let \Pi denote the fundamental group of the closed surface of genus 2. For any quadratically closed ring R with 2 invertible, we classify irreducible representations \Pi\to{\rm SL}(2,R) up to conjugacy by giving explicit formulas.

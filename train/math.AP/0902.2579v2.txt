@@ -1,0 +1,1 @@
+We present a family of closed form inversion formulas in thermoacoustic tomography in the case of a constant sound speed. The formulas are presented in both time-domain and frequency-domain versions. As special cases, they imply most of the previously known filtered backprojection type formulas.

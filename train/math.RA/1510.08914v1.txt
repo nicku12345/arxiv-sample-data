@@ -1,0 +1,1 @@
+Let L be a restricted Lie algebra over a field of characteristic p > 2 and denote by u(L) its restricted enveloping algebra. We determine the conditions under which the set of symmetric elements of u(L) with respect to the principal involution is Lie solvable, Lie nilpotent, or bounded Lie Engel.

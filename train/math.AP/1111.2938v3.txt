@@ -1,0 +1,1 @@
+From the finite difference method for wave equation on p.c.f. fractals, we would expect that infinite prorogation speed property for wave solutions on a large class of p.c.f. fractals. We prove that is true if the heat kernel satisfies the sub-Gaussian lower bound. Furthermore, we provide a sub-Gaussian upper bound for wave kernel given the heat kernel sub-Gaussian upper bound.

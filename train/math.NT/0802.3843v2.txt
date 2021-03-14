@@ -1,0 +1,1 @@
+Class field theory furnishes an intrinsic description of the abelian extensions of a number field that is in many cases not of an immediate algorithmic nature. We outline the algorithms available for the explicit computation of such extensions.

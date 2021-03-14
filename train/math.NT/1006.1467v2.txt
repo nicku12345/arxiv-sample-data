@@ -1,0 +1,1 @@
+By modifying a slash operator of index zero we define \textit{modified Jacobi forms} of \textit{index zero}. Such forms play a role of generating nearly holomorphic modular forms of integral weight. Furthermore, by observing a relation between the coefficients of Fourier development of a modified Jacobi form we construct a family of finite-dimensional subspaces.

@@ -1,0 +1,1 @@
+For a continuous field of the Cuntz algebra over a finite CW complex, we introduce a topological invariant, which is an element in Dadarlat-Pennig's generalized cohomology group, and prove that the invariant is trivial if and only if the field comes from a vector bundle via Pimsner's construction.

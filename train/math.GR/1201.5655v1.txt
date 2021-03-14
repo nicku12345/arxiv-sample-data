@@ -1,0 +1,1 @@
+We describe the autotopism group Atp(G) of any abelian group G as being a semidirect product of its automorphism group Aut(G) and G^2. We then provide the subgroup structure of Atp(G) when G is a finite cyclic group.

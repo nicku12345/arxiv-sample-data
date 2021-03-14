@@ -1,0 +1,1 @@
+We prove that an etale cover Y of degree 8 of a Campedelli surface S is a complete intersection of four quadrics in P^6, obtaining as a consequence that Y is the universal cover of S, the covering group G=Gal(Y/S)is the topological fundamental group of S and that G cannot be the dihedral group of order 8. This paper patches up an incomplete manuscript of the third author.

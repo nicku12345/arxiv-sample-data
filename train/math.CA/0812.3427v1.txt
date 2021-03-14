@@ -1,0 +1,1 @@
+We consider the uniqueness of solutions of ordinary differential equations where the coefficients may have singularities. We derive upper bounds on the the order of singularities of the coefficients and provide examples to illustrate the results.

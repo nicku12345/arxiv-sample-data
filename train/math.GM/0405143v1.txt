@@ -1,0 +1,1 @@
+In this paper one constructs a function \eta with the property that if n is non-null then \eta(n) is the smallest integer such that \eta(n)! is divisible by n. In order to calculate it one considers, for each prime p, the associated function \eta_{p}(n) in a power base.

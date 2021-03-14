@@ -1,0 +1,1 @@
+We compute the K-theory of the C*-algebra of symmetric words in two universal unitaries. This algebra is the fixed point C*-algebra for the order-two automorphism of the full C*-algebra of the free group on two generators which switches the generators. Our calculations relate the K -theory of this C*-algebra to the K-theory of the associated C*-crossed-product by Z_2.

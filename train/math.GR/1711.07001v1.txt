@@ -1,0 +1,1 @@
+We construct two infinite series of Moufang loops of exponent 3 whose commutative center (i.e. the set of elements that commute with all elements of the loop) is not a normal subloop. In particular, we obtain examples of such loops of orders 3^8 and 3^{11} one of which can be defined as the Moufang triplication of the free Burnside group B(3,3).

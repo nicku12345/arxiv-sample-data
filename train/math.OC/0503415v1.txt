@@ -1,0 +1,1 @@
+We prove a Noether-type symmetry theorem for invariant optimal control problems with unrestricted controls. The result establishes weak conservation laws along all the minimizers of the problems, including those minimizers which do not satisfy the Pontryagin Maximum Principle.

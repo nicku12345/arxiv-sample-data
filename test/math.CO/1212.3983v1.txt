@@ -1,0 +1,1 @@
+Let G be a circle graph without clique on 4 vertices. We prove that the chromatic number of G doesn't exceed 30.

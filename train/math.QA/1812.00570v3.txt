@@ -1,0 +1,1 @@
+We prove that if V is a C_2-cofinite simple vertex operator algebra of CFT-type with a nonsingular invariant bilinear form and its an automorphism group G is finite, then an orbifold model V^G is also C_2-cofinite.

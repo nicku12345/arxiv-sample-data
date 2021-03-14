@@ -1,0 +1,1 @@
+We introduce the combinatorial notion of posetted trees and we use it in order to write an explicit expression of the Baker-Campbell-Hausdorff formula.

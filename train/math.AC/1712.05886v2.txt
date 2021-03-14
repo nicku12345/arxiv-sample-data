@@ -1,0 +1,1 @@
+The Hilbert polynomial of a homogeneous complete intersection is determined by the degrees of the generators of the defining ideal. The degrees of the generators are not, in general, determined by the Hilbert polynomial -- but sometimes they are. When? We give some general criteria and completely answer the question up to codimension 6.

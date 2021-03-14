@@ -1,0 +1,1 @@
+We give a formula for the spectral pairs (after Steenbrink) for composite singularities of several variables. (Note that for two variable case is studyed by Nemethi-Steenbrink.) Here composite singularity is given by the equation f(g_1, ..., g_n) = 0. For technical reason, we assume that f is non-degenerated with respect to the Newton boundary.

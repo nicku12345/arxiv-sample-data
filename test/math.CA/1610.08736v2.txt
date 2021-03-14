@@ -1,0 +1,1 @@
+In this paper, we present some implicit function theorems for set-valued mappings between Fr\'echet spaces. The proof relies on Lebesgue's Dominated Convergence Theorem and on Ekeland's variational principle. An application to the existence of solutions of differential equations in Fr\'echet spaces with non-smooth data is given.

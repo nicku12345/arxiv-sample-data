@@ -1,0 +1,1 @@
+In this paper we prove a local converse theorem for GL_n over the archimedean local fields, which characterizes an infinitesimal equivalence class of irreducible admissible representations of GL_n(R) (or GL_n(C)) in terms of twisted L-factors.

@@ -1,0 +1,1 @@
+We investigate the asymptotic behavior of the a large class of reversible chemical reaction-diffusion equations with the same diffusion. In particular we prove the optimal rate in two cases : when there is no diffusion and in the classical "two-by-two" case.

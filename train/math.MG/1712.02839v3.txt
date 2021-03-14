@@ -1,0 +1,1 @@
+We show that if a noncollapsed CD(K,n) space X with n\ge 2 has curvature bounded above by \kappa in the sense of Alexandrov then K\le (n-1)\kappa and X is an Alexandrov space of curvature bounded below by K-\kappa (n-2). We also show that if a CD(K,n) space Y with finite n has curvature bounded above then it is infinitesimally Hilbertian.

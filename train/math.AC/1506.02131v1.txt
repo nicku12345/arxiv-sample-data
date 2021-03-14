@@ -1,0 +1,1 @@
+The package numericalsgps performs computations with and for numerical semigroups. Recently also affine semigroups are admitted as objects for calculations. This manuscript is a survey of what the package does, and at the same time of the trending topics on numerical semigroups.

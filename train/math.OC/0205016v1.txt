@@ -1,0 +1,1 @@
+Suppose that an equilibrium is asymptotically stable when external inputs vanish. Then, every bounded trajectory which corresponds to a control which approaches zero and which lies in the domain of attraction of the unforced system, must also converge to the equilibrium. This "well-known" but hard-to-cite fact is proved and slightly generalized here.

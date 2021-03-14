@@ -1,0 +1,1 @@
+We prove the lemma of Knaster-Kuratowski-Mazurkiewicz as a consequence of the Lusternik-Schnirelman-Borsuk theorem.

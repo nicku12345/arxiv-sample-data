@@ -1,0 +1,1 @@
+We give a sufficient condition for an almost alternating link diagram to represent a non-splittable link. The main theorem gives us a way to see if a given almost alternating link diagram represents a splittable link without increasing numbers of crossings of diagrams in the process. Moreover, we show that almost alternating links with more than two components are non-trivial.

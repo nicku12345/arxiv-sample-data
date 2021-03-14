@@ -1,0 +1,1 @@
+We assume that a symplectic real-analytic map has an invariant normally hyperbolic cylinder and an associated transverse homoclinic cylinder. It is well known that such cylinder is preserved under small perturbations. We prove that for a generic real- analytic perturbation of this map the boundaries of the cylinder are connected by trajectories of the perturbed map.

@@ -1,0 +1,1 @@
+In this note we prove that, for a finite semigroup S, the dual   Cayley automaton semigroup \mathbf{C^{\ast}}(S) is finite if and only if S is \mathcal{H}-trivial and has no non-trivial right zero subsemigroups.

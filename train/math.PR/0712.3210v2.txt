@@ -1,0 +1,1 @@
+In this paper, we simulate sample paths of a class of symmetric \alpha-stable processes using their series expression. We will develop a result in the approximation of shot-noise series. And finally, we will get a convergence rate for the approximation.

@@ -1,0 +1,1 @@
+In this paper we study the (a : b) Maker-Breaker Connectivity game, played on the edge-set of the complete graph on n vertices. We determine the winner for almost all values of a and b.

@@ -1,0 +1,1 @@
+The short article [V.M. Buchstaber, E.Yu. Netay, \mathbb{C}P(2)-multiplicative Hirzebruch genera and elliptic cohomology, Russian Math. Surveys, 69:4 (2014), 757-759] states results on \mathbb{C}P(2)-multiplicative Hirzebruch genera. The aim of the following text is to give a proof of Theorem 3. This proof uses only the technique of functional differential equations.

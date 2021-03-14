@@ -1,0 +1,1 @@
+We prove that  \cat X\le cd(\pi_1(X))+\bigg\lceil\frac{\dim X-1}{2}\bigg\rceil for every CW complex X where cd(\pi_1(X)) denotes the cohomological dimension of the fundamental group of X.

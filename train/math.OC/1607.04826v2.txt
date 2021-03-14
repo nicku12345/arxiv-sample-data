@@ -1,0 +1,1 @@
+This paper focuses on the characterization for the regular and limiting normal cones to the graph of the subdifferential mapping of the nuclear norm, which is essential to derive optimality conditions for the equivalent MPEC (mathematical program with equilibrium constraints) reformulation of rank minimization problems.

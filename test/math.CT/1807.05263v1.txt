@@ -1,0 +1,1 @@
+We prove that if \mathcal{A} is a locally \lambda-presentable category and T : \mathcal{A} \to \mathcal{A} is a \lambda-accessible functor then T/\mathcal{A} is locally \lambda-presentable.

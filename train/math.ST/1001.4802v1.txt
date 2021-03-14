@@ -1,0 +1,1 @@
+We show that under a linearity condition on the distribution of the predictors, the coefficient in single-index regression can be estimated with the same efficiency as in the case when the link function is known. Thus, the linearity condition seems to substitute for knowing the exact conditional distribution of the response given the linear combinations of the predictors.

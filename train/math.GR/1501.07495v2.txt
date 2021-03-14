@@ -1,0 +1,1 @@
+This paper continues previous work, based on systematic use of a formula of L. Scott, to detect Hurwitz groups. It closes the problem of determining the finite simple groups contained in PGL_n(F) for n\leq 7 which are Hurwitz, where F is an algebraically closed field. For the groups G_2(q), q\geq 5, and the Janko groups J_1 and J_2 it provides explicit (2,3,7)-generators.

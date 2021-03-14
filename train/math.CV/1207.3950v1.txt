@@ -1,0 +1,1 @@
+Let f(z)=z+\sum_{n=2}^{\infty}a_nz^n be analytic in the unit disk with second coefficient a_2 satisfying |a_2|=2b, 0\leq b\leq1. Sharp radius of Janowski starlikeness and other radius constants are obtained when |a_n|\leq cn+d (c,d\geq0) or |a_n|\leq c/n (c>0) for n\geq3.

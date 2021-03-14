@@ -1,0 +1,1 @@
+We introduce, for any group G, a category G\Gamma such that diagrams G\Gamma \rightarrow \mathcal{SS}ets satisfying a Segal condition correspond to infinite loop spaces with a G-action. We also consider diagrams which encode group actions on infinite loop spaces where the group may vary.

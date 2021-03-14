@@ -1,0 +1,1 @@
+We improve proofs in "The Floyd-Warshall Algorithm, the AP and the TSP (III). We also simplify the method for obtaining a good upper bound for an optimal solution.

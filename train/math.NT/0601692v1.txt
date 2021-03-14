@@ -1,0 +1,1 @@
+We study the S-integral points on the complement of a union of hyperplanes in projective space, where S is a finite set of places of a number field k. In the classical case where S consists of the set of archimedean places of k, we completely characterize, in terms of the hyperplanes and the field k, when the (S-)integral points are not Zariski-dense.

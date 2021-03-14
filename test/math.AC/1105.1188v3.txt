@@ -1,0 +1,1 @@
+We show that monomial Cremona maps of degree d on P^n can have inverses whose degree d' is quite large (for d > 2, d' = ((d-1)^n - 1)/(d-2) occurs), and that the full list of degrees d' does not always form an interval. An easy method for inverting the maps is presented.

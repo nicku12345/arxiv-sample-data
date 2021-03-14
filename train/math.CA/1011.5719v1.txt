@@ -1,0 +1,1 @@
+We consider singular integral operators and maximal singular integral operators with rough kernels on homogeneous groups. We prove certain estimates for the operators that imply L^p boundedness of them by an extrapolation argument under a sharp condition for the kernels. Also, we prove some weighted L^p inequalities for the operators.

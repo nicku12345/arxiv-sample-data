@@ -1,0 +1,1 @@
+Let G be a non-elementary torsion-free hyperbolic group. We prove that the exponential growth rate of the periodic quotient G/G^n tends to the one of G as n odd approaches infinity. Moreover we provide an estimate at which the convergence is taking place.

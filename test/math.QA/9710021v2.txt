@@ -1,0 +1,1 @@
+We study the generalized homology associated with a nilpotent endomorphism d satisfying d^N=0. For simplicial modules we construct such nilpotent endomorphisms and we prove a general result relating the corresponding generalized homologies to the ordinary homology. We also discuss the generalization of the notion of graded differential algebra in this context.

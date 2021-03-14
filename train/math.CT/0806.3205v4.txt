@@ -1,0 +1,1 @@
+We suggest a generalization of Pontryagin duality from the category of commutative Stein groups to the category of (not necessarily commutative) Stein groups with algebraic connected component of identity. In contrast to the other similar generalizations, in our approach the enveloping category consists of Hopf algebras (in a proper symmetrical monoidal category).

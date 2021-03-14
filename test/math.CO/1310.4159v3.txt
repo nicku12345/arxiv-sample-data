@@ -1,0 +1,1 @@
+We prove da Silva's 1987 conjecture that any positively oriented matroid is a positroid; that is, it can be realized by a set of vectors in a real vector space. It follows from this result and a result of the third author that the positive matroid Grassmannian (or positive MacPhersonian) is homeomorphic to a closed ball.

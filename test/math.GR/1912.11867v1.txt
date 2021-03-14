@@ -1,0 +1,1 @@
+In this short note we prove that a group G is lcH-slender -- that is, every abstract group homomorphism from a locally compact Hausdorff topological group to G has an open kernel -- if and only if G is torsion-free and does not include Q or the p-adic integers Zp for any prime p. This mirrors a classical characterization given by Nunke for slender abelian groups.

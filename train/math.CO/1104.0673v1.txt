@@ -1,0 +1,1 @@
+In previous work, we associated to any finite simple graph a particular set of derangements of its vertices. These derangements are in bijection with the spheres in the wedge sum describing the homotopy type of the boolean complex for this graph. Here we study the frequency with which a given derangement appears in this set.

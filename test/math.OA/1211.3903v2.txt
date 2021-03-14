@@ -1,0 +1,1 @@
+We explore a duality between von-Neumann's mean ergodic theorem in von-Neumann algebra and Birkhoff's mean ergodic theorem in the pre-dual Banach space of von-Neumann algebras. Besides improving known mean ergodic theorems on von-Neumann algebras, we prove Birkhoff's mean ergodic theorem for any locally compact second countable amenable group action on the pre-dual Banach space.

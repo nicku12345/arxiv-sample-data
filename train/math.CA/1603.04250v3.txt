@@ -1,0 +1,1 @@
+We improve the estimates in the restriction problem in dimension n \ge 4. To do so, we establish a weak version of a k-linear restriction estimate for any k. The exponents in this weak k-linear estimate are sharp for all k and n.

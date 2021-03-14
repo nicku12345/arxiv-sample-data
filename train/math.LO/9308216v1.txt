@@ -1,0 +1,1 @@
+A model M of cardinality lambda is said to have the small index property if for every G subseteq Aut(M) such that [Aut(M):G] <= lambda there is an A subseteq M with |A|< lambda such that Aut_A(M) subseteq G. We show that if M^* is a saturated model of an unsuperstable theory of cardinality > Th(M), then M^* has the small index property.

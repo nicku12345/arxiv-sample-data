@@ -1,0 +1,1 @@
+We construct a real-analytic circle map for which the corresponding Perron-Frobenius operator has a real-analytic eigenfunction with an eigenvalue outside the essential spectral radius when acting upon C^1-functions.

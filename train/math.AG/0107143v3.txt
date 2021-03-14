@@ -1,0 +1,1 @@
+We introduce an algebro-geometric version of the free loop space for any scheme X of finite type. This is an ind-scheme of ind-infinite type containing the scheme of formal germs of curves on X. Then, we give a direct geometric construction, for smooth X, of the chiral de Rham complex of X (introduced by Malikov, Schechtman and Vaintrob).

@@ -1,0 +1,1 @@
+We give an algorithm which computes a presentation for a subgroup, denoted \AM_{g,1,p}, of the automorphism group of a free group. It is known that \AM_{g,1,p} is isomorphic to the mapping-class group of an orientable genus-g surface with one boundary component and p punctures. We define a variation of Auter space.

@@ -1,0 +1,1 @@
+We introduce an analog of the L-function for noncommutative tori. It is proved that such a function coincides with the Hasse-Weil L-function of an elliptic curve with complex multiplication. As a corollary, one gets a localization formula for polynomial rings in terms of the K-theory of noncommutative tori.

@@ -1,0 +1,1 @@
+We show that if a Banach space X has the weak fixed point property for nonexpansive mappings and Y has the generalized Gossez-Lami Dozo property or is uniformly convex in every direction, then the direct sum of X and Y with a strictly monotone norm has the weak fixed point property. The result is new even if Y is finite-dimensional.

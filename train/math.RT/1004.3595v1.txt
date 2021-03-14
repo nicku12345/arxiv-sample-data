@@ -1,0 +1,1 @@
+We define a set of "enhanced" nilpotent quiver representations that generalizes the enhanced nilpotent cone. This set admits an action by an associated algebraic group K with finitely many orbits. We define a combinatorial set that parametrizes the set of orbits under this action and we derive a purely combinatorial formula for the dimension of an orbit.

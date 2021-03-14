@@ -1,0 +1,1 @@
+We introduce a new technique for evaluation of series with zeta coefficients and also for evaluation of certain integrals involving the logGamma function. This technique is based on Hankel integral representations of the Hurwitz zeta, the Lerch Zeta, the Digamma and logGamma functions.

@@ -1,0 +1,1 @@
+We are studying topological properties of the Julia set of the map F(z, p)=((2z/(p+1)-1)^2, ((p-1)/(p+1))^2) of the complex projective plane PC^2 to itself. We show a relation of this rational function with an uncountable family of "paper folding" plane filling curves.

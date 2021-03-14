@@ -1,0 +1,1 @@
+Let \Omega be a m-set, where m>1, is an integer. The Hamming graph H(n,m), has \Omega ^{n} as its vertex-set, with two vertices are adjacent if and only if they differ in exactly one coordinate. In this paper, we provide a proof on the automorphism group of the Hamming graph H(n,m), by using elementary facts of group theory and graph theory.

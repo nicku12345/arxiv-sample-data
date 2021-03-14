@@ -1,0 +1,1 @@
+In this paper we give a Chern-Weil-type construction of characteristic classes of fiber bundles, based on homotopy theory of C-infinity algebras. Our idea is to replace a family of closed manifolds to a family of C-infinity morphisms with family of metrics.

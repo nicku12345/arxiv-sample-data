@@ -1,0 +1,1 @@
+Fast Fourier transforms are used to develop algorithms for the fast generation of correlated Gaussian random fields on d-dimensional rectangular regions. The complexities of the algorithms are derived, simulation results and error analysis are presented.

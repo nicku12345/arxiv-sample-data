@@ -1,0 +1,1 @@
+The table of Gradshteyn and Ryzhik contains some integrals that can be expressed in terms of the incomplete beta function. We describe some elementary properties of this function and use them to check some of the formulas in the mentioned table.

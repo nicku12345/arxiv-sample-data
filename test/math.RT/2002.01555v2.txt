@@ -1,0 +1,1 @@
+In this paper we study the category of Harish-Chandra bimodules HC_{\chi,\psi} in the Deligne category \text{Rep}(GL_t). In particular, we answer Question 3.25 posed in Pavel Etingof's paper arXiv:1407.0373 and determine for which central characters \chi and \psi this category is not zero.

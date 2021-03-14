@@ -1,0 +1,1 @@
+Sierpinski's triangle is a fractal and the Prouhet-Thue-Morse word is sufficiently chaotic to avoid cubes. Here we observe that there is at least a tenuous connection between them: the Sierpinski triangle is evident in Pascal's triangle mod 2 whose inverse, as an infinite lower-triangular matrix, involves the Prouhet-Thue-Morse word.

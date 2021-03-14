@@ -1,0 +1,1 @@
+This is a survey (21 pages, 124 references) written for the MCQMC 2014 conference in Leuven, April 2014. We start with the seminal paper of Bakhvalov (1959) and end with new results on the curse of dimension and on the complexity of oscillatory integrals. Some small errors of earlier versions are corrected.

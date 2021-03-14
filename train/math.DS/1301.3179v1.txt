@@ -1,0 +1,1 @@
+We introduce the concept of a deterministic walk. Confining our attention to the finite state case, we establish hypotheses that ensure that the deterministic walk is transitive, and show that this property is in some sense robust. We also establish conditions that ensure the existence of asymptotic occupation times.

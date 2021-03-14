@@ -1,0 +1,1 @@
+We study the heat content asymptotics with either Dirichlet or Robin boundary conditions where the initial temperature exhibits radial blowup near the boundary. We show that there is a complete small-time asymptotic expansion and give explicit geometrical formulas for the first few terms in the expansion.

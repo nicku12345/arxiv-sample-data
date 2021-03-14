@@ -1,0 +1,1 @@
+It is proved that for a symmetric convex body K in R^n, if for some tau > 0, |K cap (x+tau K)| depends on ||x||_K only, then K is an ellipsoid. As a part of the proof, smoothness properties of convolution bodies ls are studied.

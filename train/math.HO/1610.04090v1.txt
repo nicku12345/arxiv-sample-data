@@ -1,0 +1,1 @@
+We consider the amusing sequence of functions f_n: \mathbb{R} \rightarrow \mathbb{R} given by  f_n(x) = \sum_{k=1}^{n}{\frac{|\sin{(k \pi x)}|}{k}}. Every rational point is eventually the location of a strict local minimum of f_n: more precisely, f_n has a strict local minimum in all rational points x=p/q \in \mathbb{Q} with |q| \leq \sqrt{n}.

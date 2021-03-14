@@ -1,0 +1,1 @@
+Here, we show how the molecular structure appears and becomes stable for supercritical physical conditions. In particular we consider, for the ammonia molecule in a gas, a simple model based on a standard non-linear double-well Schroedinger equation with a dissipative term and a term representing weak collisions.

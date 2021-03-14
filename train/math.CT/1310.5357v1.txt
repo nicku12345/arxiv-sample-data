@@ -1,0 +1,1 @@
+The coordinate projective line over a field is seen as a groupoid with a further `projection' structure. We investigate conversely to what extent such an, abstractly given, groupoid may be coordinatized by a suitable field constructed out of the geometry.

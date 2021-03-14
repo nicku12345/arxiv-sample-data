@@ -1,0 +1,1 @@
+We study forcing notions similar to the Cohen forcing, whichadd some struc-tures in given first-order language. These structures can beseen as versions of uncountable Fra\"iss\'e limits with finite conditions. Among them, we are primarily interested in linear orders.

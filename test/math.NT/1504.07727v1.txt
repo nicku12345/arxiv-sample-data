@@ -1,0 +1,1 @@
+We show that for k>1000 an even number and a sufficiently large prime q, there exists a newform f of weight k and level q such that  L(1/2,f)L(1/2,\text{Sym}^2 f)\neq 0. 

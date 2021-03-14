@@ -1,0 +1,1 @@
+In "Non arithmetic super rigid groups: counter examples to Platonov's conjecture" Bass and Lubotzky gave a counter example to Platonov's conjecture by presenting an example of a linear group with super-rigidity which is not an arithmetic lattice. In this note, a much richer class of such groups is presented with a somewhat simpler proof.

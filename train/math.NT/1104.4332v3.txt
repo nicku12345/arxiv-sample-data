@@ -1,0 +1,1 @@
+We derive a compact determinant formula for calculating and factorizing the hypersum polynomials S^{(L)}_k(N) \equiv \sum_{n_1=1}^N ...\sum_{n_{L+1}=1}^{n_{L}}(n_{L+1})^k expressed in the variable N(N+L+1)

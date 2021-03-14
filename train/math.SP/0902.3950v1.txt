@@ -1,0 +1,1 @@
+We study the distribution of eigenvalues of the Schr\"odinger operator with a complex valued potential V. We prove that if |V| decays faster than the Coulomb potential, then all eigenvalues are in a disc of a finite radius.

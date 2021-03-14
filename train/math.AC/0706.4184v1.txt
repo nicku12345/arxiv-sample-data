@@ -1,0 +1,1 @@
+An example is given of a UFD which has infinitely generated Derksen invariant. The ring is \textquotedblleft almost rigid\textquotedblright\ meaning that the Derksen invariant is equal to the Makar-Limanov invariant. Techniques to show that a ring is (almost) rigid are discussed, among which is a generalization of Mason's abc-theorem.

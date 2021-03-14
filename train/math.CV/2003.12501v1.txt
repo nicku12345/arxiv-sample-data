@@ -1,0 +1,1 @@
+We study the Monge-Amp\`ere operator u \mapsto (\text{dd}^c u)^n and compare it with Dinh-Sibony's intersection product defined via density currents. We show that if u is a plurisubharmonic function belonging to the Blocki-Cegrell class, then the Dinh-Sibony n-fold self-product of \text{dd}^c u exists and coincides with (\text{dd}^c u)^n.

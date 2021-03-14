@@ -1,0 +1,1 @@
+We show that a map between fibrant objects in a closed model category is a weak equivalence if and only if it has the right homotopy extension lifting property with respect to all cofibrations. The dual statement holds for maps between cofibrant objects.

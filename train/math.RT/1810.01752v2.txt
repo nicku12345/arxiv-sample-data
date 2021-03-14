@@ -1,0 +1,1 @@
+Let G=SU(2,1). In this paper we parametrize irreducible unitary (g,K) modules of G. The parametrization is done in two steps. Firstly, we parametrize irreducible (g,K) modules (Theorem 3). In the second step we find unitary (g,K) modules (Theorem 5). One can compare our results with results of Kraljevic.

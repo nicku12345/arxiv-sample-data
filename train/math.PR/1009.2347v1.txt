@@ -1,0 +1,1 @@
+We analyze jump processes Z with ``inert drift'' determined by a ``memory'' process S. The state space of (Z,S) is the Cartesian product of the unit circle and the real line. We prove that the stationary distribution of (Z,S) is the product of the uniform probability measure and a Gaussian distribution.

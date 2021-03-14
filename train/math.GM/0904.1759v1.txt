@@ -1,0 +1,1 @@
+In this paper we obtain a test which minimizes the sum of the two error probabilities irrespective of whether \sigma^2 is known or unknown.

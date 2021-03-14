@@ -1,0 +1,1 @@
+We give a graphical calculus for a monoidal DG category \cal{I} whose Grothendieck group is isomorphic to the ring \mathbb{Z}[\sqrt{-1}]. We construct a categorical action of \cal{I} which lifts the action of \mathbb{Z}[\sqrt{-1}] on \mathbb{Z}^2.

@@ -1,0 +1,1 @@
+We study completely positive module maps on C^{*}-algebras which are C^*-module over another C^*-algebra with compatible actions. We extend several well known dilation and extension results to this setup, including the Stinespring dilation theorem and Wittstock, Arveson, and Voiculescu extension theorems.

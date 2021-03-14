@@ -1,0 +1,1 @@
+We consider the relations between different measures of complexity for free homotopy classes of curves on a surface \Sigma, including the minimum number of self-intersections, the minimum length of the words representing them in a geometric presentation of \pi_1(\Sigma), and the minimum degree of the coverings of \Sigma to which they lift as embeddings.

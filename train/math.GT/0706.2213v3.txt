@@ -1,0 +1,1 @@
+This paper gives an explicit formula for the SL_2(C)-non-abelian Reidemeister torsion as defined in [Dub06] in the case of twist knots. For hyperbolic twist knots, we also prove that the non-abelian Reidemeister torsion at the holonomy representation can be expressed as a rational function evaluated at the cusp shape of the knot.

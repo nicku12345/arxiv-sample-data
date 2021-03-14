@@ -1,0 +1,1 @@
+The present paper gives a generalization of cartesian closed categories, called cartesian closed categories with dependence, whose strict version induces categories with families that support 1-, Sigma- and Pi-types in the strict sense. Consequently, we have obtained a new semantics of dependent type theories that is both categorical and true-to-syntax.

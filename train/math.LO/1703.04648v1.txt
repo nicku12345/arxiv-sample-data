@@ -1,0 +1,1 @@
+We introduce the Dichotomy Property, a new property of some languages in Set Computable Theory, in order to explore the expressivity of some languages which are extensions of MLS. By-product we prove undecidability of MLS extended with not ordered cartesian product and disjoint unary union operators.

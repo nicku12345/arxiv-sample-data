@@ -1,0 +1,1 @@
+It follows from earlier work of Silver-Williams and the authors that twisted Alexander polynomials detect the unknot and the Hopf link. We now show that twisted Alexander polynomials also detect the trefoil and the figure-8 knot, that twisted Alexander polynomials detect whether a link is split and that twisted Alexander modules detect trivial links.

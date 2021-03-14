@@ -1,0 +1,1 @@
+For \alpha \in (1,2) we prove that the initial-value problem \partial_t u+D^\alpha\partial_x u+\partial_x(u^2/2)=0 on \mathbb{R}_x\times\mathbb{R}_t; u(0)=\phi, is globally well-posed in the space of real-valued L^2-functions. We use a frequency dependent renormalization method to control the strong low-high frequency interactions.

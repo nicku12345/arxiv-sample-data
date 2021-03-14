@@ -1,0 +1,1 @@
+We introduce the class of piecewise convex transformations, and study their complexity. We apply the results to the complexity of polygonal billiards on surfaces of constant curvature.

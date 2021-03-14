@@ -1,0 +1,1 @@
+We give a upper bound of Lebesgue measure V(S(f,h,\Omega)) of the set S(f,h,\Omega) of points q\in Q_h^d for which the triple (h,q,\Omega) is dynamically robust when f is monotonic and satisfies certain condition on some compact subset \Omega \in \mathbb{R}^d.

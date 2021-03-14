@@ -1,0 +1,1 @@
+In this paper we prove that the symmetric pair (GL_{n+k}(F),GL_n(F) \times GL_k(F)) is a Gelfand pair for any local field F of characteristic 0. For non-archimedean F it has been proven in [JR]. We use techniques developed in [AG2] to generalize their proof to general local fields.

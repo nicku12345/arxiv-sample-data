@@ -1,0 +1,1 @@
+We prove the Ces\`aro boundedness of eigenfunctions of the Dirac operator on the half-line with a square-summable potential. The proof is based on the theory of Krein systems and, in particular, on the continuous version of a theorem by A. Mate, P. Nevai and V. Totik from 1991.

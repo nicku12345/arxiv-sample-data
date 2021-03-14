@@ -1,0 +1,1 @@
+A linear polyomial non-negative on the non-negativity domain of finitely many linear polynomials can be expressed as their non-negative linear combination. Recently, under several additional assumptions, Helton, Klep, and McCullough extended this result to matrix polynomials. The aim of this paper is to study which of these additional assumptions are really necessary.

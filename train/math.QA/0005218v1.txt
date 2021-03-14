@@ -1,0 +1,1 @@
+For each closed, orientable surface F, we construct a local, diffeomorphism invariant trace on the Kauffman bracket skein module K_t(F x [0,1]). The trace is defined when |t| is neither 0 nor 1, and at certain roots of unity. At t = - 1, the trace is integration against the symplectic measure on the SU(2) character variety of the fundamental group of F.

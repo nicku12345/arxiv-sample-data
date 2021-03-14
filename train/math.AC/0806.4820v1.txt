@@ -1,0 +1,1 @@
+The j-multiplicity is an invariant that can be defined for any ideal in a Noetherian local ring (R, m). It is equal to the Hilbert-Samuel multiplicity if the ideal is m-primary. In this paper we explore the computability of the j-multiplicity, giving another proof for the length formula and the additive formula.

@@ -1,0 +1,1 @@
+Limiting real interpolation method is applied to describe the behaviour of the Fourier coefficients of functions that belong to spaces which are "very close" to L2.

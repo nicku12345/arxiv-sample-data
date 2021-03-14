@@ -1,0 +1,1 @@
+Tensor type data are becoming important recently in various application fields. We determine a rank of a tensor T so that A+T is diagonalizable for a given 3-tensor A with 2 slices over the complex and real number field.

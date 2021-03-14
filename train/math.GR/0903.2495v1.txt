@@ -1,0 +1,1 @@
+We prove that when n>=5, the Dehn function of SL(n,Z) is at most quartic. The proof involves decomposing a disc in SL(n,R)/SO(n) into a quadratic number of loops in generalized Siegel sets. By mapping these loops into SL(n,Z) and replacing large elementary matrices by "shortcuts," we obtain words of a particular form, and we use combinatorial techniques to fill these loops.

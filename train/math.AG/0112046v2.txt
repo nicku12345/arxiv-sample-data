@@ -1,0 +1,1 @@
+Let Y be a surface with only finitely many singularities all of which are cusps. A set of cusps on Y is called three-divisible, if there is a cyclic global triple cover of Y branched precisely over these cusps. The aim of this note is to determine the equations of surfaces Y \subset P_3 of degrees \leq 6 carrying a minimal, non-empty, three-divisible set.

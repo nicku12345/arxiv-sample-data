@@ -1,0 +1,1 @@
+We give a sketch of proof that any two (Lebesgue) measurable subsets of the unit sphere in R^n, for n\ge 3, with non-empty interiors and of the same measure are equidecomposable using pieces that are measurable.

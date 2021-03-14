@@ -1,0 +1,1 @@
+We study Artin-Schelter regular algebras of global dimension 4 with three generators of degree one. We classify those which are domains and which have an additional Z x Z-grading, and prove that all of these examples are also strongly noetherian, Auslander regular, and Cohen-Macaulay.

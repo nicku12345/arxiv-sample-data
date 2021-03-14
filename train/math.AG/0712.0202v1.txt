@@ -1,0 +1,1 @@
+In this paper we show that semistable vector bundles on a Castelnuovo curve of genus g >= 2 have theta divisors. As a corollary, we deduce that semistable vector bundles on a smooth, general curve of genus g >= 2 which extend to semistable vector bundles on any Castelnuovo degeneration of the general curve admit a theta divisor.

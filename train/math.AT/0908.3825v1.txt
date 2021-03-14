@@ -1,0 +1,1 @@
+In this paper it is shown that the RO(Z/2)-graded cohomology of a certain class of Rep(Z/2)-complexes, which includes projective spaces and Grassmann manifolds, is always free as a module over the cohomology of a point when the coefficient Mackey functor is \underline{Z/2}.

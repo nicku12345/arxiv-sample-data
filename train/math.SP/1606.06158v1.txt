@@ -1,0 +1,1 @@
+In this paper we give several expressions of spectral radius of a bounded operator on a Hilbert space, in terms of iterates of Aluthge transformation, numerical radius and the asymptotic behavior of the powers of this operator. Also we obtain several characterizations of normaloid operators.

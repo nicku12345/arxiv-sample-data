@@ -1,0 +1,1 @@
+We consider impulsive semiflows defined on compact metric spaces and give sufficient conditions, both on the semiflows and the potentials, for the existence and uniqueness of equilibrium states. We also generalize the classical notion of topological pressure to our setting of discontinuous semiflows and prove a variational principle.

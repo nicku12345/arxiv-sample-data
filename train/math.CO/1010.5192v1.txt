@@ -1,0 +1,1 @@
+We give a self-contained proof that for all positive integers r and all \epsilon > 0, there is an integer N = N(r, \epsilon) such that for all n \ge N any regular multigraph of order 2n with multiplicity at most r and degree at least (1+\epsilon)rn is 1-factorizable. This generalizes results of Perkovi{\'c} and Reed, and Plantholt and Tipnis.

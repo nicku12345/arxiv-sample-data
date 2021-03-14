@@ -1,0 +1,1 @@
+This is the first part of a work dedicated to the study of Bernstein-Sato polynomials for several analytic functions depending on parameters. The main result of this part is a constructibility result for the analytic Gr\"obner fan of a parametric ideal in the ring of analytic differential operators. In this part, the main tool is the notion of generic reduced standard basis.

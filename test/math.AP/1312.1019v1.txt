@@ -1,0 +1,1 @@
+We prove L^2 orbital stability of Dirac solitons in the massive Thirring model. Our analysis uses local well posedness of the massive Thirring model in L^2, conservation of the charge functional, and the auto--B\"{a}cklund transformation. The latter transformation exists because the massive Thirring model is integrable via the inverse scattering transform method.

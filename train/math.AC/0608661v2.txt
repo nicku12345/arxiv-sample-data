@@ -1,0 +1,1 @@
+Given a Noetherian local ring (R,m) it is shown that there exists an integer l such that R is Gorenstein if and only if some system of parameters contained in m^l generates an irreducible ideal. We obtain as a corollary that R is Gorenstein if and only if every power of the maximal ideal contains an irreducible parameter ideal.

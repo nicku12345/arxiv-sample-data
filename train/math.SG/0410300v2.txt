@@ -1,0 +1,1 @@
+Let K be a null-homologous knot in a three-manifold Y. We give a description of the Heegaard Floer homology of integer surgeries on Y along K in terms of the filtered homotopy type of the knot invariant for K. As an illustration, we calculate the Heegaard Floer homology groups of non-trivial circle bundles over Riemann surfaces.

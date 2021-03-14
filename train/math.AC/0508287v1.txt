@@ -1,0 +1,1 @@
+We give a variant of the homogeneous Buchberger algorithm for positively graded lattice ideals. Using this algorithm we solve the Sullivant computational commutative algebra challenge.

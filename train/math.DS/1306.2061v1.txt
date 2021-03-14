@@ -1,0 +1,1 @@
+We show that Lorenz flows have neither limit shadowing property nor average shadowing property nor the asymptotic average shadowing property where the reparametrizations related to these concepts relies on the set of increasing homeomorphisms with bounded variation.

@@ -1,0 +1,1 @@
+In this paper, we study various dissipative mechanics associated with the Boussinesq systems which model two-dimensional small amplitude long wavelength water waves. We will show that the decay rate for the damped one-directional model equations, such as the KdV and BBM equations, holds for some of the damped Boussinesq systems which model two-directional waves.

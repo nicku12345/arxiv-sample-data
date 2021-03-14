@@ -1,0 +1,1 @@
+We show how the Alexander polynomial of links in lens spaces is related to the classical Alexander polynomial of a link in the 3-sphere, obtained by cutting out the exceptional lens space fibre. It follows from these relationship that a certain normalization of the Alexander polynomial satisfies a skein relation in lens spaces.

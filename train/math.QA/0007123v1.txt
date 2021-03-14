@@ -1,0 +1,1 @@
+We study the universal integrable modules W_q(m) of level zero for quantum affine sl_2 and a family of maximal finite--dimensional quotients of these modules. We show that these all have dimension 2^m. Using this, we are able to realize W_q(m) as the space of invariants of a reprsentation of the Hecke algebra H_m. We also give a conjecture in the general case.

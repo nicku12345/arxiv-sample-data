@@ -1,0 +1,1 @@
+Let B be a finite CW complex and G a compact connected Lie group. We show that the number of gauge groups of principal G-bundles over B is finite up to A_n-equivalence for n<\infty. As an example, we give a lower bound of the number of A_n-equivalence types of gauge groups of principal \SU(2)-bundles over S^4.

@@ -1,0 +1,1 @@
+This paper provides some explicit formulas related to addition theorems for elliptic integrals \int_0^x dt/R(t), where R(t) is the square root from a polynomial of degree 4. These integrals are related to complex elliptic genera and are motivated by Euler's addition theorem for elliptic integrals of the first kind.

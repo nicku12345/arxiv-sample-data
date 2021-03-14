@@ -1,0 +1,1 @@
+We give closed formulas for all vectors of the canonical basis of a level 2 irreducible integrable representation of U_v(sl_\infty). These formulas coincide at v=1 with Lusztig's formulas for the constructible characters of the Iwahori-Hecke algebras of type B and D.

@@ -1,0 +1,1 @@
+A very general KSGNS type dilation theorem in the context of right (not necessarily Hilbert) modules over C^*-algebras is presented. The proof uses Kolmogorov type decompositions for positive-definite kernels with values in spaces of sesquilinear maps. More specific functional analytic applications are obtained by adding assumptions.

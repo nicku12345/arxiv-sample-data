@@ -1,0 +1,1 @@
+Given a simple finite-dimensional Lie algebra and an automorphism of finite order, one defines the notion of a twisted toroidal Lie algebra. In this paper, we construct representations of twisted toroidal Lie algebras from twisted modules over affine and lattice vertex algebras.

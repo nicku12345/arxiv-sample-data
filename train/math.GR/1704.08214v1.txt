@@ -1,0 +1,1 @@
+For a finite group G and a non-negative integer d, denote by \Omega_d(G) the number of functions G^d\rightarrow G that are induced by substitution into a word with variables among X_1,\ldots,X_d. In this note, we show that nilpotency of G can be characterized through the asymptotic growth rate of \Omega_d(G) as d\to\infty.

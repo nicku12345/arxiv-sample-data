@@ -1,0 +1,1 @@
+Let (X,\omega) be a compact symplectic manifold whose first Chern class c_1(X) is divisible by a positive integer n. We construct a \mathbb{Z}_{2n}-action on its Fukaya category Fuk(X) and a \mathbb{Z}_n-action on the local models of its moduli of Lagrangian branes. We show that this action is compatible with the gluing functions for different local models.

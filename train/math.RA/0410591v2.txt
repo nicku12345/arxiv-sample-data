@@ -1,0 +1,1 @@
+There is a natural algebra map (in fact, embedding) from the noncommutative symmetric functions NSym to the quadratic algebra Q_{\infty} of pseudoroots of polynomials. In this note, I show that it is not a coalgebra map. Hence, the Hopf algebra structure on NSym can't be extended to this important larger algebra.

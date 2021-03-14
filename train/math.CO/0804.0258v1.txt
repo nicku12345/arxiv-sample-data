@@ -1,0 +1,1 @@
+Generalizing the results of Thue (for n = 2) and of Klepinin and Sukhanov (for n = 3), we prove that for all n greater than or equal to 2, the critical exponent of the Arshon word of order n is given by (3n-2)/(2n-2), and this exponent is attained at position 1.

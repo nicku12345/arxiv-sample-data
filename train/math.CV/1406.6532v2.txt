@@ -1,0 +1,1 @@
+The purpose of this paper is to prove L^p-Sobolev and H\"older estimates for the Bergman projection on a class of pseudoconvex domains that admit a "good" dilation and satisfy Bell-Ligocka's Condition R. We prove that this class of domains includes the h-extendible domains, a large class of weakly pseudoconvex domains of finite type.

@@ -1,0 +1,1 @@
+Moduli spaces of hyperbolic surfaces may be endowed with a symplectic structure via the Weil-Petersson form. Mirzakhani proved that Weil-Petersson volumes exhibit polynomial behaviour and that their coefficients store intersection numbers on moduli spaces of curves. In this survey article, we discuss these results as well as some consequences and applications.

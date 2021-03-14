@@ -1,0 +1,1 @@
+We define a symmetric monoidal structure on the parametrised stable homotopy category over a base space with an action of an E_\infty operad. We discuss products, orientations and push-forwards in parametrised cohomology theories corresponding to parametrised ring spectra. Finally, we construct parametrised ring spectra representing twisted K-theory and twisted Spinc-cobordism.

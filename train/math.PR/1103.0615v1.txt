@@ -1,0 +1,1 @@
+We consider a mixed stochastic differential equation driven by possibly dependent fractional Brownian motion and Brownian motion. Under mild regularity assumptions on the coefficients, it is proved that the equation has a unique solution.

@@ -1,0 +1,1 @@
+We show that many integrals containing products of confluent hypergeometric functions follow directly from one single integral that has a very simple formula in terms of Appell's double series F_2. We present some techniques for computing such series. Applications requiring the matrix elements of singular potentials and the perturbed Kratzer potential are presented.

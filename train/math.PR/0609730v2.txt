@@ -1,0 +1,1 @@
+We provide a new exponential concentration inequality for   First Passage Percolation valid for a wide class of edge times distributions. This improves and extends a result by Benjamini, Kalai and Schramm which gave a variance bound for Bernoulli edge times. Our approach is based on some functional inequalities extending the work of Rossignol and Falik and Samorodnitsky.

@@ -1,0 +1,1 @@
+We show that on the dual of a Lie algebra \g of dimension d, the star-product recently introduced by M. Kontsevich is equivalent to the Gutt star-product on \g^\ast. We give an explicit expression for the operator realizing the equivalence between these star-products.

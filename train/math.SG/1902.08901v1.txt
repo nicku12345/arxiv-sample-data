@@ -1,0 +1,1 @@
+We show that for any nonzero class A in H_2(X; \mathbb{Z}_2) in a rational 4-manifold X, A is represented by a nonorientable embedded Lagrangian surface L (for some symplectic structure) if and only if P(A)\equiv (L) (mod\ 4); where P(A) denotes the mod 4 valued Pontrjagin square of A.

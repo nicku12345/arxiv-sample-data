@@ -1,0 +1,1 @@
+We describe a diagrammatic procedure which lifts strict monoidal actions from additive categories to categories of complexes avoiding any use of direct sums. As an application, we prove that every simple transitive 2-representation of the 2-category of projective bimodules over a finite dimensional algebra is equivalent to a cell 2-representation.

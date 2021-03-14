@@ -1,0 +1,1 @@
+In this paper, we introduce a class of infinite matrices related to the Beurling algebra of periodic functions, and we show that it is an inverse-closed subalgebra of {\mathcal B}(\ell^q_w), the algebra of all bounded linear operators on the weight sequence space \ell^q_w, for any 1\le q<\infty and any discrete Muckenhoupt A_q-weight w.

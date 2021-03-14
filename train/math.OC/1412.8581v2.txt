@@ -1,0 +1,1 @@
+We show that any semi-algebraic sweeping process admits piecewise absolutely continuous solutions, and any such bounded trajectory must have finite length. Analogous results hold more generally for sweeping processes definable in o-minimal structures. This extends previous work on (sub)gradient dynamical systems beyond monotone sweeping sets.

@@ -1,0 +1,1 @@
+In this paper we introduce a new method to produce lower bounds for the Waring rank of symmetric tensors. We also introduce the notion of e-computability and we use it to prove that Strassen's Conjecture holds in infinitely many new cases.

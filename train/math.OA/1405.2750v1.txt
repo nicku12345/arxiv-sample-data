@@ -1,0 +1,1 @@
+We show that semiprojectivity of a C*-algebra is preserved when passing to C*-subalgebras of finite codimension. In particular, any pullback of two semiprojective C*-algebras over a finite-dimensional C*-algebra is again semiprojective.

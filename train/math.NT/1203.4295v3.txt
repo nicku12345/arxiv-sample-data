@@ -1,0 +1,1 @@
+We show that the inhomogenous approximation spectrum, associated to an irrational number \alpha\ always has a Hall's Ray; that is, there is an \epsilon>0 such that [0,\epsilon) is a subset of the spectrum. In the case when \alpha\ has unbounded partial quotients we show that the spectrum is just a ray.

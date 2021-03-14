@@ -1,0 +1,1 @@
+We compute the shape derivative of the first eigenvalue of the 1-Laplacian. As an application, we find that a ball is critical among all volume-preserving deformations.

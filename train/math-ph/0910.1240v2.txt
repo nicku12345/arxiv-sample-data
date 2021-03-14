@@ -1,0 +1,1 @@
+We propose an alternative approach that avoids the nonlinear equations for the Fourier coefficients that appear in the method of harmonic balance. We apply it to two simple illustrative examples.

@@ -1,0 +1,1 @@
+We prove that if a contact manifold (M,\xi) is supported by a planar open book, then Euler characteristic and signature of any Stein filling of (M,\xi) is bounded. We also prove a similar finiteness result for contact manifolds supported by spinal open books with planar pages. Moving beyond the geography of Stein fillings, we classify fillings of some lens spaces.

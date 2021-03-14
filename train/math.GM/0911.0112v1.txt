@@ -1,0 +1,1 @@
+In this note we solve theoretically the Schrodingers differential equation using results based on our previous work which concern semigroup operators. Our method does not use eigenvectors or eigenvalues and the solution depends only from the selected base of the Hilbert space.

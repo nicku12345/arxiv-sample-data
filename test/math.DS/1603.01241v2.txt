@@ -1,0 +1,1 @@
+We recast the notion of parablender introduced in [Berger2015] as a parametric IFS. This is done using the concept of open covering property and looking to parametric IFS as systems acting on jets.

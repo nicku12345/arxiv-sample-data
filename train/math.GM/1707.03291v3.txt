@@ -1,0 +1,1 @@
+We propose a simple mathematical model based on two axioms and the set theory to approach the problem developed by the philosopher B. Spinoza in "the Ethics". We then use the Knaster-Tarski Theorem to prove the existence and uniqueness of the Substance asserted by Spinoza.

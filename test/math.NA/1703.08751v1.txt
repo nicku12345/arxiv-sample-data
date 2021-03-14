@@ -1,0 +1,1 @@
+In this article, we attempted to develop an upwind scheme based on Flux Difference Splitting using Jordan canonical forms to simulate genuine weakly hyperbolic systems. Theory of Jordan Canonical Forms is being used to complete defective set of linear independent eigenvectors. Proposed FDS-J scheme is capable of recognizing various shocks accurately.

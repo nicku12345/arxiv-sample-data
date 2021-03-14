@@ -1,0 +1,1 @@
+In this paper we derive approximate quasi-interpolants when the values of a function u and of some of its derivatives are prescribed at the points of a uniform grid. As a byproduct of these formulas we obtain very simple approximants which provide high order approximations for solutions to elliptic differential equations with constant coefficients.

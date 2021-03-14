@@ -1,0 +1,1 @@
+Let FL_s(K) be the finitary linear group of degree s over an associative ring K with unity. We prove that the torsion subgroups of FL_s(K) are locally finite for certain classes of rings K. A description of some f.g. solvable subgroups of FL_s(K) are given.

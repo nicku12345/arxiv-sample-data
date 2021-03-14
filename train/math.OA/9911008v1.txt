@@ -1,0 +1,1 @@
+In the reduced free product of C*-algebras (A,phi)=(A_1,phi_1)*(A_2,phi_2), A is shown to be purely infinite and simple under the hypothesis that A_1 is the crossed product of a C*-algebra by a discrete infinite group, phi_1 is well behaved with respect to this crossed product and A_2 is not one dimensional.

@@ -1,0 +1,1 @@
+It is known that for every second countable locally compact group G, there exists a proper G-invariant metric which induces the topology of the group. This is no longer true for coset spaces G/H viewed as G-spaces. We study necessary and sufficient conditions which ensure the existence of such metrics on G/H.

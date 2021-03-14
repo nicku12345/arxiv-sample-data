@@ -1,0 +1,1 @@
+Using the method of the Laplace transform, we consider fractional oscillations. They are obtained by the time-clock randomization of ordinary harmonic vibrations. In contrast to sine and cosine, the functions describing the fractional oscillations exhibit a finite number of damped oscillations with an algebraic decay. Their fractional differential equation is derived.

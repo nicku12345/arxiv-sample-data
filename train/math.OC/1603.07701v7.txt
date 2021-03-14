@@ -1,0 +1,1 @@
+We propose a simple way to explain Univerasal method of Yu. Nesterov. Based on this method and using the restart technique we propose Universal method for strictly convex optimization problems. We consider general proximal set up (not necessarily euclidian one).

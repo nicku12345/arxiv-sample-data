@@ -1,0 +1,1 @@
+Optimal upper bounds are provided for the dominant dimensions of Nakayama algebras and more generally algebras A with an idempotent e such that there is a minimal faithful injective-projective module eA and such that eAe is a Nakayama algebra. This answers a question of Abrar and proves a conjecture of Yamagata for monomial algebras.

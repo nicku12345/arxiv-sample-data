@@ -1,0 +1,1 @@
+To a generic holomorphic vector bundle on an algebraic curve and an irreducible finite-dimensional representation of a semisimple Lie algebra, we assign a representation of the corresponding affine Krichever--Novikov algebra in the space of semi-infinite exterior forms. It is shown that equivalent pairs of data give rise to equivalent representations and vice versa.

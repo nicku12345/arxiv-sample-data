@@ -1,0 +1,1 @@
+A C*-algebra is said to be K-stable if its nonstable K-groups are naturally isomorphic to the usual K-theory groups. We study continuous C(X)-algebras, each of whose fibers are K-stable. We show that such an algebra is itself K-stable under the assumption that the underlying space X is compact, metrizable, and of finite covering dimension.

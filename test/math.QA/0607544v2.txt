@@ -1,0 +1,1 @@
+We study the relationship between the HOMFLY and sl(N) knot homologies introduced by Khovanov and Rozansky. For each N>0, we show there is a spectral sequence which starts at the HOMFLY homology and converges to the sl(N) homology. As an application, we determine the KR-homology of knots with 9 crossings or fewer.

@@ -1,0 +1,1 @@
+We define the notion of an approximate triangulation for a manifold M embedded in euclidean space. The basic idea is to build a nested family of simplicial complexes whose vertices lie in M and use persistent homology to find a complex in the family whose homology agrees with that of M. Our key examples are various Grassmann manifolds G_k({\mathbb R}^n).

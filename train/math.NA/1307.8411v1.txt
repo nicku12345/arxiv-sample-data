@@ -1,0 +1,1 @@
+Singularities in the Jacobian matrix are an obstacle to Newton's method. We show that stepsize controls suggested by Deuflhard and Steinhoff can be used to detect and rapidly converge to such singularities.

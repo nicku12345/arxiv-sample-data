@@ -1,0 +1,1 @@
+The Landau Hamiltonian, describing the behavior of a quantum particle in dimension 2 in a constant magnetic field, is perturbed by a magnetic field with power-like decay at infinity and a similar electric potential. We describe how the spectral subspaces change and how the Landau levels split under this perturbation.

@@ -1,0 +1,1 @@
+For k=1,\ldots,K, let A_k and B_k be positive semidefinite matrices such that, for each k, A_k commutes with B_k. We show that, for any unitarily invariant norm, \[ |||\sum_{k=1}^K A_kB_k||| \le ||| (\sum_{k=1}^K A_k)\;(\sum_{k=1}^K B_k)|||. \]

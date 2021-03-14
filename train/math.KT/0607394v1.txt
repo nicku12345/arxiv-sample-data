@@ -1,0 +1,1 @@
+We prove that for d \geq 2, an algebraic d-Calabi-Yau triangulated category endowed with a d-cluster tilting subcategory is the stable category of a DG category which is perfectly (d+1)-Calabi-Yau and carries a non degenerate t-structure whose heart has enough projectives.

@@ -1,0 +1,1 @@
+Here, question raised by Borwein and Yao has been settled by establishing that the sum of two maximal monotone operators A and B is maximal monotone with the condition that A is of type (FPV) and satisfies Rockafellar's constraints qualification. Also we have proved that A+B is of type (FPV) without assuming convexity on the domain of A.

@@ -1,0 +1,1 @@
+We consider the equation \Ds u+u=u^p, with s\in(0,1) in the subcritical range of p. We prove that if s is sufficiently close to 1 the equation possesses a unique minimizer, which is nondegenerate.

@@ -1,0 +1,1 @@
+R. Glassey and W. Strauss have proved in [Arch. Rational Mech. Anal. 92 (1986), 59--90] that classical solutions to the relativistic Vlasov-Maxwell system in three space dimensions do not develop singularities as long as the support of the distribution function in the momentum variable remains bounded. The present paper simplifies their proof.

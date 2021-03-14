@@ -1,0 +1,1 @@
+We consider the correspondence assigning to every Radon measure on two Tychonoff coordinate spaces the set of probability measures with these marginals. It is proved that this correspondence is continuous.

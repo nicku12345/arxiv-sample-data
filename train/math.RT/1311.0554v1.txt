@@ -1,0 +1,1 @@
+The theory of support varieties gives a rich supply of examples of thick subcategories of the stable module category of a finite group algebra. We study direct sum decompositions of such categories. We give examples where there are finer decompositions than one might originally expect, and relate this to Linckelmann's theory of block varieties.

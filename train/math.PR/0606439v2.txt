@@ -1,0 +1,1 @@
+A complete representation of the Martin boundary of killed random walks on a half-space \Z^{d-1}\times\N^* is obtained. In particular, it is proved that the corresponding Martin boundary is homemorphic to the half-sphere {\cal S}^d_+ = \{z\in\R^{d-1}\times\R_+ : |z|=1\}. The method is based on a combination of ratio limits theorems and large deviation techniques.

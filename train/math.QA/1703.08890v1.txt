@@ -1,0 +1,1 @@
+We show the existence of a finite group G having an irreducible character \chi with Frobenius-Schur indicator \nu_2(\chi){=}{+}1 such that \chi^2 has an irreducible constituent \varphi with \nu_2(\varphi){=}{-}1. This provides counterexamples to the positivity conjecture in rational CFT and a conjecture of Zhenghan Wang about pivotal fusion categories.

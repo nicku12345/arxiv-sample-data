@@ -1,0 +1,1 @@
+In this paper, we study uniform perturbations of von Neumann subalgebras of a von Neumann algebra. Let N and M be von Neumann subalgebras of a von Neumann algebra with finite probabilistic index in the sense of Pimsner-Popa. If N and M are sufficiently close, then N and M are unitarily equivalent. The implementing unitary can be chosen as being close to the identity.

@@ -1,0 +1,1 @@
+The conjecture of Wolmer Vasconcelos on the vanishing of the first Hilbert coefficient e_1(Q) is solved affirmatively, where Q is a parameter ideal in a Noetherian local ring. Basic properties of the rings for which e_1(Q) vanishes are derived. The invariance of e_1(Q) for parameter ideals Q and its relationship to Buchsbaum rings are studied.

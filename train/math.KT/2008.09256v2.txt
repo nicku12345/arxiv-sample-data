@@ -1,0 +1,1 @@
+Let R be a strong n-coherent ring such that each finitely n-presented R-module has finite projective dimension. We consider \mathcal{FP}_{n}(R) the full subcategory of R-Mod of finitely n-presented modules. We prove that \mathcal{FP}_{n}(R) is an exact category, K_{i}(R) = K_{i}(\mathcal{FP}_{n}(R)) for every i\geq 0 and obtain an expression of \operatorname{Nil}_{i}(R).

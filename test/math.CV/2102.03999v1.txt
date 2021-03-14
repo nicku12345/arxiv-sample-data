@@ -1,0 +1,1 @@
+In this article, we investigate the (big) Hankel operators H_f on Hardy spaces of strongly pseudoconvex domains with smooth boundaries in \mathbb{C}^n. We also give a necessary and sufficient condition for boundedness of the Hankel operator H_f on the Hardy space of the unit disc, which is new in the setting of one variable.

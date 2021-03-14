@@ -1,0 +1,1 @@
+We give an algebraic presentation of directed acyclic graph structure, introducing a symmetric monoidal equational theory whose free PROP we characterise as that of finite abstract dags with input/output interfaces. Our development provides an initial-algebra semantics for dag structure.

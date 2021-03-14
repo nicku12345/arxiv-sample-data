@@ -1,0 +1,1 @@
+In this note, we show that the Cauchy stress tensor \sigma in nonlinear elasticity is injective along rank-one connected lines provided that the constitutive law is strictly rank-one convex. This means that \sigma(F+\xi\otimes \eta)=\sigma(F) implies \xi\otimes \eta=0 under strict rank-one convexity.

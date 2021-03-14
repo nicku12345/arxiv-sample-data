@@ -1,0 +1,1 @@
+In this short note we prove that a definable set X over \mathbb F_n is superstable only if X(\mathbb F_n)=X(\mathbb F_{\omega}).

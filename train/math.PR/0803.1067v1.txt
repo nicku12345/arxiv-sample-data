@@ -1,0 +1,1 @@
+Motivated by applications in mathematical biology concerning randomly alternating motion of micro-organisms, we analyze a generalized integrated telegraph process. The random times between consecutive velocity reversals are gamma-distributed, and perform an alternating renewal process. We obtain the probability law and the mean of the process.

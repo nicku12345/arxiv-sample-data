@@ -1,0 +1,1 @@
+In this paper we show irreducibility and the strong Feller property for transition probabilities of stochastic differential equations with jumps and monotone coefficients. Thus, exponential ergodicity and the spectral gap for the corresponding transition semigroups are obtained.

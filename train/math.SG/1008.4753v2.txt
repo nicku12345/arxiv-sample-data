@@ -1,0 +1,1 @@
+We prove that the mirror map is the SYZ map for every toric Calabi-Yau surface. As a consequence one obtains an enumerative meaning of the mirror map. This involves computing genus-zero open Gromov-Witten invariants, which is done by relating them with closed Gromov-Witten invariants via compactification and using an earlier computation by Bryan-Leung.

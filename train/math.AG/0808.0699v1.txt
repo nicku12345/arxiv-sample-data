@@ -1,0 +1,1 @@
+S.Block and H.Esnault constructed the local Fourier transform for D-modules. We present a different approach to the local Fourier transform, which makes its properties almost tautological. We apply the local Fourier transform to compute the local version of Katz's middle convolution.

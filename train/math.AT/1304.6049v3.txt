@@ -1,0 +1,1 @@
+In this Note, for the future purposes of relative formal derived deformation theory and of derived coisotropic structures, we prove the existence of a model structure on the category of dg-Lie algebroids over a cochain differential non-positively graded commutative algebra over a commutative base ring k of characteristic 0.

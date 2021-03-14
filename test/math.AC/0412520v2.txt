@@ -1,0 +1,1 @@
+A finite simplicial graph \Gamma determines a right-angled Artin group G_\Gamma, with generators corresponding to the vertices of \Gamma, and with a relation vw=wv for each pair of adjacent vertices. We compute the lower central series quotients, the Chen quotients, and the (first) resonance variety of G_\Gamma, directly from the graph \Gamma.

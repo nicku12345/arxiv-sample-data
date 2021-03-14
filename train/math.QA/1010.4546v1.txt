@@ -1,0 +1,1 @@
+Let X be a complex affine curve (not isomorphic to the affine line), and let Pic(D) be the group of autoequivalences of the category of D(X)-modules. Cannings and Holland have shown that Pic(D) fits into an exact sequence in which the other groups can be considered known: we show that this sequence is split.

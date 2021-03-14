@@ -1,0 +1,1 @@
+We describe how the Hochschild (co)homology of a bound quiver algebra changes when adding or deleting arrows to the quiver. The main tools are relative Hochschild (co)homology, the Jacobi-Zariski long exact sequence obtained by A. Kaygun and a one step relative projective resolution of a tensor algebra.

@@ -1,0 +1,1 @@
+Suppose that X is a nonsingular variety and D is a nonsingular proper subvariety. Configuration spaces of distinct and non-distinct n points in X away from D were constructed by the author and B. Kim in arXiv:0806.3819, by using the method of wonderful compactification. In this paper, we give an explicit presentation of Chow motives and Chow rings of these configuration spaces.

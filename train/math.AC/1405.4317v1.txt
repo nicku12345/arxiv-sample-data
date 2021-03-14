@@ -1,0 +1,1 @@
+One deals with catalectic codimension two perfect ideals and certain degenerations thereof, with a view towards the nature of their symbolic powers. In the spirit of [10] one considers linearly presented such ideals, only now in the situation where the number of variables is sufficiently larger than the size of the matrix, yet still stays within reasonable bounds.

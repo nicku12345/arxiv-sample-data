@@ -1,0 +1,1 @@
+By using a change of scale and space, we study a class of stochastic differential equations (SDEs) whose solutions are drift--perturbed and exhibit behaviour analogous to standard Brownian motion including to the Law of the Iterated Logarithm (LIL). Sufficient conditions ensuring that these processes obey the LIL are given.

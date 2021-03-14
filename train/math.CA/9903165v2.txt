@@ -1,0 +1,1 @@
+We show that a homogeneous convolution kernel on an arbitrary homogeneous group which is L \log L on the unit annulus is bounded on L^p for 1 < p < \infty and is of weak-type (1,1), generalizing the result of Seeger. The proof is in a similar spirit to that of Christ and Rubio de Francia.

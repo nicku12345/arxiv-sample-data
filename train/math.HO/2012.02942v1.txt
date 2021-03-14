@@ -1,0 +1,1 @@
+The automorphism group of the Petersen Graph is shown to be isomorphic to the symmetric group on 5 elements. The image represents the Petersen Graph with the ten 3-element subsets of \{1, 2, 3, 4, 5\} as vertices. Two vertices are adjacent when they have precisely one element in common.

@@ -1,0 +1,1 @@
+We prove that the maximal number of directed edges in a vertex-critical strongly connected simple digraph on n vertices is n(n-1)/2 - n +4.

@@ -1,0 +1,1 @@
+For each r, 0 <= r <= m, it is presented the class of quaternary linear codes LRM(r,m) whose images under the Gray map are binary codes with parameters of Reed-Muller RM(r,m) code of order r.

@@ -1,0 +1,1 @@
+In [5] I solved the Thom's conjecture that a proper Thom map is triangulable. In this paper I drop the properness condition in the semialgebraic case and, moreover, in the definable case in an o-minimal structure.

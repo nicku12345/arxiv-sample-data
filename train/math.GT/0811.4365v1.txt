@@ -1,0 +1,1 @@
+Using a similar algorithm to Hatcher-Thurston's algorithm for finding a presentation of the mapping class group of a surface, Wajnryb succeeded to find a presentation for the handlebody group. This is long and complicated. In this note I simplify Wajnryb's presentation for the handlebody group of genus g = 2.

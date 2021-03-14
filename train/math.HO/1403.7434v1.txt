@@ -1,0 +1,1 @@
+If the denominator of a rational function of several variables is sum of even powers and the numerator is a monomial, then we give a numerical criterion, using the exponents involved in the expression of the rational function, to decide if the limit at the origin exists or not.

@@ -1,0 +1,1 @@
+Consider the Schr\"odinger operator {\cal A}=-\frac{\Delta}{2}+V acting on space C_0^\infty(D), where D is an open domain in \R^d. The main purpose of this paper is to present the L^\infty(D,dx)-uniqueness for Schr\"odinger operators which is equivalent to the L^1(D,dx)-uniqueness of weak solutions of the heat diffusion equation associated to the operator \cal A.

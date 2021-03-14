@@ -1,0 +1,1 @@
+Let R = k[x]/I where I is the defining ideal of a rational normal k-scroll. We compute the Betti numbers of the ground field \mathbb{k} as a module over R. For k = 2, we give the minimal free resolution of \mathbb{k} over R.

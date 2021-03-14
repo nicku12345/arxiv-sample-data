@@ -1,0 +1,1 @@
+We derive a new maximal inequality for stationary sequences under a martingale-type condition introduced by Maxwell and Woodroofe [Ann. Probab. 28 (2000) 713-724]. Then, we apply it to establish the Donsker invariance principle for this class of stationary sequences. A Markov chain example is given in order to show the optimality of the conditions imposed.

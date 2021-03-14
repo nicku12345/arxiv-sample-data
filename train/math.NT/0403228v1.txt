@@ -1,0 +1,1 @@
+We remark on pseudo-elliptic integrals and on exceptional function fields, namely function fields defined over an infinite base field but nonetheless containing non-trivial units. Our emphasis is on some elementary criteria that must be satisfied by a squarefree polynomial whose square root generates a quadratic function field with non-trivial unit. We detail the genus 1 case.

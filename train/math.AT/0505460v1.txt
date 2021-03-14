@@ -1,0 +1,1 @@
+The Hom-complexes were introduced by Lovasz to study topological obstructions to graph colorings. It was conjectured by Babson and Kozlov, and proved by Cukic and Kozlov, that Hom(G,K_n) is (n-d-2)-connected, where d is the maximal degree of a vertex of G. We give a short proof of the conjecture.

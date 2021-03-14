@@ -1,0 +1,1 @@
+We describe a number of geometric contexts where categorification appears naturally: coherent sheaves, constructible sheaves and sheaves of modules over quantizations. In each case, we discuss how "index formulas" allow us to easily perform categorical calculations, and readily relate classical constructions of geometric representation theory to categorical ones.

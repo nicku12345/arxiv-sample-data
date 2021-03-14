@@ -1,0 +1,1 @@
+When is the composition of paraproducts bounded? This is an important, and difficult question, related to to a question of Sarason on composition of Hankel matrices, and the two-weight problem for the Hilbert transform. We consider randomized variants of this question, finding non-classical characterizations, for dyadic paraproducts.

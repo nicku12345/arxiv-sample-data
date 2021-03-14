@@ -1,0 +1,1 @@
+It was proven in 1915 by Leopold Theisinger that the H_n harmonic numbers are never integers. In 1996 Conway and Guy have defined the concept of hyperharmonic numbers. The question naturally arises: are there any integer hyperharmonic numbers? The author gives a partial answer to this question and conjectures that the answer is "no".

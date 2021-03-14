@@ -1,0 +1,1 @@
+We develop some methods for studying the Fourier-Mukai partners of an algebraic variety. As applications we prove that abelian varieties have finitely many Fourier-Mukai partners and that they are uniquely determined by their derived category of coherent D-modules. We also generalize a famous theorem due to A. Bondal and D. Orlov.

@@ -1,0 +1,1 @@
+Let R be a standard graded finitely generated algebra over an F-finite field of prime characteristic, localized at its maximal homogeneous ideal. In this note, we prove that that Frobenius complexity of R is finite. Moreover, we extend this result to Cartier subalgebras of R.

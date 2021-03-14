@@ -1,0 +1,1 @@
+In this paper, generalizing the result in \cite{GXY}, we construct strongly regular Cayley graphs by using union of cyclotomic classes of \F_q and Gauss sums of index w, where w\geq 2 is even. In particular, we obtain three infinite families of strongly regular graphs with new parameters.

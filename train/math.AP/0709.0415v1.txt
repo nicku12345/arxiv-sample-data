@@ -1,0 +1,1 @@
+We make use of the Guo-Krasnoselskii fixed point theorem on cones to prove existence of positive solutions to a non local p-Laplacian boundary value problem on time scales arising in many applications.

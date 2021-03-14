@@ -1,0 +1,1 @@
+In this paper we generalize techniques of Belk-Matucci to solve the conjugacy problem for every Thompson-like group V_n(H), where n \geq 2 and H is a subgroup of the symmetric group on n elements. We use this to prove that, if n \neq m, V_n(H) is not isomorphic to V_m(G) for any H,G.

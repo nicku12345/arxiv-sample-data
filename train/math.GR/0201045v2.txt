@@ -1,0 +1,1 @@
+We show that if H is a quasiconvex subgroup of a hyperbolic group G then the relative Cayley graph Y (also known as the Schreier coset graph) for G/H is Gromov-hyperbolic. We also observe that in this situation if G is torsion-free and non-elementary and H has infinite index in G then the simple random walk on Y is transient.

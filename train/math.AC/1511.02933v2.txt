@@ -1,0 +1,1 @@
+Given a birational parameterization \phi: \mathbb{P}_k^2 - rightarrow \mathbb{P}_k^3 of an algebraic surface \mathscr S\subset \mathbb{P}_k^3, we bound the number of 1-dimensional fibers of the canonical projection of the graph of \phi onto its image.

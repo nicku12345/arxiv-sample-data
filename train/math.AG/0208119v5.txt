@@ -1,0 +1,1 @@
+Let X^{circ} be the space of all labeled tetrahedra in P^{3}. In [BGS] we constructed a smooth symmetric compactification X-tilde of X^{circ}. In this article we show that the complement X-tilde smallsetminus X^{circ} is a divisor with normal crossings, and we compute the cohomology ring H^*(X-tilde;Q).

@@ -1,0 +1,1 @@
+Firstly we provide a technique to move torsion pairs in abelian categories via adjoint functors and in particular through Giraud subcategories. We apply this point in order to develop a correspondence between Giraud subcategories of an abelian category C and those of its tilt H(C) i.e., the heart of a t-structure on D(C) induced by a torsion pair.

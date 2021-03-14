@@ -1,0 +1,1 @@
+We study approachability theory in the presence of constraints. Given a repeated game with vector payoffs, we characterize the pairs of sets (A,D) in the payoff space such that Player 1 can guarantee that the long-run average payoff converges to the set A, while the average payoff always remains in D.

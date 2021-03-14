@@ -1,0 +1,1 @@
+We study the zero divisor graph determined by equivalence classes of zero divisors of a commutative Noetherian ring R. We demonstrate how to recover information about R from this structure. In particular, we determine how to identify associated primes from the graph.

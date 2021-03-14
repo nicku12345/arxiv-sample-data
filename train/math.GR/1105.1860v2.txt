@@ -1,0 +1,1 @@
+We find the smallest possible covolume for lattices in PGL3(Q2), show that there are exactly two lattices with this covolume, and describe them explicitly. They are commensurable, and one of them appeared in Mumford's construction of his fake projective plane. We also discuss a new 2-adic uniformization of another fake projective plane.

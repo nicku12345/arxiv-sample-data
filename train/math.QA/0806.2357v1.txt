@@ -1,0 +1,1 @@
+We prove that the mapping from the unitary to the doubly stochastic matrices that maps a unitary matrix (u_{kl}) to the doubly stochastic matrix (|u_{kl}|^2) is a submersion for almost all unitary matrices. The proof uses the framework of operator symbols on a finite set. We give detailed proofs of the results announced in our earlier preprint.

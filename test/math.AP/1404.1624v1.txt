@@ -1,0 +1,1 @@
+The Navier-Stokes-Fourier system is a well established model for describing the motion of viscous compressible heat-conducting fluids. We study the existence of time-periodic weak solutions and improve the known result in the following sense: we extend the class of pressure functions (i.e. consider lower exponent \gamma) and include also the effect of radiation on the boundary.

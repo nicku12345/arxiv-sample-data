@@ -1,0 +1,1 @@
+This is an outline of work in progress. We study the conjecture that the topological entropy of a real cubic map depends ``monotonely'' on its parameters, in the sense that each locus of constant entropy in parameter space is a connected set. This material will be presented in more detail in a later paper.

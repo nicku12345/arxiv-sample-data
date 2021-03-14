@@ -1,0 +1,1 @@
+We classify SL(2;C)-representations of a Brieskorn homology 3-sphere. We show any irreducible representation into SL(2;C) is conjugate to that into either SU(2) or SL(2;R). We also give a construction of SL(2;R)-representations for a Brieskorn homology 3-sphere from PSL(2;R)-representations of the base orbifold fundamental group.

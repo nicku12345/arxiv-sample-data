@@ -1,0 +1,1 @@
+In this note, we prove that for a cobounded,Lipschitz path \gamma:I\to\TT, if the pull back bundle \mathcal H_{\gamma} over I is a strongly relatively hyperbolic metric space then there exists a geodesic \xi in \TT such that \gamma(I) and \xi are close to each other.

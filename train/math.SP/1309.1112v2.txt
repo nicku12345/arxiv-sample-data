@@ -1,0 +1,1 @@
+We give an elementary proof of Burq's resolvent bounds for long range semiclassical Schroedinger operators. Globally, the resolvent norm grows exponentially in the inverse semiclassical parameter, and near infinity it grows linearly. We also weaken the regularity assumptions on the potential.

@@ -1,0 +1,1 @@
+We reexamine equivariant generalizations of the Lefschetz number and Reidemeister trace using categorical traces. This gives simple, conceptual descriptions of the invariants as well as direct comparisons to previously defined generalizations. These comparisons are illuminating applications of the additivity and multiplicativity of the categorical trace.

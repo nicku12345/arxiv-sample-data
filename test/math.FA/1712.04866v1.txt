@@ -1,0 +1,1 @@
+Ext-int.\ one affine functions are functions affine in the direction of one-divisible exterior forms, with respect to exterior product in one variable and with respect to interior product in the other. The purpose of this article is to prove a characterization theorem for this class of functions, which plays an important role in the calculus of variations for differential forms.

@@ -1,0 +1,1 @@
+We introduce the notion of good coverings of metric spaces, and prove that if a metric space admits a good covering, then it has the same locally Lipschitz homotopy type as the nerve complex of the covering. As an application, we obtain a Lipschitz homotopy stability result for a moduli space of compact Alexandrov spaces without collapsing.

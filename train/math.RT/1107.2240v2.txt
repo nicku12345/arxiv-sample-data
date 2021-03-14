@@ -1,0 +1,1 @@
+We compute the Hochschild cohomology algebras of Ringel-self-dual blocks of polynomial representations of \GL_2 over an algebraically closed field of characteristic p>2, that is, of any block whose number of simple modules is a power of p. These algebras are finite-dimensional and we provide an explicit description of their bases and multiplications.

@@ -1,0 +1,1 @@
+In this paper, we give a complete criterion for a discrete faithful representation \rho:F_n \ra \pslc to be primitive stable. This will answer Minsky's conjectures about geometric conditions on \H^3/\rho(F_n) regarding the primitive stability of \rho.

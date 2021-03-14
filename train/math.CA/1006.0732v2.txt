@@ -1,0 +1,1 @@
+We prove that for any 4 points in the plane that belong to 2 parallel lines, there is no linear dependence between the associated time-frequency translates of any nontrivial Schwartz function. If mild Diophantine properties are satisfied, we also prove linear independence in the category of L^2(\R) functions.

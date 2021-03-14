@@ -1,0 +1,1 @@
+This article describes a practical approach for determining the lattice of subgroups U < V < G between given subgroups U and G, provided the total number of such subgroups is not too large. It builds on existing functionality for element conjugacy, double cosets and maximal subgroups.

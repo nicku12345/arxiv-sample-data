@@ -1,0 +1,1 @@
+The structure of three pattern classes Av(2143, 4321), Av(2143, 4312) and Av(1324, 4312) is determined using the machinery of monotone grid classes. This allows the permutations in these classes to be described in terms of simple diagrams and regular languages and, using this, the rational generating functions which enumerate these classes are determined.

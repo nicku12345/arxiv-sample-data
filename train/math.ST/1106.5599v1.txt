@@ -1,0 +1,1 @@
+We give a suitable RI-Property under which recent results for trace regression translate into strong risk bounds for multivariate regression. This pseudo-RIP is compatible with the setting n < p.

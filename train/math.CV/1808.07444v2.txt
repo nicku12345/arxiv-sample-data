@@ -1,0 +1,1 @@
+Let \mathbb{B}^2 denote the open unit ball in \mathbb{C}^2, and let p\in \mathbb{C}^2\setminus\overline{\mathbb{B}^2}. We prove that if f is an analytic function on the sphere \partial\mathbb{B}^2 that extends holomorphically in each variable separately and along each complex line through p, then f is the trace of a holomorphic function in the ball.

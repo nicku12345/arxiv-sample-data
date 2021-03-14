@@ -1,0 +1,1 @@
+This paper provides a K-theoretic obstruction for higher kernel dimension for Dirac operators. For this we use a fibre-wise Dirac operator that gives rise to a family of Fredholm operators representing a class in topological K-theory. Then Chern classes of this K-class contain some information about the kernel of the operators.

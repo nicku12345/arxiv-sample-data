@@ -1,0 +1,1 @@
+We compute orbi-disk invariants of compact Gorenstein semi-Fano toric orbifolds by extending the method used for toric Calabi-Yau orbifolds. As a consequence the orbi-disc potential is analytic over complex numbers.

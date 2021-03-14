@@ -1,0 +1,1 @@
+In this paper we study left 3-Engel elements in groups. In particular, we prove that for any prime p and any left 3-Engel element x of finite p-power order in a group G, x^p is in the Baer radical of G. Also it is proved that <x,y> is nilpotent of class 4 for every two left 3-Engel elements in a group G.

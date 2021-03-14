@@ -1,0 +1,1 @@
+We reprove and generalize in a combinatorial way the result of A. Bj\"orner [J.\ Comb.\ Th.\ A {\bf 30}, 1981, pp.~90--100, Theorem 3.3], that order complexes of noncomplemented lattices are contractible, namely by showing that these simplicial complexes are in fact nonevasive, in particular collapsible.

@@ -1,0 +1,1 @@
+We rewrite Riemann Zeta function as a sum over the primes. Each term of the sum is a product that depends only on the summation index (a prime) and the primes following it.

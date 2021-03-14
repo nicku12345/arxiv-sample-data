@@ -1,0 +1,1 @@
+In this paper, we prove the corona theorem for M(D(\mu_k)) in two different ways, where \mu_k = \sum_{i=1}^k a_i \delta_{\zeta_i}. Then we prove that the Bass stable rank of M(D(\mu_k)) is one.

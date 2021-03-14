@@ -1,0 +1,1 @@
+Using the theory of hyperbolic manifolds with totally geodesic boundary, we provide for every integer n greater than 1 a class of such manifolds all having Matveev complexity equal to n and Heegaard genus equal to n+1. All the elements of this class have a single boundary component of genus n, and the numbers of distinct members of the class grows at least exponentially with n.

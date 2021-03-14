@@ -1,0 +1,1 @@
+Let Delta be an Euclidean quiver. We prove that the closures of the maximal orbits in the varieties of representations of Delta are normal and Cohen--Macaulay (even complete intersections). Moreover, we give a generalization of this result for the tame concealed-canonical algebras.

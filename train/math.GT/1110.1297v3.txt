@@ -1,0 +1,1 @@
+A previous paper of the authors' contained an error in the proof of a key claim, that Rasmussen's knot-invariant s(K) is equal to its gauge-theory counterpart. The original paper is included here together with a corrigendum, indicating which parts still stand and which do not. In particular, the gauge-theory counterpart of s(K) is not additive for connected sums.

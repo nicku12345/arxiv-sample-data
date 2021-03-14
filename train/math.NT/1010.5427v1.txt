@@ -1,0 +1,1 @@
+We show, conditional on a uniform version of the prime k-tuples conjecture, that there are x(log x)^{-1+o(1)} numbers not exceeding x common to the ranges of Euler's function phi(n) and the sum-of-divisors function sigma(m).

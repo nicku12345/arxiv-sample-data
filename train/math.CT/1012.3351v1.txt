@@ -1,0 +1,1 @@
+We describe a duality for quantale-enriched categories that extends the Lawson duality for continuous dcpos: for any saturated class J of modules that commute with certain weighted limits, and under an appropriate choice of morphisms, the category of J-cocomplete and J-continuous quantale-enriched categories is self-dual.

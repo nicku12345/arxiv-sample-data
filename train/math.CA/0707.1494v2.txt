@@ -1,0 +1,1 @@
+In this paper we uses an I.I. Hirschman-W. Beckner entropy argument to give an uncertainty inequality for the q-Bessel Fourier transform:  \mathcal{F}_{q,v}f(x)=c_{q,v}\int_{0}^{\infty}f(t)j_{v}(xt,q^{2})t^{2v +1}d_{q}t,  where j_v(x,q) is the normalized Hahn-Exton q-Bessel function.

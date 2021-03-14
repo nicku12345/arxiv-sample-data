@@ -1,0 +1,1 @@
+Let G=SL(n,R) with n>5. We construct examples of lattices Gamma of G, subgroup A of the diagonal group and points x in G/Gamma such that the closure of the orbit Ax is not homogeneous but does not factors through the action of a one-parameter non-unipotent group. This contradicts a conjecture of Margulis.

@@ -1,0 +1,1 @@
+We introduce a general framework for generating dualities between categories of partial orders and categories of ordered Stone spaces; we recover in particular the classical Priestley duality for distributive lattices and establish several other dualities for different kinds of partially ordered structures.

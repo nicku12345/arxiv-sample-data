@@ -1,0 +1,1 @@
+A modest Kan complex is a modest simplicial set which has a right lifting property with respect to horn inclusions \Lambda_k[n] \to \Delta[n]. This paper develops the categorical logical that is required to show that there is a univalent universe of modest Kan complexes among simplicial assemblies.

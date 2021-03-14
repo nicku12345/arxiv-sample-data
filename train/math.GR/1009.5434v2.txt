@@ -1,0 +1,1 @@
+In this paper, we show that if p is a prime and G is a p-solvable group, then | G:O_p (G) |_p \le (b(G)^p/p)^{1/(p-1)} where b(G) is the largest character degree of G. If p is an odd prime that is not a Mersenne prime or if the nilpotence class of a Sylow p-subgroup of G is at most p, then | G:O_p (G) |_p \le b(G).

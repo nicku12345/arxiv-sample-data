@@ -1,0 +1,1 @@
+We study the distribution of solutions of equations \sigma(n)=\sigma(n+k) and \varphi(n)=\varphi(n+k). We give new upper bounds for these solutions.

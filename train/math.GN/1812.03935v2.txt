@@ -1,0 +1,1 @@
+A ballean is a set endowed with a coarse structure. We introduce and explore three constructions of balleans from a pregiven family of balleans: bornological products, bouquets and combs. We analyze the smallest and the largest coarse structures on a set X compatible with a given bornology on X.

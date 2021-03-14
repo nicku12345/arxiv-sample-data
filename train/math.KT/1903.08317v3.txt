@@ -1,0 +1,1 @@
+We show in this paper that representations of a finite product of categories satisfying certain combinatorial conditions have finite Castelnuovo-Mumford regularity if and only if they are presented in finite degrees, and hence the category consisting of them is abelian. These results apply to examples such as the categories \mathrm{FI}^m and \mathrm{FI}_G^m.

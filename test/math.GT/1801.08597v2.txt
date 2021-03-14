@@ -1,0 +1,1 @@
+We show that any closed manifold with a metric of nonpositive curvature that admits either a single point rank condition or a single point curvature condition has positive simplicial volume. We use this to provide a differential geometric proof of a conjecture of Gromov in dimension three.

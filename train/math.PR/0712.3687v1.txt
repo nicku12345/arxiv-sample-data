@@ -1,0 +1,1 @@
+We give a new proof of a theorem by Le Gall & Paulin, showing that scaling limits of random planar quadrangulations are homeomorphic to the 2-sphere. The main geometric tool is a reinforcement of the notion of Gromov-Hausdorff convergence, called 1-regular convergence, that preserves topological properties of metric surfaces.

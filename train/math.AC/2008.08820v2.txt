@@ -1,0 +1,1 @@
+Let \mathcal L^* be a family of finite subsets of \mathbb N_0 having the following properties.   (a). \{0\}, \{1\} \in \mathcal L^* and all other sets of \mathcal L^* lie in \mathbb N_{\ge 2}.   (b). If L_1, L_2 \in \mathcal L^*, then the sumset L_1 + L_2 \in \mathcal L^*.   We show that there is a Dedekind domain D whose system of sets of lengths equals \mathcal L^*.

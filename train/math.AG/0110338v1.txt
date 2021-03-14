@@ -1,0 +1,1 @@
+Let F be a smooth plane curve of degree 3. Let \gb be an element in Pic(F)[2]-{0}. Let us define F':={\ol{p(p+\gb)}|p in F}\subset(P^2)^*. In this note we show that F' is a smooth embedding of F/\gb. Moreover, let \gb' be the generator of Pic(F)/\gb, and let p in F be a flex, then \ol{p(p+\gb)}+\gb' is a flex on F'. We present two proofs.

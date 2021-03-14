@@ -1,0 +1,1 @@
+Let P be a preordered set, R a ring and FI(P,R) the finitary incidence ring of P over R. We find a criterion for all Jordan derivations of FI(P,R) to be derivations and generalize Theorem 3.3 from arXiv:1411.6123. In particular, we prove that each Jordan derivation of the ring RFM_I(R) of row-finite I\times I-matrices over R is a derivation, if |I|>1.

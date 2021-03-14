@@ -1,0 +1,1 @@
+We consider strictly ergodic and strictly weak mixing C^*-dynamical systems. We prove that the system is strictly weak mixing if and only if its tensor product is strictly ergodic, moreover strictly weak mixing too. We also investigate some other mixing properties of the system.

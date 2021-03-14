@@ -1,0 +1,1 @@
+In this paper, we investigate the convergence of the Bochner-Riesz means on some Sobolev type spaces including L^p-Sobolev spaces (p\geq 1) and H^q-Sobolev spaces (0<q<1). The relation between the smoothness imposed on functions and the rate of almost everywhere convergence of the generalized Bochner-Riesz means is given.

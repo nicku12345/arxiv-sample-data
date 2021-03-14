@@ -1,0 +1,1 @@
+We show that the Kazhdan-Lusztig basis elements C_w of the Hecke algebra of the symmetric group, when w \in S_n corresponds to a Schubert subvariety of a Grassmann variety, can be written as a product of factors of the form T_i+f_j(v), where f_j are rational functions.

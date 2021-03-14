@@ -1,0 +1,1 @@
+We will study variations in Sobolev spaces of optimal transport maps with the standard Gaussian measure as the reference measure. Some dimension free inequalities will be obtained. As application, we construct solutions to Monge-Ampere equations in finite dimension, as well as on the Wiener space.

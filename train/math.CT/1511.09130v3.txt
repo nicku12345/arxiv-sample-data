@@ -1,0 +1,1 @@
+We prove a stabilization theorem for algebras of n-operads in a monoidal model category. It implies a version of Baez-Dolan stabilization hypothesis for Rezk's weak n-categories and some other stabilization results.

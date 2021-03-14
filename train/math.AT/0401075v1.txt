@@ -1,0 +1,1 @@
+We present a counterexample to the conjecture on the homotopy invariance of configuration spaces. More precisely, we consider the lens spaces L_{7,1} and L_{7,2}, and prove that their configuration spaces are not homotopy equivalent by showing that their universal coverings have different Massey products.

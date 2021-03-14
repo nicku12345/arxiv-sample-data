@@ -1,0 +1,1 @@
+The Kodaira-Nakano Vanishing Theorem has been generalized to the relative setting by A. Sommese. We prove a version of this theorem for non-compact manifolds. As an apllication, we prove that the cohomology of a fiber of a symplectic contraction is trivial in odd degrees and pure Hodge-Tate in even degrees.

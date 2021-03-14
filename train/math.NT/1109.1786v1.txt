@@ -1,0 +1,1 @@
+We consider the size of large character sums, proving new lower bounds for the quantity \Delta(N,q) = \sup_{\chi\neq \chi_0 mod q} |\sum_{n < N} \chi(n)| for almost all ranges of N. The results are proven using the resonance method and saddle point analysis.

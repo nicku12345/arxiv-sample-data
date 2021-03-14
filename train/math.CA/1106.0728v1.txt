@@ -1,0 +1,1 @@
+Convolution with an appropriate surface measure on a paraboloid in R^d defines a bounded operator T from L^p(R^d) to L^q(R^d) for certain exponents p,q. In this article it is proved that there exist functions which extremize the associated inequality.

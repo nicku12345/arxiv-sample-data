@@ -1,0 +1,1 @@
+Let G be a semigroup of rational functions of degree at least two where the semigroup operation is composition of functions. We prove that the largest open subset of the Riemann sphere on which the semigroup G is normal and is completely invariant under each element of G, can have only 0, 1, 2, or infinitely many components.

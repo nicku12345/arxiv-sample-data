@@ -1,0 +1,1 @@
+Given a smooth compact surface without focal points and of higher genus, it is shown that its geodesic flow is semi-conjugate to a continuous expansive flow with a local product structure such that the semi-conjugation preserves time-parametrization. It is concluded that the geodesic flow has a unique measure of maximal entropy.

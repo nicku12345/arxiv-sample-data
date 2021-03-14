@@ -1,0 +1,1 @@
+This letter discusses the differences between the properties of positive realness of transfer functions and external positivity in linear time-invariant dynamic systems. It is proved that each one of both properties does not imply to each other.

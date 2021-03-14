@@ -1,0 +1,1 @@
+Let  x=(x_{n})_{n}  be a bounded complex sequence and let M_{x} = \sup_n |x_n|. By using a normaloid operator related to the sequence  x=(x_{n})_{n} , we prove that  \sup_{\lambda \in \mathbb{C}, |\lambda| \leq M_x} \sup_n |x_n+\lambda| = 2M_x.

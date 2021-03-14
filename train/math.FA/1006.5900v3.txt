@@ -1,0 +1,1 @@
+It is shown that Gelfand transforms of elements f\in\lmu are constant at almost every fiber \Pi^{-1}(\{x\}) of the spectrum of \lmu in the following sense: for each f\in\lmu there is an open dense subset U=U(f) of this spectrum having full measure and such that the Gelfand transform of f is constant on the intersection \Pi^{-1}(\{x\})\cap U.

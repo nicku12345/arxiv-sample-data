@@ -1,0 +1,1 @@
+We prove that for a Q-Gorenstein degeneration X of del Pezzo surfaces, the number of non-Du Val singularities is at most \rho(X)+2. Degenerations with \rho(X)+2 and \rho(X)+1 non-Du Val points are investigated.

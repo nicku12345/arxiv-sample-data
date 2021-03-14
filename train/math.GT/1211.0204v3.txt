@@ -1,0 +1,1 @@
+We finish proving that an irreducible automorphism f of a handlebody is efficient if, and only if, a certain standard pair of dual f--invariant laminations have the geometric tightness property. In a previous paper it was proved that this tightness property implies efficiency. We now prove the converse.

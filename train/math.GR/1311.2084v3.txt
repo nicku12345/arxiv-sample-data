@@ -1,0 +1,1 @@
+Let V be a finite graph and let \phi:V\rightarrow V be an irreducible train track map whose mapping torus has word-hyperbolic fundamental group G. Then G acts freely and cocompactly on a CAT(0) cube complex.

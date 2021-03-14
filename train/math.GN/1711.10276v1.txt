@@ -1,0 +1,1 @@
+Previously, numerical evidence was presented of a self-intersecting Bezier curve having the unknot for its control polygon. This numerical demonstration resolved open questions in scientific visualization, but did not provide a formal proof of self-intersection. An example with a formal existence proof is given, even while the exact self-intersection point remains undetermined.

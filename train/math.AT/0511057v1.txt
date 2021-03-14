@@ -1,0 +1,1 @@
+We introduce a notion of a filtered model structure and use this notion to produce various model structures on pro-categories. This framework generalizes several known examples. We give several examples, including a homotopy theory for G-spaces, where G is a pro-finite group. The class of weak equivalences is an approximation to the class of underlying weak equivalences.

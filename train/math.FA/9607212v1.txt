@@ -1,0 +1,1 @@
+In this paper, we prove that into isometries and disjointness preserving linear maps from C_0(X) into C_0(Y) are essentially weighted composition operators Tf = h\cdot f\circ\varphi for some continuous map \varphi and some continuous scalar-valued function h.

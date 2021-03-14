@@ -1,0 +1,1 @@
+We study a Keller-Segel type chemotaxis model with a modified sensitivity function in a bounded domain \Omega\subset \mathbb{R}^N, N\geq2. The global existence of classical solutions to the fully parabolic system is established provided that the ratio of the chemotactic coefficient to the motility of cells is not too large.

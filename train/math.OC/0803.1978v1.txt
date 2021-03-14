@@ -1,0 +1,1 @@
+We consider an optimal control problem for the obstacle problem with an elliptic variational inequality. The obstacle function which is the control function is assumed in H^{2}. We use an approximate technique to introduce a family of problems governed by variational equations. We prove optimal solutions existence and give necessary optimality conditions.

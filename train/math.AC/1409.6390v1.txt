@@ -1,0 +1,1 @@
+We compute the Groebner basis of a system of polynomial equations related to the Jacobian conjecture using a recursive formula for the Catalan numbers.

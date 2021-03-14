@@ -1,0 +1,1 @@
+Two examples of asymptotic \ell_{1} Banach spaces are given. The first, X_{u}, has an unconditional basis and is arbitrarily distortable. The second, X, does not contain any unconditional basic sequence. Both are spaces of the type of Tsirelson. We thus answer a question raised by W.T.Gowers.

@@ -1,0 +1,1 @@
+We prove a sup norm bound on the real-analytic Eisenstein series, of the form E(z, 1/2 + iT) \ll T^{3/8 + \varepsilon}, uniformly for z in a fixed compact subset of \mathbb{H}.

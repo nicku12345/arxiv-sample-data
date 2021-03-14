@@ -1,0 +1,1 @@
+We study the general and connected stable ranks for C*-algebras. We estimate these ranks for pullbacks of C*-algebras, and for tensor products by commutative C*-algebras. Finally, we apply these results to determine these ranks for certain commutative C*-algebras, and non-commutative CW-complexes.

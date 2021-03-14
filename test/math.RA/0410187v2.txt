@@ -1,0 +1,1 @@
+Recent articles have shown the connection between representation theory of quivers and the theory of cluster algebras. In this article, we prove that some cluster algebras of type ADE can be recovered from the data of the corresponding quiver representation category. This also provides some explicit formulas for cluster variables.

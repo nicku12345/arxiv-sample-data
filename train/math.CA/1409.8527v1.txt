@@ -1,0 +1,1 @@
+In this note we state (with minor corrections) and give an alternative proof of a very general hypergeometric transformation formula due to Slater. As an application, we obtain a new hypergeometric transformation formula for a {}_5F_4(-1) series with one pair of parameters differing by unity expressed as a linear combination of two {}_3F_2(1) series.

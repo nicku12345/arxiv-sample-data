@@ -1,0 +1,1 @@
+We establish a new W^{1,2\frac{n-1}{n-2}} estimate for the extremal solution of -\Delta u=\lambda f(u) in a smooth bounded domain \Omega of \mathbb{R}^n, which is convex, for arbitrary positive and increasing nonlinearities f\in C^1(\mathbb{R}) satisfying \lim_{t\rightarrow +\infty}f(t)/t=+\infty.

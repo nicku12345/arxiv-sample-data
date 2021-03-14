@@ -1,0 +1,1 @@
+G. Navarro raised the question under what circumstancs two vertices of two indecomposable modules over a finite group algebra generate a Sylow p-subgroup. The present note provides a sufficient criterion for when this is the case. This generalises a result by Navarro for simple modules over finite p-solvable groups, which is the main motivation for this note.

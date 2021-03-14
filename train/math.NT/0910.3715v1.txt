@@ -1,0 +1,1 @@
+In this note, we shall prove that the sum and the product of an algebraic number \alpha by the \textit{Liouville constant} L=\sum_{j=1}^{\infty}10^{-j!} is a U-number with type equals to the degree of \alpha (with respect to \mathbb{Q}). Moreover, we shall have that   \max\{w^{\ast}_n(\alpha L),w^{\ast}_n(\alpha + L)\}\leq 2m^2n+m-1, for n=1,...,m-1.

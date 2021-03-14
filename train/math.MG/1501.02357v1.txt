@@ -1,0 +1,1 @@
+This paper introduces a visibility relation v (and the strong visibility relation \mathop{v}\limits^{\doublewedge}) on proximal Delaunay meshes. A main result in this paper is that the visibility relation v is equivalent to Wallman proximity. In addition, a Delaunay triangulation region endowed with the visibility relation v has a local Leader uniform topology.

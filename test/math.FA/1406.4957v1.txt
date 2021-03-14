@@ -1,0 +1,1 @@
+We shall investigate the boundedness of the intrinsic square functions and their commutators on generalized weighted Orlicz-Morrey spaces M^{\Phi,\varphi}_{w}({\mathbb R}^n). In all the cases, the conditions for the boundedness are given in terms of Zygmund-type integral inequalities on weights \varphi without assuming any monotonicity property of \varphi(x,\cdot) with x fixed.

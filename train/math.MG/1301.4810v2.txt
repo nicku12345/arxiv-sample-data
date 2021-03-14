@@ -1,0 +1,1 @@
+In this note, we prove Cheng-Yau type local gradient estimate for harmonic functions on Alexandrov spaces with Ricci curvature bounded below. We adopt a refined version of Moser's iteration which is based on Zhang-Zhu's Bochner type formula. Our result improves the previous one of Zhang-Zhu in the case of negative Ricci lower bound.

@@ -1,0 +1,1 @@
+We present a generalization of the well known Next-Closure algorithm working on semilattices. We prove the correctness of the algorithm and apply it on the computation of the intents of a formal context.

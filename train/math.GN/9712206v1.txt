@@ -1,0 +1,1 @@
+K. Kuperberg found a locally connected, finite-dimensional continuum which is homogeneous but not bihomogeneous. We give a similar but simpler example. Like previous constructions, the example is locally a Cartesian product of Menger spaces. The new idea is to choose a fundamental group in which not every element is conjugate to its inverse.

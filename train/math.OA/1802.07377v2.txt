@@ -1,0 +1,1 @@
+We define partial product systems over N. They generalise product systems over N and Fell bundles over Z. We define Toeplitz C*-algebras and relative Cuntz-Pimsner algebras for them and show that the section C*-algebra of a Fell bundle over Z is a relative Cuntz-Pimsner algebra. We describe the gauge-invariant ideals in the Toeplitz C*-algebra.

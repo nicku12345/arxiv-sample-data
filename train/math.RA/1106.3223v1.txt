@@ -1,0 +1,1 @@
+If A is an n \times n matrix over a ring R satisfying the polynomial identity [x,y][u,v]=0, then an invariant Cayley-Hamilton identity of the form   \Sigma A^{i}c_{i,j}A^{j}=0 with c_{i,j}\in R and c_{n,n}=(n!)^2 holds for A.

@@ -1,0 +1,1 @@
+Given any natural number k and any dense point sequence (t_n), we prove that the corresponding orthonormal spline system of order k is an unconditional basis in reflexive L^p.

@@ -1,0 +1,1 @@
+In this work we study the associated Legendre functions of the second kind with a purely imaginary argument Q^k_\ell(\mathbb{i}\, x). We derive the conditions under which they provide a set of square integrable functions when x \in \mathbb{R} and we prove the relevant orthogonality relation that they satisfy.

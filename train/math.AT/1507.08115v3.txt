@@ -1,0 +1,1 @@
+We explore the C_2-equivariant spectra Tmf_1(3) and TMF_1(3). In particular, we compute their C_2-equivariant Picard groups and the C_2-equivariant Anderson dual of Tmf_1(3). This implies corresponding results for the fixed point spectra TMF_0(3) and Tmf_0(3). Furthermore, we prove a Real Landweber exact functor theorem.

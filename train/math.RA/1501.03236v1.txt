@@ -1,0 +1,1 @@
+The paper of Domokos is "Invariants of quivers and wreath products," and as in that paper we use Regev's double centralizer theorem for wreath products to study trace identities and invariant theory. In addition to extending to other algebras and groups, we also compute Poincare series and prove embedding theorems.

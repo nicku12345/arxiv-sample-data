@@ -1,0 +1,1 @@
+The structure of all triangle free graphs G = (V,E) with |E| - 6|V| + 13\alpha(G) = 0 is determined, yielding an affirmative answer to a question of Stanis{\l}aw Radziszowski and Donald Kreher.

@@ -1,0 +1,1 @@
+In this note, it is shown that the Ramanujan Master Theorem (RMT) when n is a positive integer can be obtained, as a special case, from a new integral formula. Furthermore, we give a simple proof of the RMT when n is not an integer.

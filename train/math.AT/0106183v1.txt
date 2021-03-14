@@ -1,0 +1,1 @@
+In this paper we develop an axiomatic approach to coarse homology theories. We prove a uniqueness result concerning coarse homology theories on the category of `coarse CW-complexes'. This uniqueness result is used to prove a version of the coarse Baum-Connes conjecture for such spaces.

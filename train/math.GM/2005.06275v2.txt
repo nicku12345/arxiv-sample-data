@@ -1,0 +1,1 @@
+Using a left-to-right "sweeping" algorithm, we define the \emph{Gauche basis} for the column space of a matrix M. By means of the Gauche basis we interpret the row reduced echelon form of M, and give a direct proof of its uniqueness. We conclude with pedagogical reflections.

@@ -1,0 +1,1 @@
+Following [Botur, M., Chajda, I., Hala\v{s}, R.: Are basic algebras residuated structures?, Soft Comput. 14 (2010), 251-255] we discuss the connections between left-residuated partially ordered groupoids and the so-called basic algebras, which are a non-commutative and non-associative generalization of MV-algebras and orthomodular lattices.

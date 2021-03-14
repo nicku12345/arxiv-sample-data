@@ -1,0 +1,1 @@
+The main result of [C. Morosi and L. Pizzocchero, Nonlinear Analysis, 2012] is presented in a variant, based on a C^infinity formulation of the Cauchy problem; in this approach, the a posteriori analysis of an approximate solution gives a bound on the Sobolev distance of any order between the exact and the approximate solution.

@@ -1,0 +1,1 @@
+We show that pure monomorphisms are cofibrantly generated---generated from a set of morphisms by pushouts, transfinite composition, and retracts---in any locally finitely presentable additive category. In particular, this is true in any category of R-modules.

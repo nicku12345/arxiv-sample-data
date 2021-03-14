@@ -1,0 +1,1 @@
+We give proofs of QR factorization, Cholesky's factorization, and LDU factorization using the inverse function theorem. As a consequence, we obtain analytic dependence of these matrix factorizations which does not follow immediately using Gaussian elimination.

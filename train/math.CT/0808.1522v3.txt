@@ -1,0 +1,1 @@
+We construct a homeomorphism between the compact regular locale of integrals on a Riesz space and the locale of (valuations) on its spectrum. In fact, we construct two geometric theories and show that they are biinterpretable. The constructions are elementary and tightly connected to the Riesz space structure.

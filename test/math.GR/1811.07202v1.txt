@@ -1,0 +1,1 @@
+We prove that the profinite genus of the fundamental group \pi_{1}(M)\cong(\mathbb{Z}\times\mathbb{Z})\rtimes_{A}\mathbb{Z} of a Sol 3-manifold M is equal to the order of the class group of the field \mathbb{Q}(\lambda), where \lambda is an eigenvalue of the matrix A in GL_{2}(\mathbb{Z}).

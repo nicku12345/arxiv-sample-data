@@ -1,0 +1,1 @@
+A large number of the classical texts dealing with Fourier series more or less state that the hypothesis of periodicity is required for pointwise convergence. In this paper, we highlight the fact that this condition is not necessary.

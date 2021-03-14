@@ -1,0 +1,1 @@
+In the case of cyclic quiver we prove that the deformed Harish-Chandra map whose existence was conjectured by Etingof and Ginzburg is well defined. As an application we prove Kirillov-type formula for the cyclotomic Bessel function.

@@ -1,0 +1,1 @@
+A modified realisability interpretation of infinitary logic is formalised and proved sound in constructive type theory (CTT). The logic considered subsumes first order logic. The interpretation makes it possible to extract programs with simplified types and to incorporate and reason about them in CTT.

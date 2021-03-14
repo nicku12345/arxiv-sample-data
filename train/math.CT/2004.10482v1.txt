@@ -1,0 +1,1 @@
+We give proofs of G\"odel's incompleteness theorems after A. Joyal. The proof uses internal category theory in an arithmetic universe, a predicative generalisation of topoi. Applications to L\"ob's Theorem are discussed.

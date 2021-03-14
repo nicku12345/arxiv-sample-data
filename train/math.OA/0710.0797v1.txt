@@ -1,0 +1,1 @@
+Let A^2 be the Bergman space on the unit disk. A bounded operator S on A^2 is called radial if Sz^n = \lambda_n z^n for all n\ge 0, where \lambda_n is a bounded sequence of complex numbers. We characterize the eigenvalues of radial operators that can be approximated by Toeplitz operators with bounded symbols.

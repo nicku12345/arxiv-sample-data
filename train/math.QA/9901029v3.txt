@@ -1,0 +1,1 @@
+In this note we reconsider a familiar result in Vassiliev knot theory - that the coefficients of the Alexander-Conway polynomial determine the top row of the Kontsevich integral - from the point of view of Kazuo Habiro's clasper theory. We observe that in this setting the calculation reflects the topology of the universal cyclic covering space of a claspered knot's complement.

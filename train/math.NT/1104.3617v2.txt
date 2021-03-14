@@ -1,0 +1,1 @@
+We consider \Phi(x)=x^{-\frac{1}{4}}\left[1-2\sqrt{x}\Sigma e^{-p^2\pi x}\ln p\right] on x>0, where the sum is over all primes p. If \Phi is bounded on x>0, then the Riemann hypothesis is true or there are infinitely many zeros Re~z_k>\frac{1}{2}. The first 21 zeros give rise to asymptotic harmonic behavior in \Phi(x) defined by the prime numbers up to one trillion.

@@ -1,0 +1,1 @@
+We prove that every minimal brick on n vertices has at least n/9 vertices of degree at most 4.

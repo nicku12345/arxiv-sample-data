@@ -1,0 +1,1 @@
+We study liftings of abelian model structures to categories of chain complexes and construct a realization functor from the derived category of a Grothendieck abelian category equipped with a cofibrantly generated, hereditary abelian model structure to the homotopy category of that model structure.

@@ -1,0 +1,1 @@
+We present the formalization of Specker's "local" version of the claim that the Generalized Continuum Hypothesis implies the Axiom of Choice, with particular attention to some extra complications which were glossed over in the original informal proof, specifically for "canonical" constructions and Cantor's normal form.

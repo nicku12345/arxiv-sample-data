@@ -1,0 +1,1 @@
+We study families of elliptic curves of degree n+1 in P^n containing a fixed set of m points. In the case m = n+3 we show that this family is birationally isomorphic to a smooth complete intersection of n-2 diagonal quadrics in P^{n+2}. We also describe an action of the 2-elementary abelian group 2^{n+2} on this family via Cremona transformations in P^n.

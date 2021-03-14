@@ -1,0 +1,1 @@
+In this paper we present algorithmic considerations and theoretical results about the relation between the orders of certain groups associated to the components of a polynomial and the order of the group that corresponds to the polynomial, proving it for arbitrary tame polynomials, and considering the case of rational functions.

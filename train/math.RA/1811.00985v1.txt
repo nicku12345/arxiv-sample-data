@@ -1,0 +1,1 @@
+We introduce the class of conservative superalgebras, in particular, the superalgebra \mathcal{U}(V) of bilinear operations on a superspace V. Moreover, we show that each conservative superalgebra modulo its maximal Jacobian ideal is embedded into \mathcal{U}(V) for a certain superspace V.

@@ -1,0 +1,1 @@
+We prove that a crossing change along a double point circle on a 2-knot is realized by ribbon-moves for a knotted torus obtained from the 2-knot by attaching a 1-handle. It follows that any 2-knots for which the crossing change is an unknotting operation, such as ribbon 2-knots and twist-spun knots, have trivial Khovanov-Jacobsson number.

@@ -1,0 +1,1 @@
+We show that it is relatively consistent with ZFC that 2^omega is arbitrarily large and every sequence s=(s_i:i<omega_2) of infinite cardinals with s_i<=2^omega is the cardinal sequence of some locally compact scattered space.

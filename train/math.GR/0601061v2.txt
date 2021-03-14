@@ -1,0 +1,1 @@
+We present an exposition of the theory of finite automata augmented with a multiply-only register storing an element of a given monoid or group. Included are a number of new results of a foundational nature. We illustrate our techniques with a group-theoretic interpretation and proof of a key theorem of Chomsky and Schutzenberger from formal language theory.

@@ -1,0 +1,1 @@
+We derive a formula for the entries of the (unitriangular) transition matrices between the standard monomial and dual canonical bases of the irreducible polynomial representations of U_q(gl_n) in terms of Kazhdan-Lusztig polynomials.

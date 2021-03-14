@@ -1,0 +1,1 @@
+This paper introduces the notion of a filtration-consistent dynamic operator with a floor, by suitably formulating four axioms. It is shown that under some suitable conditions, a filtration-consistent dynamic operator with a continuous upper-bounded floor is necessarily represented by the solution of a backward stochastic differential equation reflected upwards on the floor.

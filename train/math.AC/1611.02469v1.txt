@@ -1,0 +1,1 @@
+Let R be a Noetherian commutative ring of dimension n, A=R[X_1,\cdots,X_m] be a polynomial ring over R and P be a projective A[T]-module of rank n. Assume that P/TP and P_f both contain a unimodular element for some monic polynomial f(T)\in A[T]. Then P has a unimodular element.

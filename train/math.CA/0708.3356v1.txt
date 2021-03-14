@@ -1,0 +1,1 @@
+We characterize the best L_{2} approximation to a multivariate function by linear combinations of ridge functions multiplied by some fixed weight functions. In the special case when the weight functions are constants, we propose explicit formulas for both the best approximation and approximation error.

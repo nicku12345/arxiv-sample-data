@@ -1,0 +1,1 @@
+The paper shows that under some conditions the totalization of a cosimplicial space obtained from a multiplicative operad is a double loop space of the space of derived morphisms from the associative operad to the operad itself.

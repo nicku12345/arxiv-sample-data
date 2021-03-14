@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian local ring. We show that R is Gorenstein if and only if every finitely generated R-module can be embedded in a finitely generated R-module of finite projective dimension. This extends a result of Auslander and Bridger to rings of higher Krull dimension, and it also improves a result due to Foxby where the ring is assumed to be Cohen-Macaulay.

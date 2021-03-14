@@ -1,0 +1,1 @@
+For A a primitive 2N-root of unity with N odd, the Witten-Reshetikhin-Turaev topological quantum field theory provides a representation of the Kauffman skein algebra of a closed surface. We show that this representation is irreducible and we compute its classical shadow, in the sense of earlier work of the authors (arXiv:1206.1638).

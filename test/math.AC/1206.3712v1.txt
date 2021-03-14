@@ -1,0 +1,1 @@
+We shall describe the divisor class group and the graded canonical module of the multi-section ring for a normal projective variety X and Weil divisors D_1,..., D_s on X under a mild condition. In the proof, we use the theory of Krull domain and the equivariant twisted inverse functor due to Hashimoto.

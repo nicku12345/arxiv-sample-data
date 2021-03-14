@@ -1,0 +1,1 @@
+We show geometrically that \sqrt n is irrational for n=3,5,7 by adapting Tennenbaum's geometric proof that \sqrt 2 is irrational. We also show that this method cannot be used to prove the irrationality of \sqrt n for a bigger n.

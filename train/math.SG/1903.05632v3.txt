@@ -1,0 +1,1 @@
+We give an intrinsic definition of toric symplectic stacks, and show that they are classified by simple convex polytopes equipped with some additional combinatorial data. This generalizes Delzant's classification of toric symplectic manifolds. As an application, we show that any toric symplectic stack can be deformed to an ineffective toric orbifold.

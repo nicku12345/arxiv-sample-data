@@ -1,0 +1,1 @@
+In this lecture note, we show a general property of the Cramer-Rao bound (CRB) that quantifies the interdependencies between the parameters in a vector. The presented result is valid for more general models than the additive noise model and also generalizes previous results to vector parameters. The CRB analog to Bayes' rule will be illustrated via two examples.

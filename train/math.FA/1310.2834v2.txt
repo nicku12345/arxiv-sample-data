@@ -1,0 +1,1 @@
+We show that the Bohr radius of the polydisk \mathbb D^n behaves asymptotically as \sqrt{(\log n)/n}. Our argument is based on a new interpolative approach to the Bohnenblust--Hille inequalities which allows us to prove that the polynomial Bohnenblust--Hille inequality is subexponential.

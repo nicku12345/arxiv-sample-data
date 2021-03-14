@@ -1,0 +1,1 @@
+We associate with any simplicial complex \K and any integer m a system of linear equations and inequalities. If \K has a simplicial embedding in \R^m then the system has an integer solution. This result extends the work of I. Novik (2000).

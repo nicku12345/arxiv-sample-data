@@ -1,0 +1,1 @@
+Given a nilpotent orbit O of a real, reductive algebraic group, a necessary condition is given for the existence of a tempered representation pi such that O occurs in the wave front cycle of pi. The coefficients of the wave front cycle of a tempered representation are expressed in terms of volumes of precompact submanifolds of an affine space.

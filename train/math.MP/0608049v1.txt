@@ -1,0 +1,1 @@
+We perform certain alternating binomial summations with parameters that occur in the analysis of algorithms. A combination of integral and special function and special number representations is used. The results are sufficiently general to subsume several previously known cases. Extensions of the method are apparent and are outlined.

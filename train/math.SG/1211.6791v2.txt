@@ -1,0 +1,1 @@
+This is a survey of bordered Heegaard Floer homology, an extension of the Heegaard Floer invariant HF-hat to 3-manifolds with boundary. Emphasis is placed on how bordered Heegaard Floer homology can be used for computations.

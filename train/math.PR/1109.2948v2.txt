@@ -1,0 +1,1 @@
+This work is about a new class of martingales: the vertical martingales. We construct the vertical martingale for smooth submersions and we develop a stochastic calculus for one. Furthermore, we gives a stochastic characterization for harmonic sections.

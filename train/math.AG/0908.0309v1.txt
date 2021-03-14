@@ -1,0 +1,1 @@
+We find upper bounds for the essential dimension of various moduli stacks of \sln-bundles over a curve. When n is a prime power, our calculation computes the essential dimension of the stack of stable bundles exactly and the essential dimension is not equal to the dimension in this case.

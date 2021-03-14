@@ -1,0 +1,1 @@
+We construct characteristic-free bases and BGG resolutions of unitary simple modules of quiver Hecke algebras and Cherednik algebras. We hence solve and vastly generalise Berkesch-Griffeth-Sam's conjecture, calculate the Castelnuovo-Mumford regularity of ideals of of certain highly symmetric linear subspace arrangements, and compute Dirac homology of Cherednik algebras.

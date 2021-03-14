@@ -1,0 +1,1 @@
+We give a definition of weakly sofic groups (w-sofic groups). Our definition is rather natural extension of the definition of sofic groups where instead of Hamming metric on symmetric groups we use general bi-invariant metrics on finite groups. The existence of non w-sofic groups is equivalent to some conjecture about profinite topology on free groups.

@@ -1,0 +1,1 @@
+We apply the notion of parametrized vector field on a manifold M, where the parameters are also in M, to the study of the zero-curvature condition that arises in the context of integrable systems.

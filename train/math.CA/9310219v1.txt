@@ -1,0 +1,1 @@
+We establish an integral representation of a right inverse of the Askey-Wilson finite difference operator on L^2 with weight (1-x^2)^{-1/2}. The kernel of this integral operator is \vartheta'_4/\vartheta_4 and is the Riemann mapping function that maps the open unit disc conformally onto the interior of an ellipse.

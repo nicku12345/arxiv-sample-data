@@ -1,0 +1,1 @@
+We use some detailed knowledge of the cohomology ring of real Grassmann manifolds G_k(\mathbb{R}^n) to compute zero-divisor cup-length and estimate topological complexity of motion planning for k-linear subspaces in \mathbb{R}^n. In addition, we obtain results about monotonicity of Lusternik-Schnirelmann category and topological complexity of G_k(\mathbb{R}^n) as a function of n.

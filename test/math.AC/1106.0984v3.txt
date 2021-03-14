@@ -1,0 +1,1 @@
+We extend Greenberg's strong approximation theorem to schemes of finite presentation over valuation rings with arbitrary value group, using the ultraproduct method of Becker, Denef, Lipshitz and van den Dries. As an application, we prove a closed image theorem (in the strong topology on rational points) for proper morphisms of varieties over valued fields.

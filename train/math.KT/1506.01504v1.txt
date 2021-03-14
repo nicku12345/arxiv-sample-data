@@ -1,0 +1,1 @@
+A corona type theorem is given for the ring R of periodic distributions in R^d in terms of the sequence of Fourier coefficients of these distributions, which have at most polynomial growth. It is also shown that the Bass stable rank and the topological stable rank of R are both equal to 1.

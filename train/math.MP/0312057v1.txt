@@ -1,0 +1,1 @@
+By solving an infinite nonlinear system of q-difference equations one constructs a chain of q-difference operators. The eigenproblems for the chain are solved and some applications, including the one related to q-Hahn orthogonal polynomials, are discussed. It is shown that in the limit q->1 the present method corresponds to the one developed by Infeld and Hull.

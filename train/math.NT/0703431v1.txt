@@ -1,0 +1,1 @@
+We improve Kolyvagin's upper bound on the order of the p-primary part of the Shafarevich-Tate group of an elliptic curve of rank one over a quadratic imaginary field. In many cases, our bound is precisely the one predicted by the Birch and Swinnerton-Dyer conjectural formula.

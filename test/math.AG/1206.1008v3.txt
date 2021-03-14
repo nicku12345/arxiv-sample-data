@@ -1,0 +1,1 @@
+We show that the automorphism group of Drinfeld's half-space over a finite field is the projective linear group of the underlying vector space. The proof of this result uses analytic geometry in the sense of Berkovich over the finite field equipped with the trivial valuation. We also take into account extensions of the base field.

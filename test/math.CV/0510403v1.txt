@@ -1,0 +1,1 @@
+We show that it is possible for a square integrable function on the circle, which is a sum of an almost everywhere convergent series of exponentials with positive frequencies, to not belong to the Hardy space. A consequence in the uniqueness theory is obtained.

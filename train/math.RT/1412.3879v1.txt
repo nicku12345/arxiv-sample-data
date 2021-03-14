@@ -1,0 +1,1 @@
+After reviewing how the Borel-Weil-Bott theorem can be interpreted as an index theorem, we present a proof using Kostant's cubic Dirac operator and the equivariant McKean-Singer formula.

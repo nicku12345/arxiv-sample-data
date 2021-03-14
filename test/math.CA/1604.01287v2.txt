@@ -1,0 +1,1 @@
+We show that, under reasonable assumptions, two negative roots can be eliminated from the characteristic equation of a polynomial-like iterative equation. This result gives a new case where we may lower the order of such an equation.

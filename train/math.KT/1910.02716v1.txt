@@ -1,0 +1,1 @@
+A Ronco algebra is a Leibniz algebra satisfying the identity: [[x,x],y]=0. Based on properties of Leibniz homology, we give a proof an old and unpublished result of Mar\'ia Ronco, which describes free objects in these class of algebras. We also establish a relationship between Ronco algebras and so called Lie \mu-algebras extending our previous result.

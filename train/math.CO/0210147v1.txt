@@ -1,0 +1,1 @@
+This paper improves algorithms given in math.CO/0012036. Although the graph (digraph) becomes non-random as the algorithm proceeds, the probability for success stays the same. We also give examples.

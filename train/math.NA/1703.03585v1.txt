@@ -1,0 +1,1 @@
+We prove in this paper the convergence of an semi-implicit MAC scheme for the time-dependent variable density Navier-Stokes equations.

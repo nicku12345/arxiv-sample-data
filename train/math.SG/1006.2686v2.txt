@@ -1,0 +1,1 @@
+In this paper, we show that if the Rabinowitz Floer homology has infinite dimension, there exist infinitely many critical points of a Rabinowitz action functional even though it could be non-Morse. This result is proved by examining the filtered Rabinowitz Floer homology.

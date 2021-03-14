@@ -1,0 +1,1 @@
+In this note, we give a proof of the famous theorem of M. Morse dealing with the cancellation of a pair of non-degenerate critical points of a smooth function. Our proof consists of a reduction to the one-dimensional case where the question becomes easy to answer.

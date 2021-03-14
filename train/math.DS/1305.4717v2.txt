@@ -1,0 +1,1 @@
+Using an ergodic inverse theorem obtained in our previous paper, we obtain limit formulae for multiple ergodic averages associated with the action of \mathbb{F}_{p}^{\omega}. From this we deduce multiple Khintchine-type recurrence results analogous to those for \mathbb{Z}-systems obtained by Bergelson, Host, and Kra, and also present some new counterexamples in this setting.

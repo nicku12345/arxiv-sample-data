@@ -1,0 +1,1 @@
+We prove that for all 1 \le p \le \infty, p not 2, the Lp spaces associated to two von Neumann algebras M,N are isometrically isomorphic if and only if M and N are Jordan *-isomorphic. This follows from a noncommutative Lp Banach-Stone theorem: a specific decomposition for surjective isometries of noncommutative Lp spaces.

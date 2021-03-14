@@ -1,0 +1,1 @@
+We calculate accurate bound states and resonances of two interesting perturbed Coulomb models by means of the Riccati-Pad\'{e} method. This approach is based on a rational approximation to a modified logarithmic derivative of the eigenfunction and produces sequences of roots of Hankel determinants that converge towards the eigenvalues of the equation.

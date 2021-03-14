@@ -1,0 +1,1 @@
+We obtain alternative explicit Specht filtrations for the induced and the restricted Specht modules in the Hecke algebra of the symmetric group (defined over the ring A=\mathbb Z[q^{1/2},q^{-1/2}] where q is an indeterminate) using C-bases for these modules. Moreover, we provide a link between a certain C-basis for the induced Specht module and the notion of pairs of partitions.

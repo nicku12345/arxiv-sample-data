@@ -1,0 +1,1 @@
+For a standard graded Cohen-Macaulay ring S, if the quotient S/(\underline{x}) admits non-free totally reflexive modules, where \underline{x} is a system of parameters consisting of elements of degree one, then so does the ring S. As an application, we consider the question of which Stanley-Reisner rings of graphs admit non-free totally reflexive modules.

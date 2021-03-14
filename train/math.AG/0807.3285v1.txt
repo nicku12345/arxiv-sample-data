@@ -1,0 +1,1 @@
+Any toric Deligne-Mumford stack is a \mu-gerbe over the underlying toric orbifold for a finite abelian group \mu. In this paper we give a sufficient condition so that certain kinds of gerbes over a toric Deligne-Mumford stack are again toric Deligne-Mumford stacks.

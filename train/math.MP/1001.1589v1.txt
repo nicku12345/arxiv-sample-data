@@ -1,0 +1,1 @@
+We construct the equilibrium Glauber and Kawasaki dynamics on discrete spaces which leave invariant certain determinantal point processes. We will construct Fellerian Markov processes with specified core for the generators. Further, we discuss the ergodicity of the processes.

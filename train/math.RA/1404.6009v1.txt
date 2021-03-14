@@ -1,0 +1,1 @@
+Let \mathbb F_q be a finite field with q elements, G a finite cyclic group of order p^k and p is an odd prime with {\rm gcd}(q,p)=1. In this article, we determine an explicit expression for the primitive idempotents of \mathbb F_qG.   This result extends the result in Arora-Pruthi [1] and Sharma-Bakshi-Dumir-Raka [8].

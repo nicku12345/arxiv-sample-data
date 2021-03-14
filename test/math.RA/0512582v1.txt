@@ -1,0 +1,1 @@
+A finite-dimensional complex space with indefinite scalar product [.,.] having v- = 2 negative squares and v+ >= 2 positive ones is considered. The paper presents a classification of operators that are normal with respect to this product. It is related to the study by Gohberg and Reichstein in which a similar classification was obtained for the case v = min{v-, v+} = 1.

@@ -1,0 +1,1 @@
+We compute all dynamical degrees of monomial maps by interpreting them as mixed volumes of polytopes. By exploiting further the isomorphism between the polytope algebra of P. McMullen and the universal cohomology of complete toric varieties, we construct invariant positive cohomology classes when the dynamical degrees have no resonance.

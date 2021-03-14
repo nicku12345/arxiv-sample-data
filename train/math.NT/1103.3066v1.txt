@@ -1,0 +1,1 @@
+This is essentially a translated (and explained) version of a peper Hecke published in 1930 where he shows, for a prime q, a relation between the class number h(-q) and the representation of PSL(2, Z / pZ) on the space of holomorphic differentials of X(q).

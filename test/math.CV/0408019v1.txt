@@ -1,0 +1,1 @@
+In this paper we investigate the following "polynomial moment problem": for a complex polynomial P(z) and distinct complex numbers a,b to describe polynomials q(z) orthogonal to all integer non-negative powers of P(z) on the segment [a,b].

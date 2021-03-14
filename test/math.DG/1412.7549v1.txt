@@ -1,0 +1,1 @@
+In this article we lift Pestov's Identity on the tangent bundle of a Riemannian manifold M to the bundle of k-tuples of tangent vectors. We also derive an integrated version and a restriction to the frame bundle P^kM of k-frames. Finally, we discuss a dynamical application for the parallel transport on \mathcal{G}_{or}^k(M), the Grassmannian of oriented k-planes of M.

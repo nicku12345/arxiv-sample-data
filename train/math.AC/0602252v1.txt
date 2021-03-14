@@ -1,0 +1,1 @@
+We construct an invariant of t-structures on the derived category of a Noetherian ring. This invariant is complete when restricting to the category of quasi-coherent complexes, and also gives a classification of nullity classes with the same restriction. On the full derived category of \mathbb Z we show that the class of distinct t-structures do not form a set.

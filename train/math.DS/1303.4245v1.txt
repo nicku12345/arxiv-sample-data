@@ -1,0 +1,1 @@
+In this paper we will study families of circle maps of the form x\mapsto x+2\pi r + a f(x) \pmod{2\pi} and investigate how many periodic trajectories maps from this family can have for a "typical" function f provided the parameter a is small.

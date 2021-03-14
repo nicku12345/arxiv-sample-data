@@ -1,0 +1,1 @@
+We prove that for infinite cardinals \kappa<\lambda the alternating group Alt(\lambda) (of even permutations) of \lambda is not embeddable into the symmetric group Sym(\kappa) (of all permutations) of \kappa. To prove this fact we introduce and study several monotone cardinal group invariants which take value \kappa on the groups Alt(\kappa) and Sym(\kappa).

@@ -1,0 +1,1 @@
+We extend McClure's results on the restriction maps in equivariant K-theory to bivariant K-theory:   Let G be a compact Lie group and A and B be G-C^*-algebras. Suppose that KK^{H}_{n}(A, B) is a finitely generated R(G)-module for every H \le G closed and n \in \Z. Then, if KK^{F}_{*}(A, B) = 0 for all F \le G {\em finite cyclic}, then KK^{G}_{*}(A, B) = 0.

@@ -1,0 +1,1 @@
+Invariant form of BK-factorization is presented, it is used for factorization of the LPDOs equivalent under gauge transformation and for construction of approximate factorization simplifying numerical simulsations with corresponding LPDEs of higher order

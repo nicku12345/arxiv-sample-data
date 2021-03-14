@@ -1,0 +1,1 @@
+Cartan's moving frames method is a standard tool in riemannian geometry. We set up the machinery for applying moving frames to cotangent bundles and its sub-bundles defined by non-holonomic constraints.

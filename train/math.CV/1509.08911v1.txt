@@ -1,0 +1,1 @@
+For f analytic and close to convex in D=\{z: |z|< 1\}, we give sharp estimates for the logarithmic coefficients \gamma_{n} of f defined by \log \dfrac{f(z)}{z}=2\sum_{n=1}^{\infty} \gamma_{n}z^{n} when n=1, 2,3.

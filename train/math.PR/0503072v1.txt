@@ -1,0 +1,1 @@
+We extend some known results relating the distribution tails of a continuous local martingale supremum and its quadratic variation to the case of locally square integrable martingales with bounded jumps. The predictable and optional quadratic variations are involved in the main result.

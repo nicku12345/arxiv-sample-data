@@ -1,0 +1,1 @@
+The paper deals with a phase field system of Cahn-Hilliard type. For positive viscosity coefficients, the authors prove an existence and uniqueness result and study the long time behavior of the solution by assuming the nonlinearities to be rather general. In a more restricted setting, the limit as the viscosity coefficients tend to zero is investigated as well.

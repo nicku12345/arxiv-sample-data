@@ -1,0 +1,1 @@
+Let G be a finite solvable group. We show that G does not have a normal nonabelian Sylow p-subgroup when its prime character degree graph \Delta(G) satisfies a technical hypothesis.

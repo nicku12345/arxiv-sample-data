@@ -1,0 +1,1 @@
+The classification, by topological conjugacy, of invertible holomorphic germs f:(\mathbb{C}^n,0)\to (\mathbb{C}^n,0), with \lambda_1,...,\lambda_n eigenvalues of df_0, and |\lambda_i|\neq 1 for i=2,...,n while \lambda_1 is a root of the unity, is given, in the suitable hypothesis of ``quasi-absence'' of resonances.

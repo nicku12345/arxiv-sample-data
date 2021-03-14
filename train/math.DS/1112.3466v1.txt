@@ -1,0 +1,1 @@
+In this short note we prove that if a symplectomorphism f is C1-stably shadowable, then f is Anosov. The same result is obtained for volume-preserving diffeomorphisms.

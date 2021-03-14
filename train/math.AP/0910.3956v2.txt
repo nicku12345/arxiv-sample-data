@@ -1,0 +1,1 @@
+We show that weak solutions of the relativistic Vlasov-Maxwell system preserve the total energy provided that the electromagnetic field is locally of bounded variation and, for any \lambda> 0, the one-particle distribution function has a square integrable \lambda-moment in the momentum variable.

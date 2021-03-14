@@ -1,0 +1,1 @@
+Consider a linear space L of complex D-dimensional linear operators, and assume that some power L^k of L is the whole space of DxD matrices. Perez-Garcia, Verstraete, Wolf and Cirac conjectured that the sequence L^1,L^2,... stablilizes after O(D^2) terms; we prove that this happens after O(D^2 log(D)) terms, improving the previously known bound of O(D^4).

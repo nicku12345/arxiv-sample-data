@@ -1,0 +1,1 @@
+We give optimal convergence rates in the central limit theorem for a large class of martingale difference sequences with bounded third moments. The rates depend on the behaviour of the conditional variances and for stationary sequences the rate n^{-1/2}\log n is reached. We give interesting examples of martingales with unbounded increments which belong to the considered class.

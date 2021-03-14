@@ -1,0 +1,1 @@
+We present a rational version of the classical Landen transformation for elliptic integrals. This is employed to obtain explicit closed-form expressions for a large class of integrals of even rational functions and to develop an algorithm for the numerical integration of these functions.

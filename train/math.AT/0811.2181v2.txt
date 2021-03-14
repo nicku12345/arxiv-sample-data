@@ -1,0 +1,1 @@
+We extend the Chern-Simons perturbative invariant of Axelrod and Singer to non-acyclic connections. We construct a solution of the quantum master equation on the space of functions on the cohomology of the connection. We prove that this solution is well defined up to master homotopy. We discuss also invariants of links.

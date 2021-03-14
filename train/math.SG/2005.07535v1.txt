@@ -1,0 +1,1 @@
+In this paper we introduce a class of Hamilton delay equations which arise as critical points of an action functional motivated by orbit interactions. We show that the kernel of the Hessian at each critical point of the action functional satisfies a uniform bound on its dimension.

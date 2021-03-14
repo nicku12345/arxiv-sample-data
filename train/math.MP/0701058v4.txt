@@ -1,0 +1,1 @@
+In this paper we consider the semi-linear wave equation: u_{tt}-\Delta u=u_t|u_t|^{p-1} in \mathbb{R}^N where 1<p\leq 1+\frac2{N-1} and p<5 if N=1, p\neq 3 if N=2. We give an energetic criteria and optimal lower bound for blowing up solutions of this equation.

@@ -1,0 +1,1 @@
+Here we prove that Benford's law holds for coefficients of an infinite class of modular forms. Expanding the work of Bringmann and Ono on exact formulas for harmonic Maass forms, we derive the necessary asymptotics. This implies that the unrestricted partition function p(n), as well as other natural partition functions, satisfy Benford's law.

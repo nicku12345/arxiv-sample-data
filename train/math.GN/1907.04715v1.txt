@@ -1,0 +1,1 @@
+We prove that the Smyth powerspace Q(X) of a topological space X is core-compact if and only if X is locally compact. As a straightforward consequence we obtain that the Smyth powerspace construction does not preserve core-compactness generally.

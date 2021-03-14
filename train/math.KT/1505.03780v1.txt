@@ -1,0 +1,1 @@
+We prove that the tangent space to the (n+1)-th Milnor K-group of a ring R is isomorphic to group of n-th absolute K\"ahler differentials of R when the ring R contains \frac{1}{2} and has sufficiently many invertible elements. More precisely, the latter condition is that R is weakly 5-fold stable in the sense of Morrow.

@@ -1,0 +1,1 @@
+Arithmetical invariants---such as sets of lengths, catenary and tame degrees---describe the non-uniqueness of factorizations in atomic monoids. We study these arithmetical invariants by the monoid of relations and by presentations of the involved monoids. The abstract results will be applied to numerical monoids and to Krull monoids.

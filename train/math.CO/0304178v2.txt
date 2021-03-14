@@ -1,0 +1,1 @@
+Let a_{i,j}(n) denote the number of walks in n steps from (0,0) to (i,j), with steps (\pm 1,0) and (0,\pm 1), never touching a point (-k,0) with k\ge 0 after the starting point. \bous and Schaeffer conjectured a closed form for the number a_{-i,i}(2n) when i\ge 1. In this paper, we prove their conjecture, and give a formula for a_{-i,i}(2n) for i\le -1.

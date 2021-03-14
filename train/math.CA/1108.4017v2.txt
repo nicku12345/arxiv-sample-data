@@ -1,0 +1,1 @@
+We improve the best known exponent for the restriction conjecture in R^6. Our idea is applicable to any dimension n satisfying n = 0 mod 3, though we do not explicitly calculate the improvement for n > 6. This improves the recent results of Bourgain and Guth.

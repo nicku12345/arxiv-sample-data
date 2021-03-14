@@ -1,0 +1,1 @@
+We introduce a topological invariant, it a type of a graph-manifold, which takes natural values. For a 4-dimensional graph-manifold, whose type does not exceed two, it is proved that its universal cover is bi-Lipschitz equivalent to a universal cover of an orthogonal graph-manifold (for any Riemannian metrics on graph-manifolds).

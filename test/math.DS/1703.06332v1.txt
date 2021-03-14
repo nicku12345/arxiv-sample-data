@@ -1,0 +1,1 @@
+In this paper we improve the results of \cite{MT} and show that a weak hyperbolic transitivity implies the uniqueness of hyperbolic SRB measures. As an important corollary, it arises the ergodicity of the system in a conservative setting. It also arises the condition which implies the stable ergodicity as well as the statistical stability for a general C^2-regular map.

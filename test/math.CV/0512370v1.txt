@@ -1,0 +1,1 @@
+We give a new elementary proof of the following theorem: if all critical points of a rational function g belong to the real line then there exists a fractional linear transformation L such that L(g) is a real rational function. Then we interpret the result in terms of Fuchsian differential equations whose general solution is a polynomial and in terms of electrostatics.

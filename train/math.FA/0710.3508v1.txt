@@ -1,0 +1,1 @@
+Most of the examples of wavelet sets are for dilation sets which are groups. We find a necessary and sufficient condition under which subspace wavelet sets exist for dilation sets of the form A B, which are not necessarily groups. We explain the construction by a few examples.

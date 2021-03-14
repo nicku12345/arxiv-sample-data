@@ -1,0 +1,1 @@
+Let R be a commutative ring with identity, S a multiplicatively closed subset of R, and M be an R-module. In this paper, we study and investigate some properties of S-primary submodules of M. Among the other results, it is shown that this class of modules contains the family of primary (resp. S-prime) submodules properly.

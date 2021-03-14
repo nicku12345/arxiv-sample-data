@@ -1,0 +1,1 @@
+We modify the Hochschild \phi-map to construct central extensions of a restricted Lie algebra. Such central extension gives rise to a group scheme which leads to a geometric construction of unrestricted representations. For a classical semisimple Lie algebra, we construct equivariant line bundles whose global sections afford representations with a nilpotent p-character.

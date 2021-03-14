@@ -1,0 +1,1 @@
+Consider X_1,X_2,...,X_n that are independent and identically N(mu,sigma^2) distributed. Suppose that we have uncertain prior information that mu = 0. We answer the question: to what extent can a frequentist 1-alpha confidence interval for mu utilize this prior information?

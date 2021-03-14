@@ -1,0 +1,1 @@
+We extend the classical Agmon theorem on asymptotic completeness of two body Schroedinger operators to cover a larger class of perturbations. This is accomplished by means of a suitable limiting absorption principle. The proof of the latter relies on methods from harmonic analysis centered around the Stein-Tomas and Bochner-Riesz theorems.

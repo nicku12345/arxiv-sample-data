@@ -1,0 +1,1 @@
+We prove that if a time-periodic Tonelli Lagrangian on a closed manifold M satisfies a strong version of the Differentiability Problem for Mather's \beta-function, then the Legendre transforms of rational homology classes are dense in the first cohomology of M, which is a first step towards Ma\~n\'e's conjecture.

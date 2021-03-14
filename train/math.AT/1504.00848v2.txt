@@ -1,0 +1,1 @@
+Using known results about their mod-2 cohomology ring, we prove that the topological complexity of the space of isometry classes of n-gons in the plane with one side of length r and all others of length 1 equals either 2n-5 or 2n-6, provided that n-r is not an odd integer.

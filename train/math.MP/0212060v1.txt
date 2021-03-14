@@ -1,0 +1,1 @@
+The previous supersymmetric generalization of the unitary Harish--Chandra integral prompted the conjecture that the Harish--Chandra formula should extend to all classical supergroups. We prove this conjecture for the unitary orthosymplectic supergroup UOSp(k_1/2k_2). To this end, we construct and solve an eigenvalue equation.

@@ -1,0 +1,1 @@
+Consider the extreme value of a Bernoulli random walk on the one-dimensional integer lattice, with reflection at 0, over a finite discrete time interval. Only the asymmetric (biased) case is discussed. Asymptotic mean/variance results are given as the time interval length approaches infinity. We similarly solve an elementary traffic light problem from queueing theory.

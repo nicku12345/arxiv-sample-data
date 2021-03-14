@@ -1,0 +1,1 @@
+In this paper, we present very first results for the adaptive solution on a grid of the phase space of the Vlasov equation arising in particles accelarator and plasma physics. The numerical algorithm is based on a semi-Lagrangian method while adaptivity is obtained using multiresolution analysis.

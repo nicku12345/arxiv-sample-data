@@ -1,0 +1,1 @@
+We study the function (1 - \|x\|)\slash (1 - \|x\|^r), and its reciprocal, on the Euclidean space \mathbb{R}^n, with respect to properties like being positive definite, conditionally positive definite, and infinitely divisible.

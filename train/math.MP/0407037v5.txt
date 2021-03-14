@@ -1,0 +1,1 @@
+We study the macroscopic scaling and weak coupling limit for a random Schroedinger equation on Z^3. We prove that the Wigner transforms of a large class of "macroscopic" solutions converge in r-th mean to solutions of a linear Boltzmann equation, for any finite value of r in R_+. This extends previous results where convergence in expectation was established.

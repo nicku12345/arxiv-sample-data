@@ -1,0 +1,1 @@
+A finite set of points in \mathbb R^d is called almost-equidistant if among any three distinct points in the set, some two are at unit distance. We prove that an almost-equidistant set in \mathbb R^d has cardinality at most 5d^{13/9}.

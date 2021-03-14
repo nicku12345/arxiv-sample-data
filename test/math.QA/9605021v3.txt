@@ -1,0 +1,1 @@
+We define on the universal enveloping superalgebra of osp(1|2n) a nonstandard adjoint action, endowing it with a module structure. This allows, in particular, to construct a bosonic operator which anticommutes with all the fermionic generators and which appears to be the square root of a certain Casimir operator.

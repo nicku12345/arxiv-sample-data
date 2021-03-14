@@ -1,0 +1,1 @@
+Instead of a strong quantitative form of the Hardy-Littlewood prime k-tuple conjecture, one can assume an average form of it and still obtains the same distribution result on \psi(x+h) - \psi(x) by Montgomery and Soundararajan [1].

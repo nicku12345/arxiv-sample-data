@@ -1,0 +1,1 @@
+In this paper, we use the Poincare separation theorem for estimating the eigenvalues of the fine grid. We propose a randomized version of the algorithm where several different coarse grids are constructed thus leading to more comprehensive eigenvalue estimates. The proposed algorithm is suited for modern day multicore and distributed processing.

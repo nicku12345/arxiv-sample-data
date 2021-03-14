@@ -1,0 +1,1 @@
+We show that the graph of the classical Weierstrass function \sum_{n=0}^\infty \lambda^n \cos (2\pi b^n x) has Hausdorff dimension 2+\log\lambda/\log b, for every integer b\ge 2 and every \lambda\in (1/b,1). Replacing \cos(2\pi x) by a general non-constant C^2 periodic function, we obtain the same result under a further assumption that \lambda b is close to 1.

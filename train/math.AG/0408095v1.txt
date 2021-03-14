@@ -1,0 +1,1 @@
+The definition of the weighted version of difficulty in "Termination of 4-fold canonical flips" contains some errors. In this paper, we describe these errors and how to correct them. Anyway, any sequence of 4-fold canonical flips terminates.

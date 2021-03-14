@@ -1,0 +1,1 @@
+In this paper, given a reflexive real Banach space X and two sequentially weakly lower semicontinuous functionals Phi, Psi on X with Psi strongly continuous and coercive, we are mainly interested in the existence of infinitely many local minima of the functional capital Phi + r Psi for each sufficiently real r.

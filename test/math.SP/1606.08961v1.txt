@@ -1,0 +1,1 @@
+In this paper we study properties of functions of triples of not necessarily commuting self-adjoint operators. The main result of the paper shows that unlike in the case of functions of pairs of self-adjoint operators there is no Lipschitz type estimates in the trace norm for arbitrary functions in the Besov class B_{\infty,1}^1({\Bbb R}^3).

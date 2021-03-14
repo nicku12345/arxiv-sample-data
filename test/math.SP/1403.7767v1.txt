@@ -1,0 +1,1 @@
+In this note, we prove the equality of the quantum bulk and the edge Hall conductances in mobility edges and in presence of disorder. The bulk and edge perturbations can be either of electric or magnetic nature. The edge conductance is regularized in a suitable way to enable the Fermi level to lie in a region of localized states.

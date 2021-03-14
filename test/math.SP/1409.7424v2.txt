@@ -1,0 +1,1 @@
+We consider random Schr\"{o}dinger operators on \ell^2(\mathbb{Z}^d) when the distribution of single site potentials is \alpha-H\"{o}lder continuous (0<\alpha\leq 1). In localized regime we study the distribution of eigenfunctions simultaneously in space and energy. In a certain scaling limit we prove limits point are Poisson.

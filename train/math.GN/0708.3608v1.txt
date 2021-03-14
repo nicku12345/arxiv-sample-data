@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions on a function f:[0,1]\to {0,1,2,...,\omega,\continuum} under which there exists a continuous function F:[0,1]\to [0,1] such that for every y\in[0,1] we have |F^{-1}(y)|=f(y).

@@ -1,0 +1,1 @@
+We prove that if G is a finite group, then the exponent of its Bogomolov multiplier divides the exponent of G in the following four cases: (i) G is metabelian, (ii) \exp G=4, (iii) G is nilpotent of class \le 5, or (iv) G is a 4-Engel group.

@@ -1,0 +1,1 @@
+We give necessary and sufficient conditions for differentiating under the integral sign an integral that depends on a parameter. The conditions require the equality of two iterated integrals and depend on being able to integrate every derivative. The Henstock integral is thus used in an essential way.

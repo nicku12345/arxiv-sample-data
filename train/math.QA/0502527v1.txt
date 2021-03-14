@@ -1,0 +1,1 @@
+We compute the Khovanov-Jacobsson number of an embedded torus in R^4. The answer is always 2, regardless of the embedding.

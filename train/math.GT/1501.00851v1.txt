@@ -1,0 +1,1 @@
+Anstee, Przyticki and Rolfsen introduced the idea of rotants, pairs of links related by a generalised form of link mutation. We exhibit infinitely many pairs of rotants which can be distinguished by Khovanov homology, but not by the Jones polynomial.

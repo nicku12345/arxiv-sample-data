@@ -1,0 +1,1 @@
+In this paper we consider graded ideals in a polynomial ring over a field and ask when such an ideal has the property that all of its powers have a linear resolution. In particular it is shown that all powers of a monomial ideal with 2-linear resolution have again a linear resolution.

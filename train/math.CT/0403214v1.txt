@@ -1,0 +1,1 @@
+We propose a recursive definition of V-n-categories and their morphisms. We show that for V k-fold monoidal the structure of a (k-n)-fold monoidal strict (n+1)-category is possessed by V-n-Cat. This article is a completion of the work begun in math.CT/0306086, and the initial sections duplicate the beginning of that paper.

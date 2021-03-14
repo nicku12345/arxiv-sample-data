@@ -1,0 +1,1 @@
+We introduce a concept that we call module restriction, which generalizes the classical Weil restriction. We first establish some fundamental properties, as existence and \'etaleness. Then we apply our results to show that Grothendiecks Quot functor parameterizing finite and flat quotients of a given quasi-coherent sheaf on a separated algebraic space, is representable.

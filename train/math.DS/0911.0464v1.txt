@@ -1,0 +1,1 @@
+We give an essentially equivalent formulation of the backward contracting property, defined by Juan Rivera-Letelier, in terms of expansion along the orbits of critical values, for complex polynomials of degree at least two which are at most finitely renormalizable and have only hyperbolic periodic points, as well as for all smooth interval maps with non-flat critical points.

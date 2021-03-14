@@ -1,0 +1,1 @@
+A summation formula is derived for the sum of the first m+1 terms of the 3F2(a,b,c;(a+b+1)/2,2c;1) series when c = -m is a negative integer. This summation formula is used to derive a formula for the sum of a terminating double hypergeometric series that arose in another project by one of us (C.D.)

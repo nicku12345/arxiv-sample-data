@@ -1,0 +1,1 @@
+Let Ng be the connected closed nonorientable surface of genus g >= 5 and Mod(Ng) denote the mapping class group of Ng. We prove that the outer automorphism group of Mod(Ng) is either trivial or Z if g is odd, and injects into the mapping class group of sphere with four holes if g is even.

@@ -1,0 +1,1 @@
+Given a finite graph of relatively hyperbolic groups with its fundamental group relatively hyperbolic and edge groups quasi-isometrically embedded and relatively quasiconvex in vertex groups, we prove that vertex groups are relatively quasiconvex if and only if all the vertex groups have finite relative height in the fundamental group.

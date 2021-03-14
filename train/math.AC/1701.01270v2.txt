@@ -1,0 +1,1 @@
+Let A be a regular ring containing a field of characteristic zero and let R = A[X_1,\ldots, X_m]. Consider R as standard graded with deg \ A = 0 and deg \ X_i = 1 for all i. In this paper we present a comprehensive study of graded components of local cohomology modules H^i_I(R) where I is an \emph{arbitrary} homogeneous ideal in R. Our study seems to be the first in this regard.

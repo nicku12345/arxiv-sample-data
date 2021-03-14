@@ -1,0 +1,1 @@
+We prove an elementary formula about the average expansion of certain products of 2 by 2 matrices. This permits us to quickly re-obtain an inequality by M. Herman and a theorem by Dedieu and Shub, both concerning Lyapunov exponents. Indeed, we show that equality holds in Herman's result. Finally, we give a result about the growth of the spectral radius of products.

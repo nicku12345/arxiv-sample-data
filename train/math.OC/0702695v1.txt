@@ -1,0 +1,1 @@
+This note describes how the optimization problems of the Modulopt collection are organized within the Libopt environment. It is aimed at being a guide for using and enriching this collection in this environment.

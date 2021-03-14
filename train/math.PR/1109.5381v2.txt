@@ -1,0 +1,1 @@
+In this paper, we derive sufficient conditions for each component of the solution to a general backward stochastic differential equation to have a density for which upper and lower Gaussian estimates can be obtained.

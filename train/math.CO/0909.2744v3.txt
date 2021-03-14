@@ -1,0 +1,1 @@
+We prove that in the biased 1:b Hamiltonicity Maker-Breaker game, played on the edges of the complete graph K_n, Maker has a winning strategy for b(n)<=(1-o(1))n/ln n, for all large enough n.

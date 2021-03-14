@@ -1,0 +1,1 @@
+For suitable choices of the parameters the Appell, Lauricella and Horn functions are algebraic. In a previous paper we showed that there exist families of algebraic functions for the F_4, F_C, G_3, H_4, H_5 and H_7 functions, depending on one parameter r. For each of these we give a solution of the form f^r.g of the system of differential equations and give formulas for f and g.

@@ -1,0 +1,1 @@
+In this paper, we propose some algorithms for the simulation of the distribution of certain diffusions conditioned on terminal point. We prove that the conditional distribution is absolutely continuous with respect to the distribution of another diffusion which is easy for simulation, and the formula for the density is given explicitly.

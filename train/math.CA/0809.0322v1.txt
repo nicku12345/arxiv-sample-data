@@ -1,0 +1,1 @@
+A Bellman function approach to Fefferman's H^1-BMO duality theorem is presented. One Bellman-type argument is used to handle two different one-dimensional cases, dyadic and continuous. An explicit estimate for the constant of embedding BMO\subset (H^1)^* is given in the dyadic case. The same Bellman function is then used to establish a multi-dimensional analog.

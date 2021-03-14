@@ -1,0 +1,1 @@
+We show that the number of solutions of Schroedinger Maxwell system on a smooth bounded domain in R^3 depends on the topological properties of the domain. In particular we consider the Lusternik-Schnirelmann category and the Poincar\'e polynomial of the domain.

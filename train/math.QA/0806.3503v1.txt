@@ -1,0 +1,1 @@
+We study a deformation of the Cuntz-Toeplitz C^*-algebra determined by the relations a_i^*a_i=1+q a_ia_i^*, a_i^*a_j=0. We define well-behaved unbounded *-representations of the *-algebra defined by relations above and classify all such irreducible representations up to unitary equivalence.

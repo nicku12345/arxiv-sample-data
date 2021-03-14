@@ -1,0 +1,1 @@
+It is well-known that AB and BA are similar when A and B are complex square Hermitian matrices. In this note we answer a question of F. Zhang by demonstrating that similarity can fail if A is Hermitian and B is normal. Perhaps surprisingly, similarity does hold when A is positive semidefinite and B is normal.

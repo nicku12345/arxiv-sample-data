@@ -1,0 +1,1 @@
+We consider several problems in the field of distributed optimization and hypothesis testing. We show how to obtain convergence times for these problems that scale linearly with the total number of nodes in the network by using a recent linear-time algorithm for the average consensus problem.

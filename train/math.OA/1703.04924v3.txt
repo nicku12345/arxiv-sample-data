@@ -1,0 +1,1 @@
+It is proved that the q-Araki-Woods von Neumann algebras \Gamma_q(\CH_\R,U_t)^{\prime\prime} for q\in (-1,1) are factors if dim(\CH_\R)\geq 3.

@@ -1,0 +1,1 @@
+Let f be a nonconstant meromorphic function in the plane and h be a nonconstant elliptic function. We show that if all zeros of f are multiple exept finitely many and T(r,h)=o{T(r,f)} as r tends to infinity, then f'=h has infinitely many solutions (including poles).

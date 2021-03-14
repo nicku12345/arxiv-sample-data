@@ -1,0 +1,1 @@
+In the present note we show that if A is a locally C*-algebra, and I and J are closed two-sided ideals in A, then the positive part of (I+J) is equal to the sum of positive parts of I and J.

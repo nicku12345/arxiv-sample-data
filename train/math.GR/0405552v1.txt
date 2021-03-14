@@ -1,0 +1,1 @@
+H.S.M. Coxeter showed that a group \Gamma is a finite reflection group of an Euclidean space if and only if \Gamma is a finite Coxeter group. In this paper, we define {\it reflections} of geodesic spaces in general, and we prove that \Gamma is a cocompact discrete reflection group of some geodesic space if and only if \Gamma is a Coxeter group.

@@ -1,0 +1,1 @@
+An algorithm for computing the Karcher mean of n positive definite matrices is proposed, based on the majorization-minimization (MM) principle. The proposed MM algorithm is parameter-free, does not need to choose step sizes, and has a theoretical guarantee of asymptotic linear convergence.

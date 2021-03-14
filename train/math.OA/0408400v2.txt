@@ -1,0 +1,1 @@
+We prove that Connes' Embedding Conjecture holds for the von Neumann algebras of sofic groups, that is sofic groups are hyperlinear. Hence we provide some new examples of hyperlinearity. We also show that the Determinant Conjecture holds for sofic groups as well. We introduce the notion of essentially free actions and amenable actions and study their properties.

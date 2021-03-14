@@ -1,0 +1,1 @@
+The main result of this paper is to prove that if a (right) Leibniz algebra L is \textit{right nilpotent} of degree n, then L is \textit{strongly nilpotent} of degree less or equal to 4n^2-2n+1.

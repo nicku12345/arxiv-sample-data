@@ -1,0 +1,1 @@
+We prove that the composition of a function in the Hardy class H^p of the unit ball B in C^n with an analytic disc is in the Bergman class of the unit disc. Then we use it to show that the natural "analysis by discs" fails in the case of H^p(B) interpolating sequences for finite p.

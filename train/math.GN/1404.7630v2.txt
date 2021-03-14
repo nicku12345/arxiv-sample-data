@@ -1,0 +1,1 @@
+We introduce and study the notion of a locally proper map between topological spaces. We show that fundamental constructions of sheaf theory, more precisely proper base change, projection formula, and Verdier duality, can be extended from continuous maps between locally compact Hausdorff spaces to separated locally proper maps between arbitrary topological spaces.

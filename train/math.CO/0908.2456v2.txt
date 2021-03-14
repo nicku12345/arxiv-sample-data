@@ -1,0 +1,1 @@
+Motivated by juggling sequences and bubble sort, we examine permutations on the set {1,2,...,n} with d descents and maximum drop size k. We give explicit formulas for enumerating such permutations for given integers k and d. We also derive the related generating functions and prove unimodality and symmetry of the coefficients.

@@ -1,0 +1,1 @@
+A domain G\subset \bar\mathbb C is the domain of holomorphy of the generating function of a P\'olya frequency sequence of order r if and only if it satisfies the following conditions: (A) G contains the point z=0, (B) G is symmetric with respect to the real axis, (C) T=dist(0,\partial G)\in \partial G.

@@ -1,0 +1,1 @@
+The purpose of this paper is to introduce a new Kirk type iterative algorithm called Kirk multistep iteration and to study its convergence. We also prove some theorems related with the stability results for the Kirk-multistep and Kirk-SP iterative processes by employing certain contractive-like operators. Our results generalize and unify some other results in the literature.

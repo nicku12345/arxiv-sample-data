@@ -1,0 +1,1 @@
+Let (R,\fm) be a local ring and I an ideal. The aim of the present paper is twofold. At first we continue the investigation to compare \fgrade(I,R) with \depth R/I and further we derive some results on the vanishing of Lyubeznik numbers.

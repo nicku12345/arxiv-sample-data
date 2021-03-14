@@ -1,0 +1,1 @@
+Groups definable in simple theories retain the chain conditions and decomposition properties known from stable groups, up to commensurability. In the small case, if a generic type of G is not foreign to some type q, there is a q-internal quotient. In the supersimple case, the Berline-Lascar decomposition works. One-based simple groups are finite-by-abelian-by-finite.

@@ -1,0 +1,1 @@
+In this note, we will get the estimate of the expected distribution of critical values of Gaussian SU(2) random polynomials as the degree large enough. The result is a direct application of the Kac-Rice formula. The critical values will accumulate at infinity, we further study the rate of this convergence and its rescaling limit as n\to\infty.

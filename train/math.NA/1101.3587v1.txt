@@ -1,0 +1,1 @@
+We provide a convergence analysis for a new fractional time-stepping technique for the incompressible Navier-Stokes equations based on direction splitting. This new technique is of linear complexity, unconditionally stable and convergent, and suitable for massive parallelization.

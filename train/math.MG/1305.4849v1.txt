@@ -1,0 +1,1 @@
+We prove existence and uniqueness of optimal maps on RCD^*(K,N) spaces under the assumption that the starting measure is absolutely continuous. We also discuss how this result naturally leads to the notion of exponentiation.

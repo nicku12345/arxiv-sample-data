@@ -1,0 +1,1 @@
+The Erd\"os-Moser conjecture states that the Diophantine equation S_k(m) = m^k, where S_k(m)=1^k+2^k+...+(m-1)^k, has no solution for positive integers k and m with k \geq 2. We show that stronger conjectures about consecutive values of the function S_k, that seem to be more naturally, imply the Erd\"os-Moser conjecture.

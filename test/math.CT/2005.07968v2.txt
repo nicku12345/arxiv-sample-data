@@ -1,0 +1,1 @@
+The category of involutive non-commutative sets encodes the structure of an involution compatible with a (co)associative (co)multiplication. We prove that the category of involutive bimonoids in a symmetric monoidal category is equivalent to the category of algebras over a PROP constructed from the category of involutive non-commutative sets.

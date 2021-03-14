@@ -1,0 +1,1 @@
+In this paper we discuss how to define a chord index via smoothing a real crossing point of a virtual knot diagram. Several polynomial invariants of virtual knots and links can be recovered from this general construction. We also explain how to extend this construction from virtual knots to flat virtual knots.

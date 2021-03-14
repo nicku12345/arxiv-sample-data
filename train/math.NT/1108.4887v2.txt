@@ -1,0 +1,1 @@
+Let f be a fixed (holomorphic or Maass) modular cusp form, with L-function L(f,s). We describe an algorithm that computes the value L(f,1/2+ iT) to any specified precision in time O(1+|T|^{7/8}).

@@ -1,0 +1,1 @@
+We prove that the decreasing rearrangement of a dyadic A1 weight w with dyadic A1 constant [w]_{1,T}=c with respect to a tree T of homogeneity k,on a non-atomic probability space, is a usual A1 weight on (0,1] with A1 constant not more than kc-k+1.We prove also that the result is sharp, when one considers all such weights w.

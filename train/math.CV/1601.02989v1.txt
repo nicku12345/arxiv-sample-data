@@ -1,0 +1,1 @@
+In this paper we investigate the Bergman kernel function for intersection of two complex ellipsoids \{(z,w_1,w_2) \in \mathbb{C}^{n+2} : |z_1|^2 + \cdots + |z_n|^2 + |w_1|^q < 1, \quad |z_1|^2 + \cdots + |z_n|^2 + |w_2|^r < 1\}.

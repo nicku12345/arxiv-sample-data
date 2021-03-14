@@ -1,0 +1,1 @@
+In this paper we consider a complete connected noncompact Riemannian manifold M with bounded geometry and spectral gap. We prove that the Hardy type spaces X^k(M), introduced in a previous paper of the authors, have an atomic characterization. As an application, we prove that the Riesz transforms of even order 2k are bounded from X^k(M) to L^1(M)and on L^p(M) for 1<p<\infty.

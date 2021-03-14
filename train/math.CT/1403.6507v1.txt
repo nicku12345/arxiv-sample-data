@@ -1,0 +1,1 @@
+In our paper "Dendroidal sets as models for homotopy operads" (J. Topol. 4 (2011), no. 2, 257-299, and arXiv:0902.1954), we made the wrong claim about the behaviour of the tensor product with respect to cofibrations of dendroidal sets. We added an erratum at the end of the arXiv version of loc. cit. This short note contains the proof of a technical lemma used in the erratum.

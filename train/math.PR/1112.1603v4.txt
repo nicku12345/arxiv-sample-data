@@ -1,0 +1,1 @@
+There exists a simple, didactically useful one-to-one relationship between stopping times and adapted c\`agl\`ad (LCRL) processes that are non-increasing and take the values 0 and 1 only. As a consequence, stopping times are always hitting times.

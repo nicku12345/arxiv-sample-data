@@ -1,0 +1,1 @@
+In this paper, we exhibit a "Yoneda"-style embedding of any virtual equipment into the virtual equipment of categories enriched in it. We show that this embedding preserves composition, is full on 2-cells and arrows, and coreflective on proarrows.

@@ -1,0 +1,1 @@
+Let k be a field. Denote by Spc(k)_* the unstable, pointed motivic homotopy category and by Omega_Gm: Spc(k)_* \to Spc(k)_* the Gm-loops functor. For a k-group G, denote by Gr_G the affine Grassmannian of G. If G is isotropic reductive, we provide a canonical motivic equivalence Omega_Gm G = Gr_G. If k is perfect, we use this to compute the motive M(Omega_Gm G) in DM(k, Z).

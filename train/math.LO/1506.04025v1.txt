@@ -1,0 +1,1 @@
+In this paper, we first give the cartesian product of two neutrosophic multi sets(NMS). Then, we define relations on neutrosophic multi sets to extend the intuitionistic fuzzy multi relations to neutrosophic multi relations. The relations allows to compose two neutrosophic sets. Also, various properties like reflexivity, symmetry and transitivity are studied.

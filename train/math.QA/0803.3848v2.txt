@@ -1,0 +1,1 @@
+A 2-category was introduced in arXiv:0803.3652 [math.QA] that categorifies Lusztig's integral version of quantum sl(2). Here we construct for each positive integer N arepresentation of this 2-category using the equivariant cohomology of iterated flag varieties. This representation categorifies the irreducible (N+1)-dimensional representation of quantum sl(2).

@@ -1,0 +1,1 @@
+Knuth shows that iterations of a random function perform poorly on average as a random number generator. He proposes a generalization in which the next value depends on two or more previous values. This note demonstrates, via an analysis of the cycle length of a random k-ary map, the equally poor performance of a random instance in Knuth's more general model.

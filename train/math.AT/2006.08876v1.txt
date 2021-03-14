@@ -1,0 +1,1 @@
+We introduce new Elmendorf constructions for equivariant categories and posets, and we prove that they are compatible with the classical topological one. Our constructions are more concrete than their model-categorical counterparts, and they give rise to new proofs of the Elmendorf theorems for equivariant categories and posets.

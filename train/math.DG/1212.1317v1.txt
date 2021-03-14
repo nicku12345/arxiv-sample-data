@@ -1,0 +1,1 @@
+We prove that any complete metric on R^3 minus a ball with non-negative Ricci curvature and quadratic Ricci-curvature decay, has cubic volume growth.

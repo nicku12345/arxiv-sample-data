@@ -1,0 +1,1 @@
+We study the effect of a splitting operator S_t on the L^p norm of the Fourier transform of a function f and on the operator norm of a Fourier multiplier m. Most of our results assume p is an even integer, and are often stronger when f or m has compact support.

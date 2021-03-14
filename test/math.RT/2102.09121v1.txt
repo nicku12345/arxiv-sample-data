@@ -1,0 +1,1 @@
+In this paper, we obtained character formulas of irreducible unitary representations of U(n, n+1) by using Howe's correspondence and the Cauchy--Harish-Chandra integral. The representations of U(n, n+1) we are dealing with are obtained from a double lifting of a representation of U(1) via the dual pairs (U(1), U(1, 1)) and (U(1, 1), U(n, n+1)).

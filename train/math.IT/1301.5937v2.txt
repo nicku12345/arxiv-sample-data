@@ -1,0 +1,1 @@
+In this paper a numerical method is presented, which finds a lower bound for the mutual information between a binary and an arbitrary finite random variable with joint distributions that have a variational distance not greater than a known value to a known joint distribution. This lower bound can be applied to mutual information estimation with confidence intervals.

@@ -1,0 +1,1 @@
+We effectively conclude the local rigidity program for generic restrictions of partially hyperbolic Weyl chamber flows. Our methods replace and extend previous ones by circumventing computations made in Schur multipliers. Instead, we construct a natural topology on H_2(G,\mathbb{Z}), and rely on classical Lie structure theory for central extensions.

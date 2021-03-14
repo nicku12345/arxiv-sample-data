@@ -1,0 +1,1 @@
+The classical Schubert cells on a flag manifold G/H give a cell decomposition for G/H whose Kronecker duals (known as Schubert classes) form an additive base for the integral cohomology H^{\ast}(G/H).   We present a formula that expresses Steenrod mod-p operations on Schubert classes in G/H in terms of Cartan numbers of G.

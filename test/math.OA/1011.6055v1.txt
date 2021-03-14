@@ -1,0 +1,1 @@
+In this paper we investigate operators unitarily equivalent to truncated Toeplitz operators. We show that this class contains certain sums of tensor products of truncated Toeplitz operators. In particular, it contains arbitrary inflations of truncated Toeplitz operators; this answers a question posed by Cima, Garcia, Ross, and Wogen.

@@ -1,0 +1,1 @@
+We show how a commutative monad gives rise to a theory of extensive quantities, including (under suitable further conditions) a differential calculus of such. The relationship to Schwartz distributions is dicussed. The paper is a companion to the author's "Monads and extensive quantities", but is phrased in more elementary terms.

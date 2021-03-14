@@ -1,0 +1,1 @@
+We introduce a notion of topological quandle. Given a topological quandle Q we associate to every classical link L in \R ^3 an invariant J_Q(L) which is a topological space (defined up to a homeomorphism). The space J_Q(L) can be interpreted as a space of colourings of a diagram of the link L with colours from the quandle Q.

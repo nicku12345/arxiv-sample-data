@@ -1,0 +1,1 @@
+In this paper, we establish the general solution of the functional equation f(nx+y)+f(nx-y)=n^2f(x+y)+n^2f(x-y)+2(f(nx)-n^2f(x))-2(n^2-1)f(y)\eqno {0 cm}for fixed integers n with n\neq0,\pm1 and investigate the generalized Hyers-Ulam-Rassias stability of this equation in quasi-Banach spaces.

@@ -1,0 +1,1 @@
+We find explicit free resolutions for the \scr D-modules {\scr D} f^s and {\scr D}[s] f^s/{\scr D}[s] f^{s+1}, where f is a reduced equation of a locally quasi-homogeneous free divisor. These results are based on the fact that every locally quasi-homogeneous free divisor is Koszul free, which is also proved in this paper

@@ -1,0 +1,1 @@
+Let f: A\rightarrow B be a ring homomorphism and let J be an ideal of B. In this paper, we investigate the transfert of the property of coherence to the amalgamation A\bowtie^{f}J. We provide necessary and sufficient conditions for A\bowtie^{f}J to be a coherent ring.

@@ -1,0 +1,1 @@
+We establish new results concerning endomorphisms of a finite chain if the cardinality of the image of such endomorphism is no more than some fixed number. The semiring of all such endomorphisms can be seen as a simplex whose vertices are the constant endomorphisms. We explore the properties of these simplices.

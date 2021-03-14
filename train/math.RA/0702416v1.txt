@@ -1,0 +1,1 @@
+Our main result states that a finite semiring of order >2 with zero which is not a ring is congruence-simple if and only if it is isomorphic to a `dense' subsemiring of the endomorphism semiring of a finite idempotent commutative monoid.   We also investigate those subsemirings further, addressing e.g. the question of isomorphy.

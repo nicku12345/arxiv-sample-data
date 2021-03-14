@@ -1,0 +1,1 @@
+This paper gives an introduction to the homotopy theory of quasi-categories. Weak equivalences between quasi-categories are characterized as maps which induce equivalences on a naturally defined system of groupoids. These groupoids effectively replace higher homotopy groups in quasi-category homotopy theory.

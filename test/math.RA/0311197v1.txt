@@ -1,0 +1,1 @@
+We first quantize the Witt algebra in characteristic 0. Then, we consider the reduction modulo p of our formulas. This gives polynomial deformations of the restricted envelopping algebra of the Witt algebra. By this way, we get new families of noncommutative noncocommutative Hopf algebras of dimension p^p in char p.

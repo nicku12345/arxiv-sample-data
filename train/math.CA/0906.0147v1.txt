@@ -1,0 +1,1 @@
+In this paper, we will define a signed Lattice measure on \sigma-algebras, as well as give the definition of positive and negative Lattice. Herein, we will show that the Hahn Decomposition Theorem decomposes any space X into a positive lattice A and a negative Lattice B such that A \vee B =X and the signed Lattice measure of A \wedge B  is 0.

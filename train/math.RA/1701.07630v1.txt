@@ -1,0 +1,1 @@
+In this article, we have defined nil clean graph of a ring R. The vertex set is the ring R, two ring elements a and b are adjacent if and only if a + b is nil clean in R. Graph theoretic properties like girth, dominating set, diameter etc. of nil clean graph have been studied for finite commutative rings.

@@ -1,0 +1,1 @@
+This is a habilitation self-report describing results on forced periodic solutions of partial differential equations. Here averaging principle in the spirit of Bogoliubov and Mitropolsky for ODE's and Henry for parabolic equations are used together with topological methods such as fixed point index and topological degree.

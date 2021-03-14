@@ -1,0 +1,1 @@
+Yet another proof of the result asserting that a morphism of commutative rings is an effective descent morphism for modules if and only if it is pure is given. Moreover, it is shown that this result cannot be derived from Moerdijk's descent criterion.

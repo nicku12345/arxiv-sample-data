@@ -1,0 +1,1 @@
+We find all finite Ockham algebras that admit only finitely many compatible relations (modulo a natural equivalence). Up to isomorphism and symmetry, these Ockham algebras form two countably infinite families: one family consists of the quasi-primal Ockham algebras, and the other family is a sequence of generalised Stone algebras.

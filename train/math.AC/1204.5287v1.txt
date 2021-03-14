@@ -1,0 +1,1 @@
+Let G be a finite simple graph. In this paper we will show that the binomial edge ideal of G, JG is toric if and only if each connected component of G is complete and in this case it is the sum of toric ideal associated to bipartite complete graphs.

@@ -1,0 +1,1 @@
+In the nonabelian tensor product G\otimes H of two groups G and H many properties pass from G and H to G\otimes H. There is a wide literature for different properties involved in this passage. We look at weak conditions for which such a passage may happen.

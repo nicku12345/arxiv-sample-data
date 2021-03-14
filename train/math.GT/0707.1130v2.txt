@@ -1,0 +1,1 @@
+We prove the existence of a knot whose braid index the Morton-Franks-Williams inequality fails to detect but a related inequality (KR-MFW inequality), which uses new information of Khovanov-Rozansky homology, detects. We also prove, by examples, that there exists infinitely many knots for which the KR-MFW inequality fails to detect the braid indices.

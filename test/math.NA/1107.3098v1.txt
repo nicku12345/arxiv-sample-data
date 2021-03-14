@@ -1,0 +1,1 @@
+Treating a realistic problem in any field of reaction kinetics raises a series of problems: we review these illustrated with examples using ReactionKinetics, a Mathematica based package.

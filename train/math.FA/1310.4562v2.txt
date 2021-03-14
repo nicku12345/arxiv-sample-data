@@ -1,0 +1,1 @@
+A recursive construction is presented for the projective cubature formulas of index p on the unit spheres S(m,K)\subset K^m where K is R or C, or H. This yields a lot of new upper bounds for the minimal number of nodes n=N_K(m,p) in such formulas or, equivalently, for the minimal n such that there exists an isometric embedding \ell_{2; K}^m \rightarrow \ell_{p; K}^n.

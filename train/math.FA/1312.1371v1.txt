@@ -1,0 +1,1 @@
+The existence of a rigged Hilbert space whose extreme spaces are, respectively, the projective and the inductive limit of a directed contractive family of Hilbert spaces is investigated. It is proved that, when it exists, this rigged Hilbert space is the same as the canonical rigged Hilbert space associated to a family of closable operators in the central Hilbert space.

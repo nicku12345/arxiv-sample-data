@@ -1,0 +1,1 @@
+We propose a new definition of metastability of Markov processes on countable state spaces. We obtain sufficient conditions for a sequence of processes to be metastable. In the reversible case these conditions are expressed in terms of the capacity and of the stationary measure of the metastable states.

@@ -1,0 +1,1 @@
+In this paper, we show that a locally graded group with a finite number m of non-(nilpotent of class at most n) subgroups is (soluble of class at most [log2(n)] + m + 3)-by-(finite of order \le m!). Also we show that the derived length of a soluble group with a finite number m of non-(nilpotent of class at most n) subgroups, is at most [log2(n)] + m + 1.

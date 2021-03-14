@@ -1,0 +1,1 @@
+In this expository style of writing I will give an introduction of Gr\"{o}bner bases and compute it for some algebras and then show how to use it to compute Hilbert series for algebras from chains.

@@ -1,0 +1,1 @@
+The recent definition of slice regular function of several quaternionic variables suggests a new notion of quaternionic manifold. We give the definition of quaternionic regular manifold, as a space locally modeled on \mathbb{H}^n, in a slice regular sense. We exhibit some significant classes of examples, including manifolds which carry a quaternionic affine structure.

@@ -1,0 +1,1 @@
+This Bachelor's thesis studies Adelman's construction of the universal abelian category of an additive category. It furthermore extends the construction such that it also applies to transformations between additive functors.

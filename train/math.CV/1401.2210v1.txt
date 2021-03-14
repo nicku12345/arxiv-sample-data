@@ -1,0 +1,1 @@
+We prove local hypoellipticity of the complex Laplacian \Box and of the Kohn Laplacian \Box_b in a pseudoconvex boundary when, for a system of cut-off \eta, the gradient \partial_b\eta and the Levi form \partial_b\bar\partial_b\eta^2 are subelliptic multipliers in the sense of Kohn.

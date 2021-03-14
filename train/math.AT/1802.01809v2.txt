@@ -1,0 +1,1 @@
+If G is a compact connected Lie group and T is a maximal torus, we give a wedge decomposition of \Sigma G/T by identifying families of idempotents in cohomology. This is used to give new information on the self-maps of G/T.

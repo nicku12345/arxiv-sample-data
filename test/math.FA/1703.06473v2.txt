@@ -1,0 +1,1 @@
+In this paper we introduce a notion of a directional uncertainty product for multivariate periodic functions. It measures a localization of a function along a particular direction. We study properties of the uncertainty product and give an example of well localized multivariate periodic Parseval wavelet frames.

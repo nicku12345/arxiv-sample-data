@@ -1,0 +1,1 @@
+This note proves that if S is an unramified regular local ring and I and J are proper ideals of height at least two, then S/IJ is never Gorenstein.

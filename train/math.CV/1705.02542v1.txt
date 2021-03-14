@@ -1,0 +1,1 @@
+Given a sequence of regular planar domains converging in the sense of kernel, we prove that the corresponding Green's functions converge uniformly on the complex sphere, provided the limit domain is also regular, and the connectivity is uniformly bounded.

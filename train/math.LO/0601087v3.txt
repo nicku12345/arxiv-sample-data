@@ -1,0 +1,1 @@
+Solovay's random-real forcing (1971) is the standard way of producing real-valued measurable cardinals. Following questions of Fremlin, by giving a new construction, we show that there are combinatorial, measure-theoretic properties of Solovay's model that do not follow from the existence of real-valued measurability.

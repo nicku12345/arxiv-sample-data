@@ -1,0 +1,1 @@
+Radius constants for several classes of analytic functions on the unit disk are obtained. These include the radius of starlikeness of a positive order, radius of parabolic starlikeness, radius of Bernoulli lemniscate starlikeness, and radius of uniform convexity. In the main, the radius constants obtained are sharp. Conjectures on the non-sharp constants are given.

@@ -1,0 +1,1 @@
+We give the following extension of Barany's colorful Caratheodory theorem: Let M be an oriented matroid and N a matroid with rank function r, both defined on the same ground set V and satisfying rank(M) < rank(N). If every subset A of V with r(V - A) < rank (M) contains a positive circuit of M, then some independent set of N contains a positive circuit of M.

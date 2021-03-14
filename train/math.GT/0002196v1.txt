@@ -1,0 +1,1 @@
+We produce examples of codimension one foliations of the Euclidean and hyperbolic planes with bounded geometry which are topologically products, but for which leaves are non-recursively distorted. That is, the function which compares intrinsic distances in leaves with extrinsic distances in the ambient space grows faster than any recursive function.

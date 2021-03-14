@@ -1,0 +1,1 @@
+We prove that the LS category of the symplectic group Sp(n) is bounded above by \binom{n+1}{2}. This is achieved by computing the number of critical levels of a height function.

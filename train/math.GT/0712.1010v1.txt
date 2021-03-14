@@ -1,0 +1,1 @@
+We introduce a geometric invariant of knots in the three-sphere, called the first-order genus, that is derived from certain 2-complexes called gropes, and we show it is computable for many examples. While computing this invariant, we draw some interesting conclusions about the structure of a general Seifert surface for some knots.

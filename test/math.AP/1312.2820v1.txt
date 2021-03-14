@@ -1,0 +1,1 @@
+Weak supersolutions to the porous medium equation are defined by means of smooth test functions under an integral sign. We show that nonnegative weak supersolutions become lower semicontinuous after redefinition on a set of measure zero. This shows that weak supersolutions belong to a class of supersolutions defined by a comparison principle.

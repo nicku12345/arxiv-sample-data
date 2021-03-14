@@ -1,0 +1,1 @@
+We find a separable L_1-predual with the Daugavet property X and a finite-dimensional Hilbert space H such that X\pten H fails to have an octahedral norm. This proves that octahedrality is not preserved from one factor by taking projective tensor product, which solves an open problem from the literature.

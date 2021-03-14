@@ -1,0 +1,1 @@
+For an associative algebra A a skew-symmetric sum of n! products of n elements of A in all possible order is called n-commutator. We consider A as n-ary algebra under n-commutator. We prove that it has an identity of \omega-degree 2 (namely, homotopical n-Lie identity) if n is even and an identity of \omega-degree 3 if n is odd.

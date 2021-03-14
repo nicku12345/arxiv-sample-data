@@ -1,0 +1,1 @@
+We present a new stability analysis for the second barycentric formula for interpolation, showing that this formula is backward stable when the relevant Lebesgue constant is small.

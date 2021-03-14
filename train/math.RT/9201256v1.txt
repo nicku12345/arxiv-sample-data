@@ -1,0 +1,1 @@
+For any unitary representation of an arbitrary Lie group I construct a moment mapping from the space of smooth vectors of the representation into the dual of the Lie algebra. This moment mapping is equivariant and smooth. For the space of analytic vectors the same construction is possible and leads to a real analytic moment mapping.

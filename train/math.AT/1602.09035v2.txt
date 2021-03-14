@@ -1,0 +1,1 @@
+Using the E_\infty-structure on singular cochains, we construct a homotopy coherent map from the cyclic bar construction of the differential graded algebra of cochains on a space to a model for the cochains on its free loop space. This fills a gap in the paper "Cyclic homology and equivariant homology" by John D.S. Jones.

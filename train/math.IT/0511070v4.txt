@@ -1,0 +1,1 @@
+It is believed that a particle cannot carry more than one bit of information. It is pointed out that particle or single-particle quantum state can carry more than one bit of information. It implies that minimum energy cost of transmitting a bit will be less than the accepted limit KTlog2.

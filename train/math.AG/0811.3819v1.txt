@@ -1,0 +1,1 @@
+We calculate two Belyi pairs using the properties of Mulase-Penkava differential. Details are provided including accurate construction of coordinates, variables and equations. The calculation is a part of the work which results in a catalogue arXiv:0710.2658

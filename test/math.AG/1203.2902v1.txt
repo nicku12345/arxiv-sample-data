@@ -1,0 +1,1 @@
+Let X be an affine toric variety. The total coordinates on X provide a canonical presentation of X as a quotient of a vector space by a linear action of a quasitorus. We prove that the orbits of the connected component of the automorphism group Aut(X) on X coincide with the Luna strata defined by the canonical quotient presentation.

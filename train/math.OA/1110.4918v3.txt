@@ -1,0 +1,1 @@
+The main result of this paper is to establish the weak* completely contractive approximation property (w*CCAP) for the q-Gaussian algebras for all values of q \in [-1, 1] and any number of generators. We use this to establish that the q-Gaussian algebras are strongly solid in the sense of Popa and Ozawa for q \in (-1, 1).

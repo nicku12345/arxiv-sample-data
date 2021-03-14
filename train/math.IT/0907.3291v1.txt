@@ -1,0 +1,1 @@
+We consider the compound capacity of polar codes under successive cancellation decoding for a collection of binary-input memoryless output-symmetric channels. By deriving a sequence of upper and lower bounds, we show that in general the compound capacity under successive decoding is strictly smaller than the unrestricted compound capacity.

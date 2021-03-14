@@ -1,0 +1,1 @@
+We propose an update estimation method for a diffusion parameter from high-frequency dependent data under a nuisance drift element. We ensure the asymptotic equivalence of the estimator to the corresponding quasi-MLE, which has the asymptotic normality and the asymptotic efficiency. We give a simulation example to illustrate the theory.

@@ -1,0 +1,1 @@
+A coextensive category can be defined as a category \mathcal{C} with finite products such that for each pair X,Y of objects in \mathcal{C}, the canonical functor \times\colon X/\mathcal{C} \times Y/\mathcal{C} \to (X \times Y)/\mathcal{C} is an equivalence. We give a syntactical characterization of coextensive varieties of universal algebras.

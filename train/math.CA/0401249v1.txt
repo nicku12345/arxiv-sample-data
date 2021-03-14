@@ -1,0 +1,1 @@
+We generalise a result of Sawyer to show the following: For each y\in R^p and w\in R^q let \Gamma(y,w) be a measurable d-dimensional surface in R^n. Under conditions on the number of parameters and smoothness assumptions, there exists a set of measure zero that includes a \Gamma(y,w) for every y.

@@ -1,0 +1,1 @@
+We prove a result on the structure of finite proper holomorphic mappings between complex manifolds that are products of hyperbolic Riemann surfaces. While an important special case of our result follows from the ideas developed by Remmert and Stein, the proof of the full result relies on the interplay of the latter ideas and a finiteness theorem for Riemann surfaces.

@@ -1,0 +1,1 @@
+In this note we define geometric classical r-matrices and quantum R-matrices, and show how any geometric classical r-matrix can be quantized to a geometric quantum R-matrix. This is one of the simplest nontrivial examples of quantization of solutions of the classical Yang-Baxter equation, which can be explicitly computed.

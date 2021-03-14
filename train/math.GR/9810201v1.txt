@@ -1,0 +1,1 @@
+A group is combable if it can be represented by a language of words satisfying a fellow traveller property; an automatic group has a synchronous combing which is a regular language. This article surveys results for combable groups, in particular in the case where the combing is a formal language.

@@ -1,0 +1,1 @@
+This is a part of an ongoing project, the goal of which is to classify all semi-direct products \mathfrak s=\mathfrak g{\ltimes} V such that \mathfrak g is a simple Lie algebra, V is a \mathfrak g-module, and \mathfrak s has a free algebra of symmetric invariants. In this paper, we obtain such a classification for the representations of the orthogonal and symplectic algebras.

@@ -1,0 +1,1 @@
+We present a mechanism for the creation of gaps in the spectra of self-adjoint operators defined over a Hilbert space of functions on a graph, which is based on the process of graph decoration. The resulting Hamiltonians can be viewed as associated with discrete models exhibiting a repeated local structure and a certain bottleneck in the hopping amplitudes.

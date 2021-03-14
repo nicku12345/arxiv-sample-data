@@ -1,0 +1,1 @@
+This paper presents a study of the properties of a matrix model that was introduced to describe transitions between all Wigner surmises of Random Matrix theory. New results include closed-form exact analytical expressions for the transitional probability density functions, as well as suitable analytical approximations for cases not amenable to explicit representation.

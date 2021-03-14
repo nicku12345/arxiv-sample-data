@@ -1,0 +1,1 @@
+An analysis of the characteristic function of Gaussian quadratic forms is presented in [1] to study the performance of multichannel communication systems. This technical report reviews this analysis, obtaining alternative expressions to original ones in compact matrix format.

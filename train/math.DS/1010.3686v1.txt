@@ -1,0 +1,1 @@
+We show that the following three properties of a diffeomorphism f of a smooth closed manifold are equivalent: (i) f belongs to the C^1-interior of the set of diffeomorphisms having periodic shadowing property; (ii) f has Lipschitz periodic shadowing property; (iii) f is \Omega-stable.

@@ -1,0 +1,1 @@
+We define a notion of "Frobenius pair", which is a mild generalization of the notion of Frobenius object in a monoidal category. We then show that Atiyah duality for smooth manifolds can be encapsulated in the statement that a certain collection of structure obtained from a manifold forms a commutative Frobenius pair in the stable homotopy category of spectra.

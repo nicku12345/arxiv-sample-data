@@ -1,0 +1,1 @@
+A Seifert surface for a knot K is called canonical if it can be built by applying Seifert's algorithm to some projection of K. The canonical genus of K is the smallest genus of a surface so obtained. In this paper we show that there is a bound on the volume of a hyperbolic knot which admits a canonical surface of genus g. The bound can, in fact, be chosen to be linear in g.

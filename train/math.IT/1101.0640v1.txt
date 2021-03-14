@@ -1,0 +1,1 @@
+In this note we establish two facts concerning the so-called {\em New-Jersey} outer bound. We show that this outer bound is equivalent to a much simpler {\em computable} region; and secondly we show that in the absence of private information this bound is exactly same as the UV-outerbound.

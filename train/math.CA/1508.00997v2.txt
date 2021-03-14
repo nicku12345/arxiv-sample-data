@@ -1,0 +1,1 @@
+We show by explicit estimates that the SubRiemannian distance in a Carnot group of step two is locally semiconcave away from the diagonal if and only if the group does not contain abnormal minimizing curves. Moreover, we prove that local semiconcavity fails to hold in the step-3 Engel group, even in the weaker "horizontal" sense.

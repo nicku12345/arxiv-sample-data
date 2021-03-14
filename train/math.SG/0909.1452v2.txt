@@ -1,0 +1,1 @@
+We prove that an iterated torus knot type fails the uniform thickness property (UTP) if and only if all of its iterations are positive cablings, which is precisely when an iterated torus knot type supports the standard contact structure. We also show that all iterated torus knots that fail the UTP support cabling knot types that are transversely non-simple.

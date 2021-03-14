@@ -1,0 +1,1 @@
+We study the question of when 0-1 polytopes are normal or, equivalently, having the integer decomposition property. In particular, we shall associate to each 0-1 polytope a labeled hypergraph, and examine the equality between its Ehrhart and polytopal rings via the combinatorial structures of the labeled hypergraph.

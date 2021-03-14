@@ -1,0 +1,1 @@
+In this note, we show uniqueness of weak solutions to the Vlasov-Poisson system on the only condition that the macroscopic density \rho defined by \rho(t,x) = \int_{\Rd} f(t,x,\xi)d\xi is bounded in \Linf. Our proof is based on optimal transportation.

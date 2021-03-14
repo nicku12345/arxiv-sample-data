@@ -1,0 +1,1 @@
+In this paper, we study the mod(p) motivic cohomology of twisted complete flag varieties over some restricted fields k. Here we take k such that the mod(p) Milnor K-theory KM_i(k)/p=0 for i>3.

@@ -1,0 +1,1 @@
+We develop techniques for computing the AK invariant of domains with arbitrary characteristic. As an example, we show that for any field K the ring K[X,Y,Z,T] / (X + X^2 Y + Z^2 + T^3) is not isomorphic to a polynomial ring over K.

@@ -1,0 +1,1 @@
+We provide that any Jordan derivation from the block upper triangular matrix algebra \T = \T(n_{1},n_{2}, \cdots, n_{k})\subseteq M_{n}(\mathbb{\C}) into a 2-torsion free unital \T-bimodule is the sum of a derivation and an antiderivation.

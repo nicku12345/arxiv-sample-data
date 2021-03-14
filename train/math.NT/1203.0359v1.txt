@@ -1,0 +1,1 @@
+Let L_1 and L_2 be finite separable extensions of a global field K, and let E_i be the Galois closure of L_i over K for i=1,2. We establish a local-global principle for the product of norms from L_1 and L_2 (so-called multinorm principle) provided that the extensions E_1 and E_2 are linearly disjoint over K.

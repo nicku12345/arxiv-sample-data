@@ -1,0 +1,1 @@
+We show that every n-vertex cubic graph with girth at least g have domination number at most 0.299871n+O(n/g)<3n/10+O(n/g).

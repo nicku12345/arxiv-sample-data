@@ -1,0 +1,1 @@
+We construct, for q a root of unity of odd order, an embedding of the projective special linear group PSL(n) into the group of bi-Galois objects over u_q(sl(n))*, the coordinate algebra of the Frobenius-Lusztig kernel of SL(n), which is shown to be an isomorphism at n=2.

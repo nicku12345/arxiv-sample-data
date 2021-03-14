@@ -1,0 +1,1 @@
+We cosider the number of r-tuples of squarefree numbers in a short interval. We prove that it cannot be much bigger than the expected value and we also estabish an asymptotic formula if the interval is not very short.

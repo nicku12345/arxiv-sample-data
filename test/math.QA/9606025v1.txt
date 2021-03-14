@@ -1,0 +1,1 @@
+We show that (as conjectured by Lin and Wang) when a Vassiliev invariant of type m is evaluated on a knot projection having n crossings, the result is bounded by a constant times n^m. Thus the well known analogy between Vassiliev invariants and polynomials justifies (well, at least {\em explains}) the odd title of this note.

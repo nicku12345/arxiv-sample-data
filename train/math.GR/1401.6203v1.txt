@@ -1,0 +1,1 @@
+A group G is called subgroup conjugacy separable (abbreviated as SCS), if any two finitely generated and non-conjugate subgroups of G remain non-conjugate in some finite quotient of G. We prove that free groups and the fundamental groups of orientable closed compact surfaces are SCS.

@@ -1,0 +1,1 @@
+The concept of a universal algorithm is discussed. Examples of this kind of algorithms are presented. Software implementations of such algorithms in C++ type languages are discussed together with means that provide for computations with an arbitrary accuracy. Particular emphasis is placed on universal algorithms of linear algebra over semirings.

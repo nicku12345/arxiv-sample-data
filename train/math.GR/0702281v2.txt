@@ -1,0 +1,1 @@
+This is the second part of a series of three articles which introduce laminations for free groups (see math.GR/0609416 for the first part). Several definition of the dual lamination of a very small action of a free group on an \R-tree are given and proved to be equivalent.

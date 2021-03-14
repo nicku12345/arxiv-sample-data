@@ -1,0 +1,1 @@
+We analyze some exact and approximate solutions to nonlinear equations for heat transfer models. We prove that recent results derived from a method based on Lie algebras are either trivial or wrong. We test a simple analytical expression based on the hypervirial theorem and also discuss earlier perturbation results.

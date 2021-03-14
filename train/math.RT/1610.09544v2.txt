@@ -1,0 +1,1 @@
+Modules for the Lie algebra of Hamiltonian vector fields on a torus, which admit a compatible action for the commutative algebra of multivariate Laurent polynomials are called category \mathcal{J}. This paper classifies the indecomposable and the irreducible modules in category \mathcal{J}.

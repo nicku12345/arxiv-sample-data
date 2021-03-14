@@ -1,0 +1,1 @@
+Below is a method for relating a mixed volume computation for polytopes sharing many facet directions to a symmetric random walk. The example of permutahedra and particularly hypersimplices is expanded upon.

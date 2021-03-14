@@ -1,0 +1,1 @@
+We present a compilation of LEGO Technic parts to provide easy-to-build constructions of basic planar linkages. Some technical issues and their possible solutions are discussed. To solve questions on fine details---like deciding whether the motion is an exactly straight line or not---we refer to the dynamic mathematics software tool GeoGebra.

@@ -1,0 +1,1 @@
+We state and prove a fusion system version of Mislin's theorem \cite{Mislin1990} on cohomology and control of fusion, following Symonds's proof \cite{Symonds2004} of Mislin's theorem using Mackey functors.

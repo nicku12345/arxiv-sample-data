@@ -1,0 +1,1 @@
+In the mid-1960s Borevic and Faddeev initiated the study of the Galois module structure of groups of pth-power classes of cyclic extensions K/F of pth-power degree. They determined the structure of these modules in the case when F is a local field. In this paper we determine these Galois modules for all base fields F.

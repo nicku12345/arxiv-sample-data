@@ -1,0 +1,1 @@
+The mod 2 Moore spectrum C(2) is the cofiber of the self-map 2: \mathbb{S} \to \mathbb{S}. Building on work of Burklund, Hahn, and Senger, we prove that above a line of slope \frac{1}{5}, the Adams spectral sequence for C(2) collapses at its E_5-page and characterize the surviving classes. This completes the proof of a result of Mahowald, announced in 1970, but never proven.

@@ -1,0 +1,1 @@
+This paper presents some algorithmic techniques to compute explicitly the noetherian operators associated to a class of ideals and modules over a polynomial ring. The procedures we include in this work can be easily encoded in computer algebra packages such as CoCoA and Singular.

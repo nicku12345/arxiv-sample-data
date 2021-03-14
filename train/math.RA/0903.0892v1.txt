@@ -1,0 +1,1 @@
+In this paper, we study the concept of associative n-conformal algebra over a field of characteristic 0 and establish Composition-Diamond lemma for a free associative n-conformal algebra. As an application, we construct Gr\"{o}bner-Shirshov bases for Lie n-conformal algebras presented by generators and defining relations.

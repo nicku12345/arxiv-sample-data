@@ -1,0 +1,1 @@
+Let M be an orbit of a real semisimple Lie group G_0 acting on a complex a flag manifolds G/Q of its complexification G. We study the space of global CR functions on M and characterize those M which are strictly locally CR separable, i.e. those for which global CR functions induce local embeddings in C^n.

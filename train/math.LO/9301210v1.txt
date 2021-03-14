@@ -1,0 +1,1 @@
+We give an example of a countable theory T such that for every cardinal lambda >= aleph_2 there is a fully indiscernible set A of power lambda such that the principal types are dense over A, yet there is no atomic model of T over A. In particular, T(A) is a theory of size lambda where the principal types are dense, yet T(A) has no atomic model.

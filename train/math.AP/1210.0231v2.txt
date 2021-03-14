@@ -1,0 +1,1 @@
+Under proper hypotheses, we rigorously derive the Plateau angle conditions at triple junctions of diffused interfaces in three dimensions, starting from the vector-valued Allen-Cahn equation with a triple-well potential. Our derivation is based on an application of the divergence theorem using the divergence-free form of the equation via an associated stress tensor.

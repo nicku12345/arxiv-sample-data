@@ -1,0 +1,1 @@
+Let f be an orientation-preserving homeomorphism of the disk D, P a finite invariant subset and [f] the isotopy class of f in D\P. We give a non trivial lower bound of the topological entropy for maps in [f], using the spectral radius of some specializations in GL(n,C) of the Burau matrix associated with [f] and we discuss some examples.

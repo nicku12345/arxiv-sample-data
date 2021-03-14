@@ -1,0 +1,1 @@
+This note is concerned with a diluted version of the perceptron model. We establish a replica symmetric formula at high temperature, which is achieved by studying the asymptotic behavior of a given spin magnetization. Our main task will be to identify the order parameter of the system.

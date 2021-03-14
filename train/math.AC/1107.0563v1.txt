@@ -1,0 +1,1 @@
+Let I be a squarefree monomial ideal of a polynomial ring S. In this paper, we prove that the arithmetical rank of I is equal to the projective dimension of S/I when one of the following conditions is satisfied: (1) \mu (I) \leq 5; (2) \arithdeg I \leq 4.

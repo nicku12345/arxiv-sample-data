@@ -1,0 +1,1 @@
+In the present paper we establish that the space \exp_\beta X of compact subsets of a Tychonoff space X is superparacompact iff X is so. Further, we prove the Tychonoff map \exp_{\beta} f:\ \exp_{\beta} X\rightarrow \exp_{\beta} Y is superparacompact iff a given map f:\ X\rightarrow Y is superparacompact.

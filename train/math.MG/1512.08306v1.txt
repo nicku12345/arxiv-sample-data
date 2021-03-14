@@ -1,0 +1,1 @@
+In this paper, we extend the Hamilton's gradient estimates \cite{har93} and a monotonicity formula of entropy \cite{ni04} for heat flows from smooth Riemannian manifolds to (non-smooth) metric measure spaces with appropriate Riemannian curvature-dimension condition.

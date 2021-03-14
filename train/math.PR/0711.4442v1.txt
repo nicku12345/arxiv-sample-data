@@ -1,0 +1,1 @@
+We prove that a positive self-similar Markov process (X,\mathbb{P}) that hits 0 in a finite time admits a self-similar recurrent extension that leaves 0 continuously if and only if the underlying L\'{e}vy process satisfies Cram\'{e}r's condition.

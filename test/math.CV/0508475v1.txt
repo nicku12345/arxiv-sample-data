@@ -1,0 +1,1 @@
+A smooth bounded pseudoconvex domain in two complex variables is of finite type if and only if the number of eigenvalues of the d-bar-Neumann Laplacian that are less than or equal to \lambda has at most polynomial growth as \lambda goes to infinity.

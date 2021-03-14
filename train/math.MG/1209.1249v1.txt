@@ -1,0 +1,1 @@
+In this paper we study the problems of the following kind: For a pair of topological spaces X and Y find sufficient conditions that under every continuous map f : X\to Y a pair of sufficiently distant points is mapped to a single point.

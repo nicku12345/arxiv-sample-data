@@ -1,0 +1,1 @@
+We introduce a Littlewood-Paley decomposition related to any sub-Laplacian on a Lie group G of polynomial volume growth; this allows us to prove a Littlewood-Paley theorem in this general setting and to provide a dyadic characterization of Besov spaces equivalent to the classical definition through the heat kernel.

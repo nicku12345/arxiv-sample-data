@@ -1,0 +1,1 @@
+Let T\dopu C(S)\to C(S) be a bounded linear operator. We present a necessary and sufficient condition for the so-called Daugavet equation  \|\Id+T\| = 1+\|T\|  to hold, and we apply it to weakly compact operators and to operators factoring through c_{0}. Thus we obtain very simple proofs of results by Foias, Singer, Pelczynski, Holub and others.

@@ -1,0 +1,1 @@
+We show that if an open cover of a finite dimensional space is equivariant with respect to some finite group action on the space then there is an equivariant refinement of bounded dimension. This will generalize some constructions of certain covers. Those generalizations play a key role in the proof of the Farrell-Jones conjecture for the general linear group over a finite field.

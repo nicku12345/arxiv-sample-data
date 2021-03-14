@@ -1,0 +1,1 @@
+For a p-adic local field K with perfect residue field, L. Herr constructed a complex which computes the Galois cohomology of a p-torsion representation of the absolute Galois group of K by using the theory of (\Phi,\Gamma)-modules. We shall generalize his work to the imperfect residue field (the residue field has a finite p-basis) case.

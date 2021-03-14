@@ -1,0 +1,1 @@
+We study the outage probability of opportunistic relay selection in decode-and-forward relaying with secrecy constraints. We derive the closed-form expression for the outage probability. Based on the analytical result, the asymptotic performance is then investigated. The accuracy of our performance analysis is verified by the simulation results.

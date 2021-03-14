@@ -1,0 +1,1 @@
+We show that several reducts of Heyting polyadic algebras of infinite dimension, with and without equality enjoy various amalgamation properties. In the equality free case we obtain superamalgamation, but when we have equality we obtain a weaker interpolation property, for the corresponding infinitary intuitionistic logic with equality.

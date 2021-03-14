@@ -1,0 +1,1 @@
+Let K be a number field. This paper is devoted to a p-adic study of the algebraic differential equation of K[x,d/dx] with minimal degree in x annihilating a given E-function. Precisely, we prove a conjecture of yves Andr\'e (conjecture 4.7 of math.NT/0003238)

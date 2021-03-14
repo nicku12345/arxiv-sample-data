@@ -1,0 +1,1 @@
+We explore the use of bi-orthogonal basis for continuous wavelet transformations, thus relaxing the so-called admissibility condition on the analyzing wavelet. As an application, we determine the eigenvalues and corresponding radial eigenfunctions of the Hamiltonian of relativistic Hydrogen-like atoms.

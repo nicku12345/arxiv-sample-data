@@ -1,0 +1,1 @@
+In this paper, we introduce the notion of the core-EP decomposition and some of its properties. By using the decomposition, we derive several characterizations of the core-EP inverse, introduce a pre-order(i.e. the core-EP order) and a partial order(i.e. the core-minus partial order), and characterize the properties of both orders.

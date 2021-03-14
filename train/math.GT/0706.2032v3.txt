@@ -1,0 +1,1 @@
+Given a closed 3--manifold Y, we show that the Heegaard Floer homology determines whether Y fibres over the circle with a fibre of negative Euler characteristic. This is an analogue of an earlier result about knots proved by Ghiggini and the author.

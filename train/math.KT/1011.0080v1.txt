@@ -1,0 +1,1 @@
+In the local, unramified case the determinantal functions associated to the group-ring of a finite group satisfy Galois descent. This note examines the obstructions to Galois determinantal descent in the ramified case.

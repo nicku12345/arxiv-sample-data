@@ -1,0 +1,1 @@
+We prove a uniformly continuous linear extension principle in topological vector spaces from which we derive a very short and canonical construction of the Lebesgue integral of Banach space valued maps on a finite measure space. The Vitali Convergence Theorem and the Riesz-Fischer Theorem are shown to follow as easy consequences from our construction.

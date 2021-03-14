@@ -1,0 +1,1 @@
+We study the upper tail behaviors of the local times of the additive L\'{e}vy processes and additive random walks. The limit forms we establish are the moderate deviations and the laws of the iterated logarithm for the L_2-norms of the local times and for the local times at a fixed site.

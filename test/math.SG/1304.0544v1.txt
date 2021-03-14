@@ -1,0 +1,1 @@
+Exterior differential forms with values in the (Kostant's) symplectic spinor bundle on a manifold with a given metaplectic structure are decomposed into invariant subspaces. Projections to these invariant subspaces of a covariant derivative associated to a torsion-free symplectic connection are described.

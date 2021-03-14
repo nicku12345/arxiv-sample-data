@@ -1,0 +1,1 @@
+We construct an abelian representative for the crossed module associated to the string Lie algebra. We show how to apply this construction in order to define quasi-invariant tensors which serve to categorify the infinitesimal braiding on the category of g-modules given by an r-matrix, following Cirio-Martins.

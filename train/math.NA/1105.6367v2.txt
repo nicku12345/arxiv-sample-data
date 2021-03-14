@@ -1,0 +1,1 @@
+For the solution of discrete ill-posed problems, in this paper a novel preconditioned iterative method based on the Arnoldi algorithm for matrix functions is presented. The method is also extended to work in connection with Tikhonov regularization. Numerical experiments arising from the solution of integral equations and image restoration are presented.

@@ -1,0 +1,1 @@
+We prove an equivalence of categories from formal complex structures with formal holomorphic maps to homotopy algebras over a simple operad with its associated homotopy morphisms. We extend this equivalence to complex manifolds. A complex structure on a smooth manifold corresponds in this way to a family of algebras indexed by the points of the manifold.

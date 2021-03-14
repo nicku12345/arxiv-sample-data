@@ -1,0 +1,1 @@
+We introduce a delay nonlinear differential equation model which describes how fish are harvested. In our previous studies we investigated the persistence of that equation and existence of a periodic solution for this equation. Here we study the stability (local and global) of the periodic solutions of that equation.

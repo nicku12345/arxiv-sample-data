@@ -1,0 +1,1 @@
+For functions of two quaternionic variables that are regular in the sense of Fueter, we establish a result similar in spirit to the Hanges and Tr\`eves theorem. Namely, we show that a ball contained in the boundary of a domain is a propagator of regular extendability across the boundary.

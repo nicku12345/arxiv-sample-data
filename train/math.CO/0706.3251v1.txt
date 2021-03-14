@@ -1,0 +1,1 @@
+We determine the necessary and sufficient combinatorial conditions for which the tensor product of two irreducible polynomial representations of GL(n,\mathbb{C}) is isomorphic to another. As a consequence we discover families of Littlewood-Richardson coefficients that are non-zero, and a condition on Schur non-negativity.

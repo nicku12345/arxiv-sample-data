@@ -1,0 +1,1 @@
+We determine sufficient conditions on the volatility coefficient of Musiela's stochastic partial differential equation driven by an infinite dimensional L{\'e}vy process so that it admits a unique local mild solution in spaces of functions whose first derivative is square integrable with respect to a weight.

@@ -1,0 +1,1 @@
+The aim of this note is to show that any even perfect number, other than 6, can be written as the sum of 5 cubes of natural numbers. We also conjecture that any even perfect number, other than 6, can be written as the sum of only 3 cubes of natural numbers.

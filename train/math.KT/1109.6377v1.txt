@@ -1,0 +1,1 @@
+We study a group which is hyperbolic relative to a finite family of infinite subgroups. We show that the group satisfies the coarse Baum-Connes conjecture if each subgroup belonging to the family satisfies the coarse Baum-Connes conjecture and admits a finite universal space for proper actions. Especially, the group satisfies the analytic Novikov conjecture.

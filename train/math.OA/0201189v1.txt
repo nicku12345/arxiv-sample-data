@@ -1,0 +1,1 @@
+We prove that an operator space is completely isometric to a ternary ring of operators if and only if the open unit balls of all of its matrix spaces are bounded symmetric domains. From this we obtain an operator space characterization of C*-algebras.

@@ -1,0 +1,1 @@
+A new method of matrix spectral factorization is proposed which reliably computes an approximate spectral factor of any matrix spectral density that admits spectral factorization

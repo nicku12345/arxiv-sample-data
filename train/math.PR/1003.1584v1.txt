@@ -1,0 +1,1 @@
+In this note we prove an existence and uniqueness result of solution for stochastic Volterra integral equations driven by a fractional Brownian motion with Hurst parameter H > 1/2, showing also that the solution has finite moments. The stochastic integral with respect to the fractional Brownian motion is a pathwise Riemann-Stieltjes integral.

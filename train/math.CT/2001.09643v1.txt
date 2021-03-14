@@ -1,0 +1,1 @@
+A simplicial set is non-singular if the representing maps of its non-degenerate simplices are degreewise injective. The category of simplicial sets has a simplicial mapping set X^K whose set of n-simplices are the simplicial maps \Delta [n]\times K\to X. We prove that X^K is non-singular whenever X is non-singular.

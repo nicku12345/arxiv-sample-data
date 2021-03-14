@@ -1,0 +1,1 @@
+Let S denote the graded polynomial ring \C[x_1,...,x_m]. We interpret a chain complex of free S-modules having finite length homology modules as an S^1-equivariant map \C^m\sm\{0\} \to X, where X is a moduli space of exact sequences. By computing the cohomology of such spaces X we obtain obstructions to such maps, including a slight generalization of the Herzog-K\"uhl equations.

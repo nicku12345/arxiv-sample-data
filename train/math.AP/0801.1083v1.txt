@@ -1,0 +1,1 @@
+We develop a high-order energy method to prove asymptotic stability of flat steady surfaces for the Stefan problem with surface tension - also known as the Stefan problem with Gibbs-Thomson correction.

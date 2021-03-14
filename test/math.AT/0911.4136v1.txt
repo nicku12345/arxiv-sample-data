@@ -1,0 +1,1 @@
+In this article we study group lattices using the ideas by K.S.Brown and D.Quillen of associating a certain topological space to a partially ordered set. We determine the exact homotopy type for the subgroup lattice of PSL(2,7), find a connection between different group lattices and obtain some estimates for the Betty numbers of these lattices using the spectral sequence method.

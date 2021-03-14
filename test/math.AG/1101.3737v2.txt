@@ -1,0 +1,1 @@
+This note studies, and partially solves, 3 elementary questions about continuous rational functions on real (and p-adic) algebraic varieties: Can one restrict such a function to a subvariety? Can one extend such a function from a subvariety? Which linear equations can be solved using such functions?

@@ -1,0 +1,1 @@
+We propose an explicit construction of the solution of a stationary stochastic recursion of the form X\circ\theta=\phi(X) on a semi-ordered Polish space, when the monotonicity of \phi is not assumed. This solution exists on an enriched probability space (it is said \emph{weak}), provided the recursion is lattice-valued, and dominated by a proper monotonic stochastic recursion.

@@ -1,0 +1,1 @@
+We introduce the notion of manifolds of amalgamation geometry and its generalization, split geometry. We show that the limit set of any surface group of split geometry is locally connected, by constructing a natural Cannon-Thurston map.

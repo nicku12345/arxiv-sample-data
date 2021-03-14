@@ -1,0 +1,1 @@
+We introduce the notion of a totally aspherical parameter for a Rational Cherednik algebra. We get an explicit construction of the projective object defining the KZ functor for such parameters. We establish the existence of sufficiently many totally aspherical parameters for the groups G(l,1,n).

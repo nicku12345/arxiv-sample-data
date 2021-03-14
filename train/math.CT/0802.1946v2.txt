@@ -1,0 +1,1 @@
+We construct free monoids in a monoidal category with finite limits and countable colimits, in which tensoring on either side preserves reflexive coequalizers and colimits of countable chains.

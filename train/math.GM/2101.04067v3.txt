@@ -1,0 +1,1 @@
+Halbeisen and Hungerbuhler determined optimal bounds for the length of rational Collatz cycles. Their methods are extended to 3n+c cycles. Another sequence having properties similar to those of Riemann zeta function zeros is introduced.

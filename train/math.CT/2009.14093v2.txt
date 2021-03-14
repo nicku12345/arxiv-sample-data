@@ -1,0 +1,1 @@
+We define a new invariant of finitely generated representations of a finite group, with coefficients in a commutative noetherian ring. This invariant uses group cohomology and takes values in the singularity category of the coefficient ring. It detects which representations are controlled by permutation modules.

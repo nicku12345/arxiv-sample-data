@@ -1,0 +1,1 @@
+We compute the determinant of the Gram matrix of the Shapovalov form on weight spaces of the basic representation of an affine Kac-Moody algebra of ADE type (possibly twisted). As a consequence, we obtain explicit formulae for the determinants of the Cartan matrices of p-blocks of the symmetric group and its double cover, and of the associated Hecke algebras at roots of unity.

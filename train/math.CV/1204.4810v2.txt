@@ -1,0 +1,1 @@
+Let X be a compact generalized Sasakian CR manifold of dimension 2n-1, n\geqslant2, and let L be a generalized Sasakian CR line bundle over X equipped with a rigid semi-positive Hermitian fiber metric h^L. In this paper we prove that if h^L is positive at some point of X and conditions Y(0) and Y(1) hold at each point of X, then L is big.

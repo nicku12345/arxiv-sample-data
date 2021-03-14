@@ -1,0 +1,1 @@
+The Burau representation of the braid group can be used to recover the Alexander polynomial of the closure of a braid. We define twisted Burau maps and use them to compute twisted Alexander polynomials.

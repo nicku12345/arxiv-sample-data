@@ -1,0 +1,1 @@
+A family of real functions {g_\alpha} defining a spectral regularization method with optimal qualification is considered. Sufficient condition on the family and on the optimal qualification guaranteeing the existence of saturation are established. Appropriate characterizations of both the saturation function and the saturation set are found and some examples are provided.

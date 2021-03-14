@@ -1,0 +1,1 @@
+In this paper, we introduce several notions of "dimension" of a finite group, involving sizes of generating sets and certain configurations of maximal subgroups. We focus on the inequality m(G) \leq \mathrm{MaxDim}(G), giving a family of examples where the inequality is strict, and showing that equality holds if G is supersolvable.

@@ -1,0 +1,1 @@
+We generalize the concepts of locally presentable and accessible categories. Our framework includes such categories as small presheaves over large categories and ind-categories. This generalization is intended for applications in the abstract homotopy theory.

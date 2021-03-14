@@ -1,0 +1,1 @@
+Bernoulli numbers are usually expressed in terms of their lower index numbers (recursive). This paper gives an explicit formula for Bernoulli numbers of even index. The formula contains a remarkable sequence of determinants.

@@ -1,0 +1,1 @@
+In this paper we study the connection between four models describing dislocation dynamics: a generalized 2D Frenkel-Kontorova model at the atomic level, the Peierls-Nabarro model, the discrete dislocation dynamics and a macroscopic model with dislocation densities. We show how each model can be deduced from the previous one at a smaller scale.

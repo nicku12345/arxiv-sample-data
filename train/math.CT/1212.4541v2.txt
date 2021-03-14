@@ -1,0 +1,1 @@
+Building on a previous definition of homotopy limit of model categories, we give a definition of homotopy colimit of model categories. Using the complete Segal space model for homotopy theories, we verify that this definition corresponds to the model-category-theoretic definition in that setting.

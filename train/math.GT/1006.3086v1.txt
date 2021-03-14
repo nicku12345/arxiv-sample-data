@@ -1,0 +1,1 @@
+In paper "A new twist on Lorenz links" (Journal of Topology 2(2009), 227-248) Joan Birman and Ilya Kofman prove the coincidence of the class of Lorenz links and the class of twisted links. The proof in that work is algebraic. We will identify this class in terms of grid diagrams and provide a transparent geometric argument for Birman-Kofman's result.

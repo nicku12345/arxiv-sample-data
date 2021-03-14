@@ -1,0 +1,1 @@
+We show that if (B,\pi) is an open book decomposition of a contact 3-manifold (Y,\xi), then the complement of the binding B has no Giroux torsion. We also prove the sutured Heegaard-Floer c-bar invariant of the binding of an open book is non-zero.

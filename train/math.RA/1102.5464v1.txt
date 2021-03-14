@@ -1,0 +1,1 @@
+I describe the lattice of subalgebras of a one-generator Leibniz algebra. Using this, I show that, apart from one special case, a lattice isomorphism between Leibniz algebras L, L' maps the Leibniz kernel of L to that of L'.

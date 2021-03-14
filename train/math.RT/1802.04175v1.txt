@@ -1,0 +1,1 @@
+Let A be a finite dimensional algebra having the double centraliser property with respect to a minimal faithful projective-injective left module Af for some idempotent f. We prove that in this case A is a monomial algebra if and only if A is a Nakayama algebra given by quiver and relations.

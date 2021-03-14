@@ -1,0 +1,1 @@
+Using spectral invariants of Dirac operators we construct a secondary version of the Witten genus, a bordism invariant of string manifolds in dimensions 4m-1. We prove a secondary index theorem which relates this global-analytic construction with its homotopy-theoretic analog. The latter will be calculated through its factorization over topological modular forms.

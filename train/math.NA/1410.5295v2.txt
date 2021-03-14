@@ -1,0 +1,1 @@
+In this short note we propose a simple two-stage sparse phase retrieval strategy that uses a near-optimal number of measurements, and is both computationally efficient and robust to measurement noise. In addition, the proposed strategy is fairly general, allowing for a large number of new measurement constructions and recovery algorithms to be designed with minimal effort.

@@ -1,0 +1,1 @@
+We prove that the Gerstenhaber bracket on the Hochschild cohomology of the group algebra of a cyclic group over a field of positive characteristic is not trivial. In this case, we relate the Lie algebra structure on the odd degrees of the Hochschild cohomology with a Witt-type algebra.

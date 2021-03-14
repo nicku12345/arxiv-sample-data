@@ -1,0 +1,1 @@
+We study a one-dimensional random walk whose expected drift depends both on time and the position of a particle. We establish a non-trivial phase transition for the recurrence vs. transience of the walk, and show some interesting applications to Friedman's urn, as well as showing the connection with Lamperti's walk with asymptotically zero drift.

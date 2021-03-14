@@ -1,0 +1,1 @@
+We prove that Floer cohomology of cyclic Lagrangian correspondences is invariant under transverse and embedded composition of Lagrangians under a general set of assumptions.   In the Corrigendum, we introduce an additional assumption of monotonicity for cylinders which is needed to avoid bubbling at the Y-end.

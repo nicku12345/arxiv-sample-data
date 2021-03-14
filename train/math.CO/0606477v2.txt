@@ -1,0 +1,1 @@
+A forest is the clique complex of a strongly chordal graph and a quasi-forest is the clique complex of a chordal graph. Kruskal--Katona type theorems for forests, quasi-forests, pure forests and pure quasi-forests will be presented. In addition, it will be shown that a quasi-forest is shellable if and only if its h-vector (h_0, h_1, h_2, ...) satisfies h_i = 0 for i > 1.

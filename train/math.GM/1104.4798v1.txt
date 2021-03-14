@@ -1,0 +1,1 @@
+In this article we give evaluations of the two complete elliptic integrals K and E in the form of Ramanujans type-\pi formulas. The result is a formula for \Gamma(1/4)^2\pi^{-3/2} with accuracy about 120 digits per term.

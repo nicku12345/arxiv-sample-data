@@ -1,0 +1,1 @@
+We conjecture an equivalence between the Gromov-Witten theory of 3-folds and the holomorphic Chern-Simons theory of Donaldson-Thomas. For Calabi-Yau 3-folds, the equivalence is defined by the change of variables, exp(iu)=-q, where u is the genus parameter of GW theory and q is charge parameter of DT theory. The conjecture is proven for local Calabi-Yau toric surfaces.

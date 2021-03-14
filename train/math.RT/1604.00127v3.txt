@@ -1,0 +1,1 @@
+Mutation of {\tau}-tilting modules is a basic operation to construct a new support {\tau}-tilting module from a given one by replacing a direct summand. The aim of this paper is to give a positive answer to the question posed in [AIR, Question 2.31] about mutation of {\tau}-tilting modules.

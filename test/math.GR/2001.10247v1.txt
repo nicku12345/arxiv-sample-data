@@ -1,0 +1,1 @@
+The aim of this paper is to prove the following result: Let \pi be a set of odd primes. If the group G=AB is the product of two \pi-decomposable subgroups A=A_\pi \times A_{\pi'} and B=B_\pi \times B_{\pi'}, then G has a unique conjugacy class of Hall \pi-subgroups, and any \pi-subgroup is contained in a Hall \pi-subgroup (i.e. G satisfies property D_{\pi}).

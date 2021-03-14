@@ -1,0 +1,1 @@
+We describe the universal central extension of the three point current algebra \mathfrak{sl}(2,\mathcal R) where \mathcal R=\mathbb C[t,t^{-1},u\,|\,u^2=t^2+4t ] and construct realizations of it in terms of sums of partial differential operators.

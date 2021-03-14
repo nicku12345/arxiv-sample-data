@@ -1,0 +1,1 @@
+We obtain an explicit formula for the number of permutations of [n] that avoid the barred pattern bar{1}43bar{5}2. A curious feature of its counting sequence, 1, 1, 2, 5, 14, 43, 145, 538, 2194,..., is that the displayed terms agree with A122993 in the On-Line Encyclopedia of Integer Sequences, but the two sequences diverge thereafter.

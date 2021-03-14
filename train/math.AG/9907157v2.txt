@@ -1,0 +1,1 @@
+The Jacobian Conjecture would follow if it were known that real polynomial maps with a unipotent Jacobian matrix are injective. The conjecture that this is true even for C^1 maps is explored here. Some results known in the polynomial case are extended to the C^1 context, and some special cases are resolved.

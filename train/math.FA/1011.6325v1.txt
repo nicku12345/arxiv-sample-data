@@ -1,0 +1,1 @@
+In this note we prove that Tr (MN+ PQ)>= 0 when the following two conditions are met: (i) the matrices M, N, P, Q are structured as follows: M = A -B, N = inv(B)-inv(A), P = C-D, Q =inv (B+D)-inv(A+C), where inv(X) denotes the inverse matrix of X (ii) A, B are positive definite matrices and C, D are positive semidefinite matrices.

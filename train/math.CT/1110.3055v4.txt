@@ -1,0 +1,1 @@
+Two fundamental contributions to categorical quantum mechanics are presented. First, we generalize the CP-construction, that turns any dagger compact category into one with completely positive maps, to arbitrary dimension. Second, we axiomatize when a given category is the result of this construction.

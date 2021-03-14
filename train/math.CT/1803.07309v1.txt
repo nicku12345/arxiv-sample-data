@@ -1,0 +1,1 @@
+We prove that a category which is symmetric (relaxed) monoidal closed, (small) complete, well-powered and has a small cogenerating family, is cocomplete.

@@ -1,0 +1,1 @@
+We introduce a new property of the discrete Sugeno integrals which can be seen as their characterization, too. This property, compatibility with respect to congruences on [0,1], stresses the importance of the Sugeno integrals in multicriteria decision support as well.

@@ -1,0 +1,1 @@
+Let X be an elliptic curve over an algebraically closed field. We prove that some exact sub-categories of the category of vector bundles over X, defined using Harder-Narasimhan filtrations, have the same K-groups as the whole category.

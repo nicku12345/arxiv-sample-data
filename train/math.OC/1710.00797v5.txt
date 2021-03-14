@@ -1,0 +1,1 @@
+Many problems encountered in training neural networks are non-convex. However, some of them satisfy conditions weaker than convexity, but which are still sufficient to guarantee the convergence of some first-order methods. In our work we show that some previously known first-order methods retain their convergence rates under these weaker conditions.

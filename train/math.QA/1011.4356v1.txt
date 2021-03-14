@@ -1,0 +1,1 @@
+We define a family of multigraded operads O_\lambda depending on a scalar parameter, such that forgetting the multigraduation gives back the pre-Lie operad when the parameter \lambda is equal to one, and the NAP operad governing Non-Associative Permutative algebras when \lambda is equal to zero.

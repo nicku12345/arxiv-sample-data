@@ -1,0 +1,1 @@
+Let X be a possibly non-reduced space of pure dimension. We introduce an essentially intrinsic pointwise Hermitian norm on smooth (0,*)-forms, in particular on holomorphic functions, on X. We prove that the space of holomorphic functions is complete with respect to the natural topology induced by this norm.

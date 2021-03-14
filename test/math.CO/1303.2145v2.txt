@@ -1,0 +1,1 @@
+We show that if the two parts of a finite bipartite graph have the same degree sequence, then there is a bipartite graph, with the same degree sequences, which is symmetric, in that it has an involutive graph automorphism that interchanges its two parts. To prove this, we study the relationship between symmetric bipartite graphs and graphs with loops.

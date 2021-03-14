@@ -1,0 +1,1 @@
+It is well known that the category of finite sets and cospans, composed by pushout, contains the universal {\em special} commutative Frobenius algebra. In this note we observe that the same construction yields also general commutative Frobenius algebras, if just the pushouts are changed to homotopy pushouts.

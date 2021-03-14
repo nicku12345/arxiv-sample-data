@@ -1,0 +1,1 @@
+We determine a class of ringed space X, for which the category of locally free sheaves of bounded rank is equivalent to the category of finitely generated projective A(X)-modules, where A(X) denote the ring of global sections of X. The well-known Serre-Swan theorems for affine schemes, differentiable manifolds, Stein spaces, etc., are then derived.

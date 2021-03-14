@@ -1,0 +1,1 @@
+We establish the existence of an IC basis for the generalized Temperley--Lieb algebra associated to a Coxeter system of arbitrary type. We determine this basis explicitly in the case where the Coxeter system is simply laced and the algebra is finite dimensional.

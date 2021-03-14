@@ -1,0 +1,1 @@
+A generalization of the Auslander conjecture is proved in the case when the Levi factor of the Zariski closure of the acting group is a product of simple real algebraic groups of rank \leq 1. Also, the Auslander conjecture is proved for dimensions \leq 5.

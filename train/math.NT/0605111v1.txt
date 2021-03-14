@@ -1,0 +1,1 @@
+We prove an asymptotic formula for class numbers of totlally imaginary quartic number fields, ie for number fields of degree 4 over Q with only complex embeddings. After previous work for real quadratic fields (Sarnak) and complex cubic fields (Deitmar), this is the last remaining case of number fields with unit rank one.

@@ -1,0 +1,1 @@
+We provide a method to compute the dimension of the tangent space to the global infinitesimal deformation functor of a curve together with a subgroup of the group of automorphisms. The computational techniques we developed are applied to several examples including Fermat curves, p-cyclic covers of the affine line and to Lehr-Matignon curves.

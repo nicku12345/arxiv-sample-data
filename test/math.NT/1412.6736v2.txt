@@ -1,0 +1,1 @@
+In 2014, T. Komatsu and L. Szalay studied the balancing binomial coefficients. In this paper, we focus on the following Diophantine equation \binom{1}{5}+\binom{2}{5}+...+\binom{x-1}{5}=\binom{x+1}{5}+...+\binom{y}{5} where y>x>5 are integer unknowns. We prove that the only integral solution is (x,y)=(14,15). Our method is mainly based on the linear form in elliptic logarithms.

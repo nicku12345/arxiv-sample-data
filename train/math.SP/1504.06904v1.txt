@@ -1,0 +1,1 @@
+An explicit formula for the mean spectral measure of a random Jacobi matrix is derived. The matrix may be regarded as the limit of Gaussian beta ensemble (G\betaE) matrices as the matrix size N tends to infinity with the constraint that N \beta  is a constant.

@@ -1,0 +1,1 @@
+This paper presents a new version of boundary on coarse spaces. The space of ends functor maps coarse metric spaces to uniform topological spaces and coarse maps to uniformly continuous maps.

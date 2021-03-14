@@ -1,0 +1,1 @@
+In the paper we prove for every finite algebra A that either it has the polynomially generated powers (PGP) property, or it has the exponentially generated powers (EGP) property. For idempotent algebras we give a simple criteria for the algebra to satisfy EGP property.

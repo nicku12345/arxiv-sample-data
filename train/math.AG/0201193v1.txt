@@ -1,0 +1,1 @@
+The aim of this paper is the computation of the degree and genus of all incidence scrolls in Pn. For this, we fix the dimension of a linear space which have a base space of this fixed dimension. In this way, we can obtain all the incidence scrolls with a line as directrix curve, those whose base contains a plane, and so on.

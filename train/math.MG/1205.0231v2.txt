@@ -1,0 +1,1 @@
+We prove that a Jordan \calc^1-curve in the plane contains any non-flat triangle up to translation and homothety with positive ratio. This is false if the curve is not C^1. The proof uses a bit configuration spaces, differential and algebraic topology as well as the Schoenflies theorem. A partial generalization holds true in higher dimensions.

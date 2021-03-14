@@ -1,0 +1,1 @@
+The best known examples of Vassiliev invariants are the coefficients of a Jones-type polynomial expanded after exponential substitution. We show that for a given knot, the first N Vassiliev invariants in this family determine the rest for some integer N.

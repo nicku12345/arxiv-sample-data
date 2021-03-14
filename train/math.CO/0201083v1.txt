@@ -1,0 +1,1 @@
+We study a certain poset on the free monoid on a countable alphabet. This poset is determined by the fact that its total extensions are precisely the standard term orders. We also investigate the poset classifying degree-compatible standard term orders, and the poset classifying sorted term orders. For the latter poset, we give a Galois coconnection with the Young lattice.

@@ -1,0 +1,1 @@
+Given a birational parameterization of an algebraic surface S in the projective space, the purpose of this paper is to investigate the sets of points on S whose preimage consists in k or more points, counting multiplicities. They are described explicitly in terms of Fitting ideals of some graded parts of the symmetric algebra associated to this parameterization.

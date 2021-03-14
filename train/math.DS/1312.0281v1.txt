@@ -1,0 +1,1 @@
+We present a moduli space for similar triangles, then classify triangle maps f that arise from linear maps on this space, with the well-studied pedal map as a special case. Each linear triangle map admits a Markov partition, showing that f is mixing, hence ergodic.

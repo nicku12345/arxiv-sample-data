@@ -1,0 +1,1 @@
+We compute the h_1-localized cohomology of the motivic Steenrod algebra over C. This serves as the input to an Adams spectral sequence that computes the motivic stable homotopy groups of the eta-local motivic sphere. We compute some of the Adams differentials, and we state a conjecture about the remaining differentials.

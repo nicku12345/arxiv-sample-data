@@ -1,0 +1,1 @@
+Herein, the theory of Bergman kernel is developed to the weighted case. A general form of weighted Bergman reproducing kernel is obtained, by which we can calculate concrete Bergman kernel functions for specific weights and domains.

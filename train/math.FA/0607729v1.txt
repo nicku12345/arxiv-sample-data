@@ -1,0 +1,1 @@
+The aim of this paper is to study the multipliers from A_{r}(I) to A_{p}(I), r \ne p, where I=(0,\infty) is the locally compact topological semigroup with multiplication max and usual topology and A_{r}(I) = \{f \in L_{1}(I)\hbox{:} \hat{f} \in L_{r}(\hat{I})\} with norm |||f|||_{r} = \|f\|_{1} + \|\hat{f}\|_{r}.

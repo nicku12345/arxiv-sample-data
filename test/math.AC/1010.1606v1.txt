@@ -1,0 +1,1 @@
+Let k be an algebraically closed field of positive characteristic, G a reductive group over k, and V a finite dimensional G-module. Let P be a parabolic subgroup of G, and U_P its unipotent radical. We prove that if S=\textyen Sym V has a good filtration, then the ring of invariants S^{U_P} is strongly F-regular.

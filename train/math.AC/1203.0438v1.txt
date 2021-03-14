@@ -1,0 +1,1 @@
+In this paper we consider Hibi rings and Rees rings attached to a poset. We classify the ideal lattices of posets whose Hibi relations are indispensable and the ideal lattices of posets whose Hibi relations form a quadratic Groebner basis with respect to the rank lexicographic order. Similar classifications are obtained for Rees rings of Hibi ideals.

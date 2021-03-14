@@ -1,0 +1,1 @@
+We prove two results about width of words in SL_n(\mathbb{Z}). The first is that, for every n \geq 3, there is a constant C(n) such that the width of any word in SL_n(\mathbb{Z}) is less than C(n). The second result is that, for any word w, if n is big enough, the width of w in SL_n(\mathbb{Z}) is at most 87.

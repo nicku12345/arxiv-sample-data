@@ -1,0 +1,1 @@
+Building on and extending tools from variational analysis, we prove Kuratowski convergence of sets of simplicial area minimizers to minimizers of the smooth Douglas-Plateau problem under simplicial refinement. This convergence is with respect to a topology that is stronger than uniform convergence of both positions and surface normals.

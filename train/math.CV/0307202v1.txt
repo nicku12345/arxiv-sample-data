@@ -1,0 +1,1 @@
+Let C be the open upper light cone in \mathbb R^{1+n} with respect to the Lorentz product. The connected linear Lorentz group SO_\mathbb R(1,n)^0 acts on C and therefore diagonally on the N-fold product T^N where T = \mathbb R^{1+n} + iC \subset \mathbb C^{1+n}. We prove that the extended future tube SO_\mathbb C(1,n) \cdot T^N is a domain of holomorphy.

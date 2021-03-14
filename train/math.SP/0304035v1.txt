@@ -1,0 +1,1 @@
+In this paper, we study spectral properties of a family of quasi-periodic Schrodinger operators on the real line in the adiabatic limit. We assume that the adiabatic iso-energetic curves are extended along the momentum direction. In the energy intervals where this happens, we obtain an asymptotic formula for the Lyapunov exponent, and show that the spectrum is purely singular.

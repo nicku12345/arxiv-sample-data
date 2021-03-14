@@ -1,0 +1,1 @@
+We introduce a lattice structure as a generalization of meet-continuous lattices and quantales. We develop a point-free approach to these new lattices and apply these results to R-modules. In particular, we give the module counterpart of the well known result that in a commutative ring the set of semiprime ideals, that is, the set of radical ideals is a frame.

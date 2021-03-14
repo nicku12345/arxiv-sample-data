@@ -1,0 +1,1 @@
+Legendre's Conjecture is one of the most elegant open problems in Number Theory, which states that there is a prime between consecutive two perfect squares. In this note, we prove the conjecture holds true and also discuss the related results.

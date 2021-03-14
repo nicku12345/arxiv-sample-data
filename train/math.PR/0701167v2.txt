@@ -1,0 +1,1 @@
+In the paper, the law of the iterated logarithm for additive functionals of Markov chains is obtained under some weak conditions, which are weaker than the conditions of invariance principle of additive functionals of Markov chains in M. Maxwell and M. Woodroofe (2000). The main technique is the martingale argument and the theory of fractional coboundaries.

@@ -1,0 +1,1 @@
+We define Casson-Gordon sigma-invariants for links and give a lower bound of the slice genus of a link in terms of these invariants. We study as an example a family of two component links of genus h and show that their slice genus is h, whereas the Murasugi-Tristram inequality does not obstruct this link from bounding an annulus in the 4-ball.

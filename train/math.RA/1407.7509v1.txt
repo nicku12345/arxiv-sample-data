@@ -1,0 +1,1 @@
+A ring R is nil-clean if every element in R is the sum of an idempotent and a nilpotent. A ring R is abelian if every idempotent is central. We prove that if R is abelian then M_n(R) is nil-clean if and only if R/J(R) is Boolean and M_n(J(R)) is nil. This extend the main results of Breaz et al. ~\cite{BGDT} and that of Ko\c{s}an et al.~\cite{KLZ}.

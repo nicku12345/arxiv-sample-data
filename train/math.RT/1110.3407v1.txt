@@ -1,0 +1,1 @@
+D. Kazhdan has introduced in 1967 the Property (T) for local compact groups. In this article we prove that for n\geq 3 and m \in \mathbb{N} the group SL_n(\textbf{K})\ltimes \mathcal{M}_{n,m}(\textbf{K}) is a Kazhdan group having the outer automorphism group infinite.

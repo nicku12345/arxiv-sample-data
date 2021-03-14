@@ -1,0 +1,1 @@
+We establish global regularity for weak solutions to quasilinear divergence form elliptic and parabolic equations over Lipschitz domains with controlled growth conditions on low order terms. The leading coefficients belong to the class of BMO functions with small mean oscillations with respect to x.

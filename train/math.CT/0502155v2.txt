@@ -1,0 +1,1 @@
+We extend the W-construction of Boardman and Vogt to operads of an arbitrary monoidal model category with suitable interval, and show that it provides a cofibrant resolution for well-pointed sigma-cofibrant operads. The standard simplicial resolution of Godement as well as the cobar-bar chain resolution are shown to be particular instances of this generalised W-construction.

@@ -1,0 +1,1 @@
+We introduce and study a new class of Drazin inverses. An element a in a ring R has Drazin inverse b if a^2-ab\in N(R), ab=ba and b=bab. Every Hirano inverse of an element is its Drazin inverse.We drive several characterization for this generalized inverse.

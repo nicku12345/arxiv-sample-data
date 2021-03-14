@@ -1,0 +1,1 @@
+Assuming a symmetric potential that approaches constant endstates with a sufficient asymptotic rate, we relate the Maslov and Morse indices for Schr\"odinger operators on \mathbb{R}. In particular, we show that with our choice of convention, the Morse index is precisely the negative of the Maslov index.

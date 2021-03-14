@@ -1,0 +1,1 @@
+We explicitly calculate the Grothendieck K-theory ring of a smooth toric Deligne-Mumford stack and define an analog of the Chern character. In addition, we calculate K-theory pushforwards and pullbacks for weighted blowups of reduced smooth toric DM stacks.

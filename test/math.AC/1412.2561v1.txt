@@ -1,0 +1,1 @@
+For a given graph G, we construct an associated commutative algebra, whose dimension is equal to the number of t-labeled forests of G.   We show that the dimension of the k-th graded component of this algebra also has a combinatorial meaning and that its Hilbert polynomial can be expressed through the Tutte polynomial of G.

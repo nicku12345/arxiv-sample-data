@@ -1,0 +1,1 @@
+In this note we give a recipe which describes upper and lower bounds for the Jensen functional under superquadraticity conditions. Some results involve the Chebychev functional. We give a more general definition of these functionals and establish the analogue results.

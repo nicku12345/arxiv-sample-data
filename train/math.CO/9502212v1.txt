@@ -1,0 +1,1 @@
+We prove the following conjecture of Narayana: there are no dominance refinements of the Smirnov two-sample test if and only if the two sample sizes are relatively prime.

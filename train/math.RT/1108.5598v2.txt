@@ -1,0 +1,1 @@
+Let V be a complex finite dimensional super vector space with an action of a connected semisimple group G. We classify those pairs (G,V) for which all homogeneous components of the super symmetric algebra of V decompose multiplicity-free.

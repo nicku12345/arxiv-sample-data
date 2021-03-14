@@ -1,0 +1,1 @@
+We study topological properties of the escaping endpoints and fast escaping endpoints of the Julia set of complex exponential \exp(z)+a when a\in (-\infty,-1). We show neither space is homeomorphic to the whole set of endpoints. This follows from a general result stating that for every transcendental entire function f, the escaping Julia set I(f)\cap J(f) is first category.

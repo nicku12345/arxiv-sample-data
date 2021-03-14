@@ -1,0 +1,1 @@
+We prove that in a free group the length of the value of each variable in a minimal solution of a standard quadratic equation is bounded by 2s for orientable equation and by 12s^4 for non-orientable equation, where s is the sum of the lengths of the coefficients

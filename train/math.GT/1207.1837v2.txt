@@ -1,0 +1,1 @@
+Let \Gamma be an irreducible lattice of \Q-rank \geq 2 in a semisimple Lie group of noncompact type. We prove that any action of \Gamma on a \CAT(0) cubical complex has a global fixed point.

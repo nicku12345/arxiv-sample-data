@@ -1,0 +1,1 @@
+For an arbitrary finite set S of natural numbers greater 1, we construct an integer-valued polynomial f, whose set of lengths in Int(Z) is S. The set of lengths of f is the set of all natural numbers n, such that f has a factorization as a product of n irreducibles in Int(Z)={g in Q[x] | g(Z) contained in Z}.

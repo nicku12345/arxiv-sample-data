@@ -1,0 +1,1 @@
+We classify elliptic K3 surfaces in characteristic p with p^n-torsion sections. For p^n\geq3 we verify conjectures of Artin and Shioda, compute the heights of their formal Brauer groups, as well as Artin invariants and Mordell--Weil groups in the supersingular cases.

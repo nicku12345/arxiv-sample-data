@@ -1,0 +1,1 @@
+In this paper, I construct Chern classes in the rigid cohomology of P. Berthelot. We start by constructing Chern classes for proper varieties. To prove all the properties we have to reinterpret the construction in a crystalline way. Then we can deal with open varieties using a compactification theorem.

@@ -1,0 +1,1 @@
+In this paper, we investigate the structure of the multiplier module of a Hilbert module over a locally C*-algebra and the relationship between the set of all adjointable operators from a Hilbert A-module E to a Hilbert A-module F and the set of all adjointable operators from the multiplier module M(E)of E to the multiplier module M(F) of F.

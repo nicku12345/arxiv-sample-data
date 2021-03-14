@@ -1,0 +1,1 @@
+It is known that the Pak-Stanley labeling of the Shi hyperplane arrangement provides a bijection between the regions of the arrangement and parking functions. For any graph G, we define the G-semiorder arrangement and show that the Pak-Stanley labeling of its regions produces all G-parking functions.

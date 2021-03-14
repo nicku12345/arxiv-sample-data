@@ -1,0 +1,1 @@
+We shall verify the Kakeya (Nikodym) maximal operator K_{N}, N\gg 1, is bounded on the variable Lebesgue space L^{p(\cdot)}(\mathbb{R}^2) when the exponent function p(\cdot) is N-modified locally log-H\"{o}lder continuous and log-H\"{o}lder continuous at infinity.

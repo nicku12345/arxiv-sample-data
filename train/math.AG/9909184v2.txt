@@ -1,0 +1,1 @@
+In this paper, we prove the rationality of Igusa's local zeta functions of semiquasihomogeneous polynomials with coefficients in a non-archimedean local field K. The proof of this result is based on Igusa's stationary phase formula and some ideas on Neron p-desingularization.

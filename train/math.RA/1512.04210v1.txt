@@ -1,0 +1,1 @@
+In this paper we prove that if R is a commutative refinement ring and M, N are two R-modules then, M\cong N if and only if for every maximal ideal m of R, M_m\cong N_m. We prove if R is a refinement ring, then every regular matrix over \frac{R}{J(R)} admits a diagonal reduction iff every regular matrix over R admits a diagonal reduction.

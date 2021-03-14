@@ -1,0 +1,1 @@
+We prove that, for 1 < p \neq q < \infty, there does not exist any coarse Lipschitz embedding between the two James spaces J_p and J_q, and that, for 1 < p < q < \infty and 1 < r < \infty such that r \notin \{p,q\}, J_r does not coarse Lipschitz embed into J_p \oplus J_q.

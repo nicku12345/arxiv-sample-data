@@ -1,0 +1,1 @@
+We define the concept of Lefschetz contact pencil and we show the existence of such structures on any contact manifold. The main idea of the proof is a generalization of the Donaldson arguments used in the symplectic case. We will analyze some of the applications of such existence theorem for the topology of approximately holomorphic contact submanifolds.

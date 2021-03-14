@@ -1,0 +1,1 @@
+Regular and singular parts of asymptotic expansions of semi-Markov random evolutions are given. Regularity of boundary conditions is shown. An algorithm for calculation of initial conditions is proposed.

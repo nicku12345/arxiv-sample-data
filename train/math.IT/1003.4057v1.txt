@@ -1,0 +1,1 @@
+We improve Levenshtein's upper bound for the cardinality of a code of length four that is capable of correcting single deletions over an alphabet of even size. We also illustrate that the new upper bound is sharp. Furthermore we construct an optimal perfect code that is capable of correcting single deletions for the same parameters.

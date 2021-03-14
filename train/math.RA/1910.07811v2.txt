@@ -1,0 +1,1 @@
+Let n be a squarefree natural number, and let G, \Gamma be two groups of order n. We determine the number of Hopf-Galois structures of type G admitted by a Galois extension of fields with Galois group isomorphic to \Gamma. We give some examples, including a full treatment of the case where n is the product of three primes.

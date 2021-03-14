@@ -1,0 +1,1 @@
+We show that, for any integer n\ge 3, there is a prime knot k such that (1) k is not meridionally primitive, and (2) for every m-bridge knot k' with m\leq n, the tunnel numbers satisfy t(k\# k')\le t(k). This gives counterexamples to a conjecture of Morimoto and Moriah on tunnel number under connected sum and meridionally primitive knots.

@@ -1,0 +1,1 @@
+The symmetric edge polytopes of odd cycles (del Pezzo polytopes) are known as smooth Fano polytopes. In this paper, we show that if the length of the cycle is 127, then the Ehrhart polynomial has a root whose real part is greater than the dimension. As a result, we have a smooth Fano polytope that is a counterexample to the two conjectures on the roots of Ehrhart polynomials.

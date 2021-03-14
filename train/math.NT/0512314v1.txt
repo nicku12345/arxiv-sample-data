@@ -1,0 +1,1 @@
+Suppose that \al>1 is an algebraic number and \xi>0 is a real number. We prove that the sequence of fractional parts \{\xi \al^n\}, n =1,2,3,..., has infinitely many limit points except when \al is a PV-number and \xi \in \Q(\al). For \xi=1 and \al being a rational non-integer number, this result was proved by Vijayaraghavan.

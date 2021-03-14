@@ -1,0 +1,1 @@
+Let A be a Noetherian ring. For each k where 0 \leq k \leq \dim A we construct left exact functors D_k on Mod(A). Let D^i_k be the i^{th}-right derived functor of D_k. Let M be a finitely generated A-module. Under mild conditions on A and M we prove that vanishing of some finitely many D^i_k(M) is equivalent to M satisfying S_n.

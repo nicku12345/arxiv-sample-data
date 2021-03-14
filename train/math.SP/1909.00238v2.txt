@@ -1,0 +1,1 @@
+In this paper we obtain bounds for the extreme entries of the principal eigenvector of hypergraphs; these bounds are computed using the spectral radius and some classical parameters such as maximum and minimum degrees. We also study inequalities involving the ratio and difference between the two extreme entries of this vector.

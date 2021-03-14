@@ -1,0 +1,1 @@
+We build a model structure from the simple point of departure of a structured interval in a monoidal category - more generally, a structured cylinder and a structured co-cylinder in a category.

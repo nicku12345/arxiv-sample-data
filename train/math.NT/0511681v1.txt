@@ -1,0 +1,1 @@
+We use the Schmidt Subspace Theorem to establish the transcendence of a class of quasi-periodic continued fractions. This improves earlier works of Maillet and of A. Baker. We also improve an old result of Davenport and Roth on the rate of increase of the denominators of the convergents to any real algebraic number.

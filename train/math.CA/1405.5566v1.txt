@@ -1,0 +1,1 @@
+We establish a higher dimensional counterpart of Bourgain's pointwise ergodic theorem along an arbitrary integer-valued polynomial mapping. We achieve this by proving variational estimates V_r on L^p spaces for all 1<p<\infty and r>\max\{p, p/(p-1)\}. Moreover, we obtain the estimates which are uniform in the coefficients of a polynomial mapping of fixed degree.

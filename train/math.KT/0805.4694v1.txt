@@ -1,0 +1,1 @@
+We study the Poisson (co)homology of the algebra of truncated polynomials in two variables viewed as the semi-classical limit of a quantum complete intersection studied by Bergh and Erdmann. We show in particular that the Poisson cohomology ring of such a Poisson algebra is isomorphic to the Hochschild cohomology ring of the corresponding quantum complete intersection.

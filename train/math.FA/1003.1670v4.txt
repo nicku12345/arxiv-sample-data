@@ -1,0 +1,1 @@
+Let mu be a probability measure on the Borelian sigma-algebra of the unit circle. Then we associate a Schur function theta in the unit disk with mu and give characterizations of the case that mu is a Helson-Szeg\"o measure in terms of the sequence of Schur parameters of theta.

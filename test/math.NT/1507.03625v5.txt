@@ -1,0 +1,1 @@
+We establish the Langlands-Shahidi method over a global field of characteristic p. We then focus on the unitary groups and prove global and local Langlands functoriality to general linear groups for generic representations. Main applications are to the Ramanujan Conjecture and Riemann Hypothesis.

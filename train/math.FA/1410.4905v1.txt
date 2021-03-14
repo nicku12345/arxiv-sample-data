@@ -1,0 +1,1 @@
+We give an upper bound for the weighted geometric mean using the weighted arithmetic mean and the weighted harmonic mean. We also give a lower bound for the weighted geometric mean. These inequalities are proven for two invertible positive operators.

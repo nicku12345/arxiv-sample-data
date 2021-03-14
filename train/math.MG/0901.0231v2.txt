@@ -1,0 +1,1 @@
+A split of a polytope is a (necessarily regular) subdivision with exactly two maximal cells. A polytope is totally splittable if each triangulation (without additional vertices) is a common refinement of splits. This paper establishes a complete classification of the totally splittable polytopes.

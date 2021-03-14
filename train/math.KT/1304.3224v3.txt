@@ -1,0 +1,1 @@
+We prove that the coarse assembly maps for proper metric spaces which are non-positively curved in the sense of Busemann are isomorphisms, where we do not assume that the spaces are with bounded coarse geometry. Also it is shown that we can calculate the coarse K-homology and the K-theory of the Roe algebra by using the visual boundaries.

@@ -1,0 +1,1 @@
+We show that the (co)endomorphism algebra of a sufficiently separable "fibre" functor into Vect_k, for k a field of characteristic 0, has the structure of what we call a "unital" von Neumann core in Vect_k. For Vect_k, this particular notion of algebra is weaker than that of a Hopf algebra, although the corresponding concept in Set is again that of a group.

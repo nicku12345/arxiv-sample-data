@@ -1,0 +1,1 @@
+The characteristic numbers of smooth plane quartics are computed using intersection theory on a component of the moduli space of stable maps. This completes the verification of Zeuthen's prediction of characteristic numbers of smooth plane curves. A short sketch of a computation of the characteristic numbers of plane cubics is also given as an illustration.

@@ -1,0 +1,1 @@
+We employ a new tool (sights) to investigate local operators in the Effective Topos. A number of new such local operators is analyzed using this machinery. Moreover, we investigate a local operator defined in the thesis of A. Pitts, and establish that its corresponding subtopos satisfies true arithmetic.

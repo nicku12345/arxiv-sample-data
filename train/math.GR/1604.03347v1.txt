@@ -1,0 +1,1 @@
+We prove that, for any prime p, there are precisely 2p^4-p^3-p^2-3p-1 medial quasigroups of order p^2, up to isomorphism.

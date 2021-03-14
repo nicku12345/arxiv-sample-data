@@ -1,0 +1,1 @@
+In this paper necessary and sufficient conditions are stated for the Craig-Sakamoto equation det(I-sA-tB) = det(I-sA)det(I-tB), for all scalars s, t. Moreover, spectral properties for A and B are investigated.

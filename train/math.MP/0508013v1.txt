@@ -1,0 +1,1 @@
+We study the phenomenon of an eigenvalue emerging from essential spectrum of a Schroedinger operator perturbed by a fast oscillating compactly supported potential. We prove the sufficient conditions for the existence and absence of such eigenvalue. If exists, we obtain the leading term of its asymptotics expansion.

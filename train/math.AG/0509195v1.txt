@@ -1,0 +1,1 @@
+We study a special Teichmueller curve in the moduli space of curves of genus 3 that is intersected by infinitely many other Teichmueller curves. The Veech group of the underlying translation surface is SL_2(Z). All occurring Teichmueller curves are induced by origamis, i.e. unramified coverings of the once punctured torus.

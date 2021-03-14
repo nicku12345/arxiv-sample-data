@@ -1,0 +1,1 @@
+We study the question of when geometric extension algebras are polynomial quasihereditary. Our main theorem is that under certain assumptions, a geometric extension algebra is polynomial quasihereditary if and only if it arises from an even resolution. We give an application to the construction of reflection functors for quiver Hecke algebras.

@@ -1,0 +1,1 @@
+We show that the distribution of the scalar Schur complement in a noncentral Wishart matrix is a mixture of central chi-square distributions with different degrees of freedom. For the case of a rank-1 noncentrality matrix, the weights of the mixture representation arise from a noncentral beta mixture of Poisson distributions.

@@ -1,0 +1,1 @@
+In this paper we prove that the generalized version of the Minimal Resolution Conjecture stated by Mustata holds for certain general sets of points on a smooth cubic surface X \subset \mathbb{P}^3. The main tool used is Gorenstein liaison theory and, more precisely, the relationship between the free resolutions of two linked schemes.

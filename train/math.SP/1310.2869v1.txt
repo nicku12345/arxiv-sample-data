@@ -1,0 +1,1 @@
+Using expander graphs, we construct a sequence of smooth compact surfaces with boundary of perimeter N, and with the first non-zero Steklov eigenvalue uniformly bounded away from zero. This answers a question which was raised in [9]. The genus grows linearly with N, this is the optimal growth rate.

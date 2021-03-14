@@ -1,0 +1,1 @@
+We provide a uniform definition of higher order Toda brackets in a general setting, covering the known cases of long Toda brackets for topological spaces and chain complexes and Massey products for differential graded algebras, among others.

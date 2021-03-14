@@ -1,0 +1,1 @@
+We construct symmetric representations of distributions over two-dimensional plane with given mean values as convex combinations of distributions with supports containing not more than three points and with the same mean values.

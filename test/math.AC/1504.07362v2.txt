@@ -1,0 +1,1 @@
+Let G_{n,k} denote the complex Grassmann manifold of k-dimensional vector subspaces of \mathbb{C}^n. Assume l,k\le \lfloor n/2\rfloor. We show that, for sufficiently large n, any continuous map h:G_{n,l}\to G_{n,k} is rationally null homotopic if (i)~ 1\le k< l, (ii)~2<l<k< 2(l-1), (iii)~1<l<k, l divides n but l does not divide k.

@@ -1,0 +1,1 @@
+After showing that a covering space of surface bundles over S^1 factors as a `covering of fibers' followed by a `power covering', we prove that, for torus bundles, power coverings do not lower Heegaard genus, and that fiber coverings lower the genus only in special cases.

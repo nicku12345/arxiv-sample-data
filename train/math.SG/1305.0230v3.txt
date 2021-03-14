@@ -1,0 +1,1 @@
+This note describes a correct way to perform the inflation procedures claimed in the papers on embedding ellipsoids, Journ. Top. 2 (2009), 1-22 and 589-623. The idea is to inflate along a collection of transversally and positively intersecting symplectic surfaces (as in Li--Usher (JSG 2006)) rather than along a single embedded surface.

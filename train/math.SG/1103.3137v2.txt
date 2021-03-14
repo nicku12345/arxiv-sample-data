@@ -1,0 +1,1 @@
+It is known that S^4 is a union of two fishtails, and S^2 x S^2 is a union of two cusps (glued along their boundaries). Here we prove that, for any choice of knots K,L in S^3, performing knot surgery operations to S^4 and S^2 x S^2, along both of the fishtails and cusps, respectively, do not change the diffeomorphism type of these manifolds.

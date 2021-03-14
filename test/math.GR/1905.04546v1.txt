@@ -1,0 +1,1 @@
+Let G be a finitely generated solvable-by-finite linear group. We present an algorithm to compute the torsion-free rank of G and a bound on the Pr\"{u}fer rank of G. This yields in turn an algorithm to decide whether a finitely generated subgroup of G has finite index. The algorithms are implemented in MAGMA for groups over algebraic number fields.

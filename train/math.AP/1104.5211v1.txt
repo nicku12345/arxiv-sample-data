@@ -1,0 +1,1 @@
+We prove that for every separately twice differentiable solution f of the PDE f"_{xx}=f"_{yy} is of the form f(x,y)=\phi(x+y)+\psi(x-y) for some twice differentiable functions \phi, \psi.

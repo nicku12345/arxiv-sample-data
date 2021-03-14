@@ -1,0 +1,1 @@
+Let \Omega be a Stein space with a compact smooth strongly pseudoconvex boundary. We prove that the boundary is spherical if its Bergman metric over \hbox{Reg}(\Omega) is K\"ahler-Einstein.

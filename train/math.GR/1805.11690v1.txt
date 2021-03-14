@@ -1,0 +1,1 @@
+In this note we give a bijective proof for the explicit formula giving the total number of principal series of the direct product \mathbb{Z}_{p^{\alpha_1}} \times \mathbb{Z}_{p^{\alpha_2}}, where p is a prime number. This new proof is easier to generalize to arbitrary finite abelian groups than the original direct calculation method.

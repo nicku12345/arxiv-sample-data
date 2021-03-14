@@ -1,0 +1,1 @@
+We show that every knot type admits a pair of diagrams that cannot be made identical without using Reidemeister Omega_2-moves. We also show that our proof is compatible with known results for the other move types, in the sense that every knot type admits a pair of diagrams that cannot be made identical without using all of the move types.

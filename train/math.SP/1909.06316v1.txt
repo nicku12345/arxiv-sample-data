@@ -1,0 +1,1 @@
+In this paper we consider 0-th order pseudodifferential operators on the circle. We show that inside any interval disjoint from critical values of the principal symbol, the spectrum is absolutely continuous with possibly finitely many embedded eigenvalues. We also give an example of embedded eigenvalues.

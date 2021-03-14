@@ -1,0 +1,1 @@
+In this paper we present a new semilocal convergence theorem from data at one point for the Weierstrass iterative method for the simultaneous computation of polynomial zeros. The main result generalizes and improves all previous ones in this area.

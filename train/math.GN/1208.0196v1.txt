@@ -1,0 +1,1 @@
+We study the action of G = SL(2,R) on its type space S_G(R) where R denotes the field of real numbers. We identify a minimal closed G-flow I, and an idempotent r of I (with the respect to the Ellis semigroup structure * on I). We show that the group (r*I,*) has 2 elements, yielding a negative answer to a question of Newelski.

@@ -1,0 +1,1 @@
+We show that any continuous partial action on a topological space has a unique enveloping action, i.e. it is the restriction of a global action. In the case of C^*-algebras we prove that any partial action has an enveloping action up to Morita equivalence. The study of enveloping actions up to Morita equivalence reveals the form that Takai duality takes for partial actions.

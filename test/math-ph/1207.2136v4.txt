@@ -1,0 +1,1 @@
+Random arrangements of points in the plane, interacting only through a simple hard core exclusion, are considered. An intensity parameter controls the average density of arrangements, in analogy with the Poisson point process. It is proved that at high intensity, an infinite connected cluster of excluded volume appears with positive probability.

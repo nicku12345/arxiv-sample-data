@@ -1,0 +1,1 @@
+The purpose of this paper is to give a survey on the notions of distance between subsets either of a metric space or of a measure space, including definitions, a classification, and a discussion of the best-known distance functions, which is followed by a review on applications used in many areas of knowledge, ranging from theoretical to practical applications.

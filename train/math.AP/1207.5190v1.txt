@@ -1,0 +1,1 @@
+In this paper, we prove the global existence and singularity formation for a wave system from modelling nematic liquid crystals in one space dimension. In our model, although the viscous damping term is included, the solution with smooth initial data still has gradient blowup in general, even when the initial energy is arbitrarily small.

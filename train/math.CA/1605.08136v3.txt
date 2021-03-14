@@ -1,0 +1,1 @@
+In this paper, estimates are proven for convolution kernels associated to multipliers from a reasonably general class of compactly supported two-dimensional functions constructed out of real-analytic functions. These estimates are both for overall decay rate and decay rate in specific directions. The estimates are sharp for a certain range of exponents appearing in the theorems.

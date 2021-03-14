@@ -1,0 +1,1 @@
+Use each of n exact samples as the initial state for a MCMC sampler run for m steps. We give confidence intervals for accuracy of estimators which are always valid and which, in certain settings, are almost as good as the intervals one would obtain if the (unknown) mixing time of the chain were known.

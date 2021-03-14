@@ -1,0 +1,1 @@
+This paper demonstrates that the homogeneous coordinate ring of the Grassmannian \Bbb{G}(k,n) is a {\it cluster algebra of geometric type} - as defined by S. Fomin and A. Zelevinsky. Grassmannians having {\it finite cluster type} are classified and the associated cluster variables are studied in connection with the geometry of configurations of points in \Bbb{R}\Bbb{P}^2.

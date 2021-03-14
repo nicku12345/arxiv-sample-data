@@ -1,0 +1,1 @@
+We consider the Brown--Ravenhall model of a relativistic atom with N electrons and a nucleus of charge Z and prove the existence of an infinite number of discrete eigenvalues for N <= Z. As an intermediate result we prove a HVZ-type theorem for these systems.

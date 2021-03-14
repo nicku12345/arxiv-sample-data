@@ -1,0 +1,1 @@
+Let f : (\mathbb{C}^2, 0) \to (\mathbb{C}^2, 0) be a germ of holomorphic skew product with a superattracting fixed point at the origin. If it has a suitable weight, then we can construct a B\"ottcher coordinate which conjugates f to the associated monomial map. This B\"ottcher coordinate is defined on an open set whose interior or boundary contains the origin.

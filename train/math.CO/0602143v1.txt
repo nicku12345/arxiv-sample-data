@@ -1,0 +1,1 @@
+We introduce and characterise grid classes, which are natural generalisations of other well-studied permutation classes. This characterisation allows us to give a new, short proof of the Fibonacci dichotomy: the number of permutations of length n in a permutation class is either at least as large as the nth Fibonacci number or is eventually polynomial.

@@ -1,0 +1,1 @@
+In this article we describe an algebraic framework which can be used in three related but different contexts: string topology, symplectic field theory, and Lagrangian Floer theory of higher genus. It turns out that the relevant algebraic structure for all three contexts is a homotopy version of involutive bi-Lie algebras, which we call IBL_\infty-algebras.

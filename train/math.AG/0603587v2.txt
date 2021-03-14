@@ -1,0 +1,1 @@
+Let V be a complete discrete valuation ring of unequal characteristic with perfect residue field. Let X be smooth separated formal V-scheme, Z a strict normal crossing divisor of X and T a divisor of the special fiber of X. We study in this work isocrystals on the smooth log formal V-scheme associated to (X,Z) overconvergent along T.

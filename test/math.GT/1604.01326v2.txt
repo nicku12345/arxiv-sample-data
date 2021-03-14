@@ -1,0 +1,1 @@
+Given a link L, a representation \pi_1(S^{3}-L)\to {\rm SL}(2,\mathbb{C}) is {\it tracefree} if the image of each meridian has trace zero. We determine the conjugacy classes of tracefree representations when L is a Montesinos link.

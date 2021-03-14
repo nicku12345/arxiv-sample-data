@@ -1,0 +1,1 @@
+We give the complete solution in integers (n,a,b,x,y) of the title equation when \gcd(x,y)=1, except for the case when xab is odd.

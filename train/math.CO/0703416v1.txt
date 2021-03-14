@@ -1,0 +1,1 @@
+We classify terminal simplicial reflexive d-polytopes with 3d-1 vertices. They turn out to be smooth Fano d-polytopes. When d is even there is 1 such polytope up to isomorphism, while there are 2 when d is uneven.

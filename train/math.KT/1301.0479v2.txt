@@ -1,0 +1,1 @@
+Given a proper, cocompact action of a Lie groupoid, we define a higher index pairing between invariant elliptic differential operators and smooth groupoid cohomology classes. We prove a cohomological index formula for this pairing by applying the van Est map and algebraic index theory. Finally we discuss in examples the meaning of the index pairing and our index formula.

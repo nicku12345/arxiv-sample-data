@@ -1,0 +1,1 @@
+We study a pursuit-evasion differential game with finite number of pursuers and one evader in Hilbert space with geometric constraints on the control functions of players. We solve the game by presenting explicit strategies for pursuers which guarantee their pursuit as well as an strategy for the evader which guarantees its evasion.

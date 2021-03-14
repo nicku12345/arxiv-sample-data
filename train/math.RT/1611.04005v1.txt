@@ -1,0 +1,1 @@
+In the present paper we study the derived Hall algebra for the bounded derived category of the nilpotent representations of a tame quiver over a finite field. We show that for any three given objects in the bounded derived category, the associated derived Hall numbers are given by a rational function in the cardinalities of ground fields.

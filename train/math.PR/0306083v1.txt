@@ -1,0 +1,1 @@
+We prove a central limit theorem with speed n^{-1/2} for stationary processes satisfying a strong decorrelation hypothesis. The proof is a modification of the proof of a theorem of Rio. It is elementary but quite long and technical.

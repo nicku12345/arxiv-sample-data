@@ -1,0 +1,1 @@
+The aim of this note is to show that every subset of a given topological space is the intersection of a preopen and a preclosed set, therefore \beta-locally closed, and that every topological space is \beta-submaximal.

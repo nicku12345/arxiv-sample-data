@@ -1,0 +1,1 @@
+By introducing Hilbert space and operators, we show how probabilities, approximations and entropy encoding from signal and image processing allow precise formulas and quantitative estimates. Our main results yield orthogonal bases which optimize distinct measures of data encoding.

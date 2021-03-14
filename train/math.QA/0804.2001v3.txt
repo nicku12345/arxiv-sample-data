@@ -1,0 +1,1 @@
+To classify the finite dimensional pointed Hopf algebras with Weyl group G of E_8, we obtain the representatives of conjugacy classes of G and all character tables of centralizers of these representatives by means of software GAP. In this paper we only list character table 29--46.

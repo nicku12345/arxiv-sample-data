@@ -1,0 +1,1 @@
+This paper proposes a family of estimators of population mean using information on several auxiliary variables and analyzes its properties in the presence of measurement errors.

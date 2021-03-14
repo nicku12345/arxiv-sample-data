@@ -1,0 +1,1 @@
+Given a Boolean algebra B and an embedding e:B -> P(N)/fin we consider the possibility of extending each or some automorphism of B to the whole P(N)/fin. Among other things, we show, assuming CH, that for a wide class of Boolean algebras there are embeddings for which no non-trivial automorphism can be extended.

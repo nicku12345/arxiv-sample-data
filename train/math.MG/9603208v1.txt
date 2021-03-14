@@ -1,0 +1,1 @@
+There are two positive, absolute constants c_{1} and c_{2} so that the volume of the difference set of the d-dimensional Euclidean ball and an inscribed polytope with n vertices is larger than  c_{2}\ d\ {n}^{-\frac{2}{d-1}}vol_d(B^d_2)  for n \geq (c_{1}\ d)^{\frac{d-1}{2}}.

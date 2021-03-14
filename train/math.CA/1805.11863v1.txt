@@ -1,0 +1,1 @@
+As to the Bessel integrals of type \begin{equation*} \int_0^x \left(x^\mu-t^\mu\right)^\lambda t^\alpha J_\beta(t)dt\qquad(x>0), \end{equation*} we improve known positivity results by making use of new positivity criteria for {}_1F_2 and {}_2F_3 generalized hypergeometric functions. As an application, we extend Buhmann's class of compactly supported radial basis functions.

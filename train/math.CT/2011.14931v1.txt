@@ -1,0 +1,1 @@
+We explain how to set up the homotopy spectral sequence of a (co)simplicial object in an \infty-category, with an emphasis on how to construct the differentials in a model-invariant manner.

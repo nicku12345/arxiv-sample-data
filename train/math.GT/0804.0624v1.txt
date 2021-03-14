@@ -1,0 +1,1 @@
+We compute the growth series and the growth functions of reducible and pseudo-Anosov elements of the pure mapping class group of the sphere with four holes with respect to a certain generating set. We prove that the ratio of the number of pseudo-Anosov elements to that of all elements in a ball with center at the identity tends to one as the radius of the ball tends to infinity.

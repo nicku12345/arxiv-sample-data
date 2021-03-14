@@ -1,0 +1,1 @@
+The objective in this paper is to demonstrate that four of the most used techniques in applied mathematics, viz., Fourier series, Fourier transform, Laplace transform and the Fourier-Laplace transform can be introduced using eigenvalue problems for first order differential operators with discrete/continuous spectra.

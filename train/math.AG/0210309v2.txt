@@ -1,0 +1,1 @@
+This paper considers Q-Fano 3-folds X with \rho=1. The aim is to determine the maximal Fano index f of X. We prove that f<= 19, and that in case of equality, the Hilbert series of X equals that of weighted projective space PP(3,4,5,7). From the previous version, we restrict the list of all possibilities of X to the case f>8. It will appear in a forthcoming paper.

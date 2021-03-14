@@ -1,0 +1,1 @@
+Let X be a projective manifold of dimension n and L a strictly nef line bundle on X. Then K_X+tL is ample if t > n+1 in the following cases.   1.) \text{dim} X = 3 unless (possibly) X is a Calabi-Yau with c_2 \cdot L=0;   2.) \kappa(X) \ge n-2;   3.) \text{dim} \alpha(X) \ge n-2, with \alpha: X \to A the Albanese map.

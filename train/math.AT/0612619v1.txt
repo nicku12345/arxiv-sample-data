@@ -1,0 +1,1 @@
+We introduce the notion of inductive category in a model category and prove that it agrees with the Ganea approach given by Doeraene. This notion also coincides with the topological one when we consider the category of (well-) pointed topological spaces.

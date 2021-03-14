@@ -1,0 +1,1 @@
+We generalize the Griesmer bound in the case of systematic codes over a field of size q greater than the distance d of the code. We also generalize the Griesmer bound in the case of any systematic code of distance 2,3,4 and in the case of binary systematic codes of distance up to 6.

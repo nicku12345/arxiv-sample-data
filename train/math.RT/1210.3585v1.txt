@@ -1,0 +1,1 @@
+A well known result of Borel says that the category of modules over the Iwahori-Hecke algebra of a semisimple p-adic group G describes the Bernstein component associated to the unramified principal series of G. We consider Bernstein components for Sp(4,F) associated to principal series induced from simple supercuspidal representations.

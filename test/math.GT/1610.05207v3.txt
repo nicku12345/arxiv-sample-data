@@ -1,0 +1,1 @@
+We construct cobordism maps on link Floer homology associated to decorated link cobordisms. The maps are defined on a curved chain homotopy type invariant. We describe the construction, and prove invariance. We also make a comparison with the graph TQFT for Heegaard Floer homology.

@@ -1,0 +1,1 @@
+We prove that if \{\phi_t\}_{t \geq 0} is a CP-semigroup acting on a von Neumann algebra M \subseteq B(H), then for every A\in M and \xi \in H, the map t \mapsto \phi_t(A)\xi is norm-continuous. We discuss the implications of this fact to the existence of dilations of CP-semigroups to semigroups of endomorphisms.

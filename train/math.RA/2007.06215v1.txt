@@ -1,0 +1,1 @@
+A submodule W of V is summand absorbing, if x + y \in W implies x \in W, \; y \in W  for any x, y \in V. Such submodules often appear in modules over (additively) idempotent semirings, particularly in tropical algebra. This paper studies amalgamation and extensions of these submodules, and more generally of upper bound modules.

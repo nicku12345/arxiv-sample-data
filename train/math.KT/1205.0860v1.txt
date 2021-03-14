@@ -1,0 +1,1 @@
+We show that K2 of "sufficiently regular" localisations of local rings (e.g. inverting a sequence of regular parameters) can be described by the Steinberg presentation. The proof is inductive on the number of irreducible elements being inverted, successively using a generalisation of a co-Cartesian square first exploited by Dennis and Stein.

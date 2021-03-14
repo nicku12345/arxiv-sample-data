@@ -1,0 +1,1 @@
+In the setting of metric measure spaces satisfying the doubling condition and the (1,p)-Poincar\'e inequality, we prove a metric analogue of the Bourgain-Brezis-Mironescu formula for functions in the Sobolev space W^{1,p}(X,d,\nu), under the assumption that for \nu-a.e. point the tangent space in the Gromov-Hausdorff sense is Euclidean with fixed dimension N.

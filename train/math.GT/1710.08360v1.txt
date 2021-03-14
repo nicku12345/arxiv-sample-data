@@ -1,0 +1,1 @@
+Using the theory of involutive Heegaard Floer knot theory developed by Hendricks-Manolescu, we define two involutive analogs of the Upsilon knot concordance invariant of Ozsvath-Stipsicz-Szabo. These involutive invariants are piecewise linear functions defined on the interval [0,2]. Each is a concordance invariant and provides bounds on the three-genus of a knot.

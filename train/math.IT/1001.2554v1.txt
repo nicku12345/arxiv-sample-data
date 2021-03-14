@@ -1,0 +1,1 @@
+We give a new proof of Delsarte, Goethals and Mac williams theorem on minimal weight codewords of generalized Reed-Muller codes published in 1970. To prove this theorem, we consider intersection of support of minimal weight codewords with affine hyperplanes and we proceed by recursion.

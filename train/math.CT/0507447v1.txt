@@ -1,0 +1,1 @@
+This rough note describes some attempts to define a notion of enriched topology (and the associated theory of enriched stacks) on a category enriched over a symmetric monoidal model category, and poses some related questions.

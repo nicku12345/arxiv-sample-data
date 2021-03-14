@@ -1,0 +1,1 @@
+We define a class of compact homogeneous CR manifolds which are bases of Mostow fibrations having total spaces equal to their canonical complex realizations and Hermitian fibers. This is used to establish isomorphisms between their tangential Cauchy-Riemann cohomology groups and the corresponding Dolbeault cohomology groups of the embeddings.

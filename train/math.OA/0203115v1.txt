@@ -1,0 +1,1 @@
+Let A be a unital maximal full algebra of operator fields with base space the k-cube [0,1]^k and fibre algebras, say, {A_t}_{t \in [0,1]^k}. Then the stable rank of A is bounded above by the supremum of the stable ranks sr(C([0,1]^k) \otimes A_t) for t \in [0,1]^k. Using this estimate, we compute the stable ranks of the universal C^*-algebras of the discrete Heisenberg groups.

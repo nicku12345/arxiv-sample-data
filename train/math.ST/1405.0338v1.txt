@@ -1,0 +1,1 @@
+We study minimax rates for denoising simultaneously sparse and low rank matrices in high dimensions. We show that an iterative thresholding algorithm achieves (near) optimal rates adaptively under mild conditions for a large class of loss functions. Numerical experiments on synthetic datasets also demonstrate the competitive performance of the proposed method.

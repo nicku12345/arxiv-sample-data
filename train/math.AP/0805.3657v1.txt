@@ -1,0 +1,1 @@
+We prove that, if g is a continuous asymptotically convex function, any solution u of -\Delta u+g(u)=0 in a ball B which tends to infinity on \partial B is radially symmetric.

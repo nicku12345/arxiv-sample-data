@@ -1,0 +1,1 @@
+We introduced the concept of a metric value set (MVS) in an earlier paper \cite{GM}. In this paper we study the algebraic structure of MVSs. For an MVS M we define the concept of M-metrizability of a topological space and prove some metrizability results related to those algebraic properties.

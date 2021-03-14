@@ -1,0 +1,1 @@
+I apply the algebraic framework developed in [1] to study geometry of hyperbolic spaces in 1, 2, and 3 dimensions. The background material on projectivised Clifford algebras and their application to Cayley-Klein geometries is described in [2].

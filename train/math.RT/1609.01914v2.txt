@@ -1,0 +1,1 @@
+We classify the finite-dimensional rational representations V of the exceptional algebraic groups G with \mathfrak g={\sf Lie}(G) such that the symmetric invariants of the semi-direct product \mathfrak g\ltimes V, where V is an Abelian ideal, form a polynomial ring.

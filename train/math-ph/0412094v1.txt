@@ -1,0 +1,1 @@
+Several differentiating algorithms of the noisy signals are considered. The proposed wavelet based technique is compared with others based on the Fourier transform and the finite differences. The accuracy of the calculations for different algorithms is estimated for two model examples.

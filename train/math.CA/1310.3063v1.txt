@@ -1,0 +1,1 @@
+We characterize continuous, symmetric and homogeneous means M that can be represented in the form \begin{equation*} \frac{1}{M(x,y)}=\int_0^1 \frac{dt}{N\left(\tfrac{x+y}{2}-t\tfrac{x-y}{2},\tfrac{x+y}{2}+t\tfrac{x-y}{2}\right)}. \end{equation*} New inequalities for means are derived from such representation.

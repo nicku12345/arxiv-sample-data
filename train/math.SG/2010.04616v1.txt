@@ -1,0 +1,1 @@
+We prove the stability of \Symp(X,\w)\cap \Diff_0(X) for a one-point blow-up of irrational ruled surfaces and study their topological colimit. Non-trivial generators of \pi_0[\Symp(X,\w)\cap \Diff_0(X)] that differ from Lagrangian Dehn twists are detected.

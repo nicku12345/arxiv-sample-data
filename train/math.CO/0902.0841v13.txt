@@ -1,0 +1,1 @@
+In this paper, we will present an algorithm to resolve the counterfeit coins problem in the case that the number of false coins is unknown in advance.

@@ -1,0 +1,1 @@
+We find the generating function for the class of all permutations that avoid the patterns 3124 and 4312 by showing that it is an inflation of the union of two geometric grid classes.

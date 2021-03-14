@@ -1,0 +1,1 @@
+In this paper, we develop an exact test for testing exponentiality against renewal increasing mean residual life class. Pitman's asymptotic efficacy value shows that our test perform well. Some numerical results are presented to demonstrate the performance of the testing method. We also discuss how the proposed method incorporates the right censored observations.

@@ -1,0 +1,1 @@
+We prove that the Veronese embedding of P^n of degree d with n\ge 2, d\ge 3 does not satisfy property N_p (according to Green and Lazarsfeld) if p\ge 3d-2.   We conjecture that the converse holds. This is true for n=2 and for n=d=3.

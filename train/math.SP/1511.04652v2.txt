@@ -1,0 +1,1 @@
+In this paper, we consider the Perron theorem over the real Puiseux field. We introduce a recursive method for calculating Perron roots and Perron vectors of positive Puiseux matrices (which satisfy some condition of genericness) by means of combinatorics based on the tropical linear algebra.

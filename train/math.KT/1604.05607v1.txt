@@ -1,0 +1,1 @@
+We provide a new computation of the K-theory of the group C^*-algebra of the solvable Baumslag-Solitar group BS(1,n)\;(n\neq 1); our computation is based on the Pimsner-Voiculescu 6-terms exact sequence, by viewing BS(1,n) as a semi-direct product \mathbb{Z}[1/n]\rtimes\mathbb{Z}. We deduce from it a new proof of the Baum-Connes conjecture with trivial coefficients for BS(1,n).

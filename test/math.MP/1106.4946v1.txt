@@ -1,0 +1,1 @@
+General birth-and-death as well as hopping stochastic dynamics of infinite multicomponent particle systems in the continuum are considered. We derive the corresponding evolution equations for quasi-observables and correlation functions. We also present sufficient conditions that allows us to consider these equations on suitable Banach spaces.

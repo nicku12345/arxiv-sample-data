@@ -1,0 +1,1 @@
+To any 2x2-matrix K one assigns a commutative subalgebra B^{K}\subset U(gl_2[t]) called a Bethe algebra. We describe relations between the Bethe algebras, associated with the zero matrix and a nilpotent matrix.

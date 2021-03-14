@@ -1,0 +1,1 @@
+We present two new forms in which the Frechet differential of a power series in a Banach algebra can be expressed in terms of absolutely convergent series involving the commutant C(T):A\mapsto [A,T].Then we apply the results to the analytic functional calculus in a complex Banach space.

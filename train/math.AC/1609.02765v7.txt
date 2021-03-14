@@ -1,0 +1,1 @@
+In this paper we compute Gr\"obner bases for determinantal ideals of the form I_{1}(XY), where X and Y are both matrices whose entries are indeterminates over a field K. We use the Gr\"obner basis structure to determine Betti numbers for such ideals.

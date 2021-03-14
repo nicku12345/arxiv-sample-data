@@ -1,0 +1,1 @@
+Under certain circumstances, some of which are made explicit here, one can deduce bounds on the full sum of a perturbation series of a physical quantity by using a variational Borel map on the partial series. The method is illustrated by applying it to various examples, physical and mathematical.

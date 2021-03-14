@@ -1,0 +1,1 @@
+We express the Aomoto trilogarithm explicitely via classical trilogarithm and investigate the algebraic-geometric structures behind this: different realuzations of the weight three motivic complexes.   Using this results we give an explicit motivic construction of the Grassmannian 4-logarithm and Borel regulator map for K_7(C).

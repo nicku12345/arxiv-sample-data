@@ -1,0 +1,1 @@
+We present a simple Bellman function proof of a bilinear estimate for elliptic operators in divergence form with real coefficients and with nonnegative potentials. The constants are dimension-free. The p-range of applicability of this estimate is (1,\infty) for any real accretive (nonsymmetric) matrix A of coefficients.

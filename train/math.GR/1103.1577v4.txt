@@ -1,0 +1,1 @@
+We construct a commutative version of the group ring and show that it allows one to translate questions about the normal generation of groups into questions about the generation of ideals in commutative rings. We demonstrate this with an alternative proof of a result about the normal generation of the free product of two cyclic groups.

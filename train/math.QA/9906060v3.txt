@@ -1,0 +1,1 @@
+We introduce the notion of pure Q-solvable algebra. The quantum matrices, quantum Weyl algebra, U_q(n) are the examples. It is proved that the skew field of fractions of pure Q-solvable algebra is isomorphic to the skew field of twisted rational functions. This is the quantum version of Gelfand-Kirillov conjecture for solvable algebraic Lie algebras.

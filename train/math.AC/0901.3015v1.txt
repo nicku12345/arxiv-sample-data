@@ -1,0 +1,1 @@
+For an unmixed bipartite graph G we consider the lattice of vertex covers \mathcal{L}_G and compute depth, projective dimension and extremal Betti-numbers of R/I(G) in terms of this lattice.

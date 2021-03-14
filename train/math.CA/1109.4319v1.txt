@@ -1,0 +1,1 @@
+We demonstrate a set A and a value of s for which the sequence of N-point discrete minimal Riesz s-energy configurations on A does not have an asymptotic distribution in the weak-star sense as N tends to infinity.

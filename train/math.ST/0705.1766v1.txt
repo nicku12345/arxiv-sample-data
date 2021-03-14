@@ -1,0 +1,1 @@
+We consider estimation procedures which are recursive in the sense that each successive estimator is obtained from the previous one by a simple adjustment. We propose a wide class of recursive estimation procedures for the general statistical model and study convergence.

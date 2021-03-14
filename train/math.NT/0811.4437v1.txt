@@ -1,0 +1,1 @@
+We study three special Dirichlet series, two of them alternating, related to the Riemann zeta function. These series are shown to have extensions to the entire complex plane and we find their values at the negative integers (or residues at poles). These values are given in terms of Bernoulli and Euler numbers.

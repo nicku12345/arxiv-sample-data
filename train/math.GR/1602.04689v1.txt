@@ -1,0 +1,1 @@
+We restrict the possibilities for the character degrees of p-groups G satisfying |G:G'| = p^2. E.g. if G is of maximal class and has an irreducible character of degree > p, then it has such a character of degree at most p^{\frac{p+1}{2}}.

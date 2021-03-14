@@ -1,0 +1,1 @@
+We prove that the degree of the Hilbert polynomial of the HOMFLYPT homology of a closed braid B is l-1, where l is the number of components of B. This controls the growth of the HOMFLYPT homology with respect to its polynomial grading. The Hilbert polynomial also reveals a link polynomial hidden in the HOMFLYPT polynomial.

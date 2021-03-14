@@ -1,0 +1,1 @@
+In this short note, we observe that the Heegaard Floer contact invariant is combinatorial by applying the algorithm of Sarkar--Wang to the description of the contact invariant due to Honda--Kazez--Matic. We include an example of this combinatorial calculation.

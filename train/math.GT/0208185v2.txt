@@ -1,0 +1,1 @@
+A stratified bundle is a fibered space in which strata are classical bundles and in which attachment of strata is controlled by a structure category of fibers. Well known results on fibre bundles are shown to be true for stratified bundles; namely the pull back theorem, the bundle theorem and the principal bundle theorem.

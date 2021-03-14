@@ -1,0 +1,1 @@
+We prove several results on the distribution function of \zeta(1+it) in the complex plane, that is the joint distribution function of \arg\zeta(1+it) and |\zeta(1+it)|. Similar results are also given for L(1,\chi) (as \chi varies over non-principal characters modulo a large prime q).

@@ -1,0 +1,1 @@
+In the effective topos there exists a chain-complete distributive lattice with a monotone and progressive endomap which does not have a fixed point. Consequently, the Bourbaki-Witt theorem and Tarski's fixed-point theorem for chain-complete lattices do not have constructive (topos-valid) proofs.

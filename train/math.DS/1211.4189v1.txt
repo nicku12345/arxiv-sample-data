@@ -1,0 +1,1 @@
+In this work, we derive a new upper bound on the termination time of the Hegselmann-Krause model for opinion dynamics. Using a novel method, we show that the termination rate of this dynamics happens no longer than O(n^3) which improves the best known upper bound of O(n^4) by a factor of n .

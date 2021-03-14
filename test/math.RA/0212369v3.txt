@@ -1,0 +1,1 @@
+We study pairs of associative algebras and linear functionals. New results together with corrected proofs for previously published material are presented. In particular, we prove the identity ind Mat(n) (#) A=n * ind A for finite-dimensional unital associative algebra A with index 1. [ Symbol (#) denotes tensor product ]

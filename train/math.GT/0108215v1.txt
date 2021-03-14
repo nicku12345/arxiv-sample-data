@@ -1,0 +1,1 @@
+The Moebius energy of a knot is an energy functional for smooth curves based on an idea of self-repelling. If a knot has a thick tubular neighborhood, we would intuitively expect the energy to be low. In this paper, we give explicit bounds for energy in terms of the ropelength of the knot, i.e. the ratio of the length of a thickest tube to its radius.

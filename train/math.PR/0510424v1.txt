@@ -1,0 +1,1 @@
+We obtain an asymptotically sharp error bound in the classical Sudakov-Fernique comparison inequality for finite collections of gaussian random variables. Our proof is short and self-contained, and gives an easy alternative argument for the classical inequality, extended to the case of non-centered processes.

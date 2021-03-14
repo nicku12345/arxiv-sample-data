@@ -1,0 +1,1 @@
+Let T\in\mathbb{B}(\mathscr{H}) and T=U|T| be its polar decomposition. We proved that (i) if T is log-hyponormal or p-hyponormal and U^n=U^\ast for some n, then T is normal; (ii) if the spectrum of U is contained in some open semicircle, then T is normal if and only if so is its Aluthge transform \widetilde{T}=|T|^{1\over2}U|T|^{1\over2}.

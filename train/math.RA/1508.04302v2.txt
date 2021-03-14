@@ -1,0 +1,1 @@
+Given a poset P with at least two elements and a group G, there exists a selfdual lattice of length 16 such that the collection of its principal congruences is order isomorphic to P while its automorphism group to G.

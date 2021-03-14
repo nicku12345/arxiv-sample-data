@@ -1,0 +1,1 @@
+In this paper, we describe a stochastic adaptive fast gradient descent method based on the mirror variant of similar triangles method. To our knowledge, this is the first attempt to use adaptivity in stochastic method. Additionally, a main result was proved in terms of probabilities of large deviations.

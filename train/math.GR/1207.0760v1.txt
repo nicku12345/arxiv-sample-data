@@ -1,0 +1,1 @@
+If G is a finite group, then Pr(G) denotes the fraction of ordered pairs of elements of G which commute. We show that, if l \in (2/9,1] is a limit point of the function Pr on finite groups, then l \in \Q and there exists an e = e_l > 0 such that Pr(G) \not\in (l - e_l, l) for any finite group G. These results lend support to some old conjectures of Keith Joseph.

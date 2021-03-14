@@ -1,0 +1,1 @@
+We give a self-contained and purely combinatorial proof of the well known fact that the cohomology of the braces operad is the operad \mathsf{Ger} governing Gerstenhaber algebras.

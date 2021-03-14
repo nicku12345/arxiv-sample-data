@@ -1,0 +1,1 @@
+This paper shows that, for any integers n and k with 0\leqslant k \leqslant n-2, at least (k+1)!(n-k-1) vertices or edges have to be removed from an n-dimensional star graph to make it disconnected and no vertices of degree less than k. The result gives an affirmative answer to the conjecture proposed by Wan and Zhang [Applied Mathematics Letters, 22 (2009), 264-267].

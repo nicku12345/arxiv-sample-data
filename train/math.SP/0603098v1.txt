@@ -1,0 +1,1 @@
+We prove that for any n\times n matrix, A, and z with |z|\geq \|A\|, we have that \|(z-A)^{-1}\|\leq\cot (\frac{\pi}{4n}) \dist (z, \spec(A))^{-1}. We apply this result to the study of random orthogonal polynomials on the unit circle.

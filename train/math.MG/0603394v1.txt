@@ -1,0 +1,1 @@
+We give a complete proof that in any finite-dimensional normed linear space a finite set of points has a minimal spanning tree in which the maximum degree is bounded above by the strict Hadwiger number of the unit ball, i.e., the largest number of unit vectors such that the distance between any two is larger than 1.

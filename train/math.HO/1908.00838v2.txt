@@ -1,0 +1,1 @@
+In an analogous construction as by Euler for 4x4 matrices, a parametrization of 8x8 magic squares of squares with orthogonal rows is shown to be obtainable by extending the quaternionic method, as shown by Hurwitz, to octonions, but not possible to be carried even further in the Cayley-Dickson construction series.

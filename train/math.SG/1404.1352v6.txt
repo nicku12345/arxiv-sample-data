@@ -1,0 +1,1 @@
+We consider the Fukaya category associated to a basis of vanishing cycles in a Lefschetz fibration. We show that each element of the Floer cohomology of the monodromy around infinity gives rise to a natural transformation from the Serre functor to the identity functor. This complements previously known constructions, in a way which fits in well with homological mirror symmetry.

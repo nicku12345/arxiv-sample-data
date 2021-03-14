@@ -1,0 +1,1 @@
+This paper shows that there exists a non-minimal sequence \bar{x} \in ([0,1]^2)^{\mathbb{N}} such that for any continuous function f:[0,1]^2 \to [0,1], the sequence obtained by mapping terms of \bar{x} by f is minimal.

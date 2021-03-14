@@ -1,0 +1,1 @@
+In this article we calculate the signature character of certain Hermitian representations of GL_N(F) for a p-adic field F. We further give a conjectural description for the signature character of unramified representations in terms of Kostka numbers.

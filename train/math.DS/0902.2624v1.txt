@@ -1,0 +1,1 @@
+It is known that piecewise affine surface homeomorphisms always have measures of maximal entropy. This is easily seen to fail in the discontinuous case. Here we describe a piecewise affine, globally continuous surface map with no measure of maximal entropy.

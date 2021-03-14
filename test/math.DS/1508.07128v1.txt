@@ -1,0 +1,1 @@
+In this paper, we study a Lotka-Volterra model which contains two prey and one predator with the Beddington-DeAngelis functional responses. First, we establish a set of sufficient conditions for existence of positive periodic solutions. Second, we investigate global asymptotic stability of boundary periodic solutions. Finally, we present some numerical examples.

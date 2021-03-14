@@ -1,0 +1,1 @@
+We study Wiener-type covering lemmas, Hardy-Littlewood-type maximal functions, and convergence theorems on metric spacs. Later we specialize down to a result for the Poisson integral. We show that, in a suitably general setting, these three phenomena are essentially logically equivalent. Along the way we discuss some useful estimates for the Poisson kernel.

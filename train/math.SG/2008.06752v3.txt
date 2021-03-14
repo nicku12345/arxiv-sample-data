@@ -1,0 +1,1 @@
+The Atiyah-Bott Lefschetz Formula is a well-known formula for computing the equivariant index of an elliptic operator on a compact smooth manifold. We provide an analogue of this formula for the based loop group \Omega SU(2) with respect to the natural (T \times S^1)-action. From this result we also derive an effective formula for computing characters of certain Demazure modules.

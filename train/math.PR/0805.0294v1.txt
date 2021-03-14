@@ -1,0 +1,1 @@
+We prove that an averaging principle holds for a general class of stochastic reaction-diffusion systems, having unbounded multiplicative noise, in any space dimension. We show that the classical Khasminskii approach for systems with a finite number of degrees of freedom can be extended to infinite dimensional systems.

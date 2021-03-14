@@ -1,0 +1,1 @@
+Given a fibration of a symplectic manifold by lagrangian tori, we show that each symplectic vector field splits into two parts : the first is Hamiltonian and the second is symplectic and preserves the fibration. We then show an application of this result in the study of the regular deformations of completely integrable systems.

@@ -1,0 +1,1 @@
+In this paper we have suggested a family of estimators for the population mean in the presence of measurement errors. Expression for the mean squared error (MSE) of the suggested family is derived. An empirical study has been carried out to verify the theoretical findings.

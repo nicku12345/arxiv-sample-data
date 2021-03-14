@@ -1,0 +1,1 @@
+For a root system \Phi of type E_l and arbitrary commutative ring R we show that the group K_2(\Phi, R) is contained in the centre of the Steinberg group St(\Phi, R). In course of the proof we also demonstrate an analogue of Quillen---Suslin local-global principle for K_2(\Phi, R).

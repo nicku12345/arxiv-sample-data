@@ -1,0 +1,1 @@
+We prove an asymptotic formula for the fourth power mean of Dirichlet L-functions averaged over primitive characters to modulus q and over t\in [0,T] which is particularly effective when q \ge T. In this range the correct order of magnitude was not previously known.

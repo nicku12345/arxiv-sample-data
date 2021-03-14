@@ -1,0 +1,1 @@
+Every semigroup which is a finite disjoint union of copies of the free monogenic semigroup (natural numbers under addition) is finitely presented and residually finite.

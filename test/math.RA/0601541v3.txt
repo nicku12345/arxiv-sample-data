@@ -1,0 +1,1 @@
+We find a new class of Hopf algebras, local quasitriangular Hopf algebras, which generalize quasitriangular Hopf algebras. Using these Hopf algebras, we obtain solutions of the Yang-Baxter equation in a systematic way. The category of modules with finite cycles over a local quasitriangular Hopf algebra is a braided tensor category.

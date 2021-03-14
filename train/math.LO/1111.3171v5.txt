@@ -1,0 +1,1 @@
+We present some lambda calculus with explicit substitutions and named variables. The characteristic feature of this calculus is as follows: renaming of bound variables when performing substitutions is done using special reductions and may be delayed.

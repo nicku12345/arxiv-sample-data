@@ -1,0 +1,1 @@
+A H\"older type inequality in Besov spaces is established and applied to show that every strong solution u(t,x) on (0,T) of the Navier-Stokes equations can be continued beyond t>T provided that the vorticity \omega(t,x)\in L^{\frac 2{2-\alpha}}(0,T;\dot{B}^{-\alpha}_{\infty,\infty}(\mr^3))\cap L^{\frac2{1-\alpha}}(0,T;\dot{B}^{-1-\alpha}_{\infty,\infty}(\mr^3)) for 0<\alpha<1.

@@ -1,0 +1,1 @@
+An asymptotic formula for the number of n \le x such that n does not divide P(n)! is given, where P(n) is the largest prime factor of n.

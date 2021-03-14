@@ -1,0 +1,1 @@
+In this paper, we study the function H(a,b), which associates to every pair of positive integers a and b the number of positive integers c such that the triangle of sides a,b and c is Heron, i.e., has integral area. In particular, we prove that H(p,q)\le 5 if p and q are primes, and that H(a,b)=0 for a random choice of positive integers a and b.

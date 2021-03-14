@@ -1,0 +1,1 @@
+For an integral domain D and a star operation * on D, we study the following condition: whenever I>AB with I, A, B nonzero ideals, there exist nonzero ideals H and J such that I*=(HJ)*, H*>A and J*>B.

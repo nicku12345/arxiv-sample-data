@@ -1,0 +1,1 @@
+We prove that the functions Phi(x)=[Gamma(x+1)]^{1/x}(1+1/x)^x/x and log Phi(x) are Stieltjes transforms.

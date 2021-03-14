@@ -1,0 +1,1 @@
+An automorphism of a graph product of groups is conjugating if it sends each factor to a conjugate of a factor (possibly different). In this article, we determine precisely when the group of conjugating automorphisms of a graph product satisfies Kazhdan's property (T) and when it satisfies some vastness properties including SQ-universality.

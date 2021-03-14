@@ -1,0 +1,1 @@
+In this note we study simple modules for a reduced enveloping algebra U_chi(g) in the critical case when chi element of g^* is ``nilpotent''. Some dimension formulas computed by Jantzen suggest modified versions of Weyl's dimension formula, based on certain reflecting hyperplanes for the affine Weyl group which might be associated to Kazhdan--Lusztig cells.

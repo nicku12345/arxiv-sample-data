@@ -1,0 +1,1 @@
+All upper semicontinuous and SL(n) invariant valuations on convex bodies containing the origin in their interiors are completely classified. Each such valuation is shown to be a linear combination of the Euler characteristic, the volume, the volume of the polar body, and the recently discovered Orlicz surface areas.

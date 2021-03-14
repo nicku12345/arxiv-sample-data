@@ -1,0 +1,1 @@
+We present a boundary integral method for solving a certain class of Riemann-Hilbert problems known as the general conjugation problem. The method is based on a uniquely solvable boundary integral equation with the generalized Neumann kernel. We present also an alternative proof for the existence and uniqueness of the solution of the general conjugation problem.

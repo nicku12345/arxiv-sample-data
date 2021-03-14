@@ -1,0 +1,1 @@
+The normal Farb growth of a group quantifies how well-approximated the group is by its finite quotients. We show that any S-arithmetic subgroup of a higher rank Chevalley group G has normal Farb growth n^dim(G).

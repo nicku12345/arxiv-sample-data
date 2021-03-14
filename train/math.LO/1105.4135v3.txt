@@ -1,0 +1,1 @@
+We extend first-order logic to include variadic function symbols, and prove a substitution lemma. Two applications are given: one to bounded quantifier elimination and one to the definability of certain Borel sets.

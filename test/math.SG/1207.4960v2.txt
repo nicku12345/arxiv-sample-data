@@ -1,0 +1,1 @@
+Moduli spaces of real bundles over a real curve arise naturally as Lagrangian submanifolds of the moduli space of semi-stable bundles over a complex curve. In this paper, we adapt the methods of Atiyah-Bott's "Yang-Mills over a Riemann Surface" to compute Z/2-Betti numbers of these spaces, proving formulas recently obtained by Liu and Schaffhauser.

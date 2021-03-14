@@ -1,0 +1,1 @@
+A convex pentagonal tile is a convex pentagon that admits a monohedral tiling. We show that a convex pentagonal tile that admits a periodic tiling has a property in which the sum of three internal angles of the pentagon is equal to 360{\deg}.

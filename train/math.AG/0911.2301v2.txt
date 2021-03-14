@@ -1,0 +1,1 @@
+Let X be a geometrically irreducible smooth projective curve over a field k. We describe the algebra of endomorphisms of indecomposable unstable vector bundles over X of rank 2 and degree d. Fixing some numerical invariants, namely the Harder-Narasimhan type and the dimension of the algebra of endomorphisms, we construct algebraic stacks and moduli schemes for such bundles.

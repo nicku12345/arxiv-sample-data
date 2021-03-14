@@ -1,0 +1,1 @@
+We prove that the LOSS and GRID invariants of Legendrian links in knot Floer homology behave in certain functorial ways with respect to decomposable Lagrangian cobordisms in the symplectization of the standard contact structure on \mathbb{R}^3. Our results give new, computable, and effective obstructions to the existence of such cobordisms.

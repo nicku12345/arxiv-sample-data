@@ -1,0 +1,1 @@
+We prove that a self-similar free abelian group has finite rank. We apply the result to self-similar wreath products of abelian groups G=BwrX. We show that if X is torsion-free, then B is torsion of finite exponent. Furthemore, we construct a self-similar group G=BwrC_{2} where B is free abelian of infinite rank.

@@ -1,0 +1,1 @@
+Building off of the work of Kervaire and Milnor, and Hill, Hopkins, and Ravenel, Xu and Wang showed that the only odd dimensions n for which S^n has a unique differentiable structure are 1, 3, 5, and 61. We show that the only even dimensions below 140 for which S^n has a unique differentiable structure are 2, 6, 12, 56, and perhaps 4.

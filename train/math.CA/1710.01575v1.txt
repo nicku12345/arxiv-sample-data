@@ -1,0 +1,1 @@
+We consider the partial theta function, i.e. the sum of the bivariate series \theta (q,z):=\sum_{j=0}^{\infty}q^{j(j+1)/2}z^j for q\in (0,1), z\in \mathbb{C}. We show that for any value of the parameter q\in (0,1) all zeros of the function \theta (q,.) belong to the domain \{ {\rm Re}~z<0, |{\rm Im}~z|\leq 132\}\cup\{ {\rm Re}~z\geq 0, |z|\leq 18\}.

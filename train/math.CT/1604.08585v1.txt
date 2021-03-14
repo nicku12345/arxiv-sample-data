@@ -1,0 +1,1 @@
+A simple observation, showing that every groupoid becomes an inverse semigroup after adding one element. In such inverse semigroups all idempotents are mutually orthogonal. This fact implies that every C*-algebra of a discrete groupoid is a C*-algebra of an inverse semigroup.

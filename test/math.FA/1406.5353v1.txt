@@ -1,0 +1,1 @@
+In this article we deal with a variation of a theorem of Mauceri concerning the  L^p  boundedness of operators  M  which are known to be bounded on  L^2. We obtain sufficient conditions on the kernel of the operaor  M  so that it satisfies weighted  L^p  estimates. As an application we prove  L^p  boundedness of Hermite pseudo-multipliers.

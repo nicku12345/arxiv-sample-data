@@ -1,0 +1,1 @@
+We attach to any commutative ring R a subgroup of the Brauer group of R, called the Brauer-Galois group of R. Its elements are the classes of the Azumaya R-algebras which can be represented, via Brauer equivalence, by a Galois extension of R. We compute this group for some particular commutative fields.

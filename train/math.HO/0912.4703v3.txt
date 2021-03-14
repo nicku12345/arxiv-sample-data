@@ -1,0 +1,1 @@
+We give a detailed account of various connections between several classes of objects: Hankel, Hurwitz, Toeplitz, Vandermonde and other structured matrices, Stietjes and Jacobi-type continued fractions, Cauchy indices, moment problems, total positivity, and root localization of univariate polynomials. Along with a survey of many classical facts, we provide a number of new results.

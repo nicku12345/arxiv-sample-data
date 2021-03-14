@@ -1,0 +1,1 @@
+This article provides an introductory tutorial on structural results in partially observed Markov decision processes (POMDPs). Typically, computing the optimal policy of a POMDP is computationally intractable. We use lattice program- ming methods to characterize the structure of the optimal policy of a POMDP without brute force computations.

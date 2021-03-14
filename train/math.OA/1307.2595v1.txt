@@ -1,0 +1,1 @@
+If \alpha is an amenable action of a discrete group G on a unital C*-algebra A, then the crossed-product C*-algebra A\rtimes_\alpha G has the weak expectation property if and only if A has this property.

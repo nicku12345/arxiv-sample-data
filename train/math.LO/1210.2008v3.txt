@@ -1,0 +1,1 @@
+We show that the excellence axiom in the definition of Zilber's quasiminimal excellent classes is redundant, in that it follows from the other axioms. This substantially simplifies a number of categoricity proofs.

@@ -1,0 +1,1 @@
+We construct a family I_{n_{\eps}}(f)_{t} of continuous stochastic processes that converges in the sense of finite dimensional distributions to a multiple Wiener-It\^o integral I_{n}^{H}(f1^{\otimes n}_{[0,t]}) with respect to the fractional Brownian motion. We assume that H>{1/2} and we prove our approximation result for the integrands f in a rather general class.

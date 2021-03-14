@@ -1,0 +1,1 @@
+We describe in terms of automata theory the automatic actions with post-critically finite limit space. We prove that these actions are precisely the actions by bounded automata and that any self-similar action by bounded automata is contracting.

@@ -1,0 +1,1 @@
+In this paper, we derive new lower bounds for the normalized distances between consecutive maxima of the Riemann zeta-function on the critical line subject to the truth of the Riemann hypothesis. The method of our proofs relies on a Sobolev type inequality of one dimension and an Opial type inequality with best possible constants.

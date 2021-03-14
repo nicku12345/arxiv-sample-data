@@ -1,0 +1,1 @@
+A seminal result due to Wall states that if x is normal to a given base b then so is rx+s for any rational numbers r,s with r\neq 0. We show that a stronger result is true for normality with respect to the continued fraction expansion. In particular, suppose a,b,c,d\in \mathbb{Z} with ad-bc\neq 0. Then if x is continued fraction normal, so is (ax+b)/(cx+d).

@@ -1,0 +1,1 @@
+We show that if V \subset \R^n satisfies a certain symmetry condition (closely related to unconditionaity) and if X is an isotropic random vector for which \|\inr{X,t}\|_{L_p} \leq L \sqrt{p} for every t \in S^{n-1} and p \lesssim \log n, then the corresponding empirical and multiplier processes indexed by V behave as if X were L-subgaussian.

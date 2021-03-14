@@ -1,0 +1,1 @@
+We introduce the notion of a symmetric group parametrized by elements of a group. We show that this group is an extension of a certain subgroup of the wreath product G \wr S_n by \mathrm{H}_2(G, \mathbb{Z}). We also discuss the motivation behind this construction.

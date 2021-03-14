@@ -1,0 +1,1 @@
+We introduce a new definition of \pi-flatness for linear differential delay systems with time-varying coefficients. We characterize \pi- and \pi-0-flat outputs and provide an algorithm to efficiently compute such outputs. We present an academic example of motion planning to discuss the pertinence of the approach.

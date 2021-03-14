@@ -1,0 +1,1 @@
+The article deals with iterative methods of solving linear operator equations x = Bx + f and Ax = f with self-adjoint operators in Hilbert space X in critical case when \rho(B) = 1 and 0 \in {\rm Sp}\, A. The main results are based on the use of M.A. Krasnosel'ski\u{i} theorem about the convergence of the successive approximations and some its modifications and refinements.

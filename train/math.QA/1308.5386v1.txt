@@ -1,0 +1,1 @@
+Let k be an algebraically closedfield of characteristic zero. In this paper we consider an integral fusion category over k in which the Frobenius-Perron dimensions of its simple objects are at most 3. We prove that such fusion category is of Frobenius type. In addition, we also prove that such fusion category is not simple.

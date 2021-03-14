@@ -1,0 +1,1 @@
+We describe the dualization of the algebra of secondary cohomology operations in terms of generators extending the Milnor dual of the Steenrod algebra. In this way we obtain explicit formulae for the computation of the E_3-term of the Adams spectral sequence converging to the stable homotopy groups of spheres.

@@ -1,0 +1,1 @@
+We show that some singular maximal functions and singular Radon transforms satisfy a weak type L\log\log L inequality. Examples include the maximal function and Hilbert transform associated to averages along a parabola. The weak type inequality yields pointwise convergence results for functions which are locally in L\log\log L.

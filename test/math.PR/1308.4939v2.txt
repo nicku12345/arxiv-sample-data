@@ -1,0 +1,1 @@
+We define a time dependent empirical process based on n i.i.d.~fractional Brownian motions and establish Gaussian couplings and strong approximations to it by Gaussian processes. They lead to functional laws of the iterated logarithm for this process.

@@ -1,0 +1,1 @@
+In this paper we establish the local and global well-posedness of the real valued fifth order Kadomstev-Petviashvili I equation in the anisotropic Sobolev spaces with nonnegative indices. In particular, our local well-posedness improves Saut-Tzvetkov's one and our global well-posedness gives an affirmative answer to Saut-Tzvetkov's L^2-data conjecture.

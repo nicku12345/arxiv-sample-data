@@ -1,0 +1,1 @@
+We give an algorithm for computing matrix corepresentations for special linear and special unitary quantum groups using a combinatorial re-indexing of basis elements.

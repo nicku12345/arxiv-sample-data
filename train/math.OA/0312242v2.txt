@@ -1,0 +1,1 @@
+We show that for any discrete finitely-generated group G and any self-adjoint n-tuple X_1,...,X_n of generators of the group algebra of G, Voiculescu's non-microstates free entropy dimension \delta^*(X_1,...,X_n) is exactly equal to \beta_1 (G)-\beta_0 (G)+1, where \beta_i are the L^2 Betti numbers of G.

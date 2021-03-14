@@ -1,0 +1,1 @@
+Finite sample properties of multiple imputation estimators under the linear regression model are studied. The exact bias of the multiple imputation variance estimator is presented. A method of reducing the bias is presented and simulation is used to make comparisons. We also show that the suggested method can be used for a general class of linear estimators.

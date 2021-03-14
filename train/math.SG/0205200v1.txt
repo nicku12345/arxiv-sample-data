@@ -1,0 +1,1 @@
+Using a result of J-M. Bony, we prove the weak involutivity of truncated microsupports. More precisely, given a sheaf F on a real manifold and an integer k, if two functions vanish on the truncated microsupport Ss_k(F), then so does their Poisson bracket.

@@ -1,0 +1,1 @@
+We develop the theory of ind-coherent sheaves on schemes and stacks. The category of ind-coherent sheaves is closely related, but inequivalent, to the category of quasi-coherent sheaves, and the difference becomes crucial for the formulation of the categorical Geometric Langlands Correspondence.

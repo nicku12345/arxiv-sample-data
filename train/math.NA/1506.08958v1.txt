@@ -1,0 +1,1 @@
+In this paper, a nonconforming finite element method has been proposed and analyzed for the von Karman equations that describe bending of thin elastic plates. Optimal order error estimates in broken energy and H^1 norms are derived under minimal regularity assumptions. Numerical results that justify the theoretical results are presented.

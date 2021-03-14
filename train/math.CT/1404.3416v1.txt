@@ -1,0 +1,1 @@
+In this paper we classify endofunctors on the simplex category, and we identify those that induce weak equivalence preserving functors on the category of simplicial sets.

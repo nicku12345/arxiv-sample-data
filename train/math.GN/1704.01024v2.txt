@@ -1,0 +1,1 @@
+We explore extensions of domain theoretic concepts, replacing transitive relations with general non-symmetric distances. These lead to a generalization of Smyth completeness which we characterize in various ways analogous to our previous Yoneda completeness characterizations.

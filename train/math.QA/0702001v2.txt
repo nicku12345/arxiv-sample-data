@@ -1,0 +1,1 @@
+In this overview, we study how to reduce the index pairing for a fibre-product C*-algebra to the index pairing for the C*-algebra over which the fibre product is taken. As an example we analyze the case of suspensions and apply it to noncommutative instanton bundles of arbitrary charges over the suspension of quantum deformations of the 3-sphere.

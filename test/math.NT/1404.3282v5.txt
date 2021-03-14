@@ -1,0 +1,1 @@
+We generate ring class fields of imaginary quadratic fields in terms of the special values of certain eta-quotients, which are related to the relative norms of Siegel-Ramachandra invariants. These give us minimal polynomials with relatively small coefficients from which we are able to solve certain quadratic Diophantine equations concerning non-convenient numbers.

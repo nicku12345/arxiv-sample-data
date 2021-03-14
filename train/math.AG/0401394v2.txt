@@ -1,0 +1,1 @@
+The gonality conjecture predicts that the gonality of a curve can be read off Koszul cohomology of line bundles of sufficiently large degree. We verify this conjecture for generic curves of odd genus. The even-genus case was previously solved in the joint work arXiv:math.AG/0301261.

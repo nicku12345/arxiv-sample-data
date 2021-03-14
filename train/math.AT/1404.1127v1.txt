@@ -1,0 +1,1 @@
+In this paper we present the notion of de Rham cohomology with compact support for diffeological spaces.   Moreover we shall discuss the existence of three long exact sequences. As a concrete example, we show that long exact sequences exist for the de Rham cohomology of diffeological subcartesian spaces.

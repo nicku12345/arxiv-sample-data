@@ -1,0 +1,1 @@
+Let p be prime, k a finite field of characteristic p, and G a virtually pro-p group. We prove an analogue of the Green Correspondence for finitely generated modules over the completed group algebra k[[G]].

@@ -1,0 +1,1 @@
+Let G be a complex classical Lie group. Up to equivalence, this paper classifies all the irreducible unitary Harish-Chandra modules with non-zero Dirac cohomology for G. Moreover, we prove that any such module \pi has a unique spin-lowest K-type which occurs with multiplicity one. This confirms a couple of conjectures raised by Pandzic and the first named author in 2011.

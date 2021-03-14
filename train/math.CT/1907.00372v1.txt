@@ -1,0 +1,1 @@
+The category of super convex spaces, a proper subcategory of convex spaces, possesses the property that it has a codense subcategory. This codense subcategory allows for an elementary proof that the Giry monad factorizes through the category of super convex spaces, not the category of convex spaces as erroneously claimed in an earlier article [arXiv:1707.00488]

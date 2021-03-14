@@ -1,0 +1,1 @@
+Given two primes p, q, we show how to construct an explicit homeomorphism between the rings of p -adic integers \mathbb{Z}_{p} and \mathbb{Z}_{q}, based on their representation as inverse limit spaces and considering the associated tree graphs.

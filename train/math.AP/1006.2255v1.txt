@@ -1,0 +1,1 @@
+We give a simple proof of the \lambda = d-2 cases of the sharp Hardy-Littlewood-Sobolev inequality for d\geq 3, and the sharp Logarithmic Hardy-Littlewood-Sobolev inequality for d=2 via a monotone flow governed by the fast diffusion equation.

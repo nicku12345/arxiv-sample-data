@@ -1,0 +1,1 @@
+While achieving a compression ratio of 2.0 bits/base, the new algorithm codes non-N bases in fixed length. It dramatically reduces the time of coding and decoding than previous DNA compression algorithms and some universal compression programs.

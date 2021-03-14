@@ -1,0 +1,1 @@
+In this paper, we study the relation between the cocenter and the representations of an affine pro-p Hecke algebra. As a consequence, we obtain a new criterion on the supersingular representation: a (virtual) representation is supersingular if and only if its character vanishes on the non-supersingular part of the cocenter.

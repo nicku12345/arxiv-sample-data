@@ -1,0 +1,1 @@
+We generalize the Pierce representation theorem for (commutative) rings with unit to other algebraic categories with Definable Factor Congruences by using tools from topos theory. Of independent interest, we prove that an algebraic category with right existential definable factor congruences is coextensive if and only if has center stable by complements.

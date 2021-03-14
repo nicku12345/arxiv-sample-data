@@ -1,0 +1,1 @@
+We examine a random model consisting of objects with positive weights and evolving in discrete time steps, which generalizes certain random graph models. We prove almost sure convergence for the weight distribution and show scale-free asymptotic behaviour. Martingale theory and renewal-like equations are used in the proofs.

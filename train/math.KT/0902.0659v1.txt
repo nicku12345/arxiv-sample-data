@@ -1,0 +1,1 @@
+In this paper we define twisted equivariant K-theory for actions of Lie groupoids. For a Bredon-compatible Lie groupoid, this defines a periodic cohomology theory on the category of finite CW-complexes with equivariant stable projective bundles. A classification of these bundles is shown. We also obtain a completion theorem and apply these results to proper actions of groups.

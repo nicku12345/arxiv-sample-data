@@ -1,0 +1,1 @@
+Randomness in the sense of Martin-L\"of can be defined in terms of lower semicomputable supermartingales. We show that such a supermartingale cannot be replaced by a pair of supermartingales that bet only on the even bits (the first one) and on the odd bits (the second one) knowing all preceding bits.

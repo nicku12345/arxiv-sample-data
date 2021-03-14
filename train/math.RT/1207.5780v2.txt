@@ -1,0 +1,1 @@
+We classify simple weight modules over infinite dimensional Weyl algebras and realize them using the action on certain localizations of the polynomial ring. We describe indecomposable projective and injective weight modules and deduce from this a description of blocks of the category of weight modules by quivers and relations. As a corollary we establish Koszulity for all blocks.

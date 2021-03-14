@@ -1,0 +1,1 @@
+We prove that, given any reflective subfibration L_\bullet on an \infty-topos \mathcal{E}, there exists a reflective subfibration L'_\bullet on \mathcal{E} whose local maps are the L-separated maps, that is, the maps whose diagonals are L-local. This is the companion paper to "Localization theory in an \infty-topos".

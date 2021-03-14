@@ -1,0 +1,1 @@
+We prove that the additive group of the rationals does not have an automatic presentation. The proof also applies to certain other abelian groups, for example, torsion-free groups that are p-divisible for infinitely many primes p, or Q/Z. The proof is combinatorial and uses most notably Freiman's theorem on sets with small doubling.

@@ -1,0 +1,1 @@
+We prove that, for a finitely generated residually finite group, having solvable word problem is not a sufficient condition to be a subgroup of a finitely presented residually finite group. The obstruction is given by a residually finite group with solvable word problem, but the depth function of which grows faster than any recursive function.

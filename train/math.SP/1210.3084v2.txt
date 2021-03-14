@@ -1,0 +1,1 @@
+We consider quasiperiodic Jacobi matrices of size N with analytic coefficients. We show that, in the positive Lyapunov exponent regime, after removing some small sets of energies and frequencies, any eigenvalue is separated from the rest of the spectrum by N^{-1}(\log N)^{-p}, with p>15.

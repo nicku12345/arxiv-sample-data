@@ -1,0 +1,1 @@
+We establish new structures on Grothendieck-Witt rings, including a GW(k)-module structure on the unit group GW(k)^x and a presentation of \ul{GW}^x as an infinite Gm-loop sheaf.   Even though our constructions are motivated by speculations in stable A1-homotopy theory, our arguments are purely algebraic.

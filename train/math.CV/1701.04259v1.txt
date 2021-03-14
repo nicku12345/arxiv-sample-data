@@ -1,0 +1,1 @@
+We prove that given a family (G_t) of strictly pseudoconvex domains varying in \mathcal{C}^2 topology on domains, there exists a continuously varying family of peak functions h_{t,\zeta} for all G_t at every \zeta\in\partial G_t.

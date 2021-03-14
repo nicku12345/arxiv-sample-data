@@ -1,0 +1,1 @@
+We extend the definition of weak symmetric continuity to be applicable for functions defined on any nonempty subset of \R. Then we investigate basic properties of weakly symmetrically continuous functions and compare them with those of symmetrically continuous functions and weakly continuous functions. Several examples are also given.

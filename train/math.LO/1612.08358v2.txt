@@ -1,0 +1,1 @@
+Assuming the existence of a strong cardinal \kappa and a measurable cardinal above it, we force a generic extension in which \kappa is a singular strong limit cardinal of any prescribed cofinality, and such that the tree property holds at \kappa^{++}.

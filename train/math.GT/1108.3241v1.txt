@@ -1,0 +1,1 @@
+Any nontrivial homomorphism from the mapping class group of an orientable surface of genus g\geq 3 to \GL(2g,\C) is conjugate to the standard symplectic representation. It is also shown that the mapping class group has no faithful linear representation in dimensions less than or equal to 3g-3.

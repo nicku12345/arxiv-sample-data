@@ -1,0 +1,1 @@
+Two cycles are referred as disjoint if they have no common edges. In this paper, we will investigate the determinant of the distance matrix of a graph, giving a formula for the determinant of the distance matrix of a bicyclic graph whose two cycles are disjoint, which extends the formula for the determinant of the distance matrix of a tree, as well as that of a unicyclic graph.

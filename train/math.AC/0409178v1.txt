@@ -1,0 +1,1 @@
+We study the limit and initial behavior of the numerical function f(k)=\depth S/I^k. General properties of this function together with concrete examples arising from combinatorics are discussed.

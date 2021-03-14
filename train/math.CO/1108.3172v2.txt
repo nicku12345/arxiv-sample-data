@@ -1,0 +1,1 @@
+To each linear code over a finite field we associate the matroid of its parity check matrix. We show to what extent one can determine the generalized Hamming weights of the code (or defined for a matroid in general) from various sets of Betti numbers of Stanley-Reisner rings of simplicial complexes associated to the matroid.

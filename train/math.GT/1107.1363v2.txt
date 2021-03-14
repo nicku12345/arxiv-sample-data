@@ -1,0 +1,1 @@
+Using a Heegaard diagram for the pullback of a knot K \subset S^3 in its cyclic double branched cover \Sigma_2(K), we give a combinatorial proof for the invariance of knot Floer homology over \mathbb{Z}.

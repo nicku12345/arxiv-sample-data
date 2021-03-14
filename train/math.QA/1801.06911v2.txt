@@ -1,0 +1,1 @@
+In this article we classify the left braces of order p^2q where p,q are primes fulfilling q > p+1. This classification includes a proof of three conjectures of Guarnieri and Vendramin (\cite[Conjectures 6.2-6.4]{Vendramin_skew}) concerning the number of isomorphism classes of left braces of order p^2q for certain values of p,q.

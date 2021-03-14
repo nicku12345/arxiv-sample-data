@@ -1,0 +1,1 @@
+This is the fourth and last paper in a sequence on Krull dimension for limit groups, answering a question of Z. Sela. In it we finish the proof, analyzing limit groups obtained from other limit groups by adjoining roots. We generalize our work on Scott complexity and adjoining roots from the previous paper in the sequence to the category of limit groups.

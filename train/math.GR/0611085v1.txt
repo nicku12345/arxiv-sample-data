@@ -1,0 +1,1 @@
+In this note we give an example of affine quotient G/H where G is an affine algebraic group over an algebraically closed field of characteristic 0 and H is a unipotent subgroup not contained in the unipotent radical of G. Some remarks about symmetric algebras of centralizers of nilpotent elements in simple Lie algebras, in particular cases, are added.

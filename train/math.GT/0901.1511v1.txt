@@ -1,0 +1,1 @@
+We define braid presentation of edge-oriented spatial graphs as a natural generalization of braid presentation of oriented links. We show that every spatial graph has a braid presentation. For an oriented link it is known that the braid index is equal to the minimal number of Seifert circles. We show that an analogy does not hold for spatial graphs.

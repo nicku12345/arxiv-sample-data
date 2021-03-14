@@ -1,0 +1,1 @@
+In this paper, we introduce a new family of generalized colored Motzkin paths, where horizontal steps are colored by means of F_{k,l} colors, where F_{k,l} is the lth k-Fibonacci number. We study the enumeration of this family according to the length. For this, we use infinite weighted automata.

@@ -1,0 +1,1 @@
+Let F be a field of characteristic different from 2, and let UT_2(F) be the algebra of 2\times 2 upper triangular matrices over F. For every involution of the first kind on UT_2(F), we describe the set of all *-central polynomials for this algebra.

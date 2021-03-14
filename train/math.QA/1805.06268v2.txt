@@ -1,0 +1,1 @@
+We study representations of the non-standard quantum deformation U'_qso_n of Uso_n via a Verma module approach. This is used to recover the classification of finite-dimensional modules for q not a root of unity, given by classical and non-classical series. We obtain new results at roots of unity, in particular for self-adjoint representations on Hilbert spaces.

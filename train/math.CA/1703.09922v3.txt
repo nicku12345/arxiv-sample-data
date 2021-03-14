@@ -1,0 +1,1 @@
+This paper establishes a conjecture of Gustafsson and Khavinson, which relates the analytic content of a smoothly bounded domain in \mathbb{R}^{N} to the classical isoperimetric inequality. The proof is based on a novel combination of partial balayage with optimal transport theory.

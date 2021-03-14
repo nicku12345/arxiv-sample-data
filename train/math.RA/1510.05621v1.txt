@@ -1,0 +1,1 @@
+Let R\_n be the ring of Laurent polynomials in n variables over a field k of characteristic zero and let K\_n be its fraction field.Given a linear algebraic k-group G, we show that a K\_n-torsor under G which is unramified with respect to X=Spec(R\_n)extends to a unique toral R\_n-torsor under G. This result, in turn, allows us to classify all G-torsors over R\_n.

@@ -1,0 +1,1 @@
+Let \G be a Carnot group of homogeneous dimension M and \Delta its horizontal sublaplacian. For \alpha\in(0,M) we show that operators of the form H_\alpha:=(-\Delta)^\alpha+V have no singular spectrum, under generous assumptions on the multiplication operator V. The proof is based on commutator methods and Hardy inequalities.

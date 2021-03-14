@@ -1,0 +1,1 @@
+Let C be a nonempty, bounded, closed, and convex subset of a Banach space X and T : C \rightarrow C be a monotone asymptotic nonexpansive mapping. In this paper, we investigate the existence of fixed points of T. In particular, we establish an analogue to the original Goebel and Kirk's fixed point theorem for asymptotic nonexpansive mappings.

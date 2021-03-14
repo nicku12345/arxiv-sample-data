@@ -1,0 +1,1 @@
+In this paper we describe how imitative logit dynamic (rather popular in population games theory) can be interpreted in terms of mirror descent method (well known in convex optimization). We demonstrate the connection of this two type dynamics on the Shortest Path Problem.

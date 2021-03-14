@@ -1,0 +1,1 @@
+Given two linear relations A and B we characterize the existence of a linear relation (operator) C such that A\subseteq BC, respectively A\subseteq CB. These factorizations extend and improve well-known results by R.G. Douglas and Z. Sebesty\'en.

@@ -1,0 +1,1 @@
+Let H_1,H_2 be complex Hilbert spaces and T be a densely defined closed linear operator (not necessarily bounded). It is proved that for each \epsilon>0, there exists a bounded operator S with \|S\|\leq \epsilon such that T+S is minimum attaining. Further, if T is bounded below, then S can be chosen to be rank one.

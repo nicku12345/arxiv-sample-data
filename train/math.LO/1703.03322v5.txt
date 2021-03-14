@@ -1,0 +1,1 @@
+In this short note, we mimic the proof of the simplicity of the theory ACFA of generic difference fields in order to provide a criterion, valid for certain theories of pure fields and fields equipped with operators, which shows that a complete theory is simple whenever its definable and algebraic closures are controlled by an underlying stable theory.

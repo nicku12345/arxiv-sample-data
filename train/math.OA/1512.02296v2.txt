@@ -1,0 +1,1 @@
+A characterization is given for directed graphs that yield graph C^*-algebras with continuous trace. This is established for row-finite graphs with no sources first using a groupoid approach, and extended to the general case via the Drinen-Tomforde desingularization. Partial results are given to characterize higher-rank graphs that yield C^*-algebras with continuous trace.

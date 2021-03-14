@@ -1,0 +1,1 @@
+Let K be a non-trivial knot in the 3-sphere and let Y be the 3-manifold obtained by surgery on K with surgery-coefficient 1. Using tools from gauge theory and symplectic topology, it is shown that the fundamental group of Y admits a non-trivial homomorphism to the group SO(3). In particular, Y cannot be a homotopy-sphere.

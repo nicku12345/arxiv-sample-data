@@ -1,0 +1,1 @@
+Let (A,\mathfrak{m}) be a local Gorenstein local ring and let M be an A module of finite length and finite projective dimension. We prove that the Lowey length of M is greater than or equal to order of A. This generalizes a result of Avramov, Buchweitz, Iyengar and Miller

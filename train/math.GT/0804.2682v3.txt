@@ -1,0 +1,1 @@
+An equiangular hyperbolic Coxeter polyhedron is a hyperbolic polyhedron where all dihedral angles are equal to \pi/n for some fixed integer n at least 2. It is a consequence of Andreev's theorem that either n=3 and the polyhedron has all ideal vertices or that n=2. Volume estimates are given for all equiangular hyperbolic Coxeter polyhedra.

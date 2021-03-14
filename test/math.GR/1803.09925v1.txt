@@ -1,0 +1,1 @@
+We completely determine all commutative epigroup varieties that are cancellable elements of the lattice EPI of all epigroup varieties. In particular, we verify that a commutative epigroup variety is a cancellable element of the lattice EPI if and only if it is a modular element of this lattice.

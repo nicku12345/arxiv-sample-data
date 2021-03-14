@@ -1,0 +1,1 @@
+First, we show that Sturm algorithm and Sylvester algorithm, which compute the number of real roots of a given univariate polynomial, lead to two dual tridiagonal determinantal representations of the polynomial. Next, we show that the number of real roots of a polynomial given by a tridiagonal determinantal representation is greater than the signature of this representation.

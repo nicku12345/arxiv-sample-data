@@ -1,0 +1,1 @@
+We propose a definition of non-collapsed space with Ricci curvature bounded from below and we prove the versions of Colding's volume convergence theorem and of Cheeger-Colding dimension gap estimate for {\sf RCD} spaces.   In particular this establishes the stability of non-collapsed spaces under non-collapsed Gromov-Hausdorff convergence.

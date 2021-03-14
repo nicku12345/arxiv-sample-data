@@ -1,0 +1,1 @@
+We develop a theory of Brill-Noether divisors on the moduli space of stable spin curves of genus g, and compute the classes of these loci. A spin Brill-Noether cycle is defined in terms of the relative position of the spin structure with respect to certain Raynaud theta-divisors in the Jacobian of the curve.

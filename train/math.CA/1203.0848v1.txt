@@ -1,0 +1,1 @@
+In this paper we prove that the generalized (in the sense of Caffarelli and Calder\'on) maximal operators associated with heat semigroups for Bessel and Laguerre operators are weak type   (1,1). Our results include other known ones and our proofs are simpler than the ones for the known special cases.

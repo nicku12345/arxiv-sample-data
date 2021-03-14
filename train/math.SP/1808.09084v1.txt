@@ -1,0 +1,1 @@
+We prove that on the spectrum the integrated density of states (IDS for short) of periodic Jacobi matrices is related to the discriminant. The method is to count the number of generalized zeros of Bloch wave solutions.

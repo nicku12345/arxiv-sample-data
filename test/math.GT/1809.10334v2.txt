@@ -1,0 +1,1 @@
+We prove that certain problems naturally arising in knot theory are NP--hard or NP--complete. These are the problems of obtaining one diagram from another one of a link in a bounded number of Reidemeister moves, determining whether a link has an unlinking or splitting number k, finding a k-component unlink as a sublink, and finding a k-component alternating sublink.

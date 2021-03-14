@@ -1,0 +1,1 @@
+We define some approximation schemes for different kinds of generalized backward stochastic differential systems, considered in the Markovian framework. We propose a mixed approximation scheme for a decoupled system of forward reflected SDE and backward stochastic variational inequality. We use an Euler scheme type, combined with Yosida approximation techniques.

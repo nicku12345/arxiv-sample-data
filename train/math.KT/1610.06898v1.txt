@@ -1,0 +1,1 @@
+We give a new proof of a result of Lazarev, that the dual of the circle S^1_+ in the category of spectra is equivalent to a strictly square-zero extension as an associative ring spectrum. As an application, we calculate the topological cyclic homology of DS^1 and rule out a Koszul-dual reformulation of the Novikov conjecture.

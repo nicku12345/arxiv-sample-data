@@ -1,0 +1,1 @@
+We introduce the concept of a \mu-scale invariant operator with respect to unitary transformation in a separable complex Hilbert space. We show that if a nonnegative densely defined symmetric operator is \mu-scale invariant for some \mu >0, then both the Friedrichs and the Krein-von Neumann extensions are also \mu-scale invariant.

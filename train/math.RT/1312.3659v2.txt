@@ -1,0 +1,1 @@
+We consider module categories of path algebras of connected acyclic quivers. It is shown in this paper that the set of functorially finite torsion classes form a lattice if and only if the quiver is either Dynkin quiver of type A, D, E, or the quiver has exactly two vertices.

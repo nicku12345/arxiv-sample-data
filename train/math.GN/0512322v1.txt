@@ -1,0 +1,1 @@
+We investigate some topological properties of a normal functor H introduced earlier by Radul which is some functorial compactification of the Hartman--Mycielski construction HM. We prove that the pair (HX, HMY) is homeomorphic to the pair (Q,\sigma) for each nondegenerated metrizable compactum X and each dense \sigma-compact subset Y.

@@ -1,0 +1,1 @@
+Sufficient geometric conditions are given which determine when the Cauchy-Pexider functional equation f(x)g(y)=h(x+y) restricted to x,y lying on a hypersurface in R^d has only solutions which extend uniquely to exponential affine functions. Some related functional equations are also considered.

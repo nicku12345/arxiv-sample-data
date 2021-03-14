@@ -1,0 +1,1 @@
+We answer a question of Darji and Keleti by proving in ZFC that there exists a compact nullset C_0\subset\RR such that for every perfect set P\subset\RR there exists x\in\RR such that (C_0+x)\cap P is uncountable. Using this C_0 we answer a question of Gruenhage by showing that it is consistent with ZFC that less than 2^\omega many translates of a compact nullset cover \RR.

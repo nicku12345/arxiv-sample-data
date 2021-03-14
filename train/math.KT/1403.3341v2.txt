@@ -1,0 +1,1 @@
+In this paper we prove that the zeroth Milnor-Thurston homology group coincides with singular homology for Peano Continua. More- over, we show that the canonical homomorphism between these ho- mology theories may not be injective. However, it is proved that it is injective when a space has Borel path-components.

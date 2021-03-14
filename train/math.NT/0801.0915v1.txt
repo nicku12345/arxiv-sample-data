@@ -1,0 +1,1 @@
+We present an algorithm for computing the 2-group of narrow logarithmic divisor classes of degree 0 for number fields F. As an application, we compute in some cases the 2-rank of the wild kernel WK2(F).

@@ -1,0 +1,1 @@
+We establish the large deviation principle for stochastic differential equations with averaging in the case when all coefficients of the fast component depend on the slow one, including diffusion.

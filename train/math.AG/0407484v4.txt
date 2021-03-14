@@ -1,0 +1,1 @@
+We start the classification of smooth projective threefolds X whose anticanonical bundles -K_X are big and nef but not ample. In this paper we treat the case b_2(X) = 2 and the morphism associated with the base point free linear system |-mK_X|, m>>0, is divisorial.

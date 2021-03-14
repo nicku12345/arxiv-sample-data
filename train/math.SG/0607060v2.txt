@@ -1,0 +1,1 @@
+The Donagi-Markman cubic is the differential of the period map for algebraic completely integrable systems. Here we prove a formula for the cubic in the case of Hitchin's system for arbitrary \mathfrak g. This was originally stated (without proof) by Pantev for {\mathfrak sl}_n.

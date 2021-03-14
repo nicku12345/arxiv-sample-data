@@ -1,0 +1,1 @@
+The Prym map of type (g,n,r) associates to every cyclic covering of degree n of a curve of genus g, ramified at a reduced divisor of degree r, the corresponding Prym variety. We show that the corresponding map of moduli spaces is generically finite in most cases. From this we deduce the dimension of the image of the Prym map.

@@ -1,0 +1,1 @@
+We study \gamma_{k}(x_2,...,x_k;t), the k-fold renormalized self-intersection local time for Brownian motion in R^1. Our main result says that \gamma_{k}(x_2,...,x_k;t) is continuously differentiable in the spatial variables, with probability 1.

@@ -1,0 +1,1 @@
+We introduce decomposition complexes of posets, which generalize order complexes. The main advantage of our construction is that decomposition complexes are closed under taking products. Other special instances of this theory include nested set complexes as well as Bergman complexes.

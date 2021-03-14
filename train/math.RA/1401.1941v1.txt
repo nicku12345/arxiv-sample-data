@@ -1,0 +1,1 @@
+In this paper we extend the study of total graphs \tau(R) to non-commutative finite rings R. We prove that \tau(R) is connected if and only if R is not local and we see that in that case \tau(R) is always Hamiltonian. We also find an upper bound for the domination number of \tau(R) for all finite rings R.

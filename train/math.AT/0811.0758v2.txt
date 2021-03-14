@@ -1,0 +1,1 @@
+Let \otimes be the map which classifies the tensor product of two line bundles, an extension of this map to the space of all codimension 1 algebraic cycles is constructed. It is proved that this extension cannot exist in codimension greater than 1.

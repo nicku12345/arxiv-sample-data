@@ -1,0 +1,1 @@
+We prove that any homotopy type can be recovered canonically from its associated weak omega-groupoid. This implies that the homotopy category of CW-complexes can be embedded in the homotopy category of Batanin's weak higher groupoids.

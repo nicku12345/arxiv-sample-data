@@ -1,0 +1,1 @@
+Gurevich and Shelah have shown that Peano Arithmetic cannot be interpreted in the monadic second-order theory of short chains (hence, in the monadic second-order theory of the real line). We show here that it is consistent that there is no interpretation even in the monadic second-order theory of all chains.

@@ -1,0 +1,1 @@
+In this article the almost semi-continuous step-process \xi (t) is considered. The conditional characteristic functions of the jumps of \xi (t) have the form \mathrm{E} [ e^{i\alpha \xi_k}/\xi_k>0 ]=c(c-i\alpha)^{-1}. For such processes the boundary functionals connected with the exit from the finite interval are investigated.

@@ -1,0 +1,1 @@
+In this paper we develop a new technique to compute the Betti table of a monomial ideal. We present a prototype implementation of the resulting algorithm and we perform numerical experiments suggesting a very promising efficiency. On the way of describing the method, we also prove new constraints on the shape of the possible Betti tables of a monomial ideal.

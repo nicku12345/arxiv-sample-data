@@ -1,0 +1,1 @@
+We establish the existence of Bogoliubov's local scattering operators for P(\phi)_2 models of constructive quantum field theory in a nonperturbative way. To this end, we use the technique of evolution semigroups to prove a new result on wellposedness of the Cauchy problem for the time-dependent Schr\"odinger equation under very general assumptions.

@@ -1,0 +1,1 @@
+Following Sun and Moll, we study v_p(T(N)), the p-adic valuation of the counting function of the alternating sign matrices. We find an exact analytic expression for it that exhibits the fluctuating behaviour, by means of Fourier coefficients. The method is the Mellin-Perron technique, which is familiar in the analysis of the sum-of-digits function and related quantities.

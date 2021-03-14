@@ -1,0 +1,1 @@
+We show that a (complex) C_\sigma-space is separably injective if and only if it is linearly isometric to the Banach space C_0(\Omega) of complex continuous functions vanishing at infinity on a substonean locally compact Hausdorff space \Omega.

@@ -1,0 +1,1 @@
+We show that several portions of the complement M\setminus L of the Lagrange spectrum L in the Markov spectrum M can be seen as subsets of arithmetic sums of Cantor sets with controlled Hausdorff dimensions. In particular, we prove that M\setminus L has Hausdorff dimension strictly smaller than one.

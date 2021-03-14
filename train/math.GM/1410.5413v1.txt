@@ -1,0 +1,1 @@
+This paper presents the basic principles of partition of unity systems and B-splines. Analysis of these systems is performed using Fourier analysis, multi-resolution analysis, and wavelet analysis.

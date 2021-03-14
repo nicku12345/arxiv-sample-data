@@ -1,0 +1,1 @@
+We consider the beta-Laguerre ensemble, a family of distributions generalizing the joint eigenvalue distribution of the Wishart random matrices. We show that the bulk scaling limit of these ensembles exists for all beta>0 for a general family of parameters and it is the same as the bulk scaling limit of the corresponding beta-Hermite ensemble.

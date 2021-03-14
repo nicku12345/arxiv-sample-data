@@ -1,0 +1,1 @@
+We extend the classic Priestley-Stone duality to a Wallman-like duality for subbases of general stably locally compact spaces. As a corollary, we show that any locally compact T_0 space X has a unique minimal 'stabilisation', i.e. a stably locally compact space containing X as a patch-dense subspace, which is moreover functorial with respect to proper maps.

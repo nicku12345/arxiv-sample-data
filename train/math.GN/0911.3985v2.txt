@@ -1,0 +1,1 @@
+We study the topological structure of the direct limit \glim G_n of a tower of topological groups (G_n) in the category of topological groups and show that under some conditions on the tower (G_n) the topology of \glim G_n coincides with the topology of the direct limit \ulim G_n of the groups G_n endowed with the Roelcke uniformity in the category of uniform spaces.

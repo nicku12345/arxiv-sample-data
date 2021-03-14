@@ -1,0 +1,1 @@
+In any infinite dimensional Hilbert space \mathcal H there exist orthogonal projections Q_1, Q_2 and Q_3, such that a sequence (P_n... P_1(x)) diverges in norm for some P_1,P_2,...\in\{Q_1,Q_2,Q_3\} and x\in\mathcal H.

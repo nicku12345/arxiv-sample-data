@@ -1,0 +1,1 @@
+We show that the only endofunctors of the category of quandles commuting with the forgetful functor to sets are the power operations. We also give a similar statement for racks.

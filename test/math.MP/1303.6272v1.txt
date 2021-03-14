@@ -1,0 +1,1 @@
+An expression for the Lie algebra cocycle corresponding to the central extension of the group GLres(H) is derived in the book Loop Groups [1]. It will be shown in this paper that some of the terms in this expression are ambiguous and in order to be evaluated correctly the trace operation must be properly defined.

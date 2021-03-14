@@ -1,0 +1,1 @@
+We construct a category of flat vector bundles on an elliptic curve. It arises in the representation theory of quantum affine algebras and carries meromorphic braided structure with singularities on the diagonal of the square of the curve.

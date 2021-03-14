@@ -1,0 +1,1 @@
+We present a method of constructing symmetric monoidal bicategories from symmetric monoidal double categories that satisfy a lifting condition. Such symmetric monoidal double categories frequently occur in nature, so the method is widely applicable, though not universally so.

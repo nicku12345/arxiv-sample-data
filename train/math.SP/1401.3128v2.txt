@@ -1,0 +1,1 @@
+We compute the Coxeter polynomial of a family of Salem trees, and also the limit of the spectral radii of their Coxeter transformations as the number of their vertices tends to infinity. We also prove a relation about multiplicities of eigenvalues of Coxeter transformations of joins of trees.

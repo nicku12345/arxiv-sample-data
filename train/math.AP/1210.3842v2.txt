@@ -1,0 +1,1 @@
+We establish global existence for the energy-critical nonlinear Schr\"odinger equation on \mathbb{S}^3. This follows similar lines to the work on \mathbb{T}^3 but requires new extinction results for linear solutions and bounds on the first nonlinear iterate at a Euclidean profile that are adapted to the new geometry.

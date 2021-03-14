@@ -1,0 +1,1 @@
+Let F be a global field, A a central simple algebra over F and K a finite (separable or not) field extension of F with degree [K:F] dividing the degree of A over F. An embedding of K in A over F exists implies an embedding exists locally everywhere. In this paper we give detailed discussions when the converse (i.e. the local-global principle in question) may hold.

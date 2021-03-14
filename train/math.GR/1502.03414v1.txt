@@ -1,0 +1,1 @@
+We calculate zeta and normal zeta functions of space groups with the point group isomorphic to the cyclic group of order 2. The obtained results are applied to determine the number of subgroups, resp. normal subgroups, of a given index for each of these groups.

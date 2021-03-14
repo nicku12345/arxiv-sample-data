@@ -1,0 +1,1 @@
+The Littlewood Conjecture states that liminf_{q\to \infty} q . ||qx|| . ||qy|| = 0 for all pairs (x,y) of real numbers. We show that with the additional factor of log q . loglog q the statement is false. Indeed, our main result implies that the set of (x,y) for which liminf_{q\to\infty} q . log q . loglog q . ||qx|| . ||qy|| > 0 is of full dimension.

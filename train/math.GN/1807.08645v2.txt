@@ -1,0 +1,1 @@
+We characterize when the Zariski space \mathrm{Zar}(K|D) (where D is an integral domain, K is a field containing D and D is integrally closed in K) and the set \mathrm{Zar_{min}}(L|D) of its minimal elements are Noetherian spaces.

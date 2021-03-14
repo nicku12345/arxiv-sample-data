@@ -1,0 +1,1 @@
+We prove the smoothness of the L^2-analytic torsion form on some fiber bundles with non-compact fibers of positive Novikov-Shubin invariant. We do so by generalizing the arguments of Azzali-Goette-Schick to an appropriate Sobolev space, and proving that the Novikov-Shubin invariant remains positive in the Sobolev settings, using an argument of Alvarez Lopez-Kordyukov.

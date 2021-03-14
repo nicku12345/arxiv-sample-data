@@ -1,0 +1,1 @@
+RO*-algebras are defined and studied. For RO*-algebra T, using properties of partial order, it is established that the set of bounded elements can be endowed with C*-norm. The structure of commutative subalgebras of T is considered and the Spectral Theorem for any self-adjoint element of T is proven.

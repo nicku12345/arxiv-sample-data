@@ -1,0 +1,1 @@
+This is an expository note on non-amenabilty of the Banach algebra B(\ell_p) for p=1,2. These were proved respectively by Connes (p=2) and Read (p=1) via very different methods. We give a single proof which reproves both.

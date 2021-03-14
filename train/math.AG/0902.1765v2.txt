@@ -1,0 +1,1 @@
+Let K = K(C) be the function field of a smooth curve C. Applying the result of [Xu08], we prove that if S/K is a degree one or two del Pezzo surface which can be completed to a generic family in the parametrizing space over C, then weak approximation holds at every place c \in C.

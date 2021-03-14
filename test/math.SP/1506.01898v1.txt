@@ -1,0 +1,1 @@
+We study small, PT-symmetric perturbations of self-adjoint double-well Schr\"odinger operators in dimension n\geq 1. We prove that the eigenvalues stay real for a very small perturbation, then bifurcate to the complex plane as the perturbation gets stronger.

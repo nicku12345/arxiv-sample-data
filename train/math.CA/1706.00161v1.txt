@@ -1,0 +1,1 @@
+This paper deals with the local existence and uniqueness results for the solution of fractional differential equations with Hilfer-Hadamrd fractional derivative. Using Picard's approximations and generalizing the restrictive conditions imposed on nonlinear function, the iterative scheme for uniformly approximating the solution is constructed.

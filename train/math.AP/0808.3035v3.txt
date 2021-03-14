@@ -1,0 +1,1 @@
+We prove quantitative unique continuation results for the semiclassical Schrodinger operator on smooth, compact domains. These take the form of exponentially decreasing (in h) local L^{2} lower bounds for exponentially precise quasimodes. We also show that these lower bounds are sharp in h, and that, moreover, the hypothesized quasimode accuracy is also sharp.

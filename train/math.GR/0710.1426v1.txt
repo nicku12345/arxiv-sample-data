@@ -1,0 +1,1 @@
+If f is a nontrivial automorphism of a thick building Delta of purely infinite type, we prove that there is no bound on the distance that f moves a chamber. This has the following group-theoretic consequence: If G is a group of automorphisms of Delta with bounded quotient, then the center of G is trivial.

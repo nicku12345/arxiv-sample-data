@@ -1,0 +1,1 @@
+In this paper, we study the performance of finite-length LDPC codes in the waterfall region. We propose an algorithm to predict the error performance of finite-length LDPC codes over various binary memoryless channels. Through numerical results, we find that our technique gives better performance prediction compared to existing techniques.

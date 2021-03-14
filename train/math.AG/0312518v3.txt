@@ -1,0 +1,1 @@
+We classify all irreducible projective threefolds X which are k-defective, i.e. some k-secant variety of X has dimension less than the expected value. This results extends the classical Scorza's classification of the case k=1.

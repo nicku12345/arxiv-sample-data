@@ -1,0 +1,1 @@
+In this expository article, the real numbers are defined as infinite decimals. After defining an ordering relation and the arithmetic operations, it is shown that the set of real numbers is a complete ordered field. It is further shown that any complete ordered field is isomorphic to the constructed set of real numbers.

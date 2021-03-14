@@ -1,0 +1,1 @@
+We study the behaviour as t\to\infty of solutions (c_j(t)) to the Redner--Ben-Avraham--Kahng coagulation system with positive and compactly supported initial data, rigorously proving and slightly extending results originally established in [4] by means of formal arguments.

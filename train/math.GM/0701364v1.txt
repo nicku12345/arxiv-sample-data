@@ -1,0 +1,1 @@
+A functional Menger system is a set of n-place functions containing n projections and closed under the so-called Menger's composition of n-place functions. We give the abstract characterization for subsets of these functional systems which contain functions having one common fixed point.

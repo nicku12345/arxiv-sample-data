@@ -1,0 +1,1 @@
+We describe inverse scattering for the matrix Schroedinger operator with general selfadjoint boundary conditions at the origin using the Marchenko equation. Our approach allows the recovery of the potential as well as the boundary conditions. It is easily specialised to inverse scattering on star-shaped graphs with boundary conditions at the node.

@@ -1,0 +1,1 @@
+We prove that the Diophantine problem for orientable quadratic equations in free metabelian groups is decidable and furthermore, NP-complete. In the case when the number of variables in the equation is bounded, the problem is decidable in polynomial time.

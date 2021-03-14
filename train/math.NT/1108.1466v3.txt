@@ -1,0 +1,1 @@
+We analyze the inequality \sqrt{P_{k+1}}-\sqrt{P_{k}}<1,\ k\in\mathbb{N}, discuss the existence of primes on arbitrary intervals (r,s),\ r<s,\ r,s\in\mathbb{R}, and finally address the issue of primes between squares of naturals.

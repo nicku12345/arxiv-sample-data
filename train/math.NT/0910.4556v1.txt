@@ -1,0 +1,1 @@
+In this note, first we show that there is no stable quadratic polynomial over finite fields of characteristic two and then show that there exist stable quadratic polynomials over function fields of characteristic two.

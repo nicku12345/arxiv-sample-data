@@ -1,0 +1,1 @@
+Let A and A! be dual Koszul algebras. By Positselski a filtered algebra U with gr U = A is Koszul dual to differential graded algebra (A!,d). We relate the module categories of this dual pair by a tensor-Hom adjunction. This descends to give an equivalence of suitable quotient categories and generalizes work of Beilinson, Ginzburg and Soergel.

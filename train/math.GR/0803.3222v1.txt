@@ -1,0 +1,1 @@
+Let G be a finite nilpotent group, \chi and \psi be irreducible complex characters of G of prime degree. Assume that \chi(1)=p. Then either the product \chi\psi is a multiple of an irreducible character or \chi\psi is the linear combination of at least \frac{p+1}{2} distinct irreducible characters.

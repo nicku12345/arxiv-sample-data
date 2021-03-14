@@ -1,0 +1,1 @@
+This note simplifies the proof of a recent result on the oscillation of the prime product in Martens Theorem, and provides a quantitative expression for the error term. In addition, the corresponding oscillation results for the finite sums of the reciprocal of the primes up to a fixed number and other finite sums and products are also given.

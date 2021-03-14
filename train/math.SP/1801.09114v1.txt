@@ -1,0 +1,1 @@
+This paper proves that the domain of the Laplacian, \DEL, on a closed Riemannian manifold, (M,g), is compactly embedded in L^{2} (M) . Particularly, the resolvent of the Laplacian, (\DEL + 1)^{-1}, is shown to be compactly embedded on the torus.

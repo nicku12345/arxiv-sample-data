@@ -1,0 +1,1 @@
+In \R^d, for any dimension d\geq 1, expansions of self-intersection local times of fractional Brownian motions with arbitrary Hurst coefficients in (0,1) are presented. The expansions are in terms of Wick powers of white noises (corresponding to multiple Wiener integrals), being well-defined in the sense of generalized white noise functionals.

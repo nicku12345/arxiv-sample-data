@@ -1,0 +1,1 @@
+We compare the compactness of composition operators on H^2 and on Orlicz-Hardy spaces H^\Psi. We show in particular that exists an Orlicz function \Psi such that H^{3+\eps} \subseteq H^\Psi \subseteq H^3 for every \eps >0, and a composition operator C_\phi which is compact on H^3 and on H^{3+\eps}, but not compact on H^\Psi.

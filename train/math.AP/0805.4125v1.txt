@@ -1,0 +1,1 @@
+We study the existence and the properties of the reduced measures for the parabolic equations \partial_tu-\Delta u+g(u)=0 in \Omega\times (0,\infty) subject to the conditions (P): u=0 on \partial\Omega\times (0,\infty), u(x,0)=\mu and (P'): u=\mu' on \partial\Omega\times (0,\infty), u(x,0)=0 where \mu and \mu' are positive Radon measures and g a continuous nondecreasing function

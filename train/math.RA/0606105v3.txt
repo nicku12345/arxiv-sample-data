@@ -1,0 +1,1 @@
+Let P be a quadratic operad. We determine an associated operad ~P such that for any P-algebra A and any ~P-algebra B then the tensor product A \otimes B is a P-algebra.

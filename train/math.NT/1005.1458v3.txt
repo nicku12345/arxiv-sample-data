@@ -1,0 +1,1 @@
+Averaging over imaginary quadratic fields, we prove, quantitatively, the equidistribution of CM points associated to 3-torsion classes in the class group. We conjecture that this equidistribution holds for points associated to ideals of any fixed odd order. We prove a partial equidistribution result in this direction and present empirical evidence.

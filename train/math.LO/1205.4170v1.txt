@@ -1,0 +1,1 @@
+We develop a notion of cell decomposition suitable for studying weak p- adic structures (reducts of p-adic fields where addition and multiplication are not (everywhere) definable). As an example, we apply this to a language with restricted addition.

@@ -1,0 +1,1 @@
+We show that the homotopy category of injective A-modules is generically trivial if and only if the derived category of all modules is generically trivial for an algebra A. Moreover we show some connections between the generic objects, locally finiteness and Krull-Gabriel dimension.

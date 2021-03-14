@@ -1,0 +1,1 @@
+The large deviations of an infinite moving average process with exponentially light tails are very similar to those of an i.i.d. sequence as long as the coefficients decay fast enough. If they do not, the large deviations change dramatically. We study this phenomenon in the context of functional large, moderate and huge deviation principles.

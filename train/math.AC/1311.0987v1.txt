@@ -1,0 +1,1 @@
+Let (R, \frak m) be a Noetherian local ring, M a finitely generated R-module. The aim of this paper is to prove a uniform formula for the index of reducibility of paprameter ideals of M provided the polynomial type of M is at most one.

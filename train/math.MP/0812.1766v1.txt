@@ -1,0 +1,1 @@
+We evaluate binomial series with harmonic number coefficients, providing recursion relations, integral representations, and several examples. The results are of interest to analytic number theory, the analysis of algorithms, and calculations of theoretical physics, as well as other applications.

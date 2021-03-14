@@ -1,0 +1,1 @@
+The warping sum e(K) of a knot K is the minimal value of the sum of the warping degrees of a minimal diagram of K with both orientations. In this paper, knots K with e(K) \le 3 are characterized, and some knots K with e(K)=4 are given.

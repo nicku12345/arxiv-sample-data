@@ -1,0 +1,1 @@
+Let G be a non-abelian group and Z(G) be the center of G. The non-commuting graph \Gamma_G associated to G is the graph whose vertex set is G\setminus Z(G) and two distinct elements x,y are adjacent if and only if xy\neq yx. We prove that if G and H are non-abelian nilpotent groups with irregular isomorphic non-commuting graphs, then |G|=|H|.

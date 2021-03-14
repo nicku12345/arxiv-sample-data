@@ -1,0 +1,1 @@
+We introduce our package '+Ideals' for Magma, designed to perform the basic tasks related to ideals in number fields without pre-computing integral bases. It is based on Montes algorithm and a number of local techniques that we have developed in a series of papers in the last years.

@@ -1,0 +1,1 @@
+We prove that \mu_{k+m}^m <\lambda_k^m, where \mu_k^m (\lambda_k^m) are the eigenvalues of (-\Delta)^m on \Omega\subset\mathbb R^d, d\geq 2, with Neumann (Dirichlet) boundary conditions.

@@ -1,0 +1,1 @@
+State monads in cartesian closed categories are those defined by the familiar adjunction between product and exponential. We investigate the structure of their algebras, and show that the exponential functor is monadic provided the base category is sufficiently regular, and the exponent is a non-empty object.

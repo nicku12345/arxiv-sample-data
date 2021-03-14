@@ -1,0 +1,1 @@
+We prove that all the symbolic powers of a Stanley-Reisner ideal are Cohen-Macaulay if and only if the associated simplicial complex is a matroid.

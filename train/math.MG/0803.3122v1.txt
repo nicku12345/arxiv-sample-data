@@ -1,0 +1,1 @@
+The classical Fubini theorem asserts that the multiple integral is equal to the repeated one for any integrable function on a product measure space. In this paper, we derive an asymptotic variant of the Fubini theorem for maps into CAT(0)-spaces from the L^1 and L^2-concentration of the maps.

@@ -1,0 +1,1 @@
+We prove Furuta-type bounds for the intersection forms of spin cobordisms between homology 3-spheres. The bounds are in terms of a new numerical invariant of homology spheres, obtained from Pin(2)-equivariant Seiberg-Witten Floer K-theory. In the process we introduce the notion of a Floer K_G-split homology sphere; this concept may be useful in an approach to the 11/8 conjecture.

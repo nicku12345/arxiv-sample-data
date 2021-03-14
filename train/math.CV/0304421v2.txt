@@ -1,0 +1,1 @@
+For p_1,...,p_n>0, let \mathbb E=\{z\in\mathbb C^n:\sum_{j=1}^n|z_j|^{2p_j}<1\} be a complex ellipsoid. We present effective formulas for the generalized M\"obius and Green functions m_{\mathbb E}(A,\cdot), g_{\mathbb E}(A,\cdot) in the case where A:=\{z\in\mathbb E:z_1\cdot...\cdot z_k=0\} (1\leq k\leq n).

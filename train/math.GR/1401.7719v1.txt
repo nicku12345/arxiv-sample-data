@@ -1,0 +1,1 @@
+In the paper, it is proved that if a finite group G possesses a \pi-Hall subgroup for a set \pi of primes, then every normal subgroup A of G possesses a \pi-Hall subgroup H such that {G=AN_G(H)}.

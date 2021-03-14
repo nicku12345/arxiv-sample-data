@@ -1,0 +1,1 @@
+We characterize Giuga Numbers as solutions to the equation n'=an+1, with a \in \mathbb{N} and n' being the arithmetic derivative. Although this fact does not refute Lava's conjecture, it brings doubts about its veracity.

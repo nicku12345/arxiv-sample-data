@@ -1,0 +1,1 @@
+A multidimensional basis of p-adic wavelets is constructed. The relation of the constructed basis to a system of coherent states (i.e. orbit of action) for some p-adic group of linear transformations is discussed. We show that the set of products of the vectors from the constructed basis and p-roots of one is the orbit of the corresponding p-adic group of linear transformations.

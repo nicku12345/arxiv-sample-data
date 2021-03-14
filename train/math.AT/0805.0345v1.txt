@@ -1,0 +1,1 @@
+In this note we prove that any integral closed k-form \phi ^k, k\ge 3, on a m-dimensional manifold M^m, m \ge k, is the restriction of a universal closed k-form h^k on a universal manifold U^{d(m,k)} as a result of an embedding of M^m to U^{d(m,k)}.

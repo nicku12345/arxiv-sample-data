@@ -1,0 +1,1 @@
+Brady proved that there are hyperbolic groups with finitely presented subgroups that are not of type FP_3 (and hence not hyperbolic). We reprove Brady's theorem by presenting a new construction. Our construction uses Bestvina-Brady Morse theory, but does not involve branched coverings.

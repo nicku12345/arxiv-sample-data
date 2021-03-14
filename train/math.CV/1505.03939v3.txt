@@ -1,0 +1,1 @@
+In this paper it is shown that every compact two-dimensional manifold S, with or without boundary, can be embedded in \mathbb C^3 as a smooth submanifold \Sigma in such a way that the polynomially convex hull of \Sigma, though strictly larger than \Sigma, contains no analytic disc.

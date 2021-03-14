@@ -1,0 +1,1 @@
+We prove that if an amenable operator algebra is nearly contained in a complemented dual operator algebra, then it can be embedded inside this dual operator algebra via a similarity. The proof relies on a B.E. Johnson Theorem on approximately multiplicative maps.

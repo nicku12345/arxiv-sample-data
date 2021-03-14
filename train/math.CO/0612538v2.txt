@@ -1,0 +1,1 @@
+In this note we document the existence of a finitely generated rational cone that is not covered by its unimodular Hilbert subcones, but satisfies the integral Caratheodory property. We explain the algorithms that decide these properties and describe our experimental approach that led to the discovery of the examples.

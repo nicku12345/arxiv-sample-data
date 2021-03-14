@@ -1,0 +1,1 @@
+We prove a function field analogue of the Herbrand-Ribet theorem on cyclotomic number fields. The Herbrand-Ribet theorem can be interpreted as a result about cohomology with \mu_p-coefficients over the splitting field of \mu_p, and in our analogue both occurrences of \mu_p are replaced with the \mathfrak{p}-torsion scheme of the Carlitz module for a prime \mathfrak{p} in \F_q[t].

@@ -1,0 +1,1 @@
+We derive asymptotic formulas for the Lyapunov exponent of almost all monotone Boolean networks. The formulas are different depending on whether the number of variables of the constituent Boolean functions, or equivalently, the connectivity of the Boolean network, is even or odd.

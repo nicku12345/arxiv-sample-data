@@ -1,0 +1,1 @@
+We address a Jordan version of Johnson theorem on (associative) algebras of quotients, namely whether a strongly nonsingular (the Jordan version of nonsingularity) has a von Neumann regular algebra of quotients. Although the answer is negative in general, we prove that the result holds in the important case of algebras satisfying a polynomial identity.

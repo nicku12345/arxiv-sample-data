@@ -1,0 +1,1 @@
+The famous Jacobian conjecture asks if a morphism f:K[x,y]\to K[x,y] having an invertible Jacobian is invertible (K is a characteristic zero field). We show that if one of the following three equivalent conditions is satisfied, then f is invertible: K[f(x),f(y)][x+y] is normal; K[x,y] is flat over K[f(x),f(y)][x+y]; K[f(x),f(y)][x+y] is separable over K[f(x),f(y)].

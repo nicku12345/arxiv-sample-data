@@ -1,0 +1,1 @@
+The aim of this paper is to show that if an order preserving bijective transformation of the Hilbert space effect algebra also preserves the probability with respect to a fixed pair of mixed states, then it is an ortho-order automorphism. A similar result for the orthomodular lattice of all sharp effects (i.e., projections) is also presented.

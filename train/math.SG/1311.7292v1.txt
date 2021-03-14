@@ -1,0 +1,1 @@
+We compute the integral homology of the space of paths in \mathbb{C}P^n with endpoints in \mathbb{R}P^n, n \ge 1 and its algebra structure with respect to the Pontryagin-Chas-Sullivan product with \mathbb{Z}/2-coefficients.

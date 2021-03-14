@@ -1,0 +1,1 @@
+Let D be a divisor in {\bf C}^n. We present methods to compare the {\mathcal D}-module of the meromorphic functions {\mathcal O}[* D] to some natural approximations. We show how the analytic case can be treated with computations in the Weyl algebra.

@@ -1,0 +1,1 @@
+For any prime number p and any positive real number {\alpha}, we construct a finitely generated group {\Gamma} with p-gradient equal to {\alpha}. This construction is used to show that there exist uncountably many pairwise non-commensurable groups that are finitely generated, infinite, torsion, non-amenable, and residually-p.

@@ -1,0 +1,1 @@
+We introduce balanced polyominoes and show that their ideal of inner minors is a prime ideal and has a quadratic Gr\"obner basis with respect to any monomial order, and we show that any row or column convex and any tree-like polyomino is simple and balanced.

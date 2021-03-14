@@ -1,0 +1,1 @@
+In this paper we establish a fundamental structural result for formal series encoding the total non-archimedean masses of quadratic lattices of varying determinant squareclasses, but with fixed rank n and signature over any fixed number field. We conclude with some local computations for n=2, and use these to derive an analytic class number formula for CM extensions.

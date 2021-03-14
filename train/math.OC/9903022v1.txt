@@ -1,0 +1,1 @@
+We propose a tuner, suitable for adaptive control and (in its discrete-time version) adaptive filtering applications, that sets the second derivative of the parameter estimates rather than the first derivative as is done in the overwhelming majority of the literature. Comparative stability and performance analyses are presented.

@@ -1,0 +1,1 @@
+In this paper, we associate a growth graph and a length operator to a quotient space of a semisimple compact Lie group. Under certain assumptions, we show that the spectral dimension of a homogeneous space is greater than or equal to summability of the length operator. Using this, we compute spectral dimensions of spheres.

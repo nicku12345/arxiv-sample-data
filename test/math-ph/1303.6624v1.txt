@@ -1,0 +1,1 @@
+The class of stochastic maps, that is, linear, trace-preserving, positive maps between the self-adjoint trace class operators of complex separable Hilbert spaces plays an important role in the representation of reversible dynamics and symmetry transformations. Here a characterization of the isometric stochastic maps is given and possible physical applications are indicated.

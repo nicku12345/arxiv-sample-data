@@ -1,0 +1,1 @@
+We study the attractor of Iterated Function Systems composed of infinitely many affine, homogeneous maps. In the special case of second generation IFS, defined herein, we conjecture that the attractor consists of a finite number of non-overlapping intervals. Numerical techniques are described to test this conjecture, and a partial rigorous result in this direction is proven.

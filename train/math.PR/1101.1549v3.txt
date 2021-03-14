@@ -1,0 +1,1 @@
+We consider directed first passage percolation on the integer lattice, with time constant \mu and passage time a_{0n} from the origin to (n,0,...,0). It is shown that under certain conditions on the passage time distribution, Ea_{0n} - n\mu = O(n^{1/2}(\log\log n)/\log n).

@@ -1,0 +1,1 @@
+We use reduced homogeneous coordinates to study Riemannian geometry of the octonionic (or Cayley) projective plane. Our method extends to the para-octonionic (or split octonionic) projective plane, the octonionic projective plane of indefinite signature, and the hyperbolic dual of the octonionic projective plane; we discuss these manifolds in the later sections of the paper.

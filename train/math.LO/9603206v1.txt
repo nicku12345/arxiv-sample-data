@@ -1,0 +1,1 @@
+We construct two universes V_1, V_2 satisfying the following: GCH below \aleph_\omega, 2^{\aleph_\omega} = \aleph_{\omega+2} and the topological density of the space 2^{\aleph_\omega} with \aleph_0 box product topology is \aleph_{\omega+1} in V_1 and \aleph_{\omega+2} in V_2. Further related results are discussed as well.

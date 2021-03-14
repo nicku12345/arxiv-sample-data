@@ -1,0 +1,1 @@
+In this work we prove Malliavin differentiability for the solution to an SDE with locally Lipschitz and semi-monotone drift. To this end we construct a sequence of SDEs with globally Lipschitz drifts. We show that the solutions of these SDEs converge to the solution of the original SDE and the p-moments of their Malliavin derivatives are uniformly bounded.

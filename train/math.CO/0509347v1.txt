@@ -1,0 +1,1 @@
+We prove, via 30 seconds of Maple computation, that there are 10^n words in the alphabet {3,-2} of length 5n, sum 0, and such that every factor that sums to 0 and that starts with a 3 may not be immediately followed by a -2.

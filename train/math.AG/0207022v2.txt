@@ -1,0 +1,1 @@
+Smooth projective varieties X over a finite field k with CH_0(X\otimes \bar{k(X)})=\mathbb Z have a rational point, in particular Fano varieties. We also refer to http://link.springer.de/link/service/journals/00222/tocs.htm where the last version, cleaned from some typos, should be published online.

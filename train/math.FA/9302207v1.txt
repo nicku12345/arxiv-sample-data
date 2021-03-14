@@ -1,0 +1,1 @@
+We will show that for q<p there exists an \al < \infty such that \[ \pi_{pq}(T) \pl \le c_{pq} \pi_{pq}^{[n^{\alpha}]}(T) \mbox{for all T of rank n.}\] Such a polynomial number is only possible if q=2 or q<p. Furthermore, the growth rate is linear if q=2 or \frac{1}{q}-\frac{1}{p}>\frac{1}{2}. Unless \frac{1}{q}-\frac{1}{p}=\frac{1}{2} this is also a necessary condition .

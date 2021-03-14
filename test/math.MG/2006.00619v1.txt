@@ -1,0 +1,1 @@
+In this note, we investigate an infinite one parameter family of circle packings, each with a set of three mutually tangent circles. We use these to generate an infinite set of circle packings with the Apollonian property. That is, every circle in the packing is a member of a cluster of four mutually tangent circles.

@@ -1,0 +1,1 @@
+It is shown that for a map f \colon X \to Y of compact spaces the unital \ast-homomorphism C(f) \colon C(Y) \to C(X) is projective in the category \operatorname{Mor}({\mathcal C}^{1}) precisely when X is a dendrite and f is either homeomorphism or a constant.

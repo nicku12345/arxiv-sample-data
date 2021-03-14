@@ -1,0 +1,1 @@
+For the zone of moderate deviation probabilities the local asymptotic minimax lower bound of asymptotic efficiency of estimators is established. The estimation parameter is multidimensional. The lower bound admits the interpretation as the lower bound of asymptotic efficiency in confidence estimation.

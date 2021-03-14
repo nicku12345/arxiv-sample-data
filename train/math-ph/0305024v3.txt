@@ -1,0 +1,1 @@
+We prove the convergence of the solutions of the parabolic wave equation to that of the Gaussian white-noise model widely used in the physical literature. The random medium is isotropic and is assumed to have integrable correlation coefficient in the propagation direction. We discuss the limits of vanishing inner scale and divergent outer scale of the turbulent medium.

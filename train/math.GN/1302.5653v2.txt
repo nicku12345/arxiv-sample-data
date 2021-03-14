@@ -1,0 +1,1 @@
+In each manifold M modeled on a finite or infinite dimensional cube [0,1]^n we construct a meager F_\sigma-subset X\subset M which is universal meager in the sense that for each meager subset A\subset M there is a homeomorphism h:M\to M such that h(A)\subset X. We also prove that any two universal meager F_\sigma-sets in M are ambiently homeomorphic.

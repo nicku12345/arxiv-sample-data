@@ -1,0 +1,1 @@
+Let A be a unital simple separable C*-algebra satisfying the UCT. Assume that \mathrm{dr}(A)<+\infty, A is Jiang-Su stable, and \mathrm{K}_0(A)\otimes \mathbb{Q}\cong \mathbb{Q}. Then A is an ASH algebra (indeed, A is a rationally AH algebra).

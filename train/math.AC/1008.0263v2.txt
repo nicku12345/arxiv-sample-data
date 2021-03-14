@@ -1,0 +1,1 @@
+Using multiple Bernoulli series, we give a formula in the spirit of Euler MacLaurin formula. We also give a wall crossing formula and a decomposition formula. The study of these series is motivated by formulae of E.Witten for volumes of moduli spaces of flat bundles over a surface.

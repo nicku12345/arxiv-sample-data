@@ -1,0 +1,1 @@
+This is a survey article describing the various ways in which the Kauffman bracket skein module is a quantization of surface group characters. These include a purely heuristic sense of deformation of a presentation, a Poisson quantization, and a lattice gauge field theory quantization.

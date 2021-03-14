@@ -1,0 +1,1 @@
+Let K be an algebraically closed field. For a graded K-Algebra R, we write cmdef R:=dim R -depth R. We show that for each reductive group G (over K) which is not linearly reductive, there exists a faithful G-module V such that cmdef K[\sum_i=1^k V]^G >= k-2 for all k. We will give such a V explicitly.

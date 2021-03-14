@@ -1,0 +1,1 @@
+We show that there is a positive constant c_0 such that \[\sum_{n\le x}\mu^2(n^2+1)c_0x+O_{\varepsilon}(x^{7/12+\varepsilon})\] for any fixed \varepsilon>0. This improves a result of Estermann [3] from 1931, in which the error term had an exponent 2/3. The proof involves counting rational points near an algebraic curve, which is done via the "determinant method."

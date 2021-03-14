@@ -1,0 +1,1 @@
+In this paper we present a differential variational inequality formulation of dynamic network user equilibrium with elastic travel demand. We discuss its qualitative properties and provide algorithms for and examples of its solution.

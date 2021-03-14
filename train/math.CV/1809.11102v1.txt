@@ -1,0 +1,1 @@
+The paper puts forward an example of a~Markov function f=\operatorname{const}+\widehat{\sigma} such that the three functions f,f^2 and f^3 form a Nikishin system. A conjecture is proposed that there exists a~Markov function f such that, for each n\in\mathbb N, the system f,f^2,\dots,f^n constitutes a~Nikishin system.   Bibliography:~20~titles.

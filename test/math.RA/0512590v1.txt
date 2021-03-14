@@ -1,0 +1,1 @@
+A necessary and sufficient condition for the convergence of an infinite right product of matrices of the form | I B |   A = | 0 C |, with (uniformly) contracting submatrices C, is proven.

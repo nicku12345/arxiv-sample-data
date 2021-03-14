@@ -1,0 +1,1 @@
+This paper completes the classification of regular Lagrangian fibratiopns over compact surfaces. \cite{misha} classifies regular Lagrangian fibrations over \mathbb{T}^2. The main theorem in \cite{hirsch} is used in order to classify integral affine structures on the Klein bottle K^2 and, hence, regular Lagrangian fibrations over this space.

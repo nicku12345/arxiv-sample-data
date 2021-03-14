@@ -1,0 +1,1 @@
+The capacity region of a broadcast channel consisting of k-receivers that lie in a less noisy sequence is an open problem, when k >= 3. We solve this problem for the case k=3. We prove that superposition coding is optimal for a class of broadcast channels with a sequence of less noisy receivers. T

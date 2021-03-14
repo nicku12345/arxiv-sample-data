@@ -1,0 +1,1 @@
+We prove that if \mu is a self-affine measure in the plane whose defining IFS acts totally irreducibly on \mathbb{RP}^1 and satisfies an exponential separation condition, then its dimension is equal to its Lyapunov dimension. We also treat a class of reducible systems. This extends our previous work on the subject with B\'ar\'any to the overlapping case.

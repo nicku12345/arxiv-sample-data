@@ -1,0 +1,1 @@
+We prove a generalized version of the Quantum Ergodicity Theorem on smooth compact Riemannian manifolds without boundary. We apply it to prove some asymptotic properties on the distribution of typical eigenfunctions of the Laplacian in geometric situations where the Liouville measure is not (or not known to be) ergodic.

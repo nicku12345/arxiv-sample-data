@@ -1,0 +1,1 @@
+In this work we consider sums of primes that converging very slow. We set as a base, a reformulation of analytic prime number theorem and we use the values of Riemann Zeta function for the approximation. We also give the truncation error of these approximations

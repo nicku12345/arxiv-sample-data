@@ -1,0 +1,1 @@
+We estimate the condition number of a matrix by applying the Power Method, that is essentially a sequence of matrix-by-vector multiplications, similarly to the Lanczos method.

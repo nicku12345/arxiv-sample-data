@@ -1,0 +1,1 @@
+In this paper, we introduce and study the persistent approximation property for quantitative K-theory of filtered C*-algebras. In the case of crossed product C*-algebras, the persistent approximation property follows from the Baum-Connes conjecture with coefficients. We also discuss some applications of the quantitative K-theory to the Novikov conjecture.

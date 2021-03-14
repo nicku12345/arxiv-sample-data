@@ -1,0 +1,1 @@
+This paper presents the new generalized Seikkala derivatives (gS- derivatives) of fuzzy-valued functions. The solution of fuzzy wave equation is proposed and analyzed using gS-derivatives whose crisp solution is expressed in terms of Fourier series.

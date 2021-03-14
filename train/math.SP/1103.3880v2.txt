@@ -1,0 +1,1 @@
+We compare two C*-algebras that have been used to study the essential spectrum. This is done by considering a simple second order elliptic differential operator acting in L^2(R^N), which is affiliated with one or both of the algebras depending on the behaviour of the coefficients.

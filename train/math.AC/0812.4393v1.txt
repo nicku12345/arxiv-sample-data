@@ -1,0 +1,1 @@
+In this paper, we show that the Gorenstein global dimension of trivial ring extensions is often infinite. Also we study the transfer of Gorenstein properties between a ring and its trivial ring extensions.   We conclude with an example showing that, in general, the transfer of the notion of Gorenstein projective module does not carry up to pullback constructions.

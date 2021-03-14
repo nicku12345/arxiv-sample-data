@@ -1,0 +1,1 @@
+For each \beta>1 we construct a family F_\beta of metric measure spaces which is closed under the operation of taking weak-tangents (i.e.~blow-ups), and such that each element of F_\beta admits a (1,P)-Poincar\'e inequality if and only if P>\beta.

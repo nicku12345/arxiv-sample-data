@@ -1,0 +1,1 @@
+We answer a question of Liokumovich-Nabutovsky-Rotman showing that if D is a Riemannian 2-disc with boundary length L, diameter d and area A << d then D can be filled by a homotopy where the lengths of the intermediate curves are bounded by L+2d+O(\sqrt A).

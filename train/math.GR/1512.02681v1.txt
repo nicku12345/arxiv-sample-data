@@ -1,0 +1,1 @@
+The aim of this work is to show that on a locally compact, second countable, compactly generated group G with polynomial growth and homogeneous dimension d_h, there exist a continuous, proper, negative definite function \ell with polynomial growth dimension d_\ell arbitrary close to d_h.

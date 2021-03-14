@@ -1,0 +1,1 @@
+We investigate Baire-one functions whose graph is contained in a graph of usco mapping. We prove in particular that such a function defined on a metric space with values in \mathbb{R}^d is the pointwise limit of a sequence of continuous functions with graphs contained in the graph of a common usco map.

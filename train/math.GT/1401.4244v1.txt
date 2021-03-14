@@ -1,0 +1,1 @@
+We show that \Gamma < \textbf{SU}(3,1) is a non-elementary complex hyperbolic Kleinian group in which tr(\gamma) \in \R for all \gamma \in \Gamma if and only if \Gamma is conjugate to a subgroup of \textbf{SO}(3,1) or \textbf{SU}(1,1)\times\textbf{SU}(2).

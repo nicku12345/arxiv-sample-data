@@ -1,0 +1,1 @@
+In this paper we prove the sharpness of connectivity bounds established in [15]. The proof depends on some facts in the theory of univalent polynomials. We also discuss applications to the equation r(z)=\bar z where r is a rational function.

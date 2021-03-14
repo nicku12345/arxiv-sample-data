@@ -1,0 +1,1 @@
+Deformation quantization algebroids over a complex symplectic manifold X are locally given by rings of WKB operators, that is, microdifferential operators with an extra central parameter \tau. In this paper, we will show that such algebroids are classified by H^2(X;k^*), where k^* is a subgroup of the group of invertible formal Laurent series in \tau^-1.

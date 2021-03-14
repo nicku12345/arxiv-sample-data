@@ -1,0 +1,1 @@
+We provide a new proof of a recent theorem of Ben-Yaacov, Melleray, and Tsankov. If G is a Polish group and X is a minimal, metrizable G-flow with all orbits meager, then the universal minimal flow M(G) is non-metrizable. In particular, we show that given X as above, the universal highly proximal extension of X is non-metrizable.

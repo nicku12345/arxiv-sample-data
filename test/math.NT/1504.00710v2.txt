@@ -1,0 +1,1 @@
+The Thue-Siegel method is used to obtain an upper bound for the number of primitive integral solutions to a family of quartic Thue's inequalities. This will provide an upper bound for the number of integer points on a family of elliptic curves with j-invariant equal to 1728.

@@ -1,0 +1,1 @@
+This paper defines and describes a few (related) notions of shrinking target property. We show that simultaneous expanding circle maps have a certain shrinking target property, but that circle homeomorphisms and isometries of complete, separable metric spaces do not have any shrinking target property.

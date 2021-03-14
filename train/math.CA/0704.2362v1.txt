@@ -1,0 +1,1 @@
+Let K be a compact subset of {\mathbb R}^n. We choose at random with uniform law a point at distance \epsilon of K and start a Brownian motion (BM) from this point. We study the probability that this BM hits K for the first time at a distance \geq r from the starting point.

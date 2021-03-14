@@ -1,0 +1,1 @@
+Let (G,S) be a Coxeter group. We construct a continuation, to the open unit disc, of the unitary representations associated to the positive definite functions g -> r^l(g). (Here 0<r<1, and l denotes the length function with respect to the generating set S.)   The constructed representations are uniformly bounded and we prove that this implies the weak amenability of the group G.

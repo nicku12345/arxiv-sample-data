@@ -1,0 +1,1 @@
+We define an invariant of rational homology 3-spheres via vector fields. The construction of our invariant is a generalization of both that of the Kontsevich-Kuperberg-Thurston invariant and that of Watanabe's Morse homotopy invariant, which implies the equivalence of these two invariants.

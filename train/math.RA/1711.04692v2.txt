@@ -1,0 +1,1 @@
+We show that any finite set of linear partial differential operators with continuous coefficients is linearly dependent if and only if it is locally linearly dependent. It follows that the reflexive closure of any finite set of such operators is equal to its linear span. The last statement can be rephrased as a weak nullstellensatz for linear partial differential operators.

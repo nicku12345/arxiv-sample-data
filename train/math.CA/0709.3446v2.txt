@@ -1,0 +1,1 @@
+Many integrals in the classical table by Gradshteyn and Ryzhik can be evaluated in terms of the digamma function (= the logarithmic derivative of the gamma function). Some of them are presented here.

@@ -1,0 +1,1 @@
+We study the Maurer-Cartan equation of the pre-Lie algebra of graphs controling the deformation theory of associative algebras and prove that there is a canonical solution within the class of graphs without circuits, without assuming the Jacobi identity. The proof is based on the unique factorization property of graph insertions.

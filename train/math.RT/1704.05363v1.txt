@@ -1,0 +1,1 @@
+We compute higher Frobenius-Schur indicators of Radford algebras in positive characteristic and find minimal polynomials of these linearly recursive sequences. As a result of Kashina, Montgomery and Ng, we obtain gauge invariants for the monoidal categories of representations of Radford algebras.

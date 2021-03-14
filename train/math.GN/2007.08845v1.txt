@@ -1,0 +1,1 @@
+We give a description of Hausdorff continuous open images of the Sorgenfrey line: these are precisely those spaces that have a Sorgenfrey base. Using this description we prove that no Hausdorff compact space that contains a copy of the Sorgenfrey line is a continuous open image of it; in particular the double-arrow space is not a continuous open image of the Sorgenfrey line.

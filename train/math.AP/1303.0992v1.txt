@@ -1,0 +1,1 @@
+The existence of global regular axially symmetric solutions to the Navier-Stokes equations in a bounded cylinder is proved. The main step in the proof is a proof of the Holder continuity of the swirl. This gives a possibility to prove global a priori estimate for regular solutions. Then a local solution can be extended step by step in time.

@@ -1,0 +1,1 @@
+We prove two new universality results for polynomial reproducing kernels of compactly supported measures. The first applies to measures on the unit circle with a jump and a singularity in the weight at 1 and the second applies to area-type measures on a certain disconnected polynomial lemniscate. In both cases, we apply methods developed by Lubinsky to obtain our results.

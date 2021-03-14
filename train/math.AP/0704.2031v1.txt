@@ -1,0 +1,1 @@
+This paper is devoted to hyperbolic systems of balance laws with non local source terms. The existence, uniqueness and Lipschitz dependence proved here comprise previous results in the literature and can be applied to physical models, such as Euler system for a radiating gas and Rosenau regularization of the Chapman-Enskog expansion.

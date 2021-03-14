@@ -1,0 +1,1 @@
+A subgroup H of a finite group G is said to be an \mathscr{H}C-subgroup of G if there exists a normal subgroup T of G such that G=HT and H^g \cap N_T(H)\leq H for all g\in G. In this paper, we investigate the structure of a finite group G under the assumption that certain subgroups of G of arbitrary prime power order are \mathscr{H}C-subgroups of G.

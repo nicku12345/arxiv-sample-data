@@ -1,0 +1,1 @@
+The main objective of this paper is to generalize a notion of Koszul resolutions and charcterizing modules which admits such a resolution. We turn out that for a noetherian ring A and a coherent A module M, M has a two dimensional generalized Koszul resolution if and only if M is a pure weight two module in the sense of \cite{HM09}.

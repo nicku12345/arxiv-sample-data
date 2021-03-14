@@ -1,0 +1,1 @@
+It is shown that the consistency strength of ZF + DC + "the closed unbounded ultrafilter on omega_1 is an ultrafilter" is exactly ZFC + one measurable cardinal.

@@ -1,0 +1,1 @@
+Denote by \sigma_k(n) the sum of the k-th powers of the divisors of n, and let S_k=\sum_{n\geq 1}\frac{\sigma_k(n)}{n!}. We prove that Schinzel's conjecture H implies that S_k is irrational, and give an unconditional proof for the case k=3.

@@ -1,0 +1,1 @@
+We prove the norm identity \|Id+T\| = 1+\|T\|, which is known as the Daugavet equation, for operators T on C(S) not fixing a copy of C(S), where S is a compact metric space without isolated points.

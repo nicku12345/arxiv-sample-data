@@ -1,0 +1,1 @@
+We show that the graph \Gamma_f=\{(z,f(z))\in{\Bbb C}^2: z\in S\} in {\Bbb C}^2 of a function f on the unit circle S which is either continuous and quasianalytic in the sense of Bernstein or C^\infty and quasianalytic in the sense of Denjoy is pluripolar.

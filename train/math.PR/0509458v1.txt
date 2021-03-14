@@ -1,0 +1,1 @@
+A pair of Markov processes is called a Markov coupling if both processes have the same transition probabilities and the pair is also a Markov process. We say that a coupling is ``shy'' if the processes never come closer than some (random) strictly positive distance from each other. We investigate whether shy couplings exist for several classes of Markov processes.

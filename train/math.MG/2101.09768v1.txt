@@ -1,0 +1,1 @@
+A Heron triangle is a triangle whose side lengths and area are integers. Two Heron triangles are amicable if the perimeter of one is the area of the other. We show, using elementary techniques, that there is only one pair of amicable Heron triangles.

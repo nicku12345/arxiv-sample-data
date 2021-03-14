@@ -1,0 +1,1 @@
+In this brief note we show that the integral Menger curvature \mathcal{M}_{p} is finite for all simple polygons if and only if p\in (0,3). For the intermediate energies \mathcal{I}_{p} and \mathcal{U}_{p} we obtain the analogous result for p\in (0,2) and p\in (0,1), respectively.

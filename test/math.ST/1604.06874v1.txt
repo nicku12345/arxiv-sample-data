@@ -1,0 +1,1 @@
+Gaussian Graphical Model selection problem is considered. Concentration graph is identified by multiple decision procedure based on individual tests. Optimal unbiased individual tests are constructed. It is shown that optimal tests are equivalent to sample partial correlation tests. Associated multiple decision procedure is compared with standard procedure.

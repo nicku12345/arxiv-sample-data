@@ -1,0 +1,1 @@
+We study a neutral atom with a non-vanishing electric dipole moment coupled to the quantized electromagnetic field. For a sufficiently small dipole moment and small momentum, the one-particle (self-) energy of an atom is proven to be a real-analytic function of its momentum. The main ingredient of our proof is a suitable form of the Feshbach-Schur spectral renormalization group.

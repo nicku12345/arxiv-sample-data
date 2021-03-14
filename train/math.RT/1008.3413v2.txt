@@ -1,0 +1,1 @@
+We calculate all decomposition matrices of the cyclotomic Hecke algebras of the rank 2 exceptional complex reflection groups in characteristic 0. We prove the existence of canonical basic sets in the sense of Geck-Rouquier and show that all modular irreducible representations can be lifted to the ordinary ones.

@@ -1,0 +1,1 @@
+Given a representation of a link group, we introduce a trilinear form, as a topological invariant. We show that, if the link is either hyperbolic or a knot with malnormality, then the trilinear form equals the pairing of the (twisted) triple cup product and the fundamental relative 3-class. Further, we give some examples of the computation.

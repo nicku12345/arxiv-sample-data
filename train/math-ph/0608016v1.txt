@@ -1,0 +1,1 @@
+We provide new existence and uniqueness results for the discrete-time Hamilton (DTH) equations of a symplectic-energy-momentum (SEM) integrator. In particular, we identify points in extended-phase space where the DTH equations of SEM integration have no solution for arbitrarily small time steps. We use the nonlinear pendulum to illustrate the main ideas.

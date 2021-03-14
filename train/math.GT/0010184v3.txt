@@ -1,0 +1,1 @@
+The purpose of this article is to give a proof of the Orbifold Theorem announced by Thurston in late 1981: If O is a compact, connected, orientable, irreducible and topologically atoroidal 3-orbifold with non-empty ramification locus, then O is geometric. As a corollary, any smooth orientation preserving non-free finite group action on S^3 is conjugate to an orthogonal action.

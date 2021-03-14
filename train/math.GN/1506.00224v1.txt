@@ -1,0 +1,1 @@
+We give conditions under which a product of topological spaces satisfies some local property. The conditions are necessary and sufficient when the corresponding global property is preserved under finite products. Further examples include local sequential compactness, local Lindel\"ofness, the local Menger property.

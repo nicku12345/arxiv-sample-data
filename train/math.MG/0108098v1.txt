@@ -1,0 +1,1 @@
+We give a proof of the planar case of a longstanding conjecture of Kneser (1955) and Poulsen (1954). In fact, we prove more by showing that if a finite set of disks in the plane is rearranged so that the distance between each pair of centers does not decrease, then the area of the union does not decrease, and the area of the intersection does not increase.

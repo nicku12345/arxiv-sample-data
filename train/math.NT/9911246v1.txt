@@ -1,0 +1,1 @@
+Given a multiplicative function f satisfying |f(n)| <= 1 for all n, the authors study the problem of obtaining explicit upper bounds on the mean-value 1/x |sum_{n <= x} f(n)|.

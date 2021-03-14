@@ -1,0 +1,1 @@
+A generalization of the classical Leray-Schauder fixed point theorem, based on the in finite- dimensional Borsuk-Ulam type antipode construction, is proposed. Two completely different proofs based on the projection operator approach and on a weak version of the well known Krein-Milman theorem are presented.

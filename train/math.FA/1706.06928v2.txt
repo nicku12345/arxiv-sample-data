@@ -1,0 +1,1 @@
+We compute the best constant in the embedding of W^{N,1}({\mathbb R}^N) into L^\infty({\mathbb R}^N), extending a result of Humbert and Nazaret in dimensions one and two to any N. The main tool is the identification of \log |x| as a fundamental solution of a certain elliptic operator of order 2N.

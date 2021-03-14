@@ -1,0 +1,1 @@
+We consider a random walk (Z^{(1)}_n, ..., Z^{(K+1)}_n) \in \mathbb{Z}^{K+1} with the constraint that each coordinate of the walk is at distance one from the following one. In this paper, we show that this random walk is slowed down by a variance factor \sigma_K^2 = \frac{2}{K+2} with respect to the case of the classical simple random walk without constraint.

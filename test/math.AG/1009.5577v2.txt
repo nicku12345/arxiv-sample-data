@@ -1,0 +1,1 @@
+We prove that the kernels of Fourier-Mukai functors are not unique in general. On the other hand we show that the cohomology sheaves of those kernels are unique. We also discuss several properties of the functor sending an object in the derived category of the product of two smooth projective schemes to the corresponding Fourier-Mukai functor.

@@ -1,0 +1,1 @@
+We remark that there is no smooth function f(x) on [0, 1] which is flat at 0 such that the derivative f^{(n)} of any order n\geq 0 is positive on (0,1]. Moreover, the number of zeros of the n-th derivative f^{(n)} grows to the infinity and the zeros accumulate to 0 when n \to \infty.

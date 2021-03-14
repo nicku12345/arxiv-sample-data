@@ -1,0 +1,1 @@
+Let G be a finite p-group of order p^n and M(G) be its Schur multiplier. It is well known result by Green that |M(G)|= p^{\frac{1}{2}n(n-1)-t(G)} for some t(G) \geq 0. In this article we classify non-abelian p-groups G of order p^n for t(G)=\log_p(|G|)+1.

@@ -1,0 +1,1 @@
+A Lefschetz formula is given that relates loops in a regular finite graph to traces of a certain representation. As an application the poles of the Ihara/Bass zeta function are expressed as dimensions of global section spaces of locally constant sheaves.

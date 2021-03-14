@@ -1,0 +1,1 @@
+This paper is devoted to the well-posedness for dissipative KdV equations u_t+u_{xxx}+|D_x|^{2\alpha}u+uu_x=0, 0<\alpha\leq 1. An optimal bilinear estimate is obtained in Bourgain's type spaces, which provides global well-posedness in H^s(\R), s>-3/4 for \alpha\leq1/2 and s>-3/(5-2\alpha) for \alpha>1/2.

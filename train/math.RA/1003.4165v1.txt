@@ -1,0 +1,1 @@
+Let E be the infinite dimensional Grassmann algebra over a field F of characteristic 0. In this paper we compute the ordinary and the Z/2Z-graded cocharacters of the algebra of 2x2 upper triangular matrices with coefficients in E, using the tool of proper Hilbert series.

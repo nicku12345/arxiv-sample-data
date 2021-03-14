@@ -1,0 +1,1 @@
+Harm Derksen made a conjecture concerning degree bounds for the syzygies of rings of polynomial invariants in the non-modular case. We provide counterexamples to this conjecture, but also prove a slightly weakened version.   We also prove some general results that give degree bounds on the homology of complexes and of Tor groups.

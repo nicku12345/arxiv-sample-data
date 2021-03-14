@@ -1,0 +1,1 @@
+By considering the fundamental equation x=y-y^2=z-z^3, Somos conjectured that the Hankel determinants for the generating series y(z) are the Somos-4 numbers. We prove this conjecture by using the quadratic transformation for Hankel determinants of Sulanke and Xin.

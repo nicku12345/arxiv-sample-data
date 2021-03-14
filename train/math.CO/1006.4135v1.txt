@@ -1,0 +1,1 @@
+We investigate a coin-weighing puzzle that appeared in the Moscow Math Olympiad in 1991. We generalize the puzzle by varying the number of participating coins, and deduce an upper bound on the number of weighings needed to solve the puzzle that is noticeably better than the trivial upper bound. In particular, we show that logarithmically-many weighings on a balance suffice.

@@ -1,0 +1,1 @@
+We construct a frame of complex Gaussians for the space of L^2(\mathbb{R}^n) functions. When propagated along bicharacteristics for the wave equation, the frame can be used to build a parametrix with suitable error terms. When the coefficients of the wave equation have more regularity, propagated frame functions become Gaussian beams.

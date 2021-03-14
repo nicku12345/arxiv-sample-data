@@ -1,0 +1,1 @@
+We discuss ways in which the black-box model for computation is or is not applicable to the Monster sporadic simple group. Conversely, we consider whether methods of computation in the Monster can be generalised to other situations, for example to groups of `cross-characteristic' type.

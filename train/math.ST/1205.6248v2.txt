@@ -1,0 +1,1 @@
+A class of examples concerning the relationship of linear regression and maximal correlation is provided. More precisely, these examples show that if two random variables have (strictly) linear regression on each other, then their maximal correlation is not necessarily equal to their (absolute) correlation.

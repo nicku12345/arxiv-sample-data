@@ -1,0 +1,1 @@
+Let G be an arbitrary simple graph. The main results are explicit representations of the edge cone of G as a finite intersection of closed halfspaces. If G is bipartite and connected we determine the facets of the edge cone and present a canonical irreducible representation.

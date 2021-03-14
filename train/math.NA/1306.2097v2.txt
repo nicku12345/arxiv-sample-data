@@ -1,0 +1,1 @@
+In this paper the error of polynomial interpolation of degree 1 on triangles is considered. The circumradius condition, which is more general than the maximum angle condition, is explained and proved by the technique given by Babu\v{s}ka-Aziz.

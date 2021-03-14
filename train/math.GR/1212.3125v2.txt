@@ -1,0 +1,1 @@
+A group G is a vGBS group if it admits a decomposition as a finite graph of groups with all edge and vertex groups finitely generated and free abelian. We describe the compatibility JSJ decomposition over abelian groups. We prove that in general this decomposition is not algorithmically computable.

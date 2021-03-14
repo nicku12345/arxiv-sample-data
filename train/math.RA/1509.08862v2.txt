@@ -1,0 +1,1 @@
+We use George Bergman's recent normal form for universally adjoining an inner inverse to show that, for general rings, a nilpotent regular element x need not be unit-regular. This contrasts sharply with the situation for nilpotent regular elements in exchange rings (a large class of rings), and for general rings when all powers of the nilpotent element x are regular.

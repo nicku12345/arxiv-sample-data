@@ -1,0 +1,1 @@
+Let A_1,\ldots,A_d be a d-tuple of commuting dissipative operators on a separable Hilbert space \mathcal{H}. Using the theory of operator vessels and their associated systems, we give a construction of a dilation of the multi-parameter semigroup of contractions on \mathcal{H} given by e^{i \sum_{j=1}^d t_j A_j}.

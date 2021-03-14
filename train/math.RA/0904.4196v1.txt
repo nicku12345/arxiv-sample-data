@@ -1,0 +1,1 @@
+In this paper we have compute the Mobius category and the Mobius function of the combinatorial inverse monoid IO3 of all order preserving partial bijections on the set M3={1,2,3}. This category is the reduced standard division category CF(IO3) relative to an idempotent transversal F of the D-classes of IO3.

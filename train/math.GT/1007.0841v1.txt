@@ -1,0 +1,1 @@
+We establish a necessary and sufficient condition for a heptagonal knot to be figure-8 knot. The condition is described by a set of Radon partitions formed by vertices of the heptagon. In addition we relate this result to the number of nontrivial heptagonal knots in linear embeddings of the complete graph K_7 into \mathbb{R}^3.

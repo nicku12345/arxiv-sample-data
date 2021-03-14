@@ -1,0 +1,1 @@
+In a recent paper G. Bhatnagar has given simple proofs of some of Ramanujan's continued fractions. In this note we show that some variants of these continued fractions are generating functions of q-Schroeder-like numbers.

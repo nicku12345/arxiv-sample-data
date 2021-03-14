@@ -1,0 +1,1 @@
+We describe a gradient flow structure for the inviscid Langmuir layer Stokesian subfluid model introduced recently by Alexander et al [1].

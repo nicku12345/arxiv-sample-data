@@ -1,0 +1,1 @@
+A bilinear estimate in Fourier restriction norm spaces with applications to the Cauchy problem associated to u_t - |D|^{\alpha}u_x + uu_x =0 is proved, for 1< \alpha <2. As a consequence, local well-posedness in H^s(\R) \cap \dot{H}^{-\omega}(\R) follows for s >-{3/4}(\alpha-1) and \omega=1/\alpha-1/2. This extends to global well-posedness for all s \geq 0.

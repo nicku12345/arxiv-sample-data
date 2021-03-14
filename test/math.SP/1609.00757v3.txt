@@ -1,0 +1,1 @@
+We study the eigenvalues of Schr\"odinger operators on \mathbb{R}^2 with rapidly oscillatory potential V(x) = W(x,x/\varepsilon), where W(x,y) \in C^\infty_0(\mathbb{R}^2 \times \mathbb{T}^2) satisfies \int_{\mathbb{T}^2} W(x,y) dy =0. We show that for \varepsilon small enough, such operators have a unique negative eigenvalue, that is exponentially close to 0.

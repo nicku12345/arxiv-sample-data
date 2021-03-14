@@ -1,0 +1,1 @@
+Double circulant matrices are introduced and studied. A formula to compute the rank r of a double circulant matrix is exhibited; and it is shown that any consecutive r rows of the double circulant matrix are linearly independent. As a generalization, multiple circulant matrices are also introduced. Two questions on square double circulant matrices are suggested.

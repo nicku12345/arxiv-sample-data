@@ -1,0 +1,1 @@
+Clunie and Hayman proved that if the spherical derivative of an entire function has order of growth sigma then the function itself has order at most sigma+1. We extend this result to holomorphic curves in projective space of dimension n omitting n hyperplanes in general position.

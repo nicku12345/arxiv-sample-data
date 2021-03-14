@@ -1,0 +1,1 @@
+We introduce a new morphism between algebraic and hermitian K-theory. The topological analog is the Adams operation in real K-theory. From this morphism, we deduce a lower bound for the higher algebraic K-theory of a ring A in terms of the classical Witt group of the ring A tensored by its opposite ring.

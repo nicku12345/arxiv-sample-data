@@ -1,0 +1,1 @@
+It is well known that strong monoidal functors preserve duals. In this short note we show that a slightly weaker version of functor, which we call "Frobenius monoidal", is sufficient.

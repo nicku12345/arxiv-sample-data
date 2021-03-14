@@ -1,0 +1,1 @@
+In this paper, we develop the crystal basis theory for the quantum queer superalgebra U_q(\mathfrak q(n)). We define the notion of crystal bases and prove the tensor product rule for U_q(\mathfrak q(n))-modules in the category O_int^{\geq 0}. Our main theorem shows that every U_q(\mathfrak q(n))-module in the category O_int^{\geq 0} has a unique crystal basis.

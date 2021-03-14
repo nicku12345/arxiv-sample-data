@@ -1,0 +1,1 @@
+This article provides an overview of relative strengths of polynomial invariants of knots and links, such as the Alexander, Jones, Homflypt, and Kaufman two-variable polynomial, Khovanov homology, factorizability of the polynomials, and knot primeness detection.

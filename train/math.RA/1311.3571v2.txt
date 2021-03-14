@@ -1,0 +1,1 @@
+We answer a question by Shestakov on the Jacobson radical in differential polynomial rings. We show that if R is a locally nilpotent ring with a derivation D then R[X;D] need not be Jacobson radical. We also show that J(R[X;D])\cap R is a nil ideal of R in the case where D is a locally nilpotent derivation and R is an algebra over an uncountable field.

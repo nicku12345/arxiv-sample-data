@@ -1,0 +1,1 @@
+Let f be an L^2-normalized Hecke--Maass cuspidal newform of level N and Laplace eigenvalue \lambda. It is shown that |f|_\infty <<_{\lambda, \epsilon} N^{-1/12 + \epsilon} for any \epsilon>0. The exponent is further improved in the case when N is not divisible by "small squares". Our work extends and generalizes previously known results in the special case of N squarefree.

@@ -1,0 +1,1 @@
+We give a proof of Fermat's little theorem which does not use nor arithmetic(Euclidean algorithm) neither algebra (group theory), but it rather employs the field of the formal power series Q((x)). The note is an example of a mathematical joke, though it contains a rigorous proof. (The paper will appear in print exactly as in the version v3).

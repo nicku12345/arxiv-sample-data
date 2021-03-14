@@ -1,0 +1,1 @@
+We show that for q\not=-1 the q-graded tensor product fails to preserve the q-differential structure of the product algebra and therefore there is no natural tensor product construction for q-differential algebras.

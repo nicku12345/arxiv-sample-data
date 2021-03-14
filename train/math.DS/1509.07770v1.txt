@@ -1,0 +1,1 @@
+We prove that every C^1 three-dimensional flow with positive topological entropy can be C^1 approximated by flows with homoclinic orbits. This extends a previous result for C^1 surface diffeomorphisms \cite{g}.

@@ -1,0 +1,1 @@
+Let f be a normalized holomorphic cusp form with a square-free level N and weight k. Using a pre-trace formula, we establish a sup-norm bound of f such that \|y^kf(z)\|_{\infty} \ll N^{-1/6+\epsilon} where the trivial bound is \|y^kf(z)\|_{\infty} \ll 1. This result is an analog of a similar bound in Maa{\ss} form case.

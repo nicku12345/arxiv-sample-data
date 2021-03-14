@@ -1,0 +1,1 @@
+We establish the analogue for maps on trees of the result established in two papers by the first author for interval maps, that a continuous self- map for which all but countably many points have at least m preimages (and none have less than two) has topological entropy bounded below by log m.

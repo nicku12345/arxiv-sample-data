@@ -1,0 +1,1 @@
+In this paper, using similar idea as in Fukaya-Oh's work ([9]), we devise a method to compute the Fukaya category of certain exact symplectic manifolds by reducing it to the corresponding Morse category of non-Hausdorff manifold as perturbation of the Lagrangian skeleton of the exact symplectic manifold.

@@ -1,0 +1,1 @@
+Let KO(CP^m) be the KO-ring of the complex projective space CP^m. By means of methods of rational D-series, a formula for the J-orders of elements of KO(CP^m) is given. Explicit formulas are given for computing the J-orders of the canonical generators of KO(CP^m) and the J-order of any complex line bundle over CP^m.

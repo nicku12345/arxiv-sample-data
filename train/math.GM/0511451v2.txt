@@ -1,0 +1,1 @@
+We have expressed the tensor commutation matrix n\otimes n as linear combination of the tensor products of the generalized Gell-Mann matrices. The tensor commutation matrices 3\otimes 2 and 2\otimes 3 have been expressed in terms of the classical Gell-Mann matrices and the Pauli matrices.

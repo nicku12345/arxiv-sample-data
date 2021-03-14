@@ -1,0 +1,1 @@
+We undertake a general study of multifractal phenomena for functions. We show that the existence of several kinds of multifractal functions can be easily deduced from an abstract statement, leading to new results. This general approach does not work for Fourier or Dirichlet series. Using careful constructions, we extend our results to these cases.

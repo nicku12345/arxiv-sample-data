@@ -1,0 +1,1 @@
+We prove the following classification theorem of the ``Glimm -- Effros'' type for Borel order relations: a Borel partial order on the reals either is Borel linearizable or includes a copy of a certain Borel partial order \meo which is not Borel linearizable.

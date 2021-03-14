@@ -1,0 +1,1 @@
+We extend the well-known Rainwater-Simons convergence theorem to various generalized convergence methods such as strong matrix summability, statistical convergence and almost convergence. In fact we prove these theorems not only for boundaries but for the more general notion of (I)-generating sets introduced by Fonf and Lindenstrauss.

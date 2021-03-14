@@ -1,0 +1,1 @@
+We give a notation of Krichever-Novikov vertex algebras on compact Riemann surfaces which is a bit weaker, but quite similar to vertex algebras. As example, we construct Krichever-Novikov vertex algebras of generalized Heisenberg algebras on arbitrary compact Riemann surfaces, which are reduced to be Heisenberg vertex algebra when restricted on Riemann spheres.

@@ -1,0 +1,1 @@
+We show that the natural map from the mapping class groups of surfaces to the automorphism groups of free groups, induces an infinite loop map on the classifying spaces of the stable groups after plus construction. The proof uses automorphisms of free groups with boundaries which play the role of mapping class groups of surfaces with several boundary components.

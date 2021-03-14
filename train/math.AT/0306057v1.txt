@@ -1,0 +1,1 @@
+We study the geometry of Bott towers in the context of toric geometry, describing their associated fans arising from crosspolytopes. We compute the cohomology ring of each stage of the tower, and provide all monomial identities defining related affine toric varieties.

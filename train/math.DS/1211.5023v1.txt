@@ -1,0 +1,1 @@
+It is well known that the Bernoulli convolution \nu_{\beta} associated to the golden mean has Hausdorff dimension less than 1, i.e. that there exists a set A with \nu_{\beta}(A)=1 and dim_H(A)<1. We construct such a set A explicitly and discuss how our approach might be generalised to prove the singularity of other Bernoulli convolutions

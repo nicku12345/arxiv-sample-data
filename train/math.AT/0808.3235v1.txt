@@ -1,0 +1,1 @@
+Let X be a compact connected Riemann surface of genus at least two. We compute the Chen--Ruan cohomology ring of the moduli space of stable PSL(2, C)--bundles of nontrivial second Stiefel--Whitney class over X.

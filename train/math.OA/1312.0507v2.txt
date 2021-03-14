@@ -1,0 +1,1 @@
+Consider a graph C*-algebra C*(E) with a purely infinite ideal I (possibly all of C*(E)) such that I has only finitely many ideals and C*(E)/I is approximately finite dimensional. We prove that the nuclear dimension of C*(E) is 1. If I has infinitely many ideals, then the nuclear dimension of C*(E) is either 1 or 2.

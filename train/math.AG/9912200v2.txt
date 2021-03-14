@@ -1,0 +1,1 @@
+The aim of this paper is to clarify and generalize techniques of works alg-geom/9711024 (see also math.AG/9810097 and math.AG/9901004). Roughly speaking, we prove that for local Fano contractions the existence of complements can be reduced to the existence of complements for lower dimensional projective Fano varieties.

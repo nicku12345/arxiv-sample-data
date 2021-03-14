@@ -1,0 +1,1 @@
+In Hai-Thin (2009), there is a theorem, stating that every locally nilpotent subnormal subgroup in a division ring D is central (see Hai-Thin (2009, Th. 2.2)). Unfortunately, there is some mistake in the proof of this theorem. In this note we give the another proof of this theorem.

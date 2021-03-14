@@ -1,0 +1,1 @@
+We have random number of independent diffusion processes with absorption on boundaries in some region at initial time t=0. The initial numbers and positions of processes in region is defined by Poisson random measure. It is required to estimate of number of the unabsorbed processes for the fixed time \~\tau>0. The Poisson random measure depends on \tau and \tau\to\infty.

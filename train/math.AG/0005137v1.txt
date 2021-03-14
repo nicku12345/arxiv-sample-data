@@ -1,0 +1,1 @@
+Homology with values in a connection with possibly irregular singular points on an algebraic curve is defined, generalizing homology with values in the underlying local system for a connection with regular singular points. Integration defines a perfect pairing between de Rham cohomology with values in the connection and homology with values in the dual connection.

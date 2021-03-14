@@ -1,0 +1,1 @@
+We call a positive definite Hermitian lattice regular if it represents all integers which can be represented locally by the lattice. We investigate binary regular Hermitian lattices over imaginary quadratic fields \mathbb{Q}(\sqrt{-m}) and provide a complete list of the (normal) Hermitian lattices.

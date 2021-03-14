@@ -1,0 +1,1 @@
+We show that any homologically non-trivial Dehn twist of a compact surface F with boundary is the lifting of a half-twist in the braid group B_n, with respect to a suitable branched covering p : F -> B^2. In particular, we allow the surface to have disconnected boundary. As a consequence, any allowable Lefschetz fibration on B^2 is a branched covering of B^2 x B^2.

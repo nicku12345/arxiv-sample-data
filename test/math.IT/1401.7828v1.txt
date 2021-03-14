@@ -1,0 +1,1 @@
+In this paper we define codes over some Octonion integers. We prove that in some conditions these codes can correct up to two errors for a transmitted vector and the code rate of the codes is grater than the code rate of the codes defined on some subset of Quaternion integers.

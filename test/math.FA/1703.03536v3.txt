@@ -1,0 +1,1 @@
+Found are conditions of rather general nature sufficient for the existence of the limit at infinity of the Ces\`{a}ro means \begin{equation*} \frac{1}{t} \int_0^ty(s)\,ds \end{equation*} for every bounded weak solution y(\cdot) of the abstract evolution equation \begin{equation*} y'(t)=Ay(t),\ t\ge 0, \end{equation*} with a closed linear operator A in a Banach space X.

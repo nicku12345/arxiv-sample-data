@@ -1,0 +1,1 @@
+In this note we show how to construct a homotopy BV-algebra on the algebra of differential forms over a higher Poisson manifold. The Lie derivative along the higher Poisson structure provides the generating operator.

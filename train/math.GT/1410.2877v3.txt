@@ -1,0 +1,1 @@
+We study the relationship between Bar-Natan's perturbation in Khovanov homology and Szabo's geometric spectral sequence, and construct a link invariant that generalizes both into a common theory. We study a few properties of the new invariant, and introduce a family of s-invariants from the new theory in the same spirit as Rasmussen's s-invariant.

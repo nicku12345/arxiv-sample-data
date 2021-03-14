@@ -1,0 +1,1 @@
+We show that the tangle space of a graph, which compactifies it, is a quotient of its Stone-\v{C}ech remainder obtained by contracting the connected components.

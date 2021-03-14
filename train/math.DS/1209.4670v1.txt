@@ -1,0 +1,1 @@
+After Katok, a homeomorphism f\colon M\to M is said to be cohomologically C^0-stable when its space of real C^0-coboundaries is closed in C^0(M). In this short note we completely classify cohomologically C^0-stable homeomorphisms, showing that periodic homeomorphisms are the only ones.

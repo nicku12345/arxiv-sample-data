@@ -1,0 +1,1 @@
+We discuss the global regularity of 2 dimensional minimal sets that are near a union of two planes, and prove that every global minimal set in R^4 that looks like a union of two almost orthogonal planes at infinity is a cone. The main point is to use the topological properties of a minimal set at a large scale to control its behavior at smaller scales.

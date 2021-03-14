@@ -1,0 +1,1 @@
+For a Tychonoff space X, we denote by B(X) the space of all Baire functions on X with the topology of pointwise convergence. In this paper we investigate selectors for sequences of countable dense and countable sequentially dense sets of the space B(X).

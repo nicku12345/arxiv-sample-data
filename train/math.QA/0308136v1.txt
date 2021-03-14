@@ -1,0 +1,1 @@
+We prove that every holomorphic vector bundle on a noncommutative two-torus T can be obtained by successive extensions from standard holomorphic bundles considered in math.QA/0211262. This implies that the category of holomorphic bundles on T is equivalent to the heart of certain t-structure on the derived category of coherent sheaves on an elliptic curve.

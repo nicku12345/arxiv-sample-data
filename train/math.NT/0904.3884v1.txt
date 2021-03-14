@@ -1,0 +1,1 @@
+We study the functor of Weil restriction in the category of Huber's adic spaces and in the category of Berkovich spaces. We prove criteria for the representability of these functors in the respective categories. As an application of adic Weil restrictions, we prove that adic N\'eron models behave well with respect to tamely ramified base change.

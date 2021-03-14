@@ -1,0 +1,1 @@
+We describe a family of half-line continuum Schroedinger operators with purely singular continuous essential spectrum, exhibiting asymptotic strong level repulsion (known as clock behavior). This follows from the convergence of the renormalized continuum Christoffel-Darboux kernel to the sine kernel.

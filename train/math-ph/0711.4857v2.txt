@@ -1,0 +1,1 @@
+A box-ball system with more than one kind of balls is obtained by the generalized periodic discrete Toda equation (pd Toda eq.). We study the pd Toda equation in view of algebraic geometry. The time evolution of pd Toda eq. is linearized on an algebraic variety, and theta function solutions are obtained.

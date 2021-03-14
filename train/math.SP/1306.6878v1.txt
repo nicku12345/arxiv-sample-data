@@ -1,0 +1,1 @@
+We study exponential decay of eigenfunctions of self-adjoint higher order elliptic operators on \R^d. We show that the possible critical decay rates are determined algebraically. In addition we show absence of super-exponentially decaying eigenfunctions and a refined exponential upper bound.

@@ -1,0 +1,1 @@
+In this paper we prove that if \chi_{_E}(\xi-\eta)- the indicator function of measurable set E\subseteq \mathbb{R}^d, is a bi-linear multiplier symbol for exponents p,q,r satisfying the H\"{o}lder's condition \frac{1}{p}+\frac{1}{q}=\frac{1}{r} and exactly one of p,q, or r'=\frac{r}{r-1} is less than 2, then E is equivalent to an open subset of \mathbb{R}^d.

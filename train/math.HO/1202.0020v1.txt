@@ -1,0 +1,1 @@
+This paper, along with E592 and E636, seems to consider the binomial expansion (1+z)^n in the case where z is complex. Euler even gives the sums of divergent series. The paper is translated from Euler's Latin original into German.

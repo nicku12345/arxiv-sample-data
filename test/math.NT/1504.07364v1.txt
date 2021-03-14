@@ -1,0 +1,1 @@
+For a positive integer N divisible by 4,5,6,7 or 9, let \mathcal{O}_{1,N}(\mathbb{Q}) be the ring of weakly holomorphic modular functions for the congruence subgroup \Gamma_1(N) with rational Fourier coefficients. We present explicit generators of the ring \mathcal{O}_{1,N}(\mathbb{Q}) over \mathbb{Q} by making use of modular units which have infinite product expansions.

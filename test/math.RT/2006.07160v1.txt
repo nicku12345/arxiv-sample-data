@@ -1,0 +1,1 @@
+Let G be a finite group with cyclic Sylow p-subgroup, and let k be a field of characteristic p. Then H^*(BG;k) and H_*(\Omega BG\phat;k) are A_{\infty} algebras whose structure we determine up to quasi-isomorphism.

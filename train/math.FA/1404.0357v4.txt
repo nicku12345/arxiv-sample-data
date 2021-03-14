@@ -1,0 +1,1 @@
+The purpose of this paper is to provide a characterization of the topological L^0-modules whose topology is induced by a family of L^0-seminorms using the gauge function for L^0-modules. Taking advantage of these ideas we will give a counterexample of a locally L^0-convex module whose topology is not induced by a family of L^0-seminorms.

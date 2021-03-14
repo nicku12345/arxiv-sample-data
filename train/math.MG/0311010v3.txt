@@ -1,0 +1,1 @@
+For a cocompact group of SL_2(R) we fix a non-zero harmonic 1-form   \a. We normalize and order the values of the Poincare pairing <gamma,\a> according to the length of the corresponding closed geodesic l(gamma). We prove that these normalized values have a Gaussian distribution.

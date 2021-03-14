@@ -1,0 +1,1 @@
+This paper deals with coefficient estimates for close-to-convex functions with argument \beta (-\pi/2<\beta<\pi/2). By using Herglotz representation formula, sharp bounds of coefficients are obtained. In particluar, we solve the problem posed by A. W. Goodman and E. B. Saff in \cite{GS}. Finally some complicted computations yield the explicit estimate of the third coefficient.

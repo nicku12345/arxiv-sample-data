@@ -1,0 +1,1 @@
+We describe spaces of essential finite height (measured) laminations in a surface S using a parameter space we call \mathbb S, an ordered semi-ring. We show that for every finite height essential lamination L in S, there is an action of \pi_1(S) on an \mathbb S-tree dual to the lift of L to the universal cover of S.

@@ -1,0 +1,1 @@
+For polynomials and rational maps of fixed degree over a finite field, we bound both the average number of connected components of their functional graphs as well as the average number of periodic points of their associated dynamical systems.

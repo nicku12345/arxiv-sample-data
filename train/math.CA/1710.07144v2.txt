@@ -1,0 +1,1 @@
+We show that the set defined by digit restrictions contains arbitrarily long arithmetic progressions if and only if its Assouad dimension is one. Moreover, we show that for any 0\le s\le 1, there exists some set on \mathbb{R} with Hausdorff dimension s whose Fourier dimension is zero and it contains arbitrarily long arithmetic progressions.

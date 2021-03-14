@@ -1,0 +1,1 @@
+A question of Jack Morava is answered by generalising the notion of Moore paths to that of Moore hyperrectangles, so obtaining a strict cubical omega-category. This also has the structure of connections in the sense of Brown and Higgins, but cancellation of connections does not hold.

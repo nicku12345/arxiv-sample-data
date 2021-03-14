@@ -1,0 +1,1 @@
+A new categorical setting is defined in order to characterize the subrecursive classes belonging to complexity hierarchies. This is achieved by means of coercion functors over a symmetric monoidal category endowed with certain recursion schemes that imitate the bounded recursion scheme. This gives a categorical counterpart of generalized safe composition and safe recursion.

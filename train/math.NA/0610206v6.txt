@@ -1,0 +1,1 @@
+We present a family of high-order finite element approximation spaces on a pyramid, and associated unisolvent degrees of freedom. These spaces consist of rational basis functions. We establish conforming, exactness and polynomial approximation properties.

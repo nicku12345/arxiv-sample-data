@@ -1,0 +1,1 @@
+Given M a Riemannian manifold with (possibly empty) boundary, we show that its volume spectrum \{\omega_p(M)\}_{p\in\mathbb{N}} satisfies a Weyl law that was conjectured by Gromov.

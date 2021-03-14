@@ -1,0 +1,1 @@
+We consider a quantum spin system consisting of a finite subsystem connected to infinite reservoirs at different temperatures. In this setup we define nonequilibrium steady states and prove that the rate of entropy production in such states is nonnegative.

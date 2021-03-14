@@ -1,0 +1,1 @@
+A problem of minimization of delivery and storage costs of a product is considered under constraints on volumes of delivery from each of the suppliers. It is required to determine optimal volumes and times of product shipments. The problem is NP-hard. In this paper, the problem is proved to be pseudo-polynomially solvable and an algorithm for its solution is proposed.

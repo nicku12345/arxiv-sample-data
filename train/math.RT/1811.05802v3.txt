@@ -1,0 +1,1 @@
+Let \overline{\mathfrak{S}}_\infty denote the set of all bijections of natural numbers. Consider the action of \overline{\mathfrak{S}}_\infty on a measure space \left( X,\mathfrak{M},\mu \right), where \mu is \overline{\mathfrak{S}}_\infty-quasi-invariant measure. We prove that there exists \overline{\mathfrak{S}}_\infty-invariant measure equivalent to \mu.

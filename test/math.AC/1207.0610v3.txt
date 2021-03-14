@@ -1,0 +1,1 @@
+The dependence of torsion functors on their supporting ideals is investigated, especially in the case of monomial ideals of certain subrings of polynomial algebras over not necessarily Noetherian rings. As an application it is shown how flatness of quasicoherent sheaves on toric schemes is related to graded local cohomology.

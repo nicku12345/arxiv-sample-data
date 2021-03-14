@@ -1,0 +1,1 @@
+In this article we study the role of the Green function for the Laplacian in a compact Riemannian manifold as a tool for obtaining well-distributed points. In particular, we prove that a sequence of minimizers for the Green energy is asymptotically uniformly distributed. We pay special attention to the case of locally harmonic manifolds.

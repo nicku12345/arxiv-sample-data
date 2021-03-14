@@ -1,0 +1,1 @@
+Following an example discovered by John Berge, we show that there is a 4-component link L \subset (S^1 x S^2)#(S^1 x S^2) so that, generically, the result of Dehn surgery on L is a 3-manifold with two inequivalent genus 2 Heegaard splittings, and each of these Heegaard splittings is of Hempel distance 3.

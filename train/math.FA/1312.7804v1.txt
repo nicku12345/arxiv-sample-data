@@ -1,0 +1,1 @@
+We obtain Taylor approximations for functionals V\mapsto Tr(f(H_0+V)) defined on the bounded self-adjoint operators, where H_0 is a self-adjoint operator with compact resolvent and f is a sufficiently nice scalar function, relaxing assumptions on the operators made in [17], and derive estimates and representations for the remainders of these approximations.

@@ -1,0 +1,1 @@
+In joint work with Yang Huang, we defined a canonical absolute grading on Heegaard Floer homology by homotopy classes of oriented 2-plane fields. A similar grading was defined on embedded contact homology by Michael Hutchings. In this paper we show that the isomorphism between these homology theories defined by Colin-Ghiggini-Honda preserves this grading.

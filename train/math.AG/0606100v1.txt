@@ -1,0 +1,1 @@
+This paper deals with surfaces with many lines. It is well-known that a cubic contains 27 of them and that the maximal number for a quartic is 64. In higher degree the question remains open. Here we study classical and new constructions of surfaces with high number of lines. We obtain in particular a symmetric octic with 352 lines.

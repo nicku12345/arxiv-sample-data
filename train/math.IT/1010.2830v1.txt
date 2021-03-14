@@ -1,0 +1,1 @@
+A construction of 2^{2n}-QAM sequences is given and an upper bound of the peak-to-mean envelope power ratio (PMEPR) is determined. Some former works can be viewed as special cases of this construction.

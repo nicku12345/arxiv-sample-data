@@ -1,0 +1,1 @@
+Every homology or cohomology theory on a category of E-infinity ring spectra is Topological Andre-Quillen homology or cohomology with appropriate coefficients. Analogous results hold for the category of A-infinity ring spectra and for categories of algebras over many other operads.

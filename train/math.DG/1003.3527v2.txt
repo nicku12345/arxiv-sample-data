@@ -1,0 +1,1 @@
+Schur's lemma states that every Einstein manifold of dimension n\geq 3 has constant scalar curvature. Here (M,g) is defined to be Einstein if its traceless Ricci tensor \Rico:=\Ric-\frac{R}{n}g is identically zero. In this short note we ask to what extent the scalar curvature is constant if the traceless Ricci tensor is assumed to be \emph{small} rather than identically zero.

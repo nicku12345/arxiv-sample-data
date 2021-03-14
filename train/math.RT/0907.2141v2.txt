@@ -1,0 +1,1 @@
+EI categories can be thought of as amalgams of finite posets and finite groups and therefore the associated algebras are built up from incidence algebras and group algebras of finite groups. For this particular class of algebras we present a construction of an upper bound for the finitistic dimension which is due to Lueck.

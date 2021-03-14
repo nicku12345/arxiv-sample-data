@@ -1,0 +1,1 @@
+For a twisted affine Lie superalgebra with nonzero odd part, we study {tight irreducible weight modules} with bounded weight multiplicities and show that if the action of nonzero real vectors of each affine component of the zero part is neither completely injective nor completely locally nilpotent, then these modules are parabolically induced.

@@ -1,0 +1,1 @@
+The paper investigates exterior and symmetric (co)homologies of groups. We introduce symmetric homology of groups and compute exterior and symmetric (co)homologies of some finite groups. We also compare the classical, exterior and symmetric (co)homologies. Finally, we derive restriction and corestriction homomorphisms for exterior cohomology

@@ -1,0 +1,1 @@
+Let w be a group word. It is conjectured that if w has only countably many values in a profinite group G, then the verbal subgroup w(G) is finite. In the present paper we confirm the conjecture in the cases where w is a multilinear commutator word, or the word x^2, or the word [x^2,y].

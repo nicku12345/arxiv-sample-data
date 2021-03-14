@@ -1,0 +1,1 @@
+We generalized the characterization of H-closedness for linearly ordered pospaces as follows: A pospace X without an infinite antichain is an H-closed pospace if and only if X is a directed complete and down-complete poset such that sup L and inf L are contained in the closure of L for any nonempty chain L in X.

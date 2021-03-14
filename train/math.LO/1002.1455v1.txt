@@ -1,0 +1,1 @@
+Let \bf\Gamma be a Borel class, or a Wadge class of Borel sets, and 2\leq d\leq\omega a cardinal. We study the Borel subsets of {\mathbb R}^d that can be made \bf\Gamma by refining the Polish topology on the real line. These sets are called potentially \bf\Gamma. We give a test to recognize potentially \bf\Gamma sets.

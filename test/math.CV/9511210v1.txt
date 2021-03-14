@@ -1,0 +1,1 @@
+We give several examples of Douglas Algebras that do not have any maximal subalgebra. We find a condition on these algebras that guarantees that some do not have any minimal superalgebra. We also show that if A is the only maximal subalgebra of a Douglas algebra B, then the algebra A does not have any maximal subalgebra.

@@ -1,0 +1,1 @@
+Let \mathfrak F be a class of groups. A group G is called ca-\mathfrak F-group if its every non-abelian chief factor is simple and H/K \leftthreetimes C_G(H/K) \in \mathfrak F for every abelian chief factor H/K of G. In this paper, we investigate the structure of a finite ca-\mathfrak F-group. Properties of mutually permutable products of finite ca-\mathfrak F-groups are studied.

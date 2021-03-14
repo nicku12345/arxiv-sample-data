@@ -1,0 +1,1 @@
+The expected value for the weighted crossing number of a randomly weighted graph is studied. A variation of the Crossing Lemma for expectations is proved. We focus on the case where the edge-weights are independent random variables that are uniformly distributed on [0,1].

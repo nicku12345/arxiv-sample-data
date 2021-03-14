@@ -1,0 +1,1 @@
+An example of a discrete-time stationary random process whose sums follow the normal approximation within a given part of the region of moderate deviations, but violate it outside this part.

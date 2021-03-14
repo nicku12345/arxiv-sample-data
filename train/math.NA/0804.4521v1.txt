@@ -1,0 +1,1 @@
+By applying hybrid functions of general block-pulse functions and the second Chebyshev polynomials,integrodifferential systems are converted into a system of algebraic equations. The approximate solutions of integrodifferential systems are derived. The numerical examples illustrate that the algorithms are valid.

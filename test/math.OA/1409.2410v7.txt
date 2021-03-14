@@ -1,0 +1,1 @@
+We look at Toeplitz operators T_\nu on the Fock Space (also known as the Segal-Bargmann space) which have a positive Borel measure \nu as a symbol. We characterize when \left(T_\nu\right)^s for 0<s\leq 1 is in the symmetrically normed ideal associated with any given symmetric norming function.

@@ -1,0 +1,1 @@
+We show that any generic representation of a wild connected directed quiver is the union of its subrepresentations of finite length which are regular. As a consequence, we see that the direct limit closure of the preprojective component does not contain any generic module.

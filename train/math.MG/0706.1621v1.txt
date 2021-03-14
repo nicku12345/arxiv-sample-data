@@ -1,0 +1,1 @@
+Let K be a global field of characteristic not 2. Let Z be a symmetric variety defined over K and S a finite set of places of K. We obtain counting and equidistribution results for the S-integral points of Z. Our results are effective when K is a number field.

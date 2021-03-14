@@ -1,0 +1,1 @@
+This article treats isoperimetric inequalities for integral currents in the setting of stratified nilpotent Lie groups equipped with left-invariant Riemannian metrics. We prove that for each such group there is a dimension in which no Euclidean isoperimetric inequality is admitted, while in all smaller dimensions strictly Euclidean isoperimetric inequalities are satisfied.

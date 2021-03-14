@@ -1,0 +1,1 @@
+We give a definition of a noncommutative torsor by a subset of the axioms previously given by Grunspan. We show that noncommutative torsors are an equivalent description of Hopf-Galois objects (without specifying the Hopf algebra). In particular, this shows that the endomorphism of a torsor featuring in Grunspan's definition is redundant.

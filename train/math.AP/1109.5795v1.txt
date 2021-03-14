@@ -1,0 +1,1 @@
+In this paper we propose an approach for \emph{simultaneous} identification of the \emph{absorption density} and the \emph{speed of sound} by photoacoustic measurements. Experimentally our approach can be realized with sliced photoacoustic experiments. The mathematical model for such an experiment is developed and exact reconstruction formulas for both parameters are presented.

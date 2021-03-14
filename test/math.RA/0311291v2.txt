@@ -1,0 +1,1 @@
+Let H be a finite-dimensional Hopf algebra over an algebraically closed field of characteristic 0. If H is not semisimple and \dim(H)=2n for some odd integer n, then H or H^* is not unimodular. Using this result, we prove that if \dim(H)=2p for some odd prime p, then H is semisimple. This completes the classification of Hopf algebras of dimension 2p.

@@ -1,0 +1,1 @@
+It is demonstrated that appropriately chosen computable metrics based on self-correlation properties provide a degree of determinism sufficient to segregate binary strings by level of information content.

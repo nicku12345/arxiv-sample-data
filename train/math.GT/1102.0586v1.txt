@@ -1,0 +1,1 @@
+We generalize the Morton-Franks-Williams inequality to the colored \mathfrak{sl}(N) link homology defined in arXiv:0907.0695, which gives infinitely many new bounds for the braid index and the self linking number. A key ingredient of our proof is a composition product for the general MOY graph polynomial, which generalizes that of Wagner arXiv:math/0702230v1.

@@ -1,0 +1,1 @@
+We verify the Upper Bound Conjecture (UBC) for a class of odd-dimensional simplicial complexes that in particular includes all Eulerian simplicial complexes with isolated singularities. The proof relies on a new invariant of simplicial complexes -- a short simplicial h-vector.

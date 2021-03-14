@@ -1,0 +1,1 @@
+Let \fre be a homogeneous subset of \bbR in the sense of Carleson. Let \mu be a finite positive measure on \bbR and H_\mu(x) its Hilbert transform. We prove that if \lim_{t\to\infty} t \abs{\fre\cap\{x\mid\abs{H_\mu(x)}>t\}}=0, then \mu_s(\fre)=0, where \mu_\s is the singular part of \mu.

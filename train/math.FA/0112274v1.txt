@@ -1,0 +1,1 @@
+We prove that if T is a strictly singular 1-1 operator defined on an infinite dimensional Banach space X, then for every infinite dimensional subspace Y of X there exists an infinite dimensional subspace Z of Y such that Z contains orbits of T of every finite length and the restriction of T on Z is a compact operator.

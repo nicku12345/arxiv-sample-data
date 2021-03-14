@@ -1,0 +1,1 @@
+The Muskat problem involves filtration of two incompressible fluids throughout a porous medium. In this paper we shall discuss in 3-D the relevance of the Rayleigh-Taylor condition, and the topology of the initial interface, in order to prove its local existence in Sobolev spaces.

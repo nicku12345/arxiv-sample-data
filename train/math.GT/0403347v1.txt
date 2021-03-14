@@ -1,0 +1,1 @@
+We show that the kernel of Burau(4) \otimes Z_p, the reduced Burau representation with coefficients in Z_p of the 4-braid group B_4, consists only of pseudo-Anosov braids.

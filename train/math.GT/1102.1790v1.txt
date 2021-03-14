@@ -1,0 +1,1 @@
+We compute the fundamental group of various spaces of Desargues configurations in complex projective spaces: planar and non-planar configurations, with a fixed center and also with an arbitrary center.

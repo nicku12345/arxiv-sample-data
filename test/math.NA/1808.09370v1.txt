@@ -1,0 +1,1 @@
+By exploiting the fact that conservation laws form the kernel of a discrete Euler operator, we use a recently introduced symbolic-numeric approach to construct a new class of finite difference methods for the modified Korteweg-de Vries (mKdV) equation, that preserve the local conservation laws of mass and energy.

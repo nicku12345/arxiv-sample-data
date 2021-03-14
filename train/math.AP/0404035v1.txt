@@ -1,0 +1,1 @@
+In this paper, using Mountain Pass Lemma and Linking Argument, we prove the existence of nontrivial weak solutions for the Dirichlet problem for the superlinear equation of Caffarelli-Kohn-Nirenberg type in the case where the parameter \lambda\in (0, \lambda_2), \lambda_2 is the second positive eigenvalue of the quasilinear elliptic equation of Caffarelli-Kohn-Nirenberg type.

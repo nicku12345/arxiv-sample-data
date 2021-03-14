@@ -1,0 +1,1 @@
+We investigate how the behavior of the function d_A(n) that gives the size of a least size generating set for A^n, influences the structure of a finite solvable algebra A.

@@ -1,0 +1,1 @@
+Suppose G is a connected complex semisimple group and W is its Weyl group. The lifting of an element of W to G is semisimple. This induces a well-defined map from the set of elliptic conjugacy classes of W to the set of semisimple conjugacy classes of G. In this paper, we give a uniform algorithm to compute this map. We also consider the twisted case.

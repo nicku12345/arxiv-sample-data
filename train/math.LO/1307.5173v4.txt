@@ -1,0 +1,1 @@
+The Kolmogorov axioms for probability functions are placed in the context of signed meadows. A completeness theorem is stated and proven for the resulting equational theory of probability calculus. Elementary definitions of probability theory are restated in this framework.

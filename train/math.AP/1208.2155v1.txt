@@ -1,0 +1,1 @@
+Using the framework first presented by Ruf and Sani, we give a proof of an Adams type inequality which can be applied to a nonlinear functional. Under two kinds of assumptions on the nonlinearity, we estimate the min-max level of the functional. As an application, a multiplicity result for the related singular quasilinear elliptic equation is proved.

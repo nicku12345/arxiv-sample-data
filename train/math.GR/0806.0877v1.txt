@@ -1,0 +1,1 @@
+In a recent paper by L. A. Bokut, V. V. Chaynikov and K. P. Shum in 2007, Braid group B_n is represented by Artin-Burau's relations. For such a representation, it is told that all other compositions can be checked in the same way. In this note, we support this claim and check all compositions.

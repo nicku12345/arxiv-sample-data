@@ -1,0 +1,1 @@
+We prove Csorba's conjecture that the Lov\'asz complex Hom(C_5,K_n) of graph multimorphisms from the 5-cycle C_5 to the complete graph K_n is Z/2Z-equivariantly homeomorphic to the Stiefel manifold, V(n-1,2), the space of (ordered) orthonormal 2-frames in R^{n-1}. The equivariant piecewise-linear topology that we need is developed along the way.

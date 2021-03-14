@@ -1,0 +1,1 @@
+In this note we provide a direct approach to the most basic operator in this theory namely the exterior derivative. The crucial ingredient is a calculus lemma based on determinants. We maintain the view that in a first course at least this direct approach is preferable to the more abstract one based on characterization of the exterior derivative in terms of its properties.

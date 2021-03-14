@@ -1,0 +1,1 @@
+In this paper, we propose a weak regularity principle which is similar to both weak K\"onig's lemma and Ramsey's theorem. We begin by studying the computational strength of this principle in the context of reverse mathematics. We then analyze different ways of generalizing this principle.

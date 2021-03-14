@@ -1,0 +1,1 @@
+We prove that for any positive integer c there are at least N(c), 1\leq N(c) < \phi(c)/2 representations of c as a sum of two positive integers a, b, with no common divisor, such that the N(c) radicals R(abc) are all greater than kc, where k an absolute constant.

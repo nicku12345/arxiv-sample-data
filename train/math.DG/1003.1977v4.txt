@@ -1,0 +1,1 @@
+This paper extends de Rham theory of smooth manifolds to exploded manifolds. Included are versions of Stokes' theorem, De Rham cohomology, Poincare duality, and integration along the fiber. The resulting cohomology theory is used to define Gromov Witten invariants of exploded manifolds in a separate paper.

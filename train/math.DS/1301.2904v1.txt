@@ -1,0 +1,1 @@
+We completely describe the weak closure of the powers of the Koopman operator associated to Chacon's classical automorphism. We show that weak limits of these powers are the ortho-projector to constants and an explicit family of polynomials. As a consequence, we answer negatively the question of alpha-weak mixing for Chacon's automorphism.

@@ -1,0 +1,1 @@
+In this paper we present two numerical schemes of approximating solutions of backward doubly stochastic differential equations (BDSDEs for short). We give a method to discretize a BDSDE. And we also give the proof of the convergence of these two kinds of solutions for BDSDEs respectively. We give a sample of computation of BDSDEs.

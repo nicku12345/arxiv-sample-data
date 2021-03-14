@@ -1,0 +1,1 @@
+Let G be a finite p-group which does not contain a rank two elementary abelian p-group as a direct factor. Then the ideal of essential classes in the mod-p cohomology ring of G is a Cohen-Macaulay module whose Krull dimension is the p-rank of the centre of G. This basically answers in the affirmative a question posed by J. F. Carlson.

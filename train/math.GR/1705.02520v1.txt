@@ -1,0 +1,1 @@
+We give a bound on the order of the Schur multiplier of p-groups refining earlier bounds. As an application we complete the classification of groups having Schur multiplier of maximum order. Finally we prove that the order of the Schur multiplier of a finite p-group of maximal class and order p^n is at most p^{\frac{n}{2}}.

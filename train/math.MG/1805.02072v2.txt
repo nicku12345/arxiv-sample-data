@@ -1,0 +1,1 @@
+Let h(n) denote the maximum number of triangles with angles between 59^\circ and 61^\circ in any n-element planar set. Our main result is an exact formula for h(n). We also prove h(n)= n^3/24+ O(n \log n) as n\to \infty. However, there are triangles T and n-point sets P showing that the number of \varepsilon-similar copies of T in P can exceed n^3/15 for any \varepsilon>0.

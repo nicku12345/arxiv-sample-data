@@ -1,0 +1,1 @@
+Some simple facts are proved ruling the Collatz tree and the chains of vertices appearing in it, leading to the reduction of the number of significant elements appearing in the tree. Although the Collatz conjecture remains open, these fact may cast some light on the nature of the problem.

@@ -1,0 +1,1 @@
+We develop a numerical approach to cohomology. Essentially, vector spaces and linear maps are replaced by real numbers, which represent dimensions of vector spaces and ranks of linear maps. We use this to refine ideas of Van der Geer and Schoof about the cohomology of Arakelov bundles.

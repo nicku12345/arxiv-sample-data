@@ -1,0 +1,1 @@
+The classification of G-spaces by Palais is refined for the case where the orbit space satisfies certain mild topological hypotheses.   It is shown that when a sequence of such orbit spaces is "close" to a limit orbit space, in some suitable sense, within a larger ambient orbit space, the G-spaces in the tail of the sequence are strongly equivalent to the limit G-space.

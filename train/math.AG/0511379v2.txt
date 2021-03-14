@@ -1,0 +1,1 @@
+We study complex plane projective sextic curves with simple singularities up to equisingular deformations. It is shown that two such curves are deformation equivalent if and only if the corresponding pairs are diffeomorphic. A way to enumerate all deformation classes is outlined, and a few examples are considered, including classical Zariski pairs.

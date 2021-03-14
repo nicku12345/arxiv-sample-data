@@ -1,0 +1,1 @@
+For every countable structure M we construct an \aleph_0-stable countable structure N such that Aut(M) and Aut(N) are topologically isomorphic. This shows that it is impossible to detect any form of stability of a countable structure M from the topological properties of the Polish group Aut(M).

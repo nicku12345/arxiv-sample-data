@@ -1,0 +1,1 @@
+Let (Y_n) be a sequence of i.i.d. real valued random variables. Reflected random walk (X_n) is defined recursively by X_0=x \ge 0, X_{n+1} = |X_n - Y_{n+1}|. In this note, we study recurrence of this process, extending a previous criterion. This is obtained by determining an invariant measure of the embedded process of reflections.

@@ -1,0 +1,1 @@
+Let c:SU(n)\rightarrow PSU(n)=SU(n)/\mathbb{Z}_{n} be the quotient map of the special unitary group SU(n) by its center subgroup \mathbb{Z}_{n}. We determine the induced homomorphism c^{\ast}: H^{\ast}(PSU(n))\rightarrow H^{\ast}(SU(n)) on cohomologies by computing with the prime orders of binomial coefficients

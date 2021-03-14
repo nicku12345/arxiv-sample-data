@@ -1,0 +1,1 @@
+Given n quaternions we investigate the extent of non-commutativity of their multiple products, commutators and exponential products.

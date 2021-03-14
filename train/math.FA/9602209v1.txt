@@ -1,0 +1,1 @@
+A simple geometric condition is sufficient for analytic hypoellipticity of sums of squares of two vector fields in {\mathbb R}^2. This condition is proved to be necessary for generic vector fields and for various special cases, and to be both necessary and sufficient for a closely related family of operators.

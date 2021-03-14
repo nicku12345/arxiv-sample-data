@@ -1,0 +1,1 @@
+We propose a discretization of the optimality principle in dynamic programming based on radial basis functions and Shepard's moving least squares approximation method. We prove convergence of the approximate optimal value function to the true one and present several numerical experiments.

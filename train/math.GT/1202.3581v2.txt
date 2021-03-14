@@ -1,0 +1,1 @@
+A quasitoric manifold M is a 2n-dimensional manifold which admits an action of an n-dimensional torus which has some nice properties. We determine the isomorphism type of a maximal compact connected Lie-subgroup G of \text{Homeo}(M) which contains the torus. Moreover, we show that this group is unique up to conjugation.

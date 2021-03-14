@@ -1,0 +1,1 @@
+We define an elementary higher topos that simultaneously generalizes an elementary topos and higher topos. Then we show it satisfies classical topos theoretic properties, such being locally Cartesian closed and descent. Finally we show we can classify univalent maps in an elementary higher topos.

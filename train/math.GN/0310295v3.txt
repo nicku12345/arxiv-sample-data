@@ -1,0 +1,1 @@
+It is proved that isomorphisms between algebras of smooth functions on Hausdorff smooth manifolds are implemented by diffeomorphisms. It is not required that manifolds are second countable nor paracompact. This solves a problem stated by A. Wienstein. Some related results are discussed as well.

@@ -1,0 +1,1 @@
+Given two algebras A and B, sometimes assumed to be C*-algebras, we consider the question of putting algebra or C*-algebra structures on the tensor product A\otimes B. In the C*-case, assuming B to be two-dimensonal, we characterize all possible such C*-algebra structures in terms of an action of the cyclic group Z_2. An example related to commuting squares is also discussed.

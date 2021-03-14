@@ -1,0 +1,1 @@
+The standard functional central limit theorem for a renewal process with finite mean and variance, results in a Brownian motion limit. This note shows how to obtain a Brownian bridge process by a direct procedure that does not involve conditioning. Several examples are also considered.

@@ -1,0 +1,1 @@
+In this note, we first prove that the degenerate cyclotomic Yokonuma-Hecke algebra Y_{r,n}^{d} is cellular by constructing an explicit cellular basis. We then develop the fusion procedure for Y_{r,n}^{d}, that is, a complete set of pairwise orthogonal primitive idempotents for Y_{r,n}^{d} is defined by consecutive evaluations of a certain rational function.

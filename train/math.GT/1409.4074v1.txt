@@ -1,0 +1,1 @@
+In a remark in his seminal 1987 paper, Jones describes a way to define the Burau matrix of a positive braid using a metaphor of bowling a ball down a bowling alley with braided lanes. We extend this definition to allow multiple bowling balls to be bowled simultaneously. We obtain the Iwahori-Hecke algebra and a cabled version of the Temperley-Lieb representation.

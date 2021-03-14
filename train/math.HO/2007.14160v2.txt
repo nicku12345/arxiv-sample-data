@@ -1,0 +1,1 @@
+This paper is concerned with unreachable pawn diagrams and the subset of which can be generated using Hall's Marriage Theorem. The result is 1 in 23 diagrams are unreachable by applying the theorem.

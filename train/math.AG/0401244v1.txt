@@ -1,0 +1,1 @@
+Consider a (non-empty) linear system of surfaces of degree d in P^3 through at most 8 multiple points in general position and let L denote the corresponding complete linear system on the blowing-up X of P^3 along those general points. Then we determine the base locus of such linear systems L on X.

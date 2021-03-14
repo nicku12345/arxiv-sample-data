@@ -1,0 +1,1 @@
+In this article we extend evaluations of the Kauffman bracket on regular isotopy classes of knots and links to a variety of functors defined on the category of framed tangles. We show that many such functors exist, and that they correspond up to equivalence to bilinear forms on free, finitely-generated modules over commutative rings.

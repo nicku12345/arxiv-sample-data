@@ -1,0 +1,1 @@
+The Card-Cyclic-to-Random shuffle on n cards is defined as follows: at time t remove the card with label t mod n and randomly reinsert it back into the deck. Pinsky introduced this shuffle and asked how many steps are needed to mix the deck. He showed n steps do not suffice. Here we show that the mixing time is on the order of \Theta(n \log n).

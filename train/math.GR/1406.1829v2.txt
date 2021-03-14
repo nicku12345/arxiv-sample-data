@@ -1,0 +1,1 @@
+We study the Hausdorff dimension of R-analytic subgroups in an R-analytic profinite group, where R is a pro-p ring whose asso- ciated graded ring is an integral domain. In particular, we prove that the set of such Hausdorff dimensions is a finite subset of the rational numbers.

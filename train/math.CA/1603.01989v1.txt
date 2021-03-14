@@ -1,0 +1,1 @@
+In this paper we introduce a new sequence of polynomials, which follow the same recursive rule of the well-known Lucas-Lehmer integer sequence. We show the most important properties of this sequence, relating them to the Chebyshev polynomials of the first and second kind.

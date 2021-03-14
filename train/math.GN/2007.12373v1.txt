@@ -1,0 +1,1 @@
+In this paper, we continue to study one of the classic problems in general topology raised by P.S. Alexandrov: when a Hausdorff space X has a continuous bijection (a condensation) onto a compactum? We concentrate on the situation when not only X but also X\setminus Y can be condensed onto a compactum whenever the cardinality of Y does not exceed certain \tau.

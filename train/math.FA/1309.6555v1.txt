@@ -1,0 +1,1 @@
+Necessary and sufficient conditions on the system of positive numbers  M_{k_1}, M_{k_2}, M_{k_3}, M_{k_4}, 0= k_1<k_2<k_3=r-2, k_4 = r, which guarantee the existence of a function x\in L_{\infty,\infty}^r(R), such that \|x^{(k_i)}\|_{\infty}=M_{k_i},\; i=1,2,3,4,  are found.

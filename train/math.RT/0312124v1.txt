@@ -1,0 +1,1 @@
+The generating function of the Betti numbers of the Heisenberg Lie algebra over a field of characteristic 2 is calculated using discrete Morse theory.

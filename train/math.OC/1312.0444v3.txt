@@ -1,0 +1,1 @@
+In this paper we study the controllability of the Keller-Segel system approximating its parabolic-elliptic version. We show that this parabolic system is locally uniform controllable around a constant solution of the parabolic-elliptic system when the control is acting on the component of the chemical.

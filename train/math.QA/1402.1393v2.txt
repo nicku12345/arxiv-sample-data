@@ -1,0 +1,1 @@
+A quasi-Hopf algebra H can be seen as a commutative algebra A in the centre \mathcal Z(H-Mod) of H-Mod. We show that the category of A-modules in \mathcal Z(H-Mod) is equivalent (as a monoidal category) to H-Mod. This can be regarded as a generalization of the structure theorem of Hopf bimodules of a Hopf algebra to the quasi-Hopf setting.

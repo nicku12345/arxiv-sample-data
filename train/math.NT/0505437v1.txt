@@ -1,0 +1,1 @@
+Bernoulli numbers are usually expressed in terms of their lower index numbers (recursive). This paper gives explicit formulas for Bernoulli numbers of even index. The formulas contain a remarkable sequence of determinants. The value of these determinants for variable dimension is investigated.

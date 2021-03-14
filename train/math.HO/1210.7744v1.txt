@@ -1,0 +1,1 @@
+A proof of the Quadratic Reciprocity Law is presented using a Lemma of Gauss, the theory of finite fields and the Frobenius automorfism.

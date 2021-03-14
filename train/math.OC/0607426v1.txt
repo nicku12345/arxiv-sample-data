@@ -1,0 +1,1 @@
+Consider a sub-Riemannian geometry (U,D,g) where U is a neighborhood at 0 in \R^n, D is a rank-2 smooth (C^\infty  or C^\omega) distribution and g is a smooth metric on D. The objective of this article is to explain the role of abnormal minimizers in SR-geometry. It is based on the analysis of the Martinet SR-geometry.

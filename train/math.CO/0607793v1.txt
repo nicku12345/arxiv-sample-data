@@ -1,0 +1,1 @@
+We count the number of occurrences of restricted patterns of length 3 in permutations with respect to length and the number of cycles. The main tool is a bijection between permutations in standard cycle form and weighted Motzkin paths.

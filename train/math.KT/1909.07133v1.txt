@@ -1,0 +1,1 @@
+We show that the conditions in Steimle's 'additivity theorem for cobordism categories' can be weakened to only require \emph{locally} (co)Cartesian fibrations, making it applicable to a larger class of functors. As an application we compute the difference in classifying spaces between the infinity category of cospans of finite sets and its homotopy category.

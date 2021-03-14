@@ -1,0 +1,1 @@
+We study \mathbb{Z}_2-graded identities of Lie superalgebras of the type b(t), t\ge 2, over a field of characteristic zero. Our main result is that the n-th codimension is strictly less than (\dim b(t))^n asymptotically. As a consequence we obtain an upper bound for ordinary (non-graded) PI-exponent for each simple Lie superalgebra b(t), t\ge 3.

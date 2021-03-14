@@ -1,0 +1,1 @@
+For any positive integer k and any integer n large enough, we construct a Fano variety X with Picard number k and dimension n such that ((-K_X)^n)^{1/n} grows like n^k/(\log n)^{k-1}.

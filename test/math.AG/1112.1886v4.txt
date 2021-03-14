@@ -1,0 +1,1 @@
+An unstable torsion free sheaf on a smooth projective variety gives a GIT unstable point in certain Quot scheme. To a GIT unstable point, Kempf associates a "maximally destabilizing" 1-parameter subgroup, and this induces a filtration of the torsion free sheaf. We show that this filtration coincides with the Harder-Narasimhan filtration.

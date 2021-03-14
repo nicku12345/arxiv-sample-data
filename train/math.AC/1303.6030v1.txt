@@ -1,0 +1,1 @@
+Let I and J be homogeneous ideals in a standard graded polynomial ring. We study upper bounds of the Hilbert function of the intersection of I and g(J), where g is a general change of coordinates. Our main result gives a generalization of Green's hyperplane section theorem.

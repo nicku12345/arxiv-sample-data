@@ -1,0 +1,1 @@
+We show that stable derivators, like stable model categories, admit Mayer-Vietoris sequences arising from cocartesian squares. Along the way we characterize homotopy exact squares, and give a detection result for colimiting diagrams in derivators. As an application, we show that a derivator is stable if and only if its suspension functor is an equivalence.

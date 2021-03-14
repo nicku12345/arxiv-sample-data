@@ -1,0 +1,1 @@
+A (2n+1)-dimensional contact Lie algebra is one which admits a one-form \varphi such that \varphi \wedge (d\varphi)^n\ne0. Such algebras have index one. We show that index-one type-A seaweed algebras are necessarily contact.

@@ -1,0 +1,1 @@
+We define a construction on operads which yields a new description of the minimal model. The construction also allows us to define algebraic structures on the homology of chain complexes with homologously trivial operad algebra structures, thus exposing nontrivial structure where none is apparent.

@@ -1,0 +1,1 @@
+We study the boundary regularity of solutions of elliptic operators in divergence form with C^{0,\alpha} coefficients or operators which are small perturbations of the Laplacian in non-smooth domains. We show that, as in the case of the Laplacian, there exists a close relationship between the regularity of the corresponding elliptic measure and the geometry of the domain.

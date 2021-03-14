@@ -1,0 +1,1 @@
+Lattice cohomology, defined by N\'emethi in (arXiv:0709.0841), is an invariant of negative definite plumbed 3-manifolds which conjecturally computes the Heegaard Floer homology HF^+. We prove a surgery exact triangle for the lattice cohomology analogous to the one for HF^+. This is a step towards comparing these two invariants.

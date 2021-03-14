@@ -1,0 +1,1 @@
+A sufficient condition for the uniform modulus of continuity of a random field X = \{X(t), t \in \R^N\} is provided. The result is applicable to random fields with heavy-tailed distribution such as stable random fields.

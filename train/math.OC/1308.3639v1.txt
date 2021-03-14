@@ -1,0 +1,1 @@
+An existing solvability result for relaxed one-sided Lipschitz algebraic inclusions is substantially improved. This enhanced solvability result allows the design of a very robust numerical method for the approximation of a solution of the algebraic inclusion. Sharp error estimates for this method, illustrative analytic examples and a numerical example are provided.

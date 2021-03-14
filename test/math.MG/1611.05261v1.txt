@@ -1,0 +1,1 @@
+We prove that a proper geodesic metric space has non-positive curvature in the sense of Alexandrov if and only if it satisfies the Euclidean isoperimetric inequality for curves. Our result extends to non-geodesic spaces and non-zero curvature bounds.

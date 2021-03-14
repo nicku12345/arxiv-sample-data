@@ -1,0 +1,1 @@
+We consider uniformly elliptic and parabolic second-order equations with bounded zeroth-order and bounded VMO leading coefficients and possibly growing first-order coefficients. We look for solutions which are summable to the p-th power with respect to the usual Lebesgue measure along with their first and second-order derivatives with respect to the spatial variable.

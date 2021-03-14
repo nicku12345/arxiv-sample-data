@@ -1,0 +1,1 @@
+Let p_{1}, ..., p_{k} be the first k odd primes in succession. Let n be an even integer such that n > p_{k}. We conjecture that if none of n - p_{1}, ..., n - p_{k} are prime, then at least one of them has a prime factor which is greater than or equal to p_{k}. In this brief note, we observe that Goldbach's conjecture follows from this conjecture.

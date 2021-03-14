@@ -1,0 +1,1 @@
+In this paper, we consider the Monge optimal transport problem with distance cost. We prove that in some metric spaces, possibly with many branching geodesics, an optimal transport map exists if the first marginal is absolutely continuous. The result is applicable to normed spaces and Hilbert geometries.

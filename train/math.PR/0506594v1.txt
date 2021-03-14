@@ -1,0 +1,1 @@
+In this paper we give optimal constants in Talagrand's concentration inequalities for maxima of empirical processes associated to independent and eventually nonidentically distributed random variables. Our approach is based on the entropy method introduced by Ledoux.

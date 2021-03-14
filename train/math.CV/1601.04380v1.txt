@@ -1,0 +1,1 @@
+The discriminants of certain polynomials related to Chebyshev polynomials factor into the product of two polynomials, one of which has coefficients that are much larger than the other's. Remarkably, these polynomials of dissimilar size have "almost" the same roots, and their discriminants involve exactly the same prime factors.

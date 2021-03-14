@@ -1,0 +1,1 @@
+We study FTOP(L), a fuzzy category with fuzzy functions in the role of morphisms. This category has the same objects as the category L-TOP of Chang-Goguen L-topological spaces,but an essentially wider class of morphisms - so called fuzzy functions introduced earlier in our joint work with U. Hohle and H. Porst.

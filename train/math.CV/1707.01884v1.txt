@@ -1,0 +1,1 @@
+Let AL^{2}_{\phi}(\mathbb{D}) denote the closed subspace of L^{2}(\mathbb{D},e^{-2\phi}d\lambda) consisting of holomorphic functions in the unit disc {\mathbb D}. For certain class of subharmonic funcions \phi : {\mathbb D}\rightarrow{\mathbb D}, we prove upper pointwise estimate for the Bergman kernel for AL^{2}_{\phi}(\mathbb{D})

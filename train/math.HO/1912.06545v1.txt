@@ -1,0 +1,1 @@
+We review distributed algorithms for transmitting data (n real numbers) under a broadcast communication model, as well as for maximum finding and for sorting. Our interest is in the basics of recursive formulas and corresponding asymptotics as {n\to\infty}. The emphasis is on concrete examples rather than general theory.

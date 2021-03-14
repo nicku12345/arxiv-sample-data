@@ -1,0 +1,1 @@
+Let M be a compact smooth Riemannian manifold of finite dimension n+1 with boundary \partial Mand \partial M is a compact n-dimensional submanifold of M. We show that for generic Riemannian metric g, all the critical points of the mean curvature of \partial M are nondegenerate.

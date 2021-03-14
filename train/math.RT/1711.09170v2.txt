@@ -1,0 +1,1 @@
+Let F be a p-adic field (p\neq 2), let E be a quadratic Galois extension of F, and let n \geq 2. We construct representations in the discrete spectrum of the p-adic symmetric space H \backslash G, where G = \mathbf{GL}_{2n}(E) and H = \mathbf{U}_{E/F}(F) is a quasi-split unitary group over F.

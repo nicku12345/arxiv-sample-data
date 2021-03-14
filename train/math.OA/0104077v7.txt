@@ -1,0 +1,1 @@
+A covariant functor from the category of generic complex algebraic curves to a category of the AF-algebras is constructed. The construction is based on a representation of the Teichmueller space of a curve by the measured foliations due to Douady, Hubbard, Masur and Thurston. The functor maps isomorphic algebraic curves to the stably isomorphic AF-algebras.

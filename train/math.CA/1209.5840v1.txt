@@ -1,0 +1,1 @@
+We prove an inequality of Hardy type for functions in Triebel-Lizorkin spaces. The distance involved is being measured to a given Ahlfors d-regular set in R^n, with n-1<d<n. As an application of the Hardy inequality, we consider boundedness of pointwise multiplication operators, and extension problems.

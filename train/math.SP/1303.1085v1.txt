@@ -1,0 +1,1 @@
+In this paper, we study spectral properties of generalized weighted Hilbert matrices. In particular, we establish results on the spectral norm, determinant, as well as various relations between the eigenvalues and eigenvectors of such matrices. We also study the asymptotic behaviour of the spectral norm of the classical Hilbert matrix.

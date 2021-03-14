@@ -1,0 +1,1 @@
+As a continuation of the previous work \cite{Wu}, we consider the global well-posedness for the derivative nonlinear Schr\"odinger equation. We prove that it is globally well-posed in energy space, provided that the initial data u_0\in H^1(\mathbb{R}) with \|u_0\|_{L^2}< 2\sqrt{\pi}.

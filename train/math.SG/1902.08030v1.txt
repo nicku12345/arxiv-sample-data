@@ -1,0 +1,1 @@
+The support norm sn(\xi) of a contact structure \xi is the minimum of the negative Euler characteristics of the pages of the open books supporting \xi.   In this paper we prove additivity of the support norm for tight contact structures.

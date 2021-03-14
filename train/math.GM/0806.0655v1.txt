@@ -1,0 +1,1 @@
+I will show that operator of analytic (harmonic) continuation on a lattice graph has a positive spectrum. I use a theorem about positivity of eigenvalues of totally positive matrices. I conjecture that by approximation the similar result holds in continuous case on a plane.

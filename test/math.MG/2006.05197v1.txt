@@ -1,0 +1,1 @@
+The Colin de Verdiere number of graph G, denoted by \mu(G), is a spectral invariant of G that is related to some of its topological properties. For example, \mu(G) \leq 3 iff G is planar. A penny graph is the contact graph of equal-radii disks with disjoint interiors in the plane. In this note we prove lower bounds on \mu(G) when the complement \bar{G} is a penny graph.

@@ -1,0 +1,1 @@
+We show that link Floer homology detects the Thurston norm of a link complement. As an application, we show that the Thurston polytope of an alternating link is dual to the Newton polytope of its multi-variable Alexander polynomial. To illustrate these techniques, we also compute the Thurston polytopes of several specific link complements.

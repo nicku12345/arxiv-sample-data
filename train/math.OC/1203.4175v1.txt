@@ -1,0 +1,1 @@
+We show that minimizing a convex function over the integer points of a bounded convex set is polynomial in fixed dimension.

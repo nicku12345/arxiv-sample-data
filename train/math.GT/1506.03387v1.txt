@@ -1,0 +1,1 @@
+Any hyperbolic surface bundle over the circle gives rise to a continuous surjection from the circle to the sphere, by work of Cannon and Thurston. We prove that the order in which this surjection fills out the sphere is dictated by a natural triangulation of the surface bundle (introduced by Agol) when all singularities of the invariant foliations are at punctures of the fiber.

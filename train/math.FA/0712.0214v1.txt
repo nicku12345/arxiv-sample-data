@@ -1,0 +1,1 @@
+The isometric embeddings \ell_{2;K}^m\to\ell_{p;K}^n (m\geq 2, p\in 2\N) over a field K\in{R, C, H} are considered, and an upper bound for the minimal n is proved. In the commutative case (K\neq H) the bound was obtained by Delbaen, Jarchow and Pe{\l}czy{\'n}ski (1998) in a different way.

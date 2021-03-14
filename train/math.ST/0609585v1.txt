@@ -1,0 +1,1 @@
+A multivariate survival function of Weibull Distribution is developed by expanding the theorem by Lu and Bhattacharyya (1990). From the survival function, the probability density function, the cumulative probability function, the determinant of the Jacobian Matrix, and the general moment are derived. The proposed model is also applied to the tumor appearance data of female rats.

@@ -1,0 +1,1 @@
+In this expository paper, we show how to use in practice 3-descent with a 3-isogeny to find an estimate for the rank of an elliptic curve having a rational 3-torsion subgroup, and we also give a geometric interpretation of these computations.

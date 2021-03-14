@@ -1,0 +1,1 @@
+Let k be a field of characteristic 0 and M(k) is the category of 1-motives over k. We prove that Biext^1(M_1,M_2;M_3)=Hom_{MR(k)}(T(M_1)\otimes T(M_2), T(M_3))

@@ -1,0 +1,1 @@
+In this paper we consider a version of the functional Hodrick-Prescott filter for functional time series. We show that the associated optimal smoothing operator preserves the 'noise-to-signal' structure. Moreover, we propose a consistent estimator of this optimal smoothing operator.

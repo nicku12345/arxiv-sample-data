@@ -1,0 +1,1 @@
+We give error estimates for a mixed finite element approximation of the two-dimensional elliptic Monge-Ampere equation with the unknowns approximated by Lagrange finite elements of degree two. The variables in the formulation are the scalar variable and the Hessian matrix.

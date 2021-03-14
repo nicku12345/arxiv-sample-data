@@ -1,0 +1,1 @@
+We prove asymptotically optimal upper bounds for the eigenvalues of the Wentzel-Laplace operator on Riemannian manifolds with Ricci curvature bounded below. These bounds depend highly on the geometry of the boundary in addition to the dimension and the volume of the manifold.

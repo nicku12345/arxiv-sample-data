@@ -1,0 +1,1 @@
+We prove an explicit formula for the dependence of the exponent in the fractal uncertainty principle of Bourgain-Dyatlov on the dimension and on the regularity constant for the regular set. In particular, this implies an explicit essential spectral gap for convex co-compact hyperbolic surfaces when the Hausdorff dimension of the limit set is close to 1.

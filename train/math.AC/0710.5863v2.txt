@@ -1,0 +1,1 @@
+We give an elementary proof of Grothendieck's non-vanishing Theorem: For a finitely generated non-zero module M over a Noetherian local ring A with maximal ideal   \m, the local cohomology module H^{\dim M}_{\m}(M) is non-zero.

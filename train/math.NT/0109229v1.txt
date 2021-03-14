@@ -1,0 +1,1 @@
+We describe Greenberg's pseudo-null conjecture, and prove a result describing conditions under which the pseudo-null conjecture for a number field K implies the conjecture for finite extensions of K. We then apply the result to the cyclotomic \mathbb{Z}_p-tower above a cyclotomic field of prime roots of unity, verifying the conjecture for a large class of cyclotomic fields.

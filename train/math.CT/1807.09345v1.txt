@@ -1,0 +1,1 @@
+We construct exponential objects in categories of generalized uniform hypergraphs and use embeddings induced by nerve-realization adjunctions to show why conventional categories of graphs and hypergraphs do not have exponential objects.

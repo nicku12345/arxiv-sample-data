@@ -1,0 +1,1 @@
+We prove that the minimal composition length, c, of a solvable group with solvable length d satisfies 9^{(d-3)/9}< c< 9^{(d+1)/5}, and the minimal composition length, c^o, of a group with odd order and solvable length d satisfies 7^{(d-2)/5}< c^o< 2^d.

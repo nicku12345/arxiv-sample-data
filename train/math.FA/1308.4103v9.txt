@@ -1,0 +1,1 @@
+Let x=a+ib be a complex number, so we have the following inequality (1/\sqrt{2})|a+b|\leq |x|\leq |a|+|b| We give an operator version of above inequality. Also we obtain some results for normal operators.

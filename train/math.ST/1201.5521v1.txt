@@ -1,0 +1,1 @@
+Following the works of Berthet (1997), we first obtain exact clustering rates in the functional law of the iterated logarithm for the uniform empirical and quantile processes and for their increments. In a second time, we obtain functional Chung-type limit laws for the local empirical process for a class of target functions on the border of the Strassen set.

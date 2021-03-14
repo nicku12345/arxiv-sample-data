@@ -1,0 +1,1 @@
+We provide algorithmic methods to check the Cohen--Macaulayness, Buchsbaumness and/or Gorensteiness of some families of semigroup rings that are constructed from the dilation of bounded convex polyhedrons of \R^3_{\geq}. Some families of semigroup rings are given satifying these properties.

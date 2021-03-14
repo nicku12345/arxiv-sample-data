@@ -1,0 +1,1 @@
+Spread codes and orbit codes are special families of constant dimension subspace codes. These codes have been well-studied for their error correction capability and transmission rate, but the question of how to encode messages has not been investigated. In this work we show how the message space can be chosen for a given code and how message en- and decoding can be done.

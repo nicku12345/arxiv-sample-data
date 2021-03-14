@@ -1,0 +1,1 @@
+We consider a special symmetric matrix and obtain a similar formula as the one obtained by Weyl's criterion. Some applications of the formula are given, where we give a new way to calculate the integral of \ln\Gamma(x) on [0,1], and we claim that one class of matrices are not Hadamard matrices.

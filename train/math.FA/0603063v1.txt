@@ -1,0 +1,1 @@
+We prove that if X is a separable, reflexive space which is asymptotic l_p, then X embeds into a reflexive space Z having an asymptotic l_p finite-dimensional decomposition. This result leads to an intrinsic characterization of subspaces of spaces with an asymptotic l_p FDD. More general results of this type are also obtained.

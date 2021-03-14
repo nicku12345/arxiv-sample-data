@@ -1,0 +1,1 @@
+We investigate how the algebraic connectivity of a graph changes by relocating a connected branch from one vertex to another vertex, and then minimize the algebraic connectivity among all connected graphs of order n with fixed domination number \gamma \le \frac{n+2}{3}, and finally present a lower bound for the algebraic connectivity in terms of the domination number.

@@ -1,0 +1,1 @@
+We prove the local hard Lefschetz theorem and local Hodge-Riemann bilinear relations for Soergel bimodules. Using results of Soergel and K\"ubel one may deduce an algebraic proof of the Jantzen conjectures. We observe that the Jantzen filtration may depend on the choice of non-dominant regular deformation direction.

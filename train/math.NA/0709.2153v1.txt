@@ -1,0 +1,1 @@
+We give explicit formulas as well as a quadratic time algorithm to solve (so called) generalized Vandermonde's systems of p linear equations and n variables. It allows in particular to find all (so called Lagrange's) interpolation polynoms with degree n-1 taking given values in p distinct points.

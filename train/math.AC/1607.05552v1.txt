@@ -1,0 +1,1 @@
+We introduce a concept of formal local homology modules which is in some sense dual to P. Schenzel's concept of formal local cohomology modules. The dual theorem and the non-vanishing theorem of formal local homology modules will be shown. We also give some conditions for formal local homology modules being finitely generated or artinian.

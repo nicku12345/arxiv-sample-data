@@ -1,0 +1,1 @@
+This paper is devoted to change-point detection using only the ordinal structure of a time series. A statistic based on the conditional entropy of ordinal patterns characterizing the local up and down in a time series is introduced and investigated. The statistic requires only minimal a priori information on given data and shows good performance in numerical experiments.

@@ -1,0 +1,1 @@
+We review the complete definition of monoidal 2-categories and recover Kapranov and Voevodsky's definition from the algebraic definition of weak 3-category(or tricategory).

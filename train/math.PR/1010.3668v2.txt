@@ -1,0 +1,1 @@
+We prove that the exponential distribution is the only one which satisfies a regression identity. This identity involves conditional expectation of the sample mean of record values given two record values outside of the sample.

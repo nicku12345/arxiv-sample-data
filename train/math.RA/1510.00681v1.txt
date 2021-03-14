@@ -1,0 +1,1 @@
+In this paper we show if R is a filtered ring and M a filtered R module then we can define a valuation on a module for M. Then we show that we can find an skeleton of valuation on M, and we prove some properties such that derived form it for a filtered module.

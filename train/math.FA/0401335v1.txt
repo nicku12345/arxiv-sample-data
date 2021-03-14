@@ -1,0 +1,1 @@
+We introduce the H^1-projective property, and use it to construct a Banach space X such that the natural map   J:H^2(X)\otimes H^2(X) -> H^1(X\otimes X) is not onto.

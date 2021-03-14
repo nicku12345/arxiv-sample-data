@@ -1,0 +1,1 @@
+We describe Mui invariants in terms of Milnor operations and give a simple proof for Mui's theorem on rings of invariants of polynomial tensor exterior algebras with respect to the action of finite general linear groups. Moreover, we compute some rings of invariants of Weyl groups of maximal non-toral elementary abelian p-subgroups of exceptional Lie groups.

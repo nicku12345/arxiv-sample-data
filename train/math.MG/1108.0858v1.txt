@@ -1,0 +1,1 @@
+The closest point of a linear variety to an external point is found by using the equality case of an Ostrowski's type inequality. This point is given in closed form as the quotient of a (formal) and a (scalar) Gram determinant. Then, the best approximation pair of points onto two linear varieties is given, as well as characterization of this pair of best approximation points.

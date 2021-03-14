@@ -1,0 +1,1 @@
+We analyze the Bell polynomials B_{n}(x) asymptotically as n\to\infty. We obtain asymptotic approximations from the differential-difference equation which they satisfy, using a discrete version of the ray method. We give some examples showing the accuracy of our formulas.

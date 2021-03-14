@@ -1,0 +1,1 @@
+A C*-tensor category with simple unit object is realized by von Neumann algebra bimodules of finite Jones index if and only if it is rigid.

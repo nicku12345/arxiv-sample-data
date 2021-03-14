@@ -1,0 +1,1 @@
+Let M_K be the 2-fold branched cover of a knot K in S^3. If H_1(M_K) = {\bf Z}_3 \oplus {\bf Z}_{3^{2i}} \oplus G where 3 does not divide the order of G then K is not of order 4 in the concordance group. This obstruction detects infinite new families of knots that represent elements of order 4 in the algebraic concordance group that are not of order 4 in concordance.

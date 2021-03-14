@@ -1,0 +1,1 @@
+Let the group G = AB be the product of subgroups A and B, and let p be a prime. We prove that p does not divide the conjugacy class size (index) of each p-regular element of prime power order x\in A\cup B if and only if G is p-decomposable, i.e. G=O_p(G) \times O_{p'}(G).

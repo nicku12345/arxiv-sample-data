@@ -1,0 +1,1 @@
+In this paper, we show that the coefficient of the Taylor expansion of Selberg integrals with respect to exponent variables are expressed as a linear combination of multiple zeta values. We use beta-nbc base so that the Selberg integral is holomorphic with respect to the exponent variables.

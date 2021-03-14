@@ -1,0 +1,1 @@
+We propose an efficient dual algorithm for ELP based on Fast Gradient Method. The basic idea - to solve properly regularized dual problem.

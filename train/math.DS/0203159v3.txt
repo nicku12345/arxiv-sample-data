@@ -1,0 +1,1 @@
+Suppose G is an almost simple group containing a subgroup isomorphic to the three-dimensional integer Heisenberg group. For example any finite index subgroup of SL(3,Z) is such a group. The main result of this paper is that every action of G on a closed oriented surface by area preserving diffeomorphisms factors through a finite group.

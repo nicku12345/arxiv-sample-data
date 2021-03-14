@@ -1,0 +1,1 @@
+A bound for functional \Delta(F)=\sup_{x\in\mathbb R}|F(x)-\Phi(x)| is obtained, which is uniform for all distribution functions F of random variables with zero mean-value and unity variance. Moreover, a two-point distribution is found, for which this bound is reached.

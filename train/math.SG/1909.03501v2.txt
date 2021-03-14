@@ -1,0 +1,1 @@
+A semitoric integrable system F=(J,H) on a symplectic 4-manifold is simple if each fiber of J contains at most one focus-focus critical point. Simple semitoric systems were classified about ten years ago by Pelayo-V\~u Ngoc in terms of five invariants. In this paper we explain how the simplicity assumption can be removed from the classification by adapting the invariants.

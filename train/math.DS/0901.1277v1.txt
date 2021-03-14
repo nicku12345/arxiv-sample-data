@@ -1,0 +1,1 @@
+For the delay differential equations  \ddot{x}(t) +a(t)\dot{x}(g(t))+b(t)x(h(t))=0, g(t)\leq t, h(t)\leq t,  and  \ddot{x}(t) +a(t)\dot{x}(t)+b(t)x(t)+a_1(t)\dot{x}(g(t))+b_1(t)x(h(t))=0  explicit exponential stability conditions are obtained.

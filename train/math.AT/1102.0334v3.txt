@@ -1,0 +1,1 @@
+Using the obstruction theory of Blanc-Dwyer-Goerss, we compute the moduli space of realizations of 2-stage Pi-algebras concentrated in dimensions 1 and n or in dimensions n and n+1. The main technical tools are Postnikov truncation and connected covers of Pi-algebras, and their effect on Quillen cohomology.

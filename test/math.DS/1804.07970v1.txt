@@ -1,0 +1,1 @@
+We study the spatial-homogeneity of stable solutions of almost-periodic parabolic equations. It is shown that if the nonlinearity satisfies a concave or convex condition, then any linearly stable almost automorphic solution is spatially-homogeneous; and moreover, the frequency module of the solution is contained in that of the nonlinearity.

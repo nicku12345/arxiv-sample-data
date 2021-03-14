@@ -1,0 +1,1 @@
+The purpose of this paper is to investigate central elements in distribution algebras Dist(G) of general linear supergroups G=GL(m|n). As an application, we compute explicitly the center of Dist(GL(1|1)) and its image under Harish-Chandra homomorphism.

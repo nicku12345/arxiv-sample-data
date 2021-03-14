@@ -1,0 +1,1 @@
+The development of high-degree interpolation polynomials which use the values of the function and its subsequent derivatives is reformulated. Also, we present a variant of new formula in barycentric form.

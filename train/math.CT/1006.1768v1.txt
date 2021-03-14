@@ -1,0 +1,1 @@
+We show that two known conditions which arose naturally in commutator theory and in the theory of internal crossed modules coincide: every star-multiplicative graph is multiplicative if and only if every two effective equivalence relations commute as soon as their normalisations do. This answers a question asked by George Janelidze.

@@ -1,0 +1,1 @@
+For an algebraically closed field K with ch K \not = 2, we determine the Chow ring of the moduli space of holomorphic bundles on a projective plane with the structure group SO(n,K) and half the first Pontryagin index being equal to 1, each of which is trivial on a fixed line and has a fixed holomorphic trivialization there.

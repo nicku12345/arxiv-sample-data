@@ -1,0 +1,1 @@
+We ask when certain complete intersections of codimension r can lie on a generic hypersurface in \PP^n. We give a complete answer to this question when 2r \leq n+2 in terms of the degrees of the hypersurfaces and of the degrees of the generators of the complete intersection.

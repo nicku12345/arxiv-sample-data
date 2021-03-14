@@ -1,0 +1,1 @@
+A discrete set in the Euclidian space is almost periodic, if the measure with the unite masses at points of the set is almost periodic in the weak sense. We prove the following result: if A is a discrete almost periodic set and the set A-A is discrete, then A consists of a finite number of translates of a full rank lattice.

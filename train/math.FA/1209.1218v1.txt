@@ -1,0 +1,1 @@
+It is shown that if 1<p<\infty and X is a subspace or a quotient of an \ell_p-direct sum of finite dimensional Banach spaces, then for any compact operator T on X such that \|I+T\|>1, the operator I+T attains its norm. A reflexive Banach space X and a bounded rank one operator T on X are constructed such that \|I+T\|>1 and I+T does not attain its norm.

@@ -1,0 +1,1 @@
+In this paper, we introduce an iterative numerical method to solve systems of nonlinear equations. The third-order convergence of this method is analyzed. Several examples are given to illustrate the efficiency of the proposed method.

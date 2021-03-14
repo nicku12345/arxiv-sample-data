@@ -1,0 +1,1 @@
+In this paper, we consider the spatially homogeneous Boltzmann equation without angular cutoff. We prove that every L^1 weak solution to the Cauchy problem with finite moments of all order acquires the C^\infty regularity in the velocity variable for the positive time.

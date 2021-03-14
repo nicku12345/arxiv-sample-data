@@ -1,0 +1,1 @@
+We show that every null-additive set is meager-additive, where:   (1) a set X subseteq 2^omega is null-additive if for every Lebesgue null set A subseteq 2^omega, X+A is null too;   (2) we say that X subseteq 2^omega is meager-additive if for every A subseteq 2^omega which is meager also X+A is meager.

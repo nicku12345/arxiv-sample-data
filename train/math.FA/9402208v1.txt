@@ -1,0 +1,1 @@
+Let M be a non-degenerate Orlicz function such that there exist \ep > 0 and 0 < s < 1 with \su M(\ep s^i)/M(s^i) < \infty. It is shown that the Orlicz sequence space h_M is isomorphic to a subspace of C(\om^\om). It is also shown that for any non-degenerate Orlicz function M, h_M does not embed into C(\al) for any \al < \om^\om.

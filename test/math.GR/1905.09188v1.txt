@@ -1,0 +1,1 @@
+We describe algorithms and heuristics that allow us to express arbitrary elements of SLn (Z) and Sp2n (Z) as products of generators in particular "standard" generating sets. For elements obtained experimentally as random products, it produces product expressions whose lengths are competitive with the input lengths.

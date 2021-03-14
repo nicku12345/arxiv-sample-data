@@ -1,0 +1,1 @@
+This research announcement continues the study of the symplectic homology of Weinstein manifolds undertaken in [BEE1] where the symplectic homology, as a vector space, was expressed in terms of the Legendrian homology algebra of the attaching spheres of critical handles. Here we express the product and \BV-operator of symplectic homology in that context.

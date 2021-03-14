@@ -1,0 +1,1 @@
+We show that the reduced cofinality of the nonstationary ideal NS_kappa on a regular uncountable cardinal kappa may be less than its cofinality, where the reduced cofinality of NS_kappa is the least cardinality of any family F of nonstationary subsets of kappa such that every nonstationary subset of kappa can be covered by less than \kappa many members of F.

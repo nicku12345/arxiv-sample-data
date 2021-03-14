@@ -1,0 +1,1 @@
+We give an example of a strongly semistable vector bundle of rank two on the projective plane such that there exist smooth curves of arbitrary high degree with the property that the restriction of the bundle to the curve is not strongly semistable anymore. This shows that a Bogomolov type restriction theorem does not hold for strong semistability in positive characteristic.

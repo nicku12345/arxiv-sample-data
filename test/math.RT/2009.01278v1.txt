@@ -1,0 +1,1 @@
+Let G be a reductive connected algebraic group over the field of complex numbers. Through the geometric Satake equivalence, the fundamental classes of the Mirkovi\'c-Vilonen cycles define a basis in each tensor product of rational irreducible representations of G. In the case G=SL_2(C), we show that this basis coincides with the dual canonical basis at q=1.

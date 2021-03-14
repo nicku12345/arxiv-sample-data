@@ -1,0 +1,1 @@
+We use the nonstandard Fourier transform method, along with an established nonstandard approach to ODE's, to find a solution to the heat equation, on (0,\infty)\times\mathcal{R}, with a given boundary condition g at t=0. We use this result to find an algorithm, converging to a solution of this equation, with applications to derivatives pricing in finance.

@@ -1,0 +1,1 @@
+A classical theorem of Menshov states that every measurable function can redefined on a set of arbitrarily small Lebesgue measure, so that the resulting function has uniformly convergent Fourier series. We prove that the same is true if we replace Lebesgue measure with an arbitrary Borel measure.

@@ -1,0 +1,1 @@
+It is well known that the numbers (2m)! (2n)!/m! n! (m+n)! are integers, but in general there is no known combinatorial interpretation for them. When m=0 these numbers are the middle binomial coefficients \binom{2n}{n}, and when m=1 they are twice the Catalan numbers. In this paper, we give combinatorial interpretations for these numbers when m=2 or 3.

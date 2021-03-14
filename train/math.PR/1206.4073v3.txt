@@ -1,0 +1,1 @@
+Fatou's lemma states under appropriate conditions that the integral of the lower limit of a sequence of functions is not greater than the lower limit of the integrals. This note describes similar inequalities when, instead of a single measure, the functions are integrated with respect to different measures that form a weakly convergent sequence.

@@ -1,0 +1,1 @@
+We prove two disc formulas for the Siciak-Zahariuta extremal function of an arbitrary open subset of complex affine space. We use these formulas to characterize the polynomial hull of an arbitrary compact subset of complex affine space in terms of analytic discs. Similar results in previous work of ours required the subsets to be connected.

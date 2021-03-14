@@ -1,0 +1,1 @@
+We prove stability results for a class of Gabor frames in  L^2(\R). We consider window functions in the Sobolev spaces H^1_0(\R) and B-splines of order p\ge 1. Our results can be used to describe the effect of the timing jitters in the p-order hold models of signal reconstruction.

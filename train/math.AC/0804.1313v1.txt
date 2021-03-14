@@ -1,0 +1,1 @@
+Given a ring R, we investigate tilting modules of the form S \oplus S/R for some injective ring epimorphism R \to S. In particular, we are interested in tilting modules arising from Schofield's universal localization. For some rings, in this way one obtains a classification of all tilting modules.

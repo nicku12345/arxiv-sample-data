@@ -1,0 +1,1 @@
+We prove that   |{1<=y<=x: y is odd and not of the form p+2^a+2^b}|>>x^{1-\epsilon} for any \epsilon>0, where the implied constant only depends on \epsilon.

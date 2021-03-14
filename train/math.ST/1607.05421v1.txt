@@ -1,0 +1,1 @@
+We study the problem of estimating the mean of a multivariatedistribution based on independent samples. The main result is the proof of existence of an estimator with a non-asymptotic sub-Gaussian performance for all distributions satisfying some mild moment assumptions.

@@ -1,0 +1,1 @@
+The classic Gauss-Lucas Theorem for complex polynomials of degree d\ge2 has a natural reformulation over quaternions, obtained via rotation around the real axis. We prove that such a reformulation is true only for d=2. We present a new quaternionic version of the Gauss-Lucas Theorem valid for all d\geq2, together with some consequences.

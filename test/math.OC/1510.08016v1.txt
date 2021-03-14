@@ -1,0 +1,1 @@
+In this paper, two parallel methods for solving systems of accretive operator equations in Banach spaces are studied. The convergence analysis of the methods in both free-noise and noisy data cases is provided.

@@ -1,0 +1,1 @@
+These are notes from a 2010 talk. They concern possible ways in which Fukaya categories might be considered as "local", which means glued together from simpler pieces in a loosely sheaf-theoretic sense. As the title suggests, this is purely speculative. Much of the motivation comes from tropical geometry and mirror symmetry.

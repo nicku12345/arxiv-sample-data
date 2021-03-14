@@ -1,0 +1,1 @@
+In the article we address two issues related to the perturbation method introduced by Zhang and Lu, and applied to solving linear stochastic parabolic PDE. Those issues are: the construction of the perturbation series, and its convergence.

@@ -1,0 +1,1 @@
+We show that the page at which the Lee spectral sequence collapses gives a bound on the unknotting number, u(K). In particular, for knots with u(K)<3, we show that the Lee spectral sequence must collapse at the E_2 page. An immediate corollary is that the Knight Move Conjecture is true when u(K)<3.

@@ -1,0 +1,1 @@
+The class of 1-generator quasi-abelian codes over finite fields is revisited. Alternative and explicit characterization and enumeration of such codes are given. An algorithm to find all 1-generator quasi-abelian codes is provided. Two 1-generator quasi-abelian codes whose minimum distances are improved from Grassl's online table are presented.

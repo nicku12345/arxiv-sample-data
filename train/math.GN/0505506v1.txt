@@ -1,0 +1,1 @@
+Let \G be a limit group, S\subset\G a subgroup, and N the normaliser of S. If H_1(S,\mathbb Q) has finite \Q-dimension, then S is finitely generated and either N/S is finite or N is abelian. This result has applications to the study of subdirect products of limit groups.

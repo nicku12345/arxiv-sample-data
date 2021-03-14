@@ -1,0 +1,1 @@
+For a Lie algebroid, divergences chosen in a classical way lead to a uniquely defined homology theory. They define also, in a natural way, modular classes of certain Lie algebroid morphisms. This approach, applied for the anchor map, recovers the concept of modular class due to S. Evans, J.-H. Lu, and A. Weinstein.

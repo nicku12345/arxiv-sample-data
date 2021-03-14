@@ -1,0 +1,1 @@
+The moduli space of generalized deformations of a Calabi-Yau hypersurface is computed in terms of the Jacobian ring of the defining polynomial. The fibers of the tangent bundle to this moduli space carry algebra structures, which are identified using subalgebras of a deformed Jacobian ring.

@@ -1,0 +1,1 @@
+In a finite-dimensional real vector space furnished with a rational structure with respect to a subfield of the field of real numbers, every (simplicial) rational semifan is contained in a complete (simplicial) rational semifan. In this paper this result is proved constructively on use of techniques from polyhedral geometry.

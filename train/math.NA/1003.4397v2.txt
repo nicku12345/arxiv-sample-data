@@ -1,0 +1,1 @@
+In this article, we construct a representation formula for stochastic B-series evaluated in a B-series. This formula is used to give for the first time the order conditions of implicit Taylor methods in terms of rooted trees. Finally, as an example we apply these order conditions to derive in a simple manner a family of strong order 1.5 Taylor methods applicable to It\^o SDEs.

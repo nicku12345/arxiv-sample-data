@@ -1,0 +1,1 @@
+We show that given n\ge 3, q\ge 1, and a finite set \{y_1,\ldots, y_q\} in \mathbb R^n there exists a quasiregular mapping \mathbb R^n \to \mathbb R^n omitting exactly points y_1,\ldots, y_q.

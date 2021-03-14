@@ -1,0 +1,1 @@
+We consider a family of vector fields and we assume a horizontal regularity on their derivatives. We discuss the notion of commutator showing that different definitions agree. We apply our results to the proof of a ball-box theorem and Poincar\'e inequality for nonsmooth H\"ormander vector fields.

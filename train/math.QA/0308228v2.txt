@@ -1,0 +1,1 @@
+We give the construction of a class of weak Hopf algebras (or quantum groupoids) associated to a matched pair of groupoids and certain cocycle data. This generalizes a now well-known construction for Hopf algebras, first studied by G. I. Kac in the sixties. Our approach is based on the notion of double groupoids, as introduced by Ehresmann.

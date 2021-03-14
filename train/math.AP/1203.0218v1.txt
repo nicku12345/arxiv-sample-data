@@ -1,0 +1,1 @@
+This short note is a sequel to our previous papers on the asymptotic behavior of Bloch wave packet solutions of the wave equation in periodic media. The purpose is to prove that the group velocity for these Bloch wave packets is bounded by the maximal speed of propagation for the original wave equation.

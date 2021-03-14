@@ -1,0 +1,1 @@
+We consider a question: Can a given AD-family be ADR for two orthogonal uncountable towers? If b > \omega_1, then we rebuilt any AD-family of the cardinality \omega_1 onto a Hausdorff pre-gap. Moreover, if a such AD-family is a Luzin gap, then we obtain a Hausdorff gap. Under b = \omega_1, a similar rebuilding is impossible.

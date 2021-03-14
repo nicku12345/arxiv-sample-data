@@ -1,0 +1,1 @@
+Let K be a field of characteristic zero and let R = K[X_1,\ldots,X_n]. Let I be an ideal in R and let M = H^i_I(R) be the i^{th}-local cohomology module of R with respect to I.   Let c = \ injdim \ M. We prove that if P is a prime ideal in R with Bass number \mu_c(P,M) > 0 then P is a maximal ideal in R.

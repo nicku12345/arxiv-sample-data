@@ -1,0 +1,1 @@
+We study a polyhedron with n vertices of fixed volume having minimum surface area. Completing the proof of Fejes Toth, we show that all faces of a minimum polyhedron are triangles, and further prove that a minimum polyhedron does not allow deformation of a single vertex. We also present possible minimum shapes for n\le 12, some of them are quite unexpected, in particular n=8.

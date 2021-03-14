@@ -1,0 +1,1 @@
+We develop a spectral analysis of a class of block Jacobi operators based on the conjugate operator method of Mourre. We give several applications including scalar Jacobi operators with periodic coefficients, a class of difference operators on cylindrical domains such as discrete wave propagators, and certain fourth-order difference operators.

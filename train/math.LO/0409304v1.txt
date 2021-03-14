@@ -1,0 +1,1 @@
+If kappa is any strongly unfoldable cardinal, then this is preserved in a forcing extension in which Diamond_kappa(REG) fails. This result continues the progression of the corresponding results for weakly compact cardinals, due to Woodin, and for indescribable cardinals, due to Hauser.

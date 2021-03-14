@@ -1,0 +1,1 @@
+This paper classifies all the tilting bundles in the category of coherent sheaves on the weighted projective line of weight type (2, 2, n), and investigates the abelianness of the "missing part" from the category of coherent sheaves to the category of finitely generated right modules on the associated tilted algebra for each tilting bundle.

@@ -1,0 +1,1 @@
+A finitely generated group G acting on a tree with infinite cyclic edge and vertex stabilizers is called a generalized Baumslag--Solitar group (GBS group). We prove that a 1-knot group G is GBS group iff G is a torus-knot group and describe all n-knot GBS groups for n\geqslant 3.

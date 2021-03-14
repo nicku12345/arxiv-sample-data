@@ -1,0 +1,1 @@
+For any Lipschitz domain we construct an arbitrarily small, localized perturbation which splits the spectrum of the Laplacian into simple eigenvalues. We use for this purpose a Hadamard's formula and spectral stability results.

@@ -1,0 +1,1 @@
+Let G be a finite simple graph and I(G) denote the corresponding edge ideal. In this paper we prove that if G is a unicyclic graph then for all s \geq 1 the regularity of I(G)^s is exactly 2s+\text{reg}(I(G))-2. We also characterize the unicyclic graphs with regularity \nu(G)+1 and \nu(G)+2, where \nu(G) denotes the induced matching number of G.

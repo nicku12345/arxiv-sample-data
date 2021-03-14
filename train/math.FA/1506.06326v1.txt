@@ -1,0 +1,1 @@
+There is a canonical unitary transformation from L^2(\R) onto the Fock space F^2, called the Bargmann transform. The purpose of this article is to translate some important results and operators from the context of L^2(\R) to that of F^2. Examples include the Fourier transform, the Hilbert transform, Gabor frames, pseudo-differential operators, and the uncertainty principle.

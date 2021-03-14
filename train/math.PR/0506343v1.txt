@@ -1,0 +1,1 @@
+Consider a list of n files whose popularities are random. These files are updated according to the move-to-front rule and we consider the induced Markov chain at equilibrium. We give the exact limiting distribution of the search-cost per item as n tends to infinity. Some examples are supplied.

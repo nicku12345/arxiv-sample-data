@@ -1,0 +1,1 @@
+Shifting by \pm 1 powers sums: p_i \to p_i \pm 1 induces a transformation on symmetric functions that we detail in the case of Hall-Littlewood polynomials. By iteration, this gives a description of these polynomials in terms of plane partitions, as well as some generating functions. We recover in particular an identity of Warnaar related to Rogers-Ramanujan identities.

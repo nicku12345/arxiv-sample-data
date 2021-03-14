@@ -1,0 +1,1 @@
+H. Friedman obtained remarkable results about the longest finite sequence x such that for all i \not= j the word x[i..2i] is not a subsequence of x[j..2j]. In this note we consider what happens when ``subsequence'' is replaced by ``subword''.

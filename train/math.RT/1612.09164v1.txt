@@ -1,0 +1,1 @@
+Let A be a concealed canonical algebra and d the dimension vector of an A-module which is periodic respect to the action of the Auslander-Reiten translation In the paper, we investigate the union of the closures of the orbits of the periodic A-modules of dimension vector d. We show that this set is closed and regular in codimension one.

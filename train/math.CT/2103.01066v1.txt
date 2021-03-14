@@ -1,0 +1,1 @@
+We show that the complicial nerve construction is homotopically compatible with two flavors of cone constructions when starting with an \omega-category that is suitably free and loop-free. An instance of the result recovers the fact that the standard m-simplex is equivalent to the complicial nerve of the m-oriental.

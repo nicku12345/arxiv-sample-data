@@ -1,0 +1,1 @@
+The standard BV complex is never acyclic provided that the equations of motion have solutions and the admissible class of functions is general enough, unless one introduces second-order antifields. This phenomenon is explicitly illustrated for the harmonic oscillator and the free electromagnetic field.

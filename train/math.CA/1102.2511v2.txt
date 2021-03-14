@@ -1,0 +1,1 @@
+We show that the Hilger derivative on time scales is a special case of the Radon--Nikodym derivative with respect to the natural measure associated with every time scale. Moreover, we show that the concept of delta absolute continuity agrees with the one from measure theory in this context.

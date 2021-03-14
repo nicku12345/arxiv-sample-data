@@ -1,0 +1,1 @@
+A (complete) matching of the cells of a triangulated manifold can be thought as a combinatorial or discrete version of a nonsingular vector field.   We give several methods for constructing such matchings.

@@ -1,0 +1,1 @@
+Singular value decompositions of matrices are widely used in numerical linear algebra with many applications. In this paper, we extend the notion of singular value decompositions to finite complexes of real vector spaces. We provide two methods to compute them and present several applications.

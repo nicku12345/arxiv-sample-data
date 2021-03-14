@@ -1,0 +1,1 @@
+Borisov and Libgober recently proved a conjecture of Dijkgraaf, Moore, Verlinde, and Verlinde on the elliptic genus of a Hilbert scheme of points on a surface. We show how their result can be used together with our work on complex genera of generalised Kummer varieties to deduce a formula for the elliptic genus of a generalised Kummer variety.

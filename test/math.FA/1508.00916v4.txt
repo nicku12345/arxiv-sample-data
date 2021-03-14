@@ -1,0 +1,1 @@
+We show that if a tuple of commuting, bounded linear operators (T_1,...,T_d) \in B(X)^d is both an (m,p)-isometry and a (\mu,\infty)-isometry, then the tuple (T_1^m,...,T_d^m) is a (1,p)-isometry. We further prove some additional properties of the operators T_1,...,T_d and show a stronger result in the case of a commuting pair (T_1,T_2).

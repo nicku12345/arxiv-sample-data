@@ -1,0 +1,1 @@
+We determine the Bohr radius for the class of odd functions f satisfying |f(z)|\le 1 for all |z|<1, settling the recent conjecture of Ali, Barnard and Solynin \cite{AliBarSoly}. In fact, we solve this problem in a more general setting. Then we discuss Bohr's radius for the class of analytic functions g, when g is subordinate to a member of the class of odd univalent functions.

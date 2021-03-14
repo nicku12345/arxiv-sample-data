@@ -1,0 +1,1 @@
+Categorical skew lattices are a variety of skew lattices on which the natural partial order is especially well behaved. While most skew lattices of interest are categorical, not all are. They are characterized by a countable family of forbidden subalgebras. We also consider the subclass of strictly categorical skew lattices.

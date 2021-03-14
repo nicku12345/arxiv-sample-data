@@ -1,0 +1,1 @@
+Let n be a positive integer. We provide a Khovanov homology proof of the following classical fact: If the closure of an n-strand braid is the n-component unlink, then the braid is trivial.

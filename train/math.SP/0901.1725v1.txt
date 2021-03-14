@@ -1,0 +1,1 @@
+We prove Lieb-Thirring-type bounds on eigenvalues of non-selfadjoint Jacobi operators, which are nearly as strong as those proven previously for the case of selfadjoint operators by Hundertmark and Simon. We use a method based on determinants of operators and on complex function theory, extending and sharpening earlier work of Borichev, Golinskii and Kupin.

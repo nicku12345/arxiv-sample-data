@@ -1,0 +1,1 @@
+Let B(z) be a finite Blaschke product of degree n. We consider the problem when a finite Blaschke product can be written as a composition of two nontrivial Blaschke products of lower degree related to the condition % B\circ M=B where M is a M\"{o}bius transformation from the unit disk onto itself.

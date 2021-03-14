@@ -1,0 +1,1 @@
+Consider a flag variety Fl over an algebraically closed field, and a subvariety V whose cycle class is a multiplicity-free sum of Schubert cycles. We show that V is arithmetically normal and Cohen-Macaulay, in the projective embedding given by any ample invertible sheaf on Fl.

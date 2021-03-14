@@ -1,0 +1,1 @@
+We study c-preprojective roots for a Coxeter element c of infinite Coxeter group W. In particular, we consider the case when any positive root is c-preprojective for some Coxeter element c. In this paper, by assuming that the Coxeter graph of W is cyclic, we establish that any positive root is c-preprojective for some Coxeter element c if and only if W is an affine Coxeter group.

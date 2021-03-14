@@ -1,0 +1,1 @@
+For ergodic 1d Jacobi operators we prove that the random singular components of any spectral measure are almost surely mutually disjoint as long as one restricts to the set of positive Lyapunov exponent. In the context of extended Harper's equation this yields the first rigorous proof of the Thouless' formula for the Lyapunov exponent in the dual regions.

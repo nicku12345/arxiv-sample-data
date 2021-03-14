@@ -1,0 +1,1 @@
+We introduce and study effective versions of the localization numbers introduced by Newelski and Roslanowski (cite in paper). We show that proper hierarchies are produced, and that the corresponding highness notions are relatively weak, in that they can often be made computably traceable. We discuss connections with other better-understood effective cardinal characteristics.

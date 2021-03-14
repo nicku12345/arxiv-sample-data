@@ -1,0 +1,1 @@
+We prove that the twisted Reidemeister torsion of a 3-manifold corresponding to a fibered class is monic and we show that it gives lower bounds on the Thurston norm. The former fixes a flawed proof in [FV10], the latter gives a quick alternative argument for the main theorem of [FK06].

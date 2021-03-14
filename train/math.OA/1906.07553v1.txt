@@ -1,0 +1,1 @@
+In this paper we discuss the relationship between a TRO \mathcal{T} and a sub-TRO \mathcal{S} that is the range of a TRO-conditional expectation on \mathcal{T}, a \textit{ternary corner}, by investigating a special class \mathcal{D} of bounded linear maps on~\mathcal{T}. We pay particular attention to the case when the TROs contain partial isometries.

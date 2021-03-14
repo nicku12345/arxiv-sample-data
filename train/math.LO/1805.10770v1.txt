@@ -1,0 +1,1 @@
+We give several different encodings of the step function of a Turing machine in intuitionistic linear logic, and calculate the denotations of these encodings in the Sweedler semantics.

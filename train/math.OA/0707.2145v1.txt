@@ -1,0 +1,1 @@
+We explain the notion of minimality for an equivariant spectral triple and show that the triple for the quantum SU(2) group constructed by Chakraborty and Pal in \cite{c-p1} is minimal. We also give a decomposition of the spectral triple constructed by Dabrowski {\it et al} \cite{dlssv} in terms of the minimal triple constructed in \cite{c-p1}.

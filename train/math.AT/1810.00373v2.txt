@@ -1,0 +1,1 @@
+We use derived localization of the bar and nerve constructions to provide simple proofs of a number of results in algebraic topology. This includes a recent generalization of Adams' cobar-construction to the non-simply connected case, and a new model for the homotopy theory of connected topological spaces using an infinity category of discrete monoids.

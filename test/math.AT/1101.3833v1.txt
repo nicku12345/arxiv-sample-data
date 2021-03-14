@@ -1,0 +1,1 @@
+Scissors congruence groups have traditionally been expressed algebraically in terms of group homology. We give an alternate construction of these groups by producing them as the 0-level in the algebraic K-theory of a Waldhausen category.

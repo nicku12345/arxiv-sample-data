@@ -1,0 +1,1 @@
+We establish an upper bound on the spectral gap for compact quantum graphs which depends only on the diameter and total number of vertices. This bound is asymptotically sharp for pumpkin chains with number of edges tending to infinity.

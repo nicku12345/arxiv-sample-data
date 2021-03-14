@@ -1,0 +1,1 @@
+Let L be a (pro-nilpotent) curved L-infinity algebra, and let h be a homotopy between L and a subcomplex M. Using homotopical perturbation theory, Fukaya constructed from this data a curved L-infinity structure on M. We prove that projection from L to M induces a bijection between the set of Maurer-Cartan elements x of L such that hx=0 and the set of Maurer-Cartan elements of M.

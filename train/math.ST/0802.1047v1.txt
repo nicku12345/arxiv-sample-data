@@ -1,0 +1,1 @@
+In this paper, we are concerned with nonparametric estimation of the multivariate regression function in the presence of right censored data. More precisely, we propose a statistic that is shown to be asymptotically normally distributed under the additive assumption, and that could be used to test for additivity in the censored regression setting.

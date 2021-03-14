@@ -1,0 +1,1 @@
+Improving a result of M. Rabus we force a normal, locally compact, 0-dimensional,Frechet-Uryson, initially omega_1-compact and non-compact space X of size omega_2 having the following property: for every open (or closed) set A in X we have |A|<omega_2 or |X\A|<omega_2.

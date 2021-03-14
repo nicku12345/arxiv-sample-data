@@ -1,0 +1,1 @@
+The Cayley cubic surface is given by the equation sum_{i=1}^4 X_i^{-1}=0. We show that the number of non-trivial primitive integer points of size at most B is of exact order B(log B)^6, as predicted by Manin's conjecture.

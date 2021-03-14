@@ -1,0 +1,1 @@
+It is proved that all recursively enumerable sets of natural numbers can be represented by arithmetic formulas (of two kinds) with only 3 quantifiers.

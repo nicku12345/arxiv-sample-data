@@ -1,0 +1,1 @@
+The purpose of this paper is to compute the Drinfel'd polynomials for two types of evaluation representations of quantum affine algebras at roots of unity and construct those representations as the submodules of evaluation Schnizer modules. Moreover, we obtain the necessary and sufficient condition for that the two types of evaluation representations are isomorphic to each other.

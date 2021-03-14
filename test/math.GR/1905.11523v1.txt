@@ -1,0 +1,1 @@
+We give a geometric characterization of finite rational groups. In particular, we prove that a finite group is rational if and only if there exists a finite geometry \Gamma of type I and action of G on \Gamma as a group of automorphisms such that if g and h are elements of G fixing the same number of flags of type J for all subsets J of I, then g and h are conjugate in G.

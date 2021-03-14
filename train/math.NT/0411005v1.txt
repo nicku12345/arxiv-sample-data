@@ -1,0 +1,1 @@
+We generalise remarks of Euler and of Perron by explaining how to detail all quadratic irrational integers for which the symmetric part of the period of their continued fraction expansion commences with prescribed partial quotients. The function field case is particularly striking.

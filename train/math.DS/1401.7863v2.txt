@@ -1,0 +1,1 @@
+Modifying Hall's idea in "A C^{\infty} Denjoy counterexample" we construct an example of homeomorphism of the circle which is a Denjoy counterexample (i.e. it is not conjugated to a rotation) and which is a C^{\infty}-diffeomorphism everywhere except in a flat half-critical point.

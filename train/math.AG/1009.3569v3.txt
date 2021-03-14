@@ -1,0 +1,1 @@
+Classical theorems of Gel'fand et al., and recent results of Beukers, show that non-confluent Cohen-Macaulay A-hypergeometric systems have reducible monodromy representation if and only if the continuous parameter is A-resonant. We remove both the confluence and Cohen-Macaulayness conditions while simplifying the proof.

@@ -1,0 +1,1 @@
+In this paper we prove that if \Lambda\in M_p(\mathbb R^N) and has compact support then \Lambda is a weak summability kernel for 1<p<\infty, where M_p(\mathbb R^N) is the space of multipliers of L^p(\mathbb R^N).

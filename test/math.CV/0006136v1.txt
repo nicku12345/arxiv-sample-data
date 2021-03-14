@@ -1,0 +1,1 @@
+We show that if the closure of a smooth pseudoconvex domain admits a "sufficiently nice" Stein neighborhood basis, then the d-bar Neumann problem on the domain is globally regular.

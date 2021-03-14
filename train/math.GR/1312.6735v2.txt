@@ -1,0 +1,1 @@
+Let G be a noncocompact irreducible arithmetic group over a global function field K of characteristic p, and let H be a finite-index, residually p-finite subgroup of G. We show that the cohomology of H in the dimension of its associated Euclidean building with coefficients in the field of p elements is infinite.

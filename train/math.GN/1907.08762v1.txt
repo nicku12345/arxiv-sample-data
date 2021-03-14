@@ -1,0 +1,1 @@
+A space X is called Ps-normal(Ps-Tychonoff) space if there exists a normal(Tychonoff) space Y and a bijection f: X\mapsto Y such that f\lvert_K:K\mapsto f(K) is homeomorphism for any pseudocompact subset K of X. We establish a few relations between C-normal, CC-normal, L-normal, C-Tychonoff, CC-Tychonoff spaces with Ps-normal and Ps-Tychonoff spaces.

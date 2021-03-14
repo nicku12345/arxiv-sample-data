@@ -1,0 +1,1 @@
+An example of constructive (in A.A.Markov's sense) real-valued function, which is integrable by Riemann, but is not integrable by Darboux, is constructed.

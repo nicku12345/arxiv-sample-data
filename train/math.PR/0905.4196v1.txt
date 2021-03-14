@@ -1,0 +1,1 @@
+We prove that a stationary max--infinitely divisible process is mixing (ergodic) iff its dependence function converges to 0 (is Cesaro summable to 0). These criteria are applied to some classes of max--infinitely divisible processes.

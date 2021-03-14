@@ -1,0 +1,1 @@
+We prove the Kauffman-Harary Conjecture, posed in 1999: given a reduced, alternating diagram D of a knot with prime determinant p, every non-trivial Fox p-coloring of D will assign different colors to different arcs.

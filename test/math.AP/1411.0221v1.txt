@@ -1,0 +1,1 @@
+Let \Omega be a bounded annular C^{1,1} domain in \mathbb{R}^2 which is left invariant under the action of the dihedral group D_n of isometries of \mathbb{R}^2 .We show that the nodal line of a second Dirichlet eigenfunction must intersect the boundary of \Omega, under suitable conditions on \frac{\partial}{\partial \theta} .

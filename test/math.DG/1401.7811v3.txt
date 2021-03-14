@@ -1,0 +1,1 @@
+Main theorem of this paper states that Floer cohomology groups in a Hilbert space are isomorphic to the cohomological Conley Index. It is also shown that calculating cohomological Conley Index does not require finite dimensional approximations of the vector field. Further directions are discussed.

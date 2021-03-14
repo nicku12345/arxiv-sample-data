@@ -1,0 +1,1 @@
+We propose a computation of real motivic zeta functions for real polynomial functions, using Newton polyhedron. As a consequence we show that the weights are blow-Nash invariants of convenient weighted homogeneous polynomials in three variables.

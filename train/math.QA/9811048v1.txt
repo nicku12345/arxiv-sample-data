@@ -1,0 +1,1 @@
+We discuss the hypergeometric solutions of the quantized Knizhnik-Zamolodchikov (qKZ) equation at level zero and show that they give all solutions of the qKZ equation. We completely describe linear relations between the hypergeometric solutions and give an interpretation of the relations in terms of the quantum group U_q(sl_2) at q=e^{\pi i/2}.

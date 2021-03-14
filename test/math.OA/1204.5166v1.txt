@@ -1,0 +1,1 @@
+In this note we utilize a non-trivial block approach due to M. Petrescu to exhibit a Butson-type complex Hadamard matrix of order 19, composed of sixth roots of unity.

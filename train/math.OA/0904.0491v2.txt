@@ -1,0 +1,1 @@
+We give a method to produce representations of the braid group B_n of n-1 generators (n\leq \infty). Moreover, we give sufficient conditions over a non unitary representation for being of this type. This method produces examples of irreducible representations of finite and infinite dimension.

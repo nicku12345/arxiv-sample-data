@@ -1,0 +1,1 @@
+In this paper, we derive the sharp interface model of the nematic-isotropic phase transition from the Landau-de Gennes theory by using the matched asymptotic expansion method. The model includes the evolution equation of the velocity and director field of the liquid crystal, the sharp interface and Young-Laplace jump condition on the interface.

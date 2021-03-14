@@ -1,0 +1,1 @@
+In this paper, we will discuss the notion of almost orthogonality in a functional sequence.Especially, we will define a few sequences of almost orthogonal polynomials which can be used successfully for modeling of electronic systems which generate orthonormal basis. We will include quasi-orthogonality and examine its influence on the behavior of these sequences.

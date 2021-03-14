@@ -1,0 +1,1 @@
+The purpose of this paper is to complement the results in [LS-1] by showing the dense definability of the Cauchy-Leray transform for the domains that give the counterexamples of [LS-1], where L^p-boundedness is shown to fail when either the "near" C^2 boundary regularity, or the strong \mathbb C-linear convexity assumption is dropped.

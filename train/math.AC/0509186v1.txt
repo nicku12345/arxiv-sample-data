@@ -1,0 +1,1 @@
+We show herein that a pattern based on FGLM techniques can be used for computing Gr\"obner bases, or related structures, associated to linear codes. This Gr\"obner bases setting turns out to be strongly related to the combinatorics of the codes.

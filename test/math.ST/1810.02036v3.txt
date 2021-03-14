@@ -1,0 +1,1 @@
+For a given positive random variable V>0 and a given Z\sim N(0,1) independent of V, we compute the scalar t_0 such that the distance between Z\sqrt{V} and Z\sqrt{t_0} in the L^2(\R) sense, is minimal. We also consider the same problem in several dimensions when V is a random positive definite matrix.

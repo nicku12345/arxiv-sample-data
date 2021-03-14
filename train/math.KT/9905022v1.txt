@@ -1,0 +1,1 @@
+K-theory allows us to define an analytical condition for the existence of `false' gauge field copies through the use of the Atiyah-Singer index theorem. After establishing that result we discuss a possible extension of the same result without the help of the index theorem and suggest possible related lines of work.

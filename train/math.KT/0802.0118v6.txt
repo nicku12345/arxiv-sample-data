@@ -1,0 +1,1 @@
+For any positive integer n, \mathcal{A}_n is the class of all groups G such that, for 0\leq i\leq n, H^i(\hat{G},A)\cong H^i(G,A) for every finite discrete \hat{G}-module A. We describe certain types of free products with amalgam and HNN extensions that are in some of the classes \mathcal{A}_n. In addition, we investigate the residually finite groups in the class \mathcal{A}_2.

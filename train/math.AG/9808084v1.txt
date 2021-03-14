@@ -1,0 +1,1 @@
+We recursively compute the Gromov-Witten invariants of the Hilbert scheme of two points in the plane. By studying the space of stable maps and computing virtual contributions, we use these invariants to enumerate hyperelliptic plane curves of degree d and genus g passing through 3d+1 general points.

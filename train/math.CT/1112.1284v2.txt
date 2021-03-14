@@ -1,0 +1,1 @@
+We functorially characterize groupoids as special dagger Frobenius algebras in the category of sets and relations. This is then generalized to a non-unital setting, by establishing an adjunction between H*-algebras in the category of sets and relations, and locally cancellative regular semigroupoids. Finally, we study a universal passage from the former setting to the latter.

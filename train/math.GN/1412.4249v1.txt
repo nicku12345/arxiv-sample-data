@@ -1,0 +1,1 @@
+We prove that the inclusion of map(X,Y) into map(K(X),K(Y)) is continuous, where K(X) is the space of non-empty compact subsets of X (also known as the hyperspace of compact subsets of X), and both spaces of maps are endowed with the compact-open topology.

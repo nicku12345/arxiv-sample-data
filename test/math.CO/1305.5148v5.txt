@@ -1,0 +1,1 @@
+An identifying code in a graph G is a dominating set C such that the closed neighborhood of each vertex in G has a distinct intersection with C. In 2008, Gravier et al. determined the minimum cardinality of an identifying code of the Cartesian product of two cliques with the same size. In this note, we generalize this result to the Cartesian product of any two nontrivial cliques.

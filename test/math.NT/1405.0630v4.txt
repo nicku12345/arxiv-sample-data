@@ -1,0 +1,1 @@
+We prove that the arboreal Galois representation attached to a large class of quadratic polynomials defined over a field of rational functions in characteristic zero has finite index in the full automorphism group of the associated preimage tree. Moreover, we show that the index is bounded, in most cases, independently of the polynomial.

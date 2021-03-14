@@ -1,0 +1,1 @@
+Let M be the moduli space of semistable sheaves with Mukai vector 2v on an abelian or K3 surface where v is primitive such that <v,v>=2. We show that the blow-up of the reduced singular locus of M provides a symplectic resolution of singularities. This gives a direct description of O'Grady's resolutions of M\_{K3}(2,0,4) and M\_{Ab}(2,0,2).

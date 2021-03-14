@@ -1,0 +1,1 @@
+Strong Bochner type integrals with values in locally convex spaces are introduced. It is shown that the strong integral exists in the same cases as the weak (Gelfand-Pettis) integral is known to exist. The strong integral has better continuity properties that the weak integral.

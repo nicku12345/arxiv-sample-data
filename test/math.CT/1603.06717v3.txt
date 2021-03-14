@@ -1,0 +1,1 @@
+In this short note we observe that, for purely formal reasons, any autoequivalence can be constructed as a twist around a spherical functor. As an example, we show how the P-twists constructed by Huybrechts and Thomas can be formulated as spherical twists.

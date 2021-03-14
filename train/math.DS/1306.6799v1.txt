@@ -1,0 +1,1 @@
+We prove that every endomorphism which satisfies Axiom A and the strong transversality conditions is C^1-inverse limit structurally stable. These conditions were conjectured to be necessary and sufficient. This result is applied to the study of unfolding of some homoclinic tangencies. This also achieves a characterization of C^1-inverse limit structurally stable covering maps.

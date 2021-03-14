@@ -1,0 +1,1 @@
+We study the Borel reducibility of isomorphism relations in the generalized Baire space \kappa^\kappa. In the main result we show for inaccessible \kappa, that if T is a classifiable theory and T' is stable with OCP, then the isomorphism of models of T is Borel reducible to the isomorphism of models of T'.

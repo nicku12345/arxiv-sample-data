@@ -1,0 +1,1 @@
+Let U be a neighbourhood of 0 \in C^n.We show that for a holomorphic mapping F = (f_1,...,f_m) : U -> C^m, F(0) = 0, the Lojasiewicz exponent of F at 0 is attained on the set {z \in U : f_1(z)...f_m(z) = 0}.

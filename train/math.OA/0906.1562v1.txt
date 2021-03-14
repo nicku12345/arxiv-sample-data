@@ -1,0 +1,1 @@
+We prove that a partial action is amenable if and only if so is its Morita enveloping action. As applications we prove that any partial representation of a discrete group is positive definite, and we extend a result of Zeller-Meier concerning the amenability of discrete groups and the existence of invariant states to partial actions.

@@ -1,0 +1,1 @@
+We describe a construction of fibrewise inner products on the cotangent bundle of the smooth free loop space of a Riemannian manifold. Using this inner product, we construct an operator over the loop space of a string manifold which is directly analogous to the Dirac operator of a spin manifold.

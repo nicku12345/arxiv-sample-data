@@ -1,0 +1,1 @@
+We introduce extended toric Deligne-Mumford stacks. We use an extended toric Deligne-Mumford stack to get the toric stack bundle and compute its orbifold Chow ring. Finally we generalize one result of Borisov, Chen and Smith so that the orbifold Chow ring of the toric stack bundle and the Chow ring of its crepant resolution are fibres of a flat family.

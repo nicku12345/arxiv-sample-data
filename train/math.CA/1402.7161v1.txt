@@ -1,0 +1,1 @@
+We demonstrate that a violation of the Leibniz rule is a characteristic property of derivatives of non-integer orders. We prove that all fractional derivatives D^a, which satisfy the Leibniz rule D^(fg)=(D^a f) g + f (D^a g), should have the integer order a=1, i.e. fractional derivatives of non-integer orders cannot satisfy the Leibniz rule.

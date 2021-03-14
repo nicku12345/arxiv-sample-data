@@ -1,0 +1,1 @@
+While every group is isomorphic to a transitive group of permutations, the analogous property fails for inverse semigroups: not all inverse semigroups are isomorphic to transitive inverse semigroups of one-to-one partial transformations of a set. We describe those inverse semigroups that are.

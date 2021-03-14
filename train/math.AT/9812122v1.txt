@@ -1,0 +1,1 @@
+We use noncommutative localization to construct a chain complex which counts the critical points of a circle-valued Morse function on a manifold, generalizing the Novikov complex. As a consequence we obtain new topological lower bounds on the minimum number of critical points of a circle-valued Morse function within a homotopy class, generalizing the Novikov inequalities.

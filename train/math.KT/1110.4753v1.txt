@@ -1,0 +1,1 @@
+We define symmetric and exterior powers of categories, fitting into categorified Koszul complexes. We discuss examples and calculate the effect of these power operations on the categorical characters of matrix 2-representations.

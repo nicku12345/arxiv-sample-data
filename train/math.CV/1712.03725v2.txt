@@ -1,0 +1,1 @@
+The goal of this short note is to point out that every Fano manifold with a nef tangent bundle possesses an almost K{\"a}hler-Einstein metric, in a weak sense. The technique relies on a regularization theorem for closed positive (1, 1)-currents. We also discuss related semistability questions and Chern inequalities.

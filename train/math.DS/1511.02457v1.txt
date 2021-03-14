@@ -1,0 +1,1 @@
+In this paper, we prove that if R\colon\widehat{\mathbb{C}}\to\widehat{\mathbb{C}} is a postcritically finite rational map with Julia set homeomorphic to the Sierpi\'nski carpet, then there is an integer n_0, such that, for any n\ge n_0, there exists an R^n-invariant Jordan curve \Gamma containing the postcritical set of R.

@@ -1,0 +1,1 @@
+We study a monomial derivation d proposed by J. Moulin Ollagnier and A. Nowicki in the polynomial ring of four variables, and prove that d has no Darboux polynomials if and only if d has a trivial field of constants.

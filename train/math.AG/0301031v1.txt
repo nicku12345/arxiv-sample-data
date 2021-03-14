@@ -1,0 +1,1 @@
+Recently N. Nitsure showed that for a coherent sheaf F on a noetherian scheme the automorphism functor Aut_F is representable if and only if F is locally free. Here we remove the noetherian hypothesis and show that the same result holds for the endomorphism functor End_F even if one asks for representability by an algebraic space.

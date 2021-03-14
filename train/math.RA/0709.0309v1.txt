@@ -1,0 +1,1 @@
+The standard theorem for regular stochastic matrices is generalized to matrices with no sign restriction on the entries. The condition that column sums be equal to 1 is kept, but the regularity condition is replaced by a condition on the \ell_1-distances between columns.

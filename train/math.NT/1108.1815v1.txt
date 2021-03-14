@@ -1,0 +1,1 @@
+We determine asymptotically the maximal order of log d(d(n)), where d(n) is the number of positive divisors of n. This solves a problem first put forth by Ramanujan in 1915.

@@ -1,0 +1,1 @@
+We prove that for any norm |*| in the d-dimensional real vector space V and for any odd n>0 there is a non-negative polynomial p(x), x in V of degree 2n such that p^{1/2n}(x) < |x| < c(n,d) p^{1/2n}(x), where c(n,d)={n+d-1 choose n}^{1/2n}. Corollaries and polynomial approximations of the Minkowski functional of a convex body are discussed.

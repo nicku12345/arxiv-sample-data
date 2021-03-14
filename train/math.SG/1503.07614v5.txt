@@ -1,0 +1,1 @@
+We use quilted Floer theory to generalize Seidel's long exact sequence in symplectic Floer theory to fibered Dehn twists. We then apply it to construct versions of the Floer and Khovanov-Rozansky exact triangles in Lagrangian Floer theory of moduli spaces of bundles.

@@ -1,0 +1,1 @@
+Let \mathcal{F} be a transversely orientable codimension one minimal foliation without vanishing cycles of a manifold M. We show that if the fundamental group of each leaf of \mathcal{F} has polynomial growth of degree k for some non-negative integer k, then the foliation \mathcal{F} is without holonomy.

@@ -1,0 +1,1 @@
+In this paper, we show that a pointwise-symmetric isotonic closure function is uniquely determined by the pairs of sets it separates. We then show that when the closure function of the domain is isotonic and the closure function of the codomain is isotonic and pointwise-symmetric, functions which separate only those pairs of sets which are already separated are continuous.

@@ -1,0 +1,1 @@
+We can define a module to be an exact functor on a small abelian category. This is explained and shown to be equivalent to the usual definition but it does offer a different perspective, inspired by the notions from model theory of imaginary sort and interpretation. A number of examples are worked through.

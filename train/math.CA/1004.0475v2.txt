@@ -1,0 +1,1 @@
+We show that the solutions of first order nonlinear ODEs can be controlled globally in the complex domain, using a finite set of constants of motion defined in regions of \CC. These constants of motion enable us to obtain quantitative behaviors of the solutions far away from the origin, as well as to determine the position of singularities of the solution.

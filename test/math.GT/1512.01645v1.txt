@@ -1,0 +1,1 @@
+Cooper and Long generalised Epstein and Penner's Euclidean cell decomposition of cusped hyperbolic manifolds of finite volume to non-compact strictly convex projective manifolds of finite volume. We show that Weeks' algorithm to compute this decomposition for a hyperbolic surface generalises to strictly convex projective surfaces.

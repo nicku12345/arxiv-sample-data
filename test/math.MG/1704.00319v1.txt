@@ -1,0 +1,1 @@
+We study finite subsets of \ell_p and show that, up to nowhere dense and Haar null complement, all of them embed isometrically into any Banach space that uniformly contains the spaces \ell_p^n, n \in \mathbb{N}.

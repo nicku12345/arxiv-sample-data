@@ -1,0 +1,1 @@
+We introduce the notion of affine strict polynomial functor. We show how this concept helps to understand homological behavior of the operation of Frobenius twist in the category of strict polynomial functors over a field of positive characteristic. We also point out for an analogy between our category and the category of representations of the group of algebraic loops on GL_n.

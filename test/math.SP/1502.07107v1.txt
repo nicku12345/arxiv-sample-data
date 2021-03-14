@@ -1,0 +1,1 @@
+An explicit construction is provided for embedding n positive eigenvalues in the spectrum of a Schroedinger operator on the half-line with a Dirichlet boundary condition at the origin. The resulting potential is of von Neumann-Wigner type, but can be real valued as well as complex valued.

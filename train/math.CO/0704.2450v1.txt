@@ -1,0 +1,1 @@
+We extend Szemeredi's Regularity Lemma (SRL) to abstract measure spaces. Our main aim is to find general conditions under which the original proof of Szemeredi still works. To illustrate that our approach has some merit, we outline several applications. Some of these applications seem to be tailored to our approach: in particular, we are not aware of any alternative proofs.

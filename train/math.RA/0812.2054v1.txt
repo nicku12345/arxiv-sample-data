@@ -1,0 +1,1 @@
+We obtain a complete characterization of the 2\times 2 symplectic matrices having an infinite number of left eigenvalues. Previously, we give a new proof of a result from Huang and So about the number of eigenvalues of a quaternionic matrix. This is achieved by applying an algorithm for the resolution of equations due to De Leo et al.

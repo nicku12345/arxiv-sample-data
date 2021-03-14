@@ -1,0 +1,1 @@
+In this manuscript, we propose a novel 11-point cyclic convolution algorithm based on alternate Fourier transform. With the proposed bilinear form, we construct a length-2047 cyclotomic FFT.

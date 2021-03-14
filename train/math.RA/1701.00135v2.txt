@@ -1,0 +1,1 @@
+In this paper we introduce new modules over the ring of ponderation functions, so we recover old results in harmonic analysis from the side of ring theory.   Moreover, we prove that Laplace transform, Fourier transform and Hankel transform generate some kind of modules over the ring of ponderation functions.

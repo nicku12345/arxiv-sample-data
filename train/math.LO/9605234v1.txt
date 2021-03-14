@@ -1,0 +1,1 @@
+We give some general criteria, when kappa-complete forcing preserves largeness properties -- like kappa-presaturation of normal ideals on lambda (even when they concentrate on small cofinalities). Then we quite accurately obtain the consistency strength ``NS_lambda is aleph_1-preserving'', for lambda > aleph_2 .

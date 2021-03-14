@@ -1,0 +1,1 @@
+Let \sE be an ample rank r bundle on a smooth toric projective surface, S, whose topological Euler characteristic is e(S). In this article, we prove a number of surprisingly strong lower bounds for c_1(\sE)^2 and c_2(\sE). We also enumerate the exceptions to either the inequality c_1(\sE)^2\ge 4e(S) or the inequality c_2(\sE)\ge e(S) holding.

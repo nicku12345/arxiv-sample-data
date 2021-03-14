@@ -1,0 +1,1 @@
+Let N be an o-minimal structure. In this paper we develop group extension and group cohomology theory over N and use it to describe the N-definable solvable groups. We prove an o-minimal analogue of the Lie-Kolchin-Mal'cev theorem and we describe the N-definable G-modules and the N-definable rings.

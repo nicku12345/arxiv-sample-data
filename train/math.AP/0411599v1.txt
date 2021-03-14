@@ -1,0 +1,1 @@
+We consider scattering by short range perturbations of the semi-classical Laplacian. We prove that when a polynomial bound on the resolvent holds, the scattering amplitude is a semi-classical Fourier integral operator associated to the scattering relation. Compared to previous work, we allow the scattering relation to have more general structure.

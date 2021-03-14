@@ -1,0 +1,1 @@
+We prove the existence of gaps between all the different classes of matrix monotone functions defined on an interval, provided the interval is non trivial and different from the whole real line. We then show how matrix monotone functions may be used in the characterization of certain C*-algebras as an alternative to the study of the matricial structure by positive linear maps.

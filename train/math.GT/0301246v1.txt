@@ -1,0 +1,1 @@
+It is not completely unreasonable to expect that a computable function bounding the number of Pachner moves needed to change any triangulation of a given 3-manifold into any other triangulation of the same 3-manifold exists. In this paper we describe a procedure yielding an explicit formula for such a function if the 3-manifold in question is a Seifert fibred space.

@@ -1,0 +1,1 @@
+In this article, we prove that if X is a Stein space and \Omega\subset X an increasing sequence of q-complete open subsets, then \Omega is q-complete.

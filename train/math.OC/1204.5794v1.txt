@@ -1,0 +1,1 @@
+We prove that uniform second order growth, tilt stability, and strong metric regularity of the limiting subdifferential --- three notions that have appeared in entirely different settings --- are all essentially equivalent for any lower-semicontinuous, extended-real-valued function.

@@ -1,0 +1,1 @@
+Let n be a nonzero integer and a_1 < a_2 < ... <a_m positive integers such that a_i*a_j + n is a perfect square for all 1 <= i < j <= m. It is known that m <= 5 for n = 1. In this paper we prove that m <= 31 for |n| <= 400 and m < 15.476 log|n| for |n| > 400.

@@ -1,0 +1,1 @@
+We consider a central extension of the sheaf of Lie algebras of maps from a manifold into a finite-dimensional simple Lie algebra, together with the sheaf of vector fields. Using vertex algebra methods we construct sheaves of modules for this sheaf of Lie algebras. Our results extend the work of Malikov-Schechtman-Vaintrob on the chiral de Rham complex.

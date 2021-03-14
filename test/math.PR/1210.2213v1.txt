@@ -1,0 +1,1 @@
+In this paper we generalize known workload decomposition results for L\'{e}vy queues with secondary jump inputs and queues with server vacations or service interruptions. Special cases are polling systems with either compound Poisson or more general L\'{e}vy inputs. Our main tools are new martingale results, which have been derived in a companion paper.

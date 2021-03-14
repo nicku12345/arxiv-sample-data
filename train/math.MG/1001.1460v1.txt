@@ -1,0 +1,1 @@
+In this paper we investigate Gromov's question: whether every one-ended word hyperbolic group contains a surface subgroup. The case of double groups is considered by studying the associated one relator groups. We show that the majority (96%) of the randomly selected double groups with three generators have the property. The experiments are performed on MAGMA software.

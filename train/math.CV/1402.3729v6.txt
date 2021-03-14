@@ -1,0 +1,1 @@
+For mappings of finite distortion actively investigated last 15--20 years, problems of a so-called lower order are discussed. It is proved that, mappings with finite length distortion f:D\rightarrow {\Bbb R}^n, n\ge 2, which have locally integrable other dilatation in degree \alpha>n-1, and have a finite asymptotic value are of a uniformly lower bounded lower order.

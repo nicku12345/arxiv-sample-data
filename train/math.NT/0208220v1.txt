@@ -1,0 +1,1 @@
+We consider a smooth counting function of the scaled zeros of the Riemann zeta function, around height T. We show that the first few moments tend to the Gaussian moments, with the exact number depending on the statistic considered.

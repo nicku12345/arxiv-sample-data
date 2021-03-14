@@ -1,0 +1,1 @@
+We deduce the cyclotomic Iwasawa main conjecture for Hilbert modular cuspforms with complex multiplication from the multivariable main conjecture for CM number fields. To this end, we study in detail the behaviour of the p-adic L-functions and the Selmer groups attached to CM number fields under specialisation procedures.

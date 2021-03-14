@@ -1,0 +1,1 @@
+Let \{M_j\} be a sequence of complete Riemannian surfaces which converges in the sense of Cheeger-Gromov to a complete Riemannian surface M. We study the convergence of the Bergman kernel K_{M_j} of M_j by using isoperimetric inequalities.

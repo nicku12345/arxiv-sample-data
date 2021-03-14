@@ -1,0 +1,1 @@
+Let \mathfrak g be a simple Lie algebra. There are classical formulas for the Jacobians of the generating invariants of the Weyl group of \mathfrak g and of the images under the Harich-Chandra projection of the generators of ZU(\mathfrak g). We present a modification of these formulas related to Takiff Lie algebras.

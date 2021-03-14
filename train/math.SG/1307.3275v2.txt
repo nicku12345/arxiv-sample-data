@@ -1,0 +1,1 @@
+This article presents a Poincare lemma for the Kostant complex, used to compute geometric quantisation, when the polarisation is given by a Lagrangian foliation defined by an integrable system with nondegenerate singularities.

@@ -1,0 +1,1 @@
+We study Whittaker functions on nonlinear coverings of simple algebraic groups over a non-archimedean local field. We produce a recipe for expressing such a Whittaker function as a weighted sum over a crystal graph, and show that in type A, these expressions agree with known formulae for the prime power supported coefficients of Multiple Dirichlet Series.

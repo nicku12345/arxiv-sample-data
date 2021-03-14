@@ -1,0 +1,1 @@
+We introduce a new class of piece-wise quadratic potentials for nonlinear wave equations with a kink solutions. The potentials allow an exact description of the spectral properties for the linearized equation at the kink. This description is necessary for the study of the stability properties of the kinks.

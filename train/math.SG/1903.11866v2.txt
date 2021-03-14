@@ -1,0 +1,1 @@
+Given a contact structure on a manifold V together with a supporting open book decomposition, Bourgeois gave an explicit construction for a contact structure on V \times \mathbb{T}^2. We prove that all such structures are universally tight in dimension 5, independent on whether the original contact manifold is tight or overtwisted.

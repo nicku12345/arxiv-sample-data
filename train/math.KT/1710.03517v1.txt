@@ -1,0 +1,1 @@
+Assuming the classical Farrell-Jones conjecture we produce an explicit (commutative) group ring R and a thick subcategory \mathsf{C} of perfect R-complexes such that the Waldhausen K-theory space \mathrm{K}(\mathsf{C}) is equivalent to a rational Eilenberg-Maclane space.

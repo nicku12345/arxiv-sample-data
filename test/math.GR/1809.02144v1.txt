@@ -1,0 +1,1 @@
+Let \mathbb{K} be a discrete field and (V, \phi) a flow over the category of locally linearly compact \mathbb{K}-spaces. Here we give the formulas to compute the topological entropy of (V,\phi) subject to the extension or the restriction of scalars.

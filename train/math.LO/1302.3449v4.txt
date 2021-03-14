@@ -1,0 +1,1 @@
+We prove the consistency of: for suitable strongly inaccessible cardinal lambda the dominating number, i.e., the cofinality of ^{lambda}lambda, is strictly bigger than cov_lambda(meagre), i.e. the minimal number of nowhere dense subsets of ^{lambda}2 needed to cover it. This answers a question of Matet.

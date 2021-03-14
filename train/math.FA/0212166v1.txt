@@ -1,0 +1,1 @@
+We consider a normalized basis in a Banach space with the following property: any normalized block sequence of the basis has a subsequence equivalent to the basis. We show that under uniformity or other natural assumptions, a basis with this property is equivalent to the unit vector basis of c_0 or \ell_p. We also address an analogous problem for spreading models.

@@ -1,0 +1,1 @@
+The velocity translation law for the patterns in the game of 'Life' is discovered. It is found for an arbitrary angle between the velocities in the moving reference frames. The formula differs from its physical prototype of special relativity but admits gentle reduction to the Galilean limit and provides absence of extra-light speeds.

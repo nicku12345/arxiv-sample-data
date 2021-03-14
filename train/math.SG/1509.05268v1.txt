@@ -1,0 +1,1 @@
+A foliation is said to admit a foliated contact structure if there is a codimension 1 distribution in the tangent space of the foliation such that the restriction to any leaf is contact. We prove a version of the Weinstein conjecture in the presence of an overtwisted leaf. The result is shown to be sharp.

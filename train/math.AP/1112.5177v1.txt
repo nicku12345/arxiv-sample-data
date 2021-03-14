@@ -1,0 +1,1 @@
+We consider the Korteweg-de Vries Equation (KdV) on the real line, and prove that the smooth solutions satisfy a-priori local in time H^s bound in terms of the H^s size of the initial data for s\geq -4/5.

@@ -1,0 +1,1 @@
+In this note, we give a necessary and sufficient condition under which the comparison theorem holds for multidimensional stochastic differential equations (SDEs) with jumps and for matrix-valued SDEs with jumps.

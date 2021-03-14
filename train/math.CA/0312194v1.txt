@@ -1,0 +1,1 @@
+Several new trace norm inequalities are established for 2n x 2n block matrices, in the special case where the four n x n blocks are diagonal. Some of the inequalities are non-commutative analogs of Hanner's inequality, others describe the behavior of the trace norm under re-ordering of diagonal entries of the blocks.

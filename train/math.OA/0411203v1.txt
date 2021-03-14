@@ -1,0 +1,1 @@
+Let M, N, R be W^{*}--algebras, with R unitally embedded in both M and N. by using Reduction Theory, we extend the previous description of the W^{*}--tensor product M\bar\otimes_{R}N over the common W^{*}--subalgebra R and its predual (M\bar\otimes_{R}N)_{*} to the \sigma--finite case.

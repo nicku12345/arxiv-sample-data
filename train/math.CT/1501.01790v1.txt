@@ -1,0 +1,1 @@
+In this paper, motivated by the theory of operads and PROPs we reveal the combinatorial nature of tensor calculus for strict tensor categories and show that there exists a monad which is described by the coarse-graining of graphs and characterizes the algebraic nature of tensor calculus.

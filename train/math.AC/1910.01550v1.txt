@@ -1,0 +1,1 @@
+Let R be a Noetherian ring. We prove that R has global dimension at most two if, and only if, every prime ideal of R is of linear type. Similarly, we show that R has global dimension at most three if, and only if, every prime ideal of R is syzygetic. As a consequence, one derives a characterization of these rings using the Andr\'e-Quillen homology.

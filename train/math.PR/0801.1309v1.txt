@@ -1,0 +1,1 @@
+This paper suggests a perfect-information game, along the lines of Levy's characterization of Brownian motion, that formalizes the process of Brownian motion in game-theoretic probability. This is perhaps the simplest situation where probability emerges in a non-stochastic environment.

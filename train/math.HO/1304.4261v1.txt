@@ -1,0 +1,1 @@
+A classical theorem of d'Alembert states that if a polynomial P(x) with real coefficients has a non-real root x=a+ib, then it also has a root x=a-ib. We give a short and elementary inductive proof that avoids any properties of the complex conjugation operator.

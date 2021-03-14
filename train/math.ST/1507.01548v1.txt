@@ -1,0 +1,1 @@
+A weighted Gaussian approximation to tail product-limit process for Pareto-like distributions of randomly right-truncated data is provided and a new consistent and asymptotically normal estimator of the extreme value index is derived. A simulation study is carried out to evaluate the finite sample behavior of the proposed estimator.

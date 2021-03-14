@@ -1,0 +1,1 @@
+We give a proof that the first eigenfunction of the \alpha-symmetric stable process on a bounded Lipschitz domain in \R^d, d\geq 1, is superharmonic for \alpha=2/m, where m>2 is an integer. This result was first proved for the ball by M. Ka{\ss}mann and L. Silvestre (personal communication) with different methods. For \alpha=1, the result was proved in \cite[Theorem 4.7]{BanKul}.

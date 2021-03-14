@@ -1,0 +1,1 @@
+We construct for any algebra over an operad an Hochschild chain complex. In the case of the singular cochain complex of a topological space, considered as a commutative algebra up to homotopy, we show that this complex computes the singular cohomology of the free loop space over this topological space.

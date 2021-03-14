@@ -1,0 +1,1 @@
+In the Sobolev space L_2^{(m)}(0,1) optimal quadrature formulas with the nodes (1.5) are investigated. For optimal coefficients explicit form are obtained and norm of the error functional is calculated. In particular, by choosing parameter \eta_0 in (1.5) the optimal quadrature formulas with positive coefficients are obtained and compared with well known optimal formulas.

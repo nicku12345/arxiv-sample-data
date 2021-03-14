@@ -1,0 +1,1 @@
+Eggleston (1957) proved that in the Euclidean plane the best approximating convex n-gon to a convex disc K is always inscribed in K if we measure the distance by perimeter deviation. We prove that the analogue of Eggleston's statement holds in the hyperbolic plane, and we give an example showing that it fails on the sphere.

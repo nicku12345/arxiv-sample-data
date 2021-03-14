@@ -1,0 +1,1 @@
+D. Bayer and M. Stillman showed that Grobner bases can be used to compute the Castelnuovo-Mumford regularity, which is a measure for the vanishing of graded local cohomology modules. The aim of this paper is to show that the same method can be applied to study other cohomological invariants as well as the reduction number.

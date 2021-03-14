@@ -1,0 +1,1 @@
+I present a new proof of Kirchberg's \mathcal O_2-stable classification theorem: two separable, nuclear, stable/unital, \mathcal O_2-stable C^\ast-algebras are isomorphic if and only if their ideal lattices are order isomorphic, or equivalently, their primitive ideal spaces are homeomorphic. Many intermediate results do not depend on pure infiniteness of any sort.

@@ -1,0 +1,1 @@
+C*-quantum groups with projection are the noncommutative analogues of semidirect products of groups. Radford's Theorem about Hopf algebras with projection suggests that any C*quantum group with projection decomposes uniquely into an ordinary C*-quantum group and a "braided" C*-quantum group. We establish this on the level of manageable multiplicative unitaries.

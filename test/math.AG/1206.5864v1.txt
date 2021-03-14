@@ -1,0 +1,1 @@
+We prove a formula, originally due to Feit and Fine, for the class of the commuting variety in the Grothendieck group of varieties. Our method, which uses a power structure on the Grothendieck group of stacks, allows us to prove several refinements and generalizations of the Feit-Fine formula. Our main application is to motivic Donaldson-Thomas theory.

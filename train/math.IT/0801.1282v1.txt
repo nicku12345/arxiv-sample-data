@@ -1,0 +1,1 @@
+In this paper, we provide necessary and sufficient conditions for a column-weight-three LDPC code to correct three errors when decoded using Gallager A algorithm. We then provide a construction technique which results in a code satisfying the above conditions. We also provide numerical assessment of code performance via simulation results.

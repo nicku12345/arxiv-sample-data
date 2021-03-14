@@ -1,0 +1,1 @@
+Cappell's unitary nilpotent groups UNil(R;R,R) are calculated for the integral group ring R=Z[C_2] of the cyclic group C_2 of order two. Specifically, they are determined as modules over the Verschiebung algebra V using the Connolly--Ranicki isomorphism and the Connolly--Davis relations.

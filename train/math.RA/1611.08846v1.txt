@@ -1,0 +1,1 @@
+We present here a new approach for computing Gr\"obner bases for bilateral modules over an effective ring. Our method is based on Weispfenning notion of restricted Gr\"obner bases and related multiplication.

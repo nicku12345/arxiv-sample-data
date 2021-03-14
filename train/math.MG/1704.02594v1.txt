@@ -1,0 +1,1 @@
+We build an example of a system \mathcal{S} of similarities in \mathbb{R}^2 whose attractor is a plane dendrite K\supset [0,1] which satisfies one point intersection property, while the post-critical set of the system \mathcal{S} is a countable set whose natural projection to K is dense in the middle-third Cantor set.

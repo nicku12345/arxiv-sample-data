@@ -1,0 +1,1 @@
+We present an original theoretical approach to prove that \pi (n)-Li(n)=o(M(n)\sqrt{Li(n)}) almost certainly stands, where \pi (n) is the number of primes not greater than n, Li(n) is a logarithmic integral function, and M(n) is an arbitrary function such that M(n)\rightarrow\infty.

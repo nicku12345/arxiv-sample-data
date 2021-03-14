@@ -1,0 +1,1 @@
+Let Q and Q' be two monomial primary ideals of a polynomial algebra S over a field. We give an upper bound for the Stanley depth of S/(Q\cap Q') which is reached if Q,Q' are irreducible. Also we show that Stanley's Conjecture holds for Q_1\cap Q_2, S/(Q_1\cap Q_2\cap Q_3), (Q_i)_i being some irreducible monomial ideals of S.

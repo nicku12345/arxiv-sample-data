@@ -1,0 +1,1 @@
+Steingrimsson has recently introduced a partition analogue of Foata-Zeilberger's mak statistic for permutations and conjectured that its generating function is equal to the classical q-Stirling numbers of second kind. In this paper we prove a generalization of Steingrimsson's conjecture.

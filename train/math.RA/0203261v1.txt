@@ -1,0 +1,1 @@
+We introduce the notion of amenability for affine algebras. We characterize amenability by Folner-sequences, paradoxicality and the existence of finitely invariant dimension-measures. Then we extend the results of Rowen on ranks, from affine algebras of subexponential growth to amenable affine algebras.

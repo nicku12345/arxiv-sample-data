@@ -1,0 +1,1 @@
+The main result of the article reads: the distribution of a continuous starting from zero local martingale whose quadratic characteristic is almost surely absolutely continuous with respect to some non-random increasing continuous function is determined by the distribution of the quadratic characteristic. Functional limit theorem based on this characterization are proved.

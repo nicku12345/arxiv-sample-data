@@ -1,0 +1,1 @@
+We consider a change of measure by a martingale Z_t and clarify that in general 1/Z_t is only a supermartingale under the changed measure. We then give a necessary and sufficient condition for the event that the limit of the martingale is zero to coincide with the event that the martingale hits zero in finite time (up to a set of zero probability).

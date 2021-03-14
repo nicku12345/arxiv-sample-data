@@ -1,0 +1,1 @@
+Several formulas for computing coarse indices of twisted Dirac type operators are introduced. One type of such formulas is by composition product in E-theory. The other type is by module multiplications in K-theory, which also yields an index theoretic interpretation of the duality between Roe algebra and stable Higson corona.

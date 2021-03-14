@@ -1,0 +1,1 @@
+We examine regularity and basis properties of the family of rescaled p-cosine functions. We find sharp estimates for their Fourier coefficients. We then determine two thresholds, p_0<2 and p_1>2, such that this family is a Schauder basis of L_s(0,1) for all s>1 and p\in[p_0,p_1].

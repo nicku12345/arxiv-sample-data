@@ -1,0 +1,1 @@
+Trace scaling automorphisms of stable AF algebras with dimension group totally ordered are outer conjugate if the scaling factors are the same (not equal to one). This is an adaptation of a similar result for the AFD type II_infty factor by Connes and extends the previous result for stable UHF algebras.

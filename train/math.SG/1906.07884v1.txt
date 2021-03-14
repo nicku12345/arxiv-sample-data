@@ -1,0 +1,1 @@
+Consider a symplectic surface \Sigma with two properly embedded Hamiltonian isotopic curves L and L'. Suppose g \in Ham (\Sigma) is a Hamiltonian diffeomorphism which sends L to L'. Which dynamical properties of g can be detected by the pair (L, L')? We discuss two cases where one can deduce that g is `chaotic': non-autonomous or even of positive entropy.

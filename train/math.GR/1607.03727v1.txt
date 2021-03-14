@@ -1,0 +1,1 @@
+For a finite group G, let N(G) denote the set of conjugacy class sizes of G. We show that if every finite group G with trivial center such that N(G) equals to N(Alt_n), where n>1361 and at least one of numbers n or n-1 are decomposed into a sum of two primes, then G\simeq Alt_n.

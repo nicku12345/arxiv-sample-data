@@ -1,0 +1,1 @@
+We put forward a proof of Solomon's rule, in terms of matrices, for multiplication in the descent algebra of the symmetric group. Our proof exploits the graphs that we can obtain from all the subsets of the set of transpositions, \{(i,i+1)\}_{i=1}^{n-1}.

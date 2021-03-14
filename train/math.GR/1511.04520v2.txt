@@ -1,0 +1,1 @@
+Transiso graph \Gamma_d(G) is defined in for a finite group G and a divisor d of |G|. In the present paper, we have determined some finite groups G for which the graphs \Gamma_d(G) are complete for each divisor d of |G|. We have also discussed the completeness of transiso graphs for the groups of order less than 32.

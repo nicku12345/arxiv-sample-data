@@ -1,0 +1,1 @@
+Let Z be a set of fat points in P^1 x P^1 that is also arithmetically Cohen-Macaulay (ACM). We describe how to compute the degree of a separator of a fat point of multiplicity m for each point in the support of Z using only a numerical description of Z. Our formula extends the case of reduced points which was previously known.

@@ -1,0 +1,1 @@
+We prove that for the free group of rank two F the cokernel of the homomorphism to its Baumslag rationalization F\to {\sf Bau}(F) is not abelian. Moreover, this cokernel contains a free subgroup of any finite rank. This answers a question of Emmanuel Farjoun.

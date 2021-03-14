@@ -1,0 +1,1 @@
+In this paper we prove that for a general tree T, if A is T-TP, all the submatrices of A associated with the deletion of pendant vertices are P-matrices, and \det A>0, then the smallest eigenvalue has an eigenvector signed according to T.

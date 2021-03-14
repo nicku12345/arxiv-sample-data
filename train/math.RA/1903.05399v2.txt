@@ -1,0 +1,1 @@
+We prove that there is a monadic adjunction between the category of bounded posets and the category of pseudo effect algebras.

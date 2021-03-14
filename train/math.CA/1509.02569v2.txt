@@ -1,0 +1,1 @@
+We establish a new refinement of the right-hand side of the Hermite-Hadamard inequality for simplices, based on the average values of a convex function over the faces of a simplex and over the values at their barycenters.

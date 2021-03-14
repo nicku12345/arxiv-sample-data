@@ -1,0 +1,1 @@
+We present a short proof of the following natural extension of the famous Wright's 3/2-stability theorem: the conditions \tau \leq 3/2, \ c \geq 2 imply the presence of the positive traveling fronts (not necessarily monotone) u = \phi(x\cdot \nu+ct), \ |\nu| =1, in the delayed KPP-Fisher equation u_t(t,x) = \Delta u(t,x) + u(t,x)(1-u(t-\tau,x)), u\geq 0, x \in \R^m.

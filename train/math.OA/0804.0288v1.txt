@@ -1,0 +1,1 @@
+We prove that the group-measure-space von Neumann algebra L^\infty(T^2) \rtimes SL(2,Z) is solid. The proof uses topological amenability of the action of SL(2,Z) on the Higson corona of Z^2.

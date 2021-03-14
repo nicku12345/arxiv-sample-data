@@ -1,0 +1,1 @@
+An action of Z^l by automorphisms of a k-graph induces an action of Z^l by automorphisms of the corresponding k-graph C*-algebra. We show how to construct a (k+l)-graph whose C*-algebra coincides with the crossed product of the original k-graph algebra by Z^l. We then investigate the structure of the crossed-product C*-algebra.

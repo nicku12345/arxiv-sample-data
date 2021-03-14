@@ -1,0 +1,1 @@
+Here we establish a global well-posedness of \textit{mild} solutions to the three-dimensional incompressible Navier-Stokes equations if the initial data are in the space \mathcal{X}^{-1} defined by (1.3) and if the norms of the initial data in \mathcal{X}^{-1} are bounded exactly by the viscosity coefficient \mu.

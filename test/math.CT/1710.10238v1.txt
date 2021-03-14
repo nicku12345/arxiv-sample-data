@@ -1,0 +1,1 @@
+The purpose of these notes is to give a categorical presentation/analysis of homotopy type theory. The notes are incomplete as they stand (October 2017). The chapter on univalent tribes is missing. The references are not always connected to the text. A better version is in preparation.

@@ -1,0 +1,1 @@
+We prove that if K, L \subset \mathbb{R}^2 are convex bodies such that L is symmetric and the Banach-Mazur distance between K and L is equal to 2, then K is a triangle.

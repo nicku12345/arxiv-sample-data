@@ -1,0 +1,1 @@
+Let p be an odd prime. In the paper, by using the properties of Legendre polynomials we prove some congruences for \sum_{k=0}^{\frac{p-1}2}\binom{2k}k^2m^{-k}\mod {p^2}. In particular, we confirm several conjectures of Z.W. Sun. We also pose 13 conjectures on supercongruences.

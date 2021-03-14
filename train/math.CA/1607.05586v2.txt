@@ -1,0 +1,1 @@
+Let T be a singular integral operator with non-smooth kernel which were introduced by Duong and McIntosh. In this paper, we prove that this operator and its corresponding grand maximal operator satisfies certain weak type endpoint vector-valued estimate of L\log L type. As an application we established a refined weighted vector-valued bound for this operator.

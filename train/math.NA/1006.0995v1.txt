@@ -1,0 +1,1 @@
+The paper presents a generalization of Arnold-Falk-Winther elements for three dimensional linear elasticity, to meshes with elements of variable order. The generalization is straightforward but the stability analysis involves a non-trivial modification of involved interpolation operators. The analysis addresses only the h-convergence.

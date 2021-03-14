@@ -1,0 +1,1 @@
+We prove that a semigroup S is a semilattice of rectangular bands and groups of order two if and only if it satisfies the identity x = xxx and for all x,y in S, xyx is in the set {xyyx,yyxxy}.

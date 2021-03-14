@@ -1,0 +1,1 @@
+We show that under some conditions, if the initial ideal in_<(I) of an ideal I in a polynomial ring has the property that its symbolic and ordinary powers coincide, then the ideal I shares the same property. We apply this result to prove the equality between symbolic and ordinary powers for binomial edge ideals with quadratic Gr\"obner basis.

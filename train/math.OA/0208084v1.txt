@@ -1,0 +1,1 @@
+We give an example of a simple separable C*-algebra which is not isomorphic to its opposite algebra. Our example is nonnuclear and stably finite, has real rank zero and stable rank one, and has a unique tracial state. It has trivial K_1, and its K_0-group is order isomorphic to a countable subgroup of the real numbers.

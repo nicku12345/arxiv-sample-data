@@ -1,0 +1,1 @@
+Let Gamma\D be an arithmetic quotient of a symmetric space of non-compact type. A spine D_0 is a Gamma-equivariant deformation retraction of D with dimension equal to the virtual cohomological dimension of Gamma. We explicitly construct a spine for the case of Gamma=SU(2,1;Z[i]). The spine is then used to compute the cohomology of Gamma\D with various local coefficients.

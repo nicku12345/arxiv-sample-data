@@ -1,0 +1,1 @@
+We prove a singular version of Beilinson-Bernstein localization for a complex semi-simple Lie algebra following ideas from the positive characteristic case done by \cite{BMR2}. We apply this theory to translation functors, singular blocks in the Bernstein-Gelfand-Gelfand category \BGGcat and Whittaker modules.

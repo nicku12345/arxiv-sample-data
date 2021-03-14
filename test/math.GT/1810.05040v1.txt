@@ -1,0 +1,1 @@
+We prove that any link in S^3 whose Khovanov homology is the same as that of a Hopf link must be isotopic to that Hopf link. This holds for both reduced and unreduced Khovanov homology, and with coefficients in either \mathbb{Z} or \mathbb{Z}/2\mathbb{Z}.

@@ -1,0 +1,1 @@
+We prove a condition on f \in C^2(\R+,\R) for the convexity of (f o det) on PSym(n), namely that f o det is convex on PSym(n) if and only if f"(s)+(n-1)/(ns) f'(s) >= 0 and f'(s)<= 0 \forall s \in \R+. This generalizes the observation that C --> -ln det C is convex as a function of C.

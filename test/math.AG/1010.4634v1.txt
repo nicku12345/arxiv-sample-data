@@ -1,0 +1,1 @@
+Let X be a smooth complex projective variety of dimension 4 and let L be an ample line bundle on X. In this paper, we study a natural number m such that h^{0}(m(K_{X}+L))>0 for any polarized 4-folds (X,L) with \kappa(K_{X}+L)\geq 0.

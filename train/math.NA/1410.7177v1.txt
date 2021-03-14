@@ -1,0 +1,1 @@
+In this paper, we consider the energy evolution of multi-symplectic methods for three-dimensional (3D) Maxwell equations with perfectly matched layer boundary, and present the energy evolution laws of Maxwell equations under the discretization of multi-symplectic Yee method and general multi-symplectic Runge-Kutta methods.

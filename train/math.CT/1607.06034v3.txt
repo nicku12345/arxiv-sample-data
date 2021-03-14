@@ -1,0 +1,1 @@
+We define the notion of Cartesian 2-fibrations, and prove a weak analogue of straightening. Using Barwick's notion of operator categories and the notion of a Cartesian 2-fibration, we extend the notion of \infty-operads to the (\infty,2)-categorical context. These (\infty,2)-operads are used to define and study 2-rings in the \infty-categorical context.

@@ -1,0 +1,1 @@
+Given a curve over a finite field, we compute the number of stable bundles of not necessarily coprime rank and degree over it. We apply this result to compute the virtual Poincare polynomials of the moduli spaces of stable bundles over a curve. A similar formula for the virtual Hodge polynomials and motives is conjectured.

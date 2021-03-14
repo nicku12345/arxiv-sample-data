@@ -1,0 +1,1 @@
+We study coupled random walks in the plane such that, at each step, the walks change direction by a uniform random angle plus an extra deterministic angle \theta. We compute the Hausdorff dimension of the \theta for which the walk has an unusual behavior. This model is related to a study of the spectral measure of some random matrices.

@@ -1,0 +1,1 @@
+Let F be a local non-archimedean field and let G be the group of F-valued points of a reductive algebraic group over F. In this paper we compute the Ext-groups of generalized Steinberg representations in the category of smooth G-representations with coefficients in a certain self-injective ring.

@@ -1,0 +1,1 @@
+In this paper, we generalise Pontryagin's stochastic maximum principle to controlled McKean-Vlasov equations with anticipating law. The associated new type of delayed backward equations with implicit terminal condition is studied.

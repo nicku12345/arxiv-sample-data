@@ -1,0 +1,1 @@
+We find the stable homotopy classification of elliptic operators on stratified manifolds. Namely, we establish an isomorphism of the set of elliptic operators modulo stable homotopy and the K-homology group of the singular manifold. As a corollary, we obtain an explicit formula for the obstruction of Atiyah--Bott type to making interior elliptic operators Fredholm.

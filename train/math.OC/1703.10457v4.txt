@@ -1,0 +1,1 @@
+We study the entropic regularization of the optimal transport problem in dimension 1 when the cost function is the distance c(x, y) = |y -- x|. The selected plan at the limit is, among those which are optimal for the non-penalized problem, the most 'diffuse' one on the zones where it may have a density.

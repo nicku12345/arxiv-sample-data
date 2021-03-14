@@ -1,0 +1,1 @@
+The classical problem of computing a complete system of Stokes multipliers of a linear system of ODEs of rank one in terms of some connection coefficients of an associated hypergeometric system of ODEs, is solved with no genericness assumptions on the residue matrix at zero, by an extension of the method of [3].

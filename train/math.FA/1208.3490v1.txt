@@ -1,0 +1,1 @@
+The classical Perron-Frobenius theory asserts that for two matrices A and B, if 0\leq B \leq A and r(A)=r(B) with A being irreducible, then A=B. This was recently extended in Bernik et al. (2012) to positive operators on L_p(\mu) with either A or B being irreducible and power compact. In this paper, we extend the results to irreducible operators on arbitrary Banach lattices.

@@ -1,0 +1,1 @@
+We consider an orthonormal basis of eigenfunctions of the Dirichlet Laplacian for a rational polygon. The modulus squared of the eigenfunctions defines a sequence of probability measures. We prove that this sequence contains a density-one subsequence that converges to Lebesgue measure.

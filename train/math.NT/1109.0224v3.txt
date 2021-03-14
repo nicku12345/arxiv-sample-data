@@ -1,0 +1,1 @@
+We provide a theoretical explanation for an observation of S. J. Miller that if L(s,E) is an elliptic curve L-function for which L(1/2, E) is nonzero, then the lowest lying zero of L(s,E) exhibits a repulsion from the critical point which is not explained by the standard Katz-Sarnak heuristics. We establish a similar result in the case of first-order vanishing.

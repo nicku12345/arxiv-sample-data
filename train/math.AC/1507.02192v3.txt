@@ -1,0 +1,1 @@
+In this paper, we develop a difference Galois theory in the setting of real fields. After proving the existence and uniqueness of the real Picard-Vessiot extension, we define the real difference Galois group and prove a Galois correspondence.

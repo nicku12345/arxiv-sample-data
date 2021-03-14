@@ -1,0 +1,1 @@
+In this paper, we study the Wong-Zakai approximation of the solution to the stochastic differential equation on a domain D in a Euclidean space with normal reflection at the boundary. We prove the L^p convergence of the approximation in C([0,T]\to \bar{D}) under some general conditions on D.

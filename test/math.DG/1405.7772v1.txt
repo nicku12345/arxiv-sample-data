@@ -1,0 +1,1 @@
+In this paper, we give a simple proof of the Gauss-Bonnet-Chern theorem for a real oriented Finsler vector bundle with rank equal to the dimension of the base manifold. As an application, a Gauss-Bonnet-Chern formula for any metric-compatible connection is established on Finsler manifolds.

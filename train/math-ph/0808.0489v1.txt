@@ -1,0 +1,1 @@
+We show that the eigenvalues and eigenfunctions of the stargenvalue equation can be completely expressed in terms of the corresponding eigenvalue problem for the quantum Hamiltonian. Our method makes use of a Weyl-type representation of the star-product and of the properties of the cross-Wigner transform, which appears as an intertwining operator.

@@ -1,0 +1,1 @@
+A map from a manifold to a Euclidean space is said to be k-regular if the image of any distinct k points are linearly independent. In this paper, we give some lower bounds of the dimension of the ambient Euclidean space for complex k-regular maps on Euclidean spaces.

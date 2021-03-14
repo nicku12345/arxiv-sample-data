@@ -1,0 +1,1 @@
+The objects of the Dranishnikov asymptotic category are proper metric spaces and the morphisms are asymptotically Lipschitz maps. In this paper we provide an example of an asymptotically zero-dimensional space (in the sense of Gromov) whose space of compact convex subsets of probability measures is not an absolute extensor in the asymptotic category in the sense of Dranishnikov.

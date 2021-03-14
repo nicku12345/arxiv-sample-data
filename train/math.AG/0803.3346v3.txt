@@ -1,0 +1,1 @@
+Let X be an algebraic variety over a finite field \bF_q, homogeneous under a linear algebraic group. We show that the number of rational points of X over \bF_{q^n} is a periodic polynomial function of q^n with integer coefficients. Moreover, the shifted periodic polynomial function, where q^n is formally replaced with q^n + 1, is shown to have non-negative coefficients.

@@ -1,0 +1,1 @@
+Stressing the role of dual coalgebras, we modify the definition of affine schemes over the 'field with one element'. This clarifies the appearance of Habiro-type rings in the commutative case, and, allows a natural noncommutative generalization, the study of representations of discrete groups and their profinite completions being our main motivation.

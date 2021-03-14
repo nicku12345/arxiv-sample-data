@@ -1,0 +1,1 @@
+We prove that there are solutions to the Euler equation on the torus with C^{1,\alpha} vorticity and smooth except at one point such that the vorticity gradient grows in L^\infty at least exponentially as t\to\infty. The same result is shown to hold for the vorticity Hessian and smooth solutions. Our proofs use a version of a recent result by Kiselev and Sverak.

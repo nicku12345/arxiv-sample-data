@@ -1,0 +1,1 @@
+We investigate an analogue to the Wedderburn Principal Theorem (WPT) for a finite-dimensional Jordan superalgebra J with solvable radical N such that N^2=0 and J/N\cong JP_n, n\geq 3.   We consider N as an irreducible JP_n-bimodule and we prove that the WPT holds for J.

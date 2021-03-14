@@ -1,0 +1,1 @@
+For a class of stationary Markov-dependent sequences (A_n,B_n)\in\mathbb{R}^2, we consider the random linear recursion S_n=A_n+B_nS_{n-1}, n\in\mathbb{Z}, and show that the distribution tail of its stationary solution has a power law decay.

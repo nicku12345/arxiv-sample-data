@@ -1,0 +1,1 @@
+Given a number q, we construct a monomial ideal I with the property that the function which describes the number of generators of I^k has at least q local maxima.

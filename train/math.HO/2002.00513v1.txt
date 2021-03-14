@@ -1,0 +1,1 @@
+We describe a method of rendering real-time scenes in Nil geometry, and use this to give an expository account of some interesting geometric phenomena. You can play around with the simulation at www.3-dimensional.space/nil.html.

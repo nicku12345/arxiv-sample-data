@@ -1,0 +1,1 @@
+We consider the optimal containment of polygonal regions within convex containers with the special property of 'orientedness' - an oriented region enables us to choose a preferred direction on the plane (this direction is not necessarily an axis of symmetry) - and derive preliminary results.

@@ -1,0 +1,1 @@
+The method of computing eigenvectors from eigenvalues of submatrices can be shown as equivalent to a method of computing the constraint which achieves specified stationary values of a quadratic optimization. Similarly, we show computation of eigenvectors of an orthonormal basis projection using eigenvalues of sub-projections.

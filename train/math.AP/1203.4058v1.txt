@@ -1,0 +1,1 @@
+We obtain a lower bound for the amplitude of nonzero homoclinic traveling wave solutions of the McKenna--Walter suspension bridge model. As a consequence of our lower bound, all nonzero homoclinic traveling waves become unbounded as their speed of propagation goes to zero (in accordance with numerical observations).

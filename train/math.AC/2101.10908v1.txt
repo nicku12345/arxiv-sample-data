@@ -1,0 +1,1 @@
+An atomic monoid is length-factorial if each two distinct factorizations of any element have distinct factorization lengths. We provide a characterization of length-factorial Krull monoids in terms of their class groups and the distribution of prime divisors in the classes.

@@ -1,0 +1,1 @@
+A regular n-gon inscribing a knot is a sequence of n points on a knot, such that the distances between adjacent points are all the same. It is shown that any smooth knot is inscribed by a regular n-gon for any n.

@@ -1,0 +1,1 @@
+Let X be a topological space. Let X_0 \subseteq X be a second countable subspace. Also, assume that X is first countable at any point of X_0. Then we provide some conditions under which we ensure that X_0 is not Baire.

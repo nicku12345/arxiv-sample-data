@@ -1,0 +1,1 @@
+We prove that for any domain in the Heisenberg group the (k+1)'th Neumann eigenvalue of the sub-Laplacian is strictly less than the k'th Dirichlet eigenvalue. As a byproduct we obtain similar inequalities for the Euclidean Laplacian with a homogeneous magnetic field.

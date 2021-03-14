@@ -1,0 +1,1 @@
+In this paper we study the solvability of the Cauchy-Riemann equation with prescibed support in different spaces of forms. The unbounded Hartogs triangle in \mathbb C^2 and the Hartogs domains in \mathbb C\mathbb P^2 provide us new unexpected phenomena. In particular we prove that the Dolbeault isomorphism fails to hold for the Dolbeault cohomology with prescribed support

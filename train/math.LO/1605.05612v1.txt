@@ -1,0 +1,1 @@
+In is paper we present a labelled tableau proof system that serves a wide class of interpretability logics. The system is proved sound and complete for any interpretability logic characterised by a frame condition given by a set of universal strict first order Horn sentences. As such, the current paper adds to a better proof-theoretical understanding of interpretability logics.

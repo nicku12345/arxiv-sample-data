@@ -1,0 +1,1 @@
+We consider a system of coupled cubic Schr\"odinger equations. We prove that there exists a beating effect, i.e. an energy exchange between different modes. This construction may be transported to the linear time-dependent Schr\"odinger equation: we build solutions such that their Sobolev norms grow logarithmically. All these results are stated for large but finite times.

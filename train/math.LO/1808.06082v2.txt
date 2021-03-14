@@ -1,0 +1,1 @@
+A set X \subseteq 2^\omega with positive measure contains a perfect subset. We study such perfect subsets from the viewpoint of computability and prove that these sets can have weak computational strength. Then we connect the existence of perfect subsets of sets with positive measure with reverse mathematics.

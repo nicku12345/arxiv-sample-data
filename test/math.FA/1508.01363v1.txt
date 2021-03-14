@@ -1,0 +1,1 @@
+We introduce the notions of approximate cohomology and approximate homotopy in Banach algebras and we study the relation between them. We show that the approximate homotopically equivalent cochain complexes give the same approximate cohomologies. As an special case, approximate Hochschild cohomology is introduced and studied.

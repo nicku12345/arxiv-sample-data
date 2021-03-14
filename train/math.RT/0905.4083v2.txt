@@ -1,0 +1,1 @@
+We calculate certain ext-groups between modules for a linear algebraic group. The results are in agreement with the Lusztig conjecture.

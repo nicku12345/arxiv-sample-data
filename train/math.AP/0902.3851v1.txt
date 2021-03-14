@@ -1,0 +1,1 @@
+We study a model due to J.M. Lasry and P.L. Lions, describing the evolution of a scalar price which is realized as a free boundary in a 1-D diffusion equation with dynamically evolving, non-standard sources. We establish global existence and uniqueness.

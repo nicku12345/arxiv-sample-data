@@ -1,0 +1,1 @@
+We prove a local version of Fefferman-Stein inequality for the local sharp maximal function, and a local version of John-Nirenberg inequality for locally BMO functions, in the framework of locally homogeneous spaces, in the sense of Bramanti-Zhu [Manuscripta Math. 138 (2012), no. 3-4, 477-528].

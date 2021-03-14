@@ -1,0 +1,1 @@
+We prove directly that if E is a directed graph in which every cycle has an entrance, then there exists a C*-algebra which is co-universal for Toeplitz-Cuntz-Krieger E-families. In particular, our proof does not invoke ideal-structure theory for graph algebras, nor does it involve use of the gauge action or its fixed point algebra.

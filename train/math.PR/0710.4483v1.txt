@@ -1,0 +1,1 @@
+As a result of some mistakes discovered in the paper mentioned in the title, Corollaries 3.5 and 3.17a) are withdrawn and a new proof is provided for Proposition 3.14, under the added assumption that the second dual of the underlying Banach space Y possesses the Radon-Nykodim property.

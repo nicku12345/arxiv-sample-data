@@ -1,0 +1,1 @@
+Let (M, \omega) be a connected compact symplectic manifold equipped with a Hamiltonian SU(2) or SO(3) action. We prove that, as fundamental group of topological spaces, \pi_1(M)=\pi_1(M_{red}), where M_{red} is the symplectic quotient at any value of the moment map \phi.

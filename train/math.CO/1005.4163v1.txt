@@ -1,0 +1,1 @@
+In this paper it is established that a decomposition of a 3-uniform hypergraph K_v^{(3)} into a special kind of hypergraph K_4^{(3)}+e exists if and only if v\equiv 0,1,2 (mod 5) and v\geq 7.

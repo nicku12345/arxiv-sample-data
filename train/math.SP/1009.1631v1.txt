@@ -1,0 +1,1 @@
+We present the construction of a probability measure with compact support on R such that adding a discrete pure point results in changes in the recursion coefficients without exponential decay.

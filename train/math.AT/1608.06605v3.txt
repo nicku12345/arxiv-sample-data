@@ -1,0 +1,1 @@
+The derivatives of the identity functor on spaces in Goodwillie calculus forms an operad in spectra. Antolin-Camarena computed the mod 2 homology of free algebras over this operad for 1-connected spectra. In this present paper we carry out similar computations for mod p homology for odd primes p.

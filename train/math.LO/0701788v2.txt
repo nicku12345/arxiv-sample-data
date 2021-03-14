@@ -1,0 +1,1 @@
+We define some coding of Borel sets in admissible sets. Using this we generalize certain results from model theory involving admissible sets to the case of continuous actions of closed permutation groups on Polish spaces. In particular we obtain counterparts of Nadel's theorems about relationships between Scott sentences and admissible sets.

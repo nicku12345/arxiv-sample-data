@@ -1,0 +1,1 @@
+Assume that X is a regular space. We study topological properties of the family S_c(X) of nontrivial convergent sequences in X equipped with the Vietoris topology. We show that if X has no isolated points, then S_c(X) is a space of the first category which answers the question posed by S. Garcia-Ferreira and Y.F. Ortiz-Castillo.

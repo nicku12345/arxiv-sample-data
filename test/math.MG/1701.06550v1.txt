@@ -1,0 +1,1 @@
+We show that, given a closed convex set K containing the origin in its interior, the support function of the set \{y\in K^*: \exists x\in K\mbox{ such that } \langle x,y \rangle =1\} is the pointwise smallest among all sublinear functions \sigma such that K=\{x: \sigma(x)\leq 1\}.

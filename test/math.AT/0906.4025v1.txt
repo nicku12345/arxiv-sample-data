@@ -1,0 +1,1 @@
+We propose a definition of when a triangulated category should be considered a complete intersection. We show (using work of Avramov and Gulliksen) that for the derived category of a complete local Noetherian commutative ring R, the condition on the derived category D(R) holds precisely when R is a complete intersection in the classical sense.

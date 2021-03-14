@@ -1,0 +1,1 @@
+In this paper we investigate the question of normality for special monomial ideals in a polynomial ring over a field. We first include some expository sections that give the basics on the integral closure of a ideal, the Rees algebra on an ideal, and some fundamental results on the integral closure of a monomial ideal.

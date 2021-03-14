@@ -1,0 +1,1 @@
+In this article, we find the equations defining the Rees algebra for certain Monomial Curves explicitly and use them to prove that the blowup scheme is not smooth. This proves a conjecture of Francia in affirmative, which says that a dimension one prime in a regular local ring is a complete intersection if it has a smooth blowup.

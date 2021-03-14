@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian local ring of prime characteristic. The purpose of this paper is to provide a short proof of G. Lyubeznik's extension of a result of R. Hartshorne and R. Speiser about a module over the skew polynomial ring R[x,f] (associated to R and the Frobenius homomorphism f, in the indeterminate x) that is both x-torsion and Artinian over R.

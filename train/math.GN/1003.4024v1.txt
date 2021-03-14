@@ -1,0 +1,1 @@
+The famous Prohorov theorem for Radon probability measures is generalized in terms of usco mappings. In the case of completely metrizable spaces this is achieved by applying a classical Michael result on the existence of usco selections for l.s.c. mappings. A similar approach works when sieve-complete spaces are considered.

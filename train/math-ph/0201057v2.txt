@@ -1,0 +1,1 @@
+We prove that the diffusion coefficient for the two dimensional asymmetric simple exclusion process diverges as (\log t)^{2/3} to the leading order. The method applies to nearest and non-nearest neighbor asymmetric simple exclusion processes.

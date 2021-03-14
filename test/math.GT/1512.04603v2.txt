@@ -1,0 +1,1 @@
+We calculate Blanchfield pairings of 3-manifolds. In particular, we give a formula for the Blanchfield pairing of a fibred 3-manifold and we give a new proof that the Blanchfield pairing of a knot can be expressed in terms of a Seifert matrix.

@@ -1,0 +1,1 @@
+After introducing the Ogus realization of 1-motives we prove that it is a fully faithful functor. More precisely, following a framework introduced by Ogus, considering an enriched structure on the de Rham realization of 1-motives over a number field, we show that it yields a full functor by making use of an algebraicity theorem of Bost.

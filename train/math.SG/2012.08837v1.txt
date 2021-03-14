@@ -1,0 +1,1 @@
+Let Z be the real part of a K{\"a}hler Hamiltonian manifold M. The O'Shea-Sjamaar's Theorem tells us that the moment polytope Delta(Z) corresponds to the anti-invariant part of the Kirwan polytope Delta(M). The purpose of the present paper is to explain how to parameterize the equations of the facets of Delta(Z) in terms of real Ressayre's pairs of Z.

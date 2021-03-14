@@ -1,0 +1,1 @@
+We construct a topology on a given algebraically closed field with a distinguished subfield which is also algebraically closed. This topology is finer than Zariski topology and it captures the sets definable in the pair of algebraically closed fields as above; in the sense that definable sets are exactly the constructible sets in this topology.

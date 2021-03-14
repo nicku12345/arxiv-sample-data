@@ -1,0 +1,1 @@
+Grigorchuk and de la Harpe asked if there are many groups with growth exponent close to that of the free group with the same number of generators. We prove that this is in fact the case for a generic group (in the density model of random groups). More generally, we prove that the growth exponent does not change much through a random quotient of a torsion-free hyperbolic group.

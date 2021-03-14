@@ -1,0 +1,1 @@
+Let G be a graph of given order and mu(G) be the largest eigenvalue of its adjacency matrix. We give conditions on mu(G) that imply Hamiltonicity of G and of its complement.

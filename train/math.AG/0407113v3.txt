@@ -1,0 +1,1 @@
+This note is intended to provide a general reference for jet spaces and jet differentials, valid in maximal generality (at the level of EGA). The approach is rather concrete, using Hasse-Schmidt (divided) higher differentials. Discussion of projectivized jet spaces (as in Green and Griffiths (1980)) is included.

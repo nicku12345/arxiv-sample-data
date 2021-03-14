@@ -1,0 +1,1 @@
+First, we extend the notion of second order differential equations (SODE) on a smooth manifold to anchored Banach vector bundles. Then we define the Banach Lie algebroids as Lie algebroids structures modeled on anchored Banach vector bundles and prove that they form a category.

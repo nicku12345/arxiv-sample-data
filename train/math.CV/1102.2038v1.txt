@@ -1,0 +1,1 @@
+In this paper we first offer an alternative approach to extend the original Fueter's Theorem in Dunkl-Clifford analysis to a version of the higher order case. Then this result is used to prove a generlized version of Fueter's Theorem with an extra homogeneous Dunkl-monogenic polynomial P_n(x_0,\underline{x}) in \R_1^d instead of the classical factor P_n(\underline{x}) in \R^d.

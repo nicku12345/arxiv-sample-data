@@ -1,0 +1,1 @@
+Let W be a Coxeter group. We provide a precise description of the conjugacy classes in W, in the spirit of Matsumoto's theorem. This extends to all Coxeter groups an important result on finite Coxeter groups by M. Geck and G. Pfeiffer from 1993. In particular, we describe the cyclically reduced elements of W, thereby proving a conjecture of A. Cohen from 1994.

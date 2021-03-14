@@ -1,0 +1,1 @@
+In this note, the notion of cotorsion classes is introduced into the higher homological algebra. Our results motivate the definition, showing that this notion of n-cotorsion classes satisfies usual properties one could expect. In particular, a higher version of Wakamatsu's Lemma is proved. Connections with wide subcategories are also studied.

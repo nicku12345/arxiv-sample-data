@@ -1,0 +1,1 @@
+In this paper, we prove that, in dimension one, the Poincar\'e inequality is equivalent to a new transport-chi-square inequality linking the square of the quadratic Wasserstein distance with the chi-square pseudo-distance. We also check tensorization of this transport-chi-square inequality.

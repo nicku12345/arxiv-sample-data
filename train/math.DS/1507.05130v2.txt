@@ -1,0 +1,1 @@
+By proving an amenable version of Katok's entropy formula and handling the quasi tiling techniques, we establish large deviations bounds for countable discrete amenable group actions. This generalizes the classical results of Lai-Sang Young.

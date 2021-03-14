@@ -1,0 +1,1 @@
+In this paper, we prove that given two cubical links of dimension two in {\mathbb R}^4, they are isotopic if and only if one can pass from one to the other by a finite sequence of cubulated moves. These moves are analogous to the Reidemeister and Roseman moves for classical tame knots of dimension one and two, respectively.

@@ -1,0 +1,1 @@
+Using methods from the theory of residue currents we provide asymptotic expansions of certain divergent integrals on complex manifolds. We express the coefficients in these expansions with the conjugate Dolbeault residue, introduced by Felder and Kazhdan, and define a new residue which we call the Aeppli residue.

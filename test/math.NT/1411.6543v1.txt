@@ -1,0 +1,1 @@
+For any positive integer k, we show that infinitely often, perfect k-th powers appear inside very long gaps between consecutive prime numbers, that is, gaps of size  c_k \frac{\log p \log_2 p \log_4 p}{(\log_3 p)^2},  where p is the smaller of the two primes.

@@ -1,0 +1,1 @@
+We derive the rational generating function that enumerates the angels and devils in M. C. Escher's {\it Circle Limit IV} according to their combinatorial distance from the six creatures whose feet meet at the center of the disk. This result shows that the base of the exponential rate of growth is 1.582\ldots (the largest root of the polynomial 1 - z^2 - 2z^3 - z^4 + z^6).

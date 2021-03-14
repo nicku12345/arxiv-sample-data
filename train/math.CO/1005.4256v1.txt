@@ -1,0 +1,1 @@
+We first give a bijective proof of Gould's identity in the model of binary words. Then we deduce Rothe's identity from Gould's identity again by a bijection, which also leads to a double-sum extension of the q-Chu-Vandermonde formula.

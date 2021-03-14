@@ -1,0 +1,1 @@
+For a reductive group G defined over an algebraically closed field of positive characteristic, we show that the Frobenius contraction functor of G-modules is right adjoint to the Frobenius twist of the modules tensored with the Steinberg module twice. It follows that the Frobenius contraction functor preserves injectivity, good filtrations, but not semisiplicity.

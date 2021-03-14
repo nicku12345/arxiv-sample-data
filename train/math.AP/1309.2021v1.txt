@@ -1,0 +1,1 @@
+In this paper, we study the local behaviors of nonnegative local solutions of fractional order semi-linear equations (-\Delta)^\sigma u=u^{\frac{n+2\sigma}{n-2\sigma}} with an isolated singularity, where \sigma\in (0,1). We prove that all the solutions are asymptotically radially symmetric. When \sigma =1, these have been proved in \cite{CGS} by Caffarelli, Gidas and Spruck.

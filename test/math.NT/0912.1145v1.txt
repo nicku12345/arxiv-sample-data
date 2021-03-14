@@ -1,0 +1,1 @@
+In this paper, we describe an algorithm for computing algebraic modular forms on compact inner forms of \mathrm{GSp}_4 over totally real number fields. By analogues of the Jacquet-Langlands correspondence for \mathrm{GL}_2, this algorithm in fact computes Hecke eigensystems of Hilbert-Siegel modular forms of genus 2. We give some examples of such eigensystems over \Q(\sqrt{2}).

@@ -1,0 +1,1 @@
+In this note, we study non-transitive graphs and prove a number of results when they satisfy a coarse version of transitivity. Also, for each finitely generated group G, we produce continuum many pairwise non-quasi-isometric regular graphs that have the same growth rate, number of ends, and asymptotic dimension as G.

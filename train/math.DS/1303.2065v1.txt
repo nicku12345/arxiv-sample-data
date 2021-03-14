@@ -1,0 +1,1 @@
+The Bogdanov-Takens system has at most one limit cycle and, in the parameter space, it exists between a Hopf and a saddle-loop bifurcation curves. The aim of this paper is to prove the Perko's conjectures about some analytic properties of the saddle-loop bifurcation curve. Moreover, we provide sharp piecewise algebraic upper and lower bounds for this curve.

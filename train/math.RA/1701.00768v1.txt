@@ -1,0 +1,1 @@
+Let L be a restricted Lie algebra over a field of positive characteristic. We prove that the restricted enveloping algebra of L is a principal ideal ring if and only if L is an extension of a finite-dimensional torus by a cyclic restricted Lie algebra.

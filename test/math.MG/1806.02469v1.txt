@@ -1,0 +1,1 @@
+In this work, we prove a shape theorem for Poisson cylinders and give a power law bound on surface fluctuations. We prove that for any a \in (1/2, 1), conditioned on the origin being in the set of cylinders, every point in this set, whose Euclidean norm is less than R, lies at an internal distance less than R+O(R^a) from the origin.

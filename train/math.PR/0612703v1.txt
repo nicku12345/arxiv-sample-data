@@ -1,0 +1,1 @@
+We show that a modified Empirical process converges to the limiting Gaussian process whenever the limit is continuous. The modification depends on the properties of the limit via Talagrand's characterization of the continuity of Gaussian processes.

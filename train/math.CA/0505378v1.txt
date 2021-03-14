@@ -1,0 +1,1 @@
+This paper discusses operators lowering or raising the degree but preserving the parameters of special orthogonal polynomials. Results for one-variable classical (q-)orthogonal polynomials are surveyed. For Jacobi polynomials associated with root system BC_2 a new pair of lowering and raising operators is obtained.

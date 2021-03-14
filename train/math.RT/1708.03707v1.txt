@@ -1,0 +1,1 @@
+We consider affine buildings with refined chamber structure. For each vertex in the refined chamber structure we construct a contraction, based at the vertex, that is used to prove exactness of Schneider-Stuhler resolutions of arbitrary depth.

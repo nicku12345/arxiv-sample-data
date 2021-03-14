@@ -1,0 +1,1 @@
+We prove that the "slit carpet" introduced by Merenkov does not admit a bi-Lipschitz embedding into any uniformly convex Banach space. In particular, this includes any Euclidean space \mathbb{R}^n, but also spaces such as L^p for p \in (1,\infty). This resolves Question 8 in the 1997 list by Heinonen and Semmes.

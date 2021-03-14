@@ -1,0 +1,1 @@
+In this article, we provide an algorithm with Wolfram Mathematica code that gives a unified computational power in classification of finite dimensional nilpotent algebras using Skjelbred-Sund method. To illustrate the code, we obtain new finite dimensional Moufang algebras.

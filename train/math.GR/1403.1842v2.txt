@@ -1,0 +1,1 @@
+We show that a right-angled Artin group, defined by a graph \Gamma that has at least three vertices, does not split over an infinite cyclic subgroup if and only if \Gamma is biconnected. Further, we compute JSJ--decompositions of 1--ended right-angled Artin groups over infinite cyclic subgroups.

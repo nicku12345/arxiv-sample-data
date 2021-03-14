@@ -1,0 +1,1 @@
+In this paper the problem of optimal performance of a power system is considered. The problem is posed in various aspects within the frames of the theory of optimal control of stores. Mathematical models are presented by means of the recurrent equations of a dynamic programming. In the general case a new method is presented which avoids the "curse of dimensionality."

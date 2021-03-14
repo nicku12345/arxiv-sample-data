@@ -1,0 +1,1 @@
+We study a porous medium equation, with nonlocal diffusion effects given by an inverse fractional Laplacian operator. We pose the problem in n-dimensional space for all t>0 with bounded and compactly supported initial data, and prove existence of a weak and bounded solution that propagates with finite speed, a property that is nor shared by other fractional diffusion models.

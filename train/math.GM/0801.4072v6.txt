@@ -1,0 +1,1 @@
+Starting from the symmetrical reflection functional equation of the zeta function, we have found that the sigma values satisfying zeta(s) = 0 must also satisfy both |zeta(s)| = |zeta(1 - s)| and |gamma(s/2)zeta(s)| = |gamma((1 - s)/2)zeta(1 - s)|. We have shown that sigma = 1/2 is the only numeric solution that satisfies this requirement.

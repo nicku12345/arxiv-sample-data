@@ -1,0 +1,1 @@
+We consider the symmetric simple exclusion process in the interval \La_N:=[-N,N]\cap\mathbb Z with births and deaths taking place respectively on suitable boundary intervals I_+ and I_-, as introduced in De Masi et al. (J. Stat. Phys. 2011). We study the stationary measure density profile in the limit N\to\infty

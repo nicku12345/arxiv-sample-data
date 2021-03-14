@@ -1,0 +1,1 @@
+We extend the notions of complete intersection dimension and lower complete intersection dimension to the category of complexes with finite homology and verify basic properties analogous to those holding for modules. We also discuss the question of the behavior of complete intersection dimension with respect to short exact sequences.

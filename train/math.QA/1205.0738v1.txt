@@ -1,0 +1,1 @@
+We describe quantizations on monoidal categories of modules over finite groups. They are given by quantizers which are elements of a group algebra. Over the complex numbers we find these explicitly. For modules over S3 and A4 we are given explicit forms for all quantizations.

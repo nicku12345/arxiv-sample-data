@@ -1,0 +1,1 @@
+We use foliations and connections on principal Lie groupoid bundles to prove various integrability results for Lie algebroids. In particular, we show, under quite general assumptions, that the semi-direct product associated to an infinitesimal action of one integrable Lie algebroid on another is integrable. This generalizes recent results of Dazord and Nistor.

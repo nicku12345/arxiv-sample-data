@@ -1,0 +1,1 @@
+This is an expository note on useful expressions for the density function of a product of independent random variables where each variable has a Beta distribution.

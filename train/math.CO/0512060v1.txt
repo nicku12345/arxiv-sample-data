@@ -1,0 +1,1 @@
+We introduce a new determinantal method to count cycle systems in a directed graph that generalizes Gessel and Viennot's determinantal method on path systems. The method gives new insight into the enumeration of domino tilings of Aztec diamonds, Aztec pillows, and related regions.

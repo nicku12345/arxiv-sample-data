@@ -1,0 +1,1 @@
+Let X be a separable Banach space and Y a space which has the Radon-Nikodym property. In this work, we show that L(X, Y) has the Radon-Nikodym property, if L(X, Y) is weakly locally uniformly convex or if L(X, Y) is a weakly compactly gen- erated space.

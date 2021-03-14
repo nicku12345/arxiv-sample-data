@@ -1,0 +1,1 @@
+We show that Orthogonal Greedy Algorithms (Orthogonal Matching Pursuit) provides almost optimal approximation on the first [1/(20M)] steps for M-coherent dictionaries

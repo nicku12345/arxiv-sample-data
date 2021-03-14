@@ -1,0 +1,1 @@
+A three-tope committee K* for a simple oriented matroid M is a 3-subset of its maximal covectors such that every positive halfspace of M contains at least two topes from K*. We consider three-tope committees as the vertex sets of triangles in graphs associated with the topes and enumerate them making use of the properties of the poset of convex subsets of the ground set of M.

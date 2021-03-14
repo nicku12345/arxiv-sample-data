@@ -1,0 +1,1 @@
+The equaliser of a set of homomorphisms S: F(a, b)\rightarrow F(\Delta) has rank at most two if S contains an injective map, and is not finitely generated otherwise. This proves a strong form of Stallings' Equalizer Conjecture for the free group of rank two.

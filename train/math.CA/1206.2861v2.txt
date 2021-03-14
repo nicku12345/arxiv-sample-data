@@ -1,0 +1,1 @@
+We prove a version of the local Tb Theorem assuming that the accretive functions b_Q and T b_Q are locally L ^{p} integrable, for any 1< p < \infty . This improves a recent result of Hytonen-Nazarov. The proof strategy relies upon the their strategy, with additional techniques concerning twisted martingale differences and the use of random dyadic grids in the local Tb setting.

@@ -1,0 +1,1 @@
+We consider a complete biharmonic hypersurface with nowhere zero mean curvature vector field \phi:(M^m,g)\rightarrow (S^{m+1},h) in a sphere. If the squared norm of the second fundamental form B is bounded from above by m, and \int_M H^{- p }dv_g<\infty, for some 0<p<\infty, then the mean curvature is constant.

@@ -1,0 +1,1 @@
+We develop deformation theory of algebras over quadratic operads where the parameter space is a commutative local algebra. We also give a construction of a distinguised deformation of an algebra over a quadratic operad with a complete local algebra as its base--the so called `versal deformation'--which induces all other deformations of the given algebra.

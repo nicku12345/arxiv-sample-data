@@ -1,0 +1,1 @@
+We show that if \varphi \colon \mathbb R\rightarrow\mathbb R is a continuous mapping and the set of nonlinearity of \varphi has nonzero Lebesgue measure, then \varphi maps bijectively a certain set that contains arbitrarily long arithmetic progressions onto a certain set with distinct sums of pairs.

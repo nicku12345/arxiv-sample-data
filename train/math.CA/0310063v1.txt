@@ -1,0 +1,1 @@
+Double integrals that represent matrix elements of the power and logarithmic potentials in the Legendre polynoiomial basis on [-1,1] are found in a closed form. Several proofs are given, which involve different special functions and identities. A connection of the new formulae and Whipple's hypergeometric summation formula is shown.

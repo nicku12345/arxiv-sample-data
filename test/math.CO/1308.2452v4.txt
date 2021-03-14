@@ -1,0 +1,1 @@
+Given a sequence A=(a1,...,an) of real numbers, a block B of the A is either a set B={ai,...,aj} where i<=j or the empty set. The size b of a block B is the sum of its elements. We show that when 0<=ai<=1 and k is a positive integer, there is a partition of A into k blocks B1,...,Bk with |bi-bj|<=1 for every i, j. We extend this result in many directions.

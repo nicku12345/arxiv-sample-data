@@ -1,0 +1,1 @@
+Problem 10 of the Landelijke Interuniversitaire Mathematische Olympiade 2010 asks for a proof that all matrices in a certain family are nilpotent. Both model solutions prove this using the Cayley-Hamilton theorem. I give a purely combinatorial proof.

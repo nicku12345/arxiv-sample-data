@@ -1,0 +1,1 @@
+We obtain a duality between certain category of finite MTL-algebras and the category of finite labeled trees. In addition we prove that certain poset products of MTL-algebras are essentialy sheaves of MTL-chains over Alexandrov spaces. Finally we give a concrete description for the studied poset products in terms of direct products and ordinal sums of finite MTL-algebras.

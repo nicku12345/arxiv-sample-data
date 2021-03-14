@@ -1,0 +1,1 @@
+A knot is called minimal if its knot group admits epimorphisms onto the knot groups of only the trivial knot and itself. In this paper, we determine which two-bridge knot \mathfrak{b}(p,q) is minimal where q \leq 6 or p \leq 100.

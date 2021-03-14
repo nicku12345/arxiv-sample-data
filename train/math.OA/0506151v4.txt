@@ -1,0 +1,1 @@
+We show that the \ca-envelope of the tensor algebra of an arbitrary \ca-correspondence \X coincides with the Cuntz-Pimsner algebra \O_{\X}, as defined by Katsura \cite{Ka}. This improves earlier results of Muhly and Solel and Fowler, Muhly and Raeburn, who came to the same conclusion under the additional hypothesis that \X is strict and faithful.

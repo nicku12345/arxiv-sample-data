@@ -1,0 +1,1 @@
+We compute the Suslin homology of relative curves with modulus. This result may be regarded as a modulus version of the computation of motives for curves, due to Suslin and Voevodsky.

@@ -1,0 +1,1 @@
+We study the relation between a certain graded part of the Jacobian ring of a projective hypersurface and a certain graded quotient for the Hodge filtration of its primitive cohomology, in the case that the hypersurface has at most isolated singularities. We distinguish a class of singularities for which this relation is best possible. The main examples refer to the surface case.

@@ -1,0 +1,1 @@
+Representation of convex geometry as an appropriate join of compatible total orderings of the base set can be achieved, when closure operator of convex geometry is algebraic, or finitary. This bears to the finite case proved by P.H.~Edelman and R.E.~Jamison to the greater extent than was thought earlier.

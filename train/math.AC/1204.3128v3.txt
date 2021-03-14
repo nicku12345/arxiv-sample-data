@@ -1,0 +1,1 @@
+The aim of this note is to present an easy proof of Hilbert's Nullstellensatz using Groebner basis. I believe, that the proof has some methodical advantage in a course on Groebner bases.   Key words: Hilbert's Nullstellensatz, Groebner bases.

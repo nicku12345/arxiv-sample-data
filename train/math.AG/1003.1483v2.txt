@@ -1,0 +1,1 @@
+We consider a smooth projective morphism between smooth complex projective varieties. If the source space is a weak Fano (or Fano) manifold, then so is the target space. Our proof is Hodge theoretic. We do not need mod p reduction arguments. We also discuss related topics and questions.

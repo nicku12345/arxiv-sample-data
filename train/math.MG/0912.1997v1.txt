@@ -1,0 +1,1 @@
+We give an elementary geometric proof using Ford circles that the convergents of the continued fraction expansion of a real number \alpha coincide with the rationals that are best approximations of the second kind of \alpha.

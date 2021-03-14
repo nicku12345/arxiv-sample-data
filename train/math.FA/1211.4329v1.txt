@@ -1,0 +1,1 @@
+Let G = - \Delta_{\xi} - |\xi|^2 \frac{\partial^2}{\partial \eta^2} be the Grushin operator on \R^n \times \R. We prove that the Riesz transforms associated to this operator are bounded on L^p (\R^{n+1}), 1 < p < \infty and their norms are independent of the dimension n.

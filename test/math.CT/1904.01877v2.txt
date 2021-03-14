@@ -1,0 +1,1 @@
+In this note we prove the following useful fact that seems to be missing from the literature: the \infty-category of coherent ordinary topoi (in the sense of SGA4) is equivalent to the \infty-category of coherent 1-localic \infty-topoi (in Lurie's sense). We also collect a number of examples of coherent geometric morphisms between \infty-topoi coming from algebraic geometry.

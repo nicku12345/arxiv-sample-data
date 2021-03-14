@@ -1,0 +1,1 @@
+We solve a strong version of Problem 3.6 (D) in Kirby's list, that is, we show that for any integer n, there exist infinitely many mutually distinct knots such that 2-handle additions along them with framing n yield the same 4-manifold.

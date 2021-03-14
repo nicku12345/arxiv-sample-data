@@ -1,0 +1,1 @@
+We show that if B is a C*-subalgebra of a C*-algebra A such that B contains a bounded approximate identity for A, and if L is the pull-back to A of the quotient norm on A/B, then L is strongly Leibniz. In connection with this situation we study certain aspects of best approximation of elements of a unital C*-algebra by elements of a unital C*-subalgebra.

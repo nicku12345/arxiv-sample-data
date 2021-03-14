@@ -1,0 +1,1 @@
+Two proofs are provided that the narrow ideal class group of squared ideals of a quadratic number field is isomorphic to the kernel of a homomorphism between cohomology groups for Pell conics, Lemmermeyer's obstruction to descent for Pell conics. These proofs make use of a particular subgroup of a Pell conic over algebraic numbers.

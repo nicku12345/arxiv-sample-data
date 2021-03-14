@@ -1,0 +1,1 @@
+In this note we introduce a construction which assigns to an arbitrary manifold bundle its fiberwise orientation covering. This is used to show that the zeta classes of unoriented surface bundles are not divisible in the stable range.

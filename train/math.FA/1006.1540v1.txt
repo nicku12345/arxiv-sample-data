@@ -1,0 +1,1 @@
+A tensor norm \beta= (\beta_{n})_{n=1}^{\infty} is smooth if the natural correspondence (E_{1} \otimes\cdots\otimes E_{n} \otimes\mathbb{K},\beta_{n+1}) \longleftrightarrow (E_{1} \otimes\cdots\otimes E_{n} ,\beta_{n}) is always an isometric isomorphism. In this paper we study the representation of multi-ideals and of ideals of multilinear forms by smooth tensor norms.

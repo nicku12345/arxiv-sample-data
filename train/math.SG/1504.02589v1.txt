@@ -1,0 +1,1 @@
+We present a new notion of speciality which is valid for Bohr - Sommerfeld lagrangian submanifolds. For algebraic varieties it leads to the construction of finite dimensional moduli spaces which are algebraic starting with any ample line bundle. The construction can be exploited both in Geometric Quantization and Mirror Symmetry.

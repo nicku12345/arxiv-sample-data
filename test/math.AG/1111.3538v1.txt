@@ -1,0 +1,1 @@
+We present a method to compute the Euler characteristic of an algebraic subset of \bc^n. This method relies on clasical tools such as Gr\"obner basis and primary decomposition. The existence of this method allows us to define a new invariant for such varieties. This invariant is related to the poblem of counting rational points over finite fields.

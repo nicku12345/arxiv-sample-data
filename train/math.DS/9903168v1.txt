@@ -1,0 +1,1 @@
+Contact reduction is very closely related to symplectic reduction, but it allows symmetries that are not manifest in Hamiltonian mechanics and moreover, solution of the reduced problems yields solution of the original problem without further integration.

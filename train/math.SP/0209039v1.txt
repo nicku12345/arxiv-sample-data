@@ -1,0 +1,1 @@
+We study Schroedinger operators with periodic magnetic field in Euclidean 2-space, in the case of irrational magnetic flux. Positive measure Cantor spectrum is generically expected in the presence of an electric potential. We show that, even without electric potential, the spectrum has positive measure if the magnetic field is a perturbation of a constant one.

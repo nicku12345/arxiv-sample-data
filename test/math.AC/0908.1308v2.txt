@@ -1,0 +1,1 @@
+Normaliz is a tool for the computation of Hilbert bases of normal affine monoids and related tasks. We describe the Macaulay 2 interface to Normaliz. It makes Normaliz accessible for operations on monoid algebras in Macaulay 2 and, conversely, makes Macaulay 2 a frontend for Normaliz.

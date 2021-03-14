@@ -1,0 +1,1 @@
+X.S. Lin's original definition of twisted Alexander knot polynomial is generalized for arbitrary finitely presented groups. J. Cha's fibering obstruction theorem is generalized. The group of a nontrivial virtual knot shown by L. Kauffman to have trivial Jones polynomial is seen also to have a faithful representation that yields a trivial twisted Alexander polynomial.

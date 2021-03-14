@@ -1,0 +1,1 @@
+We introduce the enveloping algebra for a Leibniz pair, and show that the category of modules over a Leibniz pair is isomorphic to the category of left modules over its enveloping algebra. Consequently, we show that the cohomology theory for a Leibniz pair introduced by Flato, Gerstenhaber and Voronov can be interpreted by Ext-groups of modules over the enveloping algebra.

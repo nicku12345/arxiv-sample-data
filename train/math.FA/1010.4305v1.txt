@@ -1,0 +1,1 @@
+In this article we investigate the Fourier series and transforms for the functions defined on the [-pi, pi]^ d or on the R^d and belonging to the (Bilateral) Grand Lebesgue Spaces. As a particular case we obtain some results about Fourier's transform in the so-called exponential Orlicz spaces. We construct also several examples to show the exactness of offered estimations.

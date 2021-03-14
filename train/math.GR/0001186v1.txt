@@ -1,0 +1,1 @@
+For an arbitrary Euclidean building we define a certain combing, which satisfies the `fellow traveller property' and admits a recursive definition. Using this combing we prove that any group acting freely, cocompactly and by order preserving automorphisms on a Euclidean building of one of the types A_n,B_n,C_n admits a biautomatic structure.

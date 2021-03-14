@@ -1,0 +1,1 @@
+There is a Chern character from K-theory to negative cyclic homology. We show that it preserves the decomposition coming from Adams operations, at least in characteristic 0. This is done by using infinitesimal cohomology to reduce to the case of a nilpotent ideal (which had been established by Cathelineau some time ago).

@@ -1,0 +1,1 @@
+By representing elements in free fields (over a commutative field and a finite alphabet) using Cohn and Reutenauer's linear representations, we provide an algorithmic construction for the (partial) non-commutative (or Hausdorff-) derivative and show how it can be applied to the non-commutative version of the Newton iteration to find roots of matrix-valued rational equations.

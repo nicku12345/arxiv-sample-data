@@ -1,0 +1,1 @@
+There are different categorizations of the definition of a {\it ring} such as {\it Ann-category} (see N. T. Quang [6]), {\it ring category} (see M. Kapranov and V.Voevodsky [2]),... The main result of this paper is to prove that every axiom of the definition of a {\it ring category}, without the axiom x_{0}=y_{0}, can be deduced from the axiomatics of an {\it Ann-category}.

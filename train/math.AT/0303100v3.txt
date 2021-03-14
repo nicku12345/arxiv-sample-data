@@ -1,0 +1,1 @@
+We calculate geometric and homotopical (or stable) bordism rings associated to semi-free S^1 actions on complex manifolds, giving explicit generators for the geometric theory. The classification of semi-free actions with isolated fixed points up to cobordism complements similar results from symplectic geometry.

@@ -1,0 +1,1 @@
+We consider a d-dimensional random walk in random scenery X(n), where the scenery consists of i.i.d. with exponential moments but a tail decay of the form exp(-c t^a) with a<d/2. We study the probability, when averaged over both randomness, that {X(n)>ny}. We show that this probability is of order exp(-(ny)^b) with b=a/(a+1).

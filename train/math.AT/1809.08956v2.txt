@@ -1,0 +1,1 @@
+We prove the formula \begin{equation*}cat_G(X\vee Y) = \max \{cat_G(X), cat_G(Y)\} \end{equation*} for the equivariant category of the wedge X\vee Y.

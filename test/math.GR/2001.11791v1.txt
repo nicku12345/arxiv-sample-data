@@ -1,0 +1,1 @@
+For a finite group G denote by \gamma(L(G)) the genus of the subgroup graph of G. We prove that \gamma(L(G)) tends to infinity as either the rank of G or the number of prime divisors of |G| tends to infinity.

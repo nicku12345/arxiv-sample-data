@@ -1,0 +1,1 @@
+A q--deformed anharmonic oscillator is defined within the framework of q--deformed quantum mechanics. It is shown that the Rayleigh--Schr\"odinger perturbation series for the bounded spectrum converges to exact eigenstates and eigenvalues, for q close to 1. The radius of convergence becomes zero in the undeformed limit.

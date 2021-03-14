@@ -1,0 +1,1 @@
+We study several controllability properties for some semilinear parabolic PDE with a quadratic gradient term. For internal distributed controls, it is shown that the system is approximately and null controllable. The proof relies on the Cole-Hopf transformation. The same approach is used to deal with initial controls.

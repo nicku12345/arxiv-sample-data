@@ -1,0 +1,1 @@
+In this paper we consider the chain rule formula for compositions x\mapsto F(x, u(x)) in the case when u has a Sobolev or BV regularity and F(x,z) is separately Sobolev, or BV, with respect to x and C^1 with respect to z. Our results extend to this "nonautonomous" case the results known for compositions x\mapsto F(u(x)).

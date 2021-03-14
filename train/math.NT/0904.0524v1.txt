@@ -1,0 +1,1 @@
+Given three lists of ideals of a Dedekind domain, the question is raised, whether there exist two matrices A and B with entries in the given Dedekind domain, such that the given lists of ideals are the determinantal divisors of A, B, and AB, respectively. To answer this question, necessary and sufficient conditions are developed in this article.

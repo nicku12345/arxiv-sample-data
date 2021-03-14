@@ -1,0 +1,1 @@
+We generalize the notion of trace to the Kontsevich quantization algebra and show that for all Poisson manifolds representable by quotients of a symplectic manifold by a Hamiltonian action of a nilpotent Lie group, the trace is given by integration with respect to a unimodular volume form.

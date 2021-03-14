@@ -1,0 +1,1 @@
+Let T be the unite circle on R^2. Denote by BMO(T) the classical BMO space and denote by BMO_D(T) the usual dyadic BMO space on T. We prove that, BMO(T) is the intersction of BMO_D(T) and a translate of BMO_D(T).

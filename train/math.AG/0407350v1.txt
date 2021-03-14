@@ -1,0 +1,1 @@
+Let (X,o) be a 3-dimensional terminal singularity of type cD or cE defined in \mathbb{C}^4 by an equation non-degenerate with respect to its Newton diagram. We show that there is not more than 1 non-rational divisor E over (X,o) with discrepancy a(E,X)=1. We also describe all blowups \sigma of (X,o) such that E=\Exc(\sigma) is non-rational and a(E,X)=1.

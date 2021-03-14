@@ -1,0 +1,1 @@
+Elements of the commutator subgroup of a free group can be presented as values of canonical forms, called Wicks forms. We show that, starting from sufficiently high genus g, there is a sequence of words w(g) which can be presented by f(g) distinct Wicks forms, where f(g)>g!. Moreover we may choose these words w(g) to be square free.

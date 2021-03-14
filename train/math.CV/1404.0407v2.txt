@@ -1,0 +1,1 @@
+This paper was inspired by Guan and Zhou's recent proof of the so-called strong openness conjecture for plurisubharmonic functions. We give a proof shorter than theirs and extend the result to possibly singular hermitian metrics on vector bundles.

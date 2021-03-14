@@ -1,0 +1,1 @@
+We give an algorithm for factoring quadratic polynomials over any UFD, Z in particular. We prove the correctness of this algorithm and give examples over Z and Z[i].

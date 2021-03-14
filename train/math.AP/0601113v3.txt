@@ -1,0 +1,1 @@
+The solutions of incompressible Navier-Stokes equations in four spatial dimensions are considered. We prove that the two-dimensional Hausdorff measure of the set of singular points at the first blow-up time is equal to zero.

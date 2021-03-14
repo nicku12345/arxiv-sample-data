@@ -1,0 +1,1 @@
+We discuss how the presence of a suitable symmetry can guarantee the perturbative linearizability of a dynamical system - or a parameter dependent family - via the Poincar\'e Normal Form approach. We discuss this at first formally, and later pay attention to the convergence of the linearizing procedure. We also discuss some generalizations of our main result

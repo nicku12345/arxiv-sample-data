@@ -1,0 +1,1 @@
+A natural question is to determine which algebraic stacks are qoutient stacks. In this paper we give some partial answers and relate it to the old question of whether, for a scheme X, the natural map from the Brauer goup (equivalence classes of Azumaya algebras) to the cohomological Brauer group (the torsion subgroup of H^2(X,{\mathbb G}_m) is surjective.

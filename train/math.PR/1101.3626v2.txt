@@ -1,0 +1,1 @@
+We consider (discrete time) branching particles in a random environment which is i.i.d. in time and possibly spatially correlated. We prove a representation of the limit process by means of a Brownian snake in random environment.

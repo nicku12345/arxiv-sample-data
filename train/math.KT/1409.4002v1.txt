@@ -1,0 +1,1 @@
+In this paper we calculate both the periodic and non-periodic Hopf-cyclic cohomology of Drinfeld-Jimbo quantum enveloping algebra U_q(\mathfrak{g}) for an arbitrary semi-simple Lie algebra \mathfrak{g} with coefficients in a modular pair in involution. We show that its Hochschild cohomology is concentrated in a single degree determined by the rank of the Lie algebra \mathfrak{g}.

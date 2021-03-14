@@ -1,0 +1,1 @@
+In this paper we investigate the perturbation properties of rational Misiurewicz maps, when the Julia set is the whole sphere (the other case is treated in [1]). In particular, we show that if f is a Misiurewicz map and not a flexible Lattes map, then we can find a hyperbolic map arbitrarily close to f.

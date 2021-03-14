@@ -1,0 +1,1 @@
+The Laplacian on the Lie groups U(N) and SU(N) is given in a parametrized edition for practical purposes. The radial part is often seen in work on lattice gauge theory, but here is derived also the off-diagonal part which in SU(3) and U(3) is expressed via the well known Gell-Mann matrices but with a more easily memorized notation. Relations to I, U and V spin are also shown.

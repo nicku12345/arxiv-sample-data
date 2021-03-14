@@ -1,0 +1,1 @@
+Let \mathbb{k} be an algebraically closed field. We classify all of the quadratic twisted tensor products A \otimes_{\tau} B in the cases where (A, B) = (\mathbb{k}[x], \mathbb{k}[y]) and (A, B) = (\mathbb{k}[x, y], \mathbb{k}[z]). We determine when a quadratic twisted tensor product of this form is Koszul, and when it is Artin-Schelter regular.

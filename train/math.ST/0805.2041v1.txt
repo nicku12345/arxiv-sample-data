@@ -1,0 +1,1 @@
+Let N_n=\{1,2,...,n\}. Elements are drawn from the set N_n with replacement, assuming that each element has probability 1/n of being drawn. We determine the limiting distributions for the waiting time until the given portion of pairs jj, j\in N_n, is sampled. Exact distributions of some related random variables and their characteristics are also obtained.

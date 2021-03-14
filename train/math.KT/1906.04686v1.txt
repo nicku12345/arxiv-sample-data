@@ -1,0 +1,1 @@
+We propose a new formulation of the equivariant Tamagawa number conjecture (ETNC) for non-commutative coefficients. We remove Picard groupoids, determinant functors, virtual objects and relative K-groups. Our Tamagawa numbers lie in an idele group instead of any kind of K-group. Our formulation is proven equivalent to the one of Burns-Flach.

@@ -1,0 +1,1 @@
+We show that random walk in uniformly elliptic i.i.d. environment in dimension \geq5 has at most one non zero limiting velocity. In particular this proves a law of large numbers in the distributionally symmetric case and establishes connections between different conjectures.

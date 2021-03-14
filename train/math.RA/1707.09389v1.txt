@@ -1,0 +1,1 @@
+We introduce and study a new class of generalized inverse in rings. An element a in a ring R has generalized Hirano inverse if there exists some b\in R such that bab=b, b\in comm^2(a), a^2-ab \in R^{qnil}

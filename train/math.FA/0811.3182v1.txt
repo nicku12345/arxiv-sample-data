@@ -1,0 +1,1 @@
+We analyze the construction of a sequence space \widetilde{\Theta}, resp. a sequence of sequence spaces, in order to have \{g_i\} as a \widetilde{\Theta}-frame or Banach frame for a Banach space X, resp. pre-F-frame or F-frame for a Fr\'echet space X_F=\cap_{s\in {\mathbb N}_0} X_s, where \{X_s\}_{s\in {\mathbb N}_0} is a sequence of Banach spaces.

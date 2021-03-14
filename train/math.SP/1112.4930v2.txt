@@ -1,0 +1,1 @@
+Is there a mod Hilbert-Schmidt analogue of the BDF-theorem, with the Pincus g-function playing the role of the index ? We show that part of the question is about the K-theory of certain Banach algebras. These Banach algebras, related to Lipschitz functions and dirichlet algebras have nice Banach space duality properties. Moreover their corona algebras are C*-algebras.

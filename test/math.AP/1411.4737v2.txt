@@ -1,0 +1,1 @@
+We study the relationship of higher order variational eigenvalues of p-Laplacian and the higher order Cheeger constants. The asymptotic behavior of the k-th Cheeger constant is investigated. Using methods of decompostion of the domain with respect to the eigenfunctions, we obtain the high-order Cheeger's inequality of p-Laplacian on domain.

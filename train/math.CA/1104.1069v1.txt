@@ -1,0 +1,1 @@
+For commutators of the form [b,T] where T is any Calderon--Zygmund operator and b is any BMO function we derive weighted quadratic type estimates in term of the A1 constant of the weight both in the Lp context or of LlogL type at the endpoint

@@ -1,0 +1,1 @@
+We consider the pointwise weighted approximation by Bernstein operators with inner singularities. The related weight functions are weights \bar{w}(x)=|x-\xi|^\alpha(0<\xi<1,\ \alpha>0). In this paper we give direct and inverse results of this type of Bernstein polynomials.

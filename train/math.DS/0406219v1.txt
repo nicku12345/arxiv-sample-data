@@ -1,0 +1,1 @@
+Let G be a connected semisimple Lie group with finite center and without compact factors, P a minimal parabolic subgroup of G, and \Gamma a lattice in G. We prove that every \Gamma-orbits in the Furstenberg boundary G/P is equidistributed for the averages over Riemannian balls. The proof is based on the proximality of the action of \Gamma on G/P.

@@ -1,0 +1,1 @@
+We prove that whenever A is a 3-conservative relational structure with only binary and unary relations then the algebra of polymorphisms of A either has no Taylor operation (i.e. CSP(A) is NP-complete), or generates a congruence meet semidistributive variety (i.e. CSP(A) has bounded width).

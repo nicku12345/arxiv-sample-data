@@ -1,0 +1,1 @@
+For a fixed integer l\geq 1, let R(t) denote the error term in the Weyl's law of a (2l+1)-dimensional Heisenberg manifold with the metric g_l. In this paper we shall prove the asymptotic formula of the k-th power moment for any integers 3\leq k\leq 9. We shall also prove that the function t^{-(l-1/4)}R(t) has a distribution function.

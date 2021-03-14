@@ -1,0 +1,1 @@
+If X is a cosimplical E_{n+1} space then Tot(X) is an E_{n+1} space and its mod 2 homology H_*(Tot(X)) has Dyer-Lashof and Browder operations. It's natural to ask if the spectral sequence converging to H_*(Tot(X)) admits compatible operations. In this paper I give a positive answer to this question.

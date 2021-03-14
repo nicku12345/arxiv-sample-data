@@ -1,0 +1,1 @@
+The quotient of a biautomatic group by a subgroup of the center is shown to be biautomatic. The main tool used is the Neumann-Shapiro triangulation of S^{n-1}, associated to a biautomatic structure on {\Bbb Z}^n. As an application, direct factors of biautomatic groups are shown to be biautomatic.

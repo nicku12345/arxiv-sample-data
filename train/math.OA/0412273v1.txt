@@ -1,0 +1,1 @@
+Suppose that \mu is an arbitrary Borel measure on the complex plane with compact support and take c > 0. If Z is a DT(\mu,c)-operator as defined by Dykema and Haagerup, then the microstates free entropy dimension of Z is 2

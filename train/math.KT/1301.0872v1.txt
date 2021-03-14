@@ -1,0 +1,1 @@
+We classify all \'etale cohomology operations on H_\et^n(-,\muell{i}), showing that they were all constructed by Epstein. We also construct operations P^a on the mod-\ell motivic cohomology groups H^{p,q}, differing from Voevodsky's operations; we use them to classify all motivic cohomology operations on H^{p,1} and H^{1,q} and suggest a general classification.

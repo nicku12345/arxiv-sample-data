@@ -1,0 +1,1 @@
+Let A be a unital C^*-algebra and X an invulutive A-A-equivalence bimodule. Let A\subset C_X be the unital inclusion of unital C^*-algebras induced by X. We suppose that A' \cap C_X =\mathbf{C} 1. We shall compute the Picard group of the unital inclusion A\subset C_X.

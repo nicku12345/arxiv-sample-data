@@ -1,0 +1,1 @@
+We give a canonical construction of a balanced big Cohen-Macaulay algebra for a domain of finite type over \mathbb C by taking ultraproducts of absolute integral closures in positive characteristic. This yields a new tight closure characterization of rational singularities in characteristic zero.

@@ -1,0 +1,1 @@
+We derive a formula for the Chern classes of the bundles of conformal blocks on \bar{M}_{0,n} associated to simple finite dimensional Lie algebras and explore its consequences in more detail for sl_2 and in general for level 1. We also give a method for computing the first Chern class of such bundles on \bar{M}_{g,n} for g>0.

@@ -1,0 +1,1 @@
+The Mycielski ideal M_k is defined to consist of all sets A subseteq k^omega such that {f restriction X: f in A} not= k^X for all X in [omega]^{aleph_0}. It will be shown that the covering numbers for these ideals are all equal. However, the covering numbers of the closely associated Roslanowski ideals will be shown to be consistently different.

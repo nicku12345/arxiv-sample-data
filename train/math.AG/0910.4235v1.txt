@@ -1,0 +1,1 @@
+This paper generalizes the easy addition formula. Given a normal variety X with an invertible sheaf L, inequalities are found bounding \ka(X,L) from above based on the behavior of L restricted to a subvariety or to a pair of "positive" intersecting subvarieties.

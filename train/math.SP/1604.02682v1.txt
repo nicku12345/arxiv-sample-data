@@ -1,0 +1,1 @@
+In this paper the properties of right invertible row operators, i.e., of 1X2 surjective operator matrices are studied. This investigation is based on a specific space decomposition. Using this decomposition, we characterize the invertibility of a 2X2 operator matrix. As an application, the invertibility of Hamiltonian operator matrices is investigated.

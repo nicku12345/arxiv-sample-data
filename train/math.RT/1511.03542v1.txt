@@ -1,0 +1,1 @@
+Let p be a maximal truncated parabolic subalgebra of a simple Lie Algebra. It was shown in many cases that the Poisson centre Y(p) is a polynomial algebra. We construct a slice for the coadjoint action of p, thus extending a theorem of Kostant. The role of the principal sl_2-triple is played by an adapted pair.

@@ -1,0 +1,1 @@
+We show that we can approximate every function f\in C^{k}(\bar{B_1}) with a s-harmonic function in B_1 that vanishes outside a compact set.   That is, s-harmonic functions are dense in C^{k}_{\rm{loc}}. This result is clearly in contrast with the rigidity of harmonic functions in the classical case and can be viewed as a purely nonlocal feature.

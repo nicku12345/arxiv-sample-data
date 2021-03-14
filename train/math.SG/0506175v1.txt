@@ -1,0 +1,1 @@
+We prove that if G is a compact connected Lie group and X is a compact connected hyper-Kahler manifold, then the L^2 metric on (the smooth locus of) the moduli space of flat G-bundles on X is a hyper-Kahler metric.

@@ -1,0 +1,1 @@
+If a finite group A acts coprimely as automorphisms on a finite group G, then the A-invariant Brauer p-blocks of G are exactly those that contain A-invariant irreducible characters.

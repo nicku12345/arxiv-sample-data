@@ -1,0 +1,1 @@
+Let p be a prime number, F a field containing a root of unity of order p, and G_F the absolute Galois group. Extending results of Hopkins, Wickelgren, Minac and Tan, we prove that the triple Massey product H^1(G_F)^3\to H^2(G_F) contains 0 whenever it is nonempty. This gives a new restriction on the possible profinite group structure of G_F.

@@ -1,0 +1,1 @@
+To an inclusion topological groups H->G, we associate a naive G-spectrum. The special case when H=G gives the dualizing spectrum D_G introduced by the author in the first paper of this series. The main application will be to give a purely homotopy theoretic construction of Poincare embeddings in stable codimension.

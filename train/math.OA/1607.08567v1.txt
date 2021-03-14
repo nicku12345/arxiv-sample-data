@@ -1,0 +1,1 @@
+We use the Fock semicrossed product to define an operator algebra associated to a module over an integral domain. We consider the C^*-envelope of the semicrossed product, and then consider properties of these algebras as models for studying general semicrossed products.

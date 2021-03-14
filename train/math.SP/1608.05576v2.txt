@@ -1,0 +1,1 @@
+We derive new asymptotic formulae for the norming constants of Sturm-Liouville problem with summable potentials, which generalize and make more precise previously known formulae. Moreover, our formulae take into account the smooth dependence of norming constants on boundary conditions. We also find some new properties of the remainder terms of asymptotics.

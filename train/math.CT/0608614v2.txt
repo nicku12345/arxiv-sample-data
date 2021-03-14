@@ -1,0 +1,1 @@
+A Group category is a spherical category whose simple objects are invertible. The invariant of Turaev-Viro with this particular category is in fact the invariant of Dijkgraaf-Witten whose the group and the 3-cocycle is given by the simple objects and the associativity constraint of the category.

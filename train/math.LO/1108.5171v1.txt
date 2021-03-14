@@ -1,0 +1,1 @@
+A set of first-order formulas, whatever the cardinality of the set of symbols, is equivalent to an independent set.

@@ -1,0 +1,1 @@
+Following the idea of Galois-type extensions and entwining structures, we define the notion of a principal extension of noncommutative algebras. We show that modules associated to such extensions via finite-dimensional corepresentations are finitely generated projective, and determine an explicit formula for the Chern character applied to the thus obtained modules.

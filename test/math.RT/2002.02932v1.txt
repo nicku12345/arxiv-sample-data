@@ -1,0 +1,1 @@
+We describe a generalization of Hashimoto and Kurano's Cauchy filtration for divided powers algebras. This filtration is then used to provide a cellular structure for generalized Schur algebras associated to an arbitrary cellular algebra. Applications to the cellularity of wreath product algebras A \wr \mathfrak{S}_d are also considered.

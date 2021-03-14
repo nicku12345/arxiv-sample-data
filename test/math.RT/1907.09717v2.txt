@@ -1,0 +1,1 @@
+This paper is part of the program to classify Kazhdan-Lusztig cells for Weyl groups of type D_n. We prove analogous results to those of section 4 of Kazhdan-Lusztig's original paper, this time related to a parabolic subgroup of type D_4. We also show how this is used in the definition of the generalized \tau-invariant.

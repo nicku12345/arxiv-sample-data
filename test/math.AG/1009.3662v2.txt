@@ -1,0 +1,1 @@
+These are detailed notes on a variant of the non-abelian cohomology developed by Minhyong Kim in arXiv:0409456 (published in Invent. Math.) to study rational points of varieties over number fields. The current variant is used in arXiv:1001.5008 to study rational points of the restriction of the universal curve to the generic point of M_{g,n}.

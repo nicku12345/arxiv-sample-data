@@ -1,0 +1,1 @@
+In this article, we give a proof of the link between the zeta function of two families of hypergeometric curves and the zeta function of a family of quintics that was observed numerically by Candelas, de la Ossa, and Rodriguez Villegas. The method we use is based on formulas of Koblitz and various Gauss sums identities; it does not give any geometric information on the link.

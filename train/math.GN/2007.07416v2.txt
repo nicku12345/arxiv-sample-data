@@ -1,0 +1,1 @@
+For every countable ordinal number \xi, we construct a metric space X_{\xi} whose transfinite asymptotic dimension and complementary-finite asymptotic dimension are both \xi. We also prove that the metric space X_{\xi} has finite decomposition complexity.

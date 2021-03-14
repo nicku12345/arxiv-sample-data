@@ -1,0 +1,1 @@
+We define a model structure on the category GCat of small categories with an action by a finite group G by lifting the Thomason model structure on Cat. We show there is a Quillen equivalence between GCat with this model structure and GTop with the standard model structure.

@@ -1,0 +1,1 @@
+In this paper, we study the mapping property form L^p to L^q of the resolvent of the Fourier multiplier operators and scattering theory of generalized Schr\"odinger operators. Though the first half of the subject is studied in [4], we extend their result to away from the duality line and we also study the H\"older continuity of the resolvent.

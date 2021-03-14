@@ -1,0 +1,1 @@
+Let G be a locally compact group, and take p\in(1,\infty). We prove that the Banach left L^1(G)-module L^p(G) is injective (if and) only if the group G is amenable. Our proof uses the notion of multi-norms. We also develop the theory of multi-normed spaces.

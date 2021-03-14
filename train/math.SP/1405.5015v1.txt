@@ -1,0 +1,1 @@
+The spectral radius of a graph is the largest eigenvalue of its adjacency matrix. A minimizer graph is such that minimizes the spectral radius among all connected graphs on n vertices with diameter d. The minimizer graphs are known for d\in\{1,2\}\cup [n/2,2n/3-1]\cup\{n-k\mid k=1,2,...,8\}. In this paper, we determine all minimizer graphs for d=2(n-1)/3.

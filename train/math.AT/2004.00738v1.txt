@@ -1,0 +1,1 @@
+This paper is a survey of persistent homology, primarily as it is used in topological data analysis. It includes the theory of persistence modules, as well as stability theorems for persistence barcodes, generalized persistence, vectorization of persistence barcodes, as well as some applications.

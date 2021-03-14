@@ -1,0 +1,1 @@
+We apply a new technique based on double affine Hecke algebras to the Harish-Chandra theory of spherical zonal functions. The formulas for the Fourier transforms of the multiplications by the coordinates are obtained as well as a simple proof of the Harish-Chandra inversion theorem using the Opdam transform.

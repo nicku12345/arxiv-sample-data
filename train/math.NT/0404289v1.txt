@@ -1,0 +1,1 @@
+Power moments of  J_k(t,G) = {1\over\sqrt{\pi}G} \int_{-\infty}^\infty |\zeta(1/2 + it + iu)|^{2k}{\rm e}^{-(u/G)^2} du \qquad(t \asymp T, T^\epsilon \le G \ll T), where k is a natural number, are investigated. The results that are obtained are used to show how bounds for \int_0^T|\zeta(1/2+it)|^{2k} dt may be obtained.

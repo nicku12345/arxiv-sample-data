@@ -1,0 +1,1 @@
+Let M be the moduli space of semistable rank 2 Higgs pairs (V,\phi) with trivial determinant over a smooth projective curve X of genus g>1. We compute the stringy E-function of M and prove that there does not exist a symplectic desingularization of M for g>2.

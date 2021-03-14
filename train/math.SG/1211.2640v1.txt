@@ -1,0 +1,1 @@
+We construct a 6-manifold M which admits a smooth circle action and a symplectic form w such that if w' is another symplectic form on M equivalent to w, then (M,w') does not admit a symplectic circle action.

@@ -1,0 +1,1 @@
+A two-parameter family of exchangeable partitions with a simple updating rule is introduced. The partition is identified with a randomized version of a standard symmetric Dirichlet species-sampling model with finitely many types. A power-like distribution for the number of types is derived.

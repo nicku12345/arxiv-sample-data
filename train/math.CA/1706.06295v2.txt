@@ -1,0 +1,1 @@
+The purpose of this note is to revive in L^p spaces the original A. Markov ideas to study monotonicity of zeros of orthogonal polynomials. This allows us to prove and improve in a simple and unified way our previous result [Electron. Trans. Numer. Anal., 44 (2015), pp. 271-280] concerning the discrete version of A. Markov's theorem on monotonicity of zeros.

@@ -1,0 +1,1 @@
+We offer a short and elementary proof that, for a Z-set A in a finite-dimensional ANR Y, dimA<dimY. This result is relevant to the study of group boundaries. The original proof by Bestvina and Mess relied on cohomological dimension theory.

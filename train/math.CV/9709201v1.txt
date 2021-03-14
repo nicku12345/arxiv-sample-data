@@ -1,0 +1,1 @@
+In this paper, we prove that if D is a simply-connected domain in C^2 with generic piecewise smooth Levi-flat boundary and non-compact automorphism group, then D is biholomorphic to the bidisc. The proof is based on a careful analysis of invariant measures.

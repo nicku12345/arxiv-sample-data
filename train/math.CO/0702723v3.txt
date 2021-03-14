@@ -1,0 +1,1 @@
+Let G be a graph, H be its chromatic number, L be the largest eigenvalue of its Laplacian, and M be the largest eigenvalue of its adjacency matrix. Then, complementing a well-known result of Hoffman, we show that L>=(H/(H-1))M

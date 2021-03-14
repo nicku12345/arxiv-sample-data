@@ -1,0 +1,1 @@
+For G a finite group, we prove in dimension 2 that there is a monoidal equivalence between the category of G-equivariant topological quantum field theories and the category of G-Frobenius algebras, this was proved by G. Moore and G. Segal. This work consists to give, in more detail, a proof of this result.

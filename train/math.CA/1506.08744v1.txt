@@ -1,0 +1,1 @@
+In this note we discuss solutions of differential equation (D^2-\alpha^2)^{k}u=0 on \mathbb{R}\setminus\mathbb{Z}, which we call hyperbolic splines. We develop the fundamental function of interpolation and prove various properties related to these splines.

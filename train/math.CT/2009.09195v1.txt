@@ -1,0 +1,1 @@
+We prove that for a large class of well-behaved cocomplete categories \mathcal C the weak and strong Drinfeld centers of the monoidal category \mathcal{E} of cocontinuous endofunctors of \mathcal{C} coincide. This generalizes similar results in the literature, where \mathcal{C} is the category of modules over a ring A and hence \mathcal{E} is the category of A-bimodules.

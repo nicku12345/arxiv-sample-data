@@ -1,0 +1,1 @@
+In this paper we describe three geometric applications of quandle homology. We show that it gives obstructions to tangle embeddings, provides the lower bound for the 4-move distance between links, and can be used in determining periodicity of links.

@@ -1,0 +1,1 @@
+We study the shore and non-block points of non-metric continua. We reduce the problem of showing a continuum to have non-block points to that of showing an indecomposable continuum to have non-block points. As a corollary we prove that separable continua have at least two non-block points -- and moreover are irreducible about their set of non-block points.

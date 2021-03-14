@@ -1,0 +1,1 @@
+Given a fiber bundle, we construct a differential graded Lie algebra model for the classifying space of the monoid of homotopy equivalences of the base covered by a fiberwise isomorphism of the total space.

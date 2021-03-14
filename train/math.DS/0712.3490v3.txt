@@ -1,0 +1,1 @@
+We prove combinatorial rigidity of infinitely renormalizable unicritical polynomials, P_c :z \mapsto z^d+c, with complex c, under the a priori bounds and a certain "combinatorial condition". This implies the local connectivity of the connectedness loci (the Mandelbrot set when d = 2) at the corresponding parameters.

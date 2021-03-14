@@ -1,0 +1,1 @@
+We prove that the subdifferential of any semi-algebraic extended-real-valued function on \R^n has n-dimensional graph. We discuss consequences for generic semi-algebraic optimization problems.

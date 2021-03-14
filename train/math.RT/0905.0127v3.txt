@@ -1,0 +1,1 @@
+We classify the GL_p x GL_q-orbits in the flag variety for GL_{p+q} with rationally smooth closure, showing that they are all either already closed or are pullbacks from orbits with smooth closure in a partial flag variety.

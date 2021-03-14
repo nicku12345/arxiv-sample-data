@@ -1,0 +1,1 @@
+Given a closed, connected, oriented 3-manifold with positive first Betti number, one can define an instanton Floer group as well as a quilted Lagrangian Floer group. The quilted Atiyah-Floer conjecture states that these cohomology groups are isomorphic. We initiate a program for proving this conjecture.

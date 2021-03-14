@@ -1,0 +1,1 @@
+In this paper we use Dirichlet's theorem in order to elementally prove two theorems. The first says that since a polynomial ax+b generates one prime, it also generates infinites. The second theorem (which is proved in a very simillar way to the first) says that x^2+1 generates infinitely many primes.

@@ -1,0 +1,1 @@
+An elementary analytic proof of the famous Riemann hypothesis is given. The main "accent" of the proof is a both using of the 2-dimensional double real and complex Laplace integral representations of the Green function \mid z \mid^{-2}.

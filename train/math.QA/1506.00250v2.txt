@@ -1,0 +1,1 @@
+We prove a version of the Jordan-H\" older theorem in the context of weakly group-theoretical fusion categories. This allows us to introduce the composition factors and the length of such a fusion category C, which are in fact Morita invariants of C.

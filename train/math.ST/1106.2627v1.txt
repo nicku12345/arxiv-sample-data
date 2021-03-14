@@ -1,0 +1,1 @@
+This paper is devoted to robust estimation based on dual divergences estimators for parametric models in the framework of right censored data. We give limit laws of the proposed estimators and examine their asymptotic properties through a simulation study.

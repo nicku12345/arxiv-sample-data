@@ -1,0 +1,1 @@
+We present a somewhat different way of looking on Shannon entropy. This leads to an axiomatisation of Shannon entropy that is essentially equivalent to that of Fadeev. In particular we give a new proof of Fadeev theorem.

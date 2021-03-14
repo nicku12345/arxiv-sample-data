@@ -1,0 +1,1 @@
+We prove two theorems about convolution operators on L^p(G) for a locally compact group G. First, if G has the approximation property, then the algebra of convoluters is the algebra of pseudo-measures. Second, the bicommutant of the algebra of pseudo-measures is the algebra of convoluters.

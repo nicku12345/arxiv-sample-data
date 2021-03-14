@@ -1,0 +1,1 @@
+In this paper we give a criterion of irreducibility for a complex power series in two variables, using the notion of jacobian Newton diagrams, defined with respect to any direction. Moreover we study the singularity at infinity of a plane affine curve with one point at infinity for which the global counterpart of our main result holds.

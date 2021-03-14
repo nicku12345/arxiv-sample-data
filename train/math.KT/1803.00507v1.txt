@@ -1,0 +1,1 @@
+Clausen has constructed a homotopical enrichment of the Artin reciprocity symbol in class field theory. On the Galois side, Selmer K-homology replaces the abelianized Galois group, while on the automorphic side the K-theory of locally compact vector spaces replaces classical idelic objects. We supply proofs for some predictions of Clausen regarding the automorphic side.

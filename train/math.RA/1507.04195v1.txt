@@ -1,0 +1,1 @@
+Let \pi be a group. The aim of this paper is to construct the category of Yetter-Drinfeld modules over the quasi-Turaev group coalgebra H=(\{H_\a\}_{\a\in\pi},\Delta,\varepsilon,S,\Phi), and prove that this category is isomorphic to the center of the representation category of H. Therefore a new Turaev braided group category is constructed.

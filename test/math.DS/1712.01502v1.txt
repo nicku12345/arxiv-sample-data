@@ -1,0 +1,1 @@
+We study the polynomial entropy of the wandering part of any invertible dynamical system on a compact metric space. As an application we compute the polynomial entropy of Brouwer homeomorphisms (fixed point free orientation preserving homeomorphisms of the plane), and show in particular that it takes every real value greater or equal to 2.

@@ -1,0 +1,1 @@
+We give the characteristic polynomial of the distance or adjacency matrix of the strong power graph of a finite group, and compute its distance and adjacency spectrum.

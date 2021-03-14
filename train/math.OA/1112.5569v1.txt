@@ -1,0 +1,1 @@
+It is shown that for every measure m on projections in a W^*-algebra of type I_2, there exists a Hilbert-valued orthogonal vector measure \mu such that \|\mu(p)\|^2= m(p) for every projection p. With regard to J. Hamhalter's result (Proc. Amer. Math. Soc., 110 (1990), 803-806) it means that the assertion is valid for an arbitrary W^*-algebra.

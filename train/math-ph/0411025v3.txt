@@ -1,0 +1,1 @@
+The Mandel probability distribution of one-mode stochastic radiation photocounts is analized. Approximations of n-photon registration probabilities with guaranteed accuracy are obtained in the case when the registration time is sufficiently small.

@@ -1,0 +1,1 @@
+We investigate the spectral distribution of large sample covariance matrices with independent columns and entries in the columns that stem from Markov chains. We characterize the limiting spectral densities by their moments. Correspondingly, the proof is based on a moment method.

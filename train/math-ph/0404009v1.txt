@@ -1,0 +1,1 @@
+We study the energy of relativistic electrons and positrons interacting via the second quantized Coulomb potential in the field of a nucleus of charge Z within the Hartree-Fock approximation. We show that the associated functional has a minimizer. In addition, all minimizers are purely electronic states, they are projections, and fulfill the no-pair Dirac-Fock equations.

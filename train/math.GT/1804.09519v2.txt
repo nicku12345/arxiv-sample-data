@@ -1,0 +1,1 @@
+Using the virtual fibering theorem of Agol we show that a sutured 3-manifold (M, R_+,R_-,\gamma) is taut if and only if the \ell^2-Betti numbers of the pair (M,R_-) are zero. As an application we can characterize Thurston norm minimizing surfaces in a 3-manifold N with empty or toroidal boundary by the vanishing of certain \ell^2-Betti numbers.

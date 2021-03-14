@@ -1,0 +1,1 @@
+We present a number of cases of optimal control of Volterra and Fredholm integral equations that are solvable in the sense that the problem can be reduced to a solvable integral equation. This is conceptually analogous to the role of the Riccati differential system in the optimal control of ordinary differential equations.

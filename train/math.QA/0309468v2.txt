@@ -1,0 +1,1 @@
+Every irreducible finite-dimensional representation of the quantized enveloping algebra U_q(gl_n) can be extended to the corresponding quantum affine algebra via the evaluation homomorphism. We give in explicit form the necessary and sufficient conditions for irreducibility of tensor products of such evaluation modules.

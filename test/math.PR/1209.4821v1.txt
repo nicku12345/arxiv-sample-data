@@ -1,0 +1,1 @@
+We prove pathwise uniqueness and strong existence of solutions for stochastic reaction-diffusion systems with locally Lipschitz continuous reaction term of polynomial growth and H\"older continuous multiplicative noise. Under additional assumptions on the coefficients, we also prove positivity of the solutions.

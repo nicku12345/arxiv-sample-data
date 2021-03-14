@@ -1,0 +1,1 @@
+For each integer k > 1, Johnson gave a 3-manifold with Heegaard splittings of genera 2k and 2k-1 such that any common stabilization of these two surfaces has genus at least 3k-1. We modify his argument to produce a 3-manifold with two Heegaard splitings of genus 2k such that any common stabilization of them has genus at least 3k.

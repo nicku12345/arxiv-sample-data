@@ -1,0 +1,1 @@
+We study the discreteness for non-elementary subgroup G in PU(1, n;C), under the assumption that G satisfies Condition A. Mainly, we present that one can use a test map, which need not to be in G, to examine the discreteness of G, and also show that G is discrete, if every two-loxodromic-generator subgroup of G is discrete.

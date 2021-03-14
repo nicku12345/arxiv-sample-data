@@ -1,0 +1,1 @@
+We show that if X is a minimal length carrier graph in a hyperbolic 3-manifold, M, then if X contains a sufficiently short edge, it must contain a short circuit, as well. The meaning of "short" depends only on the rank of the fundamental group of M. We also expand the class of manifolds which are known to have minimal length carrier graphs.

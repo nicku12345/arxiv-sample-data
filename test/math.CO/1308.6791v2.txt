@@ -1,0 +1,1 @@
+In this paper, we study the k-neighbor bootstrap percolation process on the d-dimensional grid [n]^d, and show that the minimum number of initial vertices that percolate is (1-d/k)n^d + O(n^{d-1}) when d<=k<=2d. This confirms a conjecture of Pete.

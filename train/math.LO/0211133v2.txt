@@ -1,0 +1,1 @@
+Let L be a complete orthomodular lattice. There is a one to one correspondence between complete boolean subalgebras of L contained in the center of L and endomorphisms j of L satisfying the Borceux-Van den Bossche conditions.

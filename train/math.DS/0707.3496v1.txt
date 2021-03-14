@@ -1,0 +1,1 @@
+We consider complex dynamics of a critically finite holomorphic map from P^k to P^k, which has symmetries associated with the symmetric group S_{k+2} acting on P^k, for each k \ge 1. The Fatou set of each map of this family consists of attractive basins of superattracting points. Each map of this family satisfies Axiom A.

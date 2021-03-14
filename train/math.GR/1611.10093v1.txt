@@ -1,0 +1,1 @@
+It is proved that every group of the form G=AB with two subgroups A and B each of which is either abelian or has a quasicyclic subgroup of index 2 is soluble of derived length at most 3. In particular, if A is abelian and B is a locally quaternion group, this gives a positive answer to Question 18.95 of "Kourovka notebook" posed by A.I.Sozutov.

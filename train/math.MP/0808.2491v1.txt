@@ -1,0 +1,1 @@
+We give a method to solve the time-dependent Schroedinger equation for a system of one-dimensional bosons interacting via a repulsive delta function potential. The method uses the ideas of Bethe Ansatz but does not use the spectral theory of the associated Hamiltonian.

@@ -1,0 +1,1 @@
+We prove a result relating the Jacobian ideal and the generalized test ideal associated to a principal ideal in R=k[x_1,...,x_n] with [k:k^p]<\infty or in R=k[[x_1,...,x_n]] with an arbitrary field k of characteristic p>0. As a consequence of this result, we establish an upper bound on the number of F-jumping coefficients of a principal ideal with an isolated singularity.

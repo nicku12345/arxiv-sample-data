@@ -1,0 +1,1 @@
+We give an easy proof of the Bernstein-Lunts equivalence of ordinary and equivariant derived categories of Harish-Chandra modules. This proof requires no boundedness assumptions. In the appendix we collect some needed, but not completely standard facts from homological algebra.

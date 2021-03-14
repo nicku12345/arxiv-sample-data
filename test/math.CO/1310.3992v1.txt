@@ -1,0 +1,1 @@
+For a finite sequence of positive integers to be the degree sequence of a finite graph, Zverovich and Zverovich gave a sufficient condition involving only the length of the sequence, its maximal element and its minimal element. In this paper we give a sharp refinement of Zverovich--Zverovich's result.

@@ -1,0 +1,1 @@
+We introduce new pseudo-metrics on spaces of Lagrangian submanifolds of a symplectic manifold (M,\omega) by considering areas associated to projecting Lagrangian cobordisms in \mathbb{C} \times M to the "time-energy plane" \mathbb{C}. We investigate the non-degeneracy properties of these pseudo-metrics, reflecting the rigidity and flexibility aspects of Lagrangian cobordisms.

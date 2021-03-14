@@ -1,0 +1,1 @@
+Let L be a general length function for modules over a Noetherian ring R. We use L to define Hilbert series and polynomials for R[X]-modules. The leading term of any such polynomial is an invariant of R[X]-modules, which refines the algebraic entropy.

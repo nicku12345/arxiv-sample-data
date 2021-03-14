@@ -1,0 +1,1 @@
+We introduce the concept of {sigma, tau}-Rota-Baxter operator, as a twisted version of a Rota-Baxter operator of weight zero. We show how to obtain a certain {sigma, tau}-Rota-Baxter operator from a solution of the associative (Bi)Hom-Yang-Baxter equation, and, in a compatible way, a Hom-pre-Lie algebra from an infinitesimal Hom-bialgebra.

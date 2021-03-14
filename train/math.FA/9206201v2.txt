@@ -1,0 +1,1 @@
+Let X=\sum \epsilon_n x_n be a Rademacher series with vector-valued coefficients. We obtain an approximate formula for the distribution of the random variable ||X|| in terms of its mean and a certain quantity derived from the K-functional of interpolation theory. Several applications of the formula are given.

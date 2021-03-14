@@ -1,0 +1,1 @@
+We prove a relative statement about the slices of the algebraic cobordism spectrum. If the map from MGL to a certain quotient of MGL introduced by Hopkins and Morel is the map to the zero-slice then a relative version of Voevodsky's conjecture on the slices of MGL holds true. We outline the picture for K-theory and rational slices.

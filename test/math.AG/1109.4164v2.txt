@@ -1,0 +1,1 @@
+We show that if (X,B) is a log canonical pair with \dim X\geq d+2, whose non-klt centers have dimension \geq d, then X is has depth \ge d+2 at every closed point.

@@ -1,0 +1,1 @@
+We determine the representations of the Yokonuma-Temperley-Lieb algebra, which is defined as a quotient of the Yokonuma-Hecke algebra by generalising the construction of the classical Temperley-Lieb algebra. We then deduce the dimension of this algebra, and produce an explicit basis for it.

@@ -1,0 +1,1 @@
+We prove that the cohomology group of a Deligne-Lusztig variety defines a Morita equivalence in a case which is not covered by the argument by Bonnaf\'e, Dat and Rouquier, specifically we consider the situation for semisimple elements in type D whose centralizer has non-cyclic component group.

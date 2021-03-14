@@ -1,0 +1,1 @@
+We construct Hopf algebra isomorphisms of discrete multiplier Hopf C*-algebras, and Hopf AF C*-algebras (generalized quantum UHF algebras), from K-theoretical data. Some of the intermediate results are of independent interest, such as a result that Jordan maps of Hopf algebras intertwine antipodes, and the applications to automorphisms of Hopf algebras.

@@ -1,0 +1,1 @@
+We establish that the set of local automorphisms \textrm{LAut}(\mathfrak{sl}_2) is the group \textrm{Aut}^{\pm}(\mathfrak{sl}_2) of all automorphisms and anti-automorphisms. For n\geq 3 we prove that anti-automorphisms are local automorphisms of \mathfrak{sl}_n.

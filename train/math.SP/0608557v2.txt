@@ -1,0 +1,1 @@
+We construct pairs and continuous families of isospectral yet locally non-isometric orbifolds via an equivariant version of Sunada's method. We also observe that if a good orbifold \mathcal{O} and a smooth manifold M are isospectral, then they cannot admit non-trivial finite Riemannian covers M_1 \to \mathcal{O} and M_2 \to M where M_1 and M_2 are isospectral manifolds.

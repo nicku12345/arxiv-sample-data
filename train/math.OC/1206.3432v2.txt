@@ -1,0 +1,1 @@
+We prove a maximum principle for the problem of optimal control for a fractional diffusion with infinite horizon. Further, we show existence of fractional backward stochastic differential equations on infinite horizon. We illustrate our findings with an example.

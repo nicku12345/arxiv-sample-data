@@ -1,0 +1,1 @@
+We prove that for a toric manifold M, any graded ring isomorphism H^\ast(M) \to H^\ast(\prod_{i=1}^{m}\CP^{n_i}) is induced by a diffeomorphism \prod_{i=1}^m \CP^{n_i} \to M.

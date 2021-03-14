@@ -1,0 +1,1 @@
+For \ell = 3 and 5 it is known that every odd, irreducible, 2-dimensional representation of \Gal(\bar{\Q}/\Q) with values in \F_\ell and determinant equal to the cyclotomic character must "come from" the \ell-torsion points of an elliptic curve defined over \Q. We prove, by giving concrete counter-examples, that this result is false for every prime \ell >5.

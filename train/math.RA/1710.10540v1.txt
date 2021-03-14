@@ -1,0 +1,1 @@
+Panov proved necessary and sufficient conditions to extend the Hopf algebra structure of an algebra R to an Ore extension R[x;\sigma,\delta] with x being a skew-primitive element. In this paper we extend Panov's result to Ore extensions over weak Hopf algebras. As an application we study Ore extensions of connected groupoid algebras.

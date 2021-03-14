@@ -1,0 +1,1 @@
+In the early 1980s Ross Geoghegan and I calculated the homology of Richard Thompson's group F as a graded abelian group. It turns out that the homology admits a natural ring structure, which I calculate in this paper. As a byproduct, I obtain the ring structure on the cohomology.

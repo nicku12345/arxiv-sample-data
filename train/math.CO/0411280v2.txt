@@ -1,0 +1,1 @@
+We present several generalizations of Cauchy's determinant and Schur's Pfaffian by considering matrices whose entries involve some generalized Vandermonde determinants. Special cases of our formulae include previuos formulae due to S.Okada and T. Sundquist. As an application, we give a relation for the Littlewood--Richardson coefficients involving a rectangular partition.

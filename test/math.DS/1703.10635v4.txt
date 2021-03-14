@@ -1,0 +1,1 @@
+We study solutions of bifurcation problems with periodic boundary conditions, with periods in an n+1-dimensional lattice and their projection into n-dimensional space through integration of the last variable. We show that generically the projection of a single mode solution is a mode interaction. This can be applied to the study of black-eye patterns.

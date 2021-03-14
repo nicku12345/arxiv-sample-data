@@ -1,0 +1,1 @@
+We prove the mixing for all staircase transformations satisfied the conditions r_j/h_j\to 0 + r_j\to\infty.

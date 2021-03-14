@@ -1,0 +1,1 @@
+We correct a common (but mistaken) attribution of the evaluation of the probability integral, usually attributed to Poisson, Gauss, or Laplace.

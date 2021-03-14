@@ -1,0 +1,1 @@
+We consider optimal control problems governed by systems describing the flow of an incompressible second grade fluid with Dirichlet boundary conditions. We prove the existence of an optimal solution, derive the corresponding necessary optimality conditions and analyze its asymptotic behavior when the viscoelastic parameter tends to zero.

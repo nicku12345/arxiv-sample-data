@@ -1,0 +1,1 @@
+The theorem on squaring a rectangle from a tiling of a quadrilateral (Schramm and Cannon-Floyd-Parry) gives a combinatorial version of the Riemann mapping theorem. We elucidate by example (the dumbbell) some of the limitations of rectangle-squaring as an approximation to the classical Riemamnn mapping.

@@ -1,0 +1,1 @@
+We compute the unknotting number of two infinite families of pretzel knots, P(3,1,\dots,1,b) (with b positive and odd and an odd number of 1s) and P(3,3,3c) (with c positive and odd). To do this, we extend a technique of Owens using Donaldson's diagonalization theorem, and one of Traczyk using the Jones polynomial, building on work of Lickorish and Millett.

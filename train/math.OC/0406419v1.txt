@@ -1,0 +1,1 @@
+It is proved that the roots of combinations of matrix polynomials with real roots can be recast as eigenvalues of combinations of real symmetric matrices, under certain hypotheses. The proof is based on recent solution of the Lax conjecture. Several applications and corollaries, in particular concerning hyperbolic matrix polynomials, are presented.

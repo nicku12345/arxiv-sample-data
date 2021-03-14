@@ -1,0 +1,1 @@
+Systematically using the language of groupoids, we survey the theory of global Mackey functors, global Green functors and global power functors. Given a global power functor, we study rings with similar operations. The example of n-class functions leads to the notion of an n-special lambda ring.

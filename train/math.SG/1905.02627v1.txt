@@ -1,0 +1,1 @@
+Hofer's metric is a bi-invariant metric on Hamiltonian diffeomorphism groups. Our main result shows that the topology induced from Hofer's metric is weaker than C^1-topology if the symplectic manifold is closed.

@@ -1,0 +1,1 @@
+We give several bounds for sdepth_S(I+J), sdepth_S(I\cap J), sdepth_S(S/(I+J)), sdepth_S(S/(I\cap J)), sdepth_S(I:J) and sdepth_S(S/(I:J)) where I,J\subset S=K[x_1,...,x_n] are monomial ideals. Also, we give several equivalent forms of Stanley Conjecture for I and S/I, where I\subset S is a monomial ideal.

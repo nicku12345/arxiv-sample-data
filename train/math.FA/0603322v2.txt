@@ -1,0 +1,1 @@
+The classical Szeg\"o theorems study the asymptotic behaviour of the determinants of the finite sections P_n T(a) P_n of Toeplitz operators, i.e., of operators which have constant entries along each diagonal. We generalize these results to operators which have almost periodic functions on their diagonals.

@@ -1,0 +1,1 @@
+The scattering matrix of the Schrodinger operator with smooth short-range electric and magnetic potentials is considered. The asymptotic density of the eigenvalues of this scattering matrix in the high energy regime is determined. An explicit formula for this density is given. This formula involves only the magnetic vector-potential.

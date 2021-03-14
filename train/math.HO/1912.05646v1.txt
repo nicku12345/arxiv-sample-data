@@ -1,0 +1,1 @@
+In this article we generalize the classic "farm pen" optimization problem from a first course in calculus in a handful of different ways. We describe the solution to an n-dimensional rectangular variant, and then study the situation when the pens are either regular polygons or platonic solids.

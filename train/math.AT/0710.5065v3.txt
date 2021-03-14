@@ -1,0 +1,1 @@
+For an abelian category, a category equivalent to its derived category is constructed by means of specific projective (injective) multicomplexes, the so-called homological resolutions.

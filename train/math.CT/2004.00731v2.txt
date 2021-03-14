@@ -1,0 +1,1 @@
+We present a variant of the small object argument, inspired by Kelly, better suited to construct unique factorisation systems. Our main result is to compare it to the plus-construction involved in sheafification. We apply this to construct localizations, modalities and left-exact localizations explicitly from generators.

@@ -1,0 +1,1 @@
+Let A be an algebra in a variety V. We study the modulization of a pointed A-overalgebra P, show that it is totally in any variety that P is totally in, and apply this theory to the construction of the enveloping ringoid Z[A,V].

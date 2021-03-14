@@ -1,0 +1,1 @@
+In this paper, we perform a comparison study of two methods (the embedded boundary method and several versions of the mixed finite element method) to solve an elliptic boundary value problem.

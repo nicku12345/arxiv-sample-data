@@ -1,0 +1,1 @@
+Let A be a representation-finite self-injective algebra over an algebraically closed field k. We give a new characterization for an orthogonal system in the stable module category A-\stmod to be a simple-minded system. As a by-product, we show that every Nakayama-stable orthogonal system in A-\stmod extends to a simple-minded system.

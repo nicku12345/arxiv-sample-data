@@ -1,0 +1,1 @@
+We analyze the informal notion of truth and conclude that it can be formalized in essentially two distinct ways: constructively, in terms of provability, or classically, as a hierarchy of concepts which satisfy Tarski's biconditional in limited settings. This leads to a complete resolution of the liar paradox.

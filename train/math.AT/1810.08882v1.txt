@@ -1,0 +1,1 @@
+In this paper, we classify the congruence classes of \mathbf{F}^5_{n(2)}-polyhedra, i.e. (n-1)-connected, at most (n+5)-dimensional polyhedra with 2-torsion free homology. The proof relies on the matrix problem technique which was developed in the classification of representations of algebras and applied to homotopy theory by Baues and Drozd.

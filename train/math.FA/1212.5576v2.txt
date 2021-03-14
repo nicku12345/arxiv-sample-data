@@ -1,0 +1,1 @@
+For each ordinal \alpha<\omega_1, we prove the existence of a space with a basis and Szlenk index \omega^{\alpha+1} which is universal for the class of spaces with Szlenk index not exceeding \omega^\alpha. Our proof involves developing a characterization of which Banach spaces embed into spaces with an FDD with upper Schreier space estimates.

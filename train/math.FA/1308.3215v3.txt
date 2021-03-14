@@ -1,0 +1,1 @@
+We construct a Parseval frame with n+1 vectors in \R^n that contains a given vector. We also provide a characterization of unit-norm frames that can be scaled to a Parseval frame.

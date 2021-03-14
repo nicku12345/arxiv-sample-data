@@ -1,0 +1,1 @@
+In this note we show that every discrete polymatroid is M-shellable. This gives, in a partial case, a positive answer to a conjecture of Chari and improves a recent result of Schweig where he proved that the h-vector of a lattice path matroid satisfies a conjecture of Stanley.

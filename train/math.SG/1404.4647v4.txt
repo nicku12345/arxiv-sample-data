@@ -1,0 +1,1 @@
+We find an upper bound for the Gromov width of coadjoint orbits of compact Lie groups with respect to the Kirillov Kostant Souriau form by computing certain Gromov Witten invariants, the approach presented here is closely related to the one used by Gromov in his celebrated nonsqueezing theorem.

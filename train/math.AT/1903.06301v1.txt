@@ -1,0 +1,1 @@
+For a smooth manifold M, we define a topological space X(k,M), and show that polynomial functors O(M)--> C of degree <= k from the poset of open subsets of M to a simplicial model category can be classified be a version of linear functors from O(X(k,M)) to C.

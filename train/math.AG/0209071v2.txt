@@ -1,0 +1,1 @@
+We define Strebel differentials for stable complex curves, prove the existence and uniqueness theorem that generalizes Strebel's theorem for smooth curves, prove that Strebel differentials form a continuous family over the moduli space of stable curves, and show how this construction can be applied to clarify a delicate point in Kontsevich's proof of Witten's conjecture.

@@ -1,0 +1,1 @@
+Given parameters k, l, and d, we give new lower bounds on the dimensions N such that there are maps from R^d to R^N that are k-regular, l-skew embeddings, or k-regular-l-skew embeddings. This extends and sharpens results due to Chisholm (1979) and Ghomi-Tabachnikov (2008).

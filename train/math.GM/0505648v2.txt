@@ -1,0 +1,1 @@
+The famous contradiction of a bijection between a set and its power set is a consequence of the impredicative definition involved. This is shown by the fact that a simple mapping between equivalent sets does also fail to satisfy the critical requirement.

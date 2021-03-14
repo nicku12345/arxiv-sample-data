@@ -1,0 +1,1 @@
+A recollement of triangulated categories describes one such category as being "glued together" from two others.   This paper gives a precise criterion for the existence of a recollement of the derived category of a Differential Graded Algebra in terms of two other such categories.

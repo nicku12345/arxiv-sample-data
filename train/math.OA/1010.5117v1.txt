@@ -1,0 +1,1 @@
+Given a von Neumann algebra M with a faithful normal finite trace \tau denote by L^\Lambda(M, \tau) the generalized Arens algebra with respect to M. We give a complete description of all additive derivations on the algebra L^\Lambda(M, \tau). In particular each additive derivation on the algebra L^{\Lambda}(M, \tau), where M is a type II von Neumann algebra, is inner.

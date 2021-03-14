@@ -1,0 +1,1 @@
+We extend the diagrammatic calculus of syllogisms introduced in our previous paper to the general case of n-term syllogisms, showing that the valid ones are exactly those whose conclusion follows by calculation. Moreover, by pointing out the existing connections with the theory of rewriting systems we will also single out a suitable category theoretic framework for the calculus.

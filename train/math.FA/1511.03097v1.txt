@@ -1,0 +1,1 @@
+In view of the fact that some classical methods to construct multi-ideals fail in constructing hyper-ideals, in this paper we develop two new methods to construct hyper-ideals of multilinear operators between Banach spaces. These methods generate new classes of multilinear operators and show that some important well studied classes are Banach or p-Banach hyper-ideals.

@@ -1,0 +1,1 @@
+We analyze Weierstrass cycles and tautological rings in moduli space of smooth algebraic curves and in moduli spaces of integral algebraic curves with embedded disks with special attention to moduli spaces of curves having genus \leq 6. In particular, we show that our general formula gives a good estimate for the dimension of Weierstrass cycles for lower genera.

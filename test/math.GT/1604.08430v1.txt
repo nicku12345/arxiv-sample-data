@@ -1,0 +1,1 @@
+This paper is a short introduction to the combinatorial version of tangle Floer homology defined in "Combinatorial tangle Floer homology". There are two equivalent definitions---one in terms of strand diagrams, and one in terms of bordered grid diagrams. We present both, discuss the correspondence, and carry out some explicit computations.

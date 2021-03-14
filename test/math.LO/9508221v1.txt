@@ -1,0 +1,1 @@
+We answer Problem 1 of Monk if there are Boolean algebras B_1,B_2 such that c(B_i) <= lambda_i but c(B_1 x B_2)> lambda_1+ lambda_2 where lambda_1= mu is singular and mu > lambda_2= theta >cf(mu)

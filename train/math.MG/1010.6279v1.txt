@@ -1,0 +1,1 @@
+We generalize the ham sandwich theorem for the case of well separated measures. Given convex bodies K_1,...,K_d in \mathbb{R_d} and numbers \alpha_1,...,\alpha_d \in [0, 1], we give a sufficient condition for existence and uniqueness of an (oriented)halfspace H with Vol(H \cap K_i)= \alpha_i \dot VolK_i for every i. The result is extended from convex bodies to measures.

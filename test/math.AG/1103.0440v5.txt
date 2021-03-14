@@ -1,0 +1,1 @@
+The numerical dimension is a numerical measure of the positivity of a pseudo-effective divisor L. There are several proposed definitions of the numerical dimension due to Nakayama (2004) and Boucksom et al. (2004). We prove the equality of these notions and give several additional characterizations. We also prove some new properties of the numerical dimension.

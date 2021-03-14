@@ -1,0 +1,1 @@
+Let \G be an oriented graph of order n and \a_1,\a_2,..., \a_n denote all the eigenvalues of the skew-adjacency matrix of \G. The skew energy \displaystyle{\cal E}_s(\G)= \sum_{i=1}^{n} |\a_i|.   In this paper, the oriented unicyclic graphs with minimal and maximal skew energy are determined.

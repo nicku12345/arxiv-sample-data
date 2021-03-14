@@ -1,0 +1,1 @@
+We prove that if there exists a simplified (\omega_1,2)-morass, then there is a ccc forcing which adds an \omega_3-chain in P(\omega_1) mod finite and a ccc forcing which adds a family of \omega_3-many strongly almost disjoint functions from \omega_1 to \omega. The idea is to use a finite support iteration of countable forcings which is not linear but three-dimensional.

@@ -1,0 +1,1 @@
+We obtain the classical Ambarzumyan's theorem for the Sturm-Liouville operators L_{t}(q) with q\in L^{1}[0,1] and quasi-periodic boundary conditions, t\in [0,2\pi), when there is not any additional condition on the potential q.

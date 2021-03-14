@@ -1,0 +1,1 @@
+In this notes, we study some basic deformation of A-infinity algebra. It includes a two-dimensional rescaling deformation and the Maurer-Cartan element or bounding cochain deformation used in Lagrangian Floer Homology theory. We show that such deformation always can be derived from some (weakly) strict endomorphism equivalently.

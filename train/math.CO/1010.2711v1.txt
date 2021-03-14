@@ -1,0 +1,1 @@
+Union-free families of subsets of [n]=\{1,... n\} have been studied in \cite{FF}. In this paper, we provide a complete characterization of maximal {\it symmetric difference}-free families of subsets of [n].

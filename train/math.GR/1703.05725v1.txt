@@ -1,0 +1,1 @@
+A finitely generated subgroup H of a torsion-free hyperbolic group G is called immutable if there are only finitely many conjugacy classes of injections of H into G. We show that there is no uniform algorithm to recognize immutability, answering a uniform version of a question asked by the authors.

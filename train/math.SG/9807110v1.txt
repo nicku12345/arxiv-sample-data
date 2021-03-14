@@ -1,0 +1,1 @@
+For Marsden-Weinstein reductions at the point 0 in the vector space dual to the Lie algebra, the well-known Jeffrey-Kirwan-Witten localization formula was proven and lastly modified by M. Vergne. We prove in this paper the same kind formula for the reductions at regular coadjoint orbits by using the universal orbital formula of characters.

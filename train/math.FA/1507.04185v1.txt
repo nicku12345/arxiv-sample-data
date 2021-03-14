@@ -1,0 +1,1 @@
+Requirements under which the Daugavet equation and the alternative Daugavet equation hold for pairs of nonlinear maps between Banach spaces are analysed. A geometric description is given in terms of nonlinear slices. Some local versions of these properties are also introduced and studied, as well as tests for checking if the required conditions are satisfied in relevant cases.

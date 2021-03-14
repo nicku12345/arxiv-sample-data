@@ -1,0 +1,1 @@
+We prove that in normal rings the tight closure of an ideal can be computed as the sum of the ideal and a piece of the tight closure, called the special tight closure.

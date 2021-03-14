@@ -1,0 +1,1 @@
+For Laplace-Beltrami operators associated to metrics which are long range perturbations of the flat one, we prove estimates for powers of the resolvent as the spectral parameter goes to zero. We also discuss applications to the local energy decay for the Schroedinger, Wave and Klein Gordon equations.

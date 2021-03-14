@@ -1,0 +1,1 @@
+The class of matrix algebras on a ladder \mathcal{L} generalizes the class of block upper triangular matrix algebras. It was previously shown that the matrix algebra on a ladder \mathcal{L} is zero product determined under matrix multiplication. In this article, we show that the matrix algebra on a one-step ladder is zero product determined under the Lie bracket.

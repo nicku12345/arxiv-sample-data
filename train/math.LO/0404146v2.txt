@@ -1,0 +1,1 @@
+The main result of this paper is a partial answer to [math.LO/9909115, Problem 5.5]: a finite iteration of Universal Meager forcing notions adds generic filters for many forcing notions determined by universality parameters. We also give some results concerning cardinal characteristics of the sigma-ideals determined by those universality parameters.

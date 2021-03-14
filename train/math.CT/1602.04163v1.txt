@@ -1,0 +1,1 @@
+A categorical principal bundle is a structure comprised of categories that is analogous to a classical principal bundle; examples arise from geometric contexts involving bundles over path spaces. We show how a categorical principal bundle can be constructed from local data specified through transition functors and natural transformations.

@@ -1,0 +1,1 @@
+In this paper, we shall prove that the irreducibility in the sense of fine topology implies the uniqueness of invariant probability measures. It is also proven that this irreducibility is strictly weaker than the strong Feller property plus irreducibility in the sense of original topology, which is the usual uniqueness condition.

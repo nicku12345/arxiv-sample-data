@@ -1,0 +1,1 @@
+Wavelet and frames have become a widely used tool in mathematics, physics, and applied science during the last decade. This article gives an overview over some well known results about the continuous and discrete wavelet transforms and groups acting on \mathbb{R}^n. We also show how this action can give rise to wavelets, and in particular, MSF wavelets)in L^2(\mathbb{R}^n).

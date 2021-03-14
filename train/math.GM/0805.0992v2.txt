@@ -1,0 +1,1 @@
+We generalize both the Fibonacci and Lucas numbers to the context of graph colorings, and prove some identities involving these numbers. As a corollary we obtain new proofs of some known identities involving Fibonacci numbers such as \[F_{r+s+t} = F_{r+1}F_{s+1}F_{t+1} + F_r F_s F_t - F_{r-1}F_{s-1}F_{t-1}.\]

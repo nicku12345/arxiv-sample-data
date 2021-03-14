@@ -1,0 +1,1 @@
+The paper concerns the solvability by quadratures of linear differential systems, which is one of the questions of differential Galois theory. We consider systems with regular singular points as well as those with (non-resonant) irregular ones and propose some criteria of solvability for systems whose (formal) exponents are sufficiently small.

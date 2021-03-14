@@ -1,0 +1,1 @@
+An artin algebra is said to be PCM-free if every finitely generated Gorenstein projective module with a projective submodule is projective. In this paper, we show that artin local algebras with radical cubic zero are PCM-free.

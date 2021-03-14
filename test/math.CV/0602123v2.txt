@@ -1,0 +1,1 @@
+Let f be a holomorphic endomorphism of P^k having an attracting set A. We construct an attracting current and an equilibrium measure associated to A. The attracting current is weakly laminar and extremal in the cone of invariant currents. The equilibrium measure is mixing and has maximal entropy.

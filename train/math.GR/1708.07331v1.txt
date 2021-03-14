@@ -1,0 +1,1 @@
+Let G be a finite group and let p_1,\dots,p_n be distinct primes. If G contains an element of order p_1\cdots p_n, then there is an element in G which is not contained in the Frattini subgroup of G and whose order is divisible by p_1\cdots p_n.

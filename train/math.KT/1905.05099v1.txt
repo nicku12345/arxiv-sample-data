@@ -1,0 +1,1 @@
+We study the homology of [P_n,P_n], the commutator subgroup of the pure braid group on n strands, and show that H_l([P_n,P_n]) contains a free abelian group of infinite rank for all 1\leq l\leq n-2. As a consequence we determine the cohomological dimension of [P_n,P_n]: for n\geq 2 we have \mathrm{cd}([P_n,P_n])=n-2.

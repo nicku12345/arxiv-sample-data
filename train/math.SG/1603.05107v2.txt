@@ -1,0 +1,1 @@
+The theorem that if all geodesics of a Riemannian two-sphere are closed they are also simple closed is generalized to real Hamiltonian structures on \mathbb{R}P^3. For reversible Finsler 2-spheres all of whose geodesics are closed this implies that the lengths of all geodesics coincide.

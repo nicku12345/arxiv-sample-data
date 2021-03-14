@@ -1,0 +1,1 @@
+We show that the 3-block of the sporadic simple Janko group J_4 with defect group C_3 x C_3, and the principal 3-block of the alternating group A_8 are Puig equivalent, answering a question posed in earlier work of Koshitani-Kunugi-Waki. To accomplish this, we apply computational techniques, in particular an explicit version of the Brauer construction.

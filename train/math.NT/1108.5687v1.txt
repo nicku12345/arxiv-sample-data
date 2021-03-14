@@ -1,0 +1,1 @@
+After a brief introduction to the classical theory of binary quadratic forms we use these results for proving (most of) the claims made by P\'epin in a series of articles on unsolvable quartic diophantine equations, and for constructing families of counterexamples to the Hasse Principle for curves of genus 1 defined by equations of the form ax^4 + by^4 = z^2.

@@ -1,0 +1,1 @@
+We characterize H-spaces which are p-torsion Postnikov pieces of finite type by a cohomological property together with a necessary acyclicity condition. When the mod p cohomology of an H-space is finitely generated as an algebra over the Steenrod algebra we prove that its homotopy groups behave like those of a finite complex.

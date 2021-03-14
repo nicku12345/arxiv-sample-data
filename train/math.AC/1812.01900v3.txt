@@ -1,0 +1,1 @@
+In this paper, we study the notion of special ideals. We generalize the results on those as well as the algorithm obtained for finite dimensional power series rings by Mordechai Katzman and Wenliang Zhang to finite dimensional polynomial rings.

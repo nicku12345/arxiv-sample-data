@@ -1,0 +1,1 @@
+Some descriptions of linked ideals in a commutative Notherian ring R are provided in terms of the Associated prime ideals of R. Then, among other things, we make some characterization of Cohen-Macaulay, Gorenstein and regular local rings in terms of their linked ideals.

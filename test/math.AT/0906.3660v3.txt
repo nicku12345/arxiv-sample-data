@@ -1,0 +1,1 @@
+We compute rho-invariant for iterated torus knots K for the standard representation of the knot group given by abelianisation. For algebraic knots, this invariant turns out to be very closely related to an invariant of a plane curve singularity, coming from algebraic geometry.

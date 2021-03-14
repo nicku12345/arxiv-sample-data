@@ -1,0 +1,1 @@
+In a paper from 1954 Marstrand proved that if K is a Borel subset of the plane with Hausdorff dimension greater than 1, then its one-dimensional projection has positive Lebesgue measure for almost-all directions. In this article, we give a new proof of this theorem, extending the techniques developed in a previous work.

@@ -1,0 +1,1 @@
+Filters were introduced by J.B. Wilson in 2013 to generalize work of Lazard with associated graded Lie rings. It holds promise in improving isomorphism tests, but the formulas introduced then were impractical for computation. Here, we provide an efficient algorithm for these formulas, and we demonstrate their usefulness on several examples of p-groups.

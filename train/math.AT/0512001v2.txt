@@ -1,0 +1,1 @@
+For any Coxeter group W, we define a filtration of H^*(W;ZW) by W-submodules and then compute the associated graded terms. More generally, if U is a CW complex on which W acts as a reflection group we compute the associated graded terms for H_*(U) and, in the case where the action is proper and cocompact, for H^*_c(U).

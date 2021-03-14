@@ -1,0 +1,1 @@
+Let q be a power of a prime p. We prove an assertion of Carlitz which takes q as parameter. Diaz-Vargas' proof of the Riemann Hypothesis for the Goss zeta function for F_p[T] depends on his verification of Carlitz's assertion for the specific case q = p. Our proof of the general case allows us to extend Diaz-Vargas' proof to F_q[T].

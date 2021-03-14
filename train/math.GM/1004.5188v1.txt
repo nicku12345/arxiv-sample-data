@@ -1,0 +1,1 @@
+In this short note, we have defined a new "nested square root" function which generates usual Pi number for x=2. We have given some useful identities and asymptotic formulas of the Pi-function.

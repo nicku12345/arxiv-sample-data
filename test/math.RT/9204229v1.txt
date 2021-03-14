@@ -1,0 +1,1 @@
+We introduce the notion of the automorphic dual of a matrix algebraic group defined over Q. This is the part of the unitary dual that corresponds to arithmetic spectrum. Basic functorial properties of this set are derived and used both to deduce arithmetic vanishing theorems of ``Ramanujan'' type as well as to give a new construction of automorphic forms.

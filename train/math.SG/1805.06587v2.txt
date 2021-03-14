@@ -1,0 +1,1 @@
+We prove that for any compact Lagrangian submanifold intersecting an open subset U in tame symplectic manifold (M,\omega), the Hofer displacement energy of L from U is positive, provided L \cap U \neq \emptyset. We also give an explicitlower bound in terms of an \epsilon-regularity type invariant for pseudo-holomorphic curves relative to L.

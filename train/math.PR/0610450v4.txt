@@ -1,0 +1,1 @@
+We give sharp, uniform estimates for the probability that a random walk of n steps on the reals avoids a half-line [y,infinity) given that it ends at the point x. The estimates hold for general continuous or lattice distributions provided the 4th moment is finite.

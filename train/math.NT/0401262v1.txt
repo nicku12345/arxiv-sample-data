@@ -1,0 +1,1 @@
+In this paper we give a very elementary proof that if A and B are subsets of {1,2,...,N}, each having at least 5N^{1 - (4(k-1))^{-1}} elements, then the sumset A+B has a k-term arithmetic progression.

@@ -1,0 +1,1 @@
+We construct, for every integer N\in\mathbb{N}^*, a structure whose Grothendieck ring is isomorphic to (\mathbb{Z}/N\mathbb{Z})[X], thus proving the existence of structures with a non-zero Grothendieck ring with non-zero characteristic. Namely, this structure consists of the bijection without cycles between a set and a complement of N points in this set.

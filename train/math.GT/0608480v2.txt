@@ -1,0 +1,1 @@
+The crosscap number of a knot in the 3-sphere is defined as the minimal first Betti number of non-orientable subsurfaces bounded by the knot. In this paper, we determine the crosscap numbers of pretzel knots. The key ingredient to obtain the result is the algorithm of enumerating all essential surfaces for Montesinos knots developed by Hatcher and Oertel.

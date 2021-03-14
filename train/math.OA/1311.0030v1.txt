@@ -1,0 +1,1 @@
+We prove that if M is a von Neumann algebra whose abelian summand is discrete, then every local derivation on the algebra of all measurable operators affilated with M is a derivation. This answers a question of Richard Kadison.

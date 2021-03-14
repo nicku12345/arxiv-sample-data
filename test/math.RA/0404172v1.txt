@@ -1,0 +1,1 @@
+In this paper, we study the zero set of the Hopf construction map F_n : A_n_ x A_n --> A_n x A_0 given by F_n (x, y) = (2xy, | y|^2 - |x|^2) for n >3 where A_n is the Cayley-Dickson algebra of dimension 2^n over the real numbers.

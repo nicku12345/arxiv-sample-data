@@ -1,0 +1,1 @@
+We show, using a Knapp-type homogeneity argument, that the (L^p, L^2) restriction theorem implies a growth condition on the hypersurface in question. We further use this result to show that the optimal (L^p, L^2) restriction theorem implies the sharp isotropic decay rate for the Fourier transform of the Lebesgue measure carried by compact convex finite hypersurfaces.

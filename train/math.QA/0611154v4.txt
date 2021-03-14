@@ -1,0 +1,1 @@
+We construct an analogue of the Livernet--Loday operad for two compatible brackets. The Livernet--Loday operad can be used to define \star-products and deformation quantization for Poisson structures. We make use of our operad in the same way, introducing a definition of (operadic) deformation quantization of compatible Poisson structures.

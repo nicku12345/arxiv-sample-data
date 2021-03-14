@@ -1,0 +1,1 @@
+A Z-set in a metric space X is a closed subset K of X such that each map of the Hilbert cube Q into X can uniformly be approximated by maps of Q into X \setminus K. The aim of the paper is to show that there exists a functor of extension of maps between Z-sets of Q [or l_2] to maps acting on the whole space Q [resp. l_2]. Special properties of the functor are proved.

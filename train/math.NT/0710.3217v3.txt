@@ -1,0 +1,1 @@
+For the sequence defined by a(n) = a(n-1) + gcd(n, a(n-1)) with a(1) = 7 we prove that a(n) - a(n-1) takes on only 1s and primes, making this recurrence a rare "naturally occurring" generator of primes. Toward a generalization of this result to an arbitrary initial condition, we also study the limiting behavior of a(n)/n and a transience property of the evolution.

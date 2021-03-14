@@ -1,0 +1,1 @@
+We define a collection of tensor product norms for C*-algebras and show that a symmetric tensor product functor on the category of separable C*-algebras need not be associative.

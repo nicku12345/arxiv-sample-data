@@ -1,0 +1,1 @@
+For each non-negative integer n, we define the n-th Nash blowup of an algebraic variety, and call them all higher Nash blowups. When n=1, it coincides with the classical Nash blowup. We study higher Nash blowups of curves in detail and prove that any curve in characteristic zero can be desingularized by its n-th Nash blowup with n large enough.

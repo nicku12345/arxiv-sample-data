@@ -1,0 +1,1 @@
+A symmetric encryption method based on properties of quasicrystals is proposed. The advantages of the cipher are strict aperiodicity and everywhere discontinuous property as well as the speed of computation, simplicity of implementation and a straightforward possibility of extending the method to encryption of higher dimensional data.

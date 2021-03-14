@@ -1,0 +1,1 @@
+For n>2, we prove the mod 2 cohomology of the finite Chevalley group Spin_n(F_q) is isomorphic to that of the classifying space of the loop group of the spin group Spin(n).

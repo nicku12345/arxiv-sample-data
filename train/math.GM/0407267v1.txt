@@ -1,0 +1,1 @@
+In this article we gave a recurrence to obtain the n-th prime number as function of the (n-1)-th prime number.

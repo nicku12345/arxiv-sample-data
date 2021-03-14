@@ -1,0 +1,1 @@
+Let M be a monoid. We construct a family of model structures on the category of M-spaces. The weak equivalences of these model categories are defined by using the universally assigned groups actions to M-spaces. We also present various ways of extending these model structures to the category of dynamical systems.

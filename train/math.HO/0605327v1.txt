@@ -1,0 +1,1 @@
+An informal discussion of Serre's conjecture on the modularity of odd irreducible representations of Gal(\bar Q|Q) into GL_2(\bar F_p), using Ramanujan's tau-function as an illustrative example. Also, a word about the importance of thinking locally.

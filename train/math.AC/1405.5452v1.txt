@@ -1,0 +1,1 @@
+Let \mathbb{K} be a field and S=\mathbb{K}[x_1,\dots,x_n] be the polynomial ring in n variables over the field \mathbb{K}. In this paper, it is shown that Stanley's conjecture holds for S/I, if I is a weakly polymatroidal ideal.

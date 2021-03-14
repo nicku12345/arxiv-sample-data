@@ -1,0 +1,1 @@
+In this paper, we mainly investigate the converse of a well-known theorem proved by P. Hall, and present detailed characterizations under the various assumptions of the existence of some families of Hall subgroups. In particular, we prove that if p\neq 3 and a finite group G has a Hall \{p,q\}-subgroup for every prime q\neq p, then G is p-soluble.

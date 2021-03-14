@@ -1,0 +1,1 @@
+We construct a set S such that every translate of S is a set of recurrence and a set of rigidity for a weak mixing measure preserving system. This construction generalizes or strengthens results of Katznelson, Saeki, Forrest, and Fayad and Kanigowski. The construction provides a density analogue of Julia Wolf's results on popular differences in finite abelian groups.

@@ -1,0 +1,1 @@
+In this paper, we present new concepts of Ann-categories, Ann-functors, and a transmission of the structure of categories based on Ann-equivalences. We build Ann-category of Pic-funtors and prove that each Ann-category can be faithfully embedded into an almost strictly Ann-category.

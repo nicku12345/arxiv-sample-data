@@ -1,0 +1,1 @@
+We derive joint factorial moment identities for point processes with Papangelou intensities. Our proof simplifies previous approaches to related moment identities and includes the setting of Poisson point processes. Applications are given to random transformations of point processes and to their distribution invariance properties.

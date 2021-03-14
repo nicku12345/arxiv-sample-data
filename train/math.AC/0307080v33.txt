@@ -1,0 +1,1 @@
+Let S be a polynomial ring over a field of characteristic zero in finitely may variables. Let T be an unramified, finitely generated extension of S with T^\times = k^\times. Then T = S.

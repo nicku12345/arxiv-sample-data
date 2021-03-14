@@ -1,0 +1,1 @@
+By a transfer principle Pascal's Theorem is equivalent to a theorem about point pairs on the real line. It appears that Pascal's Theorem is equivalent to the vanishing of a common invariant of six quadratic forms. Using the q-deformed invariant theory of \cite{L} we construct corresponding quantum invariants by a computer calculation.

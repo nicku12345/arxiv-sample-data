@@ -1,0 +1,1 @@
+In this paper, we attempt to determine the quantum cohomology of projective bundles over the projective space P^n. In contrast to the previous examples, the relevant moduli spaces in our case frequently do not have expected dimensions. It makes the calculation more difficult. We overcome this difficulty by using excessive intersection theory.

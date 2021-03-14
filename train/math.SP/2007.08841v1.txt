@@ -1,0 +1,1 @@
+For a given self-adjoint operator A with discrete spectrum, we completely characterize possible eigenvalues of its rank-one perturbations~B and discuss the inverse problem of reconstructing B from its spectrum.

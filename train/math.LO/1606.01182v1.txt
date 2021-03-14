@@ -1,0 +1,1 @@
+For G a group definable in an NIP theory we prove that there is a smallest type-definable subgroup H of G such that the quotient G/H is stable. This generalizes the existence of G^00, the smallest type-definable subgroup of G of bounded index.

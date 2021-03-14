@@ -1,0 +1,1 @@
+We prove that for harmonic quasiconformal mappings \alpha-H\"older continuity on the boundary implies \alpha-H\"older continuity of the map itself. Our result holds for the class of uniformly perfect bounded domains, in fact we can allow that a portion of the boundary is thin in the sense of capacity. The problem for general bounded domains remains open.

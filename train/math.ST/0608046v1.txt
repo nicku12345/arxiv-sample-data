@@ -1,0 +1,1 @@
+The purpose of this note is to show that in a widely cited paper by Yakir [Ann. Statist. 25 (1997) 2117--2126, doi:10.1214/aos/1069362390], the proof that the so-called modified Shiryayev--Roberts procedure is exactly optimal is incorrect. We also clarify the issues involved by both mathematical arguments and a simulation study. The correctness of the theorem remains in doubt.

@@ -1,0 +1,1 @@
+This note points out how confidence interval estimates for standard deviation transform into confidence interval estimates for the power of F-tests at fixed alternative means. An application is shown for the test of a two-sided hypothesis for the mean of a normal distribution.

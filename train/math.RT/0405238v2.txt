@@ -1,0 +1,1 @@
+Let G be a connected reductive linear algebraic group over a field k of characteristic p>0. Let p be large enough with respect to the root system. We show that if a finitely generated commutative k-algebra A with G-action has good filtration, then any noetherian A-module with compatible G-action has finite good filtration dimension.

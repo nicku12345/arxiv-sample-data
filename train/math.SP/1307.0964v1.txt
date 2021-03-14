@@ -1,0 +1,1 @@
+Let A = [a_{i j}]_{i,j=1}^n be a nonnegative matrix with a_{1 1} = 0. We prove some lower bounds for the spread s(A) of A that is defined as the maximum distance between any two eigenvalues of A. If A has only two distinct eigenvalues, then s(A) \ge \frac{n}{2(n-1)} \, r(A), where r(A) is the spectral radius of A. Moreover, this lower bound is the best possible.

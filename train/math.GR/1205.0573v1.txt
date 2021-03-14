@@ -1,0 +1,1 @@
+Let G be an arbitrary group. We show that if the Fitting subgroup of G is nilpotent then it is definable. We show also that the class of groups whose Fitting subgroup is nilpotent of class at most n is elementary. We give an example of a group (arbitrary saturated) whose Fitting subgroup is definable but not nilpotent. Similar results for the soluble radical are given.

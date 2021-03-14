@@ -1,0 +1,1 @@
+This work describes the number of restricted finite words in the alphabet A={a,b} required to identify an infinite word with some period n in the set of all infinite words in this alphabet given up to a shift. Also reviewed the case of multiletter alphabet.

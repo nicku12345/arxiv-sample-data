@@ -1,0 +1,1 @@
+An outer bound to the two-receiver discrete memoryless broadcast channel is presented. We compare it to the known outer bounds and show that the outer bound presented is at least as tight as the existing bounds.

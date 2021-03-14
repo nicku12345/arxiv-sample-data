@@ -1,0 +1,1 @@
+We determine sufficient conditions for the occurrence of a pointwise gradient estimate for the evolution operators associated to nonautonomous second order parabolic operators with (possibly) unbounded coefficients. Moreover we exhibit a class of operators which satisfy our conditions.

@@ -1,0 +1,1 @@
+In this manuscript we prove global existence and linear asymptotic behavior of small solutions to nonlinear wave equations. We assume that the quadratic part of the nonlinearity satisfies a non-resonant condition which is a generalization of the null condition given by Klainerman.

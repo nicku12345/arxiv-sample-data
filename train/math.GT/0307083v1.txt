@@ -1,0 +1,1 @@
+Let S be the boundary of a handlebody M. We prove that the set of curves in S that are boundaries of disks in M, considered as a subset of the complex of curves of S, is quasi-convex.

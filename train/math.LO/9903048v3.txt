@@ -1,0 +1,1 @@
+Using techniques developed in the revision theory of truth, I build a model for the set theory NF (New Foundations) developed by Quine in ZF, therefore proving its consistency relative to ZF. The model is essentially a term model; the sets of NF are interpreted as equivalence classes of closed stratified terms of a language that is a slight modification of that of NF.

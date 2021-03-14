@@ -1,0 +1,1 @@
+A solution to the reflection equation associated to a coideal subalgebra of U_q(A_{2n-1}^{(1)}) of type AII in the symmetric tensor representations is presented. If parameters of the coideal subalgebra are suitably chosen, the K matrix does not depend on the quantum parameter q and still agrees with a solution in arXiv:nlin/0411044 at q=0.

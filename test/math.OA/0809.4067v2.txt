@@ -1,0 +1,1 @@
+We construct a covariant functor from the topological torus bundles to the so-called Cuntz-Krieger algebras; the functor maps homeomorphic bundles into the stably isomorphic Cuntz-Krieger algebras. It is shown, that the K-theory of the Cuntz-Krieger algebra encodes torsion of the first homology group of the bundle. We illustrate the result by examples.

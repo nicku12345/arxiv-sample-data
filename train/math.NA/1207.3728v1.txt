@@ -1,0 +1,1 @@
+We give a new fast method for evaluating sprectral approximations of nonlinear polynomial functionals. We prove that the new algorithm is convergent if the functions considered are smooth enough, under a general assumption on the spectral eigenfunctions that turns out to be satisfied in many cases, including the Fourier and Hermite basis.

@@ -1,0 +1,1 @@
+We show that a zero-dimensional chain transitive dynamical system can be embedded into a densely uniformly chaotic system, with dense uniformly chaotic set K. We concretely construct a Mycielski set K that is also invariant. Furthermore, every point in K is positively and negatively transitive. The uniform proximality and recurrence of K are also bidirectional.

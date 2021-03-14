@@ -1,0 +1,1 @@
+We study model-theoretic stability and independence in Banach lattices of the form L_p(X,U,\mu), where 1 \leq p < \infty. We characterize non-dividing using concepts from analysis and show that canonical bases exist as tuples of real elements.

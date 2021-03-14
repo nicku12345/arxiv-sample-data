@@ -1,0 +1,1 @@
+In this paper, we present a stability criterion for Processor Sharing queues, in which the throughput may depend on the number of customers in the system (in such cases such as interferences between the users). Such a system is represented by a point measure-valued stochastic recursion keeping track of the remaining processing times of the customers.

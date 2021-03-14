@@ -1,0 +1,1 @@
+Let P_nk(x) denote the sum of the lowest k+1 terms in the expansion of (1+x)^n. We investigate the irreducibility of P_nk(x) and more general univariate polynomials related to it. Polynomials P_nk(x) naturally arise in Schubert calculus, see ArXiv e-print math.RT/0409329 by I.Scherbak.

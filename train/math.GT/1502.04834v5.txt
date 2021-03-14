@@ -1,0 +1,1 @@
+We introduce a coarse flow space for relatively hyperbolic groups and use it to verify a regularity condition for the action of relatively hyperbolic groups on their boundaries. As an application the Farrell-Jones Conjecture for relatively hyperbolic groups can be reduced to the peripheral subgroups (up to index 2 overgroups in the L-theory case).

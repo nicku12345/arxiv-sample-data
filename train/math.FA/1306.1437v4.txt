@@ -1,0 +1,1 @@
+In this paper we proof that every Fourier multiplier on homogeneous sobolev space \dot{W}_1^1(\mathbb{R}^d) is a continuous function. Our theorem is generalization of A. Bonami and S. Poornima result for Fourier multipliers, which are homogeneous functions of degree zero.

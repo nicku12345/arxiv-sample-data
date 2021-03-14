@@ -1,0 +1,1 @@
+It is shown that for any finitely generated subgroups H and K of a free group F, and for any element g in F the double coset HgK is closed in the profinite topology of F.

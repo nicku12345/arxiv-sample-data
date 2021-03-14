@@ -1,0 +1,1 @@
+We study the controllability of the multidimensional wave equation in a bounded domain with Dirichlet boundary condition, in which the support of the control is allowed to change over time. The exact controllability is reduced to the proof of the observability inequality, which is proven by a multiplier method. Besides our main results, we present some applications.

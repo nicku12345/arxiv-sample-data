@@ -1,0 +1,1 @@
+Let m be the least cardinal k such that MA(k) fails. The only known model for "m is singular" was constructed by Kunen. In Kunen's model cof(m)=omega_1. It is unknown whether "omega_1 < cof(m) < m" is consistent. The purpose of this paper is to present a proof of Kunen's result and to identify the difficulties of generalizing this result to an arbitrary uncountable cofinality.

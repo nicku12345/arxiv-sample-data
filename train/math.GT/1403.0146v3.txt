@@ -1,0 +1,1 @@
+P. Arnoux and A. Marin showed that any triangulation of \mathbb{RP}^n contains more than \frac{(n+1)(n+2)}{2} vertices if n \geq 3. We construct some natural triangulation of \mathbb{RP}^n with \frac{n(n+5)}{2}-1 vertices for all n \geq 3. Previously, it was known that \mathbb{RP}^n has \mathbb{Z}_2^n-equivariant triangulation with n(n+1) vertices for n \geq 6.

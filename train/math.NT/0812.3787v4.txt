@@ -1,0 +1,1 @@
+Let L/k be a finite Galois extension of number fields with Galois group G. For every odd prime p satisfying certain mild technical hypotheses, we use values of Artin L-functions to construct an element in the centre of the group ring Z_(p)[G] that annihilates the p-part of the class group of L.

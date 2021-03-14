@@ -1,0 +1,1 @@
+For two bounded domains in the complex plane whose semigroups of analytic endomorphisms are isomorphic, Eremenko proved in 1993 that the isomorphism is given as a conjugation by a conformal or anticonformal map. In the present paper we prove an analogue of this result for the case of bounded domains in \mathbb C^n.

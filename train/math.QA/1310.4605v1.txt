@@ -1,0 +1,1 @@
+It is noted that the higher version of M. Kontsevich's Formality Theorem is much easier than the original one. Namely, we prove that the higher Hochschild-Kostant-Rosenberg map is already a homotopy e_{n+1}-formality quasi-isomorphism whenever n is at least 2.

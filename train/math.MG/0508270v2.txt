@@ -1,0 +1,1 @@
+It is shown that the path of a simple random walk on any graph, consisting of all vertices visited and edges crossed by the walk, is almost surely a recurrent subgraph.

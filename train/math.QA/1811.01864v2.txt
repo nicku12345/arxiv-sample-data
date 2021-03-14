@@ -1,0 +1,1 @@
+Let \mathrm G be a connected semi-simple compact Lie group and for 0<q<1, let (\mathbb{C}[\mathrm{G]_q}],\Delta_q) be the Jimbo-Drinfeld q-deformation of \mathrm G. We show that the C^*-completions of \mathrm{C}[\mathrm{G]_q} are isomorphic for all values of q. Moreover, these isomorphisms are equivariant with respect to the right-action of the maximal torus.

@@ -1,0 +1,1 @@
+The additivity theorem for derivateurs associated to complicial biWaldhausen categories is proved. Also, to any exact category in the sense of Quillen a K-theory space is associated. This K-theory is shown to satisfy the additivity, approximation and resolution theorems.

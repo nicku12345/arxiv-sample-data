@@ -1,0 +1,1 @@
+In this paper we give a complete invariant of the action of GL_n(F)\times GL_m(F) acting on the Euclidean building B[GL_n(F)], where F is a non-archimedian field. We then use this invariant to give a natural metric on the resulting quotient space. In the special case of the torus acting on B[GL_2(F)] this gives a method of calculating of any vertex to any fixed apartment.

@@ -1,0 +1,1 @@
+We prove in the context of quantum groups at even roots of unity that a Turaev-Viro type invariant of a 3-dimensional cobordism M equals the tensor product of the Reshetikhin-Turaev invariants of M and M*, where M* denotes M with orientation reversed.

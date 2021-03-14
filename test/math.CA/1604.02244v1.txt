@@ -1,0 +1,1 @@
+A sufficient condition for the two-weight boundedness of higher order commutators was recently obtained by Holmes and Wick in terms of an intersection of two BMO spaces. We provide an alternative proof, showing that the higher order case can be deduced by a classical Cauchy integral argument from the corresponding first order result of Holmes, Lacey and Wick.

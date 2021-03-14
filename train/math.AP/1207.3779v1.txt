@@ -1,0 +1,1 @@
+We consider the stationary incompressible Navier Stokes equation in the exterior of a disk B with non-zero Dirichlet boundary conditions on the disk and zero boundary conditions at infinity. We prove the existence of solutions for an open set of boundary conditions without symmetry.

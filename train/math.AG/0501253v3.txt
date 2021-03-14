@@ -1,0 +1,1 @@
+We generalize Griffiths' theorem on the Hodge filtration of the primitive cohomology of a smooth projective hypersurface, using the local Bernstein-Sato polynomials, the V-filtration of Kashiwara and Malgrange along the hypersurface and the Brieskorn module of the global defining equation of the hypersurface.

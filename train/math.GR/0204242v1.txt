@@ -1,0 +1,1 @@
+We determine the epimorphisms A \to W from the Artin group A of type \Gamma onto the Coxeter group W of type \Gamma, in case \Gamma is an irreducible Coxeter graph of spherical type, and we prove that the kernel of the standard epimorphism is a characteristic subgroup of A. This generalizes an over 50 years old result of Artin.

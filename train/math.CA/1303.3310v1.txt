@@ -1,0 +1,1 @@
+We consider the one-dimensional John-Nirenberg inequality:  |\{x\in I_0:|f(x)-f_{I_0}|>\a\}|\le C_1|I_0|\exp\Big(-\frac{C_2}{\|f\|_{*}}\a\Big).  A. Korenovskii found that the sharp C_2 here is C_2=2/e. It is shown in this paper that if C_2=2/e, then the best possible C_1 is C_1= \frac{1}{2}e^{4/e}.

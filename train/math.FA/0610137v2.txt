@@ -1,0 +1,1 @@
+Let \cal A be a Banach algebra. We study those closed ideals I of \cal A for which the first cohomology group of \cal A with coefficients in I^* is trivial; i.e. H^1(\cal A,I^*)=\{0\}. We investigate such closed ideals when \cal A is weakly amenable or biflat. Also we give some hereditary properties of ideal amenability.

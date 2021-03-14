@@ -1,0 +1,1 @@
+In this article we prove that every entire curve in the complement of a generic hypersurface of degree d\geq 586 in \mathbb{P}_{\mathbb{C}}^{3} is algebraically degenerate i.e there exists a proper subvariety which contains the entire curve.

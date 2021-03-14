@@ -1,0 +1,1 @@
+We consider a certain linear recursive relation with integer parameters and study some of its algebraic and geometric properties, with the purpose of estimating the number of chains of valences in the Farey series.

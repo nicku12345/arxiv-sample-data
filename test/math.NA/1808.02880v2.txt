@@ -1,0 +1,1 @@
+We consider the n\times n Hankel matrix H whose entries are defined by H_{ij}=1/s_{i+j} where s_k=(k-1)! and prove that H is invertible for all n\in\mathbb{N} by providing an explicit formula for its inverse matrix.

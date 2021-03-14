@@ -1,0 +1,1 @@
+This paper shows that for a given irreducible representation \rho of \Gamma/\Gamma_1, the two functions dim(M_k(\Gamma_1,\rho)) and dim(S_k(\Gamma_1,\rho)) of k are almost linear functions.

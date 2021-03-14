@@ -1,0 +1,1 @@
+We investigate the mapping class groups of a class of non-Hausdorff topological spaces which includes finite spaces. We show that the mapping class group of a finite space is isomorphic to the homeomorphism group of its T_0 quotient. As a corollary, we show that every finite group is the mapping class group of some finite, T_0 space.

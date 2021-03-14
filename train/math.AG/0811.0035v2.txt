@@ -1,0 +1,1 @@
+Let X be a smooth projective Deligne-Mumford stack over an algebraically closed field k of characteristic 0. In this paper we construct the moduli stack of very twisted stable maps, extending the notion of twisted stable maps by Abramovich and Vistoli to allow for generic stabilizers on the source curves. We also consider the Gromov-Witten theory given by this construction.

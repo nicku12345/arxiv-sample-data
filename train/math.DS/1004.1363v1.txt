@@ -1,0 +1,1 @@
+Theorem 2 of A. Kercheval, "Denjoy minimal sets are far from affine", Ergodic Theory and Dynamical Systems 22 (2002), 1803-1812 is corrected by adding a C^2 bound to the hypotheses.

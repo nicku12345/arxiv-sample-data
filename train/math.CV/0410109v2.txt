@@ -1,0 +1,1 @@
+We introduce the notion of "virtual Bergman kernel" and apply it to the computation of the Bergman kernel of "domains inflated by Hermitian balls", in particular when the base domain is a bounded symmetric domain.

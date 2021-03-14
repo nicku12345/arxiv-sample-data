@@ -1,0 +1,1 @@
+In the paper we prove the conjecture by Alexander Zupan that w(K) \geqslant n^2w(J) where w denote the width and K and J are satellite knot and its companion with winding number n. Also we proved that for satellite knot with braid pattern, the equality holds.

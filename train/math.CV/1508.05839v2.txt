@@ -1,0 +1,1 @@
+Let f be analytic in D={z:|z|<1} with f(0)=0 and f'(0)=1. We give sharp bounds for the second Hankel determinant of f, when f is starlike of order alpha in D.

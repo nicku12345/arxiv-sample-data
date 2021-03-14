@@ -1,0 +1,1 @@
+Functorial semi-norms on singular homology give refined "size" information on singular homology classes. A fundamental example is the l^1-semi-norm. We show that there exist finite functorial semi-norms on singular homology that are exotic in the sense that they are not carried by the l^1-semi-norm.

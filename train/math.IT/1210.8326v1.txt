@@ -1,0 +1,1 @@
+A novel general ready-to-use bit-error rate (BER) expression for one-dimensional constellations is developed. The BER analysis is performed for bit patterns that form a labeling. The number of patterns for equally spaced M-PAM constellations with different BER is analyzed.

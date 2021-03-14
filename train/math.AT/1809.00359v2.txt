@@ -1,0 +1,1 @@
+We describe an E_k-cell structure on the free E_{k+1}-algebra on a point, and more generally describe how the May-Milgram filtration of \Omega^m \Sigma^m S^{k} lifts to a filtration of the free E_{k+m}-algebra on a point by iterated pushouts of free E_k-algebras.

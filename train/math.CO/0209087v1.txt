@@ -1,0 +1,1 @@
+We show that for c >= 2.4682, a random graph on n vertices with c n (1+o(1)) edges almost surely has no 3-colouring. This improves on the current best upper bound of 2.4947.

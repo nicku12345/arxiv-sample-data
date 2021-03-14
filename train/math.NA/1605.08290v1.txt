@@ -1,0 +1,1 @@
+In this paper, we propose a Bregman frame for several classical alternating minimization algorithms. In the frame, these algorithms have uniform mathematical formulation. We also present convergence analysis for the frame algorithm. Under the Kurdyka-Lojasiewicz property, stronger convergence is obtained.

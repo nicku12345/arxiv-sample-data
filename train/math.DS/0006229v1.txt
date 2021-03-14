@@ -1,0 +1,1 @@
+We deal with a Newtonian system like x'' + V'(x) = 0. We suppose that V: \R^n \to \R possesses an (n-1)-dimensional compact manifold M of critical points, and we prove the existence of arbitrarity slow periodic orbits. When the period tends to infinity these orbits, rescaled in time, converge to some closed geodesics on M.

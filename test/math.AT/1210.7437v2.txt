@@ -1,0 +1,1 @@
+The E_2 term of the Adams spectral sequence may be identified with certain derived functors, and this also holds for a number of other spectral sequences. Our goal is to show how the higher terms of such spectral sequences are determined by truncations of relative derived functors, defined in terms of certain simplicial functors called mapping algebras

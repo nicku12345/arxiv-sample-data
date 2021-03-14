@@ -1,0 +1,1 @@
+The work is devoted to the extension groups in the category of functors from a small category to an additive category with an Abelian structure in the sense of Heller. It is constructed a spectral sequence which converges to the extension group. Example for diagrams of locally convex spaces is given.

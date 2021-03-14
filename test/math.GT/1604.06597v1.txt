@@ -1,0 +1,1 @@
+We construct a map from knots to (abstract) 2-knots which can be extended to higher dimensions; this map is the natural "knot" counterpart for "braid" theory of groups G_{n}^{k}.

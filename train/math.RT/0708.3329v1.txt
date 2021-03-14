@@ -1,0 +1,1 @@
+We explain how, under some hypotheses, one can construct a sequence of finite dimensional kG-modules that lie in certain prescribed additive subcategories, but whose direct limits do not. We use these to show that many of the triangulated quotients of \Mod are not generated, as triangulated categories, by the corresponding quotient of \mod considered as a full subcategory.

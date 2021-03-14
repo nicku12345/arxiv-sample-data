@@ -1,0 +1,1 @@
+We study so{\`u}e infinite-horizon optimization problems on spaces of periodic functions for non periodic Lagrangians. The main strategy relies on the reduction to finite horizon thanks in the introduction of an avering operator.We then provide existence results and necessary optimality conditions in which the corresponding averaged Lagrangian appears.

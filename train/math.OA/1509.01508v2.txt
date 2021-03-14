@@ -1,0 +1,1 @@
+We show that if X is a finite dimensional locally compact Hausdorff space, then the crossed product of C_0(X) by any automorphism has finite nuclear dimension. This generalizes previous results, in which the automorphism was required to be free. As an application, we show that group C*-algebras of certain non-nilpotent groups have finite nuclear dimension.

@@ -1,0 +1,1 @@
+We show that the simple modules of the Rouquier blocks of symmetric groups, in characteristic p and having p-weight w with w < p, have a common complexity w, and that when p is odd, D^{(p+1,1^{p-1})} has complexity 1, while the other simple modules labelled by a partition having p-weight 2 have complexity 2.

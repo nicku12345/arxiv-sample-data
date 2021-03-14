@@ -1,0 +1,1 @@
+Using Buchberger-Shirshov Algorithm and Composition-Diamond lemma we obtain the reduced Grobner-Shirshov bases of \widetilde{A_n} and classify all reduced words of the affine Weyl group \widetilde{A_n}.

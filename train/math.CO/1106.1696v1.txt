@@ -1,0 +1,1 @@
+We propose a new definition for the semidirect product of association schemes, generalizing work of Bang, Hirasaka, and Song. We define an action of one scheme on another, and show how one can use such an action to construct all semidirect products satisfying a certain technical condition.

@@ -1,0 +1,1 @@
+This paper explores the problem of unknotting closed braids and classical knots in mathematical knot theory. We apply evolutionary computation methods to learn sequences of moves that simplify knot diagrams, and show that this can be effective both when the evolution is carried out for individual knots and when a generic sequence of moves is evolved for a set of knots.

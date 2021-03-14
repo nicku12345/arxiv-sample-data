@@ -1,0 +1,1 @@
+We provide a new, simpler, and more direct proof of the well known fact that for autonomous optimal control problems the Pontryagin extremals evolve on a level surface of the respective Pontryagin Hamiltonian.

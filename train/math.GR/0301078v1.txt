@@ -1,0 +1,1 @@
+For odd primes we prove some structure theorems for finite p-groups G, such that G''\neq 1 and |G'/G''|=p^3. Building on results of Blackburn and Hall, it is shown that \lcs G3 is a maximal subgroup of G', the group G has a central decomposition into two simpler subgroups, and, moreover, G' has one of two isomorphism types.

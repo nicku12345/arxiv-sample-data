@@ -1,0 +1,1 @@
+Let f and g be two elliptic elements in \mathbf{PU}(2,1) of order m and n respectively, where m\geq n>2. We prove that if the distance \delta(f,g) between the complex lines or points fixed by f and g is large than a certain number, then the group < f, g > is discrete nonelementary and isomorphic to the free product \mathbf{Z}_{m}*\mathbf{Z}_{n}.

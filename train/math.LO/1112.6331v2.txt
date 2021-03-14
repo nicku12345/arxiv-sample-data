@@ -1,0 +1,1 @@
+We develop a bottom-up approach to truth-value semantics for classical logic of partial terms based on equality and apply it to prove the conservativity of the addition of partial description and partial selection functions, independently of any strictness assumption.

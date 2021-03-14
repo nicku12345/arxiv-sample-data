@@ -1,0 +1,1 @@
+A valuated group with normal forms is a group with an integer-valued length function satisfying some Lyndon's axioms and an additional axiom considered by Hurley. We prove a subgroup theorem for valuated groups with normal forms analogous to Grushko-Neumann's theorem. We study also the CSA property in such groups.

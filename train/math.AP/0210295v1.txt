@@ -1,0 +1,1 @@
+We construct non-localized, real global solutions of the Kadomtsev-Petviashvili-I equation which vanish for x\to-\infty and study their large time asymptotic behavior. We prove that such solutions eject (for t\to\infty) a train of curved asymptotic solitons which move behind the basic wave packet.

@@ -1,0 +1,1 @@
+Given a definable function f, enough differentiable, we study the continuity of the total curvature function t --> K(t), total curvature of the level {f=t}, and the total absolute curvature function t-->|K| (t), total absolute curvature of the level {f=t}. We show they admits at most finitely many discontinuities.

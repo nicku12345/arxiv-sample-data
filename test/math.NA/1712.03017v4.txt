@@ -1,0 +1,1 @@
+In our work, we consider the classical density-based approach to the topology optimization. We propose to modify the discretized cost functional using a posteriori error estimator for the finite element method. It can be regarded as a new technique to prevent checkerboards. It also provides higher regularity of solutions and robustness of results.

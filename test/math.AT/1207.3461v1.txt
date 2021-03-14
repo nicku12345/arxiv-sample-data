@@ -1,0 +1,1 @@
+We study differential graded algebras whose homology is an exterior algebra over a commutative ring R on a generator of degree n, and also certain types of differential modules over these DGAs. We obtain a complete classification when R is the integers, or the prime field of characteristic p>0, and n is greater than or equal to -1. The examples are unexpectedly interesting.

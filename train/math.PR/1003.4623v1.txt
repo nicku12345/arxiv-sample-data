@@ -1,0 +1,1 @@
+The main purpose of this paper is to show that Markov solutions to the 3D Navier--Stokes equations driven by Gaussian noise have the strong Feller property up to the critical topology given by the domain of the Stokes operator to the power one-fourth.

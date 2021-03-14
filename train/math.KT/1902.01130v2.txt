@@ -1,0 +1,1 @@
+We study the cancellation property of projective modules of rank 2 with a trivial determinant over Noetherian rings of dimension \leq 4. If R is a smooth affine algebra of dimension 4 over an algebraically closed field k such that 6 \in k^{\times}, then we prove that stably free R-modules of rank 2 are free if and only if a Hermitian K-theory group \tilde{V}_{SL} (R) is trivial.

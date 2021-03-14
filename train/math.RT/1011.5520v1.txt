@@ -1,0 +1,1 @@
+Let Q be a finite quiver without oriented cycles and k an algebraically closed field.In this paper we establish a connection between cluster algebras and the representation theory of the path algebra kQ, in terms of the spectral properties of the quivers mutation equivalent to Q.

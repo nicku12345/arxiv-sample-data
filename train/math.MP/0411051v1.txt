@@ -1,0 +1,1 @@
+We consider a system of partial differential equations, of interest to plasma physics, and provide all its Lie point symmetries, with their respective invariant solutions. We also discuss some of its conditional and partial symmetries. We finally show that, although the system can be cast in divergence form and admits conserved currents, it does not admit potential symmetries.

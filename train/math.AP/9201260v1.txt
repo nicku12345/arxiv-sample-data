@@ -1,0 +1,1 @@
+Certain second-order partial differential operators, which are expressed as sums of squares of real-analytic vector fields in \Bbb R^3 and which are well known to be C^\infty hypoelliptic, fail to be analytic hypoelliptic.

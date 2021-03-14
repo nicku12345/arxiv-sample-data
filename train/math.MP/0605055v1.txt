@@ -1,0 +1,1 @@
+We construct the family of bilinear forms gG on R3+1 for which Galilea boosts and spatial rotations are isometries. The key feature of these bilinear forms is that they are parametrized by a Galilea invariant vector whose physical interpretation is rather unclear. At the end of the paper, we construct the Poisson bracket associated to the (nondegenerate) antisymmetric part of gG.

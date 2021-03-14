@@ -1,0 +1,1 @@
+We show that the counting sequence for permutations avoiding both of the (classical) patterns 1243 and 2134 has the algebraic generating function supplied by Vaclav Kotesovec for sequence A164651 in The On-Line Encyclopedia of Integer Sequences.

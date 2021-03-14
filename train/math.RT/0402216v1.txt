@@ -1,0 +1,1 @@
+For any positive integer N, we describe a natural complex representation of the symmetric group \Sigma_N on the vector space spanned by its involutions that contains each irreducible representation exactly once.

@@ -1,0 +1,1 @@
+Given a Leibniz algebra L with left center Z, we work on C(L,Z,S(Z)), the Z-standard complex of L with coefficients in S(Z). We construct the derived bracket for a fat Leibniz algebra in terms of a certain 3-cocycle and a Poisson algebra structure on the space of so-called "representable cochains".

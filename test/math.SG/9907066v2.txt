@@ -1,0 +1,1 @@
+In two previous papers with Yi-Jen Lee, we defined and computed a notion of Reidemeister torsion for the Morse theory of closed 1-forms on a finite dimensional manifold. The present paper gives an a priori proof that this Morse theory invariant is a topological invariant. It is hoped that this will provide a model for possible generalizations to Floer theory.

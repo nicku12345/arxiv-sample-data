@@ -1,0 +1,1 @@
+We show that the partial transposes of complex Wishart random matrices are asymptotically free. We also investigate regimes where the number of blocks is fixed but the size of the blocks increases. This gives a example where the partial transpose produces freeness at the operator level. Finally we investigate the case of real Wishart matrices.

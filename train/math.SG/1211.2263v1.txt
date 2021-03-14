@@ -1,0 +1,1 @@
+We define hom-Lie algebroids, a definition that may seem cumbersome at first, but which is justified, first, by a one-to-one corespondence with hom-Gerstenhaber algebras, a notion that we also introduce, and several examples, including hom-Poisson structures.

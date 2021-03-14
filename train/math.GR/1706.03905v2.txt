@@ -1,0 +1,1 @@
+We use a recent result of Alexander and Nishinaka to show that if G is a non-elementary torsion-free hyperbolic group and R is a countable domain, then the group ring RG is primitive. This implies that the group ring KG of any non-elementary torsion-free hyperbolic group G over a field K is primitive.

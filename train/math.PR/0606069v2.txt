@@ -1,0 +1,1 @@
+We introduce the notion of {\em covariance measure structure} for square integrable stochastic processes. We define Wiener integral, we develop a suitable formalism for stochastic calculus of variations and we make Gaussian assumptions only when necessary. Our main examples are finite quadratric variation processes with stationary increments and the bifractional Brownian motion.

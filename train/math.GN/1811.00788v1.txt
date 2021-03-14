@@ -1,0 +1,1 @@
+For a Hausdorff space X we denote be 2^X the family of all closed subsets of X. In this paper we continue to research relationships between closure -type properties of hyperspaces over a space X and covering properties of X. We investigate selectors for sequence of subsets of the space 2^{X} with the Z^{+}-topology and the upper Fell topology.

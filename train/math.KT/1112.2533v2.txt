@@ -1,0 +1,1 @@
+We discuss the axioms for an n-angulated category, recently introduced by Geiss, Keller and Oppermann. In particular, we introduce a higher octahedral axiom, and show that it is equivalent to the mapping cone axiom for an n-angulated category. For a triangulated category, the mapping cone axiom, our octahedral axiom and the classical octahedral axiom are all equivalent.

@@ -1,0 +1,1 @@
+For M_r = #_r(S^p \times S^p), p=3, 7, we calculate the group of isotopy classes of orientation preserving diffeomorphisms of M_r modulo isotopy classes with representatives which are the identity outside a 2p-disc and also the group of homotopy classes of orientation preserving homotopy equivalences of M_r.

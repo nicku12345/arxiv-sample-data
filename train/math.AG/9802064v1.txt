@@ -1,0 +1,1 @@
+We show that for a polynomial mapping F = (f_1,...,f_m): C^n \to C^m the Lojasiewicz exponent at infinity of F is attained on the set {z \in C^n : f_1(z)...f_m(z) = 0}

@@ -1,0 +1,1 @@
+An algorithm for determining the list of smallest volume right-angled hyperbolic polyhedra in dimension 3 is described. This algorithm has been implemented on computer using the program Orb to compute volumes, and the first 825 polyhedra in the list have been determined.

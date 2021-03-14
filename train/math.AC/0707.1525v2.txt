@@ -1,0 +1,1 @@
+Let R be a commutative ring and let Spec(R) denote the collection of prime ideals of R. We define a topology on Spec(R) by using ultrafilters and demonstrate that this topology is identical to the well known patch or constructible topology. The proof is accomplished by use of a von Neumann regular ring canonically associated with R.

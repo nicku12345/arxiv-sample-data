@@ -1,0 +1,1 @@
+In this paper we look at the knot complement problem for L-space \mathbb{Z}-homology spheres. We show that an L-space \mathbb{Z}-homology sphere Y cannot be obtained as a non-trivial surgery along a knot K\subset Y. As a consequence, we prove that knots in an L-space \mathbb{Z}-homology sphere are determined by their complements.

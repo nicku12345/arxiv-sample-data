@@ -1,0 +1,1 @@
+To a pair of subspaces wandering with respect to a row isometry we associate a transfer function which in general is multi-Toeplitz and in interesting special cases is multi-analytic. Then we describe in an expository way how characteristic functions from operator theory as well as transfer functions from noncommutative Markov chains fit into this scheme.

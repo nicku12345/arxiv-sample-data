@@ -1,0 +1,1 @@
+We show that, if f is an outer function and a\in[0,1), then the set of functions \{\log |(f\circ\psi)^*|: \psi:\mathcal{D}\to\mathcal{D} \text{ holomorphic}, |\psi(0)|\le a\} is uniformly integrable on the unit circle. As an application, we derive a simple proof of the fact that, if f is outer and \phi:\mathcal{D}\to\mathcal{D} is holomorphic, then f\circ\phi is outer.

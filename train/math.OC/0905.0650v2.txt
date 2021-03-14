@@ -1,0 +1,1 @@
+We report conditions on a switching signal that guarantee that solutions of a switched linear systems converge asymptotically to zero. These conditions are apply to continuous, discrete-time and hybrid switched linear systems, both those having stable subsystems and mixtures of stable and unstable subsystems.

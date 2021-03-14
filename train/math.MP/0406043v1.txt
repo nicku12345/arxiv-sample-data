@@ -1,0 +1,1 @@
+Discrete time evolution of one-dimensional maps is embedded in continuous time by truncating the Taylor series expansion of the time evolution operator to a finite order N. Truncations with N > 4 leads to unconditional instability. Generalization of the truncated models with N = 3 and 4 shows dynamical behaviour characteristic of systems with a riddled parameter space.

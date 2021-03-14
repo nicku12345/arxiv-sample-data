@@ -1,0 +1,1 @@
+We continue previous work on Voiculescu's topological free entropy dimension {\delta}_{top}. We introduce the notions of MF-trace, MF-ideal, and MF-nuclearity and use these concepts to obtain upper and lower bounds for {\delta}_{top}, and in many cases we obtain an exact formula for {\delta}_{top}. We also discuss semicontinuity properties of {\delta}_{top}.

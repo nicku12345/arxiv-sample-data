@@ -1,0 +1,1 @@
+Expansions of abelian categories are introduced. These are certain functors between abelian categories and provide a tool for induction/reduction arguments. Expansions arise naturally in the study of coherent sheaves on weighted projective lines; this is illustrated by various applications.

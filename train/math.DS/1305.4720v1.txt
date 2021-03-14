@@ -1,0 +1,1 @@
+We study subshift that arise by excluding words of length two from Dyck shifts. The words that are to be excluded are taken from a finite set that is not literal-uniform.

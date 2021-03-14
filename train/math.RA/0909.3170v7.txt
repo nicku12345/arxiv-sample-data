@@ -1,0 +1,1 @@
+In 2002 F. Wirth has proved that the joint spectral radius of irreducible compact sets of matrices is locally Lipschitz continuous as a function of the matrix set. In the paper, an explicit formula for the related Lipschitz constant is obtained.

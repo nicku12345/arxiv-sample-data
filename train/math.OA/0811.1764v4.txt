@@ -1,0 +1,1 @@
+We prove that given any compact group G, there exists a minimal action of G on a II_1 factor M such that the bimodule category of the fixed-point II_1 factor M^G is naturally equivalent with the representation category of G. In particular, all subfactors of M^G with finite Jones index can be described explicitly.

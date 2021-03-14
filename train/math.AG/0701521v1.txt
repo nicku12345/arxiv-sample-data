@@ -1,0 +1,1 @@
+We prove a criterion of nonsingularity of a complete intersection of two fiberwise quadrics in a scroll over P^1. As a corollary we derive the following addition to the Alexeev theorem on rationality of standard Del Pezzo fibrations of degree 4 over P^1: we prove that any fibration of this kind with the topological Euler characteristic -4 is rational.

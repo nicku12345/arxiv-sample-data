@@ -1,0 +1,1 @@
+For a function f\in L^p(\Bbb R^d), d\ge 2, let A_t f(x) be the mean of f over the sphere of radius t centered at x. Given a set E\subset (0,\infty) of dilations we prove endpoint bounds for the maximal operator M_E defined by M_E f(x)=\sup_{t\in E} |A_t f(x)|.

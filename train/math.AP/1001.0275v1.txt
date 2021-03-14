@@ -1,0 +1,1 @@
+The aim of this work is to study the first order Dirac-Sobolev spaces in L^p norm on an open subset of {\mathbb R}^3 to clarify its relationship with the corresponding Sobolev spaces. It is shown that for 1< p <\infty, they coincide, while for p=1, the latter spaces are proper subspaces of the former.

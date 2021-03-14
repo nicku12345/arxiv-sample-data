@@ -1,0 +1,1 @@
+By making use of only simple facts about congruence, we first show that every even Markoff number is congruent to 2 modulo 32, and then, generalizing an earlier result of Baragar, establish the uniqueness for those Markoff numbers c where one of 3c - 2 and 3c + 2 is a prime power, 4 times a prime power, or 8 times a prime power.

@@ -1,0 +1,1 @@
+It is shown that the spectral radius is continuous on a C^*-algebra if and only if the C^*-algebra is type I. This answers a question of V. Shulman and Yu.~Turovskii [10]. It is shown also that the closure of nilpotents in a C^*-algebra contains an element with non-zero spectrum if and only if the C^*-algebra is not type I.

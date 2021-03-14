@@ -1,0 +1,1 @@
+In this paper using the concept of the extended Hamming code we give a construction for dense packing of points at distance at least one in such unit cubes which dimension are a power of two.

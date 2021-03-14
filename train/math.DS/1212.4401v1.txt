@@ -1,0 +1,1 @@
+We provide a computation of the cohomology of the Pinwheel tiling using the Anderson-Putnam complex. A border forcing version of the Pinwheel tiling is constructed that allows an explicit construction of the complex for the quotient of the continuous hull by the circle. The final result is given using a spectral sequence argument of Barge, Diamond, Hunton, and Sadun.

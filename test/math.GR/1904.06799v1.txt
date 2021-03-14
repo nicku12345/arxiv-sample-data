@@ -1,0 +1,1 @@
+We investigate the virtual specialness of a compact cube complex X that splits as a graph of nonpositively curved cube complexes. We prove virtual specialness of X when each vertex space of X has word-hyperbolic \pi_1 and \pi_1X has ``finite stature'' relative to its edge groups. The results generalize the motivating case when tree \times tree lattices are virtual products.

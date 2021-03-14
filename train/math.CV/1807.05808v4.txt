@@ -1,0 +1,1 @@
+We show that if a Fano manifold does not admit Kahler-Einstein metrics then the Kahler potentials along the continuity method subconverge to a function with analytic singularities along a subvariety which solves the homogeneous complex Monge-Ampere equation on its complement, confirming an expectation of Tian-Yau.

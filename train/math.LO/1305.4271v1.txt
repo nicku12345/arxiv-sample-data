@@ -1,0 +1,1 @@
+We examinate, formalize and extend the reasoning behind the Cantor's first diagonal argument, obtaining a simple closed-form expression for a bijection between \mathbb{N}^k and \mathbb{N}.

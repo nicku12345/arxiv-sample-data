@@ -1,0 +1,1 @@
+We construct equivalent semi-norms of non-local Dirichlet forms on the Sierpi\'nski gasket and apply these semi-norms to a convergence problem and a trace problem. We also construct explicitly a sequence of non-local Dirichlet forms with jumping kernels equivalent to |x-y|^{-\alpha-\beta} that converges exactly to local Dirichlet form.

@@ -1,0 +1,1 @@
+The construction of the Khovanov homology of links motivates an interest in decorated Boolean lattices. Placing this work in the context of a bundle theory of presheaves on small categories, we produce, for a certain set of naturally occurring cases, a Leray-Serre type spectral sequence relating the bundle to the cohomology of the total sheaf.

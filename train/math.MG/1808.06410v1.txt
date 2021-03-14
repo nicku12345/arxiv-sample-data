@@ -1,0 +1,1 @@
+We prove that a minimal disc in a CAT(0) space is a local embedding away from a finite set of "branch points". On the way we establish several basic properties of minimal surfaces: monotonicity of area densities, density bounds, limit theorems and the existence of tangent maps.   As an application, we prove Fary-Milnor's theorem in the CAT(0) setting.

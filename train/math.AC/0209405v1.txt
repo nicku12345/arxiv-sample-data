@@ -1,0 +1,1 @@
+Demushkin's Theorem says that any two toric structures on an affine variety X are conjugate in the automorphism group of X. We provide the following extension: Let an (n-1)-dimensional torus T act effectively on an n-dimensional affine toric variety X. Then T is conjugate in the automorphism group of X to a subtorus of the big torus of X.

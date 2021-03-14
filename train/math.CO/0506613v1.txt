@@ -1,0 +1,1 @@
+We construct triangular hyperbolic polyhedra whose links are generalized 4-gons. The universal cover of those polyhedra are hyperbolic buildings, which appartments are hyperbolic planes tesselated by regular triangles with angles \pi/4. Moreover, the fundamental groups of the polyhedra acts simply transitively on vertices of the buildings.

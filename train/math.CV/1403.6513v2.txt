@@ -1,0 +1,1 @@
+We consider the Bohr radius R_n for the class of complex polynomials in one variable of degree at most n. It was conjectured by R. Fournier in 2008 that R_n={1\over 3}+{\pi^2\over {3n^2}}+o({1\over n^2}). We shall prove this conjecture is true in this paper.

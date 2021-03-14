@@ -1,0 +1,1 @@
+In this paper, motivated by mathematic finance we introduce the multiple G-It\^{o} integral in the G-expectation space, then investigate how to calculate. We get the the relationship between Hermite polynomials and multiple G-It\^{o} integrals which is a natural extension of the classical result obtained by It\^{o} in 1951.

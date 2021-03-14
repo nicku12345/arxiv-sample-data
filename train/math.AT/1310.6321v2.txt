@@ -1,0 +1,1 @@
+The Becker-Gottlieb transfer gives a wrong-way map on suspension spectra for maps of spaces whose homotopy fibres are retracts of finite complexes. We prove that this construction is contravariantly functorial on the homotopy category level.

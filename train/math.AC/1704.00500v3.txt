@@ -1,0 +1,1 @@
+Let (R, \mathfrak{m}, k) be an excellent equidimensional local ring of characteristic p>0. The aim of this paper is to show that \ell_R(\mathfrak{q}^*/\mathfrak{q}) does not depend on the choice of parameter ideal \mathfrak{q} provided R is an F-injective local ring that is F-rational on the punctured spectrum.

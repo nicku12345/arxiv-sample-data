@@ -1,0 +1,1 @@
+We give a simple formula for the signature of a foldable triangulation of a lattice polygon in terms of its boundary. This yields lower bounds on the number of real roots of certain of systems of polynomial equations known as "Wronski systems".

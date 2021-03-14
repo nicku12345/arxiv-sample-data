@@ -1,0 +1,1 @@
+In this paper we compute the difference Galois groups of the Lie-irreducible regular singular generalized q-hypergeometric equations of order 3 with q-real parameters by using a density theorem due to Sauloy. In contrast with the differential case, we show that these groups automatically contain the special linear group SL(3,C).

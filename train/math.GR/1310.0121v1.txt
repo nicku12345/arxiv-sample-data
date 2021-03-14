@@ -1,0 +1,1 @@
+Let G=\Dc_{n} be the dicyclic group of order 4n. Let \varphi be an automorphism of G of order k. We describe \varphi and the generalized symmetric space Q of G associated with \varphi. When \varphi is an involution, we describe its fixed point group H=G^{\varphi} along with the H-orbits and G-orbits of Q corresponding to the action of \varphi-twisted conjugation.

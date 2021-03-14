@@ -1,0 +1,1 @@
+We consider a quantum graph consisting of a ring with Rashba hamiltonian and an arbitrary number of semi-infinite wires attached. We describe the scattering matrix for this system and investigate spin filtering for a three terminal device.

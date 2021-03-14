@@ -1,0 +1,1 @@
+The t-Martin boundary of a random walk on a half-space with reflected boundary conditions is identified. It is shown in particular that the t-Martin boundary of such a random walk is not stable in the following sense : for different values of t, the t-Martin compactifications are not homeomorphic to each other.

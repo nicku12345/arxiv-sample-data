@@ -1,0 +1,1 @@
+We give a real-variable proof of the Hardy uncertainty principle. The method is based on energy estimates for evolutions with positive viscosity, convexity properties of free waves with Gaussian decay at two different times, elliptic L^2-estimates and the invertibility of the Fourier transform on L^2(\Rn) and \mathcal S'(\Rn).

@@ -1,0 +1,1 @@
+This note is about invariants of moduli spaces of curves. It includes their intersection theory and cohomology. Our main focus in on the distinguished piece containing the so called tautological classes. These are the most natural classes on the moduli space. We give a review of known results and discuss their conjectural descriptions.

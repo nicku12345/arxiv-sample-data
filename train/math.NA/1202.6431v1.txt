@@ -1,0 +1,1 @@
+We study M-tensors and various properties of M-tensors are given. Specially, we show that the smallest real eigenvalue of M-tensor is positive corresponding to a nonnegative eigenvector. We propose an algorithm to find the smallest positive eigenvalue and then apply the property to study the positive definiteness of a multivariate form.

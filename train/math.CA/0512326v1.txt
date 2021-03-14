@@ -1,0 +1,1 @@
+In this paper, using the concept of A-statistical convergence which is a regular (non-matrix) summability method, we obtain a general Korovkin type approximation theorem which concerns the problem of approximating a function f by means of a sequence \{L_{n}f\} of positive linear operators.

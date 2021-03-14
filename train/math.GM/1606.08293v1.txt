@@ -1,0 +1,1 @@
+The Shannon entropy is used as a basis for applying different lemmas and conjectures concerning the set of gaps between prime numbers G_p , thus estimating several measures of it. The same procedures are applied to artificially created number sets, to compare the size of their entropy against G_p .

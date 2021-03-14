@@ -1,0 +1,1 @@
+We present a sequent calculus for the weak Grzegorczyk logic Go allowing non-well-founded proofs and obtain the cut-elimination theorem for it by constructing a continuous cut-elimination mapping acting on these proofs.

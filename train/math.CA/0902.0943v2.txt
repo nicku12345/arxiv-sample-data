@@ -1,0 +1,1 @@
+Given a fixed p\neq 2, we prove a simple and effective characterization of all radial multipliers of \cF L^p(\Bbb R^d), provided that the dimension d is sufficiently large. The method also yields new L^q space-time regularity results for solutions of the wave equation in high dimensions.

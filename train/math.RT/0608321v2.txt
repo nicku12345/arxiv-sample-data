@@ -1,0 +1,1 @@
+We give a criterion for the Kac conjecture asserting that the free term of the polynomial counting the absolutely indecomposable representations of a quiver over a finite field of given dimension coincides with the corresponding root multiplicity of the associated Kac-Moody algebra. Our criterion suits very well for computer tests.

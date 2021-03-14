@@ -1,0 +1,1 @@
+We prove an exponential approximation for the law of approximate occurrence of typical patterns for a class of Gibssian sources on the lattice \mathbb{Z}^d, d\ge2. From this result, we deduce a law of large numbers and a large deviation result for the waiting time of distorted patterns.

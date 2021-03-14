@@ -1,0 +1,1 @@
+Let R be a local ring of characteristic p>0 which is F-finite and has perfect residue field. We compute the generalized Hilbert-Kunz invariant for certain modules over several classes of rings: hypersurfaces of finite representation type, toric rings, F-regular rings.

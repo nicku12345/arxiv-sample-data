@@ -1,0 +1,1 @@
+We introduce a new Macaulay2 package, Nauty, which gives access to powerful methods on graphs provided by the software nauty by Brendan McKay. The primary motivation for accessing nauty is to determine if two graphs are isomorphic. We also implement methods to generate families of graphs restricted in various ways using tools provided with the software nauty.

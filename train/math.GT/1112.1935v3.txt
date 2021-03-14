@@ -1,0 +1,1 @@
+We prove that for any orientable connected surface of finite type which is not a a sphere with at most four punctures or a torus with at most two punctures, any homeomorphism of the space of geodesic laminations of this surface, equipped with the Thurston topology, is induced by a homeomorphism of the surface.

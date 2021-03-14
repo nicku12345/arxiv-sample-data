@@ -1,0 +1,1 @@
+We prove the following result. If f is a harmonic quasiconformal mapping between two Jordan domains D and \Omega having \mathscr{C}^1 boundaries, then the function f is globally H\"older continuous for every \alpha<1 but it is not Lipschitz in general. This extends and improves a classical theorem of S. Warschawski for conformal mappings.

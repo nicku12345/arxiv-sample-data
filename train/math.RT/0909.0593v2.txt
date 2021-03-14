@@ -1,0 +1,1 @@
+We introduce the notion of n-representation-finiteness, generalizing representation-finite hereditary algebras. We establish the procedure of n-APR tilting, and show that it preserves n-representation-finiteness. We give some combinatorial description of this procedure, and use this to completely describe a class of n-representation-finite algebras called "type A".

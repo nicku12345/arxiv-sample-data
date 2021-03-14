@@ -1,0 +1,1 @@
+We define a family of linear type (D) operators for which the inverse of their maximal monotone extensions to the bidual are not of type (D) and provide an example of an operator in this family.

@@ -1,0 +1,1 @@
+Let G be a simple complex classical group and \g its Lie algebra. Let \U_\hbar(\g) be the Drinfeld-Jimbo quantization of the universal enveloping algebra \U(\g). We construct an explicit \U_\hbar(\g)-equivariant quantization of conjugacy classes of G with Levi subgroups as the stabilizers.

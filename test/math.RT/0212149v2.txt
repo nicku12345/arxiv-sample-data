@@ -1,0 +1,1 @@
+We analyze the decomposition of tensor products between infinite dimensional (unitary) and finite-dimensional (non-unitary) representations of SL(2,R). Using classical results on indefinite inner product spaces, we derive explicit decomposition formulae, true modulo a natural cohomological reduction, for the tensor products.

@@ -1,0 +1,1 @@
+Let M be a closed oriented smooth 4-manifold admitting symplectic structures. If M is minimal and has b^+=1, we prove that there is a unique symplectic canonical class up to sign, and any real second cohomology class of positive square is represented by symplectic forms. Similar results hold when M is not minimal.

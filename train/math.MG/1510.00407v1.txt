@@ -1,0 +1,1 @@
+We prove upper bounds on the average kissing number k(\mathcal{P}) and contact number C(\mathcal{P}) of an arbitrary finite non-congruent sphere packing \mathcal{P}, and prove an upper bound on the packing density \delta(\mathcal{P}) of an arbitrary infinite non-congruent sphere packing \mathcal{P}.

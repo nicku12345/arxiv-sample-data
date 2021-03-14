@@ -1,0 +1,1 @@
+The genus-g Goeritz group is the group of isotopy classes of orientation-preserving homeomorphisms of a closed orientable 3-manifold that preserve a given genus-g Heegaard splitting of the manifold. In this work, we show that the genus-2 Goeritz group of S^2 \times S^1 is finitely presented, and give its explicit presentation.

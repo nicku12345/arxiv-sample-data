@@ -1,0 +1,1 @@
+We study a new simple quadrature rule based on integrating a C^1 quadratic spline quasi-interpolant on a bounded interval. We give nodes and weights for uniform and non-uniform partitions. We also give error estimates for smooth functions and we compare this formula with Simpson's rule.

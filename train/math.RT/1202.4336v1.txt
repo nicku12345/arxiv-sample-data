@@ -1,0 +1,1 @@
+In this note, we determine the irreducible characters for the simple algebraic groups of type A_5 over an algebraically closed field K of characteristic 3, by using a theorem of Xi Nanhua and the Matlab software. In order to obtain higher speed than in Jiachen et al we modify the algorithm to compute the irreducible characters.

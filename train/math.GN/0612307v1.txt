@@ -1,0 +1,1 @@
+Let \Gamma be a Polish space and let K be a separable and pointwise compact set of real-valued functions on \Gamma. It is shown that if each function in K has only countably many discontinuities then C(K) may be equipped with a T_p-lower semicontinuous and locally uniformly convex norm, equivalent to the supremum norm.

@@ -1,0 +1,1 @@
+We derive the exact asymptotics of P(\sup_{u\leq t}X(u) > x) if x and t tend to infinity with x/t constant, for a L\'{e}vy process X that admits exponential moments. The proof is based on a renewal argument and a two-dimensional renewal theorem of H\"{o}glund (1990).

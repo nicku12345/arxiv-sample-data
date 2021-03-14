@@ -1,0 +1,1 @@
+We define Ptolemy coordinates for representations that are not necessarily boundary-unipotent. This gives rise to a new algorithm for computing the SL(2,C) A-polynomial, and more generally the SL(n,C) A-varieties. We also give a formula for the Dehn invariant of an SL(n,C)-representation.

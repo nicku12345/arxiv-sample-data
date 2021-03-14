@@ -1,0 +1,1 @@
+We show sensitive dependece on initial condition and dense periodic points imply asymptotic sensitivity, a stronger form of sensitivity, where the deviation happens not just once but infintely many times. As a consequence it follows that all Devaney chaotic systems (e.g. logistic map) have this property.

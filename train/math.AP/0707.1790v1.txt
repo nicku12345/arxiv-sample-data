@@ -1,0 +1,1 @@
+We prove the existence of a positive radial solution for the H\'enon equation with arbitrary growth. The solution is found by means of a shooting method and turns out to be an increasing function of the radial variable. Some numerical experiments suggest the existence of many positive oscillating solutions.

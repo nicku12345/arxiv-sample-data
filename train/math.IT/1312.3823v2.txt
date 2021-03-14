@@ -1,0 +1,1 @@
+We consider the problem of characterizing network capacity in the presence of adversarial errors on network links,focusing in particular on the effect of low-capacity feedback links cross network cuts.

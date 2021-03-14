@@ -1,0 +1,1 @@
+We fix a non-zero integer a and consider arithmetic progressions a \bmod q, with q varying over a given range. We show that for certain specific values of a, the arithmetic progressions a \bmod q contain, on average, significantly fewer primes than expected.

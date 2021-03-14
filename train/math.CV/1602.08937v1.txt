@@ -1,0 +1,1 @@
+We consider the partial theta function \theta (q,x):=\sum_{j=0}^{\infty}q^{j(j+1)/2}x^j, where x\in \mathbb{C} is a variable and q\in \mathbb{C}, 0<|q|<1, is a parameter. We show that, for any fixed q, if \zeta is a multiple zero of the function \theta (q,.), then |\zeta |\leq 8^{11}.

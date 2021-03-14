@@ -1,0 +1,1 @@
+We derive a generalized matrix version of Pellet's theorem, itself based on a generalized Rouch\'{e} theorem for matrix-valued functions, to generate upper, lower, and internal bounds on the eigenvalues of matrix polynomials. Variations of the theorem are suggested to try and overcome situations where Pellet's theorem cannot be applied.

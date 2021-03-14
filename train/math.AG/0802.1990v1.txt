@@ -1,0 +1,1 @@
+Given a morphism X \to S of fine log schemes, we develop a geometric description of the sheaves of higher-order differentials \Omega^n_{X/S} for n > 1, as well as a definition of the de Rham complex in terms of this description.

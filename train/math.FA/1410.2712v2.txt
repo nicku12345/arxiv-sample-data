@@ -1,0 +1,1 @@
+We investigate the rearrangement of the Haar system induced by the postorder on the set of dyadic intervals in [0,1] with length greater than or equal to 2^{-N}. By means of operator norms on \text{BMO}_N we prove that the postorder has maximal distance to the usual lexicographic order.

@@ -1,0 +1,1 @@
+Kummer's Conjecture predicts the rate of growth of the relative class numbers of cyclotomic fields of prime conductor. We extend Kummer's Conjecture to cyclotomic fields of conductor n, where n is any natural number. We show that the Elliott-Halberstam Conjecture implies that this Generalised Kummer's Conjecture is true for almost all n but is false for infinitely many n.

@@ -1,0 +1,1 @@
+We show that C if is a proper model category, then the pro-category pro-C has a strict model structure in which the weak equivalences are the levelwise weak equivalences. The strict model structure is the starting point for many homotopy theories of pro-objects.

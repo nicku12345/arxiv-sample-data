@@ -1,0 +1,1 @@
+We use hook Schur functions to compute trace cocharacters of matrices in hooks. As an example we compute the cocharacters of 3 x 3 matrices in the one by two hook.

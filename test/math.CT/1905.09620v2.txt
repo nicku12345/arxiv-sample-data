@@ -1,0 +1,1 @@
+We study the Moore complex of a simplicial cocommutative Hopf algebra through Hopf kernels. The most striking result to emerge from this construction is the coherent definition of 2-crossed modules of cocommutative Hopf algebras. This unifies the 2-crossed module theory of groups and of Lie algebras when we take the group-like and primitive functors into consideration.

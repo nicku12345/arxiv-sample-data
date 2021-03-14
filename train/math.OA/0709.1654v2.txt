@@ -1,0 +1,1 @@
+This note provides some technical support to the proof of a result of W. Winter which shows that two unital separable simple amenable {\cal Z}-absorbing C*-algebras with locally finite decomposition property satisfying the UCT whose projections separate the traces are isomorphic if their K-theory is finitely generated and their Elliott invariants are the same.

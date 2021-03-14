@@ -1,0 +1,1 @@
+We develop a functional calculus for d-tuples of non-commuting elements in a Banach algebra. The functions we apply are free analytic functions, that is nc functions that are bounded on certain polynomial polyhedra.

@@ -1,0 +1,1 @@
+We introduce and study arithmetic spin structures on elliptic curves. We show that there is a unique isogeny class of elliptic curves over \F_{p^2} which carries a unique arithmetic spin structure and provides a geometric object of weight 1/2 in the sense of Deligne and Grothendieck. This object is thus a candidate for \Q(1/4).

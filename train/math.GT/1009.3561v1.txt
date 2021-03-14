@@ -1,0 +1,1 @@
+We obtain explicit, isometry-invariant integral formulas for twisting, writhing and helicity, and prove the theorem LINK = TWIST + WRITHE on the 3-sphere and in hyperbolic 3-space. We then use these results to derive upper bounds for the helicity of vector fields and lower bounds for the first eigenvalue of the curl operator on subdomains of these two spaces.

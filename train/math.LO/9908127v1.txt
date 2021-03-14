@@ -1,0 +1,1 @@
+We investigate the relationship between (countable) transfinite iteration and ordinal arithmetic. The nice connection between finite iteration and addition, multiplication, and exponentiation is lost when passing to the transfinite. In this note, we investigate a new equivalence relation on ordinal functionals with respect to which we restore the connection.

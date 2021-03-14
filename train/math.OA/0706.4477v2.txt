@@ -1,0 +1,1 @@
+A covariant functor from the category of the complex tori to the category of the Effros-Shen algebras is constructed. The functor maps isomorphic complex tori to the stably isomorphic Effros-Shen algebras. Our construction is based on the Teichmueller theory of the Riemann surfaces.

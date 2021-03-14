@@ -1,0 +1,1 @@
+For a Markov process associated with a diffusion type Dirichlet form an upper bound is shown for the law of the finite dimensional distributions of the process. Under some more assumptions on the underlaying space this is also shown for the law of the Markov process itself. In the last section we want to give an application to the Wasserstein diffusion.

@@ -1,0 +1,1 @@
+We present a new perspective on the weak approximation conjecture of Hassett and Tschinkel: formal sections of a rationally connected fibration over a curve can be approximated to arbitrary order by regular sections. The new approach involves the study of how ideal sheaves pullback to Cartier divisors.

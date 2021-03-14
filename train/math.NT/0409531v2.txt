@@ -1,0 +1,1 @@
+Given good knowledge on the even moments, we derive asymptotic formulas for \lambda-th moments of primes in short intervals and prove "equivalence" result on odd moments. We also provide numerical evidence in support of these results.

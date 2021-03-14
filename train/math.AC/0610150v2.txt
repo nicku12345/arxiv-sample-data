@@ -1,0 +1,1 @@
+Considering modules of finite complete intersection dimension over commutative Noetherian local rings, we prove (co)homology vanishing results in which we assume the vanishing of nonconsecutive (co)homology groups. In fact, the (co)homology groups assumed to vanish may be arbitrarily far apart from each other.

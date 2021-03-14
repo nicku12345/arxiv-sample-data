@@ -1,0 +1,1 @@
+We formalize a technique for embedding Riemann sufraces properly into \C^2, and we generalize all known embedding results to allow interpolation on prescribed discrete sequences.

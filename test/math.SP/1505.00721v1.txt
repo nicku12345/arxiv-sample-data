@@ -1,0 +1,1 @@
+Using the method of complex scaling we show that scattering resonances of  - \Delta + V ,  V \in L^\infty_{\rm{c}} ( \mathbb R^n ) , are limits of eigenvalues of  - \Delta + V - i \epsilon x^2  as  \epsilon \to 0+ . That justifies a method proposed in computational chemistry and reflects a general principle for resonances in other settings.

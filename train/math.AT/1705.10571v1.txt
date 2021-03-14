@@ -1,0 +1,1 @@
+Let G(k,n) be the complex Grassmann manifold of k-planes in \mathbb C^{k+n}. In this note, we show that for 1<k<n and for any selfmap f:G(k,n)\to G(k,n), there exists a k-plane V^k\in G(k,n) such that f(V^k)\cap V^k\ne \{0\}.

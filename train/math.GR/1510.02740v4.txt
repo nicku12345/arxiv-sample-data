@@ -1,0 +1,1 @@
+We study cubic graphical regular representations of the finite simple groups PSL_2(q). It is shown that such graphical regular representations exist if and only if q\neq7, and the generating set must consist of three involutions.

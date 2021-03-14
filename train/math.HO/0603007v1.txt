@@ -1,0 +1,1 @@
+We present the history and previous approaches to the proof of Stirling's series. We use a different procedure, based on the asymptotic analysis of the difference equation \Gamma(z+1)=z\Gamma(z). The method reproduces Stirling's series very easily and can be extended to use in more complicated difference equations.

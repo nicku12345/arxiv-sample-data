@@ -1,0 +1,1 @@
+Baecklund-Darboux transformations are closely related to the integrability and symmetry problems. For the generalized Baecklund-Darboux transformation (GBDT), we consider conservation laws, rational extensions and bispectrality. We use the case of the nonlinear optics equation (and its auxiliary linear system) as an example.

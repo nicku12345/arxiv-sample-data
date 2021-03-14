@@ -1,0 +1,1 @@
+In this paper, we prove that for any odd prime larger than 3, the modular group representation associated to the SO(p)_2-TQFT can be defined over the ring of integers of a cyclotomic field. We will provide explicit integral bases. In the last section, we will relate these representations to the Weil representations over finite fields.

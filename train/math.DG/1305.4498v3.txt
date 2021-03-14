@@ -1,0 +1,1 @@
+In this note, adopting the pullback formalism of global Finsler geometry, we show by a counterexample that the kernel \text{Ker}_R of the h-curvature R of Cartan connection and the associated nullity distribution \N_R do not coincide, contrary to Akbar-Zadeh's result \cite{akbar.nul3.}. We give sufficient conditions for \text{Ker}_R and \N_R to coincide.

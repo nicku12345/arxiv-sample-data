@@ -1,0 +1,1 @@
+We derive the non-asymptotical non-uniform sharp error estimation for Bernstein's approximation of continuous function based on the modern probabilistic apparatus.   We investigate also the convergence of derivative of these polynomials and we will consider briefly also the multivariate case.

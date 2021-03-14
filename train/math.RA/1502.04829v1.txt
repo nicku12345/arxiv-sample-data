@@ -1,0 +1,1 @@
+In this paper we give presentations for the monoid \mathcal{DP}_n of all partial isometries on \{1,\ldots,n\} and for its submonoid \mathcal{ODP}_n of all order-preserving partial isometries.

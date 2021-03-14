@@ -1,0 +1,1 @@
+We publish a table of primitive finite-type invariants of order less than or equal to six, for knots of ten or fewer crossings. We note certain mod-2 congruences, one of which leads to a chirality criterion in the Alexander polynomial. We state a computational result on mod-2 finite-type invariants of 2-strand string links.

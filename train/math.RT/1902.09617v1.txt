@@ -1,0 +1,1 @@
+Suppose that G is a finite group and H is a nilpotent subgroup of G. If a character of H induces an irreducible character of G, then the generalized Fitting subgroup of G is nilpotent.

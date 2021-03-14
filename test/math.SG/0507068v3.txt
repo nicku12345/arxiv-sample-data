@@ -1,0 +1,1 @@
+We construct some lift of an almost complex structure to the cotangent bundle, using a connection on the base manifold. This generalizes the complete lift defined by I.Sato and the horizontal lift introduced by K.Yano and S.Ishihara. We study some geometric properties of this lift and its compatibility with symplectic forms on the cotangent bundle.

@@ -1,0 +1,1 @@
+We study the number of acyclic orientations on the generalized two-dimensional Sierpinski gasket SG_{2,b}(n) at stage n with b equal to two and three, and determine the asymptotic behaviors. We also derive upper bounds for the asymptotic growth constants for SG_{2,b} and d-dimensional Sierpinski gasket SG_d.

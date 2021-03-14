@@ -1,0 +1,1 @@
+Based on the conjecture for the exact eigenvalue of the transfer matrix of the higher half-integer spin XXZ chain at the Razumov-Stroganov point, we evaluate the corresponding Baxter's Q operator in closed form by solving the TQ equation. The combination of the Q operators on the "right side" and the "wrong side" is shown to produce the hierarchy of functional relations.

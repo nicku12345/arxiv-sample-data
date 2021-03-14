@@ -1,0 +1,1 @@
+In this paper, we show that if E is a Fell bundle over an amenable \'etale locally compact Hausdorff groupoid such that every fiber on the unit space is nuclear, then C?^*r(E) is also nuclear. In order to show this result, we introduce (minimal) tensor products of Fell bundles with fixed C^*-algebras.

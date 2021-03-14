@@ -1,0 +1,1 @@
+In the previous paper, we defined a new category which categorifies the Hecke algebra. This is a generalization of the theory of Soergel bimodules. To prove theorems, the existences of certain homomorphisms between Bott-Samuelson bimodules are assumed. In this paper, we prove this assumption. We only assume the vanishing of certain two-colored quantum binomial coefficients.

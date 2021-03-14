@@ -1,0 +1,1 @@
+Let F(z) be a newform of weight 2k and level one with a trivial character, and assume that F(z) is a non-zero eigenform of all Hecke operators. In this paper, we study nonvanishing for central values of twisted modular L-function of F.

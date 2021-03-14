@@ -1,0 +1,1 @@
+In this paper we study some further properties of the matrix with entries binom{i-1}{n-j}. We find the generating function for each row and column, and we find the eigenvalues and eigenvectors of this matrix. We also find the spectral properties of this matrix modulo 3 and 5.

@@ -1,0 +1,1 @@
+We define the Deligne Mumford orbifold axiomatically by a universal mapping property, show that this universal mapping property is equivalent to an infinitessimal universal mapping property, and use the latter to give an existence proof.

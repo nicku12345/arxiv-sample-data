@@ -1,0 +1,1 @@
+In this article we define the continuous Gabor transform for second countable, non-abelian, unimodular and type I groups and also we investigate a Plancherel formula and an inversion formula for our definition. As an example we show that how these formulas work for the Heisenberg group and also the matrix group {SL(2,\mathbb{R})}.

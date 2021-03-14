@@ -1,0 +1,1 @@
+In this note, it is proved that a graphs is (2K_2,P_4)-free if and only if its edge ring is universally Koszul. Using properties of this family of graphs, we show that Universally Koszul algebras defined by graphs have linear minimal free resolution.

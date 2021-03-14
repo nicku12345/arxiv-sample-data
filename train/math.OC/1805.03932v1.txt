@@ -1,0 +1,1 @@
+We establish linear convergence rates for a certain class of extrapolated fixed point algorithms which are based on dynamic string-averaging methods in a real Hilbert space. This applies, in particular, to the extrapolated simultaneous and cyclic cutter methods. Our analysis covers the cases of both metric and subgradient projections.

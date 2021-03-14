@@ -1,0 +1,1 @@
+We write the integral formula of Tarasov-Varchenko type for the solutions to the quantum Knizhnik-Zamolodchikov associated with a tensor product the of vector representations of sl_n. We consider the case where the deformation parameter q satisfies |q|=1. We use the bosonization of the type II vertex operators in order to find the hypergeometric pairing in this setting.

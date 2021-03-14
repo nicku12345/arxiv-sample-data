@@ -1,0 +1,1 @@
+In this paper, the compositional inverses of a class of linearized permutation polynomials of the form P(x)=x+x^2+\tr(\frac{x}{a}) over the finite field \mathbb{F}_{2^n} for an odd positive integer n are explicitly determined.

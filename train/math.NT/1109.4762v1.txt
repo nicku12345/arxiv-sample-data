@@ -1,0 +1,1 @@
+We prove that the frequency of abc equations c^n = a+b satisfying the strong abc - conjecture is phi(c^n)/2+o(phi(c^n)/2), for n going to infinity.

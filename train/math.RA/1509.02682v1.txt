@@ -1,0 +1,1 @@
+In this note we classify the non-Noetherian generalized Heisenberg algebras H(f) introduced by Rencai L\"u and Kaiming Zhao [Linear Algebra Appl., 2015]. In case the polynomial f has degree greater than 1, we determine all locally finite and also all locally nilpotent derivations of H(f) and describe the automorphism group of these algebras.

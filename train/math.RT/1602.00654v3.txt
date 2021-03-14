@@ -1,0 +1,1 @@
+A VI-module gives rise to a sequence of representations of the finite general linear groups. We prove that the sequence obtained from any finitely generated VI-module over an algebraically closed field of characteristic zero is representation stable.

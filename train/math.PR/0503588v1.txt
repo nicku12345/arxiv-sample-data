@@ -1,0 +1,1 @@
+We extend the classical Douglas integral, which expresses the Dirichlet integral of a harmonic function on the unit disk in terms of its value on boundary, to the case of conservative symmetric diffusion in terms of Feller measure, by using the approach of time change of Markov processes.

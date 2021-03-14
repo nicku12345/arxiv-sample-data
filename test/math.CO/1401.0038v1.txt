@@ -1,0 +1,1 @@
+We prove that every non-circular D0L system contains arbitrarily long repetitions. This result was already published in 1993 by Mignosi and S\'e\'ebold, however their proof is only a sketch. We give here a complete proof. Further, employing our previous result, we give a simple algorithm to test circularity of an injective D0L system.

@@ -1,0 +1,1 @@
+The aim of this work is to extend to finite potent endomorphisms the notion of G-Drazin inverse of a finite square matrix. Accordingly, we determine the structure and the properties of a G-Drazin inverse of a finite potent endomorphism and, as an application, we offer an algorithm to compute the explicit expression of all G-Drazin inverses of a finite square matrix.

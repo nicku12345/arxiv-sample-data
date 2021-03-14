@@ -1,0 +1,1 @@
+For a smooth Deligne-Mumford stack over \CC, we define its associated Kodaira-Spencer differential graded Lie algebra and show that the deformation functor of the stack is isomorphic to the deformation functor of the Kodaira-Spencer algebra if the stack is proper over \CC.

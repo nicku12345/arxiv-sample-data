@@ -1,0 +1,1 @@
+We describe the additive subgroups of fields which are closed with respect to taking inverses. In particular, in characteristic different from two any such subgroup is either a subfield or the kernel of the trace map of a quadratic subextension of the field.

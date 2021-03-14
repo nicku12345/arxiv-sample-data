@@ -1,0 +1,1 @@
+We construct new monomial quasi-particle bases of Feigin-Stoyanovsky's type subspaces for affine Lie algebra \mathfrak{sl}(3,\mathbb{C})^{\widetilde{}} from which the known fermionic-type formulas for (k,3)-admissible configurations follow naturally. In the proof we use vertex operator algebra relations for standard modules and coefficients of intertwining operators.

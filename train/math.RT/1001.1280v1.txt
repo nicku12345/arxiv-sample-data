@@ -1,0 +1,1 @@
+We consider the general notion of coloured quiver mutation and show that the mutation class of a coloured quiver Q, arising from an m-cluster tilting object associated with H, is finite if and only if H is of finite or tame representation type, or it has at most 2 simples. This generalizes a result known for 1-cluster categories.

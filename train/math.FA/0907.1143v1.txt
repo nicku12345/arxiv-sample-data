@@ -1,0 +1,1 @@
+We consider, in the setting of stratified groups G, two analogues of the Ornstein-Uhlenbeck semi-group, namely Markovian diffusion semi-groups acting on L^q(pd g), whose invariant density p is a heat kernel at time 1 on G.

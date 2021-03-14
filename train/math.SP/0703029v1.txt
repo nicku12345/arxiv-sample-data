@@ -1,0 +1,1 @@
+A generalized two-dimensional periodic Dirac operator is considered, with L^{\infty}-matrix-valued coefficients of the first order derivatives and with complex matrix-valued potential. It is proved that if the matrix-valued potential has zero bound relative to the free Dirac operator, then the spectrum of the operator in question contains no eigenvalues.

@@ -1,0 +1,1 @@
+We give a simple, elementary, and at least partially new proof of Arestov's famous extension of Bernstein's inequality in L_p to all p \geq 0. Our crucial observation is that Boyd's approach to prove Mahler's inequality for algebraic polynomials P_n \in {\mathcal P}_n^c can be extended to all trigonometric polynomials T_n \in {\mathcal T}_n^c.

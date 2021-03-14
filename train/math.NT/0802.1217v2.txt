@@ -1,0 +1,1 @@
+In this paper we are interested in solving the Fermat-type equations x^5+y^5=dz^p where d is a positive integer and p a prime number \ge 7. We describe a new method based on modularity theorems which allows us to improve all the results in a previous paper of the first author. We finally discuss the present limitations of the method by looking at the case d=3.

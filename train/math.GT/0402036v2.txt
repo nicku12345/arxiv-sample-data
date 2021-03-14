@@ -1,0 +1,1 @@
+We show that the Casson knot invariant, linking number and Milnor's triple linking number, together with a certain 2-string link invariant V_2, are necessary and sufficient to express any string link Vassiliev invariant of order two. Explicit combinatorial formulas are given for these invariants. This result is applied to the theory of claspers for string links.

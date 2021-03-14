@@ -1,0 +1,1 @@
+A Hermite type formula is introduced and used to study the zeta function over the real and complex n-projective space. This approach allows to compute the residua at the poles and the value at the origin as well as the value of the derivative at the origin, that gives the regularized determinant of the associated Laplacian operator.

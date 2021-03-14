@@ -1,0 +1,1 @@
+It is well-known that affine (respectively projective) simple arrangements of n pseudo-lines may have at most n(n-2)/3 (respectively n(n-1)/3) triangles. However, these bounds are reached for only some values of n (mod 6). We provide the best polynomial bound for the affine and the projective case, and for each value of n (mod 6).

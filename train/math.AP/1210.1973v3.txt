@@ -1,0 +1,1 @@
+We prove an approximation lemma on (stratified) homogeneous groups that allows one to approximate a function in the non-isotropic Sobolev space \dot{NL}^{1,Q} by L^{\infty} functions, generalizing a result of Bourgain-Brezis \cite{MR2293957}. We then use this to obtain a Gagliardo-Nirenberg inequality for \bar{\partial}_b on the Heisenberg group \mathbb{H}^n.

@@ -1,0 +1,1 @@
+In this paper we present expressions for the Drazin inverse of the generalized Schur complement A-CD^{d}B in terms of the Drazin inverses of A and the generalized Schur complement D-BA^{d}C under less and weaker restrictions, which generalize several results in the literature and the formula of Sherman-Morrison-Woodbury type.

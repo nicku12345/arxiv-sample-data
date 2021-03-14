@@ -1,0 +1,1 @@
+Here we will provide the proofs of the results stated in the Infinite Horizon LQG Control section of [1] by focusing on the control law and the related MARE. The analysis of the observation case can be achieved in a dual way and it is partially covered by [2].

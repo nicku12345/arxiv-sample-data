@@ -1,0 +1,1 @@
+Shimura reciprocity law allows us to verify that a modular function is a class invariant. Here we present a new method based on Shimura reciprocity that allows us not only to verify but to find new class invariants from a modular function of level N.

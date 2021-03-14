@@ -1,0 +1,1 @@
+We study C_{0}-operators relative to a multiply connected domain using a substitute of the characteristic function. This method allows us to prove certain relations between the Jordan model of an operator and that of its restriction to an invariant subspace.

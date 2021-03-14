@@ -1,0 +1,1 @@
+Let \Q=[0,1)^d denote the unit cube in d-dimensional Euclidean space \Rd and let \T be a discrete subset of \Rd. We show that the exponentials e_t(x):=exp(i2\pi tx), t\in\T form an othonormal basis for L^2(\Q) if and only if the translates \Q+t, t\in\T form a tiling of \Rd.

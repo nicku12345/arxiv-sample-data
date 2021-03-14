@@ -1,0 +1,1 @@
+Let N > n, and denote by K the convex hull of N independent standard gaussian random vectors in an n-dimensional Euclidean space. We prove that with high probability, the isotropic constant of K is bounded by a universal constant. Thus we verify the hyperplane conjecture for the class of gaussian random polytopes.

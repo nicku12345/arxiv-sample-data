@@ -1,0 +1,1 @@
+By using coupling method, a Bismut type derivative formula is established for the Markov semigroup associated to a class of hyperdissipative stochastic Navier-Stokes/Burgers equations. As applications, gradient estimates, dimension-free Harnack inequality, strong Feller property, heat kernel estimates and some properties of the invariant probability measure are derived.

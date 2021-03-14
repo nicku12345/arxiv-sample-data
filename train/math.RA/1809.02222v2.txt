@@ -1,0 +1,1 @@
+It is well-known that the exceptional Lie algebras \mathfrak{f}_4 and \mathfrak{g}_2 arise from the octonions as the derivation algebras of the 3\times3 hermitian and 1\times1 antihermitian matrices, respectively. Inspired by this, we compute the derivation algebras of the spaces of hermitian and antihermitian matrices over an octonion algebra in all dimensions.

@@ -1,0 +1,1 @@
+We compute the reduced Khovanov homology of 3-stranded pretzel links. The coefficients are the integers with the "even" sign assignment. In particular, we show that the only homologically thin, non-quasi-alternating 3-stranded pretzels are P(-p,p,r) with p an odd integer and r greater than or equal to p (these were shown to be homologically thin by Starkston and Qazaqzeh).

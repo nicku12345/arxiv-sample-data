@@ -1,0 +1,1 @@
+The Turaev genus of a knot is a topological measure of how far a given knot is from being alternating. Recent work by several authors has focused attention on this interesting invariant. We discuss how the Turaev genus is related to other knot invariants, including the Jones polynomial, knot homology theories, and ribbon-graph polynomial invariants.

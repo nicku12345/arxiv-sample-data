@@ -1,0 +1,1 @@
+An approach to the equivalence problem of vector valued maps is offered which, in particular, covers the equivalence problem of paths and patches of differential geometry with respect to different motion groups. In the last case, in contrary to differential geometry case, it does not need and does not use smoothness of paths and patches to get the corresponding main results.

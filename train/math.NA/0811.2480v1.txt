@@ -1,0 +1,1 @@
+In this paper we present two new methods based on an implicit Runge-Kutta method Gauss which is of algebraic order fourth and has two stages: the first one has zero dispersion and the second one has zero dispersion and zero dissipation. The efficiency of these methods is measured while integrating the radial Schr\"odinger equation and other well known initial value problems.

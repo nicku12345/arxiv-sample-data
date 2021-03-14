@@ -1,0 +1,1 @@
+A study of the Dedekind psi function concludes that its extreme values are supported on the subset of primorial integers N_k = 2*3***p_k, where p_k is the kth prime. In particular, the inequality psi(N_k) > cloglogN_k, c > 0 constant, holds for all large primorial integers.

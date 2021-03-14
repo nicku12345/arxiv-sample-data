@@ -1,0 +1,1 @@
+Building on work of van Engelen and van Mill, we show that a zero-dimensional Borel space is homeomorphic to a semifilter if and only if it is homogeneous and not locally compact. Under \mathbf{\Sigma}^1_1-Determinacy, this result extends to all analytic and coanalytic spaces.

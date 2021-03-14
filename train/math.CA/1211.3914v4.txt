@@ -1,0 +1,1 @@
+A glimpse at \sum{{\sin(kx)}\over{k}} gives a few lines exposition of Fourier series's quadratic mean convergence for square integrable functions and Dirichlet's convergence theorem of the Fourier serie of a piecewise differentiable function with integrable derivative.

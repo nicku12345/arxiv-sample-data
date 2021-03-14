@@ -1,0 +1,1 @@
+In this paper, we give a linear basis of a free Rota-Baxter system on a set by using the Gr\"{o}bner-Shirshov bases method and then we obtain a left counital Hopf algebra structure on a free Rota-Baxter system.

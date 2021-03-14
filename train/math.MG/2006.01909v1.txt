@@ -1,0 +1,1 @@
+All SL(n) contravariant vector valuations on polytopes in \mathbb R^n are completely classified without any additional assumptions. The facet vector is defined. It turns out to be the unique such valuation for n\geq3. In dimension two, the classification corresponds to the case of SL(2) covariant valuations.

@@ -1,0 +1,1 @@
+Let K be a field and S a polynomial ring in a finite number of variables over K. Let F be a finitely generated graded free S-module. We examine some classes of squarefree monomial submodules of F. Hence, we focalize our attention on the Betti table of such classes in order to analyze the behavior of their extremal Betti numbers.

@@ -1,0 +1,1 @@
+It is well known that Mosco (type) convergence is a tool in order to verify weak convergence of finite dimensional distributions of sequences of stochastic processes. In the present paper we are concerned with the concept of Mosco type convergence for non-symmetric stochastic processes and, in particular, n-particle systems in order to establish relative compactness.

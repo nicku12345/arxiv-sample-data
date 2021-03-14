@@ -1,0 +1,1 @@
+We prove an extension of the Quillen Theorem Bn for homotopy fibres to a similar result for homotopy pullbacks and use this to obtain sufficient conditions on a pullback diagram of categories to guarantee that it be a homotopy pullback.

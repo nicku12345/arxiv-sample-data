@@ -1,0 +1,1 @@
+We extend the Boltzmann-Hamel equations to the optimal control setting, producing a set of equations for both kinematic and dynamic nonholonomic optimal control problems. In particular, we will show the dynamic optimal control problem can be written as a minimal set of 4n-2m first order differential equations of motion.

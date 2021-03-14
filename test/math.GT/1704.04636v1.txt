@@ -1,0 +1,1 @@
+We prove that the locally finite simplicial volume and the Lipschitz simplicial volume are additive with respect to certain gluings of manifolds. In particular, we prove that in dimension \geq 3 they are additive with respect to connected sums and gluings along \pi_1-injective, amenable aspherical boundary components.

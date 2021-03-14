@@ -1,0 +1,1 @@
+Let A be an n by n matrix with entries in an arbitrary field, and c_1,...,c_n be scalars. We prove that if A is not a scalar multiple of the identity matrix, then the condition c_1+...+c_n=tr(A) is necessary and sufficient for A to be similar to a matrix with diagonal entries c_1,...,c_n.

@@ -1,0 +1,1 @@
+This paper is concerned with the problem of finding a quadratic common Lyapunov function for a family of stable linear systems. We present gradient iteration algorithms which give deterministic convergence for finite system families and probabilistic convergence for infinite families.

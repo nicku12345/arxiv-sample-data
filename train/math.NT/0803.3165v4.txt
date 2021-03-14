@@ -1,0 +1,1 @@
+This note explains how to obtain, install, and use the ratpoints program. The program finds rational points up to a specified height on hyperelliptic curves using a highly optimized quadratic sieving algorithm.

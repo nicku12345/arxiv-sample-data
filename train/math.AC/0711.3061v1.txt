@@ -1,0 +1,1 @@
+We compute some algebraic invariants (e.g. depth, Castelnuovo - Mumford regularity) for a special class of monomial ideals, namely the ideals of mixed products. As a consequence, we characterize the Cohen-Macaulay ideals of mixed products.

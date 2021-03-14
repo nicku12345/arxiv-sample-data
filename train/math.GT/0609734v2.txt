@@ -1,0 +1,1 @@
+We present an alternate description of the Ozsvath-Szabo contact class in Heegaard Floer homology. Using our contact class, we prove that if a contact structure (M,\xi) has an adapted open book decomposition whose page S is a once-punctured torus, then the monodromy is right-veering if and only if the contact structure is tight.

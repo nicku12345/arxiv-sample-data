@@ -1,0 +1,1 @@
+We say that an ultrafilter on an infinite group G is DTC if it determines the topological centre of the semigroup \beta G. We prove that DTC ultrafilters do not exist for virtually BFC groups, and do exist for the countable groups that are not virtually FC. In particular, an infinite finitely generated group is virtually abelian if and only if it does not admit a DTC ultrafilter.

@@ -1,0 +1,1 @@
+In the present paper, we consider the B\'ezier variant of the general family of Gupta-Srivastava operators \cite{GS:18}. For the proposed operators, we discuss the rate of convergence by using of Lipschitz type space, Ditzian-Totik modulus of smoothness, weighted modulus of continuity and functions of bounded variation.

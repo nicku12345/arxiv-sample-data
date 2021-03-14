@@ -1,0 +1,1 @@
+Approximations to the Kruskal-Katona theorem are stated and proven. These approximations are weaker than the theorem, but much easier to work with numerically.

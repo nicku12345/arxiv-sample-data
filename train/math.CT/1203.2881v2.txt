@@ -1,0 +1,1 @@
+We show that the functor from bialgebras to vector spaces sending a bialgebra to its subspace of primitives has monadic length at most 2.

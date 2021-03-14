@@ -1,0 +1,1 @@
+We prove new homological stability results for general linear groups over finite fields. These results are obtained by constructing CW approximations to the classifying spaces of these groups, in the category of E_\infty-algebras, guided by computations of homology with coefficients in the E_1-split Steinberg module.

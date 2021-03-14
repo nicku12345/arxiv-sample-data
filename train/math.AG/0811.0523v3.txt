@@ -1,0 +1,1 @@
+We show that a general prime Fano threefold X of genus 8 can be reconstructed from the pair (\Gamma,L), where \Gamma is its Fano curve of lines and L=O_{\Gamma}(1) is the theta-characteristic which gives a natural embedding \Gamma \subset \matbb{P}^5.

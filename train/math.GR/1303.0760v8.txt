@@ -1,0 +1,1 @@
+Let G be a torsion free hyperbolic group. We prove that the elementary theory of G is decidable and admits an effective quantifier elimination to boolean combination of AE-formulas. The existence of such quantifier elimination was previously proved by Sela.

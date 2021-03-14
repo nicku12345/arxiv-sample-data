@@ -1,0 +1,1 @@
+We prove a generalization of Gotzmann's persistence theorem in the case of modules with constant Hilbert polynomial. As a consequence, we show that the defining equations that give the embedding of a Quot scheme of points into a Grassmannian are given by a single Fitting ideal.

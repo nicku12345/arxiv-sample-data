@@ -1,0 +1,1 @@
+Let E denote the group of all interval exchange transformations on [0,1). Given a suitable topological group structure on E, it is possible to classify all one-parameter interval exchange actions (continuous homomorphisms from R to E). In particular, up to conjugacy in E, any one-parameter interval exchange action factors through a rotational torus action.

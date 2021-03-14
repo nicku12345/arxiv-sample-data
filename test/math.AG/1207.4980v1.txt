@@ -1,0 +1,1 @@
+A generalized Bogomolov-Gieseker inequality for tilt-stable complexes on a smooth projective threefold was conjectured by Bayer, Toda, and the author. We show that such inequality holds true in general, if it holds true when the polarization is sufficiently small. As an application, we prove it for the three-dimensional projective space.

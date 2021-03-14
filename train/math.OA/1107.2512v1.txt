@@ -1,0 +1,1 @@
+We define a deformation of algebras endowed with coaction of the reduced group algebras. The deformation parameter is given by a 2-cocycle over the group. We prove K-theory isomorphisms for the cocycles which can be perturbed to the trivial one.

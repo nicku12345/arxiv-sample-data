@@ -1,0 +1,1 @@
+In this paper, we consider a parametric hidden Markov model where the hidden state space is non necessarily finite. We provide a necessary and sufficient condition for the invertibility of the limiting Fisher information matrix.

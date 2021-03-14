@@ -1,0 +1,1 @@
+It is shown that, if a link \tilde{L}\subset S^3 is p^k-periodic with p prime and k\ge 1, and L is the quotient link, then the groups of \tilde{L} and L can be related by counting homomorphisms to any finite group \Gamma whose order is not divisible by p.

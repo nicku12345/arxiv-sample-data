@@ -1,0 +1,1 @@
+We consider a two-particle quantum systems in a d-dimensional Euclidean space with interaction and in presence of a random external potential (a continuous two-particle Anderson model). We establish Wegner-type estimates (inequalities) for such models, assessing the probability that random spectra of Hamiltonians in finite volumes intersect a given set.

@@ -1,0 +1,1 @@
+For the abelian Chern-Simons field theory, we consider the quantum functional integration over the Deligne-Beilinson cohomology classes and present an explicit path-integral non-perturbative computation of the Chern-Simons link invariants in SO(3)\simeq\mathbb{R}P^3, a toy example of 3-manifold with torsion.

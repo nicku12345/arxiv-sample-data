@@ -1,0 +1,1 @@
+On the basis of Brylinski's work, we introduce a notion of equivariant smooth Deligne cohomology group, which is a generalization of both the ordinary smooth Deligne cohomology and the ordinary equivariant cohomology. Using the cohomology group, we classify equivariant circle bundles with connection, and equivariant gerbes with connection.

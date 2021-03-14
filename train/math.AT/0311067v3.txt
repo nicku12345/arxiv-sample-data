@@ -1,0 +1,1 @@
+We show that if Q is a closed, reduced, complex orbifold of dimension n such that every local group acts as a subgroup of SU(2) < SU(n), then the K-theory of the unique crepant resolution of Q is isomorphic to the orbifold K-theory of Q.

@@ -1,0 +1,1 @@
+We study group-graded Lie algebras L with finite support X. We show that L is nilpotent of |X|-bounded class if X is arithmetically-free. Conversely: we show that Y supports the grading of a non-nilpotent Lie algebra if Y is not arithmetically-free.

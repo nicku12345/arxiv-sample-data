@@ -1,0 +1,1 @@
+For alpha in [0,n) we demonstrate the failure of energy reversal for the vector of alpha-fractional Riesz transforms, and more generally for any vector of alpha-fractional convolution singular integrals having a kernel with vanishing integral on every great circle of the sphere.

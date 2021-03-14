@@ -1,0 +1,1 @@
+We show that the author's notion of Galois extensions of braided tensor categories [22], see also [3], gives rise to braided crossed G-categories, recently introduced for the purposes of 3-manifold topology [31]. The Galois extensions C \rtimes S are studied in detail, and we determine for which g in G non-trivial objects of grade g exist in C \rtimes S.

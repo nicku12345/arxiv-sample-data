@@ -1,0 +1,1 @@
+In this paper, we present an iterative construction of a polar code and develop properties of the dual of a polar code. Based on this approach, belief propagation of a polar code can be presented in the context of low-density parity check codes.

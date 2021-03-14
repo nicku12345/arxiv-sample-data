@@ -1,0 +1,1 @@
+We study a model of radiating gases that describes the interaction of an inviscid gas with photons. We show the existence of smooth traveling waves called 'shock profiles', when the strength of the shock is small. Moreover, we prove that the regularity of the traveling wave increases when the strength of the shock tends to zero.

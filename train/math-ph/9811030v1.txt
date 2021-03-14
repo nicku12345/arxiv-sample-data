@@ -1,0 +1,1 @@
+The irreducible bases of the group space of the icosahedral double groups {\bf I'} and {\bf I_{h}'} are calculated explicitly. Applying those bases on the spin states |j,\mu>, we present a simple formula to combine the spin states into the symmetrical adapted bases, belonging to a given row of a given irreducible representations of {\bf I'} and {\bf I_{h}'}.

@@ -1,0 +1,1 @@
+I show that there exist minimal interval exchange transformations with an ergodic measure whose Hausdorff dimension is arbitrarily small, even 0. I will also show that in particular cases one can bound the Hausdorff dimension between \frac 1 {2r+4} and \frac 1 r for any r greater than 1.

@@ -1,0 +1,1 @@
+A theorem of Myasnikov and Roman'kov says that any verbally closed subgroup of a finitely generated free group is a retract. We prove that all free (and many virtually free) verbally closed subgroups are retracts in any finitely generated group.

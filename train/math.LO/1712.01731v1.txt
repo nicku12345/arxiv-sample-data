@@ -1,0 +1,1 @@
+Dmitriy Zhuk has proved that there exist relational structures which admit near-unanimity polymorphisms, but the minimum arity of such a polymorphism is large and almost matches the known upper bounds. We present a simplified and explicit construction of such structures and a detailed, self-contained proof.

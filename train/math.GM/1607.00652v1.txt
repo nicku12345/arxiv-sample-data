@@ -1,0 +1,1 @@
+This paper serves as an example to show the way we pass from ordered groupoids (ordered semigroups) to ordered hypergroupoids (ordered hypersemigroups), from groupoids (semigroups) to hypergroupoids (hypersemigroups). The results on semigroups (or on ordered semigroup) can be transferred to hypersemigroups (or to ordered hypersemigroups) in the way indicated in the present paper.

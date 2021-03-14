@@ -1,0 +1,1 @@
+We prove, in standard notation from spectral theory, the asymptotic formula (B>0)  \sum_{\kappa_j\le T}\alpha_j H_j(1/2) = ({T\over\pi})^2 - BT\log T + O(T(\log T)^{1/2}),  by using an approximate functional equation for H_j(1/2) and the Bruggeman--Kuznetsov trace formula. We indicate how the error term may be improved to O(T(\log T)^\epsilon).

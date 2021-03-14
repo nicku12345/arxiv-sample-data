@@ -1,0 +1,1 @@
+We introduce a version of the Brauer--Wall group for Real vector bundles of algebras (in the sense of Atiyah), and compare it to the topological analogue of the Witt group. For varieties over the reals, these invariants capture the topological parts of the Brauer--Wall and Witt groups.

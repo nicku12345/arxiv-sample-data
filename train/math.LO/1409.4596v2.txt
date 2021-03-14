@@ -1,0 +1,1 @@
+We outline a portfolio of novel iterable properties of c.c.c. and proper forcing notions and study its most important instantiations, Y-c.c. and Y-properness. These properties have interesting consequences for partition-type forcings and anticliques in open graphs. Using Neeman's side condition method it is possible to obtain PFA variations and prove consistency results for them.

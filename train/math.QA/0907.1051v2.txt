@@ -1,0 +1,1 @@
+We develop a symbolic computational approach to classifying low-rank modular categories.   We use this technique to classify pseudo-unitary modular categories of rank at most 5 that are non-self-dual, i.e. those for which some object is not isomorphic to its dual object.

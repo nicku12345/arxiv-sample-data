@@ -1,0 +1,1 @@
+Every AF-algebra arises as a graph algebra in the sense of Kumjian, Pask, Raeburn, and Renault. For AF-algebras, the diagonal subalgebra defined by Stratila and Voiculescu is consistent with Kumjian's notion of diagonal, and the groupoid arising from a well-chosen Bratteli diagram for A coincides with Kumjian's twist groupoid constructed from a diagonal of A.

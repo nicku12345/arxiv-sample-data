@@ -1,0 +1,1 @@
+Markov diagrams provide a way to understand the structures of topological dynamical systems. We examine the construction of such diagrams for subshifts, including some which do not have any nontrivial Markovian part, in particular Sturmian systems and some substitution systems.

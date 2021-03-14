@@ -1,0 +1,1 @@
+We revisit the diffusive limit of a steady neutron transport equation in a 2-D unit disk with one-speed velocity. We show the classical result in [4] with Milne expansion is incorrect in L^{\infty} and we give the right answer in studying the \epsilon-Milne expansion with geometric correction.

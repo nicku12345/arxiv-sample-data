@@ -1,0 +1,1 @@
+We show that semigroup C*-algebras attached to ax+b-semigroups over rings of integers determine number fields up to arithmetic equivalence, under the assumption that the number fields have the same number of roots of unity. For finite Galois extensions, this means that the semigroup C*-algebras are isomorphic if and only if the number fields are isomorphic.

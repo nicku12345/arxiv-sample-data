@@ -1,0 +1,1 @@
+Lannes' T-functor is used to give a construction of the Singer functor R_1 on the category U of unstable modules over the Steenrod algebra A. This leads to a direct proof that the composite functor Fix R_1 is naturally equivalent to the identity. Further properties of the functors R_1 are deduced, especially when applied to reduced and nilclosed unstable modules.

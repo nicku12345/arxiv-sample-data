@@ -1,0 +1,1 @@
+We consider the configuration space of planar n-gons with fixed perimeter, which is diffeomorphic to the complex projective space \mathbb{C}P^{n-2}. The oriented area function has the minimal number of critical points on the configuration space. We describe its critical points (these are regular stars) and compute their indices when they are Morse.

@@ -1,0 +1,1 @@
+We present a connected version of the compact L-space constructed by Kenneth Kunen under CH. We show that this provides a Corson compact space K such that the Banach space C(K) is isomorphic to no space of continuous function on a zero-dimensional compactum.

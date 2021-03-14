@@ -1,0 +1,1 @@
+Let A_{i}\ (i=1, 2, ..., k) be bounded linear operators on a Hilbert space. This paper aims to show characterizations of operator order A_{k}\geq A_{k-1}\geq...\geq A_{2}\geq A_{1}>0 in terms of operator inequalities. Afterwards, an application of the characterizations is given to operator equalities due to Douglas's majorization and factorization theorem.

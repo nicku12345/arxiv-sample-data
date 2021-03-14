@@ -1,0 +1,1 @@
+We study criteria for freeness and for the existence of a vanishing line for modules over certain Hopf subalgebras of the motivic Steenrod algebra over \mathrm{Spec}(\mathbb{C}) at the prime 2. These turn out to be determined by the vanishing of certain Margolis homology groups in the quotient Hopf algebra \mathcal{A}/\tau.

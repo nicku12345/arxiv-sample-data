@@ -1,0 +1,1 @@
+In this article, we use a Berndtsson-Andersson operator and the Bergman metric in order to solve the \bar\partial equation on convex domains of finite type for forms satisifying a Carleson condition and get norm estimates of the solution in term of the Carleson norm.

@@ -1,0 +1,1 @@
+If (G_1, G_2) is a dual reductive pair of type I in Sp(W), it is known that the degree 8 metaplectic cover of Sp(W) splits over G_1G_2, with one obvious exception. In this paper we replace G_1G_2 by a larger subgroup obtained via similitude groups, and show that the degree 8 metaplectic cover splits, with the same obvious exception.

@@ -1,0 +1,1 @@
+We study the algebraic K-theory and Grothendieck-Witt theory of proto-exact categories, with a particular focus on classes of examples of \mathbb{F}_1-linear nature. Our main results are analogues of theorems of Quillen and Schlichting, relating the K-theory or Grothendieck-Witt theories of proto-exact categories defined using the (hermitian) Q-construction and group completion.

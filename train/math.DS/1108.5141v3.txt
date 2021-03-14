@@ -1,0 +1,1 @@
+This paper has a flaw in an argument that uses the weak-* convergence of measures. The paper was replaced by "Entropy and Its Variational Principle for Locally Compact Metrizable Systems", by the same authors.

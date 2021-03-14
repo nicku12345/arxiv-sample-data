@@ -1,0 +1,1 @@
+We prove Euler-Lagrange type equations and transversality conditions for generalized infinite horizon problems of the calculus of variations on time scales. Here the Lagrangian depends on the independent variable, an unknown function and its nabla derivative, as well as a nabla indefinite integral that depends on the unknown function.

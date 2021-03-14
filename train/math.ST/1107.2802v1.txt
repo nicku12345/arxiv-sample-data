@@ -1,0 +1,1 @@
+In this paper we study the limiting distributions of the least-squares estimators for the non-stationary first-order threshold autoregressive (TAR(1)) model. It is proved that the limiting behaviors of the TAR(1) process are very different from those of the classical unit root model and the explosive AR(1).

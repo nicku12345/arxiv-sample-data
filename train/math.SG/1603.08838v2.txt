@@ -1,0 +1,1 @@
+In this paper we show that for a generic strictly convex domain, one can recover the eigendata corresponding to Aubry-Mather periodic orbits of the induced billiard map, from the (maximal) marked length spectrum of the domain.

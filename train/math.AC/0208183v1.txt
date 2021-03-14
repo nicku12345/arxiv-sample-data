@@ -1,0 +1,1 @@
+We study a certain truncation of the ring of arithmetical functions with unitary convolution, consisting of functions vanishing on arguments >n. The truncations are artinian monomial quotients of a polynomial ring in finitely many indeterminates, and are isomorphic to the ``artinified'' Stanley-Reisner rings of certain simplicial complexes.

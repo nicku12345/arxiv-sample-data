@@ -1,0 +1,1 @@
+Given a prime p and a natural number n, we provide simple divisibility criterions that determine whether all solvable group of order n have a nontrivial normal p-subgroup, or there is exactly one group of order n without nontrivial normal p-subgroups.

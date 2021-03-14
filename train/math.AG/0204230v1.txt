@@ -1,0 +1,1 @@
+We discuss an algorithm computing the push-forward to projective space of several classes associated to a (possibly singular, reducible, nonreduced) projective scheme. For example, the algorithm yields the topological Euler characteristic of the support of a projective scheme S, given the homogeneous ideal of S. The algorithm has been implemented in Macaulay2.

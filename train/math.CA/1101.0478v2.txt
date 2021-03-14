@@ -1,0 +1,1 @@
+We introduce a maximal operator for the natural analogue of the disc multiplier in the framework of Jacobi analysis and determine the mapping properties of said maximal operator, including weak type endpoint results. In particular we obtain sharp information on the almost everywhere convergence of the inverse Jacobi transform.

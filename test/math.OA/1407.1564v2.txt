@@ -1,0 +1,1 @@
+A theorem of Thompson provides a non-self-adjoint variant of the classical Schur-Horn theorem by characterizing the possible diagonal values of a matrix with given singular values. We prove an analogue of Thompson's theorem for II_1 factors.

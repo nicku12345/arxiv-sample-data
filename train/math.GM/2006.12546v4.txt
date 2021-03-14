@@ -1,0 +1,1 @@
+In this note, we demonstrate the Riemann Hypothesis via Robin's criterion concerning the magnitude of \sigma(n):=\sum_{d\mid n} d. Our approach is particularly concerned with extraordinary n.

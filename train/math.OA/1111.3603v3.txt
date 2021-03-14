@@ -1,0 +1,1 @@
+A reflexive hereditarily indecomposable Banach space \mathfrak{X}_{_{^\text{ISP}}} is presented, such that for every Y infinite dimensional closed subspace of \mathfrak{X}_{_{^\text{ISP}}} and every bounded linear operator T:Y\rightarrow Y, the operator T admits a non-trivial closed invariant subspace.

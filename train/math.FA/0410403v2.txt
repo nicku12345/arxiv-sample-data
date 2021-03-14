@@ -1,0 +1,1 @@
+We construct a multiresolution theory for spaces bigger then L^2(R). For a good choice of the dilation and translation operators on these larger spaces, it is possible to build singly generated wavelet bases, thus obtaining examples of "super-wavelets"

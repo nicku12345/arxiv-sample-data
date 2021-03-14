@@ -1,0 +1,1 @@
+A simple integration by parts and telescopic cancellation leads to a rigorous derivation of the first 2 terms for the error in Ramanujan's asymptotic series for the nth partial sum of the harmonic series. Then Kummer's transformation gives three more terms and a rigorous error estimate. Finally best-possible estimates of Lodge's approximations.

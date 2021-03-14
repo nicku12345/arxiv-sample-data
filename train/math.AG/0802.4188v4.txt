@@ -1,0 +1,1 @@
+We study linear functions on fibrations whose central fibre is a linear free divisor. We analyse the Gauss-Manin system associated to these functions, and prove the existence of a primitive and homogenous form. As a consequence, we show that the base space of the semi-universal unfolding of such a function carries a Frobenius manifold structure.

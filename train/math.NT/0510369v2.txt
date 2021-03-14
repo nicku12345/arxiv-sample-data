@@ -1,0 +1,1 @@
+To each i, j belonging to some set of integers, attach the integer a(i,j). Are there integers x(i) such that x(j)-x(i) is congruent to a(i,j) mod (i,j)? A necessary condition is that a(i,j)+a(j,k) be congruent to a(i,k) mod (i,j,k). This condition is sufficient.

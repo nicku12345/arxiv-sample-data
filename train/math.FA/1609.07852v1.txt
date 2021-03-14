@@ -1,0 +1,1 @@
+Let \alpha :\sqrt{x_{m}},\cdots ,\sqrt{x_{1}},(\sqrt{u},\sqrt{v},\sqrt{w}% )^{\wedge} be a backward m-step extension of a recursive weight sequence and let % W_{\alpha } be the weighted shift associated with \alpha . In this paper we characterize the semi-cubic hyponormality of W_{\alpha } having the positive determinant coefficient property and discuss some related examples.

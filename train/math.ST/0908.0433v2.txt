@@ -1,0 +1,1 @@
+Given a random sample from a parametric model, we show how indirect inference estimators based on appropriate nonparametric density estimators (i.e., simulation-based minimum distance estimators) can be constructed that, under mild assumptions, are asymptotically normal with variance-covarince matrix equal to the Cramer-Rao bound.

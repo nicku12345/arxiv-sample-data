@@ -1,0 +1,1 @@
+Herzog and Srinivasan have conjectured that for any homogeneous k-algebra, the degree is bounded above by a function of the maximal degrees of the syzygies. Combining the syzygy quadrangle decomposition of Peeva and Sturmfels and a delicate case analysis, we prove that this conjectured bound holds for codimension 2 lattice ideals.

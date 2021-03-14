@@ -1,0 +1,1 @@
+In this paper we explore the representation property over sets. This property generalizes constructibility, however is weak enough to enable us to prove that the class of theories T whose models are representable is exactly the class of stable theories. Stronger results are given for omega-stable.

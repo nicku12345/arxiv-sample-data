@@ -1,0 +1,1 @@
+We prove that any dominant morphism of algebraic varieties over a field k of characteristic zero can be transformed into a toroidal (hence monomial) morphism by projective birational modifications of source and target. This was previously proved by the first and third author when k is algebraically closed. Moreover we show that certain additional requirements can be satisfied.

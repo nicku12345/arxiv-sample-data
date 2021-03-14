@@ -1,0 +1,1 @@
+Using the technique of the metrization theorem of uniformities with countable bases, in this note we provide, test and compare an explicit algorithm to produce a metric d(x,y) between the vertices x and y of an affinity weighted undirected graph.

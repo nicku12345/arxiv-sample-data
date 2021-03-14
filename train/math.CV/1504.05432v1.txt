@@ -1,0 +1,1 @@
+Suppose that a smooth holomorphic curve V has order of contact \eta at a point w_0 in the boundary of a pseudoconvex domain \Omega in \mathbb{C}^3. We show that the maximal gain in H\"older regularity for solutions of the \bar{\partial}-equation is at most \frac{1}{\eta}.

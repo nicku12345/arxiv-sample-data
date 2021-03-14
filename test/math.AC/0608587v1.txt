@@ -1,0 +1,1 @@
+We extend the well-known Cassels-Tate dual exact sequence for abelian varieties A over global fields K in two directions: we treat the p-primary component in the function field case, where p is the characteristic of K, and we dispense with the hypothesis that the Tate-Shafarevich group of A is finite.

@@ -1,0 +1,1 @@
+We determine the Gelfand-Kirillov dimension of a weighted Leavitt path algebra L_K(E,w) where K is a field and (E,w) a finite weighted graph. Further we show that a finite-dimensional weighted Leavitt path algebra over a field K is isomorphic to a finite product of matrix rings over K.

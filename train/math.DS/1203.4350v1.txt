@@ -1,0 +1,1 @@
+We give a new proof for the directional billiard complexity in the cube, which was conjectured in \cite{Ra} and proven in \cite{Ar.Ma.Sh.Ta}. Our technique gives us a similar theorem for some rational polyhedra.

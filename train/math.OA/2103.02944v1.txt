@@ -1,0 +1,1 @@
+Let \mathcal{M} be a finite von Neumann algebra and u_1,\dots,u_N be unitaries in \mathcal{M}. We show that u_1,\dots,u_N freely generate L(\mathbb{F}_N) if and only if \left\|\sum_{i=1}^N u_i \otimes (u_i^{\mathrm{op}})^* + u_i^*\otimes u_i^{\mathrm{op}}\right\|_{\mathcal{M}\overline{\otimes}\mathcal{M}^{\mathrm{op}}} = 2\sqrt{2N - 1}.

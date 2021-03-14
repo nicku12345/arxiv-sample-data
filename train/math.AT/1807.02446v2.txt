@@ -1,0 +1,1 @@
+The evenness conjecture for the equivariant unitary bordism groups states that these bordism groups are free modules over the unitary bordism ring on even-dimensional generators. In this paper we review the cases in which the conjecture is known to hold and we highlight the properties that permit one to prove the conjecture in these cases.

@@ -1,0 +1,1 @@
+A real random variable admits median(s) and quantiles. These values minimize convex functions on \mathbb R. We show by "Convex Analysis" arguments that the function to be minimized is very natural. The relationship with some notions about functions of bounded variation developed by J.J.~Moreau is emphasized.

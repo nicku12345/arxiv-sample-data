@@ -1,0 +1,1 @@
+We classify dp-minimal pure fields up to elementary equivalence. Most are equivalent to Hahn series fields K((t^\Gamma)) where \Gamma satisfies some divisibility conditions and K is \mathbb{F}_p^{alg} or a local field of characteristic zero. We show that dp-small fields (including VC-minimal fields) are algebraically closed or real closed.

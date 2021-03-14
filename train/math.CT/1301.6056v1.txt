@@ -1,0 +1,1 @@
+We study the monoidal structure of the standard strictification functor \textrm{st}:\mathbf{Bicat} \rightarrow \mathbf{2Cat}. In doing so, we construct monoidal structures on the 2-category whose objects are bicategories and on the 2-category whose objects are 2-categories.

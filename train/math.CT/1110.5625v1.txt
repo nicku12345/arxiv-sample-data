@@ -1,0 +1,1 @@
+The concept of a morphism determined by an object provides a method to construct or classify morphisms in a fixed category. We show that this works particularly well for triangulated categories having Serre duality. Another application of this concept arises from a reformulation of Freyd's generating hypothesis.

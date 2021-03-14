@@ -1,0 +1,1 @@
+An algorithm for finding the eigenvalue of a nonnegative irreducible tensor was recently proposed by Michael Ng, Liqun Qi, and Guanglu Zhou in {\it Finding the largest eigenvalue of a nonnegative tensor}. However, the authors did not prove the proposed algorithm converges. In this paper, primitive tensors are defined and the algorithm is shown to converge for primitive tensors.

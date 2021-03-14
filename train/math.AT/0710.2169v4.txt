@@ -1,0 +1,1 @@
+In this note we define a lifting of a local torus action modeled on the standard representation (we call it a local torus action for simplicity) to a principal torus bundle, and show that there is an obstruction class for the existence of liftings in the first cohomology of the fundamental group of the orbit space with coefficients in a certain module.

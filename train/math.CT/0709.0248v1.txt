@@ -1,0 +1,1 @@
+This paper presents a novel connection between homotopical algebra and mathematical logic. It is shown that a form of intensional type theory is valid in any Quillen model category, generalizing the Hofmann-Streicher groupoid model of Martin-Loef type theory.

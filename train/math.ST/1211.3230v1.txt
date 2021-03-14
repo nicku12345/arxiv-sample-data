@@ -1,0 +1,1 @@
+The density function of the limiting spectral distribution of general sample covariance matrices is usually unknown. We propose to use kernel estimators which are proved to be consistent. A simulation study is also conducted to show the performance of the estimators.

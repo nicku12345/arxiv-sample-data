@@ -1,0 +1,1 @@
+Recurrent relations for branching coefficients are based on a special type of singular element decomposition. We show that this decomposition can be used to construct the parabolic Verma modules and finally to obtain the generalized Weyl-Verma formulas for characters. We demonstrate how branching coefficients can determine the generalized BGG resolution sequence.

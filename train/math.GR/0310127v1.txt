@@ -1,0 +1,1 @@
+We compute Aut(W) for any even Coxeter group whose Coxeter diagram is connected, contains no edges labeled 2, and cannot be separated into more than 2 connected components by removing a single vertex. The description is given explicitly in terms of the given presentation for the Coxeter group and admits an easy characterization of those groups W for which Out(W) is finite.

@@ -1,0 +1,1 @@
+Experiences with the implementation of strong Gr\"obner bases respectively standard bases for polynomial rings over principal ideal rings are explained: different strategies for creating the pair set, methods to avoid coefficient growth and a normal form algorithm for non-global orderings.

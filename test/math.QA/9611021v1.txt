@@ -1,0 +1,1 @@
+The problem of how to obtain quasi-classical states for quantum groups is examined. A measure of quantum indeterminacy is proposed, which involves expectation values of some natural quantum group operators. It is shown that within any finite dimensional irreducible representation, the highest weight vector and those unitarily related to it are the quasi-classical states.

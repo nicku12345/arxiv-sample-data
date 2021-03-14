@@ -1,0 +1,1 @@
+Let \{ R_n, {\mathfrak m}_n \}_{n \ge 0} be an infinite sequence of regular local rings with R_{n+1} birationally dominating R_n and {\mathfrak m}_nR_{n+1} a principal ideal of R_{n+1} for each n. We examine properties of the integrally closed local domain S = \bigcup_{n \ge 0}R_n.

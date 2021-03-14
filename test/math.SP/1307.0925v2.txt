@@ -1,0 +1,1 @@
+We prove estimates for the transport exponents associated with the weakly coupled Fibonacci Hamiltonian. It follows in particular that the upper transport exponent \tilde \alpha^\pm_u approaches the value one as the coupling goes to zero. Moreover, for sufficiently small coupling, \tilde \alpha^\pm_u strictly exceeds the fractal dimension of the spectrum.

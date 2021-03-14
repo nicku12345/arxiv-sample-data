@@ -1,0 +1,1 @@
+The two-parameter series over the critical zeros of the Riemann Zeta function   Re\sum_{\rho}\frac{x^{(\rho-a)/4a}}{\sqrt{\rho-a}\sinh[\frac{\pi}{2}\sqrt{\frac{\rho-a}{a}}]\zeta'(\rho)}   is evaluated in terms of \zeta(s) on the real axis.

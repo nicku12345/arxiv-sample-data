@@ -1,0 +1,1 @@
+The Sturm-Liouville operator with singular potentials on the lasso graph is considered. We suppose that the potential is known a priori on the boundary edge, and recover the potential on the loop from a part of the spectrum and some additional data. We prove the uniqueness theorem and provide a constructive algorithm for the solution of this partial inverse problem.

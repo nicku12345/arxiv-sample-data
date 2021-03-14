@@ -1,0 +1,1 @@
+Random increasing k-trees represent an interesting, useful class of strongly dependent graphs for which analytic-combinatorial tools can be successfully applied. We study in this paper a notion called connectivity-profile and derive asymptotic estimates for it; some interesting consequences will also be given.

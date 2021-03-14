@@ -1,0 +1,1 @@
+An explicit family of polynomials on the unit ball B^d of \RR^d is constructed, so that it is an orthonormal family with respect to the inner product    < f,g >   = \rho \int_{B^d}\nabla f(x)\cdot \nabla g(x) dx + \CL (fg),  where \rho >0, \nabla is the gradient, and \CL(fg) is either the inner product on the sphere S^{d-1} or f(0)g(0).

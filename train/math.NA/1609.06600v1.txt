@@ -1,0 +1,1 @@
+This paper gives a framework to produce the lower bound of eigenvalues defined in a Hilbert space by the eigenvalues defined in another Hilbert space. The method is based on using the max-min principle for the eigenvalue problems.

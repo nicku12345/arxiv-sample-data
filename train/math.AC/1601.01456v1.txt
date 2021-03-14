@@ -1,0 +1,1 @@
+In this paper, we introduce and generalize some combinatorial invariants of graphs such as matching number and induced matching number to hypergraphs. Then we compare them together and present some upper bounds for the regularity of Stanley-Reisner ring of \Delta_{\mathcal{H}} for certain hypergraphs \mathcal{H} in terms of the introduced matching numbers.

@@ -1,0 +1,1 @@
+Let u(x,t) be the solution of the Schr\"odinger or wave equation with L_2 initial data. We provide counterexamples to plausible conjectures involving the decay in t of the \BMO norm of u(t,\cdot). The proofs make use of random methods, in particular, Brownian motion.   (Since this paper was written, the unsolved problem remaining in this paper has been solved by Keel and Tao.)

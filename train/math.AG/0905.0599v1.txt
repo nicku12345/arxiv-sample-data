@@ -1,0 +1,1 @@
+In this note we prove that the sequence (3,d_2,d_3), where d_3>= d_2>= 3, is the multidegee of some tame automorphism of C^3, if and only if 3|d_2 or d_3 is a linaer combination of 3 and d_2 with coefficients in N.

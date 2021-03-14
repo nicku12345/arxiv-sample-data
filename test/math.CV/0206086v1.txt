@@ -1,0 +1,1 @@
+Let F be a polynomial endomorphism of \C^n which extends holomorphically to \P^n. We prove that the dimension of \mu_F, the pluriharmonic measure on the boundary of the filled Julia set of F, is bounded above by 2n-1.

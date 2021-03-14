@@ -1,0 +1,1 @@
+We prove that for an odd prime p, the derived category \mathcal{D}(KU_{(p)}) of the p-local complex periodic K-theory spectrum KU_{(p)} is triangulated equivalent to the derived category of its homotopy ring \pi_*KU_{(p)}. This implies that if p is an odd prime, the triangulated category \mathcal{D}(KU_{(p)}) is algebraic.

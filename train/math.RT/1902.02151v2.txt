@@ -1,0 +1,1 @@
+In this note, we show that the natural analogue of certain finiteness result of Barthel--Livn\acute{\text{e}} on GL_2 fails for GL_3. More precisely, within the pro-p-Iwahori invariants of a maximal compact induction of GL_3, we show there exist non-zero Iwahori--Hecke submodules of \emph{infinite} codimension.

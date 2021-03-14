@@ -1,0 +1,1 @@
+This paper provides conditions under which a non-stationary copula-based Markov process is \beta-mixing. We introduce, as a particular case, a convolution-based gaussian Markov process which generalizes the standard random walk allowing the increments to be dependent.

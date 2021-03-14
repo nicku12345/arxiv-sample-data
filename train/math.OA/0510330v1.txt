@@ -1,0 +1,1 @@
+Given a correspondence X over a C*-algebra A, we construct a C*-algebra and a Hilbert C*-bimodule over it whose crossed product is isomorphic to the augmented Cuntz-Pimsner C*-algebra of X. This construction enables us to establish a condition for two augmented Cuntz-Pimsner C*-algebras to be Morita equivalent.

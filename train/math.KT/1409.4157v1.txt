@@ -1,0 +1,1 @@
+We compute the algebraic K-theory of the non-commutative ring k<x_1,...,x_n>/(m^a) when k is a perfect field of positive characteristic and m=(x_1,...,x_n). We express the answer in terms of the truncation poset Witt vectors developed in [1].

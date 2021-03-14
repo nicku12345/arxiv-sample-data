@@ -1,0 +1,1 @@
+We propose a new channel model for channels with synchronization errors. Using this model, we give simple, non-trivial and, in some cases, tight lower bounds on the capacity for certain synchronization error channels.

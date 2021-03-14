@@ -1,0 +1,1 @@
+In this paper, I give a method to calculate the HOMFLY polynomials of knots by using a representation of the braid group B4 into a group of 3 ? 3 matrices. Also, I will give examples of a 2-bridge knot and a 3-bridge knot that have the same Jone polynomial, but different HOMFLY polynomials.

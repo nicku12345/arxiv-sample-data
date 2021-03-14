@@ -1,0 +1,1 @@
+This is a collection of example computations that are cited in the Appendix of [DNT]. In each case, the aim is to show that the extension of a given finite simple group by an elementary abelian group of given rank has the property that not all complex irreducible characters of the same degree are Galois conjugate.

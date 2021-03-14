@@ -1,0 +1,1 @@
+We prove Gaussian tail estimates for the transition probability of n particles evolving as symmetric exclusion processes on \bb Z^d, improving results obtained in \cite{l}. We derive from this result a non-equilibrium Boltzmann-Gibbs principle for the symmetric simple exclusion process in dimension 1 starting from a product measure with slowly varying parameter.

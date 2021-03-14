@@ -1,0 +1,1 @@
+We prove a determinantal type formula to compute the characters for a class of irreducible representations of the general Lie superalgebra \mathfrak{gl}(m|n) in terms of the characters of the symmetric powers of the fundamental representation and their duals. This formula was conjectured by J. van der Jeugt and E. Moens and was generalized the well-known Jacobi-Trudi formula.

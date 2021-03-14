@@ -1,0 +1,1 @@
+We extend our work on nonseparated interpolating sequences, originally developed for Bergman spaces with weights of the form (1 - |z|^2)^\alpha, to more general weights.

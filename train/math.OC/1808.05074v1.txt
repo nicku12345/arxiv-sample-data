@@ -1,0 +1,1 @@
+In this short note we show, providing counterexamples, that the "two important theorems" in the recent paper [Y, Yuan, Global optimization solutions to a class of non-convex quadratic minimization problems with quadratic constraints, in Canonical Duality Theory, D.Y. Gao et al.\ (eds), (AMMA, volume 37), Springer, 2017] are false.

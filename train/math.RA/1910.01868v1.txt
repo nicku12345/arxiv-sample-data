@@ -1,0 +1,1 @@
+We study systems of quadratic forms over fields and their isotropy over 2-extensions. We apply this to obtain particular splitting fields for quaternion algebras defined over a finite field extension. As a consequence, we obtain that every central simple algebra of degree 16 is split by a 2-extension of degree at most 2^{16}.

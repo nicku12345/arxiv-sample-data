@@ -1,0 +1,1 @@
+Size bias occurs famously in waiting-time paradoxes, undesirably in sampling schemes, and unexpectedly in connection with Stein's method, tightness, analysis of the lognormal distribution, Skorohod embedding, infinite divisibility, and number theory. In this paper we review the basics and survey some of these unexpected connections.

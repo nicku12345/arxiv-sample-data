@@ -1,0 +1,1 @@
+Simultaneous eigenfunctions of two Askey-Wilson second order difference operators are constructed as formal matrix coefficients of the principal series representation of the modular double of the quantized universal enveloping algebra U_q(sl(2,C)). These eigenfunctions are shown to be equal to Ruijsenaars' hypergeometric function under a proper parameter correspondence.

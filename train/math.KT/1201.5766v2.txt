@@ -1,0 +1,1 @@
+In this paper, we study the algebraic analogue of the topological Atiyah-Segal completion theorem. We verify this completion theorem for the algebraic equivariant K-theory of smooth projective schemes. We also show that the completion theorem fails in general for smooth non-projective schemes.

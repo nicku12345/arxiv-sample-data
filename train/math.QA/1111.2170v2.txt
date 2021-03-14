@@ -1,0 +1,1 @@
+We consider all genus zero and genus one correlation functions for the Virasoro vacuum descendants of a vertex operator algebra. These are described in terms of explicit generating functions that can be combinatorially expressed in terms of graph theory related to derangements in the genus zero case and to partial permutations in the genus one case.

@@ -1,0 +1,1 @@
+We demonstrate the usefulness of anholonomic frames in the contexts of nonholonomic and vakonomic systems. We take a consistently differential-geometric approach. As an application, we investigate the conditions under which the dynamics of the two systems will be consistent. A few illustrative examples confirm the results.

@@ -1,0 +1,1 @@
+A nest representation of a strongly maximal TAF algebra A is a representation \pi for which \operatorname{Lat} \pi(A) is totally ordered. We prove that if the spectrum of A is totally ordered, or if \operatorname{Lat} \pi(A) contains an atom, then \operatorname{ker} \pi is a meet irreducible ideal.

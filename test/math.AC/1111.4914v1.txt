@@ -1,0 +1,1 @@
+We introduce a certain class of so-called perfectoid rings and spaces, which give a natural framework for Faltings' almost purity theorem, and for which there is a natural tilting operation which exchanges characteristic 0 and characteristic p. We deduce the weight-monodromy conjecture in certain cases by reduction to equal characteristic.

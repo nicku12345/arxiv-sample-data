@@ -1,0 +1,1 @@
+We characterise the class of distributions of random stochastic matrices X with the property that the products X(n)X(n-1) ... X(1) of i.i.d. copies X(k) of X converge a.s. as n \rightarrow \infty and the limit is Dirichlet distributed. This extends a result by Chamayou and Letac (1994) and is illustrated by several examples that are of interest in applications.

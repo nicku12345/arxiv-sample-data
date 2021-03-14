@@ -1,0 +1,1 @@
+There exists just one regular polytope of rank larger than 3 whose full automorphism group is a projective general linear group PGL_2(q), for some prime-power q. This polytope is the 4-simplex and the corresponding group is PGL_2(5), which is isomorphic to S_5.

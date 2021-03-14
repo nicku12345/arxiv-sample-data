@@ -1,0 +1,1 @@
+We calculate the least upper bounds of pointwise and uniform approximations for classes of 2\pi-periodic functions expressible as convolutions of an arbitrary square summable kernel with functions, which belong to the unit ball of the space L_2, by linear polynomial methods constructed on the basis of their Fourier-Lagrange coefficients.

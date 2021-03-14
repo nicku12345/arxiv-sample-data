@@ -1,0 +1,1 @@
+We show asymptotic upper and lower bounds for the greatest common divisor of N and \sigma(N). We also show that there are infinitely many integers N with fairly large g.c.d. of N and \sigma(N).

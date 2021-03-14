@@ -1,0 +1,1 @@
+Information Geometry has been used to inspire efficient algorithms for stochastic optimization, both in the combinatorial and the continuous case. We give an overview of the authors' research program and some specific contributions to the underlying theory.

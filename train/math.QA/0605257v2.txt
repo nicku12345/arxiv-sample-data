@@ -1,0 +1,1 @@
+We consider circulant graphs having p vertices, with p prime. To any such graph we associate a certain number k, that we call type of the graph. We prove that for p>>k the graph has no quantum symmetry, in the sense that the quantum automorphism group reduces to the classical automorphism group.

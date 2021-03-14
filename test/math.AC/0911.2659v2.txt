@@ -1,0 +1,1 @@
+We show that determinantal varieties defined by maximal minors of a generic matrix have a non-commutative desingularization, in that we construct a maximal Cohen-Macaulay module over such a variety whose endomorphism ring is Cohen-Macaulay and has finite global dimension. In the case of the determinant of a square matrix, this gives a non-commutative crepant resolution.

@@ -1,0 +1,1 @@
+We consider the weak solution of the simplified Ericksen-Leslie system modeling compressible nematic liquid crystal flows in \mathbb R^3. When the initial data is small in L^2 and initial density is positive and essentially bounded, we first prove the existence of a global weak solution in \mathbb R^3. The large-time behavior of a global weak solution is also established.

@@ -1,0 +1,1 @@
+The differential equations for a continuous birepresentation of a local analytic Moufang loop are established. The commutation relations for the infinitesimal operators of the representation are found. These commutation relations can be seen as a (minimal) generalization of the Maurer-Cartan equations and do not depend on the particular birepresentation.

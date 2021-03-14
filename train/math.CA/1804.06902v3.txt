@@ -1,0 +1,1 @@
+We construct a trigonometric series converging to zero everywhere on a subsequence, with coefficients tending to zero. We show that any such series must satisfy that the subsequence is very sparse, and that the support of the related distribution is quite large.

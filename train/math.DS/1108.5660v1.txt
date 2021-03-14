@@ -1,0 +1,1 @@
+We prove that local rank of an ergodic symmetric power T^{\odot n} does not exceed n!n^{-n}. A. Katok's old results show that this upper bound is exact. We prove also that T^{\odot n} has infinite Rank as n>1.

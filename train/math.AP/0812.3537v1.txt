@@ -1,0 +1,1 @@
+We consider the long-time behavior of the entropy solution of a first-order scalar conservation law on a Riemannian manifold. In the case of the Torus, we show that, under a weak property of genuine non-linearity of the flux, the solution converges to its average value in L^{p}, 1\leq p<+\infty. We give a partial result in the general case.

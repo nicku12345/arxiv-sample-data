@@ -1,0 +1,1 @@
+Under spectral conditions, we prove a LLN type result for superdiffusions, where the convergence is meant in probability. The main tool is a space-time H-transformation.

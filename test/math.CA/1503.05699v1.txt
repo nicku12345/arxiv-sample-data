@@ -1,0 +1,1 @@
+We present a rather unknown version of the change of variables formula for non-autonomous functions. We will show that this formula is equivalent to Green's Theorem for regions of the plane bounded by the graphs of two continuously differentiable functions. Besides, the formula has interesting applications in the uniqueness of solution of ordinary differential equations.

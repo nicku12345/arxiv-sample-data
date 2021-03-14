@@ -1,0 +1,1 @@
+In this paper the inequality  \bigg( \int_0^{\infty} \bigg( \int_x^{\infty} \bigg( \int_t^{\infty} h \bigg)^q w(t)\,dt \bigg)^{r / q} u(x)\,ds \bigg)^{1/r}\leq C \,\int_0^{\infty} h v, \quad h \in {\mathfrak M}^+(0,\infty)  is characterized. Here 0 < q ,\, r < \infty and u,\,v,\,w are weight functions on (0,\infty).

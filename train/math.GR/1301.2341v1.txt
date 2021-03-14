@@ -1,0 +1,1 @@
+The commuting graph of a finite group with trivial centre is examined. It is shown that the connected components of the commuting graph have diameter at most 10.

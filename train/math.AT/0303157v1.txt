@@ -1,0 +1,1 @@
+The dual Kontsevich cycles in the double dual of associative graph homology correspond to polynomials in the Miller-Morita-Mumford classes in the integral cohomology of mapping class groups. I explain how the coefficients of these polynomials can be computed using Stasheff polyhedra and results from my previous paper GT/0207042.

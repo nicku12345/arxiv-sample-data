@@ -1,0 +1,1 @@
+We show that, up to multiplication by constants, a Gaussian process has an infinitely divisible square if and only if its covariance is the Green function of a transient Markov process.

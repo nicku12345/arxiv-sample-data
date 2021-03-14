@@ -1,0 +1,1 @@
+Let R be a ring with 1 and \J(R) its Jacobson radical. Then 1+\J(R) is a normal subgroup of the group of units, G(R). The existence of a complement to this subgroup was explored in a paper by Coleman and Easdown; in particular the ring R=\Mat_n(\Z_{p^k}) was considered. We prove the remaining cases to determine for which n, p and k a complement exists in this ring.

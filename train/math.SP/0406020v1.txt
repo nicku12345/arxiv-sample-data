@@ -1,0 +1,1 @@
+We consider the one-dimensional Stark-Wannier type operators with potentials given by a smooth function with a logarithmic growth at infinity plus a periodic function with the Fourier coefficients of the form (\ln |n|)^{-b}, 0<b<1/2. We prove that in the case of rational electric field the spectrum of the corresponding operator is purely singular continuous.

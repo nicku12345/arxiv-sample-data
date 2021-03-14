@@ -1,0 +1,1 @@
+We prove that the Hilbert geometry of a product of convex sets is bi-lipschitz equivalent the direct product of their respective Hilbert geometries. We also prove that the volume entropy is additive with respect to product and that amenability of a product is equivalent to the amenability of each terms.

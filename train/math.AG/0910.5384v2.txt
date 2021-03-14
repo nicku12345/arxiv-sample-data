@@ -1,0 +1,1 @@
+In this note we prove a conjecture of Kashiwara, which states that the Euler class of a coherent analytic sheaf F on a complex manifold X is the product of the Chern character of F with the Todd class of X. As a corollary, we obtain a functorial proof of the Grothendieck-Riemann-Roch theorem in Hodge cohomology for complex manifolds.

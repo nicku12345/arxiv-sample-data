@@ -1,0 +1,1 @@
+We introduce subspace rank as a tool for studying ranks of tensors and X-rank more generally. We derive a new upper bound for the rank of a tensor and determine the ranks of partially symmetric tensors in C^2 \otimes C^b \otimes C^b. We review the literature from a geometric perspective.

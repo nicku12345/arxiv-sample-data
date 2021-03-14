@@ -1,0 +1,1 @@
+In this paper, we prove that every 2-local derivation on Witt algebras W_n, W_n^+ or W_n^{++}  is a derivation for all n=1,2,\cdots,\infty. As a consequence we obtain that every 2-local derivation on any centerless generalized Virasoro algebra of higher rank is a derivation.

@@ -1,0 +1,1 @@
+We show that in the study of certain convolution operators, functions can be replaced by measures without changing the size of the constants appearing in weak type (1,1) inequalities. As an application, we prove that the best constants for the centered Hardy-Littlewood maximal operator associated to parallelotopes do not decrease with the dimension.

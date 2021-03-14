@@ -1,0 +1,1 @@
+We will present a new method, which enables us to find threshold functions for many properties in random intersection graphs. This method will be used to establish sharp threshold functions in random intersection graphs for k-connectivity, perfect matching containment and Hamilton cycle containment.

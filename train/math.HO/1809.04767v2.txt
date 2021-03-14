@@ -1,0 +1,1 @@
+We provide a proof of Wilson's Theorem and Wolstenholme's Theorem based on a direct approach by Lagrange requiring only basic properties of the primes and the Binomial theorem. The goal is to show how similar the two theorems are by providing the easiest proof possible in a single unified argument.

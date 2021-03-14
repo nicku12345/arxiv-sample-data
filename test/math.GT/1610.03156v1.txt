@@ -1,0 +1,1 @@
+In this short article I introduce the knotR package, which creates two dimensional knot diagrams optimized for visual appearance using the R programming language. The knotR package is a systematic R-centric suite of software for the creation of production-quality artwork of knot diagrams, released under GPL2.

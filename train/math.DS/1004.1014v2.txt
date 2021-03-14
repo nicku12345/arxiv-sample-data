@@ -1,0 +1,1 @@
+In this article, we improve previous results on exponential stability for analytic and Gevrey perturbations of quasi-convex integrable Hamiltonian systems. In particular, this provides a sharper upper bound on the speed of Arnold diffusion which we believe to be optimal.

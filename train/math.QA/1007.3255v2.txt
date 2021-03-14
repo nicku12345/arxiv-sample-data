@@ -1,0 +1,1 @@
+We define holomorphic structures on canonical line bundles on the quantum projective plane. The space of holomorphic sections of these line bundles will determine the quantum homogeneous coordinate ring of \qp^2_q. We also show that the holomorphic structure of \qp^2_q is naturally represented by a twisted positive Hochschild 4-cocycle.

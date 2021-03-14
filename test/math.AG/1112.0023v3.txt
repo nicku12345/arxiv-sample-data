@@ -1,0 +1,1 @@
+Our main observation is that the contravariant functor Spec on the category of commutative monoids is representable. We discuss a few consequences of this fact. In particular, we give an efficient way of calculating the Spec(M) of a finitely generated monoid explicitly.

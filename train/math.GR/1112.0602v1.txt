@@ -1,0 +1,1 @@
+In this note, we provide a different proof of Hill's criterion of freeness for abelian groups. Our proof hinges on the construction of suitable families of subgroups of the links in Hill's theorem and, ultimately, on the construction of such a family of pure subgroups of the group itself.

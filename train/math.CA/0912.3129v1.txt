@@ -1,0 +1,1 @@
+The aim of this paper is to show that, in various situations, the only continuous linear map that transforms a convolution product into a pointwise product is a Fourier transform. We focus on the cyclic groups \Z/nZ, the integers \Z, the Torus \T and the real line. We also ask a related question for the twisted convolution.

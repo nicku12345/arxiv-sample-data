@@ -1,0 +1,1 @@
+We present several results on smoothness in L_{p} sense of filtering densities under the Lipschitz continuity assumption on the coefficients of a partially observable diffusion processes. We obtain them by rewriting in divergence form filtering equation which are usually considered in terms of formally adjoint to operators in nondivergence form.

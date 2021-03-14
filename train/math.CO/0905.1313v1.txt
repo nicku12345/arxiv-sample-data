@@ -1,0 +1,1 @@
+We give results on the question of code optimality for linear codes over finite Frobenius rings for the homogeneous weight. This article improves on the existing Plotkin bound derived in an earlier paper, and suggests a version of a Singleton bound. We also present some families of codes meeting these new bounds.

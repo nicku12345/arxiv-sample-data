@@ -1,0 +1,1 @@
+N.Wallach has considered an element of the group algebra of the symmetric group S_n which is the sum of an n-cycle, an (n-1)-cycle,...,a 2-cycle and the identity. He showed that multiplication by this element has eigenvalues 0,1,2,...,n-2,n. We prove a q-analogue of this result in which the group algebra of S_n is replaced by the corresponding Hecke algebra.

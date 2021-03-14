@@ -1,0 +1,1 @@
+In this paper, we prove that both topological Hochschild homology and topological cyclic homology are sheaves for the fpqc topology on connective commutative ring spectra, by exploiting the May filtration on topological Hochschild homology.

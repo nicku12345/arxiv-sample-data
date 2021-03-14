@@ -1,0 +1,1 @@
+For any given natural number k, this paper gives upper bounds on the radius of a packing of a complete hyperbolic surface of finite area by k equal-radius disks in terms of the surface's topology. We show that the bounds given here are sharp in some cases and not sharp in others.

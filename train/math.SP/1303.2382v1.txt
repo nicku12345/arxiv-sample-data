@@ -1,0 +1,1 @@
+We show that the ground state of a polaron in a homogeneous magnetic field B and its energy are described by an effective one-dimensional minimization problem in the limit B\to\infty. This holds both in the linear Fr\"ohlich and in the non-linear Pekar model and makes rigorous an argument of Kochetov, Leschke and Smondyrev.

@@ -1,0 +1,1 @@
+We show by example that the associative law does not hold for tensor products in the category of general (not necessarily locally convex) topological vector spaces. The same pathology occurs for tensor products of Hausdorff abelian topological groups.

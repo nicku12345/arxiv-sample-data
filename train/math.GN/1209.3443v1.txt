@@ -1,0 +1,1 @@
+We prove that, for any Hausdorff continuum X, if dim X > 1 then the hyperspace C(X) of subcontinua of X is not a C-space; if dim X = 1 and X is hereditarily indecomposable then dim C(X) = 2 or C(X) is not a C-space. This generalizes results known for metric continua.

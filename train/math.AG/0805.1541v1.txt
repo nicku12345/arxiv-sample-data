@@ -1,0 +1,1 @@
+We show that the algebraic group SL(2) acts on any polarized abelian variety A through correspondences. As a consequence we recover the action of SL(2) on the Chow group CH(A) (with rational coefficients), and this gives rise to Lefschetz type properties for algebraic cycles on A .

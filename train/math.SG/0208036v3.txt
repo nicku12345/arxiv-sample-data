@@ -1,0 +1,1 @@
+We show that \mathfrak{aff}(n), the Lie algebra of affine transformations of {\mathbb R}^n, is formally and analytically nondegenerate in the sense of A. Weinstein. This means that every analytic (resp., formal) Poisson structure vanishing at a point with a linear part corresponding to \mathfrak{aff}(n) is locally analytically (resp., formally) linearizable.

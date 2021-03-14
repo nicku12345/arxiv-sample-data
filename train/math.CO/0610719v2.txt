@@ -1,0 +1,1 @@
+We enumerate staircases with fixed left and right columns. These objects correspond to ice-configurations, or alternating sign matrices, with fixed top and bottom parts. The resulting partition functions are equal, up to a normalization factor, to some Schubert polynomials.

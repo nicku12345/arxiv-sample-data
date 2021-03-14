@@ -1,0 +1,1 @@
+We formulate and prove a version of Paley-Wiener theorem for the inverse Fourier transform on non-compact Riemannian symmetric spaces and Heisenberg groups. The main ingredient in the proof is the Gutzmer's formula.

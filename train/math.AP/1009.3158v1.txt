@@ -1,0 +1,1 @@
+Let \O be a smooth bounded domain in \R^N with N\ge 1. In this paper we study the Hardy-Poincar\'e inequalities with weight function singular at the boundary of \O. In particular we give sufficient conditions so that the best constant is achieved.

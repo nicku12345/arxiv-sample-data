@@ -1,0 +1,1 @@
+Let T be an arbitrary L^2 bounded Calderon--Zygmund operator, and T_# its maximal truncated version. Then T_# satisfies the following bound for all 1<p<\infty and all weights w\in A_p: \|T_# \|_{L^p(w)} << [w]_{A_p}^{1/p} {[w]_{A_infty}^{1/p'}+[w^{1-p'}]_{A_infty}^{1/p}}.

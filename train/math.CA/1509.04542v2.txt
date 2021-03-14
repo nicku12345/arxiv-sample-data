@@ -1,0 +1,1 @@
+We give the asymptotic distribution of the zeros of Jacobi-Pi\~neiro polynomials and multiple Laguerre polynomials of the first kind. We use the nearest neighbor recurrence relations for these polynomials and a recent result on the ratio asymptotics of multiple orthogonal polynomials. We show how these asymptotic zero distributions are related to the Fuss-Catalan distribution.

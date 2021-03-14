@@ -1,0 +1,1 @@
+We consider a Gaussian contamination (i.e., mixture) model where the contamination manifests itself as a change in variance. We study this model in various asymptotic regimes, in parallel with the work of Ingster (1997) and Donoho and Jin (2004), who considered a similar model where the contamination was in the mean instead.

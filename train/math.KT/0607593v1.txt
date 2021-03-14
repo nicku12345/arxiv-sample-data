@@ -1,0 +1,1 @@
+Let k be a field of arbitrary characteristic. Let S be a singular surface defined over k with multiple rational curve singularities and suppose that the Chow group of zero cycles of its normalisation \tilde{S} is finite dimensional. We give numerical conditions under which the Chow group of zero cycles of S is finite dimensional.

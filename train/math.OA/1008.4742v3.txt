@@ -1,0 +1,1 @@
+We get stationary solutions of a free stochastic partial differential equation. As an application, we prove equality of non-microstate and microstate free entropy dimensions under a Lipschitz like condition on conjugate variables, assuming also R^\omega\ embeddability. This includes an N-tuple of q-Gaussian random variables e.g. for |q|N\leq 0.13.

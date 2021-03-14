@@ -1,0 +1,1 @@
+Let a real Lie group G act on a C^\infty real manifold M. Assume that the action is C^\infty and that every nontrivial element of G has a nowhere dense fixpoint set in M. We show that, in~some higher order frame bundle F of M, there exists a G-invariant meager subset Z of F such that the G-action on F\backslash Z is free. A similar result holds for submanifold jet bundles.

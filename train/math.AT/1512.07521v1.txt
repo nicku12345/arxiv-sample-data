@@ -1,0 +1,1 @@
+In this article we develop the cotangent complex and (co)homology theories for spectral categories. Along the way, we reproduce standard model structures on spectral categories. As applications, we show that the invariants to descend to stable \infty-categories and we prove a stabilization result for spectral categories.

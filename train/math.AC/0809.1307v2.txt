@@ -1,0 +1,1 @@
+Let R be a commutative integral domain and let \star be a semistar operation of finite type on R, and I be a quasi-\star-ideal of R. We show that, if every minimal prime ideal of I is the radical of a \star-finite ideal, then the set \Min(I) of minimal prime ideals over I is finite.

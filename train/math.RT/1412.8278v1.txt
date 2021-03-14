@@ -1,0 +1,1 @@
+We give conditions on when a triangular matrix ring is Gorenstein of a given selfinjective dimension. We apply the result to the category algebra of a finite EI category. In particular, we prove that for a finite EI category, its category algebra is 1-Gorenstein if and only if the given category is free and projective.

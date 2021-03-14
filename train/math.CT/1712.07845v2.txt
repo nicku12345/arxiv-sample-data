@@ -1,0 +1,1 @@
+We prove that the homotopy prederivator of a cofibration category is equivalent to the homotopy prederivator of its associated quasi-category of frames, as introduced by Szumi\l{}o. We use this comparison result to deduce various abstract properties of the obtained prederivators.

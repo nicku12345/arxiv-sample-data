@@ -1,0 +1,1 @@
+We use Kashiwara's theory of crystal bases to study plactic monoids for U_{q}(so_{2n+1}) and U_{q}(so_{2n}). Simultaneously we describe a Schensted type correspondence in the crystal graphs of tensor powers of vector and spin representations and we derive a Jeu de Taquin for type B from the Sheats sliding algorithm.

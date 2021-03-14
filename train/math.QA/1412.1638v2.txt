@@ -1,0 +1,1 @@
+We study linear recurrence relations in the character solutions of Q-systems obtained from the Kirillov-Reshetikhin modules. We explain how known results on difference L-operators lead to a uniform construction of linear recurrences in many examples, and formulate certain conjectural properties predicted in general by this construcion.

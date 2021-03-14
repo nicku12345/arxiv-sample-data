@@ -1,0 +1,1 @@
+A general sieve method for groups is formulated. It enables one to "measure" subsets of a finitely generated group. As an application we show that if \Gamma is a finitely generated non virtually-solvable linear group of characteristic zero then the set of proper powers in \Gamma is exponentially small. This is a far reaching strengthening of the main result of \cite{HKLS}.

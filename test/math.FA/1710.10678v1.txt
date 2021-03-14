@@ -1,0 +1,1 @@
+We present an alternative solution to nonsingular cubic moment problems, using techniques that are expected to be useful for higher-degree truncated moment problems. In particular, we apply the theory of recursively determinate moment matrices to deal with a case of rank-increasing moment matrix extensions.

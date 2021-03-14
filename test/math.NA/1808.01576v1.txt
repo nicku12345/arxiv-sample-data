@@ -1,0 +1,1 @@
+We study the regularity of the solution to an obstacle problem for a class of integro-differential operators. The differential part is a second order elliptic operator, whereas the nonlocal part is given by the integral fractional Laplacian. The obtained smoothness is then used to design and analyze a finite element scheme.

@@ -1,0 +1,1 @@
+Consider a linear regression model with independent and identically normally distributed random errors. Suppose that the parameter of interest is a specified linear combination of the regression parameters. We prove that the usual confidence interval for this parameter is admissible within a broad class of confidence intervals.

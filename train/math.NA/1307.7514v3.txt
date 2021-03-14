@@ -1,0 +1,1 @@
+We consider two nonlinear El Nino Southern Oscillation (ENSO) model to obtain approximate solutions with differential transform method for the first time. Efficiency, accuracy and error rates of solutions are compared with analytic solution, variational iteration and adomian decomposition solutions on the given tables and figures.

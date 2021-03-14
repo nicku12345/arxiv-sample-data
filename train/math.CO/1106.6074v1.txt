@@ -1,0 +1,1 @@
+In this paper we show that for any k\geq2, there exist two universal constants C_k,D_k>0, such that for any finite subset A of positive real numbers with |AA|\leq M|A|, |kA|\geq \frac{C_k}{M^{D_k}}\cdot|A|^{\log_42k}.

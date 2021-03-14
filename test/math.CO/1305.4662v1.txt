@@ -1,0 +1,1 @@
+In a projective space we fix some set of points, a horizon, and investigate the complement of that horizon. We prove, under some assumptions on the size of lines, that the ambient projective space, together with its horizon, both can be recovered in that complement. Then we apply this result to show something similar for Grassmann spaces.

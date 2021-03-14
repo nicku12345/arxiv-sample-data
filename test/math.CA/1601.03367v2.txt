@@ -1,0 +1,1 @@
+In the case when the weight and its inverse belong to BMO(T), we prove the asymptotics of the monic orthogonal polynomials in L^p, 2<p<p_0. Immediate applications include the estimates on the uniform norm and asymptotics for the polynomial entropy.

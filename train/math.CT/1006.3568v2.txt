@@ -1,0 +1,1 @@
+We show, for a wide class of abelian categories relevant in representation theory and algebraic geometry, that the bounded derived categories have no non-trivial strongly finitely generated thick subcategories containing all perfect complexes. In order to do so we prove a strong converse of the Ghost Lemma for bounded derived categories.

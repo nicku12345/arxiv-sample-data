@@ -1,0 +1,1 @@
+We define a cocycle on the group of symplectic diffeomorphisms of a symplectic manifold and investigate its properties. The main applications are concerned with symplectic actions of discrete groups. For example, we give an alternative proof of the Polterovich theorem about the distortion of cyclic subgroups in finitely generated groups of Hamiltonian diffeomorphisms.

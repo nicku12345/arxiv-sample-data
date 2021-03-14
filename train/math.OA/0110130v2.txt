@@ -1,0 +1,1 @@
+Let G be a locally compact group with cocompact connected component. We prove that the assembly map from the topological \k-theory of G to the \k-theory of the reduced C^*-algebra of G is an isomorphism.

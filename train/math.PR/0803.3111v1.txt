@@ -1,0 +1,1 @@
+We present some results concerning the almost sure behaviour of the operator norm or random Toeplitz matrices, including the law of large numbers for the norm, normalized by its expectation (in the i.i.d. case). As tools we present some concentration inequalities for suprema of empirical processes, which are refinements of recent results by Einmahl and Li.

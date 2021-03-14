@@ -1,0 +1,1 @@
+We provide a series of examples of finite groups G and mod p representations V of G whose stable endomorphisms are all given by scalars such that V has a universal deformation ring R(G,V) which is large in the sense that R(G,V)/pR(G,V) is isomorphic to a power series algebra in one variable.

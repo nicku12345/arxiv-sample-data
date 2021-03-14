@@ -1,0 +1,1 @@
+In this short note we show that if we add predicate for a dense complete indiscernible sequence in a dependent theory then the result is still dependent. This answers a question of Baldwin and Benedikt and implies that every unstable dependent theory has a dependent expansion interpreting linear order.

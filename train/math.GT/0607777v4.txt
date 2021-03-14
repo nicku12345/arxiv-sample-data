@@ -1,0 +1,1 @@
+In this paper, we give an algorithm to compute the hat version of the Heegaard Floer homology of a closed oriented three-manifold. This method also allows us to compute the filtrations coming from a null-homologous link in a three-manifold.

@@ -1,0 +1,1 @@
+In this paper, we consider monomial curves in {\mathbb A}_k^3 parameterized by t \rightarrow (t^{2q +1}, t^{2q +1 + m}, t^{2q +1 +2 m}) where gcd( 2q+1,m)=1. The symbolic blowup algebras of these monomial curves is Gorenstein (\cite{goto-nis-shim}, \cite{goto-nis-shim-2}). We give a simple proof for the the Gorenstein property for the symbolic blowup algebras of these curves.

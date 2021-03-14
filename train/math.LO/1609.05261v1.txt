@@ -1,0 +1,1 @@
+The main goal of this article is to introduce BL-rings, i.e., commutative rings whose lattices of ideals can be equipped with a structure of BL-algebra. We obtain a description of such rings, and study the connections between the new class and well known classes such as multiplications rings, Baer rings, Dedekind rings.

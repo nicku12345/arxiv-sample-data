@@ -1,0 +1,1 @@
+The aim of this paper is to show that the automorphism and isometry groups of the suspension of B(H), H being a separable infinite dimensional Hilbert space, are algebraically reflexive. This means that every local automorphism, respectively local surjective isometry of C_0(\mathbb R)\otimes B(H) is an automorphism, respectively a surjective isometry.

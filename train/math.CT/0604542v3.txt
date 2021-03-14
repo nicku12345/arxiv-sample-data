@@ -1,0 +1,1 @@
+If a compact closed category has finite products or finite coproducts then it in fact has finite biproducts, and so is semi-additive.

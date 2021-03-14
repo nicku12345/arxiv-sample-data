@@ -1,0 +1,1 @@
+We lift an action of a torus \mathbb{T}^n on the spectrum of a continuous trace algebra to an action of a certain crossed module of Lie groups that is an extension of \mathbb{R}^n. We compute equivariant Brauer and Picard groups for this crossed module and describe the obstruction to the existence of an action of \mathbb{R}^n in our framework.

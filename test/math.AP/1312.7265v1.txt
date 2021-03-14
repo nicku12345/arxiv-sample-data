@@ -1,0 +1,1 @@
+In this paper, we give a criterion on the Cauchy data for the semilinear wave equations satisfying the null condition in \mathbb{R}^+\times\mathbb{R}^{3} such that the energy of the data can be arbitrarily large while the solution is still globally in time in the future.

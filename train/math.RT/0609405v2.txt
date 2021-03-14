@@ -1,0 +1,1 @@
+We derive a straightening-free algorithm that computes the canonical bases of any higher-level q-deformed Fock space.

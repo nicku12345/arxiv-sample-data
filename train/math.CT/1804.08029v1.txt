@@ -1,0 +1,1 @@
+We report on enumerating the triangulations of cyclic polytopes with the new software mptopcom. This is relevant for its connection with higher Stasheff-Tamari orders, which occur in category theory and algebraic combinatorics.

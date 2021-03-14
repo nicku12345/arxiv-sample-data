@@ -1,0 +1,1 @@
+If G is an omega-stable group with a normal definable subgroup H, then the Sylow-2-subgroups of G/H are the images of the Sylow-2-subgroups of G.

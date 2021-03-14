@@ -1,0 +1,1 @@
+We establish strong-type endpoint L^p(\mathbb R^d) \to L^q(\mathbb R^d) bounds for the operator given by convolution with affine arclength measure on polynomial curves for d \geq 4. The bounds established depend only on the dimension d and the degree of the polynomial.

@@ -1,0 +1,1 @@
+Locally conformal symplectic (l.c.s.) groupoids are introduced as a generalization of symplectic groupoids. We obtain some examples and we prove that l.c.s. groupoids are examples of Jacobi groupoids in the sense of \cite{IM}. Finally, we describe the Lie algebroid of a l.c.s. groupoid.

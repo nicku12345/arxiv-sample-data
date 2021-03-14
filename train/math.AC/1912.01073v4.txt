@@ -1,0 +1,1 @@
+We generalize an improved Lech bound, due to Huneke, Smirnov, and Validashti, for the Buchsbaum-Rim multiplicity and mixed multiplicity. We reduce the problem to the graded case and then to the polynomial ring case. There we use complete reductions, studied by Rees, to prove sharper bounds for the mixed multiplicity in low dimensions before proving the general case.

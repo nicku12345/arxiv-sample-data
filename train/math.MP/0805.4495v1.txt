@@ -1,0 +1,1 @@
+We propose new formulas for eigenvectors of the Gaudin model in the \sl(3) case. The central point of the construction is the explicit form of some operator P, which is used for derivation of eigenvalues given by the formula | w_1, w_2) = \sum_{n=0}^\infty P^n/n! | w_1, w_2,0>, where w_1, w_2 fulfil the standard well-know Bethe Ansatz equations.

@@ -1,0 +1,1 @@
+For fixed subgroups Fix(\phi) of automorphisms \phi on hyperbolic 3-manifold groups \pi_{1}(M), we observed that \text{rk}(Fix(\phi))<2\text{rk}(\pi_{1}(M)) and the constant 2 in the inequality is sharp; we also classify all possible groups Fix(\phi).

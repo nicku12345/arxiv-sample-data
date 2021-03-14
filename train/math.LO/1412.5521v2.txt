@@ -1,0 +1,1 @@
+Peano Arithmetic is known to be provably equivalent to reflection over Elementary Arithmetic. We prove a characterization of Predicative Analysis in the guise of ATR0 in terms of stronger reflection principles.

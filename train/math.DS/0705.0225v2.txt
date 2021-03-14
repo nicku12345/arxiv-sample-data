@@ -1,0 +1,1 @@
+In this announcement, we describe the solution in the C1 topology to a question asked by S. Smale on the genericity of trivial centralizers: the set of diffeomorphisms of a compact connected manifold with trivial centralizer residual in Diff^1 but does not contain an open and dense subset.

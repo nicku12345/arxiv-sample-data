@@ -1,0 +1,1 @@
+We prove upper bounds for the number of rational points on non-singular cubic curves defined over the rationals. The bounds are uniform in the curve and involve the rank of the corresponding Jacobian. The method used in the proof is a combination of the "determinant method" with an m-descent on the curve.

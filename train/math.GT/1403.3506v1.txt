@@ -1,0 +1,1 @@
+In this paper, we calculate the values of the E_6 state sum invariants for the lens spaces L(p,q). In particular, we show that the values of the invariants are determined by p \mod 12 and q \mod (p,12). As a corollary, we show that the E_6 state sum is a homotopy invariant for the oriented lens spaces.

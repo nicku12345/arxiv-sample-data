@@ -1,0 +1,1 @@
+Let \bf{G} be a connected reductive group with connected center defined over \mathbb{F}_q, with Frobenius morphism F. We parameterize all of the real-valued irreducible complex characters of {\bf G}^F using the Jordan decomposition of characters.

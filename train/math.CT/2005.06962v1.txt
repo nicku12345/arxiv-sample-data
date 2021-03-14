@@ -1,0 +1,1 @@
+In this article is studied the construction of free operads functor, for the symmetric and non-symmetric case. In order to do this, the operads are seen as monoids on the differential graded modules category. In the last part we show some properties between the associated functors of this construction that may help to better understand the mechanism in this process.

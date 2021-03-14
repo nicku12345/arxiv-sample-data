@@ -1,0 +1,1 @@
+We use recent results on algorithms for Markov decision problems to show that a canonical form for a generalized P-matrix can be computed, in some important cases, by a strongly polynomial algorithm.

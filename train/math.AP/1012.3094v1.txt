@@ -1,0 +1,1 @@
+The equivalence of three different definitions of viscosity solutions for the integro-differential equation with the L{\'e}vy operator is shown in this paper. The key is Lemma 2.1, in which we construct a sequence of the approximating test functions.

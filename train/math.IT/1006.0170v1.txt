@@ -1,0 +1,1 @@
+This paper presents a method to determine a set of basis polynomials from the extended Euclidean algorithm that allows Generalized Minimum Distance decoding of Reed-Solomon codes with a complexity of O(nd).

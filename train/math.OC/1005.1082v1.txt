@@ -1,0 +1,1 @@
+We show that minimizers of convex functions subject to almost all linear perturbations are nondegenerate. An analogous result holds more generally, for lower-C^2 functions.

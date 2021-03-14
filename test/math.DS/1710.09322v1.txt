@@ -1,0 +1,1 @@
+A classical theorem due to Borel asserts that any formal serie with real coefficients is the Taylor expansion of a germ of \mathcal{C}^{\infty}- {\rm function}. We study such a problem in the context of Lie algebras of vector fields or of groups of diffeomorphisms.

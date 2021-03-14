@@ -1,0 +1,1 @@
+We give a proof of local strong factorization of a birational extension of regular local rings (of equicharacteristic zero) along a valuation of rank 1 and maximal rational rank. This gives an alternate proof to the geometric proof of this Theorem by Karu. Our proof uses only linear algebra, and is in the spirit of Christensen's proof of this result in dimension 3.

@@ -1,0 +1,1 @@
+For a commutative ring R we investigate the property that the sets of minimal primes of finitely generated ideals of R is always finite. We prove this property passes to polynomial ring extensions (in an arbitrary number of variables) over R as well as to R-algebras which are finitely presented as R-modules.

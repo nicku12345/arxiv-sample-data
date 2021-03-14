@@ -1,0 +1,1 @@
+We use \diamondsuit to construct, for every \alpha\leq\omega_1 a sequential countably compact topological group of sequential order \alpha. This establishes the independence of the existence of sequential countably compact non Fr\'echet groups from the usual axioms of ZFC and answers several questions of D.~Shakhmatov.

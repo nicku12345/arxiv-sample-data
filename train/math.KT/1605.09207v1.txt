@@ -1,0 +1,1 @@
+A relationship between real, complex, and quaternionic vector fields on spheres is given by using a relationship between the corresponding standard inner products. The number of linearly independent complex vector fields on the standard (4n-1)-sphere is shown to be twice the number of linearly independent quaternionic vector fields plus d, where  d = 1 \mbox{ or } 3.

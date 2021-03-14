@@ -1,0 +1,1 @@
+We generalize the Arzel\`a-Ascoli theorem in the space of continuous maps on a compact interval with values in Euclidean N-space by providing a quantitative link between the Hausdorff measure of noncompactness in this space and a natural measure of non-uniform equicontinuity. The proof hinges upon a classical result of Jung's on the Chebyshev radius.

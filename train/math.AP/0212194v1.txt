@@ -1,0 +1,1 @@
+We investigate the continuity properties of the solution operator to the wave map system from the flat Minkowski space to a general nonflat target of arbitrary dimension, and we prove by an explicit class of counterexamples that this map is not uniformly continuous in the critical norms on any neighbourhood of zero.

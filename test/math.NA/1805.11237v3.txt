@@ -1,0 +1,1 @@
+We develop Chebyshev symplectic methods based on Chebyshev orthogonal polynomials of the first and second kind separately in this paper. Such type of symplectic methods can be conveniently constructed with the newly-built theory of weighted continuous-stage Runge-Kutta methods. A few numerical experiments are well performed to verify the efficiency of our new methods.

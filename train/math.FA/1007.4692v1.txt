@@ -1,0 +1,1 @@
+We prove that the Kalton-Peck twisted sum Z_2^n of n-dimensional Hilbert spaces has GL-l.u.st.\ constant of order \log n and bounded GL constant. This is the first concrete example which shows different explicit orders of growth in the GL and GL-l.u.st.\ constants. We discuss also the asymmetry constants of Z_2^n.

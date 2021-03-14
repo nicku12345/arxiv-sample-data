@@ -1,0 +1,1 @@
+For the set C(X) of real-valued continuous functions on a Tychonoff space X, the compact-open topology on C(X) is a "set-open topology". This paper studies the separation and countability properties of the space C(X) having the topology given by the join of the compact-open topology and an "open-set topology" called the open-point topology, that was introduced in [6].

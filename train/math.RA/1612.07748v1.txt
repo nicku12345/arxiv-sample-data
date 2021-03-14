@@ -1,0 +1,1 @@
+In 1970 Vaughan-Lee established that over an infinite field of characteristic two the ideal T[gl(2)] of all polynomial identities for the Lie algebra gl(2) is not finitely generated as a T-ideal. But a generating set for this ideal of polynomial identities was not found. We establish some generating set for the T-ideal T[gl(2)].

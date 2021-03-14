@@ -1,0 +1,1 @@
+Transmission expansion planning requires forecasts of demand for electric power and a model of the underlying physics, i.e., power flows. We present three approaches to deriving exact solutions to the transmission expansion planning problem in the alternating-current model, for a given load.

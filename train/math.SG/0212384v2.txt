@@ -1,0 +1,1 @@
+The rational cohomology of a coadjoint orbit {\cal O} is expressed as tensor product of the cohomology of other coadjoint orbits {\cal O}_k, with  \hbox{dim} {\cal O}_k< \hbox{dim} {\cal O}.

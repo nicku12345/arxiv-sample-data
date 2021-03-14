@@ -1,0 +1,1 @@
+In this short note we show the equivalence of Fourier expansion and Poisson summation approaches for the series approximation of the exponential function \exp ({-{t^2}/4}). The application of the Poisson summation formula is shown to reduce to that of the Fourier expansion method.

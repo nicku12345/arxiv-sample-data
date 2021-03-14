@@ -1,0 +1,1 @@
+Ganter and Kapranov associated a 2-character to 2-representations of a finite group. Elgueta classified 2-representations in the category of 2-vector spaces 2Vect_k in terms of cohomological data. We give an explicit formula for the 2-character in terms of this cohomological data and derive some consequences.

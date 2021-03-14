@@ -1,0 +1,1 @@
+We review the construction and a few properties of the S-basis, a simplex spline basis for the C^1 quadratic splines on the Powell-Sabin 12-split.

@@ -1,0 +1,1 @@
+We establish the homological foundations for studying polynomially bounded group cohomology, and show that the natural map from PH^*(G;Q) to H^*(G;Q) is an isomorphism for a certain class of groups.

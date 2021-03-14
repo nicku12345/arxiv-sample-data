@@ -1,0 +1,1 @@
+Let H_k be the one dimensional Hilbert transform computed in the direction (1,2^k) in the plane. We show that the maximal operator \sup_k |H_kf| maps L^p of the plane into itself for 1<p<\infty.   The same result with the Hilbert transform replaced by the one dimensional maximal function was proved by Nagel, Stein and Wainger in 1978.

@@ -1,0 +1,1 @@
+Cubature formulas, asymptotically optimal with respect to accuracy, are derived for calculating multidimensional weakly singular integrals. They are used for developing a universal code for calculating capacitances of conductors of arbitrary shapes.

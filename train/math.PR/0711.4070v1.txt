@@ -1,0 +1,1 @@
+We establish an upper bound on the asymptotic probability of an SLE(kappa) curve hitting two small intervals on the real line as the interval width goes to zero, for the range 4 < kappa < 8. As a consequence we are able to prove that the SLE curve intersected with the real line has Hausdorff dimension 2-8/kappa, almost surely.

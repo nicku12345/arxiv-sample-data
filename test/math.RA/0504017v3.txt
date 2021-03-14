@@ -1,0 +1,1 @@
+We give explicit formulae for operations in Hochschild cohomology which are analogous to the operations in the homology of double loop spaces. As a corollary we obtain that any brace algebra in finite characteristic is always a restricted Lie algebra.

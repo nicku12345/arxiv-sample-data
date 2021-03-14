@@ -1,0 +1,1 @@
+We provide a characterization for operator valued completely bounded linear maps on Hilbert C^*-modules in terms of \varphi-maps. Also, we show that for every operator valued completely positive map \varphi on a C^*-algebra \mathcal{A}, there is a unique (up to multiplication by a unitary operator) non-degenerate \varphi-map on each Hilbert \mathcal{A}-module.

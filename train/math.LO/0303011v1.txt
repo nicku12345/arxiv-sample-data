@@ -1,0 +1,1 @@
+The prenex fragments of first-order infinite-valued Goedel logics are classified. It is shown that the prenex Goedel logics characterized by finite and by uncountable subsets of [0, 1] are axiomatizable, and that the prenex fragments of all countably infinite Goedel logics are not axiomatizable.

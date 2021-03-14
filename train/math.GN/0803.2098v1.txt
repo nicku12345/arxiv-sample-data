@@ -1,0 +1,1 @@
+It is shown that the hyperspace of all nonempty closed subsets \Cld_{AW}(X) of a separable metric space X endowed with the Attouch-Wets topology is homeomorphic to a separable Hilbert space if and only if the completion of X is proper, locally connected and contains no bounded connected component, X is topologically complete and not locally compact at infinity.

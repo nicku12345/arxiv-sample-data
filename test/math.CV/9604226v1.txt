@@ -1,0 +1,1 @@
+The purpose of this work is to propose a mixed Hodge structure over a CR manifold. As you know, for a CR manifold, Kohn-Rossi cohomology is naturally introduced. However, the relation between Kohn-Rossi cohomology and De Rham cohomology is not so well understood, even in Tanaka's work. We discuss this point.

@@ -1,0 +1,1 @@
+The Ramanujan sum c_n(k) is defined as the sum of k-th powers of the primitive n-th roots of unity. We investigate arithmetic functions of r variables defined as certain sums of the products c_{m_1}(g_1(k))...c_{m_r}(g_r(k)), where g_1,..., g_r are polynomials with integer coefficients. A modified orthogonality relation of the Ramanujan sums is also derived.

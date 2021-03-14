@@ -1,0 +1,1 @@
+Using an approach of Bergh, we give an alternate proof of Bennett's result on lower bounds for non-negative matrices acting on non-increasing non-negative sequences in l^p when p \geq 1 and its dual version, the upper bounds when 0<p \leq 1. We also determine such bounds explicitly for some families of matrices.

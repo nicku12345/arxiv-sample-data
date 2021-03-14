@@ -1,0 +1,1 @@
+We give another proof that a reductive algebraic group is geometrically reductive. We show that a quotient of the semi-stable locus (by a linear action of a reductive algebraic group on a projective scheme) exists, and from this Haboush's Theorem (Mumford's Conjecture) follows.

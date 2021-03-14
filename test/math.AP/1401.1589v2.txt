@@ -1,0 +1,1 @@
+Here we describe a simple and fundamental approach to the maximal L^p regularity of parabolic equations, which only uses the concept of singular integrals of Volterra type. Knowledge of analytic semigroups, R-boundedness or H^\infty-functional calculus are not required.

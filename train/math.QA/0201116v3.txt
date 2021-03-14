@@ -1,0 +1,1 @@
+For smooth finite dimensional manifolds, we characterise gerbes with connection as functors on a certain surface cobordism category. This allows us to relate gerbes with connection to Turaev's 1+1-dimensional homotopy quantum field theories, and we show that flat gerbes are related to a specific class of rank one homotopy quantum field theories.

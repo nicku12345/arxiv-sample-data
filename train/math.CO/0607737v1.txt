@@ -1,0 +1,1 @@
+We present several non-commutative extensions of the MacMahon Master Theorem, further extending the results of Cartier-Foata and Garoufalidis-Le-Zeilberger. The proofs are combinatorial and new even in the classical cases. We also give applications to the \beta-extension and Krattenthaler-Schlosser's q-analogue.

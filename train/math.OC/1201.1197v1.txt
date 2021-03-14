@@ -1,0 +1,1 @@
+In this paper we deal with the local null controllability of the N-dimensional Navier-Stokes system with internal controls having one vanishing component. The novelty of this work is that no condition is imposed on the control domain.

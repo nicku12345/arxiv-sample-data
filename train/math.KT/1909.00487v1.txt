@@ -1,0 +1,1 @@
+We show that a finite dimensional monomial algebra satisfies the finite generation conditions of Snashall-Solberg for Hochschild cohomology if and only if it is Gorenstein. This gives, in the case of monomial algebras, the converse to a theorem of Erdmann-Holloway-Snashall-Solberg-Taillefer. We also give a necessary and sufficient combinatorial criterion for finite generation.

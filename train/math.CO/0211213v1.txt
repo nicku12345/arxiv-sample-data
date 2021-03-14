@@ -1,0 +1,1 @@
+A connection between permutations that avoid 4231 and a certain queueing discipline is established. It is proved that a more restrictive queueing discipline corresponds to avoiding both 4231 and 42513, and enumeration results for such permutations are given.

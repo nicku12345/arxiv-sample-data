@@ -1,0 +1,1 @@
+We study the Fano surface S of the Fermat cubic threefold. We prove that S is a degree 81 abelian cover of the degree 5 del Pezzo surface and that the complement of the union of 12 disjoint elliptic curves on S is a ball quotient. The lattice of this ball quotient is related to the Deligne-Mostow lattice number 1.

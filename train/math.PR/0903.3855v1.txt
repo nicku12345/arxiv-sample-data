@@ -1,0 +1,1 @@
+The integration-by-parts formula discovered by Malliavin for the Ito map on Wiener space is proved using the two-parameter stochastic calculus. It is also shown that the solution of a one-parameter stochastic differential equation driven by a two-parameter semimartingale is itself a two-parameter semimartingale.

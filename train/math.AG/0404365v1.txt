@@ -1,0 +1,1 @@
+We use twisted Fourier-Mukai transforms to study the relation between an abelian fibration on a holomorphic symplectic manifold and its dual fibration. Our reasoning leads to an equivalence between the derived category of coherent sheaves on one space and the derived category of twisted sheaves on the other space.

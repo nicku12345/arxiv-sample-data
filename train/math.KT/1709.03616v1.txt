@@ -1,0 +1,1 @@
+For an algebraic variety X we introduce generalized first Chern classes, which are defined for coherent sheaves on X with support in codimension p and take values in CH^p(X). We use them to provide an explicit formula for the differentials {d_2^p: E_2^{p,-p-1} \to E_2^{p+2, -p-2} \cong CH^{p+2}(X)} in the Quillen spectral sequence.

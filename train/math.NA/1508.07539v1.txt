@@ -1,0 +1,1 @@
+This draft concerns the error analysis of a collocation method based on the moving least squares (MLS) approximation for integral equations, which improves the results of [2] in the analysis part. This is mainly a translation from Persian of some parts of Chapter 2 of the author's PhD thesis in 2011.

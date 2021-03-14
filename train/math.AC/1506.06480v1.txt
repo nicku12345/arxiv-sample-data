@@ -1,0 +1,1 @@
+Let (R,\mathfrak{m}) be a two-dimensional regular local ring with infinite residue class field. Then the Rees algebra \mathcal{R} (I)= \bigoplus_{n \ge 0}I^n of I is an almost Gorenstein graded ring in the sense of Goto-Takahashi-Taniguchi for every \mathfrak{m}-primary integrally closed ideal I in R.

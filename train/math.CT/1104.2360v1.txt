@@ -1,0 +1,1 @@
+In this paper we show that the category of frames, and, thus, the cate- gory of locales is 'rigid'. This means that every endo-equivalence on them is isomorphic to the identity functor. To reach this result we prove new results concerning the number of automorphisms between frames and new results concerning the order preserving properties of endo-equivalences.

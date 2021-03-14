@@ -1,0 +1,1 @@
+A p-group G is p-central if the central quotient has exponent p. We prove that for a subset of finite p-central p-groups, the order of the group G divides the order of Aut(G).

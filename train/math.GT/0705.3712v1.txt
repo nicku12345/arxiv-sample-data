@@ -1,0 +1,1 @@
+We present a new proof of Reidemeister and Singer's Theorem that any two Heegaard splittings of the same 3-manifold have a common stabilization. The proof leads to an upper bound on the minimal genus of a common stabilization in terms of the number of negative slope inflection points and type-two cusps in a Rubinstein-Scharlemann graphic for the two splittings.

@@ -1,0 +1,1 @@
+We compute the 1-line of stable homotopy groups of motivic spheres over fields of characteristic not two in terms of hermitian and Milnor K-groups. This is achieved by solving questions about convergence and differentials in the slice spectral sequence.

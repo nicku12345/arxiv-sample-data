@@ -1,0 +1,1 @@
+We provide an explicit algorithm to calculate invariant tensors for the adjoint representation of the simple Lie algebra sl(n), as well as arbitrary representation in terms of roots. We also obtain explicit formulae for the adjoint representations of the orthogonal and symplectic Lie algebras so(n) and sp(n).

@@ -1,0 +1,1 @@
+In this study, we classify some soliton nilpotent Lie algebras and possible candidates in dimension 8 and 9 up to isomorphy. We focus on 1 < 2 < ::: < n type of derivations where n is the dimension of the Lie algebras. We present algorithms to generate possible algebra structures.

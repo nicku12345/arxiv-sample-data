@@ -1,0 +1,1 @@
+In this article we extend recent results by the first author on the necessity of BMO for the boundedness of commutators on the classical Lebesgue spaces. We generalize these results to a large class of Banach function spaces. We show that with modest assumptions on the underlying spaces and on the operator T, if the commutator [b,T] is bounded, then the function b is in BMO.

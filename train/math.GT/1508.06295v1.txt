@@ -1,0 +1,1 @@
+We prove that any knot or link in any 3-manifold can be nicely decomposed (splitted) by a filling Dehn sphere. This has interesting consequences in the study of branched coverings over knots and links. We give an algorithm for computing Johansson diagrams of filling Dehn surfaces out from coverings of 3-manifolds branched over knots or links.

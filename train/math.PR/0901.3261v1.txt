@@ -1,0 +1,1 @@
+This note illustrates how a simple random walk with possibly long jumps is related to fractional powers of the Laplace operator. The exposition is elementary and self-contained.

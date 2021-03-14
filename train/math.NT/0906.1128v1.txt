@@ -1,0 +1,1 @@
+We derive lattice invariants from the heat flux of a lattice. Using systems of harmonic polynomials, we obtain sums of products of spherical theta functions which give new invariants of integer lattices which are modular forms. In particular, we show that the modular forms \Theta_{nn,\Lambda} depend only from lengths and angles in the lattice.

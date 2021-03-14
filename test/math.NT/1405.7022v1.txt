@@ -1,0 +1,1 @@
+We estimate the number of solutions to |y^2 - x^3| \leq X with N \leq y \leq 2N, in terms of both N and X.

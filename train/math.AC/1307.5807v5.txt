@@ -1,0 +1,1 @@
+We give an algorithm to compute the \omega-primality of finitely generated atomic monoids. Asymptotic \w-primality is also studied and a formula to obtain it in finitely generated quasi-Archimedean monoids is proven. The formulation is applied to numerical semigroups, obtaining an expression of this invariant in terms of its system of generators.

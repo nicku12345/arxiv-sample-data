@@ -1,0 +1,1 @@
+For any irrational number \alpha, there exists an ergodic area preserving homeomorphism of the closed annulus which is isotopic to the identitity, admits no compact invariant set contained in the interior of the annulus, and has the rotation number \alpha.

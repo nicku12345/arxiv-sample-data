@@ -1,0 +1,1 @@
+We use G-stable pieces to construct some equidimensional varieties and as a consequence, obtain Lusztig's dimension estimates \cite[section 4]{L2}. This is a generalization of \cite{HL}.

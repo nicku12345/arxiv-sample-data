@@ -1,0 +1,1 @@
+This paper is devoted to the characterization of all finite dimensional nilpotent Lie algebras L with S^{2}(L)=0,1,2,3, where we define dim ~\mathcal{M}^{2}(L) = \dfrac{1}{3}n(n-1)(n-2)+3-S^{2}(L).

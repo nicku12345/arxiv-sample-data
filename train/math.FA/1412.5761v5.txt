@@ -1,0 +1,1 @@
+A continuous linear operator T:E \to F is called strictly singular if it cannot be invertible on any infinite dimensional closed subspace of its domain. In this note we discuss sufficient conditions and consequences of the phenomenon LB(E,F)=L_s(E,F), which means that every continuous linear bounded operator defined on E into F is strictly singular.

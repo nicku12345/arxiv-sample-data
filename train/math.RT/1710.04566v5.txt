@@ -1,0 +1,1 @@
+Let (W,S,L) be a weighted Coxeter system and J a subset of S, Yin [12] introduced the weighted W-graph ideal E_J and the weighted Kazhdan-Lusztig polynomials  \left \{ P_{x,y} \mid x,y\in E_J\right \}. In this paper, we study the combinatorial formulas for P_{x,y}, which will extend the results of Brenti [2] and Deodhar [5].

@@ -1,0 +1,1 @@
+In this paper we show a correspondence between directed graphs and bipartite undirected graphs with a perfect matching, that allows to study properties of directed graphs through the properties of the corresponding undirected graphs. In particular it is shown that a directed graph is transitive iff a corresponding undirected graph is Cohen-Macaulay.

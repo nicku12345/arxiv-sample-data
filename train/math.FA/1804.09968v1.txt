@@ -1,0 +1,1 @@
+We show that, if X is a closed subspace of a Banach space E and Z is a closed subspace of E^* such that Z is norming for X and X is total over Z (as well as X is norming for Z and Z is total over X), then X and the pre-annihilator of Z are complemented in E whenever Z is w^*-closed or X is reflexive.

@@ -1,0 +1,1 @@
+This paper is concerned with the Dynamic Programming Principle (DPP in short) with SDEs on Riemannian manifolds. Moreover, through the DPP, we conclude that the cost function is the unique viscosity solution to the related PDEs on manifolds.

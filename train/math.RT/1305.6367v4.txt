@@ -1,0 +1,1 @@
+We give Erdmann-Nakano type theorem for the finite quiver Hecke algebras R^{\Lambda_0}(\beta) of affine type D^{(2)}_{\ell+1}, which tells their representation type. If R^{\Lambda_0}(\beta) is not of wild representation type, we may compute its stable Auslander-Reiten quiver.

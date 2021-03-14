@@ -1,0 +1,1 @@
+In this paper we give the asymptotic behavior of type I multiple orthogonal polynomials for a Nikishin system of order two with two disjoint intervals. We use the Riemann-Hilbert problem for multiple orthogonal polynomials and the steepest descent analysis for oscillatory Riemann-Hilbert problems to obtain the asymptotic behavior in all relevant regions of the complex plane.

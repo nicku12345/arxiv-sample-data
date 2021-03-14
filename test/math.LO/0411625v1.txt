@@ -1,0 +1,1 @@
+Let G be a countable group. We proof that there is a model companion for the approximate theory of a Hilbert space with a group G of automorphisms. We show that G is amenable if and only if the structure induced by countable copies of the regular representation of G is existentially closed.

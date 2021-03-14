@@ -1,0 +1,1 @@
+We compute the Poisson cohomology of a class of Poisson manifolds that are symplectic away from a collection D of hypersurfaces. These Poisson structures induce a generalization of symplectic and cosymplectic structures, which we call a k-cosymplectic structure, on the intersection of hypersurfaces in D.

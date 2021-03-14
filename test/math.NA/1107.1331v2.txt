@@ -1,0 +1,1 @@
+We study numerical methods of tomography in domains with a reflecting obstacle. It will be shown that tomography with sets containing both broken rays, i.e. rays reflecting at the obstacle, as well as unbroken rays, has a smaller error between the original and reconstructed image compared to classical tomography methods.

@@ -1,0 +1,1 @@
+This work introduces a unified approach to the reduction of Poisson manifolds using their description by graded symplectic manifolds. This yields a generalization of the classical Poisson reduction by distributions (Marsden-Ratiu reduction). Further it allows one to construct actions of strict Lie 2-groups and to describe the corresponding reductions.

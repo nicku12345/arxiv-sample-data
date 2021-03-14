@@ -1,0 +1,1 @@
+Let A and B be rings, U a (B, A)-bimodule and T=\left(\begin{smallmatrix} A & 0 \\ U & B \\\end{smallmatrix}\right) be the triangular matrix ring. In this paper, we characterize the Gorenstein homological dimensions of modules over T, and discuss when a left T-module is strongly Gorenstein projective or strongly Gorenstein injective module.

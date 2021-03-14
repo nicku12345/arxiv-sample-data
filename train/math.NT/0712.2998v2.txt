@@ -1,0 +1,1 @@
+We construct a compact topological group Rl which contains both the real additive group R and the l-adic one Ql (for a given prime number l) as dense subgroups; thus we study some of its properties. This construction gives an arithmetic description of the so-called l-adic solenoid classically defined in terms of foliations.

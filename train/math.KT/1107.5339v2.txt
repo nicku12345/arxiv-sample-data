@@ -1,0 +1,1 @@
+We show that contracting self-similar groups satisfy the Farrell-Jones conjectures as soon as their universal contracting cover is non-positively curved. This applies in particular to bounded self-similar groups.   We define, along the way, a general notion of contraction for groups acting on a rooted tree in a not necessarily self-similar manner.

@@ -1,0 +1,1 @@
+In extending results from Lie to Leibniz algebras, it is helpful to have techniques which translate results from the former to the latter without having to repeat the (perhaps modified) arguments. Such a technique is developed in this work, and some applications are given.

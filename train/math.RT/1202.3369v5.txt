@@ -1,0 +1,1 @@
+To any pair of commuting n x n nilpotent matrices it is associated a pair of partitions of n. We describe a maximal nilpotent subalgebra of the centralizer of a given nilpotent n x n matrix and prove a conjecture of Polona Oblak which consists in an algorithm for the determination of the maximum partition which forms with a given partition a pair with the previous property.

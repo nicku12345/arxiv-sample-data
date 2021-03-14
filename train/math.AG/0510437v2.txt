@@ -1,0 +1,1 @@
+We explain how to construct a Frobenius structure on the parameter space of the universal unfolding of a Laurent polynomial using a result of C. Hertling and Y. Manin. This new approach greatly simplifies the (classic) one used in the paper "Gauss-Manin systems, Brieskorn lattices and Frobenius structures (I)", written with C. Sabbah.

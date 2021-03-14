@@ -1,0 +1,1 @@
+We show that if a link L with non-zero Alexander polynomial admits a locally flat cobordism to a `weakly m-split link', then the cobordism must have genus at least (m-1)/2. This generalises a recent result of J. Pardon.

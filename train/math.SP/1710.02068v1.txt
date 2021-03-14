@@ -1,0 +1,1 @@
+We consider a general second-order elliptic differential operator on a domain with a cylindrical end. We impose Dirichlet boundary conditions on the boundary with the exception of a small set, where we impose Neumann boundary conditions. Shrinking this set to a point we calculate the asymptotic behaviour of eigenvalues and resonances.

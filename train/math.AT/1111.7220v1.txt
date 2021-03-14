@@ -1,0 +1,1 @@
+The paper gives an answer to the question whether the Galois, separable or etale extension of an Eilenberg-MacLane spectrum in the category of ring spectra is again an Eilenberg-MacLane spectrum. We get a full answer in the Galois case. The question in separable and etale cases is answered only under additional hypothesis.

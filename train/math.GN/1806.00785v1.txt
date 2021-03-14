@@ -1,0 +1,1 @@
+We prove that a player \alpha has a winning strategy in the Banach--Mazur game on a space X if and only if X is F-Y countably \pi-domain representable. We show that Choquet complete spaces are F-Y countably domain representable. We give an example of a space, which is F-Y countably domain representable, but it is not F-Y \pi-domain representable.

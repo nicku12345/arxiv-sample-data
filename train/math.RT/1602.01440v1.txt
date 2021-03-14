@@ -1,0 +1,1 @@
+Using the results of Meyer and Solleveld on the resolutions of Schneider and Stuhler, we compute the character of every smooth representation of finite length and of depht 0 of a p-adic group. We prove that, in every strongly regular semi-simple point, the character is equal to some linear combination of weighted orbital integrals.

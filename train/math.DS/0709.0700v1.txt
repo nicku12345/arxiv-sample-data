@@ -1,0 +1,1 @@
+We consider a compact 3-dimensional boundaryless Riemannian manifold M and the set of divergence-free (or zero divergence) vector fields without singularities, then we prove that this set has a C1-residual such that any vector field inside it is Anosov or else its elliptical orbits are dense in the manifold M.

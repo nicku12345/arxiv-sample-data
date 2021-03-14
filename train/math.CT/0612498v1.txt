@@ -1,0 +1,1 @@
+We show that if \mathbf H is a Fitting pseudovariety of groups and \mathbf V is a local pseudovariety of monoids, then \mathbf {LH}m \mathbf V is local if either \mathbf V contains the six element Brandt monoid, or \mathbf H is a non-trivial pseudovariety of groups closed under extension.

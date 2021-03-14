@@ -1,0 +1,1 @@
+The Banach space L^p(X,\mu), for X a compact Hausdorff measure space, is considered as a special kind of quasi *-algebra (called CQ*-algebra) over the C*-algebra C(X) of continuous functions on X. It is shown that, for p \geq 2, (L^p(X,\mu), C(X)) is *-semisimple (in a generalized sense). Some consequences of this fact are derived.

@@ -1,0 +1,1 @@
+In this article we derive, using standard methods of Toeplitz theory, an asymptotic formula for certain large minors of Toeplitz matrices. D. Bump and P. Diaconis obtained the same asymptotics using representation theory, with an answer having a different form.

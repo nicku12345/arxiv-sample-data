@@ -1,0 +1,1 @@
+We show that the Pr\"ufer surface, which is a separable non-metrizable 2-manifold, has not the homotopy type of a CW-complex. This will follow easily from J. H. C. Whitehead's result: if one has a good approximation of an arbitrary space by a CW-complex, which fails to be a homotopy equivalence, then the given space is not homotopy equivalent to a CW-complex.

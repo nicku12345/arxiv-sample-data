@@ -1,0 +1,1 @@
+A work by Nicolas has shown that if it can be proven that a certain inequality holds for all n, the Riemann hypothesis is true. This inequality is associated with the Mertens theorem, and hence the Euler totient at \prod_{k=1}^n p_k, where n is any integer and p_n is the n-th prime. We shall show that indeed the Nicolas inequality holds for all n.

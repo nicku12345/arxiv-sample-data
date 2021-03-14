@@ -1,0 +1,1 @@
+In this paper we investigate the one-dimensional harmonic oscillator with a singular perturbation concentrated in one point. We describe all possible selfadjoint realizations and we show that for certain conditions on the perturbation exactly one negative eigenvalues can arise. This eigenvalue tends to -\infty as the perturbation becomes stronger.

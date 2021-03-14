@@ -1,0 +1,1 @@
+Let F_{n} be the n-th Fibonacci number. Put \varphi=\frac{1+\sqrt5}{2}. We prove that the following inequalities hold for any real \alpha:   1) \inf_{n \in \mathbb N} ||F_n\alpha||\le\frac{\varphi-1}{\varphi+2},   2) \liminf_{n\to \infty}||F_n\alpha||\le 1/5,   3) \liminf_{n \to \infty}||\varphi^n \alpha||\le 1/5.   These results are the best possible.

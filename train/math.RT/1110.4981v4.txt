@@ -1,0 +1,1 @@
+It is shown that the Euler characteristic \chi_{(\mathcal{H},\mathcal{B},\epsilon_q)} of a \mathbb{Z}[[q]]-Hecke algebra \mathcal{H} associated with a finitely generated Coxeter group (W,S) coincides with p_{(W,S)}(q)^{-1}, where p_{(W,S)}(t) is the Poincar\'e series of (W,S).

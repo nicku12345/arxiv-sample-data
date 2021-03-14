@@ -1,0 +1,1 @@
+In his famous paper [2], Demazure introduced certain indecomposable modules and used them to give a short proof of Bott's theorem. In this paper we consider a generalization of these modules and give their cohomology.

@@ -1,0 +1,1 @@
+We prove a local limit theorem for Lipschitz continuous observables on a weakly coupled lattice of piecewise expanding interval maps. The core of the paper is a proof that the spectral radii of the Fourier-transfer operators for such a system are strictly less than 1. This extends the approach of [KL2] where the ordinary transfer operator was studied.

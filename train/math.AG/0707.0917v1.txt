@@ -1,0 +1,1 @@
+Given an effective action of an (n-1)-dimensional torus on an n-dimensional normal affine variety, Mumford constructs a toroidal embedding, while Altmann and Hausen give a description in terms of a polyhedral divisor on a curve. We compare the fan of the toroidal embedding with this polyhedral divisor.

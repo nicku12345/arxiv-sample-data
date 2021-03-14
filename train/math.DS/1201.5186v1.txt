@@ -1,0 +1,1 @@
+We show that the supremum for c real of the Hausdorff dimension of the Julia set of the polynomial z\mapsto z^d+c (d is an even natural number) is greater than 2d/(d+1).

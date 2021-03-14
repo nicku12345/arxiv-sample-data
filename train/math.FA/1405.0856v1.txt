@@ -1,0 +1,1 @@
+In this paper, inspired by Iemoto and Takahashi [S. Iemoto, W. Takahashi, Nonlinear Analysis 71, (2009), 2082-2089], we study the Halpern's method to approximate strongly fixed points of a nonexpansive mapping and of a nonspreading mapping. A crucial tool in our results is the regularization with the averaged type mappings [C. Byrne, Inverse Probl. 20, (2004), 103-120].

@@ -1,0 +1,1 @@
+We prove that for any superatomic Boolean Algebra of cardinality >beth_omega there is an automorphism moving uncountably many atoms. Similarly for larger cardinals. Any of those results are essentially best possible.

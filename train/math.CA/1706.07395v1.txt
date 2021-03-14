@@ -1,0 +1,1 @@
+In this paper we analyse some possibilities of finding positive solutions for second order boundary value problems with Dirichlet and periodic boundary conditions, for which the correspondent Green's functions change sign. The obtained results can also be adapted to the Neumann and Mixed boundary conditions.

@@ -1,0 +1,1 @@
+In this short note we prove a sharp lower bound for the second moment of a lattice Voronoi cell in terms of the respective covering radius. This gives an affirmative answer to a conjecture by Haviv, Lyubashevsky and Regev. We also characterize those lattice Voronoi cells for which this lower bound is attained.

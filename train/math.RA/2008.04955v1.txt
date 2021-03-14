@@ -1,0 +1,1 @@
+Let A be a unital locally matrix algebra over a field \mathbb{F} of characteristic different from 2. We find necessary and sufficient condition for the Lie algebra A\diagup\mathbb{F}\cdot 1 to be simple and for the Lie algebra of derivations \text{Der}(A) to be topologically simple. The condition depends on the Steinitz number of A only.

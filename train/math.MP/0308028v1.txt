@@ -1,0 +1,1 @@
+We consider the grand canonical pressure for Coulombic matter with nuclear charges \sim Z in a magnetic field B and at nonzero temperature. We prove that its asymptotic limit as Z\to\infty with B/Z^3\to 0 can be obtained by minimizing a Thomas-Fermi type pressure functional.

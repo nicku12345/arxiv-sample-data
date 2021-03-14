@@ -1,0 +1,1 @@
+The main result of the paper is a description of the class of functions on the unit circle, for which Krein's trace formula holds for arbitrary pairs of unitary operators with trace class difference. We prove that this class of functions coincides with the class of operator Lipschitz functions.

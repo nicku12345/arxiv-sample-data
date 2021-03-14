@@ -1,0 +1,1 @@
+We study the homology of the dual de Rham complex as functors on the category of abelian groups. We give a description of homology of the dual de Rham complex up to degree 7 for free abelian groups and present a corrected version of the proof of Jean's computations of the zeroth homology group.

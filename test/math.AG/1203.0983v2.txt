@@ -1,0 +1,1 @@
+We show that on a generic curve and under some conditions on the degree and genus, there exists a component B of the locus of stable vector bundles of rank r and degree d with at least k sections of the expected dimension such that for a generic vector bundle E of B, the Petri map is injective.

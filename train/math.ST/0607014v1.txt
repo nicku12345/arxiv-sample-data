@@ -1,0 +1,1 @@
+We introduce a new framework for constructing tests of general semiparametric hypotheses which have nontrivial power on the n^{-1/2} scale in every direction, and can be tailored to put substantial power on alternatives of importance. The approach is based on combining test statistics based on stochastic processes of score statistics with bootstrap critical values.

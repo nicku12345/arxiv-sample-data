@@ -1,0 +1,1 @@
+The Donaldson metric is a metric on the space of symplectic two-forms in a fixed cohomology class. It was introduced in [2]. We compute the associated Levi-Civita connection, describe it's geodesics and compute the formula for the covariant Hessian of an energy functional on the space of symplectic structures in a fixed cohomology class, introduced by S.Donaldson in [1].

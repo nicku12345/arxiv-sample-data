@@ -1,0 +1,1 @@
+We give some explicit calculations for stable distributions and convergence to them, mainly based on less explicit results in Feller (1971). The main purpose is to provide ourselves with easy reference to explicit formulas and examples. (There are probably no new results.)

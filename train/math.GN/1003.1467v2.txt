@@ -1,0 +1,1 @@
+In this article it is shown that there is no continuous bijection from \mathbb{R}^n onto \mathbb{R}^2 for n\neq 2 by an elementary method. This proof is based on showing that for any cardinal number \beta\leq 2^{\aleph_0}, there is a partition of R^n (n\geq 3) into \beta arcwise connected dense subsets.

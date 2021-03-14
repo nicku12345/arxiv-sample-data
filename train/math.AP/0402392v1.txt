@@ -1,0 +1,1 @@
+Let P be the operator -\Delta+V on R^d, where V is a real potential with several inverse square singularities. The usual non-trapping type high-frequency inequality on the truncated resolvent of P is shown, using semi-classical measures. This inequality implies local smoothing effect on the corresponding Schrodinger equation.

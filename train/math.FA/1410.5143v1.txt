@@ -1,0 +1,1 @@
+Let T=\begin{bmatrix} X &Y\\ 0 & Z\end{bmatrix} be an n-square matrix, where X, Z are r-square and (n-r)-square, respectively. Among other determinantal inequalities, it is proved \det(I_n+T^*T)\ge \det(I_r+X^*X)\cdot \det(I_{n-r}+Z^*Z) with equality holds if and only if Y=0.

@@ -1,0 +1,1 @@
+We propose estimates of the discrete Green function for the streamline diffusion finite element method (SDFEM) on Shishkin triangular meshes.

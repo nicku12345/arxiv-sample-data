@@ -1,0 +1,1 @@
+We study nonlinear systems with observation errors. The main problem addressed in this paper is the design of feedbacks for globally asymptotically controllable (GAC) control affine systems that render the closed loop systems input to state stable with respect to actuator errors. Extensions for fully nonlinear GAC systems with actuator errors are also discussed.

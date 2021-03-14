@@ -1,0 +1,1 @@
+In this note we show that a ring R is left perfect if and only if every left R-module is weakly supplemented if and only if R is semilocal and the radical of the countably infinite free left R-module has a weak supplement.

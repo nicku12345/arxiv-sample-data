@@ -1,0 +1,1 @@
+The paper characterizes uniform convergence rate for general classes of wavelet expansions of stationary Gaussian random processes. The convergence in probability is considered.

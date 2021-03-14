@@ -1,0 +1,1 @@
+We introduce the notion of relative entropy for the weak solutions of the compressible Navier-Stokes system. We show that any finite energy weak solution satisfies a relative entropy inequality for any pair of sufficiently smooth test functions. As a corollary we establish weak-strong uniqueness principle for the compressible Navier-Stokes system.

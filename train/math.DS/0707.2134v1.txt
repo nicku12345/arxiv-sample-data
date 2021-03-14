@@ -1,0 +1,1 @@
+In this paper, we show existence and uniqueness of a solution to a functional differential equation with infinite delay. We choose an appropriate Frechet space so as to cover a large class of functions to be used as initial functions to obtain existence and uniqueness of solutions.

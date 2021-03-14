@@ -1,0 +1,1 @@
+Katz and Mazur define the universal finite subgroup of an elliptic curve. In this paper we give an explicit construction of the universal finite subgroup of the Tate curve via quasi-elliptic cohomology and its power operation.

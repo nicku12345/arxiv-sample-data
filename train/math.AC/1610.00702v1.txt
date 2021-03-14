@@ -1,0 +1,1 @@
+We have introduced and studied in [3] the class of Globalized multiplicatively pinched-Dedekind domains (GMPD domains). This class of domains could be characterized by a certain factorization property of the non-invertible ideals, (see [3, Theorem 4]). In this note a simplification of the characterization theorem [3, Theorem 4] is provided in more general form.

@@ -1,0 +1,1 @@
+We study homological properties of a family of algebras called toupie algebras. Our main objective is to obtain the Gerstenhaber structure of their Hochschild cohomology, with the purpose of describing the Lie algebra structure of the first Hochschild cohomology space, together with the Lie module structure of the whole Hochschild cohomology.

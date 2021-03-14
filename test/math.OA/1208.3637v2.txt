@@ -1,0 +1,1 @@
+Using Jones' quadratic tangles formulas, we automate the construction of the 4442, 3333, 3311, and 2221 spoke subfactors by finding sets of 1-strand jellyfish generators. The 4442 spoke subfactor is new, and the 3333, 3311, and 2221 spoke subfactors were previously known.

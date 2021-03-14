@@ -1,0 +1,1 @@
+Modifying a construction of W. Marciszewski we prove (in ZFC) that there exists a subspace of the real line \mathbb{R}, such that the realcompact space C_p(X) of continuous real-valued functions on X with the pointwise convergence topology does not admit a continuous bijection onto a \sigma-compact space. This answers a question of Arhangel'skii.

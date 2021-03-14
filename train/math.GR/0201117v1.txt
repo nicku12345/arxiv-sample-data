@@ -1,0 +1,1 @@
+We prove the Jacquet-Langlands local correspondence in non-zero characteristic, using the proof by Deligne, Kazhdan and Vign\'eras for the zero characteristic case and the theory of closed fields of Kazhdan. We also prove the orthogonality relations for an inner form of GL_n in non-zero characteristic.

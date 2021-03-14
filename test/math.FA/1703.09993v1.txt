@@ -1,0 +1,1 @@
+Let S(\mathbb{D}) be the collection of all holomorphic self-maps on \mathbb{D} of the complex plane \mathbb{C}, and C_{\varphi} the composition operator induced by \varphi\in S(\mathbb{D}). We obtain that there are no hypercyclic composition operators on the little Bloch space \mathcal{B}_0 and the Besov space B_p.

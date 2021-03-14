@@ -1,0 +1,1 @@
+Christine Tasson introduced an algebraic notion of totality for a denotational model of linear logic in the category of vector spaces. The notion of total boolean function is, in a way, quite intuitive. This note provides a positive answer to the question of completeness of the "boolean centroidal calculus" w.r.t. total boolean functions.

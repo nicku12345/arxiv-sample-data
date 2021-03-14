@@ -1,0 +1,1 @@
+Consider the random matrix obtained from the adjacency matrix of a random d-regular graph by multiplying every entry by a random sign. The largest eigenvalue converges, after proper scaling, to the Tracy--Widom distribution.

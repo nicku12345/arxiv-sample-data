@@ -1,0 +1,1 @@
+We prove that a product of m>5 copies of \PP^1, embedded in the projective space \PP^r by the standard Segre embedding, is k-identifiable (i.e. a general point of the secant variety S^k(X) is contained in only one (k+1)-secant k-space), for all k such that k+1\leq 2^{m-1}/m.

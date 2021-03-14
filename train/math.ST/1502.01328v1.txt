@@ -1,0 +1,1 @@
+It is observed that for testing between simple hypotheses where the cost of Type I and Type II errors can be quantified, it is better to let the optimization choose the test size.

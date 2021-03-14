@@ -1,0 +1,1 @@
+The first author introduced a sequence of polynomials (\cite{8}, sequence A174531) defined recursively. One of the main results of this study is proof of the integrality of its coefficients.

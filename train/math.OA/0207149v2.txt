@@ -1,0 +1,1 @@
+Suppose M is a von Neumann algebra with normal, tracial state phi and {a_1,...,a_n} is a set of self-adjoint elements in M. We provide an alternative uniform packing description of delta_0(a_1,...,a_n), the modified free entropy dimension of {a_1,...,a_n}.

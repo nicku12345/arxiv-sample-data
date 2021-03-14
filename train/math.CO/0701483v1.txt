@@ -1,0 +1,1 @@
+For each element of certain families of integer sequences, we study the term-wise ratios of the Hankel transforms of three sequences related to that element by series reversion. In each case, the ratios define well-known sequences, and in one case, we recover the initial sequence.

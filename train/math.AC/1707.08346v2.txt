@@ -1,0 +1,1 @@
+We study various approximation results of solutions of equations f(x,Y)=0 where f(x,Y)\in\mathbb K[[x]][Y]^r and x and Y are two sets of variables, and where some components of the solutions y(x)\in\mathbb K[[x]]^m do not depend on all the variables x_j. These problems have been highlighted by M. Artin.

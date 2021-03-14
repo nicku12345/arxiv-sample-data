@@ -1,0 +1,1 @@
+As a continuation of our series works on the Boltzmann equation without angular cutoff assumption, in this part, the global existence of solution to the Cauchy problem in the whole space is proved in some suitable weighted Sobolev spaces for hard potential when the solution is a small perturbation of a global equilibrium.

@@ -1,0 +1,1 @@
+We show that the broadcast capacity of an infinite-depth tree-structured network of error-free half-duplex-constrained relays can be achieved using constrained coding at the source and symbol forwarding at the relays.

@@ -1,0 +1,1 @@
+Let f\in Z[x], deg(f)=3. Assume that f does not have repeated roots. Assume as well that, for every prime q, the inequality f(x)\not\equiv 0 mod q^2 has at least one solution in (Z/q^2 Z)^*. Then, under these two necessary conditions, there are infinitely many primes p such that f(p) is square-free.

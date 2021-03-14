@@ -1,0 +1,1 @@
+This is a preliminary version dated Dec. 2013. It was written independently of [Kim-Masmoudi reference] which uses a similar method. [KM] works with flows in a more general setting and does not mention CAT(K) geometry and gradient curves. There are flows to which our method applies that do not satisfy the conditions in [KM].

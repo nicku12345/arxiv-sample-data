@@ -1,0 +1,1 @@
+We generalize some of the results in [arXiv: math.CV/0503430], and prove a bump-lemma for closed sets in semi 1-coronae. From this we obtain some finite cohomology results and an extension theorem for analytic subsets in 1-coronae.

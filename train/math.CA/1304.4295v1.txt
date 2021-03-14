@@ -1,0 +1,1 @@
+We prove that for mappings W^{1,n}(B^n, \R^n), continuous up to the boundary, with modulus of continuity satisfying certain divergence condition, the image of the boundary of the unit ball has zero n-Hausdorff measure. For H\"older continuous mappings we also prove an essentially sharp generalized Hausdorff dimension estimate.

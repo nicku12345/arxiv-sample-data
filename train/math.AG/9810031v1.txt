@@ -1,0 +1,1 @@
+We prove an elementary but somewhat unexpected result about projective embeddings of smooth varieties X whose cotangent bundles are numerically effective. Specifically, we show that the degree of X in any projective embedding must grow (almost) exponentially in the dimension of X.

@@ -1,0 +1,1 @@
+For an Yang Baxter operator we show that a bialgebra homomorphism from a free braided tensor bialgebra to a cofree braided shuffle bialgebra is the Woronowicz braided antisymmetrizer. A cofree braided shuffle bialgebra is a braided generalization of a cofree shuffle bialgebra introduced by Sweedler. Its graded dual bialgebra is a free braided tensor bialgebra.

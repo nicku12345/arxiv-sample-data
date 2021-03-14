@@ -1,0 +1,1 @@
+In this paper, we generalise Hardy's uncertainty principle to vector-valued functions, and hence to operators. The principle for operators can be formulated loosely by saying that the kernel of an operator cannot be localised near the diagonal if the spectrum is also localised.

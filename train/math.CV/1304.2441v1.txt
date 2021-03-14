@@ -1,0 +1,1 @@
+In this paper we prove a Schwarz lemma for harmonic mappings between the unit balls in real Euclidean spaces. Roughly speaking, our result says that under a harmonic mapping between the unit balls in real Euclidean spaces, the image of a smaller ball centered at origin can be controlled. This extends the related result proved by Chen in complex plane.

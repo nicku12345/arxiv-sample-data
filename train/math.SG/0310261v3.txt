@@ -1,0 +1,1 @@
+Let E be the total space of a locally trivial torus bundle over the surface \Sigma_g of genus g>1. Using the Seiberg--Witten theory and spectral sequences we prove that E carries a symplectic structure if and only if the homology class of the fiber [T^2] is nonzero in H_2(E,R).

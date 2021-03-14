@@ -1,0 +1,1 @@
+We prove that it is decidable if a finitely based permutation class contains infinitely many simple permutations, and establish an unavoidable substructure result for simple permutations: every sufficiently long simple permutation contains an alternation or oscillation of length k.

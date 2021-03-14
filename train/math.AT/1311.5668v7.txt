@@ -1,0 +1,1 @@
+We construct a model category structure on the category of diffeological spaces which is Quillen equivalent to the model structure on the category of topological spaces based on the notions of Serre fibrations and weak homotopy equivalences.

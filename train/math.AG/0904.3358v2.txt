@@ -1,0 +1,1 @@
+We study the local properties of Artin stacks and their good moduli spaces, if they exist. We show that near closed points with linearly reductive stabilizer, Artin stacks formally locally admit good moduli spaces. We also give conditions for when the existence of good moduli spaces can be deduced from the existence of etale charts admitting good moduli spaces.

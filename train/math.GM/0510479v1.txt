@@ -1,0 +1,1 @@
+A Smarandache multi-space is a union of n spaces A_1,A_2,..., A_n with some additional conditions holding. Combining Smarandache multi-spaces with linear vector spaces in classical linear algebra, the conception of multi-vector spaces is introduced. Some characteristics of a multi-vector space are obtained in this paper.

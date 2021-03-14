@@ -1,0 +1,1 @@
+We investigate a numerical method for studying resonances in quantum mechanics. We prove rigorously that this method yields accurate approximations to resonance energies and widths for shape resonances in the semiclassical limit.

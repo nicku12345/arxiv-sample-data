@@ -1,0 +1,1 @@
+Let G be the topological fundamental group of a given nonsingular complex projective surface. We prove that the Chern slopes c_1^2(S)/c_2(S) of minimal nonsingular projective surfaces of general type S with \pi_1(S) \simeq G are dense in the interval [1,3].

@@ -1,0 +1,1 @@
+This paper is concerned with symmetries of closed multiplicative 2-forms on Lie groupoids and their infinitesimal counterparts. We use them to study Lie group actions on Dirac manifolds by Dirac diffeomorphisms and their lifts to presymplectic groupoids, building on recent work of Fernandes-Ortega-Ratiu \cite{FOR} on Poisson actions.

@@ -1,0 +1,1 @@
+A convex quadrilateral with sides a,b,c,d, and diagonals p,q is cyclic iff abp-bcq+cdp-daq=0. This condition, in spite of its simplicity, appears to be unnoted and unexpectedly proof-resilient. We employ advanced methods of computer algebra and nonlinear analysis.

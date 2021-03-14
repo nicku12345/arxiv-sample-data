@@ -1,0 +1,1 @@
+In this paper we calculate the collection of limit functions obtained by applying an extension of Zalcman's Lemma, due to X. C. Pang, to the non-normal family \left\{f(nz):n\in\mathbb{N}\right\} in \mathbb{C}, where f=Re^P. Here R and P are an arbitrary rational function and a polynomial, respectively, where P is a non-constant polnomial.

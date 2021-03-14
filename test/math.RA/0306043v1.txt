@@ -1,0 +1,1 @@
+Suppose that A is a semiprimary ring satisfying one of the two conditions: 1) its Yoneda ring is generated in finite degrees; 2) its Loewy length is less or equal than three. We prove that the global dimension of A is finite if, and only if, there is a m>0 such that Ext_A^n(S,S)=0, for all simple A-modules S and all n\geq m.

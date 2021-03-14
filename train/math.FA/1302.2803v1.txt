@@ -1,0 +1,1 @@
+By the help of power series f we can naturally construct another power series that has as coefficients the absolute values of the coefficients of f. Utilising these functions we prove some inequalities for the spectral radius of the bounded linear operator f(T) on a complex Hilbert space and some functions of its norm. The case of two commuting operators is also investigated.

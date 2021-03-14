@@ -1,0 +1,1 @@
+We study the appearance of the giant component in random subgraphs of a given large finite graph G=(V,E) in which each edge is present independently with probability p. We show that if G is an expander with vertices of bounded degree, then for any c in ]0,1[, the property that the random subgraph contains a giant component of size c|V| has a sharp threshold.

@@ -1,0 +1,1 @@
+Turan's theorem implies that every graph of order n with more edges than the r-partite Turan graph contains a complete graph of order r+1. We show that the same premise implies the existence of much larger graphs. We also prove corresponding stability theorems. These results complete work started by Erdos in 1963.

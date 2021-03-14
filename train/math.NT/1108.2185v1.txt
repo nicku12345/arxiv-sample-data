@@ -1,0 +1,1 @@
+We will give upper bounds for the number of integral solutions to quartic Thue equations. Our main tool here is a logarithmic curve \phi(x, y) that allows us to use the theory of linear forms in logarithms. This manuscript improves the results of author's earlier work with Okazaki by giving special treatments to forms with respect to their signature.

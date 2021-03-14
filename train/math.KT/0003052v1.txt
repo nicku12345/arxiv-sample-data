@@ -1,0 +1,1 @@
+In 1998 D. Tamarkin announced a proof of Kontsevich formality theorem based on the existence of structure of homotopy Gerstenhaber algebra in the Hochschild cochains of an associative algebra. In this note we give a detailed explanation of Tamarkin's result.

@@ -1,0 +1,1 @@
+We define a tower of affine Temperley-Lieb algebras of type \tilde{A_{n}} and we define Markov elements in those algebras. We prove that any trace over an affine Temperley-Lieb algebras of type \tilde{A_{2}} is uniquely defined by its values on the Markov elements.

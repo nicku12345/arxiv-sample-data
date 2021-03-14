@@ -1,0 +1,1 @@
+We give two simple algorithms for the evaluation of difference between the numbers of multiples of 3 with even and odd binary digit sums in interval [0,x), and give an elementary proof of Coquet's sharp estimates for it.

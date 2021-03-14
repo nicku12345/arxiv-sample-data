@@ -1,0 +1,1 @@
+This paper gives an explicit construction of the Tate resolution of sheaves arising from the d-fold Veronese embedding of P^n. Our description involves the Bezoutian of n+1 homogenous forms of degree d in n+1 variables. We give applications to duality theorems, including Koszul duality.

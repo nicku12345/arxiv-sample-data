@@ -1,0 +1,1 @@
+We analyse the Gauss-Manin system of differential equations---and its Fourier transform---attached to regular functions satisfying a tameness assupmption on a smooth affine variety over C (e.g. tame polynomials on C^{n+1}). We give a solution to the Birkhoff problem and prove Hodge-type results analogous to those existing for germs of isolated hypersurface singularities.

@@ -1,0 +1,1 @@
+We use grid diagrams to give a combinatorial algorithm for computing the knot Floer homology of the pullback of a knot K in its m-fold cyclic branched cover Sigma^m(K), and we give computations when m=2 for over fifty three-bridge knots with up to eleven crossings.

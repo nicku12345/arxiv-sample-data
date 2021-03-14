@@ -1,0 +1,1 @@
+We show that for a fixed k, Gromov random groups with any positive density have no non-trivial degree-k representations over any field, a.a.s. This is especially interesting in light of the results of Agol, Ollivier and Wise that when the density is less than 1/6 such groups have a faithful linear representation over the rationals, a.a.s.

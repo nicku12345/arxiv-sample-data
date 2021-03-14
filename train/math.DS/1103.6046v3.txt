@@ -1,0 +1,1 @@
+The Truchet tiles are a pair of square tiles decorated by arcs. When the tiles are pieced together to form a Truchet tiling, these arcs join to form a family of simple curves in the plane. We consider a family of probability measures on the space of Truchet tilings. Renormalization methods are used to investigate the probability that a curve in a Truchet tiling is closed.

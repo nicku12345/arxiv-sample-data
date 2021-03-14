@@ -1,0 +1,1 @@
+We define a map from second quandle homology to the Schur multiplier and examine its properties. Furthermore, we express the second homology of Alexander quandles in terms of exterior algebras. Additionally, we present a self-contained proof of its structure and provide some computational examples.

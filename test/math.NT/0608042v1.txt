@@ -1,0 +1,1 @@
+We estimate multiplicative character sums taken on the values of a non-homogeneous Beatty sequence \{[\alpha n + \beta] : n =1,2,... \}, where \alpha,\beta\in\R, and \alpha is irrational. Our bounds are nontrivial over the same short intervals for which the classical character sum estimates of Burgess have been established.

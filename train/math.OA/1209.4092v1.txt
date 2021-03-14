@@ -1,0 +1,1 @@
+We define proper, free and commuting partial actions on upper semicontinuous bundles of C^*-algebras. With such, we construct the C^*-algebra induced by a partial action and a partial actions on that algebra. Using those action we give a generalization, to partial actions, of Raeburn's Symmetric Imprimitivity Theorem.

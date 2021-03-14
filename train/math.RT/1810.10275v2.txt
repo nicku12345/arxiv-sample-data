@@ -1,0 +1,1 @@
+We give a decomposition as a direct sum of indecomposable modules of several types of Specht modules in characteristic 2. These include the Specht modules labelled by hooks, whose decomposability was considered by Murphy. Since the main arguments are essentially no more difficult for Hecke algebras at parameter q=-1, we proceed in this level of generality.

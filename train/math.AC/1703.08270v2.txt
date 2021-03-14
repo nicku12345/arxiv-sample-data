@@ -1,0 +1,1 @@
+Let G = (V,E) be a simple graph. We investigate the Cohen-Macaulayness and algebraic invariants, such as the Castelnuovo-Mumford regularity and the projective dimension, of the toric ring k[G] via those of toric rings associated to induced subgraphs of G.

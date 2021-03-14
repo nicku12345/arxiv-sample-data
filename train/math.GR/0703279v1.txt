@@ -1,0 +1,1 @@
+This work is concerned with the stable norm in word hyperbolic groups as defined by Gromov. We give a short elementary proof of one of its basic property, that is existence of a computable uniform non null lower bound for stable norm in a word hyperbolic group.

@@ -1,0 +1,1 @@
+The dynamical equations for a gliding Lagrange top are not integrable. They have 5 dynamical variables and admit one integral of motion. We show that all solutions go to one of the two vertical spinning solutions and determine conditions of their stability. This means that solutions starting close to either of the spinning solutions go asymptotically to this solution.

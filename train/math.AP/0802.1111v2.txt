@@ -1,0 +1,1 @@
+We study an asymptotic behaviour of the principal eigenvalue for an elliptic operator with large advection which is given by a gradient of a potential function. It is shown that the principal eigenvalue decays exponentially under the velocity potential well condition as the parameter tends to infinity.

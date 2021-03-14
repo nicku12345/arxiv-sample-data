@@ -1,0 +1,1 @@
+We show that the number of cycles in a random permutation chosen according to generalized Ewens measure is normally distributed and compute asymptotic estimates for the mean and variance.

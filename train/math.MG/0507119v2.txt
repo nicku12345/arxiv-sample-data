@@ -1,0 +1,1 @@
+In this short note we give a construction of an infinite series of Delone simplices whose relative volume grows super-exponentially with their dimension. This dramatically improves the previous best lower bound, which was linear.

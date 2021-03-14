@@ -1,0 +1,1 @@
+We prove that the number of permutations which avoid 132-patterns and have exactly one 123-pattern equals (n-2)2^(n-3). We then give a bijection onto the set of permutations which avoid 123-patterns and have exactly one 132-pattern. Finally, we show that the number of permutations which contain exactly one 123-pattern and exactly one 132-pattern is (n-3)(n-4)2^(n-5).

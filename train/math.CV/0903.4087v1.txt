@@ -1,0 +1,1 @@
+We apply integral representations for functions on non-smooth strictly pseudoconvex domains, the Henkin-Leiterer domains, to derive weighted C^k estimates for the component of a given function, f, which is orthogonal to holomorphic functions in terms of C^k norms of \mdbar f. The weights are powers of the gradient of the defining function of the domain.

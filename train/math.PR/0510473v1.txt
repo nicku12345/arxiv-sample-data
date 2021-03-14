@@ -1,0 +1,1 @@
+We give a simple proof that in a Lipschitz domain in two dimensions with Lipschitz constant one, there is pathwise uniqueness for the Skorokhod equation governing reflecting Brownian motion.

@@ -1,0 +1,1 @@
+A ring R is an elementary divisor ring if every matrix over R admits a diagonal reduction. We further explore various stable like conditions on a bezout duo-domain under which it is an elementary divisor domain. Many known results are thereby generalized to much wider class of rings.

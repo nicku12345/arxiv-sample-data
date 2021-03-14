@@ -1,0 +1,1 @@
+A new type of gradient estimate is established for diffusion semigroups on non-compact complete Riemannian manifolds. As applications, a global Harnack inequality with power and a heat kernel estimate are derived for diffusion semigroups on arbitrary complete Riemannian manifolds.

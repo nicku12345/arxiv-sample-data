@@ -1,0 +1,1 @@
+We prove L^1 --> L^\infty estimates for the linear Schroedinger equation in three dimensions. The potential is assumed to belong to certain L^p spaces, but no pointwise decay estimates and no additional regularity is required.

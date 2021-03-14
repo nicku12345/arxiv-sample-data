@@ -1,0 +1,1 @@
+This paper sheds light on the essential characteristics of geodesics, which frequently occur in considerations from motion in Euclidean space. Focus is mainly on a method of obtaining them from the calculus of variations, and an explicit geodesic computation for a Riemannian hypersurface.

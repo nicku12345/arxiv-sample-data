@@ -1,0 +1,1 @@
+We establish instability of periodic traveling waves arising in conservation laws featuring phase transition. The analysis uses the Evans function framework introduced by R.A. Gardner in the periodic case. The main new tool is a periodic generalization of the stability index introduced by Gardner and Zumbrun in the traveling front or pulse case.

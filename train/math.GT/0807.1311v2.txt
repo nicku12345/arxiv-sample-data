@@ -1,0 +1,1 @@
+We introduce a new cohomology-theoretic method for classifying generic immersed curves in closed compact surfaces by using Gauss codes. This subsumes a result of J.S. Carter on classifying immersed curves in oriented compact surfaces, and provides a criterion for when an immersion is two-colorable. We note an application to twisted virtual link theory.

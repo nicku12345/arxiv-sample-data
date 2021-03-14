@@ -1,0 +1,1 @@
+We prove that there exists a positive number C_{n} depending only on n such that for every smooth projective n-fold of general type X defined over {\bf C}, the automorphism group Aut(X) satisfies the inequality \sharp{Aut}(X)\leq C_{n}\cdot\mu (X,K_{X}), where \mu (X,K_{X}) is the volume of X with respect to K_{X}.

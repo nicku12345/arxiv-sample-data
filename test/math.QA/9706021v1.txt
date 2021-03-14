@@ -1,0 +1,1 @@
+The q-monopole bundle introduced previously is extended to a general construction for quantum group bundles with non-universal differential calculi. We show that the theory applies to several other classes of bundles as well, including bicrossproduct quantum groups, the quantum double and combinatorial bundles associated to covers of compact manifolds.

@@ -1,0 +1,1 @@
+Under the assumption of prox-regularity and the presence of a tilt stable local minimum we are able to show that a \mathcal{VU} like decomposition gives rise to the existence of a smooth manifold on which the function in question coincides locally with a smooth function.

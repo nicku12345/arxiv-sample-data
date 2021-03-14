@@ -1,0 +1,1 @@
+In this paper we study the relationship between rank-one convexity and quasiconvexity in the space of 2x2 matrices. We show that a certain procedure for constructing homogeneous gradient Young measures from periodic deformations, that arises from V.~\v Sver\'ak's celebrated counterexample in higher dimensions, always yields laminates in the 2x2 case.

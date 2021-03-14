@@ -1,0 +1,1 @@
+We show that the rank r component of the free idempotent generated semigroup of the biordered set of the full linear monoid of n x n matrices over a division ring Q has maximal subgroup isomorphic to the general linear group GL_r(Q), where n and r are positive integers with r < n/3.

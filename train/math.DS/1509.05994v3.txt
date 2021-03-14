@@ -1,0 +1,1 @@
+We provide an example of Cherry flow (i.e. smooth flow on the 2-dimensional torus with a sink and a saddle) having quasi-minimal set which is an attractor. The first return map for such a flow, constructed also in the paper, is a smooth circle map having a flat interval and a non-trivial wandering interval.

@@ -1,0 +1,1 @@
+We consider the question of diagonal Riccati stability for a pair of real matrices A, B. A necessary and sufficient condition for diagonal Riccati stability is derived and applications of this to two distinct cases are presented. We also describe some motivations for this question arising in the theory of generalised Lotka-Volterra systems.

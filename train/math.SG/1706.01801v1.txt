@@ -1,0 +1,1 @@
+Via the transverse Hilbert scheme construction, we associate a holomorphic completely integrable system to a surface S endowed with a holomorphic symplectic form \omega and a projection onto \mathbb{C}. We provide a full characterization of the completely integrable systems that arise in this way.

@@ -1,0 +1,1 @@
+A triharmonic map is a critical point of the 3-energy in the space of smooth maps between two Riemannian manifolds. We study a triharmonic isometric immersion into a space form of non-positively constant curvature. We show that if the domain is complete and both the 4-enegy and the L^4-norm of the tension field are finite, then such an immersion is minimal.

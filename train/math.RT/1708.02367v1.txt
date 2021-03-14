@@ -1,0 +1,1 @@
+We describe a simple way to write down explicit derivations of octonions that form a Chevalley basis of \mathfrak{g}_2. This uses the description of octonions as a twisted group algebra of the finite field \mathbb{F}_8. Generators of \operatorname{Gal}(\mathbb{F}_8/\mathbb{F}_2) act on the roots as 120-degree rotations and complex conjugation acts as negation.

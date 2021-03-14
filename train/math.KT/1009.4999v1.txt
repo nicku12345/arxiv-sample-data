@@ -1,0 +1,1 @@
+The K-theoretic analog of Spanier-Whitehead duality for noncommutative C*-algebras is shown to hold for the Ruelle algebras associated to irreducible Smale spaces. This had previously been proved only for shifts of finite type. Implications of this result as well as relations to the Baum-Connes conjecture and other topics are also considered.

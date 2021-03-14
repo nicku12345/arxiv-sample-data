@@ -1,0 +1,1 @@
+Let R be a local Noetherian commutative ring. We prove that R is an Artinian Gorenstein ring if and only if every ideal in R is a trace ideal. We discuss when the trace ideal of a module coincides with its double annihilator.

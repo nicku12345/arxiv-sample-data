@@ -1,0 +1,1 @@
+The quantum nonlinear Schr\ddot{o}dinger(NLS) model with four-component fermions exhibits a Y(so(5)) symmetry when considered on an infintite interval. The constructed generators of Yangian are proved to satisfy the Drinfel'd formula and furthermore, the RTT relation with the general form of rational R-matrix given by Yang-Baxterization associated with so(5) algebraic structure.

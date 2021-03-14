@@ -1,0 +1,1 @@
+We study the solutions of the nonstationary incompressible Navier--Stokes equations in \R^d, d\ge2, of self-similar form u(x,t)=\frac{1}{\sqrt t}U\bigl(\frac{x}{\sqrt t}\bigr), obtained from small and homogeneous initial data a(x). We construct an explicit asymptotic formula relating the self-similar profile U(x) of the velocity field to its corresponding initial datum a(x).

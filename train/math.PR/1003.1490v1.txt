@@ -1,0 +1,1 @@
+We discuss the long term behaviour of trap models on the integers with asymptotically vanishing drift, providing scaling limit theorems and ageing results. Depending on the tail behaviour of the traps and the strength of the drift, we identify three different regimes, one of which features a previously unobserved limit process.

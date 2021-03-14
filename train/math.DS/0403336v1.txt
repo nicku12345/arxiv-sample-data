@@ -1,0 +1,1 @@
+We investigate the well known Newton method to find roots of entire holomorphic functions. Our main result is that the immediate basin of attraction for every root is simply connected and unbounded. We also introduce ``virtual immediate basins'' in which the dynamics converges to infinity; we prove that these are simply connected as well.

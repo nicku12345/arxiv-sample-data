@@ -1,0 +1,1 @@
+We introduce a n-term quadrature to integrate inner products of n functions, as opposed to a Gaussian quadrature to integrate 2n functions. We will characterize and provide computational tools to construct the inner product quadrature, and establish its connection to the Gaussian quadrature.

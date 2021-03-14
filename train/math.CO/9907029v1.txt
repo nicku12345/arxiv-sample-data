@@ -1,0 +1,1 @@
+We prove a q-analogue of the formula  \sum_{1\le k\le n} \binom nk(-1)^{k-1}\sum_{1\le i_1\le i_2\le... \le i_m=k}\frac1{i_1i_2... i_m} = \sum_{1\le k\le n}\frac{1}{k^m}  by inverting a formula due to Dilcher.

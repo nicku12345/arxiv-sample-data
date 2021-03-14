@@ -1,0 +1,1 @@
+The genus 4 modular curve X_{ns}(11) attached to a non-split Cartan group of level 11 admits a model defined over \mathbb{Q}. We compute generators for its function field in terms of Siegel modular functions. We also show that its Jacobian is isomorphic over \mathbb{Q} to the new part of the Jacobian of the classical modular curve X_0(121).

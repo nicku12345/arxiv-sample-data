@@ -1,0 +1,1 @@
+We define some signature invariants for a class of knotted trivalent graphs using branched covers. We relate them to classical signatures of knots and links. Finally, we explain how to compute these invariants through the example of Kinoshita's knotted theta graph.

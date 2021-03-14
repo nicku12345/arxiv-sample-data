@@ -1,0 +1,1 @@
+For a particular set of Boltzmann weights and a particular boundary condition for the six vertex model in statistical mechanics, we compute explicitly the partition function and show it to be equal to a factorial Schur function, giving a new proof of a theorem of Lascoux.

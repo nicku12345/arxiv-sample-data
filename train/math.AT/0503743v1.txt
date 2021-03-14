@@ -1,0 +1,1 @@
+We construct a natural map from the set [BG,BU(n)] into a set of characters of the Sylow p-subgroups of G and prove that this natural map is a surjection for all finite groups G of rank two. We show, furthermore, that this same natural map is in fact a bijection for two types of finite groups G: those with periodic cohomology and those of rank two with odd order.

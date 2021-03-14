@@ -1,0 +1,1 @@
+This report outlines a combinatorial recipe for computing the bases, whose elements are oriented polygons, of two cohomology spaces associated to multizeta values: the top dimensional de Rham cohomology of moduli spaces of genus 0 complex pointed curves and the top dimensional de Rham cohomology of certain partial compactifications of these moduli spaces.

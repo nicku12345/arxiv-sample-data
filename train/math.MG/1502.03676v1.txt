@@ -1,0 +1,1 @@
+In this paper we represent n-dimensional discrete Taxicab geometry by base--(4n+1) numeral system. The algebraic structure of this base--(4n+1) system is similar to unary system, we call it quasi-unary (QU) representation. QU representation generalizes translation and rotation to transform any geometrical object (shape) into another shape.

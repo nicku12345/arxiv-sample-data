@@ -1,0 +1,1 @@
+We analyze a possible minimal counterexample to the Jacobian Conjecture P,Q with \gcd(deg(P),deg(Q))=16 and show that its existence depends only on the existence of solutions for a certain Abel differential equation of the second kind.

@@ -1,0 +1,1 @@
+Attractors of cooperative dynamical systems are particularly simple; for example, a nontrivial periodic orbit cannot be an attractor. This paper provides characterizations of attractors for the wider class of coherent systems, defined by the property that no directed feedback loops are negative. Several new results for cooperative systems are obtained in the process.

@@ -1,0 +1,1 @@
+We prove that the critical temperature for the BCS gap equation is given by T_c = \mu (8/\pi e^{\gamma -2} + o(1)) e^{\pi/(2\sqrt \mu a)} in the low density limit \mu\to 0. The formula holds for a suitable class of interaction potentials with negative scattering length a in the absence of bound states.

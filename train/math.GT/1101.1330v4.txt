@@ -1,0 +1,1 @@
+We develop the notion of the good pants homology and show that it agrees with the standard homology on closed surfaces (the good pants are pairs of pants whose cuffs have the length nearly equal to some large number R). Combined with our previous work on the Surface Subgroup Theorem, this yields a proof of the Ehrenpreis conjecture.

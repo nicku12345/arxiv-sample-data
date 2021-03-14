@@ -1,0 +1,1 @@
+We provide the strong approximation of empirical copula processes by a Gaussian process. In addition we establish a strong approximation of the smoothed empirical copula processes and a law of iterated logarithm.

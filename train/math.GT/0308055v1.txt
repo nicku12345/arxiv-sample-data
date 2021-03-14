@@ -1,0 +1,1 @@
+We present a simple combinatorial method to encode 3-dimensional manifolds, based on their Heegaard diagrams. The notion of a Gauss diagram of a 3-manifold is introduced. We check the conditions for a Gauss diagram to represent a closed manifold and a manifold with boundary.

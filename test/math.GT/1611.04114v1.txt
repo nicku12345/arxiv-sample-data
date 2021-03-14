@@ -1,0 +1,1 @@
+We construct homology theories with coefficients in L-spectra on the category of ball complexes and we define products in this setting. We also obtain signatures of geometric situations in these homology groups and prove product formulae which we hope will clarify products used in the theory of the total surgery obstruction.

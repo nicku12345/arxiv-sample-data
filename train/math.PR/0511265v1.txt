@@ -1,0 +1,1 @@
+This text surveys properties and applications of the exponential functional \int_0^t\exp(-\xi_s)ds of real-valued L\'evy processes \xi=(\xi_t,t\geq0).

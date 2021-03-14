@@ -1,0 +1,1 @@
+Let F be a Hecke-Maass cusp form for the group SL(4, Z) with Laplace eigenvalue lambda. Assume that F satisfies the Ramanujan conjecture at infinity (this is satisfied by almost all cusp forms). We show a power-saving sup-norm bound in terms of lambda (relative to the generic bound) for F restricted to a compact set.

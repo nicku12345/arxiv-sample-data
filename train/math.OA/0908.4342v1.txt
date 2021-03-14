@@ -1,0 +1,1 @@
+Let G be a connected semisimple real algebraic group. Assume that G(\bb R) has no compact factors and let \Gamma be a torsion-free uniform lattice subgroup of G(\bb R). Then \Gamma contains a malnormal abelian subgroup A. This implies that the \tto factor \vn(\Gamma) contains a masa \fk A with Puk\'anszky invariant \{\infty\}.

@@ -1,0 +1,1 @@
+The splitting principle states that morphisms in a derived category do not "split" accidentally. This has been successsfully applied in several characterizations of rational, DB, and other singularities. In this article I prove a general statement that implies many of the previous individual statements and improves some of the characterizations in the process.

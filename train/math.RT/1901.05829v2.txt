@@ -1,0 +1,1 @@
+For a partition {\lambda} and a prime p, we prove a necessary and sufficient condition for there exists a composition {\delta} such that {\delta} can be obtained from {\lambda} after rearrangement and all the partial sums of {\delta} are not divisible by p.

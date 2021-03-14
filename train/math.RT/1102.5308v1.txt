@@ -1,0 +1,1 @@
+We study a refinement of the A-polynomial in the case of the g-loop quiver. We give an explicit formula for its value at q=1. Conjecturally this implies a formula for the middle Betti number of the moduli space of Higgs bundles or equivalently of the character variety of a Riemann surface of genus g.

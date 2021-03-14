@@ -1,0 +1,1 @@
+Only very recently a trigonometric proof of the Pythagoras theorem was given by Zimba \cite{1}, many authors thought this was not possible. In this note we give other trigonometric proofs of Pythagoras theorem by establishing, geometrically, the half-angle formula \cos\theta=1-2\sin^2 \frac{\theta}{2}.

@@ -1,0 +1,1 @@
+We establish universality and ultra-homogeneity of (\mathcal{U},u_\mathrm{GH}), the collection of all compact ultrametric spaces endowed with the so-called Gromov-Hausdorff ultrametric. This result also gives rise to a novel construction of the so-called R-Uryoshn universal ultrametric space for each countable subset R\subset\mathbb{R}_{\geq 0} containing 0.

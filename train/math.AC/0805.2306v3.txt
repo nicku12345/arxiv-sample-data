@@ -1,0 +1,1 @@
+We compute the Stanley depth of irreducible monomial ideals and we show that the Stanley depth of a monomial complete intersection ideal is the same as the Stanley depth of it's radical. Also, we give some bounds for the Stanley depth of a monomial complete intersection ideal.

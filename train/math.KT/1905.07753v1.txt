@@ -1,0 +1,1 @@
+We construct filtrations on homotopy invariant sheaves with transfers and show that under Ayoub's conjectures on n-motives, our filtration agrees with the one conjectured by Ayoub and Barbieri-Viale if the latter exists. Our construction is directly motivated by the work of Pelaez.

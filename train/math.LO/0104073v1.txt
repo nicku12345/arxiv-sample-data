@@ -1,0 +1,1 @@
+Answering a question which was around for some while we prove that if \pi : V -> M is such that M is transitive and closed under \omega-sequences then the core model of M is an iterate of the core model of V.

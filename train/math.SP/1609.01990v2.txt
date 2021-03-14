@@ -1,0 +1,1 @@
+This study is devoted to the asymptotic spectral analysis of multiscale Schr\"odinger operators with oscillating and decaying electric potentials. Different regimes, related to scaling considerations, are distinguished. By means of a normal form filtrating the oscillations, a reduction to a non-oscillating effective Hamiltonian is performed.

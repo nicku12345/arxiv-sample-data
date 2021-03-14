@@ -1,0 +1,1 @@
+We determine the rational Khovanov bigraded homology groups of all Kanenobu knots. Also, we determine the crossing number for all Kanenobu knots K(p,q) with pq > 0 or |pq|\leq \max \{|p|, |q|\}. In the case where pq < 0 and |pq| > \max \{|p|, |q|\}, we conjecture that the crossing number is |p| + |q| + 8.

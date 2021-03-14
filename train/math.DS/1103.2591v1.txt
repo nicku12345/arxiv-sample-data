@@ -1,0 +1,1 @@
+We consider the rotation number \rho(t) of a diffeomorphism f_t=R_t\circ f, where R_t is the rotation by t and f is an orientation preserving C^\infty diffeomorphism of the circle S^1. We shall show that if \rho(t) is irrational \limsup_{t'\to t}(\rho(t')-\rho(t))/(t'-t)\geq 1.

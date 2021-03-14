@@ -1,0 +1,1 @@
+We define and give some properties and characterizations of S-rings of Krull type. We also determine, in the case of an independent S-ring of Krull type A, the injective dimension of the quotient category Mod(A)/\mathcal{M}_{0}, where \mathcal{M}_{0} is the thick subcategory of the modules with trivial maps into the codivisorial modules.

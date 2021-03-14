@@ -1,0 +1,1 @@
+We give a proof that OCA holds in the Pmax extension of L(R). The proof is general enough to be adapted to most Pmax variations.

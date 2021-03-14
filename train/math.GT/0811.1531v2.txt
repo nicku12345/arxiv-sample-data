@@ -1,0 +1,1 @@
+Recent work of M. Yoshinaga shows that in some instances certain higher homotopy groups of arrangements map onto non-resonant homology. This is in contrast to the usual Hurewicz map to untwisted homology, which is always the zero homomorphism in degree greater than one. In this work we examine this dichotomy, generalizing both results.

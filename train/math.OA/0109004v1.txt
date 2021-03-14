@@ -1,0 +1,1 @@
+The Haar measure on some locally compact quantum groups is constructed. The main example we treat is the az+b-group of Woronowicz. We also briefly consider some other examples (like the ax+b-group). We get the first examples of a locally compact quantum group where the Haar measure is not invariant with respect to the scaling group.

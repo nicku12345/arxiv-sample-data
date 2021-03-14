@@ -1,0 +1,1 @@
+We prove that Behrend's function is constant on Hilb^n(C^3). A calculation of motivic zeta functions shows the relevant Milnor fibers have zero Euler characteristic. As a corollary we see that Hilb^n(C^3) is generically reduced. These results extend to moduli schemes of points and curves on resolutions of ADE singularities C \times Y_G.

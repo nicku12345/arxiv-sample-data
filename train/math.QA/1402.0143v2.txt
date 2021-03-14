@@ -1,0 +1,1 @@
+We classify, up to conjugation, all automorphisms of Niemeier lattices to which we can apply Miyamoto's orbifold construction. Using this classification, we prove that the VOAs obtained in [M] and [SS] are all of holomorphic non-lattice VOAs which we can obtain by applying the \mathbb{Z}_3-orbifold construction to a Niemeier lattice and its automorphism.

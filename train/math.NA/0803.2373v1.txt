@@ -1,0 +1,1 @@
+In this paper we consider the iteratively regularized Gauss-Newton method for solving nonlinear ill-posed inverse problems. Under merely Lipschitz condition, we prove that this method together with an a posteriori stopping rule defines an order optimal regularization method if the solution is regular in some suitable sense.

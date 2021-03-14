@@ -1,0 +1,1 @@
+Cell structures were introduced by W. Debski and E. Tymchatyn as a way to study some classes of topological spaces and their continuous functions by means of discrete approximations. In this work we weaken the notion of cell structure and prove that the resulting class of topological space admitting such a generalized cell structure includes non-regular spaces.

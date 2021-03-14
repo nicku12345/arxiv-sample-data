@@ -1,0 +1,1 @@
+In this article we prove the existence of a stochastic optimal transference plan for a stochastic Monge-Kantorovich problem by measurable selection theorem. A stochastic version of Kantorovich duality and the characterization of stochastic optimal transference plan are also established. Moreover, Wasserstein distance between two probability kernels are discussed too.

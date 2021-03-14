@@ -1,0 +1,1 @@
+We study a class of p-Laplacian Dirichlet problems with weights that are possibly singular on the boundary of the domain, and obtain nontrivial solutions using Morse theory. In the absence of a direct sum decomposition, we use a cohomological local splitting to get an estimate of the critical groups.

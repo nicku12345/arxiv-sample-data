@@ -1,0 +1,1 @@
+This expository note explores Laplacian eigenfunction localization for compact domains. We work in the context of a particular numerically determined, localized, low frequency eigenfunction.

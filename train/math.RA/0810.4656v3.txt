@@ -1,0 +1,1 @@
+The Yoneda algebra of a Koszul algebra or a D-Koszul algebra is Koszul. K_2 algebras are a natural generalization of Koszul algebras, and one would hope that the Yoneda algebra of a K_2 algebra would be another K_2 algebra. We show that this is not necessarily the case by constructing a monomial K_2 algebra for which the corresponding Yoneda algebra is not K_2.

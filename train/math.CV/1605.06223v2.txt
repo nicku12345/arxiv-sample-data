@@ -1,0 +1,1 @@
+Regularity and irregularity of the Bergman projection on L^p spaces is established on a natural family of bounded, pseudoconvex domains. The family is parameterized by a real variable \gamma. A surprising consequence of the analysis is that, whenever \gamma is irrational, the Bergman projection is bounded only for p=2.

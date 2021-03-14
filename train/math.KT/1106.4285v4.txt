@@ -1,0 +1,1 @@
+We define the Igusa-Todorov function in the context of finite dimensional comodules and prove that a coalgebra is left qcF if and only if it is left semiperfect and its Igusa-Todorov function on each right finite dimensional comodule is zero.

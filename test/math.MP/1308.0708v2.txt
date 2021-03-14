@@ -1,0 +1,1 @@
+We study a class of random block operators which appear as effective one-particle Hamiltonians for the anisotropic XY quantum spin chain in an exterior magnetic field given by an array of i.i.d. random variables. For arbitrary non-trivial single-site distribution of the magnetic field, we prove dynamical localization of these operators at non-zero energy.

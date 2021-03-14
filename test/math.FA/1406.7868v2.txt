@@ -1,0 +1,1 @@
+Let \mathrm{Lip}_0(X) be the space of all Lipschitz scalar-valued functions on a pointed metric space X. We characterize the approximation property for \mathrm{Lip}_0(X) with the bounded weak* topology using as tools the tensor product, the \epsilon-product and the linearization of Lipschitz mappings.

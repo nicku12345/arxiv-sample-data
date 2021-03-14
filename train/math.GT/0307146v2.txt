@@ -1,0 +1,1 @@
+In this note we prove that there is no constant C, depending on the genus of the surface, such that every element in the mapping class group can be written as a product of at most C torsion elements, answering a question of T. E. Brendle and B. Farb in the negative.

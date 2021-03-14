@@ -1,0 +1,1 @@
+We consider the localization of the \infty-category of spaces at the v_n-periodic equivalences, the case n=0 being rational homotopy theory. We prove that this localization is for n\geq 1 equivalent to algebras over a certain monad on the \infty-category of T(n)-local spectra. This monad is built from the Bousfield--Kuhn functor.

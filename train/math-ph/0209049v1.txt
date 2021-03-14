@@ -1,0 +1,1 @@
+We show that the particle number density derived from the thermodynamic Green's function at temperature zero constructed in the second part of this series has a jump across the Fermi curve, a basic property of a Fermi liquid. We further show that the two particle thermodynamic Green's function at temperature zero has the regularity behavior expected in a Fermi liquid.

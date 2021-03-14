@@ -1,0 +1,1 @@
+It is shown that Schneiderman and Teichner's invariant \tau detects the example due to Kirk of a link map f:S^2_+\cup S^2_-\to S^4 for which the restricted map f|S^2_+:S^2_+\to S^4-f(S^2_-) has vanishing Wall self-intersection but is not homotopic to an embedding.

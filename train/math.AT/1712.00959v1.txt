@@ -1,0 +1,1 @@
+In this paper, we introduce geometric technique of working with skew-framed manifolds. It allows us to study stable homotopy groups of some Thom spaces by geometric means. We schematically describe how our results (which are also of independent interest) can be applied to obtain a proof of the Baum-Browder theorem stating non-immersibility of \RP^{10} to \R^{15}.

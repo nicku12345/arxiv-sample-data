@@ -1,0 +1,1 @@
+We give a direct proof that the category of strict \omega-categories is monadic over the category of polygraphs.

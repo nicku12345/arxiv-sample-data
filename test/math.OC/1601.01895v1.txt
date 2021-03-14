@@ -1,0 +1,1 @@
+Any nonempty, compact, semi-algebraic set in [0, 1] n is the projection of the set of mixed equilibria of a finite game with 2 actions per player on its first n coordinates. A similar result follows for sets of equilibrium payoffs. The proofs are constructive and elementary.

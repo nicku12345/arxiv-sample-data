@@ -1,0 +1,1 @@
+In this note we provide a quasisymmetric taming of uniformly perfect and uniformly disconnected sets that generalizes a result of MacManus from 2 to higher dimensions. In particular, we show that a compact subset of \mathbb{R}^n is uniformly perfect and uniformly disconnected if and only if it is ambiently quasiconformal to the standard Cantor set \mathcal{C} in \mathbb{R}^{n+1}.

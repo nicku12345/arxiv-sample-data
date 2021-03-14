@@ -1,0 +1,1 @@
+In this note, we prove an index theorem on Galois covering for Heisenberg elliptic differential operators, which is not elliptic, analogous to Atiyah's \Gamma-index theorem. This note also contains an example of Heisenberg differential operators with non-trivial \Gamma-index.

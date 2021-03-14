@@ -1,0 +1,1 @@
+We show that Voevodsky's univalence axiom for intensional type theory is valid in categories of simplicial presheaves on elegant Reedy categories. In addition to diagrams on inverse categories, as considered in previous work of the author, this includes bisimplicial sets and \Theta_n-spaces. This has potential applications to the study of homotopical models for higher categories.

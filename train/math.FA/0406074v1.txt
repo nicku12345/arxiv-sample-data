@@ -1,0 +1,1 @@
+It is proved that the complex double Fourier series of an integrable function f(x,y) with coefficients \{c_{jk}\} satisfying certain conditions, will converge in L^{1}-norm. The conditions used here are the combinations of Tauberian condition of Hardy--Karamata kind and its limiting case. This paper extends the result of Bray [1] to complex double Fourier series.

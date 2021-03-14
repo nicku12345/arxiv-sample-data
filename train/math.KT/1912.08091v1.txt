@@ -1,0 +1,1 @@
+We compute the Ext group of the (filtered) Ogus category over a number field K. In particular we prove that the filtered Ogus realisation of mixed motives is not fully faithful.

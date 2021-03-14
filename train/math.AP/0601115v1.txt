@@ -1,0 +1,1 @@
+We present a new stability result for viscosity solutions of fully nonlinear parabolic equations which allows to pass to the limit when one has only weak convergence in time of the nonlinearities.

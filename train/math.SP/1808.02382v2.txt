@@ -1,0 +1,1 @@
+In this paper we associate to a linear differential equation with coefficients in the field of Laurent formal power series a new geometric object, a spectrum in the sense of Berkovich. We will compute this spectrum and show that it contains interesting informations about the equation.

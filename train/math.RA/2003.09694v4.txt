@@ -1,0 +1,1 @@
+The purpose of this short note is to consider multi-variate Hasse-Schmidt derivations on exterior algebras and to show how they easily provide remarkable identities, holding in the algebra of square matrices, which generalise the classical theorem of Cayley-Hamilton.

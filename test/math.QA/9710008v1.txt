@@ -1,0 +1,1 @@
+Motivated by the work of Nakayashiki on the inhomogeneous vertex models of 6-vertex type, we introduce the notion of crystals with head. We show that the tensor product of the highest weight crystal of level k and the perfect crystal of level l is isomorphic to the tensor product of the perfect crystal of level l-k and the highest weight crystal of level k.

@@ -1,0 +1,1 @@
+We construct a spectral sequence for computing KR-theory, analogous to the spectral sequence relating motivic cohomology to algebraic K-theory.

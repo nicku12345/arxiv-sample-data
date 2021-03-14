@@ -1,0 +1,1 @@
+Applying the method of the paper [CT], we perform a quantum version of the Drinfeld-Sokolov reduction in Reflection Equation algebras and braided Yangians, associated with involutive and Hecke symmetries of general forms. This reduction is based on the Cayley-Hamilton identity valid for the generating matrices of these algebras.

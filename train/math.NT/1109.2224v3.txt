@@ -1,0 +1,1 @@
+We investigate the intersections of the curve \mathbb{R}\ni t\mapsto \zeta({1\over 2}+it) with the real axis. We show unconditionally that the zeta-function takes arbitrarily large positive and negative values on the critical line.

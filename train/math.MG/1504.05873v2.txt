@@ -1,0 +1,1 @@
+It is shown that the growth rate (\lim_r |B(r)|^{1/r}) of any k faces Dirichlet tiling of the real hyperbolic space \mathbb{H}^d, d>2, is at most k-1-\epsilon, for an \epsilon > 0, depending only on k and d. We don't know if there is a universal \epsilon_u > 0, such that k-1-\epsilon_u upperbounds the growth rate for any k-regular tiling, when  d > 2?

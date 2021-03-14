@@ -1,0 +1,1 @@
+We describe the space of arrow diagram formulas for virtual knot diagrams in the annulus as the kernel of a linear map, inspired from a conjecture due to M. Polyak. As a main application, we slightly improve Grishanov-Vassiliev's theorem for planar chain invariants.

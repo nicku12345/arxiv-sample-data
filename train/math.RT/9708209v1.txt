@@ -1,0 +1,1 @@
+In this note, we prove that if (G,V) is a prehomogeneous vector space over any field k such that the stabilizer of a generic point is reductive, the set of semi-stable points is a single orbit over the separable closure of k.

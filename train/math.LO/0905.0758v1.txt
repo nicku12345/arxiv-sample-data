@@ -1,0 +1,1 @@
+We present a simpler way than usual to deduce the completeness theorem for the second-oder classical logic from the first-order one. We also extend our method to the case of second-order intuitionistic logic.

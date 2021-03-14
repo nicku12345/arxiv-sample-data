@@ -1,0 +1,1 @@
+We extend the use of ("Kripke-Joyal")- reasoning in categories admitting pull-backs. The aim is to give a theory of jets in this context.

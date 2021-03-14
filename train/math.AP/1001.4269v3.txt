@@ -1,0 +1,1 @@
+In this paper we construct a Gibbs measure for the derivative Schr\"odinger equation on the circle. The construction uses some renormalisations of Gaussian series and Wiener chaos estimates, ideas which have already been used by the second author in a work on the Benjamin-Ono equation.

@@ -1,0 +1,1 @@
+We prove that for any countably many one-parameter diagonalizable subgroups F_n of \rm{SL}_3(\mathbb{R}), the set of \Lambda\in\rm{SL}_3(\mathbb{R})/\rm{SL}_3(\mathbb{Z}) such that all the orbits F_n\Lambda are bounded has full Hausdorff dimension.

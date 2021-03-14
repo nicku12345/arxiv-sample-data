@@ -1,0 +1,1 @@
+We show that the strong operator topology, the weak operator topology and the compact-open topology agree on the space of unitary operators of a infinite dimensional separable Hilbert space. Moreover, we show that the unitary group endowed with any of these topologies is a Polish group.

@@ -1,0 +1,1 @@
+We give a Quillen equivalence between model structures for simplicial operads, described via the theory of operads, and Segal operads, thought of as certain reduced dendroidal spaces. We then extend this result to give an Quillen equivalence between the model structures for simplicial operads equipped with a group action and the corresponding Segal operads.

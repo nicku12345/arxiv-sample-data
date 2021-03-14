@@ -1,0 +1,1 @@
+It is known that the bimodule derived mapping spaces between two operads have a delooping in terms of the operadic mapping space. We show a relative version of that statement. The result has applications to the spaces of disc embeddings fixed near the boundary and framed disc embeddings.

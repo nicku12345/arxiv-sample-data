@@ -1,0 +1,1 @@
+An identity involving basic Bessel functions and Al-Salam--Chihara polynomials is proved for which we recover Graf's addition formula for the Bessel function as the base q tends to 1. The corresponding product formula is derived. Some known identities for Jackson's q-Bessel functions are obtained as limiting cases. As special cases we prove identities for q-Charlier polynomials.

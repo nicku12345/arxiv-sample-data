@@ -1,0 +1,1 @@
+We view the moduli space of semistable sheaves on a K3 surface as a global quotient stack, and compute its cotangent complex in terms of the universal sheaf on the Quot scheme. Relevant facts on the classical and reduced Atiyah classes are reviewed. We also define the notion of a symplectic stack, and show that it includes all moduli stacks of semistable sheaves on K3 surfaces.

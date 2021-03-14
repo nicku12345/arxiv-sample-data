@@ -1,0 +1,1 @@
+This short squib looks at how using a broader definition of G\"odel numbering to mimic the accessibility relation between possible worlds results in two-world systems that sidestep undecidable sentences as well as the Liar paradox.

@@ -1,0 +1,1 @@
+In this paper we study the dg-category of twisted perfect complexes on a ringed space with soft structure sheaf. We prove that this dg-category is quasi-equivalent to the dg-category of complexes of vector bundles on that space. This result could be considered as a dg-enhancement of the classic result on soft sheaves in SGA6.

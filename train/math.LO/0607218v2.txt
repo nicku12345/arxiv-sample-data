@@ -1,0 +1,1 @@
+We continue investigations of reasonable ultrafilters on uncountable cardinals defined in Shelah math.LO/0407498 and studied also in math.LO/0605067. We introduce a general scheme of generating a filter on lambda from filters on smaller sets and we investigate the combinatorics of objects obtained this way.

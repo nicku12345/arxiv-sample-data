@@ -1,0 +1,1 @@
+We study separating function sets. We find some necessary and sufficient conditions for C_p(X) or C_p^2(X) to have a point-separating subspace that is a metric space with certain nice properties. One of the corollaries to our discussion is that for a zero-dimensional X, C_p(X) has a discrete point-separating space if and only if C_p^2(X) does.

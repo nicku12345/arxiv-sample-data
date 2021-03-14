@@ -1,0 +1,1 @@
+We prove that stably free modules of rank d-1 over a smooth affine algebra of dimension d over an algebraically closed field k are free, provided (d-1)! is nonzero in k.

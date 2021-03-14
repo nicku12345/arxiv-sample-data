@@ -1,0 +1,1 @@
+The Kauffman bracket skein modules, S(M,A), have been calculated for A=+1,-1, for all 3-manifolds M by relating them to the SL(2,C)-character varieties. We extend this description to the case when A is a 4-th root of 1 and M is either a surface x [0,1] or a rational homology sphere (or its submanifold).

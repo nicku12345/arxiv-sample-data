@@ -1,0 +1,1 @@
+Let G be a semisimple linear algebraic group over the field \mathbb C, and let C be an irreducible smooth complex projective curve of genus at least three. We compute the Brauer group of the smooth locus of the moduli space of semistable principal G--bundles over C. We also compute the Brauer group of the moduli stack of principal G--bundles over C.

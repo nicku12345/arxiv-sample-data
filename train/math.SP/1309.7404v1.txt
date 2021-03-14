@@ -1,0 +1,1 @@
+We consider differential equations -y"+P(z,a)y=Ey, where P is a polynomial of the independent variable z depending on a parameter a. The spectral locus is the set of (a,E) such that the equation has a non-trivial solution tending to zero on two fixed rays in the complex plane. We study the topology of the spectral loci for polynomials P of degree 3 or 4.

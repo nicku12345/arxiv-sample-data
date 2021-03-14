@@ -1,0 +1,1 @@
+Assuming the negative part of the potential is uniformly locally L^1, we prove a pointwise L^p estimate on derivatives of eigenfunctions of one-dimensional Schrodinger operators. In particular, if an eigenfunction is in L^p, then so is its derivative, for 1\le p\le \infty.

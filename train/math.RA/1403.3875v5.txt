@@ -1,0 +1,1 @@
+A planar semimodular lattice is slim if it does not contain M_3 as a sublattice. An SPS lattice is a slim, planar, semimodular lattice. A recent result of G\'abor Cz\'edli proves that there is an eight element (planar) distributive lattice that cannot be represented as the congruence lattice of an SPS lattice. We provide a new proof.

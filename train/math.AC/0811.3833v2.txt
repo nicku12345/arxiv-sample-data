@@ -1,0 +1,1 @@
+Let I_{L, \rho} be a lattice ideal. We provide a necessary and sufficient criterion under which a set of binomials in I_{L, \rho} generate the radical of I_{L, \rho} up to radical. We apply our results to the problem of determining the minimal number of generators of I_{L, \rho} or of the rad(I_{L, \rho}) up to radical.

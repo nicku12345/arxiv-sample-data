@@ -1,0 +1,1 @@
+We study efficient combinatorial algorithms to produce the Hasse diagram of the poset of bounded faces of an unbounded polyhedron, given vertex-facet incidences. We also discuss the special case of simple polyhedra and present computational results.

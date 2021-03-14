@@ -1,0 +1,1 @@
+We describe theoretical backgrounds for a computer program that recognizes all closed orientable 3-manifolds up to complexity 8. The program can treat also not necessarily closed 3-manifolds of bigger complexities, but here some unrecognizable (by the program) 3-manifolds may occur.

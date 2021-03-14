@@ -1,0 +1,1 @@
+We prove that the drift \theta(d,\beta) for excited random walk in dimension d is monotone in the excitement parameter \beta \in[0, 1], when d\ge 9.

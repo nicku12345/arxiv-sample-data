@@ -1,0 +1,1 @@
+Let G be a simply connected compact Lie group and T its maximal torus. We compute the graded ring gr_{gamma}(G/T) associated with the gamma filtration of the complex K-theory K(G/T). We use the Chow ring of the corresponding versal flag variety.

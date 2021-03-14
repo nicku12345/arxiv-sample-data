@@ -1,0 +1,1 @@
+Let G be a finite group of nilpotency class 2 and w a group word. In this short paper we show that the probability that a random n-tuple of elements from G satisfies w is at least one over the order of G. This answers a special case of a conjecture of Alon Amit.

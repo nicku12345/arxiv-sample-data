@@ -1,0 +1,1 @@
+We prove that, in Young towers with sufficiently small tails, the speed in the central limit theorem is O(1/\sqrt{n}), and the local limit theorem holds. This implies the same results for many non uniformly expanding dynamical systems, namely those for which a tower with sufficiently fast returns can be constructed.

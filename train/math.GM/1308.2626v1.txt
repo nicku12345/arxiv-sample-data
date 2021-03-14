@@ -1,0 +1,1 @@
+This communication shows the track for finding a solution for a sin(kx)/k**2 series and a fresh representation for the Euler's Gamma function in terms of Riemann's Zeta function. We have found a new series expression for the logarithm as a side effect. The new series are useful both for analysis, approximations and asymptotic studies.

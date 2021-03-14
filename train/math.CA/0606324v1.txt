@@ -1,0 +1,1 @@
+We analyze the polynomials H_{n}^{r}(x) considered by Gould and Hopper, which generalize the classical Hermite polynomials. We present the main properties of H_{n}^{r}(x) and derive asymptotic approximations for large values of n from their differential-difference equation, using a discrete ray method. We give numerical examples showing the accuracy of our formulas.

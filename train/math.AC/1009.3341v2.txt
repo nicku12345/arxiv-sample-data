@@ -1,0 +1,1 @@
+To any walk in a quiver, we associate a Laurent polynomial. When the walk is the string of a string module over a 2-Calabi-Yau tilted algebra, we prove that this Laurent polynomial coincides with the corresponding cluster character of the string module, up to an explicit normalising monomial factor.

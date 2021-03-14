@@ -1,0 +1,1 @@
+Contrary to what would be predicted on the basis of Cram\'er's model concerning the distribution of prime numbers, we develop evidence that the distribution of \psi(x+H)- \psi(x), for 0\le x\le N, is approximately normal with mean \sim H and variance \sim H\log N/H, when N^\delta \le H \le N^{1-\delta}.

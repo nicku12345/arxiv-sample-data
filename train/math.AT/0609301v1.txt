@@ -1,0 +1,1 @@
+This paper uses a relative of BP-cohomology to prove a theorem in characteristic p algebra. Specifically, we obtain some new necessary conditions for the existence of sums-of-squares formulas over fields of characteristic p > 2. These conditions were previously known in characteristic zero by results of Davis. Our proof uses a generalized etale cohomology theory called etale BP2.

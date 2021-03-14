@@ -1,0 +1,1 @@
+We prove sharp upper bounds for the number of resonances in boxes of size 1 at high frequency for the Laplacian on finite volume surfaces with hyperbolic cusps. As a corollary, we obtain a Weyl asymptotic for the number of resonances in balls of size T \to \infty with remainder O(T^{3/2}).

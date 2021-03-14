@@ -1,0 +1,1 @@
+We construct a Lipschitz function on \er^{2} which is locally convex on the complement of some totally disconnected compact set but not convex. Existence of such function disproves a theorem that appeared in a paper by L. Pasqualini and was also cited by other authors.

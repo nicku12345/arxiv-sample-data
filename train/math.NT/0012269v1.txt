@@ -1,0 +1,1 @@
+Given a parametrisation of an elliptic curve over Q by a Shimura curve, we show that the images of almost all Heegner points are of infinite order. For parametrisations of elliptic curves by modular curves this was proven earlier by Nekovar and Schappacher by a different method.

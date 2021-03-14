@@ -1,0 +1,1 @@
+The theory of the calculus of variations for fuzzy systems was recently initiated in [7], with the proof of the fuzzy Euler-Lagrange equation. Using fuzzy Euler-Lagrange equation, we obtain here a Noether-like theorem for fuzzy variational problems.

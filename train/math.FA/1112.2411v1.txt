@@ -1,0 +1,1 @@
+We define block sequences (x_n) in every block subspace of a variant of the space of Gowers and Maurey so that the map x_{2n-1}\mapsto x_{2n}  extends to an isomorphism. This implies the existence of a subsequentially minimal HI space, which solves a question in \cite{FR}.

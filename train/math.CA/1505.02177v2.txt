@@ -1,0 +1,1 @@
+Denoting by E_{n}^{(+2)}(f) the best uniform approximation of f by convex polynomials of degree \le n, there is an open question if there exists the limit \lim_{n\to \infty}n^{\lambda}E_{n}^{(+2)}(|x|^{\lambda}) for \lambda \ge 1.

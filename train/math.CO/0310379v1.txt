@@ -1,0 +1,1 @@
+We enumerate the independent sets of several classes of regular and almost regular graphs and compute the corresponding generating functions. We also note the relations between these graphs and other combinatorial objects and, in some cases, construct the corresponding bijections.

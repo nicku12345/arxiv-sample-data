@@ -1,0 +1,1 @@
+We show that renormalized two-dimensional Lotka--Volterra models near criticality converge to a super-Brownian motion. This is used to establish long-term survival of a rare type for a range of parameter values near the voter model.

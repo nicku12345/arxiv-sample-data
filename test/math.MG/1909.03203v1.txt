@@ -1,0 +1,1 @@
+In this note we show local Lipschitz property of the graph avoiding multiple point intersection with lines directed in a given cone. The assumption is much stronger than those of well-known Marstrand's theorem, but the conclusion is much stronger too.

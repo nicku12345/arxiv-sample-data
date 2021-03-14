@@ -1,0 +1,1 @@
+We study a competition model on \mathbb{Z}^d where the two infections are driven by supercritical Bernoulli percolations with distinct parameters p and q. We prove that, for any q, there exist at most countably many values of p<\min(q, \overrightarrow{p\_c}) such that coexistence can occur.

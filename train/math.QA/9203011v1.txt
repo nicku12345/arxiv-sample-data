@@ -1,0 +1,1 @@
+We recall the classification of the irreducible representations of SL(2)_q, and then give fusion rules for these representations. We also consider the problem of \cR-matrices, intertwiners of the differently ordered tensor products of these representations, and satisfying altogether Yang--Baxter equations.

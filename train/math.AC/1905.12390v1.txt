@@ -1,0 +1,1 @@
+Let R be a commutative Noetherian (not necessarily local) ring with identity and a be a proper ideal of R. We introduce a notion of a-relative system of parameters and characterize them by using the notion of cohomological dimension. Also, we present a criterion of relative Cohen-Macaulay modules via relative system of parameters.

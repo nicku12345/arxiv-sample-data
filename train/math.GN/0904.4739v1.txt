@@ -1,0 +1,1 @@
+For a locally path connected topological space, the topological fundamental group is discrete if and only if the space is semilocally simply-connected. While functoriality of the topological fundamental group for arbitrary topological spaces remains an open question, the topological fundamental group is always a homogeneous space.

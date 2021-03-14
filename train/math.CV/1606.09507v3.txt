@@ -1,0 +1,1 @@
+We construct a metric on a vector bundle E \rightarrow Z restricted to a conic neighbourhood of a relatively compact 1-convex section of a submersion Z \rightarrow X with at most polynomial poles at the boundary and positive Nakano curvature tensor in bidegree (p,q).

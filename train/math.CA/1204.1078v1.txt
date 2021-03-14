@@ -1,0 +1,1 @@
+The inverse central binomial series {equation}S_k(z)=\sum_{n=1}^{\infty}\frac{n^k z^n}{\binom{2n}{n}}{equation} popularized by Ap\'ery and Lehmer is evaluated for positive integers k along with the asymptotic behavior for large k. It is found that value z=2, as commented on by D. H. Lehmer provides a unique relation to \pi.

@@ -1,0 +1,1 @@
+We develop the Tannaka-Krein duality for monoidal functors with target in the categories of bimodules over a ring. The \coend of such a functor turns out to be a Hopf algebroid over this ring. Using the result of a previous paper we characterize a small abelian, locally finite rigid monoidal category as the category of rigid comodules over a transitive Hopf algebroid.

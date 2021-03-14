@@ -1,0 +1,1 @@
+The above equation is also called as Euler(6,2,5) system. By computational aspect these systems are very interesting. And we can also apply these methods to other Diophantine equations. We give a brief history of these systems and how we searched for these big solutions on Boinc. Our two Boinc projects ran from April of 2010 to July of 2011.

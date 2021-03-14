@@ -1,0 +1,1 @@
+The fermionic second quantization operator d\Gamma(B) is shown to be bounded by a power N^{s/2} of the number operator N given that the operator B belongs to the r-th von Neumann-Schatten class, s=2(r-1)/r. Conversely, number operator estimates for d\Gamma(B) imply von Neumann-Schatten conditions on B. Quadratic creation and annihilation operators are treated as well.

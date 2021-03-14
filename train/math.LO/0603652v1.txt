@@ -1,0 +1,1 @@
+For a dependent theory T, in C_T for every type definable group G, the intersection of type definable subgroups with bounded index is a type definable subgroup with bounded index.

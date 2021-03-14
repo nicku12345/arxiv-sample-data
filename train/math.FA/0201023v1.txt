@@ -1,0 +1,1 @@
+Necessary and sufficient quantitative geometric conditions are given for an unbounded set A in a euclidean space R^n to have the following property with a given c > 0: For every s > 0 and for every s-nearisometry f: A -> R^n there is an isometry T: A -> R^n such that |Tx - fx| \le cs for all x in A.

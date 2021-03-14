@@ -1,0 +1,1 @@
+We prove that the higher direct images of the dualizing sheaf of a Lagrangian fibration between smooth projective manifolds are isomorphic to the cotangent bundles of base space.   As a corollary, we obtain that every Hodge number of the base space of a fibre space of an irreducible symplectic manifold is the same to that of a projective space if the base space is smooth.

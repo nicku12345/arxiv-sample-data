@@ -1,0 +1,1 @@
+We introduce a generalization of the notion of local homology module, which we call a local homology module with respect to a pair of ideals \left(I,J\right), and study its various properties such as vanishing, co-support and co-associated. We also discuss its connection with ordinary local homology.

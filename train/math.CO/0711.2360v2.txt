@@ -1,0 +1,1 @@
+Carsten Thomassen conjectured that every longest circuit in a 3-connected graph has a chord. We prove the conjecture for graphs having no K_{3,3} minor, and consequently for planar graphs.

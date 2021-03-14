@@ -1,0 +1,1 @@
+We show that a group is a GVZ-group if and only if it is a flat group. We show that the nilpotence class of a GVZ-group is bounded by the number of distinct degrees of irreducible characters. We also show that certain CM-groups can be characterized as GVZ-groups whose irreducible character values lie in the prime field.

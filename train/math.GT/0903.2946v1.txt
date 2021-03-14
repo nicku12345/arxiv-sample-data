@@ -1,0 +1,1 @@
+The symplectic group Sp(2g,Z) is a subgroup of the linear group SL(2g,Z) and admits a faithful action on the sphere S^(2g-1), induced from its linear action on Euclidean space R^(2g). Generalizing corresponding results for linear groups, we show that, if m < 2g-1 and g > 2, any continuous action of Sp(2g,Z) on a homology m-sphere, and in particular on S^m, is trivial.

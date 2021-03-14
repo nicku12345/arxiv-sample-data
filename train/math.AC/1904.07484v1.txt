@@ -1,0 +1,1 @@
+We present algorithms for the computation of the Castelnuovo-Mumford regularity of the Rees algebra and of the fiber ring of equigenerated \mm-primary ideals in two variables. Applying these algorithms, we find a counter-example to a conjecture of Eisenbud and Ulrich which states that these regularities are equal.

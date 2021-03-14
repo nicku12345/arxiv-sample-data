@@ -1,0 +1,1 @@
+This article contains a self-contained proof of the stability under convolution of the space of resurgent functions associated with a closed discrete subset of the complex plane (the set of possible singularities), under the assumption that this set be stable under addition.

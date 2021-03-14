@@ -1,0 +1,1 @@
+We study one parameter deformations of a pair consisting of an analytic singular space X_0 and a function f_0 on it, in case this defines an isolated singularity. We prove, under general conditions, a bouquet decomposition of the Milnor fibre when the isolated singularity splits in the deformation and the invariance of the Milnor fibration if there is no splitting.

@@ -1,0 +1,1 @@
+This article contains all of the technical ingredients required to implement an effective, explicit and unconditional amplifier in the context of GL(3) automorphic forms. In particular, several coset decomposition computations in the GL(3) Hecke algebra are explicitly done.

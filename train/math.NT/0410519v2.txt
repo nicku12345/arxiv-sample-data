@@ -1,0 +1,1 @@
+The original version of this paper did not take into account that there may be solutions (x_0, y_o)in Z X Z of f(x,y) = x^3 + p(y)x + q(y) = 0 even though w_0 = (-3D(y_0))^(1/2) is irrational.

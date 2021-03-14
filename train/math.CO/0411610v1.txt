@@ -1,0 +1,1 @@
+It is shown that the numbers c_i of chains of length i in the proper part L\setminus\{0,1\} of a distributive lattice L of length \ell +2 satisfy the inequalities c_0<...<c_{\lfloor{\ell /2}\rfloor} \quad{and}\quad c_{\lfloor{3 \ell /4}\rfloor}>...>c_{\ell}. This proves 75 % of the inequalities implied by the Neggers unimodality conjecture.

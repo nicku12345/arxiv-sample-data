@@ -1,0 +1,1 @@
+We establish some inequalities about the Khovanov-Rozansky cohomologies of braids. These give new upper bounds of the self-linking numbers of transversal links in standard contact S^3 which is sharper than the well known bound given by the HOMFLY polynomial. We also introduce a sequence of transversal link invariants, and discuss some of their properties.

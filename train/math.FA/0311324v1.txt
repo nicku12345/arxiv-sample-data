@@ -1,0 +1,1 @@
+We introduce a class of operators on L_1 that is stable under taking sums of pointwise unconditionally convergent series, contains all compact operators and does not contain isomorphic embeddings. It follows that any operator from L_1 into a space with an unconditional basis belongs to this class.

@@ -1,0 +1,1 @@
+We study a class of spectral multipliers \phi(L) for the Ornstein--Uhlenbeck operator L arising from the Gaussian measure on R^n and find a sufficient condition for integrability of \phi(L)f in terms of the admissible conical square function and a maximal function.

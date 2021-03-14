@@ -1,0 +1,1 @@
+We employed the techniques developed for second order problem to obtain the new estimates of Virtual Element Method for fourth order operator. The projection and interpolation error estimates are included. Also, the biharmonic problem is solved by Virtual Element Method. The optimal error estimates between exact solutions and the computable numerical solutions are obtained.

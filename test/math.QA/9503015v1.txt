@@ -1,0 +1,1 @@
+We show that the number of homomorphisms from a knot group to a finite group G cannot be a Vassiliev invariant, unless it is constant on the set of (2,2p+1) torus knots. In several cases, such as when G is a dihedral or symmetric group, this implies that the number of homomorphisms is not a Vassiliev invariant.

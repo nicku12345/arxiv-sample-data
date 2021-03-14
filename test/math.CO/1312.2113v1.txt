@@ -1,0 +1,1 @@
+In this paper we consider the uniformly resolvable decompositions of the complete graph K_v, or the complete graph minus a 1-factor as appropriate, into subgraphs such that each resolution class contains only blocks isomorphic to the same graph. We completely determine the spectrum for the case in which all the resolution classes are either P_3 or K_3.

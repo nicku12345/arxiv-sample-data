@@ -1,0 +1,1 @@
+Using the new extension of the zero-divisor graph \widetilde{\Gamma}(R) introduced in \cite{Groupe}, we give an approach of the diameter of \Gamma(R) and \Gamma(R[X]) other than given in \cite{Lucas} thus we give a complete characterization for the possible diameters 1, 2 or 3 of \Gamma(R) and \Gamma(R[x]).

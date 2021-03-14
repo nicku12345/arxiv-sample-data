@@ -1,0 +1,1 @@
+We consider two approaches for obtain of the generalized Ito-Wentzell formula: the first way uses the generalized Ito's formula; the second one is based on a concept of kernel functions for integral invariants.

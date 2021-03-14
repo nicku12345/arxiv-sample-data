@@ -1,0 +1,1 @@
+We establish an upper bound for the Thurston-Bennequin number of a Legendrian link using the Khovanov homology of the underlying topological link. This bound is sharp in particular for all alternating links, and knots with nine or fewer crossings.

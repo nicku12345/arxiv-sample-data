@@ -1,0 +1,1 @@
+This paper gives a process for finding discrete real specializations of sesquilinear representations of the braid groups using Salem numbers. This method is applied to the Jones and BMW representations, and some details on the commensurability of the target groups are given.

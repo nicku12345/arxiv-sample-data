@@ -1,0 +1,1 @@
+We prove a weighted inequality which controls conic Fourier multiplier operators in terms of lacunary directional maximal operators. By bounding the maximal operators, this enables us to conclude that the multiplier operators are bounded on L^p(\mathbb{R}^3) with 1<p<\infty.

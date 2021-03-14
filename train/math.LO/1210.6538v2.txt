@@ -1,0 +1,1 @@
+We give natural examples of factors of the Muchnik lattice which capture intuitionistic propositional logic (IPC), arising from the concepts of lowness, 1-genericity, hyperimmune-freeness and computable traceability. This provides a purely computational semantics for IPC.

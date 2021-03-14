@@ -1,0 +1,1 @@
+We prove consistency of the following sentence: ``ZFC + every real function is continuous on a non-meagre set'', answering a question of Fremlin.

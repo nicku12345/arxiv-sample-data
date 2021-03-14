@@ -1,0 +1,1 @@
+We use recoupling theory to study the Kauffman bracket skein module of the quaternionic manifold over Z[A,A^{-1}] localized by inverting all the cyclotomic polynomials. We prove that the skein module is spanned by five elements. Using the quantum invariants of these skein elements and the Z_2 homology of the manifold, we determine that they are linearly independent.

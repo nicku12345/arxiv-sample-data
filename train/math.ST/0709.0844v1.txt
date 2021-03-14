@@ -1,0 +1,1 @@
+We study a high-dimensional generalized linear model and penalized empirical risk minimization with \ell_1 penalty. Our aim is to provide a non-trivial illustration that non-asymptotic bounds for the estimator can be obtained without relying on the chaining technique and/or the peeling device.

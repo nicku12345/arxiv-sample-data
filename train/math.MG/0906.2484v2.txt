@@ -1,0 +1,1 @@
+For d\geq 2, we construct a doubling measure \nu on \R^d and a rectifiable curve \Gamma such that \nu(\Gamma)>0.

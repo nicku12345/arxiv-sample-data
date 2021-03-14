@@ -1,0 +1,1 @@
+Sturm theory for second order differential equations was generalized to systems and higher order equations with positive leading coefficient by several authors. Here we propose a Sturm oscillation theorem for indefinite systems of even order and with Dirichlet boundary conditions having strongly indefinite leading term.

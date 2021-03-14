@@ -1,0 +1,1 @@
+Given a Hilbert module E over a C*-algebra A, we show that the collection of all bounded A-module operators acting on E forms the reflexive closure for the algebra of the adjointable operators. We also make an observation regarding the representation theory of the left centralizer algebra of a C*-algebra and use it to give an intuitive proof of a related result of H. Lin

@@ -1,0 +1,1 @@
+We introduce hypergeometric functions related to projective Schur functions Q_{\lambda} and describe their properties. Linear equations, integral representations and Pfaffian representations are obtained. These hypergeometric functions are vacuum expectations of free fermion fields, and thus these functions are tau functions of the so-called BKP hierarchy of integrable equations.

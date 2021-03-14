@@ -1,0 +1,1 @@
+It is well known that the vertices of any Euclidean simplicial regular polytope determine an optimal packing of equal spherical balls. We prove a stability version of optimal order of this result.

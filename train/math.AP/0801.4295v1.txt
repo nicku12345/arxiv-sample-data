@@ -1,0 +1,1 @@
+We give sufficient conditions for the naturallity of the exterior differential under Sobolev mappings. In other words we study the validity of the equation d f^* \alpha = f^* d\alpha for a smooth form \alpha and a Sobolev map f.

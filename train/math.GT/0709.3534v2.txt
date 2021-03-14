@@ -1,0 +1,1 @@
+Suppose K is a knot in a closed 3-manifold M such that \bar{M-N(K)} is irreducible. We show that for any positive integer b there exists a triangulation of \bar{M-N(K)} such that any weakly incompressible bridge surface for K of b bridges or fewer is isotopic to an almost normal bridge surface.

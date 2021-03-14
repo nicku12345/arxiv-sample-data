@@ -1,0 +1,1 @@
+In this paper we present an algorithm to compute all unirational fields of transcendence degree one containing a given finite set of multivariate rational functions. In particular, we provide an algorithm to decompose a multivariate rational function f of the form f=g(h), where g is a univariate rational function and h a multivariate one.

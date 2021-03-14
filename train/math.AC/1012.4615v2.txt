@@ -1,0 +1,1 @@
+We extend our previous work on Poisson-like formulas for subresultants in roots to the case of polynomials with multiple roots in both the univariate and multivariate case, and also explore some closed formulas in roots for univariate polynomials in this multiple roots setting.

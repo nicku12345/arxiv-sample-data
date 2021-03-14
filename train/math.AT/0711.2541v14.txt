@@ -1,0 +1,1 @@
+Let G be a compact and 1--connected Lie group with a maximal torus T. Based on Schubert calculus on the flag manifold G/T [15] we construct the integral cohomology ring H^{\ast}(G) uniformly for all G.

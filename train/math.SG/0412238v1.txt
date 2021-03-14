@@ -1,0 +1,1 @@
+The purpose of this paper is to give a semi-local study along generic closed curves of zeros: we formally classify Poisson structures defined in a neighborhood of Gamma:=S^1x{0} in S^1xR^n, that vanish on Gamma, and whose linear approximation at one point m of Gamma is isomorphic to the dual of a non-resonant Lie algebra.

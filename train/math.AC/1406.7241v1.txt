@@ -1,0 +1,1 @@
+In this paper, the consimilarity of complex matrices is generalized for the split quaternions. In this regard, coneigenvalue and coneigenvector are defined for split quaternion matrices. Also, the existence of solution to the split quaternion matrix equation X-AXB = C is characterized and the solution of the equation in the explicit form are derived via its real representation.

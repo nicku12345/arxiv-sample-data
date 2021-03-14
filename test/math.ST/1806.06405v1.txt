@@ -1,0 +1,1 @@
+We propose the goodness of fit test for inhomogeneous Poisson processes with unknown scale and shift parameters. A test statistic of Cramer-von Mises type is proposed and its asymptotic behavior is studied. We show that under null hypothesis the limit distribution of this statistic does not depend on unknown parameters.

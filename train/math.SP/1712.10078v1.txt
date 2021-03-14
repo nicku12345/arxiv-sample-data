@@ -1,0 +1,1 @@
+We prove Berezin--Li--Yau inequalities for the Dirichlet and Neumann eigenvalues on domains on the sphere \mathbb{S}^{d-1}. The case of \mathbb{S}^{2} is treated in greater detail, including the vector Dirichlet Laplacian and the Stokes operator.

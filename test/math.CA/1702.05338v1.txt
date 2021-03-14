@@ -1,0 +1,1 @@
+We provide an overview of some results on the "geometry of error amplification" in solving Prony system, in situations where the nodes near-collide. It turns out to be governed by the "Prony foliations" S_q, whose leaves are "equi-moment surfaces" in the parameter space. Next, we prove some new results concerning explicit parametrization of the Prony leaves.

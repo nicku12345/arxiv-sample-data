@@ -1,0 +1,1 @@
+The behavior of a class of mappings of a domain of Euclidean space is studied. It is established that the indicated class is equicontinuous both at the inner and at the boundary points of the domain if the mappings contained in it satisfy the general normalization condition, and the corresponding characteristic of quasiconformality has a weak growth.

@@ -1,0 +1,1 @@
+A tractable nonparametric prior over densities is introduced which is closed under sampling and exhibits proper posterior asymptotics.

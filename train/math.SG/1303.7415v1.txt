@@ -1,0 +1,1 @@
+These notes are based on a course that took place at the Universit\'e de Nantes in June 2011 during the "Trimester on Contact and Symplectic Topology". We will explain how holomorphic curves can be used to study symplectic fillings of a given contact manifold. Our main goal consists in showing that certain contact manifolds do not admit any symplectic filling at all.

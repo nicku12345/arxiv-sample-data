@@ -1,0 +1,1 @@
+We use Green's canonical syzygy conjecture for generic curves to prove that the Green-Lazarsfeld gonality conjecture holds for generic curves of genus g, and gonality d, if g/3<d<[g/2]+2.

@@ -1,0 +1,1 @@
+We study the transfer operators for a family F_r:[0,1] \to [0,1] depending on the parameter r\in [0,1], which interpolates between the tent map and the Farey map. In particular, considering the action of the transfer operator on a suitable Hilbert space, we can define a family of infinite matrices associated to the operators and study their spectrum by numerical methods.

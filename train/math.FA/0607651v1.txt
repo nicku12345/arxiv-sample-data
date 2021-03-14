@@ -1,0 +1,1 @@
+Suppose \Pi_1(E, F) is the space of all absolutely 1-summing operators between two Banach spaces E and F. We show that if F has a copy of c_0, then \Pi_1(E, F) will have a copy of c_0, and under some conditions if E has a copy of \ell_1 then \Pi_1(E, F) would have a complemented copy of \ell_1.

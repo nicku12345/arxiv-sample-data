@@ -1,0 +1,1 @@
+We construct real numbers \alpha for which the pair correlation function \[N^{-1}#\{m<n\le N:||\alpha m^2-\alpha n^2||\le XN^{-1}\}\] tends to X as N grows. Moreover we show for any "Diophantine" \alpha that the pair correlation function is X+O(X^{7/8})+O((\log N)^{-1} for 1\le X\le\log N.

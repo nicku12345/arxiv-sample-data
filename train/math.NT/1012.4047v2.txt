@@ -1,0 +1,1 @@
+Let \{E_n\} be the Euler numbers. In the paper we determine E_{2^mk+b}-E_b modulo 2^{m+7}, where k and m are positive integers and b\in{0,2,4,...}.

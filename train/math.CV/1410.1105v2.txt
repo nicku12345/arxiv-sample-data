@@ -1,0 +1,1 @@
+We prove optimal estimates for the mapping properties of the Bergman projection on the Hartogs triangle in weighted L^p spaces when p>\frac{4}{3}, where the weight is a power of the distance to the singular boundary point. For 1<p\leq\frac{4}{3} we show that no such weighted estimates are possible.

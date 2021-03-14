@@ -1,0 +1,1 @@
+We discuss conditions for complete intersections in a toric variety which allow to compute Hodge numbers if the complete intersection is a quasi-smooth complete variety. A preliminary step is the computation of the Euler characteristic of differential forms, we also look at symmetric or arbitrary forms instead of the usual alternating ones.

@@ -1,0 +1,1 @@
+As of today, there are very few known complete shrinking Ricci solitons in dimension 4, and all examples discovered so far are K\"ahler and/or Einstein. In this note, we prove that any four dimensional J-invariant gradient shrinking Ricci solitons satisfy a differential form identity relating K\"ahlerity annd Einstein-ness.

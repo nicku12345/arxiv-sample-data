@@ -1,0 +1,1 @@
+We investigate sheaves supported on the zero section of the total space of a locally-free sheaf E on a smooth, projective variety X when the top exterior power of E is isomorphic to the canonical bundle of X. We rephrase this construction using the language of A-infinity algebra and provide a simple characterisation of the case E is simply the canonical bundle itself.

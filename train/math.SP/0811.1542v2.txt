@@ -1,0 +1,1 @@
+In this work we study the sequence of variational eigenvalues of a system of resonant type involving p- and q-laplacians on \Omega \subset \R^N, with a coupling term depending on two parameters \alpha and \beta satisfying \alpha/p + \beta/q = 1. We show that the order of growth of the k^{th} eigenvalue depends on \alpha+\beta, \lam_k = O(k^{\frac{\alpha+\beta}{N}}).

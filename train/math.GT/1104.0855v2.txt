@@ -1,0 +1,1 @@
+It is known that shape injectivity implies homotopical Hausdorff and that the converse does not hold, even if the space is required to be a Peano continuum. This paper gives an alternative definition of homotopical Hausdorff inspired by a new topology on the set of fixed endpoint homotopy classes of paths. This version is equivalent to shape injectivity for Peano spaces.

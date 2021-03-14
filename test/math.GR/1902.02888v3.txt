@@ -1,0 +1,1 @@
+We prove that for any prime p the finite p-groups of fixed coclass have only finitely many different mod-p cohomology rings between them. This was conjectured by Carlson; we prove it by first proving a stronger version for groups of bounded rank.

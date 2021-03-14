@@ -1,0 +1,1 @@
+We introduce the notion of homotopically discrete n-fold category as an n-fold generalization of a groupoid with no non-trivial loops. We give two equivalent descriptions of this structure: in terms of a Segal-type model and in terms of iterated internal equivalence relations. We also show that homotopically discrete n-fold categories form an n-fold categorical model of 0-types.

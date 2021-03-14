@@ -1,0 +1,1 @@
+Moreau's decomposition is a powerful nonlinear hilbertian analysis tool that has been used in various areas of optimization and applied mathematics. In this paper, it is extended to reflexive Banach spaces and in the context of generalized proximity measures. This extension unifies and significantly improves upon existing results.

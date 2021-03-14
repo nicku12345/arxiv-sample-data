@@ -1,0 +1,1 @@
+General stochastic equations with jumps are studied. We provide criteria for the uniqueness and existence of strong solutions under non-Lipschitz conditions of Yamada-Watanabe type. The results are applied to stochastic equations driven by spectrally positive L\'evy processes.

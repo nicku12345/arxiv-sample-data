@@ -1,0 +1,1 @@
+We prove that the underlying set of an orbifold equipped with the ring of smooth real-valued functions completely determines the orbifold atlas. Consequently, we obtain an essentially injective functor from orbifolds to differential spaces.

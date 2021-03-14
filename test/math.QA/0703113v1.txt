@@ -1,0 +1,1 @@
+Boris Shoikhet noticed that the proof of lemma 1 in section 2.3 of math.QA/0504420 contains an error. In this note I give a correct proof of this lemma which was suggested to me by Dmitry Tamarkin. The correction does not change the results of math.QA/0504420.

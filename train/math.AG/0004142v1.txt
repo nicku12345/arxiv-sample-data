@@ -1,0 +1,1 @@
+We investigate how the chain property for the associated primes of monomial degenerations of toric (or lattice) ideals can be generalized to arbitrary A-graded ideals. The generalization works in dimension d=2, but it fails for d>2.

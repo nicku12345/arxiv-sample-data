@@ -1,0 +1,1 @@
+It is shown in what way monomial group connects Abelian group Z^{n} and total linear group GL(n). It is shown that any subgroup of Abelian group Z^{n} induces subgroup of monomial group S_{2}\wr S_n}, which in its turn induces corresponding subgroup of GL_{n}(R).

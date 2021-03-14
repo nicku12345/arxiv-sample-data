@@ -1,0 +1,1 @@
+We considered the problem of obtaining upper bounds for the mathematical expectation of the q-norm (2\leqslant q \leqslant \infty) of the vector which is uniformly distributed on the unit Euclidean sphere. We finish the paper with numerical experiments illustrating our results.

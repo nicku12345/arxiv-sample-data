@@ -1,0 +1,1 @@
+An MV-module is an MV-algebra endowed with a scalar multiplication with scalars in a PMV-algebra (i.e. an MV-algebra endowed with a binary "ring-like" product). We investigate the class of semisimple MV-modules over a semisimple and totally ordered integral domain, and we prove an adjunction with a special class of linear spaces.

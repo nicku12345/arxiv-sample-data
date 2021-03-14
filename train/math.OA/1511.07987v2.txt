@@ -1,0 +1,1 @@
+We prove that, for every complex Hilbert space H, every weak-2-local derivation on B(H) or on K(H) is a linear derivation. We also establish that every weak-2-local derivation on an atomic von Neumann algebra or on a compact C^*-algebra is a linear derivation.

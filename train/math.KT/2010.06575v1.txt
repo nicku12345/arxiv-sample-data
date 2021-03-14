@@ -1,0 +1,1 @@
+D. Rudenko proved the homotopy invariance of the truncated polylogarithmic complexes. It follows that on these complexes there is the norm map with good proprieties. We apply his result and get the explicit formula for the norm map in the case of quadratic extensions.

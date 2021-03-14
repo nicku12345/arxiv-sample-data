@@ -1,0 +1,1 @@
+In this paper we use a certain class of well-monotone covers on a quasi-uniform space (X, \mathcal{U}) to investigate whether there are quasi-uniformities \mathcal{V} that are distinct from \mathcal{U}, but have the property that the associated Hausdorff quasi-uniformities \mathcal{U}_H and \mathcal{V}_H on the hyperspace of X have the same underlying topologies.

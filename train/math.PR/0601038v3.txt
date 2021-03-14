@@ -1,0 +1,1 @@
+In this paper, we derive the exact rate of convergence of some approximation schemes associated to scalar stochastic differential equations driven by a fractional Brownian motion with Hurst index H.

@@ -1,0 +1,1 @@
+This is the third part of the work on the exact triangles. We construct chain homomorphisms and show exactness of the resulting sequence.

@@ -1,0 +1,1 @@
+We study the typical behavior of the least common multiple of the elements of a random subset A\subset \{1,\dots, n\}. For example we prove that \text{lcm}\{a:\ a\in A\}=2^{n(1+o(1))} for almost all subsets A\subset\{1,\dots,n\}.

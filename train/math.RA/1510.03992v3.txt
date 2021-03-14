@@ -1,0 +1,1 @@
+For any unital commutative ring R and for any graph E, we identify the commutative core of the Leavitt path algebra of E with coefficients in R, which is a maximal commutative subalgebra of the Leavitt path algebra. Furthermore, we are able to characterize injectivity of representations which gives a generalization of the Cuntz-Krieger uniqueness theorem.

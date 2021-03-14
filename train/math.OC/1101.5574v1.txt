@@ -1,0 +1,1 @@
+We show that the lower limit of a sequence of maximal monotone operators on a reflexive Banach space is a representable monotone operator. As a consequence, we obtain that the variational sum of maximal monotone operators and the variational composition of a maximal monotone operator with a linear continuous operator are both representable monotone operators.

@@ -1,0 +1,1 @@
+We show the uniqueness and disjointness of Klyachko models for GL(n,F) over a non-archimedean local field F. This completes, in particular, the study of Klyachko models on the unitary dual. Our local results imply a global rigidity property for the discrete automorphic spectrum.

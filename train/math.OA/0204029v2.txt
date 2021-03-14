@@ -1,0 +1,1 @@
+Let H be a compact quantum group with faithful Haar measure and bounded counit. If H acts on a C*-algebra A, we show that A is nuclear if and only if its fixed-point subalgebra is nuclear. As a consequence H is a nuclear C*-algebra.

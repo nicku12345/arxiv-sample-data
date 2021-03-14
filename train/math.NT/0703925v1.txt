@@ -1,0 +1,1 @@
+Given positive integers a,b,c and d such that c and d are coprime we show that the primes p=c(mod d)dividing a^k+b^k for some k>=1 have a natural density and explicitly compute this density.   We demonstrate our results by considering some claims of Fermat that he made in a 1641 letter to Mersenne.

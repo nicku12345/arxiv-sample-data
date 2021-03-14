@@ -1,0 +1,1 @@
+It is shown that the spatial Sobolev norms of regular global solutions of the (2+1),(3+1) and (4+1)-dimensional Klein-Gordon-Schroedinger system and the (2+1) and (3+1)-dimensional Zakharov system grow at most polynomially with the bound depending on the regularity class of the data. The proof uses the Fourier restriction norm method.

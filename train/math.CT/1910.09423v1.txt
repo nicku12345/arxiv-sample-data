@@ -1,0 +1,1 @@
+In analogy with the classical theory of filters, for finitely complete categories, we provide the concepts of filter, G-neighborhood (short for \Grothendieck-neighborhood") and cover-neighborhood of a point, with the aim of studying convergence, cluster point and closure of sieves on objects of that kind of categories.

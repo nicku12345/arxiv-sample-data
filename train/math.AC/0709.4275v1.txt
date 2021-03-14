@@ -1,0 +1,1 @@
+We establish the complex analogue of Ullemar's formula for polynomial domains. We show that the Jacobian of the complex moment mapping is equal to the self-resultant of the defining polynomial.

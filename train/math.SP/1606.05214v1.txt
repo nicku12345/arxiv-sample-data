@@ -1,0 +1,1 @@
+In this paper we introduce a parameter Mm(G), defined as the maximum over the minimal multiplicities of eigenvalues among all symmetric matrices corresponding to a graph G. We compute Mm(G) for several families of graphs.

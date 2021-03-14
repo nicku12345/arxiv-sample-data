@@ -1,0 +1,1 @@
+We construct a polynomial invariant, for links in a Seifert fibered or atoroidal rational homology 3-sphere, which generalizes the 2-variable Jones polynomial (HOMFLY). As a consequence, we show that the dual of the HOMFLY skein module of a homotopy 3-sphere is isomorpic to that of the genuine 3-sphere .

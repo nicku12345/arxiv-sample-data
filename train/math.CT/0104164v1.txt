@@ -1,0 +1,1 @@
+Some differential equations are considered in the context of Synthetic Differential Geometry. Here, this means that not only nilpotent infinitesimals, but also the formation of function spaces, is exploited. In particular, we utilize distribution spaces in our study of wave and heat equations.

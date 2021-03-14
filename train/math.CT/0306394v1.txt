@@ -1,0 +1,1 @@
+In this paper we survey the fundamental constructions of a presheaf topos in the case of the elementary topos of graphs. We prove that the transition graphs of nondeterministic automata (a.k.a. labelled transition systems) are the separated presheaves for the double negation topology, and obtain as an application that their category is a quasitopos.

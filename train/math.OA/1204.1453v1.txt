@@ -1,0 +1,1 @@
+We discuss when a unital homomorphism {\phi} : C(X) \rightarrow A can be approximated by finite-dimensional homomorphisms, where X is a compact metric space and A is unital simple C*-algebra with tracial rank one. In this paper, we will give a necessary and sufficient condition.

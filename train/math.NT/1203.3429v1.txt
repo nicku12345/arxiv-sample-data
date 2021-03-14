@@ -1,0 +1,1 @@
+We work out an example, for a CM elliptic curve E defined over a real quadratic field F, of Zagier's conjecture. This relates L(E,2) to values of the elliptic dilogarithm function at a divisor in the Jacobian of E which arises from K-theory.

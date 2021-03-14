@@ -1,0 +1,1 @@
+Given a symplectic surface (\Sigma, \omega) of genus g \ge 4, we show that the free group with two generators embeds into every asymptotic cone of (\mathrm{Ham}(\Sigma, \omega), d_\mathrm{H}), where d_\mathrm{H} is the Hofer metric. The result stabilizes to products with symplectically aspherical manifolds.

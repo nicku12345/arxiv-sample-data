@@ -1,0 +1,1 @@
+We give an upper bound on the z-degree of the Kauffman polynomial of a link, using bridges of length greater than one which are separated in some tangle decomposition of a link diagram. We construct some examples by wiring together rational tangles.

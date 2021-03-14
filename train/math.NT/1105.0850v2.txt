@@ -1,0 +1,1 @@
+In this short note, we shall construct a certain topological family which contains all elliptic curves over Q and, as an application, show that this family provides some geometric interpretations of the Hasse-Weil L-function of an elliptic curve over Q whose Mordell-Weil group is of rank \leq1.

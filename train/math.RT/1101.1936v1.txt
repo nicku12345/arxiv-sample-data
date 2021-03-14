@@ -1,0 +1,1 @@
+We show that a right artinian ring R is right self-injective if and only if \psi(M)=0 (or equivalently \phi(M)=0) for all finitely generated right R-modules M, where \psi, \phi : \mod R \to \mathbb N are functions defined by Igusa and Todorov. In particular, an artin algebra \Lambda is self-injective if and only if \phi(M)=0 for all finitely generated right \Lambda-modules M.

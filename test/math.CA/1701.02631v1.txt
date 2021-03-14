@@ -1,0 +1,1 @@
+We prove that bilinear fractional integral operators and similar multipliers are smoothing in the sense that they improve the regularity of functions. We also treat bilinear singular multiplier operators which preserve regularity and obtain several Leibniz-type rules in the contexts of Lebesgue and mixed Lebesgue spaces.

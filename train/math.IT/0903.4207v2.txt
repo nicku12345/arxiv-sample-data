@@ -1,0 +1,1 @@
+The MacWilliams identity for linear time-invariant convolutional codes that has recently been found by Gluesing-Luerssen and Schneider is proved concisely, and generalized to arbitrary group codes on graphs. A similar development yields a short, transparent proof of the dual sum-product update rule.

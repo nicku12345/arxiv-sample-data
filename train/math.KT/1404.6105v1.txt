@@ -1,0 +1,1 @@
+We borrow ideas from Grothendieck duality theory to noncommutative algebra, and use them to prove a reduction result for Hochschild cohomology for noncommutative algebras which are finite over their center. This generalizes a result over commutative algebras by Avramov, Iyengar, Lipman and Nayak.

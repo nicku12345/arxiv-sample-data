@@ -1,0 +1,1 @@
+We prove a two-term quasi-classical trace asymptotic formula for the functions of multi-dimensional Wiener-Hopf operators with discontinuous symbols. The discontinuities occur on the surfaces which are assumed to be piece-wise smooth. Such a two-term formula was conjectured by H. Widom in 1982, and proved by A. V Sobolev for smooth surfaces in 2009.

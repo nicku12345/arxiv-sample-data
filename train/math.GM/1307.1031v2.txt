@@ -1,0 +1,1 @@
+In this article we solve a class of two parameter polynomial-quintic equation. The solution follows if we consider the Jacobian elliptic function sn and relate it with the coefficients of the equation. The solution is the elliptic singular modulus k.

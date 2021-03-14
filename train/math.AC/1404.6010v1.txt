@@ -1,0 +1,1 @@
+Let I\supsetneq J be two monomial ideals of a polynomial algebra over a field generated in degree \geq d, resp. \geq d+1 . We study when the Stanley Conjecture holds for I/J using the recent result of \cite{IKM} concerning the polarization.

@@ -1,0 +1,1 @@
+The main goal of this note is to provide a new proof of a classical result about projectivities between finite abelian groups. It is based on the concept of fundamental group lattice, studied in our previous papers \cite{8} and \cite{9}. A generalization of this result is also given.

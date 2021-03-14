@@ -1,0 +1,1 @@
+It is proved an amplification of Cusick-Cheon's conjecture on balanced Boolean functions in the cosets of the binary Reed-Muller code RM(k,m) of order k and length 2^m, in the cases where k = 1 or k >= (m-1)/2.

@@ -1,0 +1,1 @@
+We establish certain conditions which imply that a map f:X\to Y of topological spaces is null homotopic when the induced integral cohomology homomorphism is trivial; one of them is: H^*(X) and \pi_*(Y) have no torsion and H^*(Y) is polynomial.

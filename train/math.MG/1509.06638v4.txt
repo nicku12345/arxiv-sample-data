@@ -1,0 +1,1 @@
+We give a geometric characterization of the sets E\subset \mathbb{R} that satisfy the following property: every quasisymmetric embedding f: E \to \mathbb{R}^n extends to a quasisymmetric embedding f:\mathbb{R}\to\mathbb{R}^N for some N\geq n.

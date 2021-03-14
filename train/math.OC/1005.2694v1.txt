@@ -1,0 +1,1 @@
+Nonlinear control algorithm for a self-energizing electro-hydraulic brake is analytically designed. The desired closed-loop system behavior is reached via a synthesized nonlinear controller.

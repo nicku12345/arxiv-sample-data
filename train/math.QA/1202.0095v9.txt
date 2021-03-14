@@ -1,0 +1,1 @@
+We will introduce the notion of higher derived bracket construction in the category of operads and prove that the higher derived bracket construction of Lie operad is equivalent to the cobar construction of Leibniz operad. The theorem is proved by computing Schroder number.

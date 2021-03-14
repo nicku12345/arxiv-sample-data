@@ -1,0 +1,1 @@
+We consider sufficient conditions of local removability of coincidences of maps f,g:N->M, where M,N are manifolds with dimensions dimN>dimM. The coincidence index is the only obstruction to the removability for maps with fibers either acyclic or homeomorphic to spheres of certain dimensions. We also address the normalization property of the index and coincidence-producing maps.

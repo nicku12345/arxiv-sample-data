@@ -1,0 +1,1 @@
+Here the polynomial interpolation approach is used to introduce the main results on multivariate normal algebraic systems. Next we bring a construction which shows that any standard algebraic system, with finite set of solutions, can be reduced to a normal type (total degree) algebraic system.

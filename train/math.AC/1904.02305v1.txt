@@ -1,0 +1,1 @@
+In this paper we provide some exact formulas for the regularity of powers of edge ideals of vertex-weighted oriented cycles and vertex-weighted unicyclic graphs. These formulas are functions of the weight of vertices and the number of edges. We also give some examples to show that these formulas are related to direction selection and the weight of vertices.

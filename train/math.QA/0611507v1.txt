@@ -1,0 +1,1 @@
+The quantum group version of the Bernstein-Gelfand-Gelfand resolution is used to construct a double complex of U_q(g)-modules with exact rows and columns. The locally finite dual of its total complex is identified with the de Rham complex for quantized irreducible flag manifolds.

@@ -1,0 +1,1 @@
+In this note we give defining relations of an \mathfrak{sl}_{n+1}[t]-module defined by the fusion product of simple \mathfrak{sl}_{n+1}-modules whose highest weights are multiples of a given fundamental weight. From this result we obtain a surjective homomorphism between two fusion products, which can be considered as a current algebra analog of Schur positivity.

@@ -1,0 +1,1 @@
+The following two assertions are equivalent for an o-minimal expansion of an ordered group \mathcal M=(M,<,+,0,\ldots). There exists a definable bijection between a bounded interval and an unbounded interval. Any definable continuous function f:A \rightarrow M defined on a definable closed subset of M^n has a definable continuous extension F:M^n \rightarrow M.

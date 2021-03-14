@@ -1,0 +1,1 @@
+We prove a conjecture of Yuster and Caro about the sum of the p-powers of the degrees of a graph of order n without a specified even cycle. Our proof is based on a new sufficient condition for long paths, that may be useful in other applications as well.

@@ -1,0 +1,1 @@
+Let F and K be number fields, with F contained in K. and let O_F and O_K be their rings of integers. If there exists an elliptic curve E over F such that E(F) and E(K) have rank 1, then there exists a diophantine definition of O_F over O_K.

@@ -1,0 +1,1 @@
+This is an expository paper on the meromorphic continuation of zeta functions with Euler products (for example zeta functions of groups and height zeta functions) or without (for example the Goldbach zeta function). As an application we show how a natural boundary of analytic continuation can give asymptotic results.

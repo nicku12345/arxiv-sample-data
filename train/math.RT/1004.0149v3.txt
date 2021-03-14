@@ -1,0 +1,1 @@
+Let G be a connected reductive group defined over \CC with a finite dimensional representation V. The action of G is said to be skew multiplicity-free (SMF) if the exterior algebra \bigwedge V contains no irreducible representation of G with multiplicity > 1. In this paper we classify all such representations.

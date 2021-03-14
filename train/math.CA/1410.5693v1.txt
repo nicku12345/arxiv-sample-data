@@ -1,0 +1,1 @@
+For every set S of finite measure in \mathbb{R} we construct a discrete set of real frequencies \Lambda such that the exponential system \{\exp(i\lambda t),\lambda\in\Lambda\} is a frame in L^2(S)

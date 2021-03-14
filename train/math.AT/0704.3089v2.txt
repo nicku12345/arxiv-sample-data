@@ -1,0 +1,1 @@
+Two virtual link diagrams are homotopic if one may be transformed into the other by a sequence of virtual Reidemeister moves, classical Reidemeister moves, and self crossing changes. We recall the pure virtual braid group. We then describe the set of pure virtual braids that are homotopic to the identity braid.

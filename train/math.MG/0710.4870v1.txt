@@ -1,0 +1,1 @@
+In a locally finite tiling of n-dim Euclidean space by convex polytopes, each point of the space is either a vertex of at least two tiles, or no vertex at all.

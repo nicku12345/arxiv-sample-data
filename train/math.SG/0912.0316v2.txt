@@ -1,0 +1,1 @@
+We prove that the derived Fukaya category of the Lefschetz fibration defined by a Brieskorn-Pham polynomial is equivalent to the triangulated category of singularities associated with the same polynomial together with a grading by an abelian group of rank one. Symplectic Picard-Lefschetz theory developed by Seidel is an essential ingredient of the proof.

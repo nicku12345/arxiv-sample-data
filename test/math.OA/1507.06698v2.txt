@@ -1,0 +1,1 @@
+A commuting family of subnormal operators need not have a commuting normal extension. We study when a representation of an abelian semigroup can be extended to a normal representation, and show that it suffices to extend the set of generators to commuting normals. We also extended a result due to Athavale to representations on abelian lattice ordered semigroups.

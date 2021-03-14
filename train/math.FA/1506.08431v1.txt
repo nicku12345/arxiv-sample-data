@@ -1,0 +1,1 @@
+We construct a purely unrectifiable set of finite \mathcal H^1-measure in every infinite dimensional separable Banach space X whose image under every 0\neq x^*\in X^* has positive Lebesgue measure. This demonstrates completely the failure of the Besicovitch-Federer projection theorem in infinite dimensional Banach spaces.

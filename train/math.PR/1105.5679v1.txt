@@ -1,0 +1,1 @@
+We show that an isotropic self-similar Markov process in {\Bbb R}^d has a skew product structure if and only if its radial and angular parts do not jump at the same time.

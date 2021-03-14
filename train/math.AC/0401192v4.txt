@@ -1,0 +1,1 @@
+For a big class of commutative rings R every continuous R-automorphism of R[[X_1,...,X_n]] with the identity linear part is in the commutator subgroup of Aut(R[[X_1,...,X_n]]). An explicit bound for the number of the involved commutators and a K-theoretic interpretation of this result are provided.

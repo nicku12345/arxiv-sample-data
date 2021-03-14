@@ -1,0 +1,1 @@
+We prove that the sumset {p^2+b^2+2^n: p is prime and b,n\in N} has positive lower density. We also construct a residue class with odd modulo, which contains no integer of the form p^2+b^2+2^n. And similar results are established for the sumset {b_1^2+b_2^2+2^{n^2}: b_1,b_2,n\in N}.

@@ -1,0 +1,1 @@
+We present new computational results for symplectic monodromy groups of hypergeometric differential equations. In particular, we compute the arithmetic closure of each group, sometimes justifying arithmeticity. The results are obtained by extending our previous algorithms for Zariski dense groups, based on the strong approximation and congruence subgroup properties.

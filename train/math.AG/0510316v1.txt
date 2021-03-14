@@ -1,0 +1,1 @@
+The author constructs a theory of dagger formal schemes over R and then defines the de Rham cohomology for flat dagger formal schemes X with integral and regular reductions \bar{X} which generalizes the Monsky-Washnitzer cohomology. Finally the author gets Lefschetz' fixed pointed formula for X with certain conditions.

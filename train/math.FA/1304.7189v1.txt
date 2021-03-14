@@ -1,0 +1,1 @@
+Let s be the space of rapidly decreasing sequences. We give the spectral representation of normal elements in the Fr\'echet algebra L(s',s) of the so-called smooth operators. We also characterize closed commutative *-subalgebras of L(s',s) and establish a H\"older continuous functional calculus in this algebra. The key tool is the property (DN) of s.

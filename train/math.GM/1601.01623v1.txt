@@ -1,0 +1,1 @@
+In this article we propose a new fractional derivative without singular kernel. We consider the potential application for modeling the steady heat-conduction problem. The analytical solution of the fractional-order heat flow is also obtained by means of the Laplace transform.

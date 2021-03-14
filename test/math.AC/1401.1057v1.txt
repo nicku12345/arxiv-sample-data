@@ -1,0 +1,1 @@
+Let I be the edge ideal of a clutter \mathcal{C} in a polynomial ring S. In this paper, we present estimations of the Stanley depth of I as well as the Stanley regularity of S/I, in terms of combinatorial data from the clutter \mathcal{C}.

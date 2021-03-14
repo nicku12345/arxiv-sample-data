@@ -1,0 +1,1 @@
+A Galois field extension E/F whose Galois group is a pro-2-group of an exponent of at most 8, with a nilpotency class of at most 4, is determined, such that it contains essential information about the Witt rings of all quadratic extensions of F.

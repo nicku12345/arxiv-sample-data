@@ -1,0 +1,1 @@
+We examine the exponential generating function for the number of symmetric involutions (A000898 in OEIS) and point out that Robinson's asymptotic formula for its coefficients is incorrect. We further supply the correct formula.

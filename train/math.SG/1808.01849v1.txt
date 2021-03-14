@@ -1,0 +1,1 @@
+We explain how to generalize Lazzarini's structural Theorem from [Laz11] to the case of curves with boundary on a given Lagrangian immersion. As a consequence of this result, we show that we can compute Floer homology with time-independent almost complex structures. We also give some applications as well as topics for future work.

@@ -1,0 +1,1 @@
+This paper is the second one in a series of papers about operations in motivic cohomology. Here we show that in the context of smooth schemes over a field of characteristic zero all the bi-stable operations can be obtained in the usual way from the motivic reduced powers and the Bockstein homomorphism.

@@ -1,0 +1,1 @@
+Using Dold--Puppe category approach to the duality in topology, we prove general duality theorem for the category of motives. As one of the applications of this general result we obtain, in particular, a generalization of Friedlander--Voevodsky's duality to the case of arbitrary base field characteristic.

@@ -1,0 +1,1 @@
+A sequence of non-negative integers is called a B_k sequence if all the sums of arbitrary k elements are different. In this paper, we will present a new estimation for the upper bound of B_k sequences.

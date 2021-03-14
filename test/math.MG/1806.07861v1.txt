@@ -1,0 +1,1 @@
+A finite set of distinct vectors \mathcal{X} in the d-dimensional Euclidean space \mathbb{R}^d is called a 2-distance set, if the set of mutual distances between distinct elements of \mathcal{X} has cardinality exactly 2. In this note we classify the 2-distance sets in \mathbb{R}^4 up to isometry with computer-aided methods.

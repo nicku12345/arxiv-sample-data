@@ -1,0 +1,1 @@
+Let \Delta(d,n) denote the maximum diameter of a d-dimensional polyhedron with n facets. In this paper, we propose a unified analysis of a recursive inequality about \Delta(d,n) established by Kalai and Kleitman in 1992. This yields much simpler proofs of a tail--polynomial and tail--almost--linear bounds on \Delta(d,n) which are recently discussed by Gallagher and Kim.

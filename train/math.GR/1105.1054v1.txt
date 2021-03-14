@@ -1,0 +1,1 @@
+The following result is received: Let H be a non-normal maximal subgroup of a finite solvable group G and let q \in \pi(F(H/\mathrm{Core}_GH)), then G has a Sylow q-subgroup Q such that N_{G}(Q) \subseteq H.

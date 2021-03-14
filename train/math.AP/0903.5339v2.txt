@@ -1,0 +1,1 @@
+In this {\bf draft version} we prove inhomogeneous Strichartz estimates with spherical symmetry in the abstract setting via duality arguments. Then we derive some new explicit estimates in the context of the wave equation. This allows us to prove global existence of spherically symmetric solutions to the Dirac-Klein-Gordon (DKG) system in two space dimensions.

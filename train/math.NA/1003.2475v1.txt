@@ -1,0 +1,1 @@
+We construct and analyze a preconditioner of the linear elastiity system discretized by conforming linear finite elements in the framework of the auxiliary space method. The auxiliary space preconditioner is based on discretization of a scalar elliptic equation with Generalized Finite Element Method.

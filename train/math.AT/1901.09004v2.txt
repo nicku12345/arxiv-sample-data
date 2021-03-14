@@ -1,0 +1,1 @@
+In this survey, we review how the global structure of the stable homotopy category gives rise to the chromatic filtration. We then discuss computational tools used in the study of local chromatic homotopy theory, leading up to recent developments in the field. Along the way, we illustrate the key methods and results with explicit examples.

@@ -1,0 +1,1 @@
+We show that there are only finitely many homogeneous links whose Conway polynomial has any given degree. Using this we give an example of an inhomogeneous, fibred knot. Secondly, we show how to compute the monodromy of a homogeneous link complement from a homogeneous braid word representative.

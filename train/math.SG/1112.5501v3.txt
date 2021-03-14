@@ -1,0 +1,1 @@
+In this paper, we prove there exist at least [\frac{n+1}{2}]+1 geometrically distinct closed characteristics on every compact convex hypersurface \Sg in \R^{2n}. Moreover, there exist at least [\frac{n}{2}]+1 geometrically distinct non-hyperbolic closed characteristics on \Sg in \R^{2n} provided the number of geometrically distinct closed characteristics on \Sg is finite.

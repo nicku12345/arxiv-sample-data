@@ -1,0 +1,1 @@
+We consider the semilinear wave equation with power nonlinearity in one space dimension. We consider an arbitrary blow-up solution u(x,t), the graph x\mapsto T(x) of its blow-up points and {\cal S}\subset {\mathbb R} the set of all characteristic points. We show that {\ca S} is locally finite.
